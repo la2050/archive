@@ -1,0 +1,334 @@
+
+
+  /* =Sections
+  ----------------------------------------------- */
+  .goals .item {
+    margin-top: 0;
+    padding-top: 1.5em;
+    min-height: 0;
+  }
+  .goals .item h3,
+  .goals .item h4,
+  .goals .item p {
+    /*max-width: none;*/
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  /* JavaScript will add this classname */
+  .goals .item.hidden {
+    display: none;
+  }
+
+
+  /* =Headlines
+  ----------------------------------------------- */
+  .goals .item.blueberry h3 {
+    color: rgb(6, 179, 188); /* @blueberry */
+  }
+  .goals .item.lime h3 {
+    color: rgb(141, 208, 59); /* @lime */
+  }
+  .goals .item.banana h3 {
+    color: rgb(255, 194, 51); /* @banana */
+  }
+  .goals .item.tangerine h3 {
+    color: rgb(249, 160, 51); /* @tangerine */
+  }
+  .goals .item.strawberry h3 {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .goals .item h3 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    font-weight: 900; /* @black */
+    line-height: 1;
+  }
+  @media (min-width: 40em) {
+    .goals .item h3 {
+      font-size: 3em;
+      font-size: 6vw;
+    }
+  }
+
+
+  /* =Image
+  ----------------------------------------------- */
+  .goals .standard-figure {
+    margin-top: 0;
+    margin-bottom: 2.25em;
+    position: relative;
+  }
+  .goals .standard-figure p::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+    z-index: 1;
+  }
+
+
+  /* =Metrics
+  ----------------------------------------------- */
+  .goals .metrics ul {
+    max-width: none;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .goals .metrics ul {
+      column-count: 2;
+      column-gap: 3em;
+    }
+  }
+  @media (min-width: 60em) {
+    .goals .metrics ul {
+      padding-bottom: 3rem;
+    }
+  }
+  @media (min-width: 60em) {
+    .goals .metrics ul {
+      font-size: 0.875em;
+      column-count: 3;
+    }
+  }
+  .goals .metrics ul li {
+    page-break-inside: avoid;
+  }
+  .goals .metrics {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    padding: 1.5rem 1.5rem 6rem;
+    margin-top: 3em;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .goals .metrics {
+      margin-left: -4.5rem;
+      margin-right: -4.5rem;
+      padding: 3rem 3rem 6rem;
+    }
+  }
+  .goals .metrics h4,
+  .goals .metrics ul {
+    margin-top: 0;
+    color: inherit;
+  }
+  .goals .metrics h4 {
+    position: relative;
+    z-index: 1;
+    background-color: rgb(249, 160, 51); /* @tangerine */
+    font-size: 1.25em;
+    line-height: 6em;
+    width: 6em;
+    border-radius: 50%;
+    text-align: center;
+    text-transform: uppercase;
+    margin: -3em auto 1.5em;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .goals .metrics h4 {
+      margin-top: -4.5em;
+    }
+  }
+  .goals .metrics ul {
+    margin-bottom: 0;
+  }
+
+  .goals .tangerine .metrics {
+    background-color: rgb(249, 160, 51); /* @tangerine */
+    background-color: rgb(229, 140, 31); /* @darker-tangerine */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .goals .lime .metrics {
+    background-color: rgb(141, 208, 59); /* @lime */
+    background-color: rgb(121, 188, 39); /* @darker-lime */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .goals .blueberry .metrics {
+    background-color: rgb(6, 179, 188); /* @blueberry */
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .goals .banana .metrics {
+    background-color: rgb(255, 194, 51); /* @banana */
+    background-color: rgb(235, 174, 31); /* @darker-banana */
+    color: white ;
+  }
+  .goals .strawberry .metrics {
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+
+  .goals .tangerine .metrics h4 {
+    background-color: rgb(255, 180, 71); /* @brighter-tangerine */
+    background-color: rgb(249, 160, 51); /* @tangerine */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .goals .lime .metrics h4 {
+    background-color: rgb(161, 228, 79); /* @brighter-lime */
+    background-color: rgb(141, 208, 59); /* @lime */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .goals .blueberry .metrics h4 {
+    background-color: rgb(26, 189, 208); /* @brighter-blueberry */
+    color: rgb(255, 194, 51); /* @banana */
+    color: white ;
+  }
+  .goals .banana .metrics h4 {
+    background-color: rgb(255, 214, 71); /* @brighter-banana */
+    background-color: rgb(255, 194, 51); /* @banana */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .goals .strawberry .metrics h4 {
+    background-color: rgb(255, 79, 156); /* @brighter-strawberry */
+    color: white ;
+  }
+
+
+  /* =Layout
+  ----------------------------------------------- */
+
+  /* Remove whitespace between goals and .standard-figure */
+  .goals .item {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .goals ~ .standard-figure {
+    margin-top: 0;
+  }
+  @media (min-width: 60em) {
+    .goals ~ .standard-figure {
+      margin-top: -1.5em;
+    }
+  }
+
+
+  /* =Grid
+  ----------------------------------------------- */
+  @supports (display: grid) {
+    @media (min-width: 60em) {
+      .goals .item {
+        align-items: start;
+        display: grid;
+        width: 100%;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 6em;
+        grid-row-gap: 2.25em;
+        grid-template-rows: minmax(33.333vw, auto) auto;
+      }
+      .goals .description {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+      }
+      .goals .metrics {
+        margin-top: 0;
+        grid-column: 1 / 3;
+        grid-row: 2 / 3;
+        padding-bottom: 3rem;
+      }
+      .goals .standard-figure {
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+        margin: 0;
+      }
+      .goals .standard-figure {
+        position: relative;
+        justify-self: stretch;
+        align-self: stretch;
+        margin-left: -4.5em;
+        margin-bottom: -2.25em;
+        margin-right: -3em;
+      }
+      .goals .standard-figure p {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      .goals .standard-figure p::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+        z-index: 1;
+      }
+      .goals .standard-figure img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        max-width: 100%;
+      }
+    }
+  }
+
+
+
+  .goals-proposals ul,
+  .goals-proposals li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .goals-proposals ul {
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .goals-proposals .item h3 {
+  }
+  @media (min-width: 40em) {
+    .goals-proposals .item h3 {
+      font-size: 3em;
+    }
+  }
+
+  .goals-proposals .item figure img {
+    position: static;
+    height: auto;
+  }
+
+  @supports (display: grid) {
+    @media (min-width: 60em) {
+      .goals-proposals .item {
+        grid-template-rows: auto auto;
+        grid-column-gap: 3em;
+        grid-row-gap: 4.5em;
+      }
+      .goals-proposals a.item,
+      .goals-proposals a.item:hover,
+      .goals-proposals a.item:active,
+      .goals-proposals a.item:focus {
+        text-decoration: none;
+        color: inherit;
+      }
+      .goals-proposals a.item {
+        border-width: 0.1875em 0 0 0;
+        border-style: solid;
+        border-color: rgba(0, 0, 0, 0.15);
+        margin-top: 3em;
+        padding-top: 4.5em;
+      }
+      .goals-proposals li:nth-of-type(2n+1) .standard-figure {
+        grid-column: 1 / 2;
+        margin-right: 0em;
+      }
+      .goals-proposals li:nth-of-type(2n) .standard-figure {
+        grid-column: 2 / 3;
+        margin-left: 0em;
+      }
+      .goals-proposals li:nth-of-type(2n) .description {
+        grid-column: 1 / 2;
+      }
+    }
+  }
+

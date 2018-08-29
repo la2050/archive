@@ -1,0 +1,982 @@
+
+  .links h2 {
+    color: var(--primary-color, inherit) !important;
+    color: inherit !important;
+  }
+  .links h2,
+  .links h3 {
+    /*margin-top: 0;*/
+    font-size: 0.875em;
+    font-weight: 500;
+    line-height: 1.7142857143;
+    /*text-transform: uppercase;*/
+    font-style: italic;
+    /*letter-spacing: 0.05em;*/
+    color: var(--secondary-color, inherit) !important;
+    color: var(--primary-color, inherit) !important;
+    color: inherit !important;
+    margin-bottom: 0;
+  }
+
+
+  @media (min-width: 40em) {
+    .links .action {
+      font-size: 0.875em;
+    }
+  }
+  .links .action a {
+    background: var(--secondary-color, black);
+    border-color: var(--secondary-color, black);
+    background: var(--primary-color, black);
+    border-color: var(--primary-color, black);  
+    color: white;
+  }
+  .links .action a:hover,
+  .links .action a:active,
+  .links .action a:focus {
+    background: white;
+    color: var(--secondary-color, black);
+    border-color: var(--secondary-color, black);
+    color: var(--primary-color, black);
+    border-color: var(--primary-color, black);
+  }
+  .links-involved .action a {
+    background: white;
+    color: black;
+    border-color: black;
+    color: var(--primary-color, black);
+    border-color: var(--primary-color, black);
+  }
+  .links-involved .action a:hover,
+  .links-involved .action a:active,
+  .links-involved .action a:focus {
+    background: black;
+    border-color: black;
+    background: var(--primary-color, black);
+    border-color: var(--primary-color, black);
+    color: white;
+  }
+
+  .proposal-introduction .category a {
+    color: inherit;
+    color: var(--primary-color, inherit);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .proposal-introduction .category a:hover,
+  .proposal-introduction .category a:active,
+  .proposal-introduction .category a:focus {
+    color: inherit;
+    color: var(--secondary-color, inherit);
+  }
+
+  .proposal-introduction h1 {
+    margin-top: 0;
+    color: inherit;
+    color: var(--secondary-color, inherit);
+    color: var(--primary-color, inherit);
+    font-size: 1.5em;
+    line-height: 1.25;
+    font-weight: bold;
+    letter-spacing: inherit;
+    text-transform: none;
+  }
+  @media (min-width: 40em) {
+    .proposal-introduction h1 {
+      font-size: 2.25em;
+      line-height: 1.25;
+      max-width: 17.7777777778em; /* @max-line-length / 2.25em */
+    }
+  }
+  .proposal-introduction h2.organization {
+    color: var(--secondary-color, inherit);
+    color: inherit;
+    font-weight: 600;
+  }
+  .proposal-introduction h1,
+  .proposal-introduction h2,
+  .proposal-introduction h3,
+  .proposal-introduction p {
+    margin-left: 0;
+  }
+
+  .proposal-header {
+    grid-column: 2/-1;
+    grid-row: 1/2;
+  }
+  .proposal-header > p:first-child {
+    margin-top: 0;
+    margin-left: 0;
+    /*max-width: none;*/
+    color: inherit;
+    color: var(--primary-color, inherit);
+    font-weight: 600;
+  }
+  .proposal-description {
+    grid-column: 2/4;
+    grid-row: 2/3;
+  }
+  .proposal-introduction figure {
+    max-width: 40em;
+  }
+/*  .proposal-introduction h1 {
+    max-width: none;
+  }*/
+
+  @media (min-width: 70em) {
+    hr {
+      margin-top: 1.5em;
+      margin-bottom: 1.5em;
+    }
+  }
+
+
+  @media (min-width: 60em) {
+    .proposal-answers {
+      font-size: 0.875em;
+    }
+  }
+
+  @media (min-width: 70em) { /* Just wide enough to avoid wrapping the donate / volunteer buttons */
+    .proposal-introduction {
+      display: grid;
+      grid-template-columns: calc(50% - 1.5em) calc(25% - 3em) calc(25% - 1.5em);
+      grid-template-rows: auto 1fr; /* Shrink-wrap the first row */
+      grid-column-gap: 3em;
+      grid-row-gap: 0;
+    }
+
+    .links {
+      grid-column: 1/2;
+    }
+    .links-action {
+      grid-column: 1/2;
+      grid-row: 4/5;
+      margin-bottom: -0.25em; /* SHIM: Compensate for list item margin */
+      justify-self: end;
+    }
+    .links-involved {
+      grid-row: 4/5;
+      grid-column: 2/-1;
+    }
+/*    .links.links-involved h2 {
+      text-align: right !important;
+    }*/
+    .links-more {
+      grid-column: 1/-1;
+    }
+    .links h2,
+    .links h3 {
+      text-align: left !important;
+    }
+    .links h2:first-child,
+    .links h3:first-child {
+      margin-top: 3.75rem;
+    }
+    .proposal-introduction figure {
+      grid-row: 1/4;
+      grid-column: 1/2;
+      justify-self: end;
+      width: 100%;
+      margin: 0;
+      height: 100%;
+      /*min-height: 25vw;*/
+    }
+
+/*    figure > div {
+      padding-bottom: 0 !important;
+    }
+    figure > div[data-aspect-ratio] a,
+    figure > div[data-aspect-ratio] img {
+      position: relative !important;
+    }
+    figure > div[data-aspect-ratio] a.has-icon {
+      position: relative !important;
+    }*/
+
+
+/*    figure > div {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    figure > div[data-aspect-ratio] a,
+    figure > div[data-aspect-ratio] img {
+      height: 100%;
+    }
+    figure > div[data-aspect-ratio] img {
+      object-fit: cover;
+    }*/
+
+    .proposal-introduction .proposal-answers {
+      grid-column: 2/4;
+    }
+    .proposal-answers h3:first-child {
+      margin-top: 0;
+    }
+/*    .proposal-introduction .proposal-answers h2 {
+      font-size: 1.25em;
+      line-height: 1.25;
+      margin-top: 3rem;
+    }
+    .proposal-introduction .proposal-answers h2:first-child {
+      margin-top: 3rem;
+      margin-top: 0;
+    }*/
+    .proposal-video-figure {
+      max-width: none;
+      margin-top: 0;
+      margin-bottom: 3em;
+      margin-left: -4.5em;
+      margin-right: -4.5em;
+    }
+    .proposal-video-figure .proposal-video {
+      padding-bottom: 56.25%;
+    }
+/*  
+    .has-active-video .proposal-introduction figure {
+      grid-column: 1/-1;
+      grid-row: 1/2;
+    }
+    .has-active-video .proposal-header {
+      grid-column: 1/-1;
+      grid-row: 2/3;
+    }
+    .has-active-video .proposal-description {
+      grid-column: 1/-1;
+      grid-row: 3/4;
+    }*/
+  }
+
+  @media (min-width: 70em) and (max-width: 80em) {
+    .proposal-header {
+      grid-row: 1/2;
+      grid-column: 1/-1;
+    }
+    .proposal-header h1 {
+      margin-bottom: 2.625rem !important;
+      max-width: none;
+    }
+    .proposal-introduction figure {
+      grid-row: 2/4;
+      grid-column: 1/2;
+    }
+  }
+
+
+
+
+
+/***********************************/
+
+
+
+
+  .proposal-in-depth {
+    grid-column: 1/-1;
+  }
+  @media (min-width: 70em) {
+    .proposal-in-depth {
+      display: grid;
+      grid-template-columns: 1fr minmax(auto, 40em) 1fr;
+      grid-gap: 3em;
+    }
+    .proposal-answers {
+      grid-column: 2/3;
+    }
+    .proposal-answers h2:first-child {
+      margin-top: 0;
+    }
+  }
+
+
+  .links p.action,
+  .links ul.action {
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+/*  .links .action a {
+    color: white;
+  }
+  .links .action a:hover,
+  .links .action a:active,
+  .links .action a:focus {
+    color: rgb(6, 179, 188);
+  }
+*/
+
+  .links dt,
+  .links dd {
+    margin-left: 0;
+  }
+  .links dt {
+    margin-top: 0.75em;
+  }
+  .links dd {
+    font-weight: 600;
+    color: rgb(6, 179, 188);
+  }
+  .links-more h2 {
+    margin-top: 0 !important;
+    display: none;
+  }
+  .links-more {
+
+    /* OPTIONAL: Wrap long URLs to the next line */
+    word-break: break-word; /* Non standard for WebKit */
+    word-break: break-all;
+  }
+  .links-more dt,
+  .links-more dd {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .links-more dt {
+    margin-right: 0.5em;
+  }
+/*  .proposal-introduction ~ hr {
+    opacity: 0;
+  }*/
+  @media (min-width: 50em) {
+    .links-more {
+      display: block;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      text-align: center;
+    }
+    .links dl {
+/*      display: block;
+      text-align: center;*/
+/*      display: flex;*/
+      flex-grow: 0;
+      max-width: none;
+      margin: 0.75em 0;
+      display: inline-block;
+    }
+    .links dt {
+      margin-left: 1.5em;
+    }
+    .links dd {
+      margin-right: 1.5em;
+    }
+/*    .links dt {
+      flex-grow: 0;
+      margin-right: 0.5em;
+    }*/
+/*    .links dd {
+      flex-grow: 0;
+    }*/
+/*    .links dt {
+      margin-right: 0.375em;
+      margin-left: 1.5em;
+    }*/
+/*    .links dd {
+      margin-right: 1.5em;
+    }
+    .links dt,
+    .links dd {
+      display: inline-block;
+      vertical-align: middle;
+    }*/
+    .proposal-introduction + hr {
+      margin-bottom: 0.75em;
+    }
+    .links-more + hr {
+      margin-top: 0.75em;
+    }
+  }
+
+
+  .links.has-limit-greater-than-one dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    text-align: left;
+  }
+  @media (min-width: 50em) {
+    .links.has-limit-greater-than-one dl {
+      display: inline-grid;
+    }
+  }
+
+
+  @media (min-width: 70em) {
+    .proposal-introduction + hr {
+      margin-top: 3em;
+      margin-bottom: -0.75em;
+    }
+    .links-more + hr {
+      margin-top: -0.5em;
+      margin-bottom: 3em;
+    }
+  }
+/*  @media (min-width: 40em) {
+    .links dl {
+      grid-template-columns: 1em minmax(10em, auto) 1em minmax(10em, auto);
+    }
+  }*/
+/*  @media (min-width: 80em) {
+    .links dl {
+      grid-template-columns: 1em 1fr 1em 1fr 1em 1fr 1em 1fr;
+    }
+  }*/
+  .links dt {
+    margin-top: 0;
+    justify-self: end;
+    align-self: center;
+    text-align: right;
+  }
+  .links dd {
+    align-self: center;
+  }
+  .links dd a {
+    /*color: var(--primary-color) !important;*/
+  }
+
+
+  .links dd .action {
+    margin: 0;
+  }
+  .links dd .action a {
+    display: block;
+    text-align: center;
+  }
+  .links svg {
+    width: 1em;
+    height: 1em;
+    display: block;
+  }
+  .links dl,
+  .links dt,
+  .links dd {
+    color: inherit;
+  }
+  .links dl a {
+    color: var(--primary-color, inherit);
+    color: inherit;
+  }
+  .links dl a:hover,
+  .links dl a:active,
+  .links dl a:focus {
+    color: inherit;
+    color: var(--secondary-color, inherit);
+  }
+
+  .links ul a {
+  }
+  .links ul.action,
+  .links ul.action li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  @media (min-width: 70em) {
+    .links h2,
+    .links h3,
+    .links ul.action {
+      max-width: none;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+  .links p.action,
+  .links ul.action li {
+    margin: 0.25em;
+    text-align: center;
+  }
+  .links p.action {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .links ul.action {
+    margin-left: -0.25em;
+    margin-right: -0.25em;
+  }
+  .links p.action a,
+  .links ul.action a {
+    display: block;
+    border-radius: 0;
+  }
+  @supports (display: flex) {
+    .links ul.action {
+      display: flex;
+      flex-wrap: wrap;
+      /*justify-content: center;*/
+    }
+/*    .links ul.action li {
+      flex-grow: 1;
+    }*/
+  }
+/*  @supports (display: grid) {
+    .links ul.action {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-column-gap: 3em auto;
+    }
+  }*/
+
+
+
+
+/***********************************/
+
+
+
+
+  /* =Icon Button
+  ----------------------------------------------- */
+  a.has-icon {
+    display: block;
+    position: relative;
+    text-decoration: none
+  }
+  figure > div[data-aspect-ratio] a.has-icon {
+    position: absolute;
+  }
+
+  .has-icon .icon {
+    position: absolute;
+    top: 0.725em;
+    right: 0.725em;
+    background: white;
+    background: rgba(255, 255, 255, 0.75);
+    color: black;
+    background: rgba(254, 254, 254, 0.75); /* @snow */
+    background: black;
+    border: 0.1875em solid black;
+    background: var(--secondary-color, black);
+    border: 0.1875em solid var(--secondary-color, black);
+    background: var(--primary-color, black);
+    border: 0.1875em solid var(--primary-color, black);
+    color: rgb(41, 41, 41); /* @midnight */
+    color: rgb(254, 254, 254); /* @snow */
+    padding: 0;
+    width: 5em;
+    line-height: 5em;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+    /*font-size: 1.5em;*/
+    text-align: center;
+    display: flex;
+    width: 3em;
+    height: 3em;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    padding: 0;
+    transform: translate(-50%, -50%);
+    opacity: 0.75;
+    background: rgb(254, 254, 254); /* @snow */
+    border-color: var(--secondary-color, black);
+    color: var(--secondary-color, black);
+    border-color: var(--primary-color, black);
+    border-color: white;
+    color: var(--primary-color, black);
+    color: black;
+    background: black;
+    color: white;
+    border-color: transparent;
+    transition: all 0.2s;
+  }
+
+  .has-icon:hover .icon,
+  .has-icon:active .icon,
+  .has-icon:focus .icon {
+    background-color: black;
+    background-color: var(--primary-color, black);
+    opacity: 1;
+  }
+
+  .has-icon .icon {
+    vertical-align: middle
+  }
+
+  .has-icon svg {
+    width: 1em;
+    height: 1em;
+    margin-left: 0.25em;
+  }
+
+  .has-icon svg polygon {
+    fill: currentColor
+  }
+
+
+  .has-icon .credit {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: white;
+    background: rgba(255, 255, 255, 0.75);
+    color: black;
+    background: var(--secondary-color, black);
+    color: rgb(254, 254, 254); /* @snow */
+    background: white;
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--secondary-color, black);
+    border-color: var(--secondary-color, black);
+    color: black;
+    font-size: 0.75em;
+    padding: 0.25em 0.5em;
+    font-weight: 500;
+  }
+
+
+
+
+/***********************************/
+
+
+
+
+
+  /* =Images
+  ----------------------------------------------- */
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (max-width: 69.999em) {
+    .proposal-introduction figure {
+      margin-left: -4.5em;
+      margin-right: -4.5em;
+      max-width: none;
+    }
+  }
+  @media (max-width: 40em) {
+    .proposal-introduction figure {
+      margin-left: -1.5em;
+      margin-right: -1.5em;
+    }
+  }
+
+  @media (max-width: 40em) {
+    figure,
+    .map {
+      margin-left: -1.5em;
+      margin-right: -1.5em;
+    }
+  }
+  figure,
+  .map {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    position: relative;
+  }
+  @media (min-width: 40em) {
+    .map,
+    figure {
+      margin-top: 3em;
+      margin-bottom: 3em;
+    }
+  }
+
+  /* Artist images */
+  h3 + figure {
+    margin-top: 0;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* OPTIONAL: Show a preview image while the real image is loading */
+  figure > div {
+    background: rgb(204, 206, 204);
+    position: relative;
+    text-align: center;
+
+    /* KUDOS: http://stackoverflow.com/questions/12224320/defined-edges-with-css3-filter-blur#answer-23370117 */
+    overflow: hidden;
+
+    /* TRICKY: This causes iOS 7 & 8 to crash.
+    -webkit-transform: translate3d(0, 0, 0);
+    */
+  }
+  figure > div img {
+    display: block;
+    width: 100%;
+  }
+  figure > div[data-aspect-ratio] a,
+  figure > div[data-aspect-ratio] img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 0;
+    min-height: 0;
+    max-width: none;
+  }
+  figure > div[data-aspect-ratio] img {
+    height: auto;
+  }
+  @supports (object-fit: cover) {
+    figure > div[data-aspect-ratio] img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  figure > div[data-aspect-ratio] a {
+    height: 100%;
+  }
+  figure > div img {
+    position: relative;
+  }
+  figure > div img.preview {
+    position: absolute;
+    margin: calc(-3em);
+    width: calc(100% + 6em) !important;
+    -webkit-filter: blur(1.5em);
+            filter: blur(1.5em);
+  }
+
+  figure > div[data-aspect-ratio] iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  figure > div[data-aspect-ratio="1280/720"] {
+    padding-bottom: 79.25925926%; /* shim */
+    padding-bottom: 56.25%;
+  }
+
+  /* July 4th Map */
+  figure > div[data-aspect-ratio="1687/2587"] {
+    padding-bottom: 153.33333333%; 
+  }
+
+  /* NYELA Map */
+  figure > div[data-aspect-ratio="2048/2506"] {
+    padding-bottom: 122.36328125%; 
+  }
+
+  /* July 4th Road Closures */
+  figure > div[data-aspect-ratio="853/940"] {
+    padding-bottom: 110.1992966%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1678/940"] {
+      padding-bottom: 56.01907032%;
+    }
+  }
+
+  /* NYELA Road Closures */
+  figure > div[data-aspect-ratio="850/942"] {
+    padding-bottom: 110.82352941%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1680/942"] {
+      padding-bottom: 56.07142857%;
+    }
+  }
+
+  figure > div[data-aspect-ratio="600/300"] {
+    padding-bottom: 50%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="1920/465"] {
+      padding-bottom: 24.21875%;
+    }
+  }
+
+  figure > div[data-aspect-ratio="1/1"] {
+    padding-bottom: 100%;
+  }
+  @media (min-aspect-ratio: 1/1) {
+    figure > div[data-aspect-ratio-landscape="2/1"] {
+      padding-bottom: 50%;
+    }
+  }
+
+  /* NYELA Artist images */
+  figure > div[data-aspect-ratio="2/3"] {
+    padding-bottom: 150%;
+  }
+  @supports (object-fit: cover) {
+    .featured-artists figure > div[data-aspect-ratio="1/1"] img,
+    .featured-artists figure > div[data-aspect-ratio="3/2"] img,
+    .featured-artists figure > div[data-aspect-ratio="2/3"] img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  figure > div[data-aspect-ratio="5/3"] {
+    padding-bottom: 60%;
+  }
+  figure > div[data-aspect-ratio="3/2"],
+  figure > div[data-aspect-ratio="1000/667"] {
+    padding-bottom: 66.7%;
+  }
+  figure > div[data-aspect-ratio="5312/2988"] {
+    padding-bottom: 56.25%;
+  }
+
+
+
+
+/***********************************/
+
+
+
+
+  body main h2.answers-header,
+  body main h2.comments-header {    
+    grid-column: 1/-1;
+    text-align: center;
+  }
+
+  body main h2.answers-header,
+  body main h2.comments-header {    
+    font-size: 1.5em;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+  @media (min-width: 40em) {
+    body main h2.answers-header,
+    body main h2.comments-header {
+      max-width: none;
+    }
+  }
+  .comments {
+     grid-column: 1 / -1;
+  }
+  .comments > div {
+    max-width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+
+/***********************************/
+
+
+
+
+  .more-proposals .image {
+    position: relative;
+  }
+/*  .more-proposals .image::before {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 100%;
+  }
+  .more-proposals .image::after {
+    content: "";
+    display: block;
+    font-size: 0.875em;
+    border: 2px solid white;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="white" d="M22,12c0-0.2-0.1-0.4-0.2-0.6l-9.4-8.2C12.2,3.1,12,3,11.8,3c-0.2,0-0.4,0.1-0.6,0.2l-0.5,0.5c-0.2,0.2-0.3,0.4-0.3,0.6 c0,0.2,0.1,0.4,0.3,0.6l7,5.9l-15,0.1c-0.2,0-0.4,0.1-0.5,0.3C2.1,11.3,2,11.5,2,11.7v0.6c0,0.2,0.1,0.4,0.2,0.6s0.3,0.3,0.5,0.3 h15l-7,6.1c-0.2,0.1-0.3,0.3-0.3,0.5s0.1,0.4,0.3,0.6l0.5,0.5c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.4-0.1,0.6-0.3l9.4-8.2 C21.9,12.4,22,12.2,22,12z"></path></svg>');
+    background-size: 1em auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    margin-left: -2em;
+    margin-top: -2em;
+  }
+  .more-proposals .previous .image::after {
+    transform: scale(-1, 1);
+  }*/
+
+  .more-proposals {
+    grid-column-gap: 4.5em;
+  }
+  .more-proposals h2 {
+    font-size: 0.875em;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    max-width: none;
+    color: inherit !important;
+  }
+  .more-proposals .indicator svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+  }
+  .more-proposals .indicator svg path {
+    fill: currentColor;
+  }
+  .more-proposals .previous .indicator svg {
+    transform: scale(-1, 1);
+  }
+  .more-proposals .previous {
+    justify-self: end;
+  }
+  .proposals li.next .indicator {
+    text-align: right;
+  }
+
+  /* Let images be their natural height on tall screens */
+  @media (max-width: 79.999em) {
+    figure.has-image > div[data-aspect-ratio="1280/720"] {
+      padding-bottom: 0 !important;
+    }
+    figure.has-image > div[data-aspect-ratio] img {
+      height: auto;
+    }
+    figure.has-image > div[data-aspect-ratio] a,
+    figure.has-image > div[data-aspect-ratio] img,
+    figure.has-image > div[data-aspect-ratio] iframe {
+      position: relative !important;
+    }
+    figure.has-image > div[data-aspect-ratio] iframe {
+      height: 56.25vw;
+      display: block;
+    }
+    @supports (object-fit: cover) {
+      figure.has-image > div[data-aspect-ratio] img {
+        max-height: 75vh;
+        object-fit: cover;
+      }
+    }
+  }
+
+  /* Make images the same height as the text */
+  @media (min-width: 70em) and (min-aspect-ratio: 1/1) {
+    @supports (display: grid) {
+      figure.has-image > div[data-aspect-ratio="1280/720"] {
+        background-color: transparent;
+        padding-bottom: 0 !important;
+        min-height: 100%;
+      }
+      figure.has-image > div[data-aspect-ratio="1280/720"] a,
+      figure.has-image > div[data-aspect-ratio="1280/720"] img {
+        position: relative;
+      }
+      figure.has-image > div[data-aspect-ratio="1280/720"] img {
+        height: auto;
+        max-height: calc(50vw - 4.5em);
+      }
+    }
+  }
+
+
+
+

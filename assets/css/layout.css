@@ -1,0 +1,216 @@
+
+
+  /* =Layout
+  ----------------------------------------------- */
+
+  /* TRICKY: This causes problems with the sticky header
+  html, body {
+    height: 100%;
+  }
+  body {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto 1fr;
+  }
+  footer {
+    align-self: end;
+  }
+  */
+
+  main {
+    min-height: 50vw;
+  }
+  .home main {
+    min-height: 75vw;
+  }
+  main > .standard-figure:last-child,
+  main > .standard-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .numbers + .standard-figure,
+  .standard-layout .numbers + .standard-figure {
+    margin-top: 1.5em;
+  }
+  .standard-section + .standard-figure,
+  .standard-figure + .standard-section {
+    margin-top: -3em;
+  }
+
+  @media (min-width: 40em) {
+    .standard-section + .standard-figure,
+    .standard-figure + .standard-section {
+      margin-top: -6em;
+    }
+  }
+
+
+  @supports (display: grid) {
+    @media (min-width: 70em) { /* @wide-enough-for-header-grid */
+      header,
+      footer {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-column-gap: 3em;
+        grid-row-gap: 6em;
+        text-align: left;
+      }
+      footer {
+        grid-row-gap: 0.75em;
+      }
+      header h2,
+      footer h2,
+      footer .action {
+        margin: 0;
+        justify-self: start;
+        align-self: center;
+      }
+      footer .action {
+        align-self: center;
+      }
+      header .navigation,
+      footer .navigation {
+        align-self: center;
+        justify-self: end;
+      }
+      header ul,
+      footer ul {
+        margin: 0;
+        max-width: none;
+        justify-self: end;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-end;
+        margin-right: -0.75em;
+      }
+      footer h2 {
+        grid-column: 2 / 3;
+        grid-row: 3 / 4;
+        justify-self: end;
+      }
+      footer .navigation {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+        text-align: right;
+      }
+      footer .la2050 {
+        margin: 0;
+        grid-column: 1 / 2;
+        grid-row: 3 / 4;
+        justify-self: start;
+        align-self: end;
+      }
+      footer .la2050 p {
+        margin: 0;
+      }
+      footer .social-links {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+        justify-self: end;
+        text-align: right;
+        white-space: nowrap;
+        margin-top: 0.125em;
+      }
+
+      .standard-layout {
+        display: grid;
+        grid-template-columns: 1fr 2fr 0;
+        grid-column-gap: 3em;
+        grid-row-gap: 1.5em;
+        align-items: start;
+      }
+      .standard-layout > h1,
+      .standard-layout > h1 + p,
+      .standard-layout > .numbers,
+      .standard-layout > .introduction,
+      .standard-layout > h1 + .action,
+      .standard-layout > .goals,
+      .standard-layout > .standard-section {
+        grid-column: span 3;
+      }
+
+      /* Reduce the amount of margin around figures and sections, to account for the grid gap */
+      .standard-layout > .standard-figure,
+      .standard-layout > .standard-section {
+        margin-top: 4.5em; /* usual margin - grid row gap = 6em - 1.5em = 4.5em */
+        margin-bottom: 4.5em;
+      }
+
+      .standard-layout > h1:first-child {
+        margin-bottom: 1.5rem;
+      }
+      .standard-layout > h2,
+      .standard-layout > h3,
+      .standard-layout > h4 {
+        margin: 0;
+        grid-column: 1 / 2;
+        justify-self: end;
+        text-align: right;
+      }
+      .standard-layout > h2,
+      .standard-layout > h3 {
+        font-size: 1.5em;
+        line-height: 1.125;
+        max-width: 17.5em;
+      }
+      .standard-layout > p,
+      .standard-layout > p.action,
+      .standard-layout > dl,
+      .standard-layout > table,
+      .standard-layout > ol,
+      .standard-layout > ul {
+        margin: 0;
+        grid-column: 2 / 3;
+      }
+
+.disabled .standard-layout > .standard-section + .standard-figure {
+        margin-top: -7.5em; /* standard-section.bottom-margin + grid-row-gap = 6em + 1.5em = 7.5em */
+      }
+      .standard-layout > .standard-section + .standard-figure {
+        margin-top: -6em;
+      }
+
+      .standard-layout > .activate-tag {
+        margin: 0;
+        grid-column: 1 / 2;
+        align-self: start;
+        justify-self: end;
+        text-align: right;
+      }
+
+      .standard-figure {
+        grid-column: 1/4;
+      }
+.disabled .standard-layout > .standard-figure + .standard-section {
+        margin-top: -7.5em; /* standard-figure.bottom-margin + grid-row-gap = 6em + 1.5em = 7.5em */
+      }
+      .standard-layout > .standard-figure + .standard-section {
+        margin-top: -6em;
+      }
+
+      .application-process {
+        grid-column: 1/4;
+        display: grid;
+        grid-template-columns: 1fr minmax(20vw, 33em) 1fr;
+        grid-column-gap: 3em;
+        grid-row-gap: 1.5em;
+        align-items: start;
+      }
+      .application-process > div {
+        grid-column: 2/3;
+      }
+    }
+  }
+
+
+  @supports (display: grid) {
+    @media (min-width: 70em) and (max-width: 82.5em) { /* @wide-enough-for-header-grid */
+      header ul.has-8-items,
+      footer ul.has-8-items {
+        max-width: 25em;
+      }
+    }
+  }
+
+

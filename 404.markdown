@@ -1,0 +1,16 @@
+---
+title: Page not found, 2018 My LA2050 Activation Challenge
+body_class: blueberry
+
+permalink: /404.html
+
+canonical_url: /
+---
+
+# Oops!
+
+<div class="introduction" markdown="1">
+This page couldn’t be found.
+
+You may want to visit our [home page](/) instead.
+</div>

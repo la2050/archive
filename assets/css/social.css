@@ -1,0 +1,28 @@
+
+  /* =Social
+  ----------------------------------------------- */
+  footer .social-links {
+    /* margin-top: 0.5625em; For two rows of navigation */
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+  footer .social-links li {
+    margin: 0.75em;
+  }
+  footer .social-links li svg {
+    width: 1.5em;
+    height: 1.5em;
+  }
+  footer .social-links li svg path {
+    fill: currentColor;
+  }
+
+
+  @supports (display: grid) {
+    @media (min-width: 60em) {
+      footer .social-links {
+        margin-top: 0.75em;
+        margin-top: 0;
+      }
+    }
+  }

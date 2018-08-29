@@ -1,0 +1,106 @@
+
+
+
+  /* SHIM: Make the list look nicer in browsers that don’t understand summary / details */
+  /* https://github.com/whatwg/html/issues/722 */
+  details.faq > summary {
+    display: list-item;
+    list-style: disclosure-closed inside;
+  }
+  details.faq {
+    display: block;
+  }
+  details.faq[open] > summary {
+    list-style: disclosure-open inside;
+  }
+
+
+  details.faq {
+    margin-top: 3em;
+    max-width: 40em; /* @max-line-length */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  details.faq h2 {
+    margin-top: 0;
+  }
+
+  /* TRICKY: The details text may look super narrow in iOS Safari, if they have a max width. */
+  details.faq h2,
+  details.faq p,
+  details.faq ol,
+  details.faq ul {
+    max-width: none;
+  }
+
+  summary {
+    color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(249, 160, 51); /* @tangerine */
+  }
+  .lime summary {
+    color: rgb(141, 208, 59); /* @lime */
+  }
+  summary h2,
+  .tangerine main > details h2 {
+    color: inherit;
+  }
+
+  details.faq summary:focus {
+    outline: 0px solid transparent;
+  }
+  details.faq summary:focus {
+    color: rgb(6, 179, 188); /* @blueberry */
+    color: rgb(249, 160, 51); /* @tangerine */
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  details.faq summary::-webkit-details-marker,
+  details.faq summary:focus::-webkit-details-marker {
+    color: rgb(6, 179, 188); /* @blueberry */
+    color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(249, 160, 51); /* @tangerine */
+    color: inherit;
+  }
+
+  details.faq {
+    padding-left: 1.5rem;
+  }
+  details.faq summary {
+    margin-left: -1.5rem;
+  }
+  details.faq h2 {
+    margin-top: -1.25em;
+    margin-left: 1.5rem;
+  }
+  details.faq ~ h2 {
+    padding-left: 1em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  details.faq ~ p {
+    padding-left: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @media (max-width: 40em) { /* @max-line-length */
+    details.faq {
+      margin-left: -0.75rem;
+      margin-right: 0.75rem;
+    }
+    details.faq ~ h2 {
+      margin-left: -0.5em;
+      margin-right: 0.5em;
+    }
+    details.faq ~ p {
+      margin-left: -0.75em;
+      margin-right: 0.75em;
+    }
+  }
+
+  /* SHIM: Work around for Safari REM bug: https://colloq.io/blog/safaris-detailssummary-rem-font-size-issue */
+  details.faq ~ p {
+    max-width: 40em; /* @max-line-length */
+  }
+  details.faq ~ h2 {
+    margin-top: 2em;
+    max-width: 26.6666666667em; /* @max-line-length */
+  }

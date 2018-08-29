@@ -1,0 +1,214 @@
+
+title: 2018 My LA2050 Activation Challenge
+description: >-
+  The My LA2050 Activation Challenge is an open call for ideas that
+  will activate 100,000 Angelenos to make LA the best place to
+  learn, create, play, connect, and live.
+image: https://activation.la2050.org/assets/images/home/2048-wide/collaborates.jpg
+
+mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
+# submission_url: https://activationla2050.smapply.io/prog/challenge_info/
+# event_url: /event/
+
+# Our form:
+vote_url: /vote/form/
+
+
+# New challenge announced: 
+# February 1
+# phase: 1
+
+# Entries being accepted: 
+# March 1
+# phase: 2
+
+# Entry period ended: 
+# March 31
+# phase: 3
+
+# Entries shown on the website: 
+# April 9 
+# phase: 4
+
+# 25 finalists announced: 
+# May 21
+# phase: 5
+
+# Votes being accepted: 
+# June 19
+# phase: 6
+
+# Voting period ended: 
+# June 30 
+# phase: 7
+
+# Winners announced: 
+# July 9 
+phase: 8
+
+finalists:
+
+  # Learn
+  # 1)
+  - /learn/big-brothers-big-sisters-of-greater-los-angeles/
+  # 2)
+  - /learn/charles-r-drew-university-of-medicine-and-science/
+  # 3)
+  - /learn/center-for-innovation-in-stem-education-cise/
+  # 4)
+  - /learn/common-sense/
+  # 5)
+  - /learn/harlem-lacrosse-los-angeles/
+
+  # Create
+  # 1)
+  - /create/brioxy/
+  # 2)
+  - /create/east-la-community-corporation-elacc/
+  # 3)
+  - /create/long-beach-downtown-development-corporation/
+  # 4)
+  - /create/make-it-in-la/
+  # 5)
+  - /create/national-association-of-latino-independent-producers-nalip/
+
+  # Play
+  # 1)
+  - /play/the-brady-center-to-prevent-gun-violence/
+  # 2)
+  - /play/kounkuey-design-initiative/
+  # 3)
+  - /play/los-angeles-dodgers-foundation/
+  # 4)
+  - /play/people-for-parks/
+  # 5)
+  - /play/the-trust-for-public-land/
+
+  # Connect
+  # 1)
+  - /connect/casa-of-los-angeles/
+  # 2)
+  - /connect/homeboy-industries/
+  # 3)
+  - /connect/investing-in-place/
+  # 4)
+  - /connect/mirys-list/
+  # 5)
+  - /connect/voterunlead/
+
+  # Live
+  # 1)
+  - /live/environment-california-research-policy-center/
+  # 2)
+  - /live/l-a-kitchen/
+  # 3)
+  - /live/move-la-a-project-of-community-partners/
+  # 4)
+  - /live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+  # 5)
+  - /live/united-way-of-greater-los-angeles/
+
+
+winners:
+  # 1)
+  - /learn/center-for-innovation-in-stem-education-cise/
+  # 2)
+  - /create/east-la-community-corporation-elacc/
+  # 3)
+  - /play/the-brady-center-to-prevent-gun-violence/
+  # 4)
+  - /connect/mirys-list/
+  # 5)
+  - /live/united-way-of-greater-los-angeles/
+
+
+auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
+# auth0_domain: activation-la2050.auth0.com
+auth0_domain: auth0-activation.la2050.org
+auth0_client_id: INfJpr4dnNk2EN143utsZYz4Zeq9c7cd
+
+voting_enable_auth0: true
+
+voting_enable_phone: true
+voting_enable_email: true
+voting_enable_facebook: true
+
+voting_maintance_mode: false
+voting_test_mode: false
+
+voting_strict_mode: true
+
+# For cache busting
+version: 1.6.5
+
+
+permalink: pretty
+
+exclude:
+  - CNAME
+  - README
+  - Gemfile
+  - Gemfile.lock
+  - _node
+  - sitemap.txt
+  - assets/images/learn/original
+  - assets/images/create/original
+  - assets/images/play/original
+  - assets/images/connect/original
+  - assets/images/live/original
+  - assets/images/goals/original
+  - assets/images/home/original
+  - assets/images/vote/original
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: learn
+    values:
+      layout: project
+      body_class: blueberry
+  - scope:
+      path: ""
+      type: create
+    values:
+      layout: project
+      body_class: banana
+  - scope:
+      path: ""
+      type: play
+    values:
+      layout: project
+      body_class: strawberry
+  - scope:
+      path: ""
+      type: connect
+    values:
+      layout: project
+      body_class: tangerine
+  - scope:
+      path: ""
+      type: live
+    values:
+      layout: project
+      body_class: lime
+
+collections:
+  learn:
+    output: true
+    permalink: /learn/:path/
+  create:
+    output: true
+    permalink: /create/:path/
+  play:
+    output: true
+    permalink: /play/:path/
+  connect:
+    output: true
+    permalink: /connect/:path/
+  live:
+    output: true
+    permalink: /live/:path/

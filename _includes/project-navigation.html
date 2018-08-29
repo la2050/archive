@@ -1,0 +1,138 @@
+{% unless page.winners %}
+
+<section class="goals" id="projects">
+
+<div class="navigation"><div markdown="1">
+
+<div class="options">
+
+{% if site.phase >= 4 %}
+{% unless page.winners %}
+
+<details open>
+<summary>
+<p>
+  <strong>Search</strong> by keyword
+</p>
+</summary>
+
+<form class="search" action="/search/{{ conditional_finalists_url }}/#projects" method="get" id="search">
+  <label>
+    <span style="position: absolute; left: -9999px">Keywords</span>
+    <input type="search" name="keywords" id="search-field" />
+  </label>
+  <button type="submit">
+    <svg class="icon" viewBox="0 0 512 512" width="24" height="24">
+      <switch>
+        <path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z" class=""></path>
+        <foreignobject>Search</foreignobject>
+      </switch>
+    </svg>
+  </button>
+</form>
+</details>
+
+{% unless page.is_search_results %}
+<script>
+(function() {
+  var wasOpen;
+
+  document.querySelector('summary').addEventListener('click', function(e) {
+    wasOpen = true;
+    setTimeout(function() {
+      document.getElementById('search-field').focus()
+    }, 1);
+  });
+
+  var details = document.querySelector('details')
+  if (!details) return;
+
+  function updateSummaryOpen() {
+    if (wasOpen) return;
+    if (window.innerWidth < 800 && window.innerHeight < 800) {
+      details.removeAttribute('open')
+    } else {
+      details.setAttribute('open', 'open')
+      wasOpen = true;
+    }
+  }
+
+  updateSummaryOpen()
+
+  window.addEventListener('resize', updateSummaryOpen);
+
+})();
+</script>
+{% endunless %}
+
+{% endunless %}
+{% endif %}
+
+<p class="browse"><strong>Browse</strong> by goal category</p>
+
+</div>
+
+<div class="action-container">
+
+<ul class="action">
+  <li class="blueberry"><a href="/learn/{{ conditional_finalists_url }}#projects"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
+  <li class="banana"><a href="/create/{{ conditional_finalists_url }}#projects"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
+  <li class="strawberry"><a href="/play/{{ conditional_finalists_url }}#projects"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
+  <li class="tangerine"><a href="/connect/{{ conditional_finalists_url }}#projects"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
+  <li class="lime"><a href="/live/{{ conditional_finalists_url }}#projects"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
+</ul>
+</div>
+
+{% if page.layout == 'project-list' %}
+
+{% if page.category %}
+
+{% if page.finalists %}
+  {% if site.phase == 5 %}
+  <p class="count"><a href="/vote/">Vote for one of these <strong>5</strong> projects</a> in the <strong class="category">{{ page.category }}</strong> category, starting June 19, 2018.</p>
+  {% elsif site.phase == 6 %}
+  <p class="count"><a href="{{ site.vote_url }}">Vote for one of these <strong>5</strong> projects</a> in the <strong class="category">{{ page.category }}</strong> category, by June 29, 2018.</p>
+  {% else %}
+  <p class="count">There are <strong>5</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.</p>
+  {% endif %}
+{% else %}
+<p class="count">There are <strong>{{ data_list.size }}</strong> projects in the <strong class="category">{{ page.category }}</strong> category.</p>
+{% endif %}
+  
+{% elsif page.is_search_results %}
+
+<p class="count">You searched for <strong id="keywords"></strong>. There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">projects</span> in all categories.</p>
+
+{% endif %}
+
+{% endif %}
+
+</div>
+
+</div></section>
+
+{% endunless %}
+
+{% if page.layout == 'project-list' %}
+<script>
+(function() {
+  var key = 'scrollPositionOnLastProjectListPage';
+  var links = document.querySelectorAll('.goals .navigation .action a');
+  links.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      localStorage.setItem(key, window.scrollY);
+      // console.log('window.scrollY')
+      // console.log('item stored: ' + localStorage.getItem(key));
+    });
+    link.setAttribute('href', link.getAttribute('href').replace('#projects', ''));
+  });
+  var form = document.getElementById('search');
+  if (form) {
+    form.addEventListener('submit', function() {
+      localStorage.setItem(key, window.scrollY);
+    });
+    form.setAttribute('action', form.getAttribute('action').replace('#projects', ''));
+  }
+})();
+</script>
+{% endif %}

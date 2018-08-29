@@ -1,0 +1,99 @@
+{% if site.phase == 1 %}
+
+      <p>
+        Starting <strong>March 1, 2018</strong>, <span class="avoid-break">you can <a class="avoid-break" href="/submit/">submit your big idea.</a></span><br />
+        Voting begins on
+        <span class="avoid-break">
+          <strong>June 19, 2018</strong>.
+        </span>
+      </p>
+
+{% elsif site.phase == 2 %}
+
+      <p>
+        The submission period has started!
+        <span class="avoid-break">Apply by <strong>March 30, 2018.</strong></span>
+        <small>
+          Voting begins on
+          <span class="avoid-break">
+            <strong>June 19, 2018.</strong>
+          </span>
+        </small>
+      </p>
+
+{% elsif site.phase == 3 %}
+
+      <p>
+        The submission period is complete.
+        <span class="avoid-break">Entries will be showcased here on <strong>April 9, 2018</strong>.</span>
+      </p>
+
+{% elsif site.phase == 4 %}
+
+      <p>
+        <span class="avoid-break">Finalists will be announced on <strong class="avoid-break">May 21, 2018.</strong></span>
+        <small class="avoid-break">
+        Voting begins on
+        <span class="avoid-break">
+          <strong>June 19, 2018</strong>.
+        </span>
+        </small>
+      </p>
+
+{% elsif site.phase == 5 %}
+
+      <p>
+        {% if site.event_url %}
+        <span class="avoid-break">
+          Vote at the <strong style=""><a href="/event/">public event</a></strong> on <strong>June 19, 2018</strong>.
+        </span>
+        {% else %}
+        The <a href="/finalists/">finalists</a> have been announced!
+        <span class="avoid-break">
+          Voting begins on
+          <span class="avoid-break">
+            <strong>June 19, 2018</strong>.
+          </span>
+        </span>
+        {% endif %}
+      </p>
+
+{% elsif site.phase == 6 %}
+
+      <p>Public voting has started! <a href="/finalists/">Check out the finalists</a>, and vote by <strong>June 29, 2018</strong>.</p>
+
+      <p class="action">
+        <a href="{{ site.vote_url }}">I’m ready to vote</a>
+      </p>
+
+{% elsif site.phase == 7 %}
+
+      <p>
+        Public voting is complete.
+        <span class="avoid-break">
+          Winners will be announced on 
+          <span class="avoid-break">
+            <strong>July 9, 2018</strong>.
+          </span>
+        </span>
+      </p>
+
+{% elsif site.phase == 8 %}
+
+      <!--
+      <p>
+        The <a href="/winners/">winners</a> have been announced.
+        Thank you to everyone who participated!
+      </p>
+
+      <p>
+        Visit <a href="https://la2050.org/">la2050.org</a> for jobs, events, and news from the world of impact.
+      </p>
+      -->
+
+      <p>
+        The activation challenge is part of the greater <a href="https://la2050.org/">LA2050 initiative</a>.
+        <span class="avoid-break" data-characters="45">We’re working to move Los Angeles <span class="avoid-break">toward <a href="https://la2050.org/#learnmore">five goals</a>.</span></span>
+      </p>
+
+{% endif %}

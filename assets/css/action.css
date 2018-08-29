@@ -1,0 +1,215 @@
+
+
+  /* =Action
+  ----------------------------------------------- */
+  button,
+  .action a,
+  .action > span {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    border: 0.1875em solid rgb(237, 59, 136); /* @strawberry */
+    color: rgb(254, 254, 254); /* @snow */
+    padding: 0.75em 1.5em;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600; /* @semibold */
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  }
+  button:hover,
+  button:active,
+  button:focus,
+  .action a:hover,
+  .action a:active,
+  .action a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .action svg {
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: top;
+  }
+
+
+  /* =Form
+  ----------------------------------------------- */
+  input[type="search"] {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: 600;
+    padding: 0.75em;
+    border-radius: 0;
+    width: 100%;
+    max-width: 25em;
+    box-sizing: border-box;
+    border: 0.1875em solid rgb(237, 59, 136); /* @strawberry */
+
+    /* Remove Safari’s default styles for search fields */
+    -webkit-appearance: none;
+  }
+
+  /* =Footer
+  ----------------------------------------------- */
+  .strawberry .action a {
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    border: 0.1875em solid rgb(237, 59, 136); /* @strawberry */
+    color: white;
+  }
+  .blueberry .action a {
+    background-color: rgb(6, 179, 188); /* @blueberry */
+    border: 0.1875em solid rgb(6, 179, 188); /* @blueberry */
+    color: white;
+  }
+  .banana .action a {
+    background-color: rgb(255, 194, 51); /* @banana */
+    border: 0.1875em solid rgb(255, 194, 51); /* @banana */
+    color: white;
+  }
+  .tangerine .action a {
+    background-color: rgb(249, 160, 51); /* @tangerine */
+    border: 0.1875em solid rgb(249, 160, 51); /* @tangerine */
+    color: white;
+  }
+  .lime .action a {
+    background-color: rgb(141, 208, 59); /* @lime */
+    border: 0.1875em solid rgb(141, 208, 59); /* @lime */
+    color: white;
+  }
+  .lime button {
+    background-color: rgb(141, 208, 59); /* @lime */
+    border: 0.1875em solid rgb(141, 208, 59); /* @lime */
+    color: white;
+  }
+
+  .strawberry .action a.active,
+  .strawberry .action a:hover,
+  .strawberry .action a:active,
+  .strawberry .action a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .blueberry .action a.active,
+  .blueberry .action a:hover,
+  .blueberry .action a:active,
+  .blueberry .action a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(6, 179, 188); /* @blueberry */
+  }
+  .banana .action a.active,
+  .banana .action a:hover,
+  .banana .action a:active,
+  .banana .action a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(255, 194, 51); /* @banana */
+  }
+  .tangerine .action a.active,
+  .tangerine .action a:hover,
+  .tangerine .action a:active,
+  .tangerine .action a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(249, 160, 51); /* @tangerine */
+  }
+  .lime button:hover,
+  .lime button:active,
+  .lime button:focus
+  .lime .action a.active,
+  .lime .action a:hover,
+  .lime .action a:active,
+  .lime .action a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(141, 208, 59); /* @lime */
+  }
+
+
+  /* =Goals
+  ----------------------------------------------- */
+  .action ul,
+  .action li {
+    list-style: none;
+    padding-left: 0;
+  }
+  .action li {
+    margin-bottom: 0.75em;
+  }
+  .action li a {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  @media (min-width: 30em) {
+    .action ul {
+      display: flex;
+      justify-content: center;
+    }
+    .action li {
+      margin: 0 0.5em;
+    }
+  }
+
+  .action .strawberry a {
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    border: 0.1875em solid rgb(237, 59, 136); /* @strawberry */
+    color: white;
+  }
+  .action .blueberry a {
+    background-color: rgb(6, 179, 188); /* @blueberry */
+    border: 0.1875em solid rgb(6, 179, 188); /* @blueberry */
+    color: white;
+  }
+  .action .banana a {
+    background-color: rgb(237, 192, 50); /* @dark-banana */
+    border: 0.1875em solid rgb(237, 192, 50); /* @dark-banana */
+    color: white;
+  }
+  .action .tangerine a {
+    background-color: rgb(249, 160, 51); /* @tangerine */
+    border: 0.1875em solid rgb(249, 160, 51); /* @tangerine */
+    color: white;
+  }
+  .action .lime a {
+    background-color: rgb(141, 208, 59); /* @lime */
+    border: 0.1875em solid rgb(141, 208, 59); /* @lime */
+    color: white;
+  }
+
+  .action .strawberry a.active,
+  .action .strawberry a:hover,
+  .action .strawberry a:active,
+  .action .strawberry a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .action .blueberry a.active,
+  .action .blueberry a:hover,
+  .action .blueberry a:active,
+  .action .blueberry a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(6, 179, 188); /* @blueberry */
+  }
+  .action .banana a.active,
+  .action .banana a:hover,
+  .action .banana a:active,
+  .action .banana a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(237, 192, 50); /* @dark-banana */
+  }
+  .action .tangerine a.active,
+  .action .tangerine a:hover,
+  .action .tangerine a:active,
+  .action .tangerine a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(249, 160, 51); /* @tangerine */
+  }
+  .action .lime a.active,
+  .action .lime a:hover,
+  .action .lime a:active,
+  .action .lime a:focus {
+    background-color: rgb(254, 254, 254); /* @snow */
+    color: rgb(141, 208, 59); /* @lime */
+  }
+

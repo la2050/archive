@@ -1,0 +1,575 @@
+
+
+  /* =Promotion
+  ----------------------------------------------- */
+  .promotion {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    text-align: center;
+  }
+  .promotion .icon {
+    display: inline-block;
+    margin-right: 0.75em;
+    vertical-align: middle;
+    display: none;
+  }
+  .promotion .icon svg {
+    width: auto;
+    height: 2em;
+    display: block;
+    margin-top: -0.25em;
+    margin-bottom: -0.25em;
+  }
+  .promotion .icon svg circle,
+  .promotion .icon svg path,
+  .promotion .icon svg line,
+  .promotion .icon svg polygon,
+  .promotion .icon svg polyline {
+    stroke: currentColor;
+    stroke-width: 2px;
+  }
+  .promotion .icon,
+  .promotion strong,
+  .promotion a {
+    color: inherit;
+    font-weight: 600;
+  }
+  .promotion strong,
+  .promotion a {
+    display: inline-block;
+  }
+  .promotion a:hover,
+  .promotion a:active,
+  .promotion a:focus {
+    color: var(--primary-color, inherit);
+  }
+  .promotion h1,
+  .promotion p {
+    display: inline;
+  }
+  .promotion h1 {
+    max-width: none;
+    font-size: inherit;
+    font-weight: bold;
+    text-transform: none;
+    letter-spacing: inherit;
+  }
+  .promotion p {
+    font-size: inherit;
+  }
+  .promotion small {
+    font-size: inherit;
+    font-style: inherit;
+  }
+  .home .promotion {
+    position: relative;
+    z-index: 999999999999;
+    background: white;
+  }
+  .promotion {
+    margin-left: -1.5em;
+    margin-right: -1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+/*  .home .promotion h1,
+  .home .promotion strong {
+    color: white !important;
+  }*/
+  @media (min-width: 40em) {
+    .promotion {
+      margin-left: -4.5em;
+      margin-right: -4.5em;
+      padding-left: 4.5em;
+      padding-right: 4.5em;
+    }
+  }
+
+/*  .promotion {
+    position: relative;
+  }
+  .promotion::before {
+    content: "";
+    background-color: var(--primary-color);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+    z-index: -1;
+  }*/
+
+
+  .promotion .action {
+    font-size: 0.75em;
+    display: block;
+    max-width: none;
+  }
+  .promotion .action a {
+    background: white;
+    border-color: black;
+    border-color: var(--primary-color, black);
+    color: black;
+    color: var(--primary-color, black);
+  }
+  .promotion .action a:hover,
+  .promotion .action a:active,
+  .promotion .action a:focus {
+    background-color: black;
+    background-color: var(--primary-color, black);
+    color: white;
+  }
+
+  .home .promotion strong {
+    display: inline-block;
+  }
+
+
+  @media (min-width: 70em) {
+    .home .promotion {
+      background-color: black;
+      background-color: var(--primary-color, black);
+      color: white;
+    }
+    .home .promotion .icon,
+    .home .promotion strong,
+    .home .promotion a {
+      color: inherit;
+    }
+    .home .promotion a:hover,
+    .home .promotion a:active,
+    .home .promotion a:focus {
+      color: rgb(46, 219, 228); /* @bright-blueberry */
+    }
+    .promotion .action {
+      display: inline-block;
+      margin-top: -1.25em;
+      margin-left: 1.5em;
+      margin-bottom: -1em;
+      vertical-align: middle;
+    }
+    .home .promotion .action a {
+      background-color: transparent;
+      border-color: white;
+      color: white;
+    }
+    .home .promotion .action a:hover,
+    .home .promotion .action a:active,
+    .home .promotion .action a:focus {
+      background-color: white;
+      color black;
+      color: var(--primary-color, black);
+    }
+  }
+
+
+  body .header-figure.has-caption.has-caption-details .caption h1 {
+    color: var(--primary-color);
+    text-align: center !important;
+    max-width: none !important;
+    width: calc(100% - 6rem) !important;
+    font-size: 2em !important;
+  }
+/*  .header-figure.has-caption.has-caption-details img {
+    height: 75vw !important;
+  }*/
+  @media (min-width: 50em) {
+    body .header-figure.has-caption.has-caption-details .caption h1 {
+      font-size: 6vmax !important;
+      width: calc(100% - 9rem) !important;
+      font-size: 7vmax !important;
+    }
+/*    .header-figure.has-caption.has-caption-details img {
+      height: 70vw !important;
+    }*/
+  }
+/*  @media (min-width: 70em) {
+    body .header-figure.has-caption.has-caption-details .caption h1 {
+      top: 20.25rem !important;
+    }
+  }*/
+/*  .header-figure.has-caption.has-caption-details .caption .details > * {
+    opacity: 0;
+  }*/
+
+
+  /* =Header / Footer
+  ----------------------------------------------- */
+  header,
+  footer {
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(254, 254, 254); /* @snow */
+    margin-left: -1.5em;
+    margin-right: -1.5em;
+    padding: 3em 1.5em 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  footer {
+    background: rgb(245, 245, 245);
+    background: rgb(235, 235, 235);
+    color: inherit;
+    padding: 3em 1.5em 3em;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    header,
+    footer {
+      margin-left: -4.5em;
+      margin-right: -4.5em;
+      padding: 3em 4.5em;
+    }
+/*    footer {
+      padding-top: 2.25em;
+      padding-bottom: 3em;
+    }*/
+  }
+
+  header h2,
+  footer h2 {
+    margin-bottom: 1.5rem;
+  }
+  @media (min-width: 40em) {
+    header h2,
+    footer h2 {
+      margin-bottom: 3rem;
+    }
+  }
+  header h2 {
+    margin-top: 0;
+  }
+  footer .action {
+    margin-top: 3em;
+  }
+
+  /* TRICKY: If any elements on the page are styled with rem units,
+             they may render incorrectly in Safari on pages that
+             contain detail/summary elements. */
+  footer p,
+  footer ul {
+    max-width: none;
+  }
+
+
+  /* =Lists
+  ----------------------------------------------- */
+  header ul,
+  header li,
+  footer ul,
+  footer li {
+    list-style: none;
+    padding-left: 0;
+  }
+  header ul,
+  footer ul {
+    margin-left: auto;
+    margin-right: auto;
+  }
+/*  header ul {
+    margin-top: -0.625em;
+    margin-bottom: -0.625em;
+  }*/
+  header li,
+  footer li {
+    display: inline-block;
+    margin: 0.25em 0.75em;
+  }
+/*  header ul {
+    max-width: none;
+  }*/
+/*  header .navigation ul:not(.primary),
+  footer .navigation ul:not(.primary) {
+    margin-right: 0.25em;
+    margin-left: 0.25em;
+    margin-right: 0.375em;
+    margin-left: 0.375em;
+  }*/
+  header .navigation ul.primary,
+  footer .navigation ul.primary {
+    margin-top: 0.625em;
+    margin-right: 0.25em;
+    margin-left: 0.25em;
+    margin-bottom: -0.375em; /* SHIM: To offset the bottom margin on the buttons */
+  }
+  @media (min-width: 40em) {
+    header .navigation ul.primary,
+    footer .navigation ul.primary {
+      margin-bottom: -1.5em; /* SHIM: To offset the bottom margin on the buttons */
+    }
+  }
+  @media (max-width: 30em) {
+    header ul.has-5-items,
+    footer ul.has-5-items {
+      max-width: 15em;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+  @media (max-width: 55em) {
+    header ul.has-6-items,
+    footer ul.has-6-items {
+      max-width: 20em;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+  @media (max-width: 70em) {
+    header ul.has-8-items,
+    footer ul.has-8-items {
+      max-width: 30em;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+  @media (max-width: 40em) {
+    header ul.has-8-items,
+    footer ul.has-8-items {
+      max-width: 25em;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+  @media (max-width: 30em) {
+    header ul.has-8-items,
+    footer ul.has-8-items {
+      max-width: 18em;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+
+
+
+  /* =Links
+  ----------------------------------------------- */
+  header a,
+  footer a {
+    color: rgb(254, 254, 254); /* @snow */
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(255, 224, 81); /* @bright-banana */
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(254, 254, 254); /* @snow */
+    text-transform: uppercase;
+    font-weight: 600; /* @semibold */
+    letter-spacing: 0.05em;
+    text-decoration: none;
+  }
+  header a:hover,
+  header a:active,
+  header a:focus,
+  footer a:hover,
+  footer a:active,
+  footer a:focus {
+    color: rgb(6, 179, 188); /* @blueberry */
+    color: var(--primary-color, rgb(6, 179, 188)); /* @blueberry */
+  }
+  header a:hover,
+  header a:active,
+  header a:focus {
+    color: rgb(254, 254, 254); /* @snow */
+    color: rgb(255, 224, 81); /* @bright-banana */
+    color: rgb(255, 194, 51); /* @banana */
+  }
+  footer a {
+    color: inherit;
+  }
+  @media (min-width: 60em) {
+    footer a {
+      font-size: 0.875em;
+    }
+  }
+  footer small a {
+    display: inline-block;
+  }
+
+  footer .la2050 p:first-child a {
+    font-weight: 700;
+  }
+  footer .la2050 a svg {
+    width: 4.5em;
+    height: 1em;
+
+    width: calc(4.5em * 0.875);
+    height: calc(1em * 0.875);
+  }
+  footer .la2050 a svg path {
+    fill: currentColor;
+  }
+
+  header .navigation .primary li,
+  footer .navigation .primary li {
+    margin: 0.25em 0.75em 1.5em 0.75em;
+  }
+  header .navigation .primary a,
+  footer .navigation .primary a {
+    border: 0.1875em solid currentColor;
+    /*
+    border: 0.1875em solid rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.25);
+    border-color: transparent;
+    */
+    padding: 0.375em 0.75em;
+    display: inline-block;
+  }
+  /*
+  footer .navigation .primary a {
+    background: white;
+    border: 0.1875em solid rgba(0, 0, 0, 0.25);
+    background: rgba(0, 0, 0, 0.25);
+    border-color: transparent;
+  }
+  */
+  header .navigation .primary a:hover,
+  header .navigation .primary a:active,
+  header .navigation .primary a:focus,
+  footer .navigation .primary a:hover,
+  footer .navigation .primary a:active,
+  footer .navigation .primary a:focus {
+    border: 0.1875em solid currentColor;
+  }
+  header .navigation strong,
+  footer .navigation strong {
+    color: inherit;
+  }
+  header .navigation .primary strong a {
+    background: rgb(254, 254, 254) /* @snow */;
+    border-color: rgb(254, 254, 254) /* @snow */;
+    color: var(--primary-color, rgb(41, 41, 41) /* @midnight */);
+  }
+  footer .navigation .primary strong a {
+    background: rgb(41, 41, 41) /* @midnight */;
+    border-color: rgb(41, 41, 41) /* @midnight */;
+    color: rgb(254, 254, 254) /* @snow */;
+  }
+  header .navigation .primary strong a:hover,
+  header .navigation .primary strong a:active,
+  header .navigation .primary strong a:focus {
+    color: rgb(41, 41, 41) /* @midnight */;
+    background-color: var(--secondary-color, white);
+    border-color: var(--secondary-color, white);
+    color: var(--primary-color, black);
+  }
+  footer .navigation .primary strong a:hover,
+  footer .navigation .primary strong a:active,
+  footer .navigation .primary strong a:focus {
+    background-color: var(--primary-color, rgb(41, 41, 41) /* @midnight */);
+    border-color: var(--primary-color, rgb(41, 41, 41) /* @midnight */);
+  }
+@supports (false) {
+  header .navigation .primary strong a {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .lime      header .navigation .primary strong a,
+  .banana    header .navigation .primary strong a,
+  .tangerine header .navigation .primary strong a {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .strawberry header .navigation .primary strong a,
+  .blueberry  header .navigation .primary strong a {
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(255, 224, 81); /* @bright-banana */
+  }
+  .home      header .navigation .primary strong a {
+    color: rgb(6, 179, 188); /* @blueberry */
+    color: rgb(46, 219, 228); /* @bright-blueberry */
+  }
+}
+
+
+  /* =Logotype
+  ----------------------------------------------- */
+  header h2,
+  footer h2 {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500; /* @medium */
+    font-size: 1.25em;
+    text-transform: uppercase;
+    color: rgb(249, 160, 51); /* @tangerine */
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(255, 224, 81); /* @bright-banana */
+    color: rgb(254, 254, 254); /* @snow */
+    line-height: 1;
+    text-align: center;
+  }
+  footer h2 {
+    margin-top: 0;
+    color: inherit;
+    font-size: inherit;
+    max-width: none;
+  }
+  header h2 em,
+  footer h2 em {
+    font-style: italic;
+    font-weight: bold;
+    color: inherit;
+  }
+  header h2 a,
+  footer h2 a {
+    color: inherit;
+  }
+  header h2 a svg,
+  footer h2 a svg {
+    width: 6.75em;
+    height: 2.875em;
+  }
+  header h2 a svg path,
+  footer h2 a svg path {
+    fill: currentColor;
+  }
+  header h2 a:hover,
+  header h2 a:active,
+  header h2 a:focus {
+    color: rgb(254, 254, 254); /* @snow */
+    color: rgb(255, 224, 81); /* @bright-banana */
+  }
+
+
+  /* =Headline
+  ----------------------------------------------- */
+  main > h1:first-child {
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(254, 254, 254); /* @snow */
+    color: rgb(255, 224, 81); /* @bright-banana */
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(254, 254, 254); /* @snow */
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    padding: 0 1.5rem 3.75rem;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    max-width: none;
+    position: relative;
+    z-index: 1;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    main > h1:first-child {
+      margin-left: -4.5rem;
+      margin-right: -4.5rem;
+      padding: 3rem 3rem 6rem;
+      margin-bottom: 4.5rem; /* @headline-bottom-margin */
+    }
+  }
+
+
+
+
+  @media (max-width: 40em) {
+/*    header .navigation ul,
+    footer .navigation ul {
+      margin-left: -0.75em !important;
+      margin-right: -0.75em !important;
+    }*/
+    header .navigation li,
+    footer .navigation li {
+      margin: 0.375em 0.25em !important;
+    }
+    header .navigation li a,
+    footer .navigation li a {
+
+    }
+  }
+

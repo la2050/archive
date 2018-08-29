@@ -1,0 +1,90 @@
+
+.promotion {
+  display: none;
+}
+.introduction {
+  margin-bottom: 0;
+}
+.introduction h1 {
+  max-width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.25;
+  text-transform: none;
+  font-weight: bold;
+  letter-spacing: unset;
+  color: var(--primary-color, inherit);
+}
+@media (min-width: 40em) {
+  .introduction h1 {
+    font-size: 2.5em;
+  }
+}
+form {
+  margin-top: 3em;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+  margin-bottom: 7.5em;
+}
+form p {
+  text-align: left;
+  /*margin-top: 1.5em;*/
+  font-size: 1rem !important;
+}
+form p,
+form p.action {
+  margin-top: 1.5em;
+  padding-top: 1.125em;
+  border-top: 1px dashed rgba(141, 208, 59, 1); /* @lime */
+  border-top: 1px dashed rgba(0, 0, 0, 0.25);
+}
+@media (min-width: 30em) {
+  form p,
+  form p.action {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+}
+/*form p:first-child,
+form p.action {
+  border-top: 0.1875em solid rgba(0, 0, 0, 0.1);
+}*/
+form p.action {
+  padding-top: 3em;
+  text-align: center;
+}
+form input[type="text"],
+form select {
+  margin-top: 0.375em;
+  font-size: inherit;
+  max-width: 100%;
+}
+form button {
+  width: 100%;
+  max-width: 20em;
+}
+form input[type="text"],
+form input[type="number"] {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: 600;
+  padding: 0.375em 0.75em;
+  border-radius: 0;
+  max-width: none;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px solid rgb(237, 59, 136); /* @strawberry */
+  border-color: rgba(0, 0, 0, 0.25);
+  width: 100%;
+  max-width: 20em;
+
+  /* Remove Safari’s default styles for search fields */
+  -webkit-appearance: none;
+
+  text-align: left;
+}

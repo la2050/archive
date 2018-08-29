@@ -1,0 +1,77 @@
+
+.promotion {
+  display: none;
+}
+.introduction h1 {
+  max-width: none;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.25;
+  text-transform: none;
+  font-weight: bold;
+  letter-spacing: unset;
+  color: var(--primary-color, inherit);
+}
+@media (min-width: 40em) {
+  .introduction h1 {
+    font-size: 2.5em;
+  }
+}
+form input[type="email"],
+form input[type="text"] {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: 600;
+  padding: 0.75em;
+  border-radius: 0;
+  box-sizing: border-box;
+  text-align: center;
+  border: 0.1875em solid rgb(237, 59, 136); /* @strawberry */
+  border-color: rgba(0, 0, 0, 0.25);
+  width: 25em;
+  max-width: 100%;
+
+  /* Remove Safari’s default styles for search fields */
+  -webkit-appearance: none;
+}
+form input[name="verification_code"] {
+  width: 15em;
+}
+@media (max-width: 50em) {
+  form button,
+  form input[type="email"],
+  form input[type="text"] {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+/* OPTIONAL: Hide redundant label text */
+form .label-text {
+  position: absolute;
+  left: -9999px;
+}
+
+
+
+.news p,
+.news ul {
+  max-width: none;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.news li {
+  margin-left: 0.75em;
+  margin-right: 0.75em;
+}
+.news ul,
+.news li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}

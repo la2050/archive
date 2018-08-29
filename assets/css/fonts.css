@@ -1,0 +1,74 @@
+
+
+  /* =Fonts
+  ----------------------------------------------- */
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/1e9892c0-6927-4412-9874-1b82801ba47a.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/7377dbe6-f11a-4a05-b33c-bc8ce1f60f84.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/92b66dbd-4201-4ac2-a605-4d4ffc8705cc.woff") format("woff");
+    font-style: italic;
+    font-weight: normal;
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/627fbb5a-3bae-4cd9-b617-2f923e29d55e.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/f26faddb-86cc-4477-a253-1e1287684336.woff") format("woff");
+    font-style: normal;
+    font-weight: 500; /* @medium */
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/3f380a53-50ea-4a62-95c5-d5d8dba03ab8.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/8344e877-560d-44d4-82eb-9822766676f9.woff") format("woff");
+    font-style: italic;
+    font-weight: 500; /* @medium */
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/687932cb-145b-4690-a21d-ed1243db9e36.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/bc350df4-3100-4ce1-84ce-4a5363dbccfa.woff") format("woff");
+    font-style: italic;
+    font-weight: 600; /* @semibold */
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/aad99a1f-7917-4dd6-bbb5-b07cedbff64f.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/91b50bbb-9aa1-4d54-9159-ec6f19d14a7c.woff") format("woff");
+    font-style: normal;
+    font-weight: 600; /* @semibold */
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/14c73713-e4df-4dba-933b-057feeac8dd1.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff") format("woff");
+    font-style: normal;
+    font-weight: bold;
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/eaafcb26-9296-4a57-83e4-4243abc03db7.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/25e83bf5-47e3-4da7-98b1-755efffb0089.woff") format("woff");
+    font-style: italic;
+    font-weight: bold;
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/5c57b2e2-f641-421e-a95f-65fcb47e409a.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/181c847e-cdbc-43d5-ae14-03a81c8953b4.woff") format("woff");
+    font-style: normal;
+    font-weight: 900; /* @black */
+  }
+  @font-face{
+    font-family:"Avenir Next";
+    src: url("https://fonts.jimthoburn.com/activation.la2050.org/71b9791b-4350-4b52-8b43-c03b82004511.woff2") format("woff2"),
+         url("https://fonts.jimthoburn.com/activation.la2050.org/8c17992f-c017-49e0-b573-779f62016f06.woff") format("woff");
+    font-style: italic;
+    font-weight: 900; /* @black */
+  }

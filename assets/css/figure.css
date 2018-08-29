@@ -1,0 +1,164 @@
+
+  .standard-figure {
+    padding: 0;
+    max-width: none;
+    margin: 3em -1.5em;
+    position: relative;
+    background: rgb(41, 41, 41); /* @midnight */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .standard-figure h1,
+  .standard-figure p {
+    max-width: none;
+    margin: 0;
+  }
+  .standard-figure p + p {
+    margin-top: 0.75em;
+  }
+  .standard-figure p + .action {
+    margin-top: 1.5em;
+  }
+  .standard-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .standard-figure.has-caption::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+  }
+  .standard-figure .caption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-weight: 900; /* @black */
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(254, 254, 254); /* @snow */
+    box-sizing: border-box;
+    padding: 1.5em;
+    text-shadow: 0 0 2em rgba(0, 0, 0, 0.5);
+  }
+  .standard-figure .caption h1,
+  .standard-figure .caption p:first-child,
+  .standard-figure p.caption {
+    /*opacity: 0.9;*/
+    color: inherit;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .standard-figure .caption {
+      font-size: 2em;
+      font-size: 5vw;
+    }
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .standard-figure {
+      margin: 6em -4.5em;
+    }
+  }
+  .standard-layout > .standard-figure:first-child {
+    margin-top: 0;
+  }
+
+/*  @keyframes standard-figure-parallax {
+    0% {
+      object-position: 50% 0%;
+    }
+    100% {
+      object-position: 50% 100%;
+    }
+  }*/
+
+  @supports (object-fit: cover) {
+    .standard-figure img {
+
+/*      animation-name: standard-figure-parallax;
+      animation-duration: 100s;
+      animation-iteration-count: infinite;
+      animation-timing-function: linear;
+      animation-fill-mode: both;
+      animation-play-state: paused;
+      animation-delay: 0;
+      animation-delay: var(--scroll-percentage-in-seconds, 0);*/
+
+      height: 100vw;
+      object-fit: cover;
+      object-position: center;
+
+      object-position: calc(50% + var(--scroll-percentage, 0) * 1) calc(50% + var(--scroll-percentage, 0) * 10);
+
+      will-change: object-position;
+      /*transition: object-position linear 1s;*/
+    }
+    @media (min-width: 40em) {
+      .standard-figure img {
+        height: 75vw;
+      }
+    }
+    .goals .standard-figure img {
+      height: 60vw; /* This happens to work well with the particular images we have */
+    }
+    @media (min-width: 60em) {
+      .standard-figure img {
+        height: 45vw;
+        object-fit: cover;
+      }
+      .standard-figure img[src*="learn"] {
+        object-position: right;
+      }
+    }
+  }
+
+
+  .video {
+    margin: 3em 0;
+    grid-column: 1/4;
+    width: 100%;
+    position: relative;
+  }
+  .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+
+/*  @supports (object-fit: cover) {
+    @media (max-width: 19em) {   
+      .header-figure {
+        background: black;
+        padding-bottom: 25vw;
+      } 
+      .header-figure img {
+        height: auto;
+        object-fit: cover;
+      }
+      .header-figure::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 1) 25vw, rgba(0, 0, 0, 0) 50vw, rgba(0, 0, 0, 0));
+        z-index: 1;
+      }
+      .header-figure .caption {
+        z-index: 2;
+      } 
+    }
+  }*/

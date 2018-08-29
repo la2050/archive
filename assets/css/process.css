@@ -1,0 +1,85 @@
+
+
+  /* =Application Process
+  ----------------------------------------------- */
+  .application-process {
+    background-color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(255, 194, 51); /* @banana */
+    text-transform: uppercase;
+    font-weight: 900; /* @black */
+    margin: 1.5em -1.5em 0;
+    padding: 3em 1.5em;
+    letter-spacing: 1px;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .application-process {
+      margin: 3em -4.5em 0;
+    }
+  }
+  .application-process h4 {
+    font-size: 1.25em;
+    font-weight: inherit;
+    font-style: italic;
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  .application-process h4:first-child {
+    margin-top: 0;
+  }
+  .application-process ol:last-child {
+    margin-bottom: 0;
+  }
+
+  .application-process ol,
+  .application-process li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .application-process li::after {
+    content: "";
+    display: inline-block;
+    background: transparent url(/assets/images/arrow.svg) no-repeat center;
+    width: 1.5em;
+    height: 0.5em;
+    margin-left: 0.5em;
+    vertical-align: middle;
+  }
+  .application-process ol + h4 {
+    margin-top: 2.25em;
+  }
+  .application-process li:last-child::after {
+    content: none;
+  }
+
+  .application-process h4,
+  .application-process ol {
+    max-width: none;
+  }
+
+  @media (max-width: 69.9999em) {
+    .application-process {
+      text-align: center;
+    }
+    .application-process li::after {
+      transform: rotate(90deg);
+      margin: 0.75em auto;
+      display: block;
+    }
+  }
+
+  @media (min-width: 70em) {
+    .application-process {
+      display: block !important;
+    }
+    .application-process > div {
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .application-process li {
+      display: inline-block;
+    }
+    .application-process li + li {
+      margin-left: 0.375em;
+    }
+  }

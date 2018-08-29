@@ -1,0 +1,222 @@
+
+
+  /* =Section
+  ----------------------------------------------- */
+  .standard-section {
+    margin: 3em -1.5em;
+    padding: 3em 1.5em;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .standard-section {
+      margin: 6em -4.5em;
+      padding: 4.5em 3em;
+    }
+  }
+  .standard-section > div > h2 {
+    margin-top: 0;
+    color: inherit;
+    font-size: 1.75em;
+    line-height: 1.2857142857; /* (1.5 / 1.75) x 1.5 */
+    font-style: italic;
+    margin-bottom: 1;
+  }
+  @media (min-width: 40em) {
+    .standard-section > div > h2 {
+      font-size: 3.375em;
+      font-size: 3.75vw;
+      max-width: none;
+    }
+  }
+
+  .activation-examples {
+    background-color: rgb(6, 179, 188); /* @blueberry */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  main > .timeline {
+    background-color: rgb(255, 194, 51); /* @banana */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+  main > .timeline p {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  main > .timeline p strong {
+    color: inherit;
+  }
+  main > .timeline p:not(.action) a {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  main > .timeline p a:active,
+  main > .timeline p a:hover,
+  main > .timeline p a:focus {
+    color: rgb(254, 254, 254); /* @snow */
+  }
+
+  main > h1 + .timeline {
+    margin-top: -4.5rem; /* @headline-bottom-margin */
+    padding-top: 0;
+  }
+
+  .activation-examples h2 + p {
+    max-width: none;
+    font-weight: bold;
+  }
+  .activation-examples h2 + p strong {
+    color: inherit;
+    font-weight: inherit;
+  }
+  .activation-examples h2 + p strong em {
+    color: rgb(237, 59, 136); /* @strawberry */
+    color: rgb(255, 194, 51); /* @banana */
+    color: rgb(255, 224, 81); /* @bright-banana */
+    font-style: normal;
+    display: inline-block;
+    font-weight: inherit;
+  }
+  .activation-examples a {
+    color: rgb(255, 224, 81); /* @bright-banana */
+  }
+  .activation-examples a:hover,
+  .activation-examples a:active,
+  .activation-examples a:focus {
+    color: rgb(255, 79, 156); /* @bright-strawberry */
+    color: rgb(141, 208, 59); /* @lime */
+    color: rgb(181, 248, 99); /* @bright-lime */
+    color: rgb(254, 254, 254); /* @snow */
+  }
+
+
+  main > .timeline dl {
+    letter-spacing: 0.1em;
+    max-width: none;
+  }
+  .activation-examples ul + p:last-child,
+  main > .timeline dl + p:last-child {
+    margin-top: 3em;
+    margin-bottom: 1.25em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .activation-examples ul + p:last-child,
+    main > .timeline dl + p:last-child {
+      margin-top: 4.5em;
+      margin-bottom: 1.5em;
+    }
+  }
+
+
+  .activation-examples ul,
+  .activation-examples li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .activation-examples ul {
+    max-width: none;
+  }
+  .activation-examples li,  
+  main > .timeline dt {
+    margin-top: 3em;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  @media (min-width: 40em) { /* @medium-size-screen */
+    .activation-examples li,  
+    main > .timeline dt {
+      font-size: 0.75em;
+    }
+  }
+  main > .timeline dt {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  .activation-examples li img,
+  main > .timeline dt img {
+    width: auto;
+    height: 4.5em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.75em;
+  }
+
+  main > .timeline dt strong {
+    font-weight: inherit;
+    color: rgb(254, 254, 254); /* @snow */
+  }
+
+  main > .timeline dd {
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  main > .timeline dd strong {
+    color: rgb(237, 59, 136); /* @strawberry */
+  }
+  main > .timeline dl {
+    margin-bottom: 3em;
+  }
+
+  @supports (display: grid) {
+    @media (min-width: 40em) {
+      .activation-examples ul {
+        display: grid;
+        grid-column-gap: 1.5em;
+        grid-template-columns: 1fr 1fr;
+        max-width: none;
+      }
+    }
+    @media (min-width: 60em) {
+      .activation-examples ul,
+      main > .timeline dl {
+        display: grid;
+        grid-column-gap: 1.5em;
+        grid-template-columns: 1fr 1fr 1fr;
+        max-width: none;
+      }
+      .activation-examples li:nth-child(3n+1):last-child {
+        grid-column: span 3;
+      }
+      main > .timeline dt:nth-of-type(1),
+      main > .timeline dt:nth-of-type(2),
+      main > .timeline dt:nth-of-type(3) {
+        grid-row: 1 / 2;
+        align-self: end;
+      }
+      main > .timeline dd:nth-of-type(1),
+      main > .timeline dd:nth-of-type(2),
+      main > .timeline dd:nth-of-type(3) {
+        grid-row: 2 / 3;
+        align-self: start;
+      }
+      main > .timeline dt:nth-of-type(4),
+      main > .timeline dt:nth-of-type(5),
+      main > .timeline dt:nth-of-type(6) {
+        grid-row: 3 / 4;
+        align-self: end;
+      }
+      main > .timeline dd:nth-of-type(4),
+      main > .timeline dd:nth-of-type(5),
+      main > .timeline dd:nth-of-type(6) {
+        grid-row: 4 / 5;
+        align-self: start;
+      }
+      main > .timeline dt:nth-of-type(7) {
+        grid-row: 5 / 6;
+        grid-column: 2 / 3;
+        align-self: end;
+      }
+      main > .timeline dd:nth-of-type(7) {
+        grid-row: 6 / 7;
+        grid-column: 2 / 3;
+        align-self: end;
+      }
+    }
+  }

@@ -1,0 +1,514 @@
+---
+layout: default
+main_class: standard-layout
+stylesheets:
+  - "/assets/css/project-list.css"
+  - "/assets/css/project.css"
+---
+
+<div style="margin-top: 3em"></div>
+
+<section class="proposal-introduction" style="grid-column: 1/4">
+
+<div class="proposal-header">
+<p class="category">
+  <a href="/{{ page.category }}/#projects">{{ page.category }}</a>
+</p>
+<h1 style="margin-bottom: 0">{{ page.title }}</h1>
+</div>
+
+{% if page.organization_instagram contains "http" %}
+{% assign instagram_url = page.organization_instagram %}
+{% elsif page.organization_instagram contains "instagram.com/" %}
+{% capture instagram_url %}https://{{ page.organization_instagram }}{% endcapture %}
+{% else %}
+{% capture instagram_url %}https://instagram.com/{{ page.organization_instagram }}{% endcapture %}
+{% endif %}
+
+{% if page.project_video and page.project_video != "" %}
+{% if page.project_video contains "youtu" or page.project_video contains "vimeo" %}
+{% unless page.project_video contains "youtube.com/user/" %}
+  {% assign video_embed_url = page.project_video %}
+
+  {% if page.project_video contains "youtu" %}
+    {% assign video_embed_url = video_embed_url | replace: 'watch?v=', 'embed/' %}
+    {% assign video_embed_url = video_embed_url | replace: 'embed?v=', 'embed/' %}
+
+    {% assign video_embed_url = video_embed_url | replace: 'https://youtu.be/', 'https://www.youtube.com/embed/' %}
+
+    {% comment %}Replace query string params (since they’re usually not needed){% endcomment %}
+    {% assign video_embed_url_array = video_embed_url | split: "?" %}
+    {% assign video_embed_url = video_embed_url_array.first %}
+    {% assign video_embed_url_array = video_embed_url | split: "&" %}
+    {% assign video_embed_url = video_embed_url_array.first %}
+    {% capture video_embed_url %}{{ video_embed_url }}?rel=0&showinfo=0&modestbranding=1{% endcapture %}
+  {% endif %}
+
+  {% assign video_embed_url = video_embed_url | replace: 'https://vimeo.com/', 'https://player.vimeo.com/video/' %}
+{% endunless %}
+{% endif %}
+{% endif %}
+
+{% assign image_url = page.project_image %}
+{% assign image_category = page.category %}
+
+<figure class="feature {% unless page.project_video != '' %} has-image{% endunless %}">
+<div data-aspect-ratio="1280/720">
+
+{% if video_embed_url %}
+  <iframe src="{{ video_embed_url }}" frameborder="0" allowfullscreen></iframe>
+{% else %}
+{% if page.project_video and page.project_video != '' %}
+<a href="{{ page.project_video }}" target="_blank" class="has-icon">
+{% else %}
+<a href="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}">
+{% endif %}
+
+<img src="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt="" width="500" />
+
+{% comment %}
+<picture>
+  <source srcset="/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="100vw" media="(max-aspect-ratio: 1/1)">
+
+  <source srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 70em) 50vw, 100vw">
+
+  <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" width="500" alt="" />
+</picture>
+{% endcomment %}
+
+{% if page.project_video and page.project_video != '' %}
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Play Video</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignObject>Play Video</foreignObject>
+</switch>
+</svg>
+</span>
+<span class="credit">Play video on {{
+      page.project_video 
+      | replace: "https://", ""
+      | replace: "http://", ""
+      | replace: "www.", ""
+      | split: "/" | first
+    }}</span>
+</a>
+{% else %}
+</a>
+{% endif %}
+{% endif %}
+</div>
+</figure>
+
+<div class="proposal-description">
+<h2 style="margin-top: 0.75rem;" class="organization">{{ page.organization_name }}</h2>
+<!-- TODO: Handle long lists of collaborators:
+  /learn/wish-academy-high-school/
+  /connect/data-roads-foundation/
+  /connect/investing-in-place/
+  /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
+-->
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.organization_description }}</p>
+
+<p style="margin-bottom: 0">
+  {{ page.project_description }}
+</p>
+
+{% if site.phase == 6 and is_finalist == true %}
+{% comment %}
+<span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank">Vote </a></span>
+ <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+<p class="action"><a href="https://jimthoburn.typeform.com/to/fGLGJB" target="_blank">Vote</a></p>
+{% endcomment %}
+{% endif %}
+
+<!-- <dl>
+<dt>Organization type</dt>
+<dd>{{ page.organization_description }}</dd>
+</dl> -->
+</div>
+
+{% if page.link_newsletter and page.link_newsletter != '' %}
+
+{% for link_newsletter in page.link_newsletter limit:1 %}
+
+{% if link_newsletter contains "http" or link_newsletter contains "mailto" %}
+{% assign link_newsletter_url = link_newsletter %}
+{% else %}
+{% capture link_newsletter_url %}http://{{ link_newsletter }}{% endcapture %}
+{% endif %}
+
+{% assign url_contains_notes = '' %}
+{% if link_newsletter_url contains " " %}
+{% unless link_newsletter_url contains "?subject" %}
+{% assign url_contains_notes = link_newsletter_url %}
+{% endunless %}
+{% endif %}
+{% if url_contains_notes == '' %}
+<div class="links links-action">
+<h2>Love this idea?</h2>
+
+<ul class="action" style="max-width: none;">
+  <li><a href="{{ link_newsletter_url }}">Stay updated on this activation</a></li>
+</ul>
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% endif %}
+
+
+{% if page.link_donate and page.link_donate != '' %}
+{% assign link_donate_exists = true %}
+{% endif %}
+
+{% if page.link_volunteer and page.link_volunteer != '' %}
+{% assign link_volunteer_exists = true %}
+{% endif %}
+
+
+{% if link_donate_exists or link_volunteer_exists %}
+<div class="links links-involved">
+<h2>Get involved</h2>
+
+<ul class="action" style="max-width: none;">
+  {% if link_donate_exists %}
+
+    {% for link_donate in page.link_donate limit:1 %}
+
+    {% if link_donate contains "http" or link_donate contains "mailto" %}
+    {% assign link_donate_url = link_donate %}
+    {% else %}
+    {% capture link_donate_url %}http://{{ link_donate }}{% endcapture %}
+    {% endif %}
+
+    {% assign url_contains_notes = '' %}
+    {% if link_donate_url contains " " %}
+    {% unless link_donate_url contains "?subject" %}
+    {% assign url_contains_notes = link_donate_url %}
+    {% endunless %}
+    {% endif %}
+    {% if url_contains_notes == '' %}
+    <li><a href="{{ link_donate_url }}">Donate</a></li>
+    {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+  {% if link_volunteer_exists %}
+
+    {% for link_volunteer in page.link_volunteer limit:1 %}
+
+    {% if link_volunteer contains "http" or link_volunteer contains "mailto" %}
+    {% assign link_volunteer_url = link_volunteer %}
+    {% else %}
+    {% capture link_volunteer_url %}http://{{ link_volunteer }}{% endcapture %}
+    {% endif %}
+
+    {% assign url_contains_notes = '' %}
+    {% if link_volunteer_url contains " " %}
+    {% unless link_volunteer_url contains "?subject" %}
+    {% assign url_contains_notes = link_volunteer_url %}
+    {% endunless %}
+    {% endif %}
+    {% if url_contains_notes == '' %}
+    <li><a href="{{ link_volunteer_url }}">Volunteer</a></li>
+    {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+</ul>
+</div>
+{% endif %}
+
+</section><!-- /.proposal-introduction -->
+
+<hr />
+
+{% include project-links.html %}
+
+<hr />
+
+{% if page.project_video and false %}
+<div style="grid-column: 1/4;">
+  <figure class="feature proposal-video-figure">
+    <div data-aspect-ratio="1280/720">
+      <div class="proposal-video">
+        <iframe src="{{ page.project_video }}&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </figure>
+  <script type="text/template" id="video-template">
+    <figure class="feature proposal-video-figure">
+      <div data-aspect-ratio="1280/720">
+        <div class="proposal-video">
+          <iframe src="{{ page.project_video }}&modestbranding=1&autoplay=1" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </figure>
+  </script>
+</div>
+
+<script type="text/javascript">
+  // Replace the image with a video element, if the link to the video has been pressed
+  (function() {
+
+    // Do we have the features we need?
+    if (!document.body.querySelector ||
+        !document.body.addEventListener) return;
+
+    var button   = document.getElementById('video-figure');
+    var template = document.getElementById('video-template');
+    var parent;
+
+    var activated = false;
+
+    if (button && template) {
+      parent = template.parentNode;
+      button.addEventListener('click', function(e) {
+        if (activated) {
+          parent.scrollIntoView({ behavior: 'smooth' });
+          e.preventDefault();
+          return;
+        }
+        activated = true;
+        parent.innerHTML = template.innerHTML;
+        parent.scrollIntoView({ behavior: 'smooth' });
+        // template.parentNode.scrollIntoView(true);
+        document.body.classList.add('has-active-video');
+        e.preventDefault();
+      }, false);
+    }
+  })();
+</script>
+{% endif %}
+
+<div class="proposal-in-depth">
+
+<div class="proposal-answers">
+
+<!--
+<h2 class="answers-header"><abbr title="Questions and Answers">Q &amp; A</abbr></h2>
+-->
+
+<h3>What does your organization do?</h3>
+{{ page.organization_activity | markdownify }}
+
+{% if page.project_is_collaboration != "No" and page.project_collaborators.size > 0 %}
+<h3>Are any other organizations collaborating on this proposal?</h3>
+
+{% for collaborator in page.project_collaborators %}
+<p>{{ collaborator }}</p>
+{% endfor %}
+
+{% endif %}
+
+<h3>Please describe the activation your organization seeks to launch.</h3>
+{{ page.project_proposal_description | markdownify }}
+
+<h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will your activation impact?​</h3>
+<ul>
+  {% for metric in page.category_metrics %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+
+<h3>Will your proposal impact any other LA2050 goal categories?</h3>
+<ul>
+  {% for metric in page.category_other %}
+  <li>{{ metric }}</li>
+  {% endfor %}
+</ul>
+
+<h3>In what areas of Los Angeles will you be directly working?</h3>
+<ul>
+  {% for area in page.project_areas %}
+  <li>
+    {{
+      area
+        | replace: "(please select only if your project has a countywide", ""
+        | replace: "(please select only if your project has a citywide", ""
+        | replace: "benefit)", ""
+    }}
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>How will your activation mobilize Angelenos?</h3>
+<ul>
+  {% for item in page.project_proposal_mobilize %}
+  <li>
+    {{
+      item
+        | replace: "(e.g. voting, running for", ""
+        | replace: "office, community problem solving)", ""
+        | replace: "(e.g. buycott, boycott, promote", ""
+        | replace: "corporate social responsibility)", ""
+        | replace: "(e.g. change consumer spending or increase", ""
+        | replace: "conservation activity)", ""
+    }}
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>Describe in greater detail how your activation will make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span>? </h3>
+{{ page.project_proposal_best_place | markdownify }}
+
+<h3>How will your activation engage Angelenos to make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span></h3>
+{{ page.project_proposal_engage | markdownify }}
+
+<h3>Please explain how you will define and measure success for your activation.​</h3>
+{{ page.project_measure | markdownify }}
+
+<h3>Where do you hope this activation or your organization will be in five years?</h3>
+{{ page.project_five_years | markdownify }}
+
+</div>
+
+<hr />
+
+<div class="comments">
+  <h2 class="comments-header">Comments</h2>
+  <div id="disqus_thread"></div>
+</div>
+<script>
+    // https://disqus.com/admin/universalcode/#configuration-variables
+    var disqus_config = function () {
+        this.page.url = 'https://activation.la2050.org{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = '{{ page.application_id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+
+        s.src = 'https://activation-la2050-org.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+
+</div><!-- /.proposal-in-depth -->
+
+<hr style="margin-top: 3em;" />
+
+<ul class="proposals more-proposals" style="margin-top: 3em;">
+
+{% assign data_collection = site.collections | where: "label", page.category | first %}
+{% assign data_list = data_collection.docs %}
+
+{% assign next_index = page.order | plus: 1 %}
+{% if next_index >= data_list.size %}
+  {% assign next_index = 0 %}
+{% endif %}
+
+  {% for data in data_list %}
+  {% if data.order == next_index and data.order != page.order %}
+  <li class="next">
+    <a href="{{ data.uri }}">
+      <h2 class="indicator">
+        Next project
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+          <path fill="white" d="M22,12c0-0.2-0.1-0.4-0.2-0.6l-9.4-8.2C12.2,3.1,12,3,11.8,3c-0.2,0-0.4,0.1-0.6,0.2l-0.5,0.5c-0.2,0.2-0.3,0.4-0.3,0.6 c0,0.2,0.1,0.4,0.3,0.6l7,5.9l-15,0.1c-0.2,0-0.4,0.1-0.5,0.3C2.1,11.3,2,11.5,2,11.7v0.6c0,0.2,0.1,0.4,0.2,0.6s0.3,0.3,0.5,0.3 h15l-7,6.1c-0.2,0.1-0.3,0.3-0.3,0.5s0.1,0.4,0.3,0.6l0.5,0.5c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.4-0.1,0.6-0.3l9.4-8.2 C21.9,12.4,22,12.2,22,12z"></path>
+        </svg>
+      </h2>
+
+      <span class="image">
+        {% assign image_url = data.project_image %}
+        {% assign image_category = data.category %}
+
+        {% comment %}
+        <img src="/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }}" alt="" width="500" />
+        {% endcomment %}
+
+        <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 40em, 100vw" width="500" alt="" />
+      </span>
+
+      <p class="organization">{{ data['organization_name'] }}</p>
+      <h3>{{ data['title'] }}</h3>
+      <p class="description">{{ data['project_description'] }}</p>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+{% assign previous_index = page.order | minus: 1 %}
+{% if previous_index < 0 %}
+  {% assign previous_index = data_list.size | minus: 1 %}
+{% endif %}
+{% assign data = data_list[previous_index] %}
+
+  {% for data in data_list %}
+  {% if data.order == previous_index and data.order != page.order %}
+  <li class="previous">
+    <a href="{{ data.uri }}">
+      <h2 class="indicator">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+          <path fill="white" d="M22,12c0-0.2-0.1-0.4-0.2-0.6l-9.4-8.2C12.2,3.1,12,3,11.8,3c-0.2,0-0.4,0.1-0.6,0.2l-0.5,0.5c-0.2,0.2-0.3,0.4-0.3,0.6 c0,0.2,0.1,0.4,0.3,0.6l7,5.9l-15,0.1c-0.2,0-0.4,0.1-0.5,0.3C2.1,11.3,2,11.5,2,11.7v0.6c0,0.2,0.1,0.4,0.2,0.6s0.3,0.3,0.5,0.3 h15l-7,6.1c-0.2,0.1-0.3,0.3-0.3,0.5s0.1,0.4,0.3,0.6l0.5,0.5c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.4-0.1,0.6-0.3l9.4-8.2 C21.9,12.4,22,12.2,22,12z"></path>
+        </svg>
+        Previous project
+      </h2>
+
+      <span class="image">
+        {% assign image_url = data.project_image %}
+        {% assign image_category = data.category %}
+
+        {% comment %}
+        <img src="/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }}" alt="" width="500" />
+        {% endcomment %}
+
+        <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 40em, 100vw" width="500" alt="" />
+      </span>
+
+      <p class="organization">{{ data['organization_name'] }}</p>
+      <h3>{{ data['title'] }}</h3>
+      <p class="description">{{ data['project_description'] }}</p>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+</ul>
+
+{% include project-navigation.html %}
+
+<div style="margin-bottom: 4.5em"></div>
+
+
+
+
+{% comment %}
+<hr style="margin-top: 0" />
+
+<h2 class="comments-header" style="justify-self: center;">Choose another category</h2>
+
+{% include project-navigation.html %}
+
+<style>
+.goals .navigation > div .count {
+  opacity: 0; 
+}
+</style>
+
+<section class="goals" style="margin-top: -3em; margin-bottom: 4.5em">
+
+<div class="navigation"><div>
+
+<h2>Choose another category</h2>
+
+<ul class="action" style="margin-right: 0; margin-top: 1.5em;">
+  <li class="blueberry"><a href="/learn/#projects"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
+  <li class="banana"><a href="/create/#projects"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
+  <li class="strawberry"><a href="/play/#projects"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
+  <li class="tangerine"><a href="/connect/#projects"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
+  <li class="lime"><a href="/live/#projects"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
+</ul>
+
+</div></div>
+
+</section>
+{% endcomment %}
