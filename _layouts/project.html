@@ -12,7 +12,7 @@ stylesheets:
 
 <div class="proposal-header">
 <p class="category">
-  <a href="/{{ page.category }}/#projects">{{ page.category }}</a>
+  <a href="/{{ page.category }}/">{{ page.category }}</a>
 </p>
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
@@ -537,11 +537,11 @@ stylesheets:
 <h2>Choose another category</h2>
 
 <ul class="action" style="margin-right: 0; margin-top: 1.5em;">
-  <li class="blueberry"><a href="/learn/#projects"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
-  <li class="banana"><a href="/create/#projects"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
-  <li class="strawberry"><a href="/play/#projects"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
-  <li class="tangerine"><a href="/connect/#projects"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
-  <li class="lime"><a href="/live/#projects"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
+  <li class="blueberry"><a href="/learn/"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
+  <li class="banana"><a href="/create/"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
+  <li class="strawberry"><a href="/play/"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
+  <li class="tangerine"><a href="/connect/"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
+  <li class="lime"><a href="/live/"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
 </ul>
 
 </div></div>

@@ -117,12 +117,12 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
         {% comment %}
         <p
           style="text-transform: none; text-decoration: none;">
-          <span class="category" style="text-transform: uppercase; text-decoration: underline" onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> Winner
+          <span class="category" style="text-transform: uppercase; text-decoration: underline" onclick="window.location.href = '/{{ data['category']}}/'; event.preventDefault()">{{ data['category'] }}</span> Winner
         </p>
         <h2 style="color: var(--primary-color); font-size: inherit;">LA2050 is proud to present…</h2>
         {% endcomment %}
         <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
-          <strong class="category" style="text-decoration: none"><span onclick="window.location.href = '/{{ data['category']}}/#projects'; event.preventDefault()">{{ data['category'] }}</span> winner</strong>
+          <strong class="category" style="text-decoration: none"><span onclick="window.location.href = '/{{ data['category']}}/'; event.preventDefault()">{{ data['category'] }}</span> winner</strong>
         </p>
         {% endif %}
         <h3>{{ data['title'] }}</h3>
