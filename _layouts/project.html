@@ -314,19 +314,26 @@ stylesheets:
 <h3>Please describe the activation your organization seeks to launch.</h3>
 {{ page.project_proposal_description | markdownify }}
 
+{% assign category_metrics = page.category_metrics %}
+{% unless category_metrics %}
+{% assign category_metrics = page.project_proposal_impact %}
+{% endunless %}
+
 <h3>Which of the <span style="text-transform: uppercase;">{{ page.category }}</span> metrics will your activation impact?​</h3>
 <ul>
-  {% for metric in page.category_metrics %}
+  {% for metric in category_metrics %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
 
+{% if page.category_other %}
 <h3>Will your proposal impact any other LA2050 goal categories?</h3>
 <ul>
   {% for metric in page.category_other %}
   <li>{{ metric }}</li>
   {% endfor %}
 </ul>
+{% endif %}
 
 <h3>In what areas of Los Angeles will you be directly working?</h3>
 <ul>
@@ -342,6 +349,7 @@ stylesheets:
   {% endfor %}
 </ul>
 
+{% if page.project_proposal_mobilize %}
 <h3>How will your activation mobilize Angelenos?</h3>
 <ul>
   {% for item in page.project_proposal_mobilize %}
@@ -358,18 +366,32 @@ stylesheets:
   </li>
   {% endfor %}
 </ul>
+{% endif %}
 
 <h3>Describe in greater detail how your activation will make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span>? </h3>
 {{ page.project_proposal_best_place | markdownify }}
 
+{% if page.project_proposal_engage %}
 <h3>How will your activation engage Angelenos to make LA the best place to <span style="text-transform: uppercase;">{{ page.category }}</span></h3>
 {{ page.project_proposal_engage | markdownify }}
+{% endif %}
 
 <h3>Please explain how you will define and measure success for your activation.​</h3>
 {{ page.project_measure | markdownify }}
 
+{% if page.project_five_years %}
 <h3>Where do you hope this activation or your organization will be in five years?</h3>
 {{ page.project_five_years | markdownify }}
+{% endif %}
+
+{% if page.project_proposal_help %}
+<h3>How can the LA2050 community and other stakeholders help your proposal succeed?</h3>
+<ul>
+  {% for help in page.project_proposal_help %}
+  <li>{{ help }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
 
 </div>
 

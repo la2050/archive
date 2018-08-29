@@ -87,17 +87,7 @@
 
 {% if page.category %}
 
-{% if page.finalists %}
-  {% if site.phase == 5 %}
-  <p class="count"><a href="/vote/">Vote for one of these <strong>5</strong> projects</a> in the <strong class="category">{{ page.category }}</strong> category, starting June 19, 2018.</p>
-  {% elsif site.phase == 6 %}
-  <p class="count"><a href="{{ site.vote_url }}">Vote for one of these <strong>5</strong> projects</a> in the <strong class="category">{{ page.category }}</strong> category, by June 29, 2018.</p>
-  {% else %}
-  <p class="count">There are <strong>5</strong> finalists in the <strong class="category">{{ page.category }}</strong> category.</p>
-  {% endif %}
-{% else %}
 <p class="count">There are <strong>{{ data_list.size }}</strong> projects in the <strong class="category">{{ page.category }}</strong> category.</p>
-{% endif %}
   
 {% elsif page.is_search_results %}
 
