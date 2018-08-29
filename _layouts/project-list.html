@@ -196,12 +196,16 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% if page.finalists or page.winners %}
   <li class="{{ data.category }}">
     <a href="{{ data.uri }}">
+      {% if data.plan_id %}
+      <span class="image"><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ data['project_image'] }}" alt="" width="540" height="428" /></span>
+      {% else %}
       <span class="image" {% if data.project_image_color %}
         style="background-color: {{ data.project_image_color }}"{% endif %}>
         {% assign image_url = data.project_image %}
         {% assign image_category = data.category %}
-        <img src="/assets/images/{{ image_category }}/512-wide/{{ image_url }}" srcset="/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="(min-width: 60em) 50vw, 100vw" width="500" alt="" />
+        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="(min-width: 60em) 50vw, 100vw" width="500" alt="" />
       </span>
+      {% endif %}
       <span class="text">
         {% if page.winners %}
         {% comment %}
@@ -285,7 +289,11 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
         {% assign image_url = data.project_image %}
         {% assign image_category = data.category %}
 
-        <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 20em, 100vw" width="500" alt="" />
+        {% if data.plan_id %}
+        <img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ data['project_image'] }}" alt="" width="540" height="428" />
+        {% else %}
+        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 20em, 100vw" width="500" alt="" />
+        {% endif %}
       </span>
       <p class="organization">{{ data['organization_name'] }}</p>
       <h3>{{ data['title'] }}</h3>

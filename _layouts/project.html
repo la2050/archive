@@ -64,15 +64,19 @@ stylesheets:
 <a href="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}">
 {% endif %}
 
-<img src="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt="" width="500" />
+{% if page.plan_id %}
+<img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt="" width="540" height="428" />
+{% else %}
+<img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt="" width="500" />
+{% endif %}
 
 {% comment %}
 <picture>
-  <source srcset="/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="100vw" media="(max-aspect-ratio: 1/1)">
+  <source srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="100vw" media="(max-aspect-ratio: 1/1)">
 
-  <source srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 70em) 50vw, 100vw">
+  <source srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 70em) 50vw, 100vw">
 
-  <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" width="500" alt="" />
+  <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" width="500" alt="" />
 </picture>
 {% endcomment %}
 
@@ -369,6 +373,7 @@ stylesheets:
 
 </div>
 
+{% comment %}
 <hr />
 
 <div class="comments">
@@ -390,11 +395,15 @@ stylesheets:
         (d.head || d.body).appendChild(s);
     })();
 </script>
+{% endcomment %}
 
 
 </div><!-- /.proposal-in-depth -->
 
+
 <hr style="margin-top: 3em;" />
+
+{% comment %}
 
 <ul class="proposals more-proposals" style="margin-top: 3em;">
 
@@ -422,10 +431,14 @@ stylesheets:
         {% assign image_category = data.category %}
 
         {% comment %}
-        <img src="/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }}" alt="" width="500" />
+        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }}" alt="" width="500" />
         {% endcomment %}
 
-        <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 40em, 100vw" width="500" alt="" />
+        {% if data.plan_id %}
+        <img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ data['project_image'] }}" alt="" width="540" height="428" />
+        {% else %}
+        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 40em, 100vw" width="500" alt="" />
+        {% endif %}
       </span>
 
       <p class="organization">{{ data['organization_name'] }}</p>
@@ -458,10 +471,10 @@ stylesheets:
         {% assign image_category = data.category %}
 
         {% comment %}
-        <img src="/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }}" alt="" width="500" />
+        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }}" alt="" width="500" />
         {% endcomment %}
 
-        <img src="/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, /assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, /assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, /assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, /assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, /assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 40em, 100vw" width="500" alt="" />
+        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 40em, 100vw" width="500" alt="" />
       </span>
 
       <p class="organization">{{ data['organization_name'] }}</p>
@@ -473,6 +486,7 @@ stylesheets:
   {% endfor %}
 
 </ul>
+{% endcomment %}
 
 {% include project-navigation.html %}
 
