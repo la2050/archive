@@ -158,7 +158,9 @@
     {% endif %}
   </main>
   <footer>
+    {% comment %}
     {% include logotype.html %}
+    {% endcomment %}
     {% include navigation.html %}
     <ul class="social-links">
       <li>
@@ -232,7 +234,9 @@
       </p>
       <p><small>With support from the <a href="http://www.goldhirshfoundation.org/">Goldhirsh Foundation</a></small></p>
     </div>
+    {% comment %}
     <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
+    {% endcomment %}
   </footer>
 
   <script async src="/assets/js/navigation.js?v={{ site.version }}"></script>

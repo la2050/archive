@@ -213,6 +213,14 @@
     color: inherit;
     padding: 3em 1.5em 3em;
   }
+  body:not(.header-not-visible) header {
+    background:  rgb(254, 254, 254) !important;
+    color: rgb(41, 41, 41) !important;
+  }
+  body:not(.header-not-visible) header h2,
+  body:not(.header-not-visible) header a {
+    color: rgb(41, 41, 41) !important;
+  }
   @media (min-width: 40em) { /* @medium-size-screen */
     header,
     footer {

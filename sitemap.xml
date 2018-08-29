@@ -22,7 +22,7 @@ layout: null
 ######### Entries #########
 {% endcomment %}
   <url>
-    <loc>https://activation.la2050.org/projects/</loc>
+    <loc>https://activation.la2050.org/explore/</loc>
   </url>
   <url>
     <loc>https://activation.la2050.org/learn/</loc>

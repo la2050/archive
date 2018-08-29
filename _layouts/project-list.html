@@ -6,78 +6,16 @@ stylesheets:
   - "/assets/css/project-list.css"
 ---
 
-{% if page.winners == true %}
-<h1 style="color: white">Winners</h1>
+<h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
-<style>
-
-main > h1:first-child {
-  position: relative;
-}
-main > h1:first-child::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url(/assets/images/trumpet.svg);
-  background-size: 10vmax auto;
-}
-
-</style>
-{% elsif page.finalists == true %}
-<h1 style="color: white">Finalists</h1>
-{% else %}
-{% comment %}
-<h1 style="color: white">Projects</h1>
-{% endcomment %}
-{% endif %}
-
-{% assign conditional_finalists_url = "" %}
-
-{% if page.finalists %}
-{% assign conditional_finalists_url = "finalists/" %}
-{% endif %}
-
-
+<div style="margin-top: 3em"></div>
 
 {% comment %}
-{% unless page.is_search_results %}
-<script>
-(function() {
-  function getRandomOrder() {
-    return (Math.floor(Math.random() * 100) + 1) - 50;
-  }
-  for (var index = 0; index < 100; index++) {
-    document.documentElement.style.setProperty('--order-' + index, getRandomOrder());
-  }
-})();
-</script>
-{% endunless %}
+<div class="introduction" style="margin-top: 6em; margin-bottom: 6em;">
+  <p>Here are the organizations that have submitted projects in the <span style="text-transform: uppercase;">{{ page.category }}</span> category.</p>
+  <p><small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+</div>
 {% endcomment %}
-
-
-
-{% if site.phase < 4 %}
-
-<div class="introduction" markdown="1">
-The proposals will appear here on <strong>April 9, 2018</strong>.
-</div>
-
-{% elsif page.finalists == true and site.phase < 5 %}
-
-<div class="introduction" markdown="1">
-The finalists will appear here on <strong>May 21, 2018</strong>.
-</div>
-
-{% elsif page.winners == true and site.phase < 8 %}
-
-<div class="introduction" markdown="1">
-The winners will appear here on <strong>July 9, 2018</strong>.
-</div>
-
-{% else %}
 
 {% if page.category %}
 
@@ -113,36 +51,6 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% assign data_list = data_list | push: item %}
 {% endfor %}
 
-{% endif %}
-
-
-{% if page.finalists and site.phase == 6 %}
-
-{% comment %}
-<div class="introduction">
-  <p>Public voting has started! Vote by <strong>June 29, 2018</strong> <small>(5pm Pacific Time)</small>.</p>
-
-  <p class="action">
-    <a href="{{ site.vote_url }}">I’m ready to vote</a>
-  </p>
-</div>
-
-<hr />
-{% endcomment %}
-
-{% endif %}
-
-{% if page.winners and site.phase == 8 %}
-<div class="introduction" style="margin-top: 6em; margin-bottom: 6em;">
-  <p>Congratulations to the winners of the My LA2050 Activation Challenge!</p>
-</div>
-<style>
-@media (min-width: 40em) {
-  .proposals.finalists {
-    margin-top: 4.5em;
-  }
-}
-</style>
 {% endif %}
 
 
@@ -450,41 +358,6 @@ function shuffle(array) {
 {% endif %}
 
 
-{% endif %}
-
-
-{% comment %}
-{% unless page.winners or page.finalists %}
-
-<section class="goals" style="margin-bottom: 9em">
-
-<div class="navigation"><div>
-
-<!-- <h2>Browse categories</h2> -->
-
-<ul class="action" style="margin-right: 0;">
-  <li class="blueberry"><a href="/learn/#projects"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
-  <li class="banana"><a href="/create/#projects"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
-  <li class="strawberry"><a href="/play/#projects"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
-  <li class="tangerine"><a href="/connect/#projects"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
-  <li class="lime"><a href="/live/#projects"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
-</ul>
-
-</div></div>
-
-</section>
-
-{% endunless %}
-{% endcomment %}
-
-
-<!-- <script async src="/api/connect.js"></script>
-<script async src="/api/create.js"></script>
-<script async src="/api/learn.js"></script>
-<script async src="/api/live.js"></script>
-<script async src="/api/play.js"></script>
-
-<script async src="/assets/js/search.js"></script> -->
 
 <script>
 (function() {
