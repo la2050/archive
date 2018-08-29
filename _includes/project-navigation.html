@@ -16,7 +16,7 @@
 </p>
 </summary>
 
-<form class="search" action="/search/{{ conditional_finalists_url }}/#projects" method="get" id="search">
+<form class="search" action="/search/{{ conditional_finalists_url }}/" method="get" id="search">
   <label>
     <span style="position: absolute; left: -9999px">Keywords</span>
     <input type="search" name="keywords" id="search-field" />
@@ -75,11 +75,11 @@
 <div class="action-container">
 
 <ul class="action">
-  <li class="blueberry"><a href="/learn/{{ conditional_finalists_url }}#projects"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
-  <li class="banana"><a href="/create/{{ conditional_finalists_url }}#projects"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
-  <li class="strawberry"><a href="/play/{{ conditional_finalists_url }}#projects"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
-  <li class="tangerine"><a href="/connect/{{ conditional_finalists_url }}#projects"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
-  <li class="lime"><a href="/live/{{ conditional_finalists_url }}#projects"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
+  <li class="blueberry"><a href="/learn/{{ conditional_finalists_url }}"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
+  <li class="banana"><a href="/create/{{ conditional_finalists_url }}"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
+  <li class="strawberry"><a href="/play/{{ conditional_finalists_url }}"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
+  <li class="tangerine"><a href="/connect/{{ conditional_finalists_url }}"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
+  <li class="lime"><a href="/live/{{ conditional_finalists_url }}"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
 </ul>
 </div>
 
@@ -87,11 +87,11 @@
 
 {% if page.category %}
 
-<p class="count">There are <strong>{{ data_list.size }}</strong> projects in the <strong class="category">{{ page.category }}</strong> category.</p>
+<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted a project in the <strong class="category">{{ page.category }}</strong> category. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
 {% elsif page.is_search_results %}
 
-<p class="count">You searched for <strong id="keywords"></strong>. There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">projects</span> in all categories.</p>
+<p class="count">You searched for <strong id="keywords"></strong>. There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">projects</span> in all categories. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
 {% endif %}
 
@@ -103,6 +103,7 @@
 
 {% endunless %}
 
+{% comment %}
 {% if page.layout == 'project-list' %}
 <script>
 (function() {
@@ -114,15 +115,16 @@
       // console.log('window.scrollY')
       // console.log('item stored: ' + localStorage.getItem(key));
     });
-    link.setAttribute('href', link.getAttribute('href').replace('#projects', ''));
+    link.setAttribute('href', link.getAttribute('href').replace('', ''));
   });
   var form = document.getElementById('search');
   if (form) {
     form.addEventListener('submit', function() {
       localStorage.setItem(key, window.scrollY);
     });
-    form.setAttribute('action', form.getAttribute('action').replace('#projects', ''));
+    form.setAttribute('action', form.getAttribute('action').replace('', ''));
   }
 })();
 </script>
 {% endif %}
+{% endcomment %}

@@ -157,10 +157,9 @@
     </figure>
     {% endif %}
   </main>
-  <footer>
+  <footer style="background: none !important;">
     {% comment %}
     {% include logotype.html %}
-    {% endcomment %}
     {% include navigation.html %}
     <ul class="social-links">
       <li>
@@ -197,6 +196,7 @@
         </a>
       </li>
     </ul>
+    {% endcomment %}
     <div class="la2050">
       <p>
         <a href="https://la2050.org/">
@@ -239,9 +239,11 @@
     {% endcomment %}
   </footer>
 
+  {% comment %}
   <script async src="/assets/js/navigation.js?v={{ site.version }}"></script>
   <script async src="/assets/js/figure.js?v={{ site.version }}"></script>
   <script async src="/assets/js/goals.js?v={{ site.version }}"></script>
+  {% endcomment %}
   <script async src="/assets/js/randomize-links.js?v={{ site.version }}"></script>
 
 </body>
