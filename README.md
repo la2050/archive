@@ -1,9 +1,9 @@
 
-# LA2050 Activation Challenge
+# My LA2050 Data Archive
 
-This is a website for the 2018 My LA2050 Activation Challenge.
+This is a website for the My LA2050 data archive.
 
-https://activation.la2050.org
+https://my.la2050.org
 
 * [How to make changes](#how-to-make-changes)
 * [How to switch between contest phases](#how-to-switch-between-contest-phases)
