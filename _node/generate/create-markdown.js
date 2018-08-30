@@ -167,7 +167,7 @@ function generateCollections(file_name, category) {
 
   console.log('generateCollections: ' + file_name);
 
-  let input = fs.readFileSync('./_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let input = fs.readFileSync('../_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   for (let index = 0; index < records.length; index++) {
@@ -178,8 +178,27 @@ function generateCollections(file_name, category) {
 }
 
 
-generateCollections('learn.csv', 'learn');
-generateCollections('create.csv', 'create');
-generateCollections('play.csv', 'play');
-generateCollections('connect.csv', 'connect');
-generateCollections('live.csv', 'live');
+// generateCollections('learn.csv', 'learn');
+// generateCollections('create.csv', 'create');
+// generateCollections('play.csv', 'play');
+// generateCollections('connect.csv', 'connect');
+// generateCollections('live.csv', 'live');
+
+
+
+function generateAllCollections(file_name) {
+
+  console.log('generateCollections: ' + file_name);
+
+  let input = fs.readFileSync('../_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+  for (let index = 0; index < 2; index++) {
+    createMarkdownFile(records[index]);
+  }
+  return records;
+}
+
+
+generateAllCollections('projects.csv');
+
