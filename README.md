@@ -1,7 +1,7 @@
 
 # My LA2050 Data Archive
 
-This is a website for the My LA2050 data archive.
+This is a website for the My LA2050 idea library–a searchable database of organizations and projects from the grants and activation challenges from 2013-2018.
 
 https://my.la2050.org
 
