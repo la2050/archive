@@ -220,6 +220,12 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 
 {% include project-navigation.html %}
 
+<style>
+.proposals ~ .goals .navigation .count {
+  display: none;
+}
+</style>
+
 <div style="margin-bottom: 4.5em"></div>
 
 
@@ -354,7 +360,7 @@ function shuffle(array) {
   var projectCountProjects = document.getElementById('project-count-projects');
   if (projectCount) projectCount.innerText = projectList.getElementsByTagName('li').length;
   if (projectCountAreIs) projectCountAreIs.innerText = projectList.getElementsByTagName('li').length === 1 ? 'is' : 'are';
-  if (projectCountProjects) projectCountProjects.innerText = projectList.getElementsByTagName('li').length === 1 ? 'project' : 'projects';
+  if (projectCountProjects) projectCountProjects.innerText = projectList.getElementsByTagName('li').length === 1 ? 'organization' : 'organizations';
 
   //projectList.appendChild(fragment);
 
@@ -374,3 +380,5 @@ function shuffle(array) {
   }
 })();
 </script>
+
+
