@@ -116,5 +116,6 @@ plan_id: 83976
 order: 51
 category: create
 uri: /create/los-angeles-cleantech-incubator/
+year: 2016
 
 ---

@@ -133,5 +133,6 @@ plan_id: 84230
 order: 34
 category: learn
 uri: /learn/girls-inc-of-greater-los-angeles/
+year: 2016
 
 ---

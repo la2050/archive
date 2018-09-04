@@ -134,5 +134,6 @@ plan_id: 83874
 order: 72
 category: learn
 uri: /learn/teach-for-america-los-angeles/
+year: 2016
 
 ---

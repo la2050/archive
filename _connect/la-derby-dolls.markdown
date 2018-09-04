@@ -122,5 +122,6 @@ plan_id: 84375
 order: 32
 category: connect
 uri: /connect/la-derby-dolls/
+year: 2016
 
 ---

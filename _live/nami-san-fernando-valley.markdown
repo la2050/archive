@@ -111,5 +111,6 @@ plan_id: 84426
 order: 42
 category: live
 uri: /live/nami-san-fernando-valley/
+year: 2016
 
 ---

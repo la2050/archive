@@ -105,5 +105,6 @@ category: live
 uri: /live/happyperiod/
 order: 26
 project_image: happyperiod.jpg
+year: 2018
 
 ---

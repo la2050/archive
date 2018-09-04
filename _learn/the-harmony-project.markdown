@@ -100,5 +100,6 @@ plan_id: 84482
 order: 36
 category: learn
 uri: /learn/the-harmony-project/
+year: 2016
 
 ---

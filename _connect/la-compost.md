@@ -96,5 +96,6 @@ category: connect
 uri: /connect/la-compost/
 order: 12
 project_image: la-compost.jpg
+year: 2018
 
 ---

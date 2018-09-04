@@ -95,5 +95,6 @@ plan_id: 84173
 order: 52
 category: connect
 uri: /connect/safe-streets-are-for-everyone/
+year: 2016
 
 ---

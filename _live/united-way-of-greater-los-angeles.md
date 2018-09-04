@@ -198,5 +198,6 @@ category: live
 uri: /live/united-way-of-greater-los-angeles/
 order: 15
 project_image: united-way-of-greater-los-angeles.jpg
+year: 2018
 
 ---

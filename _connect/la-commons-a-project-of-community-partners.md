@@ -190,5 +190,6 @@ category: connect
 uri: /connect/la-commons-a-project-of-community-partners/
 order: 3
 project_image: la-commons-a-project-of-community-partners.jpg
+year: 2018
 
 ---

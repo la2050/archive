@@ -123,5 +123,6 @@ plan_id: 84145
 order: 51
 category: connect
 uri: /connect/building-healthy-communities-long-beach/
+year: 2016
 
 ---

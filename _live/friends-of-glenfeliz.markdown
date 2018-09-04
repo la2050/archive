@@ -124,5 +124,6 @@ plan_id: 82718
 order: 24
 category: live
 uri: /live/friends-of-glenfeliz/
+year: 2016
 
 ---

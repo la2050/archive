@@ -118,5 +118,6 @@ plan_id: 83960
 order: 74
 category: learn
 uri: /learn/wish-academy-high-school/
+year: 2016
 
 ---

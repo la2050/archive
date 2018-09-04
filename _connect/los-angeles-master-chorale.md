@@ -111,5 +111,6 @@ category: connect
 uri: /connect/los-angeles-master-chorale/
 order: 5
 project_image: los-angeles-master-chorale.jpg
+year: 2018
 
 ---

@@ -112,5 +112,6 @@ category: connect
 uri: /connect/boys-girls-clubs-of-venice-bgcv/
 order: 2
 project_image: boys-girls-clubs-of-venice-bgcv.jpg
+year: 2018
 
 ---

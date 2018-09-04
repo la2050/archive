@@ -115,5 +115,6 @@ category: create
 uri: /create/small-business-majority/
 order: 14
 project_image: small-business-majority.jpg
+year: 2018
 
 ---

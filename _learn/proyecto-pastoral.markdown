@@ -120,5 +120,6 @@ plan_id: 84300
 order: 15
 category: learn
 uri: /learn/proyecto-pastoral/
+year: 2016
 
 ---

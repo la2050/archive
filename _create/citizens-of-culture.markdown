@@ -98,5 +98,6 @@ plan_id: 84255
 order: 32
 category: create
 uri: /create/citizens-of-culture/
+year: 2016
 
 ---

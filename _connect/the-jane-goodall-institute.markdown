@@ -150,5 +150,6 @@ plan_id: 84330
 order: 54
 category: connect
 uri: /connect/the-jane-goodall-institute/
+year: 2016
 
 ---

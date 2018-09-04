@@ -99,5 +99,6 @@ plan_id: 84315
 order: 67
 category: connect
 uri: /connect/imagine-la/
+year: 2016
 
 ---

@@ -134,5 +134,6 @@ plan_id: 84000
 order: 73
 category: learn
 uri: /learn/youth-policy-institute/
+year: 2016
 
 ---

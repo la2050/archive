@@ -124,5 +124,6 @@ category: connect
 uri: /connect/lawmaker-io/
 order: 23
 project_image: lawmaker-io.jpg
+year: 2018
 
 ---

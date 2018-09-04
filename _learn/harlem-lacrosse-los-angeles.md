@@ -108,5 +108,6 @@ category: learn
 uri: /learn/harlem-lacrosse-los-angeles/
 order: 4
 project_image: harlem-lacrosse-los-angeles.jpg
+year: 2018
 
 ---

@@ -110,5 +110,6 @@ uri: >-
 order: 41
 project_image: >-
   undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
+year: 2018
 
 ---

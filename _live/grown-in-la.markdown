@@ -120,5 +120,6 @@ plan_id: 84452
 order: 14
 category: live
 uri: /live/grown-in-la/
+year: 2016
 
 ---

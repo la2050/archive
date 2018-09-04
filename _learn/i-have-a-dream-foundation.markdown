@@ -77,5 +77,6 @@ order: 4
 category: learn
 uri: /learn/i-have-a-dream-foundation/
 is_finalist: true
+year: 2016
 
 ---

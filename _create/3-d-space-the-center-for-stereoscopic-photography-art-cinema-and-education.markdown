@@ -140,5 +140,6 @@ uri: >-
   /create/3-d-space-the-center-for-stereoscopic-photography-art-cinema-and-education/
 is_winner: true
 is_finalist: true
+year: 2016
 
 ---

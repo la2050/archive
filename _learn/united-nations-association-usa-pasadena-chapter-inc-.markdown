@@ -115,5 +115,6 @@ category: learn
 uri: /learn/united-nations-association-usa-pasadena-chapter-inc-/
 is_winner: true
 is_finalist: true
+year: 2016
 
 ---

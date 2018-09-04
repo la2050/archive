@@ -138,5 +138,6 @@ plan_id: 84270
 order: 57
 category: learn
 uri: /learn/spark-los-angeles/
+year: 2016
 
 ---

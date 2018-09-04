@@ -102,5 +102,6 @@ plan_id: 84085
 order: 7
 category: play
 uri: /play/community-corporation-of-santa-monica/
+year: 2016
 
 ---

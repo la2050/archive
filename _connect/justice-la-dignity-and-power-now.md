@@ -178,5 +178,6 @@ category: connect
 uri: /connect/justice-la-dignity-and-power-now/
 order: 20
 project_image: justice-la-dignity-and-power-now.jpg
+year: 2018
 
 ---

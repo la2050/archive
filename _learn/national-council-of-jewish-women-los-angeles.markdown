@@ -117,5 +117,6 @@ plan_id: 84481
 order: 70
 category: learn
 uri: /learn/national-council-of-jewish-women-los-angeles/
+year: 2016
 
 ---

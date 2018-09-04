@@ -96,5 +96,6 @@ category: connect
 uri: /connect/stellas-socks/
 order: 39
 project_image: stellas-socks.jpg
+year: 2018
 
 ---

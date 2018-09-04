@@ -151,5 +151,6 @@ category: connect
 uri: /connect/coro-southern-california/
 order: 13
 project_image: coro-southern-california.jpg
+year: 2018
 
 ---

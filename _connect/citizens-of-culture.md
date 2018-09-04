@@ -132,5 +132,6 @@ category: connect
 uri: /connect/citizens-of-culture/
 order: 43
 project_image: citizens-of-culture.jpg
+year: 2018
 
 ---

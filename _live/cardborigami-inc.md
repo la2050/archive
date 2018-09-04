@@ -140,5 +140,6 @@ category: live
 uri: /live/cardborigami-inc/
 order: 28
 project_image: cardborigami-inc.jpg
+year: 2018
 
 ---

@@ -107,5 +107,6 @@ category: connect
 uri: /connect/walk-with-sally/
 order: 46
 project_image: walk-with-sally.jpg
+year: 2018
 
 ---

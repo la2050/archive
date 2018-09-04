@@ -135,5 +135,6 @@ plan_id: 83113
 order: 6
 category: connect
 uri: /connect/the-ojai-foundation/
+year: 2016
 
 ---

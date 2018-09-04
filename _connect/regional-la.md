@@ -175,5 +175,6 @@ category: connect
 uri: /connect/regional-la/
 order: 33
 project_image: regional-la.jpg
+year: 2018
 
 ---

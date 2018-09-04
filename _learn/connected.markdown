@@ -115,5 +115,6 @@ plan_id: 82728
 order: 9
 category: learn
 uri: /learn/connected/
+year: 2016
 
 ---

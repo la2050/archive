@@ -120,5 +120,6 @@ plan_id: 84040
 order: 41
 category: live
 uri: /live/lynne-cohen-foundation/
+year: 2016
 
 ---

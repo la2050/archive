@@ -109,5 +109,6 @@ plan_id: 82869
 order: 27
 category: connect
 uri: /connect/i3-arts-fest/
+year: 2016
 
 ---

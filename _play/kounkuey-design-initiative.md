@@ -211,5 +211,6 @@ category: play
 uri: /play/kounkuey-design-initiative/
 order: 2
 project_image: kounkuey-design-initiative.jpg
+year: 2018
 
 ---

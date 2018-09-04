@@ -111,5 +111,6 @@ category: learn
 uri: /learn/the-people-of-change/
 order: 7
 project_image: the-people-of-change.jpg
+year: 2018
 
 ---

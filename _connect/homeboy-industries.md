@@ -156,5 +156,6 @@ category: connect
 uri: /connect/homeboy-industries/
 order: 17
 project_image: homeboy-industries.jpg
+year: 2018
 
 ---

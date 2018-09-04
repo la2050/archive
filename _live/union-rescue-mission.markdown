@@ -108,5 +108,6 @@ order: 2
 category: live
 uri: /live/union-rescue-mission/
 is_finalist: true
+year: 2016
 
 ---

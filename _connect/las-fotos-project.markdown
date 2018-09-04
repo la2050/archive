@@ -112,5 +112,6 @@ plan_id: 84242
 order: 9
 category: connect
 uri: /connect/las-fotos-project/
+year: 2016
 
 ---

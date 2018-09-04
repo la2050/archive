@@ -94,5 +94,6 @@ category: learn
 uri: /learn/city-of-los-angeles-information-technology-agency/
 order: 5
 project_image: city-of-los-angeles-information-technology-agency.jpg
+year: 2018
 
 ---

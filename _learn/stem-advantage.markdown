@@ -151,5 +151,6 @@ plan_id: 84366
 order: 58
 category: learn
 uri: /learn/stem-advantage/
+year: 2016
 
 ---

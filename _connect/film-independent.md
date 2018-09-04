@@ -111,5 +111,6 @@ category: connect
 uri: /connect/film-independent/
 order: 27
 project_image: film-independent.jpg
+year: 2018
 
 ---

@@ -87,5 +87,6 @@ order: 35
 category: live
 uri: >-
   /live/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/
+year: 2016
 
 ---

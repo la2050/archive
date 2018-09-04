@@ -143,5 +143,6 @@ order: 8
 category: create
 uri: >-
   /create/geena-davis-institute-on-gender-in-media-at-mount-saint-mary’s-university
+year: 2016
 
 ---

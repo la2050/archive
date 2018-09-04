@@ -121,5 +121,6 @@ plan_id: 83936
 order: 12
 category: learn
 uri: /learn/casa-of-los-angeles/
+year: 2016
 
 ---

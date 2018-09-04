@@ -88,5 +88,6 @@ plan_id: 83115
 order: 21
 category: live
 uri: /live/50-50-leadership/
+year: 2016
 
 ---

@@ -113,5 +113,6 @@ plan_id: 84157
 order: 16
 category: live
 uri: /live/international-trade-education-programs-itep/
+year: 2016
 
 ---

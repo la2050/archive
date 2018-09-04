@@ -106,5 +106,6 @@ plan_id: 84348
 order: 49
 category: create
 uri: /create/impact-hub-los-angeles/
+year: 2016
 
 ---

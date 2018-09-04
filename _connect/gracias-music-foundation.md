@@ -66,5 +66,6 @@ category: connect
 uri: /connect/gracias-music-foundation/
 order: 16
 project_image: gracias-music-foundation.jpg
+year: 2018
 
 ---

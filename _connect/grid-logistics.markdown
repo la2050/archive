@@ -106,5 +106,6 @@ plan_id: 84280
 order: 61
 category: connect
 uri: /connect/grid-logistics/
+year: 2016
 
 ---

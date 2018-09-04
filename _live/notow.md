@@ -96,5 +96,6 @@ category: live
 uri: /live/notow/
 order: 24
 project_image: notow.jpg
+year: 2018
 
 ---

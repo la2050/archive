@@ -103,5 +103,6 @@ category: connect
 uri: /connect/we-are-the-mighty/
 order: 26
 project_image: we-are-the-mighty.jpg
+year: 2018
 
 ---

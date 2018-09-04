@@ -106,5 +106,6 @@ plan_id: 84396
 order: 22
 category: learn
 uri: /learn/wisdom-arts-laboratory/
+year: 2016
 
 ---

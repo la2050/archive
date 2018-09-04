@@ -153,5 +153,6 @@ plan_id: 83953
 order: 53
 category: connect
 uri: /connect/community-health-councils/
+year: 2016
 
 ---

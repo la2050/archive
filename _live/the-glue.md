@@ -125,5 +125,6 @@ category: live
 uri: /live/the-glue/
 order: 12
 project_image: the-glue.jpg
+year: 2018
 
 ---

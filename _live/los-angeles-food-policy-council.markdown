@@ -141,5 +141,6 @@ plan_id: 82357
 order: 20
 category: live
 uri: /live/los-angeles-food-policy-council/
+year: 2016
 
 ---

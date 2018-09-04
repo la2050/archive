@@ -110,5 +110,6 @@ plan_id: 83945
 order: 13
 category: connect
 uri: /connect/us-green-building-council-la/
+year: 2016
 
 ---

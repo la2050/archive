@@ -133,5 +133,6 @@ uri: >-
   /connect/multicultural-communities-for-mobility-a-project-of-community-partners/
 order: 37
 project_image: multicultural-communities-for-mobility-a-project-of-community-partners.jpg
+year: 2018
 
 ---

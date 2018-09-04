@@ -72,5 +72,6 @@ plan_id: 83814
 order: 45
 category: learn
 uri: /learn/los-angeles-world-airports/
+year: 2016
 
 ---

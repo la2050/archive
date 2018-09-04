@@ -212,5 +212,6 @@ category: live
 uri: /live/freefrom/
 order: 23
 project_image: freefrom.jpg
+year: 2018
 
 ---

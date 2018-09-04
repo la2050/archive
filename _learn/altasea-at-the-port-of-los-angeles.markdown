@@ -145,5 +145,6 @@ order: 1
 category: learn
 uri: /learn/altasea-at-the-port-of-los-angeles/
 is_finalist: true
+year: 2016
 
 ---

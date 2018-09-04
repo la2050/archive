@@ -147,5 +147,6 @@ category: connect
 uri: /connect/voterunlead/
 order: 49
 project_image: voterunlead.jpg
+year: 2018
 
 ---

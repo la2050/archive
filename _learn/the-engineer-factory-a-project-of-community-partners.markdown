@@ -137,5 +137,6 @@ plan_id: 84288
 order: 66
 category: learn
 uri: /learn/the-engineer-factory-a-project-of-community-partners/
+year: 2016
 
 ---

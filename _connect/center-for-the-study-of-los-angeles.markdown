@@ -145,5 +145,6 @@ plan_id: 83006
 order: 36
 category: connect
 uri: /connect/center-for-the-study-of-los-angeles/
+year: 2016
 
 ---

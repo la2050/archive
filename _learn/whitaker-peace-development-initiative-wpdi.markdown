@@ -86,5 +86,6 @@ plan_id: 84095
 order: 24
 category: learn
 uri: /learn/whitaker-peace-development-initiative-wpdi/
+year: 2016
 
 ---

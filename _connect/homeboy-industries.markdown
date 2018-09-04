@@ -83,5 +83,6 @@ plan_id: 84470
 order: 23
 category: connect
 uri: /connect/homeboy-industries/
+year: 2016
 
 ---

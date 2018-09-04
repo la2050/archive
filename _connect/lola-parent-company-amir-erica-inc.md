@@ -92,5 +92,6 @@ category: connect
 uri: /connect/lola-parent-company-amir-erica-inc/
 order: 25
 project_image: lola-parent-company-amir-erica-inc.jpg
+year: 2018
 
 ---

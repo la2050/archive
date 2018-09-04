@@ -161,5 +161,6 @@ plan_id: 84262
 order: 19
 category: live
 uri: /live/doctors-for-america/
+year: 2016
 
 ---

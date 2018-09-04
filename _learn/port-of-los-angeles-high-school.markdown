@@ -159,5 +159,6 @@ plan_id: 82382
 order: 11
 category: learn
 uri: /learn/port-of-los-angeles-high-school/
+year: 2016
 
 ---

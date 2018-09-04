@@ -153,5 +153,6 @@ category: create
 uri: /create/produceathon/
 order: 12
 project_image: produceathon.jpg
+year: 2018
 
 ---

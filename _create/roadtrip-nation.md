@@ -146,5 +146,6 @@ category: create
 uri: /create/roadtrip-nation/
 order: 0
 project_image: roadtrip-nation.jpg
+year: 2018
 
 ---

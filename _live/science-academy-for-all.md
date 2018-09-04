@@ -138,5 +138,6 @@ category: live
 uri: /live/science-academy-for-all/
 order: 25
 project_image: science-academy-for-all.jpg
+year: 2018
 
 ---

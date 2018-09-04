@@ -108,5 +108,6 @@ category: play
 uri: /play/everwild/
 order: 1
 project_image: everwild.jpg
+year: 2018
 
 ---

@@ -109,5 +109,6 @@ plan_id: 83991
 order: 56
 category: connect
 uri: /connect/historic-core-bid/
+year: 2016
 
 ---

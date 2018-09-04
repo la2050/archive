@@ -163,5 +163,6 @@ plan_id: 83997
 order: 15
 category: connect
 uri: /connect/office-of-exposition-park-management/
+year: 2016
 
 ---

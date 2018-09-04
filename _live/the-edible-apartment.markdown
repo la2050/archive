@@ -69,5 +69,6 @@ plan_id: 84409
 order: 48
 category: live
 uri: /live/the-edible-apartment/
+year: 2016
 
 ---

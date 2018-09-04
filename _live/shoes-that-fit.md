@@ -101,5 +101,6 @@ category: live
 uri: /live/shoes-that-fit/
 order: 14
 project_image: shoes-that-fit.jpg
+year: 2018
 
 ---

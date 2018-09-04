@@ -193,5 +193,6 @@ uri: /connect/mirys-list/
 order: 47
 project_image: mirys-list.jpg
 project_image_color: 'rgb(69, 61, 47)'
+year: 2018
 
 ---

@@ -75,5 +75,6 @@ order: 3
 category: connect
 uri: /connect/la-voice/
 is_finalist: true
+year: 2016
 
 ---

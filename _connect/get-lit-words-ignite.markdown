@@ -146,5 +146,6 @@ plan_id: 83954
 order: 20
 category: connect
 uri: /connect/get-lit-words-ignite/
+year: 2016
 
 ---

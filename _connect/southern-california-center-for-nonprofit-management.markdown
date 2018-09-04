@@ -136,5 +136,6 @@ plan_id: 82721
 order: 55
 category: connect
 uri: /connect/southern-california-center-for-nonprofit-management/
+year: 2016
 
 ---

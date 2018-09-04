@@ -131,5 +131,6 @@ plan_id: 84284
 order: 67
 category: learn
 uri: /learn/the-help-groups-stem3-academy/
+year: 2016
 
 ---

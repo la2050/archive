@@ -104,5 +104,6 @@ plan_id: 84222
 order: 21
 category: learn
 uri: /learn/california-state-university-northridge-csun/
+year: 2016
 
 ---

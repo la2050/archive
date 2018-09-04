@@ -90,5 +90,6 @@ category: create
 uri: /create/we-are-enough-c-o-social-environmental-entrepreneurs/
 order: 16
 project_image: we-are-enough-c-o-social-environmental-entrepreneurs.jpg
+year: 2018
 
 ---

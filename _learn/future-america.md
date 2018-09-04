@@ -88,5 +88,6 @@ category: learn
 uri: /learn/future-america/
 order: 17
 project_image: future-america.jpg
+year: 2018
 
 ---

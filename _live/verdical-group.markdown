@@ -120,5 +120,6 @@ category: live
 uri: /live/verdical-group/
 is_winner: true
 is_finalist: true
+year: 2016
 
 ---

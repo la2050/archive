@@ -147,5 +147,6 @@ category: connect
 uri: /connect/investing-in-place/
 order: 29
 project_image: investing-in-place.jpg
+year: 2018
 
 ---

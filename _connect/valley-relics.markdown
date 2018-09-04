@@ -114,5 +114,6 @@ plan_id: 84188
 order: 38
 category: connect
 uri: /connect/valley-relics/
+year: 2016
 
 ---

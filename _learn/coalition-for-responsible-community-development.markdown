@@ -127,5 +127,6 @@ plan_id: 83813
 order: 16
 category: learn
 uri: /learn/coalition-for-responsible-community-development/
+year: 2016
 
 ---

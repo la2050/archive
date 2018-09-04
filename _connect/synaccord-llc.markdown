@@ -140,5 +140,6 @@ plan_id: 82861
 order: 14
 category: connect
 uri: /connect/synaccord-llc/
+year: 2016
 
 ---

@@ -119,5 +119,6 @@ plan_id: 82435
 order: 38
 category: live
 uri: /live/muscular-dystrophy-association/
+year: 2016
 
 ---

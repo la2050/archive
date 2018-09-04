@@ -113,5 +113,6 @@ plan_id: 83970
 order: 13
 category: play
 uri: /play/light-and-life-christian-fellowship-community-center/
+year: 2016
 
 ---

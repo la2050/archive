@@ -115,5 +115,6 @@ plan_id: 84336
 order: 63
 category: live
 uri: /live/ucla-institute-of-the-environment-and-sustainability-ioes/
+year: 2016
 
 ---

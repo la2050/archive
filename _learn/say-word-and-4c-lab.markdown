@@ -144,5 +144,6 @@ plan_id: 84006
 order: 47
 category: learn
 uri: /learn/say-word-and-4c-lab/
+year: 2016
 
 ---

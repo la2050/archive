@@ -172,5 +172,6 @@ category: connect
 uri: /connect/united-parents-and-students/
 order: 44
 project_image: united-parents-and-students.jpg
+year: 2018
 
 ---

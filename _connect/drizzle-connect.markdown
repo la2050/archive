@@ -143,5 +143,6 @@ order: 2
 category: connect
 uri: /connect/drizzle-connect/
 is_finalist: true
+year: 2016
 
 ---

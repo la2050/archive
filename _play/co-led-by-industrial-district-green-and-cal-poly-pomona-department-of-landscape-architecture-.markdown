@@ -138,5 +138,6 @@ order: 19
 category: play
 uri: >-
   /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
+year: 2016
 
 ---

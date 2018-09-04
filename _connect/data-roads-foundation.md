@@ -116,5 +116,6 @@ category: connect
 uri: /connect/data-roads-foundation/
 order: 48
 project_image: data-roads-foundation.jpg
+year: 2018
 
 ---

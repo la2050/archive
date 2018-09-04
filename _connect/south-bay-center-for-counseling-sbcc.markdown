@@ -161,5 +161,6 @@ order: 4
 category: connect
 uri: /connect/south-bay-center-for-counseling-sbcc/
 is_finalist: true
+year: 2016
 
 ---

@@ -118,5 +118,6 @@ order: 3
 category: play
 uri: /play/compassionate-santa-monica/
 is_finalist: true
+year: 2016
 
 ---

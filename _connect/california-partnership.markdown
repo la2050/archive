@@ -148,5 +148,6 @@ plan_id: 83811
 order: 31
 category: connect
 uri: /connect/california-partnership/
+year: 2016
 
 ---

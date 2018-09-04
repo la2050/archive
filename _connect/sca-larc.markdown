@@ -92,5 +92,6 @@ plan_id: 82385
 order: 29
 category: connect
 uri: /connect/sca-larc/
+year: 2016
 
 ---

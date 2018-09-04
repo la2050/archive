@@ -174,5 +174,6 @@ category: live
 uri: /live/environment-california-research-policy-center/
 order: 1
 project_image: environment-california-research-policy-center.jpg
+year: 2018
 
 ---

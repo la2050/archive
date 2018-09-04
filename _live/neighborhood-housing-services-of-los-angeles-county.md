@@ -119,5 +119,6 @@ category: live
 uri: /live/neighborhood-housing-services-of-los-angeles-county/
 order: 10
 project_image: neighborhood-housing-services-of-los-angeles-county.jpg
+year: 2018
 
 ---

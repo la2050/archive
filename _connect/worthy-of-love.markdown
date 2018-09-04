@@ -80,5 +80,6 @@ plan_id: 83963
 order: 11
 category: connect
 uri: /connect/worthy-of-love/
+year: 2016
 
 ---

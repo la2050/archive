@@ -123,5 +123,6 @@ category: connect
 uri: /connect/larchmont-charter-school/
 order: 22
 project_image: larchmont-charter-school.jpg
+year: 2018
 
 ---

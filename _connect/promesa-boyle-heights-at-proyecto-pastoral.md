@@ -149,5 +149,6 @@ category: connect
 uri: /connect/promesa-boyle-heights-at-proyecto-pastoral/
 order: 31
 project_image: promesa-boyle-heights-at-proyecto-pastoral.jpg
+year: 2018
 
 ---

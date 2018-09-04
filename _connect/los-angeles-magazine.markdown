@@ -113,5 +113,6 @@ plan_id: 84010
 order: 21
 category: connect
 uri: /connect/los-angeles-magazine/
+year: 2016
 
 ---

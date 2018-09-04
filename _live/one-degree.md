@@ -168,5 +168,6 @@ category: live
 uri: /live/one-degree/
 order: 13
 project_image: one-degree.jpg
+year: 2018
 
 ---

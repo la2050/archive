@@ -144,5 +144,6 @@ plan_id: 84252
 order: 8
 category: connect
 uri: /connect/here-to-serve-inc/
+year: 2016
 
 ---

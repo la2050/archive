@@ -119,5 +119,6 @@ category: live
 uri: /live/world-harvest-charities-family-services/
 order: 40
 project_image: world-harvest-charities-family-services.jpg
+year: 2018
 
 ---

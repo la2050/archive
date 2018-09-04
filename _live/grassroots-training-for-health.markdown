@@ -96,5 +96,6 @@ plan_id: 83856
 order: 25
 category: live
 uri: /live/grassroots-training-for-health/
+year: 2016
 
 ---

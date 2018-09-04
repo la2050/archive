@@ -138,5 +138,6 @@ plan_id: 83032
 order: 7
 category: connect
 uri: /connect/come-alive-long-beach/
+year: 2016
 
 ---

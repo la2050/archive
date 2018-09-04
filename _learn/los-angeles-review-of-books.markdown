@@ -138,5 +138,6 @@ plan_id: 83973
 order: 39
 category: learn
 uri: /learn/los-angeles-review-of-books/
+year: 2016
 
 ---

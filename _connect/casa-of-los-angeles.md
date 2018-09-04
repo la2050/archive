@@ -98,5 +98,6 @@ category: connect
 uri: /connect/casa-of-los-angeles/
 order: 51
 project_image: casa-of-los-angeles.jpg
+year: 2018
 
 ---

@@ -107,5 +107,6 @@ plan_id: 84420
 order: 30
 category: connect
 uri: /connect/bicycle-culture-institute/
+year: 2016
 
 ---

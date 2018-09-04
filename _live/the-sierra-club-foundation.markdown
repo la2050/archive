@@ -136,5 +136,6 @@ plan_id: 84321
 order: 56
 category: live
 uri: /live/the-sierra-club-foundation/
+year: 2016
 
 ---

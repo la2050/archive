@@ -135,5 +135,6 @@ plan_id: 83026
 order: 7
 category: live
 uri: /live/community-healing-gardens/
+year: 2016
 
 ---

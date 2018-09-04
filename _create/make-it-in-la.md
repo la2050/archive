@@ -132,5 +132,6 @@ category: create
 uri: /create/make-it-in-la/
 order: 11
 project_image: make-it-in-la.jpg
+year: 2018
 
 ---

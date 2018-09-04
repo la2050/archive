@@ -126,5 +126,6 @@ category: learn
 uri: /learn/proyecto-jardin-a-project-of-hunger-action-la/
 order: 6
 project_image: proyecto-jardin-a-project-of-hunger-action-la.jpg
+year: 2018
 
 ---

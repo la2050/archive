@@ -113,5 +113,6 @@ plan_id: 84290
 order: 17
 category: create
 uri: /create/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
+year: 2016
 
 ---

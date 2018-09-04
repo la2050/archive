@@ -165,5 +165,6 @@ category: connect
 uri: /connect/good-shine-studio/
 order: 8
 project_image: good-shine-studio.jpg
+year: 2018
 
 ---

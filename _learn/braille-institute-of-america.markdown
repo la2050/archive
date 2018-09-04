@@ -59,5 +59,6 @@ plan_id: 83937
 order: 20
 category: learn
 uri: /learn/braille-institute-of-america/
+year: 2016
 
 ---

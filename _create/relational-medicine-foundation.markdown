@@ -121,5 +121,6 @@ order: 4
 category: create
 uri: /create/relational-medicine-foundation/
 is_finalist: true
+year: 2016
 
 ---

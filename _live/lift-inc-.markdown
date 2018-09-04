@@ -122,5 +122,6 @@ order: 4
 category: live
 uri: /live/lift-inc-/
 is_finalist: true
+year: 2016
 
 ---

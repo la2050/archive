@@ -124,5 +124,6 @@ plan_id: 84057
 order: 35
 category: connect
 uri: /connect/la-plaza-de-cultura-y-artes/
+year: 2016
 
 ---

@@ -131,5 +131,6 @@ category: connect
 uri: /connect/ciclavia/
 order: 6
 project_image: ciclavia.jpg
+year: 2018
 
 ---

@@ -114,5 +114,6 @@ category: connect
 uri: /connect/city-impact-lab-powered-by-stratiscope/
 order: 41
 project_image: city-impact-lab-powered-by-stratiscope.jpg
+year: 2018
 
 ---

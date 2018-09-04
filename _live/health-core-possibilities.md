@@ -97,5 +97,6 @@ category: live
 uri: /live/health-core-possibilities/
 order: 33
 project_image: health-core-possibilities.jpg
+year: 2018
 
 ---

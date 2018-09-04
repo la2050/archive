@@ -197,5 +197,6 @@ category: create
 uri: /create/long-beach-downtown-development-corporation/
 order: 15
 project_image: long-beach-downtown-development-corporation.jpg
+year: 2018
 
 ---

@@ -141,5 +141,6 @@ order: 2
 category: create
 uri: /create/institute-of-contemporary-art-los-angeles-ica-la/
 is_finalist: true
+year: 2016
 
 ---

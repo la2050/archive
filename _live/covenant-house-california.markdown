@@ -135,5 +135,6 @@ plan_id: 84083
 order: 58
 category: live
 uri: /live/covenant-house-california/
+year: 2016
 
 ---

@@ -140,5 +140,6 @@ category: learn
 uri: /learn/charles-r-drew-university-of-medicine-and-science/
 order: 12
 project_image: charles-r-drew-university-of-medicine-and-science.jpg
+year: 2018
 
 ---

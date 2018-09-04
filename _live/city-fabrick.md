@@ -117,5 +117,6 @@ category: live
 uri: /live/city-fabrick/
 order: 19
 project_image: city-fabrick.jpg
+year: 2018
 
 ---

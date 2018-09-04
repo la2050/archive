@@ -123,5 +123,6 @@ plan_id: 82368
 order: 33
 category: create
 uri: /create/make-music-los-angeles/
+year: 2016
 
 ---

@@ -126,5 +126,6 @@ plan_id: 84221
 order: 6
 category: learn
 uri: /learn/city-year-los-angeles/
+year: 2016
 
 ---

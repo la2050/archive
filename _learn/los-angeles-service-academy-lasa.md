@@ -135,5 +135,6 @@ category: learn
 uri: /learn/los-angeles-service-academy-lasa/
 order: 14
 project_image: los-angeles-service-academy-lasa.jpg
+year: 2018
 
 ---

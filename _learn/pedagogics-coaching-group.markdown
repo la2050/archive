@@ -129,5 +129,6 @@ plan_id: 83965
 order: 48
 category: learn
 uri: /learn/pedagogics-coaching-group/
+year: 2016
 
 ---

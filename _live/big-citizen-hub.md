@@ -148,5 +148,6 @@ category: live
 uri: /live/big-citizen-hub/
 order: 21
 project_image: big-citizen-hub.jpg
+year: 2018
 
 ---

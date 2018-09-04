@@ -131,5 +131,6 @@ plan_id: 84234
 order: 25
 category: connect
 uri: /connect/the-c-i-t-y-x1-youth-group/
+year: 2016
 
 ---

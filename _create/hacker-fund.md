@@ -95,5 +95,6 @@ category: create
 uri: /create/hacker-fund/
 order: 8
 project_image: hacker-fund.jpg
+year: 2018
 
 ---

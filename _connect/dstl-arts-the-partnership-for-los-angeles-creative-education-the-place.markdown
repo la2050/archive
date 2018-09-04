@@ -162,5 +162,6 @@ order: 64
 category: connect
 uri: >-
   /connect/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/
+year: 2016
 
 ---

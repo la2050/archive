@@ -88,5 +88,6 @@ plan_id: 84082
 order: 47
 category: connect
 uri: /connect/city-of-west-hollywood/
+year: 2016
 
 ---

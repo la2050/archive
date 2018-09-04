@@ -156,5 +156,6 @@ category: learn
 uri: /learn/common-sense/
 order: 1
 project_image: common-sense.jpg
+year: 2018
 
 ---

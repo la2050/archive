@@ -129,5 +129,6 @@ order: 2
 category: learn
 uri: /learn/pasadena-educational-foundation/
 is_finalist: true
+year: 2016
 
 ---

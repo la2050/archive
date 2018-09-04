@@ -118,5 +118,6 @@ plan_id: 82730
 order: 64
 category: learn
 uri: /learn/patrick-henry-foundation/
+year: 2016
 
 ---

@@ -95,5 +95,6 @@ plan_id: 84218
 order: 37
 category: connect
 uri: /connect/westside-urban-forum/
+year: 2016
 
 ---

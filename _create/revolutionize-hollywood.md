@@ -149,5 +149,6 @@ category: create
 uri: /create/revolutionize-hollywood/
 order: 13
 project_image: revolutionize-hollywood.jpg
+year: 2018
 
 ---

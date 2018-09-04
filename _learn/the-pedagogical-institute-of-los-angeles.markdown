@@ -118,5 +118,6 @@ plan_id: 83949
 order: 10
 category: learn
 uri: /learn/the-pedagogical-institute-of-los-angeles/
+year: 2016
 
 ---

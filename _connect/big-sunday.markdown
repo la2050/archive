@@ -138,5 +138,6 @@ plan_id: 84175
 order: 10
 category: connect
 uri: /connect/big-sunday/
+year: 2016
 
 ---

@@ -69,5 +69,6 @@ plan_id: 82372
 order: 22
 category: live
 uri: /live/living-spring-foundation/
+year: 2016
 
 ---

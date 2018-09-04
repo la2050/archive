@@ -155,5 +155,6 @@ category: create
 uri: /create/world-famous-vip-records-llc/
 order: 17
 project_image: world-famous-vip-records-llc.jpg
+year: 2018
 
 ---

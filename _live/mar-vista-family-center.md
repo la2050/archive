@@ -136,5 +136,6 @@ category: live
 uri: /live/mar-vista-family-center/
 order: 35
 project_image: mar-vista-family-center.jpg
+year: 2018
 
 ---

@@ -109,5 +109,6 @@ plan_id: 84286
 order: 16
 category: connect
 uri: /connect/los-angeles-neighborhood-initiative-lani/
+year: 2016
 
 ---

@@ -128,5 +128,6 @@ plan_id: 83987
 order: 11
 category: play
 uri: /play/friends-of-king/
+year: 2016
 
 ---

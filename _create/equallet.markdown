@@ -124,5 +124,6 @@ order: 1
 category: create
 uri: /create/equallet/
 is_finalist: true
+year: 2016
 
 ---

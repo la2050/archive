@@ -156,5 +156,6 @@ plan_id: 83047
 order: 18
 category: live
 uri: /live/sound-body-sound-mind-foundation/
+year: 2016
 
 ---

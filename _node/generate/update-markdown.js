@@ -134,11 +134,15 @@ function is_valid_url(url) {
   return url.match(/^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/);
 }
 
-function processFile(filename) {
+function processFile(filename, year) {
 
   // Load the contents of the file
   let data = loadMarkdown(filename);
   if (!data) return;
+
+
+  data.yaml.year = year;
+
 
   saveMarkdown(filename, data);
 
@@ -257,19 +261,30 @@ function getAllFilesFromFolder(dir) {
 };
 
 function updateMarkdownFiles(folder) {
-  let files = getAllFilesFromFolder(folder);
+  let files     = getAllFilesFromFolder('../_'      + folder);
+  let files2018 = getAllFilesFromFolder('../2018/_' + folder);
+
+  console.log(files2018);
 
   //console.log(files);
 
-  // For each location file
   for (let index = 0; index < files.length; index++) {
     if (files[index].indexOf('.DS_Store') >= 0) continue;
-    processFile(files[index]);
+
+    let names = files[index].split("/");
+    let fileName = names[names.length - 1];
+
+    let found = files2018.find(function(path) {
+      let names = path.split("/");
+      return names[names.length - 1] === fileName;
+    });
+
+    processFile(files[index], (found) ? 2018 : 2016);
   }
 }
 
-updateMarkdownFiles('../_learn');
-updateMarkdownFiles('../_create');
-updateMarkdownFiles('../_play');
-updateMarkdownFiles('../_connect');
-updateMarkdownFiles('../_live');
+updateMarkdownFiles('learn');
+updateMarkdownFiles('create');
+updateMarkdownFiles('play');
+updateMarkdownFiles('connect');
+updateMarkdownFiles('live');

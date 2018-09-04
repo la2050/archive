@@ -123,5 +123,6 @@ category: create
 uri: /create/brioxy/
 order: 2
 project_image: brioxy.jpg
+year: 2018
 
 ---

@@ -126,5 +126,6 @@ plan_id: 83843
 order: 40
 category: connect
 uri: /connect/southern-california-public-radio-kpcc/
+year: 2016
 
 ---

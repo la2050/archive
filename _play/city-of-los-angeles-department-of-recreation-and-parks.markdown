@@ -111,5 +111,6 @@ plan_id: 83881
 order: 14
 category: play
 uri: /play/city-of-los-angeles-department-of-recreation-and-parks/
+year: 2016
 
 ---

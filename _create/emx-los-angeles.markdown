@@ -146,5 +146,6 @@ plan_id: 84062
 order: 20
 category: create
 uri: /create/emx-los-angeles/
+year: 2016
 
 ---

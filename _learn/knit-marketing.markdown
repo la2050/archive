@@ -95,5 +95,6 @@ plan_id: 84276
 order: 52
 category: learn
 uri: /learn/knit-marketing/
+year: 2016
 
 ---

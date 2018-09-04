@@ -117,5 +117,6 @@ category: live
 uri: /live/a-healthier-community-starts-with-youth/
 order: 4
 project_image: a-healthier-community-starts-with-youth.jpg
+year: 2018
 
 ---

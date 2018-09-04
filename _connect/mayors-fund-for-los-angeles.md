@@ -136,5 +136,6 @@ category: connect
 uri: /connect/mayors-fund-for-los-angeles/
 order: 1
 project_image: mayors-fund-for-los-angeles.jpg
+year: 2018
 
 ---

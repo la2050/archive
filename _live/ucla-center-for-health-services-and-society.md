@@ -126,5 +126,6 @@ category: live
 uri: /live/ucla-center-for-health-services-and-society/
 order: 7
 project_image: ucla-center-for-health-services-and-society.jpg
+year: 2018
 
 ---

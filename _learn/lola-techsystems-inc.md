@@ -136,5 +136,6 @@ category: learn
 uri: /learn/lola-techsystems-inc/
 order: 9
 project_image: lola-techsystems-inc.jpg
+year: 2018
 
 ---

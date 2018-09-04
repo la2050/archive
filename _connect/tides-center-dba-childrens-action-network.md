@@ -78,5 +78,6 @@ category: connect
 uri: /connect/tides-center-dba-childrens-action-network/
 order: 15
 project_image: tides-center-dba-childrens-action-network.jpg
+year: 2018
 
 ---

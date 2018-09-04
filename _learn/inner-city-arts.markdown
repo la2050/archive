@@ -149,5 +149,6 @@ plan_id: 84004
 order: 51
 category: learn
 uri: /learn/inner-city-arts/
+year: 2016
 
 ---

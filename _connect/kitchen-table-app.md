@@ -133,5 +133,6 @@ category: connect
 uri: /connect/kitchen-table-app/
 order: 21
 project_image: kitchen-table-app.jpg
+year: 2018
 
 ---

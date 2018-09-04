@@ -138,5 +138,6 @@ order: 2
 category: play
 uri: /play/usc-annenberg-innovation-lab/
 is_finalist: true
+year: 2016
 
 ---

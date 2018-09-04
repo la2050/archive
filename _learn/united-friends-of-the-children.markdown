@@ -116,5 +116,6 @@ plan_id: 84043
 order: 13
 category: learn
 uri: /learn/united-friends-of-the-children/
+year: 2016
 
 ---

@@ -110,5 +110,6 @@ plan_id: 82437
 order: 39
 category: live
 uri: /live/team-rubicon/
+year: 2016
 
 ---
