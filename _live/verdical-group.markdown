@@ -98,8 +98,8 @@ project_proposal_best_place: >-
   better insulation, become part of the building code in 2019. In order to
   prepare our local builders, engineers, electrical workers, and architects for
   net zero building code changes, a net zero conference held at a local union's
-  training facility is most pertinent–specifically IBEW Local 11's Net Zero
-  Plus building, which is a 'living laboratory' dedicated to advancing energy
+  training facility is most pertinent–specifically IBEW Local 11's Net Zero Plus
+  building, which is a 'living laboratory' dedicated to advancing energy
   efficiency technologies.
 
 

@@ -7,7 +7,7 @@ project_description: >-
 organization_name: Data 360
 organization_description: For-profit organization
 project_video: ''
-link_newsletter: mailto:admin@data360.solutions
+link_newsletter: 'mailto:admin@data360.solutions'
 organization_website: 'http://data360.solutions'
 organization_twitter: '@data360me'
 organization_facebook: 'https://www.facebook.com/data360solutions/'

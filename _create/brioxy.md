@@ -1,6 +1,6 @@
 ---
 application_id: '6237185174'
-title: 'Brioxy Builds Los Angeles’ Creative Cerebro for Artists of Color'
+title: Brioxy Builds Los Angeles’ Creative Cerebro for Artists of Color
 project_description: >-
   We close the opportunity gap for innovators of color by training them to build
   and run strong organizations in the communities they grew up in.

@@ -1,5 +1,5 @@
 ---
-application_id: '0350839927'
+application_id: 0350839927
 title: Supporting the entrepreneurs who create a vibrant Los Angeles
 project_description: >-
   This project will provide LA’s entrepreneurs with education and resources to

@@ -70,14 +70,16 @@ project_proposal_engage: >-
 
    This work is happening throughout the county, from scales as small as apartment balconies to regional urban farms.
 project_measure: >-
-  Increase mailing list: access to compost hubs
-  Increase number of workshops held
-  Grow participation in community gardens
-  Increase locations for household food scrap drop off
-  Measure invitations and participation from/in neighborhood councils
-  Connections made, increase opportunity and value of small businesses and non profits in gardening, landscaping and urban farming.
+  Increase mailing list: access to compost hubs Increase number of workshops
+  held Grow participation in community gardens Increase locations for household
+  food scrap drop off Measure invitations and participation from/in neighborhood
+  councils Connections made, increase opportunity and value of small businesses
+  and non profits in gardening, landscaping and urban farming.
 
-  Our workshop surveys gather information about the individuals participating, and we report anecdotal and qualitative stories about connections made within the communities. We measure the success of the program through access: access to local compost sites and access to information and educational programming. 
+  Our workshop surveys gather information about the individuals participating,
+  and we report anecdotal and qualitative stories about connections made within
+  the communities. We measure the success of the program through access: access
+  to local compost sites and access to information and educational programming. 
 project_five_years: >-
   We envision healthy soils in LA- where Angelenos are more connected to nature
   than concrete. Where people have access to healthy soil, water, air and food.

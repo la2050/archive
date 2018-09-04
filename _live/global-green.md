@@ -7,8 +7,7 @@ project_description: >-
   items, making LA the best place to live!
 organization_name: Global Green
 organization_description: Non-profit organization
-project_video: >-
-  https://www.youtube.com/watch?v=xtgKX6NE490
+project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
 link_newsletter: 'https://www.globalgreen.org/what-you-can-do/subscribe/'
 organization_website: www.globalgreen.org
 organization_twitter: '@globalgreen'

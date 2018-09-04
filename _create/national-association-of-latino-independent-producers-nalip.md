@@ -155,6 +155,6 @@ category: create
 uri: /create/national-association-of-latino-independent-producers-nalip/
 order: 4
 project_image: national-association-of-latino-independent-producers-nalip.jpg
-project_image_color: rgb(25, 31, 71)
+project_image_color: 'rgb(25, 31, 71)'
 
 ---

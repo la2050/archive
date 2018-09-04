@@ -16,9 +16,9 @@ organization_instagram: stellassocks
 link_donate: 'https://www.gofundme.com/stellassocks'
 link_volunteer: 'https://stellassocks.com/volunteer'
 organization_activity: >-
-  Stella’s Socks is a 501c3 started by 13-year old Stella Vaughan Verk and her father,
-  Jonathan which procures and distributes 100,000 pairs of socks to homeless and
-  homeless youth across Los Angeles.
+  Stella’s Socks is a 501c3 started by 13-year old Stella Vaughan Verk and her
+  father, Jonathan which procures and distributes 100,000 pairs of socks to
+  homeless and homeless youth across Los Angeles.
 project_proposal_description: >-
   As an upstart organization, we have been largely self-funded. We require
   financial assistance to continue our efforts, stabilize our operations and

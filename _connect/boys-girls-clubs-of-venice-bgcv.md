@@ -6,14 +6,14 @@ project_description: >-
   responsible citizens Bridging Generations Connecting Values.
 organization_name: Boys & Girls Clubs of Venice (BGCV)
 organization_description: Non-profit organization
-project_video: https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be
-link_newsletter: https://www.bgcv.org/
-organization_website: https://www.bgcv.org/
+project_video: 'https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be'
+link_newsletter: 'https://www.bgcv.org/'
+organization_website: 'https://www.bgcv.org/'
 organization_twitter: twitter.com/bgcvenice
 organization_facebook: facebook.com/bgcvenice
 organization_instagram: instagram.com/bgcvenice
-link_donate: https://www.bgcv.org/online--tribute-donation.html
-link_volunteer: https://www.bgcv.org/be-a-volunteer.html
+link_donate: 'https://www.bgcv.org/online--tribute-donation.html'
+link_volunteer: 'https://www.bgcv.org/be-a-volunteer.html'
 organization_activity: >-
   BGCV enables all people to reach their full potential as productive, caring,
   responsible citizens Bridging Generations Connecting Values

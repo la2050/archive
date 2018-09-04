@@ -5,8 +5,7 @@ project_description: >-
   YouthCare is the most affordable intergenerational respite and memory care
   program that partners trained college student volunteers and persons with
   early-stage dementia in a community-based setting.
-organization_name: >-
-  The Youth Movement Against Alzheimer’s
+organization_name: The Youth Movement Against Alzheimer’s
 organization_description: Non-profit organization
 project_video: 'https://youtu.be/5fwflSIChBM'
 link_newsletter: 'http://bit.ly/ymaaNewsletter'

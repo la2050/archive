@@ -6,8 +6,7 @@ project_description: >-
   campuses, making them more welcoming, vibrant places for students to learn.
 organization_name: City Year Los Angeles
 organization_description: Non-profit organization
-project_video: >-
-  https://www.youtube.com/watch?v=oUBvw2A2YMI
+project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
 link_newsletter: 'http://info.cityyear.org/Subscription_Center.html'
 organization_website: 'https://www.cityyear.org/losangeles'
 organization_twitter: '@CityYearLA'

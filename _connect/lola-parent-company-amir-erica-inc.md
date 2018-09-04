@@ -5,7 +5,7 @@ project_description: >-
   LA politics is dry, boring, and confusing AF, but it doesn’t have to be. LOLA
   empowers young residents by explaining local issues and elections in a
   concise, nonpartisan way.
-organization_name: 'LOLA'
+organization_name: LOLA
 organization_description: For-profit organization
 project_video: ''
 link_newsletter: 'https://www.lola.cool'

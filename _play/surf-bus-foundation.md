@@ -15,7 +15,7 @@ organization_twitter:
   - '@altaseaorg'
   - '@lamitopsail'
   - '@marionc82937170'
-organization_facebook: https://www.facebook.com/The-Surf-Bus-Foundation-170696492986174/
+organization_facebook: 'https://www.facebook.com/The-Surf-Bus-Foundation-170696492986174/'
 organization_instagram:
   - '@surfbusfoundation'
   - '@altasea'
