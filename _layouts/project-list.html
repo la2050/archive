@@ -55,20 +55,10 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 {% include project-navigation.html %}
 
 
-<ul class="proposals {% if page.finalists or page.winners %}finalists{% endif %} {% if page.winners %}winners{% endif %}" id="project-list">
+<ul class="proposals" id="project-list">
 
-<!--   <li class="proposals-category-tall">
-    <div><p><span>{{ page.category }}</span></p></div>
-  </li> -->
-<!-- 
-  <li class="proposals-category-short">
-    <div><p><span>{{ page.category }}</span></p></div>
-  </li> -->
-
-  {% unless page.winners %}
   {% comment %} Order alphabetically {% endcomment %}
   {% assign data_list = data_list | sort: "order" %}
-  {% endunless %}
 
   {% for data in data_list %}
 
@@ -99,96 +89,7 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% if do_show_item == true %}
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
-  {% if page.finalists or page.winners %}
-  <li class="{{ data.category }}">
-    <a href="{{ data.uri }}">
-      {% if data.plan_id %}
-      <span class="image"><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ data['project_image'] }}" alt="" width="540" height="428" /></span>
-      {% else %}
-      <span class="image" {% if data.project_image_color %}
-        style="background-color: {{ data.project_image_color }}"{% endif %}>
-        {% assign image_url = data.project_image %}
-        {% assign image_category = data.category %}
-        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="(min-width: 60em) 50vw, 100vw" width="500" alt="" />
-      </span>
-      {% endif %}
-      <span class="text">
-        {% if page.winners %}
-        {% comment %}
-        <p
-          style="text-transform: none; text-decoration: none;">
-          <span class="category" style="text-transform: uppercase; text-decoration: underline" onclick="window.location.href = '/{{ data['category']}}/'; event.preventDefault()">{{ data['category'] }}</span> Winner
-        </p>
-        <h2 style="color: var(--primary-color); font-size: inherit;">LA2050 is proud to present…</h2>
-        {% endcomment %}
-        <p style="color: var(--primary-color); font-style: italic; color: inherit; font-weight: normal; font-size: 0.875em">
-          <strong class="category" style="text-decoration: none"><span onclick="window.location.href = '/{{ data['category']}}/'; event.preventDefault()">{{ data['category'] }}</span> winner</strong>
-        </p>
-        {% endif %}
-        <h3>{{ data['title'] }}</h3>
-        <p class="organization">{{ data['organization_name'] }}</p>
-        {% unless page.winners %}
-        <p class="organization-type">{{ data.organization_description }}</p>
-        <p class="description">{{ data['project_description'] }}</p>
-        {% endunless %}
-        <p class="action"><span>Read More</span></p>
-      </span>
-    </a>
 
-    {% if page.winners %}
-    <div class="proposal-share">
-
-{% for twitter in data['organization_twitter'] limit:1 %}
-
-{% if twitter contains "http" %}
-{% assign twitter_url = twitter %}
-{% elsif twitter contains "twitter.com/" %}
-{% capture twitter_url %}https://{{ twitter }}{% endcapture %}
-{% else %}
-{% capture twitter_url %}https://twitter.com/{{ twitter | replace: "@", "" }}{% endcapture %}
-{% endif %}
-
-      <p>
-        <span>
-          <span style="margin-right: 0.375em;">Share:</span>
-          <a href="https://twitter.com/share?url=https%3A%2F%2Factivation.la2050.org%2Fwinners%2F" onclick="window.location.href = 'https://twitter.com/share?text=' + encodeURIComponent('Congratulations to @{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }} for winning a $200K grant in the 2018 My LA2050 Activation Challenge! Check out the other @LA2050 #ActivateforLA winners!') + '&url=https%3A%2F%2Factivation.la2050.org%2Fwinners%2F'; event.preventDefault()">
-            <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="vertical-align: middle; margin-left: 0.75em">
-              <title>Twitter</title>
-              <switch>
-                <path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" class=""></path>
-                <foreignObject>Twitter</foreignObject>
-              </switch>
-            </svg>
-          </i>
-          &nbsp;
-          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Factivation.la2050.org%2Fwinners%2F">
-            <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 512" style="vertical-align: middle; margin-left: 0.75em">
-              <title>Facebook</title>
-              <switch>
-                <path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229" class=""></path>
-                <foreignObject>Facebook</foreignObject>
-              </switch>
-            </svg>
-          </a>
-        </span>
-      </p>
-
-{% endfor %}
-
-    </div>
-    {% endif %}
-
-
-
-    <!--
-    <div class="action">
-      <p><a href="">Read More</a></p>
-      <p><a href="">Vote for this</a></p>
-    </div>
-    -->
-    <!-- <p class="action"><a href="">Vote for this</a></p> -->
-  </li>
-  {% else %}
   <li class="{{ data.category }}">
     <a href="{{ data.uri }}">
       <span class="image">
@@ -206,7 +107,6 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
       <p class="description">{{ data['project_description'] }}</p>
     </a>
   </li>
-  {% endif %}
 
   {% if page.is_search_results %}</script>{% endif %}
 
@@ -290,34 +190,26 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
     return rank;
   }
 
-  // function containsAllKeywords(keywordList, string) {
-  //   for (var index = 0; index < keywordList.length; index++) {
-  //     if (!containsKeyword(keywordList[index], string)) {
-  //       return false;
-  //     }
-  //   }
-  //   return true;
-  // }
 
-// https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array#2450976
-function shuffle(array) {
-  var currentIndex = array.length, temporaryValue, randomIndex;
+  // https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array#2450976
+  function shuffle(array) {
+    var currentIndex = array.length, temporaryValue, randomIndex;
 
-  // While there remain elements to shuffle...
-  while (0 !== currentIndex) {
+    // While there remain elements to shuffle...
+    while (0 !== currentIndex) {
 
-    // Pick a remaining element...
-    randomIndex = Math.floor(Math.random() * currentIndex);
-    currentIndex -= 1;
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex -= 1;
 
-    // And swap it with the current element.
-    temporaryValue = array[currentIndex];
-    array[currentIndex] = array[randomIndex];
-    array[randomIndex] = temporaryValue;
+      // And swap it with the current element.
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+    }
+
+    return array;
   }
-
-  return array;
-}
 
 
   // var fragment = document.createDocumentFragment();
