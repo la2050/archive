@@ -70,8 +70,24 @@ function getRandomInt(min, max) {
 
 function createMarkdownFile(data, category) {
   console.log('createMarkdownFile for ' + data.organization_name);
+
   if (!category) category = data.category.toLowerCase();
-  let writePath = './_' + category; // Example: _/connect
+  if (!category || category == "") {
+    if (data.challenge_url.indexOf("/learn/") >= 0 || data.challenge_url.indexOf("la2050learn") >= 0) {
+      category = "learn"
+    } else if (data.challenge_url.indexOf("/create/") >= 0 || data.challenge_url.indexOf("la2050create") >= 0) {
+      category = "create"
+    } else if (data.challenge_url.indexOf("/play/") >= 0 || data.challenge_url.indexOf("la2050play") >= 0) {
+      category = "play"
+    } else if (data.challenge_url.indexOf("/connect/") >= 0 || data.challenge_url.indexOf("la2050connect") >= 0) {
+      category = "connect"
+    } else if (data.challenge_url.indexOf("/live/") >= 0 || data.challenge_url.indexOf("la2050live") >= 0) {
+      category = "live"
+    } else {
+      category = "projects"
+    }
+  }
+  let writePath = '../_markdown/_' + category; // Example: _/connect
 
   let filename = stringToURI(data.organization_name);
 
@@ -190,11 +206,18 @@ function generateAllCollections(file_name) {
 
   console.log('generateCollections: ' + file_name);
 
-  let input = fs.readFileSync('../_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let input = fs.readFileSync('../_data/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
-  for (let index = 0; index < 2; index++) {
-    createMarkdownFile(records[index]);
+  for (let index = 0; index < records.length; index++) {
+
+    if (records[index].challenge_year === "2018") {
+
+      console.log("category: " + records[index].category);
+
+      createMarkdownFile(records[index]);
+    }
+
   }
   return records;
 }
