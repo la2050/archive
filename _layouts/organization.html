@@ -274,13 +274,15 @@ figure {
 </script>
 {% endif %}
 
+<hr style="margin-top: 3em; opacity: 0;" />
 
-<h2 style="margin-bottom: 1.5em; color: var(--primary-color); text-align: center; max-width: none;">Ideas</h2>
+<h2 style="margin-bottom: 1.875em; color: var(--primary-color); text-transform: uppercase; text-align: center; max-width: none;">Ideas</h2>
 
+<hr style="margin-bottom: 3em; opacity: 0;" />
 
 <ul style="list-style: none; margin-left: 0; padding-left: 0; text-align: center; max-width: none;">
-  <li style="list-style: none; margin-left: 0; padding-left: 0;  max-width: none;">
-    <a href="{{ page.uri }}" style="color: var(--primary-color);">
+  <li style="list-style: none; margin-left: 0; padding-left: 0;  max-width: 500px; margin-left: auto; margin-right: auto;">
+    <a href="{{ page.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
       {% if page.plan_id %}
       <div><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt=""
               width="540" height="428" /></div>
@@ -289,7 +291,14 @@ figure {
               width="500" /></div>
       {% endif %}
 
-      {{ page.title }}
+      <h3 style="color: var(--primary-color); text-decoration: underline;  
+line-height: 1.3125;
+font-size: inherit;
+line-height: inherit;
+font-weight: bold;
+margin-top: 0.375em;
+margin-bottom: 0.375em;">{{ page.title }}</h3>
+      <p style="margin: 0">{{ page.project_description }}</p>
     </a>
   </li>
 </ul>
