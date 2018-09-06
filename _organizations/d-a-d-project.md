@@ -115,5 +115,15 @@ order: 65
 category: learn
 uri: /learn/d-a-d-project/
 year: 2016
+projects:
+  - uri: /learn/d-a-d-project/
+    category: learn
+    title: 'The D.A.D Project we are empowering communities, one D.A.D at a time!'
+    project_description: >-
+      The D.A.D Proejct was developed to help fathers undersand the importance
+      of father/male involvement in their child's educational developement, by
+      providing programs that support school readiness goals
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
 
 ---

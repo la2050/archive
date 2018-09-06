@@ -213,5 +213,14 @@ uri: /live/freefrom/
 order: 23
 project_image: freefrom.jpg
 year: 2018
+projects:
+  - uri: /live/freefrom/
+    category: live
+    title: Make LA the first city where everyone can live free from abuse
+    project_description: >-
+      FreeFrom is working to revolutionize LA’s response to the epidemic of
+      gender-based violence by making sure every survivor has the financial
+      resources to heal, rebuild and live free from abuse.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
 
 ---

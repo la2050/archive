@@ -121,5 +121,15 @@ order: 15
 category: learn
 uri: /learn/proyecto-pastoral/
 year: 2016
+projects:
+  - uri: /learn/proyecto-pastoral/
+    category: learn
+    title: '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
+    project_description: >-
+      We will create a peer mentorship program aimed at increasing college
+      access in Boyle Heights, where college students mentor high school
+      students, who in turn mentor middle school students.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 
 ---

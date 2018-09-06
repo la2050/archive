@@ -107,5 +107,17 @@ order: 61
 category: connect
 uri: /connect/grid-logistics/
 year: 2016
+projects:
+  - uri: /connect/grid-logistics/
+    category: connect
+    title: >-
+      The GRID Project: Let's create 50K jobs building great things to reduce
+      air pollution & FWY gridlock
+    project_description: >-
+      Cleantech infrastructure that connects container cargo between ships,
+      trains, trucks and warehouses while adding value to people's lives all
+      along Greater LA's trading corridors.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
 
 ---

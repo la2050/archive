@@ -111,5 +111,17 @@ order: 13
 category: connect
 uri: /connect/us-green-building-council-la/
 year: 2016
+projects:
+  - uri: /connect/us-green-building-council-la/
+    category: connect
+    title: >-
+      EcoMapLA is todays roadmap for a tomorrow that is social, economic and
+      environmental sustainable
+    project_description: >-
+      EcoMapLA the “GoTo” Resource Map for all things sustainable in LA, created
+      to meet the growing demand of Angelenos wanting to know their sustainable
+      choices within their city.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
 
 ---

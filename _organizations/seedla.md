@@ -131,5 +131,15 @@ order: 50
 category: live
 uri: /live/seedla/
 year: 2016
+projects:
+  - uri: /live/seedla/
+    category: live
+    title: 'SeedLA: Empowering Environmental Nonprofits'
+    project_description: >-
+      SeedLA will provide 12 environmental nonprofits with 10 week consulting
+      projects to enhance their pioneering work towards a healthier and more
+      sustainable Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
 
 ---

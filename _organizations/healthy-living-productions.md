@@ -101,5 +101,17 @@ order: 64
 category: live
 uri: /live/healthy-living-productions/
 year: 2016
+projects:
+  - uri: /live/healthy-living-productions/
+    category: live
+    title: >-
+      We're creating Doctors' Orders, a video series to help LA become proactive
+      about health and wellness
+    project_description: >-
+      Doctors' Orders is a powerful new video series for Los Angeles that will
+      educate on diseases, preventative care and living a healthy lifestyle. 
+      Because proactive health care saves lives!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
 
 ---

@@ -79,5 +79,17 @@ uri: /connect/tides-center-dba-childrens-action-network/
 order: 15
 project_image: tides-center-dba-childrens-action-network.jpg
 year: 2018
+projects:
+  - uri: /connect/tides-center-dba-childrens-action-network/
+    category: connect
+    title: >-
+      Fostering a better future for LA youth by expanding a successful foster
+      family recruitment campaign.
+    project_description: >-
+      A non-profit coalition united on behalf of foster youth to increase
+      participation in foster parenting, mentoring and educational
+      opportunities.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/tides-center-dba-childrens-action-network.jpg
 
 ---

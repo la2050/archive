@@ -88,5 +88,17 @@ category: live
 uri: >-
   /live/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/
 year: 2016
+projects:
+  - uri: >-
+      /live/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/
+    category: live
+    title: >-
+      LA CitySense: Citizen engagement in collection of air quality data for
+      improvement of public health
+    project_description: >-
+      LA CitySense is a citizen engagement initiative for collection of air
+      quality data for the improvement of public health.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0478134165741-team90.png
 
 ---

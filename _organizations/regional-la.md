@@ -176,5 +176,14 @@ uri: /connect/regional-la/
 order: 33
 project_image: regional-la.jpg
 year: 2018
+projects:
+  - uri: /connect/regional-la/
+    category: connect
+    title: 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
+    project_description: >-
+      REGIONAL.LA is a civic engagement tool that allows residents to find and
+      connect with their civic community according to local geography: cities,
+      neighborhoods, and service areas.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/regional-la.jpg'
 
 ---

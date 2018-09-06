@@ -120,5 +120,15 @@ order: 38
 category: live
 uri: /live/muscular-dystrophy-association/
 year: 2016
+projects:
+  - uri: /live/muscular-dystrophy-association/
+    category: live
+    title: Live Unlimited with MDA's Summer Camp
+    project_description: >-
+      MDA Summer Camp provides kids with muscular dystrophy and related diseases
+      an opportunity for 'the best week of the year,' where kids are living
+      beyond limits in a place where anything is possible!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
 
 ---

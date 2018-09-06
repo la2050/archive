@@ -126,5 +126,14 @@ uri: /live/the-glue/
 order: 12
 project_image: the-glue.jpg
 year: 2018
+projects:
+  - uri: /live/the-glue/
+    category: live
+    title: Crowd-Sourcing Sidewalk App
+    project_description: >-
+      Let's build an open-source app that collects crowd-sourced data on
+      sidewalk condition to create accessible walking routes and identify which
+      sidewalks need TLC.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg'
 
 ---

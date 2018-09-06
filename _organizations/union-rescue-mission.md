@@ -109,5 +109,14 @@ category: live
 uri: /live/union-rescue-mission/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /live/union-rescue-mission/
+    category: live
+    title: A Way Home for Women & Children
+    project_description: >-
+      Help us provide a way home for women and children experiencing
+      homelessness on the streets of Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 
 ---

@@ -137,5 +137,17 @@ uri: /connect/geffen-academy-at-ucla/
 order: 36
 project_image: geffen-academy-at-ucla.jpg
 year: 2018
+projects:
+  - uri: /connect/geffen-academy-at-ucla/
+    category: connect
+    title: >-
+      RideLA. Rewarding Impact and Driving Engagement on LA’s Metro via a
+      Blockchain based Mobile App.
+    project_description: >-
+      The RideLA app will incentivize use of public transportation by offering a
+      Blockchain based game system through which riders earn credits to exchange
+      for goods and services across LA.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/geffen-academy-at-ucla.jpg
 
 ---

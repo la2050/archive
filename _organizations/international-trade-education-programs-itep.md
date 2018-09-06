@@ -114,5 +114,14 @@ order: 16
 category: live
 uri: /live/international-trade-education-programs-itep/
 year: 2016
+projects:
+  - uri: /live/international-trade-education-programs-itep/
+    category: live
+    title: East Los Angeles Youth Environmental Leadership Summit
+    project_description: >-
+      Local industry leaders and East LA youth will converge inspire the next
+      generation of environmental leaders and change.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 
 ---

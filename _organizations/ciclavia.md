@@ -132,5 +132,16 @@ uri: /connect/ciclavia/
 order: 6
 project_image: ciclavia.jpg
 year: 2018
+projects:
+  - uri: /connect/ciclavia/
+    category: connect
+    title: >-
+      CicLAvia: "When LA Listens" captures and tells the stories of the people
+      and places that is LA.
+    project_description: >-
+      LA is a place we love - our people, our neighborhoods, and our experiences
+      connect us. CicLAvia: "When LA Listens" captures and tells the stories of
+      the people and places that is LA.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/ciclavia.jpg'
 
 ---

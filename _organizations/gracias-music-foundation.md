@@ -67,5 +67,16 @@ uri: /connect/gracias-music-foundation/
 order: 16
 project_image: gracias-music-foundation.jpg
 year: 2018
+projects:
+  - uri: /connect/gracias-music-foundation/
+    category: connect
+    title: >-
+      Gracias Music Foundation: Cultivating and empowering musicians that give
+      back to the community
+    project_description: >-
+      We Believe Having A Dream And Never Giving Up Will Eventually Create
+      Tomorrow's Music.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/gracias-music-foundation.jpg
 
 ---

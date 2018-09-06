@@ -93,5 +93,17 @@ uri: /learn/crayon-collection/
 order: 2
 project_image: crayon-collection.jpg
 year: 2018
+projects:
+  - uri: /learn/crayon-collection/
+    category: learn
+    title: >-
+      Crayon Collection: prevent waste in landfills; increase arts education in
+      low income schools.
+    project_description: >-
+      Every child deserves a crayon. Crayon Collection aims to reduce waste in
+      landfills by collecting gently used crayons that never decompose and
+      distributing them to the kids that need them the most.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/crayon-collection.jpg
 
 ---

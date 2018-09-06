@@ -129,5 +129,17 @@ order: 8
 category: create
 uri: /create/thecool/
 year: 2016
+projects:
+  - uri: /create/thecool/
+    category: create
+    title: >-
+      Building a home that shifts interactions from pixels to people, from
+      loneliness to companionship.
+    project_description: >-
+      We plan to create a space that encourages you to use all five senses in
+      public - savor our menu, witness people’s gifts, play in the space, listen
+      to conversations and music.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
 
 ---

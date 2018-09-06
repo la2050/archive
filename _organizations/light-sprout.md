@@ -126,5 +126,17 @@ order: 17
 category: live
 uri: /live/light-sprout/
 year: 2016
+projects:
+  - uri: /live/light-sprout/
+    category: live
+    title: >-
+      Empower Me, a digital tool for rape survivors & allies that fosters
+      community, justice & healing
+    project_description: >-
+      Empower Me cultivates a community of healing for sexual assault survivors
+      and their advocates through story sharing, medical and psychological
+      resources, and avenues for justice.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 
 ---

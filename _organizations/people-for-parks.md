@@ -153,5 +153,15 @@ order: 15
 category: play
 uri: /play/people-for-parks/
 year: 2016
+projects:
+  - uri: /play/people-for-parks/
+    category: play
+    title: People for Parks' Community School Parks Go Kid Healthy!
+    project_description: >-
+      People for Parks transforms public park access. Partnering with Kid
+      Healthy we’ll train parents to grow our 11 new Community School Parks into
+      vibrant places for kids and families to play and thrive.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
 
 ---

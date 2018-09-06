@@ -142,5 +142,17 @@ order: 20
 category: live
 uri: /live/los-angeles-food-policy-council/
 year: 2016
+projects:
+  - uri: /live/los-angeles-food-policy-council/
+    category: live
+    title: >-
+      Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food
+      System
+    project_description: >-
+      Join hundreds of Angelenos in creating the NEW Good Food For All Agenda –
+      a visionary policy platform to create health and resiliency for LA’s food
+      system.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
 
 ---

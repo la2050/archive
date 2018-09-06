@@ -121,5 +121,17 @@ order: 49
 category: learn
 uri: /learn/avalon-carver-community-center/
 year: 2016
+projects:
+  - uri: /learn/avalon-carver-community-center/
+    category: learn
+    title: >-
+      Mobile STEM Project is a school based initiative designed to eliminate
+      disparities in STEM education
+    project_description: >-
+      In an effort to minimize the achievement gaps in math and science, the
+      Mobile STEM project provides science and engineering engineering that make
+      learning exciting and engaging for South LA students.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 
 ---

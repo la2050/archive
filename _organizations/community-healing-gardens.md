@@ -136,5 +136,15 @@ order: 7
 category: live
 uri: /live/community-healing-gardens/
 year: 2016
+projects:
+  - uri: /live/community-healing-gardens/
+    category: live
+    title: Building LA’s underserved communities from the ground up!
+    project_description: >-
+      Community Healing Gardens is creating a sustainable, urban school garden
+      in Watts that grows healthy food, clean water, jobs, connection, community
+      & love
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
 
 ---

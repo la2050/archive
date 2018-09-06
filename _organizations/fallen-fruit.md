@@ -128,5 +128,14 @@ order: 55
 category: live
 uri: /live/fallen-fruit/
 year: 2016
+projects:
+  - uri: /live/fallen-fruit/
+    category: live
+    title: 'The Endless Orchard: Phase Two'
+    project_description: >-
+      The Endless Orchard is a real living fruit orchard planted by the public,
+      for the public, that transforms our neighborhoods  into edible gardens.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 
 ---

@@ -130,5 +130,17 @@ order: 44
 category: connect
 uri: /connect/sundance-institute/
 year: 2016
+projects:
+  - uri: /connect/sundance-institute/
+    category: connect
+    title: >-
+      NEXT FEST: A weekend of indie film & music bringing Angelenos together in
+      the heart of Downtown LA.
+    project_description: >-
+      Providing free tickets and a place for Angelenos to connect through a
+      unique summer festival fusing independent film, music, comedy &
+      conversation in the heart of Downtown LA.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
 
 ---

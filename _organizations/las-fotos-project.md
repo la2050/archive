@@ -113,5 +113,15 @@ order: 9
 category: connect
 uri: /connect/las-fotos-project/
 year: 2016
+projects:
+  - uri: /connect/las-fotos-project/
+    category: connect
+    title: Connecting Communities through Fotos
+    project_description: >-
+      There are thousands of inspiring stories, people and nonprofits that make
+      LA dynamic. Help us tell their stories through photos - connecting people
+      and communities!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 
 ---

@@ -136,5 +136,15 @@ order: 58
 category: live
 uri: /live/covenant-house-california/
 year: 2016
+projects:
+  - uri: /live/covenant-house-california/
+    category: live
+    title: The Precise Barber College
+    project_description: >-
+      The Precise Barber College will provide pathways to careers for homeless
+      youth - not just jobs - and combine the best of the for-profit and
+      non-profit worlds for a socially conscious enterprise.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
 
 ---

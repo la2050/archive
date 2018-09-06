@@ -137,5 +137,17 @@ order: 30
 category: create
 uri: /create/mitu/
 year: 2016
+projects:
+  - uri: /create/mitu/
+    category: create
+    title: >-
+      mitú Accelerate LA:  Diversifying digital content creation for regional
+      social impact
+    project_description: >-
+      mitú Accelerate LA is a two track program focused on empowering aspiring
+      Latino filmmakers and storytellers to share their powerful stories, and
+      cover some of the most vital issues in the community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
 
 ---

@@ -114,5 +114,14 @@ order: 10
 category: create
 uri: /create/pacoima-beautiful/
 year: 2016
+projects:
+  - uri: /create/pacoima-beautiful/
+    category: create
+    title: Celebrate Pacoima
+    project_description: >-
+      Join us in developing a safe creative space for the community and by the
+      community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 
 ---

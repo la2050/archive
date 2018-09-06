@@ -75,5 +75,15 @@ uri: /live/peer-health-exchange/
 order: 5
 project_image: peer-health-exchange.jpg
 year: 2018
+projects:
+  - uri: /live/peer-health-exchange/
+    category: live
+    title: Access to Health Resources for Young People
+    project_description: >-
+      We seek to empower young people with the knowledge, skills, and resources
+      to make healthy decisions through providing in-person clinic tours of a
+      local community health center for 9th-grade students.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 
 ---

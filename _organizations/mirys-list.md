@@ -194,5 +194,14 @@ order: 47
 project_image: mirys-list.jpg
 project_image_color: 'rgb(69, 61, 47)'
 year: 2018
+projects:
+  - uri: /connect/mirys-list/
+    category: connect
+    title: 'Welcome, Neighbor: Making LA the most welcoming place in America'
+    project_description: >-
+      "Welcome, Neighbor" is a campaign to activate Angelenos across the city
+      through their Neighborhood Councils to welcome and support their newest
+      neighbors, refugee families resettling in Los Angeles.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mirys-list.jpg'
 
 ---

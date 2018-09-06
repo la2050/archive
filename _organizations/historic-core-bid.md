@@ -110,5 +110,14 @@ order: 56
 category: connect
 uri: /connect/historic-core-bid/
 year: 2016
+projects:
+  - uri: /connect/historic-core-bid/
+    category: connect
+    title: Spring Street Parklets
+    project_description: >-
+      Spark face-to-face connections and cultural engagement through
+      technology-equipped public parklets in the heart of Downtown Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
 
 ---

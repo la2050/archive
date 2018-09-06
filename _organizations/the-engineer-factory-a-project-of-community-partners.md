@@ -138,5 +138,17 @@ order: 66
 category: learn
 uri: /learn/the-engineer-factory-a-project-of-community-partners/
 year: 2016
+projects:
+  - uri: /learn/the-engineer-factory-a-project-of-community-partners/
+    category: learn
+    title: >-
+      The Engineer Factory: Producing engineers in South Los Angeles...one
+      student at a time!
+    project_description: >-
+      The Engineer Factory is to increase the number of students from
+      underrepresented populations (girls and students of color) that pursue
+      higher education and careers in Engineering.  This
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 
 ---

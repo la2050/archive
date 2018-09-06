@@ -123,5 +123,15 @@ order: 23
 category: create
 uri: /create/four-rings/
 year: 2016
+projects:
+  - uri: /create/four-rings/
+    category: create
+    title: 'Four Rings: Giving LA a Home to Recharge'
+    project_description: >-
+      Four Rings is building a facility to house our vibrant and eclectic
+      community centered around our four pillars: fitness, health,
+      entertainment, and community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 
 ---

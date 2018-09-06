@@ -137,5 +137,15 @@ order: 38
 category: learn
 uri: /learn/core-innovate-inc-century-academy-for-excellence/
 year: 2016
+projects:
+  - uri: /learn/core-innovate-inc-century-academy-for-excellence/
+    category: learn
+    title: 'Inglewood Speaks: Young Podcasters Discover LA2050’s Homegrown Heroes'
+    project_description: >-
+      Middle school students from Inglewood’s Century Academy for Excellence
+      will discover LA’s homegrown heroes by researching local issues LA2050
+      grantees are addressing and producing a podcast.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 
 ---

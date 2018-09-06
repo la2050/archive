@@ -158,5 +158,14 @@ order: 37
 category: create
 uri: /create/concerned-capital-crowdfund-better/
 year: 2016
+projects:
+  - uri: /create/concerned-capital-crowdfund-better/
+    category: create
+    title: '#Re-Make It LA'
+    project_description: >-
+      Reinvent older, LA manufacturing companies by using crowdfunding and other
+      innovations to retain jobs in LA
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 
 ---

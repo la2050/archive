@@ -121,5 +121,15 @@ order: 14
 category: live
 uri: /live/grown-in-la/
 year: 2016
+projects:
+  - uri: /live/grown-in-la/
+    category: live
+    title: Creating Mother Nature's Metropolis
+    project_description: >-
+      Grown in LA and partners will reinvigorate an underutilized site in
+      Griffith Park into an outdoor laboratory that grows and conducts research
+      on climate-appropriate plants for cities in southern CA.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
 
 ---

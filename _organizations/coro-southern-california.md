@@ -152,5 +152,17 @@ uri: /connect/coro-southern-california/
 order: 13
 project_image: coro-southern-california.jpg
 year: 2018
+projects:
+  - uri: /connect/coro-southern-california/
+    category: connect
+    title: >-
+      Coro Southern California’s Neighborhood Leaders Program: Cultivating
+      Leaders to Empower Communities
+    project_description: >-
+      Coro’s Neighborhood Leaders Program (NLP) trains emerging leaders from
+      South LA in civic leadership and public affairs, preparing them to enact
+      meaningful change within their communities.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/coro-southern-california.jpg
 
 ---

@@ -144,5 +144,17 @@ uri: /connect/los-angeles-lgbt-center/
 order: 34
 project_image: los-angeles-lgbt-center.jpg
 year: 2018
+projects:
+  - uri: /connect/los-angeles-lgbt-center/
+    category: connect
+    title: >-
+      Resistance Squad: Amplifying the Power of Angelenos to Affect National
+      Change
+    project_description: >-
+      The Los Angeles LGBT Center will advance our mobilization and resistance
+      squad to include 200 more members actively fighting against policy attacks
+      that harm the well-being of people in Los Angeles.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-lgbt-center.jpg
 
 ---

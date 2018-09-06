@@ -69,5 +69,15 @@ order: 59
 category: live
 uri: /live/avas-heart/
 year: 2016
+projects:
+  - uri: /live/avas-heart/
+    category: live
+    title: The Transplant Journey
+    project_description: >-
+      Help Ava’s Heart create a Ronald MacDonald-type house for Transplant
+      patients. You cannot get listed unless you have 3 months of post
+      transplant housing close to hospitals; Cedars, UCLA & Keck
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
 
 ---

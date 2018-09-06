@@ -139,5 +139,15 @@ order: 57
 category: learn
 uri: /learn/spark-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/spark-los-angeles/
+    category: learn
+    title: Spark LA Youth Mentorships
+    project_description: >-
+      Let’s make LA the best place to learn by matching all of our city’s
+      underserved middle schoolers with mentors at leading companies to support
+      their success in high school and beyond.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 
 ---

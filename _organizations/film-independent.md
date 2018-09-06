@@ -112,5 +112,15 @@ uri: /connect/film-independent/
 order: 27
 project_image: film-independent.jpg
 year: 2018
+projects:
+  - uri: /connect/film-independent/
+    category: connect
+    title: 'Made in LA: Show us your LA and your vision for the future'
+    project_description: >-
+      Made in LA highlights LA’s diversity by selecting 50 short films by LA
+      residents to be featured in an online interactive map and at the LA Film
+      Festival.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/film-independent.jpg
 
 ---

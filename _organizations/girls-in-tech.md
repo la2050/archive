@@ -121,5 +121,15 @@ order: 14
 category: create
 uri: /create/girls-in-tech/
 year: 2016
+projects:
+  - uri: /create/girls-in-tech/
+    category: create
+    title: Coding Bootcamps and Conferences for Women in Tech
+    project_description: >-
+      Girls in Tech (GIT) is a global non-profit focused on the engagement,
+      education and empowerment of girls and women who are passionate about
+      technology by providing innovative programs and partnerships
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 
 ---

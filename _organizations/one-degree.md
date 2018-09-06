@@ -169,5 +169,16 @@ uri: /live/one-degree/
 order: 13
 project_image: one-degree.jpg
 year: 2018
+projects:
+  - uri: /live/one-degree/
+    category: live
+    title: >-
+      Empowering Angelenos to build a path out of poverty and thrive with One
+      Degree
+    project_description: >-
+      Low-income and at-risk Angelenos will be able to find, access, and manage
+      nonprofit and social services efficiently and with dignity on One Degree
+      so they can prosper and reach their full potential.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
 
 ---

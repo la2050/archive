@@ -134,5 +134,17 @@ uri: /connect/kitchen-table-app/
 order: 21
 project_image: kitchen-table-app.jpg
 year: 2018
+projects:
+  - uri: /connect/kitchen-table-app/
+    category: connect
+    title: >-
+      Kitchen Table App brings people together over a shared love of good food
+      and great company.
+    project_description: >-
+      Kitchen Table App is a community building platform that brings people from
+      all walks of life and every corner of Los Angeles together over a shared
+      love of good food and great company.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/kitchen-table-app.jpg
 
 ---

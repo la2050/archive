@@ -120,5 +120,17 @@ order: 50
 category: learn
 uri: /learn/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
 year: 2016
+projects:
+  - uri: /learn/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
+    category: learn
+    title: >-
+      Pools of Hope provides an after-school Swim & Achieve Homework Assistance
+      Lab for at-risk youth.
+    project_description: >-
+      Pools of Hope's Swim & Achieve Homework Assistance Lab is an after-school
+      tutoring program that rewards students with swim lessons to promote
+      academic achievement and wellness in a safe environment.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
 
 ---

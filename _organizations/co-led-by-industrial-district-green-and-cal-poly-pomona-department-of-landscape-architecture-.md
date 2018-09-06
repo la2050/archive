@@ -139,5 +139,18 @@ category: play
 uri: >-
   /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
 year: 2016
+projects:
+  - uri: >-
+      /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
+    category: play
+    title: >-
+      The Green Alley PLAYlab: Pop-Up playscapes in the industrial alleys of
+      Downtown Los Angeles. 
+    project_description: >-
+      The Green Alley PLAYlab uses the power of play as a strategy to enhance
+      human, ecological and economic health in the Industrial Neighborhoods’
+      green alleys.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 
 ---

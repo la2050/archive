@@ -141,5 +141,14 @@ order: 14
 category: connect
 uri: /connect/synaccord-llc/
 year: 2016
+projects:
+  - uri: /connect/synaccord-llc/
+    category: connect
+    title: Engage Your Neighborhood
+    project_description: >-
+      Engage your neighbors and your neighborhood council your way, online,
+      productively, to make the future happen
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
 
 ---

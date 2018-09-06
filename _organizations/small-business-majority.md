@@ -116,5 +116,15 @@ uri: /create/small-business-majority/
 order: 14
 project_image: small-business-majority.jpg
 year: 2018
+projects:
+  - uri: /create/small-business-majority/
+    category: create
+    title: Supporting the entrepreneurs who create a vibrant Los Angeles
+    project_description: >-
+      This project will provide LA’s entrepreneurs with education and resources
+      to start and grow their own businesses, helping them revitalize their
+      communities and create new local opportunities.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/small-business-majority.jpg
 
 ---

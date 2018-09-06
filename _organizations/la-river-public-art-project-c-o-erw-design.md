@@ -149,5 +149,17 @@ uri: /connect/la-river-public-art-project-c-o-erw-design/
 order: 40
 project_image: la-river-public-art-project-c-o-erw-design.jpg
 year: 2018
+projects:
+  - uri: /connect/la-river-public-art-project-c-o-erw-design/
+    category: connect
+    title: >-
+      The Art Barge: a traveling, interactive archive of art and culture
+      precedents along the LA River.
+    project_description: >-
+      An interactive history of the art that has flourished along the LA River,
+      the Art Barge will travel to River parks and cultural centers to activate
+      communities along the LA River and beyond.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 
 ---

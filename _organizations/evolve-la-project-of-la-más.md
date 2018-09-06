@@ -160,5 +160,15 @@ order: 47
 category: live
 uri: /live/evolve-la-project-of-la-más/
 year: 2016
+projects:
+  - uri: /live/evolve-la-project-of-la-más/
+    category: live
+    title: 'Open House LA: making los angeles more open to more housing'
+    project_description: >-
+      Open House LA encourages residents and policy makers in LA County to be
+      more open to adding more housing of all types, so that there are enough
+      homes for all types of people to live in LA
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 
 ---

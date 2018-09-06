@@ -137,5 +137,17 @@ category: play
 uri: /play/helpline-youth-counseling-hyc/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /play/helpline-youth-counseling-hyc/
+    category: play
+    title: >-
+      Conservation Pathways: Environmental Education and Careers for Tomorrow's
+      Leaders
+    project_description: >-
+      HYC's Conservation Pathways Project in Southeast LA County boosts
+      residents’ understanding of environmental sustainability and awareness of
+      prospective careers in the growing eco-friendly industry.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 
 ---

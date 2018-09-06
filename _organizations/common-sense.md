@@ -157,5 +157,17 @@ uri: /learn/common-sense/
 order: 1
 project_image: common-sense.jpg
 year: 2018
+projects:
+  - uri: /learn/common-sense/
+    category: learn
+    title: >-
+      Closing the Digital Equity Gap for Underserved Latino Families with Common
+      Sense
+    project_description: >-
+      Common Sense will work with public school districts and community
+      organizations in LA to provide trainings and resources that help
+      underserved Latino families and kids thrive in the digital age.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/common-sense.jpg
 
 ---

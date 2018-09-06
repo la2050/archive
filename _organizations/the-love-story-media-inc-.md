@@ -111,5 +111,15 @@ order: 62
 category: connect
 uri: /connect/the-love-story-media-inc-/
 year: 2016
+projects:
+  - uri: /connect/the-love-story-media-inc-/
+    category: connect
+    title: The Love Story Interactive Art Journal + Live Open Mic Show
+    project_description: >-
+      We will interview 40 artists on how they have transformed the pain of loss
+      into creative expression and produce those interviews into a New Media Art
+      Journal. complimented by a live music/art show.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 
 ---

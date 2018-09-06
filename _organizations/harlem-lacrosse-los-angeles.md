@@ -109,5 +109,17 @@ uri: /learn/harlem-lacrosse-los-angeles/
 order: 4
 project_image: harlem-lacrosse-los-angeles.jpg
 year: 2018
+projects:
+  - uri: /learn/harlem-lacrosse-los-angeles/
+    category: learn
+    title: >-
+      Every Angeleno is an all star on our team. Help HL - LA build our home
+      field advantage!
+    project_description: >-
+      HL-LA engages families, communities, businesses, law enforcement, school
+      partners, and athletes of all backgrounds to provide kids most at risk of
+      dropout with personal pathways to future successes.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/harlem-lacrosse-los-angeles.jpg
 
 ---

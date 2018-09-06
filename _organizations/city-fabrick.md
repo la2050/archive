@@ -118,5 +118,15 @@ uri: /live/city-fabrick/
 order: 19
 project_image: city-fabrick.jpg
 year: 2018
+projects:
+  - uri: /live/city-fabrick/
+    category: live
+    title: IN House - Collaborative Affordable Housing Design
+    project_description: >-
+      IN House is a collaboration between City Fabrick, community partners,
+      affordable housing providers and residents to design innovative housing
+      strategies in Long Beach and South Los Angeles County.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg
 
 ---

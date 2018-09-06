@@ -1,101 +1,150 @@
 ---
-application_id: '3630714035'
-title: Connect to Soil and People
-project_description: >-
-  We’re challenging the people of Los Angeles to connect, to people and place,
-  to the soil and each other. #SupportSoilLA #soilandpeople #compost
+title: >-
+  Building Community and reducing organic waste via Community Compost Hubs
+  throughout LA County
 organization_name: LA Compost
 organization_description: Non-profit organization
-project_video: 'https://youtu.be/QeunrIbUzt0'
-link_newsletter: 'https://goo.gl/forms/Emg4OOdqUBWjIAMt1'
-organization_website: lacompost.org
-organization_twitter: '@lacompost'
-organization_facebook: '@l.a.compostCA'
-organization_instagram: '@lacompost'
-link_donate: 'http://bit.ly/2pTQAcr'
-link_volunteer: 'https://www.lacompost.org/new-hub-page-template-2'
+organization_website:
+  - lacompost.org
+organization_twitter: LACOMPOST
+organization_facebook: L.A.CompostCA
+organization_instagram: lacompost
 organization_activity: >-
-  LA Compost works alongside a growing network of community members and
-  stakeholders to develop social and physical infrastructure for cohesive
-  composting communities.
-project_proposal_description: >-
-  We’re challenging the people of Los Angeles to connect to the soil and each
-  other.
-
-
-
-   By developing community compost hubs and a network of enthusiastic composters, we can reevaluate our food system and work with nature to value soil, and in doing so, connect to the vibrancy of our urban space.
+  L.A. Compost is a sustainable movement that promotes healthy conscious
+  communities through the creation of community supported compost hubs
+  throughout Los Angeles.
+project_image: 4893873855741-team90.jpg
+project_video: 'https://www.youtube.com/embed/QgGAt5V-g8k?rel=0&amp;showinfo=0'
+project_description: >-
+  L.A. Compost will create a countywide composting program, connecting the
+  community with the soil that feeds them via workshops and use/access to
+  neighborhood community compost hubs.
+project_is_collaboration: 'No'
+project_collaborators: none
+project_applying: '$50,000'
 project_areas:
-  - Central LA
   - East LA
   - San Gabriel Valley
   - San Fernando Valley
   - South LA
   - Westside
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_proposal_mobilize:
-  - Trainings and/or in-person engagements
-  - >-
-    Influence individual behavior (e.g. change consumer spending or increase
-    conservation activity)
-  - Connect Angelenos with impactful volunteer opportunities
-project_proposal_best_place: >-
-  We aim to strengthen the social fabric of LA by connecting Angelenos to their
-  vibrant and diverse ecosystems. We’re challenging the people of Los Angeles to
-  experience the world as a holistic, interdependent living exchange of energy
-  that exist through people and the soil we live on . Compost is the process of
-  returning nature’s materials to the earth through decomposition, turning what
-  was once discarded into a valuable resource.
-
-   LA Compost hubs are spaces where kitchen scraps are turned into the ammendment needed for healthy soils. All hubs exist in partnerships with incredible organizations to support their thriving communities - from Monrovia to Elysian Valley, DTLA, to Venice. These compost hubs are established in shared spaces-places where we coexist. The hubs create a space for people to connect to the natural world existing within our urban landscape. Angelenos will have the opportunity to participate in various ways: learning food waste awareness and methods of composting, correctly sorting household food scraps, “deposit” food scraps at their community hub, join a workshop to learn about soil health, turn a compost pile at an urban farm, learn about vermicompost, interact intergenerationally, and create social connections to support healthy neighborhoods. We see these shared spaces as a bridge to connect individuals to their surrounding community. We live in a society full of disconnection, within communities there is isolation, between age groups it difficult for people to relate. This issue of disconnection has contributed to the increasing rates of mental suffering, lack of social support, lack of intergenerational activities, low rates of volunteerism, and less time spent interacting with the vibrant natural world and all of its wonders. Each of the LA Compost hubs is a space to reconnect, a platform to begin building these social bridges for us to nourish our environments. It is a space to share, volunteer, and engage in our civil society, broadening our horizons to meet outside of a coffee shop or board room, or our computer screens.
-
-   There are significant environmental benefits to both reducing food waste and using finished compost- ultimately completing the story of food from farm to table to compost and back to the soil. The environmental benefits of compost include increased water retention, reduce erosion, lower greenhouse gas emissions, and increase nutritional value of food. These environmental benefits help stabilize and protect our changing climate, making LA more resilient. Our goal is to strengthen the social fabric of LA by amplifying shared spaces for connections, with each other, our food system and the vibrant ecosystems of LA- while diverting food waste from landfill, generating healthy compost to nourish LA’s landscapes, protecting LA from drought and erosion, and celebrating diversity within soil and people.
-project_proposal_engage: >-
-  Compost adds value to the spaces where people are growing, living, and
-  learning.Individuals across Los Angeles can be united with their neighbors
-  around a topic we are all connected to, food. Engaging with healthy food often
-  leads to meals shared, stories told, and Angelenos interacting in a way beyond
-  the typical text message.
-
-
-
-   Our strategy is to influence behavior change through hands on sensory learning about compost, shifting away from the mindset of disposable habits. Our tactics to do this are increase activities for volunteering, hosting public gatherings for workshops, inviting neighborhood councils to turn days to meet outside, working to reduce residential segregation through active shared spaces.
-
-
-
-   This work is happening throughout the county, from scales as small as apartment balconies to regional urban farms.
+  - County of Los Angeles
 project_measure: >-
-  Increase mailing list: access to compost hubs Increase number of workshops
-  held Grow participation in community gardens Increase locations for household
-  food scrap drop off Measure invitations and participation from/in neighborhood
-  councils Connections made, increase opportunity and value of small businesses
-  and non profits in gardening, landscaping and urban farming.
+  The success of L.A. Compost will be measured by pounds of organics diverted
+  from landfills, community involvement, attendance at workshops, finished
+  compost/seedlings given back to the local community, and community feedback.
 
-  Our workshop surveys gather information about the individuals participating,
-  and we report anecdotal and qualitative stories about connections made within
-  the communities. We measure the success of the program through access: access
-  to local compost sites and access to information and educational programming. 
-project_five_years: >-
-  We envision healthy soils in LA- where Angelenos are more connected to nature
-  than concrete. Where people have access to healthy soil, water, air and food.
+  Organics diverted from landfill: Scales, journals, and visual trackers have
+  been placed at all our hubs and residents will continue to weigh and track the
+  organics they deposit in our compost systems. 
 
-   In five years we envision local composting hubs in all of LA’s neighborhoods, on our way to a cohesive composting system working with municipalities to promote individual, community and regional composting sites. We see an LA with more green spaces and need for compost to be applied to landscapes for homeowners and public space, working to sequester carbon. We'll work to increase access for those who cannot compost at home but want to contribute and support their local agriculture system. With increased access to food scraps drop locations -farmers markets, parks and libraries with garden programs. These three tiers- individual, community, regional- can collectively impact waste diversion while creating behavioral changes in our disconnected disposable economy. The tiers will work to support each other- with advanced workshops that incorporate outreach programs for learning at regional sites, and the education from the hubs translating to individuals confidently managing their own compost at home, connecting to the soil and each other.
-category_metrics:
-  - Adults getting sufficient social & emotional support
-  - Rates of volunteerism
-  - Residential segregation
-category_other:
-  - LA is the best place to LEARN
-  - LA is the healthiest place to LIVE
-category: connect
-uri: /connect/la-compost/
-order: 12
-project_image: la-compost.jpg
-year: 2018
+  Community involvement and attendance at workshop: Our current diversion logs
+  show how many people are visiting our hubs and using the compost bins weekly.
+  By taking attendance at our monthly workshops, we will be able to measure the
+  overall interest from the local community surrounding each hub.
+
+  Distribute finished compost and seedlings to local community: The compost
+  created at each hub will be weighed, recorded, and distributed to local
+  growers. By providing this compost to local growers, individuals will have the
+  starting block to grow their own healthy food. Along with distributing
+  finished compost, seedling starters are made using old newspaper and finished
+  compost. We will continue to keep track of how many seedlings are made and
+  given away each month using the same method as our diversion tracking system. 
+
+  Community Feedback: Community message boards will be used at specific hubs to
+  address specific needs. Quarterly surveys will be emailed to all those engaged
+  with the compost hubs and surveys will be given out at all workshops and
+  workdays.
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - Network/relationship support
+project_proposal_description: >-
+  LA Compost is working to create an entirely local solution to food waste
+  through composting. Our community supported compost hubs will keep organics
+  within the same community in which they were consumed, and provide finished
+  compost for local growers. By expanding our current countywide compost hub
+  network, we will continue to divert thousands of pounds of organics from
+  reaching landfills monthly, while also providing residents with the tools and
+  education needed to compost on their own.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Resilient communities
+project_proposal_best_place: >-
+  LA Compost will help make LA be the best place to LIVE by reconnecting
+  communities across LA County with their food, their soil, and their neighbors.
+
+
+  Communities across the country are proving that local food systems not only
+  work, but also are the way of the future. Areas such as New York, Austin, and
+  Washington D.C have proven that local composting within larger cities can
+  succeed, and have gained the support from their local city departments. Los
+  Angeles is slowly moving in the right direction by appreciating the local food
+  movement, but due to its expansive size, LA still has a long way to go.
+
+   Los Angeles County is the most populated county in the country with over 10 million people eating daily. This ongoing purchase and consumption of food for over 10 million people leads to large amounts of food going uneaten, and if not donated to a local food recovery agency, ends up in landfills. Due to our unique situation in Los Angeles, the solutions for these problems need to be as creative and beautiful as the cities that make up our county. 
+
+  LA Compost is creating a countywide composting program neighborhood by
+  neighborhood. The hubs we place throughout the county keep organics within the
+  same zip code where the food was originally grown or consumed, and they create
+  a space for educational workshops and workdays to take place. They are a tool
+  for educating the public about composting for soil health, a testimony to the
+  practicality of composting, and a distribution center from which we send
+  compost made on-site into the local community. 
+
+
+  By keeping organics in the same zip code where the food was grown or consumed,
+  communities become less reliant on trucks hauling their “waste” away. The
+  material that trucks often haul away still has value, and can help with many
+  issues that communities across the county are facing. Creating compost locally
+  improves the way our soils store water, sequester carbon from the air, and
+  produce healthy food. The act of composting locally increases a community’s
+  ability to become self sufficient, as residents now have the means to grow a
+  portion of their own food and manage their excess organics from the kitchen
+  and their landscapes. 
+
+
+  Beyond composting locally our hubs serve as an educational platform for
+  residents to coexist well and learn alongside their neighbors. Our monthly
+  workshops and workdays encourage residents to slow down, get outside, and
+  interact with both their neighbor and the soil. When neighbors come together
+  and are working towards a common goal, there is an undeniable sense of
+  community. 
+
+
+  We believe that taking responsibility for the environment you live in can be
+  empowering and healing, and that Los Angeles needs just this. Composting is a
+  beautiful, regenerative process that is collaborative, self-giving, and
+  exemplifies the type of city we want to embody.
+link_newsletter: 'https://lacompost.org/contact-us/'
+link_volunteer: 'https://lacompost.org/volunteer-opportunities/'
+link_donate: 'https://lacompost.org/donation/'
+plan_id: 82468
+order: 6
+category: live
+uri: /live/la-compost/
+year: 2016
+projects:
+  - uri: /live/la-compost/
+    category: live
+    title: >-
+      Building Community and reducing organic waste via Community Compost Hubs
+      throughout LA County
+    project_description: >-
+      L.A. Compost will create a countywide composting program, connecting the
+      community with the soil that feeds them via workshops and use/access to
+      neighborhood community compost hubs.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
+  - uri: /connect/la-compost/
+    category: connect
+    title: Connect to Soil and People
+    project_description: >-
+      We’re challenging the people of Los Angeles to connect, to people and
+      place, to the soil and each other. #SupportSoilLA #soilandpeople #compost
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/la-compost.jpg'
 
 ---

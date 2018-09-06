@@ -137,5 +137,15 @@ uri: /live/mar-vista-family-center/
 order: 35
 project_image: mar-vista-family-center.jpg
 year: 2018
+projects:
+  - uri: /live/mar-vista-family-center/
+    category: live
+    title: The Youth New A.G.E Initiative
+    project_description: >-
+      The New A.G.E Initiative coaches low-income youth on how to Abate waste,
+      Generate revenue, and Educate communities about recycling to engender
+      environmental sustainability and social responsibility.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
 
 ---

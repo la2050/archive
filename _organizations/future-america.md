@@ -89,5 +89,17 @@ uri: /learn/future-america/
 order: 17
 project_image: future-america.jpg
 year: 2018
+projects:
+  - uri: /learn/future-america/
+    category: learn
+    title: >-
+      The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
+      Ensemble of SF.
+    project_description: >-
+      The Latin Jazz Youth Ensemble of Los Angeles replicates the 17 yr success
+      of Latin Jazz Youth Ensemble of SF by providing FREE education from 2 time
+      Grammy winner, Oscar Hernandez. Spanish Harlem Orch
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/future-america.jpg
 
 ---

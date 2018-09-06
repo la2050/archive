@@ -130,5 +130,15 @@ category: learn
 uri: /learn/pasadena-educational-foundation/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /learn/pasadena-educational-foundation/
+    category: learn
+    title: 'APP Academy: Mobile, Web and Game Development for High School Students'
+    project_description: >-
+      The APP Academy is a four-year computer science education program where
+      high school students learn mobile, web and game development through
+      real-world, inquiry-based, hands-on projects.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 
 ---

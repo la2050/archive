@@ -157,5 +157,17 @@ order: 18
 category: live
 uri: /live/sound-body-sound-mind-foundation/
 year: 2016
+projects:
+  - uri: /live/sound-body-sound-mind-foundation/
+    category: live
+    title: >-
+      Fighting Child Obesity Through the Transformation of Physical Education in
+      Los Angeles
+    project_description: >-
+      Sound Body Sound Mind will provide Los Angeles middle and high schools
+      state-of-the-art fitness centers, fitness curriculum, and professional
+      development to transform P.E. and student health.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 
 ---

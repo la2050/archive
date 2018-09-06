@@ -94,5 +94,13 @@ uri: /connect/eayikes/
 order: 4
 project_image: eayikes.jpg
 year: 2018
+projects:
+  - uri: /connect/eayikes/
+    category: connect
+    title: 'Back to Basics: Transforming How Angelenos Connect'
+    project_description: >-
+      Using service and play to humanize, connect, and empower Angelenos from
+      all walks of life.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/eayikes.jpg'
 
 ---

@@ -69,5 +69,15 @@ order: 49
 category: connect
 uri: /connect/tierra-del-sol-foundation/
 year: 2016
+projects:
+  - uri: /connect/tierra-del-sol-foundation/
+    category: connect
+    title: Pathways to Employment through Professional Volunteerism
+    project_description: >-
+      Tierra del Sol Foundation will empower adults with developmental
+      disabilities to achieve a life of meaning, acceptance, value, and
+      inclusion, via professional volunteerism as a pathway to employment.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
 
 ---

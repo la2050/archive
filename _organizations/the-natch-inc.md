@@ -115,5 +115,15 @@ uri: /create/the-natch-inc/
 order: 6
 project_image: the-natch-inc.jpg
 year: 2018
+projects:
+  - uri: /create/the-natch-inc/
+    category: create
+    title: Farmers Market Delivery
+    project_description: >-
+      We make it easier for all Angelinos to sell or shop locally, by creating a
+      Farmer's Markets app where anybody can have their craft products delivered
+      across the city.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/the-natch-inc.jpg
 
 ---

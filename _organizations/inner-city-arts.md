@@ -150,5 +150,15 @@ order: 51
 category: learn
 uri: /learn/inner-city-arts/
 year: 2016
+projects:
+  - uri: /learn/inner-city-arts/
+    category: learn
+    title: Providing Access to the Arts and the Endless Possibilities They Offer
+    project_description: >-
+      We use the arts to positively affect the lives of underserved L.A.
+      children, improving their chances for success by developing creativity,
+      improving learning skills and building self-confidence.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 
 ---

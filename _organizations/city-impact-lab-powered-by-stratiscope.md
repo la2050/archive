@@ -115,5 +115,15 @@ uri: /connect/city-impact-lab-powered-by-stratiscope/
 order: 41
 project_image: city-impact-lab-powered-by-stratiscope.jpg
 year: 2018
+projects:
+  - uri: /connect/city-impact-lab-powered-by-stratiscope/
+    category: connect
+    title: '“The BlockMobile”: Creating Connections Block by Block'
+    project_description: >-
+      Activating hyperlocal leaders, the BlockMobile travels block by block in
+      LA’s high-density neighborhoods to draw neighbors to the street to connect
+      socially and tackle local community issues.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 
 ---

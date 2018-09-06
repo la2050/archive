@@ -142,5 +142,17 @@ order: 26
 category: create
 uri: /create/braid-theory-inc-/
 year: 2016
+projects:
+  - uri: /create/braid-theory-inc-/
+    category: create
+    title: >-
+      IGNITE22: A tech expo and collaborative experience celebrating innovations
+      shaping the 22nd century
+    project_description: >-
+      IGNITE22 is a technology showcase and collaborative experience that will
+      bring together creators, adopters and facilitators – visionaries that will
+      shape the next century.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 
 ---

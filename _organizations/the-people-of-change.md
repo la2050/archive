@@ -112,5 +112,17 @@ uri: /learn/the-people-of-change/
 order: 7
 project_image: the-people-of-change.jpg
 year: 2018
+projects:
+  - uri: /learn/the-people-of-change/
+    category: learn
+    title: >-
+      HIP Through Science: bringing quality and hip STEM Education to our urban
+      communities.
+    project_description: >-
+      HIP Through Science is looking to expand efforts that educate youth in the
+      communities of South LA in the STEM fields, we plan to add 1000 additional
+      youth served in the next three years.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/the-people-of-change.jpg
 
 ---

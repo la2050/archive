@@ -139,5 +139,17 @@ order: 7
 category: connect
 uri: /connect/come-alive-long-beach/
 year: 2016
+projects:
+  - uri: /connect/come-alive-long-beach/
+    category: connect
+    title: >-
+      Community Collaboration For Low Cost Creative Summer Art Camps In Long
+      Beach
+    project_description: >-
+      Connecting the city of Long Beach together to create low cost creative
+      summer art day camps to encourage and empower under-resourced children,
+      youth and families in the city of Long Beach.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7808945355741-team90.jpg
 
 ---

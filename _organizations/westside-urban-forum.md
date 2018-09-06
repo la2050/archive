@@ -96,5 +96,17 @@ order: 37
 category: connect
 uri: /connect/westside-urban-forum/
 year: 2016
+projects:
+  - uri: /connect/westside-urban-forum/
+    category: connect
+    title: >-
+      Let’s gather Westside stakeholders to connect and establish common ground
+      across city limits.
+    project_description: >-
+      WUF will sponsor a first-ever one-day conference to celebrate the
+      Westside, discuss common challenges, and identify projects to make the
+      Westside more lively, equitable, and functional.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 
 ---

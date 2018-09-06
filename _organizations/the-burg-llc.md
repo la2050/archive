@@ -113,5 +113,15 @@ uri: /connect/the-burg-llc/
 order: 42
 project_image: the-burg-llc.jpg
 year: 2018
+projects:
+  - uri: /connect/the-burg-llc/
+    category: connect
+    title: 'The Burg: LA''s Community Platform'
+    project_description: >-
+      The Burg is the community's platform, a digital public square that funnels
+      local news and local representatives directly to the verified voters (and
+      nonvoters) of Los Angeles.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/the-burg-llc.jpg
 
 ---

@@ -133,5 +133,14 @@ order: 58
 category: connect
 uri: /connect/the-now-institute-ucla/
 year: 2016
+projects:
+  - uri: /connect/the-now-institute-ucla/
+    category: connect
+    title: Sustainable LA 2050 GIS Portal
+    project_description: >-
+      A web interface that connects researchers, policymakers, and citizens by
+      testing and visualizing scenarios for a sustainable LA by 2050.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 
 ---

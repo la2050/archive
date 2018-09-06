@@ -129,5 +129,15 @@ order: 11
 category: play
 uri: /play/friends-of-king/
 year: 2016
+projects:
+  - uri: /play/friends-of-king/
+    category: play
+    title: LA Plays at King
+    project_description: >-
+      Our proposal is to upgrade Thomas Starr King Middle School’s field,
+      auditorium, production studio and outdoor amphitheater into a
+      fully-functional community play space.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 
 ---

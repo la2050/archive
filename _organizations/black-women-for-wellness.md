@@ -135,5 +135,15 @@ uri: /live/black-women-for-wellness/
 order: 27
 project_image: black-women-for-wellness.jpg
 year: 2018
+projects:
+  - uri: /live/black-women-for-wellness/
+    category: live
+    title: ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
+    project_description: >-
+      A multimedia “Zombie Apocalypse” campaign to raise awareness and advance
+      meaningful systemic change about the impact of climate justice on
+      communities of color.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 
 ---

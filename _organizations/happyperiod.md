@@ -106,5 +106,14 @@ uri: /live/happyperiod/
 order: 26
 project_image: happyperiod.jpg
 year: 2018
+projects:
+  - uri: /live/happyperiod/
+    category: live
+    title: Normalize Periods by Giving Back!
+    project_description: >-
+      An art installation of the words PERIODS and #HAPPYPERIOD in numerous
+      locations within L.A county made for the public to donate menstrual
+      products for a homeless passer-by to freely take.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
 
 ---

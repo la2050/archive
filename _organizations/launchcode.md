@@ -77,5 +77,12 @@ order: 23
 category: live
 uri: /live/launchcode/
 year: 2016
+projects:
+  - uri: /live/launchcode/
+    category: live
+    title: Get Los Angeles Back to Work!
+    project_description: Get Los Angeles Back to Work!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6757074165741-team91.jpg
 
 ---

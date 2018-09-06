@@ -120,5 +120,15 @@ order: 12
 category: play
 uri: /play/clockshop-california-state-parks/
 year: 2016
+projects:
+  - uri: /play/clockshop-california-state-parks/
+    category: play
+    title: Laying the Groundwork for a Park on the LA River
+    project_description: >-
+      The Bowtie Project promotes the development of LA’s newest state park by
+      bringing artist projects, performances, and community events to a plot of
+      undeveloped land on the LA River.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 
 ---

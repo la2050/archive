@@ -150,5 +150,13 @@ uri: /learn/data-360/
 order: 0
 project_image: data-360.jpg
 year: 2018
+projects:
+  - uri: /learn/data-360/
+    category: learn
+    title: Activating Tech Talent in LA
+    project_description: >-
+      DataU is helping Los Angelenos get the tech skills they need to get high
+      paying jobs!
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/data-360.jpg'
 
 ---

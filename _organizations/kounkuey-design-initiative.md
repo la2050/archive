@@ -212,5 +212,15 @@ uri: /play/kounkuey-design-initiative/
 order: 2
 project_image: kounkuey-design-initiative.jpg
 year: 2018
+projects:
+  - uri: /play/kounkuey-design-initiative/
+    category: play
+    title: 'Play YOUR way, LA!'
+    project_description: >-
+      Through a virtual game of tag called #PlayYourWayLA and a rip-roaring
+      Park-in-a-Box for all ages, Angelenos will work together to identify
+      overlooked spaces and transform them into playful places!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/kounkuey-design-initiative.jpg
 
 ---

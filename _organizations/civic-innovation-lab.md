@@ -119,5 +119,17 @@ uri: /create/civic-innovation-lab/
 order: 1
 project_image: civic-innovation-lab.jpg
 year: 2018
+projects:
+  - uri: /create/civic-innovation-lab/
+    category: create
+    title: >-
+      Bridging social enterprise, technology, and local government to accelerate
+      civic innovators.
+    project_description: >-
+      Civic Innovation Lab facilitates cross-sector collaboration and the
+      creation of civic solutions through design challenges, structured
+      programming, and networking with public & private sector experts.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/civic-innovation-lab.jpg
 
 ---

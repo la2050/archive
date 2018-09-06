@@ -70,5 +70,15 @@ order: 22
 category: create
 uri: /create/safe-refuge/
 year: 2016
+projects:
+  - uri: /create/safe-refuge/
+    category: create
+    title: Expanding Economic Empowerment at Safe Refuge
+    project_description: >-
+      Safe Refuge seeks to expand our Employment Services program to include
+      online GED prep, online training opportunities, and computer literacy
+      education for low-income and other vulnerable communities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
 
 ---

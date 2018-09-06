@@ -134,5 +134,15 @@ order: 39
 category: connect
 uri: /connect/the-burg/
 year: 2016
+projects:
+  - uri: /connect/the-burg/
+    category: connect
+    title: 'Local civic engagement is hard. Let’s make it easier.  '
+    project_description: >-
+      The Burg is an innovative digital public square that connects communities
+      and gives los angeles residents the tools to address local issues and
+      #buildbettercities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
 
 ---

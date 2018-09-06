@@ -72,5 +72,17 @@ order: 41
 category: connect
 uri: /connect/lucie-foundation/
 year: 2016
+projects:
+  - uri: /connect/lucie-foundation/
+    category: connect
+    title: >-
+      Month of Photography Los Angeles: Creating a destination photo festival to
+      connect, engage + inspire
+    project_description: >-
+      Month of Photography Los Angeles' two-fold mission is to advance dynamic
+      programming designed to engage and stimulate the photography and creative
+      community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
 
 ---

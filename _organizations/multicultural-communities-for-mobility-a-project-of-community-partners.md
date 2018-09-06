@@ -134,5 +134,16 @@ uri: >-
 order: 37
 project_image: multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 year: 2018
+projects:
+  - uri: >-
+      /connect/multicultural-communities-for-mobility-a-project-of-community-partners/
+    category: connect
+    title: Root down! Rise up!
+    project_description: >-
+      “Root down! Rise up!” uses popular education and arts activation to build
+      community resilience towards a future where there is no loss of life from
+      traffic collisions, state violence, or displacement.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 
 ---

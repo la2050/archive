@@ -133,5 +133,17 @@ order: 63
 category: connect
 uri: /connect/friends-of-the-family/
 year: 2016
+projects:
+  - uri: /connect/friends-of-the-family/
+    category: connect
+    title: >-
+      The Man2Man Project: Preventing boys from becoming dads too early and
+      helping teen dads to step up!
+    project_description: >-
+      The Man2Man Project will connect multiple generations of men and boys for
+      the dual purpose of helping young dads to become great fathers and
+      preventing at-risk boys from becoming fathers too soon.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
 
 ---

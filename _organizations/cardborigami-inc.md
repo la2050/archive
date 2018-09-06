@@ -141,5 +141,17 @@ uri: /live/cardborigami-inc/
 order: 28
 project_image: cardborigami-inc.jpg
 year: 2018
+projects:
+  - uri: /live/cardborigami-inc/
+    category: live
+    title: >-
+      Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless
+      neighbors with dignity first
+    project_description: >-
+      We will deploy architecturally designed, low-impact shelters made of
+      treated cardboard at managed sites around LA nightly to transform
+      conceptions of what emergency homeless shelter can be.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 
 ---

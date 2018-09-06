@@ -129,5 +129,15 @@ order: 8
 category: learn
 uri: /learn/camino-nuevo-charter-academy/
 year: 2016
+projects:
+  - uri: /learn/camino-nuevo-charter-academy/
+    category: learn
+    title: 'Camino to College: Paving the Way To and Through College for Urban Youth'
+    project_description: >-
+      Camino Nuevo Charter Academy will expand upon Camino to College, our
+      existing college access and alumni support program. The focus of the
+      program is getting more students to and through college.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 
 ---

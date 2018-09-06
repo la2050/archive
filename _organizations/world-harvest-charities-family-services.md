@@ -120,5 +120,16 @@ uri: /live/world-harvest-charities-family-services/
 order: 40
 project_image: world-harvest-charities-family-services.jpg
 year: 2018
+projects:
+  - uri: /live/world-harvest-charities-family-services/
+    category: live
+    title: >-
+      World Harvest Dream Village: Affordable Housing with Food, Jobs,
+      Healthcare, and Community.
+    project_description: >-
+      It’s the dream we all dream of: A village in the city where you can live,
+      work, eat, learn, play, heal, connect, and create.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 
 ---

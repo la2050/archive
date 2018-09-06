@@ -131,5 +131,17 @@ order: 40
 category: learn
 uri: /learn/las-best/
 year: 2016
+projects:
+  - uri: /learn/las-best/
+    category: learn
+    title: >-
+      LA’s BEST & AARP Foundation Experience Corps: Brighter Futures via Reading
+      Proficiency by 3rd Grade
+    project_description: >-
+      AARP Foundation Experience Corps volunteers will use evidence-based
+      curriculum to tutor struggling readers attending LA's BEST after school
+      program so they achieve reading proficiency by 3rd grade.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
 
 ---

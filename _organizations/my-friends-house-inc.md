@@ -78,5 +78,15 @@ uri: /live/my-friends-house-inc/
 order: 18
 project_image: my-friends-house-inc.jpg
 year: 2018
+projects:
+  - uri: /live/my-friends-house-inc/
+    category: live
+    title: Healthy Food and Healthy Lives in South Los Angeles
+    project_description: >-
+      Increase the amount of fresh healthy food that is distributed to families
+      in South Los Angeles by involving more Angelenos in the donation,
+      collection, and growth of the food.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 
 ---

@@ -154,5 +154,15 @@ order: 7
 category: learn
 uri: /learn/build/
 year: 2016
+projects:
+  - uri: /learn/build/
+    category: learn
+    title: 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
+    project_description: >-
+      BUILD engages high school students who are at risk of not graduating by
+      teaching them how to create and launch their own small businesses, with
+      the goals of college enrollment and career success.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
 
 ---

@@ -134,5 +134,14 @@ order: 34
 category: learn
 uri: /learn/girls-inc-of-greater-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/girls-inc-of-greater-los-angeles/
+    category: learn
+    title: Girls in STEM Club Network
+    project_description: >-
+      Inspire all girls to be Strong, Smart, and Bold through innovative STEM
+      experiences
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
 
 ---

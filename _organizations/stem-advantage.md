@@ -152,5 +152,15 @@ order: 58
 category: learn
 uri: /learn/stem-advantage/
 year: 2016
+projects:
+  - uri: /learn/stem-advantage/
+    category: learn
+    title: 'STEM Advantage: Today''s students, tomorrow''s innovators!'
+    project_description: >-
+      STEM Advantage mentors, prepares and inspires young women and underserved
+      communities to pursue careers in science, technology, engineering and math
+      through paid internships, mentors and scholarships.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 
 ---

@@ -123,5 +123,17 @@ category: live
 uri: /live/lift-inc-/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /live/lift-inc-/
+    category: live
+    title: >-
+      Bridging Gaps: LIFT-Los Angeles and One Degree’s Partnership to Expand
+      Networks and Improve Lives
+    project_description: >-
+      LIFT-Los Angeles and One Degree, two nonprofits dedicated to breaking the
+      cycle of poverty, are leveraging technology to put wraparound supports
+      directly in the hands of families.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
 
 ---

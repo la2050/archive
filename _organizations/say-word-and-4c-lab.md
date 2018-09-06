@@ -145,5 +145,17 @@ order: 47
 category: learn
 uri: /learn/say-word-and-4c-lab/
 year: 2016
+projects:
+  - uri: /learn/say-word-and-4c-lab/
+    category: learn
+    title: >-
+      MERGE: LA youth collaborating through spoken word & dance to build
+      empathy, literacy and confidence.
+    project_description: >-
+      Together, Say Word and 4C LAB empower underserved youth to merge spoken
+      word & dance to share original stories of identity, empathy & equality
+      while sparking dialogue across diverse communities in LA.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
 
 ---

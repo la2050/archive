@@ -138,5 +138,16 @@ order: 42
 category: connect
 uri: /connect/l-a-works/
 year: 2016
+projects:
+  - uri: /connect/l-a-works/
+    category: connect
+    title: >-
+      MusicWorks: connecting music-industry pros to underserved kids for social
+      transformation
+    project_description: >-
+      MusicWorks mobilizes music industry professionals to volunteer with
+      after-school music programs as a tool for social transformation.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 
 ---

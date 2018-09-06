@@ -136,5 +136,14 @@ order: 13
 category: live
 uri: /live/a-sense-of-home/
 year: 2016
+projects:
+  - uri: /live/a-sense-of-home/
+    category: live
+    title: 'Creating a home is a bridge to creating community '
+    project_description: >-
+      A holistic approach to transform the lives of at-risk foster youth who
+      “age out” of the system by creating their first ever homes
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
 
 ---

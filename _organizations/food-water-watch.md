@@ -96,5 +96,15 @@ order: 62
 category: live
 uri: /live/food-water-watch/
 year: 2016
+projects:
+  - uri: /live/food-water-watch/
+    category: live
+    title: Turning Los Angeles into a Renewable Energy Leader
+    project_description: >-
+      It’s time for L.A. be a global leader and make the transition to 100%
+      clean, renewable energy by 2030 - we will build political power in
+      communities across L.A. to make this transition a reality.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 
 ---

@@ -54,5 +54,15 @@ order: 46
 category: create
 uri: /create/county-of-los-angeles-public-library/
 year: 2016
+projects:
+  - uri: /create/county-of-los-angeles-public-library/
+    category: create
+    title: Tell Your True Tale Writer's Workshop
+    project_description: >-
+      Tell Your True Tale writing workshops help empower novice authors from
+      diverse communities to write true life stories, publish their work and
+      connect with fellow authors.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7316447986741-team91.JPG
 
 ---

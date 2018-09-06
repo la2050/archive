@@ -115,5 +115,15 @@ order: 10
 category: live
 uri: /live/planned-parenthood-los-angeles-ppla/
 year: 2016
+projects:
+  - uri: /live/planned-parenthood-los-angeles-ppla/
+    category: live
+    title: Community-Based Comprehensive Sex Education
+    project_description: >-
+      PPLA’s community-based sex education programs empower youth, women, and
+      men across Los Angeles to make informed choices about their bodies, their
+      relationships, their health, and their futures.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
 
 ---

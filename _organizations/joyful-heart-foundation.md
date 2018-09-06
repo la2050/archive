@@ -116,5 +116,15 @@ order: 34
 category: live
 uri: /live/joyful-heart-foundation/
 year: 2016
+projects:
+  - uri: /live/joyful-heart-foundation/
+    category: live
+    title: Joyful Heart Foundation’s Survivor Retreat Model
+    project_description: >-
+      Joyful Heart's Survivor Retreat Model offers LA's survivors of sexual
+      assault, domestic violence, and child abuse, and the professionals who
+      serve them, a new holistic pathway to healing from trauma.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 
 ---

@@ -156,5 +156,13 @@ uri: /live/caleitc4me/
 order: 16
 project_image: caleitc4me.jpg
 year: 2018
+projects:
+  - uri: /live/caleitc4me/
+    category: live
+    title: Financial Security for Low-Income Angelenos
+    project_description: >-
+      Improving the lives of working Californians by creating financial security
+      through a program of research, analysis, public information and education.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
 
 ---

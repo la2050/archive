@@ -185,5 +185,17 @@ order: 28
 category: live
 uri: /live/theodore-payne-foundation-for-wild-flower-and-native-plants/
 year: 2016
+projects:
+  - uri: /live/theodore-payne-foundation-for-wild-flower-and-native-plants/
+    category: live
+    title: >-
+      Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
+      Public Housing 
+    project_description: >-
+      Grow Local: Plant Native! Theodore Payne Foundation, LA Housing Authority
+      and Boys & Girls Clubs of the LA Harbor partner to reshape LA for a
+      sustainable future, lush with native plants for all.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 
 ---

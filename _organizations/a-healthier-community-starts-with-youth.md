@@ -118,5 +118,17 @@ uri: /live/a-healthier-community-starts-with-youth/
 order: 4
 project_image: a-healthier-community-starts-with-youth.jpg
 year: 2018
+projects:
+  - uri: /live/a-healthier-community-starts-with-youth/
+    category: live
+    title: >-
+      A youth-led public health program involving health professionals,
+      students, & our communities.
+    project_description: >-
+      Promoting a culture of healthy practices in even the most under-resourced
+      communities via physician referred nutrition and fitness community health
+      programming, led by local students.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 
 ---

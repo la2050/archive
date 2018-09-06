@@ -121,5 +121,12 @@ order: 33
 category: connect
 uri: /connect/habidatum/
 year: 2016
+projects:
+  - uri: /connect/habidatum/
+    category: connect
+    title: 'LA: Easy Access'
+    project_description: Open data-driven analysis of public transport accessibility in space-time
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 
 ---

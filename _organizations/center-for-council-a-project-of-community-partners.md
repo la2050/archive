@@ -136,5 +136,15 @@ uri: /connect/center-for-council-a-project-of-community-partners/
 order: 10
 project_image: center-for-council-a-project-of-community-partners.jpg
 year: 2018
+projects:
+  - uri: /connect/center-for-council-a-project-of-community-partners/
+    category: connect
+    title: Connection through Council
+    project_description: >-
+      To amplify the impact of the LA2050 Activation Challenge and foster deeper
+      compassion amongst Angelenos, Center for Council will train ten of the
+      finalist organizations in the practice of Council.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/center-for-council-a-project-of-community-partners.jpg
 
 ---

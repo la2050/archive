@@ -127,5 +127,15 @@ uri: /learn/proyecto-jardin-a-project-of-hunger-action-la/
 order: 6
 project_image: proyecto-jardin-a-project-of-hunger-action-la.jpg
 year: 2018
+projects:
+  - uri: /learn/proyecto-jardin-a-project-of-hunger-action-la/
+    category: learn
+    title: Healing City Soils and Sowing Seeds for Tomorrow
+    project_description: >-
+      We are activating the regenerative power of our earth mother to heal
+      broken hearts, restore city soils, and feed mind, body and spirit through
+      meaningful education, soulful work, and radical hope.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 
 ---

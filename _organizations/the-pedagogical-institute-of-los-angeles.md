@@ -119,5 +119,17 @@ order: 10
 category: learn
 uri: /learn/the-pedagogical-institute-of-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/the-pedagogical-institute-of-los-angeles/
+    category: learn
+    title: >-
+      Collaborative Teacher Project: igniting curiosity through innovative
+      classrooms & teacher mentoring
+    project_description: >-
+      The Collaborative Teacher Project provides on-site teacher mentoring and
+      innovative classroom design to support early childhood educators working
+      in underserved public schools.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 
 ---

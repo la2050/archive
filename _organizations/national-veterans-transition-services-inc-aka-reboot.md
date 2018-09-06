@@ -136,5 +136,15 @@ uri: /live/national-veterans-transition-services-inc-aka-reboot/
 order: 9
 project_image: national-veterans-transition-services-inc-aka-reboot.jpg
 year: 2018
+projects:
+  - uri: /live/national-veterans-transition-services-inc-aka-reboot/
+    category: live
+    title: Carry Forward
+    project_description: >-
+      Carrying forward is helping those who are in need of housing, workforce
+      training, and other services; we collaborate to mobilize help for veterans
+      and other Angelenos.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
 
 ---

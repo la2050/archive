@@ -131,5 +131,15 @@ order: 19
 category: connect
 uri: /connect/people-for-the-american-way-foundation/
 year: 2016
+projects:
+  - uri: /connect/people-for-the-american-way-foundation/
+    category: connect
+    title: Front Line Leaders Academy – Los Angeles
+    project_description: >-
+      FLLA provides values-based training to young people seeking social change
+      with a vision to create a system of truly representative government that
+      gives voice for youth and marginalized communities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 
 ---

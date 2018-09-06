@@ -149,5 +149,14 @@ order: 12
 category: live
 uri: /live/breastfeedla/
 year: 2016
+projects:
+  - uri: /live/breastfeedla/
+    category: live
+    title: Creating a First Food Friendly South Los Angeles
+    project_description: >-
+      Increasing food security in South Los Angeles by supporting breastfeeding
+      in the community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
 
 ---

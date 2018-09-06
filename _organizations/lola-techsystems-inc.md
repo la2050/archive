@@ -137,5 +137,15 @@ uri: /learn/lola-techsystems-inc/
 order: 9
 project_image: lola-techsystems-inc.jpg
 year: 2018
+projects:
+  - uri: /learn/lola-techsystems-inc/
+    category: learn
+    title: Lola software makes learning possible.
+    project_description: >-
+      Lola software helps students with learning differences access rigorous
+      curriculum and stay focused by: breaking routines into manageable tasks,
+      providing visual timers and enabling a messaging system.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/lola-techsystems-inc.jpg
 
 ---

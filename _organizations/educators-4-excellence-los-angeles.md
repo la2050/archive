@@ -142,5 +142,14 @@ order: 71
 category: learn
 uri: /learn/educators-4-excellence-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/educators-4-excellence-los-angeles/
+    category: learn
+    title: 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+    project_description: >-
+      Teachers at E4E-LA are designing the policy vision and solutions that will
+      propel more of our students to  colleges and careers.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 
 ---

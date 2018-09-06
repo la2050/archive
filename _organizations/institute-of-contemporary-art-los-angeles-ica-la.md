@@ -142,5 +142,15 @@ category: create
 uri: /create/institute-of-contemporary-art-los-angeles-ica-la/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /create/institute-of-contemporary-art-los-angeles-ica-la/
+    category: create
+    title: Agency of Assets
+    project_description: >-
+      ICA LA creates exhibitions, education programs, and community partnerships
+      that spark the pleasure of discovery and challenge the way we see and
+      experience the world, ourselves, and each other.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
 
 ---

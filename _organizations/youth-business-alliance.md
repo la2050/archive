@@ -148,5 +148,14 @@ order: 26
 category: learn
 uri: /learn/youth-business-alliance/
 year: 2016
+projects:
+  - uri: /learn/youth-business-alliance/
+    category: learn
+    title: Empower low income youth to break out of the poverty cycle!
+    project_description: >-
+      Connect at risk and disadvantaged youth to life skills, local
+      professionals, and businesses.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 
 ---

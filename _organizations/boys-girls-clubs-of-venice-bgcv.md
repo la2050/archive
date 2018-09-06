@@ -113,5 +113,14 @@ uri: /connect/boys-girls-clubs-of-venice-bgcv/
 order: 2
 project_image: boys-girls-clubs-of-venice-bgcv.jpg
 year: 2018
+projects:
+  - uri: /connect/boys-girls-clubs-of-venice-bgcv/
+    category: connect
+    title: 'ANGELENOS: Bridging Generations Connecting Values (BGCV)'
+    project_description: >-
+      BGCV enables all people to reach their full potential as productive,
+      caring, responsible citizens Bridging Generations Connecting Values.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 
 ---

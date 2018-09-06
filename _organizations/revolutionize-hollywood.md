@@ -150,5 +150,17 @@ uri: /create/revolutionize-hollywood/
 order: 13
 project_image: revolutionize-hollywood.jpg
 year: 2018
+projects:
+  - uri: /create/revolutionize-hollywood/
+    category: create
+    title: >-
+      Revolutionize Hollywood Presents: The ArTrepreneur software a digital
+      Market Place for creatives.
+    project_description: >-
+      We help artists approach their career with an entrepreneur mindset, we
+      host events and have created an online market place so that artist gain
+      visibility, make money and sustain longevity.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/revolutionize-hollywood.jpg
 
 ---

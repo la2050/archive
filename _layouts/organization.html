@@ -278,18 +278,35 @@ figure {
 
 <h2 style="margin-bottom: 1.875em; color: var(--primary-color); text-transform: uppercase; text-align: center; max-width: none;">Ideas</h2>
 
-<hr style="margin-bottom: 3em; opacity: 0;" />
+<hr style="margin-bottom: 1.5em; opacity: 0;" />
 
-<ul style="list-style: none; margin-left: 0; padding-left: 0; text-align: center; max-width: none;">
-  <li style="list-style: none; margin-left: 0; padding-left: 0;  max-width: 500px; margin-left: auto; margin-right: auto;">
-    <a href="{{ page.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
-      {% if page.plan_id %}
-      <div><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt=""
-              width="540" height="428" /></div>
-      {% else %}
-      <div><img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt=""
-              width="500" /></div>
-      {% endif %}
+
+
+
+<ul style="list-style: none; margin-left: 0; padding-left: 0; text-align: center; max-width: none;
+display: flex; flex-wrap: wrap; justify-content: center;
+">
+  {% for project in page.projects %}
+
+  {% case project.category %}
+    {% when 'learn' %}
+       {% assign primary_color = "blueberry" %}
+    {% when 'create' %}
+       {% assign primary_color = "banana" %}
+    {% when 'play' %}
+       {% assign primary_color = "strawberry" %}
+    {% when 'connect' %}
+       {% assign primary_color = "tangerine" %}
+    {% when 'live' %}
+       {% assign primary_color = "lime" %}
+    {% else %}
+       {% assign primary_color = "strawberry" %}
+  {% endcase %}
+
+  <li class="{{ primary_color }}" style="list-style: none; margin-left: 0; padding: 1.5em;  max-width: 500px;">
+    <a href="{{ project.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
+      <div><img src="{{ project.project_image }}" alt="" width="500" style="max-width: 500px; height: 400px;
+object-fit: cover;" /></div>
 
       <h3 style="color: var(--primary-color); text-decoration: underline;  
 line-height: 1.3125;
@@ -297,10 +314,11 @@ font-size: inherit;
 line-height: inherit;
 font-weight: bold;
 margin-top: 0.375em;
-margin-bottom: 0.375em;">{{ page.title }}</h3>
-      <p style="margin: 0">{{ page.project_description }}</p>
+margin-bottom: 0.375em;">{{ project.title }}</h3>
+      <p style="margin: 0">{{ project.project_description }}</p>
     </a>
   </li>
+  {% endfor %}
 </ul>
 
 

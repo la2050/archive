@@ -131,5 +131,17 @@ order: 60
 category: live
 uri: /live/groceryships-and-netiya/
 year: 2016
+projects:
+  - uri: /live/groceryships-and-netiya/
+    category: live
+    title: >-
+      The Trellis Project: Growing health through gardening, nutritional
+      support, and food access
+    project_description: >-
+      Combining nutrition education and communal gardening to provide good food,
+      a supportive community and water-wise, food productive landscapes at
+      churches in underserved LA communities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 
 ---

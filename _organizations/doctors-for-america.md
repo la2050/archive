@@ -162,5 +162,17 @@ order: 19
 category: live
 uri: /live/doctors-for-america/
 year: 2016
+projects:
+  - uri: /live/doctors-for-america/
+    category: live
+    title: >-
+      Food As Health Care: A Project to Engage Doctors in Providing Reliable
+      Access to Healthy Food
+    project_description: >-
+      We will leverage health care providers embedded in our community to help
+      identify those who do not have reliable access to healthy food, educate
+      the community, and connect people with food resources.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
 
 ---

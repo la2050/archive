@@ -112,5 +112,17 @@ order: 5
 category: create
 uri: /create/arts-for-incarcerated-youth-network/
 year: 2016
+projects:
+  - uri: /create/arts-for-incarcerated-youth-network/
+    category: create
+    title: >-
+      Arts for Incarcerated Youth Network: using arts to build #camptocareer
+      pipeline for youth
+    project_description: >-
+      AIYN will provide ongoing multi-disciplinary arts in 16 youth detention
+      sites in order to transform young people, the systems that serve them, and
+      connect them to the creative economy in Los Angeles
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 
 ---

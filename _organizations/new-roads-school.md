@@ -140,5 +140,17 @@ order: 66
 category: connect
 uri: /connect/new-roads-school/
 year: 2016
+projects:
+  - uri: /connect/new-roads-school/
+    category: connect
+    title: >-
+      UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for
+      our collective future
+    project_description: >-
+      We hope to empower our youth and our community with tools to execute
+      impact storytelling and campaigns that effectively message social issues
+      and inspired community action plans to solve them.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
 
 ---

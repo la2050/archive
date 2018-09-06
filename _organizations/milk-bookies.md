@@ -100,5 +100,15 @@ order: 41
 category: learn
 uri: /learn/milk-bookies/
 year: 2016
+projects:
+  - uri: /learn/milk-bookies/
+    category: learn
+    title: 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+    project_description: >-
+      Leaders+Readers is addressing educational disparities by flooding books
+      into the Lynwood Unified School District & introducing students to books
+      that will become their gateway into stronger literacy.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 
 ---

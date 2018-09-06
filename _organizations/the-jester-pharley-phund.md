@@ -140,5 +140,15 @@ order: 53
 category: learn
 uri: /learn/the-jester-pharley-phund/
 year: 2016
+projects:
+  - uri: /learn/the-jester-pharley-phund/
+    category: learn
+    title: 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
+    project_description: >-
+      We will ignite a love for reading while developing compassion among
+      low-income  elementary students who will join a read-a-thon to give ill
+      kids in their community uplifting “Jester” books & dolls.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 
 ---

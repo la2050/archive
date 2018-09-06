@@ -109,5 +109,14 @@ uri: /play/everwild/
 order: 1
 project_image: everwild.jpg
 year: 2018
+projects:
+  - uri: /play/everwild/
+    category: play
+    title: EverWild - Connect with Nature the EverWild Way
+    project_description: >-
+      Get to know LA in a whole new way! Explore local nature through hands-on
+      learning, child-led exploration, and foster environmental stewardship with
+      the entire family!
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/everwild.jpg'
 
 ---

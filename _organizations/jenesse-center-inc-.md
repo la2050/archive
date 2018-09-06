@@ -89,5 +89,15 @@ order: 28
 category: connect
 uri: /connect/jenesse-center-inc-/
 year: 2016
+projects:
+  - uri: /connect/jenesse-center-inc-/
+    category: connect
+    title: 'Jeneration J: A New Generation of Healthy Relationships'
+    project_description: >-
+      Jeneration J is a platform for today’s youth to discuss domestic violence
+      prevention and intervention strategies to create advocates for future
+      generations.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 
 ---

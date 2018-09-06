@@ -100,5 +100,15 @@ order: 67
 category: connect
 uri: /connect/imagine-la/
 year: 2016
+projects:
+  - uri: /connect/imagine-la/
+    category: connect
+    title: Volunteer and be a Part of the Solution to Family Homelessness
+    project_description: >-
+      Imagine LA recruits and trains volunteers across LA County to mentor
+      formerly homeless families to break their cycle of poverty and to
+      ultimately thrive.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
 
 ---

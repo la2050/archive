@@ -115,5 +115,17 @@ uri: /learn/center-for-innovation-in-stem-education-cise/
 order: 11
 project_image: center-for-innovation-in-stem-education-cise.jpg
 year: 2018
+projects:
+  - uri: /learn/center-for-innovation-in-stem-education-cise/
+    category: learn
+    title: >-
+      Next Generation Science Standards: Empowering Teachers to Empower Students
+      for the Future of STEM
+    project_description: >-
+      We empower teachers to prepare and inspire students for the future of STEM
+      through dynamic training and mentoring on the state adopted, industry
+      recognized Next Generation Science Standards.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/center-for-innovation-in-stem-education-cise.jpg
 
 ---

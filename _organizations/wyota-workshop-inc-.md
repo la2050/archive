@@ -135,5 +135,14 @@ order: 29
 category: learn
 uri: /learn/wyota-workshop-inc-/
 year: 2016
+projects:
+  - uri: /learn/wyota-workshop-inc-/
+    category: learn
+    title: Enhancing the schoolyard to promote outdoor learning
+    project_description: >-
+      Our objective is to enhance the existing schoolyard by making spaces more
+      conducive to outdoor learning.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 
 ---

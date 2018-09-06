@@ -101,5 +101,16 @@ order: 0
 project_image: >-
   hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 year: 2018
+projects:
+  - uri: >-
+      /live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
+    category: live
+    title: '#HashtagLunchbag Feeds LA'
+    project_description: >-
+      #HashtagLunchbag - through the power of social media and dedicated
+      volunteers - will bring hope and meals to over 50,000 Angelenos, affirming
+      that we can be the change we want to see in the world.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 
 ---

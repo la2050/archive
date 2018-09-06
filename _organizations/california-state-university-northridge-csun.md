@@ -105,5 +105,17 @@ order: 21
 category: learn
 uri: /learn/california-state-university-northridge-csun/
 year: 2016
+projects:
+  - uri: /learn/california-state-university-northridge-csun/
+    category: learn
+    title: >-
+      CSUN’s Recruiting Boot Camp helps students gain the skills they need to
+      get their careers started.
+    project_description: >-
+      California State University,Northridge wants to offer accounting students
+      from underserved communities the job skills they need to launch their
+      careers.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
 
 ---

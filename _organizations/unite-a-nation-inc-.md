@@ -156,5 +156,16 @@ order: 28
 category: learn
 uri: /learn/unite-a-nation-inc-/
 year: 2016
+projects:
+  - uri: /learn/unite-a-nation-inc-/
+    category: learn
+    title: >-
+      Ending generational cycles of poverty through urban youth and community
+      development programs 
+    project_description: >-
+      Building the Power and Brilliant Imaginations of youth through community
+      leadership and life skills enhancement
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 
 ---

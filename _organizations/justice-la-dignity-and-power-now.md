@@ -179,5 +179,17 @@ uri: /connect/justice-la-dignity-and-power-now/
 order: 20
 project_image: justice-la-dignity-and-power-now.jpg
 year: 2018
+projects:
+  - uri: /connect/justice-la-dignity-and-power-now/
+    category: connect
+    title: >-
+      Justice LA, along with FreeAmerica, are working to radically transform LA
+      County's justice system.
+    project_description: >-
+      Through public art exhibits, community town hall meetings and voter
+      registration activations, we will connect and empower Los Angeles
+      residents to build safer neighborhoods and end mass incarceration.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/justice-la-dignity-and-power-now.jpg
 
 ---

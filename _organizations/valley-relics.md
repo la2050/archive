@@ -115,5 +115,17 @@ order: 38
 category: connect
 uri: /connect/valley-relics/
 year: 2016
+projects:
+  - uri: /connect/valley-relics/
+    category: connect
+    title: >-
+      LIT is a community block party with curated lights and music featuring
+      local SFV talent
+    project_description: >-
+      LIT is a community block party with an interactive lighting and music
+      experience, created and curated by local students, artists and musicians
+      from the San Fernando Valley.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 
 ---

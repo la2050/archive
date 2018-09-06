@@ -133,5 +133,17 @@ uri: /create/make-it-in-la/
 order: 11
 project_image: make-it-in-la.jpg
 year: 2018
+projects:
+  - uri: /create/make-it-in-la/
+    category: create
+    title: >-
+      Maker Walk: Behind-the-scenes look at locally-made brands and factories
+      around LA
+    project_description: >-
+      We’re expanding Maker Walk around the city—and partnering with Artisanal
+      LA & LA Food Fest—to raise awareness for local brands and manufacturers,
+      and mobilize the creative community to MAKE IT IN LA!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/make-it-in-la.jpg
 
 ---

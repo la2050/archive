@@ -124,5 +124,17 @@ uri: /connect/larchmont-charter-school/
 order: 22
 project_image: larchmont-charter-school.jpg
 year: 2018
+projects:
+  - uri: /connect/larchmont-charter-school/
+    category: connect
+    title: >-
+      Larchmont Social Justice Alliance allows youth to speak up for social
+      justice with a literary voice.
+    project_description: >-
+      Larchmont Social Justice Alliance allows youth to speak up for social
+      justice through our poetry slam competition, Larchmont Charter School's
+      literary magazine, and a firestorm of social media.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/larchmont-charter-school.jpg
 
 ---

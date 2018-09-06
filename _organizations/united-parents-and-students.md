@@ -173,5 +173,17 @@ uri: /connect/united-parents-and-students/
 order: 44
 project_image: united-parents-and-students.jpg
 year: 2018
+projects:
+  - uri: /connect/united-parents-and-students/
+    category: connect
+    title: >-
+      United Parents and Students: Developing Cultures of Civic Engagement
+      Across Los Angeles
+    project_description: >-
+      United Parents and Students will activate 100,000 people across South LA,
+      East LA, Compton, and Inglewood to raise their voices regarding community
+      concerns and demand a rebalance of political power.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/united-parents-and-students.jpg
 
 ---

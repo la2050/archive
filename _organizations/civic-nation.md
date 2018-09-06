@@ -118,5 +118,16 @@ order: 68
 category: connect
 uri: /connect/civic-nation/
 year: 2016
+projects:
+  - uri: /connect/civic-nation/
+    category: connect
+    title: >-
+      #VoteTogether: Let's Use Music, Food, and Art to Make Voting a Moment of
+      Community Celebration
+    project_description: >-
+      Let's Use Music, Food, and Art to Make Voting a Moment of Community
+      Celebration
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
 
 ---

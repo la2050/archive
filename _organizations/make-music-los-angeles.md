@@ -124,5 +124,17 @@ order: 33
 category: create
 uri: /create/make-music-los-angeles/
 year: 2016
+projects:
+  - uri: /create/make-music-los-angeles/
+    category: create
+    title: >-
+      Playascape: Transforming LA into an artistic playground that inspires
+      innovation with public art
+    project_description: >-
+      Playascape will transform LA into an artistic playground that cultivates
+      the imagination through public art that creatively pushing boundaries and
+      inspires innovation.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 
 ---

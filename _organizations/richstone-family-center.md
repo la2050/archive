@@ -85,5 +85,15 @@ order: 32
 category: live
 uri: /live/richstone-family-center/
 year: 2016
+projects:
+  - uri: /live/richstone-family-center/
+    category: live
+    title: Integrated Healing & Wellness Center
+    project_description: >-
+      Provide healing and hope for victims of child abuse and family violence by
+      supporting Richstone's trauma-focused treatment, wellness, and violence
+      prevention program.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
 
 ---

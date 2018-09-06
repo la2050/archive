@@ -120,5 +120,17 @@ order: 6
 category: create
 uri: /create/l-a-theatre-works/
 year: 2016
+projects:
+  - uri: /create/l-a-theatre-works/
+    category: create
+    title: >-
+      Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+      Creativity
+    project_description: >-
+      LATW, the nation’s leading producer of audio theatre, seeks to expand the
+      reach of local productions across the globe and enable students to create
+      their own theatre-based educational apps.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
 
 ---

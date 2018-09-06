@@ -135,5 +135,15 @@ order: 72
 category: learn
 uri: /learn/teach-for-america-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/teach-for-america-los-angeles/
+    category: learn
+    title: Trauma-Informed Teaching Initiative; A Win For Teachers and Students
+    project_description: >-
+      Our Trauma-Informed Teaching Initiative promotes the mental wellness of
+      our teachers and students, enhances instructional effectiveness, and
+      motivates teachers to stay in education.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 
 ---

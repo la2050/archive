@@ -130,5 +130,17 @@ order: 48
 category: create
 uri: /create/think-tank-productions/
 year: 2016
+projects:
+  - uri: /create/think-tank-productions/
+    category: create
+    title: >-
+      Think Tank's Red Tape Removal Program – Untying the Bureaucratic Knots
+      from LA Art Production
+    project_description: >-
+      Our project will join creators with building owners, government agencies,
+      and various advisors to take big ideas and push them through the legal and
+      infrastructure challenges that restrict creativity.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9859494345741-team91.jpg
 
 ---

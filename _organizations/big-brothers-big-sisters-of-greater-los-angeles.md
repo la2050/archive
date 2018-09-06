@@ -109,5 +109,15 @@ uri: /learn/big-brothers-big-sisters-of-greater-los-angeles/
 order: 10
 project_image: big-brothers-big-sisters-of-greater-los-angeles.jpg
 year: 2018
+projects:
+  - uri: /learn/big-brothers-big-sisters-of-greater-los-angeles/
+    category: learn
+    title: Mentoring College Success with Big Brothers Big Sisters of Greater LA
+    project_description: >-
+      Big Brothers Big Sisters of LA’s College P.A.C. Program (Preparation,
+      Access, Completion) provides underserved youth with mentoring support to
+      finish high school, graduate college, and start careers.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 
 ---

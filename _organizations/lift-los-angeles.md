@@ -134,5 +134,17 @@ uri: /live/lift-los-angeles/
 order: 20
 project_image: lift-los-angeles.jpg
 year: 2018
+projects:
+  - uri: /live/lift-los-angeles/
+    category: live
+    title: >-
+      Invest in Parents & Connect Families Across Socioeconomic Barriers to
+      Break the Cycle of Poverty
+    project_description: >-
+      LIFT-LA will transform the lives of 4,000 community members and influence
+      100,000 Angelenos to break the cycle of intergenerational poverty for
+      parents and children.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 
 ---

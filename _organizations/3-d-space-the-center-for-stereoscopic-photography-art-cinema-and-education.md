@@ -141,5 +141,16 @@ uri: >-
 is_winner: true
 is_finalist: true
 year: 2016
+projects:
+  - uri: >-
+      /create/3-d-space-the-center-for-stereoscopic-photography-art-cinema-and-education/
+    category: create
+    title: ' 3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital Virtual Reality'
+    project_description: >-
+      3-D SPACE will implement public presentations, classes and workshops in
+      stereoscopic 3-D history and content creation, from 3-D photography and
+      filmmaking to immersive virtual reality.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 
 ---

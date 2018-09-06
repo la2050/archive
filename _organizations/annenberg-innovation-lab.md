@@ -128,5 +128,15 @@ order: 39
 category: create
 uri: /create/annenberg-innovation-lab/
 year: 2016
+projects:
+  - uri: /create/annenberg-innovation-lab/
+    category: create
+    title: Sankofa City
+    project_description: >-
+      Sankofa City will explore the nexus of emerging technology, art, and
+      community-based urban design, to provide visions for the future of local
+      innovation and cultural development in Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 
 ---

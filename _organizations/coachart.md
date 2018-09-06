@@ -118,5 +118,17 @@ order: 5
 category: connect
 uri: /connect/coachart/
 year: 2016
+projects:
+  - uri: /connect/coachart/
+    category: connect
+    title: >-
+      CoachArt Matching Platform: revolutionizing volunteerism in LA for those
+      in need through technology
+    project_description: >-
+      Through technology and innovation, the CoachArt Matching Platform will
+      revolutionize the process of matching potential volunteers with students
+      impacted by chronic illness, from a month to days.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 
 ---

@@ -144,5 +144,18 @@ category: create
 uri: >-
   /create/geena-davis-institute-on-gender-in-media-at-mount-saint-mary’s-university
 year: 2016
+projects:
+  - uri: >-
+      /create/geena-davis-institute-on-gender-in-media-at-mount-saint-mary’s-university
+    category: create
+    title: >-
+      If She Can See It, She Can Be It: Empowering Girls & Creating a
+      Gender-Balanced Media Landscape 
+    project_description: >-
+      The Geena Davis Institute will invite 50 young women to participate in its
+      See Jane Salons, fostering future female entertainment leaders and
+      empowering girls in LA around issues of gender in media.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 
 ---

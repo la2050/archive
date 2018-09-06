@@ -146,5 +146,17 @@ order: 61
 category: learn
 uri: /learn/the-academy-project/
 year: 2016
+projects:
+  - uri: /learn/the-academy-project/
+    category: learn
+    title: >-
+      Supporting LA's foster youth by creating a dependable community built on
+      trust and consistency.
+    project_description: >-
+      The Academy Project prepares LA foster youth to succeed in high school,
+      through an innovative summer camp & after school program, with a
+      guaranteed spot in a stable & supportive community
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 
 ---

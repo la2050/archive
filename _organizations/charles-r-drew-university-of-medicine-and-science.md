@@ -141,5 +141,17 @@ uri: /learn/charles-r-drew-university-of-medicine-and-science/
 order: 12
 project_image: charles-r-drew-university-of-medicine-and-science.jpg
 year: 2018
+projects:
+  - uri: /learn/charles-r-drew-university-of-medicine-and-science/
+    category: learn
+    title: >-
+      Saturday Science Academy II: Preparing the Next Generation of STEM &
+      Health Care Leaders
+    project_description: >-
+      Saturday Science Academy II prepares underrepresented preschool through
+      12th grade students for careers in Science and health care through an
+      engaging curriculum and hands-on STEM activities.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
 
 ---

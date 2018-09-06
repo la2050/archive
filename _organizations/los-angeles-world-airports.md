@@ -73,5 +73,12 @@ order: 45
 category: learn
 uri: /learn/los-angeles-world-airports/
 year: 2016
+projects:
+  - uri: /learn/los-angeles-world-airports/
+    category: learn
+    title: LOS ANGELES WORLD AIRPORTS INTRODUCES LA STUDENTS TO LIFES POSSIBILITIES.
+    project_description: Los Angeles World Airports - educational opportunities that pay!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 
 ---

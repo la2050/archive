@@ -114,5 +114,17 @@ uri: /live/mutuo/
 order: 3
 project_image: mutuo.jpg
 year: 2018
+projects:
+  - uri: /live/mutuo/
+    category: live
+    title: |-
+      A house for Tommy in my backyard! 
+       
+       If only LA knew the opportunity that lies in our backyards…
+    project_description: >-
+      There is no room for Tommy, the spaceman, and many more people in LA. But
+      in our backyards may lie a great opportunity to make an extra rental
+      income while increasing housing in LA. If only LA knew…
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
 
 ---

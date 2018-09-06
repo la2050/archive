@@ -70,5 +70,15 @@ order: 48
 category: live
 uri: /live/the-edible-apartment/
 year: 2016
+projects:
+  - uri: /live/the-edible-apartment/
+    category: live
+    title: Planting Gardens of Urban Delight!
+    project_description: >-
+      We convert apartment building lawns into community-style organic urban
+      farms; building community, a sustainable food source and beautifying the
+      neighborhood one project at a time!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
 
 ---

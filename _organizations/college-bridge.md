@@ -128,5 +128,15 @@ order: 32
 category: learn
 uri: /learn/college-bridge/
 year: 2016
+projects:
+  - uri: /learn/college-bridge/
+    category: learn
+    title: 'Future Focus: College and Career Pathways for LA County Students'
+    project_description: >-
+      The Future Focus program provides all students and families - regardless
+      of income – personalized support to transition from high school to college
+      and career.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 
 ---

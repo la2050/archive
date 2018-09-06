@@ -80,5 +80,17 @@ order: 61
 category: live
 uri: /live/capital-main/
 year: 2016
+projects:
+  - uri: /live/capital-main/
+    category: live
+    title: >-
+      To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
+      Change Makers
+    project_description: >-
+      Investigative news publication Capital & Main will tell the inspiring
+      stories of Angelenos who, against all odds, are making the American Dream
+      a reality for themselves and their communities
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
 
 ---

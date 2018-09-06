@@ -97,5 +97,13 @@ uri: /live/notow/
 order: 24
 project_image: notow.jpg
 year: 2018
+projects:
+  - uri: /live/notow/
+    category: live
+    title: Mobile application to make parking easier
+    project_description: >-
+      A mobile application to make sure you never get a parking ticket ever
+      again!
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
 
 ---

@@ -142,5 +142,17 @@ order: 42
 category: create
 uri: /create/produceathon/
 year: 2016
+projects:
+  - uri: /create/produceathon/
+    category: create
+    title: >-
+      #StoryTeching: Delivering civic innovation via storytelling & technology
+      based incentive challenges
+    project_description: >-
+      We mobilize local talent to create campaigns and tech-based solutions that
+      inspire civic engagement, address our greatest civic needs, and unite the
+      non-profit, private, & public sectors.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
 
 ---

@@ -131,5 +131,15 @@ uri: /connect/los-angeles-county-registrar-recorder-county-clerk/
 order: 45
 project_image: los-angeles-county-registrar-recorder-county-clerk.jpg
 year: 2018
+projects:
+  - uri: /connect/los-angeles-county-registrar-recorder-county-clerk/
+    category: connect
+    title: 'Voting Solutions for All People: Engaging Voters Through a Mock Election'
+    project_description: >-
+      As LA County prepares to revolutionize the voting experience, voters will
+      participate in a countywide mock election to interact with new voting
+      technologies and get excited about future elections.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
 
 ---

@@ -130,5 +130,17 @@ order: 48
 category: learn
 uri: /learn/pedagogics-coaching-group/
 year: 2016
+projects:
+  - uri: /learn/pedagogics-coaching-group/
+    category: learn
+    title: >-
+      MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+      Instruction and Practice
+    project_description: >-
+      A 10 month pilot includes: a 6 week individualized instructional coaching
+      program for 3 schools; a unique platform for educator community to refine
+      expertise; and empowering shift to mindful practice.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
 
 ---

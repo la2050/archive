@@ -111,5 +111,16 @@ order: 41
 project_image: >-
   undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
 year: 2018
+projects:
+  - uri: >-
+      /live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+    category: live
+    title: 'YouthCare: Low-cost inter-generational care for those with dementia'
+    project_description: >-
+      YouthCare is the most affordable intergenerational respite and memory care
+      program that partners trained college student volunteers and persons with
+      early-stage dementia in a community-based setting.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
 
 ---

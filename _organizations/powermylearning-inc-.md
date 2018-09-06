@@ -60,5 +60,15 @@ order: 43
 category: learn
 uri: /learn/powermylearning-inc-/
 year: 2016
+projects:
+  - uri: /learn/powermylearning-inc-/
+    category: learn
+    title: Los Angeles Family Playlist Program
+    project_description: >-
+      PowerMyLearning’s Los Angeles Family Playlist Program improves student
+      achievement in math by forging stronger home-school connections between
+      teachers, students, and families through online and mobil
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1786791705741-team89.JPG
 
 ---

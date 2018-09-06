@@ -120,5 +120,17 @@ order: 31
 category: live
 uri: /live/patrick-mccaffrey-foundation/
 year: 2016
+projects:
+  - uri: /live/patrick-mccaffrey-foundation/
+    category: live
+    title: >-
+      How we can use tiny houses to make a big impact on housing affordability
+      in Los Angeles! 
+    project_description: >-
+      The purpose of our project is to demonstrate a replicable method for
+      solving LA’s affordable housing crisis by encouraging tiny living as a
+      solution.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
 
 ---

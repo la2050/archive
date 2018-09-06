@@ -120,5 +120,15 @@ order: 18
 category: connect
 uri: /connect/childrens-action-network-can/
 year: 2016
+projects:
+  - uri: /connect/childrens-action-network-can/
+    category: connect
+    title: FosterMore-Because No Child Makes It Alone
+    project_description: >-
+      A non-profit coalition united on behalf of foster youth to increase
+      participation in foster parenting, mentoring and educational
+      opportunities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5007408255741-team91.png
 
 ---

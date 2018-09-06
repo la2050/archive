@@ -150,5 +150,15 @@ order: 9
 project_image: east-la-community-corporation-elacc.jpg
 link_limit: 4
 year: 2018
+projects:
+  - uri: /create/east-la-community-corporation-elacc/
+    category: create
+    title: 'LA Street Vendors: Building an Inclusive Economy for the Future City'
+    project_description: >-
+      We will activate Angelenos to engage in and build an inclusive economy
+      that support LA’s 50,000 street vendors, whose entrepreneurship
+      contributes to our neighborhood economies and cultural landscape.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/east-la-community-corporation-elacc.jpg
 
 ---

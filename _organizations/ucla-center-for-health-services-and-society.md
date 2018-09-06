@@ -127,5 +127,17 @@ uri: /live/ucla-center-for-health-services-and-society/
 order: 7
 project_image: ucla-center-for-health-services-and-society.jpg
 year: 2018
+projects:
+  - uri: /live/ucla-center-for-health-services-and-society/
+    category: live
+    title: >-
+      B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
+      Community for the Community
+    project_description: >-
+      B-RESILIENT is a interactive text-messaging/mobile app to support
+      resiliency and reduce the risk/impact of depressive symptoms in response
+      to multiple stressors in under-resourced communities in LA.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
 
 ---

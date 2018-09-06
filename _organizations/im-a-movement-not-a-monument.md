@@ -141,5 +141,15 @@ order: 31
 category: create
 uri: /create/im-a-movement-not-a-monument/
 year: 2016
+projects:
+  - uri: /create/im-a-movement-not-a-monument/
+    category: create
+    title: 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
+    project_description: >-
+      With your vote, we can help thousands receive quality 1-on-1 tutoring for
+      FREE. All lives matter, including students, and this program will help
+      enhance every student we encounter. Even yours!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 
 ---

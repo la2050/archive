@@ -89,5 +89,15 @@ order: 36
 category: create
 uri: /create/the-integrated-learning-annex/
 year: 2016
+projects:
+  - uri: /create/the-integrated-learning-annex/
+    category: create
+    title: Putting the human back into business.
+    project_description: >-
+      TiLA is a learning center devoted to personal, professional, and
+      organizational development with humanism, critical thinking, and empathy
+      baked into its mission.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
 
 ---

@@ -103,5 +103,17 @@ order: 17
 category: learn
 uri: /learn/everyoneon/
 year: 2016
+projects:
+  - uri: /learn/everyoneon/
+    category: learn
+    title: >-
+      Connect with Promise: Providing Internet Connectivity & Devices to
+      Families in Public Housing
+    project_description: >-
+      EveryoneOn, in collaboration with AT&T. will facilitate Internet
+      connectivity and devices for families living in public housing within Los
+      Angeles’ designated Promise Zones.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 
 ---

@@ -155,5 +155,17 @@ uri: /learn/mentoring-adolescents-for-personal-professional-success/
 order: 3
 project_image: mentoring-adolescents-for-personal-professional-success.jpg
 year: 2018
+projects:
+  - uri: /learn/mentoring-adolescents-for-personal-professional-success/
+    category: learn
+    title: >-
+      Educating & empowering high-school dropouts incarcerated youth+otherwise
+      disengaged 16-24yr humans.
+    project_description: >-
+      High School for Recording Arts (20 years) is teaming up with Mentoring
+      Adolescents for Personal & Professional Success (MAPPS), a choice-based
+      human development program leading youth to productivity
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 
 ---

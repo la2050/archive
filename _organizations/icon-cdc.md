@@ -120,5 +120,15 @@ order: 50
 category: create
 uri: /create/icon-cdc/
 year: 2016
+projects:
+  - uri: /create/icon-cdc/
+    category: create
+    title: Young creative entrepreneurs and small business internship program
+    project_description: >-
+      We provide a creative entrepreneur training program for youth and give
+      them practical experience by placing them with a struggling local small
+      business.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 
 ---

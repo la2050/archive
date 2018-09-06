@@ -163,5 +163,18 @@ category: connect
 uri: >-
   /connect/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/
 year: 2016
+projects:
+  - uri: >-
+      /connect/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/
+    category: connect
+    title: >-
+      The PLACE: building an infrastructure of support for emerging artists and
+      their mentors.
+    project_description: >-
+      DSTL Arts & The Partnership for Los Angeles' Creative Education will
+      nurture & support teaching artists & the emerging artists they mentor
+      through training & creative space for cultural production.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 
 ---

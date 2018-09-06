@@ -125,5 +125,12 @@ order: 24
 category: live
 uri: /live/friends-of-glenfeliz/
 year: 2016
+projects:
+  - uri: /live/friends-of-glenfeliz/
+    category: live
+    title: 'Glenfeliz: Helping LA Grow'
+    project_description: 'Glenfeliz: Helping LA Grow'
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 
 ---

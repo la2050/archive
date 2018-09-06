@@ -132,5 +132,15 @@ order: 41
 category: create
 uri: /create/cornerstone-theater-company/
 year: 2016
+projects:
+  - uri: /create/cornerstone-theater-company/
+    category: create
+    title: Shared Space for Community Engaged Creative Practice
+    project_description: >-
+      Cornerstone envisions a home that provides a shared space for Angelenos to
+      come together to create, collaborate and engage in dialogue acting as a
+      site for civic engagement and creative practice.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
 
 ---

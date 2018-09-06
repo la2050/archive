@@ -138,5 +138,15 @@ order: 27
 category: live
 uri: /live/the-river-project/
 year: 2016
+projects:
+  - uri: /live/the-river-project/
+    category: live
+    title: Green Our L.A. River!
+    project_description: >-
+      Recognizing the LA River can be beautiful only with community support, we
+      will restore the River Greenway’s vibrancy in Studio City, re-establish
+      bike and pedestrian access and improve public safety.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
 
 ---

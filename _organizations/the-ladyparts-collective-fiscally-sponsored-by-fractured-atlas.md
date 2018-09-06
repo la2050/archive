@@ -114,5 +114,17 @@ order: 17
 category: create
 uri: /create/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 year: 2016
+projects:
+  - uri: /create/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
+    category: create
+    title: >-
+      ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
+      CAMPUSES
+    project_description: >-
+      An all-female theater collective creates an original, interview-inspired
+      play that sparks change-activating dialogue about consent, rape culture
+      and sexual violence on Los Angeles College Campuses
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 
 ---

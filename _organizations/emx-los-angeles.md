@@ -147,5 +147,17 @@ order: 20
 category: create
 uri: /create/emx-los-angeles/
 year: 2016
+projects:
+  - uri: /create/emx-los-angeles/
+    category: create
+    title: >-
+      EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
+      through Electronic Music
+    project_description: >-
+      EMX will invest in developing the NoHo ArtWalk, educational classes for
+      kids/teens/adults, and developing new artists who will contribute to
+      community service through the EMA Play it FWD program.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 
 ---

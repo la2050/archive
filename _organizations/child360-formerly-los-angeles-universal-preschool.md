@@ -129,5 +129,15 @@ uri: /connect/child360-formerly-los-angeles-universal-preschool/
 order: 7
 project_image: child360-formerly-los-angeles-universal-preschool.jpg
 year: 2018
+projects:
+  - uri: /connect/child360-formerly-los-angeles-universal-preschool/
+    category: connect
+    title: 'Community: Where strong families are made'
+    project_description: >-
+      Through hands-on workshops and trainings, Child360 will empower parents
+      and community members to advocate on behalf of their families to realize
+      the changes they want to see in their community.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
 
 ---

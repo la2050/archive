@@ -110,5 +110,14 @@ order: 51
 category: live
 uri: /live/andesign-lab/
 year: 2016
+projects:
+  - uri: /live/andesign-lab/
+    category: live
+    title: Self-Sustaining Gardening Sensors
+    project_description: >-
+      Self-Sustained Gardening Sensors Will Change Life Outdoors for all
+      Metropolitan Areas.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
 
 ---

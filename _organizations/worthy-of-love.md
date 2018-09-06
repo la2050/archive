@@ -81,5 +81,15 @@ order: 11
 category: connect
 uri: /connect/worthy-of-love/
 year: 2016
+projects:
+  - uri: /connect/worthy-of-love/
+    category: connect
+    title: 'Connecting Hearts To Children On Skid Row '
+    project_description: >-
+      Worthy of Love will continue hosting birthday parties for children living
+      at the Union Rescue Mission and branch out to host parties at other
+      homeless shelters throughout Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 
 ---

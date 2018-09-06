@@ -124,5 +124,15 @@ category: learn
 uri: /learn/arts-and-living-charitable-foundation/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /learn/arts-and-living-charitable-foundation/
+    category: learn
+    title: 'Arts Connect '
+    project_description: >-
+      Arts Connect is a progressive plan for Los Angeles learners to get a fresh
+      real-life digital storyline and multimedia curriculum presented with LA’s
+      legendary icons.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
 
 ---

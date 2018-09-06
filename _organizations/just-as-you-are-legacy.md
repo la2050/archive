@@ -60,5 +60,12 @@ order: 19
 category: create
 uri: /create/just-as-you-are-legacy/
 year: 2016
+projects:
+  - uri: /create/just-as-you-are-legacy/
+    category: create
+    title: Empowering You to Create Your Legacy
+    project_description: We support you and your community to achieve entrepreneurial endeavors.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6383208955741-team91.jpeg
 
 ---

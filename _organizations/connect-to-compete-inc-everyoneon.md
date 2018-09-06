@@ -93,5 +93,15 @@ uri: /connect/connect-to-compete-inc-everyoneon/
 order: 14
 project_image: connect-to-compete-inc-everyoneon.jpg
 year: 2018
+projects:
+  - uri: /connect/connect-to-compete-inc-everyoneon/
+    category: connect
+    title: 'EveryoneOn Digital Equity Champions Initiative: Bringing Angelenos Online'
+    project_description: >-
+      EveryoneOn will seek to identify, recruit and train community stakeholders
+      in LA County with established touchpoints with residents to support access
+      and enrollment to low-cost high speed internet.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/connect-to-compete-inc-everyoneon.jpg
 
 ---

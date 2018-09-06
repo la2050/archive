@@ -87,5 +87,17 @@ order: 63
 category: learn
 uri: /learn/digdeep-water/
 year: 2016
+projects:
+  - uri: /learn/digdeep-water/
+    category: learn
+    title: >-
+      The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love
+      & Conserve Their Water
+    project_description: >-
+      The 4Liters Pop-Up is a flexible, multi-disciplinary learning experience
+      designed to help middle school students in Los Angeles better understand
+      and protect their local and state water resources.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 
 ---

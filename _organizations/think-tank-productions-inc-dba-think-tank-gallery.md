@@ -158,5 +158,19 @@ uri: /create/think-tank-productions-inc-dba-think-tank-gallery/
 order: 3
 project_image: think-tank-productions-inc-dba-think-tank-gallery.jpg
 year: 2018
+projects:
+  - uri: /create/think-tank-productions-inc-dba-think-tank-gallery/
+    category: create
+    title: >-
+      Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
+      Opportunity
+    project_description: |-
+      Your art is better when you don't have to hide it. 
+       
+       
+       
+       #CreateAboveTheRadar makes permitting your production less daunting, & provides opportunities for your show, mural, or event to find a scene in LA
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 
 ---

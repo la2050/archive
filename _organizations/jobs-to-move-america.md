@@ -114,5 +114,15 @@ order: 16
 category: create
 uri: /create/jobs-to-move-america/
 year: 2016
+projects:
+  - uri: /create/jobs-to-move-america/
+    category: create
+    title: 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
+    project_description: >-
+      Electrify LA will transform the county's polluting buses into zero
+      emission vehicles and create good manufacturing jobs for low-income
+      communities historically excluded from middle skilled tech jobs
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
 
 ---

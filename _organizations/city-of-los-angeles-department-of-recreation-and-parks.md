@@ -112,5 +112,15 @@ order: 14
 category: play
 uri: /play/city-of-los-angeles-department-of-recreation-and-parks/
 year: 2016
+projects:
+  - uri: /play/city-of-los-angeles-department-of-recreation-and-parks/
+    category: play
+    title: Ocean Heroes - Saving Lives Daily as a Water Rescuer
+    project_description: >-
+      Open Water Junior Lifeguard Program provides professional lifeguard
+      instruction to youth in water safety and physical conditioning as an
+      introduction to a potential career choice as water rescuers.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 
 ---

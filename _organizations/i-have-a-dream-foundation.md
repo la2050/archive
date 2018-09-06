@@ -78,5 +78,15 @@ category: learn
 uri: /learn/i-have-a-dream-foundation/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /learn/i-have-a-dream-foundation/
+    category: learn
+    title: At Risk Youth Get Jobs in Local Communities
+    project_description: >-
+      To end intergenerational poverty, we train our high schools students how
+      to secure a job abd how to be successful in that job. We partner with
+      businesses and we pay for the students an internshipship
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
 
 ---

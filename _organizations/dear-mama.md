@@ -147,5 +147,15 @@ order: 30
 category: live
 uri: /live/dear-mama/
 year: 2016
+projects:
+  - uri: /live/dear-mama/
+    category: live
+    title: Helping L.A. Live Healthier One Taco at a Time!
+    project_description: >-
+      Dear Mama will revolutionize  the eating habits of our community through
+      mobilizing plant-based food, by empowering and engaging with the community
+      to create a deep impact with Angelenos.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 
 ---

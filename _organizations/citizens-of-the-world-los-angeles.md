@@ -126,5 +126,15 @@ order: 23
 category: learn
 uri: /learn/citizens-of-the-world-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/citizens-of-the-world-los-angeles/
+    category: learn
+    title: 'CWC LA: building communities that embrace equity and address injustice'
+    project_description: >-
+      Citizens of the World Los Angeles will prepare our students to thrive in
+      our diverse schools and society by making critical investments in race,
+      equity and diversity training for our staff.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
 
 ---

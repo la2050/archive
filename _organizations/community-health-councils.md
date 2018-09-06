@@ -154,5 +154,15 @@ order: 53
 category: connect
 uri: /connect/community-health-councils/
 year: 2016
+projects:
+  - uri: /connect/community-health-councils/
+    category: connect
+    title: Save Spaces for Healthy Places
+    project_description: >-
+      Save Spaces for Healthy Places provides the training, knowledge and
+      ongoing opportunity for South LA residents to find and project their
+      powerful voices so that community change can become a reality.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 
 ---

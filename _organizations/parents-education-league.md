@@ -116,5 +116,17 @@ order: 25
 category: learn
 uri: /learn/parents-education-league/
 year: 2016
+projects:
+  - uri: /learn/parents-education-league/
+    category: learn
+    title: >-
+      Early Childhood Education Options: Using Public Service Mini-Courses to
+      Educate and Empower Families
+    project_description: >-
+      PEL will launch a series of accessible, content-rich, dynamic and
+      purposeful “Public Service Mini-Courses ” for families to educate,
+      empower, and provide access to early childhood education choices.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 
 ---

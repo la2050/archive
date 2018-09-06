@@ -117,5 +117,15 @@ uri: /live/lumos-transforms/
 order: 2
 project_image: lumos-transforms.jpg
 year: 2018
+projects:
+  - uri: /live/lumos-transforms/
+    category: live
+    title: '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
+    project_description: >-
+      Lumos Transforms will teach workers, community organizers and activists
+      resilience-building tools to improve the health and wellbeing of
+      individuals, organizations and the communities that they serve.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
 
 ---

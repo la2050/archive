@@ -125,5 +125,17 @@ order: 35
 category: connect
 uri: /connect/la-plaza-de-cultura-y-artes/
 year: 2016
+projects:
+  - uri: /connect/la-plaza-de-cultura-y-artes/
+    category: connect
+    title: >-
+      LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
+      pathway!
+    project_description: >-
+      The Historic Paseo Walkway creates a new gathering place in downtown that
+      celebrates the city’s past by connecting the oldest historical sites and
+      museums from Ft. Moore to Union Station.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
 
 ---

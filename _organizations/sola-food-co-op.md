@@ -64,5 +64,14 @@ order: 52
 category: live
 uri: /live/sola-food-co-op/
 year: 2016
+projects:
+  - uri: /live/sola-food-co-op/
+    category: live
+    title: >-
+      SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+      Empowerment
+    project_description: To open full service health foods cooperative in South LA
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 
 ---

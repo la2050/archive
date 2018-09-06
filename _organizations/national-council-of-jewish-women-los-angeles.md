@@ -118,5 +118,17 @@ order: 70
 category: learn
 uri: /learn/national-council-of-jewish-women-los-angeles/
 year: 2016
+projects:
+  - uri: /learn/national-council-of-jewish-women-los-angeles/
+    category: learn
+    title: >-
+      The Talk Project – Teens leading workshops on sexual violence & culture
+      change
+    project_description: >-
+      NCJW|LA's The Talk Project is a peer-to-peer sexual violence awareness
+      program for and by high school students. Teams of trained Peer Educators
+      lead interactive workshops to create cultural change.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 
 ---

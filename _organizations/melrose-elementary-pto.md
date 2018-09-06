@@ -116,5 +116,14 @@ order: 46
 category: learn
 uri: /learn/melrose-elementary-pto/
 year: 2016
+projects:
+  - uri: /learn/melrose-elementary-pto/
+    category: learn
+    title: 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
+    project_description: >-
+      Help us close the achievement gap and bring technology and equality to our
+      diverse magnet school in the heart of LA.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 
 ---

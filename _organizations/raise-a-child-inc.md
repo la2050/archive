@@ -148,5 +148,17 @@ uri: /connect/raise-a-child-inc/
 order: 11
 project_image: raise-a-child-inc.jpg
 year: 2018
+projects:
+  - uri: /connect/raise-a-child-inc/
+    category: connect
+    title: >-
+      Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster
+      kids.
+    project_description: >-
+      RaiseAChild will conduct state-of-the-art outreach campaigns and utilize
+      best business practice technology to find loving homes for children
+      languishing in LA’s foster care system.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/raise-a-child-inc.jpg
 
 ---

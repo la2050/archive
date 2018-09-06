@@ -102,5 +102,16 @@ order: 57
 category: live
 uri: /live/tampon-tribe/
 year: 2016
+projects:
+  - uri: /live/tampon-tribe/
+    category: live
+    title: >-
+      The Period Pack Project: Monthly Feminine Hygiene Packs for 2,000 Homeless
+      Women, for 10 Months.
+    project_description: >-
+      Period Packs: Providing Essential Feminine Hygiene to Homeless Women. Can
+      you imagine getting your period while living on the streets?
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
 
 ---

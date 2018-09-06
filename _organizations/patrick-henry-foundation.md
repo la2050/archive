@@ -119,5 +119,17 @@ order: 64
 category: learn
 uri: /learn/patrick-henry-foundation/
 year: 2016
+projects:
+  - uri: /learn/patrick-henry-foundation/
+    category: learn
+    title: >-
+      The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+      Program
+    project_description: >-
+      The Scientists, Engineers, Mathematicians and Innovators (SEMI) is a
+      bilingual program training the next generation of global STEM
+      professionals.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 
 ---

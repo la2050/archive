@@ -89,5 +89,14 @@ order: 47
 category: connect
 uri: /connect/city-of-west-hollywood/
 year: 2016
+projects:
+  - uri: /connect/city-of-west-hollywood/
+    category: connect
+    title: Open Sourced Smart City Collaborative
+    project_description: >-
+      Building a network of smart city best practices for the 88 cities in LA
+      County
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 
 ---

@@ -117,5 +117,15 @@ order: 13
 category: learn
 uri: /learn/united-friends-of-the-children/
 year: 2016
+projects:
+  - uri: /learn/united-friends-of-the-children/
+    category: learn
+    title: College IS for Foster Youth!
+    project_description: >-
+      By providing LA County foster youth with a support network of caring
+      adults and a host of program opportunities, the project will help more
+      than 700 youth to reach successful independence.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 
 ---

@@ -145,5 +145,17 @@ order: 8
 category: connect
 uri: /connect/here-to-serve-inc/
 year: 2016
+projects:
+  - uri: /connect/here-to-serve-inc/
+    category: connect
+    title: >-
+      Connecting communities of support with families who have a critically ill
+      young child or parent.
+    project_description: >-
+      We believe families with a critically-ill child not risk their job,
+      health, or finances to care for their child. We identify, connect &
+      mobilize support bringing relief to families in medical crisis.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 
 ---

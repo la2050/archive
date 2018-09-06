@@ -139,5 +139,17 @@ category: play
 uri: /play/usc-annenberg-innovation-lab/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /play/usc-annenberg-innovation-lab/
+    category: play
+    title: >-
+      CARPE LA: collaborative augmented reality play experience for families of
+      Los Angeles
+    project_description: >-
+      CARPE LA blends digital and physical play as teams work together to
+      discover, collect and unlock the secrets of a fantasy world overlaid on
+      their local neighborhood park.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 
 ---

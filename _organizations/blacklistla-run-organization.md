@@ -146,5 +146,15 @@ uri: /play/blacklistla-run-organization/
 is_winner: true
 is_finalist: true
 year: 2016
+projects:
+  - uri: /play/blacklistla-run-organization/
+    category: play
+    title: ' BlacklistLA: On the Playground Where We Spent Most of Our Days'
+    project_description: >-
+      PLAY doesn’t end with childhood; adults need recess, too! In 2017,
+      BlacklistLA will provide over 100 opportunities for Angelenos of all ages
+      to get active and play in their city.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 
 ---

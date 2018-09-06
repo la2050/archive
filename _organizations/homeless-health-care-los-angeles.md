@@ -147,5 +147,15 @@ order: 49
 category: live
 uri: /live/homeless-health-care-los-angeles/
 year: 2016
+projects:
+  - uri: /live/homeless-health-care-los-angeles/
+    category: live
+    title: Save A Life
+    project_description: >-
+      Since 2011, the rate of opioid overdoses has more than tripled in LA
+      County; this epidemic is completely preventable if people were aware of
+      and had access to the lifesaving drug, naloxone.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
 
 ---

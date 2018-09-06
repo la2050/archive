@@ -137,5 +137,17 @@ uri: /connect/mayors-fund-for-los-angeles/
 order: 1
 project_image: mayors-fund-for-los-angeles.jpg
 year: 2018
+projects:
+  - uri: /connect/mayors-fund-for-los-angeles/
+    category: connect
+    title: >-
+      VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
+      change.
+    project_description: >-
+      With the leadership of LA's Mayor and building upon a recent increase in
+      local activism, VolunteerLA will turn energy into action by connecting
+      Angelenos to volunteer opportunities that create change.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/mayors-fund-for-los-angeles.jpg
 
 ---

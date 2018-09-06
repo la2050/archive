@@ -87,5 +87,17 @@ order: 24
 category: learn
 uri: /learn/whitaker-peace-development-initiative-wpdi/
 year: 2016
+projects:
+  - uri: /learn/whitaker-peace-development-initiative-wpdi/
+    category: learn
+    title: >-
+      Domestic Harmonizer Program: resolving conflict, one middle school at a
+      time
+    project_description: >-
+      The Domestic Harmonizer Program addresses youth violence, bullying, and
+      conflict, and helps students transform conflicts from negative experiences
+      to opportunities for positive change.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 
 ---

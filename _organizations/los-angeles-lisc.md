@@ -132,5 +132,15 @@ order: 34
 category: create
 uri: /create/los-angeles-lisc/
 year: 2016
+projects:
+  - uri: /create/los-angeles-lisc/
+    category: create
+    title: Preserving LA's Cultural Diversity
+    project_description: >-
+      Preserving LA’s diverse commercial hubs will support cultural
+      entrepreneurship and the creation of jobs to ensure a sustainable future
+      for LA's creative communities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
 
 ---

@@ -160,5 +160,17 @@ order: 11
 category: learn
 uri: /learn/port-of-los-angeles-high-school/
 year: 2016
+projects:
+  - uri: /learn/port-of-los-angeles-high-school/
+    category: learn
+    title: >-
+      COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
+      Program 
+    project_description: >-
+      POLAHS provides a college preparatory education with Career Technical
+      Education (CTE) pathways in the high-skill, high-wage, high-demand
+      industries of Boat Operations; Digital Media; and Construction.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 
 ---

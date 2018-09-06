@@ -124,5 +124,13 @@ uri: /live/roots-wings/
 order: 34
 project_image: roots-wings.jpg
 year: 2018
+projects:
+  - uri: /live/roots-wings/
+    category: live
+    title: The Whole School Approach to a Safer & Happier Community
+    project_description: >-
+      We address the roots of violence and stress to ensure our children will
+      have the wings to set them free to achieve a joyful life.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 
 ---

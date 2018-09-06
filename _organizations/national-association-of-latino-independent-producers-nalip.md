@@ -157,5 +157,14 @@ order: 4
 project_image: national-association-of-latino-independent-producers-nalip.jpg
 project_image_color: 'rgb(25, 31, 71)'
 year: 2018
+projects:
+  - uri: /create/national-association-of-latino-independent-producers-nalip/
+    category: create
+    title: Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
+    project_description: >-
+      Through the this activation, NALIP aims to provide support for college
+      ready urban youth through media training & resources.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 
 ---

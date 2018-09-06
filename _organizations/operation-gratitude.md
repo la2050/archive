@@ -138,5 +138,15 @@ order: 48
 category: connect
 uri: /connect/operation-gratitude/
 year: 2016
+projects:
+  - uri: /connect/operation-gratitude/
+    category: connect
+    title: 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
+    project_description: >-
+      Through hands-on Volunteerism, Operation Gratitude provides Angelenos of
+      every age and background an uplifting way to thank all who serve by
+      creating Care Packages of handmade and donated goodies.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
 
 ---

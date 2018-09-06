@@ -118,5 +118,14 @@ order: 53
 category: live
 uri: /live/mujeres-de-la-tierra/
 year: 2016
+projects:
+  - uri: /live/mujeres-de-la-tierra/
+    category: live
+    title: 'Telenovelas in the Park, a new way of learning!'
+    project_description: >-
+      Inspire • Motivate • Teach. Telenovelas for an environmentally conscious
+      LA2050
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
 
 ---

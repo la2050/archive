@@ -102,5 +102,15 @@ uri: /live/shoes-that-fit/
 order: 14
 project_image: shoes-that-fit.jpg
 year: 2018
+projects:
+  - uri: /live/shoes-that-fit/
+    category: live
+    title: 'Equal Footing LA: Providing New Shoes For Kids In Need'
+    project_description: >-
+      Too many kids in LA are missing school because they don’t have shoes—or
+      being bullied because they are wearing inappropriate shoes. We will
+      provide brand new athletic shoes to LAUSD school children.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg
 
 ---

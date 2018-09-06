@@ -114,5 +114,17 @@ order: 21
 category: connect
 uri: /connect/los-angeles-magazine/
 year: 2016
+projects:
+  - uri: /connect/los-angeles-magazine/
+    category: connect
+    title: >-
+      GIVE Los Angeles: charitable giving that unites and connects us in the
+      city we love. 
+    project_description: >-
+      GIVE Los Angeles is a unique effort and public call to Angelenos,
+      encouraging us to think, act and give back to the non-profits that are
+      doing remarkable work to make life in LA the best it can be.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
 
 ---

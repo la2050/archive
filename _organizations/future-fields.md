@@ -178,5 +178,15 @@ order: 33
 category: learn
 uri: /learn/future-fields/
 year: 2016
+projects:
+  - uri: /learn/future-fields/
+    category: learn
+    title: 'Future Scouts: 21st century survival skills for 21st century humans'
+    project_description: >-
+      FUTURE SCOUTS: a series of urban creative labs that prepare youth with
+      essential 21st century literacies and skills, through art, science,
+      design, systems thinking and technology
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
 
 ---

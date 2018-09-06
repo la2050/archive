@@ -110,5 +110,12 @@ order: 37
 category: learn
 uri: /learn/the-childrens-lifesaving-foundation/
 year: 2016
+projects:
+  - uri: /learn/the-childrens-lifesaving-foundation/
+    category: learn
+    title: Help Us Create and Inspire the Future Tech Leaders of LA!
+    project_description: Help Us Create the Future Tech Leaders of LA!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 
 ---

@@ -131,5 +131,17 @@ order: 18
 category: play
 uri: /play/santa-clarita-valley-adventure-play/
 year: 2016
+projects:
+  - uri: /play/santa-clarita-valley-adventure-play/
+    category: play
+    title: >-
+      SCV Adventure Play + Eureka Villa: Self-Directed Play Spaces and Playwork
+      Initiative for All!
+    project_description: >-
+      Providing self-directed play space created not just for kids but BY THEM
+      as we do finishing touches on Eureka Villa Adventure Playground and launch
+      a year long series of FREE Pop-Ups around LA County!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
 
 ---

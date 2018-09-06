@@ -76,5 +76,17 @@ category: connect
 uri: /connect/la-voice/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /connect/la-voice/
+    category: connect
+    title: >-
+      Building police - community trust in Compton through reform and
+      accountability
+    project_description: >-
+      LA Voice will support the grassroots leadership of congregations in
+      Compton to create relationships of accountability between the community
+      and law enforcement and build a shared commitment to reform.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8576563265741-team91.jpg
 
 ---

@@ -149,5 +149,17 @@ order: 31
 category: connect
 uri: /connect/california-partnership/
 year: 2016
+projects:
+  - uri: /connect/california-partnership/
+    category: connect
+    title: >-
+      LA Civic Power: Shaping Policy and Building Relationships with All
+      Stakeholders
+    project_description: >-
+      California Partnership seeks to connect community groups, organizations,
+      and elected officials to build our community's civic power and enact
+      political and social change.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 
 ---

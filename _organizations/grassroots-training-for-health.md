@@ -97,5 +97,15 @@ order: 25
 category: live
 uri: /live/grassroots-training-for-health/
 year: 2016
+projects:
+  - uri: /live/grassroots-training-for-health/
+    category: live
+    title: 'Grassroots Training for Health: Combating Obesity One Community at a Time'
+    project_description: >-
+      Grassroots Training for Health is a non-profit organization that
+      collaborates with community fitness experts and city leaders to establish
+      an affordable physical exercise programs under-served Communi
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6818331265741-team90.jpg
 
 ---

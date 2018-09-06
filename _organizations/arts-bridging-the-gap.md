@@ -130,5 +130,15 @@ order: 35
 category: learn
 uri: /learn/arts-bridging-the-gap/
 year: 2016
+projects:
+  - uri: /learn/arts-bridging-the-gap/
+    category: learn
+    title: 'Girls Make VR: Teach underserved girls how to make VR and AR content'
+    project_description: >-
+      Weekly educational events, workshops and classes to teach underserved
+      girls cutting edge creative and technical processes for making Virtual
+      Reality and Augmented Reality content.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 
 ---

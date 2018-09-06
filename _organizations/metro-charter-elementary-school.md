@@ -137,5 +137,15 @@ order: 50
 category: connect
 uri: /connect/metro-charter-elementary-school/
 year: 2016
+projects:
+  - uri: /connect/metro-charter-elementary-school/
+    category: connect
+    title: '''PEOPLE IN ME'' Interactive Cyber Mural'
+    project_description: >-
+      A student-created interactive, cyber-video mural that maps the cultural
+      diversity of those living/working in downtown L.A., PEOPLE IN ME showcases
+      participants' culture, arts, and beliefs.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
 
 ---

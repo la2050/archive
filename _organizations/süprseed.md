@@ -181,5 +181,14 @@ uri: /live/süprseed/
 order: 8
 project_image: süprseed.jpg
 year: 2018
+projects:
+  - uri: /live/süprseed/
+    category: live
+    title: Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
+    project_description: >-
+      We'll deliver 1 million pounds of organic produce, 2,000 hours of
+      workshops, and 1000 free deliveries to LA's food deserts to make fresh
+      food affordable for all and create a healthy future for us all.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
 
 ---

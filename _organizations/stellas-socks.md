@@ -97,5 +97,15 @@ uri: /connect/stellas-socks/
 order: 39
 project_image: stellas-socks.jpg
 year: 2018
+projects:
+  - uri: /connect/stellas-socks/
+    category: connect
+    title: Stella's Socks - Shelter for Your Feet
+    project_description: >-
+      Every year we deliver socks to over 100k homeless and homeless youth in
+      Los Angeles and we organize a 'Sock Sesh' every month to inspire other
+      kids and youth in the community to give back.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/stellas-socks.jpg
 
 ---

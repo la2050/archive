@@ -103,5 +103,17 @@ order: 22
 category: connect
 uri: /connect/give-today-la/
 year: 2016
+projects:
+  - uri: /connect/give-today-la/
+    category: connect
+    title: >-
+      Give Today LA: An online community center connecting causes, commerce and
+      community to do good!
+    project_description: >-
+      GiveTodayLA is all about connecting you to experiences and causes right
+      here in LA. Our social share platform ranks community goals and causes and
+      creates ways to give local: time, treasure or talent.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
 
 ---

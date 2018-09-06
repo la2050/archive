@@ -139,5 +139,15 @@ uri: /live/global-green/
 order: 17
 project_image: global-green.jpg
 year: 2018
+projects:
+  - uri: /live/global-green/
+    category: live
+    title: Global Green’s Creative Reuse Coalition
+    project_description: >-
+      Through community upcycling workshops and digital tutorials, Angelenos
+      will learn how to creatively reuse, repair, and repurpose their damaged or
+      worn out items, making LA the best place to live!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
 
 ---

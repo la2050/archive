@@ -80,5 +80,14 @@ order: 55
 category: learn
 uri: /learn/the-garage-board-shop/
 year: 2016
+projects:
+  - uri: /learn/the-garage-board-shop/
+    category: learn
+    title: SK8 4 Education
+    project_description: >-
+      SK8 4 Education is an after school program developed to motivate
+      undeserved youth by combining skateboarding with education.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
 
 ---

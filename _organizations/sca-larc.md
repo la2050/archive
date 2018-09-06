@@ -93,5 +93,14 @@ order: 29
 category: connect
 uri: /connect/sca-larc/
 year: 2016
+projects:
+  - uri: /connect/sca-larc/
+    category: connect
+    title: Jutout Parklets
+    project_description: >-
+      Jutouts are a concept by SCA-LARC to create a series of cantilevered
+      parklets overlooking Los Angeles waterways.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
 
 ---

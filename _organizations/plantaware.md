@@ -159,5 +159,12 @@ category: live
 uri: /live/plantaware/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /live/plantaware/
+    category: live
+    title: A digital green thumb for the urban-scape
+    project_description: Plantaware helps people grow food at home
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 
 ---

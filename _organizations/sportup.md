@@ -126,5 +126,17 @@ order: 27
 category: learn
 uri: /learn/sportup/
 year: 2016
+projects:
+  - uri: /learn/sportup/
+    category: learn
+    title: >-
+      Empowering community organizations to grow through logistics and data
+      analytics
+    project_description: >-
+      Supporting community & school based afterschool and athletic programs
+      through logistics and advisory services that empower them to increase the
+      number of children they serve in Los Angeles
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 
 ---

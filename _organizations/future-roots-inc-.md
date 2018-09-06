@@ -122,5 +122,15 @@ order: 12
 category: connect
 uri: /connect/future-roots-inc-/
 year: 2016
+projects:
+  - uri: /connect/future-roots-inc-/
+    category: connect
+    title: 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
+    project_description: >-
+      DUBLAB's FM Initiative can help make Los Angeles the best place to connect
+      by providing an extremely accessible platform for musicians, DJs, and
+      artists to reach LA residents with freeform broadcasts.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 
 ---

@@ -116,5 +116,15 @@ uri: /learn/united-nations-association-usa-pasadena-chapter-inc-/
 is_winner: true
 is_finalist: true
 year: 2016
+projects:
+  - uri: /learn/united-nations-association-usa-pasadena-chapter-inc-/
+    category: learn
+    title: Action Ambassadors for LA
+    project_description: >-
+      Action Ambassadors is training the next generation of leaders in Los
+      Angeles through volunteer work, political involvement, and social
+      entrepreneurship.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
 
 ---

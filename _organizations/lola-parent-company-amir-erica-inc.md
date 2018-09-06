@@ -93,5 +93,15 @@ uri: /connect/lola-parent-company-amir-erica-inc/
 order: 25
 project_image: lola-parent-company-amir-erica-inc.jpg
 year: 2018
+projects:
+  - uri: /connect/lola-parent-company-amir-erica-inc/
+    category: connect
+    title: 'LOLA: Demystifying local politics for young, busy residents in LA'
+    project_description: >-
+      LA politics is dry, boring, and confusing AF, but it doesn’t have to be.
+      LOLA empowers young residents by explaining local issues and elections in
+      a concise, nonpartisan way.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/lola-parent-company-amir-erica-inc.jpg
 
 ---

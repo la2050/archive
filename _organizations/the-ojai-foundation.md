@@ -136,5 +136,17 @@ order: 6
 category: connect
 uri: /connect/the-ojai-foundation/
 year: 2016
+projects:
+  - uri: /connect/the-ojai-foundation/
+    category: connect
+    title: >-
+      Community Circle Space Initiative: Creating a place and sharing a process
+      for authentic connection 
+    project_description: >-
+      Community Circle Space Initiative builds circle spaces and trains
+      community elders to facilitate circle dialogs for Southeast LA residents
+      to share stories, address issues, and resolve conflicts.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 
 ---

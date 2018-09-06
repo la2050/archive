@@ -103,5 +103,14 @@ order: 7
 category: play
 uri: /play/community-corporation-of-santa-monica/
 year: 2016
+projects:
+  - uri: /play/community-corporation-of-santa-monica/
+    category: play
+    title: Great Futures Start At Home
+    project_description: >-
+      Our project brings the service and care of the Boys & Girls Club right to
+      the doorsteps of our kids.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
 
 ---

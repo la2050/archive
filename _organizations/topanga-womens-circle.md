@@ -135,5 +135,17 @@ uri: /live/topanga-womens-circle/
 order: 38
 project_image: topanga-womens-circle.jpg
 year: 2018
+projects:
+  - uri: /live/topanga-womens-circle/
+    category: live
+    title: >-
+      Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
+      Angeles
+    project_description: >-
+      Topanga Women's Circle will create a new city-wide program called The
+      Community Circle Project which will guide existing service groups in
+      helping homeless families as they transition into housing.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 
 ---

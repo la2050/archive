@@ -108,5 +108,15 @@ uri: /connect/twigg-how-to/
 order: 0
 project_image: twigg-how-to.jpg
 year: 2018
+projects:
+  - uri: /connect/twigg-how-to/
+    category: connect
+    title: '51%: Our Reality'
+    project_description: >-
+      51%: Our Reality is a traveling virtual reality exhibit—free and open to
+      the public—based on the real perspectives, experiences and trials of women
+      in LA, who make up 51% of our city’s population.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/twigg-how-to.jpg
 
 ---

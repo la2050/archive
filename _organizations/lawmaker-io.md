@@ -125,5 +125,16 @@ uri: /connect/lawmaker-io/
 order: 23
 project_image: lawmaker-io.jpg
 year: 2018
+projects:
+  - uri: /connect/lawmaker-io/
+    category: connect
+    title: >-
+      LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
+      Solve Homelessness in LA
+    project_description: >-
+      LawMaker.io is launching a public, yearlong project for Angelenos &
+      elected officials to collaboratively discuss solutions for homelessness &
+      build grassroots political support for tangible change.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/lawmaker-io.jpg'
 
 ---

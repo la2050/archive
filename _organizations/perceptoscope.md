@@ -130,5 +130,17 @@ order: 5
 category: play
 uri: /play/perceptoscope/
 year: 2016
+projects:
+  - uri: /play/perceptoscope/
+    category: play
+    title: >-
+      Explore Los Angeles's past, present, and future in augmented reality
+      through Perceptoscope
+    project_description: >-
+      Perceptoscopes are public augmented reality viewers in the form of coin
+      operated binoculars. They can expose the hidden past, present points of
+      interest, or future potentials of a place.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 
 ---

@@ -139,5 +139,14 @@ order: 10
 category: connect
 uri: /connect/big-sunday/
 year: 2016
+projects:
+  - uri: /connect/big-sunday/
+    category: connect
+    title: Connecting Community Through Color
+    project_description: >-
+      Color Your School: Big Sunday is Creating Awesome Murals for (and with)
+      Amazing Kids at Incredible Schools
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 
 ---

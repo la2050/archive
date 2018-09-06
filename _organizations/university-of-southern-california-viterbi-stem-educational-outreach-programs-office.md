@@ -149,5 +149,16 @@ category: learn
 uri: >-
   /learn/university-of-southern-california-viterbi-stem-educational-outreach-programs-office/
 year: 2016
+projects:
+  - uri: >-
+      /learn/university-of-southern-california-viterbi-stem-educational-outreach-programs-office/
+    category: learn
+    title: STEM Center for Innovation and Excellence (SCIE)
+    project_description: >-
+      SCIE engages at-risk high school students in science, technology,
+      engineering & mathematics (STEM) by having them create apps & techie
+      products that improve their community & create entrepreneurship.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
 
 ---

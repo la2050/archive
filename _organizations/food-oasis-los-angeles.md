@@ -82,5 +82,15 @@ order: 11
 category: live
 uri: /live/food-oasis-los-angeles/
 year: 2016
+projects:
+  - uri: /live/food-oasis-los-angeles/
+    category: live
+    title: Connecting People to Healthy Food in Los Angeles
+    project_description: >-
+      We want to make a healthier LA! We think the best way to do this is to
+      leverage current tech and build a platform to empower everyone with the
+      right tools and resources to easily find healthy food.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 
 ---

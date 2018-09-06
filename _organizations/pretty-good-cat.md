@@ -84,5 +84,12 @@ order: 44
 category: live
 uri: /live/pretty-good-cat/
 year: 2016
+projects:
+  - uri: /live/pretty-good-cat/
+    category: live
+    title: 'No More Suffering for LA''s Homeless Kittens '
+    project_description: No More Suffering for LA's Homeless Kittens
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
 
 ---

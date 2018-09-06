@@ -84,5 +84,15 @@ order: 23
 category: connect
 uri: /connect/homeboy-industries/
 year: 2016
+projects:
+  - uri: /connect/homeboy-industries/
+    category: connect
+    title: 'Global Homeboy Network: Connecting Through Kinship'
+    project_description: >-
+      Since 1988 Homeboy Industries has helped people leave gang life; now the
+      Global Homeboy Network connects other organizations that stand with
+      marginalized populations, because together we are stronger.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
 
 ---

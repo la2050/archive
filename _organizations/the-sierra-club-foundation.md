@@ -137,5 +137,14 @@ order: 56
 category: live
 uri: /live/the-sierra-club-foundation/
 year: 2016
+projects:
+  - uri: /live/the-sierra-club-foundation/
+    category: live
+    title: The Future is Bright! A Clean Energy Future for LA
+    project_description: >-
+      We’re fighting for an equitable transition to 100 percent clean energy
+      across Los Angeles and all of California!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
 
 ---

@@ -70,5 +70,14 @@ order: 22
 category: live
 uri: /live/living-spring-foundation/
 year: 2016
+projects:
+  - uri: /live/living-spring-foundation/
+    category: live
+    title: 'Free Showers for the Homeless in Downtown, Los Angeles'
+    project_description: >-
+      Finally here...free showers for the homeless in Downtown, Los Angeles to
+      improve their self-esteem.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7313280725741-team88.jpg
 
 ---

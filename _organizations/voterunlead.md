@@ -148,5 +148,16 @@ uri: /connect/voterunlead/
 order: 49
 project_image: voterunlead.jpg
 year: 2018
+projects:
+  - uri: /connect/voterunlead/
+    category: connect
+    title: >-
+      Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
+      Change
+    project_description: >-
+      VoteRunLead will train 10,000 women to lead LA's communities by 2020,
+      increasing civic participation and propelling at least 50 women to run for
+      office--resulting in responsive, inclusive governance.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/voterunlead.jpg'
 
 ---

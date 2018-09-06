@@ -119,5 +119,16 @@ order: 10
 category: play
 uri: /play/america-scores-la/
 year: 2016
+projects:
+  - uri: /play/america-scores-la/
+    category: play
+    title: >-
+      LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
+      play)
+    project_description: >-
+      Turning school playgrounds from black top to green turf to provide a safe
+      surface for children to experience team sports without the fear of injury.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 
 ---

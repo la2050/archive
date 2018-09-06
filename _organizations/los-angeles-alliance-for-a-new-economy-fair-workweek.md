@@ -166,5 +166,15 @@ uri: /connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
 order: 35
 project_image: los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 year: 2018
+projects:
+  - uri: /connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
+    category: connect
+    title: Retail Workers “R” LA
+    project_description: >-
+      The project will enable LA’s 150,000 retail workers to connect with each
+      other across LA’s vast size, learn their rights, register to vote, and
+      become effective, civically engaged advocates.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 
 ---

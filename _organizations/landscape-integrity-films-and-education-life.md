@@ -128,5 +128,15 @@ order: 8
 category: live
 uri: /live/landscape-integrity-films-and-education-life/
 year: 2016
+projects:
+  - uri: /live/landscape-integrity-films-and-education-life/
+    category: live
+    title: California Native Plant Public Education Project
+    project_description: >-
+      Short films empowering people to create evergreen, flowering California
+      native gardens that bring back LA’s butterflies and birds and save water!
+      Learn how to plant native to revitalize LA!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 
 ---

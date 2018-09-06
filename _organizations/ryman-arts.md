@@ -124,5 +124,14 @@ order: 59
 category: connect
 uri: /connect/ryman-arts/
 year: 2016
+projects:
+  - uri: /connect/ryman-arts/
+    category: connect
+    title: The Big Draw LA Drawing Festival. Drawing Los Angeles together!
+    project_description: >-
+      Let’s get Angelenos of all ages and backgrounds drawing together to create
+      art, build connections and imagine our shared future.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 
 ---

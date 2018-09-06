@@ -122,5 +122,15 @@ order: 34
 category: connect
 uri: /connect/data-roads-foundation/
 year: 2016
+projects:
+  - uri: /connect/data-roads-foundation/
+    category: connect
+    title: 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
+    project_description: >-
+      Combining communications technologies like Mega-MIMO 2.0 and distributed
+      Mesh networking will allow LA learning institutions, including our schools
+      and libraries, to teach us both online and off.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
 
 ---

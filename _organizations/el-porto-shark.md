@@ -116,5 +116,14 @@ order: 40
 category: create
 uri: /create/el-porto-shark/
 year: 2016
+projects:
+  - uri: /create/el-porto-shark/
+    category: create
+    title: 'Save sharks, fisheries, and keep L.A. weather nice!'
+    project_description: >-
+      Machine learning model to predict shark populations for climate and
+      fisheries health in the local ocean.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
 
 ---

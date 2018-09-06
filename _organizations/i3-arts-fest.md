@@ -110,5 +110,17 @@ order: 27
 category: connect
 uri: /connect/i3-arts-fest/
 year: 2016
+projects:
+  - uri: /connect/i3-arts-fest/
+    category: connect
+    title: >-
+      I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts
+      Festival
+    project_description: >-
+      I3 Arts Fest is a public arts festival that transcends public spaces into
+      a vibrant urban canvas for artists  to engage and exhibit their most
+      innovative and imaginative works.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
 
 ---

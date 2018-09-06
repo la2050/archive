@@ -109,5 +109,15 @@ order: 44
 category: learn
 uri: /learn/los-angeles-service-academy-lasa/
 year: 2016
+projects:
+  - uri: /learn/los-angeles-service-academy-lasa/
+    category: learn
+    title: Los Angeles is a Puzzle; Together We Make Sense of It
+    project_description: >-
+      LASA empowers a diverse group of LA's youth to not only understand the
+      complexities of civic infrastructure, but be the problem-solvers and
+      visionaries of our city’s immediate and far-flung future.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
 
 ---

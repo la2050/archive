@@ -146,5 +146,15 @@ order: 36
 category: connect
 uri: /connect/center-for-the-study-of-los-angeles/
 year: 2016
+projects:
+  - uri: /connect/center-for-the-study-of-los-angeles/
+    category: connect
+    title: LA Votes
+    project_description: >-
+      LA Votes celebrates the electoral process in LA by conducting the largest
+      per-capita exit poll in the nation & announcing topline results for this
+      exit poll at an election watching party open to all.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 
 ---

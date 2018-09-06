@@ -60,5 +60,16 @@ order: 20
 category: learn
 uri: /learn/braille-institute-of-america/
 year: 2016
+projects:
+  - uri: /learn/braille-institute-of-america/
+    category: learn
+    title: >-
+      Connection Pointe – Technology Education Tools for Blind Teachers and
+      Students
+    project_description: >-
+      We will create a fully accessible iPad application that will guide blind
+      and visually impaired users through our digital literacy curriculum.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 
 ---

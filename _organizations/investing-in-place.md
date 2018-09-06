@@ -143,5 +143,17 @@ order: 69
 category: connect
 uri: /connect/investing-in-place/
 year: 2016
+projects:
+  - uri: /connect/investing-in-place/
+    category: connect
+    title: >-
+      You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
+      #HowWeRoll
+    project_description: >-
+      Access to greater opportunity depends on how you get there. Our team will
+      document and amplify stories of how people get around — and leverage the
+      stories to improve our transportation options.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8642914065741-team90.jpg
 
 ---

@@ -112,5 +112,15 @@ uri: /connect/los-angeles-master-chorale/
 order: 5
 project_image: los-angeles-master-chorale.jpg
 year: 2018
+projects:
+  - uri: /connect/los-angeles-master-chorale/
+    category: connect
+    title: Big Sing LA
+    project_description: >-
+      Big Sing LA is a free multi-generational event that invites everyone
+      regardless of ability or background to come together to learn new songs
+      and sing familiar ones at selected parks in Los Angeles.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-master-chorale.jpg
 
 ---

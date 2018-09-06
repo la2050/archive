@@ -150,5 +150,17 @@ uri: /connect/promesa-boyle-heights-at-proyecto-pastoral/
 order: 31
 project_image: promesa-boyle-heights-at-proyecto-pastoral.jpg
 year: 2018
+projects:
+  - uri: /connect/promesa-boyle-heights-at-proyecto-pastoral/
+    category: connect
+    title: >-
+      Neighbor to neighbor: Empower Boyle Heights residents to help each other
+      access wellness resources.
+    project_description: >-
+      Improve health outcomes and social connectedness in Boyle Heights by
+      empowering residents to conduct community outreach and education, so that
+      their fellow neighbors can access wellness resources.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
 
 ---

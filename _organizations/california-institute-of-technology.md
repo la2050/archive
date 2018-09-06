@@ -144,5 +144,17 @@ order: 13
 category: create
 uri: /create/california-institute-of-technology/
 year: 2016
+projects:
+  - uri: /create/california-institute-of-technology/
+    category: create
+    title: >-
+      Cleantech 2 Edtech: LA schools save energy as students and startups
+      implement cleantech innovations
+    project_description: >-
+      Cleantech 2 Edtech will speed energy saving innovations into LA schools,
+      engage students in energy saving projects and open new opportunities for
+      fast growing cleantech companies in Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4863691455741-team91.jpg
 
 ---

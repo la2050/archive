@@ -109,5 +109,17 @@ order: 28
 category: create
 uri: /create/sijcc/
 year: 2016
+projects:
+  - uri: /create/sijcc/
+    category: create
+    title: >-
+      Locally Grown Art: a series featuring LA artists in performance, movement,
+      talk, music & family fun 
+    project_description: >-
+      A cultural series focused on music, performance, movement, talk and
+      family, that highlights artists who live and work in Los Angeles in the
+      revamped space at the SIJCC.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 
 ---

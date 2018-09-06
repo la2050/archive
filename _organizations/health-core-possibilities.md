@@ -98,5 +98,15 @@ uri: /live/health-core-possibilities/
 order: 33
 project_image: health-core-possibilities.jpg
 year: 2018
+projects:
+  - uri: /live/health-core-possibilities/
+    category: live
+    title: STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT /
+    project_description: >-
+      STOP WREX!/ALTO WREX! will establish our Bilingual digital app program to
+      eliminate distracted driving as a project Angelenos — especially Latinos -
+      want to support. LIVE and increase LA's bike score!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
 
 ---

@@ -131,5 +131,15 @@ order: 45
 category: live
 uri: /live/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
 year: 2016
+projects:
+  - uri: /live/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
+    category: live
+    title: 'Northeast Los Angeles and the San Gabriel Valley Get PreP''d and PEP''d!! '
+    project_description: >-
+      PrEP is the 'miracle' HIV pill, but this revolutionary drug can be costly,
+      difficult to reach, and clouded in myth, especially for Angelenos in
+      northeast LA and the SGV; let's change that for good!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 
 ---

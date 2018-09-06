@@ -108,5 +108,14 @@ order: 17
 category: connect
 uri: /connect/national-foster-youth-institute/
 year: 2016
+projects:
+  - uri: /connect/national-foster-youth-institute/
+    category: connect
+    title: 'Foster Youth and Families: Joining Voices for Change'
+    project_description: >-
+      NFYI is building a social movement in LA, led by foster youth and their
+      families, to transform the child welfare system so it WORKS!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 
 ---

@@ -91,5 +91,17 @@ uri: /create/we-are-enough-c-o-social-environmental-entrepreneurs/
 order: 16
 project_image: we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 year: 2018
+projects:
+  - uri: /create/we-are-enough-c-o-social-environmental-entrepreneurs/
+    category: create
+    title: >-
+      We Are Enough: Women Investing $$$ in Women... the Way to Change the
+      World!
+    project_description: >-
+      A global, multi-year campaign, starting in Los Angeles, to inspire and
+      empower women (and girls) of every economic level to commit to investing
+      in women-owned businesses and/or with a gender lens.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 
 ---

@@ -68,6 +68,62 @@ function saveMarkdown(filepath, data) {
 
   // console.dir(data);
 
+  /*
+
+projects:
+  - 
+    uri: /connect/big-citizen-hub/
+    category: connect
+    title: >-
+      Big Citizen HUB: Building a pipeline of social change makers via leadership
+      and community service
+    project_description: >-
+      Big Citizen HUB will connect 236 diverse young people, ages 11-26, from all
+      across Los Angeles for 22 Saturdays to learn about our communities and address
+      local issues through service.
+    project_image: https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
+  - 
+    uri: /live/big-citizen-hub/
+    category: live
+    title: >-
+      Invest in Youth Coalition: Advocating for a Los Angeles that prioritizes young
+      people
+    project_description: >-
+      We demand an equitable strategy and coordinated approach to comprehensive
+      youth development, led by a city department focused on creating prosperity for
+      all of LA’s young people.
+    project_image: https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
+  */
+
+  data.yaml.projects = [
+    {
+      uri: data.yaml.uri,
+      category: data.yaml.category,
+      title: data.yaml.title,
+      project_description: data.yaml.project_description,
+      project_image: data.yaml.plan_id ? 
+        "https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/" + data.yaml.project_image :
+        "https://activation.la2050.org/assets/images/live/2048-wide/"    + data.yaml.project_image
+    }
+  ]
+
+
+
+  let names = filepath.split("/");
+  let filename = names[names.length - 1];
+
+  if (writtenFileNames[filename]) {
+    console.log(`duplicate file name detected: ${filename}`);
+
+    data.yaml.projects = data.yaml.projects.concat(writtenFileNames[filename]);
+
+    writtenFileNames[filename] = data.yaml.projects;
+
+  } else {
+    writtenFileNames[filename] = data.yaml.projects;
+  }
+
+
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
 `---
@@ -79,20 +135,6 @@ ${yaml.safeDump(data.yaml)}
 //console.log(output);
 //return;
 
-
-  let names = filepath.split("/");
-  let filename = names[names.length - 1];
-
-  if (writtenFileNames[filename]) {
-    console.log(`duplicate file name detected: ${filename}`);
-
-    writtenFileNames[filename]++;
-
-    filename = filename.split(".")[0] + "-" + writtenFileNames[filename] + ".md";
-
-  } else {
-    writtenFileNames[filename] = 1;
-  }
 
   fs.writeFileSync(`../_organizations/${filename}`, output, 'utf8', (err) => {
     if (err) {
@@ -211,3 +253,7 @@ updateMarkdownFiles('create');
 updateMarkdownFiles('play');
 updateMarkdownFiles('connect');
 updateMarkdownFiles('live');
+
+
+
+

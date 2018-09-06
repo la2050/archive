@@ -110,5 +110,15 @@ order: 16
 category: connect
 uri: /connect/los-angeles-neighborhood-initiative-lani/
 year: 2016
+projects:
+  - uri: /connect/los-angeles-neighborhood-initiative-lani/
+    category: connect
+    title: 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
+    project_description: >-
+      LANI and the Urban Forestry Division will work hands-on with community
+      members to guide them through the process of repairing their cracked
+      sidewalks, making the streets of Los Angeles safer for all.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 
 ---

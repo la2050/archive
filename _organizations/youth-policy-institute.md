@@ -1,139 +1,142 @@
 ---
-title: >-
-  Undermine College Undermatching: Using Technology to Select the Best College
-  Fit for LA's Students
+application_id: '5108617047'
+title: Nuestros Murales Unidos
+project_description: >-
+  Through Nuestros Murales Unidos, communities in Central LA will come together
+  to design public art spaces that reflect the communities themselves and serve
+  as a space for gathering and collaboration.
 organization_name: Youth Policy Institute
 organization_description: Non-profit organization
-organization_website:
-  - www.ypiusa.org
-organization_twitter: YPIUSA
-organization_facebook: ypiusa
-organization_instagram: Ypiusa
+project_video: 'https://youtu.be/__37Jfcwzr8'
+link_newsletter: 'http://www.ypi.org/subscribe/'
+organization_website: www.ypiusa.org
+organization_twitter: ypiusa
+organization_facebook: 'https://www.facebook.com/ypiusa'
+organization_instagram: ypiusa
+link_donate: 'http://www.ypi.org/donate/'
+link_volunteer: 'https://www.ypi.org/volunteer'
 organization_activity: >-
-  YPI ends intergenerational poverty by providing access to high-quality
-  cradle-to-college-and-career services for the whole family.
-project_image: 8915786065741-team91.jpg
-project_video: 'https://www.youtube.com/embed/bBIXPsWICAQ?rel=0&amp;showinfo=0'
-project_description: >-
-  YPI’s College Choice Tool helps students find “best fit” schools for
-  academics, cost, and preference, helping them earn a college degree with less
-  debt.
-project_is_collaboration: 'Yes'
-project_collaborators: >-
-  YPI works with ideas42, the behavioral sciences agency that developed our
-  College Choice tool, along with the following LA Unified School District high
-  schools: Miguel Contreras Learning Complex, Camino Nuevo, New Village Girls
-  Academy, LA Academy of Arts & Enterprise, Larchmont Charter, RFK Community
-  School, STEM Academy, APEX Academy, and Helen Bernstein High School. YPI also
-  partners with UCLA, USC, Cal State Northridge, the Claremont Colleges and UC
-  Berkeley to host college field trips.
-project_applying: '$100,000'
+  YPI works to reduce poverty in Central LA by ensuring families have access to
+  high quality schools and wraparound supportive services, enabling successful
+  transition from cradle to college and career.
+project_proposal_description: >-
+  Nuestros Murales Unidos will activate communities in Pico-Union and Westlake
+  to beautify neighborhoods and unite people through public art, working with
+  local residents and artists to design and paint murals. A summer youth program
+  will work with local businesses to revitalize storefronts, while motivating
+  the next generation of leaders. These works—designed and painted by
+  locals—will connect the community in a collective process and reclaim streets
+  as a collaborative public space.
 project_areas:
   - Central LA
-  - San Fernando Valley
-  - LAUSD
-project_measure: >-
-  Overall outcomes associated with our project include the following:
-
-  * 1,000 low-income students utilize the College Choice Tool and receive
-  services from YPI College Ambassadors or Advisors (approximately 50% 11th
-  graders and 50% 12th graders)
-
-  * 252 students will enroll in college (LA2050 college matriculation metric) 
-
-
-  Each College Ambassador works with 40 students to ensure they graduate from
-  high school and develop a path for postsecondary success. Metrics used to
-  ensure that the above outcomes are met include the following:
-
-
-  * Each student participates in College Knowledge workshops to understand their
-  post-secondary options;
-
-  * Each student utilizes College Choice Tool technology to explore options that
-  are the best fit for their academic achievement and interests;
-
-  * Each enrolled student develops a post-secondary plan with goals, timeline,
-  and specific steps, ensuring they are on track to enter into their selected
-  post-secondary option after they graduate from high school; and
-
-  * Each student participates in small group and individual advising to complete
-  college and financial aid applications, personal statements, and enrollment
-  paperwork.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Technical infrastructure (computers etc.)
-  - 'Community outreach '
-  - Network/relationship support
-  - Quality improvement research
-project_proposal_description: >-
-  Too many low-income students “undermatch” when they apply for college, a
-  situation where well-qualified students apply to less competitive or cheaper
-  schools. They wind up at a community college, for example, when they could
-  have gone to UCLA. YPI’s College Choice Tool technology matches students to
-  the best schools based on their GPA, SAT/ACT scores and interests, resulting
-  in higher college enrollment and completion rates, while reducing student loan
-  debt.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-  - Student education pipeline
+project_proposal_mobilize:
+  - Advocate for policy
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - Connect Angelenos with impactful volunteer opportunities
 project_proposal_best_place: >-
-  For anyone who has gone through it, you know how stressful and daunting the
-  college application process can be. Getting into college takes a lot of time,
-  effort and knowledge about just which colleges you should apply to and which
-  ones may accept you. It’s an overwhelming process culminating in a decision
-  that has long-term effects – college graduates have a lifetime earning
-  potential of $2,927,000 compared to $1,193,000 among high school graduates
-  (Harrington et al, 2010). No pressure, right? Now imagine you’re the first one
-  in your family to apply for college, your parents have an 8th grade education
-  and do not speak English very well, and your school’s college counselor is
-  responsible for serving 700 students. That’s the reality for many of the kids
-  we work with at YPI, and the lack of knowledgeable support results in
-  'undermatching' where, for example, a high school valedictorian accepted to UC
-  Berkeley who opts to enroll in community college due to concerns for cost.
-
-
-  Ironically, the more academically competitive and expensive schools generally
-  offer the most financial aid to low-income students. And academically
-  competitive schools have higher success rates, so a qualified student who
-  selects Harvard over community college is more likely to complete a degree
-  than their undermatched counterpart. 
-
-
-  YPI sees undermatching as an opportunity. We place College Advisors (paid
-  staff) and College Ambassadors (full-time AmeriCorps members) at high-need
-  schools to offer college readiness workshops and 1:1 advising. Advising
-  sessions use YPI’s College Choice Tool technology, in which students input
-  their GPA, SAT/ACT scores, and personal preferences like distance from home,
-  cost, academic reputation, campus feel, and diversity. The Tool then
-  calculates best match schools for each student to reduce undermatching. 
-
-
-  Ambassadors and Advisors served nine schools in 2014-15. In these schools,
-  only 33 students applied to a UC, 107 applied to other CA 4-year schools, and
-  172 applied to a community college. In 2015-16 (the second full year of
-  services with the College Choice Tool) results were dramatically different.
-  106 students applied to a UC, 242 to a CA 4-year college, and 393 to a
-  community college. After the 2-year pilot phase, YPI is ready to expand this
-  program to nine new schools and serve even more students. YPI’s long-term goal
-  is to take our College Choice Tool to scale so that by 2050, all LA high
-  school students, but especially those with limited resources, will have access
-  to this Tool to augment limited college counseling. This will ensure that
-  every LA high school senior is matched to their most competitive and
-  compatible college, resulting in higher college enrollment and graduation
-  rates. This will ensure lifetime financial stability among LA’s youth, making
-  LA not only the best place to LEARN, but the best place to PLAY, CREATE,
-  CONNECT, and LIVE – all feasible thanks to the foundation of LEARNING.
-link_newsletter: 'http://www.ypiusa.org/blog'
-link_volunteer: 'http://www.ypiusa.org/volunteer'
-link_donate: 'https://ypiusa.nationbuilder.com/donate'
-plan_id: 84000
-order: 73
-category: learn
-uri: /learn/youth-policy-institute/
-year: 2016
+  Nuestros Murales Unidos will paint five neighborhoods in Central Los Angeles
+  with public art, fostering connection through a collective process and
+  depictions of community pride in public space. We will work in Pico-Union and
+  Westlake, bringing the community together to choose five areas to turn into a
+  “museum mile,” each featuring 2-4 murals. YPI’s Community Engagement
+  Coordinator will work closely with local artists, including YPI’s partner Juan
+  Reyes, to activate residents and work together towards designs that showcase
+  community identity and resilience. We will distribute a community feedback
+  form through local schools, YPI afterschool programs, and door-to-door
+  canvassing to get widespread input. Reyes will use this input to make an
+  initial design, which will be available for public review. Parents who are
+  active on YPI’s Safe Routes to School Task Forces will be engaged to give
+  input and activate their friends and family to participate in the mural
+  process. Once a design is finalized, volunteers will work with Reyes at a
+  community event to prepare the wall and paint the mural. The Museum Miles will
+  activate community members at every stage of the process, offering volunteer
+  opportunities and culminating in a large community cultural event in a public
+  space.
+   
+   Nuestros Murales Unidos will also create a summer program for local students to participate in beautification. The program will be run by the Community Engagement Coordinator and held each weekday for an hour. Students will work with local businesses to talk about the appearance of their storefront, offering to repaint shabby exterior walls with simple designs or place decorated potted plants outside. The summer program will activate the next generation of community leaders, empowering students with a sense of responsibility to their community and the tools to take action. Parents and community members will be encouraged to help with designing and creating these smaller works.
+   
+   Throughout the process, we will work with community members and partner organizations to kick off a social media campaign using the artworks as a focal point for community pride. #MuralesUnidos and #OurMurals will give this project a unified online presence, and carry connections created through the design process online. Angelenos across the city will be connected to the art through Facebook, Instagram, and Twitter, and encouraged to start similar projects in their own communities. By offering meaningful volunteer opportunities and cultural events in community spaces, YPI hopes to provide resources for these communities to come together and create something that truly represents them. The collaborative murals will serve as a visual representation of the community’s pride and resilience, as well as the power of collective action. These works—chosen, designed, and painted by locals—will reclaim streets as a collaborative public space, a canvas for public engagement led by a new generation of community leaders.
+project_proposal_engage: >-
+  Nuestros Murales Unidos will create a clear path of engagement, moving from
+  social media interaction to campaigning for change at neighborhood council
+  meetings. The first step will be activating people online, targeting Angelenos
+  countywide to like or share social media posts about the art. The project will
+  activate the local community to post original content about the artworks,
+  including pictures and descriptions of how the art represents them.
+  #MuralesUnidos and #OurMurals will unite content in an online community, and
+  all promotional materials will use the hashtag.
+   
+   
+   
+   The summer program will activate students, administrators, and local business owners, creating partnerships for neighborhood beautification. Business owners will be key stakeholders, and encouraged to engage in other aspects of the project.
+   
+   
+   
+   Local residents will be activated to participate in designing and painting the murals. Bilingual forms will be sent out to students and families, and staff will canvas to widen the project’s reach. This process will emphasize community ownership of the project, and lead to large volunteer turnout at mural creation events.
+   
+   
+   
+   In each neighborhood, we will encourage those who are most passionate to join together in a Task Force that will canvas for community input, rally friends and family to attend events, and campaign for any needed City approval. The Task Force will receive capacity-building training to attend neighborhood council meetings and lead the charge for change.
+project_measure: >-
+  Activation will be tracked at each level of engagement to reach the goal of
+  involving 100,000 Angelenos. Social media impressions for posts by YPI, as
+  well as all related content with #MuralesUnidos and #OurMurals will be tracked
+  weekly, and compiled into Excel sheets that will be analyzed quarterly to
+  determine progress.
+   
+   YPI will track the number of completed community feedback surveys, flyers given to students and families, and community members volunteering at mural events. These numbers will be analyzed in quarterly STAT Reports that track progress towards annual outcomes. Nuestros Murales Unidos will aim to reach 100 community members through canvassing, give flyers to 400 students, and engage 100 volunteers in each area.
+   
+   Additionally, YPI will track the number of student participants in Nuestros Murales Unidos summer program through enrollment forms, with a goal of enrolling 100 students over two years. Students will activate business owners, whose activation will be tracked by the Community Engagement Coordinator. The Community Engagement Coordinator will also be responsible for tracking the number of community members activated in each Task Force, with a goal of 20 community members in total.
+   
+   
+   
+   Successful activation will be defined by a community-driven process and murals made by and for local residents. Our vision of success also includes a widespread social media campaign that will activate Angelenos across the county to reach the goal of engaging 100,000 people.
+project_five_years: >-
+  Nuestros Murales Unidos is only the beginning: in five years, we hope this
+  project will inspire communities across Los Angeles to come together and
+  revitalize their neighborhoods. We envision collaborative public art as a
+  gateway to more community campaigns, led by engaged community leaders who
+  received capacity-building training from Nuestros Murales Unidos. Students
+  activated through our summer program will grow up with a sense of
+  responsibility for their community and lead the drive for change. We hope that
+  murals in Pico-Union and Westlake will make the neighborhoods as visually
+  vibrant as the communities that live there. Residents will take pride in where
+  they live and work together towards a shared vision of the future.
+category_metrics:
+  - Attendance at cultural events
+  - Attendance at public/open streets gatherings
+  - Rates of volunteerism
+category_other:
+  - LA is the healthiest place to LIVE
+category: connect
+uri: /connect/youth-policy-institute/
+order: 32
+project_image: youth-policy-institute.jpg
+year: 2018
+projects:
+  - uri: /connect/youth-policy-institute/
+    category: connect
+    title: Nuestros Murales Unidos
+    project_description: >-
+      Through Nuestros Murales Unidos, communities in Central LA will come
+      together to design public art spaces that reflect the communities
+      themselves and serve as a space for gathering and collaboration.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/youth-policy-institute.jpg
+  - uri: /learn/youth-policy-institute/
+    category: learn
+    title: >-
+      Undermine College Undermatching: Using Technology to Select the Best
+      College Fit for LA's Students
+    project_description: >-
+      YPI’s College Choice Tool helps students find “best fit” schools for
+      academics, cost, and preference, helping them earn a college degree with
+      less debt.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
 
 ---

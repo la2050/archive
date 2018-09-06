@@ -140,5 +140,14 @@ order: 57
 category: connect
 uri: /connect/argo-labs/
 year: 2016
+projects:
+  - uri: /connect/argo-labs/
+    category: connect
+    title: Street Quality Identification Device aka SQUID
+    project_description: >-
+      Providing the world's first comprehensive map of street quality that can
+      automatically update to improve maintenance of YOUR LA streets!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
 
 ---

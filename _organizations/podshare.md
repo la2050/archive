@@ -169,5 +169,15 @@ order: 5
 category: live
 uri: /live/podshare/
 year: 2016
+projects:
+  - uri: /live/podshare/
+    category: live
+    title: Building a Co-living Community for LA's Homeless Youth
+    project_description: >-
+      PodShare builds affordable live/work communities with custom-designed
+      pods, open floor plans, and access to a network of locations to co-live,
+      co-work, and collaborate.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
 
 ---

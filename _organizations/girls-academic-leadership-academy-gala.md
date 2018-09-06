@@ -115,5 +115,15 @@ uri: /learn/girls-academic-leadership-academy-gala/
 order: 8
 project_image: girls-academic-leadership-academy-gala.jpg
 year: 2018
+projects:
+  - uri: /learn/girls-academic-leadership-academy-gala/
+    category: learn
+    title: 'Launch Her Future: Empowering Los Angeles Girls'
+    project_description: >-
+      GALA paves the road for high school girls to engage in project based
+      learning and real world problem solving while supporting them as they
+      become the leaders and innovators in STEM fields of tomorrow.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/girls-academic-leadership-academy-gala.jpg
 
 ---

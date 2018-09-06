@@ -119,5 +119,18 @@ uri: /play/los-angeles-dodgers-foundation/
 order: 3
 project_image: los-angeles-dodgers-foundation.jpg
 year: 2018
+projects:
+  - uri: /play/los-angeles-dodgers-foundation/
+    category: play
+    title: 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
+    project_description: >-
+      The Los Angeles Dodgers Foundation, together with the support of partners,
+      donors, and
+       
+       fans, will activate LA to get more kids, families, and communities active and
+       
+       energized to PLAY!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-dodgers-foundation.jpg
 
 ---

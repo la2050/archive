@@ -125,5 +125,16 @@ uri: /connect/la-forward/
 order: 9
 project_image: la-forward.jpg
 year: 2018
+projects:
+  - uri: /connect/la-forward/
+    category: connect
+    title: >-
+      Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
+      Sustainable Los Angeles
+    project_description: >-
+      LA Forward connects Angelenos with the organizers, policy experts, and
+      coalitions based in disadvantaged communities in order to build a movement
+      for a just, democratic, and sustainable Los Angeles.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/la-forward.jpg'
 
 ---

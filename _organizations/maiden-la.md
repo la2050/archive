@@ -145,5 +145,15 @@ order: 29
 category: create
 uri: /create/maiden-la/
 year: 2016
+projects:
+  - uri: /create/maiden-la/
+    category: create
+    title: 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
+    project_description: >-
+      Maiden LA is an inclusive and expansive county-wide survey of art
+      happenings that in encouraging the use of alternative spaces, considers
+      the city as a platform for generative discourse and exchange.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 
 ---

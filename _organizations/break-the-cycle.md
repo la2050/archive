@@ -129,5 +129,14 @@ order: 65
 category: connect
 uri: /connect/break-the-cycle/
 year: 2016
+projects:
+  - uri: /connect/break-the-cycle/
+    category: connect
+    title: 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
+    project_description: >-
+      Snack runs and social spaces meet technology hubs of information and
+      resources for RealTalk about youth relationships
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
 
 ---

@@ -77,5 +77,17 @@ order: 45
 category: create
 uri: /create/sky-source/
 year: 2016
+projects:
+  - uri: /create/sky-source/
+    category: create
+    title: >-
+      Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
+      Water to the Community 
+    project_description: >-
+      Sky Source's mission is to install atmospheric water generators in
+      communities with low access to clean drinking water, incorporating artwork
+      into the installation, creating an urban drinking fountain
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 
 ---

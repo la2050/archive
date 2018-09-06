@@ -191,5 +191,15 @@ uri: /connect/la-commons-a-project-of-community-partners/
 order: 3
 project_image: la-commons-a-project-of-community-partners.jpg
 year: 2018
+projects:
+  - uri: /connect/la-commons-a-project-of-community-partners/
+    category: connect
+    title: 'A Recipe for a Great City: Home Cooking'
+    project_description: >-
+      Leveraging the power of food and culture, we will entice millennials to
+      engage in planning affordable housing in LA and activate them to run in
+      the 2019 and 2021 Neighborhood Council elections.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/la-commons-a-project-of-community-partners.jpg
 
 ---

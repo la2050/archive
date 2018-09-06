@@ -106,5 +106,17 @@ order: 54
 category: live
 uri: /live/hyphenus-inc-/
 year: 2016
+projects:
+  - uri: /live/hyphenus-inc-/
+    category: live
+    title: >-
+      The coParenter Project: building a healthier Los Angeles two coParents at
+      a time
+    project_description: >-
+      coParenter provides education, resources & tools to help over 150k
+      separated & divorced parents in LA disrupt the onset of ACEs (Adverse
+      Childhood Experiences) and make better decisions for their kids
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 
 ---

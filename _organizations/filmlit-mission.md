@@ -70,5 +70,15 @@ order: 30
 category: learn
 uri: /learn/filmlit-mission/
 year: 2016
+projects:
+  - uri: /learn/filmlit-mission/
+    category: learn
+    title: FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
+    project_description: >-
+      Job Corps LA will host FilmLit™ in facilitating the Barter Skills
+      Curriculum, a program producing marketable, commercial filmlits from the
+      professional efforts of the student body participants.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 
 ---

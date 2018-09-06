@@ -128,5 +128,15 @@ order: 16
 category: learn
 uri: /learn/coalition-for-responsible-community-development/
 year: 2016
+projects:
+  - uri: /learn/coalition-for-responsible-community-development/
+    category: learn
+    title: Community Uniting for Resolution and Empowerment (CURE)
+    project_description: >-
+      A gang alternative sentencing program that redirects youth to productive
+      activities such as education and job training in order to prevent
+      escalation of misdemeanor offenses to felony level.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
 
 ---

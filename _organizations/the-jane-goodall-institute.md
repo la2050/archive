@@ -151,5 +151,17 @@ order: 54
 category: connect
 uri: /connect/the-jane-goodall-institute/
 year: 2016
+projects:
+  - uri: /connect/the-jane-goodall-institute/
+    category: connect
+    title: >-
+      Setting the Stage: Developing Young Angelenos as Community Volunteers for
+      a Lifetime
+    project_description: >-
+      Partnering with key LA schools, Roots & Shoots will connect youth to their
+      communities, build awareness of local issues, empower them through
+      volunteerism, and develop them as compassionate leaders.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 
 ---

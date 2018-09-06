@@ -141,5 +141,15 @@ order: 9
 category: live
 uri: /live/neighborhood-housing-services-of-los-angeles-county/
 year: 2016
+projects:
+  - uri: /live/neighborhood-housing-services-of-los-angeles-county/
+    category: live
+    title: 'Center for Sustainable Communities '
+    project_description: >-
+      Built on the site of a blighted grocery store in Compton, the 28,000 sq ft
+      Center will serve as a hub for nonprofits and feature small business
+      incubators, a health clinic, and community gardens.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4742887015741-team89.jpg
 
 ---

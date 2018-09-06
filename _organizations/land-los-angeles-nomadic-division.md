@@ -141,5 +141,15 @@ order: 27
 category: create
 uri: /create/land-los-angeles-nomadic-division/
 year: 2016
+projects:
+  - uri: /create/land-los-angeles-nomadic-division/
+    category: create
+    title: Jose Dávila Public Art Project
+    project_description: >-
+      LAND creates free opportunities for residents to engage with contemporary
+      art in public spaces in over 20 LA neighborhoods by commissioning a Jose
+      Dávila sculpture and presenting community-led events.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 
 ---

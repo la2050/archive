@@ -142,5 +142,16 @@ order: 5
 category: learn
 uri: /learn/continuous-good/
 year: 2016
+projects:
+  - uri: /learn/continuous-good/
+    category: learn
+    title: >-
+      Branding While Broke presents BRANDNEW YOUth, A Brand Development Program
+      for Male Teens of Color.
+    project_description: >-
+      BRANDNEW YOUth is a 6-week brand development program for male teens of
+      color.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 
 ---

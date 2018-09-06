@@ -132,5 +132,17 @@ order: 67
 category: learn
 uri: /learn/the-help-groups-stem3-academy/
 year: 2016
+projects:
+  - uri: /learn/the-help-groups-stem3-academy/
+    category: learn
+    title: >-
+      The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for
+      Special Learners! 
+    project_description: >-
+      Breaking barriers to STEM education and future life options for children
+      diagnosed with autism spectrum disorder, ADHD and other special needs
+      through engaging camps in robotics, coding & computers.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 
 ---

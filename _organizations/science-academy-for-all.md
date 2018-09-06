@@ -139,5 +139,17 @@ uri: /live/science-academy-for-all/
 order: 25
 project_image: science-academy-for-all.jpg
 year: 2018
+projects:
+  - uri: /live/science-academy-for-all/
+    category: live
+    title: >-
+      New Obesity War (NOW) led by mentor trained kids to change the lifestyle
+      of their families.
+    project_description: >-
+      Kids (Elementary to high school) would be mentored for project based
+      research on different foods to lead their families for healthy lifestyle
+      change and reduce obesity.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
 
 ---

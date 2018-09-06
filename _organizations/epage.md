@@ -122,5 +122,17 @@ order: 6
 category: play
 uri: /play/epage/
 year: 2016
+projects:
+  - uri: /play/epage/
+    category: play
+    title: >-
+      Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
+      new child safety service
+    project_description: >-
+      Gaggle uses a fun wearable beacon combined with a mobile app to create a
+      revolutionary new child safety service to help monitor large groups of
+      students on school field trips.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
 
 ---

@@ -119,5 +119,15 @@ order: 42
 category: learn
 uri: /learn/public-health-foundation-enterprises/
 year: 2016
+projects:
+  - uri: /learn/public-health-foundation-enterprises/
+    category: learn
+    title: Little by Little School Readiness Program
+    project_description: >-
+      Administered through the WIC program, Little by Little is an
+      evidence-based early (ages 0 to 5) literacy program that significantly
+      improves school readiness for low-income children in Los Angeles.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
 
 ---

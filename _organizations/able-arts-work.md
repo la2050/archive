@@ -115,5 +115,14 @@ uri: /connect/able-arts-work/
 is_winner: true
 is_finalist: true
 year: 2016
+projects:
+  - uri: /connect/able-arts-work/
+    category: connect
+    title: 'Artbeat Radio '
+    project_description: >-
+      To expand our Artbeat Radio broadcast, created, hosted and produced by
+      people with intellectual disabilities on the road
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
 
 ---

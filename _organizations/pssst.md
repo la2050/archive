@@ -146,5 +146,15 @@ order: 35
 category: create
 uri: /create/pssst/
 year: 2016
+projects:
+  - uri: /create/pssst/
+    category: create
+    title: 'PSSST 2017: Artists Supporting Artists  '
+    project_description: >-
+      PSSST will amplify Los Angeles’ role as an international arts center by
+      expanding our 2017 interdisciplinary programming, which is driven by the
+      concept of artists supporting artists.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 
 ---

@@ -78,5 +78,14 @@ order: 21
 category: create
 uri: /create/silvermotion-inc-/
 year: 2016
+projects:
+  - uri: /create/silvermotion-inc-/
+    category: create
+    title: 'eQuiz: Fun and Free Trivia App'
+    project_description: >-
+      eQuiz is a fun and free trivia app that brings the world together through
+      knowledge. eQuiz looks to grow and employ people in the LA community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
 
 ---

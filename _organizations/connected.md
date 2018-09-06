@@ -116,5 +116,17 @@ order: 9
 category: learn
 uri: /learn/connected/
 year: 2016
+projects:
+  - uri: /learn/connected/
+    category: learn
+    title: >-
+      Careers Come Alive Virtually  in the Classroom by Connecting Students,
+      Teachers & Workplace Experts
+    project_description: >-
+      Through a media-rich, technology-based platform powered by students,
+      teachers, and business/labor/nonprofit, this project brings an array of
+      thriving LA careers to life in high school classrooms.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 
 ---

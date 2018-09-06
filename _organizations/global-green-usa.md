@@ -119,5 +119,15 @@ order: 40
 category: live
 uri: /live/global-green-usa/
 year: 2016
+projects:
+  - uri: /live/global-green-usa/
+    category: live
+    title: Los Angeles Resilience Hubs - Developing a Model for a Resilient City
+    project_description: >-
+      Developing regionally appropriate model Resilience Hubs so Los Angeles
+      residents can safely and quickly bounce back from extreme weather events
+      and natural disasters.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
 
 ---

@@ -122,5 +122,15 @@ category: create
 uri: /create/relational-medicine-foundation/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /create/relational-medicine-foundation/
+    category: create
+    title: 'Art from the Heart: an Art and Movement Therapy Program'
+    project_description: >-
+      The Foundation empowers patients and improves the humanism of patient care
+      through its dedication to the “relationally present” person-to-person
+      encounter between patient and healthcare professionals
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
 
 ---

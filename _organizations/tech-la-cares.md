@@ -184,5 +184,15 @@ order: 19
 category: learn
 uri: /learn/tech-la-cares/
 year: 2016
+projects:
+  - uri: /learn/tech-la-cares/
+    category: learn
+    title: Connecting LA Tech Companies with Area STEM Organizations
+    project_description: >-
+      Tech LA Cares (TLC) aims to connect LA tech companies with volunteer
+      opportunities at area STEM organizations in order to faciliate a more
+      diverse future workforce for LA.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 
 ---

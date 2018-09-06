@@ -103,5 +103,15 @@ order: 60
 category: learn
 uri: /learn/encorps-inc-/
 year: 2016
+projects:
+  - uri: /learn/encorps-inc-/
+    category: learn
+    title: 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
+    project_description: >-
+      EnCorps STEM Teachers addresses the conditions severely limiting low
+      income, under-resourced, and minority student opportunities by
+      transitioning outstanding STEM professionals into public education.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3863693255741-team91.jpg
 
 ---

@@ -135,5 +135,17 @@ order: 31
 category: learn
 uri: /learn/first-place-for-youth/
 year: 2016
+projects:
+  - uri: /learn/first-place-for-youth/
+    category: learn
+    title: >-
+      First Place: Providing at-risk foster youth with the skills they need to
+      be college and career ready
+    project_description: >-
+      First Place for Youth provides at-risk foster youth, ages 18 to 24, with
+      intensive education and employment support so that they can improve their
+      lives and become self-sufficient.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 
 ---

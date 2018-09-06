@@ -124,5 +124,13 @@ uri: /create/brioxy/
 order: 2
 project_image: brioxy.jpg
 year: 2018
+projects:
+  - uri: /create/brioxy/
+    category: create
+    title: Brioxy Builds Los Angeles’ Creative Cerebro for Artists of Color
+    project_description: >-
+      We close the opportunity gap for innovators of color by training them to
+      build and run strong organizations in the communities they grew up in.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/brioxy.jpg'
 
 ---

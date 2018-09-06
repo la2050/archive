@@ -1,136 +1,150 @@
 ---
-application_id: '2495556897'
-title: >-
-  Making LA the Best Place to Connect Angelenos to Support a Strong Start for
-  Niñitos
-project_description: >-
-  Children Now will support thousands of Angelenos to voice their support for
-  quality care and education for LA’s babies.
+title: Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
 organization_name: Children Now
 organization_description: Non-profit organization
-project_video: ''
-link_newsletter: 'http://bit.ly/prokidca'
-organization_website: www.childrennow.org
-organization_twitter: '@ChildrenNow'
-organization_facebook: Children-Now-224016820554/
-organization_instagram: ''
-link_donate: 'http://bit.ly/supportcn'
-link_volunteer: 'http://bit.ly/prokidcajobs'
+organization_website:
+  - www.childrennow.org
+organization_twitter: ChildrenNow
+organization_facebook: Children-Now-224016820554
+organization_instagram: N/A
 organization_activity: >-
-  Children Now is LA County’s whole-child, non-partisan research, policy,
-  advocacy and network-building organization dedicated to improving children’s
+  Children Now is LA County’s “whole child” non-partisan research, policy,
+  advocacy and network building organization dedicated to improving children’s
   health, early development, education, and welfare.
-project_proposal_description: >-
-  Too often in LA, children—especially children of color, children in foster
-  care, and those growing up in poverty—face many systemic barriers to a healthy
-  early start. In order to build the public pressure necessary to push
-  policymakers to ensure all young kids have the supports they need to thrive in
-  their first years, Children Now will execute a communications campaign to
-  educate, connect, and mobilize Angelenos behind a strong vision for LA’s
-  babies.
+project_image: 9146110265741-team88.jpg
+project_video: 'https://www.youtube.com/embed/QpfhY-eA-N8?rel=0&amp;showinfo=0'
+project_description: >-
+  Children Now will bring together thousands of voices in LA County to promote
+  cross-sector collaboration and demand large-scale change to prevent childhood
+  trauma and reduce its impact on kids.
+project_is_collaboration: 'No'
+project_collaborators: NA
+project_applying: '$100,000'
 project_areas:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-project_proposal_mobilize:
-  - Advocate for policy
-  - Digital organizing or activism
-project_proposal_best_place: >-
-  In the first three years of a child’s life, foundational brain architecture is
-  established, making children’s earliest experiences the most important. The
-  creation of healthy brain architecture is dependent on good health, positive
-  and nurturing relationships with adults, exposure to enriching learning
-  opportunities, and safe neighborhoods. Yet, many of LA’s babies don’t receive
-  the supports they need for a health start. 
-   
-   
-   
-   Children Now is committed to supporting and connecting the incredible constituency power that exists in LA to influence state and local policymaking in favor of our youngest kids. Policymakers are paying too little attention and allocating too few resources to those formative early years. We will execute a multi-faceted communications plan to raise awareness, build public support, and activate Angelenos behind a social media campaign in support of quality care, education and experiences for all of LA’s babies. 
-   
-   
-   
-   Children Now will leverage its reach to hundreds of organizations and businesses in LA County through The Children’s Movement, a network of more than 470 direct service, business, parent, civil rights, faith-based and community-based organizations dedicated to improving the lives of kids, as well as use social media analytics to identify key organizations and businesses to promote messaging on early brain and social emotional development. Among this group, we will select key organizations and businesses that have a strong social media presence in LA to partner on social media content distribution. By coordinating the social media reach of hundreds of organizations behind one campaign, we will increase social media connections among Angelenos.
-   
-   
-   
-   Once our influencer network is established, Children Now will develop and disseminate weekly content and toolkits for social media influencers to share online and to educate reporters on infant and toddler issues. This content will include:
-   
-   
-   
-   * Infographics highlighting key data and statistics on the need for strong supports for early brain development and social emotional development; 
-   
-   * Video blog posts on early brain development and social emotional development for young children;
-   
-   * Shareable memes and photos with data points highlighting the need for better supports for infants and toddlers; 
-   
-   * Links to partners’ and researchers’ reports and materials that highlight infant and toddler issues; and
-   
-   * Social media posts targeted at key state and LA County candidates of the 2018 election.
-   
-   
-   
-   Our social media push will target window of opportunity for Angelenos to help push California’s gubernatorial and other state and local candidates to prioritize young children and, further, to stick to his or her campaign promise to support young children and to develop a plan to move forward on a comprehensive system of support for babies.
-project_proposal_engage: >-
-  Social media can be a powerful tool to connect and engage with the general
-  public to convey a powerful message, however, it can be difficult to break
-  through the “noise” to reach a wide audience. If all of the LA-based direct
-  service, business, parent, civil rights, community, and faith-based groups
-  that care about young children were connected and spoke with a unified voice,
-  there would be significant policy changes for kids in LA, and infant and
-  toddler outcomes would dramatically improve. Children Now has already
-  established a network of these groups through The Children’s Movement. We will
-  engage the more 470 members in LA County in this network. Engaging groups with
-  existing, large social media followings is a key strategy for maximizing reach
-  to a broader audience. So, in addition, we use social media analytics to
-  identify influencers with a strong interest in early childhood development to
-  further our messaging. 
-   
-   
-   
-   We will educate this influencer network on the need for early childhood supports and services in LA County through our toolkits and give them the content needed to engage their social media followers in a campaign for early childhood development in LA County. We will use tools such as hashtags, Thunderclaps, and Twitter Chats to generate buzz around the campaign. The network will also have opportunities to weigh in with candidates and policymakers through issue awareness and sign on campaigns.
+  - County of Los Angeles
 project_measure: >-
-  Children Now’s ultimate goal is for policymakers to take action on a unified,
-  long-term policy plan for a comprehensive system of support for infants and
-  toddlers. Our key objective for this activation is to connect LA voices to
-  demonstrate the strong support for infants, toddlers and their families. For
-  this project, we will measure our success by the following metrics:
-   
-   
-   
-   - Number of LA social media influencers engaged with to join our infant and toddler support network.
-   
-   - Estimated reach of social media influencers that have shared key posts, resources and advocacy tools and participated in related Twitter Chats on infants and toddlers.
-   
-   - Number of resources, including infant and toddler infographics, one-page snapshots, video blogs, graphics and memes, that are developed and disseminated.
-   
-   - Number of LA stakeholders and partners informed by the Children Now-developed infant and toddler policy roadmap http://bit.ly/start1ngnow. 
-   
-   - Number of LA groups and individuals that participate in Children’s Movement campaigns including sign on statements and communications to policymakers. 
-   
-   - Number of infant and toddler social media posts that are targeted at key LA County state candidates of the 2018 election.
-project_five_years: >-
-  This activation is a key component of our broader agenda to develop and
-  sustain a comprehensive, family-centered, high quality early learning system
-  that is accessible to all children and families, particularly those living in
-  poverty. Public awareness and support building is a crucial piece of putting
-  pressure on LA policymakers to make real change for young children. LA is the
-  ideal place to be the most connected for children’s advocacy, because if the
-  policy change is scaled here, there is no excuse for not scaling it throughout
-  California, and, then, given California’s size and diversity, throughout the
-  country. 
-   
-   
-   
-   We know achieving the vision of a comprehensive, family-centered, high quality early learning system won’t happen overnight. There will be many steps in the process, and we need to keep a network of dedicated Angelenos engaged throughout. In five years, our goal is that Children Now will move from significantly elevating an aspirational policy and advocacy vision for integrated infant and toddler supports in LA to achieving key policy wins on components of the vision, such as increasing the number of LA babies that are screened for developmental delays, improving the availability of voluntary home visiting programs for families that need them, providing support for young children who are dual language learners, addressing maternal mental health, and continuing to educate and engage our network to see the vision fully realized.
-category_metrics:
-  - Government responsiveness to residents’ needs
-  - Total number of local social media friends and connections Angelenos have
-category_other:
-  - LA is the best place to LEARN
-category: connect
-uri: /connect/children-now/
-order: 28
-project_image: children-now.jpg
-year: 2018
+  Our ultimate goal is to improve LA kids’ lives by minimizing incidences of
+  trauma and reducing the impact when it occurs.  Our success will be measured
+  by the reduction in the number of children who have Adverse Childhood
+  Experiences and the increase in the number of children who have access to the
+  supports and services they need to prevent or heal from trauma, including
+  health coverage and access to mental health services. We will track
+  county-level data over time to see whether our efforts are successful. We
+  already regularly track this kind of data through our California Scorecard of
+  Children’s Wellbeing (http://scorecard.childrennow.org/2014/), and will
+  highlight LA County trauma related indicators.
+
+
+  In the short-term, we will measure success by the size and diversity of the
+  coordinated trauma advocacy network. We will track the number of groups and
+  individuals that join the network and participate in public support campaigns,
+  including sign on statements and communications to policy makers. To measure
+  the impact of the public support campaign, we will track the number of
+  targeted communications that are produced by the advocacy network and for
+  local policymakers, qualitative data on local policy decisions that are made
+  based on our efforts, and traditional and social media produced as well as the
+  reach of those communications.
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
+project_proposal_description: >-
+  Too many LA children experience frequent traumatic events that can be toxic
+  and lead to a lifetime of physical and emotional challenges. Children Now will
+  bring together thousands of voices in LA County to promote a comprehensive
+  policy agenda to reduce childhood trauma and ensure the needed supports for
+  kids who experience it. The power of these voices will be demonstrated through
+  a public support campaign and advocacy around specific policy changes.
+project_proposal_impact:
+  - Healthcare access
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
+project_proposal_best_place: >-
+  Traumatic events in a child's life such as abuse, neglect and neighborhood
+  violence can be toxic and lead to a lifetime of health consequences such as
+  heart disease, diabetes, and depression, as well as social consequences such
+  as academic failure, homelessness, victimization, and crime. Too many kids
+  that experience trauma lack the supports and services they need to heal and
+  thrive, are placed into the foster care system or end up arrested or homeless.
+
+
+  In LA County, there are currently 28,000 youth in foster care. In 2013, more
+  than 500 LA County children under age 4 were hospitalized for intentional
+  injuries. In 2014, nearly 7,000 kids under 18 were arrested. And based on
+  state estimates, over 418,400 kids in LA County have had at least two Adverse
+  Childhood Experiences (ACEs) in their lives.
+
+
+  The LA community already has the power to address this problem – it just needs
+  to be harnessed and coordinated. Hundreds of LA agencies, organizations,
+  congregations, coalitions, businesses and community leaders serve or support
+  children and want them to grow up trauma-free. There are many promising
+  practices that can prevent trauma, build resilience in kids and heal those
+  that have had ACEs. The problem is that these groups are often disconnected
+  from each other or lack the support to scale what is working.
+
+
+  Children Now will connect all of these groups under our 'Pro-Kid' frame to
+  build a strong base of support to achieve scalable change. Our team has
+  decades of relevant experience to develop and advance policy solutions to
+  prevent and address the impact of trauma across early childhood, health care,
+  child welfare, and education systems. We lead The Children's Movement, a
+  network which includes 385 diverse organizations in LA County dedicated to
+  making kids California's #1 priority.
+
+
+  To move toward a trauma-free LA for kids by 2050, we will engage Movement
+  members, and hundreds of other groups across early childhood, health,
+  education, and child welfare fields to speak with one united voice for needed
+  policy solutions. We'll learn from local efforts and leverage our policy
+  knowledge to develop a comprehensive cross-sector agenda that outlines
+  concrete steps to reduce the number of kids, 0-18, who experience the
+  consequences of trauma. These policy changes will include expanding voluntary
+  early childhood home visiting programs, increasing access to mental health
+  services, creating targeted education supports for foster youth, reducing
+  juvenile criminalization, reforming school discipline practices, etc .
+
+
+  We will create a public support campaign to raise awareness about the profound
+  impacts of childhood trauma in LA. We will recruit hundreds of supporters who
+  will be publicly listed to demonstrate the strength of support behind this
+  agenda. It will be used to urge the LA County Board of Supervisors, school
+  districts, and other LA policymakers to take action on the agenda and make
+  real change to make LA the Best Place to Live for kids.
+link_newsletter: 'http://prokid.info/cn-join'
+link_volunteer: 'http://prokid.info/jobs-cn'
+link_donate: 'https://www.childrennow.org/#donate'
+plan_id: 84301
+order: 37
+category: live
+uri: /live/children-now/
+year: 2016
+projects:
+  - uri: /live/children-now/
+    category: live
+    title: Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
+    project_description: >-
+      Children Now will bring together thousands of voices in LA County to
+      promote cross-sector collaboration and demand large-scale change to
+      prevent childhood trauma and reduce its impact on kids.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
+  - uri: /connect/children-now/
+    category: connect
+    title: >-
+      Making LA the Best Place to Connect Angelenos to Support a Strong Start
+      for Niñitos
+    project_description: >-
+      Children Now will support thousands of Angelenos to voice their support
+      for quality care and education for LA’s babies.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/children-now.jpg
 
 ---

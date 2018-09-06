@@ -107,5 +107,17 @@ order: 22
 category: learn
 uri: /learn/wisdom-arts-laboratory/
 year: 2016
+projects:
+  - uri: /learn/wisdom-arts-laboratory/
+    category: learn
+    title: >-
+      Cultivating Creative Students opens up creative fields to Los Angeles high
+      school students.
+    project_description: >-
+      Cultivating Creative Students provides creative college prep support — 
+      college counseling and portfolio coaching — to high school students
+      lacking financial resources.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 
 ---

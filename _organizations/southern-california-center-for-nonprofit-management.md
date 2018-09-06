@@ -137,5 +137,17 @@ order: 55
 category: connect
 uri: /connect/southern-california-center-for-nonprofit-management/
 year: 2016
+projects:
+  - uri: /connect/southern-california-center-for-nonprofit-management/
+    category: connect
+    title: >-
+      SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
+      interconnectedness
+    project_description: >-
+      The Center for Nonprofit Management will strategically promote
+      opportunities for connectivity, sharing and innovation for social
+      innovators working for positive change across Los Angeles
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 
 ---

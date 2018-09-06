@@ -132,5 +132,17 @@ order: 47
 category: create
 uri: /create/zeneith-performing-arts/
 year: 2016
+projects:
+  - uri: /create/zeneith-performing-arts/
+    category: create
+    title: >-
+      The Inner City Dance Project: Teaching professional dance and theater to
+      LA’s inner city youth
+    project_description: >-
+      The Inner City Dance Project is a dance and theater intensive that will
+      provide professional performing arts training for 50 middle school, high
+      school, and foster youth in the inner city of LA.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6990906684741-team91.jpg
 
 ---

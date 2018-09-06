@@ -146,5 +146,17 @@ uri: /play/the-brady-center-to-prevent-gun-violence/
 order: 7
 project_image: the-brady-center-to-prevent-gun-violence.jpg
 year: 2018
+projects:
+  - uri: /play/the-brady-center-to-prevent-gun-violence/
+    category: play
+    title: >-
+      Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
+      Apple” Gun Dealers
+    project_description: >-
+      The Brady Center to Prevent Gun Violence will educate and empower Los
+      Angelenos to take meaningful action to stem the flow of crime guns and end
+      gun violence in the community.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 
 ---

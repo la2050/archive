@@ -127,5 +127,17 @@ order: 40
 category: connect
 uri: /connect/southern-california-public-radio-kpcc/
 year: 2016
+projects:
+  - uri: /connect/southern-california-public-radio-kpcc/
+    category: connect
+    title: >-
+      #MeetSoCal: A KPCC In Person event series of in-community experiences to
+      better connect Angelenos
+    project_description: >-
+      With #MeetSoCal, KPCC will explore LA County’s diverse and changing
+      neighborhoods through the eyes of Angelenos to inform our coverage, foster
+      robust public conversation, and connect our communities.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 
 ---

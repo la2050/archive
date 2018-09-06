@@ -95,5 +95,17 @@ order: 43
 category: live
 uri: /live/new-directions-for-youth-inc/
 year: 2016
+projects:
+  - uri: /live/new-directions-for-youth-inc/
+    category: live
+    title: >-
+      NDY Health & Recreation Center: Creating a Healthier and Resilient Los
+      Angeles
+    project_description: >-
+      The NDY Health & Recreation Center will provide health and fitness
+      programs for high-risk youth and families while providing job training and
+      employment for underserved youth in the community.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2516729815741-team90.png
 
 ---

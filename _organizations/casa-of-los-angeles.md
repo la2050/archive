@@ -1,126 +1,121 @@
 ---
-title: College Collaborative for Foster Care Youth
+application_id: '7526475154'
+title: 'Youth to Youth: Helping Young Adults Exit Foster Care'
+project_description: >-
+  CASA of Los Angeles is recruiting graduate-level college students to help
+  young adults in foster care exit the system and build thriving and independent
+  lives.
 organization_name: CASA of Los Angeles
 organization_description: Non-profit organization
-organization_website:
-  - casala.org
-organization_twitter: casaofla
-organization_facebook: CASAofLA
-organization_instagram: casa.la
-organization_activity: >-
-  CASA recruits and trains volunteers to advocate for abused and neglected
-  children in Los Angeles County's foster care system.
-project_image: 7481336294741-team91.jpg
-project_video: 'https://www.youtube.com/embed/3qC3k8bY6A0?rel=0&amp;showinfo=0'
-project_description: >-
-  Help CASA build an organizational collaborative to help more youth in foster
-  care attend college.
-project_is_collaboration: 'Yes'
-project_collaborators: >-
-  Prospective Collaborators: First Star, Guardian Scholars, United Friends of
-  Children, local universities and colleges
-project_applying: '$50,000'
-project_areas:
-  - County of Los Angeles
-project_measure: >-
-  In order to track case progress for those youth who are assigned a CASA
-  volunteer, CASA has recently transitioned to Efforts­-to­-Outcomes (ETO)
-  Impact Software Solution, which is a web­ based, centrally managed application
-  that allows staff to capture and review real­ time data for analysis and
-  reporting on efforts, outcomes, and participant progress. With the
-  implementation of ETO, we aim to: (1) improve the ways in which we capture,
-  measure and assess our activities; and (2) improve the CASA volunteer
-  experience through better recruitment, training and retention. ETO is the
-  beginning of outcomes measurement at CASA. When a case is assigned, both the
-  Senior Program Coordinator and the CASA volunteer examine the case and rate
-  the status and level of risk of the child on a baseline scale along the three
-  core dimensions of safety, permanency and well-­being. We now document in the
-  database the initial assessment related to these dimensions; the advocacy
-  goals and plans (steps and procedures to be implemented); the degree to which
-  the plan is then implemented; and how the assessment of safety, permanency,
-  and well­being measures changes over time. 
-
-
-  Over the course of the grant period, CASA will 1) Establish three Memorandum
-  of Understandings (MOUs) with other post­-secondary agencies and institutions;
-  2) Serve 30 youth aged 14­-20 with Post-Secondary Advocacy; and 3) Develop and
-  implement the Post­-Secondary Resources core training, which will be completed
-  by 30 volunteers.
-project_proposal_help:
-  - 'Money '
-  - Volunteers
-  - Advisors/board members
-  - Publicity/awareness
-  - 'Education/training '
-  - 'Community outreach '
-  - Network/relationship support
-project_proposal_description: >-
-  CASA of Los Angeles is making a high-level commitment to expand the
-  educational support our volunteers provide to foster youth through the College
-  Collaborative. CASA/LA will establish formal collaborations with local
-  partners to provide post-secondary readiness and support for abused and
-  neglected youth, and will develop a training for CASA volunteers to better
-  coordinate these partnerships. CASA will serve at least 30 additional foster
-  youth in Los Angeles County through this advocacy.
-project_proposal_impact:
-  - College completion
-  - College matriculation rates
-  - District-wide graduation rates
-project_proposal_best_place: >-
-  The comprehensive 2011 study “Young Adult Outcomes of Youth Exiting Dependent
-  or Delinquent Care in Los Angeles County,” supported by the Conrad N. Hilton
-  Foundation,  found that older youth in the care system are much more likely to
-  remain there without ever achieving permanency. Over 30% of children who
-  entered the system above the age of 12 aged out. Subsequently, by the time
-  they are approaching the age of emancipation from care, they are also more
-  likely to have endured multiple placements, leading to lost personal
-  connections, a disruption of health services, and often, several changes in
-  school which is extremely detrimental to both academic and social development.
-  According to the study, of the youth aging out of the foster care system in
-  Los Angeles County, one third experienced extreme poverty, 20% received
-  outpatient mental health services, 25% spent time in jail, and only 25% were
-  consistently employed. 
-
-
-  All of these issues—challenges to maintaining educational continuity and
-  meeting grade level standards in high school, failure to secure a permanent
-  placement, as well as basic dependency care transition and independent living
-  issues—converge when foster youth approach post-secondary education, so it is
-  unsurprising that the Alliance for Children’s Rights found that only 3% of Los
-  Angeles County foster youth graduate from college.  Equally important is the
-  statistic that 70% of foster youth want to pursue a higher education. So
-  what’s happening to this missing 67%, between the hope to attend and graduate
-  from college and the failure to do so?
-
-
-  As many CASA of Los Angeles success stories, and other success stories around
-  the country, demonstrate, despite the serious challenges foster youth face,
-  they can do it. But they can't do it alone. The critical relationship between
-  higher educational attainments and more positive long-term outcomes for foster
-  youth clearly indicated by the Hilton funded study is a powerful incentive to
-  implement more effective strategies that address these missed opportunities.
-  CASA intends to raise awareness around this important issue within the
-  dependency care system, and with the support of other post-secondary programs,
-  to facilitate more foster care youth attending college. 
-
-
-  From the standpoint of the CASA, there is probably no other role in the
-  dependency care system better suited for this level of advocacy. Because CASAs
-  work with the youth one-on-one, and many hold the educational rights of the
-  youth they serve, CASAs are able to make recommendations to the Court to
-  request for services and supports to enable youth to participate in
-  post-secondary preparation activities, and to better promote those
-  opportunities in all areas of their life. By working directly with the youth’s
-  teachers, counselors, case workers, attorneys, and care givers, CASAs help
-  establish networks of support and services around educational opportunities
-  for these youth, increasing their likelihood of educational success.
-link_newsletter: 'http://casala.org/category/e-newsletters/'
-link_volunteer: 'http://casala.org/volunteer/'
+project_video: 'https://youtu.be/nUykHHtLIHo'
+link_newsletter: 'http://casala.org/connect/'
+organization_website: www.casala.org
+organization_twitter: '@casaofla'
+organization_facebook: 'https://www.facebook.com/CASAofLA/'
+organization_instagram: '@casa.la'
 link_donate: 'http://casala.org/donate-money/'
-plan_id: 83936
-order: 12
-category: learn
-uri: /learn/casa-of-los-angeles/
-year: 2016
+link_volunteer: 'http://casala.org/volunteer/'
+organization_activity: >-
+  CASA of Los Angeles serves children and youth in the dependency and foster
+  care systems who have
+   
+   experienced abuse and neglect with volunteer-based advocacy.
+project_proposal_description: >-
+  Through the LA2050 challenge, CASA/LA is looking to activate college students
+  to work as court-appointed volunteers helping older youth in foster care, aged
+  18-21, exit out of the system. The Youth to Youth volunteers will help these
+  young adults secure safe and permanent housing, and connect them with
+  educational and training opportunities. But most importantly, they will make
+  sure the young adults in extended foster care have all the tools in place to
+  live independent and successful lives.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_proposal_mobilize:
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
+  Exiting out of foster care can be a terrifying experience. For many young
+  adults who have elected to stay in extended foster care, it will be their
+  first time living on their own. Most of these young people have no support
+  network, and no one to help them adjust to an ever complicated world. But they
+  can have a CASA. It's our job to recruit more Court Appointed Special
+  Advocates to support these youth, and it's our community's opportunity to show
+  up for them and say, "You are not alone."
+   
+   
+   
+   There are over 2,500 youth in Extended Foster Care in Los Angeles. In the next year or two, they will exit the system, and without help, their futures are challenging. According to a 2011 study, of the youth who age out of foster care in Los Angeles County, one third experienced extreme poverty, 20% received outpatient mental health services, 25% spent time in jail, only 25% were consistently employed, and nearly 40% become homeless. Only 4% will graduate from college. Additionally, young men and women of color are particularly over-represented in this system, and frequently struggle to access and maintain services available to them to help them successfully gain independence. 
+   
+   
+   
+   CASA volunteers are critical in helping these young adults negotiate the gauntlet of paperwork, meetings, and phone calls needed in order to access critical social and victim services. CASA of Los Angeles currently serves 100 of these young adults with intensive advocacy, and is launching programming to serve significantly more. This is an opportunity to support young adults in taking charge of their lives and futures — working with them on relationships, problem solving, personal responsibility and skill building to ensure they will thrive. As the students in the Cal State systems reflect the diversity of LA, this program will not only help to better support young men and women of color in the dependency care system, but will target recruitment of more culturally diverse volunteers. Through this project, CASA will recruit youth to serve youth. By training graduate level college students to help young adults exit out of foster care, we will be activating more young Los Angelenos in life-changing volunteer work. But most importantly, we will be helping to change the lives of young people who just need one person to help them succeed.
+project_proposal_engage: >-
+  CASA/LA has long realized how important it is to connect with younger members
+  of the LA community, offering them an opportunity to not only change their
+  life, but to change the life of a youth in foster care. The youth served by
+  CASA/LA have entered the Los Angeles County juvenile dependency system because
+  of abuse and neglect by their parents or caregivers. CASA/LA not only works to
+  promote the permanency, safety, and well-being of youth who have experienced
+  abuse and neglect, we are advancing justice amongst the most vulnerable young
+  adults in the system. It is well-documented that child welfare struggles with
+  racial, ethnic, and economic equity. A 2004 study found that in addition to
+  being the largest system in the nation, Los Angeles County also has a
+  disproportionate number of African American children in the system in
+  comparison to their population size within the region. In 2016, 25% of
+  children in DCFS were African-American (compared to 38% served by CASA).
+  Throughout LA County, only 7.5% of all children were African-American. Over
+  the last several years, CASA has developed specific recruitment strategies in
+  order to better diversify our CASA volunteers. In the last year, CASA was
+  proud to report that 36% of CASAs recruited were people of color. Through the
+  Youth to Youth program, CASA/LA will recruit significantly more volunteers
+  from more diverse environments to serve as peer-to-peer mentors for some of
+  the most vulnerable youth in care.
+project_measure: >-
+  In 2016, CASA/LA completed the full implementation and training for our new
+  monitoring database Efforts to Outcomes (ETO) Social Solutions, which provides
+  a way to track case progress, and is the beginning of outcomes measurement at
+  CASA. When a case is assigned, both the Advocate Supervisors and the CASA
+  volunteer examine the case and rate the status and level of risk of the child
+  on a baseline scale along the three core dimensions of safety, permanency and
+  well being. We are documenting in the database the initial assessment related
+  to these dimensions; the advocacy goals and plans (steps and procedures to be
+  implemented); the degree to which the plan is then implemented; and how the
+  assessment of safety, permanency, and well-being measures changes over time.
+  Through ETO, we will not only be able to track who has become activated
+  through the LA2050 program, but how their work has changed the lives of the
+  young adults they have been appointed to serve.
+project_five_years: >-
+  Through the Youth to Youth Program, CASA/LA hopes to activate some of our
+  youngest community members in a life-changing volunteer opportunity in order
+  to serve every young adult, aged 18-21, in Los Angeles County's extended
+  foster care with similarly life-changing advocacy.
+category_metrics:
+  - Rates of volunteerism
+category_other:
+  - LA is the best place to LEARN
+category: connect
+uri: /connect/casa-of-los-angeles/
+order: 51
+project_image: casa-of-los-angeles.jpg
+year: 2018
+projects:
+  - uri: /connect/casa-of-los-angeles/
+    category: connect
+    title: 'Youth to Youth: Helping Young Adults Exit Foster Care'
+    project_description: >-
+      CASA of Los Angeles is recruiting graduate-level college students to help
+      young adults in foster care exit the system and build thriving and
+      independent lives.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/casa-of-los-angeles.jpg
+  - uri: /learn/casa-of-los-angeles/
+    category: learn
+    title: College Collaborative for Foster Care Youth
+    project_description: >-
+      Help CASA build an organizational collaborative to help more youth in
+      foster care attend college.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7481336294741-team91.jpg
 
 ---

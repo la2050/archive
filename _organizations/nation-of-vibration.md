@@ -131,5 +131,17 @@ order: 43
 category: connect
 uri: /connect/nation-of-vibration/
 year: 2016
+projects:
+  - uri: /connect/nation-of-vibration/
+    category: connect
+    title: >-
+      Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
+      to Communities Across L.A
+    project_description: >-
+      The L.A.vation Project brings healing circles, and other group-centered
+      events to diverse schools, organizations, and communities throughout LA to
+      encourage inspiration, engagement, and change.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 
 ---

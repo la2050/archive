@@ -124,5 +124,15 @@ order: 51
 category: connect
 uri: /connect/building-healthy-communities-long-beach/
 year: 2016
+projects:
+  - uri: /connect/building-healthy-communities-long-beach/
+    category: connect
+    title: 'People''s Planning School: Park Equity Project'
+    project_description: >-
+      The People’s Planning School: Park Equity Project (PPS) organizes
+      residents to transform their parks into intergenerational play hubs that
+      strengthen family bonds and reduce community violence.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
 
 ---

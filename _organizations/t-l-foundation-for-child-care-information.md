@@ -122,5 +122,17 @@ order: 15
 category: live
 uri: /live/t-l-foundation-for-child-care-information/
 year: 2016
+projects:
+  - uri: /live/t-l-foundation-for-child-care-information/
+    category: live
+    title: >-
+      Culinary Skills in a Box - Giving Children in Child Care the Tools to
+      Establish Healthy Habits
+    project_description: >-
+      Culinary Skills in a Box introduces child caregivers, parents & children
+      to skills and new foods that are developmentally appropriate. Food &
+      lessons delivered to their door monthly.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 
 ---

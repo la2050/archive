@@ -144,5 +144,17 @@ category: connect
 uri: /connect/drizzle-connect/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /connect/drizzle-connect/
+    category: connect
+    title: >-
+      Bringing free high-speed internet and mobile phone service to low-income
+      families in Los Angeles
+    project_description: >-
+      We help low-income families get high-speed internet and phone service by
+      connecting them to providers who subsidize costs and retailers who pay
+      remaining costs via cash-back rebates on everyday items.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 
 ---

@@ -112,5 +112,15 @@ order: 36
 category: live
 uri: /live/river-la-formerly-la-river-revitalization-corporation/
 year: 2016
+projects:
+  - uri: /live/river-la-formerly-la-river-revitalization-corporation/
+    category: live
+    title: 'LA River Stories: Public Engagement through Creative Storytelling'
+    project_description: >-
+      LA River Stories, a multimedia project, focuses on first-hand human
+      interactions with the LA River in order to engage communities, demonstrate
+      impact, and inspire resilient design and equitable policy
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 
 ---

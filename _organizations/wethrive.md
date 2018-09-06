@@ -105,5 +105,15 @@ order: 75
 category: learn
 uri: /learn/wethrive/
 year: 2016
+projects:
+  - uri: /learn/wethrive/
+    category: learn
+    title: Youth Mentoring and Entrepreneurship Program for Middle School Students
+    project_description: >-
+      An entrepreneurial mentoring program for middle school students of
+      under-resourced communities. All youth participants create companies of
+      their own, earn real revenues and donate profits to charity.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 
 ---

@@ -66,5 +66,14 @@ order: 33
 category: live
 uri: /live/alliance-building-construction-services/
 year: 2016
+projects:
+  - uri: /live/alliance-building-construction-services/
+    category: live
+    title: It Takes a Village to Reintegrate the Homeless
+    project_description: >-
+      Synergy Village: A self-sustainable community where we help the homeless
+      get reintegrated back into society as productive citizens of Los Angeles
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
 
 ---

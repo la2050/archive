@@ -143,5 +143,14 @@ order: 38
 category: create
 uri: /create/represent/
 year: 2016
+projects:
+  - uri: /create/represent/
+    category: create
+    title: 'Represent: FREE acting & media arts school for diverse media makers!'
+    project_description: >-
+      A FREE, LA-based, acting & media arts school for diverse, aspiring media
+      makers!
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
 
 ---

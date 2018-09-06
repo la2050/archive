@@ -155,5 +155,15 @@ order: 8
 category: play
 uri: /play/los-angeles-audubon-society-laas/
 year: 2016
+projects:
+  - uri: /play/los-angeles-audubon-society-laas/
+    category: play
+    title: LA Audubon - Urban Nature Explored
+    project_description: >-
+      LA Audubon Urban Nature Explored connects people of all ages to nature
+      activities, provides field trips and after-school programs for LAUSD
+      students, and student internships for under-served youth.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 
 ---

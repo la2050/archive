@@ -76,5 +76,17 @@ order: 15
 category: create
 uri: /create/pieces/
 year: 2016
+projects:
+  - uri: /create/pieces/
+    category: create
+    title: >-
+      CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+      ARTS
+    project_description: >-
+      Grow PIECES – a program that successfully empowers young adults to create
+      a brighter future for themselves through the many benefits that the arts
+      provide.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 
 ---

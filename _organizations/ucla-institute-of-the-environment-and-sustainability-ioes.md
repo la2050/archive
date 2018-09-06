@@ -116,5 +116,17 @@ order: 63
 category: live
 uri: /live/ucla-institute-of-the-environment-and-sustainability-ioes/
 year: 2016
+projects:
+  - uri: /live/ucla-institute-of-the-environment-and-sustainability-ioes/
+    category: live
+    title: >-
+      Using an app to increase awareness of air quality and empower individuals
+      to protect their health
+    project_description: >-
+      AirForU is an air quality app that provides real-time air quality
+      information and is also a research tool to reduce air pollution-related
+      health impacts, particularly for vulnerable populations.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
 
 ---

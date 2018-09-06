@@ -198,5 +198,15 @@ uri: /create/long-beach-downtown-development-corporation/
 order: 15
 project_image: long-beach-downtown-development-corporation.jpg
 year: 2018
+projects:
+  - uri: /create/long-beach-downtown-development-corporation/
+    category: create
+    title: The Sustainable Tech Intellectual Property Education Series (STIPES)
+    project_description: >-
+      The Sustainable Tech Intellectual Property Education Series focuses on
+      providing the tools and skills to develop & launch green tech businesses,
+      file potential IP and scale qualified businesses.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/long-beach-downtown-development-corporation.jpg
 
 ---

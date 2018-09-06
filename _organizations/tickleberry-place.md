@@ -134,5 +134,15 @@ order: 22
 category: play
 uri: /play/tickleberry-place/
 year: 2016
+projects:
+  - uri: /play/tickleberry-place/
+    category: play
+    title: 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+    project_description: >-
+      Tickleberry Place is a mobile, PLAY, EXPLORE and LEARN pop-up serving
+      South Los Angeles where children can have fun while learning about
+      sustainability, healthy habits and eco-conscious living.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 
 ---

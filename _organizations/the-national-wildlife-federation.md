@@ -120,5 +120,14 @@ order: 29
 category: live
 uri: /live/the-national-wildlife-federation/
 year: 2016
+projects:
+  - uri: /live/the-national-wildlife-federation/
+    category: live
+    title: Help Create Schoolyard Habitats for People and Wildlife in LA!
+    project_description: >-
+      Transforming LA schoolyards into critical habitat so wildlife, students
+      and the whole community can thrive
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 
 ---

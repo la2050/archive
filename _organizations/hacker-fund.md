@@ -96,5 +96,14 @@ uri: /create/hacker-fund/
 order: 8
 project_image: hacker-fund.jpg
 year: 2018
+projects:
+  - uri: /create/hacker-fund/
+    category: create
+    title: Hacker Fund Civic Innovation Center
+    project_description: >-
+      Hacker Fund is launching a Civic Innovation Center in order to provide
+      Angelenos with resources for technology education, tools to prototype
+      civic innovations, and a community workspace.
+    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/hacker-fund.jpg'
 
 ---

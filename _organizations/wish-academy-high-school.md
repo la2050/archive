@@ -119,5 +119,17 @@ order: 74
 category: learn
 uri: /learn/wish-academy-high-school/
 year: 2016
+projects:
+  - uri: /learn/wish-academy-high-school/
+    category: learn
+    title: >-
+      WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
+      INCLUSIVE EDUCATION 
+    project_description: >-
+      Currently, there are no inclusive community high school options embracing
+      (or even allowing) students of all abilities, including those with
+      disabilities, to learn together in one inclusive setting.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 
 ---

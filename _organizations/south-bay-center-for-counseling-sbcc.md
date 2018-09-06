@@ -162,5 +162,15 @@ category: connect
 uri: /connect/south-bay-center-for-counseling-sbcc/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /connect/south-bay-center-for-counseling-sbcc/
+    category: connect
+    title: 'Co/Lab (Co/Llaboration): Resident-Driven, Co-Created, Social Change'
+    project_description: >-
+      Co/Lab will empower 10,000 Angelenos to co-create social impact
+      innovations that improve civic engagement & social connection; putting the
+      power of social change back into the hands of residents.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 
 ---

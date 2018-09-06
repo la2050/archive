@@ -101,5 +101,17 @@ order: 36
 category: learn
 uri: /learn/the-harmony-project/
 year: 2016
+projects:
+  - uri: /learn/the-harmony-project/
+    category: learn
+    title: >-
+      Give Music Change Lives: The expansion of Harmony Project’s transformative
+      program into South LA
+    project_description: >-
+      Harmony Project will expand our proven, comprehensive afterschool music
+      program in South LA that promotes life skills development and supports
+      students through timely graduation and into college.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 
 ---

@@ -90,5 +90,14 @@ order: 23
 category: play
 uri: /play/unified-everything-project/
 year: 2016
+projects:
+  - uri: /play/unified-everything-project/
+    category: play
+    title: Website of all LA's Arts & Science events / schedules
+    project_description: >-
+      A website detailing arts & science events in LA and united together with a
+      focus on accessibility and diverse mixings to inspire and illuminate.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7117612655741-team91.png
 
 ---

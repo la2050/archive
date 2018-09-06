@@ -95,5 +95,15 @@ uri: /learn/city-of-los-angeles-information-technology-agency/
 order: 5
 project_image: city-of-los-angeles-information-technology-agency.jpg
 year: 2018
+projects:
+  - uri: /learn/city-of-los-angeles-information-technology-agency/
+    category: learn
+    title: GoDigital! LA’s Digital Literacy Program
+    project_description: >-
+      This project focuses on erasing the Digital Divide in Los Angeles'
+      underserved communities. The project will provide education about the
+      importance of engaging online and how to do so safely.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 
 ---

@@ -110,5 +110,15 @@ uri: /learn/two-bit-circus-foundation/
 order: 13
 project_image: two-bit-circus-foundation.jpg
 year: 2018
+projects:
+  - uri: /learn/two-bit-circus-foundation/
+    category: learn
+    title: STEAM Carnival in South Los Angeles
+    project_description: >-
+      Robots, fire and next-gen inventions - STEAM Carnival - a Trojan horse to
+      interest kids in Science, Tech, Engineering, Art & Math careers. Young
+      inventors in South Los Angeles step right up!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/two-bit-circus-foundation.jpg
 
 ---

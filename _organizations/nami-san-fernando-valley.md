@@ -112,5 +112,17 @@ order: 42
 category: live
 uri: /live/nami-san-fernando-valley/
 year: 2016
+projects:
+  - uri: /live/nami-san-fernando-valley/
+    category: live
+    title: >-
+      NAMI Home Front  is people impacted by mental illness helping Veterans and
+      their families.
+    project_description: >-
+      NAMI Homefront is a free, 6-session educational program for families,
+      caregivers and friends of military service members and vets with mental
+      health conditions.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
 
 ---

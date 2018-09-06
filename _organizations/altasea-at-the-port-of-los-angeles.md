@@ -146,5 +146,15 @@ category: learn
 uri: /learn/altasea-at-the-port-of-los-angeles/
 is_finalist: true
 year: 2016
+projects:
+  - uri: /learn/altasea-at-the-port-of-los-angeles/
+    category: learn
+    title: 'AltaSea: Where STEM Meets the Ocean'
+    project_description: >-
+      AltaSea and our partners are inspiring the next generation to explore the
+      ocean and to generate blue solutions to the world’s most pressing
+      challenges: food, energy and climate security.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
 
 ---

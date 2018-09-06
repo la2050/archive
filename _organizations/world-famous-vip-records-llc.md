@@ -156,5 +156,15 @@ uri: /create/world-famous-vip-records-llc/
 order: 17
 project_image: world-famous-vip-records-llc.jpg
 year: 2018
+projects:
+  - uri: /create/world-famous-vip-records-llc/
+    category: create
+    title: World Famous VIP Records Business Incubator and Multi Media Center
+    project_description: >-
+      Business accelerator/incubator for tech, music & food entrepreneurs
+      supported with 24hour radio station, retail space & music studio anchored
+      by a replica of the Historic World Famous VIP Sign.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/world-famous-vip-records-llc.jpg
 
 ---

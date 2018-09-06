@@ -121,5 +121,15 @@ uri: /live/ucla-mobile-eye-clinic-umec/
 order: 37
 project_image: ucla-mobile-eye-clinic-umec.jpg
 year: 2018
+projects:
+  - uri: /live/ucla-mobile-eye-clinic-umec/
+    category: live
+    title: To see well is to live well.
+    project_description: >-
+      It is challenging to fill out applications or navigate the streets without
+      being able to see, which the UCLA Mobile Eye Clinic proposes to remedy for
+      people experiencing homelessness in L.A.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
 
 ---

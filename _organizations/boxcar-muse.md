@@ -126,5 +126,17 @@ order: 44
 category: create
 uri: /create/boxcar-muse/
 year: 2016
+projects:
+  - uri: /create/boxcar-muse/
+    category: create
+    title: >-
+      Taking boxcar+muse from Pop-Up to Permanent: Making Space for LA Women to
+      Create, Connect, and Learn
+    project_description: >-
+      boxcar+muse will go from pop-up to permanent, cultivating a year-round
+      creative camp and learning lab for women, doubling our workshop series and
+      club programming, and offering 130 new sponsorships.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 
 ---

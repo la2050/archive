@@ -179,5 +179,15 @@ uri: /play/south-bay-bicycle-coalition/
 order: 0
 project_image: south-bay-bicycle-coalition.jpg
 year: 2018
+projects:
+  - uri: /play/south-bay-bicycle-coalition/
+    category: play
+    title: Activate South Bay LA Trails!
+    project_description: >-
+      ACTIVATE SOUTH BAY LA TRAILS! beckons residents of 5 Cities to come
+      outside and play on a network of trails--Redondo Beach through Manhattan
+      Beach, bordering Hawthorne and El Segundo to Lawndale.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/south-bay-bicycle-coalition.jpg
 
 ---

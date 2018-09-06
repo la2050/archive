@@ -113,5 +113,15 @@ order: 20
 category: play
 uri: /play/the-ron-finley-project/
 year: 2016
+projects:
+  - uri: /play/the-ron-finley-project/
+    category: play
+    title: The Ron Finley Project presents Da FUNction - A Community Fun Fest
+    project_description: >-
+      Da FUNction is a one day, free event that brings members from LA’s diverse
+      communities together for one purpose - to have fun and play with a
+      smorgasbord of activities in an otherwise unused space.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 
 ---

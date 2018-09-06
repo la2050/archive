@@ -97,5 +97,15 @@ uri: /live/family-promise-of-the-south-bay/
 order: 36
 project_image: family-promise-of-the-south-bay.jpg
 year: 2018
+projects:
+  - uri: /live/family-promise-of-the-south-bay/
+    category: live
+    title: TINY CITIES FOR L.A.’S HOMELESS
+    project_description: >-
+      Individualized cargo containers, stacked on empty lots, will provide
+      chronic and temporarily homeless people with a place to live, as well as
+      space for the resources they need to survive and succeed.
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
 
 ---

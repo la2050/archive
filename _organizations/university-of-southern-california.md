@@ -112,5 +112,14 @@ order: 46
 category: connect
 uri: /connect/university-of-southern-california/
 year: 2016
+projects:
+  - uri: /connect/university-of-southern-california/
+    category: connect
+    title: Open Ballot LA
+    project_description: >-
+      Helping Los Angeles develop the most accessible and inclusive process of
+      running for office anywhere in the nation.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
 
 ---

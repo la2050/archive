@@ -143,5 +143,17 @@ order: 18
 category: learn
 uri: /learn/anna-bing-arnold-childrens-center/
 year: 2016
+projects:
+  - uri: /learn/anna-bing-arnold-childrens-center/
+    category: learn
+    title: >-
+      Connecting Children to Art in Nature: Provide a meaningful holistic link
+      between art and nature.
+    project_description: >-
+      To provide holistic project-based learning experiences for the children of
+      Anna Bing Arnold Children's Center through the intergration of the
+      Connecting Children to Art and Nature Program.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
 
 ---

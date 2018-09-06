@@ -175,5 +175,15 @@ uri: /live/environment-california-research-policy-center/
 order: 1
 project_image: environment-california-research-policy-center.jpg
 year: 2018
+projects:
+  - uri: /live/environment-california-research-policy-center/
+    category: live
+    title: '#NextStopCleanAir: Electric School Buses for LA’s Kids'
+    project_description: >-
+      Worried about the smog affecting our kids’ health? Join students, parents,
+      teachers, and the community to put 100 percent clean, electric buses on
+      school bus routes across LA by 2030!
+    project_image: >-
+      https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 
 ---

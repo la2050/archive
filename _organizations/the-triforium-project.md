@@ -122,5 +122,17 @@ order: 16
 category: play
 uri: /play/the-triforium-project/
 year: 2016
+projects:
+  - uri: /play/the-triforium-project/
+    category: play
+    title: >-
+      Restoring and reimagining the World's First 'Polyphonoptic' sculpture in
+      downtown Los Angeles
+    project_description: >-
+      The Triforium is a piece of “polyphonoptic” public art in DTLA that was 40
+      years ahead of its time; we want to restore and retrofit it to achieve the
+      artist's dream of music, community, and wonder.
+    project_image: >-
+      https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7344404654741-team91.jpg
 
 ---
