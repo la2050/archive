@@ -1,10 +1,28 @@
 ---
 layout: default
-main_class: standard-layout
 stylesheets:
   - "/assets/css/project-list.css"
   - "/assets/css/project.css"
 ---
+
+
+{% case page.category %}
+  {% when 'learn' %}
+     {% assign primary_color = "blueberry" %}
+  {% when 'create' %}
+     {% assign primary_color = "banana" %}
+  {% when 'play' %}
+     {% assign primary_color = "strawberry" %}
+  {% when 'connect' %}
+     {% assign primary_color = "tangerine" %}
+  {% when 'live' %}
+     {% assign primary_color = "lime" %}
+  {% else %}
+     {% assign primary_color = "strawberry" %}
+{% endcase %}
+
+
+<div class="{{ primary_color }}">
 
 <style>
 figure {
@@ -257,17 +275,17 @@ figure {
 {% endif %}
 
 
-<h2>Projects</h2>
+<h2 style="margin-bottom: 1.5em; color: var(--primary-color); text-align: center; max-width: none;">Ideas</h2>
 
 
-<ul style="list-style: none; margin-left: 0; padding-left: 0;">
-  <li style="list-style: none; margin-left: 0; padding-left: 0;">
-    <a href="{{ page.uri }}" style="color: var(--primary-color); display: flex; align-items: center; align-content: center;">
+<ul style="list-style: none; margin-left: 0; padding-left: 0; text-align: center; max-width: none;">
+  <li style="list-style: none; margin-left: 0; padding-left: 0;  max-width: none;">
+    <a href="{{ page.uri }}" style="color: var(--primary-color);">
       {% if page.plan_id %}
-      <div style="margin-right: 1.5em;"><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt=""
+      <div><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt=""
               width="540" height="428" /></div>
       {% else %}
-      <div style="margin-right: 1.5em;"><img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt=""
+      <div><img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt=""
               width="500" /></div>
       {% endif %}
 
@@ -278,6 +296,8 @@ figure {
 
 
 
-<div style="margin-bottom: 9em"></div>
+<div style="margin-bottom: 9em; grid-column: 1/-1;"></div>
 
+
+</div>
 
