@@ -104,6 +104,6 @@ projects:
       underserved communities. The project will provide education about the
       importance of engaging online and how to do so safely.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-information-technology-agency.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 
 ---

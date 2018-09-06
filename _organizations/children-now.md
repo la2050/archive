@@ -145,6 +145,6 @@ projects:
       Children Now will support thousands of Angelenos to voice their support
       for quality care and education for LA’s babies.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/children-now.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg
 
 ---

@@ -100,6 +100,6 @@ projects:
       of Latin Jazz Youth Ensemble of SF by providing FREE education from 2 time
       Grammy winner, Oscar Hernandez. Spanish Harlem Orch
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/future-america.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg
 
 ---

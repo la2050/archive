@@ -142,6 +142,6 @@ projects:
       LA is a place we love - our people, our neighborhoods, and our experiences
       connect us. CicLAvia: "When LA Listens" captures and tells the stories of
       the people and places that is LA.
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/ciclavia.jpg'
+    project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
 
 ---

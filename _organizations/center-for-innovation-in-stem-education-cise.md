@@ -126,6 +126,6 @@ projects:
       through dynamic training and mentoring on the state adopted, industry
       recognized Next Generation Science Standards.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/center-for-innovation-in-stem-education-cise.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
 
 ---

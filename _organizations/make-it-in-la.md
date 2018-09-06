@@ -144,6 +144,6 @@ projects:
       LA & LA Food Fest—to raise awareness for local brands and manufacturers,
       and mobilize the creative community to MAKE IT IN LA!
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/make-it-in-la.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
 
 ---

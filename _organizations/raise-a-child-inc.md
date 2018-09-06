@@ -159,6 +159,6 @@ projects:
       best business practice technology to find loving homes for children
       languishing in LA’s foster care system.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/raise-a-child-inc.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
 
 ---

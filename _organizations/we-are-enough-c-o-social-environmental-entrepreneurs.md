@@ -102,6 +102,6 @@ projects:
       empower women (and girls) of every economic level to commit to investing
       in women-owned businesses and/or with a gender lens.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 
 ---

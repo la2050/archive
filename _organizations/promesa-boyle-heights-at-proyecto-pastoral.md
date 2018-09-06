@@ -161,6 +161,6 @@ projects:
       empowering residents to conduct community outreach and education, so that
       their fellow neighbors can access wellness resources.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
 
 ---

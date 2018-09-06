@@ -117,6 +117,6 @@ projects:
       Get to know LA in a whole new way! Explore local nature through hands-on
       learning, child-led exploration, and foster environmental stewardship with
       the entire family!
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/everwild.jpg'
+    project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everwild.jpg'
 
 ---

@@ -117,6 +117,6 @@ projects:
       the public—based on the real perspectives, experiences and trials of women
       in LA, who make up 51% of our city’s population.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/twigg-how-to.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg
 
 ---

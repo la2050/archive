@@ -104,6 +104,7 @@ projects:
       Hacker Fund is launching a Civic Innovation Center in order to provide
       Angelenos with resources for technology education, tools to prototype
       civic innovations, and a community workspace.
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/hacker-fund.jpg'
+    project_image: >-
+      https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg
 
 ---

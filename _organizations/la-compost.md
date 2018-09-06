@@ -145,6 +145,7 @@ projects:
     project_description: >-
       We’re challenging the people of Los Angeles to connect, to people and
       place, to the soil and each other. #SupportSoilLA #soilandpeople #compost
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/la-compost.jpg'
+    project_image: >-
+      https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg
 
 ---

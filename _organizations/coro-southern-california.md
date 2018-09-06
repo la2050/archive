@@ -163,6 +163,6 @@ projects:
       South LA in civic leadership and public affairs, preparing them to enact
       meaningful change within their communities.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/coro-southern-california.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 
 ---

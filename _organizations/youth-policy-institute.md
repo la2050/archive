@@ -126,7 +126,7 @@ projects:
       together to design public art spaces that reflect the communities
       themselves and serve as a space for gathering and collaboration.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/youth-policy-institute.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
   - uri: /learn/youth-policy-institute/
     category: learn
     title: >-

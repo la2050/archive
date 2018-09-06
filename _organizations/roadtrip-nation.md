@@ -158,6 +158,6 @@ projects:
       the creative, high-tech and manufacturing industries, introducing millions
       of TV viewers and students to new career pathways.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/roadtrip-nation.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 
 ---

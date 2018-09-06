@@ -124,6 +124,6 @@ projects:
       learning and real world problem solving while supporting them as they
       become the leaders and innovators in STEM fields of tomorrow.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/girls-academic-leadership-academy-gala.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 
 ---

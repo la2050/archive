@@ -77,6 +77,6 @@ projects:
       We Believe Having A Dream And Never Giving Up Will Eventually Create
       Tomorrow's Music.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/gracias-music-foundation.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
 
 ---

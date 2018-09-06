@@ -169,6 +169,6 @@ projects:
       diverse backgrounds who turn social media into social action through the
       creation and distribution of engaging impact media.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/get-lit-words-ignite.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
 
 ---

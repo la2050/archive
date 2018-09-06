@@ -123,6 +123,6 @@ projects:
       communities of South LA in the STEM fields, we plan to add 1000 additional
       youth served in the next three years.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/the-people-of-change.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 
 ---

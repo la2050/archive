@@ -148,6 +148,6 @@ projects:
       Blockchain based game system through which riders earn credits to exchange
       for goods and services across LA.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/geffen-academy-at-ucla.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 
 ---

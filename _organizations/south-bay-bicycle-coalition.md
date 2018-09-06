@@ -188,6 +188,6 @@ projects:
       outside and play on a network of trails--Redondo Beach through Manhattan
       Beach, bordering Hawthorne and El Segundo to Lawndale.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/south-bay-bicycle-coalition.jpg
+      https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 
 ---

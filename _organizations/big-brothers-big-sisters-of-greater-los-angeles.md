@@ -118,6 +118,6 @@ projects:
       Access, Completion) provides underserved youth with mentoring support to
       finish high school, graduate college, and start careers.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 
 ---

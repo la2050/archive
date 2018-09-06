@@ -145,6 +145,6 @@ projects:
       compassion amongst Angelenos, Center for Council will train ten of the
       finalist organizations in the practice of Council.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/center-for-council-a-project-of-community-partners.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 
 ---

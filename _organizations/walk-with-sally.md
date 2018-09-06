@@ -119,6 +119,6 @@ projects:
       throughout the city to ensure that no child walks alone in the face of a
       loved one's cancer.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/walk-with-sally.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 
 ---

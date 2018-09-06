@@ -165,6 +165,6 @@ projects:
       supported with 24hour radio station, retail space & music studio anchored
       by a replica of the Historic World Famous VIP Sign.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/world-famous-vip-records-llc.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 
 ---

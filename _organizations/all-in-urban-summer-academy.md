@@ -92,6 +92,6 @@ projects:
       the school year by providing academic and social enrichment, as well as
       mitigating traumas associated with homelessness.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/all-in-urban-summer-academy.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 
 ---

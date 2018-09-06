@@ -190,6 +190,6 @@ projects:
       Angelenos, you can bring mobile showers to our unhoused neighbors and help
       them rekindle dignity, restore hope and unlock the opportunity that comes
       with being clean.
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/lava-mae.jpg'
+    project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg'
 
 ---

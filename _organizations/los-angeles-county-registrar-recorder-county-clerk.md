@@ -140,6 +140,6 @@ projects:
       participate in a countywide mock election to interact with new voting
       technologies and get excited about future elections.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
 
 ---

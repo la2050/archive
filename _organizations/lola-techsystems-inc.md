@@ -146,6 +146,6 @@ projects:
       curriculum and stay focused by: breaking routines into manageable tasks,
       providing visual timers and enabling a messaging system.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/lola-techsystems-inc.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
 
 ---

@@ -125,6 +125,6 @@ projects:
       to start and grow their own businesses, helping them revitalize their
       communities and create new local opportunities.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/small-business-majority.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
 
 ---

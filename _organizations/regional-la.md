@@ -184,6 +184,7 @@ projects:
       REGIONAL.LA is a civic engagement tool that allows residents to find and
       connect with their civic community according to local geography: cities,
       neighborhoods, and service areas.
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/regional-la.jpg'
+    project_image: >-
+      https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
 
 ---

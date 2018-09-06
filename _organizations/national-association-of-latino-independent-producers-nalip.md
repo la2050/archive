@@ -165,6 +165,6 @@ projects:
       Through the this activation, NALIP aims to provide support for college
       ready urban youth through media training & resources.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 
 ---

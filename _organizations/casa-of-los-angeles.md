@@ -108,7 +108,7 @@ projects:
       young adults in foster care exit the system and build thriving and
       independent lives.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/casa-of-los-angeles.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
   - uri: /learn/casa-of-los-angeles/
     category: learn
     title: College Collaborative for Foster Care Youth

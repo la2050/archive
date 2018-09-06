@@ -101,6 +101,6 @@ projects:
       Play LA! will get you, your friends, families, and neighbors outdoors and
       playing in and around Los Angeles.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/the-trust-for-public-land.jpg
+      https://activation.la2050.org/assets/images/play/2048-wide/the-trust-for-public-land.jpg
 
 ---

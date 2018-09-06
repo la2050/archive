@@ -136,6 +136,6 @@ projects:
       broken hearts, restore city soils, and feed mind, body and spirit through
       meaningful education, soulful work, and radical hope.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 
 ---

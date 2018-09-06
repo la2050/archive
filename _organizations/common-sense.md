@@ -168,6 +168,6 @@ projects:
       organizations in LA to provide trainings and resources that help
       underserved Latino families and kids thrive in the digital age.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/common-sense.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
 
 ---

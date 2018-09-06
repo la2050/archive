@@ -161,6 +161,6 @@ projects:
       host events and have created an online market place so that artist gain
       visibility, make money and sustain longevity.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/revolutionize-hollywood.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 
 ---

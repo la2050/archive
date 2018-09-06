@@ -157,6 +157,6 @@ projects:
       Angelenos to take meaningful action to stem the flow of crime guns and end
       gun violence in the community.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
+      https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 
 ---

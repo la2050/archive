@@ -175,6 +175,6 @@ projects:
       other across LA’s vast size, learn their rights, register to vote, and
       become effective, civically engaged advocates.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 
 ---

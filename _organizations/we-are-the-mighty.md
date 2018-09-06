@@ -113,6 +113,6 @@ projects:
       provides a friendly and fun introduction to the benefits veterans need to
       become successful Angelinos.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/we-are-the-mighty.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
 
 ---

@@ -171,6 +171,6 @@ projects:
        
        #CreateAboveTheRadar makes permitting your production less daunting, & provides opportunities for your show, mural, or event to find a scene in LA
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 
 ---

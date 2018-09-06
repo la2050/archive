@@ -106,6 +106,6 @@ projects:
       Los Angeles and we organize a 'Sock Sesh' every month to inspire other
       kids and youth in the community to give back.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/stellas-socks.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
 
 ---

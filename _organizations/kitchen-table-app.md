@@ -145,6 +145,6 @@ projects:
       all walks of life and every corner of Los Angeles together over a shared
       love of good food and great company.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/kitchen-table-app.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 
 ---

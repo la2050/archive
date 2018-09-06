@@ -158,6 +158,7 @@ projects:
       VoteRunLead will train 10,000 women to lead LA's communities by 2020,
       increasing civic participation and propelling at least 50 women to run for
       office--resulting in responsive, inclusive governance.
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/voterunlead.jpg'
+    project_image: >-
+      https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg
 
 ---

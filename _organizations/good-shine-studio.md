@@ -175,6 +175,6 @@ projects:
       multigenerational, multicultural team of volunteers to create, organize
       and share local media, events and programs.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/good-shine-studio.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
 
 ---

@@ -160,6 +160,6 @@ projects:
       the Art Barge will travel to River parks and cultural centers to activate
       communities along the LA River and beyond.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 
 ---

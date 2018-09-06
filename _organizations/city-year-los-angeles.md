@@ -125,7 +125,7 @@ projects:
       school campuses, making them more welcoming, vibrant places for students
       to learn.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/city-year-los-angeles.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
   - uri: /learn/city-year-los-angeles/
     category: learn
     title: >-

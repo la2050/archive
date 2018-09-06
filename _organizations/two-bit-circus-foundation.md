@@ -119,6 +119,6 @@ projects:
       interest kids in Science, Tech, Engineering, Art & Math careers. Young
       inventors in South Los Angeles step right up!
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/two-bit-circus-foundation.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 
 ---

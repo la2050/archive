@@ -121,6 +121,6 @@ projects:
       residents to be featured in an online interactive map and at the LA Film
       Festival.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/film-independent.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 
 ---

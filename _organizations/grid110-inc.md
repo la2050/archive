@@ -102,6 +102,7 @@ projects:
       Grid110 aims to educate 100,000 entrepreneurs in Los Angeles through free
       digital curriculum. We plan to adapt our in-person Idea to Prototype
       curriculum so that it can be delivered widely online.
-    project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/grid110-inc.jpg'
+    project_image: >-
+      https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
 
 ---

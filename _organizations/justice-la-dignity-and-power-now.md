@@ -190,6 +190,6 @@ projects:
       registration activations, we will connect and empower Los Angeles
       residents to build safer neighborhoods and end mass incarceration.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/justice-la-dignity-and-power-now.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg
 
 ---

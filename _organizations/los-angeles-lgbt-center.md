@@ -155,6 +155,6 @@ projects:
       squad to include 200 more members actively fighting against policy attacks
       that harm the well-being of people in Los Angeles.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-lgbt-center.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 
 ---

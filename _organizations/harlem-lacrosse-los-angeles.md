@@ -120,6 +120,6 @@ projects:
       partners, and athletes of all backgrounds to provide kids most at risk of
       dropout with personal pathways to future successes.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/harlem-lacrosse-los-angeles.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 
 ---

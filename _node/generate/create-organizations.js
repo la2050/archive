@@ -103,7 +103,7 @@ projects:
       project_description: data.yaml.project_description,
       project_image: data.yaml.plan_id ? 
         "https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/" + data.yaml.project_image :
-        "https://activation.la2050.org/assets/images/live/2048-wide/"    + data.yaml.project_image
+        "https://activation.la2050.org/assets/images/" + data.yaml.category + "/2048-wide/"    + data.yaml.project_image
     }
   ]
 

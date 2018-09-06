@@ -144,7 +144,7 @@ projects:
       credence to diverse voices to spur civic engagement and media literacy
       around society's most polarizing issues.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/citizens-of-culture.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
   - uri: /create/citizens-of-culture/
     category: create
     title: 'Nous Tous: A Gallery For All Of Us'

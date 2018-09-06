@@ -148,6 +148,6 @@ projects:
       local activism, VolunteerLA will turn energy into action by connecting
       Angelenos to volunteer opportunities that create change.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/mayors-fund-for-los-angeles.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
 
 ---

@@ -130,6 +130,6 @@ projects:
       creation of civic solutions through design challenges, structured
       programming, and networking with public & private sector experts.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/civic-innovation-lab.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 
 ---

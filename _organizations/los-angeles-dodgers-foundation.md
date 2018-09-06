@@ -131,6 +131,6 @@ projects:
        
        energized to PLAY!
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/los-angeles-dodgers-foundation.jpg
+      https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
 
 ---

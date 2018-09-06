@@ -110,7 +110,7 @@ projects:
       community, featuring groundbreaking performances, master class writing
       workshops, and free arts education for local youth!
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/red-hen-press.jpg
+      https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
   - uri: /create/red-hen-press/
     category: create
     title: 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'

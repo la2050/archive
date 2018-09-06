@@ -152,6 +152,6 @@ projects:
       12th grade students for careers in Science and health care through an
       engaging curriculum and hands-on STEM activities.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
+      https://activation.la2050.org/assets/images/learn/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
 
 ---

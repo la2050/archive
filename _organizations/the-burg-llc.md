@@ -122,6 +122,6 @@ projects:
       local news and local representatives directly to the verified voters (and
       nonvoters) of Los Angeles.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/the-burg-llc.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg
 
 ---

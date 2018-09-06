@@ -135,6 +135,6 @@ projects:
       justice through our poetry slam competition, Larchmont Charter School's
       literary magazine, and a firestorm of social media.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/larchmont-charter-school.jpg
+      https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
 
 ---

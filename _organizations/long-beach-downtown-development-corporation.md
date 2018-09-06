@@ -207,6 +207,6 @@ projects:
       providing the tools and skills to develop & launch green tech businesses,
       file potential IP and scale qualified businesses.
     project_image: >-
-      https://activation.la2050.org/assets/images/live/2048-wide/long-beach-downtown-development-corporation.jpg
+      https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
 
 ---
