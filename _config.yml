@@ -195,6 +195,12 @@ defaults:
     values:
       layout: project
       body_class: lime
+  - scope:
+      path: ""
+      type: organizations
+    values:
+      layout: organization
+      body_class: strawberry
 
 collections:
   learn:
@@ -212,3 +218,6 @@ collections:
   live:
     output: true
     permalink: /live/:path/
+  organizations:
+    output: true
+    permalink: /organizations/:path/

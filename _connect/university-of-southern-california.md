@@ -1,152 +1,116 @@
 ---
-application_id: '3589569206'
-title: Leveraging Neighborhood Data to Activate Local Change
-project_description: >-
-  Neighborhood Data for Social Change empowers civic actors to learn about
-  trends, challenges, and opportunities facing LA County neighborhoods through
-  maps, charts, data analysis, and storytelling.
+title: Open Ballot LA
 organization_name: University of Southern California
 organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
-link_newsletter: 'https://socialinnovation.usc.edu/contact-us/'
 organization_website:
-  - la.myneighborhooddata.org
-  - socialinnovation.usc.edu
-organization_twitter:
-  - '@NDSC_LA'
-  - '@USCPriceCSI'
-organization_facebook: 'https://www.facebook.com/PriceSocialInnovation'
-organization_instagram: ''
-link_donate: 'https://socialinnovation.usc.edu/contact-us/'
-link_volunteer: 'https://socialinnovation.usc.edu/contact-us/'
+  - civictechusc.org
+organization_twitter: civictechusc
+organization_facebook: USCAnnenbergCenter
+organization_instagram: N/A
 organization_activity: >-
-  Neighborhood Data For Social Change provides free, publicly available
-  neighborhood-level data for civic actors to learn about their communities.
-project_proposal_description: >-
-  The Neighborhood Data for Social Change (NDSC) platform will activate informed
-  and engaged LA County neighborhoods through data analysis and storytelling. By
-  empowering civic actors to better tell their stories of neighborhood-level
-  shifts, changes, and challenges, NDSC will activate nonprofits, advocacy
-  groups, government agencies, neighborhood councils, and other stakeholders to
-  make data-informed decisions to improve the quality of life for low-income
-  residents and families.
+  The USC Annenberg Center’s Civic Tech USC initiative is a nonprofit that
+  studies and develops new technologies to promote inclusion, fairness,
+  transparency, civic responsibility and participation.
+project_image: 9698284165741-team91.png
+project_video: null
+project_description: >-
+  Helping Los Angeles develop the most accessible and inclusive process of
+  running for office anywhere in the nation.
+project_is_collaboration: 'Yes'
+project_collaborators: >-
+  RunForOffice.org. Going forward we expect to draw on strong working
+  relationships with a range of contributors and potential users across
+  government, nonprofits, tech, and academia.
+project_applying: '$25,000'
 project_areas:
-  - Central LA
-  - East LA
-  - San Gabriel Valley
-  - San Fernando Valley
-  - South LA
-  - Westside
-  - South Bay
-  - Antelope Valley
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_proposal_mobilize:
-  - Advocate for policy
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - Create new tools or technologies for greater civic/political engagement
-  - >-
-    Increase participation in political processes (e.g. voting, running for
-    office, community problem solving)
-project_proposal_best_place: >-
-  LA County is home to 10 million people with unique stories and circumstances,
-  each of whom strives to make their communities the very best version of what
-  they can be. Neighborhood Data for Social Change (NDSC) will make LA the best
-  place to connect by equipping civic actors with information needed to
-  contribute meaningfully in civic processes. 
-   
-   
-   
-   NDSC serves neighborhoods throughout LA County with high-quality and policy relevant data at the neighborhood level. It enables local nonprofits, government agencies, neighborhood councils, advocacy groups, and civic institutions to make data-informed decisions to improve the quality of life within their neighborhood. NDSC directly impacts the LA2050 metrics that help measure and support efforts to make LA the best place to Connect. In fact, multiple metrics for the Connect goal exist as distinct indicators within the platform, including: travel time to work, number of public transit riders, social connectedness, and voter registration. NDSC allows users to understand, measure, and track these indicators across the entire County, or by specific neighborhoods. Data can be viewed down to the census tract level, making NDSC a powerful tool to understand how connectedness varies across different neighborhoods. Users can even create their own custom neighborhoods by joining census tracts and tracking aggregated data.
-   
-   
-   
-   However, NDSC is not only about producing data. The platform empowers civic actors to better tell their stories, voice their opinions, and influence key decision-makers through the production of bi-weekly data stories produced in partnership with community based organizations and published by NDSC’s official media partner, KCETLink. Data stories incorporate maps, visualizations, photos, and rich narrative that highlight trends, opportunities, and challenges facing communities in the LA region. These data stories offer a powerful vehicle to advance additional Connect metrics, offering a platform to advocate for a number of key policies and investments that will make Los Angeles the most civically engaged region in the U.S. by 2050. 
-   
-   
-   
-   Lastly, NDSC activates Angelenos to make LA the best place to CONNECT through its ongoing series of community trainings, which are held monthly at USC and in the community. NDSC has launched a partnership with the Department of Neighborhood Empowerment, which supports the City’s 97 neighborhood councils in promoting public participation in government and improving government responsiveness to local concerns. Together, NDSC and Empower LA provide ongoing community workshops to train Angelenos on how to use data to activate change within their neighborhood. This partnership directly supports participation in neighborhood councils — a specific metric within the Connect goal. 
-   
-   
-   
-   Through these activities, NDSC helps the region work to become a place where every resident has the opportunity to engage, interact, and contribute to the region’s civic vitality.
-project_proposal_engage: >-
-  NDSC activates nonprofits, government agencies, neighborhood councils,
-  businesses, and other civic actors to make LA the best place to CONNECT
-  through storytelling and trainings that help people use data to advocate for
-  their community’s needs. Since the platform launched in October 2017, the
-  platform has been viewed over 30,000 times. NDSC will scale up current
-  activities to reach a total of 100,000 Angelenos over the next two years.
-  Working with a range of community organizations, we will increase the number
-  of trainings within LA County neighborhoods, to ensure that all Angelenos are
-  able to locate the neighborhood data needed to activate change within their
-  communities. NDSC will strategically partner with Neighborhood Councils,
-  ensuring that we reach the full diversity of neighborhoods across the region —
-  big and small, urban and rural, wealthy and under-resourced. A webinar will
-  also be created to reach people that cannot attend a training. Training
-  content will be promoted on the NDSC platform, in a monthly newsletter, and on
-  the NDSC Twitter handle, which shares training schedules, new datasets and new
-  data stories. Lastly, additional outreach will be conducted to engage more
-  community partners in co-developing biweekly data stories published in
-  partnership with KCETLink. Through these strategies, NDSC will provide a
-  ladder of local data engagement for all Angelenos — from attending a single
-  community training to participating as a full partner on new data stories.
+  - County of Los Angeles
+  - City of Los Angeles
 project_measure: >-
-  NDSC has a number of built-in metrics that help define and measure success.
-  Increased visibility and community engagement will be the primary metrics that
-  we use throughout the two-year year. Monitoring visibility will include an
-  ongoing analysis of online traffic to the platform, an analysis of media
-  coverage and social media engagement, and engagement with the bi-weekly data
-  stories published through KCETLink. By 2019, we plan to have 50,000 Angelenos
-  using the platform. By 2020, we anticipate that number climbing to 100,000
-  users. Increased community engagement will be measured by analyzing the number
-  of individuals who are registering for, attending, and being waitlisted for
-  our community training workshops. By 2019, we plan to reach 1,000 Angelenos
-  through these trainings. By 2020, we plan to reach 2,000 participants. We will
-  also record how much platform-related feedback we receive from the community,
-  and how often individuals are downloading data and/or creating a login with
-  the platform. Additionally, we will track inquiries from community groups
-  requesting collaborations on data stories, as well the number of community
-  partnerships to support NDSC training workshops. At all community trainings,
-  we will gather user testimonials on how NDSC is helping to activate change in
-  their community. Testimonials will be shared via social media, in our
-  newsletter, and on the platform itself.
-project_five_years: >-
-  In five years, Angelenos from all neighborhoods, with different backgrounds,
-  goals, and aspirations for their neighborhoods, will use NDSC to activate
-  change within their community. Civic actors will recognize NDSC as the go-to
-  resource for accurate, timely, and policy relevant information about the
-  challenges, opportunities, and trends facing local neighborhoods. Civic actors
-  will have the information needed to generate informed and evidence-based
-  policies and programs that address the unique needs of their communities. And,
-  they will have a platform to share stories relevant to their community, using
-  NDSC data stories to voice their opinions, influence policymakers, and
-  advocate for their needs. NDSC will remain free to all users retaining its
-  commitment to democratizing data; NDSC is the byproduct of a community-owned
-  vision for accessible, transparent neighborhood data, and it is the community
-  that will continue to shape the evolution of the platform. By working directly
-  in partnership with nonprofit organizations, businesses, advocacy groups,
-  neighborhood councils, and other civic actors, NDSC will activate a new era of
-  civic engagement in Los Angeles, helping Angelenos build and track progress
-  toward a shared vision for the future of Los Angeles.
-category_metrics:
-  - Travel time to work
-  - Number of public transit riders
+  Our primary measure of success will be designing an open and accessible
+  platform that is adopted by election officials in Los Angeles and widely used
+  by citizens and nonprofits that advocate for more voices and choices in
+  politics. Our long-term goal is to produce more inclusive, diverse and
+  competitive elections, beginning with this LA pilot and then expanding across
+  the state. Our long-term measure of success will be increasing the diversity
+  and quantity of people running for elected offices at all levels. In the
+  short-to-medium term, our focus is on encouraging greater local participation
+  and more representative local democracy. Initial success will be measured in
+  three ways:
+
+  - First, we need support from city and county officials for a new and open
+  platform for tracking elected office data like filing windows, salaries,
+  application requirements, and who else is running.
+
+  - Second, we will collect data to measure whether and how the new platform is
+  used by individuals, nonprofits and other groups that encourage diverse and
+  underrepresented populations to run for office. 
+
+  - Third and most importantly, we will measure whether there is an increase in
+  the quantity and diversity of people running for elected offices in Los
+  Angeles.
+project_proposal_help:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+project_proposal_description: >-
+  We’re building a new data platform that will make LA the most accessible and
+  inclusive place to run for office anywhere in the nation. With support and
+  guidance from local election officials, our team at USC will work to
+  transition LA’s elected office data into a streamlined and open platform. This
+  new database will allow users to see all available elected offices based on
+  their address and provide crucial details such as filing windows, salaries,
+  requirements, and competitors.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
-category_other:
-  - LA is the best place to LEARN
-  - LA is the best place to CREATE
-  - LA is the best place to PLAY
-  - LA is the healthiest place to LIVE
+  - Rates of volunteerism
+  - Voting rates
+project_proposal_best_place: >-
+  Over the last decade, 28 cities in Los Angeles County have cancelled elections
+  for mayor or city council “because no one bothered making a challenge.” A
+  recent Pew survey shows that those who do run for office remain
+  disproportionately male, white, and well-educated. Only 20% of elected offices
+  nationally are held by women, and there is only one woman on the 15-person Los
+  Angeles City Council. Young people especially are running *away* from office
+  at record rates, with 90 percent saying they would never want to serve in any
+  of the nation’s more than 500,000 elected offices. In short, our democracy is
+  facing a crisis of leadership that can only be solved when a larger and more
+  diverse group of Americans runs for office. 
+
+
+  At a time when most of the world’s information is only a click away, it is
+  nearly impossible to find a clear and complete list of offices one is eligible
+  to run for. This lack of basic information about how to run for office
+  prevents the people of LA, and especially young people and other politically
+  underrepresented groups, from being equally informed about leadership
+  opportunities in their communities. The good news is that unlike the major
+  structural and cultural barriers to running for office, the problem of data
+  access is one we are equipped to solve today. 
+
+
+  With support and guidance from LA election officials and the CA Secretary of
+  State, our team at the University of Southern California will work within
+  Greater Los Angeles - and ultimately in all 58 California counties - to
+  transition our elected office data into a streamlined and open platform. The
+  database would not only allow users to see all available elected offices based
+  on their address, but also provide crucial details like filing windows,
+  salaries, application requirements, and who else is running.
+
+
+  Primary users of this public database and API will include nonprofits like She
+  Should Run and Veterans Campaign, which encourage and support first-time
+  candidates. The database will also be used by technology companies like
+  Facebook and Nationbuilder, which is already designing solutions that make it
+  easier for their users to run for office.
+link_newsletter: N/A
+link_volunteer: N/A
+link_donate: N/A
+plan_id: 84265
+order: 46
 category: connect
 uri: /connect/university-of-southern-california/
-order: 24
-project_image: university-of-southern-california.jpg
-year: 2018
+year: 2016
 
 ---

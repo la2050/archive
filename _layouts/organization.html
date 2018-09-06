@@ -1,0 +1,285 @@
+---
+layout: default
+main_class: standard-layout
+stylesheets:
+  - "/assets/css/project-list.css"
+  - "/assets/css/project.css"
+---
+
+<style>
+figure {
+  display: none;
+}
+.links-more,
+.proposal-introduction {
+  background-color: var(--primary-color);
+  color: white;
+  text-align: center;
+  padding: 1.5em;
+  margin: 0 -1.5em 0;
+}
+.proposal-introduction h1 {
+  color: inherit;
+  max-width: none;
+}
+.proposal-header {
+  grid-column: 1/-1;
+}
+.proposal-description {
+  grid-column: 1/-1;
+}
+.proposal-description p {
+  margin-left: auto;
+  margin-right: auto;
+}
+.links-involved {
+  grid-column: 1/-1;
+}
+.links-involved h2 {
+  display: none;
+}
+.links-involved ul.action {
+  margin-top: 1.5em;
+  justify-content: center;
+}
+@media (min-width: 40em) {
+  .links-more,
+  .proposal-introduction {
+    margin-left: -4.5em;
+    margin-right: -4.5em;
+    padding: 3em 4.5em;
+  }
+}
+.links-more {
+  margin-top: -3em;
+  margin-bottom: 1.5em;
+  padding-top: 0;
+  padding-bottom: 1.5em;
+}
+</style>
+
+<section class="proposal-introduction" style="grid-column: 1/4">
+
+<div class="proposal-header">
+{% comment %}
+<p class="category">
+  <a href="/{{ page.category }}/">{{ page.category }}</a>
+</p>
+{% endcomment %}
+<h1 style="margin-bottom: 0">{{ page.organization_name }}</h1>
+</div>
+
+{% if page.organization_instagram contains "http" %}
+{% assign instagram_url = page.organization_instagram %}
+{% elsif page.organization_instagram contains "instagram.com/" %}
+{% capture instagram_url %}https://{{ page.organization_instagram }}{% endcapture %}
+{% else %}
+{% capture instagram_url %}https://instagram.com/{{ page.organization_instagram }}{% endcapture %}
+{% endif %}
+
+
+{% assign image_url = page.project_image %}
+{% assign image_category = page.category %}
+
+<figure class="feature has-image">
+<div data-aspect-ratio="1280/720">
+
+<a href="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}">
+
+{% if page.plan_id %}
+<img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt="" width="540" height="428" />
+{% else %}
+<img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt="" width="500" />
+{% endif %}
+
+</a>
+
+</div>
+</figure>
+
+<div class="proposal-description">
+<!-- TODO: Handle long lists of collaborators:
+  /learn/wish-academy-high-school/
+  /connect/data-roads-foundation/
+  /connect/investing-in-place/
+  /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
+-->
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.organization_description }}</p>
+
+<p style="margin-bottom: 0">
+  {{ page.organization_activity }}
+</p>
+
+{% if site.phase == 6 and is_finalist == true %}
+{% comment %}
+<span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank">Vote </a></span>
+ <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+<p class="action"><a href="https://jimthoburn.typeform.com/to/fGLGJB" target="_blank">Vote</a></p>
+{% endcomment %}
+{% endif %}
+
+<!-- <dl>
+<dt>Organization type</dt>
+<dd>{{ page.organization_description }}</dd>
+</dl> -->
+</div>
+
+
+
+
+{% if page.link_donate and page.link_donate != '' %}
+{% assign link_donate_exists = true %}
+{% endif %}
+
+{% if page.link_volunteer and page.link_volunteer != '' %}
+{% assign link_volunteer_exists = true %}
+{% endif %}
+
+
+{% if link_donate_exists or link_volunteer_exists %}
+<div class="links links-involved">
+<h2>Get involved</h2>
+
+<ul class="action" style="max-width: none;">
+  {% if link_donate_exists %}
+
+    {% for link_donate in page.link_donate limit:1 %}
+
+    {% if link_donate contains "http" or link_donate contains "mailto" %}
+    {% assign link_donate_url = link_donate %}
+    {% else %}
+    {% capture link_donate_url %}http://{{ link_donate }}{% endcapture %}
+    {% endif %}
+
+    {% assign url_contains_notes = '' %}
+    {% if link_donate_url contains " " %}
+    {% unless link_donate_url contains "?subject" %}
+    {% assign url_contains_notes = link_donate_url %}
+    {% endunless %}
+    {% endif %}
+    {% if url_contains_notes == '' %}
+    <li><a href="{{ link_donate_url }}">Donate</a></li>
+    {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+  {% if link_volunteer_exists %}
+
+    {% for link_volunteer in page.link_volunteer limit:1 %}
+
+    {% if link_volunteer contains "http" or link_volunteer contains "mailto" %}
+    {% assign link_volunteer_url = link_volunteer %}
+    {% else %}
+    {% capture link_volunteer_url %}http://{{ link_volunteer }}{% endcapture %}
+    {% endif %}
+
+    {% assign url_contains_notes = '' %}
+    {% if link_volunteer_url contains " " %}
+    {% unless link_volunteer_url contains "?subject" %}
+    {% assign url_contains_notes = link_volunteer_url %}
+    {% endunless %}
+    {% endif %}
+    {% if url_contains_notes == '' %}
+    <li><a href="{{ link_volunteer_url }}">Volunteer</a></li>
+    {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+</ul>
+</div>
+{% endif %}
+
+</section><!-- /.proposal-introduction -->
+
+{% comment %}
+<hr />
+{% endcomment %}
+
+{% include project-links.html %}
+
+{% comment %}
+<hr />
+{% endcomment %}
+
+{% if page.project_video and false %}
+<div style="grid-column: 1/4;">
+  <figure class="feature proposal-video-figure">
+    <div data-aspect-ratio="1280/720">
+      <div class="proposal-video">
+        <iframe src="{{ page.project_video }}&modestbranding=1" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </figure>
+  <script type="text/template" id="video-template">
+    <figure class="feature proposal-video-figure">
+      <div data-aspect-ratio="1280/720">
+        <div class="proposal-video">
+          <iframe src="{{ page.project_video }}&modestbranding=1&autoplay=1" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </figure>
+  </script>
+</div>
+
+<script type="text/javascript">
+  // Replace the image with a video element, if the link to the video has been pressed
+  (function() {
+
+    // Do we have the features we need?
+    if (!document.body.querySelector ||
+        !document.body.addEventListener) return;
+
+    var button   = document.getElementById('video-figure');
+    var template = document.getElementById('video-template');
+    var parent;
+
+    var activated = false;
+
+    if (button && template) {
+      parent = template.parentNode;
+      button.addEventListener('click', function(e) {
+        if (activated) {
+          parent.scrollIntoView({ behavior: 'smooth' });
+          e.preventDefault();
+          return;
+        }
+        activated = true;
+        parent.innerHTML = template.innerHTML;
+        parent.scrollIntoView({ behavior: 'smooth' });
+        // template.parentNode.scrollIntoView(true);
+        document.body.classList.add('has-active-video');
+        e.preventDefault();
+      }, false);
+    }
+  })();
+</script>
+{% endif %}
+
+
+<h2>Projects</h2>
+
+
+<ul style="list-style: none; margin-left: 0; padding-left: 0;">
+  <li style="list-style: none; margin-left: 0; padding-left: 0;">
+    <a href="{{ page.uri }}" style="color: var(--primary-color); display: flex; align-items: center; align-content: center;">
+      {% if page.plan_id %}
+      <div style="margin-right: 1.5em;"><img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt=""
+              width="540" height="428" /></div>
+      {% else %}
+      <div style="margin-right: 1.5em;"><img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt=""
+              width="500" /></div>
+      {% endif %}
+
+      {{ page.title }}
+    </a>
+  </li>
+</ul>
+
+
+
+<div style="margin-bottom: 9em"></div>
+
+

@@ -91,7 +91,7 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
   <li class="{{ data.category }}">
-    <a href="{{ data.uri }}">
+    <a href="{{ data.uri | replace: data.category, 'organizations' }}">
       <span class="image">
         {% assign image_url = data.project_image %}
         {% assign image_category = data.category %}
@@ -102,9 +102,11 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
         <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 20em, 100vw" width="500" alt="" />
         {% endif %}
       </span>
-      <p class="organization">{{ data['organization_name'] }}</p>
-      <h3>{{ data['title'] }}</h3>
-      <p class="description">{{ data['project_description'] }}</p>
+      <!--
+      <p class="organization">{{ data['organization_description'] }}</p>
+      -->
+      <h3>{{ data['organization_name'] }}</h3>
+      <p class="description">{{ data['organization_activity'] }}</p>
     </a>
   </li>
 

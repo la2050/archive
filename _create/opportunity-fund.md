@@ -1,70 +1,34 @@
 ---
-application_id: '1350841382'
 title: >-
-  Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
-  Small Business Owners.
-project_description: >-
-  The Responsible Business Lending Coalition (RBLC) will educate and empower
-  L.A. entrepreneurs and Angelenos to advocate against predatory lending
-  practices for themselves and their communities.
+  Catalyzing Community Partnerships to create economic mobility for LA’s
+  underserved entrepreneurs
 organization_name: Opportunity Fund
 organization_description: Non-profit organization
-project_video: 'https://youtu.be/KrGSS4OtP50'
 organization_website:
-  - 'http://www.borrowersbillofrights.org'
-  - 'http://Opportunityfund.org'
-  - 'http://Smallbusinessmajority.org'
-  - 'https://us.accion.org/about-us/'
-  - 'http://fieldus.org/index.html'
-  - 'http://cim-llc.com/'
-  - 'https://www.lendingclub.com/'
-  - 'https://www.fundingcircle.com/us/'
-  - 'http://www.fundera.com'
-organization_twitter:
-  - '@opportunityfund'
-  - '@OFSmallBusiness'
-  - '@AspenMicro'
-  - '@AccionUs'
-  - '@SmlBizMajority'
-  - '@LendingClub'
-  - '@FundingCircleUS'
-  - '@Fundera'
-  - '@VenturizeOrg'
-organization_facebook:
-  - 'https://www.facebook.com/opportunityfund'
-  - 'https://www.facebook.com/ofsmallbusiness/'
-  - 'https://www.facebook.com/FIELDatAspen/'
-  - 'https://www.facebook.com/SmallBusinessMajority/'
-  - 'https://www.facebook.com/VenturizeOrg/'
-  - 'https://www.facebook.com/LendingClubTeam/'
-  - 'https://www.facebook.com/FundingCircleUS/'
-  - 'https://www.facebook.com/fundera/'
-organization_instagram:
-  - 'https://www.instagram.com/opportunityfund/'
-  - 'https://www.instagram.com/accion_us/'
-  - 'https://www.instagram.com/smlbizmajority/'
-  - 'https://www.instagram.com/gofundera/?hl=en'
-link_newsletter:
-  - 'http://www.borrowersbillofrights.org/blog'
-  - 'mailto:info@borrowersbillofrights.org'
-link_volunteer: ''
-link_donate:
-  - 'http://www.opportunityfund.org/donate'
-  - 'https://us.accion.org/partner-with-us/donate/'
-  - 'http://www.smallbusinessmajority.org/donate'
-  - 'https://www.aspeninstitute.org/contribute/'
+  - www.opportunityfund.org
+organization_twitter: OpportunityFund
+organization_facebook: opportunityfund
+organization_instagram: opportunityfund
 organization_activity: >-
-  RBLC is a network of lenders and small business advocates in Los Angeles
-  committed to advancing policies that combat predatory lending, promote
-  responsible lending, and support small business owners.
-project_proposal_description: >-
-  The activation will build awareness among entrepreneurs who are often prone to
-  predatory lending and strategically create/advance a policy agenda that
-  advances responsible lending. Angelenos and LA-based business owners will help
-  drive these efforts through active storytelling and advocacy. Predatory
-  lending is harmful to business owners, their families and communities, and our
-  City of Angels, and we are activating a movement to lift up the voices of
-  Angelenos and fight back.
+  Opportunity Fund (OF) advances the economic well-being of working people by
+  helping them to earn, save and invest in their future in order to create
+  vibrant communities.
+project_image: 7035677564741-team90.jpg
+project_video: 'https://www.youtube.com/embed/_vusFmjTWcg?rel=0&amp;showinfo=0'
+project_description: >-
+  Opportunity Fund will say “Yes!” to 240 underserved LA small business owners
+  in collaboration with 10+ community organizations and invest capital in their
+  enterprises to create self-sufficiency & jobs
+project_is_collaboration: 'No'
+project_collaborators: >-
+  While Opportunity Fund has collaborative relationships with 10 LA-based
+  community organizations formally working with us as Community Partnerships to
+  support small business owners, this application is submitted solely on behalf
+  of OF. The community partners we’ve engaged on this collaborative effort
+  include Pace, Vermont Slauson Economic Development Center, MCS, Lurn, LA-Mas,
+  LA Business Source, AmPac CDC, Asian Pacific Islander Small Business Program
+  and Camino Financial.
+project_applying: '$100,000'
 project_areas:
   - Central LA
   - East LA
@@ -73,106 +37,62 @@ project_areas:
   - South LA
   - Westside
   - South Bay
+  - Gateway Cities
   - Antelope Valley
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_proposal_mobilize:
-  - Advocate for policy
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - >-
-    Encourage businesses to change practices (e.g. buycott, boycott, promote
-    corporate social responsibility)
-  - >-
-    Increase participation in political processes (e.g. voting, running for
-    office, community problem solving)
-  - >-
-    Influence individual behavior (e.g. change consumer spending or increase
-    conservation activity)
-project_proposal_best_place: >-
-  Entrepreneurship is vital to a thriving Los Angeles, but access to the capital
-  necessary to start and grow a small business continues to be a serious
-  problem. Research from Small Business Majority finds that 91% of small
-  business owners identify this as a top area of concern. When small business
-  owners are denied a traditional loan, many turn to high-cost alternative
-  financing sources. Opportunity Fund research has found Los Angeles business
-  owners face APRs of an average of 94%. These high-cost products can jeopardize
-  businesses, homes, and families and leave a vacuum in communities should these
-  businesses fail. This is particularly true for women and minority
-  entrepreneurs, who are less likely to be approved for traditional loans than
-  their white male counterparts.
-   
-   
-   
-   To address this issue, the RBLC formed in 2015 to support responsible practices in the small business lending sector. We have created the Small Business Borrowers’ Bill of Rights (the Rights)—a set of practices lenders and brokers adhere to when financing small business owners—and are now planning an intensive LA-focused campaign to activate Angelenos around responsible lending through education and policy advocacy. By creating momentum among the county’s small business and entrepreneurial community, we can push for stronger protections against predatory lending and better support those most affected by discriminatory and predatory lending practices, in particular, women and minority entrepreneurs working to start and grow their firms.
-   
-   
-   
-   In our education campaign, we will create and disseminate materials to ensure that entrepreneurs know the following: 1) their rights when searching for a loan, 2) which responsible lenders operate in their area, and 3) which questions to ask to ensure they find a responsible loan. We will compile an LA-specific online toolkit with this information and share it with our networks and with local business organizations for distribution to their networks. We also will conduct in-person educational events for local entrepreneurs. These events will be open to all, but we will focus our outreach on engaging women and minority entrepreneurs to better support their ability to protect themselves from predatory lenders.
-   
-   
-   
-   We also will create and advance a policy agenda informed by feedback from LA entrepreneurs. To advocate for stronger legal protections, we will collect stories from small business owners who have been trapped by predatory lenders, and we will share these stories widely. We will train small business spokespeople to speak with the media and send opinion pieces to local outlets. We will meet with local government leaders to elevate the issue, and we will connect our spokespeople with their elected representatives to ensure that policymakers understand the detrimental impact of predatory lending on local business. These activities will raise public awareness about this issue and push for reforms to current lax lending laws.
-project_proposal_engage: >-
-  To make LA the best place to create, we will engage Angelenos in building a
-  large-scale movement to fight for fairness in small business lending. We will
-  create an LA-focused website that connects all strategies used during our
-  campaign. The site will house our resource toolkit on avoiding lending traps,
-  provide referrals to local responsible lenders, detail how to speak out
-  against predatory lending and connect Angelenos with their elected officials.
-   
-   
-   
-   Our educational events, held at accessible locations across the county, will provide practical information on how to obtain responsible capital. Whenever possible, we will include representatives from local responsible lenders to present with us, and we will provide referrals to local business assistance organizations for entrepreneurs who need additional support.
-   
-   
-   
-   We will raise public awareness about predatory lending and our available resources through a strategic traditional and social media campaign. We will widely distribute the personal stories of our spokespeople, and we will activate Angelenos to contact their elected officials to advocate for greater lending protections via lobby days and campaigns. To further extend our reach, we will create a marketing toolkit to help our business partners share this information with their members.
-   
-   
-   
-   Through this combination of practical education, increased public awareness and advocacy for sensible policy, we will make LA a national leader in the fight against predatory lending.
+  - County of Los Angeles
+  - City of Los Angeles
+  - Southeast LA
 project_measure: >-
-  Our ultimate goal is for all entrepreneurs and small business owners to have
-  access to responsible capital and protection from predatory lenders. To work
-  toward this goal, we aim to raise public awareness of the problem, increase
-  the number of lenders who support the Rights, and advocate for beneficial
-  policies at the local, state and federal levels.
-   
-   
-   
-   To measure our progress, we will track the new resources we create, including our educational and marketing toolkits, LA-focused website, and other appropriate materials. We will track outreach and educational event dates, locations, cosponsors and attendance numbers. We will compile a list of business and advocacy agencies with which we partner, and we will track how many partners distribute our materials to their memberships. We also will track the number of visitors to our website, media placements and spokespeople engagement, along with the number and type of social media campaigns we launch and how many engagements we receive through review of clicks, tweets and other channel-sponsored data-capturing systems.
-   
-   
-   
-   We will track our media activity around relevant legislative issues, participation in public discussions and educational meetings with policymakers. We will track whether policies are introduced or debated at the local or state levels. We also will track the increased number of Rights signatories and endorsers we engage over the course of this campaign.
-project_five_years: >-
-  In five years, we hope that every Angeleno small business owner can easily
-  access affordable, responsible capital to start and grow their business,
-  regardless of where in the county they are located or what language they
-  speak. Individual business owners and their advocates will be well-informed
-  about their options and their rights when seeking financing. Lenders will face
-  significant market pressure to deliver quality products or face declining
-  business. Policymakers will recognize and act on their knowledge that small
-  business owners deserve basic consumer protections. 
-   
-   
-   
-   We believe Los Angeles will be leading the way nationwide in demonstrating why and how a healthy financial ecosystem for entrepreneurs creates good jobs and thriving communities. The Small Business Borrowers Bill of Rights will be well known and used by business owners, their advocates, lenders, and policymakers across the nation.
-category_metrics:
-  - Gini coefficient
+  OF uses a variety of performance indicators to measure the success of our
+  microloans and our small business clients. In the short term, we track the
+  number of applicants and number, dollar volume, and type of loans originated,
+  and client characteristics such as income, ethnicity, gender, credit score,
+  household size, type of business, sales and number of employees.  
+
+
+  Over time, we measure the impact of our loans by tracking changes in borrower
+  household income; growth of business sales and income; job creation; and
+  business survival rates. We also gather data related to client satisfaction
+  and confidence in running their business as a result of OF’s microlending and
+  advising services.  This data is collected using MicroTest, a performance
+  evaluation tool developed by the Aspen Institute and used by the nation’s
+  leading microenterprise organizations. Data on these outcomes is measured
+  starting two years after the loan is made, and is collected through phone
+  surveys and tax returns.  
+
+
+  Through our Community Partners Program, OF seeks to invest $4.8 million in 240
+  small businesses in LA County’s underserved communities in FY17. Based on
+  previous results measured through MicroTest surveys, we project these
+  investments to generate positive outcomes for our borrowers, including the
+  creation/retention of 2.7 jobs/loan on average, a 20% increase in business
+  revenue, a 90% business survival rate, in addition to a “ripple effect” of $2
+  in economic activity for every $1 invested.
+project_proposal_help:
+  - 'Money '
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Network/relationship support
+project_proposal_description: >-
+  OF is committed to the idea that a small amount of money, combined with
+  meaningful financial advice, can help working people pursue the proven
+  pathways to prosperity in their own lives while driving economic mobility and
+  building stronger communities. Through our Community Partners Program, we
+  combine forces with community-based organizations by providing microloans to
+  their constituents. This collaboration is a means to scale and provide fairer
+  and affordable capital options for our community.
+project_proposal_impact:
   - Jobs per capita
   - Minority- and women-owned firms
-category_other:
-  - LA is the healthiest place to LIVE
+project_proposal_best_place: "Entrepreneurship provides a path to employment for low-wage workers. While Greater LA features high levels of small business ownership, it lacks sufficient capacity to address the capital needs of these entrepreneurs.\nConventional lenders have tightened their requirements, limiting access by small business owners. And some financing options such as payday loans and merchant cash advances strap high APRs on available financing, doing more harm than good. Access to affordable, appropriate capital is essential for small businesses to survive and thrive.  Almost half of small businesses that fail do so because they cannot get the financing they need to grow.  \n\nOF helps local entrepreneurs gain access to credit, advising, and the means to build a stable enterprise, earn a living wage, and work toward financial independence while creating jobs in their community. Since our launch in 1994, OF has offered an innovative combination of products and services, directing more than $516 million, and thousands of hours of financial training into California's distressed neighborhoods, improving lives in more than 23,000 households. OF provides loans of $2,600 to $100,000 at low, fixed interest rates to low-income entrepreneurs with small capital needs and imperfect credit.\n\nThrough our new Community Partnership Program, OF is creating a network of quality lending partners that collectively have a deeper reach, improve the entrepreneurship ecosystem and have an electronic portal to capture data. OF will create a consistent partner referral channel for microbusiness, thereby increasing new loan volume.  By leveraging OF’s position as an “Affordable and Responsible” lender, and capitalizing on our expert knowledge of alternative financing to educate and train partners about “New School Lending,” we expect to be a best alternative to more LA small business owners. To date, OF has secured MOUs with the following LA-area community partners: AmPac Tri-State CDC; APISBP; LA Mas; LURN; MCS – Harbor City; MCS – Hollywood;PACE and Vermont-Slauson EDC. Together we have originated 200 loans for a total of $2 million invested in the local economy.\n\nOF’s model will create a more vital work force in LA. Each of our loans creates or maintains an average of 2.7 jobs, resulting in a “ripple effect” that generates new revenues, wages, and taxes that flow through the local economy. A recent independent study found that every $1 OF lends generates nearly $2 in new annual economic activity.\n\nOF has helped fill the financing gap by providing microloans to low-income entrepreneurs throughout CA . Our expansion to LA builds on this successful track record, ensuring access to capital for the region’s small businesses. A $100,000 award from LA2050 will help Opportunity Fund work with our community partners to:\n\toriginate 240 microloans to underserved entrepreneurs in LA \n\tinvest $4.8 million  in the LA’s undercapitalized neighborhoods \n\tcreate or retain more than 650 jobs"
+link_newsletter: 'http://www.opportunityfund.org/newsletter/'
+link_volunteer: null
+link_donate: 'https://secure.opportunityfund.org/'
+plan_id: 82523
+order: 9
 category: create
 uri: /create/opportunity-fund/
-order: 5
-project_image: opportunity-fund.jpg
-year: 2018
+year: 2016
 
 ---

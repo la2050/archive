@@ -1,145 +1,104 @@
 ---
-application_id: '400097366'
-title: 'Intersections: The power of our common stories.'
-project_description: >-
-  It all begins with sharing stories. Imagine LA and L.A. Works are joining to
-  empower 150,000+ Angelenos to share their own life experiences to help
-  alleviate homelessness in our city.
+title: Volunteer and be a Part of the Solution to Family Homelessness
 organization_name: Imagine LA
 organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
-link_newsletter: 'http://imaginela.org/activatela'
-organization_website: www.imaginela.org
-organization_twitter: '@ImagineLA'
-organization_facebook: '@ImagineLA'
-organization_instagram: '@Imagine.LA'
-link_donate: 'http://www.imaginela.org/donate/'
-link_volunteer: 'http://www.imaginela.org/get-involved/'
+organization_website:
+  - imaginela.org
+organization_twitter: ImagineLA
+organization_facebook: ImagineLA
+organization_instagram: Imagine.LA
 organization_activity: >-
-  Imagine LA recruits teams of volunteer mentors who are trained and guided by
-  professional social service staff to assist vulnerable families, ending their
-  cycle of homelessness and poverty.
-project_proposal_description: >-
-  Sharing stories and making connections is essential to developing the trusting
-  mentor/mentee relationships that pull a vulnerable family out of the cycle of
-  homelessness. This fresh outreach campaign will show that disparate groups of
-  Angelenos have more in common than they would ever think, evoking the fun and
-  reward of these commonalities, ultimately recruiting more volunteer mentors .
-  With this grant, we’ll be able to supercharge our program and make an enormous
-  impact on homelessness in L.A.
+  Imagine LA works to end the cycle of family homelessness by mobilizing trained
+  mentors, collaborative public and private resources, and community leaders.
+project_image: 7555177065741-team91.png
+project_video: 'https://www.youtube.com/embed/zp24MctE2Xo?rel=0&amp;showinfo=0'
+project_description: >-
+  Imagine LA recruits and trains volunteers across LA County to mentor formerly
+  homeless families to break their cycle of poverty and to ultimately thrive.
+project_is_collaboration: 'No'
+project_collaborators: none
+project_applying: '$50,000'
 project_areas:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_proposal_mobilize:
-  - Trainings and/or in-person engagements
-  - >-
-    Influence individual behavior (e.g. change consumer spending or increase
-    conservation activity)
-  - Connect Angelenos with impactful volunteer opportunities
-project_proposal_best_place: >-
-  People are more likely to trust and fully engage with one another when they
-  share common experiences and interests. Knowing this, Imagine LA created a
-  unique onboarding process, which we use when matching volunteer mentors with
-  families who’ve experienced homelessness. Our professional staff trains and
-  guides the mentor/mentee pairs as they share life timelines, family genograms,
-  personal values, and views on money management. These exercises evoke
-  laughter, “a ha!” moments and sometimes tears. Shortly, they discover they
-  have more in common than they would ever have thought. 
-   
-   
-   
-   Often used as a therapeutic intervention, the timeline project creates an intimate connection between participants as they explore their history, attitudes, circumstances, and decision-making. “It’s been said that a picture is worth a thousand words. If so, then capturing your life on paper with a timeline exercise may be worth millions.“ (Staik, 2013)
-   
-   
-   
-   Modeling this deep and barrier-busting experience, the "Intersections" campaign will significantly increase the number of mentors in the Imagine LA program. Potential volunteers need to see the foundation we create for success and be empowered with the realization that they too have what it takes to be a life-changing mentor for families emerging from homelessness — simply the ability to share. What begins with a connection ends with breaking the cycle of homelessness.
-   
-    
-   
-   Partnering with L.A. Works, the largest volunteer network in Los Angeles, Imagine LA will create a public awareness and outreach campaign, pairing social media marketing, community outreach, and events to educate and empower 150,000+ Angelenos. Ultimately, this will influence individual behavior, CONNECT 1,000 new mentors with vulnerable families in the Imagine LA program, and increase rates of volunteerism — not only as mentors, but with shorter-term volunteer roles. 
-   
-   
-   
-   A key component of our campaign is events-based. At L.A. Works’ large-scale days of service, which draw volunteers from around the county who are primed to make a deeper connection in service, we’ll lead trust-building activities like those we use during our mentor/mentee on-boarding process, educate participants, post on socials and ultimately sign up new volunteers to become mentors. 
-   
-   
-   
-   Mentorship promotes community and develops meaningful relationships full of mutual respect, love, and laughter. Showcasing this, and CONNECTing Angelenos to each other through their stories, will bring this campaign to life. Our shareable videos (live and animated), photos, and tactics like a mentor taking over our Instagram feed for a day will help increase the total number of local social media friends and connections Angelenos have. We anticipate the campaign to CONNECT Angelenos way beyond our goal of signing up mentors. It will empower them to volunteer in other ways and LEARN about those with disparate backgrounds and circumstances. It will break the cycle of homelessness for hundreds of families.
-project_proposal_engage: >-
-  In partnership with L.A. Works, Imagine L.A. aims to educate and engage adult
-  Angelenos as mentors for families emerging from homelessness. We will CONNECT
-  with more than 150,000 people, educating them about how sharing their own life
-  experiences and expertise could play a significant role in alleviating the
-  homeless crisis in Los Angeles, and empowering them to take action by signing
-  up to volunteer. Exploring, embracing and showcasing the common ground we all
-  share as Angelenos — and capitalizing on the fun of it as the cornerstone of
-  our campaign — will make LA the best place to CONNECT.
-   
-   
-   
-   We will utilize short, shareable videos and GIFs, targeted social media posts and social media advertising, info sessions/workshops, community outreach in target neighborhoods throughout Los Angeles, media outreach, and crowd activation activities. These will feature current mentors or mentor prospects and individuals who have experienced homelessness sharing their common life experiences, illustrating the joy and importance of sharing these experiences through storytelling. We will showcase these stories and create related, in-person activities to educate, recruit and sign up volunteer mentors at special L.A. Works days of service tailored to address homelessness in Los Angeles.
-project_measure: >-
-  We will define success as meeting the following objectives: 1) Educate more
-  than 150,000 people about how sharing their own life experiences and expertise
-  creates common ground and could play a significant role in alleviating the
-  homeless crisis in Los Angeles, empowering them to take action; 2) Recruit and
-  sign up volunteer mentors using many of the same tactics in person at targeted
-  L.A. Works events. Throughout the course of the campaign, we will sign up more
-  than 1,000 new mentors. 
-   
-   
-   
-   A mentor makes 100 connections with his/her mentee per year. 1000 x 100 = 100,000 connections. Necessarily, our campaign’s outreach impressions will actually represent a vastly larger number of connections that also have lasting impact.
-   
-   
-   
-   We will measure success by assessing:
-   
-   * Analytics about impressions, views and engagement on social media platforms
-   
-   * Web site traffic 
-   
-   * Media impressions
-   
-   * Community engagement metrics
-   
-   * Event attendance
-   
-   * Volunteer sign ups
-   
-   * Imagine LA mentor applications submitted
-   
-   * Mentors matched with families and in the pipeline to be matched
-   
-   
-   
-   Additionally, more volunteer mentors will allow the Imagine LA program to meet its potential so an extended result of this campaign, beyond its two years, will be helping hundreds more Los Angeles families flourish, breaking their cycle of homelessness and poverty.
-project_five_years: >-
-  The majority of people who are homelessness have experienced homelessness
-  before. Imagine LA, powered by mentors, public and private resources, and
-  communities, will have ended this cycle for hundreds, perhaps thousands of
-  families. This campaign will help us get there. It will also help us meet two
-  goals of our five-year strategic plan: to be embedded in LA County and a
-  nationally recognized model for homeless prevention and community
-  mobilization.
-   
-   
-   
-   This activation has limitless possibilities for renewal as it evolves to work with more narrowly defined target audiences throughout Los Angeles, i.e. different age groups, specific professions or community groups, geographic areas. In the not-to-distant future, we know we’ll have Imagine LA program graduates (mentees) joining us as mentors themselves.
-category_metrics:
-  - Adults getting sufficient social & emotional support
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+project_measure: "Our project success will be measured by systematically tracking and utilizing qualitative and quantitative data on the impact of the Family Empowerment and Mentorship model on both the families and volunteers. Below are our major impact assessment tools and processes that we track in our SalesForce database.\n1.\tWe track the following data for volunteers: \na.\tNumber of volunteers engaged in program and attendance of alumni activities\nb.\tThe recruitment status of where participants are in the process (ie. waitlist, matched, graduated) and overall case progress \nc.\tDemographics for all volunteers (age, race, location, education)\nd.\tHow did volunteers hear about us?\ne.\tSatisfaction Surveys: We administer biannual surveys to volunteer mentors, to better understand what's working as well as opportunities for improvement.\n2.\tWe track the following data for family performance:\na.\tQualitative Data: tracks eight key areas of each family’s life, including: Internal Relationships, Financial Literacy, Adult Education, Youth Education, Health and External Relationships. Each area is scored from “Vulnerable” to “Thriving.” This Performance Measurement Matrix allows staff, mentors, and families to track progress over time. \nb.\tQuantitative Data: tracks Income (earned and entitlement), Adult Education, Youth Grades, Child ASQ Scores, Debt and Savings. This data, along with housing status is also tracked for alumni."
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+project_proposal_description: >-
+  Imagine LA has built an innovative Family Empowerment and Mentorship model
+  that helps families exit homelessness and thrive. Our model creates a safe
+  place to connect, engage, and empower people from different ethnic, cultural
+  and socioeconomic backgrounds. In order to expand and work with 100 families
+  in 2017, we need volunteers.
+project_proposal_impact:
+  - Social & emotional support
   - Rates of volunteerism
-  - Total number of local social media friends and connections Angelenos have
-category_other:
-  - LA is the best place to LEARN
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+project_proposal_best_place: >-
+  According to polls, the largest issue currently plaguing LA is homelessness.
+  Our project answers the question, “How can I personally be involved and help
+  solve this issue?”
+
+
+  Our Family Empowerment and Mentorship model connects volunteers and formerly
+  homeless families to build relationships, and solid foundations of skills and
+  knowledge. Imagine LA’s professional staff of Family Team Managers work with
+  families to set goals, access private and public resources, and guides
+  volunteers to offer one-on-one mentorship to each member of the family.
+
+
+  Volunteer mentors receive training and are coached to provide one-on-one
+  mentorship in areas such as budgeting, tutoring, career development, school
+  support, wellness and more. Our model creates a safe place to connect, engage,
+  and empower people from different ethnic, cultural and socioeconomic
+  backgrounds.
+
+
+  The connections between the families and volunteer mentors have a profound
+  impact:
+
+  * 100% of graduated families maintain housing - eliminating the cycle (and
+  costs) of repeat homelessness. One episode of homelessness can the cost of
+  family homelessness on society can range from $49,604 to $169,4311 per year
+  (Berger Institute, 2013).
+
+  * Parents are on career paths and are able to increase their incomes. On
+  average Imagine LA families increase their earned income by 162%!  
+
+  * Families learn positive parenting skills and are able to provide stable
+  homes, which reduces the likelihood (and costs) of a child being placed in
+  foster care.  One child in foster care costs nearly $30,000 annually.
+
+  * 100% of youth participants are on track to finish high school and attend
+  college or trade tech (our first family’s eldest son raised by a single mother
+  graduated from Sacramento State University this past June).
+
+
+  Through the support of LA2050, Imagine LA will supercharge its volunteer
+  recruitment efforts through the creation of an impelling standalone video,
+  volunteer mobile app, and savvy staff to execute our communications strategy.
+  This will help us achieve our 2017 goal to work with 75-100 families and
+  recruit, train and guide 400+ volunteers.
+link_newsletter: 'http://www.imaginela.org/join-our-mailing-list/'
+link_volunteer: 'http://www.imaginela.org/become-a-volunteer/'
+link_donate: 'http://www.imaginela.org/donate/'
+plan_id: 84315
+order: 67
 category: connect
 uri: /connect/imagine-la/
-order: 19
-project_image: imagine-la.jpg
-year: 2018
+year: 2016
 
 ---

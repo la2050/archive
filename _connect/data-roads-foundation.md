@@ -1,121 +1,126 @@
 ---
-application_id: '8601366631'
-title: Women@Home Networks
-project_description: >-
-  Give people* burdened with various forms of unpaid home, child, and elderly
-  care a chance at local infrastructure network operator-ownership -- for better
-  educational and remote work online access.
+title: 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
 organization_name: Data Roads Foundation
 organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
-link_newsletter: 'https://www.local-shares.net/'
-organization_website: 'https://DataRoads.org'
-organization_twitter: '@jared4dataroads'
-organization_facebook: 'https://www.facebook.com/dataroads/'
-organization_instagram: ''
-link_donate: 'https://inspirepay.com/pay/data-roads-foundation/0'
-link_volunteer: 'https://www.local-shares.net/'
+organization_website:
+  - DataRoads.org
+organization_twitter: jared4dataroads
+organization_facebook: dataroads
+organization_instagram: dataroads
 organization_activity: >-
-  We provide open source software, education, and legal paperwork for nonprofit
-  Local Sharing Network co-ops -- otherwise known as 501(c)(12) Utility Co-ops
-  and 501(c)(4) community network providers.
-project_proposal_description: >-
-  *Women are still disproportionately burdened with unpaid home, child, and
-  elderly care. Local Sharing Network co-ops create an opportunity for all care
-  workers to both co-own and get paid for operating their neighborhood sharing
-  infrastructure including Internet access, renewable power generation, and
-  storage. New sharing technologies enhance existing community social sharing
-  with Internet communications, logistics, paid remote work, and free all-ages
-  educational resources.
+  The Data Roads Foundation helps build and maintain networked data roads for
+  everyone, because all roads should lead to all people.
+project_image: 1824656555741-team91.jpg
+project_video: 'https://www.youtube.com/embed/f1NWhlN60zE?rel=0&amp;showinfo=0'
+project_description: >-
+  Combining communications technologies like Mega-MIMO 2.0 and distributed Mesh
+  networking will allow LA learning institutions, including our schools and
+  libraries, to teach us both online and off.
+project_is_collaboration: 'Yes'
+project_collaborators: 'Internet-In-A-Box.org, Friends of the Library, LAUSD, LACC, LA Museums'
+project_applying: '$50,000'
 project_areas:
   - Central LA
   - East LA
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
   - LAUSD
-project_proposal_mobilize:
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - Create new tools or technologies for greater civic/political engagement
-  - >-
-    Encourage businesses to change practices (e.g. buycott, boycott, promote
-    corporate social responsibility)
-  - >-
-    Increase participation in political processes (e.g. voting, running for
-    office, community problem solving)
-  - >-
-    Influence individual behavior (e.g. change consumer spending or increase
-    conservation activity)
-  - Connect Angelenos with impactful volunteer opportunities
-  - Increase donations to organizations and causes
-  - Fundamentally change home care economies.
-project_proposal_best_place: >-
-  * Access to free WiFi will be part of any partner 501(c)(4) Local Shares
-  Network community welfare mission.
-
-   * Adults, especially in unpaid care work, will get more social & emotional support in the co-ownership and operation of these networks.
-
-   * Government responsiveness to residents’ needs will increase with more ready access to online government resources.
-
-   * Travel time to work will be negligible for new hyperlocal and telecommuting jobs.
-
-   * Percentage of public transit riders will increase to networked coworking hubs in each neighborhood served, and as a result of more previous vehicle commuters now working from home.
-
-   * Participation in neighborhood councils and other local volunteerism will become more convenient as home care workers are allowed to stay nearby all day, with no long commutes between local functions.
-
-   * Total number of local social connections among Angelenos will increase with cooperative membership.
-
-   * Online resources and local coordination groups will allow political messages and voting process updates to be communicated more readily around each service neighborhood.
-project_proposal_engage: >-
-  This will make connections more affordable for all Angelenos, and bring
-  connectivity where currently none is affordable or readily available. Richer
-  communities will be able to afford better access, complementary services, and
-  local cache offsets to remote Internet and power services. Lower income
-  communities will obtain subsidies for charitable class home installations,
-  co-op membership, and increased access to local and remote jobs online or in
-  local network maintenance. Home care providers in particular (who are still
-  disproportionately women and mothers) will be recruited and trained in routine
-  network maintenance for their local cooperative, in order to both provide them
-  with better paying on-call jobs and prevent the high expenses of site visits
-  and truck rolls from remote service centers. These home and hyperlocal work
-  forces will also act as the front line of customer service and novel service
-  studies for each neighborhood cooperative, to give them each a faster lead in
-  customer innovation testing and scalable demand assessments.
+  - Northeast LA
 project_measure: >-
-  We will count the number of neighborhoods adopting local cooperative sharing
-  network organizing methods; total members per cooperative; and fraction of new
-  local membership employed as in situ network infrastructure installers,
-  maintainers, and on-call repair staff. We will specifically reach out to
-  at-home care workers as existing neighborhood social leaders, with training
-  opportunities as paid infrastructure installers and maintainers.
-project_five_years: >-
-  Every self-defined community or Neighborhood Council district within LA City,
-  and major portions of LA County, will have member-owned Local Shares Network
-  co-ops, operated in whole or part by neighborhood connected home care workers
-  (who are no longer as disproportionately women). Thousands of new local and
-  remote-online jobs will be created in these service areas, and millions more
-  Angelenos will have the same or better bandwidth connections to the Internet
-  at much lower aggregate service costs. About half these service areas will
-  gain complementary online and local sharing logistics services in addition to
-  greater Internet access capacity, and half of these regions will gain
-  affordable Internet bandwidth where almost none was readily available
-  previously.
-category_metrics:
+  Schools, libraries, and museums currently use WiFi access points (AP) that get
+  worse as more patrons connect to them, and they don't help at all with
+  distributing learning resources in local caches. This means each additional
+  patron connection puts more strain on the local network and its E-Rate
+  subsidized Internet connection, so that it slows to a crawl or even breaks
+  very often. 
+
+
+  MIMO WiFi technologies use more than one antenna to beam connections to each
+  new patron, which means net performance should actually increase as patrons
+  are added. Mega-MIMO 2.0, as defined by MIT researchers, coordinates multiple
+  AP's to make one big virtual MIMO AP, with more antenna and beam diversity as
+  each AP is added. Combined with mesh routing methods, this allows existing
+  WiFi antennae resources to connect with patrons much faster and farther out.
+  These improvements are from better software, not expensive hardware. Our tests
+  of WiFi speed, range, reliability, and costs should all improve accordingly.
+
+
+  Once any Mega-Mesh extends beyond a host institution's walls, patrons who run
+  Mega-Mesh software on their devices can also join in to grow the net even
+  wider. As it grows into entire communities, local library and e-media
+  resources hosted on the Mega-Mesh can be spread around these communities
+  faster at lower costs. Event calendars and other locally sourced data can all
+  stay local, including during emergencies. Speed and reliability of tested
+  services should all improve as well.
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
+  - Start your own community network co-ops!
+project_proposal_description: >-
+  Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
+  including WiGig, fiber, beam antennas, ethernet, and broadband over
+  powerlines. This allows a Mega-Mesh to start with a small number of public
+  institutions, with distributed local hosting of teaching tools such as online
+  encyclopedias and coursework. Rather than depending on far away cloud
+  providers, e-media or courseware owned by any library can be shared directly
+  over its local Mega-Mesh.
+project_proposal_impact:
   - Access to free wifi
-  - Adults getting sufficient social & emotional support
-  - Travel time to work
-category_other:
-  - LA is the best place to LEARN
-  - LA is the best place to CREATE
-  - LA is the healthiest place to LIVE
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+project_proposal_best_place: >-
+  Too often, the Internet is seen as this big cloud of stuff very far away,
+  where the only way to access it all is via the incumbent Big Telco or Big
+  Cable gatekeeper, at whatever high prices they want. In reality, 'Internet' is
+  just shorthand for 'interconnected networks', and anyone can build and own a
+  small network without paying any monthly fees. Once anyone connects their own
+  network with any neighbors', they are considered peers on their own inter-net.
+  Unfortunately, that first incorrect view has been written into a lot of our
+  utility and connection laws, including FCC E-Rate restrictions on the kinds of
+  network services our public schools and libraries can afford. 
+
+
+  The combination of new Mega-MIMO 2.0 WiFi and distributed Mesh technologies
+  may allow us to fix these problems with Internet ownership and E-Rate
+  restrictions, and allow local community learning resources to thrive over a
+  local Mega-Mesh both online and off. With enough hardware funding for an
+  experimental Learning Angels' Mega-Mesh (LAMM) network, Los Angeles
+  institutions could become the first place where community teaching tools are
+  distributed, instead of the last place community members search for vanishing
+  scarce free WiFi.
+
+
+  If enough prototype hardware is funded for at least 2 site installations,
+  local Los Angeles learning institutions will all be eligible to apply to be
+  one of the first sites with a seed Mega-Mesh. More funding or less expensive
+  prototype hardware will allow us to accept more local institutions into the
+  prototype test phase. Distributed mesh services can replace centralized or
+  cloud library and e-media services on these Mega-Meshes, to directly serve
+  community members, and depend less on remote gatekeepers.
+link_newsletter: 'http://www.dataroads.org/blog/feed/'
+link_volunteer: null
+link_donate: 'https://www.dwolla.com/Payment/Register/5ce9c38c-9022-41fe-b389-472f391733d7'
+plan_id: 84014
+order: 34
 category: connect
 uri: /connect/data-roads-foundation/
-order: 48
-project_image: data-roads-foundation.jpg
-year: 2018
+year: 2016
 
 ---

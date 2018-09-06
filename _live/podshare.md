@@ -1,133 +1,173 @@
 ---
-application_id: '6349486617'
-title: Safe Place for Youth by Podshare
-project_description: >-
-  PodShare has built over 190 affordable housing units across Los Angeles and
-  SPY serves 1,100 homeless youth each year, connecting them to jobs, schools,
-  housing, healthcare, and basic necessities.
-organization_name: Podshare
+title: Building a Co-living Community for LA's Homeless Youth
+organization_name: PodShare
 organization_description: For-profit organization
-project_video: 'https://youtu.be/9T1sxwl670s'
-link_newsletter: 'http://www.safeplaceforyouth.org/mailing_list'
-organization_website: 'http://podshare.co/'
-organization_twitter: '@podshare'
-organization_instagram: Podshare
-organization_facebook: 'https://www.facebook.com/PodShare/'
-link_volunteer: 'http://www.safeplaceforyouth.org/outsidevolunteer'
-link_donate: 'http://www.safeplaceforyouth.org/in_kind_donations'
+organization_website:
+  - PodShare.co
+organization_twitter: podshare
+organization_facebook: podshare
+organization_instagram: podshare
 organization_activity: >-
-  PodShare has built over 190 affordable housing units across Los Angeles and
-  SPY serves 1,100 homeless youth each year, connecting them to jobs, schools,
-  housing, healthcare, and basic necessities.
-project_proposal_description: >-
-  This grant money would secure a property and build 20 pods in West LA within 6
-  months. Once built, we will jointly fund raise to secure ongoing rent and
-  maintenance costs for the facility, apply for Measure H funds to for basic
-  services and staffing, and use other private funds for additional programming.
-  This activation will decrease the number of homeless Angelinos on our streets
-  and make temporary housing affordable and scalable, helping hundreds of young
-  people find affirming community.
+  PodShare builds affordable membership-based live/work communities to share
+  across the city of LA - access to our network of locations to co-live,
+  co-work, & collaborate
+project_image: 7267442825741-team91.jpg
+project_video: 'https://www.youtube.com/embed/nzZIUSqsR-Y?rel=0&amp;showinfo=0'
+project_description: >-
+  PodShare builds affordable live/work communities with custom-designed pods,
+  open floor plans, and access to a network of locations to co-live, co-work,
+  and collaborate.
+project_is_collaboration: 'Yes'
+project_collaborators: >-
+  'PodShare for Homeless Youth' would be serviced by one or more non-profit
+  partners who would identify WHO stays, for WHAT duration of time, and HOW they
+  can benefit from communal living., , The following organizations have
+  expressed interest in collaboration:, , Representatives of the  ’Hollywood
+  Homeless Youth Partnership' (LA LGBT Center and Children's Hospital) and 
+  County of Los Angeles, Department of Children and Family Services (75% of
+  emancipated foster children experience homelessness).
+project_applying: '$100,000'
 project_areas:
-  - Westside
-project_proposal_mobilize:
-  - Connect Angelenos with impactful volunteer opportunities
-project_proposal_best_place: >-
-  Currently, there are thousands of young people on the streets of LA fighting
-  to survive. They are creative, resilient, generous, powerful and represent
-  immeasurable untapped talent. County-wide efforts to address homelessness are
-  critical to systemic shift, yet community level interventions have tangible
-  impact on neighborhood culture, connectedness, safety and health. By taking a
-  local approach to addressing youth homelessness and leveraging key
-  organizational skill sets, Podshare and Safe Place for Youth (SPY) are poised
-  to take on youth homelessness in West LA, improving the lives of housed and
-  unhoused Angelenos alike.
-   
-   
-   
-   The vast majority of homeless adults, first experience homelessness in their teens and early 20’s. If stabilized early, time spent on the streets can be brief and non-recurring. However, without intervention, today’s homeless youth go on to become tomorrow’s chronically homeless adults, with deeply exacerbated medical, mental health and emotional scars due to extended trauma of life on the streets. This activation seeks to break that pipeline to chronic homelessness by meaningfully engaging young people in safe, youth- friendly, easily- accessible temporary housing. In doing so, we will show impact along the following metrics:
-   
-   
-   
-   Homelessness. With enough pods to shelter 20 young people each night, “SPY by Podshare” will move 50-250 individuals off the streets each year. This provides immediate safety and respite while significantly decreasing the likelihood that those individuals will become chronically homeless adults, impacting ~1,600 to ~8,000 people by the year 2050.
-   
-   
-   
-   Mental Illness. Youth experiencing homelessness deal with complex mental health concerns related to disconnection from family, histories of abuse and neglect, grief, isolation, and criminalization. Yet less than 6% of SPY youth report mental health concerns as a contributing factor to their homelessness. With onsite staffing and services available, guests will receive the care they need, preventing them from becoming part of the nearly 30% of chronically homeless adults with serious mental illness in LA County. 
-   
-   
-   
-   Resilient Communities. Engaging the housed community in local responses to homelessness allows for deeper social connectedness, greater feelings of community pride and ownership, and humanization and empathy-building for those living outside. We will measure community resilience year over year through the number of volunteers participating in our programs and pre and post questionnaires regarding measures of connectedness for both guests and volunteers.
-   
-   
-   
-   Youth unemployment/underemployment. After housing, connection to jobs is the most requested service from youth at SPY. With a strong track record of engaging hundreds of youth in employment programming each year, this activation will ensure that guests are provided ample opportunity to find meaningful work and are offered metro passes and bus tokens to increase work transit accessibility.
-project_proposal_engage: >-
-  The Podshare and SPY LA 2050 Activation will focus on engaging housed
-  Angelenos around issues of youth homelessness. The crisis of youth
-  homelessness is currently largely unknown to the broader community. SPY knows
-  from experience that in order to implement successful and lasting strategies
-  to mitigate youth homelessness, it is critical to garner the active support
-  and participation of your surrounding neighbors. Safe Place for Youth has a
-  Street Outreach team that goes out five times a week to places where homeless
-  youth sleep, develops rapport with the young people, and works to connect them
-  to SPY’s on-site programming. In that same way, so too does our plan to engage
-  housed Angelenos focus on building of personal connections that are motivated
-  towards action, whether that’s donating, advocating, or volunteering. These
-  connections will be catalyzed through a host of outreach strategies, including
-  flyers in public spaces, implementing a robust social media campaign including
-  a compelling LA2050 video, hosting community presentations on the issue of
-  youth homelessness, and empowering youth to tell their own stories. Through
-  these different interactions, Angelenos will gain deeper insight into the
-  crisis of youth homelessness, and will in turn be motivated to support crisis
-  housing for youth both financially and with their time, in order to make LA
-  the best place to live.
+  - Central LA
 project_measure: >-
-  Within 3 months of funding, “SPY by PodShare” will be fully operational with
-  SPY filling the pods and providing services to guests. Over the first 2 years,
-  “SPY by PodShare” will maintain an average nightly occupancy of 95% (19 pods)
-  maximizing our ability to provide immediate night-time shelter to young people
-  in need. SPY Housing Case Managers will work with guests to identify their
-  long-term housing plan and provide supportive day services at the SPY Drop-In
-  Center. Additionally, an on-site case manager will help guests address needs
-  that arise at “SPY by PodShare.” Through this coordinated care, a minimum of
-  80% of guests will exit “SPY by PodShare” to a higher order housing
-  intervention (i.e. bridge, transitional, rapid rehousing, or permanent
-  supportive housing.) While mental health services will not be mandated for
-  guests to support each person’s right to self-determination, SPY will strive
-  for at least 50% enrollment in wellness supports through youth friendly
-  language and staffing. Similarly, education and employment supports through
-  the SPY drop-in center will be made available to all guests, aiming for 65%
-  enrollment. Community engagement and goodwill will be measured through
-  volunteerism, striving for a 10% increase in the number of volunteer hours
-  donated each month during the first year, and a 25% increase in political
-  support for homeless youth over year one, measured through community feedback
-  surveys and questionnaire.
-project_five_years: >-
-  After the successful opening of this first “SPY by PodShare” location, we hope
-  to garner support to continue our shared mission of moving homeless youth off
-  the streets. Our goal in the next 5 years would be to open 4 more locations,
-  each with 20-40 pods, expanding our impact from 50-250 individuals to
-  providing temporary housing to 200- 2,000 individuals each year. In doing so,
-  we will enhance the lives of each guest, intervening in their lives at a
-  critical time and improving their long-term mental health, employment, and
-  housing stability prospects. Additionally, we will engage housed Angelenos in
-  the process, creating a deeper sense of community ownership and connectedness
-  to their city and unhoused neighbors. These dual processes will enhance
-  individual and community well being, and move us towards the LA we all want to
-  achieve. We must act fast if we are going to outpace the rise in the homeless
-  population each year. The LA2050’s goal of having fewer than 1,000 homeless
-  people on the streets by the year 2050 is achievable. PodShare and SPY are
-  here to help get it done.
-category_metrics:
-  - Rates of homelessness
-  - Rates of mental illness
+  Over the years, we have seen many Podestrians move out of the pods as new
+  roommates at apartment buildings nearby. If we can create an open community of
+  like-minded individuals who live/work together, then maybe we can cultivate
+  supportive communities for homeless and recently emancipated youth. 
+
+
+  Short term success in launching this project will involve:
+
+
+  - Signing a lease for a 40 pod location, and building the pods and community
+  space.
+
+
+  - Seeking gift-in-kind sponsors for ongoing supplies.
+
+    — Signing partnership agreements with nonprofits regarding daily operations and staffing.
+
+  Long term success involves evaluating:
+
+
+  - The percentage of youth who transition from our program to longer term
+  housing.
+
+
+  - The number of individuals we can help find jobs at local hotels, motels, and
+  property management companies through our hospitality training. We will look
+  to existing organizations like the LA Kitchen and Homeboy Industries for key
+  metrics and milestones for job training and placement. 
+
+
+  - Our ability to secure additional and sustainable funding to lease, equip,
+  and staff this pilot location. 
+
+
+  - The location’s ability to foster communal living without conflict. The
+  strength of our screening process with be tested within the first few months
+  of the program, and we may need to reevaluate.
+
+
+  - Surveying clients and partners to identify which resources are most
+  beneficial, and how we can meet not only physical needs, but also encourage
+  creativity and growth.
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
+project_proposal_description: >-
+  PodShare will build a pilot program for transitional housing for Homeless
+  Youth in Hollywood to host 40 individuals selected by partner organizations,
+  for a period of up to six months while they seek long term housing. The
+  property will offer co-living pods for sleeping, shared co-ed amenities, a
+  'maker's lab' for content creation, and hospitality job training with
+  placement to PodShare and hotel service companies. Each youth pays a nominal
+  fee and must either have or be actively seeking a job.
+project_proposal_impact:
+  - Housing affordability
+  - Self-sufficiency
   - Resilient communities
-category_other:
-  - LA is the best place to LEARN
+  - Homelessness
+project_proposal_best_place: >-
+  If LA wants to be the best place to LIVE, we need to offer more places to
+  live. One solution to LA's homeless crisis is to build creative communities
+  using vacant buildings and 'pods' as adaptive re-use of small spaces.
+
+
+  Pods utilize vertical height and cubic airspace to comfortably host up to 4X
+  more people than traditional bedrooms. The PodShare team has developed and
+  tested our co-living model since 2012, housing over 6,500 guests across three
+  locations at a 94% occupancy rate.
+
+
+  We found that our pods appeal to millennials who are traveling or moving to
+  the city and need an affordable place to stay while apartment and job hunting.
+  87% check in solo, and almost everyone meets new friends.
+
+
+  This grant can help develop an innovative solution to a city-wide obstacle by
+  applying the PodShare model to homeless youth, which closely mirror our
+  demographic.
+
+
+  Sharing saves money and serves many. PodShare comfortably built 10 pods in
+  1,000 sq ft and 18 pods in 2,000 sq ft with space allotted for co-working, a
+  kitchen, restrooms, game room, computers, bicycles, and laundry. PodShare is
+  seeking a leasable 4,000 sq ft property to build 40 pods with shared
+  amenities.
+
+
+  Bunk beds are for kids, pods are for adults. Our model cured the rickety top
+  bunk problem and replaced the ladder with a comfortable stairway.
+  Incorporating technology and minimalist design, each pod has its own TV,
+  light, outlets and storage. 
+
+
+  Co-living is transparent. We believe that if community was a shape, it'd be a
+  circle; and so, the pods face each other. Each 'Podestrian' can see every one,
+  with their name written above or below their head. “Within the realm of social
+  psychology, the proximity principle accounts for the tendency for individuals
+  to form interpersonal relations with those who are close by.” Whether
+  serendipitously or as a product of intentional community, identification
+  creates a natural introduction to fast friends.
+
+
+  The open floor plan offers maximum social collisions, but also cultivates
+  accountability and self-policing to prevent any inappropriate behavior. You
+  can read community stories at http://thepodshare.com/podestrians.
+
+
+  All of our locations promote the collaborative trend with access to a 'maker's
+  lab' comprised of amenities like a sound recording booth, green screen, and
+  computers. The proposed location will allot space for content creators and
+  encourage collaboration.
+
+
+  Getting 40 youths off the street and into a supportive community is a start,
+  but our program will also implement a hospitality training course to create
+  viable applicants for PodShare and other hotel partners.
+
+
+  We have met with local nonprofits and community leaders, and the consensus is
+  that it best serves the client to charge a nominal fee (likely on a sliding
+  scale) so that the youth develop responsible fiscal habits. Fees can be offset
+  through government subsidies, private donations, and possibly even housing
+  vouchers.  The goal is to create authorship and autonomy.
+link_newsletter: 'http://podshare.co/#contact'
+link_volunteer: null
+link_donate: null
+plan_id: 84227
+order: 5
 category: live
 uri: /live/podshare/
-order: 29
-project_image: podshare.jpg
-year: 2018
+year: 2016
 
 ---

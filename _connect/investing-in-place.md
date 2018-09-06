@@ -1,152 +1,147 @@
 ---
-application_id: '5045927505'
-title: 'More than Minivans: the Female Future of Transportation'
-project_description: >-
-  Our activation will combine new data and new voices from women to influence
-  policy and investments for a transportation system that serves and strengthens
-  our entire region.
+title: 'You Can’t Get Ahead If You Can’t Get Around: Stories & Research on #HowWeRoll'
 organization_name: Investing in Place
 organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
-link_newsletter: 'http://bit.ly/VoteIiP'
-organization_website: www.investinginplace.org
-organization_twitter: '@investinplace'
-organization_facebook: 'https://www.facebook.com/investinginplace/'
-organization_instagram: InvestinginPlace
-link_donate: 'https://donatenow.networkforgood.org/investinginplace'
-link_volunteer: 'http://eepurl.com/bOWmdr'
+organization_website:
+  - www.investinginplace.org
+organization_twitter: investinplace
+organization_facebook: investinginplace
+organization_instagram: investinplace
 organization_activity: >-
-  We use research, advocacy, and capacity-building to align policies and public
-  dollars to support transportation investments that strengthen the Los Angeles
-  region.
-project_proposal_description: >-
-  We envision a Los Angeles transportation system that intentionally connects
-  the travel needs of women and mothers with policymakers’ planning, funding,
-  and decisions. Our activation will combine new data, new voices, and new faces
-  of transportation advocacy to influence policy and investments for a
-  transportation system that serves and strengthens our entire region.
+  We empower people of all ages and abilities to help advocate for safe and
+  livable communities through better transportation policy and funding
+  decisions.
+project_image: 8642914065741-team90.jpg
+project_video: 'https://www.youtube.com/embed/gLaKB_W36pE?rel=0&amp;showinfo=0'
+project_description: >-
+  Access to greater opportunity depends on how you get there. Our team will
+  document and amplify stories of how people get around — and leverage the
+  stories to improve our transportation options.
+project_is_collaboration: 'Yes'
+project_collaborators: >-
+  Investing in Place - lead applicant, Team Friday, USC Program for Regional and
+  Environmental Equity (PERE), Impact Hub LA
+project_applying: '$50,000'
 project_areas:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-project_proposal_mobilize:
-  - Advocate for policy
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - Create new tools or technologies for greater civic/political engagement
-  - >-
-    Increase participation in political processes (e.g. voting, running for
-    office, community problem solving)
-  - >-
-    Increase civic engagement and understanding of how transportation decisions
-    are made -- Share advocacy and storytelling tools and training opportunities
-project_proposal_best_place: >-
-  Everyone needs to get somewhere. We need to get to work, to school, to soccer
-  games, to get food, everyday. In Los Angeles this is often easier said than
-  done, particularly if your trips are invisible.
+  - County of Los Angeles
+project_measure: >-
+  There are over 10 million people in LA County. When Metro was creating the
+  expenditure plan for Measure M (LA County’s transportation ballot measure in
+  November), about 48,000 people — or less than half a percent of the total
+  population — was engaged in the process. Our goal is to increase this level of
+  engagement by, most importantly, directly working with and mobilizing the
+  people most affected by our transportation decisions — these include our most
+  vulnerable populations like youth, students, older adults, and individuals
+  with disabilities.
 
 
-
-   Only 16 percent of daily trips are for work, yet nearly all of Los Angeles’ transportation efforts go into improving travel for commuters. So what is happening for the other 84 percent of trips?
-
+  Our success will be measured by three metrics: 
 
 
-   While we increasingly see women in the workforce, we still see traditional gender splits in different-sex parental households. Women tend to remain the primary caregivers, including making trips for school/child care, appointments, activities, and household errands.
+  1) Number of new organic viewers, followers, and engagements on social media.
+  Our target goal is: 1,000 new followers.
 
 
-
-   Our LA2050 activation will daylight these trips, faces, and voices.
-
-
-
-   Transportation connects Angelenos with opportunity. But at its worst can prevent them from accessing resources and networks. Our activation will employ a multi-pronged strategy to ensure that women and mothers are not forgotten as we look to expand how our transportation network connects us.
-
+  2) Number of individuals and organizations we recruit and mobilize through
+  letter writing campaigns, public comment letters and testimonies, petition
+  signatures, and meetings with legislators and their staff. Our target goal is:
+  cultivating and sustaining a leadership circle of more than  25 new
+  individuals and 5 new organizations.
 
 
-   Data and groundtruthing: Analyze national and regional travel data to analyze patterns we see in women workers, caregivers, and mothers. Preliminary findings will be shared with community organizations and members to identify alignment with their lived experiences.
-
-
-
-   Storytelling: Work with community organizations and local media to develop and distribute multilingual, multimedia stories of women’s daily needs and how transportation impacts them. This process will also teach women how to utilize film and photo to tell their own stories.
-
-
-
-   Education and advocacy: Host online and in-person advocacy trainings to co-power community members to advocate for their own transportation needs. Groundtruthed data and stories from the first two strategies will be used to message the unaddressed needs of women with transportation policymakers at these trainings.
-
-
-
-   We propose to utilize metrics recommended by LA2050 and our own suggested metrics we believe will measure successful impact of our activation:
-
-
-
-   Government responsiveness to residents’ needs (LA2050): Data-driven advocacy and humanizing stories will be used to influence regional transportation policy and funding decisions.
-
-
-
-   Transit-accessible housing and employment (LA2050): Transit improvements that serve both work and non-work trips will increase the connection between public transportation and daily origins and destinations.
-
-
-
-   Advocacy capacity (suggested): Individuals exposed to technical assistance in advocacy tactics and storytelling development, through both online and offline platforms. Includes, but not limited to, neighborhood councils (LA2050).
-
-
-
-   Transportation funding allocated based on non-work trip data (suggested): Formulas or metrics adopted in Metro countywide policy and funding frameworks that account for both work and non-work trips based on our data analysis and advocacy.
-project_proposal_engage: >-
-  Investing in Place convenes diverse stakeholders to discuss transportation
-  policy and investment issues through a range of event types. The advocacy
-  component of our LA2050 activation would mirror our successful City of Los
-  Angeles Tripping Point summits, which bring together local elected officials
-  and public agency staff with over 100 community members and organizations to
-  help demystify the City process and amplify the voices of community members to
-  the public officials who serve them.
-
-
-
-   Our online engagement will anchor around digital education and storytelling formats to be distributed through our network of policymakers, published and social media, researchers, funders, and community organizations.
-
-
-
-   We will directly engage with hundreds of community members through our policy education, advocacy technical assistance, and storytelling training. We anticipate an echoing reach from their online and offline networks, such as neighborhood councils and clubs, parent associations, faith-based and cultural affiliations, local businesses and artists, etc. We also anticipate our policy education and groundtruthed data to reach elected officials and bring awareness to thousands of their constituents around new data as well as engagement opportunities for policy advocacy.
-project_measure: |-
-  For our multi-pronged strategy to be considered successful, we will consider:
-
-
-
-   Has data analysis included input and “reality checks” from community members and grassroots organizations? Our goal is to engage at least 250 surveys and event participants to develop data analysis that aligns with community members’ lived experience.
-
-
-
-   Are stories emerging from this activation reflecting the transportation needs of women and mothers? Our goal is to support development and distribution of at least 20 multimedia stories, reaching a total of 80,000 people over two years.
-
-
-
-   Are we increasing Angelenos informed of and engaged in their civic process? Our goal is to reach a total of 25,000 people through policy education and advocacy training over two years.
-
-
-
-   Has the activation influenced regional transportation decisions? Our goal is to facilitate formulas or metrics adopted in Metro countywide policy and funding frameworks that serve the needs of the region’s five million women, based on our analysis and advocacy.
-
-
-
-   Has activation influenced accessibility of transit trips? Our goal is to include travel needs of women into Metro’s transit investments, particularly the NextGen Bus Study redesign, which will impact transit accessibility for approximately 10 million Angelenos.
-project_five_years: >-
-  We imagine a Greater Los Angeles where we bridge the gap between policy
-  thinkers, decision makers, and on-the-ground community leaders to reduce
-  social inequities through public policies and investments. By investing in our
-  most vulnerable neighborhoods, we improve public health and exceed
-  environmental goals for the whole region. We recognize that equity is not a
-  special interest, but in everybody’s interest.
-category_metrics:
+  3) Number of advocacy meetings with newly cultivate leaders and elected
+  officials and their staff. Target goal: At least 10 meetings total.
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+project_proposal_description: >-
+  In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
+  can’t get around. Our transportation system — our roads, sidewalks, buses,
+  trains, bikeways — are complex and more interconnected than people think. We
+  will spark a series of discussions and online videos that decipher our
+  transportation system — from how it’s funded and who makes the decisions to
+  who depends on our buses and trains as their connection lifeline — and what we
+  can do to make it better for all.
+project_proposal_impact:
+  - Social & emotional support
   - Government responsiveness to residents’ needs
-  - Number of public transit riders
-  - Transit-accessible housing and employment
-category_other:
-  - LA is the healthiest place to LIVE
+  - Travel time to work
+  - Public transit riders
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+project_proposal_best_place: >-
+  We formed Investing in Place on January 2015 to bring together businesses,
+  public agencies, philanthropists, researchers, and community organizations to
+  help find solutions to improving quality of life for all, especially
+  low-income and middle-income families in Los Angeles County.
+
+
+  The problem we’re trying to solve is clear: Per the National Equity Atlas, the
+  Los Angeles metropolitan area has a higher rate of inequality than California
+  and the U.S. The gap between the region’s wealthy and low-income communities
+  manifests itself spatially, where you live can greatly affect opportunities
+  for educational attainment, job access, health outcomes, public safety,
+  environmental quality, mobility, and more. Simply put, place matters — and how
+  you access those opportunities through different modes of transportation is
+  paramount to one’s success.
+
+
+  Our proposal will accelerate our efforts and make LA the best place to connect
+  in three ways:
+
+
+  1.We will de-mystify the politics of regional transportation financing through
+  a digital video series that is dynamic, educational, and accessible to all
+  audiences. For the past year, Investing in Place has been working to put
+  action behind the “just growth” framework developed by Dr. Manuel Pastor
+  (director of USC PERE) and Dr. Chris Benner. Simply put, “just growth” is the
+  idea that by putting equity at the center of regional economic development,
+  the region will grow stronger for everyone, for the long-haul. Indeed, there
+  is evidence to support this not just from Pastor and Benner, but from the
+  International Monetary Fund and Standard and Poor’s, to name a few. This means
+  that closing the gaps between the rich and the poor through policy and other
+  strategies benefits everyone. Our proposal will help draw the connections
+  between transportation and broader economic opportunities.
+
+
+  2.We will create a story bank of how individuals travel throughout Los Angeles
+  County and the challenges and opportunities they encounter in their own voice
+  and experience. We are inspired by efforts from LA’s Legalize Street Vendors
+  Campaign, DREAMers, low-wage workers organizing for dignity and recognition,
+  and community members organizing for better neighborhoods. The core of our
+  campaign is to empower the people who depend on more affordable, frequent, and
+  reliable transportation options to amplify their stories to decision makers
+  through social media, in-person meetings with elected officials, and through
+  traditional media and the press.
+
+
+  3.Throughout this process, we will help cultivate new leaders and connect them
+  to opportunities on how to improve transportation decision-making in their
+  neighborhoods. 
+   
+  Deliverables: 
+
+  3-4 videos from people across LA County on mobility experiences.
+
+  Multilingual education tools on equitable transportation public policy,
+  including 2 videos on how/where key LA Region transportation decisions
+  happen. 
+
+  Screening event at Impact Hub LA. 
+
+  All accompanied by communications & advocacy campaign.
+link_newsletter: >-
+  http://investinginplace.us9.list-manage.com/subscribe?u=dae0d00828934ac68d5436772&id=1f9f385def
+link_volunteer: null
+link_donate: 'https://donatenow.networkforgood.org/investinginplace'
+plan_id: 84341
+order: 69
 category: connect
 uri: /connect/investing-in-place/
-order: 29
-project_image: investing-in-place.jpg
-year: 2018
+year: 2016
 
 ---

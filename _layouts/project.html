@@ -6,7 +6,38 @@ stylesheets:
   - "/assets/css/project.css"
 ---
 
+{% comment %}
 <div style="margin-top: 3em"></div>
+{% endcomment %}
+
+<style>
+  .standard-layout > .year {
+    max-width: none;
+    text-align: left;
+    grid-column: 1/-1;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1.5em;
+    margin: 0 -1.5em 1.5em;
+  }
+  .standard-layout > .year strong,
+  .standard-layout > .year a,
+  .standard-layout > .year a:hover,
+  .standard-layout > .year a:active,
+  .standard-layout > .year a:focus {
+    color: inherit !important;
+  }
+  @media (min-width: 40em) {
+    .standard-layout > .year {
+      margin-left: -4.5em;
+      margin-right: -4.5em;
+      padding-left: 4.5em;
+      padding-right: 4.5em;
+    }
+  }
+</style>
+
+<p class="year" style="">Idea submitted in <strong>{{ page.year }}</strong> by <a href="{{ page.uri | replace: page.category, 'organizations' }}">{{ page.organization_name }}</a></p>
 
 <section class="proposal-introduction" style="grid-column: 1/4">
 
@@ -106,7 +137,9 @@ stylesheets:
 </figure>
 
 <div class="proposal-description">
-<h2 style="margin-top: 0.75rem;" class="organization">{{ page.organization_name }}</h2>
+
+{% comment %}
+<h2 style="margin-top: 0.75rem;" class="organization"><a href="{{ page.uri | replace: page.category, 'organizations' }}">{{ page.organization_name }}</a></h2>
 <!-- TODO: Handle long lists of collaborators:
   /learn/wish-academy-high-school/
   /connect/data-roads-foundation/
@@ -114,6 +147,7 @@ stylesheets:
   /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
 -->
 <p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.organization_description }}</p>
+{% endcomment %}
 
 <p style="margin-bottom: 0">
   {{ page.project_description }}
@@ -133,6 +167,8 @@ stylesheets:
 </dl> -->
 </div>
 
+
+{% comment %}
 {% if page.link_newsletter and page.link_newsletter != '' %}
 
 {% for link_newsletter in page.link_newsletter limit:1 %}
@@ -162,6 +198,7 @@ stylesheets:
 {% endfor %}
 
 {% endif %}
+{% endcomment %}
 
 
 {% if page.link_donate and page.link_donate != '' %}
@@ -231,11 +268,16 @@ stylesheets:
 
 </section><!-- /.proposal-introduction -->
 
+
+<div style="margin-top: 3em"></div>
+
+{% comment %}
 <hr />
 
 {% include project-links.html %}
 
 <hr />
+{% endcomment %}
 
 {% if page.project_video and false %}
 <div style="grid-column: 1/4;">
@@ -298,9 +340,6 @@ stylesheets:
 <!--
 <h2 class="answers-header"><abbr title="Questions and Answers">Q &amp; A</abbr></h2>
 -->
-
-<h3>What does your organization do?</h3>
-{{ page.organization_activity | markdownify }}
 
 {% if page.project_is_collaboration != "No" and page.project_collaborators.size > 0 %}
 <h3>Are any other organizations collaborating on this proposal?</h3>

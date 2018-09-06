@@ -1,123 +1,115 @@
 ---
-application_id: '1470870867'
-title: Los Angelenos Resilient in the Face of Natural Disasters
-project_description: >-
-  At Team Rubicon, disasters are our business and veterans are our passion. We
-  unite the skills and experience of our nation's military veterans to provide
-  efficient, local, and rapid disaster relief.
+title: Localizing Disaster Response to Meet the Challenges of the 21st Century
 organization_name: Team Rubicon
 organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=5BOUm4PBeUc'
+organization_website:
+  - www.teamrubiconusa.org
+organization_twitter: TeamRubicon
+organization_facebook: teamrubicon
+organization_instagram: TeamRubicon
+organization_activity: >-
+  Team Rubicon unites the skill and experiences of military veterans with first
+  responders to rapidly deploy emergency response teams.
+project_image: 5594912265741-team90.jpg
+project_video: 'https://www.youtube.com/embed/5BOUm4PBeUc?rel=0&amp;showinfo=0'
+project_description: 'Get LA Squared Away: Community Resilience Project'
+project_is_collaboration: 'No'
+project_collaborators: >-
+  Team Rubicon's vision of making Los Angeles a community better prepared for
+  disasters will require working with city and county Emergency Response Teams.
+project_applying: '$100,000'
+project_areas:
+  - City of Los Angeles
+project_measure: >-
+  A BRU's volunteer numbers are driven by a set of ratios applied to a city's
+  population.  A city of any size is considered to have met its Basic Readiness
+  Standard if it has a single functional BRU.  One basic readiness unit consists
+  of 100 registered TR volunteers, 25 of which are deployable, 8 of which have
+  completed Tools, Tactics and Techniques Training, and 3 of which have
+  completed Command and General staff training.  The Basic Readiness Standard is
+  not intended to be able to meet the response needs of an overwhelming event in
+  LA, but rather contribute to small-scale operations and plan and execute
+  impactful projects. 
+
+
+  An Advanced Readiness Standard is achieved when TR's volunteer density in a
+  city regressively scales to approximately one BRU per 100K residents.  At an
+  Advanced Readiness Level, Team Rubicon is capable of delivering meaningful
+  assistance to the municipality during Type 1 and 2 level responses.  For Los
+  Angeles, that would require 22 BRUs.
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Network/relationship support
+project_proposal_description: >-
+  Spending money on resiliency and readiness saves money.  An organized, trained
+  and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
+  municipal and emergency services to perform core functions enabling them to
+  focus on getting residents back to normal life as quickly as possible.  By
+  leveraging the skills of veterans, TR is preparing for and responding to
+  disasters as well as providing purpose, community and identity to our nation's
+  veteran's, easing their transition home.
+project_proposal_impact:
+  - Resilient communities
+project_proposal_best_place: >-
+  Cities' ability to respond to our rapidly changing climate and the changing
+  nature, magnitude and quantity of natural disasters in general is
+  insufficient.  People, property and local economies are being disrupted and
+  undermined at an alarming pace, and financial resources for disaster response
+  are stretched thin at county, state, national and charitable levels.  That
+  said, new thinking and programming suggests that a gap between a disaster
+  striking and the first response can be mitigated in ways that save lives, and
+  help restore communities and economies faster in ways that save billions.
+
+
+  Since our founding in 2010 Team Rubicon has responded to disasters both
+  domestic and international ranging in size from Hurricane Sandy (with more
+  than 450 volunteers over six weeks) to a flood recovery operation in Iowa (ten
+  volunteers for one week), and the earthquake in Nepal (60 volunteers).  Early
+  on, Team Rubicon made the decision to become fully compliant in National
+  Incident Management Systems (NIMS), making it fully interoperable with
+  Federal, State and Local emergency services.  
+
+
+  Imagine as families scramble to save their loved ones, their property, and
+  their livelihoods, that teams of local Angelenos who are trained in disaster
+  response mobilize immediately to support their communities.  Imagine that work
+  is already underway and that these local relief agents are local Los Angeles
+  veterans.  Men and women trained for exactly this type of uncertainty and
+  confusion from their days serving our country.  
+
+
+  Based on our experience during the past six years responding to over 140
+  disasters, Team Rubicon is launching our community resilience program which
+  consists of veteran-led relief teams who can respond immediately to natural
+  disaster should one strike Los Angeles; the teams will show through action,
+  how an immediate, local response complemented eventually by external disaster
+  support can more effectively save lives, protect property and restore
+  economies more rapidly than traditional relief modalities; and ensure that
+  post-disaster response work continues long after media attention and external
+  relief agencies deploy to other crises helping to fully rebuild Los Angeles
+  neighborhoods.  This will be achieved through the creation of a Basic
+  Readiness Unit (BRU), a discrete capability level achieved within a single
+  city limit.  
+
+
+  The Los Angeles Basic Readiness Unit is comprised of trained local community
+  volunteers ready to intervene as a natural disaster strikes, with the number
+  of responders calculated based on the size of Los Angeles and geographically
+  allocated throughout the city to ensure no one is left behind as the disaster
+  unfolds; that basic needs are met; coordinate access to leadership at national
+  level to ensure national relief resources are deployed most effectively and
+  efficiently when available; and ensure the ability to monitor response,
+  recovery and rebuilding efforts in ways external agencies simply cannot mimic.
 link_newsletter: 'http://teamrubiconusa.org/blog/'
-organization_website: 'https://teamrubiconusa.org/'
-organization_twitter: '@TeamRubicon'
-organization_instagram: '@TeamRubicon'
-organization_facebook: 'https://www.facebook.com/teamrubicon'
 link_volunteer: 'http://teamrubiconusa.org/join-the-team/'
 link_donate: 'http://teamrubiconusa.org/donate/'
-organization_activity: >-
-  Team Rubicon delivers unparalleled disaster relief and recovery while
-  providing our veteran volunteers a new purpose, identity, and community
-  through continued service.
-project_proposal_description: >-
-  The frequency and cost of natural disasters has steadily increased the past 40
-  years. Los Angeles’ ability to react to the changing nature and magnitude of
-  disasters will impact our community's future. FEMA estimates every $1 invested
-  in disaster preparedness saves an average of $4 in future losses, protecting
-  at-risk populations and fostering resiliency. Team Rubicon's Resilient Cities
-  Initiative will build volunteer capacity, training and equipping Los Angelenos
-  to respond to local disasters.
-project_areas:
-  - >-
-    County of Los Angeles (please select only if your project has a countywide
-    benefit)
-  - >-
-    City of Los Angeles (please select only if your project has a citywide
-    benefit)
-project_proposal_mobilize:
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - Create new tools or technologies for greater civic/political engagement
-  - Connect Angelenos with impactful volunteer opportunities
-project_proposal_best_place: >-
-  Team Rubicon utilizes technology to effectively provide relief to the most
-  vulnerable populations during a disaster. A recent review of studies on the
-  relationship between poverty and disasters in the U.S. by Fothergill & Peek
-  revealed that socio-economic status is a significant predictor of the physical
-  and psychological impacts in the pre- and post- disaster stages. Using a
-  platform developed by Palantir, Team Rubicon maps neighborhoods that are most
-  vulnerable from a socio-economic standpoint by overlaying tax records,
-  insurance information, and census data. In many cases these communities lack
-  the tax-base to provide professional, community based disaster services, or
-  are overshadowed by wealthier areas impacted by the same disaster. Within
-  urban areas, Team Rubicon’s focus is often on communities of color and
-  non-native English speakers. These communities are disproportionately impacted
-  by disasters, lack the personal or community-based resources to fend for
-  themselves, and cannot agitate for government support as effectively as their
-  affluent neighbors. 
-   
-   
-   
-   Team Rubicon’s Resilient City Initiative will create greater volunteer density in Los Angeles, training local residents to provide disaster relief. Our initiative tackles three pressing issues: Los Angeles' preparedness for and ability to respond to disasters; the challenges of veterans reintegrating into our communities; and the lack of civic engagement in local communities today. The recently released Veterans Civic Health Index reveals veterans consistently outperform civilians in volunteer hours contributed and are more apt to work with neighbors to fix community problems. 
-   
-   
-   
-   Leveraging the power of the military’s diversity can help our country and city heal and respond in new (yet proven) ways, bringing a new sense of social cohesion to Los Angeles. The military is one of the most diverse institutions on the planet today. However, most veterans return to their less-diverse origins upon discharge and the value of inclusion and understanding dissipates over time. Yet, if inspired to come together once again in service, engaging and empowering veterans builds bridges across the divides that are tearing at the fabric of our country. 
-   
-   
-   
-   Team Rubicon believes that Los Angeles County's veterans can and should be a force of change to help those most vulnerable. According to the USC School of Social Work: Los Angeles County Veterans Study, California is home to over 1.8 million former service members, with approximately 12,000 military veterans settling in Los Angeles County every year, joining the 325,000 veterans who currently reside here. One in five veterans suffer from post-traumatic stress and over two-thirds report difficulties adjusting to civilian life. Team Rubicon seeks to merge veterans’ military identity with civilian life by establishing a community network of volunteers supporting communities affected by disaster in Southern California.
-project_proposal_engage: |-
-  Team Rubicon aims to increase civic engagement in Los Angeles. 
-   
-   
-   
-   Team Rubicon developed a training pipeline to guarantee professionalism, consistency, and safety on operations by training to nationally developed standards. 
-   
-   
-   
-   In order to maximize effectiveness in disaster response, Team Rubicon regularly engages and trains our volunteers in between disasters. Engagement is any activity planned and executed by Team Rubicon personnel that convenes volunteers for an activity. Team Rubicon has recovery and mitigation operations, as well as robust training initiatives to prepare our volunteers through continued engagement. In addition to trainings, Team Rubicon offers a variety of volunteer-led regional and local engagements that are specifically designed to increase the quality, quantity, and frequency of volunteer interactions.
-   
-   
-   
-   Maintaining safety and providing quality training and engagement for our members is a top priority. Our Field Operations Team, which is comprised of Response, Membership, and Training, does a phenomenal job on the ground when disasters strike and in the time between deployments to train, engage, and coordinate interaction with volunteers from signing up to deploying. 
-   
-   
-   
-   Team Rubicon utilizes a number of cloud-based technologies to achieve our stated mission. The organization’s growth is based on the continual evolution of the needs of our volunteer base and the communities we serve.
-project_measure: >-
-  Team Rubicon understands the value of collecting both qualitative and
-  quantitative data when conveying the impact of our programs on the community.
-  We measure our impact two ways: impact we have on the communities experiencing
-  a disaster and impact on the lives of our volunteer members. Metrics we
-  regularly track include number of training competitions, training events,
-  deployments, volunteers deployed, days deployed, hours logged, damage
-  assessments conducted, and work orders completed.
-   
-   
-   
-   Team Rubicon will measure Los Angeles' community resiliency by number of trained volunteers in the area. To best measure resiliency in Los Angeles, Team Rubicon developed the concept of “Community Resilience Units” (CRUs). Community Resilience Units contribute to Team Rubicon's goal to recruit, organize, equip, and train veteran-led relief teams who will respond, in coordination with emergency officials, to natural disasters that strike Southern California. Another goal of building volunteer capacity in the Los Angeles area is to better integrate returning military veterans with their families in Los Angeles, empowering them through their volunteerism. 
-   
-   
-   
-   In addition to saving lives and property, investing in resilience and readiness helps families, communities, and local economies recover faster in comparison to cities that are under-prepared.
-project_five_years: >-
-  Team Rubicon strives to recruit and train thousands of new volunteers in Los
-  Angeles and throughout the country. By focusing on localized preparedness, we
-  hope to build more resilient communities that will be prepared for disasters
-  whenever they strike. Team Rubicon's ultimate goals are to empower volunteers
-  to responsibly and cost-effectively respond to disasters, serve vulnerable
-  communities affected by disasters, and create a more resilient Los Angeles.
-category_metrics:
-  - Number of households below the self-sufficiency standard
-  - Rates of mental illness
-  - Resilient communities
-category_other:
-  - LA is the healthiest place to CONNECT
+plan_id: 82437
+order: 39
 category: live
 uri: /live/team-rubicon/
-order: 22
-project_image: team-rubicon.jpg
-year: 2018
+year: 2016
 
 ---

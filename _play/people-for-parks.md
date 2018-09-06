@@ -1,186 +1,157 @@
 ---
-application_id: '178454752'
-title: >-
-  COMPAS for Park Equity: co-powering & mobilizing communities to expand
-  Community School Parks in LA
-project_description: >-
-  COMPAS is a movement of parents, neighbors, friends, and staff collectively
-  activating LA’s potential to transform neighborhood schools into community
-  hubs with the power of Community School Parks
+title: People for Parks' Community School Parks Go Kid Healthy!
 organization_name: People for Parks
 organization_description: Non-profit organization
-project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
-organization_website: www.peopleforparks.org
-organization_twitter: '@pfpla'
-organization_facebook: 'https://www.facebook.com/PeopleForParksLosAngeles'
-organization_instagram: '@pfpla'
-link_newsletter: 'https://www.peopleforparks.org/news'
-link_donate: 'https://www.peopleforparks.org/donate'
-link_volunteer: 'https://www.peopleforparks.org/volunteer'
+organization_website:
+  - peopleforparks.org
+organization_twitter: PFPLA
+organization_facebook: PeopleForParksLosAngeles
+organization_instagram: pfpla
 organization_activity: >-
-  PFP creates access to safe, vibrant play spaces in underserved LA by 1)
-  unlocking schoolyards on weekends to create Community School Parks, 2)
-  mobilizing communities and 3) advancing joint-use policy.
-project_proposal_description: >-
-  PFP is mobilizing for more play in LA. Through digital and grassroots
-  activism, we launched COMPAS, a movement of school staff, parents, neighbors
-  and other stakeholders who commit to 1) cultivating vibrant neighborhood hubs
-  at local CSPs 2) promoting the benefits of CSPs, and 3) advocating for
-  innovative shared use policy. COMPAS centralizes information about these
-  needed hubs and it brings people together around the common goals of play,
-  connection and community building.
+  People for Parks transforms schoolyards in underserved regions of LA into
+  Community School Parks for use during non-school hours, providing children and
+  families with healthy outdoor space.
+project_image: 5359541815741-team91.jpg
+project_video: 'https://www.youtube.com/embed/ydbOMK-5HPM?rel=0&amp;showinfo=0'
+project_description: >-
+  People for Parks transforms public park access. Partnering with Kid Healthy
+  we’ll train parents to grow our 11 new Community School Parks into vibrant
+  places for kids and families to play and thrive.
+project_is_collaboration: 'Yes'
+project_collaborators: >-
+  We are collaborating with Kid Healthy, a community based organization, on
+  parent empowerment at our Community School Parks. The Los Angeles County
+  Department of Public Health will assist us with data collection and review so
+  that we may evaluate our progress.
+project_applying: '$100,000'
 project_areas:
   - Central LA
+  - East LA
   - South LA
+  - County of Los Angeles
+  - City of Los Angeles
   - LAUSD
-project_proposal_mobilize:
-  - Advocate for policy
-  - Digital organizing or activism
-  - Trainings and/or in-person engagements
-  - Create new tools or technologies for greater civic/political engagement
-  - >-
-    Increase participation in political processes (e.g. voting, running for
-    office, community problem solving)
-  - >-
-    Influence individual behavior (e.g. change consumer spending or increase
-    conservation activity)
-  - Connect Angelenos with impactful volunteer opportunities
-  - Increase donations to organizations and causes
-project_proposal_best_place: >-
-  In LA’s most densely populated and socioeconomically disadvantaged
-  neighborhoods, children and their families do not have access to safe parks
-  and plays spaces that are critical to leading healthy lives and building
-  stronger communities.
-   
-   
-   
-   PFP focuses on tackling park inequity through our Community School Parks program (CSPs), which opens school playgrounds to the public on Saturdays and provides youth and adult enrichment programming in partnership with the Los Angeles Unified School District (LAUSD).
-   
-   
-   
-   CSP-goers experience the benefits of increased park access and play spaces with improvements in overall health, physical fitness, obesity rates, nutrition, academics, crime, and social connectedness neighborhood-wide.
-   
-   
-   
-   In order to expand these kinds of positive results and bring about systems change that advances park equity, PFP will mobilize community members and activate Angelenos to help make LA the best place PLAY. We will do so in the following ways:
-   
-   
-   
-   1) Operate three CSPs in dense,under-resourced LA neighborhoods, giving thousands of residents easy access to vibrant parks
-   
-   2) Foster residents’ sense of ownership of CSPs through our community engagement program, COMPAS
-   
-   3) Mobilize COMPAS members to advocate for shared-use policies
-   
-   4) Educate and engage decision-makers to advance shared-use policies
-   
-    
-   
-   COMPAS is a field-based community-organizing program and a movement of parents and neighbors with two shared goals:
-   
-   1. Supporting recreation hubs that are safe, welcoming, and responsive to each neighborhood’s unique interests, and
-   
-   2. Opening Community School Parks at every school in LA
-   
-   
-   
-   Through COMPAS, parents, neighbors, and friends come together to build relationships, assess recreation needs, create action plans, build skills, volunteer, and receive recognition for CSP related contributions and innovations.
-   
-   
-   
-   To complement PFP’s in-person relationship-building work, COMPAS will use digital activism to bring together Angelenos from different neighborhoods so that they can build a strong, collective voice supporting CSP expansion. As community members learn about the benefits of CSPs, they will become advocates for play, and galvanize their communities to move decision-makers towards city-wide shared-use policies.
-   
-   
-   
-   With LA2050’s support, PFP’s COMPAS will:
-   
-   * Activate 300 hundred parents per school at existing CSPs to become parent volunteers and vocal supporters of CSPs and shared-use
-   
-   * Activate 5,000 neighbors per school at existing CSP sites to build awareness of CSPs and shared-use.
-   
-   * Activate parents to recruit and engage their community members through COMPAS, with a goal to register supporters at 20 schools (total potentially activated: 100,000)
-   
-   * Advocate for LAUSD to authorize low-cost or no-cost shared-use options so that communities across LA can access school playgrounds during non-school hours.
-   
-   
-   
-   Through COMPAS we will activate parents’ & neighbors’ civic power to advance shared-use policies that can improve parks equity in LA.
-project_proposal_engage: |-
-  We will engage:
-   
-   1) Parents, principals, teachers, neighbors, friends at existing CSPs, and community members living in dense regions of LA who wish to open CSPs. All CSPs are at Title I schools, where average park acreage per 1,000 people is .09 (LA’s average is 4.2).
-   
-   2) LA supporters of expanded park access through CSPs and shared use.
-   
-   
-   
-   Our strategy includes in-person engagement at neighborhood and parent resource centers to present COMPAS and install “COMPAS Point Stations” where visitors can learn more about CSPs/shared use, become COMPAS members, and sign up as volunteers. 
-   
-   
-   
-   COMPAS’s interactive online ‘parents’ portal’ is easily accessed on desktop and mobile devices. Portal visitors can: 
-   
-   * Register as COMPAS members & movement supporters
-   
-   * Register to become CSP parent volunteers in ongoing activities, special events and shared use advocacy 
-   
-   * Recruit other advocates
-   
-   * Register for public events to support shared use (e.g. school board, city & neighborhood council meetings)
-   
-   * Publicize community events
-   
-   * Share challenges, best practices
-   
-   * Connect to PFP/COMPAS social media to post photos/videos, stories & goals for neighborhood.
-   
-   
-   
-   Parents without access to the internet can text a keyword to sign up. This lowers barriers to entry and enables us to collect and organize participant information so that we can recruit, communicate updates and elevate emerging and existing leaders in their communities. The portal is supported by the digital community platform, NationBuilder.
 project_measure: >-
-  In collaboration with LA County’s Dept. of Public Health and digital community
-  platform, NationBuilder, PFP will evaluate quantitative and qualitative
-  outcomes related to the following objectives:
-   
-   
-   
-   For 300 COMPAS members to become active parent volunteers at CSPs: NationBuilder tracks the number of registrants and the progress and frequency of those registrants’ volunteer activities. 
-   
-   
-   
-   For 100,000 Angelenos connect through COMPAS: NationBuilder tracks COMPAS online registration.
-   
-   
-   
-   To expand community use of existing CSPs: We will use geographic mapping and demographic data to understand how many and what types of people we are creating access for (eg, age groups, income) and systematic observation and tracking tools to measure how many and what types of people use CSPs and to understand barriers and facilitators to parks access, resources we can provide, and needed changes in community capacity. We aim to serve 500 parkgoers per month/per park and 500+ for special events. Outreach and park attendance data will be linked to understand what activities increase park use.
-   
-   
-   
-   For coalition building & shared use advocacy: Using digital tracking and interviews, we will measure progress along this measure through frequency of communication with key community partners and policy makers as well as COMPAS member visits to public forums such as Neighborhood Council and School Board meetings to voice support for shared use. Conduct semi-annual review of shared use provider agreements.
-project_five_years: >-
-  CSP Sustainability and Expansion - for CSPs to exist at every public school in
-  Los Angeles; for parents and neighbors to have taken ownership over CSPs to
-  define and achieve place-specific goals and to have secured long-term support
-  for CSPs through advocacy and collaboration with LAUSD and other government
-  and community groups; for “Community School Park” to be a household name.
-   
-   
-   
-   Shared Use Expansion - for major stakeholders, including LAUSD, LA City and related departments, the LAPD and LA county to have partnered with the common goal of providing safe open spaces across LA that create access to health and wellness amenities in high-need communities; for this collaboration to have resulted in an innovative municipal park system that incorporates CSPs into its service model, permitting public access to school playgrounds. 
-   
-   
-   
-   Community Health and Development — for CSPs to serve as vibrant neighborhood hubs, spaces that neighbors consider safe, welcoming, interesting and their own; for populations surrounding CSPs to experience overall physical and emotional wellness, neighborhood connectedness and park equity through regular visits to CSPs and participation and leadership in CSP activities.
-category_metrics:
+  Aided by the Los Angeles County Department of Public Health, PFP will evaluate
+  the following outcomes. Results will contribute to program improvement and
+  demonstrate success on LA2050 dream metrics.
+
+
+  Goal1--Expand community use of CSPs: 
+
+
+  We will use geographic mapping to examine each CSP to understand how many and
+  what types of people we are creating access for (eg, age groups, income,
+  access to resources). We will use a systematic observation tool to measure how
+  many and what types of people use the parks. We aim to serve 300-500 parkgoers
+  per month and 4500+ for special events.
+
+
+  Goal 2--Empower individuals to access parks and take community leadership
+  roles: We will systematically collect data from parents, children, and
+  community members in outreach activities (e.g., trainings) to understand
+  barriers and facilitators to parks access, tools/resources we can provide, and
+  needed changes in community capacity. Outreach and park attendance data will
+  be linked to understand what activities increase park use.
+
+
+  Goal 3--Improve individual and community wellbeing:  
+
+  We will examine annual scores from LAUSD’s Physical Fitness 5th grade testing
+  to describe youth activity levels and obesity rates. We will also conduct
+  interviews with school staff to understand the impacts of CSP use on student
+  health, parent involvement, and neighborhood quality (e.g., park quality,
+  crime and safety).
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
+project_proposal_description: >-
+  In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
+  use during non-school hours, providing a park within walking distance of
+  45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
+  partnership with Kid Healthy, train parents and residents in neighborhood
+  engagement, recruiting, playground management and physical activities.
+  Community mobilization by PFP and Kid Healthy will keep these play spaces open
+  and sustainable.
+project_proposal_impact:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
-category_other:
-  - LA is the best place to CONNECT
+  - Per capita crime rates
+  - Perceived safety
+project_proposal_best_place: >-
+  People for Parks (PFP) will make LA the best place to PLAY in 2017 in two
+  ways. First, we will continue operating our 11 Community School Parks (CSPs).
+  Second, in collaboration with community based organization Kid Healthy, we
+  will empower community members to become leaders in recreation, play and park
+  vibrancy so that CSPs are fully utilized and become self-sustaining. 
+
+
+  CSPs are supervised school playgrounds that PFP opens to the public on
+  weekends and during the summer. Los Angeles Unified School District (LAUSD)
+  youth enrichment staff engage park-goers in play, sports and art & crafts.
+  PFP’s community organizer carries out community empowerment.  LAUSD is the
+  second largest landowner in LA. CSPs “joint use” of otherwise locked
+  playgrounds is a creative way to provide park space in dense neighborhoods.
+
+
+  PFP will partner with Kid Healthy to customize and carry out its quarterly 
+  “Padres En Accion” (PEA) education series with parents from all of our CSPs.
+  Together we will train parents on playground leadership, physical activity,
+  joint use and the recruitment of other parents and neighbors in recreation
+  activities. This builds upon outstanding examples of inter-generational play,
+  found at our Vine St CSP, where one grandma is a sought after goalie and
+  Berendo, where neighbors formed a handball league enjoyed by players of all
+  ages.
+
+  PEA sessions will be interactive with hands-on role-play and action planning
+  to keep CSPs safe, fun and enriching. We will hold each training at one CSP
+  site. Three parents from each CSP will participate in the training and then
+  share what they learned at each of their sites. PFP’s Community Organizer will
+  support this ongoing knowledge sharing. 
+
+
+  Background: In 2016, with an LA2050 grant and leveraged matching funds, we
+  opened 9 new Community School Parks, making a total of 11! Located in
+  Pico-Union, Westlake, Central Alameda, South Park, Hollywood, and Koreatown,
+  these CSPs provide safe park access for more than 55,000 Angelenos and support
+  community building and healthy lifestyles through play. 
+
+
+  We also grew our team with a Community Organizer who leads our CSP Incubator,
+  helping parents and neighbors take ownership of these community spaces through
+  parent-led activities such as Zumba classes, park beautification days,
+  gardening clubs and sports teams. This has helped lower crime and strengthen
+  perceived safety.  Berendo’s principal, Rosa Trujillo, writes, “Adults at the
+  Saturday program clean and supervise their respective areas, decreasing
+  vandalism activities as they take more ownership of the shared space.” 
+
+
+  And a parent shared, “Each staff member we have met has been wonderful. I know
+  they are always keeping an eye on my son to make sure he is safe and having a
+  good time.” 
+
+
+  This grant will help keep our CSPs thriving, and allow us to take our
+  community empowerment to the next level through a strategic partnership with
+  Kid Healthy, helping make LA the best place to PLAY for generations to come.
+link_newsletter: 'http://www.peopleforparks.org/'
+link_volunteer: 'http://www.peopleforparks.org/volunteer'
+link_donate: 'https://peopleforparks.nationbuilder.com/donate'
+plan_id: 84158
+order: 15
 category: play
 uri: /play/people-for-parks/
-order: 4
-project_image: people-for-parks.jpg
-year: 2018
+year: 2016
 
 ---

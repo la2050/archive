@@ -7,6 +7,7 @@
     "markdown:create": "node ./generate/create-markdown.js",
     "markdown:update": "node ./generate/update-markdown.js",
     "markdown:to-csv": "node ./generate/markdown-to-csv.js",
+    "organizations:create": "node ./generate/create-organizations.js",
     "images:create": "gulp",
     "images:copy": "node ./generate/copy-images.js"
   },
