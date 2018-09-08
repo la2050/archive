@@ -142,5 +142,6 @@ projects:
       site for civic engagement and creative practice.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
+    year: 2016
 
 ---

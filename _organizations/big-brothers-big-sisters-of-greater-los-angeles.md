@@ -119,6 +119,7 @@ projects:
       finish high school, graduate college, and start careers.
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
+    year: 2018
 zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'
 

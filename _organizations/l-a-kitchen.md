@@ -155,6 +155,7 @@ projects:
       - not only as a training ground for access and education, but as an
       economic bridge to bring dollars back into neighborhoods.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
+    year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461639779'
 
 ---

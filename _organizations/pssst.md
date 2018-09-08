@@ -156,5 +156,6 @@ projects:
       concept of artists supporting artists.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
+    year: 2016
 
 ---

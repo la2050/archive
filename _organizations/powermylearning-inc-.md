@@ -70,5 +70,6 @@ projects:
       teachers, students, and families through online and mobil
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1786791705741-team89.JPG
+    year: 2016
 
 ---

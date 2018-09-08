@@ -149,6 +149,7 @@ projects:
       worn out items, making LA the best place to live!
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
+    year: 2018
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770387124'
 

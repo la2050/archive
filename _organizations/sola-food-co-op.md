@@ -73,5 +73,6 @@ projects:
     project_description: To open full service health foods cooperative in South LA
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
+    year: 2016
 
 ---

@@ -133,5 +133,6 @@ projects:
       professionals and inspire them ahead of 2020/2030 code changes
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
+    year: 2016
 
 ---

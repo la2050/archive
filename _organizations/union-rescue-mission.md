@@ -118,5 +118,6 @@ projects:
       homelessness on the streets of Los Angeles.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
+    year: 2016
 
 ---

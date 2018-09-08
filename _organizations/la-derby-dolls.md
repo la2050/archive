@@ -135,5 +135,6 @@ projects:
       support inherent in team sport and community.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
+    year: 2016
 
 ---

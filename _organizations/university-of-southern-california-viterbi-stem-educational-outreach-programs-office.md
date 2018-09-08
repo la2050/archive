@@ -160,5 +160,6 @@ projects:
       products that improve their community & create entrepreneurship.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
+    year: 2016
 
 ---

@@ -103,5 +103,6 @@ projects:
       deliver it to your door all in one order.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6286523854741-team91.png
+    year: 2016
 
 ---

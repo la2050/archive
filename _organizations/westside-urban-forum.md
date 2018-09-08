@@ -108,5 +108,6 @@ projects:
       Westside more lively, equitable, and functional.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
+    year: 2016
 
 ---

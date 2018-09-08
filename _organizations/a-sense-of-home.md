@@ -145,5 +145,6 @@ projects:
       “age out” of the system by creating their first ever homes
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
+    year: 2016
 
 ---

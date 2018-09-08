@@ -128,5 +128,6 @@ projects:
       thriving LA careers to life in high school classrooms.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
+    year: 2016
 
 ---

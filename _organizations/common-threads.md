@@ -148,5 +148,6 @@ projects:
       to make healthier food choices and improves school wellness.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
+    year: 2016
 
 ---

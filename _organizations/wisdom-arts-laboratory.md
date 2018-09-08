@@ -119,5 +119,6 @@ projects:
       lacking financial resources.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
+    year: 2016
 
 ---

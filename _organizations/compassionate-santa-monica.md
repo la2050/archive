@@ -126,5 +126,6 @@ projects:
     project_description: 'Make your community safer, kinder, more just and a better place to live.'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
+    year: 2016
 
 ---

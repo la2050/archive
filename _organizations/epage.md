@@ -134,5 +134,6 @@ projects:
       students on school field trips.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
+    year: 2016
 
 ---

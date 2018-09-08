@@ -141,5 +141,6 @@ projects:
       northeast LA and the SGV; let's change that for good!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
+    year: 2016
 
 ---

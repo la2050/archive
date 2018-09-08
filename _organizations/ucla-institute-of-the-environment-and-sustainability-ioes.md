@@ -128,5 +128,6 @@ projects:
       health impacts, particularly for vulnerable populations.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
+    year: 2016
 
 ---

@@ -136,5 +136,6 @@ projects:
       inspires innovation.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
+    year: 2016
 
 ---

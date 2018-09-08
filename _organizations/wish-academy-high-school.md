@@ -131,5 +131,6 @@ projects:
       disabilities, to learn together in one inclusive setting.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
+    year: 2016
 
 ---

@@ -143,5 +143,6 @@ projects:
       a year long series of FREE Pop-Ups around LA County!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
+    year: 2016
 
 ---

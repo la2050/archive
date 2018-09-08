@@ -83,5 +83,6 @@ projects:
       programs for the children in its LAUSD schools.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
+    year: 2016
 
 ---

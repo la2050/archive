@@ -149,5 +149,6 @@ projects:
       innovators working for positive change across Los Angeles
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
+    year: 2016
 
 ---

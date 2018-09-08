@@ -130,5 +130,6 @@ projects:
       programming, led by local students.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
+    year: 2018
 
 ---

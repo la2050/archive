@@ -142,5 +142,6 @@ projects:
       conversation in the heart of Downtown LA.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
+    year: 2016
 
 ---

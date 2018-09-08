@@ -99,5 +99,6 @@ projects:
       baked into its mission.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
+    year: 2016
 
 ---

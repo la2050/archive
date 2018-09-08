@@ -138,5 +138,6 @@ projects:
       and career.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
+    year: 2016
 
 ---

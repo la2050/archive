@@ -110,5 +110,6 @@ projects:
       that will become their gateway into stronger literacy.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
+    year: 2016
 
 ---

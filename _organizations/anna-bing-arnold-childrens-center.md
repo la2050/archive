@@ -155,5 +155,6 @@ projects:
       Connecting Children to Art and Nature Program.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
+    year: 2016
 
 ---

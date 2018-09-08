@@ -146,6 +146,7 @@ projects:
       parents and children.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
+    year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522168409'
 
 ---

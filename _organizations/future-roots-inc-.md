@@ -132,5 +132,6 @@ projects:
       artists to reach LA residents with freeform broadcasts.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
+    year: 2016
 
 ---

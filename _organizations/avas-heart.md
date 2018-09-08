@@ -79,5 +79,6 @@ projects:
       transplant housing close to hospitals; Cedars, UCLA & Keck
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
+    year: 2016
 
 ---

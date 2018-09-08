@@ -131,5 +131,6 @@ projects:
       students, who in turn mentor middle school students.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
+    year: 2016
 
 ---

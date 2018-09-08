@@ -75,5 +75,6 @@ projects:
       get reintegrated back into society as productive citizens of Los Angeles
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
+    year: 2016
 
 ---

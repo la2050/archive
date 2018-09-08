@@ -166,5 +166,6 @@ projects:
     project_description: Plantaware helps people grow food at home
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
+    year: 2016
 
 ---

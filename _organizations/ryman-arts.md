@@ -133,5 +133,6 @@ projects:
       art, build connections and imagine our shared future.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
+    year: 2016
 
 ---

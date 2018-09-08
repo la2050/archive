@@ -140,5 +140,6 @@ projects:
       Reality and Augmented Reality content.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
+    year: 2016
 
 ---

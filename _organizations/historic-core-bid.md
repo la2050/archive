@@ -119,5 +119,6 @@ projects:
       technology-equipped public parklets in the heart of Downtown Los Angeles.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
+    year: 2016
 
 ---

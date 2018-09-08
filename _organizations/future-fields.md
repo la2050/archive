@@ -188,5 +188,6 @@ projects:
       design, systems thinking and technology
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
+    year: 2016
 
 ---

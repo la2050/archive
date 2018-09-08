@@ -122,5 +122,6 @@ projects:
       innovative and imaginative works.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
+    year: 2016
 
 ---

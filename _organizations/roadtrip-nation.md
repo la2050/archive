@@ -159,6 +159,7 @@ projects:
       of TV viewers and students to new career pathways.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
+    year: 2018
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263889207'
 

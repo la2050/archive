@@ -152,5 +152,6 @@ projects:
       and inspired community action plans to solve them.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
+    year: 2016
 
 ---

@@ -88,5 +88,6 @@ projects:
       and law enforcement and build a shared commitment to reform.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8576563265741-team91.jpg
+    year: 2016
 
 ---

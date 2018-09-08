@@ -126,5 +126,6 @@ projects:
       and sexual violence on Los Angeles College Campuses
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
+    year: 2016
 
 ---

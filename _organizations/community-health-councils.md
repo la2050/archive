@@ -164,5 +164,6 @@ projects:
       powerful voices so that community change can become a reality.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
+    year: 2016
 
 ---

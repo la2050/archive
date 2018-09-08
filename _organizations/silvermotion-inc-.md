@@ -87,5 +87,6 @@ projects:
       knowledge. eQuiz looks to grow and employ people in the LA community.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
+    year: 2016
 
 ---

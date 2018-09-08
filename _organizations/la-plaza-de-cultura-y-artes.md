@@ -137,5 +137,6 @@ projects:
       museums from Ft. Moore to Union Station.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
+    year: 2016
 
 ---

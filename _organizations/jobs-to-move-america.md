@@ -124,5 +124,6 @@ projects:
       communities historically excluded from middle skilled tech jobs
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
+    year: 2016
 
 ---

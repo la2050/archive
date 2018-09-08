@@ -111,6 +111,7 @@ projects:
       workshops, and free arts education for local youth!
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
+    year: 2018
   - uri: /create/red-hen-press/
     category: create
     title: 'Get Lit with Red Hen Press: Bringing Fresh Voices to the LA Literary Scene'
@@ -120,6 +121,7 @@ projects:
       voices to establish their place in American literature.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
+    year: 2016
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'
 

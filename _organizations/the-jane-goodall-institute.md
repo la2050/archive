@@ -163,5 +163,6 @@ projects:
       volunteerism, and develop them as compassionate leaders.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
+    year: 2016
 
 ---

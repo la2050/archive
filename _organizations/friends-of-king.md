@@ -139,5 +139,6 @@ projects:
       fully-functional community play space.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
+    year: 2016
 
 ---

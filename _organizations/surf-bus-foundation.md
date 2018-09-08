@@ -143,6 +143,7 @@ projects:
     project_description: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
+    year: 2016
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
 

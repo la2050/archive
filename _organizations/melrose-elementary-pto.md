@@ -125,5 +125,6 @@ projects:
       diverse magnet school in the heart of LA.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
+    year: 2016
 
 ---

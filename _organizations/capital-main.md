@@ -92,5 +92,6 @@ projects:
       a reality for themselves and their communities
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
+    year: 2016
 
 ---

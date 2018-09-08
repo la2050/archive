@@ -142,5 +142,6 @@ projects:
       testing and visualizing scenarios for a sustainable LA by 2050.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
+    year: 2016
 
 ---

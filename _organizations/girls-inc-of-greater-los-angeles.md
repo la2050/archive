@@ -143,5 +143,6 @@ projects:
       experiences
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
+    year: 2016
 
 ---

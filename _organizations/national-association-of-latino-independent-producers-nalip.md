@@ -166,5 +166,6 @@ projects:
       ready urban youth through media training & resources.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
+    year: 2018
 
 ---

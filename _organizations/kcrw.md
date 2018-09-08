@@ -125,5 +125,6 @@ projects:
       to connect with our music, news, and cultural programming.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
+    year: 2016
 
 ---

@@ -161,6 +161,7 @@ projects:
       for all of LA’s young people.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
+    year: 2018
   - uri: /connect/big-citizen-hub/
     category: connect
     title: >-
@@ -172,5 +173,6 @@ projects:
       address local issues through service.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
+    year: 2016
 
 ---

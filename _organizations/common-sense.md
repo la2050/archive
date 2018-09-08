@@ -169,6 +169,7 @@ projects:
       underserved Latino families and kids thrive in the digital age.
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
+    year: 2018
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=412024986'
 

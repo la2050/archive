@@ -197,5 +197,6 @@ projects:
       sustainable future, lush with native plants for all.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
+    year: 2016
 
 ---

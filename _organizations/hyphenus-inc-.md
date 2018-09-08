@@ -118,5 +118,6 @@ projects:
       Childhood Experiences) and make better decisions for their kids
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
+    year: 2016
 
 ---

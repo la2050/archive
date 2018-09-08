@@ -154,6 +154,7 @@ projects:
       non-profit, private, & public sectors.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
+    year: 2016
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
 

@@ -113,5 +113,6 @@ projects:
       you imagine getting your period while living on the streets?
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
+    year: 2016
 
 ---

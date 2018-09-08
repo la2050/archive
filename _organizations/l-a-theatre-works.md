@@ -132,5 +132,6 @@ projects:
       their own theatre-based educational apps.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
+    year: 2016
 
 ---

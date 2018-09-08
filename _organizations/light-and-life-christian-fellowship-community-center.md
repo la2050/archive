@@ -126,5 +126,6 @@ projects:
       explore and grow, facilitating a sense of harmony.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
+    year: 2016
 
 ---

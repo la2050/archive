@@ -141,5 +141,6 @@ projects:
       to conversations and music.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
+    year: 2016
 
 ---

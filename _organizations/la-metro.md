@@ -124,5 +124,6 @@ projects:
       riding public transportation.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
+    year: 2016
 
 ---

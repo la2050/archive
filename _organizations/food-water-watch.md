@@ -106,5 +106,6 @@ projects:
       communities across L.A. to make this transition a reality.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
+    year: 2016
 
 ---

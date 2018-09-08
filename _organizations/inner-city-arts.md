@@ -160,5 +160,6 @@ projects:
       improving learning skills and building self-confidence.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
+    year: 2016
 
 ---

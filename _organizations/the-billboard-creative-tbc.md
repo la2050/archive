@@ -98,5 +98,6 @@ projects:
       broad attention to local emerging artists and art to our community.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
+    year: 2016
 
 ---

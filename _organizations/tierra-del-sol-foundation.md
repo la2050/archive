@@ -79,5 +79,6 @@ projects:
       inclusion, via professional volunteerism as a pathway to employment.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
+    year: 2016
 
 ---

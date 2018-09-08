@@ -80,5 +80,6 @@ projects:
       professional efforts of the student body participants.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
+    year: 2016
 
 ---

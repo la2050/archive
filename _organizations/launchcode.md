@@ -84,5 +84,6 @@ projects:
     project_description: Get Los Angeles Back to Work!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6757074165741-team91.jpg
+    year: 2016
 
 ---

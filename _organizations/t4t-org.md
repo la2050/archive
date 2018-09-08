@@ -90,6 +90,7 @@ projects:
       brainpower!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
+    year: 2016
   - uri: /create/t4t-org/
     category: create
     title: Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
@@ -99,6 +100,7 @@ projects:
       Artists, and Mathematicians.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
+    year: 2016
   - uri: /learn/t4t-org/
     category: learn
     title: The Robin Hoods of Rubbish are building STEAM Labs!
@@ -108,5 +110,6 @@ projects:
       in 20 Title 1 Schools in Los Angeles.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
+    year: 2016
 
 ---

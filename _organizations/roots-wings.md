@@ -132,6 +132,7 @@ projects:
       We address the roots of violence and stress to ensure our children will
       have the wings to set them free to achieve a joyful life.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
+    year: 2018
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821894269'
 

@@ -89,5 +89,6 @@ projects:
       into the installation, creating an urban drinking fountain
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
+    year: 2016
 
 ---

@@ -172,5 +172,6 @@ projects:
       power of social change back into the hands of residents.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
+    year: 2016
 
 ---

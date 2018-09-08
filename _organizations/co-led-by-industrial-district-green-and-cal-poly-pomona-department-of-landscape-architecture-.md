@@ -152,5 +152,6 @@ projects:
       green alleys.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
+    year: 2016
 
 ---

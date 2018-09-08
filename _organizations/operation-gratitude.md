@@ -148,5 +148,6 @@ projects:
       creating Care Packages of handmade and donated goodies.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
+    year: 2016
 
 ---

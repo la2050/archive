@@ -165,5 +165,6 @@ projects:
       students, and student internships for under-served youth.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
+    year: 2016
 
 ---

@@ -127,6 +127,7 @@ projects:
       themselves and serve as a space for gathering and collaboration.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
+    year: 2018
   - uri: /learn/youth-policy-institute/
     category: learn
     title: >-
@@ -138,6 +139,7 @@ projects:
       less debt.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
+    year: 2016
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521278339'
 
 ---

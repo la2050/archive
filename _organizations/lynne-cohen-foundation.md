@@ -133,5 +133,6 @@ projects:
       women and their families to take action and survive
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
+    year: 2016
 
 ---

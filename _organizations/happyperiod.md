@@ -115,6 +115,7 @@ projects:
       locations within L.A county made for the public to donate menstrual
       products for a homeless passer-by to freely take.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
+    year: 2018
 zip: '93552'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
 

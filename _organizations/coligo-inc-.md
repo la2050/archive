@@ -133,5 +133,6 @@ projects:
     project_description: The first social networking service for nonprofit organizations.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
+    year: 2016
 
 ---

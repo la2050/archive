@@ -113,5 +113,6 @@ projects:
       transitioning outstanding STEM professionals into public education.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3863693255741-team91.jpg
+    year: 2016
 
 ---

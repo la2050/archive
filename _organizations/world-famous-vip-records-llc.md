@@ -166,6 +166,7 @@ projects:
       by a replica of the Historic World Famous VIP Sign.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
+    year: 2018
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
 

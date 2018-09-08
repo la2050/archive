@@ -128,5 +128,6 @@ projects:
       empower, and provide access to early childhood education choices.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
+    year: 2016
 
 ---

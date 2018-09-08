@@ -155,5 +155,6 @@ projects:
       the city as a platform for generative discourse and exchange.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
+    year: 2016
 
 ---

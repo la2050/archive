@@ -126,5 +126,6 @@ projects:
     project_description: Let your voice be heard-- with I Am LA the whole city is ready to listen.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
+    year: 2016
 
 ---

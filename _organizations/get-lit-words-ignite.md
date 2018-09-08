@@ -159,6 +159,7 @@ projects:
       underserved and marginalized Los Angeles youth.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
+    year: 2016
   - uri: /create/get-lit-words-ignite/
     category: create
     title: >-
@@ -170,5 +171,6 @@ projects:
       creation and distribution of engaging impact media.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
+    year: 2018
 
 ---

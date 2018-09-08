@@ -151,5 +151,6 @@ projects:
       youth and families in the city of Long Beach.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7808945355741-team90.jpg
+    year: 2016
 
 ---

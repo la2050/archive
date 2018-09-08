@@ -145,5 +145,6 @@ projects:
       preventing at-risk boys from becoming fathers too soon.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
+    year: 2016
 
 ---

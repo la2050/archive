@@ -102,5 +102,6 @@ projects:
       parklets overlooking Los Angeles waterways.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
+    year: 2016
 
 ---

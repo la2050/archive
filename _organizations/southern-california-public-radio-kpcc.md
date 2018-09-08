@@ -139,5 +139,6 @@ projects:
       robust public conversation, and connect our communities.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
+    year: 2016
 
 ---

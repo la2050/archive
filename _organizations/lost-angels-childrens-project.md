@@ -113,5 +113,6 @@ projects:
       become empowered through team building activities.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
+    year: 2016
 
 ---

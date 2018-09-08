@@ -157,5 +157,6 @@ projects:
       mobilize support bringing relief to families in medical crisis.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
+    year: 2016
 
 ---

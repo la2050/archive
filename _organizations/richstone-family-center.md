@@ -95,5 +95,6 @@ projects:
       prevention program.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
+    year: 2016
 
 ---

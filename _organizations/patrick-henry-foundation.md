@@ -131,5 +131,6 @@ projects:
       professionals.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
+    year: 2016
 
 ---

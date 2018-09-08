@@ -122,5 +122,6 @@ projects:
       caring, responsible citizens Bridging Generations Connecting Values.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
+    year: 2018
 
 ---

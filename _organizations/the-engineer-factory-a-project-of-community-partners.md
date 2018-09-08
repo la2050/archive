@@ -150,5 +150,6 @@ projects:
       higher education and careers in Engineering.  This
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
+    year: 2016
 
 ---

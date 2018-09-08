@@ -121,6 +121,7 @@ projects:
       running for office anywhere in the nation.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
+    year: 2016
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
 

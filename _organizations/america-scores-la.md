@@ -130,5 +130,6 @@ projects:
       surface for children to experience team sports without the fear of injury.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
+    year: 2016
 
 ---

@@ -151,5 +151,6 @@ projects:
       propel more of our students to  colleges and careers.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
+    year: 2016
 
 ---

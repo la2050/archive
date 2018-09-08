@@ -157,5 +157,6 @@ projects:
       to create a deep impact with Angelenos.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
+    year: 2016
 
 ---

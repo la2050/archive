@@ -161,5 +161,6 @@ projects:
       political and social change.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
+    year: 2016
 
 ---

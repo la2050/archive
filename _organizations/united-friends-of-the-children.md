@@ -127,5 +127,6 @@ projects:
       than 700 youth to reach successful independence.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
+    year: 2016
 
 ---

@@ -150,5 +150,6 @@ projects:
       kids in their community uplifting “Jester” books & dolls.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
+    year: 2016
 
 ---

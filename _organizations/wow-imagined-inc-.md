@@ -89,5 +89,6 @@ projects:
       Exceptional Abilities through community-wide mobile enrichment programming
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3788557564741-team90.jpg
+    year: 2016
 
 ---

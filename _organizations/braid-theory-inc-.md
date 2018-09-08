@@ -154,5 +154,6 @@ projects:
       shape the next century.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
+    year: 2016
 
 ---

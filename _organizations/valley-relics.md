@@ -127,5 +127,6 @@ projects:
       from the San Fernando Valley.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
+    year: 2016
 
 ---

@@ -186,6 +186,7 @@ projects:
       neighborhoods, and service areas.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
+    year: 2018
 zip: '9005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824799787'
 

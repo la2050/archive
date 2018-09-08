@@ -180,6 +180,7 @@ projects:
       nonprofit and social services efficiently and with dignity on One Degree
       so they can prosper and reach their full potential.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
+    year: 2018
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
 

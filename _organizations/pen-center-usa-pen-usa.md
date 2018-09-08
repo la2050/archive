@@ -101,5 +101,6 @@ projects:
       Angeles-based writer/mentors.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
+    year: 2016
 
 ---

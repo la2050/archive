@@ -156,5 +156,6 @@ projects:
       exit poll at an election watching party open to all.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
+    year: 2016
 
 ---

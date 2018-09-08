@@ -161,6 +161,7 @@ projects:
       communities along the LA River and beyond.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
+    year: 2018
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364519595'
 

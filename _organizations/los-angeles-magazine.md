@@ -126,5 +126,6 @@ projects:
       doing remarkable work to make life in LA the best it can be.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
+    year: 2016
 
 ---

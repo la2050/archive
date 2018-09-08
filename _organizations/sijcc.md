@@ -121,5 +121,6 @@ projects:
       revamped space at the SIJCC.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
+    year: 2016
 
 ---

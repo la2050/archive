@@ -147,6 +147,7 @@ projects:
       environmental sustainability and social responsibility.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
+    year: 2018
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952647443'
 

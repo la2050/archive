@@ -138,5 +138,6 @@ projects:
       club programming, and offering 130 new sponsorships.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
+    year: 2016
 
 ---

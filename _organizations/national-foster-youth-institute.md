@@ -117,5 +117,6 @@ projects:
       families, to transform the child welfare system so it WORKS!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
+    year: 2016
 
 ---

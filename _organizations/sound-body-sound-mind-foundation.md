@@ -169,5 +169,6 @@ projects:
       development to transform P.E. and student health.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
+    year: 2016
 
 ---

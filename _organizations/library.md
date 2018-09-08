@@ -130,5 +130,6 @@ projects:
       local problems & innovation.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
+    year: 2016
 
 ---

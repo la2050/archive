@@ -107,6 +107,7 @@ projects:
       kids and youth in the community to give back.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
+    year: 2018
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=822734937'
 

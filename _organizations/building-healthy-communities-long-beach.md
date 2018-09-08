@@ -134,5 +134,6 @@ projects:
       strengthen family bonds and reduce community violence.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1573115165741-team88.jpg
+    year: 2016
 
 ---

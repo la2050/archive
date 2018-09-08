@@ -131,5 +131,6 @@ projects:
       technology by providing innovative programs and partnerships
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
+    year: 2016
 
 ---

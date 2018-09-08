@@ -71,5 +71,6 @@ projects:
       and visually impaired users through our digital literacy curriculum.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
+    year: 2016
 
 ---

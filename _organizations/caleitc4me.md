@@ -164,6 +164,7 @@ projects:
       Improving the lives of working Californians by creating financial security
       through a program of research, analysis, public information and education.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
+    year: 2018
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474325738'
 

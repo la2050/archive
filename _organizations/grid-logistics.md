@@ -119,5 +119,6 @@ projects:
       along Greater LA's trading corridors.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
+    year: 2016
 
 ---

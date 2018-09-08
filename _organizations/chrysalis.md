@@ -136,5 +136,6 @@ projects:
       jobs program.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
+    year: 2016
 
 ---

@@ -142,5 +142,6 @@ projects:
       for LA's creative communities.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
+    year: 2016
 
 ---

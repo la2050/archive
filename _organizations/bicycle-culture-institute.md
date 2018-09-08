@@ -118,6 +118,7 @@ projects:
       signage to find bike paths/routes that are easy to miss..
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
+    year: 2016
   - uri: /play/bicycle-culture-institute/
     category: play
     title: LA Bike Fest
@@ -126,5 +127,6 @@ projects:
       bicycle riding in Los Angeles!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5735922065741-team91.jpg
+    year: 2016
 
 ---

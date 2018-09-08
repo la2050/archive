@@ -156,5 +156,6 @@ projects:
       remaining costs via cash-back rebates on everyday items.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
+    year: 2016
 
 ---

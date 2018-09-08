@@ -191,6 +191,7 @@ projects:
       them rekindle dignity, restore hope and unlock the opportunity that comes
       with being clean.
     project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg'
+    year: 2018
 zip: '91605'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'
 

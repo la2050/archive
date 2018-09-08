@@ -149,5 +149,6 @@ projects:
       after-school music programs as a tool for social transformation.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
+    year: 2016
 
 ---

@@ -130,5 +130,6 @@ projects:
       impacted by chronic illness, from a month to days.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
+    year: 2016
 
 ---

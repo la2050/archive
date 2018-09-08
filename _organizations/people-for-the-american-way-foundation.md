@@ -141,5 +141,6 @@ projects:
       gives voice for youth and marginalized communities.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
+    year: 2016
 
 ---

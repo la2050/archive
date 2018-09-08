@@ -113,5 +113,6 @@ projects:
       students through timely graduation and into college.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
+    year: 2016
 
 ---

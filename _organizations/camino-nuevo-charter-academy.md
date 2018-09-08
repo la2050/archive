@@ -139,5 +139,6 @@ projects:
       program is getting more students to and through college.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
+    year: 2016
 
 ---

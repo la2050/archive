@@ -155,6 +155,7 @@ projects:
       stories to improve our transportation options.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8642914065741-team90.jpg
+    year: 2016
 zip: '#N/A'
 
 ---

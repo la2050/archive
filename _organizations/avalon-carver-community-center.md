@@ -133,5 +133,6 @@ projects:
       learning exciting and engaging for South LA students.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
+    year: 2016
 
 ---

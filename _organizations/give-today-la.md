@@ -115,5 +115,6 @@ projects:
       creates ways to give local: time, treasure or talent.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
+    year: 2016
 
 ---

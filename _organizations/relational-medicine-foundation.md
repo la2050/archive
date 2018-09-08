@@ -132,5 +132,6 @@ projects:
       encounter between patient and healthcare professionals
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
+    year: 2016
 
 ---

@@ -149,5 +149,6 @@ projects:
       automatically update to improve maintenance of YOUR LA streets!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
+    year: 2016
 
 ---

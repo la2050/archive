@@ -127,6 +127,7 @@ projects:
       individuals, organizations and the communities that they serve.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
+    year: 2018
 zip: '20002'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=814833035'
 

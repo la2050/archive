@@ -151,5 +151,6 @@ projects:
       enhance every student we encounter. Even yours!
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
+    year: 2016
 
 ---
