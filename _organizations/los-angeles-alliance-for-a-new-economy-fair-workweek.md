@@ -176,5 +176,6 @@ projects:
       become effective, civically engaged advocates.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
+zip: '90034'
 
 ---

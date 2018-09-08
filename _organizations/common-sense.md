@@ -169,5 +169,6 @@ projects:
       underserved Latino families and kids thrive in the digital age.
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
+zip: '90292'
 
 ---

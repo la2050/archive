@@ -120,5 +120,6 @@ projects:
       voices to establish their place in American literature.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
+zip: '91401'
 
 ---

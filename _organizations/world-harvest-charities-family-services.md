@@ -131,5 +131,6 @@ projects:
       work, eat, learn, play, heal, connect, and create.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
+zip: '90012'
 
 ---

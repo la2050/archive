@@ -122,5 +122,6 @@ projects:
       early-stage dementia in a community-based setting.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
+zip: '90016'
 
 ---

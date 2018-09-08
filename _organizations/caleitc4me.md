@@ -164,5 +164,6 @@ projects:
       Improving the lives of working Californians by creating financial security
       through a program of research, analysis, public information and education.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
+zip: '90066'
 
 ---

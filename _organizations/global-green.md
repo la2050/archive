@@ -149,5 +149,6 @@ projects:
       worn out items, making LA the best place to live!
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
+zip: '90405'
 
 ---

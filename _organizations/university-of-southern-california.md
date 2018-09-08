@@ -121,5 +121,6 @@ projects:
       running for office anywhere in the nation.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
+zip: '90012'
 
 ---

@@ -147,5 +147,6 @@ projects:
       helping homeless families as they transition into housing.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
+zip: '90015'
 
 ---

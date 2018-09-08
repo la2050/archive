@@ -149,5 +149,6 @@ projects:
       Angelenos to volunteer opportunities that create change.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
+zip: '20001'
 
 ---

@@ -132,5 +132,6 @@ projects:
       and libraries, to teach us both online and off.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
+zip: '90005'
 
 ---

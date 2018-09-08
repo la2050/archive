@@ -124,5 +124,6 @@ projects:
       youth served in the next three years.
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
+zip: '90014'
 
 ---

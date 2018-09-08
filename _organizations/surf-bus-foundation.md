@@ -143,5 +143,6 @@ projects:
     project_description: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
+zip: '90040'
 
 ---

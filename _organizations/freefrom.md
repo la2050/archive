@@ -222,5 +222,6 @@ projects:
       gender-based violence by making sure every survivor has the financial
       resources to heal, rebuild and live free from abuse.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
+zip: '90012'
 
 ---

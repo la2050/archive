@@ -131,5 +131,6 @@ projects:
       people experiencing homelessness in L.A.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
+zip: '90017'
 
 ---

@@ -105,5 +105,6 @@ projects:
       distributing them to the kids that need them the most.
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
+zip: '91711'
 
 ---

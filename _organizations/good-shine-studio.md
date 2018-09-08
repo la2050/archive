@@ -176,5 +176,6 @@ projects:
       and share local media, events and programs.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
+zip: '90026'
 
 ---

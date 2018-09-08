@@ -167,5 +167,6 @@ projects:
       greatly advance the fight against climate change.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/move-la-a-project-of-community-partners.jpg
+zip: '90015'
 
 ---

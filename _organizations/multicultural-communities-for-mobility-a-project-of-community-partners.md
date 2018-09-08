@@ -145,5 +145,6 @@ projects:
       traffic collisions, state violence, or displacement.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
+zip: '90015'
 
 ---

@@ -85,5 +85,6 @@ projects:
       local community health center for 9th-grade students.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
+zip: '90017'
 
 ---

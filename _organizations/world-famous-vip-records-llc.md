@@ -166,5 +166,6 @@ projects:
       by a replica of the Historic World Famous VIP Sign.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
+zip: '90008'
 
 ---

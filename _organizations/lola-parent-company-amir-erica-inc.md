@@ -103,5 +103,6 @@ projects:
       a concise, nonpartisan way.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
+zip: '90036'
 
 ---

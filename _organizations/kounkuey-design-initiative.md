@@ -222,5 +222,6 @@ projects:
       overlooked spaces and transform them into playful places!
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
+zip: '90048'
 
 ---

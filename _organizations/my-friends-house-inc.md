@@ -88,5 +88,6 @@ projects:
       collection, and growth of the food.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
+zip: '90291'
 
 ---

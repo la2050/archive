@@ -164,5 +164,6 @@ projects:
       meaningful change within their communities.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
+zip: '90015'
 
 ---

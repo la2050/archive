@@ -126,6 +126,10 @@ figure {
   {{ page.organization_activity }}
 </p>
 
+{% if page.zip %}
+<p>Where we work: <a href="https://maps.google.com/maps?q={{ page.zip }}" style="color: inherit;">{{ page.zip }}</a></p>
+{% endif %}
+
 {% if site.phase == 6 and is_finalist == true %}
 {% comment %}
 <span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank">Vote </a></span>

@@ -137,5 +137,6 @@ projects:
       build grassroots political support for tangible change.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg
+zip: '90033'
 
 ---

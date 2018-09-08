@@ -185,5 +185,6 @@ projects:
       school bus routes across LA by 2030!
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
+zip: '90042'
 
 ---

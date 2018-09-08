@@ -145,5 +145,6 @@ projects:
       communities of color.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
+zip: '90089'
 
 ---

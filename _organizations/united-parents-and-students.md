@@ -185,5 +185,6 @@ projects:
       concerns and demand a rebalance of political power.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
+zip: '90057'
 
 ---

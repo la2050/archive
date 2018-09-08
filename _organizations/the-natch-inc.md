@@ -125,5 +125,6 @@ projects:
       across the city.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
+zip: '90021'
 
 ---

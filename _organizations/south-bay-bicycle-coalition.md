@@ -189,5 +189,6 @@ projects:
       Beach, bordering Hawthorne and El Segundo to Lawndale.
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
+zip: '90014'
 
 ---

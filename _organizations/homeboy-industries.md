@@ -94,5 +94,6 @@ projects:
       marginalized populations, because together we are stronger.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
+zip: '90010'
 
 ---

@@ -127,5 +127,6 @@ projects:
       individuals, organizations and the communities that they serve.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
+zip: '20002'
 
 ---

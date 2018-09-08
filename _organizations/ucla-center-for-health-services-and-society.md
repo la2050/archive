@@ -139,5 +139,6 @@ projects:
       to multiple stressors in under-resourced communities in LA.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
+zip: '90017'
 
 ---

@@ -8,6 +8,7 @@
     "markdown:update": "node ./generate/update-markdown.js",
     "markdown:to-csv": "node ./generate/markdown-to-csv.js",
     "organizations:create": "node ./generate/create-organizations.js",
+    "organizations:update": "node ./generate/update-organizations.js",
     "images:create": "gulp",
     "images:copy": "node ./generate/copy-images.js"
   },

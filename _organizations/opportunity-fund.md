@@ -106,5 +106,6 @@ projects:
       capital in their enterprises to create self-sufficiency & jobs
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7035677564741-team90.jpg
+zip: '90012'
 
 ---

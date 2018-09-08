@@ -204,5 +204,6 @@ projects:
       neighbors, refugee families resettling in Los Angeles.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg
+zip: 90089-0034
 
 ---

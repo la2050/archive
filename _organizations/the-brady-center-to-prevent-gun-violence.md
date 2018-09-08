@@ -158,5 +158,6 @@ projects:
       gun violence in the community.
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
+zip: '90004'
 
 ---

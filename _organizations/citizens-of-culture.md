@@ -153,5 +153,6 @@ projects:
       artists and designers through workshops and events.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
+zip: '91506'
 
 ---

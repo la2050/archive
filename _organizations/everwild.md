@@ -118,5 +118,6 @@ projects:
       learning, child-led exploration, and foster environmental stewardship with
       the entire family!
     project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everwild.jpg'
+zip: '90014'
 
 ---

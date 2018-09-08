@@ -151,5 +151,6 @@ projects:
       change and reduce obesity.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
+zip: '90012'
 
 ---

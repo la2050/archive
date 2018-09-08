@@ -141,24 +141,29 @@ function processFile(filename, projects, organizations) {
   let data = loadMarkdown(filename);
   if (!data) return;
 
-  if (data.yaml.year != 2018) return;
+  // if (data.yaml.year != 2018) return;
 
   // data.yaml.year = year;
 
-  console.log("------------")
+  // SHIM: It might be better to match by the original challenge URL instead
+  let organization = organizations.filter(organization => {
+    if ((organization.title === data.yaml.organization_name)) {
+      console.log("found a match for data.yaml.organization_name: " + data.yaml.organization_name)
+    }
+    return (organization.title === data.yaml.organization_name)
+  })[0]
+
 
   // SHIM: It might be better to match by the original challenge URL instead
+  /*
   let project = projects.filter(project => {
     // if ((project.title === data.yaml.title)) {
     //   console.log("found a match for data.yaml.title: " + data.yaml.title)
     // }
     return (project.title === data.yaml.title)
   })[0]
+  */
 
-  // SHIM: This might not work if an organization has more than one project
-  // let organization = organizations.filter(organization => {
-  //   return (organization.project_id === project.project_id)
-  // })
 
   // if (project && project.length > 0) {
   //   // console.dir(project)
@@ -167,7 +172,19 @@ function processFile(filename, projects, organizations) {
   //   console.log("couldn’t find a match for data.yaml.title: " + data.yaml.title)
   // }
 
-  // saveMarkdown(filename, data);
+
+  if (organization) {
+    if (organization.zip && organization.zip != "" && organization.zip != "0") {
+      data.yaml.zip = organization.zip
+    } else {
+      console.log("no zip found for organization: ")
+      console.dir(organization)
+    }
+
+    console.log("------------")
+
+    saveMarkdown(filename, data);
+  }
 
 
   // Simplify image URL
@@ -291,7 +308,7 @@ function updateMarkdownFiles(folder) {
   let projects = parse(projectsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   let organizationsInput = fs.readFileSync('../_data/organizations.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-  let organizations = parse(projectsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+  let organizations = parse(organizationsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   for (let index = 0; index < files.length; index++) {
     if (files[index].indexOf('.DS_Store') >= 0) continue;
@@ -300,8 +317,6 @@ function updateMarkdownFiles(folder) {
   }
 }
 
-updateMarkdownFiles('learn');
-updateMarkdownFiles('create');
-updateMarkdownFiles('play');
-updateMarkdownFiles('connect');
-updateMarkdownFiles('live');
+updateMarkdownFiles('organizations');
+
+

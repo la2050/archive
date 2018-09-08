@@ -208,5 +208,6 @@ projects:
       file potential IP and scale qualified businesses.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
+zip: '90013'
 
 ---

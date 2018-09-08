@@ -146,5 +146,6 @@ projects:
       and other Angelenos.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
+zip: '90006'
 
 ---

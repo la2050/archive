@@ -162,5 +162,6 @@ projects:
       visibility, make money and sustain longevity.
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
+zip: '90024'
 
 ---

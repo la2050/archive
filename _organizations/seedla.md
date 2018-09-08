@@ -141,5 +141,6 @@ projects:
       sustainable Los Angeles.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
+zip: '90065'
 
 ---

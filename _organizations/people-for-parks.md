@@ -163,5 +163,6 @@ projects:
       vibrant places for kids and families to play and thrive.
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
+zip: '90013'
 
 ---

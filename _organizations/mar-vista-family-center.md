@@ -147,5 +147,6 @@ projects:
       environmental sustainability and social responsibility.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
+zip: '90057'
 
 ---

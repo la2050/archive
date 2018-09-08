@@ -149,5 +149,6 @@ projects:
       for goods and services across LA.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
+zip: '90017'
 
 ---

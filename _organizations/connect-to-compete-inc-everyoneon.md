@@ -103,5 +103,6 @@ projects:
       and enrollment to low-cost high speed internet.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
+zip: '90012'
 
 ---

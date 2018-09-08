@@ -198,5 +198,6 @@ projects:
       empower communities to reduce the effects and prevalence of asthma in Los
       Angeles County
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
+zip: '90015'
 
 ---

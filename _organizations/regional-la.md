@@ -186,5 +186,6 @@ projects:
       neighborhoods, and service areas.
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
+zip: '9005'
 
 ---

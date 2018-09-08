@@ -107,5 +107,6 @@ projects:
       space for the resources they need to survive and succeed.
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
+zip: '90018'
 
 ---
