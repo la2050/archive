@@ -133,5 +133,6 @@ projects:
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
 zip: '90005'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
 
 ---

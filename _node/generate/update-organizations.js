@@ -181,6 +181,10 @@ function processFile(filename, projects, organizations) {
       console.dir(organization)
     }
 
+    if (organization.charity_navigator_url && organization.charity_navigator_url != "") {
+      data.yaml.charity_navigator_url = organization.charity_navigator_url
+    }
+
     console.log("------------")
 
     saveMarkdown(filename, data);

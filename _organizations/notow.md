@@ -106,5 +106,6 @@ projects:
       again!
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
 zip: '90036'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824997963'
 
 ---

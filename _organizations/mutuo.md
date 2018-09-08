@@ -126,5 +126,6 @@ projects:
       in our backyards may lie a great opportunity to make an extra rental
       income while increasing housing in LA. If only LA knew…
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454105869'
 
 ---

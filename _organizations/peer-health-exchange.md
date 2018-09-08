@@ -86,5 +86,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 zip: '90017'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562374305'
 
 ---

@@ -126,6 +126,10 @@ figure {
   {{ page.organization_activity }}
 </p>
 
+{% if page.charity_navigator_url %}
+<p>Learn more on <a href="{{ page.charity_navigator_url }}" style="color: inherit;">Charity Navigator</a></p>
+{% endif %}
+
 {% if page.zip %}
 <p>Where we work: <a href="https://maps.google.com/maps?q={{ page.zip }}" style="color: inherit;">{{ page.zip }}</a></p>
 {% endif %}

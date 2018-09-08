@@ -161,5 +161,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 zip: '91383'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522033353'
 
 ---

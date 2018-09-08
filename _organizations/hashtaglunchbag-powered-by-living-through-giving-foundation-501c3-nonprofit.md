@@ -113,5 +113,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 zip: '90043'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800928421'
 
 ---

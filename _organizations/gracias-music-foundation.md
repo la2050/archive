@@ -79,5 +79,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
 zip: '92123'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271313830'
 
 ---

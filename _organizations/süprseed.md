@@ -190,5 +190,6 @@ projects:
       workshops, and 1000 free deliveries to LA's food deserts to make fresh
       food affordable for all and create a healthy future for us all.
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823768348'
 
 ---

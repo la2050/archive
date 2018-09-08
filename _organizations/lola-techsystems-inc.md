@@ -147,5 +147,6 @@ projects:
       providing visual timers and enabling a messaging system.
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472037575'
 
 ---

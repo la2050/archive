@@ -192,5 +192,6 @@ projects:
       with being clean.
     project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg'
 zip: '91605'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'
 
 ---
