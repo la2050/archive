@@ -54,41 +54,46 @@ stylesheets:
 .tags .action {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+/*  justify-content: center;
   align-content: stretch;
-  align-items: stretch;
+  align-items: stretch;*/
   margin-left: 0;
   max-width: none;
   padding-left: 0;
   /*margin: -1.35em;*/
-  margin-left: -1.35em;
-  margin-right: -1.35em;
+/*  margin-left: -1.35em;
+  margin-right: -1.35em;*/
 }
 @media (min-width: 40em) {
-.tags .action {
+/*.tags .action {
   margin-left: -4.35em;
   margin-right: -4.35em;
 }
-
+*/
 }
 .tags .action li {
-flex-grow: 1;
+/*flex-grow: 1;*/
 /*margin: 1.5em;*/
 margin: 0.15em;
 text-align: center;
+text-align: left;
 }
 @media (min-width: 40em) {
-  .tags .action a {
+/*  .tags .action a {
     padding: 4.5vmin 6vmin;
-  }
+  }*/
 }
-/*
+
 .tags .action a {
   background: white;
   color: black;
   border-color: black;
   color: var(--primary-color, black);
   border-color: var(--primary-color, black);
+  border-color: rgba(0, 0, 0, 0.25);
+  border-color: transparent;
+  padding-left: 1.35em;
+  padding-right: 1.35em;
 }
 .tags .action a:hover,
 .tags .action a:active,
@@ -98,7 +103,7 @@ text-align: center;
   background: var(--primary-color, black);
   border-color: var(--primary-color, black);
   color: white;
-}*/
+}
 
 
 .disabled .tags .action li:nth-child(1n) {
