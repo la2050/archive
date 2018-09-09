@@ -4,7 +4,7 @@ body_class: strawberry
 main_class: standard-layout
 ---
 
-<h1 style="position: absolute; left: -9999px">About</h1>
+<h1 style="position: absolute; left: -9999px;">About</h1>
 
 ## LA2050 is a community-guided initiative driving and tracking progress toward a shared vision for the future of Los Angeles.
 

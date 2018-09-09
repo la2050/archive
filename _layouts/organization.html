@@ -83,36 +83,6 @@ document.body.classList.add("{{ primary_color }}")
 </style>
 
 
-<style>
-  .standard-layout > .year {
-    max-width: none;
-    text-align: left;
-    grid-column: 1/-1;
-    background-color: var(--primary-color);
-    color: white;
-    padding: 0.375em 0 0 0;
-    margin: 0 -1.5em 1.5em;
-  }
-  .standard-layout > .year strong,
-  .standard-layout > .year a,
-  .standard-layout > .year a:hover,
-  .standard-layout > .year a:active,
-  .standard-layout > .year a:focus {
-    color: inherit !important;
-  }
-  @media (min-width: 40em) {
-    .standard-layout > .year {
-      margin-left: -4.5em;
-      margin-right: -4.5em;
-      padding-left: 4.5em;
-      padding-right: 4.5em;
-    }
-  }
-</style>
-
-
-<div class="year"></div>
-
 
 <section class="proposal-introduction" style="grid-column: 1/4">
 
@@ -389,12 +359,12 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 
 {% if video_embed_url %}
 
-<figure class="feature {% unless project.project_video != '' %} has-image{% endunless %}" style="margin: 0 0 0.75em 0">
+<figure class="feature {% unless project.project_video != '' %} has-image{% endunless %}" style="margin: 0 0 0.75em 0;">
 <div data-aspect-ratio="1280/720">
 
 {% if video_embed_url %}
-  <iframe src="{{ video_embed_url }}" frameborder="0" allowfullscreen></iframe>
-{% else %}
+  <iframe src="{{ video_embed_url }}" frameborder="0" allowfullscreen style="z-index: 1;"></iframe>
+{% endif %}
 {% if project.project_video and project.project_video != '' %}
 <a href="{{ project.project_video }}" target="_blank" class="has-icon">
 {% else %}
@@ -425,7 +395,6 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 {% else %}
 </a>
 {% endif %}
-{% endif %}
 </div>
 </figure>
 
@@ -441,11 +410,11 @@ font-weight: bold;
 line-height: inherit;
 text-decoration: none;
 margin-top: 0.375em;
-margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
+margin-bottom: 0.375em; max-width: 33rem;">{{ project.title }}</h3>
     </a>
 
     <a href="{{ project.uri }}#details" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
-      <p style="margin: 0; max-width: none; font-size: 0.875em;">{{ project.project_description }} <em style="display: inline-block; text-decoration: underline; color: var(--primary-color); font-weight: bold;">Learn more</em></p>
+      <p style="margin: 0; max-width: 33rem; font-size: 0.875em;">{{ project.project_description }} <em style="display: inline-block; text-decoration: underline; color: var(--primary-color); font-weight: bold;">Learn more</em></p>
     </a>
   </li>
 </ul>
