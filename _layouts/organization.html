@@ -221,6 +221,47 @@ document.body.classList.add("{{ primary_color }}")
 </div>
 {% endif %}
 
+
+{% if page.aidens_tags and page.aidens_tags.size > 0 %}
+<style>
+.links-tags ul,
+.links-tags li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+.links-tags li {
+  display: inline-block;
+  font-size: 0.875em;
+}
+.links-tags li:not(:last-child)::after {
+  content: ", ";
+}
+.links-tags li a {
+  text-transform: lowercase;
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+}
+.links-tags li a:hover,
+.links-tags li a:active,
+.links-tags li a:focus {
+  text-decoration: underline;
+}
+</style>
+<div class="links links-tags">
+<h2>Tags</h2>
+
+<ul>
+{% for tag in page.aidens_tags %}
+  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+
+</div>
+{% endif %}
+
+
 </section><!-- /.proposal-introduction -->
 
 <hr />
@@ -410,23 +451,6 @@ margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
 </ul>
 {% endfor %}
 
-
-<hr />
-
-
-{% if page.aidens_tags and page.aidens_tags.size > 0 %}
-<h2 style="text-align: left; justify-self: start; max-width: none; margin-bottom: 3rem; 
-text-transform: uppercase;
-font-weight: 600;
-letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
-font-size: 1.25em; line-height: 1;">Tags</h2>
-
-<ul>
-{% for tag in page.aidens_tags %}
-  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
-{% endfor %}
-</ul>
-{% endif %}
 
 
 
