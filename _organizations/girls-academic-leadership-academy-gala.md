@@ -129,5 +129,16 @@ projects:
     year: 2018
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812014188'
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - Income and Employment
+  - Health
+  - 'Housing: Education'
+  - Women’s advocacy
+  - Communities of color
+  - Homelessness
+  - Training and development
+  - Medicine
 
 ---

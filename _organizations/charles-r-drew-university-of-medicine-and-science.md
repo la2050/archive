@@ -156,5 +156,14 @@ projects:
       https://activation.la2050.org/assets/images/learn/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956151774'
+aidens_tags:
+  - Education
+  - Health
+  - 'Social Connectedness: STEM'
+  - Healthcare
+  - Community health
+  - Underrepresented youth
+  - Volunteerism
+  - College preparation
 
 ---

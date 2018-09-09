@@ -109,5 +109,12 @@ projects:
     year: 2018
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463314343'
+aidens_tags:
+  - Education
+  - Arts and Cultural Vitality
+  - 'Environmental Quality: Arts and culture'
+  - Sustainability
+  - Education
+  - Underserved Communities
 
 ---

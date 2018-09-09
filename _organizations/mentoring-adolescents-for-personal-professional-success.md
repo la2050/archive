@@ -171,5 +171,12 @@ projects:
     year: 2018
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=Personal DBA'
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Job training'
+  - Underserved youth
+  - Training and development
+  - Youth
 
 ---

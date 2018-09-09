@@ -411,6 +411,24 @@ margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
 {% endfor %}
 
 
+<hr />
+
+
+{% if page.aidens_tags and page.aidens_tags.size > 0 %}
+<h2 style="text-align: left; justify-self: start; max-width: none; margin-bottom: 3rem; 
+text-transform: uppercase;
+font-weight: 600;
+letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
+font-size: 1.25em; line-height: 1;">Tags</h2>
+
+<ul>
+{% for tag in page.aidens_tags %}
+  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+
+
 
 <div style="margin-bottom: 9em; grid-column: 1/-1;"></div>
 

@@ -173,5 +173,11 @@ projects:
     year: 2018
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=412024986'
+aidens_tags:
+  - 'Education: Education'
+  - Latino/Hispanic
+  - Parents
+  - Digital literacy
+  - Training and development
 
 ---

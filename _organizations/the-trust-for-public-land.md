@@ -108,5 +108,9 @@ projects:
     year: 2018
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237222333'
+aidens_tags:
+  - Environmental Quality
+  - 'Health: Open space'
+  - Community health
 
 ---

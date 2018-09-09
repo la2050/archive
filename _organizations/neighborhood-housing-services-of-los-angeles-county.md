@@ -154,5 +154,14 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4742887015741-team89.jpg
     year: 2016
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
+aidens_tags:
+  - Housing
+  - 'Income and Employment: Underserved communities'
+  - Economic development
+  - Affordable housing
+  - Supportive housing
+  - Financial management
+  - Job training
+  - Career readiness
 
 ---

@@ -160,5 +160,9 @@ projects:
     year: 2018
 zip: '94114'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Diversity
+  - Policy
 
 ---

@@ -121,5 +121,11 @@ projects:
       https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813851393'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Women’s advocacy'
+  - Underserved communities
+  - Innovation
+  - Arts and culture
 
 ---

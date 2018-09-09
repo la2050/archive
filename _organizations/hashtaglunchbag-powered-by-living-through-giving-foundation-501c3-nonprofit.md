@@ -116,5 +116,12 @@ projects:
     year: 2018
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800928421'
+aidens_tags:
+  - Health
+  - Housing
+  - 'Social Connectedness: Homelessness'
+  - Food inequality
+  - Healthy food
+  - Volunteerism
 
 ---

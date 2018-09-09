@@ -184,5 +184,10 @@ projects:
     year: 2018
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
+aidens_tags:
+  - Income and Employment
+  - 'Social Connectedness: Poverty'
+  - Underserved communities
+  - Technology
 
 ---

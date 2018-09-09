@@ -124,5 +124,10 @@ projects:
     year: 2018
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Education: Youth'
+  - STEM
+  - Arts and culture
 
 ---

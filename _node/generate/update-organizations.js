@@ -181,8 +181,18 @@ function processFile(filename, projects, organizations) {
       console.dir(organization)
     }
 
-    if (organization.charity_navigator_url && organization.charity_navigator_url != "") {
+    if (organization.charity_navigator_url && organization.charity_navigator_url != "" && organization.charity_navigator_url != "0") {
       data.yaml.charity_navigator_url = organization.charity_navigator_url
+    }
+
+    if (organization.aidens_tags && organization.aidens_tags != "" && organization.aidens_tags != "0") {
+      let tags = organization.aidens_tags.split(",");
+      tags = tags.map(string => string.trim());
+      tags = tags.filter(string => (string !== "0" && string !== 0));
+      console.dir(tags);
+      if (tags && tags.length > 0) {
+        data.yaml.aidens_tags = tags;
+      }
     }
 
     console.log("------------")

@@ -129,5 +129,9 @@ projects:
     year: 2018
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813470225'
+aidens_tags:
+  - 'Income and Employment: Small business'
+  - Entrepreneurship
+  - Technology
 
 ---

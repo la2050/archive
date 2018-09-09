@@ -164,5 +164,10 @@ projects:
     year: 2018
 zip: '990275'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=46'
+aidens_tags:
+  - 'Social Connectedness: Women’s advocacy'
+  - Inclusion
+  - Policy
+  - Underserved communities
 
 ---

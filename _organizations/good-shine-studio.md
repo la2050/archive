@@ -180,5 +180,14 @@ projects:
     year: 2018
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=609909662'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Income and Employment: Underserved communities'
+  - Communities of color
+  - Diversity
+  - Arts and culture
+  - Volunteerism
+  - Small business
 
 ---

@@ -212,5 +212,10 @@ projects:
     year: 2018
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=275334557'
+aidens_tags:
+  - Environmental Quality
+  - 'Income and Employment: Green technology'
+  - Entrepreneurship
+  - Small business
 
 ---

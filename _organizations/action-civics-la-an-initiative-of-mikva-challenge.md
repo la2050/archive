@@ -164,5 +164,10 @@ projects:
     year: 2018
 zip: '91383'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522033353'
+aidens_tags:
+  - Social Connectedness
+  - 'Education: Youth'
+  - Neighborhood councils
+  - Inclusion
 
 ---

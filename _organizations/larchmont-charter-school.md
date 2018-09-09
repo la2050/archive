@@ -140,5 +140,11 @@ projects:
     year: 2018
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'
+aidens_tags:
+  - Education
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Youth
+  - Underserved Youth
 
 ---

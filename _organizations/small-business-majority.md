@@ -129,5 +129,11 @@ projects:
       https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=30576666'
+aidens_tags:
+  - Income and Employment
+  - 'Social Connectedness: Entrepreneurship'
+  - Small business
+  - Underserved communities
+  - Women’s advocacy
 
 ---

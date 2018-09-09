@@ -121,5 +121,12 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
     year: 2016
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271720480'
+aidens_tags:
+  - Environmental Quality
+  - 'Social Connectedness. Public Safety: Ecosystems'
+  - Underserved communities
+  - Veteran services
+  - Volunteerism
+  - Emergency preparedness
 
 ---

@@ -153,5 +153,10 @@ projects:
     year: 2018
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770387124'
+aidens_tags:
+  - Environmental Quality
+  - 'Social Connectedness: Sustainability'
+  - Underserved communities
+  - Volunteerism
 
 ---

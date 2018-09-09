@@ -132,5 +132,10 @@ projects:
     year: 2018
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451130362'
+aidens_tags:
+  - Housing
+  - 'Arts and Cultural Vitality: Creative industry'
+  - Innovation
+  - Affordable housing
 
 ---

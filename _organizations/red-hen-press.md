@@ -126,5 +126,11 @@ projects:
     year: 2016
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Diversity
+  - Inclusion
+  - Underserved youth
 
 ---

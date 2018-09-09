@@ -141,5 +141,10 @@ projects:
     year: 2018
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472178446'
+aidens_tags:
+  - Housing
+  - 'Social Connectedness: Homelessness'
+  - Inclusion
+  - Neighborhood councils
 
 ---

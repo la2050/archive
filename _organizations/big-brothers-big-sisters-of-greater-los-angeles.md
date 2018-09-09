@@ -123,5 +123,15 @@ projects:
     year: 2018
 zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Underserved youth'
+  - College preparation
+  - Underserved communities
+  - High school graduation
+  - Poverty
+  - Mentorship
+  - Communities of color
 
 ---

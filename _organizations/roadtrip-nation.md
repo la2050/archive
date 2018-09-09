@@ -163,5 +163,13 @@ projects:
     year: 2018
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263889207'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Income and Employment: Creative industry'
+  - Entertainment industry
+  - Career readiness
+  - Local manufacturing
+  - Entrepreneurship
+  - Technology
 
 ---

@@ -119,5 +119,11 @@ projects:
     year: 2018
 zip: '93552'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Housing (?): Arts and culture'
+  - Homelessness
+  - Women’s advocacy
 
 ---

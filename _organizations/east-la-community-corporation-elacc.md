@@ -163,5 +163,11 @@ projects:
       https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954531076'
+aidens_tags:
+  - Income and Employment
+  - 'Arts and Cultural Vitality: Street vendors'
+  - Small business
+  - Entrepreneurship
+  - Job training
 
 ---

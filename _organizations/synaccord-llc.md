@@ -153,5 +153,9 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
     year: 2016
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=47448496'
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Neighborhood councils
+  - Inclusion
 
 ---

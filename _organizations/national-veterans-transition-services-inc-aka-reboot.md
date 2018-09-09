@@ -150,5 +150,13 @@ projects:
     year: 2018
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800597403'
+aidens_tags:
+  - Health
+  - Housing
+  - 'Income and Employment: Veteran services'
+  - Affordable housing
+  - Healthcare
+  - Job training
+  - Homelessness
 
 ---

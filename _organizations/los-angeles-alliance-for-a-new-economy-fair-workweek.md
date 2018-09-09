@@ -180,5 +180,9 @@ projects:
     year: 2018
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954459427'
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Training and development'
+  - Underserved communities
 
 ---

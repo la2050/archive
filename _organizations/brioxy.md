@@ -135,5 +135,11 @@ projects:
     project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg'
     year: 2018
 zip: '90012'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Innovation
+  - Creative Industry
+  - Communities of color
 
 ---

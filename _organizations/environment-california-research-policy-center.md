@@ -189,5 +189,14 @@ projects:
     year: 2018
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680531882'
+aidens_tags:
+  - Environmental Quality
+  - Education
+  - 'Health: Community health'
+  - Green technology
+  - Sustainability
+  - Children
+  - Teachers
+  - Youth
 
 ---

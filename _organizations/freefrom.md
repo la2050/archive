@@ -226,5 +226,14 @@ projects:
     year: 2018
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'
+aidens_tags:
+  - Public Safety
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Crime
+  - Financial management
+  - Entrepreneurship
+  - Homelessness
+  - Small business
 
 ---

@@ -158,5 +158,11 @@ projects:
     year: 2016
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Income and Employment: Creative industry'
+  - Innovation
+  - Patents
+  - Investment
 
 ---

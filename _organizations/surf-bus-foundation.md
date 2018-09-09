@@ -147,5 +147,15 @@ projects:
     year: 2016
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
+aidens_tags:
+  - Environmental Quality
+  - Education
+  - 'Social Connectedness: Public space'
+  - Children
+  - Youth
+  - Science
+  - Diversity
+  - Immigration/Immigrants
+  - Underserved communities
 
 ---

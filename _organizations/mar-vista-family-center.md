@@ -151,5 +151,9 @@ projects:
     year: 2018
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952647443'
+aidens_tags:
+  - Education
+  - 'Environmental Quality: Sustainability'
+  - Youth
 
 ---

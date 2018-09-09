@@ -123,5 +123,10 @@ projects:
     year: 2016
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
+aidens_tags:
+  - Education
+  - 'Social Connectedness: STEM'
+  - Youth
+  - Underserved communities
 
 ---

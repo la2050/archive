@@ -136,5 +136,13 @@ projects:
     year: 2018
 zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
+aidens_tags:
+  - Health
+  - 'Social Connectedness. Environmental Quality: Fitness'
+  - Sports
+  - Underserved communities
+  - Underserved youth
+  - Volunteerism
+  - Public Space
 
 ---

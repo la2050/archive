@@ -195,5 +195,10 @@ projects:
     year: 2018
 zip: '91605'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Homelessness'
+  - Volunteerism
+  - Underserved communities
 
 ---

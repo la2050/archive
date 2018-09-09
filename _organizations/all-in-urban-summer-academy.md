@@ -95,5 +95,10 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
     year: 2018
+aidens_tags:
+  - Education
+  - 'Housing: Homelessness'
+  - Youth
+  - Tutoring
 
 ---

@@ -208,5 +208,10 @@ projects:
     year: 2018
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
+aidens_tags:
+  - 'Social Connectedness: Neighborhood councils'
+  - Refugees
+  - Underserved communities
+  - Volunteerism
 
 ---

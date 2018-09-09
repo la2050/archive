@@ -136,5 +136,12 @@ projects:
     year: 2016
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
+aidens_tags:
+  - Income and Employment
+  - Social Connectedness
+  - 'Health: Healthcare'
+  - Underserved communities
+  - Small business
+  - Women’s advocacy
 
 ---

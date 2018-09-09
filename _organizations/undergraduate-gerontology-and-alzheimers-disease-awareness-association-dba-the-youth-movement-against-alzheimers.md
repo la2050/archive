@@ -126,5 +126,9 @@ projects:
     year: 2018
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208083398'
+aidens_tags:
+  - Health
+  - 'Social Connectedness: Healthcare'
+  - Volunteerism
 
 ---

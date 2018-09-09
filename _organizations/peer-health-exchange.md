@@ -89,5 +89,13 @@ projects:
     year: 2018
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562374305'
+aidens_tags:
+  - Education
+  - Health
+  - 'Social Connectedness: Community health'
+  - Youth
+  - Healthcare
+  - Volunteerism
+  - Underserved youth
 
 ---

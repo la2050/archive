@@ -112,5 +112,8 @@ projects:
     year: 2018
 zip: '94113'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300538676'
+aidens_tags:
+  - Environmental Quality
+  - Public Safety
 
 ---
