@@ -224,6 +224,7 @@
     grid-column: 1/-1;
     background-color: var(--primary-color);
     background-color: rgba(0, 0, 0, 0.15);
+    background-color: transparent;
     color: white;
     padding: 0.125em 0 0 0;
     margin: 0 0 0;

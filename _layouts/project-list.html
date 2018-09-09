@@ -7,6 +7,37 @@ stylesheets:
 ---
 
 <style>
+@media (min-width: 40em) {
+  
+.tags {
+  margin-top: 7.5em;
+}
+}
+/*
+
+
+.tags::before {
+  content: "";
+  display: block;
+  border-bottom: ;
+  max-width: none;
+  text-align: left;
+  grid-column: 1/-1;
+  background-color: var(--primary-color);
+  background-color: rgba(0, 0, 0, 0.15);
+  color: white;
+  padding: 0.125em 0 0 0;
+  margin: 0 0 0;
+}
+@media (min-width: 40em) {
+  .tags::before {
+    margin-left: -4.5em;
+    margin-right: -4.5em;
+    padding-left: 4.5em;
+    padding-right: 4.5em;
+  }
+}*/
+
 .tags h2 {
   font-style: italic;
   color: inherit !important;
@@ -29,12 +60,46 @@ stylesheets:
   margin-left: 0;
   max-width: none;
   padding-left: 0;
+  /*margin: -1.35em;*/
+  margin-left: -1.35em;
+  margin-right: -1.35em;
+}
+@media (min-width: 40em) {
+.tags .action {
+  margin-left: -4.35em;
+  margin-right: -4.35em;
+}
+
 }
 .tags .action li {
 flex-grow: 1;
+/*margin: 1.5em;*/
 margin: 0.15em;
 text-align: center;
 }
+@media (min-width: 40em) {
+  .tags .action a {
+    padding: 4.5vmin 6vmin;
+  }
+}
+/*
+.tags .action a {
+  background: white;
+  color: black;
+  border-color: black;
+  color: var(--primary-color, black);
+  border-color: var(--primary-color, black);
+}
+.tags .action a:hover,
+.tags .action a:active,
+.tags .action a:focus {
+  background: black;
+  border-color: black;
+  background: var(--primary-color, black);
+  border-color: var(--primary-color, black);
+  color: white;
+}*/
+
 
 .disabled .tags .action li:nth-child(1n) {
   --primary-color:   rgb(255, 194, 51); /* @banana */
