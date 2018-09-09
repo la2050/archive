@@ -149,6 +149,7 @@ projects:
       CARPE LA blends digital and physical play as teams work together to
       discover, collect and unlock the secrets of a fantasy world overlaid on
       their local neighborhood park.
+    project_video: 'https://www.youtube.com/embed/flxMXmBJItU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
     year: 2016

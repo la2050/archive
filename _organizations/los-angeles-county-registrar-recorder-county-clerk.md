@@ -139,6 +139,7 @@ projects:
       As LA County prepares to revolutionize the voting experience, voters will
       participate in a countywide mock election to interact with new voting
       technologies and get excited about future elections.
+    project_video: 'https://youtu.be/Z8m9oU7eBqc'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
     year: 2018

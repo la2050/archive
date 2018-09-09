@@ -65,6 +65,7 @@ projects:
     category: create
     title: Empowering You to Create Your Legacy
     project_description: We support you and your community to achieve entrepreneurial endeavors.
+    project_video: 'https://www.youtube.com/embed/MPnJxlMhByQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6383208955741-team91.jpeg
     year: 2016

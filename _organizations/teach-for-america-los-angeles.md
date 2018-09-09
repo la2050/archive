@@ -143,6 +143,7 @@ projects:
       Our Trauma-Informed Teaching Initiative promotes the mental wellness of
       our teachers and students, enhances instructional effectiveness, and
       motivates teachers to stay in education.
+    project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
     year: 2016

@@ -199,6 +199,7 @@ projects:
       Leveraging the power of food and culture, we will entice millennials to
       engage in planning affordable housing in LA and activate them to run in
       the 2019 and 2021 Neighborhood Council elections.
+    project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
     year: 2018

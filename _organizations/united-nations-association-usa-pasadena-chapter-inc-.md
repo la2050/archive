@@ -124,6 +124,7 @@ projects:
       Action Ambassadors is training the next generation of leaders in Los
       Angeles through volunteer work, political involvement, and social
       entrepreneurship.
+    project_video: 'https://www.youtube.com/embed/YKNosko-ufM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
     year: 2016

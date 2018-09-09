@@ -114,6 +114,7 @@ projects:
       An art installation of the words PERIODS and #HAPPYPERIOD in numerous
       locations within L.A county made for the public to donate menstrual
       products for a homeless passer-by to freely take.
+    project_video: 'https://youtu.be/goBUjr5-dRA'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
     year: 2018
 zip: '93552'

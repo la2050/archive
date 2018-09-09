@@ -136,6 +136,7 @@ projects:
     project_description: >-
       Snack runs and social spaces meet technology hubs of information and
       resources for RealTalk about youth relationships
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
     year: 2016

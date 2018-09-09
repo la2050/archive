@@ -126,6 +126,7 @@ projects:
       IN House is a collaboration between City Fabrick, community partners,
       affordable housing providers and residents to design innovative housing
       strategies in Long Beach and South Los Angeles County.
+    project_video: 'https://youtu.be/dUZCmEGdjvM'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg
     year: 2018

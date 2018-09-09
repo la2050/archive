@@ -150,6 +150,7 @@ projects:
       The Green Alley PLAYlab uses the power of play as a strategy to enhance
       human, ecological and economic health in the Industrial Neighborhoods’
       green alleys.
+    project_video: 'https://www.youtube.com/embed/7ku12q5dd4k?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
     year: 2016

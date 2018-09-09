@@ -140,6 +140,7 @@ projects:
       A 10 month pilot includes: a 6 week individualized instructional coaching
       program for 3 schools; a unique platform for educator community to refine
       expertise; and empowering shift to mindful practice.
+    project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
     year: 2016

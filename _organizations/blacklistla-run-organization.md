@@ -154,6 +154,7 @@ projects:
       PLAY doesn’t end with childhood; adults need recess, too! In 2017,
       BlacklistLA will provide over 100 opportunities for Angelenos of all ages
       to get active and play in their city.
+    project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
     year: 2016

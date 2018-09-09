@@ -155,6 +155,7 @@ projects:
       We believe families with a critically-ill child not risk their job,
       health, or finances to care for their child. We identify, connect &
       mobilize support bringing relief to families in medical crisis.
+    project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
     year: 2016

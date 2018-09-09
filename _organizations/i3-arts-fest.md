@@ -120,6 +120,7 @@ projects:
       I3 Arts Fest is a public arts festival that transcends public spaces into
       a vibrant urban canvas for artists  to engage and exhibit their most
       innovative and imaginative works.
+    project_video: 'https://www.youtube.com/embed/A702YxASJIo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5119808783741-team88.png
     year: 2016

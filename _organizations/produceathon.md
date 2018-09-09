@@ -152,6 +152,7 @@ projects:
       We mobilize local talent to create campaigns and tech-based solutions that
       inspire civic engagement, address our greatest civic needs, and unite the
       non-profit, private, & public sectors.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
     year: 2016

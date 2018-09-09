@@ -87,6 +87,7 @@ projects:
       Sky Source's mission is to install atmospheric water generators in
       communities with low access to clean drinking water, incorporating artwork
       into the installation, creating an urban drinking fountain
+    project_video: 'https://www.youtube.com/embed/d0EPG2F9qzk?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
     year: 2016

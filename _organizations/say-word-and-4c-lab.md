@@ -155,6 +155,7 @@ projects:
       Together, Say Word and 4C LAB empower underserved youth to merge spoken
       word & dance to share original stories of identity, empathy & equality
       while sparking dialogue across diverse communities in LA.
+    project_video: 'https://www.youtube.com/embed/Bg6i6yos2pU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5170666805741-team89.jpg
     year: 2016

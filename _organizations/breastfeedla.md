@@ -156,6 +156,7 @@ projects:
     project_description: >-
       Increasing food security in South Los Angeles by supporting breastfeeding
       in the community.
+    project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
     year: 2016

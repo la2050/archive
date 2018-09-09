@@ -135,6 +135,7 @@ projects:
       The Historic Paseo Walkway creates a new gathering place in downtown that
       celebrates the city’s past by connecting the oldest historical sites and
       museums from Ft. Moore to Union Station.
+    project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
     year: 2016

@@ -125,6 +125,7 @@ projects:
       Through Nuestros Murales Unidos, communities in Central LA will come
       together to design public art spaces that reflect the communities
       themselves and serve as a space for gathering and collaboration.
+    project_video: 'https://youtu.be/__37Jfcwzr8'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
     year: 2018
@@ -137,6 +138,7 @@ projects:
       YPI’s College Choice Tool helps students find “best fit” schools for
       academics, cost, and preference, helping them earn a college degree with
       less debt.
+    project_video: 'https://www.youtube.com/embed/bBIXPsWICAQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
     year: 2016

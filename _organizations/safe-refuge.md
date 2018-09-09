@@ -78,6 +78,7 @@ projects:
       Safe Refuge seeks to expand our Employment Services program to include
       online GED prep, online training opportunities, and computer literacy
       education for low-income and other vulnerable communities.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
     year: 2016

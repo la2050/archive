@@ -133,6 +133,7 @@ projects:
       Sustain and grow the Derby Dolls training and competition program as well
       as expand outreach to women who will benefit from the social and emotional
       support inherent in team sport and community.
+    project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
     year: 2016

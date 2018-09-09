@@ -160,6 +160,7 @@ projects:
       Improve health outcomes and social connectedness in Boyle Heights by
       empowering residents to conduct community outreach and education, so that
       their fellow neighbors can access wellness resources.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
     year: 2018

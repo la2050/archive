@@ -141,6 +141,7 @@ projects:
     category: play
     title: 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
     project_description: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
+    project_video: 'https://www.youtube.com/embed/mTtQd9ZOG1E?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
     year: 2016

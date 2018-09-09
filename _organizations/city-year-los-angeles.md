@@ -124,6 +124,7 @@ projects:
       City Year Los Angeles connects Angelenos across the city to beautify
       school campuses, making them more welcoming, vibrant places for students
       to learn.
+    project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
     year: 2018
@@ -136,6 +137,7 @@ projects:
       In the next five years, nearly 1 million California STEM jobs will need to
       be filled. City Year will pilot a STEM curriculum in 3 high schools to
       better prepare our students for these opportunities.
+    project_video: 'https://www.youtube.com/embed/Qukugb-h7xI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
     year: 2016

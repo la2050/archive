@@ -117,6 +117,7 @@ projects:
     project_description: >-
       Self-Sustained Gardening Sensors Will Change Life Outdoors for all
       Metropolitan Areas.
+    project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
     year: 2016

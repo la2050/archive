@@ -167,6 +167,7 @@ projects:
       Common Sense will work with public school districts and community
       organizations in LA to provide trainings and resources that help
       underserved Latino families and kids thrive in the digital age.
+    project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg
     year: 2018

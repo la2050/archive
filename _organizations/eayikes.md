@@ -101,6 +101,7 @@ projects:
     project_description: >-
       Using service and play to humanize, connect, and empower Angelenos from
       all walks of life.
+    project_video: 'https://youtu.be/PtA8wOP6XuM'
     project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg'
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462395125'

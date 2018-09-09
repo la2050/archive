@@ -138,6 +138,7 @@ projects:
       The APP Academy is a four-year computer science education program where
       high school students learn mobile, web and game development through
       real-world, inquiry-based, hands-on projects.
+    project_video: 'https://www.youtube.com/embed/gzso3MPN5og?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
     year: 2016

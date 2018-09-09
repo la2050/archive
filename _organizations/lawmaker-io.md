@@ -135,6 +135,7 @@ projects:
       LawMaker.io is launching a public, yearlong project for Angelenos &
       elected officials to collaboratively discuss solutions for homelessness &
       build grassroots political support for tangible change.
+    project_video: 'https://www.youtube.com/watch?v=mH8x6av0XTA'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg
     year: 2018

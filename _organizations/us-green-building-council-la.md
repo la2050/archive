@@ -121,6 +121,7 @@ projects:
       EcoMapLA the “GoTo” Resource Map for all things sustainable in LA, created
       to meet the growing demand of Angelenos wanting to know their sustainable
       choices within their city.
+    project_video: 'https://myatlascms.com/map/?id=901?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6901550005741-team91.png
     year: 2016

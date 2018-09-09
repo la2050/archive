@@ -156,6 +156,7 @@ projects:
       The Brady Center to Prevent Gun Violence will educate and empower Los
       Angelenos to take meaningful action to stem the flow of crime guns and end
       gun violence in the community.
+    project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
     year: 2018

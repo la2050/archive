@@ -112,6 +112,7 @@ projects:
       The Los Angeles Veterans Orienation welcomes veterans to our community and
       provides a friendly and fun introduction to the benefits veterans need to
       become successful Angelinos.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
     year: 2018

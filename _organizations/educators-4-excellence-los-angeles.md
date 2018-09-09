@@ -149,6 +149,7 @@ projects:
     project_description: >-
       Teachers at E4E-LA are designing the policy vision and solutions that will
       propel more of our students to  colleges and careers.
+    project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
     year: 2016

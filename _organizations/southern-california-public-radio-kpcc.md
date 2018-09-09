@@ -137,6 +137,7 @@ projects:
       With #MeetSoCal, KPCC will explore LA County’s diverse and changing
       neighborhoods through the eyes of Angelenos to inform our coverage, foster
       robust public conversation, and connect our communities.
+    project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
     year: 2016

@@ -110,6 +110,7 @@ projects:
       Too many kids in LA are missing school because they don’t have shoes—or
       being bullied because they are wearing inappropriate shoes. We will
       provide brand new athletic shoes to LAUSD school children.
+    project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg
     year: 2018

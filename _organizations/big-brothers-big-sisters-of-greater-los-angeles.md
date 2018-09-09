@@ -117,6 +117,7 @@ projects:
       Big Brothers Big Sisters of LA’s College P.A.C. Program (Preparation,
       Access, Completion) provides underserved youth with mentoring support to
       finish high school, graduate college, and start careers.
+    project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
     year: 2018

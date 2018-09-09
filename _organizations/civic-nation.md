@@ -127,6 +127,7 @@ projects:
     project_description: >-
       Let's Use Music, Food, and Art to Make Voting a Moment of Community
       Celebration
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
     year: 2016

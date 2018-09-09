@@ -93,6 +93,7 @@ projects:
       Provide healing and hope for victims of child abuse and family violence by
       supporting Richstone's trauma-focused treatment, wellness, and violence
       prevention program.
+    project_video: 'https://www.youtube.com/embed/4V4Ke8wtZgg?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
     year: 2016

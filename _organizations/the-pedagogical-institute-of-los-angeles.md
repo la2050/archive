@@ -129,6 +129,7 @@ projects:
       The Collaborative Teacher Project provides on-site teacher mentoring and
       innovative classroom design to support early childhood educators working
       in underserved public schools.
+    project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
     year: 2016

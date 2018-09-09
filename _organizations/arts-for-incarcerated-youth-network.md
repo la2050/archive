@@ -122,6 +122,7 @@ projects:
       AIYN will provide ongoing multi-disciplinary arts in 16 youth detention
       sites in order to transform young people, the systems that serve them, and
       connect them to the creative economy in Los Angeles
+    project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
     year: 2016

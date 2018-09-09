@@ -159,6 +159,7 @@ projects:
       An interactive history of the art that has flourished along the LA River,
       the Art Barge will travel to River parks and cultural centers to activate
       communities along the LA River and beyond.
+    project_video: 'https://www.youtube.com/watch?v=Gr6O_ZaGMQo'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
     year: 2018

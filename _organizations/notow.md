@@ -104,6 +104,7 @@ projects:
     project_description: >-
       A mobile application to make sure you never get a parking ticket ever
       again!
+    project_video: 'https://youtu.be/Vz9f3nvm5-Y'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
     year: 2018
 zip: '90036'

@@ -123,6 +123,7 @@ projects:
       GALA paves the road for high school girls to engage in project based
       learning and real world problem solving while supporting them as they
       become the leaders and innovators in STEM fields of tomorrow.
+    project_video: 'https://youtu.be/PTteThgae3o'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
     year: 2018

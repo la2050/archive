@@ -130,6 +130,7 @@ projects:
       Combining communications technologies like Mega-MIMO 2.0 and distributed
       Mesh networking will allow LA learning institutions, including our schools
       and libraries, to teach us both online and off.
+    project_video: 'https://www.youtube.com/embed/f1NWhlN60zE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
     year: 2016

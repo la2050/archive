@@ -174,6 +174,7 @@ projects:
       The project will enable LA’s 150,000 retail workers to connect with each
       other across LA’s vast size, learn their rights, register to vote, and
       become effective, civically engaged advocates.
+    project_video: 'https://youtu.be/7GHqVKrYCjM'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
     year: 2018

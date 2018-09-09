@@ -97,6 +97,7 @@ projects:
       Jeneration J is a platform for today’s youth to discuss domestic violence
       prevention and intervention strategies to create advocates for future
       generations.
+    project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
     year: 2016

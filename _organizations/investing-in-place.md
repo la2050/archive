@@ -153,6 +153,7 @@ projects:
       Access to greater opportunity depends on how you get there. Our team will
       document and amplify stories of how people get around — and leverage the
       stories to improve our transportation options.
+    project_video: 'https://www.youtube.com/embed/gLaKB_W36pE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8642914065741-team90.jpg
     year: 2016

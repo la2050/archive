@@ -164,6 +164,7 @@ projects:
     category: live
     title: A digital green thumb for the urban-scape
     project_description: Plantaware helps people grow food at home
+    project_video: 'https://www.youtube.com/embed/Mze22CqlIlE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
     year: 2016

@@ -104,6 +104,7 @@ projects:
       Knit Marketing is a social media marketing agency that recruits, trains,
       and employs teens and young adults from untapped communities in Los
       Angeles, to manage marketing campaigns for businesses.
+    project_video: 'https://www.youtube.com/embed/TsbsuQ8zdgM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
     year: 2016

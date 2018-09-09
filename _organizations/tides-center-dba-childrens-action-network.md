@@ -89,6 +89,7 @@ projects:
       A non-profit coalition united on behalf of foster youth to increase
       participation in foster parenting, mentoring and educational
       opportunities.
+    project_video: 'https://youtu.be/JPeuzRmiI3w'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
     year: 2018

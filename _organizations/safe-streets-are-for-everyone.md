@@ -104,6 +104,7 @@ projects:
       With over 52,000 traumatic traffic collisions in LA County every year,
       SAFE Support  is there to help fill the gaps in the social and government
       safety net.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
     year: 2016

@@ -107,6 +107,7 @@ projects:
       CASA of Los Angeles is recruiting graduate-level college students to help
       young adults in foster care exit the system and build thriving and
       independent lives.
+    project_video: 'https://youtu.be/nUykHHtLIHo'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
     year: 2018
@@ -116,6 +117,7 @@ projects:
     project_description: >-
       Help CASA build an organizational collaborative to help more youth in
       foster care attend college.
+    project_video: 'https://www.youtube.com/embed/3qC3k8bY6A0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7481336294741-team91.jpg
     year: 2016

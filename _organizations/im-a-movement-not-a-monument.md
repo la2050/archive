@@ -149,6 +149,7 @@ projects:
       With your vote, we can help thousands receive quality 1-on-1 tutoring for
       FREE. All lives matter, including students, and this program will help
       enhance every student we encounter. Even yours!
+    project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
     year: 2016

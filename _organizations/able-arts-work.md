@@ -122,6 +122,7 @@ projects:
     project_description: >-
       To expand our Artbeat Radio broadcast, created, hosted and produced by
       people with intellectual disabilities on the road
+    project_video: 'https://www.youtube.com/embed/yjPtx6xf7jI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
     year: 2016

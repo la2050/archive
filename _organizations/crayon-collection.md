@@ -103,6 +103,7 @@ projects:
       Every child deserves a crayon. Crayon Collection aims to reduce waste in
       landfills by collecting gently used crayons that never decompose and
       distributing them to the kids that need them the most.
+    project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
     year: 2018

@@ -157,6 +157,7 @@ projects:
       The Get Lit Players go on a 'Lit for Literacy' tour with their new book
       'Get Lit Rising' to promote literacy and self expression amongst
       underserved and marginalized Los Angeles youth.
+    project_video: 'https://www.youtube.com/embed/xQ9wavSt_34?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
     year: 2016
@@ -169,6 +170,7 @@ projects:
       "Literary Riot" is a creative collective of young voices from wildly
       diverse backgrounds who turn social media into social action through the
       creation and distribution of engaging impact media.
+    project_video: 'https://youtu.be/ioZuMb9vLz8'
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/get-lit-words-ignite.jpg
     year: 2018

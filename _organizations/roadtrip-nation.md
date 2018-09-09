@@ -157,6 +157,7 @@ projects:
       Three Angelenos traverse LA in a green RV to interview professionals in
       the creative, high-tech and manufacturing industries, introducing millions
       of TV viewers and students to new career pathways.
+    project_video: 'https://www.youtube.com/watch?v=jT5D2oFUbpQ'
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
     year: 2018

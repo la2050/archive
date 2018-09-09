@@ -101,6 +101,7 @@ projects:
       LA politics is dry, boring, and confusing AF, but it doesn’t have to be.
       LOLA empowers young residents by explaining local issues and elections in
       a concise, nonpartisan way.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
     year: 2018

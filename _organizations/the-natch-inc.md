@@ -123,6 +123,7 @@ projects:
       We make it easier for all Angelinos to sell or shop locally, by creating a
       Farmer's Markets app where anybody can have their craft products delivered
       across the city.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
     year: 2018

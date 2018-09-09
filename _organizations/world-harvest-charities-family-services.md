@@ -129,6 +129,7 @@ projects:
     project_description: >-
       It’s the dream we all dream of: A village in the city where you can live,
       work, eat, learn, play, heal, connect, and create.
+    project_video: 'https://youtu.be/Jtc3hudRjRA'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
     year: 2018

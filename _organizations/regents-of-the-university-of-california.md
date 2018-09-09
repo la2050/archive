@@ -133,6 +133,7 @@ projects:
       Give sex ed a new look, outside of the box and not in a book. Help AMP!
       UCLA help high school students get the facts so they can step up as
       advocates for their own sexual health decisions.
+    project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
     year: 2016

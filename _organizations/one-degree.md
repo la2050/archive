@@ -179,6 +179,7 @@ projects:
       Low-income and at-risk Angelenos will be able to find, access, and manage
       nonprofit and social services efficiently and with dignity on One Degree
       so they can prosper and reach their full potential.
+    project_video: ''
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
     year: 2018
 zip: '90029'

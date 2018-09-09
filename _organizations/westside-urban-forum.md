@@ -106,6 +106,7 @@ projects:
       WUF will sponsor a first-ever one-day conference to celebrate the
       Westside, discuss common challenges, and identify projects to make the
       Westside more lively, equitable, and functional.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
     year: 2016

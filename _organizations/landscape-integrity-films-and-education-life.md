@@ -136,6 +136,7 @@ projects:
       Short films empowering people to create evergreen, flowering California
       native gardens that bring back LA’s butterflies and birds and save water!
       Learn how to plant native to revitalize LA!
+    project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
     year: 2016

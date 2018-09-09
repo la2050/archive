@@ -97,6 +97,7 @@ projects:
     project_description: >-
       A website detailing arts & science events in LA and united together with a
       focus on accessibility and diverse mixings to inspire and illuminate.
+    project_video: 'https://www.youtube.com/embed/UJ_qFwDLFqQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7117612655741-team91.png
     year: 2016

@@ -146,6 +146,7 @@ projects:
       Common Threads and The Kitchen Community will deliver hands-on,
       school-based garden and nutrition education that empowers underserved kids
       to make healthier food choices and improves school wellness.
+    project_video: 'https://www.youtube.com/embed/teuTGnS3vkM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
     year: 2016

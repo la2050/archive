@@ -157,6 +157,7 @@ projects:
     project_description: >-
       DataU is helping Los Angelenos get the tech skills they need to get high
       paying jobs!
+    project_video: ''
     project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813780149'

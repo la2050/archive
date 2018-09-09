@@ -124,6 +124,7 @@ projects:
       We intend to reintroduce play into the community by constructing an
       Adventure Playground that will create a safe environment for families to
       explore and grow, facilitating a sense of harmony.
+    project_video: 'https://www.youtube.com/embed/3NWi_lmKGzs?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
     year: 2016

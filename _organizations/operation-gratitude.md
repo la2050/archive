@@ -146,6 +146,7 @@ projects:
       Through hands-on Volunteerism, Operation Gratitude provides Angelenos of
       every age and background an uplifting way to thank all who serve by
       creating Care Packages of handmade and donated goodies.
+    project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
     year: 2016

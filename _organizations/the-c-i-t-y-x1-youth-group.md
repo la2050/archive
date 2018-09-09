@@ -137,6 +137,7 @@ projects:
     category: connect
     title: Help Open A Youth Center for LGBT Homeless Youth Like No Other!
     project_description: '#LGBTHomelessYouth Need A Safe Place To Be Empowered In!'
+    project_video: 'https://www.youtube.com/embed/xrBYk1R2gXQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
     year: 2016

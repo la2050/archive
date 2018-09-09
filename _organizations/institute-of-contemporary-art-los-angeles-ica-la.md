@@ -150,6 +150,7 @@ projects:
       ICA LA creates exhibitions, education programs, and community partnerships
       that spark the pleasure of discovery and challenge the way we see and
       experience the world, ourselves, and each other.
+    project_video: 'https://www.youtube.com/embed/Jmdk4Z5cMIc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
     year: 2016

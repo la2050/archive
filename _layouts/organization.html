@@ -84,7 +84,8 @@ document.body.classList.add("{{ primary_color }}")
 <figure class="feature has-image">
 <div data-aspect-ratio="1280/720">
 
-<a href="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}">
+{% assign project = page.projects | first %}
+<a href="{{ project.uri }}">
 
 {% if page.plan_id %}
 <img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt="" width="540" height="428" />
@@ -283,11 +284,75 @@ document.body.classList.add("{{ primary_color }}")
   {% endcase %}
 
   <li class="{{ primary_color }}" style="list-style: none; margin-left: 0; padding-left: 0; margin-bottom: 3em; max-width: 500px; ">
-    <a href="{{ project.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
-      <div><img src="{{ project.project_image }}" alt="" width="500" style="width: 500px; max-width: 100%; height: auto;
-object-fit: cover; display: none" /></div>
 
+{% if project.project_video and project.project_video != "" %}
+{% if project.project_video contains "youtu" or project.project_video contains "vimeo" %}
+{% unless project.project_video contains "youtube.com/user/" %}
+  {% assign video_embed_url = project.project_video %}
+
+  {% if project.project_video contains "youtu" %}
+    {% assign video_embed_url = video_embed_url | replace: 'watch?v=', 'embed/' %}
+    {% assign video_embed_url = video_embed_url | replace: 'embed?v=', 'embed/' %}
+
+    {% assign video_embed_url = video_embed_url | replace: 'https://youtu.be/', 'https://www.youtube.com/embed/' %}
+
+    {% comment %}Replace query string params (since they’re usually not needed){% endcomment %}
+    {% assign video_embed_url_array = video_embed_url | split: "?" %}
+    {% assign video_embed_url = video_embed_url_array.first %}
+    {% assign video_embed_url_array = video_embed_url | split: "&" %}
+    {% assign video_embed_url = video_embed_url_array.first %}
+    {% capture video_embed_url %}{{ video_embed_url }}?rel=0&showinfo=0&modestbranding=1{% endcapture %}
+  {% endif %}
+
+  {% assign video_embed_url = video_embed_url | replace: 'https://vimeo.com/', 'https://player.vimeo.com/video/' %}
+{% endunless %}
+{% endif %}
+{% endif %}
+
+{% assign image_url = project.project_image %}
+{% assign image_category = project.category %}
+
+<figure class="feature {% unless project.project_video != '' %} has-image{% endunless %}" style="margin: 0 0 0.75em 0">
+<div data-aspect-ratio="1280/720">
+
+{% if video_embed_url %}
+  <iframe src="{{ video_embed_url }}" frameborder="0" allowfullscreen></iframe>
+{% else %}
+{% if project.project_video and project.project_video != '' %}
+<a href="{{ project.project_video }}" target="_blank" class="has-icon">
+{% else %}
+<a href="{{ project.uri }}">
+{% endif %}
+
+<img src="{{ project.project_image }}" alt="" width="500" />
+
+
+{% if project.project_video and project.project_video != '' %}
+<span class="icon play">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.2 33.7" width="29" height="34">
+<title>Play Video</title>
+<switch>
+<polygon fill="black" points="29.2,16.9 0,0 0,33.7 29.2,16.9 0,0 0,33.7 "></polygon>
+<foreignObject>Play Video</foreignObject>
+</switch>
+</svg>
+</span>
+<span class="credit">Play video on {{
+      project.project_video 
+      | replace: "https://", ""
+      | replace: "http://", ""
+      | replace: "www.", ""
+      | split: "/" | first
+    }}</span>
+</a>
+{% else %}
+</a>
+{% endif %}
+{% endif %}
+</div>
+</figure>
       
+    <a href="{{ project.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
       <h3 style="color: var(--primary-color); text-decoration: underline;  
 line-height: 1.3125;
 font-size: inherit;

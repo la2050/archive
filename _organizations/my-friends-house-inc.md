@@ -86,6 +86,7 @@ projects:
       Increase the amount of fresh healthy food that is distributed to families
       in South Los Angeles by involving more Angelenos in the donation,
       collection, and growth of the food.
+    project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
     year: 2018

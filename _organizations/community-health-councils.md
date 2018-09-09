@@ -162,6 +162,7 @@ projects:
       Save Spaces for Healthy Places provides the training, knowledge and
       ongoing opportunity for South LA residents to find and project their
       powerful voices so that community change can become a reality.
+    project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
     year: 2016

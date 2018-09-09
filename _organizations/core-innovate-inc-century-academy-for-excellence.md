@@ -145,6 +145,7 @@ projects:
       Middle school students from Inglewood’s Century Academy for Excellence
       will discover LA’s homegrown heroes by researching local issues LA2050
       grantees are addressing and producing a podcast.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
     year: 2016

@@ -122,6 +122,7 @@ projects:
       NAMI Homefront is a free, 6-session educational program for families,
       caregivers and friends of military service members and vets with mental
       health conditions.
+    project_video: 'https://www.youtube.com/embed/nIjlAQbq7q4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
     year: 2016

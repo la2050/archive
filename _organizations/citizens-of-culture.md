@@ -143,6 +143,7 @@ projects:
       The View From Here is a conversational event "symposium" that gives
       credence to diverse voices to spur civic engagement and media literacy
       around society's most polarizing issues.
+    project_video: 'https://vimeo.com/250192634'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
     year: 2018
@@ -152,6 +153,7 @@ projects:
     project_description: >-
       Citizens Of Culture cultivates economic opportunities for independent
       artists and designers through workshops and events.
+    project_video: 'https://www.youtube.com/embed/I_DjRnUczmc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
     year: 2016

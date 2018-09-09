@@ -86,6 +86,7 @@ projects:
       Grow PIECES – a program that successfully empowers young adults to create
       a brighter future for themselves through the many benefits that the arts
       provide.
+    project_video: 'https://www.youtube.com/embed/5fIYqcCuCuw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
     year: 2016

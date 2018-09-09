@@ -116,6 +116,7 @@ projects:
       Online + (iPhone/Android) find the best bicycle routes around LA and the
       ability to find people to ride/commute with - at any time! Plus key
       signage to find bike paths/routes that are easy to miss..
+    project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
     year: 2016
@@ -125,6 +126,7 @@ projects:
     project_description: >-
       Play with bikes, make friends, connect to local resources + inspire
       bicycle riding in Los Angeles!
+    project_video: 'https://www.youtube.com/embed/RiRRvkOFhpY?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5735922065741-team91.jpg
     year: 2016

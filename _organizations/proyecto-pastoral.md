@@ -129,6 +129,7 @@ projects:
       We will create a peer mentorship program aimed at increasing college
       access in Boyle Heights, where college students mentor high school
       students, who in turn mentor middle school students.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
     year: 2016

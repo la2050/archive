@@ -140,6 +140,7 @@ projects:
       Cornerstone envisions a home that provides a shared space for Angelenos to
       come together to create, collaborate and engage in dialogue acting as a
       site for civic engagement and creative practice.
+    project_video: 'https://www.youtube.com/embed/I7lk13h9nJE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
     year: 2016

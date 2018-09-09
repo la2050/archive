@@ -130,6 +130,7 @@ projects:
       LATW, the nation’s leading producer of audio theatre, seeks to expand the
       reach of local productions across the globe and enable students to create
       their own theatre-based educational apps.
+    project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
     year: 2016

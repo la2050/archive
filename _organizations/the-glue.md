@@ -134,6 +134,7 @@ projects:
       Let's build an open-source app that collects crowd-sourced data on
       sidewalk condition to create accessible walking routes and identify which
       sidewalks need TLC.
+    project_video: ''
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg'
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462089483'

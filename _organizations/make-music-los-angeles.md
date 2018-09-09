@@ -134,6 +134,7 @@ projects:
       Playascape will transform LA into an artistic playground that cultivates
       the imagination through public art that creatively pushing boundaries and
       inspires innovation.
+    project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
     year: 2016

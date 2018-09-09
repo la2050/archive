@@ -186,6 +186,7 @@ projects:
       FUTURE SCOUTS: a series of urban creative labs that prepare youth with
       essential 21st century literacies and skills, through art, science,
       design, systems thinking and technology
+    project_video: 'https://www.youtube.com/embed/opdLZ7mHMqw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
     year: 2016

@@ -144,6 +144,7 @@ projects:
       Carrying forward is helping those who are in need of housing, workforce
       training, and other services; we collaborate to mobilize help for veterans
       and other Angelenos.
+    project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
     year: 2018

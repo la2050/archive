@@ -174,6 +174,7 @@ projects:
       In a changing Chinatown, WAPOW is a community service project connecting a
       multigenerational, multicultural team of volunteers to create, organize
       and share local media, events and programs.
+    project_video: 'https://www.youtube.com/watch?v=03UxLqNGuvE'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
     year: 2018

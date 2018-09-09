@@ -122,6 +122,7 @@ projects:
       LA Metro is deepening Los Angeles County’s connection to itself by telling
       the diverse story of who we are and who we want to be through the lens of
       riding public transportation.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
     year: 2016

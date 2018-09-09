@@ -207,6 +207,7 @@ projects:
       “EVERYONE IN: Preventing Homelessness” will help 30,000 people avoid
       homelessness by creating affordable housing & helping Angelenos keep their
       homes
+    project_video: 'https://youtu.be/omjbiTiHXxU'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
     year: 2018

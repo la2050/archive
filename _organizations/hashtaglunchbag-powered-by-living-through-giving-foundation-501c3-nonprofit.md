@@ -110,6 +110,7 @@ projects:
       #HashtagLunchbag - through the power of social media and dedicated
       volunteers - will bring hope and meals to over 50,000 Angelenos, affirming
       that we can be the change we want to see in the world.
+    project_video: 'https://www.youtube.com/watch?v=3WjUJh2z0WE'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
     year: 2018

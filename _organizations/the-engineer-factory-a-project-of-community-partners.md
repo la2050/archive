@@ -148,6 +148,7 @@ projects:
       The Engineer Factory is to increase the number of students from
       underrepresented populations (girls and students of color) that pursue
       higher education and careers in Engineering.  This
+    project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
     year: 2016

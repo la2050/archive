@@ -116,6 +116,7 @@ projects:
     category: live
     title: Localizing Disaster Response to Meet the Challenges of the 21st Century
     project_description: 'Get LA Squared Away: Community Resilience Project'
+    project_video: 'https://www.youtube.com/embed/5BOUm4PBeUc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
     year: 2016

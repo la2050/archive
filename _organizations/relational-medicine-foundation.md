@@ -130,6 +130,7 @@ projects:
       The Foundation empowers patients and improves the humanism of patient care
       through its dedication to the “relationally present” person-to-person
       encounter between patient and healthcare professionals
+    project_video: 'https://www.youtube.com/embed/F0jAU8oFZyQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
     year: 2016

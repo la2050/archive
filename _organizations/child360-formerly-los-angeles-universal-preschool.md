@@ -137,6 +137,7 @@ projects:
       Through hands-on workshops and trainings, Child360 will empower parents
       and community members to advocate on behalf of their families to realize
       the changes they want to see in their community.
+    project_video: 'https://youtu.be/3lSBgCsP9Sg'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
     year: 2018

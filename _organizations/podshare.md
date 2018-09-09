@@ -177,6 +177,7 @@ projects:
       PodShare builds affordable live/work communities with custom-designed
       pods, open floor plans, and access to a network of locations to co-live,
       co-work, and collaborate.
+    project_video: 'https://www.youtube.com/embed/nzZIUSqsR-Y?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
     year: 2016

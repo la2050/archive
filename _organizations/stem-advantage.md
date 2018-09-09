@@ -160,6 +160,7 @@ projects:
       STEM Advantage mentors, prepares and inspires young women and underserved
       communities to pursue careers in science, technology, engineering and math
       through paid internships, mentors and scholarships.
+    project_video: 'https://www.youtube.com/embed/z2t5cRSBqQA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
     year: 2016

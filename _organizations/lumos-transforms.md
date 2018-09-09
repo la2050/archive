@@ -125,6 +125,7 @@ projects:
       Lumos Transforms will teach workers, community organizers and activists
       resilience-building tools to improve the health and wellbeing of
       individuals, organizations and the communities that they serve.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
     year: 2018

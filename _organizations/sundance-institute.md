@@ -140,6 +140,7 @@ projects:
       Providing free tickets and a place for Angelenos to connect through a
       unique summer festival fusing independent film, music, comedy &
       conversation in the heart of Downtown LA.
+    project_video: 'https://www.youtube.com/embed/a-9Ki04WhRM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
     year: 2016

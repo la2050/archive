@@ -135,6 +135,7 @@ projects:
     project_description: >-
       The Endless Orchard is a real living fruit orchard planted by the public,
       for the public, that transforms our neighborhoods  into edible gardens.
+    project_video: 'https://www.youtube.com/embed/KA9t95cpVZs?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
     year: 2016

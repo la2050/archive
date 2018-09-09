@@ -158,6 +158,7 @@ projects:
       We will activate Angelenos to engage in and build an inclusive economy
       that support LA’s 50,000 street vendors, whose entrepreneurship
       contributes to our neighborhood economies and cultural landscape.
+    project_video: 'https://youtu.be/xpzFikU5XZ0'
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
     year: 2018

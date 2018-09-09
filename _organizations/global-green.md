@@ -147,6 +147,7 @@ projects:
       Through community upcycling workshops and digital tutorials, Angelenos
       will learn how to creatively reuse, repair, and repurpose their damaged or
       worn out items, making LA the best place to live!
+    project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
     year: 2018

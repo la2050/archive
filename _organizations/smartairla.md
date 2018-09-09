@@ -197,6 +197,7 @@ projects:
       SmartAirLA deploys “Smart” Internet of Things (IoT) technologies to
       empower communities to reduce the effects and prevalence of asthma in Los
       Angeles County
+    project_video: ''
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
     year: 2018
 zip: '90015'

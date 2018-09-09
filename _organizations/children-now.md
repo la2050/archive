@@ -134,6 +134,7 @@ projects:
       Children Now will bring together thousands of voices in LA County to
       promote cross-sector collaboration and demand large-scale change to
       prevent childhood trauma and reduce its impact on kids.
+    project_video: 'https://www.youtube.com/embed/QpfhY-eA-N8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
     year: 2016
@@ -145,6 +146,7 @@ projects:
     project_description: >-
       Children Now will support thousands of Angelenos to voice their support
       for quality care and education for LA’s babies.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg
     year: 2018

@@ -158,6 +158,7 @@ projects:
     project_description: >-
       Youth Voice 2020 empowers and amplifies young voices to inspire and inform
       Angelenos to take action and vote.
+    project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
     year: 2018

@@ -147,6 +147,7 @@ projects:
     project_description: >-
       MusicWorks mobilizes music industry professionals to volunteer with
       after-school music programs as a tool for social transformation.
+    project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
     year: 2016

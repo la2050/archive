@@ -165,6 +165,7 @@ projects:
       Move LA is building a broad coalition and championing a grand bargain to
       achieve the audacious goals of cleaning our air of diesel toxins and
       greatly advance the fight against climate change.
+    project_video: 'https://youtu.be/4JnqpY0nP4s'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/move-la-a-project-of-community-partners.jpg
     year: 2018

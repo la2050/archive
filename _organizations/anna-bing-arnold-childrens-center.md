@@ -153,6 +153,7 @@ projects:
       To provide holistic project-based learning experiences for the children of
       Anna Bing Arnold Children's Center through the intergration of the
       Connecting Children to Art and Nature Program.
+    project_video: 'https://www.youtube.com/embed/JHgZ6ApAYVQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
     year: 2016

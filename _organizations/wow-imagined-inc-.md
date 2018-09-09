@@ -87,6 +87,7 @@ projects:
     project_description: >-
       Using an EDUPlay Paradigm to Honor Elders, Ancient Wisdom & Children of
       Exceptional Abilities through community-wide mobile enrichment programming
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3788557564741-team90.jpg
     year: 2016

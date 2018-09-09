@@ -85,6 +85,7 @@ projects:
     project_description: >-
       eQuiz is a fun and free trivia app that brings the world together through
       knowledge. eQuiz looks to grow and employ people in the LA community.
+    project_video: 'https://www.youtube.com/embed/TA13D1sFcIU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
     year: 2016

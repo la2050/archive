@@ -123,6 +123,7 @@ projects:
       In 2017 KCRW will open the brand new KCRW Media Center—designed in
       partnership with Santa Monica College as a public space for all Angelenos
       to connect with our music, news, and cultural programming.
+    project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
     year: 2016

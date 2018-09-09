@@ -126,6 +126,7 @@ projects:
       PEL will launch a series of accessible, content-rich, dynamic and
       purposeful “Public Service Mini-Courses ” for families to educate,
       empower, and provide access to early childhood education choices.
+    project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
     year: 2016

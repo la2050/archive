@@ -136,6 +136,7 @@ projects:
       Sankofa City will explore the nexus of emerging technology, art, and
       community-based urban design, to provide visions for the future of local
       innovation and cultural development in Los Angeles.
+    project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
     year: 2016

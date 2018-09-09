@@ -130,6 +130,7 @@ projects:
       The purpose of our project is to demonstrate a replicable method for
       solving LA’s affordable housing crisis by encouraging tiny living as a
       solution.
+    project_video: 'https://www.youtube.com/embed/sKs_VJT3Xr0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
     year: 2016

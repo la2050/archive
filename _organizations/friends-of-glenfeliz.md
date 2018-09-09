@@ -130,6 +130,7 @@ projects:
     category: live
     title: 'Glenfeliz: Helping LA Grow'
     project_description: 'Glenfeliz: Helping LA Grow'
+    project_video: 'https://www.youtube.com/embed/UOyRvF_8T3s?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
     year: 2016

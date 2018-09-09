@@ -168,6 +168,7 @@ projects:
       Open House LA encourages residents and policy makers in LA County to be
       more open to adding more housing of all types, so that there are enough
       homes for all types of people to live in LA
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
     year: 2016

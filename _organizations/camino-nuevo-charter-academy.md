@@ -137,6 +137,7 @@ projects:
       Camino Nuevo Charter Academy will expand upon Camino to College, our
       existing college access and alumni support program. The focus of the
       program is getting more students to and through college.
+    project_video: 'https://www.youtube.com/embed/iDCnFxfgu1o?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
     year: 2016

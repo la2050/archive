@@ -129,6 +129,7 @@ projects:
       Civic Innovation Lab facilitates cross-sector collaboration and the
       creation of civic solutions through design challenges, structured
       programming, and networking with public & private sector experts.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
     year: 2018

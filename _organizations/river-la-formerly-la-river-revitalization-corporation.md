@@ -120,6 +120,7 @@ projects:
       LA River Stories, a multimedia project, focuses on first-hand human
       interactions with the LA River in order to engage communities, demonstrate
       impact, and inspire resilient design and equitable policy
+    project_video: 'https://www.youtube.com/embed/9ADs2v7U-Ro?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
     year: 2016

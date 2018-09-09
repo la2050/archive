@@ -148,6 +148,7 @@ projects:
     project_description: >-
       Engage your neighbors and your neighborhood council your way, online,
       productively, to make the future happen
+    project_video: 'https://www.youtube.com/embed/WCahF7BtB1c?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
     year: 2016

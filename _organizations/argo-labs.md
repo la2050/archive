@@ -147,6 +147,7 @@ projects:
     project_description: >-
       Providing the world's first comprehensive map of street quality that can
       automatically update to improve maintenance of YOUR LA streets!
+    project_video: 'https://www.youtube.com/embed/QzMCTIdxpoc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1215444855741-team91.png
     year: 2016

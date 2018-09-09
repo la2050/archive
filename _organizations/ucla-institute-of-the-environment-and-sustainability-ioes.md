@@ -126,6 +126,7 @@ projects:
       AirForU is an air quality app that provides real-time air quality
       information and is also a research tool to reduce air pollution-related
       health impacts, particularly for vulnerable populations.
+    project_video: 'https://www.youtube.com/embed/MnStd_eLovQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
     year: 2016

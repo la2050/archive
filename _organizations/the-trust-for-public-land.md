@@ -92,6 +92,7 @@ projects:
       The Green Alleys Initiative transforms polluted alleys into vibrant green
       space while capturing stormwater to recharge local aquifers and create a
       more sustainable water supply for Los Angeles.
+    project_video: 'https://www.youtube.com/embed/bmuk6k_61Tc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6644400825741-team90.jpg
     year: 2016
@@ -101,6 +102,7 @@ projects:
     project_description: >-
       Play LA! will get you, your friends, families, and neighbors outdoors and
       playing in and around Los Angeles.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/the-trust-for-public-land.jpg
     year: 2018

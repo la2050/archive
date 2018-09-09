@@ -165,6 +165,7 @@ projects:
     project_description: >-
       Reinvent older, LA manufacturing companies by using crowdfunding and other
       innovations to retain jobs in LA
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
     year: 2016

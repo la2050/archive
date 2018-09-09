@@ -90,6 +90,7 @@ projects:
       Investigative news publication Capital & Main will tell the inspiring
       stories of Angelenos who, against all odds, are making the American Dream
       a reality for themselves and their communities
+    project_video: 'https://www.youtube.com/embed/_1nAIfTqGIc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
     year: 2016

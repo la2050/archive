@@ -99,6 +99,7 @@ projects:
       The Latin Jazz Youth Ensemble of Los Angeles replicates the 17 yr success
       of Latin Jazz Youth Ensemble of SF by providing FREE education from 2 time
       Grammy winner, Oscar Hernandez. Spanish Harlem Orch
+    project_video: 'https://youtu.be/bbNl_ikc93g'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg
     year: 2018

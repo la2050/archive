@@ -143,6 +143,7 @@ projects:
       The Man2Man Project will connect multiple generations of men and boys for
       the dual purpose of helping young dads to become great fathers and
       preventing at-risk boys from becoming fathers too soon.
+    project_video: 'https://www.youtube.com/embed/DA24svvRWgw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
     year: 2016

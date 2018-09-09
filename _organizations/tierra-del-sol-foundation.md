@@ -77,6 +77,7 @@ projects:
       Tierra del Sol Foundation will empower adults with developmental
       disabilities to achieve a life of meaning, acceptance, value, and
       inclusion, via professional volunteerism as a pathway to employment.
+    project_video: 'https://www.youtube.com/embed/_REjMUMytYw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
     year: 2016

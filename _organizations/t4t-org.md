@@ -88,6 +88,7 @@ projects:
       The Robin Hoods of Rubbish are inspired by Paraguay's Landfill Harmonics
       to build intelligence in our youth using music, a proven builder of
       brainpower!
+    project_video: 'https://www.youtube.com/embed/p6jmc2uJAb0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
     year: 2016
@@ -98,6 +99,7 @@ projects:
       We are the Robbin Hoods of Rubbish, using manufacturers clean waste to
       inspire the next generation of Scientists, Technology experts, Engineers,
       Artists, and Mathematicians.
+    project_video: 'https://www.youtube.com/embed/8fx_LFJr4lc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
     year: 2016
@@ -108,6 +110,7 @@ projects:
       We are the Robin Hoods of Rubbish and we want to build STEAM Labs
       (Science, Technology, Engineering, Art and Math) out of upcycled materials
       in 20 Title 1 Schools in Los Angeles.
+    project_video: 'https://youtu.be/4ciuYTMpjdE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
     year: 2016

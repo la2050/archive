@@ -115,6 +115,7 @@ projects:
     category: learn
     title: Help Us Create and Inspire the Future Tech Leaders of LA!
     project_description: Help Us Create the Future Tech Leaders of LA!
+    project_video: 'https://www.youtube.com/embed/FGTFKKha0-Q?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
     year: 2016

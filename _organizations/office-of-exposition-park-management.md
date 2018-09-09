@@ -172,6 +172,7 @@ projects:
       This project is the first step in making Exposition Park a true crossroads
       linking South LA, Downtown LA, the Westside, while benefiting visitors and
       residents of the surrounding community.
+    project_video: 'https://www.youtube.com/embed/xLSpVnV_dyk?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2101126065741-team90.jpg
     year: 2016

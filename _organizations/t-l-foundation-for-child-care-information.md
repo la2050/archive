@@ -132,6 +132,7 @@ projects:
       Culinary Skills in a Box introduces child caregivers, parents & children
       to skills and new foods that are developmentally appropriate. Food &
       lessons delivered to their door monthly.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
     year: 2016

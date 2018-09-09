@@ -139,6 +139,7 @@ projects:
       SeedLA will provide 12 environmental nonprofits with 10 week consulting
       projects to enhance their pioneering work towards a healthier and more
       sustainable Los Angeles.
+    project_video: 'https://www.youtube.com/embed/aL8WA_hgTNo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
     year: 2016

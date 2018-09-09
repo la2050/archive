@@ -126,6 +126,7 @@ projects:
     category: connect
     title: 'LA: Easy Access'
     project_description: Open data-driven analysis of public transport accessibility in space-time
+    project_video: 'https://player.vimeo.com/video/183623434?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
     year: 2016

@@ -118,6 +118,7 @@ projects:
       LANI and the Urban Forestry Division will work hands-on with community
       members to guide them through the process of repairing their cracked
       sidewalks, making the streets of Los Angeles safer for all.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
     year: 2016

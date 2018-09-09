@@ -152,6 +152,7 @@ projects:
       Join hundreds of Angelenos in creating the NEW Good Food For All Agenda –
       a visionary policy platform to create health and resiliency for LA’s food
       system.
+    project_video: 'https://www.youtube.com/embed/YhYQSknRMu8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6804863875741-team90.jpg
     year: 2016

@@ -109,6 +109,7 @@ projects:
       Help Red Hen Press transform its new home into an arts center for our LA
       community, featuring groundbreaking performances, master class writing
       workshops, and free arts education for local youth!
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg
     year: 2018
@@ -119,6 +120,7 @@ projects:
       Red Hen Press will advocate for literary diversity by publishing 26 works
       of poetry, fiction, and nonfiction, creating opportunities for unheard
       voices to establish their place in American literature.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
     year: 2016

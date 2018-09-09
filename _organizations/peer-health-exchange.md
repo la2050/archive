@@ -83,6 +83,7 @@ projects:
       We seek to empower young people with the knowledge, skills, and resources
       to make healthy decisions through providing in-person clinic tours of a
       local community health center for 9th-grade students.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
     year: 2018

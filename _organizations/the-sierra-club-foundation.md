@@ -144,6 +144,7 @@ projects:
     project_description: >-
       We’re fighting for an equitable transition to 100 percent clean energy
       across Los Angeles and all of California!
+    project_video: 'https://www.youtube.com/embed/ZqcKcMqk1lM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
     year: 2016

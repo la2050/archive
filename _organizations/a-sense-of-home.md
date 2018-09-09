@@ -143,6 +143,7 @@ projects:
     project_description: >-
       A holistic approach to transform the lives of at-risk foster youth who
       “age out” of the system by creating their first ever homes
+    project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
     year: 2016

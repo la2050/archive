@@ -120,6 +120,7 @@ projects:
       Open Water Junior Lifeguard Program provides professional lifeguard
       instruction to youth in water safety and physical conditioning as an
       introduction to a potential career choice as water rescuers.
+    project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
     year: 2016

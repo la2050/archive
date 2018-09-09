@@ -92,6 +92,7 @@ projects:
       Since 1988 Homeboy Industries has helped people leave gang life; now the
       Global Homeboy Network connects other organizations that stand with
       marginalized populations, because together we are stronger.
+    project_video: 'https://www.youtube.com/embed/NMMcar9mYaE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
     year: 2016

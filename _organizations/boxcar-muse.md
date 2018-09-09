@@ -136,6 +136,7 @@ projects:
       boxcar+muse will go from pop-up to permanent, cultivating a year-round
       creative camp and learning lab for women, doubling our workshop series and
       club programming, and offering 130 new sponsorships.
+    project_video: 'https://youtube.com/embed/200FWNYbCNw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
     year: 2016

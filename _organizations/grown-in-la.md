@@ -129,6 +129,7 @@ projects:
       Grown in LA and partners will reinvigorate an underutilized site in
       Griffith Park into an outdoor laboratory that grows and conducts research
       on climate-appropriate plants for cities in southern CA.
+    project_video: 'https://www.youtube.com/embed/PsctXfdIX5A?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
     year: 2016

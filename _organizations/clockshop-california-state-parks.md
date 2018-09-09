@@ -128,6 +128,7 @@ projects:
       The Bowtie Project promotes the development of LA’s newest state park by
       bringing artist projects, performances, and community events to a plot of
       undeveloped land on the LA River.
+    project_video: 'https://www.youtube.com/embed/9rEbX6VgLaA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
     year: 2016

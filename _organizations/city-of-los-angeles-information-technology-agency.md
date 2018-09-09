@@ -103,6 +103,7 @@ projects:
       This project focuses on erasing the Digital Divide in Los Angeles'
       underserved communities. The project will provide education about the
       importance of engaging online and how to do so safely.
+    project_video: 'https://youtu.be/5eE1kF4xL2U'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
     year: 2018

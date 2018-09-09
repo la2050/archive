@@ -131,6 +131,7 @@ projects:
     project_description: >-
       Let’s get Angelenos of all ages and backgrounds drawing together to create
       art, build connections and imagine our shared future.
+    project_video: 'https://www.youtube.com/embed/eWUHxpi7AOI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
     year: 2016

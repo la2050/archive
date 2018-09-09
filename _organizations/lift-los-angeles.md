@@ -144,6 +144,7 @@ projects:
       LIFT-LA will transform the lives of 4,000 community members and influence
       100,000 Angelenos to break the cycle of intergenerational poverty for
       parents and children.
+    project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
     year: 2018

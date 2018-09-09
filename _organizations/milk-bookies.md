@@ -108,6 +108,7 @@ projects:
       Leaders+Readers is addressing educational disparities by flooding books
       into the Lynwood Unified School District & introducing students to books
       that will become their gateway into stronger literacy.
+    project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
     year: 2016

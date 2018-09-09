@@ -145,6 +145,7 @@ projects:
       A student-created interactive, cyber-video mural that maps the cultural
       diversity of those living/working in downtown L.A., PEOPLE IN ME showcases
       participants' culture, arts, and beliefs.
+    project_video: 'https://www.youtube.com/embed/KLFAAlK8ZLI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
     year: 2016

@@ -143,6 +143,7 @@ projects:
       “Root down! Rise up!” uses popular education and arts activation to build
       community resilience towards a future where there is no loss of life from
       traffic collisions, state violence, or displacement.
+    project_video: 'https://youtu.be/4gShI4Plo2I'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
     year: 2018

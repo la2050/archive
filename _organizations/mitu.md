@@ -147,6 +147,7 @@ projects:
       mitú Accelerate LA is a two track program focused on empowering aspiring
       Latino filmmakers and storytellers to share their powerful stories, and
       cover some of the most vital issues in the community.
+    project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
     year: 2016

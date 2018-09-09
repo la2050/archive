@@ -149,6 +149,7 @@ projects:
       LAND creates free opportunities for residents to engage with contemporary
       art in public spaces in over 20 LA neighborhoods by commissioning a Jose
       Dávila sculpture and presenting community-led events.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
     year: 2016

@@ -145,6 +145,7 @@ projects:
       Lola software helps students with learning differences access rigorous
       curriculum and stay focused by: breaking routines into manageable tasks,
       providing visual timers and enabling a messaging system.
+    project_video: 'https://www.youtube.com/watch?v=pOdXvRDzj98'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
     year: 2018

@@ -165,6 +165,7 @@ projects:
     project_description: >-
       Building the Power and Brilliant Imaginations of youth through community
       leadership and life skills enhancement
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
     year: 2016

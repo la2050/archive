@@ -104,6 +104,7 @@ projects:
       Deploy 150 air quality sensors on streetlights Citywide to provide
       environmental data at a local level in order to evaluate the disparity of
       air quality among communities & impacting factors.
+    project_video: 'https://youtu.be/tVCxc_xD6Xo'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
     year: 2018

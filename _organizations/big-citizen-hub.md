@@ -159,6 +159,7 @@ projects:
       We demand an equitable strategy and coordinated approach to comprehensive
       youth development, led by a city department focused on creating prosperity
       for all of LA’s young people.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg
     year: 2018
@@ -171,6 +172,7 @@ projects:
       Big Citizen HUB will connect 236 diverse young people, ages 11-26, from
       all across Los Angeles for 22 Saturdays to learn about our communities and
       address local issues through service.
+    project_video: 'https://www.youtube.com/embed/WA8wmi8t3ik?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
     year: 2016

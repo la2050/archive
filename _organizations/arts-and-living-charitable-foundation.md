@@ -132,6 +132,7 @@ projects:
       Arts Connect is a progressive plan for Los Angeles learners to get a fresh
       real-life digital storyline and multimedia curriculum presented with LA’s
       legendary icons.
+    project_video: 'https://www.youtube.com/embed/UpeLWXJL0JI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
     year: 2016

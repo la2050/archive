@@ -125,6 +125,7 @@ projects:
       LACI will help make Los Angeles a more creative, inclusive economy by
       training our city's youth in the technical and business skills necessary
       to join LA’s rapidly growing cleantech sector.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
     year: 2016

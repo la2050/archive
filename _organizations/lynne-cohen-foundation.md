@@ -131,6 +131,7 @@ projects:
       The Lynne Cohen Foundation serves women facing increased risk for ovarian
       and breast cancers. Our education programs and comprehensive clinics arm
       women and their families to take action and survive
+    project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
     year: 2016

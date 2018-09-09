@@ -147,6 +147,7 @@ projects:
       With the leadership of LA's Mayor and building upon a recent increase in
       local activism, VolunteerLA will turn energy into action by connecting
       Angelenos to volunteer opportunities that create change.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
     year: 2018

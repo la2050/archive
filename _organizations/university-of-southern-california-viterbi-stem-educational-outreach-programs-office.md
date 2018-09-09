@@ -158,6 +158,7 @@ projects:
       SCIE engages at-risk high school students in science, technology,
       engineering & mathematics (STEM) by having them create apps & techie
       products that improve their community & create entrepreneurship.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
     year: 2016

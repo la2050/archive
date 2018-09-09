@@ -119,6 +119,7 @@ projects:
       A cultural series focused on music, performance, movement, talk and
       family, that highlights artists who live and work in Los Angeles in the
       revamped space at the SIJCC.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
     year: 2016

@@ -125,6 +125,7 @@ projects:
     project_description: >-
       Inspire • Motivate • Teach. Telenovelas for an environmentally conscious
       LA2050
+    project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
     year: 2016

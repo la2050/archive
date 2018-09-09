@@ -118,6 +118,7 @@ projects:
       Walk With Sally aims to engage the cancer community and community at large
       throughout the city to ensure that no child walks alone in the face of a
       loved one's cancer.
+    project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
     year: 2018

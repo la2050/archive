@@ -82,6 +82,7 @@ projects:
     category: live
     title: Get Los Angeles Back to Work!
     project_description: Get Los Angeles Back to Work!
+    project_video: 'https://www.youtube.com/embed/pZ7s6I73bNU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6757074165741-team91.jpg
     year: 2016

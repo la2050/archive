@@ -134,6 +134,7 @@ projects:
       Larchmont Social Justice Alliance allows youth to speak up for social
       justice through our poetry slam competition, Larchmont Charter School's
       literary magazine, and a firestorm of social media.
+    project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
     year: 2018

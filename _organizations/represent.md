@@ -150,6 +150,7 @@ projects:
     project_description: >-
       A FREE, LA-based, acting & media arts school for diverse, aspiring media
       makers!
+    project_video: 'https://www.youtube.com/embed/vK-yBYBjdlA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
     year: 2016

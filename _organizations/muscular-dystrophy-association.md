@@ -128,6 +128,7 @@ projects:
       MDA Summer Camp provides kids with muscular dystrophy and related diseases
       an opportunity for 'the best week of the year,' where kids are living
       beyond limits in a place where anything is possible!
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
     year: 2016

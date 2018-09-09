@@ -145,6 +145,7 @@ projects:
       The New A.G.E Initiative coaches low-income youth on how to Abate waste,
       Generate revenue, and Educate communities about recycling to engender
       environmental sustainability and social responsibility.
+    project_video: 'https://youtu.be/4ejRwTEFlUg'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
     year: 2018

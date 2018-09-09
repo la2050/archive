@@ -97,6 +97,7 @@ projects:
       TiLA is a learning center devoted to personal, professional, and
       organizational development with humanism, critical thinking, and empathy
       baked into its mission.
+    project_video: 'https://player.vimeo.com/video/176509438?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
     year: 2016

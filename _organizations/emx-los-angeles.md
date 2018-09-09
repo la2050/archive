@@ -157,6 +157,7 @@ projects:
       EMX will invest in developing the NoHo ArtWalk, educational classes for
       kids/teens/adults, and developing new artists who will contribute to
       community service through the EMA Play it FWD program.
+    project_video: 'https://www.youtube.com/embed/wTWVo0OKkL8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
     year: 2016

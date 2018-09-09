@@ -141,6 +141,7 @@ projects:
       Combining nutrition education and communal gardening to provide good food,
       a supportive community and water-wise, food productive landscapes at
       churches in underserved LA communities.
+    project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
     year: 2016

@@ -116,6 +116,7 @@ projects:
     project_description: >-
       Help us provide a way home for women and children experiencing
       homelessness on the streets of Los Angeles.
+    project_video: 'https://www.youtube.com/embed/dtKGgHD0VHE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
     year: 2016

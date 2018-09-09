@@ -144,6 +144,7 @@ projects:
       Kitchen Table App is a community building platform that brings people from
       all walks of life and every corner of Los Angeles together over a shared
       love of good food and great company.
+    project_video: 'https://youtu.be/Rmqp7T8vQ0A'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
     year: 2018

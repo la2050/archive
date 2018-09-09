@@ -144,6 +144,7 @@ projects:
       To amplify the impact of the LA2050 Activation Challenge and foster deeper
       compassion amongst Angelenos, Center for Council will train ten of the
       finalist organizations in the practice of Council.
+    project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
     year: 2018

@@ -141,6 +141,7 @@ projects:
       Providing self-directed play space created not just for kids but BY THEM
       as we do finishing touches on Eureka Villa Adventure Playground and launch
       a year long series of FREE Pop-Ups around LA County!
+    project_video: 'https://www.youtube.com/embed/NzPGR-4eafI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
     year: 2016

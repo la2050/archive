@@ -163,6 +163,7 @@ projects:
     project_description: >-
       Improving the lives of working Californians by creating financial security
       through a program of research, analysis, public information and education.
+    project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
     year: 2018
 zip: '90066'

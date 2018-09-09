@@ -220,6 +220,7 @@ projects:
       Through a virtual game of tag called #PlayYourWayLA and a rip-roaring
       Park-in-a-Box for all ages, Angelenos will work together to identify
       overlooked spaces and transform them into playful places!
+    project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
     year: 2018

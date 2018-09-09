@@ -133,6 +133,7 @@ projects:
       LIFT-Los Angeles and One Degree, two nonprofits dedicated to breaking the
       cycle of poverty, are leveraging technology to put wraparound supports
       directly in the hands of families.
+    project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
     year: 2016

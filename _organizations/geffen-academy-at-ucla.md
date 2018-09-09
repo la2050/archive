@@ -147,6 +147,7 @@ projects:
       The RideLA app will incentivize use of public transportation by offering a
       Blockchain based game system through which riders earn credits to exchange
       for goods and services across LA.
+    project_video: 'https://youtu.be/m9NRl8lAdZY'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
     year: 2018

@@ -143,6 +143,7 @@ projects:
       We’re expanding Maker Walk around the city—and partnering with Artisanal
       LA & LA Food Fest—to raise awareness for local brands and manufacturers,
       and mobilize the creative community to MAKE IT IN LA!
+    project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
     year: 2018

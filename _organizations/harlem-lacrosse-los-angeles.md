@@ -119,6 +119,7 @@ projects:
       HL-LA engages families, communities, businesses, law enforcement, school
       partners, and athletes of all backgrounds to provide kids most at risk of
       dropout with personal pathways to future successes.
+    project_video: 'https://www.youtube.com/watch?v=3WVD26iAwmw'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
     year: 2018

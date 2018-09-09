@@ -170,6 +170,7 @@ projects:
       POLAHS provides a college preparatory education with Career Technical
       Education (CTE) pathways in the high-skill, high-wage, high-demand
       industries of Boat Operations; Digital Media; and Construction.
+    project_video: 'https://www.youtube.com/embed/UclMuVfefwA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
     year: 2016

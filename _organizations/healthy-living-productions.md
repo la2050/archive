@@ -111,6 +111,7 @@ projects:
       Doctors' Orders is a powerful new video series for Los Angeles that will
       educate on diseases, preventative care and living a healthy lifestyle. 
       Because proactive health care saves lives!
+    project_video: 'https://www.youtube.com/embed/R1IuTSQQ9PY?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
     year: 2016

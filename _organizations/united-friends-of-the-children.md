@@ -125,6 +125,7 @@ projects:
       By providing LA County foster youth with a support network of caring
       adults and a host of program opportunities, the project will help more
       than 700 youth to reach successful independence.
+    project_video: 'https://player.vimeo.com/video/169895416?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
     year: 2016

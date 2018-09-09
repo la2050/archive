@@ -141,6 +141,7 @@ projects:
       AARP Foundation Experience Corps volunteers will use evidence-based
       curriculum to tutor struggling readers attending LA's BEST after school
       program so they achieve reading proficiency by 3rd grade.
+    project_video: 'https://www.youtube.com/embed/Q7i_qCu5ttQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
     year: 2016

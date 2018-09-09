@@ -105,6 +105,7 @@ projects:
       Individualized cargo containers, stacked on empty lots, will provide
       chronic and temporarily homeless people with a place to live, as well as
       space for the resources they need to survive and succeed.
+    project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
     year: 2018

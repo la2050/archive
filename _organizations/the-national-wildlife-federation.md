@@ -127,6 +127,7 @@ projects:
     project_description: >-
       Transforming LA schoolyards into critical habitat so wildlife, students
       and the whole community can thrive
+    project_video: 'https://www.youtube.com/embed/1lv9lN3FZUw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
     year: 2016

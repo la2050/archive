@@ -136,6 +136,7 @@ projects:
       Supporting community & school based afterschool and athletic programs
       through logistics and advisory services that empower them to increase the
       number of children they serve in Los Angeles
+    project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
     year: 2016

@@ -133,6 +133,7 @@ projects:
       Equallet is a website and app that connect consumers, investors and
       women-owned businesses to drive job creation, generate wealth and achieve
       gender equality.
+    project_video: 'https://www.youtube.com/embed/8nHQbGQ-t-E?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
     year: 2016

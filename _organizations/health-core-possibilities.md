@@ -106,6 +106,7 @@ projects:
       STOP WREX!/ALTO WREX! will establish our Bilingual digital app program to
       eliminate distracted driving as a project Angelenos — especially Latinos -
       want to support. LIVE and increase LA's bike score!
+    project_video: 'https://www.youtube.com/watch?v=2x_ao5Cxho8'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
     year: 2018

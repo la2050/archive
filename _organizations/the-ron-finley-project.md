@@ -121,6 +121,7 @@ projects:
       Da FUNction is a one day, free event that brings members from LA’s diverse
       communities together for one purpose - to have fun and play with a
       smorgasbord of activities in an otherwise unused space.
+    project_video: 'https://www.youtube.com/embed/Y7hnhC54WqA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
     year: 2016

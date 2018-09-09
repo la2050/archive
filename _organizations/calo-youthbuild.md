@@ -104,6 +104,7 @@ projects:
       CALO YouthBuild Students will create mobile solar powered generators to
       bring arts and STEM programming to underserved communities affected by
       youth violence, drug use, and academic apathy.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
     year: 2016

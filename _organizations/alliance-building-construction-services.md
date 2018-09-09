@@ -73,6 +73,7 @@ projects:
     project_description: >-
       Synergy Village: A self-sustainable community where we help the homeless
       get reintegrated back into society as productive citizens of Los Angeles
+    project_video: 'https://www.youtube.com/embed/XCrtiYQynKQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
     year: 2016

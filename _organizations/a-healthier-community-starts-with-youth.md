@@ -128,6 +128,7 @@ projects:
       Promoting a culture of healthy practices in even the most under-resourced
       communities via physician referred nutrition and fitness community health
       programming, led by local students.
+    project_video: 'https://vimeo.com/241727342'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
     year: 2018

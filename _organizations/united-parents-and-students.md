@@ -183,6 +183,7 @@ projects:
       United Parents and Students will activate 100,000 people across South LA,
       East LA, Compton, and Inglewood to raise their voices regarding community
       concerns and demand a rebalance of political power.
+    project_video: 'https://vimeo.com/205438757'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
     year: 2018

@@ -140,6 +140,7 @@ projects:
       Our project will join creators with building owners, government agencies,
       and various advisors to take big ideas and push them through the legal and
       infrastructure challenges that restrict creativity.
+    project_video: 'https://www.youtube.com/embed/Jbhwq5zWzA4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9859494345741-team91.jpg
     year: 2016

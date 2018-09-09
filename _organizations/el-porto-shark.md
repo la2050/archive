@@ -123,6 +123,7 @@ projects:
     project_description: >-
       Machine learning model to predict shark populations for climate and
       fisheries health in the local ocean.
+    project_video: 'https://www.youtube.com/embed/nowgVpDsUNE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4270387955741-team88.png
     year: 2016

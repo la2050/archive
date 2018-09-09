@@ -202,6 +202,7 @@ projects:
       "Welcome, Neighbor" is a campaign to activate Angelenos across the city
       through their Neighborhood Councils to welcome and support their newest
       neighbors, refugee families resettling in Los Angeles.
+    project_video: 'https://youtu.be/6re3u9HlO-A'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg
     year: 2018

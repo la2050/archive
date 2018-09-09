@@ -117,6 +117,7 @@ projects:
       Cultivating Creative Students provides creative college prep support — 
       college counseling and portfolio coaching — to high school students
       lacking financial resources.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
     year: 2016

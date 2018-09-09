@@ -162,6 +162,7 @@ projects:
       Coro’s Neighborhood Leaders Program (NLP) trains emerging leaders from
       South LA in civic leadership and public affairs, preparing them to enact
       meaningful change within their communities.
+    project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
     year: 2018

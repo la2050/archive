@@ -159,6 +159,7 @@ projects:
       California Partnership seeks to connect community groups, organizations,
       and elected officials to build our community's civic power and enact
       political and social change.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
     year: 2016

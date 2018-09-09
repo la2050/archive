@@ -97,6 +97,7 @@ projects:
       The Intern Project will expose an additional 50 high school juniors
       located within the newly established South Los Angeles Promise Zone to
       paid internship opportunities in high growth career fields.
+    project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
     year: 2016

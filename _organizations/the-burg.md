@@ -142,6 +142,7 @@ projects:
       The Burg is an innovative digital public square that connects communities
       and gives los angeles residents the tools to address local issues and
       #buildbettercities.
+    project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
     year: 2016

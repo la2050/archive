@@ -161,6 +161,7 @@ projects:
       People for Parks transforms public park access. Partnering with Kid
       Healthy we’ll train parents to grow our 11 new Community School Parks into
       vibrant places for kids and families to play and thrive.
+    project_video: 'https://www.youtube.com/embed/ydbOMK-5HPM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
     year: 2016

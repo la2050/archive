@@ -118,6 +118,7 @@ projects:
       Hunger: Not Impossible is an innovative platform connecting the food
       Insecure to ready-to-eat meals through SMS, leveraging tech already in the
       hands of millions in order to tackle this injustice.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
     year: 2018

@@ -124,6 +124,7 @@ projects:
       Joyful Heart's Survivor Retreat Model offers LA's survivors of sexual
       assault, domestic violence, and child abuse, and the professionals who
       serve them, a new holistic pathway to healing from trauma.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
     year: 2016

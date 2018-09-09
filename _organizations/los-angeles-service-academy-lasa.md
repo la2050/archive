@@ -117,6 +117,7 @@ projects:
       LASA empowers a diverse group of LA's youth to not only understand the
       complexities of civic infrastructure, but be the problem-solvers and
       visionaries of our city’s immediate and far-flung future.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
     year: 2016

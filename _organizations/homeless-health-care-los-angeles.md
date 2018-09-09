@@ -155,6 +155,7 @@ projects:
       Since 2011, the rate of opioid overdoses has more than tripled in LA
       County; this epidemic is completely preventable if people were aware of
       and had access to the lifesaving drug, naloxone.
+    project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
     year: 2016

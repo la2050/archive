@@ -206,6 +206,7 @@ projects:
       The Sustainable Tech Intellectual Property Education Series focuses on
       providing the tools and skills to develop & launch green tech businesses,
       file potential IP and scale qualified businesses.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
     year: 2018

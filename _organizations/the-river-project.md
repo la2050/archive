@@ -146,6 +146,7 @@ projects:
       Recognizing the LA River can be beautiful only with community support, we
       will restore the River Greenway’s vibrancy in Studio City, re-establish
       bike and pedestrian access and improve public safety.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
     year: 2016

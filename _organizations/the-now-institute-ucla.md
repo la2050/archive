@@ -140,6 +140,7 @@ projects:
     project_description: >-
       A web interface that connects researchers, policymakers, and citizens by
       testing and visualizing scenarios for a sustainable LA by 2050.
+    project_video: 'https://www.youtube.com/embed/622Zh36LYZ0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
     year: 2016

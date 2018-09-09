@@ -148,6 +148,7 @@ projects:
       We will ignite a love for reading while developing compassion among
       low-income  elementary students who will join a read-a-thon to give ill
       kids in their community uplifting “Jester” books & dolls.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
     year: 2016

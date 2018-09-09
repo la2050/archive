@@ -101,6 +101,7 @@ projects:
       A farmer's market app, where anybody in LA can open up their own craft
       shop and sell anything they make (foods, crafts, clothes, art); and we
       deliver it to your door all in one order.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6286523854741-team91.png
     year: 2016

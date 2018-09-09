@@ -118,6 +118,7 @@ projects:
       Robots, fire and next-gen inventions - STEAM Carnival - a Trojan horse to
       interest kids in Science, Tech, Engineering, Art & Math careers. Young
       inventors in South Los Angeles step right up!
+    project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
     year: 2018

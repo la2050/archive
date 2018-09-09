@@ -113,6 +113,7 @@ projects:
       GiveTodayLA is all about connecting you to experiences and causes right
       here in LA. Our social share platform ranks community goals and causes and
       creates ways to give local: time, treasure or talent.
+    project_video: 'https://www.youtube.com/embed/-7-HrBCZPFo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
     year: 2016

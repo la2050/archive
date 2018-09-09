@@ -124,6 +124,7 @@ projects:
       An all-female theater collective creates an original, interview-inspired
       play that sparks change-activating dialogue about consent, rape culture
       and sexual violence on Los Angeles College Campuses
+    project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
     year: 2016

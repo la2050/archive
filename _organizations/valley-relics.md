@@ -125,6 +125,7 @@ projects:
       LIT is a community block party with an interactive lighting and music
       experience, created and curated by local students, artists and musicians
       from the San Fernando Valley.
+    project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
     year: 2016

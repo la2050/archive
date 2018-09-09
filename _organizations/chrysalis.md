@@ -134,6 +134,7 @@ projects:
       With your support, Chrysalis will provide a second chance for 400
       additional formerly incarcerated individuals by expanding its transitional
       jobs program.
+    project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
     year: 2016

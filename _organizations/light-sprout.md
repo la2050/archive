@@ -136,6 +136,7 @@ projects:
       Empower Me cultivates a community of healing for sexual assault survivors
       and their advocates through story sharing, medical and psychological
       resources, and avenues for justice.
+    project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
     year: 2016

@@ -158,6 +158,7 @@ projects:
       We use the arts to positively affect the lives of underserved L.A.
       children, improving their chances for success by developing creativity,
       improving learning skills and building self-confidence.
+    project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
     year: 2016

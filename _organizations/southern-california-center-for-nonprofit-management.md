@@ -147,6 +147,7 @@ projects:
       The Center for Nonprofit Management will strategically promote
       opportunities for connectivity, sharing and innovation for social
       innovators working for positive change across Los Angeles
+    project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
     year: 2016

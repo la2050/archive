@@ -130,6 +130,7 @@ projects:
       Pools of Hope's Swim & Achieve Homework Assistance Lab is an after-school
       tutoring program that rewards students with swim lessons to promote
       academic achievement and wellness in a safe environment.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
     year: 2016

@@ -108,6 +108,7 @@ projects:
       Imagine LA recruits and trains volunteers across LA County to mentor
       formerly homeless families to break their cycle of poverty and to
       ultimately thrive.
+    project_video: 'https://www.youtube.com/embed/zp24MctE2Xo?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
     year: 2016

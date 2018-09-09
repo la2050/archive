@@ -141,6 +141,7 @@ projects:
       The L.A.vation Project brings healing circles, and other group-centered
       events to diverse schools, organizations, and communities throughout LA to
       encourage inspiration, engagement, and change.
+    project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
     year: 2016

@@ -170,6 +170,7 @@ projects:
       Co/Lab will empower 10,000 Angelenos to co-create social impact
       innovations that improve civic engagement & social connection; putting the
       power of social change back into the hands of residents.
+    project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
     year: 2016

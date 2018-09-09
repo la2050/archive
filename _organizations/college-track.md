@@ -135,6 +135,7 @@ projects:
       College Track’s Dream LA project empowers students from Boyle Heights and
       Watts to identify their dreams and passions, and connect those interests
       in meaningful service to the LA community.
+    project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
     year: 2016

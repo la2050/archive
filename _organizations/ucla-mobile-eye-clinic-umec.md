@@ -129,6 +129,7 @@ projects:
       It is challenging to fill out applications or navigate the streets without
       being able to see, which the UCLA Mobile Eye Clinic proposes to remedy for
       people experiencing homelessness in L.A.
+    project_video: 'https://www.youtube.com/watch?v=XX7-agoIc2M'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
     year: 2018

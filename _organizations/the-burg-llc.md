@@ -121,6 +121,7 @@ projects:
       The Burg is the community's platform, a digital public square that funnels
       local news and local representatives directly to the verified voters (and
       nonvoters) of Los Angeles.
+    project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg
     year: 2018

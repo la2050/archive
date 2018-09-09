@@ -192,6 +192,7 @@ projects:
       Tech LA Cares (TLC) aims to connect LA tech companies with volunteer
       opportunities at area STEM organizations in order to faciliate a more
       diverse future workforce for LA.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
     year: 2016

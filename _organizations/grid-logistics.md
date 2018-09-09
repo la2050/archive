@@ -117,6 +117,7 @@ projects:
       Cleantech infrastructure that connects container cargo between ships,
       trains, trucks and warehouses while adding value to people's lives all
       along Greater LA's trading corridors.
+    project_video: 'https://www.youtube.com/embed/KmmJPqr_ObQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
     year: 2016

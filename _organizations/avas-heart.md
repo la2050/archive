@@ -77,6 +77,7 @@ projects:
       Help Ava’s Heart create a Ronald MacDonald-type house for Transplant
       patients. You cannot get listed unless you have 3 months of post
       transplant housing close to hospitals; Cedars, UCLA & Keck
+    project_video: 'https://www.youtube.com/embed/-pcpeiJq118?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
     year: 2016

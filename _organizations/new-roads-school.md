@@ -150,6 +150,7 @@ projects:
       We hope to empower our youth and our community with tools to execute
       impact storytelling and campaigns that effectively message social issues
       and inspired community action plans to solve them.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
     year: 2016

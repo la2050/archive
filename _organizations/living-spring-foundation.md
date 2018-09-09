@@ -77,6 +77,7 @@ projects:
     project_description: >-
       Finally here...free showers for the homeless in Downtown, Los Angeles to
       improve their self-esteem.
+    project_video: 'https://www.youtube.com/embed/FvhRr2XfcvQ?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7313280725741-team88.jpg
     year: 2016

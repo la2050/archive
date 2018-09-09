@@ -86,6 +86,7 @@ projects:
       To end intergenerational poverty, we train our high schools students how
       to secure a job abd how to be successful in that job. We partner with
       businesses and we pay for the students an internshipship
+    project_video: 'https://www.youtube.com/embed/-6vW85daIkY?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
     year: 2016

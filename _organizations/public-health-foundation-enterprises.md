@@ -127,6 +127,7 @@ projects:
       Administered through the WIC program, Little by Little is an
       evidence-based early (ages 0 to 5) literacy program that significantly
       improves school readiness for low-income children in Los Angeles.
+    project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
     year: 2016

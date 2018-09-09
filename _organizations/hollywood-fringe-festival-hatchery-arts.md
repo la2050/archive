@@ -83,6 +83,7 @@ projects:
       Grow the Hollywood Fringe Festival in order to create an empowered
       community of artists and lower the bar of entry for those who cannot
       afford to participate.
+    project_video: 'https://www.youtube.com/embed/zSYYJz2FUBw?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7523100096741-team90.jpg
     year: 2016

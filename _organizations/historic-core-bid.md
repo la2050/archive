@@ -117,6 +117,7 @@ projects:
     project_description: >-
       Spark face-to-face connections and cultural engagement through
       technology-equipped public parklets in the heart of Downtown Los Angeles.
+    project_video: 'https://www.youtube.com/embed/7q-meY3ysT4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
     year: 2016

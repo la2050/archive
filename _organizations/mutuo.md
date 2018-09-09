@@ -125,6 +125,7 @@ projects:
       There is no room for Tommy, the spaceman, and many more people in LA. But
       in our backyards may lie a great opportunity to make an extra rental
       income while increasing housing in LA. If only LA knew…
+    project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454105869'

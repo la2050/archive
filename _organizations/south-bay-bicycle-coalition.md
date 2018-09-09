@@ -187,6 +187,7 @@ projects:
       ACTIVATE SOUTH BAY LA TRAILS! beckons residents of 5 Cities to come
       outside and play on a network of trails--Redondo Beach through Manhattan
       Beach, bordering Hawthorne and El Segundo to Lawndale.
+    project_video: 'https://youtu.be/ZE0fqJVRj80'
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
     year: 2018

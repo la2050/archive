@@ -172,6 +172,7 @@ projects:
       We will leverage health care providers embedded in our community to help
       identify those who do not have reliable access to healthy food, educate
       the community, and connect people with food resources.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
     year: 2016

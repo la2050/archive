@@ -123,6 +123,7 @@ projects:
       Activating hyperlocal leaders, the BlockMobile travels block by block in
       LA’s high-density neighborhoods to draw neighbors to the street to connect
       socially and tackle local community issues.
+    project_video: ''
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
     year: 2018

@@ -78,6 +78,7 @@ projects:
       We convert apartment building lawns into community-style organic urban
       farms; building community, a sustainable food source and beautifying the
       neighborhood one project at a time!
+    project_video: 'https://www.youtube.com/embed/tdnjWY1fGj0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1280996065741-team88.jpg
     year: 2016

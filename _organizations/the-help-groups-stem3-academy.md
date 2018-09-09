@@ -142,6 +142,7 @@ projects:
       Breaking barriers to STEM education and future life options for children
       diagnosed with autism spectrum disorder, ADHD and other special needs
       through engaging camps in robotics, coding & computers.
+    project_video: 'https://www.youtube.com/embed/n9iSFsPt5ME?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
     year: 2016

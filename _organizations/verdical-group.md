@@ -131,6 +131,7 @@ projects:
       We will bring the nation's largest net zero building conference to IBEW
       Local 11's Net Zero Plus building to connect LA building industry
       professionals and inspire them ahead of 2020/2030 code changes
+    project_video: 'https://www.youtube.com/embed/XaTMp9Bu1AY?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9065217005741-team88.jpg
     year: 2016

@@ -135,6 +135,7 @@ projects:
       LA Forward connects Angelenos with the organizers, policy experts, and
       coalitions based in disadvantaged communities in order to build a movement
       for a just, democratic, and sustainable Los Angeles.
+    project_video: 'https://youtu.be/iK1p6nJf5bg'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg
     year: 2018

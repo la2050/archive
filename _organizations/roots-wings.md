@@ -131,6 +131,7 @@ projects:
     project_description: >-
       We address the roots of violence and stress to ensure our children will
       have the wings to set them free to achieve a joyful life.
+    project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
     year: 2018
 zip: '90017'

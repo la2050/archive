@@ -147,6 +147,7 @@ projects:
       HYC's Conservation Pathways Project in Southeast LA County boosts
       residents’ understanding of environmental sustainability and awareness of
       prospective careers in the growing eco-friendly industry.
+    project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
     year: 2016

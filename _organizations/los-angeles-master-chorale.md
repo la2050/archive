@@ -120,6 +120,7 @@ projects:
       Big Sing LA is a free multi-generational event that invites everyone
       regardless of ability or background to come together to learn new songs
       and sing familiar ones at selected parks in Los Angeles.
+    project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
     year: 2018

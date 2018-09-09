@@ -82,6 +82,7 @@ projects:
       Month of Photography Los Angeles' two-fold mission is to advance dynamic
       programming designed to engage and stimulate the photography and creative
       community.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
     year: 2016

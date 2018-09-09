@@ -137,6 +137,7 @@ projects:
       L.A. Compost will create a countywide composting program, connecting the
       community with the soil that feeds them via workshops and use/access to
       neighborhood community compost hubs.
+    project_video: 'https://www.youtube.com/embed/QgGAt5V-g8k?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
     year: 2016
@@ -146,6 +147,7 @@ projects:
     project_description: >-
       We’re challenging the people of Los Angeles to connect, to people and
       place, to the soil and each other. #SupportSoilLA #soilandpeople #compost
+    project_video: 'https://youtu.be/QeunrIbUzt0'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg
     year: 2018

@@ -96,6 +96,7 @@ projects:
     project_description: >-
       TBC’s 2050 Show will be a citywide, billboard art show & app bringing
       broad attention to local emerging artists and art to our community.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
     year: 2016

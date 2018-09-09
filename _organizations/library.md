@@ -128,6 +128,7 @@ projects:
       Unify research and ideas from LA universities, orgs and local businesses
       to effectively and sustainably coverage ideas, research and effort around
       local problems & innovation.
+    project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
     year: 2016

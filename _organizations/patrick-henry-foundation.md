@@ -129,6 +129,7 @@ projects:
       The Scientists, Engineers, Mathematicians and Innovators (SEMI) is a
       bilingual program training the next generation of global STEM
       professionals.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
     year: 2016

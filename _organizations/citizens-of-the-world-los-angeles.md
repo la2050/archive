@@ -134,6 +134,7 @@ projects:
       Citizens of the World Los Angeles will prepare our students to thrive in
       our diverse schools and society by making critical investments in race,
       equity and diversity training for our staff.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
     year: 2016

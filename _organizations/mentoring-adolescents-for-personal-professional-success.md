@@ -165,6 +165,7 @@ projects:
       High School for Recording Arts (20 years) is teaming up with Mentoring
       Adolescents for Personal & Professional Success (MAPPS), a choice-based
       human development program leading youth to productivity
+    project_video: 'https://youtu.be/hVF2r_6Q-Vw'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
     year: 2018

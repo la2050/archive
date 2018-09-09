@@ -119,6 +119,7 @@ projects:
       We will interview 40 artists on how they have transformed the pain of loss
       into creative expression and produce those interviews into a New Media Art
       Journal. complimented by a live music/art show.
+    project_video: 'https://player.vimeo.com/video/168583145?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
     year: 2016

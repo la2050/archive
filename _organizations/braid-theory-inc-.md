@@ -152,6 +152,7 @@ projects:
       IGNITE22 is a technology showcase and collaborative experience that will
       bring together creators, adopters and facilitators – visionaries that will
       shape the next century.
+    project_video: 'https://www.youtube.com/embed/XLWpDjYyDQI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
     year: 2016

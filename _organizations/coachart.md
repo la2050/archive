@@ -128,6 +128,7 @@ projects:
       Through technology and innovation, the CoachArt Matching Platform will
       revolutionize the process of matching potential volunteers with students
       impacted by chronic illness, from a month to days.
+    project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
     year: 2016

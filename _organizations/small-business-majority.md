@@ -124,6 +124,7 @@ projects:
       This project will provide LA’s entrepreneurs with education and resources
       to start and grow their own businesses, helping them revitalize their
       communities and create new local opportunities.
+    project_video: 'https://www.youtube.com/watch?v=ZgMxPYmoLgA'
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
     year: 2018

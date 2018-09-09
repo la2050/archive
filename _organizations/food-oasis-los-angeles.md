@@ -90,6 +90,7 @@ projects:
       We want to make a healthier LA! We think the best way to do this is to
       leverage current tech and build a platform to empower everyone with the
       right tools and resources to easily find healthy food.
+    project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
     year: 2016

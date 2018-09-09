@@ -127,6 +127,7 @@ projects:
       Developing regionally appropriate model Resilience Hubs so Los Angeles
       residents can safely and quickly bounce back from extreme weather events
       and natural disasters.
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
     year: 2016

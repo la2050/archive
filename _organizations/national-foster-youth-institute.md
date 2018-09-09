@@ -115,6 +115,7 @@ projects:
     project_description: >-
       NFYI is building a social movement in LA, led by foster youth and their
       families, to transform the child welfare system so it WORKS!
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
     year: 2016

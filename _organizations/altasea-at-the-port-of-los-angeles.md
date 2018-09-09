@@ -154,6 +154,7 @@ projects:
       AltaSea and our partners are inspiring the next generation to explore the
       ocean and to generate blue solutions to the world’s most pressing
       challenges: food, energy and climate security.
+    project_video: 'https://www.youtube.com/embed/ym0IsfhUDW8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
     year: 2016

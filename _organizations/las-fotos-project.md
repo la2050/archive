@@ -121,6 +121,7 @@ projects:
       There are thousands of inspiring stories, people and nonprofits that make
       LA dynamic. Help us tell their stories through photos - connecting people
       and communities!
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
     year: 2016

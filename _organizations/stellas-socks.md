@@ -105,6 +105,7 @@ projects:
       Every year we deliver socks to over 100k homeless and homeless youth in
       Los Angeles and we organize a 'Sock Sesh' every month to inspire other
       kids and youth in the community to give back.
+    project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
     year: 2018

@@ -128,6 +128,7 @@ projects:
       NCJW|LA's The Talk Project is a peer-to-peer sexual violence awareness
       program for and by high school students. Teams of trained Peer Educators
       lead interactive workshops to create cultural change.
+    project_video: 'https://www.youtube.com/embed/yYikBEjX8p0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
     year: 2016

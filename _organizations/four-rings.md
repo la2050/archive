@@ -131,6 +131,7 @@ projects:
       Four Rings is building a facility to house our vibrant and eclectic
       community centered around our four pillars: fitness, health,
       entertainment, and community.
+    project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
     year: 2016

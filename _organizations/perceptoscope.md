@@ -140,6 +140,7 @@ projects:
       Perceptoscopes are public augmented reality viewers in the form of coin
       operated binoculars. They can expose the hidden past, present points of
       interest, or future potentials of a place.
+    project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
     year: 2016

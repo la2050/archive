@@ -104,6 +104,7 @@ projects:
       Opportunity Fund will say “Yes!” to 240 underserved LA small business
       owners in collaboration with 10+ community organizations and invest
       capital in their enterprises to create self-sufficiency & jobs
+    project_video: 'https://www.youtube.com/embed/_vusFmjTWcg?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7035677564741-team90.jpg
     year: 2016

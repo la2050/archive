@@ -122,6 +122,7 @@ projects:
       Electrify LA will transform the county's polluting buses into zero
       emission vehicles and create good manufacturing jobs for low-income
       communities historically excluded from middle skilled tech jobs
+    project_video: null
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
     year: 2016

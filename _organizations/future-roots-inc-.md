@@ -130,6 +130,7 @@ projects:
       DUBLAB's FM Initiative can help make Los Angeles the best place to connect
       by providing an extremely accessible platform for musicians, DJs, and
       artists to reach LA residents with freeform broadcasts.
+    project_video: 'https://www.youtube.com/embed/whDuQqva3a8?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
     year: 2016

@@ -129,6 +129,7 @@ projects:
       Currently, there are no inclusive community high school options embracing
       (or even allowing) students of all abilities, including those with
       disabilities, to learn together in one inclusive setting.
+    project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
     year: 2016

@@ -89,6 +89,7 @@ projects:
       Worthy of Love will continue hosting birthday parties for children living
       at the Union Rescue Mission and branch out to host parties at other
       homeless shelters throughout Los Angeles.
+    project_video: 'https://www.youtube.com/embed/auo58FNeynU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
     year: 2016

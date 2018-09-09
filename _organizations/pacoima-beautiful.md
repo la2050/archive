@@ -121,6 +121,7 @@ projects:
     project_description: >-
       Join us in developing a safe creative space for the community and by the
       community.
+    project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
     year: 2016

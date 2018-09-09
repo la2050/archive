@@ -140,6 +140,7 @@ projects:
       Preserving LA’s diverse commercial hubs will support cultural
       entrepreneurship and the creation of jobs to ensure a sustainable future
       for LA's creative communities.
+    project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
     year: 2016

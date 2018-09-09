@@ -111,6 +111,7 @@ projects:
       Harmony Project will expand our proven, comprehensive afterschool music
       program in South LA that promotes life skills development and supports
       students through timely graduation and into college.
+    project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
     year: 2016

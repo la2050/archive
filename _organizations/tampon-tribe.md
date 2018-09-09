@@ -111,6 +111,7 @@ projects:
     project_description: >-
       Period Packs: Providing Essential Feminine Hygiene to Homeless Women. Can
       you imagine getting your period while living on the streets?
+    project_video: 'https://www.youtube.com/embed/sVisyYUs8U0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
     year: 2016

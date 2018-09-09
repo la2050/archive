@@ -143,6 +143,7 @@ projects:
       A multimedia “Zombie Apocalypse” campaign to raise awareness and advance
       meaningful systemic change about the impact of climate justice on
       communities of color.
+    project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
     year: 2018

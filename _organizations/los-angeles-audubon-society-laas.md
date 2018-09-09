@@ -163,6 +163,7 @@ projects:
       LA Audubon Urban Nature Explored connects people of all ages to nature
       activities, provides field trips and after-school programs for LAUSD
       students, and student internships for under-served youth.
+    project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
     year: 2016

@@ -111,6 +111,7 @@ projects:
       Lost Angels Children's Project engages at-risk youth through classic car
       restoration and customization to learn a trade, gain life skills and
       become empowered through team building activities.
+    project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
     year: 2016

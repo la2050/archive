@@ -174,6 +174,7 @@ projects:
       DSTL Arts & The Partnership for Los Angeles' Creative Education will
       nurture & support teaching artists & the emerging artists they mentor
       through training & creative space for cultural production.
+    project_video: 'https://www.youtube.com/embed/v3ftc0qxlwI?rel=0?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
     year: 2016

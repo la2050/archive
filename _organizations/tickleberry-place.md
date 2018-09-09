@@ -142,6 +142,7 @@ projects:
       Tickleberry Place is a mobile, PLAY, EXPLORE and LEARN pop-up serving
       South Los Angeles where children can have fun while learning about
       sustainability, healthy habits and eco-conscious living.
+    project_video: 'https://www.youtube.com/embed/USaJI1-Ab8E?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
     year: 2016

@@ -101,6 +101,7 @@ projects:
       EveryoneOn will seek to identify, recruit and train community stakeholders
       in LA County with established touchpoints with residents to support access
       and enrollment to low-cost high speed internet.
+    project_video: 'https://www.youtube.com/watch?v=-aFvxFfQick'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
     year: 2018

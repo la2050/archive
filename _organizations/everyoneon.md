@@ -113,6 +113,7 @@ projects:
       EveryoneOn, in collaboration with AT&T. will facilitate Internet
       connectivity and devices for families living in public housing within Los
       Angeles’ designated Promise Zones.
+    project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
     year: 2016

@@ -87,6 +87,7 @@ projects:
     project_description: >-
       SK8 4 Education is an after school program developed to motivate
       undeserved youth by combining skateboarding with education.
+    project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
     year: 2016

@@ -151,6 +151,7 @@ projects:
       We will deploy architecturally designed, low-impact shelters made of
       treated cardboard at managed sites around LA nightly to transform
       conceptions of what emergency homeless shelter can be.
+    project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
     year: 2018

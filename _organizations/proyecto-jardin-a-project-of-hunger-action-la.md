@@ -135,6 +135,7 @@ projects:
       We are activating the regenerative power of our earth mother to heal
       broken hearts, restore city soils, and feed mind, body and spirit through
       meaningful education, soulful work, and radical hope.
+    project_video: 'https://www.facebook.com/269671146378710/videos/476537755692047/'
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
     year: 2018

@@ -120,6 +120,7 @@ projects:
       Made in LA highlights LA’s diversity by selecting 50 short films by LA
       residents to be featured in an online interactive map and at the LA Film
       Festival.
+    project_video: 'https://youtu.be/-PSOJBGkQ-Y'
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
     year: 2018

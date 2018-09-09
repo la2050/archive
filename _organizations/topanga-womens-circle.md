@@ -145,6 +145,7 @@ projects:
       Topanga Women's Circle will create a new city-wide program called The
       Community Circle Project which will guide existing service groups in
       helping homeless families as they transition into housing.
+    project_video: 'https://youtu.be/9lVdk4emJ-M'
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
     year: 2018
