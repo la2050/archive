@@ -6,6 +6,40 @@ stylesheets:
   - "/assets/css/project-list.css"
 ---
 
+
+{% comment %}
+<style>
+  {% for i in (1..100) %}
+  .proposals li:nth-child({{ i }}), {
+    order: var(--order-{{ i }});
+  }
+  {% endfor %}
+</style>
+<script>
+(function() {
+  function getRandomOrder() {
+    return (Math.floor(Math.random() * 100) + 1) - 50;
+  }
+  {% for i in (1..100) %}
+  document.documentElement.style.setProperty('--order-{{ i }}', getRandomOrder());
+  {% endfor %}
+})();
+</script>
+{% endcomment %}
+
+<script>
+(function() {
+  function getRandomOrder() {
+    return (Math.floor(Math.random() * 100) + 1) - 50;
+  }
+  for (var index = 0; index < 100; index++) {
+    document.documentElement.style.setProperty('--order-' + index, getRandomOrder());
+  }
+})();
+</script>
+
+
+
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
 {% comment %}
