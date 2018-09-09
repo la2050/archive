@@ -291,7 +291,9 @@ font-weight: 600;
 letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
 font-size: 1.25em; line-height: 1;">Ideas</h2>
 
-{% for project in page.projects %}
+{% assign project_list = page.projects | sort: "order" | reverse %}
+
+{% for project in project_list %}
 
 {% case project.category %}
   {% when 'learn' %}
