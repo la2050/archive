@@ -58,7 +58,7 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 <ul class="proposals" id="project-list">
 
   {% comment %} Order alphabetically {% endcomment %}
-  {% assign data_list = data_list | sort: "order" %}
+  {% assign data_list = data_list | sort: "organization_name" %}
 
   {% for data in data_list %}
 

@@ -93,6 +93,10 @@
 
 <p class="count">You searched for <strong id="keywords"></strong>. There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span> in all categories. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
+{% else %}
+
+<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in all categories. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+
 {% endif %}
 
 {% endif %}

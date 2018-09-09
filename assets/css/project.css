@@ -704,6 +704,7 @@
   figure > div img {
     display: block;
     width: 100%;
+    background: rgba(0, 0, 0, 0.1);
   }
   figure > div[data-aspect-ratio] a,
   figure > div[data-aspect-ratio] img {
