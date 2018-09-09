@@ -78,5 +78,8 @@ uri: /live/my-friends-house-inc/
 order: 18
 project_image: my-friends-house-inc.jpg
 year: 2018
+aidens_tags:
+  - 'Health: Healthy food'
+  - Food inequality
 
 ---

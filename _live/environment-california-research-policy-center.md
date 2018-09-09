@@ -175,5 +175,14 @@ uri: /live/environment-california-research-policy-center/
 order: 1
 project_image: environment-california-research-policy-center.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - Education
+  - 'Health: Community health'
+  - Green technology
+  - Sustainability
+  - Children
+  - Teachers
+  - Youth
 
 ---

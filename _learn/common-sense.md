@@ -157,5 +157,11 @@ uri: /learn/common-sense/
 order: 1
 project_image: common-sense.jpg
 year: 2018
+aidens_tags:
+  - 'Education: Education'
+  - Latino/Hispanic
+  - Parents
+  - Digital literacy
+  - Training and development
 
 ---

@@ -151,5 +151,10 @@ uri: /connect/action-civics-la-an-initiative-of-mikva-challenge/
 order: 52
 project_image: action-civics-la-an-initiative-of-mikva-challenge.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Education: Youth'
+  - Neighborhood councils
+  - Inclusion
 
 ---

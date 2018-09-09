@@ -119,5 +119,13 @@ uri: /create/civic-innovation-lab/
 order: 1
 project_image: civic-innovation-lab.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Education
+  - 'Social Connectedness: Technology'
+  - Creative industry
+  - Innovation
+  - Digital divide
+  - Inclusion
 
 ---

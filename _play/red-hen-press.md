@@ -101,5 +101,11 @@ uri: /play/red-hen-press/
 order: 5
 project_image: red-hen-press.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Diversity
+  - Inclusion
+  - Underserved youth
 
 ---

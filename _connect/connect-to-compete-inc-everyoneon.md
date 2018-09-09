@@ -93,5 +93,11 @@ uri: /connect/connect-to-compete-inc-everyoneon/
 order: 14
 project_image: connect-to-compete-inc-everyoneon.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Social Connectedness: Digital equity'
+  - Digital divide
+  - Underserved communities
+  - Inclusion
 
 ---

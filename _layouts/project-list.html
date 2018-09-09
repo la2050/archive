@@ -27,6 +27,8 @@ stylesheets:
 </script>
 {% endcomment %}
 
+
+{% unless page.is_search_results %}
 <script>
 (function() {
   function getRandomOrder() {
@@ -37,7 +39,7 @@ stylesheets:
   }
 })();
 </script>
-
+{% endunless %}
 
 
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
@@ -124,7 +126,7 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
-  <li class="{{ data.category }}">
+  <li class="{{ data.category }}" {% if data.aidens_tags and data.aidens_tags.size > 0 %}data-tags="{% for tag in data.aidens_tags %}{{ tag }}, {% endfor %}"{% endif %}>
     <a href="{{ data.uri | replace: data.category, 'organizations' }}">
       <span class="image">
         {% assign image_url = data.project_image %}
@@ -253,9 +255,25 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   var matches = [];
   for (var index = 0; index < items.length; index++) {
     var keywordList = keywords.replace(/\s/, ',').split(',');
+    if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
+      return keyword != "and";
+    })
+    var tags = [];
+    var tagsMatches = items[index].innerHTML.match(/data-tags=\"([^\"]+)\"/);
+    // console.dir(tagsMatches)
+    if (tagsMatches && tagsMatches.length > 1) tags = tagsMatches[1].split(", ");
     var rank = containsAnyKeyword(keywordList, items[index].innerHTML);
+
+    for (var j = 0; j < tags.length; j++) {
+      if (tags[j] === keywords) {
+        console.log("Tag match found: " + tags[j]);
+        console.log("Keywords: " + keywords);
+        rank += 100; // An exact tag match gets 100 points
+      }
+    }
+
     if (rank > 0) {
-      matches.push({
+      matches.push({  
         item: items[index],
         rank: rank
       });

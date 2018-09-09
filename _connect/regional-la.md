@@ -176,5 +176,9 @@ uri: /connect/regional-la/
 order: 33
 project_image: regional-la.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Neighborhood councils
+  - Inclusion
 
 ---

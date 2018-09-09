@@ -93,5 +93,12 @@ uri: /learn/crayon-collection/
 order: 2
 project_image: crayon-collection.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Arts and Cultural Vitality
+  - 'Environmental Quality: Arts and culture'
+  - Sustainability
+  - Education
+  - Underserved Communities
 
 ---

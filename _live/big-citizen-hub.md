@@ -149,5 +149,10 @@ uri: /live/big-citizen-hub/
 order: 21
 project_image: big-citizen-hub.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Underserved youth'
+  - Communities of color
+  - Career readiness
 
 ---

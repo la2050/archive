@@ -166,5 +166,9 @@ uri: /connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
 order: 35
 project_image: los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Training and development'
+  - Underserved communities
 
 ---

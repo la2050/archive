@@ -139,5 +139,10 @@ uri: /live/science-academy-for-all/
 order: 25
 project_image: science-academy-for-all.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Health: Healthy food'
+  - Youth
+  - Science
 
 ---

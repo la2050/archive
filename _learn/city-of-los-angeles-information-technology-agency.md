@@ -95,5 +95,12 @@ uri: /learn/city-of-los-angeles-information-technology-agency/
 order: 5
 project_image: city-of-los-angeles-information-technology-agency.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Social Connectedness: Digital divide'
+  - Digital literacy
+  - Underserved Communities
+  - Digital Equity
+  - Technology
 
 ---

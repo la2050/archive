@@ -136,5 +136,7 @@ uri: /connect/center-for-council-a-project-of-community-partners/
 order: 10
 project_image: center-for-council-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
 
 ---

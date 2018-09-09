@@ -149,5 +149,8 @@ uri: /connect/la-river-public-art-project-c-o-erw-design/
 order: 40
 project_image: la-river-public-art-project-c-o-erw-design.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Art and culture'
 
 ---

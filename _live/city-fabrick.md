@@ -118,5 +118,10 @@ uri: /live/city-fabrick/
 order: 19
 project_image: city-fabrick.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Arts and Cultural Vitality: Creative industry'
+  - Innovation
+  - Affordable housing
 
 ---

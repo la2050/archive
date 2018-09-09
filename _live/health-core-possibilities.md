@@ -98,5 +98,8 @@ uri: /live/health-core-possibilities/
 order: 33
 project_image: health-core-possibilities.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - Public Safety
 
 ---

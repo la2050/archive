@@ -150,5 +150,17 @@ uri: /create/revolutionize-hollywood/
 order: 13
 project_image: revolutionize-hollywood.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Income and Employment
+  - 'Social Connectedness: Arts and culture'
+  - Creative industry
+  - Entertainment industry
+  - innovation
+  - Entrepreneurship
+  - Underserved communities
+  - Women’s advocacy
+  - Patents
+  - Small business
 
 ---

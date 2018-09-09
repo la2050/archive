@@ -119,5 +119,13 @@ uri: /play/los-angeles-dodgers-foundation/
 order: 3
 project_image: los-angeles-dodgers-foundation.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Social Connectedness. Environmental Quality: Fitness'
+  - Sports
+  - Underserved communities
+  - Underserved youth
+  - Volunteerism
+  - Public Space
 
 ---

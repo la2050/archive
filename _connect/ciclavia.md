@@ -132,5 +132,12 @@ uri: /connect/ciclavia/
 order: 6
 project_image: ciclavia.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Environmental Quality
+  - 'Social Connectedness: Inclusion'
+  - Diversity
+  - Public space
+  - Community health
 
 ---

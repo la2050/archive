@@ -112,5 +112,10 @@ uri: /connect/los-angeles-master-chorale/
 order: 5
 project_image: los-angeles-master-chorale.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Public space
+  - Diversity
 
 ---

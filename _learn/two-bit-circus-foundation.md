@@ -110,5 +110,10 @@ uri: /learn/two-bit-circus-foundation/
 order: 13
 project_image: two-bit-circus-foundation.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Education: Youth'
+  - STEM
+  - Arts and culture
 
 ---

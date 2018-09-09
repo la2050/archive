@@ -127,5 +127,11 @@ uri: /live/ucla-center-for-health-services-and-society/
 order: 7
 project_image: ucla-center-for-health-services-and-society.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Social Connectedness: Mental health care'
+  - Underserved communities
+  - Community health
+  - Technology
 
 ---

@@ -213,5 +213,14 @@ uri: /live/freefrom/
 order: 23
 project_image: freefrom.jpg
 year: 2018
+aidens_tags:
+  - Public Safety
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Crime
+  - Financial management
+  - Entrepreneurship
+  - Homelessness
+  - Small business
 
 ---

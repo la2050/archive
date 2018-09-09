@@ -97,5 +97,10 @@ uri: /connect/la-compost/
 order: 12
 project_image: la-compost.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - 'Social Connectedness: Ecosystems'
+  - Sustainability
+  - Public space Volunteerism
 
 ---

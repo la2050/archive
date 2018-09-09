@@ -96,5 +96,14 @@ uri: /create/hacker-fund/
 order: 8
 project_image: hacker-fund.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Income and Employment
+  - 'Arts and Cultural Vitality: Digital literacy'
+  - STEM
+  - Job training
+  - Innovation
+  - Technology
+  - Creative industry
 
 ---

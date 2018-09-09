@@ -83,5 +83,10 @@ uri: /learn/all-in-urban-summer-academy/
 order: 15
 project_image: all-in-urban-summer-academy.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Housing: Homelessness'
+  - Youth
+  - Tutoring
 
 ---

@@ -124,5 +124,17 @@ uri: /create/get-lit-words-ignite/
 order: 10
 project_image: get-lit-words-ignite.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Arts and culture'
+  - Youth
+  - Creative industry
+  - Underserved youth
+  - Communities of color
+  - Career readiness
+  - Mentorship
+  - Training and development
 
 ---

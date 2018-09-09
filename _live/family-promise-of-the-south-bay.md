@@ -97,5 +97,7 @@ uri: /live/family-promise-of-the-south-bay/
 order: 36
 project_image: family-promise-of-the-south-bay.jpg
 year: 2018
+aidens_tags:
+  - 'Housing: Homelessness'
 
 ---

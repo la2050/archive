@@ -112,5 +112,12 @@ uri: /learn/the-people-of-change/
 order: 7
 project_image: the-people-of-change.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Income and Employment: Youth'
+  - Entrepreneurship
+  - Mentorship
+  - STEM
+  - Technology
 
 ---

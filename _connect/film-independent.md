@@ -112,5 +112,11 @@ uri: /connect/film-independent/
 order: 27
 project_image: film-independent.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Arts and Cultural Vitality: Arts and culture'
+  - Entertainment industry
+  - Diversity
+  - Underserved communities
 
 ---

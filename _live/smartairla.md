@@ -189,5 +189,9 @@ uri: /live/smartairla/
 order: 32
 project_image: smartairla.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Environmental Quality: Community health'
+  - Green technology
 
 ---

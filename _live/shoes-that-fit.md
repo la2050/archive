@@ -102,5 +102,10 @@ uri: /live/shoes-that-fit/
 order: 14
 project_image: shoes-that-fit.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Volunteerism'
+  - Poverty
+  - Underserved Youth
 
 ---

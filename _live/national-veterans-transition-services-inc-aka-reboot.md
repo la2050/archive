@@ -136,5 +136,13 @@ uri: /live/national-veterans-transition-services-inc-aka-reboot/
 order: 9
 project_image: national-veterans-transition-services-inc-aka-reboot.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Housing
+  - 'Income and Employment: Veteran services'
+  - Affordable housing
+  - Healthcare
+  - Job training
+  - Homelessness
 
 ---

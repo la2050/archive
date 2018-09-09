@@ -94,5 +94,12 @@ uri: /connect/eayikes/
 order: 4
 project_image: eayikes.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Health
+  - 'Social Connectedness: Diversity'
+  - Youth
+  - Community health
+  - Underserved communities
 
 ---

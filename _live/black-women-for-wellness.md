@@ -135,5 +135,13 @@ uri: /live/black-women-for-wellness/
 order: 27
 project_image: black-women-for-wellness.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Sustainability'
+  - Communities of color
+  - Underserved communities
+  - Innovation
+  - Arts and culture
 
 ---

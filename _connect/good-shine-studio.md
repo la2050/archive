@@ -166,5 +166,14 @@ uri: /connect/good-shine-studio/
 order: 8
 project_image: good-shine-studio.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Income and Employment: Underserved communities'
+  - Communities of color
+  - Diversity
+  - Arts and culture
+  - Volunteerism
+  - Small business
 
 ---

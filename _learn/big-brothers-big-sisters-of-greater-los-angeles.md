@@ -109,5 +109,15 @@ uri: /learn/big-brothers-big-sisters-of-greater-los-angeles/
 order: 10
 project_image: big-brothers-big-sisters-of-greater-los-angeles.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Underserved youth'
+  - College preparation
+  - Underserved communities
+  - High school graduation
+  - Poverty
+  - Mentorship
+  - Communities of color
 
 ---

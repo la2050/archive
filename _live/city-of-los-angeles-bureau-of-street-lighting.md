@@ -96,5 +96,10 @@ uri: /live/city-of-los-angeles-bureau-of-street-lighting/
 order: 6
 project_image: city-of-los-angeles-bureau-of-street-lighting.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Environmental Quality: Green technology'
+  - Public space
+  - Community health
 
 ---

@@ -150,5 +150,11 @@ order: 9
 project_image: east-la-community-corporation-elacc.jpg
 link_limit: 4
 year: 2018
+aidens_tags:
+  - Income and Employment
+  - 'Arts and Cultural Vitality: Street vendors'
+  - Small business
+  - Entrepreneurship
+  - Job training
 
 ---

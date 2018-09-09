@@ -150,5 +150,12 @@ uri: /learn/data-360/
 order: 0
 project_image: data-360.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Income and Employment: Career readiness'
+  - Education
+  - Technology
+  - Underserved communities
+  - Youth
 
 ---

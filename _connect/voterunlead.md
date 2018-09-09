@@ -148,5 +148,10 @@ uri: /connect/voterunlead/
 order: 49
 project_image: voterunlead.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Women’s advocacy'
+  - Inclusion
+  - Policy
+  - Underserved communities
 
 ---

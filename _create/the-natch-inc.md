@@ -115,5 +115,9 @@ uri: /create/the-natch-inc/
 order: 6
 project_image: the-natch-inc.jpg
 year: 2018
+aidens_tags:
+  - 'Income and Employment: Small business'
+  - Entrepreneurship
+  - Technology
 
 ---

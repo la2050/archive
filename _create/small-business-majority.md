@@ -116,5 +116,11 @@ uri: /create/small-business-majority/
 order: 14
 project_image: small-business-majority.jpg
 year: 2018
+aidens_tags:
+  - Income and Employment
+  - 'Social Connectedness: Entrepreneurship'
+  - Small business
+  - Underserved communities
+  - Women’s advocacy
 
 ---

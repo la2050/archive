@@ -125,5 +125,10 @@ uri: /connect/lawmaker-io/
 order: 23
 project_image: lawmaker-io.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Social Connectedness: Homelessness'
+  - Inclusion
+  - Neighborhood councils
 
 ---

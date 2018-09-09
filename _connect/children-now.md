@@ -132,5 +132,10 @@ uri: /connect/children-now/
 order: 28
 project_image: children-now.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Social Connectedness: Children'
+  - Underserved youth
+  - Youth
 
 ---

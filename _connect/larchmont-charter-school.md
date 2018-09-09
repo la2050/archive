@@ -124,5 +124,11 @@ uri: /connect/larchmont-charter-school/
 order: 22
 project_image: larchmont-charter-school.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Youth
+  - Underserved Youth
 
 ---

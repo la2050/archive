@@ -127,5 +127,15 @@ uri: /learn/proyecto-jardin-a-project-of-hunger-action-la/
 order: 6
 project_image: proyecto-jardin-a-project-of-hunger-action-la.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Environmental Quality
+  - Health
+  - 'Income and Employment: Youth'
+  - Training and development
+  - Entrepreneurship
+  - Food inequality
+  - Healthy food
+  - Public space
 
 ---

@@ -126,5 +126,9 @@ uri: /live/the-glue/
 order: 12
 project_image: the-glue.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - 'Arts and Cultural Vitality: Public space'
+  - Innovation
 
 ---

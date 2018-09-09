@@ -156,5 +156,10 @@ uri: /live/caleitc4me/
 order: 16
 project_image: caleitc4me.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Financial management'
+  - Poverty
+  - Underserved communities
 
 ---

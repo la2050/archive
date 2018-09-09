@@ -180,5 +180,10 @@ uri: /connect/lava-mae/
 order: 38
 project_image: lava-mae.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Homelessness'
+  - Volunteerism
+  - Underserved communities
 
 ---

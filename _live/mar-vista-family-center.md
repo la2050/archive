@@ -137,5 +137,9 @@ uri: /live/mar-vista-family-center/
 order: 35
 project_image: mar-vista-family-center.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Environmental Quality: Sustainability'
+  - Youth
 
 ---

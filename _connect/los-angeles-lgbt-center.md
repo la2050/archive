@@ -144,5 +144,9 @@ uri: /connect/los-angeles-lgbt-center/
 order: 34
 project_image: los-angeles-lgbt-center.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Diversity
+  - Policy
 
 ---

@@ -173,5 +173,11 @@ uri: /connect/united-parents-and-students/
 order: 44
 project_image: united-parents-and-students.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Underserved communities'
+  - Policy
+  - Communities of color
+  - Training and development
 
 ---

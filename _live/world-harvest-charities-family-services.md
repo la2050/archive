@@ -120,5 +120,14 @@ uri: /live/world-harvest-charities-family-services/
 order: 40
 project_image: world-harvest-charities-family-services.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Housing
+  - 'Income and Employment: Healthy food'
+  - Food inequality
+  - Affordable housing
+  - Healthcare
+  - Job training
+  - Small business
 
 ---

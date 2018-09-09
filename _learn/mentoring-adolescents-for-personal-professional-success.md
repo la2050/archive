@@ -155,5 +155,12 @@ uri: /learn/mentoring-adolescents-for-personal-professional-success/
 order: 3
 project_image: mentoring-adolescents-for-personal-professional-success.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Job training'
+  - Underserved youth
+  - Training and development
+  - Youth
 
 ---

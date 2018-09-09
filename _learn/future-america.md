@@ -89,5 +89,11 @@ uri: /learn/future-america/
 order: 17
 project_image: future-america.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Education
+  - 'Social Connectedness: Arts and culture'
+  - Communities of color
+  - Youth
 
 ---

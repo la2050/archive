@@ -121,5 +121,9 @@ uri: /live/ucla-mobile-eye-clinic-umec/
 order: 37
 project_image: ucla-mobile-eye-clinic-umec.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Health: Homelessness'
+  - Healthcare
 
 ---

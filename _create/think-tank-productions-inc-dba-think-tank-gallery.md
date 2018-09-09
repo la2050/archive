@@ -158,5 +158,11 @@ uri: /create/think-tank-productions-inc-dba-think-tank-gallery/
 order: 3
 project_image: think-tank-productions-inc-dba-think-tank-gallery.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Underserved communities
+  - Communities of color
+  - Technology
 
 ---

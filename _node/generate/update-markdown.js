@@ -149,11 +149,56 @@ function processFile(filename, projects, organizations) {
 
   // SHIM: It might be better to match by the original challenge URL instead
   let project = projects.filter(project => {
-    // if ((project.title === data.yaml.title)) {
-    //   console.log("found a match for data.yaml.title: " + data.yaml.title)
-    // }
+    if ((project.title === data.yaml.title)) {
+      console.log("found a match for data.yaml.title: " + data.yaml.title)
+    }
     return (project.title === data.yaml.title)
   })[0]
+
+
+  if (project) {
+
+    // SHIM: This might not work if an organization has more than one project
+    let organization = organizations.filter(organization => {
+      if ((organization.project_id === project.project_id)) {
+        console.log("found a match for project.project_id: " + project.project_id)
+      }
+      return (organization.project_id === project.project_id)
+    })[0]
+
+    if (organization) {
+
+      // if (organization.zip && organization.zip != "" && organization.zip != "0") {
+      //   data.yaml.zip = organization.zip
+      // } else {
+      //   console.log("no zip found for organization: ")
+      //   console.dir(organization)
+      // }
+
+      // if (organization.charity_navigator_url && organization.charity_navigator_url != "" && organization.charity_navigator_url != "0") {
+      //   data.yaml.charity_navigator_url = organization.charity_navigator_url
+      // }
+
+      if (organization.aidens_tags && organization.aidens_tags != "" && organization.aidens_tags != "0") {
+        let tags = organization.aidens_tags.split(",");
+        tags = tags.map(string => string.trim());
+        tags = tags.filter(string => (string !== "0" && string !== 0));
+        console.dir(tags);
+        if (tags && tags.length > 0) {
+          data.yaml.aidens_tags = tags;
+        }
+
+      }
+    } else {
+      console.log("no match found for project.project_id: " + project.project_id);
+    }
+
+    console.log("------------")
+
+    saveMarkdown(filename, data);
+  }
+
+
 
   // SHIM: This might not work if an organization has more than one project
   // let organization = organizations.filter(organization => {
@@ -291,7 +336,7 @@ function updateMarkdownFiles(folder) {
   let projects = parse(projectsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   let organizationsInput = fs.readFileSync('../_data/organizations.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-  let organizations = parse(projectsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+  let organizations = parse(organizationsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   for (let index = 0; index < files.length; index++) {
     if (files[index].indexOf('.DS_Store') >= 0) continue;

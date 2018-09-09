@@ -94,5 +94,10 @@ uri: /create/grid110-inc/
 order: 7
 project_image: grid110-inc.jpg
 year: 2018
+aidens_tags:
+  - Income and Employment
+  - 'Education: Entrepreneurship'
+  - Technology
+  - Digital literacy
 
 ---

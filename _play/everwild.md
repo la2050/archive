@@ -109,5 +109,16 @@ uri: /play/everwild/
 order: 1
 project_image: everwild.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Environmental Quality
+  - 'Social Connectedness: Children'
+  - Youth
+  - Parents
+  - Inclusion
+  - Diversity
+  - Ecosystems
+  - Public space
+  - Sustainability
 
 ---

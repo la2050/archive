@@ -134,5 +134,12 @@ uri: /live/lift-los-angeles/
 order: 20
 project_image: lift-los-angeles.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Poverty'
+  - Financial management
+  - Underserved communities
+  - Inclusion
+  - Mentorship
 
 ---

@@ -134,5 +134,9 @@ uri: >-
 order: 37
 project_image: multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Communities of color
+  - Volunteerism
 
 ---

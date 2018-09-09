@@ -179,5 +179,10 @@ uri: /play/south-bay-bicycle-coalition/
 order: 0
 project_image: south-bay-bicycle-coalition.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Environmental Quality: Public space'
+  - Fitness
+  - Sports
 
 ---

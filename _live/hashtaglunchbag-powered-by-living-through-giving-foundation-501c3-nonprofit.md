@@ -101,5 +101,12 @@ order: 0
 project_image: >-
   hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Housing
+  - 'Social Connectedness: Homelessness'
+  - Food inequality
+  - Healthy food
+  - Volunteerism
 
 ---

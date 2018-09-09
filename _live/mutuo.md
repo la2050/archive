@@ -114,5 +114,8 @@ uri: /live/mutuo/
 order: 3
 project_image: mutuo.jpg
 year: 2018
+aidens_tags:
+  - 'Housing: Affordable housing'
+  - Homelessness
 
 ---

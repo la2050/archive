@@ -147,5 +147,13 @@ uri: /create/roadtrip-nation/
 order: 0
 project_image: roadtrip-nation.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Income and Employment: Creative industry'
+  - Entertainment industry
+  - Career readiness
+  - Local manufacturing
+  - Entrepreneurship
+  - Technology
 
 ---

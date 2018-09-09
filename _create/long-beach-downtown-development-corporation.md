@@ -198,5 +198,10 @@ uri: /create/long-beach-downtown-development-corporation/
 order: 15
 project_image: long-beach-downtown-development-corporation.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - 'Income and Employment: Green technology'
+  - Entrepreneurship
+  - Small business
 
 ---

@@ -91,5 +91,12 @@ uri: /create/we-are-enough-c-o-social-environmental-entrepreneurs/
 order: 16
 project_image: we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Small business
+  - Entrepreneurship
+  - Investment
+  - Financial management
 
 ---

@@ -115,5 +115,16 @@ uri: /learn/girls-academic-leadership-academy-gala/
 order: 8
 project_image: girls-academic-leadership-academy-gala.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - Income and Employment
+  - Health
+  - 'Housing: Education'
+  - Women’s advocacy
+  - Communities of color
+  - Homelessness
+  - Training and development
+  - Medicine
 
 ---

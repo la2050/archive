@@ -135,5 +135,10 @@ uri: /live/topanga-womens-circle/
 order: 38
 project_image: topanga-womens-circle.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Social Connectedness: Homelessness'
+  - Volunteerism
+  - Affordable housing
 
 ---

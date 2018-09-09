@@ -106,5 +106,11 @@ uri: /live/happyperiod/
 order: 26
 project_image: happyperiod.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Housing (?): Arts and culture'
+  - Homelessness
+  - Women’s advocacy
 
 ---

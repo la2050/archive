@@ -133,5 +133,8 @@ uri: /create/make-it-in-la/
 order: 11
 project_image: make-it-in-la.jpg
 year: 2018
+aidens_tags:
+  - 'Income and Employment: Local manufacturing'
+  - Entrepreneurship
 
 ---

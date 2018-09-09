@@ -67,5 +67,9 @@ uri: /connect/gracias-music-foundation/
 order: 16
 project_image: gracias-music-foundation.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Volunteerism
 
 ---

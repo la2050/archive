@@ -124,5 +124,11 @@ uri: /create/brioxy/
 order: 2
 project_image: brioxy.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Innovation
+  - Creative Industry
+  - Communities of color
 
 ---

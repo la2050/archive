@@ -75,5 +75,13 @@ uri: /live/peer-health-exchange/
 order: 5
 project_image: peer-health-exchange.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Health
+  - 'Social Connectedness: Community health'
+  - Youth
+  - Healthcare
+  - Volunteerism
+  - Underserved youth
 
 ---

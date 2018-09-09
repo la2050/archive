@@ -179,5 +179,12 @@ uri: /connect/justice-la-dignity-and-power-now/
 order: 20
 project_image: justice-la-dignity-and-power-now.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Public Safety
+  - 'Social Connectedness: Crime'
+  - Underserved communities
+  - Arts and culture
+  - Communities of color
 
 ---

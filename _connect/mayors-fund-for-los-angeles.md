@@ -137,5 +137,7 @@ uri: /connect/mayors-fund-for-los-angeles/
 order: 1
 project_image: mayors-fund-for-los-angeles.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Volunteerism'
 
 ---

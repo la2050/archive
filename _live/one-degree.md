@@ -169,5 +169,10 @@ uri: /live/one-degree/
 order: 13
 project_image: one-degree.jpg
 year: 2018
+aidens_tags:
+  - Income and Employment
+  - 'Social Connectedness: Poverty'
+  - Underserved communities
+  - Technology
 
 ---

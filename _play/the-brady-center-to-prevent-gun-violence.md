@@ -146,5 +146,8 @@ uri: /play/the-brady-center-to-prevent-gun-violence/
 order: 7
 project_image: the-brady-center-to-prevent-gun-violence.jpg
 year: 2018
+aidens_tags:
+  - 'Public Safety: Gun control/safety'
+  - Crime
 
 ---

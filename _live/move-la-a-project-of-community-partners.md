@@ -155,5 +155,8 @@ uri: /live/move-la-a-project-of-community-partners/
 order: 39
 project_image: move-la-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - 'Environmental Quality: Sustainability'
+  - Green technology
 
 ---

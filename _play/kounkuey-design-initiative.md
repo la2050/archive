@@ -212,5 +212,9 @@ uri: /play/kounkuey-design-initiative/
 order: 2
 project_image: kounkuey-design-initiative.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - 'Social Connectedness: Public space'
+  - Underserved communities
 
 ---

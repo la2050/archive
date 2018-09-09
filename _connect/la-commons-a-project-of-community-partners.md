@@ -191,5 +191,12 @@ uri: /connect/la-commons-a-project-of-community-partners/
 order: 3
 project_image: la-commons-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Housing
+  - 'Social Connectedness: Arts and culture'
+  - Affordable housing
+  - Neighborhood councils
+  - Underserved youth
 
 ---

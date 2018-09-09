@@ -144,5 +144,14 @@ uri: /live/l-a-kitchen/
 order: 30
 project_image: l-a-kitchen.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Income and Employment
+  - 'Environmental Quality: Community health'
+  - Healthy food
+  - Job training
+  - Training and development
+  - Public space
+  - Sustainability
 
 ---

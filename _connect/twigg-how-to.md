@@ -108,5 +108,11 @@ uri: /connect/twigg-how-to/
 order: 0
 project_image: twigg-how-to.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Women’s advocacy'
+  - Underserved communities
+  - Innovation
+  - Arts and culture
 
 ---

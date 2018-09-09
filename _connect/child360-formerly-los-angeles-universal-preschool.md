@@ -129,5 +129,12 @@ uri: /connect/child360-formerly-los-angeles-universal-preschool/
 order: 7
 project_image: child360-formerly-los-angeles-universal-preschool.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Social Connectedness: Underserved communities'
+  - Parents
+  - Children
+  - Teachers
+  - Youth
 
 ---
