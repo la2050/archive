@@ -184,79 +184,13 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 
 
 
-{% assign aidens_tags = "" | split: "," %}
-{% for item in data_collection.docs %}
-  {% if item.aidens_tags and item.aidens_tags.size > 0 %}
-    {% for tag in item.aidens_tags %}
-      {% assign aidens_tags = aidens_tags | push: tag %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-
-{% assign aidens_tags = aidens_tags | uniq | sort %}
-
-{% if aidens_tags.size > 0 %}
-<details class="tags" style="margin-bottom: 3em;" {% unless page.category or page.is_search_results %} open {% endunless %}>
-<summary>
-<h2><strong>Browse</strong> by tag</h2>
-</summary>
-<ul class="action">
-{% for tag in aidens_tags %}
-  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
-{% endfor %}
-</ul>
-</details>
-
-<script>
-(function() {
-  function containsAnyKeyword(keywordList, string) {
-    console.log("string: " + string)
-    string = string.toLowerCase()
-    for (var index = 0; index < keywordList.length; index++) {
-      if (string.indexOf(keywordList[index]) >= 0) return true
-    }
-    return false
-  }
-
-  var keywords = {
-    "learn"   : ["space", "educ", "kids", "children", "youth", "mentor", "train", "teach", "tutor", "employ"],
-    "create"  : ["art", "creat", "tech"],
-    "play"    : ["play"],
-    "connect" : ["women", "hous", "comm", "income"],
-    "live"    : ["crime", "environment", "food", "health", "home", "green", "safety"]
-  }
-
-  var tags = document.querySelectorAll(".tags li");
-  if (tags && tags.length > 0) {
-    tags.forEach(function(tag) {
-      if (containsAnyKeyword(keywords.learn, tag.textContent)) {
-        tag.classList.add("blueberry");
-      }
-      else if (containsAnyKeyword(keywords.create, tag.textContent)) {
-        tag.classList.add("banana");
-      }
-      else if (containsAnyKeyword(keywords.play, tag.textContent)) {
-        tag.classList.add("strawberry");
-      }
-      else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
-        tag.classList.add("tangerine");
-      }
-      else if (containsAnyKeyword(keywords.live, tag.textContent)) {
-        tag.classList.add("lime");
-      }
-    })
-  }
-})()
-</script>
-
-{% endif %}
-
-
-
-
 
 {% include project-navigation.html %}
 
+
+
+
+{% if page.category or page.is_search_results %}
 
 <ul class="proposals" id="project-list">
 
@@ -322,7 +256,79 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 </ul>
 
 
+
 {% include project-navigation.html %}
+
+{% endif %}
+
+
+
+{% assign aidens_tags = "" | split: "," %}
+{% for item in data_collection.docs %}
+  {% if item.aidens_tags and item.aidens_tags.size > 0 %}
+    {% for tag in item.aidens_tags %}
+      {% assign aidens_tags = aidens_tags | push: tag %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% assign aidens_tags = aidens_tags | uniq | sort %}
+
+{% if aidens_tags.size > 0 %}
+<details class="tags" style="margin-bottom: 3em;" open>
+<summary>
+<h2><strong>Explore</strong> by tag</h2>
+</summary>
+<ul class="action">
+{% for tag in aidens_tags %}
+  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+</details>
+
+<script>
+(function() {
+  function containsAnyKeyword(keywordList, string) {
+    console.log("string: " + string)
+    string = string.toLowerCase()
+    for (var index = 0; index < keywordList.length; index++) {
+      if (string.indexOf(keywordList[index]) >= 0) return true
+    }
+    return false
+  }
+
+  var keywords = {
+    "learn"   : ["space", "educ", "kids", "children", "youth", "mentor", "train", "teach", "tutor", "employ"],
+    "create"  : ["art", "creat", "tech"],
+    "play"    : ["play"],
+    "connect" : ["women", "hous", "comm", "income"],
+    "live"    : ["crime", "environment", "food", "health", "home", "green", "safety"]
+  }
+
+  var tags = document.querySelectorAll(".tags li");
+  if (tags && tags.length > 0) {
+    tags.forEach(function(tag) {
+      if (containsAnyKeyword(keywords.learn, tag.textContent)) {
+        tag.classList.add("blueberry");
+      }
+      else if (containsAnyKeyword(keywords.create, tag.textContent)) {
+        tag.classList.add("banana");
+      }
+      else if (containsAnyKeyword(keywords.play, tag.textContent)) {
+        tag.classList.add("strawberry");
+      }
+      else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
+        tag.classList.add("tangerine");
+      }
+      else if (containsAnyKeyword(keywords.live, tag.textContent)) {
+        tag.classList.add("lime");
+      }
+    })
+  }
+})()
+</script>
+
+{% endif %}
 
 
 

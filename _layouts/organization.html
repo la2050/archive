@@ -357,7 +357,7 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 {% assign image_url = project.project_image %}
 {% assign image_category = project.category %}
 
-{% if video_embed_url %}
+{% if video_embed_url or project.project_video != '' %}
 
 <figure class="feature {% unless project.project_video != '' %} has-image{% endunless %}" style="margin: 0 0 0.75em 0;">
 <div data-aspect-ratio="1280/720">
