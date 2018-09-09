@@ -56,6 +56,7 @@ document.body.classList.add("{{ primary_color }}")
 .links-tags li a:hover,
 .links-tags li a:active,
 .links-tags li a:focus {
+  color: inherit;
   text-decoration: underline;
 }
 </style>
@@ -357,7 +358,7 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 
       
 
-      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: italic; font-size: 0.875em;"><strong><a href="/{{ project.category }}/" style="font-weight: inherit; color: var(--primary-color); text-transform: uppercase; text-decoration: none;">{{ project.category }}</a></strong> / <strong style="color: inherit;">{{ project.year }}</strong></small></p>
+      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: italic; font-size: 0.875em;"><strong><a href="/{{ project.category }}/" style="font-weight: inherit; color: var(--primary-color); text-transform: uppercase;">{{ project.category }}</a></strong> / <strong style="color: inherit;">{{ project.year }}</strong></small></p>
 
 {% if project.project_video and project.project_video != "" %}
 {% if project.project_video contains "youtu" or project.project_video contains "vimeo" %}
@@ -428,6 +429,8 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 </div>
 </figure>
 
+{% else %}
+<div style="border-width: 0 0 0.125em; border-style: solid; border-color: rgba(0, 0, 0, 0.15); margin: 0.75em 0;"></div>
 {% endif %}
 
     <a href="{{ project.uri }}#details" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
@@ -436,7 +439,7 @@ line-height: 1.3125;
 font-size: inherit;
 font-weight: bold; 
 line-height: inherit;
-text-decoration: underline;
+text-decoration: none;
 margin-top: 0.375em;
 margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
     </a>
