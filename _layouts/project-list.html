@@ -6,6 +6,98 @@ stylesheets:
   - "/assets/css/project-list.css"
 ---
 
+<style>
+.tags h2 {
+  font-style: italic;
+  color: inherit !important;
+  font-size: inherit;
+  line-height: inherit;
+  margin-top: 0;
+  font-weight: inherit;
+  padding-left: 1.5em;
+  max-width: none;
+}
+.tags h2 strong {
+  color: inherit;
+}
+.tags .action {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: stretch;
+  margin-left: 0;
+  max-width: none;
+  padding-left: 0;
+}
+.tags .action li {
+flex-grow: 1;
+margin: 0.15em;
+text-align: center;
+}
+
+.disabled .tags .action li:nth-child(1n) {
+  --primary-color:   rgb(255, 194, 51); /* @banana */
+  --secondary-color: rgb(237, 59, 136); /* @strawberry */
+}
+.disabled .tags .action li:nth-child(2n) {
+  --primary-color:   rgb(6, 179, 188); /* @blueberry */
+  --secondary-color: rgb(255, 194, 51); /* @banana */
+}
+.disabled .tags .action li:nth-child(3n) {
+  --primary-color:   rgb(141, 208, 59); /* @lime */
+  --secondary-color: rgb(237, 59, 136); /* @strawberry */
+}
+.disabled .tags .action li:nth-child(4n) {
+  --primary-color:   rgb(237, 59, 136); /* @strawberry */
+  /*--primary-color: rgb(255, 59, 118);*/ /* @strawberry-orange */
+  --secondary-color: rgb(255, 194, 51); /* @banana */
+}
+.disabled .tags .action li:nth-child(5n) {
+  --primary-color:   rgb(249, 160, 51); /* @tangerine */
+  --secondary-color: rgb(237, 59, 136); /* @strawberry */
+}
+
+
+.disabled .tags .action li a {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+
+
+/*.tags ul {
+  margin: 0;
+  max-width: none;
+}*/
+/*.tags ul,
+.tags li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}*/
+/*.tags li {
+  display: inline-block;
+  font-size: 0.875em;
+}
+.tags li:not(:last-child)::after {
+  content: ", ";
+}*/
+/*.tags li a {
+  text-transform: lowercase;
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+}
+.tags li a:hover,
+.tags li a:active,
+.tags li a:focus {
+  color: inherit;
+  text-decoration: underline;
+}*/
+</style>
+
+
 
 {% comment %}
 <style>
@@ -90,6 +182,79 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 {% endif %}
 
 
+
+
+{% assign aidens_tags = "" | split: "," %}
+{% for item in data_collection.docs %}
+  {% if item.aidens_tags and item.aidens_tags.size > 0 %}
+    {% for tag in item.aidens_tags %}
+      {% assign aidens_tags = aidens_tags | push: tag %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% assign aidens_tags = aidens_tags | uniq | sort %}
+
+{% if aidens_tags.size > 0 %}
+<details class="tags" style="margin-bottom: 3em;" {% unless page.category or page.is_search_results %} open {% endunless %}>
+<summary>
+<h2><strong>Browse</strong> by tag</h2>
+</summary>
+<ul class="action">
+{% for tag in aidens_tags %}
+  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+</details>
+
+<script>
+(function() {
+  function containsAnyKeyword(keywordList, string) {
+    console.log("string: " + string)
+    string = string.toLowerCase()
+    for (var index = 0; index < keywordList.length; index++) {
+      if (string.indexOf(keywordList[index]) >= 0) return true
+    }
+    return false
+  }
+
+  var keywords = {
+    "learn"   : ["space", "educ", "kids", "children", "youth", "mentor", "train", "teach", "tutor", "employ"],
+    "create"  : ["art", "creat", "tech"],
+    "play"    : ["play"],
+    "connect" : ["women", "hous", "comm", "income"],
+    "live"    : ["crime", "environment", "food", "health", "home", "green", "safety"]
+  }
+
+  var tags = document.querySelectorAll(".tags li");
+  if (tags && tags.length > 0) {
+    tags.forEach(function(tag) {
+      if (containsAnyKeyword(keywords.learn, tag.textContent)) {
+        tag.classList.add("blueberry");
+      }
+      else if (containsAnyKeyword(keywords.create, tag.textContent)) {
+        tag.classList.add("banana");
+      }
+      else if (containsAnyKeyword(keywords.play, tag.textContent)) {
+        tag.classList.add("strawberry");
+      }
+      else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
+        tag.classList.add("tangerine");
+      }
+      else if (containsAnyKeyword(keywords.live, tag.textContent)) {
+        tag.classList.add("lime");
+      }
+    })
+  }
+})()
+</script>
+
+{% endif %}
+
+
+
+
+
 {% include project-navigation.html %}
 
 
@@ -157,8 +322,10 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 </ul>
 
 
-
 {% include project-navigation.html %}
+
+
+
 
 <style>
 .proposals ~ .goals .navigation .count {

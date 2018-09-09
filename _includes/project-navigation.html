@@ -37,14 +37,14 @@
 (function() {
   var wasOpen;
 
-  document.querySelector('summary').addEventListener('click', function(e) {
+  document.querySelector('.goals summary').addEventListener('click', function(e) {
     wasOpen = true;
     setTimeout(function() {
       document.getElementById('search-field').focus()
     }, 1);
   });
 
-  var details = document.querySelector('details')
+  var details = document.querySelector('.goals details')
   if (!details) return;
 
   function updateSummaryOpen() {
@@ -95,7 +95,9 @@
 
 {% else %}
 
-<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in all categories. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+
+<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in all categories.{% comment %} <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small>{% endcomment %}</p>
+
 
 {% endif %}
 
