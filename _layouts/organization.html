@@ -28,6 +28,40 @@ document.body.classList.add("{{ primary_color }}")
 
 
 <style>
+.links h2:first-child {
+  margin-top: 2.25rem;
+}
+.links-tags ul {
+  margin: 0;
+}
+.links-tags ul,
+.links-tags li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+.links-tags li {
+  display: inline-block;
+  font-size: 0.875em;
+}
+.links-tags li:not(:last-child)::after {
+  content: ", ";
+}
+.links-tags li a {
+  text-transform: lowercase;
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+}
+.links-tags li a:hover,
+.links-tags li a:active,
+.links-tags li a:focus {
+  text-decoration: underline;
+}
+</style>
+
+
+<style>
 /*  .proposal-introduction figure {
     display: none;
   }
@@ -132,30 +166,6 @@ document.body.classList.add("{{ primary_color }}")
   {{ page.organization_activity }}
 </p>
 
-{% if page.charity_navigator_url %}
-<p>Learn more on <a href="{{ page.charity_navigator_url }}" style="color: inherit;">Charity Navigator</a></p>
-{% endif %}
-
-{% if page.zip %}
-<p>Where we work: <a href="https://maps.google.com/maps?q={{ page.zip }}" style="color: inherit;">{{ page.zip }}</a></p>
-{% endif %}
-
-{% if site.phase == 6 and is_finalist == true %}
-{% comment %}
-<span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank">Vote </a></span>
- <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-<p class="action"><a href="https://jimthoburn.typeform.com/to/fGLGJB" target="_blank">Vote</a></p>
-{% endcomment %}
-{% endif %}
-
-<!-- <dl>
-<dt>Organization type</dt>
-<dd>{{ page.organization_description }}</dd>
-</dl> -->
-
-
-
-
 {% if page.link_donate and page.link_donate != '' %}
 {% assign link_donate_exists = true %}
 {% endif %}
@@ -222,33 +232,20 @@ document.body.classList.add("{{ primary_color }}")
 {% endif %}
 
 
+
+{% if page.zip %}
+<div class="links links-tags">
+<h2>Where we work</h2>
+
+<ul>
+  <li><a href="https://maps.google.com/maps?q={{ page.zip }}">{{ page.zip }}</a></li>
+</ul>
+</div>
+{% endif %}
+
+
+
 {% if page.aidens_tags and page.aidens_tags.size > 0 %}
-<style>
-.links-tags ul,
-.links-tags li {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 0;
-}
-.links-tags li {
-  display: inline-block;
-  font-size: 0.875em;
-}
-.links-tags li:not(:last-child)::after {
-  content: ", ";
-}
-.links-tags li a {
-  text-transform: lowercase;
-  color: inherit;
-  font-weight: normal;
-  text-decoration: none;
-}
-.links-tags li a:hover,
-.links-tags li a:active,
-.links-tags li a:focus {
-  text-decoration: underline;
-}
-</style>
 <div class="links links-tags">
 <h2>Tags</h2>
 

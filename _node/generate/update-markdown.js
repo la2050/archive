@@ -182,7 +182,7 @@ function processFile(filename, projects, organizations) {
       if (organization.aidens_tags && organization.aidens_tags != "" && organization.aidens_tags != "0") {
         let tags = organization.aidens_tags.split(",");
         tags = tags.map(string => string.trim());
-        tags = tags.filter(string => (string !== "0" && string !== 0));
+        tags = tags.filter(string => (string !== "0" && string !== 0 && string !== "#N/A"));
         console.dir(tags);
         if (tags && tags.length > 0) {
           data.yaml.aidens_tags = tags;
