@@ -1168,3 +1168,41 @@ details summary:focus::-webkit-details-marker {
   }
 }
 
+
+
+.goals.without-category .navigation .options {
+  display: block;
+  text-align: center;
+}
+
+.goals.without-category .navigation .options form {
+  max-width: 40em;
+  width: auto;
+  position: static;
+  padding-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.goals.without-category .options details p {
+  text-align: center !important;
+}
+
+
+.goals .navigation .count {
+  max-width: none;
+}
+.goals .navigation .count small {
+  display: block !important;
+}
+
+.goals.without-category ~ .tags {
+  margin-top: 0;
+  text-align: center;
+}
+.goals.without-category details p {
+  display: none;
+}
+.goals.without-category ~ .tags h2 {
+  display: none;
+}
+

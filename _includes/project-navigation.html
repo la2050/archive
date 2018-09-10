@@ -1,6 +1,6 @@
 {% unless page.winners %}
 
-<section class="goals" id="projects">
+<section class="goals {% unless page.category %}without-category{% endunless %}" id="projects">
 
 <div class="navigation"><div markdown="1">
 
@@ -37,6 +37,9 @@
 (function() {
   var wasOpen;
 
+  if (document.querySelector('.goals.without-category')) return;
+
+
   document.querySelector('.goals summary').addEventListener('click', function(e) {
     wasOpen = true;
     setTimeout(function() {
@@ -68,10 +71,13 @@
 {% endunless %}
 {% endif %}
 
+{% if page.category %}
 <p class="browse"><strong>Browse</strong> by goal category</p>
+{% endif %}
 
 </div>
 
+{% if page.category %}
 <div class="action-container">
 
 <ul class="action">
@@ -82,6 +88,7 @@
   <li class="lime"><a href="/live/{{ conditional_finalists_url }}"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
 </ul>
 </div>
+{% endif %}
 
 {% if page.layout == 'project-list' %}
 
@@ -91,7 +98,7 @@
 
 {% elsif page.is_search_results %}
 
-<p class="count">You searched for <strong id="keywords"></strong>. <span style="display: inline-block">There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span> in all categories.</span> <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+<p class="count"><span style="display: none">You searched for <strong id="keywords"></strong>.</span> <span style="display: inline-block">There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span>.</span> <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
 {% else %}
 
