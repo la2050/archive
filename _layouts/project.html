@@ -42,16 +42,14 @@ stylesheets:
 
 {% if page.year == 2018 %}
 
-{% assign challenge_title = "2018 My LA2050 Activation Challenge" %}
+{% assign challenge_title = "My LA2050 Activation Challenge" %}
 {% capture challenge_url %}
 https://activation.la2050.org{{ page.uri }}
 {% endcapture %}
 
 {% else %}
 
-{% capture challenge_title %}
-{{ page.year }} My LA2050 Grants Challenge
-{% endcapture %}
+{% assign challenge_title = "My LA2050 Grants Challenge" %}
 {% assign challenge_url = "https://challenge.la2050.org" %}
 
 {% endif %}
@@ -63,8 +61,8 @@ https://activation.la2050.org{{ page.uri }}
 <section class="proposal-introduction" style="grid-column: 1/4">
 
 <div class="proposal-header">
-<p class="category">
-  <a href="/{{ page.category }}/">{{ page.category }}</a>
+<p class="category" style="color: rgba(0, 0, 0, 0.5);">
+  <a href="/{{ page.category }}/">{{ page.category }}</a> / <strong style="color: inherit;">{{ page.year }}</strong>
 </p>
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
@@ -159,7 +157,7 @@ https://activation.la2050.org{{ page.uri }}
 
 <div class="proposal-description">
 
-<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: var(--primary-color)">{{ challenge_title }}</a> by <a href="{{ page.uri | replace: page.category, 'organizations' }}" style="display: inline-block; color: var(--primary-color)">{{ page.organization_name }}</a></p>
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ page.uri | replace: page.category, 'organizations' }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ page.organization_name }}</a></p>
 
 <p style="margin-bottom: 0">
   {{ page.project_description }}
