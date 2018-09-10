@@ -408,7 +408,7 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 {% if project.project_video and project.project_video != '' %}
 <a href="{{ project.project_video }}" target="_blank" class="has-icon">
 {% else %}
-<a href="{{ project.uri }}#details">
+<a href="{{ project.uri }}">
 {% endif %}
 
 <img src="{{ project.project_image }}" alt="" />
@@ -439,7 +439,7 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 </figure>
 
 
-    <a href="{{ project.uri }}#details" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
+    <a href="{{ project.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
       <h3 style="color: var(--primary-color); 
 line-height: 1.3125;
 font-weight: bold; 
@@ -450,7 +450,7 @@ margin-top: 0.75em;
 margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
     </a>
 
-    <a href="{{ project.uri }}#details" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
+    <a href="{{ project.uri }}" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
       <p style="margin: 0; max-width: none; font-size: 0.875em;">{{ project.project_description }} <em style="display: inline-block; text-decoration: underline; color: inherit; font-weight: inherit; font-style: inherit;">Learn more</em></p>
     </a>
   </li>
@@ -731,9 +731,14 @@ line-height: 1;">Tags</h2>
 {% endif %}
 
 
+<hr style="opacity: 0;" />
 
 
-<div style="margin-bottom: 9em; grid-column: 1/-1;"></div>
+{% include project-navigation.html %}
+
+
+
+<div style="margin-bottom: 4.5em; grid-column: 1/-1;"></div>
 
 
 </div>

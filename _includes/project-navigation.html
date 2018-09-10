@@ -1,6 +1,6 @@
 {% unless page.winners %}
 
-<section class="goals {% unless page.category %}without-category{% endunless %}" id="projects">
+<section class="goals {% unless page.category and page.layout == 'project-list' %}without-category{% endunless %}" id="projects">
 
 <div class="navigation"><div markdown="1">
 
@@ -71,13 +71,13 @@
 {% endunless %}
 {% endif %}
 
-{% if page.category %}
+{% if page.category and page.layout == 'project-list' %}
 <p class="browse"><strong>Browse</strong> by goal category</p>
 {% endif %}
 
 </div>
 
-{% if page.category %}
+{% if page.category and page.layout == 'project-list' %}
 <div class="action-container">
 
 <ul class="action">
@@ -92,7 +92,7 @@
 
 {% if page.layout == 'project-list' %}
 
-{% if page.category %}
+{% if page.category and page.layout == 'project-list' %}
 
 <p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in the <strong class="category">{{ page.category }}</strong> category. <small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
