@@ -54,15 +54,17 @@ stylesheets:
 .tags .action {
   display: flex;
   flex-wrap: wrap;
-/*  justify-content: center;
-  align-content: stretch;
-  align-items: stretch;*/
+  justify-content: center;
+  align-content: center;
+  align-items: center;
   margin-left: 0;
   max-width: none;
   padding-left: 0;
   /*margin: -1.35em;*/
 /*  margin-left: -1.35em;
   margin-right: -1.35em;*/
+  margin-left: 0.375em;
+  margin-right: 0.375em;
 }
 @media (min-width: 40em) {
 /*.tags .action {
@@ -72,11 +74,14 @@ stylesheets:
 */
 }
 .tags .action li {
-/*flex-grow: 1;*/
 /*margin: 1.5em;*/
 margin: 0.15em;
 text-align: center;
 text-align: left;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 @media (min-width: 40em) {
 /*  .tags .action a {
@@ -85,6 +90,8 @@ text-align: left;
 }
 
 .tags .action a {
+  display: block;
+  text-align: center;
   background: white;
   color: black;
   border-color: black;
@@ -92,17 +99,18 @@ text-align: left;
   border-color: var(--primary-color, black);
   border-color: rgba(0, 0, 0, 0.25);
   border-color: transparent;
-  padding-left: 1.35em;
-  padding-right: 1.35em;
+  padding: 0.375em 0.75em;
+  letter-spacing: inherit;
+  text-transform: inherit;
 }
 .tags .action a:hover,
 .tags .action a:active,
 .tags .action a:focus {
-  background: black;
+/*  background: black;
   border-color: black;
-  background: var(--primary-color, black);
+  background: var(--primary-color, black);*/
   border-color: var(--primary-color, black);
-  color: white;
+/*  color: white;*/
 }
 
 
@@ -342,16 +350,22 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% endif %}
 {% endfor %}
 
-{% assign aidens_tags = aidens_tags | uniq | sort %}
+{% assign unique_aidens_tags = aidens_tags | uniq | sort %}
 
-{% if aidens_tags.size > 0 %}
+{% if unique_aidens_tags.size > 0 %}
 <details class="tags" style="margin-bottom: 3em;" open>
 <summary>
 <h2><strong>Explore</strong> by tag</h2>
 </summary>
 <ul class="action">
-{% for tag in aidens_tags %}
-  <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
+{% for tag in unique_aidens_tags %}
+  {% assign tag_count = 0 %}
+  {% for tag_for_counting in aidens_tags %}
+    {% if tag_for_counting == tag %}
+      {% assign tag_count = tag_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ tag_count | times: 0.3 | plus: 1 }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
 </details>
