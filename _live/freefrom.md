@@ -223,6 +223,6 @@ aidens_tags:
   - Homelessness
   - Small business
 zip: '90012'
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

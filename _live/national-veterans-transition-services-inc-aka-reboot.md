@@ -145,6 +145,6 @@ aidens_tags:
   - Job training
   - Homelessness
 zip: '90006'
-neighborhood: Byzantine-Latino Quarter (Los Angeles)
+neighborhood: Byzantine-Latino Quarter
 
 ---

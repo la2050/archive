@@ -107,6 +107,6 @@ projects:
     year: 2018
 zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=301007192'
-neighborhood: Fairfax (Los Angeles)
+neighborhood: Fairfax
 
 ---

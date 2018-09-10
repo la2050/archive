@@ -153,6 +153,6 @@ aidens_tags:
   - Arts and Cultural Vitality
   - 'Social Connectedness: Art and culture'
 zip: '90065'
-neighborhood: Cypress Park (Los Angeles)
+neighborhood: Cypress Park
 
 ---

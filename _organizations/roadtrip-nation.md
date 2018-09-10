@@ -171,6 +171,6 @@ aidens_tags:
   - Local manufacturing
   - Entrepreneurship
   - Technology
-neighborhood: Boyle Heights (Los Angeles)
+neighborhood: Boyle Heights
 
 ---

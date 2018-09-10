@@ -150,6 +150,6 @@ aidens_tags:
   - 'Public Safety: Gun control/safety'
   - Crime
 zip: '90004'
-neighborhood: Hancock Park (Los Angeles)
+neighborhood: Hancock Park
 
 ---

@@ -120,6 +120,6 @@ aidens_tags:
   - Entrepreneurship
   - Technology
 zip: '90021'
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

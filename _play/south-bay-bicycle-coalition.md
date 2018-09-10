@@ -185,6 +185,6 @@ aidens_tags:
   - Fitness
   - Sports
 zip: '90014'
-neighborhood: Downtown Arts District (Los Angeles)
+neighborhood: Downtown Arts District
 
 ---

@@ -120,6 +120,6 @@ aidens_tags:
   - STEM
   - Technology
 zip: '90014'
-neighborhood: Downtown Arts District (Los Angeles)
+neighborhood: Downtown Arts District
 
 ---

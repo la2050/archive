@@ -143,6 +143,6 @@ aidens_tags:
   - Innovation
   - Digital divide
   - Inclusion
-neighborhood: Los Angeles (University of Southern California)
+neighborhood: University of Southern California
 
 ---

@@ -163,6 +163,6 @@ aidens_tags:
   - Patents
   - Small business
 zip: '90024'
-neighborhood: Los Angeles (Westwood)
+neighborhood: Westwood
 
 ---

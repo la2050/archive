@@ -200,6 +200,6 @@ aidens_tags:
   - 'Income and Employment: Homelessness'
   - Volunteerism
   - Underserved communities
-neighborhood: Los Angeles (North Hollywood)
+neighborhood: North Hollywood
 
 ---

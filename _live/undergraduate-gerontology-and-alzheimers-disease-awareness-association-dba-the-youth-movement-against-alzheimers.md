@@ -116,6 +116,6 @@ aidens_tags:
   - 'Social Connectedness: Healthcare'
   - Volunteerism
 zip: '90016'
-neighborhood: Los Angeles (West Adams)
+neighborhood: West Adams
 
 ---

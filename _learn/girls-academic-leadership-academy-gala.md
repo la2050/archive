@@ -127,6 +127,6 @@ aidens_tags:
   - Training and development
   - Medicine
 zip: '90291'
-neighborhood: Los Angeles (Venice)
+neighborhood: Venice
 
 ---

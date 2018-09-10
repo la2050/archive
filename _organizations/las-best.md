@@ -151,6 +151,6 @@ aidens_tags:
   - 'Education: STEM'
   - Technology
   - Youth
-neighborhood: Los Angeles (West Fairfax)
+neighborhood: West Fairfax
 
 ---

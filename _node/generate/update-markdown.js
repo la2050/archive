@@ -172,7 +172,14 @@ function processFile(filename, projects, organizations, neighborhoods) {
         data.yaml.zip = organization.zip
         let match = neighborhoods.filter(item => item.zip.indexOf(organization.zip.split("-")[0]) >= 0)[0]
         console.dir(match)
-        if (match) data.yaml.neighborhood = match.neighborhood
+        // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+        if (match) {
+          data.yaml.neighborhood = match.neighborhood
+            .replace(/Los Angeles \(([^\)]+)\)/g, function(match, p1, p2, p3, offset, string) {
+              return p1;
+            })
+            .replace(" (Los Angeles)", "")
+        }
       } else {
         console.log("no zip found for organization: ")
         // console.dir(organization)

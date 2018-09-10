@@ -100,6 +100,6 @@ aidens_tags:
   - Underserved communities
   - Inclusion
 zip: '90012'
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

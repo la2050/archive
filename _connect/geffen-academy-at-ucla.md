@@ -138,6 +138,6 @@ order: 36
 project_image: geffen-academy-at-ucla.jpg
 year: 2018
 zip: '90017'
-neighborhood: Downtown Bunker Hill (Los Angeles)
+neighborhood: Downtown Bunker Hill
 
 ---

@@ -140,6 +140,6 @@ aidens_tags:
   - Public space
   - Community health
 zip: '90013'
-neighborhood: Downtown Central (Los Angeles)
+neighborhood: Downtown Central
 
 ---

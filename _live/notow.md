@@ -98,6 +98,6 @@ order: 24
 project_image: notow.jpg
 year: 2018
 zip: '90036'
-neighborhood: Fairfax (Los Angeles)
+neighborhood: Fairfax
 
 ---

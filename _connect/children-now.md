@@ -138,6 +138,6 @@ aidens_tags:
   - Underserved youth
   - Youth
 zip: '90027'
-neighborhood: Griffith Park (Los Angeles)
+neighborhood: Griffith Park
 
 ---

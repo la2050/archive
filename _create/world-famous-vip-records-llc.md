@@ -162,6 +162,6 @@ aidens_tags:
   - Arts and culture
   - Creative Industry
 zip: '90008'
-neighborhood: Baldwin Hills (Los Angeles)
+neighborhood: Baldwin Hills
 
 ---

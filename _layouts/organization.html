@@ -208,7 +208,7 @@ document.body.classList.add("{{ primary_color }}")
 <h2>Where we work</h2>
 
 <ul>
-  <li><a href="https://maps.google.com/maps?q={{ page.zip }}">{% if page.neighborhood %}{{ page.neighborhood | replace: "(Los Angeles)", "" }} <small style="opacity: 0.5; margin-left: 0.75em">{{ page.zip }}</small>{% else %}{{ page.zip }}{% endif %}</a></li>
+  <li><a href="https://maps.google.com/maps?q={{ page.zip }}">{% if page.neighborhood %}{{ page.neighborhood }} <small style="opacity: 0.5; margin-left: 0.75em">{{ page.zip }}</small>{% else %}{{ page.zip }}{% endif %}</a></li>
 </ul>
 </div>
 {% endif %}

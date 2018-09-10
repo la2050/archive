@@ -199,6 +199,6 @@ aidens_tags:
   - Neighborhood councils
   - Underserved youth
 zip: '90015'
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

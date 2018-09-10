@@ -141,6 +141,6 @@ aidens_tags:
   - Innovation
   - Creative Industry
   - Communities of color
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

@@ -175,6 +175,6 @@ aidens_tags:
   - 'Income and Employment: Entrepreneurship'
   - Arts and culture
   - Creative Industry
-neighborhood: Baldwin Hills (Los Angeles)
+neighborhood: Baldwin Hills
 
 ---

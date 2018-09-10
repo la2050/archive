@@ -217,6 +217,6 @@ aidens_tags:
   - 'Income and Employment: Green technology'
   - Entrepreneurship
   - Small business
-neighborhood: Downtown Central (Los Angeles)
+neighborhood: Downtown Central
 
 ---

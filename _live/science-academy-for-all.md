@@ -145,6 +145,6 @@ aidens_tags:
   - Youth
   - Science
 zip: '90012'
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

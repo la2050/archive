@@ -144,6 +144,6 @@ aidens_tags:
   - Healthcare
   - Job training
   - Small business
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

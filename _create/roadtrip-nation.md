@@ -156,6 +156,6 @@ aidens_tags:
   - Entrepreneurship
   - Technology
 zip: '90033'
-neighborhood: Boyle Heights (Los Angeles)
+neighborhood: Boyle Heights
 
 ---

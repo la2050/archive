@@ -124,6 +124,6 @@ aidens_tags:
   - Innovation
   - Affordable housing
 zip: '90015'
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

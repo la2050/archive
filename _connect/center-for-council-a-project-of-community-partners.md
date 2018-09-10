@@ -139,6 +139,6 @@ year: 2018
 aidens_tags:
   - Social Connectedness
 zip: '90015'
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

@@ -107,6 +107,6 @@ year: 2018
 aidens_tags:
   - Veteran services
 zip: '90015'
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

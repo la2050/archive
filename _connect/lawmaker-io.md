@@ -131,6 +131,6 @@ aidens_tags:
   - Inclusion
   - Neighborhood councils
 zip: '90033'
-neighborhood: Boyle Heights (Los Angeles)
+neighborhood: Boyle Heights
 
 ---

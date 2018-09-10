@@ -144,6 +144,6 @@ aidens_tags:
   - Innovation
   - Arts and culture
 zip: '90089'
-neighborhood: Los Angeles (University of Southern California)
+neighborhood: University of Southern California
 
 ---

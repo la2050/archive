@@ -149,6 +149,6 @@ aidens_tags:
   - Underserved communities
   - Community health
   - Technology
-neighborhood: Downtown Bunker Hill (Los Angeles)
+neighborhood: Downtown Bunker Hill
 
 ---

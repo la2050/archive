@@ -157,6 +157,6 @@ aidens_tags:
   - Underserved communities
   - Innovation
   - Arts and culture
-neighborhood: Los Angeles (University of Southern California)
+neighborhood: University of Southern California
 
 ---

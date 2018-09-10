@@ -167,6 +167,6 @@ aidens_tags:
   - Underrepresented youth
   - Entertainment industry
 zip: '90046'
-neighborhood: Hollywood (Los Angeles)
+neighborhood: Hollywood
 
 ---

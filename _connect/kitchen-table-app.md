@@ -135,6 +135,6 @@ order: 21
 project_image: kitchen-table-app.jpg
 year: 2018
 zip: '90012'
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

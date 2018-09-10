@@ -116,6 +116,6 @@ aidens_tags:
   - STEM
   - Arts and culture
 zip: '90019'
-neighborhood: Arlington Heights (Los Angeles)
+neighborhood: Arlington Heights
 
 ---

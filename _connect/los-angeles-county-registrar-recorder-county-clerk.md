@@ -132,6 +132,6 @@ order: 45
 project_image: los-angeles-county-registrar-recorder-county-clerk.jpg
 year: 2018
 zip: '90028'
-neighborhood: Hollywood (Los Angeles)
+neighborhood: Hollywood
 
 ---

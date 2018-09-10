@@ -133,6 +133,6 @@ aidens_tags:
   - 'Income and Employment: Small business'
   - Entrepreneurship
   - Technology
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

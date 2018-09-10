@@ -104,6 +104,6 @@ aidens_tags:
   - 'Public Safety: Underserved communities'
   - Job training
   - Crime
-neighborhood: Los Angeles (Wilshire Center)
+neighborhood: Wilshire Center
 
 ---

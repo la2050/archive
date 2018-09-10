@@ -120,6 +120,6 @@ aidens_tags:
   - Mentorship
   - Communities of color
 zip: 90039-2520
-neighborhood: Atwater Village (Los Angeles)
+neighborhood: Atwater Village
 
 ---

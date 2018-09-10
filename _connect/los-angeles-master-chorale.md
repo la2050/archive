@@ -118,6 +118,6 @@ aidens_tags:
   - Public space
   - Diversity
 zip: '90007'
-neighborhood: Los Angeles (Southeast Los Angeles)
+neighborhood: Southeast Los Angeles
 
 ---

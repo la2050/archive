@@ -185,6 +185,6 @@ aidens_tags:
   - Teachers
   - Youth
 zip: '90042'
-neighborhood: Highland Park (Los Angeles)
+neighborhood: Highland Park
 
 ---

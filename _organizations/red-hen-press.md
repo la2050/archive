@@ -132,6 +132,6 @@ aidens_tags:
   - Diversity
   - Inclusion
   - Underserved youth
-neighborhood: Los Angeles (Valley Glen)
+neighborhood: Valley Glen
 
 ---

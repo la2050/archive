@@ -99,6 +99,6 @@ aidens_tags:
   - Investment
   - Financial management
 zip: 90089-0034
-neighborhood: Los Angeles (University of Southern California)
+neighborhood: University of Southern California
 
 ---

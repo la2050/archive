@@ -139,6 +139,6 @@ aidens_tags:
   - Housing
   - 'Health: Homelessness'
   - Healthcare
-neighborhood: Downtown Bunker Hill (Los Angeles)
+neighborhood: Downtown Bunker Hill
 
 ---

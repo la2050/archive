@@ -175,6 +175,6 @@ aidens_tags:
   - Underserved communities
   - Technology
 zip: '90029'
-neighborhood: East Hollywood (Los Angeles)
+neighborhood: East Hollywood
 
 ---

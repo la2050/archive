@@ -150,6 +150,6 @@ aidens_tags:
   - Children
   - Teachers
   - Youth
-neighborhood: Los Angeles (Westwood)
+neighborhood: Westwood
 
 ---

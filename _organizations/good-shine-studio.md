@@ -189,6 +189,6 @@ aidens_tags:
   - Arts and culture
   - Volunteerism
   - Small business
-neighborhood: Echo Park (Los Angeles)
+neighborhood: Echo Park
 
 ---

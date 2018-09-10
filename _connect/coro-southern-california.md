@@ -157,6 +157,6 @@ aidens_tags:
   - Volunteerism
   - Neighborhood councils
 zip: '90015'
-neighborhood: Downtown Fashion District (Los Angeles)
+neighborhood: Downtown Fashion District
 
 ---

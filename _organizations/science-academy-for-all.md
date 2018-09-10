@@ -160,6 +160,6 @@ aidens_tags:
   - 'Health: Healthy food'
   - Youth
   - Science
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

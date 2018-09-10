@@ -108,6 +108,6 @@ aidens_tags:
   - Inclusion
   - Underserved youth
 zip: '91401'
-neighborhood: Los Angeles (Valley Glen)
+neighborhood: Valley Glen
 
 ---

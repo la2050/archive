@@ -129,6 +129,6 @@ aidens_tags:
   - 'Education: Youth'
   - STEM
   - Arts and culture
-neighborhood: Arlington Heights (Los Angeles)
+neighborhood: Arlington Heights
 
 ---

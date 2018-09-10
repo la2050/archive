@@ -109,6 +109,6 @@ aidens_tags:
   - Healthy food
   - Volunteerism
 zip: '90043'
-neighborhood: Hyde Park (Los Angeles)
+neighborhood: Hyde Park
 
 ---

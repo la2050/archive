@@ -113,6 +113,6 @@ aidens_tags:
   - Digital divide
   - Underserved communities
   - Inclusion
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

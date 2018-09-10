@@ -94,6 +94,6 @@ order: 25
 project_image: lola-parent-company-amir-erica-inc.jpg
 year: 2018
 zip: '90036'
-neighborhood: Fairfax (Los Angeles)
+neighborhood: Fairfax
 
 ---

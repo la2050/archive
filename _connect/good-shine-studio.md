@@ -176,6 +176,6 @@ aidens_tags:
   - Volunteerism
   - Small business
 zip: '90026'
-neighborhood: Echo Park (Los Angeles)
+neighborhood: Echo Park
 
 ---

@@ -198,6 +198,6 @@ aidens_tags:
   - 'Environmental Quality: Public space'
   - Fitness
   - Sports
-neighborhood: Downtown Arts District (Los Angeles)
+neighborhood: Downtown Arts District
 
 ---

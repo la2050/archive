@@ -97,6 +97,6 @@ charity_navigator_url: >-
 aidens_tags:
   - 'Health: Healthy food'
   - Food inequality
-neighborhood: Los Angeles (Venice)
+neighborhood: Venice
 
 ---

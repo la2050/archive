@@ -151,6 +151,6 @@ aidens_tags:
   - 'Health: Open space'
   - Community health
 zip: '90029'
-neighborhood: East Hollywood (Los Angeles)
+neighborhood: East Hollywood
 
 ---

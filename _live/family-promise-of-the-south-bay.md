@@ -100,6 +100,6 @@ year: 2018
 aidens_tags:
   - 'Housing: Homelessness'
 zip: '90018'
-neighborhood: Jefferson Park (Los Angeles)
+neighborhood: Jefferson Park
 
 ---

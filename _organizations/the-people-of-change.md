@@ -135,6 +135,6 @@ aidens_tags:
   - Mentorship
   - STEM
   - Technology
-neighborhood: Downtown Arts District (Los Angeles)
+neighborhood: Downtown Arts District
 
 ---

@@ -186,6 +186,6 @@ aidens_tags:
   - Volunteerism
   - Underserved communities
 zip: '91605'
-neighborhood: Los Angeles (North Hollywood)
+neighborhood: North Hollywood
 
 ---

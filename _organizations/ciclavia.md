@@ -154,6 +154,6 @@ aidens_tags:
   - Diversity
   - Public space
   - Community health
-neighborhood: Downtown Central (Los Angeles)
+neighborhood: Downtown Central
 
 ---

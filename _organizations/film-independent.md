@@ -132,6 +132,6 @@ aidens_tags:
   - Entertainment industry
   - Diversity
   - Underserved communities
-neighborhood: Chinatown (Los Angeles)
+neighborhood: Chinatown
 
 ---

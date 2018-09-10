@@ -181,6 +181,6 @@ aidens_tags:
   - Neighborhood councils
   - Inclusion
 zip: '9005'
-neighborhood: Downtown Civic Center (PO Boxes) (Los Angeles)
+neighborhood: Downtown Civic Center (PO Boxes)
 
 ---

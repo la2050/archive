@@ -178,6 +178,6 @@ aidens_tags:
   - Women’s advocacy
   - Patents
   - Small business
-neighborhood: Los Angeles (Westwood)
+neighborhood: Westwood
 
 ---
