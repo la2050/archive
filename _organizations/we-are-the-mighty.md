@@ -104,6 +104,10 @@ uri: /connect/we-are-the-mighty/
 order: 26
 project_image: we-are-the-mighty.jpg
 year: 2018
+aidens_tags:
+  - Veteran services
+zip: '90015'
+neighborhood: Downtown Fashion District
 projects:
   - uri: /connect/we-are-the-mighty/
     category: connect
@@ -116,10 +120,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
     year: 2018
-zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465406542'
-aidens_tags:
-  - Veteran services
-neighborhood: Downtown Fashion District
 
 ---

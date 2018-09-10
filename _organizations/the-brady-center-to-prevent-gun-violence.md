@@ -146,6 +146,11 @@ uri: /play/the-brady-center-to-prevent-gun-violence/
 order: 7
 project_image: the-brady-center-to-prevent-gun-violence.jpg
 year: 2018
+aidens_tags:
+  - 'Public Safety: Gun control/safety'
+  - Crime
+zip: '90004'
+neighborhood: Hancock Park
 projects:
   - uri: /play/the-brady-center-to-prevent-gun-violence/
     category: play
@@ -160,11 +165,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
     year: 2018
-zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521285097'
-aidens_tags:
-  - 'Public Safety: Gun control/safety'
-  - Crime
-neighborhood: Hancock Park
 
 ---

@@ -124,6 +124,13 @@ uri: /live/roots-wings/
 order: 34
 project_image: roots-wings.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Health: Mental health care'
+  - Youth
+  - Children
+zip: '90017'
+neighborhood: Downtown Bunker Hill
 projects:
   - uri: /live/roots-wings/
     category: live
@@ -134,13 +141,6 @@ projects:
     project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
     year: 2018
-zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821894269'
-aidens_tags:
-  - Education
-  - 'Health: Mental health care'
-  - Youth
-  - Children
-neighborhood: Downtown Bunker Hill
 
 ---

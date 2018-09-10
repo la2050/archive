@@ -119,6 +119,15 @@ uri: /play/los-angeles-dodgers-foundation/
 order: 3
 project_image: los-angeles-dodgers-foundation.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Social Connectedness. Environmental Quality: Fitness'
+  - Sports
+  - Underserved communities
+  - Underserved youth
+  - Volunteerism
+  - Public Space
+zip: '92618'
 projects:
   - uri: /play/los-angeles-dodgers-foundation/
     category: play
@@ -134,16 +143,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
     year: 2018
-zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
-aidens_tags:
-  - Health
-  - 'Social Connectedness. Environmental Quality: Fitness'
-  - Sports
-  - Underserved communities
-  - Underserved youth
-  - Volunteerism
-  - Public Space
-neighborhood: '92618'
 
 ---

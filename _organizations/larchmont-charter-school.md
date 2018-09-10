@@ -124,6 +124,14 @@ uri: /connect/larchmont-charter-school/
 order: 22
 project_image: larchmont-charter-school.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Youth
+  - Underserved Youth
+zip: '90405'
+neighborhood: Ocean Park (Santa Monica)
 projects:
   - uri: /connect/larchmont-charter-school/
     category: connect
@@ -138,14 +146,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
     year: 2018
-zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'
-aidens_tags:
-  - Education
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Youth
-  - Underserved Youth
-neighborhood: Ocean Park (Santa Monica)
 
 ---

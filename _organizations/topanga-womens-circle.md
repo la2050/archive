@@ -135,6 +135,13 @@ uri: /live/topanga-womens-circle/
 order: 38
 project_image: topanga-womens-circle.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Social Connectedness: Homelessness'
+  - Volunteerism
+  - Affordable housing
+zip: '90015'
+neighborhood: Downtown Fashion District
 projects:
   - uri: /live/topanga-womens-circle/
     category: live
@@ -149,13 +156,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
     year: 2018
-zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-aidens_tags:
-  - Housing
-  - 'Social Connectedness: Homelessness'
-  - Volunteerism
-  - Affordable housing
-neighborhood: Downtown Fashion District
 
 ---

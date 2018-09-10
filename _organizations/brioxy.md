@@ -124,6 +124,14 @@ uri: /create/brioxy/
 order: 2
 project_image: brioxy.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Innovation
+  - Creative Industry
+  - Communities of color
+zip: '90012'
+neighborhood: Chinatown
 projects:
   - uri: /create/brioxy/
     category: create
@@ -134,13 +142,5 @@ projects:
     project_video: 'https://www.youtube.com/watch?v=AC3S73SvRy0'
     project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg'
     year: 2018
-zip: '90012'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Innovation
-  - Creative Industry
-  - Communities of color
-neighborhood: Chinatown
 
 ---

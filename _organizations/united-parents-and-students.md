@@ -173,6 +173,14 @@ uri: /connect/united-parents-and-students/
 order: 44
 project_image: united-parents-and-students.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Underserved communities'
+  - Policy
+  - Communities of color
+  - Training and development
+zip: '90057'
+neighborhood: Westlake
 projects:
   - uri: /connect/united-parents-and-students/
     category: connect
@@ -187,14 +195,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
     year: 2018
-zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
-aidens_tags:
-  - Social Connectedness
-  - 'Income and Employment: Underserved communities'
-  - Policy
-  - Communities of color
-  - Training and development
-neighborhood: Westlake
 
 ---

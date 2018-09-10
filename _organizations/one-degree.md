@@ -169,6 +169,13 @@ uri: /live/one-degree/
 order: 13
 project_image: one-degree.jpg
 year: 2018
+aidens_tags:
+  - Income and Employment
+  - 'Social Connectedness: Poverty'
+  - Underserved communities
+  - Technology
+zip: '90029'
+neighborhood: East Hollywood
 projects:
   - uri: /live/one-degree/
     category: live
@@ -182,13 +189,6 @@ projects:
     project_video: ''
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
     year: 2018
-zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
-aidens_tags:
-  - Income and Employment
-  - 'Social Connectedness: Poverty'
-  - Underserved communities
-  - Technology
-neighborhood: East Hollywood
 
 ---

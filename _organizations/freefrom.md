@@ -213,6 +213,17 @@ uri: /live/freefrom/
 order: 23
 project_image: freefrom.jpg
 year: 2018
+aidens_tags:
+  - Public Safety
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Crime
+  - Financial management
+  - Entrepreneurship
+  - Homelessness
+  - Small business
+zip: '90012'
+neighborhood: Chinatown
 projects:
   - uri: /live/freefrom/
     category: live
@@ -224,17 +235,6 @@ projects:
     project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
     year: 2018
-zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'
-aidens_tags:
-  - Public Safety
-  - Social Connectedness
-  - 'Income and Employment: Women’s advocacy'
-  - Crime
-  - Financial management
-  - Entrepreneurship
-  - Homelessness
-  - Small business
-neighborhood: Chinatown
 
 ---

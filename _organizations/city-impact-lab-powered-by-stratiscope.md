@@ -115,6 +115,9 @@ uri: /connect/city-impact-lab-powered-by-stratiscope/
 order: 41
 project_image: city-impact-lab-powered-by-stratiscope.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+zip: '94965'
 projects:
   - uri: /connect/city-impact-lab-powered-by-stratiscope/
     category: connect
@@ -127,10 +130,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
     year: 2018
-zip: '94965'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463084511'
-aidens_tags:
-  - 'Social Connectedness: Underserved communities'
-neighborhood: '94965'
 
 ---

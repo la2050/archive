@@ -94,6 +94,11 @@ uri: /create/grid110-inc/
 order: 7
 project_image: grid110-inc.jpg
 year: 2018
+aidens_tags:
+  - Income and Employment
+  - 'Education: Entrepreneurship'
+  - Technology
+  - Digital literacy
 projects:
   - uri: /create/grid110-inc/
     category: create
@@ -107,10 +112,5 @@ projects:
       https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'
-aidens_tags:
-  - Income and Employment
-  - 'Education: Entrepreneurship'
-  - Technology
-  - Digital literacy
 
 ---

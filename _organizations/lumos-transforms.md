@@ -117,6 +117,7 @@ uri: /live/lumos-transforms/
 order: 2
 project_image: lumos-transforms.jpg
 year: 2018
+zip: '20002'
 projects:
   - uri: /live/lumos-transforms/
     category: live
@@ -129,8 +130,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
     year: 2018
-zip: '20002'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=814833035'
-neighborhood: '20002'
 
 ---

@@ -176,6 +176,12 @@ uri: /connect/regional-la/
 order: 33
 project_image: regional-la.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Neighborhood councils
+  - Inclusion
+zip: '9005'
+neighborhood: Downtown Civic Center (PO Boxes)
 projects:
   - uri: /connect/regional-la/
     category: connect
@@ -188,12 +194,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg
     year: 2018
-zip: '9005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824799787'
-aidens_tags:
-  - 'Social Connectedness: Underserved communities'
-  - Neighborhood councils
-  - Inclusion
-neighborhood: Downtown Civic Center (PO Boxes)
 
 ---

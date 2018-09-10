@@ -166,12 +166,12 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
     year: 2016
 zip: '90013'
+neighborhood: Downtown Central
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954219646'
 aidens_tags:
   - Environmental Quality
   - 'Social Connectedness: Underserved communities'
   - Public space
   - Underserved youth
-neighborhood: Downtown Central
 
 ---

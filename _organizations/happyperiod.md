@@ -106,6 +106,14 @@ uri: /live/happyperiod/
 order: 26
 project_image: happyperiod.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Housing (?): Arts and culture'
+  - Homelessness
+  - Women’s advocacy
+zip: '93552'
+neighborhood: Palmdale
 projects:
   - uri: /live/happyperiod/
     category: live
@@ -117,14 +125,6 @@ projects:
     project_video: 'https://youtu.be/goBUjr5-dRA'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
     year: 2018
-zip: '93552'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - Social Connectedness
-  - 'Housing (?): Arts and culture'
-  - Homelessness
-  - Women’s advocacy
-neighborhood: Palmdale
 
 ---

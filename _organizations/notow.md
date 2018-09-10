@@ -97,6 +97,8 @@ uri: /live/notow/
 order: 24
 project_image: notow.jpg
 year: 2018
+zip: '90036'
+neighborhood: Fairfax
 projects:
   - uri: /live/notow/
     category: live
@@ -107,8 +109,6 @@ projects:
     project_video: 'https://youtu.be/Vz9f3nvm5-Y'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
     year: 2018
-zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824997963'
-neighborhood: Fairfax
 
 ---

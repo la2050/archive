@@ -121,6 +121,12 @@ uri: /live/ucla-mobile-eye-clinic-umec/
 order: 37
 project_image: ucla-mobile-eye-clinic-umec.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Health: Homelessness'
+  - Healthcare
+zip: '90017'
+neighborhood: Downtown Bunker Hill
 projects:
   - uri: /live/ucla-mobile-eye-clinic-umec/
     category: live
@@ -133,12 +139,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
     year: 2018
-zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-aidens_tags:
-  - Housing
-  - 'Health: Homelessness'
-  - Healthcare
-neighborhood: Downtown Bunker Hill
 
 ---

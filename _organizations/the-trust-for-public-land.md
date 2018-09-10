@@ -107,11 +107,11 @@ projects:
       https://activation.la2050.org/assets/images/play/2048-wide/the-trust-for-public-land.jpg
     year: 2018
 zip: '90029'
+neighborhood: East Hollywood
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237222333'
 aidens_tags:
   - Environmental Quality
   - 'Health: Open space'
   - Community health
-neighborhood: East Hollywood
 
 ---

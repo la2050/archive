@@ -135,6 +135,16 @@ uri: /live/black-women-for-wellness/
 order: 27
 project_image: black-women-for-wellness.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Sustainability'
+  - Communities of color
+  - Underserved communities
+  - Innovation
+  - Arts and culture
+zip: '90089'
+neighborhood: University of Southern California
 projects:
   - uri: /live/black-women-for-wellness/
     category: live
@@ -147,16 +157,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
     year: 2018
-zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954624707'
-aidens_tags:
-  - Environmental Quality
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Sustainability'
-  - Communities of color
-  - Underserved communities
-  - Innovation
-  - Arts and culture
-neighborhood: University of Southern California
 
 ---

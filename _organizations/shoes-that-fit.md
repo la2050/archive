@@ -102,6 +102,11 @@ uri: /live/shoes-that-fit/
 order: 14
 project_image: shoes-that-fit.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Volunteerism'
+  - Poverty
+  - Underserved Youth
 projects:
   - uri: /live/shoes-that-fit/
     category: live
@@ -115,10 +120,5 @@ projects:
       https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425565'
-aidens_tags:
-  - Social Connectedness
-  - 'Income and Employment: Volunteerism'
-  - Poverty
-  - Underserved Youth
 
 ---

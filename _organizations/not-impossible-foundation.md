@@ -110,6 +110,10 @@ uri: /live/not-impossible-foundation/
 order: 11
 project_image: not-impossible-foundation.jpg
 year: 2018
+aidens_tags:
+  - 'Health: Technology'
+  - Food inequality
+  - Healthy food
 projects:
   - uri: /live/not-impossible-foundation/
     category: live
@@ -123,9 +127,5 @@ projects:
       https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451601262'
-aidens_tags:
-  - 'Health: Technology'
-  - Food inequality
-  - Healthy food
 
 ---

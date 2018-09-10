@@ -115,6 +115,19 @@ uri: /learn/girls-academic-leadership-academy-gala/
 order: 8
 project_image: girls-academic-leadership-academy-gala.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - Income and Employment
+  - Health
+  - 'Housing: Education'
+  - Women’s advocacy
+  - Communities of color
+  - Homelessness
+  - Training and development
+  - Medicine
+zip: '90291'
+neighborhood: Venice
 projects:
   - uri: /learn/girls-academic-leadership-academy-gala/
     category: learn
@@ -127,19 +140,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
     year: 2018
-zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812014188'
-aidens_tags:
-  - Education
-  - Social Connectedness
-  - Income and Employment
-  - Health
-  - 'Housing: Education'
-  - Women’s advocacy
-  - Communities of color
-  - Homelessness
-  - Training and development
-  - Medicine
-neighborhood: Venice
 
 ---

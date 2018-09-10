@@ -2,8 +2,7 @@
 title: Empowering You to Create Your Legacy
 organization_name: Just As You Are Legacy
 organization_description: Non-profit organization
-organization_website:
-  - n/a
+organization_website: ''
 organization_twitter: jayalegacy
 organization_facebook: Jaya-Legacy-1744895492449502/?fref=ts
 organization_instagram: jayalegacy

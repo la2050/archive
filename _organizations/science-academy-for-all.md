@@ -139,6 +139,13 @@ uri: /live/science-academy-for-all/
 order: 25
 project_image: science-academy-for-all.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Health: Healthy food'
+  - Youth
+  - Science
+zip: '90012'
+neighborhood: Chinatown
 projects:
   - uri: /live/science-academy-for-all/
     category: live
@@ -153,13 +160,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
     year: 2018
-zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811437141'
-aidens_tags:
-  - Education
-  - 'Health: Healthy food'
-  - Youth
-  - Science
-neighborhood: Chinatown
 
 ---

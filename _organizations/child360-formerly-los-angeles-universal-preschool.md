@@ -129,6 +129,15 @@ uri: /connect/child360-formerly-los-angeles-universal-preschool/
 order: 7
 project_image: child360-formerly-los-angeles-universal-preschool.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Social Connectedness: Underserved communities'
+  - Parents
+  - Children
+  - Teachers
+  - Youth
+zip: '90024'
+neighborhood: Westwood
 projects:
   - uri: /connect/child360-formerly-los-angeles-universal-preschool/
     category: connect
@@ -141,15 +150,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
     year: 2018
-zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'
-aidens_tags:
-  - Education
-  - 'Social Connectedness: Underserved communities'
-  - Parents
-  - Children
-  - Teachers
-  - Youth
-neighborhood: Westwood
 
 ---

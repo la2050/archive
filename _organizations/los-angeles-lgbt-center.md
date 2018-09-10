@@ -144,6 +144,11 @@ uri: /connect/los-angeles-lgbt-center/
 order: 34
 project_image: los-angeles-lgbt-center.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Diversity
+  - Policy
+zip: '94114'
 projects:
   - uri: /connect/los-angeles-lgbt-center/
     category: connect
@@ -158,12 +163,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
     year: 2018
-zip: '94114'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'
-aidens_tags:
-  - 'Social Connectedness: Underserved communities'
-  - Diversity
-  - Policy
-neighborhood: '94114'
 
 ---

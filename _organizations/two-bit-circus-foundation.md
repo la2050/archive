@@ -110,6 +110,13 @@ uri: /learn/two-bit-circus-foundation/
 order: 13
 project_image: two-bit-circus-foundation.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Education: Youth'
+  - STEM
+  - Arts and culture
+zip: '90019'
+neighborhood: Arlington Heights
 projects:
   - uri: /learn/two-bit-circus-foundation/
     category: learn
@@ -122,13 +129,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
     year: 2018
-zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Education: Youth'
-  - STEM
-  - Arts and culture
-neighborhood: Arlington Heights
 
 ---

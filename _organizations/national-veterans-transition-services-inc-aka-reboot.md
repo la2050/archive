@@ -136,6 +136,16 @@ uri: /live/national-veterans-transition-services-inc-aka-reboot/
 order: 9
 project_image: national-veterans-transition-services-inc-aka-reboot.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Housing
+  - 'Income and Employment: Veteran services'
+  - Affordable housing
+  - Healthcare
+  - Job training
+  - Homelessness
+zip: '90006'
+neighborhood: Byzantine-Latino Quarter
 projects:
   - uri: /live/national-veterans-transition-services-inc-aka-reboot/
     category: live
@@ -148,16 +158,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
     year: 2018
-zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800597403'
-aidens_tags:
-  - Health
-  - Housing
-  - 'Income and Employment: Veteran services'
-  - Affordable housing
-  - Healthcare
-  - Job training
-  - Homelessness
-neighborhood: Byzantine-Latino Quarter
 
 ---

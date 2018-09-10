@@ -151,6 +151,13 @@ uri: /connect/action-civics-la-an-initiative-of-mikva-challenge/
 order: 52
 project_image: action-civics-la-an-initiative-of-mikva-challenge.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Education: Youth'
+  - Neighborhood councils
+  - Inclusion
+zip: '91383'
+neighborhood: Castaic Valley (Santa Clarita PO)
 projects:
   - uri: /connect/action-civics-la-an-initiative-of-mikva-challenge/
     category: connect
@@ -162,13 +169,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
     year: 2018
-zip: '91383'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522033353'
-aidens_tags:
-  - Social Connectedness
-  - 'Education: Youth'
-  - Neighborhood councils
-  - Inclusion
-neighborhood: Castaic Valley (Santa Clarita PO)
 
 ---

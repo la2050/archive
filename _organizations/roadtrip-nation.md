@@ -147,6 +147,16 @@ uri: /create/roadtrip-nation/
 order: 0
 project_image: roadtrip-nation.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Income and Employment: Creative industry'
+  - Entertainment industry
+  - Career readiness
+  - Local manufacturing
+  - Entrepreneurship
+  - Technology
+zip: '90033'
+neighborhood: Boyle Heights
 projects:
   - uri: /create/roadtrip-nation/
     category: create
@@ -161,16 +171,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
     year: 2018
-zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263889207'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Income and Employment: Creative industry'
-  - Entertainment industry
-  - Career readiness
-  - Local manufacturing
-  - Entrepreneurship
-  - Technology
-neighborhood: Boyle Heights
 
 ---

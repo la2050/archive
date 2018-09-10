@@ -149,6 +149,11 @@ uri: /connect/la-river-public-art-project-c-o-erw-design/
 order: 40
 project_image: la-river-public-art-project-c-o-erw-design.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Art and culture'
+zip: '90065'
+neighborhood: Cypress Park
 projects:
   - uri: /connect/la-river-public-art-project-c-o-erw-design/
     category: connect
@@ -163,11 +168,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
     year: 2018
-zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364519595'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Art and culture'
-neighborhood: Cypress Park
 
 ---

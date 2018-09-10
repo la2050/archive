@@ -137,6 +137,9 @@ uri: /connect/mayors-fund-for-los-angeles/
 order: 1
 project_image: mayors-fund-for-los-angeles.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Volunteerism'
+zip: '20001'
 projects:
   - uri: /connect/mayors-fund-for-los-angeles/
     category: connect
@@ -151,10 +154,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
     year: 2018
-zip: '20001'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471084641'
-aidens_tags:
-  - 'Social Connectedness: Volunteerism'
-neighborhood: '20001'
 
 ---

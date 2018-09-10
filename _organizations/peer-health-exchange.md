@@ -75,6 +75,16 @@ uri: /live/peer-health-exchange/
 order: 5
 project_image: peer-health-exchange.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Health
+  - 'Social Connectedness: Community health'
+  - Youth
+  - Healthcare
+  - Volunteerism
+  - Underserved youth
+zip: '90017'
+neighborhood: Downtown Bunker Hill
 projects:
   - uri: /live/peer-health-exchange/
     category: live
@@ -87,16 +97,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
     year: 2018
-zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562374305'
-aidens_tags:
-  - Education
-  - Health
-  - 'Social Connectedness: Community health'
-  - Youth
-  - Healthcare
-  - Volunteerism
-  - Underserved youth
-neighborhood: Downtown Bunker Hill
 
 ---

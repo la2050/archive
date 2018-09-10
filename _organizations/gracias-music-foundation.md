@@ -67,6 +67,11 @@ uri: /connect/gracias-music-foundation/
 order: 16
 project_image: gracias-music-foundation.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Volunteerism
+zip: '92123'
 projects:
   - uri: /connect/gracias-music-foundation/
     category: connect
@@ -80,12 +85,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
     year: 2018
-zip: '92123'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271313830'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Volunteerism
-neighborhood: '92123'
 
 ---

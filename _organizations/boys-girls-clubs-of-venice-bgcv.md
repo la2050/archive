@@ -113,6 +113,16 @@ uri: /connect/boys-girls-clubs-of-venice-bgcv/
 order: 2
 project_image: boys-girls-clubs-of-venice-bgcv.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Income and Employment: STEM'
+  - Arts and culture
+  - Tutoring
+  - Underserved youth
+  - Career readiness
+  - Mentorship
 projects:
   - uri: /connect/boys-girls-clubs-of-venice-bgcv/
     category: connect

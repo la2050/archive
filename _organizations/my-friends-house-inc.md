@@ -78,6 +78,11 @@ uri: /live/my-friends-house-inc/
 order: 18
 project_image: my-friends-house-inc.jpg
 year: 2018
+aidens_tags:
+  - 'Health: Healthy food'
+  - Food inequality
+zip: '90291'
+neighborhood: Venice
 projects:
   - uri: /live/my-friends-house-inc/
     category: live
@@ -90,13 +95,8 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
     year: 2018
-zip: '90291'
 charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=#26 
   2718485.
-aidens_tags:
-  - 'Health: Healthy food'
-  - Food inequality
-neighborhood: Venice
 
 ---

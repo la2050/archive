@@ -151,12 +151,12 @@ projects:
       https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg
     year: 2018
 zip: '90027'
+neighborhood: Griffith Park
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943059243'
 aidens_tags:
   - Education
   - 'Social Connectedness: Children'
   - Underserved youth
   - Youth
-neighborhood: Griffith Park
 
 ---

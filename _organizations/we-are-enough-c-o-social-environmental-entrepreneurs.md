@@ -91,6 +91,15 @@ uri: /create/we-are-enough-c-o-social-environmental-entrepreneurs/
 order: 16
 project_image: we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Small business
+  - Entrepreneurship
+  - Investment
+  - Financial management
+zip: 90089-0034
+neighborhood: University of Southern California
 projects:
   - uri: /create/we-are-enough-c-o-social-environmental-entrepreneurs/
     category: create
@@ -105,15 +114,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
     year: 2018
-zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-aidens_tags:
-  - Social Connectedness
-  - 'Income and Employment: Women’s advocacy'
-  - Small business
-  - Entrepreneurship
-  - Investment
-  - Financial management
-neighborhood: University of Southern California
 
 ---

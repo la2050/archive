@@ -158,6 +158,13 @@ uri: /create/think-tank-productions-inc-dba-think-tank-gallery/
 order: 3
 project_image: think-tank-productions-inc-dba-think-tank-gallery.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Underserved communities
+  - Communities of color
+  - Technology
+zip: '92612'
 projects:
   - uri: /create/think-tank-productions-inc-dba-think-tank-gallery/
     category: create
@@ -174,14 +181,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
     year: 2018
-zip: '92612'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300445999'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Underserved communities
-  - Communities of color
-  - Technology
-neighborhood: '92612'
 
 ---

@@ -137,6 +137,8 @@ uri: /learn/lola-techsystems-inc/
 order: 9
 project_image: lola-techsystems-inc.jpg
 year: 2018
+aidens_tags:
+  - Education
 projects:
   - uri: /learn/lola-techsystems-inc/
     category: learn
@@ -150,7 +152,5 @@ projects:
       https://activation.la2050.org/assets/images/learn/2048-wide/lola-techsystems-inc.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472037575'
-aidens_tags:
-  - Education
 
 ---

@@ -132,6 +132,15 @@ uri: /connect/ciclavia/
 order: 6
 project_image: ciclavia.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Environmental Quality
+  - 'Social Connectedness: Inclusion'
+  - Diversity
+  - Public space
+  - Community health
+zip: '90013'
+neighborhood: Downtown Central
 projects:
   - uri: /connect/ciclavia/
     category: connect
@@ -145,15 +154,6 @@ projects:
     project_video: 'https://youtu.be/I7wQ8SasHfQ'
     project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
     year: 2018
-zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273428380'
-aidens_tags:
-  - Health
-  - Environmental Quality
-  - 'Social Connectedness: Inclusion'
-  - Diversity
-  - Public space
-  - Community health
-neighborhood: Downtown Central
 
 ---

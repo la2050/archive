@@ -114,6 +114,9 @@ uri: /live/mutuo/
 order: 3
 project_image: mutuo.jpg
 year: 2018
+aidens_tags:
+  - 'Housing: Affordable housing'
+  - Homelessness
 projects:
   - uri: /live/mutuo/
     category: live
@@ -129,8 +132,5 @@ projects:
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454105869'
-aidens_tags:
-  - 'Housing: Affordable housing'
-  - Homelessness
 
 ---

@@ -109,6 +109,18 @@ uri: /learn/big-brothers-big-sisters-of-greater-los-angeles/
 order: 10
 project_image: big-brothers-big-sisters-of-greater-los-angeles.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Underserved youth'
+  - College preparation
+  - Underserved communities
+  - High school graduation
+  - Poverty
+  - Mentorship
+  - Communities of color
+zip: 90039-2520
+neighborhood: Atwater Village
 projects:
   - uri: /learn/big-brothers-big-sisters-of-greater-los-angeles/
     category: learn
@@ -121,18 +133,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
     year: 2018
-zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'
-aidens_tags:
-  - Education
-  - Social Connectedness
-  - 'Income and Employment: Underserved youth'
-  - College preparation
-  - Underserved communities
-  - High school graduation
-  - Poverty
-  - Mentorship
-  - Communities of color
-neighborhood: Atwater Village
 
 ---

@@ -155,6 +155,11 @@ uri: /live/move-la-a-project-of-community-partners/
 order: 39
 project_image: move-la-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - 'Environmental Quality: Sustainability'
+  - Green technology
+zip: '90015'
+neighborhood: Downtown Fashion District
 projects:
   - uri: /live/move-la-a-project-of-community-partners/
     category: live
@@ -169,11 +174,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/move-la-a-project-of-community-partners.jpg
     year: 2018
-zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-aidens_tags:
-  - 'Environmental Quality: Sustainability'
-  - Green technology
-neighborhood: Downtown Fashion District
 
 ---

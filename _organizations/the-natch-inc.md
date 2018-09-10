@@ -115,6 +115,12 @@ uri: /create/the-natch-inc/
 order: 6
 project_image: the-natch-inc.jpg
 year: 2018
+aidens_tags:
+  - 'Income and Employment: Small business'
+  - Entrepreneurship
+  - Technology
+zip: '90021'
+neighborhood: Downtown Fashion District
 projects:
   - uri: /create/the-natch-inc/
     category: create
@@ -127,12 +133,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg
     year: 2018
-zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813470225'
-aidens_tags:
-  - 'Income and Employment: Small business'
-  - Entrepreneurship
-  - Technology
-neighborhood: Downtown Fashion District
 
 ---

@@ -98,6 +98,10 @@ uri: /live/health-core-possibilities/
 order: 33
 project_image: health-core-possibilities.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - Public Safety
+zip: '94113'
 projects:
   - uri: /live/health-core-possibilities/
     category: live
@@ -110,11 +114,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
     year: 2018
-zip: '94113'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300538676'
-aidens_tags:
-  - Environmental Quality
-  - Public Safety
-neighborhood: '94113'
 
 ---

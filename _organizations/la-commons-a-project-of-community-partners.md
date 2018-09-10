@@ -191,6 +191,15 @@ uri: /connect/la-commons-a-project-of-community-partners/
 order: 3
 project_image: la-commons-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Housing
+  - 'Social Connectedness: Arts and culture'
+  - Affordable housing
+  - Neighborhood councils
+  - Underserved youth
+zip: '90015'
+neighborhood: Downtown Fashion District
 projects:
   - uri: /connect/la-commons-a-project-of-community-partners/
     category: connect
@@ -203,15 +212,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
     year: 2018
-zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - Housing
-  - 'Social Connectedness: Arts and culture'
-  - Affordable housing
-  - Neighborhood councils
-  - Underserved youth
-neighborhood: Downtown Fashion District
 
 ---

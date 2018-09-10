@@ -144,6 +144,15 @@ uri: /live/l-a-kitchen/
 order: 30
 project_image: l-a-kitchen.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - Income and Employment
+  - 'Environmental Quality: Community health'
+  - Healthy food
+  - Job training
+  - Training and development
+  - Public space
+  - Sustainability
 projects:
   - uri: /live/l-a-kitchen/
     category: live
@@ -158,14 +167,5 @@ projects:
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461639779'
-aidens_tags:
-  - Health
-  - Income and Employment
-  - 'Environmental Quality: Community health'
-  - Healthy food
-  - Job training
-  - Training and development
-  - Public space
-  - Sustainability
 
 ---

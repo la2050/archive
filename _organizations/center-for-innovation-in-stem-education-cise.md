@@ -115,6 +115,12 @@ uri: /learn/center-for-innovation-in-stem-education-cise/
 order: 11
 project_image: center-for-innovation-in-stem-education-cise.jpg
 year: 2018
+aidens_tags:
+  - 'Education: STEM'
+  - Teachers
+  - Youth
+  - Underserved youth
+  - College preparation
 projects:
   - uri: /learn/center-for-innovation-in-stem-education-cise/
     category: learn
@@ -130,11 +136,5 @@ projects:
       https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952543028'
-aidens_tags:
-  - 'Education: STEM'
-  - Teachers
-  - Youth
-  - Underserved youth
-  - College preparation
 
 ---

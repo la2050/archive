@@ -146,6 +146,7 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
     year: 2016
 zip: '90040'
+neighborhood: 'Commerce, City of'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
 aidens_tags:
   - Environmental Quality
@@ -157,6 +158,5 @@ aidens_tags:
   - Diversity
   - Immigration/Immigrants
   - Underserved communities
-neighborhood: 'Commerce, City of'
 
 ---

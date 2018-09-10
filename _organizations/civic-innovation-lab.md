@@ -119,6 +119,16 @@ uri: /create/civic-innovation-lab/
 order: 1
 project_image: civic-innovation-lab.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Education
+  - 'Social Connectedness: Technology'
+  - Creative industry
+  - Innovation
+  - Digital divide
+  - Inclusion
+zip: 90089-0034
+neighborhood: University of Southern California
 projects:
   - uri: /create/civic-innovation-lab/
     category: create
@@ -133,16 +143,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
     year: 2018
-zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - Education
-  - 'Social Connectedness: Technology'
-  - Creative industry
-  - Innovation
-  - Digital divide
-  - Inclusion
-neighborhood: University of Southern California
 
 ---

@@ -156,6 +156,13 @@ uri: /live/caleitc4me/
 order: 16
 project_image: caleitc4me.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Income and Employment: Financial management'
+  - Poverty
+  - Underserved communities
+zip: '90066'
+neighborhood: Culver City
 projects:
   - uri: /live/caleitc4me/
     category: live
@@ -166,13 +173,6 @@ projects:
     project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
     project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
     year: 2018
-zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474325738'
-aidens_tags:
-  - Social Connectedness
-  - 'Income and Employment: Financial management'
-  - Poverty
-  - Underserved communities
-neighborhood: Culver City
 
 ---

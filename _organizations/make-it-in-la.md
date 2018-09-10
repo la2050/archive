@@ -133,6 +133,9 @@ uri: /create/make-it-in-la/
 order: 11
 project_image: make-it-in-la.jpg
 year: 2018
+aidens_tags:
+  - 'Income and Employment: Local manufacturing'
+  - Entrepreneurship
 projects:
   - uri: /create/make-it-in-la/
     category: create
@@ -148,8 +151,5 @@ projects:
       https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811715988'
-aidens_tags:
-  - 'Income and Employment: Local manufacturing'
-  - Entrepreneurship
 
 ---

@@ -97,6 +97,7 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6687480265741-team91.jpg
     year: 2016
 zip: '90010'
+neighborhood: Wilshire Center
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954800735'
 aidens_tags:
   - Income and Employment
@@ -104,6 +105,5 @@ aidens_tags:
   - 'Public Safety: Underserved communities'
   - Job training
   - Crime
-neighborhood: Wilshire Center
 
 ---

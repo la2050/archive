@@ -131,6 +131,8 @@ uri: /connect/los-angeles-county-registrar-recorder-county-clerk/
 order: 45
 project_image: los-angeles-county-registrar-recorder-county-clerk.jpg
 year: 2018
+zip: '90028'
+neighborhood: Hollywood
 projects:
   - uri: /connect/los-angeles-county-registrar-recorder-county-clerk/
     category: connect
@@ -143,8 +145,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
     year: 2018
-zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
-neighborhood: Hollywood
 
 ---

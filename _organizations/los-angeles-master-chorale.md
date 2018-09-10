@@ -112,6 +112,13 @@ uri: /connect/los-angeles-master-chorale/
 order: 5
 project_image: los-angeles-master-chorale.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Public space
+  - Diversity
+zip: '90007'
+neighborhood: Southeast Los Angeles
 projects:
   - uri: /connect/los-angeles-master-chorale/
     category: connect
@@ -124,13 +131,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
     year: 2018
-zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952315682'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Public space
-  - Diversity
-neighborhood: Southeast Los Angeles
 
 ---

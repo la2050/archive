@@ -134,6 +134,8 @@ uri: /connect/kitchen-table-app/
 order: 21
 project_image: kitchen-table-app.jpg
 year: 2018
+zip: '90012'
+neighborhood: Chinatown
 projects:
   - uri: /connect/kitchen-table-app/
     category: connect
@@ -148,8 +150,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
     year: 2018
-zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821917647'
-neighborhood: Chinatown
 
 ---

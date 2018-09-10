@@ -148,6 +148,11 @@ uri: /connect/raise-a-child-inc/
 order: 11
 project_image: raise-a-child-inc.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Foster care'
+  - Media
+zip: '90013'
+neighborhood: Downtown Central
 projects:
   - uri: /connect/raise-a-child-inc/
     category: connect
@@ -162,11 +167,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
     year: 2018
-zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453665296'
-aidens_tags:
-  - 'Social Connectedness: Foster care'
-  - Media
-neighborhood: Downtown Central
 
 ---

@@ -122,12 +122,12 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
     year: 2016
 zip: '90019'
+neighborhood: Arlington Heights
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
 aidens_tags:
   - Education
   - 'Social Connectedness: STEM'
   - Youth
   - Underserved communities
-neighborhood: Arlington Heights
 
 ---

@@ -194,6 +194,13 @@ order: 47
 project_image: mirys-list.jpg
 project_image_color: 'rgb(69, 61, 47)'
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Neighborhood councils'
+  - Refugees
+  - Underserved communities
+  - Volunteerism
+zip: 90089-0034
+neighborhood: University of Southern California
 projects:
   - uri: /connect/mirys-list/
     category: connect
@@ -206,13 +213,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg
     year: 2018
-zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-aidens_tags:
-  - 'Social Connectedness: Neighborhood councils'
-  - Refugees
-  - Underserved communities
-  - Volunteerism
-neighborhood: University of Southern California
 
 ---

@@ -101,6 +101,14 @@ uri: /play/red-hen-press/
 order: 5
 project_image: red-hen-press.jpg
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Diversity
+  - Inclusion
+  - Underserved youth
+zip: '91401'
+neighborhood: Valley Glen
 projects:
   - uri: /play/red-hen-press/
     category: play
@@ -124,14 +132,6 @@ projects:
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
     year: 2016
-zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'
-aidens_tags:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Diversity
-  - Inclusion
-  - Underserved youth
-neighborhood: Valley Glen
 
 ---

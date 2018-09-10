@@ -111,6 +111,12 @@ order: 41
 project_image: >-
   undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
 year: 2018
+aidens_tags:
+  - Health
+  - 'Social Connectedness: Healthcare'
+  - Volunteerism
+zip: '90016'
+neighborhood: West Adams
 projects:
   - uri: >-
       /live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
@@ -124,12 +130,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
     year: 2018
-zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208083398'
-aidens_tags:
-  - Health
-  - 'Social Connectedness: Healthcare'
-  - Volunteerism
-neighborhood: West Adams
 
 ---

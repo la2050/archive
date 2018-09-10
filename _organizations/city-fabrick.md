@@ -118,6 +118,13 @@ uri: /live/city-fabrick/
 order: 19
 project_image: city-fabrick.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Arts and Cultural Vitality: Creative industry'
+  - Innovation
+  - Affordable housing
+zip: '90015'
+neighborhood: Downtown Fashion District
 projects:
   - uri: /live/city-fabrick/
     category: live
@@ -130,13 +137,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg
     year: 2018
-zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451130362'
-aidens_tags:
-  - Housing
-  - 'Arts and Cultural Vitality: Creative industry'
-  - Innovation
-  - Affordable housing
-neighborhood: Downtown Fashion District
 
 ---

@@ -95,6 +95,13 @@ uri: /learn/city-of-los-angeles-information-technology-agency/
 order: 5
 project_image: city-of-los-angeles-information-technology-agency.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Social Connectedness: Digital divide'
+  - Digital literacy
+  - Underserved Communities
+  - Digital Equity
+  - Technology
 projects:
   - uri: /learn/city-of-los-angeles-information-technology-agency/
     category: learn
@@ -108,12 +115,5 @@ projects:
       https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
-aidens_tags:
-  - Education
-  - 'Social Connectedness: Digital divide'
-  - Digital literacy
-  - Underserved Communities
-  - Digital Equity
-  - Technology
 
 ---

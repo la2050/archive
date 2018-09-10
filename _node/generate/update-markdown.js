@@ -170,11 +170,11 @@ function processFile(filename, projects, organizations, neighborhoods) {
 
       if (organization.zip && organization.zip != "" && organization.zip != "0") {
         data.yaml.zip = organization.zip
-        let match = neighborhoods.filter(item => item.zip.indexOf(organization.zip.split("-")[0]) >= 0)[0]
+        let match = neighborhoods.filter(item => item.zip.indexOf(organization.zip.split("-")[0]) >= 0)
         console.dir(match)
         // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
-        if (match) {
-          data.yaml.neighborhood = match.neighborhood
+        if (match && match.length > 0) {
+          data.yaml.neighborhood = match[0].neighborhood
             .replace(/Los Angeles \(([^\)]+)\)/g, function(match, p1, p2, p3, offset, string) {
               return p1;
             })
@@ -343,7 +343,7 @@ function updateMarkdownFiles(folder) {
 
   //console.log(files);
 
-  let projectsInput = fs.readFileSync('../_data/projects.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let projectsInput = fs.readFileSync('../_data/projects-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let projects = parse(projectsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   let organizationsInput = fs.readFileSync('../_data/organizations.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options

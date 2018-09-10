@@ -137,6 +137,12 @@ uri: /live/mar-vista-family-center/
 order: 35
 project_image: mar-vista-family-center.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Environmental Quality: Sustainability'
+  - Youth
+zip: '90057'
+neighborhood: Westlake
 projects:
   - uri: /live/mar-vista-family-center/
     category: live
@@ -149,12 +155,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
     year: 2018
-zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952647443'
-aidens_tags:
-  - Education
-  - 'Environmental Quality: Sustainability'
-  - Youth
-neighborhood: Westlake
 
 ---

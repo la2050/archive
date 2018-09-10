@@ -212,6 +212,12 @@ uri: /play/kounkuey-design-initiative/
 order: 2
 project_image: kounkuey-design-initiative.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - 'Social Connectedness: Public space'
+  - Underserved communities
+zip: '90048'
+neighborhood: Mid-City West
 projects:
   - uri: /play/kounkuey-design-initiative/
     category: play
@@ -224,12 +230,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
     year: 2018
-zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
-aidens_tags:
-  - Environmental Quality
-  - 'Social Connectedness: Public space'
-  - Underserved communities
-neighborhood: Mid-City West
 
 ---

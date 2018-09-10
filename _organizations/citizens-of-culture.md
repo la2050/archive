@@ -133,6 +133,8 @@ uri: /connect/citizens-of-culture/
 order: 43
 project_image: citizens-of-culture.jpg
 year: 2018
+zip: '91506'
+neighborhood: Burbank
 projects:
   - uri: /connect/citizens-of-culture/
     category: connect
@@ -157,8 +159,6 @@ projects:
     project_image: >-
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
     year: 2016
-zip: '91506'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821044989'
-neighborhood: Burbank
 
 ---

@@ -113,6 +113,7 @@ projects:
       https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
     year: 2016
 zip: '90265'
+neighborhood: Malibu
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204637089'
 aidens_tags:
   - Housing
@@ -120,6 +121,5 @@ aidens_tags:
   - Poverty
   - Mentorship
   - Volunteerism
-neighborhood: Malibu
 
 ---

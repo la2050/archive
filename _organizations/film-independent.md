@@ -112,6 +112,14 @@ uri: /connect/film-independent/
 order: 27
 project_image: film-independent.jpg
 year: 2018
+aidens_tags:
+  - Social Connectedness
+  - 'Arts and Cultural Vitality: Arts and culture'
+  - Entertainment industry
+  - Diversity
+  - Underserved communities
+zip: '90012'
+neighborhood: Chinatown
 projects:
   - uri: /connect/film-independent/
     category: connect
@@ -124,14 +132,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
     year: 2018
-zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953943485'
-aidens_tags:
-  - Social Connectedness
-  - 'Arts and Cultural Vitality: Arts and culture'
-  - Entertainment industry
-  - Diversity
-  - Underserved communities
-neighborhood: Chinatown
 
 ---

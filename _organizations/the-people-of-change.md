@@ -112,6 +112,15 @@ uri: /learn/the-people-of-change/
 order: 7
 project_image: the-people-of-change.jpg
 year: 2018
+aidens_tags:
+  - Education
+  - 'Income and Employment: Youth'
+  - Entrepreneurship
+  - Mentorship
+  - STEM
+  - Technology
+zip: '90014'
+neighborhood: Downtown Arts District
 projects:
   - uri: /learn/the-people-of-change/
     category: learn
@@ -126,15 +135,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
     year: 2018
-zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein='
-aidens_tags:
-  - Education
-  - 'Income and Employment: Youth'
-  - Entrepreneurship
-  - Mentorship
-  - STEM
-  - Technology
-neighborhood: Downtown Arts District
 
 ---

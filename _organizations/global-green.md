@@ -139,6 +139,13 @@ uri: /live/global-green/
 order: 17
 project_image: global-green.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - 'Social Connectedness: Sustainability'
+  - Underserved communities
+  - Volunteerism
+zip: '90405'
+neighborhood: Ocean Park (Santa Monica)
 projects:
   - uri: /live/global-green/
     category: live
@@ -151,13 +158,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg
     year: 2018
-zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770387124'
-aidens_tags:
-  - Environmental Quality
-  - 'Social Connectedness: Sustainability'
-  - Underserved communities
-  - Volunteerism
-neighborhood: Ocean Park (Santa Monica)
 
 ---

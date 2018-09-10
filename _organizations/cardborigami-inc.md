@@ -141,6 +141,11 @@ uri: /live/cardborigami-inc/
 order: 28
 project_image: cardborigami-inc.jpg
 year: 2018
+aidens_tags:
+  - Housing
+  - 'Arts and Cultural Vitality: Innovation'
+  - Homelessness
+  - Creative industry
 projects:
   - uri: /live/cardborigami-inc/
     category: live
@@ -156,10 +161,5 @@ projects:
       https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
     year: 2018
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274595299'
-aidens_tags:
-  - Housing
-  - 'Arts and Cultural Vitality: Innovation'
-  - Homelessness
-  - Creative industry
 
 ---

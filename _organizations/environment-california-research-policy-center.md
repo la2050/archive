@@ -175,6 +175,17 @@ uri: /live/environment-california-research-policy-center/
 order: 1
 project_image: environment-california-research-policy-center.jpg
 year: 2018
+aidens_tags:
+  - Environmental Quality
+  - Education
+  - 'Health: Community health'
+  - Green technology
+  - Sustainability
+  - Children
+  - Teachers
+  - Youth
+zip: '90042'
+neighborhood: Highland Park
 projects:
   - uri: /live/environment-california-research-policy-center/
     category: live
@@ -187,17 +198,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
     year: 2018
-zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680531882'
-aidens_tags:
-  - Environmental Quality
-  - Education
-  - 'Health: Community health'
-  - Green technology
-  - Sustainability
-  - Children
-  - Teachers
-  - Youth
-neighborhood: Highland Park
 
 ---

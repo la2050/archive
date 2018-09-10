@@ -157,6 +157,17 @@ order: 4
 project_image: national-association-of-latino-independent-producers-nalip.jpg
 project_image_color: 'rgb(25, 31, 71)'
 year: 2018
+aidens_tags:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Income and Employment: Media'
+  - Inclusion
+  - Training and development
+  - Job training
+  - Underrepresented youth
+  - Entertainment industry
+zip: '90046'
+neighborhood: Hollywood
 projects:
   - uri: /create/national-association-of-latino-independent-producers-nalip/
     category: create

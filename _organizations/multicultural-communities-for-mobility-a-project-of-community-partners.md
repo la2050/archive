@@ -134,6 +134,12 @@ uri: >-
 order: 37
 project_image: multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 year: 2018
+aidens_tags:
+  - 'Social Connectedness: Underserved communities'
+  - Communities of color
+  - Volunteerism
+zip: '90015'
+neighborhood: Downtown Fashion District
 projects:
   - uri: >-
       /connect/multicultural-communities-for-mobility-a-project-of-community-partners/
@@ -147,12 +153,6 @@ projects:
     project_image: >-
       https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
     year: 2018
-zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-aidens_tags:
-  - 'Social Connectedness: Underserved communities'
-  - Communities of color
-  - Volunteerism
-neighborhood: Downtown Fashion District
 
 ---
