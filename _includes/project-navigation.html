@@ -94,11 +94,11 @@
 
 {% if page.category %}
 
-<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in the <strong class="category">{{ page.category }}</strong> category. <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+<p class="count"><strong>{{ data_list.size }}</strong> organizations submitted an idea in the <strong class="category">{{ page.category }}</strong> category. <small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
 {% elsif page.is_search_results %}
 
-<p class="count"><span style="display: none">You searched for <strong id="keywords"></strong>.</span> <span style="display: inline-block">There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span>.</span> <small style="display: inline-block;">Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
+<p class="count"><span style="display: none">You searched for <strong id="keywords"></strong>.</span> <span>There <span id="project-count-are-is">are</span> <strong id="project-count">{{ data_list.size }}</strong> matching <span id="project-count-projects">organizations</span>.</span> <small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
 
 {% else %}
 

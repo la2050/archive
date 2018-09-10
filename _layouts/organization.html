@@ -203,7 +203,7 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
-{% if page.zip %}
+{% if page.zip and false %}
 <div class="links links-tags">
 <h2>Where we work</h2>
 
@@ -215,7 +215,7 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
-{% if page.aidens_tags and page.aidens_tags.size > 0 %}
+{% if page.aidens_tags and page.aidens_tags.size > 0 and false %}
 <div class="links links-tags">
 <h2>Tags</h2>
 
@@ -293,6 +293,45 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
+
+
+
+{% if page.zip %}
+<hr style="opacity: 0" />
+<h2 style="
+text-align: left;
+justify-self: start;
+max-width: none;
+margin-bottom: 3rem;
+text-transform: uppercase;
+font-weight: 600;
+letter-spacing: 0.05em;
+color: rgb(41, 41, 41) !important;
+font-size: 1.25em;
+line-height: 1;">Where we work: <a style="margin-left: 0.75em; text-decoration: none; text-transform: none; color: var(--primary-color);" href="https://maps.google.com/maps?q={{ page.zip | split: '-' | first }}">{% if page.neighborhood %}<span style="text-decoration: underline;">{{ page.neighborhood }}</span> <small style="text-decoration: none; color: rgb(41, 41, 41); opacity: 0.5; margin-left: 0.75em">{{ page.zip | split: '-' | first }}</small>{% else %}<span style="text-decoration: underline;">{{ page.zip | split: '-' | first }}</span>{% endif %}</a></h2>
+
+
+<style>
+iframe {
+  margin-left: -1.5em;
+  margin-right: -1.5em;
+  width: 100vw !important;
+}
+@media (min-width: 40em) {
+  iframe {
+    margin-left: -4.5em;
+    margin-right: -4.5em;
+  }
+}
+</style>
+
+<iframe src="https://maps.google.com/maps?q={{ page.zip | split: '-' | first }}&z=13&ie=UTF8&output=embed" width="800" height="600" frameborder="0" style="border:0; width: 100%; grid-column: 1/-1;" allowfullscreen></iframe>
+
+{% endif %}
+
+
+
+<hr style="opacity: 0" />
 <h2 style="text-align: left; justify-self: start; max-width: none; margin-bottom: 3rem; 
 text-transform: uppercase;
 font-weight: 600;
@@ -359,7 +398,6 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 {% assign project_image_file_name = project.project_image | split: "/" | last %}
 
 
-{% if video_embed_url or project.project_video or project_image_file_name != page.project_image %}
 
 <figure class="feature {% unless project.project_video != '' %} has-image{% endunless %}" style="margin: 0 0 0.75em 0;">
 <div data-aspect-ratio="1280/720">
@@ -400,27 +438,292 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 </div>
 </figure>
 
-{% else %}
-<div style="border-width: 0 0 0.125em; border-style: solid; border-color: rgba(0, 0, 0, 0.15); margin: 0.75em 0;"></div>
-{% endif %}
 
     <a href="{{ project.uri }}#details" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
       <h3 style="color: var(--primary-color); 
 line-height: 1.3125;
-font-size: inherit;
 font-weight: bold; 
-line-height: inherit;
+font-size: 1.5em;
+line-height: 1.25;
 text-decoration: none;
-margin-top: 0.375em;
-margin-bottom: 0.375em; max-width: 33rem;">{{ project.title }}</h3>
+margin-top: 0.75em;
+margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
     </a>
 
     <a href="{{ project.uri }}#details" style="color: inherit; text-decoration: none; text-align: left; font-weight: normal">
-      <p style="margin: 0; max-width: 33rem; font-size: 0.875em;">{{ project.project_description }} <em style="display: inline-block; text-decoration: underline; color: var(--primary-color); font-weight: bold;">Learn more</em></p>
+      <p style="margin: 0; max-width: none; font-size: 0.875em;">{{ project.project_description }} <em style="display: inline-block; text-decoration: underline; color: var(--primary-color); font-weight: bold;">Learn more</em></p>
     </a>
   </li>
 </ul>
 {% endfor %}
+
+
+
+
+
+
+<style>
+@media (min-width: 40em) {
+
+.tags {
+  margin-top: 7.5em;
+}
+}
+/*
+
+
+.tags::before {
+  content: "";
+  display: block;
+  border-bottom: ;
+  max-width: none;
+  text-align: left;
+  grid-column: 1/-1;
+  background-color: var(--primary-color);
+  background-color: rgba(0, 0, 0, 0.15);
+  color: white;
+  padding: 0.125em 0 0 0;
+  margin: 0 0 0;
+}
+@media (min-width: 40em) {
+  .tags::before {
+    margin-left: -4.5em;
+    margin-right: -4.5em;
+    padding-left: 4.5em;
+    padding-right: 4.5em;
+  }
+}*/
+
+.tags h2 {
+  font-style: italic;
+  color: inherit !important;
+  font-size: inherit;
+  line-height: inherit;
+  margin-top: 0;
+  font-weight: inherit;
+  padding-left: 1.5em;
+  max-width: none;
+}
+.tags h2 strong {
+  color: inherit;
+}
+.tags .action {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-left: 0;
+  max-width: none;
+  padding-left: 0;
+  /*margin: -1.35em;*/
+/*  margin-left: -1.35em;
+  margin-right: -1.35em;*/
+  margin-left: 0.375em;
+  margin-right: 0.375em;
+}
+@media (min-width: 40em) {
+/*.tags .action {
+  margin-left: -4.35em;
+  margin-right: -4.35em;
+}
+*/
+}
+.tags .action li {
+/*margin: 1.5em;*/
+margin: 0.15em;
+text-align: center;
+text-align: left;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+@media (min-width: 40em) {
+/*  .tags .action a {
+    padding: 4.5vmin 6vmin;
+  }*/
+}
+
+.tags .action a {
+  display: block;
+  text-align: center;
+  background: white;
+  color: black;
+  border-color: black;
+  color: var(--primary-color, black);
+  border-color: var(--primary-color, black);
+  border-color: rgba(0, 0, 0, 0.25);
+  border-color: transparent;
+  padding: 0.375em 0.75em;
+  letter-spacing: inherit;
+  text-transform: inherit;
+}
+.tags .action a:hover,
+.tags .action a:active,
+.tags .action a:focus {
+/*  background: black;
+  border-color: black;
+  background: var(--primary-color, black);*/
+  border-color: var(--primary-color, black);
+/*  color: white;*/
+}
+
+
+.disabled .tags .action li:nth-child(1n) {
+  --primary-color:   rgb(255, 194, 51); /* @banana */
+  --secondary-color: rgb(237, 59, 136); /* @strawberry */
+}
+.disabled .tags .action li:nth-child(2n) {
+  --primary-color:   rgb(6, 179, 188); /* @blueberry */
+  --secondary-color: rgb(255, 194, 51); /* @banana */
+}
+.disabled .tags .action li:nth-child(3n) {
+  --primary-color:   rgb(141, 208, 59); /* @lime */
+  --secondary-color: rgb(237, 59, 136); /* @strawberry */
+}
+.disabled .tags .action li:nth-child(4n) {
+  --primary-color:   rgb(237, 59, 136); /* @strawberry */
+  /*--primary-color: rgb(255, 59, 118);*/ /* @strawberry-orange */
+  --secondary-color: rgb(255, 194, 51); /* @banana */
+}
+.disabled .tags .action li:nth-child(5n) {
+  --primary-color:   rgb(249, 160, 51); /* @tangerine */
+  --secondary-color: rgb(237, 59, 136); /* @strawberry */
+}
+
+
+.disabled .tags .action li a {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+
+
+/*.tags ul {
+  margin: 0;
+  max-width: none;
+}*/
+/*.tags ul,
+.tags li {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}*/
+/*.tags li {
+  display: inline-block;
+  font-size: 0.875em;
+}
+.tags li:not(:last-child)::after {
+  content: ", ";
+}*/
+/*.tags li a {
+  text-transform: lowercase;
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+}
+.tags li a:hover,
+.tags li a:active,
+.tags li a:focus {
+  color: inherit;
+  text-decoration: underline;
+}*/
+</style>
+
+
+<style>
+.tags {
+  margin-top: 0;
+  grid-column: 1/-1;
+}
+</style>
+
+
+
+{% assign aidens_tags = "" | split: "," %}
+{% if page.aidens_tags and page.aidens_tags.size > 0 %}
+  {% for tag in page.aidens_tags %}
+    {% assign aidens_tags = aidens_tags | push: tag %}
+  {% endfor %}
+{% endif %}
+
+{% assign unique_aidens_tags = aidens_tags | uniq | sort %}
+
+{% if unique_aidens_tags.size > 0 %}
+<hr style="opacity: 0" />
+<h2 style="
+text-align: left;
+justify-self: start;
+max-width: none;
+margin-bottom: 3rem;
+text-transform: uppercase;
+font-weight: 600;
+letter-spacing: 0.05em;
+color: rgb(41, 41, 41) !important;
+font-size: 1.25em;
+line-height: 1;">Tags</h2>
+<details class="tags" style="margin-bottom: 3em;" open>
+<summary>
+<h2 style="display: none;"><strong>Browse</strong> related organizations</h2>
+</summary>
+<ul class="action">
+{% for tag in unique_aidens_tags %}
+  {% assign tag_count = 0 %}
+  {% for tag_for_counting in aidens_tags %}
+    {% if tag_for_counting == tag %}
+      {% assign tag_count = tag_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_aidens_tags.size | times: 10 | plus: 1 %}
+  <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+{% endfor %}
+</ul>
+</details>
+
+<script>
+(function() {
+  function containsAnyKeyword(keywordList, string) {
+    console.log("string: " + string)
+    string = string.toLowerCase()
+    for (var index = 0; index < keywordList.length; index++) {
+      if (string.indexOf(keywordList[index]) >= 0) return true
+    }
+    return false
+  }
+
+  var keywords = {
+    "learn"   : ["educ", "mentor", "train", "teach", "tutor", "career", "finan", "veteran", "vitality: innovation"],
+    "create"  : ["creat", "tech", "kids", "children", "youth", "science", "busi"],
+    "play"    : ["play"],
+    "connect" : ["women", "hous", "home", "finan", "entre", "sustain", "volunt", "employ"],
+    "live"    : ["crime", "food", "health", "green", "safety", "poverty", "space"]
+  }
+
+  var tags = document.querySelectorAll(".tags li");
+  if (tags && tags.length > 0) {
+    tags.forEach(function(tag) {
+      if (containsAnyKeyword(keywords.learn, tag.textContent)) {
+        tag.classList.add("blueberry");
+      }
+      else if (containsAnyKeyword(keywords.create, tag.textContent)) {
+        tag.classList.add("banana");
+      }
+      else if (containsAnyKeyword(keywords.play, tag.textContent)) {
+        tag.classList.add("strawberry");
+      }
+      else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
+        tag.classList.add("tangerine");
+      }
+      else if (containsAnyKeyword(keywords.live, tag.textContent)) {
+        tag.classList.add("lime");
+      }
+    })
+  }
+})()
+</script>
+
+{% endif %}
 
 
 

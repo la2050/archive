@@ -1192,7 +1192,7 @@ details summary:focus::-webkit-details-marker {
   max-width: none;
 }
 .goals .navigation .count small {
-  display: block !important;
+  display: block;
 }
 
 .goals.without-category ~ .tags {
