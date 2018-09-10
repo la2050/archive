@@ -341,9 +341,11 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 
 
 
+{% assign organizations_with_aidens_tags = 0 %}
 {% assign aidens_tags = "" | split: "," %}
 {% for item in data_collection.docs %}
   {% if item.aidens_tags and item.aidens_tags.size > 0 %}
+    {% assign organizations_with_aidens_tags = organizations_with_aidens_tags | plus: 1 %}
     {% for tag in item.aidens_tags %}
       {% assign aidens_tags = aidens_tags | push: tag %}
     {% endfor %}
@@ -365,7 +367,8 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ tag_count | times: 0.3 | plus: 1 }}vmin)"{% endif %}>{{ tag }}</a></li>
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_aidens_tags.size | times: 37.5 | plus: 1 %}
+  <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
 </details>
