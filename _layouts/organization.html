@@ -644,7 +644,12 @@ text-align: left;
 {% assign aidens_tags = "" | split: "," %}
 {% if page.aidens_tags and page.aidens_tags.size > 0 %}
   {% for tag in page.aidens_tags %}
-    {% assign aidens_tags = aidens_tags | push: tag %}
+    {% assign sub_tags = tag | split: ": " %}
+    {% for sub_tag in sub_tags %}
+      {% unless sub_tag contains "?" %}
+        {% assign aidens_tags = aidens_tags | push: sub_tag %}
+      {% endunless %}
+    {% endfor %}
   {% endfor %}
 {% endif %}
 
