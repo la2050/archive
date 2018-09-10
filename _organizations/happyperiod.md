@@ -125,5 +125,6 @@ aidens_tags:
   - 'Housing (?): Arts and culture'
   - Homelessness
   - Women’s advocacy
+neighborhood: Palmdale
 
 ---

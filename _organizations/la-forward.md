@@ -144,5 +144,6 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 aidens_tags:
   - 'Social Connectedness: Underserved communities'
   - Media
+neighborhood: Carson (California State Univ Dominguez Hills)
 
 ---

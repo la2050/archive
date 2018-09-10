@@ -138,5 +138,7 @@ project_image: center-for-council-a-project-of-community-partners.jpg
 year: 2018
 aidens_tags:
   - Social Connectedness
+zip: '90015'
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

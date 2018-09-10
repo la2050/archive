@@ -119,5 +119,7 @@ aidens_tags:
   - Poverty
   - Mentorship
   - Communities of color
+zip: 90039-2520
+neighborhood: Atwater Village (Los Angeles)
 
 ---

@@ -167,5 +167,6 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 aidens_tags:
   - 'Social Connectedness: Foster care'
   - Media
+neighborhood: Downtown Central (Los Angeles)
 
 ---

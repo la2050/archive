@@ -123,5 +123,6 @@ aidens_tags:
   - Food inequality
   - Healthy food
   - Volunteerism
+neighborhood: Hyde Park (Los Angeles)
 
 ---

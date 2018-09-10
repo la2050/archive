@@ -180,5 +180,7 @@ aidens_tags:
   - 'Social Connectedness: Underserved communities'
   - Neighborhood councils
   - Inclusion
+zip: '9005'
+neighborhood: Downtown Civic Center (PO Boxes) (Los Angeles)
 
 ---

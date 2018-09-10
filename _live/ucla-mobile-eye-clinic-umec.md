@@ -125,5 +125,7 @@ aidens_tags:
   - Housing
   - 'Health: Homelessness'
   - Healthcare
+zip: '90017'
+neighborhood: Downtown Bunker Hill (Los Angeles)
 
 ---

@@ -129,5 +129,7 @@ aidens_tags:
   - 'Health: Mental health care'
   - Youth
   - Children
+zip: '90017'
+neighborhood: Downtown Bunker Hill (Los Angeles)
 
 ---

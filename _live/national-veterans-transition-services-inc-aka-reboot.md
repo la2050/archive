@@ -144,5 +144,7 @@ aidens_tags:
   - Healthcare
   - Job training
   - Homelessness
+zip: '90006'
+neighborhood: Byzantine-Latino Quarter (Los Angeles)
 
 ---

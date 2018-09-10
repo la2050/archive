@@ -235,5 +235,6 @@ aidens_tags:
   - Entrepreneurship
   - Homelessness
   - Small business
+neighborhood: Chinatown (Los Angeles)
 
 ---

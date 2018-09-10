@@ -137,5 +137,6 @@ aidens_tags:
   - 'Arts and Cultural Vitality: Creative industry'
   - Innovation
   - Affordable housing
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

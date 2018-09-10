@@ -119,5 +119,7 @@ aidens_tags:
   - Mentorship
   - STEM
   - Technology
+zip: '90014'
+neighborhood: Downtown Arts District (Los Angeles)
 
 ---

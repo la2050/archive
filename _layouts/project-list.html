@@ -322,6 +322,13 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
       -->
       <h3>{{ data['organization_name'] }}</h3>
       <p class="description">{{ data['organization_activity'] }}</p>
+      <p class="description" style="margin-top: 0.375rem;">
+        <small>
+          {{ data['year'] }}{% if data.neighborhood %}, 
+            {{ data.neighborhood | replace: "(Los Angeles)", "" }}
+          {% endif %}
+        </small>
+      </p>
     </a>
   </li>
 

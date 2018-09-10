@@ -164,5 +164,6 @@ aidens_tags:
   - Innovation
   - Patents
   - Investment
+neighborhood: Downtown Bunker Hill (Los Angeles)
 
 ---

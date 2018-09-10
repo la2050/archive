@@ -143,5 +143,7 @@ aidens_tags:
   - Underserved communities
   - Innovation
   - Arts and culture
+zip: '90089'
+neighborhood: Los Angeles (University of Southern California)
 
 ---

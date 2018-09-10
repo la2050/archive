@@ -184,5 +184,6 @@ aidens_tags:
   - Social Connectedness
   - 'Income and Employment: Training and development'
   - Underserved communities
+neighborhood: Los Angeles (Palms)
 
 ---

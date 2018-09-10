@@ -150,5 +150,6 @@ aidens_tags:
   - Tutoring
   - Underserved youth
   - Volunteerism
+neighborhood: Chinatown (Los Angeles)
 
 ---

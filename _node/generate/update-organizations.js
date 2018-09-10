@@ -52,10 +52,6 @@ function loadMarkdown(filename) {
 }
 
 function saveMarkdown(filename, data) {
-  // console.log('filename')
-  // console.log(filename);
-
-  // console.dir(data);
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
@@ -65,8 +61,6 @@ ${yaml.safeDump(data.yaml)}
 `
 // ${data.content}
 
-//console.log(output);
-//return;
 
   fs.writeFileSync(filename, output, 'utf8', (err) => {
     if (err) {
@@ -135,7 +129,7 @@ function is_valid_url(url) {
   return url.match(/^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/);
 }
 
-function processFile(filename, projects, organizations) {
+function processFile(filename, projects, organizations, neighborhoods) {
 
   // Load the contents of the file
   let data = loadMarkdown(filename);
@@ -147,9 +141,9 @@ function processFile(filename, projects, organizations) {
 
   // SHIM: It might be better to match by the original challenge URL instead
   let organization = organizations.filter(organization => {
-    if ((organization.title === data.yaml.organization_name)) {
-      console.log("found a match for data.yaml.organization_name: " + data.yaml.organization_name)
-    }
+    // if ((organization.title === data.yaml.organization_name)) {
+    //   console.log("found a match for data.yaml.organization_name: " + data.yaml.organization_name)
+    // }
     return (organization.title === data.yaml.organization_name)
   })[0]
 
@@ -176,9 +170,12 @@ function processFile(filename, projects, organizations) {
   if (organization) {
     if (organization.zip && organization.zip != "" && organization.zip != "0") {
       data.yaml.zip = organization.zip
+      let match = neighborhoods.filter(item => item.zip.indexOf(organization.zip.split("-")[0]) >= 0)[0]
+      console.dir(match)
+      if (match) data.yaml.neighborhood = match.neighborhood
     } else {
       console.log("no zip found for organization: ")
-      console.dir(organization)
+      // console.dir(organization)
     }
 
     if (organization.charity_navigator_url && organization.charity_navigator_url != "" && organization.charity_navigator_url != "0") {
@@ -189,7 +186,7 @@ function processFile(filename, projects, organizations) {
       let tags = organization.aidens_tags.split(",");
       tags = tags.map(string => string.trim());
       tags = tags.filter(string => (string !== "0" && string !== 0 && string !== "#N/A"));
-      console.dir(tags);
+      // console.dir(tags);
       if (tags && tags.length > 0) {
         data.yaml.aidens_tags = tags;
       }
@@ -200,95 +197,6 @@ function processFile(filename, projects, organizations) {
     saveMarkdown(filename, data);
   }
 
-
-  // Simplify image URL
-  // let project_image_paths = data.yaml.project_image.split('/');
-  // data.yaml.project_image = project_image_paths[project_image_paths.length - 1];
-
-  // if (data.yaml.project_video !== '' && data.yaml.project_video.indexOf('youtu') < 0 && data.yaml.project_video.indexOf('vimeo') < 0) {
-  //   console.log(filename)
-  //   console.log(data.yaml.project_video)
-  // }
-
-  // if (data.yaml.project_video.indexOf('https://www.youtube.com/embed?') >= 0 && data.yaml.project_video.indexOf('https://www.youtube.com/embed?v=') < 0) {
-  //   console.log(filename)
-  //   console.log(data.yaml.project_video)
-  // }
-
-  // if (data.yaml.project_video.indexOf('#') >= 0 ||
-  //     data.yaml.project_video.indexOf(' ') >= 0) {
-  //   console.log('*******');
-  //   console.log(data.yaml.uri)
-  //   console.log(data.yaml.project_video);
-  // }
-
-
-  // if (data.yaml.organization_website.indexOf('/') === 0 ||
-  //     data.yaml.organization_twitter.indexOf('/') === 0 ||
-  //     data.yaml.organization_facebook.indexOf('/') === 0 ||
-  //     data.yaml.organization_instagram.indexOf('/') === 0 ||
-  //     data.yaml.link_newsletter.indexOf('/') === 0 ||
-  //     data.yaml.link_donate.indexOf('/') === 0 ||
-  //     data.yaml.link_volunteer.indexOf('/') === 0) {
-  //   console.log(filename)
-  // }
-
-  /*
-  if (data.yaml.organization_website.indexOf('#') >= 0 ||
-      data.yaml.organization_twitter.indexOf('#') >= 0 ||
-      data.yaml.organization_facebook.indexOf('#') >= 0 ||
-      data.yaml.organization_instagram.indexOf('#') >= 0 ||
-      data.yaml.link_newsletter.indexOf('#') >= 0 ||
-      data.yaml.link_donate.indexOf('#') >= 0 ||
-      data.yaml.link_volunteer.indexOf('#') >= 0) {
-
-    //console.log('uri, organization_name, problem detected with');
-
-    console.log('*******');
-    console.log(data.yaml.uri)
-
-    let problemList = []
-
-    if (data.yaml.organization_website.indexOf('#') >= 0) {
-      problemList.push('organization_website');
-    }
-    if (data.yaml.organization_twitter.indexOf('#') >= 0) {
-      problemList.push('organization_twitter');
-    }
-    if (data.yaml.organization_facebook.indexOf('#') >= 0) {
-      problemList.push('organization_facebook');
-    }
-    if (data.yaml.organization_instagram.indexOf('#') >= 0) {
-      problemList.push('organization_instagram');
-    }
-    if (data.yaml.link_newsletter.indexOf('#') >= 0) {
-      problemList.push('link_newsletter');
-    }
-    if (data.yaml.link_donate.indexOf('#') >= 0) {
-      problemList.push('link_donate');
-    }
-    if (data.yaml.link_volunteer.indexOf('#') >= 0) {
-      problemList.push('link_volunteer');
-    }
-
-    problemList.forEach(function(problemField) {
-      console.log(data.yaml[problemField]);
-    });
-
-    // console.log(`https://staging-activation.la2050.org${data.yaml.uri}, https://github.com/la2050/activation/edit/staging/_${data.yaml.category}/${filename}, ${data.yaml.organization_name}, ${problemList.join('; ')}`);
-    // console.log(`https://github.com/la2050/activation/edit/staging/_${data.yaml.category}/${filename.split('/')[filename.split('/').length - 1]}`);
-  }
-  */
-  
-  
-
-  // data.yaml = changeNAtoEmpty(data.yaml);
-  // data.yaml = addMailTo(data.yaml);
-
-  // delete data.yaml.project_proposal_impact;
-  // delete data.yaml.unique_identifier;
-
-  // data.yaml = convertStringsToJSON(data.yaml)
 
 }
 
@@ -324,10 +232,15 @@ function updateMarkdownFiles(folder) {
   let organizationsInput = fs.readFileSync('../_data/organizations.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let organizations = parse(organizationsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
+  let neighborhoodsInput = fs.readFileSync('../_data/neighborhoods.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let neighborhoods = parse(neighborhoodsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+  console.dir(neighborhoods);
+
   for (let index = 0; index < files.length; index++) {
     if (files[index].indexOf('.DS_Store') >= 0) continue;
 
-    processFile(files[index], projects, organizations);
+    processFile(files[index], projects, organizations, neighborhoods);
   }
 }
 

@@ -81,5 +81,7 @@ year: 2018
 aidens_tags:
   - 'Health: Healthy food'
   - Food inequality
+zip: '90291'
+neighborhood: Los Angeles (Venice)
 
 ---

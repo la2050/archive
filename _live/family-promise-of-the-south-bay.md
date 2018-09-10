@@ -99,5 +99,7 @@ project_image: family-promise-of-the-south-bay.jpg
 year: 2018
 aidens_tags:
   - 'Housing: Homelessness'
+zip: '90018'
+neighborhood: Jefferson Park (Los Angeles)
 
 ---

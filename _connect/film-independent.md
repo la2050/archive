@@ -118,5 +118,7 @@ aidens_tags:
   - Entertainment industry
   - Diversity
   - Underserved communities
+zip: '90012'
+neighborhood: Chinatown (Los Angeles)
 
 ---

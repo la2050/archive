@@ -151,5 +151,7 @@ year: 2018
 aidens_tags:
   - 'Social Connectedness: Foster care'
   - Media
+zip: '90013'
+neighborhood: Downtown Central (Los Angeles)
 
 ---

@@ -208,7 +208,7 @@ document.body.classList.add("{{ primary_color }}")
 <h2>Where we work</h2>
 
 <ul>
-  <li><a href="https://maps.google.com/maps?q={{ page.zip }}">{{ page.zip }}</a></li>
+  <li><a href="https://maps.google.com/maps?q={{ page.zip }}">{% if page.neighborhood %}{{ page.neighborhood | replace: "(Los Angeles)", "" }} <small style="opacity: 0.5; margin-left: 0.75em">{{ page.zip }}</small>{% else %}{{ page.zip }}{% endif %}</a></li>
 </ul>
 </div>
 {% endif %}
@@ -356,7 +356,10 @@ font-size: 1.25em; line-height: 1;">Ideas</h2>
 {% assign image_url = project.project_image %}
 {% assign image_category = project.category %}
 
-{% if video_embed_url or project.project_video != '' %}
+{% assign project_image_file_name = project.project_image | split: "/" | last %}
+
+
+{% if video_embed_url or project.project_video or project_image_file_name != page.project_image %}
 
 <figure class="feature {% unless project.project_video != '' %} has-image{% endunless %}" style="margin: 0 0 0.75em 0;">
 <div data-aspect-ratio="1280/720">

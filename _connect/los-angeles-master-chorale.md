@@ -117,5 +117,7 @@ aidens_tags:
   - 'Social Connectedness: Arts and culture'
   - Public space
   - Diversity
+zip: '90007'
+neighborhood: Los Angeles (Southeast Los Angeles)
 
 ---

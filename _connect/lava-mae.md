@@ -185,5 +185,7 @@ aidens_tags:
   - 'Income and Employment: Homelessness'
   - Volunteerism
   - Underserved communities
+zip: '91605'
+neighborhood: Los Angeles (North Hollywood)
 
 ---

@@ -158,5 +158,7 @@ year: 2018
 aidens_tags:
   - 'Environmental Quality: Sustainability'
   - Green technology
+zip: '90015'
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

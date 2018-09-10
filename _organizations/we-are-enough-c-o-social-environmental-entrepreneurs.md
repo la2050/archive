@@ -114,5 +114,6 @@ aidens_tags:
   - Entrepreneurship
   - Investment
   - Financial management
+neighborhood: Los Angeles (University of Southern California)
 
 ---

@@ -100,5 +100,7 @@ aidens_tags:
   - Sustainability
   - Education
   - Underserved Communities
+zip: '91711'
+neighborhood: Claremont
 
 ---

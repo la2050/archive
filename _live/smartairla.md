@@ -193,5 +193,7 @@ aidens_tags:
   - Health
   - 'Environmental Quality: Community health'
   - Green technology
+zip: '90015'
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

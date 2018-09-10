@@ -155,5 +155,7 @@ aidens_tags:
   - Local manufacturing
   - Entrepreneurship
   - Technology
+zip: '90033'
+neighborhood: Boyle Heights (Los Angeles)
 
 ---

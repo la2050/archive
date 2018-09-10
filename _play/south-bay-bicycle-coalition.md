@@ -184,5 +184,7 @@ aidens_tags:
   - 'Environmental Quality: Public space'
   - Fitness
   - Sports
+zip: '90014'
+neighborhood: Downtown Arts District (Los Angeles)
 
 ---

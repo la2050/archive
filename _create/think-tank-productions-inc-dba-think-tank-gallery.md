@@ -164,5 +164,6 @@ aidens_tags:
   - Underserved communities
   - Communities of color
   - Technology
+zip: '92612'
 
 ---

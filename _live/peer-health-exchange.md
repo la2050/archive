@@ -83,5 +83,7 @@ aidens_tags:
   - Healthcare
   - Volunteerism
   - Underserved youth
+zip: '90017'
+neighborhood: Downtown Bunker Hill (Los Angeles)
 
 ---

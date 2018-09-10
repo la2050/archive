@@ -140,5 +140,7 @@ aidens_tags:
   - 'Social Connectedness: Homelessness'
   - Volunteerism
   - Affordable housing
+zip: '90015'
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

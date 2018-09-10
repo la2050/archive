@@ -163,5 +163,7 @@ aidens_tags:
   - Parents
   - Digital literacy
   - Training and development
+zip: '90292'
+neighborhood: Marina del Rey
 
 ---

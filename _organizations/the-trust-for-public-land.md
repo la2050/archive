@@ -112,5 +112,6 @@ aidens_tags:
   - Environmental Quality
   - 'Health: Open space'
   - Community health
+neighborhood: East Hollywood (Los Angeles)
 
 ---

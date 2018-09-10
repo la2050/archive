@@ -130,5 +130,7 @@ aidens_tags:
   - 'Social Connectedness: Arts and culture'
   - Youth
   - Underserved Youth
+zip: '90405'
+neighborhood: Ocean Park (Santa Monica)
 
 ---

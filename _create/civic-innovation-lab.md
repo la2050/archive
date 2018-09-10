@@ -127,5 +127,7 @@ aidens_tags:
   - Innovation
   - Digital divide
   - Inclusion
+zip: 90089-0034
+neighborhood: Los Angeles (University of Southern California)
 
 ---

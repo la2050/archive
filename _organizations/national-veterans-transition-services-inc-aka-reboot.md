@@ -158,5 +158,6 @@ aidens_tags:
   - Healthcare
   - Job training
   - Homelessness
+neighborhood: Byzantine-Latino Quarter (Los Angeles)
 
 ---

@@ -139,5 +139,7 @@ aidens_tags:
   - Diversity
   - Public space
   - Community health
+zip: '90013'
+neighborhood: Downtown Central (Los Angeles)
 
 ---

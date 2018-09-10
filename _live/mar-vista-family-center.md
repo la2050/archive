@@ -141,5 +141,7 @@ aidens_tags:
   - Education
   - 'Environmental Quality: Sustainability'
   - Youth
+zip: '90057'
+neighborhood: Los Angeles (Westlake)
 
 ---

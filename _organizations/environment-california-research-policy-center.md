@@ -198,5 +198,6 @@ aidens_tags:
   - Children
   - Teachers
   - Youth
+neighborhood: Highland Park (Los Angeles)
 
 ---

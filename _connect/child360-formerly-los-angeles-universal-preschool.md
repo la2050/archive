@@ -136,5 +136,7 @@ aidens_tags:
   - Children
   - Teachers
   - Youth
+zip: '90024'
+neighborhood: Los Angeles (Westwood)
 
 ---

@@ -174,5 +174,7 @@ aidens_tags:
   - 'Social Connectedness: Poverty'
   - Underserved communities
   - Technology
+zip: '90029'
+neighborhood: East Hollywood (Los Angeles)
 
 ---

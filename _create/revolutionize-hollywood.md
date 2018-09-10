@@ -162,5 +162,7 @@ aidens_tags:
   - Women’s advocacy
   - Patents
   - Small business
+zip: '90024'
+neighborhood: Los Angeles (Westwood)
 
 ---

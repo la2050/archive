@@ -166,5 +166,7 @@ aidens_tags:
   - Job training
   - Underrepresented youth
   - Entertainment industry
+zip: '90046'
+neighborhood: Hollywood (Los Angeles)
 
 ---

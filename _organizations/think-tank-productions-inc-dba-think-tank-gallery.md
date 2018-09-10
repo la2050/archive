@@ -182,5 +182,6 @@ aidens_tags:
   - Underserved communities
   - Communities of color
   - Technology
+neighborhood: '92612'
 
 ---

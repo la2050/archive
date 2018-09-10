@@ -146,5 +146,6 @@ aidens_tags:
   - 'Social Connectedness: Homelessness'
   - Inclusion
   - Neighborhood councils
+neighborhood: Boyle Heights (Los Angeles)
 
 ---

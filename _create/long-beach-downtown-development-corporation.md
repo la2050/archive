@@ -203,5 +203,7 @@ aidens_tags:
   - 'Income and Employment: Green technology'
   - Entrepreneurship
   - Small business
+zip: '90013'
+neighborhood: Downtown Central (Los Angeles)
 
 ---

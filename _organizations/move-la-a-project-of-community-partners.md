@@ -174,5 +174,6 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 aidens_tags:
   - 'Environmental Quality: Sustainability'
   - Green technology
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

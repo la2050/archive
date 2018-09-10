@@ -97,5 +97,7 @@ uri: /connect/stellas-socks/
 order: 39
 project_image: stellas-socks.jpg
 year: 2018
+zip: '90007'
+neighborhood: Los Angeles (Southeast Los Angeles)
 
 ---

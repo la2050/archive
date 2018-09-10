@@ -129,5 +129,7 @@ aidens_tags:
   - Healthcare
   - Job training
   - Small business
+zip: '90012'
+neighborhood: Chinatown (Los Angeles)
 
 ---

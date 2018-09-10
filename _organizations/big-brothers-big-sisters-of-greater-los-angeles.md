@@ -133,5 +133,6 @@ aidens_tags:
   - Poverty
   - Mentorship
   - Communities of color
+neighborhood: Atwater Village (Los Angeles)
 
 ---

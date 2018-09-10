@@ -131,5 +131,6 @@ zip: '94965'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463084511'
 aidens_tags:
   - 'Social Connectedness: Underserved communities'
+neighborhood: '94965'
 
 ---

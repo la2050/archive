@@ -131,5 +131,6 @@ aidens_tags:
   - 'Social Connectedness: Arts and culture'
   - Public space
   - Diversity
+neighborhood: Los Angeles (Southeast Los Angeles)
 
 ---

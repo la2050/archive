@@ -150,5 +150,7 @@ aidens_tags:
   - Environmental Quality
   - 'Health: Open space'
   - Community health
+zip: '90029'
+neighborhood: East Hollywood (Los Angeles)
 
 ---

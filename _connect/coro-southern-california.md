@@ -156,5 +156,7 @@ aidens_tags:
   - 'Social Connectedness: Underserved communities'
   - Volunteerism
   - Neighborhood councils
+zip: '90015'
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

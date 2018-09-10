@@ -143,5 +143,6 @@ aidens_tags:
   - Underserved communities
   - Small business
   - Women’s advocacy
+neighborhood: Hancock Park (Los Angeles)
 
 ---

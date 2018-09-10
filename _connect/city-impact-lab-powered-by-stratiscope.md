@@ -117,5 +117,6 @@ project_image: city-impact-lab-powered-by-stratiscope.jpg
 year: 2018
 aidens_tags:
   - 'Social Connectedness: Underserved communities'
+zip: '94965'
 
 ---

@@ -117,5 +117,6 @@ uri: /live/lumos-transforms/
 order: 2
 project_image: lumos-transforms.jpg
 year: 2018
+zip: '20002'
 
 ---

@@ -161,5 +161,7 @@ aidens_tags:
   - 'Income and Employment: Financial management'
   - Poverty
   - Underserved communities
+zip: '90066'
+neighborhood: Culver City
 
 ---

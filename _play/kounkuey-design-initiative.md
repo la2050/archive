@@ -216,5 +216,7 @@ aidens_tags:
   - Environmental Quality
   - 'Social Connectedness: Public space'
   - Underserved communities
+zip: '90048'
+neighborhood: Los Angeles (Mid-City West)
 
 ---

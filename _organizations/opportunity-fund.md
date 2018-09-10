@@ -114,5 +114,6 @@ aidens_tags:
   - 'Income and Employment: Entrepreneurship'
   - Small business
   - Training and development
+neighborhood: Chinatown (Los Angeles)
 
 ---

@@ -128,5 +128,6 @@ aidens_tags:
   - 'Social Connectedness: STEM'
   - Youth
   - Underserved communities
+neighborhood: Arlington Heights (Los Angeles)
 
 ---

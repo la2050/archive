@@ -120,5 +120,7 @@ aidens_tags:
   - Ecosystems
   - Public space
   - Sustainability
+zip: '90014'
+neighborhood: Downtown Arts District (Los Angeles)
 
 ---

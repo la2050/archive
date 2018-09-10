@@ -157,5 +157,6 @@ aidens_tags:
   - Diversity
   - Immigration/Immigrants
   - Underserved communities
+neighborhood: 'Commerce, City of'
 
 ---

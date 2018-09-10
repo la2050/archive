@@ -150,5 +150,6 @@ aidens_tags:
   - 'Social Connectedness: Green technology'
   - Sustainability
   - Volunteerism
+neighborhood: Cypress Park (Los Angeles)
 
 ---

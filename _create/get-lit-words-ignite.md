@@ -136,5 +136,7 @@ aidens_tags:
   - Career readiness
   - Mentorship
   - Training and development
+zip: '90013'
+neighborhood: Downtown Central (Los Angeles)
 
 ---

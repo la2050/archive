@@ -135,7 +135,7 @@ function is_valid_url(url) {
   return url.match(/^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/);
 }
 
-function processFile(filename, projects, organizations) {
+function processFile(filename, projects, organizations, neighborhoods) {
 
   // Load the contents of the file
   let data = loadMarkdown(filename);
@@ -168,16 +168,20 @@ function processFile(filename, projects, organizations) {
 
     if (organization) {
 
-      // if (organization.zip && organization.zip != "" && organization.zip != "0") {
-      //   data.yaml.zip = organization.zip
-      // } else {
-      //   console.log("no zip found for organization: ")
-      //   console.dir(organization)
-      // }
+      if (organization.zip && organization.zip != "" && organization.zip != "0") {
+        data.yaml.zip = organization.zip
+        let match = neighborhoods.filter(item => item.zip.indexOf(organization.zip.split("-")[0]) >= 0)[0]
+        console.dir(match)
+        if (match) data.yaml.neighborhood = match.neighborhood
+      } else {
+        console.log("no zip found for organization: ")
+        // console.dir(organization)
+      }
 
       // if (organization.charity_navigator_url && organization.charity_navigator_url != "" && organization.charity_navigator_url != "0") {
       //   data.yaml.charity_navigator_url = organization.charity_navigator_url
       // }
+ 
 
       if (organization.aidens_tags && organization.aidens_tags != "" && organization.aidens_tags != "0") {
         let tags = organization.aidens_tags.split(",");
@@ -338,10 +342,13 @@ function updateMarkdownFiles(folder) {
   let organizationsInput = fs.readFileSync('../_data/organizations.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let organizations = parse(organizationsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
+  let neighborhoodsInput = fs.readFileSync('../_data/neighborhoods.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let neighborhoods = parse(neighborhoodsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
   for (let index = 0; index < files.length; index++) {
     if (files[index].indexOf('.DS_Store') >= 0) continue;
 
-    processFile(files[index], projects, organizations);
+    processFile(files[index], projects, organizations, neighborhoods);
   }
 }
 

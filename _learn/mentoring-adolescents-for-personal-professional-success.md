@@ -162,5 +162,7 @@ aidens_tags:
   - Underserved youth
   - Training and development
   - Youth
+zip: '91105'
+neighborhood: Pasadena
 
 ---

@@ -130,5 +130,7 @@ aidens_tags:
   - 'Social Connectedness: Homelessness'
   - Inclusion
   - Neighborhood councils
+zip: '90033'
+neighborhood: Boyle Heights (Los Angeles)
 
 ---

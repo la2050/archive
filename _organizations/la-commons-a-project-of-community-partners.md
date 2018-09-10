@@ -212,5 +212,6 @@ aidens_tags:
   - Affordable housing
   - Neighborhood councils
   - Underserved youth
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

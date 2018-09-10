@@ -128,5 +128,7 @@ year: 2018
 aidens_tags:
   - 'Social Connectedness: Underserved communities'
   - Media
+zip: '90747'
+neighborhood: Carson (California State Univ Dominguez Hills)
 
 ---

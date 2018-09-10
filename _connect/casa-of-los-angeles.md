@@ -102,5 +102,7 @@ year: 2018
 aidens_tags:
   - 'Social Connectedness: Volunteerism'
   - Foster care
+zip: '90068'
+neighborhood: Hollywood (Los Angeles)
 
 ---

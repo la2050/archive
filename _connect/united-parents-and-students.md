@@ -179,5 +179,7 @@ aidens_tags:
   - Policy
   - Communities of color
   - Training and development
+zip: '90057'
+neighborhood: Los Angeles (Westlake)
 
 ---

@@ -133,5 +133,7 @@ aidens_tags:
   - Underserved communities
   - Community health
   - Technology
+zip: '90017'
+neighborhood: Downtown Bunker Hill (Los Angeles)
 
 ---

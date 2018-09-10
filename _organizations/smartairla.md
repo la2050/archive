@@ -206,5 +206,6 @@ aidens_tags:
   - Health
   - 'Environmental Quality: Community health'
   - Green technology
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---

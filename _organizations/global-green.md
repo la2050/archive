@@ -158,5 +158,6 @@ aidens_tags:
   - 'Social Connectedness: Sustainability'
   - Underserved communities
   - Volunteerism
+neighborhood: Ocean Park (Santa Monica)
 
 ---

@@ -130,5 +130,7 @@ aidens_tags:
   - Innovation
   - Creative Industry
   - Communities of color
+zip: '90012'
+neighborhood: Chinatown (Los Angeles)
 
 ---

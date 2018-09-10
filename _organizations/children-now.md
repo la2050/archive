@@ -157,5 +157,6 @@ aidens_tags:
   - 'Social Connectedness: Children'
   - Underserved youth
   - Youth
+neighborhood: Griffith Park (Los Angeles)
 
 ---

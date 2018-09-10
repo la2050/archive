@@ -139,5 +139,6 @@ project_image: mayors-fund-for-los-angeles.jpg
 year: 2018
 aidens_tags:
   - 'Social Connectedness: Volunteerism'
+zip: '20001'
 
 ---

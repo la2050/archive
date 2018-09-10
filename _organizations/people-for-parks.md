@@ -172,5 +172,6 @@ aidens_tags:
   - 'Social Connectedness: Underserved communities'
   - Public space
   - Underserved youth
+neighborhood: Downtown Central (Los Angeles)
 
 ---

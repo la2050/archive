@@ -195,5 +195,6 @@ aidens_tags:
   - Policy
   - Communities of color
   - Training and development
+neighborhood: Los Angeles (Westlake)
 
 ---

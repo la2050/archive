@@ -123,5 +123,7 @@ aidens_tags:
   - Tutoring
   - Underserved youth
   - Volunteerism
+zip: '90012'
+neighborhood: Chinatown (Los Angeles)
 
 ---

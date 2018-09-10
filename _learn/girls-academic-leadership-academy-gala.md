@@ -126,5 +126,7 @@ aidens_tags:
   - Homelessness
   - Training and development
   - Medicine
+zip: '90291'
+neighborhood: Los Angeles (Venice)
 
 ---

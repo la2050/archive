@@ -119,5 +119,7 @@ aidens_tags:
   - 'Income and Employment: Small business'
   - Entrepreneurship
   - Technology
+zip: '90021'
+neighborhood: Downtown Fashion District (Los Angeles)
 
 ---
