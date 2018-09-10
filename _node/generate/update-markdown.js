@@ -346,7 +346,7 @@ function updateMarkdownFiles(folder) {
   let projectsInput = fs.readFileSync('../_data/projects-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let projects = parse(projectsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
-  let organizationsInput = fs.readFileSync('../_data/organizations.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let organizationsInput = fs.readFileSync('../_data/organizations-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let organizations = parse(organizationsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   let neighborhoodsInput = fs.readFileSync('../_data/neighborhoods.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
