@@ -296,42 +296,6 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
-{% if page.zip %}
-<hr style="opacity: 0" />
-<h2 style="
-text-align: left;
-justify-self: start;
-max-width: none;
-margin-bottom: 3rem;
-text-transform: uppercase;
-font-weight: 600;
-letter-spacing: 0.05em;
-color: rgb(41, 41, 41) !important;
-font-size: 1.25em;
-line-height: 1;">Where we work: <a style="margin-left: 0.75em; text-decoration: none; text-transform: none; color: var(--primary-color);" href="https://maps.google.com/maps?q={{ page.zip | split: '-' | first }}">{% if page.neighborhood %}<span style="text-decoration: underline;">{{ page.neighborhood }}</span> <small style="text-decoration: none; color: rgb(41, 41, 41); opacity: 0.5; margin-left: 0.75em">{{ page.zip | split: '-' | first }}</small>{% else %}<span style="text-decoration: underline;">{{ page.zip | split: '-' | first }}</span>{% endif %}</a></h2>
-
-
-<style>
-iframe.google-map {
-  margin-left: -1.5em;
-  margin-right: -1.5em;
-  width: 100vw !important;
-}
-@media (min-width: 40em) {
-  iframe.google-map {
-    margin-left: -4.5em;
-    margin-right: -4.5em;
-  }
-}
-</style>
-
-<iframe class="google-map" src="https://maps.google.com/maps?q={{ page.zip | split: '-' | first }}&z=13&ie=UTF8&output=embed" width="800" height="600" frameborder="0" style="border:0; width: 100%; grid-column: 1/-1;" allowfullscreen></iframe>
-
-{% endif %}
-
-
-
-<hr style="opacity: 0" />
 <h2 style="text-align: left; justify-self: start; max-width: none; margin-bottom: 3rem; 
 text-transform: uppercase;
 font-weight: 600;
@@ -453,6 +417,48 @@ margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
   </li>
 </ul>
 {% endfor %}
+
+
+
+
+
+
+{% if page.zip %}
+<hr />
+<h2 style="
+text-align: left;
+justify-self: start;
+max-width: none;
+margin-bottom: 3rem;
+text-transform: uppercase;
+font-weight: 600;
+letter-spacing: 0.05em;
+color: rgb(41, 41, 41) !important;
+font-size: 1.25em;
+line-height: 1;">Where we work: <a style="margin-left: 0.75em; text-decoration: none; text-transform: none; color: var(--primary-color);" href="https://maps.google.com/maps?q={{ page.zip | split: '-' | first }}">{% if page.neighborhood %}<span style="text-decoration: underline;">{{ page.neighborhood }}</span> <small style="text-decoration: none; color: rgb(41, 41, 41); opacity: 0.5; margin-left: 0.75em">{{ page.zip | split: '-' | first }}</small>{% else %}<span style="text-decoration: underline;">{{ page.zip | split: '-' | first }}</span>{% endif %}</a></h2>
+
+
+<style>
+iframe.google-map {
+  margin-left: -1.5em;
+  margin-right: -1.5em;
+  width: 100vw !important;
+}
+@media (min-width: 40em) {
+  iframe.google-map {
+    margin-left: -4.5em;
+    margin-right: -4.5em;
+  }
+}
+</style>
+
+<iframe class="google-map" src="https://maps.google.com/maps?q={{ page.zip | split: '-' | first }}&z=13&ie=UTF8&output=embed" width="800" height="600" frameborder="0" style="border:0; width: 100%; grid-column: 1/-1;" allowfullscreen></iframe>
+
+{% endif %}
+
+
+
+
 
 
 
@@ -664,7 +670,7 @@ font-weight: 600;
 letter-spacing: 0.05em;
 color: rgb(41, 41, 41) !important;
 font-size: 1.25em;
-line-height: 1;">Tags</h2>
+line-height: 1;">Find similar organizations</h2>
 <details class="tags" style="margin-bottom: 3em;" open>
 <summary>
 <h2 style="display: none;"><strong>Browse</strong> related organizations</h2>
