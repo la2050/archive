@@ -38,7 +38,7 @@
 </svg>
 </dt>
 <dd>
-  <a href="{{ website_url }}">
+  <a href="{{ website_url }}" target="_blank">
     {{
       website 
       | replace: "https://", ""
@@ -89,7 +89,7 @@
   </svg>
 </dt>
 <dd>
-  <a href="{{ instagram_url }}">@{{ instagram | replace: "https://www.instagram.com/", "" | replace: "https://instagram.com/", "" | replace: "www.instagram.com/", "" | replace: "instagram.com/", "" | replace: "/", "" | replace: "@", "" }}</a>
+  <a href="{{ instagram_url }}" target="_blank">@{{ instagram | replace: "https://www.instagram.com/", "" | replace: "https://instagram.com/", "" | replace: "www.instagram.com/", "" | replace: "instagram.com/", "" | replace: "/", "" | replace: "@", "" }}</a>
 </dd>
 {% endif %}
 {% endfor %}
@@ -128,7 +128,7 @@
   </svg>
 </dt>
 <dd>
-  <a href="{{ twitter_url }}">@{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }}</a>
+  <a href="{{ twitter_url }}" target="_blank">@{{ twitter | replace: "https://www.twitter.com/", "" | replace: "https://twitter.com/", "" | replace: "www.twitter.com/", "" | replace: "twitter.com/", "" | replace: "/", "" | replace: "@", "" }}</a>
 </dd>
 {% endif %}
 {% endfor %}
@@ -167,7 +167,7 @@
   </svg>
 </dt>
 <dd>
-  <a href="{{ facebook_url }}">{{ facebook | replace: "https://www.facebook.com/", "" | replace: "https://facebook.com/", "" | replace: "www.facebook.com/", "" | replace: "facebook.com/", "" | replace: "/", "" | replace: "@", "" }}</a>
+  <a href="{{ facebook_url }}" target="_blank">{{ facebook | replace: "https://www.facebook.com/", "" | replace: "https://facebook.com/", "" | replace: "www.facebook.com/", "" | replace: "facebook.com/", "" | replace: "/", "" | replace: "@", "" }}</a>
 </dd>
 {% endif %}
 {% endfor %}
@@ -176,7 +176,7 @@
 {% endif %}
 
 
-{% if page.charity_navigator_url %}
+{% if page.charity_navigator_url and page.organization_description == "Non-profit organization" %}
 <dl>
 
 <dt>
@@ -189,7 +189,7 @@
 </svg>
 </dt>
 <dd>
-  <a href="{{ page.charity_navigator_url }}">charitynavigator.org</a>
+  <a href="{{ page.charity_navigator_url }}" target="_blank">charitynavigator.org</a>
 </dd>
 
 </dl>
