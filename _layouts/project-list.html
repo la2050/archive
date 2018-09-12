@@ -385,6 +385,22 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 </ul>
 </details>
 
+
+{% comment %}
+<details class="tags" style="margin-bottom: 3em;" open>
+<summary>
+<h2><strong>Browse</strong> by tag</h2>
+</summary>
+<ul class="action">
+{% for item in site.data.tags %}
+  {% assign font_scale_factor = item.count | times: 1.0 | divided_by: site.data.tags.size | times: 10 | plus: 1 %}
+  <li><a href="/search/?keywords={{ item.tag }}" {% if item.count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ item.tag }}</a></li>
+{% endfor %}
+</ul>
+</details>
+{% endcomment %}
+
+
 <script>
 (function() {
   function containsAnyKeyword(keywordList, string) {
@@ -426,7 +442,6 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   }
 })()
 </script>
-
 {% endif %}
 
 

@@ -4,6 +4,7 @@
 let fs = require('fs');
 let parse = require('csv-parse/lib/sync');
 let yaml = require('js-yaml');
+let mkdirp = require('mkdirp');
 
 function getYaml(text, filename) {
   const DELIMITER = '---';
@@ -129,6 +130,134 @@ function is_valid_url(url) {
   return url.match(/^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/);
 }
 
+/*
+// KUDOS: https://stackoverflow.com/questions/13006556/check-if-two-strings-share-a-common-substring-in-javascript
+// Note: not fully tested, there may be bugs:
+function subCompare (needle, haystack, min_substring_length) {
+
+    // Min substring length is optional, if not given or is 0 default to 1:
+    min_substring_length = min_substring_length || 1;
+
+    // Search possible substrings from largest to smallest:
+    for (let i=needle.length; i>=min_substring_length; i--) {
+        for (let j=0; j <= (needle.length - i); j++) {
+            let substring = needle.substr(j,i);
+            let k = haystack.indexOf(substring);
+            if (k != -1) {
+                return {
+                    found : 1,
+                    substring : substring,
+                    needleIndex : j,
+                    haystackIndex : k
+                }
+            }
+        }
+    }
+    return {
+        found : 0
+    }
+}
+
+function collapseSimilarTags(tags, counts) {
+  const similarity = 3 // https://en.wikipedia.org/wiki/Levenshtein_distance
+
+  let collapsedTags = []
+  let collapsedTagCounts = counts
+  tags.forEach(tag => {
+    collapsedTags.forEach(toCompare => {
+      if (tag === toCompare)
+      let compare = subCompare(tag, toCompare, similarity)
+      if (compare.found === 1) {
+        similarValues.push(value)
+      }
+
+    })
+  })
+}
+*/
+
+function generateTagJSON(organizations) {
+  let writePath = '../_data';
+
+  let tags = [];
+  for (let index = 0; index < organizations.length; index++) {
+
+    // Load the contents of the file
+    let data = loadMarkdown(organizations[index]);
+
+    if (data.yaml.aidens_tags) {
+      tags = tags.concat(data.yaml.aidens_tags);
+    }
+  }
+
+  let simpleTags = []
+  tags.forEach(tag => {
+    if (tag.includes(":")) {
+      let bits = tag.split(":");
+      bits.forEach(bit => { 
+        if (tag.includes(".")) {
+          let microbits = tag.split(".");
+          microbits.forEach(microbit => { 
+            simpleTags.push(microbit.trim())
+          })
+        } else {
+          simpleTags.push(bit.trim())
+        }
+      })
+    } else {
+      simpleTags.push(tag.trim())
+    }
+  })
+
+  let tagCounts = {}
+  let uniqueTags = simpleTags.filter(function(tag) {
+    let name = tag.toLowerCase();
+    if (!tagCounts[name]) {
+      tagCounts[name] = 1;
+      return true;
+    } else {
+      tagCounts[name]++;
+      return false;
+    }
+  });
+
+  // let uniqueTags = collapseSimilarTags(uniqueTags, tagCounts);
+
+  uniqueTags.sort(function(a, b) {
+    if (a < b) {
+      return -1;
+    }
+    if (a > b) {
+      return 1;
+    }
+    // a must be equal to b
+    return 0;
+  });
+
+  let uniqueTagWithCounts = []
+  uniqueTags.forEach(tag => {
+    console.log(`${tag}: ${tagCounts[tag.toLowerCase()]}`);
+    uniqueTagWithCounts.push({
+      tag: tag,
+      count: tagCounts[tag.toLowerCase()]
+    })
+  })
+
+  let output = JSON.stringify(uniqueTagWithCounts, null, 4);
+
+  mkdirp(writePath, function (err) {
+    if (err) {
+      console.error(err);
+    } else {
+      fs.writeFileSync(writePath + '/' + 'tags.json', output, 'utf8', (err) => {
+        if (err) {
+          console.log(err);
+        }
+      });
+    }
+  });
+}
+
 function processFile(filename, projects, organizations, neighborhoods) {
 
   // Load the contents of the file
@@ -167,11 +296,14 @@ function processFile(filename, projects, organizations, neighborhoods) {
   // }
 
 
+
+
+
   if (organization) {
     if (organization.zip && organization.zip != "" && organization.zip != "0") {
       data.yaml.zip = organization.zip
       let match = neighborhoods.filter(item => item.zip.indexOf(organization.zip.split("-")[0]) >= 0)
-      console.dir(match)
+      // console.dir(match)
       // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
       if (match && match.length > 0) {
         data.yaml.neighborhood = match[0].neighborhood
@@ -181,7 +313,7 @@ function processFile(filename, projects, organizations, neighborhoods) {
           .replace(" (Los Angeles)", "")
       }
     } else {
-      console.log("no zip found for organization: ")
+      // console.log("no zip found for organization: ")
       // console.dir(organization)
     }
 
@@ -199,7 +331,7 @@ function processFile(filename, projects, organizations, neighborhoods) {
       }
     }
 
-    console.log("------------")
+    // console.log("------------")
 
     saveMarkdown(filename, data);
   }
@@ -224,8 +356,7 @@ function getAllFilesFromFolder(dir) {
 
     });
 
-    return results;
-
+    return results.filter(filename => !filename.includes('.DS_Store'));
 };
 
 function updateMarkdownFiles(folder) {
@@ -242,13 +373,13 @@ function updateMarkdownFiles(folder) {
   let neighborhoodsInput = fs.readFileSync('../_data/neighborhoods.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let neighborhoods = parse(neighborhoodsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
-  console.dir(neighborhoods);
+  // console.dir(neighborhoods);
 
   for (let index = 0; index < files.length; index++) {
-    if (files[index].indexOf('.DS_Store') >= 0) continue;
-
     processFile(files[index], projects, organizations, neighborhoods);
   }
+
+  generateTagJSON(files);
 }
 
 updateMarkdownFiles('organizations');
