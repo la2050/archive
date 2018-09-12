@@ -50,7 +50,7 @@ function loadMarkdown(filename) {
   }
 }
 
-let writtenFileNames = {}
+let writtenData = {}
 
 
 /**
@@ -110,19 +110,18 @@ projects:
   ]
 
 
-
   let names = filepath.split("/");
   let filename = names[names.length - 1];
 
-  if (writtenFileNames[filename]) {
+  if (writtenData[filename]) {
     console.log(`duplicate file name detected: ${filename}`);
+    let projects = data.yaml.projects.concat(writtenData[filename].yaml.projects);
 
-    data.yaml.projects = data.yaml.projects.concat(writtenFileNames[filename]);
+    if (writtenData[filename].yaml.year > data.yaml.year) {
+      data = writtenData[filename]
+    }
 
-    writtenFileNames[filename] = data.yaml.projects;
-
-  } else {
-    writtenFileNames[filename] = data.yaml.projects;
+    data.yaml.projects = projects;
   }
 
 
@@ -137,12 +136,14 @@ ${yaml.safeDump(data.yaml)}
 //console.log(output);
 //return;
 
-
   fs.writeFileSync(`../_organizations/${filename}`, output, 'utf8', (err) => {
     if (err) {
       console.log(err);
     }
   });
+
+
+  writtenData[filename] = data;
 }
 
 function getArrayFromString(string) {

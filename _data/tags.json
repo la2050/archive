@@ -9,15 +9,15 @@
     },
     {
         "tag": "Arts and Cultural Vitality",
-        "count": 30
+        "count": 31
     },
     {
         "tag": "Arts and culture",
-        "count": 20
+        "count": 21
     },
     {
         "tag": "Career readiness",
-        "count": 5
+        "count": 6
     },
     {
         "tag": "Children",
@@ -29,7 +29,7 @@
     },
     {
         "tag": "Communities of color",
-        "count": 11
+        "count": 12
     },
     {
         "tag": "Community health",
@@ -37,7 +37,7 @@
     },
     {
         "tag": "Creative Industry",
-        "count": 9
+        "count": 10
     },
     {
         "tag": "Crime",
@@ -69,7 +69,7 @@
     },
     {
         "tag": "Education",
-        "count": 42
+        "count": 43
     },
     {
         "tag": "Emergency preparedness",
@@ -153,7 +153,7 @@
     },
     {
         "tag": "Income and Employment",
-        "count": 37
+        "count": 38
     },
     {
         "tag": "Innovation",
@@ -189,7 +189,7 @@
     },
     {
         "tag": "Mentorship",
-        "count": 5
+        "count": 6
     },
     {
         "tag": "Neighborhood councils",
@@ -249,7 +249,7 @@
     },
     {
         "tag": "Social Connectedness",
-        "count": 81
+        "count": 82
     },
     {
         "tag": "Sports",
@@ -281,7 +281,7 @@
     },
     {
         "tag": "Training and development",
-        "count": 9
+        "count": 10
     },
     {
         "tag": "Tutoring",
@@ -297,7 +297,7 @@
     },
     {
         "tag": "Underserved youth",
-        "count": 16
+        "count": 17
     },
     {
         "tag": "Veteran services",
@@ -313,6 +313,6 @@
     },
     {
         "tag": "Youth",
-        "count": 26
+        "count": 27
     }
 ]
