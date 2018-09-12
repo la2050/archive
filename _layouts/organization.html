@@ -209,7 +209,7 @@ document.body.classList.add("{{ primary_color }}")
 
 <h2>Learn about this organization’s budget, leadership and mission</h2>
 
-<p style="margin-top: 0.375em;">
+<p style="margin-top: 0.75em;">
   <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display: inline; width: 1em; height: 1em; margin-right: 0.375em; vertical-align: middle;">
     <title>Charity Navigator</title>
     <switch>
@@ -320,11 +320,13 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
-<h2 style="text-align: left; justify-self: start; max-width: none; margin-bottom: 3rem; 
+<h2 style="text-align: left; justify-self: start; max-width: none;
 text-transform: uppercase;
 font-weight: 600;
 letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
 font-size: 1.25em; line-height: 1;">Ideas</h2>
+<p style="grid-column: 1/-1; margin-bottom: 3rem;">Here are ideas this organization had about how to make LA a better place…</p>
+
 
 {% assign project_list = page.projects | sort: "year" | reverse %}
 
