@@ -275,6 +275,10 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% comment %} Order alphabetically {% endcomment %}
   {% assign data_list = data_list | sort: "organization_name" %}
 
+  {% comment %}
+  {% assign previously_shown_organization_names = "" | split: "," %}
+  {% endcomment %}
+
   {% for data in data_list %}
 
   {% assign do_show_item = false %}
@@ -301,7 +305,21 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   {% assign do_show_item = true %}
   {% endif %}
 
+
+  {% comment %}
+  {% for previously_shown_organization_name in previously_shown_organization_names %}
+    {% if data['organization_name'] == previously_shown_organization_name %}
+      {% assign do_show_item = false %}
+    {% endif %}
+  {% endfor %}
+  {% endcomment %}
+
+
   {% if do_show_item == true %}
+
+  {% comment %}
+  {% assign previously_shown_organization_names = previously_shown_organization_names | push: data['organization_name'] %}
+  {% endcomment %}
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
@@ -404,7 +422,7 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 <script>
 (function() {
   function containsAnyKeyword(keywordList, string) {
-    console.log("string: " + string)
+    // console.log("string: " + string)
     string = string.toLowerCase()
     for (var index = 0; index < keywordList.length; index++) {
       if (string.indexOf(keywordList[index]) >= 0) return true
@@ -568,6 +586,48 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
       });
     }
   }
+
+  function getYear(item) {
+    if (item.innerHTML.indexOf("2018") >= 0) return 2018;
+    if (item.innerHTML.indexOf("2016") >= 0) return 2016;
+    if (item.innerHTML.indexOf("2015") >= 0) return 2015;
+    if (item.innerHTML.indexOf("2014") >= 0) return 2014;
+    if (item.innerHTML.indexOf("2013") >= 0) return 2013;
+    return 2013;
+  }
+
+  function getTitle(item) {
+    var result = item.innerHTML.match(/\<h3\>([^\<]+)\<\/h3\>/)
+    if (result && result.length > 1) {
+      return result[1]
+    }
+  }
+
+  matches.sort(function (a, b) {
+    // a is less than b by some ordering criterion
+    if (getYear(a.item) > getYear(b.item)) {
+      return -1;
+    }
+    // a is greater than b by the ordering criterion
+    if (getYear(a.item) < getYear(b.item)) {
+      return 1;
+    }
+    // a must be equal to b
+    return 0;
+  });
+
+  var uniqueMatches = {}
+  matches = matches.filter(function(match) {
+    var title = getTitle(match.item)
+    if (title && !uniqueMatches[title]) {
+      uniqueMatches[title] = 1;
+      return true;
+    } else if (!title) {
+      return true;
+    } else {
+      return false;
+    }
+  })
 
   matches = shuffle(matches);
 
