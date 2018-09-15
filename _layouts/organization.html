@@ -168,7 +168,7 @@ document.body.classList.add("{{ primary_color }}")
     {% endunless %}
     {% endif %}
     {% if url_contains_notes == '' %}
-    <li><a href="{{ link_donate_url }}">Donate</a></li>
+    <li><a href="{{ link_donate_url }}" target="_blank" rel="noopener">Donate</a></li>
     {% endif %}
 
     {% endfor %}
@@ -192,7 +192,7 @@ document.body.classList.add("{{ primary_color }}")
     {% endunless %}
     {% endif %}
     {% if url_contains_notes == '' %}
-    <li><a href="{{ link_volunteer_url }}">Volunteer</a></li>
+    <li><a href="{{ link_volunteer_url }}" target="_blank" rel="noopener">Volunteer</a></li>
     {% endif %}
 
     {% endfor %}
@@ -217,7 +217,7 @@ document.body.classList.add("{{ primary_color }}")
       <foreignObject>Charity Navigator</foreignObject>
     </switch>
   </svg>
-  <a href="{{ page.charity_navigator_url }}" style="color: inherit;" target="_blank">
+  <a href="{{ page.charity_navigator_url }}" style="color: inherit;" target="_blank" rel="noopener">
     charitynavigator.org
   </a>
 </p>
@@ -403,7 +403,7 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
   <iframe src="{{ video_embed_url }}" frameborder="0" allowfullscreen style="z-index: 1;"></iframe>
 {% endif %}
 {% if project.project_video and project.project_video != '' %}
-<a href="{{ project.project_video }}" target="_blank" class="has-icon">
+<a href="{{ project.project_video }}" target="_blank" rel="noopener" class="has-icon">
 {% else %}
 <a href="{{ project.uri }}">
 {% endif %}

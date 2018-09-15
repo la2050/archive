@@ -112,7 +112,7 @@ stylesheets:
   <iframe src="{{ video_embed_url }}" frameborder="0" allowfullscreen></iframe>
 {% else %}
 {% if page.project_video and page.project_video != '' %}
-<a href="{{ page.project_video }}" target="_blank" class="has-icon">
+<a href="{{ page.project_video }}" target="_blank" rel="noopener" class="has-icon">
 {% else %}
 <a href="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}">
 {% endif %}
@@ -179,9 +179,9 @@ stylesheets:
 
 {% if site.phase == 6 and is_finalist == true %}
 {% comment %}
-<span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank">Vote </a></span>
+<span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank" rel="noopener">Vote </a></span>
  <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-<p class="action"><a href="https://jimthoburn.typeform.com/to/fGLGJB" target="_blank">Vote</a></p>
+<p class="action"><a href="https://jimthoburn.typeform.com/to/fGLGJB" target="_blank" rel="noopener">Vote</a></p>
 {% endcomment %}
 {% endif %}
 
