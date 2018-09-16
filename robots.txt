@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://activation.la2050.org/sitemap.xml
