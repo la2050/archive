@@ -7,7 +7,8 @@ ein: '951644589'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -51,7 +52,6 @@ org_summary: >-
    <p>We believe our LASA students are getting to know the region, getting to know one another, and beginning to build lasting ties to their home and one another through LASA's commitment to fostering engaged civic participation and civic education. We believe that we are off to a great start.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013189'
 title: The Huntington-USC Institute on California and the West
 uri: /organizations/the-huntington-usc-institute-on-california-and-the-west/
 challenge_url: 'http://maker.good.is/myla2050/projects/LASA.html'

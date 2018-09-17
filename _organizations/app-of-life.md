@@ -22,7 +22,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '5102108'
-organization_id_2: '2014007'
 title: App of Life
 uri: /organizations/app-of-life/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'

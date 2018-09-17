@@ -19,7 +19,6 @@ org_summary: >-
   both to inspire, empower, and see one another on a human level.
 areas_impacted: 'Central LA,East LA,South LA,South Bay,Westside'
 project_ids: '4102094'
-organization_id_2: '2014094'
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'

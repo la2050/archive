@@ -21,7 +21,6 @@ org_summary: >-
   priority.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102022'
-organization_id_2: '2015014'
 title: Art of Acting Studio
 uri: /organizations/art-of-acting-studio/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'

@@ -7,7 +7,8 @@ ein: '522076978'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522076978'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -96,7 +97,6 @@ org_summary: >-
    o Organized, drafted, and passed Just Cause Ordinance in the City
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013204'
 title: Union de Vecinos
 uri: /organizations/union-de-vecinos/
 challenge_url: 'http://maker.good.is/myla2050/projects/UVLA.html'

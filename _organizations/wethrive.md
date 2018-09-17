@@ -7,9 +7,15 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, STEM, science, inclusion, career readiness, college preparedness,
-  high school graduation, underserved communities
+tags_indicators:
+  - Education
+  - STEM
+  - science
+  - inclusion
+  - career readiness
+  - college preparedness
+  - high school graduation
+  - underserved communities
 twitter: wethrive_
 instagram: teamwethrive
 facebook: wethrive_
@@ -29,7 +35,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: ''
-organization_id_2: '2016254'
 title: WeThrive
 uri: /organizations/wethrive/
 challenge_url: >-

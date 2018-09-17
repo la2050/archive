@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: historiccore
 instagram: HistoricCore
 facebook: historiccore
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: ''
-organization_id_2: '2016100'
 title: Historic Core BID
 uri: /organizations/historic-core-bid/
 challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'

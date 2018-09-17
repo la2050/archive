@@ -7,7 +7,9 @@ ein: '262718485'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262718485'
 ntee_type: ''
-tags_indicators: 'Health: Healthy food, Food inequality'
+tags_indicators:
+  - 'Health: Healthy food'
+  - Food inequality
 twitter: '@MyFriendsHse'
 instagram: '0'
 facebook: 'https://www.facebook.com/My-Friends-House-Inc-436222196498017/'
@@ -21,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102087'
-organization_id_2: '2018087'
 title: 'My Friends House, Inc.'
 uri: /organizations/my-friends-house-inc/
 challenge_url: 'https://activation.la2050.org/live/my-friends-house-inc/'

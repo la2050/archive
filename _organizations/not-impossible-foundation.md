@@ -7,7 +7,10 @@ ein: '451601262'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451601262'
 ntee_type: ''
-tags_indicators: 'Health: Technology, Food inequality, Healthy food'
+tags_indicators:
+  - 'Health: Technology'
+  - Food inequality
+  - Healthy food
 twitter: '@NotImpossible'
 instagram: NotImpossible
 facebook: NotImpossible
@@ -25,7 +28,6 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102090'
-organization_id_2: '2018090'
 title: Not Impossible Foundation
 uri: /organizations/not-impossible-foundation/
 challenge_url: 'https://activation.la2050.org/live/not-impossible-foundation/'

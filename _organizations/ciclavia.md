@@ -7,9 +7,13 @@ ein: '273428380'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273428380'
 ntee_type: ''
-tags_indicators: >-
-  Health, Environmental Quality, Social Connectedness: Inclusion, Diversity,
-  Public space, Community health
+tags_indicators:
+  - Health
+  - Environmental Quality
+  - 'Social Connectedness: Inclusion'
+  - Diversity
+  - Public space
+  - Community health
 twitter: '@ciclavia'
 instagram: '@ciclavia'
 facebook: 'https://www.facebook.com/ciclavia/'
@@ -35,7 +39,6 @@ areas_impacted:
     benefit)
   - 'Northeast LA, Glendale, Culver City, Inglewood'
 project_ids: '8102021'
-organization_id_2: '2018021'
 title: CicLAvia
 uri: /organizations/ciclavia/
 challenge_url: 'https://activation.la2050.org/connect/ciclavia/'

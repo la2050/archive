@@ -19,7 +19,6 @@ org_summary: >-
   to go car-free for just one day.
 areas_impacted: 'Central LA,South LA,San Gabriel Valley,San Fernando Valley'
 project_ids: '4102215'
-organization_id_2: '2015196'
 title: The Alternative Travel Project
 uri: /organizations/the-alternative-travel-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'

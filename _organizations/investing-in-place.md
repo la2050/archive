@@ -24,7 +24,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102055'
-organization_id_2: '2018055'
 title: Investing in Place
 uri: /organizations/investing-in-place/
 challenge_url: 'https://activation.la2050.org/connect/investing-in-place/'

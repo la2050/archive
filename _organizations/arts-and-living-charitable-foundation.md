@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and culture, education'
+tags_indicators:
+  - Arts and culture
+  - education
 twitter: '@anlconnect'
 instagram: artandliving
 facebook: anlconnect
@@ -24,7 +26,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016013'
 title: Arts and Living Charitable Foundation
 uri: /organizations/arts-and-living-charitable-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/arts-connect'

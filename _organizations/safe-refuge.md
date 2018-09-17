@@ -7,9 +7,17 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Job training, mentorship, diversity, inclusion, crime, education, income and
-  employment, communities of color, volunteerism, digital literacy
+tags_indicators:
+  - Job training
+  - mentorship
+  - diversity
+  - inclusion
+  - crime
+  - education
+  - income and employment
+  - communities of color
+  - volunteerism
+  - digital literacy
 twitter: asaferefuge
 instagram: Safe-Refuge-764120340344089/
 facebook: saferefuge
@@ -24,7 +32,6 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: ''
-organization_id_2: '2016188'
 title: Safe Refuge
 uri: /organizations/safe-refuge/
 challenge_url: >-

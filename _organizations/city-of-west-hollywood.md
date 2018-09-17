@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: wehocity
 instagram: wehocity
 facebook: wehocity
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - City of West Hollywood
 project_ids: ''
-organization_id_2: '2016040'
 title: City of West Hollywood
 uri: /organizations/city-of-west-hollywood/
 challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'

@@ -22,7 +22,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102043'
-organization_id_2: '2014042'
 title: Holy Ghost Global
 uri: /organizations/holy-ghost-global/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'

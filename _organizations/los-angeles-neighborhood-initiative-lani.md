@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: LANIORG
 instagram: LosAngelesNeighborhoodInitiative
 facebook: LANIORG
@@ -26,7 +27,6 @@ areas_impacted:
   - South LA
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016138'
 title: Los Angeles Neighborhood Initiative (LANI)
 uri: /organizations/los-angeles-neighborhood-initiative-lani/
 challenge_url: >-

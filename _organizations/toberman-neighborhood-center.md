@@ -19,7 +19,6 @@ org_summary: >-
   reversing its devastating impacts.
 areas_impacted: ''
 project_ids: '4102177'
-organization_id_2: '2014212'
 title: Toberman Neighborhood Center
 uri: /organizations/toberman-neighborhood-center/
 challenge_url: ''

@@ -24,7 +24,6 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide)
 project_ids: ''
-organization_id_2: '2015075'
 title: Green Commuter
 uri: /organizations/green-commuter/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'

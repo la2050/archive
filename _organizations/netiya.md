@@ -7,7 +7,8 @@ ein: '951890769'
 zip: '91436'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890769'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: 'https://twitter.com/NetiyaLA'
 instagram: 'https://instagram.com/netiyala/'
 facebook: 'https://www.facebook.com/NetiyaLA/'
@@ -22,7 +23,6 @@ areas_impacted: >-
   Central LA,San Gabriel Valley,San Fernando Valley,Westside,County of Los
   Angeles (countywide)
 project_ids: '5102220'
-organization_id_2: '2015144'
 title: Netiya
 uri: /organizations/netiya/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'

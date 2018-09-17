@@ -7,7 +7,9 @@ ein: '472745964'
 zip: '10014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472745964'
 ntee_type: ''
-tags_indicators: 'Connectivity, Bringing together parties for collaboration'
+tags_indicators:
+  - Connectivity
+  - Bringing together parties for collaboration
 twitter: 'https://twitter.com/pandopopulus; https://twitter.com/designignites'
 instagram: ''
 facebook: >-
@@ -24,7 +26,6 @@ org_summary: >-
   than the sum of parts.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102227'
-organization_id_2: '2015150'
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 uri: /organizations/pando-populus-inc-world-studio-foundation-inc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'

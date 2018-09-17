@@ -9,7 +9,8 @@ ein: '956000790'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
 ntee_type: ''
-tags_indicators: Brings together community to provide resources for students
+tags_indicators:
+  - Brings together community to provide resources for students
 twitter: www.twitter.com/cityofwellbeing
 instagram: ''
 facebook: www.facebook.com/SantaMonicaWellbeing
@@ -23,7 +24,6 @@ org_summary: >-
   help children and families in our community thrive.
 areas_impacted: 'Westside,Other (please specify below):'
 project_ids: '5102261'
-organization_id_2: '2015174'
 title: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD

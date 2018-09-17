@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Career readiness, Economic development, Mentorship'
+tags_indicators:
+  - Career readiness
+  - Economic development
+  - Mentorship
 twitter: Launch_Code
 instagram: launchcodestl
 facebook: launchcode
@@ -22,7 +25,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016129'
 title: LaunchCode
 uri: /organizations/launchcode/
 challenge_url: 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'

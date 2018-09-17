@@ -7,7 +7,10 @@ ein: '270575032'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270575032'
 ntee_type: ''
-tags_indicators: 'Women''s STEM Education, Experience, and Training'
+tags_indicators:
+  - Women's STEM Education
+  - Experience
+  - and Training
 twitter: www.twitter.com/diygirls
 instagram: www.instagram.com/diygirlsorg
 facebook: www.facebook.com/diygirlsLA
@@ -23,7 +26,6 @@ areas_impacted: >-
   San Fernando Valley,City of Los Angeles (citywide),LAUSD,Other (please specify
   below):
 project_ids: '5102083'
-organization_id_2: '2015049'
 title: DIY Girls
 uri: /organizations/diy-girls/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'

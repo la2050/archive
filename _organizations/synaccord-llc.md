@@ -7,9 +7,10 @@ ein: '47448496'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness: Underserved communities, Neighborhood councils,
-  Inclusion
+tags_indicators:
+  - 'Social Connectedness: Underserved communities'
+  - Neighborhood councils
+  - Inclusion
 twitter: '@synaccord'
 instagram: engageyourneighborhood
 facebook: 'https://www.facebook.com/synaccord'
@@ -34,7 +35,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '5102293'
-organization_id_2: '2018115'
 title: 'Synaccord, LLC'
 uri: /organizations/synaccord-llc/
 challenge_url: 'https://activation.la2050.org/connect/synaccord-llc/'

@@ -20,7 +20,6 @@ org_summary: >-
   and economically vulnerable people in the urban center of
 areas_impacted: 'Central LA,Other:'
 project_ids: '4102086'
-organization_id_2: '2014085'
 title: St. Barnabas Senior Services aka St. Barnabas Senior Center
 uri: /organizations/st-barnabas-senior-services-aka-st-barnabas-senior-center/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'

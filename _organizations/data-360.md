@@ -7,9 +7,13 @@ ein: '813780149'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, Income and Employment: Career readiness, Education, Technology,
-  Underserved communities, Youth
+tags_indicators:
+  - Education
+  - 'Income and Employment: Career readiness'
+  - Education
+  - Technology
+  - Underserved communities
+  - Youth
 twitter: '@data360me'
 instagram: '0'
 facebook: 'https://www.facebook.com/data360solutions/'
@@ -27,7 +31,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '4102106'
-organization_id_2: '2018033'
 title: Data 360
 uri: /organizations/data-360/
 challenge_url: 'https://activation.la2050.org/learn/data-360/'

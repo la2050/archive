@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: Healthy_Prod
 instagram: healthylivingproductions
 facebook: N/A
@@ -30,7 +31,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016097'
 title: Healthy Living Productions
 uri: /organizations/healthy-living-productions/
 challenge_url: >-

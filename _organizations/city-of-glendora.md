@@ -21,7 +21,6 @@ org_summary: >-
   of community values.
 areas_impacted: 'San Gabriel Valley,Other (please specify below):'
 project_ids: '5102058'
-organization_id_2: '2015033'
 title: City of Glendora
 uri: /organizations/city-of-glendora/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'

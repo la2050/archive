@@ -20,7 +20,6 @@ areas_impacted: >-
   (countywide),City of Los Angeles (citywide),LAUSD,Other (please specify
   below):
 project_ids: '5102334'
-organization_id_2: '2015219'
 title: Unycyn Civic Arts
 uri: /organizations/unycyn-civic-arts/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: MOPLosAngeles
 instagram: MOPLA
 facebook: monthofphotola
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016142'
 title: Lucie Foundation
 uri: /organizations/lucie-foundation/
 challenge_url: >-

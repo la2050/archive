@@ -7,7 +7,10 @@ ein: '952647443'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952647443'
 ntee_type: ''
-tags_indicators: 'Education, Environmental Quality: Sustainability, Youth'
+tags_indicators:
+  - Education
+  - 'Environmental Quality: Sustainability'
+  - Youth
 twitter: '@Marvistafc'
 instagram: '@Marvistafc'
 facebook: 'https://www.facebook.com/marvistafamilycenter/'
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: '8102080'
-organization_id_2: '2018080'
 title: Mar Vista Family Center
 uri: /organizations/mar-vista-family-center/
 challenge_url: 'https://activation.la2050.org/live/mar-vista-family-center/'

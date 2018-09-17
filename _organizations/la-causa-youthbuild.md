@@ -7,7 +7,8 @@ ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -49,7 +50,6 @@ org_summary: >-
    LA CAUSA is recognized as one of unincorporated East Los Angeles's only youth services group. The opportunities and resources in the community are relatively limited while showing significant positive outcomes
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013112'
 title: LA CAUSA YouthBuild
 uri: /organizations/la-causa-youthbuild/
 challenge_url: 'http://maker.good.is/myla2050/projects/saladbowl.html'

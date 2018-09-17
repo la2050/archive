@@ -7,7 +7,8 @@ ein: '181608474'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=181608474'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -25,7 +26,6 @@ org_summary: >-
   needed gravity around which this often diffused community.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013166'
 title: 'Slake: Los Angeles'
 uri: /organizations/slake-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'

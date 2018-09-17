@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Sustainability, Green industry'
+tags_indicators:
+  - Sustainability
+  - Green industry
 twitter: havealliance
 instagram: thealliancechoice
 facebook: havealliance
@@ -20,7 +22,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '4102075'
-organization_id_2: '2016006'
 title: Alliance Building & Construction Services
 uri: /organizations/alliance-building-construction-services/
 challenge_url: >-

@@ -7,9 +7,16 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, innovation, creative intrustry, arts and culture,
-  social connectedness, community health, education, science, STEM
+tags_indicators:
+  - Arts and culture vitality
+  - innovation
+  - creative intrustry
+  - arts and culture
+  - social connectedness
+  - community health
+  - education
+  - science
+  - STEM
 twitter: Playascape
 instagram: Playascape
 facebook: letsplayascape
@@ -25,7 +32,6 @@ areas_impacted:
   - Central LA
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016145'
 title: Make Music Los Angeles
 uri: /organizations/make-music-los-angeles/
 challenge_url: >-

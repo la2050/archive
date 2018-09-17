@@ -7,7 +7,8 @@ ein: '800627841'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -23,7 +24,6 @@ org_summary: >-
   in Service Learning Projects.
 areas_impacted: ''
 project_ids: '4102027'
-organization_id_2: '2013063'
 title: ESP Empowering Services Through Partnerships
 uri: /organizations/esp-empowering-services-through-partnerships/
 challenge_url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'

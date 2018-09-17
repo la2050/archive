@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: YBBoyleHeights
 instagram: youthbuildboyleheights
 facebook: calo_yb
@@ -24,7 +25,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016033'
 title: CALO YouthBuild
 uri: /organizations/calo-youthbuild/
 challenge_url: >-

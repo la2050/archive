@@ -27,7 +27,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: ''
-organization_id_2: '2016182'
 title: Relational Medicine Foundation
 uri: /organizations/relational-medicine-foundation/
 challenge_url: >-

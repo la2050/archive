@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: ''
-organization_id_2: '2016230'
 title: The River Project
 uri: /organizations/the-river-project/
 challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'

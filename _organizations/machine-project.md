@@ -7,7 +7,8 @@ ein: '753193159'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=753193159'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -36,7 +37,6 @@ org_summary: >-
    â€¢ Supported the creation of new work by hundreds of artists. This includes direct financial support, often presenting their first solo show or first museum show and providing professional video documentation of their work. <p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013130'
 title: Machine Project
 uri: /organizations/machine-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/machineproject.html'

@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Sustainability, youth, community health, public health, green industry,
-  mentoriship
+tags_indicators:
+  - Sustainability
+  - youth
+  - community health
+  - public health
+  - green industry
+  - mentoriship
 twitter: digdeeph2o
 instagram: DigDeepWater
 facebook: digdeepwater
@@ -27,7 +31,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016064'
 title: DIGDEEP Water
 uri: /organizations/digdeep-water/
 challenge_url: >-

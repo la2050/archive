@@ -7,9 +7,13 @@ ein: '222882549'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=222882549'
 ntee_type: ''
-tags_indicators: >-
-  Education, Social Connectedness: Youth, High school graduation, Tutoring,
-  Underserved youth, Volunteerism
+tags_indicators:
+  - Education
+  - 'Social Connectedness: Youth'
+  - High school graduation
+  - Tutoring
+  - Underserved youth
+  - Volunteerism
 twitter: '@CityYearLA'
 instagram: '@cityyearla'
 facebook: 'https://www.facebook.com/groups/CityYearLA/'
@@ -30,7 +34,6 @@ areas_impacted:
   - Westside
   - LAUSD
 project_ids: '8102027'
-organization_id_2: '2018027'
 title: City Year Los Angeles
 uri: /organizations/city-year-los-angeles/
 challenge_url: 'https://activation.la2050.org/connect/city-year-los-angeles/'

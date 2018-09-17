@@ -7,7 +7,8 @@ ein: '272007326'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272007326'
 ntee_type: ''
-tags_indicators: Equipment and training for youth to supplement city resources
+tags_indicators:
+  - Equipment and training for youth to supplement city resources
 twitter: www.twitter.com/lafdfoundation
 instagram: www.instagram.com/lafdfoundation
 facebook: www.facebook.com/lafdfoundation
@@ -21,7 +22,6 @@ org_summary: >-
   resources.
 areas_impacted: 'City of Los Angeles (citywide),LAUSD'
 project_ids: '5102188'
-organization_id_2: '2015123'
 title: Los Angeles Fire Department Foundation
 uri: /organizations/los-angeles-fire-department-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'

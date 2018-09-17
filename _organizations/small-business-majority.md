@@ -7,9 +7,12 @@ ein: '30576666'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=30576666'
 ntee_type: ''
-tags_indicators: >-
-  Income and Employment, Social Connectedness: Entrepreneurship, Small business,
-  Underserved communities, Women’s advocacy
+tags_indicators:
+  - Income and Employment
+  - 'Social Connectedness: Entrepreneurship'
+  - Small business
+  - Underserved communities
+  - Women’s advocacy
 twitter: '@SmlBizMajority'
 instagram: smlbizmajority
 facebook: 'https://www.facebook.com/SmallBusinessMajority'
@@ -35,7 +38,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102109'
-organization_id_2: '2018109'
 title: Small Business Majority
 uri: /organizations/small-business-majority/
 challenge_url: 'https://activation.la2050.org/create/small-business-majority/'

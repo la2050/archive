@@ -7,7 +7,8 @@ ein: '954199692'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954199692'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -71,7 +72,6 @@ org_summary: >-
    Scholarships have traditionally taken place in the summers, but this past fall, HP has an unprecedented 8 students participating in advanced programs - 6 at Art Centerâ€™s Saturday High and their college-level program Art Center at Night; one at the Taper, one in Ryman Arts.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013188'
 title: The HeArt Project
 uri: /organizations/the-heart-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/theheartproject.html'

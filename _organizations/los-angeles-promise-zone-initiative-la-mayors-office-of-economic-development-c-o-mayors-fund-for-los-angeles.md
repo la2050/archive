@@ -21,7 +21,6 @@ org_summary: >-
   our efforts and resources to empower families.
 areas_impacted: Central LA
 project_ids: '5102193'
-organization_id_2: '2015128'
 title: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
   c/o Mayor's Fund for Los Angeles

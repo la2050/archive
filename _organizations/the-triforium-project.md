@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: triforiumla
 instagram: triforiumproject
 facebook: triforiumproject
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: ''
-organization_id_2: '2016233'
 title: The Triforium Project
 uri: /organizations/the-triforium-project/
 challenge_url: >-

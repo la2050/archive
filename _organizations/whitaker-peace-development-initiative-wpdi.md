@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Community health, diversity, public safety'
+tags_indicators:
+  - Community health
+  - diversity
+  - public safety
 twitter: connectWPDI
 instagram: WhitakerPeace
 facebook: whitaker_peace
@@ -22,7 +25,6 @@ areas_impacted:
   - Gateway Cities
   - LAUSD
 project_ids: ''
-organization_id_2: '2016255'
 title: Whitaker Peace & Development Initiative (WPDI)
 uri: /organizations/whitaker-peace-development-initiative-wpdi/
 challenge_url: >-

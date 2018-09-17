@@ -21,7 +21,6 @@ org_summary: >-
   adults.
 areas_impacted: 'South LA,Other (please specify below):'
 project_ids: '5102054'
-organization_id_2: '2015032'
 title: Children's Bureau of Southern California
 uri: /organizations/childrens-bureau-of-southern-california/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'

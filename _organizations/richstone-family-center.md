@@ -7,7 +7,10 @@ ein: '237373745'
 zip: '90250'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237373745'
 ntee_type: ''
-tags_indicators: 'Child Abuse, Child Wellness, Educating/strengthening families'
+tags_indicators:
+  - Child Abuse
+  - Child Wellness
+  - Educating/strengthening families
 twitter: richstonefamily
 instagram: richstonefamily
 facebook: richstonefamily
@@ -23,7 +26,6 @@ areas_impacted:
   - South LA
   - South Bay
 project_ids: ''
-organization_id_2: '2016184'
 title: Richstone Family Center
 uri: /organizations/richstone-family-center/
 challenge_url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'

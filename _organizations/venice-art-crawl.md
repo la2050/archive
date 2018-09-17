@@ -7,7 +7,8 @@ ein: '956419214'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956419214'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -30,7 +31,6 @@ org_summary: >-
    Alternatively, SGA has worked a lot with rain barrels, designing and implementing the first and only rain barrel program of its kind through Mar Vista. There, they promoted and installed 600 rain barrels in the neighborhood, resulting in 33,000 gallons of water conserved every rainfall.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013213'
 title: Venice Art Crawl
 uri: /organizations/venice-art-crawl/
 challenge_url: 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'

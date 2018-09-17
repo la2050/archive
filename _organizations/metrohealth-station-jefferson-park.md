@@ -20,7 +20,6 @@ org_summary: >-
   medical, dental, and emotional care facility for South LA residents.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2014177'
 title: MetroHealth Station - Jefferson Park
 uri: /organizations/metrohealth-station-jefferson-park/
 challenge_url: ''

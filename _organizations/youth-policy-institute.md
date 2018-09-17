@@ -21,7 +21,6 @@ org_summary: >-
   transition from cradle to college and career.
 areas_impacted: 'Central LA, LAUSD, San Fernando Valley, City of LA'
 project_ids: '8102140'
-organization_id_2: '2018140'
 title: Youth Policy Institute
 uri: /organizations/youth-policy-institute/
 challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'

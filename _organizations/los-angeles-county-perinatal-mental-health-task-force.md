@@ -7,7 +7,8 @@ ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -62,7 +63,6 @@ org_summary: >-
    The Task Force is a project of 501(c)3 fiscal sponsor, Community Partners.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013123'
 title: Los Angeles County Perinatal Mental Health Task Force
 uri: /organizations/los-angeles-county-perinatal-mental-health-task-force/
 challenge_url: 'http://maker.good.is/myla2050/projects/SpeakUp.html'

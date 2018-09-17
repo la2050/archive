@@ -7,10 +7,16 @@ ein: '463169840'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Education, Social Connectedness: Public space,
-  Children, Youth, Science, Diversity, Immigration/Immigrants, Underserved
-  communities
+tags_indicators:
+  - Environmental Quality
+  - Education
+  - 'Social Connectedness: Public space'
+  - Children
+  - Youth
+  - Science
+  - Diversity
+  - Immigration/Immigrants
+  - Underserved communities
 twitter: '["@altaseaorg","@lamitopsail","@marionc82937170"]'
 instagram: '["@surfbusfoundation","@altasea","@tallshipschool","@surf_academy,"]'
 facebook: 'https://www.facebook.com/The-Surf-Bus-Foundation-170696492986174/'
@@ -39,7 +45,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102114'
-organization_id_2: '2018114'
 title: Surf Bus Foundation
 uri: /organizations/surf-bus-foundation/
 challenge_url: 'https://activation.la2050.org/play/surf-bus-foundation/'

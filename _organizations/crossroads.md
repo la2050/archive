@@ -19,7 +19,6 @@ org_summary: >-
   providing comprehensive services in a home-like environment.
 areas_impacted: 'Other:'
 project_ids: '4102025'
-organization_id_2: '2014024'
 title: Crossroads
 uri: /organizations/crossroads/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/FFFRW.html'

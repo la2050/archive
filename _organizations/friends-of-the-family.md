@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: fofca_org
 instagram: fofca
 facebook: friendsofthefamilyca
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: ''
-organization_id_2: '2016084'
 title: Friends of the Family
 uri: /organizations/friends-of-the-family/
 challenge_url: >-

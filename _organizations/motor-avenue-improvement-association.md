@@ -20,7 +20,6 @@ org_summary: >-
   its community-based operation and educational programs.
 areas_impacted: 'Westside,LAUSD,Other (please specify below):'
 project_ids: '5102210'
-organization_id_2: '2015139'
 title: Motor Avenue Improvement Association
 uri: /organizations/motor-avenue-improvement-association/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'

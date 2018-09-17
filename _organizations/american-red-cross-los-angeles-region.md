@@ -24,7 +24,6 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide)
 project_ids: '5102015'
-organization_id_2: '2015008'
 title: American Red Cross Los Angeles Region
 uri: /organizations/american-red-cross-los-angeles-region/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'

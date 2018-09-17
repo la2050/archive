@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, career readinesss, youth, children, parents'
+tags_indicators:
+  - Education
+  - career readinesss
+  - youth
+  - children
+  - parents
 twitter: '@ProyectoNews'
 instagram: ProyectoPastoral
 facebook: proyectopastoral
@@ -22,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: ''
-organization_id_2: '2016178'
 title: Proyecto Pastoral
 uri: /organizations/proyecto-pastoral/
 challenge_url: >-

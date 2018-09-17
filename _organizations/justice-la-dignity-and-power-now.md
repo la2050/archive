@@ -7,9 +7,13 @@ ein: '463064675'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463064675'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Public Safety, Social Connectedness: Crime,
-  Underserved communities, Arts and culture, Communities of color
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Public Safety
+  - 'Social Connectedness: Crime'
+  - Underserved communities
+  - Arts and culture
+  - Communities of color
 twitter: www.twitter.com/JusticeLANow
 instagram: www.instagram.com/JusticeLANow
 facebook: www.facebook.com/JusticeLANow
@@ -26,7 +30,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102056'
-organization_id_2: '2018056'
 title: Justice LA | Dignity and Power Now
 uri: /organizations/justice-la-dignity-and-power-now/
 challenge_url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'

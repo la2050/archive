@@ -26,7 +26,6 @@ areas_impacted:
   - South LA
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016242'
 title: Union Rescue Mission
 uri: /organizations/union-rescue-mission/
 challenge_url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'

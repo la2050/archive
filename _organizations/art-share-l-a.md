@@ -7,7 +7,8 @@ ein: '954660373'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954660373'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -45,7 +46,6 @@ org_summary: >-
    Currently, Art Share L.A. is pursuing the creation of on going immersive and interactive art experiences through digital augment reality platforms like Aurasma in partnership with ceramic street artist, Zenka. We will create interactive, augmented reality ceramic art installations in the Arts District.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013014'
 title: Art Share L.A.
 uri: /organizations/art-share-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/artsharela.html'

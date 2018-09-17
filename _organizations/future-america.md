@@ -7,9 +7,12 @@ ein: '954425671'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425671'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Education, Social Connectedness: Arts and culture,
-  Communities of color, Youth
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Education
+  - 'Social Connectedness: Arts and culture'
+  - Communities of color
+  - Youth
 twitter: misterlatinjazz
 instagram: misterlatinjazz
 facebook: >-
@@ -28,7 +31,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102042'
-organization_id_2: '2018042'
 title: Future America
 uri: /organizations/future-america/
 challenge_url: 'https://activation.la2050.org/learn/future-america/'

@@ -7,7 +7,8 @@ ein: '270983281'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270983281'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -37,7 +38,6 @@ org_summary: >-
    <p>This project would synthesize relationships developed over several years between the members of the team by giving focus to an on-the ground experimental project.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013115'
 title: LA Riverside Country Club
 uri: /organizations/la-riverside-country-club/
 challenge_url: 'http://maker.good.is/myla2050/projects/LARiversideCC.html'

@@ -7,9 +7,12 @@ ein: '412024986'
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=412024986'
 ntee_type: ''
-tags_indicators: >-
-  Education: Education, Latino/Hispanic, Parents, Digital literacy, Training and
-  development
+tags_indicators:
+  - 'Education: Education'
+  - Latino/Hispanic
+  - Parents
+  - Digital literacy
+  - Training and development
 twitter: '@commonsense'
 instagram: '@commonsenseorg'
 facebook: 'https://www.facebook.com/commonsenselatino/'
@@ -29,7 +32,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102029'
-organization_id_2: '2018029'
 title: Common Sense
 uri: /organizations/common-sense/
 challenge_url: 'https://activation.la2050.org/learn/common-sense/'

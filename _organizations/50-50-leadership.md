@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Women''s advocacy, crime'
+tags_indicators:
+  - Women's advocacy
+  - crime
 twitter: 5050Leadership
 instagram: 5050leadership
 facebook: 5050leadership
@@ -19,7 +21,6 @@ org_summary: Promotes women's equal leadership
 areas_impacted:
   - San Gabriel Valley
 project_ids: ''
-organization_id_2: '2016003'
 title: 50/50 Leadership
 uri: /organizations/50-50-leadership/
 challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'

@@ -7,7 +7,9 @@ ein: '811715988'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811715988'
 ntee_type: ''
-tags_indicators: 'Income and Employment: Local manufacturing, Entrepreneurship'
+tags_indicators:
+  - 'Income and Employment: Local manufacturing'
+  - Entrepreneurship
 twitter: '["@wemakeitinla","@LAFoodFest","@ArtisanalLA"]'
 instagram: '["@wemakeitinla","@lafoodfest","@artisanalla"]'
 facebook: >-
@@ -30,7 +32,6 @@ areas_impacted:
     benefit)
   - 'Long Beach, Pasadena, and other neighborhoods TBD'
 project_ids: '8102079'
-organization_id_2: '2018079'
 title: MAKE IT IN LA
 uri: /organizations/make-it-in-la/
 challenge_url: 'https://activation.la2050.org/create/make-it-in-la/'

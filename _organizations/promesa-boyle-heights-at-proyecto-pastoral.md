@@ -7,7 +7,10 @@ ein: '953213958'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953213958'
 ntee_type: ''
-tags_indicators: 'Social Connectedness, Health: Community health, Underserved communities'
+tags_indicators:
+  - Social Connectedness
+  - 'Health: Community health'
+  - Underserved communities
 twitter: '@PromesaBH'
 instagram: PromesaBH
 facebook: www.facebook.com/PromesaBoyleHeights
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '8102098'
-organization_id_2: '2018098'
 title: Promesa Boyle Heights at Proyecto Pastoral
 uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
 challenge_url: >-

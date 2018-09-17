@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: uclaaghc
 instagram: uclaaghc
 facebook: uclaaghc
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016181'
 title: Regents of the University of California
 uri: /organizations/regents-of-the-university-of-california/
 challenge_url: >-

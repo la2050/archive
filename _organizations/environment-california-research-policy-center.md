@@ -8,9 +8,15 @@ ein: '680531882'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680531882'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Education, Health: Community health, Green technology,
-  Sustainability, Children, Teachers, Youth
+tags_indicators:
+  - Environmental Quality
+  - Education
+  - 'Health: Community health'
+  - Green technology
+  - Sustainability
+  - Children
+  - Teachers
+  - Youth
 twitter: >-
   ["@LAElectricBus","@EnvCalifornia","@sierraclub","@Earthjustice","@foodandwater","@JobsMoveAmerica","@IBEWlocal11"]
 instagram: >-
@@ -41,7 +47,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102037'
-organization_id_2: '2018037'
 title: Environment California Research & Policy Center
 uri: /organizations/environment-california-research-policy-center/
 challenge_url: >-

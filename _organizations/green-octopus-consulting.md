@@ -7,7 +7,8 @@ ein: '270088781'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -33,7 +34,6 @@ org_summary: >-
    &nbsp;</p>â€¢ Being the subject of Copenhagenâ€™s Bicycle Manager, Andreas Rohlâ€™s grant to study our work in Long Beach and San Diego in an effort to implement our ideas in Copenhagen.
 areas_impacted: ''
 project_ids: '5102046'
-organization_id_2: '2013085'
 title: Green Octopus Consulting
 uri: /organizations/green-octopus-consulting/
 challenge_url: 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'

@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  income and employment, job training, training and development, small business,
-  mentorship
+tags_indicators:
+  - income and employment
+  - job training
+  - training and development
+  - small business
+  - mentorship
 twitter: iconcdc
 instagram: iconcdc
 facebook: N/A
@@ -29,7 +32,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016107'
 title: ICON CDC
 uri: /organizations/icon-cdc/
 challenge_url: >-

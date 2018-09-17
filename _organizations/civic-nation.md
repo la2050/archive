@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Educaiton, publis safety, social connectedness, womens advocacy, crime,'
+tags_indicators:
+  - Educaiton
+  - publis safety
+  - social connectedness
+  - womens advocacy
+  - 'crime,'
 twitter: '@civicnation'
 instagram: N/A
 facebook: N/A
@@ -23,7 +28,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016041'
 title: Civic Nation
 uri: /organizations/civic-nation/
 challenge_url: >-

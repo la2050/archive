@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: LA_mag
 instagram: 'https://www.facebook.com/LosAngelesmag/'
 facebook: la_mag
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '5102258'
-organization_id_2: '2016137'
 title: Los Angeles Magazine
 uri: /organizations/los-angeles-magazine/
 challenge_url: >-

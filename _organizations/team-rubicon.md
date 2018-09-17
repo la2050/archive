@@ -7,10 +7,13 @@ ein: '271720480'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271720480'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Social Connectedness. Public Safety: Ecosystems,
-  Underserved communities, Veteran services, Volunteerism, Emergency
-  preparedness
+tags_indicators:
+  - Environmental Quality
+  - 'Social Connectedness. Public Safety: Ecosystems'
+  - Underserved communities
+  - Veteran services
+  - Volunteerism
+  - Emergency preparedness
 twitter: '@TeamRubicon'
 instagram: '@TeamRubicon'
 facebook: 'https://www.facebook.com/teamrubicon'
@@ -29,7 +32,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102116'
-organization_id_2: '2018116'
 title: Team Rubicon
 uri: /organizations/team-rubicon/
 challenge_url: 'https://activation.la2050.org/live/team-rubicon/'

@@ -20,7 +20,6 @@ org_summary: >-
   transdisciplinary research studio focusing on solving social problems.
 areas_impacted: ''
 project_ids: '4102187'
-organization_id_2: '2014227'
 title: Woodbury University
 uri: /organizations/woodbury-university/
 challenge_url: ''

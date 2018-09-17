@@ -7,9 +7,14 @@ ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Education, Social Connectedness: Technology,
-  Creative industry, Innovation, Digital divide, Inclusion
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Education
+  - 'Social Connectedness: Technology'
+  - Creative industry
+  - Innovation
+  - Digital divide
+  - Inclusion
 twitter: '@civicinnlab'
 instagram: civicinnovationlab
 facebook: civicinnlab
@@ -29,7 +34,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102028'
-organization_id_2: '2018028'
 title: Civic Innovation Lab
 uri: /organizations/civic-innovation-lab/
 challenge_url: 'https://activation.la2050.org/create/civic-innovation-lab/'

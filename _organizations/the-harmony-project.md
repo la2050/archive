@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture, education, children, youth, foster care, underserved
-  communities
+tags_indicators:
+  - Arts and culture
+  - education
+  - children
+  - youth
+  - foster care
+  - underserved communities
 twitter: HarmonyProject
 instagram: HarmonyProjectLA
 facebook: harmonyprojectla
@@ -24,7 +28,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016219'
 title: The Harmony Project
 uri: /organizations/the-harmony-project/
 challenge_url: >-

@@ -7,7 +7,8 @@ ein: '461700311'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -30,7 +31,6 @@ org_summary: >-
    Two years later, smartestk12 finally became more than a pet project with funding by the Wolfen Foundation. We are now getting ready to procure content for all subjects and will become a tool that is perfectly suited to complement any classroom digital device.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013167'
 title: smartestk12.com
 uri: /organizations/smartestk12-com/
 challenge_url: 'http://maker.good.is/myla2050/projects/smartestk12.html'

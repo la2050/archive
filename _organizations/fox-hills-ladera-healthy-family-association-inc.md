@@ -20,7 +20,6 @@ org_summary: >-
   address needs and challenges within communities.
 areas_impacted: 'Central LA,East LA,South LA,South Bay,Westside'
 project_ids: '4102037'
-organization_id_2: '2014036'
 title: Fox Hills Ladera Healthy Family Association Inc.
 uri: /organizations/fox-hills-ladera-healthy-family-association-inc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'

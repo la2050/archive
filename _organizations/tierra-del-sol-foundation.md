@@ -24,7 +24,6 @@ areas_impacted:
   - San Fernando Valley
   - LAUSD
 project_ids: ''
-organization_id_2: '2016239'
 title: Tierra del Sol Foundation
 uri: /organizations/tierra-del-sol-foundation/
 challenge_url: >-

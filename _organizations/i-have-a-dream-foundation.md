@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, youth, public safety, inclusion'
+tags_indicators:
+  - Education
+  - youth
+  - public safety
+  - inclusion
 twitter: IHADLA
 instagram: ihaveadreamla
 facebook: IHADLA
@@ -26,7 +30,6 @@ areas_impacted:
   - LAUSD
   - Boyle Heights and Inglewood
 project_ids: ''
-organization_id_2: '2016105'
 title: I Have a Dream Foundation
 uri: /organizations/i-have-a-dream-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities'

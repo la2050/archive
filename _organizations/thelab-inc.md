@@ -22,7 +22,6 @@ org_summary: >-
   exchange ideas.
 areas_impacted: 'San Gabriel Valley,City of Los Angeles (citywide)'
 project_ids: '5102315'
-organization_id_2: '2015210'
 title: 'TheLab, Inc'
 uri: /organizations/thelab-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/thelab.html'

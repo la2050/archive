@@ -19,7 +19,6 @@ org_summary: >-
   children in poverty.
 areas_impacted: 'East LA,South LA,City of Los Angeles (citywide)'
 project_ids: '5102228'
-organization_id_2: '2015151'
 title: Para Los Niños
 uri: /organizations/para-los-niños/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'

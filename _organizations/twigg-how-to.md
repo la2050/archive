@@ -7,9 +7,12 @@ ein: '813851393'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness: Women’s advocacy,
-  Underserved communities, Innovation, Arts and culture
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Women’s advocacy'
+  - Underserved communities
+  - Innovation
+  - Arts and culture
 twitter: 'https://twitter.com/TWIGGHOWTO'
 instagram: 'https://www.instagram.com/twigghowto/'
 facebook: 'https://www.facebook.com/twigghowto'
@@ -25,7 +28,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
-organization_id_2: '2018127'
 title: TWIGG How-To
 uri: /organizations/twigg-how-to/
 challenge_url: 'https://activation.la2050.org/connect/twigg-how-to/'

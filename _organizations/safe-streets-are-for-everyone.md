@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: StreetsR4Every1
 instagram: StreetsAreForEveryone
 facebook: finish_the_ride
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016187'
 title: SAFE (Streets Are For Everyone)
 uri: /organizations/safe-streets-are-for-everyone/
 challenge_url: >-

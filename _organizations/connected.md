@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: career readiness
+tags_indicators:
+  - career readiness
 twitter: connectedorg
 instagram: ConnectEdCalifornia
 facebook: NA
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016056'
 title: ConnectEd
 uri: /organizations/connected/
 challenge_url: >-

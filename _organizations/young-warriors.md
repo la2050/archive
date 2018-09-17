@@ -7,7 +7,8 @@ ein: '800569820'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800569820'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -29,7 +30,6 @@ org_summary: >-
    YW has expanded its program throughout the community. YW community members (such as Galpin Ford, Nestle, Wells Fargo, the city of Van Nuys, and many private investors) are excited to participate in the program. YW now has two programs: (1) the original YW group, and (2) two elementary schools consisting of 24 fatherless 5th grade boys. Other principals heard of YW and are expressing a strong interest in hosting the YW program at their schools. In addition, Jason has peaked the interest of various gang-prevention units. The waiting list for YW is growing with 100â€™s of kids waiting for the program to become available to them!
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013220'
 title: Young Warriors
 uri: /organizations/young-warriors/
 challenge_url: 'http://maker.good.is/myla2050/projects/YoungWarriors.html'

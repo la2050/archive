@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: annenberglab
 instagram: annenberglab
 facebook: annenberglab
@@ -23,7 +24,6 @@ areas_impacted:
   - East LA
   - Westside
 project_ids: ''
-organization_id_2: '2016250'
 title: USC Annenberg Innovation Lab
 uri: /organizations/usc-annenberg-innovation-lab/
 challenge_url: >-

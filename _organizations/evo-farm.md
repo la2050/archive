@@ -7,7 +7,8 @@ ein: '460846401'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -50,7 +51,6 @@ org_summary: >-
    â€¢ Re-introducing taste to living food (Edible Westside http://goo.gl/KydmV)
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013064'
 title: Evo Farm
 uri: /organizations/evo-farm/
 challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'

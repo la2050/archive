@@ -7,7 +7,10 @@ ein: '956095398'
 zip: '91352'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956095398'
 ntee_type: ''
-tags_indicators: 'Ecosystems, Public space, public health'
+tags_indicators:
+  - Ecosystems
+  - Public space
+  - public health
 twitter: '@TheodorePayne'
 instagram: facebook.com/TheodorePayneFoundation
 facebook: theodorepayne
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: ''
-organization_id_2: '2016236'
 title: Theodore Payne Foundation for Wild Flower and Native Plants
 uri: /organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/
 challenge_url: >-

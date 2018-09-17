@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: n/a
 instagram: nationofvibration
 facebook: Nationofvibration
@@ -27,7 +28,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016154'
 title: Nation of Vibration
 uri: /organizations/nation-of-vibration/
 challenge_url: >-

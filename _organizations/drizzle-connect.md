@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'social connectedness, underserved communities, poverty, financial management'
+tags_indicators:
+  - social connectedness
+  - underserved communities
+  - poverty
+  - financial management
 twitter: get_drizzle
 instagram: getdrizzle
 facebook: none
@@ -23,7 +27,6 @@ areas_impacted:
   - San Gabriel Valley
   - County of Los Angeles
 project_ids: '8102063'
-organization_id_2: '2016066'
 title: Drizzle Connect
 uri: /organizations/drizzle-connect/
 challenge_url: >-

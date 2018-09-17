@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Fitness, youth, sustainability, community health, advocacy'
+tags_indicators:
+  - Fitness
+  - youth
+  - sustainability
+  - community health
+  - advocacy
 twitter: SportUpLife
 instagram: SportUpLife
 facebook: SportUpLife
@@ -33,7 +38,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '5102292'
-organization_id_2: '2016201'
 title: SportUp
 uri: /organizations/sportup/
 challenge_url: >-

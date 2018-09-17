@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102020'
-organization_id_2: '2014019'
 title: Company of Angels (CoA)
 uri: /organizations/company-of-angels-coa/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'

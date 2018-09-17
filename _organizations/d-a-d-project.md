@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Educaiton, parents, children, mentorship,'
+tags_indicators:
+  - Educaiton
+  - parents
+  - children
+  - 'mentorship,'
 twitter: Dadproject3
 instagram: dadproject3
 facebook: d.a.d_project
@@ -25,7 +29,6 @@ areas_impacted:
   - City of Los Angeles
   - Inglewood
 project_ids: ''
-organization_id_2: '2016062'
 title: D.A.D Project
 uri: /organizations/d-a-d-project/
 challenge_url: >-

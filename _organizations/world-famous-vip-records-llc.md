@@ -7,9 +7,11 @@ ein: '820873052'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Income and Employment: Entrepreneurship, Arts and
-  culture, Creative Industry
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Income and Employment: Entrepreneurship'
+  - Arts and culture
+  - Creative Industry
 twitter: viplongbeach
 instagram: '0'
 facebook: viplongbeach
@@ -24,7 +26,6 @@ org_summary: >-
 areas_impacted:
   - 'long beach, ca'
 project_ids: '8102138'
-organization_id_2: '2018138'
 title: World Famous VIP Records LLC
 uri: /organizations/world-famous-vip-records-llc/
 challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'

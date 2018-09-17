@@ -21,7 +21,6 @@ org_summary: >-
   Grand Park.
 areas_impacted: Central LA
 project_ids: '5102234'
-organization_id_2: '2015154'
 title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 uri: >-
   /organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/

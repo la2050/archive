@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Food inequality, healthy food'
+tags_indicators:
+  - Food inequality
+  - healthy food
 twitter: foodoasisla
 instagram: foodoasisla
 facebook: none
@@ -22,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016080'
 title: Food Oasis Los Angeles
 uri: /organizations/food-oasis-los-angeles/
 challenge_url: >-

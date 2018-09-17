@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'social connectedness, inclusion, diversity, arts and culture vitality'
+tags_indicators:
+  - social connectedness
+  - inclusion
+  - diversity
+  - arts and culture vitality
 twitter: lasfotosproject
 instagram: lasfotosproject
 facebook: lasfotosproject
@@ -31,7 +35,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016128'
 title: Las Fotos Project
 uri: /organizations/las-fotos-project/
 challenge_url: 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'

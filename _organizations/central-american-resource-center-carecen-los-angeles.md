@@ -20,7 +20,6 @@ org_summary: >-
   engagement and social integration of immigrants.
 areas_impacted: ''
 project_ids: '4102119'
-organization_id_2: '2014122'
 title: Central American Resource Center - CARECEN - Los Angeles
 uri: /organizations/central-american-resource-center-carecen-los-angeles/
 challenge_url: ''

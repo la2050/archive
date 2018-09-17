@@ -276,7 +276,7 @@ text-align: left;
 {% assign tags = "" | split: "," %}
 {% for item in data_list %}
 
-  {% assign item_tags = item['tags_indicators'] | split: ", " %}
+  {% assign item_tags = item['tags_indicators'] %}
 
   {% if item_tags and item_tags.size > 0 %}
     {% assign organizations_with_tags = organizations_with_tags | plus: 1 %}

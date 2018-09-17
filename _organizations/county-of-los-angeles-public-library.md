@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and culture vitality, creative industry,'
+tags_indicators:
+  - Arts and culture vitality
+  - 'creative industry,'
 twitter: LACountyLibrary
 instagram: LACountyLibrary
 facebook: lacountylibrary
@@ -23,7 +25,6 @@ areas_impacted:
   - East LA
   - San Gabriel Valley
 project_ids: ''
-organization_id_2: '2016060'
 title: County of Los Angeles Public Library
 uri: /organizations/county-of-los-angeles-public-library/
 challenge_url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'

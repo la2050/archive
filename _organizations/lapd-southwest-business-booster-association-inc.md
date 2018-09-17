@@ -22,7 +22,6 @@ org_summary: >-
   involvement in community safety and quality of life issues in Southwest Area.
 areas_impacted: 'South LA,City of Los Angeles (citywide),LAUSD,Other (please specify below):'
 project_ids: '5102173'
-organization_id_2: '2015111'
 title: LAPD Southwest Business Booster Association Inc.
 uri: /organizations/lapd-southwest-business-booster-association-inc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'

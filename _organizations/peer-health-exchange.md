@@ -7,9 +7,14 @@ ein: '562374305'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562374305'
 ntee_type: ''
-tags_indicators: >-
-  Education, Health, Social Connectedness: Community health, Youth, Healthcare,
-  Volunteerism, Underserved youth
+tags_indicators:
+  - Education
+  - Health
+  - 'Social Connectedness: Community health'
+  - Youth
+  - Healthcare
+  - Volunteerism
+  - Underserved youth
 twitter: twitter.com/peerhealthexch
 instagram: peerhealthexchange
 facebook: www.facebook.com/PeerHealthExchange
@@ -28,7 +33,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102094'
-organization_id_2: '2018094'
 title: Peer Health Exchange
 uri: /organizations/peer-health-exchange/
 challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'

@@ -30,7 +30,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016210'
 title: Tech LA Cares
 uri: /organizations/tech-la-cares/
 challenge_url: >-

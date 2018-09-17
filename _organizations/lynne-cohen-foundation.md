@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Women''s advocacy, health care'
+tags_indicators:
+  - Women's advocacy
+  - health care
 twitter: KickinCancer
 instagram: lynnecohenfoundation
 facebook: lynnecohenfoundation
@@ -22,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016143'
 title: Lynne Cohen Foundation
 uri: /organizations/lynne-cohen-foundation/
 challenge_url: >-

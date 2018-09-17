@@ -7,7 +7,8 @@ ein: '461912903'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -85,7 +86,6 @@ org_summary: >-
    Our network collectively reaches over 100,000 experts in Los Angeles.
 areas_impacted: ''
 project_ids: '5102028'
-organization_id_2: '2013055'
 title: EDDEFY
 uri: /organizations/eddefy/
 challenge_url: 'http://maker.good.is/myla2050/projects/MASTERY.html'

@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, children'
+tags_indicators:
+  - Education
+  - children
 twitter: think_with_us
 instagram: PIofLA/?fref=ts
 facebook: think_with_us
@@ -25,7 +27,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016229'
 title: The Pedagogical Institute of Los Angeles
 uri: /organizations/the-pedagogical-institute-of-los-angeles/
 challenge_url: >-

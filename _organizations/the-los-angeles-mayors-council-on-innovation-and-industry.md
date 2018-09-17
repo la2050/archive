@@ -7,7 +7,8 @@ ein: '611647131'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611647131'
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -106,7 +107,6 @@ org_summary: >-
    http://youtu.be/uq-ohGG5avM
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013194'
 title: The Los Angeles Mayor's Council on Innovation and Industry
 uri: /organizations/the-los-angeles-mayors-council-on-innovation-and-industry/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAMCII.html'

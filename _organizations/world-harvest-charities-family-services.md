@@ -7,9 +7,15 @@ ein: '392064653'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=392064653'
 ntee_type: ''
-tags_indicators: >-
-  Health, Housing, Income and Employment: Healthy food, Food inequality,
-  Affordable housing, Healthcare, Job training, Small business
+tags_indicators:
+  - Health
+  - Housing
+  - 'Income and Employment: Healthy food'
+  - Food inequality
+  - Affordable housing
+  - Healthcare
+  - Job training
+  - Small business
 twitter: 'https://twitter.com/WorldHarvestFB'
 instagram: 'https://www.instagram.com/worldharvestcharities'
 facebook: 'https://www.facebook.com/WorldHarvestFoodBank'
@@ -23,7 +29,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '8102139'
-organization_id_2: '2018139'
 title: World Harvest Charities & Family Services
 uri: /organizations/world-harvest-charities-family-services/
 challenge_url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'

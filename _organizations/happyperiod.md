@@ -7,9 +7,12 @@ ein: '474333055'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
 ntee_type: Human Services
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness, Housing (?): Arts and
-  culture, Homelessness, Women’s advocacy
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Housing (?): Arts and culture'
+  - Homelessness
+  - Women’s advocacy
 twitter: happyperiodorg
 instagram: wearehappyperiod
 facebook: '0'
@@ -25,7 +28,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102001'
-organization_id_2: '2018001'
 title: '#HappyPeriod'
 uri: /organizations/happyperiod/
 challenge_url: 'https://activation.la2050.org/live/happyperiod/'

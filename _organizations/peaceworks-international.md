@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: IAmLA2017
 instagram: IAmLA2017
 facebook: IAmLA2017
@@ -19,7 +20,6 @@ org_summary: 'Impacting future generations through art, education, and culture.'
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016166'
 title: Peaceworks International
 uri: /organizations/peaceworks-international/
 challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'

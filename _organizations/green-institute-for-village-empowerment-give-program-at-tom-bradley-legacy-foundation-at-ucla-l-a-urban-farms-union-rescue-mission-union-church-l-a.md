@@ -23,7 +23,6 @@ org_summary: >-
   information, research and initiatives that convert concepts to action.
 areas_impacted: Central LA
 project_ids: '5102118'
-organization_id_2: '2015076'
 title: >-
   Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
   Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church L.A.

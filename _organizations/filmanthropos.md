@@ -7,7 +7,8 @@ ein: '462443400'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -23,7 +24,6 @@ org_summary: >-
   institutionalizing our pro-bono service offerings.
 areas_impacted: ''
 project_ids: '5102037'
-organization_id_2: '2013066'
 title: Filmanthropos
 uri: /organizations/filmanthropos/
 challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'

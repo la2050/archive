@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture, science, stem, green industry, sustainability, public
-  health, education
+tags_indicators:
+  - Arts and culture
+  - science
+  - stem
+  - green industry
+  - sustainability
+  - public health
+  - education
 twitter: WyotaW
 instagram: wyotaworkshop/
 facebook: wyotaworkshop
@@ -26,7 +31,6 @@ areas_impacted:
   - LAUSD
   - NELA
 project_ids: ''
-organization_id_2: '2016260'
 title: 'Wyota Workshop, Inc.'
 uri: /organizations/wyota-workshop-inc/
 challenge_url: >-

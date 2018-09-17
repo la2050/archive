@@ -7,7 +7,8 @@ ein: '841024566'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841024566'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -37,7 +38,6 @@ org_summary: >-
    â€¢ Employed over 20 scientists to conduct scientific research on plants, animals, water quality, air quality and more. This research includes four active citizen science programs (Whatâ€™s Invasive, California phenology project, crayfish removal).
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013139'
 title: National Park Service
 uri: /organizations/national-park-service/
 challenge_url: 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'

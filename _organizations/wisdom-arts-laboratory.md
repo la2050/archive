@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and culture, STEM, science, education'
+tags_indicators:
+  - Arts and culture
+  - STEM
+  - science
+  - education
 twitter: wisdomartslab
 instagram: wisdom.artslab
 facebook: wisdomartslaboratory
@@ -25,7 +29,6 @@ areas_impacted:
   - San Gabriel Valley
   - South LA
 project_ids: ''
-organization_id_2: '2016256'
 title: Wisdom Arts Laboratory
 uri: /organizations/wisdom-arts-laboratory/
 challenge_url: >-

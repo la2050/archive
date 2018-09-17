@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016120'
 title: L.A. Works
 uri: /organizations/l-a-works/
 challenge_url: >-

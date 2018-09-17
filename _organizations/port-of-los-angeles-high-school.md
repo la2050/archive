@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'College preparedness, career readiness, education'
+tags_indicators:
+  - College preparedness
+  - career readiness
+  - education
 twitter: POLAHS
 instagram: Portoflosangeleshighschool
 facebook: portoflosangeleshigh
@@ -24,7 +27,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016175'
 title: Port of Los Angeles High School
 uri: /organizations/port-of-los-angeles-high-school/
 challenge_url: >-

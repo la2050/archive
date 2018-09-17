@@ -20,7 +20,6 @@ org_summary: >-
   already have the career they want.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2014208'
 title: The Prep Source
 uri: /organizations/the-prep-source/
 challenge_url: ''

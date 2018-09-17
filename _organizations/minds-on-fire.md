@@ -7,7 +7,8 @@ ein: '46225513'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -31,7 +32,6 @@ org_summary: >-
    In the NYC Civic Corps program, a three-member team of VISTA Volunteers engaged 197 student- and teacher-leaders and 4,721 students across 58 schools in the development and implementation of service and service learning opportunities.
 areas_impacted: ''
 project_ids: '5102065'
-organization_id_2: '2013135'
 title: Minds on Fire
 uri: /organizations/minds-on-fire/
 challenge_url: 'http://maker.good.is/myla2050/projects/mindsonfire.html'

@@ -21,7 +21,6 @@ org_summary: >-
   poverty.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102156'
-organization_id_2: '2015102'
 title: JVS Los Angeles
 uri: /organizations/jvs-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'

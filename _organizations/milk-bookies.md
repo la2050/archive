@@ -26,7 +26,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016148'
 title: Milk + Bookies
 uri: /organizations/milk-bookies/
 challenge_url: >-

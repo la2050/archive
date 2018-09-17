@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: U_E_Project
 instagram: unifiedeverythingproject
 facebook: unifiedeverythingproject
@@ -33,7 +34,6 @@ areas_impacted:
   - LAUSD
   - The website can list significant events beyond LA
 project_ids: ''
-organization_id_2: '2016241'
 title: Unified Everything Project
 uri: /organizations/unified-everything-project/
 challenge_url: >-

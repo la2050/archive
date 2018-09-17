@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: integratedannex
 instagram: integratedannex
 facebook: integratedannex
@@ -26,7 +27,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '4102228'
-organization_id_2: '2016221'
 title: The integrated Learning Annex
 uri: /organizations/the-integrated-learning-annex/
 challenge_url: 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'

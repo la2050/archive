@@ -21,7 +21,6 @@ org_summary: >-
   industry professionals, creativity & technology, into the same classroom.
 areas_impacted: 'Central LA,East LA,South LA,Other (please specify below):'
 project_ids: '5102238'
-organization_id_2: '2015155'
 title: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)

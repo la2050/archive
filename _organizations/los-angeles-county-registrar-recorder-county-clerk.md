@@ -24,7 +24,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102073'
-organization_id_2: '2018073'
 title: Los Angeles County Registrar-Recorder/County Clerk
 uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
 challenge_url: >-

@@ -7,7 +7,9 @@ ein: '453665296'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453665296'
 ntee_type: ''
-tags_indicators: 'Social Connectedness: Foster care, Media'
+tags_indicators:
+  - 'Social Connectedness: Foster care'
+  - Media
 twitter: '@RaiseAChild'
 instagram: RaiseAChild
 facebook: RaiseAChild
@@ -36,7 +38,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102100'
-organization_id_2: '2018100'
 title: 'Raise A Child, Inc.'
 uri: /organizations/raise-a-child-inc/
 challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'

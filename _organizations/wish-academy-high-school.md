@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, inclusion, youth , children, parents, high school graduation,
-  mental health care
+tags_indicators:
+  - Education
+  - inclusion
+  - 'youth '
+  - children
+  - parents
+  - high school graduation
+  - mental health care
 twitter: wishcharter
 instagram: WISH Charter
 facebook: wish_charter
@@ -35,7 +40,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016257'
 title: WISH Academy High School
 uri: /organizations/wish-academy-high-school/
 challenge_url: >-

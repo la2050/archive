@@ -7,7 +7,8 @@ ein: '953797363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953797363'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -63,7 +64,6 @@ org_summary: |-
    <blockquote>"My mom struggled to make ends meet. I had no sense of direction. I began using drugs and stealing to find happiness. I got caught and was referred to Bresee, where my perspective on life changed. I took anger management classes and met weekly with my counselor Rene who helped me to look at life differently. Bresee gave me this sense of accomplishment-something I had never felt before. One day Rene told me about a job opening at Bresee. I took the job and began working with first-time offenders, opening Bresee's first community service program. This was the first real job I had ever had. I worked part-time at Bresee, went to community college, and eventually transferred to UCLA. With the help of Bresee and their scholarship opportunity I graduated - something unimaginable during my younger days. Without Bresee's financial and emotional help I never would have gotten this far."</blockquote></p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013154'
 title: PF Bresee Foundation (Bresee)
 uri: /organizations/pf-bresee-foundation-bresee/
 challenge_url: 'http://maker.good.is/myla2050/projects/Bresee.html'

@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Public space, food inequality'
+tags_indicators:
+  - Public space
+  - food inequality
 twitter: '@Conserve_CA'
 instagram: natureconservancycalifornia/
 facebook: growninla
@@ -23,7 +25,6 @@ areas_impacted:
   - City of Los Angeles
   - N/A
 project_ids: ''
-organization_id_2: '2016095'
 title: Grown in LA
 uri: /organizations/grown-in-la/
 challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'

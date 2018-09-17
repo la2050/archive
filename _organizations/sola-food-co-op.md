@@ -7,7 +7,8 @@ ein: '464872589'
 zip: '90062'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Fresh fruit/groceries in South LA
+tags_indicators:
+  - Fresh fruit/groceries in South LA
 twitter: SoLAFoodCoop
 instagram: SoLAfoodcoop
 facebook: solafoodcoop
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016195'
 title: SoLA Food Co-op
 uri: /organizations/sola-food-co-op/
 challenge_url: >-

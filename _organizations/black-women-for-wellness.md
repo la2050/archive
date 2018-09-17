@@ -7,10 +7,14 @@ ein: '954624707'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954624707'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Arts and Cultural Vitality, Social Connectedness:
-  Sustainability, Communities of color, Underserved communities, Innovation,
-  Arts and culture
+tags_indicators:
+  - Environmental Quality
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Sustainability'
+  - Communities of color
+  - Underserved communities
+  - Innovation
+  - Arts and culture
 twitter: BW4WLA
 instagram: BWWLA
 facebook: Black Women for Wellness
@@ -28,7 +32,6 @@ areas_impacted:
   - South Bay
   - Antelope Valley
 project_ids: '8102009'
-organization_id_2: '2018009'
 title: Black Women for Wellness
 uri: /organizations/black-women-for-wellness/
 challenge_url: 'https://activation.la2050.org/live/black-women-for-wellness/'

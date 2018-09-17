@@ -20,7 +20,6 @@ org_summary: >-
   re-purpose those items for educational use.
 areas_impacted: ''
 project_ids: '4102143'
-organization_id_2: '2014160'
 title: Learning Equipment Supply Service
 uri: /organizations/learning-equipment-supply-service/
 challenge_url: ''

@@ -7,7 +7,8 @@ ein: '453753219'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -31,7 +32,6 @@ org_summary: >-
     We plan to accomplish much more in 2013 and beyond, by instituting our pilot program in a physical space, while meanwhile expanding our multimedia content to extend our reach â€“ using all available resources and outlets to provide artistic opportunities, advance appreciation and understanding, and unlock the creative potential in all of LAâ€™s residents.
 areas_impacted: ''
 project_ids: '5102018'
-organization_id_2: '2013053'
 title: DIYFO (Do-It-Yourself. For Others.)
 uri: /organizations/diyfo-do-it-yourself-for-others/
 challenge_url: 'http://maker.good.is/myla2050/projects/diyfo.html'

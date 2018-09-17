@@ -7,9 +7,11 @@ ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness: Neighborhood councils, Refugees, Underserved
-  communities, Volunteerism
+tags_indicators:
+  - 'Social Connectedness: Neighborhood councils'
+  - Refugees
+  - Underserved communities
+  - Volunteerism
 twitter: '@miryslist'
 instagram: '@miryslist'
 facebook: www.facebook.com/miryslist
@@ -25,7 +27,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102083'
-organization_id_2: '2018083'
 title: Miry’s List
 uri: /organizations/mirys-list/
 challenge_url: 'https://activation.la2050.org/connect/mirys-list/'

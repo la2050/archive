@@ -7,7 +7,8 @@ ein: '453263196'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453263196'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -69,7 +70,6 @@ org_summary: |-
    One Day on Earth has developed organizational partnerships with over 100 global NGOs and nonprofit organizations around the world, and we have helped many of those organizations work towards their missions by empowering widespread media-creation in support of their cause.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013147'
 title: One Day on Earth
 uri: /organizations/one-day-on-earth/
 challenge_url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'

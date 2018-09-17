@@ -7,7 +7,8 @@ ein: '651169693'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=651169693'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -47,7 +48,6 @@ org_summary: >-
    â€¢ A comprehensive education initiative was launched in 2012 to provide resources/programs for youth residing in public housing communities.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013106'
 title: Kids Progress Inc.
 uri: /organizations/kids-progress-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/kpi.html'

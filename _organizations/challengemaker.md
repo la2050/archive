@@ -21,7 +21,6 @@ org_summary: >-
   challenges.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: ''
-organization_id_2: '2015029'
 title: ChallengeMaker
 uri: /organizations/challengemaker/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ChallengeMaker.html'

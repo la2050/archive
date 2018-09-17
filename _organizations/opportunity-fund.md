@@ -8,9 +8,10 @@ ein: '311719434'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719434'
 ntee_type: ''
-tags_indicators: >-
-  Income and Employment: Entrepreneurship, Small business, Training and
-  development
+tags_indicators:
+  - 'Income and Employment: Entrepreneurship'
+  - Small business
+  - Training and development
 twitter: >-
   ["@opportunityfund","@OFSmallBusiness","@AspenMicro","@AccionUs","@SmlBizMajority","@LendingClub","@FundingCircleUS","@Fundera","@VenturizeOrg"]
 instagram: >-
@@ -41,7 +42,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102093'
-organization_id_2: '2018093'
 title: Opportunity Fund
 uri: /organizations/opportunity-fund/
 challenge_url: 'https://activation.la2050.org/create/opportunity-fund/'

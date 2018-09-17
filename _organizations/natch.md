@@ -7,9 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, creative industry, income and employment,
-  entreprenuership
+tags_indicators:
+  - Arts and culture vitality
+  - creative industry
+  - income and employment
+  - entreprenuership
 twitter: natch_app
 instagram: natch-340508439626814
 facebook: natch_app_
@@ -31,7 +33,6 @@ areas_impacted:
   - South Bay
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016153'
 title: Natch
 uri: /organizations/natch/
 challenge_url: 'https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door'

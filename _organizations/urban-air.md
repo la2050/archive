@@ -20,7 +20,6 @@ org_summary: >-
   intelligently networked, suspended cloud forests.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2014102'
 title: URBAN AIR
 uri: /organizations/urban-air/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'

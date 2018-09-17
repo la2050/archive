@@ -7,7 +7,11 @@ ein: ''
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein='
 ntee_type: ''
-tags_indicators: 'Health, Environmental Quality: Public space, Fitness, Sports'
+tags_indicators:
+  - Health
+  - 'Environmental Quality: Public space'
+  - Fitness
+  - Sports
 twitter: sbbc_la
 instagram: sbbc_la
 facebook: 'https://www.facebook.com/southbaybicyclecoalition'
@@ -22,7 +26,6 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '8102111'
-organization_id_2: '2018111'
 title: South Bay Bicycle Coalition
 uri: /organizations/south-bay-bicycle-coalition/
 challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'

@@ -7,9 +7,11 @@ ein: '46'
 zip: '990275'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=46'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness: Women’s advocacy, Inclusion, Policy, Underserved
-  communities
+tags_indicators:
+  - 'Social Connectedness: Women’s advocacy'
+  - Inclusion
+  - Policy
+  - Underserved communities
 twitter: '@VoteRunLead'
 instagram: '@voterunlead'
 facebook: www.facebook.com/VoteRunLead
@@ -25,7 +27,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102134'
-organization_id_2: '2018134'
 title: VoteRunLead
 uri: /organizations/voterunlead/
 challenge_url: 'https://activation.la2050.org/connect/voterunlead/'

@@ -7,7 +7,8 @@ ein: '472219458'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472219458'
 ntee_type: ''
-tags_indicators: Bring together communities through nutrion (Vision 80)
+tags_indicators:
+  - Bring together communities through nutrion (Vision 80)
 twitter: 'https://twitter.com/happycityus'
 instagram: ''
 facebook: 'https://www.facebook.com/happycity.us'
@@ -23,7 +24,6 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,San Fernando Valley,South
   LA,Westside,South Bay,Antelope Valley,City of Los Angeles (citywide)
 project_ids: '5102125'
-organization_id_2: '2015079'
 title: HappyCity Los Angeles
 uri: /organizations/happycity-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'

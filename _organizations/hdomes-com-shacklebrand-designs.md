@@ -7,7 +7,9 @@ ein: '460673783'
 zip: '90078'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460673783'
 ntee_type: ''
-tags_indicators: 'Affordable housing, Energy conservation'
+tags_indicators:
+  - Affordable housing
+  - Energy conservation
 twitter: 'https://twitter.com/DanHildebrand09'
 instagram: 'https://instagram.com/domes4homes/'
 facebook: 'https://www.facebook.com/HDomes'
@@ -20,7 +22,6 @@ org_summary: >-
   and highly energy efficient, here in the US and abroad.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102128'
-organization_id_2: '2015082'
 title: 'HDomes.com, Shacklebrand Designs'
 uri: /organizations/hdomes-com-shacklebrand-designs/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'

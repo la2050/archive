@@ -7,7 +7,8 @@ ein: '954679811'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954679811'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -47,7 +48,6 @@ org_summary: >-
    <p>NRBLB has been awarded accolades by Core77Design and The Swedish-American Chamber of Commerce; presented at events such as TEDx, Art Directors Club, and LiveWire; and been featured in FastCompany, GOOD Magazine, Core77, BrainPickings, Design Mind, and Art Rebels. To date, NRBLB has built a strong coalition of companies, design schools, education networks, and creative professionals able to develop scalable, low-cost, and adoptable innovation tools that enhance creativity inside and outside of classrooms. </p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013145'
 title: No Right Brain Left Behind and Green Dot Schools
 uri: /organizations/no-right-brain-left-behind-and-green-dot-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: PPPSGV
 instagram: www.facebook.com/pppsgv
 facebook: PPPSGV
@@ -24,7 +25,6 @@ areas_impacted:
   - San Gabriel Valley
   - N/A
 project_ids: ''
-organization_id_2: '2016173'
 title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 uri: /organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
 challenge_url: >-

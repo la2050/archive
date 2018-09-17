@@ -22,7 +22,6 @@ org_summary: >-
   Governmental Agencies and NPOs.
 areas_impacted: Westside
 project_ids: ''
-organization_id_2: '2015194'
 title: Tagliaferri Howard Architecture
 uri: /organizations/tagliaferri-howard-architecture/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html'

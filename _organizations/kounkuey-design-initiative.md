@@ -7,9 +7,10 @@ ein: '900599471'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Social Connectedness: Public space, Underserved
-  communities
+tags_indicators:
+  - Environmental Quality
+  - 'Social Connectedness: Public space'
+  - Underserved communities
 twitter: '["@Kounkuey","@LURNetwork"]'
 instagram: '["@kounkuey","@lurnetwork"]'
 facebook: www.facebook.com/Kounkuey/
@@ -34,7 +35,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102058'
-organization_id_2: '2018058'
 title: Kounkuey Design Initiative
 uri: /organizations/kounkuey-design-initiative/
 challenge_url: 'https://activation.la2050.org/play/kounkuey-design-initiative/'

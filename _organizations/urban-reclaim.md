@@ -7,7 +7,8 @@ ein: '272190657'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272190657'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -25,7 +26,6 @@ org_summary: >-
   on creating successful urban public spaces for the Los Angeles community.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013210'
 title: Urban Reclaim
 uri: /organizations/urban-reclaim/
 challenge_url: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'

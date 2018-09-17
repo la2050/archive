@@ -7,7 +7,9 @@ ein: '475212304'
 zip: '90069'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475212304'
 ntee_type: ''
-tags_indicators: 'General life skills, mental well being'
+tags_indicators:
+  - General life skills
+  - mental well being
 twitter: www.twitter.com/LifeChangeUp
 instagram: www.instagram.com/lifechangeup/
 facebook: www.facebook.com/ThinkOutsideYourComfortZone
@@ -23,7 +25,6 @@ areas_impacted: >-
   Central LA,San Fernando Valley,South LA,Westside,County of Los Angeles
   (countywide),City of Los Angeles (citywide)
 project_ids: '5102176'
-organization_id_2: '2015114'
 title: Life Change Up
 uri: /organizations/life-change-up/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/walking.html'

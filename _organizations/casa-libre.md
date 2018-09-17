@@ -20,7 +20,6 @@ org_summary: >-
   in one of the densest immigrant communities in the nation.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102042'
-organization_id_2: '2015026'
 title: Casa Libre
 uri: /organizations/casa-libre/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CasaLibre.html'

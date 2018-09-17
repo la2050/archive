@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Social connectedness, animal advocacy,'
+tags_indicators:
+  - Social connectedness
+  - 'animal advocacy,'
 twitter: elportoshark
 instagram: ElPortoShark
 facebook: elportoshark
@@ -24,7 +26,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '8102070'
-organization_id_2: '2016069'
 title: El Porto Shark
 uri: /organizations/el-porto-shark/
 challenge_url: >-

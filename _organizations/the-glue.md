@@ -7,7 +7,10 @@ ein: '462089483'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Environmental Quality, Arts and Cultural Vitality: Public space, Innovation'
+tags_indicators:
+  - Environmental Quality
+  - 'Arts and Cultural Vitality: Public space'
+  - Innovation
 twitter: '@GetSomeGlue'
 instagram: getsomeglue
 facebook: 'https://www.facebook.com/getsomeglue'
@@ -26,7 +29,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102120'
-organization_id_2: '2018119'
 title: The Glue
 uri: /organizations/the-glue/
 challenge_url: 'https://activation.la2050.org/live/the-glue/'

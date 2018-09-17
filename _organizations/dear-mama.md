@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Healthy foods, Community health, Public health'
+tags_indicators:
+  - Healthy foods
+  - Community health
+  - Public health
 twitter: DearMamaLA
 instagram: dearmamala
 facebook: dearmamala
@@ -33,7 +36,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016063'
 title: Dear Mama
 uri: /organizations/dear-mama/
 challenge_url: >-

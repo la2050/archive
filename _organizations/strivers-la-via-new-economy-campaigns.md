@@ -19,7 +19,6 @@ org_summary: >-
   and incubates new social venture projects like Strivers.LA.
 areas_impacted: ''
 project_ids: '5102095'
-organization_id_2: '2014194'
 title: Strivers.LA via New Economy Campaigns
 uri: /organizations/strivers-la-via-new-economy-campaigns/
 challenge_url: ''

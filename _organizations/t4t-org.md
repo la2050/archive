@@ -29,7 +29,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016205'
 title: T4T.org
 uri: /organizations/t4t-org/
 challenge_url: >-

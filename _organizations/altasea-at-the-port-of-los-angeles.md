@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: altaseaorg
 instagram: AltaSea
 facebook: altasea
@@ -24,7 +25,6 @@ areas_impacted:
   - Gateway Cities
   - LAUSD
 project_ids: ''
-organization_id_2: '2016007'
 title: AltaSea at the Port of Los Angeles
 uri: /organizations/altasea-at-the-port-of-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'

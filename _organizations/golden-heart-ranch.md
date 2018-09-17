@@ -7,9 +7,10 @@ ein: '263131470'
 zip: '90254'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263131470'
 ntee_type: ''
-tags_indicators: >-
-  Vocational training, life skills, and social opportunities for special needs
-  community
+tags_indicators:
+  - Vocational training
+  - life skills
+  - and social opportunities for special needs community
 twitter: www.twitter.com/goldenhrtranch
 instagram: www.instagram.com/goldenheartranch
 facebook: www.facebook.com/GoldenHeartRanch
@@ -24,7 +25,6 @@ org_summary: >-
   life long home.
 areas_impacted: 'San Fernando Valley,County of Los Angeles (countywide)'
 project_ids: '5102113'
-organization_id_2: '2015072'
 title: Golden Heart Ranch
 uri: /organizations/golden-heart-ranch/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'

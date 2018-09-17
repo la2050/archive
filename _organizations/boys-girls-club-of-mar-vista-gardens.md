@@ -7,7 +7,8 @@ ein: '951890706'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890706'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -30,7 +31,6 @@ org_summary: >-
   service.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013020'
 title: Boys & Girls Club of Mar Vista Gardens
 uri: /organizations/boys-girls-club-of-mar-vista-gardens/
 challenge_url: 'http://maker.good.is/myla2050/projects/begreat.html'

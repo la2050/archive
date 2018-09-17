@@ -7,10 +7,18 @@ ein: '264644018'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264644018'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Education, Social Connectedness, Income and
-  Employment: Arts and culture, Youth, Creative industry, Underserved youth,
-  Communities of color, Career readiness, Mentorship, Training and development
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Arts and culture'
+  - Youth
+  - Creative industry
+  - Underserved youth
+  - Communities of color
+  - Career readiness
+  - Mentorship
+  - Training and development
 twitter: '@GetLitPoet'
 instagram: getlitpoet
 facebook: 'https://www.facebook.com/getlitpoet'
@@ -27,7 +35,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102044'
-organization_id_2: '2018044'
 title: Get Lit - Words Ignite
 uri: /organizations/get-lit-words-ignite/
 challenge_url: 'https://activation.la2050.org/create/get-lit-words-ignite/'

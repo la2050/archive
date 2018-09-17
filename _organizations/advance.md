@@ -7,7 +7,8 @@ ein: '461862955'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -27,7 +28,6 @@ org_summary: >-
   help people the law is meant to serve.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013003'
 title: ADVANCE
 uri: /organizations/advance/
 challenge_url: 'http://maker.good.is/myla2050/projects/AccessJustice.html'

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: BHCLongBeach
 instagram: bhclongbeach
 facebook: bhclongbeach
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: ''
-organization_id_2: '2016028'
 title: 'Building Healthy Communities: Long Beach'
 uri: /organizations/building-healthy-communities-long-beach/
 challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'

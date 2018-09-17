@@ -17,7 +17,6 @@ project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'Other (please specify below):'
 project_ids: '#N/A'
-organization_id_2: '2015152'
 title: Partnership for Los Angeles Schools
 uri: /organizations/partnership-for-los-angeles-schools/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'

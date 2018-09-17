@@ -7,7 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Educaiton, mentorship, tutoring, teachers, youth, children'
+tags_indicators:
+  - Educaiton
+  - mentorship
+  - tutoring
+  - teachers
+  - youth
+  - children
 twitter: imamovement11
 instagram: Im-A-Movement-Not-A-Monument-207815486290631
 facebook: imamovement
@@ -27,7 +33,6 @@ areas_impacted:
   - LAUSD
   - 'Inglewood and Compton, California'
 project_ids: ''
-organization_id_2: '2016108'
 title: I'm A Movement Not A Monument
 uri: /organizations/im-a-movement-not-a-monument/
 challenge_url: >-

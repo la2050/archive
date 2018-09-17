@@ -7,9 +7,10 @@ ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness: Underserved communities, Communities of color,
-  Volunteerism
+tags_indicators:
+  - 'Social Connectedness: Underserved communities'
+  - Communities of color
+  - Volunteerism
 twitter: '@MCMHandles'
 instagram: '@mcmhandles'
 facebook: facebook.com/multicultimobility
@@ -24,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102085'
-organization_id_2: '2018085'
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 uri: >-
   /organizations/multicultural-communities-for-mobility-a-project-of-community-partners/

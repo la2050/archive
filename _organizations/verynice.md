@@ -7,7 +7,8 @@ ein: '455282740'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -42,7 +43,6 @@ org_summary: >-
    Over the past 3 years, I have personally delivered over 50 talks / panel discussions / workshops at venues across the United States including TEDx, UCLA, Art Center, and the Art Directors Club.
 areas_impacted: ''
 project_ids: '4102059'
-organization_id_2: '2013214'
 title: verynice
 uri: /organizations/verynice/
 challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'

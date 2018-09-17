@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,San Fernando Valley,Westside,County of Los Angeles
   (countywide),City of Los Angeles (citywide)
 project_ids: ''
-organization_id_2: '2015223'
 title: 'Voter, LLC'
 uri: /organizations/voter-llc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/voter.html'

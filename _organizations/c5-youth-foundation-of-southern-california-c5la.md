@@ -22,7 +22,6 @@ org_summary: >-
   others.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102039'
-organization_id_2: '2015024'
 title: C5 Youth Foundation of Southern California (“C5LA”)
 uri: /organizations/c5-youth-foundation-of-southern-california-c5la/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/C5LA.html'

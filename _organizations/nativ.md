@@ -7,7 +7,8 @@ ein: '102649365'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -41,7 +42,6 @@ org_summary: >-
   for all admission fees.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013140'
 title: Nativ
 uri: /organizations/nativ/
 challenge_url: 'http://maker.good.is/myla2050/projects/Nativ.html'

@@ -22,7 +22,6 @@ org_summary: >-
   and global levels.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102327'
-organization_id_2: '2015216'
 title: UCLA
 uri: /organizations/ucla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/TIER.html'

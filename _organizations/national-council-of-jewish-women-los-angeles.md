@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: Ncjwla
 instagram: NCJWLosAngeles
 facebook: Ncjwla
@@ -30,7 +31,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016155'
 title: National Council of Jewish Women | Los Angeles
 uri: /organizations/national-council-of-jewish-women-los-angeles/
 challenge_url: >-

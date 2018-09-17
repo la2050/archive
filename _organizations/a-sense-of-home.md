@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, Foster care'
+tags_indicators:
+  - Youth
+  - Foster care
 twitter: asenseofhomeorg
 instagram: ASenseofHomeMovement
 facebook: asenseofhomeorg
@@ -28,7 +30,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016004'
 title: A Sense of Home
 uri: /organizations/a-sense-of-home/
 challenge_url: >-

@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, innovation, creative intrustry, arts and culture,
-  social connectedness, community health,
+tags_indicators:
+  - Arts and culture vitality
+  - innovation
+  - creative intrustry
+  - arts and culture
+  - social connectedness
+  - 'community health,'
 twitter: eastsidejews
 instagram: silverlakejcc
 facebook: sijcc
@@ -26,7 +30,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016192'
 title: SIJCC
 uri: /organizations/sijcc/
 challenge_url: >-

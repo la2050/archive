@@ -7,7 +7,8 @@ ein: '454320808'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -35,7 +36,6 @@ org_summary: >-
    <p>Additionally, L.A. Currents is currently the only West Coast partner of The Guardianâ€™s n0tice technology, which allows us to engage our readers in new and innovative ways. We have cast a wide net to our areaâ€™s creative community, and our stable of professional writers includes traditional reporters, bloggers, screenwriters, essayists, and fiction writers.</p>
 areas_impacted: ''
 project_ids: '8102024'
-organization_id_2: '2013109'
 title: L.A. Currents
 uri: /organizations/l-a-currents/
 challenge_url: 'http://maker.good.is/myla2050/projects/lasmartmap.html'

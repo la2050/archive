@@ -17,7 +17,6 @@ project_video: ''
 org_summary: We build community through theatre.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102171'
-organization_id_2: '2015110'
 title: LACT - Los Angeles Community Theatre
 uri: /organizations/lact-los-angeles-community-theatre/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/LACT.html'

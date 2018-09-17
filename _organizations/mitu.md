@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Social connectedness, diversity, underserved communities, arts and creative
-  vitality, creative industry
+tags_indicators:
+  - Social connectedness
+  - diversity
+  - underserved communities
+  - arts and creative vitality
+  - creative industry
 twitter: wearemitu
 instagram: wearemitu
 facebook: wearemitu
@@ -29,7 +32,6 @@ areas_impacted:
   - South LA
   - Gateway Cities
 project_ids: '5102263'
-organization_id_2: '2016149'
 title: mitu
 uri: /organizations/mitu/
 challenge_url: >-

@@ -21,7 +21,6 @@ org_summary: >-
   story.
 areas_impacted: 'South LA,City of Los Angeles (citywide)'
 project_ids: '4102158'
-organization_id_2: '2015081'
 title: Haunted Play LLC
 uri: /organizations/haunted-play-llc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'

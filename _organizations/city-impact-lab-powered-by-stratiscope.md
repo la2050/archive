@@ -7,7 +7,8 @@ ein: '463084511'
 zip: '94965'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Social Connectedness: Underserved communities'
+tags_indicators:
+  - 'Social Connectedness: Underserved communities'
 twitter: '["@Stratiscope","@CityImpactLab"]'
 instagram: '["@Stratiscope","@CityImpactLab"]'
 facebook: '["facebook.com/Stratiscope","facebook.com/CityImpactLabLA"]'
@@ -24,7 +25,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
-organization_id_2: '2018024'
 title: 'City Impact Lab, powered by Stratiscope'
 uri: /organizations/city-impact-lab-powered-by-stratiscope/
 challenge_url: 'https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/'

@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  arts and culture vitality, arts and culture, creative industry, volunteerism,
-  entertainment industry
+tags_indicators:
+  - arts and culture vitality
+  - arts and culture
+  - creative industry
+  - volunteerism
+  - entertainment industry
 twitter: hollywoodfringe
 instagram: hollywoodfringe
 facebook: hollywoodfringe
@@ -24,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016102'
 title: Hollywood Fringe Festival (Hatchery Arts)
 uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 challenge_url: >-

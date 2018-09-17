@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Environmental quality, public space, arts and culture vitality, arts and
-  culture, innovation
+tags_indicators:
+  - Environmental quality
+  - public space
+  - arts and culture vitality
+  - arts and culture
+  - innovation
 twitter: annenberglab
 instagram: annenberglab
 facebook: annenberglab
@@ -24,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016011'
 title: Annenberg Innovation Lab
 uri: /organizations/annenberg-innovation-lab/
 challenge_url: 'https://challenge.la2050.org/entry/sankofa-city'

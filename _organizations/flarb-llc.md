@@ -7,7 +7,8 @@ ein: '200142792'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -44,7 +45,6 @@ org_summary: >-
    </p>
 areas_impacted: ''
 project_ids: '4102029'
-organization_id_2: '2013069'
 title: FLARB LLC
 uri: /organizations/flarb-llc/
 challenge_url: 'http://maker.good.is/myla2050/projects/evolvela.html'

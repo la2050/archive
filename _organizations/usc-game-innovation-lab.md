@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102103'
-organization_id_2: '2014104'
 title: USC Game Innovation Lab
 uri: /organizations/usc-game-innovation-lab/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAReality.html'

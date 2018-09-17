@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Sustainability, Green tech'
+tags_indicators:
+  - Sustainability
+  - Green tech
 twitter: VerdicalGroup
 instagram: VerdicalGroup
 facebook: N/A
@@ -24,7 +26,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016252'
 title: Verdical Group
 uri: /organizations/verdical-group/
 challenge_url: >-

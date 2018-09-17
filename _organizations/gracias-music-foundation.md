@@ -7,9 +7,10 @@ ein: '271313830'
 zip: '92123'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271313830'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness: Arts and culture,
-  Volunteerism
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Volunteerism
 twitter: '@graciaschoir'
 instagram: gracias_choir
 facebook: 'https://www.facebook.com/graciasmusicfoundation/'
@@ -31,7 +32,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '8102048'
-organization_id_2: '2018048'
 title: Gracias Music Foundation
 uri: /organizations/gracias-music-foundation/
 challenge_url: 'https://activation.la2050.org/connect/gracias-music-foundation/'

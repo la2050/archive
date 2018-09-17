@@ -7,7 +7,8 @@ ein: '954205316'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954205316'
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: twitter.com/skidroworg
 instagram: instagram.com/ourskidrow
 facebook: facebook.com/SkidRowHousingTrust
@@ -20,7 +21,6 @@ org_summary: >-
   support services for people who have experienced homelessness.
 areas_impacted: Central LA
 project_ids: '4102082'
-organization_id_2: '2014081'
 title: Skid Row Housing Trust
 uri: /organizations/skid-row-housing-trust/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'

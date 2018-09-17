@@ -7,7 +7,8 @@ ein: '311719436'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719436'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -33,7 +34,6 @@ org_summary: >-
    Our Foster Youth Academies, now operating in Los Angeles, CA, Rhode Island and the greater Washington, DC area, are inspiring, challenging and equipping foster youth in grades 8 through 10 for success in college and beyond. Students who remain in good standing are invited to continue in the Academy program â€“ summer residential sessions, monthly workshop days, and our protected studentsâ€™ social media site â€“ each year through high school graduation. With the enthusiastic support of local public-private partnerships, including child welfare agencies and public schools, we have launched these three Academies in two years. To launch and operate Academies around the ï¿¼country, additional public-private partnerships are at work at six additional campuses across the nation.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013068'
 title: 'First Star, Inc.'
 uri: /organizations/first-star-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/FirstStar.html'

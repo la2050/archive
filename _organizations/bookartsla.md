@@ -20,7 +20,6 @@ org_summary: >-
   ages.
 areas_impacted: Westside
 project_ids: '5102032'
-organization_id_2: '2015019'
 title: BookArtsLA
 uri: /organizations/bookartsla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'

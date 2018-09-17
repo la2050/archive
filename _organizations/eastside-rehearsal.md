@@ -22,7 +22,6 @@ org_summary: >-
   will foster.
 areas_impacted: East LA
 project_ids: '5102181'
-organization_id_2: '2015055'
 title: Eastside Rehearsal
 uri: /organizations/eastside-rehearsal/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'

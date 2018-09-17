@@ -7,7 +7,8 @@ ein: '951777979'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951777979'
 ntee_type: ''
-tags_indicators: Mental Health Issues and Services
+tags_indicators:
+  - Mental Health Issues and Services
 twitter: www.twitter.com/allofuscare
 instagram: www.instagram.com/allofuscare
 facebook: www.facebook.com/allofuscare?fref=ts
@@ -23,7 +24,6 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: '5102337'
-organization_id_2: '2015222'
 title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 uri: >-
   /organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/

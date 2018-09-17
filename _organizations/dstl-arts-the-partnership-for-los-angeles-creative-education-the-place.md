@@ -26,7 +26,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016067'
 title: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 uri: >-
   /organizations/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/

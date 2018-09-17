@@ -31,7 +31,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016043'
 title: CoachArt
 uri: /organizations/coachart/
 challenge_url: >-

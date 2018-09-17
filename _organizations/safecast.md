@@ -19,7 +19,6 @@ org_summary: >-
   Angeles!
 areas_impacted: ''
 project_ids: '4102162'
-organization_id_2: '2014190'
 title: Safecast
 uri: /organizations/safecast/
 challenge_url: ''

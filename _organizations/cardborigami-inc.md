@@ -7,9 +7,11 @@ ein: '274595299'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274595299'
 ntee_type: ''
-tags_indicators: >-
-  Housing, Arts and Cultural Vitality: Innovation, Homelessness, Creative
-  industry
+tags_indicators:
+  - Housing
+  - 'Arts and Cultural Vitality: Innovation'
+  - Homelessness
+  - Creative industry
 twitter: 'https://twitter.com/Cardborigami'
 instagram: 'https://www.instagram.com/cardborigami/'
 facebook: 'https://www.facebook.com/Cardborigami/'
@@ -30,7 +32,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102013'
-organization_id_2: '2018013'
 title: Cardborigami Inc
 uri: /organizations/cardborigami-inc/
 challenge_url: 'https://activation.la2050.org/live/cardborigami-inc/'

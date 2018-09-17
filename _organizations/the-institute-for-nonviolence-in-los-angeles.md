@@ -21,7 +21,6 @@ org_summary: >-
   public issues.
 areas_impacted: 'City of Los Angeles (citywide),LAUSD'
 project_ids: '5102303'
-organization_id_2: '2015201'
 title: The Institute for Nonviolence in Los Angeles
 uri: /organizations/the-institute-for-nonviolence-in-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'

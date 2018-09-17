@@ -7,9 +7,15 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  STEM, education, career readiness, children, youth, mentorship, job training,
-  science
+tags_indicators:
+  - STEM
+  - education
+  - career readiness
+  - children
+  - youth
+  - mentorship
+  - job training
+  - science
 twitter: stemadvantage
 instagram: STEMAdvantage
 facebook: stemadvantage
@@ -29,7 +35,6 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016202'
 title: STEM Advantage
 uri: /organizations/stem-advantage/
 challenge_url: >-

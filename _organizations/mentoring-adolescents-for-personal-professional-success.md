@@ -7,9 +7,13 @@ ein: Personal DBA
 zip: '91105'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, Social Connectedness, Income and Employment: Job training,
-  Underserved youth, Training and development, Youth
+tags_indicators:
+  - Education
+  - Social Connectedness
+  - 'Income and Employment: Job training'
+  - Underserved youth
+  - Training and development
+  - Youth
 twitter: '0'
 instagram: '0'
 facebook: '0'
@@ -26,7 +30,6 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: ''
-organization_id_2: '2018082'
 title: Mentoring Adolescents for Personal & Professional Success
 uri: /organizations/mentoring-adolescents-for-personal-professional-success/
 challenge_url: >-

@@ -19,7 +19,6 @@ org_summary: >-
   sustainable, self-reliant local economy.
 areas_impacted: 'County of Los Angeles (countywide),Other (please specify below):'
 project_ids: '5102254'
-organization_id_2: '2015118'
 title: Localism Inc.
 uri: /organizations/localism-inc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'

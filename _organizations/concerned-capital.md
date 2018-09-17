@@ -26,7 +26,6 @@ areas_impacted:
   - South LA
   - Gateway Cities
 project_ids: '5102152'
-organization_id_2: '2016055'
 title: Concerned Capital
 uri: /organizations/concerned-capital/
 challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'

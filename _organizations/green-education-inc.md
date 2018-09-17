@@ -20,7 +20,6 @@ org_summary: >-
   sustainable neighborhoods.
 areas_impacted: ''
 project_ids: '4102132'
-organization_id_2: '2014147'
 title: Green Education Inc.
 uri: /organizations/green-education-inc/
 challenge_url: ''

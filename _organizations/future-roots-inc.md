@@ -7,9 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  education, financial management, income and employment, training and
-  development
+tags_indicators:
+  - education
+  - financial management
+  - income and employment
+  - training and development
 twitter: dublab
 instagram: dublab
 facebook: dublab
@@ -23,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016086'
 title: Future Roots Inc.
 uri: /organizations/future-roots-inc/
 challenge_url: >-

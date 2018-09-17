@@ -7,9 +7,15 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  STEM, education, career readiness, children, youth, mentorship, job training,
-  science
+tags_indicators:
+  - STEM
+  - education
+  - career readiness
+  - children
+  - youth
+  - mentorship
+  - job training
+  - science
 twitter: STEM3Academy
 instagram: Stem3Academy
 facebook: NA
@@ -36,7 +42,6 @@ areas_impacted:
   - LAUSD
   - We work with more than 50 school districts
 project_ids: ''
-organization_id_2: '2016220'
 title: The Help Group's STEM3 Academy
 uri: /organizations/the-help-groups-stem3-academy/
 challenge_url: >-

@@ -7,9 +7,11 @@ ein: '954425565'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425565'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Volunteerism, Poverty,
-  Underserved Youth
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Volunteerism'
+  - Poverty
+  - Underserved Youth
 twitter: '@ShoesThatFit'
 instagram: shoesthatfitcharity
 facebook: 'https://www.facebook.com/ShoesThatFitNonProfit'
@@ -33,7 +35,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102108'
-organization_id_2: '2018108'
 title: Shoes That Fit
 uri: /organizations/shoes-that-fit/
 challenge_url: 'https://activation.la2050.org/live/shoes-that-fit/'

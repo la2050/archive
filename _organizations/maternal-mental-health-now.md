@@ -7,7 +7,8 @@ ein: '934302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=934302067'
 ntee_type: ''
-tags_indicators: Mental Health and wellness for new mothers
+tags_indicators:
+  - Mental Health and wellness for new mothers
 twitter: 'https://twitter.com/mmhealthnow'
 instagram: 'https://instagram.com/maternalmentalhealthnow/'
 facebook: 'https://www.facebook.com/MaternalMentalHealthNow/'
@@ -21,7 +22,6 @@ org_summary: >-
   their babies and families can have optimal beginnings.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102203'
-organization_id_2: '2015134'
 title: Maternal Mental Health NOW
 uri: /organizations/maternal-mental-health-now/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'

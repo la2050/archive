@@ -7,7 +7,8 @@ ein: '237360521'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -49,7 +50,6 @@ org_summary: >-
    <p>In all of our work, our primary commitment is to develop community capacity to address education, economic development, and other issues in an ongoing way. Provision of high-quality direct services is necessary, but does not go far enough: what is needed is the growth of leadership and ownership within communities themselves to carry these initiatives forward on a self-sufficient, sustainable basis.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013168'
 title: South Bay Center for Community Development
 uri: /organizations/south-bay-center-for-community-development/
 challenge_url: 'http://maker.good.is/myla2050/projects/act2connect.html'

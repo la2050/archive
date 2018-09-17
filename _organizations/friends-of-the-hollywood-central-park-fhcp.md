@@ -21,7 +21,6 @@ org_summary: >-
   aesthetic benefits.
 areas_impacted: 'Central LA,Other (please specify below):'
 project_ids: '5102106'
-organization_id_2: '2015068'
 title: Friends of the Hollywood Central Park (FHCP)
 uri: /organizations/friends-of-the-hollywood-central-park-fhcp/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'

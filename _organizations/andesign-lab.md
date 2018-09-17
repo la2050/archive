@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Drought-adaptive, environmentally safe gardens'
+tags_indicators:
+  - Drought-adaptive
+  - environmentally safe gardens
 twitter: ANDESIGN_
 instagram: andesignoc
 facebook: andesignlab
@@ -19,7 +21,6 @@ org_summary: ANDesign Lab is a full-fledged industrial design firm.
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016009'
 title: ANDesign Lab
 uri: /organizations/andesign-lab/
 challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'

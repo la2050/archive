@@ -7,9 +7,10 @@ ein: '954459427'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954459427'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Training and development,
-  Underserved communities
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Training and development'
+  - Underserved communities
 twitter: '@FairWorkweekLA'
 instagram: '@FairWorkweekLA'
 facebook: facebook.com/fairworkweekla
@@ -26,7 +27,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102072'
-organization_id_2: '2018072'
 title: Los Angeles Alliance for a New Economy-Fair Workweek
 uri: /organizations/los-angeles-alliance-for-a-new-economy-fair-workweek/
 challenge_url: >-

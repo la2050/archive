@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Digital literacy, underserved youth, diversity, education, digital equity,
-  sustainability, green industry
+tags_indicators:
+  - Digital literacy
+  - underserved youth
+  - diversity
+  - education
+  - digital equity
+  - sustainability
+  - green industry
 twitter: MelroseMSTPTO
 instagram: MelroseElementaryPTO
 facebook: melrosemstpto
@@ -24,7 +29,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016146'
 title: Melrose Elementary PTO
 uri: /organizations/melrose-elementary-pto/
 challenge_url: >-

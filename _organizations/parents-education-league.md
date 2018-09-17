@@ -7,7 +7,9 @@ ein: '264510950'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264510950'
 ntee_type: ''
-tags_indicators: 'Education, youth'
+tags_indicators:
+  - Education
+  - youth
 twitter: peltweet
 instagram: PELofLA
 facebook: pelofla
@@ -22,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016162'
 title: Parents Education League
 uri: /organizations/parents-education-league/
 challenge_url: >-

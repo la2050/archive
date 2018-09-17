@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Innovation, inclusion, community health, public health, public safety,'
+tags_indicators:
+  - Innovation
+  - inclusion
+  - community health
+  - public health
+  - 'public safety,'
 twitter: hashtag_library
 instagram: Hashtag-Library-195742357523735/
 facebook: hashtag.library
@@ -22,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '4102073'
-organization_id_2: '2016001'
 title: '#Library'
 uri: /organizations/library/
 challenge_url: >-

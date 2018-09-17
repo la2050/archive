@@ -7,7 +7,12 @@ ein: '510151116'
 zip: '93024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510151116'
 ntee_type: ''
-tags_indicators: 'public safety, community health, health, public space, education'
+tags_indicators:
+  - public safety
+  - community health
+  - health
+  - public space
+  - education
 twitter: ojaifoundation
 instagram: ojaifoundation/
 facebook: n/a
@@ -22,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016228'
 title: The Ojai Foundation
 uri: /organizations/the-ojai-foundation/
 challenge_url: >-

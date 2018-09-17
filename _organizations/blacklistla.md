@@ -25,7 +25,6 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: ''
-organization_id_2: '2016021'
 title: BlacklistLA
 uri: /organizations/blacklistla/
 challenge_url: >-

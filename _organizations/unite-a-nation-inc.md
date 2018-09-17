@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Mentorship, training and development, Youth, career readiness, education'
+tags_indicators:
+  - Mentorship
+  - training and development
+  - Youth
+  - career readiness
+  - education
 twitter: uniteanationinc
 instagram: uniteanation
 facebook: uniteanationinc
@@ -25,7 +30,6 @@ areas_impacted:
   - LAUSD
   - Baldwin Village 'The Jungles'
 project_ids: ''
-organization_id_2: '2016243'
 title: 'Unite A Nation, Inc.'
 uri: /organizations/unite-a-nation-inc/
 challenge_url: >-

@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, mentorship, education, training and development'
+tags_indicators:
+  - Youth
+  - mentorship
+  - education
+  - training and development
 twitter: futurescouts
 instagram: futurescouts.co
 facebook: futurescouts
@@ -27,7 +31,6 @@ areas_impacted:
   - Westside
   - South Bay
 project_ids: '8102086'
-organization_id_2: '2016085'
 title: Future Fields
 uri: /organizations/future-fields/
 challenge_url: >-

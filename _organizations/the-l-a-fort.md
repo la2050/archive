@@ -20,7 +20,6 @@ org_summary: >-
   focused on collaboration and empowerment through the arts.
 areas_impacted: 'Central LA,Other:'
 project_ids: '4102092'
-organization_id_2: '2014092'
 title: The L.A. Fort
 uri: /organizations/the-l-a-fort/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/theLAFort.html'

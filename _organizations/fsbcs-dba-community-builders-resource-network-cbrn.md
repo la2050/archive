@@ -12,7 +12,8 @@ ein: '930699645'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=930699645'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -38,7 +39,6 @@ org_summary: >-
    This has been done by effectively collaborating with a host of other community organizations from withing the public and private sectors. As continued recipients of Federal resources, the boundaries between Church and State are clearly understood and respected.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013076'
 title: FSBCS dba Community Builders Resource Network (CBRN)
 uri: /organizations/fsbcs-dba-community-builders-resource-network-cbrn/
 challenge_url: 'http://maker.good.is/myla2050/projects/CBRN.html'

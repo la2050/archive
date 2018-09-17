@@ -7,9 +7,10 @@ ein: '954392004'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954392004'
 ntee_type: ''
-tags_indicators: >-
-  Workplace justice, Housing rights, and democratic rights among Korean
-  immigrants
+tags_indicators:
+  - Workplace justice
+  - Housing rights
+  - and democratic rights among Korean immigrants
 twitter: 'http://www.twitter.com/kiwa4justice'
 instagram: ''
 facebook: 'https://www.facebook.com/KoreaTownImmigrantWorkersAlliance'
@@ -23,7 +24,6 @@ org_summary: >-
   sustainable community development and civic participation.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102163'
-organization_id_2: '2015106'
 title: Koreatown Immigrant Worker Alliance
 uri: /organizations/koreatown-immigrant-worker-alliance/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'

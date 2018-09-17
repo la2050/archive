@@ -7,9 +7,16 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  STEM, education, career readiness, children, youth, mentorship, job training,
-  science, college preparedness
+tags_indicators:
+  - STEM
+  - education
+  - career readiness
+  - children
+  - youth
+  - mentorship
+  - job training
+  - science
+  - college preparedness
 twitter: encorps
 instagram: EnCorps
 facebook: encorpsstemteachers
@@ -24,7 +31,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016071'
 title: 'EnCorps, Inc.'
 uri: /organizations/encorps-inc/
 challenge_url: >-

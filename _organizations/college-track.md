@@ -7,7 +7,8 @@ ein: '943279613'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943279613'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: collegetrack
 instagram: nationalcollegetrack
 facebook: collegetrack
@@ -24,7 +25,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016048'
 title: College Track
 uri: /organizations/college-track/
 challenge_url: >-

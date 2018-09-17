@@ -7,9 +7,11 @@ ein: '954302067'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Underserved youth, Communities of
-  color, Career readiness
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Underserved youth'
+  - Communities of color
+  - Career readiness
 twitter: 'https://twitter.com/Investinyouthco'
 instagram: 'https://www.instagram.com/investinyouth_/'
 facebook: 'https://www.facebook.com/InvestinYouthCo/'
@@ -25,7 +27,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102008'
-organization_id_2: '2018008'
 title: Big Citizen HUB
 uri: /organizations/big-citizen-hub/
 challenge_url: 'https://activation.la2050.org/live/big-citizen-hub/'

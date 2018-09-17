@@ -22,7 +22,6 @@ org_summary: >-
   learners.
 areas_impacted: 'South LA,South Bay,LAUSD'
 project_ids: '5102033'
-organization_id_2: '2015020'
 title: Boys & Girls Clubs of Carson
 uri: /organizations/boys-girls-clubs-of-carson/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'

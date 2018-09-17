@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Economic development, underprivilaged communities'
+tags_indicators:
+  - Economic development
+  - underprivilaged communities
 twitter: mas4la
 instagram: mas4LA
 facebook: none
@@ -30,7 +32,6 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016075'
 title: Evolve LA (project of LA-Más)
 uri: /organizations/evolve-la-project-of-la-más/
 challenge_url: >-

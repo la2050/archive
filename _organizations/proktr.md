@@ -19,7 +19,6 @@ org_summary: >-
   Angeles.
 areas_impacted: 'Central LA,East LA,South LA,Westside'
 project_ids: ''
-organization_id_2: '2014072'
 title: Proktr
 uri: /organizations/proktr/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'

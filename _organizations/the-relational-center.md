@@ -7,7 +7,8 @@ ein: '260511164'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260511164'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -29,7 +30,6 @@ org_summary: >-
    <p>Since 2007, The Relational Center has reached over 3,000 residents of Greater Los Angeles with a broad-based social health strategy that includes mental health care, workforce development for service providers and community organizers, social action campaigns, public dialogue facilitation and capacity building support. </p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013196'
 title: The Relational Center
 uri: /organizations/the-relational-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/relationalcenter.html'

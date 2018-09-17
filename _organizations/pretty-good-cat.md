@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Animal advocacy
+tags_indicators:
+  - Animal advocacy
 twitter: PrettyGoodCat
 instagram: prettygoodcat
 facebook: prettygoodcat
@@ -23,7 +24,6 @@ areas_impacted:
   - Westside
   - South Bay
 project_ids: ''
-organization_id_2: '2016177'
 title: Pretty Good Cat
 uri: /organizations/pretty-good-cat/
 challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'

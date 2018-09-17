@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Mentorship, training and development, Youth, college preparedness, education,
-  parents
+tags_indicators:
+  - Mentorship
+  - training and development
+  - Youth
+  - college preparedness
+  - education
+  - parents
 twitter: College_Bridge
 instagram: CollegeBridgeLA
 facebook: college.bridge
@@ -34,7 +38,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016047'
 title: College Bridge
 uri: /organizations/college-bridge/
 challenge_url: >-

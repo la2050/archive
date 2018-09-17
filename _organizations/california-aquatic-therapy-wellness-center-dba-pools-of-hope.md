@@ -7,9 +7,15 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Poverty, underserved communities, children, mentorship, education, teachers,
-  STEM, high school graduation
+tags_indicators:
+  - Poverty
+  - underserved communities
+  - children
+  - mentorship
+  - education
+  - teachers
+  - STEM
+  - high school graduation
 twitter: caaqua
 instagram: caaquatictherapy
 facebook: N/A
@@ -24,7 +30,6 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: ''
-organization_id_2: '2016029'
 title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 uri: /organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
 challenge_url: >-

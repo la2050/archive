@@ -22,7 +22,6 @@ org_summary: >-
   national park stewards.
 areas_impacted: 'County of Los Angeles (countywide),LAUSD'
 project_ids: '5102217'
-organization_id_2: '2015142'
 title: National Park Foundation
 uri: /organizations/national-park-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'

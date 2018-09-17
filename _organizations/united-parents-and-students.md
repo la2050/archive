@@ -7,9 +7,12 @@ ein: '813413763'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Underserved communities, Policy,
-  Communities of color, Training and development
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Underserved communities'
+  - Policy
+  - Communities of color
+  - Training and development
 twitter: '0'
 instagram: '0'
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'
@@ -30,7 +33,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102131'
-organization_id_2: '2018131'
 title: United Parents and Students
 uri: /organizations/united-parents-and-students/
 challenge_url: 'https://activation.la2050.org/connect/united-parents-and-students/'

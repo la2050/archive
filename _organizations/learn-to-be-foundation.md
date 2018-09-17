@@ -7,7 +7,8 @@ ein: '261919770'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261919770'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -51,7 +52,6 @@ org_summary: |-
    </ul>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013120'
 title: Learn To Be Foundation
 uri: /organizations/learn-to-be-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/ltb.html'

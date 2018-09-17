@@ -22,7 +22,6 @@ org_summary: >-
   to underserved youth.
 areas_impacted: 'East LA,Westside,Other (please specify below):'
 project_ids: '5102185'
-organization_id_2: '2015120'
 title: Los Angeles Center of Photography
 uri: /organizations/los-angeles-center-of-photography/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/LACP.html'

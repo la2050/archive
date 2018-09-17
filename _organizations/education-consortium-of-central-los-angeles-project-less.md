@@ -7,7 +7,8 @@ ein: '954230350'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -79,7 +80,6 @@ org_summary: >-
    <p>In October of 2011, we opened as a private, profit-seeking business.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013057'
 title: Education Consortium of Central Los Angeles / Project LESS
 uri: /organizations/education-consortium-of-central-los-angeles-project-less/
 challenge_url: 'http://maker.good.is/myla2050/projects/morelearning.html'

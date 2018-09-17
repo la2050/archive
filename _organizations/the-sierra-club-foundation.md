@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: MyGenerationSC
 instagram: MyGenerationSC
 facebook: mygencampaign
@@ -25,7 +26,6 @@ areas_impacted:
   - San Fernando Valley
   - South LA
 project_ids: ''
-organization_id_2: '2016232'
 title: The Sierra Club Foundation
 uri: /organizations/the-sierra-club-foundation/
 challenge_url: >-

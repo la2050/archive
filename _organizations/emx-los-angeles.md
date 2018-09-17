@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, creative industry, Youth, children, entertainment
-  industry, income and employment, mentorship
+tags_indicators:
+  - Arts and culture vitality
+  - creative industry
+  - Youth
+  - children
+  - entertainment industry
+  - income and employment
+  - mentorship
 twitter: emx_la
 instagram: emx.la
 facebook: emx.la
@@ -30,7 +35,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '4102129'
-organization_id_2: '2016070'
 title: EMX Los Angeles
 uri: /organizations/emx-los-angeles/
 challenge_url: >-

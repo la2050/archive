@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Income and employment, entrepreneurship, health, community health, healthy
-  food, small business
+tags_indicators:
+  - Income and employment
+  - entrepreneurship
+  - health
+  - community health
+  - healthy food
+  - small business
 twitter: thecoolla
 instagram: thecoolla
 facebook: thecoolla
@@ -24,7 +28,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016235'
 title: thecool
 uri: /organizations/thecool/
 challenge_url: >-

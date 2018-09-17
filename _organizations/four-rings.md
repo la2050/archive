@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Health, community health, fitness, sports'
+tags_indicators:
+  - Health
+  - community health
+  - fitness
+  - sports
 twitter: FourRingsCo
 instagram: fourrings.co
 facebook: fourrings.co
@@ -24,7 +28,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016081'
 title: Four Rings
 uri: /organizations/four-rings/
 challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'

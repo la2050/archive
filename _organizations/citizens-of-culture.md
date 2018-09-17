@@ -7,7 +7,10 @@ ein: '821044989'
 zip: '91506'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821044989'
 ntee_type: 'Arts, Culture and Humanities'
-tags_indicators: 'Arts and culture vitality, arts and culture, creative industry'
+tags_indicators:
+  - Arts and culture vitality
+  - arts and culture
+  - creative industry
 twitter: '@ctznsofculture'
 instagram: ctznsofculture
 facebook: 'https://www.facebook.com/CitizensOfCulture/'
@@ -24,7 +27,6 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102022'
-organization_id_2: '2018022'
 title: Citizens Of Culture
 uri: /organizations/citizens-of-culture/
 challenge_url: 'https://activation.la2050.org/connect/citizens-of-culture/'

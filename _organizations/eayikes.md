@@ -7,9 +7,13 @@ ein: '462395125'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462395125'
 ntee_type: ''
-tags_indicators: >-
-  Education, Health, Social Connectedness: Diversity, Youth, Community health,
-  Underserved communities
+tags_indicators:
+  - Education
+  - Health
+  - 'Social Connectedness: Diversity'
+  - Youth
+  - Community health
+  - Underserved communities
 twitter: '0'
 instagram: '@eayikes'
 facebook: facebook.com/eayikes
@@ -24,7 +28,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102036'
-organization_id_2: '2018036'
 title: Eayikes
 uri: /organizations/eayikes/
 challenge_url: 'https://activation.la2050.org/connect/eayikes/'

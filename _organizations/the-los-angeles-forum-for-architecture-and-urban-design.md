@@ -19,7 +19,6 @@ org_summary: >-
   impact the development of architecture in Los Angeles.
 areas_impacted: ''
 project_ids: '4102172'
-organization_id_2: '2014205'
 title: The Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/the-los-angeles-forum-for-architecture-and-urban-design/
 challenge_url: ''

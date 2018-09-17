@@ -7,7 +7,8 @@ ein: '951642394'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -51,7 +52,6 @@ org_summary: >-
   make use of the game-based tools.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013158'
 title: Pullias Center for Higher Education
 uri: /organizations/pullias-center-for-higher-education/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegecapacity.html'

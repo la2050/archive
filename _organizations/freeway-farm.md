@@ -21,7 +21,6 @@ org_summary: >-
   source.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102105'
-organization_id_2: '2015067'
 title: Freeway Farm
 uri: /organizations/freeway-farm/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'

@@ -18,7 +18,6 @@ project_video: ''
 org_summary: We help mental health consumers live fuller lives using the theater arts.
 areas_impacted: ''
 project_ids: '4102137'
-organization_id_2: '2014155'
 title: Imagination Workshop
 uri: /organizations/imagination-workshop/
 challenge_url: ''

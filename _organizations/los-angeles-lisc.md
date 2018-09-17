@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Environmental quality, sustainability, green industry, income and employment,
-  poverty, homelessness,
+tags_indicators:
+  - Environmental quality
+  - sustainability
+  - green industry
+  - income and employment
+  - poverty
+  - 'homelessness,'
 twitter: LISC_LA
 instagram: N/A
 facebook: N/A
@@ -25,7 +29,6 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: ''
-organization_id_2: '2016136'
 title: Los Angeles LISC
 uri: /organizations/los-angeles-lisc/
 challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'

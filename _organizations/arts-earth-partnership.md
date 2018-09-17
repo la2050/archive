@@ -7,7 +7,8 @@ ein: '571151955'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571151955'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -35,7 +36,6 @@ org_summary: >-
    To date we have 40 members in Los Angeles. You can see a full list here. http://artsearthpartnership.org/members/
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013017'
 title: 'Arts:Earth Partnership'
 uri: /organizations/arts-earth-partnership/
 challenge_url: 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'

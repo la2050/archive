@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: smbgc
 instagram: smbgcfan
 facebook: smbgc
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: ''
-organization_id_2: '2016051'
 title: Community Corporation of Santa Monica
 uri: /organizations/community-corporation-of-santa-monica/
 challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'

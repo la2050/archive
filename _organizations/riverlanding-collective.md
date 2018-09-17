@@ -7,7 +7,8 @@ ein: '900627151'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -75,7 +76,6 @@ org_summary: |-
    Lars Jan is writer, film-maker and the artistic director of Early Morning Opera, a genre-bending performance + art lab. He has made artworks about TED talks, Laika the Soviet space dog, land art, and suicide bombing. Larsâ€™ work has been supported by many significant artistic institutions. He is also a 2013 TED Senior Fellow and is currently developing a public spectacle about flooding and the future of empathy.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013164'
 title: RiverLAnding Collective
 uri: /organizations/riverlanding-collective/
 challenge_url: 'http://maker.good.is/myla2050/projects/LARiverLanding.html'

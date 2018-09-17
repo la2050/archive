@@ -7,7 +7,8 @@ ein: '475129866'
 zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475129866'
 ntee_type: ''
-tags_indicators: 'Healthy/organic eating,'
+tags_indicators:
+  - 'Healthy/organic eating,'
 twitter: theedibleapt
 instagram: TheEdibleApartment
 facebook: theedibleapartment
@@ -27,7 +28,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016216'
 title: The Edible Apartment
 uri: /organizations/the-edible-apartment/
 challenge_url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'

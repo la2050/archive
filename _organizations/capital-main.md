@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Inclusion, community health'
+tags_indicators:
+  - Inclusion
+  - community health
 twitter: capitalandmain
 instagram: capitalandmain
 facebook: Not applicable
@@ -33,7 +35,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016035'
 title: Capital & Main
 uri: /organizations/capital-main/
 challenge_url: >-

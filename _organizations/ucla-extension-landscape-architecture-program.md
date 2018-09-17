@@ -20,7 +20,6 @@ org_summary: >-
   solutions that make Los Angeles more livable, green and beautiful.
 areas_impacted: 'Central LA,South LA,Westside,Other:'
 project_ids: '4102100'
-organization_id_2: '2014101'
 title: UCLA Extension Landscape Architecture Program
 uri: /organizations/ucla-extension-landscape-architecture-program/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'

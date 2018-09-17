@@ -20,7 +20,6 @@ org_summary: >-
   Arts District, offering undergraduate and graduate programs.
 areas_impacted: ''
 project_ids: '4102163'
-organization_id_2: '2014191'
 title: Southern California Institute of Architecture (SCI-Arc)
 uri: /organizations/southern-california-institute-of-architecture-sci-arc/
 challenge_url: ''

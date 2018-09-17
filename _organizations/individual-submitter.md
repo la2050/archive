@@ -22,7 +22,6 @@ org_summary: >-
   solutions to tough problems.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102141'
-organization_id_2: '2015091'
 title: Individual submitter
 uri: /organizations/individual-submitter/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'

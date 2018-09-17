@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: KPCC
 instagram: KPCC
 facebook: KPCC
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016199'
 title: Southern California Public Radio (KPCC)
 uri: /organizations/southern-california-public-radio-kpcc/
 challenge_url: >-

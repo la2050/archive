@@ -21,7 +21,6 @@ org_summary: >-
   place.
 areas_impacted: 'Other (please specify below):'
 project_ids: ''
-organization_id_2: '2015041'
 title: Colossi
 uri: /organizations/colossi/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/colossi.html'

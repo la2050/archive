@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Health care, Medicine'
+tags_indicators:
+  - Health care
+  - Medicine
 twitter: Drsforamerica
 instagram: DoctorsforAmerica
 facebook: n/a
@@ -33,7 +35,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016065'
 title: Doctors for America
 uri: /organizations/doctors-for-america/
 challenge_url: >-

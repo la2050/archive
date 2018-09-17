@@ -24,7 +24,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016200'
 title: Spark Los Angeles
 uri: /organizations/spark-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'

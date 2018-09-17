@@ -19,7 +19,6 @@ org_summary: >-
   to underserved youth in Los Angeles.
 areas_impacted: ''
 project_ids: '4102169'
-organization_id_2: '2014201'
 title: The Gabriella Foundation
 uri: /organizations/the-gabriella-foundation/
 challenge_url: ''

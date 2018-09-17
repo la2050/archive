@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: GetGaggle
 instagram: getgaggle
 facebook: epageinc
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '4102130'
-organization_id_2: '2016072'
 title: EPage
 uri: /organizations/epage/
 challenge_url: >-

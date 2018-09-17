@@ -7,7 +7,8 @@ ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: '@ctrforcouncil'
 instagram: '@CenterforCouncil'
 facebook: CenterforCouncil
@@ -30,7 +31,6 @@ areas_impacted:
     Any area where the organizations participating in Connection through Council
     are located
 project_ids: '8102015'
-organization_id_2: '2018015'
 title: 'Center for Council, a project of Community Partners'
 uri: /organizations/center-for-council-a-project-of-community-partners/
 challenge_url: >-

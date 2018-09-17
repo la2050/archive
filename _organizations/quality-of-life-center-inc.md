@@ -7,7 +7,8 @@ ein: '550896331'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=550896331'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -29,7 +30,6 @@ org_summary: >-
    One of our other programs is a second chance program that allows juvenile first offenders an opportunity to turn their lives around. These Juveniles, referred into the program from the Juvenile Justice System are given an opportunity to redeem themselves, build self-esteem, and develop character while learning to make positive life choices. Many have taken that opportunity that they were given and done just that. Most of them have gone on to college and are living a life "on the straight and narrow".
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013159'
 title: 'Quality of Life Center, Inc.'
 uri: /organizations/quality-of-life-center-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'

@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'College preparedness, career readiness, education'
+tags_indicators:
+  - College preparedness
+  - career readiness
+  - education
 twitter: CSUNorthridge
 instagram: CalStateNorthridge
 facebook: CSUN_edu
@@ -24,7 +27,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016032'
 title: 'California State University, Northridge (CSUN)'
 uri: /organizations/california-state-university-northridge-csun/
 challenge_url: >-

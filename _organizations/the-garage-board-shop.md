@@ -7,7 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, youth, health, underserved youth, inclusion, crime,'
+tags_indicators:
+  - Education
+  - youth
+  - health
+  - underserved youth
+  - inclusion
+  - 'crime,'
 twitter: GarageBoardshop
 instagram: The-Garage-Board-Shop-155402207883024/
 facebook: the_garageboardshop/
@@ -23,7 +29,6 @@ areas_impacted:
   - South LA
   - Boyle Heights
 project_ids: ''
-organization_id_2: '2016218'
 title: The Garage Board Shop
 uri: /organizations/the-garage-board-shop/
 challenge_url: 'https://challenge.la2050.org/entry/sk8-4-education'

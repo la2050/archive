@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: LAPlazaLA
 instagram: LAPlazaLA
 facebook: LAPlazaLa
@@ -24,7 +25,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016123'
 title: LA Plaza de Cultura y Artes
 uri: /organizations/la-plaza-de-cultura-y-artes/
 challenge_url: >-

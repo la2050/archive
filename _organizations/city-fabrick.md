@@ -7,9 +7,11 @@ ein: '451130362'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451130362'
 ntee_type: ''
-tags_indicators: >-
-  Housing, Arts and Cultural Vitality: Creative industry, Innovation, Affordable
-  housing
+tags_indicators:
+  - Housing
+  - 'Arts and Cultural Vitality: Creative industry'
+  - Innovation
+  - Affordable housing
 twitter: '@cityfabrick'
 instagram: cityfabrick
 facebook: cityfabrick
@@ -22,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102023'
-organization_id_2: '2018023'
 title: City Fabrick
 uri: /organizations/city-fabrick/
 challenge_url: 'https://activation.la2050.org/live/city-fabrick/'

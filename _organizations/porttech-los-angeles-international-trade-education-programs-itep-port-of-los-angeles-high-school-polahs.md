@@ -21,7 +21,6 @@ org_summary: >-
   solve port/global environmental challenges, and create jobs.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102241'
-organization_id_2: '2015158'
 title: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
   Los Angeles High School (POLAHS)

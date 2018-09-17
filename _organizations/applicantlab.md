@@ -20,7 +20,6 @@ org_summary: >-
   college essays, get strong recommendations, etc.
 areas_impacted: 'Westside,LAUSD'
 project_ids: ''
-organization_id_2: '2015011'
 title: ApplicantLab
 uri: /organizations/applicantlab/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'

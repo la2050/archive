@@ -7,9 +7,13 @@ ein: ''
 zip: '90014'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, Income and Employment: Youth, Entrepreneurship, Mentorship, STEM,
-  Technology
+tags_indicators:
+  - Education
+  - 'Income and Employment: Youth'
+  - Entrepreneurship
+  - Mentorship
+  - STEM
+  - Technology
 twitter: '@thepplofchange'
 instagram: '@thepplofchange'
 facebook: 'https://www.facebook.com/thepeopleofchange/'
@@ -24,7 +28,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102122'
-organization_id_2: '2018122'
 title: The People of Change
 uri: /organizations/the-people-of-change/
 challenge_url: 'https://activation.la2050.org/learn/the-people-of-change/'

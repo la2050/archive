@@ -7,9 +7,13 @@ ein: '451634118'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451634118'
 ntee_type: ''
-tags_indicators: >-
-  Education, Health, Social Connectedness: Sports, Underserved youth, Youth,
-  Volunteerism
+tags_indicators:
+  - Education
+  - Health
+  - 'Social Connectedness: Sports'
+  - Underserved youth
+  - Youth
+  - Volunteerism
 twitter: '@harlemlacrosse'
 instagram: '@harlemlacrosse_LA'
 facebook: 'https://www.facebook.com/harlemlacrosseLA/'
@@ -27,7 +31,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '8102051'
-organization_id_2: '2018051'
 title: Harlem Lacrosse - Los Angeles
 uri: /organizations/harlem-lacrosse-los-angeles/
 challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'

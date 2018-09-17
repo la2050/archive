@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Mentorship, Education, Underserved communities'
+tags_indicators:
+  - Mentorship
+  - Education
+  - Underserved communities
 twitter: Glenfeliz_SAS
 instagram: groups/35639714531/
 facebook: glenfelizsas
@@ -22,7 +25,6 @@ areas_impacted:
   - East LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016082'
 title: Friends of Glenfeliz
 uri: /organizations/friends-of-glenfeliz/
 challenge_url: 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'

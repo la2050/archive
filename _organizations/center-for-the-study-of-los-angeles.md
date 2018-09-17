@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: LMUstudyLA
 instagram: LMUstudyLA
 facebook: LMUstudyLA
@@ -33,7 +34,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016036'
 title: Center for the Study of Los Angeles
 uri: /organizations/center-for-the-study-of-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/la-votes'

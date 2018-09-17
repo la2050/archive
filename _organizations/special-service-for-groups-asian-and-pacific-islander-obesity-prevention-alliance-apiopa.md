@@ -9,7 +9,8 @@ ein: '951716914'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -56,7 +57,6 @@ org_summary: |-
    â€¢ Worked with youth and policy experts to craft a community development policy described as "A Model of LA Planning," which will set strong environmental and equity protections for local residents
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013170'
 title: >-
   Special Service for Groups/Asian and Pacific Islander Obesity Prevention
   Alliance (APIOPA)

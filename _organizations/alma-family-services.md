@@ -7,7 +7,8 @@ ein: '952959331'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952959331'
 ntee_type: ''
-tags_indicators: Public Safety
+tags_indicators:
+  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''
@@ -40,7 +41,6 @@ org_summary: >-
    Alma Family Services has been recognized at the State, County and City Level for its commitment in delivering high quality services.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013008'
 title: Alma Family Services
 uri: /organizations/alma-family-services/
 challenge_url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'

@@ -7,7 +7,8 @@ ein: '952925985'
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952925985'
 ntee_type: ''
-tags_indicators: Women's rights and employment
+tags_indicators:
+  - Women's rights and employment
 twitter: 'https://twitter.com/RisingWomenCA'
 instagram: ''
 facebook: 'https://www.facebook.com/fallenfruitfromrisingwomen'
@@ -21,7 +22,6 @@ org_summary: >-
   fruit.
 areas_impacted: 'San Gabriel Valley,Other (please specify below):'
 project_ids: '5102099'
-organization_id_2: '2015062'
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 uri: /organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'

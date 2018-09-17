@@ -21,7 +21,6 @@ org_summary: >-
   to struggling readers.
 areas_impacted: 'Westside,City of Los Angeles (citywide),LAUSD'
 project_ids: '5102023'
-organization_id_2: '2015015'
 title: Artists for Literacy / LitRemix
 uri: /organizations/artists-for-literacy-litremix/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'

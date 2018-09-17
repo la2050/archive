@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, youth, inclusion, mentorship, training and development, career
-  readiness
+tags_indicators:
+  - Education
+  - youth
+  - inclusion
+  - mentorship
+  - training and development
+  - career readiness
 twitter: FPFY
 instagram: FirstPlaceforYouth
 facebook: firstplaceforyouth
@@ -26,7 +30,6 @@ areas_impacted:
   - South LA
   - South Bay
 project_ids: ''
-organization_id_2: '2016078'
 title: First Place for Youth
 uri: /organizations/first-place-for-youth/
 challenge_url: >-

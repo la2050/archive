@@ -7,7 +7,8 @@ ein: '954489511'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954489511'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -67,7 +68,6 @@ org_summary: >-
    Needless to say, not only did I pass my Trigonometry class, I became one of the first students to receive a scholarship from EYM in 1999 and graduated from USC with honors in 2003. In 2007, I graduated with a Masters Degree in Counseling- Marriage & Family Child Therapy. Today I am a very humble and proud wife and mother, who is employed with the Los Angeles County Probation Department as a Deputy Probation Officer II. Last year I co-founded my own non-profit organization, "Enriching Communities", to be an advocate for inner city youth suffering from substance abuse.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013056'
 title: Educating Young Minds
 uri: /organizations/educating-young-minds/
 challenge_url: 'http://maker.good.is/myla2050/projects/access.html'

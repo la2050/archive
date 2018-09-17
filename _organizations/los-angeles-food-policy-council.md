@@ -23,7 +23,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016135'
 title: Los Angeles Food Policy Council
 uri: /organizations/los-angeles-food-policy-council/
 challenge_url: >-

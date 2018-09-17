@@ -7,7 +7,8 @@ ein: '208482508'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -18,7 +19,6 @@ project_video: ''
 org_summary: '#NAME?'
 areas_impacted: ''
 project_ids: '5102072'
-organization_id_2: '2013151'
 title: Participlay
 uri: /organizations/participlay/
 challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'

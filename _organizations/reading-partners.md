@@ -23,7 +23,6 @@ areas_impacted: >-
   San Gabriel Valley,Westside,South Bay,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD,Other (please specify below):
 project_ids: '5102249'
-organization_id_2: '2015165'
 title: Reading Partners
 uri: /organizations/reading-partners/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'

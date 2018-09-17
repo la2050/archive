@@ -20,7 +20,6 @@ org_summary: >-
   education to 11,300 low-income students at 26 schools.
 areas_impacted: ''
 project_ids: '4102001'
-organization_id_2: '2013005'
 title: Alliance College-Ready Public Schools
 uri: /organizations/alliance-college-ready-public-schools/
 challenge_url: ''

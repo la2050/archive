@@ -20,7 +20,6 @@ org_summary: >-
   persons vulnerable to homelessness
 areas_impacted: 'Central LA,East LA,South LA,San Gabriel Valley,Other:'
 project_ids: '4102069'
-organization_id_2: '2014068'
 title: Piece by Piece
 uri: /organizations/piece-by-piece/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'

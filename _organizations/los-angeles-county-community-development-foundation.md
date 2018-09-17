@@ -20,7 +20,6 @@ org_summary: >-
   County.
 areas_impacted: ''
 project_ids: '4102150'
-organization_id_2: '2014168'
 title: Los Angeles County Community Development Foundation
 uri: /organizations/los-angeles-county-community-development-foundation/
 challenge_url: ''

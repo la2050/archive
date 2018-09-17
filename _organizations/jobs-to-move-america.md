@@ -7,9 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Income and employment, job training, training and development, local
-  manufacturing
+tags_indicators:
+  - Income and employment
+  - job training
+  - training and development
+  - local manufacturing
 twitter: JobsMoveAmerica
 instagram: JobstoMoveAmerica
 facebook: JobstoMoveAmerica
@@ -30,7 +32,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016114'
 title: Jobs to Move America
 uri: /organizations/jobs-to-move-america/
 challenge_url: >-

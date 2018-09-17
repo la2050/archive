@@ -19,7 +19,6 @@ org_summary: >-
   strong safety net for all Californians living in poverty.
 areas_impacted: ''
 project_ids: '4102183'
-organization_id_2: '2014223'
 title: Western Center on Law & Poverty (WCLP)
 uri: /organizations/western-center-on-law-poverty-wclp/
 challenge_url: ''

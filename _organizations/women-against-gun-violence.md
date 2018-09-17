@@ -19,7 +19,6 @@ org_summary: >-
   financial and public health consequences of gun violence.
 areas_impacted: ''
 project_ids: '4102186'
-organization_id_2: '2014226'
 title: Women Against Gun Violence
 uri: /organizations/women-against-gun-violence/
 challenge_url: ''

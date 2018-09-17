@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Fitness, Public space'
+tags_indicators:
+  - Fitness
+  - Public space
 twitter: n/a
 instagram: academyofstrengthandsport
 facebook: n/a
@@ -24,7 +26,6 @@ areas_impacted:
   - San Fernando Valley
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016092'
 title: Grassroots Training for Health
 uri: /organizations/grassroots-training-for-health/
 challenge_url: >-

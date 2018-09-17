@@ -7,9 +7,12 @@ ein: '954800735'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954800735'
 ntee_type: ''
-tags_indicators: >-
-  Income and Employment, Social Connectedness, Public Safety: Underserved
-  communities, Job training, Crime
+tags_indicators:
+  - Income and Employment
+  - Social Connectedness
+  - 'Public Safety: Underserved communities'
+  - Job training
+  - Crime
 twitter: '@homeboyind'
 instagram: '@homeboyindustries'
 facebook: 'https://www.facebook.com/HomeboyIndustries/'
@@ -29,7 +32,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102053'
-organization_id_2: '2018053'
 title: Homeboy Industries
 uri: /organizations/homeboy-industries/
 challenge_url: 'https://activation.la2050.org/connect/homeboy-industries/'

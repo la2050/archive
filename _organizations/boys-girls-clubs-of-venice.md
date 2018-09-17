@@ -7,10 +7,16 @@ ein: '956209203'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956209203'
 ntee_type: ''
-tags_indicators: >-
-  Education, Arts and Cultural Vitality, Social Connectedness, Income and
-  Employment: STEM, Arts and culture, Tutoring, Underserved youth, Career
-  readiness, Mentorship
+tags_indicators:
+  - Education
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Income and Employment: STEM'
+  - Arts and culture
+  - Tutoring
+  - Underserved youth
+  - Career readiness
+  - Mentorship
 twitter: twitter.com/bgcvenice
 instagram: instagram.com/bgcvenice
 facebook: facebook.com/bgcvenice
@@ -34,7 +40,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102010'
-organization_id_2: '2018010'
 title: Boys & Girls Clubs of Venice
 uri: /organizations/boys-girls-clubs-of-venice/
 challenge_url: 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'

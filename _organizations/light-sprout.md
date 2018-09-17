@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: EmpowerMeMobile
 instagram: groups/1083984054990809/
 facebook: empowermemobile
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016131'
 title: Light Sprout
 uri: /organizations/light-sprout/
 challenge_url: >-

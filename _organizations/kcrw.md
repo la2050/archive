@@ -7,7 +7,8 @@ ein: '953750631'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953750631'
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: KCRW
 instagram: kcrwradio
 facebook: KCRW
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016117'
 title: KCRW
 uri: /organizations/kcrw/
 challenge_url: >-

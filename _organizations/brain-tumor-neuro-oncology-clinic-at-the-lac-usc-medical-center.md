@@ -7,7 +7,8 @@ ein: '956000927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -48,7 +49,6 @@ org_summary: >-
   tumor genomics studies.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013022'
 title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 uri: >-
   /organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/

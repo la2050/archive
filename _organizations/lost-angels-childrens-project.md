@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: N/A
 instagram: lostangelscp
 facebook: lost_angels_childrens_project
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Antelope Valley
 project_ids: ''
-organization_id_2: '2016141'
 title: Lost Angels Children's Project
 uri: /organizations/lost-angels-childrens-project/
 challenge_url: >-

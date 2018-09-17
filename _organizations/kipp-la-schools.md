@@ -7,7 +7,8 @@ ein: '261607268'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261607268'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -33,7 +34,6 @@ org_summary: >-
   nearly 85 percent are currently enrolled in college.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013107'
 title: KIPP LA Schools
 uri: /organizations/kipp-la-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'

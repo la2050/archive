@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '5102162'
-organization_id_2: '2014050'
 title: 'Law Soup, Inc.'
 uri: /organizations/law-soup-inc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'

@@ -7,7 +7,8 @@ ein: '452495405'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -25,7 +26,6 @@ org_summary: >-
   positive sustainable ways.
 areas_impacted: ''
 project_ids: '4102040'
-organization_id_2: '2013137'
 title: MLoveizm Inc.
 uri: /organizations/mloveizm-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'

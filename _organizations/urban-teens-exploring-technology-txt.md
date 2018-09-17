@@ -17,7 +17,6 @@ project_video: ''
 org_summary: We inspire teens in the low income communities to become tech entrepreneurs !
 areas_impacted: 'Central LA,East LA,South LA,Other:'
 project_ids: '4102102'
-organization_id_2: '2014103'
 title: URBAN Teens Exploring Technology ( TXT )
 uri: /organizations/urban-teens-exploring-technology-txt/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'

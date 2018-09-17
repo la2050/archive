@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Digital equality
+tags_indicators:
+  - Digital equality
 twitter: Everyone_On
 instagram: EveryoneOn/
 facebook: N/A
@@ -23,7 +24,6 @@ areas_impacted:
   - Central LA
   - South LA
 project_ids: ''
-organization_id_2: '2016074'
 title: EveryoneOn
 uri: /organizations/everyoneon/
 challenge_url: >-

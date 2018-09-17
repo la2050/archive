@@ -7,7 +7,8 @@ ein: '953038398'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953038398'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -26,7 +27,6 @@ org_summary: >-
   organizations.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013015'
 title: Arts Council for Long Beach
 uri: /organizations/arts-council-for-long-beach/
 challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'

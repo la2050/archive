@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: caltech
 instagram: californiainstituteoftechnology
 facebook: caltechedu/
@@ -25,7 +26,6 @@ areas_impacted:
   - LAUSD
   - LADWP and SCE's rate paying territories
 project_ids: ''
-organization_id_2: '2016030'
 title: California Institute of Technology
 uri: /organizations/california-institute-of-technology/
 challenge_url: >-

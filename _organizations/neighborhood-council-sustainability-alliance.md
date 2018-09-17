@@ -7,7 +7,10 @@ ein: '475283695'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475283695'
 ntee_type: ''
-tags_indicators: 'Carbon footprint, water footprint, community reslience'
+tags_indicators:
+  - Carbon footprint
+  - water footprint
+  - community reslience
 twitter: 'http://www.twitter.com/LA_NCSA'
 instagram: ''
 facebook: 'https://www.facebook.com/neighborhoodcouncilsustainabilityalliance'
@@ -21,7 +24,6 @@ org_summary: >-
   best practices, and community action.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102218'
-organization_id_2: '2015143'
 title: Neighborhood Council Sustainability Alliance
 uri: /organizations/neighborhood-council-sustainability-alliance/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'

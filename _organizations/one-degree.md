@@ -7,9 +7,11 @@ ein: '364729392'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
 ntee_type: ''
-tags_indicators: >-
-  Income and Employment, Social Connectedness: Poverty, Underserved communities,
-  Technology
+tags_indicators:
+  - Income and Employment
+  - 'Social Connectedness: Poverty'
+  - Underserved communities
+  - Technology
 twitter: '@1Deg'
 instagram: OneDegree
 facebook: 'https://www.facebook.com/1degree.org'
@@ -24,7 +26,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102092'
-organization_id_2: '2018092'
 title: One Degree
 uri: /organizations/one-degree/
 challenge_url: 'https://activation.la2050.org/live/one-degree/'

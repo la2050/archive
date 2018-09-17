@@ -19,7 +19,6 @@ org_summary: >-
   the arts.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102268'
-organization_id_2: '2015181'
 title: Siqueiros Foundation of the Arts
 uri: /organizations/siqueiros-foundation-of-the-arts/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'

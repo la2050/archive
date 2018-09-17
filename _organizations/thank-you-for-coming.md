@@ -7,7 +7,8 @@ ein: '460661052'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -55,7 +56,6 @@ org_summary: >-
    Japanther/69Â¢ Only: "In our research, we found that a nickel in 1930 is valued, coincidentally, at 69Â¢ today. But while automats used to provide public dignity for pennies on the dollar, in 2013, questions about value, quality and service are still highly contended. Our intention in creating a 69Â¢ Only store is to provide a place where people can eat and hang out affordably in LA. Weâ€™re challenging ourselves to fully consider the costs and value of things that are too-often omitted in the conversation: labor, modern manufacturing processes, etc. It is without a doubt that we will need to rely on creative resource gathering, careful proportioning, DIY processes, and the generosity of friends and strangers to realize a 69Â¢ Only store."
 areas_impacted: ''
 project_ids: '5102082'
-organization_id_2: '2013181'
 title: Thank You For Coming
 uri: /organizations/thank-you-for-coming/
 challenge_url: 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'

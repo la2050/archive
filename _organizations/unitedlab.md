@@ -7,7 +7,8 @@ ein: '453306366'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -41,7 +42,6 @@ org_summary: >-
    More recently, I developed a research project called â€˜Los Angeles Affordable Apartments,â€™ a multi-unit residential prototype based on traditional village housing schemes. I proposed unit prototypes for the low-income which compels pedestrian activity in DTLA. For a mobile city like Los Angeles, I believe this could be new typology that encourages such activity.
 areas_impacted: ''
 project_ids: '4102058'
-organization_id_2: '2013207'
 title: UNITEDLAB
 uri: /organizations/unitedlab/
 challenge_url: 'http://maker.good.is/myla2050/projects/poroushousing.html'

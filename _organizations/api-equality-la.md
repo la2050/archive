@@ -7,7 +7,8 @@ ein: '953854152'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953854152'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -29,7 +30,6 @@ org_summary: >-
   communities of color.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013012'
 title: API Equality-LA
 uri: /organizations/api-equality-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'

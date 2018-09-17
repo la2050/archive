@@ -7,7 +7,8 @@ ein: '680530628'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -70,7 +71,6 @@ org_summary: >-
    <p>For additional background information, please visit our website at jemmottrollinsgroup.net.</p>
 areas_impacted: ''
 project_ids: '5102056'
-organization_id_2: '2013100'
 title: Jemmott Rollins Group
 uri: /organizations/jemmott-rollins-group/
 challenge_url: 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'

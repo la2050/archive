@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: habidatum
 instagram: habidatum
 facebook: habidatum
@@ -20,7 +21,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '4102157'
-organization_id_2: '2016096'
 title: Habidatum
 uri: /organizations/habidatum/
 challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'

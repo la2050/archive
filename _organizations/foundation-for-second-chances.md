@@ -20,7 +20,6 @@ org_summary: >-
   health awareness in a nourishing environment to build a brighter future.
 areas_impacted: South LA
 project_ids: '5102104'
-organization_id_2: '2015066'
 title: Foundation for Second Chances
 uri: /organizations/foundation-for-second-chances/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'

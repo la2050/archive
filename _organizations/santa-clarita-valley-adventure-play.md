@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: SCVAdvPlay
 instagram: scvadventureplay
 facebook: scvadventureplay
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - Santa Clarita Valley and surrounding areas
 project_ids: ''
-organization_id_2: '2016189'
 title: Santa Clarita Valley Adventure Play
 uri: /organizations/santa-clarita-valley-adventure-play/
 challenge_url: >-

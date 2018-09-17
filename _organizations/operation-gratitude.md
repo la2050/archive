@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: OpGratitude
 instagram: OperationGratitude
 facebook: OpGratitude
@@ -24,7 +25,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016160'
 title: Operation Gratitude
 uri: /organizations/operation-gratitude/
 challenge_url: >-

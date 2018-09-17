@@ -20,7 +20,6 @@ org_summary: >-
   healthy, livable communities for generations to come.
 areas_impacted: ''
 project_ids: '4102176'
-organization_id_2: '2014210'
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
 challenge_url: ''

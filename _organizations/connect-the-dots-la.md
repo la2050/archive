@@ -7,7 +7,10 @@ ein: '954589325'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954589325'
 ntee_type: ''
-tags_indicators: 'Public Transit, Public Space, Water conservation'
+tags_indicators:
+  - Public Transit
+  - Public Space
+  - Water conservation
 twitter: www.twitter.com/@connectthedotsla
 instagram: connect.the.dots.la
 facebook: 'https://www.facebook.com/connectthedotsla?fref=ts'
@@ -22,7 +25,6 @@ org_summary: >-
   integrated planning.
 areas_impacted: ''
 project_ids: '5102078'
-organization_id_2: '2015045'
 title: Connect the Dots LA
 uri: /organizations/connect-the-dots-la/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'

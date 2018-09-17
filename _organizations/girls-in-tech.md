@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Education, STEM, science, inclusion, career readiness, college preparedness,
-  womens advocacy
+tags_indicators:
+  - Education
+  - STEM
+  - science
+  - inclusion
+  - career readiness
+  - college preparedness
+  - womens advocacy
 twitter: '@girlsintech'
 instagram: GirlsInTech
 facebook: girlsintech.global
@@ -25,7 +30,6 @@ areas_impacted:
   - Central LA
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016089'
 title: Girls in Tech
 uri: /organizations/girls-in-tech/
 challenge_url: >-

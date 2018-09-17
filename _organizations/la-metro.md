@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: metrolosangeles
 instagram: losangelesmetro
 facebook: metrolosangeles
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016122'
 title: LA Metro
 uri: /organizations/la-metro/
 challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'

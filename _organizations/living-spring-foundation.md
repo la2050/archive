@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Mentorship, Education, Underserved communities'
+tags_indicators:
+  - Mentorship
+  - Education
+  - Underserved communities
 twitter: LivingSpringF
 instagram: livingspringfoundation
 facebook: livingspringf
@@ -24,7 +27,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016132'
 title: Living Spring Foundation
 uri: /organizations/living-spring-foundation/
 challenge_url: >-

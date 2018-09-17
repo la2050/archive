@@ -7,9 +7,13 @@ ein: '956000735'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
 ntee_type: ''
-tags_indicators: >-
-  Education, Social Connectedness: Digital divide, Digital literacy, Underserved
-  Communities, Digital Equity, Technology
+tags_indicators:
+  - Education
+  - 'Social Connectedness: Digital divide'
+  - Digital literacy
+  - Underserved Communities
+  - Digital Equity
+  - Technology
 twitter: '@LACity'
 instagram: '0'
 facebook: 'https://www.facebook.com/CityofLosAngelesTruePage/'
@@ -24,7 +28,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102025'
-organization_id_2: '2018025'
 title: City of Los Angeles Information Technology Agency
 uri: /organizations/city-of-los-angeles-information-technology-agency/
 challenge_url: >-

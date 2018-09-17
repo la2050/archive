@@ -7,7 +7,8 @@ ein: '461226459'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461226459'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -44,7 +45,6 @@ org_summary: >-
    Initially, our dance programming focuses on Bachata, however, the Island Touch Dance Academy has provided us free use of their choreographies, including Crunkchata, which is an individual-based dance more appropriate for younger dancers. We have other dance companies, ranging from Mexican Folklorico, hip-hop, and even the flow-arts who would like to work with us. However, we first need to set our initial programming successfully in motion.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013071'
 title: For Learners of All Ages
 uri: /organizations/for-learners-of-all-ages/
 challenge_url: 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'

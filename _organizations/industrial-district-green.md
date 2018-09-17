@@ -7,7 +7,8 @@ ein: '460946310'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460946310'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -31,7 +32,6 @@ org_summary: >-
    She is currently overseeing another tree planting also in Skid Row, with the LA Conservation Corps along Boyd & Omar Streets between 3rd and 4th. She has been working with property owners and sponsors on this project for several months now. The planting date will be March 23rd, 2013. Volunteers from Union Church (in Little Tokyo) and several local residents from the neighborhood will help plant the trees.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013096'
 title: Industrial District Green
 uri: /organizations/industrial-district-green/
 challenge_url: 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'

@@ -21,7 +21,6 @@ org_summary: >-
   community among America's most diverse audience.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102115'
-organization_id_2: '2015073'
 title: Grand Performances
 uri: /organizations/grand-performances/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GPCONNECTS.html'

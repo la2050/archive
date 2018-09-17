@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016031'
 title: California Partnership
 uri: /organizations/california-partnership/
 challenge_url: >-

@@ -7,7 +7,10 @@ ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: 'Health, Environmental Quality: Community health, Green technology'
+tags_indicators:
+  - Health
+  - 'Environmental Quality: Community health'
+  - Green technology
 twitter: '0'
 instagram: SmartAirLA
 facebook: www.facebook.com/smartairla
@@ -35,7 +38,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102110'
-organization_id_2: '2018110'
 title: SmartAirLA
 uri: /organizations/smartairla/
 challenge_url: 'https://activation.la2050.org/live/smartairla/'

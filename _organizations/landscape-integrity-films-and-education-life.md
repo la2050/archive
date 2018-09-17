@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: LIFEfilms1
 instagram: LIFEfilmsEd
 facebook: LIFEfilms1
@@ -33,7 +34,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016127'
 title: Landscape Integrity Films and Education (LIFE)
 uri: /organizations/landscape-integrity-films-and-education-life/
 challenge_url: >-

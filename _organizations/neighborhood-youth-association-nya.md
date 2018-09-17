@@ -7,7 +7,8 @@ ein: '951691297'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691297'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -38,7 +39,6 @@ org_summary: >-
    Additionally, as many as half of NYAâ€™s alumni who remain in the Los Angeles area after high school, return to the program as volunteers. Alumni volunteers set an example for younger students and help guide the way for the next generation of youth to graduate from high school, succeed in college and transition into meaningful careers.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013142'
 title: Neighborhood Youth Association (NYA)
 uri: /organizations/neighborhood-youth-association-nya/
 challenge_url: 'http://maker.good.is/myla2050/projects/NYAforLA.html'

@@ -21,7 +21,6 @@ org_summary: >-
   Angeles area one vacant space at a time.
 areas_impacted: South LA
 project_ids: '5102107'
-organization_id_2: '2015069'
 title: From Lot to Spot
 uri: /organizations/from-lot-to-spot/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'

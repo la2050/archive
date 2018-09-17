@@ -7,9 +7,12 @@ ein: '953943485'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953943485'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Arts and Cultural Vitality: Arts and culture,
-  Entertainment industry, Diversity, Underserved communities
+tags_indicators:
+  - Social Connectedness
+  - 'Arts and Cultural Vitality: Arts and culture'
+  - Entertainment industry
+  - Diversity
+  - Underserved communities
 twitter: '@filmindependent'
 instagram: '@filmindependent'
 facebook: 'https://www.facebook.com/filmindependent/'
@@ -26,7 +29,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102040'
-organization_id_2: '2018040'
 title: Film Independent
 uri: /organizations/film-independent/
 challenge_url: 'https://activation.la2050.org/connect/film-independent/'

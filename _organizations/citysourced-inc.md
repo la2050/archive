@@ -7,7 +7,8 @@ ein: '271272815'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -53,7 +54,6 @@ org_summary: >-
    <p>We also have some great reference customers. CitySourced is the official civic engagement platform for cities such as San Jose, San Diego, Honolulu, Omaha and the LAUSD. Our solution directly benefits over 13.2 million citizens worldwide, and we're deployed in six countries spread out across the globe.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013037'
 title: 'CitySourced, Inc.'
 uri: /organizations/citysourced-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'

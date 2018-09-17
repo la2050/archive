@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Digital equality, digital literacy, education, Youth'
+tags_indicators:
+  - Digital equality
+  - digital literacy
+  - education
+  - Youth
 twitter: pasedfoundation
 instagram: PasadenaEducationalFoundation
 facebook: pasedfoundation
@@ -21,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - San Gabriel Valley
 project_ids: ''
-organization_id_2: '2016163'
 title: Pasadena Educational Foundation
 uri: /organizations/pasadena-educational-foundation/
 challenge_url: >-

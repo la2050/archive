@@ -7,7 +7,11 @@ ein: '522033353'
 zip: '91383'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522033353'
 ntee_type: ''
-tags_indicators: 'Social Connectedness, Education: Youth, Neighborhood councils, Inclusion'
+tags_indicators:
+  - Social Connectedness
+  - 'Education: Youth'
+  - Neighborhood councils
+  - Inclusion
 twitter: '["@actioncivicsla","@procon_org"]'
 instagram: '@Actioncivicsla'
 facebook: >-
@@ -34,7 +38,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102005'
-organization_id_2: '2018005'
 title: 'Action Civics LA, an initiative of Mikva Challenge'
 uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
 challenge_url: >-

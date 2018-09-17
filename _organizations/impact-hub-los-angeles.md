@@ -21,7 +21,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016109'
 title: Impact Hub Los Angeles
 uri: /organizations/impact-hub-los-angeles/
 challenge_url: >-

@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Health care, community health, underserved people'
+tags_indicators:
+  - Health care
+  - community health
+  - underserved people
 twitter: avasheart
 instagram: AvasHeart
 facebook: avasheart_org
@@ -21,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016017'
 title: Ava's Heart
 uri: /organizations/avas-heart/
 challenge_url: 'https://challenge.la2050.org/entry/the-transplant-journey'

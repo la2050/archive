@@ -22,7 +22,6 @@ areas_impacted: >-
   South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD
 project_ids: '5102080'
-organization_id_2: '2015047'
 title: Culture Shock Los Angeles
 uri: /organizations/culture-shock-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/C3.html'

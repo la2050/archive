@@ -34,7 +34,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102133'
-organization_id_2: '2018133'
 title: University of Southern California
 uri: /organizations/university-of-southern-california/
 challenge_url: 'https://activation.la2050.org/connect/university-of-southern-california/'

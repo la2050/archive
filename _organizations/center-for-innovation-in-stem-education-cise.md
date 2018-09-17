@@ -7,7 +7,12 @@ ein: '952543028'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952543028'
 ntee_type: ''
-tags_indicators: 'Education: STEM, Teachers, Youth, Underserved youth, College preparation'
+tags_indicators:
+  - 'Education: STEM'
+  - Teachers
+  - Youth
+  - Underserved youth
+  - College preparation
 twitter: '@DominguezHills'
 instagram: csudominguezhills
 facebook: 'https://www.facebook.com/CSUDH/'
@@ -25,7 +30,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '8102016'
-organization_id_2: '2018016'
 title: Center for Innovation in STEM Education (CISE)
 uri: /organizations/center-for-innovation-in-stem-education-cise/
 challenge_url: >-

@@ -22,7 +22,6 @@ org_summary: >-
   world a better place.
 areas_impacted: San Gabriel Valley
 project_ids: '5102136'
-organization_id_2: '2015088'
 title: Holy Family School
 uri: /organizations/holy-family-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'

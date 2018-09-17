@@ -7,7 +7,8 @@ ein: '951897685'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951897685'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -58,7 +59,6 @@ org_summary: >-
    The Social Services program has been developing greater and deeper linkages in the community to provide better delivery of resources. This project will take this process even further to yield wonderful dividends. The foundation of social connectedness has been established; now, the program looks to grow the structure.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013171'
 title: St. John the Baptist Social Services
 uri: /organizations/st-john-the-baptist-social-services/
 challenge_url: 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'

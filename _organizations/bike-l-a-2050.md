@@ -7,7 +7,8 @@ ein: '575061488'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=575061488'
 ntee_type: ''
-tags_indicators: Public Safety
+tags_indicators:
+  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''
@@ -27,7 +28,6 @@ org_summary: >-
   launch of electric vehicles and charging infrastructure.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013019'
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
 challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'

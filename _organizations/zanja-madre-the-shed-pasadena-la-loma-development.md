@@ -20,7 +20,6 @@ org_summary: >-
   water conservation demonstration, earth and land art exhibitions.
 areas_impacted: ''
 project_ids: '4102190'
-organization_id_2: '2014230'
 title: 'Zanja Madre, The Shed Pasadena, La Loma Development'
 uri: /organizations/zanja-madre-the-shed-pasadena-la-loma-development/
 challenge_url: ''

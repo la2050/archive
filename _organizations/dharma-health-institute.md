@@ -7,7 +7,9 @@ ein: '954116679'
 zip: '90036'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Lifelong wellness, physical/mental wellbeing'
+tags_indicators:
+  - Lifelong wellness
+  - physical/mental wellbeing
 twitter: 'https://twitter.com/DharmaHealthLA'
 instagram: www.instagram.com/dharmahealthinstitute
 facebook: www.facebook.com/dharmahealthinstitute
@@ -21,7 +23,6 @@ org_summary: >-
   in STEM.
 areas_impacted: 'Westside,South Bay,County of Los Angeles (countywide)'
 project_ids: ''
-organization_id_2: '2015048'
 title: Dharma Health Institute
 uri: /organizations/dharma-health-institute/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'

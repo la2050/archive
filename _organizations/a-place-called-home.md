@@ -21,7 +21,6 @@ org_summary: >-
   and the world.
 areas_impacted: 'Central LA,South LA,City of Los Angeles (citywide)'
 project_ids: '5102006'
-organization_id_2: '2015002'
 title: A Place Called Home
 uri: /organizations/a-place-called-home/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'

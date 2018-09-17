@@ -7,9 +7,11 @@ ein: '954219646'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954219646'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Social Connectedness: Underserved communities, Public
-  space, Underserved youth
+tags_indicators:
+  - Environmental Quality
+  - 'Social Connectedness: Underserved communities'
+  - Public space
+  - Underserved youth
 twitter: '@pfpla'
 instagram: '@pfpla'
 facebook: 'https://www.facebook.com/PeopleForParksLosAngeles'
@@ -26,7 +28,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '8102095'
-organization_id_2: '2018095'
 title: People for Parks
 uri: /organizations/people-for-parks/
 challenge_url: 'https://activation.la2050.org/play/people-for-parks/'

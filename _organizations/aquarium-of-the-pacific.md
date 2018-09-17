@@ -20,7 +20,6 @@ org_summary: >-
   Pacific Ocean, its inhabitants, and ecosystems.
 areas_impacted: ''
 project_ids: '4102112'
-organization_id_2: '2014114'
 title: Aquarium of the Pacific
 uri: /organizations/aquarium-of-the-pacific/
 challenge_url: ''

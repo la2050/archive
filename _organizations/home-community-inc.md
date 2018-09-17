@@ -19,7 +19,6 @@ org_summary: >-
   Angeles create family businesses that reduce food insecurity.
 areas_impacted: ''
 project_ids: '4102134'
-organization_id_2: '2014151'
 title: home&community inc
 uri: /organizations/home-community-inc/
 challenge_url: ''

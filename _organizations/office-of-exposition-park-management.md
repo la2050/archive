@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: ExpositionPark
 instagram: exposition.park
 facebook: ExpositionParkLA
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016159'
 title: Office of Exposition Park Management
 uri: /organizations/office-of-exposition-park-management/
 challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'

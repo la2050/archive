@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Veteran services
+tags_indicators:
+  - Veteran services
 twitter: LATinyHouses
 instagram: veteransvillage.org
 facebook: veteransvillage8551
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - Locations of LATCH & Makes a Village are TBD
 project_ids: ''
-organization_id_2: '2016165'
 title: Patrick McCaffrey Foundation
 uri: /organizations/patrick-mccaffrey-foundation/
 challenge_url: >-

@@ -7,9 +7,16 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Educaiton, mentorship, tutoring, teachers, youth, children, job training and
-  development, arts and culture vitality, entertainment industry
+tags_indicators:
+  - Educaiton
+  - mentorship
+  - tutoring
+  - teachers
+  - youth
+  - children
+  - job training and development
+  - arts and culture vitality
+  - entertainment industry
 twitter: WeRepresent_Org
 instagram: werepresent
 facebook: werepresent_org
@@ -24,7 +31,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016183'
 title: Represent
 uri: /organizations/represent/
 challenge_url: >-

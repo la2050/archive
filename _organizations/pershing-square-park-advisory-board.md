@@ -20,7 +20,6 @@ org_summary: >-
   chartered by the City of LA to help support Pershing Square Park.
 areas_impacted: 'Central LA,Other:'
 project_ids: '4102068'
-organization_id_2: '2014067'
 title: Pershing Square Park Advisory Board
 uri: /organizations/pershing-square-park-advisory-board/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'

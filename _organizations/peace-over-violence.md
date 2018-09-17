@@ -7,7 +7,8 @@ ein: '510179305'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510179305'
 ntee_type: ''
-tags_indicators: Public Safety
+tags_indicators:
+  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''
@@ -19,7 +20,6 @@ org_summary: >-
   sexual violence and prevention programs for youth & LA community
 areas_impacted: ''
 project_ids: '4102159'
-organization_id_2: '2014184'
 title: Peace Over Violence
 uri: /organizations/peace-over-violence/
 challenge_url: ''

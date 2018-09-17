@@ -19,7 +19,6 @@ org_summary: >-
   how they get there.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
 project_ids: '5102264'
-organization_id_2: '2015177'
 title: SeePolitical
 uri: /organizations/seepolitical/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SeePolitical.html'

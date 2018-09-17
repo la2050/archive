@@ -19,7 +19,6 @@ org_summary: >-
   transforming local conditions towards sustainable collective liberation
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside,Other:'
 project_ids: '4102050'
-organization_id_2: '2014049'
 title: LACE Center
 uri: /organizations/lace-center/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LACECenter.html'

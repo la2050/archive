@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: helplineyouth
 instagram: helplineyouthcounseling
 facebook: helplineyouthcounseling
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Gateway Cities
 project_ids: ''
-organization_id_2: '2016098'
 title: Helpline Youth Counseling (HYC)
 uri: /organizations/helpline-youth-counseling-hyc/
 challenge_url: >-

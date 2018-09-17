@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Sustainability, career readiness, education'
+tags_indicators:
+  - Sustainability
+  - career readiness
+  - education
 twitter: ActAmbassadors
 instagram: actionambassadors
 facebook: ActionAmbassadors
@@ -25,7 +28,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016245'
 title: United Nations Association-USA Pasadena Chapter Inc.
 uri: /organizations/united-nations-association-usa-pasadena-chapter-inc/
 challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'

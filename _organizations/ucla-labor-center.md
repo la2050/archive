@@ -7,7 +7,8 @@ ein: '952250801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -43,7 +44,6 @@ org_summary: >-
    Both Dream Summer and the Undocumented and Unafraid book publication and tour have been models for developing online resources that have connected with thousands of undocumented immigrant students throughout the country who are in need of basic information. These activities are just two among several at the Dream Resource Center that have served to create an online and in-person support network to give undocumented students the encouragement they need to pursue their dreams.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013202'
 title: UCLA Labor Center
 uri: /organizations/ucla-labor-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/Dream.html'

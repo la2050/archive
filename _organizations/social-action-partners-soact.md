@@ -7,7 +7,9 @@ ein: '271689584'
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271689584'
 ntee_type: ''
-tags_indicators: 'Technical assistance, social innovation for non-profits'
+tags_indicators:
+  - Technical assistance
+  - social innovation for non-profits
 twitter: www.twitter.com/SoACTPartners
 instagram: ''
 facebook: www.facebook.com/SocialActionPartners
@@ -21,7 +23,6 @@ org_summary: >-
   relevant, and respectful.
 areas_impacted: South LA
 project_ids: '5102271'
-organization_id_2: '2015184'
 title: Social Action Partners (SoACT)
 uri: /organizations/social-action-partners-soact/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'

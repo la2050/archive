@@ -7,7 +7,8 @@ ein: '472037575'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: '@lolahelps'
 instagram: '0'
 facebook: '@lolahelpsme'
@@ -27,7 +28,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102105'
-organization_id_2: '2018070'
 title: 'Lola Techsystems, Inc.'
 uri: /organizations/lola-techsystems-inc/
 challenge_url: 'https://activation.la2050.org/learn/lola-techsystems-inc/'

@@ -7,7 +7,8 @@ ein: '462359445'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462359445'
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -33,7 +34,6 @@ org_summary: >-
    Valhalla Washington has also started taking its first steps toward spreading awareness so that it may also sprout into a sister site.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013211'
 title: ValhalLA
 uri: /organizations/valhalla/
 challenge_url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'

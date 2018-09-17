@@ -19,7 +19,6 @@ org_summary: >-
   community of hope in the spirit of St. Francis of Assisi.
 areas_impacted: ''
 project_ids: '4102164'
-organization_id_2: '2014192'
 title: St. Francis Center
 uri: /organizations/st-francis-center/
 challenge_url: ''

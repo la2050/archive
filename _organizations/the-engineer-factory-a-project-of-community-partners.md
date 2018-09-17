@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Diversity, womens advocacy, education, STEM, social connectedness, communities
-  of color, science
+tags_indicators:
+  - Diversity
+  - womens advocacy
+  - education
+  - STEM
+  - social connectedness
+  - communities of color
+  - science
 twitter: EngineerFactory
 instagram: TheEngineerFactory
 facebook: TheEngineerFactory
@@ -26,7 +31,6 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016217'
 title: 'The Engineer Factory, a project of Community Partners'
 uri: /organizations/the-engineer-factory-a-project-of-community-partners/
 challenge_url: >-

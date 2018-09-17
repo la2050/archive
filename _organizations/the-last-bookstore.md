@@ -7,7 +7,8 @@ ein: '208970937'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -37,7 +38,6 @@ org_summary: >-
    When he read the Company of Angels lost its lease and was having a garage sale of all their equipment - he found them a new space 24 hours later and over the years, he helped over 50 homeless individuals find their way off the streets.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013191'
 title: The Last Bookstore
 uri: /organizations/the-last-bookstore/
 challenge_url: 'http://maker.good.is/myla2050/projects/RXforLA.html'

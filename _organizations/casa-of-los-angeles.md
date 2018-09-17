@@ -7,7 +7,9 @@ ein: '953890446'
 zip: '90068'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953890446'
 ntee_type: ''
-tags_indicators: 'Social Connectedness: Volunteerism, Foster care'
+tags_indicators:
+  - 'Social Connectedness: Volunteerism'
+  - Foster care
 twitter: '@casaofla'
 instagram: '@casa.la'
 facebook: 'https://www.facebook.com/CASAofLA/'
@@ -25,7 +27,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102014'
-organization_id_2: '2018014'
 title: CASA of Los Angeles
 uri: /organizations/casa-of-los-angeles/
 challenge_url: 'https://activation.la2050.org/connect/casa-of-los-angeles/'

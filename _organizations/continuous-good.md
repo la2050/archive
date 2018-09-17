@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Diversity, communities of color, career readiness, education'
+tags_indicators:
+  - Diversity
+  - communities of color
+  - career readiness
+  - education
 twitter: brandwhilebroke
 instagram: brandingwhilebroke
 facebook: brandingwhilebroke
@@ -24,7 +28,6 @@ areas_impacted:
   - LAUSD
   - n/a
 project_ids: ''
-organization_id_2: '2016057'
 title: Continuous Good
 uri: /organizations/continuous-good/
 challenge_url: >-

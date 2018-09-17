@@ -7,7 +7,8 @@ ein: '460667294'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460667294'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -34,7 +35,6 @@ org_summary: |-
    http://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013083'
 title: Grain of Sand - Granito de Arena
 uri: /organizations/grain-of-sand-granito-de-arena/
 challenge_url: 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'

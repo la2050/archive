@@ -7,7 +7,8 @@ ein: '273558431'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -45,7 +46,6 @@ org_summary: >-
    <p>Sponsorship and partnership of over 50 events to date supporting organizations such as GOOD, Acumen Fund, AIGA, Praxis Labs, Dell Womenâ€™s Network for Entrepreneurship, Green Festival, Social Justice Institute to name a few.</p>
 areas_impacted: ''
 project_ids: '5102050'
-organization_id_2: '2013092'
 title: Hub Los Angeles
 uri: /organizations/hub-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/thehubla.html'

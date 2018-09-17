@@ -7,7 +7,8 @@ ein: '203604882'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203604882'
 ntee_type: ''
-tags_indicators: Workout equipment to high school and junior high students
+tags_indicators:
+  - Workout equipment to high school and junior high students
 twitter: www.twitter.com/SBSMFoundation
 instagram: ''
 facebook: www.facebook.com/soundbodysoundmind.org/
@@ -22,7 +23,6 @@ org_summary: >-
   Angeles.
 areas_impacted: LAUSD
 project_ids: '5102311'
-organization_id_2: '2015206'
 title: The Sound Body Sound Mind Foundation
 uri: /organizations/the-sound-body-sound-mind-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'

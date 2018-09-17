@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Women''s advocacy, health care'
+tags_indicators:
+  - Women's advocacy
+  - health care
 twitter: tampontribe
 instagram: tampontribe
 facebook: tampontribe
@@ -24,7 +26,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '4102210'
-organization_id_2: '2016208'
 title: Tampon Tribe
 uri: /organizations/tampon-tribe/
 challenge_url: >-

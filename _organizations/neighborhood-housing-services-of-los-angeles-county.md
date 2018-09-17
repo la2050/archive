@@ -7,10 +7,15 @@ ein: '953938955'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
 ntee_type: ''
-tags_indicators: >-
-  Housing, Income and Employment: Underserved communities, Economic development,
-  Affordable housing, Supportive housing, Financial management, Job training,
-  Career readiness
+tags_indicators:
+  - Housing
+  - 'Income and Employment: Underserved communities'
+  - Economic development
+  - Affordable housing
+  - Supportive housing
+  - Financial management
+  - Job training
+  - Career readiness
 twitter: nhslacounty
 instagram: nhslacounty
 facebook: NHSLAC
@@ -26,7 +31,6 @@ areas_impacted:
   - Central LA
   - South LA
 project_ids: '8102089'
-organization_id_2: '2018089'
 title: Neighborhood Housing Services of Los Angeles County
 uri: /organizations/neighborhood-housing-services-of-los-angeles-county/
 challenge_url: >-

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: sundanceorg
 instagram: sundance/
 facebook: sundanceorg
@@ -31,7 +32,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016203'
 title: Sundance Institute
 uri: /organizations/sundance-institute/
 challenge_url: >-

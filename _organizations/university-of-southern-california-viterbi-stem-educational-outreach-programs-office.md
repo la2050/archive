@@ -9,9 +9,15 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  STEM, education, career readiness, children, youth, mentorship, job training,
-  science
+tags_indicators:
+  - STEM
+  - education
+  - career readiness
+  - children
+  - youth
+  - mentorship
+  - job training
+  - science
 twitter: viterbi4stem
 instagram: USCViterbi
 facebook: uscviterbi
@@ -28,7 +34,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016247'
 title: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)

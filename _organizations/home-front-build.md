@@ -20,7 +20,6 @@ org_summary: >-
   construction.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2014150'
 title: Home Front Build
 uri: /organizations/home-front-build/
 challenge_url: ''

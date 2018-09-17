@@ -7,9 +7,11 @@ ein: '474325738'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474325738'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Financial management, Poverty,
-  Underserved communities
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Financial management'
+  - Poverty
+  - Underserved communities
 twitter: '@CalEITC4Me'
 instagram: '0'
 facebook: 'https://www.facebook.com/CalEITC4Me/'
@@ -26,7 +28,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102012'
-organization_id_2: '2018012'
 title: CalEITC4Me
 uri: /organizations/caleitc4me/
 challenge_url: 'https://activation.la2050.org/live/caleitc4me/'

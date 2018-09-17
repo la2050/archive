@@ -22,7 +22,6 @@ org_summary: >-
   diversity.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102048'
-organization_id_2: '2015028'
 title: Center for Innovation at the LAEDC
 uri: /organizations/center-for-innovation-at-the-laedc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'

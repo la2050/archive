@@ -20,7 +20,6 @@ org_summary: >-
   impact & create change for years to come.
 areas_impacted: ''
 project_ids: '4102137'
-organization_id_2: '2014154'
 title: I'll Be The One Organization
 uri: /organizations/ill-be-the-one-organization/
 challenge_url: ''

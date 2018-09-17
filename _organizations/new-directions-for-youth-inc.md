@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, gun safety, education, inclusion'
+tags_indicators:
+  - Youth
+  - gun safety
+  - education
+  - inclusion
 twitter: NDY4Kids
 instagram: NewDirectionsForYouth
 facebook: NDY4Kids
@@ -22,7 +26,6 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: ''
-organization_id_2: '2016157'
 title: 'New Directions for Youth, Inc'
 uri: /organizations/new-directions-for-youth-inc/
 challenge_url: >-

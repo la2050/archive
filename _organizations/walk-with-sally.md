@@ -7,7 +7,8 @@ ein: '611472800'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611472800'
 ntee_type: ''
-tags_indicators: 'Social Connectedness: Volunteerism'
+tags_indicators:
+  - 'Social Connectedness: Volunteerism'
 twitter: '@walkwithsally'
 instagram: '@walkwithsally'
 facebook: '@walkwithsally'
@@ -24,7 +25,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102135'
-organization_id_2: '2018135'
 title: Walk With Sally
 uri: /organizations/walk-with-sally/
 challenge_url: 'https://activation.la2050.org/connect/walk-with-sally/'

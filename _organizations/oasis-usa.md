@@ -7,7 +7,8 @@ ein: '954870779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954870779'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -56,7 +57,6 @@ org_summary: >-
    â€¢ Partnered with Pasadena Unified School District enabling more than 250 high school students to receive anti-trafficking awareness and education through its â€˜Summer Skillzâ€™ program; this curriculum, currently being adapted for use by public schools in Florida, can also be adapted for younger students and is available upon request.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013146'
 title: Oasis USA
 uri: /organizations/oasis-usa/
 challenge_url: 'http://maker.good.is/myla2050/projects/oasisusa.html'

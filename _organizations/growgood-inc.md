@@ -7,7 +7,10 @@ ein: '455472840'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455472840'
 ntee_type: ''
-tags_indicators: 'Urban farming, community health, uniting communities'
+tags_indicators:
+  - Urban farming
+  - community health
+  - uniting communities
 twitter: www.twitter.com/good_grow
 instagram: www.instagram.com/grow_good
 facebook: www.facebook.com/wegrowgood
@@ -21,7 +24,6 @@ org_summary: >-
   Department of Agriculture.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102124'
-organization_id_2: '2015078'
 title: 'GrowGood, Inc.'
 uri: /organizations/growgood-inc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'

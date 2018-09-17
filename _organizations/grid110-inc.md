@@ -7,9 +7,11 @@ ein: '474318779'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'
 ntee_type: ''
-tags_indicators: >-
-  Income and Employment, Education: Entrepreneurship, Technology, Digital
-  literacy
+tags_indicators:
+  - Income and Employment
+  - 'Education: Entrepreneurship'
+  - Technology
+  - Digital literacy
 twitter: grid110
 instagram: grid110
 facebook: 'https://facebook.com/grid110'
@@ -22,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '8102049'
-organization_id_2: '2018049'
 title: 'Grid110, Inc.'
 uri: /organizations/grid110-inc/
 challenge_url: 'https://activation.la2050.org/create/grid110-inc/'

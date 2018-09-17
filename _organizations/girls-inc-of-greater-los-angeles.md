@@ -7,9 +7,14 @@ ein: '131915124'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=131915124'
 ntee_type: ''
-tags_indicators: >-
-  Mentorship, Women's advocacy, homeless, underserved communities, Stem,
-  education, innovation
+tags_indicators:
+  - Mentorship
+  - Women's advocacy
+  - homeless
+  - underserved communities
+  - Stem
+  - education
+  - innovation
 twitter: girlsincla
 instagram: girlsincla
 facebook: girlsincla
@@ -27,7 +32,6 @@ areas_impacted:
   - Gateway Cities
   - Antelope Valley
 project_ids: ''
-organization_id_2: '2016090'
 title: Girls Inc. of Greater Los Angeles
 uri: /organizations/girls-inc-of-greater-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'

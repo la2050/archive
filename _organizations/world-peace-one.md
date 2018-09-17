@@ -22,7 +22,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102108'
-organization_id_2: '2014109'
 title: World Peace One
 uri: /organizations/world-peace-one/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/peace.html'

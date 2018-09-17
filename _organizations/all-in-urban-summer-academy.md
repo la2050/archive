@@ -7,7 +7,11 @@ ein: '814435851'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, Housing: Homelessness, Youth, Tutoring'
+tags_indicators:
+  - Education
+  - 'Housing: Homelessness'
+  - Youth
+  - Tutoring
 twitter: '0'
 instagram: urbansummeracademy
 facebook: urbansummeracademy
@@ -23,7 +27,6 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '4102079'
-organization_id_2: '2018006'
 title: All-In Urban Summer Academy
 uri: /organizations/all-in-urban-summer-academy/
 challenge_url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'

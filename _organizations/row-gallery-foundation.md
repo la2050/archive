@@ -19,7 +19,6 @@ org_summary: >-
   their work that may typically be disregarded in society.
 areas_impacted: 'Central LA,East LA,Other:'
 project_ids: '4102078'
-organization_id_2: '2014077'
 title: Row Gallery Foundation
 uri: /organizations/row-gallery-foundation/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/RowGallery.html'

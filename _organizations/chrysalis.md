@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Income and employment, entrepreneurship, community health, job training,
-  training and development
+tags_indicators:
+  - Income and employment
+  - entrepreneurship
+  - community health
+  - job training
+  - training and development
 twitter: ChrysalisLA
 instagram: ChrysalisLA
 facebook: ChrysalisLA
@@ -24,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016037'
 title: Chrysalis
 uri: /organizations/chrysalis/
 challenge_url: >-

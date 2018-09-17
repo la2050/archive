@@ -19,7 +19,6 @@ org_summary: >-
   solutions to the problems around us with trainings and jobs.
 areas_impacted: South LA
 project_ids: '4102019'
-organization_id_2: '2014018'
 title: Community Services Unlimited inc.
 uri: /organizations/community-services-unlimited-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'

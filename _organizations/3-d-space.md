@@ -23,7 +23,6 @@ areas_impacted:
   - Central LA
   - San Fernando Valley
 project_ids: ''
-organization_id_2: '2016002'
 title: 3-D SPACE
 uri: /organizations/3-d-space/
 challenge_url: >-

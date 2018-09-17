@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102090'
-organization_id_2: '2014090'
 title: The Human Element Project
 uri: /organizations/the-human-element-project/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/Humanelement.html'

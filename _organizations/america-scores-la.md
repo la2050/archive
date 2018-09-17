@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: lascores
 instagram: lascores
 facebook: americascores.la
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016008'
 title: America Scores LA
 uri: /organizations/america-scores-la/
 challenge_url: >-

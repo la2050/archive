@@ -23,7 +23,6 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD,Other (please specify below):
 project_ids: '5102340'
-organization_id_2: '2015224'
 title: WestCal Academy
 uri: /organizations/westcal-academy/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/westcal.html'

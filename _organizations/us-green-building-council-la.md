@@ -23,7 +23,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016249'
 title: US Green Building Council-LA
 uri: /organizations/us-green-building-council-la/
 challenge_url: >-

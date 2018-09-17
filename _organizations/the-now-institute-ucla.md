@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: thenowinstitute
 instagram: thommayneNOWinstitute/
 facebook: thenowinstitute
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016227'
 title: The NOW Institute/UCLA
 uri: /organizations/the-now-institute-ucla/
 challenge_url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'

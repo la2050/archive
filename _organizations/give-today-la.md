@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: GiveTodayLA
 instagram: givetodayla
 facebook: givetodayLA
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016091'
 title: Give Today LA
 uri: /organizations/give-today-la/
 challenge_url: >-

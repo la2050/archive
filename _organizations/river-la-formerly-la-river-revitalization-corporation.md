@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Ecosytems, economic development'
+tags_indicators:
+  - Ecosytems
+  - economic development
 twitter: ourriverla
 instagram: ourriverla
 facebook: OurRiverLA
@@ -28,7 +30,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016185'
 title: River LA (formerly LA River Revitalization Corporation)
 uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
 challenge_url: >-

@@ -9,7 +9,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: mean2greenstrz
 instagram: IndustrialDistrictGreen
 facebook: Industrial_district_green_la
@@ -25,7 +26,6 @@ areas_impacted:
   - Central LA
   - East LA
 project_ids: ''
-organization_id_2: '2016045'
 title: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.

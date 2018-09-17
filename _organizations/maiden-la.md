@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, innovation, creative intrustry, arts and culture,
-  social connectedness, community health,
+tags_indicators:
+  - Arts and culture vitality
+  - innovation
+  - creative intrustry
+  - arts and culture
+  - social connectedness
+  - 'community health,'
 twitter: molomeh
 instagram: 'Maiden-LA-1322005447814938/#'
 facebook: maiden.la
@@ -33,7 +37,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016144'
 title: Maiden LA
 uri: /organizations/maiden-la/
 challenge_url: >-

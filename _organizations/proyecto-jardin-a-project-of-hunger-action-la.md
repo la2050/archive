@@ -7,10 +7,16 @@ ein: '205142259'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=205142259'
 ntee_type: ''
-tags_indicators: >-
-  Education, Environmental Quality, Health, Income and Employment: Youth,
-  Training and development, Entrepreneurship, Food inequality, Healthy food,
-  Public space
+tags_indicators:
+  - Education
+  - Environmental Quality
+  - Health
+  - 'Income and Employment: Youth'
+  - Training and development
+  - Entrepreneurship
+  - Food inequality
+  - Healthy food
+  - Public space
 twitter: '@proyectojardinx'
 instagram: '@proyectojardin'
 facebook: '@ProyectoJardin'
@@ -28,7 +34,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '8102099'
-organization_id_2: '2018099'
 title: 'Proyecto Jardin: A Project of Hunger Action LA'
 uri: /organizations/proyecto-jardin-a-project-of-hunger-action-la/
 challenge_url: >-

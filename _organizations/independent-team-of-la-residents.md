@@ -20,7 +20,6 @@ org_summary: >-
   Acumen.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102140'
-organization_id_2: '2015090'
 title: Independent Team of LA Residents
 uri: /organizations/independent-team-of-la-residents/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'

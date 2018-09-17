@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Environmental quality, sustainability, green tech, green industry, income and
-  employment, innovation, snall business
+tags_indicators:
+  - Environmental quality
+  - sustainability
+  - green tech
+  - green industry
+  - income and employment
+  - innovation
+  - snall business
 twitter: LACIncubator
 instagram: LACIncubator
 facebook: laincubator
@@ -30,7 +35,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016134'
 title: Los Angeles Cleantech Incubator
 uri: /organizations/los-angeles-cleantech-incubator/
 challenge_url: 'https://challenge.la2050.org/entry/youth-cleantech-training-program'

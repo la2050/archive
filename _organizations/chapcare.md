@@ -20,7 +20,6 @@ org_summary: >-
   behavioral health counseling; to 15,000 patients annually.
 areas_impacted: ''
 project_ids: '4102121'
-organization_id_2: '2014124'
 title: ChapCare
 uri: /organizations/chapcare/
 challenge_url: ''

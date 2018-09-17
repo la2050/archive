@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: clockshopla
 instagram: clockshopla
 facebook: clockshopla
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: ''
-organization_id_2: '2016042'
 title: Clockshop & California State Parks
 uri: /organizations/clockshop-california-state-parks/
 challenge_url: >-

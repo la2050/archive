@@ -7,9 +7,14 @@ ein: '471205640'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471205640'
 ntee_type: ''
-tags_indicators: >-
-  Foster care, youth, high school graduation, college preparedness, career
-  readiness, education, children
+tags_indicators:
+  - Foster care
+  - youth
+  - high school graduation
+  - college preparedness
+  - career readiness
+  - education
+  - children
 twitter: academyproject
 instagram: theacademyproject
 facebook: academyproject
@@ -28,7 +33,6 @@ areas_impacted:
   - LAUSD
   - South & Central LA have largest population of FY
 project_ids: ''
-organization_id_2: '2016211'
 title: The Academy Project
 uri: /organizations/the-academy-project/
 challenge_url: >-

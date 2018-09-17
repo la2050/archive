@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: ronfinleyhq
 instagram: RonFinley
 facebook: ronfinleyhq
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016231'
 title: The Ron Finley Project
 uri: /organizations/the-ron-finley-project/
 challenge_url: >-

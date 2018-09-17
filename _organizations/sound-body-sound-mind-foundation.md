@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Fitness, Youth'
+tags_indicators:
+  - Fitness
+  - Youth
 twitter: UCLAHealth
 instagram: uclahealth
 facebook: uclahealth
@@ -21,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016196'
 title: Sound Body Sound Mind Foundation
 uri: /organizations/sound-body-sound-mind-foundation/
 challenge_url: >-

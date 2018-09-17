@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'social connectedness, inclusion, diversity, arts and culture vitality'
+tags_indicators:
+  - social connectedness
+  - inclusion
+  - diversity
+  - arts and culture vitality
 twitter: artsandservices
 instagram: artsandservicesfordisabled
 facebook: goasd
@@ -24,7 +28,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016005'
 title: Able Arts Work
 uri: /organizations/able-arts-work/
 challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'

@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Income and employment, job training, social connectedness, womens advocacy,
-  innovation, arts and culture vitality
+tags_indicators:
+  - Income and employment
+  - job training
+  - social connectedness
+  - womens advocacy
+  - innovation
+  - arts and culture vitality
 twitter: boxcarmuse
 instagram: boxcarmuse-1752428701663307/
 facebook: boxcarmuse
@@ -25,7 +29,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '5102119'
-organization_id_2: '2016022'
 title: boxcar+muse
 uri: /organizations/boxcar-muse/
 challenge_url: >-

@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Income and employment, entreprenuership, investment, arts and culture
-  vitality, innovation, inclusion, small business
+tags_indicators:
+  - Income and employment
+  - entreprenuership
+  - investment
+  - arts and culture vitality
+  - innovation
+  - inclusion
+  - small business
 twitter: braidtheory
 instagram: braidtheory
 facebook: braidtheory
@@ -25,7 +30,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '5102121'
-organization_id_2: '2016023'
 title: 'Braid Theory, Inc.'
 uri: /organizations/braid-theory-inc/
 challenge_url: >-

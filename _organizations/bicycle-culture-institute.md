@@ -22,7 +22,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016018'
 title: Bicycle Culture Institute
 uri: /organizations/bicycle-culture-institute/
 challenge_url: 'https://challenge.la2050.org/entry/la-bike-fest'

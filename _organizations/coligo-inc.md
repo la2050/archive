@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: ColigoCo
 instagram: ColigoInc
 facebook: coligo.co
@@ -20,7 +21,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '4102101'
-organization_id_2: '2016046'
 title: 'Coligo, Inc.'
 uri: /organizations/coligo-inc/
 challenge_url: >-

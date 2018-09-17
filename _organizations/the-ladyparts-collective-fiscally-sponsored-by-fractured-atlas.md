@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Crime, asylum, health care, women''s advocacy'
+tags_indicators:
+  - Crime
+  - asylum
+  - health care
+  - women's advocacy
 twitter: LPCollectiveLA
 instagram: ladypartscollective
 facebook: N/A
@@ -23,7 +27,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016224'
 title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 uri: /organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 challenge_url: >-

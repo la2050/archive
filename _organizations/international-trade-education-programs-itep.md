@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, STEM, Youth'
+tags_indicators:
+  - Education
+  - STEM
+  - Youth
 twitter: ITEPinc
 instagram: ITEPInc
 facebook: N/A
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: ''
-organization_id_2: '2016112'
 title: International Trade Education Programs (ITEP)
 uri: /organizations/international-trade-education-programs-itep/
 challenge_url: >-

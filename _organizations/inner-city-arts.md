@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture, underserved communities, youth, children, education,
-  mentorship
+tags_indicators:
+  - Arts and culture
+  - underserved communities
+  - youth
+  - children
+  - education
+  - mentorship
 twitter: InnerCityArts
 instagram: innercityartsLA
 facebook: innercityarts
@@ -25,7 +29,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016110'
 title: Inner-City Arts
 uri: /organizations/inner-city-arts/
 challenge_url: >-

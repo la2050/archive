@@ -20,7 +20,6 @@ org_summary: >-
   support networks for student-athletes attending Lincoln HS.
 areas_impacted: ''
 project_ids: '4102139'
-organization_id_2: '2014156'
 title: 'IN THE CITY, INC.'
 uri: /organizations/in-the-city-inc/
 challenge_url: ''

@@ -7,7 +7,8 @@ ein: '203023426'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203023426'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -47,7 +48,6 @@ org_summary: >-
    Our partner, the Urban & Environmental Policy Institute (UEPI) at Occidental College, was instrumental in creating, cultivating and expanding farm to school programs, which are now linked by a national network throughout the United States. UEPI has many other innovative programs involving research and policy change, including the Farm to Preschool program. Farm to Preschool is viewed at a model program nationwide, is a national leader of the emerging Farm to Preschool movement, and was given a recognition award by Michelle Obamaâ€™s Letâ€™s Move! Child Care initiative in 2012. UEPIâ€™s Farm to Preschool program partners with child care agencies, preschools and family child care sites, as well as many local and national organizations. Begun as a pilot program in 2009, it is now expanding throughout the state, has been tailored to Hawaiian culture, and is currently working with the Navajo Nation. Occidental College was named to the 2013 Presidentâ€™s Higher Education Community Service Honor Roll with Distinction in recognition of its exemplary community service and Farm to Preschool was a featured program.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013078'
 title: Garden School Foundation
 uri: /organizations/garden-school-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'

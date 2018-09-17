@@ -7,9 +7,12 @@ ein: '454868462'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454868462'
 ntee_type: ''
-tags_indicators: >-
-  Education, Social Connectedness: Digital equity, Digital divide, Underserved
-  communities, Inclusion
+tags_indicators:
+  - Education
+  - 'Social Connectedness: Digital equity'
+  - Digital divide
+  - Underserved communities
+  - Inclusion
 twitter: '@Everyone_On'
 instagram: '0'
 facebook: 'https://www.facebook.com/EveryoneOn/'
@@ -25,7 +28,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102030'
-organization_id_2: '2018030'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 uri: /organizations/connect-to-compete-inc-everyoneon/
 challenge_url: 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'

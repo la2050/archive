@@ -19,7 +19,6 @@ org_summary: >-
   natural world.
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside'
 project_ids: '4102011'
-organization_id_2: '2014010'
 title: Audubon California
 uri: /organizations/audubon-california/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'

@@ -7,7 +7,9 @@ ein: '811021799'
 zip: '90035'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Housing: Affordable housing, Homelessness'
+tags_indicators:
+  - 'Housing: Affordable housing'
+  - Homelessness
 twitter: '@podshare'
 instagram: Podshare
 facebook: 'https://www.facebook.com/PodShare/'
@@ -21,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: ''
-organization_id_2: '2018096'
 title: Podshare
 uri: /organizations/podshare/
 challenge_url: 'https://activation.la2050.org/live/podshare/'

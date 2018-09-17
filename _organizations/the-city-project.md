@@ -7,7 +7,8 @@ ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -34,7 +35,6 @@ org_summary: >-
    We have received recognition and awards from the American Public Health Association, Hispanic Business Magazine, American Society of Landscape Architects, California Parks and Recreation Foundation, Los Angeles Regional Water Quality Board, City of Los Angeles, Community Partners, and Cultural Landscape Foundation.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013185'
 title: The City Project
 uri: /organizations/the-city-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'

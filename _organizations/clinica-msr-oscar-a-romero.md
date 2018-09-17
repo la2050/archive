@@ -7,7 +7,10 @@ ein: '953881333'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953881333'
 ntee_type: ''
-tags_indicators: 'Community health care, disease prevention, serving uninsured'
+tags_indicators:
+  - Community health care
+  - disease prevention
+  - serving uninsured
 twitter: 'https://twitter.com/clinicaromero'
 instagram: 'http://www.instagram.com/clinicaromero'
 facebook: 'https://www.facebook.com/clinicaromero'
@@ -21,7 +24,6 @@ org_summary: >-
   Angeles.
 areas_impacted: ''
 project_ids: '5102068'
-organization_id_2: '2015039'
 title: Clinica Msr. Oscar A. Romero
 uri: /organizations/clinica-msr-oscar-a-romero/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'

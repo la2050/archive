@@ -9,7 +9,9 @@ ein: '954635737'
 zip: '90047'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954635737'
 ntee_type: ''
-tags_indicators: 'Sustainability, Equitable infrastructure investment'
+tags_indicators:
+  - Sustainability
+  - Equitable infrastructure investment
 twitter: 'https://www.twitter.com/SCOPE_LA'
 instagram: 'https://www.instagram.com/scope_la'
 facebook: 'https://www.facebook.com/scopelosangeles'
@@ -22,7 +24,6 @@ org_summary: >-
   LA’s built environment by delivering education, resources and recognition.
 areas_impacted: South LA
 project_ids: '5102282'
-organization_id_2: '2015191'
 title: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)

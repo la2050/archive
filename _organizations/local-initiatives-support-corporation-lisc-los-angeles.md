@@ -20,7 +20,6 @@ org_summary: >-
   become places where people and businesses can thrive.
 areas_impacted: 'Central LA,East LA,South LA'
 project_ids: '5102179'
-organization_id_2: '2015116'
 title: Local Initiatives Support Corporation (LISC) Los Angeles
 uri: /organizations/local-initiatives-support-corporation-lisc-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'

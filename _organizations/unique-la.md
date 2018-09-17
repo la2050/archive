@@ -7,7 +7,8 @@ ein: '10973080'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -42,7 +43,6 @@ org_summary: >-
    - An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013205'
 title: UNIQUE LA
 uri: /organizations/unique-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'

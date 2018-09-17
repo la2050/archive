@@ -7,9 +7,12 @@ ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
-tags_indicators: >-
-  Health, Social Connectedness: Mental health care, Underserved communities,
-  Community health, Technology
+tags_indicators:
+  - Health
+  - 'Social Connectedness: Mental health care'
+  - Underserved communities
+  - Community health
+  - Technology
 twitter: 'https://twitter.com/UCLA_HSS'
 instagram: www.instagram.com/uclahss
 facebook: www.facebook.com/uclahss
@@ -27,7 +30,6 @@ areas_impacted:
   - South LA
   - Under-resourced communities
 project_ids: '8102129'
-organization_id_2: '2018129'
 title: UCLA Center for Health Services and Society
 uri: /organizations/ucla-center-for-health-services-and-society/
 challenge_url: >-

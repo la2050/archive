@@ -7,9 +7,11 @@ ein: '770387124'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770387124'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Social Connectedness: Sustainability, Underserved
-  communities, Volunteerism
+tags_indicators:
+  - Environmental Quality
+  - 'Social Connectedness: Sustainability'
+  - Underserved communities
+  - Volunteerism
 twitter: '@globalgreen'
 instagram: '@globalgreen'
 facebook: '@globalgreenfans'
@@ -26,7 +28,6 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102046'
-organization_id_2: '2018046'
 title: Global Green
 uri: /organizations/global-green/
 challenge_url: 'https://activation.la2050.org/live/global-green/'

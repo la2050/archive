@@ -21,7 +21,6 @@ org_summary: >-
   strategies.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102262'
-organization_id_2: '2015175'
 title: SBCC Thrive LA
 uri: /organizations/sbcc-thrive-la/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'

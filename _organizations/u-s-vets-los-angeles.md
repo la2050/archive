@@ -7,7 +7,8 @@ ein: '954382752'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954382752'
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -31,7 +32,6 @@ org_summary: |-
    Opened a 196-bed permanent housing in 2011 specifically to address the need for affordable housing for low and very-low income veterans
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013200'
 title: U.S. VETS - Los Angeles
 uri: /organizations/u-s-vets-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/housevets.html'

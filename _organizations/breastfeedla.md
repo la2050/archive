@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Women's advocacy, Parents, Children, Health, Healthcare, Community health,
-  Public health
+tags_indicators:
+  - Women's advocacy
+  - Parents
+  - Children
+  - Health
+  - Healthcare
+  - Community health
+  - Public health
 twitter: breastfeedla
 instagram: breastfeedla
 facebook: breastfeedla
@@ -24,7 +29,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016026'
 title: BreastfeedLA
 uri: /organizations/breastfeedla/
 challenge_url: >-

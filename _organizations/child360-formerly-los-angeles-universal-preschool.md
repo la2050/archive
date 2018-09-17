@@ -7,9 +7,13 @@ ein: '223902958'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'
 ntee_type: ''
-tags_indicators: >-
-  Education, Social Connectedness: Underserved communities, Parents, Children,
-  Teachers, Youth
+tags_indicators:
+  - Education
+  - 'Social Connectedness: Underserved communities'
+  - Parents
+  - Children
+  - Teachers
+  - Youth
 twitter: '@child_360'
 instagram: '@child_360'
 facebook: www.facebook.com/child360
@@ -26,7 +30,6 @@ areas_impacted:
   - South LA
   - Antelope Valley
 project_ids: '8102018'
-organization_id_2: '2018018'
 title: Child360 (formerly Los Angeles Universal Preschool)
 uri: /organizations/child360-formerly-los-angeles-universal-preschool/
 challenge_url: >-

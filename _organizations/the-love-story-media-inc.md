@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: thelovestoryorg
 instagram: thelovestory.org
 facebook: thelovestoryorg
@@ -26,7 +27,6 @@ areas_impacted:
   - Westside
   - LAUSD
 project_ids: ''
-organization_id_2: '2016225'
 title: 'The Love Story Media, Inc.'
 uri: /organizations/the-love-story-media-inc/
 challenge_url: >-

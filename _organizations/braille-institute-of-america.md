@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Digital literacy, underserved youth,'
+tags_indicators:
+  - Digital literacy
+  - 'underserved youth,'
 twitter: brailleinst
 instagram: brailleinstitute/
 facebook: N/A
@@ -22,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016024'
 title: Braille Institute of America
 uri: /organizations/braille-institute-of-america/
 challenge_url: >-

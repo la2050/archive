@@ -20,7 +20,6 @@ org_summary: >-
   to get in shape. Sound good? Vote @RUN4YOURLIFE
 areas_impacted: ''
 project_ids: '4102171'
-organization_id_2: '2014204'
 title: The Laurel Foundation
 uri: /organizations/the-laurel-foundation/
 challenge_url: ''

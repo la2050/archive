@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: CovenantHouseCA
 instagram: covenanthousecalifornia/
 facebook: N/A
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016061'
 title: Covenant House California
 uri: /organizations/covenant-house-california/
 challenge_url: 'https://challenge.la2050.org/entry/the-precise-barber-college'

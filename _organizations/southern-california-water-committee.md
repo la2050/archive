@@ -7,7 +7,8 @@ ein: '330081886'
 zip: '91604'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330081886'
 ntee_type: ''
-tags_indicators: Saving California state water and natural resources
+tags_indicators:
+  - Saving California state water and natural resources
 twitter: 'https://twitter.com/Lawn_Dude'
 instagram: www.instagram.com/socalwater
 facebook: www.facebook.com/socalwater
@@ -20,7 +21,6 @@ org_summary: >-
   Southern Californians about our water needs and our state’s water resources.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102277'
-organization_id_2: '2015189'
 title: Southern California Water Committee
 uri: /organizations/southern-california-water-committee/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'

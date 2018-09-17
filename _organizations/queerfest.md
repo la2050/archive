@@ -20,7 +20,6 @@ org_summary: >-
   expose local queer artists to the community.
 areas_impacted: 'Central LA,Other:'
 project_ids: '4102076'
-organization_id_2: '2014075'
 title: QueerFest
 uri: /organizations/queerfest/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'

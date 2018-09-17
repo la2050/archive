@@ -7,7 +7,9 @@ ein: '943213100'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943213100'
 ntee_type: ''
-tags_indicators: 'Social Connectedness: Foster care, Media'
+tags_indicators:
+  - 'Social Connectedness: Foster care'
+  - Media
 twitter: 'https://twitter.com/FosterMore'
 instagram: FosterMore
 facebook: 'https://www.facebook.com/FosterMore'
@@ -24,7 +26,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102020'
-organization_id_2: '2018020'
 title: Children's Action Network
 uri: /organizations/childrens-action-network/
 challenge_url: >-

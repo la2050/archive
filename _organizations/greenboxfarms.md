@@ -20,7 +20,6 @@ org_summary: >-
   technologies.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
 project_ids: '5102090'
-organization_id_2: '2015077'
 title: GREENBOXFARMS
 uri: /organizations/greenboxfarms/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'

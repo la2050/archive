@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Ecosystems, Sustainability, Environment'
+tags_indicators:
+  - Ecosystems
+  - Sustainability
+  - Environment
 twitter: NWF
 instagram: NationalWildlife
 facebook: nationalwildlife
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016226'
 title: The National Wildlife Federation
 uri: /organizations/the-national-wildlife-federation/
 challenge_url: >-

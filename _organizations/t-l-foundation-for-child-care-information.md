@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, Health care, Healthy foods'
+tags_indicators:
+  - Youth
+  - Health care
+  - Healthy foods
 twitter: tlfcci
 instagram: tandlfoundationforchildcareinformation
 facebook: tlfcci
@@ -21,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016204'
 title: T&L Foundation for Child Care Information
 uri: /organizations/t-l-foundation-for-child-care-information/
 challenge_url: >-

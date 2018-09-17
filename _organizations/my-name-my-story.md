@@ -19,7 +19,6 @@ org_summary: >-
   Young Changemakers.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2014181'
 title: My Name My Story
 uri: /organizations/my-name-my-story/
 challenge_url: ''

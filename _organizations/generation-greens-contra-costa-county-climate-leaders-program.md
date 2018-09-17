@@ -7,7 +7,8 @@ ein: '731687451'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=731687451'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -45,7 +46,6 @@ org_summary: >-
    We have held over a dozen workshops, connected with individuals from every city in Contra Costa County and have made real strides with the majority of the cities we work with.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013079'
 title: Generation Green's Contra Costa County Climate Leaders Program
 uri: /organizations/generation-greens-contra-costa-county-climate-leaders-program/
 challenge_url: 'http://maker.good.is/myla2050/projects/climateleaders.html'

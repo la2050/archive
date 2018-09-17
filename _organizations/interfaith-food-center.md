@@ -18,7 +18,6 @@ project_video: ''
 org_summary: We feed the hungry.
 areas_impacted: ''
 project_ids: '4102141'
-organization_id_2: '2014158'
 title: Interfaith Food Center
 uri: /organizations/interfaith-food-center/
 challenge_url: ''

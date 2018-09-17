@@ -25,7 +25,6 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide)
 project_ids: '5102335'
-organization_id_2: '2015220'
 title: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice

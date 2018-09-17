@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016113'
 title: 'Jenesse Center, Inc.'
 uri: /organizations/jenesse-center-inc/
 challenge_url: >-

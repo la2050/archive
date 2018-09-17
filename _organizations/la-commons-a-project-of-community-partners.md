@@ -7,9 +7,13 @@ ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Housing, Social Connectedness: Arts and culture,
-  Affordable housing, Neighborhood councils, Underserved youth
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Housing
+  - 'Social Connectedness: Arts and culture'
+  - Affordable housing
+  - Neighborhood councils
+  - Underserved youth
 twitter: '@lacommons'
 instagram: '@lacommons'
 facebook: lacommons
@@ -28,7 +32,6 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102060'
-organization_id_2: '2018060'
 title: 'LA Commons, a project of Community Partners'
 uri: /organizations/la-commons-a-project-of-community-partners/
 challenge_url: >-

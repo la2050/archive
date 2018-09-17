@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016169'
 title: People For the American Way Foundation
 uri: /organizations/people-for-the-american-way-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'

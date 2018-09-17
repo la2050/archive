@@ -20,7 +20,6 @@ org_summary: >-
   their neighborhood in the next year!
 areas_impacted: ''
 project_ids: '4102147'
-organization_id_2: '2014165'
 title: Los Angeles Community Garden Council
 uri: /organizations/los-angeles-community-garden-council/
 challenge_url: ''

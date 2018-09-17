@@ -20,7 +20,6 @@ org_summary: >-
   projects that matter.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '8102115'
-organization_id_2: '2015172'
 title: Ruckus Projects
 uri: /organizations/ruckus-projects/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Leif.html'

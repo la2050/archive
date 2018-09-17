@@ -7,7 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'STEM, education, career readiness, children, youth, mentorship'
+tags_indicators:
+  - STEM
+  - education
+  - career readiness
+  - children
+  - youth
+  - mentorship
 twitter: avaloncarvercc
 instagram: AvalonCarverCC
 facebook: AvalonCarver_CC
@@ -23,7 +29,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016016'
 title: Avalon Carver Community Center
 uri: /organizations/avalon-carver-community-center/
 challenge_url: >-

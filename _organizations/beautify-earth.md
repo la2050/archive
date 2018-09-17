@@ -19,7 +19,6 @@ org_summary: >-
   communities and boost local business.
 areas_impacted: 'South LA,Other:'
 project_ids: '4102014'
-organization_id_2: '2014013'
 title: Beautify Earth
 uri: /organizations/beautify-earth/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'

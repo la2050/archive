@@ -20,7 +20,6 @@ org_summary: >-
   communities, and agents for social change.
 areas_impacted: 'Other:'
 project_ids: '4102052'
-organization_id_2: '2014051'
 title: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
 uri: /organizations/leadership-through-empowerment-actin-and-dialogue-inc-lead/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ReigniteLH.html'

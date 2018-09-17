@@ -7,7 +7,8 @@ ein: '954476207'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954476207'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -68,7 +69,6 @@ org_summary: >-
    <p>Out the Windowâ€™s excellence has been acknowledged with numerous extremely competitive grants from MacArthur, Rockefeller, Warhol, Durfee and Irvine Foundations, National Endowment for the Arts, California Arts Council, Los Angeles County Arts Commission and The City of Los Angeles Department of Cultural Affairs and others, leading to two critical awards: one of L.A. Weeklyâ€™s Top Ten Art Projects of the Year, and Public Art Reviewâ€™s Top 50 National Projects of the Year.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013074'
 title: Freewaves
 uri: /organizations/freewaves/
 challenge_url: 'http://maker.good.is/myla2050/projects/Freewaves.html'

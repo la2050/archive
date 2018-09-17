@@ -7,7 +7,8 @@ ein: '912172676'
 zip: '94104'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912172676'
 ntee_type: ''
-tags_indicators: Financial tools for families in poverty
+tags_indicators:
+  - Financial tools for families in poverty
 twitter: www.twitter.com/earn
 instagram: 'https://instagram.com/earnorg/'
 facebook: www.facebook.com/earnorg
@@ -22,7 +23,6 @@ areas_impacted: >-
   County of Los Angeles (countywide),City of Los Angeles (citywide),Other
   (please specify below):
 project_ids: '5102089'
-organization_id_2: '2015054'
 title: EARN
 uri: /organizations/earn/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/save.html'

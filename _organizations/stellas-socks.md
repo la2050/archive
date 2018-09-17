@@ -24,7 +24,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102112'
-organization_id_2: '2018112'
 title: Stella's Socks
 uri: /organizations/stellas-socks/
 challenge_url: 'https://activation.la2050.org/connect/stellas-socks/'

@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, creative industry, entertainment industry, income
-  and employment, mentorship
+tags_indicators:
+  - Arts and culture vitality
+  - creative industry
+  - entertainment industry
+  - income and employment
+  - mentorship
 twitter: jayalegacy
 instagram: Jaya-Legacy-1744895492449502/?fref=ts
 facebook: jayalegacy
@@ -30,7 +33,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: ''
-organization_id_2: '2016116'
 title: Just As You Are Legacy
 uri: /organizations/just-as-you-are-legacy/
 challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'

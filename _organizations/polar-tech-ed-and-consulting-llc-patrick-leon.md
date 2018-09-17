@@ -7,7 +7,8 @@ ein: '462805525'
 zip: '85226'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: App to provide health solutions
+tags_indicators:
+  - App to provide health solutions
 twitter: 'https://twitter.com/polarteched'
 instagram: ''
 facebook: >-
@@ -21,7 +22,6 @@ org_summary: >-
   populations better health outcomes.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: ''
-organization_id_2: '2015157'
 title: Polar Tech Ed and Consulting LLC/Patrick Leon
 uri: /organizations/polar-tech-ed-and-consulting-llc-patrick-leon/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'

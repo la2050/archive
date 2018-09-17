@@ -7,7 +7,10 @@ ein: '952408623'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952408623'
 ntee_type: ''
-tags_indicators: 'Sexual health, progressive policy, Affordable health services and testing'
+tags_indicators:
+  - Sexual health
+  - progressive policy
+  - Affordable health services and testing
 twitter: PPLosAngeles
 instagram: plannedparenthoodla
 facebook: pplapeeradvocates
@@ -33,7 +36,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016172'
 title: Planned Parenthood Los Angeles (PPLA)
 uri: /organizations/planned-parenthood-los-angeles-ppla/
 challenge_url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'

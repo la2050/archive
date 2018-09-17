@@ -7,7 +7,9 @@ ein: '200106847'
 zip: '78746'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200106847'
 ntee_type: ''
-tags_indicators: 'Health, Nutrition skills and education to low income children'
+tags_indicators:
+  - Health
+  - Nutrition skills and education to low income children
 twitter: common__threads
 instagram: CThreads
 facebook: common__threads
@@ -23,7 +25,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016050'
 title: Common Threads
 uri: /organizations/common-threads/
 challenge_url: >-

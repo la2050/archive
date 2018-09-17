@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: perceptoscope
 instagram: perceptoscope
 facebook: perceptoscope
@@ -25,7 +26,6 @@ areas_impacted:
   - City of Los Angeles
   - There is global interest. We want to pilot in LA.
 project_ids: '#N/A'
-organization_id_2: '2016170'
 title: Perceptoscope
 uri: /organizations/perceptoscope/
 challenge_url: >-

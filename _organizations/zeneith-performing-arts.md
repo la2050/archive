@@ -7,9 +7,14 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and culture vitality, creative industry, social connectedness, youth,
-  foster care, underserved youth, diversity
+tags_indicators:
+  - Arts and culture vitality
+  - creative industry
+  - social connectedness
+  - youth
+  - foster care
+  - underserved youth
+  - diversity
 twitter: wearezpa
 instagram: zeneithperformingarts
 facebook: wearezpa
@@ -26,7 +31,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: ''
-organization_id_2: '2016263'
 title: Zeneith Performing Arts
 uri: /organizations/zeneith-performing-arts/
 challenge_url: >-

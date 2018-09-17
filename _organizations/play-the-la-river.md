@@ -22,7 +22,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102070'
-organization_id_2: '2014069'
 title: Play the LA River
 uri: /organizations/play-the-la-river/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'

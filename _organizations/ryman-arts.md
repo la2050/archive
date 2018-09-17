@@ -32,7 +32,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016186'
 title: Ryman Arts
 uri: /organizations/ryman-arts/
 challenge_url: >-

@@ -19,7 +19,6 @@ org_summary: >-
   Little Tokyo, of which we represent and advocate for.
 areas_impacted: ''
 project_ids: '4102146'
-organization_id_2: '2014163'
 title: Little Tokyo Community Council
 uri: /organizations/little-tokyo-community-council/
 challenge_url: ''

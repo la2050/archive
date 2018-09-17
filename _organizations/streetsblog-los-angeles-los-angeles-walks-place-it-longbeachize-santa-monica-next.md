@@ -22,7 +22,6 @@ org_summary: >-
   on transportation, land-use, open space and public health.
 areas_impacted: ''
 project_ids: '4102165'
-organization_id_2: '2014193'
 title: >-
   Streetsblog Los Angeles, Los Angeles Walks, Place It!, LongBeachize, Santa
   Monica Next

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: laderbydolls
 instagram: laderbydolls
 facebook: laderbydolls
@@ -23,7 +24,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016121'
 title: LA Derby Dolls
 uri: /organizations/la-derby-dolls/
 challenge_url: >-

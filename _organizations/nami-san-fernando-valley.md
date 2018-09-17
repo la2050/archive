@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Mental health care, community health'
+tags_indicators:
+  - Mental health care
+  - community health
 twitter: namisfv
 instagram: NAMISanFernandoValley
 facebook: namisfv
@@ -22,7 +24,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016152'
 title: NAMI San Fernando Valley
 uri: /organizations/nami-san-fernando-valley/
 challenge_url: >-

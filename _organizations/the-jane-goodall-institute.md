@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: rootsandshoots
 instagram: rootsandshoots
 facebook: rootsandshoots
@@ -23,7 +24,6 @@ areas_impacted:
   - San Fernando Valley
   - LAUSD
 project_ids: ''
-organization_id_2: '2016222'
 title: the Jane Goodall Institute
 uri: /organizations/the-jane-goodall-institute/
 challenge_url: >-

@@ -20,7 +20,6 @@ org_summary: >-
   efficient, and cost-effective.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102155'
-organization_id_2: '2015101'
 title: Justice Lab
 uri: /organizations/justice-lab/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'

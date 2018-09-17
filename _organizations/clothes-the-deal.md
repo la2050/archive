@@ -7,7 +7,8 @@ ein: '954592893'
 zip: '90242'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592893'
 ntee_type: ''
-tags_indicators: Pre-employment services to low income individuals
+tags_indicators:
+  - Pre-employment services to low income individuals
 twitter: www.twitter.com/clothesthedeal
 instagram: www.instagram.com/clothesthedeal
 facebook: www.facebook.com/clothesthedeal
@@ -20,7 +21,6 @@ areas_impacted: >-
   Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD,Other (please specify below):
 project_ids: '5102069'
-organization_id_2: '2015040'
 title: Clothes The Deal
 uri: /organizations/clothes-the-deal/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'

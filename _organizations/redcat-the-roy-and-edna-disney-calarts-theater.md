@@ -7,7 +7,8 @@ ein: '956102146'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956102146'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -30,7 +31,6 @@ org_summary: >-
   theatrical productions and exhibitions.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013161'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 uri: /organizations/redcat-the-roy-and-edna-disney-calarts-theater/
 challenge_url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'

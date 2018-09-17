@@ -7,7 +7,8 @@ ein: '383777236'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383777236'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -86,7 +87,6 @@ org_summary: >-
    In addition to the programs above, Lybba has designed, constructed, and created content strategy for a dozen healthcare websites. Lybba has also produced two dozen films on science and healthcare with our film-making partner, Wondros.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013129'
 title: Lybba
 uri: /organizations/lybba/
 challenge_url: 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'

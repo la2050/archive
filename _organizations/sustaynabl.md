@@ -7,7 +7,8 @@ ein: '475118457'
 zip: '90017'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Tackles urban poverty through Global Impact Projects
+tags_indicators:
+  - Tackles urban poverty through Global Impact Projects
 twitter: www.twitter.com/sustaynabl
 instagram: www.facebook.com/sustaynabl
 facebook: www.facebook.com/sustaynabl
@@ -21,7 +22,6 @@ areas_impacted: >-
   Central LA,South LA,County of Los Angeles (countywide),City of Los Angeles
   (citywide)
 project_ids: ''
-organization_id_2: '2015193'
 title: Sustaynabl
 uri: /organizations/sustaynabl/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'

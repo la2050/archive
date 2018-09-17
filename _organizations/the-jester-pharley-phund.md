@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, youth, underserved communities, poverty'
+tags_indicators:
+  - Education
+  - youth
+  - underserved communities
+  - poverty
 twitter: Jesterpharley
 instagram: The-Jester-and-Pharley-Phund-167046320311
 facebook: Jesterpharley
@@ -26,7 +30,6 @@ areas_impacted:
   - LAUSD
   - Inglewood
 project_ids: ''
-organization_id_2: '2016223'
 title: The Jester & Pharley Phund
 uri: /organizations/the-jester-pharley-phund/
 challenge_url: >-

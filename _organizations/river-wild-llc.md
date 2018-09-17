@@ -7,7 +7,8 @@ ein: '473732729'
 zip: '90039'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Bringing Arts/Commerce/Development to LA River
+tags_indicators:
+  - Bringing Arts/Commerce/Development to LA River
 twitter: www.twitter.com/RiverWildLA
 instagram: www.instagram.com/river_wilder
 facebook: 'https://www.facebook.com/RiverWildLA'
@@ -19,7 +20,6 @@ org_summary: >-
   in underserved communities.
 areas_impacted: 'Central LA,East LA,San Fernando Valley,Other (please specify below):'
 project_ids: '5102101'
-organization_id_2: '2015168'
 title: River Wild LLC
 uri: /organizations/river-wild-llc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'

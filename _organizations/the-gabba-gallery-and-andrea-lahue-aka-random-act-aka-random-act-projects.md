@@ -19,7 +19,6 @@ org_summary: >-
   exhibitions, education, community outreach and beautification.
 areas_impacted: 'Central LA,East LA,South LA,Westside'
 project_ids: '4102089'
-organization_id_2: '2014089'
 title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 uri: >-
   /organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/

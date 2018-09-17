@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Sustainability, green industry'
+tags_indicators:
+  - Sustainability
+  - green industry
 twitter: UCLAIoES
 instagram: uclaioes
 facebook: uclaioes
@@ -33,7 +35,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016240'
 title: UCLA Institute of the Environment and Sustainability (IOES)
 uri: /organizations/ucla-institute-of-the-environment-and-sustainability-ioes/
 challenge_url: >-

@@ -21,7 +21,6 @@ org_summary: >-
   leaders in historica
 areas_impacted: South LA
 project_ids: ''
-organization_id_2: '2015156'
 title: Plug In South LA
 uri: /organizations/plug-in-south-la/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'

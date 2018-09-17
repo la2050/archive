@@ -17,7 +17,6 @@ project_video: ''
 org_summary: We start up students!
 areas_impacted: ''
 project_ids: '4102140'
-organization_id_2: '2014157'
 title: Incubator School
 uri: /organizations/incubator-school/
 challenge_url: ''

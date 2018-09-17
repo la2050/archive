@@ -7,7 +7,8 @@ ein: '454998717'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454998717'
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -29,7 +30,6 @@ org_summary: >-
    <p>LACI: In just 18 short months, LACI has created a vibrant cleantech innovation ecosystem that has spawned 14 new cleantech companies, attracted partnerships with industry/academia, and finalized the funding and planning for the $40M La Kretz Innovation Campus in the Cleantech Corridor.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013113'
 title: LA Cleantech Incubator / Clean Tech LA
 uri: /organizations/la-cleantech-incubator-clean-tech-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACI.html'

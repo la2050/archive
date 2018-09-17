@@ -19,7 +19,6 @@ org_summary: >-
   grow a healthier future for LA.
 areas_impacted: ''
 project_ids: '4102178'
-organization_id_2: '2014213'
 title: TreePeople
 uri: /organizations/treepeople/
 challenge_url: ''

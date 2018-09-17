@@ -19,7 +19,6 @@ org_summary: >-
   document, showcase, produce, and broadcast a half-hour TV show.
 areas_impacted: 'Central LA,East LA'
 project_ids: '4102035'
-organization_id_2: '2014034'
 title: Experimental Half-Hour
 uri: /organizations/experimental-half-hour/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'

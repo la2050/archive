@@ -8,7 +8,11 @@ ein: '952274801'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'
 ntee_type: ''
-tags_indicators: 'Housing: Homelessness, Affordable housing, Supportive housing, Tenants’ rights'
+tags_indicators:
+  - 'Housing: Homelessness'
+  - Affordable housing
+  - Supportive housing
+  - Tenants’ rights
 twitter: '["@EveryoneIn_LA","@InnerCityLaw","@AbundantHousing"]'
 instagram: '["@everyonein_la","@abundanthousing"]'
 facebook: '["@EveryoneInLA","@InnerCityLawCenter","@abundanthousingla"]'
@@ -24,7 +28,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102132'
-organization_id_2: '2018132'
 title: United Way of Greater Los Angeles
 uri: /organizations/united-way-of-greater-los-angeles/
 challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'

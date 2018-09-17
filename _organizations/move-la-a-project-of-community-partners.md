@@ -7,7 +7,9 @@ ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: 'Environmental Quality: Sustainability, Green technology'
+tags_indicators:
+  - 'Environmental Quality: Sustainability'
+  - Green technology
 twitter: '@movelatransit'
 instagram: '@movelatransit'
 facebook: 'https://www.facebook.com/movelatransit/'
@@ -24,7 +26,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102084'
-organization_id_2: '2018084'
 title: 'Move LA, a project of Community Partners'
 uri: /organizations/move-la-a-project-of-community-partners/
 challenge_url: 'https://activation.la2050.org/live/move-la-a-project-of-community-partners/'

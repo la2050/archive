@@ -7,7 +7,11 @@ ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: '#N/A'
 ntee_type: ''
-tags_indicators: 'Community nutrition, obesity, community wellness, food accessibility'
+tags_indicators:
+  - Community nutrition
+  - obesity
+  - community wellness
+  - food accessibility
 twitter: www.twitter.com/CCPHA
 instagram: ''
 facebook: www.facebook.com/CCPHA
@@ -17,7 +21,6 @@ project_video: ''
 org_summary: '#N/A'
 areas_impacted: South Bay
 project_ids: '#N/A'
-organization_id_2: '2015162'
 title: Public Health Advocates
 uri: /organizations/public-health-advocates/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/EatWellLiveBetter.html'

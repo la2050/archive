@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Youth, public space, community health, economic development, underserved
-  communities
+tags_indicators:
+  - Youth
+  - public space
+  - community health
+  - economic development
+  - underserved communities
 twitter: SaywordLA
 instagram: SayWordProject
 facebook: Saywordla
@@ -28,7 +31,6 @@ areas_impacted:
   - South LA
   - Gateway Cities
 project_ids: ''
-organization_id_2: '2016190'
 title: Say Word and 4C LAB
 uri: /organizations/say-word-and-4c-lab/
 challenge_url: >-

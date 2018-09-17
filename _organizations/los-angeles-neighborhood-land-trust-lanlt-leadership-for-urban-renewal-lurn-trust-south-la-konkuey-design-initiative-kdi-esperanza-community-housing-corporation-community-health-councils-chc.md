@@ -24,7 +24,6 @@ org_summary: >-
   serve as lead applicant.
 areas_impacted: 'Central LA,East LA,San Fernando Valley,City of Los Angeles (citywide)'
 project_ids: '5102192'
-organization_id_2: '2015127'
 title: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
   (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community

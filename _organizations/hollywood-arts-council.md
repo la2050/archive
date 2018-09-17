@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and culture, youth, education, advocacy, entertainment'
+tags_indicators:
+  - Arts and culture
+  - youth
+  - education
+  - advocacy
+  - entertainment
 twitter: HACouncil
 instagram: hollywoodartscouncil
 facebook: hollywoodartscouncil
@@ -21,7 +26,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: ''
-organization_id_2: '2016101'
 title: Hollywood Arts Council
 uri: /organizations/hollywood-arts-council/
 challenge_url: >-

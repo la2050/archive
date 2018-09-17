@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: Reseda_Blvd
 instagram: reseda.blvd
 facebook: Reseda_Blvd
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: ''
-organization_id_2: '2016251'
 title: Valley Relics
 uri: /organizations/valley-relics/
 challenge_url: >-

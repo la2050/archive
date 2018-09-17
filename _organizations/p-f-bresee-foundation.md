@@ -21,7 +21,6 @@ org_summary: >-
   potential and serve others.
 areas_impacted: Central LA
 project_ids: '5102225'
-organization_id_2: '2015148'
 title: P.F. Bresee Foundation
 uri: /organizations/p-f-bresee-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'

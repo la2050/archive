@@ -7,9 +7,11 @@ ein: '461134852'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
 ntee_type: Educational Institutions and Related Activities
-tags_indicators: >-
-  Environmental Quality, Social Connectedness: Ecosystems, Sustainability,
-  Public space Volunteerism
+tags_indicators:
+  - Environmental Quality
+  - 'Social Connectedness: Ecosystems'
+  - Sustainability
+  - Public space Volunteerism
 twitter: '@lacompost'
 instagram: '@lacompost'
 facebook: '@l.a.compostCA'
@@ -34,7 +36,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102061'
-organization_id_2: '2018061'
 title: LA Compost
 uri: /organizations/la-compost/
 challenge_url: 'https://activation.la2050.org/connect/la-compost/'

@@ -7,7 +7,10 @@ ein: '954311058'
 zip: '90035'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954311058'
 ntee_type: ''
-tags_indicators: 'Education: STEM, Technology, Youth'
+tags_indicators:
+  - 'Education: STEM'
+  - Technology
+  - Youth
 twitter: '@lasbest'
 instagram: lasbestafterschool
 facebook: www.facebook.com/lasbest
@@ -28,7 +31,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102065'
-organization_id_2: '2018065'
 title: LA's BEST
 uri: /organizations/las-best/
 challenge_url: 'https://activation.la2050.org/learn/las-best/'

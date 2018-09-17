@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'social connectedness, inclusion, diversity,'
+tags_indicators:
+  - social connectedness
+  - inclusion
+  - 'diversity,'
 twitter: metrocharterschool
 instagram: metrocharter
 facebook: no account
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - Downtown L.A. metro area
 project_ids: ''
-organization_id_2: '2016147'
 title: METRO Charter Elementary School
 uri: /organizations/metro-charter-elementary-school/
 challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'

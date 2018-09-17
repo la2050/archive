@@ -19,7 +19,6 @@ org_summary: >-
   education and careers after high school.
 areas_impacted: ''
 project_ids: '4102127'
-organization_id_2: '2014141'
 title: Foundation for California Community Colleges (Fiscal Sponsor)
 uri: /organizations/foundation-for-california-community-colleges-fiscal-sponsor/
 challenge_url: ''

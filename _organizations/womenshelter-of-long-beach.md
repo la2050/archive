@@ -20,7 +20,6 @@ org_summary: >-
   compassionate intervention, education, and personal empowerment.
 areas_impacted: 'Other:'
 project_ids: '4102107'
-organization_id_2: '2014108'
 title: WomenShelter of Long Beach
 uri: /organizations/womenshelter-of-long-beach/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/SNAC.html'

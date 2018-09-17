@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Mentorship, Education, Underserved communities'
+tags_indicators:
+  - Mentorship
+  - Education
+  - Underserved communities
 twitter: coParenterPro
 instagram: coParenter
 facebook: coParenter
@@ -23,7 +26,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016104'
 title: 'HyphenUs, Inc.'
 uri: /organizations/hyphenus-inc/
 challenge_url: >-

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: career readiness
+tags_indicators:
+  - career readiness
 twitter: cncaschools
 instagram: caminonuevocharterschool
 facebook: cncaschools
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: ''
-organization_id_2: '2016034'
 title: Camino Nuevo Charter Academy
 uri: /organizations/camino-nuevo-charter-academy/
 challenge_url: >-

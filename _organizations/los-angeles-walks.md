@@ -7,7 +7,8 @@ ein: '954845170'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -79,7 +80,6 @@ org_summary: >-
    <p>- Conducted pedestrian-related events during CicLAvia including a WalkLAvia in October 2012 on three miles of Figueroa Street</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013126'
 title: Los Angeles Walks
 uri: /organizations/los-angeles-walks/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAwalks.html'

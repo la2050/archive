@@ -7,7 +7,8 @@ ein: '954089601'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954089601'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -29,7 +30,6 @@ org_summary: >-
   participate in our programs.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013148'
 title: Outfest
 uri: /organizations/outfest/
 challenge_url: 'http://maker.good.is/myla2050/projects/neighbor.html'

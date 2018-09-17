@@ -19,7 +19,6 @@ org_summary: >-
   productions that expand the definition of opera.
 areas_impacted: 'Central LA,East LA'
 project_ids: '4102091'
-organization_id_2: '2014091'
 title: The Industry
 uri: /organizations/the-industry/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'

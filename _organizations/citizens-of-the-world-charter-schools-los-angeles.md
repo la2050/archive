@@ -24,7 +24,6 @@ areas_impacted:
   - Westside
   - LAUSD
 project_ids: ''
-organization_id_2: '2016038'
 title: 'Citizens of the World Charter Schools, Los Angeles'
 uri: /organizations/citizens-of-the-world-charter-schools-los-angeles/
 challenge_url: >-

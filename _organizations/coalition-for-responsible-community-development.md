@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, community health, gun violence,'
+tags_indicators:
+  - Youth
+  - community health
+  - 'gun violence,'
 twitter: CRCD_SouthLA
 instagram: CRCDSouthLA
 facebook: CRCD_SouthLA
@@ -24,7 +27,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016044'
 title: Coalition for Responsible Community Development
 uri: /organizations/coalition-for-responsible-community-development/
 challenge_url: >-

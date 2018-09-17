@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: WestsideForum
 instagram: WestsideUrbanForum
 facebook: N/A
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: ''
-organization_id_2: '2016253'
 title: Westside Urban Forum
 uri: /organizations/westside-urban-forum/
 challenge_url: >-

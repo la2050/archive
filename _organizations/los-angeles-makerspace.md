@@ -7,7 +7,8 @@ ein: '522237551'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522237551'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -57,7 +58,6 @@ org_summary: >-
    <p>We have developed and have begun running a student research program whereby students are mentored in the development of their own research projects as well as getting them involved with current research projects. Our current partners are the environmental monitoring group Safecast, the American Physics Society, the West Side Science Club, the Natural History Museum of Los Angeles, University of Southern California, and the California Institute of Technology.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013125'
 title: Los Angeles Makerspace
 uri: /organizations/los-angeles-makerspace/
 challenge_url: 'http://maker.good.is/myla2050/projects/lamakerspace.html'

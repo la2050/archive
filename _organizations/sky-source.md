@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Environmental quality, green industry, green technology, sustainability'
+tags_indicators:
+  - Environmental quality
+  - green industry
+  - green technology
+  - sustainability
 twitter: skysource_awg
 instagram: skysourcewater
 facebook: skysourcewater
@@ -21,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016194'
 title: Sky Source
 uri: /organizations/sky-source/
 challenge_url: >-

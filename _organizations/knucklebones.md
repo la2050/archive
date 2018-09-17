@@ -24,7 +24,6 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD,Other (please specify below):
 project_ids: '5102240'
-organization_id_2: '2015105'
 title: Knucklebones
 uri: /organizations/knucklebones/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/playla.html'

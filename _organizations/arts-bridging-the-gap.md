@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'underserved communities, womens advocacy, stem, education, career readiness'
+tags_indicators:
+  - underserved communities
+  - womens advocacy
+  - stem
+  - education
+  - career readiness
 twitter: artsbridgegap
 instagram: artsbridgingthegap
 facebook: artsbridgegap
@@ -23,7 +28,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016014'
 title: Arts Bridging the Gap
 uri: /organizations/arts-bridging-the-gap/
 challenge_url: >-

@@ -22,7 +22,6 @@ org_summary: >-
   than 8,000 children.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102012'
-organization_id_2: '2015006'
 title: Alliance for Children's Rights
 uri: /organizations/alliance-for-childrens-rights/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'

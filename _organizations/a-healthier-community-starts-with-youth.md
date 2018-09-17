@@ -7,9 +7,13 @@ ein: '824719690'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824719690'
 ntee_type: ''
-tags_indicators: >-
-  Education, Health: Community health, Healthcare, Food inequality, Youth,
-  Tutoring
+tags_indicators:
+  - Education
+  - 'Health: Community health'
+  - Healthcare
+  - Food inequality
+  - Youth
+  - Tutoring
 twitter: '@hcsy_ucla'
 instagram: '@hcsy.ucla'
 facebook: 'https://www.facebook.com/HCSYatUCLA/'
@@ -24,7 +28,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102004'
-organization_id_2: '2018004'
 title: A Healthier Community Starts with YOUth
 uri: /organizations/a-healthier-community-starts-with-youth/
 challenge_url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'

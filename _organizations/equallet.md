@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Women''s advocacy, small business, entrepreneurship, job training'
+tags_indicators:
+  - Women's advocacy
+  - small business
+  - entrepreneurship
+  - job training
 twitter: equallet
 instagram: equallet/?fref=ts
 facebook: na
@@ -32,7 +36,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '4102131'
-organization_id_2: '2016073'
 title: Equallet
 uri: /organizations/equallet/
 challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'

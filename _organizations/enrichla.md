@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102033'
-organization_id_2: '2014032'
 title: EnrichLA
 uri: /organizations/enrichla/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/enrichla.html'

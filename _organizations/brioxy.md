@@ -7,9 +7,12 @@ ein: We are fiscally sponsored
 zip: '90012'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness: Arts and culture,
-  Innovation, Creative Industry, Communities of color
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Innovation
+  - Creative Industry
+  - Communities of color
 twitter: brioxylife
 instagram: brioxy
 facebook: brioxy
@@ -27,7 +30,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102011'
-organization_id_2: '2018011'
 title: Brioxy
 uri: /organizations/brioxy/
 challenge_url: 'https://activation.la2050.org/create/brioxy/'

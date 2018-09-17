@@ -21,7 +21,6 @@ org_summary: >-
   agents who advance solutions to society's most pressing problems
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102330'
-organization_id_2: '2015217'
 title: UCLA Luskin School of Public Affairs
 uri: /organizations/ucla-luskin-school-of-public-affairs/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'

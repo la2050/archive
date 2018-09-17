@@ -7,7 +7,8 @@ ein: '263261159'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -49,7 +50,6 @@ org_summary: >-
   Hampshire College, and other institutions.
 areas_impacted: ''
 project_ids: '4102051'
-organization_id_2: '2013173'
 title: Stephen Glassman Studio
 uri: /organizations/stephen-glassman-studio/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'

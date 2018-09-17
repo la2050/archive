@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: IPMagOnline
 instagram: InspiredParentingMagazine
 facebook: Inspired_Parenting
@@ -32,7 +33,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016259'
 title: 'WOW Imagined, Inc.'
 uri: /organizations/wow-imagined-inc/
 challenge_url: >-

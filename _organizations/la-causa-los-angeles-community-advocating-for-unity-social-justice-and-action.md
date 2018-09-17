@@ -9,7 +9,8 @@ ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'
 ntee_type: ''
-tags_indicators: Public Safety
+tags_indicators:
+  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''
@@ -36,7 +37,6 @@ org_summary: >-
    Recognized as one of unincorporated East Los Angeles's only youth services group. The opportunities and resources in the community are relatively limited while showing significant positive outcomes.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013111'
 title: >-
   LA CAUSA (Los Angeles Community Advocating for Unity Social Justice and
   Action)

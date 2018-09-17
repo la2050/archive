@@ -21,7 +21,6 @@ org_summary: >-
   in the 21st century.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102333'
-organization_id_2: '2015218'
 title: UNITE-LA
 uri: /organizations/unite-la/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'

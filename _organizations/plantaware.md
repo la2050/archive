@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: plantaware
 instagram: plantaware/
 facebook: plantawarecorporation
@@ -25,7 +26,6 @@ areas_impacted:
   - City of Los Angeles
   - n/a
 project_ids: '4102198'
-organization_id_2: '2016174'
 title: Plantaware
 uri: /organizations/plantaware/
 challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: breakthecycledv
 instagram: breakthecycle
 facebook: breakthecycle
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: ''
-organization_id_2: '2016025'
 title: Break the Cycle
 uri: /organizations/break-the-cycle/
 challenge_url: >-

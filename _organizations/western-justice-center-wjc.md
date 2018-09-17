@@ -19,7 +19,6 @@ org_summary: >-
   in order to create safer schools and a more peaceful society.
 areas_impacted: ''
 project_ids: '4102184'
-organization_id_2: '2014224'
 title: Western Justice Center (WJC)
 uri: /organizations/western-justice-center-wjc/
 challenge_url: ''

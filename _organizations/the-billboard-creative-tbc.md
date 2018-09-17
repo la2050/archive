@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and culture vitality, creative industry, entertainment industry,'
+tags_indicators:
+  - Arts and culture vitality
+  - creative industry
+  - 'entertainment industry,'
 twitter: tbcbillboards
 instagram: thebillboardcreative
 facebook: the_billboard_creative
@@ -29,7 +32,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016212'
 title: The Billboard Creative (TBC)
 uri: /organizations/the-billboard-creative-tbc/
 challenge_url: >-

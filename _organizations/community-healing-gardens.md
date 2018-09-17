@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Healthy food, career readiness'
+tags_indicators:
+  - Healthy food
+  - career readiness
 twitter: CHealingGardens
 instagram: CommunityHealingGardens
 facebook: CommunityHealingGardens
@@ -23,7 +25,6 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: ''
-organization_id_2: '2016052'
 title: Community Healing Gardens
 uri: /organizations/community-healing-gardens/
 challenge_url: >-

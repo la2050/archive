@@ -22,7 +22,6 @@ org_summary: >-
   through educational programs
 areas_impacted: 'South Bay,County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102274'
-organization_id_2: '2015185'
 title: 'South Bay Contemporary, CRAFTED'
 uri: /organizations/south-bay-contemporary-crafted/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SBC.html'

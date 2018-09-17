@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, Education, Arts and culture vitality, creative industry, technology'
+tags_indicators:
+  - Youth
+  - Education
+  - Arts and culture vitality
+  - creative industry
+  - technology
 twitter: LATheatreWorks
 instagram: LATheatreWorks
 facebook: latheatreworks
@@ -23,7 +28,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016119'
 title: L.A. Theatre Works
 uri: /organizations/l-a-theatre-works/
 challenge_url: >-

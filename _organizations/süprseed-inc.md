@@ -7,7 +7,8 @@ ein: '823768348'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823768348'
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: '0'
 instagram: www.instagram.com/supr.mrkt
 facebook: www.facebook.com/suprmarkt
@@ -26,7 +27,6 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '8102113'
-organization_id_2: '2018113'
 title: 'SÜPRSEED, Inc.'
 uri: /organizations/süprseed-inc/
 challenge_url: 'https://activation.la2050.org/live/süprseed/'

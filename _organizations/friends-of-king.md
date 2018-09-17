@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: FriendsofTSKing
 instagram: FriendsOfKingMiddleSchool
 facebook: friendsoftsking
@@ -27,7 +28,6 @@ areas_impacted:
   - LAUSD
   - AYSO soccer plays on our field
 project_ids: ''
-organization_id_2: '2016083'
 title: Friends of King
 uri: /organizations/friends-of-king/
 challenge_url: 'https://challenge.la2050.org/entry/la-plays-at-king'

@@ -7,7 +7,8 @@ ein: '800696339'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Public Safety
+tags_indicators:
+  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''
@@ -21,7 +22,6 @@ org_summary: >-
   technology companies to the City of Los Angeles.
 areas_impacted: ''
 project_ids: '4102032'
-organization_id_2: '2013090'
 title: Hive Lighting
 uri: /organizations/hive-lighting/
 challenge_url: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'

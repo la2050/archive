@@ -7,7 +7,8 @@ ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -22,7 +23,6 @@ org_summary: >-
   toxic chemicals and purchase greener products.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013177'
 title: Sustainable Works a Project of Community Partners
 uri: /organizations/sustainable-works-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'

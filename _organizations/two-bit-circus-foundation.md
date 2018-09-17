@@ -7,7 +7,11 @@ ein: '562464067'
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'
 ntee_type: ''
-tags_indicators: 'Arts and Cultural Vitality, Education: Youth, STEM, Arts and culture'
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Education: Youth'
+  - STEM
+  - Arts and culture
 twitter: '@TwoBitCircusorg'
 instagram: '@TwoBitCircusorg'
 facebook: '@TwoBitCircusorg'
@@ -27,7 +31,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102128'
-organization_id_2: '2018128'
 title: Two Bit Circus Foundation
 uri: /organizations/two-bit-circus-foundation/
 challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'

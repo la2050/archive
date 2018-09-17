@@ -7,7 +7,8 @@ ein: '943292874'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943292874'
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -28,7 +29,6 @@ org_summary: >-
   and support to do so.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013117'
 title: 'Lambda Theta Nu Sorority, Incorporated'
 uri: /organizations/lambda-theta-nu-sorority-incorporated/
 challenge_url: 'http://maker.good.is/myla2050/projects/FEM.html'

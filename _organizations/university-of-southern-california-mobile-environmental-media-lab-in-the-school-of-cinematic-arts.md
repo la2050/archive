@@ -9,7 +9,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Ecosystem, green industry,'
+tags_indicators:
+  - Ecosystem
+  - 'green industry,'
 twitter: LAcitysense
 instagram: La-CitySense-348205538857872/
 facebook: LAcitysense
@@ -35,7 +37,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016248'
 title: >-
   University of Southern California, Mobile + Environmental Media Lab in the
   School of Cinematic Arts

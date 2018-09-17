@@ -7,7 +7,8 @@ ein: '462219140'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -31,7 +32,6 @@ org_summary: >-
   nearby!
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013180'
 title: Team Friday
 uri: /organizations/team-friday/
 challenge_url: 'http://maker.good.is/myla2050/projects/artmageddon.html'

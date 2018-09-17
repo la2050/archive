@@ -24,7 +24,6 @@ areas_impacted:
   - South Bay
   - Antelope Valley
 project_ids: '8102078'
-organization_id_2: '2018078'
 title: Lumos Transforms
 uri: /organizations/lumos-transforms/
 challenge_url: 'https://activation.la2050.org/live/lumos-transforms/'

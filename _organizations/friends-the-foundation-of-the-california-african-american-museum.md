@@ -7,7 +7,8 @@ ein: '954676760'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954676760'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -46,7 +47,6 @@ org_summary: >-
   their personal and professional career development.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013075'
 title: 'Friends, the Foundation of the California African American Museum'
 uri: >-
   /organizations/friends-the-foundation-of-the-california-african-american-museum/

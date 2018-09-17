@@ -7,7 +7,10 @@ ein: '208083398'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208083398'
 ntee_type: ''
-tags_indicators: 'Health, Social Connectedness: Healthcare, Volunteerism'
+tags_indicators:
+  - Health
+  - 'Social Connectedness: Healthcare'
+  - Volunteerism
 twitter: '@YouthAgainstAlz'
 instagram: theyouthmovement_org
 facebook: '@theyouthmovementagainstalzheimers'
@@ -24,7 +27,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102124'
-organization_id_2: '2018124'
 title: The Youth Movement Against Alzheimer’s
 uri: /organizations/the-youth-movement-against-alzheimers/
 challenge_url: >-

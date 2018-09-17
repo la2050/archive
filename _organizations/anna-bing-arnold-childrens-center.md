@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and culture, education, children'
+tags_indicators:
+  - Arts and culture
+  - education
+  - children
 twitter: abacc1968
 instagram: Anna-Bing-Arnold-Children-Center
 facebook: annabingchildrenscenter
@@ -23,7 +26,6 @@ areas_impacted:
   - San Gabriel Valley
   - 'California State University, Los Angeles'
 project_ids: ''
-organization_id_2: '2016010'
 title: Anna Bing Arnold Children's Center
 uri: /organizations/anna-bing-arnold-childrens-center/
 challenge_url: >-

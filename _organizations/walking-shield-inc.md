@@ -7,7 +7,8 @@ ein: '330209754'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330209754'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -36,7 +37,6 @@ org_summary: >-
    <p>An emergency fund has been provided by the San Manuel Band of Mission Indians to assist these students in covering the costs of tuition rate increases, parking fees, books and tutoring. The goal is to elevate the heavy financial burden of higher education in order to allow students to fulfill their dreams of receiving a college degree. These services are making a difference in improving college graduation rates among the American Indian community in California and around the country. </p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013215'
 title: 'Walking Shield, Inc.'
 uri: /organizations/walking-shield-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'

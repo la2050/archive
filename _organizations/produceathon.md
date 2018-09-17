@@ -7,9 +7,12 @@ ein: '300945310'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Income and Employment: Creative industry,
-  Innovation, Patents, Investment
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Income and Employment: Creative industry'
+  - Innovation
+  - Patents
+  - Investment
 twitter: '@ProduceAthon'
 instagram: '@produceAthon'
 facebook: www.facebook.com/ProduceAthon
@@ -37,7 +40,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102097'
-organization_id_2: '2018097'
 title: ProduceAthon
 uri: /organizations/produceathon/
 challenge_url: 'https://activation.la2050.org/create/produceathon/'

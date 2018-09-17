@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: UPTOGOODorg
 instagram: newroads
 facebook: UPTOGOODorg
@@ -24,7 +25,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016158'
 title: New Roads School
 uri: /organizations/new-roads-school/
 challenge_url: >-

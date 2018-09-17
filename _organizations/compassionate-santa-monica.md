@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: CompassionSaMo
 instagram: compassionateSAMO
 facebook: compassionsamo
@@ -21,7 +22,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016054'
 title: Compassionate Santa Monica
 uri: /organizations/compassionate-santa-monica/
 challenge_url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'

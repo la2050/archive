@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Social connectedness, arts and culture vitality, creative industry,
-  underserved communities, diversity, inclusion
+tags_indicators:
+  - Social connectedness
+  - arts and culture vitality
+  - creative industry
+  - underserved communities
+  - diversity
+  - inclusion
 twitter: cornerstonethtr
 instagram: cornerstonetheater
 facebook: cornerstonetheater
@@ -27,7 +31,6 @@ areas_impacted:
   - Westside
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016059'
 title: Cornerstone Theater Company
 uri: /organizations/cornerstone-theater-company/
 challenge_url: >-

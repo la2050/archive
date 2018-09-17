@@ -21,7 +21,6 @@ org_summary: >-
   easy and desirable.
 areas_impacted: 'Westside,South Bay'
 project_ids: '5102283'
-organization_id_2: '2015192'
 title: Sustainablesurf.org
 uri: /organizations/sustainablesurf-org/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'

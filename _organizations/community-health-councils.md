@@ -7,7 +7,8 @@ ein: '954487664'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954487664'
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: chcinc
 instagram: communityhealthcouncils
 facebook: communityhealthcouncils
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016053'
 title: Community Health Councils
 uri: /organizations/community-health-councils/
 challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'

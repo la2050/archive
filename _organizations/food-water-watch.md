@@ -7,7 +7,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Sustainability, green industry'
+tags_indicators:
+  - Sustainability
+  - green industry
 twitter: foodandwater
 instagram: foodandwaterwatch
 facebook: foodandwaterwatch
@@ -19,7 +21,6 @@ org_summary: Food & Water Watch champions healthy food and clean water for all.
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016079'
 title: Food & Water Watch
 uri: /organizations/food-water-watch/
 challenge_url: >-

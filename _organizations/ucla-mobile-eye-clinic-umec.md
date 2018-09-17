@@ -7,7 +7,10 @@ ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
-tags_indicators: 'Housing, Health: Homelessness, Healthcare'
+tags_indicators:
+  - Housing
+  - 'Health: Homelessness'
+  - Healthcare
 twitter: 'https://twitter.com/uclaMEC'
 instagram: uclamobileyeclinic
 facebook: 'https://www.facebook.com/uclamobileyeclinic/'
@@ -25,7 +28,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102130'
-organization_id_2: '2018130'
 title: UCLA Mobile Eye Clinic (UMEC)
 uri: /organizations/ucla-mobile-eye-clinic-umec/
 challenge_url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'

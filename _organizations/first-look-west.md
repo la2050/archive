@@ -9,7 +9,8 @@ charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643307
   (Caltech)
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -75,7 +76,6 @@ org_summary: >-
    <p>- The program achieved a partnership with the Southern California utilities, who are looking for technologies and talent</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013067'
 title: First Look West
 uri: /organizations/first-look-west/
 challenge_url: 'http://maker.good.is/myla2050/projects/FLOW.html'

@@ -7,9 +7,12 @@ ein: '300445999'
 zip: '92612'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness: Arts and culture,
-  Underserved communities, Communities of color, Technology
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Underserved communities
+  - Communities of color
+  - Technology
 twitter: 'https://twitter.com/thinktankdtla'
 instagram: 'https://instagram.com/thinktankdtla'
 facebook: 'https://www.facebook.com/thinktankgallery'
@@ -38,7 +41,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '5102319'
-organization_id_2: '2018125'
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
 challenge_url: >-

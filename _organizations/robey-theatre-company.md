@@ -20,7 +20,6 @@ org_summary: >-
   Black lens.
 areas_impacted: South LA
 project_ids: '5102255'
-organization_id_2: '2015169'
 title: Robey Theatre Company
 uri: /organizations/robey-theatre-company/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'

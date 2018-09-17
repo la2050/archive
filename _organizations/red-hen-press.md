@@ -7,9 +7,12 @@ ein: '954754598'
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness: Arts and culture, Diversity,
-  Inclusion, Underserved youth
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Arts and culture'
+  - Diversity
+  - Inclusion
+  - Underserved youth
 twitter: '@redhenpress'
 instagram: '@redhenpress'
 facebook: RedHenPress
@@ -22,7 +25,6 @@ org_summary: >-
 areas_impacted:
   - San Gabriel Valley
 project_ids: '8102101'
-organization_id_2: '2018101'
 title: Red Hen Press
 uri: /organizations/red-hen-press/
 challenge_url: 'https://activation.la2050.org/play/red-hen-press/'

@@ -21,7 +21,6 @@ org_summary: >-
   development of trails.
 areas_impacted: 'San Fernando Valley,Other (please specify below):'
 project_ids: '5102211'
-organization_id_2: '2015140'
 title: Mountains Recreation and Conservation Authority
 uri: /organizations/mountains-recreation-and-conservation-authority/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ELDORADOPARK.html'

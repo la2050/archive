@@ -7,7 +7,10 @@ ein: '953567895'
 zip: '94114'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'
 ntee_type: ''
-tags_indicators: 'Social Connectedness: Underserved communities, Diversity, Policy'
+tags_indicators:
+  - 'Social Connectedness: Underserved communities'
+  - Diversity
+  - Policy
 twitter: '@lalgbtcenter'
 instagram: '@lalgbtcenter'
 facebook: '@lalgbtcenter'
@@ -29,7 +32,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102075'
-organization_id_2: '2018075'
 title: Los Angeles LGBT Center
 uri: /organizations/los-angeles-lgbt-center/
 challenge_url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'

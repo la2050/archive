@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102045'
-organization_id_2: '2014044'
 title: Interpretive Media Laboratory (IMLab)
 uri: /organizations/interpretive-media-laboratory-imlab/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/trailcity.html'

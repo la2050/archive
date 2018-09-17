@@ -7,7 +7,8 @@ ein: '900705279'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900705279'
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -41,7 +42,6 @@ org_summary: >-
    <p>Founding board member, Julia Schachter, produced the Emmy nominated PBS documentary, The First Year. </p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013059'
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
 uri: /organizations/el-rio-schools-mind-fit-education-for-the-21st-century/
 challenge_url: 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'

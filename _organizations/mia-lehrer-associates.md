@@ -7,7 +7,8 @@ ein: '270903202'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -162,7 +163,6 @@ org_summary: >-
    Water + Life Museums â€“ Hemet, CA. LEED Platinum
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013132'
 title: Mia Lehrer + Associates
 uri: /organizations/mia-lehrer-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanforest.html'

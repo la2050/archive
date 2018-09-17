@@ -7,7 +7,8 @@ ein: '951667177'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -45,7 +46,6 @@ org_summary: >-
    <p>â€¢ Helping develop a proposal to legalize sidewalk food vending in Los Angeles</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013208'
 title: Urban & Environmental Policy Institute
 uri: /organizations/urban-environmental-policy-institute/
 challenge_url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'

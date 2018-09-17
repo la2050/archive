@@ -20,7 +20,6 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,San Fernando Valley,South
   LA,Westside,South Bay,Antelope Valley,City of Los Angeles (citywide),LAUSD
 project_ids: '5102257'
-organization_id_2: '2015171'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
 uri: /organizations/rrm-design-group-and-los-angeles-neighborhood-initiative/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'

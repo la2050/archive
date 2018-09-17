@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: SCALARC
 instagram: SCALARC/?pnref=story
 facebook: stevenechavez
@@ -31,7 +32,6 @@ areas_impacted:
   - LAUSD
   - Los Angeles Rivers and Washes
 project_ids: '5102285'
-organization_id_2: '2016191'
 title: SCA-LARC
 uri: /organizations/sca-larc/
 challenge_url: 'https://challenge.la2050.org/entry/jutout-parklets'

@@ -7,9 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Income and employment, job training, training and development, creative
-  industry, arts and culture vitality
+tags_indicators:
+  - Income and employment
+  - job training
+  - training and development
+  - creative industry
+  - arts and culture vitality
 twitter: penusa
 instagram: PENCenterUSA
 facebook: pencenterusa
@@ -24,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016168'
 title: 'PEN Center USA, ''PEN USA'''
 uri: /organizations/pen-center-usa-pen-usa/
 challenge_url: >-

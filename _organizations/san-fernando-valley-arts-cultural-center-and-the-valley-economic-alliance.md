@@ -24,7 +24,6 @@ org_summary: >-
   artists and others.
 areas_impacted: San Fernando Valley
 project_ids: '5102259'
-organization_id_2: '2015173'
 title: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/

@@ -23,7 +23,6 @@ areas_impacted: >-
   San Fernando Valley,City of Los Angeles (citywide),Other (please specify
   below):
 project_ids: '5102143'
-organization_id_2: '2015092'
 title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 uri: /organizations/instituto-de-educacion-popular-del-sur-de-california-idepsca/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'

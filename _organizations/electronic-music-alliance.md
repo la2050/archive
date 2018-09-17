@@ -7,7 +7,8 @@ ein: '262025234'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262025234'
 ntee_type: ''
-tags_indicators: Arts & Cultural Vitality
+tags_indicators:
+  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -57,7 +58,6 @@ org_summary: >-
    All event details for State of the Arts 2012 can be viewed here: http://www.c3so.com/soa-2012.html
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013060'
 title: Electronic Music Alliance
 uri: /organizations/electronic-music-alliance/
 challenge_url: 'http://maker.good.is/myla2050/projects/EMAPLAY.html'

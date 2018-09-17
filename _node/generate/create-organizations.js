@@ -127,6 +127,10 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   // TODO: Get the ntee_type from the page located at charity_navigator_url
   delete data.link_to_ntee_code
 
+  if (data.tags_indicators && data.tags_indicators != "" && data.tags_indicators != "0") {
+    data.tags_indicators = data.tags_indicators.split(", ")
+  }
+
   if (data.organization_id_2 === data.organization_id) {
     delete data.organization_id_2
   } else {

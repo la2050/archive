@@ -7,7 +7,8 @@ ein: '272245545'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -73,7 +74,6 @@ org_summary: >-
    <p> â€¢ Raised $10,000 on Kickstarter to host the first-ever L.A. River Bike-in Movie Theater in April<p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013110'
 title: L.A. River Revitalization Corporation
 uri: /organizations/l-a-river-revitalization-corporation/
 challenge_url: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'

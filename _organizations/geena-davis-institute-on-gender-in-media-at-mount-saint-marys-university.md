@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: GDIGM
 instagram: GDIGM
 facebook: GDIGM
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016087'
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 uri: >-
   /organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/

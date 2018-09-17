@@ -21,7 +21,6 @@ org_summary: >-
   litigation and advocacy.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102275'
-organization_id_2: '2015186'
 title: Southeast Asian Community Alliance (SEACA) and Public Counsel
 uri: /organizations/southeast-asian-community-alliance-seaca-and-public-counsel/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'

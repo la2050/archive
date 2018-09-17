@@ -22,7 +22,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102098'
-organization_id_2: '2014098'
 title: The Women's Center for Creative Work
 uri: /organizations/the-womens-center-for-creative-work/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/WCCW.html'

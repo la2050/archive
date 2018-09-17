@@ -7,7 +7,8 @@ ein: '20661629'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=20661629'
 ntee_type: ''
-tags_indicators: Advancing health and community on Skid Row
+tags_indicators:
+  - Advancing health and community on Skid Row
 twitter: www.twitter.com/LACANetwork
 instagram: ''
 facebook: >-
@@ -22,7 +23,6 @@ org_summary: >-
   and equity in Skid Row.
 areas_impacted: 'Central LA,South LA'
 project_ids: '5102186'
-organization_id_2: '2015121'
 title: Los Angeles Community Action Network
 uri: /organizations/los-angeles-community-action-network/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LACAN.html'

@@ -7,7 +7,8 @@ ein: '270343297'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270343297'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -58,7 +59,6 @@ org_summary: >-
   to pass, providing important revenue for vital services and education.</p>
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013045'
 title: Courage Campaign
 uri: /organizations/courage-campaign/
 challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'

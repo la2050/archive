@@ -7,7 +7,11 @@ ein: '951644589'
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
 ntee_type: ''
-tags_indicators: 'Education, Social Connectedness: STEM, Youth, Underserved communities'
+tags_indicators:
+  - Education
+  - 'Social Connectedness: STEM'
+  - Youth
+  - Underserved communities
 twitter: LASA_ICW
 instagram: instagram.com/husc_icw
 facebook: facebook.com/husc.icw
@@ -36,7 +40,6 @@ areas_impacted:
   - LAUSD
   - Gateway Cities
 project_ids: '8102077'
-organization_id_2: '2018077'
 title: Los Angeles Service Academy (LASA)
 uri: /organizations/los-angeles-service-academy-lasa/
 challenge_url: 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'

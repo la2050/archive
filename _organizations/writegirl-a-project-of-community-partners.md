@@ -19,7 +19,6 @@ org_summary: >-
   underserved teen girls with professional women writers.
 areas_impacted: ''
 project_ids: '4102188'
-organization_id_2: '2014228'
 title: 'WriteGirl, a project of Community Partners'
 uri: /organizations/writegirl-a-project-of-community-partners/
 challenge_url: ''

@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Health care
+tags_indicators:
+  - Health care
 twitter: TheHHCLA
 instagram: HomelessHealthCareLosAngeles
 facebook: HHCLA
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016103'
 title: Homeless Health Care Los Angeles
 uri: /organizations/homeless-health-care-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/save-a-life'

@@ -7,9 +7,10 @@ ein: '824799787'
 zip: '9005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824799787'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness: Underserved communities, Neighborhood councils,
-  Inclusion
+tags_indicators:
+  - 'Social Connectedness: Underserved communities'
+  - Neighborhood councils
+  - Inclusion
 twitter: 'https://twitter.com/Rgnl_LA'
 instagram: 'https://www.instagram.com/regional.la8605/'
 facebook: 'https://www.facebook.com/rgnl.la'
@@ -37,7 +38,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102102'
-organization_id_2: '2018102'
 title: REGIONAL.LA
 uri: /organizations/regional-la/
 challenge_url: 'https://activation.la2050.org/connect/regional-la/'

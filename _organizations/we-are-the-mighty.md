@@ -7,7 +7,8 @@ ein: '465406542'
 zip: '90015'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Veteran services
+tags_indicators:
+  - Veteran services
 twitter: '@wearethemighty'
 instagram: '@wearethemighty'
 facebook: '@wearethemighty'
@@ -23,7 +24,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: ''
-organization_id_2: '2018137'
 title: We Are the Mighty
 uri: /organizations/we-are-the-mighty/
 challenge_url: 'https://activation.la2050.org/connect/we-are-the-mighty/'

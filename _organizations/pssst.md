@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: pssstxyz
 instagram: 'https://www.facebook.com/pssst.xyz'
 facebook: pssst.xyz
@@ -21,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: ''
-organization_id_2: '2016179'
 title: PSSST
 uri: /organizations/pssst/
 challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'

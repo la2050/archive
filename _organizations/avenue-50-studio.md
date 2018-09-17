@@ -21,7 +21,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102012'
-organization_id_2: '2014011'
 title: Avenue 50 Studio
 uri: /organizations/avenue-50-studio/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'

@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, college preparation, career readiness'
+tags_indicators:
+  - Youth
+  - college preparation
+  - career readiness
 twitter: BUILDinLA
 instagram: BUILD.org
 facebook: buildnational
@@ -24,7 +27,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016027'
 title: BUILD
 uri: /organizations/build/
 challenge_url: >-

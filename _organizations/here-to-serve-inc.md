@@ -7,9 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  education, financial management, income and employment, training and
-  development
+tags_indicators:
+  - education
+  - financial management
+  - income and employment
+  - training and development
 twitter: H2S_NPO
 instagram: HeretoServe.Nonprofit/?pnref=lhc
 facebook: Here_to_Serve_NPO
@@ -34,7 +36,6 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016099'
 title: 'Here to Serve, Inc'
 uri: /organizations/here-to-serve-inc/
 challenge_url: >-

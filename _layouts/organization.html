@@ -674,9 +674,12 @@ text-align: left;
   {% endfor %}
 {% endif %}
 
-{% if unique_tags_indicators.size > 0 %}
 
-{% assign unique_tags_indicators = tags_indicators | uniq | sort %}
+{% if tags_indicators and tags_indicators.size > 0 %}
+  {% assign unique_tags_indicators = tags_indicators | uniq | sort %}
+{% endif %}
+
+{% if unique_tags_indicators and unique_tags_indicators.size > 0 %}
 
 <hr style="opacity: 0" />
 <h2 style="

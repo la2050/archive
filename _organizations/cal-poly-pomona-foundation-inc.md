@@ -7,7 +7,8 @@ ein: '95.2417645'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=95.2417645'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -23,7 +24,6 @@ org_summary: >-
   host of 606 projects on their website for more information.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013025'
 title: 'Cal Poly Pomona Foundation, Inc.'
 uri: /organizations/cal-poly-pomona-foundation-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'

@@ -20,7 +20,6 @@ org_summary: >-
   technology to teach youth 21st Century skills as a tool for change.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102131'
-organization_id_2: '2015084'
 title: Heart and Soul Design Communications Center
 uri: /organizations/heart-and-soul-design-communications-center/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'

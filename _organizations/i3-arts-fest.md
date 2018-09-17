@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: 'GrandPark_LA,GrandPerfs'
 instagram: i3artsfest
 facebook: 'GrandPark_LA,GrandPerfs, MakeMusicLA, Playascape'
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: ''
-organization_id_2: '2016106'
 title: I3 Arts Fest
 uri: /organizations/i3-arts-fest/
 challenge_url: >-

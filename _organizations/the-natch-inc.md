@@ -7,7 +7,10 @@ ein: '813470225'
 zip: '90021'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Income and Employment: Small business, Entrepreneurship, Technology'
+tags_indicators:
+  - 'Income and Employment: Small business'
+  - Entrepreneurship
+  - Technology
 twitter: 'https://twitter.com/natch_app'
 instagram: 'https://www.instagram.com/natch_app_/'
 facebook: 'https://www.facebook.com/thenatch/'
@@ -28,7 +31,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
-organization_id_2: '2018120'
 title: 'The Natch, INC.'
 uri: /organizations/the-natch-inc/
 challenge_url: 'https://activation.la2050.org/create/the-natch-inc/'

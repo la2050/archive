@@ -7,7 +7,8 @@ ein: '421687057'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=421687057'
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -87,7 +88,6 @@ org_summary: >-
    Initiated Ride South LA mapping projects as community advocacy tools, to demand equitable bike/pedestrian infrastructure investment in South LA.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013199'
 title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
 uri: >-
   /organizations/trust-south-la-tenemos-que-reclamar-y-unidos-salvar-la-tierra-south-la/

@@ -7,7 +7,9 @@ ein: '300538676'
 zip: '94113'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Environmental Quality, Public Safety'
+tags_indicators:
+  - Environmental Quality
+  - Public Safety
 twitter: '@lizettealvare15'
 instagram: '0'
 facebook: '0'
@@ -28,7 +30,6 @@ areas_impacted:
   - South Bay
   - Los Angeles digital space
 project_ids: '8102091'
-organization_id_2: '2018052'
 title: Health Core Possibilities
 uri: /organizations/health-core-possibilities/
 challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'

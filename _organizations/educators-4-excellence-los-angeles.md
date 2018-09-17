@@ -21,7 +21,6 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: ''
-organization_id_2: '2016068'
 title: Educators 4 Excellence-Los Angeles
 uri: /organizations/educators-4-excellence-los-angeles/
 challenge_url: >-

@@ -7,9 +7,15 @@ ein: '956151774'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956151774'
 ntee_type: ''
-tags_indicators: >-
-  Education, Health, Social Connectedness: STEM, Healthcare, Community health,
-  Underrepresented youth, Volunteerism, College preparation
+tags_indicators:
+  - Education
+  - Health
+  - 'Social Connectedness: STEM'
+  - Healthcare
+  - Community health
+  - Underrepresented youth
+  - Volunteerism
+  - College preparation
 twitter: '@cdrewu'
 instagram: charlesrdrewu
 facebook: 'https://www.facebook.com/charlesrdrewuniversity/'
@@ -38,7 +44,6 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102017'
-organization_id_2: '2018017'
 title: Charles R. Drew University of Medicine and Science
 uri: /organizations/charles-r-drew-university-of-medicine-and-science/
 challenge_url: >-

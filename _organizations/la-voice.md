@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - Compton
 project_ids: ''
-organization_id_2: '2016125'
 title: LA Voice
 uri: /organizations/la-voice/
 challenge_url: >-

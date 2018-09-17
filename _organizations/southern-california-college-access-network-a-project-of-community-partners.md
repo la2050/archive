@@ -24,7 +24,6 @@ areas_impacted: >-
   LA,Westside,South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide)
 project_ids: '5102276'
-organization_id_2: '2015187'
 title: 'Southern California College Access Network, a Project of Community Partners'
 uri: >-
   /organizations/southern-california-college-access-network-a-project-of-community-partners/

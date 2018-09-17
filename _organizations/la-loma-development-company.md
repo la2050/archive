@@ -7,7 +7,8 @@ ein: '260139462'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -43,7 +44,6 @@ org_summary: >-
   have created jobs and income during a recession, what more can you ask?
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013114'
 title: La Loma Development Company
 uri: /organizations/la-loma-development-company/
 challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'

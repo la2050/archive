@@ -7,9 +7,11 @@ ein: '810832318'
 zip: '91605'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Homelessness, Volunteerism,
-  Underserved communities
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Homelessness'
+  - Volunteerism
+  - Underserved communities
 twitter: '@lavamaela'
 instagram: lavamae_la
 facebook: lavamae_la
@@ -24,7 +26,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102066'
-organization_id_2: '2018066'
 title: Lava Mae
 uri: /organizations/lava-mae/
 challenge_url: 'https://activation.la2050.org/connect/lava-mae/'

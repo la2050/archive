@@ -20,7 +20,6 @@ org_summary: >-
   the performing arts community.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102126'
-organization_id_2: '2015080'
 title: Hatchery Arts dba Hollywood Fringe Festival
 uri: /organizations/hatchery-arts-dba-hollywood-fringe-festival/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/hollywoodfringe.html'

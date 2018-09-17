@@ -19,7 +19,6 @@ org_summary: >-
   mental health, environment, housing and finances.
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside,Other:'
 project_ids: '4102046'
-organization_id_2: '2014045'
 title: Koreatown Youth and Community Center (KYCC)
 uri: /organizations/koreatown-youth-and-community-center-kycc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'

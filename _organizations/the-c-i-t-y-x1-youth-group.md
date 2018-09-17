@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: cityx1
 instagram: cityx1youth
 facebook: cityx1youth
@@ -24,7 +25,6 @@ areas_impacted:
   - City of Los Angeles
   - Hollywood
 project_ids: ''
-organization_id_2: '2016214'
 title: The C.I.T.Y. x1 Youth Group
 uri: /organizations/the-c-i-t-y-x1-youth-group/
 challenge_url: >-

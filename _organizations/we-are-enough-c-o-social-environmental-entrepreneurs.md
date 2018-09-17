@@ -7,9 +7,13 @@ ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
-tags_indicators: >-
-  Social Connectedness, Income and Employment: Women’s advocacy, Small business,
-  Entrepreneurship, Investment, Financial management
+tags_indicators:
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Small business
+  - Entrepreneurship
+  - Investment
+  - Financial management
 twitter: '@weareenoughbiz'
 instagram: '@weareenoughbiz'
 facebook: '0'
@@ -25,7 +29,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102136'
-organization_id_2: '2018136'
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
 challenge_url: >-

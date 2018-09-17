@@ -21,7 +21,6 @@ org_summary: >-
   civic life and engage everyday people in improving their communities.
 areas_impacted: 'Central LA,South LA,City of Los Angeles (citywide)'
 project_ids: '5102064'
-organization_id_2: '2015035'
 title: Civic Tech USC
 uri: /organizations/civic-tech-usc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'

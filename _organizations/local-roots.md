@@ -7,7 +7,8 @@ ein: '464783761'
 zip: '90058'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Providing fresh food and produce to communities
+tags_indicators:
+  - Providing fresh food and produce to communities
 twitter: www.twitter.com/localrootsfarms
 instagram: 'https://instagram.com/localrootsfarms/'
 facebook: 'https://www.facebook.com/LocalRootsFarms/'
@@ -23,7 +24,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,South Bay,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: ''
-organization_id_2: '2015117'
 title: Local Roots
 uri: /organizations/local-roots/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'

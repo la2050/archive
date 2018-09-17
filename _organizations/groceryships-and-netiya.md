@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Health and Nutrition in Low Income communities
+tags_indicators:
+  - Health and Nutrition in Low Income communities
 twitter: Groceryships
 instagram: groceryships
 facebook: groceryships
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: ''
-organization_id_2: '2016094'
 title: Groceryships and Netiya
 uri: /organizations/groceryships-and-netiya/
 challenge_url: >-

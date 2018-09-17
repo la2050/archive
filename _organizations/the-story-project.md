@@ -20,7 +20,6 @@ org_summary: >-
   in the media arts.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102312'
-organization_id_2: '2015207'
 title: The Story Project
 uri: /organizations/the-story-project/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/storyproject.html'

@@ -7,7 +7,9 @@ ein: '364519595'
 zip: '90065'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Arts and Cultural Vitality, Social Connectedness: Art and culture'
+tags_indicators:
+  - Arts and Cultural Vitality
+  - 'Social Connectedness: Art and culture'
 twitter: 'https://www.twitter.com/@LARPAP'
 instagram: 'https://www.instagram.com/lariverpublicartproject'
 facebook: 'https://www.facebook.com/Los-Angeles-River-Public-Art-Project-698775940231398/'
@@ -38,7 +40,6 @@ areas_impacted:
     We will work at sites along the entire 51-mile length of the LA River and
     its surrounding communities within the LA watershed/LA Basin.
 project_ids: '5102247'
-organization_id_2: '2018063'
 title: LA River Public Art Project (c/o ERW Design)
 uri: /organizations/la-river-public-art-project-c-o-erw-design/
 challenge_url: >-

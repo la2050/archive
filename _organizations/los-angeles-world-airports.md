@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Mentorship, career readiness, youth'
+tags_indicators:
+  - Mentorship
+  - career readiness
+  - youth
 twitter: N/A
 instagram: N/A
 facebook: N/A
@@ -27,7 +30,6 @@ areas_impacted:
   - LAUSD
   - County wide; but targetting local students
 project_ids: ''
-organization_id_2: '2016140'
 title: Los Angeles World Airports
 uri: /organizations/los-angeles-world-airports/
 challenge_url: >-

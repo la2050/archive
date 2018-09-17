@@ -20,7 +20,6 @@ org_summary: >-
   with the options of birthday party celebrations and martial arts classes.
 areas_impacted: 'San Fernando Valley,Other (please specify below):'
 project_ids: ''
-organization_id_2: '2015004'
 title: Adventure Playhouse Indoor Activity Center
 uri: /organizations/adventure-playhouse-indoor-activity-center/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'

@@ -7,7 +7,8 @@ ein: '462388422'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -39,7 +40,6 @@ org_summary: >-
    <p>It is our goal to continue to develop and implement a structured Mentoring and Internship program for our students.</p>
 areas_impacted: ''
 project_ids: '5102016'
-organization_id_2: '2013042'
 title: Collaborative Tutoring
 uri: /organizations/collaborative-tutoring/
 challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'

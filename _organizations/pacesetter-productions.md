@@ -7,7 +7,8 @@ ein: '461206998'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Education
+tags_indicators:
+  - Education
 twitter: ''
 instagram: ''
 facebook: ''
@@ -41,7 +42,6 @@ org_summary: >-
    http://www.leecondon.com/writing.html
 areas_impacted: ''
 project_ids: '4102042'
-organization_id_2: '2013149'
 title: Pacesetter Productions
 uri: /organizations/pacesetter-productions/
 challenge_url: 'http://maker.good.is/myla2050/projects/Passion.html'

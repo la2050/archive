@@ -7,7 +7,8 @@ ein: '454109556'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: GRIDInc
 instagram: makinggoodongoodsmovement/
 facebook: N/A
@@ -28,7 +29,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016093'
 title: GRID Logistics
 uri: /organizations/grid-logistics/
 challenge_url: >-

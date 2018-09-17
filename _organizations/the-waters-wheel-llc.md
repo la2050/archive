@@ -7,7 +7,8 @@ ein: '800831358'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -38,7 +39,6 @@ org_summary: >-
    Presently designing Buena Park Gardens, multiple Aquaponic and Aeroponic greenhouses on 10 acres under power-line easement, Knott Ave., Buena Park
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013197'
 title: 'The Waters Wheel, LLC'
 uri: /organizations/the-waters-wheel-llc/
 challenge_url: 'http://maker.good.is/myla2050/projects/Heal_This_City.html'

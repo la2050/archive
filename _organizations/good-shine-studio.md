@@ -7,10 +7,15 @@ ein: '609909662'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=609909662'
 ntee_type: ''
-tags_indicators: >-
-  Arts and Cultural Vitality, Social Connectedness, Income and Employment:
-  Underserved communities, Communities of color, Diversity, Arts and culture,
-  Volunteerism, Small business
+tags_indicators:
+  - Arts and Cultural Vitality
+  - Social Connectedness
+  - 'Income and Employment: Underserved communities'
+  - Communities of color
+  - Diversity
+  - Arts and culture
+  - Volunteerism
+  - Small business
 twitter: twitter.com/wapowla
 instagram: instagram.com/wapow.la
 facebook: facebook.com/wapow.la
@@ -26,7 +31,6 @@ areas_impacted:
   - Central LA
   - San Gabriel Valley
 project_ids: '8102047'
-organization_id_2: '2018047'
 title: Good Shine Studio
 uri: /organizations/good-shine-studio/
 challenge_url: 'https://activation.la2050.org/connect/good-shine-studio/'

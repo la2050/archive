@@ -7,7 +7,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Youth, career readiness, job training'
+tags_indicators:
+  - Youth
+  - career readiness
+  - job training
 twitter: KnitMarketing
 instagram: KnitMarketing
 facebook: KnitMarketing
@@ -23,7 +26,6 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: ''
-organization_id_2: '2016118'
 title: Knit Marketing
 uri: /organizations/knit-marketing/
 challenge_url: >-

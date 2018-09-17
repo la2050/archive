@@ -28,7 +28,6 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016261'
 title: Youth Business Alliance
 uri: /organizations/youth-business-alliance/
 challenge_url: >-

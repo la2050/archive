@@ -9,7 +9,8 @@ charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914
   (in the name of Special Service for Groups)
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -46,7 +47,6 @@ org_summary: >-
   ourselves of its strength to do more for the weakest among us.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013187'
 title: The Greater West Hollywood Food Coalition
 uri: /organizations/the-greater-west-hollywood-food-coalition/
 challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'

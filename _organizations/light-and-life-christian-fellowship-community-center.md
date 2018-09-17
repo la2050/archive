@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: llcflb
 instagram: LLCFCommunityCenter/
 facebook: llcflb
@@ -22,7 +23,6 @@ org_summary: >-
 areas_impacted:
   - District 9 of Long Beach - Los Angeles County
 project_ids: ''
-organization_id_2: '2016130'
 title: Light and Life Christian Fellowship Community Center
 uri: /organizations/light-and-life-christian-fellowship-community-center/
 challenge_url: >-

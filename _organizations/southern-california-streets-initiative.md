@@ -7,7 +7,9 @@ ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Affordable housing, Affordable building costs'
+tags_indicators:
+  - Affordable housing
+  - Affordable building costs
 twitter: 'http://www.twitter.com/abundanthousing http://www.twitter.com/streetsblogla'
 instagram: ''
 facebook: >-
@@ -20,7 +22,6 @@ project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'City of Los Angeles (citywide),Other (please specify below):'
 project_ids: ''
-organization_id_2: '2015188'
 title: Southern California Streets Initiative
 uri: /organizations/southern-california-streets-initiative/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'

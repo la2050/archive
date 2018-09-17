@@ -7,9 +7,14 @@ ein: '800597403'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800597403'
 ntee_type: ''
-tags_indicators: >-
-  Health, Housing, Income and Employment: Veteran services, Affordable housing,
-  Healthcare, Job training, Homelessness
+tags_indicators:
+  - Health
+  - Housing
+  - 'Income and Employment: Veteran services'
+  - Affordable housing
+  - Healthcare
+  - Job training
+  - Homelessness
 twitter: '@RebootWorkshop'
 instagram: 'https://www.instagram.com/rebootworkshop/'
 facebook: 'https://www.facebook.com/REBOOTWorkshop/'
@@ -29,7 +34,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102088'
-organization_id_2: '2018088'
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
 challenge_url: >-

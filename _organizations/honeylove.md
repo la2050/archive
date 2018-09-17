@@ -7,7 +7,8 @@ ein: '452863213'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452863213'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -35,7 +36,6 @@ org_summary: >-
    Our most important achievements are not measured in legislative changes but in the number of people we reach, teach, and impact. In that respect we have been enormously successful. In a short time we've connected with people all over the world through monthly workshops, mentoring sessions, honey bee rescues, education outreach, neighborhood council involvement and social media connections. Our proudest single achievement is creating a global community of conscientious, active urban beekeepers who now share HoneyLove's mission with an ever-growing audience. In 2050, we hope to look back on our work and be proud to say that we helped lead the change toward a pesticide-free Los Angeles.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013091'
 title: HoneyLove
 uri: /organizations/honeylove/
 challenge_url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'

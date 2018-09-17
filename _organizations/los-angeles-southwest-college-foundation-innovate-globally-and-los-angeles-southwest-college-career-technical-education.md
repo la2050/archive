@@ -28,7 +28,6 @@ areas_impacted: >-
   South LA,South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD
 project_ids: '5102196'
-organization_id_2: '2015129'
 title: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
   Southwest College Career & Technical Education

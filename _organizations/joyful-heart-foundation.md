@@ -7,7 +7,8 @@ ein: '721519537'
 zip: '91101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=721519537'
 ntee_type: ''
-tags_indicators: Heal/Empower subjects of sexual assault and abuse
+tags_indicators:
+  - Heal/Empower subjects of sexual assault and abuse
 twitter: thejhf
 instagram: joyfulheart
 facebook: thejhf
@@ -29,7 +30,6 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016115'
 title: Joyful Heart Foundation
 uri: /organizations/joyful-heart-foundation/
 challenge_url: >-

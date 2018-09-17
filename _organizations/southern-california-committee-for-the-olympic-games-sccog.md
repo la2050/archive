@@ -7,7 +7,8 @@ ein: '951240083'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951240083'
 ntee_type: ''
-tags_indicators: Health
+tags_indicators:
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -73,7 +74,6 @@ org_summary: |-
    9) Nominated for the Governor's Council on Physical Fitness & Sports Award for Organizations
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013169'
 title: Southern California Committee for the Olympic Games (SCCOG)
 uri: /organizations/southern-california-committee-for-the-olympic-games-sccog/
 challenge_url: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'

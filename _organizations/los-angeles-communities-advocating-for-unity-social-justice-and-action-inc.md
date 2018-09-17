@@ -7,7 +7,8 @@ ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -28,7 +29,6 @@ org_summary: >-
   need of healthier food options.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013122'
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/

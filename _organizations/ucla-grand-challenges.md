@@ -19,7 +19,6 @@ org_summary: >-
   partners to solve critical issues.
 areas_impacted: ''
 project_ids: '4102180'
-organization_id_2: '2014217'
 title: UCLA Grand Challenges
 uri: /organizations/ucla-grand-challenges/
 challenge_url: ''

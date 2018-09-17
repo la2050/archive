@@ -7,7 +7,8 @@ ein: '451741319'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Income & Employment
+tags_indicators:
+  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
@@ -31,7 +32,6 @@ org_summary: >-
    In addition, we have identified and are in discussion with 3 sites in South Los Angeles where we are considering for development.
 areas_impacted: ''
 project_ids: '4102034'
-organization_id_2: '2013094'
 title: 'ImPact Farms, Inc.'
 uri: /organizations/impact-farms-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'

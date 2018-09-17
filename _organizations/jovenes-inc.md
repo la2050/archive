@@ -7,7 +7,8 @@ ein: '954342434'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954342434'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -19,7 +20,6 @@ org_summary: >-
   We provide stable housing options and supportive services.
 areas_impacted: ''
 project_ids: '4102142'
-organization_id_2: '2014159'
 title: 'Jovenes, Inc.'
 uri: /organizations/jovenes-inc/
 challenge_url: ''

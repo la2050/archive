@@ -7,7 +7,9 @@ ein: '473024770'
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473024770'
 ntee_type: ''
-tags_indicators: 'Youth education and life skills, Educate youth of risky behavior'
+tags_indicators:
+  - Youth education and life skills
+  - Educate youth of risky behavior
 twitter: KASIF0731
 instagram: kasif0731
 facebook: www.facebook.com/KASIF0731
@@ -21,7 +23,6 @@ org_summary: >-
   community.
 areas_impacted: 'Westside,County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102159'
-organization_id_2: '2015103'
 title: Keith A. Somers International Foundation
 uri: /organizations/keith-a-somers-international-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'

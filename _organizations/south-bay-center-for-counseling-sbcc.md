@@ -7,7 +7,8 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '#N/A'
+tags_indicators:
+  - '#N/A'
 twitter: SBCCThriveLA
 instagram: SBCCThriveLA
 facebook: sbccthrivela
@@ -31,7 +32,6 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: ''
-organization_id_2: '2016197'
 title: South Bay Center for Counseling (SBCC)
 uri: /organizations/south-bay-center-for-counseling-sbcc/
 challenge_url: >-

@@ -7,7 +7,8 @@ ein: '452038035'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -42,7 +43,6 @@ org_summary: >-
   way.
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013178'
 title: Swipes for the Homeless
 uri: /organizations/swipes-for-the-homeless/
 challenge_url: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'

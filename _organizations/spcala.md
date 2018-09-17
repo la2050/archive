@@ -24,7 +24,6 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide)
 project_ids: '5102279'
-organization_id_2: '2015190'
 title: spcaLA
 uri: /organizations/spcala/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ASN.html'

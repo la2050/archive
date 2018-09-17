@@ -7,7 +7,8 @@ ein: '510181191'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510181191'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
@@ -54,7 +55,6 @@ org_summary: >-
    â€¢ 30,000 L.A. transgender persons with improved access to medical care
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013121'
 title: Liberty Hill
 uri: /organizations/liberty-hill/
 challenge_url: 'http://maker.good.is/myla2050/projects/bootcamp2050.html'

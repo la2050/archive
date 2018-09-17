@@ -19,7 +19,6 @@ org_summary: >-
   so that they may create amazing web products for all of LA.
 areas_impacted: South LA
 project_ids: ''
-organization_id_2: '2014078'
 title: 'Sabio Enterprises, Inc.'
 uri: /organizations/sabio-enterprises-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Transformation.html'

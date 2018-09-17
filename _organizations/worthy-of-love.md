@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'social connectedness, underserved youth, poverty, homelessness,'
+tags_indicators:
+  - social connectedness
+  - underserved youth
+  - poverty
+  - 'homelessness,'
 twitter: Worthyoflovela
 instagram: Worthyoflovela
 facebook: Worthyoflovela
@@ -24,7 +28,6 @@ areas_impacted:
   - San Fernando Valley
   - Westside
 project_ids: ''
-organization_id_2: '2016258'
 title: Worthy of Love
 uri: /organizations/worthy-of-love/
 challenge_url: 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'

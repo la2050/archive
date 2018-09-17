@@ -7,9 +7,11 @@ ein: '471749354'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471749354'
 ntee_type: ''
-tags_indicators: >-
-  Environmental Quality, Social Connectedness: Green technology, Sustainability,
-  Volunteerism
+tags_indicators:
+  - Environmental Quality
+  - 'Social Connectedness: Green technology'
+  - Sustainability
+  - Volunteerism
 twitter: seedcg
 instagram: '0'
 facebook: 'https://www.facebook.com/seedusa'
@@ -34,7 +36,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102107'
-organization_id_2: '2018107'
 title: SeedLA
 uri: /organizations/seedla/
 challenge_url: 'https://activation.la2050.org/live/seedla/'

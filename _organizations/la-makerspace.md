@@ -22,7 +22,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,County of Los Angeles (countywide),City of Los
   Angeles (citywide),LAUSD
 project_ids: '5102168'
-organization_id_2: '2015108'
 title: LA Makerspace
 uri: /organizations/la-makerspace/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'

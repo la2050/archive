@@ -22,7 +22,6 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: ''
-organization_id_2: '2016164'
 title: Patrick Henry Foundation
 uri: /organizations/patrick-henry-foundation/
 challenge_url: >-

@@ -7,7 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, children, advocacy, diversity, underserved communities, policy'
+tags_indicators:
+  - Education
+  - children
+  - advocacy
+  - diversity
+  - underserved communities
+  - policy
 twitter: LBLreaders
 instagram: LBLreaders
 facebook: n/a
@@ -21,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: ''
-organization_id_2: '2016180'
 title: Public Health Foundation Enterprises
 uri: /organizations/public-health-foundation-enterprises/
 challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'

@@ -7,9 +7,15 @@ ein: '475033123'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'
 ntee_type: ''
-tags_indicators: >-
-  Public Safety, Social Connectedness, Income and Employment: Women’s advocacy,
-  Crime, Financial management, Entrepreneurship, Homelessness, Small business
+tags_indicators:
+  - Public Safety
+  - Social Connectedness
+  - 'Income and Employment: Women’s advocacy'
+  - Crime
+  - Financial management
+  - Entrepreneurship
+  - Homelessness
+  - Small business
 twitter: 'https://twitter.com/freefromorg'
 instagram: '@freefromdotorg'
 facebook: 'https://www.facebook.com/freefrom.org/'
@@ -28,7 +34,6 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102041'
-organization_id_2: '2018041'
 title: FreeFrom
 uri: /organizations/freefrom/
 challenge_url: 'https://activation.la2050.org/live/freefrom/'

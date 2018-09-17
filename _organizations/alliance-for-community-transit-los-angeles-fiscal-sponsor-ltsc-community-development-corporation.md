@@ -9,7 +9,8 @@ ein: '263106566'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263106566'
 ntee_type: ''
-tags_indicators: Social Connectedness
+tags_indicators:
+  - Social Connectedness
 twitter: '@All4Transit'
 instagram: ''
 facebook: ''
@@ -23,7 +24,6 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102002'
-organization_id_2: '2013007'
 title: >-
   Alliance for Community Transit - Los Angeles (Fiscal Sponsor LTSC Community
   Development Corporation)

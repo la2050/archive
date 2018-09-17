@@ -20,7 +20,6 @@ org_summary: >-
   communication/collaboration within & between classrooms
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2014145'
 title: Global Education Network Exchange (GENE)
 uri: /organizations/global-education-network-exchange-gene/
 challenge_url: ''

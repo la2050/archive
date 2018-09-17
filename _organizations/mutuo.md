@@ -7,7 +7,9 @@ ein: '454105869'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Housing: Affordable housing, Homelessness'
+tags_indicators:
+  - 'Housing: Affordable housing'
+  - Homelessness
 twitter: '@thisismutuo'
 instagram: '@thisismutuo'
 facebook: 'https://www.facebook.com/thisismutuoLA'
@@ -25,7 +27,6 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: ''
-organization_id_2: '2018086'
 title: Mutuo
 uri: /organizations/mutuo/
 challenge_url: 'https://activation.la2050.org/live/mutuo/'

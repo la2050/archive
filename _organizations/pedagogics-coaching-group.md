@@ -7,7 +7,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, mentorship, youth, STEM'
+tags_indicators:
+  - Education
+  - mentorship
+  - youth
+  - STEM
 twitter: pedagogicscg
 instagram: pedagogicscg
 facebook: pedagogicscg
@@ -22,7 +26,6 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '5102273'
-organization_id_2: '2016167'
 title: Pedagogics Coaching Group
 uri: /organizations/pedagogics-coaching-group/
 challenge_url: >-

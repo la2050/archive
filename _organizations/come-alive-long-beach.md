@@ -7,7 +7,12 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'volunteerism, youth, children, sports, education'
+tags_indicators:
+  - volunteerism
+  - youth
+  - children
+  - sports
+  - education
 twitter: ComeAliveLB
 instagram: comealivelb
 facebook: comealivelb
@@ -22,7 +27,6 @@ org_summary: >-
 areas_impacted:
   - Gateway Cities
 project_ids: ''
-organization_id_2: '2016049'
 title: Come Alive Long Beach
 uri: /organizations/come-alive-long-beach/
 challenge_url: >-

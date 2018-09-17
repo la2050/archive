@@ -24,7 +24,6 @@ areas_impacted: >-
   (countywide),City of Los Angeles (citywide),LAUSD,Other (please specify
   below):
 project_ids: ''
-organization_id_2: '2015163'
 title: Public Matters
 uri: /organizations/public-matters/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'

@@ -7,9 +7,13 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: >-
-  Training and development, career readiness, Entrepreneurship, innovation,
-  Stem, education
+tags_indicators:
+  - Training and development
+  - career readiness
+  - Entrepreneurship
+  - innovation
+  - Stem
+  - education
 twitter: thejobcorps
 instagram: public/Filmlit-Corp
 facebook: doljobcorps
@@ -24,7 +28,6 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: ''
-organization_id_2: '2016077'
 title: FILMLIT MISSION
 uri: /organizations/filmlit-mission/
 challenge_url: >-

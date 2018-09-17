@@ -7,7 +7,11 @@ ein: '821894269'
 zip: '90017'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: 'Education, Health: Mental health care, Youth, Children'
+tags_indicators:
+  - Education
+  - 'Health: Mental health care'
+  - Youth
+  - Children
 twitter: '0'
 instagram: rootsnwings_malibu
 facebook: >-
@@ -30,7 +34,6 @@ areas_impacted:
   - LAUSD
   - SMMUSD
 project_ids: '5102284'
-organization_id_2: '2018105'
 title: Roots & Wings
 uri: /organizations/roots-wings/
 challenge_url: 'https://activation.la2050.org/live/roots-wings/'

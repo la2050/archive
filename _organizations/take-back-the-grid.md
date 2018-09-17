@@ -7,7 +7,8 @@ ein: '383887267'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: Environmental Quality
+tags_indicators:
+  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
@@ -24,7 +25,6 @@ org_summary: >-
   come was inspiring.
 areas_impacted: ''
 project_ids: '5102081'
-organization_id_2: '2013179'
 title: Take Back the Grid
 uri: /organizations/take-back-the-grid/
 challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'

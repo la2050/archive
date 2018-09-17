@@ -7,7 +7,8 @@ ein: '953301874'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953301874'
 ntee_type: ''
-tags_indicators: Housing
+tags_indicators:
+  - Housing
 twitter: ''
 instagram: ''
 facebook: ''
@@ -65,7 +66,6 @@ org_summary: >-
    http://nationalsharedhousing.org/shared-housing-symposium-in-los-angeles/
 areas_impacted: ''
 project_ids: ''
-organization_id_2: '2013004'
 title: Affordable Living for the Aging
 uri: /organizations/affordable-living-for-the-aging/
 challenge_url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
