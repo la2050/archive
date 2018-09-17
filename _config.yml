@@ -1,50 +1,16 @@
 
-title: 2018 My LA2050 Activation Challenge
+title: My LA2050
 description: >-
   The My LA2050 Activation Challenge is an open call for ideas that
   will activate 100,000 Angelenos to make LA the best place to
   learn, create, play, connect, and live.
 image: https://activation.la2050.org/assets/images/home/2048-wide/collaborates.jpg
 
-mailing_list_url: https://la2050.us6.list-manage.com/subscribe/post?u=81b6d7b4efb839b992bf7ae72&amp;id=b16f498212
-# submission_url: https://activationla2050.smapply.io/prog/challenge_info/
-# event_url: /event/
-
-# Our form:
-vote_url: /vote/form/
-
-
-# New challenge announced: 
-# February 1
-# phase: 1
-
-# Entries being accepted: 
-# March 1
-# phase: 2
-
-# Entry period ended: 
-# March 31
-# phase: 3
-
-# Entries shown on the website: 
-# April 9 
-# phase: 4
-
-# 25 finalists announced: 
-# May 21
-# phase: 5
-
-# Votes being accepted: 
-# June 19
-# phase: 6
-
-# Voting period ended: 
-# June 30 
-# phase: 7
 
 # Winners announced: 
 # July 9 
 phase: 8
+
 
 finalists:
 
@@ -122,24 +88,9 @@ winners:
   - /live/united-way-of-greater-los-angeles/
 
 
-auth0_js_url: https://cdn.auth0.com/js/auth0/9.5.1/auth0.min.js
-# auth0_domain: activation-la2050.auth0.com
-auth0_domain: auth0-activation.la2050.org
-auth0_client_id: INfJpr4dnNk2EN143utsZYz4Zeq9c7cd
-
-voting_enable_auth0: true
-
-voting_enable_phone: true
-voting_enable_email: true
-voting_enable_facebook: true
-
-voting_maintance_mode: false
-voting_test_mode: false
-
-voting_strict_mode: true
 
 # For cache busting
-version: 1.6.5
+version: 0.0.1
 
 
 permalink: pretty
@@ -197,6 +148,12 @@ defaults:
       body_class: lime
   - scope:
       path: ""
+      type: projects
+    values:
+      layout: project
+      body_class: strawberry
+  - scope:
+      path: ""
       type: organizations
     values:
       layout: organization
@@ -218,6 +175,9 @@ collections:
   live:
     output: true
     permalink: /live/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
   organizations:
     output: true
     permalink: /organizations/:path/

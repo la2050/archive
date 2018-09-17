@@ -6,6 +6,15 @@ stylesheets:
   - "/assets/css/project.css"
 ---
 
+{% assign data_collection = site.collections | where: "label", "organizations" | first %}
+
+{% for item in data_collection.docs %}
+  {% if item.organization_id == page.organization_id %}
+    {% assign organization = item %}
+  {% endif %}
+{% endfor %}
+
+
 {% comment %}
 <div style="margin-top: 3em"></div>
 {% endcomment %}
@@ -57,15 +66,12 @@ stylesheets:
 
 {% endif %}
 
-{% comment %}
-<p class="year" style="">Idea submitted in the <a href="{{ challenge_url }}">{{ challenge_title }}</a> by <a href="{{ page.uri | replace: page.category, 'organizations' }}">{{ page.organization_name }}</a></p>
-{% endcomment %}
 
 <section class="proposal-introduction" style="grid-column: 1/4">
 
 <div class="proposal-header">
 <p class="category" style="color: rgba(0, 0, 0, 0.5);">
-  <a href="/{{ page.category }}/">{{ page.category }}</a> / <strong style="color: inherit;">{{ page.year }}</strong>
+  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{{ page.category }}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
 </p>
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
@@ -114,24 +120,12 @@ stylesheets:
 {% if page.project_video and page.project_video != '' %}
 <a href="{{ page.project_video }}" target="_blank" rel="noopener" class="has-icon">
 {% else %}
-<a href="/assets/images/{{ page.category }}/2048-wide/{{ image_url }}">
+<a href="{{ page.project_image }}">
 {% endif %}
 
-{% if page.plan_id %}
-<img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt="" width="540" height="428" />
-{% else %}
-<img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt="" width="500" />
-{% endif %}
 
-{% comment %}
-<picture>
-  <source srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide/{{ image_url }} 2048w" sizes="100vw" media="(max-aspect-ratio: 1/1)">
+<img src="{{ page.project_image }}" alt="{{ page.title }}" width="500" />
 
-  <source srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 70em) 50vw, 100vw">
-
-  <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" width="500" alt="" />
-</picture>
-{% endcomment %}
 
 {% if page.project_video and page.project_video != '' %}
 <span class="icon play">
@@ -160,35 +154,15 @@ stylesheets:
 
 <div class="proposal-description">
 
-<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ page.uri | replace: page.category, 'organizations' }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ page.organization_name }}</a></p>
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">Idea submitted in the <a href="{{ challenge_url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ challenge_title }}</a> by <a href="{{ organization.url }}" style="display: inline-block; color: inherit; font-weight: inherit;">{{ organization.organization_name }}</a></p>
 
 <p style="margin-bottom: 0">
   {{ page.project_description }}
 </p>
 
-{% comment %}
-<h2 style="margin-top: 0.75rem;" class="organization"><a href="{{ page.uri | replace: page.category, 'organizations' }}">{{ page.organization_name }}</a></h2>
-<!-- TODO: Handle long lists of collaborators:
-  /learn/wish-academy-high-school/
-  /connect/data-roads-foundation/
-  /connect/investing-in-place/
-  /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
--->
-<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.organization_description }}</p>
-{% endcomment %}
 
-{% if site.phase == 6 and is_finalist == true %}
-{% comment %}
-<span class="action"><a class="typeform-share button" href="https://jimthoburn.typeform.com/to/fGLGJB" data-mode="popup" target="_blank" rel="noopener">Vote </a></span>
- <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
-<p class="action"><a href="https://jimthoburn.typeform.com/to/fGLGJB" target="_blank" rel="noopener">Vote</a></p>
-{% endcomment %}
-{% endif %}
 
-<!-- <dl>
-<dt>Organization type</dt>
-<dd>{{ page.organization_description }}</dd>
-</dl> -->
+
 </div>
 
 
@@ -857,34 +831,3 @@ line-height: 1;">Find similar projects</h2>
 
 
 
-{% comment %}
-<hr style="margin-top: 0" />
-
-<h2 class="comments-header" style="justify-self: center;">Choose another category</h2>
-
-{% include project-navigation.html %}
-
-<style>
-.goals .navigation > div .count {
-  opacity: 0; 
-}
-</style>
-
-<section class="goals" style="margin-top: -3em; margin-bottom: 4.5em">
-
-<div class="navigation"><div>
-
-<h2>Choose another category</h2>
-
-<ul class="action" style="margin-right: 0; margin-top: 1.5em;">
-  <li class="blueberry"><a href="/learn/"{% if page.category == 'learn' %} class="active"{% endif %}>Learn</a></li>
-  <li class="banana"><a href="/create/"{% if page.category == 'create' %} class="active"{% endif %}>Create</a></li>
-  <li class="strawberry"><a href="/play/"{% if page.category == 'play' %} class="active"{% endif %}>Play</a></li>
-  <li class="tangerine"><a href="/connect/"{% if page.category == 'connect' %} class="active"{% endif %}>Connect</a></li>
-  <li class="lime"><a href="/live/"{% if page.category == 'live' %} class="active"{% endif %}>Live</a></li>
-</ul>
-
-</div></div>
-
-</section>
-{% endcomment %}
