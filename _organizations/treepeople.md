@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014213'
 year_submitted: '2014'
 organization_name: TreePeople
@@ -24,5 +23,6 @@ project_ids: '4102178'
 organization_id_2: '2014213'
 title: TreePeople
 uri: /organizations/treepeople/
+challenge_url: ''
 
 ---

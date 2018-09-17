@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
 organization_id: '2014003'
 year_submitted: '2014'
 organization_name: Advancement Project California
@@ -26,5 +25,6 @@ project_ids: '4102005'
 organization_id_2: '2014003'
 title: Advancement Project California
 uri: /organizations/advancement-project-california/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
 
 ---

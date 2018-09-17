@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
 organization_id: '2016128'
 year_submitted: '2016'
 organization_name: Las Fotos Project
@@ -36,5 +35,6 @@ project_ids: ''
 organization_id_2: '2016128'
 title: Las Fotos Project
 uri: /organizations/las-fotos-project/
+challenge_url: 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
 
 ---

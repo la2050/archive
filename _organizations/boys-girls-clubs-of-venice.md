@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
 organization_id: '2018010'
 year_submitted: '2018'
 organization_name: Boys & Girls Clubs of Venice
@@ -39,6 +38,7 @@ project_ids: '8102010'
 organization_id_2: '2018010'
 title: Boys & Girls Clubs of Venice
 uri: /organizations/boys-girls-clubs-of-venice/
+challenge_url: 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014168'
 year_submitted: '2014'
 organization_name: Los Angeles County Community Development Foundation
@@ -24,5 +23,6 @@ project_ids: '4102150'
 organization_id_2: '2014168'
 title: Los Angeles County Community Development Foundation
 uri: /organizations/los-angeles-county-community-development-foundation/
+challenge_url: ''
 
 ---

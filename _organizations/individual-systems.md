@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/KCARUSO.html'
 organization_id: '2013095'
 year_submitted: '2013'
 organization_name: Individual Systems
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013095'
 title: Individual Systems
 uri: /organizations/individual-systems/
+challenge_url: 'http://maker.good.is/myla2050/projects/KCARUSO.html'
 
 ---

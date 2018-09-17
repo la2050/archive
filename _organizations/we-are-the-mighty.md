@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/we-are-the-mighty/'
 organization_id: '2018137'
 year_submitted: '2018'
 organization_name: We Are the Mighty
@@ -28,6 +27,7 @@ project_ids: ''
 organization_id_2: '2018137'
 title: We Are the Mighty
 uri: /organizations/we-are-the-mighty/
+challenge_url: 'https://activation.la2050.org/connect/we-are-the-mighty/'
 category: connect
 
 ---

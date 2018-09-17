@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/lumos-transforms/'
 organization_id: '2018078'
 year_submitted: '2018'
 organization_name: Lumos Transforms
@@ -29,6 +28,7 @@ project_ids: '8102078'
 organization_id_2: '2018078'
 title: Lumos Transforms
 uri: /organizations/lumos-transforms/
+challenge_url: 'https://activation.la2050.org/live/lumos-transforms/'
 category: live
 
 ---

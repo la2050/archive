@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/MUSEK.html'
 organization_id: '2013138'
 year_submitted: '2013'
 organization_name: MUSEK
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013138'
 title: MUSEK
 uri: /organizations/musek/
+challenge_url: 'http://maker.good.is/myla2050/projects/MUSEK.html'
 
 ---

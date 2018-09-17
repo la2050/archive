@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
 organization_id: '2016223'
 year_submitted: '2016'
 organization_name: The Jester & Pharley Phund
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016223'
 title: The Jester & Pharley Phund
 uri: /organizations/the-jester-pharley-phund/
+challenge_url: >-
+  https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
 
 ---

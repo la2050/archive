@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
 organization_id: '2015199'
 year_submitted: '2015'
 organization_name: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
@@ -32,5 +31,6 @@ organization_id_2: '2015199'
 title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 uri: >-
   /organizations/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
 
 ---

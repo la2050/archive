@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
 organization_id: '2016230'
 year_submitted: '2016'
 organization_name: The River Project
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016230'
 title: The River Project
 uri: /organizations/the-river-project/
+challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
 
 ---

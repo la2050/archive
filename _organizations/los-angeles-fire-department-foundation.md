@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
 organization_id: '2015123'
 year_submitted: '2015'
 organization_name: Los Angeles Fire Department Foundation
@@ -26,5 +25,6 @@ project_ids: '5102188'
 organization_id_2: '2015123'
 title: Los Angeles Fire Department Foundation
 uri: /organizations/los-angeles-fire-department-foundation/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
 
 ---

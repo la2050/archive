@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
 organization_id: '2014073'
 year_submitted: '2014'
 organization_name: Psychic Bunny
@@ -24,5 +23,6 @@ project_ids: '5102207'
 organization_id_2: '2014073'
 title: Psychic Bunny
 uri: /organizations/psychic-bunny/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
 
 ---

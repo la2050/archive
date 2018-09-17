@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
 organization_id: '2016201'
 year_submitted: '2016'
 organization_name: SportUp
@@ -39,5 +37,7 @@ project_ids: '5102292'
 organization_id_2: '2016201'
 title: SportUp
 uri: /organizations/sportup/
+challenge_url: >-
+  https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
 
 ---

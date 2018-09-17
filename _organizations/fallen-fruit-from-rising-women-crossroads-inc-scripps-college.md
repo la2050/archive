@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
 organization_id: '2015062'
 year_submitted: '2015'
 organization_name: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
@@ -26,5 +25,6 @@ project_ids: '5102099'
 organization_id_2: '2015062'
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 uri: /organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
 organization_id: '2015099'
 year_submitted: '2015'
 organization_name: 'Jumpstart For Young Children, Inc.'
@@ -28,5 +27,6 @@ project_ids: '5102153'
 organization_id_2: '2015099'
 title: 'Jumpstart For Young Children, Inc.'
 uri: /organizations/jumpstart-for-young-children-inc/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
 
 ---

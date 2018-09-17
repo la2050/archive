@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
 organization_id: '2013099'
 year_submitted: '2013'
 organization_name: Invisible People
@@ -109,5 +108,6 @@ project_ids: ''
 organization_id_2: '2013099'
 title: Invisible People
 uri: /organizations/invisible-people/
+challenge_url: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
 
 ---

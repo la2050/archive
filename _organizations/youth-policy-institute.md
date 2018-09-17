@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/youth-policy-institute/'
 organization_id: '2018140'
 year_submitted: '2018'
 organization_name: Youth Policy Institute
@@ -26,6 +25,7 @@ project_ids: '8102140'
 organization_id_2: '2018140'
 title: Youth Policy Institute
 uri: /organizations/youth-policy-institute/
+challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'
 category: connect
 
 ---

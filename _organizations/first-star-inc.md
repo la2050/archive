@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FirstStar.html'
 organization_id: '2013068'
 year_submitted: '2013'
 organization_name: 'First Star, Inc.'
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2013068'
 title: 'First Star, Inc.'
 uri: /organizations/first-star-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/FirstStar.html'
 
 ---

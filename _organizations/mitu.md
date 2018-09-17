@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
 organization_id: '2016149'
 year_submitted: '2016'
 organization_name: mitu
@@ -35,5 +33,7 @@ project_ids: '5102263'
 organization_id_2: '2016149'
 title: mitu
 uri: /organizations/mitu/
+challenge_url: >-
+  https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
 
 ---

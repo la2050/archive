@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
 organization_id: '2016074'
 year_submitted: '2016'
 organization_name: EveryoneOn
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016074'
 title: EveryoneOn
 uri: /organizations/everyoneon/
+challenge_url: >-
+  https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
 
 ---

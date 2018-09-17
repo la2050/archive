@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
 organization_id: '2013077'
 year_submitted: '2013'
 organization_name: Fulfillment Fund
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013077'
 title: Fulfillment Fund
 uri: /organizations/fulfillment-fund/
+challenge_url: 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
 organization_id: '2016227'
 year_submitted: '2016'
 organization_name: The NOW Institute/UCLA
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016227'
 title: The NOW Institute/UCLA
 uri: /organizations/the-now-institute-ucla/
+challenge_url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
 
 ---

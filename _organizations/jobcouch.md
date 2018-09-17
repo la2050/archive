@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
 organization_id: '2015097'
 year_submitted: '2015'
 organization_name: JobCouch
@@ -24,5 +23,6 @@ project_ids: '5102239'
 organization_id_2: '2015097'
 title: JobCouch
 uri: /organizations/jobcouch/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'
 organization_id: '2015171'
 year_submitted: '2015'
 organization_name: RRM Design Group and Los Angeles Neighborhood Initiative
@@ -24,5 +23,6 @@ project_ids: '5102257'
 organization_id_2: '2015171'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
 uri: /organizations/rrm-design-group-and-los-angeles-neighborhood-initiative/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'
 
 ---

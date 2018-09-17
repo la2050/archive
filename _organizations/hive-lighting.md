@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
 organization_id: '2013090'
 year_submitted: '2013'
 organization_name: Hive Lighting
@@ -26,5 +25,6 @@ project_ids: '4102032'
 organization_id_2: '2013090'
 title: Hive Lighting
 uri: /organizations/hive-lighting/
+challenge_url: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
 
 ---

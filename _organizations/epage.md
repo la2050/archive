@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
 organization_id: '2016072'
 year_submitted: '2016'
 organization_name: EPage
@@ -29,5 +27,7 @@ project_ids: '4102130'
 organization_id_2: '2016072'
 title: EPage
 uri: /organizations/epage/
+challenge_url: >-
+  https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
 
 ---

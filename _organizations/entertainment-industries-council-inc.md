@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
 organization_id: '2015058'
 year_submitted: '2015'
 organization_name: 'Entertainment Industries Council, Inc.'
@@ -25,5 +24,6 @@ project_ids: '5102093'
 organization_id_2: '2015058'
 title: 'Entertainment Industries Council, Inc.'
 uri: /organizations/entertainment-industries-council-inc/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
 
 ---

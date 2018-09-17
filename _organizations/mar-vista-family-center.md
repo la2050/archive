@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/mar-vista-family-center/'
 organization_id: '2018080'
 year_submitted: '2018'
 organization_name: Mar Vista Family Center
@@ -27,6 +26,7 @@ project_ids: '8102080'
 organization_id_2: '2018080'
 title: Mar Vista Family Center
 uri: /organizations/mar-vista-family-center/
+challenge_url: 'https://activation.la2050.org/live/mar-vista-family-center/'
 category: live
 
 ---

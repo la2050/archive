@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
 organization_id: '2013072'
 year_submitted: '2013'
 organization_name: ForYourArt
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013072'
 title: ForYourArt
 uri: /organizations/foryourart/
+challenge_url: 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
 
 ---

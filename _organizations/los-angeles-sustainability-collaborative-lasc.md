@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014171'
 year_submitted: '2014'
 organization_name: Los Angeles Sustainability Collaborative (LASC)
@@ -24,5 +23,6 @@ project_ids: '4102152'
 organization_id_2: '2014171'
 title: Los Angeles Sustainability Collaborative (LASC)
 uri: /organizations/los-angeles-sustainability-collaborative-lasc/
+challenge_url: ''
 
 ---

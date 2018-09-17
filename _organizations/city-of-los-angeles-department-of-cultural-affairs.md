@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LACreates.html'
 organization_id: '2013034'
 year_submitted: '2013'
 organization_name: City of Los Angeles Department of Cultural Affairs
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013034'
 title: City of Los Angeles Department of Cultural Affairs
 uri: /organizations/city-of-los-angeles-department-of-cultural-affairs/
+challenge_url: 'http://maker.good.is/myla2050/projects/LACreates.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
 organization_id: '2014060'
 year_submitted: '2014'
 organization_name: Muir Ranch
@@ -26,5 +25,6 @@ project_ids: '4102061'
 organization_id_2: '2014060'
 title: Muir Ranch
 uri: /organizations/muir-ranch/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
 
 ---

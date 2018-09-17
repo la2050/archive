@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
 organization_id: '2015220'
 year_submitted: '2015'
 organization_name: >-
@@ -32,5 +31,6 @@ title: >-
   for Environmental Justice
 uri: >-
   /organizations/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
 
 ---

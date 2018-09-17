@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/la-forward/'
 organization_id: '2018062'
 year_submitted: '2018'
 organization_name: LA Forward
@@ -31,6 +30,7 @@ project_ids: '8102062'
 organization_id_2: '2018062'
 title: LA Forward
 uri: /organizations/la-forward/
+challenge_url: 'https://activation.la2050.org/connect/la-forward/'
 category: connect
 
 ---

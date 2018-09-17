@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
 organization_id: '2015075'
 year_submitted: '2015'
 organization_name: Green Commuter
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2015075'
 title: Green Commuter
 uri: /organizations/green-commuter/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
 
 ---

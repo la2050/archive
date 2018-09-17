@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/mutuo/'
 organization_id: '2018086'
 year_submitted: '2018'
 organization_name: Mutuo
@@ -30,6 +29,7 @@ project_ids: ''
 organization_id_2: '2018086'
 title: Mutuo
 uri: /organizations/mutuo/
+challenge_url: 'https://activation.la2050.org/live/mutuo/'
 category: live
 
 ---

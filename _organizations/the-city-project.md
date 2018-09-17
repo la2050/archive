@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
 organization_id: '2013185'
 year_submitted: '2013'
 organization_name: The City Project
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2013185'
 title: The City Project
 uri: /organizations/the-city-project/
+challenge_url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
 
 ---

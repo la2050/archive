@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
 organization_id: '2016029'
 year_submitted: '2016'
 organization_name: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016029'
 title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 uri: /organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
+challenge_url: >-
+  https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
 
 ---

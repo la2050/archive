@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/neighbor.html'
 organization_id: '2013148'
 year_submitted: '2013'
 organization_name: Outfest
@@ -33,5 +32,6 @@ project_ids: ''
 organization_id_2: '2013148'
 title: Outfest
 uri: /organizations/outfest/
+challenge_url: 'http://maker.good.is/myla2050/projects/neighbor.html'
 
 ---

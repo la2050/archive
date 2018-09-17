@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
 organization_id: '2014082'
 year_submitted: '2014'
 organization_name: Social Action Partners
@@ -24,5 +23,6 @@ project_ids: '4102083'
 organization_id_2: '2014082'
 title: Social Action Partners
 uri: /organizations/social-action-partners/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
 
 ---

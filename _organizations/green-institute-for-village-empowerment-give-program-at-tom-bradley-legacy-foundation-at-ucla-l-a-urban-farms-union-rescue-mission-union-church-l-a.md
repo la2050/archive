@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/GIVEUrbanfarms.html'
 organization_id: '2015076'
 year_submitted: '2015'
 organization_name: >-
@@ -30,5 +29,6 @@ title: >-
   Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church L.A.
 uri: >-
   /organizations/green-institute-for-village-empowerment-give-program-at-tom-bradley-legacy-foundation-at-ucla-l-a-urban-farms-union-rescue-mission-union-church-l-a/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/GIVEUrbanfarms.html'
 
 ---

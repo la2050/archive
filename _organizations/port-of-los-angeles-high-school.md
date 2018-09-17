@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
 organization_id: '2016175'
 year_submitted: '2016'
 organization_name: Port of Los Angeles High School
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016175'
 title: Port of Los Angeles High School
 uri: /organizations/port-of-los-angeles-high-school/
+challenge_url: >-
+  https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
 
 ---

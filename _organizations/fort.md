@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/FORT.html'
 organization_id: '2014035'
 year_submitted: '2014'
 organization_name: FORT
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014035'
 title: FORT
 uri: /organizations/fort/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/FORT.html'
 
 ---

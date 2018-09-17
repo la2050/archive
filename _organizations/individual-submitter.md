@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'
 organization_id: '2015091'
 year_submitted: '2015'
 organization_name: Individual submitter
@@ -26,5 +25,6 @@ project_ids: '5102141'
 organization_id_2: '2015091'
 title: Individual submitter
 uri: /organizations/individual-submitter/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
 organization_id: '2018130'
 year_submitted: '2018'
 organization_name: UCLA Mobile Eye Clinic (UMEC)
@@ -30,6 +29,7 @@ project_ids: '8102130'
 organization_id_2: '2018130'
 title: UCLA Mobile Eye Clinic (UMEC)
 uri: /organizations/ucla-mobile-eye-clinic-umec/
+challenge_url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
 category: live
 
 ---

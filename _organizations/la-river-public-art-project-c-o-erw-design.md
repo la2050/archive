@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
 organization_id: '2018063'
 year_submitted: '2018'
 organization_name: LA River Public Art Project (c/o ERW Design)
@@ -44,6 +42,8 @@ project_ids: '5102247'
 organization_id_2: '2018063'
 title: LA River Public Art Project (c/o ERW Design)
 uri: /organizations/la-river-public-art-project-c-o-erw-design/
+challenge_url: >-
+  https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
 category: connect
 
 ---

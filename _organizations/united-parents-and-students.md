@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/united-parents-and-students/'
 organization_id: '2018131'
 year_submitted: '2018'
 organization_name: United Parents and Students
@@ -35,6 +34,7 @@ project_ids: '8102131'
 organization_id_2: '2018131'
 title: United Parents and Students
 uri: /organizations/united-parents-and-students/
+challenge_url: 'https://activation.la2050.org/connect/united-parents-and-students/'
 category: connect
 
 ---

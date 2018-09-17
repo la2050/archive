@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
 organization_id: '2016204'
 year_submitted: '2016'
 organization_name: T&L Foundation for Child Care Information
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016204'
 title: T&L Foundation for Child Care Information
 uri: /organizations/t-l-foundation-for-child-care-information/
+challenge_url: >-
+  https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
 
 ---

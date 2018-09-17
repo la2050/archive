@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
 organization_id: '2016183'
 year_submitted: '2016'
 organization_name: Represent
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016183'
 title: Represent
 uri: /organizations/represent/
+challenge_url: >-
+  https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
 
 ---

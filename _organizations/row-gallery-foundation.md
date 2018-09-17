@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
 organization_id: '2014077'
 year_submitted: '2014'
 organization_name: Row Gallery Foundation
@@ -24,5 +23,6 @@ project_ids: '4102078'
 organization_id_2: '2014077'
 title: Row Gallery Foundation
 uri: /organizations/row-gallery-foundation/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
 
 ---

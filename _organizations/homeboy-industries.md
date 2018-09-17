@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/homeboy-industries/'
 organization_id: '2018053'
 year_submitted: '2018'
 organization_name: Homeboy Industries
@@ -34,6 +33,7 @@ project_ids: '8102053'
 organization_id_2: '2018053'
 title: Homeboy Industries
 uri: /organizations/homeboy-industries/
+challenge_url: 'https://activation.la2050.org/connect/homeboy-industries/'
 category: connect
 
 ---

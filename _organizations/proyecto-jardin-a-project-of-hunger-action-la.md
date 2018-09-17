@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
 organization_id: '2018099'
 year_submitted: '2018'
 organization_name: 'Proyecto Jardin: A Project of Hunger Action LA'
@@ -34,6 +32,8 @@ project_ids: '8102099'
 organization_id_2: '2018099'
 title: 'Proyecto Jardin: A Project of Hunger Action LA'
 uri: /organizations/proyecto-jardin-a-project-of-hunger-action-la/
+challenge_url: >-
+  https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
 category: learn
 
 ---

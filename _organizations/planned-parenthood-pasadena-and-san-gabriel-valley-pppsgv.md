@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
 organization_id: '2016173'
 year_submitted: '2016'
 organization_name: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016173'
 title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 uri: /organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
+challenge_url: >-
+  https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
 
 ---

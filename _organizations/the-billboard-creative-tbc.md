@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
 organization_id: '2016212'
 year_submitted: '2016'
 organization_name: The Billboard Creative (TBC)
@@ -35,5 +33,7 @@ project_ids: ''
 organization_id_2: '2016212'
 title: The Billboard Creative (TBC)
 uri: /organizations/the-billboard-creative-tbc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
 
 ---

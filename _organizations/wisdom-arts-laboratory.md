@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
 organization_id: '2016256'
 year_submitted: '2016'
 organization_name: Wisdom Arts Laboratory
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016256'
 title: Wisdom Arts Laboratory
 uri: /organizations/wisdom-arts-laboratory/
+challenge_url: >-
+  https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
 
 ---

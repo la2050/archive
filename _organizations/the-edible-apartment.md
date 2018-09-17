@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
 organization_id: '2016216'
 year_submitted: '2016'
 organization_name: The Edible Apartment
@@ -32,5 +31,6 @@ project_ids: ''
 organization_id_2: '2016216'
 title: The Edible Apartment
 uri: /organizations/the-edible-apartment/
+challenge_url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
 
 ---

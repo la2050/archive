@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
 organization_id: '2018138'
 year_submitted: '2018'
 organization_name: World Famous VIP Records LLC
@@ -29,6 +28,7 @@ project_ids: '8102138'
 organization_id_2: '2018138'
 title: World Famous VIP Records LLC
 uri: /organizations/world-famous-vip-records-llc/
+challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
 category: create
 
 ---

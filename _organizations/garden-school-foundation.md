@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
 organization_id: '2013078'
 year_submitted: '2013'
 organization_name: Garden School Foundation
@@ -51,5 +50,6 @@ project_ids: ''
 organization_id_2: '2013078'
 title: Garden School Foundation
 uri: /organizations/garden-school-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
 organization_id: '2016170'
 year_submitted: '2016'
 organization_name: Perceptoscope
@@ -31,5 +29,7 @@ project_ids: '#N/A'
 organization_id_2: '2016170'
 title: Perceptoscope
 uri: /organizations/perceptoscope/
+challenge_url: >-
+  https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
 
 ---

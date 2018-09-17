@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/kitchen-table-app/'
 organization_id: '2018057'
 year_submitted: '2018'
 organization_name: Kitchen Table App
@@ -29,6 +28,7 @@ project_ids: '8102057'
 organization_id_2: '2018057'
 title: Kitchen Table App
 uri: /organizations/kitchen-table-app/
+challenge_url: 'https://activation.la2050.org/connect/kitchen-table-app/'
 category: connect
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
 organization_id: '2016182'
 year_submitted: '2016'
 organization_name: Relational Medicine Foundation
@@ -33,5 +31,7 @@ project_ids: ''
 organization_id_2: '2016182'
 title: Relational Medicine Foundation
 uri: /organizations/relational-medicine-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
 
 ---

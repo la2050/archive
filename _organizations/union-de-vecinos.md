@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/UVLA.html'
 organization_id: '2013204'
 year_submitted: '2013'
 organization_name: Union de Vecinos
@@ -101,5 +100,6 @@ project_ids: ''
 organization_id_2: '2013204'
 title: Union de Vecinos
 uri: /organizations/union-de-vecinos/
+challenge_url: 'http://maker.good.is/myla2050/projects/UVLA.html'
 
 ---

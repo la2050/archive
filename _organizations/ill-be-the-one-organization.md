@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014154'
 year_submitted: '2014'
 organization_name: I'll Be The One Organization
@@ -24,5 +23,6 @@ project_ids: '4102137'
 organization_id_2: '2014154'
 title: I'll Be The One Organization
 uri: /organizations/ill-be-the-one-organization/
+challenge_url: ''
 
 ---

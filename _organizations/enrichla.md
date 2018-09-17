@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/enrichla.html'
 organization_id: '2014032'
 year_submitted: '2014'
 organization_name: EnrichLA
@@ -26,5 +25,6 @@ project_ids: '4102033'
 organization_id_2: '2014032'
 title: EnrichLA
 uri: /organizations/enrichla/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/enrichla.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/poetry.html'
 organization_id: '2015212'
 year_submitted: '2015'
 organization_name: Tia Chucha's Centro Cultural
@@ -26,5 +25,6 @@ project_ids: '5102318'
 organization_id_2: '2015212'
 title: Tia Chucha's Centro Cultural
 uri: /organizations/tia-chuchas-centro-cultural/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/poetry.html'
 
 ---

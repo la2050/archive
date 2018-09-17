@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ASN.html'
 organization_id: '2015190'
 year_submitted: '2015'
 organization_name: spcaLA
@@ -28,5 +27,6 @@ project_ids: '5102279'
 organization_id_2: '2015190'
 title: spcaLA
 uri: /organizations/spcala/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ASN.html'
 
 ---

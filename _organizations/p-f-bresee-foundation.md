@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
 organization_id: '2015148'
 year_submitted: '2015'
 organization_name: P.F. Bresee Foundation
@@ -26,5 +25,6 @@ project_ids: '5102225'
 organization_id_2: '2015148'
 title: P.F. Bresee Foundation
 uri: /organizations/p-f-bresee-foundation/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/SkidRow100.html'
 organization_id: '2013206'
 year_submitted: '2013'
 organization_name: United Way of Greater LA (Home For Good)
@@ -94,5 +93,6 @@ project_ids: ''
 organization_id_2: '2013206'
 title: United Way of Greater LA (Home For Good)
 uri: /organizations/united-way-of-greater-la-home-for-good/
+challenge_url: 'http://maker.good.is/myla2050/projects/SkidRow100.html'
 
 ---

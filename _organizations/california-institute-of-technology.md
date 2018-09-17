@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
 organization_id: '2016030'
 year_submitted: '2016'
 organization_name: California Institute of Technology
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016030'
 title: California Institute of Technology
 uri: /organizations/california-institute-of-technology/
+challenge_url: >-
+  https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
 
 ---

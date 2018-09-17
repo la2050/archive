@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
 organization_id: '2016203'
 year_submitted: '2016'
 organization_name: Sundance Institute
@@ -37,5 +35,7 @@ project_ids: ''
 organization_id_2: '2016203'
 title: Sundance Institute
 uri: /organizations/sundance-institute/
+challenge_url: >-
+  https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
 
 ---

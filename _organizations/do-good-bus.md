@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
 organization_id: '2014026'
 year_submitted: '2014'
 organization_name: Do Good Bus
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014026'
 title: Do Good Bus
 uri: /organizations/do-good-bus/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
 
 ---

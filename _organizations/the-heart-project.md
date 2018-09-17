@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/theheartproject.html'
 organization_id: '2013188'
 year_submitted: '2013'
 organization_name: The HeArt Project
@@ -75,5 +74,6 @@ project_ids: ''
 organization_id_2: '2013188'
 title: The HeArt Project
 uri: /organizations/the-heart-project/
+challenge_url: 'http://maker.good.is/myla2050/projects/theheartproject.html'
 
 ---

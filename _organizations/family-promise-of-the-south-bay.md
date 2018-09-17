@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
 organization_id: '2018039'
 year_submitted: '2018'
 organization_name: Family Promise of the South Bay
@@ -29,6 +28,7 @@ project_ids: '8102039'
 organization_id_2: '2018039'
 title: Family Promise of the South Bay
 uri: /organizations/family-promise-of-the-south-bay/
+challenge_url: 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
 category: live
 
 ---

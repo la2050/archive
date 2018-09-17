@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/lawmaker-io/'
 organization_id: '2018067'
 year_submitted: '2018'
 organization_name: LawMaker.io
@@ -28,6 +27,7 @@ project_ids: '8102067'
 organization_id_2: '2018067'
 title: LawMaker.io
 uri: /organizations/lawmaker-io/
+challenge_url: 'https://activation.la2050.org/connect/lawmaker-io/'
 category: connect
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
 organization_id: '2016254'
 year_submitted: '2016'
 organization_name: WeThrive
@@ -35,5 +33,7 @@ project_ids: ''
 organization_id_2: '2016254'
 title: WeThrive
 uri: /organizations/wethrive/
+challenge_url: >-
+  https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
 organization_id: '2018088'
 year_submitted: '2018'
 organization_name: 'National Veterans Transition Services, Inc. AKA REBOOT'
@@ -35,6 +33,8 @@ project_ids: '8102088'
 organization_id_2: '2018088'
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
+challenge_url: >-
+  https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
 category: live
 
 ---

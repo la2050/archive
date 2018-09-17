@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/my-friends-house-inc/'
 organization_id: '2018087'
 year_submitted: '2018'
 organization_name: 'My Friends House, Inc.'
@@ -26,6 +25,7 @@ project_ids: '8102087'
 organization_id_2: '2018087'
 title: 'My Friends House, Inc.'
 uri: /organizations/my-friends-house-inc/
+challenge_url: 'https://activation.la2050.org/live/my-friends-house-inc/'
 category: live
 
 ---

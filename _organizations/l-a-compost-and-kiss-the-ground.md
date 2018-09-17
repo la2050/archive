@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
 organization_id: '2015107'
 year_submitted: '2015'
 organization_name: L.A. Compost and Kiss the Ground
@@ -27,5 +26,6 @@ project_ids: '5102164'
 organization_id_2: '2015107'
 title: L.A. Compost and Kiss the Ground
 uri: /organizations/l-a-compost-and-kiss-the-ground/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
 
 ---

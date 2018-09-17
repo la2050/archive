@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
 organization_id: '2015126'
 year_submitted: '2015'
 organization_name: Los Angeles Mayor Eric Garcetti Great Streets Initiative
@@ -25,5 +24,6 @@ project_ids: '5102191'
 organization_id_2: '2015126'
 title: Los Angeles Mayor Eric Garcetti Great Streets Initiative
 uri: /organizations/los-angeles-mayor-eric-garcetti-great-streets-initiative/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
 
 ---

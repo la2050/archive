@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
 organization_id: '2014021'
 year_submitted: '2014'
 organization_name: 'Constitutional Rights Foundation, CRF'
@@ -26,5 +25,6 @@ project_ids: '4102022'
 organization_id_2: '2014021'
 title: 'Constitutional Rights Foundation, CRF'
 uri: /organizations/constitutional-rights-foundation-crf/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
 
 ---

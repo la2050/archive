@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
 organization_id: '2016016'
 year_submitted: '2016'
 organization_name: Avalon Carver Community Center
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016016'
 title: Avalon Carver Community Center
 uri: /organizations/avalon-carver-community-center/
+challenge_url: >-
+  https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
 
 ---

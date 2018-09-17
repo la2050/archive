@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014221'
 year_submitted: '2014'
 organization_name: US Green Building Council-Los Angeles
@@ -24,5 +23,6 @@ project_ids: '4102182'
 organization_id_2: '2014221'
 title: US Green Building Council-Los Angeles
 uri: /organizations/us-green-building-council-los-angeles/
+challenge_url: ''
 
 ---

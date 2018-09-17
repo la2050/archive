@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014142'
 year_submitted: '2014'
 organization_name: Friends Of The Observatory (FOTO)
@@ -24,5 +23,6 @@ project_ids: '4102128'
 organization_id_2: '2014142'
 title: Friends Of The Observatory (FOTO)
 uri: /organizations/friends-of-the-observatory-foto/
+challenge_url: ''
 
 ---

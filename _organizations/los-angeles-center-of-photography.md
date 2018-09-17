@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/LACP.html'
 organization_id: '2015120'
 year_submitted: '2015'
 organization_name: Los Angeles Center of Photography
@@ -26,5 +25,6 @@ project_ids: '5102185'
 organization_id_2: '2015120'
 title: Los Angeles Center of Photography
 uri: /organizations/los-angeles-center-of-photography/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/LACP.html'
 
 ---

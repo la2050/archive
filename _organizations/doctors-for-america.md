@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
 organization_id: '2016065'
 year_submitted: '2016'
 organization_name: Doctors for America
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016065'
 title: Doctors for America
 uri: /organizations/doctors-for-america/
+challenge_url: >-
+  https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
 
 ---

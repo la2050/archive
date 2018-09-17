@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'
 organization_id: '2016180'
 year_submitted: '2016'
 organization_name: Public Health Foundation Enterprises
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016180'
 title: Public Health Foundation Enterprises
 uri: /organizations/public-health-foundation-enterprises/
+challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'
 
 ---

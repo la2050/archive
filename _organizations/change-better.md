@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
 organization_id: '2015030'
 year_submitted: '2015'
 organization_name: Change Better
@@ -24,5 +23,6 @@ project_ids: '5102051'
 organization_id_2: '2015030'
 title: Change Better
 uri: /organizations/change-better/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
 
 ---

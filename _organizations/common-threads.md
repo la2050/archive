@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
 organization_id: '2016050'
 year_submitted: '2016'
 organization_name: Common Threads
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016050'
 title: Common Threads
 uri: /organizations/common-threads/
+challenge_url: >-
+  https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
 
 ---

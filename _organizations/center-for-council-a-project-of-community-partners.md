@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
 organization_id: '2018015'
 year_submitted: '2018'
 organization_name: 'Center for Council, a project of Community Partners'
@@ -36,6 +34,8 @@ project_ids: '8102015'
 organization_id_2: '2018015'
 title: 'Center for Council, a project of Community Partners'
 uri: /organizations/center-for-council-a-project-of-community-partners/
+challenge_url: >-
+  https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
 category: connect
 
 ---

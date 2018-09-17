@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
 organization_id: '2016040'
 year_submitted: '2016'
 organization_name: City of West Hollywood
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016040'
 title: City of West Hollywood
 uri: /organizations/city-of-west-hollywood/
+challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
 
 ---

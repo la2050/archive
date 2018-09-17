@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014140'
 year_submitted: '2014'
 organization_name: FosterMore
@@ -24,5 +23,6 @@ project_ids: '4102126'
 organization_id_2: '2014140'
 title: FosterMore
 uri: /organizations/fostermore/
+challenge_url: ''
 
 ---

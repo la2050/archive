@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
 organization_id: '2016225'
 year_submitted: '2016'
 organization_name: 'The Love Story Media, Inc.'
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016225'
 title: 'The Love Story Media, Inc.'
 uri: /organizations/the-love-story-media-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
 
 ---

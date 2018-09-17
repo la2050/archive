@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014159'
 year_submitted: '2014'
 organization_name: 'Jovenes, Inc.'
@@ -24,5 +23,6 @@ project_ids: '4102142'
 organization_id_2: '2014159'
 title: 'Jovenes, Inc.'
 uri: /organizations/jovenes-inc/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014118'
 year_submitted: '2014'
 organization_name: Boys & Girls Club of Hollywood
@@ -24,5 +23,6 @@ project_ids: '4102116'
 organization_id_2: '2014118'
 title: Boys & Girls Club of Hollywood
 uri: /organizations/boys-girls-club-of-hollywood/
+challenge_url: ''
 
 ---

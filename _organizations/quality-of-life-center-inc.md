@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
 organization_id: '2013159'
 year_submitted: '2013'
 organization_name: 'Quality of Life Center, Inc.'
@@ -33,5 +32,6 @@ project_ids: ''
 organization_id_2: '2013159'
 title: 'Quality of Life Center, Inc.'
 uri: /organizations/quality-of-life-center-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
 
 ---

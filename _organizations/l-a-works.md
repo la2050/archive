@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
 organization_id: '2016120'
 year_submitted: '2016'
 organization_name: L.A. Works
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016120'
 title: L.A. Works
 uri: /organizations/l-a-works/
+challenge_url: >-
+  https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
 
 ---

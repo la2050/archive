@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
 organization_id: '2016244'
 year_submitted: '2016'
 organization_name: United Friends of the Children
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016244'
 title: United Friends of the Children
 uri: /organizations/united-friends-of-the-children/
+challenge_url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
 
 ---

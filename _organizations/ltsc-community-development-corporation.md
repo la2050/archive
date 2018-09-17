@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LTSC.html'
 organization_id: '2013128'
 year_submitted: '2013'
 organization_name: LTSC Community Development Corporation
@@ -69,5 +68,6 @@ project_ids: ''
 organization_id_2: '2013128'
 title: LTSC Community Development Corporation
 uri: /organizations/ltsc-community-development-corporation/
+challenge_url: 'http://maker.good.is/myla2050/projects/LTSC.html'
 
 ---

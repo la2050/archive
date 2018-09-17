@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
 organization_id: '2016184'
 year_submitted: '2016'
 organization_name: Richstone Family Center
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016184'
 title: Richstone Family Center
 uri: /organizations/richstone-family-center/
+challenge_url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
 organization_id: '2013002'
 year_submitted: '2013'
 organization_name: A+D Architecture and Design Museum > Los Angeles
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013002'
 title: A+D Architecture and Design Museum > Los Angeles
 uri: /organizations/a-d-architecture-and-design-museum->-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
 
 ---

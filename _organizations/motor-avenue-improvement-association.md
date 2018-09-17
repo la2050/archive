@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
 organization_id: '2015139'
 year_submitted: '2015'
 organization_name: Motor Avenue Improvement Association
@@ -25,5 +24,6 @@ project_ids: '5102210'
 organization_id_2: '2015139'
 title: Motor Avenue Improvement Association
 uri: /organizations/motor-avenue-improvement-association/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
 
 ---

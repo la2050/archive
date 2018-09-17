@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FEM.html'
 organization_id: '2013117'
 year_submitted: '2013'
 organization_name: 'Lambda Theta Nu Sorority, Incorporated'
@@ -32,5 +31,6 @@ project_ids: ''
 organization_id_2: '2013117'
 title: 'Lambda Theta Nu Sorority, Incorporated'
 uri: /organizations/lambda-theta-nu-sorority-incorporated/
+challenge_url: 'http://maker.good.is/myla2050/projects/FEM.html'
 
 ---

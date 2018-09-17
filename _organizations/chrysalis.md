@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
 organization_id: '2016037'
 year_submitted: '2016'
 organization_name: Chrysalis
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016037'
 title: Chrysalis
 uri: /organizations/chrysalis/
+challenge_url: >-
+  https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/kpi.html'
 organization_id: '2013106'
 year_submitted: '2013'
 organization_name: Kids Progress Inc.
@@ -51,5 +50,6 @@ project_ids: ''
 organization_id_2: '2013106'
 title: Kids Progress Inc.
 uri: /organizations/kids-progress-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/kpi.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/imagine-la/'
 organization_id: '2018054'
 year_submitted: '2018'
 organization_name: Imagine LA
@@ -31,6 +30,7 @@ project_ids: '8102054'
 organization_id_2: '2018054'
 title: Imagine LA
 uri: /organizations/imagine-la/
+challenge_url: 'https://activation.la2050.org/connect/imagine-la/'
 category: connect
 
 ---

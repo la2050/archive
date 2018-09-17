@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
 organization_id: '2015045'
 year_submitted: '2015'
 organization_name: Connect the Dots LA
@@ -26,5 +25,6 @@ project_ids: '5102078'
 organization_id_2: '2015045'
 title: Connect the Dots LA
 uri: /organizations/connect-the-dots-la/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
 
 ---

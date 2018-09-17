@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
 organization_id: '2015207'
 year_submitted: '2015'
 organization_name: The Story Project
@@ -25,5 +24,6 @@ project_ids: '5102312'
 organization_id_2: '2015207'
 title: The Story Project
 uri: /organizations/the-story-project/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
 
 ---

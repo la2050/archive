@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
 organization_id: '2016181'
 year_submitted: '2016'
 organization_name: Regents of the University of California
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016181'
 title: Regents of the University of California
 uri: /organizations/regents-of-the-university-of-california/
+challenge_url: >-
+  https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
 
 ---

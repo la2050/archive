@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
 organization_id: '2015183'
 year_submitted: '2015'
 organization_name: Social & Environmental Entrepreneurs
@@ -24,5 +23,6 @@ project_ids: '5102270'
 organization_id_2: '2015183'
 title: Social & Environmental Entrepreneurs
 uri: /organizations/social-environmental-entrepreneurs/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
 
 ---

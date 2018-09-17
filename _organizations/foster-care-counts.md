@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
 organization_id: '2013073'
 year_submitted: '2013'
 organization_name: Foster Care Counts
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013073'
 title: Foster Care Counts
 uri: /organizations/foster-care-counts/
+challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
 
 ---

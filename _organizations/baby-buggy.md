@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014117'
 year_submitted: '2014'
 organization_name: Baby Buggy
@@ -24,5 +23,6 @@ project_ids: '4102115'
 organization_id_2: '2014117'
 title: Baby Buggy
 uri: /organizations/baby-buggy/
+challenge_url: ''
 
 ---

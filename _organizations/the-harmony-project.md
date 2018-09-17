@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
 organization_id: '2016219'
 year_submitted: '2016'
 organization_name: The Harmony Project
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016219'
 title: The Harmony Project
 uri: /organizations/the-harmony-project/
+challenge_url: >-
+  https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
 
 ---

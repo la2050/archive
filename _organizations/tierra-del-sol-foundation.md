@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
 organization_id: '2016239'
 year_submitted: '2016'
 organization_name: Tierra del Sol Foundation
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016239'
 title: Tierra del Sol Foundation
 uri: /organizations/tierra-del-sol-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
 
 ---

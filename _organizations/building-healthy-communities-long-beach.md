@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
 organization_id: '2016028'
 year_submitted: '2016'
 organization_name: 'Building Healthy Communities: Long Beach'
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016028'
 title: 'Building Healthy Communities: Long Beach'
 uri: /organizations/building-healthy-communities-long-beach/
+challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
 organization_id: '2015046'
 year_submitted: '2015'
 organization_name: Council for Watershed Health
@@ -25,5 +24,6 @@ project_ids: '5102079'
 organization_id_2: '2015046'
 title: Council for Watershed Health
 uri: /organizations/council-for-watershed-health/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
 
 ---

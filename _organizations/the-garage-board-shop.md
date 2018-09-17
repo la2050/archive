@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/sk8-4-education'
 organization_id: '2016218'
 year_submitted: '2016'
 organization_name: The Garage Board Shop
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016218'
 title: The Garage Board Shop
 uri: /organizations/the-garage-board-shop/
+challenge_url: 'https://challenge.la2050.org/entry/sk8-4-education'
 
 ---

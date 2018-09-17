@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
 organization_id: '2013150'
 year_submitted: '2013'
 organization_name: Parent Revolution
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013150'
 title: Parent Revolution
 uri: /organizations/parent-revolution/
+challenge_url: 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
 
 ---

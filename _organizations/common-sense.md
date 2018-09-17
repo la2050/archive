@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/common-sense/'
 organization_id: '2018029'
 year_submitted: '2018'
 organization_name: Common Sense
@@ -34,6 +33,7 @@ project_ids: '8102029'
 organization_id_2: '2018029'
 title: Common Sense
 uri: /organizations/common-sense/
+challenge_url: 'https://activation.la2050.org/learn/common-sense/'
 category: learn
 
 ---

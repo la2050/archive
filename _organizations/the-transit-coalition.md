@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
 organization_id: '2014097'
 year_submitted: '2014'
 organization_name: The Transit Coalition
@@ -26,5 +25,6 @@ project_ids: '4102097'
 organization_id_2: '2014097'
 title: The Transit Coalition
 uri: /organizations/the-transit-coalition/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
 
 ---

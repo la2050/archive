@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
 organization_id: '2015015'
 year_submitted: '2015'
 organization_name: Artists for Literacy / LitRemix
@@ -26,5 +25,6 @@ project_ids: '5102023'
 organization_id_2: '2015015'
 title: Artists for Literacy / LitRemix
 uri: /organizations/artists-for-literacy-litremix/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
 
 ---

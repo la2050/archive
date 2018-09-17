@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
 organization_id: '2015100'
 year_submitted: '2015'
 organization_name: Junior Statesmen Foundation; Alliance College-Ready Public Schools
@@ -27,5 +26,6 @@ organization_id_2: '2015100'
 title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 uri: >-
   /organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
 
 ---

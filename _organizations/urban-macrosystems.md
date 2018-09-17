@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/NRT.html'
 organization_id: '2013209'
 year_submitted: '2013'
 organization_name: Urban Macrosystems
@@ -54,5 +53,6 @@ project_ids: ''
 organization_id_2: '2013209'
 title: Urban Macrosystems
 uri: /organizations/urban-macrosystems/
+challenge_url: 'http://maker.good.is/myla2050/projects/NRT.html'
 
 ---

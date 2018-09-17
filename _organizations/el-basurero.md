@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/basurero.html'
 organization_id: '2015057'
 year_submitted: '2015'
 organization_name: El Basurero
@@ -26,5 +25,6 @@ project_ids: '5102092'
 organization_id_2: '2015057'
 title: El Basurero
 uri: /organizations/el-basurero/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/basurero.html'
 
 ---

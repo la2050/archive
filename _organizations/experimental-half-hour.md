@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
 organization_id: '2014034'
 year_submitted: '2014'
 organization_name: Experimental Half-Hour
@@ -24,5 +23,6 @@ project_ids: '4102035'
 organization_id_2: '2014034'
 title: Experimental Half-Hour
 uri: /organizations/experimental-half-hour/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
 
 ---

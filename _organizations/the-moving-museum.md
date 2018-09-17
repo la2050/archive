@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
 organization_id: '2015204'
 year_submitted: '2015'
 organization_name: The Moving Museum
@@ -24,5 +23,6 @@ project_ids: '5102307'
 organization_id_2: '2015204'
 title: The Moving Museum
 uri: /organizations/the-moving-museum/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
 
 ---

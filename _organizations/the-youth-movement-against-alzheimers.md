@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
 organization_id: '2018124'
 year_submitted: '2018'
 organization_name: The Youth Movement Against Alzheimer’s
@@ -30,6 +28,8 @@ project_ids: '8102124'
 organization_id_2: '2018124'
 title: The Youth Movement Against Alzheimer’s
 uri: /organizations/the-youth-movement-against-alzheimers/
+challenge_url: >-
+  https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
 category: live
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
 organization_id: '2016087'
 year_submitted: '2016'
 organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
@@ -29,5 +27,7 @@ organization_id_2: '2016087'
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 uri: >-
   /organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/
+challenge_url: >-
+  https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
 
 ---

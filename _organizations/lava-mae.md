@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/lava-mae/'
 organization_id: '2018066'
 year_submitted: '2018'
 organization_name: Lava Mae
@@ -29,6 +28,7 @@ project_ids: '8102066'
 organization_id_2: '2018066'
 title: Lava Mae
 uri: /organizations/lava-mae/
+challenge_url: 'https://activation.la2050.org/connect/lava-mae/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014204'
 year_submitted: '2014'
 organization_name: The Laurel Foundation
@@ -24,5 +23,6 @@ project_ids: '4102171'
 organization_id_2: '2014204'
 title: The Laurel Foundation
 uri: /organizations/the-laurel-foundation/
+challenge_url: ''
 
 ---

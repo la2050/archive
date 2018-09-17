@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
 organization_id: '2016257'
 year_submitted: '2016'
 organization_name: WISH Academy High School
@@ -41,5 +39,7 @@ project_ids: ''
 organization_id_2: '2016257'
 title: WISH Academy High School
 uri: /organizations/wish-academy-high-school/
+challenge_url: >-
+  https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
 
 ---

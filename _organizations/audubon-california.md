@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
 organization_id: '2014010'
 year_submitted: '2014'
 organization_name: Audubon California
@@ -24,5 +23,6 @@ project_ids: '4102011'
 organization_id_2: '2014010'
 title: Audubon California
 uri: /organizations/audubon-california/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
 
 ---

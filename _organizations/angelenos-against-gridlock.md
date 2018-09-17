@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/fundthisproject.html'
 organization_id: '2013010'
 year_submitted: '2013'
 organization_name: Angelenos Against Gridlock
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013010'
 title: Angelenos Against Gridlock
 uri: /organizations/angelenos-against-gridlock/
+challenge_url: 'http://maker.good.is/myla2050/projects/fundthisproject.html'
 
 ---

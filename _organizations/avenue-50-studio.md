@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'
 organization_id: '2014011'
 year_submitted: '2014'
 organization_name: Avenue 50 Studio
@@ -26,5 +25,6 @@ project_ids: '4102012'
 organization_id_2: '2014011'
 title: Avenue 50 Studio
 uri: /organizations/avenue-50-studio/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'
 
 ---

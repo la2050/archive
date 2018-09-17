@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
 organization_id: '2016117'
 year_submitted: '2016'
 organization_name: KCRW
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016117'
 title: KCRW
 uri: /organizations/kcrw/
+challenge_url: >-
+  https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
 
 ---

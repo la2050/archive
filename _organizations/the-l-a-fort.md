@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
 organization_id: '2014092'
 year_submitted: '2014'
 organization_name: The L.A. Fort
@@ -24,5 +23,6 @@ project_ids: '4102092'
 organization_id_2: '2014092'
 title: The L.A. Fort
 uri: /organizations/the-l-a-fort/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
 
 ---

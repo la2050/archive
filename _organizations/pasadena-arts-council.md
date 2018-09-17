@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
 organization_id: '2013152'
 year_submitted: '2013'
 organization_name: Pasadena Arts Council
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013152'
 title: Pasadena Arts Council
 uri: /organizations/pasadena-arts-council/
+challenge_url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
 
 ---

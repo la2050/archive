@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
 organization_id: '2016046'
 year_submitted: '2016'
 organization_name: 'Coligo, Inc.'
@@ -26,5 +24,7 @@ project_ids: '4102101'
 organization_id_2: '2016046'
 title: 'Coligo, Inc.'
 uri: /organizations/coligo-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014178'
 year_submitted: '2014'
 organization_name: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
@@ -24,5 +23,6 @@ project_ids: '4102156'
 organization_id_2: '2014178'
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 uri: /organizations/mia-lehrer-associates-la-mas-arid-lands-institute/
+challenge_url: ''
 
 ---

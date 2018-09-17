@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
 organization_id: '2015157'
 year_submitted: '2015'
 organization_name: Polar Tech Ed and Consulting LLC/Patrick Leon
@@ -25,5 +24,6 @@ project_ids: ''
 organization_id_2: '2015157'
 title: Polar Tech Ed and Consulting LLC/Patrick Leon
 uri: /organizations/polar-tech-ed-and-consulting-llc-patrick-leon/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
 
 ---

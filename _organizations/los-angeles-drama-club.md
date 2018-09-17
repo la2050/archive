@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014169'
 year_submitted: '2014'
 organization_name: Los Angeles Drama Club
@@ -24,5 +23,6 @@ project_ids: '4102151'
 organization_id_2: '2014169'
 title: Los Angeles Drama Club
 uri: /organizations/los-angeles-drama-club/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
 organization_id: '2013127'
 year_submitted: '2013'
 organization_name: Los Angeles Youth Orchestra
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2013127'
 title: Los Angeles Youth Orchestra
 uri: /organizations/los-angeles-youth-orchestra/
+challenge_url: 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
 
 ---

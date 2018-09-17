@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
 organization_id: '2014096'
 year_submitted: '2014'
 organization_name: The Project for The Imagined Futures
@@ -26,5 +25,6 @@ project_ids: '4102096'
 organization_id_2: '2014096'
 title: The Project for The Imagined Futures
 uri: /organizations/the-project-for-the-imagined-futures/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
 
 ---

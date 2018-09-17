@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/mindsonfire.html'
 organization_id: '2013135'
 year_submitted: '2013'
 organization_name: Minds on Fire
@@ -35,5 +34,6 @@ project_ids: '5102065'
 organization_id_2: '2013135'
 title: Minds on Fire
 uri: /organizations/minds-on-fire/
+challenge_url: 'http://maker.good.is/myla2050/projects/mindsonfire.html'
 
 ---

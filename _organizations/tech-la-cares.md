@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
 organization_id: '2016210'
 year_submitted: '2016'
 organization_name: Tech LA Cares
@@ -36,5 +34,7 @@ project_ids: ''
 organization_id_2: '2016210'
 title: Tech LA Cares
 uri: /organizations/tech-la-cares/
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
 
 ---

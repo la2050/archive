@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
 organization_id: '2018016'
 year_submitted: '2018'
 organization_name: Center for Innovation in STEM Education (CISE)
@@ -31,6 +29,8 @@ project_ids: '8102016'
 organization_id_2: '2018016'
 title: Center for Innovation in STEM Education (CISE)
 uri: /organizations/center-for-innovation-in-stem-education-cise/
+challenge_url: >-
+  https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
 category: learn
 
 ---

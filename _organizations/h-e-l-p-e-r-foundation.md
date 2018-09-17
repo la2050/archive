@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
 organization_id: '2013086'
 year_submitted: '2013'
 organization_name: H.E.L.P.E.R. Foundation
@@ -79,5 +78,6 @@ project_ids: ''
 organization_id_2: '2013086'
 title: H.E.L.P.E.R. Foundation
 uri: /organizations/h-e-l-p-e-r-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
 
 ---

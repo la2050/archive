@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
 organization_id: '2016236'
 year_submitted: '2016'
 organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016236'
 title: Theodore Payne Foundation for Wild Flower and Native Plants
 uri: /organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/
+challenge_url: >-
+  https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
 
 ---

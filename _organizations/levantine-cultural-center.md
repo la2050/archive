@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
 organization_id: '2014052'
 year_submitted: '2014'
 organization_name: Levantine Cultural Center
@@ -26,5 +25,6 @@ project_ids: '4102053'
 organization_id_2: '2014052'
 title: Levantine Cultural Center
 uri: /organizations/levantine-cultural-center/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
 
 ---

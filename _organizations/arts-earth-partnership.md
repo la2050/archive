@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'
 organization_id: '2013017'
 year_submitted: '2013'
 organization_name: 'Arts:Earth Partnership'
@@ -39,5 +38,6 @@ project_ids: ''
 organization_id_2: '2013017'
 title: 'Arts:Earth Partnership'
 uri: /organizations/arts-earth-partnership/
+challenge_url: 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'
 
 ---

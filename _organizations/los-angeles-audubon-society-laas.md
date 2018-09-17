@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
 organization_id: '2016133'
 year_submitted: '2016'
 organization_name: Los Angeles Audubon Society (LAAS)
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2016133'
 title: Los Angeles Audubon Society (LAAS)
 uri: /organizations/los-angeles-audubon-society-laas/
+challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
 
 ---

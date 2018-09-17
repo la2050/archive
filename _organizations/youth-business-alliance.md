@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
 organization_id: '2016261'
 year_submitted: '2016'
 organization_name: Youth Business Alliance
@@ -34,5 +32,7 @@ project_ids: ''
 organization_id_2: '2016261'
 title: Youth Business Alliance
 uri: /organizations/youth-business-alliance/
+challenge_url: >-
+  https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
 
 ---

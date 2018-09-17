@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
 organization_id: '2016066'
 year_submitted: '2016'
 organization_name: Drizzle Connect
@@ -29,5 +27,7 @@ project_ids: '8102063'
 organization_id_2: '2016066'
 title: Drizzle Connect
 uri: /organizations/drizzle-connect/
+challenge_url: >-
+  https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
 
 ---

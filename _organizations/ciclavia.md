@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/ciclavia/'
 organization_id: '2018021'
 year_submitted: '2018'
 organization_name: CicLAvia
@@ -40,6 +39,7 @@ project_ids: '8102021'
 organization_id_2: '2018021'
 title: CicLAvia
 uri: /organizations/ciclavia/
+challenge_url: 'https://activation.la2050.org/connect/ciclavia/'
 category: connect
 
 ---

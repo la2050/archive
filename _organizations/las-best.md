@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/las-best/'
 organization_id: '2018065'
 year_submitted: '2018'
 organization_name: LA's BEST
@@ -33,6 +32,7 @@ project_ids: '8102065'
 organization_id_2: '2018065'
 title: LA's BEST
 uri: /organizations/las-best/
+challenge_url: 'https://activation.la2050.org/learn/las-best/'
 category: learn
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
 organization_id: '2016162'
 year_submitted: '2016'
 organization_name: Parents Education League
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016162'
 title: Parents Education League
 uri: /organizations/parents-education-league/
+challenge_url: >-
+  https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
 
 ---

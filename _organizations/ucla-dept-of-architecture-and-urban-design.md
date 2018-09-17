@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
 organization_id: '2013201'
 year_submitted: '2013'
 organization_name: UCLA Dept. of Architecture and Urban Design
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013201'
 title: UCLA Dept. of Architecture and Urban Design
 uri: /organizations/ucla-dept-of-architecture-and-urban-design/
+challenge_url: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
 
 ---

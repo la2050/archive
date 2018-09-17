@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/poroushousing.html'
 organization_id: '2013207'
 year_submitted: '2013'
 organization_name: UNITEDLAB
@@ -45,5 +44,6 @@ project_ids: '4102058'
 organization_id_2: '2013207'
 title: UNITEDLAB
 uri: /organizations/unitedlab/
+challenge_url: 'http://maker.good.is/myla2050/projects/poroushousing.html'
 
 ---

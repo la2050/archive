@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
 organization_id: '2016084'
 year_submitted: '2016'
 organization_name: Friends of the Family
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016084'
 title: Friends of the Family
 uri: /organizations/friends-of-the-family/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
 
 ---

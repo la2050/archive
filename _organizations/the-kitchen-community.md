@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014203'
 year_submitted: '2014'
 organization_name: The Kitchen Community
@@ -24,5 +23,6 @@ project_ids: '4102170'
 organization_id_2: '2014203'
 title: The Kitchen Community
 uri: /organizations/the-kitchen-community/
+challenge_url: ''
 
 ---

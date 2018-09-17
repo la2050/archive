@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014194'
 year_submitted: '2014'
 organization_name: Strivers.LA via New Economy Campaigns
@@ -24,5 +23,6 @@ project_ids: '5102095'
 organization_id_2: '2014194'
 title: Strivers.LA via New Economy Campaigns
 uri: /organizations/strivers-la-via-new-economy-campaigns/
+challenge_url: ''
 
 ---

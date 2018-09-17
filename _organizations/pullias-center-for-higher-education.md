@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/collegecapacity.html'
 organization_id: '2013158'
 year_submitted: '2013'
 organization_name: Pullias Center for Higher Education
@@ -56,5 +55,6 @@ project_ids: ''
 organization_id_2: '2013158'
 title: Pullias Center for Higher Education
 uri: /organizations/pullias-center-for-higher-education/
+challenge_url: 'http://maker.good.is/myla2050/projects/collegecapacity.html'
 
 ---

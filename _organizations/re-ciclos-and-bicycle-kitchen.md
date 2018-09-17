@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
 organization_id: '2015164'
 year_submitted: '2015'
 organization_name: 'Re:Ciclos and Bicycle Kitchen'
@@ -26,5 +25,6 @@ project_ids: '5102248'
 organization_id_2: '2015164'
 title: 'Re:Ciclos and Bicycle Kitchen'
 uri: /organizations/re-ciclos-and-bicycle-kitchen/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
 organization_id: '2016026'
 year_submitted: '2016'
 organization_name: BreastfeedLA
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016026'
 title: BreastfeedLA
 uri: /organizations/breastfeedla/
+challenge_url: >-
+  https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
 
 ---

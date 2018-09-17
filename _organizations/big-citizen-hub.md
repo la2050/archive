@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/big-citizen-hub/'
 organization_id: '2018008'
 year_submitted: '2018'
 organization_name: Big Citizen HUB
@@ -30,6 +29,7 @@ project_ids: '8102008'
 organization_id_2: '2018008'
 title: Big Citizen HUB
 uri: /organizations/big-citizen-hub/
+challenge_url: 'https://activation.la2050.org/live/big-citizen-hub/'
 category: live
 
 ---

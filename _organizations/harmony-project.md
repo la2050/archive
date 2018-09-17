@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
 organization_id: '2013088'
 year_submitted: '2013'
 organization_name: Harmony Project
@@ -41,5 +40,6 @@ project_ids: ''
 organization_id_2: '2013088'
 title: Harmony Project
 uri: /organizations/harmony-project/
+challenge_url: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
 
 ---

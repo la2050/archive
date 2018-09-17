@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/university-of-southern-california/'
 organization_id: '2018133'
 year_submitted: '2018'
 organization_name: University of Southern California
@@ -39,6 +38,7 @@ project_ids: '8102133'
 organization_id_2: '2018133'
 title: University of Southern California
 uri: /organizations/university-of-southern-california/
+challenge_url: 'https://activation.la2050.org/connect/university-of-southern-california/'
 category: connect
 
 ---

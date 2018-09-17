@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/film-independent/'
 organization_id: '2018040'
 year_submitted: '2018'
 organization_name: Film Independent
@@ -31,6 +30,7 @@ project_ids: '8102040'
 organization_id_2: '2018040'
 title: Film Independent
 uri: /organizations/film-independent/
+challenge_url: 'https://activation.la2050.org/connect/film-independent/'
 category: connect
 
 ---

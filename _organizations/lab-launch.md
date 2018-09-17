@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
 organization_id: '2015109'
 year_submitted: '2015'
 organization_name: Lab Launch
@@ -28,5 +27,6 @@ project_ids: '5102170'
 organization_id_2: '2015109'
 title: Lab Launch
 uri: /organizations/lab-launch/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
 
 ---

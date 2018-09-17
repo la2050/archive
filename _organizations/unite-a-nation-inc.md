@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
 organization_id: '2016243'
 year_submitted: '2016'
 organization_name: 'Unite A Nation, Inc.'
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016243'
 title: 'Unite A Nation, Inc.'
 uri: /organizations/unite-a-nation-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
 
 ---

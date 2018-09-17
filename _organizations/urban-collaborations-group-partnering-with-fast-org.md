@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014220'
 year_submitted: '2014'
 organization_name: Urban Collaborations Group (Partnering with FAST.org)
@@ -24,5 +23,6 @@ project_ids: '4102181'
 organization_id_2: '2014220'
 title: Urban Collaborations Group (Partnering with FAST.org)
 uri: /organizations/urban-collaborations-group-partnering-with-fast-org/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/mloveizm.html'
 organization_id: '2013137'
 year_submitted: '2013'
 organization_name: MLoveizm Inc.
@@ -30,5 +29,6 @@ project_ids: '4102040'
 organization_id_2: '2013137'
 title: MLoveizm Inc.
 uri: /organizations/mloveizm-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'
 
 ---

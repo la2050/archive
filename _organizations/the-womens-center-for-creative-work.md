@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/WCCW.html'
 organization_id: '2014098'
 year_submitted: '2014'
 organization_name: The Women's Center for Creative Work
@@ -26,5 +25,6 @@ project_ids: '4102098'
 organization_id_2: '2014098'
 title: The Women's Center for Creative Work
 uri: /organizations/the-womens-center-for-creative-work/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/WCCW.html'
 
 ---

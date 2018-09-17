@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014201'
 year_submitted: '2014'
 organization_name: The Gabriella Foundation
@@ -24,5 +23,6 @@ project_ids: '4102169'
 organization_id_2: '2014201'
 title: The Gabriella Foundation
 uri: /organizations/the-gabriella-foundation/
+challenge_url: ''
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
 organization_id: '2016255'
 year_submitted: '2016'
 organization_name: Whitaker Peace & Development Initiative (WPDI)
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016255'
 title: Whitaker Peace & Development Initiative (WPDI)
 uri: /organizations/whitaker-peace-development-initiative-wpdi/
+challenge_url: >-
+  https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
 organization_id: '2015010'
 year_submitted: '2015'
 organization_name: Anti-Recidivism Coalition
@@ -28,5 +27,6 @@ project_ids: '5102017'
 organization_id_2: '2015010'
 title: Anti-Recidivism Coalition
 uri: /organizations/anti-recidivism-coalition/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
 
 ---

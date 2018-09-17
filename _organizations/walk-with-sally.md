@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/walk-with-sally/'
 organization_id: '2018135'
 year_submitted: '2018'
 organization_name: Walk With Sally
@@ -29,6 +28,7 @@ project_ids: '8102135'
 organization_id_2: '2018135'
 title: Walk With Sally
 uri: /organizations/walk-with-sally/
+challenge_url: 'https://activation.la2050.org/connect/walk-with-sally/'
 category: connect
 
 ---

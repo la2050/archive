@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
 organization_id: '2013164'
 year_submitted: '2013'
 organization_name: RiverLAnding Collective
@@ -80,5 +79,6 @@ project_ids: ''
 organization_id_2: '2013164'
 title: RiverLAnding Collective
 uri: /organizations/riverlanding-collective/
+challenge_url: 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
 
 ---

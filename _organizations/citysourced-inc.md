@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
 organization_id: '2013037'
 year_submitted: '2013'
 organization_name: 'CitySourced, Inc.'
@@ -57,5 +56,6 @@ project_ids: ''
 organization_id_2: '2013037'
 title: 'CitySourced, Inc.'
 uri: /organizations/citysourced-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
 
 ---

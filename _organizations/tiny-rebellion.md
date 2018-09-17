@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
 organization_id: '2015213'
 year_submitted: '2015'
 organization_name: Tiny Rebellion
@@ -26,5 +25,6 @@ project_ids: '8102127'
 organization_id_2: '2015213'
 title: Tiny Rebellion
 uri: /organizations/tiny-rebellion/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
 
 ---

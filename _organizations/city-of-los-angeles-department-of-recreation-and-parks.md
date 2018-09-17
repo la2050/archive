@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
 organization_id: '2016039'
 year_submitted: '2016'
 organization_name: City of Los Angeles Department of Recreation and Parks
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016039'
 title: City of Los Angeles Department of Recreation and Parks
 uri: /organizations/city-of-los-angeles-department-of-recreation-and-parks/
+challenge_url: >-
+  https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
 
 ---

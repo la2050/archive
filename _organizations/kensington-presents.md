@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
 organization_id: '2015104'
 year_submitted: '2015'
 organization_name: Kensington Presents
@@ -24,5 +23,6 @@ project_ids: '5102160'
 organization_id_2: '2015104'
 title: Kensington Presents
 uri: /organizations/kensington-presents/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
 
 ---

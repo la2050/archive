@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
 organization_id: '2016166'
 year_submitted: '2016'
 organization_name: Peaceworks International
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2016166'
 title: Peaceworks International
 uri: /organizations/peaceworks-international/
+challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
 
 ---

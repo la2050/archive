@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
 organization_id: '2016252'
 year_submitted: '2016'
 organization_name: Verdical Group
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016252'
 title: Verdical Group
 uri: /organizations/verdical-group/
+challenge_url: >-
+  https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
 
 ---

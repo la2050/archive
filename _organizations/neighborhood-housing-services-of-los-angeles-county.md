@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
 organization_id: '2018089'
 year_submitted: '2018'
 organization_name: Neighborhood Housing Services of Los Angeles County
@@ -32,6 +30,8 @@ project_ids: '8102089'
 organization_id_2: '2018089'
 title: Neighborhood Housing Services of Los Angeles County
 uri: /organizations/neighborhood-housing-services-of-los-angeles-county/
+challenge_url: >-
+  https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
 category: live
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/delab.html'
 organization_id: '2013052'
 year_submitted: '2013'
 organization_name: design east of La Brea
@@ -61,5 +60,6 @@ project_ids: ''
 organization_id_2: '2013052'
 title: design east of La Brea
 uri: /organizations/design-east-of-la-brea/
+challenge_url: 'http://maker.good.is/myla2050/projects/delab.html'
 
 ---

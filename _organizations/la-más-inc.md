@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/farmonwheels.html'
 organization_id: '2013116'
 year_submitted: '2013'
 organization_name: 'LA-Más, Inc.'
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013116'
 title: 'LA-Más, Inc.'
 uri: /organizations/la-más-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/farmonwheels.html'
 
 ---

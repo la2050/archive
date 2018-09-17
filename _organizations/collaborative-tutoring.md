@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
 organization_id: '2013042'
 year_submitted: '2013'
 organization_name: Collaborative Tutoring
@@ -43,5 +42,6 @@ project_ids: '5102016'
 organization_id_2: '2013042'
 title: Collaborative Tutoring
 uri: /organizations/collaborative-tutoring/
+challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
 
 ---

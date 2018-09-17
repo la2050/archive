@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
 organization_id: '2015182'
 year_submitted: '2015'
 organization_name: Smart Gals Productions
@@ -26,5 +25,6 @@ project_ids: '5102269'
 organization_id_2: '2015182'
 title: Smart Gals Productions
 uri: /organizations/smart-gals-productions/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
 
 ---

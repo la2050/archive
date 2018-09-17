@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/the-natch-inc/'
 organization_id: '2018120'
 year_submitted: '2018'
 organization_name: 'The Natch, INC.'
@@ -33,6 +32,7 @@ project_ids: ''
 organization_id_2: '2018120'
 title: 'The Natch, INC.'
 uri: /organizations/the-natch-inc/
+challenge_url: 'https://activation.la2050.org/create/the-natch-inc/'
 category: create
 
 ---

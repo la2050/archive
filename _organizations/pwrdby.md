@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
 organization_id: '2014074'
 year_submitted: '2014'
 organization_name: PwrdBy
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014074'
 title: PwrdBy
 uri: /organizations/pwrdby/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
 
 ---

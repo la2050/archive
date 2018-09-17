@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
 organization_id: '2018121'
 year_submitted: '2018'
 organization_name: 'The National Association of Latino Independent Producers, NALIP'
@@ -36,6 +34,8 @@ project_ids: '8102121'
 organization_id_2: '2018121'
 title: 'The National Association of Latino Independent Producers, NALIP'
 uri: /organizations/the-national-association-of-latino-independent-producers-nalip/
+challenge_url: >-
+  https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
 category: create
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
 organization_id: '2016137'
 year_submitted: '2016'
 organization_name: Los Angeles Magazine
@@ -29,5 +27,7 @@ project_ids: '5102258'
 organization_id_2: '2016137'
 title: Los Angeles Magazine
 uri: /organizations/los-angeles-magazine/
+challenge_url: >-
+  https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
 
 ---

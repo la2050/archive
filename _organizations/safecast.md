@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014190'
 year_submitted: '2014'
 organization_name: Safecast
@@ -24,5 +23,6 @@ project_ids: '4102162'
 organization_id_2: '2014190'
 title: Safecast
 uri: /organizations/safecast/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
 organization_id: '2015154'
 year_submitted: '2015'
 organization_name: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
@@ -27,5 +26,6 @@ organization_id_2: '2015154'
 title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 uri: >-
   /organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
 
 ---

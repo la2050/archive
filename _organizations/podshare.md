@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/podshare/'
 organization_id: '2018096'
 year_submitted: '2018'
 organization_name: Podshare
@@ -26,6 +25,7 @@ project_ids: ''
 organization_id_2: '2018096'
 title: Podshare
 uri: /organizations/podshare/
+challenge_url: 'https://activation.la2050.org/live/podshare/'
 category: live
 
 ---

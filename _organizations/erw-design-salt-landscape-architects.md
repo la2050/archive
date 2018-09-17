@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
 organization_id: '2013062'
 year_submitted: '2013'
 organization_name: ERW DESIGN + SALT Landscape Architects
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013062'
 title: ERW DESIGN + SALT Landscape Architects
 uri: /organizations/erw-design-salt-landscape-architects/
+challenge_url: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
 
 ---

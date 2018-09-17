@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
 organization_id: '2016075'
 year_submitted: '2016'
 organization_name: Evolve LA (project of LA-Más)
@@ -36,5 +34,7 @@ project_ids: ''
 organization_id_2: '2016075'
 title: Evolve LA (project of LA-Más)
 uri: /organizations/evolve-la-project-of-la-más/
+challenge_url: >-
+  https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
 
 ---

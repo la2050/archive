@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
 organization_id: '2014068'
 year_submitted: '2014'
 organization_name: Piece by Piece
@@ -24,5 +23,6 @@ project_ids: '4102069'
 organization_id_2: '2014068'
 title: Piece by Piece
 uri: /organizations/piece-by-piece/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
 
 ---

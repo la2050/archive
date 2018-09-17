@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
 organization_id: '2015127'
 year_submitted: '2015'
 organization_name: >-
@@ -33,5 +32,6 @@ title: >-
   Housing Corporation, Community Health Councils (CHC)
 uri: >-
   /organizations/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
 
 ---

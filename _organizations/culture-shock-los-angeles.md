@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/C3.html'
 organization_id: '2015047'
 year_submitted: '2015'
 organization_name: Culture Shock Los Angeles
@@ -27,5 +26,6 @@ project_ids: '5102080'
 organization_id_2: '2015047'
 title: Culture Shock Los Angeles
 uri: /organizations/culture-shock-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/C3.html'
 
 ---

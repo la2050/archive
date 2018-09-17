@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/RXforLA.html'
 organization_id: '2013191'
 year_submitted: '2013'
 organization_name: The Last Bookstore
@@ -41,5 +40,6 @@ project_ids: ''
 organization_id_2: '2013191'
 title: The Last Bookstore
 uri: /organizations/the-last-bookstore/
+challenge_url: 'http://maker.good.is/myla2050/projects/RXforLA.html'
 
 ---

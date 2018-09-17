@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html'
 organization_id: '2015053'
 year_submitted: '2015'
 organization_name: DUBLAB
@@ -24,5 +23,6 @@ project_ids: '5102088'
 organization_id_2: '2015053'
 title: DUBLAB
 uri: /organizations/dublab/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html'
 
 ---

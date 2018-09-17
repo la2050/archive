@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
 organization_id: '2016063'
 year_submitted: '2016'
 organization_name: Dear Mama
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016063'
 title: Dear Mama
 uri: /organizations/dear-mama/
+challenge_url: >-
+  https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
 organization_id: '2016238'
 year_submitted: '2016'
 organization_name: Tickleberry Place
@@ -29,5 +27,7 @@ project_ids: '5102321'
 organization_id_2: '2016238'
 title: Tickleberry Place
 uri: /organizations/tickleberry-place/
+challenge_url: >-
+  https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/global-green/'
 organization_id: '2018046'
 year_submitted: '2018'
 organization_name: Global Green
@@ -31,6 +30,7 @@ project_ids: '8102046'
 organization_id_2: '2018046'
 title: Global Green
 uri: /organizations/global-green/
+challenge_url: 'https://activation.la2050.org/live/global-green/'
 category: live
 
 ---

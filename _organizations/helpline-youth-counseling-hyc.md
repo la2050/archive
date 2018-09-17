@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
 organization_id: '2016098'
 year_submitted: '2016'
 organization_name: Helpline Youth Counseling (HYC)
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016098'
 title: Helpline Youth Counseling (HYC)
 uri: /organizations/helpline-youth-counseling-hyc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
 
 ---

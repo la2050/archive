@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/BGCVenice.html'
 organization_id: '2013021'
 year_submitted: '2013'
 organization_name: Boys & Girls Club of Venice
@@ -79,5 +78,6 @@ project_ids: ''
 organization_id_2: '2013021'
 title: Boys & Girls Club of Venice
 uri: /organizations/boys-girls-club-of-venice/
+challenge_url: 'http://maker.good.is/myla2050/projects/BGCVenice.html'
 
 ---

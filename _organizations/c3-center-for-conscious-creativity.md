@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/f2futurefest.html'
 organization_id: '2013024'
 year_submitted: '2013'
 organization_name: 'c3: Center for Conscious Creativity'
@@ -46,5 +45,6 @@ project_ids: ''
 organization_id_2: '2013024'
 title: 'c3: Center for Conscious Creativity'
 uri: /organizations/c3-center-for-conscious-creativity/
+challenge_url: 'http://maker.good.is/myla2050/projects/f2futurefest.html'
 
 ---

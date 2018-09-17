@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
 organization_id: '2013083'
 year_submitted: '2013'
 organization_name: Grain of Sand - Granito de Arena
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2013083'
 title: Grain of Sand - Granito de Arena
 uri: /organizations/grain-of-sand-granito-de-arena/
+challenge_url: 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
 
 ---

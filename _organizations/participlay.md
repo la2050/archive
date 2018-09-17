@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/craftservices.html'
 organization_id: '2013151'
 year_submitted: '2013'
 organization_name: Participlay
@@ -22,5 +21,6 @@ project_ids: '5102072'
 organization_id_2: '2013151'
 title: Participlay
 uri: /organizations/participlay/
+challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'
 
 ---

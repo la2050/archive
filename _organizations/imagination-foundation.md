@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/imagination.html'
 organization_id: '2015089'
 year_submitted: '2015'
 organization_name: Imagination Foundation
@@ -24,5 +23,6 @@ project_ids: '5102138'
 organization_id_2: '2015089'
 title: Imagination Foundation
 uri: /organizations/imagination-foundation/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/imagination.html'
 
 ---

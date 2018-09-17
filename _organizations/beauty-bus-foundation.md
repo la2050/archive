@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
 organization_id: '2014014'
 year_submitted: '2014'
 organization_name: Beauty Bus Foundation
@@ -24,5 +23,6 @@ project_ids: '4102015'
 organization_id_2: '2014014'
 title: Beauty Bus Foundation
 uri: /organizations/beauty-bus-foundation/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
 
 ---

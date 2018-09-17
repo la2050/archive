@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/striversLA.html'
 organization_id: '2013176'
 year_submitted: '2013'
 organization_name: >-
@@ -27,5 +26,6 @@ title: >-
   Foundation
 uri: >-
   /organizations/strivers-la-from-new-economy-campaigns-and-the-la-community-college-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/striversLA.html'
 
 ---

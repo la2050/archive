@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
 organization_id: '2013087'
 year_submitted: '2013'
 organization_name: Hammer Museum
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013087'
 title: Hammer Museum
 uri: /organizations/hammer-museum/
+challenge_url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
 
 ---

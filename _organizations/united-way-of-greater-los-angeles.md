@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
 organization_id: '2018132'
 year_submitted: '2018'
 organization_name: United Way of Greater Los Angeles
@@ -29,6 +28,7 @@ project_ids: '8102132'
 organization_id_2: '2018132'
 title: United Way of Greater Los Angeles
 uri: /organizations/united-way-of-greater-los-angeles/
+challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
 category: live
 
 ---

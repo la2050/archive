@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
 organization_id: '2014079'
 year_submitted: '2014'
 organization_name: Schkapf
@@ -26,5 +25,6 @@ project_ids: '4102080'
 organization_id_2: '2014079'
 title: Schkapf
 uri: /organizations/schkapf/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
 
 ---

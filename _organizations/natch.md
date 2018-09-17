@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door'
 organization_id: '2016153'
 year_submitted: '2016'
 organization_name: Natch
@@ -36,5 +35,6 @@ project_ids: ''
 organization_id_2: '2016153'
 title: Natch
 uri: /organizations/natch/
+challenge_url: 'https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
 organization_id: '2013075'
 year_submitted: '2013'
 organization_name: 'Friends, the Foundation of the California African American Museum'
@@ -51,5 +50,6 @@ organization_id_2: '2013075'
 title: 'Friends, the Foundation of the California African American Museum'
 uri: >-
   /organizations/friends-the-foundation-of-the-california-african-american-museum/
+challenge_url: 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
 
 ---

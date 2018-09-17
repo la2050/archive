@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
 organization_id: '2015025'
 year_submitted: '2015'
 organization_name: Career & College clubs
@@ -24,5 +23,6 @@ project_ids: '5102041'
 organization_id_2: '2015025'
 title: Career & College clubs
 uri: /organizations/career-college-clubs/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
 
 ---

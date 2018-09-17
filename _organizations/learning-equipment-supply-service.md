@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014160'
 year_submitted: '2014'
 organization_name: Learning Equipment Supply Service
@@ -24,5 +23,6 @@ project_ids: '4102143'
 organization_id_2: '2014160'
 title: Learning Equipment Supply Service
 uri: /organizations/learning-equipment-supply-service/
+challenge_url: ''
 
 ---

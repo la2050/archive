@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
 organization_id: '2015153'
 year_submitted: '2015'
 organization_name: Pass Tha Ball
@@ -24,5 +23,6 @@ project_ids: '5102230'
 organization_id_2: '2015153'
 title: Pass Tha Ball
 uri: /organizations/pass-tha-ball/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
 
 ---

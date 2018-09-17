@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
 organization_id: '2016124'
 year_submitted: '2016'
 organization_name: LA Promise Fund
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2016124'
 title: LA Promise Fund
 uri: /organizations/la-promise-fund/
+challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
 
 ---

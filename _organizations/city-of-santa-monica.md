@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
 organization_id: '2014016'
 year_submitted: '2014'
 organization_name: City of Santa Monica
@@ -24,5 +23,6 @@ project_ids: '4102017'
 organization_id_2: '2014016'
 title: City of Santa Monica
 uri: /organizations/city-of-santa-monica/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
 
 ---

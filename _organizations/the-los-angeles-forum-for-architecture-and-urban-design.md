@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014205'
 year_submitted: '2014'
 organization_name: The Los Angeles Forum for Architecture and Urban Design
@@ -24,5 +23,6 @@ project_ids: '4102172'
 organization_id_2: '2014205'
 title: The Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/the-los-angeles-forum-for-architecture-and-urban-design/
+challenge_url: ''
 
 ---

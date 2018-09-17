@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
 organization_id: '2015043'
 year_submitted: '2015'
 organization_name: Communities In Schools of Los Angeles
@@ -26,5 +25,6 @@ project_ids: '5102075'
 organization_id_2: '2015043'
 title: Communities In Schools of Los Angeles
 uri: /organizations/communities-in-schools-of-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
 
 ---

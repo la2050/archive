@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
 organization_id: '2018100'
 year_submitted: '2018'
 organization_name: 'Raise A Child, Inc.'
@@ -41,6 +40,7 @@ project_ids: '8102100'
 organization_id_2: '2018100'
 title: 'Raise A Child, Inc.'
 uri: /organizations/raise-a-child-inc/
+challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
 organization_id: '2016242'
 year_submitted: '2016'
 organization_name: Union Rescue Mission
@@ -31,5 +30,6 @@ project_ids: ''
 organization_id_2: '2016242'
 title: Union Rescue Mission
 uri: /organizations/union-rescue-mission/
+challenge_url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
 
 ---

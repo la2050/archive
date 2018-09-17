@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
 organization_id: '2016148'
 year_submitted: '2016'
 organization_name: Milk + Bookies
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016148'
 title: Milk + Bookies
 uri: /organizations/milk-bookies/
+challenge_url: >-
+  https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
 
 ---

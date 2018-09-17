@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
 organization_id: '2016187'
 year_submitted: '2016'
 organization_name: SAFE (Streets Are For Everyone)
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016187'
 title: SAFE (Streets Are For Everyone)
 uri: /organizations/safe-streets-are-for-everyone/
+challenge_url: >-
+  https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
 
 ---

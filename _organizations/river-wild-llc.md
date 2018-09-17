@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
 organization_id: '2015168'
 year_submitted: '2015'
 organization_name: River Wild LLC
@@ -24,5 +23,6 @@ project_ids: '5102101'
 organization_id_2: '2015168'
 title: River Wild LLC
 uri: /organizations/river-wild-llc/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
 
 ---

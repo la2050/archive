@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
 organization_id: '2015007'
 year_submitted: '2015'
 organization_name: Ambulante
@@ -28,5 +27,6 @@ project_ids: '5102014'
 organization_id_2: '2015007'
 title: Ambulante
 uri: /organizations/ambulante/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
 
 ---

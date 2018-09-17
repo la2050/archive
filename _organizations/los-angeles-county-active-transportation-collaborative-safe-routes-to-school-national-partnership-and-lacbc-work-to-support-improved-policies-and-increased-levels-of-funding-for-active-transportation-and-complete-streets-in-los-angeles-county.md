@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014166'
 year_submitted: '2014'
 organization_name: >-
@@ -33,5 +32,6 @@ title: >-
   Los Angeles County.
 uri: >-
   /organizations/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/
+challenge_url: ''
 
 ---

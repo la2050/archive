@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
 organization_id: '2013187'
 year_submitted: '2013'
 organization_name: The Greater West Hollywood Food Coalition
@@ -51,5 +50,6 @@ project_ids: ''
 organization_id_2: '2013187'
 title: The Greater West Hollywood Food Coalition
 uri: /organizations/the-greater-west-hollywood-food-coalition/
+challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
 
 ---

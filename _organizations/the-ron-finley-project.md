@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
 organization_id: '2016231'
 year_submitted: '2016'
 organization_name: The Ron Finley Project
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016231'
 title: The Ron Finley Project
 uri: /organizations/the-ron-finley-project/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
 
 ---

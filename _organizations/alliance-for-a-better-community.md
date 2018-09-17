@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
 organization_id: '2013006'
 year_submitted: '2013'
 organization_name: Alliance for a Better Community
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013006'
 title: Alliance for a Better Community
 uri: /organizations/alliance-for-a-better-community/
+challenge_url: 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
 
 ---

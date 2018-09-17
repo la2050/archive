@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
 organization_id: '2018139'
 year_submitted: '2018'
 organization_name: World Harvest Charities & Family Services
@@ -28,6 +27,7 @@ project_ids: '8102139'
 organization_id_2: '2018139'
 title: World Harvest Charities & Family Services
 uri: /organizations/world-harvest-charities-family-services/
+challenge_url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
 category: live
 
 ---

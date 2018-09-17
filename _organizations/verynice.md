@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/beverynice.html'
 organization_id: '2013214'
 year_submitted: '2013'
 organization_name: verynice
@@ -46,5 +45,6 @@ project_ids: '4102059'
 organization_id_2: '2013214'
 title: verynice
 uri: /organizations/verynice/
+challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'
 
 ---

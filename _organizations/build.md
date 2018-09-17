@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
 organization_id: '2016027'
 year_submitted: '2016'
 organization_name: BUILD
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016027'
 title: BUILD
 uri: /organizations/build/
+challenge_url: >-
+  https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
 
 ---

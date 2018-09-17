@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
 organization_id: '2016115'
 year_submitted: '2016'
 organization_name: Joyful Heart Foundation
@@ -35,5 +33,7 @@ project_ids: ''
 organization_id_2: '2016115'
 title: Joyful Heart Foundation
 uri: /organizations/joyful-heart-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
 
 ---

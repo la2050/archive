@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/move-la-a-project-of-community-partners/'
 organization_id: '2018084'
 year_submitted: '2018'
 organization_name: 'Move LA, a project of Community Partners'
@@ -29,6 +28,7 @@ project_ids: '8102084'
 organization_id_2: '2018084'
 title: 'Move LA, a project of Community Partners'
 uri: /organizations/move-la-a-project-of-community-partners/
+challenge_url: 'https://activation.la2050.org/live/move-la-a-project-of-community-partners/'
 category: live
 
 ---

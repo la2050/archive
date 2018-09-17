@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
 organization_id: '2016043'
 year_submitted: '2016'
 organization_name: CoachArt
@@ -37,5 +35,7 @@ project_ids: ''
 organization_id_2: '2016043'
 title: CoachArt
 uri: /organizations/coachart/
+challenge_url: >-
+  https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
 
 ---

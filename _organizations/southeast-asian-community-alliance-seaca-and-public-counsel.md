@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'
 organization_id: '2015186'
 year_submitted: '2015'
 organization_name: Southeast Asian Community Alliance (SEACA) and Public Counsel
@@ -26,5 +25,6 @@ project_ids: '5102275'
 organization_id_2: '2015186'
 title: Southeast Asian Community Alliance (SEACA) and Public Counsel
 uri: /organizations/southeast-asian-community-alliance-seaca-and-public-counsel/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'
 
 ---

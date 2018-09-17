@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
 organization_id: '2015115'
 year_submitted: '2015'
 organization_name: 'Living Advantage, Inc.'
@@ -27,5 +26,6 @@ project_ids: '5102178'
 organization_id_2: '2015115'
 title: 'Living Advantage, Inc.'
 uri: /organizations/living-advantage-inc/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
 
 ---

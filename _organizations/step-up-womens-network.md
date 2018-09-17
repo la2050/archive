@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/StepUp.html'
 organization_id: '2013172'
 year_submitted: '2013'
 organization_name: Step Up Women's Network
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013172'
 title: Step Up Women's Network
 uri: /organizations/step-up-womens-network/
+challenge_url: 'http://maker.good.is/myla2050/projects/StepUp.html'
 
 ---

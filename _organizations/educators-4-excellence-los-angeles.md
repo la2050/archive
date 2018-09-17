@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/those-who-can-teach!-elevating-teacher-solutions-for-student-needs
 organization_id: '2016068'
 year_submitted: '2016'
 organization_name: Educators 4 Excellence-Los Angeles
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016068'
 title: Educators 4 Excellence-Los Angeles
 uri: /organizations/educators-4-excellence-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/those-who-can-teach!-elevating-teacher-solutions-for-student-needs
 
 ---

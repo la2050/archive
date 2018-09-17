@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
 organization_id: '2015195'
 year_submitted: '2015'
 organization_name: Tempest Action Parks
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015195'
 title: Tempest Action Parks
 uri: /organizations/tempest-action-parks/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
 
 ---

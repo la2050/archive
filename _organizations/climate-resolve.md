@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
 organization_id: '2015038'
 year_submitted: '2015'
 organization_name: Climate Resolve
@@ -26,5 +25,6 @@ project_ids: '5102067'
 organization_id_2: '2015038'
 title: Climate Resolve
 uri: /organizations/climate-resolve/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
 
 ---

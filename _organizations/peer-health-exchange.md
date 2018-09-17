@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/peer-health-exchange/'
 organization_id: '2018094'
 year_submitted: '2018'
 organization_name: Peer Health Exchange
@@ -33,6 +32,7 @@ project_ids: '8102094'
 organization_id_2: '2018094'
 title: Peer Health Exchange
 uri: /organizations/peer-health-exchange/
+challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'
 category: live
 
 ---

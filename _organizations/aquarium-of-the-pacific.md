@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014114'
 year_submitted: '2014'
 organization_name: Aquarium of the Pacific
@@ -24,5 +23,6 @@ project_ids: '4102112'
 organization_id_2: '2014114'
 title: Aquarium of the Pacific
 uri: /organizations/aquarium-of-the-pacific/
+challenge_url: ''
 
 ---

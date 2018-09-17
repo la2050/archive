@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014187'
 year_submitted: '2014'
 organization_name: >-
@@ -29,5 +28,6 @@ title: >-
   Providence Health & Services Southern California
 uri: >-
   /organizations/providence-little-company-of-mary-medical-centers-torrance-san-pedro-providence-health-services-southern-california/
+challenge_url: ''
 
 ---

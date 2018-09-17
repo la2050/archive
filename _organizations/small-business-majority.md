@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/small-business-majority/'
 organization_id: '2018109'
 year_submitted: '2018'
 organization_name: Small Business Majority
@@ -40,6 +39,7 @@ project_ids: '8102109'
 organization_id_2: '2018109'
 title: Small Business Majority
 uri: /organizations/small-business-majority/
+challenge_url: 'https://activation.la2050.org/create/small-business-majority/'
 category: create
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
 organization_id: '2014102'
 year_submitted: '2014'
 organization_name: URBAN AIR
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014102'
 title: URBAN AIR
 uri: /organizations/urban-air/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
 
 ---

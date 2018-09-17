@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
 organization_id: '2015176'
 year_submitted: '2015'
 organization_name: SCV Adventure Play
@@ -26,5 +25,6 @@ project_ids: '5102290'
 organization_id_2: '2015176'
 title: SCV Adventure Play
 uri: /organizations/scv-adventure-play/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
 
 ---

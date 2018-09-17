@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'
 organization_id: '2016169'
 year_submitted: '2016'
 organization_name: People For the American Way Foundation
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016169'
 title: People For the American Way Foundation
 uri: /organizations/people-for-the-american-way-foundation/
+challenge_url: 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'
 
 ---

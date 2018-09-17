@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/thelatrust.html'
 organization_id: '2013195'
 year_submitted: '2013'
 organization_name: The Los Angeles Trust for Children's Health
@@ -57,5 +56,6 @@ project_ids: ''
 organization_id_2: '2013195'
 title: The Los Angeles Trust for Children's Health
 uri: /organizations/the-los-angeles-trust-for-childrens-health/
+challenge_url: 'http://maker.good.is/myla2050/projects/thelatrust.html'
 
 ---

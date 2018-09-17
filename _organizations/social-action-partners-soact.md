@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
 organization_id: '2015184'
 year_submitted: '2015'
 organization_name: Social Action Partners (SoACT)
@@ -26,5 +25,6 @@ project_ids: '5102271'
 organization_id_2: '2015184'
 title: Social Action Partners (SoACT)
 uri: /organizations/social-action-partners-soact/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
 
 ---

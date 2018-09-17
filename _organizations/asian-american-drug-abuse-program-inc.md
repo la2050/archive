@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
 organization_id: '2013018'
 year_submitted: '2013'
 organization_name: 'Asian American Drug Abuse Program, Inc'
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2013018'
 title: 'Asian American Drug Abuse Program, Inc'
 uri: /organizations/asian-american-drug-abuse-program-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
 
 ---

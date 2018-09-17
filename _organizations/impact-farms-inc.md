@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
 organization_id: '2013094'
 year_submitted: '2013'
 organization_name: 'ImPact Farms, Inc.'
@@ -35,5 +34,6 @@ project_ids: '4102034'
 organization_id_2: '2013094'
 title: 'ImPact Farms, Inc.'
 uri: /organizations/impact-farms-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
 
 ---

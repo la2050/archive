@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
 organization_id: '2016253'
 year_submitted: '2016'
 organization_name: Westside Urban Forum
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016253'
 title: Westside Urban Forum
 uri: /organizations/westside-urban-forum/
+challenge_url: >-
+  https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
 organization_id: '2016119'
 year_submitted: '2016'
 organization_name: L.A. Theatre Works
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016119'
 title: L.A. Theatre Works
 uri: /organizations/l-a-theatre-works/
+challenge_url: >-
+  https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
 
 ---

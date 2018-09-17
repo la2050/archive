@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'
 organization_id: '2016258'
 year_submitted: '2016'
 organization_name: Worthy of Love
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016258'
 title: Worthy of Love
 uri: /organizations/worthy-of-love/
+challenge_url: 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'
 
 ---

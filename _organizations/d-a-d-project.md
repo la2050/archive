@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
 organization_id: '2016062'
 year_submitted: '2016'
 organization_name: D.A.D Project
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016062'
 title: D.A.D Project
 uri: /organizations/d-a-d-project/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
 
 ---

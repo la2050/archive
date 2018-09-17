@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
 organization_id: '2013028'
 year_submitted: '2013'
 organization_name: California Greenworks
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013028'
 title: California Greenworks
 uri: /organizations/california-greenworks/
+challenge_url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
 
 ---

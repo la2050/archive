@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
 organization_id: '2018125'
 year_submitted: '2018'
 organization_name: 'Think Tank Productions, Inc. dba Think Tank Gallery'
@@ -44,6 +42,8 @@ project_ids: '5102319'
 organization_id_2: '2018125'
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
+challenge_url: >-
+  https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
 category: create
 
 ---

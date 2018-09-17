@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'
 organization_id: '2016172'
 year_submitted: '2016'
 organization_name: Planned Parenthood Los Angeles (PPLA)
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2016172'
 title: Planned Parenthood Los Angeles (PPLA)
 uri: /organizations/planned-parenthood-los-angeles-ppla/
+challenge_url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'
 
 ---

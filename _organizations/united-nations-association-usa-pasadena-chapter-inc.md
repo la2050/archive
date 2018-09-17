@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
 organization_id: '2016245'
 year_submitted: '2016'
 organization_name: United Nations Association-USA Pasadena Chapter Inc.
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2016245'
 title: United Nations Association-USA Pasadena Chapter Inc.
 uri: /organizations/united-nations-association-usa-pasadena-chapter-inc/
+challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
 
 ---

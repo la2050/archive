@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
 organization_id: '2018025'
 year_submitted: '2018'
 organization_name: City of Los Angeles Information Technology Agency
@@ -30,6 +28,8 @@ project_ids: '8102025'
 organization_id_2: '2018025'
 title: City of Los Angeles Information Technology Agency
 uri: /organizations/city-of-los-angeles-information-technology-agency/
+challenge_url: >-
+  https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
 category: learn
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
 organization_id: '2016188'
 year_submitted: '2016'
 organization_name: Safe Refuge
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016188'
 title: Safe Refuge
 uri: /organizations/safe-refuge/
+challenge_url: >-
+  https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
 
 ---

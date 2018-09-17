@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
 organization_id: '2016235'
 year_submitted: '2016'
 organization_name: thecool
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016235'
 title: thecool
 uri: /organizations/thecool/
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
 
 ---

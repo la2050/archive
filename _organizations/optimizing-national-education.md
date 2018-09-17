@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/Welcome.html'
 organization_id: '2014065'
 year_submitted: '2014'
 organization_name: Optimizing National Education
@@ -26,5 +25,6 @@ project_ids: '4102066'
 organization_id_2: '2014065'
 title: Optimizing National Education
 uri: /organizations/optimizing-national-education/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Welcome.html'
 
 ---

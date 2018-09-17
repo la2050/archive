@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
 organization_id: '2016031'
 year_submitted: '2016'
 organization_name: California Partnership
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016031'
 title: California Partnership
 uri: /organizations/california-partnership/
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
 
 ---

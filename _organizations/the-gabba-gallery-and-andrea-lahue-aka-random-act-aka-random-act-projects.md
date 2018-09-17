@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
 organization_id: '2014089'
 year_submitted: '2014'
 organization_name: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
@@ -25,5 +24,6 @@ organization_id_2: '2014089'
 title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 uri: >-
   /organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
 
 ---

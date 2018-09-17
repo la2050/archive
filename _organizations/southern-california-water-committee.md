@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
 organization_id: '2015189'
 year_submitted: '2015'
 organization_name: Southern California Water Committee
@@ -25,5 +24,6 @@ project_ids: '5102277'
 organization_id_2: '2015189'
 title: Southern California Water Committee
 uri: /organizations/southern-california-water-committee/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
 
 ---

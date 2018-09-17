@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
 organization_id: '2016174'
 year_submitted: '2016'
 organization_name: Plantaware
@@ -30,5 +29,6 @@ project_ids: '4102198'
 organization_id_2: '2016174'
 title: Plantaware
 uri: /organizations/plantaware/
+challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
 
 ---

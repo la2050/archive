@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
 organization_id: '2016094'
 year_submitted: '2016'
 organization_name: Groceryships and Netiya
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016094'
 title: Groceryships and Netiya
 uri: /organizations/groceryships-and-netiya/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
 
 ---

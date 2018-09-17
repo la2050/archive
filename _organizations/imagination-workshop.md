@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014155'
 year_submitted: '2014'
 organization_name: Imagination Workshop
@@ -22,5 +21,6 @@ project_ids: '4102137'
 organization_id_2: '2014155'
 title: Imagination Workshop
 uri: /organizations/imagination-workshop/
+challenge_url: ''
 
 ---

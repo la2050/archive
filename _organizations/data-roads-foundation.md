@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/data-roads-foundation/'
 organization_id: '2018034'
 year_submitted: '2018'
 organization_name: Data Roads Foundation
@@ -37,6 +36,7 @@ project_ids: '8102034'
 organization_id_2: '2018034'
 title: Data Roads Foundation
 uri: /organizations/data-roads-foundation/
+challenge_url: 'https://activation.la2050.org/connect/data-roads-foundation/'
 category: connect
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
 organization_id: '2016033'
 year_submitted: '2016'
 organization_name: CALO YouthBuild
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016033'
 title: CALO YouthBuild
 uri: /organizations/calo-youthbuild/
+challenge_url: >-
+  https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
 
 ---

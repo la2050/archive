@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/cardborigami-inc/'
 organization_id: '2018013'
 year_submitted: '2018'
 organization_name: Cardborigami Inc
@@ -35,6 +34,7 @@ project_ids: '8102013'
 organization_id_2: '2018013'
 title: Cardborigami Inc
 uri: /organizations/cardborigami-inc/
+challenge_url: 'https://activation.la2050.org/live/cardborigami-inc/'
 category: live
 
 ---

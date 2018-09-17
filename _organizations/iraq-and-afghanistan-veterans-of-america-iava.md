@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
 organization_id: '2015093'
 year_submitted: '2015'
 organization_name: Iraq and Afghanistan Veterans of America (IAVA)
@@ -26,5 +25,6 @@ project_ids: '5102144'
 organization_id_2: '2015093'
 title: Iraq and Afghanistan Veterans of America (IAVA)
 uri: /organizations/iraq-and-afghanistan-veterans-of-america-iava/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
 
 ---

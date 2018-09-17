@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
 organization_id: '2015135'
 year_submitted: '2015'
 organization_name: Media Done Responsibly c/o Pasadena Arts Council
@@ -27,5 +26,6 @@ project_ids: '5102204'
 organization_id_2: '2015135'
 title: Media Done Responsibly c/o Pasadena Arts Council
 uri: /organizations/media-done-responsibly-c-o-pasadena-arts-council/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
 
 ---

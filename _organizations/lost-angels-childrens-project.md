@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
 organization_id: '2016141'
 year_submitted: '2016'
 organization_name: Lost Angels Children's Project
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016141'
 title: Lost Angels Children's Project
 uri: /organizations/lost-angels-childrens-project/
+challenge_url: >-
+  https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
 
 ---

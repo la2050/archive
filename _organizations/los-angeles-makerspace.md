@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/lamakerspace.html'
 organization_id: '2013125'
 year_submitted: '2013'
 organization_name: Los Angeles Makerspace
@@ -61,5 +60,6 @@ project_ids: ''
 organization_id_2: '2013125'
 title: Los Angeles Makerspace
 uri: /organizations/los-angeles-makerspace/
+challenge_url: 'http://maker.good.is/myla2050/projects/lamakerspace.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/crayon-collection/'
 organization_id: '2018032'
 year_submitted: '2018'
 organization_name: Crayon Collection
@@ -41,6 +40,7 @@ project_ids: '8102032'
 organization_id_2: '2018032'
 title: Crayon Collection
 uri: /organizations/crayon-collection/
+challenge_url: 'https://activation.la2050.org/learn/crayon-collection/'
 category: learn
 
 ---

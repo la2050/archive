@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014228'
 year_submitted: '2014'
 organization_name: 'WriteGirl, a project of Community Partners'
@@ -24,5 +23,6 @@ project_ids: '4102188'
 organization_id_2: '2014228'
 title: 'WriteGirl, a project of Community Partners'
 uri: /organizations/writegirl-a-project-of-community-partners/
+challenge_url: ''
 
 ---

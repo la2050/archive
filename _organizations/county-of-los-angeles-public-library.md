@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
 organization_id: '2016060'
 year_submitted: '2016'
 organization_name: County of Los Angeles Public Library
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016060'
 title: County of Los Angeles Public Library
 uri: /organizations/county-of-los-angeles-public-library/
+challenge_url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
 
 ---

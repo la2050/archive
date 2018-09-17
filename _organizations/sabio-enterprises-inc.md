@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/Transformation.html'
 organization_id: '2014078'
 year_submitted: '2014'
 organization_name: 'Sabio Enterprises, Inc.'
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014078'
 title: 'Sabio Enterprises, Inc.'
 uri: /organizations/sabio-enterprises-inc/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Transformation.html'
 
 ---

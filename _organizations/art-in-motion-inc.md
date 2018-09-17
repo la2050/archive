@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
 organization_id: '2014009'
 year_submitted: '2014'
 organization_name: 'Art In Motion, Inc.'
@@ -24,5 +23,6 @@ project_ids: '4102010'
 organization_id_2: '2014009'
 title: 'Art In Motion, Inc.'
 uri: /organizations/art-in-motion-inc/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
 
 ---

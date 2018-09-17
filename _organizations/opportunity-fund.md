@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/opportunity-fund/'
 organization_id: '2018093'
 year_submitted: '2018'
 organization_name: Opportunity Fund
@@ -46,6 +45,7 @@ project_ids: '8102093'
 organization_id_2: '2018093'
 title: Opportunity Fund
 uri: /organizations/opportunity-fund/
+challenge_url: 'https://activation.la2050.org/create/opportunity-fund/'
 category: create
 
 ---

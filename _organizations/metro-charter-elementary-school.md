@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
 organization_id: '2016147'
 year_submitted: '2016'
 organization_name: METRO Charter Elementary School
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016147'
 title: METRO Charter Elementary School
 uri: /organizations/metro-charter-elementary-school/
+challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
 organization_id: '2013081'
 year_submitted: '2013'
 organization_name: GlobalGirl Media
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013081'
 title: GlobalGirl Media
 uri: /organizations/globalgirl-media/
+challenge_url: 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
 
 ---

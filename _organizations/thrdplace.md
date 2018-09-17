@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
 organization_id: '2013198'
 year_submitted: '2013'
 organization_name: ThrdPlace
@@ -26,5 +25,6 @@ project_ids: '4102057'
 organization_id_2: '2013198'
 title: ThrdPlace
 uri: /organizations/thrdplace/
+challenge_url: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
 organization_id: '2013026'
 year_submitted: '2013'
 organization_name: California Calls
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013026'
 title: California Calls
 uri: /organizations/california-calls/
+challenge_url: 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/access.html'
 organization_id: '2013056'
 year_submitted: '2013'
 organization_name: Educating Young Minds
@@ -71,5 +70,6 @@ project_ids: ''
 organization_id_2: '2013056'
 title: Educating Young Minds
 uri: /organizations/educating-young-minds/
+challenge_url: 'http://maker.good.is/myla2050/projects/access.html'
 
 ---

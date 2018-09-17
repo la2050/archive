@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
 organization_id: '2016263'
 year_submitted: '2016'
 organization_name: Zeneith Performing Arts
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016263'
 title: Zeneith Performing Arts
 uri: /organizations/zeneith-performing-arts/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
 
 ---

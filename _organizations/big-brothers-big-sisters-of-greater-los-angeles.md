@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
 organization_id: '2018007'
 year_submitted: '2018'
 organization_name: Big Brothers Big Sisters of Greater Los Angeles
@@ -44,6 +42,8 @@ project_ids: '8102007'
 organization_id_2: '2018007'
 title: Big Brothers Big Sisters of Greater Los Angeles
 uri: /organizations/big-brothers-big-sisters-of-greater-los-angeles/
+challenge_url: >-
+  https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
 category: learn
 
 ---

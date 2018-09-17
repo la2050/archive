@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
 organization_id: '2014101'
 year_submitted: '2014'
 organization_name: UCLA Extension Landscape Architecture Program
@@ -24,5 +23,6 @@ project_ids: '4102100'
 organization_id_2: '2014101'
 title: UCLA Extension Landscape Architecture Program
 uri: /organizations/ucla-extension-landscape-architecture-program/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
 
 ---

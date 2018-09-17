@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
 organization_id: '2018056'
 year_submitted: '2018'
 organization_name: Justice LA | Dignity and Power Now
@@ -31,6 +30,7 @@ project_ids: '8102056'
 organization_id_2: '2018056'
 title: Justice LA | Dignity and Power Now
 uri: /organizations/justice-la-dignity-and-power-now/
+challenge_url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
 category: connect
 
 ---

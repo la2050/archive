@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
 organization_id: '2016056'
 year_submitted: '2016'
 organization_name: ConnectEd
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016056'
 title: ConnectEd
 uri: /organizations/connected/
+challenge_url: >-
+  https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
 organization_id: '2015068'
 year_submitted: '2015'
 organization_name: Friends of the Hollywood Central Park (FHCP)
@@ -26,5 +25,6 @@ project_ids: '5102106'
 organization_id_2: '2015068'
 title: Friends of the Hollywood Central Park (FHCP)
 uri: /organizations/friends-of-the-hollywood-central-park-fhcp/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
 
 ---

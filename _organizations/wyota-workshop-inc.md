@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
 organization_id: '2016260'
 year_submitted: '2016'
 organization_name: 'Wyota Workshop, Inc.'
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016260'
 title: 'Wyota Workshop, Inc.'
 uri: /organizations/wyota-workshop-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
 
 ---

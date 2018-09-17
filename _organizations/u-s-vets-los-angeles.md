@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/housevets.html'
 organization_id: '2013200'
 year_submitted: '2013'
 organization_name: U.S. VETS - Los Angeles
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013200'
 title: U.S. VETS - Los Angeles
 uri: /organizations/u-s-vets-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/housevets.html'
 
 ---

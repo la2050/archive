@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
 organization_id: '2014039'
 year_submitted: '2014'
 organization_name: Getting Your Sh*t Together (GYST-INK)
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014039'
 title: Getting Your Sh*t Together (GYST-INK)
 uri: /organizations/getting-your-sh*t-together-gyst-ink/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
 
 ---

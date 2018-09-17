@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/data-360/'
 organization_id: '2018033'
 year_submitted: '2018'
 organization_name: Data 360
@@ -32,6 +31,7 @@ project_ids: '4102106'
 organization_id_2: '2018033'
 title: Data 360
 uri: /organizations/data-360/
+challenge_url: 'https://activation.la2050.org/learn/data-360/'
 category: learn
 
 ---

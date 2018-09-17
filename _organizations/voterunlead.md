@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/voterunlead/'
 organization_id: '2018134'
 year_submitted: '2018'
 organization_name: VoteRunLead
@@ -30,6 +29,7 @@ project_ids: '8102134'
 organization_id_2: '2018134'
 title: VoteRunLead
 uri: /organizations/voterunlead/
+challenge_url: 'https://activation.la2050.org/connect/voterunlead/'
 category: connect
 
 ---

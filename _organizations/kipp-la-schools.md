@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
 organization_id: '2013107'
 year_submitted: '2013'
 organization_name: KIPP LA Schools
@@ -37,5 +36,6 @@ project_ids: ''
 organization_id_2: '2013107'
 title: KIPP LA Schools
 uri: /organizations/kipp-la-schools/
+challenge_url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
 
 ---

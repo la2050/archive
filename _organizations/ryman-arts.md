@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
 organization_id: '2016186'
 year_submitted: '2016'
 organization_name: Ryman Arts
@@ -38,5 +36,7 @@ project_ids: ''
 organization_id_2: '2016186'
 title: Ryman Arts
 uri: /organizations/ryman-arts/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
 
 ---

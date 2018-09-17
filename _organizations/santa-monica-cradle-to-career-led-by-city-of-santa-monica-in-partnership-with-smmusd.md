@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
 organization_id: '2015174'
 year_submitted: '2015'
 organization_name: >-
@@ -30,5 +29,6 @@ title: >-
   SMMUSD
 uri: >-
   /organizations/santa-monica-cradle-to-career-led-by-city-of-santa-monica-in-partnership-with-smmusd/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
 
 ---

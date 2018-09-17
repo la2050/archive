@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014119'
 year_submitted: '2014'
 organization_name: Boys & Girls Clubs of the Los Angeles Harbor
@@ -24,5 +23,6 @@ project_ids: '4102117'
 organization_id_2: '2014119'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 uri: /organizations/boys-girls-clubs-of-the-los-angeles-harbor/
+challenge_url: ''
 
 ---

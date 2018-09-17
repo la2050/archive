@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
 organization_id: '2013008'
 year_submitted: '2013'
 organization_name: Alma Family Services
@@ -44,5 +43,6 @@ project_ids: ''
 organization_id_2: '2013008'
 title: Alma Family Services
 uri: /organizations/alma-family-services/
+challenge_url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
 
 ---

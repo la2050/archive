@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014229'
 year_submitted: '2014'
 organization_name: Young Invincibles
@@ -24,5 +23,6 @@ project_ids: '4102189'
 organization_id_2: '2014229'
 title: Young Invincibles
 uri: /organizations/young-invincibles/
+challenge_url: ''
 
 ---

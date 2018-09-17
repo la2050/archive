@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
 organization_id: '2015077'
 year_submitted: '2015'
 organization_name: GREENBOXFARMS
@@ -24,5 +23,6 @@ project_ids: '5102090'
 organization_id_2: '2015077'
 title: GREENBOXFARMS
 uri: /organizations/greenboxfarms/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
 
 ---

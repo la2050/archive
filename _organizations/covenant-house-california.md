@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/the-precise-barber-college'
 organization_id: '2016061'
 year_submitted: '2016'
 organization_name: Covenant House California
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016061'
 title: Covenant House California
 uri: /organizations/covenant-house-california/
+challenge_url: 'https://challenge.la2050.org/entry/the-precise-barber-college'
 
 ---

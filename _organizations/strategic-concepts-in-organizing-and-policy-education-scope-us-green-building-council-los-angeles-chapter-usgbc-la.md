@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
 organization_id: '2015191'
 year_submitted: '2015'
 organization_name: >-
@@ -30,5 +29,6 @@ title: >-
   Building Council Los Angeles Chapter (USGBC-LA)
 uri: >-
   /organizations/strategic-concepts-in-organizing-and-policy-education-scope-us-green-building-council-los-angeles-chapter-usgbc-la/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
 
 ---

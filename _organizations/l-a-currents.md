@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
 organization_id: '2013109'
 year_submitted: '2013'
 organization_name: L.A. Currents
@@ -39,5 +38,6 @@ project_ids: '8102024'
 organization_id_2: '2013109'
 title: L.A. Currents
 uri: /organizations/l-a-currents/
+challenge_url: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
 
 ---

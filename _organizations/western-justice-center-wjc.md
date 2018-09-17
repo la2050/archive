@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014224'
 year_submitted: '2014'
 organization_name: Western Justice Center (WJC)
@@ -24,5 +23,6 @@ project_ids: '4102184'
 organization_id_2: '2014224'
 title: Western Justice Center (WJC)
 uri: /organizations/western-justice-center-wjc/
+challenge_url: ''
 
 ---

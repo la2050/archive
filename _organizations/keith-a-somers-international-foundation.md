@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
 organization_id: '2015103'
 year_submitted: '2015'
 organization_name: Keith A. Somers International Foundation
@@ -25,5 +24,6 @@ project_ids: '5102159'
 organization_id_2: '2015103'
 title: Keith A. Somers International Foundation
 uri: /organizations/keith-a-somers-international-foundation/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
 
 ---

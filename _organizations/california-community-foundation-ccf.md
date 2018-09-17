@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/BLOOM.html'
 organization_id: '2013027'
 year_submitted: '2013'
 organization_name: California Community Foundation (CCF)
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013027'
 title: California Community Foundation (CCF)
 uri: /organizations/california-community-foundation-ccf/
+challenge_url: 'http://maker.good.is/myla2050/projects/BLOOM.html'
 
 ---

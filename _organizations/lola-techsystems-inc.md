@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/lola-techsystems-inc/'
 organization_id: '2018070'
 year_submitted: '2018'
 organization_name: 'Lola Techsystems, Inc.'
@@ -32,6 +31,7 @@ project_ids: '8102105'
 organization_id_2: '2018070'
 title: 'Lola Techsystems, Inc.'
 uri: /organizations/lola-techsystems-inc/
+challenge_url: 'https://activation.la2050.org/learn/lola-techsystems-inc/'
 category: learn
 
 ---

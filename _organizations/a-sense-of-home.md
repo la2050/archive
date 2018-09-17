@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
 organization_id: '2016004'
 year_submitted: '2016'
 organization_name: A Sense of Home
@@ -34,5 +32,7 @@ project_ids: ''
 organization_id_2: '2016004'
 title: A Sense of Home
 uri: /organizations/a-sense-of-home/
+challenge_url: >-
+  https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
 
 ---

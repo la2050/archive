@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
 organization_id: '2015082'
 year_submitted: '2015'
 organization_name: 'HDomes.com, Shacklebrand Designs'
@@ -24,5 +23,6 @@ project_ids: '5102128'
 organization_id_2: '2015082'
 title: 'HDomes.com, Shacklebrand Designs'
 uri: /organizations/hdomes-com-shacklebrand-designs/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
 
 ---

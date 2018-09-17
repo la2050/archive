@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
 organization_id: '2016014'
 year_submitted: '2016'
 organization_name: Arts Bridging the Gap
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016014'
 title: Arts Bridging the Gap
 uri: /organizations/arts-bridging-the-gap/
+challenge_url: >-
+  https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
 
 ---

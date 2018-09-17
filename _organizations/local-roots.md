@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
 organization_id: '2015117'
 year_submitted: '2015'
 organization_name: Local Roots
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2015117'
 title: Local Roots
 uri: /organizations/local-roots/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
 
 ---

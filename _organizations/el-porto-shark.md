@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
 organization_id: '2016069'
 year_submitted: '2016'
 organization_name: El Porto Shark
@@ -30,5 +28,7 @@ project_ids: '8102070'
 organization_id_2: '2016069'
 title: El Porto Shark
 uri: /organizations/el-porto-shark/
+challenge_url: >-
+  https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
 
 ---

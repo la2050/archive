@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
 organization_id: '2014005'
 year_submitted: '2014'
 organization_name: Alma Backyard Farms
@@ -24,5 +23,6 @@ project_ids: '4102006'
 organization_id_2: '2014005'
 title: Alma Backyard Farms
 uri: /organizations/alma-backyard-farms/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
 
 ---

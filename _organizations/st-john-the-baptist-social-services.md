@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
 organization_id: '2013171'
 year_submitted: '2013'
 organization_name: St. John the Baptist Social Services
@@ -62,5 +61,6 @@ project_ids: ''
 organization_id_2: '2013171'
 title: St. John the Baptist Social Services
 uri: /organizations/st-john-the-baptist-social-services/
+challenge_url: 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
 
 ---

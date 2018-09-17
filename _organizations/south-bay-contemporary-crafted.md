@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
 organization_id: '2015185'
 year_submitted: '2015'
 organization_name: 'South Bay Contemporary, CRAFTED'
@@ -26,5 +25,6 @@ project_ids: '5102274'
 organization_id_2: '2015185'
 title: 'South Bay Contemporary, CRAFTED'
 uri: /organizations/south-bay-contemporary-crafted/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
 
 ---

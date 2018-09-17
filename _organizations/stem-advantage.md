@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
 organization_id: '2016202'
 year_submitted: '2016'
 organization_name: STEM Advantage
@@ -35,5 +33,7 @@ project_ids: ''
 organization_id_2: '2016202'
 title: STEM Advantage
 uri: /organizations/stem-advantage/
+challenge_url: >-
+  https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
 
 ---

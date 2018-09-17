@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/environment-california-research-policy-center/
 organization_id: '2018037'
 year_submitted: '2018'
 organization_name: Environment California Research & Policy Center
@@ -47,6 +45,8 @@ project_ids: '8102037'
 organization_id_2: '2018037'
 title: Environment California Research & Policy Center
 uri: /organizations/environment-california-research-policy-center/
+challenge_url: >-
+  https://activation.la2050.org/live/environment-california-research-policy-center/
 category: live
 
 ---

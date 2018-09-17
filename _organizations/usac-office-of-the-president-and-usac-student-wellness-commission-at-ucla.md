@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
 organization_id: '2015222'
 year_submitted: '2015'
 organization_name: USAC Office of the President and USAC Student Wellness Commission at UCLA
@@ -29,5 +28,6 @@ organization_id_2: '2015222'
 title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 uri: >-
   /organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
 
 ---

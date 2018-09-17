@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/california-native-plant-public-education-project
 organization_id: '2016127'
 year_submitted: '2016'
 organization_name: Landscape Integrity Films and Education (LIFE)
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016127'
 title: Landscape Integrity Films and Education (LIFE)
 uri: /organizations/landscape-integrity-films-and-education-life/
+challenge_url: >-
+  https://challenge.la2050.org/entry/california-native-plant-public-education-project
 
 ---

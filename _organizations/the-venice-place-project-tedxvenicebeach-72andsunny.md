@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
 organization_id: '2015209'
 year_submitted: '2015'
 organization_name: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
@@ -25,5 +24,6 @@ project_ids: '5102314'
 organization_id_2: '2015209'
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 uri: /organizations/the-venice-place-project-tedxvenicebeach-72andsunny/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
 
 ---

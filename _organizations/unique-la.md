@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
 organization_id: '2013205'
 year_submitted: '2013'
 organization_name: UNIQUE LA
@@ -46,5 +45,6 @@ project_ids: ''
 organization_id_2: '2013205'
 title: UNIQUE LA
 uri: /organizations/unique-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
 
 ---

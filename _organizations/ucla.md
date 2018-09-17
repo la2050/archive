@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
 organization_id: '2015216'
 year_submitted: '2015'
 organization_name: UCLA
@@ -26,5 +25,6 @@ project_ids: '5102327'
 organization_id_2: '2015216'
 title: UCLA
 uri: /organizations/ucla/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
 
 ---

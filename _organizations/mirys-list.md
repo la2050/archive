@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/mirys-list/'
 organization_id: '2018083'
 year_submitted: '2018'
 organization_name: Miry’s List
@@ -30,6 +29,7 @@ project_ids: '8102083'
 organization_id_2: '2018083'
 title: Miry’s List
 uri: /organizations/mirys-list/
+challenge_url: 'https://activation.la2050.org/connect/mirys-list/'
 category: connect
 
 ---

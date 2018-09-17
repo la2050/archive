@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/la-votes'
 organization_id: '2016036'
 year_submitted: '2016'
 organization_name: Center for the Study of Los Angeles
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2016036'
 title: Center for the Study of Los Angeles
 uri: /organizations/center-for-the-study-of-los-angeles/
+challenge_url: 'https://challenge.la2050.org/entry/la-votes'
 
 ---

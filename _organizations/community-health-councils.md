@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
 organization_id: '2016053'
 year_submitted: '2016'
 organization_name: Community Health Councils
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016053'
 title: Community Health Councils
 uri: /organizations/community-health-councils/
+challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
 organization_id: '2016164'
 year_submitted: '2016'
 organization_name: Patrick Henry Foundation
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016164'
 title: Patrick Henry Foundation
 uri: /organizations/patrick-henry-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
 
 ---

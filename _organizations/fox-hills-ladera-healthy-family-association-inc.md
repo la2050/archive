@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
 organization_id: '2014036'
 year_submitted: '2014'
 organization_name: Fox Hills Ladera Healthy Family Association Inc.
@@ -24,5 +23,6 @@ project_ids: '4102037'
 organization_id_2: '2014036'
 title: Fox Hills Ladera Healthy Family Association Inc.
 uri: /organizations/fox-hills-ladera-healthy-family-association-inc/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
 organization_id: '2013098'
 year_submitted: '2013'
 organization_name: Institute for Nonviolence in Los Angeles
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2013098'
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
 
 ---

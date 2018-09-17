@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
 organization_id: '2013211'
 year_submitted: '2013'
 organization_name: ValhalLA
@@ -37,5 +36,6 @@ project_ids: ''
 organization_id_2: '2013211'
 title: ValhalLA
 uri: /organizations/valhalla/
+challenge_url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
 
 ---

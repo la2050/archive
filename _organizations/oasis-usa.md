@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/oasisusa.html'
 organization_id: '2013146'
 year_submitted: '2013'
 organization_name: Oasis USA
@@ -61,5 +60,6 @@ project_ids: ''
 organization_id_2: '2013146'
 title: Oasis USA
 uri: /organizations/oasis-usa/
+challenge_url: 'http://maker.good.is/myla2050/projects/oasisusa.html'
 
 ---

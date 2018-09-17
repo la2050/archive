@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/voices.html'
 organization_id: '2013065'
 year_submitted: '2013'
 organization_name: Filipino Migrant Center
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013065'
 title: Filipino Migrant Center
 uri: /organizations/filipino-migrant-center/
+challenge_url: 'http://maker.good.is/myla2050/projects/voices.html'
 
 ---

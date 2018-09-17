@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
 organization_id: '2016113'
 year_submitted: '2016'
 organization_name: 'Jenesse Center, Inc.'
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016113'
 title: 'Jenesse Center, Inc.'
 uri: /organizations/jenesse-center-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
 
 ---

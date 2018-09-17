@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
 organization_id: '2015197'
 year_submitted: '2015'
 organization_name: The Center of Medical Multimedia Education and Technology (COMMET)
@@ -25,5 +24,6 @@ organization_id_2: '2015197'
 title: The Center of Medical Multimedia Education and Technology (COMMET)
 uri: >-
   /organizations/the-center-of-medical-multimedia-education-and-technology-commet/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
 
 ---

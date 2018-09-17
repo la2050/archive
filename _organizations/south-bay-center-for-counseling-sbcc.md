@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
 organization_id: '2016197'
 year_submitted: '2016'
 organization_name: South Bay Center for Counseling (SBCC)
@@ -37,5 +35,7 @@ project_ids: ''
 organization_id_2: '2016197'
 title: South Bay Center for Counseling (SBCC)
 uri: /organizations/south-bay-center-for-counseling-sbcc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
 
 ---

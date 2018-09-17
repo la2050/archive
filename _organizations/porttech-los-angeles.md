@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
 organization_id: '2014070'
 year_submitted: '2014'
 organization_name: PortTech Los Angeles
@@ -24,5 +23,6 @@ project_ids: '4102071'
 organization_id_2: '2014070'
 title: PortTech Los Angeles
 uri: /organizations/porttech-los-angeles/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
 
 ---

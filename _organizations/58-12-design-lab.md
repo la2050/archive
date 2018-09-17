@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/lastories.html'
 organization_id: '2013001'
 year_submitted: '2013'
 organization_name: 58-12 Design Lab
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013001'
 title: 58-12 Design Lab
 uri: /organizations/58-12-design-lab/
+challenge_url: 'http://maker.good.is/myla2050/projects/lastories.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
 organization_id: '2018072'
 year_submitted: '2018'
 organization_name: Los Angeles Alliance for a New Economy-Fair Workweek
@@ -32,6 +30,8 @@ project_ids: '8102072'
 organization_id_2: '2018072'
 title: Los Angeles Alliance for a New Economy-Fair Workweek
 uri: /organizations/los-angeles-alliance-for-a-new-economy-fair-workweek/
+challenge_url: >-
+  https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'
 organization_id: '2015192'
 year_submitted: '2015'
 organization_name: Sustainablesurf.org
@@ -26,5 +25,6 @@ project_ids: '5102283'
 organization_id_2: '2015192'
 title: Sustainablesurf.org
 uri: /organizations/sustainablesurf-org/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'
 
 ---

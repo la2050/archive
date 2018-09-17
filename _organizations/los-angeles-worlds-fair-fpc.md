@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/SustainableFutureLA.html'
 organization_id: '2015132'
 year_submitted: '2015'
 organization_name: 'Los Angeles World''s Fair, FPC'
@@ -27,5 +26,6 @@ project_ids: '5102199'
 organization_id_2: '2015132'
 title: 'Los Angeles World''s Fair, FPC'
 uri: /organizations/los-angeles-worlds-fair-fpc/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/SustainableFutureLA.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
 organization_id: '2016007'
 year_submitted: '2016'
 organization_name: AltaSea at the Port of Los Angeles
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016007'
 title: AltaSea at the Port of Los Angeles
 uri: /organizations/altasea-at-the-port-of-los-angeles/
+challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
 
 ---

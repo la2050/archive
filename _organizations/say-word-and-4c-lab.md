@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
 organization_id: '2016190'
 year_submitted: '2016'
 organization_name: Say Word and 4C LAB
@@ -34,5 +32,7 @@ project_ids: ''
 organization_id_2: '2016190'
 title: Say Word and 4C LAB
 uri: /organizations/say-word-and-4c-lab/
+challenge_url: >-
+  https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
 
 ---

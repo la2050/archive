@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
 organization_id: '2015074'
 year_submitted: '2015'
 organization_name: Great Minds STEM Society
@@ -25,5 +24,6 @@ project_ids: '5102116'
 organization_id_2: '2015074'
 title: Great Minds STEM Society
 uri: /organizations/great-minds-stem-society/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
 
 ---

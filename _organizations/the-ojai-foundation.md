@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
 organization_id: '2016228'
 year_submitted: '2016'
 organization_name: The Ojai Foundation
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016228'
 title: The Ojai Foundation
 uri: /organizations/the-ojai-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
 organization_id: '2018117'
 year_submitted: '2018'
 organization_name: The Brady Center to Prevent Gun Violence
@@ -32,6 +31,7 @@ project_ids: '8102117'
 organization_id_2: '2018117'
 title: The Brady Center to Prevent Gun Violence
 uri: /organizations/the-brady-center-to-prevent-gun-violence/
+challenge_url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
 category: play
 
 ---

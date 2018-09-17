@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
 organization_id: '2015149'
 year_submitted: '2015'
 organization_name: Palisades Charter High School (PCHS)
@@ -26,5 +25,6 @@ project_ids: '5102226'
 organization_id_2: '2015149'
 title: Palisades Charter High School (PCHS)
 uri: /organizations/palisades-charter-high-school-pchs/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
 
 ---

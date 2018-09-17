@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
 organization_id: '2016038'
 year_submitted: '2016'
 organization_name: 'Citizens of the World Charter Schools, Los Angeles'
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016038'
 title: 'Citizens of the World Charter Schools, Los Angeles'
 uri: /organizations/citizens-of-the-world-charter-schools-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
 
 ---

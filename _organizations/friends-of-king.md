@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/la-plays-at-king'
 organization_id: '2016083'
 year_submitted: '2016'
 organization_name: Friends of King
@@ -32,5 +31,6 @@ project_ids: ''
 organization_id_2: '2016083'
 title: Friends of King
 uri: /organizations/friends-of-king/
+challenge_url: 'https://challenge.la2050.org/entry/la-plays-at-king'
 
 ---

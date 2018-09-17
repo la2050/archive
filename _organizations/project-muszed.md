@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
 organization_id: '2015160'
 year_submitted: '2015'
 organization_name: Project MuszEd
@@ -24,5 +23,6 @@ project_ids: '5102244'
 organization_id_2: '2015160'
 title: Project MuszEd
 uri: /organizations/project-muszed/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
 
 ---

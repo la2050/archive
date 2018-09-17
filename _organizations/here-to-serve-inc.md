@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
 organization_id: '2016099'
 year_submitted: '2016'
 organization_name: 'Here to Serve, Inc'
@@ -40,5 +38,7 @@ project_ids: ''
 organization_id_2: '2016099'
 title: 'Here to Serve, Inc'
 uri: /organizations/here-to-serve-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
 
 ---

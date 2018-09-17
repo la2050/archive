@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/agency-of-assets'
 organization_id: '2016111'
 year_submitted: '2016'
 organization_name: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2016111'
 title: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 uri: /organizations/institute-of-contemporary-art-los-angeles-ica-la/
+challenge_url: 'https://challenge.la2050.org/entry/agency-of-assets'
 
 ---

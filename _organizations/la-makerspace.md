@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
 organization_id: '2015108'
 year_submitted: '2015'
 organization_name: LA Makerspace
@@ -27,5 +26,6 @@ project_ids: '5102168'
 organization_id_2: '2015108'
 title: LA Makerspace
 uri: /organizations/la-makerspace/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
 
 ---

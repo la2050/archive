@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
 organization_id: '2016160'
 year_submitted: '2016'
 organization_name: Operation Gratitude
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016160'
 title: Operation Gratitude
 uri: /organizations/operation-gratitude/
+challenge_url: >-
+  https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
 
 ---

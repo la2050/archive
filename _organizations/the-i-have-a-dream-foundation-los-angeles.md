@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ihaveadream.html'
 organization_id: '2013182'
 year_submitted: '2013'
 organization_name: The "I Have a Dream" Foundation - Los Angeles
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013182'
 title: The "I Have a Dream" Foundation - Los Angeles
 uri: /organizations/the-i-have-a-dream-foundation-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/ihaveadream.html'
 
 ---

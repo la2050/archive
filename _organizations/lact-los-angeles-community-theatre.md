@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/LACT.html'
 organization_id: '2015110'
 year_submitted: '2015'
 organization_name: LACT - Los Angeles Community Theatre
@@ -22,5 +21,6 @@ project_ids: '5102171'
 organization_id_2: '2015110'
 title: LACT - Los Angeles Community Theatre
 uri: /organizations/lact-los-angeles-community-theatre/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/LACT.html'
 
 ---

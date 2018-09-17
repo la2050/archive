@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014225'
 year_submitted: '2014'
 organization_name: Westside Infant-Family Network (WIN)
@@ -24,5 +23,6 @@ project_ids: '4102185'
 organization_id_2: '2014225'
 title: Westside Infant-Family Network (WIN)
 uri: /organizations/westside-infant-family-network-win/
+challenge_url: ''
 
 ---

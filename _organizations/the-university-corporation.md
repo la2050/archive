@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
 organization_id: '2015208'
 year_submitted: '2015'
 organization_name: The University Corporation
@@ -27,5 +26,6 @@ project_ids: '5102313'
 organization_id_2: '2015208'
 title: The University Corporation
 uri: /organizations/the-university-corporation/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
 
 ---

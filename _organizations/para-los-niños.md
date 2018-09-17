@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'
 organization_id: '2015151'
 year_submitted: '2015'
 organization_name: Para Los Niños
@@ -24,5 +23,6 @@ project_ids: '5102228'
 organization_id_2: '2015151'
 title: Para Los Niños
 uri: /organizations/para-los-niños/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'
 
 ---

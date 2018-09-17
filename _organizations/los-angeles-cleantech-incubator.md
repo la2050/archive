@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
 organization_id: '2016134'
 year_submitted: '2016'
 organization_name: Los Angeles Cleantech Incubator
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2016134'
 title: Los Angeles Cleantech Incubator
 uri: /organizations/los-angeles-cleantech-incubator/
+challenge_url: 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
 
 ---

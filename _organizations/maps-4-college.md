@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html'
 organization_id: '2015133'
 year_submitted: '2015'
 organization_name: MAPS 4 College
@@ -25,5 +24,6 @@ project_ids: '5102202'
 organization_id_2: '2015133'
 title: MAPS 4 College
 uri: /organizations/maps-4-college/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html'
 
 ---

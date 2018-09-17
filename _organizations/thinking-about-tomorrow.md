@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
 organization_id: '2015211'
 year_submitted: '2015'
 organization_name: Thinking about Tomorrow
@@ -24,5 +23,6 @@ project_ids: '5102317'
 organization_id_2: '2015211'
 title: Thinking about Tomorrow
 uri: /organizations/thinking-about-tomorrow/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
 
 ---

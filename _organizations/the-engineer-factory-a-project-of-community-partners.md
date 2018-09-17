@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
 organization_id: '2016217'
 year_submitted: '2016'
 organization_name: 'The Engineer Factory, a project of Community Partners'
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016217'
 title: 'The Engineer Factory, a project of Community Partners'
 uri: /organizations/the-engineer-factory-a-project-of-community-partners/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
 
 ---

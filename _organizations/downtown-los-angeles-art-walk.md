@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html'
 organization_id: '2015050'
 year_submitted: '2015'
 organization_name: Downtown Los Angeles Art Walk
@@ -26,5 +25,6 @@ project_ids: '5102084'
 organization_id_2: '2015050'
 title: Downtown Los Angeles Art Walk
 uri: /organizations/downtown-los-angeles-art-walk/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html'
 
 ---

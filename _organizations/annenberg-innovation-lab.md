@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/sankofa-city'
 organization_id: '2016011'
 year_submitted: '2016'
 organization_name: Annenberg Innovation Lab
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016011'
 title: Annenberg Innovation Lab
 uri: /organizations/annenberg-innovation-lab/
+challenge_url: 'https://challenge.la2050.org/entry/sankofa-city'
 
 ---

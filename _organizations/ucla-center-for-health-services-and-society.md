@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
 organization_id: '2018129'
 year_submitted: '2018'
 organization_name: UCLA Center for Health Services and Society
@@ -33,6 +31,8 @@ project_ids: '8102129'
 organization_id_2: '2018129'
 title: UCLA Center for Health Services and Society
 uri: /organizations/ucla-center-for-health-services-and-society/
+challenge_url: >-
+  https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
 category: live
 
 ---

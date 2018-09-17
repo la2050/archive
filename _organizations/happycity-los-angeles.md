@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
 organization_id: '2015079'
 year_submitted: '2015'
 organization_name: HappyCity Los Angeles
@@ -28,5 +27,6 @@ project_ids: '5102125'
 organization_id_2: '2015079'
 title: HappyCity Los Angeles
 uri: /organizations/happycity-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
 
 ---

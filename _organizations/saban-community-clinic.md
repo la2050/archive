@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014189'
 year_submitted: '2014'
 organization_name: Saban Community Clinic
@@ -24,5 +23,6 @@ project_ids: '4102161'
 organization_id_2: '2014189'
 title: Saban Community Clinic
 uri: /organizations/saban-community-clinic/
+challenge_url: ''
 
 ---

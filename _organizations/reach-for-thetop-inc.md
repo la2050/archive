@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CasaAmador.html'
 organization_id: '2013160'
 year_submitted: '2013'
 organization_name: 'Reach For theTop, Inc.'
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2013160'
 title: 'Reach For theTop, Inc.'
 uri: /organizations/reach-for-thetop-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/CasaAmador.html'
 
 ---

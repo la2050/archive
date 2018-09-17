@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
 organization_id: '2013105'
 year_submitted: '2013'
 organization_name: Keely Hopkins & Associates
@@ -43,5 +42,6 @@ project_ids: '4102036'
 organization_id_2: '2013105'
 title: Keely Hopkins & Associates
 uri: /organizations/keely-hopkins-associates/
+challenge_url: 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
 
 ---

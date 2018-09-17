@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Artbound.html'
 organization_id: '2013103'
 year_submitted: '2013'
 organization_name: KCETLink
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013103'
 title: KCETLink
 uri: /organizations/kcetlink/
+challenge_url: 'http://maker.good.is/myla2050/projects/Artbound.html'
 
 ---

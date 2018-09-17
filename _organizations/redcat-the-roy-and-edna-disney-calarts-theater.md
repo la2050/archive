@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
 organization_id: '2013161'
 year_submitted: '2013'
 organization_name: REDCAT (The Roy and Edna Disney CalArts Theater)
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013161'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 uri: /organizations/redcat-the-roy-and-edna-disney-calarts-theater/
+challenge_url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
 
 ---

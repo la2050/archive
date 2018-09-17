@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'
 organization_id: '2013085'
 year_submitted: '2013'
 organization_name: Green Octopus Consulting
@@ -37,5 +36,6 @@ project_ids: '5102046'
 organization_id_2: '2013085'
 title: Green Octopus Consulting
 uri: /organizations/green-octopus-consulting/
+challenge_url: 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'
 
 ---

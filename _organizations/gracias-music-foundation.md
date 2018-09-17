@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/gracias-music-foundation/'
 organization_id: '2018048'
 year_submitted: '2018'
 organization_name: Gracias Music Foundation
@@ -36,6 +35,7 @@ project_ids: '8102048'
 organization_id_2: '2018048'
 title: Gracias Music Foundation
 uri: /organizations/gracias-music-foundation/
+challenge_url: 'https://activation.la2050.org/connect/gracias-music-foundation/'
 category: connect
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
 organization_id: '2016048'
 year_submitted: '2016'
 organization_name: College Track
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016048'
 title: College Track
 uri: /organizations/college-track/
+challenge_url: >-
+  https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
 
 ---

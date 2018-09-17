@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
 organization_id: '2016035'
 year_submitted: '2016'
 organization_name: Capital & Main
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016035'
 title: Capital & Main
 uri: /organizations/capital-main/
+challenge_url: >-
+  https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
 
 ---

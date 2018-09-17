@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/süprseed/'
 organization_id: '2018113'
 year_submitted: '2018'
 organization_name: 'SÜPRSEED, Inc.'
@@ -31,6 +30,7 @@ project_ids: '8102113'
 organization_id_2: '2018113'
 title: 'SÜPRSEED, Inc.'
 uri: /organizations/süprseed-inc/
+challenge_url: 'https://activation.la2050.org/live/süprseed/'
 category: live
 
 ---

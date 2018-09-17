@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
 organization_id: '2013131'
 year_submitted: '2013'
 organization_name: Materials & Applications
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013131'
 title: Materials & Applications
 uri: /organizations/materials-applications/
+challenge_url: 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
 
 ---

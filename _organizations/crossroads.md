@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
 organization_id: '2014024'
 year_submitted: '2014'
 organization_name: Crossroads
@@ -24,5 +23,6 @@ project_ids: '4102025'
 organization_id_2: '2014024'
 title: Crossroads
 uri: /organizations/crossroads/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
 
 ---

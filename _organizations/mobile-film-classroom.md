@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
 organization_id: '2014059'
 year_submitted: '2014'
 organization_name: Mobile Film Classroom
@@ -26,5 +25,6 @@ project_ids: '4102060'
 organization_id_2: '2014059'
 title: Mobile Film Classroom
 uri: /organizations/mobile-film-classroom/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
 
 ---

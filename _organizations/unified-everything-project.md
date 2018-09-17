@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/website-of-all-las-arts-science-events-schedules
 organization_id: '2016241'
 year_submitted: '2016'
 organization_name: Unified Everything Project
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016241'
 title: Unified Everything Project
 uri: /organizations/unified-everything-project/
+challenge_url: >-
+  https://challenge.la2050.org/entry/website-of-all-las-arts-science-events-schedules
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
 organization_id: '2016135'
 year_submitted: '2016'
 organization_name: Los Angeles Food Policy Council
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016135'
 title: Los Angeles Food Policy Council
 uri: /organizations/los-angeles-food-policy-council/
+challenge_url: >-
+  https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
 
 ---

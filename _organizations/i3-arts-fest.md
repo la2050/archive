@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
 organization_id: '2016106'
 year_submitted: '2016'
 organization_name: I3 Arts Fest
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016106'
 title: I3 Arts Fest
 uri: /organizations/i3-arts-fest/
+challenge_url: >-
+  https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
 
 ---

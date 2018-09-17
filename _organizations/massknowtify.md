@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
 organization_id: '2014057'
 year_submitted: '2014'
 organization_name: MassKnowtify
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014057'
 title: MassKnowtify
 uri: /organizations/massknowtify/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
 
 ---

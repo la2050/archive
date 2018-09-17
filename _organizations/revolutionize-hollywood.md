@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/revolutionize-hollywood/'
 organization_id: '2018103'
 year_submitted: '2018'
 organization_name: Revolutionize Hollywood
@@ -39,6 +38,7 @@ project_ids: '8102103'
 organization_id_2: '2018103'
 title: Revolutionize Hollywood
 uri: /organizations/revolutionize-hollywood/
+challenge_url: 'https://activation.la2050.org/create/revolutionize-hollywood/'
 category: create
 
 ---

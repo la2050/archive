@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/heartofla.html'
 organization_id: '2013089'
 year_submitted: '2013'
 organization_name: Heart of Los Angeles (HOLA)
@@ -89,5 +88,6 @@ project_ids: ''
 organization_id_2: '2013089'
 title: Heart of Los Angeles (HOLA)
 uri: /organizations/heart-of-los-angeles-hola/
+challenge_url: 'http://maker.good.is/myla2050/projects/heartofla.html'
 
 ---

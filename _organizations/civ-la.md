@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
 organization_id: '2015034'
 year_submitted: '2015'
 organization_name: civ.LA
@@ -25,5 +24,6 @@ project_ids: '5102063'
 organization_id_2: '2015034'
 title: civ.LA
 uri: /organizations/civ-la/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
 
 ---

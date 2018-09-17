@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
 organization_id: '2014041'
 year_submitted: '2014'
 organization_name: 'Grow Games Interactive, Growcology'
@@ -26,5 +25,6 @@ project_ids: '5102147'
 organization_id_2: '2014041'
 title: 'Grow Games Interactive, Growcology'
 uri: /organizations/grow-games-interactive-growcology/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
 
 ---

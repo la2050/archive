@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/l-a-kitchen/'
 organization_id: '2018059'
 year_submitted: '2018'
 organization_name: L.A. Kitchen
@@ -31,6 +30,7 @@ project_ids: '8102059'
 organization_id_2: '2018059'
 title: L.A. Kitchen
 uri: /organizations/l-a-kitchen/
+challenge_url: 'https://activation.la2050.org/live/l-a-kitchen/'
 category: live
 
 ---

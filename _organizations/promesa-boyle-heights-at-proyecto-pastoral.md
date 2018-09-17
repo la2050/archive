@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
 organization_id: '2018098'
 year_submitted: '2018'
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
@@ -28,6 +26,8 @@ project_ids: '8102098'
 organization_id_2: '2018098'
 title: Promesa Boyle Heights at Proyecto Pastoral
 uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
+challenge_url: >-
+  https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
 category: connect
 
 ---

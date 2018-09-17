@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
 organization_id: '2015048'
 year_submitted: '2015'
 organization_name: Dharma Health Institute
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015048'
 title: Dharma Health Institute
 uri: /organizations/dharma-health-institute/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/future-america/'
 organization_id: '2018042'
 year_submitted: '2018'
 organization_name: Future America
@@ -33,6 +32,7 @@ project_ids: '8102042'
 organization_id_2: '2018042'
 title: Future America
 uri: /organizations/future-america/
+challenge_url: 'https://activation.la2050.org/learn/future-america/'
 category: learn
 
 ---

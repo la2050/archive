@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/notow/'
 organization_id: '2018091'
 year_submitted: '2018'
 organization_name: NoTow
@@ -39,6 +38,7 @@ project_ids: ''
 organization_id_2: '2018091'
 title: NoTow
 uri: /organizations/notow/
+challenge_url: 'https://activation.la2050.org/live/notow/'
 category: live
 
 ---

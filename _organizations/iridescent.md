@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/Technovation.html'
 organization_id: '2015094'
 year_submitted: '2015'
 organization_name: Iridescent
@@ -24,5 +23,6 @@ project_ids: '5102145'
 organization_id_2: '2015094'
 title: Iridescent
 uri: /organizations/iridescent/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/Technovation.html'
 
 ---

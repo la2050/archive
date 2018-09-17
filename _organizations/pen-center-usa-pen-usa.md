@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
 organization_id: '2016168'
 year_submitted: '2016'
 organization_name: 'PEN Center USA, ''PEN USA'''
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016168'
 title: 'PEN Center USA, ''PEN USA'''
 uri: /organizations/pen-center-usa-pen-usa/
+challenge_url: >-
+  https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
 
 ---

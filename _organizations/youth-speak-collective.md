@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
 organization_id: '2014111'
 year_submitted: '2014'
 organization_name: Youth Speak Collective
@@ -24,5 +23,6 @@ project_ids: '4102110'
 organization_id_2: '2014111'
 title: Youth Speak Collective
 uri: /organizations/youth-speak-collective/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
 
 ---

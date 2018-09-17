@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/make-it-in-la/'
 organization_id: '2018079'
 year_submitted: '2018'
 organization_name: MAKE IT IN LA
@@ -35,6 +34,7 @@ project_ids: '8102079'
 organization_id_2: '2018079'
 title: MAKE IT IN LA
 uri: /organizations/make-it-in-la/
+challenge_url: 'https://activation.la2050.org/create/make-it-in-la/'
 category: create
 
 ---

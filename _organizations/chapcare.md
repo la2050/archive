@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014124'
 year_submitted: '2014'
 organization_name: ChapCare
@@ -24,5 +23,6 @@ project_ids: '4102121'
 organization_id_2: '2014124'
 title: ChapCare
 uri: /organizations/chapcare/
+challenge_url: ''
 
 ---

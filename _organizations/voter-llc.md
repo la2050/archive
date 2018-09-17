@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/voter.html'
 organization_id: '2015223'
 year_submitted: '2015'
 organization_name: 'Voter, LLC'
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015223'
 title: 'Voter, LLC'
 uri: /organizations/voter-llc/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/voter.html'
 
 ---

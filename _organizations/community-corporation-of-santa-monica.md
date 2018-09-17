@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
 organization_id: '2016051'
 year_submitted: '2016'
 organization_name: Community Corporation of Santa Monica
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016051'
 title: Community Corporation of Santa Monica
 uri: /organizations/community-corporation-of-santa-monica/
+challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
 
 ---

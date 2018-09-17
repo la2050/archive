@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
 organization_id: '2016108'
 year_submitted: '2016'
 organization_name: I'm A Movement Not A Monument
@@ -33,5 +31,7 @@ project_ids: ''
 organization_id_2: '2016108'
 title: I'm A Movement Not A Monument
 uri: /organizations/im-a-movement-not-a-monument/
+challenge_url: >-
+  https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
 
 ---

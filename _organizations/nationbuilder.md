@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
 organization_id: '2014061'
 year_submitted: '2014'
 organization_name: NationBuilder
@@ -26,5 +25,6 @@ project_ids: '5102180'
 organization_id_2: '2014061'
 title: NationBuilder
 uri: /organizations/nationbuilder/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
 
 ---

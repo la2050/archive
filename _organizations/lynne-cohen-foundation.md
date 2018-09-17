@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
 organization_id: '2016143'
 year_submitted: '2016'
 organization_name: Lynne Cohen Foundation
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016143'
 title: Lynne Cohen Foundation
 uri: /organizations/lynne-cohen-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
 
 ---

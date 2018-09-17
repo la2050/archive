@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/save-a-life'
 organization_id: '2016103'
 year_submitted: '2016'
 organization_name: Homeless Health Care Los Angeles
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016103'
 title: Homeless Health Care Los Angeles
 uri: /organizations/homeless-health-care-los-angeles/
+challenge_url: 'https://challenge.la2050.org/entry/save-a-life'
 
 ---

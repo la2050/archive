@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
 organization_id: '2016179'
 year_submitted: '2016'
 organization_name: PSSST
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016179'
 title: PSSST
 uri: /organizations/pssst/
+challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
 
 ---

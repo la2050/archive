@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/the-endless-orchard-phase-two'
 organization_id: '2016076'
 year_submitted: '2016'
 organization_name: Fallen Fruit
@@ -29,5 +28,6 @@ project_ids: '4102136'
 organization_id_2: '2016076'
 title: Fallen Fruit
 uri: /organizations/fallen-fruit/
+challenge_url: 'https://challenge.la2050.org/entry/the-endless-orchard-phase-two'
 
 ---

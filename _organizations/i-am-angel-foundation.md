@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
 organization_id: '2014043'
 year_submitted: '2014'
 organization_name: i.am.angel Foundation
@@ -24,5 +23,6 @@ project_ids: '4102044'
 organization_id_2: '2014043'
 title: i.am.angel Foundation
 uri: /organizations/i-am-angel-foundation/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
 
 ---

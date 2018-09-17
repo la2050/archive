@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
 organization_id: '2015083'
 year_submitted: '2015'
 organization_name: Heal the Bay
@@ -27,5 +26,6 @@ project_ids: '5102129'
 organization_id_2: '2015083'
 title: Heal the Bay
 uri: /organizations/heal-the-bay/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
 
 ---

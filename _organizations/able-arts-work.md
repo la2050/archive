@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/artbeat-radio'
 organization_id: '2016005'
 year_submitted: '2016'
 organization_name: Able Arts Work
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016005'
 title: Able Arts Work
 uri: /organizations/able-arts-work/
+challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'
 
 ---

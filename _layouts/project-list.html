@@ -238,8 +238,8 @@ text-align: left;
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
-  <li data-tags="{{ data['TAGS/Indicators'] }}">
-    <a href="{{ data.url }}">
+  <li class="{{ data.category }}" data-tags="{{ data['TAGS/Indicators'] }}">
+    <a href="{{ data.challenge_url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
       </span>

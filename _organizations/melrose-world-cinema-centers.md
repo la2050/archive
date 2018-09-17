@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
 organization_id: '2015136'
 year_submitted: '2015'
 organization_name: Melrose World Cinema Centers
@@ -25,5 +24,6 @@ project_ids: '5102205'
 organization_id_2: '2015136'
 title: Melrose World Cinema Centers
 uri: /organizations/melrose-world-cinema-centers/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
 
 ---

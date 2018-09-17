@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/city-fabrick/'
 organization_id: '2018023'
 year_submitted: '2018'
 organization_name: City Fabrick
@@ -27,6 +26,7 @@ project_ids: '8102023'
 organization_id_2: '2018023'
 title: City Fabrick
 uri: /organizations/city-fabrick/
+challenge_url: 'https://activation.la2050.org/live/city-fabrick/'
 category: live
 
 ---

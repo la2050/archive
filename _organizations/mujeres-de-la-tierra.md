@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
 organization_id: '2016150'
 year_submitted: '2016'
 organization_name: Mujeres de la Tierra
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016150'
 title: Mujeres de la Tierra
 uri: /organizations/mujeres-de-la-tierra/
+challenge_url: >-
+  https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
 
 ---

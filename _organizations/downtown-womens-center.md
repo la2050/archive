@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
 organization_id: '2015051'
 year_submitted: '2015'
 organization_name: Downtown Women's Center
@@ -22,5 +21,6 @@ project_ids: '#N/A'
 organization_id_2: '2015051'
 title: Downtown Women's Center
 uri: /organizations/downtown-womens-center/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
 
 ---

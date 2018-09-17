@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
 organization_id: '2015044'
 year_submitted: '2015'
 organization_name: 'Compiler LA, Utopiad.org'
@@ -25,5 +24,6 @@ project_ids: '5102150'
 organization_id_2: '2015044'
 title: 'Compiler LA, Utopiad.org'
 uri: /organizations/compiler-la-utopiad-org/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
 organization_id: '2018051'
 year_submitted: '2018'
 organization_name: Harlem Lacrosse - Los Angeles
@@ -32,6 +31,7 @@ project_ids: '8102051'
 organization_id_2: '2018051'
 title: Harlem Lacrosse - Los Angeles
 uri: /organizations/harlem-lacrosse-los-angeles/
+challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
 category: learn
 
 ---

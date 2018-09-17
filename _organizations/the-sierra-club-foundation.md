@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
 organization_id: '2016232'
 year_submitted: '2016'
 organization_name: The Sierra Club Foundation
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016232'
 title: The Sierra Club Foundation
 uri: /organizations/the-sierra-club-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
 organization_id: '2014020'
 year_submitted: '2014'
 organization_name: Conant Moran Design & Fabrication
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014020'
 title: Conant Moran Design & Fabrication
 uri: /organizations/conant-moran-design-fabrication/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
 
 ---

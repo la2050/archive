@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
 organization_id: '2015009'
 year_submitted: '2015'
 organization_name: Angel City Lumber
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015009'
 title: Angel City Lumber
 uri: /organizations/angel-city-lumber/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
 
 ---

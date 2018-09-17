@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
 organization_id: '2014012'
 year_submitted: '2014'
 organization_name: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
@@ -24,5 +23,6 @@ project_ids: '4102013'
 organization_id_2: '2014012'
 title: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
 uri: /organizations/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
 organization_id: '2018136'
 year_submitted: '2018'
 organization_name: We Are Enough c/o Social & Environmental Entrepreneurs
@@ -31,6 +29,8 @@ project_ids: '8102136'
 organization_id_2: '2018136'
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
+challenge_url: >-
+  https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
 category: create
 
 ---

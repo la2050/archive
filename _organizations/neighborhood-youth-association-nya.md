@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/NYAforLA.html'
 organization_id: '2013142'
 year_submitted: '2013'
 organization_name: Neighborhood Youth Association (NYA)
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013142'
 title: Neighborhood Youth Association (NYA)
 uri: /organizations/neighborhood-youth-association-nya/
+challenge_url: 'http://maker.good.is/myla2050/projects/NYAforLA.html'
 
 ---

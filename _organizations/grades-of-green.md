@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/goglayc.html'
 organization_id: '2013082'
 year_submitted: '2013'
 organization_name: Grades of Green
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013082'
 title: Grades of Green
 uri: /organizations/grades-of-green/
+challenge_url: 'http://maker.good.is/myla2050/projects/goglayc.html'
 
 ---

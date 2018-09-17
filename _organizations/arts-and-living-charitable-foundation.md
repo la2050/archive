@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/arts-connect'
 organization_id: '2016013'
 year_submitted: '2016'
 organization_name: Arts and Living Charitable Foundation
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016013'
 title: Arts and Living Charitable Foundation
 uri: /organizations/arts-and-living-charitable-foundation/
+challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
 organization_id: '2016229'
 year_submitted: '2016'
 organization_name: The Pedagogical Institute of Los Angeles
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016229'
 title: The Pedagogical Institute of Los Angeles
 uri: /organizations/the-pedagogical-institute-of-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
 
 ---

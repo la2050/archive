@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
 organization_id: '2015049'
 year_submitted: '2015'
 organization_name: DIY Girls
@@ -28,5 +27,6 @@ project_ids: '5102083'
 organization_id_2: '2015049'
 title: DIY Girls
 uri: /organizations/diy-girls/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
 
 ---

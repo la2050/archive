@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
 organization_id: '2013181'
 year_submitted: '2013'
 organization_name: Thank You For Coming
@@ -59,5 +58,6 @@ project_ids: '5102082'
 organization_id_2: '2013181'
 title: Thank You For Coming
 uri: /organizations/thank-you-for-coming/
+challenge_url: 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
 
 ---

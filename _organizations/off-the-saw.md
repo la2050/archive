@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
 organization_id: '2015146'
 year_submitted: '2015'
 organization_name: Off The Saw
@@ -25,5 +24,6 @@ project_ids: ''
 organization_id_2: '2015146'
 title: Off The Saw
 uri: /organizations/off-the-saw/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/off-peak-podcast'
 organization_id: '2016122'
 year_submitted: '2016'
 organization_name: LA Metro
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016122'
 title: LA Metro
 uri: /organizations/la-metro/
+challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'
 
 ---

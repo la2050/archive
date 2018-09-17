@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
 organization_id: '2016213'
 year_submitted: '2016'
 organization_name: The Burg
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016213'
 title: The Burg
 uri: /organizations/the-burg/
+challenge_url: >-
+  https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
 
 ---

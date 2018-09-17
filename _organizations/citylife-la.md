@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
 organization_id: '2013036'
 year_submitted: '2013'
 organization_name: CityLife-LA
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013036'
 title: CityLife-LA
 uri: /organizations/citylife-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
 
 ---

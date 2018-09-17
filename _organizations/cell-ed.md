@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
 organization_id: '2015027'
 year_submitted: '2015'
 organization_name: Cell-Ed
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2015027'
 title: Cell-Ed
 uri: /organizations/cell-ed/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
 
 ---

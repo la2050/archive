@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
 organization_id: '2016078'
 year_submitted: '2016'
 organization_name: First Place for Youth
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016078'
 title: First Place for Youth
 uri: /organizations/first-place-for-youth/
+challenge_url: >-
+  https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
 
 ---

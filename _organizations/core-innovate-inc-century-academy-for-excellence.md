@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
 organization_id: '2016058'
 year_submitted: '2016'
 organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016058'
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
 uri: /organizations/core-innovate-inc-century-academy-for-excellence/
+challenge_url: >-
+  https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
 
 ---

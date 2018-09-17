@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/thehubla.html'
 organization_id: '2013092'
 year_submitted: '2013'
 organization_name: Hub Los Angeles
@@ -49,5 +48,6 @@ project_ids: '5102050'
 organization_id_2: '2013092'
 title: Hub Los Angeles
 uri: /organizations/hub-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/thehubla.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
 organization_id: '2015039'
 year_submitted: '2015'
 organization_name: Clinica Msr. Oscar A. Romero
@@ -25,5 +24,6 @@ project_ids: '5102068'
 organization_id_2: '2015039'
 title: Clinica Msr. Oscar A. Romero
 uri: /organizations/clinica-msr-oscar-a-romero/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
 
 ---

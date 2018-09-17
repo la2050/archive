@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
 organization_id: '2016021'
 year_submitted: '2016'
 organization_name: BlacklistLA
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016021'
 title: BlacklistLA
 uri: /organizations/blacklistla/
+challenge_url: >-
+  https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
 
 ---

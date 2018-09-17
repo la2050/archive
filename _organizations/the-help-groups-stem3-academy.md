@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
 organization_id: '2016220'
 year_submitted: '2016'
 organization_name: The Help Group's STEM3 Academy
@@ -42,5 +40,7 @@ project_ids: ''
 organization_id_2: '2016220'
 title: The Help Group's STEM3 Academy
 uri: /organizations/the-help-groups-stem3-academy/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
 
 ---

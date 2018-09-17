@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'
 organization_id: '2013118'
 year_submitted: '2013'
 organization_name: LAUP
@@ -105,5 +104,6 @@ project_ids: ''
 organization_id_2: '2013118'
 title: LAUP
 uri: /organizations/laup/
+challenge_url: 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'
 
 ---

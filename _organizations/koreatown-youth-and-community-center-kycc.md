@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
 organization_id: '2014045'
 year_submitted: '2014'
 organization_name: Koreatown Youth and Community Center (KYCC)
@@ -24,5 +23,6 @@ project_ids: '4102046'
 organization_id_2: '2014045'
 title: Koreatown Youth and Community Center (KYCC)
 uri: /organizations/koreatown-youth-and-community-center-kycc/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
 
 ---

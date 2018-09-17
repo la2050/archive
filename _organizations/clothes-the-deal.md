@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
 organization_id: '2015040'
 year_submitted: '2015'
 organization_name: Clothes The Deal
@@ -25,5 +24,6 @@ project_ids: '5102069'
 organization_id_2: '2015040'
 title: Clothes The Deal
 uri: /organizations/clothes-the-deal/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
 
 ---

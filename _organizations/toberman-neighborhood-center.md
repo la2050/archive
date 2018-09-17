@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014212'
 year_submitted: '2014'
 organization_name: Toberman Neighborhood Center
@@ -24,5 +23,6 @@ project_ids: '4102177'
 organization_id_2: '2014212'
 title: Toberman Neighborhood Center
 uri: /organizations/toberman-neighborhood-center/
+challenge_url: ''
 
 ---

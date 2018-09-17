@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
 organization_id: '2015119'
 year_submitted: '2015'
 organization_name: Los Angeles Bioscience Hub
@@ -25,5 +24,6 @@ project_ids: '5102184'
 organization_id_2: '2015119'
 title: Los Angeles Bioscience Hub
 uri: /organizations/los-angeles-bioscience-hub/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
 
 ---

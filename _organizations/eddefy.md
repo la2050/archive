@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/MASTERY.html'
 organization_id: '2013055'
 year_submitted: '2013'
 organization_name: EDDEFY
@@ -90,5 +89,6 @@ project_ids: '5102028'
 organization_id_2: '2013055'
 title: EDDEFY
 uri: /organizations/eddefy/
+challenge_url: 'http://maker.good.is/myla2050/projects/MASTERY.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'
 organization_id: '2013025'
 year_submitted: '2013'
 organization_name: 'Cal Poly Pomona Foundation, Inc.'
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2013025'
 title: 'Cal Poly Pomona Foundation, Inc.'
 uri: /organizations/cal-poly-pomona-foundation-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'
 
 ---

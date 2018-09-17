@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
 organization_id: '2014090'
 year_submitted: '2014'
 organization_name: The Human Element Project
@@ -26,5 +25,6 @@ project_ids: '4102090'
 organization_id_2: '2014090'
 title: The Human Element Project
 uri: /organizations/the-human-element-project/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
 
 ---

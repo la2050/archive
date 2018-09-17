@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014135'
 year_submitted: '2014'
 organization_name: Duvivier Architects (DA)
@@ -24,5 +23,6 @@ project_ids: '5102091'
 organization_id_2: '2014135'
 title: Duvivier Architects (DA)
 uri: /organizations/duvivier-architects-da/
+challenge_url: ''
 
 ---

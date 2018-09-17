@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
 organization_id: '2016057'
 year_submitted: '2016'
 organization_name: Continuous Good
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016057'
 title: Continuous Good
 uri: /organizations/continuous-good/
+challenge_url: >-
+  https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
 
 ---

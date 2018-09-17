@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
 organization_id: '2016200'
 year_submitted: '2016'
 organization_name: Spark Los Angeles
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016200'
 title: Spark Los Angeles
 uri: /organizations/spark-los-angeles/
+challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
 
 ---

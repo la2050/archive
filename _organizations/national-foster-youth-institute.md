@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
 organization_id: '2016156'
 year_submitted: '2016'
 organization_name: National Foster Youth Institute
@@ -37,5 +35,7 @@ project_ids: ''
 organization_id_2: '2016156'
 title: National Foster Youth Institute
 uri: /organizations/national-foster-youth-institute/
+challenge_url: >-
+  https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
 organization_id: '2014017'
 year_submitted: '2014'
 organization_name: Community Centered
@@ -26,5 +25,6 @@ project_ids: '4102018'
 organization_id_2: '2014017'
 title: Community Centered
 uri: /organizations/community-centered/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
 
 ---

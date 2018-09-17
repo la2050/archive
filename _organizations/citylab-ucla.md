@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
 organization_id: '2013035'
 year_submitted: '2013'
 organization_name: cityLAB-UCLA
@@ -44,5 +43,6 @@ project_ids: ''
 organization_id_2: '2013035'
 title: cityLAB-UCLA
 uri: /organizations/citylab-ucla/
+challenge_url: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
 
 ---

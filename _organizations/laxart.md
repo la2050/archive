@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LAXART.html'
 organization_id: '2013119'
 year_submitted: '2013'
 organization_name: LAXART
@@ -44,5 +43,6 @@ project_ids: ''
 organization_id_2: '2013119'
 title: LAXART
 uri: /organizations/laxart/
+challenge_url: 'http://maker.good.is/myla2050/projects/LAXART.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'
 organization_id: '2015033'
 year_submitted: '2015'
 organization_name: City of Glendora
@@ -25,5 +24,6 @@ project_ids: '5102058'
 organization_id_2: '2015033'
 title: City of Glendora
 uri: /organizations/city-of-glendora/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'
 
 ---

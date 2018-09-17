@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/'
 organization_id: '2018045'
 year_submitted: '2018'
 organization_name: Girls Academic Leadership Academy (GALA)
@@ -30,6 +29,7 @@ project_ids: '8102045'
 organization_id_2: '2018045'
 title: Girls Academic Leadership Academy (GALA)
 uri: /organizations/girls-academic-leadership-academy-gala/
+challenge_url: 'https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/'
 category: learn
 
 ---

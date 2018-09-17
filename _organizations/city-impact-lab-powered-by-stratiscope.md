@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/'
 organization_id: '2018024'
 year_submitted: '2018'
 organization_name: 'City Impact Lab, powered by Stratiscope'
@@ -29,6 +28,7 @@ project_ids: ''
 organization_id_2: '2018024'
 title: 'City Impact Lab, powered by Stratiscope'
 uri: /organizations/city-impact-lab-powered-by-stratiscope/
+challenge_url: 'https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/'
 category: connect
 
 ---

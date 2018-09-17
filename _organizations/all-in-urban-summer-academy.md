@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
 organization_id: '2018006'
 year_submitted: '2018'
 organization_name: All-In Urban Summer Academy
@@ -28,6 +27,7 @@ project_ids: '4102079'
 organization_id_2: '2018006'
 title: All-In Urban Summer Academy
 uri: /organizations/all-in-urban-summer-academy/
+challenge_url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
 category: learn
 
 ---

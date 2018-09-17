@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
 organization_id: '2013102'
 year_submitted: '2013'
 organization_name: KCET Departures
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013102'
 title: KCET Departures
 uri: /organizations/kcet-departures/
+challenge_url: 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
 
 ---

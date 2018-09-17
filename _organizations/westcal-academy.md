@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
 organization_id: '2015224'
 year_submitted: '2015'
 organization_name: WestCal Academy
@@ -28,5 +27,6 @@ project_ids: '5102340'
 organization_id_2: '2015224'
 title: WestCal Academy
 uri: /organizations/westcal-academy/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
 
 ---

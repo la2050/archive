@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
 organization_id: '2015150'
 year_submitted: '2015'
 organization_name: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
@@ -28,5 +27,6 @@ project_ids: '5102227'
 organization_id_2: '2015150'
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 uri: /organizations/pando-populus-inc-world-studio-foundation-inc/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
 
 ---

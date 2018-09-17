@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
 organization_id: '2018128'
 year_submitted: '2018'
 organization_name: Two Bit Circus Foundation
@@ -32,6 +31,7 @@ project_ids: '8102128'
 organization_id_2: '2018128'
 title: Two Bit Circus Foundation
 uri: /organizations/two-bit-circus-foundation/
+challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
 category: learn
 
 ---

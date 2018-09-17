@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
 organization_id: '2016104'
 year_submitted: '2016'
 organization_name: 'HyphenUs, Inc.'
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016104'
 title: 'HyphenUs, Inc.'
 uri: /organizations/hyphenus-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
 
 ---

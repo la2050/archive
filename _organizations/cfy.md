@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014123'
 year_submitted: '2014'
 organization_name: CFY
@@ -24,5 +23,6 @@ project_ids: '4102120'
 organization_id_2: '2014123'
 title: CFY
 uri: /organizations/cfy/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
 organization_id: '2014091'
 year_submitted: '2014'
 organization_name: The Industry
@@ -24,5 +23,6 @@ project_ids: '4102091'
 organization_id_2: '2014091'
 title: The Industry
 uri: /organizations/the-industry/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
 
 ---

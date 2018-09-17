@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
 organization_id: '2013011'
 year_submitted: '2013'
 organization_name: Antigua Coffee House
@@ -44,5 +43,6 @@ project_ids: ''
 organization_id_2: '2013011'
 title: Antigua Coffee House
 uri: /organizations/antigua-coffee-house/
+challenge_url: 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
 
 ---

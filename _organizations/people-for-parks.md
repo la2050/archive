@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/people-for-parks/'
 organization_id: '2018095'
 year_submitted: '2018'
 organization_name: People for Parks
@@ -31,6 +30,7 @@ project_ids: '8102095'
 organization_id_2: '2018095'
 title: People for Parks
 uri: /organizations/people-for-parks/
+challenge_url: 'https://activation.la2050.org/play/people-for-parks/'
 category: play
 
 ---

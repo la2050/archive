@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
 organization_id: '2014081'
 year_submitted: '2014'
 organization_name: Skid Row Housing Trust
@@ -24,5 +23,6 @@ project_ids: '4102082'
 organization_id_2: '2014081'
 title: Skid Row Housing Trust
 uri: /organizations/skid-row-housing-trust/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
 
 ---

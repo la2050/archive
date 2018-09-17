@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
 organization_id: '2016092'
 year_submitted: '2016'
 organization_name: Grassroots Training for Health
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016092'
 title: Grassroots Training for Health
 uri: /organizations/grassroots-training-for-health/
+challenge_url: >-
+  https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
 
 ---

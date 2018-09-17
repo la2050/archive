@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
 organization_id: '2016152'
 year_submitted: '2016'
 organization_name: NAMI San Fernando Valley
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016152'
 title: NAMI San Fernando Valley
 uri: /organizations/nami-san-fernando-valley/
+challenge_url: >-
+  https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
 
 ---

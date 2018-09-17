@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
 organization_id: '2016247'
 year_submitted: '2016'
 organization_name: >-
@@ -37,5 +35,7 @@ title: >-
   Office)
 uri: >-
   /organizations/university-of-southern-california-viterbi-stem-educational-outreach-programs-office/
+challenge_url: >-
+  https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
 
 ---

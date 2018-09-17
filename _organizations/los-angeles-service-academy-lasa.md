@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
 organization_id: '2018077'
 year_submitted: '2018'
 organization_name: Los Angeles Service Academy (LASA)
@@ -41,6 +40,7 @@ project_ids: '8102077'
 organization_id_2: '2018077'
 title: Los Angeles Service Academy (LASA)
 uri: /organizations/los-angeles-service-academy-lasa/
+challenge_url: 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
 category: learn
 
 ---

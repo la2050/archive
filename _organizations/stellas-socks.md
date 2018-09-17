@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/stellas-socks/'
 organization_id: '2018112'
 year_submitted: '2018'
 organization_name: Stella's Socks
@@ -29,6 +28,7 @@ project_ids: '8102112'
 organization_id_2: '2018112'
 title: Stella's Socks
 uri: /organizations/stellas-socks/
+challenge_url: 'https://activation.la2050.org/connect/stellas-socks/'
 category: connect
 
 ---

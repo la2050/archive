@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/get-lit-words-ignite/'
 organization_id: '2018044'
 year_submitted: '2018'
 organization_name: Get Lit - Words Ignite
@@ -32,6 +31,7 @@ project_ids: '8102044'
 organization_id_2: '2018044'
 title: Get Lit - Words Ignite
 uri: /organizations/get-lit-words-ignite/
+challenge_url: 'https://activation.la2050.org/create/get-lit-words-ignite/'
 category: create
 
 ---

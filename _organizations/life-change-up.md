@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/walking.html'
 organization_id: '2015114'
 year_submitted: '2015'
 organization_name: Life Change Up
@@ -28,5 +27,6 @@ project_ids: '5102176'
 organization_id_2: '2015114'
 title: Life Change Up
 uri: /organizations/life-change-up/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/walking.html'
 
 ---

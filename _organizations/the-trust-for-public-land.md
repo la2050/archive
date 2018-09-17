@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014210'
 year_submitted: '2014'
 organization_name: The Trust for Public Land
@@ -24,5 +23,6 @@ project_ids: '4102176'
 organization_id_2: '2014210'
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
+challenge_url: ''
 
 ---

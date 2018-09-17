@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
 organization_id: '2016259'
 year_submitted: '2016'
 organization_name: 'WOW Imagined, Inc.'
@@ -38,5 +36,7 @@ project_ids: ''
 organization_id_2: '2016259'
 title: 'WOW Imagined, Inc.'
 uri: /organizations/wow-imagined-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
 
 ---

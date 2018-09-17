@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
 organization_id: '2016002'
 year_submitted: '2016'
 organization_name: 3-D SPACE
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016002'
 title: 3-D SPACE
 uri: /organizations/3-d-space/
+challenge_url: >-
+  https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
 organization_id: '2016138'
 year_submitted: '2016'
 organization_name: Los Angeles Neighborhood Initiative (LANI)
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016138'
 title: Los Angeles Neighborhood Initiative (LANI)
 uri: /organizations/los-angeles-neighborhood-initiative-lani/
+challenge_url: >-
+  https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
 
 ---

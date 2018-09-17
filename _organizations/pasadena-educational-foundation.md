@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
 organization_id: '2016163'
 year_submitted: '2016'
 organization_name: Pasadena Educational Foundation
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016163'
 title: Pasadena Educational Foundation
 uri: /organizations/pasadena-educational-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
 
 ---

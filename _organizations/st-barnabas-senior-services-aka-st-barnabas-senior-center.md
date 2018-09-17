@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
 organization_id: '2014085'
 year_submitted: '2014'
 organization_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
@@ -24,5 +23,6 @@ project_ids: '4102086'
 organization_id_2: '2014085'
 title: St. Barnabas Senior Services aka St. Barnabas Senior Center
 uri: /organizations/st-barnabas-senior-services-aka-st-barnabas-senior-center/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
 
 ---

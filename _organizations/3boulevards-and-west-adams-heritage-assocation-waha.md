@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
 organization_id: '2014002'
 year_submitted: '2014'
 organization_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
@@ -24,5 +23,6 @@ project_ids: '4102004'
 organization_id_2: '2014002'
 title: 3Boulevards and West Adams Heritage Assocation (WAHA)
 uri: /organizations/3boulevards-and-west-adams-heritage-assocation-waha/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
 
 ---

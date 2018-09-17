@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
 organization_id: '2018005'
 year_submitted: '2018'
 organization_name: 'Action Civics LA, an initiative of Mikva Challenge'
@@ -40,6 +38,8 @@ project_ids: '8102005'
 organization_id_2: '2018005'
 title: 'Action Civics LA, an initiative of Mikva Challenge'
 uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
+challenge_url: >-
+  https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
 category: connect
 
 ---

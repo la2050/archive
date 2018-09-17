@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
 organization_id: '2015106'
 year_submitted: '2015'
 organization_name: Koreatown Immigrant Worker Alliance
@@ -27,5 +26,6 @@ project_ids: '5102163'
 organization_id_2: '2015106'
 title: Koreatown Immigrant Worker Alliance
 uri: /organizations/koreatown-immigrant-worker-alliance/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
 
 ---

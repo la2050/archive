@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
 organization_id: '2018043'
 year_submitted: '2018'
 organization_name: Geffen Academy at UCLA
@@ -44,6 +43,7 @@ project_ids: '8102043'
 organization_id_2: '2018043'
 title: Geffen Academy at UCLA
 uri: /organizations/geffen-academy-at-ucla/
+challenge_url: 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
 category: connect
 
 ---

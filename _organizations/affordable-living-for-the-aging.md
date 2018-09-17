@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
 organization_id: '2013004'
 year_submitted: '2013'
 organization_name: Affordable Living for the Aging
@@ -70,5 +69,6 @@ project_ids: ''
 organization_id_2: '2013004'
 title: Affordable Living for the Aging
 uri: /organizations/affordable-living-for-the-aging/
+challenge_url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
 
 ---

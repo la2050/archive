@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
 organization_id: '2013031'
 year_submitted: '2013'
 organization_name: Cheshire Moon Inc
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013031'
 title: Cheshire Moon Inc
 uri: /organizations/cheshire-moon-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
 organization_id: '2016131'
 year_submitted: '2016'
 organization_name: Light Sprout
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016131'
 title: Light Sprout
 uri: /organizations/light-sprout/
+challenge_url: >-
+  https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
 
 ---

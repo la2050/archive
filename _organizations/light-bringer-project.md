@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014161'
 year_submitted: '2014'
 organization_name: Light Bringer Project
@@ -24,5 +23,6 @@ project_ids: '4102144'
 organization_id_2: '2014161'
 title: Light Bringer Project
 uri: /organizations/light-bringer-project/
+challenge_url: ''
 
 ---

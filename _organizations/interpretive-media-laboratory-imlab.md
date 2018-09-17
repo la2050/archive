@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
 organization_id: '2014044'
 year_submitted: '2014'
 organization_name: Interpretive Media Laboratory (IMLab)
@@ -26,5 +25,6 @@ project_ids: '4102045'
 organization_id_2: '2014044'
 title: Interpretive Media Laboratory (IMLab)
 uri: /organizations/interpretive-media-laboratory-imlab/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
 
 ---

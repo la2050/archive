@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
 organization_id: '2018075'
 year_submitted: '2018'
 organization_name: Los Angeles LGBT Center
@@ -34,6 +33,7 @@ project_ids: '8102075'
 organization_id_2: '2018075'
 title: Los Angeles LGBT Center
 uri: /organizations/los-angeles-lgbt-center/
+challenge_url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
 organization_id: '2015128'
 year_submitted: '2015'
 organization_name: >-
@@ -29,5 +28,6 @@ title: >-
   c/o Mayor's Fund for Los Angeles
 uri: >-
   /organizations/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
 
 ---

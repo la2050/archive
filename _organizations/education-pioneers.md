@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
 organization_id: '2013058'
 year_submitted: '2013'
 organization_name: Education Pioneers
@@ -37,5 +36,6 @@ project_ids: ''
 organization_id_2: '2013058'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
+challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
 
 ---

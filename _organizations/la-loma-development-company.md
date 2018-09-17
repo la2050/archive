@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LALOMA.html'
 organization_id: '2013114'
 year_submitted: '2013'
 organization_name: La Loma Development Company
@@ -47,5 +46,6 @@ project_ids: ''
 organization_id_2: '2013114'
 title: La Loma Development Company
 uri: /organizations/la-loma-development-company/
+challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'
 
 ---

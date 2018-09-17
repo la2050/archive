@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/civic-innovation-lab/'
 organization_id: '2018028'
 year_submitted: '2018'
 organization_name: Civic Innovation Lab
@@ -34,6 +33,7 @@ project_ids: '8102028'
 organization_id_2: '2018028'
 title: Civic Innovation Lab
 uri: /organizations/civic-innovation-lab/
+challenge_url: 'https://activation.la2050.org/create/civic-innovation-lab/'
 category: create
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
 organization_id: '2018020'
 year_submitted: '2018'
 organization_name: Children's Action Network
@@ -30,6 +28,8 @@ project_ids: '8102020'
 organization_id_2: '2018020'
 title: Children's Action Network
 uri: /organizations/childrens-action-network/
+challenge_url: >-
+  https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
 category: connect
 
 ---

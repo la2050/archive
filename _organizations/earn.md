@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/save.html'
 organization_id: '2015054'
 year_submitted: '2015'
 organization_name: EARN
@@ -26,5 +25,6 @@ project_ids: '5102089'
 organization_id_2: '2015054'
 title: EARN
 uri: /organizations/earn/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/save.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
 organization_id: '2013122'
 year_submitted: '2013'
 organization_name: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
@@ -33,5 +32,6 @@ organization_id_2: '2013122'
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
 
 ---

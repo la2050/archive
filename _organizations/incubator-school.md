@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014157'
 year_submitted: '2014'
 organization_name: Incubator School
@@ -22,5 +21,6 @@ project_ids: '4102140'
 organization_id_2: '2014157'
 title: Incubator School
 uri: /organizations/incubator-school/
+challenge_url: ''
 
 ---

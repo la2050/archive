@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
 organization_id: '2015145'
 year_submitted: '2015'
 organization_name: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
@@ -27,5 +26,6 @@ project_ids: '5102221'
 organization_id_2: '2015145'
 title: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
 uri: /organizations/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
 
 ---

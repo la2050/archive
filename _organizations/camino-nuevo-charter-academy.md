@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
 organization_id: '2016034'
 year_submitted: '2016'
 organization_name: Camino Nuevo Charter Academy
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016034'
 title: Camino Nuevo Charter Academy
 uri: /organizations/camino-nuevo-charter-academy/
+challenge_url: >-
+  https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
 
 ---

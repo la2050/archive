@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
 organization_id: '2014015'
 year_submitted: '2014'
 organization_name: Beyond Baroque Literary Arts Center
@@ -26,5 +25,6 @@ project_ids: '4102016'
 organization_id_2: '2014015'
 title: Beyond Baroque Literary Arts Center
 uri: /organizations/beyond-baroque-literary-arts-center/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
 
 ---

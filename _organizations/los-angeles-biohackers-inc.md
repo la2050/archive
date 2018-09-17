@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/LAB.html'
 organization_id: '2014054'
 year_submitted: '2014'
 organization_name: 'Los Angeles Biohackers, Inc'
@@ -26,5 +25,6 @@ project_ids: '4102055'
 organization_id_2: '2014054'
 title: 'Los Angeles Biohackers, Inc'
 uri: /organizations/los-angeles-biohackers-inc/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LAB.html'
 
 ---

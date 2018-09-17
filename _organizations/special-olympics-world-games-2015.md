@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
 organization_id: '2014084'
 year_submitted: '2014'
 organization_name: Special Olympics World Games 2015
@@ -26,5 +25,6 @@ project_ids: '4102085'
 organization_id_2: '2014084'
 title: Special Olympics World Games 2015
 uri: /organizations/special-olympics-world-games-2015/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
 
 ---

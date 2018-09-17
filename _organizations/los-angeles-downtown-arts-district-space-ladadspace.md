@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
 organization_id: '2014055'
 year_submitted: '2014'
 organization_name: Los Angeles Downtown Arts District Space (LADADSpace)
@@ -24,5 +23,6 @@ project_ids: '4102056'
 organization_id_2: '2014055'
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 uri: /organizations/los-angeles-downtown-arts-district-space-ladadspace/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
 
 ---

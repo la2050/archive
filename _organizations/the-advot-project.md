@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/advotproject.html'
 organization_id: '2013183'
 year_submitted: '2013'
 organization_name: The Advot Project
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013183'
 title: The Advot Project
 uri: /organizations/the-advot-project/
+challenge_url: 'http://maker.good.is/myla2050/projects/advotproject.html'
 
 ---

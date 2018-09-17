@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
 organization_id: '2016140'
 year_submitted: '2016'
 organization_name: Los Angeles World Airports
@@ -33,5 +31,7 @@ project_ids: ''
 organization_id_2: '2016140'
 title: Los Angeles World Airports
 uri: /organizations/los-angeles-world-airports/
+challenge_url: >-
+  https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
 
 ---

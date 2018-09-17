@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
 organization_id: '2016154'
 year_submitted: '2016'
 organization_name: Nation of Vibration
@@ -33,5 +31,7 @@ project_ids: ''
 organization_id_2: '2016154'
 title: Nation of Vibration
 uri: /organizations/nation-of-vibration/
+challenge_url: >-
+  https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
 
 ---

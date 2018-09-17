@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
 organization_id: '2015052'
 year_submitted: '2015'
 organization_name: Dreamhaus Inc.
@@ -25,5 +24,6 @@ project_ids: '5102085'
 organization_id_2: '2015052'
 title: Dreamhaus Inc.
 uri: /organizations/dreamhaus-inc/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
 
 ---

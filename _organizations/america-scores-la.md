@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
 organization_id: '2016008'
 year_submitted: '2016'
 organization_name: America Scores LA
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016008'
 title: America Scores LA
 uri: /organizations/america-scores-la/
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
 
 ---

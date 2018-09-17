@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
 organization_id: '2015070'
 year_submitted: '2015'
 organization_name: Fruit Change
@@ -25,5 +24,6 @@ project_ids: ''
 organization_id_2: '2015070'
 title: Fruit Change
 uri: /organizations/fruit-change/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
 
 ---

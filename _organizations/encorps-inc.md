@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
 organization_id: '2016071'
 year_submitted: '2016'
 organization_name: 'EnCorps, Inc.'
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016071'
 title: 'EnCorps, Inc.'
 uri: /organizations/encorps-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
 
 ---

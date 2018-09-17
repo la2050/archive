@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
 organization_id: '2016091'
 year_submitted: '2016'
 organization_name: Give Today LA
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016091'
 title: Give Today LA
 uri: /organizations/give-today-la/
+challenge_url: >-
+  https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
 
 ---

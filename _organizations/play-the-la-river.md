@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
 organization_id: '2014069'
 year_submitted: '2014'
 organization_name: Play the LA River
@@ -26,5 +25,6 @@ project_ids: '4102070'
 organization_id_2: '2014069'
 title: Play the LA River
 uri: /organizations/play-the-la-river/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
 organization_id: '2016085'
 year_submitted: '2016'
 organization_name: Future Fields
@@ -33,5 +31,7 @@ project_ids: '8102086'
 organization_id_2: '2016085'
 title: Future Fields
 uri: /organizations/future-fields/
+challenge_url: >-
+  https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
 
 ---

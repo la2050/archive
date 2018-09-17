@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
 organization_id: '2015056'
 year_submitted: '2015'
 organization_name: EEZITEC
@@ -24,5 +23,6 @@ project_ids: '8102069'
 organization_id_2: '2015056'
 title: EEZITEC
 uri: /organizations/eezitec/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
 
 ---

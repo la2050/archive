@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities'
 organization_id: '2016105'
 year_submitted: '2016'
 organization_name: I Have a Dream Foundation
@@ -31,5 +30,6 @@ project_ids: ''
 organization_id_2: '2016105'
 title: I Have a Dream Foundation
 uri: /organizations/i-have-a-dream-foundation/
+challenge_url: 'https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
 organization_id: '2013215'
 year_submitted: '2013'
 organization_name: 'Walking Shield, Inc.'
@@ -40,5 +39,6 @@ project_ids: ''
 organization_id_2: '2013215'
 title: 'Walking Shield, Inc.'
 uri: /organizations/walking-shield-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
 
 ---

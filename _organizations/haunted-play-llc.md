@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
 organization_id: '2015081'
 year_submitted: '2015'
 organization_name: Haunted Play LLC
@@ -26,5 +25,6 @@ project_ids: '4102158'
 organization_id_2: '2015081'
 title: Haunted Play LLC
 uri: /organizations/haunted-play-llc/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
 
 ---

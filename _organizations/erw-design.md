@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
 organization_id: '2014033'
 year_submitted: '2014'
 organization_name: ERW Design
@@ -26,5 +25,6 @@ project_ids: '5102342'
 organization_id_2: '2014033'
 title: ERW Design
 uri: /organizations/erw-design/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
 
 ---

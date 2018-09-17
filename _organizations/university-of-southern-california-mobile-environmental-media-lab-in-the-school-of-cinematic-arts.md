@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
 organization_id: '2016248'
 year_submitted: '2016'
 organization_name: >-
@@ -44,5 +42,7 @@ title: >-
   School of Cinematic Arts
 uri: >-
   /organizations/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
 
 ---

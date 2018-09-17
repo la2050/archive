@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014177'
 year_submitted: '2014'
 organization_name: MetroHealth Station - Jefferson Park
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014177'
 title: MetroHealth Station - Jefferson Park
 uri: /organizations/metrohealth-station-jefferson-park/
+challenge_url: ''
 
 ---

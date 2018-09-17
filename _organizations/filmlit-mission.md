@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
 organization_id: '2016077'
 year_submitted: '2016'
 organization_name: FILMLIT MISSION
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016077'
 title: FILMLIT MISSION
 uri: /organizations/filmlit-mission/
+challenge_url: >-
+  https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
 
 ---

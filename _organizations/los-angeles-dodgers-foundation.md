@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
 organization_id: '2018074'
 year_submitted: '2018'
 organization_name: Los Angeles Dodgers Foundation
@@ -31,6 +30,7 @@ project_ids: '8102074'
 organization_id_2: '2018074'
 title: Los Angeles Dodgers Foundation
 uri: /organizations/los-angeles-dodgers-foundation/
+challenge_url: 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
 category: play
 
 ---

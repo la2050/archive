@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
 organization_id: '2016052'
 year_submitted: '2016'
 organization_name: Community Healing Gardens
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016052'
 title: Community Healing Gardens
 uri: /organizations/community-healing-gardens/
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
 
 ---

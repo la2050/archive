@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/begreat.html'
 organization_id: '2013020'
 year_submitted: '2013'
 organization_name: Boys & Girls Club of Mar Vista Gardens
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013020'
 title: Boys & Girls Club of Mar Vista Gardens
 uri: /organizations/boys-girls-club-of-mar-vista-gardens/
+challenge_url: 'http://maker.good.is/myla2050/projects/begreat.html'
 
 ---

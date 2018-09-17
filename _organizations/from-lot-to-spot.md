@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
 organization_id: '2015069'
 year_submitted: '2015'
 organization_name: From Lot to Spot
@@ -25,5 +24,6 @@ project_ids: '5102107'
 organization_id_2: '2015069'
 title: From Lot to Spot
 uri: /organizations/from-lot-to-spot/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
 
 ---

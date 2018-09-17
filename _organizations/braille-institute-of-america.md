@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
 organization_id: '2016024'
 year_submitted: '2016'
 organization_name: Braille Institute of America
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016024'
 title: Braille Institute of America
 uri: /organizations/braille-institute-of-america/
+challenge_url: >-
+  https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
 
 ---

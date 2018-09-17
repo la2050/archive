@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
 organization_id: '2016125'
 year_submitted: '2016'
 organization_name: LA Voice
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016125'
 title: LA Voice
 uri: /organizations/la-voice/
+challenge_url: >-
+  https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
 
 ---

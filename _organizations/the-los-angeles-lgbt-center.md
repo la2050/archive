@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014207'
 year_submitted: '2014'
 organization_name: The Los Angeles LGBT Center
@@ -24,5 +23,6 @@ project_ids: '4102174'
 organization_id_2: '2014207'
 title: The Los Angeles LGBT Center
 uri: /organizations/the-los-angeles-lgbt-center/
+challenge_url: ''
 
 ---

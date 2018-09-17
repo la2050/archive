@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/regional-la/'
 organization_id: '2018102'
 year_submitted: '2018'
 organization_name: REGIONAL.LA
@@ -42,6 +41,7 @@ project_ids: '8102102'
 organization_id_2: '2018102'
 title: REGIONAL.LA
 uri: /organizations/regional-la/
+challenge_url: 'https://activation.la2050.org/connect/regional-la/'
 category: connect
 
 ---

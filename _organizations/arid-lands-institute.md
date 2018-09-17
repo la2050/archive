@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014115'
 year_submitted: '2014'
 organization_name: Arid Lands Institute
@@ -24,5 +23,6 @@ project_ids: '4102113'
 organization_id_2: '2014115'
 title: Arid Lands Institute
 uri: /organizations/arid-lands-institute/
+challenge_url: ''
 
 ---

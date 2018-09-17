@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
 organization_id: '2015063'
 year_submitted: '2015'
 organization_name: Farm LA
@@ -24,5 +23,6 @@ project_ids: '5102100'
 organization_id_2: '2015063'
 title: Farm LA
 uri: /organizations/farm-la/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
 
 ---

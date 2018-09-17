@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
 organization_id: '2015158'
 year_submitted: '2015'
 organization_name: >-
@@ -29,5 +28,6 @@ title: >-
   Los Angeles High School (POLAHS)
 uri: >-
   /organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
 
 ---

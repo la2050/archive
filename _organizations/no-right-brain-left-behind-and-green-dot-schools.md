@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
 organization_id: '2013145'
 year_submitted: '2013'
 organization_name: No Right Brain Left Behind and Green Dot Schools
@@ -52,5 +51,6 @@ project_ids: ''
 organization_id_2: '2013145'
 title: No Right Brain Left Behind and Green Dot Schools
 uri: /organizations/no-right-brain-left-behind-and-green-dot-schools/
+challenge_url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
 
 ---

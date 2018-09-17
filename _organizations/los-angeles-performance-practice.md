@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
 organization_id: '2014056'
 year_submitted: '2014'
 organization_name: Los Angeles Performance Practice
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014056'
 title: Los Angeles Performance Practice
 uri: /organizations/los-angeles-performance-practice/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
 
 ---

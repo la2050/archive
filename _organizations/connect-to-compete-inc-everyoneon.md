@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
 organization_id: '2018030'
 year_submitted: '2018'
 organization_name: 'Connect to Compete, Inc (EveryoneOn)'
@@ -30,6 +29,7 @@ project_ids: '8102030'
 organization_id_2: '2018030'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 uri: /organizations/connect-to-compete-inc-everyoneon/
+challenge_url: 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
 category: connect
 
 ---

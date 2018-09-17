@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014150'
 year_submitted: '2014'
 organization_name: Home Front Build
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014150'
 title: Home Front Build
 uri: /organizations/home-front-build/
+challenge_url: ''
 
 ---

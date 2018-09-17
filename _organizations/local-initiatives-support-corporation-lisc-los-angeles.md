@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'
 organization_id: '2015116'
 year_submitted: '2015'
 organization_name: Local Initiatives Support Corporation (LISC) Los Angeles
@@ -24,5 +23,6 @@ project_ids: '5102179'
 organization_id_2: '2015116'
 title: Local Initiatives Support Corporation (LISC) Los Angeles
 uri: /organizations/local-initiatives-support-corporation-lisc-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'
 
 ---

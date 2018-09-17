@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
 organization_id: '2014008'
 year_submitted: '2014'
 organization_name: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
@@ -24,5 +23,6 @@ project_ids: '4102009'
 organization_id_2: '2014008'
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 uri: /organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
 
 ---

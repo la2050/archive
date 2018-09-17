@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
 organization_id: '2016126'
 year_submitted: '2016'
 organization_name: LAND (Los Angeles Nomadic Division)
@@ -33,5 +32,6 @@ project_ids: ''
 organization_id_2: '2016126'
 title: LAND (Los Angeles Nomadic Division)
 uri: /organizations/land-los-angeles-nomadic-division/
+challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
 
 ---

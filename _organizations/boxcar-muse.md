@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
 organization_id: '2016022'
 year_submitted: '2016'
 organization_name: boxcar+muse
@@ -31,5 +29,7 @@ project_ids: '5102119'
 organization_id_2: '2016022'
 title: boxcar+muse
 uri: /organizations/boxcar-muse/
+challenge_url: >-
+  https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
 
 ---

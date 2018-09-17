@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
 organization_id: '2018085'
 year_submitted: '2018'
 organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
@@ -31,6 +29,8 @@ organization_id_2: '2018085'
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 uri: >-
   /organizations/multicultural-communities-for-mobility-a-project-of-community-partners/
+challenge_url: >-
+  https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014156'
 year_submitted: '2014'
 organization_name: 'IN THE CITY, INC.'
@@ -24,5 +23,6 @@ project_ids: '4102139'
 organization_id_2: '2014156'
 title: 'IN THE CITY, INC.'
 uri: /organizations/in-the-city-inc/
+challenge_url: ''
 
 ---

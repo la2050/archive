@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ELDORADOPARK.html'
 organization_id: '2015140'
 year_submitted: '2015'
 organization_name: Mountains Recreation and Conservation Authority
@@ -25,5 +24,6 @@ project_ids: '5102211'
 organization_id_2: '2015140'
 title: Mountains Recreation and Conservation Authority
 uri: /organizations/mountains-recreation-and-conservation-authority/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ELDORADOPARK.html'
 
 ---

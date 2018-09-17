@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/smartairla/'
 organization_id: '2018110'
 year_submitted: '2018'
 organization_name: SmartAirLA
@@ -40,6 +39,7 @@ project_ids: '8102110'
 organization_id_2: '2018110'
 title: SmartAirLA
 uri: /organizations/smartairla/
+challenge_url: 'https://activation.la2050.org/live/smartairla/'
 category: live
 
 ---

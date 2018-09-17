@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/the-transplant-journey'
 organization_id: '2016017'
 year_submitted: '2016'
 organization_name: Ava's Heart
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016017'
 title: Ava's Heart
 uri: /organizations/avas-heart/
+challenge_url: 'https://challenge.la2050.org/entry/the-transplant-journey'
 
 ---

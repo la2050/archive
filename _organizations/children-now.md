@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/children-now/'
 organization_id: '2018019'
 year_submitted: '2018'
 organization_name: Children Now
@@ -28,6 +27,7 @@ project_ids: '8102019'
 organization_id_2: '2018019'
 title: Children Now
 uri: /organizations/children-now/
+challenge_url: 'https://activation.la2050.org/connect/children-now/'
 category: connect
 
 ---

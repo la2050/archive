@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/caleitc4me/'
 organization_id: '2018012'
 year_submitted: '2018'
 organization_name: CalEITC4Me
@@ -31,6 +30,7 @@ project_ids: '8102012'
 organization_id_2: '2018012'
 title: CalEITC4Me
 uri: /organizations/caleitc4me/
+challenge_url: 'https://activation.la2050.org/live/caleitc4me/'
 category: live
 
 ---

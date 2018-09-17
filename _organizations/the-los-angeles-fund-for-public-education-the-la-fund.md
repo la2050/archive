@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014206'
 year_submitted: '2014'
 organization_name: The Los Angeles Fund For Public Education (The LA Fund)
@@ -24,5 +23,6 @@ project_ids: '4102173'
 organization_id_2: '2014206'
 title: The Los Angeles Fund For Public Education (The LA Fund)
 uri: /organizations/the-los-angeles-fund-for-public-education-the-la-fund/
+challenge_url: ''
 
 ---

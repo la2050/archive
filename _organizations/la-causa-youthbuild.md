@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/saladbowl.html'
 organization_id: '2013112'
 year_submitted: '2013'
 organization_name: LA CAUSA YouthBuild
@@ -53,5 +52,6 @@ project_ids: ''
 organization_id_2: '2013112'
 title: LA CAUSA YouthBuild
 uri: /organizations/la-causa-youthbuild/
+challenge_url: 'http://maker.good.is/myla2050/projects/saladbowl.html'
 
 ---

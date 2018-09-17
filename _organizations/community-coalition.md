@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/SaferHoods.html'
 organization_id: '2013044'
 year_submitted: '2013'
 organization_name: Community Coalition
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013044'
 title: Community Coalition
 uri: /organizations/community-coalition/
+challenge_url: 'http://maker.good.is/myla2050/projects/SaferHoods.html'
 
 ---

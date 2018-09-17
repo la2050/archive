@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/larchmont-charter-school/'
 organization_id: '2018064'
 year_submitted: '2018'
 organization_name: Larchmont Charter School
@@ -34,6 +33,7 @@ project_ids: '8102064'
 organization_id_2: '2018064'
 title: Larchmont Charter School
 uri: /organizations/larchmont-charter-school/
+challenge_url: 'https://activation.la2050.org/connect/larchmont-charter-school/'
 category: connect
 
 ---

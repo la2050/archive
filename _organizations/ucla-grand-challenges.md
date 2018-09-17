@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014217'
 year_submitted: '2014'
 organization_name: UCLA Grand Challenges
@@ -24,5 +23,6 @@ project_ids: '4102180'
 organization_id_2: '2014217'
 title: UCLA Grand Challenges
 uri: /organizations/ucla-grand-challenges/
+challenge_url: ''
 
 ---

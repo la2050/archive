@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
 organization_id: '2016130'
 year_submitted: '2016'
 organization_name: Light and Life Christian Fellowship Community Center
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016130'
 title: Light and Life Christian Fellowship Community Center
 uri: /organizations/light-and-life-christian-fellowship-community-center/
+challenge_url: >-
+  https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
 
 ---

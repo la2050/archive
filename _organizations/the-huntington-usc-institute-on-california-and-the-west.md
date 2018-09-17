@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LASA.html'
 organization_id: '2013189'
 year_submitted: '2013'
 organization_name: The Huntington-USC Institute on California and the West
@@ -55,5 +54,6 @@ project_ids: ''
 organization_id_2: '2013189'
 title: The Huntington-USC Institute on California and the West
 uri: /organizations/the-huntington-usc-institute-on-california-and-the-west/
+challenge_url: 'http://maker.good.is/myla2050/projects/LASA.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
 organization_id: '2016251'
 year_submitted: '2016'
 organization_name: Valley Relics
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016251'
 title: Valley Relics
 uri: /organizations/valley-relics/
+challenge_url: >-
+  https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
 organization_id: '2014040'
 year_submitted: '2014'
 organization_name: Ghetto Film School
@@ -24,5 +23,6 @@ project_ids: '4102041'
 organization_id_2: '2014040'
 title: Ghetto Film School
 uri: /organizations/ghetto-film-school/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
 
 ---

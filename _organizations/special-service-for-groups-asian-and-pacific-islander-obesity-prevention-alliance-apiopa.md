@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
 organization_id: '2013170'
 year_submitted: '2013'
 organization_name: >-
@@ -64,5 +63,6 @@ title: >-
   Alliance (APIOPA)
 uri: >-
   /organizations/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/
+challenge_url: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
 
 ---

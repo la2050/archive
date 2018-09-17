@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
 organization_id: '2015179'
 year_submitted: '2015'
 organization_name: Shane's Inspiration
@@ -26,5 +25,6 @@ project_ids: '5102266'
 organization_id_2: '2015179'
 title: Shane's Inspiration
 uri: /organizations/shanes-inspiration/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
 
 ---

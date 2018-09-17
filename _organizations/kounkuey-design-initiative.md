@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/kounkuey-design-initiative/'
 organization_id: '2018058'
 year_submitted: '2018'
 organization_name: Kounkuey Design Initiative
@@ -39,6 +38,7 @@ project_ids: '8102058'
 organization_id_2: '2018058'
 title: Kounkuey Design Initiative
 uri: /organizations/kounkuey-design-initiative/
+challenge_url: 'https://activation.la2050.org/play/kounkuey-design-initiative/'
 category: play
 
 ---

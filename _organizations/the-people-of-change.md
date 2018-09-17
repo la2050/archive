@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/learn/the-people-of-change/'
 organization_id: '2018122'
 year_submitted: '2018'
 organization_name: The People of Change
@@ -29,6 +28,7 @@ project_ids: '8102122'
 organization_id_2: '2018122'
 title: The People of Change
 uri: /organizations/the-people-of-change/
+challenge_url: 'https://activation.la2050.org/learn/the-people-of-change/'
 category: learn
 
 ---

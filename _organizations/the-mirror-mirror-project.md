@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
 organization_id: '2014094'
 year_submitted: '2014'
 organization_name: 'The Mirror, Mirror Project'
@@ -24,5 +23,6 @@ project_ids: '4102094'
 organization_id_2: '2014094'
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
 
 ---

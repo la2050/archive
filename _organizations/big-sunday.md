@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
 organization_id: '2016020'
 year_submitted: '2016'
 organization_name: Big Sunday
@@ -39,5 +38,6 @@ project_ids: ''
 organization_id_2: '2016020'
 title: Big Sunday
 uri: /organizations/big-sunday/
+challenge_url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
 
 ---

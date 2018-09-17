@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
 organization_id: '2016157'
 year_submitted: '2016'
 organization_name: 'New Directions for Youth, Inc'
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016157'
 title: 'New Directions for Youth, Inc'
 uri: /organizations/new-directions-for-youth-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
 organization_id: '2015144'
 year_submitted: '2015'
 organization_name: Netiya
@@ -27,5 +26,6 @@ project_ids: '5102220'
 organization_id_2: '2015144'
 title: Netiya
 uri: /organizations/netiya/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
 
 ---

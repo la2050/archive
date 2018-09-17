@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
 organization_id: '2016167'
 year_submitted: '2016'
 organization_name: Pedagogics Coaching Group
@@ -28,5 +26,7 @@ project_ids: '5102273'
 organization_id_2: '2016167'
 title: Pedagogics Coaching Group
 uri: /organizations/pedagogics-coaching-group/
+challenge_url: >-
+  https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
 
 ---

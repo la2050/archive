@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014216'
 year_submitted: '2014'
 organization_name: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
@@ -25,5 +24,6 @@ organization_id_2: '2014216'
 title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 uri: >-
   /organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/
+challenge_url: ''
 
 ---

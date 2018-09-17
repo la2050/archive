@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
 organization_id: '2016192'
 year_submitted: '2016'
 organization_name: SIJCC
@@ -32,5 +30,7 @@ project_ids: ''
 organization_id_2: '2016192'
 title: SIJCC
 uri: /organizations/sijcc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
 
 ---

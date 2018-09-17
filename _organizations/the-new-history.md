@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
 organization_id: '2014095'
 year_submitted: '2014'
 organization_name: The New History
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014095'
 title: The New History
 uri: /organizations/the-new-history/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
 
 ---

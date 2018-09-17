@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/roadtrip-nation/'
 organization_id: '2018104'
 year_submitted: '2018'
 organization_name: Roadtrip Nation
@@ -41,6 +40,7 @@ project_ids: '8102104'
 organization_id_2: '2018104'
 title: Roadtrip Nation
 uri: /organizations/roadtrip-nation/
+challenge_url: 'https://activation.la2050.org/create/roadtrip-nation/'
 category: create
 
 ---

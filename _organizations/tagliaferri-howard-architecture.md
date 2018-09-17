@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html'
 organization_id: '2015194'
 year_submitted: '2015'
 organization_name: Tagliaferri Howard Architecture
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015194'
 title: Tagliaferri Howard Architecture
 uri: /organizations/tagliaferri-howard-architecture/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html'
 
 ---

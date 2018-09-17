@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
 organization_id: '2015227'
 year_submitted: '2015'
 organization_name: Yes4arts
@@ -27,5 +26,6 @@ project_ids: '5102343'
 organization_id_2: '2015227'
 title: Yes4arts
 uri: /organizations/yes4arts/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
 
 ---

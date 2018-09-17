@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
 organization_id: '2015005'
 year_submitted: '2015'
 organization_name: 'After-School All-Stars, Los Angeles'
@@ -28,5 +27,6 @@ project_ids: '5102010'
 organization_id_2: '2015005'
 title: 'After-School All-Stars, Los Angeles'
 uri: /organizations/after-school-all-stars-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
 
 ---

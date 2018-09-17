@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
 organization_id: '2016047'
 year_submitted: '2016'
 organization_name: College Bridge
@@ -40,5 +38,7 @@ project_ids: ''
 organization_id_2: '2016047'
 title: College Bridge
 uri: /organizations/college-bridge/
+challenge_url: >-
+  https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
 
 ---

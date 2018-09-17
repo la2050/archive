@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
 organization_id: '2014027'
 year_submitted: '2014'
 organization_name: Droplabs
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014027'
 title: Droplabs
 uri: /organizations/droplabs/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/evolvela.html'
 organization_id: '2013069'
 year_submitted: '2013'
 organization_name: FLARB LLC
@@ -48,5 +47,6 @@ project_ids: '4102029'
 organization_id_2: '2013069'
 title: FLARB LLC
 uri: /organizations/flarb-llc/
+challenge_url: 'http://maker.good.is/myla2050/projects/evolvela.html'
 
 ---

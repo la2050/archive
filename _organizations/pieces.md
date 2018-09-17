@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
 organization_id: '2016171'
 year_submitted: '2016'
 organization_name: PIECES
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016171'
 title: PIECES
 uri: /organizations/pieces/
+challenge_url: >-
+  https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
 
 ---

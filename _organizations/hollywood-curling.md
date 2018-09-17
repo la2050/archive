@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
 organization_id: '2015086'
 year_submitted: '2015'
 organization_name: Hollywood Curling
@@ -28,5 +27,6 @@ project_ids: '5102134'
 organization_id_2: '2015086'
 title: Hollywood Curling
 uri: /organizations/hollywood-curling/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
 
 ---

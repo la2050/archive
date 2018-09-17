@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014162'
 year_submitted: '2014'
 organization_name: LINCOLN HEIGHTS HEALTH INITIATIVE
@@ -24,5 +23,6 @@ project_ids: '4102145'
 organization_id_2: '2014162'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
 uri: /organizations/lincoln-heights-health-initiative/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/re-make-it-la'
 organization_id: '2016055'
 year_submitted: '2016'
 organization_name: Concerned Capital
@@ -31,5 +30,6 @@ project_ids: '5102152'
 organization_id_2: '2016055'
 title: Concerned Capital
 uri: /organizations/concerned-capital/
+challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
 
 ---

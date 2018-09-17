@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
 organization_id: '2015131'
 year_submitted: '2015'
 organization_name: Los Angeles Underwater Explorers; Ghost Fishing
@@ -25,5 +24,6 @@ project_ids: '5102198'
 organization_id_2: '2015131'
 title: Los Angeles Underwater Explorers; Ghost Fishing
 uri: /organizations/los-angeles-underwater-explorers-ghost-fishing/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
 
 ---

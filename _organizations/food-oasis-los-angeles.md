@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
 organization_id: '2016080'
 year_submitted: '2016'
 organization_name: Food Oasis Los Angeles
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016080'
 title: Food Oasis Los Angeles
 uri: /organizations/food-oasis-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/hacker-fund/'
 organization_id: '2018050'
 year_submitted: '2018'
 organization_name: Hacker Fund
@@ -29,6 +28,7 @@ project_ids: '8102050'
 organization_id_2: '2018050'
 title: Hacker Fund
 uri: /organizations/hacker-fund/
+challenge_url: 'https://activation.la2050.org/create/hacker-fund/'
 category: create
 
 ---

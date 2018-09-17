@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014144'
 year_submitted: '2014'
 organization_name: General Assembly Opportunity Fund
@@ -24,5 +23,6 @@ project_ids: '4102064'
 organization_id_2: '2014144'
 title: General Assembly Opportunity Fund
 uri: /organizations/general-assembly-opportunity-fund/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
 organization_id: '2014062'
 year_submitted: '2014'
 organization_name: NewFilmmakers Los Angeles
@@ -26,5 +25,6 @@ project_ids: '4102063'
 organization_id_2: '2014062'
 title: NewFilmmakers Los Angeles
 uri: /organizations/newfilmmakers-los-angeles/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
 
 ---

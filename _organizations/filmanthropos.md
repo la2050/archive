@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
 organization_id: '2013066'
 year_submitted: '2013'
 organization_name: Filmanthropos
@@ -28,5 +27,6 @@ project_ids: '5102037'
 organization_id_2: '2013066'
 title: Filmanthropos
 uri: /organizations/filmanthropos/
+challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
 
 ---

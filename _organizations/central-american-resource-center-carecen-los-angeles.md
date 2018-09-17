@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014122'
 year_submitted: '2014'
 organization_name: Central American Resource Center - CARECEN - Los Angeles
@@ -24,5 +23,6 @@ project_ids: '4102119'
 organization_id_2: '2014122'
 title: Central American Resource Center - CARECEN - Los Angeles
 uri: /organizations/central-american-resource-center-carecen-los-angeles/
+challenge_url: ''
 
 ---

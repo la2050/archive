@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/stimulateLA.html'
 organization_id: '2013124'
 year_submitted: '2013'
 organization_name: Los Angeles Forum for Architecture and Urban Design
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013124'
 title: Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/los-angeles-forum-for-architecture-and-urban-design/
+challenge_url: 'http://maker.good.is/myla2050/projects/stimulateLA.html'
 
 ---

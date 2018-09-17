@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
 organization_id: '2016208'
 year_submitted: '2016'
 organization_name: Tampon Tribe
@@ -30,5 +28,7 @@ project_ids: '4102210'
 organization_id_2: '2016208'
 title: Tampon Tribe
 uri: /organizations/tampon-tribe/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Innovate.html'
 organization_id: '2013162'
 year_submitted: '2013'
 organization_name: reDiscover Center
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013162'
 title: reDiscover Center
 uri: /organizations/rediscover-center/
+challenge_url: 'http://maker.good.is/myla2050/projects/Innovate.html'
 
 ---

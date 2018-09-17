@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014163'
 year_submitted: '2014'
 organization_name: Little Tokyo Community Council
@@ -24,5 +23,6 @@ project_ids: '4102146'
 organization_id_2: '2014163'
 title: Little Tokyo Community Council
 uri: /organizations/little-tokyo-community-council/
+challenge_url: ''
 
 ---

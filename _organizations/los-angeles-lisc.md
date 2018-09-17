@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
 organization_id: '2016136'
 year_submitted: '2016'
 organization_name: Los Angeles LISC
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2016136'
 title: Los Angeles LISC
 uri: /organizations/los-angeles-lisc/
+challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
 
 ---

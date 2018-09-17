@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
 organization_id: '2014075'
 year_submitted: '2014'
 organization_name: QueerFest
@@ -24,5 +23,6 @@ project_ids: '4102076'
 organization_id_2: '2014075'
 title: QueerFest
 uri: /organizations/queerfest/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
 
 ---

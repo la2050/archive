@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/team-rubicon/'
 organization_id: '2018116'
 year_submitted: '2018'
 organization_name: Team Rubicon
@@ -34,6 +33,7 @@ project_ids: '8102116'
 organization_id_2: '2018116'
 title: Team Rubicon
 uri: /organizations/team-rubicon/
+challenge_url: 'https://activation.la2050.org/live/team-rubicon/'
 category: live
 
 ---

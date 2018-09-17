@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
 organization_id: '2015078'
 year_submitted: '2015'
 organization_name: 'GrowGood, Inc.'
@@ -26,5 +25,6 @@ project_ids: '5102124'
 organization_id_2: '2015078'
 title: 'GrowGood, Inc.'
 uri: /organizations/growgood-inc/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
 
 ---

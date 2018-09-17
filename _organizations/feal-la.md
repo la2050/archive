@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
 organization_id: '2015064'
 year_submitted: '2015'
 organization_name: FEAL.LA
@@ -25,5 +24,6 @@ project_ids: '8102082'
 organization_id_2: '2015064'
 title: FEAL.LA
 uri: /organizations/feal-la/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
 
 ---

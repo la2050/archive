@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
 organization_id: '2013063'
 year_submitted: '2013'
 organization_name: ESP Empowering Services Through Partnerships
@@ -27,5 +26,6 @@ project_ids: '4102027'
 organization_id_2: '2013063'
 title: ESP Empowering Services Through Partnerships
 uri: /organizations/esp-empowering-services-through-partnerships/
+challenge_url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
 
 ---

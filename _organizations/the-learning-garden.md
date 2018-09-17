@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Gardens.html'
 organization_id: '2013192'
 year_submitted: '2013'
 organization_name: The Learning Garden
@@ -41,5 +40,6 @@ project_ids: ''
 organization_id_2: '2013192'
 title: The Learning Garden
 uri: /organizations/the-learning-garden/
+challenge_url: 'http://maker.good.is/myla2050/projects/Gardens.html'
 
 ---

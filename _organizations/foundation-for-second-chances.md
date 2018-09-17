@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'
 organization_id: '2015066'
 year_submitted: '2015'
 organization_name: Foundation for Second Chances
@@ -25,5 +24,6 @@ project_ids: '5102104'
 organization_id_2: '2015066'
 title: Foundation for Second Chances
 uri: /organizations/foundation-for-second-chances/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'
 
 ---

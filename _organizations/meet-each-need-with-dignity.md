@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014175'
 year_submitted: '2014'
 organization_name: Meet Each Need with Dignity
@@ -24,5 +23,6 @@ project_ids: '4102153'
 organization_id_2: '2014175'
 title: Meet Each Need with Dignity
 uri: /organizations/meet-each-need-with-dignity/
+challenge_url: ''
 
 ---

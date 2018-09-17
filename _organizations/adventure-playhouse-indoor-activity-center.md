@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
 organization_id: '2015004'
 year_submitted: '2015'
 organization_name: Adventure Playhouse Indoor Activity Center
@@ -25,5 +24,6 @@ project_ids: ''
 organization_id_2: '2015004'
 title: Adventure Playhouse Indoor Activity Center
 uri: /organizations/adventure-playhouse-indoor-activity-center/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
 
 ---

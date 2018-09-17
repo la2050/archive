@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
 organization_id: '2014063'
 year_submitted: '2014'
 organization_name: NextStage Agency
@@ -24,5 +23,6 @@ project_ids: '4102124'
 organization_id_2: '2014063'
 title: NextStage Agency
 uri: /organizations/nextstage-agency/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
 
 ---

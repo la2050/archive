@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
 organization_id: '2016059'
 year_submitted: '2016'
 organization_name: Cornerstone Theater Company
@@ -33,5 +31,7 @@ project_ids: ''
 organization_id_2: '2016059'
 title: Cornerstone Theater Company
 uri: /organizations/cornerstone-theater-company/
+challenge_url: >-
+  https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/everwild/'
 organization_id: '2018038'
 year_submitted: '2018'
 organization_name: EverWild
@@ -28,6 +27,7 @@ project_ids: '8102038'
 organization_id_2: '2018038'
 title: EverWild
 uri: /organizations/everwild/
+challenge_url: 'https://activation.la2050.org/play/everwild/'
 category: play
 
 ---

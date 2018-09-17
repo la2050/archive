@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
 organization_id: '2018018'
 year_submitted: '2018'
 organization_name: Child360 (formerly Los Angeles Universal Preschool)
@@ -32,6 +30,8 @@ project_ids: '8102018'
 organization_id_2: '2018018'
 title: Child360 (formerly Los Angeles Universal Preschool)
 uri: /organizations/child360-formerly-los-angeles-universal-preschool/
+challenge_url: >-
+  https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
 category: connect
 
 ---

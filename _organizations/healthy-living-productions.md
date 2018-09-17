@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
 organization_id: '2016097'
 year_submitted: '2016'
 organization_name: Healthy Living Productions
@@ -36,5 +34,7 @@ project_ids: ''
 organization_id_2: '2016097'
 title: Healthy Living Productions
 uri: /organizations/healthy-living-productions/
+challenge_url: >-
+  https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
 
 ---

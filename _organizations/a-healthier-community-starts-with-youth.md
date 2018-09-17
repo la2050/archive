@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
 organization_id: '2018004'
 year_submitted: '2018'
 organization_name: A Healthier Community Starts with YOUth
@@ -29,6 +28,7 @@ project_ids: '8102004'
 organization_id_2: '2018004'
 title: A Healthier Community Starts with YOUth
 uri: /organizations/a-healthier-community-starts-with-youth/
+challenge_url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
 category: live
 
 ---

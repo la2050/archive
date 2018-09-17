@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014184'
 year_submitted: '2014'
 organization_name: Peace Over Violence
@@ -24,5 +23,6 @@ project_ids: '4102159'
 organization_id_2: '2014184'
 title: Peace Over Violence
 uri: /organizations/peace-over-violence/
+challenge_url: ''
 
 ---

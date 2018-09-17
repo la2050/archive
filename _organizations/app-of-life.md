@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
 organization_id: '2014007'
 year_submitted: '2014'
 organization_name: App of Life
@@ -26,5 +25,6 @@ project_ids: '5102108'
 organization_id_2: '2014007'
 title: App of Life
 uri: /organizations/app-of-life/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
 
 ---

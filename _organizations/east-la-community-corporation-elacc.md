@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
 organization_id: '2018035'
 year_submitted: '2018'
 organization_name: East LA Community Corporation (ELACC)
@@ -36,6 +35,7 @@ project_ids: '8102035'
 organization_id_2: '2018035'
 title: East LA Community Corporation (ELACC)
 uri: /organizations/east-la-community-corporation-elacc/
+challenge_url: 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
 category: create
 
 ---

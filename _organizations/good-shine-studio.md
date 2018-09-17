@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/good-shine-studio/'
 organization_id: '2018047'
 year_submitted: '2018'
 organization_name: Good Shine Studio
@@ -31,6 +30,7 @@ project_ids: '8102047'
 organization_id_2: '2018047'
 title: Good Shine Studio
 uri: /organizations/good-shine-studio/
+challenge_url: 'https://activation.la2050.org/connect/good-shine-studio/'
 category: connect
 
 ---

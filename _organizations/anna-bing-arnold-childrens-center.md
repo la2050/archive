@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
 organization_id: '2016010'
 year_submitted: '2016'
 organization_name: Anna Bing Arnold Children's Center
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016010'
 title: Anna Bing Arnold Children's Center
 uri: /organizations/anna-bing-arnold-childrens-center/
+challenge_url: >-
+  https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
 
 ---

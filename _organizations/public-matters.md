@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
 organization_id: '2015163'
 year_submitted: '2015'
 organization_name: Public Matters
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2015163'
 title: Public Matters
 uri: /organizations/public-matters/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LAwalks.html'
 organization_id: '2013126'
 year_submitted: '2013'
 organization_name: Los Angeles Walks
@@ -84,5 +83,6 @@ project_ids: ''
 organization_id_2: '2013126'
 title: Los Angeles Walks
 uri: /organizations/los-angeles-walks/
+challenge_url: 'http://maker.good.is/myla2050/projects/LAwalks.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
 organization_id: '2013009'
 year_submitted: '2013'
 organization_name: 'Alzheimer''s Association, California Southland Chapter'
@@ -45,5 +44,6 @@ project_ids: ''
 organization_id_2: '2013009'
 title: 'Alzheimer''s Association, California Southland Chapter'
 uri: /organizations/alzheimers-association-california-southland-chapter/
+challenge_url: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'
 organization_id: '2013016'
 year_submitted: '2013'
 organization_name: Arts for LA
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013016'
 title: Arts for LA
 uri: /organizations/arts-for-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'
 
 ---

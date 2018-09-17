@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/la-compost/'
 organization_id: '2018061'
 year_submitted: '2018'
 organization_name: LA Compost
@@ -39,6 +38,7 @@ project_ids: '8102061'
 organization_id_2: '2018061'
 title: LA Compost
 uri: /organizations/la-compost/
+challenge_url: 'https://activation.la2050.org/connect/la-compost/'
 category: connect
 
 ---

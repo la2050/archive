@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/rover.html'
 organization_id: '2014037'
 year_submitted: '2014'
 organization_name: Friends of the Los Angeles River
@@ -24,5 +23,6 @@ project_ids: '4102038'
 organization_id_2: '2014037'
 title: Friends of the Los Angeles River
 uri: /organizations/friends-of-the-los-angeles-river/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/rover.html'
 
 ---

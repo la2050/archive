@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
 organization_id: '2014023'
 year_submitted: '2014'
 organization_name: Critical Mass Dance Company (CMDC)
@@ -25,5 +24,6 @@ project_ids: '4102024'
 organization_id_2: '2014023'
 title: Critical Mass Dance Company (CMDC)
 uri: /organizations/critical-mass-dance-company-cmdc/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
 
 ---

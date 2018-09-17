@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
 organization_id: '2016101'
 year_submitted: '2016'
 organization_name: Hollywood Arts Council
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016101'
 title: Hollywood Arts Council
 uri: /organizations/hollywood-arts-council/
+challenge_url: >-
+  https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
 
 ---

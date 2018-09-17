@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'
 organization_id: '2016090'
 year_submitted: '2016'
 organization_name: Girls Inc. of Greater Los Angeles
@@ -32,5 +31,6 @@ project_ids: ''
 organization_id_2: '2016090'
 title: Girls Inc. of Greater Los Angeles
 uri: /organizations/girls-inc-of-greater-los-angeles/
+challenge_url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
 organization_id: '2016185'
 year_submitted: '2016'
 organization_name: River LA (formerly LA River Revitalization Corporation)
@@ -34,5 +32,7 @@ project_ids: ''
 organization_id_2: '2016185'
 title: River LA (formerly LA River Revitalization Corporation)
 uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
 
 ---

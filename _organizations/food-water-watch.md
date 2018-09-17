@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
 organization_id: '2016079'
 year_submitted: '2016'
 organization_name: Food & Water Watch
@@ -25,5 +23,7 @@ project_ids: ''
 organization_id_2: '2016079'
 title: Food & Water Watch
 uri: /organizations/food-water-watch/
+challenge_url: >-
+  https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
 
 ---

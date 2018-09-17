@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/peace.html'
 organization_id: '2014109'
 year_submitted: '2014'
 organization_name: World Peace One
@@ -26,5 +25,6 @@ project_ids: '4102108'
 organization_id_2: '2014109'
 title: World Peace One
 uri: /organizations/world-peace-one/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/peace.html'
 
 ---

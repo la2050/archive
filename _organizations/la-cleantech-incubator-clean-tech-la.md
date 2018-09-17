@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LACI.html'
 organization_id: '2013113'
 year_submitted: '2013'
 organization_name: LA Cleantech Incubator / Clean Tech LA
@@ -34,5 +33,6 @@ project_ids: ''
 organization_id_2: '2013113'
 title: LA Cleantech Incubator / Clean Tech LA
 uri: /organizations/la-cleantech-incubator-clean-tech-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/LACI.html'
 
 ---

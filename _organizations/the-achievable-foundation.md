@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014197'
 year_submitted: '2014'
 organization_name: The Achievable Foundation
@@ -24,5 +23,6 @@ project_ids: '4102167'
 organization_id_2: '2014197'
 title: The Achievable Foundation
 uri: /organizations/the-achievable-foundation/
+challenge_url: ''
 
 ---

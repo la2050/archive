@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/coro-southern-california/'
 organization_id: '2018031'
 year_submitted: '2018'
 organization_name: Coro Southern California
@@ -29,6 +28,7 @@ project_ids: '8102031'
 organization_id_2: '2018031'
 title: Coro Southern California
 uri: /organizations/coro-southern-california/
+challenge_url: 'https://activation.la2050.org/connect/coro-southern-california/'
 category: connect
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/help-create-schoolyard-habitats-for-people-and-wildlife-in-la!
 organization_id: '2016226'
 year_submitted: '2016'
 organization_name: The National Wildlife Federation
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016226'
 title: The National Wildlife Federation
 uri: /organizations/the-national-wildlife-federation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/help-create-schoolyard-habitats-for-people-and-wildlife-in-la!
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
 organization_id: '2013071'
 year_submitted: '2013'
 organization_name: For Learners of All Ages
@@ -48,5 +47,6 @@ project_ids: ''
 organization_id_2: '2013071'
 title: For Learners of All Ages
 uri: /organizations/for-learners-of-all-ages/
+challenge_url: 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/playla.html'
 organization_id: '2015105'
 year_submitted: '2015'
 organization_name: Knucklebones
@@ -29,5 +28,6 @@ project_ids: '5102240'
 organization_id_2: '2015105'
 title: Knucklebones
 uri: /organizations/knucklebones/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/playla.html'
 
 ---

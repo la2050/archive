@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/urbanair.html'
 organization_id: '2013173'
 year_submitted: '2013'
 organization_name: Stephen Glassman Studio
@@ -54,5 +53,6 @@ project_ids: '4102051'
 organization_id_2: '2013173'
 title: Stephen Glassman Studio
 uri: /organizations/stephen-glassman-studio/
+challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'
 
 ---

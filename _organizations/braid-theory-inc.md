@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
 organization_id: '2016023'
 year_submitted: '2016'
 organization_name: 'Braid Theory, Inc.'
@@ -31,5 +29,7 @@ project_ids: '5102121'
 organization_id_2: '2016023'
 title: 'Braid Theory, Inc.'
 uri: /organizations/braid-theory-inc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
 
 ---

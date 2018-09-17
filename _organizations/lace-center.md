@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
 organization_id: '2014049'
 year_submitted: '2014'
 organization_name: LACE Center
@@ -24,5 +23,6 @@ project_ids: '4102050'
 organization_id_2: '2014049'
 title: LACE Center
 uri: /organizations/lace-center/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
 
 ---

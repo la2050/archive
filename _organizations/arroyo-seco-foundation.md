@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
 organization_id: '2015013'
 year_submitted: '2015'
 organization_name: Arroyo Seco Foundation
@@ -26,5 +25,6 @@ project_ids: '5102020'
 organization_id_2: '2015013'
 title: Arroyo Seco Foundation
 uri: /organizations/arroyo-seco-foundation/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
 
 ---

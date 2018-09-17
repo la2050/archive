@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
 organization_id: '2013051'
 year_submitted: '2013'
 organization_name: Dear Los Angeles
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013051'
 title: Dear Los Angeles
 uri: /organizations/dear-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
 
 ---

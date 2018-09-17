@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/creativeactivists.html'
 organization_id: '2013048'
 year_submitted: '2013'
 organization_name: Creative Visions Foundation
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013048'
 title: Creative Visions Foundation
 uri: /organizations/creative-visions-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/creativeactivists.html'
 
 ---

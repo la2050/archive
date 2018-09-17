@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/synaccord-llc/'
 organization_id: '2018115'
 year_submitted: '2018'
 organization_name: 'Synaccord, LLC'
@@ -39,6 +38,7 @@ project_ids: '5102293'
 organization_id_2: '2018115'
 title: 'Synaccord, LLC'
 uri: /organizations/synaccord-llc/
+challenge_url: 'https://activation.la2050.org/connect/synaccord-llc/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
 organization_id: '2015042'
 year_submitted: '2015'
 organization_name: Communities for a Better Environment
@@ -34,5 +33,6 @@ project_ids: '5102074'
 organization_id_2: '2015042'
 title: Communities for a Better Environment
 uri: /organizations/communities-for-a-better-environment/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
 
 ---

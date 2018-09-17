@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
 organization_id: '2015060'
 year_submitted: '2015'
 organization_name: ExchangeWorks
@@ -24,5 +23,6 @@ project_ids: '4102133'
 organization_id_2: '2015060'
 title: ExchangeWorks
 uri: /organizations/exchangeworks/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
 organization_id: '2014067'
 year_submitted: '2014'
 organization_name: Pershing Square Park Advisory Board
@@ -24,5 +23,6 @@ project_ids: '4102068'
 organization_id_2: '2014067'
 title: Pershing Square Park Advisory Board
 uri: /organizations/pershing-square-park-advisory-board/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
 
 ---

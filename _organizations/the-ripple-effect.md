@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
 organization_id: '2015205'
 year_submitted: '2015'
 organization_name: The Ripple Effect
@@ -24,5 +23,6 @@ project_ids: '5102309'
 organization_id_2: '2015205'
 title: The Ripple Effect
 uri: /organizations/the-ripple-effect/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
 
 ---

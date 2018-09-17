@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
 organization_id: '2015008'
 year_submitted: '2015'
 organization_name: American Red Cross Los Angeles Region
@@ -28,5 +27,6 @@ project_ids: '5102015'
 organization_id_2: '2015008'
 title: American Red Cross Los Angeles Region
 uri: /organizations/american-red-cross-los-angeles-region/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
 
 ---

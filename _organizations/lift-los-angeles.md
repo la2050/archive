@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/lift-los-angeles/'
 organization_id: '2018068'
 year_submitted: '2018'
 organization_name: LIFT-Los Angeles
@@ -36,6 +35,7 @@ project_ids: '8102068'
 organization_id_2: '2018068'
 title: LIFT-Los Angeles
 uri: /organizations/lift-los-angeles/
+challenge_url: 'https://activation.la2050.org/live/lift-los-angeles/'
 category: live
 
 ---

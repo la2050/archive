@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
 organization_id: '2018026'
 year_submitted: '2018'
 organization_name: 'City of Los Angeles, Bureau of Street Lighting'
@@ -32,6 +30,8 @@ project_ids: '8102026'
 organization_id_2: '2018026'
 title: 'City of Los Angeles, Bureau of Street Lighting'
 uri: /organizations/city-of-los-angeles-bureau-of-street-lighting/
+challenge_url: >-
+  https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
 category: live
 
 ---

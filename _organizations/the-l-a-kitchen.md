@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/thelakitchen.html'
 organization_id: '2013190'
 year_submitted: '2013'
 organization_name: The L.A. Kitchen
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013190'
 title: The L.A. Kitchen
 uri: /organizations/the-l-a-kitchen/
+challenge_url: 'http://maker.good.is/myla2050/projects/thelakitchen.html'
 
 ---

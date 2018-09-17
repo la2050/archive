@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
 organization_id: '2015155'
 year_submitted: '2015'
 organization_name: >-
@@ -29,5 +28,6 @@ title: >-
   current transition filing 501c3 status for Play with Music)
 uri: >-
   /organizations/play-with-music-the-new-history-parent-organization-of-play-with-music-current-transition-filing-501c3-status-for-play-with-music/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
 
 ---

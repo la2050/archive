@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
 organization_id: '2014105'
 year_submitted: '2014'
 organization_name: Violence Prevention Coalition
@@ -24,5 +23,6 @@ project_ids: '4102104'
 organization_id_2: '2014105'
 title: Violence Prevention Coalition
 uri: /organizations/violence-prevention-coalition/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
 
 ---

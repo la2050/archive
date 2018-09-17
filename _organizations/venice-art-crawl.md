@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
 organization_id: '2013213'
 year_submitted: '2013'
 organization_name: Venice Art Crawl
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013213'
 title: Venice Art Crawl
 uri: /organizations/venice-art-crawl/
+challenge_url: 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
 
 ---

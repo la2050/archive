@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
 organization_id: '2013115'
 year_submitted: '2013'
 organization_name: LA Riverside Country Club
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013115'
 title: LA Riverside Country Club
 uri: /organizations/la-riverside-country-club/
+challenge_url: 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
 
 ---

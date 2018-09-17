@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
 organization_id: '2015090'
 year_submitted: '2015'
 organization_name: Independent Team of LA Residents
@@ -24,5 +23,6 @@ project_ids: '5102140'
 organization_id_2: '2015090'
 title: Independent Team of LA Residents
 uri: /organizations/independent-team-of-la-residents/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
 
 ---

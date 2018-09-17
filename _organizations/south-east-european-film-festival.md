@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
 organization_id: '2014083'
 year_submitted: '2014'
 organization_name: South East European Film Festival
@@ -24,5 +23,6 @@ project_ids: '4102084'
 organization_id_2: '2014083'
 title: South East European Film Festival
 uri: /organizations/south-east-european-film-festival/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
 
 ---

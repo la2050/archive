@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
 organization_id: '2016250'
 year_submitted: '2016'
 organization_name: USC Annenberg Innovation Lab
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016250'
 title: USC Annenberg Innovation Lab
 uri: /organizations/usc-annenberg-innovation-lab/
+challenge_url: >-
+  https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
 organization_id: '2018069'
 year_submitted: '2018'
 organization_name: LOLA
@@ -29,6 +28,7 @@ project_ids: ''
 organization_id_2: '2018069'
 title: LOLA
 uri: /organizations/lola/
+challenge_url: 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
 category: connect
 
 ---

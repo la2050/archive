@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
 organization_id: '2014028'
 year_submitted: '2014'
 organization_name: Dumlao Enterprises
@@ -26,5 +25,6 @@ project_ids: '8102052'
 organization_id_2: '2014028'
 title: Dumlao Enterprises
 uri: /organizations/dumlao-enterprises/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
 
 ---

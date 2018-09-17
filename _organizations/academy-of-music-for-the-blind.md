@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
 organization_id: '2015003'
 year_submitted: '2015'
 organization_name: Academy of Music for the Blind
@@ -24,5 +23,6 @@ project_ids: '5102008'
 organization_id_2: '2015003'
 title: Academy of Music for the Blind
 uri: /organizations/academy-of-music-for-the-blind/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
 
 ---

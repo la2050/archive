@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
 organization_id: '2016161'
 year_submitted: '2016'
 organization_name: Pacoima Beautiful
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016161'
 title: Pacoima Beautiful
 uri: /organizations/pacoima-beautiful/
+challenge_url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
 
 ---

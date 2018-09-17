@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
 organization_id: '2014048'
 year_submitted: '2014'
 organization_name: LA STAGE Alliance
@@ -24,5 +23,6 @@ project_ids: '4102049'
 organization_id_2: '2014048'
 title: LA STAGE Alliance
 uri: /organizations/la-stage-alliance/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
 
 ---

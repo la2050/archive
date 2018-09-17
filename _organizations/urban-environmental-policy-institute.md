@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
 organization_id: '2013208'
 year_submitted: '2013'
 organization_name: Urban & Environmental Policy Institute
@@ -50,5 +49,6 @@ project_ids: ''
 organization_id_2: '2013208'
 title: Urban & Environmental Policy Institute
 uri: /organizations/urban-environmental-policy-institute/
+challenge_url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
 
 ---

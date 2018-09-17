@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Clark.html'
 organization_id: '2013203'
 year_submitted: '2013'
 organization_name: UCLA William Andrews Clark Memorial Library
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013203'
 title: UCLA William Andrews Clark Memorial Library
 uri: /organizations/ucla-william-andrews-clark-memorial-library/
+challenge_url: 'http://maker.good.is/myla2050/projects/Clark.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
 organization_id: '2016249'
 year_submitted: '2016'
 organization_name: US Green Building Council-LA
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016249'
 title: US Green Building Council-LA
 uri: /organizations/us-green-building-council-la/
+challenge_url: >-
+  https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
 
 ---

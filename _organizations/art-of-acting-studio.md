@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
 organization_id: '2015014'
 year_submitted: '2015'
 organization_name: Art of Acting Studio
@@ -25,5 +24,6 @@ project_ids: '5102022'
 organization_id_2: '2015014'
 title: Art of Acting Studio
 uri: /organizations/art-of-acting-studio/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
 
 ---

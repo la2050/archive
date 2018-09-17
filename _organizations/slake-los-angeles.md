@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
 organization_id: '2013166'
 year_submitted: '2013'
 organization_name: 'Slake: Los Angeles'
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2013166'
 title: 'Slake: Los Angeles'
 uri: /organizations/slake-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
 
 ---

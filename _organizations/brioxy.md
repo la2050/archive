@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/brioxy/'
 organization_id: '2018011'
 year_submitted: '2018'
 organization_name: Brioxy
@@ -32,6 +31,7 @@ project_ids: '8102011'
 organization_id_2: '2018011'
 title: Brioxy
 uri: /organizations/brioxy/
+challenge_url: 'https://activation.la2050.org/create/brioxy/'
 category: create
 
 ---

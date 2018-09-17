@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
 organization_id: '2016003'
 year_submitted: '2016'
 organization_name: 50/50 Leadership
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2016003'
 title: 50/50 Leadership
 uri: /organizations/50-50-leadership/
+challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
 
 ---

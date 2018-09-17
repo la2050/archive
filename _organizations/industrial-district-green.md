@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
 organization_id: '2013096'
 year_submitted: '2013'
 organization_name: Industrial District Green
@@ -36,5 +35,6 @@ project_ids: ''
 organization_id_2: '2013096'
 title: Industrial District Green
 uri: /organizations/industrial-district-green/
+challenge_url: 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
 
 ---

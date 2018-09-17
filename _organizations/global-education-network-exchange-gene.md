@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014145'
 year_submitted: '2014'
 organization_name: Global Education Network Exchange (GENE)
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014145'
 title: Global Education Network Exchange (GENE)
 uri: /organizations/global-education-network-exchange-gene/
+challenge_url: ''
 
 ---

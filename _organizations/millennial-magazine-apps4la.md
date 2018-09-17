@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
 organization_id: '2014058'
 year_submitted: '2014'
 organization_name: 'Millennial Magazine: Apps4LA'
@@ -26,5 +25,6 @@ project_ids: '4102118'
 organization_id_2: '2014058'
 title: 'Millennial Magazine: Apps4LA'
 uri: /organizations/millennial-magazine-apps4la/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
 
 ---

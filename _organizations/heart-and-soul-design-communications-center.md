@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'
 organization_id: '2015084'
 year_submitted: '2015'
 organization_name: Heart and Soul Design Communications Center
@@ -25,5 +24,6 @@ project_ids: '5102131'
 organization_id_2: '2015084'
 title: Heart and Soul Design Communications Center
 uri: /organizations/heart-and-soul-design-communications-center/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'
 
 ---

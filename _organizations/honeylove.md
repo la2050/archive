@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
 organization_id: '2013091'
 year_submitted: '2013'
 organization_name: HoneyLove
@@ -40,5 +39,6 @@ project_ids: ''
 organization_id_2: '2013091'
 title: HoneyLove
 uri: /organizations/honeylove/
+challenge_url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
 
 ---

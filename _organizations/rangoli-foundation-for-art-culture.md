@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/moment.html'
 organization_id: '2014076'
 year_submitted: '2014'
 organization_name: Rangoli Foundation for Art & Culture
@@ -26,5 +25,6 @@ project_ids: '4102077'
 organization_id_2: '2014076'
 title: Rangoli Foundation for Art & Culture
 uri: /organizations/rangoli-foundation-for-art-culture/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/moment.html'
 
 ---

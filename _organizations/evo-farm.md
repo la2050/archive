@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
 organization_id: '2013064'
 year_submitted: '2013'
 organization_name: Evo Farm
@@ -54,5 +53,6 @@ project_ids: ''
 organization_id_2: '2013064'
 title: Evo Farm
 uri: /organizations/evo-farm/
+challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
 
 ---

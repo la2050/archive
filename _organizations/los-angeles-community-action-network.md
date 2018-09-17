@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
 organization_id: '2015121'
 year_submitted: '2015'
 organization_name: Los Angeles Community Action Network
@@ -27,5 +26,6 @@ project_ids: '5102186'
 organization_id_2: '2015121'
 title: Los Angeles Community Action Network
 uri: /organizations/los-angeles-community-action-network/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/PTP.html'
 organization_id: '2013043'
 year_submitted: '2013'
 organization_name: 'Communities In Schools of San Fernando Valley, Inc.'
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013043'
 title: 'Communities In Schools of San Fernando Valley, Inc.'
 uri: /organizations/communities-in-schools-of-san-fernando-valley-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/PTP.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
 organization_id: '2014042'
 year_submitted: '2014'
 organization_name: Holy Ghost Global
@@ -26,5 +25,6 @@ project_ids: '4102043'
 organization_id_2: '2014042'
 title: Holy Ghost Global
 uri: /organizations/holy-ghost-global/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
 
 ---

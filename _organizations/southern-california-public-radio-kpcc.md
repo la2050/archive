@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
 organization_id: '2016199'
 year_submitted: '2016'
 organization_name: Southern California Public Radio (KPCC)
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016199'
 title: Southern California Public Radio (KPCC)
 uri: /organizations/southern-california-public-radio-kpcc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
 
 ---

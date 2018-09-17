@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'
 organization_id: '2013177'
 year_submitted: '2013'
 organization_name: Sustainable Works a Project of Community Partners
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2013177'
 title: Sustainable Works a Project of Community Partners
 uri: /organizations/sustainable-works-a-project-of-community-partners/
+challenge_url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'
 
 ---

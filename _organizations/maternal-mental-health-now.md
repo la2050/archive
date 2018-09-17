@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
 organization_id: '2015134'
 year_submitted: '2015'
 organization_name: Maternal Mental Health NOW
@@ -25,5 +24,6 @@ project_ids: '5102203'
 organization_id_2: '2015134'
 title: Maternal Mental Health NOW
 uri: /organizations/maternal-mental-health-now/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
 
 ---

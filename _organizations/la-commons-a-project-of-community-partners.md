@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
 organization_id: '2018060'
 year_submitted: '2018'
 organization_name: 'LA Commons, a project of Community Partners'
@@ -34,6 +32,8 @@ project_ids: '8102060'
 organization_id_2: '2018060'
 title: 'LA Commons, a project of Community Partners'
 uri: /organizations/la-commons-a-project-of-community-partners/
+challenge_url: >-
+  https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
 category: connect
 
 ---

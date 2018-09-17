@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
 organization_id: '2016193'
 year_submitted: '2016'
 organization_name: 'SilverMotion, Inc.'
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016193'
 title: 'SilverMotion, Inc.'
 uri: /organizations/silvermotion-inc/
+challenge_url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
 
 ---

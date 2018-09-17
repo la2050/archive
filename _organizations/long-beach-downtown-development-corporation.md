@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/create/long-beach-downtown-development-corporation/
 organization_id: '2018071'
 year_submitted: '2018'
 organization_name: Long Beach Downtown Development Corporation
@@ -30,6 +28,8 @@ project_ids: '8102071'
 organization_id_2: '2018071'
 title: Long Beach Downtown Development Corporation
 uri: /organizations/long-beach-downtown-development-corporation/
+challenge_url: >-
+  https://activation.la2050.org/create/long-beach-downtown-development-corporation/
 category: create
 
 ---

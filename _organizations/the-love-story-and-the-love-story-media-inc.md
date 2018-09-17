@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
 organization_id: '2015203'
 year_submitted: '2015'
 organization_name: 'The Love Story and The Love Story Media, Inc.'
@@ -25,5 +24,6 @@ project_ids: '5102305'
 organization_id_2: '2015203'
 title: 'The Love Story and The Love Story Media, Inc.'
 uri: /organizations/the-love-story-and-the-love-story-media-inc/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
 
 ---

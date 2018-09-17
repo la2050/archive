@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
 organization_id: '2013097'
 year_submitted: '2013'
 organization_name: InsightLA
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2013097'
 title: InsightLA
 uri: /organizations/insightla/
+challenge_url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
 
 ---

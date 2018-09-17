@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'
 organization_id: '2015188'
 year_submitted: '2015'
 organization_name: Southern California Streets Initiative
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2015188'
 title: Southern California Streets Initiative
 uri: /organizations/southern-california-streets-initiative/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'
 
 ---

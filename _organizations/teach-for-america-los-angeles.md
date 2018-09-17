@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
 organization_id: '2016209'
 year_submitted: '2016'
 organization_name: Teach For America-Los Angeles
@@ -36,5 +34,7 @@ project_ids: ''
 organization_id_2: '2016209'
 title: Teach For America-Los Angeles
 uri: /organizations/teach-for-america-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
 
 ---

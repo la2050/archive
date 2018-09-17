@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
 organization_id: '2016025'
 year_submitted: '2016'
 organization_name: Break the Cycle
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016025'
 title: Break the Cycle
 uri: /organizations/break-the-cycle/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
 organization_id: '2015018'
 year_submitted: '2015'
 organization_name: Blueprint Earth
@@ -27,5 +26,6 @@ project_ids: '5102031'
 organization_id_2: '2015018'
 title: Blueprint Earth
 uri: /organizations/blueprint-earth/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
 
 ---

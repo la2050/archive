@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/creoutreach.html'
 organization_id: '2013046'
 year_submitted: '2013'
 organization_name: CRE Outreach
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013046'
 title: CRE Outreach
 uri: /organizations/cre-outreach/
+challenge_url: 'http://maker.good.is/myla2050/projects/creoutreach.html'
 
 ---

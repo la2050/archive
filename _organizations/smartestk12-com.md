@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/smartestk12.html'
 organization_id: '2013167'
 year_submitted: '2013'
 organization_name: smartestk12.com
@@ -34,5 +33,6 @@ project_ids: ''
 organization_id_2: '2013167'
 title: smartestk12.com
 uri: /organizations/smartestk12-com/
+challenge_url: 'http://maker.good.is/myla2050/projects/smartestk12.html'
 
 ---

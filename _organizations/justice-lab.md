@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
 organization_id: '2015101'
 year_submitted: '2015'
 organization_name: Justice Lab
@@ -24,5 +23,6 @@ project_ids: '5102155'
 organization_id_2: '2015101'
 title: Justice Lab
 uri: /organizations/justice-lab/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
 
 ---

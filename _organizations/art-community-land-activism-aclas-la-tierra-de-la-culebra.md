@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014116'
 year_submitted: '2014'
 organization_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
@@ -24,5 +23,6 @@ project_ids: '4102114'
 organization_id_2: '2014116'
 title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
 uri: /organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/
+challenge_url: ''
 
 ---

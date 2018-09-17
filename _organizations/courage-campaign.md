@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
 organization_id: '2013045'
 year_submitted: '2013'
 organization_name: Courage Campaign
@@ -62,5 +61,6 @@ project_ids: ''
 organization_id_2: '2013045'
 title: Courage Campaign
 uri: /organizations/courage-campaign/
+challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
 
 ---

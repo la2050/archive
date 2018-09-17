@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/C-360.html'
 organization_id: '2013108'
 year_submitted: '2013'
 organization_name: Kreative Images Foundation
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013108'
 title: Kreative Images Foundation
 uri: /organizations/kreative-images-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/C-360.html'
 
 ---

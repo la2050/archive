@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
 organization_id: '2015221'
 year_submitted: '2015'
 organization_name: Urban Word Los Angeles
@@ -24,5 +23,6 @@ project_ids: '5102336'
 organization_id_2: '2015221'
 title: Urban Word Los Angeles
 uri: /organizations/urban-word-los-angeles/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
 
 ---

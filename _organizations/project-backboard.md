@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
 organization_id: '2015159'
 year_submitted: '2015'
 organization_name: Project Backboard
@@ -26,5 +25,6 @@ project_ids: '5102243'
 organization_id_2: '2015159'
 title: Project Backboard
 uri: /organizations/project-backboard/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
 
 ---

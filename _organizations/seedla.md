@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/seedla/'
 organization_id: '2018107'
 year_submitted: '2018'
 organization_name: SeedLA
@@ -39,6 +38,7 @@ project_ids: '8102107'
 organization_id_2: '2018107'
 title: SeedLA
 uri: /organizations/seedla/
+challenge_url: 'https://activation.la2050.org/live/seedla/'
 category: live
 
 ---

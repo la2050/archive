@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
 organization_id: '2016118'
 year_submitted: '2016'
 organization_name: Knit Marketing
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016118'
 title: Knit Marketing
 uri: /organizations/knit-marketing/
+challenge_url: >-
+  https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
 
 ---

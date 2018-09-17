@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
 organization_id: '2015122'
 year_submitted: '2015'
 organization_name: Los Angeles County Economic Development Corporation
@@ -28,5 +27,6 @@ project_ids: '5102187'
 organization_id_2: '2015122'
 title: Los Angeles County Economic Development Corporation
 uri: /organizations/los-angeles-county-economic-development-corporation/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
 
 ---

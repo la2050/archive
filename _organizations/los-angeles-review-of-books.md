@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
 organization_id: '2016139'
 year_submitted: '2016'
 organization_name: Los Angeles Review of Books
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2016139'
 title: Los Angeles Review of Books
 uri: /organizations/los-angeles-review-of-books/
+challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
 
 ---

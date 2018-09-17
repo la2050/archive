@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
 organization_id: '2015055'
 year_submitted: '2015'
 organization_name: Eastside Rehearsal
@@ -26,5 +25,6 @@ project_ids: '5102181'
 organization_id_2: '2015055'
 title: Eastside Rehearsal
 uri: /organizations/eastside-rehearsal/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
 
 ---

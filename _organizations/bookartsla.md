@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
 organization_id: '2015019'
 year_submitted: '2015'
 organization_name: BookArtsLA
@@ -24,5 +23,6 @@ project_ids: '5102032'
 organization_id_2: '2015019'
 title: BookArtsLA
 uri: /organizations/bookartsla/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
 
 ---

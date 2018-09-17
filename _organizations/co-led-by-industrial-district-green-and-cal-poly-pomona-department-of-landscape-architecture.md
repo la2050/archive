@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
 organization_id: '2016045'
 year_submitted: '2016'
 organization_name: >-
@@ -34,5 +32,7 @@ title: >-
   Landscape Architecture.
 uri: >-
   /organizations/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
 
 ---

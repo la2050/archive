@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
 organization_id: '2014066'
 year_submitted: '2014'
 organization_name: Peace Allies
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2014066'
 title: Peace Allies
 uri: /organizations/peace-allies/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
 organization_id: '2014019'
 year_submitted: '2014'
 organization_name: Company of Angels (CoA)
@@ -26,5 +25,6 @@ project_ids: '4102020'
 organization_id_2: '2014019'
 title: Company of Angels (CoA)
 uri: /organizations/company-of-angels-coa/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
 
 ---

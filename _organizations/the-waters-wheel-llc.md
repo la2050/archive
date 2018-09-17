@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
 organization_id: '2013197'
 year_submitted: '2013'
 organization_name: 'The Waters Wheel, LLC'
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013197'
 title: 'The Waters Wheel, LLC'
 uri: /organizations/the-waters-wheel-llc/
+challenge_url: 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
 
 ---

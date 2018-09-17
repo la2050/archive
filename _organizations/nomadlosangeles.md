@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/LAVA.html'
 organization_id: '2014064'
 year_submitted: '2014'
 organization_name: Nomadlosangeles
@@ -26,5 +25,6 @@ project_ids: '4102065'
 organization_id_2: '2014064'
 title: Nomadlosangeles
 uri: /organizations/nomadlosangeles/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LAVA.html'
 
 ---

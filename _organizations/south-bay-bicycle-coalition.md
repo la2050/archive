@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
 organization_id: '2018111'
 year_submitted: '2018'
 organization_name: South Bay Bicycle Coalition
@@ -27,6 +26,7 @@ project_ids: '8102111'
 organization_id_2: '2018111'
 title: South Bay Bicycle Coalition
 uri: /organizations/south-bay-bicycle-coalition/
+challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
 category: play
 
 ---

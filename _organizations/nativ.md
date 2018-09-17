@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Nativ.html'
 organization_id: '2013140'
 year_submitted: '2013'
 organization_name: Nativ
@@ -46,5 +45,6 @@ project_ids: ''
 organization_id_2: '2013140'
 title: Nativ
 uri: /organizations/nativ/
+challenge_url: 'http://maker.good.is/myla2050/projects/Nativ.html'
 
 ---

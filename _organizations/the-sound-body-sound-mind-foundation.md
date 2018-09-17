@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
 organization_id: '2015206'
 year_submitted: '2015'
 organization_name: The Sound Body Sound Mind Foundation
@@ -26,5 +25,6 @@ project_ids: '5102311'
 organization_id_2: '2015206'
 title: The Sound Body Sound Mind Foundation
 uri: /organizations/the-sound-body-sound-mind-foundation/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
 
 ---

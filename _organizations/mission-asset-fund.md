@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
 organization_id: '2013136'
 year_submitted: '2013'
 organization_name: Mission Asset Fund
@@ -37,5 +36,6 @@ project_ids: ''
 organization_id_2: '2013136'
 title: Mission Asset Fund
 uri: /organizations/mission-asset-fund/
+challenge_url: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ltb.html'
 organization_id: '2013120'
 year_submitted: '2013'
 organization_name: Learn To Be Foundation
@@ -56,5 +55,6 @@ project_ids: ''
 organization_id_2: '2013120'
 title: Learn To Be Foundation
 uri: /organizations/learn-to-be-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/ltb.html'
 
 ---

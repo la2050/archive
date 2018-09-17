@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014191'
 year_submitted: '2014'
 organization_name: Southern California Institute of Architecture (SCI-Arc)
@@ -24,5 +23,6 @@ project_ids: '4102163'
 organization_id_2: '2014191'
 title: Southern California Institute of Architecture (SCI-Arc)
 uri: /organizations/southern-california-institute-of-architecture-sci-arc/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/diyfo.html'
 organization_id: '2013053'
 year_submitted: '2013'
 organization_name: DIYFO (Do-It-Yourself. For Others.)
@@ -36,5 +35,6 @@ project_ids: '5102018'
 organization_id_2: '2013053'
 title: DIYFO (Do-It-Yourself. For Others.)
 uri: /organizations/diyfo-do-it-yourself-for-others/
+challenge_url: 'http://maker.good.is/myla2050/projects/diyfo.html'
 
 ---

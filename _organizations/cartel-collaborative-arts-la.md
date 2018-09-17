@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/cartel.html'
 organization_id: '2013030'
 year_submitted: '2013'
 organization_name: 'cARTel: Collaborative Arts LA'
@@ -22,5 +21,6 @@ project_ids: '5102009'
 organization_id_2: '2013030'
 title: 'cARTel: Collaborative Arts LA'
 uri: /organizations/cartel-collaborative-arts-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/cartel.html'
 
 ---

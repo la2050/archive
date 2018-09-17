@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/citizens-of-culture/'
 organization_id: '2018022'
 year_submitted: '2018'
 organization_name: Citizens Of Culture
@@ -29,6 +28,7 @@ project_ids: '8102022'
 organization_id_2: '2018022'
 title: Citizens Of Culture
 uri: /organizations/citizens-of-culture/
+challenge_url: 'https://activation.la2050.org/connect/citizens-of-culture/'
 category: connect
 
 ---

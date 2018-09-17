@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/dakathouse.html'
 organization_id: '2013080'
 year_submitted: '2013'
 organization_name: Geoff Gallegos/daKAH Hip Hop Orchestra
@@ -22,5 +21,6 @@ project_ids: '4102031'
 organization_id_2: '2013080'
 title: Geoff Gallegos/daKAH Hip Hop Orchestra
 uri: /organizations/geoff-gallegos-dakah-hip-hop-orchestra/
+challenge_url: 'http://maker.good.is/myla2050/projects/dakathouse.html'
 
 ---

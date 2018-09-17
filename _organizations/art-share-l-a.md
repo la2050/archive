@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/artsharela.html'
 organization_id: '2013014'
 year_submitted: '2013'
 organization_name: Art Share L.A.
@@ -50,5 +49,6 @@ project_ids: ''
 organization_id_2: '2013014'
 title: Art Share L.A.
 uri: /organizations/art-share-l-a/
+challenge_url: 'http://maker.good.is/myla2050/projects/artsharela.html'
 
 ---

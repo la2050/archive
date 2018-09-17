@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'
 organization_id: '2015035'
 year_submitted: '2015'
 organization_name: Civic Tech USC
@@ -25,5 +24,6 @@ project_ids: '5102064'
 organization_id_2: '2015035'
 title: Civic Tech USC
 uri: /organizations/civic-tech-usc/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'
 
 ---

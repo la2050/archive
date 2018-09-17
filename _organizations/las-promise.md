@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
 organization_id: '2015112'
 year_submitted: '2015'
 organization_name: LA's Promise
@@ -24,5 +23,6 @@ project_ids: '5102174'
 organization_id_2: '2015112'
 title: LA's Promise
 uri: /organizations/las-promise/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
 
 ---

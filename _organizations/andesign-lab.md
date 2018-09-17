@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
 organization_id: '2016009'
 year_submitted: '2016'
 organization_name: ANDesign Lab
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2016009'
 title: ANDesign Lab
 uri: /organizations/andesign-lab/
+challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
 
 ---

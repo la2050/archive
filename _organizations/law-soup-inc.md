@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
 organization_id: '2014050'
 year_submitted: '2014'
 organization_name: 'Law Soup, Inc.'
@@ -26,5 +25,6 @@ project_ids: '5102162'
 organization_id_2: '2014050'
 title: 'Law Soup, Inc.'
 uri: /organizations/law-soup-inc/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
 organization_id: '2015173'
 year_submitted: '2015'
 organization_name: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
@@ -29,5 +28,6 @@ organization_id_2: '2015173'
 title: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014153'
 year_submitted: '2014'
 organization_name: Ignite Teaching
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014153'
 title: Ignite Teaching
 uri: /organizations/ignite-teaching/
+challenge_url: ''
 
 ---

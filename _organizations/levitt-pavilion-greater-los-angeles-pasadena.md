@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
 organization_id: '2015113'
 year_submitted: '2015'
 organization_name: Levitt Pavilion Greater Los Angeles & Pasadena
@@ -26,5 +25,6 @@ project_ids: '5102175'
 organization_id_2: '2015113'
 title: Levitt Pavilion Greater Los Angeles & Pasadena
 uri: /organizations/levitt-pavilion-greater-los-angeles-pasadena/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
 
 ---

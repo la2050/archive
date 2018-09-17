@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/act2connect.html'
 organization_id: '2013168'
 year_submitted: '2013'
 organization_name: South Bay Center for Community Development
@@ -54,5 +53,6 @@ project_ids: ''
 organization_id_2: '2013168'
 title: South Bay Center for Community Development
 uri: /organizations/south-bay-center-for-community-development/
+challenge_url: 'http://maker.good.is/myla2050/projects/act2connect.html'
 
 ---

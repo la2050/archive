@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
 organization_id: '2015170'
 year_submitted: '2015'
 organization_name: 'RootDown LA, A project of Community Partners'
@@ -26,5 +25,6 @@ project_ids: '5102256'
 organization_id_2: '2015170'
 title: 'RootDown LA, A project of Community Partners'
 uri: /organizations/rootdown-la-a-project-of-community-partners/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
 
 ---

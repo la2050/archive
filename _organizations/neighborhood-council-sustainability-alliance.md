@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
 organization_id: '2015143'
 year_submitted: '2015'
 organization_name: Neighborhood Council Sustainability Alliance
@@ -25,5 +24,6 @@ project_ids: '5102218'
 organization_id_2: '2015143'
 title: Neighborhood Council Sustainability Alliance
 uri: /organizations/neighborhood-council-sustainability-alliance/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
 organization_id: '2016189'
 year_submitted: '2016'
 organization_name: Santa Clarita Valley Adventure Play
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016189'
 title: Santa Clarita Valley Adventure Play
 uri: /organizations/santa-clarita-valley-adventure-play/
+challenge_url: >-
+  https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/not-impossible-foundation/'
 organization_id: '2018090'
 year_submitted: '2018'
 organization_name: Not Impossible Foundation
@@ -30,6 +29,7 @@ project_ids: '8102090'
 organization_id_2: '2018090'
 title: Not Impossible Foundation
 uri: /organizations/not-impossible-foundation/
+challenge_url: 'https://activation.la2050.org/live/not-impossible-foundation/'
 category: live
 
 ---

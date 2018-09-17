@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014152'
 year_submitted: '2014'
 organization_name: Hunger Action Los Angeles
@@ -24,5 +23,6 @@ project_ids: '4102135'
 organization_id_2: '2014152'
 title: Hunger Action Los Angeles
 uri: /organizations/hunger-action-los-angeles/
+challenge_url: ''
 
 ---

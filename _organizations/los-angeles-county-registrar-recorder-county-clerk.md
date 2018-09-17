@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
 organization_id: '2018073'
 year_submitted: '2018'
 organization_name: Los Angeles County Registrar-Recorder/County Clerk
@@ -30,6 +28,8 @@ project_ids: '8102073'
 organization_id_2: '2018073'
 title: Los Angeles County Registrar-Recorder/County Clerk
 uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
+challenge_url: >-
+  https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
 category: connect
 
 ---

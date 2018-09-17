@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/giantharpproject.html'
 organization_id: '2013175'
 year_submitted: '2013'
 organization_name: String Theory Productions
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013175'
 title: String Theory Productions
 uri: /organizations/string-theory-productions/
+challenge_url: 'http://maker.good.is/myla2050/projects/giantharpproject.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
 organization_id: '2014080'
 year_submitted: '2014'
 organization_name: Senior Star Power Productions
@@ -26,5 +25,6 @@ project_ids: '4102081'
 organization_id_2: '2014080'
 title: Senior Star Power Productions
 uri: /organizations/senior-star-power-productions/
+challenge_url: 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
 
 ---

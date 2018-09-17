@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014143'
 year_submitted: '2014'
 organization_name: 'FutureBound, Inc.'
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014143'
 title: 'FutureBound, Inc.'
 uri: /organizations/futurebound-inc/
+challenge_url: ''
 
 ---

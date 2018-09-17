@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
 organization_id: '2013049'
 year_submitted: '2013'
 organization_name: Curious Catalyst
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013049'
 title: Curious Catalyst
 uri: /organizations/curious-catalyst/
+challenge_url: 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
 
 ---

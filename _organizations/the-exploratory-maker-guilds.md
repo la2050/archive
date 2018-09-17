@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014200'
 year_submitted: '2014'
 organization_name: 'The Exploratory: Maker Guilds'
@@ -24,5 +23,6 @@ project_ids: '4102168'
 organization_id_2: '2014200'
 title: 'The Exploratory: Maker Guilds'
 uri: /organizations/the-exploratory-maker-guilds/
+challenge_url: ''
 
 ---

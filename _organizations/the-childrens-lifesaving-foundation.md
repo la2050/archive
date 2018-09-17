@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
 organization_id: '2016215'
 year_submitted: '2016'
 organization_name: The Children's Lifesaving Foundation
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016215'
 title: The Children's Lifesaving Foundation
 uri: /organizations/the-childrens-lifesaving-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
 
 ---

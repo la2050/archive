@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
 organization_id: '2014046'
 year_submitted: '2014'
 organization_name: 'L.A. Bike Trains, Bicycle Culture Institute'
@@ -24,5 +23,6 @@ project_ids: '4102047'
 organization_id_2: '2014046'
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 uri: /organizations/l-a-bike-trains-bicycle-culture-institute/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
 
 ---

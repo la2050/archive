@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
 organization_id: '2013147'
 year_submitted: '2013'
 organization_name: One Day on Earth
@@ -74,5 +73,6 @@ project_ids: ''
 organization_id_2: '2013147'
 title: One Day on Earth
 uri: /organizations/one-day-on-earth/
+challenge_url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
 
 ---

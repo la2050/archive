@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014226'
 year_submitted: '2014'
 organization_name: Women Against Gun Violence
@@ -24,5 +23,6 @@ project_ids: '4102186'
 organization_id_2: '2014226'
 title: Women Against Gun Violence
 uri: /organizations/women-against-gun-violence/
+challenge_url: ''
 
 ---

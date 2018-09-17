@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
 organization_id: '2015096'
 year_submitted: '2015'
 organization_name: 'Ironbox Education, Inc.'
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015096'
 title: 'Ironbox Education, Inc.'
 uri: /organizations/ironbox-education-inc/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
 
 ---

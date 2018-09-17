@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/happyperiod/'
 organization_id: '2018001'
 year_submitted: '2018'
 organization_name: '#HappyPeriod'
@@ -30,6 +29,7 @@ project_ids: '8102001'
 organization_id_2: '2018001'
 title: '#HappyPeriod'
 uri: /organizations/happyperiod/
+challenge_url: 'https://activation.la2050.org/live/happyperiod/'
 category: live
 
 ---

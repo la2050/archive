@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
 organization_id: '2016107'
 year_submitted: '2016'
 organization_name: ICON CDC
@@ -35,5 +33,7 @@ project_ids: ''
 organization_id_2: '2016107'
 title: ICON CDC
 uri: /organizations/icon-cdc/
+challenge_url: >-
+  https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
 
 ---

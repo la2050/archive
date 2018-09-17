@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'
 organization_id: '2015020'
 year_submitted: '2015'
 organization_name: Boys & Girls Clubs of Carson
@@ -26,5 +25,6 @@ project_ids: '5102033'
 organization_id_2: '2015020'
 title: Boys & Girls Clubs of Carson
 uri: /organizations/boys-girls-clubs-of-carson/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'
 
 ---

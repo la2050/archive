@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration
 organization_id: '2016041'
 year_submitted: '2016'
 organization_name: Civic Nation
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016041'
 title: Civic Nation
 uri: /organizations/civic-nation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
 organization_id: '2014099'
 year_submitted: '2014'
 organization_name: 'Theatrum Elysium, San Pedro Rep'
@@ -24,5 +23,6 @@ project_ids: '4102166'
 organization_id_2: '2014099'
 title: 'Theatrum Elysium, San Pedro Rep'
 uri: /organizations/theatrum-elysium-san-pedro-rep/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
 
 ---

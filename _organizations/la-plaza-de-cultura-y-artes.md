@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
 organization_id: '2016123'
 year_submitted: '2016'
 organization_name: LA Plaza de Cultura y Artes
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016123'
 title: LA Plaza de Cultura y Artes
 uri: /organizations/la-plaza-de-cultura-y-artes/
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
 
 ---

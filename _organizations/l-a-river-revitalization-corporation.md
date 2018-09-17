@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
 organization_id: '2013110'
 year_submitted: '2013'
 organization_name: L.A. River Revitalization Corporation
@@ -78,5 +77,6 @@ project_ids: ''
 organization_id_2: '2013110'
 title: L.A. River Revitalization Corporation
 uri: /organizations/l-a-river-revitalization-corporation/
+challenge_url: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014193'
 year_submitted: '2014'
 organization_name: >-
@@ -29,5 +28,6 @@ title: >-
   Monica Next
 uri: >-
   /organizations/streetsblog-los-angeles-los-angeles-walks-place-it-longbeachize-santa-monica-next/
+challenge_url: ''
 
 ---

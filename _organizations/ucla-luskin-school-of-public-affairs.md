@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
 organization_id: '2015217'
 year_submitted: '2015'
 organization_name: UCLA Luskin School of Public Affairs
@@ -25,5 +24,6 @@ project_ids: '5102330'
 organization_id_2: '2015217'
 title: UCLA Luskin School of Public Affairs
 uri: /organizations/ucla-luskin-school-of-public-affairs/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
 
 ---

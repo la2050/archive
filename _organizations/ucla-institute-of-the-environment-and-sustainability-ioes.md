@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
 organization_id: '2016240'
 year_submitted: '2016'
 organization_name: UCLA Institute of the Environment and Sustainability (IOES)
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016240'
 title: UCLA Institute of the Environment and Sustainability (IOES)
 uri: /organizations/ucla-institute-of-the-environment-and-sustainability-ioes/
+challenge_url: >-
+  https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
 
 ---

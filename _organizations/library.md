@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
 organization_id: '2016001'
 year_submitted: '2016'
 organization_name: '#Library'
@@ -28,5 +26,7 @@ project_ids: '4102073'
 organization_id_2: '2016001'
 title: '#Library'
 uri: /organizations/library/
+challenge_url: >-
+  https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
 
 ---

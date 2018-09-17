@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014165'
 year_submitted: '2014'
 organization_name: Los Angeles Community Garden Council
@@ -24,5 +23,6 @@ project_ids: '4102147'
 organization_id_2: '2014165'
 title: Los Angeles Community Garden Council
 uri: /organizations/los-angeles-community-garden-council/
+challenge_url: ''
 
 ---

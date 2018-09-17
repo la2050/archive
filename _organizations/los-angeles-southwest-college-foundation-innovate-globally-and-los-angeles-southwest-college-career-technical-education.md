@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
 organization_id: '2015129'
 year_submitted: '2015'
 organization_name: >-
@@ -35,5 +34,6 @@ title: >-
   Southwest College Career & Technical Education
 uri: >-
   /organizations/los-angeles-southwest-college-foundation-innovate-globally-and-los-angeles-southwest-college-career-technical-education/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
 
 ---

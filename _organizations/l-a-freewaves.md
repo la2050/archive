@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
 organization_id: '2014047'
 year_submitted: '2014'
 organization_name: L.A. Freewaves
@@ -26,5 +25,6 @@ project_ids: '4102048'
 organization_id_2: '2014047'
 title: L.A. Freewaves
 uri: /organizations/l-a-freewaves/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
 
 ---

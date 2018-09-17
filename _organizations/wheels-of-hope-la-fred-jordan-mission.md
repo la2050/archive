@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
 organization_id: '2015225'
 year_submitted: '2015'
 organization_name: 'Wheels of Hope LA, Fred Jordan Mission'
@@ -24,5 +23,6 @@ project_ids: '5102341'
 organization_id_2: '2015225'
 title: 'Wheels of Hope LA, Fred Jordan Mission'
 uri: /organizations/wheels-of-hope-la-fred-jordan-mission/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
 
 ---

@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
 organization_id: '2016158'
 year_submitted: '2016'
 organization_name: New Roads School
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016158'
 title: New Roads School
 uri: /organizations/new-roads-school/
+challenge_url: >-
+  https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Dream.html'
 organization_id: '2013202'
 year_submitted: '2013'
 organization_name: UCLA Labor Center
@@ -48,5 +47,6 @@ project_ids: ''
 organization_id_2: '2013202'
 title: UCLA Labor Center
 uri: /organizations/ucla-labor-center/
+challenge_url: 'http://maker.good.is/myla2050/projects/Dream.html'
 
 ---

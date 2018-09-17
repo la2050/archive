@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/the-glue/'
 organization_id: '2018119'
 year_submitted: '2018'
 organization_name: The Glue
@@ -31,6 +30,7 @@ project_ids: '8102120'
 organization_id_2: '2018119'
 title: The Glue
 uri: /organizations/the-glue/
+challenge_url: 'https://activation.la2050.org/live/the-glue/'
 category: live
 
 ---

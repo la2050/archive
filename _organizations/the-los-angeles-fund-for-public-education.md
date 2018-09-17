@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/school_fuel.html'
 organization_id: '2013193'
 year_submitted: '2013'
 organization_name: The Los Angeles Fund for Public Education
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013193'
 title: The Los Angeles Fund for Public Education
 uri: /organizations/the-los-angeles-fund-for-public-education/
+challenge_url: 'http://maker.good.is/myla2050/projects/school_fuel.html'
 
 ---

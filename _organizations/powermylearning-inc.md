@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'
 organization_id: '2016176'
 year_submitted: '2016'
 organization_name: 'PowerMyLearning, Inc.'
@@ -31,5 +30,6 @@ project_ids: ''
 organization_id_2: '2016176'
 title: 'PowerMyLearning, Inc.'
 uri: /organizations/powermylearning-inc/
+challenge_url: 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'
 
 ---

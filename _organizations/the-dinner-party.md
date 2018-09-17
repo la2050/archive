@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
 organization_id: '2014088'
 year_submitted: '2014'
 organization_name: The Dinner Party
@@ -24,5 +23,6 @@ project_ids: '4102088'
 organization_id_2: '2014088'
 title: The Dinner Party
 uri: /organizations/the-dinner-party/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
 organization_id: '2016081'
 year_submitted: '2016'
 organization_name: Four Rings
@@ -29,5 +28,6 @@ project_ids: ''
 organization_id_2: '2016081'
 title: Four Rings
 uri: /organizations/four-rings/
+challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
 
 ---

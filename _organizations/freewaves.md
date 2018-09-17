@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Freewaves.html'
 organization_id: '2013074'
 year_submitted: '2013'
 organization_name: Freewaves
@@ -73,5 +72,6 @@ project_ids: ''
 organization_id_2: '2013074'
 title: Freewaves
 uri: /organizations/freewaves/
+challenge_url: 'http://maker.good.is/myla2050/projects/Freewaves.html'
 
 ---

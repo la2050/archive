@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
 organization_id: '2016070'
 year_submitted: '2016'
 organization_name: EMX Los Angeles
@@ -36,5 +34,7 @@ project_ids: '4102129'
 organization_id_2: '2016070'
 title: EMX Los Angeles
 uri: /organizations/emx-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
 
 ---

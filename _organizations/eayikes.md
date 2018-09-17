@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/eayikes/'
 organization_id: '2018036'
 year_submitted: '2018'
 organization_name: Eayikes
@@ -29,6 +28,7 @@ project_ids: '8102036'
 organization_id_2: '2018036'
 title: Eayikes
 uri: /organizations/eayikes/
+challenge_url: 'https://activation.la2050.org/connect/eayikes/'
 category: connect
 
 ---

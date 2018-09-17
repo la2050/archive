@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ALOT.html'
 organization_id: '2013015'
 year_submitted: '2013'
 organization_name: Arts Council for Long Beach
@@ -31,5 +30,6 @@ project_ids: ''
 organization_id_2: '2013015'
 title: Arts Council for Long Beach
 uri: /organizations/arts-council-for-long-beach/
+challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'
 
 ---

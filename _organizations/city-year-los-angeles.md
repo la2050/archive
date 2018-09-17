@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/city-year-los-angeles/'
 organization_id: '2018027'
 year_submitted: '2018'
 organization_name: City Year Los Angeles
@@ -35,6 +34,7 @@ project_ids: '8102027'
 organization_id_2: '2018027'
 title: City Year Los Angeles
 uri: /organizations/city-year-los-angeles/
+challenge_url: 'https://activation.la2050.org/connect/city-year-los-angeles/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
 organization_id: '2015125'
 year_submitted: '2015'
 organization_name: Los Angeles Maritime Institute
@@ -26,5 +25,6 @@ project_ids: '5102190'
 organization_id_2: '2015125'
 title: Los Angeles Maritime Institute
 uri: /organizations/los-angeles-maritime-institute/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
 
 ---

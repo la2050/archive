@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
 organization_id: '2016093'
 year_submitted: '2016'
 organization_name: GRID Logistics
@@ -34,5 +32,7 @@ project_ids: ''
 organization_id_2: '2016093'
 title: GRID Logistics
 uri: /organizations/grid-logistics/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
 
 ---

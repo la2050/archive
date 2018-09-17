@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/climateleaders.html'
 organization_id: '2013079'
 year_submitted: '2013'
 organization_name: Generation Green's Contra Costa County Climate Leaders Program
@@ -49,5 +48,6 @@ project_ids: ''
 organization_id_2: '2013079'
 title: Generation Green's Contra Costa County Climate Leaders Program
 uri: /organizations/generation-greens-contra-costa-county-climate-leaders-program/
+challenge_url: 'http://maker.good.is/myla2050/projects/climateleaders.html'
 
 ---

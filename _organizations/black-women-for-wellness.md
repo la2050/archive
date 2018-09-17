@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/black-women-for-wellness/'
 organization_id: '2018009'
 year_submitted: '2018'
 organization_name: Black Women for Wellness
@@ -33,6 +32,7 @@ project_ids: '8102009'
 organization_id_2: '2018009'
 title: Black Women for Wellness
 uri: /organizations/black-women-for-wellness/
+challenge_url: 'https://activation.la2050.org/live/black-women-for-wellness/'
 category: live
 
 ---

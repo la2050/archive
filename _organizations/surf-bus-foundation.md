@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/play/surf-bus-foundation/'
 organization_id: '2018114'
 year_submitted: '2018'
 organization_name: Surf Bus Foundation
@@ -44,6 +43,7 @@ project_ids: '8102114'
 organization_id_2: '2018114'
 title: Surf Bus Foundation
 uri: /organizations/surf-bus-foundation/
+challenge_url: 'https://activation.la2050.org/play/surf-bus-foundation/'
 category: play
 
 ---

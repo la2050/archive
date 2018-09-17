@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
 organization_id: '2016205'
 year_submitted: '2016'
 organization_name: T4T.org
@@ -35,5 +33,7 @@ project_ids: ''
 organization_id_2: '2016205'
 title: T4T.org
 uri: /organizations/t4t-org/
+challenge_url: >-
+  https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/shoes-that-fit/'
 organization_id: '2018108'
 year_submitted: '2018'
 organization_name: Shoes That Fit
@@ -38,6 +37,7 @@ project_ids: '8102108'
 organization_id_2: '2018108'
 title: Shoes That Fit
 uri: /organizations/shoes-that-fit/
+challenge_url: 'https://activation.la2050.org/live/shoes-that-fit/'
 category: live
 
 ---

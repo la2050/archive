@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
 organization_id: '2015187'
 year_submitted: '2015'
 organization_name: 'Southern California College Access Network, a Project of Community Partners'
@@ -29,5 +28,6 @@ organization_id_2: '2015187'
 title: 'Southern California College Access Network, a Project of Community Partners'
 uri: >-
   /organizations/southern-california-college-access-network-a-project-of-community-partners/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
 
 ---

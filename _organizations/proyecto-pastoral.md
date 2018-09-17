@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
 organization_id: '2016178'
 year_submitted: '2016'
 organization_name: Proyecto Pastoral
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016178'
 title: Proyecto Pastoral
 uri: /organizations/proyecto-pastoral/
+challenge_url: >-
+  https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
 
 ---

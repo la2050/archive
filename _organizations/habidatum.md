@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/la-easy-access'
 organization_id: '2016096'
 year_submitted: '2016'
 organization_name: Habidatum
@@ -25,5 +24,6 @@ project_ids: '4102157'
 organization_id_2: '2016096'
 title: Habidatum
 uri: /organizations/habidatum/
+challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'
 
 ---

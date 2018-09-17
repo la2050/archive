@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
 organization_id: '2015193'
 year_submitted: '2015'
 organization_name: Sustaynabl
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015193'
 title: Sustaynabl
 uri: /organizations/sustaynabl/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
 
 ---

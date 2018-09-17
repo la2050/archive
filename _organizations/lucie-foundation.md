@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
 organization_id: '2016142'
 year_submitted: '2016'
 organization_name: Lucie Foundation
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016142'
 title: Lucie Foundation
 uri: /organizations/lucie-foundation/
+challenge_url: >-
+  https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
 
 ---

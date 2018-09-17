@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014223'
 year_submitted: '2014'
 organization_name: Western Center on Law & Poverty (WCLP)
@@ -24,5 +23,6 @@ project_ids: '4102183'
 organization_id_2: '2014223'
 title: Western Center on Law & Poverty (WCLP)
 uri: /organizations/western-center-on-law-poverty-wclp/
+challenge_url: ''
 
 ---

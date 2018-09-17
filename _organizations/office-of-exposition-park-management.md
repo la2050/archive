@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'
 organization_id: '2016159'
 year_submitted: '2016'
 organization_name: Office of Exposition Park Management
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016159'
 title: Office of Exposition Park Management
 uri: /organizations/office-of-exposition-park-management/
+challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'
 
 ---

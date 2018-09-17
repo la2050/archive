@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
 organization_id: '2014013'
 year_submitted: '2014'
 organization_name: Beautify Earth
@@ -24,5 +23,6 @@ project_ids: '4102014'
 organization_id_2: '2014013'
 title: Beautify Earth
 uri: /organizations/beautify-earth/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
 organization_id: '2016177'
 year_submitted: '2016'
 organization_name: Pretty Good Cat
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016177'
 title: Pretty Good Cat
 uri: /organizations/pretty-good-cat/
+challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
 
 ---

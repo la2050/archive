@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/CRD3LA.html'
 organization_id: '2013054'
 year_submitted: '2013'
 organization_name: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
@@ -58,5 +57,6 @@ organization_id_2: '2013054'
 title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
 uri: >-
   /organizations/e-n-g-a-g-e-stands-for-educating-neighbors-gaining-awareness-growing-engaged/
+challenge_url: 'http://maker.good.is/myla2050/projects/CRD3LA.html'
 
 ---

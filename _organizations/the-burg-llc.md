@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/the-burg-llc/'
 organization_id: '2018118'
 year_submitted: '2018'
 organization_name: 'The Burg, LLC'
@@ -27,6 +26,7 @@ project_ids: '8102118'
 organization_id_2: '2018118'
 title: 'The Burg, LLC'
 uri: /organizations/the-burg-llc/
+challenge_url: 'https://activation.la2050.org/connect/the-burg-llc/'
 category: connect
 
 ---

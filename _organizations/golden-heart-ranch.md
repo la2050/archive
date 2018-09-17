@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
 organization_id: '2015072'
 year_submitted: '2015'
 organization_name: Golden Heart Ranch
@@ -28,5 +27,6 @@ project_ids: '5102113'
 organization_id_2: '2015072'
 title: Golden Heart Ranch
 uri: /organizations/golden-heart-ranch/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
 
 ---

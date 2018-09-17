@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/create/grid110-inc/'
 organization_id: '2018049'
 year_submitted: '2018'
 organization_name: 'Grid110, Inc.'
@@ -27,6 +26,7 @@ project_ids: '8102049'
 organization_id_2: '2018049'
 title: 'Grid110, Inc.'
 uri: /organizations/grid110-inc/
+challenge_url: 'https://activation.la2050.org/create/grid110-inc/'
 category: create
 
 ---

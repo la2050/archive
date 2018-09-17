@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
 organization_id: '2013111'
 year_submitted: '2013'
 organization_name: >-
@@ -43,5 +42,6 @@ title: >-
   Action)
 uri: >-
   /organizations/la-causa-los-angeles-community-advocating-for-unity-social-justice-and-action/
+challenge_url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
 organization_id: '2015202'
 year_submitted: '2015'
 organization_name: The LA River Public Art Project
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2015202'
 title: The LA River Public Art Project
 uri: /organizations/the-la-river-public-art-project/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
 organization_id: '2016095'
 year_submitted: '2016'
 organization_name: Grown in LA
@@ -28,5 +27,6 @@ project_ids: ''
 organization_id_2: '2016095'
 title: Grown in LA
 uri: /organizations/grown-in-la/
+challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
 
 ---

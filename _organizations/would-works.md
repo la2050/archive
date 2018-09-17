@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
 organization_id: '2014110'
 year_submitted: '2014'
 organization_name: Would-Works
@@ -24,5 +23,6 @@ project_ids: '4102109'
 organization_id_2: '2014110'
 title: Would-Works
 uri: /organizations/would-works/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
 
 ---

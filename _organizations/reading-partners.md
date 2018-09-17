@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
 organization_id: '2015165'
 year_submitted: '2015'
 organization_name: Reading Partners
@@ -28,5 +27,6 @@ project_ids: '5102249'
 organization_id_2: '2015165'
 title: Reading Partners
 uri: /organizations/reading-partners/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
 
 ---

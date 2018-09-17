@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014113'
 year_submitted: '2014'
 organization_name: Anti-Defamation League - Pacific Southwest Region
@@ -24,5 +23,6 @@ project_ids: '4102111'
 organization_id_2: '2014113'
 title: Anti-Defamation League - Pacific Southwest Region
 uri: /organizations/anti-defamation-league-pacific-southwest-region/
+challenge_url: ''
 
 ---

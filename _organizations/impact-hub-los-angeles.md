@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
 organization_id: '2016109'
 year_submitted: '2016'
 organization_name: Impact Hub Los Angeles
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016109'
 title: Impact Hub Los Angeles
 uri: /organizations/impact-hub-los-angeles/
+challenge_url: >-
+  https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
 
 ---

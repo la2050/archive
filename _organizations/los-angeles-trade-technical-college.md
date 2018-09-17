@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
 organization_id: '2015130'
 year_submitted: '2015'
 organization_name: Los Angeles Trade-Technical College
@@ -26,5 +25,6 @@ project_ids: '5102197'
 organization_id_2: '2015130'
 title: Los Angeles Trade-Technical College
 uri: /organizations/los-angeles-trade-technical-college/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
 
 ---

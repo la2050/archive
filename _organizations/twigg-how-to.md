@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/twigg-how-to/'
 organization_id: '2018127'
 year_submitted: '2018'
 organization_name: TWIGG How-To
@@ -30,6 +29,7 @@ project_ids: ''
 organization_id_2: '2018127'
 title: TWIGG How-To
 uri: /organizations/twigg-how-to/
+challenge_url: 'https://activation.la2050.org/connect/twigg-how-to/'
 category: connect
 
 ---

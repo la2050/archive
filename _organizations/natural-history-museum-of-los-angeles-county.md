@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/urbansafari.html'
 organization_id: '2013141'
 year_submitted: '2013'
 organization_name: Natural History Museum of Los Angeles County
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013141'
 title: Natural History Museum of Los Angeles County
 uri: /organizations/natural-history-museum-of-los-angeles-county/
+challenge_url: 'http://maker.good.is/myla2050/projects/urbansafari.html'
 
 ---

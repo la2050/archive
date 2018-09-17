@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
 organization_id: '2016114'
 year_submitted: '2016'
 organization_name: Jobs to Move America
@@ -36,5 +34,7 @@ project_ids: ''
 organization_id_2: '2016114'
 title: Jobs to Move America
 uri: /organizations/jobs-to-move-america/
+challenge_url: >-
+  https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
 
 ---

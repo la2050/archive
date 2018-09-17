@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014133'
 year_submitted: '2014'
 organization_name: 'Dream A World Education, Inc.'
@@ -24,5 +23,6 @@ project_ids: '4102123'
 organization_id_2: '2014133'
 title: 'Dream A World Education, Inc.'
 uri: /organizations/dream-a-world-education-inc/
+challenge_url: ''
 
 ---

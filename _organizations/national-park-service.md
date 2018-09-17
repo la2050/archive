@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
 organization_id: '2013139'
 year_submitted: '2013'
 organization_name: National Park Service
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013139'
 title: National Park Service
 uri: /organizations/national-park-service/
+challenge_url: 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
 
 ---

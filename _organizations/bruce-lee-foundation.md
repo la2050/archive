@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
 organization_id: '2015022'
 year_submitted: '2015'
 organization_name: Bruce Lee Foundation
@@ -25,5 +24,6 @@ project_ids: '5102036'
 organization_id_2: '2015022'
 title: Bruce Lee Foundation
 uri: /organizations/bruce-lee-foundation/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
 
 ---

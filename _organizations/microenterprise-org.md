@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
 organization_id: '2015138'
 year_submitted: '2015'
 organization_name: Microenterprise.org
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2015138'
 title: Microenterprise.org
 uri: /organizations/microenterprise-org/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
 
 ---

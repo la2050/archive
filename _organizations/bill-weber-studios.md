@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
 organization_id: '2015016'
 year_submitted: '2015'
 organization_name: Bill Weber Studios
@@ -25,5 +24,6 @@ project_ids: ''
 organization_id_2: '2015016'
 title: Bill Weber Studios
 uri: /organizations/bill-weber-studios/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
 
 ---

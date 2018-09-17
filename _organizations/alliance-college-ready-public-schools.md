@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2013005'
 year_submitted: '2014'
 organization_name: Alliance College-Ready Public Schools
@@ -24,5 +23,6 @@ project_ids: '4102001'
 organization_id_2: '2013005'
 title: Alliance College-Ready Public Schools
 uri: /organizations/alliance-college-ready-public-schools/
+challenge_url: ''
 
 ---

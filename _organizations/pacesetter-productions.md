@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Passion.html'
 organization_id: '2013149'
 year_submitted: '2013'
 organization_name: Pacesetter Productions
@@ -45,5 +44,6 @@ project_ids: '4102042'
 organization_id_2: '2013149'
 title: Pacesetter Productions
 uri: /organizations/pacesetter-productions/
+challenge_url: 'http://maker.good.is/myla2050/projects/Passion.html'
 
 ---

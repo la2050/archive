@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
 organization_id: '2013084'
 year_submitted: '2013'
 organization_name: 'Great Leap, Inc.'
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013084'
 title: 'Great Leap, Inc.'
 uri: /organizations/great-leap-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
 
 ---

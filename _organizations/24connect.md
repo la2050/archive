@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
 organization_id: '2014001'
 year_submitted: '2014'
 organization_name: 24Connect
@@ -26,5 +25,6 @@ project_ids: '4102074'
 organization_id_2: '2014001'
 title: 24Connect
 uri: /organizations/24connect/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
 
 ---

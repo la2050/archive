@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
 organization_id: '2018082'
 year_submitted: '2018'
 organization_name: Mentoring Adolescents for Personal & Professional Success
@@ -32,6 +30,8 @@ project_ids: ''
 organization_id_2: '2018082'
 title: Mentoring Adolescents for Personal & Professional Success
 uri: /organizations/mentoring-adolescents-for-personal-professional-success/
+challenge_url: >-
+  https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
 category: learn
 
 ---

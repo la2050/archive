@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/it-takes-a-village-to-reintegrate-the-homeless
 organization_id: '2016006'
 year_submitted: '2016'
 organization_name: Alliance Building & Construction Services
@@ -26,5 +24,7 @@ project_ids: '4102075'
 organization_id_2: '2016006'
 title: Alliance Building & Construction Services
 uri: /organizations/alliance-building-construction-services/
+challenge_url: >-
+  https://challenge.la2050.org/entry/it-takes-a-village-to-reintegrate-the-homeless
 
 ---

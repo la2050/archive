@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014130'
 year_submitted: '2014'
 organization_name: College Summit Southern California
@@ -24,5 +23,6 @@ project_ids: '4102122'
 organization_id_2: '2014130'
 title: College Summit Southern California
 uri: /organizations/college-summit-southern-california/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
 organization_id: '2014103'
 year_submitted: '2014'
 organization_name: URBAN Teens Exploring Technology ( TXT )
@@ -22,5 +21,6 @@ project_ids: '4102102'
 organization_id_2: '2014103'
 title: URBAN Teens Exploring Technology ( TXT )
 uri: /organizations/urban-teens-exploring-technology-txt/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
 
 ---

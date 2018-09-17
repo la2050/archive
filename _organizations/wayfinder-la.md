@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/wayfinderla.html'
 organization_id: '2013216'
 year_submitted: '2013'
 organization_name: Wayfinder LA
@@ -30,5 +29,6 @@ project_ids: ''
 organization_id_2: '2013216'
 title: Wayfinder LA
 uri: /organizations/wayfinder-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/wayfinderla.html'
 
 ---

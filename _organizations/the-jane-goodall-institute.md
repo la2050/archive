@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
 organization_id: '2016222'
 year_submitted: '2016'
 organization_name: the Jane Goodall Institute
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016222'
 title: the Jane Goodall Institute
 uri: /organizations/the-jane-goodall-institute/
+challenge_url: >-
+  https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/createla.html'
 organization_id: '2013047'
 year_submitted: '2013'
 organization_name: Create LA
@@ -36,5 +35,6 @@ project_ids: ''
 organization_id_2: '2013047'
 title: Create LA
 uri: /organizations/create-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/createla.html'
 
 ---

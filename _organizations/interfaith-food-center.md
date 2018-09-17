@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014158'
 year_submitted: '2014'
 organization_name: Interfaith Food Center
@@ -22,5 +21,6 @@ project_ids: '4102141'
 organization_id_2: '2014158'
 title: Interfaith Food Center
 uri: /organizations/interfaith-food-center/
+challenge_url: ''
 
 ---

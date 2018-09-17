@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/topanga-womens-circle/'
 organization_id: '2018126'
 year_submitted: '2018'
 organization_name: Topanga Women's Circle
@@ -32,6 +31,7 @@ project_ids: '8102126'
 organization_id_2: '2018126'
 title: Topanga Women's Circle
 uri: /organizations/topanga-womens-circle/
+challenge_url: 'https://activation.la2050.org/live/topanga-womens-circle/'
 category: live
 
 ---

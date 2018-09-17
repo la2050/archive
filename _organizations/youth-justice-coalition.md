@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
 organization_id: '2015228'
 year_submitted: '2015'
 organization_name: Youth Justice Coalition
@@ -26,5 +25,6 @@ project_ids: '5102345'
 organization_id_2: '2015228'
 title: Youth Justice Coalition
 uri: /organizations/youth-justice-coalition/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
 
 ---

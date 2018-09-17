@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
 organization_id: '2015032'
 year_submitted: '2015'
 organization_name: Children's Bureau of Southern California
@@ -25,5 +24,6 @@ project_ids: '5102054'
 organization_id_2: '2015032'
 title: Children's Bureau of Southern California
 uri: /organizations/childrens-bureau-of-southern-california/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
 
 ---

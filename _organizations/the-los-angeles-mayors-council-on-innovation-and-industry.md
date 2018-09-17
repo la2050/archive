@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LAMCII.html'
 organization_id: '2013194'
 year_submitted: '2013'
 organization_name: The Los Angeles Mayor's Council on Innovation and Industry
@@ -110,5 +109,6 @@ project_ids: ''
 organization_id_2: '2013194'
 title: The Los Angeles Mayor's Council on Innovation and Industry
 uri: /organizations/the-los-angeles-mayors-council-on-innovation-and-industry/
+challenge_url: 'http://maker.good.is/myla2050/projects/LAMCII.html'
 
 ---

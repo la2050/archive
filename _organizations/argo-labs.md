@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
 organization_id: '2016012'
 year_submitted: '2016'
 organization_name: ARGO Labs
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016012'
 title: ARGO Labs
 uri: /organizations/argo-labs/
+challenge_url: >-
+  https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
 
 ---

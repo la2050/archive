@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
 organization_id: '2016067'
 year_submitted: '2016'
 organization_name: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
@@ -33,5 +31,7 @@ organization_id_2: '2016067'
 title: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 uri: >-
   /organizations/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
 
 ---

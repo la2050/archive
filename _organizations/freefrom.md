@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/freefrom/'
 organization_id: '2018041'
 year_submitted: '2018'
 organization_name: FreeFrom
@@ -33,6 +32,7 @@ project_ids: '8102041'
 organization_id_2: '2018041'
 title: FreeFrom
 uri: /organizations/freefrom/
+challenge_url: 'https://activation.la2050.org/live/freefrom/'
 category: live
 
 ---

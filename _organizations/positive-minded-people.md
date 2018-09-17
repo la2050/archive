@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
 organization_id: '2014071'
 year_submitted: '2014'
 organization_name: Positive Minded People
@@ -26,5 +25,6 @@ project_ids: '4102072'
 organization_id_2: '2014071'
 title: Positive Minded People
 uri: /organizations/positive-minded-people/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
 
 ---

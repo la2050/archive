@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014227'
 year_submitted: '2014'
 organization_name: Woodbury University
@@ -24,5 +23,6 @@ project_ids: '4102187'
 organization_id_2: '2014227'
 title: Woodbury University
 uri: /organizations/woodbury-university/
+challenge_url: ''
 
 ---

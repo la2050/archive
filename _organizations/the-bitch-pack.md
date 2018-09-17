@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
 organization_id: '2014087'
 year_submitted: '2014'
 organization_name: The Bitch Pack
@@ -26,5 +25,6 @@ project_ids: '4102087'
 organization_id_2: '2014087'
 title: The Bitch Pack
 uri: /organizations/the-bitch-pack/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
 
 ---

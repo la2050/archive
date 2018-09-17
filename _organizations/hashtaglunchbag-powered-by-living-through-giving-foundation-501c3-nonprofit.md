@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
 organization_id: '2018002'
 year_submitted: '2018'
 organization_name: >-
@@ -37,6 +35,8 @@ title: >-
   nonprofit
 uri: >-
   /organizations/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
+challenge_url: >-
+  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
 category: live
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/machineproject.html'
 organization_id: '2013130'
 year_submitted: '2013'
 organization_name: Machine Project
@@ -41,5 +40,6 @@ project_ids: ''
 organization_id_2: '2013130'
 title: Machine Project
 uri: /organizations/machine-project/
+challenge_url: 'http://maker.good.is/myla2050/projects/machineproject.html'
 
 ---

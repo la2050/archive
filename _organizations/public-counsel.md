@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
 organization_id: '2013157'
 year_submitted: '2013'
 organization_name: Public Counsel
@@ -67,5 +66,6 @@ project_ids: ''
 organization_id_2: '2013157'
 title: Public Counsel
 uri: /organizations/public-counsel/
+challenge_url: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
 
 ---

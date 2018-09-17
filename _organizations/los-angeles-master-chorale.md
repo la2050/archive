@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
 organization_id: '2018076'
 year_submitted: '2018'
 organization_name: Los Angeles Master Chorale
@@ -36,6 +35,7 @@ project_ids: '8102076'
 organization_id_2: '2018076'
 title: Los Angeles Master Chorale
 uri: /organizations/los-angeles-master-chorale/
+challenge_url: 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
 category: connect
 
 ---

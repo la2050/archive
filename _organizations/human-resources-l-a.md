@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
 organization_id: '2013093'
 year_submitted: '2013'
 organization_name: Human Resources L.A.
@@ -41,5 +40,6 @@ project_ids: ''
 organization_id_2: '2013093'
 title: Human Resources L.A.
 uri: /organizations/human-resources-l-a/
+challenge_url: 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
 
 ---

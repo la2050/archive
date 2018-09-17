@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
 organization_id: '2013169'
 year_submitted: '2013'
 organization_name: Southern California Committee for the Olympic Games (SCCOG)
@@ -77,5 +76,6 @@ project_ids: ''
 organization_id_2: '2013169'
 title: Southern California Committee for the Olympic Games (SCCOG)
 uri: /organizations/southern-california-committee-for-the-olympic-games-sccog/
+challenge_url: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
 
 ---

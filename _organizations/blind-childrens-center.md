@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
 organization_id: '2015017'
 year_submitted: '2015'
 organization_name: Blind Children's Center
@@ -25,5 +24,6 @@ project_ids: '5102030'
 organization_id_2: '2015017'
 title: Blind Children's Center
 uri: /organizations/blind-childrens-center/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
 
 ---

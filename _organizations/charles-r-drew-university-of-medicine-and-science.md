@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
 organization_id: '2018017'
 year_submitted: '2018'
 organization_name: Charles R. Drew University of Medicine and Science
@@ -44,6 +42,8 @@ project_ids: '8102017'
 organization_id_2: '2018017'
 title: Charles R. Drew University of Medicine and Science
 uri: /organizations/charles-r-drew-university-of-medicine-and-science/
+challenge_url: >-
+  https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
 category: learn
 
 ---

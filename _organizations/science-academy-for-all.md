@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/science-academy-for-all/'
 organization_id: '2018106'
 year_submitted: '2018'
 organization_name: Science Academy For All
@@ -28,6 +27,7 @@ project_ids: '8102106'
 organization_id_2: '2018106'
 title: Science Academy For All
 uri: /organizations/science-academy-for-all/
+challenge_url: 'https://activation.la2050.org/live/science-academy-for-all/'
 category: live
 
 ---

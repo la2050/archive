@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
 organization_id: '2018081'
 year_submitted: '2018'
 organization_name: Mayor’s Fund for Los Angeles
@@ -33,6 +32,7 @@ project_ids: '8102081'
 organization_id_2: '2018081'
 title: Mayor’s Fund for Los Angeles
 uri: /organizations/mayors-fund-for-los-angeles/
+challenge_url: 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
 category: connect
 
 ---

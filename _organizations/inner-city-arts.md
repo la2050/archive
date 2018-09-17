@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
 organization_id: '2016110'
 year_submitted: '2016'
 organization_name: Inner-City Arts
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016110'
 title: Inner-City Arts
 uri: /organizations/inner-city-arts/
+challenge_url: >-
+  https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
 
 ---

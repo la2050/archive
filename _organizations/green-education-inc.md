@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014147'
 year_submitted: '2014'
 organization_name: Green Education Inc.
@@ -24,5 +23,6 @@ project_ids: '4102132'
 organization_id_2: '2014147'
 title: Green Education Inc.
 uri: /organizations/green-education-inc/
+challenge_url: ''
 
 ---

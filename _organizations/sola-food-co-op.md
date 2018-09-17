@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
 organization_id: '2016195'
 year_submitted: '2016'
 organization_name: SoLA Food Co-op
@@ -27,5 +25,7 @@ project_ids: ''
 organization_id_2: '2016195'
 title: SoLA Food Co-op
 uri: /organizations/sola-food-co-op/
+challenge_url: >-
+  https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
 
 ---

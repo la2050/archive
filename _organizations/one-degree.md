@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/one-degree/'
 organization_id: '2018092'
 year_submitted: '2018'
 organization_name: One Degree
@@ -29,6 +28,7 @@ project_ids: '8102092'
 organization_id_2: '2018092'
 title: One Degree
 uri: /organizations/one-degree/
+challenge_url: 'https://activation.la2050.org/live/one-degree/'
 category: live
 
 ---

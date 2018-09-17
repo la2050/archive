@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
 organization_id: '2016151'
 year_submitted: '2016'
 organization_name: Muscular Dystrophy Association
@@ -38,5 +37,6 @@ project_ids: ''
 organization_id_2: '2016151'
 title: Muscular Dystrophy Association
 uri: /organizations/muscular-dystrophy-association/
+challenge_url: 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
 
 ---

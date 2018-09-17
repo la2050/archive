@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
 organization_id: '2015002'
 year_submitted: '2015'
 organization_name: A Place Called Home
@@ -26,5 +25,6 @@ project_ids: '5102006'
 organization_id_2: '2015002'
 title: A Place Called Home
 uri: /organizations/a-place-called-home/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
 
 ---

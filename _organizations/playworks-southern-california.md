@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Recess.html'
 organization_id: '2013155'
 year_submitted: '2013'
 organization_name: Playworks Southern California
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013155'
 title: Playworks Southern California
 uri: /organizations/playworks-southern-california/
+challenge_url: 'http://maker.good.is/myla2050/projects/Recess.html'
 
 ---

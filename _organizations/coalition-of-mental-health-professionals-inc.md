@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/workersrising.html'
 organization_id: '2013041'
 year_submitted: '2013'
 organization_name: 'Coalition of Mental Health Professionals, Inc.'
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013041'
 title: 'Coalition of Mental Health Professionals, Inc.'
 uri: /organizations/coalition-of-mental-health-professionals-inc/
+challenge_url: 'http://maker.good.is/myla2050/projects/workersrising.html'
 
 ---

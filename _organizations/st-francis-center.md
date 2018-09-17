@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014192'
 year_submitted: '2014'
 organization_name: St. Francis Center
@@ -24,5 +23,6 @@ project_ids: '4102164'
 organization_id_2: '2014192'
 title: St. Francis Center
 uri: /organizations/st-francis-center/
+challenge_url: ''
 
 ---

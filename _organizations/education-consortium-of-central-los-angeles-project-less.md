@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/morelearning.html'
 organization_id: '2013057'
 year_submitted: '2013'
 organization_name: Education Consortium of Central Los Angeles / Project LESS
@@ -84,5 +83,6 @@ project_ids: ''
 organization_id_2: '2013057'
 title: Education Consortium of Central Los Angeles / Project LESS
 uri: /organizations/education-consortium-of-central-los-angeles-project-less/
+challenge_url: 'http://maker.good.is/myla2050/projects/morelearning.html'
 
 ---

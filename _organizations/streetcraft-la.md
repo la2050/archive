@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/streetcraft.html'
 organization_id: '2013174'
 year_submitted: '2013'
 organization_name: Streetcraft LA
@@ -45,5 +44,6 @@ project_ids: ''
 organization_id_2: '2013174'
 title: Streetcraft LA
 uri: /organizations/streetcraft-la/
+challenge_url: 'http://maker.good.is/myla2050/projects/streetcraft.html'
 
 ---

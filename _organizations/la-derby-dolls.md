@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
 organization_id: '2016121'
 year_submitted: '2016'
 organization_name: LA Derby Dolls
@@ -29,5 +27,7 @@ project_ids: ''
 organization_id_2: '2016121'
 title: LA Derby Dolls
 uri: /organizations/la-derby-dolls/
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
 
 ---

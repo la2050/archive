@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
 organization_id: '2015147'
 year_submitted: '2015'
 organization_name: Operations-South Bureau Community Stakeholder Collaboration
@@ -27,5 +26,6 @@ project_ids: '5102223'
 organization_id_2: '2015147'
 title: Operations-South Bureau Community Stakeholder Collaboration
 uri: /organizations/operations-south-bureau-community-stakeholder-collaboration/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
 
 ---

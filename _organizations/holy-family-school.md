@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'
 organization_id: '2015088'
 year_submitted: '2015'
 organization_name: Holy Family School
@@ -26,5 +25,6 @@ project_ids: '5102136'
 organization_id_2: '2015088'
 title: Holy Family School
 uri: /organizations/holy-family-school/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'
 
 ---

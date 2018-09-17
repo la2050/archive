@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
 organization_id: '2014006'
 year_submitted: '2014'
 organization_name: 'Anonymous Good [AG] is a project of Voices4Freedom'
@@ -26,5 +25,6 @@ project_ids: '4102007'
 organization_id_2: '2014006'
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 uri: '/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
 
 ---

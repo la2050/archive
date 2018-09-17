@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/Bresee.html'
 organization_id: '2013154'
 year_submitted: '2013'
 organization_name: PF Bresee Foundation (Bresee)
@@ -68,5 +67,6 @@ project_ids: ''
 organization_id_2: '2013154'
 title: PF Bresee Foundation (Bresee)
 uri: /organizations/pf-bresee-foundation-bresee/
+challenge_url: 'http://maker.good.is/myla2050/projects/Bresee.html'
 
 ---

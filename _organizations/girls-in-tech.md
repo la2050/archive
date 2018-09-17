@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
 organization_id: '2016089'
 year_submitted: '2016'
 organization_name: Girls in Tech
@@ -31,5 +29,7 @@ project_ids: ''
 organization_id_2: '2016089'
 title: Girls in Tech
 uri: /organizations/girls-in-tech/
+challenge_url: >-
+  https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
 
 ---

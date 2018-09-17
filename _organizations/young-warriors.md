@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/YoungWarriors.html'
 organization_id: '2013220'
 year_submitted: '2013'
 organization_name: Young Warriors
@@ -33,5 +32,6 @@ project_ids: ''
 organization_id_2: '2013220'
 title: Young Warriors
 uri: /organizations/young-warriors/
+challenge_url: 'http://maker.good.is/myla2050/projects/YoungWarriors.html'
 
 ---

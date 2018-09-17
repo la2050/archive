@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
 organization_id: '2016144'
 year_submitted: '2016'
 organization_name: Maiden LA
@@ -39,5 +37,7 @@ project_ids: ''
 organization_id_2: '2016144'
 title: Maiden LA
 uri: /organizations/maiden-la/
+challenge_url: >-
+  https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
 
 ---

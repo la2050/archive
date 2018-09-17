@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
 organization_id: '2016044'
 year_submitted: '2016'
 organization_name: Coalition for Responsible Community Development
@@ -30,5 +28,7 @@ project_ids: ''
 organization_id_2: '2016044'
 title: Coalition for Responsible Community Development
 uri: /organizations/coalition-for-responsible-community-development/
+challenge_url: >-
+  https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
 organization_id: '2014038'
 year_submitted: '2014'
 organization_name: Friends of the VisionTheater
@@ -24,5 +23,6 @@ project_ids: '4102039'
 organization_id_2: '2014038'
 title: Friends of the VisionTheater
 uri: /organizations/friends-of-the-visiontheater/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
 
 ---

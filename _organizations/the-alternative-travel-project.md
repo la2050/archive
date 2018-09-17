@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
 organization_id: '2015196'
 year_submitted: '2014'
 organization_name: The Alternative Travel Project
@@ -24,5 +23,6 @@ project_ids: '4102215'
 organization_id_2: '2015196'
 title: The Alternative Travel Project
 uri: /organizations/the-alternative-travel-project/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
 
 ---

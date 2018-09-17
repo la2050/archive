@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
 organization_id: '2016112'
 year_submitted: '2016'
 organization_name: International Trade Education Programs (ITEP)
@@ -28,5 +26,7 @@ project_ids: ''
 organization_id_2: '2016112'
 title: International Trade Education Programs (ITEP)
 uri: /organizations/international-trade-education-programs-itep/
+challenge_url: >-
+  https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
 
 ---

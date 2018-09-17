@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/investing-in-place/'
 organization_id: '2018055'
 year_submitted: '2018'
 organization_name: Investing in Place
@@ -29,6 +28,7 @@ project_ids: '8102055'
 organization_id_2: '2018055'
 title: Investing in Place
 uri: /organizations/investing-in-place/
+challenge_url: 'https://activation.la2050.org/connect/investing-in-place/'
 category: connect
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'
 organization_id: '2016073'
 year_submitted: '2016'
 organization_name: Equallet
@@ -37,5 +36,6 @@ project_ids: '4102131'
 organization_id_2: '2016073'
 title: Equallet
 uri: /organizations/equallet/
+challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'
 
 ---

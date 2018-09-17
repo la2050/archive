@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
 organization_id: '2013032'
 year_submitted: '2013'
 organization_name: Children Mending Hearts
@@ -51,5 +50,6 @@ project_ids: ''
 organization_id_2: '2013032'
 title: Children Mending Hearts
 uri: /organizations/children-mending-hearts/
+challenge_url: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
 
 ---

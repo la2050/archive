@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/health-core-possibilities/'
 organization_id: '2018052'
 year_submitted: '2018'
 organization_name: Health Core Possibilities
@@ -33,6 +32,7 @@ project_ids: '8102091'
 organization_id_2: '2018052'
 title: Health Core Possibilities
 uri: /organizations/health-core-possibilities/
+challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'
 category: live
 
 ---

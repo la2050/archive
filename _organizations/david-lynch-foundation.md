@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/enlightened200.html'
 organization_id: '2013050'
 year_submitted: '2013'
 organization_name: David Lynch Foundation
@@ -42,5 +41,6 @@ project_ids: ''
 organization_id_2: '2013050'
 title: David Lynch Foundation
 uri: /organizations/david-lynch-foundation/
+challenge_url: 'http://maker.good.is/myla2050/projects/enlightened200.html'
 
 ---

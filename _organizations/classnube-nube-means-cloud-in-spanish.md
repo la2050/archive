@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
 organization_id: '2015036'
 year_submitted: '2015'
 organization_name: ClassNube (Nube means Cloud in Spanish)
@@ -28,5 +27,6 @@ project_ids: '4102099'
 organization_id_2: '2015036'
 title: ClassNube (Nube means Cloud in Spanish)
 uri: /organizations/classnube-nube-means-cloud-in-spanish/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
 
 ---

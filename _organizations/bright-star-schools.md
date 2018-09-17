@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/connections.html'
 organization_id: '2013023'
 year_submitted: '2013'
 organization_name: Bright Star Schools
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2013023'
 title: Bright Star Schools
 uri: /organizations/bright-star-schools/
+challenge_url: 'http://maker.good.is/myla2050/projects/connections.html'
 
 ---

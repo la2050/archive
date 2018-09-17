@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/bikela2050.html'
 organization_id: '2013019'
 year_submitted: '2013'
 organization_name: Bike L.A. 2050
@@ -31,5 +30,6 @@ project_ids: ''
 organization_id_2: '2013019'
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
+challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/SpeakUp.html'
 organization_id: '2013123'
 year_submitted: '2013'
 organization_name: Los Angeles County Perinatal Mental Health Task Force
@@ -67,5 +66,6 @@ project_ids: ''
 organization_id_2: '2013123'
 title: Los Angeles County Perinatal Mental Health Task Force
 uri: /organizations/los-angeles-county-perinatal-mental-health-task-force/
+challenge_url: 'http://maker.good.is/myla2050/projects/SpeakUp.html'
 
 ---

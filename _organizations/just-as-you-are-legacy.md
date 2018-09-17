@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
 organization_id: '2016116'
 year_submitted: '2016'
 organization_name: Just As You Are Legacy
@@ -35,5 +34,6 @@ project_ids: ''
 organization_id_2: '2016116'
 title: Just As You Are Legacy
 uri: /organizations/just-as-you-are-legacy/
+challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
 
 ---

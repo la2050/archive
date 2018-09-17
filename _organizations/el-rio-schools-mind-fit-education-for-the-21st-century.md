@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
 organization_id: '2013059'
 year_submitted: '2013'
 organization_name: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
@@ -45,5 +44,6 @@ project_ids: ''
 organization_id_2: '2013059'
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
 uri: /organizations/el-rio-schools-mind-fit-education-for-the-21st-century/
+challenge_url: 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
 
 ---

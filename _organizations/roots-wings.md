@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/live/roots-wings/'
 organization_id: '2018105'
 year_submitted: '2018'
 organization_name: Roots & Wings
@@ -35,6 +34,7 @@ project_ids: '5102284'
 organization_id_2: '2018105'
 title: Roots & Wings
 uri: /organizations/roots-wings/
+challenge_url: 'https://activation.la2050.org/live/roots-wings/'
 category: live
 
 ---

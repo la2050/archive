@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014181'
 year_submitted: '2014'
 organization_name: My Name My Story
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014181'
 title: My Name My Story
 uri: /organizations/my-name-my-story/
+challenge_url: ''
 
 ---

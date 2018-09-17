@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
 organization_id: '2015006'
 year_submitted: '2015'
 organization_name: Alliance for Children's Rights
@@ -26,5 +25,6 @@ project_ids: '5102012'
 organization_id_2: '2015006'
 title: Alliance for Children's Rights
 uri: /organizations/alliance-for-childrens-rights/
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
 
 ---

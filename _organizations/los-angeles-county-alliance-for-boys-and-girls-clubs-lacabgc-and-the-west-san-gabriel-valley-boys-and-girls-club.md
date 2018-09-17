@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014167'
 year_submitted: '2014'
 organization_name: >-
@@ -29,5 +28,6 @@ title: >-
   San Gabriel Valley Boys and Girls Club
 uri: >-
   /organizations/los-angeles-county-alliance-for-boys-and-girls-clubs-lacabgc-and-the-west-san-gabriel-valley-boys-and-girls-club/
+challenge_url: ''
 
 ---

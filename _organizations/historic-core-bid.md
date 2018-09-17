@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/spring-street-parklets'
 organization_id: '2016100'
 year_submitted: '2016'
 organization_name: Historic Core BID
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016100'
 title: Historic Core BID
 uri: /organizations/historic-core-bid/
+challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'
 
 ---

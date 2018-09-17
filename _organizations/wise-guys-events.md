@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
 organization_id: '2015226'
 year_submitted: '2015'
 organization_name: Wise Guys Events
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2015226'
 title: Wise Guys Events
 uri: /organizations/wise-guys-events/
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
 
 ---

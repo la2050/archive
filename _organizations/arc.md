@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/arcexperience.html'
 organization_id: '2013013'
 year_submitted: '2013'
 organization_name: arc
@@ -22,5 +21,6 @@ project_ids: '4102003'
 organization_id_2: '2013013'
 title: arc
 uri: /organizations/arc/
+challenge_url: 'http://maker.good.is/myla2050/projects/arcexperience.html'
 
 ---

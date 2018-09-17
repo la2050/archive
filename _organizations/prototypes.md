@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
 organization_id: '2015161'
 year_submitted: '2015'
 organization_name: Prototypes
@@ -26,5 +25,6 @@ project_ids: '5102246'
 organization_id_2: '2015161'
 title: Prototypes
 uri: /organizations/prototypes/
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
 
 ---

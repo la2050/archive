@@ -1,6 +1,4 @@
 ---
-url: >-
-  https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
 organization_id: '2016211'
 year_submitted: '2016'
 organization_name: The Academy Project
@@ -34,5 +32,7 @@ project_ids: ''
 organization_id_2: '2016211'
 title: The Academy Project
 uri: /organizations/the-academy-project/
+challenge_url: >-
+  https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
 
 ---

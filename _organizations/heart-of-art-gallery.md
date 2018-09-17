@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
 organization_id: '2015085'
 year_submitted: '2015'
 organization_name: Heart of Art Gallery
@@ -25,5 +24,6 @@ project_ids: '5102222'
 organization_id_2: '2015085'
 title: Heart of Art Gallery
 uri: /organizations/heart-of-art-gallery/
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
 
 ---

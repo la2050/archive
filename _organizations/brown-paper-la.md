@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014120'
 year_submitted: '2014'
 organization_name: Brown Paper LA
@@ -22,5 +21,6 @@ project_ids: ''
 organization_id_2: '2014120'
 title: Brown Paper LA
 uri: /organizations/brown-paper-la/
+challenge_url: ''
 
 ---

@@ -1,5 +1,4 @@
 ---
-url: 'https://activation.la2050.org/connect/casa-of-los-angeles/'
 organization_id: '2018014'
 year_submitted: '2018'
 organization_name: CASA of Los Angeles
@@ -30,6 +29,7 @@ project_ids: '8102014'
 organization_id_2: '2018014'
 title: CASA of Los Angeles
 uri: /organizations/casa-of-los-angeles/
+challenge_url: 'https://activation.la2050.org/connect/casa-of-los-angeles/'
 category: connect
 
 ---

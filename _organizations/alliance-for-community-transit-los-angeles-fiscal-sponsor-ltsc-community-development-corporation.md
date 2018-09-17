@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
 organization_id: '2013007'
 year_submitted: '2014'
 organization_name: >-
@@ -31,5 +30,6 @@ title: >-
   Development Corporation)
 uri: >-
   /organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
 
 ---

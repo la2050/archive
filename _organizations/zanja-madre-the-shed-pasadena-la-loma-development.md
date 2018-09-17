@@ -1,5 +1,4 @@
 ---
-url: ''
 organization_id: '2014230'
 year_submitted: '2014'
 organization_name: 'Zanja Madre, The Shed Pasadena, La Loma Development'
@@ -24,5 +23,6 @@ project_ids: '4102190'
 organization_id_2: '2014230'
 title: 'Zanja Madre, The Shed Pasadena, La Loma Development'
 uri: /organizations/zanja-madre-the-shed-pasadena-la-loma-development/
+challenge_url: ''
 
 ---

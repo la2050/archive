@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'
 organization_id: '2016054'
 year_submitted: '2016'
 organization_name: Compassionate Santa Monica
@@ -26,5 +25,6 @@ project_ids: ''
 organization_id_2: '2016054'
 title: Compassionate Santa Monica
 uri: /organizations/compassionate-santa-monica/
+challenge_url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'
 
 ---

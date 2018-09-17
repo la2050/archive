@@ -1,5 +1,4 @@
 ---
-url: 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'
 organization_id: '2016129'
 year_submitted: '2016'
 organization_name: LaunchCode
@@ -27,5 +26,6 @@ project_ids: ''
 organization_id_2: '2016129'
 title: LaunchCode
 uri: /organizations/launchcode/
+challenge_url: 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'
 
 ---

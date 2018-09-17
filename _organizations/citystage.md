@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
 organization_id: '2013039'
 year_submitted: '2013'
 organization_name: CITYstage
@@ -52,5 +51,6 @@ project_ids: ''
 organization_id_2: '2013039'
 title: CITYstage
 uri: /organizations/citystage/
+challenge_url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
 
 ---

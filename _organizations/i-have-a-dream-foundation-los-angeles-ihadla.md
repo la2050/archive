@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
 organization_id: '2015001'
 year_submitted: '2015'
 organization_name: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
@@ -28,5 +27,6 @@ project_ids: '5102001'
 organization_id_2: '2015001'
 title: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 uri: /organizations/i-have-a-dream-foundation-los-angeles-ihadla/
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
 
 ---

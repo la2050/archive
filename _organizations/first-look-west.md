@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/FLOW.html'
 organization_id: '2013067'
 year_submitted: '2013'
 organization_name: First Look West
@@ -79,5 +78,6 @@ project_ids: ''
 organization_id_2: '2013067'
 title: First Look West
 uri: /organizations/first-look-west/
+challenge_url: 'http://maker.good.is/myla2050/projects/FLOW.html'
 
 ---

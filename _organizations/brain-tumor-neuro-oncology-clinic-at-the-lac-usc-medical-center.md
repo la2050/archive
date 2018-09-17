@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
 organization_id: '2013022'
 year_submitted: '2013'
 organization_name: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
@@ -53,5 +52,6 @@ organization_id_2: '2013022'
 title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 uri: >-
   /organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/
+challenge_url: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
 
 ---

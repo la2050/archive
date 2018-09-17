@@ -1,5 +1,4 @@
 ---
-url: 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
 organization_id: '2014072'
 year_submitted: '2014'
 organization_name: Proktr
@@ -24,5 +23,6 @@ project_ids: ''
 organization_id_2: '2014072'
 title: Proktr
 uri: /organizations/proktr/
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
 
 ---
