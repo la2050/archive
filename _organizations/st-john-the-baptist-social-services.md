@@ -32,7 +32,7 @@ org_summary: >-
    
    
    
-   An example is the start of the Cesar Chavez Interfaith Breakfast, which for the first time brought together community leaders, business owners, labor leaders, clergy from several denominations, public sector employees, and politicians together in a non-formal gathering. The event allows people to meet others while also hearing different perspectives, such as a rabbi who worked with Cesar Chavez to a local graduate who has become principal of one of the cityâ€™s high schools. Attendees leave with new contacts and possibilities.
+   An example is the start of the Cesar Chavez Interfaith Breakfast, which for the first time brought together community leaders, business owners, labor leaders, clergy from several denominations, public sector employees, and politicians together in a non-formal gathering. The event allows people to meet others while also hearing different perspectives, such as a rabbi who worked with Cesar Chavez to a local graduate who has become principal of one of the city’s high schools. Attendees leave with new contacts and possibilities.
    
    
    
@@ -44,7 +44,7 @@ org_summary: >-
    
    
    
-   An ongoing success has been getting community members much more involved in local issues. An example is the cityâ€™s study of whether to retain the local police department or contract with the Los Angeles Sheriffâ€™s Department. Now, community members are attending hearings, giving their opinions and staying informed of events in the debate. In previous years this process would largely have been ignored by the public and not been influenced by their views. The local officials now know their decisions are being monitored. Creating public accountability is a major gain for this area.
+   An ongoing success has been getting community members much more involved in local issues. An example is the city’s study of whether to retain the local police department or contract with the Los Angeles Sheriff’s Department. Now, community members are attending hearings, giving their opinions and staying informed of events in the debate. In previous years this process would largely have been ignored by the public and not been influenced by their views. The local officials now know their decisions are being monitored. Creating public accountability is a major gain for this area.
    
    
    

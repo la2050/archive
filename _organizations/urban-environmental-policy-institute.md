@@ -28,22 +28,22 @@ org_summary: >-
    
    
    
-   <p>â€¢ Organizing the Progressive Los Angeles Network between 1998 â€“ 2002 to develop a shared agenda between environmental, labor, housing, transportation and other advocates and progressive academics to influence city policy.</p> 
+   <p>* Organizing the Progressive Los Angeles Network between 1998 — 2002 to develop a shared agenda between environmental, labor, housing, transportation and other advocates and progressive academics to influence city policy.</p> 
    
    
-   <p>â€¢ Developing a farm-to-school model starting in 1997 to expand markets for local farmers and improve nutrition at k-12 schools. Farm to School has grown into a national movement and UEPI has developed a farm-to-preschool approach to reach younger children.</p> 
+   <p>* Developing a farm-to-school model starting in 1997 to expand markets for local farmers and improve nutrition at k-12 schools. Farm to School has grown into a national movement and UEPI has developed a farm-to-preschool approach to reach younger children.</p> 
    
    
-   <p>â€¢ Organizing Arroyofest in 2003, the Los Angeles Bike Summit in 2009 and the Los Angeles Street Summit in 2010 to inspire greater collaborations among street advocates. </p> 
+   <p>* Organizing Arroyofest in 2003, the Los Angeles Bike Summit in 2009 and the Los Angeles Street Summit in 2010 to inspire greater collaborations among street advocates. </p> 
    
    
-   <p>â€¢ Organizing students and parents in LAUSD around nutrition issues to help create and advocate for passage of the Soda Ban, Healthy Snacks Motions and Obesity Prevention Motion. </p> 
+   <p>* Organizing students and parents in LAUSD around nutrition issues to help create and advocate for passage of the Soda Ban, Healthy Snacks Motions and Obesity Prevention Motion. </p> 
    
    
-   <p>â€¢ Assisting community partners in developing policy agenda to reduce pollution from ports, rail, trucking and warehouses.</p> 
+   <p>* Assisting community partners in developing policy agenda to reduce pollution from ports, rail, trucking and warehouses.</p> 
    
    
-   <p>â€¢ Helping develop a proposal to legalize sidewalk food vending in Los Angeles</p>
+   <p>* Helping develop a proposal to legalize sidewalk food vending in Los Angeles</p>
 areas_impacted: ''
 project_ids: ''
 title: Urban & Environmental Policy Institute

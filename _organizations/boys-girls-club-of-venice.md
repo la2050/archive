@@ -48,7 +48,7 @@ org_summary: >-
     
    
    
-   In 2011, the Club chartered its fifth after-school site at Mark Twain Middle School, where we will service middle school students through our Tomorrowâ€™s Leaders, PowerHour homework help, the arts, sports, fitness, and recreation programs.
+   In 2011, the Club chartered its fifth after-school site at Mark Twain Middle School, where we will service middle school students through our Tomorrow’s Leaders, PowerHour homework help, the arts, sports, fitness, and recreation programs.
    
    
     

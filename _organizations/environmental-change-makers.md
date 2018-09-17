@@ -31,7 +31,7 @@ org_summary: >-
    In 2008, ECM hosted the first Transition Training in Southern California, bringing trainers in from the UK to do so. Subsequently, we launched 8 action groups in neighborhoods around the greater LA area.
    
    
-   In 2009-2011, ECM worked with LAUSD and the Mayorâ€™s office to found and build the Emerson Avenue Community Garden.
+   In 2009-2011, ECM worked with LAUSD and the Mayor’s office to found and build the Emerson Avenue Community Garden.
 areas_impacted: ''
 project_ids: ''
 title: Environmental Change-Makers

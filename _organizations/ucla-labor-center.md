@@ -25,7 +25,7 @@ org_summary: >-
   UCLA Undocumented Immigrant Students Speak Out is currently in its fourth
   printing and has sold more than ten thousand copies. The second, Undocumented
   and Unafraid: Tam Tran, Cinthya Felix, and the Immigrant Youth Movement, is
-  being promoted as part of a national book tour during the 2012â€“2013 academic
+  being promoted as part of a national book tour during the 2012—2013 academic
   school year. To drive activities in this area, the Labor Center established
   the Dream Resource Center, a project to promote equal access to education by
   developing educational resources, support, and leadership development for

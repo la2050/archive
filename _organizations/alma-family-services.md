@@ -26,13 +26,13 @@ org_summary: >-
    
    
    
-   â€¢ Alma Family Servicesâ€™ mission speaks to our commitment to improve the quality of life for members of our communities. This often means advocating for at risk children and families. Almaâ€™s dedication goes beyond providing culturally competent services and supports and integrates our history of helping to develop and support healthy communities through collaborative community relationships. Almaâ€™s approach is strength-based, community centered and child and family focused. Individuals and families are understood to be multi-dimensional with strengths as well unique needs. 
+   * Alma Family Services’ mission speaks to our commitment to improve the quality of life for members of our communities. This often means advocating for at risk children and families. Alma’s dedication goes beyond providing culturally competent services and supports and integrates our history of helping to develop and support healthy communities through collaborative community relationships. Alma’s approach is strength-based, community centered and child and family focused. Individuals and families are understood to be multi-dimensional with strengths as well unique needs. 
    
    
-   â€¢ School-Based/Linked Services: Alma Family Services has been providing school-based Prevention and Early Intervention services for over ten (10) years. School-based counseling, individual and family psychotherapy, groups and case management services are being provided at many school within several school districts including Montebello Unified School District (MUSD), El Rancho Unified School District and the Los Angeles Unified School Districts. 
+   * School-Based/Linked Services: Alma Family Services has been providing school-based Prevention and Early Intervention services for over ten (10) years. School-based counseling, individual and family psychotherapy, groups and case management services are being provided at many school within several school districts including Montebello Unified School District (MUSD), El Rancho Unified School District and the Los Angeles Unified School Districts. 
    
    
-   â€¢ Gang Reduction Youth Development (GRYD) Program: Alma Family Services has been operating a gang prevention program through a contract with the City of Los Angeles since 2009 or four (4) years. The GRYD program includes an array of services such as a comprehensive case management, parenting classes, individual and family counseling, leadership development, youth mentoring, violence prevention training, substance use/abuse awareness and gang-prevention training.
+   * Gang Reduction Youth Development (GRYD) Program: Alma Family Services has been operating a gang prevention program through a contract with the City of Los Angeles since 2009 or four (4) years. The GRYD program includes an array of services such as a comprehensive case management, parenting classes, individual and family counseling, leadership development, youth mentoring, violence prevention training, substance use/abuse awareness and gang-prevention training.
    
    
    

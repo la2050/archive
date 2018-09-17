@@ -22,7 +22,7 @@ org_summary: >-
   operating budget of $1.2M. Our long-term arts programs reach communities and
   students who otherwise lack access to the arts, proven to be one of the most
   effective ways to engage teenagers in their education and community. Our
-  professional artists teach real-world skills needed in todayâ€™s creative
+  professional artists teach real-world skills needed in today’s creative
   economy, and impart a sense of confidence and purpose that leads to graduating
   from high school with a plan for the future. 
    
@@ -42,34 +42,34 @@ org_summary: >-
     
    
    
-   An important measure of the success is how many students advance from Level 1 to Level 2 and participate and complete HPâ€™s advanced levels. In the past two years, HP has had its largest cohorts ever participate in these advanced levels, and this year, for the first time, all Level 2 arts residency students applied for Level 3 summer arts scholarships. 
+   An important measure of the success is how many students advance from Level 1 to Level 2 and participate and complete HP’s advanced levels. In the past two years, HP has had its largest cohorts ever participate in these advanced levels, and this year, for the first time, all Level 2 arts residency students applied for Level 3 summer arts scholarships. 
    
    
    
    
    
-   As students advance up HPâ€™s program, they continue to realize more successes in the larger community. Since July 2012, HP students have:
+   As students advance up HP’s program, they continue to realize more successes in the larger community. Since July 2012, HP students have:
    
    
-   Enrolled in West LA Collegeâ€™s Communications, Entertainment, and Media Arts Division in a partnership program with Hollywood CPR, an entertainment industry training program. 
+   Enrolled in West LA College’s Communications, Entertainment, and Media Arts Division in a partnership program with Hollywood CPR, an entertainment industry training program. 
    
    
    Performed at REDCAT with the CalArts CAP Program
    
    
-   Attended Earthwatch Instituteâ€™s Los Angeles Student Fellowship Program on scholarship and studied the Diamondback Terrapin turtle in New Jersey. It was this teenagerâ€™s first time on an airplane.
+   Attended Earthwatch Institute’s Los Angeles Student Fellowship Program on scholarship and studied the Diamondback Terrapin turtle in New Jersey. It was this teenager’s first time on an airplane.
    
    
    Our first student was accepted into the Ryman Arts Program, a rigorous and highly selective classical arts training program for teens. 
    
    
-   Been accepted into the Mark Taper Forumâ€™s Young Ambassadors program
+   Been accepted into the Mark Taper Forum’s Young Ambassadors program
    
    
    
    
    
-   Scholarships have traditionally taken place in the summers, but this past fall, HP has an unprecedented 8 students participating in advanced programs - 6 at Art Centerâ€™s Saturday High and their college-level program Art Center at Night; one at the Taper, one in Ryman Arts.
+   Scholarships have traditionally taken place in the summers, but this past fall, HP has an unprecedented 8 students participating in advanced programs - 6 at Art Center’s Saturday High and their college-level program Art Center at Night; one at the Taper, one in Ryman Arts.
 areas_impacted: ''
 project_ids: ''
 title: The HeArt Project

@@ -17,10 +17,10 @@ project_image: 'http://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In 2000 we won a Best Practice award for our community organizing from the
-  United Nationsâ€™ Huairou Commission. In our model, solutions to a problem are
+  United Nations’ Huairou Commission. In our model, solutions to a problem are
   developed by those most affected. It places the community first and at the
   center of our work. We take a bottom up approach. We start with the
-  communityâ€™s understanding of their problems and engage the community in
+  community’s understanding of their problems and engage the community in
   addressing these issues. We organize block by block, neighborhood by
   neighborhood and bring this network together. We do this through reflection,
   action, analysis and start again with each phase bringing new information.
@@ -76,7 +76,7 @@ org_summary: >-
    Housing
    
    
-   o Trained and developed tenants to understand RSO Regulations and the cityâ€™s inspection processes.
+   o Trained and developed tenants to understand RSO Regulations and the city’s inspection processes.
    
    
    o Identified and worked with 188 tenants during their inspection processes in the last year
@@ -88,7 +88,7 @@ org_summary: >-
    o Successful in swearing in one of our members as a Housing Authority of City of LA Board of Commissioner (HACLA);
    
    
-   o Stopped HACLAâ€™s elimination of public housing for a 3 year period;
+   o Stopped HACLA’s elimination of public housing for a 3 year period;
    
    
    o Passed 2 advisory measures in Maywood protecting families from the demolition of their homes; 

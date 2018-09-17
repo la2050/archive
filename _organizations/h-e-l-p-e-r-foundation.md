@@ -17,8 +17,8 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385
 project_video: ''
 org_summary: >-
-  V2K HELPER Foundationâ€™s overarching achievement is having won the trust of
-  the community it serves. The organization has been a resource for families for
+  V2K HELPER Foundation’s overarching achievement is having won the trust of the
+  community it serves. The organization has been a resource for families for
   over 13 years, continually refining programs and services to best meet the
   changing needs of a diverse population. Consequently V2K HELPER has access to
   a large population of low- and middle-income families who trust the
@@ -34,19 +34,19 @@ org_summary: >-
    
    
    
-   â€¢ Since 1999, V2K-HELPER has been funded by the City of Los Angeles services to implement a comprehensive violence prevention/intervention program.
+   * Since 1999, V2K-HELPER has been funded by the City of Los Angeles services to implement a comprehensive violence prevention/intervention program.
    
    
-   â€¢ Since 2007, V2K-HELPER has implemented City of Los Angeles GRYD Program in multiple Zones, providing services to youth and young adults with an annual budget of at least $750,000. 
+   * Since 2007, V2K-HELPER has implemented City of Los Angeles GRYD Program in multiple Zones, providing services to youth and young adults with an annual budget of at least $750,000. 
    
    
-   â€¢ Community Development, with an emphasis on low-to-moderate (LMI) communities and individuals addressing: small business education, business retention, entrepreneurial and employment training, and workforce development programs 
+   * Community Development, with an emphasis on low-to-moderate (LMI) communities and individuals addressing: small business education, business retention, entrepreneurial and employment training, and workforce development programs 
    
    
-   â€¢ Community Development, with an emphasis on affordable housing 
+   * Community Development, with an emphasis on affordable housing 
    
    
-   â€¢ Currently we provide direct service and linkages to the following services free of charge each month to approximately 200 men, women and children:
+   * Currently we provide direct service and linkages to the following services free of charge each month to approximately 200 men, women and children:
    
    
    o Comprehensive wrap-around services that include 

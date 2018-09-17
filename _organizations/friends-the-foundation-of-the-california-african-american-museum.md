@@ -20,15 +20,15 @@ org_summary: >-
   Despite the economic downturn and budget reductions we have grown attendance
   at CAAM over the last 10 years from35K to over 100,000 visitors representing
   an average 20% increase each year. We are now presenting 80+ public programs
-  each year and 9 â€“ 13 exhibitions while continuing to maintain an active and
+  each year and 9 — 13 exhibitions while continuing to maintain an active and
   growing research library and collection. We are proud of these numbers and
   equally as proud that they represent a connection to content that has ranged
   from presenting the more than 20 exhibitions that have been directly related
-  to telling the story of the African Diaspora around the worldâ€¦and all still
+  to telling the story of the African Diaspora around the world…and all still
   for Free Admission! We have proudly collaborated with numerous organizations
   from the Skirball Cultural Center to the Japanese American National Museum,
   the Chinese American Museum and others like Self Help Graphics to the obvious
-  connections with the Watts Towers, St. Elmoâ€™s Village, and commercial
+  connections with the Watts Towers, St. Elmo’s Village, and commercial
   galleries owned by African Americans. We encourage artmaking and training by
   children and showcase the work of other organizations serving this purpose
   like Ryman Arts. But perhaps we are just as proud of our outreach efforts with

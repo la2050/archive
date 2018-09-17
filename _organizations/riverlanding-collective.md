@@ -55,25 +55,25 @@ org_summary: |-
    
    
    
-   Jodie Bassâ€™s work centers on the confluence of design and social engagement by conscientious construction through both critical and hands-on methods. She is an Exhibition Designer at Los Angeles County Museum of Arts her recent work includes Drawing Surrealism, Lost Line, and Shinique Smith. <p>
+   Jodie Bass’s work centers on the confluence of design and social engagement by conscientious construction through both critical and hands-on methods. She is an Exhibition Designer at Los Angeles County Museum of Arts her recent work includes Drawing Surrealism, Lost Line, and Shinique Smith. <p>
    
    
    
    
    
-   Kelly Majewskiâ€™s design work has covered a wide range of scales and types; from street furnishings to large scale urban and landscape master planning projects. Kelly has worked for multiple award winning Landscape Architecture firms. She is a strong advocate for community involvement in the design process and has led multiple public outreach meetings and workshops. <p>
+   Kelly Majewski’s design work has covered a wide range of scales and types; from street furnishings to large scale urban and landscape master planning projects. Kelly has worked for multiple award winning Landscape Architecture firms. She is a strong advocate for community involvement in the design process and has led multiple public outreach meetings and workshops. <p>
    
    
    
    
    
-   Daveed Kapoor is an architect who contributes a diverse range of experience, united by his consistent passion for space that improves the quality of peopleâ€™s lives. Daveed founded Utopiad.org, a land development and architecture collective focused on redressing social justice issues. With the DLANC Complete Streets Working Group he helped design and was permit architect of the Spring Street Parklets. <p>
+   Daveed Kapoor is an architect who contributes a diverse range of experience, united by his consistent passion for space that improves the quality of people’s lives. Daveed founded Utopiad.org, a land development and architecture collective focused on redressing social justice issues. With the DLANC Complete Streets Working Group he helped design and was permit architect of the Spring Street Parklets. <p>
    
    
    
    
    
-   Lars Jan is writer, film-maker and the artistic director of Early Morning Opera, a genre-bending performance + art lab. He has made artworks about TED talks, Laika the Soviet space dog, land art, and suicide bombing. Larsâ€™ work has been supported by many significant artistic institutions. He is also a 2013 TED Senior Fellow and is currently developing a public spectacle about flooding and the future of empathy.
+   Lars Jan is writer, film-maker and the artistic director of Early Morning Opera, a genre-bending performance + art lab. He has made artworks about TED talks, Laika the Soviet space dog, land art, and suicide bombing. Lars’ work has been supported by many significant artistic institutions. He is also a 2013 TED Senior Fellow and is currently developing a public spectacle about flooding and the future of empathy.
 areas_impacted: ''
 project_ids: ''
 title: RiverLAnding Collective

@@ -53,7 +53,7 @@ org_summary: >-
    
    
    
-   Once upon a time, I was known as a "selfish little girl with a horrible attitude", who at 14 knew everything and "didn't need anyone to tell me â€œAnything", until that one late evening when my mother found me sitting on my bed crying into my Trigonometry book, with my TI-82 in hand. My mom asked, "What was wrong?" With tears in my eyes, I looked at my mom for the first time feeling like a failure. I responded, "I don't know how to do this! I've failed my 2nd math test!" My mom felt the defeat and sadness in my words. She hugged me and told me, she would figure it out and she would get me some help.
+   Once upon a time, I was known as a "selfish little girl with a horrible attitude", who at 14 knew everything and "didn't need anyone to tell me “Anything", until that one late evening when my mother found me sitting on my bed crying into my Trigonometry book, with my TI-82 in hand. My mom asked, "What was wrong?" With tears in my eyes, I looked at my mom for the first time feeling like a failure. I responded, "I don't know how to do this! I've failed my 2nd math test!" My mom felt the defeat and sadness in my words. She hugged me and told me, she would figure it out and she would get me some help.
    
    
    

@@ -41,7 +41,7 @@ org_summary: >-
    
    
    
-   <p>- Advocated for the Cityâ€™s first Walkability Checklist that is used by City Planning Staff in their review of new development projects</p>
+   <p>- Advocated for the City’s first Walkability Checklist that is used by City Planning Staff in their review of new development projects</p>
    
    
    <p>- Organized the Great Hollywood Walkabout in 2006</p>

@@ -25,7 +25,7 @@ org_summary: >-
   the DOE into a vehicle that has attracted widespread stakeholder support and
   partnerships of benefit to young entrepreneurs, the cleantech workforce and
   ultimately the economy. Some numbers from the first year of the competition
-  best illustrate our organizationâ€™s achivements:</p>
+  best illustrate our organization’s achivements:</p>
    
    
    
@@ -67,7 +67,7 @@ org_summary: >-
    
    
    
-   <p>- The program established a dual track program embracing Business Ready and Transformational Idea Award tracks to ensure great student ideas donâ€™t get lost for lack of support</p>
+   <p>- The program established a dual track program embracing Business Ready and Transformational Idea Award tracks to ensure great student ideas don’t get lost for lack of support</p>
    
    
    

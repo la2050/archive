@@ -21,7 +21,7 @@ org_summary: >-
   LifeWorks, a Project of the LA Gay and Lesbian Center. This campaign, called
   Get Empathy, focuses on spreading a culture of compassion in schools in our
   city, leveraging the same Community Action Network (CAN) model we are
-  proposing for our LA2050 campaignâ€¦Camp reLAte. </p>
+  proposing for our LA2050 campaign…Camp reLAte. </p>
    
    
    <p>We were also recently awarded a grant from The JIB Fund to provide training and community capacity support to groups and organizations in LA working toward social justice and nonviolence for Angelenos who identify as transgender.</p>

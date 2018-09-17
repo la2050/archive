@@ -16,8 +16,8 @@ org_type: Nonprofit
 project_image: 'http://img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
-  The foundation is a collaboration of two urban visionaries â€“ Xander
-  Tertychny and Eric Solis, who have both graduated from USC with a degree in
+  The foundation is a collaboration of two urban visionaries — Xander Tertychny
+  and Eric Solis, who have both graduated from USC with a degree in
   Architecture. Xander has been involved with organizations such as Global
   Architecture Brigades and helped design and fundraise for projects benefiting
   underprivileged communities in Central America. He currently works for June

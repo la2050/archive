@@ -37,25 +37,25 @@ org_summary: >-
    
    
    
-   Our staff attorneys led a team of lawyers in reaching an agreement, in 2011, with the developer of the Lorenzo project in South LA, in which the developer agreed to concessions worth $9.5 million. The Lorenzo project is the largest of its kind along the cityâ€™s planned Expo Line extension. The agreement delivered a wide range of community benefits, including 7,500 square feet, rent free, dedicated to community-based health care services, and 5% of the units built to be made affordable to people who earn less than 50% of the area median income.
+   Our staff attorneys led a team of lawyers in reaching an agreement, in 2011, with the developer of the Lorenzo project in South LA, in which the developer agreed to concessions worth $9.5 million. The Lorenzo project is the largest of its kind along the city’s planned Expo Line extension. The agreement delivered a wide range of community benefits, including 7,500 square feet, rent free, dedicated to community-based health care services, and 5% of the units built to be made affordable to people who earn less than 50% of the area median income.
    
    
    
    
    
-   With Public Counselâ€™s leadership, the Alliance for Community Transit-Los Angeles engaged in a strategic planning process; finalized its vision, mission, and principles; solidified its membership base of 20 diverse organizations; strengthened its infrastructure; and developed the key parameters of a citywide equitable TOD campaign.
+   With Public Counsel’s leadership, the Alliance for Community Transit-Los Angeles engaged in a strategic planning process; finalized its vision, mission, and principles; solidified its membership base of 20 diverse organizations; strengthened its infrastructure; and developed the key parameters of a citywide equitable TOD campaign.
    
    
    
    
    
-   Public Counsel represented the interests of low-income tenants whose affordable housing was at risk of being lost in Los Angelesâ€™ rapidly gentrifying coastal zone, which already had a limited supply of affordable housing. In 2011, we reached a historic settlement with HUD and the owners of the Holiday Venice apartment complex that provides for 20 years of affordability provisions and protects current tenants from being displaced. 
+   Public Counsel represented the interests of low-income tenants whose affordable housing was at risk of being lost in Los Angeles’ rapidly gentrifying coastal zone, which already had a limited supply of affordable housing. In 2011, we reached a historic settlement with HUD and the owners of the Holiday Venice apartment complex that provides for 20 years of affordability provisions and protects current tenants from being displaced. 
    
    
    
    
    
-   We are engaged in a long-term campaign in the southeast cities (Bell, Bell Gardens, Cudahy, Huntington Park, Maywood, and South Gate) to increase familiesâ€™ access to child care and green space through changes to those citiesâ€™ general plans and zoning codes.
+   We are engaged in a long-term campaign in the southeast cities (Bell, Bell Gardens, Cudahy, Huntington Park, Maywood, and South Gate) to increase families’ access to child care and green space through changes to those cities’ general plans and zoning codes.
    
    
    

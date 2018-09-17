@@ -17,10 +17,10 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16654%252Fdisplay%252FSlide1.jpg=c570x385
 project_video: ''
 org_summary: >-
-  Minds on Fire is in the start-up phase. However, the organizationâ€™s founder
+  Minds on Fire is in the start-up phase. However, the organization’s founder
   created and piloted a similar model in New York City public schools as part of
-  Mayor Bloombergâ€™s inaugural NYC Civic Corps in 2009, an initiative launched
-  in partnership with AmeriCorps VISTA to engage people across that city in
+  Mayor Bloomberg’s inaugural NYC Civic Corps in 2009, an initiative launched in
+  partnership with AmeriCorps VISTA to engage people across that city in
   volunteerism. The Minds on Fire model is shaped by the successes and learnings
   taken from that pilot, in combination with a deep understanding of the Los
   Angeles education landscape and challenges specific to our school system.

@@ -22,8 +22,8 @@ org_summary: >-
   trees along San Pedro St. in Skid Row between 4th and 5th Streets with the
   support of the Central City East Association (CCEA) and it's Executive
   Director, Estela Lopez. This successful first effort involved lobbying and
-  coordinating with all relevant property owners, Jan Perryâ€™s office, the
-  Bureau of Street Services, and TreePeople, who managed the plantings.
+  coordinating with all relevant property owners, Jan Perry’s office, the Bureau
+  of Street Services, and TreePeople, who managed the plantings.
    
    
    

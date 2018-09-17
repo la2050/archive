@@ -20,7 +20,7 @@ org_summary: >-
   The Garden School Foundation was founded in 2005 with the mission to create a
   model of garden-based education for Los Angeles schools that would advance
   health outcomes and experiential learning opportunities for elementary
-  students. Eight years later, weâ€™ve created the most comprehensive program in
+  students. Eight years later, we’ve created the most comprehensive program in
   the city, with students at our pilot site visiting the Â¾ acre kitchen garden
   every other week during the school day for classes in everything from Science
   and Language Arts to Cooking and Nutrition. Our Seed to Table curriculum, to
@@ -33,7 +33,7 @@ org_summary: >-
    
    
    
-   In addition to piloting this program at the 24th Street Elementary School, GSF has worked with Widney High, a school for students with multiple physical and developmental disabilities, to create a Horticulture vocational program that includes a commercial greenhouse operation and vegetable garden. We are working with the school to create job opportunities for these students, connecting them with local urban agriculture organizations and farmersâ€™ markets so they can make meaningful contributions to their local community.
+   In addition to piloting this program at the 24th Street Elementary School, GSF has worked with Widney High, a school for students with multiple physical and developmental disabilities, to create a Horticulture vocational program that includes a commercial greenhouse operation and vegetable garden. We are working with the school to create job opportunities for these students, connecting them with local urban agriculture organizations and farmers’ markets so they can make meaningful contributions to their local community.
    
    
    
@@ -45,7 +45,7 @@ org_summary: >-
    
    
    
-   Our partner, the Urban & Environmental Policy Institute (UEPI) at Occidental College, was instrumental in creating, cultivating and expanding farm to school programs, which are now linked by a national network throughout the United States. UEPI has many other innovative programs involving research and policy change, including the Farm to Preschool program. Farm to Preschool is viewed at a model program nationwide, is a national leader of the emerging Farm to Preschool movement, and was given a recognition award by Michelle Obamaâ€™s Letâ€™s Move! Child Care initiative in 2012. UEPIâ€™s Farm to Preschool program partners with child care agencies, preschools and family child care sites, as well as many local and national organizations. Begun as a pilot program in 2009, it is now expanding throughout the state, has been tailored to Hawaiian culture, and is currently working with the Navajo Nation. Occidental College was named to the 2013 Presidentâ€™s Higher Education Community Service Honor Roll with Distinction in recognition of its exemplary community service and Farm to Preschool was a featured program.
+   Our partner, the Urban & Environmental Policy Institute (UEPI) at Occidental College, was instrumental in creating, cultivating and expanding farm to school programs, which are now linked by a national network throughout the United States. UEPI has many other innovative programs involving research and policy change, including the Farm to Preschool program. Farm to Preschool is viewed at a model program nationwide, is a national leader of the emerging Farm to Preschool movement, and was given a recognition award by Michelle Obama’s Let’s Move! Child Care initiative in 2012. UEPI’s Farm to Preschool program partners with child care agencies, preschools and family child care sites, as well as many local and national organizations. Begun as a pilot program in 2009, it is now expanding throughout the state, has been tailored to Hawaiian culture, and is currently working with the Navajo Nation. Occidental College was named to the 2013 President’s Higher Education Community Service Honor Roll with Distinction in recognition of its exemplary community service and Farm to Preschool was a featured program.
 areas_impacted: ''
 project_ids: ''
 title: Garden School Foundation

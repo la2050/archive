@@ -18,7 +18,7 @@ project_video: ''
 org_summary: >-
   The Venice Art Crawl has been around for more than two years now and has
   focused a lot of the artistic energy which Venice has historically been known
-  for. For one night, weâ€™re able to turn so many shops and restaurants all
+  for. For one night, we’re able to turn so many shops and restaurants all
   across one of the biggest tourist attractions in Los Angles into an arts
   mecca. That has raised business in local shops by as much as 50% nightly,
   resulted in thousands of dollars in sales for local artists and reinvigorated

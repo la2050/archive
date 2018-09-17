@@ -20,7 +20,7 @@ org_summary: >-
   Future
    
    
-   was a collaboration between experts in many fields that resulted in an artful book about the future of cars, streets and public policy in Southern California. Civic Projectâ€™s mission is to initiate and develop projects that break down silos between organizations and different types of expertise.
+   was a collaboration between experts in many fields that resulted in an artful book about the future of cars, streets and public policy in Southern California. Civic Project’s mission is to initiate and develop projects that break down silos between organizations and different types of expertise.
    
    
    

@@ -41,7 +41,7 @@ org_summary: >-
    
    
    
-   More recently, LA CAUSA partnered with The California Endowment and implemented the PALOMA Project, a project that focused on researching food accessibility within East Los Angeles, specifically Boyle Heights. During this run of the program, the youth and program directors partnered with local corner store ownerâ€™s to assess the accessibility of fresh fruits and vegetables within the surrounding community, along with addressing the store owners and community economic challenges, healthy eating options and beautification projects. 
+   More recently, LA CAUSA partnered with The California Endowment and implemented the PALOMA Project, a project that focused on researching food accessibility within East Los Angeles, specifically Boyle Heights. During this run of the program, the youth and program directors partnered with local corner store owner’s to assess the accessibility of fresh fruits and vegetables within the surrounding community, along with addressing the store owners and community economic challenges, healthy eating options and beautification projects. 
    
    
    

@@ -17,11 +17,11 @@ project_image: 'http://img.youtube.com/vi/cWwkZlNW9ng/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Stephen Glassman Studio first raised widespread critical acclaim in the early
-  1990â€™s creating free-form bamboo installations for devastated urban sites in
+  1990’s creating free-form bamboo installations for devastated urban sites in
   the aftermath of the Rodney King Riots, Malibu Fires, and Northridge Quake.
   Since then, Stephen Glassman Studio has gone on to do significant large-scale
   projects including a 4,000 square foot sculpture plaza at the LNR Warner
-  Center, the Fairmont Skate Park in Salt Lake City, Utah, Arkansasâ€™ Southeast
+  Center, the Fairmont Skate Park in Salt Lake City, Utah, Arkansas’ Southeast
   Shear (an NEA & White House Millennium Project), the Sylvia Campuan Bridge in
   Bali, and more. Stephen Glassman Studio has collaborated with architects such
   as Sasaki, Steinberg, Miller / Hull, and Arup Engineering as a creative
@@ -29,7 +29,7 @@ org_summary: >-
   commissioned art works for large-scale projects. Glassman is the recipient of
   numerous grants and awards including the NEA, Nathan Cummings Foundation, LA
   Cultural Endowment, and was a 2000 Chrysler Design Award nominee. Stephen
-  Glassman Studioâ€™s work has been collected and exhibited throughout Southern
+  Glassman Studio’s work has been collected and exhibited throughout Southern
   California, New York City, and internationally. The design and concept for
   Urban Air first received notice when it won the 2011 London International
   Creativity Award. As a successful Kickstarter project Urban Air went on to

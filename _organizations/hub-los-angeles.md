@@ -43,7 +43,7 @@ org_summary: >-
     
    
    
-   <p>Sponsorship and partnership of over 50 events to date supporting organizations such as GOOD, Acumen Fund, AIGA, Praxis Labs, Dell Womenâ€™s Network for Entrepreneurship, Green Festival, Social Justice Institute to name a few.</p>
+   <p>Sponsorship and partnership of over 50 events to date supporting organizations such as GOOD, Acumen Fund, AIGA, Praxis Labs, Dell Women’s Network for Entrepreneurship, Green Festival, Social Justice Institute to name a few.</p>
 areas_impacted: ''
 project_ids: '5102050'
 title: Hub Los Angeles

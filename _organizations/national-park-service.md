@@ -23,19 +23,19 @@ org_summary: >-
    
    
    
-   â€¢ Reached over 8000 kids with nature-based education programming.
+   * Reached over 8000 kids with nature-based education programming.
    
    
-   â€¢ Planted 5 acres of native habitat. 
+   * Planted 5 acres of native habitat. 
    
    
-   â€¢ Grown 15,000 native plants.
+   * Grown 15,000 native plants.
    
    
-   â€¢ Planted 10,000 native with kids.
+   * Planted 10,000 native with kids.
    
    
-   â€¢ Employed over 20 scientists to conduct scientific research on plants, animals, water quality, air quality and more. This research includes four active citizen science programs (Whatâ€™s Invasive, California phenology project, crayfish removal).
+   * Employed over 20 scientists to conduct scientific research on plants, animals, water quality, air quality and more. This research includes four active citizen science programs (What’s Invasive, California phenology project, crayfish removal).
 areas_impacted: ''
 project_ids: ''
 title: National Park Service

@@ -24,7 +24,7 @@ org_summary: >-
    
    
    
-   Our most significant achievement to date is partnering with the National Shared Housing Resource Center to lead the revival of the shared housing movement by rebuilding the Centerâ€™s capacity and launching a national campaign to strengthen existing programs. 
+   Our most significant achievement to date is partnering with the National Shared Housing Resource Center to lead the revival of the shared housing movement by rebuilding the Center’s capacity and launching a national campaign to strengthen existing programs. 
    
    
    

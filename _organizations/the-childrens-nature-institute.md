@@ -16,8 +16,8 @@ org_type: Nonprofit
 project_image: 'http://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
-  CNIâ€™s mission is to educate children, families, and their communities
-  through interactive experiences with nature and to cultivate respect and
+  CNI’s mission is to educate children, families, and their communities through
+  interactive experiences with nature and to cultivate respect and
   responsibility for the natural environment. We are the only organization in
   Los Angeles that focuses exclusively on environmental education for young
   children during their most impressionable years: birth through age 8. CNI

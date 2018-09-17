@@ -31,28 +31,28 @@ org_summary: >-
    
    
    
-   â€¢ Nearly 100,000 low-income men and women registered to vote
+   * Nearly 100,000 low-income men and women registered to vote
    
    
-   â€¢ Legal safeguards to protect California's 25,000 LGBTQ high school students from harassment and violence
+   * Legal safeguards to protect California's 25,000 LGBTQ high school students from harassment and violence
    
    
-   â€¢ 25,000 men and women raised above the poverty level by living wage jobs
+   * 25,000 men and women raised above the poverty level by living wage jobs
    
    
-   â€¢ $400 million secured for parks in low-income neighborhoods
+   * $400 million secured for parks in low-income neighborhoods
    
    
-   â€¢ 400,000 L.A. bus riders ride the largest clean-fuel bus fleet in the country
+   * 400,000 L.A. bus riders ride the largest clean-fuel bus fleet in the country
    
    
-   â€¢ $1.74 million in back wages for men and women working at poverty wages in Koreatown supermarkets
+   * $1.74 million in back wages for men and women working at poverty wages in Koreatown supermarkets
    
    
-   â€¢ 300,000 bottle-fed babies safe from the toxic chemical BPA
+   * 300,000 bottle-fed babies safe from the toxic chemical BPA
    
    
-   â€¢ 30,000 L.A. transgender persons with improved access to medical care
+   * 30,000 L.A. transgender persons with improved access to medical care
 areas_impacted: ''
 project_ids: ''
 title: Liberty Hill

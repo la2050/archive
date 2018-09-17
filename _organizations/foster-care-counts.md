@@ -16,7 +16,44 @@ org_type: Nonprofit
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16488%252Fdisplay%252FFCC_logo_master_jpeg.jpg=c570x385
 project_video: ''
-org_summary: "Interviewing Skills Workshops for Foster Teens\n \n \n \n \n \n Foster Motherâ€™s Day (Gala Celebration for Foster Families)\n \n \n \n \n \n No Foster Child Left Behind: One Laptop Per Foster Youth\n \n \n \n \n \n Guardian Scholars College Program support\n \n \n \n \n \n Educational Scholarship â€œFriendâ€\x9D - raisers\n \n \n \n \n \n Interactive Independent Living Skills Training Website collaboration\n \n \n \n \n \n Clothing & Household Item Recycling Exchange Site"
+org_summary: |-
+  Interviewing Skills Workshops for Foster Teens
+   
+   
+   
+   
+   
+   Foster Mother’s Day (Gala Celebration for Foster Families)
+   
+   
+   
+   
+   
+   No Foster Child Left Behind: One Laptop Per Foster Youth
+   
+   
+   
+   
+   
+   Guardian Scholars College Program support
+   
+   
+   
+   
+   
+   Educational Scholarship “Friend” - raisers
+   
+   
+   
+   
+   
+   Interactive Independent Living Skills Training Website collaboration
+   
+   
+   
+   
+   
+   Clothing & Household Item Recycling Exchange Site
 areas_impacted: ''
 project_ids: ''
 title: Foster Care Counts

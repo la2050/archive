@@ -16,7 +16,7 @@ org_type: Nonprofit
 project_image: 'http://img.youtube.com/vi/f2SXn1p3d4I/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
-  <p>CTLA: Created by the Mayor in 2009, CTLA is partnership of the regionâ€™s
+  <p>CTLA: Created by the Mayor in 2009, CTLA is partnership of the region’s
   most important institutions dedicated to making Los Angles a huge green
   economy. Today, LA is the second largest green economy in the US, is the
   largest market for EVs and solar in the country, has more cleantech startups

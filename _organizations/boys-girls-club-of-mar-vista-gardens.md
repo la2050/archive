@@ -22,7 +22,7 @@ org_summary: >-
   from the past two months include the formation of our first sports league
   (Ultimate Lacrosse League), creation of a recycling program for the housing
   community operated by Club members, our first Family Night celebration in
-  honor of our one month anniversary, a St. Patrickâ€™s Day party for teen
+  honor of our one month anniversary, a St. Patrick’s Day party for teen
   members, and upcoming Easter Celebration for the entire community. Our Club
   members have started creating animated cartoons and recording music in our
   tech room. We are extremely proud of our teen members who have started

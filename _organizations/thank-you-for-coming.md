@@ -29,7 +29,7 @@ org_summary: >-
    
    
    
-   Weâ€™ve begun building a volunteer force and forged dozens of relationships, enabling us to source local produce, accept time dollars as currency, or offer a class on the History of Art and Food. 
+   We’ve begun building a volunteer force and forged dozens of relationships, enabling us to source local produce, accept time dollars as currency, or offer a class on the History of Art and Food. 
    
    
    
@@ -47,13 +47,13 @@ org_summary: >-
    
    
    
-   Jennifer June Strawn/Superstition & Sustenance: "Reportedly, superstitious belief is on the rise in modern society, neck-and-neck, it seems, with an ever-widening faith in scientific fact. The purpose of this project is to examine the mechanism of superstition, its role in our private and public lives, and its relevance. As sensitive creatures vulnerable to the harsh realities of the world we live in, superstition, as a complicated system of smoke-and-mirrorsâ€”regardless of its actual efficacyâ€”is necessary to our survival as a species. Through the scope of whimsy, play, and humor, my mission is to present superstition in the form of food and food-for-thought."
+   Jennifer June Strawn/Superstition & Sustenance: "Reportedly, superstitious belief is on the rise in modern society, neck-and-neck, it seems, with an ever-widening faith in scientific fact. The purpose of this project is to examine the mechanism of superstition, its role in our private and public lives, and its relevance. As sensitive creatures vulnerable to the harsh realities of the world we live in, superstition, as a complicated system of smoke-and-mirrors—regardless of its actual efficacy—is necessary to our survival as a species. Through the scope of whimsy, play, and humor, my mission is to present superstition in the form of food and food-for-thought."
    
    
    
    
    
-   Japanther/69Â¢ Only: "In our research, we found that a nickel in 1930 is valued, coincidentally, at 69Â¢ today. But while automats used to provide public dignity for pennies on the dollar, in 2013, questions about value, quality and service are still highly contended. Our intention in creating a 69Â¢ Only store is to provide a place where people can eat and hang out affordably in LA. Weâ€™re challenging ourselves to fully consider the costs and value of things that are too-often omitted in the conversation: labor, modern manufacturing processes, etc. It is without a doubt that we will need to rely on creative resource gathering, careful proportioning, DIY processes, and the generosity of friends and strangers to realize a 69Â¢ Only store."
+   Japanther/69Â¢ Only: "In our research, we found that a nickel in 1930 is valued, coincidentally, at 69Â¢ today. But while automats used to provide public dignity for pennies on the dollar, in 2013, questions about value, quality and service are still highly contended. Our intention in creating a 69Â¢ Only store is to provide a place where people can eat and hang out affordably in LA. We’re challenging ourselves to fully consider the costs and value of things that are too-often omitted in the conversation: labor, modern manufacturing processes, etc. It is without a doubt that we will need to rely on creative resource gathering, careful proportioning, DIY processes, and the generosity of friends and strangers to realize a 69Â¢ Only store."
 areas_impacted: ''
 project_ids: '5102082'
 title: Thank You For Coming

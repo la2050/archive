@@ -17,12 +17,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16560%252Fdisplay%252F2050_image.jpg=c570x385
 project_video: ''
 org_summary: >-
-  <p>Since our inception in 2010, CITYstage has served over 100 of LAâ€™s
-  at-risk middle and high school youth with tuition-free performing arts
-  instruction in the disciplines of dance, music and theatre. Our first pilot
-  program at Manual Arts High School provided 25 students with free dance
-  instruction and resulted in all program graduates going on to attend 4-year
-  universities, as well as continuing to pursue the arts. </p>
+  <p>Since our inception in 2010, CITYstage has served over 100 of LA’s at-risk
+  middle and high school youth with tuition-free performing arts instruction in
+  the disciplines of dance, music and theatre. Our first pilot program at Manual
+  Arts High School provided 25 students with free dance instruction and resulted
+  in all program graduates going on to attend 4-year universities, as well as
+  continuing to pursue the arts. </p>
    
    
    
@@ -34,7 +34,7 @@ org_summary: >-
    
    
    
-   <p>Students who visited the Colburn School live in the shadow of Downtown LA, yet had never visited the cultural center of their own city â€“ less than 3 miles from home. They marveled at the sight of LAâ€™s skyline; the discipline and training required to develop the ballet dancer physique and enjoyed the opportunity to apply their newfound knowledge of classical ballet positions in their discussion of the performance.</p>
+   <p>Students who visited the Colburn School live in the shadow of Downtown LA, yet had never visited the cultural center of their own city — less than 3 miles from home. They marveled at the sight of LA’s skyline; the discipline and training required to develop the ballet dancer physique and enjoyed the opportunity to apply their newfound knowledge of classical ballet positions in their discussion of the performance.</p>
    
    
    
@@ -46,7 +46,7 @@ org_summary: >-
    
    
    
-   <p>In a conscious effort to provide our youth with leadership opportunities, we have added a former graduate of the Manual Arts High CITYstage pilot program to our Board of Directors as the first Student Director. We believe that including students on our board empowers them to become the next generation of leaders and advocates of LA culture and art. The Student Director role also gives a powerful voice to our most important stakeholders â€“ our students. We can only ensure the viability of our programs and build a lasting foundation for the arts if we actively listen to and address the needs of the communities we serve. </p>
+   <p>In a conscious effort to provide our youth with leadership opportunities, we have added a former graduate of the Manual Arts High CITYstage pilot program to our Board of Directors as the first Student Director. We believe that including students on our board empowers them to become the next generation of leaders and advocates of LA culture and art. The Student Director role also gives a powerful voice to our most important stakeholders — our students. We can only ensure the viability of our programs and build a lasting foundation for the arts if we actively listen to and address the needs of the communities we serve. </p>
 areas_impacted: ''
 project_ids: ''
 title: CITYstage

@@ -16,7 +16,7 @@ org_type: Nonprofit
 project_image: 'http://img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
-  HOLAâ€™s recent achievements include:
+  HOLA’s recent achievements include:
    
    
    
@@ -28,7 +28,7 @@ org_summary: |-
    
    
    
-   - HOLAâ€™s Visual Arts students attended 19 field trips to museums, art institutions, art studios and more. HOLA also welcomed a diverse group of more than 36 visiting artists to its campus.
+   - HOLA’s Visual Arts students attended 19 field trips to museums, art institutions, art studios and more. HOLA also welcomed a diverse group of more than 36 visiting artists to its campus.
    
    
    
@@ -52,19 +52,19 @@ org_summary: |-
    
    
    
-   - At the core of HOLAâ€™s success is a strong team of volunteers. HOLAâ€™s volunteer corps has grown to more than 700, 190 of which donated 10 hours or more in the last year alone. 
+   - At the core of HOLA’s success is a strong team of volunteers. HOLA’s volunteer corps has grown to more than 700, 190 of which donated 10 hours or more in the last year alone. 
    
    
    
    
    
-   - The number of HOLAâ€™s youngest students performing at or above grade level increased from 69% to 84%
+   - The number of HOLA’s youngest students performing at or above grade level increased from 69% to 84%
    
    
    
    
    
-   - While area high schoolsâ€™ graduation rates often fall below 50%, HOLA saw 100% of its seniors graduate from high school and enroll in colleges and universities across the country.
+   - While area high schools’ graduation rates often fall below 50%, HOLA saw 100% of its seniors graduate from high school and enroll in colleges and universities across the country.
    
    
    

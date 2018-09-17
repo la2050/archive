@@ -28,13 +28,13 @@ org_summary: >-
    <p>
    
    
-   â€¢ Hosted over 1,000 free events on everything from lectures on the sex life of sea slugs, butter-making aerobics, poetry readings, and mind-reading workshops. <p>
+   * Hosted over 1,000 free events on everything from lectures on the sex life of sea slugs, butter-making aerobics, poetry readings, and mind-reading workshops. <p>
    
    
-   â€¢ Changed how museums relate to their publics. In the past 4 years we have partnered with major cultural institutions (LACMA, Hammer Museum, Walker Art Center) to develop and execute a replicable model for how artists and small organizations can work with larger institutions to break down participation barriers.<p>
+   * Changed how museums relate to their publics. In the past 4 years we have partnered with major cultural institutions (LACMA, Hammer Museum, Walker Art Center) to develop and execute a replicable model for how artists and small organizations can work with larger institutions to break down participation barriers.<p>
    
    
-   â€¢ Supported the creation of new work by hundreds of artists. This includes direct financial support, often presenting their first solo show or first museum show and providing professional video documentation of their work. <p>
+   * Supported the creation of new work by hundreds of artists. This includes direct financial support, often presenting their first solo show or first museum show and providing professional video documentation of their work. <p>
 areas_impacted: ''
 project_ids: ''
 title: Machine Project

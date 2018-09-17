@@ -24,13 +24,13 @@ project_video: ''
 org_summary: >-
   The First Southern Baptist Church of Sylmar (FSBCS), who is the sponsoring
   partner of this initiative, began a food pantry immediately after the
-  Northridge earthquake in â€™94, as a distributor for FEMA. Since the need to
-  assist the hungry didnâ€™t end once the infrastructure was repaired, neither
-  did the FSBCS. The church is quite small; in fact, it averages less than 50
-  people a week for its Sunday service â€“ yet it provides food to an average of
-  5,000 people per month. It manages to do this week after week, month after
-  month, year after year â€“ with a workforce comprised entirely of volunteers.
-  There are no administrative costs or overhead. 
+  Northridge earthquake in ’94, as a distributor for FEMA. Since the need to
+  assist the hungry didn’t end once the infrastructure was repaired, neither did
+  the FSBCS. The church is quite small; in fact, it averages less than 50 people
+  a week for its Sunday service — yet it provides food to an average of 5,000
+  people per month. It manages to do this week after week, month after month,
+  year after year — with a workforce comprised entirely of volunteers. There are
+  no administrative costs or overhead. 
    
    
    

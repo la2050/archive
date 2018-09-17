@@ -27,31 +27,31 @@ org_summary: >-
    
    
    
-   â€¢ Leadership: Over 125 leaders from a broad cross-section of nonprofit, public, and philanthropic organizations, including the Mayor of LA and all 5 of our County Supervisors, signed onto the Home For Good plan.
+   * Leadership: Over 125 leaders from a broad cross-section of nonprofit, public, and philanthropic organizations, including the Mayor of LA and all 5 of our County Supervisors, signed onto the Home For Good plan.
    
    
    
    
    
-   â€¢ Funding: $5 million from 16 private funders was leveraged to secure $100 million from 7 public funders, creating the first ever Funders Collaborative for permanent supportive housing in LA County.
+   * Funding: $5 million from 16 private funders was leveraged to secure $100 million from 7 public funders, creating the first ever Funders Collaborative for permanent supportive housing in LA County.
    
    
    
    
    
-   â€¢ Awareness: Over 20,000 volunteers have participated in HomeWalk, an annual 5k to end homelessness.
+   * Awareness: Over 20,000 volunteers have participated in HomeWalk, an annual 5k to end homelessness.
    
    
    
    
    
-   â€¢ Systems Change: The time it takes for a homeless veteran to move from the street into a home was reduced by 2 months.
+   * Systems Change: The time it takes for a homeless veteran to move from the street into a home was reduced by 2 months.
    
    
    
    
    
-   â€¢ Housing: Well over 5,000 chronically homeless persons as well as an additional 2,000 homeless veterans were permanently housed.
+   * Housing: Well over 5,000 chronically homeless persons as well as an additional 2,000 homeless veterans were permanently housed.
    
    
    
@@ -69,19 +69,19 @@ org_summary: >-
    
    
    
-   â€¢ Reducing the days required for placing housing homeless vets in Detroit from 143 days to 34 days (76% decrease) in collaboration with the 100k Homes Campaign
+   * Reducing the days required for placing housing homeless vets in Detroit from 143 days to 34 days (76% decrease) in collaboration with the 100k Homes Campaign
    
    
    
    
    
-   â€¢ Reducing operating costs for CALPERS (CA public pension) by $99.6 million (annualized) 
+   * Reducing operating costs for CALPERS (CA public pension) by $99.6 million (annualized) 
    
    
    
    
    
-   â€¢ Getting 15,400 people in Sierra Leone tested for HIV in 100 days, compared to 1,000 in the previous 3 years
+   * Getting 15,400 people in Sierra Leone tested for HIV in 100 days, compared to 1,000 in the previous 3 years
    
    
    

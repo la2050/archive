@@ -25,7 +25,7 @@ org_summary: >-
    
    
    
-   In the mid-2000â€™s, the facilities thrived as a center for at-risk youthâ€”servings over 300 students per year. During this time frame, Art Share L.A. created its FACT program (Families and Communities Together). This program, created in collaboration with Stevenson Middle School in Boyle Heights and the LA County Probation Department, has helped families in crises for 8 yearsâ€”pairing trained social workers with families in creative and expressive environments to explore conscious and constructive problem-solving skills. 
+   In the mid-2000’s, the facilities thrived as a center for at-risk youth—servings over 300 students per year. During this time frame, Art Share L.A. created its FACT program (Families and Communities Together). This program, created in collaboration with Stevenson Middle School in Boyle Heights and the LA County Probation Department, has helped families in crises for 8 years—pairing trained social workers with families in creative and expressive environments to explore conscious and constructive problem-solving skills. 
    
    
    
@@ -37,7 +37,7 @@ org_summary: >-
    
    
    
-   In the summer of 2012, Art Share L.A. ventured on a partnership that would bridge the worlds of outdoor advertising and street artâ€”two sectors who until recently have rivaled for public space and the rights to it. In March of 2013, Art Share L.A. (in collaboration with Casey Zoltan of Known Gallery and 15 of the cities most renowned street artists) launched the second installment of the project. Since inception in 2012, more than two-dozen street artists have legally showcased on billboards through a rotating citywide gallery exhibit. 
+   In the summer of 2012, Art Share L.A. ventured on a partnership that would bridge the worlds of outdoor advertising and street art—two sectors who until recently have rivaled for public space and the rights to it. In March of 2013, Art Share L.A. (in collaboration with Casey Zoltan of Known Gallery and 15 of the cities most renowned street artists) launched the second installment of the project. Since inception in 2012, more than two-dozen street artists have legally showcased on billboards through a rotating citywide gallery exhibit. 
    
    
    

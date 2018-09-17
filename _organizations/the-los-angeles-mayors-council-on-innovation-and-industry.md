@@ -17,7 +17,7 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16540%252Fdisplay%252FLAMCII_graphic.png=c570x385
 project_video: ''
 org_summary: >-
-  -LAMCII has been able to attract some of the countryâ€™s brightest minds and
+  -LAMCII has been able to attract some of the country’s brightest minds and
   biggest companies to lead the council and is continuously approached by
   business leaders and tech pioneers in the city looking for ways to become
   involved. Members of the council have given their time and resources freely
@@ -32,7 +32,7 @@ org_summary: >-
    
    
    
-   -LAMCII has developed two engaging and robust websites â€“ lamcii.org and edge.la. Both sites are quickly becoming hubs for information directed to those who want to understand how the future of LA is being navigated. The purpose of our websites is to be the gateway or aggregator of information about Los Angeles - involving the innovation and tech community, events and activities, real estate opportunities and contact lists. These sites act as an uber-connector for anyone wanting to become involved in this community. They help others realize the potential of the city and its members. 
+   -LAMCII has developed two engaging and robust websites — lamcii.org and edge.la. Both sites are quickly becoming hubs for information directed to those who want to understand how the future of LA is being navigated. The purpose of our websites is to be the gateway or aggregator of information about Los Angeles - involving the innovation and tech community, events and activities, real estate opportunities and contact lists. These sites act as an uber-connector for anyone wanting to become involved in this community. They help others realize the potential of the city and its members. 
    
    
    
@@ -74,7 +74,7 @@ org_summary: >-
    -Improve access to city/county information
    
    
-   -Encourage mayor to more closely align and promote LAâ€™s innovation economy
+   -Encourage mayor to more closely align and promote LA’s innovation economy
    
    
    -Build an entrepreneurial ambassador program with City Hall
@@ -83,7 +83,7 @@ org_summary: >-
    
    
    
-   -Upon completion of the first year of the council LAMCII produced The Leading Edge Report â€“ a 44 page report outlining the councilâ€™s motives, initiatives and vision. 
+   -Upon completion of the first year of the council LAMCII produced The Leading Edge Report — a 44 page report outlining the council’s motives, initiatives and vision. 
    
    
    The report is available here: http://lamcii.org/resources.html

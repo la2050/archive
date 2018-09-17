@@ -35,7 +35,7 @@ org_summary: >-
   Americans.</p><p>Foreclosure Flashlight: In April 2012, following the
   introduction of the Homeowner Bill of Rights, Courage launched The Foreclosure
   Flashlight to shine a light on key California legislators, how foreclosures
-  affected their districts, how much money theyâ€™d taken from the banking
+  affected their districts, how much money they’d taken from the banking
   industry, & where they stood on a strong, pro-homeowner bill. The online tool
   encouraged Californians to contact their legislators. One by one, we won the
   key votes. This was an unprecedented victory over Big Bank lobbyists to pass
@@ -52,11 +52,11 @@ org_summary: >-
   Guide was viewed more than 252,365 times.<p>Prop 30: Courage Campaign played a
   key role in creating and passing Prop 30 in 2012, which produced much-needed
   public revenue. Courage and partners created a ballot initiative, The
-  Millionaireâ€™s Tax, which was more progressive than the Governorâ€™s revenue
-  proposal. As a result of Courageâ€™s research and organizing, along with
-  partners, the Governor compromised to incorporate aspects of The
-  Millionaireâ€™s Tax & made Prop 30 more progressive & ultimately more feasible
-  to pass, providing important revenue for vital services and education.</p>
+  Millionaire’s Tax, which was more progressive than the Governor’s revenue
+  proposal. As a result of Courage’s research and organizing, along with
+  partners, the Governor compromised to incorporate aspects of The Millionaire’s
+  Tax & made Prop 30 more progressive & ultimately more feasible to pass,
+  providing important revenue for vital services and education.</p>
 areas_impacted: ''
 project_ids: ''
 title: Courage Campaign

@@ -90,16 +90,16 @@ org_summary: >-
    LAUP provides a multitude of services, including:
    
    
-   â€¢ Providing financial backing and a business structure for preschool providers to improve existing preschools. 
+   * Providing financial backing and a business structure for preschool providers to improve existing preschools. 
    
    
-   â€¢ Coaching support and mentoring by experienced educators to enhance quality and fiscal stability among LAUP preschools, and boost the involvement of parents in their child's preschool experience. 
+   * Coaching support and mentoring by experienced educators to enhance quality and fiscal stability among LAUP preschools, and boost the involvement of parents in their child's preschool experience. 
    
    
-   â€¢ Giving parents choices about where to send their child to preschool. LAUP preschools include private, public, charter, faith-based and family home care programs. 
+   * Giving parents choices about where to send their child to preschool. LAUP preschools include private, public, charter, faith-based and family home care programs. 
    
    
-   â€¢ Increasing access to preschool for thousands of children in Los Angeles County by providing the operating funds needed to fill previously empty classrooms.
+   * Increasing access to preschool for thousands of children in Los Angeles County by providing the operating funds needed to fill previously empty classrooms.
 areas_impacted: ''
 project_ids: ''
 title: LAUP

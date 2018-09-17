@@ -113,8 +113,11 @@ document.body.classList.add("{{ primary_color }}")
 -->
 <p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.org_type }}</p>
 
+{% capture link_to_more %}
+… <a href="{{ page.challenge_url }}">Learn More</a>
+{% endcapture %}
 <p style="margin-bottom: 0">
-  {{ page.org_summary }}
+  {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
 </p>
 
 

@@ -40,6 +40,34 @@ function stringToURI(str) {
     .replace(' ', '')
 }
 
+function fixDataCharacters(data) {
+  for (let prop in data) {
+    if (typeof(data[prop]) === 'string') {
+      data[prop] = data[prop]
+        .replace(/â€“/g, '—')
+        .replace(/â€˜/g, '‘')
+        .replace(/â€™/g, '’')
+        .replace(/â€¯/g, '') // ?
+        .replace(/â€”/g, '—')
+        .replace(/â€‹/g, '') // ?
+        .replace(/â€œ/g, '“') // ?
+        .replace(/â€/g, '”') // ?
+        .replace(/â€¢/g, "*")
+        .replace(/â€¦/g, "…")
+        .replace(/âˆš/g, '√')
+        .replace(/â–ª/g, '*')
+        .replace(/â—\x8F/g, '*')
+        .replace(/â„¢/g, '™')
+        .replace(/Â·/g, '* ')
+        .replace(/Â½/g, '½')
+        .replace(/Ãœ/g, 'Ü')
+        .replace(/Ã±/g, 'ñ')
+    }
+  }
+
+  return data;
+}
+
 let makerProjectAnswersLookup
 const test_id = "8115"
 
@@ -187,6 +215,8 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   }
 
   // console.dir(data)
+
+  data = fixDataCharacters(data);
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =

@@ -16,7 +16,7 @@ org_type: Nonprofit
 project_image: 'http://img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
-  <p>MAFâ€™s Lending Circles program has received widespread national attention
+  <p>MAF’s Lending Circles program has received widespread national attention
   for its success in helping low income families gain access to capital, build
   financial capability, and increase access to low-cost loans for education,
   homes, and small business startup. To date, over 1,700 participants have made

@@ -28,7 +28,7 @@ org_summary: >-
    
    
    
-   <p>Besides helping students earn their bachelorâ€™s degrees, graduate students working on their masterâ€™s and doctorate degrees also receive support. </p>
+   <p>Besides helping students earn their bachelor’s degrees, graduate students working on their master’s and doctorate degrees also receive support. </p>
    
    
    

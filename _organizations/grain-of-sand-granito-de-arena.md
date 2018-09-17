@@ -17,7 +17,7 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16238%252Fdisplay%252FDebris_3.JPG=c570x385
 project_video: ''
 org_summary: |-
-  Teach surfing camps â€“ surfing competitions
+  Teach surfing camps — surfing competitions
    
    
    Organize Beach Clean ups

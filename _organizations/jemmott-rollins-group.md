@@ -50,19 +50,19 @@ org_summary: >-
    
    
    
-   <p>"JRG is uniquely qualified to facilitate and support the complex process of community change. They 'get it' in a way that few others do." â€”Tom David, Tides Network, San Franscisco</p>
+   <p>"JRG is uniquely qualified to facilitate and support the complex process of community change. They 'get it' in a way that few others do." —Tom David, Tides Network, San Franscisco</p>
    
    
    
    
    
-   <p>"JRG helped diversify our funding base, increase capacity and manage growth. Every time we've worked with JRG over the past five years, CoCo has taken a leap in organizational development."â€”Aurea Montes-Rodriguez, Community Coalition, Los Angeles</p>
+   <p>"JRG helped diversify our funding base, increase capacity and manage growth. Every time we've worked with JRG over the past five years, CoCo has taken a leap in organizational development."—Aurea Montes-Rodriguez, Community Coalition, Los Angeles</p>
    
    
    
    
    
-   <p>"JRG helped us realize that we all need to step back and look at the big picture every so often so that we make sure we keep on the right track." â€”Ben Schirmer, Rainbow Services, San Pedro</p>
+   <p>"JRG helped us realize that we all need to step back and look at the big picture every so often so that we make sure we keep on the right track." —Ben Schirmer, Rainbow Services, San Pedro</p>
    
    
    

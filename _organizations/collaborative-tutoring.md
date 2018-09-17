@@ -24,7 +24,7 @@ org_summary: >-
   to provide services and resources to not only students in the Collaborative
   Tutoring program, but to at-risk and high-risk youth and young adults in
   low-income communities. We have also implemented an informal mentoring model
-  embedded within the organizationâ€™s structure to improve student educational
+  embedded within the organization’s structure to improve student educational
   success and their socio-emotional development as well.</p>
    
    

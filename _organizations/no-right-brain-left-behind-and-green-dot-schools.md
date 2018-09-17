@@ -18,16 +18,16 @@ project_video: ''
 org_summary: >-
   <p>Over the past 12 years, Green Dot has grown from a single 9th grade class
   of 140 students in Inglewood to serve 10,300 at-risk students in 18 schools
-  across Los Angeles, half of them turnarounds of LAUSDâ€™s lowest-performing
+  across Los Angeles, half of them turnarounds of LAUSD’s lowest-performing
   schools. 90% of students graduate with 76% going on to attend college. Green
-  Dotâ€™s dramatic expansion has been fueled by a commitment to â€˜doing what it
-  takesâ€™ to break down the barriers that prevent students from thriving. Our
+  Dot’s dramatic expansion has been fueled by a commitment to ‘doing what it
+  takes’ to break down the barriers that prevent students from thriving. Our
   first five schools were located throughout Los Angeles, with an emphasis on
   diverse neighborhoods that were underserved by traditional public schools. In
   2012, those schools scored an average 764 on the Academic Performance Index
-  (API), Californiaâ€™s primary measure of accountability; higher than both
+  (API), California’s primary measure of accountability; higher than both
   district and state averages. The schools are among the highest performing
-  â€˜minorityâ€™ schools in California.</p>
+  ‘minority’ schools in California.</p>
    
    
    
@@ -39,7 +39,7 @@ org_summary: >-
    
    
    
-   <p>Joining Green Dot, No Right Brain Left Behind brings expertise in design-centered problem solving. NRBLB started a movement in 2011 that highlighted the wide-scale concerns for the countryâ€™s creativity crisis and the desire to find solutions. During a seven day innovation challenge, NRBLB asked the best in the creative industries to develop â€˜creativity generatorsâ€™ to be used in the classroom. Renowned innovators and experts including Sir Ken Robinson, Yves Behar, Daniel Pink, Deepak Chopra, and Scott Belsky joined the cause. Over 150 world-class companies such as Frog Design, BBDO, Wolff Olins, and Saatchi&Saatchi developed over 300 concepts. The winning concept received in-company funding to bring their concept to action. </p>
+   <p>Joining Green Dot, No Right Brain Left Behind brings expertise in design-centered problem solving. NRBLB started a movement in 2011 that highlighted the wide-scale concerns for the country’s creativity crisis and the desire to find solutions. During a seven day innovation challenge, NRBLB asked the best in the creative industries to develop ‘creativity generators’ to be used in the classroom. Renowned innovators and experts including Sir Ken Robinson, Yves Behar, Daniel Pink, Deepak Chopra, and Scott Belsky joined the cause. Over 150 world-class companies such as Frog Design, BBDO, Wolff Olins, and Saatchi&Saatchi developed over 300 concepts. The winning concept received in-company funding to bring their concept to action. </p>
    
    
    

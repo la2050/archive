@@ -17,14 +17,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16818%252Fdisplay%252Fplacita_nueva.jpg=c570x385
 project_video: ''
 org_summary: >-
-  <p>Urban Macrosystemsâ€™ partners have collaborated on several projects prior
-  to its inception:</p>
+  <p>Urban Macrosystems’ partners have collaborated on several projects prior to
+  its inception:</p>
    
    
    
    
    
-   <p>MultipliCity â€“ A public art demonstration project for the Los Angeles County MTA, 2000-2003</p>
+   <p>MultipliCity — A public art demonstration project for the Los Angeles County MTA, 2000-2003</p>
    
    
    <p>Canal du Rhone au Rhin, a Masterplan for Art, Saint Symphorien, France, 2004 </p>
@@ -33,22 +33,22 @@ org_summary: >-
    <p>Mission Central Market, South Pasadena 2004</p>
    
    
-   <p>Bug Screen â€“ A Sculpture in Celebrezze Plaza, Cleveland, 2007</p>
+   <p>Bug Screen — A Sculpture in Celebrezze Plaza, Cleveland, 2007</p>
    
    
-   <p>After the city, this (is how we live). â€“ A Pamphlet published by the Los Angeles Forum for Architecture and Urban Design, 2008</p>
+   <p>After the city, this (is how we live). — A Pamphlet published by the Los Angeles Forum for Architecture and Urban Design, 2008</p>
    
    
    <p>Toluca Lake Executive Building, Burbank, 2009</p>
    
    
-   <p>Wind Thing â€“ A Sculpture at the W-Hollywood, 2011</p>
+   <p>Wind Thing — A Sculpture at the W-Hollywood, 2011</p>
    
    
-   <p>Woven Walk â€“ A sculpture for LAX Tom Bradley International Terminal, 2013</p>
+   <p>Woven Walk — A sculpture for LAX Tom Bradley International Terminal, 2013</p>
    
    
-   <p>Birds Words â€“ A series of structures for the North Embarcadero Visionary Plan, San Diego 2014</p>
+   <p>Birds Words — A series of structures for the North Embarcadero Visionary Plan, San Diego 2014</p>
 areas_impacted: ''
 project_ids: ''
 title: Urban Macrosystems

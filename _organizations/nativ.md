@@ -29,17 +29,16 @@ org_summary: >-
   including a three-part special on Coho salmon and their plight, and stories on
   the headwaters of the old growth coastal redwoods in Humboldt County. After
   moving to Los Angeles, I wrote and produced nature documentaries for
-  television, including Earthâ€™s Fury, Storm Warning and The Top 10
-  Environmental Disasters. When I chose to leave the workforce and start a
-  family, I created my own company called Dutch Touch Art designing and
-  commissioning a series of hand-painted oils for the design industry, based on
-  the Netherlandâ€™s Golden Age and their iconic depictions of nature in the
-  wild. Currently, I am Chair of a non-profit organization called Friends of
-  Wonderland, which raises over $450K annually for Wonderland Elementary School
-  in Laurel Canyon. We provide the enrichment programs that Los Angeles United
-  School District (LAUSD) no longer funds, including PE, library, music and art.
-  We also ask, where field trips are concerned, that the parents carpool and pay
-  for all admission fees.
+  television, including Earth’s Fury, Storm Warning and The Top 10 Environmental
+  Disasters. When I chose to leave the workforce and start a family, I created
+  my own company called Dutch Touch Art designing and commissioning a series of
+  hand-painted oils for the design industry, based on the Netherland’s Golden
+  Age and their iconic depictions of nature in the wild. Currently, I am Chair
+  of a non-profit organization called Friends of Wonderland, which raises over
+  $450K annually for Wonderland Elementary School in Laurel Canyon. We provide
+  the enrichment programs that Los Angeles United School District (LAUSD) no
+  longer funds, including PE, library, music and art. We also ask, where field
+  trips are concerned, that the parents carpool and pay for all admission fees.
 areas_impacted: ''
 project_ids: ''
 title: Nativ

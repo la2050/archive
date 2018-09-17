@@ -27,13 +27,13 @@ org_summary: >-
    
    
    
-   <p>We recently announced a content-and-community partnership with USC Annenberg School for Communication and Journalism, and together we are coordinating our local L.A. coverage. This type of collaboration â€” in which a journalism program serves as an anchor institution for a local, upstart media company â€” is an innovative way for graduate students to get real-world experience and hands-on training while allowing a media company to get its sea legs in a rather unstable media marketplace.</p> 
+   <p>We recently announced a content-and-community partnership with USC Annenberg School for Communication and Journalism, and together we are coordinating our local L.A. coverage. This type of collaboration — in which a journalism program serves as an anchor institution for a local, upstart media company — is an innovative way for graduate students to get real-world experience and hands-on training while allowing a media company to get its sea legs in a rather unstable media marketplace.</p> 
    
    
    
    
    
-   <p>Additionally, L.A. Currents is currently the only West Coast partner of The Guardianâ€™s n0tice technology, which allows us to engage our readers in new and innovative ways. We have cast a wide net to our areaâ€™s creative community, and our stable of professional writers includes traditional reporters, bloggers, screenwriters, essayists, and fiction writers.</p>
+   <p>Additionally, L.A. Currents is currently the only West Coast partner of The Guardian’s n0tice technology, which allows us to engage our readers in new and innovative ways. We have cast a wide net to our area’s creative community, and our stable of professional writers includes traditional reporters, bloggers, screenwriters, essayists, and fiction writers.</p>
 areas_impacted: ''
 project_ids: '8102024'
 title: L.A. Currents
