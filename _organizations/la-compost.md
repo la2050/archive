@@ -1,0 +1,43 @@
+---
+url: 'https://activation.la2050.org/connect/la-compost/'
+organization_id: '2018061'
+year_submitted: '2018'
+organization_name: LA Compost
+organization_website: lacompost.org
+ein: '461134852'
+zip: '0'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
+link_to_ntee_code: GET CODE
+ntee_type: Educational Institutions and Related Activities
+tags_indicators: >-
+  Environmental Quality, Social Connectedness: Ecosystems, Sustainability,
+  Public space Volunteerism
+twitter: '@lacompost'
+instagram: '@lacompost'
+facebook: '@l.a.compostCA'
+org_type: Nonprofit
+project_image: 'https://activation.la2050.org/connect/la-compost/la-compost.jpg'
+project_video: 'https://youtu.be/QeunrIbUzt0'
+org_summary: >-
+  LA Compost works alongside a growing network of community members and
+  stakeholders to develop social and physical infrastructure for cohesive
+  composting communities.
+areas_impacted:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: '8102061'
+organization_id_2: '2018061'
+title: LA Compost
+uri: /organizations/la-compost/
+
+---

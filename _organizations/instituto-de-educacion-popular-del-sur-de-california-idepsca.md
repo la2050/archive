@@ -1,0 +1,31 @@
+---
+url: 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'
+organization_id: '2015092'
+year_submitted: '2015'
+organization_name: Instituto de Educacion Popular del Sur de California (IDEPSCA)
+organization_website: www.idepsca.org
+ein: '954431992'
+zip: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954431992'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: www.twitter.com/idepsca
+instagram: ''
+facebook: www.facebook.com/IDEPSCA
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  IDEPSCA organizes and educates low immigrant workers concerned with solving
+  problems in their own communities in the areas of workforce and economic
+  development and worker health and safety.
+areas_impacted: >-
+  San Fernando Valley,City of Los Angeles (citywide),Other (please specify
+  below):
+project_ids: '5102143'
+organization_id_2: '2015092'
+title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
+uri: /organizations/instituto-de-educacion-popular-del-sur-de-california-idepsca/
+
+---

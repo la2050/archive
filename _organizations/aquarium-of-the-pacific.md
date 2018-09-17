@@ -1,0 +1,28 @@
+---
+url: ''
+organization_id: '2014114'
+year_submitted: '2014'
+organization_name: Aquarium of the Pacific
+organization_website: ''
+ein: '330532354'
+zip: '0'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330532354'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: ''
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  Our mission is to instill a sense of wonder, respect, and stewardship for the
+  Pacific Ocean, its inhabitants, and ecosystems.
+areas_impacted: ''
+project_ids: '4102112'
+organization_id_2: '2014114'
+title: Aquarium of the Pacific
+uri: /organizations/aquarium-of-the-pacific/
+
+---

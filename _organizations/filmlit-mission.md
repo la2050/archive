@@ -1,0 +1,34 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
+organization_id: '2016077'
+year_submitted: '2016'
+organization_name: FILMLIT MISSION
+organization_website: filmlit.org
+ein: ''
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: >-
+  Training and development, career readiness, Entrepreneurship, innovation,
+  Stem, education
+twitter: thejobcorps
+instagram: public/Filmlit-Corp
+facebook: doljobcorps
+org_type: Nonprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
+project_video: '0'
+org_summary: >-
+  The Filmlit Mission facilitates a curriculum engaging pupils to develop in the
+  skill sets of script composition, graphic design, photography, character
+  expression, and commercial production.
+areas_impacted:
+  - City of Los Angeles
+project_ids: ''
+organization_id_2: '2016077'
+title: FILMLIT MISSION
+uri: /organizations/filmlit-mission/
+
+---

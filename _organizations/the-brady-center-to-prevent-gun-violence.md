@@ -1,0 +1,36 @@
+---
+url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
+organization_id: '2018117'
+year_submitted: '2018'
+organization_name: The Brady Center to Prevent Gun Violence
+organization_website: 'http://bradycampaign.org'
+ein: '521285097'
+zip: '90004'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521285097'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: 'Public Safety: Gun control/safety, Crime'
+twitter: Bradybuzz
+instagram: 'https://instagram.com/bradybuzz'
+facebook: 'https://facebook.com/bradycampaign'
+org_type: Nonprofit
+project_image: >-
+  https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/the-brady-center-to-prevent-gun-violence.jpg
+project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
+org_summary: >-
+  For more than 40 years, Brady has been the leading national voice in the
+  prevention of gun violence, effecting meaningful change through public policy,
+  legal action, and public awareness campaigns.
+areas_impacted:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: '8102117'
+organization_id_2: '2018117'
+title: The Brady Center to Prevent Gun Violence
+uri: /organizations/the-brady-center-to-prevent-gun-violence/
+
+---

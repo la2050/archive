@@ -1,0 +1,32 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
+organization_id: '2016199'
+year_submitted: '2016'
+organization_name: Southern California Public Radio (KPCC)
+organization_website: www.kpcc.org
+ein: ''
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: '#N/A'
+twitter: KPCC
+instagram: KPCC
+facebook: KPCC
+org_type: Nonprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
+project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
+org_summary: >-
+  We are a member-supported public media organization that informs, engages, and
+  reflects Southern California using broadcast radio, the web, mobile apps and
+  podcasts, social media, and live events.
+areas_impacted:
+  - County of Los Angeles
+project_ids: ''
+organization_id_2: '2016199'
+title: Southern California Public Radio (KPCC)
+uri: /organizations/southern-california-public-radio-kpcc/
+
+---

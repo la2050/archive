@@ -1,0 +1,31 @@
+---
+url: 'https://activation.la2050.org/connect/we-are-the-mighty/'
+organization_id: '2018137'
+year_submitted: '2018'
+organization_name: We Are the Mighty
+organization_website: 'https://www.wearethemighty.com'
+ein: '465406542'
+zip: '90015'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: Veteran services
+twitter: '@wearethemighty'
+instagram: '@wearethemighty'
+facebook: '@wearethemighty'
+org_type: Forprofit
+project_image: 'https://activation.la2050.org/connect/we-are-the-mighty/we-are-the-mighty.jpg'
+project_video: '0'
+org_summary: >-
+  The Los Angeles Veterans Orientation is a fun and friendly way to welcome
+  veterans home to LA.
+areas_impacted:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_ids: ''
+organization_id_2: '2018137'
+title: We Are the Mighty
+uri: /organizations/we-are-the-mighty/
+
+---

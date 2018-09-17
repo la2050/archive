@@ -1,0 +1,29 @@
+---
+url: 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
+organization_id: '2015014'
+year_submitted: '2015'
+organization_name: Art of Acting Studio
+organization_website: www.artofactingstudio.com/
+ein: '134112234'
+zip: '90038'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134112234'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: www.twitter.com/ArtofActingLA
+instagram: www.instagram.com/artofactingstudio
+facebook: www.facebook.com/ArtofActingStudioLosAngeles
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  AOA transforms lives and communities through the arts by creating an
+  environment that nurtures theatre artists who value humanity as their first
+  priority.
+areas_impacted: 'Other (please specify below):'
+project_ids: '5102022'
+organization_id_2: '2015014'
+title: Art of Acting Studio
+uri: /organizations/art-of-acting-studio/
+
+---

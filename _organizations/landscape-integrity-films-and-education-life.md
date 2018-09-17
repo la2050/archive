@@ -1,0 +1,43 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/california-native-plant-public-education-project
+organization_id: '2016127'
+year_submitted: '2016'
+organization_name: Landscape Integrity Films and Education (LIFE)
+organization_website: www.youtube.com/channel/UC-q5gdpHqRxx5aOHWuQxVtA
+ein: ''
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: '#N/A'
+twitter: LIFEfilms1
+instagram: LIFEfilmsEd
+facebook: LIFEfilms1
+org_type: Nonprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
+project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
+org_summary: >-
+  LIFE short films give clear, inspiring information about native plant
+  gardening to transform sterile green spaces into places that support
+  biodiversity, conserve water and celebrate California beauty.
+areas_impacted:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
+project_ids: ''
+organization_id_2: '2016127'
+title: Landscape Integrity Films and Education (LIFE)
+uri: /organizations/landscape-integrity-films-and-education-life/
+
+---

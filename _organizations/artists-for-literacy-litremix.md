@@ -1,0 +1,30 @@
+---
+url: 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
+organization_id: '2015015'
+year_submitted: '2015'
+organization_name: Artists for Literacy / LitRemix
+organization_website: litremix.com
+ein: '943390795'
+zip: '90034'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943390795'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: 'https://twitter.com/@litremix'
+instagram: ''
+facebook: www.facebook.com/artistsforliteracy
+org_type: Other
+project_image: ''
+project_video: ''
+org_summary: >-
+  LitRemix is a collaborative learning platform that encourages both the
+  exploration and creation of music, video and visual art inspired by specific
+  works of literature, making the comprehension of those books more accessible
+  to struggling readers.
+areas_impacted: 'Westside,City of Los Angeles (citywide),LAUSD'
+project_ids: '5102023'
+organization_id_2: '2015015'
+title: Artists for Literacy / LitRemix
+uri: /organizations/artists-for-literacy-litremix/
+
+---

@@ -1,0 +1,34 @@
+---
+url: 'https://activation.la2050.org/live/mutuo/'
+organization_id: '2018086'
+year_submitted: '2018'
+organization_name: Mutuo
+organization_website: www.thisismutuo.com
+ein: '454105869'
+zip: '0'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: 'Housing: Affordable housing, Homelessness'
+twitter: '@thisismutuo'
+instagram: '@thisismutuo'
+facebook: 'https://www.facebook.com/thisismutuoLA'
+org_type: Forprofit
+project_image: 'https://activation.la2050.org/live/mutuo/mutuo.jpg'
+project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
+org_summary: >-
+  We are an architecture studio that thinks innovatively to build meaningful
+  architecture while promoting a more equitable future.
+areas_impacted:
+  - Central LA
+  - East LA
+  - South LA
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_ids: ''
+organization_id_2: '2018086'
+title: Mutuo
+uri: /organizations/mutuo/
+
+---

@@ -1,0 +1,28 @@
+---
+url: ''
+organization_id: '2014208'
+year_submitted: '2014'
+organization_name: The Prep Source
+organization_website: ''
+ein: '470992851'
+zip: '90089'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: ''
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Forprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  Online marketplace bringing together students/job seekers with mentors who
+  already have the career they want.
+areas_impacted: ''
+project_ids: ''
+organization_id_2: '2014208'
+title: The Prep Source
+uri: /organizations/the-prep-source/
+
+---

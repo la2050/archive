@@ -1,0 +1,33 @@
+---
+url: 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
+organization_id: '2015163'
+year_submitted: '2015'
+organization_name: Public Matters
+organization_website: www.publicmattersgroup.com
+ein: '208027133'
+zip: '90026'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: '0'
+twitter: 'https://twitter.com/Pub_Matters'
+instagram: 'https://instagram.com/publicmatters/'
+facebook: www.facebook.com/publicmatters
+org_type: Forprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  Public Matters is a social enterprise—made up of artists, educators, media
+  experts, cultural planners and Fellows—that designs and implements long-term,
+  place-based, art, media, education, and civic engagement projects that advance
+  social change.
+areas_impacted: >-
+  Central LA,East LA,San Fernando Valey,South LA,South Bay,County of Los Angeles
+  (countywide),City of Los Angeles (citywide),LAUSD,Other (please specify
+  below):
+project_ids: ''
+organization_id_2: '2015163'
+title: Public Matters
+uri: /organizations/public-matters/
+
+---

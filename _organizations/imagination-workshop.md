@@ -1,0 +1,26 @@
+---
+url: ''
+organization_id: '2014155'
+year_submitted: '2014'
+organization_name: Imagination Workshop
+organization_website: ''
+ein: '237161543'
+zip: 90024-5055
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237161543'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: ''
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: We help mental health consumers live fuller lives using the theater arts.
+areas_impacted: ''
+project_ids: '4102137'
+organization_id_2: '2014155'
+title: Imagination Workshop
+uri: /organizations/imagination-workshop/
+
+---

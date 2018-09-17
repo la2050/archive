@@ -1,0 +1,39 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
+organization_id: '2016149'
+year_submitted: '2016'
+organization_name: mitu
+organization_website: mitunetwork.com
+ein: ''
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: >-
+  Social connectedness, diversity, underserved communities, arts and creative
+  vitality, creative industry
+twitter: wearemitu
+instagram: wearemitu
+facebook: wearemitu
+org_type: Forprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
+project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
+org_summary: >-
+  mitú is the leading digital media and data-driven company focused on
+  representing and elevating Latino millennial stories through content that is
+  unapologetically Latino.
+areas_impacted:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Gateway Cities
+project_ids: '5102263'
+organization_id_2: '2016149'
+title: mitu
+uri: /organizations/mitu/
+
+---

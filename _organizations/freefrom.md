@@ -1,0 +1,37 @@
+---
+url: 'https://activation.la2050.org/live/freefrom/'
+organization_id: '2018041'
+year_submitted: '2018'
+organization_name: FreeFrom
+organization_website: www.freefrom.org
+ein: '475033123'
+zip: '90012'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: >-
+  Public Safety, Social Connectedness, Income and Employment: Women’s advocacy,
+  Crime, Financial management, Entrepreneurship, Homelessness, Small business
+twitter: 'https://twitter.com/freefromorg'
+instagram: '@freefromdotorg'
+facebook: 'https://www.facebook.com/freefrom.org/'
+org_type: Nonprofit
+project_image: 'https://activation.la2050.org/live/freefrom/freefrom.jpg'
+project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
+org_summary: >-
+  FreeFrom is the first and only organization in the US working to end domestic
+  violence by equipping survivors with the resources needed to achieve long-term
+  safety and financial security.
+areas_impacted:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: '8102041'
+organization_id_2: '2018041'
+title: FreeFrom
+uri: /organizations/freefrom/
+
+---

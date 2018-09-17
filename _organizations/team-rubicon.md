@@ -1,0 +1,38 @@
+---
+url: 'https://activation.la2050.org/live/team-rubicon/'
+organization_id: '2018116'
+year_submitted: '2018'
+organization_name: Team Rubicon
+organization_website: 'https://teamrubiconusa.org/'
+ein: '271720480'
+zip: '0'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271720480'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: >-
+  Environmental Quality, Social Connectedness. Public Safety: Ecosystems,
+  Underserved communities, Veteran services, Volunteerism, Emergency
+  preparedness
+twitter: '@TeamRubicon'
+instagram: '@TeamRubicon'
+facebook: 'https://www.facebook.com/teamrubicon'
+org_type: Nonprofit
+project_image: 'https://activation.la2050.org/live/team-rubicon/team-rubicon.jpg'
+project_video: 'https://www.youtube.com/watch?v=5BOUm4PBeUc'
+org_summary: >-
+  Team Rubicon delivers unparalleled disaster relief and recovery while
+  providing our veteran volunteers a new purpose, identity, and community
+  through continued service.
+areas_impacted:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: '8102116'
+organization_id_2: '2018116'
+title: Team Rubicon
+uri: /organizations/team-rubicon/
+
+---

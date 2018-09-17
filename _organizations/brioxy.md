@@ -1,0 +1,36 @@
+---
+url: 'https://activation.la2050.org/create/brioxy/'
+organization_id: '2018011'
+year_submitted: '2018'
+organization_name: Brioxy
+organization_website: www.brioxy.com
+ein: We are fiscally sponsored
+zip: '90012'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: >-
+  Arts and Cultural Vitality, Social Connectedness: Arts and culture,
+  Innovation, Creative Industry, Communities of color
+twitter: brioxylife
+instagram: brioxy
+facebook: brioxy
+org_type: Social enterprise or Bcorps
+project_image: 'https://activation.la2050.org/create/brioxy/brioxy.jpg'
+project_video: 'https://www.youtube.com/watch?v=AC3S73SvRy0'
+org_summary: >-
+  We close the opportunity gap for innovators of color by training them to build
+  and run strong organizations in the communities they grew up in.
+areas_impacted:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: '8102011'
+organization_id_2: '2018011'
+title: Brioxy
+uri: /organizations/brioxy/
+
+---

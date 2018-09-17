@@ -1,0 +1,48 @@
+---
+url: 'http://maker.good.is/myla2050/projects/LAXART.html'
+organization_id: '2013119'
+year_submitted: '2013'
+organization_name: LAXART
+organization_website: laxart.org
+ein: '202911916'
+zip: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202911916'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: Arts & Cultural Vitality
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Nonprofit
+project_image: 'http://maker.good.is/myla2050/projects/LAXART.html'
+project_video: ''
+org_summary: >-
+  Since its founding in 2005, LAXART has realized over 200 projects with artists
+  such as Walead Beshty, Glenn Kaino, William Leavitt, Daniel Joseph Martinez,
+  Yunhee Min, Ruben Ochoa, Mark Bradford, Nicole Miller, Thomas Lawson, Kori
+  Newkirk, Michael Queenland, Wade Guyton & Kelley Walker, Charles Gaines, Lisa
+  Tan, Harrell Fletcher, Torolab, Leslie Hewitt, Vishal Jugdeo, and Kamrooz
+  Aram. LAXART continues to support creative pioneers by anchoring programming
+  around commissions of work that takes conceptual and material risks and
+  inspires community dialogue. LAXART is dedicated to giving emerging art-makers
+  their first solo exhibition and works in tandem with them to realize
+  interventions in the public domain.
+   
+   
+   
+   
+   
+   The organizationâ€™s landmark project was the 2012 Performance and Public Art Festival, co-organized with the Getty Foundation under the umbrella of the major regionwide initiative, Pacific Standard Time: L.A. Art 1945-80. The 11-day festival featured new public artworks throughout the city; a dramatic sampling of the large-scale spectacles, expansive performances, and small-scale interventions that punctuated the history of postwar art in Los Angeles. In addition, new performances premiered each day, including outdoor visual spectacles, experimental theater and sound art, social and political interventions, and media art. A nightly after-party, Black Box, provided a space for socializing, and included surprise performances each evening.
+   
+   
+   
+   
+   
+   LAXART welcomes the community to interact with contemporary art as part of the everyday through L.A.P.D. initiatives. Our programming is central to the history of public art in L.A. Highlights include: Ruben Ochaâ€™s 2006 Extracted Freeway Wall Intervention, a photographic image of a Los Angeles landscape stretched on and interrupting a freeway wall; Jedediah Cesarâ€™s Gleanerâ€™s Stone, a resin sculpture temporarily sited at the NE corner of Washington Blvd. and Marcasel Avenue in Culver City as part of the 2008 California Biennial; Doug Aitkenâ€™s Migration, the acclaimed artistâ€™s first monumental public project in L.A. seen from Santa Monica Boulevard at Almont Drive in 2009; Joel Kyackâ€™s Superclogger, a mobile theatre mounted in the back of a pick-up truck, which traveled all around Los Angeles to the surprise of other motorists in summer 2010; and Piero Goliaâ€™s Luminous Sphere, a blue globe mounted on the top of the Standard Hotel in West Hollywood in 2010-11.
+areas_impacted: ''
+project_ids: ''
+organization_id_2: '2013119'
+title: LAXART
+uri: /organizations/laxart/
+
+---

@@ -1,0 +1,28 @@
+---
+url: 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
+organization_id: '2015059'
+year_submitted: '2015'
+organization_name: Environmental Charter Schools
+organization_website: www.ecsonline.org
+ein: '330920934'
+zip: '90247'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330920934'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: 'https://twitter.com/EnviroCharter'
+instagram: www.instagram.com/ecsgreenambassadors
+facebook: 'https://www.facebook.com/EnvironmentalCharterSchools'
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  Environmental Charter Schools is an innovative network of public schools
+  serving South Los Angeles.
+areas_impacted: 'South LA,South Bay'
+project_ids: '5102094'
+organization_id_2: '2015059'
+title: Environmental Charter Schools
+uri: /organizations/environmental-charter-schools/
+
+---

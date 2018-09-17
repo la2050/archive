@@ -1,0 +1,28 @@
+---
+url: ''
+organization_id: '2014156'
+year_submitted: '2014'
+organization_name: 'IN THE CITY, INC.'
+organization_website: ''
+ein: '450574948'
+zip: '90031'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=450574948'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: ''
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  We provide guided academic support, facilitate self-empowerment, and fortify
+  support networks for student-athletes attending Lincoln HS.
+areas_impacted: ''
+project_ids: '4102139'
+organization_id_2: '2014156'
+title: 'IN THE CITY, INC.'
+uri: /organizations/in-the-city-inc/
+
+---

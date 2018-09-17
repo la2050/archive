@@ -1,0 +1,39 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
+organization_id: '2016254'
+year_submitted: '2016'
+organization_name: WeThrive
+organization_website: teamwethrive.org
+ein: ''
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: >-
+  Education, STEM, science, inclusion, career readiness, college preparedness,
+  high school graduation, underserved communities
+twitter: wethrive_
+instagram: teamwethrive
+facebook: wethrive_
+org_type: Nonprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
+project_video: '0'
+org_summary: >-
+  WeThrive is a youth mentoring program that uses business creation to teach
+  life skills, habit adoption and foster bonds with mentors and peers to
+  ultimately produce social mobility.
+areas_impacted:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
+  - LAUSD
+project_ids: ''
+organization_id_2: '2016254'
+title: WeThrive
+uri: /organizations/wethrive/
+
+---

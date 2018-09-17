@@ -1,0 +1,32 @@
+---
+url: 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
+organization_id: '2015008'
+year_submitted: '2015'
+organization_name: American Red Cross Los Angeles Region
+organization_website: www.redcrossla.org
+ein: '530196605'
+zip: '90025'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=530196605'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: www.twitter.com/RedCrossLA
+instagram: ''
+facebook: www.facebook.com/redcrossla
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  The Red Cross prevents and alleviates human suffering in the face of
+  emergencies by mobilizing the power of volunteers and the generosity of
+  donors.
+areas_impacted: >-
+  Central LA,East LA,San Gabriel Valley,San Fernando Valley,South
+  LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
+  of Los Angeles (citywide)
+project_ids: '5102015'
+organization_id_2: '2015008'
+title: American Red Cross Los Angeles Region
+uri: /organizations/american-red-cross-los-angeles-region/
+
+---

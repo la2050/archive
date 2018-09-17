@@ -1,0 +1,33 @@
+---
+url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
+organization_id: '2018004'
+year_submitted: '2018'
+organization_name: A Healthier Community Starts with YOUth
+organization_website: 'https://hcsyucla.wixsite.com/health'
+ein: '824719690'
+zip: '0'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824719690'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: >-
+  Education, Health: Community health, Healthcare, Food inequality, Youth,
+  Tutoring
+twitter: '@hcsy_ucla'
+instagram: '@hcsy.ucla'
+facebook: 'https://www.facebook.com/HCSYatUCLA/'
+org_type: Nonprofit
+project_image: >-
+  https://activation.la2050.org/live/a-healthier-community-starts-with-youth/a-healthier-community-starts-with-youth.jpg
+project_video: 'https://vimeo.com/241727342'
+org_summary: >-
+  The HCSY program provides an opportunity for students to receive mentorship
+  and experience within the public health field as they build and conduct
+  community health programming with professionals.
+areas_impacted:
+  - South LA
+project_ids: '8102004'
+organization_id_2: '2018004'
+title: A Healthier Community Starts with YOUth
+uri: /organizations/a-healthier-community-starts-with-youth/
+
+---

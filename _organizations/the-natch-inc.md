@@ -1,0 +1,37 @@
+---
+url: 'https://activation.la2050.org/create/the-natch-inc/'
+organization_id: '2018120'
+year_submitted: '2018'
+organization_name: 'The Natch, INC.'
+organization_website: thenatch.co
+ein: '813470225'
+zip: '90021'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: 'Income and Employment: Small business, Entrepreneurship, Technology'
+twitter: 'https://twitter.com/natch_app'
+instagram: 'https://www.instagram.com/natch_app_/'
+facebook: 'https://www.facebook.com/thenatch/'
+org_type: Forprofit
+project_image: 'https://activation.la2050.org/create/the-natch-inc/the-natch-inc.jpg'
+project_video: '0'
+org_summary: >-
+  We run an online marketplace where anybody can locally sell and deliver food
+  they make.
+areas_impacted:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: ''
+organization_id_2: '2018120'
+title: 'The Natch, INC.'
+uri: /organizations/the-natch-inc/
+
+---

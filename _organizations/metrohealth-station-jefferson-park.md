@@ -1,0 +1,28 @@
+---
+url: ''
+organization_id: '2014177'
+year_submitted: '2014'
+organization_name: MetroHealth Station - Jefferson Park
+organization_website: ''
+ein: '384782470'
+zip: '90018'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: ''
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Forprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  MHS looks like a fitness center but is a health & wellness primary care
+  medical, dental, and emotional care facility for South LA residents.
+areas_impacted: ''
+project_ids: ''
+organization_id_2: '2014177'
+title: MetroHealth Station - Jefferson Park
+uri: /organizations/metrohealth-station-jefferson-park/
+
+---

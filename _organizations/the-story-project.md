@@ -1,0 +1,29 @@
+---
+url: 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
+organization_id: '2015207'
+year_submitted: '2015'
+organization_name: The Story Project
+organization_website: www.storyproject.org
+ein: '954684376'
+zip: '90036'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954684376'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: www.twitter.com/storyprojectLA
+instagram: ''
+facebook: 'https://www.facebook.com/The-Story-Project-116216105118265/timeline/'
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  The Story Project encourages at-risk youth in underserved communities to
+  improve communication skills and personal identity through storytelling rooted
+  in the media arts.
+areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
+project_ids: '5102312'
+organization_id_2: '2015207'
+title: The Story Project
+uri: /organizations/the-story-project/
+
+---

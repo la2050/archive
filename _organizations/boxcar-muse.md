@@ -1,0 +1,35 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
+organization_id: '2016022'
+year_submitted: '2016'
+organization_name: boxcar+muse
+organization_website: boxcarmuse.com
+ein: ''
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: >-
+  Income and employment, job training, social connectedness, womens advocacy,
+  innovation, arts and culture vitality
+twitter: boxcarmuse
+instagram: boxcarmuse-1752428701663307/
+facebook: boxcarmuse
+org_type: Forprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
+project_video: 'https://youtube.com/embed/200FWNYbCNw?rel=0&amp;showinfo=0'
+org_summary: >-
+  boxcar+muse is an indulgent and imaginative play and work space, a connector
+  of diverse women, and a platform for fun and meaningful experiences.
+areas_impacted:
+  - East LA
+  - County of Los Angeles
+  - City of Los Angeles
+project_ids: '5102119'
+organization_id_2: '2016022'
+title: boxcar+muse
+uri: /organizations/boxcar-muse/
+
+---

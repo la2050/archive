@@ -1,0 +1,41 @@
+---
+url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+organization_id: '2013211'
+year_submitted: '2013'
+organization_name: ValhalLA
+organization_website: 'http://valhallamovement.com/'
+ein: '462359445'
+zip: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462359445'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: Housing
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Nonprofit
+project_image: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+project_video: ''
+org_summary: >-
+  ValhaLA being founded. The establishment of partnerships within a short time
+  frame; solidifying a heavy interest in making this idea a reality. The
+  formation of a concrete plan that would allow it to move forward.
+   
+   
+   <br>
+   
+   
+   Valhalla Montreal formed in the summer of 2012. The website was then launched and members spread awareness to garner support. They will begin building on their 60 acres of land this spring. They raised $10,000 in less than a week through Kickstarter for the first off-the-grid, affordable, low-maintenance greenhouse.
+   
+   
+   <br>
+   
+   
+   Valhalla Washington has also started taking its first steps toward spreading awareness so that it may also sprout into a sister site.
+areas_impacted: ''
+project_ids: ''
+organization_id_2: '2013211'
+title: ValhalLA
+uri: /organizations/valhalla/
+
+---

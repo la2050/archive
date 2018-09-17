@@ -1,0 +1,36 @@
+---
+url: 'https://activation.la2050.org/live/topanga-womens-circle/'
+organization_id: '2018126'
+year_submitted: '2018'
+organization_name: Topanga Women's Circle
+organization_website: 'http://topangawomenscircle.org'
+ein: '954302067'
+zip: '90015'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: 'Housing, Social Connectedness: Homelessness, Volunteerism, Affordable housing'
+twitter: '@TopangaTWC'
+instagram: TopangaWomensCircle
+facebook: TopangaWomensCircle
+org_type: Nonprofit
+project_image: >-
+  https://activation.la2050.org/live/topanga-womens-circle/topanga-womens-circle.jpg
+project_video: 'https://youtu.be/9lVdk4emJ-M'
+org_summary: >-
+  Working with the Salvation Army and Venice Community Housing, TWC, a 100%
+  volunteer organization, helps homeless families move into their bare-bones
+  housing by providing all the comforts of home.
+areas_impacted:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_ids: '8102126'
+organization_id_2: '2018126'
+title: Topanga Women's Circle
+uri: /organizations/topanga-womens-circle/
+
+---

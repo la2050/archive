@@ -1,0 +1,30 @@
+---
+url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
+organization_id: '2014060'
+year_submitted: '2014'
+organization_name: Muir Ranch
+organization_website: 'https://www.facebook.com/muirranch'
+ein: '237149451'
+zip: '90103'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237149451'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: '@muirranch'
+instagram: cocoxochitl
+facebook: 'https://www.facebook.com/muirranch'
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  We give kids the tools to navigate the universe using food, farming and social
+  enterprise with a farm as a classroom.
+areas_impacted: >-
+  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
+  Bay,Westside
+project_ids: '4102061'
+organization_id_2: '2014060'
+title: Muir Ranch
+uri: /organizations/muir-ranch/
+
+---

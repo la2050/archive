@@ -1,0 +1,34 @@
+---
+url: >-
+  https://activation.la2050.org/create/long-beach-downtown-development-corporation/
+organization_id: '2018071'
+year_submitted: '2018'
+organization_name: Long Beach Downtown Development Corporation
+organization_website: www.DTLBbusiness.com
+ein: '275334557'
+zip: '90013'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=275334557'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: >-
+  Environmental Quality, Income and Employment: Green technology,
+  Entrepreneurship, Small business
+twitter: '@dlba'
+instagram: www.instagram.com/dlba/
+facebook: www.facebook.com/downtownlongbeach/
+org_type: Nonprofit
+project_image: >-
+  https://activation.la2050.org/create/long-beach-downtown-development-corporation/long-beach-downtown-development-corporation.jpg
+project_video: '0'
+org_summary: >-
+  Our mission is to cultivate, preserve and promote a healthy, safe and
+  prosperous Downtown.
+areas_impacted:
+  - South Bay
+  - Long Beach
+project_ids: '8102071'
+organization_id_2: '2018071'
+title: Long Beach Downtown Development Corporation
+uri: /organizations/long-beach-downtown-development-corporation/
+
+---

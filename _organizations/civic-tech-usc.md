@@ -1,0 +1,29 @@
+---
+url: 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'
+organization_id: '2015035'
+year_submitted: '2015'
+organization_name: Civic Tech USC
+organization_website: 'http://civictechusc.org/'
+ein: '951642394'
+zip: '90071'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: 'https://twitter.com/CivicTechUSC'
+instagram: ''
+facebook: www.facebook.com/USCCCLP
+org_type: Nonprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  Based at the USC Annenberg School for Communication and Journalism, Civic Tech
+  USC is an initiative exploring how new technologies can help to reimagine
+  civic life and engage everyday people in improving their communities.
+areas_impacted: 'Central LA,South LA,City of Los Angeles (citywide)'
+project_ids: '5102064'
+organization_id_2: '2015035'
+title: Civic Tech USC
+uri: /organizations/civic-tech-usc/
+
+---

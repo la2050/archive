@@ -1,0 +1,43 @@
+---
+url: 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+organization_id: '2013033'
+year_submitted: '2013'
+organization_name: City Earthworm
+organization_website: 'http://www.cityearthworm.com'
+ein: '455602348'
+zip: ''
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: Environmental Quality
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: For profit
+project_image: 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+project_video: ''
+org_summary: >-
+  City Earthworm was started with a single mission: to make composting a
+  household activity. We designed and built the City Bin, a modern and compact
+  indoor composter that will allow EVERYONE to compost, regardless of the size
+  of their living space or yard. The City Bin will soon be in production locally
+  in Los Angeles County and will be manufactured using recycled plastic. 
+   
+   
+   
+   
+   
+   Both City Earthworm and the City Bin have been featured in blogs, newspapers, as well as in television news programs. 
+   
+   
+   
+   
+   
+   City Earthworm realizes that, while it would be great to allow more people to compost at home, there will also be some people who do not want to or are unable to do so. The easiest way to truly popularize composting is to make it easy for people. Therefore, we started offering a food service pick-up program to apartment dwellers in Santa Monica. We now hope to expand our service to the entire Los Angeles County.
+areas_impacted: ''
+project_ids: ''
+organization_id_2: '2013033'
+title: City Earthworm
+uri: /organizations/city-earthworm/
+
+---

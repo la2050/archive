@@ -1,0 +1,28 @@
+---
+url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
+organization_id: '2014016'
+year_submitted: '2014'
+organization_name: City of Santa Monica
+organization_website: www.smgov.net/wellbeing
+ein: '956000790'
+zip: '90401'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: '0'
+twitter: '@CityofWellbeing'
+instagram: ''
+facebook: facebook.com/SantaMonicaWellbeing
+org_type: Government
+project_image: ''
+project_video: ''
+org_summary: >-
+  The City of Santa Monica works to protect, support & promote a safe, vibrant
+  community for Santa Monica residents,visitors & businesses.
+areas_impacted: 'Other:'
+project_ids: '4102017'
+organization_id_2: '2014016'
+title: City of Santa Monica
+uri: /organizations/city-of-santa-monica/
+
+---

@@ -1,0 +1,28 @@
+---
+url: ''
+organization_id: '2014135'
+year_submitted: '2014'
+organization_name: Duvivier Architects (DA)
+organization_website: ''
+ein: '549153417'
+zip: '90291'
+charity_navigator_url: ''
+link_to_ntee_code: ''
+ntee_type: ''
+tags_indicators: ''
+twitter: ''
+instagram: ''
+facebook: ''
+org_type: Forprofit
+project_image: ''
+project_video: ''
+org_summary: >-
+  DA pioneered the integration of water resources & architecture in sustainable
+  design, mapping, wetland restoration & watershed education.
+areas_impacted: ''
+project_ids: '5102091'
+organization_id_2: '2014135'
+title: Duvivier Architects (DA)
+uri: /organizations/duvivier-architects-da/
+
+---

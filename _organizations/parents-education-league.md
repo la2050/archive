@@ -1,0 +1,32 @@
+---
+url: >-
+  https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
+organization_id: '2016162'
+year_submitted: '2016'
+organization_name: Parents Education League
+organization_website: www.parentseducationleague.org
+ein: '264510950'
+zip: '90024'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264510950'
+link_to_ntee_code: GET CODE
+ntee_type: ''
+tags_indicators: 'Education, youth'
+twitter: peltweet
+instagram: PELofLA
+facebook: pelofla
+org_type: Nonprofit
+project_image: >-
+  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
+project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
+org_summary: >-
+  PEL is a grassroots non-profit and non-political organization whose mission is
+  to help educate families about their school choices, from preschool through
+  12th grade.
+areas_impacted:
+  - City of Los Angeles
+project_ids: ''
+organization_id_2: '2016162'
+title: Parents Education League
+uri: /organizations/parents-education-league/
+
+---
