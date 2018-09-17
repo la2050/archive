@@ -8,7 +8,6 @@ zip: ''
 charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643307
   (Caltech)
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
@@ -80,5 +79,7 @@ organization_id_2: '2013067'
 title: First Look West
 uri: /organizations/first-look-west/
 challenge_url: 'http://maker.good.is/myla2050/projects/FLOW.html'
+maker_image_id: '16416'
+maker_image_file_name: FLOW-image-2.jpg
 
 ---

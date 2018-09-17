@@ -6,7 +6,6 @@ organization_website: www.reframelabs.org
 ein: pending from IRS
 zip: '90403'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/ReframeLabs'
@@ -25,5 +24,7 @@ organization_id_2: '2015167'
 title: Reframe Labs
 uri: /organizations/reframe-labs/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
+maker_image_id: '23338'
+maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
 
 ---

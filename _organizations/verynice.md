@@ -6,7 +6,6 @@ organization_website: verynice.co
 ein: '455282740'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -47,5 +46,7 @@ organization_id_2: '2013214'
 title: verynice
 uri: /organizations/verynice/
 challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'
+maker_image_id: '22867'
+maker_image_file_name: GiveHalf_009.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.luskin.ucla.edu
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/UCLALuskin
@@ -26,5 +25,7 @@ organization_id_2: '2015217'
 title: UCLA Luskin School of Public Affairs
 uri: /organizations/ucla-luskin-school-of-public-affairs/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
+maker_image_id: '23745'
+maker_image_file_name: UCLA_Connect.jpg
 
 ---

@@ -10,7 +10,6 @@ organization_website: ''
 ein: '462694434'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462694434'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -34,5 +33,7 @@ title: >-
 uri: >-
   /organizations/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/
 challenge_url: ''
+maker_image_id: '22795'
+maker_image_file_name: LA2050-pic-1_copy.jpg
 
 ---

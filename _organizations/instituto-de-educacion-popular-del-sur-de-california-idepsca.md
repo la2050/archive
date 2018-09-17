@@ -6,7 +6,6 @@ organization_website: www.idepsca.org
 ein: '954431992'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954431992'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/idepsca
@@ -28,5 +27,7 @@ organization_id_2: '2015092'
 title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 uri: /organizations/instituto-de-educacion-popular-del-sur-de-california-idepsca/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'
+maker_image_id: '23511'
+maker_image_file_name: 3014224447_e908044cf3_o.jpg
 
 ---

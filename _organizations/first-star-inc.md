@@ -6,14 +6,13 @@ organization_website: www.firststar.org
 ein: '311719436'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719436'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/FirstStar.html'
+project_image: 'http://img.youtube.com/vi/CZMjDcpz53c/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our series of groundbreaking Report Cards â€“ which measure and compare how
@@ -38,5 +37,6 @@ organization_id_2: '2013068'
 title: 'First Star, Inc.'
 uri: /organizations/first-star-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/FirstStar.html'
+youtube_video_identifier: CZMjDcpz53c
 
 ---

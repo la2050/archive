@@ -6,7 +6,6 @@ organization_website: www.allhale.net
 ein: '542988389'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=542988389'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@brittsheflin'
@@ -27,5 +26,7 @@ organization_id_2: '2015091'
 title: Individual submitter
 uri: /organizations/individual-submitter/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'
+maker_image_id: '23280'
+maker_image_file_name: Drought_Solutions_3.jpg
 
 ---

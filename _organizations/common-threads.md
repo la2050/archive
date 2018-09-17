@@ -6,7 +6,6 @@ organization_website: www.commonthreads.org
 ein: '200106847'
 zip: '78746'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200106847'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Health, Nutrition skills and education to low income children'
 twitter: common__threads

@@ -6,7 +6,6 @@ organization_website: www.ruckusprojects.com/
 ein: '474688368'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: N/A
@@ -25,5 +24,7 @@ organization_id_2: '2015172'
 title: Ruckus Projects
 uri: /organizations/ruckus-projects/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
+maker_image_id: '23547'
+maker_image_file_name: Leif_Community_Engagement_App.jpg
 
 ---

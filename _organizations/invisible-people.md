@@ -6,14 +6,13 @@ organization_website: 'http://invisiblepeople.tv'
 ein: '272079758'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272079758'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
+project_image: 'http://img.youtube.com/vi/yUwt2n0jfsc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>In 2011 the Canadian Government commissioned Invisible People to travel to
@@ -109,5 +108,6 @@ organization_id_2: '2013099'
 title: Invisible People
 uri: /organizations/invisible-people/
 challenge_url: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
+youtube_video_identifier: yUwt2n0jfsc
 
 ---

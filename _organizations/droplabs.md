@@ -6,7 +6,6 @@ organization_website: 'http://droplabs.net'
 ein: '262467065'
 zip: '90031'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: droplabs
@@ -27,5 +26,7 @@ organization_id_2: '2014027'
 title: Droplabs
 uri: /organizations/droplabs/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
+maker_image_id: '21245'
+maker_image_file_name: slide-image-1.jpg
 
 ---

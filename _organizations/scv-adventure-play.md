@@ -6,7 +6,6 @@ organization_website: www.scvadventureplay.com
 ein: '473489539'
 zip: '91384'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@SCVAdvPlay'
@@ -27,5 +26,7 @@ organization_id_2: '2015176'
 title: SCV Adventure Play
 uri: /organizations/scv-adventure-play/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
+maker_image_id: '24111'
+maker_image_file_name: SCV_ADvplay_table_logo.png
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.justicelab.net
 ein: EIN Pending
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=EIN Pending'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/JusticeLabCA
@@ -25,5 +24,7 @@ organization_id_2: '2015101'
 title: Justice Lab
 uri: /organizations/justice-lab/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
+maker_image_id: '23396'
+maker_image_file_name: ReConnectLA_Logo_02.jpg
 
 ---

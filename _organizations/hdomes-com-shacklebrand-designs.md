@@ -6,7 +6,6 @@ organization_website: HDomes.com
 ein: '460673783'
 zip: '90078'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460673783'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Affordable housing, Energy conservation'
 twitter: 'https://twitter.com/DanHildebrand09'
@@ -25,5 +24,7 @@ organization_id_2: '2015082'
 title: 'HDomes.com, Shacklebrand Designs'
 uri: /organizations/hdomes-com-shacklebrand-designs/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
+maker_image_id: '23466'
+maker_image_file_name: large_domes-134_crop.jpg
 
 ---

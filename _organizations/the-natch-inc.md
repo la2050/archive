@@ -6,7 +6,6 @@ organization_website: thenatch.co
 ein: '813470225'
 zip: '90021'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Income and Employment: Small business, Entrepreneurship, Technology'
 twitter: 'https://twitter.com/natch_app'

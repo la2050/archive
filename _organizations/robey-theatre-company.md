@@ -6,7 +6,6 @@ organization_website: www.robeytheatrecompany.org
 ein: '954564423'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954564423'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/robeytc
@@ -25,5 +24,7 @@ organization_id_2: '2015169'
 title: Robey Theatre Company
 uri: /organizations/robey-theatre-company/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
+maker_image_id: '23966'
+maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 
 ---

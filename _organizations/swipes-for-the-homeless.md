@@ -6,14 +6,13 @@ organization_website: 'http://swipesforthehomeless.org/'
 ein: '452038035'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
+project_image: 'http://img.youtube.com/vi/h1GATPgLPxQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since its humble beginnings, Swipes for the Homeless has donated over 35,000
@@ -47,5 +46,6 @@ organization_id_2: '2013178'
 title: Swipes for the Homeless
 uri: /organizations/swipes-for-the-homeless/
 challenge_url: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
+youtube_video_identifier: h1GATPgLPxQ
 
 ---

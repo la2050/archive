@@ -6,14 +6,13 @@ organization_website: www.bresee.org
 ein: '953797363'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953797363'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/BreseeLA
 instagram: www.instagram.com/BreseeLA
 facebook: www.facebook.com/BreseeFoundation
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Bresee serves youth and families through Academics, Career-readiness, STEM,
@@ -26,5 +25,6 @@ organization_id_2: '2015148'
 title: P.F. Bresee Foundation
 uri: /organizations/p-f-bresee-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
+youtube_video_identifier: yeyzmCpYfFk
 
 ---

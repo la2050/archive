@@ -6,14 +6,13 @@ organization_website: 'http://www.relationalcenter.org'
 ein: '260511164'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260511164'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/relationalcenter.html'
+project_image: 'http://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Funded by The Annenberg Foundation, The Relational Center launched a pilot
@@ -34,5 +33,6 @@ organization_id_2: '2013196'
 title: The Relational Center
 uri: /organizations/the-relational-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/relationalcenter.html'
+youtube_video_identifier: 3J2TSZ1AMHM
 
 ---

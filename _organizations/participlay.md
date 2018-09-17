@@ -6,7 +6,6 @@ organization_website: www.participlay.com
 ein: '208482508'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013151'
 title: Participlay
 uri: /organizations/participlay/
 challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'
+maker_image_id: '17034'
+maker_image_file_name: Diva_Mob_with_logo.jpeg
 
 ---

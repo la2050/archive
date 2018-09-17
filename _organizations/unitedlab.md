@@ -6,7 +6,6 @@ organization_website: 'http://www.unitedlab.org'
 ein: '453306366'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
@@ -46,5 +45,7 @@ organization_id_2: '2013207'
 title: UNITEDLAB
 uri: /organizations/unitedlab/
 challenge_url: 'http://maker.good.is/myla2050/projects/poroushousing.html'
+maker_image_id: '16553'
+maker_image_file_name: LA_2050__r.jpg
 
 ---

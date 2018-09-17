@@ -6,7 +6,6 @@ organization_website: www.leecondon.com
 ein: '461206998'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -46,5 +45,7 @@ organization_id_2: '2013149'
 title: Pacesetter Productions
 uri: /organizations/pacesetter-productions/
 challenge_url: 'http://maker.good.is/myla2050/projects/Passion.html'
+maker_image_id: '16972'
+maker_image_file_name: Pacesetter.jpg
 
 ---

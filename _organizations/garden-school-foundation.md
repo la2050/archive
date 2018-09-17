@@ -6,7 +6,6 @@ organization_website: 'http://www.gardenschoolfoundation.org'
 ein: '203023426'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203023426'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
@@ -52,5 +51,7 @@ organization_id_2: '2013078'
 title: Garden School Foundation
 uri: /organizations/garden-school-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
+maker_image_id: '16977'
+maker_image_file_name: beans_on_clothes_H_small.jpg
 
 ---

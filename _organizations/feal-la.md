@@ -6,7 +6,6 @@ organization_website: www.fealla.com
 ein: '475245567'
 zip: '90021'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/feal_la'

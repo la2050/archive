@@ -6,14 +6,13 @@ organization_website: 'http://www.tiny-rebellion.com/#/home'
 ein: '954280254'
 zip: '90401'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/tiny_rebellion'
 instagram: 'https://instagram.com/tinyrbln/'
 facebook: 'https://www.facebook.com/tinyrebellion'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/nu53ttV7jQI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Tiny Rebellion is a Santa Monica-based agency that exists to accelerate
@@ -26,5 +25,6 @@ organization_id_2: '2015213'
 title: Tiny Rebellion
 uri: /organizations/tiny-rebellion/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
+youtube_video_identifier: nu53ttV7jQI
 
 ---

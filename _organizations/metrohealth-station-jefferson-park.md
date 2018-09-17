@@ -6,7 +6,6 @@ organization_website: ''
 ein: '384782470'
 zip: '90018'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014177'
 title: MetroHealth Station - Jefferson Park
 uri: /organizations/metrohealth-station-jefferson-park/
 challenge_url: ''
+maker_image_id: '22268'
+maker_image_file_name: Heathy_Teens__LA.png
 
 ---

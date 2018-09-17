@@ -6,7 +6,6 @@ organization_website: 'http://losangeles.dodgers.mlb.com/la/community/dodgers-fo
 ein: '954623022'
 zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Health, Social Connectedness. Environmental Quality: Fitness, Sports,

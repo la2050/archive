@@ -6,14 +6,13 @@ organization_website: 'http://www.libertyhill.org/'
 ein: '510181191'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510181191'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
+project_image: 'http://img.youtube.com/vi/kfEpQxhOtUk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Liberty Hill invests in community groups on the frontlines of change with
@@ -59,5 +58,6 @@ organization_id_2: '2013121'
 title: Liberty Hill
 uri: /organizations/liberty-hill/
 challenge_url: 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
+youtube_video_identifier: kfEpQxhOtUk
 
 ---

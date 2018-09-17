@@ -6,7 +6,6 @@ organization_website: 'http://smallbusinessmajority.org/'
 ein: '30576666'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=30576666'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Income and Employment, Social Connectedness: Entrepreneurship, Small business,

@@ -6,14 +6,13 @@ organization_website: www.uniondevecinos.net
 ein: '522076978'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522076978'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/UVLA.html'
+project_image: 'http://img.youtube.com/vi/Ih-cjiooJ3M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In 2000 we won a Best Practice award for our community organizing from the
@@ -101,5 +100,6 @@ organization_id_2: '2013204'
 title: Union de Vecinos
 uri: /organizations/union-de-vecinos/
 challenge_url: 'http://maker.good.is/myla2050/projects/UVLA.html'
+youtube_video_identifier: Ih-cjiooJ3M
 
 ---

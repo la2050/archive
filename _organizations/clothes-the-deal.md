@@ -6,14 +6,13 @@ organization_website: www.clothesthedeal.org
 ein: '954592893'
 zip: '90242'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592893'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Pre-employment services to low income individuals
 twitter: www.twitter.com/clothesthedeal
 instagram: www.instagram.com/clothesthedeal
 facebook: www.facebook.com/clothesthedeal
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg'
 project_video: ''
 org_summary: Clothes The Deal provides pre-employment services to low-income individuals.
 areas_impacted: >-
@@ -25,5 +24,6 @@ organization_id_2: '2015040'
 title: Clothes The Deal
 uri: /organizations/clothes-the-deal/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
+youtube_video_identifier: myUKgR-PO4c
 
 ---

@@ -6,14 +6,13 @@ organization_website: 'http://www.honeylove.org/'
 ein: '452863213'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452863213'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+project_image: 'http://img.youtube.com/vi/TkvIb74D38g/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since being founded in April 2011, HoneyLove has been leading the grassroots
@@ -40,5 +39,6 @@ organization_id_2: '2013091'
 title: HoneyLove
 uri: /organizations/honeylove/
 challenge_url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+youtube_video_identifier: TkvIb74D38g
 
 ---

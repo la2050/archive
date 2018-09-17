@@ -6,14 +6,13 @@ organization_website: www.alz.org/socal
 ein: '953718119'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953718119'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
+project_image: 'http://img.youtube.com/vi/DVIx37igPg0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Founded by concerned family caregivers in 1980 and incorporated in 1981,
@@ -45,5 +44,6 @@ organization_id_2: '2013009'
 title: 'Alzheimer''s Association, California Southland Chapter'
 uri: /organizations/alzheimers-association-california-southland-chapter/
 challenge_url: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
+youtube_video_identifier: DVIx37igPg0
 
 ---

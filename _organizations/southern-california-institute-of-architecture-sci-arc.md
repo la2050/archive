@@ -6,7 +6,6 @@ organization_website: ''
 ein: '952789388'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952789388'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''

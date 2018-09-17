@@ -6,7 +6,6 @@ organization_website: 'http://myfriendshouseinc.org/'
 ein: '262718485'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262718485'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Health: Healthy food, Food inequality'
 twitter: '@MyFriendsHse'

@@ -6,7 +6,6 @@ organization_website: www.DTLBbusiness.com
 ein: '275334557'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=275334557'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Environmental Quality, Income and Employment: Green technology,

@@ -6,7 +6,6 @@ organization_website: www.invla.org
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -28,5 +27,7 @@ organization_id_2: '2013098'
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+maker_image_id: '16779'
+maker_image_file_name: Jabami.jpg
 
 ---

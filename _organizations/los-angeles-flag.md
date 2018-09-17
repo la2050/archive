@@ -6,7 +6,6 @@ organization_website: www.losangelesflag.org
 ein: '475236157'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475236157'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/LosAngelesFlag
@@ -26,5 +25,7 @@ organization_id_2: '2015124'
 title: Los Angeles Flag
 uri: /organizations/los-angeles-flag/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
+maker_image_id: '23596'
+maker_image_file_name: Sky_Pic.png
 
 ---

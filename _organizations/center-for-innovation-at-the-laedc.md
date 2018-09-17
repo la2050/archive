@@ -6,7 +6,6 @@ organization_website: www.innovate.la
 ein: '953643339'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/innovateinLA'
@@ -27,5 +26,7 @@ organization_id_2: '2015028'
 title: Center for Innovation at the LAEDC
 uri: /organizations/center-for-innovation-at-the-laedc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
+maker_image_id: '24136'
+maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
 
 ---

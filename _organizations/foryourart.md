@@ -6,7 +6,6 @@ organization_website: www.ForYourArt.com
 ein: '421709725'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013072'
 title: ForYourArt
 uri: /organizations/foryourart/
 challenge_url: 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
+maker_image_id: '16358'
+maker_image_file_name: vnfl_final_copy.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: 'https://www.uclahealth.org/soundbodysoundmind/Pages/defau
 ein: '203604882'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203604882'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Workout equipment to high school and junior high students
 twitter: www.twitter.com/SBSMFoundation
@@ -27,5 +26,7 @@ organization_id_2: '2015206'
 title: The Sound Body Sound Mind Foundation
 uri: /organizations/the-sound-body-sound-mind-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
+maker_image_id: '23214'
+maker_image_file_name: IMG_0438.JPG
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.librosschmibros.org
 ein: '952540759'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/LibrosSchmibros
 instagram: www.instagram.com/librosschmibros
 facebook: 'https://www.facebook.com/librosschmibros'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Libros Schmibros is a Boyle Heights-based lending library that puts low-or
@@ -24,5 +23,6 @@ organization_id_2: '2014053'
 title: Libros Schmibros
 uri: /organizations/libros-schmibros/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
+youtube_video_identifier: iFODyc5eUjQ
 
 ---

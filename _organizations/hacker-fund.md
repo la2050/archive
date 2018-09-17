@@ -6,7 +6,6 @@ organization_website: www.hacker.fund
 ein: '472485464'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472485464'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Income and Employment, Arts and Cultural Vitality: Digital

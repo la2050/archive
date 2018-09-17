@@ -6,14 +6,13 @@ organization_website: 'http://www.diyfo.org'
 ein: '453753219'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/diyfo.html'
+project_image: 'http://img.youtube.com/vi/cEATGWzLMiM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In fewer than 18 months, DIYFO has grown from an arts and crafts-oriented
@@ -36,5 +35,6 @@ organization_id_2: '2013053'
 title: DIYFO (Do-It-Yourself. For Others.)
 uri: /organizations/diyfo-do-it-yourself-for-others/
 challenge_url: 'http://maker.good.is/myla2050/projects/diyfo.html'
+youtube_video_identifier: cEATGWzLMiM
 
 ---

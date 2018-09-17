@@ -6,7 +6,6 @@ organization_website: pleasenotow.com
 ein: '824997963'
 zip: '90036'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: pleaseNoTow

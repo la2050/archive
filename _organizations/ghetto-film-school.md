@@ -6,7 +6,6 @@ organization_website: www.ghettofilm.org
 ein: '134127229'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134127229'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/ghettofilm
@@ -25,5 +24,7 @@ organization_id_2: '2014040'
 title: Ghetto Film School
 uri: /organizations/ghetto-film-school/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
+maker_image_id: '21361'
+maker_image_file_name: GFS_PHOTO_1.png
 
 ---

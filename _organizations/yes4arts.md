@@ -6,7 +6,6 @@ organization_website: www.yes4arts.org
 ein: '473851439'
 zip: '90505'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473851439'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/yes4arts
@@ -28,5 +27,7 @@ organization_id_2: '2015227'
 title: Yes4arts
 uri: /organizations/yes4arts/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
+maker_image_id: '23223'
+maker_image_file_name: Yes4arts_picture_image.jpeg
 
 ---

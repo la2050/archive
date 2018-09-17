@@ -6,7 +6,6 @@ organization_website: ''
 ein: '262418948'
 zip: '90802'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262418948'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014147'
 title: Green Education Inc.
 uri: /organizations/green-education-inc/
 challenge_url: ''
+maker_image_id: '22790'
+maker_image_file_name: GEInc_Logo-brown_3-12.jpg
 
 ---

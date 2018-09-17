@@ -6,7 +6,6 @@ organization_website: 'http://www.designeastoflabrea.org'
 ein: '272832901'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272832901'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -62,5 +61,7 @@ organization_id_2: '2013052'
 title: design east of La Brea
 uri: /organizations/design-east-of-la-brea/
 challenge_url: 'http://maker.good.is/myla2050/projects/delab.html'
+maker_image_id: '16457'
+maker_image_file_name: bikes.jpg
 
 ---

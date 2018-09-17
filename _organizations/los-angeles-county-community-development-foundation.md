@@ -6,7 +6,6 @@ organization_website: ''
 ein: '770469732'
 zip: 91802-6428
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770469732'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014168'
 title: Los Angeles County Community Development Foundation
 uri: /organizations/los-angeles-county-community-development-foundation/
 challenge_url: ''
+maker_image_id: '22531'
+maker_image_file_name: Photo_Collage_v6.jpg
 
 ---

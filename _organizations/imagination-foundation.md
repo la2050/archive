@@ -6,14 +6,13 @@ organization_website: www.imagination.is
 ein: '300742986'
 zip: '90086'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300742986'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/imagination
 instagram: www.instagram.com/imaginationfdn
 facebook: www.facebook.com/imaginationfoundation
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/VtA2ubRDvAs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Inspired by the short viral film "Caine's Arcade," we foster creativity and
@@ -24,5 +23,6 @@ organization_id_2: '2015089'
 title: Imagination Foundation
 uri: /organizations/imagination-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/imagination.html'
+youtube_video_identifier: VtA2ubRDvAs
 
 ---

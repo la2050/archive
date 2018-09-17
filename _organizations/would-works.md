@@ -6,14 +6,13 @@ organization_website: www.would-works.com
 ein: '455552196'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455552196'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@WouldWorks1'
 instagram: '@would_works'
 facebook: 'https://www.facebook.com/pages/WOULD-WORKS/216415171803596'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Would-Works CREATES opportunities for men and women living in poverty in Los
@@ -24,5 +23,6 @@ organization_id_2: '2014110'
 title: Would-Works
 uri: /organizations/would-works/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
+youtube_video_identifier: xlsYqBrzY4k
 
 ---

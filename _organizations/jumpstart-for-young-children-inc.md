@@ -6,14 +6,13 @@ organization_website: www.jstart.org
 ein: '43262046'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=43262046'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/jumpstartkids
 instagram: ''
 facebook: www.facebook.com/jumpstartkids
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Jumpstart provides high quality early education programming to preschools in
@@ -28,5 +27,6 @@ organization_id_2: '2015099'
 title: 'Jumpstart For Young Children, Inc.'
 uri: /organizations/jumpstart-for-young-children-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
+youtube_video_identifier: a-3Yo_Yz5Vc
 
 ---

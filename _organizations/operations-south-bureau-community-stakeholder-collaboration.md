@@ -6,14 +6,13 @@ organization_website: www.lapdonline.org/south_bureau
 ein: '270889800'
 zip: '90003'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270889800'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/SOLACommunity
 instagram: ''
 facebook: www.facebook.com/solacommunity
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Operations-South Bureau Community Stakeholder Collaboration is a community
@@ -27,5 +26,6 @@ organization_id_2: '2015147'
 title: Operations-South Bureau Community Stakeholder Collaboration
 uri: /organizations/operations-south-bureau-community-stakeholder-collaboration/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
+youtube_video_identifier: aH5tvjvjOYE
 
 ---

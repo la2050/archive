@@ -6,7 +6,6 @@ organization_website: 'http://kidsprogressinc.org'
 ein: '651169693'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=651169693'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -52,5 +51,7 @@ organization_id_2: '2013106'
 title: Kids Progress Inc.
 uri: /organizations/kids-progress-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/kpi.html'
+maker_image_id: '16366'
+maker_image_file_name: Stem_pic.jpg
 
 ---

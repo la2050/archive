@@ -6,7 +6,6 @@ organization_website: www.cisgla.org
 ein: '954523780'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954523780'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Public Safety
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013043'
 title: 'Communities In Schools of San Fernando Valley, Inc.'
 uri: /organizations/communities-in-schools-of-san-fernando-valley-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/PTP.html'
+maker_image_id: '16714'
+maker_image_file_name: Games_for_Peace.jpg
 
 ---

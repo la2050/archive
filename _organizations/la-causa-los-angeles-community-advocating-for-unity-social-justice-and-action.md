@@ -8,7 +8,6 @@ organization_website: lacausainc.org
 ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Public Safety
 twitter: ''
@@ -44,5 +43,7 @@ title: >-
 uri: >-
   /organizations/la-causa-los-angeles-community-advocating-for-unity-social-justice-and-action/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
+maker_image_id: '16822'
+maker_image_file_name: real_estate_and_social_media_thoughts_1113.jpg
 
 ---

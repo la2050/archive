@@ -6,7 +6,6 @@ organization_website: www.imaginela.org
 ein: '204637089'
 zip: '90265'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204637089'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Housing, Social Connectedness: Homelessness, Poverty, Mentorship, Volunteerism'
 twitter: '@ImagineLA'

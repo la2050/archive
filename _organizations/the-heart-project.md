@@ -6,7 +6,6 @@ organization_website: www.theheartproject.org
 ein: '954199692'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954199692'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -76,5 +75,7 @@ organization_id_2: '2013188'
 title: The HeArt Project
 uri: /organizations/the-heart-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/theheartproject.html'
+maker_image_id: '16966'
+maker_image_file_name: DSCF5143_eventbrite.jpg
 
 ---

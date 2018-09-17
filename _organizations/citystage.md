@@ -6,7 +6,6 @@ organization_website: 'http://www.lacitystage.org'
 ein: '271684448'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271684448'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -53,5 +52,7 @@ organization_id_2: '2013039'
 title: CITYstage
 uri: /organizations/citystage/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
+maker_image_id: '16560'
+maker_image_file_name: 2050_image.jpg
 
 ---

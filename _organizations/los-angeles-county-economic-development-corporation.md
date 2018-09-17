@@ -6,7 +6,6 @@ organization_website: 'http://laedc.org/'
 ein: '953643339'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/laedc'
@@ -29,5 +28,7 @@ organization_id_2: '2015122'
 title: Los Angeles County Economic Development Corporation
 uri: /organizations/los-angeles-county-economic-development-corporation/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
+maker_image_id: '23271'
+maker_image_file_name: StratPlanProg_Cover.jpg
 
 ---

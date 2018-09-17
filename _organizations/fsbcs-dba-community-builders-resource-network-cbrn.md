@@ -11,7 +11,6 @@ organization_website: >-
 ein: '930699645'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=930699645'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -43,5 +42,7 @@ organization_id_2: '2013076'
 title: FSBCS dba Community Builders Resource Network (CBRN)
 uri: /organizations/fsbcs-dba-community-builders-resource-network-cbrn/
 challenge_url: 'http://maker.good.is/myla2050/projects/CBRN.html'
+maker_image_id: '17060'
+maker_image_file_name: collaboration_statement.jpg
 
 ---

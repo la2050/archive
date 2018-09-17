@@ -6,7 +6,6 @@ organization_website: www.goldenheartranch.org
 ein: '263131470'
 zip: '90254'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263131470'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Vocational training, life skills, and social opportunities for special needs
@@ -29,5 +28,7 @@ organization_id_2: '2015072'
 title: Golden Heart Ranch
 uri: /organizations/golden-heart-ranch/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
+maker_image_id: '23906'
+maker_image_file_name: 2014-08-12_11.41.58.jpg
 
 ---

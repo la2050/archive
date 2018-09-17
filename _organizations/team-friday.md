@@ -6,7 +6,6 @@ organization_website: 'http://www.artmageddonla.com'
 ein: '462219140'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -36,5 +35,7 @@ organization_id_2: '2013180'
 title: Team Friday
 uri: /organizations/team-friday/
 challenge_url: 'http://maker.good.is/myla2050/projects/artmageddon.html'
+maker_image_id: '17024'
+maker_image_file_name: USE.jpg
 
 ---

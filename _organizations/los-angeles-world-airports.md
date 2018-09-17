@@ -6,7 +6,6 @@ organization_website: www.lawa.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Mentorship, career readiness, youth'
 twitter: N/A

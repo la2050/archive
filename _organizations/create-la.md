@@ -6,14 +6,13 @@ organization_website: 'http://www.create-la.org'
 ein: '460815941'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460815941'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/createla.html'
+project_image: 'http://img.youtube.com/vi/y5Q3OTnTYC4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Within the past year, we have been thrilled to work with a dedicated group of
@@ -36,5 +35,6 @@ organization_id_2: '2013047'
 title: Create LA
 uri: /organizations/create-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/createla.html'
+youtube_video_identifier: y5Q3OTnTYC4
 
 ---

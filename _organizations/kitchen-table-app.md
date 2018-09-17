@@ -6,7 +6,6 @@ organization_website: 'https://www.kitchentableapp.com'
 ein: '821917647'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821917647'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/kitchentableapp'

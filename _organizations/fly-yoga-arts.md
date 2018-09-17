@@ -6,7 +6,6 @@ organization_website: www.flyyogaarts.com
 ein: '455259874'
 zip: '91601'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/flyyogaarts
@@ -25,5 +24,7 @@ organization_id_2: '2015065'
 title: FLY Yoga Arts
 uri: /organizations/fly-yoga-arts/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
+maker_image_id: '23727'
+maker_image_file_name: StillVideoImage_(2).jpg
 
 ---

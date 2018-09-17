@@ -6,7 +6,6 @@ organization_website: ccip.newamerica.net
 ein: '522096845'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522096845'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -54,5 +53,7 @@ organization_id_2: '2013144'
 title: New America Foundation - CA Civic Innovation Project
 uri: /organizations/new-america-foundation-ca-civic-innovation-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACivicLab.html'
+maker_image_id: '16898'
+maker_image_file_name: ca_civic_innovation_project_logo.png
 
 ---

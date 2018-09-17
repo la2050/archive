@@ -6,14 +6,13 @@ organization_website: www.sabio.la
 ein: '464000152'
 zip: '90094'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/wesabio
 instagram: '@wesabio'
 facebook: www.facebook.com/sabio
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We train Angelenos to become superior entry-level, full-stack web developers
@@ -24,5 +23,6 @@ organization_id_2: '2014078'
 title: 'Sabio Enterprises, Inc.'
 uri: /organizations/sabio-enterprises-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Transformation.html'
+youtube_video_identifier: QaoTDnw-Xtw
 
 ---

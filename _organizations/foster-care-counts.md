@@ -6,7 +6,6 @@ organization_website: www.fostercarecounts.org
 ein: '454619493'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454619493'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013073'
 title: Foster Care Counts
 uri: /organizations/foster-care-counts/
 challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
+maker_image_id: '16488'
+maker_image_file_name: FCC_logo_master_jpeg.jpg
 
 ---

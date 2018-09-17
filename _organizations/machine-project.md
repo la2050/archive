@@ -6,14 +6,13 @@ organization_website: 'http://machineproject.com/'
 ein: '753193159'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=753193159'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/machineproject.html'
+project_image: 'http://img.youtube.com/vi/c2e6ERN-dS8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Since 2003, Machine Project has built a national reputation for nurturing
@@ -41,5 +40,6 @@ organization_id_2: '2013130'
 title: Machine Project
 uri: /organizations/machine-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/machineproject.html'
+youtube_video_identifier: c2e6ERN-dS8
 
 ---

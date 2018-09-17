@@ -6,7 +6,6 @@ organization_website: 'https://www.wearethemighty.com'
 ein: '465406542'
 zip: '90015'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Veteran services
 twitter: '@wearethemighty'

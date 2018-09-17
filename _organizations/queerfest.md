@@ -6,7 +6,6 @@ organization_website: 'http://queerfest.la'
 ein: '952540759'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@QueerFestLA'
@@ -25,5 +24,7 @@ organization_id_2: '2014075'
 title: QueerFest
 uri: /organizations/queerfest/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
+maker_image_id: '21336'
+maker_image_file_name: QueerFest2014.jpg
 
 ---

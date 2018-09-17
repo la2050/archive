@@ -6,7 +6,6 @@ organization_website: www.laparks.org
 ein: '956000735'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: LACityParks

@@ -6,7 +6,6 @@ organization_website: www.mappsprogram.org
 ein: Personal DBA
 zip: '91105'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Education, Social Connectedness, Income and Employment: Job training,

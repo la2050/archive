@@ -6,14 +6,13 @@ organization_website: www.storyproject.org
 ein: '954684376'
 zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954684376'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/storyprojectLA
 instagram: ''
 facebook: 'https://www.facebook.com/The-Story-Project-116216105118265/timeline/'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Story Project encourages at-risk youth in underserved communities to
@@ -25,5 +24,6 @@ organization_id_2: '2015207'
 title: The Story Project
 uri: /organizations/the-story-project/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
+youtube_video_identifier: BnbLK2sxsXI
 
 ---

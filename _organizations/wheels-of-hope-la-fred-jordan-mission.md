@@ -6,7 +6,6 @@ organization_website: www.wheelsofhopeLA.com
 ein: '956000110'
 zip: '91722'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000110'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: NA
@@ -25,5 +24,7 @@ organization_id_2: '2015225'
 title: 'Wheels of Hope LA, Fred Jordan Mission'
 uri: /organizations/wheels-of-hope-la-fred-jordan-mission/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
+maker_image_id: '23250'
+maker_image_file_name: Wheels_graduation_ceremony.jpg
 
 ---

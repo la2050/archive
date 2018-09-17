@@ -6,7 +6,6 @@ organization_website: www.antirecidivism.org
 ein: '462140915'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462140915'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Support for incarcerated individuals, safe communities, fair justice system,

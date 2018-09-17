@@ -6,7 +6,6 @@ organization_website: 'http://www.earn.org'
 ein: '912172676'
 zip: '94104'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912172676'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Financial tools for families in poverty
 twitter: www.twitter.com/earn

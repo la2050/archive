@@ -6,14 +6,13 @@ organization_website: 'http://www.facebook.com/CRD3LA'
 ein: '474528239'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/CRD3LA.html'
+project_image: 'http://img.youtube.com/vi/HtWxHzKO0zY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>-Attended the last two years of Los Angeles County Board of Supervisors
@@ -58,5 +57,6 @@ title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Enga
 uri: >-
   /organizations/e-n-g-a-g-e-stands-for-educating-neighbors-gaining-awareness-growing-engaged/
 challenge_url: 'http://maker.good.is/myla2050/projects/CRD3LA.html'
+youtube_video_identifier: HtWxHzKO0zY
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.tierradelsol.org
 ein: '952671260'
 zip: '91040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952671260'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: TierradelSolFdn

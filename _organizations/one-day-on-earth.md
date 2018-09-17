@@ -6,14 +6,13 @@ organization_website: www.onedayonearth.org
 ein: '453263196'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453263196'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
+project_image: 'http://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   <p>DEVELOPMENT OF THE ONE DAY ON EARTH SOCIAL NETWORK:
@@ -74,5 +73,6 @@ organization_id_2: '2013147'
 title: One Day on Earth
 uri: /organizations/one-day-on-earth/
 challenge_url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
+youtube_video_identifier: YCMb5z0EVGw
 
 ---

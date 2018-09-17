@@ -6,7 +6,6 @@ organization_website: 'http://www.aud.ucla.edu'
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013201'
 title: UCLA Dept. of Architecture and Urban Design
 uri: /organizations/ucla-dept-of-architecture-and-urban-design/
 challenge_url: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
+maker_image_id: '16612'
+maker_image_file_name: HYPOPARK.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.nationalparks.org
 ein: '521086761'
 zip: '20005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521086761'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/GoParks'
@@ -27,5 +26,7 @@ organization_id_2: '2015142'
 title: National Park Foundation
 uri: /organizations/national-park-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'
+maker_image_id: '23519'
+maker_image_file_name: EKIPkidswithwalkingsticks.png
 
 ---

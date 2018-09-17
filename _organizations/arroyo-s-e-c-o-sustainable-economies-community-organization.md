@@ -6,14 +6,13 @@ organization_website: 'http://www.arroyo-seco.org/'
 ein: '453003702'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453003702'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/ASNTimeBank'
 instagram: www.instagram.com/ShareLosAngeles
 facebook: www.facebook.com/ArroyoSecoNetworkOfTimeBanks
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our mission is to educate, promote and create greater access to the practices
@@ -24,5 +23,6 @@ organization_id_2: '2014008'
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 uri: /organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
+youtube_video_identifier: ytlmnttRP70
 
 ---

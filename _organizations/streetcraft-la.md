@@ -6,14 +6,13 @@ organization_website: www.streetcraftla.com
 ein: '237360521'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/streetcraft.html'
+project_image: 'http://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Streetcraft LA is a new social venture of the South Bay Center for Community
@@ -45,5 +44,6 @@ organization_id_2: '2013174'
 title: Streetcraft LA
 uri: /organizations/streetcraft-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/streetcraft.html'
+youtube_video_identifier: LDkB_pxZu2k
 
 ---

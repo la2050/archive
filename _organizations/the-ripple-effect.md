@@ -6,7 +6,6 @@ organization_website: www.the-ripple-effect.net
 ein: '330748320'
 zip: '90807'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330748320'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/1rippleeffect
@@ -25,5 +24,7 @@ organization_id_2: '2015205'
 title: The Ripple Effect
 uri: /organizations/the-ripple-effect/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
+maker_image_id: '23575'
+maker_image_file_name: Picture_5.jpg
 
 ---

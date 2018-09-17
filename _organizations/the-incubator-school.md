@@ -6,14 +6,13 @@ organization_website: www.incubatorschool.org
 ein: '465274049'
 zip: '90045'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465274049'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/incschool'
 instagram: 'https://instagram.com/incschool/'
 facebook: 'https://www.facebook.com/incubatorschool'
 org_type: Government
-project_image: ''
+project_image: 'http://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Incubator School is a small, college and 21st century world-ready 6-12
@@ -25,5 +24,6 @@ organization_id_2: '2015200'
 title: The Incubator School
 uri: /organizations/the-incubator-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
+youtube_video_identifier: SHjS92F_BK8
 
 ---

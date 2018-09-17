@@ -6,7 +6,6 @@ organization_website: www.careerandcollegeclubs.org
 ein: '954415401'
 zip: '90266'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954415401'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/CCClubs
@@ -25,5 +24,7 @@ organization_id_2: '2015025'
 title: Career & College clubs
 uri: /organizations/career-college-clubs/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
+maker_image_id: '23182'
+maker_image_file_name: CCC_pic17_small.jpg
 
 ---

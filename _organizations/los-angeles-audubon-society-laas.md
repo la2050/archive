@@ -6,7 +6,6 @@ organization_website: www.laaudubon.org
 ein: '956093704'
 zip: 90041-8301
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956093704'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: LAAudubon

@@ -6,14 +6,13 @@ organization_website: www.enterdelusion.com
 ein: '943490342'
 zip: '90230'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/enterdelusion
 instagram: www.instagram.com/enterdelusion/
 facebook: www.facebook.com/enterdelusion
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   For the last 4 years, Delusion has been the premiere live theatre event in the
@@ -26,5 +25,6 @@ organization_id_2: '2015081'
 title: Haunted Play LLC
 uri: /organizations/haunted-play-llc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
+youtube_video_identifier: wGHuWyQEQIU
 
 ---

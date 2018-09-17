@@ -6,7 +6,6 @@ organization_website: www.lamountains.com
 ein: '770112367'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770112367'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: N/A
@@ -26,5 +25,7 @@ organization_id_2: '2015140'
 title: Mountains Recreation and Conservation Authority
 uri: /organizations/mountains-recreation-and-conservation-authority/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ELDORADOPARK.html'
+maker_image_id: '23990'
+maker_image_file_name: LA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png
 
 ---

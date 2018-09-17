@@ -6,7 +6,6 @@ organization_website: www.shopviprecords.com
 ein: '820873052'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Income and Employment: Entrepreneurship, Arts and

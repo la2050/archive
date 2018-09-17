@@ -6,7 +6,6 @@ organization_website: www.getsomeglue.com
 ein: '462089483'
 zip: '0'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Environmental Quality, Arts and Cultural Vitality: Public space, Innovation'
 twitter: '@GetSomeGlue'

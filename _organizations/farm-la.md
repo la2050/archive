@@ -6,7 +6,6 @@ organization_website: www.farmla.org
 ein: '473050128'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473050128'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Rescue unbuildable land for solar/drought resistant farming
 twitter: 'https://twitter.com/farm_la'
@@ -25,5 +24,7 @@ organization_id_2: '2015063'
 title: Farm LA
 uri: /organizations/farm-la/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
+maker_image_id: '23612'
+maker_image_file_name: 2050_Lg.jpg
 
 ---

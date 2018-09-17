@@ -6,7 +6,6 @@ organization_website: www.TinyCitiesLA.com
 ein: '452812002'
 zip: '90018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452812002'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Housing: Homelessness'
 twitter: TinyCitiesLA

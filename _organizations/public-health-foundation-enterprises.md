@@ -6,7 +6,6 @@ organization_website: www.lblreaders.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Education, children, advocacy, diversity, underserved communities, policy'
 twitter: LBLreaders

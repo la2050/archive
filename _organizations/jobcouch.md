@@ -6,14 +6,13 @@ organization_website: www.jobcouch.com/secret
 ein: '465572000'
 zip: '91362'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/jobcouch
 instagram: www.instagram.com/jobcouch
 facebook: www.facebook.com/jobcouch
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   JobCouch is a mobile enhanced platform to match hourly jobseekers with
@@ -24,5 +23,6 @@ organization_id_2: '2015097'
 title: JobCouch
 uri: /organizations/jobcouch/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
+youtube_video_identifier: 9l0UWGhKU-U
 
 ---

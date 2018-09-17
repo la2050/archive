@@ -6,7 +6,6 @@ organization_website: calstatela.edu/univ/abacc
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Arts and culture, education, children'
 twitter: abacc1968

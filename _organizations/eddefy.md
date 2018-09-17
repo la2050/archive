@@ -6,14 +6,13 @@ organization_website: www.eddefy.com
 ein: '461912903'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/MASTERY.html'
+project_image: 'http://img.youtube.com/vi/IYZkhNMTKrg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Ten years ago I was a schoolteacher for special education, focused on violent
@@ -90,5 +89,6 @@ organization_id_2: '2013055'
 title: EDDEFY
 uri: /organizations/eddefy/
 challenge_url: 'http://maker.good.is/myla2050/projects/MASTERY.html'
+youtube_video_identifier: IYZkhNMTKrg
 
 ---

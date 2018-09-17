@@ -6,7 +6,6 @@ organization_website: www.caamuseum.org
 ein: '954676760'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954676760'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -52,5 +51,7 @@ title: 'Friends, the Foundation of the California African American Museum'
 uri: >-
   /organizations/friends-the-foundation-of-the-california-african-american-museum/
 challenge_url: 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
+maker_image_id: '17083'
+maker_image_file_name: Wishing_Upon_A_Star.jpg
 
 ---

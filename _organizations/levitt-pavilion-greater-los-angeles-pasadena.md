@@ -6,7 +6,6 @@ organization_website: 'http://www.levittla.org'
 ein: '810591705'
 zip: '91030'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810591705'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/levittla
@@ -27,5 +26,7 @@ organization_id_2: '2015113'
 title: Levitt Pavilion Greater Los Angeles & Pasadena
 uri: /organizations/levitt-pavilion-greater-los-angeles-pasadena/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
+maker_image_id: '23665'
+maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 
 ---

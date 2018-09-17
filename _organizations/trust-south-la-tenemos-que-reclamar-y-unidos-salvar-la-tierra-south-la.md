@@ -6,7 +6,6 @@ organization_website: www.trustsouthla.org
 ein: '421687057'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=421687057'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''

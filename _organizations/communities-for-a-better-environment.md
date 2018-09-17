@@ -8,7 +8,6 @@ organization_website: >-
 ein: '260404220'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260404220'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: >-
@@ -21,7 +20,7 @@ facebook: >-
   www.facebook.com/nrdclosangeles?fref=ts /
   www.facebook.com/sharedusecenter?fref=ts
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ghRsAe0AExM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   By working directly in underserved public schools in Los Angeles Unified
@@ -34,5 +33,6 @@ organization_id_2: '2015042'
 title: Communities for a Better Environment
 uri: /organizations/communities-for-a-better-environment/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
+youtube_video_identifier: ghRsAe0AExM
 
 ---

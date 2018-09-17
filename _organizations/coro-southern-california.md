@@ -6,7 +6,6 @@ organization_website: www.corola.org
 ein: '954274561'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954274561'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Social Connectedness: Underserved communities, Volunteerism, Neighborhood

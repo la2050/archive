@@ -6,14 +6,13 @@ organization_website: www.lacashforcollege.org
 ein: '820576380'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820576380'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/lacash4college
 instagram: www.instagram.com/lacash4college
 facebook: www.facebook.com/lacashforcollege
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   UNITE-LA transcends traditional silos and barriers between government,
@@ -26,5 +25,6 @@ organization_id_2: '2015218'
 title: UNITE-LA
 uri: /organizations/unite-la/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
+youtube_video_identifier: q4McatdcN78
 
 ---

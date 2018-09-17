@@ -6,14 +6,13 @@ organization_website: ''
 ein: '900627151'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
+project_image: 'http://img.youtube.com/vi/_8WrWZXDKdQ/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   - Worked on the Los Angeles Revitalization Master Plan <p>
@@ -80,5 +79,6 @@ organization_id_2: '2013164'
 title: RiverLAnding Collective
 uri: /organizations/riverlanding-collective/
 challenge_url: 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
+youtube_video_identifier: _8WrWZXDKdQ
 
 ---

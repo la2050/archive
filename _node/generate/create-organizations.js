@@ -86,7 +86,10 @@ function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
   let project = getMakerProject(data, makerProjects, makerProjectAnswers)
   if (project) {
     if (makerImagesLookup[project.id]) {
-      return makerImagesLookup[project.id]["ProjectPhoto"]
+      return {
+        image: makerImagesLookup[project.id]["ProjectPhoto"],
+        video: makerImagesLookup[project.id]["ProjectVideo"]
+      }
     }
   }
 }
@@ -103,6 +106,9 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
   data.challenge_url = data.url
   delete data.url
+
+  // TODO: Get the ntee_type from the page located at charity_navigator_url
+  delete data.link_to_ntee_code
 
   try {
     data.areas_impacted = JSON.parse(data.areas_impacted)
@@ -124,14 +130,22 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
              data.year_submitted === "2014" ||
              data.year_submitted === "2013") {
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
-      let image = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
-      if (image) {
+      let match = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
+      if (match && match.image) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
-        let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${image.id}/display/${image.image_file_name}`))
+        let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${match.image.id}/display/${match.image.image_file_name}`))
+        data.maker_image_id = match.image.id
+        data.maker_image_file_name = match.image.image_file_name
         data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
         console.log(data.project_image)
-        
+        // http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+      } else if (match && match.video) {
+        // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
+        // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
+        data.project_image = `http://img.youtube.com/vi/${match.video.youtube_video_identifier}/maxresdefault.jpg`
+        data.youtube_video_identifier = match.video.youtube_video_identifier
+        console.log(data.project_image)
       }
     } else {
       console.log("image already present: " + data.project_image)

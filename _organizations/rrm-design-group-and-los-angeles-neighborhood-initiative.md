@@ -6,7 +6,6 @@ organization_website: www.rrmdesign.com
 ein: '952923783'
 zip: '93401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952923783'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/rrmdesigngroup
@@ -25,5 +24,7 @@ organization_id_2: '2015171'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
 uri: /organizations/rrm-design-group-and-los-angeles-neighborhood-initiative/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'
+maker_image_id: '23558'
+maker_image_file_name: IMG_0112.JPG
 
 ---

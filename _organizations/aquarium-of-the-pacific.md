@@ -6,7 +6,6 @@ organization_website: ''
 ein: '330532354'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330532354'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014114'
 title: Aquarium of the Pacific
 uri: /organizations/aquarium-of-the-pacific/
 challenge_url: ''
+maker_image_id: '22849'
+maker_image_file_name: AquariumPacific.jpg
 
 ---

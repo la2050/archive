@@ -6,7 +6,6 @@ organization_website: www.challengemaker.com
 ein: '471275838'
 zip: '90026'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@challengemaker1'
@@ -26,5 +25,7 @@ organization_id_2: '2015029'
 title: ChallengeMaker
 uri: /organizations/challengemaker/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ChallengeMaker.html'
+maker_image_id: '24048'
+maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 
 ---

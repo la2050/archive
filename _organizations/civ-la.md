@@ -6,14 +6,13 @@ organization_website: www.civ.la
 ein: '951667177'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/civLAtweets'
 instagram: 'https://instagram.com/imgla/'
 facebook: none
 org_type: Other
-project_image: ''
+project_image: 'http://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   civ.LA is an agile civic innovation laboratory (or "think-do tank"). We're
@@ -25,5 +24,6 @@ organization_id_2: '2015034'
 title: civ.LA
 uri: /organizations/civ-la/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
+youtube_video_identifier: qyZQR5_KCEM
 
 ---

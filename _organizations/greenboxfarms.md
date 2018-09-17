@@ -6,7 +6,6 @@ organization_website: www.greenboxfarms.com
 ein: '475224113'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/greenboxfarms
@@ -25,5 +24,7 @@ organization_id_2: '2015077'
 title: GREENBOXFARMS
 uri: /organizations/greenboxfarms/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
+maker_image_id: '23755'
+maker_image_file_name: Hydroponickids1.jpg
 
 ---

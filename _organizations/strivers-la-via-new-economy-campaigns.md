@@ -6,14 +6,13 @@ organization_website: ''
 ein: '452991222'
 zip: '90026'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   New Economy Campaigns drives social impact through multiplatform campaigns,
@@ -24,5 +23,6 @@ organization_id_2: '2014194'
 title: Strivers.LA via New Economy Campaigns
 uri: /organizations/strivers-la-via-new-economy-campaigns/
 challenge_url: ''
+youtube_video_identifier: lz8FDz2KN0s
 
 ---

@@ -6,7 +6,6 @@ organization_website: ''
 ein: '954429260'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954429260'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014204'
 title: The Laurel Foundation
 uri: /organizations/the-laurel-foundation/
 challenge_url: ''
+maker_image_id: '20215'
+maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 
 ---

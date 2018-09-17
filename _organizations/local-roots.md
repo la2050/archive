@@ -6,7 +6,6 @@ organization_website: www.localrootsfarms.com
 ein: '464783761'
 zip: '90058'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Providing fresh food and produce to communities
 twitter: www.twitter.com/localrootsfarms
@@ -28,5 +27,7 @@ organization_id_2: '2015117'
 title: Local Roots
 uri: /organizations/local-roots/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
+maker_image_id: '23707'
+maker_image_file_name: Mobile_Market_Mock-Up.png
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.hollywoodheart.org
 ein: '954522816'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522816'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/hollywdheart
 instagram: www.instagram.com/hollywoodsheart
 facebook: www.facebook.com/hollywoodheart
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Hollywood HEART nurtures resiliency, creativity, and community through
@@ -25,5 +24,6 @@ organization_id_2: '2015087'
 title: Hollywood HEART
 uri: /organizations/hollywood-heart/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
+youtube_video_identifier: 7VGCk_c0VcU
 
 ---

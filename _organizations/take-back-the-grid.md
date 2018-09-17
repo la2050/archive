@@ -6,14 +6,13 @@ organization_website: www.takebackthegrid.com
 ein: '383887267'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
+project_image: 'http://img.youtube.com/vi/R-T1Ud6JTNo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Working with Dan Rosen, Billy Parish, and Arthur Coulston at SolarMosaic
@@ -29,5 +28,6 @@ organization_id_2: '2013179'
 title: Take Back the Grid
 uri: /organizations/take-back-the-grid/
 challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
+youtube_video_identifier: R-T1Ud6JTNo
 
 ---

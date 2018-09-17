@@ -6,14 +6,13 @@ organization_website: ''
 ein: '951661682'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951661682'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   enable young people, especially those who need us most, to reach their full
@@ -24,5 +23,6 @@ organization_id_2: '2014119'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 uri: /organizations/boys-girls-clubs-of-the-los-angeles-harbor/
 challenge_url: ''
+youtube_video_identifier: sI0_dZ4TpAA
 
 ---

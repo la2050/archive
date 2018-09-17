@@ -6,7 +6,6 @@ organization_website: girlsincla.org
 ein: '131915124'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=131915124'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Mentorship, Women's advocacy, homeless, underserved communities, Stem,

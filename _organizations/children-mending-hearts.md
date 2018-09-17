@@ -6,14 +6,13 @@ organization_website: 'http://www.childrenmendinghearts.org'
 ein: '264131176'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264131176'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
+project_image: 'http://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since its inception in 2009, Children Mending Hearts has helped over 12,000
@@ -51,5 +50,6 @@ organization_id_2: '2013032'
 title: Children Mending Hearts
 uri: /organizations/children-mending-hearts/
 challenge_url: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
+youtube_video_identifier: d166fbxFWas
 
 ---

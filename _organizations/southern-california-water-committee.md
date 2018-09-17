@@ -6,14 +6,13 @@ organization_website: 'http://www.socalwater.org/'
 ein: '330081886'
 zip: '91604'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330081886'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Saving California state water and natural resources
 twitter: 'https://twitter.com/Lawn_Dude'
 instagram: www.instagram.com/socalwater
 facebook: www.facebook.com/socalwater
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Southern California Water Committee (SCWC) — established in 1984 — is a
@@ -25,5 +24,6 @@ organization_id_2: '2015189'
 title: Southern California Water Committee
 uri: /organizations/southern-california-water-committee/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
+youtube_video_identifier: mvOTPkbwJJU
 
 ---

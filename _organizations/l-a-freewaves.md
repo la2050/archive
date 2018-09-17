@@ -6,7 +6,6 @@ organization_website: www.freewaves.org
 ein: '954476207'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954476207'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/lafreewaves'
@@ -27,5 +26,7 @@ organization_id_2: '2014047'
 title: L.A. Freewaves
 uri: /organizations/l-a-freewaves/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
+maker_image_id: '21306'
+maker_image_file_name: 12_Stills_from_videos.jpg
 
 ---

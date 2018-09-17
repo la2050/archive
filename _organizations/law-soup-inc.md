@@ -6,14 +6,13 @@ organization_website: www.lawsoup.org
 ein: '471443694'
 zip: '90039'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/lawsoupdotorg
 instagram: ''
 facebook: www.facebook.com/lawsoup
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Law Soup is an online media company that creates and publishes content
@@ -26,5 +25,6 @@ organization_id_2: '2014050'
 title: 'Law Soup, Inc.'
 uri: /organizations/law-soup-inc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
+youtube_video_identifier: DRehRt5n68c
 
 ---

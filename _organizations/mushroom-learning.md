@@ -6,7 +6,6 @@ organization_website: ''
 ein: '471078795'
 zip: '90064'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2014180'
 title: Mushroom Learning
 uri: /organizations/mushroom-learning/
 challenge_url: ''
+maker_image_id: '21687'
+maker_image_file_name: la2050-pic-2.png
 
 ---

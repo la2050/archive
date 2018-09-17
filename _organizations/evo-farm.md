@@ -6,7 +6,6 @@ organization_website: www.evofarm.com
 ein: '460846401'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -55,5 +54,7 @@ organization_id_2: '2013064'
 title: Evo Farm
 uri: /organizations/evo-farm/
 challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
+maker_image_id: '16782'
+maker_image_file_name: vertical_AP_kit_3b.jpg
 
 ---

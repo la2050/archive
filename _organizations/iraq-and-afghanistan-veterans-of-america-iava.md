@@ -6,7 +6,6 @@ organization_website: www.iava.org
 ein: '201664531'
 zip: '10036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201664531'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Uniting/Empowering Veterans, veteran health'
 twitter: 'https://twitter.com/iava'
@@ -27,5 +26,7 @@ organization_id_2: '2015093'
 title: Iraq and Afghanistan Veterans of America (IAVA)
 uri: /organizations/iraq-and-afghanistan-veterans-of-america-iava/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
+maker_image_id: '23674'
+maker_image_file_name: Image.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: ''
 ein: '952539105'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952539105'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014189'
 title: Saban Community Clinic
 uri: /organizations/saban-community-clinic/
 challenge_url: ''
+maker_image_id: '22174'
+maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: ''
 ein: '237161543'
 zip: 90024-5055
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237161543'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2014155'
 title: Imagination Workshop
 uri: /organizations/imagination-workshop/
 challenge_url: ''
+maker_image_id: '20927'
+maker_image_file_name: index__element43.jpg
 
 ---

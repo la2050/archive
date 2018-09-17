@@ -6,7 +6,6 @@ organization_website: ''
 ein: '450574948'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=450574948'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014156'
 title: 'IN THE CITY, INC.'
 uri: /organizations/in-the-city-inc/
 challenge_url: ''
+maker_image_id: '22530'
+maker_image_file_name: DSC01431.jpg
 
 ---

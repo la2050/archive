@@ -8,7 +8,6 @@ organization_website: ''
 ein: '273421838'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273421838'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -30,5 +29,7 @@ title: >-
 uri: >-
   /organizations/streetsblog-los-angeles-los-angeles-walks-place-it-longbeachize-santa-monica-next/
 challenge_url: ''
+maker_image_id: '21490'
+maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.juliericogallery.com
 ein: 472268086‏
 zip: '90012'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/laartfest

@@ -6,7 +6,6 @@ organization_website: www.socalcollegeaccess.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/socalcan'
@@ -30,5 +29,7 @@ title: 'Southern California College Access Network, a Project of Community Partn
 uri: >-
   /organizations/southern-california-college-access-network-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
+maker_image_id: '23240'
+maker_image_file_name: _MG_9694.JPG
 
 ---

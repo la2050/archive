@@ -6,7 +6,6 @@ organization_website: www.suprmarkt.la
 ein: '823768348'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823768348'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '#N/A'
 twitter: '0'

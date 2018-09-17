@@ -6,14 +6,13 @@ organization_website: 'http://losangelesyouthorchestra.org/layo'
 ein: '244703063'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=244703063'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
+project_image: 'http://img.youtube.com/vi/OSdBClactgc/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   Concert at Carnegie Hall: February 2013
@@ -38,5 +37,6 @@ organization_id_2: '2013127'
 title: Los Angeles Youth Orchestra
 uri: /organizations/los-angeles-youth-orchestra/
 challenge_url: 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
+youtube_video_identifier: OSdBClactgc
 
 ---

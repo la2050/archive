@@ -6,14 +6,13 @@ organization_website: www.ApplicantLab.com
 ein: '473354380'
 zip: '90094'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/ApplicantLab'
 instagram: ''
 facebook: 'https://www.facebook.com/ApplicantLab/'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Leveling the admissions playing field via an online series of interactive
@@ -25,5 +24,6 @@ organization_id_2: '2015011'
 title: ApplicantLab
 uri: /organizations/applicantlab/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
+youtube_video_identifier: IRXVbzVLXls
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.lambdathetanu.org
 ein: '943292874'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943292874'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
@@ -33,5 +32,7 @@ organization_id_2: '2013117'
 title: 'Lambda Theta Nu Sorority, Incorporated'
 uri: /organizations/lambda-theta-nu-sorority-incorporated/
 challenge_url: 'http://maker.good.is/myla2050/projects/FEM.html'
+maker_image_id: '16587'
+maker_image_file_name: photo-33.JPG
 
 ---

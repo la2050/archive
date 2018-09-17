@@ -6,7 +6,6 @@ organization_website: www.lacausainc.org
 ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
@@ -34,5 +33,7 @@ title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action,
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
+maker_image_id: '16688'
+maker_image_file_name: LA_CAUSA.jpg
 
 ---

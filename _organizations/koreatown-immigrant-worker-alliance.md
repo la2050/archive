@@ -6,7 +6,6 @@ organization_website: 'http://kiwa.org/'
 ein: '954392004'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954392004'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Workplace justice, Housing rights, and democratic rights among Korean
@@ -28,5 +27,7 @@ organization_id_2: '2015106'
 title: Koreatown Immigrant Worker Alliance
 uri: /organizations/koreatown-immigrant-worker-alliance/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
+maker_image_id: '23889'
+maker_image_file_name: 12000148473_482ef012b5_k.jpg
 
 ---

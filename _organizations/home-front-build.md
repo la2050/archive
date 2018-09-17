@@ -6,7 +6,6 @@ organization_website: ''
 ein: '452025063'
 zip: '90065'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014150'
 title: Home Front Build
 uri: /organizations/home-front-build/
 challenge_url: ''
+maker_image_id: '22740'
+maker_image_file_name: obee-landscape.jpg
 
 ---

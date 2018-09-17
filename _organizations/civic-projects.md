@@ -6,7 +6,6 @@ organization_website: 'www.civicprojects.org/pickuppopupproduce, www.osborn320.c
 ein: '274568770'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274568770'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''

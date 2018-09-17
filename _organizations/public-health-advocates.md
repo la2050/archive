@@ -6,7 +6,6 @@ organization_website: www.publichealthadvocacy.org
 ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: '#N/A'
-link_to_ntee_code: '#N/A'
 ntee_type: ''
 tags_indicators: 'Community nutrition, obesity, community wellness, food accessibility'
 twitter: www.twitter.com/CCPHA

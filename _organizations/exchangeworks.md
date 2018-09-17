@@ -6,7 +6,6 @@ organization_website: 'http://www.exchangeworks.co'
 ein: '462746723'
 zip: '90404'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/ExchangeWorksUS'
@@ -25,5 +24,7 @@ organization_id_2: '2015060'
 title: ExchangeWorks
 uri: /organizations/exchangeworks/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
+maker_image_id: '23594'
+maker_image_file_name: EW_Molly_EWLA_sm.jpg
 
 ---

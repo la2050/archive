@@ -9,14 +9,13 @@ organization_website: www.LANLT.org
 ein: '383687836'
 zip: '90037'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383687836'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/LANLT'
 instagram: N/A
 facebook: www.facebook.com/FreeLotsAngeles
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The LA Neighborhood Land Trust partners with LA’s communities of color to
@@ -33,5 +32,6 @@ title: >-
 uri: >-
   /organizations/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
+youtube_video_identifier: KQnPSzqeZRk
 
 ---

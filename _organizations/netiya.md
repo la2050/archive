@@ -6,14 +6,13 @@ organization_website: www.netiya.org
 ein: '951890769'
 zip: '91436'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890769'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: 'https://twitter.com/NetiyaLA'
 instagram: 'https://instagram.com/netiyala/'
 facebook: 'https://www.facebook.com/NetiyaLA/'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Netiya is a food justice and interfaith network that fosters self-reliance and
@@ -27,5 +26,6 @@ organization_id_2: '2015144'
 title: Netiya
 uri: /organizations/netiya/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
+youtube_video_identifier: z7nrpaONjUI
 
 ---

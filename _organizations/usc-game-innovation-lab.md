@@ -6,14 +6,13 @@ organization_website: 'http://interactive.usc.edu/game-innovation-lab/'
 ein: '951642394'
 zip: 90089-2211
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@USCGameLab'
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The GIL is a premiere research and design think tank, developing experimental
@@ -26,5 +25,6 @@ organization_id_2: '2014104'
 title: USC Game Innovation Lab
 uri: /organizations/usc-game-innovation-lab/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAReality.html'
+youtube_video_identifier: dN0L0YMa39s
 
 ---

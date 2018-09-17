@@ -6,14 +6,13 @@ organization_website: www.TheNewHistory.org
 ein: '471474363'
 zip: '90021'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: NewHistoryEdu
 instagram: NewHistoryEdu
 facebook: TheNewHistoryEdu
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We leverage music, collaboration & technology to re-imagine how kids learn &
@@ -24,5 +23,6 @@ organization_id_2: '2014095'
 title: The New History
 uri: /organizations/the-new-history/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
+youtube_video_identifier: o1W8HEqylCg
 
 ---

@@ -8,14 +8,13 @@ organization_website: www.playwithmusic.org
 ein: '471474363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471474363'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/thenewhist
 instagram: www.instagram.com/thenewhistory
 facebook: www.facebook.com/TheNewHistoryEdu
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are a modern music education program that brings at-risk students, music
@@ -29,5 +28,6 @@ title: >-
 uri: >-
   /organizations/play-with-music-the-new-history-parent-organization-of-play-with-music-current-transition-filing-501c3-status-for-play-with-music/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
+youtube_video_identifier: MY3TeVh867s
 
 ---

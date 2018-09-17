@@ -6,7 +6,6 @@ organization_website: lacompost.org
 ein: '461134852'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
-link_to_ntee_code: GET CODE
 ntee_type: Educational Institutions and Related Activities
 tags_indicators: >-
   Environmental Quality, Social Connectedness: Ecosystems, Sustainability,

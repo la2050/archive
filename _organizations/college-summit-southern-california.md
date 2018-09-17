@@ -6,14 +6,13 @@ organization_website: ''
 ein: '522007028'
 zip: '90245'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522007028'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/XNxfMssLYzc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   College Summit is dedicated to transforming the lives of low-income youth by
@@ -24,5 +23,6 @@ organization_id_2: '2014130'
 title: College Summit Southern California
 uri: /organizations/college-summit-southern-california/
 challenge_url: ''
+youtube_video_identifier: XNxfMssLYzc
 
 ---

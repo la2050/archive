@@ -6,14 +6,13 @@ organization_website: www.blueprintearth.org
 ein: '463558470'
 zip: '91789'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463558470'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/BlueprintEarth'
 instagram: www.instagram.com/blueprintearth
 facebook: www.facebook.com/blueprintearth
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Blueprint Earth’s mission is to preserve Earth's environments through
@@ -27,5 +26,6 @@ organization_id_2: '2015018'
 title: Blueprint Earth
 uri: /organizations/blueprint-earth/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
+youtube_video_identifier: H-S2LiQcO00
 
 ---

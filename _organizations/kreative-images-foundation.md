@@ -6,7 +6,6 @@ organization_website: www.kifoundation.org
 ein: '954773494'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Public Safety
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013108'
 title: Kreative Images Foundation
 uri: /organizations/kreative-images-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/C-360.html'
+maker_image_id: '17017'
+maker_image_file_name: 360.png
 
 ---

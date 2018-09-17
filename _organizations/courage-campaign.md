@@ -6,7 +6,6 @@ organization_website: Couragecampaign.org
 ein: '270343297'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270343297'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -63,5 +62,7 @@ organization_id_2: '2013045'
 title: Courage Campaign
 uri: /organizations/courage-campaign/
 challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
+maker_image_id: '16571'
+maker_image_file_name: DFO_retreat_rowdy_pic.jpg
 
 ---

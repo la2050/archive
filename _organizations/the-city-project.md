@@ -6,7 +6,6 @@ organization_website: www.cityprojectca.org
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -39,5 +38,7 @@ organization_id_2: '2013185'
 title: The City Project
 uri: /organizations/the-city-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
+maker_image_id: '16667'
+maker_image_file_name: Image.jpg
 
 ---

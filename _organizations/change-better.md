@@ -6,7 +6,6 @@ organization_website: www.changebetter.org
 ein: '954116679'
 zip: '91302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/changebetterorg
@@ -25,5 +24,7 @@ organization_id_2: '2015030'
 title: Change Better
 uri: /organizations/change-better/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
+maker_image_id: '23690'
+maker_image_file_name: Change_Better_Profile.jpg
 
 ---

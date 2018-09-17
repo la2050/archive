@@ -6,14 +6,13 @@ organization_website: www.foodforward.org
 ein: '900678872'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900678872'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/FoodForwardLA.html'
+project_image: 'http://img.youtube.com/vi/EpR6dHeaGIQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Since its founding in 2009, Food Forward has engaged thousands of
@@ -37,5 +36,6 @@ organization_id_2: '2013070'
 title: Food Forward
 uri: /organizations/food-forward/
 challenge_url: 'http://maker.good.is/myla2050/projects/FoodForwardLA.html'
+youtube_video_identifier: EpR6dHeaGIQ
 
 ---

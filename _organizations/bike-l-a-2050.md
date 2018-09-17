@@ -6,7 +6,6 @@ organization_website: ''
 ein: '575061488'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=575061488'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Public Safety
 twitter: ''
@@ -32,5 +31,7 @@ organization_id_2: '2013019'
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
 challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'
+maker_image_id: '16963'
+maker_image_file_name: 2019409068.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.bwwla.org
 ein: '954624707'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954624707'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Environmental Quality, Arts and Cultural Vitality, Social Connectedness:

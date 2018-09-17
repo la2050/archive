@@ -6,7 +6,6 @@ organization_website: 'http://www.theyouthmovement.org/,https://youthcaregiving.
 ein: '208083398'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208083398'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Health, Social Connectedness: Healthcare, Volunteerism'
 twitter: '@YouthAgainstAlz'

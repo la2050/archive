@@ -8,7 +8,6 @@ organization_website: 'http://www.tombradleylegacy.org/give'
 ein: '954412725'
 zip: '90095'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954412725'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/giveurbanfarms
@@ -31,5 +30,7 @@ title: >-
 uri: >-
   /organizations/green-institute-for-village-empowerment-give-program-at-tom-bradley-legacy-foundation-at-ucla-l-a-urban-farms-union-rescue-mission-union-church-l-a/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GIVEUrbanfarms.html'
+maker_image_id: '23569'
+maker_image_file_name: towergarden.jpg
 
 ---

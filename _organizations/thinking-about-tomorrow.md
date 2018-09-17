@@ -6,7 +6,6 @@ organization_website: www.thinkingabouttomorrow.org
 ein: '270530056'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270530056'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/thinkabouttmw'
@@ -25,5 +24,7 @@ organization_id_2: '2015211'
 title: Thinking about Tomorrow
 uri: /organizations/thinking-about-tomorrow/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
+maker_image_id: '24144'
+maker_image_file_name: ShannonTaTLA2050.jpeg
 
 ---

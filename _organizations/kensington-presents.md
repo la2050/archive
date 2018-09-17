@@ -6,14 +6,13 @@ organization_website: www.kensingtonpresents.com
 ein: '455635609'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455635609'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'www.twitter.com/kensingtonpresents #kensingtonpresents'
 instagram: www.instagram.com/kensingtonpresents
 facebook: www.facebook.com/kensingtonpresents
 org_type: Other
-project_image: ''
+project_image: 'http://img.youtube.com/vi/v-5UnN1CD0E/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Kensington Presents builds community through free, family-friendly concerts
@@ -24,5 +23,6 @@ organization_id_2: '2015104'
 title: Kensington Presents
 uri: /organizations/kensington-presents/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
+youtube_video_identifier: v-5UnN1CD0E
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.projectmuszed.org
 ein: '203037195'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203037195'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/projectmuszed'
@@ -25,5 +24,7 @@ organization_id_2: '2015160'
 title: Project MuszEd
 uri: /organizations/project-muszed/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
+maker_image_id: '23245'
+maker_image_file_name: Slide1.JPG
 
 ---

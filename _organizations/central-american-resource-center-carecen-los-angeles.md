@@ -6,7 +6,6 @@ organization_website: ''
 ein: '953867724'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953867724'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014122'
 title: Central American Resource Center - CARECEN - Los Angeles
 uri: /organizations/central-american-resource-center-carecen-los-angeles/
 challenge_url: ''
+maker_image_id: '22249'
+maker_image_file_name: CARECEN_College_Head_Start_Program.jpg
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.discoverybynature.org
 ein: '954320598'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954320598'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/ExNLA.html'
+project_image: 'http://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   CNIâ€™s mission is to educate children, families, and their communities
@@ -40,5 +39,6 @@ organization_id_2: '2013184'
 title: The Children's Nature Institute
 uri: /organizations/the-childrens-nature-institute/
 challenge_url: 'http://maker.good.is/myla2050/projects/ExNLA.html'
+youtube_video_identifier: xF48V9enLaE
 
 ---

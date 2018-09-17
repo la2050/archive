@@ -6,7 +6,6 @@ organization_website: 'http://www.worldharvestfoodbank.org'
 ein: '392064653'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=392064653'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Health, Housing, Income and Employment: Healthy food, Food inequality,

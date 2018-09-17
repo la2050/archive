@@ -6,14 +6,13 @@ organization_website: www.readingpartners.org/location/los-angeles
 ein: '770568469'
 zip: '91107'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770568469'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/RPLosAngeles
 instagram: ''
 facebook: www.facebook.com/ReadingPartnersLA
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We connect local volunteers to under-resourced elementary schools to provide
@@ -28,5 +27,6 @@ organization_id_2: '2015165'
 title: Reading Partners
 uri: /organizations/reading-partners/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
+youtube_video_identifier: sKN2PQLjrps
 
 ---

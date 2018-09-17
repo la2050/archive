@@ -6,7 +6,6 @@ organization_website: www.ema-global.org
 ein: '262025234'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262025234'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -62,5 +61,7 @@ organization_id_2: '2013060'
 title: Electronic Music Alliance
 uri: /organizations/electronic-music-alliance/
 challenge_url: 'http://maker.good.is/myla2050/projects/EMAPLAY.html'
+maker_image_id: '16296'
+maker_image_file_name: EMAHeader.jpg
 
 ---

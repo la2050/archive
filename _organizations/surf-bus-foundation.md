@@ -6,7 +6,6 @@ organization_website: www.surfbusfoundation.org
 ein: '463169840'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Environmental Quality, Education, Social Connectedness: Public space,

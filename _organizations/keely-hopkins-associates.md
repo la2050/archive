@@ -6,7 +6,6 @@ organization_website: www.youth4c.com
 ein: '462375546'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -44,5 +43,7 @@ organization_id_2: '2013105'
 title: Keely Hopkins & Associates
 uri: /organizations/keely-hopkins-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
+maker_image_id: '16740'
+maker_image_file_name: poster1.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: homeboyindustries.org
 ein: '954800735'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954800735'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Income and Employment, Social Connectedness, Public Safety: Underserved

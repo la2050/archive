@@ -6,7 +6,6 @@ organization_website: www.collaborativetutoring.com
 ein: '462388422'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -44,5 +43,7 @@ organization_id_2: '2013042'
 title: Collaborative Tutoring
 uri: /organizations/collaborative-tutoring/
 challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
+maker_image_id: '17048'
+maker_image_file_name: tutoring.png
 
 ---

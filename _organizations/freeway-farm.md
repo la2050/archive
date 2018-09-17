@@ -6,7 +6,6 @@ organization_website: www.freewayfarm.com
 ein: '475285481'
 zip: '91103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475285481'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/freewayfarm'
@@ -26,5 +25,7 @@ organization_id_2: '2015067'
 title: Freeway Farm
 uri: /organizations/freeway-farm/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'
+maker_image_id: '24023'
+maker_image_file_name: LA2050_Freeway_Growth.jpg
 
 ---

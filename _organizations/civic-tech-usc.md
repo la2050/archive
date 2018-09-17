@@ -6,7 +6,6 @@ organization_website: 'http://civictechusc.org/'
 ein: '951642394'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/CivicTechUSC'
@@ -26,5 +25,7 @@ organization_id_2: '2015035'
 title: Civic Tech USC
 uri: /organizations/civic-tech-usc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'
+maker_image_id: '23887'
+maker_image_file_name: civictechusc_neighborhood_LA2050.png
 
 ---

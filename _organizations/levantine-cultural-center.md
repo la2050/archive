@@ -6,7 +6,6 @@ organization_website: 'http://levantinecenter.org'
 ein: '912156607'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912156607'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@LevantineCenter'
@@ -27,5 +26,7 @@ organization_id_2: '2014052'
 title: Levantine Cultural Center
 uri: /organizations/levantine-cultural-center/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
+maker_image_id: '22605'
+maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 
 ---

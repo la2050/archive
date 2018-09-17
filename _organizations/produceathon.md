@@ -6,7 +6,6 @@ organization_website: www.produceAthon.org
 ein: '300945310'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Income and Employment: Creative industry,

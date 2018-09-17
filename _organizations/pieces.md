@@ -6,7 +6,6 @@ organization_website: www.PIECESarts.org
 ein: '800819008'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800819008'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Arts and culture vitality, creative industry, entertainment industry, income

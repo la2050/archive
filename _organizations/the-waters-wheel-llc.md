@@ -6,7 +6,6 @@ organization_website: 'http://www.healthiscity.com'
 ein: '800831358'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Health
 twitter: ''

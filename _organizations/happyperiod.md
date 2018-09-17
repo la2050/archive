@@ -6,7 +6,6 @@ organization_website: 'http://hashtaghappyperiod.org'
 ein: '474333055'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
-link_to_ntee_code: GET CODE
 ntee_type: Human Services
 tags_indicators: >-
   Arts and Cultural Vitality, Social Connectedness, Housing (?): Arts and

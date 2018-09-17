@@ -6,14 +6,13 @@ organization_website: ''
 ein: '956006143'
 zip: 90095-1405
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Government
-project_image: ''
+project_image: 'http://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The UCLA Grand Challenges initiative brings together faculty, students and
@@ -24,5 +23,6 @@ organization_id_2: '2014217'
 title: UCLA Grand Challenges
 uri: /organizations/ucla-grand-challenges/
 challenge_url: ''
+youtube_video_identifier: DITouRhKW80
 
 ---

@@ -6,7 +6,6 @@ organization_website: 'http://www.smartestk12.com'
 ein: '461700311'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -35,5 +34,7 @@ organization_id_2: '2013167'
 title: smartestk12.com
 uri: /organizations/smartestk12-com/
 challenge_url: 'http://maker.good.is/myla2050/projects/smartestk12.html'
+maker_image_id: '16780'
+maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
 
 ---

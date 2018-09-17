@@ -6,7 +6,6 @@ organization_website: www.parentseducationleague.org
 ein: '264510950'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264510950'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Education, youth'
 twitter: peltweet

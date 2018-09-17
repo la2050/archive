@@ -6,7 +6,6 @@ organization_website: www.qualityoflifecenterinc.com
 ein: '550896331'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=550896331'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -34,5 +33,7 @@ organization_id_2: '2013159'
 title: 'Quality of Life Center, Inc.'
 uri: /organizations/quality-of-life-center-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
+maker_image_id: '16300'
+maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
 
 ---

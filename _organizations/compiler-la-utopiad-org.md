@@ -6,14 +6,13 @@ organization_website: 'http://utopiad.org/, http://compiler.la'
 ein: '464394783'
 zip: '90013'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/compilerla, https://twitter.com/daveedkapoor'
 instagram: ''
 facebook: 'https://www.facebook.com/CompilerLA?fref=ts'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/KHtt2okRChU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Concerned Capital creates business ownership opportunities for long-term blue
@@ -25,5 +24,6 @@ organization_id_2: '2015044'
 title: 'Compiler LA, Utopiad.org'
 uri: /organizations/compiler-la-utopiad-org/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
+youtube_video_identifier: KHtt2okRChU
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.helperfoundation.org
 ein: '954759013'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954759013'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Public Safety
 twitter: ''
@@ -80,5 +79,7 @@ organization_id_2: '2013086'
 title: H.E.L.P.E.R. Foundation
 uri: /organizations/h-e-l-p-e-r-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
+maker_image_id: '17077'
+maker_image_file_name: Helper_Logo.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: ConantMoran.com
 ein: '461067483'
 zip: '90003'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014020'
 title: Conant Moran Design & Fabrication
 uri: /organizations/conant-moran-design-fabrication/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
+maker_image_id: '20596'
+maker_image_file_name: IMAG0233.jpg
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.schkapf.com
 ein: '464981201'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464981201'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@schkapf'
 instagram: 'http://instagram.com/schkapf'
 facebook: 'https://www.facebook.com/schkapf'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Schkapf incubates Los Angeles performing artists and culturemakers through
@@ -26,5 +25,6 @@ organization_id_2: '2014079'
 title: Schkapf
 uri: /organizations/schkapf/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
+youtube_video_identifier: mei1C43QDXw
 
 ---

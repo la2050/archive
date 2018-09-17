@@ -6,7 +6,6 @@ organization_website: 'http://laforum.org/'
 ein: '954161753'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954161753'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013124'
 title: Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/los-angeles-forum-for-architecture-and-urban-design/
 challenge_url: 'http://maker.good.is/myla2050/projects/stimulateLA.html'
+maker_image_id: '16640'
+maker_image_file_name: game_on_LA2050_resized.jpg
 
 ---

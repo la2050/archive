@@ -6,7 +6,6 @@ organization_website: www.artofactingstudio.com/
 ein: '134112234'
 zip: '90038'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134112234'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/ArtofActingLA
@@ -26,5 +25,7 @@ organization_id_2: '2015014'
 title: Art of Acting Studio
 uri: /organizations/art-of-acting-studio/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
+maker_image_id: '23700'
+maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
 
 ---

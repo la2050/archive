@@ -6,7 +6,6 @@ organization_website: 'http://www.rootdownla.org'
 ein: '954302067'
 zip: '90011'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Youth health, cooking skills, healthy eating habits'
 twitter: www.twitter.com/rootdownla

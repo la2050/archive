@@ -6,7 +6,6 @@ organization_website: 'http://lastagealliance.com/'
 ein: '510183348'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510183348'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@lastagealliance'
@@ -25,5 +24,7 @@ organization_id_2: '2014048'
 title: LA STAGE Alliance
 uri: /organizations/la-stage-alliance/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
+maker_image_id: '22303'
+maker_image_file_name: Faces_Installation.jpg
 
 ---

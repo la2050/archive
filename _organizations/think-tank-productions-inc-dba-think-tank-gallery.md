@@ -6,7 +6,6 @@ organization_website: 'http://thinktank.gallery'
 ein: '300445999'
 zip: '92612'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Social Connectedness: Arts and culture,

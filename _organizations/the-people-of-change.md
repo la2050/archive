@@ -6,7 +6,6 @@ organization_website: '0'
 ein: ''
 zip: '90014'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Education, Income and Employment: Youth, Entrepreneurship, Mentorship, STEM,

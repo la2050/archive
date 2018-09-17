@@ -6,7 +6,6 @@ organization_website: www.bgccarson.org
 ein: '330475452'
 zip: 90810-1652
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330475452'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/BGCofCarson
@@ -27,5 +26,7 @@ organization_id_2: '2015020'
 title: Boys & Girls Clubs of Carson
 uri: /organizations/boys-girls-clubs-of-carson/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'
+maker_image_id: '24078'
+maker_image_file_name: College_Access_Initiative.jpg
 
 ---

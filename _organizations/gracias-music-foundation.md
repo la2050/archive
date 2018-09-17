@@ -6,7 +6,6 @@ organization_website: 'http://graciasmusicfoundation.org'
 ein: '271313830'
 zip: '92123'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271313830'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Social Connectedness: Arts and culture,

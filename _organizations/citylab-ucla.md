@@ -6,14 +6,13 @@ organization_website: 'http://www.cityLAB.aud.ucla.edu'
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+project_image: 'http://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   cityLAB, a research center at UCLAâ€™s School of the Arts and Architecture,
@@ -44,5 +43,6 @@ organization_id_2: '2013035'
 title: cityLAB-UCLA
 uri: /organizations/citylab-ucla/
 challenge_url: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+youtube_video_identifier: T-_qt-Ah9-0
 
 ---

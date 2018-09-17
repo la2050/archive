@@ -6,7 +6,6 @@ organization_website: www.ironboxeducation.com
 ein: '463324164'
 zip: '90016'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/IronboxEdu'
@@ -27,5 +26,7 @@ organization_id_2: '2015096'
 title: 'Ironbox Education, Inc.'
 uri: /organizations/ironbox-education-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
+maker_image_id: '23622'
+maker_image_file_name: ironboxeducationLA2050.jpg
 
 ---

@@ -6,14 +6,13 @@ organization_website: 'http://www.alaseniorliving.org'
 ein: '953301874'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953301874'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
+project_image: 'http://img.youtube.com/vi/FVOqZ9sWi8k/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In the 35 years since ALA was founded, we have helped more than 30,000 seniors
@@ -70,5 +69,6 @@ organization_id_2: '2013004'
 title: Affordable Living for the Aging
 uri: /organizations/affordable-living-for-the-aging/
 challenge_url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
+youtube_video_identifier: FVOqZ9sWi8k
 
 ---

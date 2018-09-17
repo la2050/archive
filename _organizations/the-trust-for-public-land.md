@@ -6,7 +6,6 @@ organization_website: ''
 ein: '237222333'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237222333'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014210'
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
 challenge_url: ''
+maker_image_id: '22632'
+maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.publicmattersgroup.com
 ein: '208027133'
 zip: '90026'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/Pub_Matters'
 instagram: 'https://instagram.com/publicmatters/'
 facebook: www.facebook.com/publicmatters
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Public Matters is a social enterprise—made up of artists, educators, media
@@ -29,5 +28,6 @@ organization_id_2: '2015163'
 title: Public Matters
 uri: /organizations/public-matters/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
+youtube_video_identifier: 1HVZ3rX86M4
 
 ---

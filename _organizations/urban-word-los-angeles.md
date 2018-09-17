@@ -6,14 +6,13 @@ organization_website: www.urbanword.org
 ein: '922748922'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=922748922'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/urbanwordla
 instagram: ''
 facebook: www.facebook.com/urbanword
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Urban Word LA provided diverse platforms for youth to cultivate and share
@@ -24,5 +23,6 @@ organization_id_2: '2015221'
 title: Urban Word Los Angeles
 uri: /organizations/urban-word-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
+youtube_video_identifier: WendT0Sm-Tk
 
 ---

@@ -8,7 +8,6 @@ organization_website: www.santamonicacradletocareer.org
 ein: '956000790'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Brings together community to provide resources for students
 twitter: www.twitter.com/cityofwellbeing
@@ -31,5 +30,7 @@ title: >-
 uri: >-
   /organizations/santa-monica-cradle-to-career-led-by-city-of-santa-monica-in-partnership-with-smmusd/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
+maker_image_id: '23931'
+maker_image_file_name: wordcloud-thrivecenter.png
 
 ---

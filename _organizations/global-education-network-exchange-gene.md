@@ -6,7 +6,6 @@ organization_website: ''
 ein: '270452216'
 zip: '16428'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014145'
 title: Global Education Network Exchange (GENE)
 uri: /organizations/global-education-network-exchange-gene/
 challenge_url: ''
+maker_image_id: '21319'
+maker_image_file_name: GENE_pic.jpg
 
 ---

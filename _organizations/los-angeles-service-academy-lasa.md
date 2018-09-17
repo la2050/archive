@@ -6,7 +6,6 @@ organization_website: 'http://laserviceacademy.org;'
 ein: '951644589'
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Education, Social Connectedness: STEM, Youth, Underserved communities'
 twitter: LASA_ICW

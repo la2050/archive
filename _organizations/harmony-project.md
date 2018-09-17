@@ -6,14 +6,13 @@ organization_website: 'http://www.harmony-project.org/'
 ein: '954856236'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954856236'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
+project_image: 'http://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Harmony Project has won numerous accolades, including the Coming Up Taller
@@ -41,5 +40,6 @@ organization_id_2: '2013088'
 title: Harmony Project
 uri: /organizations/harmony-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
+youtube_video_identifier: zVwm_GRMSHw
 
 ---

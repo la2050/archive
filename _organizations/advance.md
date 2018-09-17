@@ -6,14 +6,13 @@ organization_website: ''
 ein: '461862955'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/AccessJustice.html'
+project_image: 'http://img.youtube.com/vi/d8oxCVYqxhU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ADVANCE is still in its idea stages; however, as mentioned, we have been
@@ -32,5 +31,6 @@ organization_id_2: '2013003'
 title: ADVANCE
 uri: /organizations/advance/
 challenge_url: 'http://maker.good.is/myla2050/projects/AccessJustice.html'
+youtube_video_identifier: d8oxCVYqxhU
 
 ---

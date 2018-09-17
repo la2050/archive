@@ -6,7 +6,6 @@ organization_website: 'http://www.TheConversation.org'
 ein: '954255679'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954255679'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -32,5 +31,7 @@ organization_id_2: '2013133'
 title: Mighty Companions
 uri: /organizations/mighty-companions/
 challenge_url: 'http://maker.good.is/myla2050/projects/sisterblocks.html'
+maker_image_id: '16057'
+maker_image_file_name: mcmenyellowandwhite_final.jpg
 
 ---

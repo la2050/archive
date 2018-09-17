@@ -6,14 +6,13 @@ organization_website: www.consciouscreativity.org
 ein: '908738355'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=908738355'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/f2futurefest.html'
+project_image: 'http://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In 2009 the c3 created a partnership with The Millennium Project
@@ -46,5 +45,6 @@ organization_id_2: '2013024'
 title: 'c3: Center for Conscious Creativity'
 uri: /organizations/c3-center-for-conscious-creativity/
 challenge_url: 'http://maker.good.is/myla2050/projects/f2futurefest.html'
+youtube_video_identifier: n_itMCVl124
 
 ---

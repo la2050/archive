@@ -6,7 +6,6 @@ organization_website: laup.net
 ein: '223902958'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -106,5 +105,7 @@ organization_id_2: '2013118'
 title: LAUP
 uri: /organizations/laup/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'
+maker_image_id: '17061'
+maker_image_file_name: Obama_kids_jobs.jpg
 
 ---

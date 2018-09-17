@@ -6,7 +6,6 @@ organization_website: www.facebook.com/antiguacoffeeroasters
 ein: '568691857'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -45,5 +44,7 @@ organization_id_2: '2013011'
 title: Antigua Coffee House
 uri: /organizations/antigua-coffee-house/
 challenge_url: 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
+maker_image_id: '18718'
+maker_image_file_name: AntiguaSticker.jpg
 
 ---

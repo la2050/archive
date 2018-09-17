@@ -6,14 +6,13 @@ organization_website: 'http://pullias.usc.edu/'
 ein: '951642394'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/collegecapacity.html'
+project_image: 'http://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Pullias Center for Higher Education is dedicated to improving access to
@@ -56,5 +55,6 @@ organization_id_2: '2013158'
 title: Pullias Center for Higher Education
 uri: /organizations/pullias-center-for-higher-education/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegecapacity.html'
+youtube_video_identifier: jGa5KEowRPM
 
 ---

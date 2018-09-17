@@ -6,14 +6,13 @@ organization_website: supportlafd.org
 ein: '272007326'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272007326'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Equipment and training for youth to supplement city resources
 twitter: www.twitter.com/lafdfoundation
 instagram: www.instagram.com/lafdfoundation
 facebook: www.facebook.com/lafdfoundation
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The LAFD Foundation supports the LAFD in protecting life, property, and the
@@ -26,5 +25,6 @@ organization_id_2: '2015123'
 title: Los Angeles Fire Department Foundation
 uri: /organizations/los-angeles-fire-department-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
+youtube_video_identifier: lilCVZW2Ggk
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.foxhillsladera.org
 ein: '270471294'
 zip: '90302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270471294'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: snpfoundation
@@ -25,5 +24,7 @@ organization_id_2: '2014036'
 title: Fox Hills Ladera Healthy Family Association Inc.
 uri: /organizations/fox-hills-ladera-healthy-family-association-inc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
+maker_image_id: '22050'
+maker_image_file_name: imagxxe.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: pedagogicscg.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Education, mentorship, youth, STEM'
 twitter: pedagogicscg

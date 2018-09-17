@@ -6,7 +6,6 @@ organization_website: 'http://bbbsla.org/'
 ein: '951904857'
 zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Social Connectedness, Income and Employment: Underserved youth,

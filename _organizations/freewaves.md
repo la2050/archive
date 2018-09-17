@@ -6,14 +6,13 @@ organization_website: www.out-the-window.org
 ein: '954476207'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954476207'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Freewaves.html'
+project_image: 'http://img.youtube.com/vi/W-ekiTrnYW0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Since its inception 24 years ago as an umbrella organization uniting the
@@ -73,5 +72,6 @@ organization_id_2: '2013074'
 title: Freewaves
 uri: /organizations/freewaves/
 challenge_url: 'http://maker.good.is/myla2050/projects/Freewaves.html'
+youtube_video_identifier: W-ekiTrnYW0
 
 ---

@@ -6,7 +6,6 @@ organization_website: 'http://www.thel4b.com/'
 ein: '452390782'
 zip: '91101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452390782'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'http://twitter.com/labiohackers'
@@ -27,5 +26,7 @@ organization_id_2: '2015210'
 title: 'TheLab, Inc'
 uri: /organizations/thelab-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/thelab.html'
+maker_image_id: '23379'
+maker_image_file_name: LA2050.png
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.pasadenaartscouncil.org
 ein: '95254059'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=95254059'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013152'
 title: Pasadena Arts Council
 uri: /organizations/pasadena-arts-council/
 challenge_url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
+maker_image_id: '16490'
+maker_image_file_name: AxSBrochure_Cover_v2.jpg
 
 ---

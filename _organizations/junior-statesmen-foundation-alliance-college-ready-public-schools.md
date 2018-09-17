@@ -6,7 +6,6 @@ organization_website: www.jsa.org
 ein: '946050452'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=946050452'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/jsajuniorstate
@@ -28,5 +27,7 @@ title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 uri: >-
   /organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
+maker_image_id: '23346'
+maker_image_file_name: 73168.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.college-bridge.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Mentorship, training and development, Youth, college preparedness, education,

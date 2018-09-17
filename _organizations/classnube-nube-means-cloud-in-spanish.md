@@ -6,14 +6,13 @@ organization_website: www.classnube.com
 ein: '474586012'
 zip: '91364'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/classnube
 instagram: ''
 facebook: 'https://www.facebook.com/classnube?ref=hl'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/UYdxlEZVaNA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We make software to help students and teachers learn and teach in truly
@@ -28,5 +27,6 @@ organization_id_2: '2015036'
 title: ClassNube (Nube means Cloud in Spanish)
 uri: /organizations/classnube-nube-means-cloud-in-spanish/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
+youtube_video_identifier: UYdxlEZVaNA
 
 ---

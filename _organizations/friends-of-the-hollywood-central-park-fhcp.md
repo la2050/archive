@@ -6,14 +6,13 @@ organization_website: hollywoodcentralpark.org
 ein: '264236328'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264236328'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/HwoodCapPark
 instagram: ''
 facebook: www.facebook.com/FriendsOfTheHollywoodCentralPark
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   FHCP will build a 38-acre Hollywood Central Park by decking one mile of US 101
@@ -26,5 +25,6 @@ organization_id_2: '2015068'
 title: Friends of the Hollywood Central Park (FHCP)
 uri: /organizations/friends-of-the-hollywood-central-park-fhcp/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
+youtube_video_identifier: t_fQo1Z6VSg
 
 ---

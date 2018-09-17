@@ -6,7 +6,6 @@ organization_website: 'http://www.uniqueusa.com'
 ein: '10973080'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -47,5 +46,7 @@ organization_id_2: '2013205'
 title: UNIQUE LA
 uri: /organizations/unique-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
+maker_image_id: '17068'
+maker_image_file_name: LA2050.jpg
 
 ---

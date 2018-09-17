@@ -6,7 +6,6 @@ organization_website: www.aridlands.org
 ein: '954589325'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954589325'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Public Transit, Public Space, Water conservation'
 twitter: www.twitter.com/@connectthedotsla
@@ -27,5 +26,7 @@ organization_id_2: '2015045'
 title: Connect the Dots LA
 uri: /organizations/connect-the-dots-la/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
+maker_image_id: '24151'
+maker_image_file_name: CtD_2050_Image_2.jpg
 
 ---

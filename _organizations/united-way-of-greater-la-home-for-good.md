@@ -6,14 +6,13 @@ organization_website: 'HTTP://WWW.HOMEFORGOODLA.ORG'
 ein: '952274801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/SkidRow100.html'
+project_image: 'http://img.youtube.com/vi/Sq1MDbnR1wg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Two years ago, United Way worked with the Business Leaders Task Force to
@@ -94,5 +93,6 @@ organization_id_2: '2013206'
 title: United Way of Greater LA (Home For Good)
 uri: /organizations/united-way-of-greater-la-home-for-good/
 challenge_url: 'http://maker.good.is/myla2050/projects/SkidRow100.html'
+youtube_video_identifier: Sq1MDbnR1wg
 
 ---

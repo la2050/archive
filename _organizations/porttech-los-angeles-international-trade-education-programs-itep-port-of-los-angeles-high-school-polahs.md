@@ -8,14 +8,13 @@ organization_website: www.porttechla.org
 ein: '800363808'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800363808'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLAHS
 instagram: ''
 facebook: www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   PortTech connects entrepreneurs, industry and community to advance innovation,
@@ -29,5 +28,6 @@ title: >-
 uri: >-
   /organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
+youtube_video_identifier: zmZJYC2WFVk
 
 ---

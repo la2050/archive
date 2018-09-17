@@ -6,14 +6,13 @@ organization_website: 'http://dreamresourcecenter.org/'
 ein: '952250801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Dream.html'
+project_image: 'http://img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In the last several years, the UCLA Labor Center has emerged as a national
@@ -48,5 +47,6 @@ organization_id_2: '2013202'
 title: UCLA Labor Center
 uri: /organizations/ucla-labor-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/Dream.html'
+youtube_video_identifier: Yogg_bV8Dew
 
 ---

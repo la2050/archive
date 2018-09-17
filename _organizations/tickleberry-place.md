@@ -6,7 +6,6 @@ organization_website: tickleberryplace.com
 ein: '465040951'
 zip: '90008'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: tickleberryfun

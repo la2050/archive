@@ -6,14 +6,13 @@ organization_website: ''
 ein: '954773654'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954773654'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Gabriella Foundation provides in-school and after-school dance instruction
@@ -24,5 +23,6 @@ organization_id_2: '2014201'
 title: The Gabriella Foundation
 uri: /organizations/the-gabriella-foundation/
 challenge_url: ''
+youtube_video_identifier: TlilAMszJEs
 
 ---

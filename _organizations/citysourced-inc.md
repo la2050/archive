@@ -6,7 +6,6 @@ organization_website: 'http://www.citysourced.com'
 ein: '271272815'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -58,5 +57,7 @@ organization_id_2: '2013037'
 title: 'CitySourced, Inc.'
 uri: /organizations/citysourced-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
+maker_image_id: '16434'
+maker_image_file_name: SplashScreenImageCrimeReporter.png
 
 ---

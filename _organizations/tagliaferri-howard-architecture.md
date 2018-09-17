@@ -6,7 +6,6 @@ organization_website: 'http://www.tharchitecture.com/'
 ein: '472358063'
 zip: '90066'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: NA
@@ -27,5 +26,7 @@ organization_id_2: '2015194'
 title: Tagliaferri Howard Architecture
 uri: /organizations/tagliaferri-howard-architecture/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html'
+maker_image_id: '23805'
+maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 
 ---

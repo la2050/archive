@@ -6,7 +6,6 @@ organization_website: www.aplusd.org
 ein: '481269978'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/aplusd_la
@@ -26,5 +25,7 @@ organization_id_2: '2015012'
 title: Architecture and Design Museum (A+D)
 uri: /organizations/architecture-and-design-museum-a-d/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
+maker_image_id: '23861'
+maker_image_file_name: AplusD-ReveaLALA.jpg
 
 ---

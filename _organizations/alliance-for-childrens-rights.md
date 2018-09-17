@@ -6,7 +6,6 @@ organization_website: www.kids-alliance.org
 ein: '954358213'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954358213'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/kidalliance
@@ -27,5 +26,7 @@ organization_id_2: '2015006'
 title: Alliance for Children's Rights
 uri: /organizations/alliance-for-childrens-rights/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
+maker_image_id: '24082'
+maker_image_file_name: Page_6_Behind_the_scenes.JPG
 
 ---

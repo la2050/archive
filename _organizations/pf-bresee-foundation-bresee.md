@@ -6,14 +6,13 @@ organization_website: www.bresee.org
 ein: '953797363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953797363'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Bresee.html'
+project_image: 'http://img.youtube.com/vi/_3B75bmN3Lo/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   <p>Some of Bresee's most important achievements to date include:</p>
@@ -68,5 +67,6 @@ organization_id_2: '2013154'
 title: PF Bresee Foundation (Bresee)
 uri: /organizations/pf-bresee-foundation-bresee/
 challenge_url: 'http://maker.good.is/myla2050/projects/Bresee.html'
+youtube_video_identifier: _3B75bmN3Lo
 
 ---

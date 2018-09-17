@@ -6,7 +6,6 @@ organization_website: www.brioxy.com
 ein: We are fiscally sponsored
 zip: '90012'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Social Connectedness: Arts and culture,

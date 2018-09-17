@@ -6,14 +6,13 @@ organization_website: www.LAMITopSail.org
 ein: '330515416'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330515416'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/lami_topsail
 instagram: www.instagram.com/tallshipschool
 facebook: www.facebook.com/lami.topsail
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We empower youth to discover their greater potential through extraordinary
@@ -26,5 +25,6 @@ organization_id_2: '2015125'
 title: Los Angeles Maritime Institute
 uri: /organizations/los-angeles-maritime-institute/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
+youtube_video_identifier: m_0WUOFanyM
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.crayoncollection.org
 ein: '463314343'
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463314343'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Arts and Cultural Vitality, Environmental Quality: Arts and

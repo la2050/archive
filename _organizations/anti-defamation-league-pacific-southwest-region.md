@@ -6,14 +6,13 @@ organization_website: ''
 ein: '131818723'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=131818723'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/3KyvlMJefR4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ADL fights anti-Semitism and all forms of bigotry, defends democratic ideals
@@ -24,5 +23,6 @@ organization_id_2: '2014113'
 title: Anti-Defamation League - Pacific Southwest Region
 uri: /organizations/anti-defamation-league-pacific-southwest-region/
 challenge_url: ''
+youtube_video_identifier: 3KyvlMJefR4
 
 ---

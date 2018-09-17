@@ -6,7 +6,6 @@ organization_website: www.reDiscoverCenter.org
 ein: '200192617'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200192617'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013162'
 title: reDiscover Center
 uri: /organizations/rediscover-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/Innovate.html'
+maker_image_id: '16706'
+maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
 
 ---

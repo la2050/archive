@@ -6,7 +6,6 @@ organization_website: www.everyoneon.org
 ein: '454868462'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454868462'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Social Connectedness: Digital equity, Digital divide, Underserved

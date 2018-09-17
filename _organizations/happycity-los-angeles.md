@@ -6,14 +6,13 @@ organization_website: 'http://www.happycity.us/'
 ein: '472219458'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472219458'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Bring together communities through nutrion (Vision 80)
 twitter: 'https://twitter.com/happycityus'
 instagram: ''
 facebook: 'https://www.facebook.com/happycity.us'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/EJWQ6cYZBCk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   HappyCity is committed to helping communities reach their goal of Vision 80 --
@@ -28,5 +27,6 @@ organization_id_2: '2015079'
 title: HappyCity Los Angeles
 uri: /organizations/happycity-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
+youtube_video_identifier: EJWQ6cYZBCk
 
 ---

@@ -6,14 +6,13 @@ organization_website: 'http://www.theimaginedfutures.org'
 ein: '471442056'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471442056'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/IFLosAngeles
 instagram: 'http://instagram.com/theimaginedfutures'
 facebook: 'https://www.facebook.com/TheImaginedFutures'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/KofWk5qh3jE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Imagined Futures wants Angelenos to immersively interact with technology &
@@ -26,5 +25,6 @@ organization_id_2: '2014096'
 title: The Project for The Imagined Futures
 uri: /organizations/the-project-for-the-imagined-futures/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
+youtube_video_identifier: KofWk5qh3jE
 
 ---

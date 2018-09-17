@@ -6,7 +6,6 @@ organization_website: www.urbanair.is
 ein: '263261159'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''

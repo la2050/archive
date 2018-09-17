@@ -6,7 +6,6 @@ organization_website: 'http://www.educatingyoungminds.org'
 ein: '954489511'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954489511'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -72,5 +71,7 @@ organization_id_2: '2013056'
 title: Educating Young Minds
 uri: /organizations/educating-young-minds/
 challenge_url: 'http://maker.good.is/myla2050/projects/access.html'
+maker_image_id: '16514'
+maker_image_file_name: eym_apple.JPG
 
 ---

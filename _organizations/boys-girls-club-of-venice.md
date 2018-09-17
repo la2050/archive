@@ -6,14 +6,13 @@ organization_website: 'http://www.bgcv.org'
 ein: '956209203'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956209203'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/BGCVenice.html'
+project_image: 'http://img.youtube.com/vi/kovLXgjjpp0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Boys & Girls Club of Venice was established in 1968 as a VISTA project on
@@ -79,5 +78,6 @@ organization_id_2: '2013021'
 title: Boys & Girls Club of Venice
 uri: /organizations/boys-girls-club-of-venice/
 challenge_url: 'http://maker.good.is/myla2050/projects/BGCVenice.html'
+youtube_video_identifier: kovLXgjjpp0
 
 ---

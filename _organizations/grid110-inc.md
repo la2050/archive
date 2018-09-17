@@ -6,7 +6,6 @@ organization_website: 'http://www.grid110.org'
 ein: '474318779'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Income and Employment, Education: Entrepreneurship, Technology, Digital

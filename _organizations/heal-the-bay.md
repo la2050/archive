@@ -6,14 +6,13 @@ organization_website: www.healthebay.org
 ein: '954031055'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954031055'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/healthebay'
 instagram: 'https://instagram.com/healthebay/'
 facebook: 'https://www.facebook.com/HealtheBay/'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Heal the Bay is a nonprofit environmental organization making Southern
@@ -27,5 +26,6 @@ organization_id_2: '2015083'
 title: Heal the Bay
 uri: /organizations/heal-the-bay/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
+youtube_video_identifier: SC6HYm8Zp7M
 
 ---

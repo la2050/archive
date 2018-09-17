@@ -6,7 +6,6 @@ organization_website: 'http://www.lamasterchorale.org'
 ein: '952315682'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952315682'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Social Connectedness: Arts and culture, Public

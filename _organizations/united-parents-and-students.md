@@ -6,7 +6,6 @@ organization_website: 'http://unitedparentsandstudents.org/'
 ein: '813413763'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Social Connectedness, Income and Employment: Underserved communities, Policy,

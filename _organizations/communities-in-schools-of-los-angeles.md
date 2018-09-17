@@ -6,14 +6,13 @@ organization_website: www.cislosangeles.org
 ein: '473675225'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473675225'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/cislosangeles
 instagram: www.instagram.com/cislosangeles
 facebook: www.facebook.com/cisoflosangeles
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Compiler LA uses informed design, technology, and data to make Los Angeles a
@@ -26,5 +25,6 @@ organization_id_2: '2015043'
 title: Communities In Schools of Los Angeles
 uri: /organizations/communities-in-schools-of-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
+youtube_video_identifier: 8RfGcPRl--8
 
 ---

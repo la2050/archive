@@ -6,7 +6,6 @@ organization_website: ''
 ein: '953889152'
 zip: '90670'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953889152'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2014158'
 title: Interfaith Food Center
 uri: /organizations/interfaith-food-center/
 challenge_url: ''
+maker_image_id: '20849'
+maker_image_file_name: NEW_IFCLOGO.jpg
 
 ---

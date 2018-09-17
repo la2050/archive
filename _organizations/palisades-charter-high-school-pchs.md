@@ -6,14 +6,13 @@ organization_website: www.pchs.org
 ein: '92184898'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=92184898'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/palicharterhigh
 instagram: ''
 facebook: www.facebook.com/palihigh
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   PCHS, a public charter high school serving over 2900 students from 100+ zip
@@ -26,5 +25,6 @@ organization_id_2: '2015149'
 title: Palisades Charter High School (PCHS)
 uri: /organizations/palisades-charter-high-school-pchs/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
+youtube_video_identifier: XUlv1Zd4JZU
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.venicepopuppark.com
 ein: '455593632'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455593632'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/hashtag/venicepopuppark'
@@ -26,5 +25,7 @@ organization_id_2: '2015209'
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 uri: /organizations/the-venice-place-project-tedxvenicebeach-72andsunny/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
+maker_image_id: '23850'
+maker_image_file_name: IMG_9355.JPG
 
 ---

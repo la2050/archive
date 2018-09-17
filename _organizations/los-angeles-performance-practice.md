@@ -6,7 +6,6 @@ organization_website: www.LosAngelesPerformancePractice.org
 ein: '272756584'
 zip: '90027'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: twitter.com/LAPerformance
@@ -25,5 +24,7 @@ organization_id_2: '2014056'
 title: Los Angeles Performance Practice
 uri: /organizations/los-angeles-performance-practice/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
+maker_image_id: '21753'
+maker_image_file_name: Shank_130920_453.jpg
 
 ---

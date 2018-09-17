@@ -6,7 +6,6 @@ organization_website: 'synaccord.com,synaccord.com/citydemo'
 ein: '47448496'
 zip: '0'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Social Connectedness: Underserved communities, Neighborhood councils,

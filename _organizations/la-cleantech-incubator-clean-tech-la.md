@@ -6,14 +6,13 @@ organization_website: 'http://laincubator.org'
 ein: '454998717'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454998717'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/LACI.html'
+project_image: 'http://img.youtube.com/vi/f2SXn1p3d4I/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>CTLA: Created by the Mayor in 2009, CTLA is partnership of the regionâ€™s
@@ -34,5 +33,6 @@ organization_id_2: '2013113'
 title: LA Cleantech Incubator / Clean Tech LA
 uri: /organizations/la-cleantech-incubator-clean-tech-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACI.html'
+youtube_video_identifier: f2SXn1p3d4I
 
 ---

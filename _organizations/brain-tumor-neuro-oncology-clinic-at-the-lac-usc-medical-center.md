@@ -6,7 +6,6 @@ organization_website: 'http://www.lacusc.org/'
 ein: '956000927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
@@ -54,5 +53,7 @@ title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 uri: >-
   /organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
+maker_image_id: '16042'
+maker_image_file_name: BRAINCANCERLA2050.jpg
 
 ---

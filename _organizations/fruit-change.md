@@ -6,7 +6,6 @@ organization_website: 'http://www.fruitchange.com/'
 ein: '475229978'
 zip: '90731'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/fruitchange
@@ -26,5 +25,7 @@ organization_id_2: '2015070'
 title: Fruit Change
 uri: /organizations/fruit-change/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
+maker_image_id: '23782'
+maker_image_file_name: IMG_7734.jpeg
 
 ---

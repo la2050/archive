@@ -6,14 +6,13 @@ organization_website: www.larivercorp.com
 ein: '272245545'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
+project_image: 'http://img.youtube.com/vi/7so4eDfFRws/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>The L.A. River is at the heart of our vision is to make Los Angeles a
@@ -78,5 +77,6 @@ organization_id_2: '2013110'
 title: L.A. River Revitalization Corporation
 uri: /organizations/l-a-river-revitalization-corporation/
 challenge_url: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
+youtube_video_identifier: 7so4eDfFRws
 
 ---

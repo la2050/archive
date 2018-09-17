@@ -6,14 +6,13 @@ organization_website: www.la2015.org
 ein: '452853870'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452853870'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/LosAngeles2015'
 instagram: 'http://instagram.com/la2015worldgames'
 facebook: www.facebook.com/LA2015
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LA2015 celebrates the abilities of the intellectually disabled population by
@@ -26,5 +25,6 @@ organization_id_2: '2014084'
 title: Special Olympics World Games 2015
 uri: /organizations/special-olympics-world-games-2015/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
+youtube_video_identifier: DMG32xJ5p-Q
 
 ---

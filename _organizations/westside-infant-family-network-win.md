@@ -6,14 +6,13 @@ organization_website: ''
 ein: '274018980'
 zip: '90230'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274018980'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/4svMiNJ-HL0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We bring high-quality psychotherapy and integrated basic services into
@@ -24,5 +23,6 @@ organization_id_2: '2014225'
 title: Westside Infant-Family Network (WIN)
 uri: /organizations/westside-infant-family-network-win/
 challenge_url: ''
+youtube_video_identifier: 4svMiNJ-HL0
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.mediadoneresponsibly.org
 ein: '952540759'
 zip: '90101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/mediadoneresp
 instagram: ''
 facebook: www.facebook.com/mediadoneresponsibly
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/H107Gy4bTFs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Media Done Responsibly is a media leadership program providing healthy media
@@ -27,5 +26,6 @@ organization_id_2: '2015135'
 title: Media Done Responsibly c/o Pasadena Arts Council
 uri: /organizations/media-done-responsibly-c-o-pasadena-arts-council/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
+youtube_video_identifier: H107Gy4bTFs
 
 ---

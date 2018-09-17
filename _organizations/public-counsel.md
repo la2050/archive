@@ -6,7 +6,6 @@ organization_website: www.publiccounsel.org
 ein: '237105149'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237105149'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
@@ -68,5 +67,7 @@ organization_id_2: '2013157'
 title: Public Counsel
 uri: /organizations/public-counsel/
 challenge_url: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
+maker_image_id: '16677'
+maker_image_file_name: Holiday_Venice_Apartments.jpg
 
 ---

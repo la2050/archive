@@ -6,14 +6,13 @@ organization_website: 'http://www.sustainableworks.org'
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/sustainableworks.html'
+project_image: 'http://img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since 1998, Sustainable Works has educated over 4,000 residents and instructed
@@ -27,5 +26,6 @@ organization_id_2: '2013177'
 title: Sustainable Works a Project of Community Partners
 uri: /organizations/sustainable-works-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'
+youtube_video_identifier: q0_2OnUiDiU
 
 ---

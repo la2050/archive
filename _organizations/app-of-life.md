@@ -6,7 +6,6 @@ organization_website: 'http://appoflife.com'
 ein: '471275838'
 zip: '0'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@App_of_Life'
@@ -27,5 +26,7 @@ organization_id_2: '2014007'
 title: App of Life
 uri: /organizations/app-of-life/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
+maker_image_id: '22052'
+maker_image_file_name: LA2050-image-4.jpg
 
 ---

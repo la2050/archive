@@ -6,14 +6,13 @@ organization_website: www.veniceartcrawl.com
 ein: '956419214'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956419214'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
+project_image: 'http://img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Venice Art Crawl has been around for more than two years now and has
@@ -35,5 +34,6 @@ organization_id_2: '2013213'
 title: Venice Art Crawl
 uri: /organizations/venice-art-crawl/
 challenge_url: 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
+youtube_video_identifier: U3BkXd4ano4
 
 ---

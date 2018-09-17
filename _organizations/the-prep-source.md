@@ -6,7 +6,6 @@ organization_website: ''
 ein: '470992851'
 zip: '90089'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014208'
 title: The Prep Source
 uri: /organizations/the-prep-source/
 challenge_url: ''
+maker_image_id: '20755'
+maker_image_file_name: The_Prep_Source_Resume_Workshop.png
 
 ---

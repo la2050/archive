@@ -6,7 +6,6 @@ organization_website: www.educators4excellence.org
 ein: '273382030'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273382030'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: Ed4Excellence

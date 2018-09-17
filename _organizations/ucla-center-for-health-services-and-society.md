@@ -6,7 +6,6 @@ organization_website: 'http://hss.semel.ucla.edu'
 ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Health, Social Connectedness: Mental health care, Underserved communities,

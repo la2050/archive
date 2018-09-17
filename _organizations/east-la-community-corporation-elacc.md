@@ -6,7 +6,6 @@ organization_website: 'www.elacc.org,www.lurnetwork.org,www.goodfoodla.org,www.p
 ein: '954531076'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954531076'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Income and Employment, Arts and Cultural Vitality: Street vendors, Small

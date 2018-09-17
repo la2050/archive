@@ -6,7 +6,6 @@ organization_website: 'http://www.carecen-la.org/'
 ein: '953867724'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953867724'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -40,5 +39,7 @@ organization_id_2: '2013029'
 title: CARECEN (Central American Resource Center)
 uri: /organizations/carecen-central-american-resource-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegeheadstart.html'
+maker_image_id: '16608'
+maker_image_file_name: collegeheadstart1.jpg
 
 ---

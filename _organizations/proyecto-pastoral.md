@@ -6,7 +6,6 @@ organization_website: proyectopastoral.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Education, career readinesss, youth, children, parents'
 twitter: '@ProyectoNews'

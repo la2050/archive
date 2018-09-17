@@ -6,7 +6,6 @@ organization_website: www.calfund.org/bloom
 ein: '953510055'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953510055'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013027'
 title: California Community Foundation (CCF)
 uri: /organizations/california-community-foundation-ccf/
 challenge_url: 'http://maker.good.is/myla2050/projects/BLOOM.html'
+maker_image_id: '16109'
+maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
 
 ---

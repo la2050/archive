@@ -6,14 +6,13 @@ organization_website: ''
 ein: '272807367'
 zip: '10010'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   General Assembly delivers best-in-class practical education in technology,
@@ -24,5 +23,6 @@ organization_id_2: '2014144'
 title: General Assembly Opportunity Fund
 uri: /organizations/general-assembly-opportunity-fund/
 challenge_url: ''
+youtube_video_identifier: CMmY955jD5A
 
 ---

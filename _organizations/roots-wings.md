@@ -6,7 +6,6 @@ organization_website: rootsnwings.org
 ein: '821894269'
 zip: '90017'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Education, Health: Mental health care, Youth, Children'
 twitter: '0'

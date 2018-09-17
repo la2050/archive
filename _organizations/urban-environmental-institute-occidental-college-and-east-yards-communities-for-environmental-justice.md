@@ -8,7 +8,6 @@ organization_website: www.oxy.edu/uepi www.eycej.org
 ein: '951667177'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/uepi www.twitter.com/ejcej
@@ -33,5 +32,7 @@ title: >-
 uri: >-
   /organizations/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
+maker_image_id: '23743'
+maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 
 ---

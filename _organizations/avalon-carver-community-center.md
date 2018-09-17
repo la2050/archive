@@ -6,7 +6,6 @@ organization_website: avalon-carver.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'STEM, education, career readiness, children, youth, mentorship'
 twitter: avaloncarvercc

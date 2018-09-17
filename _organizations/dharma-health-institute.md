@@ -6,14 +6,13 @@ organization_website: www.dharmahealthinstitute.com
 ein: '954116679'
 zip: '90036'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Lifelong wellness, physical/mental wellbeing'
 twitter: 'https://twitter.com/DharmaHealthLA'
 instagram: www.instagram.com/dharmahealthinstitute
 facebook: www.facebook.com/dharmahealthinstitute
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   DIY Girls’ mission is to increase girls’ interest in technology, engineering
@@ -26,5 +25,6 @@ organization_id_2: '2015048'
 title: Dharma Health Institute
 uri: /organizations/dharma-health-institute/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
+youtube_video_identifier: yP9QgOVBaYA
 
 ---

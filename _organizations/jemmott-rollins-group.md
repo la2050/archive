@@ -6,7 +6,6 @@ organization_website: 'http://www.jemmottrollinsgroup.net'
 ein: '680530628'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -75,5 +74,7 @@ organization_id_2: '2013100'
 title: Jemmott Rollins Group
 uri: /organizations/jemmott-rollins-group/
 challenge_url: 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'
+maker_image_id: '16877'
+maker_image_file_name: LA2050_JRG.jpg
 
 ---

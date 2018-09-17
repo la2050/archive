@@ -6,7 +6,6 @@ organization_website: www.MentorMint.com
 ein: '473621424'
 zip: '90089'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/MentorMint
@@ -27,5 +26,7 @@ organization_id_2: '2015137'
 title: MentorMint
 uri: /organizations/mentormint/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
+maker_image_id: '23218'
+maker_image_file_name: Cabrillo_High_School_Campus.JPG
 
 ---

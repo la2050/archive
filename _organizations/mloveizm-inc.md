@@ -6,14 +6,13 @@ organization_website: 'http://www.mloveizm.com'
 ein: '452495405'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/mloveizm.html'
+project_image: 'http://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   From working, guiding, promoting, encouraging and teaching artists, we have
@@ -30,5 +29,6 @@ organization_id_2: '2013137'
 title: MLoveizm Inc.
 uri: /organizations/mloveizm-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'
+youtube_video_identifier: Q4dC-OX4vTw
 
 ---

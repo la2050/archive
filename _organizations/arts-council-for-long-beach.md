@@ -6,14 +6,13 @@ organization_website: 'http://www.artslb.org/'
 ein: '953038398'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953038398'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/ALOT.html'
+project_image: 'http://img.youtube.com/vi/nPa4Lu7CMPA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Recipient of the National Endowment for the Arts Our Town Grant for $150,000.
@@ -31,5 +30,6 @@ organization_id_2: '2013015'
 title: Arts Council for Long Beach
 uri: /organizations/arts-council-for-long-beach/
 challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'
+youtube_video_identifier: nPa4Lu7CMPA
 
 ---

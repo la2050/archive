@@ -6,14 +6,13 @@ organization_website: www.MaternalMentalHealthLA.org
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/SpeakUp.html'
+project_image: 'http://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Los Angeles County Perinatal Mental Health Task Force was founded in
@@ -67,5 +66,6 @@ organization_id_2: '2013123'
 title: Los Angeles County Perinatal Mental Health Task Force
 uri: /organizations/los-angeles-county-perinatal-mental-health-task-force/
 challenge_url: 'http://maker.good.is/myla2050/projects/SpeakUp.html'
+youtube_video_identifier: Xoof6-2YZ_U
 
 ---

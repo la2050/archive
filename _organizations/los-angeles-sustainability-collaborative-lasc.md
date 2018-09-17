@@ -6,7 +6,6 @@ organization_website: ''
 ein: '10967139'
 zip: '91302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=10967139'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014171'
 title: Los Angeles Sustainability Collaborative (LASC)
 uri: /organizations/los-angeles-sustainability-collaborative-lasc/
 challenge_url: ''
+maker_image_id: '22723'
+maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
 
 ---

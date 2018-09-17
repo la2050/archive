@@ -6,14 +6,13 @@ organization_website: 'http://www.advancementprojectca.org'
 ein: '954835230'
 zip: 90026-3291
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954835230'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/AP_California
 instagram: ''
 facebook: www.facebook.com/AdvancementProjectCA
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Advancement Project champions greater equity for all, fostering upward
@@ -26,5 +25,6 @@ organization_id_2: '2014003'
 title: Advancement Project California
 uri: /organizations/advancement-project-california/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
+youtube_video_identifier: nt_fnRYCyhI
 
 ---

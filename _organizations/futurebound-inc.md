@@ -6,7 +6,6 @@ organization_website: ''
 ein: '464431156'
 zip: '90505'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014143'
 title: 'FutureBound, Inc.'
 uri: /organizations/futurebound-inc/
 challenge_url: ''
+maker_image_id: '21609'
+maker_image_file_name: FutureBoundKids_w_Logo.jpg
 
 ---

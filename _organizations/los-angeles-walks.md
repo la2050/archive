@@ -6,14 +6,13 @@ organization_website: 'http://www.losangeleswalks.org/'
 ein: '954845170'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/LAwalks.html'
+project_image: 'http://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Deborah Murphy, a native Angeleno, founded Los Angeles Walks in 1998 after
@@ -84,5 +83,6 @@ organization_id_2: '2013126'
 title: Los Angeles Walks
 uri: /organizations/los-angeles-walks/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAwalks.html'
+youtube_video_identifier: hHXkL2SbXI8
 
 ---

@@ -6,14 +6,13 @@ organization_website: 'http://www.artsharela.org'
 ein: '954660373'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954660373'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/artsharela.html'
+project_image: 'http://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   For over a decade, Art Share L.A. has provided 30-affordable live/work units
@@ -50,5 +49,6 @@ organization_id_2: '2013014'
 title: Art Share L.A.
 uri: /organizations/art-share-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/artsharela.html'
+youtube_video_identifier: w8o0x9VRbvE
 
 ---

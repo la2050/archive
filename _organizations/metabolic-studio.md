@@ -6,14 +6,13 @@ organization_website: ''
 ein: '261878892'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261878892'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Metabolic Studio transforms nutrients into energy, actions, and objects
@@ -24,5 +23,6 @@ organization_id_2: '2014176'
 title: Metabolic Studio
 uri: /organizations/metabolic-studio/
 challenge_url: ''
+youtube_video_identifier: g8ndzuZ3kKM
 
 ---

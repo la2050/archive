@@ -6,14 +6,13 @@ organization_website: 'http://www.insightla.org/'
 ein: '841713927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841713927'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Health
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+project_image: 'http://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We have trained more than 10,000 individual students in mindfulness. We have
@@ -35,5 +34,6 @@ organization_id_2: '2013097'
 title: InsightLA
 uri: /organizations/insightla/
 challenge_url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+youtube_video_identifier: lLS50WusJa4
 
 ---

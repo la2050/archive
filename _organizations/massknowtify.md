@@ -6,14 +6,13 @@ organization_website: 'http://www.massknowtify.com'
 ein: '463345611'
 zip: '90049'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'http://www.twitter.com/MassKnowtify'
 instagram: ''
 facebook: 'http://www.facebook.com/MassKnowtify'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We provide a location-based alerting platform connecting citizens everywhere
@@ -26,5 +25,6 @@ organization_id_2: '2014057'
 title: MassKnowtify
 uri: /organizations/massknowtify/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
+youtube_video_identifier: ql6hxsjKMCQ
 
 ---

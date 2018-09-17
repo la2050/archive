@@ -6,7 +6,6 @@ organization_website: www.thankyouforcoming.la
 ein: '460661052'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
@@ -60,5 +59,7 @@ organization_id_2: '2013181'
 title: Thank You For Coming
 uri: /organizations/thank-you-for-coming/
 challenge_url: 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
+maker_image_id: '16835'
+maker_image_file_name: kitchen2.jpg
 
 ---

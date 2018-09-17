@@ -6,7 +6,6 @@ organization_website: www.kcet.org
 ein: '952211661'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013103'
 title: KCETLink
 uri: /organizations/kcetlink/
 challenge_url: 'http://maker.good.is/myla2050/projects/Artbound.html'
+maker_image_id: '16921'
+maker_image_file_name: artbound_logo.jpg
 
 ---

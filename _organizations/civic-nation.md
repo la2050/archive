@@ -6,7 +6,6 @@ organization_website: civicnation.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Educaiton, publis safety, social connectedness, womens advocacy, crime,'
 twitter: '@civicnation'

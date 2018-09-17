@@ -6,7 +6,6 @@ organization_website: www.aadapinc.org
 ein: '952848695'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952848695'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -30,5 +29,7 @@ organization_id_2: '2013018'
 title: 'Asian American Drug Abuse Program, Inc'
 uri: /organizations/asian-american-drug-abuse-program-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
+maker_image_id: '17043'
+maker_image_file_name: School_Based_Mentoring.jpg
 
 ---

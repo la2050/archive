@@ -6,7 +6,6 @@ organization_website: ''
 ein: '465641508'
 zip: '93021'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014153'
 title: Ignite Teaching
 uri: /organizations/ignite-teaching/
 challenge_url: ''
+maker_image_id: '20940'
+maker_image_file_name: la2050.png
 
 ---

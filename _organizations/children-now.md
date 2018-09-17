@@ -6,7 +6,6 @@ organization_website: www.childrennow.org
 ein: '943059243'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943059243'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Education, Social Connectedness: Children, Underserved youth, Youth'
 twitter: '@ChildrenNow'

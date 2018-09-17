@@ -6,7 +6,6 @@ organization_website: 'http://lamakerspace.com'
 ein: '522237551'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522237551'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -62,5 +61,7 @@ organization_id_2: '2013125'
 title: Los Angeles Makerspace
 uri: /organizations/los-angeles-makerspace/
 challenge_url: 'http://maker.good.is/myla2050/projects/lamakerspace.html'
+maker_image_id: '16174'
+maker_image_file_name: LAM_Robots.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.all4kids.org
 ein: '951690975'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951690975'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/childrenbureau
@@ -26,5 +25,7 @@ organization_id_2: '2015032'
 title: Children's Bureau of Southern California
 uri: /organizations/childrens-bureau-of-southern-california/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
+maker_image_id: '23775'
+maker_image_file_name: CB_Logo.jpg
 
 ---

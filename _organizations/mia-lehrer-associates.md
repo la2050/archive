@@ -6,14 +6,13 @@ organization_website: www.mlagreen.com
 ein: '270903202'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/urbanforest.html'
+project_image: 'http://img.youtube.com/vi/9xQP6vGylgE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We have a history of partnering with non-profit organizations that are focused
@@ -167,5 +166,6 @@ organization_id_2: '2013132'
 title: Mia Lehrer + Associates
 uri: /organizations/mia-lehrer-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanforest.html'
+youtube_video_identifier: 9xQP6vGylgE
 
 ---

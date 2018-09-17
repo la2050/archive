@@ -6,7 +6,6 @@ organization_website: ''
 ein: N/A
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=N/A'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -36,5 +35,7 @@ organization_id_2: '2013051'
 title: Dear Los Angeles
 uri: /organizations/dear-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
+maker_image_id: '16214'
+maker_image_file_name: IMG_1031.JPG
 
 ---

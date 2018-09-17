@@ -6,7 +6,6 @@ organization_website: www.ucla.edu
 ein: '956006143'
 zip: 90095-1656
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/UCLALuskin'
@@ -27,5 +26,7 @@ organization_id_2: '2015216'
 title: UCLA
 uri: /organizations/ucla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
+maker_image_id: '23820'
+maker_image_file_name: TIER.jpg
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.hollywoodcurling.org
 ein: '262477682'
 zip: '91409'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262477682'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/HollywoodCurl'
 instagram: 'https://instagram.com/hollywoodcurl/'
 facebook: www.facebook.com/hollywoodcurling
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are the only place in Los Angeles to participate in the Olympic sport of
@@ -28,5 +27,6 @@ organization_id_2: '2015086'
 title: Hollywood Curling
 uri: /organizations/hollywood-curling/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
+youtube_video_identifier: 3ceZFpvVVU0
 
 ---

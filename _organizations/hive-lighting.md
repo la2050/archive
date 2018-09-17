@@ -6,14 +6,13 @@ organization_website: www.hivelighting.com
 ein: '800696339'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Public Safety
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
+project_image: 'http://img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Hive Lighting is a Los Angeles based specialty lighting design, manufacturing
@@ -26,5 +25,6 @@ organization_id_2: '2013090'
 title: Hive Lighting
 uri: /organizations/hive-lighting/
 challenge_url: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
+youtube_video_identifier: fmzJcYDzdUw
 
 ---

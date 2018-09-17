@@ -6,7 +6,6 @@ organization_website: 'http://www.usvetsinc.org'
 ein: '954382752'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954382752'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
@@ -36,5 +35,7 @@ organization_id_2: '2013200'
 title: U.S. VETS - Los Angeles
 uri: /organizations/u-s-vets-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/housevets.html'
+maker_image_id: '17006'
+maker_image_file_name: WestsideONE.jpg
 
 ---

@@ -6,7 +6,6 @@ organization_website: fromlottospot.org
 ein: '203359738'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203359738'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/fromlottospot'
@@ -26,5 +25,7 @@ organization_id_2: '2015069'
 title: From Lot to Spot
 uri: /organizations/from-lot-to-spot/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
+maker_image_id: '24100'
+maker_image_file_name: IMG_4644.JPG
 
 ---

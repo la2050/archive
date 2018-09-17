@@ -6,7 +6,6 @@ organization_website: www.offthesaw.com
 ein: '465189527'
 zip: '90015'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/offthesaw'
@@ -26,5 +25,7 @@ organization_id_2: '2015146'
 title: Off The Saw
 uri: /organizations/off-the-saw/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
+maker_image_id: '23544'
+maker_image_file_name: IMG_8112_web.jpg
 
 ---

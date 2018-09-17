@@ -6,14 +6,13 @@ organization_website: www.greencommuter.org
 ein: '471211258'
 zip: '90401'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: n/a
 instagram: n/a
 facebook: n/a
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   With the goal of helping to alleviate traffic, mitigate air pollution, and
@@ -29,5 +28,6 @@ organization_id_2: '2015075'
 title: Green Commuter
 uri: /organizations/green-commuter/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
+youtube_video_identifier: TjRq-S_gY9U
 
 ---

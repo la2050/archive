@@ -6,14 +6,13 @@ organization_website: ''
 ein: '549153417'
 zip: '90291'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   DA pioneered the integration of water resources & architecture in sustainable
@@ -24,5 +23,6 @@ organization_id_2: '2014135'
 title: Duvivier Architects (DA)
 uri: /organizations/duvivier-architects-da/
 challenge_url: ''
+youtube_video_identifier: fAQOxqwuIHk
 
 ---

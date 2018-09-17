@@ -8,14 +8,13 @@ zip: ''
 charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914
   (in the name of Special Service for Groups)
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
+project_image: 'http://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Having been called into being as volunteers by the City of West Hollywood in
@@ -51,5 +50,6 @@ organization_id_2: '2013187'
 title: The Greater West Hollywood Food Coalition
 uri: /organizations/the-greater-west-hollywood-food-coalition/
 challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
+youtube_video_identifier: vZOFIeiYKwA
 
 ---

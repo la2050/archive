@@ -6,7 +6,6 @@ organization_website: 'http://www.scribd.com/doc/114301906/IDG-Preview'
 ein: '460946310'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460946310'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''

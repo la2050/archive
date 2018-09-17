@@ -6,14 +6,13 @@ organization_website: www.diygirls.org
 ein: '270575032'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270575032'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Women''s STEM Education, Experience, and Training'
 twitter: www.twitter.com/diygirls
 instagram: www.instagram.com/diygirlsorg
 facebook: www.facebook.com/diygirlsLA
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We foster community economic development through programs like the 2nd
@@ -28,5 +27,6 @@ organization_id_2: '2015049'
 title: DIY Girls
 uri: /organizations/diy-girls/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
+youtube_video_identifier: g5AgtC0G5ec
 
 ---

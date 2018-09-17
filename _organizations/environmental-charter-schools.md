@@ -6,7 +6,6 @@ organization_website: www.ecsonline.org
 ein: '330920934'
 zip: '90247'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330920934'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/EnviroCharter'
@@ -25,5 +24,7 @@ organization_id_2: '2015059'
 title: Environmental Charter Schools
 uri: /organizations/environmental-charter-schools/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
+maker_image_id: '23859'
+maker_image_file_name: Good_Image_Change_the_World.jpg
 
 ---

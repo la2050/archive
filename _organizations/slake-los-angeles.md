@@ -6,14 +6,13 @@ organization_website: slake.la
 ein: '181608474'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=181608474'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
+project_image: 'http://img.youtube.com/vi/CDJnJMrwko8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Most importantly, Slake proved Los Angeles can produce a beautiful, exciting,
@@ -30,5 +29,6 @@ organization_id_2: '2013166'
 title: 'Slake: Los Angeles'
 uri: /organizations/slake-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
+youtube_video_identifier: CDJnJMrwko8
 
 ---

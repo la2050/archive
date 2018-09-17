@@ -6,14 +6,13 @@ organization_website: 'http://www.uepi.oxy.edu/'
 ein: '951667177'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
+project_image: 'http://img.youtube.com/vi/FuPNWZxNhrI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>UEPI is a social change organization at Occidental College that connects
@@ -50,5 +49,6 @@ organization_id_2: '2013208'
 title: Urban & Environmental Policy Institute
 uri: /organizations/urban-environmental-policy-institute/
 challenge_url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
+youtube_video_identifier: FuPNWZxNhrI
 
 ---

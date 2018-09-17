@@ -6,7 +6,6 @@ organization_website: 'http://www.clarklibrary.ucla.edu/'
 ein: '952250801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''

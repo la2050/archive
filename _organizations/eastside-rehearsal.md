@@ -6,7 +6,6 @@ organization_website: eastsiderehearsal.com
 ein: '474050600'
 zip: '90033'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/EastsideRehearsal
@@ -27,5 +26,7 @@ organization_id_2: '2015055'
 title: Eastside Rehearsal
 uri: /organizations/eastside-rehearsal/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
+maker_image_id: '23180'
+maker_image_file_name: ESRLogo.jpg
 
 ---

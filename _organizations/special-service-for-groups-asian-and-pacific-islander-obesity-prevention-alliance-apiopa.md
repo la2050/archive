@@ -8,14 +8,13 @@ organization_website: www.apiopa.org
 ein: '951716914'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
+project_image: 'http://img.youtube.com/vi/DXcrNhhe5V0/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   SSG/APIOPA
@@ -64,5 +63,6 @@ title: >-
 uri: >-
   /organizations/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/
 challenge_url: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
+youtube_video_identifier: DXcrNhhe5V0
 
 ---

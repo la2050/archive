@@ -6,14 +6,13 @@ organization_website: www.voter.xyz
 ein: '464743109'
 zip: '90401'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/Voter
 instagram: ''
 facebook: www.facebook.com/voterapp
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We’re building an app that makes it fast, fun, and easy to become informed in
@@ -26,5 +25,6 @@ organization_id_2: '2015223'
 title: 'Voter, LLC'
 uri: /organizations/voter-llc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/voter.html'
+youtube_video_identifier: cljP5pJVVbE
 
 ---

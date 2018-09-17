@@ -6,7 +6,6 @@ organization_website: www.sfvacc.org and www.thevalley.net
 ein: '474978841'
 zip: '91403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474978841'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/SFVACCINFO and https://twitter.com/ValleyAlliance'
@@ -30,5 +29,7 @@ title: San Fernando Valley Arts & Cultural Center and The Valley Economic Allian
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
+maker_image_id: '23739'
+maker_image_file_name: LAACE.jpg
 
 ---

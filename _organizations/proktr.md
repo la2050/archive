@@ -6,14 +6,13 @@ organization_website: www.proktr.com
 ein: '464405903'
 zip: '90027'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/ProktrLA'
 instagram: www.instagram.com/proktrla
 facebook: 'https://www.facebook.com/ProktrLA'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Proktr illuminates what is going on now in the art and design world of Los
@@ -24,5 +23,6 @@ organization_id_2: '2014072'
 title: Proktr
 uri: /organizations/proktr/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
+youtube_video_identifier: _-Xf6dKy4no
 
 ---

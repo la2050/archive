@@ -6,7 +6,6 @@ organization_website: 'http://www.southbaybicyclecoalition.org/'
 ein: ''
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein='
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Health, Environmental Quality: Public space, Fitness, Sports'
 twitter: sbbc_la

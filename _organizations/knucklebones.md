@@ -6,14 +6,13 @@ organization_website: www.knucklebones.us
 ein: '473411058'
 zip: '90013'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/knucklebones
 instagram: www.instagram.com/knucklebones
 facebook: www.facebook.com/knucklebones
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Knucklebones is an athletically inspired wellness company, providing custom
@@ -29,5 +28,6 @@ organization_id_2: '2015105'
 title: Knucklebones
 uri: /organizations/knucklebones/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/playla.html'
+youtube_video_identifier: FAirDH4ROp0
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.walkwithsally.org
 ein: '611472800'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611472800'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Social Connectedness: Volunteerism'
 twitter: '@walkwithsally'

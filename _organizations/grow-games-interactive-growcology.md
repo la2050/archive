@@ -6,7 +6,6 @@ organization_website: www.growgamesinteractive.com
 ein: '463288070'
 zip: '92504'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: twitter.com/growgames
@@ -27,5 +26,7 @@ organization_id_2: '2014041'
 title: 'Grow Games Interactive, Growcology'
 uri: /organizations/grow-games-interactive-growcology/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
+maker_image_id: '22335'
+maker_image_file_name: volunteer-photo.jpg
 
 ---

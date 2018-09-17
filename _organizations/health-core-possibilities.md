@@ -6,7 +6,6 @@ organization_website: www.healthcore.biz
 ein: '300538676'
 zip: '94113'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Environmental Quality, Public Safety'
 twitter: '@lizettealvare15'

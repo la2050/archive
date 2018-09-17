@@ -6,14 +6,13 @@ organization_website: 'http://www.csun.edu/'
 ein: '951992732'
 zip: 91330-8309
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951992732'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/csunorthridge'
 instagram: ''
 facebook: 'https://www.facebook.com/calstatenorthridge'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/5tvdNOJ7fCw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The University Corporation is a non-profit auxiliary corporation providing
@@ -27,5 +26,6 @@ organization_id_2: '2015208'
 title: The University Corporation
 uri: /organizations/the-university-corporation/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
+youtube_video_identifier: 5tvdNOJ7fCw
 
 ---

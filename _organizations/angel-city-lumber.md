@@ -6,14 +6,13 @@ organization_website: www.angelcitylumber.com
 ein: '474574079'
 zip: '90039'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: n/a
 instagram: www.instagram.com/angelcitylumber
 facebook: n/a
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Angel City Lumber intercepts felled city trees designated as “green waste”
@@ -26,5 +25,6 @@ organization_id_2: '2015009'
 title: Angel City Lumber
 uri: /organizations/angel-city-lumber/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
+youtube_video_identifier: 4Kt14HIJyiU
 
 ---

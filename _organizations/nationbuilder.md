@@ -6,7 +6,6 @@ organization_website: nationbuilder.com
 ein: '352315659'
 zip: '90048'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: nationbuilder
@@ -27,5 +26,7 @@ organization_id_2: '2014061'
 title: NationBuilder
 uri: /organizations/nationbuilder/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
+maker_image_id: '22481'
+maker_image_file_name: LA2050.png
 
 ---

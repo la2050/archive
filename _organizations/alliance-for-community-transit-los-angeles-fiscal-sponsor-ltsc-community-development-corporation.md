@@ -8,14 +8,13 @@ organization_website: 'http://www.allianceforcommunitytransit.org/'
 ein: '263106566'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263106566'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: '@All4Transit'
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ACT-LA is a coalition of organizations working to create just and equitable
@@ -31,5 +30,6 @@ title: >-
 uri: >-
   /organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
+youtube_video_identifier: xcozMknxurc
 
 ---

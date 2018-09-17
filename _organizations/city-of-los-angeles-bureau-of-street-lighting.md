@@ -6,7 +6,6 @@ organization_website: 'http://bsl.lacity.org/'
 ein: '956000735'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Health, Environmental Quality: Green technology, Public space, Community

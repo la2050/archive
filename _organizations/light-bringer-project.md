@@ -6,7 +6,6 @@ organization_website: ''
 ein: '954287043'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954287043'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014161'
 title: Light Bringer Project
 uri: /organizations/light-bringer-project/
 challenge_url: ''
+maker_image_id: '22179'
+maker_image_file_name: IMG_2944.JPG
 
 ---

@@ -6,14 +6,13 @@ organization_website: ''
 ein: '951643387'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643387'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Toberman Neighborhood Center tackles poverty by addressing its root causes and
@@ -24,5 +23,6 @@ organization_id_2: '2014212'
 title: Toberman Neighborhood Center
 uri: /organizations/toberman-neighborhood-center/
 challenge_url: ''
+youtube_video_identifier: 7nJBFWm-mb0
 
 ---

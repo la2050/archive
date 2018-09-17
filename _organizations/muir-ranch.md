@@ -6,7 +6,6 @@ organization_website: 'https://www.facebook.com/muirranch'
 ein: '237149451'
 zip: '90103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237149451'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@muirranch'
@@ -27,5 +26,7 @@ organization_id_2: '2014060'
 title: Muir Ranch
 uri: /organizations/muir-ranch/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
+maker_image_id: '20571'
+maker_image_file_name: dahlia3queque.jpg
 
 ---

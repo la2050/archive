@@ -6,14 +6,13 @@ organization_website: ''
 ein: '133935309'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133935309'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   CFY is a nonprofit that helps students, parents & educators use digital
@@ -24,5 +23,6 @@ organization_id_2: '2014123'
 title: CFY
 uri: /organizations/cfy/
 challenge_url: ''
+youtube_video_identifier: HIVY5tBE450
 
 ---

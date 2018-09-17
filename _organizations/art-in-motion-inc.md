@@ -6,7 +6,6 @@ organization_website: 'http://www.spiffest.org/about/photos-youth-film-intensive
 ein: '352474605'
 zip: '91403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=352474605'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/SPIFFest
@@ -25,5 +24,7 @@ organization_id_2: '2014009'
 title: 'Art In Motion, Inc.'
 uri: /organizations/art-in-motion-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
+maker_image_id: '21797'
+maker_image_file_name: SPIFF-Youth-Intensive.jpg
 
 ---

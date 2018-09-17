@@ -6,7 +6,6 @@ organization_website: 'https://www.liftcommunities.org/'
 ein: '522168409'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522168409'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Social Connectedness, Income and Employment: Poverty, Financial management,

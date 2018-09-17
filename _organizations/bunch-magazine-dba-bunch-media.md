@@ -6,7 +6,6 @@ organization_website: www.bunchmag.com
 ein: '465448101'
 zip: '90016'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/bunchmag

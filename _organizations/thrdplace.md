@@ -6,14 +6,13 @@ organization_website: 'http://www.thrdPlace.com'
 ein: '275115367'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
+project_image: 'http://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   <p>To date, the most important achievement of thrdPlace is our viability. 
@@ -26,5 +25,6 @@ organization_id_2: '2013198'
 title: ThrdPlace
 uri: /organizations/thrdplace/
 challenge_url: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
+youtube_video_identifier: jUd4odIOyuc
 
 ---

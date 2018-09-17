@@ -6,7 +6,6 @@ organization_website: avasheart.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Health care, community health, underserved people'
 twitter: avasheart

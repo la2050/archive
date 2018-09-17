@@ -6,14 +6,13 @@ organization_website: www.psychicbunny.com
 ein: '900406307'
 zip: '90013'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@psychicbunnyinc'
 instagram: ''
 facebook: 'https://www.facebook.com/psychicbunny'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Psychic Bunny is a multidisciplinary creative company – we make films,
@@ -24,5 +23,6 @@ organization_id_2: '2014073'
 title: Psychic Bunny
 uri: /organizations/psychic-bunny/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
+youtube_video_identifier: NtMAZqR4Tf4
 
 ---

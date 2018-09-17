@@ -6,7 +6,6 @@ organization_website: www.patrickhenryfoundation.org
 ein: '471713238'
 zip: '90714'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471713238'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: DualImmersion

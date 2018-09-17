@@ -6,7 +6,6 @@ organization_website: www.elriocharterschool.org
 ein: '900705279'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900705279'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -46,5 +45,7 @@ organization_id_2: '2013059'
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
 uri: /organizations/el-rio-schools-mind-fit-education-for-the-21st-century/
 challenge_url: 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
+maker_image_id: '17110'
+maker_image_file_name: rachelschmid.elrio.jpg
 
 ---

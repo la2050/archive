@@ -6,14 +6,13 @@ organization_website: www.missionassetfund.org
 ein: '208993652'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208993652'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+project_image: 'http://img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>MAFâ€™s Lending Circles program has received widespread national attention
@@ -37,5 +36,6 @@ organization_id_2: '2013136'
 title: Mission Asset Fund
 uri: /organizations/mission-asset-fund/
 challenge_url: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+youtube_video_identifier: AXqYX0rfbys
 
 ---

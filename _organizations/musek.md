@@ -6,7 +6,6 @@ organization_website: Www.musek.org
 ein: '546674177'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -36,5 +35,7 @@ organization_id_2: '2013138'
 title: MUSEK
 uri: /organizations/musek/
 challenge_url: 'http://maker.good.is/myla2050/projects/MUSEK.html'
+maker_image_id: '16307'
+maker_image_file_name: image.jpg
 
 ---

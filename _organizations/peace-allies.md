@@ -6,7 +6,6 @@ organization_website: PeaceAllies.org
 ein: '471459497'
 zip: '91711'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: twitter.com/PeaceAllies
@@ -27,5 +26,7 @@ organization_id_2: '2014066'
 title: Peace Allies
 uri: /organizations/peace-allies/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
+maker_image_id: '22289'
+maker_image_file_name: PA-angel.jpg
 
 ---

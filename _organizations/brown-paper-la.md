@@ -6,7 +6,6 @@ organization_website: ''
 ein: '273608324'
 zip: '90031'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2014120'
 title: Brown Paper LA
 uri: /organizations/brown-paper-la/
 challenge_url: ''
+maker_image_id: '21775'
+maker_image_file_name: IMG_20140406_135445.jpg
 
 ---

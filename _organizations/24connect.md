@@ -6,7 +6,6 @@ organization_website: 24Connect.net
 ein: '274848676'
 zip: '90048'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: ''
@@ -27,5 +26,7 @@ organization_id_2: '2014001'
 title: 24Connect
 uri: /organizations/24connect/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
+maker_image_id: '22856'
+maker_image_file_name: creative_capital_img.jpg
 
 ---

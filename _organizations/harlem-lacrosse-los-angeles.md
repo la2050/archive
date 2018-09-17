@@ -6,7 +6,6 @@ organization_website: www.harlemlacrosse.org
 ein: '451634118'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451634118'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Health, Social Connectedness: Sports, Underserved youth, Youth,

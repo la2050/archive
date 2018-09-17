@@ -6,14 +6,13 @@ organization_website: www.climateresolve.org
 ein: '4647362978'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=4647362978'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/climateresolve
 instagram: ''
 facebook: www.facebook.com/climateresolve
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/jRPfyjiCjwg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Climate Resolve’s mission is to make Southern California more livable and
@@ -26,5 +25,6 @@ organization_id_2: '2015038'
 title: Climate Resolve
 uri: /organizations/climate-resolve/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
+youtube_video_identifier: jRPfyjiCjwg
 
 ---

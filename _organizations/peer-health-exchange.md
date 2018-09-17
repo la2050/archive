@@ -6,7 +6,6 @@ organization_website: www.peerhealthexchange.org
 ein: '562374305'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562374305'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Health, Social Connectedness: Community health, Youth, Healthcare,

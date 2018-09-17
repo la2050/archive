@@ -6,7 +6,6 @@ organization_website: www.nhslacounty.org
 ein: '953938955'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Housing, Income and Employment: Underserved communities, Economic development,

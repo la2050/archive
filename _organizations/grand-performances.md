@@ -6,7 +6,6 @@ organization_website: www.grandperformances.org
 ein: '954576761'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954576761'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/GrandPerfs
@@ -26,5 +25,7 @@ organization_id_2: '2015073'
 title: Grand Performances
 uri: /organizations/grand-performances/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GPCONNECTS.html'
+maker_image_id: '24070'
+maker_image_file_name: gp_la2050_570x345.jpg
 
 ---

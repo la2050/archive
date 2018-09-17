@@ -6,7 +6,6 @@ organization_website: 'http://www.reach4thetop.org/'
 ein: '571236341'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571236341'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
@@ -27,5 +26,7 @@ organization_id_2: '2013160'
 title: 'Reach For theTop, Inc.'
 uri: /organizations/reach-for-thetop-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CasaAmador.html'
+maker_image_id: '16395'
+maker_image_file_name: POSTCARD-1.jpg
 
 ---

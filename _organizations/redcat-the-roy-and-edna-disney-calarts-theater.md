@@ -6,14 +6,13 @@ organization_website: 'http://www.redcat.org'
 ein: '956102146'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956102146'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
+project_image: 'http://img.youtube.com/vi/VpqSppE8ppo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   REDCAT is currently celebrating ten years of bringing experimental and
@@ -35,5 +34,6 @@ organization_id_2: '2013161'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 uri: /organizations/redcat-the-roy-and-edna-disney-calarts-theater/
 challenge_url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
+youtube_video_identifier: VpqSppE8ppo
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.laalliance.org
 ein: '954779029'
 zip: '0'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954779029'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2013005'
 title: Alliance College-Ready Public Schools
 uri: /organizations/alliance-college-ready-public-schools/
 challenge_url: ''
+maker_image_id: '20500'
+maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
 
 ---

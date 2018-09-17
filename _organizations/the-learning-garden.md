@@ -6,7 +6,6 @@ organization_website: www.thelearninggarden.org
 ein: '203602931'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203602931'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
@@ -42,5 +41,7 @@ organization_id_2: '2013192'
 title: The Learning Garden
 uri: /organizations/the-learning-garden/
 challenge_url: 'http://maker.good.is/myla2050/projects/Gardens.html'
+maker_image_id: '16360'
+maker_image_file_name: Garden_Sign.png
 
 ---

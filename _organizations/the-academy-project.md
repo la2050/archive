@@ -6,7 +6,6 @@ organization_website: WWW.THEACADEMYPROJECT.ORG
 ein: '471205640'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471205640'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Foster care, youth, high school graduation, college preparedness, career

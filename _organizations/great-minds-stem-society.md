@@ -6,7 +6,6 @@ organization_website: www.facebook.com/GreatMindsSTEMSociety
 ein: '475247130'
 zip: '90003'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475247130'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/greatmindstem'

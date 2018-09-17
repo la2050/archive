@@ -6,7 +6,6 @@ organization_website: civicinnovationlab.la
 ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Arts and Cultural Vitality, Education, Social Connectedness: Technology,

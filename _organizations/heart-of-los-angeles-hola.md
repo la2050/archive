@@ -6,14 +6,13 @@ organization_website: www.heartofla.org
 ein: '954397418'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954397418'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/heartofla.html'
+project_image: 'http://img.youtube.com/vi/0CZIOxlCozk/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   HOLAâ€™s recent achievements include:
@@ -89,5 +88,6 @@ organization_id_2: '2013089'
 title: Heart of Los Angeles (HOLA)
 uri: /organizations/heart-of-los-angeles-hola/
 challenge_url: 'http://maker.good.is/myla2050/projects/heartofla.html'
+youtube_video_identifier: 0CZIOxlCozk
 
 ---

@@ -6,7 +6,6 @@ organization_website: www.espservice.org
 ein: '800627841'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
@@ -28,5 +27,7 @@ organization_id_2: '2013063'
 title: ESP Empowering Services Through Partnerships
 uri: /organizations/esp-empowering-services-through-partnerships/
 challenge_url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
+maker_image_id: '16942'
+maker_image_file_name: Sequester_student_working1.jpg
 
 ---

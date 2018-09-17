@@ -6,14 +6,13 @@ organization_website: www.CultureShockLA.org
 ein: '311796801'
 zip: '94611'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/cultureshockla
 instagram: www.instagram.com/cultureshockla
 facebook: www.facebook.com/cultureshockla
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Data Roads Foundation expands access to interconnected networks (or Internets
@@ -27,5 +26,6 @@ organization_id_2: '2015047'
 title: Culture Shock Los Angeles
 uri: /organizations/culture-shock-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/C3.html'
+youtube_video_identifier: wmExJ7xdKYc
 
 ---

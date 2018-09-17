@@ -6,7 +6,6 @@ organization_website: www.pasedfoundation.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Digital equality, digital literacy, education, Youth'
 twitter: pasedfoundation

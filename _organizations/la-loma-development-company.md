@@ -6,7 +6,6 @@ organization_website: www.lalomadevelopment.com
 ein: '260139462'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Income & Employment
 twitter: ''
@@ -48,5 +47,7 @@ organization_id_2: '2013114'
 title: La Loma Development Company
 uri: /organizations/la-loma-development-company/
 challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'
+maker_image_id: '16974'
+maker_image_file_name: La_Loma_Development_Single_Picture.jpg
 
 ---

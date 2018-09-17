@@ -6,7 +6,6 @@ organization_website: www.ouramb.org
 ein: '201148737'
 zip: '91016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201148737'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/our_amb'
@@ -25,5 +24,7 @@ organization_id_2: '2015003'
 title: Academy of Music for the Blind
 uri: /organizations/academy-of-music-for-the-blind/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
+maker_image_id: '23208'
+maker_image_file_name: AMBgroupPic.jpg
 
 ---

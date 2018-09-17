@@ -6,7 +6,6 @@ organization_website: 'http://valhallamovement.com/'
 ein: '462359445'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462359445'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Housing
 twitter: ''
@@ -38,5 +37,7 @@ organization_id_2: '2013211'
 title: ValhalLA
 uri: /organizations/valhalla/
 challenge_url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+maker_image_id: '17236'
+maker_image_file_name: valhalla550.jpg
 
 ---

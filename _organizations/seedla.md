@@ -6,7 +6,6 @@ organization_website: 'http://seedcg.org/'
 ein: '471749354'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471749354'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Environmental Quality, Social Connectedness: Green technology, Sustainability,

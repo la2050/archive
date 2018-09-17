@@ -6,14 +6,13 @@ organization_website: www.eezitec.com
 ein: '472691696'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/eezitec
 instagram: EEZITEC.com
 facebook: www.facebook.com/eezitec
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   EEZITEC is an eCommerce platform & ecosystem where people can discover & learn
@@ -24,5 +23,6 @@ organization_id_2: '2015056'
 title: EEZITEC
 uri: /organizations/eezitec/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
+youtube_video_identifier: uVgrIU_Bl9g
 
 ---

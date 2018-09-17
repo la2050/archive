@@ -6,7 +6,6 @@ organization_website: 'http://www.park-in-a-box.la'
 ein: 'ERW: 364519595 SALT: 271758961'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013062'
 title: ERW DESIGN + SALT Landscape Architects
 uri: /organizations/erw-design-salt-landscape-architects/
 challenge_url: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
+maker_image_id: '17284'
+maker_image_file_name: Poster2_smaller.jpg
 
 ---

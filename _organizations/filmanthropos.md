@@ -6,14 +6,13 @@ organization_website: www.filmanthropos.com
 ein: '462443400'
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
+project_image: 'http://img.youtube.com/vi/--BnysezHK0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   While Filmanthropos is a fairly new social enterprise that was founded in Q4
@@ -28,5 +27,6 @@ organization_id_2: '2013066'
 title: Filmanthropos
 uri: /organizations/filmanthropos/
 challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
+youtube_video_identifier: '--BnysezHK0'
 
 ---

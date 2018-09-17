@@ -6,14 +6,13 @@ organization_website: NextStageAgency.com
 ein: '471442024'
 zip: '90066'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: ArtCityLA
 instagram: ''
 facebook: facebook.com/ArtCityLA
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   NextStage Agency produces programs, events and campaigns that enhance the
@@ -24,5 +23,6 @@ organization_id_2: '2014063'
 title: NextStage Agency
 uri: /organizations/nextstage-agency/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
+youtube_video_identifier: JVyDVToMVoo
 
 ---

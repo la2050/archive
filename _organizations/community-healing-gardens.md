@@ -6,7 +6,6 @@ organization_website: CommunityHealingGardens.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Healthy food, career readiness'
 twitter: CHealingGardens

@@ -6,14 +6,13 @@ organization_website: ''
 ein: '272190657'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272190657'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
+project_image: 'http://img.youtube.com/vi/rDZ9hY7J0xQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The foundation is a collaboration of two urban visionaries â€“ Xander
@@ -30,5 +29,6 @@ organization_id_2: '2013210'
 title: Urban Reclaim
 uri: /organizations/urban-reclaim/
 challenge_url: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
+youtube_video_identifier: rDZ9hY7J0xQ
 
 ---

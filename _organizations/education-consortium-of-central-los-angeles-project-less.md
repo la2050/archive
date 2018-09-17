@@ -6,14 +6,13 @@ organization_website: 'http://learnmorewithless.org'
 ein: '954230350'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/morelearning.html'
+project_image: 'http://img.youtube.com/vi/6pkTdEgSCvo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>In March of 2013, we began lending lab equipment to the science teacher at
@@ -84,5 +83,6 @@ organization_id_2: '2013057'
 title: Education Consortium of Central Los Angeles / Project LESS
 uri: /organizations/education-consortium-of-central-los-angeles-project-less/
 challenge_url: 'http://maker.good.is/myla2050/projects/morelearning.html'
+youtube_video_identifier: 6pkTdEgSCvo
 
 ---

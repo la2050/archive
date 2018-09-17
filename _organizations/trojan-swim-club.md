@@ -6,14 +6,13 @@ organization_website: www.trojanswimclub.org
 ein: '330614644'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330614644'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@TSCOutreach'
 instagram: www.instagram.com/trojanswimcluboutreach
 facebook: www.facebook.com/Trojan-Swim-Club-Outreach
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Trojan Swim Club operates both a fee-based competitive swim program and a
@@ -25,5 +24,6 @@ organization_id_2: '2015215'
 title: Trojan Swim Club
 uri: /organizations/trojan-swim-club/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
+youtube_video_identifier: SdL6NXZskjo
 
 ---

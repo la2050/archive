@@ -6,7 +6,6 @@ organization_website: 'http://www.usc.edu/icw'
 ein: '951644589'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
@@ -56,5 +55,7 @@ organization_id_2: '2013189'
 title: The Huntington-USC Institute on California and the West
 uri: /organizations/the-huntington-usc-institute-on-california-and-the-west/
 challenge_url: 'http://maker.good.is/myla2050/projects/LASA.html'
+maker_image_id: '16261'
+maker_image_file_name: LASA_2012.jpg
 
 ---

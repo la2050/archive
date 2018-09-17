@@ -6,7 +6,6 @@ organization_website: groceryships.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: Health and Nutrition in Low Income communities
 twitter: Groceryships

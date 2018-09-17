@@ -6,7 +6,6 @@ organization_website: 'http://ncsa.nationbuilder.com/'
 ein: '475283695'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475283695'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Carbon footprint, water footprint, community reslience'
 twitter: 'http://www.twitter.com/LA_NCSA'
@@ -26,5 +25,7 @@ organization_id_2: '2015143'
 title: Neighborhood Council Sustainability Alliance
 uri: /organizations/neighborhood-council-sustainability-alliance/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
+maker_image_id: '23843'
+maker_image_file_name: Cool_block_9.png
 
 ---

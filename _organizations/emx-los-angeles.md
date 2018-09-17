@@ -6,7 +6,6 @@ organization_website: www.facebook.com/emx.la
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Arts and culture vitality, creative industry, Youth, children, entertainment

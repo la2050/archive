@@ -6,7 +6,6 @@ organization_website: ''
 ein: '311734705'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311734705'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014165'
 title: Los Angeles Community Garden Council
 uri: /organizations/los-angeles-community-garden-council/
 challenge_url: ''
+maker_image_id: '20229'
+maker_image_file_name: LACGC_Community_Photo.jpg
 
 ---

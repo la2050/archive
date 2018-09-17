@@ -6,14 +6,13 @@ organization_website: ''
 ein: '954738754'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954738754'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   WAGV educates the public, policy makers and the media about the human,
@@ -24,5 +23,6 @@ organization_id_2: '2014226'
 title: Women Against Gun Violence
 uri: /organizations/women-against-gun-violence/
 challenge_url: ''
+youtube_video_identifier: ez1sypeq2hI
 
 ---

@@ -6,14 +6,13 @@ organization_website: www.mobilefilmclassroom.org
 ein: '461053961'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461053961'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/mobilefilmclass
 instagram: instagram.com/mobilefilmclassroom
 facebook: www.facebook.com/mobilefilmclassroom
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/sO2seHdnH3c/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Mobile Film Classroom equips the next generation of creative leaders with
@@ -26,5 +25,6 @@ organization_id_2: '2014059'
 title: Mobile Film Classroom
 uri: /organizations/mobile-film-classroom/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
+youtube_video_identifier: sO2seHdnH3c
 
 ---

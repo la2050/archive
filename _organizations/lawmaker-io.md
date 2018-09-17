@@ -6,7 +6,6 @@ organization_website: 'https://lawmaker.io/'
 ein: '472178446'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472178446'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Housing, Social Connectedness: Homelessness, Inclusion, Neighborhood councils'
 twitter: '@WeAreLawMaker'

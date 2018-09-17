@@ -6,7 +6,6 @@ organization_website: www.sijcc.net
 ein: '320003071'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320003071'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/eastsidejews
@@ -27,5 +26,7 @@ organization_id_2: '2015180'
 title: Silverlake Independent Jewish Community Center
 uri: /organizations/silverlake-independent-jewish-community-center/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
+maker_image_id: '23929'
+maker_image_file_name: logo3.jpg
 
 ---

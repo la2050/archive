@@ -6,7 +6,6 @@ organization_website: 'http://landarch.uclaextension.edu/'
 ein: '956006143'
 zip: '91208'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'http://www.twitter.com/LandArch_UCLAx'
@@ -25,5 +24,7 @@ organization_id_2: '2014101'
 title: UCLA Extension Landscape Architecture Program
 uri: /organizations/ucla-extension-landscape-architecture-program/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
+maker_image_id: '21750'
+maker_image_file_name: safari.jpg
 
 ---

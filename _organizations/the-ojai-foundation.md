@@ -6,7 +6,6 @@ organization_website: ojaifoundation.org
 ein: '510151116'
 zip: '93024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510151116'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'public safety, community health, health, public space, education'
 twitter: ojaifoundation

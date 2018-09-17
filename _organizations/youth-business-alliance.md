@@ -6,7 +6,6 @@ organization_website: www.youthbizalliance.com
 ein: '462067337'
 zip: '90245'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462067337'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: therealyba

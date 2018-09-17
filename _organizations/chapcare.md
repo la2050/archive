@@ -6,7 +6,6 @@ organization_website: ''
 ein: '954536824'
 zip: '91103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954536824'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: ''
 twitter: ''
@@ -25,5 +24,7 @@ organization_id_2: '2014124'
 title: ChapCare
 uri: /organizations/chapcare/
 challenge_url: ''
+maker_image_id: '21436'
+maker_image_file_name: March_31_2014_at_5pm.jpeg
 
 ---

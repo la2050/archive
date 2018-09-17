@@ -6,7 +6,6 @@ organization_website: www.piecebypiece.org
 ein: '208348198'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208348198'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@LAMosaicMecca'
@@ -25,5 +24,7 @@ organization_id_2: '2014068'
 title: Piece by Piece
 uri: /organizations/piece-by-piece/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
+maker_image_id: '22131'
+maker_image_file_name: In_Studio_Irvine_Mural.jpg
 
 ---

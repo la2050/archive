@@ -6,7 +6,6 @@ organization_website: www.everwildla.com
 ein: '813577278'
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813577278'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Education, Environmental Quality, Social Connectedness: Children, Youth,

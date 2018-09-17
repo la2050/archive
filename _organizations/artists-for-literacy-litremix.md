@@ -6,14 +6,13 @@ organization_website: litremix.com
 ein: '943390795'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943390795'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/@litremix'
 instagram: ''
 facebook: www.facebook.com/artistsforliteracy
 org_type: Other
-project_image: ''
+project_image: 'http://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LitRemix is a collaborative learning platform that encourages both the
@@ -26,5 +25,6 @@ organization_id_2: '2015015'
 title: Artists for Literacy / LitRemix
 uri: /organizations/artists-for-literacy-litremix/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
+youtube_video_identifier: 0EQnXawnCQk
 
 ---

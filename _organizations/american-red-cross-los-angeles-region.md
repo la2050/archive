@@ -6,7 +6,6 @@ organization_website: www.redcrossla.org
 ein: '530196605'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=530196605'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/RedCrossLA
@@ -29,5 +28,7 @@ organization_id_2: '2015008'
 title: American Red Cross Los Angeles Region
 uri: /organizations/american-red-cross-los-angeles-region/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HomeFireCampaignLA.html'
+maker_image_id: '21941'
+maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
 
 ---

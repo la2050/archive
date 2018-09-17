@@ -6,14 +6,13 @@ organization_website: 'http://millennialmagazine.com'
 ein: '613480924'
 zip: '91504'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/MillennialMagz'
 instagram: ''
 facebook: 'https://www.facebook.com/MillennialMagazine'
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Millennial is a lifestyle and culture magazine profiling those who shape the
@@ -26,5 +25,6 @@ organization_id_2: '2014058'
 title: 'Millennial Magazine: Apps4LA'
 uri: /organizations/millennial-magazine-apps4la/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
+youtube_video_identifier: Vv698CCwrt4
 
 ---

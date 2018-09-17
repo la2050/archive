@@ -6,14 +6,13 @@ organization_website: www.flowproject.la
 ein: '473612459'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473612459'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'www.twitter.com/flowprojectla, www.twitter.com/unycyn'
 instagram: www.instagram.com/flowproject.la
 facebook: www.facebook.com/unycyn.civic.arts
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
 project_video: ''
 org_summary: We help beautify civic spaces with public art and urban gardens.
 areas_impacted: >-
@@ -25,5 +24,6 @@ organization_id_2: '2015219'
 title: Unycyn Civic Arts
 uri: /organizations/unycyn-civic-arts/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'
+youtube_video_identifier: 1Qmy2pX9eEo
 
 ---

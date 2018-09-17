@@ -6,14 +6,13 @@ organization_website: 'http://humanresourcesla.com/'
 ein: '273429917'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273429917'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
+project_image: 'http://img.youtube.com/vi/BSvlFmSuKyw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   HRLA was a collaborator and grant receiver of Getty Museum for PST festival
@@ -41,5 +40,6 @@ organization_id_2: '2013093'
 title: Human Resources L.A.
 uri: /organizations/human-resources-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
+youtube_video_identifier: BSvlFmSuKyw
 
 ---

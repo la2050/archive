@@ -6,14 +6,13 @@ organization_website: www.sbaycenter.com
 ein: '237360521'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/act2connect.html'
+project_image: 'http://img.youtube.com/vi/iHvoKckqh4o/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>SBCC has achieved significant community-level and countywide impacts in
@@ -54,5 +53,6 @@ organization_id_2: '2013168'
 title: South Bay Center for Community Development
 uri: /organizations/south-bay-center-for-community-development/
 challenge_url: 'http://maker.good.is/myla2050/projects/act2connect.html'
+youtube_video_identifier: iHvoKckqh4o
 
 ---

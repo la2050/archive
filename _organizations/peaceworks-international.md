@@ -6,7 +6,6 @@ organization_website: www.iamla2017.com
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '#N/A'
 twitter: IAmLA2017

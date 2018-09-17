@@ -6,7 +6,6 @@ organization_website: nomadlosangeles.com
 ein: '270679016'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270679016'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: nomadlosangeles
@@ -27,5 +26,7 @@ organization_id_2: '2014064'
 title: Nomadlosangeles
 uri: /organizations/nomadlosangeles/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAVA.html'
+maker_image_id: '21917'
+maker_image_file_name: studio1.jpg
 
 ---

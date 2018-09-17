@@ -6,7 +6,6 @@ organization_website: www.Redeemerelementary.org
 ein: '951816037'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951816037'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/RedeemerElementary
@@ -25,5 +24,7 @@ organization_id_2: '2015166'
 title: Redeemer Baptist Elementary School
 uri: /organizations/redeemer-baptist-elementary-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
+maker_image_id: '23262'
+maker_image_file_name: dsc00212.jpg
 
 ---

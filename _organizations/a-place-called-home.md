@@ -6,14 +6,13 @@ organization_website: www.Apch.org
 ein: '954427291'
 zip: '90011'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954427291'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: 'https://twitter.com/apch2830'
 instagram: 'https://instagram.com/apch2830/'
 facebook: 'https://www.facebook.com/APCH2830'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   APCH is a safe haven in South Central LA where underserved youth are empowered
@@ -26,5 +25,6 @@ organization_id_2: '2015002'
 title: A Place Called Home
 uri: /organizations/a-place-called-home/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
+youtube_video_identifier: wzFv5uV3pew
 
 ---

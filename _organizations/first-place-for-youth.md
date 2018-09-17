@@ -6,7 +6,6 @@ organization_website: firstplaceforyouth.org
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: >-
   Education, youth, inclusion, mentorship, training and development, career

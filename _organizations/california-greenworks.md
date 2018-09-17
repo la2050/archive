@@ -6,7 +6,6 @@ organization_website: www.californiagreenworks.org
 ein: '10574486'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=10574486'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Environmental Quality
 twitter: ''
@@ -23,5 +22,7 @@ organization_id_2: '2013028'
 title: California Greenworks
 uri: /organizations/california-greenworks/
 challenge_url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
+maker_image_id: '17141'
+maker_image_file_name: Leroy.JPG
 
 ---

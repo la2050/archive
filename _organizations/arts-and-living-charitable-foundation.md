@@ -6,7 +6,6 @@ organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
 ein: ''
 zip: ''
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: 'Arts and culture, education'
 twitter: '@anlconnect'

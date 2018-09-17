@@ -6,7 +6,6 @@ organization_website: www.cityfabrick.org
 ein: '451130362'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451130362'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: >-
   Housing, Arts and Cultural Vitality: Creative industry, Innovation, Affordable

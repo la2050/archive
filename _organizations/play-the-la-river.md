@@ -6,7 +6,6 @@ organization_website: 'http://playthelariver.com/'
 ein: '272245545'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@playthelariver'
@@ -27,5 +26,7 @@ organization_id_2: '2014069'
 title: Play the LA River
 uri: /organizations/play-the-la-river/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
+maker_image_id: '21550'
+maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 
 ---

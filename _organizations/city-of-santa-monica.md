@@ -6,14 +6,13 @@ organization_website: www.smgov.net/wellbeing
 ein: '956000790'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '@CityofWellbeing'
 instagram: ''
 facebook: facebook.com/SantaMonicaWellbeing
 org_type: Government
-project_image: ''
+project_image: 'http://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The City of Santa Monica works to protect, support & promote a safe, vibrant
@@ -24,5 +23,6 @@ organization_id_2: '2014016'
 title: City of Santa Monica
 uri: /organizations/city-of-santa-monica/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
+youtube_video_identifier: quAWRNiRKEg
 
 ---

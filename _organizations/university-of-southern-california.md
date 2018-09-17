@@ -6,7 +6,6 @@ organization_website: 'la.myneighborhooddata.org,socialinnovation.usc.edu'
 ein: '951642394'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: '0'
 twitter: '["@NDSC_LA","@USCPriceCSI"]'

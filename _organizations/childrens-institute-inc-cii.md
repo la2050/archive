@@ -6,14 +6,13 @@ organization_website: www.childrensinstitute.org
 ein: '951641424'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641424'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: 'Child health, Child support, Child mental health'
 twitter: 'https://twitter.com/CII_Updates'
 instagram: ''
 facebook: 'https://www.facebook.com/Childrens-Institute-Inc-CII-103939291803/timeline/'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   CII helps children in Los Angeles’s most challenged communities heal from the
@@ -28,5 +27,6 @@ organization_id_2: '2015031'
 title: 'Children’s Institute, Inc. (CII)'
 uri: /organizations/childrens-institute-inc-cii/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
+youtube_video_identifier: 3AOHXhfJeho
 
 ---

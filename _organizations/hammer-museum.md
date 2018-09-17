@@ -6,14 +6,13 @@ organization_website: www.hammer.ucla.edu
 ein: '954217197'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954217197'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
+project_image: 'http://img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Over the past decade plus, the Hammer Museum has transformed itself into one
@@ -42,5 +41,6 @@ organization_id_2: '2013087'
 title: Hammer Museum
 uri: /organizations/hammer-museum/
 challenge_url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
+youtube_video_identifier: 30f36j_o_wU
 
 ---

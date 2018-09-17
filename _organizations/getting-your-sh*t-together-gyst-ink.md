@@ -6,7 +6,6 @@ organization_website: www.gyst-ink.com
 ein: '465347621'
 zip: '90027'
 charity_navigator_url: ''
-link_to_ntee_code: ''
 ntee_type: ''
 tags_indicators: '0'
 twitter: www.twitter.com/gystink
@@ -27,5 +26,7 @@ organization_id_2: '2014039'
 title: Getting Your Sh*t Together (GYST-INK)
 uri: /organizations/getting-your-sh*t-together-gyst-ink/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
+maker_image_id: '21305'
+maker_image_file_name: GYSTInksoftware_artworktracking.png
 
 ---

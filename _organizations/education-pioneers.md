@@ -6,14 +6,13 @@ organization_website: www.educationpioneers.org
 ein: '770602311'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770602311'
-link_to_ntee_code: GET CODE
 ntee_type: ''
 tags_indicators: Education
 twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/edpioneer.html'
+project_image: 'http://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Founded in 2003 in response to the acute shortage of leadership and management
@@ -37,5 +36,6 @@ organization_id_2: '2013058'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
 challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
+youtube_video_identifier: KAJrrW9SOdA
 
 ---
