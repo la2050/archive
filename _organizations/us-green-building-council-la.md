@@ -7,7 +7,7 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: USGBC-LA
 instagram: pages/US-Green-Building-Council-Los-Angeles-Chapter/210358478899
 facebook: usgbcla

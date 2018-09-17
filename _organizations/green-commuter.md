@@ -7,7 +7,7 @@ ein: '471211258'
 zip: '90401'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: n/a
 instagram: n/a
 facebook: n/a

@@ -7,7 +7,7 @@ ein: '954086813'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954086813'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: 3boulevards

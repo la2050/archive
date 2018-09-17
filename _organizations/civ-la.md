@@ -7,7 +7,7 @@ ein: '951667177'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/civLAtweets'
 instagram: 'https://instagram.com/imgla/'
 facebook: none

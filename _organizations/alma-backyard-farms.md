@@ -7,7 +7,7 @@ ein: '463516486'
 zip: '90063'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463516486'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: '@almabackydfarms'
 instagram: instagram.com/almabackyardfarms
 facebook: www.facebook.com/almabackyardfarmla

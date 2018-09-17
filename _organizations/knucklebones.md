@@ -7,7 +7,7 @@ ein: '473411058'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/knucklebones
 instagram: www.instagram.com/knucklebones
 facebook: www.facebook.com/knucklebones

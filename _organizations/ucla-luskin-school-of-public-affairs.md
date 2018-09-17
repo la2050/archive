@@ -7,7 +7,7 @@ ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/UCLALuskin
 instagram: www.instagram.com/uclaluskin
 facebook: www.facebook.com/UCLALuskinSchool/timeline/

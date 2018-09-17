@@ -7,7 +7,7 @@ ein: '263261159'
 zip: '90290'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: '@URBANAIRPROJECT'
 instagram: ''
 facebook: www.facebook.com/UrbanAirProject

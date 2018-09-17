@@ -7,7 +7,7 @@ ein: '954473701'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954473701'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/BRIDGE_Theatre
 instagram: No Instagram (yet!)
 facebook: www.facebook.com/bridgetheatre

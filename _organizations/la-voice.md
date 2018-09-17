@@ -7,7 +7,7 @@ ein: '954781974'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954781974'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: LA_Voice
 instagram: LA-Voice-PICO-105379576176527/?fref=ts
 facebook: l.a._voice

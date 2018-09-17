@@ -7,7 +7,7 @@ ein: '912039095'
 zip: '91362'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912039095'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: I will open a Twitter account once grant is received
 instagram: I will open a Instagram account once grant is received
 facebook: I will open a Facebook account once grant is received

@@ -7,7 +7,7 @@ ein: '471275709'
 zip: '90301'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471275709'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/DREAMHAUS_LA
 instagram: www.instagram.com/DREAMHAUSLA
 facebook: www.facebook.com/DREAMHAUSLA

@@ -7,7 +7,7 @@ ein: '262467065'
 zip: '90031'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: droplabs
 instagram: ''
 facebook: 'https://www.facebook.com/DroplabsLA'

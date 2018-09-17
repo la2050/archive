@@ -7,7 +7,7 @@ ein: '364519595'
 zip: '90265'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: ''
 instagram: ERWDESIGN
 facebook: 'https://www.facebook.com/ERWDESIGN'

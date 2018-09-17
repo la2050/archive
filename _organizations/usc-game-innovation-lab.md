@@ -7,7 +7,7 @@ ein: '951642394'
 zip: 90089-2211
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: '@USCGameLab'
 instagram: ''
 facebook: ''

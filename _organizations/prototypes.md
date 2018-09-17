@@ -7,7 +7,7 @@ ein: '954092046'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954092046'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/prototypescare
 instagram: www.instagram.com/prototypescare
 facebook: www.facebook.com/prototypescare

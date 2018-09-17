@@ -7,7 +7,7 @@ ein: '270526225'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: '@pwrdby'
 instagram: instagram.com/PwrdBy_chris
 facebook: 'https://www.facebook.com/picturehealing'

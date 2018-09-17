@@ -7,7 +7,7 @@ ein: '132467145'
 zip: '91617'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/bwstudios
 instagram: www.instagram.com/billweberstudios
 facebook: www.facebook.com/ambassadorbird

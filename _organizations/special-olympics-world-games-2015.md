@@ -7,7 +7,7 @@ ein: '452853870'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452853870'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/LosAngeles2015'
 instagram: 'http://instagram.com/la2015worldgames'
 facebook: www.facebook.com/LA2015

@@ -7,7 +7,7 @@ ein: '956000735'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/lagreatstreets
 instagram: www.instagram.com/lagreatstreets
 facebook: www.facebook.com/greatstreetslosangeles

@@ -7,7 +7,7 @@ ein: '474574079'
 zip: '90039'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: n/a
 instagram: www.instagram.com/angelcitylumber
 facebook: n/a

@@ -7,7 +7,7 @@ ein: '330920934'
 zip: '90247'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330920934'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/EnviroCharter'
 instagram: www.instagram.com/ecsgreenambassadors
 facebook: 'https://www.facebook.com/EnvironmentalCharterSchools'

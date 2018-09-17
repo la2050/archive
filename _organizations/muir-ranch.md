@@ -7,7 +7,7 @@ ein: '237149451'
 zip: '90103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237149451'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: '@muirranch'
 instagram: cocoxochitl
 facebook: 'https://www.facebook.com/muirranch'

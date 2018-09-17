@@ -7,7 +7,7 @@ ein: '463558470'
 zip: '91789'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463558470'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/BlueprintEarth'
 instagram: www.instagram.com/blueprintearth
 facebook: www.facebook.com/blueprintearth

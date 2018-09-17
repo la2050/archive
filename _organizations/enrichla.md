@@ -7,7 +7,7 @@ ein: '272797687'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272797687'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/enrichla
 instagram: www.instagram.com/enrichlagardens
 facebook: www.facebook.com/enrichla

@@ -7,7 +7,7 @@ ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: VPCGLA
 instagram: ''
 facebook: 'https://www.facebook.com/vpcgla'

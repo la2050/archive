@@ -7,7 +7,7 @@ ein: '471713238'
 zip: '90714'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471713238'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: DualImmersion
 instagram: PatrickHenryDualImmersion
 facebook: PatrickHenryDualImmersion

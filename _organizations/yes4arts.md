@@ -7,7 +7,7 @@ ein: '473851439'
 zip: '90505'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473851439'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/yes4arts
 instagram: ''
 facebook: www.facebook.com/yes4arts

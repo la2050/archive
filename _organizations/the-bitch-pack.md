@@ -7,7 +7,7 @@ ein: '954445418'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954445418'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/biatchpack
 instagram: ''
 facebook: 'https://www.facebook.com/HollywoodBiatchPack'

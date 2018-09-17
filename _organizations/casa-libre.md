@@ -7,7 +7,7 @@ ein: '954609414'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954609414'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/casa_libre
 instagram: www.instagram.com/casa_libre
 facebook: www.facebook.com/casa.libre.9

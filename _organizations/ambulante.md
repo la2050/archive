@@ -7,7 +7,7 @@ ein: '465509683'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465509683'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/ambulanteca
 instagram: www.instagram.com/ambulanteca
 facebook: www.facebook.com/ambulantecalifornia

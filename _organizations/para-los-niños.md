@@ -7,7 +7,7 @@ ein: '953443276'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953443276'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/paralosninosorg
 instagram: ''
 facebook: 'https://www.facebook.com/paralosninosfanpage'

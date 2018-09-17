@@ -7,7 +7,7 @@ ein: '134112234'
 zip: '90038'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134112234'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/ArtofActingLA
 instagram: www.instagram.com/artofactingstudio
 facebook: www.facebook.com/ArtofActingStudioLosAngeles

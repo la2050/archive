@@ -7,7 +7,7 @@ ein: '311796801'
 zip: '94611'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/cultureshockla
 instagram: www.instagram.com/cultureshockla
 facebook: www.facebook.com/cultureshockla

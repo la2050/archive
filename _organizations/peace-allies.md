@@ -7,7 +7,7 @@ ein: '471459497'
 zip: '91711'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: twitter.com/PeaceAllies
 instagram: facebook.com/PeaceAllies
 facebook: facebook.com/PeaceAllies

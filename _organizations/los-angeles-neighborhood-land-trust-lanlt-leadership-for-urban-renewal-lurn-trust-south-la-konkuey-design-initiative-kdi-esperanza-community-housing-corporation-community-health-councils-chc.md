@@ -10,7 +10,7 @@ ein: '383687836'
 zip: '90037'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383687836'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/LANLT'
 instagram: N/A
 facebook: www.facebook.com/FreeLotsAngeles

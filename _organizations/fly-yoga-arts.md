@@ -7,7 +7,7 @@ ein: '455259874'
 zip: '91601'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/flyyogaarts
 instagram: www.instagram.com/FLYyogaarts
 facebook: www.facebook.com/FLYyogaarts

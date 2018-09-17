@@ -7,7 +7,7 @@ ein: '953218396'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953218396'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: Twitter- @CSUINCLA
 instagram: csuinc
 facebook: Facebook-@CSUINC

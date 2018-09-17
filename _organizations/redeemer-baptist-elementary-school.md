@@ -7,7 +7,7 @@ ein: '951816037'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951816037'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/RedeemerElementary
 instagram: ''
 facebook: www.facebook.com/rbeschool

@@ -7,7 +7,7 @@ ein: '300687144'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300687144'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/LEAD_Inc
 instagram: instagram.com/leadinc
 facebook: www.facebook.com/leadinc.org

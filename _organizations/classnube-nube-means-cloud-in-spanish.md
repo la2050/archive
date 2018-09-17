@@ -7,7 +7,7 @@ ein: '474586012'
 zip: '91364'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/classnube
 instagram: ''
 facebook: 'https://www.facebook.com/classnube?ref=hl'

@@ -7,7 +7,7 @@ ein: '54259363'
 zip: '90069'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=54259363'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/EIC_online
 instagram: www.instagram.com/ent.industries.council
 facebook: www.facebook.com/EIConline

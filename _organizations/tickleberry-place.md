@@ -7,7 +7,7 @@ ein: '465040951'
 zip: '90008'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: tickleberryfun
 instagram: tickleberryfun
 facebook: tickleberryfun

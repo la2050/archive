@@ -7,7 +7,7 @@ ein: '463288070'
 zip: '92504'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: twitter.com/growgames
 instagram: instagram.com/growgames
 facebook: 'https://www.facebook.com/growgamesinteractive'

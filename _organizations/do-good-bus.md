@@ -7,7 +7,7 @@ ein: '300694127'
 zip: '0'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/DoGoodBus
 instagram: instagram.com/DoGoodBus
 facebook: www.facebook.com/DoGoodBus

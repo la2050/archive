@@ -7,7 +7,7 @@ ein: '954328068'
 zip: 90065-1011
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954328068'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/ArroyoSecoFound'
 instagram: www.instagram.com/arroyosecoviews
 facebook: www.facebook.com/ArroyoSecoFoundation

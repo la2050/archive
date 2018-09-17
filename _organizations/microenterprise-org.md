@@ -7,7 +7,7 @@ ein: '465504858'
 zip: '91324'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: N/A
 instagram: ''
 facebook: www.facebook.com/TheMicroenterpriseProgram

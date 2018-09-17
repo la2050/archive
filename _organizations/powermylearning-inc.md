@@ -7,7 +7,7 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: PowerMyLearning
 instagram: PowerMyLearning
 facebook: PowerMyLearning

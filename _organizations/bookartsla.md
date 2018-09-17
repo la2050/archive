@@ -7,7 +7,7 @@ ein: '465242055'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465242055'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/BookArtsLA
 instagram: '#BookArtsLA'
 facebook: www.facebook.com/BookArtsLA

@@ -7,7 +7,7 @@ ein: '471442024'
 zip: '90066'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: ArtCityLA
 instagram: ''
 facebook: facebook.com/ArtCityLA

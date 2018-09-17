@@ -7,7 +7,7 @@ ein: '134127229'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134127229'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/ghettofilm
 instagram: instagram.com/ghettofilmschool
 facebook: www.facebook.com/ghettofilmschool

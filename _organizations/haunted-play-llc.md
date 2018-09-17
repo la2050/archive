@@ -7,7 +7,7 @@ ein: '943490342'
 zip: '90230'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/enterdelusion
 instagram: www.instagram.com/enterdelusion/
 facebook: www.facebook.com/enterdelusion

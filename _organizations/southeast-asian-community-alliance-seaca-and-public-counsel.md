@@ -7,7 +7,7 @@ ein: '452156435'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452156435'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/seacala, https://twitter.com/PublicCounsel'
 instagram: ''
 facebook: www.facebook.com/seacala www.facebook.com/publiccounsel

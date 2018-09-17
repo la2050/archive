@@ -7,7 +7,7 @@ ein: '956000110'
 zip: '91722'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000110'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: NA
 instagram: NA
 facebook: 'https://www.facebook.com/wheelsofhopelosangeles?fref=ts'

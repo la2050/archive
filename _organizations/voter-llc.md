@@ -7,7 +7,7 @@ ein: '464743109'
 zip: '90401'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/Voter
 instagram: ''
 facebook: www.facebook.com/voterapp

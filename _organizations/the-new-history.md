@@ -7,7 +7,7 @@ ein: '471474363'
 zip: '90021'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: NewHistoryEdu
 instagram: NewHistoryEdu
 facebook: TheNewHistoryEdu

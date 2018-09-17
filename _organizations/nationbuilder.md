@@ -7,7 +7,7 @@ ein: '352315659'
 zip: '90048'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: nationbuilder
 instagram: instagram.com/nbcreators
 facebook: facebook.com/nationbuilder

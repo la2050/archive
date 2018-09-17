@@ -7,7 +7,7 @@ ein: '237360521'
 zip: '90744'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/sbccthrivela
 instagram: www.instagram.com/sbccthrivela
 facebook: www.facebook.com/sbccthrivela

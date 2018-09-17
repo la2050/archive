@@ -7,7 +7,7 @@ ein: '954415401'
 zip: '90266'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954415401'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/CCClubs
 instagram: ''
 facebook: www.facebook.com/careerandcollegeclubs

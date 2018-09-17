@@ -7,7 +7,7 @@ ein: '475199699'
 zip: '90066'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/PISouthLA'
 instagram: N/A
 facebook: N/A

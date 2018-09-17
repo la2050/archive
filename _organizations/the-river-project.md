@@ -7,7 +7,7 @@ ein: '954858263'
 zip: '91604'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954858263'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: RiverProjectLA
 instagram: TheRiverProjectLA
 facebook: N/A

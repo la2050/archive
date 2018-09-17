@@ -7,7 +7,7 @@ ein: '203037195'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203037195'
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: 'https://twitter.com/projectmuszed'
 instagram: Project MuszEd
 facebook: 'https://www.facebook.com/Project.MuszEd'

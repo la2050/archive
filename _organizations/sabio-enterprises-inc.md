@@ -7,7 +7,7 @@ ein: '464000152'
 zip: '90094'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: '0'
+tags_indicators: ''
 twitter: www.twitter.com/wesabio
 instagram: '@wesabio'
 facebook: www.facebook.com/sabio
