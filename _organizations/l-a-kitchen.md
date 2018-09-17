@@ -17,7 +17,7 @@ twitter: '@thelakitchen'
 instagram: '@thelakitchen'
 facebook: 'https://www.facebook.com/thelakitchen/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/l-a-kitchen/l-a-kitchen.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
 project_video: 'https://vimeo.com/262575721'
 org_summary: >-
   L.A. Kitchen works to combat hunger, food waste and recidivism, by reclaiming
@@ -31,5 +31,6 @@ project_ids: '8102059'
 organization_id_2: '2018059'
 title: L.A. Kitchen
 uri: /organizations/l-a-kitchen/
+category: live
 
 ---

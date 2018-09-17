@@ -17,7 +17,7 @@ instagram: '0'
 facebook: 'https://www.facebook.com/EveryoneOn/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/connect-to-compete-inc-everyoneon.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
 project_video: 'https://www.youtube.com/watch?v=-aFvxFfQick'
 org_summary: >-
   EveryoneOn is working to create social and economic opportunity by connecting
@@ -30,5 +30,6 @@ project_ids: '8102030'
 organization_id_2: '2018030'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 uri: /organizations/connect-to-compete-inc-everyoneon/
+category: connect
 
 ---

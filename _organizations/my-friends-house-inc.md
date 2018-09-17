@@ -15,7 +15,7 @@ instagram: '0'
 facebook: 'https://www.facebook.com/My-Friends-House-Inc-436222196498017/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/my-friends-house-inc/my-friends-house-inc.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
 org_summary: >-
   My Friends House distributes healthy food and develops healthy skills with
@@ -26,5 +26,6 @@ project_ids: '8102087'
 organization_id_2: '2018087'
 title: 'My Friends House, Inc.'
 uri: /organizations/my-friends-house-inc/
+category: live
 
 ---

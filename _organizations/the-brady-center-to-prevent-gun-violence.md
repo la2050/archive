@@ -15,7 +15,7 @@ instagram: 'https://instagram.com/bradybuzz'
 facebook: 'https://facebook.com/bradycampaign'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/the-brady-center-to-prevent-gun-violence.jpg
+  https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
 org_summary: >-
   For more than 40 years, Brady has been the leading national voice in the
@@ -32,5 +32,6 @@ project_ids: '8102117'
 organization_id_2: '2018117'
 title: The Brady Center to Prevent Gun Violence
 uri: /organizations/the-brady-center-to-prevent-gun-violence/
+category: play
 
 ---

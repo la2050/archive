@@ -16,7 +16,7 @@ twitter: '@lavamaela'
 instagram: lavamae_la
 facebook: lavamae_la
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/lava-mae/lava-mae.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg'
 project_video: 'https://www.youtube.com/watch?v=Uxp2LencnXs'
 org_summary: >-
   Lava Mae takes mobile hygiene + other critical services to the streets, where
@@ -29,5 +29,6 @@ project_ids: '8102066'
 organization_id_2: '2018066'
 title: Lava Mae
 uri: /organizations/lava-mae/
+category: connect
 
 ---

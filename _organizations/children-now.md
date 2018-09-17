@@ -14,7 +14,7 @@ twitter: '@ChildrenNow'
 instagram: '0'
 facebook: Children-Now-224016820554/
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/children-now/children-now.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
 project_video: '0'
 org_summary: >-
   Children Now is LA County’s whole-child, non-partisan research, policy,
@@ -28,5 +28,6 @@ project_ids: '8102019'
 organization_id_2: '2018019'
 title: Children Now
 uri: /organizations/children-now/
+category: connect
 
 ---

@@ -16,7 +16,7 @@ twitter: '@EverWildFA'
 instagram: 'https://www.instagram.com/everwildla/'
 facebook: 'https://www.facebook.com/EverWildLa/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/play/everwild/everwild.jpg'
+project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everwild.jpg'
 project_video: 'https://vimeo.com/262456324'
 org_summary: >-
   EverWild is a community that fosters environmental stewards through family
@@ -28,5 +28,6 @@ project_ids: '8102038'
 organization_id_2: '2018038'
 title: EverWild
 uri: /organizations/everwild/
+category: play
 
 ---

@@ -16,7 +16,7 @@ instagram: '@CenterforCouncil'
 facebook: CenterforCouncil
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/center-for-council-a-project-of-community-partners.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
 org_summary: >-
   Center for Council trains individuals and communities to lead Council circles
@@ -36,5 +36,6 @@ project_ids: '8102015'
 organization_id_2: '2018015'
 title: 'Center for Council, a project of Community Partners'
 uri: /organizations/center-for-council-a-project-of-community-partners/
+category: connect
 
 ---

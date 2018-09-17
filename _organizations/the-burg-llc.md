@@ -14,7 +14,7 @@ twitter: '@theburgteam'
 instagram: '@theburgteam'
 facebook: 'https://www.facebook.com/theburgteam/'
 org_type: Social enterprise or Bcorps
-project_image: 'https://activation.la2050.org/connect/the-burg-llc/the-burg-llc.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
 org_summary: >-
   The Burg is the community's platform, a digital public square that funnels
@@ -27,5 +27,6 @@ project_ids: '8102118'
 organization_id_2: '2018118'
 title: 'The Burg, LLC'
 uri: /organizations/the-burg-llc/
+category: connect
 
 ---

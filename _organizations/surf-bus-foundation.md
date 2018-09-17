@@ -17,7 +17,8 @@ twitter: '["@altaseaorg","@lamitopsail","@marionc82937170"]'
 instagram: '["@surfbusfoundation","@altasea","@tallshipschool","@surf_academy,"]'
 facebook: 'https://www.facebook.com/The-Surf-Bus-Foundation-170696492986174/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/play/surf-bus-foundation/surf-bus-foundation.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/play/2048-wide/surf-bus-foundation.jpg
 project_video: 'https://vimeo.com/262573193'
 org_summary: >-
   Surf Bus empowers people to foster a healing connection with the sea. Through
@@ -43,5 +44,6 @@ project_ids: '8102114'
 organization_id_2: '2018114'
 title: Surf Bus Foundation
 uri: /organizations/surf-bus-foundation/
+category: play
 
 ---

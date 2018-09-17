@@ -16,7 +16,7 @@ twitter: '@miryslist'
 instagram: '@miryslist'
 facebook: www.facebook.com/miryslist
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/mirys-list/mirys-list.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg'
 project_video: 'https://youtu.be/6re3u9HlO-A'
 org_summary: >-
   Miry’s List is a nonprofit that helps families and individuals resettling in
@@ -30,5 +30,6 @@ project_ids: '8102083'
 organization_id_2: '2018083'
 title: Miry’s List
 uri: /organizations/mirys-list/
+category: connect
 
 ---

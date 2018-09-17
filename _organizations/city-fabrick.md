@@ -16,7 +16,7 @@ twitter: '@cityfabrick'
 instagram: cityfabrick
 facebook: cityfabrick
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/city-fabrick/city-fabrick.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg'
 project_video: 'https://youtu.be/dUZCmEGdjvM'
 org_summary: >-
   City Fabrick is a nonprofit design studio dedicated to enhancing communities
@@ -27,5 +27,6 @@ project_ids: '8102023'
 organization_id_2: '2018023'
 title: City Fabrick
 uri: /organizations/city-fabrick/
+category: live
 
 ---

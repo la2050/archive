@@ -215,27 +215,8 @@ text-align: left;
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
 
-{% assign data_list_with_duplicates = site.data["organizations-2013-2018"] %}
-
-{% comment %} Order by year submitted, most recent first {% endcomment %}
-{% assign data_list_with_duplicates = data_list_with_duplicates | sort: "year_submitted" | reverse %}
-
-{% comment %} Create an empty array {% endcomment %}
-{% assign data_list = "" | split: "," %}
-{% assign previously_shown_organization_ids = "" | split: "," %}
-
-{% for data in data_list_with_duplicates %}
-  {% assign duplicate_found = false %}
-  {% for id in previously_shown_organization_ids %}
-    {% if data['organization_id'] == id %}
-      {% assign duplicate_found = true %}
-    {% endif %}
-  {% endfor %}
-  {% unless duplicate_found == true %}
-    {% assign data_list = data_list | push: data %}
-    {% assign previously_shown_organization_ids = previously_shown_organization_ids | push: data['organization_id'] %}
-  {% endunless %}
-{% endfor %}
+{% assign data_collection = site.collections | where: "label", "organizations" | first %}
+{% assign data_list = data_collection.docs %}
 
 
 {% comment %} Order alphabetically {% endcomment %}

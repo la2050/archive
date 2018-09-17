@@ -17,7 +17,7 @@ instagram: www.instagram.com/JusticeLANow
 facebook: www.facebook.com/JusticeLANow
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/justice-la-dignity-and-power-now/justice-la-dignity-and-power-now.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg
 project_video: 'https://youtu.be/p_JwubxZcKA'
 org_summary: >-
   Justice LA seeks to reclaim, reimagine, and reinvest the $3.5 billion
@@ -31,5 +31,6 @@ project_ids: '8102056'
 organization_id_2: '2018056'
 title: Justice LA | Dignity and Power Now
 uri: /organizations/justice-la-dignity-and-power-now/
+category: connect
 
 ---

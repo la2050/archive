@@ -18,7 +18,7 @@ instagram: 'https://instagram.com/thinktankdtla'
 facebook: 'https://www.facebook.com/thinktankgallery'
 org_type: Forprofit
 project_image: >-
-  https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/think-tank-productions-inc-dba-think-tank-gallery.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
 project_video: 'https://youtu.be/msrLyYttTv8'
 org_summary: >-
   Think Tank Gallery is an alternative arts space and immersive production
@@ -44,5 +44,6 @@ project_ids: '5102319'
 organization_id_2: '2018125'
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
+category: create
 
 ---

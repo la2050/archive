@@ -16,7 +16,7 @@ twitter: '@globalgreen'
 instagram: '@globalgreen'
 facebook: '@globalgreenfans'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/global-green/global-green.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/global-green.jpg'
 project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
 org_summary: >-
   Global Green is an urban sustainability nonprofit headquartered in Santa
@@ -31,5 +31,6 @@ project_ids: '8102046'
 organization_id_2: '2018046'
 title: Global Green
 uri: /organizations/global-green/
+category: live
 
 ---

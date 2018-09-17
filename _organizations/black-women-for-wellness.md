@@ -18,7 +18,7 @@ instagram: BWWLA
 facebook: Black Women for Wellness
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/black-women-for-wellness/black-women-for-wellness.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
 project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
 org_summary: >-
   Black Women for Wellness is a non-profit committed to the empowerment, health,
@@ -33,5 +33,6 @@ project_ids: '8102009'
 organization_id_2: '2018009'
 title: Black Women for Wellness
 uri: /organizations/black-women-for-wellness/
+category: live
 
 ---

@@ -18,7 +18,7 @@ instagram: '0'
 facebook: '0'
 org_type: Government
 project_image: >-
-  https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/city-of-los-angeles-bureau-of-street-lighting.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
 project_video: 'https://youtu.be/tVCxc_xD6Xo'
 org_summary: >-
   The City of Los Angeles, Bureau of Street Lighting provides illumination for
@@ -32,5 +32,6 @@ project_ids: '8102026'
 organization_id_2: '2018026'
 title: 'City of Los Angeles, Bureau of Street Lighting'
 uri: /organizations/city-of-los-angeles-bureau-of-street-lighting/
+category: live
 
 ---

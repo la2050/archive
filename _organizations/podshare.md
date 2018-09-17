@@ -14,7 +14,7 @@ twitter: '@podshare'
 instagram: Podshare
 facebook: 'https://www.facebook.com/PodShare/'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/live/podshare/podshare.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/podshare.jpg'
 project_video: 'https://youtu.be/9T1sxwl670s'
 org_summary: >-
   PodShare has built over 190 affordable housing units across Los Angeles and
@@ -26,5 +26,6 @@ project_ids: ''
 organization_id_2: '2018096'
 title: Podshare
 uri: /organizations/podshare/
+category: live
 
 ---

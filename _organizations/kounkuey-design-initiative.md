@@ -17,7 +17,7 @@ instagram: '["@kounkuey","@lurnetwork"]'
 facebook: www.facebook.com/Kounkuey/
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/play/kounkuey-design-initiative/kounkuey-design-initiative.jpg
+  https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
 org_summary: >-
   KDI is a design + community development nonprofit that partners with residents
@@ -39,5 +39,6 @@ project_ids: '8102058'
 organization_id_2: '2018058'
 title: Kounkuey Design Initiative
 uri: /organizations/kounkuey-design-initiative/
+category: play
 
 ---

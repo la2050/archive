@@ -17,7 +17,7 @@ instagram: corosocal
 facebook: 'https://www.facebook.com/corosoutherncalifornia'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/coro-southern-california/coro-southern-california.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
 org_summary: >-
   Coro Southern California uses a sophisticated blend of experiential learning
@@ -29,5 +29,6 @@ project_ids: '8102031'
 organization_id_2: '2018031'
 title: Coro Southern California
 uri: /organizations/coro-southern-california/
+category: connect
 
 ---

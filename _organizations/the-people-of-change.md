@@ -17,7 +17,7 @@ instagram: '@thepplofchange'
 facebook: 'https://www.facebook.com/thepeopleofchange/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/the-people-of-change/the-people-of-change.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
 project_video: '0'
 org_summary: >-
   The People of Change programs promote advancement opportunities through
@@ -29,5 +29,6 @@ project_ids: '8102122'
 organization_id_2: '2018122'
 title: The People of Change
 uri: /organizations/the-people-of-change/
+category: learn
 
 ---

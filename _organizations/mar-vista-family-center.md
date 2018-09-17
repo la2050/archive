@@ -15,7 +15,7 @@ instagram: '@Marvistafc'
 facebook: 'https://www.facebook.com/marvistafamilycenter/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/mar-vista-family-center/mar-vista-family-center.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
 project_video: 'https://youtu.be/4ejRwTEFlUg'
 org_summary: >-
   The Mar Vista Family Center provides low-income families with quality early
@@ -27,5 +27,6 @@ project_ids: '8102080'
 organization_id_2: '2018080'
 title: Mar Vista Family Center
 uri: /organizations/mar-vista-family-center/
+category: live
 
 ---

@@ -18,7 +18,7 @@ instagram: '@lacommons'
 facebook: lacommons
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/la-commons-a-project-of-community-partners.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
 org_summary: >-
   LA Commons facilitates artistic processes that engage diverse communities in
@@ -34,5 +34,6 @@ project_ids: '8102060'
 organization_id_2: '2018060'
 title: 'LA Commons, a project of Community Partners'
 uri: /organizations/la-commons-a-project-of-community-partners/
+category: connect
 
 ---

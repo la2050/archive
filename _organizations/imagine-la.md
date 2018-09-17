@@ -14,7 +14,7 @@ twitter: '@ImagineLA'
 instagram: '@Imagine.LA'
 facebook: '@ImagineLA'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/imagine-la/imagine-la.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
 org_summary: >-
   Imagine LA recruits teams of volunteer mentors who are trained and guided by
@@ -31,5 +31,6 @@ project_ids: '8102054'
 organization_id_2: '2018054'
 title: Imagine LA
 uri: /organizations/imagine-la/
+category: connect
 
 ---

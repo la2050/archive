@@ -16,7 +16,7 @@ twitter: '@VoteRunLead'
 instagram: '@voterunlead'
 facebook: www.facebook.com/VoteRunLead
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/voterunlead/voterunlead.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg'
 project_video: 'https://www.youtube.com/watch?v=UJlhdh9rWgs'
 org_summary: >-
   VoteRunLead trains diverse women to unleash their political power, run for
@@ -30,5 +30,6 @@ project_ids: '8102134'
 organization_id_2: '2018134'
 title: VoteRunLead
 uri: /organizations/voterunlead/
+category: connect
 
 ---

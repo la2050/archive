@@ -18,7 +18,7 @@ instagram: '@child_360'
 facebook: www.facebook.com/child360
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/child360-formerly-los-angeles-universal-preschool.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
 project_video: 'https://youtu.be/3lSBgCsP9Sg'
 org_summary: >-
   Child360 advances early learning from every angle through community advocacy,
@@ -32,5 +32,6 @@ project_ids: '8102018'
 organization_id_2: '2018018'
 title: Child360 (formerly Los Angeles Universal Preschool)
 uri: /organizations/child360-formerly-los-angeles-universal-preschool/
+category: connect
 
 ---

@@ -15,7 +15,7 @@ instagram: TopangaWomensCircle
 facebook: TopangaWomensCircle
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/topanga-womens-circle/topanga-womens-circle.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
 project_video: 'https://youtu.be/9lVdk4emJ-M'
 org_summary: >-
   Working with the Salvation Army and Venice Community Housing, TWC, a 100%
@@ -32,5 +32,6 @@ project_ids: '8102126'
 organization_id_2: '2018126'
 title: Topanga Women's Circle
 uri: /organizations/topanga-womens-circle/
+category: live
 
 ---

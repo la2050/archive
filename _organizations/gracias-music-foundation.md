@@ -17,7 +17,7 @@ instagram: gracias_choir
 facebook: 'https://www.facebook.com/graciasmusicfoundation/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/gracias-music-foundation/gracias-music-foundation.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=EeCBqVA5f_g'
 org_summary: >-
   Cultivating and empowering generations of musicians that give back to the
@@ -36,5 +36,6 @@ project_ids: '8102048'
 organization_id_2: '2018048'
 title: Gracias Music Foundation
 uri: /organizations/gracias-music-foundation/
+category: connect
 
 ---

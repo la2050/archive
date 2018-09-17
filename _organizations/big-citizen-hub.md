@@ -16,7 +16,7 @@ twitter: 'https://twitter.com/Investinyouthco'
 instagram: 'https://www.instagram.com/investinyouth_/'
 facebook: 'https://www.facebook.com/InvestinYouthCo/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/big-citizen-hub/big-citizen-hub.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg'
 project_video: '0'
 org_summary: >-
   The Invest in Youth Coalition is urging our city’s policymakers to create a
@@ -30,5 +30,6 @@ project_ids: '8102008'
 organization_id_2: '2018008'
 title: Big Citizen HUB
 uri: /organizations/big-citizen-hub/
+category: live
 
 ---

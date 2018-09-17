@@ -16,7 +16,7 @@ twitter: 'https://twitter.com/TWIGGHOWTO'
 instagram: 'https://www.instagram.com/twigghowto/'
 facebook: 'https://www.facebook.com/twigghowto'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/connect/twigg-how-to/twigg-how-to.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg'
 project_video: '0'
 org_summary: >-
   TWIGG How-To [aka The Winging It Girls’ Guide] is an award-winning platform
@@ -30,5 +30,6 @@ project_ids: ''
 organization_id_2: '2018127'
 title: TWIGG How-To
 uri: /organizations/twigg-how-to/
+category: connect
 
 ---

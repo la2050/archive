@@ -14,7 +14,8 @@ twitter: stellassocks
 instagram: stellassocks
 facebook: 'https://www.facebook.com/stellassocks/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/stellas-socks/stellas-socks.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
 project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
 org_summary: >-
   Stella’s Socks is a 501c3 started by 13-year old Stella Vaughan Verk and her
@@ -28,5 +29,6 @@ project_ids: '8102112'
 organization_id_2: '2018112'
 title: Stella's Socks
 uri: /organizations/stellas-socks/
+category: connect
 
 ---

@@ -15,7 +15,7 @@ instagram: urbansummeracademy
 facebook: urbansummeracademy
 org_type: Forprofit
 project_image: >-
-  https://activation.la2050.org/learn/all-in-urban-summer-academy/all-in-urban-summer-academy.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
 project_video: '0'
 org_summary: >-
   Summer teachers implement intervention and project based curriculum to boost
@@ -28,5 +28,6 @@ project_ids: '4102079'
 organization_id_2: '2018006'
 title: All-In Urban Summer Academy
 uri: /organizations/all-in-urban-summer-academy/
+category: learn
 
 ---

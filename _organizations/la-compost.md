@@ -16,7 +16,7 @@ twitter: '@lacompost'
 instagram: '@lacompost'
 facebook: '@l.a.compostCA'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/la-compost/la-compost.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg'
 project_video: 'https://youtu.be/QeunrIbUzt0'
 org_summary: >-
   LA Compost works alongside a growing network of community members and
@@ -39,5 +39,6 @@ project_ids: '8102061'
 organization_id_2: '2018061'
 title: LA Compost
 uri: /organizations/la-compost/
+category: connect
 
 ---

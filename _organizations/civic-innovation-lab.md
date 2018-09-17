@@ -17,7 +17,7 @@ instagram: civicinnovationlab
 facebook: civicinnlab
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/create/civic-innovation-lab/civic-innovation-lab.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 project_video: '0'
 org_summary: >-
   Civic Innovation Lab facilitates cross-sector collaboration and the creation
@@ -34,5 +34,6 @@ project_ids: '8102028'
 organization_id_2: '2018028'
 title: Civic Innovation Lab
 uri: /organizations/civic-innovation-lab/
+category: create
 
 ---

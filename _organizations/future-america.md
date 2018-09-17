@@ -17,7 +17,7 @@ instagram: misterlatinjazz
 facebook: >-
   https://www.facebook.com/Latin-Jazz-Youth-Ensemble-of-San-Francisco-177741569491/
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/learn/future-america/future-america.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg'
 project_video: 'https://youtu.be/bbNl_ikc93g'
 org_summary: >-
   The LJYE.com provides ensemble and performance training FREE for musicians
@@ -33,5 +33,6 @@ project_ids: '8102042'
 organization_id_2: '2018042'
 title: Future America
 uri: /organizations/future-america/
+category: learn
 
 ---

@@ -15,7 +15,7 @@ instagram: 'https://www.instagram.com/loladotcool/'
 facebook: 'https://www.facebook.com/loladotcool/'
 org_type: Forprofit
 project_image: >-
-  https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/lola-parent-company-amir-erica-inc.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
 project_video: '0'
 org_summary: 'LOLA explains local politics and issues for young, busy Los Angelenos.'
 areas_impacted:
@@ -29,5 +29,6 @@ project_ids: ''
 organization_id_2: '2018069'
 title: LOLA
 uri: /organizations/lola/
+category: connect
 
 ---

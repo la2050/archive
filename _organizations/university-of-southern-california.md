@@ -15,7 +15,7 @@ instagram: '0'
 facebook: 'https://www.facebook.com/PriceSocialInnovation'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/university-of-southern-california/university-of-southern-california.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
 org_summary: >-
   Neighborhood Data For Social Change provides free, publicly available
@@ -39,5 +39,6 @@ project_ids: '8102133'
 organization_id_2: '2018133'
 title: University of Southern California
 uri: /organizations/university-of-southern-california/
+category: connect
 
 ---

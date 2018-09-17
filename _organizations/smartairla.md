@@ -14,7 +14,7 @@ twitter: '0'
 instagram: SmartAirLA
 facebook: www.facebook.com/smartairla
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/smartairla/smartairla.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
 project_video: '0'
 org_summary: >-
   SmartAirLA deploys smart inhalers to high-risk asthmatic children in
@@ -40,5 +40,6 @@ project_ids: '8102110'
 organization_id_2: '2018110'
 title: SmartAirLA
 uri: /organizations/smartairla/
+category: live
 
 ---

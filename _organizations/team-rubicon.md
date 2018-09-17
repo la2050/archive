@@ -17,7 +17,7 @@ twitter: '@TeamRubicon'
 instagram: '@TeamRubicon'
 facebook: 'https://www.facebook.com/teamrubicon'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/team-rubicon/team-rubicon.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/team-rubicon.jpg'
 project_video: 'https://www.youtube.com/watch?v=5BOUm4PBeUc'
 org_summary: >-
   Team Rubicon delivers unparalleled disaster relief and recovery while
@@ -34,5 +34,6 @@ project_ids: '8102116'
 organization_id_2: '2018116'
 title: Team Rubicon
 uri: /organizations/team-rubicon/
+category: live
 
 ---

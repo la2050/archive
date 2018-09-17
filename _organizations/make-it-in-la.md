@@ -15,7 +15,7 @@ instagram: '["@wemakeitinla","@lafoodfest","@artisanalla"]'
 facebook: >-
   ["https://facebook.com/makeitinla","https://facebook.com/LAFoodfest","https://facebook.com/ArtisanalLA"]
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/create/make-it-in-la/make-it-in-la.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
 org_summary: >-
   MAKE IT IN LA is a community of diverse creators who turn their passions into
@@ -35,5 +35,6 @@ project_ids: '8102079'
 organization_id_2: '2018079'
 title: MAKE IT IN LA
 uri: /organizations/make-it-in-la/
+category: create
 
 ---

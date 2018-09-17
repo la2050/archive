@@ -19,7 +19,7 @@ instagram: '@revolutionizehollywood'
 facebook: 'https://www.facebook.com/revolutionizehollywood'
 org_type: Social enterprise or Bcorps
 project_image: >-
-  https://activation.la2050.org/create/revolutionize-hollywood/revolutionize-hollywood.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/revolutionize-hollywood.jpg
 project_video: '0'
 org_summary: >-
   We help LA artists approach their career with an entrepreneur mindset, we host
@@ -39,5 +39,6 @@ project_ids: '8102103'
 organization_id_2: '2018103'
 title: Revolutionize Hollywood
 uri: /organizations/revolutionize-hollywood/
+category: create
 
 ---

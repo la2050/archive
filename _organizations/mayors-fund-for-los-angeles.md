@@ -16,7 +16,7 @@ facebook: >-
   ["https://www.facebook.com/mayorsfundla/","https://www.facebook.com/MayorOfLA/"]
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/mayors-fund-for-los-angeles/mayors-fund-for-los-angeles.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
 project_video: '0'
 org_summary: >-
   The Mayor’s Fund for Los Angeles brings together the best of private,
@@ -33,5 +33,6 @@ project_ids: '8102081'
 organization_id_2: '2018081'
 title: Mayor’s Fund for Los Angeles
 uri: /organizations/mayors-fund-for-los-angeles/
+category: connect
 
 ---

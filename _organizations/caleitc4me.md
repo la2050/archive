@@ -16,7 +16,7 @@ twitter: '@CalEITC4Me'
 instagram: '0'
 facebook: 'https://www.facebook.com/CalEITC4Me/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/caleitc4me/caleitc4me.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
 project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
 org_summary: >-
   CalEITC4Me is a statewide program, run by Golden State Opportunity, to create
@@ -31,5 +31,6 @@ project_ids: '8102012'
 organization_id_2: '2018012'
 title: CalEITC4Me
 uri: /organizations/caleitc4me/
+category: live
 
 ---

@@ -18,7 +18,7 @@ instagram: '0'
 facebook: '0'
 org_type: Forprofit
 project_image: >-
-  https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/mentoring-adolescents-for-personal-professional-success.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
 project_video: 'https://youtu.be/hVF2r_6Q-Vw'
 org_summary: >-
   As part of the HSRA curriculum, MAPPS is personalized human development
@@ -32,5 +32,6 @@ project_ids: ''
 organization_id_2: '2018082'
 title: Mentoring Adolescents for Personal & Professional Success
 uri: /organizations/mentoring-adolescents-for-personal-professional-success/
+category: learn
 
 ---

@@ -17,7 +17,7 @@ instagram: 'https://www.instagram.com/lamasterchorale/'
 facebook: 'https://www.facebook.com/LAMasterChorale/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-master-chorale/los-angeles-master-chorale.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
 org_summary: >-
   Los Angeles Master Chorale is an independent and innovative professional vocal
@@ -36,5 +36,6 @@ project_ids: '8102076'
 organization_id_2: '2018076'
 title: Los Angeles Master Chorale
 uri: /organizations/los-angeles-master-chorale/
+category: connect
 
 ---

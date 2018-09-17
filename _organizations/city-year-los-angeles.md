@@ -17,7 +17,7 @@ instagram: '@cityyearla'
 facebook: 'https://www.facebook.com/groups/CityYearLA/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/city-year-los-angeles/city-year-los-angeles.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
 org_summary: >-
   We are an education nonprofit that deploys diverse teams of AmeriCorps members
@@ -35,5 +35,6 @@ project_ids: '8102027'
 organization_id_2: '2018027'
 title: City Year Los Angeles
 uri: /organizations/city-year-los-angeles/
+category: connect
 
 ---

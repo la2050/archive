@@ -17,7 +17,7 @@ instagram: 'https://www.instagram.com/larchmontschool/'
 facebook: 'https://www.facebook.com/LarchmontSchool/posts/10160153595750361'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/larchmont-charter-school/larchmont-charter-school.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
 org_summary: >-
   The Larchmont Social Justice Alliance gives kids a platform to speak up for
@@ -34,5 +34,6 @@ project_ids: '8102064'
 organization_id_2: '2018064'
 title: Larchmont Charter School
 uri: /organizations/larchmont-charter-school/
+category: connect
 
 ---

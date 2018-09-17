@@ -16,7 +16,8 @@ twitter: '@pfpla'
 instagram: '@pfpla'
 facebook: 'https://www.facebook.com/PeopleForParksLosAngeles'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/play/people-for-parks/people-for-parks.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
 project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
 org_summary: >-
   PFP creates access to safe, vibrant play spaces in underserved LA by 1)
@@ -30,5 +31,6 @@ project_ids: '8102095'
 organization_id_2: '2018095'
 title: People for Parks
 uri: /organizations/people-for-parks/
+category: play
 
 ---

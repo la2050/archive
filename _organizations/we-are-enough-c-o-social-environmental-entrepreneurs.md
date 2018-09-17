@@ -18,7 +18,7 @@ instagram: '@weareenoughbiz'
 facebook: '0'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
 project_video: 'https://youtu.be/hYxxWm_J0Yc'
 org_summary: >-
   All we do is educate women globally at every socioeconomic level and age on
@@ -31,5 +31,6 @@ project_ids: '8102136'
 organization_id_2: '2018136'
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
+category: create
 
 ---

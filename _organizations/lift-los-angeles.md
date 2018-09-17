@@ -16,7 +16,8 @@ twitter: '@LIFTCommunities'
 instagram: liftcommunities
 facebook: '@LIFTcommunities'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/lift-los-angeles/lift-los-angeles.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
 org_summary: >-
   LIFT-LA is the only anti-poverty organization providing financial and career
@@ -35,5 +36,6 @@ project_ids: '8102068'
 organization_id_2: '2018068'
 title: LIFT-Los Angeles
 uri: /organizations/lift-los-angeles/
+category: live
 
 ---

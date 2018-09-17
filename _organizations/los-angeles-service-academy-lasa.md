@@ -15,7 +15,7 @@ instagram: instagram.com/husc_icw
 facebook: facebook.com/husc.icw
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/los-angeles-service-academy-lasa/los-angeles-service-academy-lasa.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/los-angeles-service-academy-lasa.jpg
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
 org_summary: >-
   LASA combines fieldwork and student engagement to change the lives and career
@@ -41,5 +41,6 @@ project_ids: '8102077'
 organization_id_2: '2018077'
 title: Los Angeles Service Academy (LASA)
 uri: /organizations/los-angeles-service-academy-lasa/
+category: learn
 
 ---

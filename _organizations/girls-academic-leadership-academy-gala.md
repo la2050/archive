@@ -18,7 +18,7 @@ instagram: girls_academic_leadership_acad
 facebook: GALAcademy
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/girls-academic-leadership-academy-gala.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 project_video: 'https://youtu.be/PTteThgae3o'
 org_summary: >-
   Through a rigorous college preparatory curriculum, Girls Academic Leadership
@@ -30,5 +30,6 @@ project_ids: '8102045'
 organization_id_2: '2018045'
 title: Girls Academic Leadership Academy (GALA)
 uri: /organizations/girls-academic-leadership-academy-gala/
+category: learn
 
 ---

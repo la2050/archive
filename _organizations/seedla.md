@@ -16,7 +16,7 @@ twitter: seedcg
 instagram: '0'
 facebook: 'https://www.facebook.com/seedusa'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/seedla/seedla.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'
 project_video: 'https://www.youtube.com/watch?v=p0Ag2WK9kaw'
 org_summary: >-
   SeedLA brings together highly skilled young Angelenos and provides pro-bono
@@ -39,5 +39,6 @@ project_ids: '8102107'
 organization_id_2: '2018107'
 title: SeedLA
 uri: /organizations/seedla/
+category: live
 
 ---

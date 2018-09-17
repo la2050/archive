@@ -15,7 +15,7 @@ instagram: NotImpossible
 facebook: NotImpossible
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/not-impossible-foundation/not-impossible-foundation.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
 project_video: '0'
 org_summary: >-
   NIF recognizes global, human-centered absurdities deemed insolvable, then
@@ -30,5 +30,6 @@ project_ids: '8102090'
 organization_id_2: '2018090'
 title: Not Impossible Foundation
 uri: /organizations/not-impossible-foundation/
+category: live
 
 ---

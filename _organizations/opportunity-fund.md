@@ -20,7 +20,8 @@ instagram: >-
 facebook: >-
   ["https://www.facebook.com/opportunityfund","https://www.facebook.com/ofsmallbusiness/","https://www.facebook.com/FIELDatAspen/","https://www.facebook.com/SmallBusinessMajority/","https://www.facebook.com/VenturizeOrg/","https://www.facebook.com/LendingClubTeam/","https://www.facebook.com/FundingCircleUS/","https://www.facebook.com/fundera/"]
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/create/opportunity-fund/opportunity-fund.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
 project_video: 'https://youtu.be/KrGSS4OtP50'
 org_summary: >-
   RBLC is a network of lenders and small business advocates in Los Angeles
@@ -45,5 +46,6 @@ project_ids: '8102093'
 organization_id_2: '2018093'
 title: Opportunity Fund
 uri: /organizations/opportunity-fund/
+category: create
 
 ---

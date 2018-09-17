@@ -16,7 +16,7 @@ twitter: 'https://twitter.com/Rgnl_LA'
 instagram: 'https://www.instagram.com/regional.la8605/'
 facebook: 'https://www.facebook.com/rgnl.la'
 org_type: Social enterprise or Bcorps
-project_image: 'https://activation.la2050.org/connect/regional-la/regional-la.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
 org_summary: >-
   REGIONAL.LA is a civic engagement tool that allows residents to find and
@@ -42,5 +42,6 @@ project_ids: '8102102'
 organization_id_2: '2018102'
 title: REGIONAL.LA
 uri: /organizations/regional-la/
+category: connect
 
 ---

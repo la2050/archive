@@ -15,7 +15,7 @@ instagram: sbbc_la
 facebook: 'https://www.facebook.com/southbaybicyclecoalition'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/play/south-bay-bicycle-coalition/south-bay-bicycle-coalition.jpg
+  https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
 project_video: 'https://youtu.be/ZE0fqJVRj80'
 org_summary: >-
   SBBC, now >400 members, was founded in 2009 by South Bay cyclists determined
@@ -27,5 +27,6 @@ project_ids: '8102111'
 organization_id_2: '2018111'
 title: South Bay Bicycle Coalition
 uri: /organizations/south-bay-bicycle-coalition/
+category: play
 
 ---

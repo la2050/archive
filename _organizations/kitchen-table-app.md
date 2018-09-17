@@ -14,7 +14,8 @@ twitter: 'https://twitter.com/kitchentableapp'
 instagram: 'https://www.instagram.com/kitchentableapp'
 facebook: 'https://www.facebook.com/kitchentableapp'
 org_type: Social enterprise or Bcorps
-project_image: 'https://activation.la2050.org/connect/kitchen-table-app/kitchen-table-app.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 project_video: 'https://youtu.be/Rmqp7T8vQ0A'
 org_summary: >-
   Kitchen Table App is a community building platform that brings people together
@@ -28,5 +29,6 @@ project_ids: '8102057'
 organization_id_2: '2018057'
 title: Kitchen Table App
 uri: /organizations/kitchen-table-app/
+category: connect
 
 ---

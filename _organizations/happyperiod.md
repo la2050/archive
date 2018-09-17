@@ -16,7 +16,7 @@ twitter: happyperiodorg
 instagram: wearehappyperiod
 facebook: '0'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/happyperiod/happyperiod.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
 project_video: 'https://youtu.be/goBUjr5-dRA'
 org_summary: >-
   #HappyPeriod is a social movement aiming to eliminate the stigma surrounding
@@ -30,5 +30,6 @@ project_ids: '8102001'
 organization_id_2: '2018001'
 title: '#HappyPeriod'
 uri: /organizations/happyperiod/
+category: live
 
 ---

@@ -16,7 +16,7 @@ twitter: '@thehackerfund'
 instagram: '@hackerfund'
 facebook: '@hackerfund'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/create/hacker-fund/hacker-fund.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
 project_video: 'https://vimeo.com/231126321'
 org_summary: >-
   Hacker Fund empowers technologists to create social change through educational
@@ -29,5 +29,6 @@ project_ids: '8102050'
 organization_id_2: '2018050'
 title: Hacker Fund
 uri: /organizations/hacker-fund/
+category: create
 
 ---

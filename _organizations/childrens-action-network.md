@@ -16,7 +16,7 @@ instagram: FosterMore
 facebook: 'https://www.facebook.com/FosterMore'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/tides-center-dba-childrens-action-network.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
 project_video: 'https://youtu.be/JPeuzRmiI3w'
 org_summary: >-
   FosterMore highlights the amazing potential of youth in the foster care system
@@ -30,5 +30,6 @@ project_ids: '8102020'
 organization_id_2: '2018020'
 title: Children's Action Network
 uri: /organizations/childrens-action-network/
+category: connect
 
 ---

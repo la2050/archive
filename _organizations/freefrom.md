@@ -16,7 +16,7 @@ twitter: 'https://twitter.com/freefromorg'
 instagram: '@freefromdotorg'
 facebook: 'https://www.facebook.com/freefrom.org/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/freefrom/freefrom.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
 project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
 org_summary: >-
   FreeFrom is the first and only organization in the US working to end domestic
@@ -33,5 +33,6 @@ project_ids: '8102041'
 organization_id_2: '2018041'
 title: FreeFrom
 uri: /organizations/freefrom/
+category: live
 
 ---

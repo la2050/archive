@@ -14,7 +14,8 @@ twitter: '@RaiseAChild'
 instagram: RaiseAChild
 facebook: RaiseAChild
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/raise-a-child-inc/raise-a-child-inc.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
 project_video: 'https://vimeo.com/261964830'
 org_summary: >-
   RaiseAChild leads the nation in building loving families for foster children
@@ -40,5 +41,6 @@ project_ids: '8102100'
 organization_id_2: '2018100'
 title: 'Raise A Child, Inc.'
 uri: /organizations/raise-a-child-inc/
+category: connect
 
 ---

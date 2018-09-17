@@ -16,7 +16,7 @@ twitter: '@ProduceAthon'
 instagram: '@produceAthon'
 facebook: www.facebook.com/ProduceAthon
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/create/produceathon/produceathon.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/produceathon.jpg'
 project_video: '0'
 org_summary: >-
   ProduceAthon uses a HackAthon meets Incentive Challenge approach to catalyze
@@ -42,5 +42,6 @@ project_ids: '8102097'
 organization_id_2: '2018097'
 title: ProduceAthon
 uri: /organizations/produceathon/
+category: create
 
 ---

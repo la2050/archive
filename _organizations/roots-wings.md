@@ -15,7 +15,7 @@ instagram: rootsnwings_malibu
 facebook: >-
   Roots-Wings-Counseling-Classes-Coaching-for-a-Meaningful-Life-1952358844987700/
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/live/roots-wings/roots-wings.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
 org_summary: >-
   We are a 501c3 non-profit organization bringing evidence-based parent
@@ -35,5 +35,6 @@ project_ids: '5102284'
 organization_id_2: '2018105'
 title: Roots & Wings
 uri: /organizations/roots-wings/
+category: live
 
 ---

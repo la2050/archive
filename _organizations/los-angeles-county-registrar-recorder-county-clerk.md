@@ -16,7 +16,7 @@ instagram: '@lacountyrrcc'
 facebook: 'https://www.facebook.com/LACountyRRCC/'
 org_type: Government
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/los-angeles-county-registrar-recorder-county-clerk.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
 project_video: 'https://youtu.be/Z8m9oU7eBqc'
 org_summary: >-
   The Registrar-Recorder/County Clerk is responsible for registering voters,
@@ -30,5 +30,6 @@ project_ids: '8102073'
 organization_id_2: '2018073'
 title: Los Angeles County Registrar-Recorder/County Clerk
 uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
+category: connect
 
 ---

@@ -16,7 +16,7 @@ twitter: grid110
 instagram: grid110
 facebook: 'https://facebook.com/grid110'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/create/grid110-inc/grid110-inc.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg'
 project_video: '0'
 org_summary: >-
   Grid110 creates pathways to success for early stage entrepreneurs and
@@ -27,5 +27,6 @@ project_ids: '8102049'
 organization_id_2: '2018049'
 title: 'Grid110, Inc.'
 uri: /organizations/grid110-inc/
+category: create
 
 ---

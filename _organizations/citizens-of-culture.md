@@ -15,7 +15,7 @@ instagram: ctznsofculture
 facebook: 'https://www.facebook.com/CitizensOfCulture/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/citizens-of-culture/citizens-of-culture.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 project_video: 'https://vimeo.com/250192634'
 org_summary: >-
   Citizens of Culture uses arts to develop critical thinking, emotional
@@ -29,5 +29,6 @@ project_ids: '8102022'
 organization_id_2: '2018022'
 title: Citizens Of Culture
 uri: /organizations/citizens-of-culture/
+category: connect
 
 ---

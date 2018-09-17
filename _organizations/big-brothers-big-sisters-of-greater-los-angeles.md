@@ -19,7 +19,7 @@ instagram: 'https://www.instagram.com/bbbsla'
 facebook: 'https://www.facebook.com/BBBSLA/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/big-brothers-big-sisters-of-greater-los-angeles.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
 org_summary: >-
   Big Brothers Big Sisters of Greater Los Angeles provides professionally
@@ -44,5 +44,6 @@ project_ids: '8102007'
 organization_id_2: '2018007'
 title: Big Brothers Big Sisters of Greater Los Angeles
 uri: /organizations/big-brothers-big-sisters-of-greater-los-angeles/
+category: learn
 
 ---

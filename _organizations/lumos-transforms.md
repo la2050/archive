@@ -14,7 +14,8 @@ twitter: '@LumosTransforms'
 instagram: '@lumos_transforms'
 facebook: '@LumosTransforms'
 org_type: Social enterprise or Bcorps
-project_image: 'https://activation.la2050.org/live/lumos-transforms/lumos-transforms.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
 project_video: '0'
 org_summary: >-
   We develop, implement, and disseminate frameworks and tools that build
@@ -28,5 +29,6 @@ project_ids: '8102078'
 organization_id_2: '2018078'
 title: Lumos Transforms
 uri: /organizations/lumos-transforms/
+category: live
 
 ---

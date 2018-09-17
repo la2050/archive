@@ -20,7 +20,7 @@ instagram: '@hashtaglunchbag'
 facebook: 'https://www.facebook.com/hashtaglunchbag/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 project_video: 'https://www.youtube.com/watch?v=3WjUJh2z0WE'
 org_summary: >-
   #HashtagLunchbag brings together various communities to connect and prepare
@@ -37,5 +37,6 @@ title: >-
   nonprofit
 uri: >-
   /organizations/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
+category: live
 
 ---

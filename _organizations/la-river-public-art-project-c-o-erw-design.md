@@ -16,7 +16,7 @@ instagram: 'https://www.instagram.com/lariverpublicartproject'
 facebook: 'https://www.facebook.com/Los-Angeles-River-Public-Art-Project-698775940231398/'
 org_type: Forprofit
 project_image: >-
-  https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/la-river-public-art-project-c-o-erw-design.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/la-river-public-art-project-c-o-erw-design.jpg
 project_video: 'https://www.youtube.com/watch?v=Gr6O_ZaGMQo'
 org_summary: >-
   The LA River Public Art Project advocates for an arts and culture
@@ -44,5 +44,6 @@ project_ids: '5102247'
 organization_id_2: '2018063'
 title: LA River Public Art Project (c/o ERW Design)
 uri: /organizations/la-river-public-art-project-c-o-erw-design/
+category: connect
 
 ---

@@ -17,7 +17,8 @@ twitter: '@RoadtripNation'
 instagram: '@RoadtripNation'
 facebook: '@RoadtripNation'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/create/roadtrip-nation/roadtrip-nation.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 project_video: 'https://www.youtube.com/watch?v=jT5D2oFUbpQ'
 org_summary: >-
   Roadtrip Nation empowers individuals to identify their interests and explore
@@ -40,5 +41,6 @@ project_ids: '8102104'
 organization_id_2: '2018104'
 title: Roadtrip Nation
 uri: /organizations/roadtrip-nation/
+category: create
 
 ---

@@ -17,7 +17,7 @@ instagram: '@harlemlacrosse_LA'
 facebook: 'https://www.facebook.com/harlemlacrosseLA/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/harlem-lacrosse-los-angeles.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3WVD26iAwmw'
 org_summary: >-
   HL-LA empowers students who are most at risk for academic decline and dropout
@@ -32,5 +32,6 @@ project_ids: '8102051'
 organization_id_2: '2018051'
 title: Harlem Lacrosse - Los Angeles
 uri: /organizations/harlem-lacrosse-los-angeles/
+category: learn
 
 ---

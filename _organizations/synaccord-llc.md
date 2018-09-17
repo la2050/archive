@@ -16,7 +16,8 @@ twitter: '@synaccord'
 instagram: engageyourneighborhood
 facebook: 'https://www.facebook.com/synaccord'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/connect/synaccord-llc/synaccord-llc.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
 project_video: '0'
 org_summary: >-
   We build web apps for civil & constructive large scale conversations based on
@@ -38,5 +39,6 @@ project_ids: '5102293'
 organization_id_2: '2018115'
 title: 'Synaccord, LLC'
 uri: /organizations/synaccord-llc/
+category: connect
 
 ---

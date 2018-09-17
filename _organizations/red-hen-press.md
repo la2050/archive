@@ -16,7 +16,7 @@ twitter: '@redhenpress'
 instagram: '@redhenpress'
 facebook: RedHenPress
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/play/red-hen-press/red-hen-press.jpg'
+project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
 project_video: '0'
 org_summary: >-
   Red Hen Press is committed to discovering and publishing works of literary
@@ -27,5 +27,6 @@ project_ids: '8102101'
 organization_id_2: '2018101'
 title: Red Hen Press
 uri: /organizations/red-hen-press/
+category: play
 
 ---

@@ -19,7 +19,7 @@ instagram: nhslacounty
 facebook: NHSLAC
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/neighborhood-housing-services-of-los-angeles-county.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/W_HksfcqY6U'
 org_summary: >-
   NHS strengthens neighborhoods through the development of quality affordable
@@ -32,5 +32,6 @@ project_ids: '8102089'
 organization_id_2: '2018089'
 title: Neighborhood Housing Services of Los Angeles County
 uri: /organizations/neighborhood-housing-services-of-los-angeles-county/
+category: live
 
 ---

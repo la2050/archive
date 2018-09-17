@@ -15,7 +15,7 @@ instagram: '@TwoBitCircusorg'
 facebook: '@TwoBitCircusorg'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/two-bit-circus-foundation/two-bit-circus-foundation.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
 org_summary: >-
   We inspire the next generation of inventors, creators, and entrepreneurs while
@@ -32,5 +32,6 @@ project_ids: '8102128'
 organization_id_2: '2018128'
 title: Two Bit Circus Foundation
 uri: /organizations/two-bit-circus-foundation/
+category: learn
 
 ---

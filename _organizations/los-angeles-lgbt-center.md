@@ -15,7 +15,7 @@ instagram: '@lalgbtcenter'
 facebook: '@lalgbtcenter'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-lgbt-center/los-angeles-lgbt-center.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
 project_video: 'https://youtu.be/63SBgjUNWxA'
 org_summary: >-
   The Los Angeles LGBT Center is building a world where LGBT people thrive as
@@ -34,5 +34,6 @@ project_ids: '8102075'
 organization_id_2: '2018075'
 title: Los Angeles LGBT Center
 uri: /organizations/los-angeles-lgbt-center/
+category: connect
 
 ---

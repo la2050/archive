@@ -17,7 +17,7 @@ instagram: '@homeboyindustries'
 facebook: 'https://www.facebook.com/HomeboyIndustries/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/homeboy-industries/homeboy-industries.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
 project_video: '0'
 org_summary: >-
   Homeboy provides hope, training & support to formerly gang-involved and
@@ -34,5 +34,6 @@ project_ids: '8102053'
 organization_id_2: '2018053'
 title: Homeboy Industries
 uri: /organizations/homeboy-industries/
+category: connect
 
 ---

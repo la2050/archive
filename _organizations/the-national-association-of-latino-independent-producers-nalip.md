@@ -19,7 +19,7 @@ instagram: '@nalip_org'
 facebook: '@nalip'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/national-association-of-latino-independent-producers-nalip.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 project_video: 'https://youtu.be/3uy1I03CPas'
 org_summary: >-
   For over 20 years, NALIP has provided resources & guidance to develop the next
@@ -36,5 +36,6 @@ project_ids: '8102121'
 organization_id_2: '2018121'
 title: 'The National Association of Latino Independent Producers, NALIP'
 uri: /organizations/the-national-association-of-latino-independent-producers-nalip/
+category: create
 
 ---

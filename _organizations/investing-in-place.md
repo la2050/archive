@@ -15,7 +15,7 @@ instagram: InvestinginPlace
 facebook: 'https://www.facebook.com/investinginplace/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/investing-in-place/investing-in-place.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
 org_summary: >-
   We use research, advocacy, and capacity-building to align policies and public
@@ -29,5 +29,6 @@ project_ids: '8102055'
 organization_id_2: '2018055'
 title: Investing in Place
 uri: /organizations/investing-in-place/
+category: connect
 
 ---

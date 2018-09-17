@@ -14,7 +14,8 @@ twitter: '@walkwithsally'
 instagram: '@walkwithsally'
 facebook: '@walkwithsally'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/walk-with-sally/walk-with-sally.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
 project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
 org_summary: >-
   Walk With Sally provides hope through our individualized mentoring and
@@ -28,5 +29,6 @@ project_ids: '8102135'
 organization_id_2: '2018135'
 title: Walk With Sally
 uri: /organizations/walk-with-sally/
+category: connect
 
 ---

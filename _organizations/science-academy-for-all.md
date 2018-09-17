@@ -15,7 +15,7 @@ instagram: scienceacademyforall
 facebook: 'https://www.facebook.com/profile.php?id=100025256641530'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/science-academy-for-all/science-academy-for-all.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
 project_video: '0'
 org_summary: >-
   Science Academy For All provides opportunity for science through
@@ -28,5 +28,6 @@ project_ids: '8102106'
 organization_id_2: '2018106'
 title: Science Academy For All
 uri: /organizations/science-academy-for-all/
+category: live
 
 ---

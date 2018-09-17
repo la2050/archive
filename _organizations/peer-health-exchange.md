@@ -17,7 +17,7 @@ instagram: peerhealthexchange
 facebook: www.facebook.com/PeerHealthExchange
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/peer-health-exchange/peer-health-exchange.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 project_video: '0'
 org_summary: >-
   We train college student volunteers to teach a skills-based health curriculum
@@ -33,5 +33,6 @@ project_ids: '8102094'
 organization_id_2: '2018094'
 title: Peer Health Exchange
 uri: /organizations/peer-health-exchange/
+category: live
 
 ---

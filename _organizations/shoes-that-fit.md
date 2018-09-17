@@ -16,7 +16,7 @@ twitter: '@ShoesThatFit'
 instagram: shoesthatfitcharity
 facebook: 'https://www.facebook.com/ShoesThatFitNonProfit'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/shoes-that-fit/shoes-that-fit.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg'
 project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
 org_summary: >-
   Shoes That Fit tackles one of the most visible signs of poverty in America by
@@ -38,5 +38,6 @@ project_ids: '8102108'
 organization_id_2: '2018108'
 title: Shoes That Fit
 uri: /organizations/shoes-that-fit/
+category: live
 
 ---

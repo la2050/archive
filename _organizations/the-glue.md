@@ -14,7 +14,7 @@ twitter: '@GetSomeGlue'
 instagram: getsomeglue
 facebook: 'https://www.facebook.com/getsomeglue'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/live/the-glue/the-glue.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg'
 project_video: '0'
 org_summary: >-
   The Glue is a mission-driven creative agency that designs and builds
@@ -31,5 +31,6 @@ project_ids: '8102120'
 organization_id_2: '2018119'
 title: The Glue
 uri: /organizations/the-glue/
+category: live
 
 ---

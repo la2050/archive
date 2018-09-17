@@ -14,7 +14,7 @@ twitter: '0'
 instagram: www.instagram.com/supr.mrkt
 facebook: www.facebook.com/suprmarkt
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/süprseed/süprseed.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
 org_summary: >-
   SÜPRMARKT brings affordable organic produce to the people and places that need
@@ -31,5 +31,6 @@ project_ids: '8102113'
 organization_id_2: '2018113'
 title: 'SÜPRSEED, Inc.'
 uri: /organizations/süprseed-inc/
+category: live
 
 ---

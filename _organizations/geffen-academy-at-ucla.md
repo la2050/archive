@@ -18,7 +18,7 @@ facebook: >-
   ["https://www.facebook.com/GeffenAcademyatUCLA/","https://www.facebook.com/RideLosAngelesApp/"]
 org_type: Government
 project_image: >-
-  https://activation.la2050.org/connect/geffen-academy-at-ucla/geffen-academy-at-ucla.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg
 project_video: 'https://youtu.be/m9NRl8lAdZY'
 org_summary: >-
   Geffen Academy is an inclusive, university-affiliated school for students who
@@ -44,5 +44,6 @@ project_ids: '8102043'
 organization_id_2: '2018043'
 title: Geffen Academy at UCLA
 uri: /organizations/geffen-academy-at-ucla/
+category: connect
 
 ---

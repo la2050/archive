@@ -16,7 +16,7 @@ instagram: '["@everyonein_la","@abundanthousing"]'
 facebook: '["@EveryoneInLA","@InnerCityLawCenter","@abundanthousingla"]'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/united-way-of-greater-los-angeles/united-way-of-greater-los-angeles.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
 project_video: 'https://youtu.be/omjbiTiHXxU'
 org_summary: >-
   EVERYONE IN, powered by United Way, is a coalition that is keeping the focus
@@ -29,5 +29,6 @@ project_ids: '8102132'
 organization_id_2: '2018132'
 title: United Way of Greater Los Angeles
 uri: /organizations/united-way-of-greater-los-angeles/
+category: live
 
 ---

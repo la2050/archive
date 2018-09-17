@@ -16,7 +16,7 @@ twitter: '0'
 instagram: '@eayikes'
 facebook: facebook.com/eayikes
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/eayikes/eayikes.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg'
 project_video: 'https://youtu.be/PtA8wOP6XuM'
 org_summary: >-
   Engage, empower, inform, inspire, citizens of a community… EEIICC + a whole
@@ -29,5 +29,6 @@ project_ids: '8102036'
 organization_id_2: '2018036'
 title: Eayikes
 uri: /organizations/eayikes/
+category: connect
 
 ---

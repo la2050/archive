@@ -16,7 +16,7 @@ instagram: PromesaBH
 facebook: www.facebook.com/PromesaBoyleHeights
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/promesa-boyle-heights-at-proyecto-pastoral.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
 project_video: '0'
 org_summary: >-
   Promesa Boyle Heights is a passionate collaborative of residents, educators,
@@ -28,5 +28,6 @@ project_ids: '8102098'
 organization_id_2: '2018098'
 title: Promesa Boyle Heights at Proyecto Pastoral
 uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
+category: connect
 
 ---

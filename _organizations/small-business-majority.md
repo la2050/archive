@@ -17,7 +17,7 @@ instagram: smlbizmajority
 facebook: 'https://www.facebook.com/SmallBusinessMajority'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/create/small-business-majority/small-business-majority.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
 project_video: 'https://www.youtube.com/watch?v=ZgMxPYmoLgA'
 org_summary: >-
   Small Business Majority empowers America's entrepreneurs to build an
@@ -40,5 +40,6 @@ project_ids: '8102109'
 organization_id_2: '2018109'
 title: Small Business Majority
 uri: /organizations/small-business-majority/
+category: create
 
 ---

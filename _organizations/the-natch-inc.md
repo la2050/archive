@@ -14,7 +14,7 @@ twitter: 'https://twitter.com/natch_app'
 instagram: 'https://www.instagram.com/natch_app_/'
 facebook: 'https://www.facebook.com/thenatch/'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/create/the-natch-inc/the-natch-inc.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
 project_video: '0'
 org_summary: >-
   We run an online marketplace where anybody can locally sell and deliver food
@@ -33,5 +33,6 @@ project_ids: ''
 organization_id_2: '2018120'
 title: 'The Natch, INC.'
 uri: /organizations/the-natch-inc/
+category: create
 
 ---

@@ -18,7 +18,7 @@ instagram: '@FairWorkweekLA'
 facebook: facebook.com/fairworkweekla
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 project_video: 'https://youtu.be/7GHqVKrYCjM'
 org_summary: >-
   Retail Workers R LA will enable LA’s 150,000 retail workers to connect with
@@ -32,5 +32,6 @@ project_ids: '8102072'
 organization_id_2: '2018072'
 title: Los Angeles Alliance for a New Economy-Fair Workweek
 uri: /organizations/los-angeles-alliance-for-a-new-economy-fair-workweek/
+category: connect
 
 ---

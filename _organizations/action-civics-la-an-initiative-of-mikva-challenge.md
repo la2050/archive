@@ -17,7 +17,7 @@ facebook: >-
   ["https://www.facebook.com/ActionCivicsLA/","https://www.facebook.com/ProCon.org"]
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/action-civics-la-an-initiative-of-mikva-challenge.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
 org_summary: >-
   Action Civics LA works with schools to empower young people with the skills,
@@ -40,5 +40,6 @@ project_ids: '8102005'
 organization_id_2: '2018005'
 title: 'Action Civics LA, an initiative of Mikva Challenge'
 uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
+category: connect
 
 ---

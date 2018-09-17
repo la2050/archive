@@ -22,7 +22,7 @@ facebook: >-
   ["https://www.facebook.com/EnvironmentCalifornia/","https://www.facebook.com/JobstoMoveAmerica/","https://www.facebook.com/FoodWaterWatchCalifornia/","https://www.facebook.com/Earthjustice/"]
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/environment-california-research-policy-center/environment-california-research-policy-center.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 project_video: '0'
 org_summary: >-
   Environment California Research & Policy Center is dedicated to protecting the
@@ -47,5 +47,6 @@ project_ids: '8102037'
 organization_id_2: '2018037'
 title: Environment California Research & Policy Center
 uri: /organizations/environment-california-research-policy-center/
+category: live
 
 ---

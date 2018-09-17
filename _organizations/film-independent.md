@@ -16,7 +16,8 @@ twitter: '@filmindependent'
 instagram: '@filmindependent'
 facebook: 'https://www.facebook.com/filmindependent/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/film-independent/film-independent.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
 project_video: 'https://youtu.be/-PSOJBGkQ-Y'
 org_summary: >-
   Film Independent is dedicated to helping filmmakers get their films made,
@@ -30,5 +31,6 @@ project_ids: '8102040'
 organization_id_2: '2018040'
 title: Film Independent
 uri: /organizations/film-independent/
+category: connect
 
 ---

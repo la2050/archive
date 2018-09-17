@@ -17,7 +17,7 @@ instagram: '0'
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/united-parents-and-students/united-parents-and-students.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/205438757'
 org_summary: >-
   United Parents and Students provides training in the formal skills of
@@ -35,5 +35,6 @@ project_ids: '8102131'
 organization_id_2: '2018131'
 title: United Parents and Students
 uri: /organizations/united-parents-and-students/
+category: connect
 
 ---

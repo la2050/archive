@@ -18,7 +18,7 @@ instagram: instagram.com/bgcvenice
 facebook: facebook.com/bgcvenice
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/boys-girls-clubs-of-venice-bgcv.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 project_video: 'https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be'
 org_summary: >-
   BGCV enables all people to reach their full potential as productive, caring,
@@ -39,5 +39,6 @@ project_ids: '8102010'
 organization_id_2: '2018010'
 title: Boys & Girls Clubs of Venice
 uri: /organizations/boys-girls-clubs-of-venice/
+category: connect
 
 ---

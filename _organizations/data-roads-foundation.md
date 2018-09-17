@@ -17,7 +17,7 @@ instagram: '0'
 facebook: 'https://www.facebook.com/dataroads/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/data-roads-foundation/data-roads-foundation.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
 project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
 org_summary: >-
   We provide open source software, education, and legal paperwork for nonprofit
@@ -37,5 +37,6 @@ project_ids: '8102034'
 organization_id_2: '2018034'
 title: Data Roads Foundation
 uri: /organizations/data-roads-foundation/
+category: connect
 
 ---

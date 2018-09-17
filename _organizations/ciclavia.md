@@ -16,7 +16,7 @@ twitter: '@ciclavia'
 instagram: '@ciclavia'
 facebook: 'https://www.facebook.com/ciclavia/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/ciclavia/ciclavia.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
 project_video: 'https://youtu.be/I7wQ8SasHfQ'
 org_summary: >-
   CicLAvia connects communities and people to each other through joyous,
@@ -40,5 +40,6 @@ project_ids: '8102021'
 organization_id_2: '2018021'
 title: CicLAvia
 uri: /organizations/ciclavia/
+category: connect
 
 ---

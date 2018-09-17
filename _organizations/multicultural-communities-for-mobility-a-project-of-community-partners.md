@@ -18,7 +18,7 @@ instagram: '@mcmhandles'
 facebook: facebook.com/multicultimobility
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 project_video: 'https://youtu.be/4gShI4Plo2I'
 org_summary: >-
   MCM seeks improve the quality of life for underserved low-income communities
@@ -31,5 +31,6 @@ organization_id_2: '2018085'
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 uri: >-
   /organizations/multicultural-communities-for-mobility-a-project-of-community-partners/
+category: connect
 
 ---

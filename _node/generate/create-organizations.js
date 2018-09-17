@@ -58,6 +58,12 @@ function createMarkdownFile(data) {
 
   if (data.year_submitted === '2016') {
     data.project_image = `https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/${data.project_image}`
+  } else if (data.year_submitted === '2018') {
+    data.project_image = data.project_image.replace(/https\:\/\/activation.la2050.org\/([^/]+)\/[^/]+\/([^\.]+)\.jpg/, function(match, p1, p2, offset, string) {
+      // p1 is nondigits, p2 digits, and p3 non-alphanumerics
+      if (!data.category) data.category = p1
+      return `https://activation.la2050.org/assets/images/${p1}/2048-wide/${p2}.jpg`
+    })
   }
 
   // console.dir(data)

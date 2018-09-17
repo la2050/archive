@@ -17,7 +17,8 @@ twitter: twitter.com/wapowla
 instagram: instagram.com/wapow.la
 facebook: facebook.com/wapow.la
 org_type: Social enterprise or Bcorps
-project_image: 'https://activation.la2050.org/connect/good-shine-studio/good-shine-studio.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
 project_video: 'https://www.youtube.com/watch?v=03UxLqNGuvE'
 org_summary: >-
   WAPOW is a community service project that bridges neighbors to news, resources
@@ -30,5 +31,6 @@ project_ids: '8102047'
 organization_id_2: '2018047'
 title: Good Shine Studio
 uri: /organizations/good-shine-studio/
+category: connect
 
 ---

@@ -17,7 +17,7 @@ instagram: '0'
 facebook: viplongbeach
 org_type: Social enterprise or Bcorps
 project_image: >-
-  https://activation.la2050.org/create/world-famous-vip-records-llc/world-famous-vip-records-llc.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 project_video: '0'
 org_summary: >-
   Fosters entrepreneurship and careers in creative arts, music, technology and
@@ -29,5 +29,6 @@ project_ids: '8102138'
 organization_id_2: '2018138'
 title: World Famous VIP Records LLC
 uri: /organizations/world-famous-vip-records-llc/
+category: create
 
 ---

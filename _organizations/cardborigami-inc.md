@@ -16,7 +16,8 @@ twitter: 'https://twitter.com/Cardborigami'
 instagram: 'https://www.instagram.com/cardborigami/'
 facebook: 'https://www.facebook.com/Cardborigami/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/cardborigami-inc/cardborigami-inc.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
 org_summary: >-
   Cardborigami enhances the capacity of organizations that offer supportive
@@ -34,5 +35,6 @@ project_ids: '8102013'
 organization_id_2: '2018013'
 title: Cardborigami Inc
 uri: /organizations/cardborigami-inc/
+category: live
 
 ---

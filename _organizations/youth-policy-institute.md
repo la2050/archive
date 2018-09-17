@@ -15,7 +15,7 @@ instagram: ypiusa
 facebook: 'https://www.facebook.com/ypiusa'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/connect/youth-policy-institute/youth-policy-institute.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/__37Jfcwzr8'
 org_summary: >-
   YPI works to reduce poverty in Central LA by ensuring families have access to
@@ -26,5 +26,6 @@ project_ids: '8102140'
 organization_id_2: '2018140'
 title: Youth Policy Institute
 uri: /organizations/youth-policy-institute/
+category: connect
 
 ---

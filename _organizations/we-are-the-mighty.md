@@ -14,7 +14,8 @@ twitter: '@wearethemighty'
 instagram: '@wearethemighty'
 facebook: '@wearethemighty'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/connect/we-are-the-mighty/we-are-the-mighty.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
 project_video: '0'
 org_summary: >-
   The Los Angeles Veterans Orientation is a fun and friendly way to welcome
@@ -27,5 +28,6 @@ project_ids: ''
 organization_id_2: '2018137'
 title: We Are the Mighty
 uri: /organizations/we-are-the-mighty/
+category: connect
 
 ---

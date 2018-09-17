@@ -18,7 +18,7 @@ instagram: 'https://www.instagram.com/rebootworkshop/'
 facebook: 'https://www.facebook.com/REBOOTWorkshop/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/national-veterans-transition-services-inc-aka-reboot.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
 project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
 org_summary: >-
   REBOOT helps active military, veterans, and spouses in transitioning from the
@@ -35,5 +35,6 @@ project_ids: '8102088'
 organization_id_2: '2018088'
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
+category: live
 
 ---

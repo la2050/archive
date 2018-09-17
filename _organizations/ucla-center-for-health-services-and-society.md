@@ -18,7 +18,7 @@ instagram: www.instagram.com/uclahss
 facebook: www.facebook.com/uclahss
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/ucla-center-for-health-services-and-society/ucla-center-for-health-services-and-society.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
 project_video: 'https://www.youtube.com/watch?v=CDgr7CxOHfA'
 org_summary: >-
   Our center aims to improve the mental health of local and national diverse
@@ -33,5 +33,6 @@ project_ids: '8102129'
 organization_id_2: '2018129'
 title: UCLA Center for Health Services and Society
 uri: /organizations/ucla-center-for-health-services-and-society/
+category: live
 
 ---

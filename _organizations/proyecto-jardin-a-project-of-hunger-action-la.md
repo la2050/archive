@@ -19,7 +19,7 @@ instagram: '@proyectojardin'
 facebook: '@ProyectoJardin'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/proyecto-jardin-a-project-of-hunger-action-la.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
 project_video: 'https://www.facebook.com/269671146378710/videos/476537755692047/'
 org_summary: >-
   Proyecto Jardin is a community-led movement for food sovereignty that promotes
@@ -34,5 +34,6 @@ project_ids: '8102099'
 organization_id_2: '2018099'
 title: 'Proyecto Jardin: A Project of Hunger Action LA'
 uri: /organizations/proyecto-jardin-a-project-of-hunger-action-la/
+category: learn
 
 ---

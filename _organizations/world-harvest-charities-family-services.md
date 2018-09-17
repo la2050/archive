@@ -17,7 +17,7 @@ instagram: 'https://www.instagram.com/worldharvestcharities'
 facebook: 'https://www.facebook.com/WorldHarvestFoodBank'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/live/world-harvest-charities-family-services/world-harvest-charities-family-services.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 project_video: 'https://youtu.be/Jtc3hudRjRA'
 org_summary: >-
   Social supermarket World Harvest provides high quality foods and non-food
@@ -28,5 +28,6 @@ project_ids: '8102139'
 organization_id_2: '2018139'
 title: World Harvest Charities & Family Services
 uri: /organizations/world-harvest-charities-family-services/
+category: live
 
 ---

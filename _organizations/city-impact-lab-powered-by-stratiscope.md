@@ -15,7 +15,7 @@ instagram: '["@Stratiscope","@CityImpactLab"]'
 facebook: '["facebook.com/Stratiscope","facebook.com/CityImpactLabLA"]'
 org_type: Forprofit
 project_image: >-
-  https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/city-impact-lab-powered-by-stratiscope.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 project_video: '0'
 org_summary: >-
   Powered by Stratiscope, the City Impact Lab empowers individuals, businesses,
@@ -29,5 +29,6 @@ project_ids: ''
 organization_id_2: '2018024'
 title: 'City Impact Lab, powered by Stratiscope'
 uri: /organizations/city-impact-lab-powered-by-stratiscope/
+category: connect
 
 ---

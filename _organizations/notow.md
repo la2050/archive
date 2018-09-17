@@ -14,7 +14,7 @@ twitter: pleaseNoTow
 instagram: pleaseNoTow
 facebook: 'https://www.facebook.com/NoTow-2018982601723446/?modal=admin_todo_tour'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/live/notow/notow.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
 project_video: 'https://youtu.be/Vz9f3nvm5-Y'
 org_summary: >-
   NoTow is developing a mobile application to prevent parking tickets and towing
@@ -39,5 +39,6 @@ project_ids: ''
 organization_id_2: '2018091'
 title: NoTow
 uri: /organizations/notow/
+category: live
 
 ---

@@ -16,7 +16,7 @@ twitter: '@data360me'
 instagram: '0'
 facebook: 'https://www.facebook.com/data360solutions/'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/learn/data-360/data-360.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
 project_video: '0'
 org_summary: >-
   We expand people's possibilities by empowering people to create a new future
@@ -32,5 +32,6 @@ project_ids: '4102106'
 organization_id_2: '2018033'
 title: Data 360
 uri: /organizations/data-360/
+category: learn
 
 ---

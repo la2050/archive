@@ -16,7 +16,7 @@ twitter: '@commonsense'
 instagram: '@commonsenseorg'
 facebook: 'https://www.facebook.com/commonsenselatino/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/learn/common-sense/common-sense.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
 project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
 org_summary: >-
   Common Sense is the leading independent nonprofit organization dedicated to
@@ -34,5 +34,6 @@ project_ids: '8102029'
 organization_id_2: '2018029'
 title: Common Sense
 uri: /organizations/common-sense/
+category: learn
 
 ---

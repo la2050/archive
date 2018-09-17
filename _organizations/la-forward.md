@@ -14,7 +14,7 @@ twitter: LosAngelesFwd
 instagram: LAForward
 facebook: 'https://www.facebook.com/LosAngelesForward/'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/connect/la-forward/la-forward.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg'
 project_video: 'https://youtu.be/iK1p6nJf5bg'
 org_summary: >-
   LA Forward connects Angelenos with the organizers, policy experts, and
@@ -31,5 +31,6 @@ project_ids: '8102062'
 organization_id_2: '2018062'
 title: LA Forward
 uri: /organizations/la-forward/
+category: connect
 
 ---

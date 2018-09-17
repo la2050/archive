@@ -16,7 +16,7 @@ twitter: '@1Deg'
 instagram: OneDegree
 facebook: 'https://www.facebook.com/1degree.org'
 org_type: Nonprofit
-project_image: 'https://activation.la2050.org/live/one-degree/one-degree.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
 project_video: '0'
 org_summary: >-
   We create modern tech-driven solutions that help families find, access, and
@@ -29,5 +29,6 @@ project_ids: '8102092'
 organization_id_2: '2018092'
 title: One Degree
 uri: /organizations/one-degree/
+category: live
 
 ---

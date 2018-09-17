@@ -14,7 +14,7 @@ twitter: '@thisismutuo'
 instagram: '@thisismutuo'
 facebook: 'https://www.facebook.com/thisismutuoLA'
 org_type: Forprofit
-project_image: 'https://activation.la2050.org/live/mutuo/mutuo.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
 project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
 org_summary: >-
   We are an architecture studio that thinks innovatively to build meaningful
@@ -30,5 +30,6 @@ project_ids: ''
 organization_id_2: '2018086'
 title: Mutuo
 uri: /organizations/mutuo/
+category: live
 
 ---
