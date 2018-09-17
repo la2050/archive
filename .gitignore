@@ -5,3 +5,4 @@
 /test/reports
 /_node/node_modules
 /Gemfile.lock
+/_node/.npmrc
