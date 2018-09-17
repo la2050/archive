@@ -215,131 +215,55 @@ text-align: left;
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
 
+{% assign data_list_with_duplicates = site.data["organizations-2013-2018"] %}
 
-{% comment %}
-<div class="introduction" style="margin-top: 6em; margin-bottom: 6em;">
-  <p>Here are the organizations that have submitted projects in the <span style="text-transform: uppercase;">{{ page.category }}</span> category.</p>
-  <p><small>Select an organization to learn more about plans, goals, and opportunities to be involved.</small></p>
-</div>
-{% endcomment %}
+{% comment %} Order by year submitted, most recent first {% endcomment %}
+{% assign data_list_with_duplicates = data_list_with_duplicates | sort: "year_submitted" | reverse %}
 
-{% if page.category %}
+{% comment %} Create an empty array {% endcomment %}
+{% assign data_list = "" | split: "," %}
+{% assign previously_shown_organization_ids = "" | split: "," %}
 
-{% assign data_collection = site.collections | where: "label", page.category | first %}
-{% assign data_list = data_collection.docs %}
-
-{% else %}
-
-{% comment %}
-https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
-{% endcomment %}
-
-{% assign data_collection = site.collections | where: "label", "learn" | first %}
-{% assign data_list = data_collection.docs %}
-
-{% assign data_collection = site.collections | where: "label", "create" | first %}
-{% for item in data_collection.docs %}
-  {% assign data_list = data_list | push: item %}
+{% for data in data_list_with_duplicates %}
+  {% assign duplicate_found = false %}
+  {% for id in previously_shown_organization_ids %}
+    {% if data['organization_id'] == id %}
+      {% assign duplicate_found = true %}
+    {% endif %}
+  {% endfor %}
+  {% unless duplicate_found == true %}
+    {% assign data_list = data_list | push: data %}
+    {% assign previously_shown_organization_ids = previously_shown_organization_ids | push: data['organization_id'] %}
+  {% endunless %}
 {% endfor %}
 
-{% assign data_collection = site.collections | where: "label", "play" | first %}
-{% for item in data_collection.docs %}
-  {% assign data_list = data_list | push: item %}
-{% endfor %}
 
-{% assign data_collection = site.collections | where: "label", "connect" | first %}
-{% for item in data_collection.docs %}
-  {% assign data_list = data_list | push: item %}
-{% endfor %}
-
-{% assign data_collection = site.collections | where: "label", "live" | first %}
-{% for item in data_collection.docs %}
-  {% assign data_list = data_list | push: item %}
-{% endfor %}
-
-{% endif %}
-
-
-
+{% comment %} Order alphabetically {% endcomment %}
+{% assign data_list = data_list | sort: "organization_name" %}
 
 
 {% include project-navigation.html %}
-
-
 
 
 {% if page.category or page.is_search_results %}
 
 <ul class="proposals" id="project-list">
 
-  {% comment %} Order alphabetically {% endcomment %}
-  {% assign data_list = data_list | sort: "organization_name" %}
-
-  {% comment %}
-  {% assign previously_shown_organization_names = "" | split: "," %}
-  {% endcomment %}
-
   {% for data in data_list %}
 
-  {% assign do_show_item = false %}
-
-  {% assign is_finalist = false %}
-  {% for finalist in site.finalists %}
-    {% if finalist == data.uri %}
-      {% assign is_finalist = true %}
-    {% endif %}
-  {% endfor %}
-
-  {% assign is_winner = false %}
-  {% for winner in site.winners %}
-    {% if winner == data.uri %}
-      {% assign is_winner = true %}
-    {% endif %}
-  {% endfor %}
-
-  {% if page.winners == true and is_winner == true %}
   {% assign do_show_item = true %}
-  {% elsif page.finalists == true and is_finalist == true %}
-  {% assign do_show_item = true %}
-  {% elsif page.winners != true and page.finalists != true %}
-  {% assign do_show_item = true %}
-  {% endif %}
-
-
-  {% comment %}
-  {% for previously_shown_organization_name in previously_shown_organization_names %}
-    {% if data['organization_name'] == previously_shown_organization_name %}
-      {% assign do_show_item = false %}
-    {% endif %}
-  {% endfor %}
-  {% endcomment %}
-
 
   {% if do_show_item == true %}
 
-  {% comment %}
-  {% assign previously_shown_organization_names = previously_shown_organization_names | push: data['organization_name'] %}
-  {% endcomment %}
-
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
-  <li class="{{ data.category }}" {% if data.aidens_tags and data.aidens_tags.size > 0 %}data-tags="{% for tag in data.aidens_tags %}{{ tag }}, {% endfor %}"{% endif %}>
-    <a href="{{ data.uri | replace: data.category, 'organizations' }}">
+  <li data-tags="{{ data['TAGS/Indicators'] }}">
+    <a href="{{ data.url }}">
       <span class="image">
-        {% assign image_url = data.project_image %}
-        {% assign image_category = data.category %}
-
-        {% if data.plan_id %}
-        <img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ data['project_image'] }}" alt="" width="540" height="428" />
-        {% else %}
-        <img src="https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }}" srcset="https://activation.la2050.org/assets/images/{{ image_category }}/384-wide-with-aspect-10-8/{{ image_url }} 384w, https://activation.la2050.org/assets/images/{{ image_category }}/512-wide-with-aspect-10-8/{{ image_url }} 512w, https://activation.la2050.org/assets/images/{{ image_category }}/768-wide-with-aspect-10-8/{{ image_url }} 768w, https://activation.la2050.org/assets/images/{{ image_category }}/1024-wide-with-aspect-10-8/{{ image_url }} 1024w, https://activation.la2050.org/assets/images/{{ image_category }}/1536-wide-with-aspect-10-8/{{ image_url }} 1536w, https://activation.la2050.org/assets/images/{{ image_category }}/2048-wide-with-aspect-10-8/{{ image_url }} 2048w" sizes="(min-width: 50em) 20em, 100vw" width="500" alt="" />
-        {% endif %}
+        <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
       </span>
-      <!--
-      <p class="organization">{{ data['organization_description'] }}</p>
-      -->
       <h3>{{ data['organization_name'] }}</h3>
-      <p class="description">{{ data['organization_activity'] }}</p>
+      <p class="description">{{ data['org_summary'] | strip_html | truncate: 250 }}</p>
       <p class="description" style="margin-top: 0.375rem;">
         <small>
           {{ data['year'] }}{% if data.neighborhood %}, 
@@ -366,38 +290,43 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
 
 
 
-{% assign organizations_with_aidens_tags = 0 %}
-{% assign aidens_tags = "" | split: "," %}
-{% for item in data_collection.docs %}
-  {% if item.aidens_tags and item.aidens_tags.size > 0 %}
-    {% assign organizations_with_aidens_tags = organizations_with_aidens_tags | plus: 1 %}
-    {% for tag in item.aidens_tags %}
+
+{% assign organizations_with_tags = 0 %}
+{% assign tags = "" | split: "," %}
+{% for item in data_list %}
+
+  {% assign item_tags = item['tags_indicators'] | split: ", " %}
+
+  {% if item_tags and item_tags.size > 0 %}
+    {% assign organizations_with_tags = organizations_with_tags | plus: 1 %}
+    {% for tag in item_tags %}
       {% assign sub_tags = tag | split: ": " %}
       {% for sub_tag in sub_tags %}
-        {% unless sub_tag contains "?" %}
-          {% assign aidens_tags = aidens_tags | push: sub_tag %}
+        {% unless sub_tag contains "?" or sub_tag == "#N/A" or sub_tag == "0" %}
+          {% assign sub_tag_without_trailing_space = sub_tag | strip %}
+          {% assign tags = tags | push: sub_tag_without_trailing_space %}
         {% endunless %}
       {% endfor %}
     {% endfor %}
   {% endif %}
 {% endfor %}
 
-{% assign unique_aidens_tags = aidens_tags | uniq | sort %}
+{% assign unique_tags = tags | uniq | sort %}
 
-{% if unique_aidens_tags.size > 0 %}
+{% if unique_tags.size > 0 %}
 <details class="tags" style="margin-bottom: 3em;" open>
 <summary>
 <h2><strong>Browse</strong> by tag</h2>
 </summary>
 <ul class="action">
-{% for tag in unique_aidens_tags %}
+{% for tag in unique_tags %}
   {% assign tag_count = 0 %}
-  {% for tag_for_counting in aidens_tags %}
+  {% for tag_for_counting in tags %}
     {% if tag_for_counting == tag %}
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_aidens_tags.size | times: 15 | plus: 1 %}
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 15 | plus: 1 %}
   <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
@@ -496,6 +425,16 @@ https://stackoverflow.com/questions/42475187/jekyll-assign-concat-in-a-loop
   }
 
   var keywords = getParameterByName('keywords');
+
+  // TEMPORARY: Show all projects if keywords are absent
+  if (projectList && !keywords) {
+    var items = projectList.getElementsByTagName('script');
+    for (var index = 0; index < items.length; index++) {
+       projectList.insertAdjacentHTML('beforeend', items[index].innerHTML);
+    }
+    return;
+  }
+
   if (!keywords || !form || !field || !projectList) return; // TODO: Show an error message?
 
   field.value = keywords;

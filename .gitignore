@@ -4,3 +4,4 @@
 /_node/mysql-config.js
 /test/reports
 /_node/node_modules
+/Gemfile.lock
