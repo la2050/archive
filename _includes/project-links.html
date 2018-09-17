@@ -58,10 +58,10 @@
 
 
 
-{% if page.organization_instagram and page.organization_instagram != "" and page.organization_instagram != "n/a" and page.organization_instagram != "N/A" and page.organization_instagram != "none" %}
+{% if page.instagram and page.instagram != "" and page.instagram != "n/a" and page.instagram != "N/A" and page.instagram != "none" %}
 <dl>
 
-{% for instagram in page.organization_instagram limit:link_limit %}
+{% for instagram in page.instagram limit:link_limit %}
 
 {% if instagram contains "http" %}
 {% assign instagram_url = instagram %}
@@ -97,10 +97,10 @@
 </dl>
 {% endif %}
 
-{% if page.organization_twitter and page.organization_twitter != "" and page.organization_twitter != "n/a" and page.organization_twitter != "N/A" and page.organization_twitter != "none" %}
+{% if page.twitter and page.twitter != "" and page.twitter != "n/a" and page.twitter != "N/A" and page.twitter != "none" %}
 <dl>
 
-{% for twitter in page.organization_twitter limit:link_limit %}
+{% for twitter in page.twitter limit:link_limit %}
 
 {% if twitter contains "http" %}
 {% assign twitter_url = twitter %}
@@ -136,10 +136,10 @@
 </dl>
 {% endif %}
 
-{% if page.organization_facebook and page.organization_facebook != "" and page.organization_facebook != "n/a" and page.organization_facebook != "N/A" and page.organization_facebook != "none" %}
+{% if page.facebook and page.facebook != "" and page.facebook != "n/a" and page.facebook != "N/A" and page.facebook != "none" %}
 <dl>
 
-{% for facebook in page.organization_facebook limit:link_limit %}
+{% for facebook in page.facebook limit:link_limit %}
 
 {% if facebook contains "http" %}
 {% assign facebook_url = facebook %}

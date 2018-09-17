@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+project_image: 'http://img.youtube.com/vi/y3Gts_Aoxd8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Over the past 12 years, Green Dot has grown from a single 9th grade class
@@ -51,5 +51,6 @@ organization_id_2: '2013145'
 title: No Right Brain Left Behind and Green Dot Schools
 uri: /organizations/no-right-brain-left-behind-and-green-dot-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+youtube_video_identifier: y3Gts_Aoxd8
 
 ---

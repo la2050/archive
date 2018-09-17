@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
+project_image: 'http://img.youtube.com/vi/CqF0Cn4dZJs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Well before founding Industrial District Green, Katherine McNenny had begun
@@ -35,5 +35,6 @@ organization_id_2: '2013096'
 title: Industrial District Green
 uri: /organizations/industrial-district-green/
 challenge_url: 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
+youtube_video_identifier: CqF0Cn4dZJs
 
 ---

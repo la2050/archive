@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
+project_image: 'http://img.youtube.com/vi/zwlibJLtPOE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   TRUST South LA works to establish community control over economic resources.
@@ -92,5 +92,6 @@ title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
 uri: >-
   /organizations/trust-south-la-tenemos-que-reclamar-y-unidos-salvar-la-tierra-south-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
+youtube_video_identifier: zwlibJLtPOE
 
 ---

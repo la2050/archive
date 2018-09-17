@@ -13,7 +13,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Artistmovement.html'
+project_image: 'http://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Mural Mile has become a necessary project for artists, community members, and
@@ -28,5 +28,6 @@ organization_id_2: '2013212'
 title: Valle Artists
 uri: /organizations/valle-artists/
 challenge_url: 'http://maker.good.is/myla2050/projects/Artistmovement.html'
+youtube_video_identifier: rksqpbf13eo
 
 ---

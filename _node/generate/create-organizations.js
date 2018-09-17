@@ -41,6 +41,7 @@ function stringToURI(str) {
 }
 
 let makerProjectAnswersLookup
+const test_id = "8115"
 
 function getMakerProject(data, makerProjects, makerProjectAnswers) {
   // console.log("getMakerProject")
@@ -50,17 +51,30 @@ function getMakerProject(data, makerProjects, makerProjectAnswers) {
     makerProjectAnswersLookup = {}
     makerProjectAnswers.forEach(answer => {
       // if (answer.project_id == 9541) console.dir(answer)
+      if (answer.project_id == test_id) console.log("Adding an answer index for Alliance for a Better Community, 8115")
       if (!makerProjectAnswersLookup[answer.project_id]) {
         makerProjectAnswersLookup[answer.project_id] = {}
       }
-      makerProjectAnswersLookup[answer.project_id][answer.value] = 1
+      makerProjectAnswersLookup[answer.project_id][answer.value.trim()] = 1
+      if (answer.project_id == test_id) console.log(answer.project_id)
+      if (answer.project_id == test_id) console.log(answer.value)
     })
   }
 
   let match
   makerProjects.forEach(project => {
+    if (project.id == test_id) {
+      console.log("Checking to see if project matches Alliance for a Better Community, 8115")
+      console.log("makerProjectAnswersLookup[project.id]: " + makerProjectAnswersLookup[project.id])
+      console.dir(makerProjectAnswersLookup[project.id])
+    }
+
     if (makerProjectAnswersLookup[project.id] && 
-        makerProjectAnswersLookup[project.id][data.organization_name]) {
+        makerProjectAnswersLookup[project.id][data.organization_name.trim()]) {
+      if (project.id == test_id) {
+        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][data.organization_name])
+        console.log("*** found a match!")
+      }
       match = project
     }
   })
@@ -75,6 +89,9 @@ function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
   if (!makerImagesLookup) {
     makerImagesLookup = {}
     makerImages.forEach(image => {
+      if (image.project_id == test_id) console.log("Adding an image index for Alliance for a Better Community, 8115")
+
+
       if (!makerImagesLookup[image.project_id]) {
         makerImagesLookup[image.project_id] = {}
       }
@@ -110,6 +127,12 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   // TODO: Get the ntee_type from the page located at charity_navigator_url
   delete data.link_to_ntee_code
 
+  if (data.organization_id_2 === data.organization_id) {
+    delete data.organization_id_2
+  } else {
+    console.log("found an organization_id_2 different from organization_id : " + data.organization_id_2)
+  }
+
   try {
     data.areas_impacted = JSON.parse(data.areas_impacted)
   } catch(e) {
@@ -130,25 +153,30 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
              data.year_submitted === "2014" ||
              data.year_submitted === "2013") {
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
+      if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
       let match = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
       if (match && match.image) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
+
+        // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22867%252Fdisplay%252FGiveHalf_009.jpg=c570x385
+        // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385#
+
         let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${match.image.id}/display/${match.image.image_file_name}`))
         data.maker_image_id = match.image.id
         data.maker_image_file_name = match.image.image_file_name
         data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
-        console.log(data.project_image)
+        // console.log(data.project_image)
         // http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
       } else if (match && match.video) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
         data.project_image = `http://img.youtube.com/vi/${match.video.youtube_video_identifier}/maxresdefault.jpg`
         data.youtube_video_identifier = match.video.youtube_video_identifier
-        console.log(data.project_image)
+        // console.log(data.project_image)
       }
     } else {
-      console.log("image already present: " + data.project_image)
+      console.log("image already present: " + data.organization_name + " : " + data.project_image)
     }
   }
 

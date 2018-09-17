@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21961%252Fdisplay%252FSCI-Arc-HFH_FINAL.jpg=c570x385
 project_video: ''
 org_summary: >-
   SCI-Arc is an independent, accredited school of architecture in Downtown LA’s
@@ -23,5 +24,7 @@ organization_id_2: '2014191'
 title: Southern California Institute of Architecture (SCI-Arc)
 uri: /organizations/southern-california-institute-of-architecture-sci-arc/
 challenge_url: ''
+maker_image_id: '21961'
+maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
 
 ---

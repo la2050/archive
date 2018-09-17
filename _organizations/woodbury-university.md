@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21934%252Fdisplay%252FPatch_2.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Junior Fellows Program, housed within Woodbury University, is a
@@ -23,5 +24,7 @@ organization_id_2: '2014227'
 title: Woodbury University
 uri: /organizations/woodbury-university/
 challenge_url: ''
+maker_image_id: '21934'
+maker_image_file_name: Patch_2.jpg
 
 ---

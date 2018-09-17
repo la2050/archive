@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16690%252Fdisplay%252F100_Trees_3.jpg=c570x385
 project_video: ''
 org_summary: >-
   Aquaponic/Aeroponic farm design and implementation/supervision at Hollygrove
@@ -41,5 +42,7 @@ organization_id_2: '2013197'
 title: 'The Waters Wheel, LLC'
 uri: /organizations/the-waters-wheel-llc/
 challenge_url: 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
+maker_image_id: '16690'
+maker_image_file_name: 100_Trees_3.jpg
 
 ---

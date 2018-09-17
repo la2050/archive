@@ -12,7 +12,8 @@ twitter: '@dorealgood'
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21146%252Fdisplay%252Fcivicla.png=c570x385
 project_video: ''
 org_summary: >-
   Community Centered is dedicated to fostering sustainable communities through
@@ -25,5 +26,7 @@ organization_id_2: '2014017'
 title: Community Centered
 uri: /organizations/community-centered/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
+maker_image_id: '21146'
+maker_image_file_name: civicla.png
 
 ---

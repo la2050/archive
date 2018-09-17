@@ -12,7 +12,7 @@ twitter: www.twitter.com/bunchmag
 instagram: www.instagram.com/bunchmagazine
 facebook: www.facebook.com/bunchmag
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We publish BUNCH Magazine which equips creative professionals and those who
@@ -24,5 +24,6 @@ organization_id_2: '2015023'
 title: BUNCH Magazine dba BUNCH Media
 uri: /organizations/bunch-magazine-dba-bunch-media/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
+youtube_video_identifier: ByhCcHjp3FQ
 
 ---

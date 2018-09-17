@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/EarthProtect1'
 instagram: ''
 facebook: www.facebook.com/earthprotect
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Earth Protect shares and creates stories about people and organizations
@@ -25,5 +25,6 @@ organization_id_2: '2014030'
 title: 'Earth Protect, Inc.'
 uri: /organizations/earth-protect-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
+youtube_video_identifier: usGtj9dvrhA
 
 ---

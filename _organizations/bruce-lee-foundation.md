@@ -12,7 +12,7 @@ twitter: www.twitter.com/BruceLeeFDN
 instagram: www.instagram.com/BruceLeeFoundation
 facebook: www.facebook.com/BruceLeeFoundation
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are the only not-for-profit organization dedicated to sharing Bruce Lee’s
@@ -24,5 +24,6 @@ organization_id_2: '2015022'
 title: Bruce Lee Foundation
 uri: /organizations/bruce-lee-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
+youtube_video_identifier: YufCYg-BYaY
 
 ---

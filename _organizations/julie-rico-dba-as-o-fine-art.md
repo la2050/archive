@@ -12,7 +12,7 @@ twitter: www.twitter.com/laartfest
 instagram: www.instagram.com/laartfest
 facebook: www.facebook.com/laartfest
 org_type: Forprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LA Art Fest supports artists of all kinds from the diverse communities in the
@@ -23,5 +23,6 @@ organization_id_2: '2015098'
 title: Julie Rico DBA as O Fine Art
 uri: /organizations/julie-rico-dba-as-o-fine-art/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
+youtube_video_identifier: pnwgZVtiDAA
 
 ---

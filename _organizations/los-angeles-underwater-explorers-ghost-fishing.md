@@ -12,7 +12,7 @@ twitter: www.twitter.com/ghostfishing
 instagram: ''
 facebook: www.facebook.com/ghostfishing
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are a group of specially trained volunteer scuba divers that are ridding
@@ -24,5 +24,6 @@ organization_id_2: '2015131'
 title: Los Angeles Underwater Explorers; Ghost Fishing
 uri: /organizations/los-angeles-underwater-explorers-ghost-fishing/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
+youtube_video_identifier: laadW_CUhSY
 
 ---

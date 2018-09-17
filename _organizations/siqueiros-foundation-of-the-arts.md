@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/SFOTA2015'
 instagram: 'https://instagram.com/siqueiros_foundation/'
 facebook: 'https://www.facebook.com/siqueirosfoundation'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   To promote peace and good will in the world by helping those in need through
@@ -23,5 +23,6 @@ organization_id_2: '2015181'
 title: Siqueiros Foundation of the Arts
 uri: /organizations/siqueiros-foundation-of-the-arts/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
+youtube_video_identifier: s-SSOCwgWEs
 
 ---

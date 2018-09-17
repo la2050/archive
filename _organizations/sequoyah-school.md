@@ -12,7 +12,8 @@ twitter: www.twitter.com/SequoyahSchool
 instagram: www.instagram.com/SequoyahSchool
 facebook: www.facebook.com/SequoyahSchool
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23515%252Fdisplay%252FDSC_0342.jpg=c570x385
 project_video: ''
 org_summary: >-
   Sequoyah School is an independent progressive day school founded in 1958 whose
@@ -24,5 +25,7 @@ organization_id_2: '2015178'
 title: Sequoyah School
 uri: /organizations/sequoyah-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/seq.html'
+maker_image_id: '23515'
+maker_image_file_name: DSC_0342.jpg
 
 ---

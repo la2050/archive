@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385
 project_video: ''
 org_summary: >-
   Independent City Planners affecting change through innovative, opportunistic,
@@ -23,5 +24,7 @@ organization_id_2: '2014162'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
 uri: /organizations/lincoln-heights-health-initiative/
 challenge_url: ''
+maker_image_id: '22088'
+maker_image_file_name: LINCOLN_STATUE.jpg
 
 ---

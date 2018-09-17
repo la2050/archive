@@ -12,7 +12,7 @@ twitter: www.twitter.com/DinnerPartiers
 instagram: 'http://instagram.com/thedinnerparty'
 facebook: 'https://www.facebook.com/ThisIsTheDinnerParty'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/Tyka7IrZhXU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Changing the way we approach #lifeafterloss through candid conversation and
@@ -23,5 +23,6 @@ organization_id_2: '2014088'
 title: The Dinner Party
 uri: /organizations/the-dinner-party/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
+youtube_video_identifier: Tyka7IrZhXU
 
 ---

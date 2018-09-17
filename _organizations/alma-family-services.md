@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17028%252Fdisplay%252Flogo_new.jpg=c570x385
 project_video: ''
 org_summary: >-
   Alma Family Services was established in 1975 in East Los Angeles by parents to
@@ -43,5 +44,7 @@ organization_id_2: '2013008'
 title: Alma Family Services
 uri: /organizations/alma-family-services/
 challenge_url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
+maker_image_id: '17028'
+maker_image_file_name: logo_new.jpg
 
 ---

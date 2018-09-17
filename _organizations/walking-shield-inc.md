@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16254%252Fdisplay%252Fscholarspic.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>In 2012, Walking Shield provided more than $200,000 in college scholarships
@@ -39,5 +40,7 @@ organization_id_2: '2013215'
 title: 'Walking Shield, Inc.'
 uri: /organizations/walking-shield-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
+maker_image_id: '16254'
+maker_image_file_name: scholarspic.jpg
 
 ---

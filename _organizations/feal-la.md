@@ -12,7 +12,8 @@ twitter: 'https://twitter.com/feal_la'
 instagram: ''
 facebook: 'https://www.facebook.com/fealglobal'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23967%252Fdisplay%252FLOGO.png=c570x385
 project_video: ''
 org_summary: >-
   FEAL.LA is an artist development platfrom for independent musicians, providing
@@ -24,5 +25,7 @@ organization_id_2: '2015064'
 title: FEAL.LA
 uri: /organizations/feal-la/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
+maker_image_id: '23967'
+maker_image_file_name: LOGO.png
 
 ---

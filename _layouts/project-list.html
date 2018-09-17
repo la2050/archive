@@ -238,8 +238,8 @@ text-align: left;
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
-  <li class="{{ data.category }}" data-tags="{{ data['TAGS/Indicators'] }}">
-    <a href="{{ data.challenge_url }}">
+  <li class="{{ data.category }}" data-tags="{{ data['tags_indicators'] }}">
+    <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
       </span>
@@ -247,8 +247,8 @@ text-align: left;
       <p class="description">{{ data['org_summary'] | strip_html | truncate: 250 }}</p>
       <p class="description" style="margin-top: 0.375rem;">
         <small>
-          {{ data['year'] }}{% if data.neighborhood %}, 
-            {{ data.neighborhood }}
+          {{ data['year_submitted'] }}{% if data.zip and data.zip != "" and data.zip != "0" %}, 
+            {{ data.zip }}
           {% endif %}
         </small>
       </p>

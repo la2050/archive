@@ -12,7 +12,8 @@ twitter: www.twitter.com/earn
 instagram: 'https://instagram.com/earnorg/'
 facebook: www.facebook.com/earnorg
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23728%252Fdisplay%252FEarnlogopage2.jpg=c570x385
 project_video: ''
 org_summary: >-
   EARN breaks the cycle of poverty for low-income families by providing them
@@ -25,5 +26,7 @@ organization_id_2: '2015054'
 title: EARN
 uri: /organizations/earn/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/save.html'
+maker_image_id: '23728'
+maker_image_file_name: Earnlogopage2.jpg
 
 ---

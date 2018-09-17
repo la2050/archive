@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/urbanair.html'
+project_image: 'http://img.youtube.com/vi/cWwkZlNW9ng/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Stephen Glassman Studio first raised widespread critical acclaim in the early
@@ -53,5 +53,6 @@ organization_id_2: '2013173'
 title: Stephen Glassman Studio
 uri: /organizations/stephen-glassman-studio/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'
+youtube_video_identifier: cWwkZlNW9ng
 
 ---

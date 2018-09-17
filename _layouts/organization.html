@@ -94,33 +94,14 @@ document.body.classList.add("{{ primary_color }}")
 <h1 style="margin-bottom: 0">{{ page.organization_name }}</h1>
 </div>
 
-{% if page.organization_instagram contains "http" %}
-{% assign instagram_url = page.organization_instagram %}
-{% elsif page.organization_instagram contains "instagram.com/" %}
-{% capture instagram_url %}https://{{ page.organization_instagram }}{% endcapture %}
-{% else %}
-{% capture instagram_url %}https://instagram.com/{{ page.organization_instagram }}{% endcapture %}
-{% endif %}
 
-
-{% assign image_url = page.project_image %}
-{% assign image_category = page.category %}
 
 <figure class="feature has-image">
-<div data-aspect-ratio="1280/720">
-
-{% assign project = page.projects | first %}
-<a href="{{ project.uri }}">
-
-{% if page.plan_id %}
-<img src="https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/{{ page['project_image'] }}" alt="" width="540" height="428" />
-{% else %}
-<img src="https://activation.la2050.org/assets/images/{{ page.category }}/2048-wide/{{ image_url }}" alt="" width="500" />
-{% endif %}
-
-</a>
-
-</div>
+  <div data-aspect-ratio="1280/720">
+    <a href="{{ page.challenge_url }}">
+      <img src="{{ page.project_image }}" alt="{{ page.title }}" width="500" />
+    </a>
+  </div>
 </figure>
 
 <div class="proposal-description">
@@ -130,10 +111,10 @@ document.body.classList.add("{{ primary_color }}")
   /connect/investing-in-place/
   /play/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture-/
 -->
-<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.organization_description }}</p>
+<p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.org_type }}</p>
 
 <p style="margin-bottom: 0">
-  {{ page.organization_activity }}
+  {{ page.org_summary }}
 </p>
 
 
@@ -204,7 +185,7 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
-{% if page.charity_navigator_url and page.organization_description == "Non-profit organization" %}
+{% if page.charity_navigator_url %}
 <div class="links links-involved">
 
 <h2>Learn about this organization’s budget, leadership and mission</h2>
@@ -226,8 +207,7 @@ document.body.classList.add("{{ primary_color }}")
 {% endif %}
 
 
-
-{% if page.zip and false %}
+{% if page.zip and page.zip != "" and page.zip != "0" %}
 <div class="links links-tags">
 <h2>Where we work</h2>
 
@@ -238,13 +218,12 @@ document.body.classList.add("{{ primary_color }}")
 {% endif %}
 
 
-
-{% if page.aidens_tags and page.aidens_tags.size > 0 and false %}
+{% if page.tags_indicators and page.tags_indicators.size > 0 and false %}
 <div class="links links-tags">
 <h2>Tags</h2>
 
 <ul>
-{% for tag in page.aidens_tags %}
+{% for tag in page.tags_indicators %}
   <li><a href="/search/?keywords={{ tag }}">{{ tag }}</a></li>
 {% endfor %}
 </ul>
@@ -317,15 +296,17 @@ document.body.classList.add("{{ primary_color }}")
 
 
 
+
+{% assign project_list = page.projects %}
+
+{% if project_list.size > 0 %}
+
+
 <h2 style="text-align: left; justify-self: start; max-width: none;
 text-transform: uppercase;
 font-weight: 600;
 letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
 font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
-
-{% assign project_list = page.projects %}
-
-{% if project_list.size > 0 %}
 
 
 {% assign project_list = project_list | sort: "year" | reverse %}
@@ -460,7 +441,7 @@ margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
 
 
 
-{% if page.zip %}
+{% if page.zip and false %}
 <hr />
 <h2 style="
 text-align: left;
@@ -681,21 +662,21 @@ text-align: left;
 
 
 
-{% assign aidens_tags = "" | split: "," %}
-{% if page.aidens_tags and page.aidens_tags.size > 0 %}
-  {% for tag in page.aidens_tags %}
+{% assign tags_indicators = "" | split: "," %}
+{% if page.tags_indicators and page.tags_indicators.size > 0 %}
+  {% for tag in page.tags_indicators %}
     {% assign sub_tags = tag | split: ": " %}
     {% for sub_tag in sub_tags %}
       {% unless sub_tag contains "?" %}
-        {% assign aidens_tags = aidens_tags | push: sub_tag %}
+        {% assign tags_indicators = tags_indicators | push: sub_tag %}
       {% endunless %}
     {% endfor %}
   {% endfor %}
 {% endif %}
 
-{% if unique_aidens_tags.size > 0 %}
+{% if unique_tags_indicators.size > 0 %}
 
-{% assign unique_aidens_tags = aidens_tags | uniq | sort %}
+{% assign unique_tags_indicators = tags_indicators | uniq | sort %}
 
 <hr style="opacity: 0" />
 <h2 style="
@@ -714,14 +695,14 @@ line-height: 1;">Find similar organizations</h2>
 <h2 style="display: none;"><strong>Browse</strong> related organizations</h2>
 </summary>
 <ul class="action">
-{% for tag in unique_aidens_tags %}
+{% for tag in unique_tags_indicators %}
   {% assign tag_count = 0 %}
-  {% for tag_for_counting in aidens_tags %}
+  {% for tag_for_counting in tags_indicators %}
     {% if tag_for_counting == tag %}
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_aidens_tags.size | times: 10 | plus: 1 %}
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 10 | plus: 1 %}
   <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>

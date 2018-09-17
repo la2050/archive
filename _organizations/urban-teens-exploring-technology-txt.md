@@ -12,7 +12,7 @@ twitter: '@urbantxt'
 instagram: 'http://instagram.com/urbantxt'
 facebook: www.facebook.com/UrbanTeenseXploringTechnology
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/g_OFCYLH7gw/maxresdefault.jpg'
 project_video: ''
 org_summary: We inspire teens in the low income communities to become tech entrepreneurs !
 areas_impacted: 'Central LA,East LA,South LA,Other:'
@@ -21,5 +21,6 @@ organization_id_2: '2014103'
 title: URBAN Teens Exploring Technology ( TXT )
 uri: /organizations/urban-teens-exploring-technology-txt/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
+youtube_video_identifier: g_OFCYLH7gw
 
 ---

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/thelovestoryorg'
 instagram: 'https://instagram.com/weletgo/'
 facebook: 'https://www.facebook.com/thelovestory.org'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Through multimedia production and storytelling workshops, our organization
@@ -24,5 +24,6 @@ organization_id_2: '2015203'
 title: 'The Love Story and The Love Story Media, Inc.'
 uri: /organizations/the-love-story-and-the-love-story-media-inc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
+youtube_video_identifier: 2U1i7uKpy8Y
 
 ---

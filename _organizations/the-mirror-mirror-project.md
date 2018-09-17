@@ -12,7 +12,7 @@ twitter: ''
 instagram: 'http://instagram.com/themirrormirrorproject'
 facebook: 'https://www.facebook.com/mirrormirrorartevent'
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://img.youtube.com/vi/awJQoJqGL-o/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Pairs artists with homeless youth to create portraits of each other allowing
@@ -23,5 +23,6 @@ organization_id_2: '2014094'
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
+youtube_video_identifier: awJQoJqGL-o
 
 ---
