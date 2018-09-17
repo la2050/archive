@@ -13,7 +13,8 @@ twitter: '@QueerFestLA'
 instagram: '@QueerFestLA'
 facebook: 'https://www.facebook.com/QueerFestLA'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385
 project_video: ''
 org_summary: >-
   QueerFest is a space to celebrate LA’s rich queer history and culture, and

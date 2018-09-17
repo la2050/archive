@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Innovate.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16706%252Fdisplay%252FreDiscover_Upcyle_Innovate.jpg=c570x385
 project_video: ''
 org_summary: "Using everyday discards donated by local businesses reDiscoverâ€™s range of hands-on, educational programs and workshops has served 24,500 people. We are proud of our Arts Earth Partnership certification and our 2007 Sustainable Quality Award from the City of Santa Monica. We strive to maintain a low carbon footprint and our current warehouse-like facility for reusable waste helps our local businesses and households to do the same.\n \n \n Our artistic caliber has been recognized by the Los Angeles County Arts Commission, the Santa Monica GLOW Festival (2008 and 2013), the San Jose Zero1 Festival, the Long Beach Arts Council A LOT Initiative and Ryman Arts with a Drawing Inspiration Award.\n \n \n \n \n \n We are also very proud of the inspiration our center provides to children. As 9 year old Beatriz said during a field trip, â€œI could live at this place!â€\x9D"
 areas_impacted: ''

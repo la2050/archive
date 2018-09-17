@@ -13,7 +13,8 @@ twitter: www.twitter.com/prototypescare
 instagram: www.instagram.com/prototypescare
 facebook: www.facebook.com/prototypescare
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
 project_video: ''
 org_summary: >-
   Prototypes helps women overcome the disease of addiction while also addressing

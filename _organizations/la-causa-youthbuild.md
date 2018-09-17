@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/saladbowl.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16872%252Fdisplay%252Fhealth_diagram_en.jpg=c570x385
 project_video: ''
 org_summary: >-
   LA CAUSA YouthBuild is regarded as the organization that transformed the

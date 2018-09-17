@@ -14,7 +14,8 @@ instagram: 'https://instagram.com/levelupsocalcan/'
 facebook: >-
   https://www.facebook.com/Southern-California-College-Access-Network-199691650048179/timeline/
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23240%252Fdisplay%252F_MG_9694.JPG=c570x385
 project_video: ''
 org_summary: >-
   SoCal CAN is an alliance of over 60 organizations that together make college

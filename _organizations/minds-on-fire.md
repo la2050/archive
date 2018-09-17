@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/mindsonfire.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16654%252Fdisplay%252FSlide1.jpg=c570x385
 project_video: ''
 org_summary: >-
   Minds on Fire is in the start-up phase. However, the organizationâ€™s founder

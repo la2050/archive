@@ -13,7 +13,8 @@ twitter: www.twitter.com/LosAngelesFlag
 instagram: ''
 facebook: www.facebook.com/losangelesflag
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
 project_video: ''
 org_summary: >-
   Los Angeles Flag is a non-profit organization dedicated to uniting our city by

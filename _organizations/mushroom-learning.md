@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21687%252Fdisplay%252Fla2050-pic-2.png=c570x385
 project_video: ''
 org_summary: Mushroom Learning Teaches Kids to Code!
 areas_impacted: ''

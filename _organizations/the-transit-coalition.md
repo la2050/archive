@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/Transit_Co'
 instagram: n/a
 facebook: 'https://www.facebook.com/groups/25096512282/'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20691%252Fdisplay%252FCars_Attribution_Biofriendly_Creative_Commons_license.jpeg=c570x385
 project_video: ''
 org_summary: >-
   The organization works to bring rapid transit to L.A. and to educate the

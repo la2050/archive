@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/offthesaw'
 instagram: 'https://instagram.com/offthesaw/'
 facebook: 'https://www.facebook.com/offthesaw?_rdr=p'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385
 project_video: ''
 org_summary: >-
   Off The Saw creates community around furniture making by offering bench space,

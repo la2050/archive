@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/LACivicLab.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16898%252Fdisplay%252Fca_civic_innovation_project_logo.png=c570x385
 project_video: ''
 org_summary: >-
   <p>The CCIP aims to diffuse innovation in California local governments through

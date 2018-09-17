@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17239%252Fdisplay%252FJohn_-_LA_Daily_News.jpg=c570x385
 project_video: ''
 org_summary: |-
   1) The only program of its kind in the country

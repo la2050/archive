@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385
 project_video: ''
 org_summary: >-
   Conant-Moran is a Design-Build metal fabrication and General Contracting

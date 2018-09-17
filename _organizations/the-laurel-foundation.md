@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385
 project_video: ''
 org_summary: >-
   We at @TheLaurelFdn want to get LA in shape and moving! How? Let's pay people

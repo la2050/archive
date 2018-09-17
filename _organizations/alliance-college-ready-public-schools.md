@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385
 project_video: ''
 org_summary: >-
   Alliance is the largest charter school network in LA, providing a college prep

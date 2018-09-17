@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/laedc'
 instagram: www.instagram.com/
 facebook: 'https://www.facebook.com/LAEDC'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23271%252Fdisplay%252FStratPlanProg_Cover.jpg=c570x385
 project_video: ''
 org_summary: >-
   As LA County’s designated economic development leadership organization for

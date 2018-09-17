@@ -13,7 +13,8 @@ twitter: '@LevantineCenter'
 instagram: Levantine Cultural Center
 facebook: 'https://www.facebook.com/levantine.c.center'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22605%252Fdisplay%252FMECAY-Education-Proposal-2014.jpg=c570x385
 project_video: ''
 org_summary: >-
   We champion a greater understanding of the Middle East/North Africa by

@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20755%252Fdisplay%252FThe_Prep_Source_Resume_Workshop.png=c570x385
 project_video: ''
 org_summary: >-
   Online marketplace bringing together students/job seekers with mentors who

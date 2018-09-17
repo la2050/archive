@@ -13,7 +13,8 @@ twitter: www.twitter.com/idepsca
 instagram: ''
 facebook: www.facebook.com/IDEPSCA
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385
 project_video: ''
 org_summary: >-
   IDEPSCA organizes and educates low immigrant workers concerned with solving

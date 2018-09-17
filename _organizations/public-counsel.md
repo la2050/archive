@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16677%252Fdisplay%252FHoliday_Venice_Apartments.jpg=c570x385
 project_video: ''
 org_summary: >-
   For the past two years, Public Counsel has worked with the Southeast Asian

@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/access.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385
 project_video: ''
 org_summary: >-
   EYM alumni are attending and graduating from colleges from around the nation

@@ -13,7 +13,8 @@ twitter: '@brittsheflin'
 instagram: '@thehikingchef'
 facebook: www.facebook.com/allhaleblog
 org_type: Other
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23280%252Fdisplay%252FDrought_Solutions_3.jpg=c570x385
 project_video: ''
 org_summary: >-
   I am a private chef that has experience designing a zero-waste kitchen that

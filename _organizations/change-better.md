@@ -13,7 +13,8 @@ twitter: www.twitter.com/changebetterorg
 instagram: www.instagram.com/changebetterorg
 facebook: www.facebook.com/changebetter.org
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23690%252Fdisplay%252FChange_Better_Profile.jpg=c570x385
 project_video: ''
 org_summary: >-
   Change Better trains nonprofits in data, business, and collaboration

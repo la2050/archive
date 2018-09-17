@@ -15,7 +15,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/FLOW.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16416%252Fdisplay%252FFLOW-image-2.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>FLoW was created in October of 2011, and the first mentorship program and

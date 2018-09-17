@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/our_amb'
 instagram: 'https://instagram.com/ouramb/'
 facebook: 'https://www.facebook.com/ouramb'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23208%252Fdisplay%252FAMBgroupPic.jpg=c570x385
 project_video: ''
 org_summary: >-
   We teach musically gifted blind children ages 4-18 to play piano, guitar,

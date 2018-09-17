@@ -13,7 +13,8 @@ twitter: www.twitter.com/eastsidejews
 instagram: www.instagram.com/sijcc
 facebook: 'https://www.facebook.com/silverlakejcc'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Silverlake Independent Jewish Community Center (SIJCC) is a leading center

@@ -15,7 +15,8 @@ twitter: www.twitter.com/giveurbanfarms
 instagram: ''
 facebook: www.facebook.com/givesustainably
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Green Institute for Village Empowerment is an organization dedicated to

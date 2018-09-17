@@ -13,7 +13,8 @@ twitter: www.twitter.com/ghettofilm
 instagram: instagram.com/ghettofilmschool
 facebook: www.facebook.com/ghettofilmschool
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21361%252Fdisplay%252FGFS_PHOTO_1.png=c570x385
 project_video: ''
 org_summary: >-
   The Ghetto Film School educates, develops, and celebrates the next generation

@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/LASA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16261%252Fdisplay%252FLASA_2012.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>LASA has been active since the summer of 2012. Our inaugural class of 20

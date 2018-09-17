@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20229%252Fdisplay%252FLACGC_Community_Photo.jpg=c570x385
 project_video: ''
 org_summary: >-
   We @LAgardens can help 150 low-income families in LA grow healthy food in

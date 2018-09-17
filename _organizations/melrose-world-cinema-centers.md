@@ -13,7 +13,8 @@ twitter: ONELIFELOSANGELES
 instagram: 'https://vimeo.com/oneworldworkshops'
 facebook: ONELIFELOSANGELES
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385
 project_video: ''
 org_summary: >-
   Melrose World Cinema Center (MWCC) is a non-profit film studio, the major

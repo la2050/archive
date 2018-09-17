@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16625%252Fdisplay%252FCIMG0246.jpg=c570x385
 project_video: ''
 org_summary: >-
   In 8 years, our organization has grown into one of the most well-established

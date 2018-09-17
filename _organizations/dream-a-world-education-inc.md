@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22600%252Fdisplay%252FHearts9.jpg=c570x385
 project_video: ''
 org_summary: >-
   We make a difference in the lives of children utilizing the arts to develop

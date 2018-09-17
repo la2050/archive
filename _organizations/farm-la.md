@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/farm_la'
 instagram: 'https://instagram.com/farm_la'
 facebook: 'https://www.facebook.com/FarmLosAngeles?fref=nf'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385
 project_video: ''
 org_summary: >-
   Farm LA is a 501(c)3 non-profit organization dedicated to rescuing unbuildable

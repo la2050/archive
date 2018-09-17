@@ -13,7 +13,8 @@ twitter: www.twitter.comm/cityofglendora
 instagram: ''
 facebook: www.facebook.com/cityofglendora.com
 org_type: Government
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385
 project_video: ''
 org_summary: >-
   The City of Glendora provides the citizens and business community with a full

@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/projectmuszed'
 instagram: Project MuszEd
 facebook: 'https://www.facebook.com/Project.MuszEd'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385
 project_video: ''
 org_summary: >-
   Project MuszEd provides resources and opportunities in the arts that encourage

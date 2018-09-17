@@ -13,7 +13,8 @@ twitter: '@HomeFrontRising'
 instagram: n/a
 facebook: www.facebook/TheVeteransProject
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385
 project_video: ''
 org_summary: >-
   HomeFront Rising, a program of Social & Environmental Entrepreneurs, develops

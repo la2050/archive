@@ -13,7 +13,8 @@ twitter: 'http://twitter.com/labiohackers'
 instagram: ''
 facebook: 'https://www.facebook.com/TheL4b'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23379%252Fdisplay%252FLA2050.png=c570x385
 project_video: ''
 org_summary: >-
   The mission of the TheLab, founded by university scientists and now lead by a

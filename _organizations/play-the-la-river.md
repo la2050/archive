@@ -13,7 +13,8 @@ twitter: '@playthelariver'
 instagram: ''
 facebook: www.facebook.com/playthelariver
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21550%252Fdisplay%252FPlaytheLARiver_LA2050_ImageCropped.jpg=c570x385
 project_video: ''
 org_summary: >-
   Led by Project 51, Play the LA River is a movement to re-imagine the LA River

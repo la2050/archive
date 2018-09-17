@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20921%252Fdisplay%252FResilience-3_02.jpg=c570x385
 project_video: ''
 org_summary: >-
   USGBC-LA is transforming LA's built environment by supporting sustainability,

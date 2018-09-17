@@ -13,7 +13,8 @@ twitter: www.twitter.com/spcaLA
 instagram: www.instagram.com/spcaLA
 facebook: www.facebook.com/spcaLA
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23662%252Fdisplay%252FCarrie_15-00963.jpg=c570x385
 project_video: ''
 org_summary: >-
   Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is

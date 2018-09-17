@@ -13,7 +13,8 @@ twitter: www.twitter.com/EastsideRehearsal
 instagram: www.instagram.com/EastsideRehearsal
 facebook: www.facebook.com/EastsideRehearsal
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385
 project_video: ''
 org_summary: >-
   Our fully back lined studios will be available to students as an after school

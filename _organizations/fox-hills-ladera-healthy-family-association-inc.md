@@ -13,7 +13,8 @@ twitter: snpfoundation
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22050%252Fdisplay%252Fimagxxe.jpg=c570x385
 project_video: ''
 org_summary: >-
   We re-purpose unused and under used land to create useful public spaces to

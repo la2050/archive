@@ -13,7 +13,8 @@ twitter: www.twitter.com/ClimateCents
 instagram: ''
 facebook: www.facebook.com/ClimateCents
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385
 project_video: ''
 org_summary: >-
   Climate Cents is an online platform that makes it easy and exciting to fight

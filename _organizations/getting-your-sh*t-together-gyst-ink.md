@@ -13,7 +13,8 @@ twitter: www.twitter.com/gystink
 instagram: www.instagram.com/gyst_ink
 facebook: www.facebook.com/gystink
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21305%252Fdisplay%252FGYSTInksoftware_artworktracking.png=c570x385
 project_video: ''
 org_summary: >-
   With our mission to make life better for artists, GYST-Ink provides

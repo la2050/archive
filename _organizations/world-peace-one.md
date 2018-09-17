@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: 'https://www.facebook.com/worldpeaceone'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385
 project_video: ''
 org_summary: >-
   World Peace One drives global awareness of peace and the environment through

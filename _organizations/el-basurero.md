@@ -14,7 +14,8 @@ twitter: 'https://twitter.com/thejoelepstein'
 instagram: 'https://instagram.com/jcepstein/'
 facebook: 'https://www.facebook.com/thejoelepstein'
 org_type: Other
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385
 project_video: ''
 org_summary: >-
   Community engagement initiative that enlists city residents as advocates

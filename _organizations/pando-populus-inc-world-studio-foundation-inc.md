@@ -15,7 +15,8 @@ facebook: >-
   https://www.facebook.com/Pando-Populus-540401869424566/timeline/;
   https://www.facebook.com/DesignIgnitesChange
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385
 project_video: ''
 org_summary: >-
   Pando Populus is a platform to provide the connectivity to bring together

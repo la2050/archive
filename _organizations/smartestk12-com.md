@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/smartestk12.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16780%252Fdisplay%252Fsmartestk12.homepage.student.v1.000.svg.png=c570x385
 project_video: ''
 org_summary: >-
   Smartestk12 started as a thousand question science database, parsed from the

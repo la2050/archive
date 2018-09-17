@@ -15,7 +15,8 @@ twitter: www.twitter.com/uepi www.twitter.com/ejcej
 instagram: www.instagram.com/ejcej
 facebook: www.facebook.com/uepiatoxy www.facebook.com/ejcej
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385
 project_video: ''
 org_summary: >-
   The Urban & Environmental Policy Institute (UEPI) is a research, policy, and

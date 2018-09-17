@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16740%252Fdisplay%252Fposter1.jpg=c570x385
 project_video: ''
 org_summary: >-
   Youth 4C is a new project launched in 2013 by two young Los Angeles

@@ -13,7 +13,8 @@ twitter: twitter.com/LAPerformance
 instagram: instagram.com/welikeitnew
 facebook: 'https://www.facebook.com/LosAngelesPerformancePractice'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21753%252Fdisplay%252FShank_130920_453.jpg=c570x385
 project_video: ''
 org_summary: >-
   LAPP is a producing organization and artists’ network dedicated to supporting

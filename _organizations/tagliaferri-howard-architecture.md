@@ -13,7 +13,8 @@ twitter: NA
 instagram: NA
 facebook: NA
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385
 project_video: ''
 org_summary: >-
   THarchitecture is a community minded Architecture firm seeking projects to

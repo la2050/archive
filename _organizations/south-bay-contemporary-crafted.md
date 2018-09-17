@@ -13,7 +13,8 @@ twitter: www.twitter.com/peggyzask
 instagram: www.instagram.com/pszask
 facebook: www.facebook.com/southbaycontemporary
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385
 project_video: ''
 org_summary: >-
   South Bay Contemporary (SBC) bridges art, science and humanities through

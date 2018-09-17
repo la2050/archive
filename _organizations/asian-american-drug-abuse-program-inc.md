@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17043%252Fdisplay%252FSchool_Based_Mentoring.jpg=c570x385
 project_video: ''
 org_summary: >-
   AADAP builds upon over 40 years of successful experience in serving and

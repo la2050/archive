@@ -13,7 +13,8 @@ twitter: twitter.com/growgames
 instagram: instagram.com/growgames
 facebook: 'https://www.facebook.com/growgamesinteractive'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22335%252Fdisplay%252Fvolunteer-photo.jpg=c570x385
 project_video: ''
 org_summary: >-
   Mobile social action games connecting people to the ecosystem: growing food,

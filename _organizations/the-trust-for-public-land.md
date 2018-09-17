@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22632%252Fdisplay%252FPages_from_T-Alley_Outreach_Flip_Book-2.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Trust for Public Land creates parks and protects land for people, ensuring

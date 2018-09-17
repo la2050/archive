@@ -13,7 +13,8 @@ twitter: '@LAMosaicMecca'
 instagram: instagram.com/piecebypiecela
 facebook: piecebypiecela
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22131%252Fdisplay%252FIn_Studio_Irvine_Mural.jpg=c570x385
 project_video: ''
 org_summary: >-
   Arts-Based Social-Enterprise centered on training in mosaic skill directed to

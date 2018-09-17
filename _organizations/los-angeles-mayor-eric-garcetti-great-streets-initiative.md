@@ -13,7 +13,8 @@ twitter: www.twitter.com/lagreatstreets
 instagram: www.instagram.com/lagreatstreets
 facebook: www.facebook.com/greatstreetslosangeles
 org_type: Government
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385
 project_video: ''
 org_summary: >-
   Los Angeles Mayor Eric Garcetti created the Great Streets Initiative to

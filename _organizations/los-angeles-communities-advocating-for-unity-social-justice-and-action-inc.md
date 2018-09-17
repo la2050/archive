@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16688%252Fdisplay%252FLA_CAUSA.jpg=c570x385
 project_video: ''
 org_summary: >-
   LA CAUSA has successfully begun to grow gardens at Humphreys Elementary and

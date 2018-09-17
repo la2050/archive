@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/NRT.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16818%252Fdisplay%252Fplacita_nueva.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>Urban Macrosystemsâ€™ partners have collaborated on several projects prior

@@ -13,7 +13,8 @@ twitter: www.twitter.com/levittla
 instagram: www.instagram.com/levittpas ; www.instagram.com/levittpavilionlosangeles
 facebook: www.facebook.com/LevittPavilionPasadena www.facebok.com/LevittPavilionMacPark
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23665%252Fdisplay%252FLevitt_LA_Silk_Road-285-2080542528-O.jpg=c570x385
 project_video: ''
 org_summary: >-
   We create “Community through Music”, by making live music accessible to all,

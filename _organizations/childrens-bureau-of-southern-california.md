@@ -13,7 +13,8 @@ twitter: www.twitter.com/childrenbureau
 instagram: www.instagram.com/childrensbureau
 facebook: www.facebook.com/childrensbureau
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
 project_video: ''
 org_summary: >-
   Children’s Bureau is committed to providing vulnerable children, especially in

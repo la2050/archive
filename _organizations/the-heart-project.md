@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/theheartproject.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16966%252Fdisplay%252FDSCF5143_eventbrite.jpg=c570x385
 project_video: ''
 org_summary: >-
   Started in 1992 at one site with a budget of $2,000, HP now serves 650

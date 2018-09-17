@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/freewayfarm'
 instagram: www.instagram.com/freewayfarm
 facebook: www.facebook.com/freewayfarm
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385
 project_video: ''
 org_summary: >-
   Freeway Farm is interested in transforming the under-utilised peri-freeway

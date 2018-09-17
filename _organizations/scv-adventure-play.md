@@ -13,7 +13,8 @@ twitter: '@SCVAdvPlay'
 instagram: ''
 facebook: www.facebook.com/scvadventureplay
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24111%252Fdisplay%252FSCV_ADvplay_table_logo.png=c570x385
 project_video: ''
 org_summary: >-
   SCV Adventure Play provides space, time, materials, play-workers and play-work

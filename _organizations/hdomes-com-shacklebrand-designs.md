@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/DanHildebrand09'
 instagram: 'https://instagram.com/domes4homes/'
 facebook: 'https://www.facebook.com/HDomes'
 org_type: Other
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385
 project_video: ''
 org_summary: >-
   We build earthquake, fire, tornado, and flood proof homes that are low- cost

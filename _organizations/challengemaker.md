@@ -13,7 +13,8 @@ twitter: '@challengemaker1'
 instagram: '@challengemaker1'
 facebook: 'https://www.facebook.com/profile.php?id=100009987910475'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385
 project_video: ''
 org_summary: >-
   ChallengeMaker is a platform that allows nonprofits, companies, influencers

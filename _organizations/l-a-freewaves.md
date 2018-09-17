@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/lafreewaves'
 instagram: 'http://instagram.com/lafreewaves'
 facebook: 'https://www.facebook.com/freewaves'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21306%252Fdisplay%252F12_Stills_from_videos.jpg=c570x385
 project_video: ''
 org_summary: >-
   Freewaves creates public media art events that bring diverse audiences and

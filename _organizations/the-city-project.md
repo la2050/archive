@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16667%252Fdisplay%252FImage.jpg=c570x385
 project_video: ''
 org_summary: >-
   The City Project is a nonprofit organization committed to achieving equal

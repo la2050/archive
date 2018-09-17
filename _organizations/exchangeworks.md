@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/ExchangeWorksUS'
 instagram: ''
 facebook: 'https://www.facebook.com/ExchangeWorks.co'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23594%252Fdisplay%252FEW_Molly_EWLA_sm.jpg=c570x385
 project_video: ''
 org_summary: >-
   ExchangeWorks creates new opportunities for artists and the public through the

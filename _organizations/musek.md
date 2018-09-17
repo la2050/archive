@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/MUSEK.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16307%252Fdisplay%252Fimage.jpg=c570x385
 project_video: ''
 org_summary: >-
   The program is fairly new and underfunded. However, all students who have been

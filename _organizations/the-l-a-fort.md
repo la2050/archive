@@ -13,7 +13,8 @@ twitter: 'http://www.twitter.com/thelafort'
 instagram: 'http://instagram.com/thelafort'
 facebook: 'https://www.facebook.com/TheLAFort'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22797%252Fdisplay%252F1836681_290007847815931_949505580_o(1).jpg=c570x385
 project_video: ''
 org_summary: >-
   The L.A. Fort is a membership run arts and music studio and exhibition space

@@ -13,7 +13,8 @@ twitter: www.twitter.com/greenboxfarms
 instagram: www.instagram.com/greenboxfarms
 facebook: www.facebook.com/greenboxfarms
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23755%252Fdisplay%252FHydroponickids1.jpg=c570x385
 project_video: ''
 org_summary: >-
   GREENBOXFARMS grows organic produce in food deserts using hydroponic

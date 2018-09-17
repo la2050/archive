@@ -13,7 +13,8 @@ twitter: '@lastagealliance'
 instagram: ''
 facebook: facebook.com/lastagealliance
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22303%252Fdisplay%252FFaces_Installation.jpg=c570x385
 project_video: ''
 org_summary: >-
   LA STAGE empowers artists and engages audiences by building awareness,

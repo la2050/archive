@@ -15,7 +15,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385
 project_video: ''
 org_summary: >-
   Streetsblog Los Angeles is an award-winning, non-profit news website focusing

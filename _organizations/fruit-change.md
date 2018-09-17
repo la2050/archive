@@ -13,7 +13,8 @@ twitter: www.twitter.com/fruitchange
 instagram: www.instagram.com/sanpedrofruitchange
 facebook: www.facebook.com/fruitchange
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
 project_video: ''
 org_summary: >-
   Fruit Change is an organization founded with the intent to develop a system

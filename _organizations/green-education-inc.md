@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385
 project_video: ''
 org_summary: >-
   Partner with stakeholders to educate and transform communities into green

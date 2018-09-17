@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16537%252Fdisplay%252FLA2050.jpg=c570x385
 project_video: ''
 org_summary: >-
   City Earthworm was started with a single mission: to make composting a

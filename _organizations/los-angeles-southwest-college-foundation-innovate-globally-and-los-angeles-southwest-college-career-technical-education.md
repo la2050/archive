@@ -17,7 +17,8 @@ twitter: 'www.twitter.com/codetechiq, www.twitter.com/LASCFoundation'
 instagram: ''
 facebook: 'www.facebook.com/lascfoundation, www.facebook.com/codetechiq'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385
 project_video: ''
 org_summary: >-
   LA Southwest College Foundation's mission is to improve community success by

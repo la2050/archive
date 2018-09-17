@@ -13,7 +13,8 @@ twitter: www.twitter.com/BGCofCarson
 instagram: ''
 facebook: www.facebook.com/bgccarson
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24078%252Fdisplay%252FCollege_Access_Initiative.jpg=c570x385
 project_video: ''
 org_summary: >-
   The BOYS & GIRLS CLUBS OF CARSON offers young people a safe environment where

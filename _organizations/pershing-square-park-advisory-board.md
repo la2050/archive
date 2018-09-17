@@ -13,7 +13,8 @@ twitter: www.twitter.com/psdowntownla
 instagram: ''
 facebook: www.facebook.com/PershingSquareLA
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Pershing Square Park Advisory Board (PAB) is a volunteer organization

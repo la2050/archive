@@ -13,7 +13,8 @@ twitter: www.twitter.com/lacenterofphoto
 instagram: www.instagram.com/la_centerofphoto/
 facebook: www.facebook.com/losangelescenterofphotography
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Los Angeles Center of Photography is a community for new and seasoned

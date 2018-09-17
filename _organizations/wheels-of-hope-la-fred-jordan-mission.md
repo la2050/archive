@@ -13,7 +13,8 @@ twitter: NA
 instagram: NA
 facebook: 'https://www.facebook.com/wheelsofhopelosangeles?fref=ts'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
 project_video: ''
 org_summary: >-
   Train and certify in welding hard to employ people, such as former gang

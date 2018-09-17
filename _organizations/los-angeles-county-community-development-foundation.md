@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385
 project_video: ''
 org_summary: >-
   The CDF ends generational poverty in low-income housing throughout Los Angeles

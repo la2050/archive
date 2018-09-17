@@ -13,7 +13,8 @@ twitter: nomadlosangeles
 instagram: nomadlosangeles
 facebook: nomadla
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385
 project_video: ''
 org_summary: >-
   We are a printmaking studio and communal arts lab, with a focus on hand

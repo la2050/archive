@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385
 project_video: ''
 org_summary: >-
   Light Bringer Project builds communities through the power of the arts and

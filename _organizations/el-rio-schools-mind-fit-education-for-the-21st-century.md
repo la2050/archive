@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17110%252Fdisplay%252Frachelschmid.elrio.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>El Rio Schools is a new non-profit; our most important achievement, to

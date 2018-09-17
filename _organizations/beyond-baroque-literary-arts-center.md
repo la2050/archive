@@ -13,7 +13,8 @@ twitter: www.twitter.com/BBLitArts
 instagram: www.instagram.com/BBLitArts
 facebook: www.facebook.com/BBLitArts
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22565%252Fdisplay%252FProposed_Space_for_Venice_Arts_Commons.jpg=c570x385
 project_video: ''
 org_summary: >-
   We are dedicated to nurturing the literary arts, and to building community by

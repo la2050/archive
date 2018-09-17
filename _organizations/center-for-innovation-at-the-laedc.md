@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/innovateinLA'
 instagram: 'https://instagram.com/innovateinla/'
 facebook: 'https://www.facebook.com/innovateinla/'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24136%252Fdisplay%252FScreen_Shot_2015-10-08_at_4.09.45_PM.png=c570x385
 project_video: ''
 org_summary: >-
   Headquartered at the Los Angeles County Economic Development Corporation, the

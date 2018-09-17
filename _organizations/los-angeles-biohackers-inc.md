@@ -13,7 +13,8 @@ twitter: LABiohackers
 instagram: None
 facebook: 'https://www.facebook.com/pages/LA-Biohackers/245330182182586'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385
 project_video: ''
 org_summary: >-
   We plan on expanding both in size and capabilities to serve a larger number of

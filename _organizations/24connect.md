@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385
 project_video: ''
 org_summary: >-
   24Connect is a public affairs and social innovation strategy firm that works

@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/thinkabouttmw'
 instagram: 'https://instagram.com/thinkabouttmw/'
 facebook: 'https://www.facebook.com/thinkingabouttomorrow'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385
 project_video: ''
 org_summary: We give kids the tools they need to succeed both in and out of the classroom.
 areas_impacted: >-

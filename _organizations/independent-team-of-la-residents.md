@@ -13,7 +13,8 @@ twitter: n/a
 instagram: n/a
 facebook: n/a
 org_type: Other
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23304%252Fdisplay%252FMyBucketlistLA.png=c570x385
 project_video: ''
 org_summary: >-
   We design community solutions using human-centered design through IDEO.org and

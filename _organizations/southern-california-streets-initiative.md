@@ -15,7 +15,8 @@ facebook: >-
   http://www.facebook.com/abundanthousingLA
   http://www.facebook.com/lastreetsblog
 org_type: '#N/A'
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385
 project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'City of Los Angeles (citywide),Other (please specify below):'

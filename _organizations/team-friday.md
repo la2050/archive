@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/artmageddon.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17024%252Fdisplay%252FUSE.jpg=c570x385
 project_video: ''
 org_summary: >-
   Our brightest achievement was our central mission at the founding of

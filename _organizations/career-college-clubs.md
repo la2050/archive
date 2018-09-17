@@ -13,7 +13,8 @@ twitter: www.twitter.com/CCClubs
 instagram: ''
 facebook: www.facebook.com/careerandcollegeclubs
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
 project_video: ''
 org_summary: >-
   Career & College Clubs prepares middle students for success in high school,

@@ -13,7 +13,8 @@ twitter: www.twitter.com/kidalliance
 instagram: 'https://instagram.com/kidalliance/'
 facebook: www.facebook.com/kidalliance
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24082%252Fdisplay%252FPage_6_Behind_the_scenes.JPG=c570x385
 project_video: ''
 org_summary: >-
   Since 1992, the Alliance for Children's Rights has protected the rights of

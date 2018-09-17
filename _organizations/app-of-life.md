@@ -13,7 +13,8 @@ twitter: '@App_of_Life'
 instagram: 'http://instagram.com/appoflife'
 facebook: 'https://www.facebook.com/appoflife'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22052%252Fdisplay%252FLA2050-image-4.jpg=c570x385
 project_video: ''
 org_summary: >-
   App of Life transforms lives and communities - V1.0 is live on the app store

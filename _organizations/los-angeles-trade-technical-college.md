@@ -13,7 +13,8 @@ twitter: www.twitter.com/slate_z
 instagram: we do not have an instagram account
 facebook: www.facebook.com/slate_z
 org_type: Other
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
 project_video: ''
 org_summary: >-
   LATTC’s SLATE-Z is a partnership among community organizations, education

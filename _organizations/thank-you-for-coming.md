@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16835%252Fdisplay%252Fkitchen2.jpg=c570x385
 project_video: ''
 org_summary: >-
   The first milestone we reached was opening our doors December 5, 2012. After 9

@@ -13,7 +13,8 @@ twitter: nationbuilder
 instagram: instagram.com/nbcreators
 facebook: facebook.com/nationbuilder
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22481%252Fdisplay%252FLA2050.png=c570x385
 project_video: ''
 org_summary: >-
   NationBuilder gives people the tools to build a community around whatever they

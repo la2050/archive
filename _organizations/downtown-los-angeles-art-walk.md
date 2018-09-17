@@ -13,7 +13,8 @@ twitter: www.twitter.com/downtownartwalk
 instagram: www.instagram.com/downtownartwalk
 facebook: www.facebook.com/downtownartwalk
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385
 project_video: ''
 org_summary: >-
   DWC aims to end homelessness for women in Los Angeles; to achieve this, we

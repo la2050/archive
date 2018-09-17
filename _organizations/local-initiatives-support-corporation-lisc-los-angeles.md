@@ -13,7 +13,8 @@ twitter: www.twitter.com/LISC_LA
 instagram: 'https://instagram.com/lisc_hq/'
 facebook: www.facebook.com/lisc.org
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23259%252Fdisplay%252Fpicture_1.jpg=c570x385
 project_video: ''
 org_summary: >-
   LISC equips struggling communities with the capital, strategy and know-how to

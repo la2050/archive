@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/IronboxEdu'
 instagram: ''
 facebook: www.facebook.com/ironboxeducation
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385
 project_video: ''
 org_summary: >-
   Ironbox Education helps students build math fluency and confidence by

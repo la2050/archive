@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/lastories.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16859%252Fdisplay%252Fla2050_title.jpg=c570x385
 project_video: ''
 org_summary: >-
   58-12 Design Lab is a 501(c)(3) non-profit charitable organization formed and

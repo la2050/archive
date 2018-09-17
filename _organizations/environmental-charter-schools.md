@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/EnviroCharter'
 instagram: www.instagram.com/ecsgreenambassadors
 facebook: 'https://www.facebook.com/EnvironmentalCharterSchools'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385
 project_video: ''
 org_summary: >-
   Environmental Charter Schools is an innovative network of public schools

@@ -13,7 +13,8 @@ twitter: droplabs
 instagram: ''
 facebook: 'https://www.facebook.com/DroplabsLA'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21245%252Fdisplay%252Fslide-image-1.jpg=c570x385
 project_video: ''
 org_summary: >-
   Droplabs is an open source focused, community led, Innovation Laboratory and

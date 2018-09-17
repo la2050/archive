@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/bikela2050.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
 project_video: ''
 org_summary: >-
   We have been involved in a number of projects focusing on urban mobility and

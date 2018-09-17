@@ -13,7 +13,8 @@ twitter: www.twitter.com/C5LA
 instagram: www.instagram.com/C5LA
 facebook: 'https://www.facebook.com/C5LosAngeles'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385
 project_video: ''
 org_summary: >-
   C5LA inspires high-potential youth from under-resourced environments in LA

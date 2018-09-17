@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385
 project_video: ''
 org_summary: >-
   ChapCare provides primary health care services; medical and dental care and

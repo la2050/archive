@@ -13,7 +13,8 @@ twitter: www.twitter.com/robeytc
 instagram: ''
 facebook: www.facebook.com/therobeytheatrecompany
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385
 project_video: ''
 org_summary: >-
   Robey shares stories, written and conceived with a POV that filters through a

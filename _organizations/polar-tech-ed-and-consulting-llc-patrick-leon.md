@@ -14,7 +14,8 @@ instagram: ''
 facebook: >-
   https://www.facebook.com/Polar-Tech-Ed-and-Consulting-109275872436602/timeline/
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385
 project_video: ''
 org_summary: >-
   We design and develop mobile health solutions to provide underserved

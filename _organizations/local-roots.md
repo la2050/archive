@@ -13,7 +13,8 @@ twitter: www.twitter.com/localrootsfarms
 instagram: 'https://instagram.com/localrootsfarms/'
 facebook: 'https://www.facebook.com/LocalRootsFarms/'
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385
 project_video: ''
 org_summary: >-
   Local Roots designs and operates vertical urban farms to further our mission

@@ -13,7 +13,8 @@ twitter: 'http://www.twitter.com/LandArch_UCLAx'
 instagram: ''
 facebook: 'https://www.facebook.com/pages/UCLA-Extension-Landscape-Architecture-Program'
 org_type: Government
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385
 project_video: ''
 org_summary: >-
   The UCLA Extension Landscape Architecture Program works to provide design

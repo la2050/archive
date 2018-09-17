@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16977%252Fdisplay%252Fbeans_on_clothes_H_small.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Garden School Foundation was founded in 2005 with the mission to create a

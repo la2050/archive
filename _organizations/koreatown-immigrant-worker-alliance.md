@@ -15,7 +15,8 @@ twitter: 'http://www.twitter.com/kiwa4justice'
 instagram: ''
 facebook: 'https://www.facebook.com/KoreaTownImmigrantWorkersAlliance'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385
 project_video: ''
 org_summary: >-
   KIWA organizes low-wage immigrant workers, tenants, and their families to

@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/fromlottospot'
 instagram: 'https://instagram.com/fromlottospot'
 facebook: 'https://www.facebook.com/fromlottospot'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385
 project_video: ''
 org_summary: >-
   FLTS is a non-profit organization dedicated to improving blighted, urban

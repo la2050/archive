@@ -13,7 +13,8 @@ twitter: www.twitter.com/RedCrossLA
 instagram: ''
 facebook: www.facebook.com/redcrossla
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21941%252Fdisplay%252Fcommunity_ambassdor_graphic_button_graphic.jpg=c570x385
 project_video: ''
 org_summary: >-
   The Red Cross prevents and alleviates human suffering in the face of

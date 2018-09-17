@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385
 project_video: ''
 org_summary: >-
   FutureBound provides educational video games based on innovative technology to

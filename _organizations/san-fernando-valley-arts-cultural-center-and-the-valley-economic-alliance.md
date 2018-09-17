@@ -15,7 +15,8 @@ facebook: >-
   www.facebook.com/SanFernandoValleyArtsAlliance and
   www.facebook.com/valleyeconomicalliance
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385
 project_video: ''
 org_summary: >-
   The San Fernando Valley Arts & Cultural Center advocates the arts through

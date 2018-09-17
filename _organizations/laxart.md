@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/LAXART.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17143%252Fdisplay%252Fslanguage_facade_edit.jpg=c570x385
 project_video: ''
 org_summary: >-
   Since its founding in 2005, LAXART has realized over 200 projects with artists

@@ -13,7 +13,8 @@ twitter: 'https://twitter.com/ReframeLabs'
 instagram: N/A
 facebook: 'https://www.facebook.com/ReframeLabs'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385
 project_video: ''
 org_summary: >-
   Reframe is a nonprofit that trains leaders to launch new and redesigned next

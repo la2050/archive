@@ -13,7 +13,8 @@ twitter: N/A
 instagram: www.instagram.com/ruckusprojects/
 facebook: N/A
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385
 project_video: ''
 org_summary: >-
   Ruckus projects is a community of future makers coming together to launch

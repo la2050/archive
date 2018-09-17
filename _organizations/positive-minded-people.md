@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: 'https://www.facebook.com/positiveminded'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22152%252Fdisplay%252FImage_for_Good.jpg=c570x385
 project_video: ''
 org_summary: >-
   Positive Minded People is a community of 1200+ that hosts 4 - 6 events a month

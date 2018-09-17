@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17048%252Fdisplay%252Ftutoring.png=c570x385
 project_video: ''
 org_summary: >-
   <p>Collaborative Tutoring is an organization driven by the ultimate goal of

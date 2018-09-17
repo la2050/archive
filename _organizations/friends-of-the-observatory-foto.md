@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20477%252Fdisplay%252F405.jpg=c570x385
 project_video: ''
 org_summary: >-
   FOTO is responsible for ensuring excellence in informal science education

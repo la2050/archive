@@ -13,7 +13,8 @@ twitter: www.twitter.com/MentorMint
 instagram: www.MentorMint.com
 facebook: www.facebook.com/MentorMint
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385
 project_video: ''
 org_summary: >-
   Online mentoring connecting students with mentors who are industry

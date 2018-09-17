@@ -13,7 +13,8 @@ twitter: N/A
 instagram: ''
 facebook: www.facebook.com/LAmountains
 org_type: Government
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23990%252Fdisplay%252FLA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png=c570x385
 project_video: ''
 org_summary: >-
   The Mountains Recreation and Conservation Authority (MRCA) is dedicated to the

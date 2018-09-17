@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>L.A. Currents is a digital news publication about life in Los Angeles. Our

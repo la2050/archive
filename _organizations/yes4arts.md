@@ -13,7 +13,8 @@ twitter: www.twitter.com/yes4arts
 instagram: ''
 facebook: www.facebook.com/yes4arts
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23223%252Fdisplay%252FYes4arts_picture_image.jpeg=c570x385
 project_video: ''
 org_summary: >-
   Yes4arts provides free classes in sewing, crocheting, and knitting to schools

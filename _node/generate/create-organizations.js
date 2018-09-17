@@ -40,38 +40,54 @@ function stringToURI(str) {
     .replace(' ', '')
 }
 
-const MAKER_ORGANIZATION_NAME_PROPERTY_ID = 1781
-
-function getMakerProjectAnswers(project, makerProjectAnswers) {
-  // console.log("getMakerProjectAnswers")
-  makerProjectAnswers.forEach(answer => {
-    // fund_project_property_id 453 is the organization name
-    if (answer.fund_project_property_id === MAKER_ORGANIZATION_NAME_PROPERTY_ID && 
-      answer.project_id === project.id) {
-      return answer
-    }
-  })
-}
+let makerProjectAnswersLookup
 
 function getMakerProject(data, makerProjects, makerProjectAnswers) {
   // console.log("getMakerProject")
+
+  // Create an object for quick lookup
+  if (!makerProjectAnswersLookup) {
+    makerProjectAnswersLookup = {}
+    makerProjectAnswers.forEach(answer => {
+      // if (answer.project_id == 9541) console.dir(answer)
+      if (!makerProjectAnswersLookup[answer.project_id]) {
+        makerProjectAnswersLookup[answer.project_id] = {}
+      }
+      makerProjectAnswersLookup[answer.project_id][answer.value] = 1
+    })
+  }
+
+  let match
   makerProjects.forEach(project => {
-    let answer = getMakerProjectAnswers(project, makerProjectAnswers)
-    if (answer && answer.value === data.organization_name) {
-      return project
+    if (makerProjectAnswersLookup[project.id] && 
+        makerProjectAnswersLookup[project.id][data.organization_name]) {
+      match = project
     }
   })
+  return match
 }
 
+let makerImagesLookup
+
 function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
+
+  // Create an object for quick lookup
+  if (!makerImagesLookup) {
+    makerImagesLookup = {}
+    makerImages.forEach(image => {
+      if (!makerImagesLookup[image.project_id]) {
+        makerImagesLookup[image.project_id] = {}
+      }
+      makerImagesLookup[image.project_id][image.type] = image
+    })
+  }
+
   // console.log("getMakerImage")
   let project = getMakerProject(data, makerProjects, makerProjectAnswers)
   if (project) {
-    makerImages.forEach(image => {
-      if (image.project_id === project.id) {
-        return image
-      }
-    })
+    if (makerImagesLookup[project.id]) {
+      return makerImagesLookup[project.id]["ProjectPhoto"]
+    }
   }
 }
 
@@ -101,18 +117,25 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
       return `https://activation.la2050.org/assets/images/${p1}/2048-wide/${p2}.jpg`
     })
   } else if (data.year_submitted === '2016') {
-    data.project_image = `https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/${data.project_image}`
+    if (!data.project_image.includes('http')) {
+      data.project_image = `https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/${data.project_image}`
+    }
   } else if (data.year_submitted === "2015" || 
              data.year_submitted === "2014" ||
              data.year_submitted === "2013") {
-    // let image = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
-    // if (image) {
-    //   // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
-    //   // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
-    //   data.project_image = encodeURIComponent(encodeURIComponent(`http://maker.good.is/s3/maker/attachments/project_photos/images/${image.id}/display/${image.image_file_name}=c570x385`))
-    //   console.log(data.project_image)
-      
-    // }
+    if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
+      let image = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
+      if (image) {
+        // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
+        // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
+        let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${image.id}/display/${image.image_file_name}`))
+        data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
+        console.log(data.project_image)
+        
+      }
+    } else {
+      console.log("image already present: " + data.project_image)
+    }
   }
 
   // console.dir(data)
@@ -159,7 +182,7 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
   let makerProjects = parse(makerProjectInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
 
-  // Sorty by most recent year first
+  // Sort by most recent year first
   records.sort(function (a, b) {
     // a is less than b by some ordering criterion
     if (a.year_submitted > b.year_submitted) {
@@ -198,6 +221,6 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
 generateAllCollections('organizations-2013-2018.csv', 
                        'maker-projects.csv',
                        'maker-user-media.csv',
-                       'maker-project-answers.csv')
+                       'maker-project-properties.csv')
 
 

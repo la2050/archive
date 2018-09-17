@@ -13,7 +13,8 @@ twitter: www.twitter.com/UCLALuskin
 instagram: www.instagram.com/uclaluskin
 facebook: www.facebook.com/UCLALuskinSchool/timeline/
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385
 project_video: ''
 org_summary: >-
   Social Welfare at UCLA Luskin School of Public Affairs identifies and develops

@@ -13,7 +13,8 @@ twitter: www.twitter.com/ArtofActingLA
 instagram: www.instagram.com/artofactingstudio
 facebook: www.facebook.com/ArtofActingStudioLosAngeles
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
 project_video: ''
 org_summary: >-
   AOA transforms lives and communities through the arts by creating an

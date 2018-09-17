@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Individual
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22393%252Fdisplay%252FTianguis.jpg=c570x385
 project_video: ''
 org_summary: >-
   Elusive Minds Productions is a multimedia production company focused on

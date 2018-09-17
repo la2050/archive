@@ -13,7 +13,8 @@ twitter: www.twitter.com/GrandPerfs
 instagram: www.instagram.com/grandperfs
 facebook: www.facebook.com/GrandPerformances
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24070%252Fdisplay%252Fgp_la2050_570x345.jpg=c570x385
 project_video: ''
 org_summary: >-
   In 2016, Grand Performances (GP) celebrates 30 years of presenting FREE, high

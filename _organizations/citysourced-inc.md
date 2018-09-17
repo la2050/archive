@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16434%252Fdisplay%252FSplashScreenImageCrimeReporter.png=c570x385
 project_video: ''
 org_summary: >-
   <p>As a leader in the civic engagement space, CitySourced has received

@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17236%252Fdisplay%252Fvalhalla550.jpg=c570x385
 project_video: ''
 org_summary: >-
   ValhaLA being founded. The establishment of partnerships within a short time

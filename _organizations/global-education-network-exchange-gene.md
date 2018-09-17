@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21319%252Fdisplay%252FGENE_pic.jpg=c570x385
 project_video: ''
 org_summary: >-
   GENE is an interactive enterprise system that promotes the use of digital

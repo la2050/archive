@@ -13,7 +13,8 @@ twitter: www.twitter.com/aplusd_la
 instagram: www.instagram.com/aplusd_la
 facebook: www.facebook.com/aplusd.la
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385
 project_video: ''
 org_summary: >-
   The mission of The Architecture and Design Museum is to celebrate and promote

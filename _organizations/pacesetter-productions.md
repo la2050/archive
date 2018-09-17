@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/Passion.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16972%252Fdisplay%252FPacesetter.jpg=c570x385
 project_video: ''
 org_summary: >-
   Pacesetter Productions is a new name for a consulting business Lee Condon has

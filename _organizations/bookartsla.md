@@ -13,7 +13,8 @@ twitter: www.twitter.com/BookArtsLA
 instagram: '#BookArtsLA'
 facebook: www.facebook.com/BookArtsLA
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385
 project_video: ''
 org_summary: >-
   BookArtsLA brings the experience of making handmade books to people of all

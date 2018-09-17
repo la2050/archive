@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22352%252Fdisplay%252FMarket_Match_Booth_Adams.Vermont_1.jpg=c570x385
 project_video: ''
 org_summary: >-
   Hunger Action LA fights hunger and promotes healthy eating through advocacy,

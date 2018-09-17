@@ -13,7 +13,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/myla2050/projects/thehubla.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17015%252Fdisplay%252FLounge_Rendering.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>Hub LA has building the social enterprise community in Los Angeles since

@@ -17,7 +17,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22795%252Fdisplay%252FLA2050-pic-1_copy.jpg=c570x385
 project_video: ''
 org_summary: >-
   The LA County Active Transportation Collaborative promotes improved policy and

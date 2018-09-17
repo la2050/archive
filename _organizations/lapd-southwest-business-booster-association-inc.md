@@ -14,7 +14,8 @@ instagram: ''
 facebook: >-
   https://www.facebook.com/LAPD-Southwest-Area-Teen-C-PAB-143924359003283/timeline/
 org_type: Other
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385
 project_video: ''
 org_summary: >-
   The Southwest Area Police Youth Board is comprised of Board-elected community

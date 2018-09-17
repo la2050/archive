@@ -15,7 +15,8 @@ twitter: www.twitter.com/goldenhrtranch
 instagram: www.instagram.com/goldenheartranch
 facebook: www.facebook.com/GoldenHeartRanch
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385
 project_video: ''
 org_summary: >-
   Golden Heart Ranch provides vocational training, life skills classes and

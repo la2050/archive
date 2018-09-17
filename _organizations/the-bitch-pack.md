@@ -13,7 +13,8 @@ twitter: www.twitter.com/biatchpack
 instagram: ''
 facebook: 'https://www.facebook.com/HollywoodBiatchPack'
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385
 project_video: ''
 org_summary: >-
   We encourage diversity in entertainment so we can change sad statistics for

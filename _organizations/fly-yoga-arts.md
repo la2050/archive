@@ -13,7 +13,8 @@ twitter: www.twitter.com/flyyogaarts
 instagram: www.instagram.com/FLYyogaarts
 facebook: www.facebook.com/FLYyogaarts
 org_type: Forprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
 project_video: ''
 org_summary: >-
   FLY Yoga Arts brings balance to education through play- based classes designed
