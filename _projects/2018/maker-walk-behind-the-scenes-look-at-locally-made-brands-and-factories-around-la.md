@@ -8,14 +8,45 @@ project_summary: >-
   We’re expanding Maker Walk around the city—and partnering with Artisanal LA &
   LA Food Fest—to raise awareness for local brands and manufacturers, and
   mobilize the creative community to MAKE IT IN LA!
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Employment in the creative industries","Manufacturing activity","Minority-
   and women-owned firms"]
-make_la_great: >-
+category: create
+organization_id: '2018079'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg'
+project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
+project_proposal_description: >-
+  Our first Maker Walk attracted 500+ attendees for a choose-your-own-adventure
+  of businesses and factories in the Arts District. They begged for more, so we
+  will sustain and replicate the experience in maker hotspots around the region
+  (DTLA, El Segundo, Long Beach, Vernon). So doing, we’ll raise consumer
+  awareness of locally-made brands, identify and cultivate champions for
+  manufacturing, and encourage creators to partner with local factories to fully
+  unleash the creative potential of the city.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+  - 'Long Beach, Pasadena, and other neighborhoods TBD'
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - >-
+    Encourage creators to partner with local manufacturers. Identify and inspire
+    champions to advocate for local manufacturing. Inspire consumers to change
+    their buying behavior and share content about LA-made brands. Activate the
+    local (and national) media to highlight and celebrate local manufacturing. 
+project_proposal_best_place: >-
   Los Angeles is the largest center for manufacturing in the country, with half
   a million jobs—that’s nearly four times as many jobs as film and
   television—yet most Angelenos don’t fully appreciate its importance to our
@@ -42,10 +73,39 @@ make_la_great: >-
    
    
    We anticipate repeating our Arts District Maker Walk in October 2018, and ramping up to a total of 18 events in the grant period. We expect to grow by 10% each month and attract more than 2,500 attendees per event by the second year, for a total of 25,000 attendees to date.
-category: create
-organization_id: '2018079'
-project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg'
-project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
+project_proposal_engage: >-
+  Maker Walk will help make connections and inspire founders and aspiring
+  entrepreneurs to consider “making it” in Los Angeles. We will use the events
+  to uncover new creators to engage in our events and our Catalyst program and
+  new manufacturers that we can support. 
+   
+   
+   
+   We will use the events as opportunities to reach the public with the message “manufacturing is sexy” through the media, social media, and our attendees. The events will be visually appealing to make it easy for people to share with their friends and raise awareness among the public. We will highlight manufacturers and brands hosting tours and selling at the market on our website.
+   
+   
+   
+   The pop-up markets will inspire and enable consumers to buy locally-made.
+   
+   
+   
+   We hope as these rotating events move, each neighborhood and city will start organizing additional events to involve their local residents, to expand our impact even further.
+project_measure: >-
+  We will measure our impact through the number of attendees (projected
+  25,000+). This is the most important metric because by taking part they will
+  become champions for local manufacturing. We will also track the number of
+  website visits and profile views (100,000+), social media shares, and
+  qualitative responses to surveys.
+project_five_years: >-
+  We aim to make Maker Walk will be a monthly institution, part of the cultural
+  fabric of Los Angeles, attracting thousands of people from diverse parts of
+  the region and beyond to celebrate manufacturing and locally made. We hope it
+  becomes successful enough that we can replicate this in other cities to help
+  them celebrate their ecosystems
+category_metrics:
+  - Employment in the creative industries
+  - Manufacturing activity
+  - Minority- and women-owned firms
 body_class: banana
 
 ---

@@ -6,14 +6,34 @@ project_summary: >-
   Individualized cargo containers, stacked on empty lots, will provide chronic
   and temporarily homeless people with a place to live, as well as space for the
   resources they need to survive and succeed.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Housing affordability","Number of households below the self-sufficiency
   standard","Rates of homelessness"]
-make_la_great: |-
+category: live
+organization_id: '2018039'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
+project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
+project_proposal_description: >-
+  Our group would like to activate the idea of Tiny Cities to solve the homeless
+  crisis in Los Angeles County. We have been talking to City and County
+  personnel and pitching this idea to a variety of groups but have never been
+  able to show it to anyone.
+
+
+
+   This grant would allow us to build an actual small location to convince government and communities that this idea is a real solution to the homeless problem.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: |-
   Tiny Cities LA:
 
    A holistic solution to solving the homeless crisis today
@@ -39,11 +59,30 @@ make_la_great: |-
 
 
    The LA2050 grant would allow our team to build a prototype in the County that would clearly show the integrity of this concept. ModPod Solutions, the cargo container provider, will adapt its costs to assure that one resource unit and one housing unit can be built on the designated TC#1.
-category: live
-organization_id: '2018039'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
-project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
+project_proposal_engage: >-
+  Our project intends to engage the 50-60,000 homeless individuals in the County
+  so we design the exteriors and interiors of these spaces to meet their needs
+  and lifestyle. Our vision is to place people in a Tiny City that best meets
+  their personal needs, whether they are chronically homeless and need to move
+  around, or whether they are temporarily homeless and need a stable family
+  environment for a period of time while they get back on their feet.
+
+
+
+   We want to engage neighborhoods where we select the empty lots so residents can be helped to feel comfortable about the project; and we want to use volunteers in each community to help with the resource offering and the maintenance of the premises. We plan to reach out to homeless agencies within each community to determine how best to engage and utilize these citizens.
+project_measure: >-
+  If we are successful in building a prototype in any community, the project
+  will be successful. This will show that we can secure the land and permitting,
+  and we can engage the community in supporting the project. Once we have built
+  one, others will want to implement this idea!
+project_five_years: >-
+  We hope to be providing low cost housing throughout Los Angeles County,
+  wherever there is vacant land, to eradicate the homeless problem and alleviate
+  the cost of housing for struggling families.
+category_metrics:
+  - Housing affordability
+  - Number of households below the self-sufficiency standard
+  - Rates of homelessness
 body_class: lime
 
 ---

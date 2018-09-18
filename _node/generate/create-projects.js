@@ -158,6 +158,56 @@ function getMakerImage(data) {
 }
 
 
+const projectAnswers = [
+  "project_proposal_description",
+  "project_areas",
+  "project_proposal_mobilize",
+  "project_proposal_best_place",
+  "project_proposal_engage",
+  "project_measure",
+  "project_five_years",
+  "category_metrics"
+]
+
+const projectAnswersToRemove = [
+  "idea_and_impact",
+  "use_resources",
+  "resources_needed",
+  "measure_success",
+  "impact_metrics",
+  "make_la_great"
+]
+
+function addProjectAnswers(data) {
+
+  // If year_submitted is 2016 or 2018
+  if (data.year_submitted == 2016 ||
+      data.year_submitted == 2018) {
+
+    // Find the project in markdownProjects that matches this data
+      // If title is the same as one of the project titles
+
+    let project = markdownProjectsLookup[data.title]
+    if (project) {
+      projectAnswers.forEach(answer => {
+        if (project[answer] && !data[answer]) {
+          data[answer] = project[answer]
+        }
+      })
+
+      // Remove empty or redundant answers
+      projectAnswersToRemove.forEach(answerToRemove => {
+        if (data[answerToRemove] == "") delete data[answerToRemove]
+        projectAnswers.forEach(answer => {
+          if (data[answerToRemove] == data[answer]) delete data[answerToRemove]
+        })
+      })
+    }
+
+  }
+  
+}
+
 
 function createMarkdownFile(data) {
   console.log('createMarkdownFile for ' + data.title)
@@ -206,6 +256,8 @@ function createMarkdownFile(data) {
     }
   }
 
+  addProjectAnswers(data)
+
   data.body_class = category_colors[data.category] || "strawberry"
 
   if (!data.title) {
@@ -240,11 +292,11 @@ ${yaml.safeDump(data)}
 }
 
 let orderCursors = {
-  learn: 0,
-  create: 0,
-  play: 0,
-  connect: 0,
-  live: 0
+  learn   : 0,
+  create  : 0,
+  play    : 0,
+  connect : 0,
+  live    : 0
 }
 
 function fixDataCharacters(data) {
@@ -291,11 +343,11 @@ function generateCollections(file_name, category) {
 
 const categories = ["learn", "create", "play", "connect", "live"]
 const category_colors = {
-  learn: "blueberry",
-  create: "banana",
-  play: "strawberry",
-  connect: "tangerine",
-  live: "lime"
+  learn   : "blueberry",
+  create  : "banana",
+  play    : "strawberry",
+  connect : "tangerine",
+  live    : "lime"
 }
 
 function generateAllCollections(file_name, year) {
@@ -325,32 +377,211 @@ function generateAllCollections(file_name, year) {
 }
 
 
-// generateCollections('learn.csv', 'learn')
-// generateCollections('create.csv', 'create')
-// generateCollections('play.csv', 'play')
-// generateCollections('connect.csv', 'connect')
-// generateCollections('live.csv', 'live')
 
-let maker_projects = 'maker-projects.csv'
-let maker_user_media = 'maker-user-media.csv'
+
+
+function getYaml(text, filename) {
+  const DELIMITER = '---'
+  let items = text.split(DELIMITER)
+  if (items.length === 3) {
+    return items[1]
+  } else {
+    console.log('unexpected markdown format detected')
+    console.log(items.length)
+    console.log(text)
+    console.log(filename)
+  }
+}
+
+function getContent(text, filename) {
+  const DELIMITER = '---'
+  let items = text.split(DELIMITER)
+  if (items.length === 3) {
+    return items[2]
+  } else {
+    console.log('unexpected markdown format detected')
+    console.log(items.length)
+    console.log(text)
+  }
+}
+
+
+
+// https://stackoverflow.com/questions/20822273/best-way-to-get-folder-and-file-list-in-javascript#21459809
+function getAllFilesFromFolder(dir) {
+
+    let filesystem = require("fs")
+    let results = []
+
+    filesystem.readdirSync(dir).forEach(function(file) {
+
+        file = dir+'/'+file
+        let stat = filesystem.statSync(file)
+
+        if (stat && stat.isDirectory()) {
+            results = results.concat(getAllFilesFromFolder(file))
+        } else results.push(file)
+
+    })
+
+    return results
+
+}
+
+
+function loadMarkdown(filename) {
+  // let input = fs.readFileSync(filename, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+
+  // Get document, or throw exception on error 
+  try {
+    let text = fs.readFileSync(filename, 'utf8')
+    let yamlText = getYaml(text, filename)
+    let contentText = getContent(text, filename)
+
+    if (!yamlText || !contentText) return
+
+    let data = {}
+    data.yaml = yaml.safeLoad(yamlText)
+    data.content = contentText
+    return data
+
+  } catch (e) {
+    console.log(e)
+  }
+}
+
+
+/*
+const skipColumns = {
+  "order": 1,
+  "project_image_color": 1,
+  "link_limit": 1,
+  "link_newsletter_note": 1
+}
+
+
+function getColumns(records) {
+
+  let uniqueColumnNames = {}
+  records.forEach(item => {
+    for (let name in item) {
+      if (item.hasOwnProperty(name)) {
+        uniqueColumnNames[name] = 1
+      }
+    }
+  })
+
+  let columns = []
+  for (let name in uniqueColumnNames) {
+    if (uniqueColumnNames.hasOwnProperty(name) && !skipColumns[name]) {
+      columns.push(name)
+    }
+  }
+
+  return columns
+}
+
+
+function saveCSVFile(filePath, records) {
+
+  let data = []
+  let columns = getColumns(records)
+  data.push(columns)
+
+  records.forEach(item => {
+    let array = []
+    columns.forEach(column => {
+      let value = item[column]
+      if (column === "project_image" && value) {
+        value = `https://activation.la2050.org${item.uri}${value}`
+      }
+      if (column === "uri" && value) {
+        value = `https://activation.la2050.org${item.uri}`
+      }
+      if (!skipColumns[column]) {
+        array.push(value)
+      }
+    })
+    data.push(array)
+  })
+
+  stringify(data, function(err, output){     
+    fs.writeFile(filePath, output, 'utf8', (err) => {
+      if (err) {
+        console.log(err)
+      }
+    }) 
+  })
+}
+*/
+
+
+function getRecords(folder) {
+  let files = getAllFilesFromFolder(folder)
+
+  let records = []
+  for (let index = 0; index < files.length; index++) {
+    if (files[index].indexOf('.DS_Store') >= 0) continue
+
+    // Load the contents of the file
+    let data = loadMarkdown(files[index])
+    if (!data) continue
+
+    // Add the data to the list of records
+    records.push(data.yaml)
+  }
+  return records
+}
+
+
+
+
+
+
+let maker_projects        = 'maker-projects.csv'
+let maker_user_media      = 'maker-user-media.csv'
 let maker_project_answers = 'maker-project-properties.csv'
 
 
-let makerProjectAnswersInput = fs.readFileSync('../_data/' + maker_project_answers, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-let makerProjectAnswers = parse(makerProjectAnswersInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+let makerProjectAnswersInput = fs.readFileSync('data/' + maker_project_answers, 'utf8')
+let makerProjectAnswers      = parse(makerProjectAnswersInput, {columns: true})
 
 
-let makerUserMediaInput = fs.readFileSync('../_data/' + maker_user_media, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-let makerImages = parse(makerUserMediaInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+let makerUserMediaInput = fs.readFileSync('data/' + maker_user_media, 'utf8')
+let makerImages         = parse(makerUserMediaInput, {columns: true})
 
 
-let makerProjectInput = fs.readFileSync('../_data/' + maker_projects, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-let makerProjects = parse(makerProjectInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+let makerProjectInput = fs.readFileSync('data/' + maker_projects, 'utf8')
+let makerProjects     = parse(makerProjectInput, {columns: true})
+
+
+// Load the markdown files
+
+
+
+
+let markdownProjects = []
+categories.forEach(category => {
+  let next = getRecords(`data/projects-2016-2018-markdown/_${category}`)
+  markdownProjects = markdownProjects.concat(next)
+})
+
+// Create an object for quick lookup
+let markdownProjectsLookup = {}
+markdownProjects.forEach(project => {
+  if (!markdownProjectsLookup[project.title]) {
+    markdownProjectsLookup[project.title] = project
+  }
+})
+
 
 
 
 generateAllCollections('projects-2018.csv', 2018)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
+
+
+
 
 

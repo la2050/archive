@@ -6,12 +6,27 @@ project_summary: >-
   Hacker Fund is launching a Civic Innovation Center in order to provide
   Angelenos with resources for technology education, tools to prototype civic
   innovations, and a community workspace.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Jobs per capita","Manufacturing activity","Patents per capita"]'
-make_la_great: >-
+category: create
+organization_id: '2018050'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
+project_video: 'https://vimeo.com/231126321'
+project_proposal_description: >-
+  Hacker Fund is building a Civic Innovation Center in order to provide
+  Angelenos with technology education, tools to prototype and develop new civic
+  innovations, and a collaborative workspace to activate a trans-generational
+  community.
+project_areas:
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   In order to create a better Los Angeles and activate 100,000 Angelenos by
   2050, Hacker Fund is launching a Civic Innovation Center (CIC) in Downtown Los
   Angeles. The CIC will make Los Angeles the best place to CREATE by offering to
@@ -30,10 +45,43 @@ make_la_great: >-
    
    
    The CIC will be funded through a combination of grant funding (including LA2050 and $50,000 that we have already received from the Craig Newmark Philanthropic Fund), membership fees, corporate sponsorship, and in-kind donations.
-category: create
-organization_id: '2018050'
-project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
-project_video: 'https://vimeo.com/231126321'
+project_proposal_engage: >-
+  Hacker Fund's Civic Innovation Center (CIC) intends to engage community
+  members from diverse cultural and professional backgrounds, as well as mixed
+  age groups. Angelenos will have access to a 5,000 square foot multipurpose hub
+  containing a maker-space, co-working space, classroom, private offices, and a
+  mixed reality lab. With the center open from 8:30AM to 10:30 PM, the first 6
+  hours of the day would be used for manufacturing and heavy duty creation. For
+  the next 8 hours, the space is opened up as an educational space for youths,
+  students, and learners of all ages. Educational opportunities would include
+  workshops in science, technology, engineering, arts, and math (STEAM).
+  Makerspaces and similar hardware spaces have historically had problems with
+  accessibility. We intend to position our space in a location that makes the
+  space easily accessible to communities that otherwise would not have access to
+  the tools and educational resources we provide, as well as partner with K12
+  schools, local universities, community colleges, and trade schools. By helping
+  those in our community become creators, and giving them the the resources to
+  develop skills relevant in a constantly modernizing society, we create a
+  ladder of engagement that leads to positive multigenerational change. Students
+  become creators; creators become instructors, entrepreneurs, and valuable
+  contributing community members.
+project_measure: >-
+  The success of the Civic Innovation (CIC) is defined by the success of our
+  ladder of engagement, with the main goal being to create a lasting positive
+  multigenerational change in Los Angeles where community members feel empowered
+  to create, learn, and give back. This would be measured by number of
+  technology innovations prototyped, the number of active members per month and
+  per quarter, and then the number of students that become educators and
+  contributors to the center. Data will be collected on the amount of students
+  reached, as well as the conversion from member to creator, instructors,
+  entrepreneur, and patent holder.
+project_five_years: >-
+  In five years, we hope to have a Civic Innovation Center in each city council
+  district in Los Angeles, allowing us to activate more than 100,000 Angelenos.
+category_metrics:
+  - Jobs per capita
+  - Manufacturing activity
+  - Patents per capita
 body_class: banana
 
 ---

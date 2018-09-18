@@ -6,14 +6,44 @@ project_summary: >-
   Carrying forward is helping those who are in need of housing, workforce
   training, and other services; we collaborate to mobilize help for veterans and
   other Angelenos.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Healthcare access","Housing affordability","Number of households below the
   self-sufficiency standard"]
-make_la_great: >-
+category: live
+organization_id: '2018088'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
+project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
+project_proposal_description: >-
+  To “Carry Forward” means to make progress in addressing some of the issues
+  that veterans and other Angelenos face every day. Collaborative efforts can
+  work to provide "affordable" housing and workforce training for those in need.
+  Veterans and others who are experiencing homelessness are in need of
+  affordable housing, skills that help them reach self-sufficiency, and easy
+  access to health care.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+  - Create Collaboration
+project_proposal_best_place: >-
   LA County is already a great place to live, which is why so many live there.
   It will become the "best" place to live as it addresses self-sufficiency and
   homelessness issues.
@@ -57,11 +87,41 @@ make_la_great: >-
 
 
    Additionally, relocating homeless individuals to locations like Lancaster, Apple Valley, and Hesperia which have available jobs, lower rents, and price of properties. This will help lower the density in the City of Los Angeles. Many would be willing to relocate. They need and want help, but they do not have the means to move and know the resources that are available in other areas of the state.
-category: live
-organization_id: '2018088'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
-project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
+project_proposal_engage: >-
+  Engaging Angelenos is not new. Our system of collaborative efforts will create
+  a new way of looking at the "Live" issues in a new way can make the
+  difference. Businesses and organizations compete for notice, an identity, but
+  not for partnerships.
+
+
+
+   Our partnership is more about results that benefit all, the businesses, their customers who are veterans and Angelenos who are wealthy or less fortunate.
+
+
+
+   With the help of LA2050 results can be achieved: "Hosting public events" and "Communications support, including traditional media, social media, and LA2050 newsletter" will create greater awareness and more collaborative efforts.
+project_measure: >-
+  Success will be measured by the number of collaborative efforts in workforce
+  training, the numbers trained and retained in their job.
+
+
+
+   In San Diego County, the National Veterans Transition Services, Inc. has seen 95-97% success in job training and at least a 9-month retention of employment.
+
+
+
+   The number of additional individuals being housed in the currently available locations will lead to even more individuals to be housed.
+project_five_years: >-
+  In five years an additional 5,000 veterans will have received workforce
+  training and will be employed or developed a profitable business.
+
+
+
+   Once implemented, this program has the potential to house 100s in LA. Moving able-bodied homeless Angelenos to locations where work and housing are available will decrease the density of the city's homeless population.
+category_metrics:
+  - Healthcare access
+  - Housing affordability
+  - Number of households below the self-sufficiency standard
 body_class: lime
 
 ---

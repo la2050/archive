@@ -6,14 +6,28 @@ project_summary: >-
   Help Red Hen Press transform its new home into an arts center for our LA
   community, featuring groundbreaking performances, master class writing
   workshops, and free arts education for local youth!
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Number (and quality) of informal spaces for play","Number of children
   enrolled in afterschool programs"]
-make_la_great: >-
+category: create
+organization_id: '2018101'
+project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
+project_video: ''
+project_proposal_description: >-
+  In 2017, Red Hen Press moved into a permanent home in Pasadena with enough
+  space to allow us to expand our community programming significantly. Red Hen
+  will transform this building into an artistic hub for the surrounding
+  community, equipping the stage with lighting and sound equipment for local
+  artist performances; furnishing the community space with computers, desks,
+  chairs, and instruments for workshops; and providing a space for underserved
+  youth to practice the arts.
+project_areas:
+  - San Gabriel Valley
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - Connect Angelenos with impactful volunteer opportunities
+  - Employment opportunities for local artists
+project_proposal_best_place: >-
   Through the LA2050 Activation Challenge, Red Hen Press will make capital
   purchases in preparation for the launch of the Hen House Workshop Series in
   its new community arts center. The workshop series will provide low-income
@@ -36,10 +50,44 @@ make_la_great: >-
    
    
    The purchase of staging equipment and audience seating will also enable Red Hen Press to host its own events. Currently, the press primarily programs literary events at arts venues, museums, art galleries, and theaters throughout Los Angeles, and such events often incur space rental costs. By programming literary events at our own performance space, the press will eliminate venue rental costs, allowing for free entry for audience members and higher honoraria for performing artists. Support for this project will also support Red Hen’s efforts to increase attendance from low-income populations by providing free tickets to students, their families, and faculty at Title I schools in Los Angeles.
-category: create
-organization_id: '2018101'
-project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
-project_video: ''
+project_proposal_engage: >-
+  As Red Hen Press expands its programming, we will need our local community to
+  step up and aid us in carrying out our mission. We will tap into our local
+  community of artists for instructors for our new workshop series. We will
+  reach out to local arts venues, educational institutions, and collectives to
+  seek performers to populate our events. We will recruit volunteers from local
+  colleges and universities to help plan and promote our new programs and
+  services.
+project_measure: >-
+  Success for Red Hen’s new programming will be defined by renovation goals met,
+  number of workshops and events planned, attendance numbers at events and
+  workshops, and percentage of capacity at each event.
+   
+   
+   
+   Renovation will be considered a success when the performance space is equipped with lighting, sound, and staging equipment; when tables and chairs are purchased for workshops; and when the building's facade, currently a solid cinder block wall, is adorned with large windows. 
+   
+   
+   
+   Red Hen Press aims to host 15 events and 60 workshops annually, filled to 90% capacity each, and anticipates 1,500 attendees over the course of the year. This data will be collected from event reports written by press staff and survey questionnaires filled out by event attendees. Surveys also provide the press qualitative feedback about attendees’ perceptions of an event’s success. These measures allow us to continue to create and improve upon spaces where ideas can be shared among members of the literary community.
+project_five_years: >-
+  Our dream is to build a literary center in Los Angeles that will rival the
+  other four literary centers in the country: Poets House in New York City, the
+  Poetry Center in Tucson, the Loft in Minneapolis, and the prime literary space
+  in the country, the Poetry Foundation in Chicago. Funding from the LA2050
+  Activation Challenge will make this dream a reality. In five years, our
+  programming will have expanded significantly. The press would be hosting
+  events or workshops three times a week; during the day, the event space would
+  be used as a writing space for authors who wish to work collaboratively with
+  other creatives; our youth outreach programs would be expanded to include
+  after-school programs in addition to our current in-school programs; we would
+  be able to increase staff compensation to match industry standard. The press
+  is at a turning point in its history. This activation is what Red Hen Press
+  needs to take the next leap forward and make Los Angeles a better place to
+  create, connect, and learn.
+category_metrics:
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
 body_class: banana
 
 ---

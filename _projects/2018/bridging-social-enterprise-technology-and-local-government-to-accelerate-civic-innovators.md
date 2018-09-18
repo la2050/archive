@@ -8,14 +8,37 @@ project_summary: >-
   Civic Innovation Lab facilitates cross-sector collaboration and the creation
   of civic solutions through design challenges, structured programming, and
   networking with public & private sector experts.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Jobs per capita","Minority- and women-owned firms","Number of high-growth
   startups"]
-make_la_great: >-
+category: create
+organization_id: '2018028'
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
+project_video: ''
+project_proposal_description: >-
+  Civic Innovation Lab seeks to harness the passion and ingenuity of our
+  community members, the power of technology, and the expertise of our local
+  government to facilitate the development of solutions addressing some of our
+  City's most pressing social and civic problems. Our programs are designed to
+  bridge the digital divide and connect a wide spectrum of stakeholders in the
+  civic ideation and product development process, resulting in the
+  infrastructure necessary to yield measurable impact.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   Los Angeles has the potential to be the premiere ecosystem for civic
   innovation and entrepreneurship. Already home to the nation’s third largest
   technology community behind Silicon Valley and New York City, Los Angeles has
@@ -41,11 +64,49 @@ make_la_great: >-
     
    
    We also know that to get real traction and develop civic tech that works, it needs to happen through a facilitated process that involves engagement and testing over time. We aim to create civic infrastructure that brings expert citizens, the tech community, and government together in a process to yield measurable civic and social impact.
-category: create
-organization_id: '2018028'
-project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
-project_video: ''
+project_proposal_engage: >-
+  CIL demonstrates how to build civic tech “with and not for” by engaging the
+  people for whom the innov. challenge seeks to create value throughout the
+  challenge design process. Using a design thinking & user-centered approach, we
+  convene with a wide spectrum of stakeholders across the city - from the valley
+  to South LA to the westside - to understand their needs, pain points, and
+  aspirations. This precursor to the competition activates a culturally &
+  socio-economically diverse set of constituents in a truly collaborative &
+  inclusive process that unifies them towards a common goal. 
+   
+    
+   
+   Our design process lends to a more engaged community, one that will have a vested interest in the development of solutions that address the pressing issues that they themselves have identified. By putting people first, we will get better submissions that lead to commercialization opportunities & create positive impact for LA. 
+   
+   
+   
+   CIL will then launch an accelerator program, harnessing the passion of citizens, public sector experience, and the power of tech to develop & deploy viable tech solutions by accomplishing the following over time:
+   
+   *Provide a new, equitable pathway for residents to participate in civic innovation to ensure the highest levels of diversity;
+   
+   *Improve connections among gov agencies and the tech ecosystem;
+   
+   *Provide unique, flexible training and support for civic innovators and entrepreneurs; and
+   
+   *Assist government agencies and foundations in finding and testing innovative ideas.
+project_measure: >-
+  At the most basic level, our programs aim to democratize the entrepreneurial
+  pathway for individuals across the city to become civic innovators. We will
+  measure our success by tracking the number of people coming through our
+  programs - from the challenge design process to the innovation challenge and
+  through the accelerator program - as participants, volunteers, competition
+  submitters, mentors, advisors, and investors. Through the development of
+  various solutions born out of our programs, we will also measure job creation
+  as teams formalize and launch viable solutions across the city.
+project_five_years: >-
+  We hope that Civic Innovation Lab can be a mainstay organization and
+  opportunity for all Angelenos, regardless of age, socio-economic status, race,
+  culture, or any other factors that currently prohibit them from participating
+  in the civic tech ecosystem.
+category_metrics:
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Number of high-growth startups
 body_class: banana
 
 ---

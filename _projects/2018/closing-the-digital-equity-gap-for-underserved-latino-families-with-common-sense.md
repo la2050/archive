@@ -8,15 +8,36 @@ project_summary: >-
   Common Sense will work with public school districts and community
   organizations in LA to provide trainings and resources that help underserved
   Latino families and kids thrive in the digital age.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Proficiency in English and Language Arts and Math","Students’ perceived
   sense of safety at and on the way to school","Students’ immersion in Science,
   Technology, Engineering, and Math content"]
-make_la_great: >-
+category: learn
+organization_id: '2018029'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
+project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
+project_proposal_description: >-
+  48 percent of LA's population and 65 percent of students enrolled in public
+  schools are Latino. Common Sense’s free English and Spanish-language online
+  resources are linguistically and culturally relevant, and can activate the
+  skills and knowledge that underserved families need to play an active role in
+  their kids’ media and tech lives. A grant from LA2050 will fund our Latino
+  Specialist’s in-person trainings for parents and community-based
+  organizations.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+  - LAUSD
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+project_proposal_best_place: >-
   Common Sense is uniquely positioned to address the needs of Latino families in
   Los Angeles. Over the last year, Common Sense began efforts to broaden our
   reach to low-income Latino families in Los Angeles. We launched a new
@@ -61,10 +82,68 @@ make_la_great: >-
    
    
    Through these efforts, we will help kids build the skills they need to harness technology for learning and life - from using the internet safely and responsibly to using media and technology to optimize learning. Our award-winning Digital Citizenship program covers media balance and well being, digital footprint and identity, privacy and safety, relationships and communication, digital drama, cyberbullying and hate speech, and news and media literacy. This comprehensive work will be executed by a team of people in our LA office, supported by our national staff who are creating the programmatic resources.
-category: learn
-organization_id: '2018029'
-project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
-project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
+project_proposal_engage: >-
+  Our ultimate goal is to ensure that young people have the skills and knowledge
+  to live, work, and thrive in the 21st century. Raising the next generation to
+  be savvy consumers and producers of media is critical to the health of our
+  city and our democracy. Over the last year, for the first time since we
+  launched our Los Angeles program in 2011, we are offering curated
+  Spanish-language resources and parent workshops (both directly and through a
+  train-the-trainer models) to low-income, immigrant families to help them
+  understand the power media and technology can have to help their children
+  reach their educational goals. We want to expand the range of these in-person
+  trainings to other schools and community organizations so they may help more
+  Spanish-speaking families understand the impact of media on their kids and
+  teach them how they can play an active role in helping their kids harness
+  media and potential to its full potential. Our content is readily sharable,
+  and our train-the-trainer model facilitates easy adoption in schools and
+  grass-root organizations. Our interactions on the ground in underserved
+  communities, in turn, influence the creation of content at a national level
+  that benefits all families through our social channels and media outlets.
+project_measure: >-
+  Common Sense is committed to measuring the impact of our work. By the end of
+  the grant period, we anticipate that we will have:
+   
+   
+   
+   Our Reach:
+   
+   At least 200-300 parents will have attended a parent workshop (via schools or community partners). These workshops offer a better understanding of the digital world, identify tools that support the educational goals of the family, and allow underserved parents to feel welcome in a safe environment for learning. 
+   
+   
+   
+   Partnerships will be established with at least 4-5 community-based organizations in LA who will disseminate Common Sense content.
+   
+   
+   
+   At least 100 community-based educators will be trained to provide workshops to families on media and technology issues. All participants in the train-the-trainer programs will receive recognition for being agents of changes in their community as a Common Sense Technology Champion.
+   
+    
+   
+   Our Impact:
+   
+   Through surveys of Los Angeles area parents:
+   
+   At least 90% of parents and families will report that they were either “very satisfied” or “satisfied” with Common Sense sessions 
+   
+   At least 90% of parents and families will report that our sessions were of “high quality” or “quality.” 
+   
+   At least 85% of parents and families will report that they have higher levels of confidence in helping guide their kids to be good digital citizens
+   
+   At least 80% of parents and families will report that they feel better educated on where they can go to access more information and support on digital tools to support learning at home
+project_five_years: >-
+  In five years, we hope to have grown and fostered a community of parents and
+  families who can guide their children towards success in the 21st Century. We
+  hope also to have learned how to best support these families, and that these
+  lessons will inform content production for our national Latino resources. This
+  will have been possible thanks to the support of organizations such as LA2050,
+  who help us create culturally-relevant, research-based content that is
+  disseminated to trusted partners (schools and nonprofits) through ongoing
+  in-person trainings and consultations.
+category_metrics:
+  - Proficiency in English and Language Arts and Math
+  - Students’ perceived sense of safety at and on the way to school
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 body_class: blueberry
 
 ---

@@ -6,14 +6,42 @@ project_summary: >-
   The project will enable LA’s 150,000 retail workers to connect with each other
   across LA’s vast size, learn their rights, register to vote, and become
   effective, civically engaged advocates.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Government responsiveness to residents’ needs","Total number of local social
   media friends and connections Angelenos have","Voting rates"]
-make_la_great: >-
+category: connect
+organization_id: '2018072'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
+project_video: 'https://youtu.be/7GHqVKrYCjM'
+project_proposal_description: >-
+  We aim to enable retail workers all over LA to connect with each other using
+  social media with a purpose-designed digital app as well as in- person events.
+  Through this connection, retail workers will have the combined power to
+  advocate for policies that improve their lives and expand their participation
+  in city life. We will use this process and the lessons it teaches about power,
+  advocacy and policy making to motivate retail workers to register and vote in
+  local and state elections
+project_areas:
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Advocate for policy
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   The nearly 150,000 retail workers in LA are subject to erratic and
   unpredictable scheduling and lack of access to full time work. Based on a
   survey of over 800 workers led by the Fair Workweek team and volunteers, and a
@@ -37,11 +65,95 @@ make_la_great: >-
    Once the policy is adopted, workers will be better able to connect with each other through scheduled meetings and events and to participate more actively in civic life. Their lives will be fuller as they are able to spend more time with their children, attend school, and other activities that require having a predictable schedule.
    
    We will also test which platforms and apps are most effective in connecting and activating workers.
-category: connect
-organization_id: '2018072'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
-project_video: 'https://youtu.be/7GHqVKrYCjM'
+project_proposal_engage: >-
+  The Fair Workweek (FWWLA) activation engages non-food retail workers and
+  customers. Retail workers look like LA: they are all ages—from teens to
+  seniors—and all ethnicities—primarily Latinx like the city, and a majority are
+  women.. 
+   
+   Strategies and tools employed:
+   
+   Engage workers in using social media tools and the FWWLA app to connect with each other across the city. Use Twitter and “we are retail”—a private national Facebook group for retail workers—to promote actions, inform workers and build solidarity. 
+   
+   Register retail workers to vote and use social media to increase turnout.
+   
+   Train workers in public speaking and encourage them to speak at hearings, press conferences, and meetings.
+   
+   Mobilize workers to turn out at hearings and city council meetings or to send emails and social media messages to decision-makers.
+   
+   Recruit workers to join the FWWLA coalition and contribute to decision making.
+   
+   Train workers to reach out to their co-workers and neighbors about scheduling issues.
+   
+   Place cards with infographics about data from the study in clothing and shoes at stores to inform workers and customers about scheduling issues. 
+   
+   Use creative actions such as clothing racks with stenciled clothing bearing messages about scheduling data.
+   
+   Produce a monthly newsletter about minimum wage, sick days, and policies elsewhere and telling personal stories. 
+   
+   Contact workers in stores, talk with them about the campaign, and get contact info so they can be included in online outreach
+project_measure: |-
+  WE WILL MEASURE SUCCESS QUARTERLY BY:
+   
+   The number of workers using the FWWLA app and/or Facebook and/or Twitter to connect.
+   
+   The number of workers who turn out in person or via social media or email to make their views known at hearings, press conferences, council meetings, and other events.
+   
+   The number of workers who join the coalition and participate actively.
+   
+   The number of workers who report their scheduling issues and/or their personal stories via social media or email.
+   
+   The number of workers who volunteer to participate in actions, meetings and events.
+   
+   The number of workers who use of an intake form on the app to report violations of labor laws. 
+   
+   WE WILL MEASURE SUCCESS AT THE END OF TWO YEARS BY:
+   
+   Passage of a Fair Workweek policy that includes: At least 2 weeks’ notice of schedules, no on-call scheduling, no “clopenings,” penalty for changing schedules at the last minute, and giving current employees opportunities for increased hours before hiring new part-time workers.
+   
+   Through the app, beginning discussion with workers about forming a dues-paying membership organization. 
+   
+   WE WILLMEASURE SUCCESS AT THE END OF FIVE YEARS BY:
+   
+   A steady decline in reports of violations of the Fair Workweek policy to 10/year. 
+   
+   The number of workers using the app and/or social media to connect will be 20,000.
+   
+   The number of workers registering to vote for the first time will be 5,000.
+   
+   The number of workers voting will be 50,000.
+project_five_years: |-
+  THIS ACTIVATION:
+   
+   The Fair Workweek policy is adopted and fully enforced in the city and, given the number and size of California cities that have similar policies, a statewide policy has been adopted.
+   
+   Through the use of on line organizing retail workers have:
+   
+   Connected with each other across the city and with other workers around the country.
+   
+   Learned about their rights to fair scheduling, the minimum wage, and sick days and know what to do when their rights are violated and are protected by a retail workers’ bill of rights.
+   
+   Have a shared identity and sense of connection with each other and with other retail workers around the country
+   
+   Created a space and membership body to build power, get educated, and get activated for themselves and other workers.
+   
+   A retail program at community colleges has been initiated for employed and potential workers to learn, get trained and move up in the retail industry. 
+   
+   OUR ORGANIZATION:
+   
+   Based on the experience of the Fair Workweek activation, the sponsoring organization, LAANE:
+   
+   Has expanded its community organizing and developed strategies to organize workers outside of unions.
+   
+   Has developed experience in the use of purpose-driven apps, social media, and creative tactics to engage workers and community members.
+   
+   LAANE has developed a multi-purpose app as a means of education, communication and connection within campaigns.
+   
+   Has tested techniques to engage workers and residents to vote in elections
+category_metrics:
+  - Government responsiveness to residents’ needs
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
 body_class: tangerine
 
 ---

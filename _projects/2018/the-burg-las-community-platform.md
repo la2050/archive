@@ -6,14 +6,34 @@ project_summary: >-
   The Burg is the community's platform, a digital public square that funnels
   local news and local representatives directly to the verified voters (and
   nonvoters) of Los Angeles.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Voting rates"]
-make_la_great: >-
+category: live
+organization_id: '2018118'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
+project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
+project_proposal_description: >-
+  We envision people using The Burg as the interactive, online home for their
+  community. There is one common ground all people have: we care about where we
+  live- even those who aren’t necessarily “engaged.” Nobody wants to reside in
+  an uninformed, underserved, & neglected area. People do care about their
+  community, they just don’t have the access or know-how to address issues or
+  get involved.We have so many great spaces to cultivate online communities, but
+  no online space for our actual community
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   The Burg is the community's platform, a digital public square that funnels
   local representatives and local news directly to verified voters. By building
   a Burg for each district and hosting unique features such as online town
@@ -40,10 +60,47 @@ make_la_great: >-
    
    
    We started The Burg is because of the clear need and the widespread lack of technology and innovation in this space. Simply put, there is no purpose driven platform that solves this problem.
-category: live
-organization_id: '2018118'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
-project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
+project_proposal_engage: >-
+  Local is our bread and butter, and we’re launching exclusively in LA County so
+  we can focus our resources and connections in this area. Our goal is to get
+  the layperson back involved into their communities, and as a result, local
+  politics. A key feature we have implemented is having RSS feeds refresh daily
+  to provide the latest local news specific to each area, so there will be
+  content even in the beginning. 
+   
+   
+   
+   We have a 3 pronged approach to get users. 1. We have a community organizer onboard who’s total focus is on working with advocacy/community groups in the greater LA area, and demonstrating The Burg as a tool that can catalyze their missions. We have already partnered with Rock the Vote, Represent.US, City Fabrick, & Hacker Fund, among others, and begun organizing the specifics of how we can onboard their audiences. In addition, speaking at community meetings and getting in front of the people will be huge to earn the trust of community organizers across the city and build out our network. 2. We have a long list of reps in the LA area that have become supporters of ours because of the Conference of Mayors and our public speaking. We will onboard them and have them launch Town Halls on The Burg. This is a ‘sticky’ feature and we already have a commit from the Mayor of Long Beach to host and invite his 80k listserv. 3. We will have constant content marketing that documents the latest from The Burg, including blogs, social media & podcasts to show real change is happening.
+project_measure: >-
+  Speaking broadly, we will consider The Burg a success if we can inspire a
+  renewed interest and engagement in local politics, local news, and community
+  engagement. A flourishing city is made up of informed and engaged citizens;
+  however, civic engagement at the local level is at an all-time low. In the
+  ‘60s turnout for a municipal election in Los Angeles was at 76%, compared with
+  sub 20% last election. Our major goal is to have local turnout reverse its
+  recent downward trend, and get people interested and informed about their city
+  and state elections. We used to civically engage on a very local level, and it
+  is our mission to do it again. 
+   
+   
+   
+   The LA area is one of the most economically and ethnically diverse places in the United States. Currently, those engaging in local politics and local issues are predominately the older, whiter, wealthier demographics. Our goal is to improve community engagement by targeting the populations that haven’t traditionally engaged with local issues, specifically millennials and the 27-45-year-olds from lower socioeconomic backgrounds. We see The Burg as the new online space for communities as different as Historic South Central and the Westside. For the first time an people will be connected Affordable housing project that their city councilman pushes through, will connect with that neighbor is looking to collaborate for a yard sale that runs down the whole block, and will finally get to know who the heck represents them.
+project_five_years: >-
+  In five years, we hope The Burg will be online home for their community. There
+  is one common ground all people have: we care about where we live-- even those
+  who aren’t necessarily “engaged.” Nobody wants to reside in an uninformed,
+  underserved, and neglected area. People do care about their community, they
+  just don’t have the access or know-how to address issues or get involved.
+   
+   
+   
+   Our organization's mission is to make it easier for citizens to engage with each other and with
+   
+   their local government. In five years we believe The Burg will help inspire a community renaissance and serve as the interactive Front Page of your city. We believe that if The Burg succeeds, we will see signs of higher civic engagement across the board, including voter turnout, community participation, volunteerism, trust in local government, etc. Additionally, we believe The Burg will be the home of political/opinion polling ushering in a new era of responsive government and more accurate measure of public opinion. Down the line, we see local elections being hosted on The Burg given that many local level many governments are already experimenting with online voting.
+category_metrics:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Voting rates
 body_class: lime
 
 ---

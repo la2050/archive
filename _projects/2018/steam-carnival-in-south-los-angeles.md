@@ -6,12 +6,33 @@ project_summary: >-
   Robots, fire and next-gen inventions - STEAM Carnival - a Trojan horse to
   interest kids in Science, Tech, Engineering, Art & Math careers. Young
   inventors in South Los Angeles step right up!
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Students’ immersion in Science, Technology, Engineering, and Math content"]'
-make_la_great: >-
+category: connect
+organization_id: '2018128'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
+project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
+project_proposal_description: >-
+  Our STEAM Carnival invites children to look at the world of play from the
+  perspective of their studies and future careers. We immerse the child in the
+  world of robots, lasers, and fire to excite their interests and direct them
+  into science, technology, engineering, art, and math through play. Every video
+  game the child engages with has many careers behind it. We just help them make
+  that connection.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - LAUSD
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+project_proposal_best_place: >-
   Our STEAM Carnival opens the door to students understanding that the games
   they play every day are filled by a variety of careers. Coders, narrative
   writers, musicians, and film-makers all take part in the creation. We engage
@@ -25,11 +46,56 @@ make_la_great: >-
    Most of the children in school today, (65% according to government statistics) will work in jobs that don't yet exist. The only way to prepare them for those jobs is to make sure they can think their way out of a problem, have confidence that they can solve those problems, and in this way, build their self-image as creative problem solvers ready to take on whatever is thrown their way.
    
    Every child who attends the STEAM Carnival will leave with an understanding of their future potential through the act of play.
-category: connect
-organization_id: '2018128'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
-project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
+project_proposal_engage: >-
+  2BCF works with PreK-12 students (ages 5 — 18), primarily, but not exclusively
+  from Title I schools, where at least 50% of its students qualify for free or
+  reduced meals. Indeed, most of our schools are between 75% and 100% ethnically
+  diverse, low/moderate income. Title I schools and teachers remain chronically
+  under-funded and under-resourced in materials that are needed for Project
+  Based Learning with few support groups to fill the gap. Overall, 2BCF’s
+  students are 10% African American, 74% Hispanic, 1% American Indian, 6% Asian,
+  and 9% Caucasian. 2BCF delivers its STEAM resources (affordable recycled
+  materials, tools, sample curriculum) directly into the schools we service via
+  special assemblies, Resource Carts, and, most importantly, STEAM Labs and
+  STEAM Carnivals. The LAUSD District South leadership is committed to building
+  their schools into STEAM campuses and we have partnered wtih them to
+  accomplish this goal
+project_measure: >-
+  We have created pre-then-post surveys for the STEAM Labs and would use a
+  similar survey for the STEAM Carnival. 
+   
+   It is our hope that students will become less fearful of the STEAM disciplines by first experiencing them through artistic expression. It is hoped that these exercises will translate into greater confidence and, ultimately, improved performance on standardized tests.
+   
+   STEAM Labs have been enormously well received by school personnel, credited with improving student engagement. Our evidence for this is from those pre-then-post surveys in which we asked the following two questions and received these responses:
+   
+   What I learn in science class doesn't have much to do with the real world.
+   
+   Pre - 58% Strongly agree
+   
+   Post - 15% Strongly agree
+   
+   
+   
+   I believe I am going to fail science this year.
+   
+   Pre - 52% Strongly agree
+   
+   Post - 10% Strongly agree
+   
+   
+   
+   We would be using this survey to inform our own work and make it available through open-source sharing platforms.
+   
+   
+   
+   Educators we work with credit the STEAM Lab with increasing their students' interest in practical research as an avenue into STEAM principles, as one principal described: “Students created marble runs, musical instruments, trebuchets, and catapults while exploring potential vs. kinetic energy and inertia. Students moved forward in creating simple machines and experimenting with magnets. At the end of the year the students worked together to meet the Rube Goldberg Challenge, creating an invention that pops a balloon.”
+project_five_years: >-
+  In five years our organization will be offering STEAM Carnivals in partnership
+  with schools, school districts and communities both underserved (where we will
+  raise the money) and affluent communities where ticket prices are able to
+  cover the cost.
+category_metrics:
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 body_class: tangerine
 
 ---

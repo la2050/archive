@@ -6,12 +6,24 @@ project_summary: >-
   GALA paves the road for high school girls to engage in project based learning
   and real world problem solving while supporting them as they become the
   leaders and innovators in STEM fields of tomorrow.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Students’ immersion in Science, Technology, Engineering, and Math content"]'
-make_la_great: >-
+category: learn
+organization_id: '2018045'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
+project_video: 'https://youtu.be/PTteThgae3o'
+project_proposal_description: >-
+  GALA’s mission is to provide its diverse community of young women with an
+  excellent STEM education that prepares them for success in both university
+  studies and their careers. GALA seeks to launch a project based Medical
+  Intervention and Biomedical Innovation program that teaches techniques and
+  skills that will help young ladies become leaders and innovators with 21st
+  Century skills.
+project_areas:
+  - LAUSD
+project_proposal_mobilize:
+  - create resource for non-profits
+project_proposal_best_place: >-
   Across Los Angeles, young women, particularly women of color are
   underrepresented in math, science, and technology. Girls typically are not
   found in high level math and science classes, having been discouraged early on
@@ -52,11 +64,43 @@ make_la_great: >-
   of young women with an excellent STEM education that prepares them for success
   in both university studies and their careers. The Launch Her Future biomedical
   technology project will do just that.
-category: learn
-organization_id: '2018045'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
-project_video: 'https://youtu.be/PTteThgae3o'
+project_proposal_engage: >-
+  GALA hopes to engage Angeleonos by sharing their work around the projects they
+  develop and eventually influencing citizens to live healthier. The communities
+  affected by the activation is GALA’s school community at first. Then,
+  depending on the research, the project also seeks to eventually engage Los
+  Angelinos in general through the formation of an app used by non-profit
+  organizations.
+
+   Strategies/tactics: learning the curriculum and resources, developing a grade level integrated curriculum project for 11th and 8th grade, technology integration, research, partnership with UCLA and USC medical schools, incorporation of 21st Century skills, as well as incorporation of Next Generation Science Standards.
+project_measure: >-
+  GALA offers students a rigorous college preparatory curriculum in all grades,
+  and the opportunity to earn college credit through Advanced Placement Testing
+  beginning in ninth grade, with the goal of increasing the number and diversity
+  of women in Los Angeles opting for careers in STEM fields. The immediate
+  measurement of success will be incorporating a biomedical strand to our STEM
+  curriculum, building interest in the medical field and encouraging leadership
+  through a project based integrated curriculum focusing in the biomedical
+  sciences. Currently, our 9th grade girls are researching STEM based medical
+  professions and completing a project predicting what the future women will
+  look, act and evolve into. A measure of success we anticipate is increasing
+  the interest in STEM fields and supporting more young women in pursuing their
+  dreams of becoming doctor, medical investigators, and innovators in the
+  medical field. The long term measurement of success will come in 2020, when we
+  graduate our first class and all young women are accepted into a four-year
+  universities. GALA students will learn the techniques the students in college
+  are already learning. They will be that far ahead by combining their
+  technological knowledge and understanding of medical issues to become the
+  future leaders finding solutions to public health issues.
+project_five_years: >-
+  In five years our school will have experienced our first two graduating
+  classes. In those five years, the activation of Launch her Future will have
+  such a huge impact on the exposure these girls are getting to project based
+  learning experiences in the STEM field, that more young women will go into
+  four year colleges and prestigious universities where women are
+  underrepresented STEM fields, finish and become the innovators of tomorrow.
+category_metrics:
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 body_class: blueberry
 
 ---

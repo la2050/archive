@@ -5,14 +5,32 @@ title: Activating Tech Talent in LA
 project_summary: >-
   DataU is helping Los Angelenos get the tech skills they need to get high
   paying jobs!
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["College matriculation rates","Students’ immersion in Science, Technology,
   Engineering, and Math content","Youth unemployment and underemployment"]
-make_la_great: >-
+category: learn
+organization_id: '2018033'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
+project_video: ''
+project_proposal_description: >-
+  We are looking to launch "Grow with Google" programs with all local Los
+  Angeles community colleges.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+project_proposal_best_place: >-
   We are looking to impact LA area community college students to learn key tech
   skills through Grow with Google (https://grow.google/) that will help them get
   better, higher paying jobs without having to wait for curriculum to be updated
@@ -93,10 +111,33 @@ make_la_great: >-
    FRESHSTART BOOTCAMP CAREER TRAINING TRACKS
 
    We created a career track training curriculum to rapid prototype working professionals changing careers by offering specialized training for product management, data analysis, big data and other important skills for entry level jobs in tech. See our past events at http://bit.ly/freshstart-events.
-category: learn
-organization_id: '2018033'
-project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
-project_video: ''
+project_proposal_engage: >-
+  We will coordinate with student organizations, community college counselors,
+  employment centers and administrations of all major community colleges in Los
+  Angeles county. We have extensive experience in recruiting online and signing
+  up students both to online and in-person classes through Los Angeles county.
+  We have served an estimated 10,000 students and adults over a two-year period.
+project_measure: |-
+  We will measure our success by three key metrics:
+
+
+
+   1. Enrollments
+
+   2. Completions
+
+   3. Referrals to social and educations services (for those who are not able to complete the courses)
+
+
+
+   Our goal is to surface and identify all key issues for the city and county of Los Angeles to understand the true and tangible barriers to gaining tech skills in the young adult population, specifically those who are enrolled at community colleges.
+project_five_years: >-
+  We hope to serve at least 200 community college students per college in the
+  next five years. We expect to start with 30 students this year.
+category_metrics:
+  - College matriculation rates
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+  - Youth unemployment and underemployment
 body_class: blueberry
 
 ---

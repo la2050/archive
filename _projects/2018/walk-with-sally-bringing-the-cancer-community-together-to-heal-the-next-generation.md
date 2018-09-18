@@ -8,15 +8,32 @@ project_summary: >-
   Walk With Sally aims to engage the cancer community and community at large
   throughout the city to ensure that no child walks alone in the face of a loved
   one's cancer.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Adults getting sufficient social & emotional support","Rates of
   volunteerism","Total number of local social media friends and connections
   Angelenos have"]
-make_la_great: >-
+category: live
+organization_id: '2018135'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
+project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
+project_proposal_description: >-
+  Our goal is to activate 200 new volunteers throughout this cancer community
+  and beyond that will help support every child facing the trauma of a parent,
+  guardian or sibling’s cancer journey in whatever stage their journey with one
+  on one mentoring over the course of their school life and create a circle of
+  community around not only each child but each child within a family and
+  ultimately around every family facing this crisis today, tomorrow and until we
+  eradicate it all together.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   Walk With Sally is LA’s premier voice on connecting volunteers to the most
   impactful opportunities as well as to each other.
    
@@ -47,11 +64,39 @@ make_la_great: >-
    
    
    And lastly, we will hire a 5th Program Coordinator to work remotely and along side our current Program Dept. in order to expand these as well as our mentoring program throughout DTLA, East LA, The Valley, Pasadena and beyond
-category: live
-organization_id: '2018135'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
-project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
+project_proposal_engage: >-
+  Within the FTK Social Club, WWS intends to engage young professionals within a
+  multifaceted array of other networking events. WWS will use the same bylaws
+  and board structure to create the FTK Social Club North Branch. This will
+  engage adults 25 - 40 to think about civic engagement and what it can look
+  like. We will thereby connect hundreds of like minded young citizens
+  throughout the city.
+   
+   
+   
+   Through our Junior Mentor program we will be engaging youth between the ages of 14-17 impacted by a parent, guardian or sibling's cancer not only through their own one on one mentoring but also through a series of volunteer activities. In addition, we will be exposing them to opportunities, bonding them closer to each other, and training them to be leaders within our city.
+   
+   
+   
+   And finally through new recruitment avenues and a healthy engagement system we will be connecting volunteers of all ages and paths of life with each other and with the children who need them, in every corner of LA!
+project_measure: |-
+  We will define success through the following:
+   
+   
+   
+   1. Recruitment of 50 FTK North Branch members and 4 consecutive FTK events
+   
+   2. Matching 100 new Friendships, a match of one child between the ages of 7 -17 and one adult who has experienced the trauma of cancer within the areas outlined.
+   
+   3. Recruitment and Maintenance of 100 new WWS Ambassadors within our database for all outreach and fundraising events.
+project_five_years: >-
+  Walk With Sally hopes to be actively engaging and supporting the entire cancer
+  community within Los Angeles and have the blueprint to open regional offices
+  in San Diego and/or San Francisco
+category_metrics:
+  - Adults getting sufficient social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 body_class: lime
 
 ---

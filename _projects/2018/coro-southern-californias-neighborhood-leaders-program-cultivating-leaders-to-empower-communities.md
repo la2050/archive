@@ -8,14 +8,32 @@ project_summary: >-
   Coro’s Neighborhood Leaders Program (NLP) trains emerging leaders from South
   LA in civic leadership and public affairs, preparing them to enact meaningful
   change within their communities.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism"]
-make_la_great: >-
+category: connect
+organization_id: '2018031'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
+project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
+project_proposal_description: >-
+  Coro’s Neighborhood Leaders Program (NLP) is a nine-month, part-time program
+  that provides a cohort of 25 emerging leaders from South LA with leadership
+  training to solve complex challenges in their community, effectuate lasting
+  change, and activate thousands of other community members to do the same. NLP
+  cultivates South LA leaders through a cross-sectoral skill-building immersion,
+  equipping participants with the skills, knowledge, and networks to enact
+  impactful change in their communities.
+project_areas:
+  - South LA
+project_proposal_mobilize:
+  - Advocate for policy
+  - Trainings and/or in-person engagements
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   Coro’s mission is to strengthen the democratic process by preparing emerging
   leaders for effective and ethical leadership in public affairs. For over 60
   years, Coro Southern California has used the city as its classroom to teach
@@ -47,11 +65,76 @@ make_la_great: >-
    
    
    NLP’s core goal is to connect community leaders in South LA to each other and to the civic network in the region. Through this cohort-based, experiential learning, participants will not only be more inclined to run for Neighborhood Council seats, engage their elected officials to respond to their needs, and increase the rate of volunteerism; they will have the skills to activate and guide thousands more to do the same.
-category: connect
-organization_id: '2018031'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
-project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
+project_proposal_engage: >-
+  NLP will help current and emerging local community leaders from underserved
+  communities in South LA to develop stronger civic leadership skills that
+  enable them to be more effective leaders within their communities and our
+  city. Through Coro’s proven methodology of cross-sectoral, inquiry-based,
+  experiential learning, participants are given the skills, resolve, and
+  networks to champion meaningful change in South LA and activate thousands of
+  other community members to do the same. Participants will be those who reside
+  and/or work in South LA, age 18 or older, who currently volunteer to support
+  an organization or institution within their community. Examples include school
+  PTAs, faith-based organizations, neighborhood councils, or local non-profits. 
+   
+   
+   
+   NLP will involve leadership development seminars each month exploring topics such as community asset mapping, effective inquiry, and reflective practice. Seminars will be coupled with one-day issue explorations each month: a deep dive inquiry-based investigation into the challenges most prevalent in South LA. These Issue Days will involve interviews with leaders across sectors to provide participants with multiple point of views to analyze. At the program’s conclusion, each participant will launch a community change project to use their newfound leadership skills, frameworks, and connections to bring concrete improvements to their community.
+project_measure: >-
+  By participating in NLP, South LA neighborhood leaders will:
+
+
+
+
+  *Examine challenges facing their South LA communities;
+
+
+  *Employ Coro methodology of inquiry and reflection through interviews with
+  leaders in the community and group debriefs, giving participants invaluable
+  insight on what it takes to be a leader in the region;
+
+
+  *Expand leadership capacity through exposure to Coro’s leadership tools and
+  frameworks;
+
+
+  *Build and bridge social capital through group learning processes and team
+  management towards common purposes;
+
+
+  *Demonstrate project management skills through the development of a community
+  change project;
+
+
+  *Build and expand social capital by deepening their networks across the
+  region.
+
+
+
+  Success for the program will be measured in a variety of ways. The first is
+  through pre-program participant surveys assessing: 1) prior access to
+  leadership development; 2) prior access to hard skill development; and 3)
+  proficiency in various skills, including presentations, project management,
+  written communication, team management, and understanding of leadership
+  frameworks. Post-program surveys will collect self-reported proficiencies in
+  these skills as a result of participation in NLP. Coro will also measure the
+  impact of participants’ community change projects by assessing how many people
+  have been or will be affected by the project, and will evaluate qualitative
+  data from participants and partner organizations on the impact both felt and
+  observed as a result of NLP participation.
+project_five_years: >-
+  In 5 years, Coro will have trained approximately 125 community leaders in
+  South LA who are continuing to implement their Community Change Projects in
+  their neighborhoods and communities. Armed with Coro’s proven tools and wide
+  network, NLP participants will have the ability to effectively activate and
+  engage the residents of South LA, creating concrete, lasting impacts that will
+  continue to strengthen and revitalize the region. Additionally, NLP will be
+  positioned to launch in other communities in Los Angeles, allowing Coro to
+  expand its impact and reach in Southern California.
+category_metrics:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
 body_class: tangerine
 
 ---

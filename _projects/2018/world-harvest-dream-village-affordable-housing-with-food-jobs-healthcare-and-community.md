@@ -7,12 +7,33 @@ title: >-
 project_summary: >-
   It’s the dream we all dream of: A village in the city where you can live,
   work, eat, learn, play, heal, connect, and create.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Access to healthy food","Healthcare access","Housing affordability"]'
-make_la_great: >-
+category: live
+organization_id: '2018139'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
+project_video: 'https://youtu.be/Jtc3hudRjRA'
+project_proposal_description: >-
+  World Harvest is designing a 100-unit affordable housing complex that includes
+  a grocery store style food bank, restaurants, jobs and job training, a health
+  clinic, a credit union, a community garden, artists-in-residence, free bikes
+  and Wi-Fi, a maker space, a small business incubator, and more. This model can
+  be replicated across L.A. County and beyond. We will create project
+  replication materials to help build affordable housing dream villages in every
+  community.
+project_areas:
+  - Central LA
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   We all dream of living the village life, but we love our big city, too. The
   World Harvest Dream Village is a place where you can have it all: Affordable
   housing, groceries and restaurants, healthcare on site, jobs and job training,
@@ -40,11 +61,52 @@ make_la_great: >-
    
    
    Now is the time to make affordable dream villages a reality. The World Harvest Dream Village is more than a housing project; we’re building a community. Join us in building a road out of homelessness and hunger to a better future for Los Angeles.
-category: live
-organization_id: '2018139'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
-project_video: 'https://youtu.be/Jtc3hudRjRA'
+project_proposal_engage: >-
+  Our activation will mobilize Angelenos to make LA the best place to LIVE
+  through digital organizing and activism, trainings and in-person engagements,
+  opportunities and motive for businesses to change their practices, increasing
+  food waste diversion at the individual level, and impactful volunteer
+  opportunities. 
+   
+   
+   
+   We will activate Angelenos around planning the World Harvest Dream Village including our immediate neighbors, the 50,000 families we serve, clients of our project partners, and LA2050 citizen activists. Tools include email newsletters, press releases, robocalls, texts, and social media viral videos that invite Angelenos to community events, planning meetings, trainings, focus groups, and future resident meetings. Our team uses Facebook, Instagram, Twitter, and Snapchat to reach a wide audience. Events include surveys to inform planning for the dream village and to identify future residents. Trainings and focus groups will address volunteer opportunities, participatory budgeting, small business development, maker spaces, and other topics informing the public about elements of the Dream Village and eliciting feedback. Community events will include focus groups, planning meetings, surveys, food giveaways, health screenings, and fun family activities. We will invite our corporate food donors to design their own food waste diversion kiosks for placement in the new Dream Village social supermarket, increasing awareness and encouraging corporate responsibility.
+project_measure: >-
+  A successful activation engages 5,000+ Angelenos in the World Harvest effort
+  to make LA the best place to LIVE. We’ll invite our neighbors to share our
+  vision to end homelessness and hunger and help design L.A.’s first Dream
+  Village. Success measures include collected feedback and data to inform the
+  village design. Other measures include events (participant demographics, and
+  food and services received, e.g., training and health screenings),
+  volunteerism and social media activism by activated Angelenos (event & viral
+  video shares), and surveys collecting self-reported changes in consumer
+  behavior re: preventing food waste. Success measures also include diversity
+  among participants. We will track diversity demographics for in-person
+  activations. Equity in planning our Dream Village includes diversity among
+  planning participants that reflects neighborhood demographics. 
+   
+   
+   
+   We anticipate planning eight quarterly community events over the course of two years, sending press releases to our media list, monthly newsletters to our 2,000 subscribers, doubling the subscriber base, sending weekly robocall/text updates to our list of 50,000, posting daily on Instagram, Twitter, and Facebook, and Snapchat. This is a team effort that will be a continuation from the campaign to win the most votes for the LA2050 Activation Challenge; we will continue to use our team assignment tree to divide the labor of social media outreach among six staff members, with additional support from two new staff.
+project_five_years: >-
+  In five years, we hope to have activated 5,000 Los Angeles residents to share
+  about this project on social media, participate in trainings, focus groups,
+  and planning sessions, volunteer with us, and change their consumer habits to
+  include diverted waste food from our social supermarket. We hope to have a
+  complete World Harvest Dream Village project plan at the end of two years
+  including agency partnerships and timeline. In five years, we hope to have
+  identified a site, raised grant funds and secured funding partners, and
+  completed the permitting process. Ideally, in five years, the Dream Village
+  will be under construction. We will continue to activate the 5,000 Los Angeles
+  residents activated through this process. 
+   
+   
+   
+   In five years, we hope to have established World Harvest as a thought leader in ending homelessness and hunger. We hope to see the all-inclusive, wraparound service, authentic community village model become the norm rather than the exception in Los Angeles. Once the project plan is complete, we will work with the residents we have activated to identify organizations and neighborhoods that will replicate the Dream Village, personalizing the model for the individual needs of each neighborhood.
+category_metrics:
+  - Access to healthy food
+  - Healthcare access
+  - Housing affordability
 body_class: lime
 
 ---

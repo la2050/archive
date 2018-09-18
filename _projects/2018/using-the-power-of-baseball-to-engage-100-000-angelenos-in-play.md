@@ -9,15 +9,36 @@ project_summary: >-
    fans, will activate LA to get more kids, families, and communities active and
    
    energized to PLAY!
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Number of children enrolled in afterschool programs","Number of parks with
   intergenerational play opportunities","Number of residents with easy access to
   a “vibrant” park"]
-make_la_great: >-
+category: play
+organization_id: '2018074'
+project_image: >-
+  https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
+project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
+project_proposal_description: >-
+  Through Dodgers Dreamfields, we create vibrant spaces for communities to play
+  and provide ample opportunities for community involvement at these sites,
+  through the Dodgers RBI program, fitness clinics, baseball/softball skills
+  clinics, mini-festivals and more! We are confident that we will reach over
+  15,000 kids each year, along with their families, across 55 Dreamfields in the
+  LA area by 2020! With the help of sponsors, partners and volunteers, we will
+  activate 100,000 Angelenos to play in LA!
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   We promote play to a level that will increase the number of residents that
   access a vibrant park, increase enrollment of kids in after-school programs,
   and increase opportunities for inter-generational play in LA.
@@ -37,11 +58,56 @@ make_la_great: >-
    
    
    Lastly, we engage over 3 million Dodger fans each season to support play and donate to our cause. At Dodger games, we interact with fans to enhance awareness of our mission and to get them activated for play in LA through individual giving opportunities.
-category: play
-organization_id: '2018074'
-project_image: >-
-  https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg
-project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
+project_proposal_engage: >-
+  Within our Dreamfields and RBI programs, we engage youth, families and
+  communities that are underserved and under-resourced. Our focus is on
+  communities with low median household incomes and high poverty levels
+  (compared to California) which demonstrates economic need. The ethnic/racial
+  demographic make-up of the area is also evaluated to ensure diversity and
+  inclusion in our programming. With these measures, we strategically identify
+  underserved and diverse communities that could benefit from Dreamfields and
+  RBI.
+   
+   
+   
+   We promote Dreamfields and RBI programs to these communities through use of our social media accounts, which reaches over 35,000 followers. Dodgers baseball branding is also placed on program uniforms, equipment, promotional materials, scoreboards and banners, to engage the community and appeal to the Dodger fan in everyone. We are able to further promote this activation to Dodger fans by marketing it through Dodger events, flyers, videos, in-game announcements and merchandise. Events that we will market are: RBI festivals, fitness clinics, skills clinics, Dreamfields dedications, community service days, volunteer and donation opportunities. With such a prolific brand, we are able to elevate our programs and social media presence to activate the community for play.
+   
+   
+   
+   To make this activation a success, we will also encourage community partners, sponsors, volunteers, and organizations to promote these events, so as to serve as activators for play.
+project_measure: >-
+  We administer a comprehensive evaluation system for Dreamfields and RBI, which
+  allows us to better understand participants, program elements, and community
+  needs. We will conduct surveys, focus groups, and interviews with program
+  participants, partners, volunteers, and community members to evaluate this
+  activation.
+   
+   
+   
+   We will measure success in after-school enrollment by observing increase attendance in RBI, community events, fitness clinics, skills clinics, trainings and workshops. We will measure access to vibrant park by observing positive trends in park attendance, surrounding neighborhood, park safety, park atmosphere, park usage, park activities through recreation center, community service, sports program recruitment, and field maintenance. We will measure success in inter-generational opportunities for play with positive trends in coaches attendance at training, coaches certified in coaching, attitude towards coaches and adults in program, satisfaction of program among coaches and parents, and parental involvement. Success with Angeleno engagement will be observed by increase in individual donations from in-stadium fundraising, corporate and community volunteerism, and use of LeagueApps. Positive attitudes and satisfaction from program supporters will also be evaluated as a metric of engagement. 
+   
+   
+   
+   Current Dreamfields and RBI data indicates positive trends within all these measures, giving us the confidence to continue this success throughout our activation.
+project_five_years: >-
+  This activation award will be the catalyst that propels our work forward and
+  increases our ability to bring play to all underserved communities in Los
+  Angeles by 2023. With the help from LA2050, county and city officials,
+  community partners, organizations, and families, we set our sights on serving
+  over 50,000 kids each year and their families through Dodgers Dreamfields and
+  Dodgers RBI.
+   
+   
+   
+   With this award, we will change the landscape of Los Angeles for play and activate a community effort that is dedicated to fostering, building, and promoting infrastructure, as well as opportunities for play in Los Angeles. Within the next five years, we hope to not only get 100,000 Angelenos involved in play, but to remain committed to play initiatives in their community, by supporting the play movement of the future. 
+   
+   
+   
+   Our programs are truly bigger than baseball, and with the support of dedicated collaborators and community partners, we will promote PLAY in LA, for years to come!
+category_metrics:
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
 body_class: strawberry
 
 ---

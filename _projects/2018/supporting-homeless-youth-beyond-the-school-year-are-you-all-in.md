@@ -6,14 +6,32 @@ project_summary: >-
   All-In Urban Summer Academy keeps Compton and Venice youth on track for the
   school year by providing academic and social enrichment, as well as mitigating
   traumas associated with homelessness.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Suspension and expulsion rates"]
-make_la_great: >-
+category: learn
+organization_id: '2018006'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
+project_video: ''
+project_proposal_description: >-
+  After serving a homeless family in our inaugural summer we were introduced to
+  the growing crisis that affects 63,000 Los Angeles youth. A new partnership
+  with School on Wheels and Shields for Families Inc. is the perfect merge to
+  have targeted academic and social intervention that mitigates traumas and
+  supports youth affected by homelessness. This activation will secure our
+  traditional summer camp and initiate our Jr. Counselor program to provide
+  service opportunities for 9th-12th graders.
+project_areas:
+  - South LA
+  - Westside
+project_proposal_mobilize:
+  - Advocate for policy
+  - Trainings and/or in-person engagements
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+  - Staying Connected to major policy and social issues affecting youth
+project_proposal_best_place: >-
   During the summer months, students not enrolled in an academically enriching
   summer program can lose up to 80% of the knowledge from the previous school
   year. This phenomenon, known as the summer slide, is more likely in
@@ -30,11 +48,28 @@ make_la_great: >-
   student progress (Using School on Wheels data from the school year), we will
   be able to track the success of students who have the support of All-In and
   SOW!
-category: learn
-organization_id: '2018006'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
-project_video: ''
+project_proposal_engage: >-
+  Our approach offers an innovative way to learn, to get non educators engaged
+  by sharing their time, skills, and support to youth. We keep students engaged
+  by meeting their specific needs, and supplementing with social enrichment that
+  will foster homeless youth's curiosity beyond the reality they face.
+project_measure: |-
+  The following will be measured:
+
+   Student attendance
+
+   Intake Assessment
+
+   End of Summer Assessment
+
+   Weekly Assignments/Progress Reports
+project_five_years: >-
+  In five years, I hope that All-In will be able to partner with the other SOW
+  and SHIELDS sites to provide access to more Angelenos!
+category_metrics:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
 body_class: blueberry
 
 ---

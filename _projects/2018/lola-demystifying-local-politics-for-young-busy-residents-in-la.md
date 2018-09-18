@@ -6,12 +6,38 @@ project_summary: >-
   LA politics is dry, boring, and confusing AF, but it doesn’t have to be. LOLA
   empowers young residents by explaining local issues and elections in a
   concise, nonpartisan way.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Rates of volunteerism","Voting rates"]'
-make_la_great: >-
+category: connect
+organization_id: '2018069'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
+project_video: ''
+project_proposal_description: >-
+  Many young Los Angelenos are disengaged in local elections, and they’re not
+  alone. In LA’s 2017 mayoral race, only 12 percent of registered voters cast a
+  ballot. 
+   
+   
+   
+   In the midst of an important midterm election year, LOLA will create a nonpartisan digital platform where young, busy people can learn, discuss ideas, and help tackle some of LA’s stickiest issues. Our goal is to support community projects and double the number of young voters participating in local elections by 2020.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   Would the average Los Angeles resident be able to explain the role of an LA
   superior court judge or county assessor? Unfortunately, the answer is probably
   not. It’s not surprising that civic participation and voter turnout is low.
@@ -24,11 +50,38 @@ make_la_great: >-
    
    
    Beyond local election coverage, LOLA will have ways for residents to discover people and organizations tackling important issues like homelessness, housing, and public transit. There are hundreds of incredible local initiatives seeking support and volunteers. LOLA will be the place where people can learn about their work and sign up to help. We believe collaborations create communities. Similar to our local political information, we’ll apply human-centered design to design a place that makes it easy for people to trust, discover, and get involved in local projects.
-category: connect
-organization_id: '2018069'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
-project_video: ''
+project_proposal_engage: >-
+  A 2015 Knight Foundation study found that 88% of millennials consume news
+  through Facebook. Today, that number has only grown as more young people rely
+  on social media platforms as their primary source of news. This is a massive
+  challenge when it comes to local politics and election information. While
+  down-ballot resources are available, local politics isn’t optimized for mobile
+  consumption and social media sharing. Instead, election coverage is often
+  boring and riddled with political jargon and biased opinions. 
+   
+   
+   
+   By creating concise, easy-to-understand, nonpartisan summaries of candidates, elected offices, and local issues, LOLA will activate young Los Angelenos so they can re-engage in local issues and their communities. Our goal is to reach young, busy Los Angelenos of all socioeconomic backgrounds, and we plan to translate LOLA into other languages like Spanish and Mandarin.
+project_measure: >-
+  At LOLA, our definition of success is to make residents feel empowered and
+  engaged in their local communities. We’ll measure success in three ways: 
+   
+   How many voters between the ages of 18-34 participate in local elections and how does that compare to previous midterm election years
+   
+   How many people return to LOLA to learn about local issues
+   
+   How many local projects successfully find collaborators and volunteers
+   
+   
+   
+   Rather than track the number of impressions or social media shares, it’s important for us to build a lasting relationship with Los Angelenos. Measuring impact, trust, and loyalty, respectively, are essential benchmarks for LOLA.
+project_five_years: >-
+  By 2023, we hope LOLA will be the go-to digital platform where LA residents,
+  organizations, and businesses learn about local issues, discuss new ideas, and
+  collaborate on community projects.
+category_metrics:
+  - Rates of volunteerism
+  - Voting rates
 body_class: tangerine
 
 ---

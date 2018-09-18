@@ -8,15 +8,41 @@ project_summary: >-
   Larchmont Social Justice Alliance allows youth to speak up for social justice
   through our poetry slam competition, Larchmont Charter School's literary
   magazine, and a firestorm of social media.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Attendance at cultural events","Government responsiveness to residents’
   needs","Total number of local social media friends and connections Angelenos
   have"]
-make_la_great: >-
+category: connect
+organization_id: '2018064'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
+project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
+project_proposal_description: >-
+  We will launch a way for ALL KIDS in Los Angeles to join a movement for social
+  justice. We live in an unequal society and we see it on our streets every day.
+  We walk over homeless people to get to school. We know too many of our
+  classmates are hungry. As a group, we can change the forces that keep
+  low-income students trapped in poverty and activate citizens for life. We, the
+  kids, will build up our community, and Larchmont Social Justice Youth Alliance
+  will collect our voices and set them free.
+project_areas:
+  - Central LA
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+  - LAUSD
+  - youth
+project_proposal_mobilize:
+  - Advocate for policy
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+  - designed to activate youth
+project_proposal_best_place: >-
   As the world has seen, high school students in Parkland, Florida, have made
   their community, and the world, a better place. Florida is notoriously
   gun-friendly place, yet the students were able to lead common-sense gun law
@@ -47,11 +73,46 @@ make_la_great: >-
   us, and what impact we have in the community through social media analytics
   and surveys. We are happy to join the initiatives of My LA2050 to drive a
   strong, united, youth-driven message for social justice.
-category: connect
-organization_id: '2018064'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
-project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
+project_proposal_engage: >-
+  Our activation will require strategic effort to make student voices for social
+  change heard. We plan to make use of our talented faculty, and this grant will
+  allow us to deploy the brain power and leadership of our educators in service
+  of the student voice. Our budget includes funds to pay our selected faculty to
+  help student leaders strategize effective social change. This will include 1.)
+  prioritizing top issues around which to rally, with relevant research
+  (including student-led research) on what bills and local initiatives need
+  ballot support or protest; we are interested in gathering youth around the
+  common cause of social change and the action required to make it; timelines
+  for activation need to be built; with student leaders, we will define goals
+  and build a media strategy to achieve them; we will use strategic social media
+  (Facebook, Twitter, LinkedIn, Snapchat, etc.) to promote our events, rallies,
+  partnerships with other youth groups, issues, literary interpretations of
+  events, and historical and political context for our initiatives. We will also
+  build a sense of unity with tee shirts and field trips that include students
+  from all over the city. We will use flyers, video, social media, and publicity
+  to support the student voices.
+project_measure: >-
+  We will document how many students compose the founding membership of
+  Larchmont Social Justice Alliance. We will then measure how many people join
+  our initiatives, attend our events, see our social media impressions, and
+  engage with our interpretations of our challenges (via spoken word
+  performances and competitions, comments on essays or literary postings via
+  Medium, Facebook, and other social channels) and the issues we plan to effect.
+  We will use surveys and social media engagement to determine specifically
+  whether our efforts affect change. We will also measure how many students and
+  youth become connected with other My LA2050 initiatives as a result of our
+  campaigns and output. Our faculty will also evaluate and support the literary
+  and artistic value of the work produced.
+project_five_years: >-
+  In five years, all of our high school students will be able to vote. We
+  anticipate that over 90% of them will be enrolled in college, where they can
+  continue their social justice work. 600 students, plus their extended families
+  and the other students they influence, can be part of a leadership movement
+  for social justice stemming from the very heart of Los Angeles.
+category_metrics:
+  - Attendance at cultural events
+  - Government responsiveness to residents’ needs
+  - Total number of local social media friends and connections Angelenos have
 body_class: tangerine
 
 ---

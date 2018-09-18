@@ -6,15 +6,32 @@ project_summary: >-
   This project focuses on erasing the Digital Divide in Los Angeles' underserved
   communities. The project will provide education about the importance of
   engaging online and how to do so safely.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Enrollment in early care and education programs","Students’ immersion in
   Science, Technology, Engineering, and Math content","Youth unemployment and
   underemployment"]
-make_la_great: >-
+category: learn
+organization_id: '2018025'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
+project_video: 'https://youtu.be/5eE1kF4xL2U'
+project_proposal_description: >-
+  ITA seeks to continue Digital Literacy education efforts in South Los Angeles,
+  an area impacted by lack of broadband access. The funding will support
+  community programming to provide valuable information about online City
+  services, educational and job opportunities, health and business services,
+  etc. The education will be designed to ‘meet people where they are’, with
+  respect to how they are currently using technology to gain online access.
+project_areas:
+  - South LA
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+project_proposal_best_place: >-
   Technology has changed the way we live and interact with each other and how we
   access services that aid our daily living. Not having online access to
   services or understanding how to participate in an online/always connected
@@ -39,11 +56,34 @@ make_la_great: >-
    
    
    The pace of technological changes is fast, this project will make sure no Angeleno is left behind and that they are prepared to actively participate in a mobile, digital economy.
-category: learn
-organization_id: '2018025'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
-project_video: 'https://youtu.be/5eE1kF4xL2U'
+project_proposal_engage: >-
+  With the knowledge and tools to participate in the Digital economy, Angelenos
+  who were previously were under-connected can now lend their voice in many ways
+  to make a difference in their communities. They will have access to
+  information, as well as have the skills to advocate for change via online
+  medium. They will also be able to influence the behavior of those around them,
+  removing doubt, fear and lack of trust about participating in digital life,
+  replacing it with discussions of hope and opportunity around community
+  engagement, educational and job advancement, healthcare access and overall
+  engagement within the City of Angels.
+project_measure: |-
+  Outreach to 1000+ Angelenos with Digital Literacy programming
+   
+   
+   
+   Increased technology adoption
+project_five_years: >-
+  It is the hope that this activation will erase the Digital Divide in South Los
+  Angeles by 50%. Also that families will be able to comfortably use technology
+  to engage online together to manage household needs, access educational and
+  job opportunities, as well as connect with families members near and far. It
+  is our hope that through this educational program, we’ll see a decrease in
+  joblessness, an increase in educational attainment, as well as increase in
+  community economic development.
+category_metrics:
+  - Enrollment in early care and education programs
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+  - Youth unemployment and underemployment
 body_class: blueberry
 
 ---

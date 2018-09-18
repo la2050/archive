@@ -8,14 +8,38 @@ project_summary: >-
   High School for Recording Arts (20 years) is teaming up with Mentoring
   Adolescents for Personal & Professional Success (MAPPS), a choice-based human
   development program leading youth to productivity
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["District-wide graduation rates","Suspension and expulsion rates","Youth
   unemployment and underemployment"]
-make_la_great: >-
+category: learn
+organization_id: '2018082'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
+project_video: 'https://youtu.be/hVF2r_6Q-Vw'
+project_proposal_description: >-
+  HSRA has selected the MAPPS leadership team as their replication partner in
+  Los Angeles. As part of that effort, we hope to launch our HSRA/MAPPS school
+  program in July 2018. We will recruit 40 -100 under-served teens in the first
+  year. Community partners such as Dignity Health,YWCAGLA, as well as other
+  government programs such as California Conservation Corps have expressed
+  interest in a similar collaboration to improve their services.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   High School for Recording Arts is looking to replicate their highly successful
   model (20 years in St. Paul,MN) in downtown LA and they have selected the
   MAPPS leadership team as their partner. MAPPS is powered by the Implicit
@@ -89,11 +113,33 @@ make_la_great: >-
    
    
    We hope to create a fully-supported leaning environment where students not only receive a high school diploma, but are once again engaged with increased awareness regarding past behaviors, greater focus, confidence and organizational skills to support achievement of activities towards their Employment goal.
-category: learn
-organization_id: '2018082'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
-project_video: 'https://youtu.be/hVF2r_6Q-Vw'
+project_proposal_engage: >-
+  We hope to activate the youth who are our future. The population we intend to
+  engage is 16-24 year olds who have been cast aside and who are currently
+  unproductive and unhappy...a greater environmental problem. 
+   
+   
+   
+   Our activation will rely on the strength of our team and our partners. We have backgrounds ranging from the media and publishing, high tech, education, the music industry and the private sector. We intend to increase awareness through our website, ongoing events and awareness campaigns, social media and blogging.
+project_measure: >-
+  We will define our success with the completion of our school pilot in the
+  2018/2019 academic year teaming up with Youth Build, followed up by a new and
+  separate charter in September 2019. In addition, we hope to provide a housing
+  component for the students which will be like a dorm but with other supportive
+  services such as a clinic, fitness facilities, a communal kitchen, a garden,
+  and an event center.
+project_five_years: >-
+  We hope this activation will help us serve an HSRA student body of 400 in 5
+  years and we hope to extend the MAPPS program into all high schools as part of
+  their curriculum. 
+   
+   
+   
+   We believe the impact of our program is much greater than the individual students. We hope to affect all humans in one way or another. We believe we are creating a healthier environment and planet.
+category_metrics:
+  - District-wide graduation rates
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
 body_class: blueberry
 
 ---

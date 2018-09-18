@@ -6,14 +6,24 @@ project_summary: >-
   Business accelerator/incubator for tech, music & food entrepreneurs supported
   with 24hour radio station, retail space & music studio anchored by a replica
   of the Historic World Famous VIP Sign.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Employment in the creative industries","Minority- and women-owned
   firms","Unemployment (and opportunities) for the formerly incarcerated"]
-make_la_great: >-
+category: live
+organization_id: '2018138'
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
+project_video: ''
+project_proposal_description: >-
+  A business incubator and multi media center that provides work space tech lab,
+  music studio, radio station, green screen room and outdoor event space.
+project_areas:
+  - 'long beach, ca'
+project_proposal_mobilize:
+  - Digital organizing or activism
+  - Create new tools or technologies for greater civic/political engagement
+  - increase small businesses among women and minori
+project_proposal_best_place: >-
   In 1978 World Famous VIP Records was opened in Long Beach , CA. In the 90s,
   founder Kelvin Anderson opened up a small studio in the back of the store to
   keep kids out of gangs. From the back of the store careers such as Snoop Dogg,
@@ -105,11 +115,32 @@ make_la_great: >-
 
 
    We are also located across the street from Public Transportation, metro , in a area that is undeserved with resources and small businesses.
-category: live
-organization_id: '2018138'
-project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
-project_video: ''
+project_proposal_engage: >-
+  We look at our development as a cultural development. It is a development that
+  both engages heritage tourists from around the world who want to see the VIP
+  Sign and purchase merchandise while it provides opportunity and a space for
+  engagement.
+
+
+
+   Our focus on creating community events such as family day an concerts that will bring our local community together and create space of engagement and empowerment.
+project_measure: >-
+  Creating Milestones for our small businesses and take them through an 18 month
+  incubation process.
+
+   Number of Jobs Created
+
+   Number of Businesses Launched
+
+   Type of Engagement
+project_five_years: >-
+  We hope to have another location opened in south Central Los Angeles where the
+  original vip records store was opened and hope to have launched at least 100
+  successful small businesses.
+category_metrics:
+  - Employment in the creative industries
+  - Minority- and women-owned firms
+  - Unemployment (and opportunities) for the formerly incarcerated
 body_class: lime
 
 ---

@@ -6,12 +6,38 @@ project_summary: >-
   “EVERYONE IN: Preventing Homelessness” will help 30,000 people avoid
   homelessness by creating affordable housing & helping Angelenos keep their
   homes
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Housing affordability","Rates of homelessness"]'
-make_la_great: >-
+category: connect
+organization_id: '2018132'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
+project_video: 'https://youtu.be/omjbiTiHXxU'
+project_proposal_description: >-
+  We will activate 100,000 Angelenos to connect the dots between housing
+  affordability and homelessness. We will empower participants to say “yes” to
+  supportive housing for the most vulnerable people experiencing homelessness,
+  preservation of existing housing so tenants facing eviction can stay in their
+  homes, and creation of housing that is affordable. By activating 100,000
+  Angelenos this project will help tens of thousands of our neighbors stay
+  housed and prevent homelessness before it occurs.
+project_areas:
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+project_proposal_mobilize:
+  - Advocate for policy
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   While we have proven we know how to end homelessness through permanent housing
   and services, we haven’t made a significant impact on the flow of people into
   homelessness. By some estimates, monthly in LA County more than 10,000 people
@@ -40,11 +66,107 @@ make_la_great: >-
    
    
    SAY YES TO MORE HOMES AND BETTER RULES. Building more housing that is affordable is critical to helping people avoid homelessness. We will activate Angelenos to support new housing in their communities. Elected officials who decide whether to approve new homes are very attuned to input from local residents. People who turn out for hearings on these projects have traditionally been opposed to new housing, often when it's for lower income and homeless people. Supportive messages and in-person testimony from residents who believe we need to address LA’s homelessness and housing crisis can make a huge difference in allowing more homes of all types to be permitted and built.
-category: connect
-organization_id: '2018132'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
-project_video: 'https://youtu.be/omjbiTiHXxU'
+project_proposal_engage: >-
+  A core component of making L.A. the best place to live is having enough places
+  for people to live. Our activation will target L.A. County residents who voted
+  ‘yes’ for both Prop. HHH and Measure H, which is nearly 1.5 million people
+  combined. More specifically, we will target: 
+   
+   
+   
+   Angelenos, especially renters, who typically haven’t taken part in the housing planning discussion and sympathetic homeowners, landlords and community leaders who can be visible supporters
+   
+   
+   
+   Our three core strategies to activate 100,000 people are: 
+   
+   
+   
+   Digital Communication & Calls to Action
+   
+   
+   
+   We will leverage high quality digital communications through the EVERYONE IN, Abundant Housing LA, and Inner City Law channels to educate people on the causes of homelessness and how we can prevent it by working together. 
+   
+   
+   
+   Community Based Pop Up Engagement Events
+   
+   
+   
+   We will leverage community specific pop up events to include conversations around housing production (of all types) as well as renter protections. We expect to conduct at least 10 of these events over the grant period, with approximately 500 people at each event—or 5,000 total people. 
+   
+   
+   
+   Old Fashioned Community Organizing 
+   
+   
+   
+   EVERYONE IN has developed a robust community organizing strategy that will be driven and advocated by experienced organizers, volunteers, and a coalition of over 50 community based organizations throughout Los Angeles.
+project_measure: >-
+  In the context of activating 100,000 people towards this goal, we will
+  measure: 
+   
+   
+   
+   Digital key performance indicators of our digital content (core strategy component):
+   
+   * Impressions, shares, clicks, likes
+   
+   
+   
+   Human beings engaged
+   
+   * People who attend community pop ups
+   
+   * People who attend organizer trainings
+   
+   * People who attend community events or participate in 
+   
+    legislative activities
+   
+   
+   
+   Jurisdictions targeted
+   
+   * Number of jurisdictions in LA County in which have we taken a digital or in person action 
+   
+   
+   
+   Policy ideas proposed or refined
+   
+   * tenants rights policy reforms
+   
+   * prevention programs
+   
+   * affordable housing development reforms
+   
+   
+   
+   Short-Term Success Measure
+   
+   30,000 people successfully prevented from experiencing homelessness by July 1, 2022. 
+   
+   
+   
+   Long-Term Success Measure 
+   
+   In 2015, the number of homeless individuals in Los Angeles County was 41,474. By 2050, our goal is to have fewer than 1,000 homeless individuals in LA.
+project_five_years: |-
+  In five years, we hope to see:
+   
+   
+   
+   - Significant reduction in the number of residents becoming homeless 
+   
+   - Increase in the supply of supportive and affordable housing in LA County 
+   
+   - A shift in community understanding of the role that housing affordability plays in our homelessness crisis 
+   
+   - Meaningful increase in the number of Angelenos activated and mobilized on public policy issues related to housing and homelessness
+category_metrics:
+  - Housing affordability
+  - Rates of homelessness
 body_class: tangerine
 
 ---

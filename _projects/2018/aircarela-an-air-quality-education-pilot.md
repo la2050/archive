@@ -6,12 +6,33 @@ project_summary: >-
   Deploy 150 air quality sensors on streetlights Citywide to provide
   environmental data at a local level in order to evaluate the disparity of air
   quality among communities & impacting factors.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: '["Exposure to air toxins","Prevalence of adverse childhood experiences"]'
-make_la_great: >-
+category: live
+organization_id: '2018026'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
+project_video: 'https://youtu.be/tVCxc_xD6Xo'
+project_proposal_description: >-
+  The City of LA seeks to use its streetlights to initiate discussions about air
+  quality at local community level. Funding will enable the City to manage an
+  Air Quality Data Collection Pilot that will provide valuable information
+  regarding local air quality. The data can inform communities about impacts
+  that may be contributing to their livability & health. This will incentivize
+  communities to become engaged in policy decisions: reducing traffic,
+  encouraging walking/biking, zoning decisions.
+project_areas:
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Advocate for policy
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+project_proposal_best_place: >-
   Los Angeles has some of the most polluted air in the nation. The trend over
   the last 25 years has shown significant improvements in smog and pollutants
   until recently. In the last couple of years this trend has shown an increase
@@ -34,11 +55,33 @@ make_la_great: >-
    
    
    The data gathered will become available on the City’s open data portal so the public is informed. In addition, this project has the potential to develop and place air quality sensors “beacons” that will provide an instantaneous visual indication of the current air quality in the local area.
-category: live
-organization_id: '2018026'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
-project_video: 'https://youtu.be/tVCxc_xD6Xo'
+project_proposal_engage: >-
+  Local air quality data will enable City policy makers to engage residents in
+  an effort to make differences at the municipal level by developing programs
+  that will mitigate air quality impacts. Current air quality sensors are not
+  locally based, so communities do not feel they have the power or control to
+  impact air quality.
+project_measure: |-
+  The program will measure success by completion of the following metrics: 
+   
+   
+   
+   * The completed deployment of the air quality sensors and transmission of data. 
+   
+    
+   
+   * The establishment of a public education program based on the air quality data which is accumulated 
+   
+   and the development of new community-based programs with the goal of mitigating the harmful effects of air pollution.
+project_five_years: >-
+  We hope that as Smart City technology evolves, the use of sensors on
+  streetlights will grow and enable data collection regarding various interests.
+  This will provide real time data to the community and public officials,
+  enabling policy direction and the enhancements to improve the livability for
+  all residents in the City of Los Angeles.
+category_metrics:
+  - Exposure to air toxins
+  - Prevalence of adverse childhood experiences
 body_class: lime
 
 ---

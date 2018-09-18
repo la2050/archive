@@ -8,15 +8,55 @@ project_summary: >-
   RaiseAChild will conduct state-of-the-art outreach campaigns and utilize best
   business practice technology to find loving homes for children languishing in
   LA’s foster care system.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Adults getting sufficient social & emotional support","Attendance at
   public/open streets gatherings","Government responsiveness to residents’
   needs"]
-make_la_great: >-
+category: create
+organization_id: '2018100'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
+project_video: 'https://vimeo.com/261964830'
+project_proposal_description: >-
+  We seek to ignite true innovation within Los Angeles County's foster care
+  system, the largest child welfare system in the nation, through a radically
+  different approach to improve public awareness and civic engagement. This will
+  be accomplished with the expansion of our successful multi-media outreach
+  campaigns, strategic collaborations in the development and roll-out of a new
+  Customer Relationship Management technology system, and the application of
+  best business practices and principles.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+  - LAUSD
+project_proposal_mobilize:
+  - Advocate for policy
+  - Digital organizing or activism
+  - Trainings and/or in-person engagements
+  - Create new tools or technologies for greater civic/political engagement
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Increase participation in political processes (e.g. voting, running for
+    office, community problem solving)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   RaiseAChild’s pioneering multi-media recruitment campaigns have been steadily
   growing. With last year’s state-of-the-art events generating well over
   1,750,000 impressions and directly reaching thousands of people, we anticipate
@@ -43,11 +83,60 @@ make_la_great: >-
   will have the capacity to incorporate this additional flow of prospective
   parents into our database, and also more effectively and efficiently meet
   their needs to assure their retention.
-category: create
-organization_id: '2018100'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
-project_video: 'https://vimeo.com/261964830'
+project_proposal_engage: >-
+  Our sensational outreach campaigns will feature compelling messaging in
+  English and Spanish about the dire need for loving homes for foster children.
+  Building on our success of inclusivity, these messages will continue to target
+  both the LBGTQ and heterosexual communities, along with further expansion into
+  the Spanish language speaking neighborhoods throughout the city, representing
+  approximately 48% of L.A.’s population. Additional bi-lingual staff will
+  enable RaiseAChild to make additional inroads into the Hispanic community. We
+  also plan to expand discussions with several inclusive and welcoming
+  faith-based organizations to further engage Angelenos and promote our mission.
+  Fostering and adoption are slow processes, but our goal is to motivate and
+  engage 100,000 Angelenos through social media, targeted outreach campaigns and
+  solid business practice technology, to help to solve the foster care crisis in
+  Los Angeles.
+project_measure: >-
+  Our technical partners and staff will closely monitor and track the number of
+  prospective parents who come to us through campaigns, events, websites, word
+  of mouth, etc. and the number of prospects who have begun the necessary
+  orientation, training and certification steps -- or where they are in the
+  process. Using the newly-created best practice business technology, we will be
+  able to further customize each subsequent interaction. Analyzing information
+  from the existing pool of possible resource parents will allow us to identify
+  the best current prospects and allocate staff resources strategically to
+  maximize returns. As the survey and messaging results are obtained, collected,
+  and aggregated, the information will afford staff greater efficiencies in
+  managing its thousands of prospective parents and enable them to provide more
+  effective one on one attention. By using this information to proactively make
+  system-wide improvements aimed at preventing drop-out, we will be able to
+  increase and improve our retention success rates for potential parents who in
+  turn will ultimately be able to positively impact the safety and well-being of
+  the children in their care.
+project_five_years: >-
+  RaiseAChild has a program that has been tested and proven unlike any in the
+  country, which provides measured and ongoing support and guidance to all its
+  prospective parents as they navigate the foster/adoption process. Since our
+  inception, we have slowly introduced innovation and groundbreaking approaches
+  into the child welfare system and are now beginning to see the positive
+  results of our efforts. In five years, we hope to see the system completely
+  overhauled and the process for fostering and adoption taking half the time for
+  prospective parents to be vetted. We anticipate increasing our retention rates
+  by an additional 40%, and the foster care crisis, now fueled in part by the
+  opioid epidemic and new federal policies on immigration, be significantly
+  diminished. Ultimately, we look forward to finding forever homes for 15,000
+  children who are the innocent victims as there is a severe shortage of foster
+  homes in L.A. When we look at today’s children, we see tomorrow’s leaders, but
+  for foster children to thrive in Los Angeles, we must engage Angelenos to help
+  support their development, help build them loving families and promote public
+  policies that work for both. In order for communities to come together
+  cohesively to create a prosperous Los Angeles by 2050, we must invest in these
+  children now.
+category_metrics:
+  - Adults getting sufficient social & emotional support
+  - Attendance at public/open streets gatherings
+  - Government responsiveness to residents’ needs
 body_class: banana
 
 ---

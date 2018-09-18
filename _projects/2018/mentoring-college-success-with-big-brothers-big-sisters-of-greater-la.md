@@ -6,14 +6,48 @@ project_summary: >-
   Big Brothers Big Sisters of LA’s College P.A.C. Program (Preparation, Access,
   Completion) provides underserved youth with mentoring support to finish high
   school, graduate college, and start careers.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["College and community college completion rates","College matriculation
   rates","Youth unemployment and underemployment"]
-make_la_great: >-
+category: learn
+organization_id: '2018007'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
+project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
+project_proposal_description: >-
+  We are proposing an expansion of our College Preparation, Access, Completion
+  (PAC) program to provide all our youth mentees with an umbrella of resources
+  and support to promote success at not only gaining entry to college, but in
+  developing the knowledge, skills, and dispositions to both graduate and start
+  careers. This activation will also enable us to expand our collaborations with
+  other organizations to share resources and best practices on college success
+  to greatly magnify our impact.
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   We live in an increasingly segregated Los Angeles where youth of color are not
   benefitting from the advantages of our growing economy. Measure of America’s
   “Portrait of Los Angeles” estimated that life expectancy would increase by 1.5
@@ -33,11 +67,34 @@ make_la_great: >-
 
 
    With a LA2050 partnership, we will have the staff resources to support college and career preparation and training for one-to-one mentoring of youth as early as 2nd grade that continues through college completion. This will directly impact 6000+ youth/mentors/families in our programs. Our current College PAC Coordinator will focus on developing the curriculum to support all mentors, mentees, and families. She will also focus on building upon our partnerships with the Mayor’s Office and the California Community Foundation’s Young Men of Color (YMOC) Initiative to share our resources and promote mentorship as a crucial component of college and career prep across the region.
-category: learn
-organization_id: '2018007'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
-project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
+project_proposal_engage: >-
+  BBBSLA serves 1800 youth ages 6-22 throughout LA County. 95% of the children
+  or youth impacted by our programs are youth of color. Approximately 70% served
+  by our programs live under the federal poverty line and 80% live in households
+  earning less than a living wage for LA County.
+
+   Our activation engages youth, their families, and their mentors with the professional support of our staff to directly provide college and career resources and training yearly to over 6,000 Angelenos. In addition, the network of organizations and corporations with whom we collaborate to activate change play a crucial role in our success. Local partners include Comcast NBCUniversal, Sony, Paramount, Union Bank, the Mayor’s Office, California Community Foundation, and others. Our partners provide the access to amazing mentors, college and career prep, and the opportunity to share best practices across the region. For example, our College PAC newsletter is already a monthly resource we share with other non-profits and can reach well over 100,000 youth and community stakeholders through our current collaborators.
+project_measure: >-
+  BBBSLA already tracks high school graduation, college matriculation, and
+  college persistence rates for all the youth in College PAC. As part of our new
+  partnership to provide paid internship opportunities to the youth in our
+  programs, we will also be tracking placement and employment outcomes.
+
+
+
+   To refine and improve our College PAC efforts, program evaluation is ongoing through our Progress Tracking System. The Progress Tracking System tracks quantitative and qualitative data from BBBSLA’s proprietary Agency Management System (collected quarterly), QuestionPro surveys and reports (collected bi-annually), SAT score data, and CALynx, a service provided by the California Futures Foundation to track college outcomes (collected annually). BBBSLA looks at all data collectively on an annual basis as part of developing its Annual Report. Evaluation is conducted by BBBSLA’s Grants Manager, Keith Mataya, and Yvette Sanchez, the College PAC Coordinator. Findings include evaluation of mentoring match success, college success indicators (knowledge of the college process, financial aid literacy, and college experience), standardized test prep scores, and college continuation rates.
+project_five_years: >-
+  In five years, we hope this activation not only dramatically improves the
+  educational outcomes of all of our mentees, but that our efforts continue to
+  assist other organizations working on college success in Los Angeles. We also
+  are leading efforts with other Big Brothers Big Sisters affiliates around the
+  country to expand mentoring to support college age youth.
+
+   No single institution or organization in Los Angeles can make significant progress on improving key education metrics on its own. We have already worked diligently to partner with others to magnify our impact. Support from LA2050 will provide us with the opportunity to grow our capacity and share our successes and resources with other organizations. Over the next five years, we believe the lessons we have learned, and continue to learn, can play a crucial role in the work with our partners on moving the needle on education outcomes for all youth in our community.
+category_metrics:
+  - College and community college completion rates
+  - College matriculation rates
+  - Youth unemployment and underemployment
 body_class: blueberry
 
 ---

@@ -5,16 +5,39 @@ title: Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
 project_summary: >-
   Through the this activation, NALIP aims to provide support for college ready
   urban youth through media training & resources.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["Employment in the creative industries","Recruiting and retention rates for
   local higher education institutions","Percentage of graduates from local
   higher education institutions that remain in LA County 5 years after
   graduating"]
-make_la_great: >-
+category: create
+organization_id: '2018121'
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
+project_video: 'https://youtu.be/3uy1I03CPas'
+project_proposal_description: >-
+  This past year has seen not only impactful changes in the entertainment
+  industry but a strong push for a more inclusive and diverse media ecosystem.
+  Recognizing this need for a more diverse media workforce, the Emerging Content
+  Creators Inclusion Initiative aims to provide a bridge in the gap between
+  college ready youth/graduates and available jobs for them. Our goal is to
+  train, develop, and offer additional resources in order to be able to provide
+  a pipeline of talent to companies & studios.
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - >-
+    Encourage businesses to change practices (e.g. buycott, boycott, promote
+    corporate social responsibility)
+  - Connect Angelenos with impactful volunteer opportunities
+  - Increase donations to organizations and causes
+project_proposal_best_place: >-
   Minorities and women have registered gains in several key areas of television
   but remained disproportionately represented in most areas of the entertainment
   industry, according to the 2018 Hollywood Diversity Report by UCLA. This year,
@@ -55,11 +78,73 @@ make_la_great: >-
   youth will be able to gain access to resources in regards to both film/media
   universities and serve as a pipeline to the entertainment job market in Los
   Angeles to give a more diverse, equitable, and creative Los Angeles.
-category: create
-organization_id: '2018121'
-project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
-project_video: 'https://youtu.be/3uy1I03CPas'
+project_proposal_engage: >-
+  The Emerging Content Creator Inclusion Initiative seeks to provide
+  opportunities to youth from underrepresented communities to explore a career
+  that they would not have considered because of the lack of exposure in their
+  communities. NALIP aims to provide support through:
+   
+   
+   
+   Forums
+   
+   Networking
+   
+   Mentoring
+   
+   Summer programs
+   
+   Workshops
+   
+   Funding college-entry projects
+   
+   
+   
+   This activation targets urban youth that have limited access to knowledge of the entertainment industry. The workshops will be offered not only where the entertainment hub of LA but also offered in South LA, East LA, and extremities as well. 
+   
+   The Initiative does not only engage college ready youth/graduates in being creative but also engages Angelenos already in the industry to provide additional support and help pave the way for those to come. We’ve had great success from our Latino Lens Workshop Series in bringing professionals in digital producing, VR/AR experience, writing for both tv/film, & showrunning with positive impact on our members from which we wish to extend to those wanting to pursue a career in media through this Initiative. Through our interaction and digital platforms over 100,000 Angelenos will be exposed to our Initiative and engage with us. The ECC Inclusion Initiative will be highlighted and enforced within NALIP’s annual events, Social Media, Newsletter and beyond, including collaborating and partnering with organizations to enhance, engage and advance the mission of the initiative.
+project_measure: |-
+  Through the Initiative, NALIP aims to 
+   
+   Provide scholarships for youth to our bi-monthly workshops series
+   
+   Educate & prepare scholarship recipients around the basics of the entertainment industry
+   
+   Keep track of recipients, their development, and inspire them to pursue creative endeavors within graduate school, specific programs (directing, writing), or start their career at a studio/network.
+   
+   And intends to measure through:
+   
+   
+   
+   Number of participants in the program. 
+   
+   Number of industry partner mentorship opportunities offered.
+   
+   Percent of recipients who report gaining knowledge about issues of gender equality in media. 
+   
+   Number of recipients who go on to attain internships and jobs in the industry. 
+   
+   Projects funded, execution and engagement. 
+   
+   
+   
+   The Initiative will survey program participants, partners, employers, & mentors before and after the program, and will conduct a follow-up survey 6 months after and 2 years after the program ends.
+project_five_years: >-
+  We hope this activation is a continuous program in ensuring a pipeline of
+  talent from diverse talent into the media workforce. In five years NALIP looks
+  to advance and grow the program to reach additional youth across high schools,
+  colleges and a resource for recent graduates to continue with their
+  development. We look for these type of resources to be implemented as part of
+  school, summer school and after school program curriculums in order to grow
+  the numbers of ready college students interested in being part of the
+  entertainment industry and becoming the next generation of storytellers with
+  diverse voices.
+category_metrics:
+  - Employment in the creative industries
+  - Recruiting and retention rates for local higher education institutions
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
 body_class: banana
 
 ---

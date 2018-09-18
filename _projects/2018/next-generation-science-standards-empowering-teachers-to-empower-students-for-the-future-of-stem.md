@@ -8,15 +8,28 @@ project_summary: >-
   We empower teachers to prepare and inspire students for the future of STEM
   through dynamic training and mentoring on the state adopted, industry
   recognized Next Generation Science Standards.
-idea_and_impact: ''
-use_resources: ''
-resources_needed: ''
-measure_success: ''
 impact_metrics: >-
   ["College and community college completion rates","College matriculation
   rates","Students’ immersion in Science, Technology, Engineering, and Math
   content"]
-make_la_great: >-
+category: learn
+organization_id: '2018016'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
+project_video: ''
+project_proposal_description: >-
+  We seek to empower teachers to prepare and inspire students for the future of
+  STEM through dynamic training and mentoring on the state adopted, industry
+  recognized Next Generation Science Standards.
+project_areas:
+  - Central LA
+  - South LA
+  - South Bay
+  - LAUSD
+project_proposal_mobilize:
+  - Trainings and/or in-person engagements
+  - Connect Angelenos with impactful volunteer opportunities
+project_proposal_best_place: >-
   In 2013, the California Board of Education adopted the Next Generation Science
   Standards (NGSS) for K-12 public schools. Those standards were developed by 26
   lead states in collaboration with key stakeholders in science, science
@@ -43,11 +56,51 @@ make_la_great: >-
    _Months 7-10:_ Lesson Study Cycles - Teams of teacher trainees will engage in collaborative planning-teaching-observation of learning, followed by lesson evaluation and refinement.
    
    _Months 1-12:_ Training Evaluation and Revision - Will occur on an ongoing basis (details in #12).
-category: learn
-organization_id: '2018016'
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
-project_video: ''
+project_proposal_engage: >-
+  Our activation focuses on schools in LAUSD-Local District South and Compton
+  USD. These districts were selected because implementation has been limited and
+  because the largest achievement gaps in science among student groups are
+  defined by race and income. LAUSD enrollment is 90% students of color and 80%
+  are socioeconomically disadvantaged. Compton USD enrolls almost 100% students
+  of color and 87% are socioeconomically disadvantaged. 
+   
+   
+   
+   We will engage directly with teacher trainees, totaling 100 over 2 years. In turn, these teachers will engage their students as they become more effective and inspiring teachers. CISE will also give our teacher trainees strategies and tools to engage parents. Examples include at a minimum keeping parents informed about the shift to NGSS and at most enlisting parents to volunteer in and outside of the classroom to help with NGSS-based science projects.
+   
+   
+   
+   CISE will enlist the 50 trainees in our current pilot and the 100 additional trainees to become NGSS experts at their schools that mentor fellow teachers. NGSS experts will provide guidance to these 150 teachers as they help their fellow teachers learn the new standards.
+   
+   
+   
+   The 150 trainees we engage will represent 50 schools averaging 1,000 students. With those trainees engaging their fellow teachers on the new standards, 50,000 students will be touched directly or indirectly by our effort. With our push to keep all parents informed at a minimum, we will touch well over 100,000 Angelenos.
+project_measure: >-
+  Success is defined by the impact participating teachers have on student
+  learning. This will be measured based upon 1) Participant Surveys:
+  Participating teachers will complete a survey at the end of each training day
+  and at the end of each lesson study cycle assessing training effectiveness; 2)
+  Expert Observations & Evidence: NGSS training team members (experts) will
+  participate in lesson study cycle as observers and will gather evidence based
+  upon an instrument used for teacher observations by the district to evaluate
+  performance; 3) Expert Review of Developed NGSS Lessons: Training team experts
+  will review lesson plans developed by participating teachers for the lesson
+  study cycles to assess quality based upon NGSS standards; 4) Consistent
+  Attendance: Tracking attendance for all components of the training (in-person
+  training, lesson study cycles, etc.).
+project_five_years: >-
+  Our goal is to train a minimum of 3-5 teachers from each school within our
+  service area who will serve as the NGSS experts at their schools and
+  districts, offering their students a more engaging and inspiring STEM
+  instructional experience. We expect our effort to translate into stronger
+  results on the National Assessment of Education Progress in science, a
+  narrowing of the achievement gap among student groups defined by
+  race/ethnicity and family income, and more students enrolling and persisting
+  in postsecondary STEM programs.
+category_metrics:
+  - College and community college completion rates
+  - College matriculation rates
+  - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 body_class: blueberry
 
 ---
