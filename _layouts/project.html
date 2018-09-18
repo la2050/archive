@@ -49,12 +49,12 @@ stylesheets:
   }
 </style>
 
-{% if page.year == 2013 or page.year == 2014 or page.year == 2015 %}
+{% if page.year_submitted == 2013 or page.year_submitted == 2014 or page.year_submitted == 2015 %}
 
 {% assign challenge_title = "My LA2050 Grants Challenge" %}
 {% assign challenge_url = "http://maker.good.is" %}
 
-{% elsif page.year == 2016 %}
+{% elsif page.year_submitted == 2016 %}
 
 {% assign challenge_title = "My LA2050 Grants Challenge" %}
 {% assign challenge_url = "https://challenge.la2050.org" %}
@@ -64,6 +64,10 @@ stylesheets:
 {% assign challenge_title = "My LA2050 Activation Challenge" %}
 {% assign challenge_url = "https://activation.la2050.org" %}
 
+{% endif %}
+
+{% if page.challenge_url and page.challenge_url != "" %}
+  {% assign challenge_url = page.challenge_url %}
 {% endif %}
 
 
