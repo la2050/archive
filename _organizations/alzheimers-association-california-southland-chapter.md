@@ -1,6 +1,6 @@
 ---
 organization_id: '2013009'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Alzheimer''s Association, California Southland Chapter'
 organization_website: www.alz.org/socal
 ein: '953718119'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102018'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Community: Where strong families are made'
 project_summary: >-
   Through hands-on workshops and trainings, Child360 will empower parents and
@@ -48,7 +48,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018018'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/child360-formerly-los-angeles-universal-preschool.jpg
+  https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/child360-formerly-los-angeles-universal-preschool.jpg
 project_video: 'https://youtu.be/3lSBgCsP9Sg'
 body_class: tangerine
 

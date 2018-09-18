@@ -1,6 +1,6 @@
 ---
 organization_id: '2014165'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Los Angeles Community Garden Council
 organization_website: ''
 ein: '311734705'

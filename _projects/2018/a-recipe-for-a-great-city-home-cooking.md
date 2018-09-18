@@ -1,6 +1,6 @@
 ---
 project_id: '8102060'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'A Recipe for a Great City: Home Cooking'
 project_summary: >-
   Leveraging the power of food and culture, we will entice millennials to engage
@@ -58,7 +58,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018060'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/la-commons-a-project-of-community-partners.jpg
+  https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/la-commons-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
 body_class: tangerine
 

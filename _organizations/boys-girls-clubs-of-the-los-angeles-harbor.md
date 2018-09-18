@@ -1,6 +1,6 @@
 ---
 organization_id: '2014119'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Boys & Girls Clubs of the Los Angeles Harbor
 organization_website: ''
 ein: '951661682'

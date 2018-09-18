@@ -8,7 +8,7 @@ project_summary: >-
   items, & a space to encourage Southwest LA pride & artistry.
 category: create
 organization_id: '2014107'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -56,7 +56,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Sourcing some products from Homeboy
    - Use Homeboy as a resource for employing members coming out of their programs
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

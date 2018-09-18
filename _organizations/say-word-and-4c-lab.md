@@ -1,6 +1,6 @@
 ---
 organization_id: '2016190'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Say Word and 4C LAB
 organization_website: www.SayWordLA.org
 ein: ''

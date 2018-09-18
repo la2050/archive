@@ -1,6 +1,6 @@
 ---
 project_id: '8102082'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Educating & empowering high-school dropouts incarcerated youth+otherwise
   disengaged 16-24yr humans.
@@ -92,7 +92,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018082'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg
+  https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/mentoring-adolescents-for-personal-professional-success.jpg
 project_video: 'https://youtu.be/hVF2r_6Q-Vw'
 body_class: blueberry
 

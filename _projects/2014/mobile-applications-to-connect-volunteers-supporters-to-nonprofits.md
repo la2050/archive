@@ -6,7 +6,7 @@ project_summary: >-
   market and make the apps more affordable for nonprofits.
 category: connect
 organization_id: '2014074'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -48,7 +48,7 @@ Whom will your project benefit? Please be specific.: >-
   beta version of the technology and they'll continue to support the platform.
   We'd also love to collaborate with all other local organizations on the build
   of the platform to suit their operational needs.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

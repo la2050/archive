@@ -1,6 +1,6 @@
 ---
 organization_id: '2018135'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Walk With Sally
 organization_website: www.walkwithsally.org
 ein: '611472800'

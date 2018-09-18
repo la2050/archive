@@ -1,6 +1,6 @@
 ---
 organization_id: '2013192'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Learning Garden
 organization_website: www.thelearninggarden.org
 ein: '203602931'

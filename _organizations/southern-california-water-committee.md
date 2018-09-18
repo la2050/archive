@@ -1,6 +1,6 @@
 ---
 organization_id: '2015189'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Southern California Water Committee
 organization_website: 'http://www.socalwater.org/'
 ein: '330081886'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102090'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
 project_summary: >-
   Hunger: Not Impossible is an innovative platform connecting the food Insecure
@@ -34,7 +34,7 @@ make_la_great: |-
 category: learn
 organization_id: '2018090'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
+  https://activation.la2050.org/live/not-impossible-foundation/not-impossible-foundation.jpg
 project_video: '0'
 body_class: blueberry
 

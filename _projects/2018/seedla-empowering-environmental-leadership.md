@@ -1,6 +1,6 @@
 ---
 project_id: '8102107'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'SeedLA: Empowering Environmental Leadership'
 project_summary: >-
   SeedLA is a group of professionals from different industries that provide
@@ -37,7 +37,7 @@ make_la_great: >-
    Ultimately, SeedLA will make Los Angeles the best place to LIVE not only by enhancing the impact of organizations already pioneering a healthier and more sustainable Los Angeles, but also by fostering the next generation of environmental leaders.
 category: play
 organization_id: '2018107'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'
+project_image: 'https://activation.la2050.org/live/seedla/seedla.jpg'
 project_video: 'https://www.youtube.com/watch?v=p0Ag2WK9kaw'
 body_class: strawberry
 

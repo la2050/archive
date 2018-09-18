@@ -1,6 +1,6 @@
 ---
 organization_id: '2014210'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Trust for Public Land
 organization_website: ''
 ein: '237222333'

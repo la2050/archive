@@ -1,6 +1,6 @@
 ---
 organization_id: '2016116'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Just As You Are Legacy
 organization_website: n/a
 ein: ''

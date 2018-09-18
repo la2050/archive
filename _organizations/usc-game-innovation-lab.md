@@ -1,6 +1,6 @@
 ---
 organization_id: '2014104'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: USC Game Innovation Lab
 organization_website: 'http://interactive.usc.edu/game-innovation-lab/'
 ein: '951642394'

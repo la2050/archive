@@ -1,6 +1,6 @@
 ---
 organization_id: '2018045'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Girls Academic Leadership Academy (GALA)
 organization_website: www.fogala.org
 ein: '812014188'

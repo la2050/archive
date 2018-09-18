@@ -1,6 +1,6 @@
 ---
 organization_id: '2014155'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Imagination Workshop
 organization_website: ''
 ein: '237161543'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015072'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Golden Heart Ranch
 organization_website: www.goldenheartranch.org
 ein: '263131470'

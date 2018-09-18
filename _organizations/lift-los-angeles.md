@@ -1,6 +1,6 @@
 ---
 organization_id: '2018068'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: LIFT-Los Angeles
 organization_website: 'https://www.liftcommunities.org/'
 ein: '522168409'

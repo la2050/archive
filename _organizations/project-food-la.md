@@ -1,6 +1,6 @@
 ---
 organization_id: '2013156'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Project Food LA
 organization_website: 'https://www.facebook.com/ProjectFoodLosAngeles?fref=ts'
 ein: '952803401'

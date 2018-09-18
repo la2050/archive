@@ -1,6 +1,6 @@
 ---
 organization_id: '2013065'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Filipino Migrant Center
 organization_website: 'http://filipinomigrantcenter.org/'
 ein: '320308477'

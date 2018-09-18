@@ -1,6 +1,6 @@
 ---
 organization_id: '2013071'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: For Learners of All Ages
 organization_website: forlearnersofallages.com
 ein: '461226459'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102075'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Resistance Squad: Amplifying the Power of Angelenos to Affect National Change'
 project_summary: >-
   The Los Angeles LGBT Center will advance our mobilization and resistance squad
@@ -53,7 +53,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018075'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg
+  https://activation.la2050.org/connect/los-angeles-lgbt-center/los-angeles-lgbt-center.jpg
 project_video: 'https://youtu.be/63SBgjUNWxA'
 body_class: tangerine
 

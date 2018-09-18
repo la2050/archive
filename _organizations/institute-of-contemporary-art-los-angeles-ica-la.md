@@ -1,6 +1,6 @@
 ---
 organization_id: '2016111'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 organization_website: www.theicala.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 project_id: '8102014'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Youth to Youth: Helping Young Adults Exit Foster Care'
 project_summary: >-
   CASA of Los Angeles is recruiting graduate-level college students to help
@@ -30,7 +30,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018014'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/casa-of-los-angeles.jpg
+  https://activation.la2050.org/connect/casa-of-los-angeles/casa-of-los-angeles.jpg
 project_video: 'https://youtu.be/nUykHHtLIHo'
 body_class: tangerine
 

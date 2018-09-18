@@ -1,6 +1,6 @@
 ---
 organization_id: '2014076'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Rangoli Foundation for Art & Culture
 organization_website: rangoli.org
 ein: '954443724'

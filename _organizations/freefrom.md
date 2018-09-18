@@ -1,6 +1,6 @@
 ---
 organization_id: '2018041'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: FreeFrom
 organization_website: www.freefrom.org
 ein: '475033123'

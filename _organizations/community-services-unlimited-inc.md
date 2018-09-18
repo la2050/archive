@@ -1,6 +1,6 @@
 ---
 organization_id: '2014018'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Community Services Unlimited inc.
 organization_website: www.csuinc.org
 ein: '953218396'

@@ -6,7 +6,7 @@ project_summary: >-
   connecting LA scene w/ creativos in Latin America organizing events.
 category: create
 organization_id: '2014022'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Angel Aguilar - A ‘Don Quixote’ in the journalistic world of LA, working towards bringing quality music reporting to the Latin crowd in Spanish.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

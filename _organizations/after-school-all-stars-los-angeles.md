@@ -1,6 +1,6 @@
 ---
 organization_id: '2015005'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'After-School All-Stars, Los Angeles'
 organization_website: www.la-allstars.org
 ein: '912162719'

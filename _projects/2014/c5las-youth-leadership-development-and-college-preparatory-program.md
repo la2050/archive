@@ -6,7 +6,7 @@ project_summary: >-
   school and attend college, and teaches the value of giving back.
 category: learn
 organization_id: '2015024'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -76,7 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Seeking out relationships with college preparatory programs that have been proven effective; and
    • Constantly exploring how we can partner with new organizations that serve a similar youth demographic.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015093'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Iraq and Afghanistan Veterans of America (IAVA)
 organization_website: www.iava.org
 ein: '201664531'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018107'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: SeedLA
 organization_website: 'http://seedcg.org/'
 ein: '471749354'

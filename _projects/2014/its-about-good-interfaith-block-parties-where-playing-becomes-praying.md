@@ -6,7 +6,7 @@ project_summary: >-
   community in celebration of our similarities and differences
 category: play
 organization_id: '2014042'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -100,7 +100,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The third factor is availability and boldness. Anyone involved should be available to knock on doors, make calls, and attend the actual block parties. In many ways, this is like a series of campaigns for God in Los Angeles. Partners need to be comfortable with their faith, not on the fence, and be willing to stand up and share it with the world!
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

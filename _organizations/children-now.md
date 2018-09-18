@@ -1,6 +1,6 @@
 ---
 organization_id: '2018019'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Children Now
 organization_website: www.childrennow.org
 ein: '943059243'

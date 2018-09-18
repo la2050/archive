@@ -1,6 +1,6 @@
 ---
 project_id: '8102056'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Justice LA, along with FreeAmerica, are working to radically transform LA
   County's justice system.
@@ -50,7 +50,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018056'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg
+  https://activation.la2050.org/connect/justice-la-dignity-and-power-now/justice-la-dignity-and-power-now.jpg
 project_video: 'https://youtu.be/p_JwubxZcKA'
 body_class: tangerine
 

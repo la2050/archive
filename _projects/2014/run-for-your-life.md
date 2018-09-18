@@ -6,7 +6,7 @@ project_summary: >-
   into walkable, bikeable, beautiful green alleys.
 category: live
 organization_id: '2014210'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -83,7 +83,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    o Council District 9: Important partner and supporter for project. Essential support with alley closure piece and other logistics and community relations support
    o Los Angeles Police Department: Attends monthly platicas and works with residents to discuss safety and community issues
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

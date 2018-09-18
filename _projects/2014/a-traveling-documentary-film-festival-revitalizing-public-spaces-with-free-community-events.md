@@ -8,7 +8,7 @@ project_summary: >-
   platform that showcases nonfiction narrative films.
 category: connect
 organization_id: '2015007'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/BringAmbulante2CA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -74,7 +74,7 @@ Whom will your project benefit? Please be specific.: >-
    Rather than serving one specific demographic, the model attracts and brings a cross section of the public together to share an experience, resulting in a resonant and unparalleled connection among the fragmented sprawl in California. The organization will venture to areas traditionally marginalized, like the Skid Row area, and concentrated Spanish language speaking neighborhoods. Ambulante USA’s goal is to integrate all residents, especially those systematically left out of the conversations that documentary film provokes and reflects. 
    
    Beyond the projected audience of the 10,000 people we expect to reach, the most consequential impact is the diversity and multi-tier of class, gender, age and race the attendance figure represents. In addition to the audiences, the approximately 100 volunteers recruited, sourced from each community Ambulante California visits, will undergo production training and orientation of the themes and subjects of each documentary. An essential aspect is building morale, motivation and empowering the volunteers as ambassadors of the festival. In that respect we will offer volunteer screenings of the films in advance of the festival so they may adequately and passionately speak about the merits of the program.
-'': >-
+empty_column_1: >-
   Ambulante USA in the California context seeks to integrate its participatory
   platform with the diverse ecosystem of sub-cultures found within the sprawling
   and decentralized population to foster artistic expression and connect

@@ -8,7 +8,7 @@ project_summary: >-
   get them to rapid transit stations.
 category: connect
 organization_id: '2014097'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -99,7 +99,7 @@ Whom will your project benefit? Please be specific.: >-
    Since the proposed project involves interviewing residents of Los Angeles about their needs and wants, we consider all of our future contacts to be collaborators.
    
    We hope to develop working relationships with several other companies that are currently developing innovative new systems in Europe, Asia, and other parts of the United States. We feel that designing the vehicles in a way that works seamlessly with our "first mile, last mile" solutions is critical.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

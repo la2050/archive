@@ -1,6 +1,6 @@
 ---
 organization_id: '2016221'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The integrated Learning Annex
 organization_website: www.integratedannex.com
 ein: ''

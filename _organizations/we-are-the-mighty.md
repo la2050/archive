@@ -1,6 +1,6 @@
 ---
 organization_id: '2018137'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: We Are the Mighty
 organization_website: 'https://www.wearethemighty.com'
 ein: '465406542'

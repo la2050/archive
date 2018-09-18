@@ -1,6 +1,6 @@
 ---
 organization_id: '2018110'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: SmartAirLA
 organization_website: www.smartairla.org
 ein: '954302067'

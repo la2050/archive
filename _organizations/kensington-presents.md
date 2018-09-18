@@ -1,6 +1,6 @@
 ---
 organization_id: '2015104'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Kensington Presents
 organization_website: www.kensingtonpresents.com
 ein: '455635609'

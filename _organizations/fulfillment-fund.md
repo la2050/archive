@@ -1,6 +1,6 @@
 ---
 organization_id: '2013077'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Fulfillment Fund
 organization_website: www.fulfillment.org
 ein: '953180934'

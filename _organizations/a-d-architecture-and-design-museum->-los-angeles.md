@@ -1,6 +1,6 @@
 ---
 organization_id: '2013002'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: A+D Architecture and Design Museum > Los Angeles
 organization_website: 'http://aplusd.org/exhibitions-future/neverbuilt'
 ein: '481269978'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013017'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Arts:Earth Partnership'
 organization_website: www.ArtsEarthPartnership.org
 ein: '571151955'

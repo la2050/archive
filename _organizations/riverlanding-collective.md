@@ -1,6 +1,6 @@
 ---
 organization_id: '2013164'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: RiverLAnding Collective
 organization_website: ''
 ein: '900627151'

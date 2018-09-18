@@ -1,6 +1,6 @@
 ---
 organization_id: '2014055'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Los Angeles Downtown Arts District Space (LADADSpace)
 organization_website: ladadspace.org
 ein: '470939543'

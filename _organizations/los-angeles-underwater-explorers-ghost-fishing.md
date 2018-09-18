@@ -1,6 +1,6 @@
 ---
 organization_id: '2015131'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Underwater Explorers; Ghost Fishing
 organization_website: www.ghostfishing.org
 ein: '465551374'

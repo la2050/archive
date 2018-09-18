@@ -1,6 +1,6 @@
 ---
 organization_id: '2014098'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Women's Center for Creative Work
 organization_website: www.womenscenterforcreativework.com
 ein: '952540759'

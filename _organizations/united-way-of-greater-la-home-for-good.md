@@ -1,6 +1,6 @@
 ---
 organization_id: '2013206'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: United Way of Greater LA (Home For Good)
 organization_website: 'HTTP://WWW.HOMEFORGOODLA.ORG'
 ein: '952274801'

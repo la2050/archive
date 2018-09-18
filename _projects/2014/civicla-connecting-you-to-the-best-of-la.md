@@ -6,7 +6,7 @@ project_summary: >-
   to a more deeply engaged Los Angeles County.
 category: connect
 organization_id: '2014017'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -77,7 +77,7 @@ Whom will your project benefit? Please be specific.: >-
    NationBuilder offers easy-to-update websites, a people database and communication tools like email, text messaging and social media - all in one system. Businesses, nonprofits, governments, and politicians use NationBuilder to organize their communities and build more meaningful relationships with customers, supporters, and constituents. 
    
    Other entities such as school districts and institutions of higher education; chambers of commerce, business and professional associations; fraternal and other membership organizations; municipal, county, state, and federal government agencies and elected officials; providers of health and human services; places of worship, neighborhood groups, and volunteer mobilizing organizations will all be invited to participate in Civic LA activities.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

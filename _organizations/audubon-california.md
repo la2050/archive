@@ -1,6 +1,6 @@
 ---
 organization_id: '2014010'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Audubon California
 organization_website: 'http://debspark.audubon.org/'
 ein: '131624102'

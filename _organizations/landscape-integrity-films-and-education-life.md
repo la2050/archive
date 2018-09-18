@@ -1,6 +1,6 @@
 ---
 organization_id: '2016127'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Landscape Integrity Films and Education (LIFE)
 organization_website: www.youtube.com/channel/UC-q5gdpHqRxx5aOHWuQxVtA
 ein: ''

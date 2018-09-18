@@ -6,7 +6,7 @@ project_summary: >-
   Angeles Food Deserts by installing planters in public parkways
 category: live
 organization_id: '2018046'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -95,7 +95,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    While we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015151'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Para Los Niños
 organization_website: www.paralosninos.org
 ein: '953443276'

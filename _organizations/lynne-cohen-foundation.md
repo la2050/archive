@@ -1,6 +1,6 @@
 ---
 organization_id: '2016143'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Lynne Cohen Foundation
 organization_website: lynnecohenfoundation.org
 ein: ''

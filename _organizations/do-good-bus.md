@@ -1,6 +1,6 @@
 ---
 organization_id: '2014026'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Do Good Bus
 organization_website: dogoodbus.com
 ein: '300694127'

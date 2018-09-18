@@ -1,6 +1,6 @@
 ---
 organization_id: '2013018'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Asian American Drug Abuse Program, Inc'
 organization_website: www.aadapinc.org
 ein: '952848695'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016067'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 organization_website: DSTLArts.org
 ein: '471509200'

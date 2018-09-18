@@ -1,6 +1,6 @@
 ---
 organization_id: '2014201'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Gabriella Foundation
 organization_website: ''
 ein: '954773654'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102006'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
 project_summary: >-
   All-In Urban Summer Academy keeps Compton and Venice youth on track for the
@@ -33,7 +33,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018006'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
+  https://activation.la2050.org/learn/all-in-urban-summer-academy/all-in-urban-summer-academy.jpg
 project_video: '0'
 body_class: blueberry
 

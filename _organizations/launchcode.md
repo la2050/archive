@@ -1,6 +1,6 @@
 ---
 organization_id: '2016129'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: LaunchCode
 organization_website: www.launchcode.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015058'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Entertainment Industries Council, Inc.'
 organization_website: www.eiconline.org
 ein: '54259363'

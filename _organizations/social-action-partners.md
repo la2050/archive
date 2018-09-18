@@ -1,6 +1,6 @@
 ---
 organization_id: '2014082'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Social Action Partners
 organization_website: www.socialactionpartners.org
 ein: '271689584'

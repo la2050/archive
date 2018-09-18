@@ -1,6 +1,6 @@
 ---
 organization_id: '2013205'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: UNIQUE LA
 organization_website: 'http://www.uniqueusa.com'
 ein: '10973080'

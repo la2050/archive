@@ -1,6 +1,6 @@
 ---
 organization_id: '2016026'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: BreastfeedLA
 organization_website: breastfeedla.org
 ein: ''

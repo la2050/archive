@@ -1,6 +1,6 @@
 ---
 organization_id: '2014037'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Friends of the Los Angeles River
 organization_website: www.folar.org
 ein: '954171497'

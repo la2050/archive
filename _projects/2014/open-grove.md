@@ -6,7 +6,7 @@ project_summary: >-
   reducing pollution, supporting local farms and alternative energy.
 category: live
 organization_id: '2018072'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -87,7 +87,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The Sierra Club, Angeles Chapter, was a founding member of the Don’t Waste LA Coalition and is a long-time advocate for increasing composting through its Organics Project. In addition to expertise, the chapter has over 40,000 members who can help inform and support new infrastructure and spread the word.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

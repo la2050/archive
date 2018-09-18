@@ -1,6 +1,6 @@
 ---
 organization_id: '2018039'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Family Promise of the South Bay
 organization_website: www.TinyCitiesLA.com
 ein: '452812002'

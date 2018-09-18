@@ -6,7 +6,7 @@ project_summary: >-
   underserved schools across Los Angeles County.
 category: learn
 organization_id: '2014113'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -85,7 +85,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Education staff from ADL’s Pacific Southwest Regional Office also hold local positions on the Los Angeles Unified School District’s Commission on Human Relations, Diversity and Equity and the City Human Relations Commission’s Anti-Bullying Coalition. ADL also works closely with the Los Angeles County Human Relations Commission and other regional partners to plan local conferences including the Cyber Crime Prevention Symposium. Through its work on coalitions, commissions and similar partnerships, ADL can draw expertise and resources from law enforcement, elected officials, school officials and other human relations experts. ADL’s local partners assist in identifying schools in need of anti-bullying training and disseminating crucial information across diverse networks.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

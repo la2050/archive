@@ -6,7 +6,7 @@ project_summary: >-
   under-utilized corridors and buildings in DTLA.
 category: create
 organization_id: '2014056'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -69,7 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Zoe Aja Moore (confirmed artist)
    Zoe will direct a new adaptation of Hedda Gabler as an immersive, overnight experience. Hedda is a cry for a new radicalism – a woman in the midst of bourgeois culture struggles to break free from the repetition of history. By extending the classic play, Hedda Gabler, into an overnight event the play is adapted into a ritualistic experience that invites the audience to encounter the action of the performance through an intimate proscenium – the performers and audiences body rhythms of sleep and wakefulness align with each other, shifting the play from it’s traditional psychological profile into a united experience of the play’s universal themes. The extended duration of the play aerates the text, creating space for operatic expressions and intimate moments.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016249'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: US Green Building Council-LA
 organization_website: usgbc-la.org
 ein: ''

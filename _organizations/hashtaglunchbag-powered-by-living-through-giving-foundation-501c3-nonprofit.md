@@ -1,6 +1,6 @@
 ---
 organization_id: '2018002'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: >-
   #HashtagLunchbag - powered by Living Through Giving Foundation, 501(c)3
   nonprofit

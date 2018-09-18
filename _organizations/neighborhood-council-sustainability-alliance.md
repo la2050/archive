@@ -1,6 +1,6 @@
 ---
 organization_id: '2015143'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Neighborhood Council Sustainability Alliance
 organization_website: 'http://ncsa.nationbuilder.com/'
 ein: '475283695'

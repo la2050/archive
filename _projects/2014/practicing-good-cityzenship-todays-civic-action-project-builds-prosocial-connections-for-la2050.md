@@ -8,7 +8,7 @@ project_summary: >-
   carry values of civic engagement and connectedness into LA2050.
 category: connect
 organization_id: '2014021'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -106,7 +106,7 @@ Whom will your project benefit? Please be specific.: >-
    (1) clear communication between organizations; (2) defined roles for each partner specific to that organization’s expertise – for CRF this is providing civic engagement education via CAP, for the environmental groups, this is providing their expertise on environmental stewardship and issues specific to our region; (3) mutual respect for and understanding of each partner’s mission.
    
    These collaborations resulted from a middle school teacher and environmental advocate contacting CRF based on the strength of our reputation for balanced, impactful curricula that teach students how to respectfully engage with peers, opponents, and policymakers to effectively advocate for the issues they care about. The results of this interdisciplinary initiative have the potential to make LA2050 not only one of the most civically engaged regions in the U.S., but also to help ensure that the next generation of environmental stewards are prepared to defend our LA coastline. The future health of our water and of the many different communities that depend on this unique ecosystem depends on the civic engagement skills CAP students develop today.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

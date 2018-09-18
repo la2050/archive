@@ -1,6 +1,6 @@
 ---
 organization_id: '2015179'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Shane's Inspiration
 organization_website: www.shanesinspiration.org
 ein: '954760497'

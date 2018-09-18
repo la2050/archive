@@ -1,6 +1,6 @@
 ---
 project_id: '8102092'
-year_submitted: '2018'
+year_submitted: 2018
 title: Empowering Angelenos to build a path out of poverty and thrive with One Degree
 project_summary: >-
   Low-income and at-risk Angelenos will be able to find, access, and manage
@@ -72,7 +72,7 @@ make_la_great: >-
    One Degree’s tools give residents and clinicians tools to address social determinants of health such as homelessness, food insecurity, child care resources, job training, and more.
 category: learn
 organization_id: '2018092'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
+project_image: 'https://activation.la2050.org/live/one-degree/one-degree.jpg'
 project_video: '0'
 body_class: blueberry
 

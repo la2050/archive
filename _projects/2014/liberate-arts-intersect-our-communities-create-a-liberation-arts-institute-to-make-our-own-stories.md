@@ -8,7 +8,7 @@ project_summary: >-
   Arts among progressive organizations & to intersect communities
 category: create
 organization_id: '2014049'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3) Consistency to core vision of collective liberation and generating intersecting spaces to build our stories. Big-picture keeps us united.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

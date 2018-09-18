@@ -1,6 +1,6 @@
 ---
 organization_id: '2016078'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: First Place for Youth
 organization_website: firstplaceforyouth.org
 ein: ''

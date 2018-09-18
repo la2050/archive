@@ -1,6 +1,6 @@
 ---
 organization_id: '2013168'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: South Bay Center for Community Development
 organization_website: www.sbaycenter.com
 ein: '237360521'

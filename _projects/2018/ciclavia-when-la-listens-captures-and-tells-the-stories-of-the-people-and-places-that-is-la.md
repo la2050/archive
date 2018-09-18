@@ -1,6 +1,6 @@
 ---
 project_id: '8102021'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   CicLAvia: "When LA Listens" captures and tells the stories of the people and
   places that is LA.
@@ -54,7 +54,7 @@ make_la_great: >-
    When more than 100,000 people continue to come to a single CicLAvia event after 24 events, it tells us that Angelenos have a strong desire to belong to a larger community. CicLAvia helps create a space and place for the larger community to come together. There are no windshields to block out the ambient noise of the car’s engine. Instead, it is replaced by the ambient noise of conversations and story-telling along the route. CicLAvia’s activation - ”When LA Listens” will capture those stories, amplify them, and ensure that they will not be lost.
 category: connect
 organization_id: '2018021'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ciclavia.jpg'
+project_image: 'https://activation.la2050.org/connect/ciclavia/ciclavia.jpg'
 project_video: 'https://youtu.be/I7wQ8SasHfQ'
 body_class: tangerine
 

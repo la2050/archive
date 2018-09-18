@@ -1,6 +1,6 @@
 ---
 organization_id: '2015182'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Smart Gals Productions
 organization_website: www.smartgalsproductions.org
 ein: '202157944'

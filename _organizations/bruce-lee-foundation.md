@@ -1,6 +1,6 @@
 ---
 organization_id: '2015022'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Bruce Lee Foundation
 organization_website: www.bruceleefoundation.org
 ein: '43657544'

@@ -6,7 +6,7 @@ project_summary: >-
   in "virtual bands" with peers & pro musicians.
 category: play
 organization_id: '2014095'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -110,7 +110,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
     
    Finally, we have relationships with many socially conscious local tech firms, including Pull Creative,100 Years, Ludlow Kingsley & Arts of Olympus, who are all on board to help. Together we will create the most impactful program and platform possible.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

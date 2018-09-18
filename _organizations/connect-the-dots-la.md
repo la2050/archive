@@ -1,6 +1,6 @@
 ---
 organization_id: '2015045'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Connect the Dots LA
 organization_website: www.aridlands.org
 ein: '954589325'

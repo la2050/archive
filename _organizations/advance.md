@@ -1,6 +1,6 @@
 ---
 organization_id: '2013003'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: ADVANCE
 organization_website: ''
 ein: '461862955'

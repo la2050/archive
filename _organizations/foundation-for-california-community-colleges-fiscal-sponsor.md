@@ -1,6 +1,6 @@
 ---
 organization_id: '2014141'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Foundation for California Community Colleges (Fiscal Sponsor)
 organization_website: ''
 ein: '680412350'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014029'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Eagle Rock Yacht Club
 organization_website: theyachtclub.org
 ein: '272225420'

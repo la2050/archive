@@ -1,6 +1,6 @@
 ---
 project_id: '8102111'
-year_submitted: '2018'
+year_submitted: 2018
 title: Activate South Bay LA Trails!
 project_summary: >-
   ACTIVATE SOUTH BAY LA TRAILS! beckons residents of 5 Cities to come outside
@@ -68,7 +68,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018111'
 project_image: >-
-  https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
+  https://activation.la2050.org/play/south-bay-bicycle-coalition/south-bay-bicycle-coalition.jpg
 project_video: 'https://youtu.be/ZE0fqJVRj80'
 body_class: tangerine
 

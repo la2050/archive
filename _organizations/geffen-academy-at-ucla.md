@@ -1,6 +1,6 @@
 ---
 organization_id: '2018043'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Geffen Academy at UCLA
 organization_website: 'https://geffenacademy.ucla.edu/'
 ein: '956006143'

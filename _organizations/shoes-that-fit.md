@@ -1,6 +1,6 @@
 ---
 organization_id: '2018108'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Shoes That Fit
 organization_website: 'https://www.shoesthatfit.org/'
 ein: '954425565'

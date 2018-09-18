@@ -1,6 +1,6 @@
 ---
 organization_id: '2015082'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'HDomes.com, Shacklebrand Designs'
 organization_website: HDomes.com
 ein: '460673783'

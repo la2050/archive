@@ -1,6 +1,6 @@
 ---
 organization_id: '2015210'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'TheLab, Inc'
 organization_website: 'http://www.thel4b.com/'
 ein: '452390782'

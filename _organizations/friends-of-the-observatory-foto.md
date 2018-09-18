@@ -1,6 +1,6 @@
 ---
 organization_id: '2014142'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Friends Of The Observatory (FOTO)
 organization_website: ''
 ein: '953374645'

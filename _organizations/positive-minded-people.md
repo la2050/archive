@@ -1,6 +1,6 @@
 ---
 organization_id: '2014071'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Positive Minded People
 organization_website: www.positivemindedpeople.com
 ein: '471474958'

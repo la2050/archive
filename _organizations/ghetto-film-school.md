@@ -1,6 +1,6 @@
 ---
 organization_id: '2014040'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Ghetto Film School
 organization_website: www.ghettofilm.org
 ein: '134127229'

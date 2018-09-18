@@ -1,6 +1,6 @@
 ---
 organization_id: '2016253'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Westside Urban Forum
 organization_website: www.westsideurbanforum.com
 ein: ''

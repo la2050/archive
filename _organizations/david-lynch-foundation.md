@@ -1,6 +1,6 @@
 ---
 organization_id: '2013050'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: David Lynch Foundation
 organization_website: www.davidlynchfoundation.org
 ein: '830436453'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102041'
-year_submitted: '2018'
+year_submitted: 2018
 title: Make LA the first city where everyone can live free from abuse
 project_summary: >-
   FreeFrom is working to revolutionize LA’s response to the epidemic of
@@ -43,7 +43,7 @@ make_la_great: >-
    With the support of LA2050, FreeFrom wants to expand our program to serve survivors in every domestic violence shelter in LA County and build a city in which shelters are not the only solution but rather a stepping stone to safe lives centered around abundance, community and healing. This the Los Angeles we could be. This is a Los Angeles that everyone can live in.
 category: live
 organization_id: '2018041'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freefrom.jpg'
+project_image: 'https://activation.la2050.org/live/freefrom/freefrom.jpg'
 project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
 body_class: lime
 

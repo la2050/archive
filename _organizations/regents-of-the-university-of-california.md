@@ -1,6 +1,6 @@
 ---
 organization_id: '2016181'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Regents of the University of California
 organization_website: artglobalhealth.org
 ein: ''

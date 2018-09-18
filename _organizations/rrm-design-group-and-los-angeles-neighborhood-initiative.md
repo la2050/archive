@@ -1,6 +1,6 @@
 ---
 organization_id: '2015171'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: RRM Design Group and Los Angeles Neighborhood Initiative
 organization_website: www.rrmdesign.com
 ein: '952923783'

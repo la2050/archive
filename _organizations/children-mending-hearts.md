@@ -1,6 +1,6 @@
 ---
 organization_id: '2013032'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Children Mending Hearts
 organization_website: 'http://www.childrenmendinghearts.org'
 ein: '264131176'

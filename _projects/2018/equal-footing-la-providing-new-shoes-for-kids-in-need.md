@@ -1,6 +1,6 @@
 ---
 project_id: '8102108'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Equal Footing LA: Providing New Shoes For Kids In Need'
 project_summary: >-
   Too many kids in LA are missing school because they don’t have shoes—or being
@@ -34,7 +34,7 @@ make_la_great: >-
    Unfortunately, the inner city of LA is so large and has such high poverty rates that it does not have the number of local support groups we find in other communities. Yet Southern California has an enormous concentration of wealth and social conscience. Being based in Southern California, our number one goal is to increase the number of children we reach in Los Angeles so that we create a more thriving community now and for future generations. Together, we can inspire the next generation of Angelinos through the simple gift of a new pair of shoes.
 category: play
 organization_id: '2018108'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg'
+project_image: 'https://activation.la2050.org/live/shoes-that-fit/shoes-that-fit.jpg'
 project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
 body_class: strawberry
 

@@ -6,7 +6,7 @@ project_summary: >-
   games, workshops and spectacles!
 category: learn
 organization_id: '2018128'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -70,7 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Two Bit Circus in currently working with the Extension Program at the University of California, San Diego to create the first-ever STEAM certificate program for K-12 teachers. This was announced as a CGI commitment (http://www.prweb.com/releases/2014/07/prweb12011117.htm).
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

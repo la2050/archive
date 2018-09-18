@@ -1,6 +1,6 @@
 ---
 organization_id: '2015220'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice

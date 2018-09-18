@@ -1,6 +1,6 @@
 ---
 organization_id: '2015121'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Community Action Network
 organization_website: www.cangress.org
 ein: '20661629'

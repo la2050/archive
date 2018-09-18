@@ -1,6 +1,6 @@
 ---
 organization_id: '2015086'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Hollywood Curling
 organization_website: www.hollywoodcurling.org
 ein: '262477682'

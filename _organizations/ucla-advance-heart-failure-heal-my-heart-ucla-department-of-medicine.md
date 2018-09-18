@@ -1,6 +1,6 @@
 ---
 organization_id: '2014216'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 organization_website: ''
 ein: '956006143'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013142'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Neighborhood Youth Association (NYA)
 organization_website: www.nyayouth.org
 ein: '951691297'

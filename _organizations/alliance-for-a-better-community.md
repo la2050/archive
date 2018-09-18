@@ -1,6 +1,6 @@
 ---
 organization_id: '2013006'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Alliance for a Better Community
 organization_website: 'http://www.afabc.org'
 ein: '311760082'

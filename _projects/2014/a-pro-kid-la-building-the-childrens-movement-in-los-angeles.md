@@ -6,7 +6,7 @@ project_summary: >-
   to influence state & local policymaking in their favor.
 category: connect
 organization_id: '2018019'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -84,7 +84,7 @@ Whom will your project benefit? Please be specific.: >-
    Our 200+ cohort of current LA Movement members demonstrate this diversity, and also show how powerful the Movement can be at scale. Current members range from major organizations such as 211 LA, YMCA Metro LA, KIPP LA, the LA Chamber of Commerce, LAUP and Paros Los Ninos to organizations such as Vision to Learn, Junior League of Los Angeles, Los Angeles United Methodist Urban Foundation, LA Best Babies Network, Girls Club of Los Angeles, Coalition for Human Immigrant Rights of Los Angeles, Los Angeles African American Women Political Action Committee, Acacia Blue Asset Management, National Council of Jewish Women of Los Angeles, Un Mundo de Amigos Preschool, Women’s Lawyers Association of Los Angeles, Foster Care Counts, Los Angeles Public Library, Gift of Life Resource Center, InnerCity Struggle, Trinity Baptist Children’s Center, Venice Family Clinic, Westwood Neighborhood Council, Pacific Asian Consortium in Employment, Compton Youth Activities League, League, BOOST Collaborative, Westside Kinship Support Services, Oak Grove Center, Hacienda La Puente USD, United Friends of the Children, CASA of LA, LA School Report, Asian Youth Center, and many others (please see www.childrennow.org/join for complete list of 900+ current members). 
    
    Each of these members brings added benefit to the project. This project is all about connecting the diverse support that already exists for kids in LA. Every new member that joins helps further the goal of making LA the most connected place for kids in the country.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

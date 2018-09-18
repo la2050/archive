@@ -1,6 +1,6 @@
 ---
 organization_id: '2013029'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: CARECEN (Central American Resource Center)
 organization_website: 'http://www.carecen-la.org/'
 ein: '953867724'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102023'
-year_submitted: '2018'
+year_submitted: 2018
 title: IN House - Collaborative Affordable Housing Design
 project_summary: >-
   IN House is a collaboration between City Fabrick, community partners,
@@ -39,7 +39,7 @@ make_la_great: >-
    A series engaging workshops with residents and community partners will facilitate collaboration for each proposal through conceptual design. This process will continue through until initial submittal to the approving jurisdiction, where the local government will likely lead the design’s refinement for their approval. With the substantial groundwork of participation, the intention will be for community partners and local residents to remain actively engaged along with the design and development team.
 category: live
 organization_id: '2018023'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/city-fabrick.jpg'
+project_image: 'https://activation.la2050.org/live/city-fabrick/city-fabrick.jpg'
 project_video: 'https://youtu.be/dUZCmEGdjvM'
 body_class: lime
 

@@ -1,6 +1,6 @@
 ---
 project_id: '8102069'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'LOLA: Demystifying local politics for young, busy residents in LA'
 project_summary: >-
   LA politics is dry, boring, and confusing AF, but it doesn’t have to be. LOLA
@@ -27,7 +27,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018069'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/lola-parent-company-amir-erica-inc.jpg
+  https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/lola-parent-company-amir-erica-inc.jpg
 project_video: '0'
 body_class: tangerine
 

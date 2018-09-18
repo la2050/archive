@@ -1,6 +1,6 @@
 ---
 project_id: '8102068'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Invest in Parents & Connect Families Across Socioeconomic Barriers to Break
   the Cycle of Poverty
@@ -38,8 +38,7 @@ make_la_great: >-
    Due to the wealth disparity, what we have accomplished at LIFT-LA is a microcosm of what is possible for the rest of the nation. If bridged social capital is possible in LA, it is possible anywhere and LIFT is leading the way in creating resilient communities.
 category: live
 organization_id: '2018068'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg
+project_image: 'https://activation.la2050.org/live/lift-los-angeles/lift-los-angeles.jpg'
 project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
 body_class: lime
 

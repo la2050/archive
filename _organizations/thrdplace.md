@@ -1,6 +1,6 @@
 ---
 organization_id: '2013198'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: ThrdPlace
 organization_website: 'http://www.thrdPlace.com'
 ein: '275115367'

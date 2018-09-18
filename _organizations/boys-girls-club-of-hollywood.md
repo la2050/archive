@@ -1,6 +1,6 @@
 ---
 organization_id: '2014118'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Boys & Girls Club of Hollywood
 organization_website: ''
 ein: '951775142'

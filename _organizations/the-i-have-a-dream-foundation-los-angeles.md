@@ -1,6 +1,6 @@
 ---
 organization_id: '2013182'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The "I Have a Dream" Foundation - Los Angeles
 organization_website: www.ihadla.org
 ein: '954089758'

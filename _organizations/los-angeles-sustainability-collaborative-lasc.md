@@ -1,6 +1,6 @@
 ---
 organization_id: '2014171'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Los Angeles Sustainability Collaborative (LASC)
 organization_website: ''
 ein: '10967139'

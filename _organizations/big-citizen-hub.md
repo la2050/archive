@@ -1,6 +1,6 @@
 ---
 organization_id: '2018008'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Big Citizen HUB
 organization_website: www.investinyouthco.com
 ein: '954302067'

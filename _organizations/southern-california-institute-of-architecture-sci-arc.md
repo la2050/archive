@@ -1,6 +1,6 @@
 ---
 organization_id: '2014191'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Southern California Institute of Architecture (SCI-Arc)
 organization_website: ''
 ein: '952789388'

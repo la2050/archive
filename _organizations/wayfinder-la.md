@@ -1,6 +1,6 @@
 ---
 organization_id: '2013216'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Wayfinder LA
 organization_website: ''
 ein: n/a

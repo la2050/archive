@@ -1,6 +1,6 @@
 ---
 organization_id: '2013201'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: UCLA Dept. of Architecture and Urban Design
 organization_website: 'http://www.aud.ucla.edu'
 ein: '956006143'

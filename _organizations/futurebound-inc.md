@@ -1,6 +1,6 @@
 ---
 organization_id: '2014143'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'FutureBound, Inc.'
 organization_website: ''
 ein: '464431156'

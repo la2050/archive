@@ -1,6 +1,6 @@
 ---
 organization_id: '2013215'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Walking Shield, Inc.'
 organization_website: 'http://www.walkingshield.org/'
 ein: '330209754'

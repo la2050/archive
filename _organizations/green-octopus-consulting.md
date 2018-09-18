@@ -1,6 +1,6 @@
 ---
 organization_id: '2013085'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Green Octopus Consulting
 organization_website: 'http://www.greenoctopus.net/'
 ein: '270088781'

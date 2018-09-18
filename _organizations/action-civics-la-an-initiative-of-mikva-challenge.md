@@ -1,6 +1,6 @@
 ---
 organization_id: '2018005'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Action Civics LA, an initiative of Mikva Challenge'
 organization_website: 'https://www.mikvachallenge.org/action-civics-la/,https://www.procon.org'
 ein: '522033353'

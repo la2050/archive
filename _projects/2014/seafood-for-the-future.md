@@ -6,7 +6,7 @@ project_summary: >-
   designers, developers, and policymakers to build the future of housing.
 category: live
 organization_id: '2014205'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The three factors critical to a successful “Mobile Forum” collaboration-partnership are: (1) a distributed and representative audience, (2) connection to decision-makers, and (3) promotion.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

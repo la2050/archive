@@ -1,6 +1,6 @@
 ---
 organization_id: '2015036'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: ClassNube (Nube means Cloud in Spanish)
 organization_website: www.classnube.com
 ein: '474586012'

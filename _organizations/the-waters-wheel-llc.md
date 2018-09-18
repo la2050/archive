@@ -1,6 +1,6 @@
 ---
 organization_id: '2013197'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'The Waters Wheel, LLC'
 organization_website: 'http://www.healthiscity.com'
 ein: '800831358'

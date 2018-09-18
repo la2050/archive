@@ -1,6 +1,6 @@
 ---
 organization_id: '2015128'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
   c/o Mayor's Fund for Los Angeles

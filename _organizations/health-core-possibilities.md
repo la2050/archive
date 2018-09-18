@@ -1,6 +1,6 @@
 ---
 organization_id: '2018052'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Health Core Possibilities
 organization_website: www.healthcore.biz
 ein: '300538676'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014058'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Millennial Magazine: Apps4LA'
 organization_website: 'http://millennialmagazine.com'
 ein: '613480924'

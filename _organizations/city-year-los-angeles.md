@@ -1,6 +1,6 @@
 ---
 organization_id: '2018027'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: City Year Los Angeles
 organization_website: 'https://www.cityyear.org/losangeles'
 ein: '222882549'

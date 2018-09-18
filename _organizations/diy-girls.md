@@ -1,6 +1,6 @@
 ---
 organization_id: '2015049'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: DIY Girls
 organization_website: www.diygirls.org
 ein: '270575032'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013176'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: >-
   STRIVERS.LA: from New Economy Campaigns and the LA Community College
   Foundation

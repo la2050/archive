@@ -1,6 +1,6 @@
 ---
 organization_id: '2014138'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Families In Schools
 organization_website: ''
 ein: '954818894'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013012'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: API Equality-LA
 organization_website: www.apiequalityla.org
 ein: '953854152'

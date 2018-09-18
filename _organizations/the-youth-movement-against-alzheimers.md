@@ -1,6 +1,6 @@
 ---
 organization_id: '2018124'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: The Youth Movement Against Alzheimer’s
 organization_website: 'http://www.theyouthmovement.org/,https://youthcaregiving.org/'
 ein: '208083398'

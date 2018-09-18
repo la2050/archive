@@ -1,6 +1,6 @@
 ---
 organization_id: '2013027'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: California Community Foundation (CCF)
 organization_website: www.calfund.org/bloom
 ein: '953510055'

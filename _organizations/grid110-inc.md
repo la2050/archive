@@ -1,6 +1,6 @@
 ---
 organization_id: '2018049'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Grid110, Inc.'
 organization_website: 'http://www.grid110.org'
 ein: '474318779'

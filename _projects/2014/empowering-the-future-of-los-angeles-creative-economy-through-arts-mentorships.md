@@ -6,7 +6,7 @@ project_summary: >-
   offering art workshops & establishing our own art gallery.
 category: learn
 organization_id: '2016067'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -98,7 +98,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. A centralized location for regular student art shows and performances
    3. Ability to hire staff that can fully dedicate time and resources for the management and implementation of all our programs and services
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

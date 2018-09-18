@@ -6,7 +6,7 @@ title: >-
 project_summary: '1'
 category: create
 organization_id: '2018093'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/OpportunityFund.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -78,7 +78,7 @@ What will you do to implement this idea/project?: >-
    In addition to our unique collaboration with local food truck manufacturers, Opportunity Fund also partners with local bank branches, business services providers, and community organizations to identify small business owners who need access to financing.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

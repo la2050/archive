@@ -1,6 +1,6 @@
 ---
 organization_id: '2015209'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 organization_website: www.venicepopuppark.com
 ein: '455593632'

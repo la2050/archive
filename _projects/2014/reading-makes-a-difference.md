@@ -6,7 +6,7 @@ project_summary: >-
   read-a-thons to give uplifting books & dolls to kids in hospitals.
 category: learn
 organization_id: '2016223'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -84,7 +84,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Hospital desire for Jester books and dolls to benefit patients.
    “The book is a perfect fit to our literacy program,” reports CHLA & others.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

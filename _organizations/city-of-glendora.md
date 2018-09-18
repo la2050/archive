@@ -1,6 +1,6 @@
 ---
 organization_id: '2015033'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: City of Glendora
 organization_website: www.cityofglendora.org
 ein: '956000715'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013107'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: KIPP LA Schools
 organization_website: 'http://www.kippla.org'
 ein: '261607268'

@@ -6,7 +6,7 @@ project_summary: >-
   homeless youth, systemic change, and develops youth leadership.
 category: live
 organization_id: '2014159'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -81,7 +81,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    9. Boyle Heights Technology Youth Center/Youth Opportunity Movement
    10. Brothers, Sons, Selves Collaborative for Boys & Young Men of Color
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

@@ -6,7 +6,7 @@ project_summary: >-
   policy agenda driven by unemployed and underemployed youth.
 category: learn
 organization_id: '2014229'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   conversation and stakeholder engagement, as we know that it is important to
   include them in the conversation.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

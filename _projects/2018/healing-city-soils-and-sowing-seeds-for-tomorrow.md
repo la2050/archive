@@ -1,6 +1,6 @@
 ---
 project_id: '8102099'
-year_submitted: '2018'
+year_submitted: 2018
 title: Healing City Soils and Sowing Seeds for Tomorrow
 project_summary: >-
   We are activating the regenerative power of our earth mother to heal broken
@@ -37,7 +37,7 @@ make_la_great: >-
 category: create
 organization_id: '2018099'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
+  https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/proyecto-jardin-a-project-of-hunger-action-la.jpg
 project_video: 'https://www.facebook.com/269671146378710/videos/476537755692047/'
 body_class: banana
 

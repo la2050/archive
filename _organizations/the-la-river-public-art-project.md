@@ -1,6 +1,6 @@
 ---
 organization_id: '2015202'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The LA River Public Art Project
 organization_website: 'http://losangelesriverpublicartproject.org/'
 ein: '471417650'

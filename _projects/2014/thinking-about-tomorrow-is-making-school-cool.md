@@ -4,7 +4,7 @@ title: Thinking about Tomorrow is making School Cool!
 project_summary: '1'
 category: learn
 organization_id: '2015211'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -73,7 +73,7 @@ What will you do to implement this idea/project?: >-
    Above all, one of the most critical factors to the success of our organization's message is the ability to reach as many members of our community as possible. It is often difficult to offset the costs of promotional advertising and we are grateful to our sponsors who provide opportunities to help cover the costs of such materials.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

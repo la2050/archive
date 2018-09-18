@@ -1,6 +1,6 @@
 ---
 organization_id: '2015181'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Siqueiros Foundation of the Arts
 organization_website: 'siqueirosfoundatio.wix.com/sfota#!join/cihc'
 ein: '55777888'

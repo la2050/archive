@@ -1,6 +1,6 @@
 ---
 organization_id: '2018055'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Investing in Place
 organization_website: www.investinginplace.org
 ein: Community Partners

@@ -6,7 +6,7 @@ project_summary: >-
   their story of self, to the story of us, to the story of now.
 category: connect
 organization_id: '2016031'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/WeThePeople.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -121,7 +121,7 @@ Whom will your project benefit? Please be specific.: >-
    1)Highly motivated membership
    2)Experienced with advocacy and leadership training
    3)Often ignored and misunderstood community
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

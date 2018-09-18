@@ -8,7 +8,7 @@ project_summary: >-
   preschool teachers for under-served communities in Los Angeles.
 category: learn
 organization_id: '2016209'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -77,7 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3. St. Anne’s, one of our ECE partner schools, serves some of the most abused, abandoned, neglected, and otherwise challenged young women and children in Los Angeles County. St. Anne’s offers an array of comprehensive programs including but not limited to, transitional housing, child care, family literacy, and educational and vocational preparation. All of their programs strive to empower and educate by providing the highest level of care and resources so as to help young women and children recognize their own value and potential, giving them the hope and the tools needed for a better future.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

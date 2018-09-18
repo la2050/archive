@@ -1,6 +1,6 @@
 ---
 organization_id: '2014130'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: College Summit Southern California
 organization_website: ''
 ein: '522007028'

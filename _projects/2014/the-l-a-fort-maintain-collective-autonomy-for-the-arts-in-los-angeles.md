@@ -6,7 +6,7 @@ project_summary: >-
   emerged in participatory environments that include installations
 category: create
 organization_id: '2014092'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -62,7 +62,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Mister Psychedelia - MP is an event, design and sound team focusing their productions production in alternative, community music & arts events and festivals. They help produce all in house events at the L.A. Fort as well as provide education on producing event. They hold quarterly sound engineering workshops open to the public and members of the L.A. Fort.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

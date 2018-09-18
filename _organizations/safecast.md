@@ -1,6 +1,6 @@
 ---
 organization_id: '2014190'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Safecast
 organization_website: ''
 ein: '770462154'

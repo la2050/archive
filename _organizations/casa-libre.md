@@ -1,6 +1,6 @@
 ---
 organization_id: '2015026'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Casa Libre
 organization_website: www.casa-libre.org
 ein: '954609414'

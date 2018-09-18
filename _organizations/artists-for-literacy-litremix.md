@@ -1,6 +1,6 @@
 ---
 organization_id: '2015015'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Artists for Literacy / LitRemix
 organization_website: litremix.com
 ein: '943390795'

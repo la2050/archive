@@ -1,6 +1,6 @@
 ---
 organization_id: '2013028'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: California Greenworks
 organization_website: www.californiagreenworks.org
 ein: '10574486'

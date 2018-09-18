@@ -1,6 +1,6 @@
 ---
 organization_id: '2015153'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Pass Tha Ball
 organization_website: www.passthaball.com
 ein: '463878728'

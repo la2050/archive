@@ -1,6 +1,6 @@
 ---
 organization_id: '2015098'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Julie Rico DBA as O Fine Art
 organization_website: www.juliericogallery.com
 ein: 472268086‏

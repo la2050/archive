@@ -1,6 +1,6 @@
 ---
 organization_id: '2016125'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: LA Voice
 organization_website: www.lavoice.org
 ein: '954781974'

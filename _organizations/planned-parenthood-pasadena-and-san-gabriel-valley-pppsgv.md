@@ -1,6 +1,6 @@
 ---
 organization_id: '2016173'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 organization_website: www.pppsgv.org
 ein: ''

@@ -6,7 +6,7 @@ project_summary: >-
   as the Creative Capital of California and the Nation.
 category: create
 organization_id: '2014063'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -103,7 +103,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    These encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

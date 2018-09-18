@@ -1,6 +1,6 @@
 ---
 organization_id: '2014096'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Project for The Imagined Futures
 organization_website: 'http://www.theimaginedfutures.org'
 ein: '471442056'

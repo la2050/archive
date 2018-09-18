@@ -1,6 +1,6 @@
 ---
 organization_id: '2018015'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Center for Council, a project of Community Partners'
 organization_website: www.centerforcouncil.org
 ein: '954302067'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018032'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Crayon Collection
 organization_website: www.crayoncollection.org
 ein: '463314343'

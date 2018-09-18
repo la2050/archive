@@ -1,6 +1,6 @@
 ---
 organization_id: '2015197'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The Center of Medical Multimedia Education and Technology (COMMET)
 organization_website: www.COMMET.org
 ein: '954522806'

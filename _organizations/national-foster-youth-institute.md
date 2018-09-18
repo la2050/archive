@@ -1,6 +1,6 @@
 ---
 organization_id: '2016156'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: National Foster Youth Institute
 organization_website: www.nfyi.org
 ein: ''

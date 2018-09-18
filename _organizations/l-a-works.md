@@ -1,6 +1,6 @@
 ---
 organization_id: '2016120'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: L.A. Works
 organization_website: laworks.com
 ein: '954329727'

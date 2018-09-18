@@ -6,7 +6,7 @@ project_summary: >-
   resource mapping/connecting people to local art experiences.
 category: connect
 organization_id: '2016126'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ArtsLANDed.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -103,7 +103,7 @@ Whom will your project benefit? Please be specific.: >-
    LAND has not yet collaborated with LAUSD and is very excited about the prospect of doing so. This collaboration is not confirmed, though we feel that the STEAM approach to teaching, where the arts are built in to lessons, shaping connections between concepts and encouraging students to think creatively, would allow for integration of this program seamlessly. STEAM schools would be part of this pilot program, and thereafter, we would expand to other LAUSD schools. 
    
    Three factors that are critical to the success of these collaborations are: 1.Institution’s willingness to participate in the program, in addition to other educational programs in place 2. Athletics’ ability to aggregate all relevant arts listings 3. LAUSD’s openness to integrating this program into existing curricula
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015137'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: MentorMint
 organization_website: www.MentorMint.com
 ein: '473621424'

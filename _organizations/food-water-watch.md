@@ -1,6 +1,6 @@
 ---
 organization_id: '2016079'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Food & Water Watch
 organization_website: foodandwaterwatch.org
 ein: ''

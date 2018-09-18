@@ -6,7 +6,7 @@ project_summary: >-
   watershed, the Pacific FlyWay and make the ride an adventure.
 category: connect
 organization_id: '2014101'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -81,7 +81,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Critical factors
    In our past collaboration, success has depended on: 1) strong public outreach – on the ground level at the schools as well as at agencies; 2) clear understanding of timeline and abilities of students; 3) the ability to share our strengths and leverage partnerships and resources for students and our work.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

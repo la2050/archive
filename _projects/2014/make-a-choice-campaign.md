@@ -6,7 +6,7 @@ project_summary: >-
   prevention & awareness campaign utilizing a multi-platform strategy
 category: learn
 organization_id: '2014184'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

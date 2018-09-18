@@ -1,6 +1,6 @@
 ---
 project_id: '8102114'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Surf Bus and partners present: Splash Force LA, a comprehensive guide to beach
   access and ocean play
@@ -53,8 +53,7 @@ make_la_great: >-
    5. Perfect attendance earns eligibility for end-of-year trips: 2 voyages to Catalina for 30 people on each ship and/or 1 surf camping trip for 20 groms.
 category: connect
 organization_id: '2018114'
-project_image: >-
-  https://activation.la2050.org/assets/images/play/2048-wide/surf-bus-foundation.jpg
+project_image: 'https://activation.la2050.org/play/surf-bus-foundation/surf-bus-foundation.jpg'
 project_video: 'https://vimeo.com/262573193'
 body_class: tangerine
 

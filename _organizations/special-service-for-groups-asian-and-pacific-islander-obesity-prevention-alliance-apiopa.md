@@ -1,6 +1,6 @@
 ---
 organization_id: '2013170'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: >-
   Special Service for Groups/Asian and Pacific Islander Obesity Prevention
   Alliance (APIOPA)

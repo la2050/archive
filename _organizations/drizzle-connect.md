@@ -1,6 +1,6 @@
 ---
 organization_id: '2016066'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Drizzle Connect
 organization_website: blog.getdrizzle.com/la2050-challenge
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013075'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Friends, the Foundation of the California African American Museum'
 organization_website: www.caamuseum.org
 ein: '954676760'

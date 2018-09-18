@@ -1,6 +1,6 @@
 ---
 organization_id: '2018139'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: World Harvest Charities & Family Services
 organization_website: 'http://www.worldharvestfoodbank.org'
 ein: '392064653'

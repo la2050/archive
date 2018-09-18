@@ -1,6 +1,6 @@
 ---
 organization_id: '2013026'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: California Calls
 organization_website: 'http://cacalls.org'
 ein: '954635737'

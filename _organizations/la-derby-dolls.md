@@ -1,6 +1,6 @@
 ---
 organization_id: '2016121'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: LA Derby Dolls
 organization_website: derbydolls.com
 ein: ''

@@ -6,7 +6,7 @@ project_summary: >-
   of Los Angeles!
 category: connect
 organization_id: '2014053'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -88,7 +88,7 @@ Whom will your project benefit? Please be specific.: >-
    3) getting the word out so that enthusiastic students will apply. 
    
    Fortunately, Libros Schmibros is already connected to every named partner either through teaching experience, current staff, past programs, or agreements and relationships with Libros advisory committee members.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

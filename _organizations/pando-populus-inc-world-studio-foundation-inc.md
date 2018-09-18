@@ -1,6 +1,6 @@
 ---
 organization_id: '2015150'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 organization_website: 'http://www.PandoPopulus.com'
 ein: '472745964'

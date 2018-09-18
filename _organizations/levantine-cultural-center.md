@@ -1,6 +1,6 @@
 ---
 organization_id: '2014052'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Levantine Cultural Center
 organization_website: 'http://levantinecenter.org'
 ein: '912156607'

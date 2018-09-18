@@ -1,6 +1,6 @@
 ---
 organization_id: '2016167'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Pedagogics Coaching Group
 organization_website: pedagogicscg.com
 ein: ''

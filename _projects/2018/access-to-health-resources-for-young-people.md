@@ -1,6 +1,6 @@
 ---
 project_id: '8102094'
-year_submitted: '2018'
+year_submitted: 2018
 title: Access to Health Resources for Young People
 project_summary: >-
   We seek to empower young people with the knowledge, skills, and resources to
@@ -29,7 +29,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018094'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
+  https://activation.la2050.org/live/peer-health-exchange/peer-health-exchange.jpg
 project_video: '0'
 body_class: blueberry
 

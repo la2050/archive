@@ -1,6 +1,6 @@
 ---
 organization_id: '2018028'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Civic Innovation Lab
 organization_website: civicinnovationlab.la
 ein: '954116679'

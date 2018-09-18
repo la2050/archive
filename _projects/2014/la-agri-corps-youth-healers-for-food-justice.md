@@ -6,7 +6,7 @@ project_summary: >-
   from crashes and unlock the health benefits of safer streets.
 category: live
 organization_id: '2014193'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Factors that are critical to the success of the proposed collaboration include: (1) the ability of community members to learn about road safety and opportunities to help shape and advocate for Vision Zero; (2) the capacity of the project to inspire participants in workshops and walks to advocate for safer streets; and (3) the ability of advocacy to influence decision makers to adopt Vision Zero policies. We believe that the Vision Zero Los Angeles team can provide synergy through community-based journalism and outreach, community-engaged advocacy and community-led visioning for safer streets in order to achieve project goals.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

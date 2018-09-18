@@ -1,6 +1,6 @@
 ---
 organization_id: '2015108'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: LA Makerspace
 organization_website: www.lamakerspace.com
 ein: '954116679'

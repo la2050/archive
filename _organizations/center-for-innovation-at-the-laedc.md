@@ -1,6 +1,6 @@
 ---
 organization_id: '2015028'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Center for Innovation at the LAEDC
 organization_website: www.innovate.la
 ein: '953643339'

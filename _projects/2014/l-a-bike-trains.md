@@ -6,7 +6,7 @@ project_summary: >-
   - making biking a fun, safe and reliable way to get to work.
 category: connect
 organization_id: '2014046'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -101,7 +101,7 @@ Whom will your project benefit? Please be specific.: |-
    These organizational collaborators range from organizations that we can rely on to help us promote our work to their audiences, to those that provide more in-depth assistance with knowledge or professional connections to being able to support us financially or with ‘in-kind’ donations. These are the organizations that are our “first tier” whenever we need anything or just want to explore possibilities.
     
    The primary collaborations that we want to develop are with university bicycle coalitions. A successful test run and development of 2 new routes going to UCLA was launched during bike week May 2014. We now want to deepen that relationship so that more staff and students will utilize L.A. Bike Trains as their transportation resource. L.A. Bike Trains would like UCLA to support those routes via funding, promotion and technical assistance – such as data collection and research. With a UCLA collaboration in process, it can serve as a template for additional collaborations with other schools, such as USC, but also large employers from the city of LA to Sony Entertainment.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

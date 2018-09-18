@@ -1,6 +1,6 @@
 ---
 organization_id: '2014156'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'IN THE CITY, INC.'
 organization_website: ''
 ein: '450574948'

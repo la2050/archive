@@ -1,6 +1,6 @@
 ---
 organization_id: '2013204'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Union de Vecinos
 organization_website: www.uniondevecinos.net
 ein: '522076978'

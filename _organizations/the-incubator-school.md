@@ -1,6 +1,6 @@
 ---
 organization_id: '2015200'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The Incubator School
 organization_website: www.incubatorschool.org
 ein: '465274049'

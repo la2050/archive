@@ -1,6 +1,6 @@
 ---
 organization_id: '2016124'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: LA Promise Fund
 organization_website: lapromisefund.org
 ein: ''

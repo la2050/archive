@@ -1,6 +1,6 @@
 ---
 organization_id: '2016030'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: California Institute of Technology
 organization_website: www.caltech.edu
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014229'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Young Invincibles
 organization_website: ''
 ein: '520888113'

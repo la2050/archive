@@ -1,6 +1,6 @@
 ---
 organization_id: '2018105'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Roots & Wings
 organization_website: rootsnwings.org
 ein: '821894269'

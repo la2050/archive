@@ -1,6 +1,6 @@
 ---
 organization_id: '2014016'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: City of Santa Monica
 organization_website: www.smgov.net/wellbeing
 ein: '956000790'

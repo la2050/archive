@@ -1,6 +1,6 @@
 ---
 project_id: '8102113'
-year_submitted: '2018'
+year_submitted: 2018
 title: Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
 project_summary: >-
   We'll deliver 1 million pounds of organic produce, 2,000 hours of workshops,
@@ -81,7 +81,7 @@ make_la_great: >-
    Track instances of reversed or improved conditions of disease amongst those it serves.
 category: connect
 organization_id: '2018113'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
+project_image: 'https://activation.la2050.org/live/süprseed/süprseed.jpg'
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
 body_class: tangerine
 

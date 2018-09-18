@@ -1,6 +1,6 @@
 ---
 organization_id: '2016204'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: T&L Foundation for Child Care Information
 organization_website: www.tlfcci.org
 ein: ''

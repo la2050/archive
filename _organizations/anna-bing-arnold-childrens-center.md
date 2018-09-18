@@ -1,6 +1,6 @@
 ---
 organization_id: '2016010'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Anna Bing Arnold Children's Center
 organization_website: calstatela.edu/univ/abacc
 ein: ''

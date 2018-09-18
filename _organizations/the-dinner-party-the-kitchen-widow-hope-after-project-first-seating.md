@@ -1,6 +1,6 @@
 ---
 organization_id: '2015199'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 organization_website: 'www.thedinnerparty.org, www.thekitchenwidow.com'
 ein: '954302067'

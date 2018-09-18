@@ -1,6 +1,6 @@
 ---
 organization_id: '2016151'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Muscular Dystrophy Association
 organization_website: mda.org
 ein: ''

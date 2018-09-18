@@ -1,6 +1,6 @@
 ---
 organization_id: '2015177'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: SeePolitical
 organization_website: www.SeePolitical.com
 ein: '452742032'

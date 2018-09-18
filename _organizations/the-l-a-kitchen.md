@@ -1,6 +1,6 @@
 ---
 organization_id: '2013190'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The L.A. Kitchen
 organization_website: www.lakitchen.org
 ein: '461639779'

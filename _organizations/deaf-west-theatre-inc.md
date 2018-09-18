@@ -1,6 +1,6 @@
 ---
 organization_id: '2014025'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Deaf West Theatre, Inc.'
 organization_website: 'http://www.deafwest.org'
 ein: '954315054'

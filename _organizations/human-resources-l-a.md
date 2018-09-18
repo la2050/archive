@@ -1,6 +1,6 @@
 ---
 organization_id: '2013093'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Human Resources L.A.
 organization_website: 'http://humanresourcesla.com/'
 ein: '273429917'

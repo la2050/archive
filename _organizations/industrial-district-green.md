@@ -1,6 +1,6 @@
 ---
 organization_id: '2013096'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Industrial District Green
 organization_website: 'http://www.scribd.com/doc/114301906/IDG-Preview'
 ein: '460946310'

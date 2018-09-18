@@ -1,6 +1,6 @@
 ---
 organization_id: '2014087'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Bitch Pack
 organization_website: thebitchpack.com
 ein: '954445418'

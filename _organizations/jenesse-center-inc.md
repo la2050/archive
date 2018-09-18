@@ -1,6 +1,6 @@
 ---
 organization_id: '2016113'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'Jenesse Center, Inc.'
 organization_website: www.jenesse.org
 ein: '953652529'

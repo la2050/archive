@@ -1,6 +1,6 @@
 ---
 organization_id: '2013037'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'CitySourced, Inc.'
 organization_website: 'http://www.citysourced.com'
 ein: '271272815'

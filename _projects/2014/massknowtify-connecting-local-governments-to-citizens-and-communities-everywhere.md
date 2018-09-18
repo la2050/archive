@@ -8,7 +8,7 @@ project_summary: >-
   connected to information impacting their daily quality of life
 category: connect
 organization_id: '2014057'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -98,7 +98,7 @@ Whom will your project benefit? Please be specific.: >-
    We have also assembled a group of key advisors that include former public safety officials and public communications experts, and we will continue to rely on our network of partner agencies and advisors to enable MassKnowtify to serve the needs of all Los Angeles residents. 
    
    To better connect with citizens and communities throughout Los Angeles, we will rely on networking with a broad spectrum of groups, including community based organizations, neighborhood councils and associations, local elected officials, and other civic technology providers.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

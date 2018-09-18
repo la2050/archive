@@ -1,6 +1,6 @@
 ---
 organization_id: '2016261'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Youth Business Alliance
 organization_website: www.youthbizalliance.com
 ein: '462067337'

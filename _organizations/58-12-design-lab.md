@@ -1,6 +1,6 @@
 ---
 organization_id: '2013001'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 58-12 Design Lab
 organization_website: 'http://www.58-12.org'
 ein: '271538597'

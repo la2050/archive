@@ -1,6 +1,6 @@
 ---
 organization_id: '2015191'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015023'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: BUNCH Magazine dba BUNCH Media
 organization_website: www.bunchmag.com
 ein: '465448101'

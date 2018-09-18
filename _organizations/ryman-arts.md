@@ -1,6 +1,6 @@
 ---
 organization_id: '2016186'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Ryman Arts
 organization_website: www.thebigdrawla.org
 ein: '951051084'

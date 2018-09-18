@@ -6,7 +6,7 @@ project_summary: >-
   beginning with 75 middle school students in January 2015.
 category: connect
 organization_id: '2018008'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/BigCitizenHUB.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -81,7 +81,7 @@ Whom will your project benefit? Please be specific.: >-
   success:
    - The City Year Inc. Western Region is supporting our work to recruit qualified Youth Workers. Our program is dependent upon bringing in committed near peer mentors to lead teams of Big Citizens. Our partnership with City Year allows us access to a large pool of 19-24 year olds who have interest in youth development and service, who have been vetted by a team of people with the expertise of recruiting people with the skill set we need.
    - The Red Shield Youth and Community Center is providing us with the facilities with which to run our office. In return, we provide the Red Shield’s staff with youth development training and coaching. In addition, all Big Citizens will become members of the center.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

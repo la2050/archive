@@ -1,6 +1,6 @@
 ---
 organization_id: '2014059'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Mobile Film Classroom
 organization_website: www.mobilefilmclassroom.org
 ein: '461053961'

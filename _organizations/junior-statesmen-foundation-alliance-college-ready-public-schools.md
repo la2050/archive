@@ -1,6 +1,6 @@
 ---
 organization_id: '2015100'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 organization_website: www.jsa.org
 ein: '946050452'

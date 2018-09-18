@@ -6,7 +6,7 @@ project_summary: >-
   college matriculation and persistence of Alliance alumni.
 category: learn
 organization_id: '2013005'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -92,7 +92,7 @@ Whom will your project benefit? Please be specific.: >-
    The colleges and universities provide vital first year services to incoming freshman, including academic preparedness resources (via tutoring services, counseling, workshops and school orientation programs) and financial hardship resources (via financial aid, financial counseling, and work study). Additionally, several participating colleges visit Alliance high school campuses to educate and enroll incoming Alliance freshman in first year, university-based support programs and placement exams. Others have hosted orientation days specifically for Alliance alumni and incoming Alliance freshman, including discussion of the peer mentoring program. 
    
    Alliance through its college counselors, AMP coordinators and, most importantly, AMP mentors provide the necessary social and cultural capital to leverage the resources provided by the colleges and universities. Alliance mentors serve as extended outreach for college and university first-year completion programs.
-'': '0'
+empty_column_1: '0'
 body_class: blueberry
 
 ---

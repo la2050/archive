@@ -1,6 +1,6 @@
 ---
 organization_id: '2016002'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 3-D SPACE
 organization_website: 3-DSPACE.org
 ein: '472247578'

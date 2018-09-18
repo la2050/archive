@@ -1,6 +1,6 @@
 ---
 organization_id: '2016062'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: D.A.D Project
 organization_website: www.dadproject.org
 ein: ''

@@ -8,7 +8,7 @@ project_summary: >-
   the heterosexual and Spanish language speaking communities.
 category: connect
 organization_id: '2018100'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/RaiseAChild.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -95,7 +95,7 @@ Whom will your project benefit? Please be specific.: >-
   with their respective missions.
    
    Factors critical to the success of this effort are 1) recruiting appropriate staff who understands the cultural sensitivities to carry out the myriad of details/programs/services; 2) identifying clergy who are committed to helping RAC find loving homes for children in foster care and who endorse our message to its parishioners; and 3) funding necessary to conduct a year-long outreach campaign, thereby laying the foundation for sustaining these recruitment efforts for years to come.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

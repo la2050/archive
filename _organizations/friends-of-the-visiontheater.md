@@ -1,6 +1,6 @@
 ---
 organization_id: '2014038'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Friends of the VisionTheater
 organization_website: 'http://www.leimertparkvillage.org/'
 ein: '954439557'

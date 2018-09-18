@@ -1,6 +1,6 @@
 ---
 organization_id: '2014194'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Strivers.LA via New Economy Campaigns
 organization_website: ''
 ein: '452991222'

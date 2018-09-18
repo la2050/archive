@@ -1,6 +1,6 @@
 ---
 organization_id: '2014045'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Koreatown Youth and Community Center (KYCC)
 organization_website: 'http://www.kyccla.org'
 ein: '953779389'

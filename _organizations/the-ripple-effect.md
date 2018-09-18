@@ -1,6 +1,6 @@
 ---
 organization_id: '2015205'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The Ripple Effect
 organization_website: www.the-ripple-effect.net
 ein: '330748320'

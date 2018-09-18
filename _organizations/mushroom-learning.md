@@ -1,6 +1,6 @@
 ---
 organization_id: '2014180'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Mushroom Learning
 organization_website: ''
 ein: '471078795'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016187'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: SAFE (Streets Are For Everyone)
 organization_website: www.streetsareforeveryone.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016228'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Ojai Foundation
 organization_website: ojaifoundation.org
 ein: '510151116'

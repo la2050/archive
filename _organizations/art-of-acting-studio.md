@@ -1,6 +1,6 @@
 ---
 organization_id: '2015014'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Art of Acting Studio
 organization_website: www.artofactingstudio.com/
 ein: '134112234'

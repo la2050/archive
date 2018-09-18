@@ -1,6 +1,6 @@
 ---
 organization_id: '2014095'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The New History
 organization_website: www.TheNewHistory.org
 ein: '471474363'

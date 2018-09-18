@@ -1,6 +1,6 @@
 ---
 organization_id: '2015078'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'GrowGood, Inc.'
 organization_website: www.grow-good.org
 ein: '455472840'

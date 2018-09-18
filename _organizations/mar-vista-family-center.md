@@ -1,6 +1,6 @@
 ---
 organization_id: '2018080'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Mar Vista Family Center
 organization_website: marvistafc.org
 ein: '952647443'

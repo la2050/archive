@@ -1,6 +1,6 @@
 ---
 organization_id: '2014051'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
 organization_website: www.leadinc.org
 ein: '300687144'

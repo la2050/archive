@@ -1,6 +1,6 @@
 ---
 organization_id: '2016254'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: WeThrive
 organization_website: teamwethrive.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 project_id: '8102028'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Bridging social enterprise, technology, and local government to accelerate
   civic innovators.
@@ -44,7 +44,7 @@ make_la_great: >-
 category: create
 organization_id: '2018028'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
+  https://activation.la2050.org/create/civic-innovation-lab/civic-innovation-lab.jpg
 project_video: '0'
 body_class: banana
 

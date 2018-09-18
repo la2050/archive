@@ -1,6 +1,6 @@
 ---
 organization_id: '2018050'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Hacker Fund
 organization_website: www.hacker.fund
 ein: '472485464'

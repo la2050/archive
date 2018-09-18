@@ -1,6 +1,6 @@
 ---
 organization_id: '2018085'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
 organization_website: multicultimobility.org/
 ein: '954302067'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013157'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Public Counsel
 organization_website: www.publiccounsel.org
 ein: '237105149'

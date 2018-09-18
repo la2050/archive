@@ -1,6 +1,6 @@
 ---
 project_id: '8102030'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'EveryoneOn Digital Equity Champions Initiative: Bringing Angelenos Online'
 project_summary: >-
   EveryoneOn will seek to identify, recruit and train community stakeholders in
@@ -38,7 +38,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018030'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/connect-to-compete-inc-everyoneon.jpg
+  https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/connect-to-compete-inc-everyoneon.jpg
 project_video: 'https://www.youtube.com/watch?v=-aFvxFfQick'
 body_class: tangerine
 

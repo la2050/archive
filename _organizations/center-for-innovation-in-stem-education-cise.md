@@ -1,6 +1,6 @@
 ---
 organization_id: '2018016'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Center for Innovation in STEM Education (CISE)
 organization_website: 'https://www.csudh.edu/cise/'
 ein: '952543028'

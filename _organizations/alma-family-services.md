@@ -1,6 +1,6 @@
 ---
 organization_id: '2013008'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Alma Family Services
 organization_website: www.almafamilyservices.org
 ein: '952959331'

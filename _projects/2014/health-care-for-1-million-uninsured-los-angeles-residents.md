@@ -6,7 +6,7 @@ project_summary: >-
   nutritional food through new internal transportation networks.
 category: live
 organization_id: '2014162'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -96,7 +96,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    CITY OF LA: Aligns with many of the public health, transportations, and economic development strategies pursued by various city agencies. By pooling the resources of the city and health centers, the LHHI can promote the area as an ideal location for health targeted industry clusters and health infrastructure.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015092'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 organization_website: www.idepsca.org
 ein: '954431992'

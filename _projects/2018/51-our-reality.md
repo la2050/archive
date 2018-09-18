@@ -1,6 +1,6 @@
 ---
 project_id: '8102127'
-year_submitted: '2018'
+year_submitted: 2018
 title: '51%: Our Reality'
 project_summary: >-
   51%: Our Reality is a traveling virtual reality exhibit—free and open to the
@@ -41,7 +41,7 @@ make_la_great: >-
    3) Guests at the exhibit can share their experiences via social media, using the hashtag #51percentLA, which will be collated on a dedicated website for the exhibit. Additionally, citizens can visit the website and add their own experiences, photos, stories and strategies to make LA a better place for all women. All of these submissions will be collated into a time capsule for future Angelenos to explore LA’s current gender climate. Through this we will connect our city’s future and present.
 category: connect
 organization_id: '2018127'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg'
+project_image: 'https://activation.la2050.org/connect/twigg-how-to/twigg-how-to.jpg'
 project_video: '0'
 body_class: tangerine
 

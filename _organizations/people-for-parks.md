@@ -1,6 +1,6 @@
 ---
 organization_id: '2018095'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: People for Parks
 organization_website: www.peopleforparks.org
 ein: '954219646'

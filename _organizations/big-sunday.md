@@ -1,6 +1,6 @@
 ---
 organization_id: '2016020'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Big Sunday
 organization_website: www.bigsunday.org
 ein: '421765317'

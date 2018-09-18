@@ -6,7 +6,7 @@ project_summary: >-
   supplemental distributions in the healthiest, most economical way.
 category: live
 organization_id: '2014158'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -94,7 +94,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   evaluate and measure success. The proposed partners meet these critical
   factors.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016134'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Los Angeles Cleantech Incubator
 organization_website: laincubator.org
 ein: ''

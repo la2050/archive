@@ -1,6 +1,6 @@
 ---
 organization_id: '2015183'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Social & Environmental Entrepreneurs
 organization_website: 'http://www.homefrontrising.org/'
 ein: '954116679'

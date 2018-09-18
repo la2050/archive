@@ -1,6 +1,6 @@
 ---
 organization_id: '2016059'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Cornerstone Theater Company
 organization_website: cornerstonetheater.org
 ein: ''

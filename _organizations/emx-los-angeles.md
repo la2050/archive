@@ -1,6 +1,6 @@
 ---
 organization_id: '2016070'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: EMX Los Angeles
 organization_website: www.facebook.com/emx.la
 ein: ''

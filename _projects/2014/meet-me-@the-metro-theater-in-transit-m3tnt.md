@@ -6,7 +6,7 @@ project_summary: >-
   extravaganza staged on and around the LA Metro Gold line.
 category: connect
 organization_id: '2014019'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -111,7 +111,7 @@ Whom will your project benefit? Please be specific.: >-
    TA is the only theatre producing work in the Highland Park area and so they are vital to the artistic and geographic integrity of the project. 
    
    Three factors that are critical to the success of our proposed collaboration with new collaborators are experience with site-specific work, availability of artists and coordination of scheduling. When it comes to non-confirmed collaborators who have not experienced the power of transit-oriented site-specific work these three factors often come up.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

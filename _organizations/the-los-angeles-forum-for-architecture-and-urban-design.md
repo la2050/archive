@@ -1,6 +1,6 @@
 ---
 organization_id: '2014205'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Los Angeles Forum for Architecture and Urban Design
 organization_website: ''
 ein: '954161753'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016263'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Zeneith Performing Arts
 organization_website: www.zeneithperformingarts.com
 ein: ''

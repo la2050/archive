@@ -1,6 +1,6 @@
 ---
 organization_id: '2014176'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Metabolic Studio
 organization_website: ''
 ein: '261878892'

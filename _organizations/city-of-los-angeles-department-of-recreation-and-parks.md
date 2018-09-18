@@ -1,6 +1,6 @@
 ---
 organization_id: '2016039'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: City of Los Angeles Department of Recreation and Parks
 organization_website: www.laparks.org
 ein: '956000735'

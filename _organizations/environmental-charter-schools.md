@@ -1,6 +1,6 @@
 ---
 organization_id: '2015059'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Environmental Charter Schools
 organization_website: www.ecsonline.org
 ein: '330920934'

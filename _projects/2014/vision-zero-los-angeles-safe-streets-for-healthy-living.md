@@ -6,7 +6,7 @@ project_summary: >-
   ecological skills, and land art exhibitions, called The Shed.
 category: live
 organization_id: '2014230'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -80,7 +80,7 @@ Whom will your project benefit? Please be specific.: >-
    La Loma Development is a sustainable development firm and a leader in the green design and building industry, following the principles of ecological, economic, and social sustainability. La Loma provides services such as environmental planning and engineering, landscape design, general contracting, metal and wood fabrication, and organic gardening. La Loma takes pride in the quality of their work, creating functional habitats, beautiful dream paradises and edible gardens for California schools, residences, parks, and commercial applications. All of their designs and construction utilize principles of sustainability and over fifteen years of green construction experience. Founded in 2007, La Loma’s public and private sector clients have received numerous awards. They have been a critical partner in the creation of Arlington Gardens, a three acre community garden and Pasadena Beautiful “Burbank Award for Outstanding Community Garden.” They were also awarded the “Green Hero Award” by Environmental Charter Schools for the greening of their campus, which also received national attention as a runner-up in the White House Race to the Top contest. U.S. Secretary of Labor, Hilda Solis, congratulated La Loma for their work at the Environmental Charter Schools. La Loma is published on the cover of Landscape Contractor Magazine, as well as featured stories in Los Angeles Times, Sunset, Pasadena Star News, and others. La Loma also has artistic installations of the Public Fruit Tree Theater at LACMA with Fallen Fruit, and the herbal spiral at the Los Angeles County Arboretum. La Loma has been publicly commended by several council members for our work at schools and other community projects, such as Plaza Morazan, Main St. Elementary, Pasadena Senior Center. In 2013 La Loma won the Green City Award from City of Pasadena, and a 2013 Resolution from LA City Council and was nominated as local Business of the Year in 2014. 
    
    Fold Gallery, and Pasadena Architectural Salvage are made up of artists and specialists who will help to create the reused and reclaimed look and feel of the former auto mechanic turned sustainable demonstration venue.
-'': '1'
+empty_column_1: '1'
 body_class: lime
 
 ---

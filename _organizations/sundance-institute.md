@@ -1,6 +1,6 @@
 ---
 organization_id: '2016203'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Sundance Institute
 organization_website: sundance.org
 ein: ''

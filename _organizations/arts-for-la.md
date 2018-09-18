@@ -1,6 +1,6 @@
 ---
 organization_id: '2013016'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Arts for LA
 organization_website: www.artsforla.org
 ein: '202797313'

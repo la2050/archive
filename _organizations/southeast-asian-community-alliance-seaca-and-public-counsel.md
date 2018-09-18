@@ -1,6 +1,6 @@
 ---
 organization_id: '2015186'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Southeast Asian Community Alliance (SEACA) and Public Counsel
 organization_website: www.seaca-la.org www.publiccounsel.org
 ein: '452156435'

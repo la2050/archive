@@ -1,6 +1,6 @@
 ---
 organization_id: '2016133'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Los Angeles Audubon Society (LAAS)
 organization_website: www.laaudubon.org
 ein: '956093704'

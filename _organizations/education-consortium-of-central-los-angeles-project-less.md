@@ -1,6 +1,6 @@
 ---
 organization_id: '2013057'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Education Consortium of Central Los Angeles / Project LESS
 organization_website: 'http://learnmorewithless.org'
 ein: '954230350'

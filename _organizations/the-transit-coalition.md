@@ -1,6 +1,6 @@
 ---
 organization_id: '2014097'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Transit Coalition
 organization_website: www.thetransitcoalition.us
 ein: '954845170'

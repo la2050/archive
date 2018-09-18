@@ -1,6 +1,6 @@
 ---
 organization_id: '2013073'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Foster Care Counts
 organization_website: www.fostercarecounts.org
 ein: '454619493'

@@ -6,7 +6,7 @@ project_summary: >-
   scholarships to our world-class training programs.
 category: create
 organization_id: '2014099'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   collaborative nature of our work in the theatre, we are open to collaboration
   with other organizations.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

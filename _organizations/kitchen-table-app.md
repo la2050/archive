@@ -1,6 +1,6 @@
 ---
 organization_id: '2018057'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Kitchen Table App
 organization_website: 'https://www.kitchentableapp.com'
 ein: '821917647'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014124'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: ChapCare
 organization_website: ''
 ein: '954536824'

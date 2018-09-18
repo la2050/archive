@@ -1,6 +1,6 @@
 ---
 organization_id: '2014046'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'L.A. Bike Trains, Bicycle Culture Institute'
 organization_website: 'http://labiketrains.com/'
 ein: '273421838'

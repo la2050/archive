@@ -1,6 +1,6 @@
 ---
 project_id: '8102109'
-year_submitted: '2018'
+year_submitted: 2018
 title: Supporting the entrepreneurs who create a vibrant Los Angeles
 project_summary: >-
   This project will provide LA’s entrepreneurs with education and resources to
@@ -35,7 +35,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018109'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
+  https://activation.la2050.org/create/small-business-majority/small-business-majority.jpg
 project_video: 'https://www.youtube.com/watch?v=ZgMxPYmoLgA'
 body_class: tangerine
 

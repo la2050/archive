@@ -1,6 +1,6 @@
 ---
 organization_id: '2013139'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: National Park Service
 organization_website: www.nps.gov/samo
 ein: '841024566'

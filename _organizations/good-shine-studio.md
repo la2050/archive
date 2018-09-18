@@ -1,6 +1,6 @@
 ---
 organization_id: '2018047'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Good Shine Studio
 organization_website: www.wapow.la
 ein: '609909662'

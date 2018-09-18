@@ -1,6 +1,6 @@
 ---
 organization_id: '2013194'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Los Angeles Mayor's Council on Innovation and Industry
 organization_website: www.lamcii.org
 ein: '611647131'

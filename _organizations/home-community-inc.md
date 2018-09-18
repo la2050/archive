@@ -1,6 +1,6 @@
 ---
 organization_id: '2014151'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: home&community inc
 organization_website: ''
 ein: '522237551'

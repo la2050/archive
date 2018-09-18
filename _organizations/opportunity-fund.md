@@ -1,6 +1,6 @@
 ---
 organization_id: '2018093'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Opportunity Fund
 organization_website: >-
   http://www.borrowersbillofrights.org,http://Opportunityfund.org,http://Smallbusinessmajority.org,https://us.accion.org/about-us/,http://fieldus.org/index.html,http://cim-llc.com/,https://www.lendingclub.com/,https://www.fundingcircle.com/us/,http://www.fundera.com

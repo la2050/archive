@@ -6,7 +6,7 @@ project_summary: >-
   hackathons and garden playtesting across communities & food centers
 category: play
 organization_id: '2014041'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/seeds.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -84,7 +84,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We are currently considering collaborating within the LA Technology community (business and government-focused) along with talent from local game companies, schools and hacker/maker community groups. We have shared #SeedstheGame at the Verge conference for green solutions for business and government and with the Federal Games Guild which is informally helping us position for federal and international NGO funding in 2015.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

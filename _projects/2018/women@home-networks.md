@@ -1,6 +1,6 @@
 ---
 project_id: '8102034'
-year_submitted: '2018'
+year_submitted: 2018
 title: Women@Home Networks
 project_summary: >-
   Give people* burdened with various forms of unpaid home, child, and elderly
@@ -33,7 +33,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018034'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/data-roads-foundation.jpg
+  https://activation.la2050.org/connect/data-roads-foundation/data-roads-foundation.jpg
 project_video: 'https://www.youtube.com/user/DataRoadsFoundation'
 body_class: tangerine
 

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013128'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: LTSC Community Development Corporation
 organization_website: www.LTSC.org
 ein: '954444102'

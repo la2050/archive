@@ -1,6 +1,6 @@
 ---
 organization_id: '2013100'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Jemmott Rollins Group
 organization_website: 'http://www.jemmottrollinsgroup.net'
 ein: '680530628'

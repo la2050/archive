@@ -1,6 +1,6 @@
 ---
 organization_id: '2016196'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Sound Body Sound Mind Foundation
 organization_website: uclahealth.org/soundbodysoundmind
 ein: ''

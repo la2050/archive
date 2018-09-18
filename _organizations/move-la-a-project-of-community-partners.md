@@ -1,6 +1,6 @@
 ---
 organization_id: '2018084'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Move LA, a project of Community Partners'
 organization_website: www.movela.org
 ein: '954302067'

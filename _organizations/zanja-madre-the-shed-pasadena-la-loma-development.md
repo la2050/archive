@@ -1,6 +1,6 @@
 ---
 organization_id: '2014230'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Zanja Madre, The Shed Pasadena, La Loma Development'
 organization_website: ''
 ein: '455635983'

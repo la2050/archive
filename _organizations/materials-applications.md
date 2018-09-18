@@ -1,6 +1,6 @@
 ---
 organization_id: '2013131'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Materials & Applications
 organization_website: 'http://urbanapplications.org/'
 ein: '262567190'

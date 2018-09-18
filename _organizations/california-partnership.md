@@ -1,6 +1,6 @@
 ---
 organization_id: '2016031'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: California Partnership
 organization_website: www.california-partnership.org
 ein: ''

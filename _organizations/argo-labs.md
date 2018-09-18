@@ -1,6 +1,6 @@
 ---
 organization_id: '2016012'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: ARGO Labs
 organization_website: www.argolabs.org
 ein: ''

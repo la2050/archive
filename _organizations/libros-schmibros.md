@@ -1,6 +1,6 @@
 ---
 organization_id: '2014053'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Libros Schmibros
 organization_website: www.librosschmibros.org
 ein: '952540759'

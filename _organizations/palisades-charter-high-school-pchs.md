@@ -1,6 +1,6 @@
 ---
 organization_id: '2015149'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Palisades Charter High School (PCHS)
 organization_website: www.pchs.org
 ein: '92184898'

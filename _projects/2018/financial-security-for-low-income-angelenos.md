@@ -1,6 +1,6 @@
 ---
 project_id: '8102012'
-year_submitted: '2018'
+year_submitted: 2018
 title: Financial Security for Low-Income Angelenos
 project_summary: >-
   Improving the lives of working Californians by creating financial security
@@ -35,7 +35,7 @@ make_la_great: >-
    Our ultimate goal is to help low-income Californians not only collect thousands of dollars in EITC refunds now, but ultimately achieve life-long sustainable financial security and economic equality. We hope to turn our EITC outreach efforts into a year-round organizing model to further improve EITC uptake, connect EITC filers to other economic benefits, and help provide a platform for the working poor to be heard on issues important to their lives.
 category: live
 organization_id: '2018012'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
+project_image: 'https://activation.la2050.org/live/caleitc4me/caleitc4me.jpg'
 project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
 body_class: lime
 

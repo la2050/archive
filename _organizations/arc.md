@@ -1,6 +1,6 @@
 ---
 organization_id: '2013013'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: arc
 organization_website: www.arc-experience.com
 ein: '260042961'

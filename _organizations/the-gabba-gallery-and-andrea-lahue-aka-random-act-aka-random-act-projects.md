@@ -1,6 +1,6 @@
 ---
 organization_id: '2014089'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 organization_website: www.RandomActProjects.org
 ein: '273886515'

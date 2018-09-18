@@ -6,7 +6,7 @@ project_summary: >-
   residents, communities and businesses in South LA and beyond.
 category: connect
 organization_id: '2014013'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -102,7 +102,7 @@ Whom will your project benefit? Please be specific.: >-
    Charles Drew Middle School (volunteers).
    
    When funding is secured all collaborators will be confirmed.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

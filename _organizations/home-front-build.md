@@ -1,6 +1,6 @@
 ---
 organization_id: '2014150'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Home Front Build
 organization_website: ''
 ein: '452025063'

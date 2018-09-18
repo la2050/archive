@@ -1,6 +1,6 @@
 ---
 organization_id: '2016174'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Plantaware
 organization_website: www.plantaware.com
 ein: ''

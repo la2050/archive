@@ -1,6 +1,6 @@
 ---
 project_id: '8102013'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
   with dignity first
@@ -30,8 +30,7 @@ make_la_great: >-
    The lack of emergency shelter is an acute bottleneck preventing more homeless from being connected with needed services. Further, what legal shelter is available often has preset limits for who they can accept and how many, based on gender, life stage and official funding allocations of beds for various sub-populations. This type of planning is heavily weighted in infrastructure and cannot adjust to the dynamic conditions or demographics of homelessness. Our activation will increase the efficient use of outreach workers by creating new locations where they can do intakes & assessments for the countywide Coordinated Entry System, while reducing disruptions that unsheltered folks experience with street sweeps.
 category: live
 organization_id: '2018013'
-project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/cardborigami-inc.jpg
+project_image: 'https://activation.la2050.org/live/cardborigami-inc/cardborigami-inc.jpg'
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
 body_class: lime
 

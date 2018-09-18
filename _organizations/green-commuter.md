@@ -1,6 +1,6 @@
 ---
 organization_id: '2015075'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Green Commuter
 organization_website: www.greencommuter.org
 ein: '471211258'

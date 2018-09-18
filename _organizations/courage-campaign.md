@@ -1,6 +1,6 @@
 ---
 organization_id: '2013045'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Courage Campaign
 organization_website: Couragecampaign.org
 ein: '270343297'

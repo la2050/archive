@@ -1,6 +1,6 @@
 ---
 organization_id: '2014072'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Proktr
 organization_website: www.proktr.com
 ein: '464405903'

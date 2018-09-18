@@ -1,6 +1,6 @@
 ---
 organization_id: '2014200'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'The Exploratory: Maker Guilds'
 organization_website: ''
 ein: '522237551'

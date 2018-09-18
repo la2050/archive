@@ -1,6 +1,6 @@
 ---
 project_id: '8102120'
-year_submitted: '2018'
+year_submitted: 2018
 title: Farmers Market Delivery
 project_summary: >-
   We make it easier for all Angelinos to sell or shop locally, by creating a
@@ -43,7 +43,7 @@ make_la_great: >-
    This engages LA in multiple ways. It helps spread wealth across the city. It helps empower diverse communities of creators to play a part in the everyday lives of all Angelinos. And it gives access to people around Los Angeles to the different things creators produce. We aim to improve the quality of life for Angelinos by giving them the opportunity to connect directly with other Angelinos through the food they create.
 category: live
 organization_id: '2018120'
-project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
+project_image: 'https://activation.la2050.org/create/the-natch-inc/the-natch-inc.jpg'
 project_video: '0'
 body_class: lime
 

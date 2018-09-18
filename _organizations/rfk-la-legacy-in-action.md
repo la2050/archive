@@ -1,6 +1,6 @@
 ---
 organization_id: '2013163'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: RFK-LA (Legacy in Action)
 organization_website: 'http://rfkla.org'
 ein: '272435213'

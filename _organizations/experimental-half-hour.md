@@ -1,6 +1,6 @@
 ---
 organization_id: '2014034'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Experimental Half-Hour
 organization_website: 'http://experimentalhalfhour.com'
 ein: '952540759'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014006'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Anonymous Good [AG] is a project of Voices4Freedom'
 organization_website: www.anonymousgood.org
 ein: '460876560'

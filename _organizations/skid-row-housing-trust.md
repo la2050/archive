@@ -1,6 +1,6 @@
 ---
 organization_id: '2014081'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Skid Row Housing Trust
 organization_website: www.skidrow.org
 ein: '954205316'

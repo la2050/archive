@@ -1,6 +1,6 @@
 ---
 organization_id: '2014065'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Optimizing National Education
 organization_website: 'http://www.careerprepadvantage.org/la.htm'
 ein: '330744619'

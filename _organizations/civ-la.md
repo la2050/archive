@@ -1,6 +1,6 @@
 ---
 organization_id: '2015034'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: civ.LA
 organization_website: www.civ.la
 ein: '951667177'

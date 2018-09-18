@@ -1,6 +1,6 @@
 ---
 project_id: '8102112'
-year_submitted: '2018'
+year_submitted: 2018
 title: Stella's Socks - Shelter for Your Feet
 project_summary: >-
   Every year we deliver socks to over 100k homeless and homeless youth in Los
@@ -32,8 +32,7 @@ make_la_great: >-
   bridge.
 category: connect
 organization_id: '2018112'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/stellas-socks.jpg
+project_image: 'https://activation.la2050.org/connect/stellas-socks/stellas-socks.jpg'
 project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
 body_class: tangerine
 

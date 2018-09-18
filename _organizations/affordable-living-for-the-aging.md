@@ -1,6 +1,6 @@
 ---
 organization_id: '2013004'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Affordable Living for the Aging
 organization_website: 'http://www.alaseniorliving.org'
 ein: '953301874'

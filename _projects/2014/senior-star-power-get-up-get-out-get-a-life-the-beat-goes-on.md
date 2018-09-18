@@ -6,7 +6,7 @@ project_summary: >-
   workshops program that benefits the entire community.
 category: play
 organization_id: '2014080'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   lodging, bus tours, dining, shopping, and other entertainment attractions that
   will encourage visitors to stay multiple days in the city.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

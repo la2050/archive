@@ -1,6 +1,6 @@
 ---
 organization_id: '2016213'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Burg
 organization_website: burg.io
 ein: ''

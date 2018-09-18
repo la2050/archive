@@ -1,6 +1,6 @@
 ---
 organization_id: '2018040'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Film Independent
 organization_website: 'https://www.filmindependent.org/'
 ein: '953943485'

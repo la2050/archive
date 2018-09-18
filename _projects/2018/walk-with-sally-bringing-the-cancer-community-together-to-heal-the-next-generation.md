@@ -1,6 +1,6 @@
 ---
 project_id: '8102135'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Walk With Sally - Bringing the cancer community together to heal the next
   generation
@@ -49,8 +49,7 @@ make_la_great: >-
    And lastly, we will hire a 5th Program Coordinator to work remotely and along side our current Program Dept. in order to expand these as well as our mentoring program throughout DTLA, East LA, The Valley, Pasadena and beyond
 category: live
 organization_id: '2018135'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
+project_image: 'https://activation.la2050.org/connect/walk-with-sally/walk-with-sally.jpg'
 project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
 body_class: lime
 

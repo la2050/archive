@@ -1,6 +1,6 @@
 ---
 organization_id: '2015167'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Reframe Labs
 organization_website: www.reframelabs.org
 ein: pending from IRS

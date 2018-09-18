@@ -6,7 +6,7 @@ project_summary: >-
   and connectivity for active and healthier lifestyles.
 category: live
 organization_id: '2016161'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Each of these partners share the value of revitalizing our sidewalks to increase the number of safe streets, enhance our resident’s health and improve the environment. In some form or another they all contributed resources whether they be tools, labor, expertise, promotion, labor, monetary contribution or volunteer hours to turn a blighted sidewalk into a nature parkway. Five years later they are still waiting for us to stretch the parkway into more urban trails. For this project we will have to re-ignite the conversation with all of our past partners and form new partnerships.
    The three main factors which are critical to our success are leadership, communication and teamwork. The Nature Parkway’s project manager will help make it possible to extend urban trails because of her leadership ability to pay attention to detail without undermining the biggest asset which are the partners and residents. She will help us get the right team members to the decision making table. Communication will be key, since no formal group already exists to carry on the work. Continuous communication will help keep all informed in the project’s process. Lastly teamwork is necessary to understand what is going well and what needs to be ameliorated. Volunteers including experts who donate services will be engaged by the opportunity to self-identify their role and execute the right action leading towards the main goal.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

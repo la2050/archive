@@ -6,7 +6,7 @@ project_summary: >-
   the country, while training for the very best jobs out there.
 category: learn
 organization_id: '2016215'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   absolutely free-of-charge, and to supplement the few computer science classes
   they have (if any).
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

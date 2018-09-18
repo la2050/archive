@@ -6,7 +6,7 @@ project_summary: >-
   resources to make good food available for all Angelenos.
 category: connect
 organization_id: '2016135'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/goodfoodla.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -100,7 +100,7 @@ Whom will your project benefit? Please be specific.: >-
   Neighborhood Market Network. 
    
    Three factors that are critical to our collaborations: (1) Passion for food equity: the idea that all communities deserve access to fresh, affordable food (2) A shared belief that we need to reach across silos in order to make long-lasting change. We need diverse talents, expertise and perspectives to get the kind of food system change we all hope for, and (3) The demonstrated success of the “collective impact” model: all our powers combined will ensure equitable opportunities for education and well-being in the future.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

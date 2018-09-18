@@ -1,6 +1,6 @@
 ---
 project_id: '8102130'
-year_submitted: '2018'
+year_submitted: 2018
 title: To see well is to live well.
 project_summary: >-
   It is challenging to fill out applications or navigate the streets without
@@ -39,7 +39,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018130'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
+  https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/ucla-mobile-eye-clinic-umec.jpg
 project_video: 'https://www.youtube.com/watch?v=XX7-agoIc2M'
 body_class: tangerine
 

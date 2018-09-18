@@ -1,6 +1,6 @@
 ---
 organization_id: '2016104'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'HyphenUs, Inc.'
 organization_website: www.coparenter.com
 ein: ''

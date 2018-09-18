@@ -6,7 +6,7 @@ project_summary: >-
   community connection.
 category: connect
 organization_id: '2015127'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -88,7 +88,7 @@ Whom will your project benefit? Please be specific.: >-
   capitalize on this moment. We believe our project can serve as a catalyst to
   unite various efforts and turn MacArthur Park into a real resource that spurs
   local and city-wide opportunities for connection.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

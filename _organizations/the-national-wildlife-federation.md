@@ -1,6 +1,6 @@
 ---
 organization_id: '2016226'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The National Wildlife Federation
 organization_website: www.nwf.org
 ein: ''

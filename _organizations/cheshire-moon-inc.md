@@ -1,6 +1,6 @@
 ---
 organization_id: '2013031'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Cheshire Moon Inc
 organization_website: www.DancescapeLA.com
 ein: '80731426'

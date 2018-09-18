@@ -6,7 +6,7 @@ project_summary: >-
   both a physical & online space where they can share their work.
 category: create
 organization_id: '2014077'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -72,7 +72,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3) Ensuring a space where the physical gallery can grow. Currently, there are no spaces in LA that specifically showcases artwork from both professionals and working artists. Why not change that?
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

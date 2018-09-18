@@ -1,6 +1,6 @@
 ---
 organization_id: '2015018'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Blueprint Earth
 organization_website: www.blueprintearth.org
 ein: '463558470'

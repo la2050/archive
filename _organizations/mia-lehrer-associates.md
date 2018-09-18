@@ -1,6 +1,6 @@
 ---
 organization_id: '2013132'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Mia Lehrer + Associates
 organization_website: www.mlagreen.com
 ein: '270903202'

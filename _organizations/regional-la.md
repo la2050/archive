@@ -1,6 +1,6 @@
 ---
 organization_id: '2018102'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: REGIONAL.LA
 organization_website: 'http://www.regional.la'
 ein: '824799787'

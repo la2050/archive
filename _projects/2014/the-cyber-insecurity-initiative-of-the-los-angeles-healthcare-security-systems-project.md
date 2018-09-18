@@ -8,7 +8,7 @@ project_summary: >-
   shorter commutes, reduce emissions & improve LA's quality of life.
 category: live
 organization_id: '2014220'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Engaging business as partners 
    - Creating a long-term funding and implementation platform.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

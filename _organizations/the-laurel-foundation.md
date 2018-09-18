@@ -1,6 +1,6 @@
 ---
 organization_id: '2014204'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Laurel Foundation
 organization_website: ''
 ein: '954429260'

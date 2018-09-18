@@ -1,6 +1,6 @@
 ---
 organization_id: '2015125'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Maritime Institute
 organization_website: www.LAMITopSail.org
 ein: '330515416'

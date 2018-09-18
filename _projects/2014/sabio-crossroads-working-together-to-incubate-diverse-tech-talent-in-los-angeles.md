@@ -8,7 +8,7 @@ project_summary: >-
   become exceptional creators using web technology and film.
 category: create
 organization_id: '2014078'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/Transformation.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -68,7 +68,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    WalMart – Bentonville, AK – various opportunities are available for individuals that have full-stack web development expertise. They have reached-out and are interested in reviewing Sabio Fellow’s resumes to identify potential candidates to be interviewed.
    TechWorkers – San Ramon, CA- front-end web development opportunities
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

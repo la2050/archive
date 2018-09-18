@@ -1,6 +1,6 @@
 ---
 organization_id: '2015226'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Wise Guys Events
 organization_website: www.teambuildingandtraining.com
 ein: '208656297'

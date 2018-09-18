@@ -1,6 +1,6 @@
 ---
 organization_id: '2013115'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: LA Riverside Country Club
 organization_website: lariversidecountryclub.com
 ein: '270983281'

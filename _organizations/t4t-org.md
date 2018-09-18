@@ -1,6 +1,6 @@
 ---
 organization_id: '2016205'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: T4T.org
 organization_website: www.t4t.org
 ein: '562464067'

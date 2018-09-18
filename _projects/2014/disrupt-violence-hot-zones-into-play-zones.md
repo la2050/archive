@@ -6,7 +6,7 @@ project_summary: >-
   gang violence, creating family and neighborhood safety in L.A.
 category: play
 organization_id: '2014003'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -92,7 +92,7 @@ Whom will your project benefit? Please be specific.: >-
    V2K HELPER Foundation’s demonstrated ability to collaborate
    Our long history of working together
    Both organizations’ shared understanding of the needs of high-violence communities
-'': '1'
+empty_column_1: '1'
 body_class: strawberry
 
 ---

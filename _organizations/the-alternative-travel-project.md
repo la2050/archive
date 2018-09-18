@@ -1,6 +1,6 @@
 ---
 organization_id: '2015196'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Alternative Travel Project
 organization_website: www.alternativetravelproject.com
 ein: '464888726'

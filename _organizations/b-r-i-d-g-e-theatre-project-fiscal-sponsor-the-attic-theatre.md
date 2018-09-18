@@ -1,6 +1,6 @@
 ---
 organization_id: '2014012'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
 organization_website: www.bridgetheatre.org
 ein: '954473701'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016195'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: SoLA Food Co-op
 organization_website: www.solafoodcoop.com
 ein: '464872589'

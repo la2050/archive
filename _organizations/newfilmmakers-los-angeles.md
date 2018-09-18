@@ -1,6 +1,6 @@
 ---
 organization_id: '2014062'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: NewFilmmakers Los Angeles
 organization_website: www.nfmla.org
 ein: '264286940'

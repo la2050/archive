@@ -1,6 +1,6 @@
 ---
 organization_id: '2015084'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Heart and Soul Design Communications Center
 organization_website: www.heartandsoul1.com
 ein: '200613531'

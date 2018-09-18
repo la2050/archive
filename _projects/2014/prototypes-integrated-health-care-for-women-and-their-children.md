@@ -6,7 +6,7 @@ project_summary: >-
   Monte, one of the most underserved areas in Los Angeles County.
 category: live
 organization_id: '2014124'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -45,7 +45,7 @@ What will you do to implement this idea/project?: >-
    ChapCare’s proposed project will benefit the low-income populations of the El Monte/South El Monte region by providing easily accessible health insurance enrollment services. The project will provide services in a culturally and linguistically competent manner that is responsive to the needs of the community.
 How will your idea/project help make LA the best place to connect today? In LA2050?: Not applicable.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

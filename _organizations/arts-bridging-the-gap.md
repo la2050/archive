@@ -1,6 +1,6 @@
 ---
 organization_id: '2016014'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Arts Bridging the Gap
 organization_website: www.artsbridgingthegap.org
 ein: ''

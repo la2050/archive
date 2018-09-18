@@ -1,6 +1,6 @@
 ---
 organization_id: '2018121'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'The National Association of Latino Independent Producers, NALIP'
 organization_website: www.nalip.org
 ein: '134198479'

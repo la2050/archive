@@ -6,7 +6,7 @@ project_summary: >-
   supporting orgs making LA a better place to live & create
 category: create
 organization_id: '2014001'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -119,7 +119,7 @@ Whom will your project benefit? Please be specific.: |-
    2. Collaborative planning- It's critical that we undergo a truly collaborative and inclusive strategic planning process, establishing clear communication channels agreed upon roles and responsibilities
    
    3. Building a movement - it's crucial that this event does not exist in isolation, but is an integrated into the larger movement to showcase LA as a global hub of creativity
-'': '1'
+empty_column_1: '1'
 body_class: banana
 
 ---

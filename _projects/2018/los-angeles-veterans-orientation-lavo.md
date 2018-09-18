@@ -1,6 +1,6 @@
 ---
 project_id: '8102137'
-year_submitted: '2018'
+year_submitted: 2018
 title: Los Angeles Veterans Orientation (LAVO)
 project_summary: >-
   The Los Angeles Veterans Orienation welcomes veterans to our community and
@@ -34,8 +34,7 @@ make_la_great: >-
    LAVO will provide an atmosphere of camaraderie and social interaction. Every veteran will have an opportunity to introduce themselves and there will be a social atmosphere for veterans to meet one another including veterans who are well connected to the veteran community in LA. Veterans will also be introduced to volunteer and civic opportunities should they want to get involved in their communities. Our goal is to make the most veteran friendly city in the country!
 category: live
 organization_id: '2018137'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
+project_image: 'https://activation.la2050.org/connect/we-are-the-mighty/we-are-the-mighty.jpg'
 project_video: '0'
 body_class: lime
 

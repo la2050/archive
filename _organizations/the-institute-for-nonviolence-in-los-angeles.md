@@ -1,6 +1,6 @@
 ---
 organization_id: '2015201'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The Institute for Nonviolence in Los Angeles
 organization_website: www.invla.org
 ein: '954302067'

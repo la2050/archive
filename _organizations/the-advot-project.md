@@ -1,6 +1,6 @@
 ---
 organization_id: '2013183'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Advot Project
 organization_website: www.theadvotproject.org
 ein: '273084801'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018074'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Los Angeles Dodgers Foundation
 organization_website: 'http://losangeles.dodgers.mlb.com/la/community/dodgers-foundation/'
 ein: '954623022'

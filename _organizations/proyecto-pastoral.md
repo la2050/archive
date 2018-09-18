@@ -1,6 +1,6 @@
 ---
 organization_id: '2016178'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Proyecto Pastoral
 organization_website: proyectopastoral.org
 ein: ''

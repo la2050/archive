@@ -1,6 +1,6 @@
 ---
 organization_id: '2013081'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: GlobalGirl Media
 organization_website: www.globalgirlmedia.org
 ein: '912154834'

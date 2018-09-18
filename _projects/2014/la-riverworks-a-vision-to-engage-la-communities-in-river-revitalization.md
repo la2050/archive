@@ -6,7 +6,7 @@ project_summary: >-
   thrive alongside a revitalized LA River.
 category: connect
 organization_id: '2015186'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LosAngelesRiverworks.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -112,7 +112,7 @@ Whom will your project benefit? Please be specific.: >-
    2. Build a diverse coalition that brings together residents, local businesses, community organizations, and other stakeholders; and
    
    3. Identify and implement the appropriate legal and policy tools to ensure that River revitalization efforts are responsive and accountable to existing residents’ needs.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

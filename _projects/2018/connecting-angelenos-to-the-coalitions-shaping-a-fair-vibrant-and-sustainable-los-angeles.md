@@ -1,6 +1,6 @@
 ---
 project_id: '8102062'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
   Sustainable Los Angeles
@@ -41,7 +41,7 @@ make_la_great: >-
    Third, as community organizing experts like Marshall Ganz have shown, the only way to sustain mass involvement is by building organizations that enable individuals to take on increasing leadership responsibilities toward common purposes. We know that people are satisfied by participating in different ways and that the best way to be involved is with a group small enough that they can form meaningful relationships with each other. LA Forward is cultivating volunteer-led teams specific to various issues and methods of engagement. The main job of LA Forward’s staff and top leadership will be to act as organizers—coaching volunteers to step up into leadership roles, providing guidance, and facilitating connections and trainings as necessary.
 category: connect
 organization_id: '2018062'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-forward.jpg'
+project_image: 'https://activation.la2050.org/connect/la-forward/la-forward.jpg'
 project_video: 'https://youtu.be/iK1p6nJf5bg'
 body_class: tangerine
 

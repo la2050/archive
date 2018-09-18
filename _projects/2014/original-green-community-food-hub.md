@@ -6,7 +6,7 @@ project_summary: >-
   peers in an experience of health, wellness, community, and action
 category: live
 organization_id: '2014177'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -107,7 +107,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    BUSINESS COMMUNITY:
    MHS is a member of both the Crenshaw Chamber of Commerce and Los Angeles Chamber of Commerce. Both chambers support our efforts and recognize the value that healthy youth become healthy workers. Our relationship with Foshay Learning Center was fostered though the Pillar "Principal for a Day" program. We expect continued support in workforce and youth development from our Chamber partners who we will involved in this project.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

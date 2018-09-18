@@ -8,7 +8,7 @@ project_summary: >-
   personal foundations will accelerate their move out of poverty.
 category: connect
 organization_id: '2018068'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -97,7 +97,7 @@ Whom will your project benefit? Please be specific.: >-
    • Capital Group Companies employees volunteer as Advisors and financial experts with LIFT-LA’s Beyond the Bank workshop series.
    
    • Keystone Accountability works with LIFT to develop and test a system to collect continuous client and volunteer feedback. Keystone is an expert in gathering, analyzing, and amplifying client voices in order to foster a culture of accountability. Keystone’s founder and CEO, David Bonbright, worked with LIFT over the last year to design CV, and will continue working closely with LIFT’s Executive and Program Team to effectively implement CV in LA. We are excited about this partnership and its potential to ensure our responsiveness to the needs of our members in LA.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

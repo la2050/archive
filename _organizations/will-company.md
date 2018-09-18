@@ -1,6 +1,6 @@
 ---
 organization_id: '2014106'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Will & Company
 organization_website: 'http://www.willandcompany.com'
 ein: '954215225'

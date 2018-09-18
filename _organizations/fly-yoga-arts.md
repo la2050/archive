@@ -1,6 +1,6 @@
 ---
 organization_id: '2015065'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: FLY Yoga Arts
 organization_website: www.flyyogaarts.com
 ein: '455259874'

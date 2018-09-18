@@ -1,6 +1,6 @@
 ---
 project_id: '8102095'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   COMPAS for Park Equity: co-powering & mobilizing communities to expand
   Community School Parks in LA
@@ -76,8 +76,7 @@ make_la_great: >-
    Through COMPAS we will activate parents’ & neighbors’ civic power to advance shared-use policies that can improve parks equity in LA.
 category: learn
 organization_id: '2018095'
-project_image: >-
-  https://activation.la2050.org/assets/images/play/2048-wide/people-for-parks.jpg
+project_image: 'https://activation.la2050.org/play/people-for-parks/people-for-parks.jpg'
 project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
 body_class: blueberry
 

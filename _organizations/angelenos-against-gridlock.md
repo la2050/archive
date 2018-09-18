@@ -1,6 +1,6 @@
 ---
 organization_id: '2013010'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Angelenos Against Gridlock
 organization_website: 'http://www.endinggridlock.org'
 ein: '943179772'

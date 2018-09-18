@@ -1,6 +1,6 @@
 ---
 organization_id: '2015103'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Keith A. Somers International Foundation
 organization_website: www.keithasomersfoundation.org
 ein: '473024770'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018131'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: United Parents and Students
 organization_website: 'http://unitedparentsandstudents.org/'
 ein: '813413763'

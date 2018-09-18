@@ -1,6 +1,6 @@
 ---
 organization_id: '2013174'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Streetcraft LA
 organization_website: www.streetcraftla.com
 ein: '237360521'

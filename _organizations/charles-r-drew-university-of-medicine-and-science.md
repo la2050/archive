@@ -1,6 +1,6 @@
 ---
 organization_id: '2018017'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Charles R. Drew University of Medicine and Science
 organization_website: www.cdrewu.edu
 ein: '956151774'

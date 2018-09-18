@@ -1,6 +1,6 @@
 ---
 organization_id: '2013178'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Swipes for the Homeless
 organization_website: 'http://swipesforthehomeless.org/'
 ein: '452038035'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018051'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Harlem Lacrosse - Los Angeles
 organization_website: www.harlemlacrosse.org
 ein: '451634118'

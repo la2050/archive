@@ -1,6 +1,6 @@
 ---
 organization_id: '2018054'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Imagine LA
 organization_website: www.imaginela.org
 ein: '204637089'

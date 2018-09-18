@@ -1,6 +1,6 @@
 ---
 organization_id: '2014166'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: >-
   Los Angeles County Active Transportation Collaborative (Safe Routes to School
   National Partnership and LACBC) work to support improved policies and

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014213'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: TreePeople
 organization_website: ''
 ein: '237314848'

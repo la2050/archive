@@ -1,6 +1,6 @@
 ---
 organization_id: '2015170'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'RootDown LA, A project of Community Partners'
 organization_website: 'http://www.rootdownla.org'
 ein: '954302067'

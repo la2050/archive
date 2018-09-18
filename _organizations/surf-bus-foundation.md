@@ -1,6 +1,6 @@
 ---
 organization_id: '2018114'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Surf Bus Foundation
 organization_website: www.surfbusfoundation.org
 ein: '463169840'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016035'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Capital & Main
 organization_website: capitalandmain.com
 ein: ''

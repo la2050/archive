@@ -1,6 +1,6 @@
 ---
 organization_id: '2014225'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Westside Infant-Family Network (WIN)
 organization_website: ''
 ein: '274018980'

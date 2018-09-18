@@ -6,7 +6,7 @@ project_summary: >-
   mentoring services to promising clean tech startups.
 category: create
 organization_id: '2014070'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -92,7 +92,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    And finally, as a public-private partnership, PortTech can continue to further its mission through support from philanthropic and corporate sponsorships, and industry collaboration.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

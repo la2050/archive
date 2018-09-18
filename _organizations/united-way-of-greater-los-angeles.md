@@ -1,6 +1,6 @@
 ---
 organization_id: '2018132'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: United Way of Greater Los Angeles
 organization_website: >-
   http://everyoneinla.org/,http://www.abundanthousingla.org/,http://www.innercitylaw.org/

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015187'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Southern California College Access Network, a Project of Community Partners'
 organization_website: www.socalcollegeaccess.org
 ein: '954302067'

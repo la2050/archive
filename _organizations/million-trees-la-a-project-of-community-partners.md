@@ -1,6 +1,6 @@
 ---
 organization_id: '2013134'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Million Trees LA, a project of Community Partners'
 organization_website: facebook.com/MillionTreesLA
 ein: '954302067'

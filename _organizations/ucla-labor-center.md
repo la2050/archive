@@ -1,6 +1,6 @@
 ---
 organization_id: '2013202'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: UCLA Labor Center
 organization_website: 'http://dreamresourcecenter.org/'
 ein: '952250801'

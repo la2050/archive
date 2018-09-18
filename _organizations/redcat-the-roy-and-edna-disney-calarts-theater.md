@@ -1,6 +1,6 @@
 ---
 organization_id: '2013161'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: REDCAT (The Roy and Edna Disney CalArts Theater)
 organization_website: 'http://www.redcat.org'
 ein: '956102146'

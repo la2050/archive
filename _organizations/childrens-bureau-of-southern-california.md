@@ -1,6 +1,6 @@
 ---
 organization_id: '2015032'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Children's Bureau of Southern California
 organization_website: www.all4kids.org
 ein: '951690975'

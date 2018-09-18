@@ -6,7 +6,7 @@ project_summary: >-
   family & friends to support students' educational goals.
 category: learn
 organization_id: '2014194'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Common goals: wanting to help struggling students succeed and complete a degree or certificate program, or successfully transfer to a four-year institution.
    ● Clear expectations and communication.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

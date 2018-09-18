@@ -1,6 +1,6 @@
 ---
 organization_id: '2015029'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: ChallengeMaker
 organization_website: www.challengemaker.com
 ein: '471275838'

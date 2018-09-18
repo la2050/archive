@@ -1,6 +1,6 @@
 ---
 organization_id: '2016112'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: International Trade Education Programs (ITEP)
 organization_website: www.itepinc.org
 ein: ''

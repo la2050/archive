@@ -1,6 +1,6 @@
 ---
 organization_id: '2014161'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Light Bringer Project
 organization_website: ''
 ein: '954287043'

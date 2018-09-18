@@ -1,6 +1,6 @@
 ---
 organization_id: '2018037'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Environment California Research & Policy Center
 organization_website: >-
   www.environmentcaliforniacenter.org,www.sierraclubfoundation.org,www.earthjustice.org,www.jobstomoveamerica.org,www.foodandwaterwatch.org,www.ibew11.org

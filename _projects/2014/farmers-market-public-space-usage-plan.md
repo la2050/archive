@@ -6,7 +6,7 @@ project_summary: >-
   marketplaces) as public spaces for civic and social engagement.
 category: connect
 organization_id: '2014036'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -61,7 +61,7 @@ Whom will your project benefit? Please be specific.: >-
   (Confirmed)
    
    We will seek support for local government officials, local businesses, artist and other local stakeholders to create a collaborative effort.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

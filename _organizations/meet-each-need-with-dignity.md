@@ -1,6 +1,6 @@
 ---
 organization_id: '2014175'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Meet Each Need with Dignity
 organization_website: ''
 ein: '237306337'

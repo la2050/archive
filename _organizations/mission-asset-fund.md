@@ -1,6 +1,6 @@
 ---
 organization_id: '2013136'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Mission Asset Fund
 organization_website: www.missionassetfund.org
 ein: '208993652'

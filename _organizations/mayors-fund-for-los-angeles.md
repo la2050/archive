@@ -1,6 +1,6 @@
 ---
 organization_id: '2018081'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Mayor’s Fund for Los Angeles
 organization_website: 'https://mayorsfundla.org/,https://www.lamayor.org/'
 ein: '471084641'

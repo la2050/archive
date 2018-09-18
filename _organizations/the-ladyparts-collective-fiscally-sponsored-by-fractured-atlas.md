@@ -1,6 +1,6 @@
 ---
 organization_id: '2016224'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 organization_website: www.ladypartscollective.com
 ein: ''

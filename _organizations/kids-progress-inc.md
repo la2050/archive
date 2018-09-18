@@ -1,6 +1,6 @@
 ---
 organization_id: '2013106'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Kids Progress Inc.
 organization_website: 'http://kidsprogressinc.org'
 ein: '651169693'

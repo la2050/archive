@@ -1,6 +1,6 @@
 ---
 organization_id: '2016180'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Public Health Foundation Enterprises
 organization_website: www.lblreaders.org
 ein: ''

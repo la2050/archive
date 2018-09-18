@@ -6,7 +6,7 @@ project_summary: >-
   income levels can connect with and take pride in.
 category: create
 organization_id: '2014020'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Communication between parties
    3. Recognition of contributions
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

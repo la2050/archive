@@ -1,6 +1,6 @@
 ---
 organization_id: '2014189'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Saban Community Clinic
 organization_website: ''
 ein: '952539105'

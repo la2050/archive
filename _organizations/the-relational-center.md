@@ -1,6 +1,6 @@
 ---
 organization_id: '2013196'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Relational Center
 organization_website: 'http://www.relationalcenter.org'
 ein: '260511164'

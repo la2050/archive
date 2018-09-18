@@ -1,6 +1,6 @@
 ---
 organization_id: '2016054'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Compassionate Santa Monica
 organization_website: charterforcompassion.org
 ein: ''

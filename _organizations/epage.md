@@ -1,6 +1,6 @@
 ---
 organization_id: '2016072'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: EPage
 organization_website: getgaggle.com
 ein: ''

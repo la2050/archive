@@ -1,6 +1,6 @@
 ---
 organization_id: '2015123'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Fire Department Foundation
 organization_website: supportlafd.org
 ein: '272007326'

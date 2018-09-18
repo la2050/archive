@@ -6,7 +6,7 @@ project_summary: >-
   schoolers with activities to promote lifelong healthy habits.
 category: play
 organization_id: '2014106'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -Curriculum & lesson plans that intersperse with each module
    -Weekly check-ins of key leaders for each group
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

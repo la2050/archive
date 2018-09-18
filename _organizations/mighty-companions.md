@@ -1,6 +1,6 @@
 ---
 organization_id: '2013133'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Mighty Companions
 organization_website: 'http://www.TheConversation.org'
 ein: '954255679'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013041'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Coalition of Mental Health Professionals, Inc.'
 organization_website: 'http://laBlackworkercenter.org/'
 ein: '954395737'

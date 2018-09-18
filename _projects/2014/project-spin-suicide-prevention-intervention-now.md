@@ -6,7 +6,7 @@ project_summary: >-
   communities that will end conditions that contribute to LGBTQ suicide.
 category: learn
 organization_id: '2014207'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Lastly, Project SPIN has recently partnered with ONE National Gay & Lesbian Archives at the University of Southern California to develop educational materials for implementation of the California FAIR Education Act (2011). In June of 2014, Project SPIN created a resource guide of inclusive curriculum that teachers can use as supplement to textbooks.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

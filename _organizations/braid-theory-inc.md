@@ -1,6 +1,6 @@
 ---
 organization_id: '2016023'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'Braid Theory, Inc.'
 organization_website: www.braidtheory.com
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014221'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: US Green Building Council-Los Angeles
 organization_website: ''
 ein: '753041444'

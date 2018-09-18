@@ -1,6 +1,6 @@
 ---
 organization_id: '2018129'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: UCLA Center for Health Services and Society
 organization_website: 'http://hss.semel.ucla.edu'
 ein: '956006143'

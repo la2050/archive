@@ -1,6 +1,6 @@
 ---
 organization_id: '2014061'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: NationBuilder
 organization_website: nationbuilder.com
 ein: '352315659'

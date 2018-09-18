@@ -1,6 +1,6 @@
 ---
 organization_id: '2015112'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: LA's Promise
 organization_website: www.laspromise.org
 ein: '204562686'

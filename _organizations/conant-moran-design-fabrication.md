@@ -1,6 +1,6 @@
 ---
 organization_id: '2014020'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Conant Moran Design & Fabrication
 organization_website: ConantMoran.com
 ein: '461067483'

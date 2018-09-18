@@ -1,6 +1,6 @@
 ---
 organization_id: '2016222'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: the Jane Goodall Institute
 organization_website: rootsandshoots.org
 ein: ''

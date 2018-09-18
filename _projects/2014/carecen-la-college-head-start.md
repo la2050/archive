@@ -6,7 +6,7 @@ project_summary: >-
   admission/financial aid assistance, and college transition.
 category: learn
 organization_id: '2014122'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Partnering with local colleges, universities and other community-based organizations to create a network of collaborative partners willing to help students create a transition plan toward college-life. 
    3. Working together (CARECEN and Civitas) influencing a lasting change in the Westlake/Pico-Union community by raising awareness for higher academic standards and college readiness.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015184'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Social Action Partners (SoACT)
 organization_website: www.socialactionpartners.org
 ein: '271689584'

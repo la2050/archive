@@ -6,7 +6,7 @@ project_summary: >-
   Garden Ranger Program to at least 5,500 additional students!
 category: play
 organization_id: '2014032'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/enrichla.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -59,7 +59,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   hope to partner with like-minded organizations concerned with offering edible
   education and green spaces to local students.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

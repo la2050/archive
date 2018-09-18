@@ -1,6 +1,6 @@
 ---
 organization_id: '2013213'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Venice Art Crawl
 organization_website: www.veniceartcrawl.com
 ein: '956419214'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102098'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Neighbor to neighbor: Empower Boyle Heights residents to help each other
   access wellness resources.
@@ -62,7 +62,7 @@ make_la_great: >-
 category: create
 organization_id: '2018098'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
+  https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/promesa-boyle-heights-at-proyecto-pastoral.jpg
 project_video: '0'
 body_class: banana
 

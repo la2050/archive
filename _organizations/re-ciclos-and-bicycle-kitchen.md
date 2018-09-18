@@ -1,6 +1,6 @@
 ---
 organization_id: '2015164'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Re:Ciclos and Bicycle Kitchen'
 organization_website: 'http://reciclos.org'
 ein: '260454089'

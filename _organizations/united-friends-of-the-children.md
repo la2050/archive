@@ -1,6 +1,6 @@
 ---
 organization_id: '2016244'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: United Friends of the Children
 organization_website: www.unitedfriends.org
 ein: '953665186'

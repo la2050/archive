@@ -1,6 +1,6 @@
 ---
 organization_id: '2015155'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)

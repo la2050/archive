@@ -1,6 +1,6 @@
 ---
 organization_id: '2013191'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Last Bookstore
 organization_website: 'http://lastbookstorela.com/'
 ein: '208970937'

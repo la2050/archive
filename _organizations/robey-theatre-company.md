@@ -1,6 +1,6 @@
 ---
 organization_id: '2015169'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Robey Theatre Company
 organization_website: www.robeytheatrecompany.org
 ein: '954564423'

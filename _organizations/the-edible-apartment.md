@@ -1,6 +1,6 @@
 ---
 organization_id: '2016216'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Edible Apartment
 organization_website: www.TheEdibleApartment.org
 ein: '475129866'

@@ -6,7 +6,7 @@ project_summary: >-
   code, & create a new LA for the year 2050 using Minecraft
 category: create
 organization_id: '2014103'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -94,7 +94,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Providing an online resources system that will allow the participants to communicate with us remotely when we are not at their location. We have already developed an internal online social media tool for teens to safely communicate with our mentors and staff
    3. A quarterly meeting where all teens participating gather to share the work they are doing. It will be important that we support all collaborators with troubleshooting assistance to meet their technology needs.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

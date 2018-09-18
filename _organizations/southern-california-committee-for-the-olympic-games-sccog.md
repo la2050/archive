@@ -1,6 +1,6 @@
 ---
 organization_id: '2013169'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Southern California Committee for the Olympic Games (SCCOG)
 organization_website: www.readysetgold.net
 ein: '951240083'

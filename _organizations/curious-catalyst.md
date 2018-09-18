@@ -1,6 +1,6 @@
 ---
 organization_id: '2013049'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Curious Catalyst
 organization_website: www.curiouscatalyst.com
 ein: TBC

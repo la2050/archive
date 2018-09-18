@@ -1,6 +1,6 @@
 ---
 organization_id: '2014145'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Global Education Network Exchange (GENE)
 organization_website: ''
 ein: '270452216'

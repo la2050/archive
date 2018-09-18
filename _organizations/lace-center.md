@@ -1,6 +1,6 @@
 ---
 organization_id: '2014049'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: LACE Center
 organization_website: www.LACECenter.tumblr.com
 ein: '954230350'

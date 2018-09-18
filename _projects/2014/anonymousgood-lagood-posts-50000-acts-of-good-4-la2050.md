@@ -6,7 +6,7 @@ project_summary: >-
   shows posting Goods makes us happier, healthier & connected.
 category: connect
 organization_id: '2014006'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -126,7 +126,7 @@ Whom will your project benefit? Please be specific.: >-
    • Strategy meetings with 3 of LA largest employers- initiate employee engagement for 5000 Acts of Good
    • LA Gov’t- target elected official’s constituent relations first so Acts of Good being done in government are surfaced. Post 250 
    • LA-based brand sponsorship is central to paying it forward with our Allies4Good
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

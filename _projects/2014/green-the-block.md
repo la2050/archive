@@ -6,7 +6,7 @@ project_summary: >-
   access to fresh produce and nutritious groceries.
 category: live
 organization_id: '2014192'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    (2) the diversity of those we collaborate with is also imperative for creating the greatest impact through our program. If we had volunteers but no food, or food but no sense of the comprehensive needs and wishes of our families, it would be impossible to serve people in the way that we do; 
    (3) The shared heart-centered philosophy of serving without judgment or obligation is imperative to our success.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

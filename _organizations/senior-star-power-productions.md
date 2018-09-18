@@ -1,6 +1,6 @@
 ---
 organization_id: '2014080'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Senior Star Power Productions
 organization_website: www.seniorstarpower.org
 ein: '454380818'

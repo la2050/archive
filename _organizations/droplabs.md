@@ -1,6 +1,6 @@
 ---
 organization_id: '2014027'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Droplabs
 organization_website: 'http://droplabs.net'
 ein: '262467065'

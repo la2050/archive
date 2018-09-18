@@ -8,7 +8,7 @@ project_summary: >-
   partnership by expanding to Roosevelt HS and Jordan HS.
 category: learn
 organization_id: '2018027'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -75,7 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    In our past collaboration, we have found these three factors to be critical: 1) strong leadership from both organizations – on the ground level at the schools as well as at the senior level of our organizations; 2) shared values and a deep belief in our students and their potential; and 3) a willingness to leverage partnerships and outside resources to support our students and our work.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

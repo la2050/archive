@@ -1,6 +1,6 @@
 ---
 organization_id: '2013076'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: FSBCS dba Community Builders Resource Network (CBRN)
 organization_website: >-
   http://www.fbcsylmar.com/ FYI, this (outdated) site will not be the

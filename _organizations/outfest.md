@@ -1,6 +1,6 @@
 ---
 organization_id: '2013148'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Outfest
 organization_website: Outfest.org
 ein: '954089601'

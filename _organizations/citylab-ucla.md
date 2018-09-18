@@ -1,6 +1,6 @@
 ---
 organization_id: '2013035'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: cityLAB-UCLA
 organization_website: 'http://www.cityLAB.aud.ucla.edu'
 ein: '956006143'

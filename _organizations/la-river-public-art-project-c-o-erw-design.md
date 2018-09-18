@@ -1,6 +1,6 @@
 ---
 organization_id: '2018063'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: LA River Public Art Project (c/o ERW Design)
 organization_website: 'http://losangelesriverpublicartproject.org/'
 ein: '364519595'

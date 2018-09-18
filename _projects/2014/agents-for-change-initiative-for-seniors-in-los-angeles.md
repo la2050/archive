@@ -4,7 +4,7 @@ title: AGEnts for Change Initiative for Seniors in Los Angeles
 project_summary: '0'
 category: connect
 organization_id: '2014085'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -64,7 +64,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   bringing together over 50 organizations and individuals working together on
   policy issues impacting the lives of older adult residents of Los Angeles.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

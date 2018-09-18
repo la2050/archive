@@ -1,6 +1,6 @@
 ---
 organization_id: '2015064'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: FEAL.LA
 organization_website: www.fealla.com
 ein: '475245567'

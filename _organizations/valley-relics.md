@@ -1,6 +1,6 @@
 ---
 organization_id: '2016251'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Valley Relics
 organization_website: litresedablvd.wordpress.com
 ein: ''

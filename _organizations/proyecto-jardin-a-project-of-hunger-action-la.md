@@ -1,6 +1,6 @@
 ---
 organization_id: '2018099'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Proyecto Jardin: A Project of Hunger Action LA'
 organization_website: www.proyectojardin.org
 ein: '205142259'

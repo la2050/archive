@@ -1,6 +1,6 @@
 ---
 organization_id: '2014069'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Play the LA River
 organization_website: 'http://playthelariver.com/'
 ein: '272245545'

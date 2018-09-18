@@ -1,6 +1,6 @@
 ---
 organization_id: '2016161'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Pacoima Beautiful
 organization_website: www.pacoimabeautiful.org
 ein: '954770745'

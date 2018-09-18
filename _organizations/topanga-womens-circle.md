@@ -1,6 +1,6 @@
 ---
 organization_id: '2018126'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Topanga Women's Circle
 organization_website: 'http://topangawomenscircle.org'
 ein: '954302067'

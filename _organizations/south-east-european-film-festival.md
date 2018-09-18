@@ -1,6 +1,6 @@
 ---
 organization_id: '2014083'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: South East European Film Festival
 organization_website: seefilmla.org
 ein: '510618883'

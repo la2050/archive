@@ -1,6 +1,6 @@
 ---
 organization_id: '2015013'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Arroyo Seco Foundation
 organization_website: 'http://www.arroyoseco.org/'
 ein: '954328068'

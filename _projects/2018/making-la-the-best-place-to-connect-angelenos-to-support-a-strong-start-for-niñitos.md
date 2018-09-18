@@ -1,6 +1,6 @@
 ---
 project_id: '8102019'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Making LA the Best Place to Connect Angelenos to Support a Strong Start for
   Niñitos
@@ -51,7 +51,7 @@ make_la_great: >-
    Our social media push will target window of opportunity for Angelenos to help push California’s gubernatorial and other state and local candidates to prioritize young children and, further, to stick to his or her campaign promise to support young children and to develop a plan to move forward on a comprehensive system of support for babies.
 category: connect
 organization_id: '2018019'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
+project_image: 'https://activation.la2050.org/connect/children-now/children-now.jpg'
 project_video: '0'
 body_class: tangerine
 

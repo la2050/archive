@@ -1,6 +1,6 @@
 ---
 organization_id: '2013088'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Harmony Project
 organization_website: 'http://www.harmony-project.org/'
 ein: '954856236'

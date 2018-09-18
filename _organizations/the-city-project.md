@@ -1,6 +1,6 @@
 ---
 organization_id: '2013185'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The City Project
 organization_website: www.cityprojectca.org
 ein: '954302067'

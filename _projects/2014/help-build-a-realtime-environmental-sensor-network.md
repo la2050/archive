@@ -6,7 +6,7 @@ project_summary: >-
   construction of new homes to minimize climate change in Los Angeles.
 category: live
 organization_id: '2014150'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Veracity Productions will operate as a subcontractor to Home Front Build in the making of a documentary for educational and advocacy purposes: www.veracityproductions.com.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

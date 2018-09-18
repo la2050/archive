@@ -1,6 +1,6 @@
 ---
 organization_id: '2018025'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: City of Los Angeles Information Technology Agency
 organization_website: 'http://ita.lacity.org/'
 ein: '956000735'

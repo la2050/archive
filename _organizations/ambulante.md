@@ -1,6 +1,6 @@
 ---
 organization_id: '2015007'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Ambulante
 organization_website: www.ambulanteusa.com
 ein: '465509683'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015147'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Operations-South Bureau Community Stakeholder Collaboration
 organization_website: www.lapdonline.org/south_bureau
 ein: '270889800'

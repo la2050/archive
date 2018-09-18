@@ -1,6 +1,6 @@
 ---
 organization_id: '2016087'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 organization_website: www.seejane.org
 ein: ''

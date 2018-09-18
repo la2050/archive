@@ -1,6 +1,6 @@
 ---
 organization_id: '2016048'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: College Track
 organization_website: www.collegetrack.org
 ein: '943279613'

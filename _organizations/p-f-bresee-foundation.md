@@ -1,6 +1,6 @@
 ---
 organization_id: '2015148'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: P.F. Bresee Foundation
 organization_website: www.bresee.org
 ein: '953797363'

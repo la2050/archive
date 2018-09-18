@@ -1,6 +1,6 @@
 ---
 organization_id: '2015113'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Levitt Pavilion Greater Los Angeles & Pasadena
 organization_website: 'http://www.levittla.org'
 ein: '810591705'

@@ -6,7 +6,7 @@ project_summary: >-
   to secure a climate friendly future.
 category: live
 organization_id: '2016232'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -98,7 +98,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Doubling Los Angeles Department of Water and Power’s (LADWP) energy efficiency budget in 2012 (LA has now doubled energy savings in the last two years); and
    ● Securing a commitment from LADWP to end the use of coal no later than 2025.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

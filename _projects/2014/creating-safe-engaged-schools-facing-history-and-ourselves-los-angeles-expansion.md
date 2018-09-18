@@ -8,7 +8,7 @@ project_summary: >-
   students as they lead the way in creating safe, engaged schools.
 category: learn
 organization_id: '2015061'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Facing History is investing significantly in a core group of exemplary Facing History educators to serve as mentors for other teachers in Los Angeles. Teacher leaders are early adopters in piloting Facing History’s new resources, and are instrumental in supporting liaisons from the Los Angeles Partnership Network. Collaboration with our teacher leaders is a critical factor in helping Facing History respond to the needs of teachers, build stronger school-wide programs, and continue expanding to more urban schools.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

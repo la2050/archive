@@ -1,6 +1,6 @@
 ---
 organization_id: '2016108'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: I'm A Movement Not A Monument
 organization_website: www.imamovement.org
 ein: ''

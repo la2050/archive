@@ -6,7 +6,7 @@ project_summary: >-
   residents who remain uninsured after the Affordable Care Act.
 category: live
 organization_id: '2014223'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -72,7 +72,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) There are distinct yet intertwined roles for each of the partners that must be appropriately woven together.
    3) The partners will need to maintain a nimble and flexible strategy that fluidly adjusts to shifting policy currents.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

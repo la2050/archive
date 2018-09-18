@@ -8,7 +8,7 @@ project_summary: >-
   Curriculum to the staff and students at LA's BEST Enrichment Program.
 category: learn
 organization_id: '2015065'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3. LA's BEST's assistance in measuring our goals through surveys, student and staff testimonials, and on site observations throughout the school year.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

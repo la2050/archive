@@ -1,6 +1,6 @@
 ---
 organization_id: '2014070'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: PortTech Los Angeles
 organization_website: www.PortTechLA.org
 ein: '800363808'

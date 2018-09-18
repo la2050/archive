@@ -1,6 +1,6 @@
 ---
 organization_id: '2015068'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Friends of the Hollywood Central Park (FHCP)
 organization_website: hollywoodcentralpark.org
 ein: '264236328'

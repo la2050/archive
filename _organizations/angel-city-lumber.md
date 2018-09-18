@@ -1,6 +1,6 @@
 ---
 organization_id: '2015009'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Angel City Lumber
 organization_website: www.angelcitylumber.com
 ein: '474574079'

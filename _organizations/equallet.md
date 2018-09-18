@@ -1,6 +1,6 @@
 ---
 organization_id: '2016073'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Equallet
 organization_website: www.equallet.com
 ein: ''

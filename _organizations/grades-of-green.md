@@ -1,6 +1,6 @@
 ---
 organization_id: '2013082'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Grades of Green
 organization_website: www.gradesofgreen.org
 ein: '270637837'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018012'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: CalEITC4Me
 organization_website: www.caleitc4me.org
 ein: '474325738'

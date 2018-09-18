@@ -1,6 +1,6 @@
 ---
 organization_id: '2016183'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Represent
 organization_website: werepresent.org
 ein: ''

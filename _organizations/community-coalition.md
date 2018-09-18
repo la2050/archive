@@ -1,6 +1,6 @@
 ---
 organization_id: '2013044'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Community Coalition
 organization_website: www.cocosouthla.org
 ein: '954298811'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013187'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Greater West Hollywood Food Coalition
 organization_website: www.gwhfc.org
 ein: 951716914 (in the name of Special Service for Groups)

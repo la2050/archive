@@ -1,6 +1,6 @@
 ---
 organization_id: '2013207'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: UNITEDLAB
 organization_website: 'http://www.unitedlab.org'
 ein: '453306366'

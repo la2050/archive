@@ -1,6 +1,6 @@
 ---
 project_id: '8102040'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Made in LA: Show us your LA and your vision for the future'
 project_summary: >-
   Made in LA highlights LA’s diversity by selecting 50 short films by LA
@@ -36,8 +36,7 @@ make_la_great: >-
    The call for entries will be announced at the LA Film Festival in September 2018. Allowing time to finalize selections, the shorts will begin to premiere online in February 2019. The films will roll out over approximately six months and will be added to a custom playlist on YouTube. The primary digital activation will be on an interactive microsite at filmindependent.org featuring a map of LA, with tiles for the short films placed over their neighborhood that play and expand when clicked. Each short film will include bios, headshots and social media info for the filmmakers. As each film is released, our marketing team will promote the film through social channels, inviting Angelenos to have open discussions about the future of LA and connect on social media. A selection of shorts will play on the big screen as part of a free community event at the LA Film Festival including a conversation with filmmakers discussing how to get more involved in your community followed by a networking event, serving as a way for people to engage and connect in-person. We intend to open up a dialogue about LA and its future by inviting all Angelenos to participate in the conversation and have their stories told.
 category: connect
 organization_id: '2018040'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg
+project_image: 'https://activation.la2050.org/connect/film-independent/film-independent.jpg'
 project_video: 'https://youtu.be/-PSOJBGkQ-Y'
 body_class: tangerine
 

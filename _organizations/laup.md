@@ -1,6 +1,6 @@
 ---
 organization_id: '2013118'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: LAUP
 organization_website: laup.net
 ein: '223902958'

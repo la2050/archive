@@ -6,7 +6,7 @@ project_summary: >-
   comprised of a marketplace & classified ads
 category: create
 organization_id: '2014031'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/tianguis.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -69,7 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    In addition we will be tapping into our network of non-profit organizations across Los Angeles to help bring the apps to their respective Spanish speaking constituents such as Tia Chucha's Centro Cultural, MEND, Youth Speak Collective, and Guayaba Kitchen. Over the years Elusive Minds Productions has also developed relationships with Spanish language media outlets such as LATV Live, Mun2, and Telemundo.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

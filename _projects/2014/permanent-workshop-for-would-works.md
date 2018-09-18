@@ -4,7 +4,7 @@ title: Permanent Workshop for Would-Works
 project_summary: Would-Works is seeking permanent workspace to grow!
 category: create
 organization_id: '2014110'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/would-works.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -63,7 +63,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    In addition to partners for our work sessions, we are also committed to partnering for design. We strive to create high-quality, hand-crafted products in downtown Los Angeles. To accomplish this, we have partnered with some designers to create products and plan to expand our design partnerships. We partnered with the Department of Design at Cal State Long Beach to create future products. We also collaborated with style blogger, Almanac of Style, on a limited edition product.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

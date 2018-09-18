@@ -6,7 +6,7 @@ project_summary: >-
   dodgeball leagues in under-resourced neighborhoods across LA.
 category: connect
 organization_id: '2014029'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/eryc.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -73,7 +73,7 @@ Whom will your project benefit? Please be specific.: |-
    
    WeAreGiants:
    WeAreGiants. is a civic-minded marketing and design agency based in Downtown Los Angeles. WAG. has been engaged in many projects for the City of Los Angeles: Jose Huizar’s Bringing Back Broadway initiative, CicLAvia, and the redevelopment of Pershing Square. WAG. will provide design and marketing services (branding, logos, flyers, etc.) for the league expansions.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

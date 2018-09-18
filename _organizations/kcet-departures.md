@@ -1,6 +1,6 @@
 ---
 organization_id: '2013102'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: KCET Departures
 organization_website: 'http://www.kcet.org/departures'
 ein: '952211661'

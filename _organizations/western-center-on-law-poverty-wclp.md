@@ -1,6 +1,6 @@
 ---
 organization_id: '2014223'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Western Center on Law & Poverty (WCLP)
 organization_website: ''
 ein: '952897721'

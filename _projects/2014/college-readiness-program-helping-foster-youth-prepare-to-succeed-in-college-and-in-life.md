@@ -8,7 +8,7 @@ project_summary: >-
   they graduate from high school and move on to college careers.
 category: learn
 organization_id: '2016244'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Guardian Academy, Alliance for Children’s Rights, and numerous Foster Family
   Agencies and Group Homes.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

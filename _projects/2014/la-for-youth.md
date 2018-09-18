@@ -6,7 +6,7 @@ project_summary: >-
   a way to increase public safety and build strong communities.
 category: play
 organization_id: '2014105'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -75,7 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    It is important to note that engaging these additional coalitions would represent longstanding partnerships, and organizations with a history of working together for systems change.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

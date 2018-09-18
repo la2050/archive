@@ -1,6 +1,6 @@
 ---
 organization_id: '2016061'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Covenant House California
 organization_website: www.covenanthousecalifornia.org
 ein: ''

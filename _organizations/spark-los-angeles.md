@@ -1,6 +1,6 @@
 ---
 organization_id: '2016200'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Spark Los Angeles
 organization_website: SparkProgram.org
 ein: '201836547'

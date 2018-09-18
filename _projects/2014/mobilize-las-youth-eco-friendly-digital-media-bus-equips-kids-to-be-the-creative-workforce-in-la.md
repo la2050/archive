@@ -8,7 +8,7 @@ project_summary: >-
   media bus to sustain LA as the creative capital of the world.
 category: create
 organization_id: '2014059'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -95,7 +95,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have been in discussion with industry partners to help us purchase, customize and equip a new eco friendly digital media bus. We’ve had support of a leading production vehicle company as they supplied parking and maintenance support for our current vehicle since 2012. These potential partners bring expertise in designing production vehicles, state of the art video and editing equipment and software and entertainment professionals that mentor our students in the most current trends in the industry.
    What has made these collaborations work is our flexibility in programming (we customize the projects to fit the interests of that organization), our mobility to provide access to technology and a shared belief in the need to help all LA kids express their creativity as a way of strengthening communities.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

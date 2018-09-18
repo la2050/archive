@@ -1,6 +1,6 @@
 ---
 organization_id: '2015216'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: UCLA
 organization_website: www.ucla.edu
 ein: '956006143'

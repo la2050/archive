@@ -1,6 +1,6 @@
 ---
 organization_id: '2014091'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Industry
 organization_website: www.TheIndustryLA.org
 ein: '453307896'

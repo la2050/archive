@@ -1,6 +1,6 @@
 ---
 organization_id: '2016053'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Community Health Councils
 organization_website: www.chc-inc.org
 ein: '954487664'

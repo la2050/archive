@@ -1,6 +1,6 @@
 ---
 organization_id: '2015129'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
   Southwest College Career & Technical Education

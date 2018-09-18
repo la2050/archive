@@ -1,6 +1,6 @@
 ---
 organization_id: '2015162'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Public Health Advocates
 organization_website: www.publichealthadvocacy.org
 ein: '#N/A'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013155'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Playworks Southern California
 organization_website: www.playworks.org/socal
 ein: '943251867'

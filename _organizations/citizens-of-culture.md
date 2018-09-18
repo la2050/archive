@@ -1,6 +1,6 @@
 ---
 organization_id: '2018022'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Citizens Of Culture
 organization_website: citizensofculture.com
 ein: '821044989'

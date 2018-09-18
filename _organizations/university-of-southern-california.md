@@ -1,6 +1,6 @@
 ---
 organization_id: '2018133'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: University of Southern California
 organization_website: 'la.myneighborhooddata.org,socialinnovation.usc.edu'
 ein: '951642394'

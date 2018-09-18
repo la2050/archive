@@ -1,6 +1,6 @@
 ---
 organization_id: '2016239'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Tierra del Sol Foundation
 organization_website: www.tierradelsol.org
 ein: '952671260'

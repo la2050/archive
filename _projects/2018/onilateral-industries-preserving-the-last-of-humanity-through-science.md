@@ -1,6 +1,6 @@
 ---
 project_id: '8102009'
-year_submitted: '2018'
+year_submitted: 2018
 title: ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
 project_summary: >-
   A multimedia “Zombie Apocalypse” campaign to raise awareness and advance
@@ -33,7 +33,7 @@ make_la_great: >-
 category: live
 organization_id: '2018009'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/black-women-for-wellness.jpg
+  https://activation.la2050.org/live/black-women-for-wellness/black-women-for-wellness.jpg
 project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
 body_class: lime
 

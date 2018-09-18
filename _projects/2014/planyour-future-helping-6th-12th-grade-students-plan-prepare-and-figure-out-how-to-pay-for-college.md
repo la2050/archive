@@ -6,7 +6,7 @@ title: >-
 project_summary: '0'
 category: learn
 organization_id: '2014141'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -79,7 +79,7 @@ What will you do to implement this idea/project?: >-
    3) We have initial conversations underway with LAUSD's Director of Secondary Education, Gerardo Loera, as well as local superintendent Bravo (ESC South), to pilot the use of CCGI tools in their high schools.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

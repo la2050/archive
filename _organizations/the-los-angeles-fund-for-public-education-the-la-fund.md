@@ -1,6 +1,6 @@
 ---
 organization_id: '2014206'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Los Angeles Fund For Public Education (The LA Fund)
 organization_website: ''
 ein: '452443162'

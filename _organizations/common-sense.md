@@ -1,6 +1,6 @@
 ---
 organization_id: '2018029'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Common Sense
 organization_website: www.commonsense.org
 ein: '412024986'

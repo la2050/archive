@@ -1,6 +1,6 @@
 ---
 organization_id: '2018013'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Cardborigami Inc
 organization_website: 'http://www.cardborigami.org'
 ein: '274595299'

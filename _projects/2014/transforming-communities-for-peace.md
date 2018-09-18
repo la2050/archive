@@ -6,7 +6,7 @@ project_summary: >-
   projects for safer, greener, and more beautiful communities
 category: create
 organization_id: '2014109'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/peace.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
     2. Effective and efficient execution of Peace Projects, led by residents, that reflect cultural and other needs of the community and are designed to be sustainable
     3. Designing for the future so that projects build on each other and create designs, models, and practices that will make each project part of a larger whole
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

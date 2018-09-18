@@ -1,6 +1,6 @@
 ---
 organization_id: '2013181'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Thank You For Coming
 organization_website: www.thankyouforcoming.la
 ein: '460661052'

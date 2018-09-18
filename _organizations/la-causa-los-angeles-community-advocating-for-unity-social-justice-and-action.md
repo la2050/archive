@@ -1,6 +1,6 @@
 ---
 organization_id: '2013111'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: >-
   LA CAUSA (Los Angeles Community Advocating for Unity Social Justice and
   Action)

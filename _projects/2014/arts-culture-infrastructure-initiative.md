@@ -6,7 +6,7 @@ project_summary: >-
   arts community with a focus on diversity, inclusion and access.
 category: create
 organization_id: '2014048'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Arts for LA that, if funded, we would contract with them to provide advocacy
   training over a six-month period with our Board Network.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

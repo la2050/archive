@@ -6,7 +6,7 @@ project_summary: >-
   films and live performances by Los Angeles artists.
 category: play
 organization_id: '2014083'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Three factors critical to the success of our collaboration: sharing similar goals and ideals, willingness to roll up our collective sleeves, and the passion to create new things.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

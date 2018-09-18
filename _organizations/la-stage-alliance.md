@@ -1,6 +1,6 @@
 ---
 organization_id: '2014048'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: LA STAGE Alliance
 organization_website: 'http://lastagealliance.com/'
 ein: '510183348'

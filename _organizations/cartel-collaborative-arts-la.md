@@ -1,6 +1,6 @@
 ---
 organization_id: '2013030'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'cARTel: Collaborative Arts LA'
 organization_website: 'http://wearecartel.org'
 ein: '270794887'

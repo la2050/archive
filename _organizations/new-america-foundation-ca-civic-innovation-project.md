@@ -1,6 +1,6 @@
 ---
 organization_id: '2013144'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: New America Foundation - CA Civic Innovation Project
 organization_website: ccip.newamerica.net
 ein: '522096845'

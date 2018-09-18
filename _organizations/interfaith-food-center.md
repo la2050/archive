@@ -1,6 +1,6 @@
 ---
 organization_id: '2014158'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Interfaith Food Center
 organization_website: ''
 ein: '953889152'

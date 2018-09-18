@@ -1,6 +1,6 @@
 ---
 organization_id: '2015115'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Living Advantage, Inc.'
 organization_website: www.LivingAdvantageInc.org
 ein: '954447561'

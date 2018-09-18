@@ -1,6 +1,6 @@
 ---
 organization_id: '2013039'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: CITYstage
 organization_website: 'http://www.lacitystage.org'
 ein: '271684448'

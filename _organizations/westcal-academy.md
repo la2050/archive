@@ -1,6 +1,6 @@
 ---
 organization_id: '2015224'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: WestCal Academy
 organization_website: www.westcalacademy.com
 ein: '473703367'

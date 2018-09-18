@@ -1,6 +1,6 @@
 ---
 organization_id: '2014203'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Kitchen Community
 organization_website: ''
 ein: '275083595'

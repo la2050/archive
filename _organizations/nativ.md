@@ -1,6 +1,6 @@
 ---
 organization_id: '2013140'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Nativ
 organization_website: www.nativla.com
 ein: '102649365'

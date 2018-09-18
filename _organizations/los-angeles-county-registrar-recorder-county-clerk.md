@@ -1,6 +1,6 @@
 ---
 organization_id: '2018073'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Los Angeles County Registrar-Recorder/County Clerk
 organization_website: www.lavote.net
 ein: '956000927'

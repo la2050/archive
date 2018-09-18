@@ -1,6 +1,6 @@
 ---
 organization_id: '2014007'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: App of Life
 organization_website: 'http://appoflife.com'
 ein: '471275838'

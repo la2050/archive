@@ -1,6 +1,6 @@
 ---
 organization_id: '2016071'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'EnCorps, Inc.'
 organization_website: www.encorps.org
 ein: ''

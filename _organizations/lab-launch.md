@@ -1,6 +1,6 @@
 ---
 organization_id: '2015109'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Lab Launch
 organization_website: www.lablaunch.org
 ein: '471621472'

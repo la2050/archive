@@ -1,6 +1,6 @@
 ---
 organization_id: '2015017'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Blind Children's Center
 organization_website: www.blindchildrenscenter.org
 ein: '951656369'

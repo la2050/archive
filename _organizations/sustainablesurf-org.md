@@ -1,6 +1,6 @@
 ---
 organization_id: '2015192'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Sustainablesurf.org
 organization_website: 'http://sustainablesurf.org'
 ein: '453220205'

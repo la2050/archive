@@ -1,6 +1,6 @@
 ---
 organization_id: '2018138'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: World Famous VIP Records LLC
 organization_website: www.shopviprecords.com
 ein: '820873052'

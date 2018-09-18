@@ -1,6 +1,6 @@
 ---
 organization_id: '2013158'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Pullias Center for Higher Education
 organization_website: 'http://pullias.usc.edu/'
 ein: '951642394'

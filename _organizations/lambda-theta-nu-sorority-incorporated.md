@@ -1,6 +1,6 @@
 ---
 organization_id: '2013117'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Lambda Theta Nu Sorority, Incorporated'
 organization_website: www.lambdathetanu.org
 ein: '943292874'

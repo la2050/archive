@@ -1,6 +1,6 @@
 ---
 project_id: '8102133'
-year_submitted: '2018'
+year_submitted: 2018
 title: Leveraging Neighborhood Data to Activate Local Change
 project_summary: >-
   Neighborhood Data for Social Change empowers civic actors to learn about
@@ -38,7 +38,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018133'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/university-of-southern-california.jpg
+  https://activation.la2050.org/connect/university-of-southern-california/university-of-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
 body_class: tangerine
 

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016093'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: GRID Logistics
 organization_website: www.gridinc.biz
 ein: '454109556'

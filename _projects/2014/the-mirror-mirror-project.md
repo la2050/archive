@@ -6,7 +6,7 @@ project_summary: >-
   the artist and youth artwork side by side in parks all across LA
 category: connect
 organization_id: '2014094'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -108,7 +108,7 @@ Whom will your project benefit? Please be specific.: |-
    1. The mobile exhibition will be able to find a nice location at each park to create a open air exhibition by opening the truck and creating a community event for a period of 3-4 hours on a specific day
    2. The park will allow the event to be advertised on a website
    3. The parks will each have a written contract with specific rules so that the exhibit and park are in clear agreement and communication for each event in order to ensure each event is carried out safely
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

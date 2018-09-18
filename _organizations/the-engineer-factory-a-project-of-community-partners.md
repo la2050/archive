@@ -1,6 +1,6 @@
 ---
 organization_id: '2016217'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'The Engineer Factory, a project of Community Partners'
 organization_website: www.communitypartners.org/project/engineer-factory
 ein: ''

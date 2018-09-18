@@ -1,6 +1,6 @@
 ---
 organization_id: '2016149'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: mitu
 organization_website: mitunetwork.com
 ein: ''

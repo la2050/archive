@@ -1,6 +1,6 @@
 ---
 organization_id: '2014064'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Nomadlosangeles
 organization_website: nomadlosangeles.com
 ein: '270679016'

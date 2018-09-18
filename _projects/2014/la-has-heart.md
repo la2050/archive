@@ -6,7 +6,7 @@ project_summary: >-
   at-risk youth through educational arts workshops.
 category: create
 organization_id: '2015087'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LAhasHEART.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -51,7 +51,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Recently HH established new collaborations with The Salvation Army Algeria and the Laurel Foundation, and is in talks to offer programming with the Boys and Girl Club of the West Valley. 
    Our ability to establish sustainable partnerships is illustrated in our 19-year partnership with One Heartland for our summer arts camp. HH is dedicated to strengthening relationships with all our existing partners and continually seeks to collaborate with other like-minded organizations in for future programs.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

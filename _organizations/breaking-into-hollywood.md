@@ -1,6 +1,6 @@
 ---
 organization_id: '2015021'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Breaking into Hollywood
 organization_website: www.breakingintohollywood.org
 ein: '611500533'

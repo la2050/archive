@@ -1,6 +1,6 @@
 ---
 organization_id: '2013005'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Alliance College-Ready Public Schools
 organization_website: www.laalliance.org
 ein: '954779029'

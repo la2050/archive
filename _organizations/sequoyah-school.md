@@ -1,6 +1,6 @@
 ---
 organization_id: '2015178'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Sequoyah School
 organization_website: www.sequoyahschool.org
 ein: '952022023'

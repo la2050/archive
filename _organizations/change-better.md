@@ -1,6 +1,6 @@
 ---
 organization_id: '2015030'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Change Better
 organization_website: www.changebetter.org
 ein: '954116679'

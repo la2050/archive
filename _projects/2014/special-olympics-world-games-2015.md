@@ -6,7 +6,7 @@ project_summary: >-
   incredible courage, unwavering determination, and sheer joy.
 category: connect
 organization_id: '2014084'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ Whom will your project benefit? Please be specific.: |-
    Kaiser Permanente continues to support the promotion of health and fitness at the Games. Healthy Athletes, a cost free health-screening program, examines all 7,000 athletes in seven clinical areas. In addition, the program gives referrals for follow-up care and provides health-related products like prescription eyewear, shoes, and hearing aids. The program also provides training for healthcare professionals and students on the specific needs of people with intellectual disabilities. 
    USC & UCLA will host the athlete villages and sports venues. 
    ESPN has partnered with LA2015 to serve as the Global Media sponsor for the World Games. This historic agreement will broadcast a 3 hour Opening Ceremony special live on ESPN 1 or ESPN 2 (98 million subscribers in the USA), provide a minimum of an additional 5.5 hours of coverage during the Games, production of a daily highlight video package for the GOC to be provided to media around the world, as well as a promotional campaign leading up to the 2015 World Games.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

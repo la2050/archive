@@ -6,7 +6,7 @@ project_summary: >-
   via a homestead, online foodhub and incubator/co-working space.
 category: live
 organization_id: '2014151'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Three factors critical to success of any of our proposed collaborations are: increased access to local actors already interested in food production and consumption of healthy food; increased access to people working in the food justice and social equity arena, so integral to community improvement and overall health; and increased access to people who are actively growing quality food in local spaces.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

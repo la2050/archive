@@ -1,6 +1,6 @@
 ---
 project_id: '8102067'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
   Solve Homelessness in LA
@@ -43,7 +43,7 @@ make_la_great: >-
    The policies developed will be presented to LA residents for review and comment via public government meetings, neighborhood council meetings, and via the online voting/discussion platform at LawMaker.io. The public nature of these discussions, and the commitment made by the participating elected officials, are designed to build public support and pressure for concrete legislative action based on stakeholder input in the following legislative cycle.
 category: connect
 organization_id: '2018067'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lawmaker-io.jpg'
+project_image: 'https://activation.la2050.org/connect/lawmaker-io/lawmaker-io.jpg'
 project_video: 'https://www.youtube.com/watch?v=mH8x6av0XTA'
 body_class: tangerine
 

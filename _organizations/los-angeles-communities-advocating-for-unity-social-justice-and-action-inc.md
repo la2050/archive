@@ -1,6 +1,6 @@
 ---
 organization_id: '2013122'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 organization_website: www.lacausainc.org
 ein: '320150097'

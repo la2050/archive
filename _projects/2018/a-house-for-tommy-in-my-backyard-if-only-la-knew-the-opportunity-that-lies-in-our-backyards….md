@@ -1,6 +1,6 @@
 ---
 project_id: '8102086'
-year_submitted: '2018'
+year_submitted: 2018
 title: |-
   A house for Tommy in my backyard! 
    
@@ -57,7 +57,7 @@ make_la_great: >-
    LA will be the best place to LIVE when housing becomes more affordable, and homelessness is drastically reduced. We will activate Angelenos to participate in the affordable housing movement. We can all be a part of the affordable housing solution in LA!
 category: live
 organization_id: '2018086'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo.jpg'
+project_image: 'https://activation.la2050.org/live/mutuo/mutuo.jpg'
 project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
 body_class: lime
 

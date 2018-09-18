@@ -6,7 +6,7 @@ project_summary: >-
   Series, Stage 5 Interviews & On Location: The LA Video Project.
 category: create
 organization_id: '2014062'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Between so many global partnerships and the fact that we bring and showcase international filmmakers to the city on a monthly basis, NewFilmmakers has made promoting a diverse, international presence in LA a top priority. It is for these reasons that the Hollywood Arts Council is honoring us with a Cinema Arts Award this year to celebrate outstanding contributions of merit to Hollywood and its arts.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

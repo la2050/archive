@@ -8,7 +8,7 @@ project_summary: >-
   urban walking trails in partnership with LA-based community groups
 category: connect
 organization_id: '2014044'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -102,7 +102,7 @@ Whom will your project benefit? Please be specific.: >-
    CityLife works with young people from diverse backgrounds, utilizing the arts to explore culture, history, and politics in Los Angeles. In the Spring of 2013 we collaborated with CityLife, then based at Lincoln High School, in a National Science Foundation funded project that employed participatory design to build a tool for authoring “CyberMurals”: physically interactive digital murals that change based on conceptual parameters. CityLife brings an expertise in working with youth to explore urban issues and deep ties to the neighborhood of Lincoln Heights and Downtown more broadly.
    
    We are particularly excited to be continuing our collaboration with Franklin High School’s Arroyo Seco Academy, because it was the work of their students in 2010 that inspired the Trail City LA concept. Assisted by staff from the National Parks Service, Franklin students designed 30 unique trails that required them to conduct in-depth and on-site research. The trail program has continued each year since then and our trail authoring platform will enhance the process they have already developed and enable the trails they create to contain dynamic media content and reach a wide audience.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

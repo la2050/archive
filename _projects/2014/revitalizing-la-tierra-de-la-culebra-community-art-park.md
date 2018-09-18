@@ -6,7 +6,7 @@ project_summary: >-
   of fresh produce from certified LA County Farmers Markets.
 category: live
 organization_id: '2014152'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -57,7 +57,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   people know about the program include Public Health Foundation Enterprises WIC
   Program, Project Angel Food, and SOVA Jewish Food Pantry Market
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

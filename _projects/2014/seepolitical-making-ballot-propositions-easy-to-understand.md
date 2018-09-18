@@ -6,7 +6,7 @@ project_summary: >-
   less than two minutes with our engaging and unbiased videos.
 category: connect
 organization_id: '2015177'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/SeePolitical.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -101,7 +101,7 @@ Whom will your project benefit? Please be specific.: |-
    Each day our list of partners and collaborators grow because people understand the need for our service and want to encourage voter participation in LA. 
    
    In order for our partnerships to succeed, SeePolitical must: 1) Deliver high quality videos that engage our audience 2) Provide strictly unbiased interpretations for each ballot proposition 3) Continue to nurture our existing relationships and develop relationships beyond our initial scope by directly engaging each organization’s membership and/or audience.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

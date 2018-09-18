@@ -1,6 +1,6 @@
 ---
 organization_id: '2016119'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: L.A. Theatre Works
 organization_website: www.latw.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015130'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Trade-Technical College
 organization_website: 'http://slatez.org/'
 ein: '952587353'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014187'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: >-
   Providence Little Company of Mary Medical Centers - Torrance & San Pedro,
   Providence Health & Services Southern California

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015043'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Communities In Schools of Los Angeles
 organization_website: www.cislosangeles.org
 ein: '473675225'

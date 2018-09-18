@@ -1,6 +1,6 @@
 ---
 organization_id: '2015120'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Center of Photography
 organization_website: www.lacphoto.org
 ein: '4631333016'

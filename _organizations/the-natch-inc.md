@@ -1,6 +1,6 @@
 ---
 organization_id: '2018120'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'The Natch, INC.'
 organization_website: thenatch.co
 ein: '813470225'

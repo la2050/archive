@@ -1,6 +1,6 @@
 ---
 organization_id: '2014093'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The La Brea Tar Pits Museum
 organization_website: tarpits.org
 ein: '956132185'

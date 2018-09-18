@@ -1,6 +1,6 @@
 ---
 organization_id: '2013138'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: MUSEK
 organization_website: Www.musek.org
 ein: '546674177'

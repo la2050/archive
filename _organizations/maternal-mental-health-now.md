@@ -1,6 +1,6 @@
 ---
 organization_id: '2015134'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Maternal Mental Health NOW
 organization_website: www.maternalmentalhealthnow.org
 ein: '934302067'

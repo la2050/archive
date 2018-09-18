@@ -1,6 +1,6 @@
 ---
 organization_id: '2014226'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Women Against Gun Violence
 organization_website: ''
 ein: '954738754'

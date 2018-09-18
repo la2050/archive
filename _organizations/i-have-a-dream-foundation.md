@@ -1,6 +1,6 @@
 ---
 organization_id: '2016105'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: I Have a Dream Foundation
 organization_website: http//www.ihadla.org
 ein: ''

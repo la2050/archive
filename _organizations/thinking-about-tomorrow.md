@@ -1,6 +1,6 @@
 ---
 organization_id: '2015211'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Thinking about Tomorrow
 organization_website: www.thinkingabouttomorrow.org
 ein: '270530056'

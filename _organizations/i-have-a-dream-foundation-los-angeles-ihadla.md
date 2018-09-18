@@ -1,6 +1,6 @@
 ---
 organization_id: '2015001'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 organization_website: www.ihadla.org
 ein: '954089758'

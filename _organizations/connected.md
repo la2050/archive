@@ -1,6 +1,6 @@
 ---
 organization_id: '2016056'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: ConnectEd
 organization_website: www.connectedcalifornia.org
 ein: ''

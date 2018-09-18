@@ -1,6 +1,6 @@
 ---
 organization_id: '2018053'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Homeboy Industries
 organization_website: homeboyindustries.org
 ein: '954800735'

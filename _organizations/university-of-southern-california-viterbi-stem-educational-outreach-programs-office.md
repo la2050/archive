@@ -1,6 +1,6 @@
 ---
 organization_id: '2016247'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)

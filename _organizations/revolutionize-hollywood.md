@@ -1,6 +1,6 @@
 ---
 organization_id: '2018103'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Revolutionize Hollywood
 organization_website: 'https://www.revolutionizehollywood.com/'
 ein: '812011003'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016103'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Homeless Health Care Los Angeles
 organization_website: hhcla.org
 ein: ''

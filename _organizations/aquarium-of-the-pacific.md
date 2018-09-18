@@ -1,6 +1,6 @@
 ---
 organization_id: '2014114'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Aquarium of the Pacific
 organization_website: ''
 ein: '330532354'

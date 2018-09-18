@@ -1,6 +1,6 @@
 ---
 organization_id: '2016135'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Los Angeles Food Policy Council
 organization_website: www.goodfoodla.org
 ein: '954302067'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018111'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: South Bay Bicycle Coalition
 organization_website: 'http://www.southbaybicyclecoalition.org/'
 ein: ''

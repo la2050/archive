@@ -91,10 +91,10 @@ function createMarkdownFile(data) {
 
   data.body_class = category_colors[data.category] || "strawberry"
 
-  // if (!data.title) {
-  //   data.title = "Project title, to be determined"
-  //   console.log("A title is missing")
-  // }
+  if (!data.title) {
+    data.title = "Project title, to be determined"
+    console.log("A title is missing")
+  }
 
   // Page title
   //data.title = data.title + ' — My LA2050 Activation Challenge'
@@ -221,6 +221,8 @@ function generateAllCollections(file_name, year) {
     }
 
     if (!records[index].year_submitted) records[index].year_submitted = year
+
+    records[index].year_submitted = Number(records[index].year_submitted)
 
     // records[index].project_image = records[index].project_image.split("/")[records[index].project_image.split("/").length - 1]
 

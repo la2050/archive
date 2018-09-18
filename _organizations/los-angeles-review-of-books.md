@@ -1,6 +1,6 @@
 ---
 organization_id: '2016139'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Los Angeles Review of Books
 organization_website: lareviewofbooks.org
 ein: '900977045'

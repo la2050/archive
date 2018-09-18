@@ -1,6 +1,6 @@
 ---
 organization_id: '2014079'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Schkapf
 organization_website: www.schkapf.com
 ein: '464981201'

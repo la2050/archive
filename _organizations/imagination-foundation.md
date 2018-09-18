@@ -1,6 +1,6 @@
 ---
 organization_id: '2015089'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Imagination Foundation
 organization_website: www.imagination.is
 ein: '300742986'

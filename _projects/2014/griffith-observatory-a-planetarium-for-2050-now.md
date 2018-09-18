@@ -6,7 +6,7 @@ project_summary: >-
   will inspire cosmic perspective in learners of all ages.
 category: learn
 organization_id: '2014142'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -66,7 +66,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   in Los Angeles.
    Conversations have begun with biology and other visualization experts to identify a core group of animators to support the development of the new planetarium show. Conversations are also being held with different groups of Disney animators to assist with animation. Visualizations from NASA/JPL are likely to be incorporated. Also, a variety of scientific experts are partners to ensure accurate, authentic information.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016082'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Friends of Glenfeliz
 organization_website: www.friendsofglenfeliz.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015154'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 organization_website: www.grandparkla.org
 ein: '952217011'

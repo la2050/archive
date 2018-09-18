@@ -1,6 +1,6 @@
 ---
 organization_id: '2015223'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Voter, LLC'
 organization_website: www.voter.xyz
 ein: '464743109'

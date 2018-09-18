@@ -1,6 +1,6 @@
 ---
 project_id: '8102001'
-year_submitted: '2018'
+year_submitted: 2018
 title: Normalize Periods by Giving Back!
 project_summary: >-
   An art installation of the words PERIODS and #HAPPYPERIOD in numerous
@@ -38,7 +38,7 @@ make_la_great: >-
   to present an interactive way of giving and encourage digital activism.
 category: live
 organization_id: '2018001'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
+project_image: 'https://activation.la2050.org/live/happyperiod/happyperiod.jpg'
 project_video: 'https://youtu.be/goBUjr5-dRA'
 body_class: lime
 

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015207'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The Story Project
 organization_website: www.storyproject.org
 ein: '954684376'

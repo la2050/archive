@@ -1,6 +1,6 @@
 ---
 organization_id: '2018088'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'National Veterans Transition Services, Inc. AKA REBOOT'
 organization_website: 'http://www.nvtsi.org/'
 ein: '800597403'

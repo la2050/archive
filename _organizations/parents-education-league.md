@@ -1,6 +1,6 @@
 ---
 organization_id: '2016162'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Parents Education League
 organization_website: www.parentseducationleague.org
 ein: '264510950'

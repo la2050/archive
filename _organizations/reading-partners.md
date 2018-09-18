@@ -1,6 +1,6 @@
 ---
 organization_id: '2015165'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Reading Partners
 organization_website: www.readingpartners.org/location/los-angeles
 ein: '770568469'

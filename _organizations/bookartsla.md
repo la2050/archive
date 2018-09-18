@@ -1,6 +1,6 @@
 ---
 organization_id: '2015019'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: BookArtsLA
 organization_website: www.bookartsla.org
 ein: '465242055'

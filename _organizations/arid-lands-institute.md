@@ -1,6 +1,6 @@
 ---
 organization_id: '2014115'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Arid Lands Institute
 organization_website: ''
 ein: '952786163'

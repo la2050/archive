@@ -6,7 +6,7 @@ project_summary: >-
   caretakers of their communities in LA through urban farming.
 category: create
 organization_id: '2014005'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -94,7 +94,7 @@ Whom will your project benefit? Please be specific.: >-
    ABF also collaborates with schools and churches. Most notably, ABF’s collaboration with staff and students from Cal Poly Pomona’s Department of Landscape Architecture has developed a system for chicken coop installations that will increase the variety of food produced in ABF’s urban farms. 
    
    ABF’s partnerships with reentry housing programs, local restaurants and businesses, schools and churches create more opportunities to scale up the scope of support services for the reintegration of the lives of those who were locked up and the empowerment of communities where urban farming takes place.
-'': '1'
+empty_column_1: '1'
 body_class: banana
 
 ---

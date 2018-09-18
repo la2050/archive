@@ -8,7 +8,7 @@ project_summary: >-
   about #lifeafterloss, our number one equalizer.
 category: connect
 organization_id: '2014088'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -87,7 +87,7 @@ Whom will your project benefit? Please be specific.: >-
   attended. 
    
    Confirmed event partners include EngAGE (www.engagedaging.org) and Experience Talks (http://www.experiencetalks.org/), and we are currently in conversation with several other potential organizations with a passion for story. Finally, regarding a digital campaign, the Harry Potter Alliance (thehpalliance.org) is already on board, and it’s something we’d like to explore with several existing friends in this space as well, including ModernLoss (www.modernloss.org).
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

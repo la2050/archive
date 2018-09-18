@@ -1,6 +1,6 @@
 ---
 organization_id: '2014024'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Crossroads
 organization_website: www.fallenfruitfromrisingwomen.org
 ein: '952925985'

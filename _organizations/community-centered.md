@@ -1,6 +1,6 @@
 ---
 organization_id: '2014017'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Community Centered
 organization_website: www.communitycentered.org
 ein: '371513488'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015136'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Melrose World Cinema Centers
 organization_website: www.mcenters.org
 ein: '263395966'

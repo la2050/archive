@@ -1,6 +1,6 @@
 ---
 organization_id: '2013051'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Dear Los Angeles
 organization_website: ''
 ein: N/A

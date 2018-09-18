@@ -1,6 +1,6 @@
 ---
 organization_id: '2018098'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 organization_website: www.promesaboyleheights.org
 ein: '953213958'

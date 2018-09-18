@@ -1,6 +1,6 @@
 ---
 organization_id: '2013074'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Freewaves
 organization_website: www.out-the-window.org
 ein: '954476207'

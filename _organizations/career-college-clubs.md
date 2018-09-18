@@ -1,6 +1,6 @@
 ---
 organization_id: '2015025'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Career & College clubs
 organization_website: www.careerandcollegeclubs.org
 ein: '954415401'

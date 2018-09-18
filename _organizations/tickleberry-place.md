@@ -1,6 +1,6 @@
 ---
 organization_id: '2016238'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Tickleberry Place
 organization_website: tickleberryplace.com
 ein: '465040951'

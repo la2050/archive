@@ -1,6 +1,6 @@
 ---
 organization_id: '2016008'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: America Scores LA
 organization_website: www.americascoresla.org
 ein: ''

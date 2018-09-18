@@ -1,6 +1,6 @@
 ---
 organization_id: '2016009'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: ANDesign Lab
 organization_website: www.andesignlab.com
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016083'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Friends of King
 organization_website: friendsofking.org
 ein: ''

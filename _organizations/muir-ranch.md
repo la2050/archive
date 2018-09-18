@@ -1,6 +1,6 @@
 ---
 organization_id: '2014060'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Muir Ranch
 organization_website: 'https://www.facebook.com/muirranch'
 ein: '237149451'

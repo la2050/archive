@@ -1,6 +1,6 @@
 ---
 organization_id: '2015198'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The Council of Mexican Federations (COFEM)
 organization_website: 'http://www.cofem.org'
 ein: '320154043'

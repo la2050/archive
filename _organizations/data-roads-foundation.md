@@ -1,6 +1,6 @@
 ---
 organization_id: '2018034'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Data Roads Foundation
 organization_website: 'https://DataRoads.org'
 ein: '311796801'

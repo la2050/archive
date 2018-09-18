@@ -1,6 +1,6 @@
 ---
 organization_id: '2016145'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Make Music Los Angeles
 organization_website: www.letsplayascape.com
 ein: ''

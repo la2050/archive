@@ -1,6 +1,6 @@
 ---
 organization_id: '2013172'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Step Up Women's Network
 organization_website: www.suwn.org
 ein: '954701468'

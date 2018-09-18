@@ -1,6 +1,6 @@
 ---
 organization_id: '2013097'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: InsightLA
 organization_website: 'http://www.insightla.org/'
 ein: '841713927'

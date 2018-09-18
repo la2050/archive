@@ -1,6 +1,6 @@
 ---
 organization_id: '2014036'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Fox Hills Ladera Healthy Family Association Inc.
 organization_website: www.foxhillsladera.org
 ein: '270471294'

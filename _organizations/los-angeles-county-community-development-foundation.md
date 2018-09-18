@@ -1,6 +1,6 @@
 ---
 organization_id: '2014168'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Los Angeles County Community Development Foundation
 organization_website: ''
 ein: '770469732'

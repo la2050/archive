@@ -1,6 +1,6 @@
 ---
 organization_id: '2013123'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Los Angeles County Perinatal Mental Health Task Force
 organization_website: www.MaternalMentalHealthLA.org
 ein: '954302067'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013023'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Bright Star Schools
 organization_website: www.brightstarschools.org
 ein: '550806673'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013103'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: KCETLink
 organization_website: www.kcet.org
 ein: '952211661'

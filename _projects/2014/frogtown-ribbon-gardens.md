@@ -6,7 +6,7 @@ project_summary: >-
   curriculum in public high schools lacking health education.
 category: live
 organization_id: '2018094'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Our program must have a 40-60 minute time slot during the school day, be able to reach the entire 9th grade in the school, and have a committed and supportive host teacher in the classroom at all times in order to achieve success.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

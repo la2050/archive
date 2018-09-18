@@ -1,6 +1,6 @@
 ---
 organization_id: '2013152'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Pasadena Arts Council
 organization_website: www.pasadenaartscouncil.org
 ein: '95254059'

@@ -6,7 +6,7 @@ project_summary: >-
   champion a water-smart Los Angeles
 category: live
 organization_id: '2014115'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -59,7 +59,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   TreePeople, ARUP
    City of LA Bureau of Engineering, City of LA Bureau of Sanitation/Watershed Protection Program, County of LA Flood Control/Watershed Management program, LADWP Stormwater Management, UCLA Water Resources Group, American Institute of Architects | Los Angeles, Perkins + Will Architects, AC Martin Architects, and Mia Lehrer + Associates. ALI has secured the preliminary interest of design leaders at USC, UCLA, CalPoly Pomona, Art Center College of Design, SCI-Arc, and of course Woodbury School of Architecture.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013083'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Grain of Sand - Granito de Arena
 organization_website: 'http://gsantamonic6.wix.com/granito-de-arena#!'
 ein: '460667294'

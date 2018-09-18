@@ -6,7 +6,7 @@ project_summary: >-
   through surveys, analyses, education and inspiration.
 category: connect
 organization_id: '2015196'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -93,7 +93,7 @@ Whom will your project benefit? Please be specific.: >-
    Collaboration with CicLAvia is confirmed, and we have worked with them at two previous events. CicLAvia benefits our project by bringing a huge audience, already familiar with Alternative Travel. Factors critical to the success of this collaboration are that we ensure enough volunteers to undertake the survey aspect, provide a welcoming booth to encourage people to visit us, and have a robust survey in place. We will ask participants to sign up to a mailing list so that we are able to follow up at a later date with the same group.
    Within our ‘ATP lifestyle’ neighborhood pilot area in the Arts District, we hope to work with local retailers, theHUB community of impact professionals, LA Clean Tech Incubator, GenesisLA & the Little Tokyo Services Center as well as the property developers creating new living spaces in the area. These collaborations are not confirmed, but we are in the process of introducing our project to these organizations. Success in the Arts District relies upon listening to what is important to the local people and understanding how ATP can benefit their neighborhood.
    To carry out these surveys we would like to collaborate with the Luskin School of Public Affairs at UCLA – their Institute for Transportation Studies would be a huge asset in assisting us with survey work & data analysis. This collaboration is not yet confirmed, though our collaborator CicLAvia is already working with the Luskin School & other UCLA researchers on several related projects, making this a natural partnership with the school.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

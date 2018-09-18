@@ -1,6 +1,6 @@
 ---
 organization_id: '2018044'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Get Lit - Words Ignite
 organization_website: getlit.org
 ein: '264644018'

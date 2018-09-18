@@ -6,7 +6,7 @@ project_summary: >-
   neighborhood with people, placemaking, and participatory design
 category: create
 organization_id: '2014081'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   abilities. Lastly, programming will be continuous to nurture cumulative
   growth, involvement and leadership development.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

@@ -8,7 +8,7 @@ project_summary: >-
   Boyle Heights.
 category: learn
 organization_id: '2016048'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -87,7 +87,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Our collaboration with the City of Los Angeles shows that LA is deeply invested in making sure that students in Boyle Heights succeed. 
    3. As part of the Boyle Heights Learning Collaborative, and through our relationships with other CBOs, CTBH coordinates with other non-profits who support our students’ non-academic and social/emotional needs.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

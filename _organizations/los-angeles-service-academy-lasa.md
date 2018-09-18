@@ -1,6 +1,6 @@
 ---
 organization_id: '2018077'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Los Angeles Service Academy (LASA)
 organization_website: 'http://laserviceacademy.org;'
 ein: '951644589'

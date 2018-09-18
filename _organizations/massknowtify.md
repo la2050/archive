@@ -1,6 +1,6 @@
 ---
 organization_id: '2014057'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: MassKnowtify
 organization_website: 'http://www.massknowtify.com'
 ein: '463345611'

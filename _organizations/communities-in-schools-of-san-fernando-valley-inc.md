@@ -1,6 +1,6 @@
 ---
 organization_id: '2013043'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Communities In Schools of San Fernando Valley, Inc.'
 organization_website: www.cisgla.org
 ein: '954523780'

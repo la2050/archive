@@ -1,6 +1,6 @@
 ---
 organization_id: '2013166'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Slake: Los Angeles'
 organization_website: slake.la
 ein: '181608474'

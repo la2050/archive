@@ -1,6 +1,6 @@
 ---
 organization_id: '2014208'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Prep Source
 organization_website: ''
 ein: '470992851'

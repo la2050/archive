@@ -1,6 +1,6 @@
 ---
 organization_id: '2013127'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Los Angeles Youth Orchestra
 organization_website: 'http://losangelesyouthorchestra.org/layo'
 ein: '244703063'

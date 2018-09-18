@@ -6,7 +6,7 @@ project_summary: >-
   Sustainable Communities.
 category: create
 organization_id: '2018089'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/SustainabilityCenter.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -97,7 +97,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Los Angeles Department of Neighborhood Empowerment – As the oversight agency of neighborhood councils, LADNE will provide extensive outreach, special project coordination, and a grassroots connection to regional community groups. 
    • LA County Department of Health – Committed to helping us create living projects and support our clinic plan.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

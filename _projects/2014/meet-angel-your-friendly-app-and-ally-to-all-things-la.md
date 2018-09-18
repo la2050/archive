@@ -6,7 +6,7 @@ project_summary: >-
   uniting people in tourism, activism and community connections.
 category: connect
 organization_id: '2014066'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -122,7 +122,7 @@ Whom will your project benefit? Please be specific.: >-
    (1) Partner engagement to clientele
    (2) Clientele interest through partner
    (3) Mutually beneficial results for both us and partner
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

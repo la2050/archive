@@ -1,6 +1,6 @@
 ---
 organization_id: '2013060'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Electronic Music Alliance
 organization_website: www.ema-global.org
 ein: '262025234'

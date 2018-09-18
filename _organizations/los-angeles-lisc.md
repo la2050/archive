@@ -1,6 +1,6 @@
 ---
 organization_id: '2016136'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Los Angeles LISC
 organization_website: www.lisc.org/los_angeles
 ein: ''

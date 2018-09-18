@@ -1,6 +1,6 @@
 ---
 organization_id: '2013036'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: CityLife-LA
 organization_website: 'http://citylife-la.org'
 ein: '461878739'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014178'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 organization_website: ''
 ein: '270903202'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014002'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
 organization_website: 3boulevards.org
 ein: '954086813'

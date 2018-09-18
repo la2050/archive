@@ -1,6 +1,6 @@
 ---
 organization_id: '2013110'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: L.A. River Revitalization Corporation
 organization_website: www.larivercorp.com
 ein: '272245545'

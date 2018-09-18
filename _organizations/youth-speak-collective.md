@@ -1,6 +1,6 @@
 ---
 organization_id: '2014111'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Youth Speak Collective
 organization_website: www.youthspeakmediasolutions.org
 ein: '270126980'

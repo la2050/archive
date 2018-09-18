@@ -1,6 +1,6 @@
 ---
 organization_id: '2014075'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: QueerFest
 organization_website: 'http://queerfest.la'
 ein: '952540759'

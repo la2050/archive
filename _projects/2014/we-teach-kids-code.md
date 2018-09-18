@@ -4,7 +4,7 @@ title: We Teach Kids Code
 project_summary: 'We teach HTML, CSS and JavaScript to students in Middle School and up.'
 category: learn
 organization_id: '2014180'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -53,7 +53,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Yes, they have provided insight and guidance for the current iteration of our curriculum
    - Consistent feedback loop on the curriculum, quality of instructor training, maintaining connections in the tech world.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

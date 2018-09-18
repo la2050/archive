@@ -1,6 +1,6 @@
 ---
 organization_id: '2014054'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Los Angeles Biohackers, Inc'
 organization_website: biohackers.la
 ein: '1'

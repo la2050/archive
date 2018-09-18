@@ -8,7 +8,7 @@ project_summary: >-
   landscaping, general enhancement of the ambient environment
 category: create
 organization_id: '2014002'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -86,7 +86,7 @@ Whom will your project benefit? Please be specific.: >-
   momentum from actions taken by others that will inspire new efforts by others.
   We want the participants to "own" the improvements and to inspire others to do
   their small part that will make an enormous contribution to the community.
-'': '1'
+empty_column_1: '1'
 body_class: banana
 
 ---

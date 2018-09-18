@@ -6,7 +6,7 @@ project_summary: >-
   new futures for the students and devise a plan to get there.
 category: learn
 organization_id: '2014156'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -90,7 +90,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Moving forward, ITC will strengthen existing partnerships as well as establish new collaborations with surrounding colleges and universities, mentoring agencies, and parent advocacy agencies in East Los Angeles. These partnerships will be successful insofar as we see each other as vital in holistically impacting the trajectory of lives in East Los Angelenos; we can not view each other as competition, but must be able to share and utilize resources conducive to growth.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

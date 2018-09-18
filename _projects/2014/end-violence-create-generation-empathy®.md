@@ -6,7 +6,7 @@ project_summary: >-
   youth – Generation Empathy®, who break the cycle of violence.
 category: play
 organization_id: '2015190'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Boyle Heights Neighborhood Coalition
    Roosevelt High School
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

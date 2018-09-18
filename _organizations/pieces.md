@@ -1,6 +1,6 @@
 ---
 organization_id: '2016171'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: PIECES
 organization_website: www.PIECESarts.org
 ein: '800819008'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016015'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Arts For Incarcerated Youth Network
 organization_website: www.aiynetwork.org
 ein: '954302067'

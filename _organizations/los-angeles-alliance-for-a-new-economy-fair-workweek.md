@@ -1,6 +1,6 @@
 ---
 organization_id: '2018072'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Los Angeles Alliance for a New Economy-Fair Workweek
 organization_website: fairworkweekla.org
 ein: '954459427'

@@ -4,7 +4,7 @@ title: Spreading ChapCares Retail Health Insurance Enrollment Shop Model
 project_summary: '1'
 category: live
 organization_id: '2014204'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -57,7 +57,7 @@ What will you do to implement this idea/project?: >-
    These have not bee secured but we are in the process now of getting them.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

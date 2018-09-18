@@ -1,6 +1,6 @@
 ---
 organization_id: '2014116'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
 organization_website: ''
 ein: '954592961'

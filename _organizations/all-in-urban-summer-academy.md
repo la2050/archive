@@ -1,6 +1,6 @@
 ---
 organization_id: '2018006'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: All-In Urban Summer Academy
 organization_website: urbansummeracademy.org
 ein: '814435851'

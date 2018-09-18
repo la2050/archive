@@ -1,6 +1,6 @@
 ---
 organization_id: '2014067'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Pershing Square Park Advisory Board
 organization_website: www.laparks.org/pershingsquare
 ein: '954302067'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014021'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Constitutional Rights Foundation, CRF'
 organization_website: www.crf-usa.org
 ein: '952219680'

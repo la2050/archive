@@ -1,6 +1,6 @@
 ---
 organization_id: '2013089'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Heart of Los Angeles (HOLA)
 organization_website: www.heartofla.org
 ein: '954397418'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015114'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Life Change Up
 organization_website: www.LifeChangeUp.com
 ein: '475212304'

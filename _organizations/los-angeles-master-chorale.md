@@ -1,6 +1,6 @@
 ---
 organization_id: '2018076'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Los Angeles Master Chorale
 organization_website: 'http://www.lamasterchorale.org'
 ein: '952315682'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016028'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'Building Healthy Communities: Long Beach'
 organization_website: bhclongbeach.org
 ein: ''

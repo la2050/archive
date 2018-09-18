@@ -1,6 +1,6 @@
 ---
 organization_id: '2016248'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: >-
   University of Southern California, Mobile + Environmental Media Lab in the
   School of Cinematic Arts

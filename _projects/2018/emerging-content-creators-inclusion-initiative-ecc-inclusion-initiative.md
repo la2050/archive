@@ -1,6 +1,6 @@
 ---
 project_id: '8102121'
-year_submitted: '2018'
+year_submitted: 2018
 title: Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
 project_summary: >-
   Through the this activation, NALIP aims to provide support for college ready
@@ -58,7 +58,7 @@ make_la_great: >-
 category: create
 organization_id: '2018121'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
+  https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/national-association-of-latino-independent-producers-nalip.jpg
 project_video: 'https://youtu.be/3uy1I03CPas'
 body_class: banana
 

@@ -1,6 +1,6 @@
 ---
 project_id: '8102026'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'AirCareLA, an Air Quality Education Pilot'
 project_summary: >-
   Deploy 150 air quality sensors on streetlights Citywide to provide
@@ -37,7 +37,7 @@ make_la_great: >-
 category: live
 organization_id: '2018026'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
+  https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/city-of-los-angeles-bureau-of-street-lighting.jpg
 project_video: 'https://youtu.be/tVCxc_xD6Xo'
 body_class: lime
 

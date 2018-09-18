@@ -1,6 +1,6 @@
 ---
 organization_id: '2015073'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Grand Performances
 organization_website: www.grandperformances.org
 ein: '954576761'

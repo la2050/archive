@@ -1,6 +1,6 @@
 ---
 organization_id: '2014005'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Alma Backyard Farms
 organization_website: www.AlmaBackyardFarms.com
 ein: '463516486'

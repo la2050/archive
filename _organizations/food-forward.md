@@ -1,6 +1,6 @@
 ---
 organization_id: '2013070'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Food Forward
 organization_website: www.foodforward.org
 ein: '900678872'

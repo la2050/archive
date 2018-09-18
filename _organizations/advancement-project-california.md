@@ -1,6 +1,6 @@
 ---
 organization_id: '2014003'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Advancement Project California
 organization_website: 'http://www.advancementprojectca.org'
 ein: '954835230'

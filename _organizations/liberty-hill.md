@@ -1,6 +1,6 @@
 ---
 organization_id: '2013121'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Liberty Hill
 organization_website: 'http://www.libertyhill.org/'
 ein: '510181191'

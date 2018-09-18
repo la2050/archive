@@ -1,6 +1,6 @@
 ---
 organization_id: '2018042'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Future America
 organization_website: www.futureamerica.com
 ein: '954425671'

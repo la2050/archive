@@ -1,6 +1,6 @@
 ---
 organization_id: '2016055'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Concerned Capital
 organization_website: www.concernedcapital.org
 ein: ''

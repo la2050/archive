@@ -1,6 +1,6 @@
 ---
 organization_id: '2015063'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Farm LA
 organization_website: www.farmla.org
 ein: '473050128'

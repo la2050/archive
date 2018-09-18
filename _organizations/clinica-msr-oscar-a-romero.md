@@ -1,6 +1,6 @@
 ---
 organization_id: '2015039'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Clinica Msr. Oscar A. Romero
 organization_website: www.clinicaromero.com
 ein: '953881333'

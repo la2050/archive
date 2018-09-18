@@ -6,7 +6,7 @@ project_summary: >-
   for 2-5 yr old children, one for 5-12 yr old children.
 category: play
 organization_id: '2014067'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Open Communication between Department and PAB
    3. Community support and engagement
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

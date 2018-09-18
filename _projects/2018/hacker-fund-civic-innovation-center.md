@@ -1,6 +1,6 @@
 ---
 project_id: '8102050'
-year_submitted: '2018'
+year_submitted: 2018
 title: Hacker Fund Civic Innovation Center
 project_summary: >-
   Hacker Fund is launching a Civic Innovation Center in order to provide
@@ -32,7 +32,7 @@ make_la_great: >-
    The CIC will be funded through a combination of grant funding (including LA2050 and $50,000 that we have already received from the Craig Newmark Philanthropic Fund), membership fees, corporate sponsorship, and in-kind donations.
 category: create
 organization_id: '2018050'
-project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hacker-fund.jpg'
+project_image: 'https://activation.la2050.org/create/hacker-fund/hacker-fund.jpg'
 project_video: 'https://vimeo.com/231126321'
 body_class: banana
 

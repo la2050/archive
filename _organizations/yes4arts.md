@@ -1,6 +1,6 @@
 ---
 organization_id: '2015227'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Yes4arts
 organization_website: www.yes4arts.org
 ein: '473851439'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013160'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Reach For theTop, Inc.'
 organization_website: 'http://www.reach4thetop.org/'
 ein: '571236341'

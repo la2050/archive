@@ -1,6 +1,6 @@
 ---
 organization_id: '2016212'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Billboard Creative (TBC)
 organization_website: tbc.la
 ein: ''

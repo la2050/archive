@@ -6,7 +6,7 @@ project_summary: >-
   create a more resilient Los Angeles.
 category: connect
 organization_id: '2015008'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/communityambassadors.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -91,7 +91,7 @@ Whom will your project benefit? Please be specific.: >-
   factors critical to our success of these collaborations are: shared mission;
   continual dialogue about best practices; and exchange of ideas, promotion and
   training programs.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

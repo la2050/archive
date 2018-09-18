@@ -1,6 +1,6 @@
 ---
 organization_id: '2014044'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Interpretive Media Laboratory (IMLab)
 organization_website: 'http://imlab.ucla.edu'
 ein: '956006143'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013145'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: No Right Brain Left Behind and Green Dot Schools
 organization_website: www.rightbrainsare.us
 ein: '954679811'

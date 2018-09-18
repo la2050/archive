@@ -1,6 +1,6 @@
 ---
 organization_id: '2014107'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'With Love Market and Cafe, With Love Community Market and Cafe'
 organization_website: Communitymarketandcafe.com
 ein: '463776168'

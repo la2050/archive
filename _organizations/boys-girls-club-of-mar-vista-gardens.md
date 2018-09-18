@@ -1,6 +1,6 @@
 ---
 organization_id: '2013020'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Boys & Girls Club of Mar Vista Gardens
 organization_website: 'http://www.smbgc.org'
 ein: '951890706'

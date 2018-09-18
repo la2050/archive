@@ -1,6 +1,6 @@
 ---
 organization_id: '2018060'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'LA Commons, a project of Community Partners'
 organization_website: www.lacommons.org
 ein: '954302067'

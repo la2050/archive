@@ -1,6 +1,6 @@
 ---
 organization_id: '2016172'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Planned Parenthood Los Angeles (PPLA)
 organization_website: www.plannedparenthood.org/planned-parenthood-los-angeles
 ein: '952408623'

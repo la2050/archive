@@ -1,6 +1,6 @@
 ---
 project_id: '8102020'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Fostering a better future for LA youth by expanding a successful foster family
   recruitment campaign.
@@ -29,7 +29,7 @@ make_la_great: >-
 category: play
 organization_id: '2018020'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
+  https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/tides-center-dba-childrens-action-network.jpg
 project_video: 'https://youtu.be/JPeuzRmiI3w'
 body_class: strawberry
 

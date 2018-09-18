@@ -1,6 +1,6 @@
 ---
 organization_id: '2013114'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: La Loma Development Company
 organization_website: www.lalomadevelopment.com
 ein: '260139462'

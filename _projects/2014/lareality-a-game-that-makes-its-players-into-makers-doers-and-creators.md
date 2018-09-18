@@ -6,7 +6,7 @@ project_summary: >-
   form, creating amazing experiences for the entire city of LA.
 category: create
 organization_id: '2014104'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LAReality.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -68,7 +68,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - give them ownership over the experience and how they'd like it to play out
    - keep the experience small and intimate - this makes it special and doesn't turn it into a circus
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

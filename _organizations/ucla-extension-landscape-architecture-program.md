@@ -1,6 +1,6 @@
 ---
 organization_id: '2014101'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: UCLA Extension Landscape Architecture Program
 organization_website: 'http://landarch.uclaextension.edu/'
 ein: '956006143'

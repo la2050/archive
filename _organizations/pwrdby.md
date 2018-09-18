@@ -1,6 +1,6 @@
 ---
 organization_id: '2014074'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: PwrdBy
 organization_website: www.pwrdby.com
 ein: '270526225'

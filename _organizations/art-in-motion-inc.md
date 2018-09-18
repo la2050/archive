@@ -1,6 +1,6 @@
 ---
 organization_id: '2014009'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Art In Motion, Inc.'
 organization_website: 'http://www.spiffest.org/about/photos-youth-film-intensive/'
 ein: '352474605'

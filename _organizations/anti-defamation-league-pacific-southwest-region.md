@@ -1,6 +1,6 @@
 ---
 organization_id: '2014113'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Anti-Defamation League - Pacific Southwest Region
 organization_website: ''
 ein: '131818723'

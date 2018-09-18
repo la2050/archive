@@ -1,6 +1,6 @@
 ---
 organization_id: '2014090'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Human Element Project
 organization_website: thehumanelementproject.com
 ein: '912039095'

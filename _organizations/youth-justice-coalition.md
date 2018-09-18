@@ -1,6 +1,6 @@
 ---
 organization_id: '2015228'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Youth Justice Coalition
 organization_website: www.youth4justice.org
 ein: '830466818'

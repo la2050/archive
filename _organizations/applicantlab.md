@@ -1,6 +1,6 @@
 ---
 organization_id: '2015011'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: ApplicantLab
 organization_website: www.ApplicantLab.com
 ein: '473354380'

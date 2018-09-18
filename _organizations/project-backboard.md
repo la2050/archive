@@ -1,6 +1,6 @@
 ---
 organization_id: '2015159'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Project Backboard
 organization_website: 'http://www.projectbackboard.org/'
 ein: '475245280'

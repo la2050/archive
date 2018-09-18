@@ -1,6 +1,6 @@
 ---
 organization_id: '2015180'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Silverlake Independent Jewish Community Center
 organization_website: www.sijcc.net
 ein: '320003071'

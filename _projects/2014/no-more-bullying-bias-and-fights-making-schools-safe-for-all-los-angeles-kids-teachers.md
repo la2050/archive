@@ -8,7 +8,7 @@ project_summary: >-
   address bias and bullying and to resolve disputes positively.
 category: learn
 organization_id: '2014224'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -97,7 +97,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    WJC values collaborations with the leadership and staff of individual schools. A single educator cannot create and/or sustain a safe and inclusive school; administrators and other school staff members must also support conflict resolution as a way to create a school climate that promotes learning. We look for this collaboration as we implement each program: educators who have the support of their administration to start an anti-bully or anti-bias or peer mediation program; a principal’s validation that students and advisers from his or her school should participate in Haven; a school’s suggestion that parents check out Haven School Tools.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

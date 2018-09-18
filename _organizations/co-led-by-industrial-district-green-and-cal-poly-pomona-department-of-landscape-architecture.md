@@ -1,6 +1,6 @@
 ---
 organization_id: '2016045'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.

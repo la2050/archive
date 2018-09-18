@@ -1,6 +1,6 @@
 ---
 organization_id: '2015076'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
   Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church L.A.

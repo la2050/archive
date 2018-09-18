@@ -1,6 +1,6 @@
 ---
 organization_id: '2015046'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Council for Watershed Health
 organization_website: www.watershedhealth.org
 ein: '261198327'

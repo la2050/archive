@@ -1,6 +1,6 @@
 ---
 organization_id: '2013078'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Garden School Foundation
 organization_website: 'http://www.gardenschoolfoundation.org'
 ein: '203023426'

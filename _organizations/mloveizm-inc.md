@@ -1,6 +1,6 @@
 ---
 organization_id: '2013137'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: MLoveizm Inc.
 organization_website: 'http://www.mloveizm.com'
 ein: '452495405'

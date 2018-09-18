@@ -1,6 +1,6 @@
 ---
 organization_id: '2013052'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: design east of La Brea
 organization_website: 'http://www.designeastoflabrea.org'
 ein: '272832901'

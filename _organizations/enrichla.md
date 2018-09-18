@@ -1,6 +1,6 @@
 ---
 organization_id: '2014032'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: EnrichLA
 organization_website: 'http://www.enrichla.org'
 ein: '272797687'

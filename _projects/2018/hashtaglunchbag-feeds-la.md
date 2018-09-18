@@ -1,6 +1,6 @@
 ---
 project_id: '8102002'
-year_submitted: '2018'
+year_submitted: 2018
 title: '#HashtagLunchbag Feeds LA'
 project_summary: >-
   #HashtagLunchbag - through the power of social media and dedicated volunteers
@@ -37,7 +37,7 @@ make_la_great: >-
 category: live
 organization_id: '2018002'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
+  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit.jpg
 project_video: 'https://www.youtube.com/watch?v=3WjUJh2z0WE'
 body_class: lime
 

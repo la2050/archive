@@ -1,6 +1,6 @@
 ---
 organization_id: '2015051'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Downtown Women's Center
 organization_website: www.DowntownWomensCenter.org
 ein: '#N/A'

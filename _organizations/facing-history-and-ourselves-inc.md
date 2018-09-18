@@ -1,6 +1,6 @@
 ---
 organization_id: '2015061'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Facing History and Ourselves, Inc.'
 organization_website: www.facinghistory.org
 ein: '42761636'

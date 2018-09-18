@@ -1,6 +1,6 @@
 ---
 organization_id: '2013048'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Creative Visions Foundation
 organization_website: 'http://www.creativevisions.org'
 ein: 39190 2814

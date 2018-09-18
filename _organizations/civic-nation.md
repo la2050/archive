@@ -1,6 +1,6 @@
 ---
 organization_id: '2016041'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Civic Nation
 organization_website: civicnation.org
 ein: ''

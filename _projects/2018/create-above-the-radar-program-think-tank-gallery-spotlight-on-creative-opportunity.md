@@ -1,6 +1,6 @@
 ---
 project_id: '8102125'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
   Opportunity
@@ -45,7 +45,7 @@ make_la_great: >-
 category: create
 organization_id: '2018125'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/think-tank-productions-inc-dba-think-tank-gallery.jpg
+  https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/think-tank-productions-inc-dba-think-tank-gallery.jpg
 project_video: 'https://youtu.be/msrLyYttTv8'
 body_class: banana
 

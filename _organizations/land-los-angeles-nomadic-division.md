@@ -1,6 +1,6 @@
 ---
 organization_id: '2016126'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: LAND (Los Angeles Nomadic Division)
 organization_website: www.nomadicdivision.org
 ein: ''

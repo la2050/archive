@@ -173,19 +173,19 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     // console.log("Couldn’t parse areas_impacted: " + data.areas_impacted)
   }
 
-  if (data.year_submitted === '2018') {
+  if (data.year_submitted == 2018) {
     data.project_image = data.project_image.replace(/https\:\/\/activation.la2050.org\/([^/]+)\/[^/]+\/([^\.]+)\.jpg/, function(match, p1, p2, offset, string) {
       // p1 is nondigits, p2 digits, and p3 non-alphanumerics
       if (!data.category) data.category = p1
       return `https://activation.la2050.org/assets/images/${p1}/2048-wide/${p2}.jpg`
     })
-  } else if (data.year_submitted === '2016') {
+  } else if (data.year_submitted == 2016) {
     if (!data.project_image.includes('http')) {
       data.project_image = `https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/${data.project_image}`
     }
-  } else if (data.year_submitted === "2015" || 
-             data.year_submitted === "2014" ||
-             data.year_submitted === "2013") {
+  } else if (data.year_submitted == 2015 || 
+             data.year_submitted == 2014 ||
+             data.year_submitted == 2013) {
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
       if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
       let match = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
@@ -290,6 +290,8 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
     if (!records[index].title) {
       records[index].title = records[index].organization_name || "Organization title, to be determined"
     }
+
+    records[index].year_submitted = Number(records[index].year_submitted)
 
     createMarkdownFile(records[index], makerProjects, makerImages, makerProjectAnswers)
   }

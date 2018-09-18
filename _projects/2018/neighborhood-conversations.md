@@ -1,6 +1,6 @@
 ---
 project_id: '8102115'
-year_submitted: '2018'
+year_submitted: 2018
 title: Neighborhood Conversations
 project_summary: >-
   New online deliberative survey app engages disillusioned neighborhoods in
@@ -86,8 +86,7 @@ make_la_great: >-
    Our metric is voter turn out, and deliberative engagement has been shown to increase that. And with everyone in LA connecting and working together deliberatively, awesome, impossible things - will happen.
 category: connect
 organization_id: '2018115'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
+project_image: 'https://activation.la2050.org/connect/synaccord-llc/synaccord-llc.jpg'
 project_video: '0'
 body_class: tangerine
 

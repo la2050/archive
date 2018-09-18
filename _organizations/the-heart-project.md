@@ -1,6 +1,6 @@
 ---
 organization_id: '2013188'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The HeArt Project
 organization_website: www.theheartproject.org
 ein: '954199692'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013112'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: LA CAUSA YouthBuild
 organization_website: www.lacausainc.org
 ein: '320150097'

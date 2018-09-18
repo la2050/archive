@@ -6,7 +6,7 @@ project_summary: >-
   next great public space fusing nature, art, and play.
 category: play
 organization_id: '2014033'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Three critical factors for successful collaboration: shared vision statement for the Cultural Master Plan; experienced in working collaboratively with clearly defined roles and responsibilities, and ability and experience working with multiple stakeholders and agencies
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

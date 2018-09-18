@@ -1,6 +1,6 @@
 ---
 organization_id: '2018069'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: LOLA
 organization_website: www.lola.cool
 ein: '301007192'

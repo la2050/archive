@@ -1,6 +1,6 @@
 ---
 organization_id: '2015142'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: National Park Foundation
 organization_website: www.nationalparks.org
 ein: '521086761'

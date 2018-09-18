@@ -1,6 +1,6 @@
 ---
 organization_id: '2014050'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Law Soup, Inc.'
 organization_website: www.lawsoup.org
 ein: '471443694'

@@ -8,7 +8,7 @@ project_summary: >-
   that improve LA’s environment and reduce greenhouse gases.
 category: live
 organization_id: '2015037'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The success of our collaborations will depend on a trusting relationship and clear expectations about each party’s responsibilities and deliverables. We are creating a standard memorandum of understanding, which will minimize the risk of miscommunication and divergent expectations. For Climate Cents, we must have guarantees that our funding contributions will flow directly and completely to the pre-set projects, and not be diverted to other programs or administrative costs. We must also regularly receive updated information about the results of the funding, with specific metrics such as trees planted and pounds of carbon reduced. We will also need to access to the partner’s project sites so we can document them with photo and videos. In return, partners should have a clear expectation of how roughly much funding they can expect from Climate Cents and on what basis and conceivable schedule it will be provided.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

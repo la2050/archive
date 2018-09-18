@@ -1,6 +1,6 @@
 ---
 organization_id: '2016050'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Common Threads
 organization_website: www.commonthreads.org
 ein: '200106847'

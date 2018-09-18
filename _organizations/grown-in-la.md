@@ -1,6 +1,6 @@
 ---
 organization_id: '2016095'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Grown in LA
 organization_website: www.growninla.org
 ein: ''

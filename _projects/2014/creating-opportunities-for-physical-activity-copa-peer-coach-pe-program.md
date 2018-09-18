@@ -6,7 +6,7 @@ project_summary: >-
   lifeline to women impacted by addiction, mental illness and trauma.
 category: live
 organization_id: '2015161'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    These partnerships are long-standing and contribute to the success of our residential program. Three critical factors that have help ensure our successful collaboration is open communication on project status through reports and meetings, effective partnership agreements and mutual support on projects.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

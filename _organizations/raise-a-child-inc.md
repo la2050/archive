@@ -1,6 +1,6 @@
 ---
 organization_id: '2018100'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Raise A Child, Inc.'
 organization_website: 'https://raiseachild.org'
 ein: '453665296'

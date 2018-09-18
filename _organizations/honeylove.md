@@ -1,6 +1,6 @@
 ---
 organization_id: '2013091'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: HoneyLove
 organization_website: 'http://www.honeylove.org/'
 ein: '452863213'

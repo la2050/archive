@@ -1,6 +1,6 @@
 ---
 organization_id: '2014177'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: MetroHealth Station - Jefferson Park
 organization_website: ''
 ein: '384782470'

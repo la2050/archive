@@ -1,6 +1,6 @@
 ---
 organization_id: '2016099'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'Here to Serve, Inc'
 organization_website: www.heretoserve.org
 ein: ''

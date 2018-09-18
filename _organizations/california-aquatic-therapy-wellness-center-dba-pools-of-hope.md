@@ -1,6 +1,6 @@
 ---
 organization_id: '2016029'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 organization_website: www.caaquatictherapy.com
 ein: ''

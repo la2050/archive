@@ -1,6 +1,6 @@
 ---
 organization_id: '2016060'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: County of Los Angeles Public Library
 organization_website: www.colapublib.org/tytt
 ein: ''

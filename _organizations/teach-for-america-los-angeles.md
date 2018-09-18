@@ -1,6 +1,6 @@
 ---
 organization_id: '2016209'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Teach For America-Los Angeles
 organization_website: losangeles.teachforamerica.org
 ein: '133541913'

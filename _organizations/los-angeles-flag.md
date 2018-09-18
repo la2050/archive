@@ -1,6 +1,6 @@
 ---
 organization_id: '2015124'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles Flag
 organization_website: www.losangelesflag.org
 ein: '475236157'

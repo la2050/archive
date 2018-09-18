@@ -1,6 +1,6 @@
 ---
 organization_id: '2015219'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Unycyn Civic Arts
 organization_website: www.flowproject.la
 ein: '473612459'

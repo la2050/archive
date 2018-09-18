@@ -1,6 +1,6 @@
 ---
 organization_id: '2016232'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Sierra Club Foundation
 organization_website: www.sierraclubfoundation.org
 ein: ''

@@ -6,7 +6,7 @@ project_summary: >-
   developing core competencies in agro-ecology and community organizing.
 category: live
 organization_id: '2018099'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    8) Amigos de Los Rios
    9) UCLA School of Public Health
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

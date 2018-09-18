@@ -1,6 +1,6 @@
 ---
 organization_id: '2014043'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: i.am.angel Foundation
 organization_website: www.iamangelfoundation.org
 ein: '273419857'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016242'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Union Rescue Mission
 organization_website: www.urm.org
 ein: '951709293'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016123'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: LA Plaza de Cultura y Artes
 organization_website: www.lapca.org
 ein: ''

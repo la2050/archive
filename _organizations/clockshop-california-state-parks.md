@@ -1,6 +1,6 @@
 ---
 organization_id: '2016042'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Clockshop & California State Parks
 organization_website: clockshop.org
 ein: ''

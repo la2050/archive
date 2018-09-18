@@ -1,6 +1,6 @@
 ---
 organization_id: '2015221'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Urban Word Los Angeles
 organization_website: www.urbanword.org
 ein: '922748922'

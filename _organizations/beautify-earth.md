@@ -1,6 +1,6 @@
 ---
 organization_id: '2014013'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Beautify Earth
 organization_website: BeautifyEarth.org
 ein: '464749422'

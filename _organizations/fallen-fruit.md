@@ -1,6 +1,6 @@
 ---
 organization_id: '2016076'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Fallen Fruit
 organization_website: www.fallenfruit.org
 ein: '557066495'

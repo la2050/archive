@@ -1,6 +1,6 @@
 ---
 organization_id: '2016090'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Girls Inc. of Greater Los Angeles
 organization_website: girlsincla.org
 ein: '131915124'

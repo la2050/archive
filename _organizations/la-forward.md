@@ -1,6 +1,6 @@
 ---
 organization_id: '2018062'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: LA Forward
 organization_website: 'https://www.losangelesforward.org/'
 ein: '954781974'

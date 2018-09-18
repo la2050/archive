@@ -6,7 +6,7 @@ project_summary: >-
   violence and foster mentor and peer to peer accountability.
 category: connect
 organization_id: '2016113'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/YouthConversations.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -76,7 +76,7 @@ Whom will your project benefit? Please be specific.: >-
    When we asked some of the ICON MANN participants the questions (1) Why was it important for you to be there? (2) Why are these youths vital?, Graylind R. Wheery/Director of Finance for Sony stated, “I think it was important for me to be part of the conversation because of one of the key topics…“Manhood”. For youth “Manhood”, in some cases, is defined by images seen through various media outlets or through personal interactions. Unfortunately, as in the case of many of the victims who seek Jenesse services for support, some of the personal interactions are not positive ones and the youth will get a skewed view of Manhood thus increasing the chances of a cycle of violence and abuse. Being there and a part of the discussion provided a platform to help change that view. Simply put, we provided the youth with another perspective…a positive perspective. Not to suggest that some of the youth did not already have positive male role models, but more re-enforcement can’t hurt. These youth are vital because they have a voice and can be advocates in getting the Jenesse message out. They will also be leaders and influencers of tomorrow. By providing them with a broad set of exposures today, we are equipping them to not only survive, but also to thrive in an ever changing and complex world. I only hope my words resonated with them.”
    2. Coordinated Community Response Network- A network of organizations who together will ensure access to community resources and provide a victim-centered response to domestic
    violence, teen dating violence, sexual assault, stalking and other youth issues. Our Memorandum of Understanding Partners include: Watts Healthcare Corporation, Green Dot Public Schools Animo (Alain) Leroy Locke High School, South Central Training Consortium, and Los Angeles Police Department/Wilshire Area Leadership Academy.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

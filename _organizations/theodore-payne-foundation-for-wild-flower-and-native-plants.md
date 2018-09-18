@@ -1,6 +1,6 @@
 ---
 organization_id: '2016236'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
 organization_website: theodorepayne.org
 ein: '956095398'

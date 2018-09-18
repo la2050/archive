@@ -1,6 +1,6 @@
 ---
 organization_id: '2016250'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: USC Annenberg Innovation Lab
 organization_website: annenberglab.com
 ein: ''

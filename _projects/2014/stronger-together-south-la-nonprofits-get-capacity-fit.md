@@ -6,7 +6,7 @@ project_summary: >-
   revenue and help other South LA orgs achieve their missions.
 category: connect
 organization_id: '2014082'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -103,7 +103,7 @@ Whom will your project benefit? Please be specific.: >-
    CompassPoint Nonprofit Services [http://www.compasspoint.org/] is an additional committed partner, assisting in training, coaching and curriculum development. While based in the Bay Area, they literally have written the textbooks on consulting, coaching, facilitation and other tools and techniques. With their commitment and expertise, CompassPoint will benefit us by expediting the facilitator process and by providing coaching to the SoACT capacity building team. 
    
    Three factors critical to the success of our project include: maintaining credible and responsive relationships with SLA nonprofits; maximizing the use of social network tools to engage and make more readily available capacity building knowledge; and cultural competence and responsiveness to the unique needs of diverse organizations.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

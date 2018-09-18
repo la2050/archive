@@ -1,6 +1,6 @@
 ---
 organization_id: '2014207'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Los Angeles LGBT Center
 organization_website: ''
 ein: '953567895'

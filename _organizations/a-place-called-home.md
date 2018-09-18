@@ -1,6 +1,6 @@
 ---
 organization_id: '2015002'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: A Place Called Home
 organization_website: www.Apch.org
 ein: '954427291'

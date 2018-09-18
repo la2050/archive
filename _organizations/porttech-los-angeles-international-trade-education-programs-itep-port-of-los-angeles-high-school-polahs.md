@@ -1,6 +1,6 @@
 ---
 organization_id: '2015158'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
   Los Angeles High School (POLAHS)

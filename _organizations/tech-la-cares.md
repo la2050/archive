@@ -1,6 +1,6 @@
 ---
 organization_id: '2016210'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Tech LA Cares
 organization_website: techlacares.com
 ein: '841631105'

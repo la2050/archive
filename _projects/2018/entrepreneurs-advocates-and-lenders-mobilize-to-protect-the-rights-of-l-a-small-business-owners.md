@@ -1,6 +1,6 @@
 ---
 project_id: '8102093'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
   Small Business Owners.
@@ -39,8 +39,7 @@ make_la_great: >-
    We also will create and advance a policy agenda informed by feedback from LA entrepreneurs. To advocate for stronger legal protections, we will collect stories from small business owners who have been trapped by predatory lenders, and we will share these stories widely. We will train small business spokespeople to speak with the media and send opinion pieces to local outlets. We will meet with local government leaders to elevate the issue, and we will connect our spokespeople with their elected representatives to ensure that policymakers understand the detrimental impact of predatory lending on local business. These activities will raise public awareness about this issue and push for reforms to current lax lending laws.
 category: learn
 organization_id: '2018093'
-project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/opportunity-fund.jpg
+project_image: 'https://activation.la2050.org/create/opportunity-fund/opportunity-fund.jpg'
 project_video: 'https://youtu.be/KrGSS4OtP50'
 body_class: blueberry
 

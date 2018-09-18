@@ -1,6 +1,6 @@
 ---
 organization_id: '2018116'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Team Rubicon
 organization_website: 'https://teamrubiconusa.org/'
 ein: '271720480'

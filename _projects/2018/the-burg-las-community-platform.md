@@ -1,6 +1,6 @@
 ---
 project_id: '8102118'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'The Burg: LA''s Community Platform'
 project_summary: >-
   The Burg is the community's platform, a digital public square that funnels
@@ -42,7 +42,7 @@ make_la_great: >-
    We started The Burg is because of the clear need and the widespread lack of technology and innovation in this space. Simply put, there is no purpose driven platform that solves this problem.
 category: live
 organization_id: '2018118'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
+project_image: 'https://activation.la2050.org/connect/the-burg-llc/the-burg-llc.jpg'
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
 body_class: lime
 

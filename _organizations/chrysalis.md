@@ -1,6 +1,6 @@
 ---
 organization_id: '2016037'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Chrysalis
 organization_website: changelives.org
 ein: ''

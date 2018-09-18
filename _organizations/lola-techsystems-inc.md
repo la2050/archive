@@ -1,6 +1,6 @@
 ---
 organization_id: '2018070'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Lola Techsystems, Inc.'
 organization_website: www.lolatechsystems.com
 ein: '472037575'

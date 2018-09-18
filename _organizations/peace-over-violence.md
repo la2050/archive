@@ -1,6 +1,6 @@
 ---
 organization_id: '2014184'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Peace Over Violence
 organization_website: ''
 ein: '510179305'

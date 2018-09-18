@@ -1,6 +1,6 @@
 ---
 organization_id: '2015208'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: The University Corporation
 organization_website: 'http://www.csun.edu/'
 ein: '951992732'

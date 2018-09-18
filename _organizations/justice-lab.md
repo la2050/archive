@@ -1,6 +1,6 @@
 ---
 organization_id: '2015101'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Justice Lab
 organization_website: www.justicelab.net
 ein: EIN Pending

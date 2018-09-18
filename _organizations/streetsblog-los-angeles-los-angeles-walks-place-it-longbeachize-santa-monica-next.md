@@ -1,6 +1,6 @@
 ---
 organization_id: '2014193'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: >-
   Streetsblog Los Angeles, Los Angeles Walks, Place It!, LongBeachize, Santa
   Monica Next

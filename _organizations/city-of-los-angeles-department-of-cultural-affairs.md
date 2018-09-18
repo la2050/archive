@@ -1,6 +1,6 @@
 ---
 organization_id: '2013034'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: City of Los Angeles Department of Cultural Affairs
 organization_website: 'http://culturela.org'
 ein: '956000735'

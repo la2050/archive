@@ -1,6 +1,6 @@
 ---
 organization_id: '2014181'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: My Name My Story
 organization_website: ''
 ein: '300572278'

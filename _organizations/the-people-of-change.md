@@ -1,6 +1,6 @@
 ---
 organization_id: '2018122'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: The People of Change
 organization_website: '0'
 ein: ''

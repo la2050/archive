@@ -1,6 +1,6 @@
 ---
 organization_id: '2014152'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Hunger Action Los Angeles
 organization_website: ''
 ein: '205142259'

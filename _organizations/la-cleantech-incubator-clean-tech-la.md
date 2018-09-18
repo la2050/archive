@@ -1,6 +1,6 @@
 ---
 organization_id: '2013113'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: LA Cleantech Incubator / Clean Tech LA
 organization_website: 'http://laincubator.org'
 ein: '454998717'

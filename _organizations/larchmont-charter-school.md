@@ -1,6 +1,6 @@
 ---
 organization_id: '2018064'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Larchmont Charter School
 organization_website: www.larchmontcharter.org
 ein: '571206928'

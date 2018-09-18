@@ -1,6 +1,6 @@
 ---
 organization_id: '2015215'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Trojan Swim Club
 organization_website: www.trojanswimclub.org
 ein: '330614644'

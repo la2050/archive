@@ -1,6 +1,6 @@
 ---
 organization_id: '2013116'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'LA-Más, Inc.'
 organization_website: mas.la
 ein: '383886677'

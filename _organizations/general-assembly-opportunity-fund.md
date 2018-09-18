@@ -1,6 +1,6 @@
 ---
 organization_id: '2014144'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: General Assembly Opportunity Fund
 organization_website: ''
 ein: '272807367'

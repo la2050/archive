@@ -1,6 +1,6 @@
 ---
 organization_id: '2016068'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Educators 4 Excellence-Los Angeles
 organization_website: www.educators4excellence.org
 ein: '273382030'

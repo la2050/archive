@@ -1,6 +1,6 @@
 ---
 organization_id: '2014078'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Sabio Enterprises, Inc.'
 organization_website: www.sabio.la
 ein: '464000152'

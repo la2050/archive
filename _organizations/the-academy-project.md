@@ -1,6 +1,6 @@
 ---
 organization_id: '2016211'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Academy Project
 organization_website: WWW.THEACADEMYPROJECT.ORG
 ein: '471205640'

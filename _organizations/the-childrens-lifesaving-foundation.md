@@ -1,6 +1,6 @@
 ---
 organization_id: '2016215'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Children's Lifesaving Foundation
 organization_website: www.childrenslifesaving.org
 ein: '954371286'

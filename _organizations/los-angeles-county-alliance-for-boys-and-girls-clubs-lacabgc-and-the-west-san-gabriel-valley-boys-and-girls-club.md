@@ -1,6 +1,6 @@
 ---
 organization_id: '2014167'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: >-
   Los Angeles County Alliance for Boys and Girls Clubs (LACABGC) and the West
   San Gabriel Valley Boys and Girls Club

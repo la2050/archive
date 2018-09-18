@@ -1,6 +1,6 @@
 ---
 organization_id: '2014105'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Violence Prevention Coalition
 organization_website: www.vpcgla.org
 ein: '954302067'

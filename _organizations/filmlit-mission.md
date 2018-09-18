@@ -1,6 +1,6 @@
 ---
 organization_id: '2016077'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: FILMLIT MISSION
 organization_website: filmlit.org
 ein: ''

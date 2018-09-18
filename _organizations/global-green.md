@@ -1,6 +1,6 @@
 ---
 organization_id: '2018046'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Global Green
 organization_website: www.globalgreen.org
 ein: '770387124'

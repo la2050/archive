@@ -1,6 +1,6 @@
 ---
 organization_id: '2018078'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Lumos Transforms
 organization_website: 'http://lumostransforms.com/'
 ein: '814833035'

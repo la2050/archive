@@ -1,6 +1,6 @@
 ---
 organization_id: '2015087'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Hollywood HEART
 organization_website: www.hollywoodheart.org
 ein: '954522816'

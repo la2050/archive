@@ -1,6 +1,6 @@
 ---
 organization_id: '2018035'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: East LA Community Corporation (ELACC)
 organization_website: 'www.elacc.org,www.lurnetwork.org,www.goodfoodla.org,www.publiccounsel.org'
 ein: '954531076'

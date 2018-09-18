@@ -1,6 +1,6 @@
 ---
 organization_id: '2014084'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Special Olympics World Games 2015
 organization_website: www.la2015.org
 ein: '452853870'

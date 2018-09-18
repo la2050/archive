@@ -1,6 +1,6 @@
 ---
 organization_id: '2018130'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: UCLA Mobile Eye Clinic (UMEC)
 organization_website: www.uclahealth.org/umec
 ein: '956006143'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013084'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Great Leap, Inc.'
 organization_website: www.greatleap.org
 ein: '953337990'

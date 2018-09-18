@@ -1,6 +1,6 @@
 ---
 organization_id: '2018026'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'City of Los Angeles, Bureau of Street Lighting'
 organization_website: 'http://bsl.lacity.org/'
 ein: '956000735'

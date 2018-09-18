@@ -6,7 +6,7 @@ project_summary: >-
   efficient and healthy homes, yards and neighborhoods.
 category: live
 organization_id: '2014147'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -61,7 +61,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Clear expectations established for each partner organization re: roles, tasks, deliverables, timelines/due dates, goals and budget.
    Ongoing communication & reporting process is established for project members to ensure all project components are planned, designed, launched and evaluated on a regular basis.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

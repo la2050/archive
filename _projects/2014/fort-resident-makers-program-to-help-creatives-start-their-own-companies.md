@@ -6,7 +6,7 @@ project_summary: >-
   (complete with DIY workshops, 3D Printing & Ted-like talks).
 category: create
 organization_id: '2014035'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/FORT.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -99,7 +99,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    • Mentor Matchmaker- will provide our FORT Resident Makers with experienced mentors to guide them in their journey of creating a career out of their creative passion.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013149'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Pacesetter Productions
 organization_website: www.leecondon.com
 ein: '461206998'

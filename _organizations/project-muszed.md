@@ -1,6 +1,6 @@
 ---
 organization_id: '2015160'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Project MuszEd
 organization_website: www.projectmuszed.org
 ein: '203037195'

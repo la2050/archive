@@ -1,6 +1,6 @@
 ---
 organization_id: '2015225'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Wheels of Hope LA, Fred Jordan Mission'
 organization_website: www.wheelsofhopeLA.com
 ein: '956000110'

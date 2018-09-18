@@ -6,7 +6,7 @@ project_summary: >-
   leaders, and agents of social change.
 category: create
 organization_id: '2014023'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -104,7 +104,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   must now rent space, Studio A has made it possible to continue our program and
   develop our work for our upcoming debut performance of Amaterra this Fall.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

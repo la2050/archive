@@ -1,6 +1,6 @@
 ---
 organization_id: '2013171'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: St. John the Baptist Social Services
 organization_website: www.sjsbp.org
 ein: '951897685'

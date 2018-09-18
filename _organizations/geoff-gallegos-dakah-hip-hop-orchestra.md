@@ -1,6 +1,6 @@
 ---
 organization_id: '2013080'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Geoff Gallegos/daKAH Hip Hop Orchestra
 organization_website: 'https://soundcloud.com/stravingus'
 ein: '453193752'

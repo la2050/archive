@@ -1,6 +1,6 @@
 ---
 project_id: '8102126'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
   Angeles
@@ -48,7 +48,7 @@ make_la_great: >-
 category: play
 organization_id: '2018126'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
+  https://activation.la2050.org/live/topanga-womens-circle/topanga-womens-circle.jpg
 project_video: 'https://youtu.be/9lVdk4emJ-M'
 body_class: strawberry
 

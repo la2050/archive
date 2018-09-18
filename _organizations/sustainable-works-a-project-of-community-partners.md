@@ -1,6 +1,6 @@
 ---
 organization_id: '2013177'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Sustainable Works a Project of Community Partners
 organization_website: 'http://www.sustainableworks.org'
 ein: '954302067'

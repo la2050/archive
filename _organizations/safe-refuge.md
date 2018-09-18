@@ -1,6 +1,6 @@
 ---
 organization_id: '2016188'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Safe Refuge
 organization_website: www.asaferefuge.org
 ein: ''

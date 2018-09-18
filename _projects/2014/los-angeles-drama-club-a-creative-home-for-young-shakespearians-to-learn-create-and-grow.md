@@ -8,7 +8,7 @@ project_summary: >-
   and grow as young Shakespeare scholars and performers.
 category: learn
 organization_id: '2014169'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -96,7 +96,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    A remarkable characteristic of our organization is the enthusiasm it incites in those who discover our community: we have had many parents, friends, associates, fellow artists, community leaders, neighborhood councils, local merchants, and independent business take interest in our children and our mission. With our own space, we look forward to embracing more of the people who are interested in being a part of LADC. We envision a creative learning community and look forward to welcoming other like-minded organizations to our space, as we have been welcomed in our past, and giving them a place to grow.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

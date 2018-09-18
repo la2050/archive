@@ -1,6 +1,6 @@
 ---
 organization_id: '2015217'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: UCLA Luskin School of Public Affairs
 organization_website: www.luskin.ucla.edu
 ein: '956006143'

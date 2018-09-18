@@ -1,6 +1,6 @@
 ---
 organization_id: '2018031'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Coro Southern California
 organization_website: www.corola.org
 ein: '954274561'

@@ -6,7 +6,7 @@ project_summary: >-
   our equipment and helping them to use their own equipment.
 category: learn
 organization_id: '2014160'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -59,7 +59,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. The collaborator's particular needs: we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.
    3. The collaborator's accessibility: we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

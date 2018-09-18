@@ -1,6 +1,6 @@
 ---
 organization_id: '2016241'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Unified Everything Project
 organization_website: www.unifiedeverythingproject.com
 ein: ''

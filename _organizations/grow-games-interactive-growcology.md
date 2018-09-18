@@ -1,6 +1,6 @@
 ---
 organization_id: '2014041'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Grow Games Interactive, Growcology'
 organization_website: www.growgamesinteractive.com
 ein: '463288070'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014123'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: CFY
 organization_website: ''
 ein: '133935309'

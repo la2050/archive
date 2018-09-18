@@ -6,7 +6,7 @@ project_summary: >-
   art and good science to the global commercial infrastructure
 category: create
 organization_id: '2014102'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -105,7 +105,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Sophie Wong – Marketing Arm
    Marketing and promotion
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

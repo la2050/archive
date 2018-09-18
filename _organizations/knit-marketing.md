@@ -1,6 +1,6 @@
 ---
 organization_id: '2016118'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Knit Marketing
 organization_website: Knitmarketing.com
 ein: ''

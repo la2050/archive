@@ -1,6 +1,6 @@
 ---
 project_id: '8102064'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Larchmont Social Justice Alliance allows youth to speak up for social justice
   with a literary voice.
@@ -50,7 +50,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018064'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/larchmont-charter-school.jpg
+  https://activation.la2050.org/connect/larchmont-charter-school/larchmont-charter-school.jpg
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
 body_class: tangerine
 

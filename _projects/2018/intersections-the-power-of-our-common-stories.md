@@ -1,6 +1,6 @@
 ---
 project_id: '8102054'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Intersections: The power of our common stories.'
 project_summary: >-
   It all begins with sharing stories. Imagine LA and L.A. Works are joining to
@@ -45,7 +45,7 @@ make_la_great: >-
    Mentorship promotes community and develops meaningful relationships full of mutual respect, love, and laughter. Showcasing this, and CONNECTing Angelenos to each other through their stories, will bring this campaign to life. Our shareable videos (live and animated), photos, and tactics like a mentor taking over our Instagram feed for a day will help increase the total number of local social media friends and connections Angelenos have. We anticipate the campaign to CONNECT Angelenos way beyond our goal of signing up mentors. It will empower them to volunteer in other ways and LEARN about those with disparate backgrounds and circumstances. It will break the cycle of homelessness for hundreds of families.
 category: connect
 organization_id: '2018054'
-project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/imagine-la.jpg'
+project_image: 'https://activation.la2050.org/connect/imagine-la/imagine-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
 body_class: tangerine
 

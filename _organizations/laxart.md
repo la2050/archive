@@ -1,6 +1,6 @@
 ---
 organization_id: '2013119'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: LAXART
 organization_website: laxart.org
 ein: '202911916'

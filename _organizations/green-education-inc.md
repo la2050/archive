@@ -1,6 +1,6 @@
 ---
 organization_id: '2014147'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Green Education Inc.
 organization_website: ''
 ein: '262418948'

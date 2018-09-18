@@ -1,6 +1,6 @@
 ---
 project_id: '8102039'
-year_submitted: '2018'
+year_submitted: 2018
 title: TINY CITIES FOR L.A.’S HOMELESS
 project_summary: >-
   Individualized cargo containers, stacked on empty lots, will provide chronic
@@ -42,7 +42,7 @@ make_la_great: |-
 category: live
 organization_id: '2018039'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/family-promise-of-the-south-bay.jpg
+  https://activation.la2050.org/live/family-promise-of-the-south-bay/family-promise-of-the-south-bay.jpg
 project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
 body_class: lime
 

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015057'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: El Basurero
 organization_website: >-
   http://www.huffingtonpost.com/joel-epstein/koreatown-el-basurero_b_5611765.html

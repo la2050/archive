@@ -1,6 +1,6 @@
 ---
 organization_id: '2015053'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: DUBLAB
 organization_website: www.dublab.com
 ein: '510665121'

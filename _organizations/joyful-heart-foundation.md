@@ -1,6 +1,6 @@
 ---
 organization_id: '2016115'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Joyful Heart Foundation
 organization_website: joyfulheartfoundation.org
 ein: '721519537'

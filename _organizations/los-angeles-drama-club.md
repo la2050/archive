@@ -1,6 +1,6 @@
 ---
 organization_id: '2014169'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Los Angeles Drama Club
 organization_website: ''
 ein: '273546756'

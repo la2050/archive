@@ -1,6 +1,6 @@
 ---
 organization_id: '2016107'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: ICON CDC
 organization_website: iconcdc.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018087'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'My Friends House, Inc.'
 organization_website: 'http://myfriendshouseinc.org/'
 ein: '262718485'

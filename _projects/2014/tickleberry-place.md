@@ -6,7 +6,7 @@ project_summary: >-
   families, that also serves organic & healthy foods.
 category: play
 organization_id: '2016238'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/Tickleberryplace.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -53,7 +53,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   of creating healthy and sustainable play spaces in Los Angeles. We are open to
   having partners and are looking for them.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

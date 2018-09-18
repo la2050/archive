@@ -1,6 +1,6 @@
 ---
 project_id: '8102088'
-year_submitted: '2018'
+year_submitted: 2018
 title: Carry Forward
 project_summary: >-
   Carrying forward is helping those who are in need of housing, workforce
@@ -60,7 +60,7 @@ make_la_great: >-
 category: live
 organization_id: '2018088'
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/national-veterans-transition-services-inc-aka-reboot.jpg
+  https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/national-veterans-transition-services-inc-aka-reboot.jpg
 project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
 body_class: lime
 

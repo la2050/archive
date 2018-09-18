@@ -1,6 +1,6 @@
 ---
 organization_id: '2016001'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: '#Library'
 organization_website: hashtaglibrary.com
 ein: ''

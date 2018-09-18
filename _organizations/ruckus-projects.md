@@ -1,6 +1,6 @@
 ---
 organization_id: '2015172'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Ruckus Projects
 organization_website: www.ruckusprojects.com/
 ein: '474688368'

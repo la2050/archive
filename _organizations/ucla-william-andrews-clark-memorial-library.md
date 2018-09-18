@@ -1,6 +1,6 @@
 ---
 organization_id: '2013203'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: UCLA William Andrews Clark Memorial Library
 organization_website: 'http://www.clarklibrary.ucla.edu/'
 ein: '952250801'

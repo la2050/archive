@@ -1,6 +1,6 @@
 ---
 organization_id: '2016052'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Community Healing Gardens
 organization_website: CommunityHealingGardens.org
 ein: ''

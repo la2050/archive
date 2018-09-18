@@ -1,6 +1,6 @@
 ---
 organization_id: '2014023'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Critical Mass Dance Company (CMDC)
 organization_website: www.criticalmassdancecompany.org
 ein: '954107449'

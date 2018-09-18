@@ -1,6 +1,6 @@
 ---
 organization_id: '2018075'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Los Angeles LGBT Center
 organization_website: lalgbtcenter.org
 ein: '953567895'

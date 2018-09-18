@@ -6,7 +6,7 @@ project_summary: >-
   fallow land into orchards.
 category: live
 organization_id: '2015144'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -83,7 +83,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The collaboration with Seeds of Hope is confirmed - this is Netiya main partner. The food justice ministry of the Episcopal Diocese of LA established to repurpose church property and facilities for the production and distribution of food in underserved communities across the six-county diocese. The program currently grows food at nearly 100 locations and operates 60 food pantries and 50 feeding programs as well as providing nutrition and fitness education. Executive Director, Tim Alderson, came to Seeds of Hope from a lifetime in agriculture. He was the founder and former CEO of AgriGator, Inc., a multinational soil amendment company and the founding chairman of the California School Garden Network, a statewide network of public and private sector organizations united in support of school gardens.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

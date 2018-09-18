@@ -1,6 +1,6 @@
 ---
 organization_id: '2014073'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Psychic Bunny
 organization_website: www.psychicbunny.com
 ein: '900406307'

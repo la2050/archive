@@ -1,6 +1,6 @@
 ---
 organization_id: '2014035'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: FORT
 organization_website: 'http://fortgoods.com/'
 ein: '900771336'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014120'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Brown Paper LA
 organization_website: ''
 ein: '273608324'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016138'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Los Angeles Neighborhood Initiative (LANI)
 organization_website: www.lani.org
 ein: ''

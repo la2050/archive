@@ -1,6 +1,6 @@
 ---
 organization_id: '2016025'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Break the Cycle
 organization_website: www.breakthecycle.org
 ein: ''

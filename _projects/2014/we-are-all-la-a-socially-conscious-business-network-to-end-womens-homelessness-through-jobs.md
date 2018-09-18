@@ -8,7 +8,7 @@ project_summary: >-
   ending homelessness for women in Los Angeles.
 category: create
 organization_id: '2015051'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    In harnessing the power of collaboration for our business coalition, three factors will be critical to our success. The contribution of expertise and network of our current partners is of utmost importance to the success of our initiative, as is effective and engaging training and workshops that help women stay on track in their personal stability and in their path toward self-sufficiency. Lastly, because a growth initiative like this one often takes a backseat to programming upkeep, funding for this innovation is crucial.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

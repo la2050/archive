@@ -1,6 +1,6 @@
 ---
 organization_id: '2014019'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Company of Angels (CoA)
 organization_website: www.companyofangels.org
 ein: '237448515'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013195'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Los Angeles Trust for Children's Health
 organization_website: www.thelatrust.org
 ein: '954262448'

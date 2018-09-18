@@ -1,6 +1,6 @@
 ---
 organization_id: '2015079'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: HappyCity Los Angeles
 organization_website: 'http://www.happycity.us/'
 ein: '472219458'

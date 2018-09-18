@@ -6,7 +6,7 @@ project_summary: >-
   Inspire Empathy Days and School Club programs to schools across LA.
 category: learn
 organization_id: '2014181'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -69,7 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We have partnered with Ashoka and Peace First. They have been content providers for some of our larger events- including the Social Entrepreneurship Camp for Young Changemakers- and continue to provide strong support for MNMS.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

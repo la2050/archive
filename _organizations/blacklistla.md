@@ -1,6 +1,6 @@
 ---
 organization_id: '2016021'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: BlacklistLA
 organization_website: www.blacklistla.city
 ein: '954440752'

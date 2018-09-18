@@ -1,6 +1,6 @@
 ---
 organization_id: '2014030'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Earth Protect, Inc.'
 organization_website: www.earthprotect.com
 ein: '260612343'

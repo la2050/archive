@@ -1,6 +1,6 @@
 ---
 organization_id: '2018009'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Black Women for Wellness
 organization_website: www.bwwla.org
 ein: '954624707'

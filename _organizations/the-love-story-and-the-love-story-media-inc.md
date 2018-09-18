@@ -1,6 +1,6 @@
 ---
 organization_id: '2015203'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'The Love Story and The Love Story Media, Inc.'
 organization_website: www.thelovestory.org
 ein: '472937595'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015096'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Ironbox Education, Inc.'
 organization_website: www.ironboxeducation.com
 ein: '463324164'

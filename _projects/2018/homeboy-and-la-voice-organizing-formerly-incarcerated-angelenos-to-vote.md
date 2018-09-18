@@ -1,6 +1,6 @@
 ---
 project_id: '8102053'
-year_submitted: '2018'
+year_submitted: 2018
 title: 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
 project_summary: >-
   Activate 100,000 Angelenos in civic engagement, increasing voter participation
@@ -41,7 +41,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018053'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg
+  https://activation.la2050.org/connect/homeboy-industries/homeboy-industries.jpg
 project_video: '0'
 body_class: tangerine
 

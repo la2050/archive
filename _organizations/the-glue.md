@@ -1,6 +1,6 @@
 ---
 organization_id: '2018119'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: The Glue
 organization_website: www.getsomeglue.com
 ein: '462089483'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016117'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: KCRW
 organization_website: KCRW.com
 ein: '953750631'

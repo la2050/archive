@@ -1,6 +1,6 @@
 ---
 organization_id: '2013151'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Participlay
 organization_website: www.participlay.com
 ein: '208482508'

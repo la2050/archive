@@ -1,6 +1,6 @@
 ---
 organization_id: '2015069'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: From Lot to Spot
 organization_website: fromlottospot.org
 ein: '203359738'

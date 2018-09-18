@@ -1,6 +1,6 @@
 ---
 organization_id: '2015133'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: MAPS 4 College
 organization_website: www.maps4college.org
 ein: '262915543'

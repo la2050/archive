@@ -1,6 +1,6 @@
 ---
 organization_id: '2018033'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Data 360
 organization_website: 'http://data360.solutions'
 ein: '813780149'

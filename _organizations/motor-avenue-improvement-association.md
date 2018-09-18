@@ -1,6 +1,6 @@
 ---
 organization_id: '2015139'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Motor Avenue Improvement Association
 organization_website: www.MotorAssociation.org
 ein: '455405527'

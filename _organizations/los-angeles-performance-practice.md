@@ -1,6 +1,6 @@
 ---
 organization_id: '2014056'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Los Angeles Performance Practice
 organization_website: www.LosAngelesPerformancePractice.org
 ein: '272756584'

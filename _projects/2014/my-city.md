@@ -6,7 +6,7 @@ project_summary: >-
   travelers by Los Angeles locals.
 category: connect
 organization_id: '2014028'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -74,7 +74,7 @@ Whom will your project benefit? Please be specific.: >-
    - Ray has a deep understanding of new technologies & design, which is crucial in developing a mobile app. 
    - Mitchel has experience in digital marketing & entertainment, which is greatly needed when promoting the product & growing the user base. 
    - We are both in tune with today’s trends in the technology, business, & entertainment industries, which will make sure that our app is not only innovative but also has the potential of being very successful.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

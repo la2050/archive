@@ -6,7 +6,7 @@ project_summary: >-
   inspiring school readiness and out-of-school learning tools.
 category: learn
 organization_id: '2014138'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -88,7 +88,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Clear Expectations: Partner roles are clearly defined to maximize efficiency and establish accountability to ensure all goals are met.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

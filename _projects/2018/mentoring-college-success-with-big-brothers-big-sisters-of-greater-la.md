@@ -1,6 +1,6 @@
 ---
 project_id: '8102007'
-year_submitted: '2018'
+year_submitted: 2018
 title: Mentoring College Success with Big Brothers Big Sisters of Greater LA
 project_summary: >-
   Big Brothers Big Sisters of LA’s College P.A.C. Program (Preparation, Access,
@@ -36,7 +36,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018007'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/big-brothers-big-sisters-of-greater-los-angeles.jpg
+  https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/big-brothers-big-sisters-of-greater-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
 body_class: blueberry
 

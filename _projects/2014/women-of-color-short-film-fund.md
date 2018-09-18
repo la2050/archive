@@ -4,7 +4,7 @@ title: Women of Color Short Film Fund
 project_summary: '1'
 category: create
 organization_id: '2014087'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -72,7 +72,7 @@ What will you do to implement this idea/project?: |-
    3. Support from industry players in the form of mentorship, donated resources, exposure, and collaborations.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

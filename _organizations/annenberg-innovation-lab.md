@@ -1,6 +1,6 @@
 ---
 organization_id: '2016011'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Annenberg Innovation Lab
 organization_website: www.annenberglab.com
 ein: ''

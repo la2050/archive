@@ -1,6 +1,6 @@
 ---
 organization_id: '2015067'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Freeway Farm
 organization_website: www.freewayfarm.com
 ein: '475285481'

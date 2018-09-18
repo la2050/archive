@@ -1,6 +1,6 @@
 ---
 organization_id: '2014220'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Urban Collaborations Group (Partnering with FAST.org)
 organization_website: ''
 ein: '953510055'

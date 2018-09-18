@@ -6,7 +6,7 @@ project_summary: >-
   of riverside events, an online community, and a playable guide.
 category: play
 organization_id: '2014069'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    -Other collaborators & champions include: UCLA, UC Riverside, Friends of the LA River (FoLAR), River Wild, Boom: A Journal of California, and the EPA-led Urban Waters Federal Partnership.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013095'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Individual Systems
 organization_website: ''
 ein: In process

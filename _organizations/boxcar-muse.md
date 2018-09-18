@@ -1,6 +1,6 @@
 ---
 organization_id: '2016022'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: boxcar+muse
 organization_website: boxcarmuse.com
 ein: ''

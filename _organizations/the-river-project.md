@@ -1,6 +1,6 @@
 ---
 organization_id: '2016230'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The River Project
 organization_website: TheRiverProject.org
 ein: '954858263'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013141'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Natural History Museum of Los Angeles County
 organization_website: 'http://www.nhm.org/site/activities-programs/citizen-science'
 ein: '956132185'

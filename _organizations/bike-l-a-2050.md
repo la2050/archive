@@ -1,6 +1,6 @@
 ---
 organization_id: '2013019'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Bike L.A. 2050
 organization_website: ''
 ein: '575061488'

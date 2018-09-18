@@ -1,6 +1,6 @@
 ---
 organization_id: '2014088'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The Dinner Party
 organization_website: www.thedinnerparty.org
 ein: '954302067'

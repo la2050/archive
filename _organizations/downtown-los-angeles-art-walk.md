@@ -1,6 +1,6 @@
 ---
 organization_id: '2015050'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Downtown Los Angeles Art Walk
 organization_website: www.downtownartwalk.org
 ein: '311597223'

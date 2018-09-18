@@ -4,7 +4,7 @@ title: Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 project_summary: '1'
 category: live
 organization_id: '2014190'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -44,7 +44,7 @@ What is your idea/project in more detail?: >-
 What will you do to implement this idea/project?: For Los Angeles we won't need any partners to deploy this.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

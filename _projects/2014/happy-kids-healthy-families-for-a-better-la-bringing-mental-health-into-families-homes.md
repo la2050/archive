@@ -8,7 +8,7 @@ project_summary: >-
   environments by engaging caregivers with an authentic learning experience
 category: live
 organization_id: '2016204'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '0'
@@ -81,7 +81,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We also intend to reach out to Child and Adult Care Food Program (CACFP) Sponsors for reaching out to license-exempt providers on their programs or seeking out volunteer coaches.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

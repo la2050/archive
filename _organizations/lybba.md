@@ -1,6 +1,6 @@
 ---
 organization_id: '2013129'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Lybba
 organization_website: www.lybba.org
 ein: '383777236'

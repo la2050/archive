@@ -1,6 +1,6 @@
 ---
 organization_id: '2013047'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Create LA
 organization_website: 'http://www.create-la.org'
 ein: '460815941'

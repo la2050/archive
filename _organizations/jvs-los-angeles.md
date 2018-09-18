@@ -1,6 +1,6 @@
 ---
 organization_id: '2015102'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: JVS Los Angeles
 organization_website: www.jvsla.org
 ein: '951691012'

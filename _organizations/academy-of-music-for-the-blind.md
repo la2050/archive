@@ -1,6 +1,6 @@
 ---
 organization_id: '2015003'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Academy of Music for the Blind
 organization_website: www.ouramb.org
 ein: '201148737'

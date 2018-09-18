@@ -1,6 +1,6 @@
 ---
 organization_id: '2015083'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Heal the Bay
 organization_website: www.healthebay.org
 ein: '954031055'

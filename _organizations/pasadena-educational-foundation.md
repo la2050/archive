@@ -1,6 +1,6 @@
 ---
 organization_id: '2016163'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Pasadena Educational Foundation
 organization_website: www.pasedfoundation.org
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015127'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
   (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community

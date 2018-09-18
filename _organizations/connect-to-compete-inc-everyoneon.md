@@ -1,6 +1,6 @@
 ---
 organization_id: '2018030'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'Connect to Compete, Inc (EveryoneOn)'
 organization_website: www.everyoneon.org
 ein: '454868462'

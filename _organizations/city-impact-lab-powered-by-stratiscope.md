@@ -1,6 +1,6 @@
 ---
 organization_id: '2018024'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: 'City Impact Lab, powered by Stratiscope'
 organization_website: 'www.stratiscope.com,www.cityimpactlab.com'
 ein: '463084511'

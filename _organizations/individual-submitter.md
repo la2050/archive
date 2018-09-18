@@ -1,6 +1,6 @@
 ---
 organization_id: '2015091'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Individual submitter
 organization_website: www.allhale.net
 ein: '542988389'

@@ -1,6 +1,6 @@
 ---
 project_id: '8102005'
-year_submitted: '2018'
+year_submitted: 2018
 title: Youth Voice 2020
 project_summary: >-
   Youth Voice 2020 empowers and amplifies young voices to inspire and inform
@@ -53,7 +53,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018005'
 project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
+  https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/action-civics-la-an-initiative-of-mikva-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
 body_class: tangerine
 

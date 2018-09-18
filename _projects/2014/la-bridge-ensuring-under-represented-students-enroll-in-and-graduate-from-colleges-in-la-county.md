@@ -8,7 +8,7 @@ project_summary: >-
   can enroll in and graduate from postsecondary institutions
 category: learn
 organization_id: '2016047'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The LA Bridge Project ensures buy-in from all stakeholders by linking the work of the school district and higher education institutions. We bring together high school teachers and college professors to co-teach college-level math and English courses in order to offer students the opportunity to bypass academic remediation. By working shoulder to shoulder, this project eschews the traditional blame game and serves as bidirectional professional development for both instructors and administrators.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: blueberry
 
 ---

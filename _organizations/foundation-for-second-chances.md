@@ -1,6 +1,6 @@
 ---
 organization_id: '2015066'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Foundation for Second Chances
 organization_website: 'http://www.ffscinc.org/'
 ein: '432067664'

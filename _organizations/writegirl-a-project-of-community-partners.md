@@ -1,6 +1,6 @@
 ---
 organization_id: '2014228'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'WriteGirl, a project of Community Partners'
 organization_website: ''
 ein: '954302067'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018083'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Miry’s List
 organization_website: www.miryslist.org
 ein: '954116679'

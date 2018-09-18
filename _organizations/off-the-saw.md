@@ -1,6 +1,6 @@
 ---
 organization_id: '2015146'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Off The Saw
 organization_website: www.offthesaw.com
 ein: '465189527'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015190'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: spcaLA
 organization_website: www.spcaLA.com
 ein: '951738153'

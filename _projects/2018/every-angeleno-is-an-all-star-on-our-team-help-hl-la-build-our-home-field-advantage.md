@@ -1,6 +1,6 @@
 ---
 project_id: '8102051'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Every Angeleno is an all star on our team. Help HL - LA build our home field
   advantage!
@@ -42,7 +42,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018051'
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
+  https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/harlem-lacrosse-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=3WVD26iAwmw'
 body_class: blueberry
 

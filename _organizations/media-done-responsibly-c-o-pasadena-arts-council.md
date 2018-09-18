@@ -1,6 +1,6 @@
 ---
 organization_id: '2015135'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Media Done Responsibly c/o Pasadena Arts Council
 organization_website: www.mediadoneresponsibly.org
 ein: '952540759'

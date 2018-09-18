@@ -1,6 +1,6 @@
 ---
 project_id: '8102071'
-year_submitted: '2018'
+year_submitted: 2018
 title: The Sustainable Tech Intellectual Property Education Series (STIPES)
 project_summary: >-
   The Sustainable Tech Intellectual Property Education Series focuses on
@@ -85,7 +85,7 @@ make_la_great: >-
 category: create
 organization_id: '2018071'
 project_image: >-
-  https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
+  https://activation.la2050.org/create/long-beach-downtown-development-corporation/long-beach-downtown-development-corporation.jpg
 project_video: '0'
 body_class: banana
 

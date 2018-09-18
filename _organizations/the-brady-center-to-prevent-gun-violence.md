@@ -1,6 +1,6 @@
 ---
 organization_id: '2018117'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: The Brady Center to Prevent Gun Violence
 organization_website: 'http://bradycampaign.org'
 ein: '521285097'

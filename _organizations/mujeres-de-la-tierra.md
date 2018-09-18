@@ -1,6 +1,6 @@
 ---
 organization_id: '2016150'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Mujeres de la Tierra
 organization_website: www.mujeresdelatierra.org
 ein: '205270350'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014103'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: URBAN Teens Exploring Technology ( TXT )
 organization_website: 'http://www.urbantxt.com/'
 ein: '954302067'

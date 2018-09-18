@@ -1,6 +1,6 @@
 ---
 organization_id: '2014015'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Beyond Baroque Literary Arts Center
 organization_website: www.beyondbaroque.org
 ein: '952748922'

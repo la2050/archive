@@ -1,6 +1,6 @@
 ---
 organization_id: '2014163'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Little Tokyo Community Council
 organization_website: ''
 ein: '200258503'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014157'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Incubator School
 organization_website: ''
 ein: '465274049'

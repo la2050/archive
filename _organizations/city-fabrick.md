@@ -1,6 +1,6 @@
 ---
 organization_id: '2018023'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: City Fabrick
 organization_website: www.cityfabrick.org
 ein: '451130362'

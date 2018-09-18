@@ -1,6 +1,6 @@
 ---
 organization_id: '2016152'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: NAMI San Fernando Valley
 organization_website: namisfv.org
 ein: ''

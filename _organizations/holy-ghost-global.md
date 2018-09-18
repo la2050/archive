@@ -1,6 +1,6 @@
 ---
 organization_id: '2014042'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Holy Ghost Global
 organization_website: holyghostglobal.com
 ein: '471412863'

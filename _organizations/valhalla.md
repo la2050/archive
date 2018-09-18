@@ -1,6 +1,6 @@
 ---
 organization_id: '2013211'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: ValhalLA
 organization_website: 'http://valhallamovement.com/'
 ein: '462359445'

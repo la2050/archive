@@ -1,6 +1,6 @@
 ---
 organization_id: '2013099'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Invisible People
 organization_website: 'http://invisiblepeople.tv'
 ein: '272079758'

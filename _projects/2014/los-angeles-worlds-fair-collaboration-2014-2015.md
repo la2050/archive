@@ -6,7 +6,7 @@ project_summary: >-
   outreach for attracting support and participation.
 category: connect
 organization_id: '2015132'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LAWF.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -110,7 +110,7 @@ Whom will your project benefit? Please be specific.: >-
    1. Availability of sufficient funding to cover the proposed outreach effort, 
    2. Development of the strategic plan to be used by participants in their outreach efforts, and 
    3. Effective administration collaborative outreach efforts toward achieving the overall objectives of the project.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

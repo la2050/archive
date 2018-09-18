@@ -1,6 +1,6 @@
 ---
 organization_id: '2015040'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Clothes The Deal
 organization_website: www.clothesthedeal.org
 ein: '954592893'

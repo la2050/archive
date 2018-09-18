@@ -1,6 +1,6 @@
 ---
 organization_id: '2013159'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'Quality of Life Center, Inc.'
 organization_website: www.qualityoflifecenterinc.com
 ein: '550896331'

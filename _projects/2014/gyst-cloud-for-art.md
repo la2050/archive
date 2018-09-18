@@ -6,7 +6,7 @@ project_summary: >-
   cloud-based technology, tools, and resources.
 category: create
 organization_id: '2014039'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -76,7 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    USERS (YOU): We will invite our existing individual and organization users (over 2,350) and new clients to beta test GYST Cloud. Further funding from others who donate towards the support of low-income artists, as well as the income-based subscription model will allow this project to be sustainable for future generations. Establishing responsibility within the art community, we will invite users to self-determine their own level of income and therefore their subscription price.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

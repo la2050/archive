@@ -1,6 +1,6 @@
 ---
 organization_id: '2014224'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Western Justice Center (WJC)
 organization_website: ''
 ein: '954176583'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016027'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: BUILD
 organization_website: BUILD.org
 ein: ''

@@ -6,7 +6,7 @@ project_summary: >-
   domestic violence in the community and in cyberspace.
 category: connect
 organization_id: '2014108'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -87,7 +87,7 @@ Whom will your project benefit? Please be specific.: >-
    Confirmed partners for this funding opportunity include: A Window Between Worlds and Su Casa. Furthermore, Tracy M. Colunga, Violence Prevention Coordinator for the City of Long Beach, endorses this application and strongly recommends it for funding. 
    
    Required for the success of this endeavor are: funding for the project, continued collaboration between the existing partners and the acquisition of new partners, and a strong coalition of volunteer leaders.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

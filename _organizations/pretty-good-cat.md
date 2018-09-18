@@ -1,6 +1,6 @@
 ---
 organization_id: '2016177'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Pretty Good Cat
 organization_website: Prettygoodcat.com
 ein: ''

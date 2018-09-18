@@ -1,6 +1,6 @@
 ---
 organization_id: '2015031'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: 'Children’s Institute, Inc. (CII)'
 organization_website: www.childrensinstitute.org
 ein: '951641424'

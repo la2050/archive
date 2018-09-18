@@ -1,6 +1,6 @@
 ---
 project_id: '8102100'
-year_submitted: '2018'
+year_submitted: 2018
 title: >-
   Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster
   kids.
@@ -45,8 +45,7 @@ make_la_great: >-
   their needs to assure their retention.
 category: create
 organization_id: '2018100'
-project_image: >-
-  https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
+project_image: 'https://activation.la2050.org/connect/raise-a-child-inc/raise-a-child-inc.jpg'
 project_video: 'https://vimeo.com/261964830'
 body_class: banana
 

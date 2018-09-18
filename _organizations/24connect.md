@@ -1,6 +1,6 @@
 ---
 organization_id: '2014001'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 24Connect
 organization_website: 24Connect.net
 ein: '274848676'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2016131'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Light Sprout
 organization_website: In progress
 ein: ''

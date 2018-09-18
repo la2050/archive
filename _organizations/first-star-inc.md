@@ -1,6 +1,6 @@
 ---
 organization_id: '2013068'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: 'First Star, Inc.'
 organization_website: www.firststar.org
 ein: '311719436'

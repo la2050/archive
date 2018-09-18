@@ -1,6 +1,6 @@
 ---
 organization_id: '2013015'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Arts Council for Long Beach
 organization_website: 'http://www.artslb.org/'
 ein: '953038398'

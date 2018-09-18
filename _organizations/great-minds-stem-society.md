@@ -1,6 +1,6 @@
 ---
 organization_id: '2015074'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Great Minds STEM Society
 organization_website: www.facebook.com/GreatMindsSTEMSociety
 ein: '475247130'

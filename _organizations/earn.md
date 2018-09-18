@@ -1,6 +1,6 @@
 ---
 organization_id: '2015054'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: EARN
 organization_website: 'http://www.earn.org'
 ein: '912172676'

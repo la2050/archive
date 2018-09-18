@@ -1,6 +1,6 @@
 ---
 organization_id: '2015144'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Netiya
 organization_website: www.netiya.org
 ein: '951890769'

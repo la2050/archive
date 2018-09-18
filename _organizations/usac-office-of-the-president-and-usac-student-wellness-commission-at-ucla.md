@@ -1,6 +1,6 @@
 ---
 organization_id: '2015222'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: USAC Office of the President and USAC Student Wellness Commission at UCLA
 organization_website: www.allofus.care
 ein: '951777979'

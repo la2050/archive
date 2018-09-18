@@ -8,7 +8,7 @@ project_summary: >-
   nature in the LA region by 2050.
 category: live
 organization_id: '2014217'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -81,7 +81,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    With our partners, we will create a shared vision of the future, communicate openly and directly about opportunities and challenges, increase access to all types of resources (monetary, intellectual, data, etc.), and make progress on our collective commitment to the 2050 goals.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

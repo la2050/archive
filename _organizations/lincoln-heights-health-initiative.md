@@ -1,6 +1,6 @@
 ---
 organization_id: '2014162'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: LINCOLN HEIGHTS HEALTH INITIATIVE
 organization_website: ''
 ein: '954230350'

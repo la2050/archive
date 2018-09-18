@@ -1,6 +1,6 @@
 ---
 organization_id: '2016043'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: CoachArt
 organization_website: www.coachart.org
 ein: '943389547'

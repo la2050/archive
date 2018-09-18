@@ -1,6 +1,6 @@
 ---
 organization_id: '2014008'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 organization_website: 'http://www.arroyo-seco.org/'
 ein: '453003702'

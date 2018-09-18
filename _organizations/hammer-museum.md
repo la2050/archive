@@ -1,6 +1,6 @@
 ---
 organization_id: '2013087'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Hammer Museum
 organization_website: www.hammer.ucla.edu
 ein: '954217197'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014133'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'Dream A World Education, Inc.'
 organization_website: ''
 ein: '270686657'

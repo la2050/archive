@@ -1,6 +1,6 @@
 ---
 organization_id: '2014227'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Woodbury University
 organization_website: ''
 ein: '952786163'

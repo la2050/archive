@@ -1,6 +1,6 @@
 ---
 organization_id: '2016201'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: SportUp
 organization_website: sportup.com
 ein: ''

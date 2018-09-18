@@ -6,7 +6,7 @@ project_summary: >-
   through transit and healthy neighborhoods.
 category: connect
 organization_id: '2013007'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -80,7 +80,7 @@ Whom will your project benefit? Please be specific.: >-
    • Coalition values: ACT-LA spent time developing values for our work and all member organizations sign on to the values. We use them in our program and policy development as well as how we operate as a coalition. 
    • Strong internal communication: Ensuring all members are informed and connected to the work is critical to successful collaboration.
    • Holding the whole: Each partner brings strengths and different areas of focus. As a coalition we hold everyone’s priorities and work to move issues together because of their interconnectedness.
-'': ''
+empty_column_1: ''
 body_class: tangerine
 
 ---

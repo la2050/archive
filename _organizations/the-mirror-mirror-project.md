@@ -1,6 +1,6 @@
 ---
 organization_id: '2014094'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: 'The Mirror, Mirror Project'
 organization_website: www.themirrormirrorproject.com
 ein: '952540759'

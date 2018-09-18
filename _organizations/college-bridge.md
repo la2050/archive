@@ -1,6 +1,6 @@
 ---
 organization_id: '2016047'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: College Bridge
 organization_website: www.college-bridge.org
 ein: ''

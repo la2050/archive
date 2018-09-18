@@ -6,7 +6,7 @@ project_summary: >-
   skills to Latino content creators in under served LA communities
 category: create
 organization_id: '2018121'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/DigtizeLA.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    MiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

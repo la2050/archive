@@ -1,6 +1,6 @@
 ---
 organization_id: '2015107'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: L.A. Compost and Kiss the Ground
 organization_website: 'http://www.lacompost.org'
 ein: '461134852'

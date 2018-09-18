@@ -1,6 +1,6 @@
 ---
 organization_id: '2013040'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: CIVIC PROJECTS
 organization_website: 'www.civicprojects.org/pickuppopupproduce, www.osborn320.com'
 ein: '274568770'

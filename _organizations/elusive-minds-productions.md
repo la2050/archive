@@ -1,6 +1,6 @@
 ---
 organization_id: '2014031'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Elusive Minds Productions
 organization_website: www.elusiveminds.com
 ein: '470919488'

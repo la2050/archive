@@ -1,6 +1,6 @@
 ---
 organization_id: '2014011'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Avenue 50 Studio
 organization_website: www.avenue50studio.org
 ein: '542088575'

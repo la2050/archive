@@ -1,6 +1,6 @@
 ---
 organization_id: '2014108'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: WomenShelter of Long Beach
 organization_website: www.womenshelterlb.org
 ein: '951644058'

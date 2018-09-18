@@ -1,6 +1,6 @@
 ---
 organization_id: '2016038'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: 'Citizens of the World Charter Schools, Los Angeles'
 organization_website: www.cwclosangeles.org
 ein: ''

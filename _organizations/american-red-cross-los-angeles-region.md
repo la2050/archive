@@ -1,6 +1,6 @@
 ---
 organization_id: '2015008'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: American Red Cross Los Angeles Region
 organization_website: www.redcrossla.org
 ein: '530196605'

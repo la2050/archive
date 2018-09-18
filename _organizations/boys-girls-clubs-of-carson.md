@@ -1,6 +1,6 @@
 ---
 organization_id: '2015020'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Boys & Girls Clubs of Carson
 organization_website: www.bgccarson.org
 ein: '330475452'

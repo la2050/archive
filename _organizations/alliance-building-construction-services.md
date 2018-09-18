@@ -1,6 +1,6 @@
 ---
 organization_id: '2016006'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Alliance Building & Construction Services
 organization_website: www.thealliancechoice.com
 ein: ''

@@ -1,6 +1,6 @@
 ---
 project_id: '8102096'
-year_submitted: '2018'
+year_submitted: 2018
 title: Safe Place for Youth by Podshare
 project_summary: >-
   PodShare has built over 190 affordable housing units across Los Angeles and
@@ -43,7 +43,7 @@ make_la_great: >-
    Youth unemployment/underemployment. After housing, connection to jobs is the most requested service from youth at SPY. With a strong track record of engaging hundreds of youth in employment programming each year, this activation will ensure that guests are provided ample opportunity to find meaningful work and are offered metro passes and bus tokens to increase work transit accessibility.
 category: learn
 organization_id: '2018096'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/podshare.jpg'
+project_image: 'https://activation.la2050.org/live/podshare/podshare.jpg'
 project_video: 'https://youtu.be/9T1sxwl670s'
 body_class: blueberry
 

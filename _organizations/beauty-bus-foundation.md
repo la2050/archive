@@ -1,6 +1,6 @@
 ---
 organization_id: '2014014'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: Beauty Bus Foundation
 organization_website: www.beautybus.org
 ein: '263075655'

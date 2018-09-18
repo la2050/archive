@@ -1,6 +1,6 @@
 ---
 organization_id: '2015010'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Anti-Recidivism Coalition
 organization_website: www.antirecidivism.org
 ein: '462140915'

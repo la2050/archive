@@ -1,6 +1,6 @@
 ---
 organization_id: '2015052'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Dreamhaus Inc.
 organization_website: www.dreamhausla.org
 ein: '471275709'

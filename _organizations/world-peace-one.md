@@ -1,6 +1,6 @@
 ---
 organization_id: '2014109'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: World Peace One
 organization_website: 'http://worldpeaceone.com'
 ein: '800240205'

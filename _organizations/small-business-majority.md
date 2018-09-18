@@ -1,6 +1,6 @@
 ---
 organization_id: '2018109'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Small Business Majority
 organization_website: 'http://smallbusinessmajority.org/'
 ein: '30576666'

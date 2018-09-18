@@ -1,6 +1,6 @@
 ---
 organization_id: '2015122'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Los Angeles County Economic Development Corporation
 organization_website: 'http://laedc.org/'
 ein: '953643339'

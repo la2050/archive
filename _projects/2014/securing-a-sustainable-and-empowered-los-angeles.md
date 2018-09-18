@@ -6,7 +6,7 @@ project_summary: >-
   to enhance community awareness, engagement and reduce exposure.
 category: live
 organization_id: '2015216'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   We don't have any outside collaborators but several researchers at UCLA are
   part of the MyAir LA team.
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

@@ -1,6 +1,6 @@
 ---
 organization_id: '2014047'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: L.A. Freewaves
 organization_website: www.freewaves.org
 ein: '954476207'

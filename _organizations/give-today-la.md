@@ -1,6 +1,6 @@
 ---
 organization_id: '2016091'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Give Today LA
 organization_website: givetodayla.com
 ein: ''

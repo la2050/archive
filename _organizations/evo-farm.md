@@ -1,6 +1,6 @@
 ---
 organization_id: '2013064'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Evo Farm
 organization_website: www.evofarm.com
 ein: '460846401'

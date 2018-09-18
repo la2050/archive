@@ -1,6 +1,6 @@
 ---
 organization_id: '2013150'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Parent Revolution
 organization_website: 'http://parentrevolution.org/'
 ein: '202207418'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2015152'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Partnership for Los Angeles Schools
 organization_website: www.cityyear.org/losangeles www.partnershipla.org
 ein: '#N/A'

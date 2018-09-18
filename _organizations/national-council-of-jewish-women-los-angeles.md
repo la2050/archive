@@ -1,6 +1,6 @@
 ---
 organization_id: '2016155'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: National Council of Jewish Women | Los Angeles
 organization_website: Ncjwla.org
 ein: ''

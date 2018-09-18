@@ -1,6 +1,6 @@
 ---
 organization_id: '2014092'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: The L.A. Fort
 organization_website: www.thelafort.net
 ein: '952540759'

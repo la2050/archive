@@ -1,6 +1,6 @@
 ---
 organization_id: '2016218'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: The Garage Board Shop
 organization_website: thegarageboardshops.com
 ein: ''

@@ -1,6 +1,6 @@
 ---
 organization_id: '2018082'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Mentoring Adolescents for Personal & Professional Success
 organization_website: www.mappsprogram.org
 ein: Personal DBA

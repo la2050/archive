@@ -1,6 +1,6 @@
 ---
 organization_id: '2018128'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Two Bit Circus Foundation
 organization_website: TwoBitCircus.org
 ein: '562464067'

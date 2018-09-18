@@ -6,7 +6,7 @@ project_summary: >-
   further economic, social and environmental sustainability.
 category: create
 organization_id: '2014030'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our values are specific about supporting collaboration. We deliberately created a partnership program that supported sustainability focused NGO's. 
    Further, our Advisory Council includes business, science, educators and sustainability leaders who foster our collaborations. Here is a partial list of organizations we collaborate with: UCLA, UCSD Scripps, NOAA, University of Denver Daniels School of Business, University of the Sunshine Coast AU. New collaborations include ConnectD, Asia Pacific Clean Energy Summit and Expo, Oregon BEST FEST, Ideascape, Inc., Mayor's Office LA.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

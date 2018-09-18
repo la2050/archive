@@ -1,6 +1,6 @@
 ---
 organization_id: '2014217'
-year_submitted: '2014'
+year_submitted: 2014
 organization_name: UCLA Grand Challenges
 organization_website: ''
 ein: '956006143'

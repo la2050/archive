@@ -1,6 +1,6 @@
 ---
 organization_id: '2013210'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Urban Reclaim
 organization_website: ''
 ein: '272190657'

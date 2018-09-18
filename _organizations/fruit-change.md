@@ -1,6 +1,6 @@
 ---
 organization_id: '2015070'
-year_submitted: '2015'
+year_submitted: 2015
 organization_name: Fruit Change
 organization_website: 'http://www.fruitchange.com/'
 ein: '475229978'

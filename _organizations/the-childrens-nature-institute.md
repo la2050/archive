@@ -1,6 +1,6 @@
 ---
 organization_id: '2013184'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: The Children's Nature Institute
 organization_website: www.discoverybynature.org
 ein: '954320598'

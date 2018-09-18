@@ -8,7 +8,7 @@ project_summary: >-
   disaster by creating a healthier city today.
 category: live
 organization_id: '2014221'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: ''
 project_video: ''
 CENTRAL LA: '1'
@@ -84,7 +84,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    The keys to the success of this collaboration are open communication, mutual respect and a clear work plan. Ultimately, our shared commitment to the core goals of resilience and our shared vision of the potential of this project to bring positive change to the region underlie all of our interactions and will enable us to be successful.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: lime
 
 ---

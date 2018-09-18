@@ -1,6 +1,6 @@
 ---
 organization_id: '2018079'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: MAKE IT IN LA
 organization_website: 'http://makerwalk.com,http://lafoodfest.com,http://artisanalla.com'
 ein: '811715988'

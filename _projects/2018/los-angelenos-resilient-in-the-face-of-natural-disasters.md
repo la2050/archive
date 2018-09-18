@@ -1,6 +1,6 @@
 ---
 project_id: '8102116'
-year_submitted: '2018'
+year_submitted: 2018
 title: Los Angelenos Resilient in the Face of Natural Disasters
 project_summary: >-
   At Team Rubicon, disasters are our business and veterans are our passion. We
@@ -43,7 +43,7 @@ make_la_great: >-
    Team Rubicon believes that Los Angeles County's veterans can and should be a force of change to help those most vulnerable. According to the USC School of Social Work: Los Angeles County Veterans Study, California is home to over 1.8 million former service members, with approximately 12,000 military veterans settling in Los Angeles County every year, joining the 325,000 veterans who currently reside here. One in five veterans suffer from post-traumatic stress and over two-thirds report difficulties adjusting to civilian life. Team Rubicon seeks to merge veterans’ military identity with civilian life by establishing a community network of volunteers supporting communities affected by disaster in Southern California.
 category: live
 organization_id: '2018116'
-project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/team-rubicon.jpg'
+project_image: 'https://activation.la2050.org/live/team-rubicon/team-rubicon.jpg'
 project_video: 'https://www.youtube.com/watch?v=5BOUm4PBeUc'
 body_class: lime
 

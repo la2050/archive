@@ -1,6 +1,6 @@
 ---
 organization_id: '2016063'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Dear Mama
 organization_website: dearmamala.wixsite.com/dearmama
 ein: ''

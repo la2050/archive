@@ -6,7 +6,7 @@ project_summary: >-
   cultural collaboration anchored at the Vision TheateR.
 category: create
 organization_id: '2014038'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
 project_video: ''
 CENTRAL LA: '0'
@@ -105,7 +105,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

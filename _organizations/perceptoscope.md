@@ -1,6 +1,6 @@
 ---
 organization_id: '2016170'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Perceptoscope
 organization_website: www.perceptoscope.com
 ein: ''

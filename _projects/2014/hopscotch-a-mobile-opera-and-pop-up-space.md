@@ -6,7 +6,7 @@ project_summary: >-
   crisscrossing car journeys throughout LA.
 category: create
 organization_id: '2014091'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -86,7 +86,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. The shared vision of thinking outside the box and creating work that is of the highest quality possible.
    3. Keeping the artistic vision at the center of everything we do.
 Whom will your project benefit? Please be specific.: '1'
-'': ''
+empty_column_1: ''
 body_class: banana
 
 ---

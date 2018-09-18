@@ -1,6 +1,6 @@
 ---
 organization_id: '2016080'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Food Oasis Los Angeles
 organization_website: foodoasis.la
 ein: ''

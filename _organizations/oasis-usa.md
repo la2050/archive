@@ -1,6 +1,6 @@
 ---
 organization_id: '2013146'
-year_submitted: '2013'
+year_submitted: 2013
 organization_name: Oasis USA
 organization_website: 'http://www.oasisusa.org'
 ein: '954870779'

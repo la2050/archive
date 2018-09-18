@@ -1,6 +1,6 @@
 ---
 organization_id: '2018010'
-year_submitted: '2018'
+year_submitted: 2018
 organization_name: Boys & Girls Clubs of Venice
 organization_website: 'https://www.bgcv.org/'
 ein: '956209203'

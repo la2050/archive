@@ -1,6 +1,6 @@
 ---
 organization_id: '2016114'
-year_submitted: '2016'
+year_submitted: 2016
 organization_name: Jobs to Move America
 organization_website: jobstomoveamerica.org
 ein: ''

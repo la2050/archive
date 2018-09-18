@@ -6,7 +6,7 @@ project_summary: >-
   making the hobby accessible and fun
 category: play
 organization_id: '2014054'
-year_submitted: '2014'
+year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/LAB.html'
 project_video: ''
 CENTRAL LA: '1'
@@ -54,7 +54,7 @@ What will you do to implement this idea/project?: >-
    Factors that are critical to our success are 1) having a paid employee to work and communicate closely with LabLaunch 2) negotiating a deal that is doable with LA Biohackers’ budget but also compensates LabLaunch appropriately, and 3) working with local universities to get projects from the university into the pre-incubator program.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
 Whom will your project benefit? Please be specific.: '0'
-'': ''
+empty_column_1: ''
 body_class: strawberry
 
 ---
