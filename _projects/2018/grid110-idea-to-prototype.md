@@ -82,6 +82,8 @@ category_metrics:
   - Minority- and women-owned firms
   - Venture capital investment
   - Unemployment (and opportunities) for the formerly incarcerated
+category_other:
+  - LA is the best place to CONNECT
 body_class: banana
 
 ---

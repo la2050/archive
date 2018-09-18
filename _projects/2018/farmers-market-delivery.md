@@ -102,6 +102,9 @@ category_metrics:
   - Employment in the creative industries
   - Jobs per capita
   - Minority- and women-owned firms
+category_other:
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: lime
 
 ---

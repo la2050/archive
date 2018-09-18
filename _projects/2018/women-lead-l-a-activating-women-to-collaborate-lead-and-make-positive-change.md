@@ -132,6 +132,11 @@ category_metrics:
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Voting rates
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the healthiest place to LIVE
 body_class: lime
 
 ---

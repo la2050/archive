@@ -151,6 +151,11 @@ category_metrics:
   - Attendance at cultural events
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

@@ -133,6 +133,8 @@ category_metrics:
   - Employment in the creative industries
   - Manufacturing activity
   - Number of high-growth startups
+category_other:
+  - LA is the best place to LEARN
 body_class: banana
 
 ---

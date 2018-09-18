@@ -64,6 +64,9 @@ project_five_years: |-
 category_metrics:
   - Access to healthy food
   - Obesity rates
+category_other:
+  - LA is the best place to CREATE
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

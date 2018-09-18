@@ -93,6 +93,9 @@ category_metrics:
   - Adults getting sufficient social & emotional support
   - Government responsiveness to residents’ needs
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to LIVE
 body_class: lime
 
 ---

@@ -122,6 +122,8 @@ category_metrics:
   - Adults getting sufficient social & emotional support
   - Attendance at cultural events
   - Rates of volunteerism
+category_other:
+  - LA is the best place to CREATE
 body_class: tangerine
 
 ---

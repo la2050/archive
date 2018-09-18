@@ -137,6 +137,8 @@ category_metrics:
   - Adults getting sufficient social & emotional support
   - Attendance at public/open streets gatherings
   - Government responsiveness to residents’ needs
+category_other:
+  - LA is the best place to CREATE
 body_class: banana
 
 ---

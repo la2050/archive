@@ -70,6 +70,8 @@ category_metrics:
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Suspension and expulsion rates
+category_other:
+  - LA is the best place to CONNECT
 body_class: blueberry
 
 ---

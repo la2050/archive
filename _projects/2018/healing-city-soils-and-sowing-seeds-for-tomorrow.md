@@ -112,6 +112,9 @@ category_metrics:
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
   - Youth unemployment and underemployment
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to CONNECT
 body_class: banana
 
 ---

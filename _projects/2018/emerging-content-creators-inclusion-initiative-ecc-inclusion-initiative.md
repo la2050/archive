@@ -145,6 +145,9 @@ category_metrics:
   - >-
     Percentage of graduates from local higher education institutions that remain
     in LA County 5 years after graduating
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CONNECT
 body_class: banana
 
 ---

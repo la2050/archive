@@ -159,6 +159,10 @@ category_metrics:
   - Attendance at public/open streets gatherings
   - Government responsiveness to residents’ needs
   - Voting rates
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

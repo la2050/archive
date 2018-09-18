@@ -132,6 +132,9 @@ project_five_years: >-
 category_metrics:
   - Exposure to air toxins
   - Resilient communities
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
 body_class: lime
 
 ---

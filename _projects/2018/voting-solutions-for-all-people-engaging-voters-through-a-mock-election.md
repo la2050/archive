@@ -117,6 +117,8 @@ project_five_years: >-
 category_metrics:
   - Government responsiveness to residents’ needs
   - Voting rates
+category_other:
+  - LA is the best place to CREATE
 body_class: tangerine
 
 ---

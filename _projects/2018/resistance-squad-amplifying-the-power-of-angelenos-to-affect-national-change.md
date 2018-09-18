@@ -133,6 +133,8 @@ category_metrics:
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
   - Voting rates
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

@@ -166,6 +166,9 @@ category_metrics:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
+category_other:
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

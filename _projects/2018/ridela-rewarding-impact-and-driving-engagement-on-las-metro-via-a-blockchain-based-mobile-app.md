@@ -115,6 +115,9 @@ category_metrics:
   - Attendance at cultural events
   - Travel time to work
   - Number of public transit riders
+category_other:
+  - LA is the best place to PLAY
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

@@ -173,6 +173,11 @@ category_metrics:
   - Exposure to air toxins
   - Prevalence of adverse childhood experiences
   - Residents receiving coordinated healthcare services
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
 body_class: tangerine
 
 ---

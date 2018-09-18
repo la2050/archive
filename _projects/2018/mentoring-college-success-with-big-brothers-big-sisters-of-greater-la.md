@@ -95,6 +95,9 @@ category_metrics:
   - College and community college completion rates
   - College matriculation rates
   - Youth unemployment and underemployment
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to CONNECT
 body_class: blueberry
 
 ---

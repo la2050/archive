@@ -95,6 +95,11 @@ category_metrics:
   - College matriculation rates
   - District-wide graduation rates
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: blueberry
 
 ---

@@ -125,6 +125,9 @@ project_five_years: >-
   to place.
 category_metrics:
   - Rates of homelessness
+category_other:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

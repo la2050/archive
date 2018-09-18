@@ -138,6 +138,8 @@ category_metrics:
   - Minority- and women-owned firms
   - Arts establishments per capita
   - Venture capital investment
+category_other:
+  - LA is the best place to LEARN
 body_class: banana
 
 ---

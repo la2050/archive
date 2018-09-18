@@ -194,6 +194,9 @@ category_metrics:
   - Number (and quality) of informal spaces for play
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
+category_other:
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: strawberry
 
 ---

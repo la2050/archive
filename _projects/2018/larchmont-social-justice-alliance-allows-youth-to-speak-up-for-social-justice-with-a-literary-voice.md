@@ -113,6 +113,8 @@ category_metrics:
   - Attendance at cultural events
   - Government responsiveness to residents’ needs
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

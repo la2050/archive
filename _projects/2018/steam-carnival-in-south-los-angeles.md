@@ -96,6 +96,9 @@ project_five_years: >-
   cover the cost.
 category_metrics:
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
 body_class: tangerine
 
 ---

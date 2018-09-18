@@ -119,6 +119,8 @@ project_five_years: >-
 category_metrics:
   - Government responsiveness to residents’ needs
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

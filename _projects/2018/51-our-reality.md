@@ -95,6 +95,9 @@ category_metrics:
   - Adults getting sufficient social & emotional support
   - Attendance at cultural events
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to CREATE
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

@@ -84,6 +84,8 @@ project_five_years: >-
   foster care with similarly life-changing advocacy.
 category_metrics:
   - Rates of volunteerism
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

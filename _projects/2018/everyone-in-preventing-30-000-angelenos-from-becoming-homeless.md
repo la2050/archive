@@ -167,6 +167,11 @@ project_five_years: |-
 category_metrics:
   - Housing affordability
   - Rates of homelessness
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
 body_class: tangerine
 
 ---

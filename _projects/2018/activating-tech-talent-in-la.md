@@ -138,6 +138,8 @@ category_metrics:
   - College matriculation rates
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
   - Youth unemployment and underemployment
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: blueberry
 
 ---

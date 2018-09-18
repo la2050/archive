@@ -107,6 +107,8 @@ category_metrics:
   - Jobs per capita
   - Minority- and women-owned firms
   - Number of high-growth startups
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: banana
 
 ---

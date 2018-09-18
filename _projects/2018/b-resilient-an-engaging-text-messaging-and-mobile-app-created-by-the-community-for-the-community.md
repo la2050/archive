@@ -113,6 +113,8 @@ project_five_years: >-
 category_metrics:
   - Rates of mental illness
   - Resilient communities
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

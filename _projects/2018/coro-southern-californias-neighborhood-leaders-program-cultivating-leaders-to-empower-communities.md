@@ -135,6 +135,8 @@ category_metrics:
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Rates of volunteerism
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

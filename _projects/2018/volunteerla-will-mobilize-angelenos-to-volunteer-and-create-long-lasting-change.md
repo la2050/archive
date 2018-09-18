@@ -117,6 +117,8 @@ project_five_years: >-
    As we grow the VolunteerLA platform, we can establish Los Angeles as the model of how government, nonprofits, foundations, and companies can partner to productively address our local issues together using technology and collaboration.
 category_metrics:
   - Rates of volunteerism
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

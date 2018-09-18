@@ -144,6 +144,9 @@ category_metrics:
   - Manufacturing activity
   - Arts establishments per capita
   - Measures of cultural and global economic influence (“soft power”)
+category_other:
+  - LA is the best place to PLAY
+  - LA is the best place to CONNECT
 body_class: banana
 
 ---

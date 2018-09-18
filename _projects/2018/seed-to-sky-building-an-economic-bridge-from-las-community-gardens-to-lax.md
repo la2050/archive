@@ -128,6 +128,9 @@ category_metrics:
   - Access to healthy food
   - Obesity rates
   - Resilient communities
+category_other:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

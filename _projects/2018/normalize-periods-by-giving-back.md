@@ -91,6 +91,8 @@ category_metrics:
   - Healthcare access
   - Rates of homelessness
   - Rates of mental illness
+category_other:
+  - LA is the best place to CREATE
 body_class: lime
 
 ---

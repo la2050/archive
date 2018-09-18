@@ -104,6 +104,8 @@ category_metrics:
   - Housing affordability
   - Rates of homelessness
   - Resilient communities
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

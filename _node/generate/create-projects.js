@@ -159,14 +159,18 @@ function getMakerImage(data) {
 
 
 const projectAnswers = [
+  "project_is_collaboration",
+  "project_collaborators",
   "project_proposal_description",
   "project_areas",
   "project_proposal_mobilize",
   "project_proposal_best_place",
   "project_proposal_engage",
+  "project_proposal_help",
   "project_measure",
   "project_five_years",
-  "category_metrics"
+  "category_metrics",
+  "category_other"
 ]
 
 const projectAnswersToRemove = [

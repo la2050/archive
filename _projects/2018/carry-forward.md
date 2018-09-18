@@ -122,6 +122,10 @@ category_metrics:
   - Healthcare access
   - Housing affordability
   - Number of households below the self-sufficiency standard
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

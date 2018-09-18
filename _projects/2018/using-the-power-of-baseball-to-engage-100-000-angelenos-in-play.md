@@ -108,6 +108,8 @@ category_metrics:
   - Number of children enrolled in afterschool programs
   - Number of parks with intergenerational play opportunities
   - Number of residents with easy access to a “vibrant” park
+category_other:
+  - LA is the best place to LEARN
 body_class: strawberry
 
 ---

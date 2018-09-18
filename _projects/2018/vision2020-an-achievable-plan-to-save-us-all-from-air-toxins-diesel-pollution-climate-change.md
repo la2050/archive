@@ -141,6 +141,8 @@ project_five_years: >-
    While the benefits will not be immediately apparent, Southern Californians will be dumping diesel and making the transition to non-polluting vehicles. The deployment curve for zero emissions will bend ever upward to where the end of petroleum-based transportation can be seen in our skies. Move LA will continue to engage supporters to advocate for the policies necessary to further reduce emissions caused by transportation. We believe change starts locally and if we can model it here in Los Angeles, we can do it across Southern California, throughout California, around the country, and around the world.
 category_metrics:
   - Exposure to air toxins
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

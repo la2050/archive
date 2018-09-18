@@ -108,6 +108,8 @@ project_measure: >-
 project_five_years: In several Los Angeles school districts & communities nationwide.
 category_metrics:
   - Prevalence of adverse childhood experiences
+category_other:
+  - LA is the best place to LEARN
 body_class: banana
 
 ---

@@ -120,6 +120,9 @@ category_metrics:
   - Exposure to air toxins
   - Resilient communities
   - Walk/bike/transit score
+category_other:
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

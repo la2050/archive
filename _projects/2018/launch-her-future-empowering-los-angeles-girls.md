@@ -101,6 +101,8 @@ project_five_years: >-
   underrepresented STEM fields, finish and become the innovators of tomorrow.
 category_metrics:
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: blueberry
 
 ---

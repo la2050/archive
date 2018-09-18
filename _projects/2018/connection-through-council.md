@@ -121,6 +121,11 @@ category_metrics:
   - Adults getting sufficient social & emotional support
   - Participation in neighborhood councils
   - Rates of volunteerism
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

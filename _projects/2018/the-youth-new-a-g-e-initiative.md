@@ -123,6 +123,10 @@ category_metrics:
   - Acres and miles of polluted waterways
   - Prevalence of adverse childhood experiences
   - Resilient communities
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

@@ -144,6 +144,9 @@ category_metrics:
   - Proficiency in English and Language Arts and Math
   - Students’ perceived sense of safety at and on the way to school
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: blueberry
 
 ---

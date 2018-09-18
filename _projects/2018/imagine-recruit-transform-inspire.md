@@ -101,6 +101,8 @@ project_five_years: >-
   even more partners and volunteers in our Civic Engagement work.
 category_metrics:
   - Rates of volunteerism
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

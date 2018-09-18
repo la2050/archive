@@ -123,6 +123,8 @@ category_metrics:
   - Prevalence of adverse childhood experiences
   - Rates of homelessness
   - Resilient communities
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: strawberry
 
 ---

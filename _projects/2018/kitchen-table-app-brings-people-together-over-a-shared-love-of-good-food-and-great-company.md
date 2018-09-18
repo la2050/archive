@@ -123,6 +123,8 @@ category_metrics:
   - Adults getting sufficient social & emotional support
   - Rates of volunteerism
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to CREATE
 body_class: tangerine
 
 ---

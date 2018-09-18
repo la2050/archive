@@ -164,6 +164,8 @@ category_metrics:
   - Government responsiveness to residents’ needs
   - Participation in neighborhood councils
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: banana
 
 ---

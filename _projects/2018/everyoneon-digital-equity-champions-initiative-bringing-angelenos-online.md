@@ -81,6 +81,9 @@ project_five_years: >-
 category_metrics:
   - Access to free wifi
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
 body_class: tangerine
 
 ---

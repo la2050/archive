@@ -95,6 +95,8 @@ category_metrics:
   - Healthcare access
   - Rates of mental illness
   - Residents receiving coordinated healthcare services
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: banana
 
 ---

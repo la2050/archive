@@ -81,6 +81,9 @@ category_metrics:
   - Proficiency in English and Language Arts and Math
   - Enrollment in early care and education programs
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to CONNECT
 body_class: blueberry
 
 ---

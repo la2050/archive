@@ -102,6 +102,8 @@ project_five_years: >-
    Over the next five years, we will use these strategies, among others, to continue building and strengthening the community of small business owners in LA and nationwide.
 category_metrics:
   - Minority- and women-owned firms
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

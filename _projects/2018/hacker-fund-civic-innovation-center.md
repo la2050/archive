@@ -82,6 +82,8 @@ category_metrics:
   - Jobs per capita
   - Manufacturing activity
   - Patents per capita
+category_other:
+  - LA is the best place to LEARN
 body_class: banana
 
 ---

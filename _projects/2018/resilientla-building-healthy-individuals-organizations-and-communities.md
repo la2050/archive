@@ -102,6 +102,9 @@ project_five_years: |-
    4. Cultivate a community of practice comprised of practitioners, strategists, innovators, and activists.
 category_metrics:
   - Resilient communities
+category_other:
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

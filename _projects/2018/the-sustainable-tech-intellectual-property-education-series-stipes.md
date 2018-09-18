@@ -181,6 +181,10 @@ category_metrics:
   - Minority- and women-owned firms
   - Number of high-growth startups
   - Patents per capita
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: banana
 
 ---

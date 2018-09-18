@@ -106,6 +106,10 @@ category_metrics:
   - Employment in the creative industries
   - Manufacturing activity
   - Minority- and women-owned firms
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to PLAY
+  - LA is the best place to CONNECT
 body_class: banana
 
 ---

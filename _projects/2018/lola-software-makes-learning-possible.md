@@ -125,6 +125,9 @@ category_metrics:
   - College and community college completion rates
   - District-wide graduation rates
   - Proficiency in English and Language Arts and Math
+category_other:
+  - LA is the best place to CREATE
+  - LA is the healthiest place to LIVE
 body_class: blueberry
 
 ---

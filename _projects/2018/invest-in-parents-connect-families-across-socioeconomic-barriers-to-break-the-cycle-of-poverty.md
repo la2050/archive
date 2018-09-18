@@ -122,6 +122,8 @@ category_metrics:
   - Healthcare access
   - Number of households below the self-sufficiency standard
   - Prevalence of adverse childhood experiences
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

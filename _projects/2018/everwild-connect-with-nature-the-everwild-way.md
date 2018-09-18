@@ -96,6 +96,9 @@ category_metrics:
   - Access to open space and park facilities
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to CONNECT
 body_class: strawberry
 
 ---

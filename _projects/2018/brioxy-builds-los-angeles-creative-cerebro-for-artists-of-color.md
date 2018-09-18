@@ -111,6 +111,9 @@ category_metrics:
   - Employment in the creative industries
   - Minority- and women-owned firms
   - Arts establishments per capita
+category_other:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to LIVE
 body_class: banana
 
 ---

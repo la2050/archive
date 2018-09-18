@@ -131,6 +131,8 @@ project_five_years: >-
 category_metrics:
   - Per capita crime rates
   - Perceived safety
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: lime
 
 ---

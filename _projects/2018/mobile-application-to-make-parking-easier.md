@@ -82,6 +82,8 @@ project_five_years: >-
   accounting for all possible sign rules.
 category_metrics:
   - Walk/bike/transit score
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: blueberry
 
 ---

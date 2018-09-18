@@ -141,6 +141,11 @@ category_metrics:
   - Employment in the creative industries
   - Minority- and women-owned firms
   - Unemployment (and opportunities) for the formerly incarcerated
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to PLAY
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: lime
 
 ---

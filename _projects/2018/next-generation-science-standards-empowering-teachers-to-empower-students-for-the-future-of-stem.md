@@ -101,6 +101,8 @@ category_metrics:
   - College and community college completion rates
   - College matriculation rates
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the best place to CREATE
 body_class: blueberry
 
 ---

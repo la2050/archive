@@ -119,6 +119,9 @@ category_metrics:
   - Attendance at public/open streets gatherings
   - Number of public transit riders
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to PLAY
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

@@ -80,6 +80,8 @@ category_metrics:
   - Gini coefficient
   - Minority- and women-owned firms
   - Venture capital investment
+category_other:
+  - LA is the best place to CONNECT
 body_class: lime
 
 ---

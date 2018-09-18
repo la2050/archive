@@ -124,6 +124,8 @@ project_five_years: >-
   Plan.
 category_metrics:
   - Resilient communities
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

@@ -96,6 +96,8 @@ project_five_years: >-
    If HNI can partner with organizations around the country, it will revolutionize the ability of NGOs and their communities to dramatically escalate and accelerate the work of each organization.
 category_metrics:
   - Access to healthy food
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: blueberry
 
 ---

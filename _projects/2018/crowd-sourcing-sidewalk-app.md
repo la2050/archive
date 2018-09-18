@@ -110,6 +110,8 @@ project_five_years: >-
    At The Glue we hope to continue to build products that keep us and our planet healthy and connected, and fun while doing it.
 category_metrics:
   - Walk/bike/transit score
+category_other:
+  - LA is the best place to PLAY
 body_class: lime
 
 ---

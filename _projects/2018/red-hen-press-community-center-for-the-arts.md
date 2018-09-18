@@ -88,6 +88,8 @@ project_five_years: >-
 category_metrics:
   - Number (and quality) of informal spaces for play
   - Number of children enrolled in afterschool programs
+category_other:
+  - LA is the best place to CREATE
 body_class: banana
 
 ---

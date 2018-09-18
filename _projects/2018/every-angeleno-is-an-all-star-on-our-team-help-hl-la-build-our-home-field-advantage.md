@@ -97,6 +97,8 @@ category_metrics:
   - Proficiency in English and Language Arts and Math
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
+category_other:
+  - LA is the best place to PLAY
 body_class: blueberry
 
 ---

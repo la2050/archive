@@ -157,6 +157,8 @@ category_metrics:
   - Number of households below the self-sufficiency standard
   - Resilient communities
   - Residents receiving coordinated healthcare services
+category_other:
+  - LA is the best place to LEARN
 body_class: blueberry
 
 ---

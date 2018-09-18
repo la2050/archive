@@ -88,6 +88,8 @@ project_five_years: >-
 category_metrics:
   - Number of households below the self-sufficiency standard
   - Prevalence of adverse childhood experiences
+category_other:
+  - LA is the best place to LEARN
 body_class: strawberry
 
 ---

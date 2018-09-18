@@ -141,6 +141,8 @@ project_five_years: >-
   and providing for their families!
 category_metrics:
   - Number of households below the self-sufficiency standard
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

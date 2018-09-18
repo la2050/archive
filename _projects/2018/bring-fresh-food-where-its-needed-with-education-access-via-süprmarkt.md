@@ -166,6 +166,8 @@ category_metrics:
   - Access to healthy food
   - Healthcare access
   - Obesity rates
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

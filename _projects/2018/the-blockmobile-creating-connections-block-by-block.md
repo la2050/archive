@@ -94,6 +94,9 @@ category_metrics:
   - Attendance at public/open streets gatherings
   - Government responsiveness to residents’ needs
   - Rates of volunteerism
+category_other:
+  - LA is the best place to PLAY
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

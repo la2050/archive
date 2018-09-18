@@ -125,6 +125,8 @@ category_metrics:
   - Attendance at public/open streets gatherings
   - Participation in neighborhood councils
   - Voting rates
+category_other:
+  - LA is the best place to LEARN
 body_class: tangerine
 
 ---

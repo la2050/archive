@@ -61,6 +61,9 @@ project_five_years: >-
   improve health outcomes for young people across Los Angele County.
 category_metrics:
   - Healthcare access
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to PLAY
 body_class: blueberry
 
 ---

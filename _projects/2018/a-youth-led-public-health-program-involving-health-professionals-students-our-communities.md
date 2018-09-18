@@ -101,6 +101,11 @@ category_metrics:
   - Access to healthy food
   - Healthcare access
   - Obesity rates
+category_other:
+  - LA is the best place to LEARN
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

@@ -112,6 +112,8 @@ category_metrics:
   - Government responsiveness to residents’ needs
   - Residential segregation
   - Voting rates
+category_other:
+  - LA is the healthiest place to LIVE
 body_class: tangerine
 
 ---

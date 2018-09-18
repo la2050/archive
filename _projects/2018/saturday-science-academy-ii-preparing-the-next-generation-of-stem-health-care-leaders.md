@@ -130,6 +130,8 @@ category_metrics:
   - College matriculation rates
   - Proficiency in English and Language Arts and Math
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
+category_other:
+  - LA is the best place to CONNECT
 body_class: blueberry
 
 ---

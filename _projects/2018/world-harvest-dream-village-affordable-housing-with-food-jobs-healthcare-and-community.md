@@ -107,6 +107,8 @@ category_metrics:
   - Access to healthy food
   - Healthcare access
   - Housing affordability
+category_other:
+  - LA is the healthiest place to CONNECT
 body_class: lime
 
 ---

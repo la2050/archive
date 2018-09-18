@@ -140,6 +140,11 @@ category_metrics:
   - District-wide graduation rates
   - Suspension and expulsion rates
   - Youth unemployment and underemployment
+category_other:
+  - LA is the best place to CREATE
+  - LA is the best place to PLAY
+  - LA is the best place to CONNECT
+  - LA is the healthiest place to LIVE
 body_class: blueberry
 
 ---

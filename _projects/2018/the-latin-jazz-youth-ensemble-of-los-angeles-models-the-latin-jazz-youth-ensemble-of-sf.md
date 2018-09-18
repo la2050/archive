@@ -76,6 +76,8 @@ category_metrics:
   - District-wide graduation rates
   - Suspension and expulsion rates
   - Truancy rates in elementary and middle schools
+category_other:
+  - LA is the best place to CREATE
 body_class: blueberry
 
 ---

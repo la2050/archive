@@ -100,6 +100,8 @@ category_metrics:
   - Attendance at cultural events
   - Residential segregation
   - Total number of local social media friends and connections Angelenos have
+category_other:
+  - LA is the best place to CREATE
 body_class: tangerine
 
 ---

@@ -200,6 +200,8 @@ category_metrics:
   - Number of households below the self-sufficiency standard
   - Rates of homelessness
   - Resilient communities
+category_other:
+  - LA is the best place to CREATE
 body_class: lime
 
 ---

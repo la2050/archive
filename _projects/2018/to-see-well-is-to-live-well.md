@@ -106,6 +106,9 @@ project_five_years: >-
 category_metrics:
   - Healthcare access
   - Residents receiving coordinated healthcare services
+category_other:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to CONNECT
 body_class: tangerine
 
 ---

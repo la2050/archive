@@ -126,6 +126,8 @@ project_five_years: |-
    It would create at least 50 budding leaders in Science Education by our next vision of 'Each One, Reach One'
 category_metrics:
   - Obesity rates
+category_other:
+  - LA is the best place to LEARN
 body_class: strawberry
 
 ---

@@ -135,6 +135,9 @@ project_five_years: >-
   future of the city.
 category_metrics:
   - Adults getting sufficient social & emotional support
+category_other:
+  - LA is the best place to LEARN
+  - LA is the healthiest place to LIVE
 body_class: banana
 
 ---
