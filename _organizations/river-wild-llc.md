@@ -2,7 +2,8 @@
 organization_id: '2015168'
 year_submitted: 2015
 organization_name: River Wild LLC
-organization_website: www.riverwild.la
+organization_website:
+  - www.riverwild.la
 ein: '473732729'
 zip: '90039'
 charity_navigator_url: ''

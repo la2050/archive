@@ -2,7 +2,8 @@
 organization_id: '2016034'
 year_submitted: 2016
 organization_name: Camino Nuevo Charter Academy
-organization_website: www.caminonuevo.org
+organization_website:
+  - www.caminonuevo.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

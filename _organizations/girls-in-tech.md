@@ -2,7 +2,8 @@
 organization_id: '2016089'
 year_submitted: 2016
 organization_name: Girls in Tech
-organization_website: girlsintech.org
+organization_website:
+  - girlsintech.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

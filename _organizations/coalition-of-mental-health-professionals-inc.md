@@ -2,7 +2,8 @@
 organization_id: '2013041'
 year_submitted: 2013
 organization_name: 'Coalition of Mental Health Professionals, Inc.'
-organization_website: 'http://laBlackworkercenter.org/'
+organization_website:
+  - 'http://laBlackworkercenter.org/'
 ein: '954395737'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954395737'

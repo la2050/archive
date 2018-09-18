@@ -2,7 +2,8 @@
 organization_id: '2016137'
 year_submitted: 2016
 organization_name: Los Angeles Magazine
-organization_website: www.lamag.com
+organization_website:
+  - www.lamag.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

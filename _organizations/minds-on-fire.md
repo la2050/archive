@@ -2,7 +2,8 @@
 organization_id: '2013135'
 year_submitted: 2013
 organization_name: Minds on Fire
-organization_website: www.mindsonfirela.org
+organization_website:
+  - www.mindsonfirela.org
 ein: '46225513'
 zip: ''
 charity_navigator_url: ''

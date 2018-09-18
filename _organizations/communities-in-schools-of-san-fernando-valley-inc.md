@@ -2,7 +2,8 @@
 organization_id: '2013043'
 year_submitted: 2013
 organization_name: 'Communities In Schools of San Fernando Valley, Inc.'
-organization_website: www.cisgla.org
+organization_website:
+  - www.cisgla.org
 ein: '954523780'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954523780'

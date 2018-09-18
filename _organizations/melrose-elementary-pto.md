@@ -2,7 +2,8 @@
 organization_id: '2016146'
 year_submitted: 2016
 organization_name: Melrose Elementary PTO
-organization_website: www.melrosestars.org
+organization_website:
+  - www.melrosestars.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

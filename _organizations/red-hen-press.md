@@ -2,7 +2,8 @@
 organization_id: '2018101'
 year_submitted: 2018
 organization_name: Red Hen Press
-organization_website: www.redhen.org
+organization_website:
+  - www.redhen.org
 ein: '954754598'
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'

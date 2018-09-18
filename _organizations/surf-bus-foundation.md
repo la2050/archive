@@ -2,7 +2,8 @@
 organization_id: '2018114'
 year_submitted: 2018
 organization_name: Surf Bus Foundation
-organization_website: www.surfbusfoundation.org
+organization_website:
+  - www.surfbusfoundation.org
 ein: '463169840'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
@@ -17,8 +18,15 @@ tags_indicators:
   - Diversity
   - Immigration/Immigrants
   - Underserved communities
-twitter: '["@altaseaorg","@lamitopsail","@marionc82937170"]'
-instagram: '["@surfbusfoundation","@altasea","@tallshipschool","@surf_academy,"]'
+twitter:
+  - '@altaseaorg'
+  - '@lamitopsail'
+  - '@marionc82937170'
+instagram:
+  - '@surfbusfoundation'
+  - '@altasea'
+  - '@tallshipschool'
+  - '@surf_academy,'
 facebook: 'https://www.facebook.com/The-Surf-Bus-Foundation-170696492986174/'
 org_type: Nonprofit
 project_image: >-

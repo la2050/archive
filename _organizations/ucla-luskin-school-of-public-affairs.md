@@ -2,7 +2,8 @@
 organization_id: '2015217'
 year_submitted: 2015
 organization_name: UCLA Luskin School of Public Affairs
-organization_website: www.luskin.ucla.edu
+organization_website:
+  - www.luskin.ucla.edu
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

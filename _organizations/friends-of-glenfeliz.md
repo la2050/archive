@@ -2,7 +2,8 @@
 organization_id: '2016082'
 year_submitted: 2016
 organization_name: Friends of Glenfeliz
-organization_website: www.friendsofglenfeliz.org
+organization_website:
+  - www.friendsofglenfeliz.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

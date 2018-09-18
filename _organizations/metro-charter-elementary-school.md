@@ -2,7 +2,8 @@
 organization_id: '2016147'
 year_submitted: 2016
 organization_name: METRO Charter Elementary School
-organization_website: metrocharter.org
+organization_website:
+  - metrocharter.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

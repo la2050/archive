@@ -2,7 +2,8 @@
 organization_id: '2015102'
 year_submitted: 2015
 organization_name: JVS Los Angeles
-organization_website: www.jvsla.org
+organization_website:
+  - www.jvsla.org
 ein: '951691012'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691012'

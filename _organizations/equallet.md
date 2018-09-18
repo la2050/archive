@@ -2,7 +2,8 @@
 organization_id: '2016073'
 year_submitted: 2016
 organization_name: Equallet
-organization_website: www.equallet.com
+organization_website:
+  - www.equallet.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

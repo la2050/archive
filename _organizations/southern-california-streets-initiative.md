@@ -2,7 +2,8 @@
 organization_id: '2015188'
 year_submitted: 2015
 organization_name: Southern California Streets Initiative
-organization_website: 'http://www.abundanthousingla.org'
+organization_website:
+  - 'http://www.abundanthousingla.org'
 ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: ''

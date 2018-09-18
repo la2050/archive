@@ -2,7 +2,8 @@
 organization_id: '2016150'
 year_submitted: 2016
 organization_name: Mujeres de la Tierra
-organization_website: www.mujeresdelatierra.org
+organization_website:
+  - www.mujeresdelatierra.org
 ein: '205270350'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=205270350'

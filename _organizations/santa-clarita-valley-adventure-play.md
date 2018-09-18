@@ -2,7 +2,8 @@
 organization_id: '2016189'
 year_submitted: 2016
 organization_name: Santa Clarita Valley Adventure Play
-organization_website: scvadventureplay.com
+organization_website:
+  - scvadventureplay.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

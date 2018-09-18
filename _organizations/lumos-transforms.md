@@ -2,7 +2,8 @@
 organization_id: '2018078'
 year_submitted: 2018
 organization_name: Lumos Transforms
-organization_website: 'http://lumostransforms.com/'
+organization_website:
+  - 'http://lumostransforms.com/'
 ein: '814833035'
 zip: '20002'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=814833035'

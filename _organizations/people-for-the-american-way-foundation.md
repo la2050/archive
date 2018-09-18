@@ -2,7 +2,8 @@
 organization_id: '2016169'
 year_submitted: 2016
 organization_name: People For the American Way Foundation
-organization_website: yeonetwork.org/our-work/front-line-leaders-academy
+organization_website:
+  - yeonetwork.org/our-work/front-line-leaders-academy
 ein: '133065716'
 zip: '20005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133065716'

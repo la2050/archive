@@ -2,7 +2,8 @@
 organization_id: '2013103'
 year_submitted: 2013
 organization_name: KCETLink
-organization_website: www.kcet.org
+organization_website:
+  - www.kcet.org
 ein: '952211661'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'

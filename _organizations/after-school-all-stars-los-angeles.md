@@ -2,7 +2,8 @@
 organization_id: '2015005'
 year_submitted: 2015
 organization_name: 'After-School All-Stars, Los Angeles'
-organization_website: www.la-allstars.org
+organization_website:
+  - www.la-allstars.org
 ein: '912162719'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912162719'

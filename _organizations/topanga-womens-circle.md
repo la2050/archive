@@ -2,7 +2,8 @@
 organization_id: '2018126'
 year_submitted: 2018
 organization_name: Topanga Women's Circle
-organization_website: 'http://topangawomenscircle.org'
+organization_website:
+  - 'http://topangawomenscircle.org'
 ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

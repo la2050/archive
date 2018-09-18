@@ -2,7 +2,8 @@
 organization_id: '2016171'
 year_submitted: 2016
 organization_name: PIECES
-organization_website: www.PIECESarts.org
+organization_website:
+  - www.PIECESarts.org
 ein: '800819008'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800819008'

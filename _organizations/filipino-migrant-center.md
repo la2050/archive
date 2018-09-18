@@ -2,7 +2,8 @@
 organization_id: '2013065'
 year_submitted: 2013
 organization_name: Filipino Migrant Center
-organization_website: 'http://filipinomigrantcenter.org/'
+organization_website:
+  - 'http://filipinomigrantcenter.org/'
 ein: '320308477'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320308477'

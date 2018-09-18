@@ -2,7 +2,8 @@
 organization_id: '2014002'
 year_submitted: 2014
 organization_name: 3Boulevards and West Adams Heritage Assocation (WAHA)
-organization_website: 3boulevards.org
+organization_website:
+  - 3boulevards.org
 ein: '954086813'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954086813'

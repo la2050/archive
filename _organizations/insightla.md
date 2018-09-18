@@ -2,7 +2,8 @@
 organization_id: '2013097'
 year_submitted: 2013
 organization_name: InsightLA
-organization_website: 'http://www.insightla.org/'
+organization_website:
+  - 'http://www.insightla.org/'
 ein: '841713927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841713927'

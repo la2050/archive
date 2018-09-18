@@ -2,7 +2,8 @@
 organization_id: '2013024'
 year_submitted: 2013
 organization_name: 'c3: Center for Conscious Creativity'
-organization_website: www.consciouscreativity.org
+organization_website:
+  - www.consciouscreativity.org
 ein: '908738355'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=908738355'

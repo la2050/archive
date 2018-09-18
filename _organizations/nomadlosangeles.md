@@ -2,7 +2,8 @@
 organization_id: '2014064'
 year_submitted: 2014
 organization_name: Nomadlosangeles
-organization_website: nomadlosangeles.com
+organization_website:
+  - nomadlosangeles.com
 ein: '270679016'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270679016'

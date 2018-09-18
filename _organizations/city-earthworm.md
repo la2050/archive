@@ -2,7 +2,8 @@
 organization_id: '2013033'
 year_submitted: 2013
 organization_name: City Earthworm
-organization_website: 'http://www.cityearthworm.com'
+organization_website:
+  - 'http://www.cityearthworm.com'
 ein: '455602348'
 zip: ''
 charity_navigator_url: ''

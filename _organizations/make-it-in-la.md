@@ -2,7 +2,10 @@
 organization_id: '2018079'
 year_submitted: 2018
 organization_name: MAKE IT IN LA
-organization_website: 'http://makerwalk.com,http://lafoodfest.com,http://artisanalla.com'
+organization_website:
+  - 'http://makerwalk.com'
+  - 'http://lafoodfest.com'
+  - 'http://artisanalla.com'
 ein: '811715988'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811715988'
@@ -10,10 +13,18 @@ ntee_type: ''
 tags_indicators:
   - 'Income and Employment: Local manufacturing'
   - Entrepreneurship
-twitter: '["@wemakeitinla","@LAFoodFest","@ArtisanalLA"]'
-instagram: '["@wemakeitinla","@lafoodfest","@artisanalla"]'
-facebook: >-
-  ["https://facebook.com/makeitinla","https://facebook.com/LAFoodfest","https://facebook.com/ArtisanalLA"]
+twitter:
+  - '@wemakeitinla'
+  - '@LAFoodFest'
+  - '@ArtisanalLA'
+instagram:
+  - '@wemakeitinla'
+  - '@lafoodfest'
+  - '@artisanalla'
+facebook:
+  - 'https://facebook.com/makeitinla'
+  - 'https://facebook.com/LAFoodfest'
+  - 'https://facebook.com/ArtisanalLA'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'

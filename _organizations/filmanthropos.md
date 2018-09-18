@@ -2,7 +2,8 @@
 organization_id: '2013066'
 year_submitted: 2013
 organization_name: Filmanthropos
-organization_website: www.filmanthropos.com
+organization_website:
+  - www.filmanthropos.com
 ein: '462443400'
 zip: ''
 charity_navigator_url: ''

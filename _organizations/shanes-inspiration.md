@@ -2,7 +2,8 @@
 organization_id: '2015179'
 year_submitted: 2015
 organization_name: Shane's Inspiration
-organization_website: www.shanesinspiration.org
+organization_website:
+  - www.shanesinspiration.org
 ein: '954760497'
 zip: '91411'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954760497'

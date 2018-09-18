@@ -2,7 +2,8 @@
 organization_id: '2018086'
 year_submitted: 2018
 organization_name: Mutuo
-organization_website: www.thisismutuo.com
+organization_website:
+  - www.thisismutuo.com
 ein: '454105869'
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015026'
 year_submitted: 2015
 organization_name: Casa Libre
-organization_website: www.casa-libre.org
+organization_website:
+  - www.casa-libre.org
 ein: '954609414'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954609414'

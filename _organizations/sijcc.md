@@ -2,7 +2,8 @@
 organization_id: '2016192'
 year_submitted: 2016
 organization_name: SIJCC
-organization_website: sijcc.net
+organization_website:
+  - sijcc.net
 ein: ''
 zip: ''
 charity_navigator_url: ''

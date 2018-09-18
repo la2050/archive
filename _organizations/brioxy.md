@@ -2,7 +2,8 @@
 organization_id: '2018011'
 year_submitted: 2018
 organization_name: Brioxy
-organization_website: www.brioxy.com
+organization_website:
+  - www.brioxy.com
 ein: We are fiscally sponsored
 zip: '90012'
 charity_navigator_url: ''

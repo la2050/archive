@@ -2,7 +2,8 @@
 organization_id: '2013154'
 year_submitted: 2013
 organization_name: PF Bresee Foundation (Bresee)
-organization_website: www.bresee.org
+organization_website:
+  - www.bresee.org
 ein: '953797363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953797363'

@@ -2,7 +2,8 @@
 organization_id: '2014038'
 year_submitted: 2014
 organization_name: Friends of the VisionTheater
-organization_website: 'http://www.leimertparkvillage.org/'
+organization_website:
+  - 'http://www.leimertparkvillage.org/'
 ein: '954439557'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954439557'

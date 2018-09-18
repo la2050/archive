@@ -2,7 +2,8 @@
 organization_id: '2015194'
 year_submitted: 2015
 organization_name: Tagliaferri Howard Architecture
-organization_website: 'http://www.tharchitecture.com/'
+organization_website:
+  - 'http://www.tharchitecture.com/'
 ein: '472358063'
 zip: '90066'
 charity_navigator_url: ''

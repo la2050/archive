@@ -2,7 +2,8 @@
 organization_id: '2015007'
 year_submitted: 2015
 organization_name: Ambulante
-organization_website: www.ambulanteusa.com
+organization_website:
+  - www.ambulanteusa.com
 ein: '465509683'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465509683'

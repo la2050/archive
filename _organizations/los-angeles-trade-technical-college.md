@@ -2,7 +2,8 @@
 organization_id: '2015130'
 year_submitted: 2015
 organization_name: Los Angeles Trade-Technical College
-organization_website: 'http://slatez.org/'
+organization_website:
+  - 'http://slatez.org/'
 ein: '952587353'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952587353'

@@ -2,7 +2,8 @@
 organization_id: '2013195'
 year_submitted: 2013
 organization_name: The Los Angeles Trust for Children's Health
-organization_website: www.thelatrust.org
+organization_website:
+  - www.thelatrust.org
 ein: '954262448'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954262448'

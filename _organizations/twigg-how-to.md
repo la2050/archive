@@ -2,7 +2,8 @@
 organization_id: '2018127'
 year_submitted: 2018
 organization_name: TWIGG How-To
-organization_website: 'http://www.twigghowto.com/'
+organization_website:
+  - 'http://www.twigghowto.com/'
 ein: '813851393'
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2018022'
 year_submitted: 2018
 organization_name: Citizens Of Culture
-organization_website: citizensofculture.com
+organization_website:
+  - citizensofculture.com
 ein: '821044989'
 zip: '91506'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821044989'

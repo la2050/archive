@@ -2,7 +2,8 @@
 organization_id: '2015043'
 year_submitted: 2015
 organization_name: Communities In Schools of Los Angeles
-organization_website: www.cislosangeles.org
+organization_website:
+  - www.cislosangeles.org
 ein: '473675225'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473675225'

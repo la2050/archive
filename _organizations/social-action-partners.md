@@ -2,7 +2,8 @@
 organization_id: '2014082'
 year_submitted: 2014
 organization_name: Social Action Partners
-organization_website: www.socialactionpartners.org
+organization_website:
+  - www.socialactionpartners.org
 ein: '271689584'
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271689584'

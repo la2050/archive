@@ -2,7 +2,8 @@
 organization_id: '2015213'
 year_submitted: 2015
 organization_name: Tiny Rebellion
-organization_website: 'http://www.tiny-rebellion.com/#/home'
+organization_website:
+  - 'http://www.tiny-rebellion.com/#/home'
 ein: '954280254'
 zip: '90401'
 charity_navigator_url: ''

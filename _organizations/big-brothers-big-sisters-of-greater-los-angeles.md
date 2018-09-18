@@ -2,7 +2,8 @@
 organization_id: '2018007'
 year_submitted: 2018
 organization_name: Big Brothers Big Sisters of Greater Los Angeles
-organization_website: 'http://bbbsla.org/'
+organization_website:
+  - 'http://bbbsla.org/'
 ein: '951904857'
 zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'

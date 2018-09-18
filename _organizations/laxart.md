@@ -2,7 +2,8 @@
 organization_id: '2013119'
 year_submitted: 2013
 organization_name: LAXART
-organization_website: laxart.org
+organization_website:
+  - laxart.org
 ein: '202911916'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202911916'

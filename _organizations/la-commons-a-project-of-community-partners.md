@@ -2,7 +2,8 @@
 organization_id: '2018060'
 year_submitted: 2018
 organization_name: 'LA Commons, a project of Community Partners'
-organization_website: www.lacommons.org
+organization_website:
+  - www.lacommons.org
 ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

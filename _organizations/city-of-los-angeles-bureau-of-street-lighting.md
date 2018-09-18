@@ -2,7 +2,8 @@
 organization_id: '2018026'
 year_submitted: 2018
 organization_name: 'City of Los Angeles, Bureau of Street Lighting'
-organization_website: 'http://bsl.lacity.org/'
+organization_website:
+  - 'http://bsl.lacity.org/'
 ein: '956000735'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
@@ -13,8 +14,8 @@ tags_indicators:
   - Public space
   - Community health
 twitter: '@LA_Streetlights'
-instagram: ''
-facebook: ''
+instagram: 0
+facebook: 0
 org_type: Government
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg

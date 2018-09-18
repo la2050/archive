@@ -2,7 +2,8 @@
 organization_id: '2016132'
 year_submitted: 2016
 organization_name: Living Spring Foundation
-organization_website: www.livingspringfoundation.org
+organization_website:
+  - www.livingspringfoundation.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

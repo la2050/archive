@@ -2,7 +2,8 @@
 organization_id: '2016165'
 year_submitted: 2016
 organization_name: Patrick McCaffrey Foundation
-organization_website: www.veteransvillage.org
+organization_website:
+  - www.veteransvillage.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

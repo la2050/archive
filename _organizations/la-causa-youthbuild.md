@@ -2,7 +2,8 @@
 organization_id: '2013112'
 year_submitted: 2013
 organization_name: LA CAUSA YouthBuild
-organization_website: www.lacausainc.org
+organization_website:
+  - www.lacausainc.org
 ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'

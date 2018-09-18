@@ -2,7 +2,8 @@
 organization_id: '2015049'
 year_submitted: 2015
 organization_name: DIY Girls
-organization_website: www.diygirls.org
+organization_website:
+  - www.diygirls.org
 ein: '270575032'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270575032'

@@ -2,7 +2,8 @@
 organization_id: '2016051'
 year_submitted: 2016
 organization_name: Community Corporation of Santa Monica
-organization_website: www.communitycorp.org
+organization_website:
+  - www.communitycorp.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

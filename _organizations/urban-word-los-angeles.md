@@ -2,7 +2,8 @@
 organization_id: '2015221'
 year_submitted: 2015
 organization_name: Urban Word Los Angeles
-organization_website: www.urbanword.org
+organization_website:
+  - www.urbanword.org
 ein: '922748922'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=922748922'

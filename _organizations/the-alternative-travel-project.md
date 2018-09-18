@@ -2,7 +2,8 @@
 organization_id: '2015196'
 year_submitted: 2014
 organization_name: The Alternative Travel Project
-organization_website: www.alternativetravelproject.com
+organization_website:
+  - www.alternativetravelproject.com
 ein: '464888726'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464888726'

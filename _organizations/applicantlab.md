@@ -2,7 +2,8 @@
 organization_id: '2015011'
 year_submitted: 2015
 organization_name: ApplicantLab
-organization_website: www.ApplicantLab.com
+organization_website:
+  - www.ApplicantLab.com
 ein: '473354380'
 zip: '90094'
 charity_navigator_url: ''

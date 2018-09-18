@@ -2,7 +2,8 @@
 organization_id: '2016048'
 year_submitted: 2016
 organization_name: College Track
-organization_website: www.collegetrack.org
+organization_website:
+  - www.collegetrack.org
 ein: '943279613'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943279613'

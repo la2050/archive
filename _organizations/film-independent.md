@@ -2,7 +2,8 @@
 organization_id: '2018040'
 year_submitted: 2018
 organization_name: Film Independent
-organization_website: 'https://www.filmindependent.org/'
+organization_website:
+  - 'https://www.filmindependent.org/'
 ein: '953943485'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953943485'

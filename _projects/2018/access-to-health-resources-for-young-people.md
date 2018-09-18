@@ -64,6 +64,7 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
+challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'
 body_class: blueberry
 
 ---

@@ -2,7 +2,8 @@
 organization_id: '2013209'
 year_submitted: 2013
 organization_name: Urban Macrosystems
-organization_website: www.urbanmacrosystems.com
+organization_website:
+  - www.urbanmacrosystems.com
 ein: '565687413'
 zip: ''
 charity_navigator_url: ''

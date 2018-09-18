@@ -2,7 +2,8 @@
 organization_id: '2015031'
 year_submitted: 2015
 organization_name: 'Children’s Institute, Inc. (CII)'
-organization_website: www.childrensinstitute.org
+organization_website:
+  - www.childrensinstitute.org
 ein: '951641424'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641424'

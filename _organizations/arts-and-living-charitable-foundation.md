@@ -2,7 +2,8 @@
 organization_id: '2016013'
 year_submitted: 2016
 organization_name: Arts and Living Charitable Foundation
-organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
+organization_website:
+  - www.aalcf.com/index.php/what-the/80-article-eight14
 ein: ''
 zip: ''
 charity_navigator_url: ''

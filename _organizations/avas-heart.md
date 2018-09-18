@@ -2,7 +2,8 @@
 organization_id: '2016017'
 year_submitted: 2016
 organization_name: Ava's Heart
-organization_website: avasheart.org
+organization_website:
+  - avasheart.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

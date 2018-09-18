@@ -2,7 +2,8 @@
 organization_id: '2013129'
 year_submitted: 2013
 organization_name: Lybba
-organization_website: www.lybba.org
+organization_website:
+  - www.lybba.org
 ein: '383777236'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383777236'

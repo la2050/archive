@@ -2,7 +2,8 @@
 organization_id: '2016166'
 year_submitted: 2016
 organization_name: Peaceworks International
-organization_website: www.iamla2017.com
+organization_website:
+  - www.iamla2017.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015083'
 year_submitted: 2015
 organization_name: Heal the Bay
-organization_website: www.healthebay.org
+organization_website:
+  - www.healthebay.org
 ein: '954031055'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954031055'

@@ -2,7 +2,8 @@
 organization_id: '2013140'
 year_submitted: 2013
 organization_name: Nativ
-organization_website: www.nativla.com
+organization_website:
+  - www.nativla.com
 ein: '102649365'
 zip: ''
 charity_navigator_url: ''

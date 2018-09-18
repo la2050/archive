@@ -2,7 +2,8 @@
 organization_id: '2016121'
 year_submitted: 2016
 organization_name: LA Derby Dolls
-organization_website: derbydolls.com
+organization_website:
+  - derbydolls.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

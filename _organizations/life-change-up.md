@@ -2,7 +2,8 @@
 organization_id: '2015114'
 year_submitted: 2015
 organization_name: Life Change Up
-organization_website: www.LifeChangeUp.com
+organization_website:
+  - www.LifeChangeUp.com
 ein: '475212304'
 zip: '90069'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475212304'

@@ -2,7 +2,8 @@
 organization_id: '2013179'
 year_submitted: 2013
 organization_name: Take Back the Grid
-organization_website: www.takebackthegrid.com
+organization_website:
+  - www.takebackthegrid.com
 ein: '383887267'
 zip: ''
 charity_navigator_url: ''

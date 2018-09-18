@@ -2,7 +2,8 @@
 organization_id: '2013077'
 year_submitted: 2013
 organization_name: Fulfillment Fund
-organization_website: www.fulfillment.org
+organization_website:
+  - www.fulfillment.org
 ein: '953180934'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953180934'

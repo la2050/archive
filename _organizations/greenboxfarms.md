@@ -2,7 +2,8 @@
 organization_id: '2015077'
 year_submitted: 2015
 organization_name: GREENBOXFARMS
-organization_website: www.greenboxfarms.com
+organization_website:
+  - www.greenboxfarms.com
 ein: '475224113'
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015051'
 year_submitted: 2015
 organization_name: Downtown Women's Center
-organization_website: www.DowntownWomensCenter.org
+organization_website:
+  - www.DowntownWomensCenter.org
 ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: '#N/A'

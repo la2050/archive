@@ -2,7 +2,8 @@
 organization_id: '2018122'
 year_submitted: 2018
 organization_name: The People of Change
-organization_website: ''
+organization_website:
+  - '0'
 ein: ''
 zip: '90014'
 charity_navigator_url: ''

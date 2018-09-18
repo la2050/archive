@@ -2,7 +2,8 @@
 organization_id: '2015016'
 year_submitted: 2015
 organization_name: Bill Weber Studios
-organization_website: www.averysworld.tv
+organization_website:
+  - www.averysworld.tv
 ein: '132467145'
 zip: '91617'
 charity_navigator_url: ''

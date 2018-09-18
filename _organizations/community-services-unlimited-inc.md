@@ -2,7 +2,8 @@
 organization_id: '2014018'
 year_submitted: 2014
 organization_name: Community Services Unlimited inc.
-organization_website: www.csuinc.org
+organization_website:
+  - www.csuinc.org
 ein: '953218396'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953218396'

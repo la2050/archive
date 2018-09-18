@@ -2,7 +2,8 @@
 organization_id: '2016002'
 year_submitted: 2016
 organization_name: 3-D SPACE
-organization_website: 3-DSPACE.org
+organization_website:
+  - 3-DSPACE.org
 ein: '472247578'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472247578'

@@ -2,7 +2,8 @@
 organization_id: '2013158'
 year_submitted: 2013
 organization_name: Pullias Center for Higher Education
-organization_website: 'http://pullias.usc.edu/'
+organization_website:
+  - 'http://pullias.usc.edu/'
 ein: '951642394'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'

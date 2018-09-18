@@ -2,7 +2,8 @@
 organization_id: '2016064'
 year_submitted: 2016
 organization_name: DIGDEEP Water
-organization_website: www.digdeep.org
+organization_website:
+  - www.digdeep.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2013087'
 year_submitted: 2013
 organization_name: Hammer Museum
-organization_website: www.hammer.ucla.edu
+organization_website:
+  - www.hammer.ucla.edu
 ein: '954217197'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954217197'

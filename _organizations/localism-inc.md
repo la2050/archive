@@ -2,7 +2,8 @@
 organization_id: '2015118'
 year_submitted: 2015
 organization_name: Localism Inc.
-organization_website: www.localism.co/madelb
+organization_website:
+  - www.localism.co/madelb
 ein: '452177652'
 zip: '90802'
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2018125'
 year_submitted: 2018
 organization_name: 'Think Tank Productions, Inc. dba Think Tank Gallery'
-organization_website: 'http://thinktank.gallery'
+organization_website:
+  - 'http://thinktank.gallery'
 ein: '300445999'
 zip: '92612'
 charity_navigator_url: ''

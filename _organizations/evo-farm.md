@@ -2,7 +2,8 @@
 organization_id: '2013064'
 year_submitted: 2013
 organization_name: Evo Farm
-organization_website: www.evofarm.com
+organization_website:
+  - www.evofarm.com
 ein: '460846401'
 zip: ''
 charity_navigator_url: ''

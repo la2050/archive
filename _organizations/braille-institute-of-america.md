@@ -2,7 +2,8 @@
 organization_id: '2016024'
 year_submitted: 2016
 organization_name: Braille Institute of America
-organization_website: www.brailleinstitute.org
+organization_website:
+  - www.brailleinstitute.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

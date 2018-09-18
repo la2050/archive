@@ -84,6 +84,7 @@ category_metrics:
   - Unemployment (and opportunities) for the formerly incarcerated
 category_other:
   - LA is the best place to CONNECT
+challenge_url: 'https://activation.la2050.org/create/grid110-inc/'
 body_class: banana
 
 ---

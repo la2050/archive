@@ -2,7 +2,8 @@
 organization_id: '2013139'
 year_submitted: 2013
 organization_name: National Park Service
-organization_website: www.nps.gov/samo
+organization_website:
+  - www.nps.gov/samo
 ein: '841024566'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841024566'

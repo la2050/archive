@@ -2,7 +2,8 @@
 organization_id: '2015166'
 year_submitted: 2015
 organization_name: Redeemer Baptist Elementary School
-organization_website: www.Redeemerelementary.org
+organization_website:
+  - www.Redeemerelementary.org
 ein: '951816037'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951816037'

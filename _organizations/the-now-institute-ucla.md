@@ -2,7 +2,8 @@
 organization_id: '2016227'
 year_submitted: 2016
 organization_name: The NOW Institute/UCLA
-organization_website: www.thenowinstitute.org
+organization_website:
+  - www.thenowinstitute.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

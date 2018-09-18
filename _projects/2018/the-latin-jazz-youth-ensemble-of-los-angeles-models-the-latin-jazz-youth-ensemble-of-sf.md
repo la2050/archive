@@ -78,6 +78,7 @@ category_metrics:
   - Truancy rates in elementary and middle schools
 category_other:
   - LA is the best place to CREATE
+challenge_url: 'https://activation.la2050.org/learn/future-america/'
 body_class: blueberry
 
 ---

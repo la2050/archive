@@ -4,7 +4,8 @@ year_submitted: 2018
 organization_name: >-
   #HashtagLunchbag - powered by Living Through Giving Foundation, 501(c)3
   nonprofit
-organization_website: www.hashtaglunchbag.org
+organization_website:
+  - www.hashtaglunchbag.org
 ein: '800928421'
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800928421'

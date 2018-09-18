@@ -2,7 +2,8 @@
 organization_id: '2014010'
 year_submitted: 2014
 organization_name: Audubon California
-organization_website: 'http://debspark.audubon.org/'
+organization_website:
+  - 'http://debspark.audubon.org/'
 ein: '131624102'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=131624102'

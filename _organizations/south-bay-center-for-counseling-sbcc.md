@@ -2,7 +2,8 @@
 organization_id: '2016197'
 year_submitted: 2016
 organization_name: South Bay Center for Counseling (SBCC)
-organization_website: www.sbccthrivela.org
+organization_website:
+  - www.sbccthrivela.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

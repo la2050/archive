@@ -2,7 +2,8 @@
 organization_id: '2014055'
 year_submitted: 2014
 organization_name: Los Angeles Downtown Arts District Space (LADADSpace)
-organization_website: ladadspace.org
+organization_website:
+  - ladadspace.org
 ein: '470939543'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=470939543'

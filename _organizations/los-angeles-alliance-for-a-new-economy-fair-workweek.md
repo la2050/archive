@@ -2,7 +2,8 @@
 organization_id: '2018072'
 year_submitted: 2018
 organization_name: Los Angeles Alliance for a New Economy-Fair Workweek
-organization_website: fairworkweekla.org
+organization_website:
+  - fairworkweekla.org
 ein: '954459427'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954459427'

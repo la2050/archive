@@ -2,7 +2,8 @@
 organization_id: '2015013'
 year_submitted: 2015
 organization_name: Arroyo Seco Foundation
-organization_website: 'http://www.arroyoseco.org/'
+organization_website:
+  - 'http://www.arroyoseco.org/'
 ein: '954328068'
 zip: 90065-1011
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954328068'

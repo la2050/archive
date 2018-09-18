@@ -2,7 +2,8 @@
 organization_id: '2013215'
 year_submitted: 2013
 organization_name: 'Walking Shield, Inc.'
-organization_website: 'http://www.walkingshield.org/'
+organization_website:
+  - 'http://www.walkingshield.org/'
 ein: '330209754'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330209754'

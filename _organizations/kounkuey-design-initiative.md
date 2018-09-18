@@ -2,7 +2,9 @@
 organization_id: '2018058'
 year_submitted: 2018
 organization_name: Kounkuey Design Initiative
-organization_website: 'http://kounkuey.org,http://lurnetwork.org'
+organization_website:
+  - 'http://kounkuey.org'
+  - 'http://lurnetwork.org'
 ein: '900599471'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
@@ -11,8 +13,12 @@ tags_indicators:
   - Environmental Quality
   - 'Social Connectedness: Public space'
   - Underserved communities
-twitter: '["@Kounkuey","@LURNetwork"]'
-instagram: '["@kounkuey","@lurnetwork"]'
+twitter:
+  - '@Kounkuey'
+  - '@LURNetwork'
+instagram:
+  - '@kounkuey'
+  - '@lurnetwork'
 facebook: www.facebook.com/Kounkuey/
 org_type: Nonprofit
 project_image: >-

@@ -2,7 +2,8 @@
 organization_id: '2016120'
 year_submitted: 2016
 organization_name: L.A. Works
-organization_website: laworks.com
+organization_website:
+  - laworks.com
 ein: '954329727'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954329727'

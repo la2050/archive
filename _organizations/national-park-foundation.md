@@ -2,7 +2,8 @@
 organization_id: '2015142'
 year_submitted: 2015
 organization_name: National Park Foundation
-organization_website: www.nationalparks.org
+organization_website:
+  - www.nationalparks.org
 ein: '521086761'
 zip: '20005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521086761'

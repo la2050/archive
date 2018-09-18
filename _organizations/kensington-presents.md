@@ -2,7 +2,8 @@
 organization_id: '2015104'
 year_submitted: 2015
 organization_name: Kensington Presents
-organization_website: www.kensingtonpresents.com
+organization_website:
+  - www.kensingtonpresents.com
 ein: '455635609'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455635609'

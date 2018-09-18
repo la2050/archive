@@ -2,7 +2,8 @@
 organization_id: '2013203'
 year_submitted: 2013
 organization_name: UCLA William Andrews Clark Memorial Library
-organization_website: 'http://www.clarklibrary.ucla.edu/'
+organization_website:
+  - 'http://www.clarklibrary.ucla.edu/'
 ein: '952250801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'

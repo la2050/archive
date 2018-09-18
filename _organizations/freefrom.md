@@ -2,7 +2,8 @@
 organization_id: '2018041'
 year_submitted: 2018
 organization_name: FreeFrom
-organization_website: www.freefrom.org
+organization_website:
+  - www.freefrom.org
 ein: '475033123'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'

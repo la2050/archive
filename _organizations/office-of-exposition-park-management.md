@@ -2,7 +2,8 @@
 organization_id: '2016159'
 year_submitted: 2016
 organization_name: Office of Exposition Park Management
-organization_website: expositionpark.ca.gov
+organization_website:
+  - expositionpark.ca.gov
 ein: ''
 zip: ''
 charity_navigator_url: ''

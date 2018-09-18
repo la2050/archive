@@ -2,7 +2,8 @@
 organization_id: '2014011'
 year_submitted: 2014
 organization_name: Avenue 50 Studio
-organization_website: www.avenue50studio.org
+organization_website:
+  - www.avenue50studio.org
 ein: '542088575'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=542088575'

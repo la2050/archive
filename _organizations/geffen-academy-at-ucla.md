@@ -2,18 +2,24 @@
 organization_id: '2018043'
 year_submitted: 2018
 organization_name: Geffen Academy at UCLA
-organization_website: 'https://geffenacademy.ucla.edu/'
+organization_website:
+  - 'https://geffenacademy.ucla.edu/'
 ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
 tags_indicators: ''
-twitter: >-
-  ["https://twitter.com/GeffenAcademy","https://twitter.com/GeffenSports","https://twitter.com/ridelosangeles"]
-instagram: >-
-  ["https://www.instagram.com/geffenacademy/","https://www.instagram.com/geffensports/","https://www.instagram.com/ridelosangeles/"]
-facebook: >-
-  ["https://www.facebook.com/GeffenAcademyatUCLA/","https://www.facebook.com/RideLosAngelesApp/"]
+twitter:
+  - 'https://twitter.com/GeffenAcademy'
+  - 'https://twitter.com/GeffenSports'
+  - 'https://twitter.com/ridelosangeles'
+instagram:
+  - 'https://www.instagram.com/geffenacademy/'
+  - 'https://www.instagram.com/geffensports/'
+  - 'https://www.instagram.com/ridelosangeles/'
+facebook:
+  - 'https://www.facebook.com/GeffenAcademyatUCLA/'
+  - 'https://www.facebook.com/RideLosAngelesApp/'
 org_type: Government
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/geffen-academy-at-ucla.jpg

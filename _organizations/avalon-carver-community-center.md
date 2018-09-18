@@ -2,7 +2,8 @@
 organization_id: '2016016'
 year_submitted: 2016
 organization_name: Avalon Carver Community Center
-organization_website: avalon-carver.org
+organization_website:
+  - avalon-carver.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

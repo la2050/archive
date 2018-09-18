@@ -2,7 +2,8 @@
 organization_id: '2015008'
 year_submitted: 2015
 organization_name: American Red Cross Los Angeles Region
-organization_website: www.redcrossla.org
+organization_website:
+  - www.redcrossla.org
 ein: '530196605'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=530196605'

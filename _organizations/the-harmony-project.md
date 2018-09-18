@@ -2,7 +2,8 @@
 organization_id: '2016219'
 year_submitted: 2016
 organization_name: The Harmony Project
-organization_website: www.harmony-project.org
+organization_website:
+  - www.harmony-project.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

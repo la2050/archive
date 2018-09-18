@@ -2,7 +2,8 @@
 organization_id: '2018098'
 year_submitted: 2018
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
-organization_website: www.promesaboyleheights.org
+organization_website:
+  - www.promesaboyleheights.org
 ein: '953213958'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953213958'

@@ -2,7 +2,8 @@
 organization_id: '2015080'
 year_submitted: 2015
 organization_name: Hatchery Arts dba Hollywood Fringe Festival
-organization_website: www.hollywoodfringe.org
+organization_website:
+  - www.hollywoodfringe.org
 ein: '262429241'
 zip: '90093'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262429241'

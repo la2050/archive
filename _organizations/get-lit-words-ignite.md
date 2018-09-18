@@ -2,7 +2,8 @@
 organization_id: '2018044'
 year_submitted: 2018
 organization_name: Get Lit - Words Ignite
-organization_website: getlit.org
+organization_website:
+  - getlit.org
 ein: '264644018'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264644018'

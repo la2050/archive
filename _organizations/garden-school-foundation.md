@@ -2,7 +2,8 @@
 organization_id: '2013078'
 year_submitted: 2013
 organization_name: Garden School Foundation
-organization_website: 'http://www.gardenschoolfoundation.org'
+organization_website:
+  - 'http://www.gardenschoolfoundation.org'
 ein: '203023426'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203023426'

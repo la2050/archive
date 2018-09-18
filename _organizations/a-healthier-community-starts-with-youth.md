@@ -2,7 +2,8 @@
 organization_id: '2018004'
 year_submitted: 2018
 organization_name: A Healthier Community Starts with YOUth
-organization_website: 'https://hcsyucla.wixsite.com/health'
+organization_website:
+  - 'https://hcsyucla.wixsite.com/health'
 ein: '824719690'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824719690'

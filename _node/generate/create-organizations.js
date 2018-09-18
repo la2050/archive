@@ -161,6 +161,20 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     data.tags_indicators = data.tags_indicators.split(", ")
   }
 
+  try {
+    data.twitter = JSON.parse(data.twitter)
+  } catch(e) {}
+  try {
+    data.instagram = JSON.parse(data.instagram)
+  } catch(e) {}
+  try {
+    data.facebook = JSON.parse(data.facebook)
+  } catch(e) {}
+
+  if (data.organization_website && data.organization_website != "") {
+    data.organization_website = data.organization_website.split(",")
+  }
+
   if (data.organization_id_2 === data.organization_id) {
     delete data.organization_id_2
   } else {

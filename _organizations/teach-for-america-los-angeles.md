@@ -2,7 +2,8 @@
 organization_id: '2016209'
 year_submitted: 2016
 organization_name: Teach For America-Los Angeles
-organization_website: losangeles.teachforamerica.org
+organization_website:
+  - losangeles.teachforamerica.org
 ein: '133541913'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133541913'

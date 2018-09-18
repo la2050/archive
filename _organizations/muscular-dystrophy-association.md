@@ -2,7 +2,8 @@
 organization_id: '2016151'
 year_submitted: 2016
 organization_name: Muscular Dystrophy Association
-organization_website: mda.org
+organization_website:
+  - mda.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

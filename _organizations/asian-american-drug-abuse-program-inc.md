@@ -2,7 +2,8 @@
 organization_id: '2013018'
 year_submitted: 2013
 organization_name: 'Asian American Drug Abuse Program, Inc'
-organization_website: www.aadapinc.org
+organization_website:
+  - www.aadapinc.org
 ein: '952848695'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952848695'

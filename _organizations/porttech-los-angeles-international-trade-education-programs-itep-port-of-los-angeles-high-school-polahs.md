@@ -4,7 +4,8 @@ year_submitted: 2015
 organization_name: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
   Los Angeles High School (POLAHS)
-organization_website: www.porttechla.org
+organization_website:
+  - www.porttechla.org
 ein: '800363808'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800363808'

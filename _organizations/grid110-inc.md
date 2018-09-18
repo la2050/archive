@@ -2,7 +2,8 @@
 organization_id: '2018049'
 year_submitted: 2018
 organization_name: 'Grid110, Inc.'
-organization_website: 'http://www.grid110.org'
+organization_website:
+  - 'http://www.grid110.org'
 ein: '474318779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'

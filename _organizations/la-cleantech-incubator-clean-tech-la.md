@@ -2,7 +2,8 @@
 organization_id: '2013113'
 year_submitted: 2013
 organization_name: LA Cleantech Incubator / Clean Tech LA
-organization_website: 'http://laincubator.org'
+organization_website:
+  - 'http://laincubator.org'
 ein: '454998717'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454998717'

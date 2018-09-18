@@ -2,7 +2,8 @@
 organization_id: '2014101'
 year_submitted: 2014
 organization_name: UCLA Extension Landscape Architecture Program
-organization_website: 'http://landarch.uclaextension.edu/'
+organization_website:
+  - 'http://landarch.uclaextension.edu/'
 ein: '956006143'
 zip: '91208'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

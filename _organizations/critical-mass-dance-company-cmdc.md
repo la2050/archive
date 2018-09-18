@@ -2,7 +2,8 @@
 organization_id: '2014023'
 year_submitted: 2014
 organization_name: Critical Mass Dance Company (CMDC)
-organization_website: www.criticalmassdancecompany.org
+organization_website:
+  - www.criticalmassdancecompany.org
 ein: '954107449'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954107449'

@@ -2,7 +2,8 @@
 organization_id: '2013073'
 year_submitted: 2013
 organization_name: Foster Care Counts
-organization_website: www.fostercarecounts.org
+organization_website:
+  - www.fostercarecounts.org
 ein: '454619493'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454619493'

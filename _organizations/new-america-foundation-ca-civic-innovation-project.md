@@ -2,7 +2,8 @@
 organization_id: '2013144'
 year_submitted: 2013
 organization_name: New America Foundation - CA Civic Innovation Project
-organization_website: ccip.newamerica.net
+organization_website:
+  - ccip.newamerica.net
 ein: '522096845'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522096845'

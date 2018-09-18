@@ -2,7 +2,8 @@
 organization_id: '2018073'
 year_submitted: 2018
 organization_name: Los Angeles County Registrar-Recorder/County Clerk
-organization_website: www.lavote.net
+organization_website:
+  - www.lavote.net
 ein: '956000927'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'

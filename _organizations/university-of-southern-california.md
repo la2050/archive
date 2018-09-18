@@ -2,14 +2,18 @@
 organization_id: '2018133'
 year_submitted: 2018
 organization_name: University of Southern California
-organization_website: 'la.myneighborhooddata.org,socialinnovation.usc.edu'
+organization_website:
+  - la.myneighborhooddata.org
+  - socialinnovation.usc.edu
 ein: '951642394'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
 ntee_type: ''
 tags_indicators: ''
-twitter: '["@NDSC_LA","@USCPriceCSI"]'
-instagram: ''
+twitter:
+  - '@NDSC_LA'
+  - '@USCPriceCSI'
+instagram: 0
 facebook: 'https://www.facebook.com/PriceSocialInnovation'
 org_type: Nonprofit
 project_image: >-

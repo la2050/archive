@@ -2,7 +2,8 @@
 organization_id: '2015140'
 year_submitted: 2015
 organization_name: Mountains Recreation and Conservation Authority
-organization_website: www.lamountains.com
+organization_website:
+  - www.lamountains.com
 ein: '770112367'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770112367'

@@ -2,7 +2,8 @@
 organization_id: '2014062'
 year_submitted: 2014
 organization_name: NewFilmmakers Los Angeles
-organization_website: www.nfmla.org
+organization_website:
+  - www.nfmla.org
 ein: '264286940'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264286940'

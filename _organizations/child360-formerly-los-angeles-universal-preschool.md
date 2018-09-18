@@ -2,7 +2,8 @@
 organization_id: '2018018'
 year_submitted: 2018
 organization_name: Child360 (formerly Los Angeles Universal Preschool)
-organization_website: www.child360.org
+organization_website:
+  - www.child360.org
 ein: '223902958'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'

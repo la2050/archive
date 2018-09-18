@@ -2,7 +2,8 @@
 organization_id: '2015025'
 year_submitted: 2015
 organization_name: Career & College clubs
-organization_website: www.careerandcollegeclubs.org
+organization_website:
+  - www.careerandcollegeclubs.org
 ein: '954415401'
 zip: '90266'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954415401'

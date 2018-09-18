@@ -2,7 +2,8 @@
 organization_id: '2018012'
 year_submitted: 2018
 organization_name: CalEITC4Me
-organization_website: www.caleitc4me.org
+organization_website:
+  - www.caleitc4me.org
 ein: '474325738'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474325738'
@@ -13,7 +14,7 @@ tags_indicators:
   - Poverty
   - Underserved communities
 twitter: '@CalEITC4Me'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/CalEITC4Me/'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'

@@ -2,7 +2,8 @@
 organization_id: '2018082'
 year_submitted: 2018
 organization_name: Mentoring Adolescents for Personal & Professional Success
-organization_website: www.mappsprogram.org
+organization_website:
+  - www.mappsprogram.org
 ein: Personal DBA
 zip: '91105'
 charity_navigator_url: ''
@@ -14,9 +15,9 @@ tags_indicators:
   - Underserved youth
   - Training and development
   - Youth
-twitter: ''
-instagram: ''
-facebook: ''
+twitter: 0
+instagram: 0
+facebook: 0
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg

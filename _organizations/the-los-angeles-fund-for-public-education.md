@@ -2,7 +2,8 @@
 organization_id: '2013193'
 year_submitted: 2013
 organization_name: The Los Angeles Fund for Public Education
-organization_website: lafund.org
+organization_website:
+  - lafund.org
 ein: '452443162'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452443162'

@@ -2,7 +2,8 @@
 organization_id: '2016091'
 year_submitted: 2016
 organization_name: Give Today LA
-organization_website: givetodayla.com
+organization_website:
+  - givetodayla.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

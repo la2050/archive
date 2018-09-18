@@ -2,7 +2,8 @@
 organization_id: '2016252'
 year_submitted: 2016
 organization_name: Verdical Group
-organization_website: www.verdicalgroup.com
+organization_website:
+  - www.verdicalgroup.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

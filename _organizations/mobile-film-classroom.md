@@ -2,7 +2,8 @@
 organization_id: '2014059'
 year_submitted: 2014
 organization_name: Mobile Film Classroom
-organization_website: www.mobilefilmclassroom.org
+organization_website:
+  - www.mobilefilmclassroom.org
 ein: '461053961'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461053961'

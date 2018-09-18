@@ -2,7 +2,8 @@
 organization_id: '2015019'
 year_submitted: 2015
 organization_name: BookArtsLA
-organization_website: www.bookartsla.org
+organization_website:
+  - www.bookartsla.org
 ein: '465242055'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465242055'

@@ -2,7 +2,8 @@
 organization_id: '2013178'
 year_submitted: 2013
 organization_name: Swipes for the Homeless
-organization_website: 'http://swipesforthehomeless.org/'
+organization_website:
+  - 'http://swipesforthehomeless.org/'
 ein: '452038035'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'

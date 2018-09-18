@@ -2,7 +2,8 @@
 organization_id: '2016075'
 year_submitted: 2016
 organization_name: Evolve LA (project of LA-Más)
-organization_website: www.mas.la
+organization_website:
+  - www.mas.la
 ein: ''
 zip: ''
 charity_navigator_url: ''

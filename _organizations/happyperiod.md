@@ -2,7 +2,8 @@
 organization_id: '2018001'
 year_submitted: 2018
 organization_name: '#HappyPeriod'
-organization_website: 'http://hashtaghappyperiod.org'
+organization_website:
+  - 'http://hashtaghappyperiod.org'
 ein: '474333055'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
@@ -15,7 +16,7 @@ tags_indicators:
   - Women’s advocacy
 twitter: happyperiodorg
 instagram: wearehappyperiod
-facebook: ''
+facebook: 0
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
 project_video: 'https://youtu.be/goBUjr5-dRA'

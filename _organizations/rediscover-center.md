@@ -2,7 +2,8 @@
 organization_id: '2013162'
 year_submitted: 2013
 organization_name: reDiscover Center
-organization_website: www.reDiscoverCenter.org
+organization_website:
+  - www.reDiscoverCenter.org
 ein: '200192617'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200192617'

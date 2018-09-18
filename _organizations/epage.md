@@ -2,7 +2,8 @@
 organization_id: '2016072'
 year_submitted: 2016
 organization_name: EPage
-organization_website: getgaggle.com
+organization_website:
+  - getgaggle.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

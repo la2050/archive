@@ -2,7 +2,8 @@
 organization_id: '2016098'
 year_submitted: 2016
 organization_name: Helpline Youth Counseling (HYC)
-organization_website: hycinc.org
+organization_website:
+  - hycinc.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

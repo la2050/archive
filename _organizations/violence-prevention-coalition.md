@@ -2,7 +2,8 @@
 organization_id: '2014105'
 year_submitted: 2014
 organization_name: Violence Prevention Coalition
-organization_website: www.vpcgla.org
+organization_website:
+  - www.vpcgla.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

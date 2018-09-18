@@ -2,7 +2,8 @@
 organization_id: '2013165'
 year_submitted: 2013
 organization_name: Skoolbo LTD
-organization_website: www.skoolbo.com
+organization_website:
+  - www.skoolbo.com
 ein: '421774453'
 zip: ''
 charity_navigator_url: ''

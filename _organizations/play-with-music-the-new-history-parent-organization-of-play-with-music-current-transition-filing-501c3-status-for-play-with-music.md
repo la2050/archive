@@ -4,7 +4,8 @@ year_submitted: 2015
 organization_name: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)
-organization_website: www.playwithmusic.org
+organization_website:
+  - www.playwithmusic.org
 ein: '471474363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471474363'

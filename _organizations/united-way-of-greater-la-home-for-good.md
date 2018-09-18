@@ -2,7 +2,8 @@
 organization_id: '2013206'
 year_submitted: 2013
 organization_name: United Way of Greater LA (Home For Good)
-organization_website: 'HTTP://WWW.HOMEFORGOODLA.ORG'
+organization_website:
+  - 'HTTP://WWW.HOMEFORGOODLA.ORG'
 ein: '952274801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'

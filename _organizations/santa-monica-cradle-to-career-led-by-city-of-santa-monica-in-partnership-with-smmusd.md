@@ -4,7 +4,8 @@ year_submitted: 2015
 organization_name: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD
-organization_website: www.santamonicacradletocareer.org
+organization_website:
+  - www.santamonicacradletocareer.org
 ein: '956000790'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'

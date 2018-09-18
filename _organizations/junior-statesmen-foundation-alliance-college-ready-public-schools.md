@@ -2,7 +2,8 @@
 organization_id: '2015100'
 year_submitted: 2015
 organization_name: Junior Statesmen Foundation; Alliance College-Ready Public Schools
-organization_website: www.jsa.org
+organization_website:
+  - www.jsa.org
 ein: '946050452'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=946050452'

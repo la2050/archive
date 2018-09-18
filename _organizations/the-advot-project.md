@@ -2,7 +2,8 @@
 organization_id: '2013183'
 year_submitted: 2013
 organization_name: The Advot Project
-organization_website: www.theadvotproject.org
+organization_website:
+  - www.theadvotproject.org
 ein: '273084801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273084801'

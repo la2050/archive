@@ -2,7 +2,8 @@
 organization_id: '2016102'
 year_submitted: 2016
 organization_name: Hollywood Fringe Festival (Hatchery Arts)
-organization_website: www.hollywoodfringe.org
+organization_website:
+  - www.hollywoodfringe.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

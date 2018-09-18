@@ -2,7 +2,8 @@
 organization_id: '2014050'
 year_submitted: 2014
 organization_name: 'Law Soup, Inc.'
-organization_website: www.lawsoup.org
+organization_website:
+  - www.lawsoup.org
 ein: '471443694'
 zip: '90039'
 charity_navigator_url: ''

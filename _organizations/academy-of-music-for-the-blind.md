@@ -2,7 +2,8 @@
 organization_id: '2015003'
 year_submitted: 2015
 organization_name: Academy of Music for the Blind
-organization_website: www.ouramb.org
+organization_website:
+  - www.ouramb.org
 ein: '201148737'
 zip: '91016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201148737'

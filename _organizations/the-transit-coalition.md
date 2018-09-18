@@ -2,7 +2,8 @@
 organization_id: '2014097'
 year_submitted: 2014
 organization_name: The Transit Coalition
-organization_website: www.thetransitcoalition.us
+organization_website:
+  - www.thetransitcoalition.us
 ein: '954845170'
 zip: 91341-0567
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'

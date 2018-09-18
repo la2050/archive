@@ -2,7 +2,8 @@
 organization_id: '2013084'
 year_submitted: 2013
 organization_name: 'Great Leap, Inc.'
-organization_website: www.greatleap.org
+organization_website:
+  - www.greatleap.org
 ein: '953337990'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953337990'

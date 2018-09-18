@@ -2,7 +2,8 @@
 organization_id: '2016130'
 year_submitted: 2016
 organization_name: Light and Life Christian Fellowship Community Center
-organization_website: www.llcf.org
+organization_website:
+  - www.llcf.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

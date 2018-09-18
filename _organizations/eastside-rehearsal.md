@@ -2,7 +2,8 @@
 organization_id: '2015055'
 year_submitted: 2015
 organization_name: Eastside Rehearsal
-organization_website: eastsiderehearsal.com
+organization_website:
+  - eastsiderehearsal.com
 ein: '474050600'
 zip: '90033'
 charity_navigator_url: ''

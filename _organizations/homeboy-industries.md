@@ -2,7 +2,8 @@
 organization_id: '2018053'
 year_submitted: 2018
 organization_name: Homeboy Industries
-organization_website: homeboyindustries.org
+organization_website:
+  - homeboyindustries.org
 ein: '954800735'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954800735'

@@ -2,7 +2,8 @@
 organization_id: '2013044'
 year_submitted: 2013
 organization_name: Community Coalition
-organization_website: www.cocosouthla.org
+organization_website:
+  - www.cocosouthla.org
 ein: '954298811'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954298811'

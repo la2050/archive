@@ -139,6 +139,7 @@ category_metrics:
   - Government responsiveness to residents’ needs
 category_other:
   - LA is the best place to CREATE
+challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
 body_class: banana
 
 ---

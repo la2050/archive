@@ -2,7 +2,8 @@
 organization_id: '2015034'
 year_submitted: 2015
 organization_name: civ.LA
-organization_website: www.civ.la
+organization_website:
+  - www.civ.la
 ein: '951667177'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'

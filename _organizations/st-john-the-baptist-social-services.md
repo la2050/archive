@@ -2,7 +2,8 @@
 organization_id: '2013171'
 year_submitted: 2013
 organization_name: St. John the Baptist Social Services
-organization_website: www.sjsbp.org
+organization_website:
+  - www.sjsbp.org
 ein: '951897685'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951897685'

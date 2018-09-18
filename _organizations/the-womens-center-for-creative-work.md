@@ -2,7 +2,8 @@
 organization_id: '2014098'
 year_submitted: 2014
 organization_name: The Women's Center for Creative Work
-organization_website: www.womenscenterforcreativework.com
+organization_website:
+  - www.womenscenterforcreativework.com
 ein: '952540759'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'

@@ -2,7 +2,8 @@
 organization_id: '2018106'
 year_submitted: 2018
 organization_name: Science Academy For All
-organization_website: 'https://www.scienceacademyforall.org'
+organization_website:
+  - 'https://www.scienceacademyforall.org'
 ein: '811437141'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811437141'

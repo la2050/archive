@@ -2,7 +2,8 @@
 organization_id: '2013213'
 year_submitted: 2013
 organization_name: Venice Art Crawl
-organization_website: www.veniceartcrawl.com
+organization_website:
+  - www.veniceartcrawl.com
 ein: '956419214'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956419214'

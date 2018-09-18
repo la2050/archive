@@ -2,7 +2,8 @@
 organization_id: '2016187'
 year_submitted: 2016
 organization_name: SAFE (Streets Are For Everyone)
-organization_website: www.streetsareforeveryone.org
+organization_website:
+  - www.streetsareforeveryone.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2014032'
 year_submitted: 2014
 organization_name: EnrichLA
-organization_website: 'http://www.enrichla.org'
+organization_website:
+  - 'http://www.enrichla.org'
 ein: '272797687'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272797687'

@@ -2,7 +2,8 @@
 organization_id: '2016061'
 year_submitted: 2016
 organization_name: Covenant House California
-organization_website: www.covenanthousecalifornia.org
+organization_website:
+  - www.covenanthousecalifornia.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

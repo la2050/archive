@@ -2,7 +2,8 @@
 organization_id: '2018100'
 year_submitted: 2018
 organization_name: 'Raise A Child, Inc.'
-organization_website: 'https://raiseachild.org'
+organization_website:
+  - 'https://raiseachild.org'
 ein: '453665296'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453665296'

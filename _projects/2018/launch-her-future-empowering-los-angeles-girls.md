@@ -103,6 +103,7 @@ category_metrics:
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 category_other:
   - LA is the healthiest place to LIVE
+challenge_url: 'https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/'
 body_class: blueberry
 
 ---

@@ -2,7 +2,8 @@
 organization_id: '2013088'
 year_submitted: 2013
 organization_name: Harmony Project
-organization_website: 'http://www.harmony-project.org/'
+organization_website:
+  - 'http://www.harmony-project.org/'
 ein: '954856236'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954856236'

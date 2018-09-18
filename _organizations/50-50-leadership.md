@@ -2,7 +2,8 @@
 organization_id: '2016003'
 year_submitted: 2016
 organization_name: 50/50 Leadership
-organization_website: 5050leadership.org
+organization_website:
+  - 5050leadership.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

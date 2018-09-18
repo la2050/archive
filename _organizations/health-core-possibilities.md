@@ -2,7 +2,8 @@
 organization_id: '2018052'
 year_submitted: 2018
 organization_name: Health Core Possibilities
-organization_website: www.healthcore.biz
+organization_website:
+  - www.healthcore.biz
 ein: '300538676'
 zip: '94113'
 charity_navigator_url: ''
@@ -11,8 +12,8 @@ tags_indicators:
   - Environmental Quality
   - Public Safety
 twitter: '@lizettealvare15'
-instagram: ''
-facebook: ''
+instagram: 0
+facebook: 0
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg

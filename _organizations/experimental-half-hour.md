@@ -2,7 +2,8 @@
 organization_id: '2014034'
 year_submitted: 2014
 organization_name: Experimental Half-Hour
-organization_website: 'http://experimentalhalfhour.com'
+organization_website:
+  - 'http://experimentalhalfhour.com'
 ein: '952540759'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'

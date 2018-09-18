@@ -2,7 +2,8 @@
 organization_id: '2016125'
 year_submitted: 2016
 organization_name: LA Voice
-organization_website: www.lavoice.org
+organization_website:
+  - www.lavoice.org
 ein: '954781974'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954781974'

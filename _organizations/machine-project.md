@@ -2,7 +2,8 @@
 organization_id: '2013130'
 year_submitted: 2013
 organization_name: Machine Project
-organization_website: 'http://machineproject.com/'
+organization_website:
+  - 'http://machineproject.com/'
 ein: '753193159'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=753193159'

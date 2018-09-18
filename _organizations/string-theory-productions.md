@@ -2,7 +2,8 @@
 organization_id: '2013175'
 year_submitted: 2013
 organization_name: String Theory Productions
-organization_website: 'http://www.stringtheoryproductions.com'
+organization_website:
+  - 'http://www.stringtheoryproductions.com'
 ein: '710929869'
 zip: ''
 charity_navigator_url: ''

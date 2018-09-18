@@ -2,7 +2,8 @@
 organization_id: '2016195'
 year_submitted: 2016
 organization_name: SoLA Food Co-op
-organization_website: www.solafoodcoop.com
+organization_website:
+  - www.solafoodcoop.com
 ein: '464872589'
 zip: '90062'
 charity_navigator_url: ''

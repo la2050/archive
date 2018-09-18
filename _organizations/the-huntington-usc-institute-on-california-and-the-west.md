@@ -2,7 +2,8 @@
 organization_id: '2013189'
 year_submitted: 2013
 organization_name: The Huntington-USC Institute on California and the West
-organization_website: 'http://www.usc.edu/icw'
+organization_website:
+  - 'http://www.usc.edu/icw'
 ein: '951644589'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'

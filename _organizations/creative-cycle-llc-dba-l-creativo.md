@@ -2,7 +2,8 @@
 organization_id: '2014022'
 year_submitted: 2014
 organization_name: 'Creative Cycle, LLC, dba. L Creativo'
-organization_website: www.lcreativo.com
+organization_website:
+  - www.lcreativo.com
 ein: '453189725'
 zip: ''
 charity_navigator_url: ''

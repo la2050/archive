@@ -2,7 +2,8 @@
 organization_id: '2013057'
 year_submitted: 2013
 organization_name: Education Consortium of Central Los Angeles / Project LESS
-organization_website: 'http://learnmorewithless.org'
+organization_website:
+  - 'http://learnmorewithless.org'
 ein: '954230350'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'

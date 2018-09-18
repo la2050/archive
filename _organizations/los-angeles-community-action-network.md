@@ -2,7 +2,8 @@
 organization_id: '2015121'
 year_submitted: 2015
 organization_name: Los Angeles Community Action Network
-organization_website: www.cangress.org
+organization_website:
+  - www.cangress.org
 ein: '20661629'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=20661629'

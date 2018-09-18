@@ -2,7 +2,8 @@
 organization_id: '2018136'
 year_submitted: 2018
 organization_name: We Are Enough c/o Social & Environmental Entrepreneurs
-organization_website: 'http://www.weareenough.biz'
+organization_website:
+  - 'http://www.weareenough.biz'
 ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
@@ -16,7 +17,7 @@ tags_indicators:
   - Financial management
 twitter: '@weareenoughbiz'
 instagram: '@weareenoughbiz'
-facebook: ''
+facebook: 0
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg

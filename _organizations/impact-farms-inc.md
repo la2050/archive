@@ -2,7 +2,8 @@
 organization_id: '2013094'
 year_submitted: 2013
 organization_name: 'ImPact Farms, Inc.'
-organization_website: 'http://www.impactfarms.com'
+organization_website:
+  - 'http://www.impactfarms.com'
 ein: '451741319'
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2014001'
 year_submitted: 2014
 organization_name: 24Connect
-organization_website: 24Connect.net
+organization_website:
+  - 24Connect.net
 ein: '274848676'
 zip: '90048'
 charity_navigator_url: ''

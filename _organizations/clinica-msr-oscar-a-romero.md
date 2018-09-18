@@ -2,7 +2,8 @@
 organization_id: '2015039'
 year_submitted: 2015
 organization_name: Clinica Msr. Oscar A. Romero
-organization_website: www.clinicaromero.com
+organization_website:
+  - www.clinicaromero.com
 ein: '953881333'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953881333'

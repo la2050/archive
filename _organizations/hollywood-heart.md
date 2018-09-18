@@ -2,7 +2,8 @@
 organization_id: '2015087'
 year_submitted: 2015
 organization_name: Hollywood HEART
-organization_website: www.hollywoodheart.org
+organization_website:
+  - www.hollywoodheart.org
 ein: '954522816'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522816'

@@ -2,7 +2,8 @@
 organization_id: '2015139'
 year_submitted: 2015
 organization_name: Motor Avenue Improvement Association
-organization_website: www.MotorAssociation.org
+organization_website:
+  - www.MotorAssociation.org
 ein: '455405527'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455405527'

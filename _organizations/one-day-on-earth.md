@@ -2,7 +2,8 @@
 organization_id: '2013147'
 year_submitted: 2013
 organization_name: One Day on Earth
-organization_website: www.onedayonearth.org
+organization_website:
+  - www.onedayonearth.org
 ein: '453263196'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453263196'

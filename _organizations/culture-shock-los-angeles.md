@@ -2,7 +2,8 @@
 organization_id: '2015047'
 year_submitted: 2015
 organization_name: Culture Shock Los Angeles
-organization_website: www.CultureShockLA.org
+organization_website:
+  - www.CultureShockLA.org
 ein: '311796801'
 zip: '94611'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'

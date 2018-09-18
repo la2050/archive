@@ -4,7 +4,8 @@ year_submitted: 2016
 organization_name: >-
   University of Southern California, Mobile + Environmental Media Lab in the
   School of Cinematic Arts
-organization_website: mobilemedia.usc.edu
+organization_website:
+  - mobilemedia.usc.edu
 ein: ''
 zip: ''
 charity_navigator_url: ''

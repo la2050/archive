@@ -2,7 +2,8 @@
 organization_id: '2013042'
 year_submitted: 2013
 organization_name: Collaborative Tutoring
-organization_website: www.collaborativetutoring.com
+organization_website:
+  - www.collaborativetutoring.com
 ein: '462388422'
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015084'
 year_submitted: 2015
 organization_name: Heart and Soul Design Communications Center
-organization_website: www.heartandsoul1.com
+organization_website:
+  - www.heartandsoul1.com
 ein: '200613531'
 zip: '90302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200613531'

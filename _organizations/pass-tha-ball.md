@@ -2,7 +2,8 @@
 organization_id: '2015153'
 year_submitted: 2015
 organization_name: Pass Tha Ball
-organization_website: www.passthaball.com
+organization_website:
+  - www.passthaball.com
 ein: '463878728'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463878728'

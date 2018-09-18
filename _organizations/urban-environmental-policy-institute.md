@@ -2,7 +2,8 @@
 organization_id: '2013208'
 year_submitted: 2013
 organization_name: Urban & Environmental Policy Institute
-organization_website: 'http://www.uepi.oxy.edu/'
+organization_website:
+  - 'http://www.uepi.oxy.edu/'
 ein: '951667177'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'

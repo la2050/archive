@@ -2,9 +2,10 @@
 organization_id: '2015042'
 year_submitted: 2015
 organization_name: Communities for a Better Environment
-organization_website: >-
-  www.cbecal.org / www.trustsouthla.org / www.nrdc.org/solutions /
-  www.sharedusemobilitycenter.org/
+organization_website:
+  - >-
+    www.cbecal.org / www.trustsouthla.org / www.nrdc.org/solutions /
+    www.sharedusemobilitycenter.org/
 ein: '260404220'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260404220'

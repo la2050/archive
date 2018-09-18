@@ -2,7 +2,8 @@
 organization_id: '2013163'
 year_submitted: 2013
 organization_name: RFK-LA (Legacy in Action)
-organization_website: 'http://rfkla.org'
+organization_website:
+  - 'http://rfkla.org'
 ein: '272435213'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272435213'

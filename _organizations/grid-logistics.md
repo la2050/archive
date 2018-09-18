@@ -2,7 +2,8 @@
 organization_id: '2016093'
 year_submitted: 2016
 organization_name: GRID Logistics
-organization_website: www.gridinc.biz
+organization_website:
+  - www.gridinc.biz
 ein: '454109556'
 zip: '90013'
 charity_navigator_url: ''

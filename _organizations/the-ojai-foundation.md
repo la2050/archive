@@ -2,7 +2,8 @@
 organization_id: '2016228'
 year_submitted: 2016
 organization_name: The Ojai Foundation
-organization_website: ojaifoundation.org
+organization_website:
+  - ojaifoundation.org
 ein: '510151116'
 zip: '93024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510151116'

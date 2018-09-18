@@ -2,7 +2,8 @@
 organization_id: '2013022'
 year_submitted: 2013
 organization_name: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
-organization_website: 'http://www.lacusc.org/'
+organization_website:
+  - 'http://www.lacusc.org/'
 ein: '956000927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'

@@ -2,7 +2,8 @@
 organization_id: '2016113'
 year_submitted: 2016
 organization_name: 'Jenesse Center, Inc.'
-organization_website: www.jenesse.org
+organization_website:
+  - www.jenesse.org
 ein: '953652529'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953652529'

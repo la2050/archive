@@ -2,7 +2,8 @@
 organization_id: '2015165'
 year_submitted: 2015
 organization_name: Reading Partners
-organization_website: www.readingpartners.org/location/los-angeles
+organization_website:
+  - www.readingpartners.org/location/los-angeles
 ein: '770568469'
 zip: '91107'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770568469'

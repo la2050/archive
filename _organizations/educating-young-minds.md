@@ -2,7 +2,8 @@
 organization_id: '2013056'
 year_submitted: 2013
 organization_name: Educating Young Minds
-organization_website: 'http://www.educatingyoungminds.org'
+organization_website:
+  - 'http://www.educatingyoungminds.org'
 ein: '954489511'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954489511'

@@ -2,8 +2,9 @@
 organization_id: '2013212'
 year_submitted: 2013
 organization_name: Valle Artists
-organization_website: >-
-  http://www.kcet.org/socal/departures/landofsunshine/writing-on-the-wall/the-muralist-mile-of-northeast-san-fernando-valley.html
+organization_website:
+  - >-
+    http://www.kcet.org/socal/departures/landofsunshine/writing-on-the-wall/the-muralist-mile-of-northeast-san-fernando-valley.html
 ein: '270126980'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270126980'

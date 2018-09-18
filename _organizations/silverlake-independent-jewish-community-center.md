@@ -2,7 +2,8 @@
 organization_id: '2015180'
 year_submitted: 2015
 organization_name: Silverlake Independent Jewish Community Center
-organization_website: www.sijcc.net
+organization_website:
+  - www.sijcc.net
 ein: '320003071'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320003071'

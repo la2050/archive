@@ -2,7 +2,8 @@
 organization_id: '2015144'
 year_submitted: 2015
 organization_name: Netiya
-organization_website: www.netiya.org
+organization_website:
+  - www.netiya.org
 ein: '951890769'
 zip: '91436'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890769'

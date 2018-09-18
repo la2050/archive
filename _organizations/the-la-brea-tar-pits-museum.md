@@ -2,7 +2,8 @@
 organization_id: '2014093'
 year_submitted: 2014
 organization_name: The La Brea Tar Pits Museum
-organization_website: tarpits.org
+organization_website:
+  - tarpits.org
 ein: '956132185'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956132185'

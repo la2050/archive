@@ -2,7 +2,8 @@
 organization_id: '2013105'
 year_submitted: 2013
 organization_name: Keely Hopkins & Associates
-organization_website: www.youth4c.com
+organization_website:
+  - www.youth4c.com
 ein: '462375546'
 zip: ''
 charity_navigator_url: ''

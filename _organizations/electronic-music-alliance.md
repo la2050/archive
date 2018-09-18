@@ -2,7 +2,8 @@
 organization_id: '2013060'
 year_submitted: 2013
 organization_name: Electronic Music Alliance
-organization_website: www.ema-global.org
+organization_website:
+  - www.ema-global.org
 ein: '262025234'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262025234'

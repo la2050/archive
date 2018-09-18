@@ -2,7 +2,8 @@
 organization_id: '2018054'
 year_submitted: 2018
 organization_name: Imagine LA
-organization_website: www.imaginela.org
+organization_website:
+  - www.imaginela.org
 ein: '204637089'
 zip: '90265'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204637089'

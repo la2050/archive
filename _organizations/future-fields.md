@@ -2,7 +2,8 @@
 organization_id: '2016085'
 year_submitted: 2016
 organization_name: Future Fields
-organization_website: futurescouts.co
+organization_website:
+  - futurescouts.co
 ein: ''
 zip: ''
 charity_navigator_url: ''

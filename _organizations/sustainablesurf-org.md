@@ -2,7 +2,8 @@
 organization_id: '2015192'
 year_submitted: 2015
 organization_name: Sustainablesurf.org
-organization_website: 'http://sustainablesurf.org'
+organization_website:
+  - 'http://sustainablesurf.org'
 ein: '453220205'
 zip: '90266'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453220205'

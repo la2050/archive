@@ -2,7 +2,8 @@
 organization_id: '2015058'
 year_submitted: 2015
 organization_name: 'Entertainment Industries Council, Inc.'
-organization_website: www.eiconline.org
+organization_website:
+  - www.eiconline.org
 ein: '54259363'
 zip: '90069'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=54259363'

@@ -2,7 +2,8 @@
 organization_id: '2014102'
 year_submitted: 2014
 organization_name: URBAN AIR
-organization_website: WWW.URBANAIR.IS
+organization_website:
+  - WWW.URBANAIR.IS
 ein: '263261159'
 zip: '90290'
 charity_navigator_url: ''

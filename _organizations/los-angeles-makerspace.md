@@ -2,7 +2,8 @@
 organization_id: '2013125'
 year_submitted: 2013
 organization_name: Los Angeles Makerspace
-organization_website: 'http://lamakerspace.com'
+organization_website:
+  - 'http://lamakerspace.com'
 ein: '522237551'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522237551'

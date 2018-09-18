@@ -2,7 +2,8 @@
 organization_id: '2018116'
 year_submitted: 2018
 organization_name: Team Rubicon
-organization_website: 'https://teamrubiconusa.org/'
+organization_website:
+  - 'https://teamrubiconusa.org/'
 ein: '271720480'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271720480'

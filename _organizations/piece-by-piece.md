@@ -2,7 +2,8 @@
 organization_id: '2014068'
 year_submitted: 2014
 organization_name: Piece by Piece
-organization_website: www.piecebypiece.org
+organization_website:
+  - www.piecebypiece.org
 ein: '208348198'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208348198'

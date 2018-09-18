@@ -2,7 +2,8 @@
 organization_id: '2018089'
 year_submitted: 2018
 organization_name: Neighborhood Housing Services of Los Angeles County
-organization_website: www.nhslacounty.org
+organization_website:
+  - www.nhslacounty.org
 ein: '953938955'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'

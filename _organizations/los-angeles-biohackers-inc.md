@@ -2,7 +2,8 @@
 organization_id: '2014054'
 year_submitted: 2014
 organization_name: 'Los Angeles Biohackers, Inc'
-organization_website: biohackers.la
+organization_website:
+  - biohackers.la
 ein: '1'
 zip: '90782'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=1'

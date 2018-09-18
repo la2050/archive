@@ -2,7 +2,8 @@
 organization_id: '2013011'
 year_submitted: 2013
 organization_name: Antigua Coffee House
-organization_website: www.facebook.com/antiguacoffeeroasters
+organization_website:
+  - www.facebook.com/antiguacoffeeroasters
 ein: '568691857'
 zip: ''
 charity_navigator_url: ''

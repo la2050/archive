@@ -2,7 +2,8 @@
 organization_id: '2015059'
 year_submitted: 2015
 organization_name: Environmental Charter Schools
-organization_website: www.ecsonline.org
+organization_website:
+  - www.ecsonline.org
 ein: '330920934'
 zip: '90247'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330920934'

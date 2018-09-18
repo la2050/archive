@@ -2,7 +2,8 @@
 organization_id: '2015094'
 year_submitted: 2015
 organization_name: Iridescent
-organization_website: www.iridescentlearning.org
+organization_website:
+  - www.iridescentlearning.org
 ein: '208386654'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208386654'

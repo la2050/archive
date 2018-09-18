@@ -2,7 +2,8 @@
 organization_id: '2015197'
 year_submitted: 2015
 organization_name: The Center of Medical Multimedia Education and Technology (COMMET)
-organization_website: www.COMMET.org
+organization_website:
+  - www.COMMET.org
 ein: '954522806'
 zip: '90049'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522806'

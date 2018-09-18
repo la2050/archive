@@ -2,7 +2,8 @@
 organization_id: '2016005'
 year_submitted: 2016
 organization_name: Able Arts Work
-organization_website: www.ableartswork.org
+organization_website:
+  - www.ableartswork.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

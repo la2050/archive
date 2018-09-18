@@ -2,7 +2,8 @@
 organization_id: '2018019'
 year_submitted: 2018
 organization_name: Children Now
-organization_website: www.childrennow.org
+organization_website:
+  - www.childrennow.org
 ein: '943059243'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943059243'
@@ -13,7 +14,7 @@ tags_indicators:
   - Underserved youth
   - Youth
 twitter: '@ChildrenNow'
-instagram: ''
+instagram: 0
 facebook: Children-Now-224016820554/
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'

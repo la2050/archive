@@ -2,7 +2,8 @@
 organization_id: '2018066'
 year_submitted: 2018
 organization_name: Lava Mae
-organization_website: www.lavamae.org
+organization_website:
+  - www.lavamae.org
 ein: '810832318'
 zip: '91605'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'

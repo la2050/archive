@@ -2,7 +2,8 @@
 organization_id: '2016175'
 year_submitted: 2016
 organization_name: Port of Los Angeles High School
-organization_website: polahs.net
+organization_website:
+  - polahs.net
 ein: ''
 zip: ''
 charity_navigator_url: ''

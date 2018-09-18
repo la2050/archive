@@ -2,7 +2,8 @@
 organization_id: '2013124'
 year_submitted: 2013
 organization_name: Los Angeles Forum for Architecture and Urban Design
-organization_website: 'http://laforum.org/'
+organization_website:
+  - 'http://laforum.org/'
 ein: '954161753'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954161753'

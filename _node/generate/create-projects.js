@@ -199,6 +199,10 @@ function addProjectAnswers(data) {
         }
       })
 
+      if (data.year_submitted == 2018 && project.uri) {
+        data.challenge_url = `https://activation.la2050.org${project.uri}`
+      }
+
       // Remove empty or redundant answers
       projectAnswersToRemove.forEach(answerToRemove => {
         if (data[answerToRemove] == "") delete data[answerToRemove]

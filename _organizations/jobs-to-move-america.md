@@ -2,7 +2,8 @@
 organization_id: '2016114'
 year_submitted: 2016
 organization_name: Jobs to Move America
-organization_website: jobstomoveamerica.org
+organization_website:
+  - jobstomoveamerica.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

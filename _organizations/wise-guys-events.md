@@ -2,7 +2,8 @@
 organization_id: '2015226'
 year_submitted: 2015
 organization_name: Wise Guys Events
-organization_website: www.teambuildingandtraining.com
+organization_website:
+  - www.teambuildingandtraining.com
 ein: '208656297'
 zip: '90066'
 charity_navigator_url: ''

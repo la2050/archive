@@ -2,7 +2,8 @@
 organization_id: '2013004'
 year_submitted: 2013
 organization_name: Affordable Living for the Aging
-organization_website: 'http://www.alaseniorliving.org'
+organization_website:
+  - 'http://www.alaseniorliving.org'
 ein: '953301874'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953301874'

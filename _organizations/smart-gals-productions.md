@@ -2,7 +2,8 @@
 organization_id: '2015182'
 year_submitted: 2015
 organization_name: Smart Gals Productions
-organization_website: www.smartgalsproductions.org
+organization_website:
+  - www.smartgalsproductions.org
 ein: '202157944'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202157944'

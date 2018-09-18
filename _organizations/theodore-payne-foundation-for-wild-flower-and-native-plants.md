@@ -2,7 +2,8 @@
 organization_id: '2016236'
 year_submitted: 2016
 organization_name: Theodore Payne Foundation for Wild Flower and Native Plants
-organization_website: theodorepayne.org
+organization_website:
+  - theodorepayne.org
 ein: '956095398'
 zip: '91352'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956095398'

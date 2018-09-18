@@ -2,7 +2,8 @@
 organization_id: '2015228'
 year_submitted: 2015
 organization_name: Youth Justice Coalition
-organization_website: www.youth4justice.org
+organization_website:
+  - www.youth4justice.org
 ein: '830466818'
 zip: '90302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=830466818'

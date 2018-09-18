@@ -2,7 +2,8 @@
 organization_id: '2014083'
 year_submitted: 2014
 organization_name: South East European Film Festival
-organization_website: seefilmla.org
+organization_website:
+  - seefilmla.org
 ein: '510618883'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510618883'

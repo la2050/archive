@@ -2,7 +2,8 @@
 organization_id: '2015205'
 year_submitted: 2015
 organization_name: The Ripple Effect
-organization_website: www.the-ripple-effect.net
+organization_website:
+  - www.the-ripple-effect.net
 ein: '330748320'
 zip: '90807'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330748320'

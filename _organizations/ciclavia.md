@@ -2,7 +2,8 @@
 organization_id: '2018021'
 year_submitted: 2018
 organization_name: CicLAvia
-organization_website: www.ciclavia.org
+organization_website:
+  - www.ciclavia.org
 ein: '273428380'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273428380'

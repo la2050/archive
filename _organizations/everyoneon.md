@@ -2,7 +2,8 @@
 organization_id: '2016074'
 year_submitted: 2016
 organization_name: EveryoneOn
-organization_website: everyoneon.org
+organization_website:
+  - everyoneon.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

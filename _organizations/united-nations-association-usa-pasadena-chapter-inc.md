@@ -2,7 +2,8 @@
 organization_id: '2016245'
 year_submitted: 2016
 organization_name: United Nations Association-USA Pasadena Chapter Inc.
-organization_website: actionambassadors.org
+organization_website:
+  - actionambassadors.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

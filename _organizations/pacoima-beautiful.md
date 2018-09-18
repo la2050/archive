@@ -2,7 +2,8 @@
 organization_id: '2016161'
 year_submitted: 2016
 organization_name: Pacoima Beautiful
-organization_website: www.pacoimabeautiful.org
+organization_website:
+  - www.pacoimabeautiful.org
 ein: '954770745'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954770745'

@@ -109,6 +109,7 @@ category_metrics:
   - Housing affordability
 category_other:
   - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
 body_class: lime
 
 ---

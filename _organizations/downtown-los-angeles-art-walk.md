@@ -2,7 +2,8 @@
 organization_id: '2015050'
 year_submitted: 2015
 organization_name: Downtown Los Angeles Art Walk
-organization_website: www.downtownartwalk.org
+organization_website:
+  - www.downtownartwalk.org
 ein: '311597223'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311597223'

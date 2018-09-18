@@ -2,7 +2,9 @@
 organization_id: '2015044'
 year_submitted: 2015
 organization_name: 'Compiler LA, Utopiad.org'
-organization_website: 'http://utopiad.org/, http://compiler.la'
+organization_website:
+  - 'http://utopiad.org/'
+  - ' http://compiler.la'
 ein: '464394783'
 zip: '90013'
 charity_navigator_url: ''

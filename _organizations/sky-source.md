@@ -2,7 +2,8 @@
 organization_id: '2016194'
 year_submitted: 2016
 organization_name: Sky Source
-organization_website: skysource.org
+organization_website:
+  - skysource.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

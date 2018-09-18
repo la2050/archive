@@ -2,7 +2,8 @@
 organization_id: '2015136'
 year_submitted: 2015
 organization_name: Melrose World Cinema Centers
-organization_website: www.mcenters.org
+organization_website:
+  - www.mcenters.org
 ein: '263395966'
 zip: '90038'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263395966'

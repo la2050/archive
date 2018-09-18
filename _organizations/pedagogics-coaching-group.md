@@ -2,7 +2,8 @@
 organization_id: '2016167'
 year_submitted: 2016
 organization_name: Pedagogics Coaching Group
-organization_website: pedagogicscg.com
+organization_website:
+  - pedagogicscg.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

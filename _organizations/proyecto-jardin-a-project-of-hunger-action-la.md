@@ -2,7 +2,8 @@
 organization_id: '2018099'
 year_submitted: 2018
 organization_name: 'Proyecto Jardin: A Project of Hunger Action LA'
-organization_website: www.proyectojardin.org
+organization_website:
+  - www.proyectojardin.org
 ein: '205142259'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=205142259'

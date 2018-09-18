@@ -2,7 +2,8 @@
 organization_id: '2016140'
 year_submitted: 2016
 organization_name: Los Angeles World Airports
-organization_website: www.lawa.org
+organization_website:
+  - www.lawa.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

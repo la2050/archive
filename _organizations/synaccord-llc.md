@@ -2,7 +2,9 @@
 organization_id: '2018115'
 year_submitted: 2018
 organization_name: 'Synaccord, LLC'
-organization_website: 'synaccord.com,synaccord.com/citydemo'
+organization_website:
+  - synaccord.com
+  - synaccord.com/citydemo
 ein: '47448496'
 zip: ''
 charity_navigator_url: ''

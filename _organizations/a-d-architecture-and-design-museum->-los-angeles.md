@@ -2,7 +2,8 @@
 organization_id: '2013002'
 year_submitted: 2013
 organization_name: A+D Architecture and Design Museum > Los Angeles
-organization_website: 'http://aplusd.org/exhibitions-future/neverbuilt'
+organization_website:
+  - 'http://aplusd.org/exhibitions-future/neverbuilt'
 ein: '481269978'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'

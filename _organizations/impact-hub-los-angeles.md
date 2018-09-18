@@ -2,7 +2,8 @@
 organization_id: '2016109'
 year_submitted: 2016
 organization_name: Impact Hub Los Angeles
-organization_website: impacthubla.com
+organization_website:
+  - impacthubla.com
 ein: '273558431'
 zip: '90013'
 charity_navigator_url: ''

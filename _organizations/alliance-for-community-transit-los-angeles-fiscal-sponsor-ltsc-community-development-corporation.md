@@ -4,7 +4,8 @@ year_submitted: 2014
 organization_name: >-
   Alliance for Community Transit - Los Angeles (Fiscal Sponsor LTSC Community
   Development Corporation)
-organization_website: 'http://www.allianceforcommunitytransit.org/'
+organization_website:
+  - 'http://www.allianceforcommunitytransit.org/'
 ein: '263106566'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263106566'

@@ -2,7 +2,8 @@
 organization_id: '2015171'
 year_submitted: 2015
 organization_name: RRM Design Group and Los Angeles Neighborhood Initiative
-organization_website: www.rrmdesign.com
+organization_website:
+  - www.rrmdesign.com
 ein: '952923783'
 zip: '93401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952923783'

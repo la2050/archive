@@ -4,7 +4,8 @@ year_submitted: 2016
 organization_name: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)
-organization_website: viterbi.usc.edu/stemprograms
+organization_website:
+  - viterbi.usc.edu/stemprograms
 ein: ''
 zip: ''
 charity_navigator_url: ''

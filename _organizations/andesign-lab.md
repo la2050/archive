@@ -2,7 +2,8 @@
 organization_id: '2016009'
 year_submitted: 2016
 organization_name: ANDesign Lab
-organization_website: www.andesignlab.com
+organization_website:
+  - www.andesignlab.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

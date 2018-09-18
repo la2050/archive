@@ -2,7 +2,8 @@
 organization_id: '2014085'
 year_submitted: 2014
 organization_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
-organization_website: www.sbssla.org
+organization_website:
+  - www.sbssla.org
 ein: '951641435'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641435'

@@ -2,7 +2,8 @@
 organization_id: '2015175'
 year_submitted: 2015
 organization_name: SBCC Thrive LA
-organization_website: www.sbccthrivela.org
+organization_website:
+  - www.sbccthrivela.org
 ein: '237360521'
 zip: '90744'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'

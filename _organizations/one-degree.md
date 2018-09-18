@@ -2,7 +2,8 @@
 organization_id: '2018092'
 year_submitted: 2018
 organization_name: One Degree
-organization_website: 'https://www.1degree.org/'
+organization_website:
+  - 'https://www.1degree.org/'
 ein: '364729392'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'

@@ -2,7 +2,8 @@
 organization_id: '2013151'
 year_submitted: 2013
 organization_name: Participlay
-organization_website: www.participlay.com
+organization_website:
+  - www.participlay.com
 ein: '208482508'
 zip: ''
 charity_navigator_url: ''

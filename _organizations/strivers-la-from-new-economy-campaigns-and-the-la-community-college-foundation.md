@@ -4,7 +4,8 @@ year_submitted: 2013
 organization_name: >-
   STRIVERS.LA: from New Economy Campaigns and the LA Community College
   Foundation
-organization_website: 'http://neweconomycampaigns.com/wordpress/portfolio/strivers-la/'
+organization_website:
+  - 'http://neweconomycampaigns.com/wordpress/portfolio/strivers-la/'
 ein: '452991222'
 zip: ''
 charity_navigator_url: ''

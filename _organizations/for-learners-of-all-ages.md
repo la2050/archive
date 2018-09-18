@@ -2,7 +2,8 @@
 organization_id: '2013071'
 year_submitted: 2013
 organization_name: For Learners of All Ages
-organization_website: forlearnersofallages.com
+organization_website:
+  - forlearnersofallages.com
 ein: '461226459'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461226459'

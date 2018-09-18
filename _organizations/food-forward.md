@@ -2,7 +2,8 @@
 organization_id: '2013070'
 year_submitted: 2013
 organization_name: Food Forward
-organization_website: www.foodforward.org
+organization_website:
+  - www.foodforward.org
 ein: '900678872'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900678872'

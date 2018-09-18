@@ -2,7 +2,8 @@
 organization_id: '2013160'
 year_submitted: 2013
 organization_name: 'Reach For theTop, Inc.'
-organization_website: 'http://www.reach4thetop.org/'
+organization_website:
+  - 'http://www.reach4thetop.org/'
 ein: '571236341'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571236341'

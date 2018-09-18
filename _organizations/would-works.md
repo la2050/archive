@@ -2,7 +2,8 @@
 organization_id: '2014110'
 year_submitted: 2014
 organization_name: Would-Works
-organization_website: www.would-works.com
+organization_website:
+  - www.would-works.com
 ein: '455552196'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455552196'

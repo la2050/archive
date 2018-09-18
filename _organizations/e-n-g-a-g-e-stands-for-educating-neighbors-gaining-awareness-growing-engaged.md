@@ -2,7 +2,8 @@
 organization_id: '2013054'
 year_submitted: 2013
 organization_name: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
-organization_website: 'http://www.facebook.com/CRD3LA'
+organization_website:
+  - 'http://www.facebook.com/CRD3LA'
 ein: '474528239'
 zip: ''
 charity_navigator_url: ''

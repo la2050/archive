@@ -2,7 +2,8 @@
 organization_id: '2013138'
 year_submitted: 2013
 organization_name: MUSEK
-organization_website: Www.musek.org
+organization_website:
+  - Www.musek.org
 ein: '546674177'
 zip: ''
 charity_navigator_url: ''

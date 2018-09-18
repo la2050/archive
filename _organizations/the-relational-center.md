@@ -2,7 +2,8 @@
 organization_id: '2013196'
 year_submitted: 2013
 organization_name: The Relational Center
-organization_website: 'http://www.relationalcenter.org'
+organization_website:
+  - 'http://www.relationalcenter.org'
 ein: '260511164'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260511164'

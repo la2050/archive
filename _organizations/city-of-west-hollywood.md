@@ -2,7 +2,8 @@
 organization_id: '2016040'
 year_submitted: 2016
 organization_name: City of West Hollywood
-organization_website: www.weho.org
+organization_website:
+  - www.weho.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015027'
 year_submitted: 2015
 organization_name: Cell-Ed
-organization_website: www.celled.org
+organization_website:
+  - www.celled.org
 ein: '451825071'
 zip: '90212'
 charity_navigator_url: ''

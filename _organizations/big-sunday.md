@@ -2,7 +2,8 @@
 organization_id: '2016020'
 year_submitted: 2016
 organization_name: Big Sunday
-organization_website: www.bigsunday.org
+organization_website:
+  - www.bigsunday.org
 ein: '421765317'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=421765317'

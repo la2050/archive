@@ -2,7 +2,8 @@
 organization_id: '2013001'
 year_submitted: 2013
 organization_name: 58-12 Design Lab
-organization_website: 'http://www.58-12.org'
+organization_website:
+  - 'http://www.58-12.org'
 ein: '271538597'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271538597'

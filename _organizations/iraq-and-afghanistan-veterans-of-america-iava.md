@@ -2,7 +2,8 @@
 organization_id: '2015093'
 year_submitted: 2015
 organization_name: Iraq and Afghanistan Veterans of America (IAVA)
-organization_website: www.iava.org
+organization_website:
+  - www.iava.org
 ein: '201664531'
 zip: '10036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201664531'

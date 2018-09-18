@@ -2,7 +2,8 @@
 organization_id: '2016018'
 year_submitted: 2016
 organization_name: Bicycle Culture Institute
-organization_website: bicycleculture.org
+organization_website:
+  - bicycleculture.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

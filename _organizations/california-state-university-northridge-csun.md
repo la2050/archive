@@ -2,7 +2,8 @@
 organization_id: '2016032'
 year_submitted: 2016
 organization_name: 'California State University, Northridge (CSUN)'
-organization_website: www.csun.edu
+organization_website:
+  - www.csun.edu
 ein: ''
 zip: ''
 charity_navigator_url: ''

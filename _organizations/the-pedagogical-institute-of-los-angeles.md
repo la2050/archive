@@ -2,7 +2,8 @@
 organization_id: '2016229'
 year_submitted: 2016
 organization_name: The Pedagogical Institute of Los Angeles
-organization_website: www.thinkwithus.org
+organization_website:
+  - www.thinkwithus.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

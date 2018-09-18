@@ -2,7 +2,8 @@
 organization_id: '2016168'
 year_submitted: 2016
 organization_name: 'PEN Center USA, ''PEN USA'''
-organization_website: penusa.org
+organization_website:
+  - penusa.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

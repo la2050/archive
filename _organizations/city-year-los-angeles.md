@@ -2,7 +2,8 @@
 organization_id: '2018027'
 year_submitted: 2018
 organization_name: City Year Los Angeles
-organization_website: 'https://www.cityyear.org/losangeles'
+organization_website:
+  - 'https://www.cityyear.org/losangeles'
 ein: '222882549'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=222882549'

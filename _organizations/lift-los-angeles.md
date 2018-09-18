@@ -2,7 +2,8 @@
 organization_id: '2018068'
 year_submitted: 2018
 organization_name: LIFT-Los Angeles
-organization_website: 'https://www.liftcommunities.org/'
+organization_website:
+  - 'https://www.liftcommunities.org/'
 ein: '522168409'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522168409'

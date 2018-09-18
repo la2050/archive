@@ -2,7 +2,8 @@
 organization_id: '2013146'
 year_submitted: 2013
 organization_name: Oasis USA
-organization_website: 'http://www.oasisusa.org'
+organization_website:
+  - 'http://www.oasisusa.org'
 ein: '954870779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954870779'

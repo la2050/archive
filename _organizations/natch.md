@@ -2,7 +2,8 @@
 organization_id: '2016153'
 year_submitted: 2016
 organization_name: Natch
-organization_website: thenatch.co
+organization_website:
+  - thenatch.co
 ein: ''
 zip: ''
 charity_navigator_url: ''

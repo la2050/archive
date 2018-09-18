@@ -2,7 +2,8 @@
 organization_id: '2015225'
 year_submitted: 2015
 organization_name: 'Wheels of Hope LA, Fred Jordan Mission'
-organization_website: www.wheelsofhopeLA.com
+organization_website:
+  - www.wheelsofhopeLA.com
 ein: '956000110'
 zip: '91722'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000110'

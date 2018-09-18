@@ -107,6 +107,7 @@ category_metrics:
   - Rates of volunteerism
 category_other:
   - LA is the healthiest place to LIVE
+challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'
 body_class: lime
 
 ---

@@ -2,7 +2,8 @@
 organization_id: '2013199'
 year_submitted: 2013
 organization_name: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
-organization_website: www.trustsouthla.org
+organization_website:
+  - www.trustsouthla.org
 ein: '421687057'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=421687057'

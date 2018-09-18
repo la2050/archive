@@ -2,7 +2,8 @@
 organization_id: '2018110'
 year_submitted: 2018
 organization_name: SmartAirLA
-organization_website: www.smartairla.org
+organization_website:
+  - www.smartairla.org
 ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
@@ -11,7 +12,7 @@ tags_indicators:
   - Health
   - 'Environmental Quality: Community health'
   - Green technology
-twitter: ''
+twitter: 0
 instagram: SmartAirLA
 facebook: www.facebook.com/smartairla
 org_type: Nonprofit

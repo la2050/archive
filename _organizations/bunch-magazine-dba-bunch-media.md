@@ -2,7 +2,8 @@
 organization_id: '2015023'
 year_submitted: 2015
 organization_name: BUNCH Magazine dba BUNCH Media
-organization_website: www.bunchmag.com
+organization_website:
+  - www.bunchmag.com
 ein: '465448101'
 zip: '90016'
 charity_navigator_url: ''

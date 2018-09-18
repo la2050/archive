@@ -2,7 +2,8 @@
 organization_id: '2018091'
 year_submitted: 2018
 organization_name: NoTow
-organization_website: pleasenotow.com
+organization_website:
+  - pleasenotow.com
 ein: '824997963'
 zip: '90036'
 charity_navigator_url: ''

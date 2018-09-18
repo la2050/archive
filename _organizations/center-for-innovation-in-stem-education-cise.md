@@ -2,7 +2,8 @@
 organization_id: '2018016'
 year_submitted: 2018
 organization_name: Center for Innovation in STEM Education (CISE)
-organization_website: 'https://www.csudh.edu/cise/'
+organization_website:
+  - 'https://www.csudh.edu/cise/'
 ein: '952543028'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952543028'

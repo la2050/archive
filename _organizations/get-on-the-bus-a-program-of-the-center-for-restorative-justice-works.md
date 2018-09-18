@@ -2,7 +2,8 @@
 organization_id: '2015071'
 year_submitted: 2015
 organization_name: Get On The Bus a program of the Center for Restorative Justice Works
-organization_website: www.crjw.us
+organization_website:
+  - www.crjw.us
 ein: '680547196'
 zip: '91606'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680547196'

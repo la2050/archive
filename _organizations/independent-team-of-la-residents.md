@@ -2,7 +2,8 @@
 organization_id: '2015090'
 year_submitted: 2015
 organization_name: Independent Team of LA Residents
-organization_website: n/a
+organization_website:
+  - n/a
 ein: '954302067'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

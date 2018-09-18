@@ -2,7 +2,8 @@
 organization_id: '2013184'
 year_submitted: 2013
 organization_name: The Children's Nature Institute
-organization_website: www.discoverybynature.org
+organization_website:
+  - www.discoverybynature.org
 ein: '954320598'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954320598'

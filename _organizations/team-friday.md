@@ -2,7 +2,8 @@
 organization_id: '2013180'
 year_submitted: 2013
 organization_name: Team Friday
-organization_website: 'http://www.artmageddonla.com'
+organization_website:
+  - 'http://www.artmageddonla.com'
 ein: '462219140'
 zip: ''
 charity_navigator_url: ''

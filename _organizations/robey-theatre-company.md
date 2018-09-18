@@ -2,7 +2,8 @@
 organization_id: '2015169'
 year_submitted: 2015
 organization_name: Robey Theatre Company
-organization_website: www.robeytheatrecompany.org
+organization_website:
+  - www.robeytheatrecompany.org
 ein: '954564423'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954564423'

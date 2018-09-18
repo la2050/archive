@@ -2,7 +2,8 @@
 organization_id: '2014077'
 year_submitted: 2014
 organization_name: Row Gallery Foundation
-organization_website: 'http://rowgallery.org'
+organization_website:
+  - 'http://rowgallery.org'
 ein: '465706323'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465706323'

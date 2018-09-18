@@ -115,6 +115,8 @@ category_metrics:
 category_other:
   - LA is the best place to CREATE
   - LA is the best place to CONNECT
+challenge_url: >-
+  https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
 body_class: banana
 
 ---

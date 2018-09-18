@@ -2,8 +2,10 @@
 organization_id: '2018132'
 year_submitted: 2018
 organization_name: United Way of Greater Los Angeles
-organization_website: >-
-  http://everyoneinla.org/,http://www.abundanthousingla.org/,http://www.innercitylaw.org/
+organization_website:
+  - 'http://everyoneinla.org/'
+  - 'http://www.abundanthousingla.org/'
+  - 'http://www.innercitylaw.org/'
 ein: '952274801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'
@@ -13,9 +15,17 @@ tags_indicators:
   - Affordable housing
   - Supportive housing
   - Tenants’ rights
-twitter: '["@EveryoneIn_LA","@InnerCityLaw","@AbundantHousing"]'
-instagram: '["@everyonein_la","@abundanthousing"]'
-facebook: '["@EveryoneInLA","@InnerCityLawCenter","@abundanthousingla"]'
+twitter:
+  - '@EveryoneIn_LA'
+  - '@InnerCityLaw'
+  - '@AbundantHousing'
+instagram:
+  - '@everyonein_la'
+  - '@abundanthousing'
+facebook:
+  - '@EveryoneInLA'
+  - '@InnerCityLawCenter'
+  - '@abundanthousingla'
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg

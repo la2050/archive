@@ -2,7 +2,8 @@
 organization_id: '2016184'
 year_submitted: 2016
 organization_name: Richstone Family Center
-organization_website: RichstoneFamily.org
+organization_website:
+  - RichstoneFamily.org
 ein: '237373745'
 zip: '90250'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237373745'

@@ -140,6 +140,7 @@ category_metrics:
   - Youth unemployment and underemployment
 category_other:
   - LA is the healthiest place to LIVE
+challenge_url: 'https://activation.la2050.org/learn/data-360/'
 body_class: blueberry
 
 ---

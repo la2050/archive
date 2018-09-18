@@ -4,7 +4,8 @@ year_submitted: 2015
 organization_name: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
   c/o Mayor's Fund for Los Angeles
-organization_website: www.lamayor.org/promise_zone
+organization_website:
+  - www.lamayor.org/promise_zone
 ein: '471084641'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471084641'

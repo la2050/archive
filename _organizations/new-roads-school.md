@@ -2,7 +2,8 @@
 organization_id: '2016158'
 year_submitted: 2016
 organization_name: New Roads School
-organization_website: newroads.org
+organization_website:
+  - newroads.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

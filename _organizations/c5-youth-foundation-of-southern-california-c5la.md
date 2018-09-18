@@ -2,7 +2,8 @@
 organization_id: '2015024'
 year_submitted: 2015
 organization_name: C5 Youth Foundation of Southern California (“C5LA”)
-organization_website: www.c5la.org
+organization_website:
+  - www.c5la.org
 ein: '262458769'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262458769'

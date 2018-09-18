@@ -2,7 +2,8 @@
 organization_id: '2014026'
 year_submitted: 2014
 organization_name: Do Good Bus
-organization_website: dogoodbus.com
+organization_website:
+  - dogoodbus.com
 ein: '300694127'
 zip: ''
 charity_navigator_url: ''

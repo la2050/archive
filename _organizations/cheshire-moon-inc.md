@@ -2,7 +2,8 @@
 organization_id: '2013031'
 year_submitted: 2013
 organization_name: Cheshire Moon Inc
-organization_website: www.DancescapeLA.com
+organization_website:
+  - www.DancescapeLA.com
 ein: '80731426'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=80731426'

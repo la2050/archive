@@ -2,7 +2,8 @@
 organization_id: '2015004'
 year_submitted: 2015
 organization_name: Adventure Playhouse Indoor Activity Center
-organization_website: www.adventureplayhouse.com
+organization_website:
+  - www.adventureplayhouse.com
 ein: '383887199'
 zip: '91340'
 charity_navigator_url: ''

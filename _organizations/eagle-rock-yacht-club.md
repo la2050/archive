@@ -2,7 +2,8 @@
 organization_id: '2014029'
 year_submitted: 2014
 organization_name: Eagle Rock Yacht Club
-organization_website: theyachtclub.org
+organization_website:
+  - theyachtclub.org
 ein: '272225420'
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272225420'

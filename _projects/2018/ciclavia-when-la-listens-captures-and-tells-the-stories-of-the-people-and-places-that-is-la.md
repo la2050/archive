@@ -122,6 +122,7 @@ category_metrics:
 category_other:
   - LA is the best place to PLAY
   - LA is the healthiest place to LIVE
+challenge_url: 'https://activation.la2050.org/connect/ciclavia/'
 body_class: tangerine
 
 ---

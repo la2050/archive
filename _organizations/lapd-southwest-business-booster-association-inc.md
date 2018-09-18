@@ -2,7 +2,8 @@
 organization_id: '2015111'
 year_submitted: 2015
 organization_name: LAPD Southwest Business Booster Association Inc.
-organization_website: 'http://www.southwestyouthprograms.org/index.html'
+organization_website:
+  - 'http://www.southwestyouthprograms.org/index.html'
 ein: '270889800'
 zip: '90062'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270889800'

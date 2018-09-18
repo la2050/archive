@@ -2,7 +2,8 @@
 organization_id: '2013150'
 year_submitted: 2013
 organization_name: Parent Revolution
-organization_website: 'http://parentrevolution.org/'
+organization_website:
+  - 'http://parentrevolution.org/'
 ein: '202207418'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202207418'

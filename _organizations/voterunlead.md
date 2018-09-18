@@ -2,7 +2,8 @@
 organization_id: '2018134'
 year_submitted: 2018
 organization_name: VoteRunLead
-organization_website: www.voterunlead.org
+organization_website:
+  - www.voterunlead.org
 ein: '46'
 zip: '990275'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=46'

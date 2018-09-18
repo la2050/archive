@@ -127,6 +127,8 @@ category_metrics:
   - Voting rates
 category_other:
   - LA is the best place to LEARN
+challenge_url: >-
+  https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
 body_class: tangerine
 
 ---

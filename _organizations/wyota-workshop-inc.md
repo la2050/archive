@@ -2,7 +2,8 @@
 organization_id: '2016260'
 year_submitted: 2016
 organization_name: 'Wyota Workshop, Inc.'
-organization_website: www.wyotaworkshop.com
+organization_website:
+  - www.wyotaworkshop.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -72,6 +72,7 @@ category_metrics:
   - Suspension and expulsion rates
 category_other:
   - LA is the best place to CONNECT
+challenge_url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
 body_class: blueberry
 
 ---

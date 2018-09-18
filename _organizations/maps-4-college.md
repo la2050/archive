@@ -2,7 +2,8 @@
 organization_id: '2015133'
 year_submitted: 2015
 organization_name: MAPS 4 College
-organization_website: www.maps4college.org
+organization_website:
+  - www.maps4college.org
 ein: '262915543'
 zip: '90703'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262915543'

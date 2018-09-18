@@ -84,6 +84,7 @@ category_metrics:
   - Walk/bike/transit score
 category_other:
   - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/notow/'
 body_class: blueberry
 
 ---

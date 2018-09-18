@@ -2,7 +2,8 @@
 organization_id: '2015037'
 year_submitted: 2015
 organization_name: Climate Cents
-organization_website: www.ClimateCents.org
+organization_website:
+  - www.ClimateCents.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

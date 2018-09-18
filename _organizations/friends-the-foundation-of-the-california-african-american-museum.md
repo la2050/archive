@@ -2,7 +2,8 @@
 organization_id: '2013075'
 year_submitted: 2013
 organization_name: 'Friends, the Foundation of the California African American Museum'
-organization_website: www.caamuseum.org
+organization_website:
+  - www.caamuseum.org
 ein: '954676760'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954676760'

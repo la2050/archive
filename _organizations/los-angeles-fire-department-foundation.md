@@ -2,7 +2,8 @@
 organization_id: '2015123'
 year_submitted: 2015
 organization_name: Los Angeles Fire Department Foundation
-organization_website: supportlafd.org
+organization_website:
+  - supportlafd.org
 ein: '272007326'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272007326'

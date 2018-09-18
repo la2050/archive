@@ -2,7 +2,8 @@
 organization_id: '2016059'
 year_submitted: 2016
 organization_name: Cornerstone Theater Company
-organization_website: cornerstonetheater.org
+organization_website:
+  - cornerstonetheater.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

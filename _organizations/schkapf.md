@@ -2,7 +2,8 @@
 organization_id: '2014079'
 year_submitted: 2014
 organization_name: Schkapf
-organization_website: www.schkapf.com
+organization_website:
+  - www.schkapf.com
 ein: '464981201'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464981201'

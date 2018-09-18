@@ -2,7 +2,8 @@
 organization_id: '2015082'
 year_submitted: 2015
 organization_name: 'HDomes.com, Shacklebrand Designs'
-organization_website: HDomes.com
+organization_website:
+  - HDomes.com
 ein: '460673783'
 zip: '90078'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460673783'

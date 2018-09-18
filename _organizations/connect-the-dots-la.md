@@ -2,7 +2,8 @@
 organization_id: '2015045'
 year_submitted: 2015
 organization_name: Connect the Dots LA
-organization_website: www.aridlands.org
+organization_website:
+  - www.aridlands.org
 ein: '954589325'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954589325'

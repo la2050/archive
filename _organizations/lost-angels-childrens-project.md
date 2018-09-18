@@ -2,7 +2,8 @@
 organization_id: '2016141'
 year_submitted: 2016
 organization_name: Lost Angels Children's Project
-organization_website: www.lostangelscp.org
+organization_website:
+  - www.lostangelscp.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

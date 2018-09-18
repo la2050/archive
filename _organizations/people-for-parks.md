@@ -2,7 +2,8 @@
 organization_id: '2018095'
 year_submitted: 2018
 organization_name: People for Parks
-organization_website: www.peopleforparks.org
+organization_website:
+  - www.peopleforparks.org
 ein: '954219646'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954219646'

@@ -2,7 +2,8 @@
 organization_id: '2016049'
 year_submitted: 2016
 organization_name: Come Alive Long Beach
-organization_website: comealivelb.com
+organization_website:
+  - comealivelb.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

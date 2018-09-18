@@ -2,7 +2,8 @@
 organization_id: '2015032'
 year_submitted: 2015
 organization_name: Children's Bureau of Southern California
-organization_website: www.all4kids.org
+organization_website:
+  - www.all4kids.org
 ein: '951690975'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951690975'

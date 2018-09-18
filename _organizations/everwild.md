@@ -2,7 +2,8 @@
 organization_id: '2018038'
 year_submitted: 2018
 organization_name: EverWild
-organization_website: www.everwildla.com
+organization_website:
+  - www.everwildla.com
 ein: '813577278'
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813577278'

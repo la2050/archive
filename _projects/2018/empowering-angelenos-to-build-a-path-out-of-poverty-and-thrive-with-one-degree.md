@@ -159,6 +159,7 @@ category_metrics:
   - Residents receiving coordinated healthcare services
 category_other:
   - LA is the best place to LEARN
+challenge_url: 'https://activation.la2050.org/live/one-degree/'
 body_class: blueberry
 
 ---

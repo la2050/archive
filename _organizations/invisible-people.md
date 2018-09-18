@@ -2,7 +2,8 @@
 organization_id: '2013099'
 year_submitted: 2013
 organization_name: Invisible People
-organization_website: 'http://invisiblepeople.tv'
+organization_website:
+  - 'http://invisiblepeople.tv'
 ein: '272079758'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272079758'

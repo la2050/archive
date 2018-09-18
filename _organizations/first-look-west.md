@@ -2,7 +2,8 @@
 organization_id: '2013067'
 year_submitted: 2013
 organization_name: First Look West
-organization_website: 'http://flow.caltech.edu'
+organization_website:
+  - 'http://flow.caltech.edu'
 ein: 951643307 (Caltech)
 zip: ''
 charity_navigator_url: >-

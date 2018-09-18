@@ -2,7 +2,8 @@
 organization_id: '2016062'
 year_submitted: 2016
 organization_name: D.A.D Project
-organization_website: www.dadproject.org
+organization_website:
+  - www.dadproject.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

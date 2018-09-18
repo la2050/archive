@@ -2,7 +2,8 @@
 organization_id: '2014033'
 year_submitted: 2014
 organization_name: ERW Design
-organization_website: www.erwdesign.com
+organization_website:
+  - www.erwdesign.com
 ein: '364519595'
 zip: '90265'
 charity_navigator_url: ''

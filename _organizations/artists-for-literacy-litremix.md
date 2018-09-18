@@ -2,7 +2,8 @@
 organization_id: '2015015'
 year_submitted: 2015
 organization_name: Artists for Literacy / LitRemix
-organization_website: litremix.com
+organization_website:
+  - litremix.com
 ein: '943390795'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943390795'

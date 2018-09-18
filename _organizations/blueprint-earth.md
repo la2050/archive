@@ -2,7 +2,8 @@
 organization_id: '2015018'
 year_submitted: 2015
 organization_name: Blueprint Earth
-organization_website: www.blueprintearth.org
+organization_website:
+  - www.blueprintearth.org
 ein: '463558470'
 zip: '91789'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463558470'

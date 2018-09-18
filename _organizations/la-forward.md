@@ -2,7 +2,8 @@
 organization_id: '2018062'
 year_submitted: 2018
 organization_name: LA Forward
-organization_website: 'https://www.losangelesforward.org/'
+organization_website:
+  - 'https://www.losangelesforward.org/'
 ein: '954781974'
 zip: '90747'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954781974'

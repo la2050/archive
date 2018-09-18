@@ -2,7 +2,8 @@
 organization_id: '2016094'
 year_submitted: 2016
 organization_name: Groceryships and Netiya
-organization_website: groceryships.org
+organization_website:
+  - groceryships.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

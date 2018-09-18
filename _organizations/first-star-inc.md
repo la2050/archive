@@ -2,7 +2,8 @@
 organization_id: '2013068'
 year_submitted: 2013
 organization_name: 'First Star, Inc.'
-organization_website: www.firststar.org
+organization_website:
+  - www.firststar.org
 ein: '311719436'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719436'

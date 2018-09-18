@@ -2,7 +2,8 @@
 organization_id: '2016067'
 year_submitted: 2016
 organization_name: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
-organization_website: DSTLArts.org
+organization_website:
+  - DSTLArts.org
 ein: '471509200'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471509200'

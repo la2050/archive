@@ -2,7 +2,8 @@
 organization_id: '2016186'
 year_submitted: 2016
 organization_name: Ryman Arts
-organization_website: www.thebigdrawla.org
+organization_website:
+  - www.thebigdrawla.org
 ein: '951051084'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951051084'

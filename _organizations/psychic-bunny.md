@@ -2,7 +2,8 @@
 organization_id: '2014073'
 year_submitted: 2014
 organization_name: Psychic Bunny
-organization_website: www.psychicbunny.com
+organization_website:
+  - www.psychicbunny.com
 ein: '900406307'
 zip: '90013'
 charity_navigator_url: ''

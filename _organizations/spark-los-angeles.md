@@ -2,7 +2,8 @@
 organization_id: '2016200'
 year_submitted: 2016
 organization_name: Spark Los Angeles
-organization_website: SparkProgram.org
+organization_website:
+  - SparkProgram.org
 ein: '201836547'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201836547'

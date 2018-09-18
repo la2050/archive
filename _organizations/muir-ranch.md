@@ -2,7 +2,8 @@
 organization_id: '2014060'
 year_submitted: 2014
 organization_name: Muir Ranch
-organization_website: 'https://www.facebook.com/muirranch'
+organization_website:
+  - 'https://www.facebook.com/muirranch'
 ein: '237149451'
 zip: '90103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237149451'

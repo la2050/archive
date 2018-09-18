@@ -2,7 +2,8 @@
 organization_id: '2015068'
 year_submitted: 2015
 organization_name: Friends of the Hollywood Central Park (FHCP)
-organization_website: hollywoodcentralpark.org
+organization_website:
+  - hollywoodcentralpark.org
 ein: '264236328'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264236328'

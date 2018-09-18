@@ -2,7 +2,8 @@
 organization_id: '2016036'
 year_submitted: 2016
 organization_name: Center for the Study of Los Angeles
-organization_website: lmu.edu/studyla
+organization_website:
+  - lmu.edu/studyla
 ein: ''
 zip: ''
 charity_navigator_url: ''

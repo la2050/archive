@@ -2,7 +2,8 @@
 organization_id: '2018085'
 year_submitted: 2018
 organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
-organization_website: multicultimobility.org/
+organization_website:
+  - multicultimobility.org/
 ein: '954302067'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

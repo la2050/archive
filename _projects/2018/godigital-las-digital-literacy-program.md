@@ -86,6 +86,8 @@ category_metrics:
   - Youth unemployment and underemployment
 category_other:
   - LA is the best place to CONNECT
+challenge_url: >-
+  https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
 body_class: blueberry
 
 ---

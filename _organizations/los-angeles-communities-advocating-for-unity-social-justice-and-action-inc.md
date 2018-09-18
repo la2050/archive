@@ -2,7 +2,8 @@
 organization_id: '2013122'
 year_submitted: 2013
 organization_name: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
-organization_website: www.lacausainc.org
+organization_website:
+  - www.lacausainc.org
 ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'

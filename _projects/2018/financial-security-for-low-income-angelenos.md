@@ -143,6 +143,7 @@ category_metrics:
   - Number of households below the self-sufficiency standard
 category_other:
   - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/caleitc4me/'
 body_class: lime
 
 ---

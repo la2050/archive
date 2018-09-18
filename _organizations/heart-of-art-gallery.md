@@ -2,7 +2,8 @@
 organization_id: '2015085'
 year_submitted: 2015
 organization_name: Heart of Art Gallery
-organization_website: www.heartofartgalleryla.com
+organization_website:
+  - www.heartofartgalleryla.com
 ein: '461899740'
 zip: '90016'
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2013148'
 year_submitted: 2013
 organization_name: Outfest
-organization_website: Outfest.org
+organization_website:
+  - Outfest.org
 ein: '954089601'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954089601'

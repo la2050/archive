@@ -2,7 +2,8 @@
 organization_id: '2013177'
 year_submitted: 2013
 organization_name: Sustainable Works a Project of Community Partners
-organization_website: 'http://www.sustainableworks.org'
+organization_website:
+  - 'http://www.sustainableworks.org'
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

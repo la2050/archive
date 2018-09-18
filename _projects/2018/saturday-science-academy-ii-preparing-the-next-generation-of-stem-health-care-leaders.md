@@ -132,6 +132,8 @@ category_metrics:
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 category_other:
   - LA is the best place to CONNECT
+challenge_url: >-
+  https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
 body_class: blueberry
 
 ---

@@ -2,7 +2,8 @@
 organization_id: '2015053'
 year_submitted: 2015
 organization_name: DUBLAB
-organization_website: www.dublab.com
+organization_website:
+  - www.dublab.com
 ein: '510665121'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510665121'

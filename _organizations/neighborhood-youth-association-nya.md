@@ -2,7 +2,8 @@
 organization_id: '2013142'
 year_submitted: 2013
 organization_name: Neighborhood Youth Association (NYA)
-organization_website: www.nyayouth.org
+organization_website:
+  - www.nyayouth.org
 ein: '951691297'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691297'

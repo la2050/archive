@@ -2,7 +2,8 @@
 organization_id: '2013168'
 year_submitted: 2013
 organization_name: South Bay Center for Community Development
-organization_website: www.sbaycenter.com
+organization_website:
+  - www.sbaycenter.com
 ein: '237360521'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237360521'

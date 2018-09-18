@@ -2,7 +2,8 @@
 organization_id: '2014067'
 year_submitted: 2014
 organization_name: Pershing Square Park Advisory Board
-organization_website: www.laparks.org/pershingsquare
+organization_website:
+  - www.laparks.org/pershingsquare
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

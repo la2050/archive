@@ -2,7 +2,8 @@
 organization_id: '2016202'
 year_submitted: 2016
 organization_name: STEM Advantage
-organization_website: www.stemadvantage.org
+organization_website:
+  - www.stemadvantage.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

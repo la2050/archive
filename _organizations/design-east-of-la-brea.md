@@ -2,7 +2,8 @@
 organization_id: '2013052'
 year_submitted: 2013
 organization_name: design east of La Brea
-organization_website: 'http://www.designeastoflabrea.org'
+organization_website:
+  - 'http://www.designeastoflabrea.org'
 ein: '272832901'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272832901'

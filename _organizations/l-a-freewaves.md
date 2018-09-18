@@ -2,7 +2,8 @@
 organization_id: '2014047'
 year_submitted: 2014
 organization_name: L.A. Freewaves
-organization_website: www.freewaves.org
+organization_website:
+  - www.freewaves.org
 ein: '954476207'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954476207'

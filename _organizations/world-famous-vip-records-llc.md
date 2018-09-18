@@ -2,7 +2,8 @@
 organization_id: '2018138'
 year_submitted: 2018
 organization_name: World Famous VIP Records LLC
-organization_website: www.shopviprecords.com
+organization_website:
+  - www.shopviprecords.com
 ein: '820873052'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
@@ -13,7 +14,7 @@ tags_indicators:
   - Arts and culture
   - Creative Industry
 twitter: viplongbeach
-instagram: ''
+instagram: 0
 facebook: viplongbeach
 org_type: Social enterprise or Bcorps
 project_image: >-

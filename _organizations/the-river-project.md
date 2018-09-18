@@ -2,7 +2,8 @@
 organization_id: '2016230'
 year_submitted: 2016
 organization_name: The River Project
-organization_website: TheRiverProject.org
+organization_website:
+  - TheRiverProject.org
 ein: '954858263'
 zip: '91604'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954858263'

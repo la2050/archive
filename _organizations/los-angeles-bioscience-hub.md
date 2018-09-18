@@ -2,7 +2,8 @@
 organization_id: '2015119'
 year_submitted: 2015
 organization_name: Los Angeles Bioscience Hub
-organization_website: www.labiosciencehub.org
+organization_website:
+  - www.labiosciencehub.org
 ein: '472185490'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472185490'

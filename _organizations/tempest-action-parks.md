@@ -2,7 +2,8 @@
 organization_id: '2015195'
 year_submitted: 2015
 organization_name: Tempest Action Parks
-organization_website: www.tempestactionparks.com
+organization_website:
+  - www.tempestactionparks.com
 ein: '262209104'
 zip: '90250'
 charity_navigator_url: ''

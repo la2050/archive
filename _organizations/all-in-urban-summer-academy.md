@@ -2,7 +2,8 @@
 organization_id: '2018006'
 year_submitted: 2018
 organization_name: All-In Urban Summer Academy
-organization_website: urbansummeracademy.org
+organization_website:
+  - urbansummeracademy.org
 ein: '814435851'
 zip: ''
 charity_navigator_url: ''
@@ -12,7 +13,7 @@ tags_indicators:
   - 'Housing: Homelessness'
   - Youth
   - Tutoring
-twitter: ''
+twitter: 0
 instagram: urbansummeracademy
 facebook: urbansummeracademy
 org_type: Forprofit

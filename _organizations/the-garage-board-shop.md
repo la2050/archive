@@ -2,7 +2,8 @@
 organization_id: '2016218'
 year_submitted: 2016
 organization_name: The Garage Board Shop
-organization_website: thegarageboardshops.com
+organization_website:
+  - thegarageboardshops.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

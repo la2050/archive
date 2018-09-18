@@ -67,6 +67,8 @@ category_metrics:
   - Rates of volunteerism
 category_other:
   - LA is the healthiest place to LIVE
+challenge_url: >-
+  https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
 body_class: strawberry
 
 ---

@@ -2,7 +2,8 @@
 organization_id: '2015126'
 year_submitted: 2015
 organization_name: Los Angeles Mayor Eric Garcetti Great Streets Initiative
-organization_website: www.lagreatstreets.tumblr.com
+organization_website:
+  - www.lagreatstreets.tumblr.com
 ein: '956000735'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'

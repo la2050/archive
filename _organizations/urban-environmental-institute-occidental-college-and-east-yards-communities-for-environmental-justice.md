@@ -4,7 +4,8 @@ year_submitted: 2015
 organization_name: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice
-organization_website: www.oxy.edu/uepi www.eycej.org
+organization_website:
+  - www.oxy.edu/uepi www.eycej.org
 ein: '951667177'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'

@@ -2,7 +2,8 @@
 organization_id: '2014040'
 year_submitted: 2014
 organization_name: Ghetto Film School
-organization_website: www.ghettofilm.org
+organization_website:
+  - www.ghettofilm.org
 ein: '134127229'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134127229'

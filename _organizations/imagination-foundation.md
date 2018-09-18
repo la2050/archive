@@ -2,7 +2,8 @@
 organization_id: '2015089'
 year_submitted: 2015
 organization_name: Imagination Foundation
-organization_website: www.imagination.is
+organization_website:
+  - www.imagination.is
 ein: '300742986'
 zip: '90086'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300742986'

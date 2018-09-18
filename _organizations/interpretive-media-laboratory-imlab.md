@@ -2,7 +2,8 @@
 organization_id: '2014044'
 year_submitted: 2014
 organization_name: Interpretive Media Laboratory (IMLab)
-organization_website: 'http://imlab.ucla.edu'
+organization_website:
+  - 'http://imlab.ucla.edu'
 ein: '956006143'
 zip: 90095-1622
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

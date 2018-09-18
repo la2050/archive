@@ -2,7 +2,8 @@
 organization_id: '2016148'
 year_submitted: 2016
 organization_name: Milk + Bookies
-organization_website: milkandbookies.org
+organization_website:
+  - milkandbookies.org
 ein: '263245228'
 zip: '90404'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263245228'

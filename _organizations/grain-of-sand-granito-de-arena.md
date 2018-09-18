@@ -2,7 +2,8 @@
 organization_id: '2013083'
 year_submitted: 2013
 organization_name: Grain of Sand - Granito de Arena
-organization_website: 'http://gsantamonic6.wix.com/granito-de-arena#!'
+organization_website:
+  - 'http://gsantamonic6.wix.com/granito-de-arena#!'
 ein: '460667294'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460667294'

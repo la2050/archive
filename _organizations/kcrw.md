@@ -2,7 +2,8 @@
 organization_id: '2016117'
 year_submitted: 2016
 organization_name: KCRW
-organization_website: KCRW.com
+organization_website:
+  - KCRW.com
 ein: '953750631'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953750631'

@@ -2,7 +2,8 @@
 organization_id: '2015145'
 year_submitted: 2015
 organization_name: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
-organization_website: www.nfte.com/la
+organization_website:
+  - www.nfte.com/la
 ein: '133408731'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133408731'

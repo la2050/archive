@@ -2,7 +2,8 @@
 organization_id: '2018071'
 year_submitted: 2018
 organization_name: Long Beach Downtown Development Corporation
-organization_website: www.DTLBbusiness.com
+organization_website:
+  - www.DTLBbusiness.com
 ein: '275334557'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=275334557'

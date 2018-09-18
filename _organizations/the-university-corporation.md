@@ -2,7 +2,8 @@
 organization_id: '2015208'
 year_submitted: 2015
 organization_name: The University Corporation
-organization_website: 'http://www.csun.edu/'
+organization_website:
+  - 'http://www.csun.edu/'
 ein: '951992732'
 zip: 91330-8309
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951992732'

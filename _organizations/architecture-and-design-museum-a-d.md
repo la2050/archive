@@ -2,7 +2,8 @@
 organization_id: '2015012'
 year_submitted: 2015
 organization_name: Architecture and Design Museum (A+D)
-organization_website: www.aplusd.org
+organization_website:
+  - www.aplusd.org
 ein: '481269978'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'

@@ -2,7 +2,8 @@
 organization_id: '2013115'
 year_submitted: 2013
 organization_name: LA Riverside Country Club
-organization_website: lariversidecountryclub.com
+organization_website:
+  - lariversidecountryclub.com
 ein: '270983281'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270983281'

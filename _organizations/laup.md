@@ -2,7 +2,8 @@
 organization_id: '2013118'
 year_submitted: 2013
 organization_name: LAUP
-organization_website: laup.net
+organization_website:
+  - laup.net
 ein: '223902958'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'

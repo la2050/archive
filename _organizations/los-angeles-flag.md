@@ -2,7 +2,8 @@
 organization_id: '2015124'
 year_submitted: 2015
 organization_name: Los Angeles Flag
-organization_website: www.losangelesflag.org
+organization_website:
+  - www.losangelesflag.org
 ein: '475236157'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475236157'

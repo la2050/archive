@@ -2,7 +2,8 @@
 organization_id: '2016182'
 year_submitted: 2016
 organization_name: Relational Medicine Foundation
-organization_website: relationalmedicinefoundation.org
+organization_website:
+  - relationalmedicinefoundation.org
 ein: '452683013'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452683013'

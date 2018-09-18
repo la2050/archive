@@ -2,7 +2,8 @@
 organization_id: '2015131'
 year_submitted: 2015
 organization_name: Los Angeles Underwater Explorers; Ghost Fishing
-organization_website: www.ghostfishing.org
+organization_website:
+  - www.ghostfishing.org
 ein: '465551374'
 zip: '90068'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465551374'

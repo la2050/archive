@@ -2,7 +2,8 @@
 organization_id: '2014087'
 year_submitted: 2014
 organization_name: The Bitch Pack
-organization_website: thebitchpack.com
+organization_website:
+  - thebitchpack.com
 ein: '954445418'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954445418'

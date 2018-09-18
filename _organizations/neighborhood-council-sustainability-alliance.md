@@ -2,7 +2,8 @@
 organization_id: '2015143'
 year_submitted: 2015
 organization_name: Neighborhood Council Sustainability Alliance
-organization_website: 'http://ncsa.nationbuilder.com/'
+organization_website:
+  - 'http://ncsa.nationbuilder.com/'
 ein: '475283695'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475283695'

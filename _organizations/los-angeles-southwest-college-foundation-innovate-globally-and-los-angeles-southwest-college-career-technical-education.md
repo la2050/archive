@@ -4,9 +4,9 @@ year_submitted: 2015
 organization_name: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
   Southwest College Career & Technical Education
-organization_website: >-
-  www.lasc.edu/community/foundation/index.html,
-  https://codetechiq.splashthat.com/
+organization_website:
+  - www.lasc.edu/community/foundation/index.html
+  - ' https://codetechiq.splashthat.com/'
 ein: '953941686'
 zip: '90047'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953941686'

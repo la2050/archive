@@ -2,7 +2,8 @@
 organization_id: '2016128'
 year_submitted: 2016
 organization_name: Las Fotos Project
-organization_website: www.lasfotosproject.org
+organization_website:
+  - www.lasfotosproject.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

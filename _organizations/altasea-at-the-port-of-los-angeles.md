@@ -2,7 +2,8 @@
 organization_id: '2016007'
 year_submitted: 2016
 organization_name: AltaSea at the Port of Los Angeles
-organization_website: altasea.org
+organization_website:
+  - altasea.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

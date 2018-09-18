@@ -2,7 +2,8 @@
 organization_id: '2016086'
 year_submitted: 2016
 organization_name: Future Roots Inc.
-organization_website: dublab.com
+organization_website:
+  - dublab.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

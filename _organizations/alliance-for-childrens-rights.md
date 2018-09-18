@@ -2,7 +2,8 @@
 organization_id: '2015006'
 year_submitted: 2015
 organization_name: Alliance for Children's Rights
-organization_website: www.kids-alliance.org
+organization_website:
+  - www.kids-alliance.org
 ein: '954358213'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954358213'

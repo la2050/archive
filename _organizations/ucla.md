@@ -2,7 +2,8 @@
 organization_id: '2015216'
 year_submitted: 2015
 organization_name: UCLA
-organization_website: www.ucla.edu
+organization_website:
+  - www.ucla.edu
 ein: '956006143'
 zip: 90095-1656
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

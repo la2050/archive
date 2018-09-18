@@ -2,17 +2,22 @@
 organization_id: '2018081'
 year_submitted: 2018
 organization_name: Mayor’s Fund for Los Angeles
-organization_website: 'https://mayorsfundla.org/,https://www.lamayor.org/'
+organization_website:
+  - 'https://mayorsfundla.org/'
+  - 'https://www.lamayor.org/'
 ein: '471084641'
 zip: '20001'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471084641'
 ntee_type: ''
 tags_indicators:
   - 'Social Connectedness: Volunteerism'
-twitter: '["@MayorsFundLA","@MayorOfLA"]'
+twitter:
+  - '@MayorsFundLA'
+  - '@MayorOfLA'
 instagram: 'https://www.instagram.com/mayorofla/'
-facebook: >-
-  ["https://www.facebook.com/mayorsfundla/","https://www.facebook.com/MayorOfLA/"]
+facebook:
+  - 'https://www.facebook.com/mayorsfundla/'
+  - 'https://www.facebook.com/MayorOfLA/'
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg

@@ -2,7 +2,8 @@
 organization_id: '2015151'
 year_submitted: 2015
 organization_name: Para Los Niños
-organization_website: www.paralosninos.org
+organization_website:
+  - www.paralosninos.org
 ein: '953443276'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953443276'

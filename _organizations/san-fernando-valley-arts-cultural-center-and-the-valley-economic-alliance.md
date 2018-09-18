@@ -2,7 +2,8 @@
 organization_id: '2015173'
 year_submitted: 2015
 organization_name: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
-organization_website: www.sfvacc.org and www.thevalley.net
+organization_website:
+  - www.sfvacc.org and www.thevalley.net
 ein: '474978841'
 zip: '91403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474978841'

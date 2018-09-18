@@ -2,7 +2,8 @@
 organization_id: '2015117'
 year_submitted: 2015
 organization_name: Local Roots
-organization_website: www.localrootsfarms.com
+organization_website:
+  - www.localrootsfarms.com
 ein: '464783761'
 zip: '90058'
 charity_navigator_url: ''

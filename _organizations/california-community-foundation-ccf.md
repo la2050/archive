@@ -2,7 +2,8 @@
 organization_id: '2013027'
 year_submitted: 2013
 organization_name: California Community Foundation (CCF)
-organization_website: www.calfund.org/bloom
+organization_website:
+  - www.calfund.org/bloom
 ein: '953510055'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953510055'

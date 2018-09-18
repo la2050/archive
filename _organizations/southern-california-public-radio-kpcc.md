@@ -2,7 +2,8 @@
 organization_id: '2016199'
 year_submitted: 2016
 organization_name: Southern California Public Radio (KPCC)
-organization_website: www.kpcc.org
+organization_website:
+  - www.kpcc.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

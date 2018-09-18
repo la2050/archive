@@ -2,7 +2,8 @@
 organization_id: '2013029'
 year_submitted: 2013
 organization_name: CARECEN (Central American Resource Center)
-organization_website: 'http://www.carecen-la.org/'
+organization_website:
+  - 'http://www.carecen-la.org/'
 ein: '953867724'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953867724'

@@ -2,7 +2,8 @@
 organization_id: '2013072'
 year_submitted: 2013
 organization_name: ForYourArt
-organization_website: www.ForYourArt.com
+organization_website:
+  - www.ForYourArt.com
 ein: '421709725'
 zip: ''
 charity_navigator_url: ''

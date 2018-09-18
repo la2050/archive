@@ -2,7 +2,8 @@
 organization_id: '2015122'
 year_submitted: 2015
 organization_name: Los Angeles County Economic Development Corporation
-organization_website: 'http://laedc.org/'
+organization_website:
+  - 'http://laedc.org/'
 ein: '953643339'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'

@@ -2,7 +2,8 @@
 organization_id: '2014043'
 year_submitted: 2014
 organization_name: i.am.angel Foundation
-organization_website: www.iamangelfoundation.org
+organization_website:
+  - www.iamangelfoundation.org
 ein: '273419857'
 zip: '90038'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273419857'

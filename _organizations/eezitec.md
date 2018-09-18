@@ -2,7 +2,8 @@
 organization_id: '2015056'
 year_submitted: 2015
 organization_name: EEZITEC
-organization_website: www.eezitec.com
+organization_website:
+  - www.eezitec.com
 ein: '472691696'
 zip: ''
 charity_navigator_url: ''

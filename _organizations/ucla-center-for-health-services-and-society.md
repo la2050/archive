@@ -2,7 +2,8 @@
 organization_id: '2018129'
 year_submitted: 2018
 organization_name: UCLA Center for Health Services and Society
-organization_website: 'http://hss.semel.ucla.edu'
+organization_website:
+  - 'http://hss.semel.ucla.edu'
 ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

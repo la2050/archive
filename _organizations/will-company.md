@@ -2,7 +2,8 @@
 organization_id: '2014106'
 year_submitted: 2014
 organization_name: Will & Company
-organization_website: 'http://www.willandcompany.com'
+organization_website:
+  - 'http://www.willandcompany.com'
 ein: '954215225'
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954215225'

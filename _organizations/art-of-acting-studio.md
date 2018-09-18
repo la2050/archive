@@ -2,7 +2,8 @@
 organization_id: '2015014'
 year_submitted: 2015
 organization_name: Art of Acting Studio
-organization_website: www.artofactingstudio.com/
+organization_website:
+  - www.artofactingstudio.com/
 ein: '134112234'
 zip: '90038'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134112234'

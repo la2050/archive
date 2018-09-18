@@ -2,7 +2,8 @@
 organization_id: '2015125'
 year_submitted: 2015
 organization_name: Los Angeles Maritime Institute
-organization_website: www.LAMITopSail.org
+organization_website:
+  - www.LAMITopSail.org
 ein: '330515416'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330515416'

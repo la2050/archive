@@ -2,7 +2,8 @@
 organization_id: '2015156'
 year_submitted: 2015
 organization_name: Plug In South LA
-organization_website: www.pluginsouthla.com
+organization_website:
+  - www.pluginsouthla.com
 ein: '475199699'
 zip: '90066'
 charity_navigator_url: ''

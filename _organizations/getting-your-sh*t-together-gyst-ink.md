@@ -2,7 +2,8 @@
 organization_id: '2014039'
 year_submitted: 2014
 organization_name: Getting Your Sh*t Together (GYST-INK)
-organization_website: www.gyst-ink.com
+organization_website:
+  - www.gyst-ink.com
 ein: '465347621'
 zip: '90027'
 charity_navigator_url: ''

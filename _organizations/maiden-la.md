@@ -2,7 +2,8 @@
 organization_id: '2016144'
 year_submitted: 2016
 organization_name: Maiden LA
-organization_website: maiden.la
+organization_website:
+  - maiden.la
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015041'
 year_submitted: 2015
 organization_name: Colossi
-organization_website: theColossi.co
+organization_website:
+  - theColossi.co
 ein: '474259326'
 zip: ''
 charity_navigator_url: ''

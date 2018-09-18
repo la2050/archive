@@ -2,7 +2,8 @@
 organization_id: '2015178'
 year_submitted: 2015
 organization_name: Sequoyah School
-organization_website: www.sequoyahschool.org
+organization_website:
+  - www.sequoyahschool.org
 ein: '952022023'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952022023'

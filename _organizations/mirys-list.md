@@ -2,7 +2,8 @@
 organization_id: '2018083'
 year_submitted: 2018
 organization_name: Miry’s List
-organization_website: www.miryslist.org
+organization_website:
+  - www.miryslist.org
 ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'

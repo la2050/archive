@@ -2,7 +2,8 @@
 organization_id: '2013214'
 year_submitted: 2013
 organization_name: verynice
-organization_website: verynice.co
+organization_website:
+  - verynice.co
 ein: '455282740'
 zip: ''
 charity_navigator_url: ''

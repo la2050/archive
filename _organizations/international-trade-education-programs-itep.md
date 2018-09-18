@@ -2,7 +2,8 @@
 organization_id: '2016112'
 year_submitted: 2016
 organization_name: International Trade Education Programs (ITEP)
-organization_website: www.itepinc.org
+organization_website:
+  - www.itepinc.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

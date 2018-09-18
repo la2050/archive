@@ -2,7 +2,8 @@
 organization_id: '2015029'
 year_submitted: 2015
 organization_name: ChallengeMaker
-organization_website: www.challengemaker.com
+organization_website:
+  - www.challengemaker.com
 ein: '471275838'
 zip: '90026'
 charity_navigator_url: ''

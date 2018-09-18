@@ -2,7 +2,8 @@
 organization_id: '2015190'
 year_submitted: 2015
 organization_name: spcaLA
-organization_website: www.spcaLA.com
+organization_website:
+  - www.spcaLA.com
 ein: '951738153'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951738153'

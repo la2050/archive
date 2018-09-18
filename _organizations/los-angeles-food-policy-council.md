@@ -2,7 +2,8 @@
 organization_id: '2016135'
 year_submitted: 2016
 organization_name: Los Angeles Food Policy Council
-organization_website: www.goodfoodla.org
+organization_website:
+  - www.goodfoodla.org
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

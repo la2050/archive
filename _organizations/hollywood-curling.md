@@ -2,7 +2,8 @@
 organization_id: '2015086'
 year_submitted: 2015
 organization_name: Hollywood Curling
-organization_website: www.hollywoodcurling.org
+organization_website:
+  - www.hollywoodcurling.org
 ein: '262477682'
 zip: '91409'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262477682'

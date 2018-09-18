@@ -2,7 +2,8 @@
 organization_id: '2016220'
 year_submitted: 2016
 organization_name: The Help Group's STEM3 Academy
-organization_website: www.STEM3Academy.org
+organization_website:
+  - www.STEM3Academy.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2013126'
 year_submitted: 2013
 organization_name: Los Angeles Walks
-organization_website: 'http://www.losangeleswalks.org/'
+organization_website:
+  - 'http://www.losangeleswalks.org/'
 ein: '954845170'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'

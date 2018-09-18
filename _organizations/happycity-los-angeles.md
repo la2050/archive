@@ -2,7 +2,8 @@
 organization_id: '2015079'
 year_submitted: 2015
 organization_name: HappyCity Los Angeles
-organization_website: 'http://www.happycity.us/'
+organization_website:
+  - 'http://www.happycity.us/'
 ein: '472219458'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472219458'

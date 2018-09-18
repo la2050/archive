@@ -2,7 +2,8 @@
 organization_id: '2016097'
 year_submitted: 2016
 organization_name: Healthy Living Productions
-organization_website: www.healthylivingprod.org
+organization_website:
+  - www.healthylivingprod.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

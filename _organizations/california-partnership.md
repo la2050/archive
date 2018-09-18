@@ -2,7 +2,8 @@
 organization_id: '2016031'
 year_submitted: 2016
 organization_name: California Partnership
-organization_website: www.california-partnership.org
+organization_website:
+  - www.california-partnership.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

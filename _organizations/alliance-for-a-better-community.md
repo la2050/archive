@@ -2,7 +2,8 @@
 organization_id: '2013006'
 year_submitted: 2013
 organization_name: Alliance for a Better Community
-organization_website: 'http://www.afabc.org'
+organization_website:
+  - 'http://www.afabc.org'
 ein: '311760082'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311760082'

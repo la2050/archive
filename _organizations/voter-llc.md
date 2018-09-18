@@ -2,7 +2,8 @@
 organization_id: '2015223'
 year_submitted: 2015
 organization_name: 'Voter, LLC'
-organization_website: www.voter.xyz
+organization_website:
+  - www.voter.xyz
 ein: '464743109'
 zip: '90401'
 charity_navigator_url: ''

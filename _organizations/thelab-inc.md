@@ -2,7 +2,8 @@
 organization_id: '2015210'
 year_submitted: 2015
 organization_name: 'TheLab, Inc'
-organization_website: 'http://www.thel4b.com/'
+organization_website:
+  - 'http://www.thel4b.com/'
 ein: '452390782'
 zip: '91101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452390782'

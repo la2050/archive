@@ -2,7 +2,8 @@
 organization_id: '2013053'
 year_submitted: 2013
 organization_name: DIYFO (Do-It-Yourself. For Others.)
-organization_website: 'http://www.diyfo.org'
+organization_website:
+  - 'http://www.diyfo.org'
 ein: '453753219'
 zip: ''
 charity_navigator_url: ''

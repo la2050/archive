@@ -87,6 +87,8 @@ category_metrics:
   - Resilient communities
 category_other:
   - LA is the healthiest place to CONNECT
+challenge_url: >-
+  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
 body_class: lime
 
 ---

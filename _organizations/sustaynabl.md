@@ -2,7 +2,8 @@
 organization_id: '2015193'
 year_submitted: 2015
 organization_name: Sustaynabl
-organization_website: 'http://www.sustaynabl.com/'
+organization_website:
+  - 'http://www.sustaynabl.com/'
 ein: '475118457'
 zip: '90017'
 charity_navigator_url: ''

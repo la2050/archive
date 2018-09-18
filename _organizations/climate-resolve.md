@@ -2,7 +2,8 @@
 organization_id: '2015038'
 year_submitted: 2015
 organization_name: Climate Resolve
-organization_website: www.climateresolve.org
+organization_website:
+  - www.climateresolve.org
 ein: '4647362978'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=4647362978'

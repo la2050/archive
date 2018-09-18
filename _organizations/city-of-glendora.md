@@ -2,7 +2,8 @@
 organization_id: '2015033'
 year_submitted: 2015
 organization_name: City of Glendora
-organization_website: www.cityofglendora.org
+organization_website:
+  - www.cityofglendora.org
 ein: '956000715'
 zip: '91741'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000715'

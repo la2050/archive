@@ -2,7 +2,8 @@
 organization_id: '2013114'
 year_submitted: 2013
 organization_name: La Loma Development Company
-organization_website: www.lalomadevelopment.com
+organization_website:
+  - www.lalomadevelopment.com
 ein: '260139462'
 zip: ''
 charity_navigator_url: ''

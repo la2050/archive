@@ -2,7 +2,8 @@
 organization_id: '2015164'
 year_submitted: 2015
 organization_name: 'Re:Ciclos and Bicycle Kitchen'
-organization_website: 'http://reciclos.org'
+organization_website:
+  - 'http://reciclos.org'
 ein: '260454089'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260454089'

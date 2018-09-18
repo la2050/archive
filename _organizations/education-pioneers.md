@@ -2,7 +2,8 @@
 organization_id: '2013058'
 year_submitted: 2013
 organization_name: Education Pioneers
-organization_website: www.educationpioneers.org
+organization_website:
+  - www.educationpioneers.org
 ein: '770602311'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770602311'

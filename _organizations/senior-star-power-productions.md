@@ -2,7 +2,8 @@
 organization_id: '2014080'
 year_submitted: 2014
 organization_name: Senior Star Power Productions
-organization_website: www.seniorstarpower.org
+organization_website:
+  - www.seniorstarpower.org
 ein: '454380818'
 zip: '91367'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454380818'

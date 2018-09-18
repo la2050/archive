@@ -2,7 +2,8 @@
 organization_id: '2015021'
 year_submitted: 2015
 organization_name: Breaking into Hollywood
-organization_website: www.breakingintohollywood.org
+organization_website:
+  - www.breakingintohollywood.org
 ein: '611500533'
 zip: '90212'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611500533'

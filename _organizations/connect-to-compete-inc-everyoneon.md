@@ -2,7 +2,8 @@
 organization_id: '2018030'
 year_submitted: 2018
 organization_name: 'Connect to Compete, Inc (EveryoneOn)'
-organization_website: www.everyoneon.org
+organization_website:
+  - www.everyoneon.org
 ein: '454868462'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454868462'
@@ -14,7 +15,7 @@ tags_indicators:
   - Underserved communities
   - Inclusion
 twitter: '@Everyone_On'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/EveryoneOn/'
 org_type: Nonprofit
 project_image: >-

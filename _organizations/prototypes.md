@@ -2,7 +2,8 @@
 organization_id: '2015161'
 year_submitted: 2015
 organization_name: Prototypes
-organization_website: www.prototypes.org
+organization_website:
+  - www.prototypes.org
 ein: '954092046'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954092046'

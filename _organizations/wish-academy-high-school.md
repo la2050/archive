@@ -2,7 +2,8 @@
 organization_id: '2016257'
 year_submitted: 2016
 organization_name: WISH Academy High School
-organization_website: WWW.WISHacademyhs.org
+organization_website:
+  - WWW.WISHacademyhs.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,9 @@
 organization_id: '2013040'
 year_submitted: 2013
 organization_name: CIVIC PROJECTS
-organization_website: 'www.civicprojects.org/pickuppopupproduce, www.osborn320.com'
+organization_website:
+  - www.civicprojects.org/pickuppopupproduce
+  - ' www.osborn320.com'
 ein: '274568770'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274568770'

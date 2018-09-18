@@ -84,6 +84,7 @@ category_metrics:
   - Patents per capita
 category_other:
   - LA is the best place to LEARN
+challenge_url: 'https://activation.la2050.org/create/hacker-fund/'
 body_class: banana
 
 ---

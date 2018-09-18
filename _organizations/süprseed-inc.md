@@ -2,14 +2,15 @@
 organization_id: '2018113'
 year_submitted: 2018
 organization_name: 'SÜPRSEED, Inc.'
-organization_website: www.suprmarkt.la
+organization_website:
+  - www.suprmarkt.la
 ein: '823768348'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823768348'
 ntee_type: ''
 tags_indicators:
   - '#N/A'
-twitter: ''
+twitter: 0
 instagram: www.instagram.com/supr.mrkt
 facebook: www.facebook.com/suprmarkt
 org_type: Nonprofit

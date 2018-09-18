@@ -2,7 +2,8 @@
 organization_id: '2013201'
 year_submitted: 2013
 organization_name: UCLA Dept. of Architecture and Urban Design
-organization_website: 'http://www.aud.ucla.edu'
+organization_website:
+  - 'http://www.aud.ucla.edu'
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

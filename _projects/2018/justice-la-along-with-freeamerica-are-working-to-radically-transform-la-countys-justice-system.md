@@ -169,6 +169,7 @@ category_metrics:
 category_other:
   - LA is the best place to CREATE
   - LA is the healthiest place to LIVE
+challenge_url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
 body_class: tangerine
 
 ---

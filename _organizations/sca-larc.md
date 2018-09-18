@@ -2,7 +2,8 @@
 organization_id: '2016191'
 year_submitted: 2016
 organization_name: SCA-LARC
-organization_website: sca-larc.com
+organization_website:
+  - sca-larc.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

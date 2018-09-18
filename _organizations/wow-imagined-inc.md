@@ -2,7 +2,8 @@
 organization_id: '2016259'
 year_submitted: 2016
 organization_name: 'WOW Imagined, Inc.'
-organization_website: www.inspiredparenting.com
+organization_website:
+  - www.inspiredparenting.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2016215'
 year_submitted: 2016
 organization_name: The Children's Lifesaving Foundation
-organization_website: www.childrenslifesaving.org
+organization_website:
+  - www.childrenslifesaving.org
 ein: '954371286'
 zip: '90403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954371286'

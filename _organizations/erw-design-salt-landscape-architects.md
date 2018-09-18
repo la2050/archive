@@ -2,7 +2,8 @@
 organization_id: '2013062'
 year_submitted: 2013
 organization_name: ERW DESIGN + SALT Landscape Architects
-organization_website: 'http://www.park-in-a-box.la'
+organization_website:
+  - 'http://www.park-in-a-box.la'
 ein: 'ERW: 364519595 SALT: 271758961'
 zip: ''
 charity_navigator_url: ''

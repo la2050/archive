@@ -2,7 +2,8 @@
 organization_id: '2015048'
 year_submitted: 2015
 organization_name: Dharma Health Institute
-organization_website: www.dharmahealthinstitute.com
+organization_website:
+  - www.dharmahealthinstitute.com
 ein: '954116679'
 zip: '90036'
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2016101'
 year_submitted: 2016
 organization_name: Hollywood Arts Council
-organization_website: hollywoodartscouncil.org
+organization_website:
+  - hollywoodartscouncil.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

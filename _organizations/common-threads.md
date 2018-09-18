@@ -2,7 +2,8 @@
 organization_id: '2016050'
 year_submitted: 2016
 organization_name: Common Threads
-organization_website: www.commonthreads.org
+organization_website:
+  - www.commonthreads.org
 ein: '200106847'
 zip: '78746'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200106847'

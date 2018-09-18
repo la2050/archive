@@ -2,7 +2,8 @@
 organization_id: '2014081'
 year_submitted: 2014
 organization_name: Skid Row Housing Trust
-organization_website: www.skidrow.org
+organization_website:
+  - www.skidrow.org
 ein: '954205316'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954205316'

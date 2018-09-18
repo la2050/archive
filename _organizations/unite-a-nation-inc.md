@@ -2,7 +2,8 @@
 organization_id: '2016243'
 year_submitted: 2016
 organization_name: 'Unite A Nation, Inc.'
-organization_website: www.uniteanation.org
+organization_website:
+  - www.uniteanation.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

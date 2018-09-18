@@ -2,7 +2,8 @@
 organization_id: '2015116'
 year_submitted: 2015
 organization_name: Local Initiatives Support Corporation (LISC) Los Angeles
-organization_website: www.lisc.org/los_angeles/
+organization_website:
+  - www.lisc.org/los_angeles/
 ein: '133030229'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133030229'

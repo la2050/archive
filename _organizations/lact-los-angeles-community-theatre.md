@@ -2,7 +2,8 @@
 organization_id: '2015110'
 year_submitted: 2015
 organization_name: LACT - Los Angeles Community Theatre
-organization_website: www.losangelescommunitytheatre.org
+organization_website:
+  - www.losangelescommunitytheatre.org
 ein: '475244207'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475244207'

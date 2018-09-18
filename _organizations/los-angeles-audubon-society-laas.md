@@ -2,7 +2,8 @@
 organization_id: '2016133'
 year_submitted: 2016
 organization_name: Los Angeles Audubon Society (LAAS)
-organization_website: www.laaudubon.org
+organization_website:
+  - www.laaudubon.org
 ein: '956093704'
 zip: 90041-8301
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956093704'

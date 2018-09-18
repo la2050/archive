@@ -2,7 +2,8 @@
 organization_id: '2016253'
 year_submitted: 2016
 organization_name: Westside Urban Forum
-organization_website: www.westsideurbanforum.com
+organization_website:
+  - www.westsideurbanforum.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015052'
 year_submitted: 2015
 organization_name: Dreamhaus Inc.
-organization_website: www.dreamhausla.org
+organization_website:
+  - www.dreamhausla.org
 ein: '471275709'
 zip: '90301'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471275709'

@@ -2,7 +2,8 @@
 organization_id: '2013069'
 year_submitted: 2013
 organization_name: FLARB LLC
-organization_website: 'http://flarb.com'
+organization_website:
+  - 'http://flarb.com'
 ein: '200142792'
 zip: ''
 charity_navigator_url: ''

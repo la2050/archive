@@ -2,7 +2,8 @@
 organization_id: '2013128'
 year_submitted: 2013
 organization_name: LTSC Community Development Corporation
-organization_website: www.LTSC.org
+organization_website:
+  - www.LTSC.org
 ein: '954444102'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954444102'

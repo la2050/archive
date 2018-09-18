@@ -2,7 +2,8 @@
 organization_id: '2018059'
 year_submitted: 2018
 organization_name: L.A. Kitchen
-organization_website: 'http://www.lakitchen.org/'
+organization_website:
+  - 'http://www.lakitchen.org/'
 ein: '461639779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461639779'

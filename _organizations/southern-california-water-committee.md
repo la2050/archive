@@ -2,7 +2,8 @@
 organization_id: '2015189'
 year_submitted: 2015
 organization_name: Southern California Water Committee
-organization_website: 'http://www.socalwater.org/'
+organization_website:
+  - 'http://www.socalwater.org/'
 ein: '330081886'
 zip: '91604'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330081886'

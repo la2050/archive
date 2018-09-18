@@ -2,7 +2,8 @@
 organization_id: '2014108'
 year_submitted: 2014
 organization_name: WomenShelter of Long Beach
-organization_website: www.womenshelterlb.org
+organization_website:
+  - www.womenshelterlb.org
 ein: '951644058'
 zip: '90832'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644058'

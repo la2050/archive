@@ -2,7 +2,8 @@
 organization_id: '2018014'
 year_submitted: 2018
 organization_name: CASA of Los Angeles
-organization_website: www.casala.org
+organization_website:
+  - www.casala.org
 ein: '953890446'
 zip: '90068'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953890446'

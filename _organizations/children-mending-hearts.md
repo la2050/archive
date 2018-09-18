@@ -2,7 +2,8 @@
 organization_id: '2013032'
 year_submitted: 2013
 organization_name: Children Mending Hearts
-organization_website: 'http://www.childrenmendinghearts.org'
+organization_website:
+  - 'http://www.childrenmendinghearts.org'
 ein: '264131176'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264131176'

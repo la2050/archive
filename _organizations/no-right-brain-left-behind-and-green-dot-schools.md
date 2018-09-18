@@ -2,7 +2,8 @@
 organization_id: '2013145'
 year_submitted: 2013
 organization_name: No Right Brain Left Behind and Green Dot Schools
-organization_website: www.rightbrainsare.us
+organization_website:
+  - www.rightbrainsare.us
 ein: '954679811'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954679811'

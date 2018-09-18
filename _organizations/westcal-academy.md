@@ -2,7 +2,8 @@
 organization_id: '2015224'
 year_submitted: 2015
 organization_name: WestCal Academy
-organization_website: www.westcalacademy.com
+organization_website:
+  - www.westcalacademy.com
 ein: '473703367'
 zip: '90249'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473703367'

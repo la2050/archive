@@ -2,7 +2,8 @@
 organization_id: '2016185'
 year_submitted: 2016
 organization_name: River LA (formerly LA River Revitalization Corporation)
-organization_website: www.riverla.org
+organization_website:
+  - www.riverla.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2016046'
 year_submitted: 2016
 organization_name: 'Coligo, Inc.'
-organization_website: www.coligo.co
+organization_website:
+  - www.coligo.co
 ein: ''
 zip: ''
 charity_navigator_url: ''

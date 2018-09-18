@@ -2,7 +2,8 @@
 organization_id: '2015098'
 year_submitted: 2015
 organization_name: Julie Rico DBA as O Fine Art
-organization_website: www.juliericogallery.com
+organization_website:
+  - www.juliericogallery.com
 ein: 472268086‏
 zip: '90012'
 charity_navigator_url: ''

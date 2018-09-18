@@ -143,6 +143,7 @@ category_metrics:
   - Exposure to air toxins
 category_other:
   - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/move-la-a-project-of-community-partners/'
 body_class: lime
 
 ---

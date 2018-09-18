@@ -2,7 +2,8 @@
 organization_id: '2015201'
 year_submitted: 2015
 organization_name: The Institute for Nonviolence in Los Angeles
-organization_website: www.invla.org
+organization_website:
+  - www.invla.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

@@ -2,7 +2,8 @@
 organization_id: '2016198'
 year_submitted: 2016
 organization_name: Southern California Center for Nonprofit Management
-organization_website: www.cnmsocal.org
+organization_website:
+  - www.cnmsocal.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

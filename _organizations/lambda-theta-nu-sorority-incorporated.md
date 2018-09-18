@@ -2,7 +2,8 @@
 organization_id: '2013117'
 year_submitted: 2013
 organization_name: 'Lambda Theta Nu Sorority, Incorporated'
-organization_website: www.lambdathetanu.org
+organization_website:
+  - www.lambdathetanu.org
 ein: '943292874'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943292874'

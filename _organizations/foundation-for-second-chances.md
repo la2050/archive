@@ -2,7 +2,8 @@
 organization_id: '2015066'
 year_submitted: 2015
 organization_name: Foundation for Second Chances
-organization_website: 'http://www.ffscinc.org/'
+organization_website:
+  - 'http://www.ffscinc.org/'
 ein: '432067664'
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=432067664'

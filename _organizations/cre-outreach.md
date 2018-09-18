@@ -2,7 +2,8 @@
 organization_id: '2013046'
 year_submitted: 2013
 organization_name: CRE Outreach
-organization_website: www.creoutreach.org
+organization_website:
+  - www.creoutreach.org
 ein: '261127320'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261127320'

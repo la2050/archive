@@ -2,7 +2,9 @@
 organization_id: '2018104'
 year_submitted: 2018
 organization_name: Roadtrip Nation
-organization_website: 'www.roadtripnation.com,roadtripnation.org'
+organization_website:
+  - www.roadtripnation.com
+  - roadtripnation.org
 ein: '263889207'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263889207'

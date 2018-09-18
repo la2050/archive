@@ -2,7 +2,8 @@
 organization_id: '2015064'
 year_submitted: 2015
 organization_name: FEAL.LA
-organization_website: www.fealla.com
+organization_website:
+  - www.fealla.com
 ein: '475245567'
 zip: '90021'
 charity_navigator_url: ''

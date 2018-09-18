@@ -2,7 +2,8 @@
 organization_id: '2013134'
 year_submitted: 2013
 organization_name: 'Million Trees LA, a project of Community Partners'
-organization_website: facebook.com/MillionTreesLA
+organization_website:
+  - facebook.com/MillionTreesLA
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

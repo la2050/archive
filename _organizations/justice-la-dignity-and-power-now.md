@@ -2,7 +2,8 @@
 organization_id: '2018056'
 year_submitted: 2018
 organization_name: Justice LA | Dignity and Power Now
-organization_website: www.JusticeLA.org
+organization_website:
+  - www.JusticeLA.org
 ein: '463064675'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463064675'

@@ -2,7 +2,8 @@
 organization_id: '2013055'
 year_submitted: 2013
 organization_name: EDDEFY
-organization_website: www.eddefy.com
+organization_website:
+  - www.eddefy.com
 ein: '461912903'
 zip: ''
 charity_navigator_url: ''

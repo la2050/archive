@@ -2,7 +2,8 @@
 organization_id: '2014049'
 year_submitted: 2014
 organization_name: LACE Center
-organization_website: www.LACECenter.tumblr.com
+organization_website:
+  - www.LACECenter.tumblr.com
 ein: '954230350'
 zip: '90018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'

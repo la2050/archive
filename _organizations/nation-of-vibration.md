@@ -2,7 +2,8 @@
 organization_id: '2016154'
 year_submitted: 2016
 organization_name: Nation of Vibration
-organization_website: nationofvibration.com
+organization_website:
+  - nationofvibration.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2013172'
 year_submitted: 2013
 organization_name: Step Up Women's Network
-organization_website: www.suwn.org
+organization_website:
+  - www.suwn.org
 ein: '954701468'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954701468'

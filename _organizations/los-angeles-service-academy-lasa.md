@@ -2,7 +2,8 @@
 organization_id: '2018077'
 year_submitted: 2018
 organization_name: Los Angeles Service Academy (LASA)
-organization_website: 'http://laserviceacademy.org;'
+organization_website:
+  - 'http://laserviceacademy.org;'
 ein: '951644589'
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'

@@ -2,7 +2,8 @@
 organization_id: '2016179'
 year_submitted: 2016
 organization_name: PSSST
-organization_website: www.pssst.xyz
+organization_website:
+  - www.pssst.xyz
 ein: ''
 zip: ''
 charity_navigator_url: ''

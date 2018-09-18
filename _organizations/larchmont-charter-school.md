@@ -2,7 +2,8 @@
 organization_id: '2018064'
 year_submitted: 2018
 organization_name: Larchmont Charter School
-organization_website: www.larchmontcharter.org
+organization_website:
+  - www.larchmontcharter.org
 ein: '571206928'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'

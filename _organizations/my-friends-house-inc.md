@@ -2,7 +2,8 @@
 organization_id: '2018087'
 year_submitted: 2018
 organization_name: 'My Friends House, Inc.'
-organization_website: 'http://myfriendshouseinc.org/'
+organization_website:
+  - 'http://myfriendshouseinc.org/'
 ein: '262718485'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262718485'
@@ -11,7 +12,7 @@ tags_indicators:
   - 'Health: Healthy food'
   - Food inequality
 twitter: '@MyFriendsHse'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/My-Friends-House-Inc-436222196498017/'
 org_type: Nonprofit
 project_image: >-

@@ -2,7 +2,8 @@
 organization_id: '2015218'
 year_submitted: 2015
 organization_name: UNITE-LA
-organization_website: www.lacashforcollege.org
+organization_website:
+  - www.lacashforcollege.org
 ein: '820576380'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820576380'

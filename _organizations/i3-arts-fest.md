@@ -2,7 +2,8 @@
 organization_id: '2016106'
 year_submitted: 2016
 organization_name: I3 Arts Fest
-organization_website: www.i3artsfest.com
+organization_website:
+  - www.i3artsfest.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

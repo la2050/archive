@@ -2,7 +2,8 @@
 organization_id: '2015020'
 year_submitted: 2015
 organization_name: Boys & Girls Clubs of Carson
-organization_website: www.bgccarson.org
+organization_website:
+  - www.bgccarson.org
 ein: '330475452'
 zip: 90810-1652
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330475452'

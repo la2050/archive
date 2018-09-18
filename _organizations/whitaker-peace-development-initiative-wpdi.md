@@ -2,7 +2,8 @@
 organization_id: '2016255'
 year_submitted: 2016
 organization_name: Whitaker Peace & Development Initiative (WPDI)
-organization_website: www.wpdi.org
+organization_website:
+  - www.wpdi.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

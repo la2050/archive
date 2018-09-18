@@ -2,7 +2,8 @@
 organization_id: '2016176'
 year_submitted: 2016
 organization_name: 'PowerMyLearning, Inc.'
-organization_website: powermylearning.org
+organization_website:
+  - powermylearning.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

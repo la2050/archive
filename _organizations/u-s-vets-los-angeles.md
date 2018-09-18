@@ -2,7 +2,8 @@
 organization_id: '2013200'
 year_submitted: 2013
 organization_name: U.S. VETS - Los Angeles
-organization_website: 'http://www.usvetsinc.org'
+organization_website:
+  - 'http://www.usvetsinc.org'
 ein: '954382752'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954382752'

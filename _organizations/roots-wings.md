@@ -2,7 +2,8 @@
 organization_id: '2018105'
 year_submitted: 2018
 organization_name: Roots & Wings
-organization_website: rootsnwings.org
+organization_website:
+  - rootsnwings.org
 ein: '821894269'
 zip: '90017'
 charity_navigator_url: ''
@@ -12,7 +13,7 @@ tags_indicators:
   - 'Health: Mental health care'
   - Youth
   - Children
-twitter: ''
+twitter: 0
 instagram: rootsnwings_malibu
 facebook: >-
   Roots-Wings-Counseling-Classes-Coaching-for-a-Meaningful-Life-1952358844987700/

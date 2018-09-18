@@ -2,7 +2,8 @@
 organization_id: '2014092'
 year_submitted: 2014
 organization_name: The L.A. Fort
-organization_website: www.thelafort.net
+organization_website:
+  - www.thelafort.net
 ein: '952540759'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'

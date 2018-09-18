@@ -2,7 +2,8 @@
 organization_id: '2015063'
 year_submitted: 2015
 organization_name: Farm LA
-organization_website: www.farmla.org
+organization_website:
+  - www.farmla.org
 ein: '473050128'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473050128'

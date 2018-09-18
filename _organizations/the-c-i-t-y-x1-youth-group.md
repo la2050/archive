@@ -2,7 +2,8 @@
 organization_id: '2016214'
 year_submitted: 2016
 organization_name: The C.I.T.Y. x1 Youth Group
-organization_website: www.cityx1.org
+organization_website:
+  - www.cityx1.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

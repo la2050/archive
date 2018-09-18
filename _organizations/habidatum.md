@@ -2,7 +2,8 @@
 organization_id: '2016096'
 year_submitted: 2016
 organization_name: Habidatum
-organization_website: habidatum.com
+organization_website:
+  - habidatum.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

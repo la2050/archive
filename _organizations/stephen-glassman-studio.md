@@ -2,7 +2,8 @@
 organization_id: '2013173'
 year_submitted: 2013
 organization_name: Stephen Glassman Studio
-organization_website: www.urbanair.is
+organization_website:
+  - www.urbanair.is
 ein: '263261159'
 zip: ''
 charity_navigator_url: ''

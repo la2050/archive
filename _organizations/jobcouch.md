@@ -2,7 +2,8 @@
 organization_id: '2015097'
 year_submitted: 2015
 organization_name: JobCouch
-organization_website: www.jobcouch.com/secret
+organization_website:
+  - www.jobcouch.com/secret
 ein: '465572000'
 zip: '91362'
 charity_navigator_url: ''

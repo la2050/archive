@@ -2,7 +2,8 @@
 organization_id: '2014107'
 year_submitted: 2014
 organization_name: 'With Love Market and Cafe, With Love Community Market and Cafe'
-organization_website: Communitymarketandcafe.com
+organization_website:
+  - Communitymarketandcafe.com
 ein: '463776168'
 zip: ''
 charity_navigator_url: ''

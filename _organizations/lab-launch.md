@@ -2,7 +2,8 @@
 organization_id: '2015109'
 year_submitted: 2015
 organization_name: Lab Launch
-organization_website: www.lablaunch.org
+organization_website:
+  - www.lablaunch.org
 ein: '471621472'
 zip: '91016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471621472'

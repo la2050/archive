@@ -2,7 +2,8 @@
 organization_id: '2016244'
 year_submitted: 2016
 organization_name: United Friends of the Children
-organization_website: www.unitedfriends.org
+organization_website:
+  - www.unitedfriends.org
 ein: '953665186'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953665186'

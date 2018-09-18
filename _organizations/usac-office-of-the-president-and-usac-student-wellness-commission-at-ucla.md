@@ -2,7 +2,8 @@
 organization_id: '2015222'
 year_submitted: 2015
 organization_name: USAC Office of the President and USAC Student Wellness Commission at UCLA
-organization_website: www.allofus.care
+organization_website:
+  - www.allofus.care
 ein: '951777979'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951777979'

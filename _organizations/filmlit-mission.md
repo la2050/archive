@@ -2,7 +2,8 @@
 organization_id: '2016077'
 year_submitted: 2016
 organization_name: FILMLIT MISSION
-organization_website: filmlit.org
+organization_website:
+  - filmlit.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

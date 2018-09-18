@@ -2,7 +2,8 @@
 organization_id: '2018120'
 year_submitted: 2018
 organization_name: 'The Natch, INC.'
-organization_website: thenatch.co
+organization_website:
+  - thenatch.co
 ein: '813470225'
 zip: '90021'
 charity_navigator_url: ''

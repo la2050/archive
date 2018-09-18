@@ -2,7 +2,8 @@
 organization_id: '2016235'
 year_submitted: 2016
 organization_name: thecool
-organization_website: thecool.la
+organization_website:
+  - thecool.la
 ein: ''
 zip: ''
 charity_navigator_url: ''

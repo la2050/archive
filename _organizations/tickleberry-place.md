@@ -2,7 +2,8 @@
 organization_id: '2016238'
 year_submitted: 2016
 organization_name: Tickleberry Place
-organization_website: tickleberryplace.com
+organization_website:
+  - tickleberryplace.com
 ein: '465040951'
 zip: '90008'
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2016092'
 year_submitted: 2016
 organization_name: Grassroots Training for Health
-organization_website: www.academyofstrengthandsport.com
+organization_website:
+  - www.academyofstrengthandsport.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2016081'
 year_submitted: 2016
 organization_name: Four Rings
-organization_website: fourrings.co
+organization_website:
+  - fourrings.co
 ein: ''
 zip: ''
 charity_navigator_url: ''

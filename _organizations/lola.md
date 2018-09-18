@@ -2,7 +2,8 @@
 organization_id: '2018069'
 year_submitted: 2018
 organization_name: LOLA
-organization_website: www.lola.cool
+organization_website:
+  - www.lola.cool
 ein: '301007192'
 zip: '90036'
 charity_navigator_url: ''

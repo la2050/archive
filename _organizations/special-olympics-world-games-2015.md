@@ -2,7 +2,8 @@
 organization_id: '2014084'
 year_submitted: 2014
 organization_name: Special Olympics World Games 2015
-organization_website: www.la2015.org
+organization_website:
+  - www.la2015.org
 ein: '452853870'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452853870'

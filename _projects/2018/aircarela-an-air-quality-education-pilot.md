@@ -84,6 +84,8 @@ category_metrics:
   - Prevalence of adverse childhood experiences
 category_other:
   - LA is the best place to PLAY
+challenge_url: >-
+  https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
 body_class: lime
 
 ---

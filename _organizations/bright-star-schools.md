@@ -2,7 +2,8 @@
 organization_id: '2013023'
 year_submitted: 2013
 organization_name: Bright Star Schools
-organization_website: www.brightstarschools.org
+organization_website:
+  - www.brightstarschools.org
 ein: '550806673'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=550806673'

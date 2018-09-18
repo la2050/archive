@@ -2,7 +2,8 @@
 organization_id: '2016172'
 year_submitted: 2016
 organization_name: Planned Parenthood Los Angeles (PPLA)
-organization_website: www.plannedparenthood.org/planned-parenthood-los-angeles
+organization_website:
+  - www.plannedparenthood.org/planned-parenthood-los-angeles
 ein: '952408623'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952408623'

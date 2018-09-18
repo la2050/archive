@@ -126,6 +126,8 @@ category_other:
   - LA is the best place to LEARN
   - LA is the best place to CREATE
   - LA is the healthiest place to CONNECT
+challenge_url: >-
+  https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
 body_class: lime
 
 ---

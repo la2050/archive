@@ -2,7 +2,8 @@
 organization_id: '2014066'
 year_submitted: 2014
 organization_name: Peace Allies
-organization_website: PeaceAllies.org
+organization_website:
+  - PeaceAllies.org
 ein: '471459497'
 zip: '91711'
 charity_navigator_url: ''

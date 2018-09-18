@@ -2,7 +2,8 @@
 organization_id: '2014065'
 year_submitted: 2014
 organization_name: Optimizing National Education
-organization_website: 'http://www.careerprepadvantage.org/la.htm'
+organization_website:
+  - 'http://www.careerprepadvantage.org/la.htm'
 ein: '330744619'
 zip: '90640'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330744619'

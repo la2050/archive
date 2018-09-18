@@ -2,8 +2,9 @@
 organization_id: '2015057'
 year_submitted: 2015
 organization_name: El Basurero
-organization_website: >-
-  http://www.huffingtonpost.com/joel-epstein/koreatown-el-basurero_b_5611765.html
+organization_website:
+  - >-
+    http://www.huffingtonpost.com/joel-epstein/koreatown-el-basurero_b_5611765.html
 ein: '113388344'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=113388344'

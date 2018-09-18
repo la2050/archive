@@ -2,7 +2,8 @@
 organization_id: '2018139'
 year_submitted: 2018
 organization_name: World Harvest Charities & Family Services
-organization_website: 'http://www.worldharvestfoodbank.org'
+organization_website:
+  - 'http://www.worldharvestfoodbank.org'
 ein: '392064653'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=392064653'

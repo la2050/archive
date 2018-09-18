@@ -2,7 +2,8 @@
 organization_id: '2015054'
 year_submitted: 2015
 organization_name: EARN
-organization_website: 'http://www.earn.org'
+organization_website:
+  - 'http://www.earn.org'
 ein: '912172676'
 zip: '94104'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912172676'

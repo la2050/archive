@@ -2,7 +2,8 @@
 organization_id: '2015028'
 year_submitted: 2015
 organization_name: Center for Innovation at the LAEDC
-organization_website: www.innovate.la
+organization_website:
+  - www.innovate.la
 ein: '953643339'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953643339'

@@ -2,7 +2,8 @@
 organization_id: '2018130'
 year_submitted: 2018
 organization_name: UCLA Mobile Eye Clinic (UMEC)
-organization_website: www.uclahealth.org/umec
+organization_website:
+  - www.uclahealth.org/umec
 ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

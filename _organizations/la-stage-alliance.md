@@ -2,7 +2,8 @@
 organization_id: '2014048'
 year_submitted: 2014
 organization_name: LA STAGE Alliance
-organization_website: 'http://lastagealliance.com/'
+organization_website:
+  - 'http://lastagealliance.com/'
 ein: '510183348'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510183348'

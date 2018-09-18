@@ -2,7 +2,8 @@
 organization_id: '2016193'
 year_submitted: 2016
 organization_name: 'SilverMotion, Inc.'
-organization_website: equiz.com
+organization_website:
+  - equiz.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

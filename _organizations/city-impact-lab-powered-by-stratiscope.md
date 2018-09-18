@@ -2,16 +2,24 @@
 organization_id: '2018024'
 year_submitted: 2018
 organization_name: 'City Impact Lab, powered by Stratiscope'
-organization_website: 'www.stratiscope.com,www.cityimpactlab.com'
+organization_website:
+  - www.stratiscope.com
+  - www.cityimpactlab.com
 ein: '463084511'
 zip: '94965'
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
   - 'Social Connectedness: Underserved communities'
-twitter: '["@Stratiscope","@CityImpactLab"]'
-instagram: '["@Stratiscope","@CityImpactLab"]'
-facebook: '["facebook.com/Stratiscope","facebook.com/CityImpactLabLA"]'
+twitter:
+  - '@Stratiscope'
+  - '@CityImpactLab'
+instagram:
+  - '@Stratiscope'
+  - '@CityImpactLab'
+facebook:
+  - facebook.com/Stratiscope
+  - facebook.com/CityImpactLabLA
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg

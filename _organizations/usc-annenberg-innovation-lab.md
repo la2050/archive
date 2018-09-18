@@ -2,7 +2,8 @@
 organization_id: '2016250'
 year_submitted: 2016
 organization_name: USC Annenberg Innovation Lab
-organization_website: annenberglab.com
+organization_website:
+  - annenberglab.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

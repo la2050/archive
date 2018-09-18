@@ -2,7 +2,8 @@
 organization_id: '2013036'
 year_submitted: 2013
 organization_name: CityLife-LA
-organization_website: 'http://citylife-la.org'
+organization_website:
+  - 'http://citylife-la.org'
 ein: '461878739'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461878739'

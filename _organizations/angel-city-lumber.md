@@ -2,7 +2,8 @@
 organization_id: '2015009'
 year_submitted: 2015
 organization_name: Angel City Lumber
-organization_website: www.angelcitylumber.com
+organization_website:
+  - www.angelcitylumber.com
 ein: '474574079'
 zip: '90039'
 charity_navigator_url: ''

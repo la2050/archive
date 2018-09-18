@@ -2,7 +2,8 @@
 organization_id: '2016216'
 year_submitted: 2016
 organization_name: The Edible Apartment
-organization_website: www.TheEdibleApartment.org
+organization_website:
+  - www.TheEdibleApartment.org
 ein: '475129866'
 zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475129866'

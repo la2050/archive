@@ -2,7 +2,8 @@
 organization_id: '2018131'
 year_submitted: 2018
 organization_name: United Parents and Students
-organization_website: 'http://unitedparentsandstudents.org/'
+organization_website:
+  - 'http://unitedparentsandstudents.org/'
 ein: '813413763'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
@@ -13,8 +14,8 @@ tags_indicators:
   - Policy
   - Communities of color
   - Training and development
-twitter: ''
-instagram: ''
+twitter: 0
+instagram: 0
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'
 org_type: Nonprofit
 project_image: >-

@@ -2,7 +2,8 @@
 organization_id: '2013035'
 year_submitted: 2013
 organization_name: cityLAB-UCLA
-organization_website: 'http://www.cityLAB.aud.ucla.edu'
+organization_website:
+  - 'http://www.cityLAB.aud.ucla.edu'
 ein: '956006143'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'

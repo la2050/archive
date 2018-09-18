@@ -2,7 +2,8 @@
 organization_id: '2014076'
 year_submitted: 2014
 organization_name: Rangoli Foundation for Art & Culture
-organization_website: rangoli.org
+organization_website:
+  - rangoli.org
 ein: '954443724'
 zip: '91403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954443724'

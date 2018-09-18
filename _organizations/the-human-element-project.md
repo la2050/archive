@@ -2,7 +2,8 @@
 organization_id: '2014090'
 year_submitted: 2014
 organization_name: The Human Element Project
-organization_website: thehumanelementproject.com
+organization_website:
+  - thehumanelementproject.com
 ein: '912039095'
 zip: '91362'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912039095'

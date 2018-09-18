@@ -2,7 +2,8 @@
 organization_id: '2016011'
 year_submitted: 2016
 organization_name: Annenberg Innovation Lab
-organization_website: www.annenberglab.com
+organization_website:
+  - www.annenberglab.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

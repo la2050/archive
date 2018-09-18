@@ -2,7 +2,8 @@
 organization_id: '2018008'
 year_submitted: 2018
 organization_name: Big Citizen HUB
-organization_website: www.investinyouthco.com
+organization_website:
+  - www.investinyouthco.com
 ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

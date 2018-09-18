@@ -2,7 +2,8 @@
 organization_id: '2015046'
 year_submitted: 2015
 organization_name: Council for Watershed Health
-organization_website: www.watershedhealth.org
+organization_website:
+  - www.watershedhealth.org
 ein: '261198327'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261198327'

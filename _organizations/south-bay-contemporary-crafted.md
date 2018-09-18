@@ -2,7 +2,8 @@
 organization_id: '2015185'
 year_submitted: 2015
 organization_name: 'South Bay Contemporary, CRAFTED'
-organization_website: www.southbaycontemporary.com
+organization_website:
+  - www.southbaycontemporary.com
 ein: '611720055'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611720055'

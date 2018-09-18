@@ -110,6 +110,7 @@ category_metrics:
   - Prevalence of adverse childhood experiences
 category_other:
   - LA is the best place to LEARN
+challenge_url: 'https://activation.la2050.org/live/roots-wings/'
 body_class: banana
 
 ---

@@ -2,7 +2,8 @@
 organization_id: '2015001'
 year_submitted: 2015
 organization_name: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
-organization_website: www.ihadla.org
+organization_website:
+  - www.ihadla.org
 ein: '954089758'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954089758'

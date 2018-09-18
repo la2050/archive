@@ -2,7 +2,8 @@
 organization_id: '2016256'
 year_submitted: 2016
 organization_name: Wisdom Arts Laboratory
-organization_website: www.wisdomartslaboratory.com
+organization_website:
+  - www.wisdomartslaboratory.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

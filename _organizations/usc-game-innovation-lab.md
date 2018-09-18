@@ -2,7 +2,8 @@
 organization_id: '2014104'
 year_submitted: 2014
 organization_name: USC Game Innovation Lab
-organization_website: 'http://interactive.usc.edu/game-innovation-lab/'
+organization_website:
+  - 'http://interactive.usc.edu/game-innovation-lab/'
 ein: '951642394'
 zip: 90089-2211
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'

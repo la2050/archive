@@ -2,7 +2,8 @@
 organization_id: '2016080'
 year_submitted: 2016
 organization_name: Food Oasis Los Angeles
-organization_website: foodoasis.la
+organization_website:
+  - foodoasis.la
 ein: ''
 zip: ''
 charity_navigator_url: ''

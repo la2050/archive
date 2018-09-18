@@ -2,7 +2,8 @@
 organization_id: '2016043'
 year_submitted: 2016
 organization_name: CoachArt
-organization_website: www.coachart.org
+organization_website:
+  - www.coachart.org
 ein: '943389547'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943389547'

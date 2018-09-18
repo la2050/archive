@@ -2,7 +2,8 @@
 organization_id: '2015187'
 year_submitted: 2015
 organization_name: 'Southern California College Access Network, a Project of Community Partners'
-organization_website: www.socalcollegeaccess.org
+organization_website:
+  - www.socalcollegeaccess.org
 ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

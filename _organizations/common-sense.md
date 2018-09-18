@@ -2,7 +2,8 @@
 organization_id: '2018029'
 year_submitted: 2018
 organization_name: Common Sense
-organization_website: www.commonsense.org
+organization_website:
+  - www.commonsense.org
 ein: '412024986'
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=412024986'

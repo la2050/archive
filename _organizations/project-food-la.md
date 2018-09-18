@@ -2,7 +2,8 @@
 organization_id: '2013156'
 year_submitted: 2013
 organization_name: Project Food LA
-organization_website: 'https://www.facebook.com/ProjectFoodLosAngeles?fref=ts'
+organization_website:
+  - 'https://www.facebook.com/ProjectFoodLosAngeles?fref=ts'
 ein: '952803401'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952803401'

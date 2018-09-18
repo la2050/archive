@@ -2,7 +2,8 @@
 organization_id: '2015159'
 year_submitted: 2015
 organization_name: Project Backboard
-organization_website: 'http://www.projectbackboard.org/'
+organization_website:
+  - 'http://www.projectbackboard.org/'
 ein: '475245280'
 zip: '91030'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475245280'

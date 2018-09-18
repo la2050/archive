@@ -124,6 +124,7 @@ category_metrics:
   - Rates of volunteerism
 category_other:
   - LA is the best place to CREATE
+challenge_url: 'https://activation.la2050.org/connect/citizens-of-culture/'
 body_class: tangerine
 
 ---

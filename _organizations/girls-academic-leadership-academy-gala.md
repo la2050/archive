@@ -2,7 +2,8 @@
 organization_id: '2018045'
 year_submitted: 2018
 organization_name: Girls Academic Leadership Academy (GALA)
-organization_website: www.fogala.org
+organization_website:
+  - www.fogala.org
 ein: '812014188'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812014188'

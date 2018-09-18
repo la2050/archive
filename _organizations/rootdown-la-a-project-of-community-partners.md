@@ -2,7 +2,8 @@
 organization_id: '2015170'
 year_submitted: 2015
 organization_name: 'RootDown LA, A project of Community Partners'
-organization_website: 'http://www.rootdownla.org'
+organization_website:
+  - 'http://www.rootdownla.org'
 ein: '954302067'
 zip: '90011'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'

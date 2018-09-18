@@ -2,7 +2,8 @@
 organization_id: '2013074'
 year_submitted: 2013
 organization_name: Freewaves
-organization_website: www.out-the-window.org
+organization_website:
+  - www.out-the-window.org
 ein: '954476207'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954476207'

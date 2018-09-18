@@ -4,7 +4,8 @@ year_submitted: 2015
 organization_name: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)
-organization_website: www.scopela.org
+organization_website:
+  - www.scopela.org
 ein: '954635737'
 zip: '90047'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954635737'

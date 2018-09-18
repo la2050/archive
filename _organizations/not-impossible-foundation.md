@@ -2,7 +2,8 @@
 organization_id: '2018090'
 year_submitted: 2018
 organization_name: Not Impossible Foundation
-organization_website: www.notimpossible.com
+organization_website:
+  - www.notimpossible.com
 ein: '451601262'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451601262'

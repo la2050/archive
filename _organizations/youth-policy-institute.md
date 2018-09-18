@@ -2,7 +2,8 @@
 organization_id: '2018140'
 year_submitted: 2018
 organization_name: Youth Policy Institute
-organization_website: www.ypiusa.org
+organization_website:
+  - www.ypiusa.org
 ein: '521278339'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521278339'

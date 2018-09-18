@@ -4,7 +4,8 @@ year_submitted: 2013
 organization_name: >-
   LA CAUSA (Los Angeles Community Advocating for Unity Social Justice and
   Action)
-organization_website: lacausainc.org
+organization_website:
+  - lacausainc.org
 ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'

@@ -2,7 +2,8 @@
 organization_id: '2013167'
 year_submitted: 2013
 organization_name: smartestk12.com
-organization_website: 'http://www.smartestk12.com'
+organization_website:
+  - 'http://www.smartestk12.com'
 ein: '461700311'
 zip: ''
 charity_navigator_url: ''

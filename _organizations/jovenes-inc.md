@@ -2,7 +2,8 @@
 organization_id: '2014159'
 year_submitted: 2014
 organization_name: 'Jovenes, Inc.'
-organization_website: www.tbnconnect.org
+organization_website:
+  - www.tbnconnect.org
 ein: '954342434'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954342434'

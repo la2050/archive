@@ -2,7 +2,8 @@
 organization_id: '2016213'
 year_submitted: 2016
 organization_name: The Burg
-organization_website: burg.io
+organization_website:
+  - burg.io
 ein: ''
 zip: ''
 charity_navigator_url: ''

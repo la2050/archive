@@ -2,7 +2,8 @@
 organization_id: '2016058'
 year_submitted: 2016
 organization_name: 'Core Innovate, Inc. & Century Academy for Excellence'
-organization_website: www.coreinnovate.com
+organization_website:
+  - www.coreinnovate.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2015078'
 year_submitted: 2015
 organization_name: 'GrowGood, Inc.'
-organization_website: www.grow-good.org
+organization_website:
+  - www.grow-good.org
 ein: '455472840'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455472840'

@@ -2,7 +2,8 @@
 organization_id: '2014099'
 year_submitted: 2014
 organization_name: 'Theatrum Elysium, San Pedro Rep'
-organization_website: www.SanPedroRep.org
+organization_website:
+  - www.SanPedroRep.org
 ein: '455055360'
 zip: '90731'
 charity_navigator_url: ''

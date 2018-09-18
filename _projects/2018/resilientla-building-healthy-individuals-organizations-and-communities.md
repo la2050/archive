@@ -105,6 +105,7 @@ category_metrics:
 category_other:
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/lumos-transforms/'
 body_class: lime
 
 ---

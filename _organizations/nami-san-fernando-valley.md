@@ -2,7 +2,8 @@
 organization_id: '2016152'
 year_submitted: 2016
 organization_name: NAMI San Fernando Valley
-organization_website: namisfv.org
+organization_website:
+  - namisfv.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

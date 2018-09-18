@@ -2,7 +2,8 @@
 organization_id: '2018117'
 year_submitted: 2018
 organization_name: The Brady Center to Prevent Gun Violence
-organization_website: 'http://bradycampaign.org'
+organization_website:
+  - 'http://bradycampaign.org'
 ein: '521285097'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521285097'

@@ -2,7 +2,8 @@
 organization_id: '2016053'
 year_submitted: 2016
 organization_name: Community Health Councils
-organization_website: www.chc-inc.org
+organization_website:
+  - www.chc-inc.org
 ein: '954487664'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954487664'

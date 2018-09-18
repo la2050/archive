@@ -2,7 +2,8 @@
 organization_id: '2014069'
 year_submitted: 2014
 organization_name: Play the LA River
-organization_website: 'http://playthelariver.com/'
+organization_website:
+  - 'http://playthelariver.com/'
 ein: '272245545'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272245545'

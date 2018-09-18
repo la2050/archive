@@ -2,7 +2,8 @@
 organization_id: '2016240'
 year_submitted: 2016
 organization_name: UCLA Institute of the Environment and Sustainability (IOES)
-organization_website: www.ioes.ucla.edu
+organization_website:
+  - www.ioes.ucla.edu
 ein: ''
 zip: ''
 charity_navigator_url: ''

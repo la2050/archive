@@ -128,6 +128,7 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/cardborigami-inc/'
 body_class: lime
 
 ---

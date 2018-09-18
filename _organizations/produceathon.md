@@ -2,7 +2,8 @@
 organization_id: '2018097'
 year_submitted: 2018
 organization_name: ProduceAthon
-organization_website: www.produceAthon.org
+organization_website:
+  - www.produceAthon.org
 ein: '300945310'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'

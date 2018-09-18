@@ -2,7 +2,8 @@
 organization_id: '2016035'
 year_submitted: 2016
 organization_name: Capital & Main
-organization_website: capitalandmain.com
+organization_website:
+  - capitalandmain.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

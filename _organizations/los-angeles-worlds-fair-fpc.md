@@ -2,7 +2,8 @@
 organization_id: '2015132'
 year_submitted: 2015
 organization_name: 'Los Angeles World''s Fair, FPC'
-organization_website: www.laworldsfair.org
+organization_website:
+  - www.laworldsfair.org
 ein: '462004059'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462004059'

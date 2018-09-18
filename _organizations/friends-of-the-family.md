@@ -2,7 +2,8 @@
 organization_id: '2016084'
 year_submitted: 2016
 organization_name: Friends of the Family
-organization_website: www.fofca.org
+organization_website:
+  - www.fofca.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

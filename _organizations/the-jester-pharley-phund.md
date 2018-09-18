@@ -2,7 +2,8 @@
 organization_id: '2016223'
 year_submitted: 2016
 organization_name: The Jester & Pharley Phund
-organization_website: www.thejester.org
+organization_website:
+  - www.thejester.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

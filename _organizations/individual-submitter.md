@@ -2,7 +2,8 @@
 organization_id: '2015091'
 year_submitted: 2015
 organization_name: Individual submitter
-organization_website: www.allhale.net
+organization_website:
+  - www.allhale.net
 ein: '542988389'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=542988389'

@@ -2,7 +2,8 @@
 organization_id: '2015211'
 year_submitted: 2015
 organization_name: Thinking about Tomorrow
-organization_website: www.thinkingabouttomorrow.org
+organization_website:
+  - www.thinkingabouttomorrow.org
 ein: '270530056'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270530056'

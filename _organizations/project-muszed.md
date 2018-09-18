@@ -2,7 +2,8 @@
 organization_id: '2015160'
 year_submitted: 2015
 organization_name: Project MuszEd
-organization_website: www.projectmuszed.org
+organization_website:
+  - www.projectmuszed.org
 ein: '203037195'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203037195'

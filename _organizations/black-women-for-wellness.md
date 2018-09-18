@@ -2,7 +2,8 @@
 organization_id: '2018009'
 year_submitted: 2018
 organization_name: Black Women for Wellness
-organization_website: www.bwwla.org
+organization_website:
+  - www.bwwla.org
 ein: '954624707'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954624707'

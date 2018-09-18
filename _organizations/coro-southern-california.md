@@ -2,7 +2,8 @@
 organization_id: '2018031'
 year_submitted: 2018
 organization_name: Coro Southern California
-organization_website: www.corola.org
+organization_website:
+  - www.corola.org
 ein: '954274561'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954274561'

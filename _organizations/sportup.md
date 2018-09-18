@@ -2,7 +2,8 @@
 organization_id: '2016201'
 year_submitted: 2016
 organization_name: SportUp
-organization_website: sportup.com
+organization_website:
+  - sportup.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

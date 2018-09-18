@@ -2,7 +2,8 @@
 organization_id: '2014109'
 year_submitted: 2014
 organization_name: World Peace One
-organization_website: 'http://worldpeaceone.com'
+organization_website:
+  - 'http://worldpeaceone.com'
 ein: '800240205'
 zip: '33062'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800240205'

@@ -2,7 +2,8 @@
 organization_id: '2014096'
 year_submitted: 2014
 organization_name: The Project for The Imagined Futures
-organization_website: 'http://www.theimaginedfutures.org'
+organization_website:
+  - 'http://www.theimaginedfutures.org'
 ein: '471442056'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471442056'

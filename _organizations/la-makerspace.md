@@ -2,7 +2,8 @@
 organization_id: '2015108'
 year_submitted: 2015
 organization_name: LA Makerspace
-organization_website: www.lamakerspace.com
+organization_website:
+  - www.lamakerspace.com
 ein: '954116679'
 zip: '91615'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'

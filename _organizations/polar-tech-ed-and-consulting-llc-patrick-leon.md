@@ -2,7 +2,8 @@
 organization_id: '2015157'
 year_submitted: 2015
 organization_name: Polar Tech Ed and Consulting LLC/Patrick Leon
-organization_website: 'http://www.polarcomputer.net'
+organization_website:
+  - 'http://www.polarcomputer.net'
 ein: '462805525'
 zip: '85226'
 charity_navigator_url: ''

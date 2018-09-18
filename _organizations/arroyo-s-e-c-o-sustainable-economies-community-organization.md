@@ -2,7 +2,8 @@
 organization_id: '2014008'
 year_submitted: 2014
 organization_name: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
-organization_website: 'http://www.arroyo-seco.org/'
+organization_website:
+  - 'http://www.arroyo-seco.org/'
 ein: '453003702'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453003702'

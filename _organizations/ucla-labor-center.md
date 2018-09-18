@@ -2,7 +2,8 @@
 organization_id: '2013202'
 year_submitted: 2013
 organization_name: UCLA Labor Center
-organization_website: 'http://dreamresourcecenter.org/'
+organization_website:
+  - 'http://dreamresourcecenter.org/'
 ein: '952250801'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952250801'

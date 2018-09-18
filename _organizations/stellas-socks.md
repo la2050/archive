@@ -2,7 +2,8 @@
 organization_id: '2018112'
 year_submitted: 2018
 organization_name: Stella's Socks
-organization_website: www.stellassocks.com
+organization_website:
+  - www.stellassocks.com
 ein: '822734937'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=822734937'

@@ -2,7 +2,8 @@
 organization_id: '2013102'
 year_submitted: 2013
 organization_name: KCET Departures
-organization_website: 'http://www.kcet.org/departures'
+organization_website:
+  - 'http://www.kcet.org/departures'
 ein: '952211661'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952211661'

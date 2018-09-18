@@ -2,7 +2,8 @@
 organization_id: '2013152'
 year_submitted: 2013
 organization_name: Pasadena Arts Council
-organization_website: www.pasadenaartscouncil.org
+organization_website:
+  - www.pasadenaartscouncil.org
 ein: '95254059'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=95254059'

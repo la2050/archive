@@ -2,7 +2,8 @@
 organization_id: '2013155'
 year_submitted: 2013
 organization_name: Playworks Southern California
-organization_website: www.playworks.org/socal
+organization_website:
+  - www.playworks.org/socal
 ein: '943251867'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943251867'

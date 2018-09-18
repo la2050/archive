@@ -2,7 +2,8 @@
 organization_id: '2016044'
 year_submitted: 2016
 organization_name: Coalition for Responsible Community Development
-organization_website: coalitionrcd.org
+organization_website:
+  - coalitionrcd.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

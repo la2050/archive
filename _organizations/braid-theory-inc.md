@@ -2,7 +2,8 @@
 organization_id: '2016023'
 year_submitted: 2016
 organization_name: 'Braid Theory, Inc.'
-organization_website: www.braidtheory.com
+organization_website:
+  - www.braidtheory.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2018075'
 year_submitted: 2018
 organization_name: Los Angeles LGBT Center
-organization_website: lalgbtcenter.org
+organization_website:
+  - lalgbtcenter.org
 ein: '953567895'
 zip: '94114'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'

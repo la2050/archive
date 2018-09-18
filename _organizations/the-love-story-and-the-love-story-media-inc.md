@@ -2,7 +2,8 @@
 organization_id: '2015203'
 year_submitted: 2015
 organization_name: 'The Love Story and The Love Story Media, Inc.'
-organization_website: www.thelovestory.org
+organization_website:
+  - www.thelovestory.org
 ein: '472937595'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472937595'

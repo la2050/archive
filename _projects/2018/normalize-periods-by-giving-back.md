@@ -93,6 +93,7 @@ category_metrics:
   - Rates of mental illness
 category_other:
   - LA is the best place to CREATE
+challenge_url: 'https://activation.la2050.org/live/happyperiod/'
 body_class: lime
 
 ---

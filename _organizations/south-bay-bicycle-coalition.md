@@ -2,7 +2,8 @@
 organization_id: '2018111'
 year_submitted: 2018
 organization_name: South Bay Bicycle Coalition
-organization_website: 'http://www.southbaybicyclecoalition.org/'
+organization_website:
+  - 'http://www.southbaybicyclecoalition.org/'
 ein: ''
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein='

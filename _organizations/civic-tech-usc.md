@@ -2,7 +2,8 @@
 organization_id: '2015035'
 year_submitted: 2015
 organization_name: Civic Tech USC
-organization_website: 'http://civictechusc.org/'
+organization_website:
+  - 'http://civictechusc.org/'
 ein: '951642394'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'

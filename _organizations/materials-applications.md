@@ -2,7 +2,8 @@
 organization_id: '2013131'
 year_submitted: 2013
 organization_name: Materials & Applications
-organization_website: 'http://urbanapplications.org/'
+organization_website:
+  - 'http://urbanapplications.org/'
 ein: '262567190'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262567190'

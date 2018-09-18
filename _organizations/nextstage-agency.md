@@ -2,7 +2,8 @@
 organization_id: '2014063'
 year_submitted: 2014
 organization_name: NextStage Agency
-organization_website: NextStageAgency.com
+organization_website:
+  - NextStageAgency.com
 ein: '471442024'
 zip: '90066'
 charity_navigator_url: ''

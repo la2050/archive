@@ -2,7 +2,8 @@
 organization_id: '2014017'
 year_submitted: 2014
 organization_name: Community Centered
-organization_website: www.communitycentered.org
+organization_website:
+  - www.communitycentered.org
 ein: '371513488'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=371513488'

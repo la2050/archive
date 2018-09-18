@@ -2,7 +2,8 @@
 organization_id: '2013016'
 year_submitted: 2013
 organization_name: Arts for LA
-organization_website: www.artsforla.org
+organization_website:
+  - www.artsforla.org
 ein: '202797313'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=202797313'

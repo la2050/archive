@@ -2,7 +2,8 @@
 organization_id: '2014045'
 year_submitted: 2014
 organization_name: Koreatown Youth and Community Center (KYCC)
-organization_website: 'http://www.kyccla.org'
+organization_website:
+  - 'http://www.kyccla.org'
 ein: '953779389'
 zip: '90020'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953779389'

@@ -2,7 +2,8 @@
 organization_id: '2016115'
 year_submitted: 2016
 organization_name: Joyful Heart Foundation
-organization_website: joyfulheartfoundation.org
+organization_website:
+  - joyfulheartfoundation.org
 ein: '721519537'
 zip: '91101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=721519537'

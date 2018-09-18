@@ -2,7 +2,8 @@
 organization_id: '2016047'
 year_submitted: 2016
 organization_name: College Bridge
-organization_website: www.college-bridge.org
+organization_website:
+  - www.college-bridge.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

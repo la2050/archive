@@ -2,7 +2,8 @@
 organization_id: '2013047'
 year_submitted: 2013
 organization_name: Create LA
-organization_website: 'http://www.create-la.org'
+organization_website:
+  - 'http://www.create-la.org'
 ein: '460815941'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460815941'

@@ -2,7 +2,8 @@
 organization_id: '2013048'
 year_submitted: 2013
 organization_name: Creative Visions Foundation
-organization_website: 'http://www.creativevisions.org'
+organization_website:
+  - 'http://www.creativevisions.org'
 ein: 39190 2814
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=39190 2814'

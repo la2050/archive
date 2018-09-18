@@ -2,7 +2,8 @@
 organization_id: '2016162'
 year_submitted: 2016
 organization_name: Parents Education League
-organization_website: www.parentseducationleague.org
+organization_website:
+  - www.parentseducationleague.org
 ein: '264510950'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264510950'

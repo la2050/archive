@@ -97,6 +97,8 @@ category_metrics:
   - Residents receiving coordinated healthcare services
 category_other:
   - LA is the healthiest place to CONNECT
+challenge_url: >-
+  https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
 body_class: banana
 
 ---

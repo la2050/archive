@@ -2,7 +2,8 @@
 organization_id: '2016065'
 year_submitted: 2016
 organization_name: Doctors for America
-organization_website: www.drsforamerica.org
+organization_website:
+  - www.drsforamerica.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

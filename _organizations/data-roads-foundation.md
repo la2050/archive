@@ -2,7 +2,8 @@
 organization_id: '2018034'
 year_submitted: 2018
 organization_name: Data Roads Foundation
-organization_website: 'https://DataRoads.org'
+organization_website:
+  - 'https://DataRoads.org'
 ein: '311796801'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
@@ -15,7 +16,7 @@ tags_indicators:
   - Small business
   - Women’s advocacy
 twitter: '@jared4dataroads'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/dataroads/'
 org_type: Nonprofit
 project_image: >-

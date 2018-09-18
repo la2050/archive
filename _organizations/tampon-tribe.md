@@ -2,7 +2,8 @@
 organization_id: '2016208'
 year_submitted: 2016
 organization_name: Tampon Tribe
-organization_website: www.tampontribe.com
+organization_website:
+  - www.tampontribe.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

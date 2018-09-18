@@ -2,7 +2,8 @@
 organization_id: '2013079'
 year_submitted: 2013
 organization_name: Generation Green's Contra Costa County Climate Leaders Program
-organization_website: www.cccclimateleaders.org
+organization_website:
+  - www.cccclimateleaders.org
 ein: '731687451'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=731687451'

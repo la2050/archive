@@ -2,7 +2,8 @@
 organization_id: '2015115'
 year_submitted: 2015
 organization_name: 'Living Advantage, Inc.'
-organization_website: www.LivingAdvantageInc.org
+organization_website:
+  - www.LivingAdvantageInc.org
 ein: '954447561'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954447561'

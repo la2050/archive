@@ -2,7 +2,8 @@
 organization_id: '2015061'
 year_submitted: 2015
 organization_name: 'Facing History and Ourselves, Inc.'
-organization_website: www.facinghistory.org
+organization_website:
+  - www.facinghistory.org
 ein: '42761636'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=42761636'

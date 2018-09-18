@@ -2,7 +2,8 @@
 organization_id: '2014042'
 year_submitted: 2014
 organization_name: Holy Ghost Global
-organization_website: holyghostglobal.com
+organization_website:
+  - holyghostglobal.com
 ein: '471412863'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471412863'

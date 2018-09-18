@@ -2,7 +2,8 @@
 organization_id: '2014006'
 year_submitted: 2014
 organization_name: 'Anonymous Good [AG] is a project of Voices4Freedom'
-organization_website: www.anonymousgood.org
+organization_website:
+  - www.anonymousgood.org
 ein: '460876560'
 zip: '90505'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460876560'

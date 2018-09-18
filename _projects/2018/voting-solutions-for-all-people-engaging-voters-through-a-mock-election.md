@@ -119,6 +119,8 @@ category_metrics:
   - Voting rates
 category_other:
   - LA is the best place to CREATE
+challenge_url: >-
+  https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
 body_class: tangerine
 
 ---

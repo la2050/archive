@@ -2,7 +2,8 @@
 organization_id: '2015075'
 year_submitted: 2015
 organization_name: Green Commuter
-organization_website: www.greencommuter.org
+organization_website:
+  - www.greencommuter.org
 ein: '471211258'
 zip: '90401'
 charity_navigator_url: ''

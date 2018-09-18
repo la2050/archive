@@ -2,7 +2,8 @@
 organization_id: '2016258'
 year_submitted: 2016
 organization_name: Worthy of Love
-organization_website: www.worthyoflove.net
+organization_website:
+  - www.worthyoflove.net
 ein: ''
 zip: ''
 charity_navigator_url: ''

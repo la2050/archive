@@ -2,7 +2,8 @@
 organization_id: '2016233'
 year_submitted: 2016
 organization_name: The Triforium Project
-organization_website: triforium.la
+organization_website:
+  - triforium.la
 ein: ''
 zip: ''
 charity_navigator_url: ''

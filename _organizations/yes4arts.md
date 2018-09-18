@@ -2,7 +2,8 @@
 organization_id: '2015227'
 year_submitted: 2015
 organization_name: Yes4arts
-organization_website: www.yes4arts.org
+organization_website:
+  - www.yes4arts.org
 ein: '473851439'
 zip: '90505'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473851439'

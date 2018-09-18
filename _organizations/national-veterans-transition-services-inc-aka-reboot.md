@@ -2,7 +2,8 @@
 organization_id: '2018088'
 year_submitted: 2018
 organization_name: 'National Veterans Transition Services, Inc. AKA REBOOT'
-organization_website: 'http://www.nvtsi.org/'
+organization_website:
+  - 'http://www.nvtsi.org/'
 ein: '800597403'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800597403'

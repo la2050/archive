@@ -2,7 +2,8 @@
 organization_id: '2018057'
 year_submitted: 2018
 organization_name: Kitchen Table App
-organization_website: 'https://www.kitchentableapp.com'
+organization_website:
+  - 'https://www.kitchentableapp.com'
 ein: '821917647'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821917647'

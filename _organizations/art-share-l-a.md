@@ -2,7 +2,8 @@
 organization_id: '2013014'
 year_submitted: 2013
 organization_name: Art Share L.A.
-organization_website: 'http://www.artsharela.org'
+organization_website:
+  - 'http://www.artsharela.org'
 ein: '954660373'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954660373'

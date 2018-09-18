@@ -2,7 +2,8 @@
 organization_id: '2016157'
 year_submitted: 2016
 organization_name: 'New Directions for Youth, Inc'
-organization_website: www.ndfy.org
+organization_website:
+  - www.ndfy.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

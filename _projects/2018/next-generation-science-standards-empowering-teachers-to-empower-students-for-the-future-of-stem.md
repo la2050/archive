@@ -103,6 +103,8 @@ category_metrics:
   - 'Students’ immersion in Science, Technology, Engineering, and Math content'
 category_other:
   - LA is the best place to CREATE
+challenge_url: >-
+  https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
 body_class: blueberry
 
 ---

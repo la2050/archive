@@ -2,7 +2,8 @@
 organization_id: '2015106'
 year_submitted: 2015
 organization_name: Koreatown Immigrant Worker Alliance
-organization_website: 'http://kiwa.org/'
+organization_website:
+  - 'http://kiwa.org/'
 ein: '954392004'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954392004'

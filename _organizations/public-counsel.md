@@ -2,7 +2,8 @@
 organization_id: '2013157'
 year_submitted: 2013
 organization_name: Public Counsel
-organization_website: www.publiccounsel.org
+organization_website:
+  - www.publiccounsel.org
 ein: '237105149'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237105149'

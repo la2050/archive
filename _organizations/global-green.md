@@ -2,7 +2,8 @@
 organization_id: '2018046'
 year_submitted: 2018
 organization_name: Global Green
-organization_website: www.globalgreen.org
+organization_website:
+  - www.globalgreen.org
 ein: '770387124'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770387124'

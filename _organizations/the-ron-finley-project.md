@@ -2,7 +2,8 @@
 organization_id: '2016231'
 year_submitted: 2016
 organization_name: The Ron Finley Project
-organization_website: ronfinley.com
+organization_website:
+  - ronfinley.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

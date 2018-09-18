@@ -2,7 +2,8 @@
 organization_id: '2016069'
 year_submitted: 2016
 organization_name: El Porto Shark
-organization_website: www.elportoshark.com
+organization_website:
+  - www.elportoshark.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

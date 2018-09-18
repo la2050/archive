@@ -2,7 +2,8 @@
 organization_id: '2013086'
 year_submitted: 2013
 organization_name: H.E.L.P.E.R. Foundation
-organization_website: www.helperfoundation.org
+organization_website:
+  - www.helperfoundation.org
 ein: '954759013'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954759013'

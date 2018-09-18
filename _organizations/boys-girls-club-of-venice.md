@@ -2,7 +2,8 @@
 organization_id: '2013021'
 year_submitted: 2013
 organization_name: Boys & Girls Club of Venice
-organization_website: 'http://www.bgcv.org'
+organization_website:
+  - 'http://www.bgcv.org'
 ein: '956209203'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956209203'

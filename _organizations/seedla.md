@@ -2,7 +2,8 @@
 organization_id: '2018107'
 year_submitted: 2018
 organization_name: SeedLA
-organization_website: 'http://seedcg.org/'
+organization_website:
+  - 'http://seedcg.org/'
 ein: '471749354'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471749354'
@@ -13,7 +14,7 @@ tags_indicators:
   - Sustainability
   - Volunteerism
 twitter: seedcg
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/seedusa'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'

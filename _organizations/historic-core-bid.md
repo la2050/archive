@@ -2,7 +2,8 @@
 organization_id: '2016100'
 year_submitted: 2016
 organization_name: Historic Core BID
-organization_website: historiccore.bid
+organization_website:
+  - historiccore.bid
 ein: ''
 zip: ''
 charity_navigator_url: ''

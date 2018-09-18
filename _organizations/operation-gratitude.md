@@ -2,7 +2,8 @@
 organization_id: '2016160'
 year_submitted: 2016
 organization_name: Operation Gratitude
-organization_website: OperationGratitude.com
+organization_website:
+  - OperationGratitude.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

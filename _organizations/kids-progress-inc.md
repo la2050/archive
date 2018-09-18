@@ -2,7 +2,8 @@
 organization_id: '2013106'
 year_submitted: 2013
 organization_name: Kids Progress Inc.
-organization_website: 'http://kidsprogressinc.org'
+organization_website:
+  - 'http://kidsprogressinc.org'
 ein: '651169693'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=651169693'

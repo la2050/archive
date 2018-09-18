@@ -2,7 +2,8 @@
 organization_id: '2013017'
 year_submitted: 2013
 organization_name: 'Arts:Earth Partnership'
-organization_website: www.ArtsEarthPartnership.org
+organization_website:
+  - www.ArtsEarthPartnership.org
 ein: '571151955'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571151955'

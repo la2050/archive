@@ -2,7 +2,8 @@
 organization_id: '2013092'
 year_submitted: 2013
 organization_name: Hub Los Angeles
-organization_website: www.thehubla.com
+organization_website:
+  - www.thehubla.com
 ein: '273558431'
 zip: ''
 charity_navigator_url: ''

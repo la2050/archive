@@ -2,7 +2,8 @@
 organization_id: '2015062'
 year_submitted: 2015
 organization_name: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
-organization_website: www.fallenfruitfromrisingwomen.org
+organization_website:
+  - www.fallenfruitfromrisingwomen.org
 ein: '952925985'
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952925985'

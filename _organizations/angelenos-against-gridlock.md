@@ -2,7 +2,8 @@
 organization_id: '2013010'
 year_submitted: 2013
 organization_name: Angelenos Against Gridlock
-organization_website: 'http://www.endinggridlock.org'
+organization_website:
+  - 'http://www.endinggridlock.org'
 ein: '943179772'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943179772'

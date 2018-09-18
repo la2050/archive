@@ -2,12 +2,10 @@
 organization_id: '2013076'
 year_submitted: 2013
 organization_name: FSBCS dba Community Builders Resource Network (CBRN)
-organization_website: >-
-  http://www.fbcsylmar.com/ FYI, this (outdated) site will not be the
-  representative page of this project. A website developer has already begun
-  work on something for this specific project, it's completion/purchasing the
-  domain are yet undone due to the fact that they are presently tied to yet
-  unfunded budget
+organization_website:
+  - 'http://www.fbcsylmar.com/ FYI'
+  - ' this (outdated) site will not be the representative page of this project. A website developer has already begun work on something for this specific project'
+  - ' it''s completion/purchasing the domain are yet undone due to the fact that they are presently tied to yet unfunded budget'
 ein: '930699645'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=930699645'

@@ -2,7 +2,11 @@
 organization_id: '2018035'
 year_submitted: 2018
 organization_name: East LA Community Corporation (ELACC)
-organization_website: 'www.elacc.org,www.lurnetwork.org,www.goodfoodla.org,www.publiccounsel.org'
+organization_website:
+  - www.elacc.org
+  - www.lurnetwork.org
+  - www.goodfoodla.org
+  - www.publiccounsel.org
 ein: '954531076'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954531076'
@@ -13,10 +17,20 @@ tags_indicators:
   - Small business
   - Entrepreneurship
   - Job training
-twitter: '["@elaccorg","@lurnetwork","@goodfoodla","@publiccounsel"]'
-instagram: '["@elaccorg","@lurnetwork","@lagoodfood"]'
-facebook: >-
-  ["www.facebook.com/ELACCorg","www.facebook.com/LURNetwork","www.facebook.com/losangelesfoodpolicycouncil","www.facebook.com/publiccounsel"]
+twitter:
+  - '@elaccorg'
+  - '@lurnetwork'
+  - '@goodfoodla'
+  - '@publiccounsel'
+instagram:
+  - '@elaccorg'
+  - '@lurnetwork'
+  - '@lagoodfood'
+facebook:
+  - www.facebook.com/ELACCorg
+  - www.facebook.com/LURNetwork
+  - www.facebook.com/losangelesfoodpolicycouncil
+  - www.facebook.com/publiccounsel
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg

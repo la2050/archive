@@ -2,7 +2,8 @@
 organization_id: '2016164'
 year_submitted: 2016
 organization_name: Patrick Henry Foundation
-organization_website: www.patrickhenryfoundation.org
+organization_website:
+  - www.patrickhenryfoundation.org
 ein: '471713238'
 zip: '90714'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471713238'

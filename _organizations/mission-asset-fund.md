@@ -2,7 +2,8 @@
 organization_id: '2013136'
 year_submitted: 2013
 organization_name: Mission Asset Fund
-organization_website: www.missionassetfund.org
+organization_website:
+  - www.missionassetfund.org
 ein: '208993652'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208993652'

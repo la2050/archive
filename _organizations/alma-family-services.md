@@ -2,7 +2,8 @@
 organization_id: '2013008'
 year_submitted: 2013
 organization_name: Alma Family Services
-organization_website: www.almafamilyservices.org
+organization_website:
+  - www.almafamilyservices.org
 ein: '952959331'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952959331'

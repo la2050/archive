@@ -112,6 +112,7 @@ category_metrics:
   - Walk/bike/transit score
 category_other:
   - LA is the best place to PLAY
+challenge_url: 'https://activation.la2050.org/live/the-glue/'
 body_class: lime
 
 ---

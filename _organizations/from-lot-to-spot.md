@@ -2,7 +2,8 @@
 organization_id: '2015069'
 year_submitted: 2015
 organization_name: From Lot to Spot
-organization_website: fromlottospot.org
+organization_website:
+  - fromlottospot.org
 ein: '203359738'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203359738'

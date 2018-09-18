@@ -2,7 +2,8 @@
 organization_id: '2015081'
 year_submitted: 2015
 organization_name: Haunted Play LLC
-organization_website: www.enterdelusion.com
+organization_website:
+  - www.enterdelusion.com
 ein: '943490342'
 zip: '90230'
 charity_navigator_url: ''

@@ -2,7 +2,8 @@
 organization_id: '2014056'
 year_submitted: 2014
 organization_name: Los Angeles Performance Practice
-organization_website: www.LosAngelesPerformancePractice.org
+organization_website:
+  - www.LosAngelesPerformancePractice.org
 ein: '272756584'
 zip: '90027'
 charity_navigator_url: ''

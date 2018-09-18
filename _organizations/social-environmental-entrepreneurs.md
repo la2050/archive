@@ -2,7 +2,8 @@
 organization_id: '2015183'
 year_submitted: 2015
 organization_name: Social & Environmental Entrepreneurs
-organization_website: 'http://www.homefrontrising.org/'
+organization_website:
+  - 'http://www.homefrontrising.org/'
 ein: '954116679'
 zip: '91302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'

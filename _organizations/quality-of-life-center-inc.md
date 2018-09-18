@@ -2,7 +2,8 @@
 organization_id: '2013159'
 year_submitted: 2013
 organization_name: 'Quality of Life Center, Inc.'
-organization_website: www.qualityoflifecenterinc.com
+organization_website:
+  - www.qualityoflifecenterinc.com
 ein: '550896331'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=550896331'

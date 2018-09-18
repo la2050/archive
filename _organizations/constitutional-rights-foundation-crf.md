@@ -2,7 +2,8 @@
 organization_id: '2014021'
 year_submitted: 2014
 organization_name: 'Constitutional Rights Foundation, CRF'
-organization_website: www.crf-usa.org
+organization_website:
+  - www.crf-usa.org
 ein: '952219680'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952219680'

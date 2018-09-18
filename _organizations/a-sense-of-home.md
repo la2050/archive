@@ -2,7 +2,8 @@
 organization_id: '2016004'
 year_submitted: 2016
 organization_name: A Sense of Home
-organization_website: asenseofhome.org
+organization_website:
+  - asenseofhome.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

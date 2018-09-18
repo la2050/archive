@@ -2,7 +2,8 @@
 organization_id: '2016110'
 year_submitted: 2016
 organization_name: Inner-City Arts
-organization_website: www.inner-cityarts.org
+organization_website:
+  - www.inner-cityarts.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

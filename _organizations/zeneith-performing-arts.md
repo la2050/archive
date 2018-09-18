@@ -2,7 +2,8 @@
 organization_id: '2016263'
 year_submitted: 2016
 organization_name: Zeneith Performing Arts
-organization_website: www.zeneithperformingarts.com
+organization_website:
+  - www.zeneithperformingarts.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

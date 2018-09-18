@@ -2,7 +2,8 @@
 organization_id: '2016057'
 year_submitted: 2016
 organization_name: Continuous Good
-organization_website: brandingwhilebroke.com
+organization_website:
+  - brandingwhilebroke.com
 ein: ''
 zip: ''
 charity_navigator_url: ''

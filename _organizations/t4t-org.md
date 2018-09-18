@@ -2,7 +2,8 @@
 organization_id: '2016205'
 year_submitted: 2016
 organization_name: T4T.org
-organization_website: www.t4t.org
+organization_website:
+  - www.t4t.org
 ein: '562464067'
 zip: '90249'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'

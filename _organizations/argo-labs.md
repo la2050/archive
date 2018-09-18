@@ -2,7 +2,8 @@
 organization_id: '2016012'
 year_submitted: 2016
 organization_name: ARGO Labs
-organization_website: www.argolabs.org
+organization_website:
+  - www.argolabs.org
 ein: ''
 zip: ''
 charity_navigator_url: ''

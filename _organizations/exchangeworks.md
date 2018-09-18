@@ -2,7 +2,8 @@
 organization_id: '2015060'
 year_submitted: 2015
 organization_name: ExchangeWorks
-organization_website: 'http://www.exchangeworks.co'
+organization_website:
+  - 'http://www.exchangeworks.co'
 ein: '462746723'
 zip: '90404'
 charity_navigator_url: ''

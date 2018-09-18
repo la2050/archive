@@ -2,7 +2,8 @@
 organization_id: '2015137'
 year_submitted: 2015
 organization_name: MentorMint
-organization_website: www.MentorMint.com
+organization_website:
+  - www.MentorMint.com
 ein: '473621424'
 zip: '90089'
 charity_navigator_url: ''

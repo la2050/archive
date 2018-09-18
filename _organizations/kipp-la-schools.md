@@ -2,7 +2,8 @@
 organization_id: '2013107'
 year_submitted: 2013
 organization_name: KIPP LA Schools
-organization_website: 'http://www.kippla.org'
+organization_website:
+  - 'http://www.kippla.org'
 ein: '261607268'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261607268'
