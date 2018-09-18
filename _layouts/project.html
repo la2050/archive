@@ -80,13 +80,7 @@ stylesheets:
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
 
-{% if page.organization_instagram contains "http" %}
-{% assign instagram_url = page.organization_instagram %}
-{% elsif page.organization_instagram contains "instagram.com/" %}
-{% capture instagram_url %}https://{{ page.organization_instagram }}{% endcapture %}
-{% else %}
-{% capture instagram_url %}https://instagram.com/{{ page.organization_instagram }}{% endcapture %}
-{% endif %}
+
 
 {% if page.project_video and page.project_video != "" %}
 {% if page.project_video contains "youtu" or page.project_video contains "vimeo" %}
@@ -383,8 +377,10 @@ stylesheets:
 </ul>
 {% endif %}
 
+{% if page['Please specify below'] != "" %}
 <h3>Are there any other areas where you’ll be working?</h3>
 {{ page['Please specify below'] }}
+{% endif %}
 
 <h3>Describe in greater detail how you will make LA the best place to connect</h3>
 {{ page['Describe in greater detail how you will make LA the best place to connect:'] }}

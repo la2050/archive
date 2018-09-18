@@ -363,6 +363,11 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
 
       <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea about how to make LA a better place to <strong style="font-weight: bold; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.05em;">{{ project.category }}</strong>, submitted by this organization in <strong style="color: inherit;">{{ project.year_submitted }}</strong>.</small></p>
 
+{% assign video_embed_url = "" %}
+{% assign image_url = "" %}
+{% assign image_category = "" %}
+{% assign project_image_file_name = "" %}
+
 {% if project.project_video and project.project_video != "" %}
 {% if project.project_video contains "youtu" or project.project_video contains "vimeo" %}
 {% unless project.project_video contains "youtube.com/user/" %}
