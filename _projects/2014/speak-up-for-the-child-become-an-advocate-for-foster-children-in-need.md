@@ -9,15 +9,6 @@ organization_id: '2018014'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The County of Los Angeles has more foster children than any other county in
   the United States, with over 28,000 children in the dependency system. In
@@ -105,6 +96,15 @@ Whom will your project benefit? Please be specific.: >-
    The three factors that are critical to our success with the proposed partnerships are legitimate outreach to the partner’s community, instructive and authentic collaboration between CASA and the partner organization, and informed engagement with our training programs.
 empty_column_1: ''
 youtube_video_identifier: WxrdQYucwHo
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

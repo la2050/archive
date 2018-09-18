@@ -9,15 +9,6 @@ organization_id: '2014058'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: 'All incorporated cities within LA county, too.'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beginning with a one-day Ideafest on a local university campus, industry
   experts, city department officials, and web developers will compete in teams
@@ -76,6 +67,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: Vv698CCwrt4
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: banana
 
 ---

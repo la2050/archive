@@ -12,18 +12,6 @@ project_summary: >-
   make a successful matches, from an average matching process of 8 hours down to
   approximately 5 minutes. In two years, that will scale annually to provide a
   projected 3,000 more students in Los Angeles.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -130,6 +118,8 @@ How do you plan to scale the success of your proposal?: >-
   will track the number of cities represented by considering a city
   “represented” when at least 30 matches are taking place in that city.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

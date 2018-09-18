@@ -10,18 +10,6 @@ project_summary: >-
   game. By having them actively participate where normally they would just watch
   some static content, we increase the chance they will come back and bring
   others.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Large Sports Venues, LA County'
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -84,6 +72,7 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 youtube_video_identifier: CAz_mkuDRno
+project_areas: []
 body_class: strawberry
 
 ---

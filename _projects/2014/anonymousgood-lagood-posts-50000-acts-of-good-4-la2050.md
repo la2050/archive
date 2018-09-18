@@ -9,15 +9,6 @@ organization_id: '2014006'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Imagine a city where people actually look for ways to help one another. It’s a
   happier, healthier, more connected, safer feeling place. A place you’d be
@@ -127,6 +118,15 @@ Whom will your project benefit? Please be specific.: >-
    • LA Gov’t- target elected official’s constituent relations first so Acts of Good being done in government are surfaced. Post 250 
    • LA-based brand sponsorship is central to paying it forward with our Allies4Good
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

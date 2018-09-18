@@ -9,15 +9,6 @@ organization_id: '2014030'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   earthprotect.com already has a hub web site focused on sustainability with
   almost 4,000 videos, 3,500 blogs, over 60 ngo and business partners and
@@ -72,6 +63,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Further, our Advisory Council includes business, science, educators and sustainability leaders who foster our collaborations. Here is a partial list of organizations we collaborate with: UCLA, UCSD Scripps, NOAA, University of Denver Daniels School of Business, University of the Sunshine Coast AU. New collaborations include ConnectD, Asia Pacific Clean Energy Summit and Expo, Oregon BEST FEST, Ideascape, Inc., Mayor's Office LA.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: banana
 
 ---

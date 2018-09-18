@@ -9,15 +9,6 @@ organization_id: '2016094'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We build relationships with established organizations in low-income
   communities, who connect us with a first class of 10 families. After six
@@ -58,6 +49,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Vitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.”
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
 body_class: lime
 
 ---

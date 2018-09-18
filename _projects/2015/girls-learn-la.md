@@ -11,18 +11,6 @@ project_summary: >-
   proposal is for a collaborative work Maker Space, which will provide a more
   flexible learning environment where the girls can apply their collaborative,
   academic and technology skills to building projects.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: 'GALA Academy, on the campus of LA High School, Los Angeles, Ca'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -94,6 +82,8 @@ maker_image_id: '23370'
 maker_image_file_name: GALA_pic_1.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23370%252Fdisplay%252FGALA_pic_1.jpg=c570x385
+project_areas:
+  - LAUSD
 body_class: blueberry
 
 ---

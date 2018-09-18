@@ -10,18 +10,6 @@ project_summary: >-
   money to help with student tuition, musical instruments and teacher salary.
   The students also want to start dancing! So, we're trying to purchase shoes &
   clothes for them.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'The Learning Center (TLC) In Reseda, CA'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -125,6 +113,9 @@ maker_image_id: '23208'
 maker_image_file_name: AMBgroupPic.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23208%252Fdisplay%252FAMBgroupPic.jpg=c570x385
+project_areas:
+  - San Fernando Valley
+  - County of Los Angeles
 body_class: strawberry
 
 ---

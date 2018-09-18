@@ -11,18 +11,6 @@ project_summary: >-
   build a product and get it to market. Off The Saw will create a year-long
   series of discussions to examine how craftsmanship can survive and thrive in
   our city and to create a toolkit for building LA's creative economy.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   Off The Saw is located in Downtown Los Angeles and we serve a population
   throughout LA County.
@@ -126,6 +114,9 @@ maker_image_id: '23544'
 maker_image_file_name: IMG_8112_web.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385
+project_areas:
+  - Central LA
+  - County of Los Angeles
 body_class: blueberry
 
 ---

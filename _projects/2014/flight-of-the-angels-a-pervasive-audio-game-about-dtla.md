@@ -9,15 +9,6 @@ organization_id: '2014073'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our game FREEQ did a lot of cool thins - it created an audio world and a
   mystery to solve that was highly reactive to the choices players made. It’s
@@ -66,6 +57,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: NtMAZqR4Tf4
+project_areas:
+  - CENTRAL LA
 body_class: strawberry
 
 ---

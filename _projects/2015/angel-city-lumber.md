@@ -12,18 +12,6 @@ project_summary: >-
   Lumber offers a vision of Los Angeles in which trees felled in the city are
   given a second life in the hands of the artists, crafts people and builders of
   Los Angeles.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   Based in Boyle Heights, Angel City Lumber will re-use trees found anywhere in
   Los Angeles.
@@ -116,6 +104,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 youtube_video_identifier: 4Kt14HIJyiU
+project_areas:
+  - East LA
 body_class: lime
 
 ---

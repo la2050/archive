@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: 'Northwest Pasadena, Altadena'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Zanja Madre is a non-profit organization based in Los Angeles County that aims
   to impart how the built environment directly impacts the quality of our lives.
@@ -84,6 +75,15 @@ Whom will your project benefit? Please be specific.: >-
 empty_column_1: '1'
 maker_image_id: '21490'
 maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: lime
 
 ---

@@ -10,18 +10,6 @@ project_summary: >-
   program for incarcerated youth by training additional formerly incarcerated
   members to serve as peer mentors, and developing a scalable model that can be
   replicated in additional juvenile facilities in the next three years.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Barry J. Nidorf Juvenile Hall, Camps Scott and Scudder'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -118,6 +106,7 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 youtube_video_identifier: jxDLaDNSLjo
+project_areas: []
 body_class: strawberry
 
 ---

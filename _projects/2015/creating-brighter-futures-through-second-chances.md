@@ -12,18 +12,6 @@ project_summary: >-
   and exploratory field-trips (domestically & internationally). Our student
   ambassadors take what they’ve learned and teach our younger youth
   (middle/elementary students) about effective leadership.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -150,6 +138,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
 youtube_video_identifier: c9y0Bp8kgT4
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

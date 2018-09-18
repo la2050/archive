@@ -10,18 +10,6 @@ project_summary: >-
   Action Parks are perfect for freerunning, great for calisthenics, crossfit,
   and fun for anyone who’s excited to face the challenge of overcoming
   obstacles. Find your path and take action!
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -80,6 +68,11 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 youtube_video_identifier: k-SpD948tJc
+project_areas:
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

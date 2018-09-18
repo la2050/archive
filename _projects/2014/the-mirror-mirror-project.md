@@ -9,15 +9,6 @@ organization_id: '2014094'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Mirror, Mirror Project starts with one simple idea-- to see one
   another--face to face. Mirror, Mirror sits us directly in front of a homeless
@@ -109,6 +100,12 @@ Whom will your project benefit? Please be specific.: |-
    2. The park will allow the event to be advertised on a website
    3. The parks will each have a written contract with specific rules so that the exhibit and park are in clear agreement and communication for each event in order to ensure each event is carried out safely
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SOUTH BAY
+  - WESTSIDE
 body_class: tangerine
 
 ---

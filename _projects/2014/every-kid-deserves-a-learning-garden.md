@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21882%252Fdisplay%252FHappy_Greens.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The collaboration of Netiya and Seeds of Hope through Open Grove involves
   engaging the untapped power of our faith-based institutions around food
@@ -87,6 +78,12 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21882'
 maker_image_file_name: Happy_Greens.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - WESTSIDE
 body_class: lime
 
 ---

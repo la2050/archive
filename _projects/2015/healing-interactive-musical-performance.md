@@ -12,18 +12,6 @@ project_summary: >-
   We would like to develop new videos and bring the experiential performance to
   underserved communities so that all Angelenos can have the opportunity to heal
   in this unique way.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -39,6 +27,8 @@ maker_image_id: '23254'
 maker_image_file_name: AofK_w_Jon_Gentry.jpeg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23254%252Fdisplay%252FAofK_w_Jon_Gentry.jpeg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

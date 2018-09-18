@@ -9,15 +9,6 @@ organization_id: '2015186'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A new project to revitalize the LA River promises to deliver 18,000 jobs,
   billions in private development, and tremendous environmental benefits. But a
@@ -114,6 +105,7 @@ Whom will your project benefit? Please be specific.: >-
    3. Identify and implement the appropriate legal and policy tools to ensure that River revitalization efforts are responsive and accountable to existing residents’ needs.
 empty_column_1: ''
 youtube_video_identifier: fMyc7c0Ylc4
+project_areas: []
 body_class: tangerine
 
 ---

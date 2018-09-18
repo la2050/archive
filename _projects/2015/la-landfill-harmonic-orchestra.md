@@ -12,18 +12,6 @@ project_summary: >-
   subsidized lunches. There is little room in the school budget for the arts.
   Where is music for these children? We want to teach them to make music out of
   found objects.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Parks, community centers and Title 1 Schools in LA County.'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -98,6 +86,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/MkTQQ0m8Ys8/maxresdefault.jpg'
 youtube_video_identifier: MkTQQ0m8Ys8
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

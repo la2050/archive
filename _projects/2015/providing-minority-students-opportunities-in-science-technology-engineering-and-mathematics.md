@@ -13,18 +13,6 @@ project_summary: >-
   strategies and methodologies. Our organization goal is to have an innovative
   STEM program that will be a leader in preparing youth, who are
   socioeconomically disadvantaged, to become scientific scholars.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: City of Inglewood
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -143,6 +131,8 @@ How do you plan to scale the success of your proposal?: >-
   robotics Lab aimed at providing students with the breadth of knowledge that is
   required for specialization in STEM fields.
 year_submitted: 2015
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

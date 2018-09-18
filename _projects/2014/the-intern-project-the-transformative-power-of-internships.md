@@ -9,15 +9,6 @@ organization_id: '2014206'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Fund launched the summer 2014 TIP pilot with 17 LAUSD students matched
   with 13 business partners to identify best practices and challenges to
@@ -94,6 +85,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: tMwKJIhKIAU
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - WESTSIDE
 body_class: blueberry
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22179%252Fdisplay%252FIMG_2944.JPG=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Since it was inaugurated several years ago, L.A. Futures has served hundreds
   of upper-division high school students who have gone on to higher education at
@@ -100,6 +91,13 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

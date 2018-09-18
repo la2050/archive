@@ -12,15 +12,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22531%252Fdisplay%252FPhoto_Collage_v6.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to increase college graduation rates of low-income students living in
   Section 8 and Public Housing, the CDF will continue operating its longstanding
@@ -81,6 +72,13 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22531'
 maker_image_file_name: Photo_Collage_v6.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

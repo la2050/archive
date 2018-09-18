@@ -9,18 +9,6 @@ project_summary: >-
   people of Los Angeles!
    
    Building on the success of the organization’s high-impact outreach efforts, Heal the Bay’s Dropping Knowledge Project – Building a Water-Literate L.A. – will bring meaningful, streamlined water-focused messages to the masses.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: 95 neighborhood councils representing the city of Los Angeles
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -132,6 +120,14 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
 youtube_video_identifier: SC6HYm8Zp7M
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: banana
 
 ---

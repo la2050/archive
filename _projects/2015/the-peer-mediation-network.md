@@ -12,18 +12,6 @@ project_summary: >-
   alternatives to violence and social emotional learning using technology that
   is fast becoming a universal language and whose integration into all facets of
   communication will be de rigueur for citizens of 2050.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,9 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 youtube_video_identifier: 69OXVYZ15kU
+project_areas:
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

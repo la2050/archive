@@ -11,18 +11,6 @@ project_summary: >-
   in both soft and hard skills, in-class presentations by business executives,
   and field trips to area businesses. Additionally, students who successfully
   complete the course will received a full high school course credit.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -118,6 +106,10 @@ maker_image_id: '23273'
 maker_image_file_name: Santee_High_School_Elisha_Hall.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23273%252Fdisplay%252FSantee_High_School_Elisha_Hall.jpg=c570x385
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

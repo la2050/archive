@@ -12,18 +12,6 @@ project_summary: >-
   inter-connected LA with more resilient and prepared individuals and
   communities, for any type of disaster large or small, especially in
   vulnerable, low-income communities.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -134,6 +122,17 @@ maker_image_id: '23719'
 maker_image_file_name: 18603358223_2be7ae4ace_b.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23719%252Fdisplay%252F18603358223_2be7ae4ace_b.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

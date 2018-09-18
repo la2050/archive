@@ -11,18 +11,6 @@ project_summary: >-
   important to them. This proposal supports the expansion of our reach and
   impact in 2016, as we increase the size of our middle school program from 75
   to 100 youth and launch our high school program with 75 youth.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -36,6 +24,8 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/W8wBA--Vo8o/maxresdefault.jpg'
 youtube_video_identifier: W8wBA--Vo8o
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

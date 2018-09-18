@@ -10,17 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22632%252Fdisplay%252FPages_from_T-Alley_Outreach_Flip_Book-2.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: >-
-  The game BLOCK could be adapted to any environment, it would constitute a
-  framework for the study of urban health.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already developed an initial prototype, as can be seen in the
   accompanying video. The prototype allows us to already start working with
@@ -86,6 +75,15 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22632'
 maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: lime
 
 ---

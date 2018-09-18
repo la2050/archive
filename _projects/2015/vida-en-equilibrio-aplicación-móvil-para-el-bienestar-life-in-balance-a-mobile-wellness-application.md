@@ -12,18 +12,6 @@ project_summary: >-
   interaction with health educators and other participants throughout the
   duration of the experience. The experience will be available in English and
   also in Spanish.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -121,6 +109,8 @@ maker_image_id: '23673'
 maker_image_file_name: vidaenequilibrio.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: lime
 
 ---

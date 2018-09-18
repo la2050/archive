@@ -11,18 +11,6 @@ project_summary: >-
   camps and halls across Los Angeles County in the coming year. This bold
   initiative has the power to transform our young people, the systems that serve
   them, and create a powerful resource for the creative economy in Los Angeles.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -105,6 +93,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg'
 youtube_video_identifier: Wx27G6vdyF4
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   wellness programs, the Center will transition children and families out of
   crisis, down the path of healing and towards a goal of long-term stability,
   health, and productivity.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Hawthorne, Lawndale, Lennox and surrounding communities'
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -104,6 +92,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg'
 youtube_video_identifier: gRaTc3pZvug
+project_areas:
+  - South Bay
 body_class: strawberry
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FutureBound’s mission is to create a suite of fun, inspiring, and educational
   games that will increase the number of youth preparing for, applying to, and
@@ -82,6 +73,14 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21609'
 maker_image_file_name: FutureBoundKids_w_Logo.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

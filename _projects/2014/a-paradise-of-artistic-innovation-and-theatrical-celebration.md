@@ -9,15 +9,6 @@ organization_id: '2014099'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: San Pedro and the Port of Los Angeles
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our first step will be to focus our efforts on maintaining the highest class
   of artistry and professionalism in Theatre in Los Angeles. Through high
@@ -69,6 +60,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: nJPC81QoGyk
+project_areas:
+  - SOUTH BAY
+  - LA COUNTY
 body_class: banana
 
 ---

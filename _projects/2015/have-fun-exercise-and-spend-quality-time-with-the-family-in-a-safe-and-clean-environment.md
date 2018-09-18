@@ -11,18 +11,6 @@ project_summary: >-
   environment. Parents can feel confident that their children will exercise and
   have fun while still keeping up with school work. Kids in a society that are
   stuck on technology can come and play and run around like kids used to.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Adventure Playhouse 1116 San Fernando Rd. San Fernando, Ca 91340'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -87,6 +75,8 @@ How do you plan to scale the success of your proposal?: >-
   programs and if we grow enough we would open other locations in the LA area to
   incorporate these programs and more. The sky is the limit!
 year_submitted: 2015
+project_areas:
+  - San Fernando Valley
 body_class: strawberry
 
 ---

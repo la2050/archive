@@ -11,18 +11,6 @@ project_summary: >-
   spaces. These spaces, that are normatively occupied by shrubs and ice plants,
   would be replaced with micro-climate appropriate edible fruit/vegetable crops
   & medicinal herbs.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -68,6 +56,8 @@ maker_image_id: '24023'
 maker_image_file_name: LA2050_Freeway_Growth.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: banana
 
 ---

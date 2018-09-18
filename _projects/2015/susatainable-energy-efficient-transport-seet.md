@@ -10,18 +10,6 @@ project_summary: >-
   used to provide certification and registration to drivers on how to service
   elderly ones in the community. The money would also be used to purchase energy
   storage for vehicles for after hours charging.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -37,6 +25,8 @@ maker_image_id: '23252'
 maker_image_file_name: IMG_2238.PNG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23252%252Fdisplay%252FIMG_2238.PNG=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

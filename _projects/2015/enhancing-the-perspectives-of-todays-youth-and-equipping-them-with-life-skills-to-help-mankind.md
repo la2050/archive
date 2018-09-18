@@ -15,18 +15,6 @@ project_summary: >-
    To educate youth about drugs, alcohol, bullying, aberrant sexual practices, and other harmful/anti-social behavior.
    
    To educate youth about the inherent dignity and human rights of other races, ethnicities, and religions, around the world.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   Various High Schools, Colleges, and Universities throughout Los Angeles
   County.
@@ -104,6 +92,10 @@ How do you plan to scale the success of your proposal?: >-
   experts deem it necessary to accomplish the greatest degree of impact and
   effectiveness.
 year_submitted: 2015
+project_areas:
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

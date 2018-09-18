@@ -12,18 +12,6 @@ project_summary: >-
   organization staff, parents and those without education backgrounds, the camps
   will enable people in underserved communities all over LA to use Minecraft to
   develop STEAM skills in youth.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: Afterschool Programs
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -143,6 +131,13 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
 youtube_video_identifier: V0_Km6YYSbo
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

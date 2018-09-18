@@ -12,18 +12,6 @@ project_summary: >-
   with “soup to nuts” business instruction and industry exposure for
   tech-related start-ups; and 3) ultimately create a sustainable “Innovation
   Ecosystem” that will encourage indigenous creativity.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: Los Angeles Southwest College
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -101,6 +89,12 @@ How do you plan to scale the success of your proposal?: >-
   we hope to package and license the curriculum, making it available to
   community colleges throughout the state and nation as a social enterprise.
 year_submitted: 2015
+project_areas:
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

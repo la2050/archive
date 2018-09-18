@@ -12,18 +12,6 @@ project_summary: >-
   children are welcome to create, build and experiment. We will bring Laser
   cutters, 3D Printers and more, all the tools these young inventors need to
   realize what their imagination can inspire.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Parks, community centers and Title 1 Schools in LA County.'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -96,6 +84,8 @@ How do you plan to scale the success of your proposal?: >-
   guidebook for any other community that is interested in starting a T4T.org
   style traveling Makers Space using ReImagined Resources from their community.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

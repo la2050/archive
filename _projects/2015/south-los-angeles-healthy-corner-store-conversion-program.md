@@ -12,18 +12,6 @@ project_summary: >-
   ubiquitous. Adding fresh, healthy food to these regularly frequented
   businesses can increase consumption of nutritious food and stimulate the
   economy by increasing the profits of local businesses.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   District One of Los Angeles City (Glassell Park, Cypress Park, Highland Park,
   Mount Washington, Solano Canyon, Elysian Park, Echo Park, Westlake, Angelino
@@ -125,6 +113,8 @@ maker_image_id: '23775'
 maker_image_file_name: CB_Logo.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23775%252Fdisplay%252FCB_Logo.jpg=c570x385
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

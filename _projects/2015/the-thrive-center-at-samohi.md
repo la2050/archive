@@ -12,18 +12,6 @@ project_summary: >-
   and positive psychology. This next generation school-based health center will
   be a place where teens learn how to do more than just survive - they will find
   the support and tools needed to thrive.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Santa Monica High School, SMMUSD, Santa Monica'
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -141,6 +129,8 @@ maker_image_id: '23931'
 maker_image_file_name: wordcloud-thrivecenter.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23931%252Fdisplay%252Fwordcloud-thrivecenter.png=c570x385
+project_areas:
+  - Westside
 body_class: strawberry
 
 ---

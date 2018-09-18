@@ -12,18 +12,6 @@ project_summary: >-
   exhibition in September. The backbone to the project will be a curated public
   program of events focused on the creation of culinary projects and
   performances initiated by participating artists.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -161,6 +149,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/X9EpK48pYtY/maxresdefault.jpg'
 youtube_video_identifier: X9EpK48pYtY
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

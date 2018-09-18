@@ -10,18 +10,6 @@ project_summary: >-
   and develops a lasting habit of saving, which is the first step in achieving
   financial security and upward mobility. Through saving, individuals can
   weather financial storms, and invest in their dreams
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: Magnolia Catchment Area
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -152,6 +140,9 @@ How do you plan to scale the success of your proposal?: >-
    
    EARN believes that providing the tools to save is one of the most effective ways to ensure resiliency and social-economic opportunity in our communities. We are determined to scale our success to reach people across America.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

@@ -9,18 +9,6 @@ project_summary: >-
   sustainable way to grow organic food. In the process we will educate and
   encourage the community to get involved and learn about a more
   health-conscious way of life.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: Particularly focused in areas with unbuildable land.
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -114,6 +102,9 @@ maker_image_id: '23612'
 maker_image_file_name: 2050_Lg.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385
+project_areas:
+  - East LA
+  - City of Los Angeles
 body_class: strawberry
 
 ---

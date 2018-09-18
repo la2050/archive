@@ -13,18 +13,6 @@ project_summary: >-
   summer of 2015 for 12 children and their mothers at the Federal Correctional
   Institution-Dublin Facility. Our goal is to offer the camp to a greater number
   of children and add a much-needed art therapy component.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -105,6 +93,8 @@ How do you plan to scale the success of your proposal?: |-
    3) Volunteers and the general public will have a greater appreciation for the plight of children with a parent in prison and may be more receptive to restorative justice-based reforms.
    4) Camp Suzanne’s successful pilot implementation will grow to impact the lives of a greater number of children and their incarcerated parents through program expansion.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

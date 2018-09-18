@@ -12,18 +12,6 @@ project_summary: >-
   implementation of efforts to anchor 4 neighborhoods/commercial corridors as
   cultural magnets and (3) strengthen, while growing diverse businesses that are
   part of the local creative economy.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   Central LA: Little Tokyo, Central Avenue Historic District; East LA: Boyle
   Heights; South LA: Crenshaw/Leimert Park
@@ -122,6 +110,10 @@ How do you plan to scale the success of your proposal?: >-
   best practices for seamlessly blending cultural economic development
   strategies, small business and regional cultural tourism plans.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
 body_class: strawberry
 
 ---

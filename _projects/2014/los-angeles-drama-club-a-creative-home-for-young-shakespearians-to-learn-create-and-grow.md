@@ -11,15 +11,6 @@ organization_id: '2014169'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are determined to have our own space within the next three to five years,
   but this grant will allow us to make it happen in one year. We have already
@@ -97,6 +88,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
    A remarkable characteristic of our organization is the enthusiasm it incites in those who discover our community: we have had many parents, friends, associates, fellow artists, community leaders, neighborhood councils, local merchants, and independent business take interest in our children and our mission. With our own space, we look forward to embracing more of the people who are interested in being a part of LADC. We envision a creative learning community and look forward to welcoming other like-minded organizations to our space, as we have been welcomed in our past, and giving them a place to grow.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - SOUTH LA
 body_class: blueberry
 
 ---

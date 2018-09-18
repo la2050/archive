@@ -12,18 +12,6 @@ project_summary: >-
   longer-term learning to occur. Ultimately, we envision that students who have
   built strong social-emotional competencies will become better citizens of our
   complex, diverse, and ever-changing world.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   Diverse communities throughout LA including Hollywood, Silver Lake, and Mar
   Vista
@@ -119,6 +107,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg'
 youtube_video_identifier: RVA2N6tX2cg
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

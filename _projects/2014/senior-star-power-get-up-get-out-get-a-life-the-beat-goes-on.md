@@ -9,15 +9,6 @@ organization_id: '2014080'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will solicit sponsorships from corporations, use social media and YouTube,
   fundraising events and programs, submit grant applications, stay in the public
@@ -59,6 +50,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
   will encourage visitors to stay multiple days in the city.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: strawberry
 
 ---

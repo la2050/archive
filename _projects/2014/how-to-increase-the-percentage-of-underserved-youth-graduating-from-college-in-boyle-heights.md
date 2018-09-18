@@ -11,15 +11,6 @@ organization_id: '2016048'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Boyle Heights
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CT’s successful model is currently being implemented in Boyle Heights. The
   model is innovative in 3 key ways: 1) it supports students continuously from
@@ -89,6 +80,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: DcSdvVTv_Cg
+project_areas:
+  - EAST LA
+  - LA COUNTY
 body_class: blueberry
 
 ---

@@ -8,25 +8,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: LASA teaches high school students how things work in Southern California.
-OTHER: >-
-  LASA begins with questions. How does a city run? How does a vast metropolitan
-  region like Los Angeles work? Which institutions are responsible for moving
-  water, people, food, and power from points A to points Z? How are such
-  institutions and agencies funded and run? Who runs them? How can neighborhoods
-  be made more livable? What does an elected official do all day? What role do
-  cultural institutions play in the life of greater Los Angeles? What about
-  businesses and non-profits? What are the potential educational and career
-  paths for young people interested in civic, civil, and public service in the
-  Los Angeles Basin? We encourage high school students to ask these -- and so
-  many more -- questions, and then we work together to answer them.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The 2050 metric is really important to us at LASA. We embrace the long-term.
   We work with a fairly small group of participants at a time. We are about to
@@ -100,6 +81,11 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '23401'
 maker_image_file_name: LASA_LARiver2015.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
 body_class: blueberry
 
 ---

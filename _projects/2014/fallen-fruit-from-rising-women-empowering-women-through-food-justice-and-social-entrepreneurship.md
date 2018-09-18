@@ -11,15 +11,6 @@ organization_id: '2014024'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: East Los Angeles County
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FFFRW is an established program and has been running successfully since 2010.
   Currently, Crossroads residents work with Claremont College students enrolled
@@ -82,6 +73,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: Ht0-3dSjCew
+project_areas:
+  - LA COUNTY
 body_class: banana
 
 ---

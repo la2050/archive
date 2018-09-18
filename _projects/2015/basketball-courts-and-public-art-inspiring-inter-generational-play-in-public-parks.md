@@ -14,18 +14,6 @@ project_summary: >-
   members and working artists, around each court, host free all-ages basketball
   tournaments, cleaning up graffiti and install outdoor fitness equipment where
   appropriate.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -103,6 +91,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 youtube_video_identifier: phXK2cX3WEk
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

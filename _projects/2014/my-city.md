@@ -9,15 +9,6 @@ organization_id: '2014028'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MyCity is a web & mobile app that bridges Travelers with local Tour
   Specialists. Mass commercialized tours are prevalent as a one-size fits all
@@ -76,6 +67,15 @@ Whom will your project benefit? Please be specific.: >-
    - We are both in tune with today’s trends in the technology, business, & entertainment industries, which will make sure that our app is not only innovative but also has the potential of being very successful.
 empty_column_1: ''
 youtube_video_identifier: NHaLkpe_jms
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

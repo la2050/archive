@@ -11,18 +11,6 @@ project_summary: >-
   and public events. Each space will focus on a different industry, creating
   sub-communities within the LA startup community and connecting the dots on an
   overall ecosystem.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: DTLA
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -143,6 +131,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Hiring staff for Grid110 will be vital in order for us to grow beyond our first space and continue to scale in growing the starting ecosystem.
 year_submitted: 2015
+project_areas:
+  - East LA
 body_class: blueberry
 
 ---

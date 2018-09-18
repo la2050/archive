@@ -9,15 +9,6 @@ organization_id: '2018089'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/SustainabilityCenter.html'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The vision driving our Center for Sustainable Communities involves a broad
   spectrum of issues, and at the center of this focus is the need to pursue
@@ -98,6 +89,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • LA County Department of Health – Committed to helping us create living projects and support our clinic plan.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - SOUTH LA
 body_class: banana
 
 ---

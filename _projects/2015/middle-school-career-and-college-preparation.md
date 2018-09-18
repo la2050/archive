@@ -8,18 +8,6 @@ project_summary: >-
   We want to expand Career & College Clubs to 20 middle schools in LA County
   that qualify for Title I funding (FRPM% > 40%) for the 2016-17, 2017-18, and
   2018-19 academic years.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -87,6 +75,8 @@ maker_image_id: '23182'
 maker_image_file_name: CCC_pic17_small.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

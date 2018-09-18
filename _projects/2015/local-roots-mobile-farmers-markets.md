@@ -11,18 +11,6 @@ project_summary: >-
   Angeles. This Mobile Market will be the first in a fleet focused on educating
   the public about healthy eating, eradicating food deserts, combating obesity,
   and providing increased healthy food access in low-income neighborhoods.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -168,6 +156,14 @@ maker_image_id: '23707'
 maker_image_file_name: Mobile_Market_Mock-Up.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

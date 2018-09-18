@@ -12,18 +12,6 @@ project_summary: >-
   Invest in programming that moves KCRW to new levels of excellence; and (3)
   Create digital technologies that promote KCRW’s mission amid an ever-changing
   media landscape.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -152,6 +140,8 @@ maker_image_id: '24006'
 maker_image_file_name: CWA_SMC_KCRW_121010.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24006%252Fdisplay%252FCWA_SMC_KCRW_121010.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: banana
 
 ---

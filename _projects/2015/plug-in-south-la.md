@@ -12,18 +12,6 @@ project_summary: >-
   level. This activity is crucial for the youth in South LA. They will shape the
   future of technology and digital media, and the more opportunities they see,
   the more our local community will th
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   Plug In South LA will be operating out of our Playa Vista location while our
   co-working space is built. The LA2015 grant would allow our organization to
@@ -100,6 +88,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg'
 youtube_video_identifier: qooMUYecd1s
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

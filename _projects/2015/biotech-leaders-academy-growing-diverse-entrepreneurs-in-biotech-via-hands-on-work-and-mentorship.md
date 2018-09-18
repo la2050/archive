@@ -14,18 +14,6 @@ project_summary: >-
   give them valuable hands-on work experience. Students will also attend an
   entrepreneurship academy that introduces them to the opportunities and
   pathways of creating a biotech startup.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -118,6 +106,9 @@ How do you plan to scale the success of your proposal?: |-
    
    - Seek additional funding sources to support the internship match and course component.
 year_submitted: 2015
+project_areas:
+  - East LA
+  - County of Los Angeles
 body_class: blueberry
 
 ---

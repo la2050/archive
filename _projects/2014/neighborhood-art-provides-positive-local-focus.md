@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Specific site selection for the sculpture locations will be coordinated with
   District 9 representatives and local leaders in small groups at face to face
@@ -75,6 +66,9 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20596'
 maker_image_file_name: IMAG0233.jpg
+project_areas:
+  - CENTRAL LA
+  - SOUTH LA
 body_class: banana
 
 ---

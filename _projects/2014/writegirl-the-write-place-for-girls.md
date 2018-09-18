@@ -9,15 +9,6 @@ organization_id: '2014228'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Northeast LA
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For many years, WriteGirl has offered workshops and creative programming for
   girls at community centers, museums, parks and theaters all over greater Los
@@ -80,6 +71,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: FmHmFIlfA4A
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: blueberry
 
 ---

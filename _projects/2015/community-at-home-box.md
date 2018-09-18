@@ -12,18 +12,6 @@ project_summary: >-
   breaks that negative cycle by providing full connection and data services
   within each home, growing organically into neighborhood and community-wide
   networks, one household at a time.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: Northeast Los Angeles (NELA)
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -122,6 +110,10 @@ maker_image_id: '23942'
 maker_image_file_name: Data_Roads_Foundation.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23942%252Fdisplay%252FData_Roads_Foundation.png=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - City of Los Angeles
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   former Skidrow residents of Union Rescue Missions’ Job Development Program and
   Little Tokyo residents in the maintenance of the tower gardens and in growing
   profitable herbs and vegetables.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   Union Church L.A. in Little Tokyo, 2 blocks from Skidrow; Central LA, LA
   County
@@ -100,6 +88,8 @@ maker_image_id: '23569'
 maker_image_file_name: towergarden.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385
+project_areas:
+  - Central LA
 body_class: blueberry
 
 ---

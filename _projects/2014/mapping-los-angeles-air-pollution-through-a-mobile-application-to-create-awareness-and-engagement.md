@@ -11,15 +11,6 @@ organization_id: '2014216'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With a population of close to 4 million individuals, it is a stretch to make
   LA the healthiest city with campaigns and small scale projects. Rather it is
@@ -85,6 +76,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    UCLA Business School undergraduate students and graduate students will seek to further establish connections with local and corporate businesses to provide incentives for users and rewards for those that reach their target goal/metric such as weight loss, miles walked than driven, etc.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: lime
 
 ---

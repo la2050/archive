@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21361%252Fdisplay%252FGFS_PHOTO_1.png=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Year 1 of GFS LA began in June 2014. GFS LA delivers 1000+ hours of direct
   instruction per student over a 30-month engagement, featuring 9 sequential
@@ -102,6 +93,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21361'
 maker_image_file_name: GFS_PHOTO_1.png
+project_areas:
+  - CENTRAL LA
 body_class: banana
 
 ---

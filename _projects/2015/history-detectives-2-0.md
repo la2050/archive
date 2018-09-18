@@ -10,18 +10,6 @@ project_summary: >-
   a working radio lab with both audio & video capabilities. Students will decide
   where to go and why. Teachers/adults/artists-in-residence will provide
   "prompts" that will then become projects.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -158,6 +146,8 @@ maker_image_id: '23966'
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23966%252Fdisplay%252FRobey_Brochure_Front1_(1).jpg=c570x385
+project_areas:
+  - South LA
 body_class: banana
 
 ---

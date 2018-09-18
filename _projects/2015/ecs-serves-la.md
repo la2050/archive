@@ -12,18 +12,6 @@ project_summary: >-
   help: 1) its students scale their learning and become more college-ready and
   workforce-ready, and 2) local LA organizational partners scale their impact
   with volunteer contributions.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': |-
@@ -138,6 +126,9 @@ maker_image_id: '23859'
 maker_image_file_name: Good_Image_Change_the_World.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23859%252Fdisplay%252FGood_Image_Change_the_World.jpg=c570x385
+project_areas:
+  - South LA
+  - South Bay
 body_class: strawberry
 
 ---

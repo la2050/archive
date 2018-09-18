@@ -11,18 +11,6 @@ project_summary: >-
   these parents and their school-age children will be able reach and complete
   award-winning Cell-Ed’s literacy and language programs in the palms of their
   hands.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -162,6 +150,9 @@ maker_image_id: '24155'
 maker_image_file_name: Screen_Shot_2015-10-15_at_5.32.07_PM.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24155%252Fdisplay%252FScreen_Shot_2015-10-15_at_5.32.07_PM.png=c570x385
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   seek to invest $10 million in 700 small businesses across LA this
   year—creating and retaining 1,800 jobs and driving economic activity in the
   region’s most underserved communities.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -123,6 +111,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Over the past five years, we have gone from originating 70 loans a year in LA to 70loans a month in the county. We have achieved this growth by investing in the people and technology to reach and serve LA’s entrepreneurs. We know that every loan we make creates and sustains more than two jobs, and that every $1 we invest results in a ripple effect that generates almost $2 in new economic activity. By investing to scale in Los Angeles, Opportunity Fund is positioned to help thousands of small business owners access hundreds of millions of dollars in microloans by 2050—supporting job creation at significant scale while spurring economic growth in communities that need it most.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

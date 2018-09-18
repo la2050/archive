@@ -12,18 +12,6 @@ project_summary: >-
   spaces, education stations, and stormwater treatment basins which will be
   attractive, educational, sustainable, and will clean Pacoima Wash by
   capturing, treating polluted stormwater and trash.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Pacoima Neighborhood
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -122,6 +110,8 @@ maker_image_id: '23990'
 maker_image_file_name: LA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23990%252Fdisplay%252FLA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png=c570x385
+project_areas:
+  - San Fernando Valley
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   by meaningful partnerships, reflection and enriched instructional strategies.
   We believe that we learn from the people we serve and that curriculum is
   enriched through community connections.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -108,6 +96,8 @@ How do you plan to scale the success of your proposal?: >-
   and replicable guide for implementing creative service-learning into all
   aspects of an enhanced curriculum.
 year_submitted: 2015
+project_areas:
+  - San Gabriel Valley
 body_class: blueberry
 
 ---

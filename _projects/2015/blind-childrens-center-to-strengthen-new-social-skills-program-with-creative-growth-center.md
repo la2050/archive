@@ -12,18 +12,6 @@ project_summary: >-
   children who are blind or visually impaired.
    
    We aim to build a new Creative Growth Center, consisting of a new playhouse, upgraded lunch area and new sensory garden equipped with adaptive equipment, educational games, and engaging devices to support the development of critical social skills in our students who are blind or visually impaired.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: Blind Children's Center; Hollywood; Los Angeles
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -107,6 +95,9 @@ How do you plan to scale the success of your proposal?: >-
    
    We anticipate the hard work we put into this undertaking will yield an out-of-the-box curriculum that can be used as a model to tackle a very real issue facing young people who are visually impaired. With the appropriate social skills to go along with strong educational skills, our students and others like them will be equipped to make friends, live independently, and fulfill their highest potential.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

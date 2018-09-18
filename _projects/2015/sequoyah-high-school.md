@@ -11,18 +11,6 @@ project_summary: >-
   school will be focused not only on cultivating and expressing academic
   achievement, but will be a place where students learn how their individual
   success can make a difference for their communities.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Sequoyah School, Pasadena-enrolling students from above areas.'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -89,6 +77,11 @@ How do you plan to scale the success of your proposal?: >-
   school educators from across the country and convene an annual Conference for
   Youth Changemakers, in partnership with Ashoka.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
 body_class: blueberry
 
 ---

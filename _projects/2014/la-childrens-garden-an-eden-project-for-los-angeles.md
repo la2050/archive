@@ -9,15 +9,6 @@ organization_id: '2014060'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We've partnered with Environmental Charter High School in Lawndale and Mia
   Lehrer + Associates to site one of the most innovative school campuses and
@@ -60,6 +51,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Muir Ranch is supported by dozens of corporate and individual donors and customers via are CSA program. We sell vegetables to retail customers and horticulture companies (Baker Creek, Seeds of Change and Organiks) provide endless plant and seed material. Both major program partners, ECHS and MLA, with Muir Ranch bring education and design expertise to create a space where all can learn and #play!
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: strawberry
 
 ---

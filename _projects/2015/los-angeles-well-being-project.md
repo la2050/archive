@@ -12,18 +12,6 @@ project_summary: >-
   in government, civil society organizations, media, businesses, and economists
   to develop strategies for distributed leadership for policies and practices
   that make Vision 80 a reality.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -94,6 +82,16 @@ How do you plan to scale the success of your proposal?: >-
   March 2016, all which would adopt the methodology that will be developed
   through this project.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - City of Los Angeles
 body_class: strawberry
 
 ---

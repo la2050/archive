@@ -11,15 +11,6 @@ organization_id: '2014221'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Southern California Region
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Imagine Los Angeles after a major earthquake. Experts predict that the biggest
   risks to LA are the impacts to our aging infrastructure. Broken water pipes,
@@ -85,6 +76,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The keys to the success of this collaboration are open communication, mutual respect and a clear work plan. Ultimately, our shared commitment to the core goals of resilience and our shared vision of the potential of this project to bring positive change to the region underlie all of our interactions and will enable us to be successful.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: lime
 
 ---

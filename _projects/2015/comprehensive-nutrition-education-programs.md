@@ -11,18 +11,6 @@ project_summary: >-
   expand the number of programs we can offer to families. The $100,000 grant
   would provide six months of weekly nutrition education classes and free access
   to healthy produce for 300 families living in South LA.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -183,6 +171,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/7GOyC2VCNOk/maxresdefault.jpg'
 youtube_video_identifier: 7GOyC2VCNOk
+project_areas:
+  - South LA
 body_class: strawberry
 
 ---

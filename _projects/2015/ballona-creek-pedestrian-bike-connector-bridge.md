@@ -12,18 +12,6 @@ project_summary: >-
   there is currently not a safe route that provides the residents of our
   community the ability to move north and south with existing Ballona Creek
   Bridges at Lincoln and Centinela.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Ballona Creek between Play Vista, Mar Vista, Marina Del Rey and Culver City.'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -133,6 +121,8 @@ maker_image_id: '23805'
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385
+project_areas:
+  - Westside
 body_class: blueberry
 
 ---

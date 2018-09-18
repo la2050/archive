@@ -9,18 +9,6 @@ project_summary: >-
   create a community theatre program for all ages. Develop new works by Los
   Angeles artists, inspired by the diversity in our city. Educate the next
   generation of artists, and inspire the next generation of audiences.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: Highland Park
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -63,6 +51,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/fRmzSDzuoRA/maxresdefault.jpg'
 youtube_video_identifier: fRmzSDzuoRA
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

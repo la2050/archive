@@ -11,18 +11,6 @@ project_summary: >-
   Those with trees will be able to trade with their neighbors, thus eliminating
   the waste of excess fruit. Those without trees can trade in sweat equity by
   picking, sorting, preserving and delivering fruit with their neighbors.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'San Pedro, CA'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -126,6 +114,7 @@ maker_image_id: '23782'
 maker_image_file_name: IMG_7734.jpeg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
+project_areas: []
 body_class: blueberry
 
 ---

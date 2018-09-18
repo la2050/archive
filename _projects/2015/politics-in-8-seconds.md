@@ -8,18 +8,6 @@ project_summary: >-
   Our mission is to take the friction out of becoming an informed voter. Answer
   a few simple questions to find out which political candidates have your best
   interests at heart, and have a track record to back it up.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   We will be curating local election data for all of LA County, initially
   focusing on the larger municipalities.
@@ -152,6 +140,12 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
 youtube_video_identifier: cljP5pJVVbE
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

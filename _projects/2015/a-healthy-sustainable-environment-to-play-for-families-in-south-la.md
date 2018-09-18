@@ -12,18 +12,6 @@ project_summary: >-
   environment that includes active jungle gyms, toys, enriched classes,
   educational activities, community events, and a space to enjoy organic and
   locally sourced food.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: 'Baldwin hills, Leimert Park, Inglewood, and Mid-City'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -152,6 +140,14 @@ How do you plan to scale the success of your proposal?: |-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/USaJI1-Ab8E/maxresdefault.jpg'
 youtube_video_identifier: USaJI1-Ab8E
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

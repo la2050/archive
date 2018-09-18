@@ -12,18 +12,6 @@ project_summary: >-
   to each other and our neighborhoods. 
    
    This proposal aims to turn the powerful connecting force of the BlacklistLA Monday run into a more frequent occurrence by expanding its offerings.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   All Metro Station with Park and Rides. Also, places such as Walt Disney
   Concert Hall, LACMA, Leimart Park, Culver City Arts District, Abbot Kinney,
@@ -103,6 +91,14 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/U6oh03TPQOw/maxresdefault.jpg'
 youtube_video_identifier: U6oh03TPQOw
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - City of Los Angeles
 body_class: strawberry
 
 ---

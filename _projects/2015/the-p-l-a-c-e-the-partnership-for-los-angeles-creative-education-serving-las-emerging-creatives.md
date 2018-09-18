@@ -14,18 +14,6 @@ project_summary: >-
   locale, centralizing our programs, & fund infrastructure for volunteer
   engagement, recruitment & training for our respective programs, plus a
   co-working space where members can connect & create.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -208,6 +196,13 @@ How do you plan to scale the success of your proposal?: >-
    
    The leadership of Trade School LA, Emerging Arts Leaders/LA & DSTL Arts are very committed to creating a pipeline of mentorship & education for creatives at all levels of their career. We are focused on establishing a mutually-supportive infrastructure now, that can eventually be expanded into other markets that will benefit from our pipeline structure. As long as we are able to collectively find funding to expand into other markets & establish centralized spaces, while hiring staff to coordinate our respective programs, we will scale the success of our proposal.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

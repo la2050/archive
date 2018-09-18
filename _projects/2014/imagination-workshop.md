@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20927%252Fdisplay%252Findex__element43.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Northeast LA
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The implementation strategy for the Ribbon Gardens proposal primarily revolves
   around two concurrent elements: 1) fostering community support and engagement
@@ -99,6 +90,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20927'
 maker_image_file_name: index__element43.jpg
+project_areas:
+  - LA COUNTY
 body_class: lime
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   request for service. Basurero would be a sustained door to door and social
   media campaign to publicize MyLA311 and get neighborhoods like Koreatown, Mid
   City, South LA and East LA swept clean.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -115,6 +103,10 @@ maker_image_id: '23242'
 maker_image_file_name: 20150904_101442.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23242%252Fdisplay%252F20150904_101442.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
 body_class: blueberry
 
 ---

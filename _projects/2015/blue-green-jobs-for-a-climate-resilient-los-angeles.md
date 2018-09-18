@@ -12,18 +12,6 @@ project_summary: >-
   residential urban acupuncture strategies. The courses will train a skilled
   workforce to support Angelenos in transforming their homes to capture,
   conserve, and reuse precious water resources.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: LA Trade Tech
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -116,6 +104,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg'
 youtube_video_identifier: fvo26NJM3JM
+project_areas:
+  - City of Los Angeles
 body_class: lime
 
 ---

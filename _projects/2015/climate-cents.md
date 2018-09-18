@@ -12,18 +12,6 @@ project_summary: >-
   personalized metrics like CO2 reductions, plus inspiring photos and data
   visualizations. It’s simple to share these on social media, motivate your
   friends to take action and maximize your impact.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -39,6 +27,8 @@ maker_image_id: '23638'
 maker_image_file_name: new_site3.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23638%252Fdisplay%252Fnew_site3.png=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

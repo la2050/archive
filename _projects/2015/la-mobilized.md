@@ -10,18 +10,6 @@ project_summary: >-
   Angeles has the opportunity to evolve into a more sustainable and equitable
   city. To tap into this potential, LA needs to democratize planning so
   residents can co-create the future.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,12 @@ maker_image_id: '23743'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23743%252Fdisplay%252FScreen_Shot_2015-10-06_at_10.04.00_AM.png=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

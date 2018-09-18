@@ -12,18 +12,6 @@ project_summary: >-
   involvement, focuses on a root cause of our environmental/health crises, and
   partner’s school gardens with our farmers market and community gardens to
   address the lack of stable school garden programs
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   The Urban Garden Network has six interconnected urban open space gardens: two
   parklets, a community garden on Motor Ave. and three local school gardens at
@@ -105,6 +93,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 youtube_video_identifier: g0KxazcQnVA
+project_areas:
+  - Westside
+  - LAUSD
 body_class: strawberry
 
 ---

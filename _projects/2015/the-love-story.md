@@ -12,18 +12,6 @@ project_summary: >-
   creative expression.
    
    As creatives, they will relate to themselves as courageous, compassionate, and powerful storytellers rather than people who need to be “helped” or “fixed.”
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -109,6 +97,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg'
 youtube_video_identifier: 2U1i7uKpy8Y
+project_areas:
+  - East LA
+  - Westside
+  - City of Los Angeles
 body_class: blueberry
 
 ---

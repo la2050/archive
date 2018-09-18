@@ -14,18 +14,6 @@ project_summary: >-
   LACP will host a final exhibit for each group in Hollywood—heightening student
   self-esteem by following through with a long-term creative project and helping
   mount the show.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Long Beach Boys & Girls Club
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -161,6 +149,9 @@ maker_image_id: '23374'
 maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
+project_areas:
+  - East LA
+  - Westside
 body_class: blueberry
 
 ---

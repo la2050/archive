@@ -12,18 +12,6 @@ project_summary: >-
   Angeles will have a mascot that encourages people to connect with neighbors
   and visitors by sharing personal stories, learning about different cultures,
   and making friends.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -70,6 +58,8 @@ How do you plan to scale the success of your proposal?: >-
   coordinate through one office. If merchandise sales are successful, the
   project will be self-funding.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

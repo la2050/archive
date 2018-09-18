@@ -5,18 +5,6 @@ organization_id: '2015029'
 areas_impacted: ''
 partners: ''
 project_summary: With this grant there will be no end to the good we can do for our community.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -32,6 +20,8 @@ maker_image_id: '24048'
 maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24048%252Fdisplay%252FChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

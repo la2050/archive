@@ -11,15 +11,6 @@ organization_id: '2015040'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/keXQ-tYKL9g/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Clothes The Deal has established several collaborations. Partnering agencies
   that refer clients have provided needs assessments to estimate the number of
@@ -77,6 +68,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: keXQ-tYKL9g
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: lime
 
 ---

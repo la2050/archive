@@ -12,18 +12,6 @@ project_summary: >-
   increasing and elevating our places to play in LA. We propose to expand our
   2015 inaugural event of 7 participants and venues along a 2 mile linear
   portion of the LA River to 20 locations alon
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   River adjacent communities of Frog Town, Atwater Village, Cypress Park, Echo
   Park, Silver Lake and Downtown, cyclists, joggers, walkers and other roller
@@ -152,6 +140,11 @@ How do you plan to scale the success of your proposal?: >-
    
    We envision a generation of children and families growing up in Los Angeles who will think of the River as a memorable place that shaped their experiences and provided great places to play.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

@@ -9,18 +9,6 @@ project_summary: >-
   Hollywood in the Cloud. We are a tech and entertainment software company that
   believes the future of Hollywood is to embrace the global users looking for
   new stories and brands.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -34,6 +22,8 @@ How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/VOxdV6i-K4I/maxresdefault.jpg'
 youtube_video_identifier: VOxdV6i-K4I
+project_areas:
+  - City of Los Angeles
 body_class: banana
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2014200'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Phase 1: Call For Participation
    Through our partnerships with LAUSD, Santa Monica Unified School District, Los Angeles Science Teachers Network, Pearson Foundation, New Learning Institute, LA Summer of Learning program from Mayor Garcetti’s office, and the Children’s Services Department of Los Angeles Public Library, The Exploratory: Maker Guilds will circulate a Call For Participation which will include: 
@@ -88,6 +79,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Through our partnership with The Summer/City of Learning, students connected with our program will have the opportunity to participate in digital badging, a program sponsored by Mayor Garcetti’s Office. This program will enable students to map their progress through their projects and show skills gained to colleges and future employers.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

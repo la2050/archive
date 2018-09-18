@@ -12,18 +12,6 @@ project_summary: >-
   communicate with them; and democratically distills the contributions of
   millions of participants in to a small, high-quality, representative set for
   city and neighborhood council meetings.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -97,6 +85,8 @@ maker_image_id: '23482'
 maker_image_file_name: Synergize_LA.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23482%252Fdisplay%252FSynergize_LA.png=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: banana
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   community. 
    
    The garden will serve as a center of healing for those navigating grief, where individuals of all ages can get their hands dirty with others walking the same paths, discovering over shared meals and shared experience that they are not alone.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0createplaylive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -151,6 +139,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 youtube_video_identifier: YijVi1ZG5EM
+project_areas:
+  - East LA
+  - South LA
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   information we learn, we will create models to mobilize similar communities
   throughout LA, which has the potential to reduce water importation by at least
   40% and increase tree canopy to an equitable 25%.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   The pilot will hone in on Huntington Park and Pacoima. Countywide scaling to
   follow.
@@ -155,6 +143,12 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 youtube_video_identifier: r9LtyQwYAks
+project_areas:
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

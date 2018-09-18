@@ -12,18 +12,6 @@ project_summary: >-
   where it can take over a year for a VA claim to be processed. IAVA will hold
   numerous community outreach activities to provide vets with access to RRRP and
   its holistic, integrated partner services.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -149,6 +137,8 @@ How do you plan to scale the success of your proposal?: >-
   L.A. social work staff, and increasing our outreach and community building
   activities.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

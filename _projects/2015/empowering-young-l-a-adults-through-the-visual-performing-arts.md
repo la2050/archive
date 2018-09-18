@@ -12,18 +12,6 @@ project_summary: >-
   volunteers, mentors and staff, as well as organize events for the community
   that showcase the work of our members. Our purpose for doing this is to ensure
   that more and more of our young artists find success.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -102,6 +90,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg'
 youtube_video_identifier: '-_7F7nxyZ1Y'
+project_areas:
+  - Westside
+  - City of Los Angeles
 body_class: strawberry
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   action within our next generation. The program will give kids who have a
   sincere desire to pursue Martial Arts like Bruce, but simply cannot afford to
   do so, the opportunity to participate.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -135,6 +123,8 @@ How do you plan to scale the success of your proposal?: >-
    
    This pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

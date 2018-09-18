@@ -12,18 +12,6 @@ project_summary: >-
   effective math instruction. Ironbox Education will fill both of these needs
   for multiple schools in Los Angeles County by using a proven math fluency
   system designed by Dr. Randy Palisoc.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -146,6 +134,8 @@ maker_image_id: '23622'
 maker_image_file_name: ironboxeducationLA2050.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23622%252Fdisplay%252FironboxeducationLA2050.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

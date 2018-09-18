@@ -10,18 +10,6 @@ project_summary: >-
   soil, and employ more people. To do this, we need more land to process waste
   and a larger fleet... Ultimately we would like to handle large amounts of the
   city's precious compostable waste that would otherwise be going to the dump.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -37,6 +25,13 @@ maker_image_id: '23613'
 maker_image_file_name: SCRAPS_IMAGE.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23613%252Fdisplay%252FSCRAPS_IMAGE.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   action plans to implement these practices for K-12 classes. After the training
   school districts will receive technical assistance to help implement their
   action plans.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -39,6 +27,8 @@ maker_image_id: '23820'
 maker_image_file_name: TIER.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23820%252Fdisplay%252FTIER.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: lime
 
 ---

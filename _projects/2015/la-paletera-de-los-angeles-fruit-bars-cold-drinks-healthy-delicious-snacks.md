@@ -12,18 +12,6 @@ project_summary: >-
   messages in various languages. The objective of La Paletera is to become a
   micro-enterprise venture that will create sustainable jobs to the entry level
   workforce for women.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -127,6 +115,13 @@ How do you plan to scale the success of your proposal?: >-
   and on the spot conversation of buyer preferences and requests. Feedback will
   also be solicited from Paleteras regarding public comments, and impressions.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - City of Los Angeles
 body_class: blueberry
 
 ---

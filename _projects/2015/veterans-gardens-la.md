@@ -10,18 +10,6 @@ project_summary: |-
    What if we helped the most capable homeless veterans become leaders with a mission to leave no one else behind, in exchange for accelerating their ability to earn, to save, and to purchase a home.
     
    Like a homelessness peace corps.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,8 @@ maker_image_id: '24052'
 maker_image_file_name: homelessstreetscene.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24052%252Fdisplay%252Fhomelessstreetscene.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: lime
 
 ---

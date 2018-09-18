@@ -12,15 +12,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22607%252Fdisplay%252FGroup_pix.JPG=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MAPS and WIB will determine the effectiveness of each other’s professional
   skills program while sharing resources. 
@@ -97,6 +88,11 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22607'
 maker_image_file_name: Group_pix.JPG
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
 body_class: blueberry
 
 ---

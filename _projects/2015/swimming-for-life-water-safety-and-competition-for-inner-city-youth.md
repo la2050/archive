@@ -12,18 +12,6 @@ project_summary: >-
   2016. By increasing capacity at our existing site and expanding to two new
   schools, we will reach 830 students annually with our rigorous water safety,
   swimming instruction and competitive program.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -194,6 +182,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg'
 youtube_video_identifier: SdL6NXZskjo
+project_areas:
+  - Central LA
+  - South LA
+  - LAUSD
 body_class: blueberry
 
 ---

@@ -9,18 +9,6 @@ project_summary: >-
   lots and other outside spaces, to celebrate community by gathering together
   for fun, entertainment, education, and sharing culture, food, and music. LA's
   new public space! Pop-up plazas at 10 libraries.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -79,6 +67,17 @@ maker_image_id: '23558'
 maker_image_file_name: IMG_0112.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23558%252Fdisplay%252FIMG_0112.JPG=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

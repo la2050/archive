@@ -12,18 +12,6 @@ project_summary: >-
   housing stability and homelessness prevention and increased access to healthy
   food through a seed-to-market community garden, produce market and
   micro-enterprise center.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: Downtown LA's Skid Row Community
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -142,6 +130,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
 youtube_video_identifier: d7u6LPKVtv4
+project_areas:
+  - Central LA
+  - South LA
 body_class: banana
 
 ---

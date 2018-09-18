@@ -11,15 +11,6 @@ organization_id: '2015065'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: LAUSD Schools through LA's BEST Enrichment Program
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FLY will send our Creator/ Director, Haley Dawn, to lead large staff trainings
   for LA's BEST Enrichment Program staff. We will send teaching artists to
@@ -79,6 +70,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. LA's BEST's assistance in measuring our goals through surveys, student and staff testimonials, and on site observations throughout the school year.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - WESTSIDE
+  - LA COUNTY
 body_class: blueberry
 
 ---

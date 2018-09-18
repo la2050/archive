@@ -9,15 +9,6 @@ organization_id: '2014066'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA has unfortunately been known as one of the "UNFRIENDLIEST" cities in the
   U.S and in 2013 alone, was ranked #6. LET'S CHANGE THAT. This is where we come
@@ -123,6 +114,15 @@ Whom will your project benefit? Please be specific.: >-
    (2) Clientele interest through partner
    (3) Mutually beneficial results for both us and partner
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

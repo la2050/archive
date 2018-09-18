@@ -11,18 +11,6 @@ project_summary: >-
   With the support of this grant, we will make these services available to small
   businesses ($100,000 - $500,000 in annual revenues) with a focus on minority,
   women-owned and vet-owned businesses.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -38,6 +26,11 @@ maker_image_id: '23869'
 maker_image_file_name: the-power-of-communications.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23869%252Fdisplay%252Fthe-power-of-communications.jpg=c570x385
+project_areas:
+  - Central LA
+  - Westside
+  - South Bay
+  - City of Los Angeles
 body_class: blueberry
 
 ---

@@ -9,18 +9,6 @@ project_summary: >-
   been neglected and abused. They are terrified and alone. CASA of Los Angeles
   desperately needs more volunteers to help these children navigate not only the
   trials of the courtroom but the trials of a challenged childhood.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   CASA of Los Angeles helps children in foster care from everywhere in Los
   Angeles County.
@@ -34,6 +22,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': ''
 How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

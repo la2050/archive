@@ -9,15 +9,6 @@ organization_id: '2014111'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to present the voices of our future leaders. By 2050, the youth of
   today will be the generation that inherits Los Angeles. One of them may even
@@ -96,6 +87,13 @@ Whom will your project benefit? Please be specific.: >-
    Once funded we will also partner with civic leaders in our target communities along with local neighborhood councils and the elected council members in that district. We know that by partnering with elected leaders in local, city and state levels we can create conversations both at the community and policy levels to really affect change and give an avenue for the students solutions and voice.
 empty_column_1: ''
 youtube_video_identifier: poREvQfFFL4
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: tangerine
 
 ---

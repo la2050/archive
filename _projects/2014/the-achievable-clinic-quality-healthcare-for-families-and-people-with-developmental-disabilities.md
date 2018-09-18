@@ -11,15 +11,6 @@ organization_id: '2014189'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Metropolitan Service Planning Area 4
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The NEP has been part of SCC’s primary services since September 2013.
   Implementation of its services is ongoing throughout the year. The NEP is led
@@ -76,6 +67,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: zTPVN1p3Lg8
+project_areas:
+  - LA COUNTY
 body_class: lime
 
 ---

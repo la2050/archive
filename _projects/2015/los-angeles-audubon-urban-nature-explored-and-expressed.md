@@ -10,18 +10,6 @@ project_summary: >-
   programs that are improving acres of parkland and re-imagining schoolyards as
   nature-filled learning centers. 
    Urban Nature Expressed - To provide an artistic platform and Pop-Up gallery for under-served youth to showcase their interpretations of urban nature in LA, where students interact with the public.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   Ballona Wetlands, Baldwin Hills Scenic Overlook State Park, Kenneth Hahn State
   Rec.Area, Venice & Dockweiler Beach, Esperanza Elementary School, and other
@@ -195,6 +183,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/gxmDmbwknC0/maxresdefault.jpg'
 youtube_video_identifier: gxmDmbwknC0
+project_areas:
+  - Central LA
+  - South LA
+  - Westside
 body_class: strawberry
 
 ---

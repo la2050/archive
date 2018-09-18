@@ -8,18 +8,6 @@ project_summary: >-
   Offer the opportunity to young girls to develop technology and
   entrepreneurship skills through Technovation's open source curriculum and
   professional mentorship.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -99,6 +87,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg'
 youtube_video_identifier: NTnzCDQ335U
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

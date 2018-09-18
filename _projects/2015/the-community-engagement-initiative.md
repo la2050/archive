@@ -10,18 +10,6 @@ project_summary: >-
   the residents and Angelenos are contributing members to their community.
    
    It is an "evidence based practice" that examines existing evidence based community engagement strategies and assesses how existing community resources, services and programs are being utilized to coordinate these services in an effective and efficient manner.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -33,6 +21,14 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

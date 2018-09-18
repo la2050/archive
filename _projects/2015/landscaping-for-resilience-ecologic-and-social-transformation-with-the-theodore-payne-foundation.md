@@ -14,18 +14,6 @@ project_summary: >-
   benefits, demonstrating how communities, government agencies, and non-profits
   can work together to enhance green space and create skill sets for positive
   environmental change within Los Angeles County.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0createplaylive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -124,6 +112,8 @@ How do you plan to scale the success of your proposal?: >-
    
    The goals of the program are to raise awareness among Angelinos of the control they have over their environment, what options they have for exerting that control, how to organize for change, and how to develop sustainable and retainable skills
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

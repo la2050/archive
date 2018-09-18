@@ -11,15 +11,6 @@ organization_id: '2014009'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/AIM.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will teach youth from all over the Los Angeles area about the business of
   the entertainment industry, including workshops introducing all of the various
@@ -81,6 +72,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The most critical issue with regard to collaborations is that both sides are aiming towards the same goals, and that both sides are able to agree to the overall process. We have concentrated on collaborations with organizations that are genuinely interested in youth education, and we find that it has worked well for all of us
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: banana
 
 ---

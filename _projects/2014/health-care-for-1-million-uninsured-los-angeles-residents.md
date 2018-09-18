@@ -9,15 +9,6 @@ organization_id: '2014162'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will create a framework to implement programs that address public
   health, connectivity, and maximizing local health infrastructure. The
@@ -98,6 +89,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: '-8HpYaBGc4I'
+project_areas:
+  - EAST LA
 body_class: lime
 
 ---

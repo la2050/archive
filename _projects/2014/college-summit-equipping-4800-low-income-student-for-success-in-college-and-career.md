@@ -11,15 +11,6 @@ organization_id: '2014130'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Across the 2014-15 school year, College Summit will partner with LA-area
   public schools to:
@@ -70,6 +61,11 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Significant corporate partnerships include: Deloitte brings expertise in managing and identifying areas of growth, fund development, and sponsorship of awards to honor the work of our partner schools; Darden Restaurants Inc., Foundation supports Peer Leader meetings at schools and Peer Leader awards. Collaborations provide access and information on grants and financial aid: Citi Foundation, Cash for College, Hispanic Scholarship Fund, Magic Johnson Foundation, and Junior Achievement. Community engagement: participating in the Valley Education Collaborative working on college access issues and policies in the San Fernando area; and assisting the Los Angeles Urban League in their efforts to increase the college enrollment of students in the Crenshaw corridor. The region has also formed more than 50 volunteering partnerships with local businesses, professional associations, and community groups to increase knowledge about college access issues and recruit volunteers from diverse backgrounds. College Summit has a pending application with the SoCal College Access Network (CAN), a regional network of 30+ college access organizations, to increase our visibility, identify us as a leader in the field, and provide access to resources, learnings, and best practices.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SFV
+  - SOUTH BAY
 body_class: blueberry
 
 ---

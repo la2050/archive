@@ -12,18 +12,6 @@ project_summary: >-
   including JobsLA, GoMetro, MyLA 311. We will also show workers how to use
   social media apps to connect to their government representatives and local
   neighborhood councils.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North Hollywood,
   Cypress Park, Van Nuys and Wilmingotn
@@ -132,6 +120,9 @@ maker_image_id: '23511'
 maker_image_file_name: 3014224447_e908044cf3_o.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385
+project_areas:
+  - San Fernando Valley
+  - City of Los Angeles
 body_class: lime
 
 ---

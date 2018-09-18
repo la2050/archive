@@ -12,18 +12,6 @@ project_summary: >-
   divestiture by serving as a hub to provide access to housing, transit,
   employment, healthy living, and community food resources that make communities
   stronger and more resilient.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -145,6 +133,9 @@ How do you plan to scale the success of your proposal?: >-
   resource needs of the Center and support the creation of new Centers in
   underserved communities.
 year_submitted: 2015
+project_areas:
+  - South LA
+  - County of Los Angeles
 body_class: strawberry
 
 ---

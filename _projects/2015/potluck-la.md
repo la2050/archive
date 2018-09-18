@@ -8,18 +8,6 @@ project_summary: >-
   Angelenos bring dishes to share with other Angelenos. A great way to connect
   all Angelenos through food. Angelenos who come from different backgrounds and
   places can share their diverse cuisine.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -35,6 +23,12 @@ maker_image_id: '23121'
 maker_image_file_name: potluckla.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23121%252Fdisplay%252Fpotluckla.png=c570x385
+project_areas:
+  - Central LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

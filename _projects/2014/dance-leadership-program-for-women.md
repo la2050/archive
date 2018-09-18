@@ -9,15 +9,6 @@ organization_id: '2014023'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Executive Director, Elena Sophia Kozak, runs the Dance Leadership Program. She
   is in charge of implementing the following activities:
@@ -106,6 +97,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: K83J6XaqQlM
+project_areas:
+  - CENTRAL LA
 body_class: banana
 
 ---

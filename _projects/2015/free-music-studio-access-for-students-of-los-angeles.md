@@ -11,18 +11,6 @@ project_summary: >-
   kind opportunity for the youth of LA to have sound-proofed studios to practice
   in at full volume, state of the art music equipment at their disposal, and a
   safe creative environment in which to practice music and let their ideas flow.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -112,6 +100,8 @@ maker_image_id: '23180'
 maker_image_file_name: ESRLogo.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23180%252Fdisplay%252FESRLogo.jpg=c570x385
+project_areas:
+  - East LA
 body_class: blueberry
 
 ---

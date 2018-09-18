@@ -10,18 +10,6 @@ project_summary: >-
   preschool. PWW has a solution: bring early learning out of the classroom and
   into the community with pop-up preschools, place based learning, and community
   run co-ops.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -169,6 +157,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/Hey6DKTLdw8/maxresdefault.jpg'
 youtube_video_identifier: Hey6DKTLdw8
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

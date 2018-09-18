@@ -12,18 +12,6 @@ project_summary: >-
   target 7th and 8th grade students who demonstrate risk factors for dropping
   out, providing more capacity to Partnership staff and school leadership to
   implement their vision at the school.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Carver Middle School (South Los Angeles)
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -148,6 +136,7 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/_P0ljapOsHo/maxresdefault.jpg'
 youtube_video_identifier: _P0ljapOsHo
+project_areas: []
 body_class: blueberry
 
 ---

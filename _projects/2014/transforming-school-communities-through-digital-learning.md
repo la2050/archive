@@ -9,15 +9,6 @@ organization_id: '2014123'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CFY will provide wrap-around support for students, teachers, and families at 5
   low-income LAUSD middle schools where we will implement our Digital Learning
@@ -94,6 +85,11 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: HIVY5tBE450
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
 body_class: blueberry
 
 ---

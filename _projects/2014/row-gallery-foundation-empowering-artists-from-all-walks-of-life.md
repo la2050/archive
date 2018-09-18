@@ -9,15 +9,6 @@ organization_id: '2014077'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Wherever art-based non-profits exist!
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We plan on implementing this idea by first developing a fully functional
   interface where the organizations can upload the work. Account management will
@@ -74,6 +65,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: ApjqumUUgTI
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - LA COUNTY
 body_class: banana
 
 ---

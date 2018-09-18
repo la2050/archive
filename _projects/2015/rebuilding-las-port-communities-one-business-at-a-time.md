@@ -12,18 +12,6 @@ project_summary: >-
   Competition and PortTechEXPO, we provide an opportunity for entrepreneurs and
   investors, industry and civic leaders, students and researchers to explore new
   technologies and connect with innovators.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,9 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 youtube_video_identifier: zmZJYC2WFVk
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

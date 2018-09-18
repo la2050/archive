@@ -9,15 +9,6 @@ organization_id: '2014207'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: All of the Los Angeles Unified School District
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Project SPIN’s main focus areas include Policy and Advocacy (developing
   inclusive policies and best practices for systemic change), Mental Health Care
@@ -82,6 +73,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: lg-vCWbUV8s
+project_areas:
+  - LA COUNTY
 body_class: blueberry
 
 ---

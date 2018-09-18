@@ -12,18 +12,6 @@ project_summary: >-
   minimum 25% on the Fitnessgram assessment (California State proficiency test
   for student physical fitness) as well as improve student’s perception of
   fitness and exercise at these high schools.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 0createplaylive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -135,6 +123,8 @@ maker_image_id: '23214'
 maker_image_file_name: IMG_0438.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385
+project_areas:
+  - LAUSD
 body_class: strawberry
 
 ---

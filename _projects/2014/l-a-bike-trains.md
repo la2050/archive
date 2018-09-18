@@ -9,15 +9,6 @@ organization_id: '2014046'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The idea: Individuals can create social solutions to hard problems that
   frequently seem insurmountable or dependent on major infrastructure.
@@ -103,6 +94,12 @@ Whom will your project benefit? Please be specific.: |-
    The primary collaborations that we want to develop are with university bicycle coalitions. A successful test run and development of 2 new routes going to UCLA was launched during bike week May 2014. We now want to deepen that relationship so that more staff and students will utilize L.A. Bike Trains as their transportation resource. L.A. Bike Trains would like UCLA to support those routes via funding, promotion and technical assistance – such as data collection and research. With a UCLA collaboration in process, it can serve as a template for additional collaborations with other schools, such as USC, but also large employers from the city of LA to Sony Entertainment.
 empty_column_1: ''
 youtube_video_identifier: l2oE7AX8gtw
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SFV
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

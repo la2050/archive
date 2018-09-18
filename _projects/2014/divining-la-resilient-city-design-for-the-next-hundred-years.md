@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22512%252Fdisplay%252FBoom_Map_300dpi_1200px_wide.jpeg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: 'Although based in Culver City, we serve families across LA County.'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FQHCs that focus on special populations such as residents of public housing,
   persons experiencing homelessness or agricultural workers, are subject to
@@ -65,6 +56,8 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22512'
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
+project_areas:
+  - LA COUNTY
 body_class: lime
 
 ---

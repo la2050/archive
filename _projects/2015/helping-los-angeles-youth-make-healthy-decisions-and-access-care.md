@@ -12,18 +12,6 @@ project_summary: >-
   innovative classroom curriculum, teaching parents to effectively communicate,
   providing reproductive healthcare in schools, and training a cadre of
   dedicated high school student advocates.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   PPLA’s comprehensive work with high school-aged youth takes place primarily in
   South L.A. and Boyle Heights high schools.
@@ -165,6 +153,13 @@ maker_image_id: '23806'
 maker_image_file_name: USE_THIS_ONE.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23806%252Fdisplay%252FUSE_THIS_ONE.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

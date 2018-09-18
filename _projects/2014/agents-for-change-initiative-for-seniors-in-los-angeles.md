@@ -8,17 +8,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: 'Mid-City MacArthur Park Area, Hollywood and Echo Park'
-LA COUNTY: John Kotick
-OTHER: >-
-  We are training Seniors to be AGEnts for Change in Los Angeles to improve the
-  lives of Older Adults in our City through advocacy.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SBSS will build on its successful experience in creating and conducting the
   AGEnts for Change program. The primary goal for the 2nd generation (G2) of the
@@ -68,6 +57,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20167'
 maker_image_file_name: _DSC5884.JPG
+project_areas:
+  - SOUTH BAY
 body_class: tangerine
 
 ---

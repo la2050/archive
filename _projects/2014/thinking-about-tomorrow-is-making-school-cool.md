@@ -8,25 +8,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20283%252Fdisplay%252FShannonTaTLA2050_(3).jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: >-
-  @Thinkingabout2morrow reaches out to ALL students to promote & #encourage
-  #ImportanceOfEducation! #MakeAttendanceAPriority #LA2050
-OTHER: >-
-  Our "School is Cool" initiative is designed to help our students develop a
-  love of education and adopt the tools needed to thrive in and out of the
-  classroom. We give students the supplies they need to build confidence. We
-  reward students with incentives for perfect attendance, encouraging them to
-  come to school every day. We show kids that college is an achievable dream and
-  give them something to reach for. 
-   
-   Our programs challenge kids to be at school daily and demonstrate the importance of teamwork. This approach involves building strong school and community partnerships, early outreach to families, educating parents about the importance of regular school attendance and targeting students who are chronically absent.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   It’s a fact that students who attend school consistently are more successful
   in school than students who do not. That may seem obvious, but what’s less
@@ -77,6 +58,12 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20283'
 maker_image_file_name: ShannonTaTLA2050_(3).jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
 body_class: blueberry
 
 ---

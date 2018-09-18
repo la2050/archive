@@ -12,18 +12,6 @@ project_summary: >-
   “Dreamers” attend our in-school, after-school & summer programs that prepare
   them for academic & emotional success; each student is eligible for an $8,000
   scholarship from us upon completing high school.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   Sunrise Elementary School in Boyle Heights, 99th Street Elementary and Animo
   James B. Taylor in Watts, and multiple high schools in Inglewood
@@ -141,6 +129,13 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/QV1lB2SqWos/maxresdefault.jpg'
 youtube_video_identifier: QV1lB2SqWos
+project_areas:
+  - East LA
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

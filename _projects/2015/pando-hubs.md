@@ -12,18 +12,6 @@ project_summary: >-
   relationships among the hubs, and to develop plans for our next step, to
   create and support new centers of ecological living, work and innovation. We
   call these places Pando Hubs.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -181,6 +169,9 @@ maker_image_id: '23521'
 maker_image_file_name: Eco_Civ.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23521%252Fdisplay%252FEco_Civ.png=c570x385
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

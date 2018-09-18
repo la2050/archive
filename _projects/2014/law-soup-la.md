@@ -9,15 +9,6 @@ organization_id: '2014050'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Law Soup LA is a web-based resource that provides news and information for
   L.A. County residents and visitors about their legal rights and
@@ -74,6 +65,15 @@ Whom will your project benefit? Please be specific.: >-
   to the public.
 empty_column_1: ''
 youtube_video_identifier: DRehRt5n68c
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

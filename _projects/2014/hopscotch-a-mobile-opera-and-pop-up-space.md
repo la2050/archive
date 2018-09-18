@@ -9,15 +9,6 @@ organization_id: '2014091'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   HOPSCOTCH is planned for October 2015, but the concept for the project has
   been in development since April of 2013. We are currently at the stage of
@@ -88,6 +79,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: 0SGeH9Mnt2k
+project_areas:
+  - CENTRAL LA
+  - EAST LA
 body_class: banana
 
 ---

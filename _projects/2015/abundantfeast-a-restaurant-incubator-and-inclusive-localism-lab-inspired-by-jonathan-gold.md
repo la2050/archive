@@ -14,18 +14,6 @@ project_summary: >-
   self-sustaining after startup costs. It will create new value to share among
   the stakeholders. It will evolve urban development toward equitable resolution
   of conflict and inclusion.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Highland Park
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -98,6 +86,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
 youtube_video_identifier: qyZQR5_KCEM
+project_areas:
+  - East LA
 body_class: strawberry
 
 ---

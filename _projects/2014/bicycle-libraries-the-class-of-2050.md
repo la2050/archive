@@ -9,15 +9,6 @@ organization_id: '2014053'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   "...final adoption of Newspeak had been fixed for so late a date as 2050.” --
   last words, George Orwell’s 1984
@@ -90,6 +81,11 @@ Whom will your project benefit? Please be specific.: >-
    Fortunately, Libros Schmibros is already connected to every named partner either through teaching experience, current staff, past programs, or agreements and relationships with Libros advisory committee members.
 empty_column_1: ''
 youtube_video_identifier: iFODyc5eUjQ
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SGV
+  - WESTSIDE
 body_class: tangerine
 
 ---

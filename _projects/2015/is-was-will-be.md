@@ -12,18 +12,6 @@ project_summary: >-
   it was, will enable residents to view Elysian Valley in the context of Los
   Angeles history, and empower them to actively shape what it will be by fully
   engaging in civic dialog about new development.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   North East LA/Elysian Valley (Frogtown), Dorris Place Elemenary, Allesandro
   Elementary
@@ -106,6 +94,9 @@ How do you plan to scale the success of your proposal?: >-
   businesses through photographs and text, and limit the number of on-camera
   interviews.
 year_submitted: 2015
+project_areas:
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

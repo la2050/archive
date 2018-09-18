@@ -12,18 +12,6 @@ project_summary: >-
   and provide them an opportunity to also mentor the future and make a
   difference. Through this program, students will become successful and active
   community members in the city of Los Angeles.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -80,6 +68,13 @@ How do you plan to scale the success of your proposal?: >-
   I'll be honest I don't understand this question but would be more than willing
   to discuss with someone once I understand the question.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   sacrificed for subsistence. We aim to provide the highs school students in our
   community a serene after school environment where they will be empowered to
   pursue their educational goals.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Casa Libre, Westlake, L.A County'
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -109,6 +97,7 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 youtube_video_identifier: 20ErlmkuIfQ
+project_areas: []
 body_class: strawberry
 
 ---

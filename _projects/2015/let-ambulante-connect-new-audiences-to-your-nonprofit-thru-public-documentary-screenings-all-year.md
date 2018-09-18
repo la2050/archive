@@ -14,18 +14,6 @@ project_summary: >-
   can successfully deliver, including;operation and use of our outdoor
   projection system, leveraging our industry contacts to secure films and
   negotiate lower screening fees, cross promotion.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -133,6 +121,16 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
 youtube_video_identifier: W6D_g6EB-QY
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

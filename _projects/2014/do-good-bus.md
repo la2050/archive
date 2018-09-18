@@ -9,15 +9,6 @@ organization_id: '2014026'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Hop on the bus and we’ll do the rest! Here at the Do Good Bus, we deliver an
   exciting and engaging opportunity to get involved with your community and to
@@ -89,6 +80,15 @@ Whom will your project benefit? Please be specific.: >-
    As for causes and organizations who can help us make Do Good Field Trips a reality, we’re looking forward to working with No Right Brain Left Behind, Green Dot Schools, Breakaway Education and Zimmer Children’s Museum.
 empty_column_1: ''
 youtube_video_identifier: T17vBV41x0g
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

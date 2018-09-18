@@ -7,15 +7,6 @@ organization_id: '2014175'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/z_iZNryQIgw/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through the volunteer health volunteers, it provides basic ambulatory,
   hypertension, diabetic, vision, women’s health, acupuncture and chiropractic
@@ -121,6 +112,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: z_iZNryQIgw
+project_areas:
+  - SFV
 body_class: lime
 
 ---

@@ -14,18 +14,6 @@ project_summary: >-
   - a mentor. BBBSLA wants to connect our city's vulnerable youth to qualified
   mentors through our programs, which have been proven to measurably improve
   learning and academic outcomes.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -109,6 +97,16 @@ How do you plan to scale the success of your proposal?: >-
   growth so we can continue to scale the impact of our program to help make this
   unique, proven effective linked learning program to more of LA's youth.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
 body_class: blueberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   world towards better, safer, healthier practices - from shaping + design to
   glassing + storytelling. Working with Marko Foam, E-tech, and Entropy Resin,
   we will show how this transformative process works.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Looking also at Hawthorne, DTLA or near USC Campus.'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -144,6 +132,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
 youtube_video_identifier: 5-OvAiMBAFc
+project_areas:
+  - Westside
+  - South Bay
 body_class: strawberry
 
 ---

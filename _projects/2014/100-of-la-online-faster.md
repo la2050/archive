@@ -7,17 +7,6 @@ organization_id: '2018034'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/f1NWhlN60zE/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: NELA
-LA COUNTY: Data Roads Foundation
-OTHER: >-
-  Get 100% of LA online faster! Allow citizens, institutions, and small biz to
-  build our own networks and connections together!
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A lot of the open standards hardware and open source software required for
   these private network deployments already exist. We just need to package it
@@ -74,6 +63,13 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: f1NWhlN60zE
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
 body_class: tangerine
 
 ---

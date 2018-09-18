@@ -9,18 +9,6 @@ project_summary: >-
   throughout the city of Los Angeles that erases violence by humanizing the
   surrounding neighborhood. Stories have power. Media is a way of sharing those
   stories.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -104,6 +92,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg'
 youtube_video_identifier: BnbLK2sxsXI
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

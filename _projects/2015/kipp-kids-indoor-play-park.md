@@ -12,18 +12,6 @@ project_summary: >-
   would provide appropriate levels of play for smaller children to express
   themselves and play physically while protecting them from their surroundings
   and allowing for easy clean-up.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: Poinsettia Recreation Center
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -126,6 +114,8 @@ maker_image_id: '23235'
 maker_image_file_name: play.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23235%252Fdisplay%252Fplay.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

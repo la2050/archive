@@ -14,18 +14,6 @@ project_summary: >-
   a permanent adventure playground in Northern LA County as a destination for
   young people to play on a beautiful 2 acre wild space and serve as a training
   ground for future play-workers.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: Santa Clarita Valley
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -143,6 +131,9 @@ How do you plan to scale the success of your proposal?: |-
    
    We continue to develop and support Los Angeles communities to become safer and more connected.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

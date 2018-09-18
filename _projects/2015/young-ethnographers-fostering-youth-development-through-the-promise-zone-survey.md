@@ -14,18 +14,6 @@ project_summary: >-
   engage their neighbors in an assessment of quality of life to guide
   decision-making within local government and measure how the Promise Zone is
   improving lives.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -159,6 +147,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 youtube_video_identifier: MbjQABq5iTI
+project_areas:
+  - Central LA
 body_class: blueberry
 
 ---

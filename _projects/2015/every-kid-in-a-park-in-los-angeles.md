@@ -12,18 +12,6 @@ project_summary: >-
   includes pre- and post-visit educational opportunities. Providing greater
   access to parks and connecting diverse youth to new recreational and
   educational opportunities are major program goals.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -93,6 +81,9 @@ maker_image_id: '23519'
 maker_image_file_name: EKIPkidswithwalkingsticks.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385
+project_areas:
+  - County of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

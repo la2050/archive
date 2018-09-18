@@ -9,15 +9,6 @@ organization_id: '2014070'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   PortTech’s concentrated effort to identify, attract and retain qualified
   startups centers around the PortTech Pitch program. The first step of the
@@ -94,6 +85,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: zmZJYC2WFVk
+project_areas:
+  - LA COUNTY
 body_class: banana
 
 ---

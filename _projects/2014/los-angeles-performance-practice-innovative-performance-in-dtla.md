@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21753%252Fdisplay%252FShank_130920_453.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Downtown LA
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We plan to work with city developers, property managers, and downtown
   businesses to activate contemporary performance in specific areas. We have
@@ -73,6 +64,9 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21753'
 maker_image_file_name: Shank_130920_453.jpg
+project_areas:
+  - CENTRAL LA
+  - LA COUNTY
 body_class: banana
 
 ---

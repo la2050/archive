@@ -14,18 +14,6 @@ project_summary: >-
   products. The makerspace will also allow people to use 3D Printers without
   buying them so they can experience the technology without making a big
   investment, but can buy a printer if from our showrooom.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -94,6 +82,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 youtube_video_identifier: uVgrIU_Bl9g
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

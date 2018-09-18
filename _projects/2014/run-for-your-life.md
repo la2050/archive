@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Avalon Green Alley Network Demonstration Project is leading efforts to
   green the nearly 900 linear miles of alleys in the City of Los Angeles. These
@@ -87,6 +78,8 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20215'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
+project_areas:
+  - SOUTH LA
 body_class: lime
 
 ---

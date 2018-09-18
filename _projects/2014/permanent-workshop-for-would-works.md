@@ -7,15 +7,6 @@ organization_id: '2014110'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Launched with bootstrap funding in 2012, Would-Works has spent the past two
   years proving the validity of the concept of empowering individuals to improve
@@ -65,6 +56,11 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: xlsYqBrzY4k
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - WESTSIDE
 body_class: banana
 
 ---

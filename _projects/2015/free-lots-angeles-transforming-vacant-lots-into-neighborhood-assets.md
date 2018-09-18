@@ -11,18 +11,6 @@ project_summary: >-
   “pop-ups” on vacant lots and helps change City policy to allow for Angelenos
   to access city-owned vacant land in their neighborhoods, especially in places
   where there are not enough places to PLAY.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -36,6 +24,11 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 youtube_video_identifier: KQnPSzqeZRk
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - City of Los Angeles
 body_class: strawberry
 
 ---

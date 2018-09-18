@@ -11,18 +11,6 @@ project_summary: >-
   people. 
    
    With this grant, we will provide 40 at-sea programs for middle schools who cannot afford to pay and are already on our waiting list, and "free" community programs (Sail LA!) where Angelenos can sail with their families and become part of a real working crew.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -102,6 +90,10 @@ How do you plan to scale the success of your proposal?: >-
   placed back in the water, we will be able to expand our program by more than
   30%.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

@@ -9,18 +9,6 @@ project_summary: >-
   and the public to contribute to the arts. EWLA connects artists to individuals
   and businesses through mutually beneficial exchanges, with an economic,
   environmental, personal and cultural impact.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   While working countywide, EWLA’s temporary event space will be located in LA’s
   Downtown Arts District, with the specific location to be determined
@@ -38,6 +26,8 @@ maker_image_id: '23594'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23594%252Fdisplay%252FEW_Molly_EWLA_sm.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: banana
 
 ---

@@ -13,18 +13,6 @@ project_summary: >-
   with the support of 850 volunteers. By 2017, we intend to partner with an
   additional four to six new school sites, doubling our reach from 500 to 1,000
   children in Los Angeles area Title I schools.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   Our current ten school partners are located in Pasadena, Mid-City LA, Santa
   Monica, and Lawndale. We are currently reaching out to new prospective
@@ -156,6 +144,13 @@ How do you plan to scale the success of your proposal?: >-
    
    Having began at a single elementary school in 1999, today, Reading Partners is in 13 regions across the United States, directly serving more than 9,200 students in 180 schools with the support of more than 15,000 volunteers. By building on our current successes, we aspire to dramatically expand our impact, and ultimately have a positive effect on reading proficiency nationwide. At Reading Partners, we believe that literacy unlocks opportunity, and every child deserves to learn this fundamental skill that affords them the opportunity to comprehend, engage, and change the world around them. We look forward to advancing this critical work both here at home in Los Angeles and beyond.
 year_submitted: 2015
+project_areas:
+  - San Gabriel Valley
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

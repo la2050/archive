@@ -12,18 +12,6 @@ project_summary: >-
   slow loving replacement of lets say half of the trees that do not bare fruit
   or other commonly used raw materials; in essence lets create a city where
   everything is being put to its highest call.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Lincoln middle school
 category: 0createplaylive
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -39,6 +27,7 @@ maker_image_id: '23293'
 maker_image_file_name: osi0.jpeg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23293%252Fdisplay%252Fosi0.jpeg=c570x385
+project_areas: []
 body_class: strawberry
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2015132'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/LAWF.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A. Connect the dots between communities and cities in this region using the
   rail network as the backbone of the LAWF
@@ -111,6 +102,15 @@ Whom will your project benefit? Please be specific.: >-
    2. Development of the strategic plan to be used by participants in their outreach efforts, and 
    3. Effective administration collaborative outreach efforts toward achieving the overall objectives of the project.
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

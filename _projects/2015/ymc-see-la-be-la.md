@@ -11,18 +11,6 @@ project_summary: >-
    “See LA. Be LA!” will empower YMC to connect young and older from all corners of LA with experiences that make Los Angeles, Los Angeles. 
    
    From Hollywood Boulevard to Santa Monica Pier, from Downtown LA to the Valley, “See LA. Be LA!” will fulfill LA2050’s CONNECT mission by expanding YMC’s reach to foster a connected LA.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -38,6 +26,8 @@ maker_image_id: '23754'
 maker_image_file_name: YMC_See_LA_Be_LA.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23754%252Fdisplay%252FYMC_See_LA_Be_LA.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2015196'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Alternative Travel Project encourages people to volunteer days outside the
   bubble of their cars & find new ways to travel. 
@@ -95,6 +86,11 @@ Whom will your project benefit? Please be specific.: >-
    To carry out these surveys we would like to collaborate with the Luskin School of Public Affairs at UCLA – their Institute for Transportation Studies would be a huge asset in assisting us with survey work & data analysis. This collaboration is not yet confirmed, though our collaborator CicLAvia is already working with the Luskin School & other UCLA researchers on several related projects, making this a natural partnership with the school.
 empty_column_1: ''
 youtube_video_identifier: u0DYRf98w-o
+project_areas:
+  - CENTRAL LA
+  - SOUTH LA
+  - SGV
+  - SFV
 body_class: tangerine
 
 ---

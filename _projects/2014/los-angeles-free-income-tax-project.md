@@ -9,15 +9,6 @@ organization_id: '2014045'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Did you know that thousands of volunteers throughout the United States drive
   one of the most effective anti-poverty strategies in the country? Volunteer
@@ -102,6 +93,14 @@ Whom will your project benefit? Please be specific.: >-
    Finally, three factors critical to the success of KYCC’s VITA collaborative include (1) buy-in from each organization, (2) effective volunteer engagement and (3) ability to sync with other anti-poverty initiatives. Although KYCC has been working informally with the partner organizations, each VITA partner’s commitment to the collaborative is key. Moreover, volunteers are the most important component of VITA services since they provide the actual tax preparation that brings refunds and credits back to our low-income communities. To ensure that volunteers enjoy their experience, the VITA collaborative must provide effective volunteer management. Finally, VITA services alone cannot combat poverty in Los Angeles. The collaborative must partner with other anti-poverty initiatives in the city such as the Mayor’s Working Families, City of Los Angeles Office of Financial Empowerment, and others.
 empty_column_1: ''
 youtube_video_identifier: tFrudFZCeRY
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

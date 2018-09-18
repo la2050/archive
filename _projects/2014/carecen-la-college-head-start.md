@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21279%252Fdisplay%252F20121102_193319.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For the past two years, CARECEN has been building momentum to continue
   expanding the College Head Start (CHS) Program, not only to those graduating
@@ -84,6 +75,8 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21279'
 maker_image_file_name: 20121102_193319.jpg
+project_areas:
+  - CENTRAL LA
 body_class: blueberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   solutions for a Los Angeles with clean air by 2050. This project enables girls
   and others to become advocates for the change they want to see in their
   communities.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: 'Pacoima, San Fernando, Panorama City'
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,10 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
 youtube_video_identifier: g5AgtC0G5ec
+project_areas:
+  - San Fernando Valley
+  - City of Los Angeles
+  - LAUSD
 body_class: lime
 
 ---

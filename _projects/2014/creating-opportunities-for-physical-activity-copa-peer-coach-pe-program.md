@@ -9,15 +9,6 @@ organization_id: '2015161'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Prototypes’ Pomona Women’s Center has been in operation since 1988, providing
   residential treatment to women and their children. Our LA2050 project will
@@ -73,6 +64,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: S_0nE1f2B1w
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: lime
 
 ---

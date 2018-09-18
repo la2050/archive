@@ -9,27 +9,6 @@ organization_id: '2014141'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: >-
-  Currently we benefit 6th-12th grade students in Culver City, El Monte, El
-  Rancho, Hacienda La Puente and Pomona Unified School Districts
-LA COUNTY: >-
-  CCGI helps 6th-12th grade students develop a career aspiration, and then plan,
-  prepare and figure out how to pay for college.
-OTHER: >-
-  CCGI takes a three pronged approach to our goal of ensuring that all high
-  school students graduate with a post-secondary plan. We:
-   
-   1) Build mobile (in development) and web based (CaliforniaColleges.edu) college and career planning tools that allow each student to develop their own individual portfolio.
-   
-   2) Partner with K-12 districts to integrate our tools into instructional time and counseling practice (both school based counselors and partner CBOS/university based outreach programs) so that all students meet 18 college and career planning milestones.
-   
-   3) Facilitate collaboration between our district partners and local colleges/universities to use student portfolios for college recruitment, admission and first year academic placement.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   By 2050, a student in LA will have ongoing college and career planning
   activities integrated into their educational experience irrespective of school
@@ -80,6 +59,8 @@ What will you do to implement this idea/project?: >-
 How will your idea/project help make LA the best place to connect today? In LA2050?: ''
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - SOUTH BAY
 body_class: blueberry
 
 ---

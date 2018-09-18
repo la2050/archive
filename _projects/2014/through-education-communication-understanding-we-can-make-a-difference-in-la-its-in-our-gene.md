@@ -11,15 +11,6 @@ organization_id: '2014145'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will meet with local and state administrators to educate them on the
   financial and educational benefits of GENE. There are many costs associated
@@ -57,6 +48,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We are committed to help these diverse learners thrive and hope to have your support in helping to meet their instructional needs.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

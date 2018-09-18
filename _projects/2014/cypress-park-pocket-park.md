@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22209%252Fdisplay%252FSite_scale.JPG=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Northeast LA
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Late 2015 – Early 2015: Comprehensive Community Engagement. 
    FLTS will host two community workshops to engage community in design to ensure the park will meet their needs. Soapbox: When people contribute to a community asset, they invest themselves and derive a sense of pride that often empowers them to stay active in and care for their community. 
@@ -70,6 +61,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22209'
 maker_image_file_name: Site_scale.JPG
+project_areas:
+  - LA COUNTY
 body_class: strawberry
 
 ---

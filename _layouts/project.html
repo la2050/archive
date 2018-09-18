@@ -337,6 +337,84 @@ stylesheets:
 
 <div class="proposal-in-depth">
 
+
+
+{% if page.year_submitted == 2014 %}
+
+<div class="proposal-answers">
+
+{% if page.project_areas and page.project_areas.size > 0 %}
+<h3>In what areas of Los Angeles will you be directly working?</h3>
+<ul>
+  {% for area in page.project_areas %}
+  <li>{{ area }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<h3>Which area(s) of LA does your project benefit?</h3>
+{{ page['Which area(s) of LA does your project benefit? Other (elaborate)'] }}
+
+<h3>What is your idea/project in more detail?</h3>
+{{ page['What is your idea/project in more detail?'] }}
+
+<h3>What will you do to implement this idea/project?</h3>
+{{ page['What will you do to implement this idea/project?'] }}
+
+<h3>How will your idea/project help make LA the best place to connect today? In LA2050?</h3>
+{{ page['How will your idea/project help make LA the best place to connect today? In LA2050?'] }}
+
+<h3>Whom will your project benefit?</h3>
+{{ page['Whom will your project benefit? Please be specific.'] }}
+
+</div>
+
+
+{% elsif page.year_submitted == 2015 %}
+
+<div class="proposal-answers">
+
+{% if page.project_areas and page.project_areas.size > 0 %}
+<h3>In what areas of Los Angeles will you be directly working?</h3>
+<ul>
+  {% for area in page.project_areas %}
+  <li>{{ area }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<h3>Are there any other areas where you’ll be working?</h3>
+{{ page['Please specify below'] }}
+
+<h3>Describe in greater detail how you will make LA the best place to connect</h3>
+{{ page['Describe in greater detail how you will make LA the best place to connect:'] }}
+
+<h3>Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?</h3>
+{{ page['Please list at least one major barrier/challenge you anticipate. What is your strategy for overcoming these obstacles?'] }}
+
+<h3>Please explain how you will evaluate your work.</h3>
+{{ page['Please explain how you will evaluate your work.'] }}
+
+<h3>Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?</h3>
+{{ page['Are there other organizations doing similar work (whether complementary or competitive)? What is unique about your proposed approach?'] }}
+
+<h3>Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?</h3>
+{{ page['Please identify any partners or collaborators who will work with you on this project. How much of the $100,000 grant award will each partner receive?'] }}
+
+<h3>How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?</h3>
+{{ page['How much do you think this will cost? If more than $100,000 – how will you cover the additional costs?'] }}
+
+<h3>Please include a detailed budget of how you will use $100,000 to implement this project.</h3>
+{{ page['Please include a detailed budget of how you will use $100,000 to implement this project.'] }}
+
+<h3>How do you plan to scale the success of your proposal?</h3>
+{{ page['How do you plan to scale the success of your proposal?'] }}
+
+</div>
+
+
+{% else %}
+
 <div class="proposal-answers">
 
 <!--
@@ -435,6 +513,11 @@ stylesheets:
 {% endif %}
 
 </div>
+
+{% endif %}
+
+
+
 
 {% comment %}
 <hr />

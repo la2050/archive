@@ -9,15 +9,6 @@ organization_id: '2018008'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/DZtldImzMPo/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The mission of Big Citizen HUB is to build a community of Big Citizens,
   expanding the social capital of youth through curiosity, gratitude, team, and
@@ -83,6 +74,12 @@ Whom will your project benefit? Please be specific.: >-
    - The Red Shield Youth and Community Center is providing us with the facilities with which to run our office. In return, we provide the Red Shield’s staff with youth development training and coaching. In addition, all Big Citizens will become members of the center.
 empty_column_1: ''
 youtube_video_identifier: DZtldImzMPo
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SOUTH BAY
+  - WESTSIDE
 body_class: tangerine
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2016205'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/vKCqcYfiVNA/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will work with School districts and public parks to establish the first
   sites. We have already begun the process by engaging Kevin James in the
@@ -55,6 +46,13 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: vKCqcYfiVNA
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
 body_class: strawberry
 
 ---

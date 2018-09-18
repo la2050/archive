@@ -11,18 +11,6 @@ project_summary: >-
   homework done first, then begin basketball training. We want our youth to get
   better and improve so that they can further their career and education by
   obtaining a college athletic scholarship.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -78,6 +66,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
 youtube_video_identifier: IscZOss0am8
+project_areas:
+  - San Fernando Valley
+  - County of Los Angeles
 body_class: blueberry
 
 ---

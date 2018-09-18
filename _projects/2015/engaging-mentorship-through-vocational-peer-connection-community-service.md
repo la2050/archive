@@ -11,18 +11,6 @@ project_summary: >-
   isolation and building the confidence of the individual. 
    
    The purpose of vocational skill is to meet a need. Carpenters build a table to eat on, etc. By sharing our needs, we will relate and build a solution together.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -34,6 +22,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': ''
 How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
+project_areas:
+  - South LA
 body_class: strawberry
 
 ---

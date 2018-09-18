@@ -14,18 +14,6 @@ project_summary: >-
   space celebrating local artists, engaging local businesses, and inviting
   Angelenos of all ages to enjoy eclectic programs in a safe, clean, fun park
   setting in the heart of the city.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Downtown LA/Chinatown
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -115,6 +103,7 @@ How do you plan to scale the success of your proposal?: >-
   and educational programming surrounding creating small businesses or
   successful freelance businesses.
 year_submitted: 2015
+project_areas: []
 body_class: strawberry
 
 ---

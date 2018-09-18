@@ -12,18 +12,6 @@ project_summary: >-
   neighborhoods. Through a community engagement process, we will empower
   residents to design their own plan to create affordable and appropriate shared
   mobility choices for their communities
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Cities of Bell, Bell Gardens, Cudahy, and Huntington Park'
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -37,6 +25,8 @@ How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/IGi8wUlJ0bA/maxresdefault.jpg'
 youtube_video_identifier: IGi8wUlJ0bA
+project_areas:
+  - South LA
 body_class: lime
 
 ---

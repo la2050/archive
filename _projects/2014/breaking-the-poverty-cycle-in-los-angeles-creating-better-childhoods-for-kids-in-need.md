@@ -11,15 +11,6 @@ organization_id: '2015130'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The implementation strategy involves a year-round semester-based curriculum
   program, made fiscally sustainable by generating revenue by selling produce
@@ -115,6 +106,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3-Funding (Hmm...)
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
 body_class: lime
 
 ---

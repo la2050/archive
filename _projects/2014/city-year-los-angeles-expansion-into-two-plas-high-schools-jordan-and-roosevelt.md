@@ -11,15 +11,6 @@ organization_id: '2018027'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/8tBfuIKLAao/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Jordan High School in Watts and Roosevelt High School in Boyle Heights
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   As stated above, City Year and Partnership for LA Schools have worked closely
   together for a number of years. Both organizations serve schools and
@@ -77,6 +68,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 8tBfuIKLAao
+project_areas:
+  - EAST LA
+  - SOUTH LA
+  - LA COUNTY
 body_class: blueberry
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20921%252Fdisplay%252FResilience-3_02.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will be building off of the success of the existing Nature
   Parkway. First we will re-engage the Friends of the Nature Parkway made up of
@@ -71,6 +62,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20921'
 maker_image_file_name: Resilience-3_02.jpg
+project_areas:
+  - SFV
 body_class: lime
 
 ---

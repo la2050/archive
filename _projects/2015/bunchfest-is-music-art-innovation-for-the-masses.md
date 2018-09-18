@@ -10,18 +10,6 @@ project_summary: >-
   dedicated to bringing resources to creatives with the goal of increasing
   employment in creative fields and empowering makers and entrepreneurs in these
   industries.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Arts District, Downtown Los Angeles'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -33,6 +21,9 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': ''
 How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
+project_areas:
+  - East LA
+  - City of Los Angeles
 body_class: blueberry
 
 ---

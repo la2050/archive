@@ -12,15 +12,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22829%252Fdisplay%252FCollege_Bridge_Logo.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Students who place in remediation are less likely to graduate from college.
   Unfortunately, under-represented students are most likely to place in remedial
@@ -83,6 +74,13 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22829'
 maker_image_file_name: College_Bridge_Logo.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

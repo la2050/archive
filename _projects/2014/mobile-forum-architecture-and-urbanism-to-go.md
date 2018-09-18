@@ -9,15 +9,6 @@ organization_id: '2014203'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement this project, we will install 75 more gardens in LA in the next
   twelve months.
@@ -94,6 +85,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: tgVu1wy15RQ
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - LA COUNTY
 body_class: lime
 
 ---

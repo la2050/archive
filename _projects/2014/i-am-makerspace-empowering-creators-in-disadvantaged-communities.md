@@ -9,15 +9,6 @@ organization_id: '2014043'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: 'Boyle Heights, Downtown LA'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   The i.am Makerspace will provide the following: 
    
@@ -73,6 +64,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: uVV1_WmFT9o
+project_areas:
+  - EAST LA
+  - LA COUNTY
 body_class: banana
 
 ---

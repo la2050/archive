@@ -10,18 +10,6 @@ project_summary: >-
   Our proposal is to take otherwise non-graduating students and help them
   graduate by focusing on the fail they received in biology class (often the
   only obstacle between them and a diploma).
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -95,6 +83,15 @@ How do you plan to scale the success of your proposal?: >-
   well beyond high schools in the city of Los Angeles. At this point, we're
   excited to take it one step at a time.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
    We genuinely believe support for car-free transportation infrastructure will create a better Los Angeles.
    
    Through our efforts we aim to increase public usage of ATP infrastructure & we will work with lawmakers to create a more expansive & even safer system.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -100,6 +88,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
 youtube_video_identifier: _D5ZYrmwF6Y
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

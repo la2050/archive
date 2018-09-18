@@ -10,18 +10,6 @@ project_summary: >-
   creative lives by building the requisite critical understanding and
   infrastructure, and giving LA writers and artists the exposure they need to
   compete.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -169,6 +157,17 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/dZQ4_RgpSno/maxresdefault.jpg'
 youtube_video_identifier: dZQ4_RgpSno
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

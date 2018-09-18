@@ -12,18 +12,6 @@ project_summary: >-
   process fundamentally disrupts traditional planning and capital development by
   empowering local communities to re-imagine their front yards – city streets –
   and then demand permanent change.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -39,6 +27,8 @@ maker_image_id: '24129'
 maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24129%252Fdisplay%252FScreen_Shot_2015-10-07_at_4.00.20_PM.png=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

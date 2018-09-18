@@ -9,15 +9,6 @@ organization_id: '2014068'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: All visitors of Mosaic Mecca public art installation
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the Project, Piece by Piece will direct its resources and
   networks of support toward the planning and design for a major mosaic
@@ -89,6 +80,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factors critical to success: (1) Partnership with SRHT -- brings to bear an extensive network of private and public resources and connections that make the project possible, (2) Artist Involvement -- Through funding support from the NEA and others, Piece by Piece engages a roster of more than 25 professional artists, and will expand this roster significantly; (3) Arts-Network -- The Project will form meaningful partnership with individual artists, and also arts organizations with the talent and resources for lending support toward successful planning, design and coordination of a large Public Art installation.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - LA COUNTY
 body_class: banana
 
 ---

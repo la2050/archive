@@ -9,15 +9,6 @@ organization_id: '2018098'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/BoyleHeights.html'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We’re Promesa Boyle Heights, a passionate collaborative of over 60 residents,
   12 organizations, 2 schools, and dozens of businesses, non-profits, and
@@ -72,6 +63,8 @@ Whom will your project benefit? Please be specific.: >-
    
    Our collective impact model elevates partners to continuum leadership roles. In addition to partnering with the target schools and their education reform manager Partnership for Los Angeles Schools (PLAS), 12 agencies are collaborating as Continuum Lead Partners. We also work closely with two schools: Hollenbeck Middle School and Mendez High School. All partners signed an MOU at the end of our planning period in 2011 and 125 residents signed a commitment form. The coordination of resident engagement and leadership moving forward, particularly as it relates to the Wellness Center campaign, will be led by East Los Angeles Community Corporation (ELACC), InnerCity Struggle, & Proyecto Pastoral.
 empty_column_1: ''
+project_areas:
+  - EAST LA
 body_class: tangerine
 
 ---

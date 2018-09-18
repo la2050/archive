@@ -9,15 +9,6 @@ organization_id: '2014225'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through it's therapy and consultation work WIN affects the lives of 1000s of
   individuals yearly, and the core of our program is our intensive clinical
@@ -95,6 +86,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Thanks to WIN’s HIPAA-compliant data system (a system that has become the model for one the state of Connecticut has adopted for its early childhood mental health services), WIN and its partners coordinate care for each family though a jointly prepared on-line service plan that is updated by each agency regularly. The system reports monthly on how well we’re helping families achieve their goals, and allows staff to communicate in ‘real-time’ regarding family progress—as well as to coordinate care during emergencies. The system tabulates our biannual outcomes, gathering data input by staff at various levels from all partners, and reminds case managers and therapists when screenings, assessments and releases are due.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - SOUTH LA
+  - WESTSIDE
 body_class: lime
 
 ---

@@ -10,18 +10,6 @@ project_summary: >-
   opportunities for social events and community friendships. We are building an
   intentional community of the future that will give our special needs kids,
   teens and young adults the arena to reach their fullest potential.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -85,6 +73,9 @@ maker_image_id: '23906'
 maker_image_file_name: 2014-08-12_11.41.58.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385
+project_areas:
+  - San Fernando Valley
+  - County of Los Angeles
 body_class: strawberry
 
 ---

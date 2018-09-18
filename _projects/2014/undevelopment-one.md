@@ -9,15 +9,6 @@ organization_id: '2016232'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our coalition brings together a unique set of skills, including communication
   experts, business leaders, and community organizers. Our campaign focuses on
@@ -100,6 +91,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: g8ndzuZ3kKM
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - WESTSIDE
 body_class: lime
 
 ---

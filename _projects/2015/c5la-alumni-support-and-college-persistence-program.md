@@ -12,18 +12,6 @@ project_summary: >-
   college; however, many are unable to stay the course. Funding from LA2050 will
   enable C5LA to implement college retention initiatives for this vulnerable
   population to persist and succeed in college.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -141,6 +129,8 @@ How do you plan to scale the success of your proposal?: >-
    • We will host two alumni events in Year One and four events in Years Two and Three.
    • Migrate data and launch new software in the third and fourth quarters of Year One.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

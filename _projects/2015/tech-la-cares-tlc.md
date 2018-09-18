@@ -12,18 +12,6 @@ project_summary: >-
    Tech LA Cares (TLC) aims to bridge that gap by matching companies with organizations and events, both by in-person needs assessments, as well as online volunteer signup mechanisms.
    
    We believe in the efficiency of online tools, but also believe that human contact is key to success.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -162,6 +150,8 @@ maker_image_id: '23167'
 maker_image_file_name: tlc.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23167%252Fdisplay%252Ftlc.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

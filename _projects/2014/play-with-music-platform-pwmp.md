@@ -9,18 +9,6 @@ organization_id: '2014095'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: >-
-  The year long pilot program will benefit kids & the community of South LA, but
-  our app based platform will benefit the entire Green Dot Network and then
-  hopefully all of LAUSD
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   We have a 3 phase plan!
    
@@ -112,6 +100,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: o1W8HEqylCg
+project_areas:
+  - SOUTH LA
+  - LA COUNTY
 body_class: strawberry
 
 ---

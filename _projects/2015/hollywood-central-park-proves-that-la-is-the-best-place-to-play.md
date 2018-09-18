@@ -12,18 +12,6 @@ project_summary: >-
   than 60 years by the freeway. It should be a park that could exist only in
   Hollywood and is intrinsic to Los Angeles. It must connect the surrounding
   communities through innovative design.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Hollywood
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -125,6 +113,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg'
 youtube_video_identifier: t_fQo1Z6VSg
+project_areas:
+  - Central LA
 body_class: strawberry
 
 ---

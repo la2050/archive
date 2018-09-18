@@ -12,18 +12,6 @@ project_summary: >-
   students to value the importance of education, we aim to increase their
   overall interest while helping to bridge the gap between the educational
   inequities that currently exist.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -141,6 +129,15 @@ maker_image_id: '24144'
 maker_image_file_name: ShannonTaTLA2050.jpeg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24144%252Fdisplay%252FShannonTaTLA2050.jpeg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

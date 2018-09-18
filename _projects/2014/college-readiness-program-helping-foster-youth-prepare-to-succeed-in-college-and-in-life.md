@@ -12,15 +12,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20499%252Fdisplay%252FIMG_4794.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Central to UFC’s approach is providing the foster youth in our programs with
   long-term relationships with UFC staff members, who serve as the source of
@@ -93,6 +84,10 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20499'
 maker_image_file_name: IMG_4794.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
 body_class: blueberry
 
 ---

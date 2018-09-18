@@ -11,15 +11,6 @@ organization_id: '2014012'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   BRIDGE Theatre Project began in 2009 as an international theatre program
   offering worldwide exchange opportunities for youth to connect through
@@ -84,6 +75,8 @@ Whom will your project benefit? Please be specific.: >-
    3. A shared vision in shaping a positive future for all communities in Los Angeles.
 empty_column_1: ''
 youtube_video_identifier: q9wQFn0hPbk
+project_areas:
+  - SOUTH LA
 body_class: tangerine
 
 ---

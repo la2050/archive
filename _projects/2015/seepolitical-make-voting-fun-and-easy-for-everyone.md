@@ -9,18 +9,6 @@ project_summary: >-
   Angeles to establish the first SeePolitical Institute. 
    
    Establishment of the SeePolitical Institute will create a proven sustainable model by which college students research issues confronting voters and produce nonpartisan educational content for public consumption.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -116,6 +104,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
 youtube_video_identifier: atB8yIPXKCk
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

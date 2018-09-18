@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22050%252Fdisplay%252Fimagxxe.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Angelenos have long standing reputation of being disconnected from each other,
   (not knowing your nextdoor neighbor) our project involves taking farmers
@@ -65,6 +56,12 @@ Whom will your project benefit? Please be specific.: >-
 empty_column_1: ''
 maker_image_id: '22050'
 maker_image_file_name: imagxxe.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SOUTH BAY
+  - WESTSIDE
 body_class: tangerine
 
 ---

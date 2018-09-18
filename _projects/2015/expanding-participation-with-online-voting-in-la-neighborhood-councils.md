@@ -10,18 +10,6 @@ project_summary: >-
   online voting pilot on voter turnout and engagement, and develop
   recommendations and best practices for maximizing participation in future
   online elections in LA that become a model for cities around the country.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -88,6 +76,10 @@ maker_image_id: '23887'
 maker_image_file_name: civictechusc_neighborhood_LA2050.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23887%252Fdisplay%252Fcivictechusc_neighborhood_LA2050.png=c570x385
+project_areas:
+  - Central LA
+  - South LA
+  - City of Los Angeles
 body_class: strawberry
 
 ---

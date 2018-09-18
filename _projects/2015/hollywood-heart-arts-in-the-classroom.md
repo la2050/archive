@@ -11,18 +11,6 @@ project_summary: >-
   transform their campus through in-class and after-school arts workshops. We
   seek funding to sustain our program at LA High School and to launch new
   partnerships; potential candidates include Fairfax and Venice High Schools.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -130,6 +118,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
 youtube_video_identifier: 7VGCk_c0VcU
+project_areas:
+  - LAUSD
 body_class: strawberry
 
 ---

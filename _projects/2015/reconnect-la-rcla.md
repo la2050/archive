@@ -9,18 +9,6 @@ project_summary: >-
   they commit and, in the process, build community.
    
    By partnering with prosecuting agencies, RCLA will divert first-time offenders from the criminal justice system before charges are filed and into a volunteer-led program whose goal is to reconnect the first-time offender, who may feel isolated, ashamed, and disconnected, back into the community through service, dialogue, and referral to community resources.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -102,6 +90,8 @@ maker_image_id: '23396'
 maker_image_file_name: ReConnectLA_Logo_02.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23396%252Fdisplay%252FReConnectLA_Logo_02.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: lime
 
 ---

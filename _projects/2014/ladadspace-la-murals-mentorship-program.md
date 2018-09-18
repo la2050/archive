@@ -9,15 +9,6 @@ organization_id: '2014055'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LADADSpace’s strength lies in its deep relationships with property owners,
   restaurants, businesses, arts organizations, and artists in the Arts District
@@ -86,6 +77,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: cVrWTvw8gFc
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
 body_class: banana
 
 ---

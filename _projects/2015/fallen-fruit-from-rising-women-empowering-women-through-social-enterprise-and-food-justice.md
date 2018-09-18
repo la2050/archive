@@ -14,18 +14,6 @@ project_summary: >-
   Entrepreneurs Academy into two concrete program for Crossroads graduates. The
   programs will help the women build business and financial literacy while
   offering economic opportunities for graduates.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Claremont, CA and the immediate surrounding area'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -39,6 +27,8 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 youtube_video_identifier: Ht0-3dSjCew
+project_areas:
+  - San Gabriel Valley
 body_class: blueberry
 
 ---

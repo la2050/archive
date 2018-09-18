@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22672%252Fdisplay%252Frainbow.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   LASC will implement this idea through the following activities:
    a. Senior Fellows: Hire four temporary or part time “Senior Fellows” to be managed and coached by LASC Board and staff to oversee research and programs under each initiative area. Senior Fellows will be young professionals or graduate students, with demonstrated interest in Southern California sustainability issues. Each Senior Fellow’s job description is as follows:
@@ -87,6 +78,14 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22672'
 maker_image_file_name: rainbow.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: lime
 
 ---

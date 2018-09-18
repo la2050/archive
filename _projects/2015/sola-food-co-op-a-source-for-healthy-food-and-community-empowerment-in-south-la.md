@@ -14,18 +14,6 @@ project_summary: >-
   fresh juices, and organic coffee. We feel that in an area long overlooked,
   with too few grocery stores, that is a food desert, a health foods cooperative
   is a brilliant solution.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: In the Leimert Park area
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -108,6 +96,8 @@ How do you plan to scale the success of your proposal?: >-
   toward hiring a general manager,designing and equipping the store, obtaining
   inventory,and opening.
 year_submitted: 2015
+project_areas:
+  - South LA
 body_class: strawberry
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   understand both the context and history of the underlying issues. The practice
   of deep listening without judgment fosters an atmosphere of respect for one’s
   self and others, promotes empathy, understanding and cooperation.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -36,6 +24,13 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/Nry74LO2c0I/maxresdefault.jpg'
 youtube_video_identifier: Nry74LO2c0I
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
 body_class: lime
 
 ---

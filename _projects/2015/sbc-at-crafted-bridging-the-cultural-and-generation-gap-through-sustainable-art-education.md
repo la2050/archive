@@ -14,18 +14,6 @@ project_summary: >-
   arts and sustainability through a program of exhibitions and workshops that
   emphasize community, connection and the exchange of ideas between people of
   all backgrounds and ages.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: 'San Pedro, Los Angeles, South Bay'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -114,6 +102,10 @@ How do you plan to scale the success of your proposal?: |-
    During our successful year at CRAFTED, SBC will work to find funding to continue the program at the LA Waterfront, and to expand the program to other areas of Los Angeles. List other organizations that may potentially want to partner for space and support the projects expansion… 
    We hope that we can continue the program of exhibitions and workshops at the CRAFTED location. There is potential to develop a similar program at the Anderson Senior Center
 year_submitted: 2015
+project_areas:
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

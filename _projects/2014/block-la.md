@@ -7,26 +7,6 @@ organization_id: '2014165'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/ZVtljIILth8/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: >-
-  In the next year, LA Community Garden Council will help an additional 150
-  low-income families grow healthy food in their neighborhood.
-OTHER: >-
-  We envision a community garden network for Los Angeles where people of all
-  ages live healthy, active lives in a clean environment by growing fresh food
-  in their neighborhood. This network enables healthy lifestyles by providing
-  access to healthy food and getting people outdoors exercising through
-  gardening. It fosters the meeting of people from diverse cultures to share the
-  best growing techniques in order to practice sustainable urban agriculture
-  while growing sustainable communities. 
-   
-   In the next year, LA Community Garden Council will build three new community gardens in low-income neighborhoods to ensure that at least 150 families can grow their own healthy food in their neighborhood.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Within the first year, the three new community gardens will provide access to
   healthy food and exercise for at least 150 low-income families in LA County.
@@ -75,6 +55,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: ZVtljIILth8
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
 body_class: lime
 
 ---

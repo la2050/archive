@@ -11,15 +11,6 @@ organization_id: '2015130'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/Rbh4r1scbVc/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Global
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1.- Implement and establish a clear platform and branding for social media and
   web presence of who we are, what we’ve done, where we’re going, as well as
@@ -133,6 +124,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Rbh4r1scbVc
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: blueberry
 
 ---

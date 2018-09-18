@@ -10,18 +10,6 @@ project_summary: >-
   matter to you, in real-time, on an interactive map that both engages and
   informs. Gone are the days of information overload and irrelevant articles...
   it's time to view the news like never before!
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -109,6 +97,8 @@ maker_image_id: '23547'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

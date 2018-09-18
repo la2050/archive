@@ -10,18 +10,6 @@ project_summary: >-
   The project will help key employees and related parties buy their company and
   in the process save jobs, promote investment, and help businesses get back
   into growth mode.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -123,6 +111,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We feel that the idea of long term employees buying the company they work for will be seen as a solution to the issue of income inequality and preserving manufacturing jobs. These issues have already been highlighted in our nation's upcoming presidential election.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

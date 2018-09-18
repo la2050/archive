@@ -10,18 +10,6 @@ project_summary: >-
   schools.
    
    Lacking healthy food access, missing basic amenities and the real estate gold rush along the LA River have left modest neighborhoods without economic development drivers. As our LA River Cafe project proved, pop-up to permanent cottage businesses can meet the needs for jobs, healthy alternatives and locally operated small businesses.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: The Los Angeles River adjacent communities lacking basic services
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -159,6 +147,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
 youtube_video_identifier: CTFt7gFp6BY
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   because we LOVE her! We also do a lot of outreach for adults and kids of all
   ages: lectures, presentations, tabling events to let everyone know what is
   happening in the ocean.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   ANY school that will let us do a presentation, we will attend. For ocean
   cleanups: we are working mostly in the San Pedro Bay and off of Catalina.
@@ -96,6 +84,8 @@ How do you plan to scale the success of your proposal?: >-
   everywhere. We have more recent videos on Vimeo, but your application only
   seems to recognize YouTube.
 year_submitted: 2015
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

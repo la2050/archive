@@ -12,18 +12,6 @@ project_summary: >-
    FEAL.LA highlights L.A. musicians, and industry leaders through shareable content, unique experiences, and intimate gatherings. 
    
    All building towards our vision of creating a sanctuary for the arts. A one-stop-shop for independent artists, offering recording studios, accommodation, event space.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -108,6 +96,8 @@ maker_image_id: '23967'
 maker_image_file_name: LOGO.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23967%252Fdisplay%252FLOGO.png=c570x385
+project_areas:
+  - East LA
 body_class: blueberry
 
 ---

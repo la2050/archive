@@ -9,15 +9,6 @@ organization_id: '2014079'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Building upon our 10-year track record as a presenting theatre and home to a
   resident theatre laboratory, Schkapf will expand its pilot programming
@@ -92,6 +83,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: mei1C43QDXw
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: banana
 
 ---

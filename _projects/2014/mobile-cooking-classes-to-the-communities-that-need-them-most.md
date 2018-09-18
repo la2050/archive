@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21775%252Fdisplay%252FIMG_20140406_135445.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: 'Northeast Los Angeles: Lincoln Heights, Cypress Park, Highland Park.'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1) Agri-Corps Internships: Agri-Corps interns complete Proyecto Jardin's urban
   farm apprentice program, an 8-month project-based learning experience
@@ -62,6 +53,11 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21775'
 maker_image_file_name: IMG_20140406_135445.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - LA COUNTY
 body_class: lime
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   their own. During the 2015-2016 school year, we will partner with 15 Los
   Angeles schools to implement our proven programming, thereby reaching a total
   of 3,649 individuals.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -135,6 +123,9 @@ How do you plan to scale the success of your proposal?: >-
    
    This fall, we are piloting CommonBytes in the Miami-Dade County Public Schools, with a national pilot –including in Los Angeles – planned for 2016. Overall, during the 2015-16 school year, we expect up to 5,000 kids to receive cooking and nutrition education through CommonBytes.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

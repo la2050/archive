@@ -9,15 +9,6 @@ organization_id: '2014212'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: L.A. Harbor area and Harbor Gateway
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We completed our first full year of implementation as one of only five
   recipients (out of over 250 applicants) of the national Toyota Family Learning
@@ -86,6 +77,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: 7nJBFWm-mb0
+project_areas:
+  - LA COUNTY
 body_class: blueberry
 
 ---

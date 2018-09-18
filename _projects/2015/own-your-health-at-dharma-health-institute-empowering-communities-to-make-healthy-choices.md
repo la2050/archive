@@ -13,18 +13,6 @@ project_summary: >-
   strategies to underserved individuals so that they can incorporate into their
   daily life wellness practices that benefit and maintain their physical,
   mental, emotional and life-philosophy health.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -124,6 +112,10 @@ How do you plan to scale the success of your proposal?: >-
    
    For us as an organization, we will assess success by having the opportunity to provide integrative health services to a wider population and offer the community at large an opportunity to learn strategies and techniques to live a healthier, a more productive life and be empowered to make health decisions based on the knowledge they receive.
 year_submitted: 2015
+project_areas:
+  - Westside
+  - South Bay
+  - County of Los Angeles
 body_class: strawberry
 
 ---

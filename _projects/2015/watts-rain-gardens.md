@@ -9,18 +9,6 @@ project_summary: >-
   revitalization project that will create 10000 sq ft of pervious surface that
   will not only capture stormwater before it enters the ocean and provide much
   needed tree shade, but will create beautiful green parkways in Watts.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -115,6 +103,8 @@ maker_image_id: '24100'
 maker_image_file_name: IMG_4644.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385
+project_areas:
+  - South LA
 body_class: strawberry
 
 ---

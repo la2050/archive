@@ -9,18 +9,6 @@ project_summary: >-
   the people of the city. Now repeat [you’ll have too much fun not to]. 
    
    My Bucketlist LA uses an interactive platform/map interface in order for targeted audieinces (e.g., new residents, college students, community leaders (neighborhood council members)) to easily navigate and connect with each other through curated community and cultural events focused around volunteerism, play/fun, and food.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -36,6 +24,9 @@ maker_image_id: '23304'
 maker_image_file_name: MyBucketlistLA.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23304%252Fdisplay%252FMyBucketlistLA.png=c570x385
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

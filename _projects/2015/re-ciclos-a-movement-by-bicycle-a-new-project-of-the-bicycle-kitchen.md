@@ -12,18 +12,6 @@ project_summary: >-
   everyday endeavors. Re:Ciclos seeks to empower students by offering an
   educational platform that puts their creations to work in their own
   communities and makes L.A. the best place to live.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Bicycle Kitchen 4429 Fountain Ave, Los Angeles, CA 90029'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -126,6 +114,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/a-kQryxgF4M/maxresdefault.jpg'
 youtube_video_identifier: a-kQryxgF4M
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

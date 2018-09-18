@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21430%252Fdisplay%252FPhotos_2013.JPG=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our Skid Row is composed of three core programs: community-engaged research,
   participatory design workshops, and public actions.
@@ -75,6 +66,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21430'
 maker_image_file_name: Photos_2013.JPG
+project_areas:
+  - CENTRAL LA
 body_class: banana
 
 ---

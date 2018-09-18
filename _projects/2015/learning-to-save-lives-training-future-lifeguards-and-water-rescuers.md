@@ -12,18 +12,6 @@ project_summary: >-
   professional lifesaving equipment. Our Program is designed to educate and
   impassion youth to appreciate and respect the marine environment and introduce
   youth to a career choice in water safety.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Hansen Dam, Lake View Terrace, CA; Cabrillo Beach, San Pedro, CA'
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -122,6 +110,9 @@ How do you plan to scale the success of your proposal?: >-
   for babies, infants, and toddlers that the City of LA does not currently
   provide.
 year_submitted: 2015
+project_areas:
+  - San Fernando Valley
+  - South Bay
 body_class: lime
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2016148'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/_PVTw0r1Njg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In conjunction with the Mayor's office, we will select 1,000 Los Angeles
   classrooms to implement our pilot program for the 2014-2015 school year. M+B
@@ -70,6 +61,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: _PVTw0r1Njg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

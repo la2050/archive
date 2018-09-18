@@ -12,18 +12,6 @@ project_summary: >-
   will be two 2-hour weekly workshops lasting 4 weeks, each culminating in a
   community open mic. Each district will feature one workshop for English
   speakers, and another for Spanish speakers.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -111,6 +99,9 @@ How do you plan to scale the success of your proposal?: >-
    
    Because of the unique approach of community engagement through this project we have begun to identify other foundations that have this as their funding priorities such as the James Irvine Foundation and their Exploring Engagement Fund Grant. We also hope that this project can be a catalyst to bring together many more collaborators around Los Angeles who are doing great work around poetry and expand the partnership to potentially develop a city-wide crowdsourcing campaign to expand the work to a larger scale.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

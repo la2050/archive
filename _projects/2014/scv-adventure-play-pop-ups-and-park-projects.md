@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21829%252Fdisplay%252FIMG_9755_edit.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Santa Clarita Valley
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are working within three start-up phases. Phase 1 consists of holding
   pop-up adventure playgrounds in the Santa Clarita Valley for awareness
@@ -77,6 +68,15 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21829'
 maker_image_file_name: IMG_9755_edit.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: strawberry
 
 ---

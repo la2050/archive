@@ -11,18 +11,6 @@ project_summary: >-
   training, and recruitment agencies. We do this by providing intentional
   networking events and integrated essential skill-building internship
   opportunities for students to transition from college to the workforce.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -88,6 +76,9 @@ maker_image_id: '23390'
 maker_image_file_name: fair.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
+project_areas:
+  - San Gabriel Valley
+  - County of Los Angeles
 body_class: blueberry
 
 ---

@@ -14,18 +14,6 @@ project_summary: >-
   sport. A dedicated facility will enable us to realize our mission of being
   inclusive, expanding youth and wheelchair programs, as well as promote lasting
   social connections in the community.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: 'San Fernando Blvd, City of San Fernando; Los Angeles County'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -161,6 +149,11 @@ How do you plan to scale the success of your proposal?: |-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg'
 youtube_video_identifier: 3ceZFpvVVU0
+project_areas:
+  - San Fernando Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

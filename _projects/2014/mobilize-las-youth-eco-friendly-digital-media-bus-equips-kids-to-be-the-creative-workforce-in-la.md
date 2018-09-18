@@ -11,15 +11,6 @@ organization_id: '2014059'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: LA Area Probation Camps
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will work with an industry partner to purchase and retrofit an RV into an
   eco-friendly digital media classroom that runs on biodiesel and has a solar
@@ -96,6 +87,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
    What has made these collaborations work is our flexibility in programming (we customize the projects to fit the interests of that organization), our mobility to provide access to technology and a shared belief in the need to help all LA kids express their creativity as a way of strengthening communities.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: banana
 
 ---

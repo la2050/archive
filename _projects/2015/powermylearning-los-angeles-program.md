@@ -12,18 +12,6 @@ project_summary: >-
   world PowerMyLearning is creating in Los Angeles.
    
    We provide training & digital tools to low-income students, families & teachers to help students do better in school & achieve lifelong success
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,10 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/IG53vhayb9k/maxresdefault.jpg'
 youtube_video_identifier: IG53vhayb9k
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - South LA
 body_class: strawberry
 
 ---

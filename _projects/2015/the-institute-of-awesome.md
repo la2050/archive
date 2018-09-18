@@ -7,18 +7,6 @@ partners: ''
 project_summary: >-
   We propose to establish a series of classes and workshops in Los Angeles to
   study mythology and mysticism from around the world.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: West Hollywood
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -32,6 +20,8 @@ How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/pfI-6LKqW2M/maxresdefault.jpg'
 youtube_video_identifier: pfI-6LKqW2M
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

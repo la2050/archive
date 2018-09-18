@@ -9,15 +9,6 @@ organization_id: '2014003'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Antelope Valley
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In L.A.’s gang violence hot zones people are too afraid to play, or ride their
   bikes, or go to the park. But there are unexpected neighborhood heroes that
@@ -94,6 +85,15 @@ Whom will your project benefit? Please be specific.: >-
    Both organizations’ shared understanding of the needs of high-violence communities
 empty_column_1: '1'
 youtube_video_identifier: nt_fnRYCyhI
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: strawberry
 
 ---

@@ -11,15 +11,6 @@ organization_id: '2014057'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MassKnowtify is dedicated to making communications between government and
   citizens more accessible, valuable, and effective. MassKnowtify solves
@@ -100,6 +91,15 @@ Whom will your project benefit? Please be specific.: >-
    To better connect with citizens and communities throughout Los Angeles, we will rely on networking with a broad spectrum of groups, including community based organizations, neighborhood councils and associations, local elected officials, and other civic technology providers.
 empty_column_1: ''
 youtube_video_identifier: ql6hxsjKMCQ
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   classes, which produces well-rounded, positive students. We see students teach
   other students, which promotes the idea of helping others and sharing our
   gifts and talents.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: 'Start with schools in Torrance, then branch out neighboring cities in LA'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -96,6 +84,12 @@ How do you plan to scale the success of your proposal?: >-
   learned how to sew, crochet and knit. Second,
    success is measured when students decide to become vendors at Yes4arts events and showcase their art designs. Finally, success is measured when students return to our classes with positive updates of their lives, have made education a priority, and have become positive role models in the community for other new students. This is when Yes4arts can be proud of making a difference, one student at a time.
 year_submitted: 2015
+project_areas:
+  - Westside
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

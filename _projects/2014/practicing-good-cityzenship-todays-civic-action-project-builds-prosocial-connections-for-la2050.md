@@ -11,15 +11,6 @@ organization_id: '2014021'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/I85PHrZjakM/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We imagine a vibrant LA2050 where strong social connectedness joins citizens
   who work together to solve problems and improve communities. The LA2050 we
@@ -108,6 +99,15 @@ Whom will your project benefit? Please be specific.: >-
    These collaborations resulted from a middle school teacher and environmental advocate contacting CRF based on the strength of our reputation for balanced, impactful curricula that teach students how to respectfully engage with peers, opponents, and policymakers to effectively advocate for the issues they care about. The results of this interdisciplinary initiative have the potential to make LA2050 not only one of the most civically engaged regions in the U.S., but also to help ensure that the next generation of environmental stewards are prepared to defend our LA coastline. The future health of our water and of the many different communities that depend on this unique ecosystem depends on the civic engagement skills CAP students develop today.
 empty_column_1: ''
 youtube_video_identifier: I85PHrZjakM
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

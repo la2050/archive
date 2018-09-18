@@ -9,15 +9,6 @@ organization_id: '2014082'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Resilient South LA nonprofits will become local capacity builders and earn
   income as community-based consulting firms. Organizations that have shown
@@ -105,6 +96,8 @@ Whom will your project benefit? Please be specific.: >-
    Three factors critical to the success of our project include: maintaining credible and responsive relationships with SLA nonprofits; maximizing the use of social network tools to engage and make more readily available capacity building knowledge; and cultural competence and responsiveness to the unique needs of diverse organizations.
 empty_column_1: ''
 youtube_video_identifier: iHlwRhoV_78
+project_areas:
+  - SOUTH LA
 body_class: tangerine
 
 ---

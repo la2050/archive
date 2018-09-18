@@ -9,27 +9,6 @@ organization_id: '2018093'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/OpportunityFund.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: >-
-  #Microfinance creating #jobs in LA by funding #foodtrucks! Each loan creates
-  new jobs. So cool, @OpportunityFund!
-OTHER: >-
-  Opportunity Fund's Food Truck Financing initiative will provide microloans to
-  mobile food vendors throughout LA County, supporting economic and social
-  vitality by creating jobs and bringing healthy food options to underserved
-  communities across the region. Our goal is to provide $2M in microloans to
-  local food truck entrepreneurs to upgrade or purchase food trucks (as part of
-  our overall goal to invest $9M in 600 underserved small business owners in the
-  region). By enabling low-income food truck entrepreneurs to access the capital
-  and support they need to grow and create jobs, our microlending program drives
-  economic mobility for these small business owners, while also generating
-  demand to support local food truck manufacturers.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Opportunity Fund seeks to scale our microlending program in LA’s underserved
   communities to support more than 600 small business owners, including 80 food
@@ -79,6 +58,12 @@ What will you do to implement this idea/project?: >-
 How will your idea/project help make LA the best place to connect today? In LA2050?: ''
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
 body_class: banana
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   component in which youth will play a role in building the plan and launching
   the business. Students will earn certifications and have the opportunity to
   further their studies through our strategic partners in higher learning.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -117,6 +105,9 @@ maker_image_id: '23245'
 maker_image_file_name: Slide1.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385
+project_areas:
+  - South LA
+  - City of Los Angeles
 body_class: strawberry
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21199%252Fdisplay%252FDSC02097-2.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Original Green Community Food Hub helps low-income farm entrepreneurs
   create businesses in South LA that are economically and environmentally
@@ -71,6 +62,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21199'
 maker_image_file_name: DSC02097-2.jpg
+project_areas:
+  - SOUTH LA
 body_class: lime
 
 ---

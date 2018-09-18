@@ -5,18 +5,6 @@ organization_id: ''
 areas_impacted: ''
 partners: ''
 project_summary: testing
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -32,6 +20,8 @@ maker_image_id: '23130'
 maker_image_file_name: Screen_Shot_2014-04-25_at_7.34.13_PM.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23130%252Fdisplay%252FScreen_Shot_2014-04-25_at_7.34.13_PM.png=c570x385
+project_areas:
+  - San Fernando Valley
 body_class: lime
 
 ---

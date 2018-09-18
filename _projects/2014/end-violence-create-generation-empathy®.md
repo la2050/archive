@@ -9,17 +9,6 @@ organization_id: '2015190'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: >-
-  Our pilot program will be in the Boyle Heights area, then expand to greater
-  Los Angeles, and beyond.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1. Develop and finalize Generation Empathy® curriculum, for several age
   groups. (by spcaLA)
@@ -75,6 +64,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Roosevelt High School
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - SOUTH LA
+  - LA COUNTY
 body_class: strawberry
 
 ---

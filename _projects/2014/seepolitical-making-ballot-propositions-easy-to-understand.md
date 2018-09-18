@@ -9,15 +9,6 @@ organization_id: '2015177'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/XBMMD3_5s30/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SeePolitical.com is an interactive website, widget and mobile app providing
   objective, easily understood information about ballot propositions for all
@@ -103,6 +94,15 @@ Whom will your project benefit? Please be specific.: |-
    In order for our partnerships to succeed, SeePolitical must: 1) Deliver high quality videos that engage our audience 2) Provide strictly unbiased interpretations for each ballot proposition 3) Continue to nurture our existing relationships and develop relationships beyond our initial scope by directly engaging each organization’s membership and/or audience.
 empty_column_1: ''
 youtube_video_identifier: XBMMD3_5s30
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

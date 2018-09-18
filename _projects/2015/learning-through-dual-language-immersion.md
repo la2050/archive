@@ -10,18 +10,6 @@ project_summary: >-
   education throughout Los Angeles beginning at the elementary school level.
    
    Patrick Henry Foundation was established by parents of Patrick Henry Elementary, one of Long Beach's most established and well-recognized Spanish/English dual immersion education programs in order to raise funds to provide increased educational opportunities to students in LA.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: 'Patrick Henry Elementary School, Long Beach, CA'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -116,6 +104,18 @@ maker_image_id: '23186'
 maker_image_file_name: d48c0ef901b441899955a9ebf656288f.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23186%252Fdisplay%252Fd48c0ef901b441899955a9ebf656288f.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

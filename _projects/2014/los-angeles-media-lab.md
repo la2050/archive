@@ -9,15 +9,6 @@ organization_id: '2014034'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already began to implement the foundation of our plan through building
   a mobile studio, hosting live television tapings, teaching A/V workshops, and
@@ -62,6 +53,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: DiU_9RR7ZvY
+project_areas:
+  - CENTRAL LA
+  - EAST LA
 body_class: banana
 
 ---

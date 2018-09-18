@@ -12,18 +12,6 @@ project_summary: >-
   the city of Los Angeles for creative and business professionals in the
   entertainment industry. STARS will be a brick and mortar hub for aspiring and
   mid-level artists to collaborate and showcase their diverse talents.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -116,6 +104,8 @@ How do you plan to scale the success of your proposal?: >-
    3. Sustainability of the studio. Twice a month we will have meetings to discuss our current budget so that we can assess its accuracy based on actual center use and operation. This process will allow us to effectively apply for the appropriate local and federal grants based on our center’s usage. 
    4. Accountability to grant donors. We will provide monthly recaps to our Goldhirsh Foundation point of contact. Through our report findings, we will gauge our success and continuously consider implementation of advice provided by the Foundation.
 year_submitted: 2015
+project_areas:
+  - San Fernando Valley
 body_class: blueberry
 
 ---

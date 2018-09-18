@@ -7,18 +7,6 @@ partners: ''
 project_summary: >-
   I would like a proposal to teach students about legal, such as the process,
   forms, what to expect in a legal case, and learning how to become a Paralegal.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: '1'
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -34,6 +22,8 @@ maker_image_id: '23150'
 maker_image_file_name: DSC_5777.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23150%252Fdisplay%252FDSC_5777.jpg=c570x385
+project_areas:
+  - Antelope Valley
 body_class: strawberry
 
 ---

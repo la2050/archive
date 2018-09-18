@@ -12,18 +12,6 @@ project_summary: >-
   Apartments will provide access to healthy eating and community for those who
   do not live in a single family residence, but still want to take ownership of
   their health and community.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -88,6 +76,8 @@ maker_image_id: '23185'
 maker_image_file_name: thumb_IMG_2442_1024_2.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23185%252Fdisplay%252Fthumb_IMG_2442_1024_2.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

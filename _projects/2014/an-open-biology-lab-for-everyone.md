@@ -10,22 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: >-
-  Los Angeles Biohackers is an organization that has built an open community
-  laboratory and meeting space focused on helping people of all ages and
-  education levels gain access to advanced biological equipment and expertise.
-   
-   In generations past, kids turned to creative toys such as Lego and Erector Set. But recently kids have been adopting more advanced toys such as Arduinos and Raspberry Pis. We want to take this further and introduce more young people to biotech as a hobby.
-   
-   We will expand our current ability to serve the community with more space and more tools for kids and adults alike to learn and have fun together.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   While kids of the past may have tinkered with Lego or Erector Set, kids of
   today tinker with electronics. As a result of the miniaturization and
@@ -58,6 +42,13 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22859'
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
 body_class: strawberry
 
 ---

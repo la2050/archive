@@ -9,18 +9,6 @@ project_summary: >-
   visual depictions of Latino culture in Los Angeles.
    
    From public sculptures and iconic buildings to road signs and street vendors, each element will literally be‘reframed’ with a simple color panel placed behind it – momentarily taking the piece out of its surroundings and allowing the viewer see it afresh and to rethink its meaning.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -36,6 +24,9 @@ maker_image_id: '23861'
 maker_image_file_name: AplusD-ReveaLALA.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23861%252Fdisplay%252FAplusD-ReveaLALA.jpg=c570x385
+project_areas:
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

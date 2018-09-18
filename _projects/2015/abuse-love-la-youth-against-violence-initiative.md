@@ -11,18 +11,6 @@ project_summary: >-
   intervention, and a training service model to address the needs of youth
   exposed to domestic violence, teen dating violence, intimate partner violence,
   sexual assault, gang violence and bullying.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   Alain LeRoy Locke College Preparatory Academy and David Starr Jordan
   Educational Complex
@@ -123,6 +111,11 @@ How do you plan to scale the success of your proposal?: >-
   youth, parents and partners. We also intend to have a model that can be
   replicated in other Los Angeles area schools and beyond.
 year_submitted: 2015
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

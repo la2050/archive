@@ -12,18 +12,6 @@ project_summary: >-
   lunches. There is little room in the school budget for a Makers Space. We want
   to teach these students to invent out of ReImagined Resources or found
   objects.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: Title 1 Schools in LA County.
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -98,6 +86,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/1GUzOIci_7Q/maxresdefault.jpg'
 youtube_video_identifier: 1GUzOIci_7Q
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

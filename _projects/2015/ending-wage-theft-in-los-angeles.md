@@ -12,18 +12,6 @@ project_summary: >-
   workers’ wages, and responsible employers from unfair competition. We will
   also produce industry case studies, to identify and learn from employers who
   create quality employment.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -106,6 +94,8 @@ maker_image_id: '23889'
 maker_image_file_name: 12000148473_482ef012b5_k.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

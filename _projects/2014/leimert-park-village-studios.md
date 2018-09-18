@@ -9,15 +9,6 @@ organization_id: '2014038'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Leimert Park
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots
   community effort to shape the neighborhood’s economic development around its
@@ -107,6 +98,11 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: _BC4Wfw6Gb4
+project_areas:
+  - EAST LA
+  - SOUTH LA
+  - SOUTH BAY
+  - LA COUNTY
 body_class: banana
 
 ---

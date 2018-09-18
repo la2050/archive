@@ -12,18 +12,6 @@ project_summary: >-
   communities. Our project will create both a real world example of community
   resilience building, as well as tools to replicate the process in other
   communities.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,8 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/ERxmCic5y3o/maxresdefault.jpg'
 youtube_video_identifier: ERxmCic5y3o
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   CII’s Integrated Services Model addresses trauma through services in:
   evidence-based mental health, early childhood, youth development, and family
   support to treat the whole child and the entire family.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   CII Otis Booth Campus Westlake/Rampart Los Angeles; CII New Hampshire Campus
   Koreatown Los Angeles; CII Watts Campus Watts Los Angeles; CII Burton E. Green
@@ -140,6 +128,12 @@ How do you plan to scale the success of your proposal?: >-
    
    In September, CII achieved a milestone in Watts, unveiling plans for the future Campus, designed pro-bono by world-renowned architect Frank Gehry. CII will continue evaluating our Model’s effectiveness at reducing the symptoms of Adverse Childhood Experiences and we will bring the most successful aspects of this proposal to Watts.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

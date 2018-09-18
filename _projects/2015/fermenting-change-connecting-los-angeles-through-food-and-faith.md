@@ -12,18 +12,6 @@ project_summary: >-
   building connections around food, justice, and traditional ties to the earth,
   we build relationships across religious and cultural barriers to create an
   interconnected and resilient Los Angeles.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -153,6 +141,12 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg'
 youtube_video_identifier: z7nrpaONjUI
+project_areas:
+  - Central LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - Westside
+  - County of Los Angeles
 body_class: lime
 
 ---

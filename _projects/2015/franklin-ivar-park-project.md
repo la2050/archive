@@ -11,18 +11,6 @@ project_summary: >-
   pollution, water-efficient irrigation, picnic area, adventure play area for
   youth, shaded seating, solar panels, bicycle racks, nature trails, and free
   Wi-Fi.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: '6351 West Franklin Avenue, Los Angeles, CA 90028'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -121,6 +109,8 @@ maker_image_id: '23455'
 maker_image_file_name: Franklin-Ivar_Plan-small_2015_09_15.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23455%252Fdisplay%252FFranklin-Ivar_Plan-small_2015_09_15.jpg=c570x385
+project_areas:
+  - Central LA
 body_class: blueberry
 
 ---

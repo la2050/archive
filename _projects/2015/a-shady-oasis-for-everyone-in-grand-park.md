@@ -12,18 +12,6 @@ project_summary: >-
   elders. Adding shade areas will increase capacity and enhance the comfort of
   the 1MM people who access Grand Park annually to play, enjoy quiet green
   spaces and attend free events in downtown LA.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -121,6 +109,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 youtube_video_identifier: BhO5jmXKosA
+project_areas:
+  - Central LA
 body_class: lime
 
 ---

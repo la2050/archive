@@ -12,18 +12,6 @@ project_summary: >-
   educational activities they already expertly facilitate, and the produce from
   the garden networks they installed and maintain, at our South Los Angeles
   Youth-driven Neighborhood Food System sites.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -35,6 +23,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

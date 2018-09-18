@@ -11,15 +11,6 @@ organization_id: '2014088'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through beautiful, unstructured dinner parties hosted by friends for friends,
   we invite those who’ve experienced significant loss--a parent, a partner, a
@@ -88,6 +79,11 @@ Whom will your project benefit? Please be specific.: >-
    
    Confirmed event partners include EngAGE (www.engagedaging.org) and Experience Talks (http://www.experiencetalks.org/), and we are currently in conversation with several other potential organizations with a passion for story. Finally, regarding a digital campaign, the Harry Potter Alliance (thehpalliance.org) is already on board, and it’s something we’d like to explore with several existing friends in this space as well, including ModernLoss (www.modernloss.org).
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

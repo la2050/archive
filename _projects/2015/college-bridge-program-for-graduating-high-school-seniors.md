@@ -9,18 +9,6 @@ project_summary: >-
   school seniors to prepare them for college. The program will include academic
   and college readiness preparation. Students who successfully complete the
   program will receive a stipend.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Southeast L.A. County, including Whittier, Santa Fe Springs, Pico Rivera'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -125,6 +113,8 @@ maker_image_id: '23575'
 maker_image_file_name: Picture_5.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23575%252Fdisplay%252FPicture_5.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   pop up park and partners ready to support the creation of several more right
   away. We can take dead space in LA and bring it back to life to help people
   create stronger communities.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   We can build these parks anywhere there is unused or open lots in the city or
   county
@@ -107,6 +95,9 @@ maker_image_id: '23850'
 maker_image_file_name: IMG_9355.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23850%252Fdisplay%252FIMG_9355.JPG=c570x385
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

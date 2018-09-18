@@ -11,18 +11,6 @@ project_summary: >-
   and workshops will be coordinated with the acts performing on stage,
   showcasing the multiculturalism of LA, and expanding the awareness of other
   world cultures.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   Levitt Pavilion Los Angeles (MacArthur Park); Levitt Pavilion Pasadena
   (Memorial Park)
@@ -132,6 +120,9 @@ How do you plan to scale the success of your proposal?: >-
     
    Our hope is that through our efforts today, the next generation will appreciate the value of community spaces activated through shared arts experiences. The seeds planted today will hopefully grow into future investment in the arts. In 2050, all Angelenos will have ample opportunities to participate in high quality performing arts experiences. The citizens of Greater Los Angeles will be inspired by and appreciate how music and arts participation makes us all; more tolerant, innovative and engaged. This appreciation and understanding will play a prominent role in furthering Los Angeles as a center for diversity, culture and public engagement in the arts.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - San Gabriel Valley
 body_class: strawberry
 
 ---

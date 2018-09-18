@@ -11,18 +11,6 @@ project_summary: >-
   sponsoring live debates; by sponsoring a politically-themed film series; by
   offering special tours of politically-themed murals for families and children;
   and by sponsoring a My Vote Matters mural.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -100,6 +88,9 @@ maker_image_id: '23344'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385
+project_areas:
+  - Central LA
+  - City of Los Angeles
 body_class: blueberry
 
 ---

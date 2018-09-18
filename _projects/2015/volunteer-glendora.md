@@ -12,18 +12,6 @@ project_summary: >-
   investing in an enclosed mobile tool trailer that would house various
   equipment needed for volunteer projects throughout the City. It is the goal of
   the City to get the community excited about
-Central LA: ''
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: City of Glendora
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -93,6 +81,8 @@ maker_image_id: '23980'
 maker_image_file_name: LA2015_1.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385
+project_areas:
+  - San Gabriel Valley
 body_class: blueberry
 
 ---

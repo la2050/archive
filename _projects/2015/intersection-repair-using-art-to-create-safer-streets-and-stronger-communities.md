@@ -13,18 +13,6 @@ project_summary: >-
   intersection repair is a tested, cost-effective way to turn regular streets
   into places for people, making them safer and uniting neighbors through a
   common sense of ownership of and pride in their neighborhood.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'The Hub, Utopiad office in Solano Canyon'
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -38,6 +26,9 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/KHtt2okRChU/maxresdefault.jpg'
 youtube_video_identifier: KHtt2okRChU
+project_areas:
+  - Central LA
+  - City of Los Angeles
 body_class: strawberry
 
 ---

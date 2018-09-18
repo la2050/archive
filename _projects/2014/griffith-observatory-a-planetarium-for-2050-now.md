@@ -10,17 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20477%252Fdisplay%252F405.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: >-
-  Griffith Observatory serves not only our local community, but also visitors
-  from around the world and from across the nation.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Funding from LA2050 will be used to hire animators and special consultants
   required to create the thrilling visuals that inspire cosmic perspective in
@@ -70,6 +59,15 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20477'
 maker_image_file_name: 405.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: blueberry
 
 ---

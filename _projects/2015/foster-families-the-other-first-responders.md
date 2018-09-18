@@ -12,18 +12,6 @@ project_summary: >-
   willing to meet this need. Our proposal focuses on providing consolidated
   “just in time” on-line information to individuals and families willing to
   serve as foster parents.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -39,6 +27,8 @@ maker_image_id: '23745'
 maker_image_file_name: UCLA_Connect.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23745%252Fdisplay%252FUCLA_Connect.jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

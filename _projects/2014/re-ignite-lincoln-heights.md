@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20586%252Fdisplay%252FEly_Flores.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Lincoln Heights has a rich history of activism and civic engagement. LEAD will
   re-ignite Lincoln Heights. LEAD will develop a Community Needs Assessment to
@@ -103,6 +94,7 @@ Whom will your project benefit? Please be specific.: |-
 empty_column_1: ''
 maker_image_id: '20586'
 maker_image_file_name: Ely_Flores.jpg
+project_areas: []
 body_class: tangerine
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22163%252Fdisplay%252FTrade_Tech_Urban_Ag.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Seafood for the Future (SFF) works at all levels of the supply chain to bring
   about change, generates public awareness of ocean issues, and helps consumers
@@ -86,6 +77,15 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22163'
 maker_image_file_name: Trade_Tech_Urban_Ag.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: lime
 
 ---

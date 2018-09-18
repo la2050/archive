@@ -12,18 +12,6 @@ project_summary: >-
   so everyone can learn and teach from the convenience and safety of home. The
   best mentors are those who understand your perspective and culture, we
   facilitate those matches and virtual coaching.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Community Colleges, High Schools, USC'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -117,6 +105,9 @@ maker_image_id: '23218'
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385
+project_areas:
+  - Central LA
+  - City of Los Angeles
 body_class: blueberry
 
 ---

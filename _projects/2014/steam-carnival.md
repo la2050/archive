@@ -9,15 +9,6 @@ organization_id: '2018128'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: 'Long Beach, Harbor/San Pedro Communities'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Support from the Goldhirsh Foundation’s LA2050 will help ensure that the first
   STEAM Carnival will be a huge success in 2014. Additionally, funds will
@@ -71,6 +62,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Two Bit Circus in currently working with the Extension Program at the University of California, San Diego to create the first-ever STEAM certificate program for K-12 teachers. This was announced as a CGI commitment (http://www.prweb.com/releases/2014/07/prweb12011117.htm).
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: blueberry
 
 ---

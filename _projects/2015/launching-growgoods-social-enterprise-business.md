@@ -12,18 +12,6 @@ project_summary: >-
   business plan to build a greenhouse on-site to grow and sell produce
   year-round to LA’s finest restaurants. The social enterprise business will
   employ Shelter residents, many of whom are veterans.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'The Salvation Army''s Bell Shelter in Bell, CA; LA County'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -139,6 +127,7 @@ How do you plan to scale the success of your proposal?: >-
   from growing California native plants for drought-stricken California gardens
   to value-add food products such as craft coleslaw and sauces.
 year_submitted: 2015
+project_areas: []
 body_class: blueberry
 
 ---

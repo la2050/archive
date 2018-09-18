@@ -12,18 +12,6 @@ project_summary: >-
   unity and pride; it will bring together millions of otherwise disconnected
   Angelenos by restoring a sense of civic pride and strengthening LA’s ‘brand’
   identity throughout the world at large.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -103,6 +91,8 @@ maker_image_id: '23596'
 maker_image_file_name: Sky_Pic.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

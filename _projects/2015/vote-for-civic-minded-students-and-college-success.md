@@ -12,18 +12,6 @@ project_summary: >-
   host the organization because of 1) their mission to empower LA’s underserved
   students for college and career success, and 2) their focus on student-led
   project-based learning.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -133,6 +121,12 @@ maker_image_id: '23346'
 maker_image_file_name: 73168.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - City of Los Angeles
 body_class: blueberry
 
 ---

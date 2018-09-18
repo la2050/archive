@@ -12,18 +12,6 @@ project_summary: >-
   as tourists a web portal which targets arts, culture & entertainment. Our
   website will also become a resource point for business-to-business data and
   offer a new Metro LAACE Art discount
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   San Fernando Valley Arts & Cultural Center, Tarzana, CA and The Valley
   Economic Alliance, Sherman Oaks, CA
@@ -37,6 +25,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': ''
 How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
+project_areas:
+  - San Fernando Valley
 body_class: strawberry
 
 ---

@@ -11,15 +11,6 @@ organization_id: '2015007'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): Santa Clara and Boyle Heights
 What is your idea/project in more detail?: >-
   Ambulante USA is a nonprofit based in Los Angeles that focuses on supporting
@@ -99,6 +90,15 @@ empty_column_1: >-
    
    Ambulante California does not impose any ideas or restrictions on the communities it enters, creating a safe space for people of all races, genders, sexual orientations, and socioeconomic backgrounds to participate in important dialogues.
 youtube_video_identifier: 6jwNTQKIwsI
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: tangerine
 
 ---

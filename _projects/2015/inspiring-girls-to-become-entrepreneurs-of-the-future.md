@@ -10,18 +10,6 @@ project_summary: >-
   sports, creativity and personal development activities with an intensive
   summer camp experience, educational and experiential opportunities during the
   school year, and career development opportunities for older participants.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -88,6 +76,12 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/Dcwg2GZofvo/maxresdefault.jpg'
 youtube_video_identifier: Dcwg2GZofvo
+project_areas:
+  - East LA
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

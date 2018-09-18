@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: East Hollywood
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SFCLA will open access to nutritious groceries and fresh produce at three
   geographically and culturally diverse food deserts in Los Angeles: East Los
@@ -83,6 +74,10 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22790'
 maker_image_file_name: GEInc_Logo-brown_3-12.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - LA COUNTY
 body_class: lime
 
 ---

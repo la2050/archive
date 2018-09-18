@@ -12,18 +12,6 @@ project_summary: >-
   staffing and budget faced by other urban schools, and an evaluation system for
   on-going feedback and improvement. Both will be developed and piloted in 2016
   and expanded in 2017.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 0createplaylive
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -35,6 +23,9 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
+project_areas:
+  - Westside
+  - LAUSD
 body_class: strawberry
 
 ---

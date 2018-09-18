@@ -11,15 +11,6 @@ organization_id: '2014144'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The pilot Opportunity Fund program kicked off this June in New York, with 6
   fellows receiving scholarships. Over 300 online applications were received,
@@ -97,6 +88,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: CMmY955jD5A
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

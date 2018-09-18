@@ -9,15 +9,6 @@ organization_id: '2014016'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Wellbeing Project is a game-changing update to the way a community
   understands its strengths and challenges. The Local Wellbeing Index will
@@ -91,6 +82,7 @@ Whom will your project benefit? Please be specific.: >-
    Bloomberg Philanthropies: The project was conceived of thanks to Bloomberg Philanthropies Mayors Challenge, a contest to ignite innovation in local government. As 1 of 5 winning cities, Santa Monica continues to benefit from guidance and advice of this expert team.
 empty_column_1: ''
 youtube_video_identifier: quAWRNiRKEg
+project_areas: []
 body_class: tangerine
 
 ---

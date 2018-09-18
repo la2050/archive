@@ -12,18 +12,6 @@ project_summary: >-
   students receive training in Voice and Speech, Movement and Acting Technique
   and then develop a body of original theatre to be performed for their peers
   and their teachers.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Twin Towers Correctional Facility, Pitchess Detention Center(Castaic)'
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -39,6 +27,7 @@ maker_image_id: '23700'
 maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23700%252Fdisplay%252F12113284_1058676700830263_4818412174925935968_o.jpg=c570x385
+project_areas: []
 body_class: banana
 
 ---

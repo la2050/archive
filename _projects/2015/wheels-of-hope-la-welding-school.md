@@ -10,18 +10,6 @@ project_summary: >-
   certification is good in all 50 states and once our students pass we then
   place them in jobs. The end of term project is welding motorcycle ambulances,
   which once completed we send to villages in Africa.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: '412 Boyd St, Los Angeles CA 90013'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -98,6 +86,7 @@ maker_image_id: '23250'
 maker_image_file_name: Wheels_graduation_ceremony.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23250%252Fdisplay%252FWheels_graduation_ceremony.jpg=c570x385
+project_areas: []
 body_class: blueberry
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21591%252Fdisplay%252Fless.png=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to visit science teachers at fifteen or more different Title I schools
   in Los Angeles. We want to do three things for or with them during these
@@ -63,6 +54,12 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21591'
 maker_image_file_name: less.png
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - WESTSIDE
 body_class: blueberry
 
 ---

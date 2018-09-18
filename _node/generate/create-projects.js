@@ -182,9 +182,58 @@ const projectAnswersToRemove = [
   "make_la_great"
 ]
 
+const projectAreas2015 = [
+  "Central LA",
+  "East LA",
+  "San Gabriel Valley",
+  "San Fernando Valley",
+  "South LA",
+  "Westside",
+  "South Bay",
+  "Antelope Valley",
+  "County of Los Angeles (countywide)",
+  "City of Los Angeles (citywide)",
+  "LAUSD",
+  'Other:'
+]
+
+const projectAreas2014 = [
+  "CENTRAL LA",
+  "EAST LA",
+  "SOUTH LA",
+  "SGV",
+  "SFV",
+  "SOUTH BAY",
+  "WESTSIDE",
+  "LA COUNTY",
+  "OTHER"
+]
+
+
 function addProjectAnswers(data) {
 
-  // If year_submitted is 2016 or 2018
+  if (data.year_submitted == 2014) {
+    let project_areas = []
+    projectAreas2014.forEach(area => {
+      if (data[area] == "1" && area != "OTHER") {
+        project_areas.push(area)
+      }
+      delete data[area]
+    })
+    data.project_areas = project_areas
+  }
+
+  if (data.year_submitted == 2015) {
+    let project_areas = []
+    projectAreas2015.forEach(area => {
+      if (data[area] == "1" && area != "Other:") {
+        project_areas.push(area.replace(" (citywide)", "").replace(" (countywide)", ""))
+      }
+      delete data[area]
+    })
+    data.project_areas = project_areas
+  }
+
   if (data.year_submitted == 2016 ||
       data.year_submitted == 2018) {
 
@@ -213,7 +262,7 @@ function addProjectAnswers(data) {
     }
 
   }
-  
+
 }
 
 

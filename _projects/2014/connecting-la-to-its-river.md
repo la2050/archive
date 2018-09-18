@@ -9,15 +9,6 @@ organization_id: '2014037'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Inspired by the hymn,“Shall We Gather at the River?” FoLAR's founders united
   to influence public opinion by bringing individuals, reporters,
@@ -89,6 +80,11 @@ Whom will your project benefit? Please be specific.: >-
    The Mountains Recreation and Conservation Authority: The Mountains Recreation and Conservation Authority (MRCA) has worked for decades to create and maintain small pocket parks on the Los Angeles River corridor and FoLAR has championed their efforts. With funding from the MRCA FoLAR created the first decorative gates -the Heron Gates- to declare the River open to the public. We’ve worked together to reimagine a railyard, owned by Union Pacific across the River from Union Station, as a location for restored wetlands and water retention that is included in the ecosystem restoration plan. We partner with MRCA’s trained naturalists whose knowledge, expertise and programmin
 empty_column_1: ''
 youtube_video_identifier: 5fr_Qf0ZQ7M
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
 body_class: tangerine
 
 ---

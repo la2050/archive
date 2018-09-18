@@ -9,17 +9,6 @@ organization_id: '2014158'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: >-
-  City and unincorporated area of Whittier and the cities of La Mirada and Santa
-  Fe Springs.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   (1) Nutritional Information Pamphlets: The first step of the Four Seasons of
   Food would be to research and compile nutritional information pamphlets which
@@ -95,6 +84,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   factors.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - LA COUNTY
 body_class: lime
 
 ---

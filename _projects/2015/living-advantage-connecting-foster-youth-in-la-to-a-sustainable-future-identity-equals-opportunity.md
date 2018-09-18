@@ -13,18 +13,6 @@ project_summary: >-
   collaboration to connect, engage & interact with LA service providers. Some
   goals… high school students will graduate on time, be college and/or career
   prepared and receive social and emotional support for higher self-esteem.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: 'USC Neighborhood, LA County Probation Camps,'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -139,6 +127,14 @@ How do you plan to scale the success of your proposal?: |-
    Decrease unemployment rates after 24 months foster youth age of out the system
    Qualitative measures in foster youth behavior and service program outcomes.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

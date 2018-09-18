@@ -11,18 +11,6 @@ project_summary: >-
   traditional forms of civic engagement is why participation is so low. 
    
    Life, Liberty & the Pursuit of Happiness will be discussed & displayed using the programs based on 4 popular human activities: music, self-expression, humanitarianism and health & wellness
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: any city with a community center or rental space available
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -36,6 +24,9 @@ How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/hN38-2LQ8Sk/maxresdefault.jpg'
 youtube_video_identifier: hN38-2LQ8Sk
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

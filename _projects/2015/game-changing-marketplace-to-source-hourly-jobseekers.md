@@ -12,18 +12,6 @@ project_summary: >-
   jobseekers (young adults (16-24), formerly incarcerated individuals &
   immigrants). We're not just focused on hourly jobs, but to help LA residents
   discover a career & opportunities to succeed.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -93,6 +81,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
 youtube_video_identifier: 9l0UWGhKU-U
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

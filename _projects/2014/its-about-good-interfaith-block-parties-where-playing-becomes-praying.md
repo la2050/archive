@@ -9,15 +9,6 @@ organization_id: '2014042'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: Hollywood
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Partnering with the Interfaith Religious Council of Los Angeles, the Office of
   Religious Life at USC, and local places of worship across Los Angeles, each
@@ -101,6 +92,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The third factor is availability and boldness. Anyone involved should be available to knock on doors, make calls, and attend the actual block parties. In many ways, this is like a series of campaigns for God in Los Angeles. Partners need to be comfortable with their faith, not on the fence, and be willing to stand up and share it with the world!
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   social service professionals onto school campuses every day to identify the
   needs – academic and non-academic - of students and offer on-site programs and
   referrals services that address those needs.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -109,6 +97,12 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 youtube_video_identifier: 8RfGcPRl--8
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - LAUSD
 body_class: strawberry
 
 ---

@@ -11,15 +11,6 @@ organization_id: '2014078'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   If the LA2050 Challenge Grant were to be awarded to The Sabio Crossroads
   Creative Tech Training Program (Creative Tech) it would be implemented via a
@@ -70,6 +61,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: QaoTDnw-Xtw
+project_areas:
+  - SOUTH LA
 body_class: banana
 
 ---

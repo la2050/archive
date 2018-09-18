@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Silver Lake
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Because this will be our inaugural year, it has been paramount to QueerFest to
   engage the participation and interest of the Silver Lake community. Local
@@ -76,6 +67,9 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '21336'
 maker_image_file_name: QueerFest2014.jpg
+project_areas:
+  - CENTRAL LA
+  - LA COUNTY
 body_class: strawberry
 
 ---

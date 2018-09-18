@@ -11,18 +11,6 @@ project_summary: >-
   during the initial training program will be invited to participate in an
   advanced training program to learn effective nutritional counseling and
   fitness training techniques as well as effective tutoring methods for tutors.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -38,6 +26,18 @@ maker_image_id: '23412'
 maker_image_file_name: Family_photo's_2009_005.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23412%252Fdisplay%252FFamily_photo's_2009_005.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

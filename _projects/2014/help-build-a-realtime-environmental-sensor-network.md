@@ -9,15 +9,6 @@ organization_id: '2014150'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the “Toward a Carbon Neutral House” project we propose to
   demonstrate the relative benefit of using salvaged materials based on a case
@@ -81,6 +72,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Cb6MAN2lVkg
+project_areas: []
 body_class: lime
 
 ---

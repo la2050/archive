@@ -12,18 +12,6 @@ project_summary: >-
   When LA Voice leaders turn out all 40,000 people represented by our 36 diverse
   congregations-- AND their neighbors--it will shift the electorate towards a
   more representative, inclusive county.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: 'Long Beach, Watts'
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -39,6 +27,13 @@ maker_image_id: '23660'
 maker_image_file_name: LA_2050_collage.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23660%252Fdisplay%252FLA_2050_collage.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
 body_class: strawberry
 
 ---

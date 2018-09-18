@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20237%252Fdisplay%252FCLF_Balcony-HOUSE_on_MAIN_ST-GROUP_SHOT-CLF.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The CLF will hire a staff of the very best computer science instructors who
   know how to engage and help stimulate the creativity of our
@@ -78,6 +69,8 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20237'
 maker_image_file_name: CLF_Balcony-HOUSE_on_MAIN_ST-GROUP_SHOT-CLF.jpg
+project_areas:
+  - WESTSIDE
 body_class: blueberry
 
 ---

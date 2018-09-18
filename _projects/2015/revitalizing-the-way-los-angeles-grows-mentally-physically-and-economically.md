@@ -9,18 +9,6 @@ project_summary: >-
   nature and built environments directly affect human health and well-being.
   Additionally, by creating local economic development and sustainable food
   chains we want to end the food deserts that plague Los Angeles.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   Applied Technology Center (High School); Bell Gardens High School; South Los
   Angeles elementary and high schools (TBD)
@@ -88,6 +76,10 @@ How do you plan to scale the success of your proposal?: >-
    
    In the future we would like to create pop up grocery stores. These grocery stores would be made out of recycled shipping containers and would employ local residents.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

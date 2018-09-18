@@ -13,18 +13,6 @@ project_summary: >-
   2,500 youth and families in Central Los Angeles with healthy physical
   activity, safe alternatives to gang involvement, and positive youth
   development experiences.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -118,6 +106,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Additionally, Bresee is currently seeking to partner with the new Major League Soccer Team LAFC to replicating its sports programming in other high need areas of Los Angeles including East Los Angeles, West Los Angeles, South Los Angeles, Pacoima, Mar Vista, and Venice. Lastly, Bresee envisions current program participants returning as college graduates to expand services to other areas in Los Angeles and to continue Bresee’s track record of creating the next generation of community leaders.
 year_submitted: 2015
+project_areas:
+  - Central LA
 body_class: blueberry
 
 ---

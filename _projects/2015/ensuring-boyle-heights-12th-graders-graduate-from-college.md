@@ -12,18 +12,6 @@ project_summary: >-
   at or below the federal poverty level. Funding from LA2050 will help make
   college a reality for these students, and support our efforts to make college
   an expectation for all students across LA.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Roosevelt High School; Boyle Heights
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -128,6 +116,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/vTrYQcYICQQ/maxresdefault.jpg'
 youtube_video_identifier: vTrYQcYICQQ
+project_areas:
+  - East LA
 body_class: blueberry
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2014124'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ChapCare’s Marketing Manager will manage the project. The Manager is a member
   of ChapCare's Senior Leadership Team.
@@ -47,6 +38,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 6AUZY8VvXXQ
+project_areas:
+  - SGV
 body_class: lime
 
 ---

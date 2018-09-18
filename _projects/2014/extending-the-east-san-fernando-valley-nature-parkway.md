@@ -9,15 +9,6 @@ organization_id: '2016093'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently have a feasibility study pending at CSUN, which, once completed,
   would enable us to win private financing that would fund engineering,
@@ -52,6 +43,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: O0GqacCipYM
+project_areas:
+  - EAST LA
+  - SOUTH LA
+  - SGV
 body_class: lime
 
 ---

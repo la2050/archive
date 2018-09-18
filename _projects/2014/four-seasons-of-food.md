@@ -10,17 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20849%252Fdisplay%252FNEW_IFCLOGO.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: >-
-  We will be testing our project in the San Fernando Valley, but it will have an
-  impact on the whole city.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   I. Develop the Digital Platform using open source GIS data as well as research
   and mapping already in progress.
@@ -97,6 +86,15 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20849'
 maker_image_file_name: NEW_IFCLOGO.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: lime
 
 ---

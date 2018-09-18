@@ -12,15 +12,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Connector for the West Side to Downtown LA
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   When originally built the 3 boulevards served the needs of the residents in
   what was then the premier neighborhood of the movers and shakers of late 19th
@@ -90,6 +81,9 @@ Whom will your project benefit? Please be specific.: >-
 empty_column_1: '1'
 maker_image_id: '21055'
 maker_image_file_name: Washington_Square.JPG
+project_areas:
+  - CENTRAL LA
+  - LA COUNTY
 body_class: banana
 
 ---

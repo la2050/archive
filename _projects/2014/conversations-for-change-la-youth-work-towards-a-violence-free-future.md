@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22159%252Fdisplay%252Fkids_group_shot.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Jenesse’s focus on youth is a critical aspect of our prevention strategy to
   reduce the prevalence of domestic violence in our communities in the near
@@ -80,6 +71,14 @@ Whom will your project benefit? Please be specific.: >-
 empty_column_1: ''
 maker_image_id: '22159'
 maker_image_file_name: kids_group_shot.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - LA COUNTY
 body_class: tangerine
 
 ---

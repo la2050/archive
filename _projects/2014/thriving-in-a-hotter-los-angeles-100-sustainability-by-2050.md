@@ -7,24 +7,6 @@ organization_id: '2014190'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: >-
-  We have a prototype network up and running in Fukushima Japan now, want to
-  launch full network in Los Angeles.
-OTHER: >-
-  Started in response to the Fukushima meltdown in 2011 - In 3 years Safecast
-  has built the most trusted citizen monitoring network for radiation data in
-  the world, with the largest open data set ever. Our network of mobile sensors
-  is tried and tested, and we're now building out a static realtime network and
-  adding other environmental data to that - air quality, weather, etc. We have a
-  prototype network up and running now, but would love to deploy a full network
-  in Los Angeles as the first US initiative.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With our radiation data we changed the established method of reporting data as
   huge averages to giving pinpoint data down to a specific GPS location, giving
@@ -46,6 +28,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: DITouRhKW80
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
 body_class: lime
 
 ---

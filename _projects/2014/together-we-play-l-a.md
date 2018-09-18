@@ -9,15 +9,6 @@ organization_id: '2015179'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Play as a Uniting Force: The school based aspect of the Together We Play L.A.!
   initiative will directly impact over 3,000 children in over 50 schools. Our
@@ -106,6 +97,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: 44E5ezgbzHg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: strawberry
 
 ---

@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22303%252Fdisplay%252FFaces_Installation.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: All of LA County
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Arts & Business Conduit/Network
    We will serve as the conduit between the arts and business community. Referencing our studies of cultural board participation, we will approach and build relationships with the top fifty institutions with demonstrated arts board participation. We will interview key leadership and corporate social responsibility officers on their formal and informal board placement, leadership development and community outreach strategies. Our goal is for the talented employees of top industries in the region to be trained about arts board service and to be placed with a cultural organization that matches their interests and expands their understanding of the cultural infrastructure of Greater Los Angeles. Engaging Angelenos with cultural board service by itself is not enough. We will create ongoing networks between board members at cultural organizations for mutual support (similar to support networks in other fields) through surveys, communications, convenings and networking events. Arts non-profits often run into challenges that their boards do not have knowledge to combat, and many feel at a loss on how to effectively address this issue. By creating networks between board members — including mentor-mentee relationships and periodic gatherings of board members/board chairs, etc. — major decision-making challenges can be addressed with the knowledge base and community support of leaders from across the region. Additionally, we will contract Arts for LA to provide their nationally recognized advocacy-training academy for our Board network to amplify the reach of nonprofit arts organizations throughout the region.
@@ -75,6 +66,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22303'
 maker_image_file_name: Faces_Installation.jpg
+project_areas:
+  - LA COUNTY
 body_class: banana
 
 ---

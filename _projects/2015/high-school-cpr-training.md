@@ -8,18 +8,6 @@ project_summary: >-
   During each academic year hands-only CPR (cardio-pulmonary resuscitation) will
   be taught in high school health classes throughout LAUSD. Each year 50,000
   students will be prepared to save lives with CPR.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -108,6 +96,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg'
 youtube_video_identifier: lilCVZW2Ggk
+project_areas:
+  - City of Los Angeles
+  - LAUSD
 body_class: lime
 
 ---

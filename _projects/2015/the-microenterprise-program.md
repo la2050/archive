@@ -7,18 +7,6 @@ partners: ''
 project_summary: >-
   We would like to set up an incubator facility for our clients to use as
   workspace, office space and a store front.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -95,6 +83,12 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
 youtube_video_identifier: 0qhd1kRJ698
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

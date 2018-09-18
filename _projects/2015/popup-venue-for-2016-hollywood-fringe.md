@@ -11,18 +11,6 @@ project_summary: >-
   participation of performers and producers from lower economic backgrounds by
   providing a subsidized cost for renting space; and (3) acts as a catalyst for
   additional theatrical spaces to grow in the community.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   One square mile in Hollywood. Borders are La Brea to the west, Western to the
   East, Franklin to the north, and Melrose to the south.
@@ -113,6 +101,7 @@ How do you plan to scale the success of your proposal?: >-
    
    HFF will share findings and best practices with interested parties who wish to establish a pop up venue. Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area.
 year_submitted: 2015
+project_areas: []
 body_class: strawberry
 
 ---

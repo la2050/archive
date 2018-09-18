@@ -9,18 +9,6 @@ project_summary: >-
   FORMAT that educates students about the basics of FILMMAKING while giving them
   the opportunity to create MOVING IMAGES about relevant SOCIAL ISSUES and
   FILMING THIER LIFE IN LOS ANGELES COUNTY
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -126,6 +114,9 @@ maker_image_id: '23763'
 maker_image_file_name: OWW_logo_and_logline.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385
+project_areas:
+  - County of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

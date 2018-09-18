@@ -9,15 +9,6 @@ organization_id: '2016150'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/lapaletera.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For the past 3 years, Mujeres has conducted research on the current Paleta
   cart-vending industry in Los Angeles County, travelled to Mexico to get a
@@ -129,6 +120,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We will cultivate additional partners and collaborators as the process unfolds.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - SOUTH LA
 body_class: banana
 
 ---

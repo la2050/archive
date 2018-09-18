@@ -14,18 +14,6 @@ project_summary: >-
   diversity of people and environments, we’ll show how to bring more Beauty to
   civic spaces and build community through creating healthy and happy places for
   people of all ages to “play”.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   The program identifies 10 schools near the LA River, from valley headwaters
   through central cities to sea port. The prototype "seed" project is at
@@ -127,6 +115,14 @@ How do you plan to scale the success of your proposal?: >-
    
    Winning the LA2050 grant will provide seed money for the coordination of partners with this program and producing the prototype garden. In addition to the treasure, winning the LA2050 grant offers opportunities for counsel and potential partnerships with your advisors and their time, talents and resources as well. It would be an honor to work with you to help make LA a better place to play in the most livable, educational, connecting and creative senses of the word! Thanks for the opportunity to share our project and ideas with the public!
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

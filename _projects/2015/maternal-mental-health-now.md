@@ -12,18 +12,6 @@ project_summary: >-
   guide. We will address other barriers to identification and treatment of
   perinatal mood and anxiety disorders by facilitating stigma-reduction
   workshops in the communities surrounding the sites.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -125,6 +113,8 @@ maker_image_id: '23910'
 maker_image_file_name: MMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

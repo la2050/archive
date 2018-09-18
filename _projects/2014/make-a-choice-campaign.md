@@ -9,15 +9,6 @@ organization_id: '2014184'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Ongoing: Youth leaders have developed a Tumblr for the campaign and meet twice
   a month as a group to discuss its content, which is populated with a campaign
@@ -69,6 +60,12 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: nF2CnqS_6oQ
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - WESTSIDE
 body_class: blueberry
 
 ---

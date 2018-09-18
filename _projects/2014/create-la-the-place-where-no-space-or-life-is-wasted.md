@@ -9,15 +9,6 @@ organization_id: '2014005'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Recognizing that LA is a place where no life or space is wasted, ABF creates
   opportunities for the formerly incarcerated to build up the health of
@@ -96,6 +87,10 @@ Whom will your project benefit? Please be specific.: >-
    ABF’s partnerships with reentry housing programs, local restaurants and businesses, schools and churches create more opportunities to scale up the scope of support services for the reintegration of the lives of those who were locked up and the empowerment of communities where urban farming takes place.
 empty_column_1: '1'
 youtube_video_identifier: Eg3e5xfocOk
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
 body_class: banana
 
 ---

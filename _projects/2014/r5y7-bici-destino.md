@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22378%252Fdisplay%252Fr5y7collage.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: frogtown!
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Working with RAC Design Build we are about to what space is available. The
   custom RV is to be built with local Frogtown business ‘The Happier Camper.’
@@ -80,6 +71,8 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22378'
 maker_image_file_name: r5y7collage.jpg
+project_areas:
+  - CENTRAL LA
 body_class: banana
 
 ---

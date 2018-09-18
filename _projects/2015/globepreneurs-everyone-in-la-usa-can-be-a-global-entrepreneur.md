@@ -12,18 +12,6 @@ project_summary: >-
   entrepreneurial skills, night & craft markets, garages sales, recycling
   businesses etc. on the global market. This helps LA & Angelenos be leaders re
   jobs, tech, innovation, wealth, diversity & international business.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Globally
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -37,6 +25,8 @@ How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/hhu9EFKsykI/maxresdefault.jpg'
 youtube_video_identifier: hhu9EFKsykI
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

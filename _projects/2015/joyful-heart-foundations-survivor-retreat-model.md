@@ -12,18 +12,6 @@ project_summary: >-
   used to create a replicable Retreat Model that organizations can implement and
   offer to survivors, the healing professionals who serve them, and communities
   beyond our current capacity and scope.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -158,6 +146,15 @@ maker_image_id: '23670'
 maker_image_file_name: 2050pic.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23670%252Fdisplay%252F2050pic.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

@@ -14,18 +14,6 @@ project_summary: >-
   network, accessing capital, and navigating government. Make it in LA is
   piloting an effort to help startups and growing companies connect and succeed
   in the design and manufacturing ecosystem of LA.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -41,6 +29,17 @@ maker_image_id: '24018'
 maker_image_file_name: makeitinla_logo.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24018%252Fdisplay%252Fmakeitinla_logo.jpg=c570x385
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

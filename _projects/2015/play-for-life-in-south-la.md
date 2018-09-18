@@ -11,18 +11,6 @@ project_summary: >-
   young and old. APCH believes that your zip code should not define your future;
   through our innovative, wrap-around services we will provide thousands of
   children and families in the 90011 area with safe spaces to play and thrive.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -141,6 +129,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 youtube_video_identifier: wzFv5uV3pew
+project_areas:
+  - Central LA
+  - South LA
+  - City of Los Angeles
 body_class: blueberry
 
 ---

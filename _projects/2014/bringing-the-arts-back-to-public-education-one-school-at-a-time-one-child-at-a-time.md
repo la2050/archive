@@ -11,15 +11,6 @@ organization_id: '2014133'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Dream A World Education founder, Grammy Award-Winner Bunny Hull brings a team
   of professional artists to your school. Through this six-week multi-arts
@@ -73,6 +64,13 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Fidelity Charitable Trust
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: blueberry
 
 ---

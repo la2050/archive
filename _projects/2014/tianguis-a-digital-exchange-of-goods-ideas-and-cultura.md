@@ -9,15 +9,6 @@ organization_id: '2014031'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/tianguis.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will implement this project in three phases. The first phase is our
   research and discovery stage. In this phase we will work with our partners to
@@ -70,6 +61,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In addition we will be tapping into our network of non-profit organizations across Los Angeles to help bring the apps to their respective Spanish speaking constituents such as Tia Chucha's Centro Cultural, MEND, Youth Speak Collective, and Guayaba Kitchen. Over the years Elusive Minds Productions has also developed relationships with Spanish language media outlets such as LATV Live, Mun2, and Telemundo.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: banana
 
 ---

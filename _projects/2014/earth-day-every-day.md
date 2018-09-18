@@ -9,15 +9,6 @@ organization_id: '2014018'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CSU will work with partners to create a series of seven mini Earth Day South
   LA events as well as EDSLA 2015 and a new Produce Stand launch event in
@@ -91,6 +82,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: CQsypZUTmbo
+project_areas:
+  - SOUTH LA
 body_class: banana
 
 ---

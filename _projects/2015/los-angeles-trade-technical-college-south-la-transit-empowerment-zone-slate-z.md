@@ -14,18 +14,6 @@ project_summary: >-
   “CONNECT” South LA residents to increased mobility through (a) free or
   reduced-cost transit ridership (b) educational technology innovations and (c)
   educational advocacy/civic engagement.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -126,6 +114,8 @@ maker_image_id: '24040'
 maker_image_file_name: connect_SLATEZsigners.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
+project_areas:
+  - South LA
 body_class: blueberry
 
 ---

@@ -11,18 +11,6 @@ project_summary: >-
   to have SMART Boards or even something as simple as projectors in every
   classroom. Help us enhance student learning and make the future successful for
   students. Lets make LA the best place to LEARN!
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -75,6 +63,8 @@ maker_image_id: '23262'
 maker_image_file_name: dsc00212.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23262%252Fdisplay%252Fdsc00212.jpg=c570x385
+project_areas:
+  - Westside
 body_class: blueberry
 
 ---

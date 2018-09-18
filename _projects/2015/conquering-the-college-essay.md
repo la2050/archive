@@ -11,18 +11,6 @@ project_summary: >-
   could offer it for free for LAUSD students and thus help expand pathways to
   college. "Admissions Consultants" charge thousands to help with essay-writing;
   ApplicantLab can level the playing field!
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -96,6 +84,9 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg'
 youtube_video_identifier: IRXVbzVLXls
+project_areas:
+  - Westside
+  - LAUSD
 body_class: blueberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   teachers) at New Village Girls Academy, a public charter school. This kicks
   off Alma Community Outreach’s pilot program to create sustainable
   installations in food desert areas of Los Angeles.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': ''
@@ -39,6 +27,9 @@ maker_image_id: '24156'
 maker_image_file_name: thegarden.PNG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24156%252Fdisplay%252Fthegarden.PNG=c570x385
+project_areas:
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

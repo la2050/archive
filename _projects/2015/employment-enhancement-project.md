@@ -9,18 +9,6 @@ project_summary: >-
   pre-employment training to low-income residents of Los Angeles. The resources
   provided by Clothes The Deal, will help Los Angeles residents obtain
   employment and achieve their career goals.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: All low-income job seekers in Los Angeles
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -91,6 +79,16 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg'
 youtube_video_identifier: myUKgR-PO4c
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: lime
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   happening from one neighborhood to the next. The opportunity to see Los
   Angeles, up close and personal vs. in a car and through the rear view mirror,
   redefines the meaning of connection.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   Southeast Cities – Huntington Park, South Gate, Lynwood, Florence/Firestone &
   Walnut Park; Northeast San Fernando Valley - Pacoima, Panorama City, Arleta, &
@@ -189,6 +177,15 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/1oq_kmWPaYk/maxresdefault.jpg'
 youtube_video_identifier: 1oq_kmWPaYk
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

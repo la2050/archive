@@ -10,18 +10,6 @@ project_summary: >-
   employment through our two retail stores in downtown LA, for a period of 12
   months, gaining hands-on work experience in customer service, food handling,
   drink making, inventory management, and retail.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: 'Skid Row, Los Angeles'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -100,6 +88,7 @@ How do you plan to scale the success of your proposal?: >-
    
    DWC is recognized as a leader in the service field. In 2001, we spearheaded the Downtown Women's Action Coalition in gathering information on homeless women’s needs with the potential to affect positive change in policy. In 2005, we developed a national study of best practices in homeless women’s services. In 2011, DWC was deemed “Organization of the Year” by the Los Angeles Business Journal and was granted the Los Angeles Conservancy Preservation Award. In 2013, we were named “Nonprofit of the Year,” by the Office of the Governor and California Volunteers.
 year_submitted: 2015
+project_areas: []
 body_class: blueberry
 
 ---

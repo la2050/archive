@@ -12,18 +12,6 @@ project_summary: >-
   to complete their degree. Social justice organizing is integrated into our
   curriculum in order to equip youth with the skills necessary to work towards
   more just education systems.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -100,6 +88,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/31zyNJHGmig/maxresdefault.jpg'
 youtube_video_identifier: 31zyNJHGmig
+project_areas:
+  - South LA
 body_class: strawberry
 
 ---

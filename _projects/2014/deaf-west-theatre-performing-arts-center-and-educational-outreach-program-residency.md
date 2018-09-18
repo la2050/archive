@@ -11,17 +11,6 @@ organization_id: '2014025'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/deafwest.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: '1'
-OTHER: >-
-  Deaf West Theatre draws artists and audiences from around the world. We also
-  work with numerous schools in the area including Marlton School for the Deaf.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Deaf West Theatre will establish a 3-5 production per year subscription
   season. Productions will be developed and performed at this location and
@@ -120,6 +109,15 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Until a residency agreement with any organization is finalized, our budget does not assume financial obligation (cash or in-kind) from any potential partner.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
+  - LA COUNTY
 body_class: banana
 
 ---

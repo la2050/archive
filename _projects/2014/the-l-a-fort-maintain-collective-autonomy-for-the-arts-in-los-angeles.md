@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22797%252Fdisplay%252F1836681_290007847815931_949505580_o(1).jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: We often produce events in other areas of the city
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently work out of a 5,000 sq ft space that is permitted for offices. To
   implement our idea, we would build more ADA accessible restrooms, change the
@@ -66,6 +57,9 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '22797'
 maker_image_file_name: 1836681_290007847815931_949505580_o(1).jpg
+project_areas:
+  - CENTRAL LA
+  - LA COUNTY
 body_class: banana
 
 ---

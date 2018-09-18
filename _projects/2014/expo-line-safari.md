@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Expo line originates in downtown Los Angeles, and then ends in Santa
   Monica and the Ocean! It travels through inland to coastal climatic zones, and
@@ -85,6 +76,10 @@ Whom will your project benefit? Please be specific.: >-
 empty_column_1: ''
 maker_image_id: '21750'
 maker_image_file_name: safari.jpg
+project_areas:
+  - CENTRAL LA
+  - SOUTH LA
+  - WESTSIDE
 body_class: tangerine
 
 ---

@@ -14,18 +14,6 @@ project_summary: >-
   and students with winning ideas will be supported by science and creative
   mentors in writing a full script. Top 2 finished scripts will receive a cash
   prize at the annual SET Awards Ceremony.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   Studio City, North Hollywood, Hollywood, W. Los Angeles: schools located near
   movie and TV studios
@@ -138,6 +126,10 @@ How do you plan to scale the success of your proposal?: >-
   podcasts and Skype modes of communication to allow for mentorship of many
   students.
 year_submitted: 2015
+project_areas:
+  - San Fernando Valley
+  - Westside
+  - LAUSD
 body_class: banana
 
 ---

@@ -8,23 +8,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: >-
-  LA takes leap to change Hollywood statistics and the future of cinema with a
-  series of provocative #shortfilms by #WomenofColor.
-OTHER: >-
-  We propose to make a series of short films by cutting edge Women of Color in
-  LA for the purpose of exposing their talent and capabilities to hiring
-  executives, the LA public and online community. We will select the filmmakers,
-  help produce, fund, and distribute the films. 
-   
-   We need more storytelling by Women of Color about their experiences as Angelenos, as they themselves see it. Hollywood definitely has a dearth of Women of Color in film. Only 1 out 500 Top Films in History have ever featured a live action Woman of Color. There's a danger in only being shown LA and the world through the point of view of the status quo. Women of Color in the LA community need to speak for themselves and film is the world's most far reaching media.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   If Los Angeles and Hollywood don't nurture and invite new voices as an example
   of an inclusive modern city, then who will? We can lead the diversification of
@@ -76,6 +59,12 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20953'
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
 body_class: banana
 
 ---

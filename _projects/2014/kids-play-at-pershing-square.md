@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Families from all over Los Angeles County visit Pershing Square.
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project is shovel-ready and we have secured matching funds. All planning,
   design, equipment/safety surface selection, and engineering has been
@@ -71,6 +62,9 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20546'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
+project_areas:
+  - CENTRAL LA
+  - LA COUNTY
 body_class: strawberry
 
 ---

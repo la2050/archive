@@ -9,15 +9,6 @@ organization_id: '2014163'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Sustainable Little Tokyo has a clear implementation plan with the support of
   the two-year national Target Cities pilot program to explore this brand new
@@ -76,6 +67,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 6BWp4B7O03I
+project_areas:
+  - CENTRAL LA
 body_class: lime
 
 ---

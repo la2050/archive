@@ -11,18 +11,6 @@ project_summary: >-
   sharpening our focus to work with parents with young children to truly break
   the cycle of poverty. We will build the formal and informal supports necessary
   to get resources directly into their hands.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: Tenant partner of the Magnolia Community Initiative
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -165,6 +153,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/0kAkWtDm2X0/maxresdefault.jpg'
 youtube_video_identifier: 0kAkWtDm2X0
+project_areas:
+  - County of Los Angeles
 body_class: banana
 
 ---

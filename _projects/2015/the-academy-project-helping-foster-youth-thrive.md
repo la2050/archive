@@ -12,18 +12,6 @@ project_summary: >-
   guarantees youth a consistent placement through high school. Within a
   community of peers, TAP provides a safe place where youth thrive & discover
   otherwise ignored talents and wasted potential.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   We are targeting South LA first as this is where the largest population of
   foster youth reside
@@ -133,6 +121,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/xbatmQQi_e4/maxresdefault.jpg'
 youtube_video_identifier: xbatmQQi_e4
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: blueberry
 
 ---

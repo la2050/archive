@@ -9,15 +9,6 @@ organization_id: '2014147'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/RQJ6YjAJTNY/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   I have contacted community organizations & subject matter experts that have
   agreed to partner with our organization to "Green The Block" in a West Long
@@ -63,6 +54,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 youtube_video_identifier: RQJ6YjAJTNY
+project_areas:
+  - LA COUNTY
 body_class: lime
 
 ---

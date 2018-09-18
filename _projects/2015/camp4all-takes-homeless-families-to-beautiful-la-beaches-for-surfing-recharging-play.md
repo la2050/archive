@@ -12,18 +12,6 @@ project_summary: >-
   allowing them to rest and recharge- and hang out with their families in a
   beautiful SoCal environment. Camp4All shows that LA loves to play in the most
   innovative, fun way possible.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: LA residents from cunty homeless shelters
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -97,6 +85,12 @@ How do you plan to scale the success of your proposal?: >-
   be amazing to replicate it in Ventura County as well, eventually, and to also
   add more camps during the Spring season.
 year_submitted: 2015
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - County of Los Angeles
 body_class: blueberry
 
 ---

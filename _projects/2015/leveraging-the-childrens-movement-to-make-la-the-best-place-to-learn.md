@@ -11,18 +11,6 @@ project_summary: >-
   training from Children Now, these groups will collectively push for local and
   state policies designed to ensure that all of the estimated 793,811 kids ages
   0-5 living in LA County have access to quality early childhood programs.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -115,6 +103,8 @@ How do you plan to scale the success of your proposal?: >-
    
    The coordinated, diverse Pro-Kid advocacy base strengthened as a result of this grant will enable communities to keep working on future critical issues affecting the County’s kids. By unifying hundreds of Pro-Kid groups and serving as hub to mobilize their actions, the Movement gives children’s issues an advocacy base strong enough to compete with powerful special interests. Moving forward, kids’ issues will truly be the top priority of state and local policymakers (not just lip service), and there will be an army of engaged, coordinated organizations ready when critical policy issues arise. After the funding period, Children Now will continue to expand the Movement model throughout LA County and California.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

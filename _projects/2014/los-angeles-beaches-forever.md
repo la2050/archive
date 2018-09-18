@@ -9,15 +9,6 @@ organization_id: '2014191'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Westmont; LA County
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to implement this project, starting in September 2014, SCI-Arc and
   Habitat LA will begin a series of design-build studios whose structure is set
@@ -78,6 +69,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: fAQOxqwuIHk
+project_areas:
+  - SOUTH LA
+  - LA COUNTY
 body_class: lime
 
 ---

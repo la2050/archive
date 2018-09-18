@@ -11,18 +11,6 @@ project_summary: >-
   showcases the best novel technologies and advanced ideas in the LA County. Our
   aim is to inspire Angelinos and create a more cohesive community through
   curating innovation events across the region.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -96,6 +84,8 @@ How do you plan to scale the success of your proposal?: >-
   programs within the greater overall frame with Pavilions for each of the
   tracts.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: strawberry
 
 ---

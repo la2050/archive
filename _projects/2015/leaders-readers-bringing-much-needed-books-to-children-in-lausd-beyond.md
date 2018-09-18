@@ -12,18 +12,6 @@ project_summary: >-
   learning and academic excellence AND allow students to gain experience with
   leadership and community service. L+R is leveraging our community’s resources
   to fill the budget gap that LAUSD faces.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   Children's Hospital of Orange County, Ronald McDonald House Pasadena,
   Hillsides Foster Care, Summer Meals Program of Pasadena, Boys & Girls Club,
@@ -146,6 +134,10 @@ How do you plan to scale the success of your proposal?: >-
    
    • Narrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

@@ -13,18 +13,6 @@ project_summary: >-
   to attend hearings, submit comments and champion the construction of more
   places to live. An influx of new voices demanding more housing can help expand
   housing options for everyone.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   The City of Los Angeles will be our primary focus, with additional advocacy in
   the cities of Santa Monica and Long Beach.
@@ -42,6 +30,8 @@ maker_image_id: '23752'
 maker_image_file_name: Build_It!_Abundant_Housing_LA.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23752%252Fdisplay%252FBuild_It!_Abundant_Housing_LA.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: blueberry
 
 ---

@@ -9,15 +9,6 @@ organization_id: '2014159'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   There are three main objectives for the Invisible to Invincible Campaign: 1)
   Political/Community change regarding the four challenges identified in our
@@ -83,6 +74,11 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: ez1sypeq2hI
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
 body_class: lime
 
 ---

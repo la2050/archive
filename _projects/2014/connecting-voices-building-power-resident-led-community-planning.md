@@ -9,15 +9,6 @@ organization_id: '2013007'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ACT-LA will make LA the best place to Connect because we will develop a cadre
   of Angelenos with skills and ability to shape the future of development around
@@ -81,6 +72,14 @@ Whom will your project benefit? Please be specific.: >-
    • Strong internal communication: Ensuring all members are informed and connected to the work is critical to successful collaboration.
    • Holding the whole: Each partner brings strengths and different areas of focus. As a coalition we hold everyone’s priorities and work to move issues together because of their interconnectedness.
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: tangerine
 
 ---

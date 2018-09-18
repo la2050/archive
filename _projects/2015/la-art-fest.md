@@ -10,18 +10,6 @@ project_summary: >-
   reflecting the true tapestry of art communities throughout Los Angeles. The
   event will feature music, painting, sculpture, and craft-works created by
   artists in the area.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   LA Arts District and or Chinatown (The Historic State Park and surrounding
   buildings.)
@@ -37,6 +25,8 @@ How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg'
 youtube_video_identifier: pnwgZVtiDAA
+project_areas:
+  - Central LA
 body_class: strawberry
 
 ---

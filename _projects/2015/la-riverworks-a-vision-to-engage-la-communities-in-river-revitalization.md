@@ -10,18 +10,6 @@ project_summary: >-
   fundamental question remains: who will access these benefits?
    
    LA Riverworks wants to engage local residents to help existing neighborhoods thrive alongside a revitalized LA River.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Northeast LA
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -163,6 +151,7 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 youtube_video_identifier: fMyc7c0Ylc4
+project_areas: []
 body_class: strawberry
 
 ---

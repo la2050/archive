@@ -11,18 +11,6 @@ project_summary: >-
   comprehensive, high-quality, outcome driven program designed to keep middle
   school and high school students on the path towards their college and career
   goals.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -169,6 +157,10 @@ maker_image_id: '24078'
 maker_image_file_name: College_Access_Initiative.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24078%252Fdisplay%252FCollege_Access_Initiative.jpg=c570x385
+project_areas:
+  - South LA
+  - South Bay
+  - LAUSD
 body_class: strawberry
 
 ---

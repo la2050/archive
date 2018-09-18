@@ -12,18 +12,6 @@ project_summary: >-
   the public health risks associated with stream-based recreation when known
   water quality safety standards are exceeded. This information will be
   developed into a public awareness campaign.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: '1'
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -117,6 +105,10 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 youtube_video_identifier: kQnTJYkpO4A
+project_areas:
+  - Central LA
+  - San Gabriel Valley
+  - City of Los Angeles
 body_class: strawberry
 
 ---

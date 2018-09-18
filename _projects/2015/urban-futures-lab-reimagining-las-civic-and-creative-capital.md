@@ -12,18 +12,6 @@ project_summary: >-
   strengthen LA neighborhoods. Fellows develop career and community-building
   skills and networks through projects addressing arts, culture and equitable
   development, community health, and neighborhood identity.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: >-
   Pilipino Workers Center; Historic Filipinotown; LA County. Elysian Valley; LA
   County. East Los Angeles Renaissance Academy; East Los Angeles; LA County.
@@ -162,6 +150,15 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
 youtube_video_identifier: 1HVZ3rX86M4
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

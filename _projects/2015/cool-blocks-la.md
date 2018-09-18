@@ -12,18 +12,6 @@ project_summary: >-
   will reduce both their carbon and water footprints by an average of 25% while
   getting to know their neighbors and building their personal and shared
   resiliency.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -160,6 +148,8 @@ maker_image_id: '23843'
 maker_image_file_name: Cool_block_9.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

@@ -12,18 +12,6 @@ project_summary: >-
   model to take on greater civic participation roles. We’ll also provide support
   to the first cohort of young leaders trained last year as they continue
   community service.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -137,6 +125,8 @@ maker_image_id: '23751'
 maker_image_file_name: 2014_FLLA_2.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23751%252Fdisplay%252F2014_FLLA_2.JPG=c570x385
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

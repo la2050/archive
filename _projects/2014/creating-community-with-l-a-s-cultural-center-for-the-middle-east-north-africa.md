@@ -9,15 +9,6 @@ organization_id: '2014052'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MECAY will provide kids with hands-on learning experiences that will open
   their minds to the Middle East and North Africa. We will serve Kindergarten
@@ -49,6 +40,14 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - WESTSIDE
 body_class: banana
 
 ---

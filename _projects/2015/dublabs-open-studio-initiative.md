@@ -10,18 +10,6 @@ project_summary: >-
   public. By making our studio visible and our broadcast audible from the
   sidewalk, as well as providing seating and free wifi, we hope to give a
   community members a unique space to meet, connect and engage with the arts.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: >-
   We are seeking to move to an easily accessible location in Los Angeles near
   public transport
@@ -119,6 +107,8 @@ How do you plan to scale the success of your proposal?: >-
   Open Studio Initiative a central part of dublab’s operations for many years to
   come.
 year_submitted: 2015
+project_areas:
+  - Central LA
 body_class: strawberry
 
 ---

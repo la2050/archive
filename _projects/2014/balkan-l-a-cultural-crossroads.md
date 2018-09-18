@@ -9,15 +9,6 @@ organization_id: '2014083'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: '1'
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: '1'
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SEE Fest LA will invite Los Angeles-based film-makers and artists who have
   either emigrated to Los Angeles and/or are residents of Los Angeles who are of
@@ -76,6 +67,10 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: qtJ5XumU1Gw
+project_areas:
+  - CENTRAL LA
+  - SGV
+  - WESTSIDE
 body_class: strawberry
 
 ---

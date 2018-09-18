@@ -9,15 +9,6 @@ organization_id: '2014177'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Step 1: Partner with local schools and youth groups
     - Reach out to school administrators, councilors, and teachers, as well as youth group leaders from local churches and community centers.
@@ -109,6 +100,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: zs2Oe9X1llQ
+project_areas:
+  - SOUTH LA
 body_class: lime
 
 ---

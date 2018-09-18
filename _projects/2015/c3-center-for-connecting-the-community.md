@@ -12,18 +12,6 @@ project_summary: >-
   and creativity. The Center is designed to be a safe space where community
   members and leaders can connect and exchange ideas on how to create a vibrant
   Los Angeles.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: '1'
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   Primary center will be located in County District 4, but satellite services
   will be provided at school and community sites throughout the County.
@@ -108,6 +96,11 @@ How do you plan to scale the success of your proposal?: >-
   individual classes and services can be tailored to meet the specific needs of
   the communities in which new centers may open.
 year_submitted: 2015
+project_areas:
+  - South Bay
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

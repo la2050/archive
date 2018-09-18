@@ -12,18 +12,6 @@ project_summary: >-
   grow & succeed from cradle through college and career; 2) families can live a
   stable, healthy and fulfilling life; and 3) every individual is empowered to
   act & create a more just community.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   While the Promesa vision is specific to Boyle Heights, our systems change work
   and contributions to communities of practice will impact Los Angeles as a
@@ -152,6 +140,11 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg'
 youtube_video_identifier: S4rpsBWmEw4
+project_areas:
+  - East LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

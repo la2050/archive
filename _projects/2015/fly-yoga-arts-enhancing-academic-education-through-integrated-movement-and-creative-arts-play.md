@@ -14,18 +14,6 @@ project_summary: >-
   the teachers” will empower educators to seamlessly integrate play, movement
   and “mindful moments” into their classrooms with the result of keeping
   students balanced and engaged in learning.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -119,6 +107,8 @@ maker_image_id: '23727'
 maker_image_file_name: StillVideoImage_(2).jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23727%252Fdisplay%252FStillVideoImage_(2).jpg=c570x385
+project_areas:
+  - LAUSD
 body_class: strawberry
 
 ---

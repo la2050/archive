@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22530%252Fdisplay%252FDSC01431.jpg=c570x385
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Abraham Lincoln High School in Northeast Los Angeles
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ITC was founded in 2008 to develop leaders in urban communities through
   empowering families, building support networks, and improving academic
@@ -94,6 +85,8 @@ Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22530'
 maker_image_file_name: DSC01431.jpg
+project_areas:
+  - LA COUNTY
 body_class: blueberry
 
 ---

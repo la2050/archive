@@ -12,18 +12,6 @@ project_summary: >-
   skills matter by reinforcing that their voices matter. 826LA and Young
   Storytellers will engage volunteers to help today’s students become tomorrow’s
   storytellers.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -120,6 +108,13 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg'
 youtube_video_identifier: 9pqXAYBOKLo
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - LAUSD
 body_class: blueberry
 
 ---

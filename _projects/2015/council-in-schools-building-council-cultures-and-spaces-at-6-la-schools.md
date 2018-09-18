@@ -11,18 +11,6 @@ project_summary: >-
   families at six Los Angeles public schools (see below) to implement council
   and "restorative practices" programs and to collaborate on the design and
   construction of a dedicated council space at one of those schools.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   Gardner St. Elem. School, LAUSD, Hollywood; Valor High School, Panorama City;
   Valor Middle School, North Hills; Rise Kohyang Middle School, Koreatown;
@@ -113,6 +101,11 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/fKSh73dO49s/maxresdefault.jpg'
 youtube_video_identifier: fKSh73dO49s
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - South LA
+  - LAUSD
 body_class: strawberry
 
 ---

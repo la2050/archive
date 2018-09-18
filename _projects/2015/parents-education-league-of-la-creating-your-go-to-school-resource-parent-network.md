@@ -14,18 +14,6 @@ project_summary: >-
    To serve the greatest number of families possible, PEL proposes to expand our website to 
    1) offer comprehensive and robust access to school and educational resources via live streaming, mobile application, webinars, an interactive map; &
    2) develop and activate a City-Wide Network of parents and educational leaders
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: ''
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -137,6 +125,13 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/mtWPecaYPCQ/maxresdefault.jpg'
 youtube_video_identifier: mtWPecaYPCQ
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: blueberry
 
 ---

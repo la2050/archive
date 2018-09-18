@@ -12,18 +12,6 @@ project_summary: >-
   with community and government organizations familiar with the critical need
   and challenges of engaging the family, friend and neighbor community caring
   for an estimated 97,000 children in LA.
-Central LA: ''
-East LA: '1'
-San Gabriel Valley: '1'
-San Fernando Valley: '1'
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -135,6 +123,12 @@ maker_image_id: '23553'
 maker_image_file_name: 97_000_Children.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23553%252Fdisplay%252F97_000_Children.jpg=c570x385
+project_areas:
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - City of Los Angeles
 body_class: strawberry
 
 ---

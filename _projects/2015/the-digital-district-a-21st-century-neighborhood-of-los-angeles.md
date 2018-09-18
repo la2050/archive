@@ -10,18 +10,6 @@ project_summary: >-
   network in the Arts District that will disseminate civic updates, provide
   information about events and help coordinate large-scale community-based
   initiatives.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Arts District
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -33,6 +21,7 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
+project_areas: []
 body_class: lime
 
 ---

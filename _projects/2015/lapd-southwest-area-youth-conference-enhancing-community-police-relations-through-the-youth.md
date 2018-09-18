@@ -10,18 +10,6 @@ project_summary: >-
   The Public Safety Youth Conference will gather advice, concerns and
   recommendations on deterring crime and fostering public safety and community
   policing from the perspective of the youth in our communities.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': '1'
 Please specify below: Los Angeles Police Department
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -83,6 +71,10 @@ maker_image_id: '24149'
 maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385
+project_areas:
+  - South LA
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

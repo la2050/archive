@@ -12,18 +12,6 @@ project_summary: >-
   strengthening, & healthy behaviors & nutrition, and trains young adults to be
   instructors at a professional level to ensure sustainability of this program
   after the grant period is complete.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -126,6 +114,8 @@ maker_image_id: '23865'
 maker_image_file_name: ballerinas_image.jpg
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23865%252Fdisplay%252Fballerinas_image.jpg=c570x385
+project_areas:
+  - City of Los Angeles
 body_class: strawberry
 
 ---

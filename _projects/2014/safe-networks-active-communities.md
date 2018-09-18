@@ -9,15 +9,6 @@ organization_id: '2014108'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
 project_video: ''
-CENTRAL LA: ''
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: ''
-OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Safe Networks/Active Communities (SNAC) project is designed both to
   protect teen dating violence and domestic violence survivors in the community
@@ -88,6 +79,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Required for the success of this endeavor are: funding for the project, continued collaboration between the existing partners and the acquisition of new partners, and a strong coalition of volunteer leaders.
 empty_column_1: ''
+project_areas: []
 body_class: tangerine
 
 ---

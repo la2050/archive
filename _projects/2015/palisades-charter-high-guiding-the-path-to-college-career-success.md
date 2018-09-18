@@ -12,18 +12,6 @@ project_summary: >-
   the use of advanced technology, and business community and local government
   resources, the program will allow students from the City of LA to compete with
   students from all over the world.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Palisades Charter High School; Pacific Palisades; LA County
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -137,6 +125,7 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg'
 youtube_video_identifier: XUlv1Zd4JZU
+project_areas: []
 body_class: strawberry
 
 ---

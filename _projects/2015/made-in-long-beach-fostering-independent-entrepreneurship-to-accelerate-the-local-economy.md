@@ -12,18 +12,6 @@ project_summary: >-
   innovative local entrepreneurs, and lower their risk threshold to help them
   grow. Our vision is to make these projects scalable, sustainable and
   repeatable for diverse communities.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: Long Beach; LA County
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -163,6 +151,8 @@ How do you plan to scale the success of your proposal?: |-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 youtube_video_identifier: TNz5Q0G-KAs
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

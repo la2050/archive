@@ -11,18 +11,6 @@ project_summary: >-
   bridges from the classrooms to careers through internships & more. 
    
    We’d like your help to capitalize on the momentum from our pilot (Jan-March 2015) and the partnerships we have since developed to launch PWM in schools across LA, focusing our impact on at-risk students.
-Central LA: '1'
-East LA: '1'
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': '1'
 Please specify below: >-
   We can run programs wherever our partners, Green Dot Public Schools, and The
   Harmony Project, are operating.
@@ -38,6 +26,10 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 youtube_video_identifier: MY3TeVh867s
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
 body_class: banana
 
 ---

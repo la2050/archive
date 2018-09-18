@@ -12,18 +12,6 @@ project_summary: >-
   jobs; 2) reduce traffic, driving and GHG emissions; 3) fill empty seats on
   transit and reduce the operating cost per ride; 4) encourage life-long
   ridership, and 5) make it easier to learn!
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'
@@ -37,6 +25,8 @@ How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg'
 youtube_video_identifier: uiAFCgZ6YRw
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

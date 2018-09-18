@@ -14,18 +14,6 @@ project_summary: >-
   themselves. Tierra will identify people who are artistically gifted, and
   empower them to build careers, increasing employment in creative industries
   such as animation, ceramics, and commercial art.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -147,6 +135,8 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/duMAZ5TXBMg/maxresdefault.jpg'
 youtube_video_identifier: duMAZ5TXBMg
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

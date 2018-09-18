@@ -10,15 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20500%252Fdisplay%252F2013_Graduation_Luskin_Academy_(54).jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: '1'
-SFV: '1'
-SOUTH BAY: '1'
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: LA County
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   AMP provides incoming Alliance college freshman with peer mentors who are
   successful second and third year Alliance college students. Through regular
@@ -96,6 +87,14 @@ Whom will your project benefit? Please be specific.: >-
 empty_column_1: ''
 maker_image_id: '20500'
 maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - SGV
+  - SFV
+  - SOUTH BAY
+  - LA COUNTY
 body_class: blueberry
 
 ---

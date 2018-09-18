@@ -12,18 +12,6 @@ project_summary: >-
   and requires a 2-day per week, 7-week commitment to creating a healthier
   lifestyle. The two main elements of this program are Walking and Changing
   Unhealthy Habits.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: '1'
-South LA: '1'
-Westside: '1'
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -189,6 +177,13 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg'
 youtube_video_identifier: _AEWWNe6eQw
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - County of Los Angeles
+  - City of Los Angeles
 body_class: strawberry
 
 ---

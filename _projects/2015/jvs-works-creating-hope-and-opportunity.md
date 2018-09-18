@@ -12,18 +12,6 @@ project_summary: >-
   process, 350 people will be enrolled in a JVS WorksTM training program that is
   supported by leading industry employers and prepares graduates for careers
   beyond 2050 in high-growth industries.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: ''
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): ''
-LAUSD: ''
-'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -133,6 +121,8 @@ How do you plan to scale the success of your proposal?: >-
   service delivery that is well documented, and it is done with the support and
   interest of our funders.
 year_submitted: 2015
+project_areas:
+  - County of Los Angeles
 body_class: blueberry
 
 ---

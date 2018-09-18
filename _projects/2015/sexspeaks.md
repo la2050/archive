@@ -12,18 +12,6 @@ project_summary: >-
   experiences, we plan to continue engaging Black Women to feel confident in
   making informed and intuitive decisions about their bodies, sexualities,
   reproductive and mental health.
-Central LA: '1'
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: '1'
-Antelope Valley: '1'
-County of Los Angeles (countywide): ''
-City of Los Angeles (citywide): ''
-LAUSD: '1'
-'Other:': ''
 Please specify below: >-
   LACC, Cal State LA, Cal State Dominguez, Cal State Northridge, Cal State Long
   Beach, USC, UCLA, Southwest College, LA Trade Tech, Cal State El Camino, SMCC
@@ -41,6 +29,12 @@ maker_image_id: '23695'
 maker_image_file_name: IMG_5402.JPG
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23695%252Fdisplay%252FIMG_5402.JPG=c570x385
+project_areas:
+  - Central LA
+  - South LA
+  - South Bay
+  - Antelope Valley
+  - LAUSD
 body_class: strawberry
 
 ---

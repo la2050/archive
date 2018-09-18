@@ -10,17 +10,6 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: '1'
-SOUTH LA: '1'
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: >-
-  The effort is County-wide, but with an emphasis on communities in most need
-  (South LA and East LA)
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Over the course of the coming year, we will build on the established
   foundation to bring additional partners into the collaborative. While our
@@ -79,6 +68,11 @@ Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20605'
 maker_image_file_name: RallyinLA.jpg
+project_areas:
+  - CENTRAL LA
+  - EAST LA
+  - SOUTH LA
+  - LA COUNTY
 body_class: strawberry
 
 ---

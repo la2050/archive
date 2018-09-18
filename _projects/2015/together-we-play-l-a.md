@@ -12,18 +12,6 @@ project_summary: >-
   playgrounds into outdoor classrooms where profound lessons of acceptance and
   compassion are learned, helping to diminish harmful stereotypes that lead to
   bullying and exclusion.
-Central LA: ''
-East LA: ''
-San Gabriel Valley: ''
-San Fernando Valley: ''
-South LA: '1'
-Westside: ''
-South Bay: ''
-Antelope Valley: ''
-County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '1'
-LAUSD: '1'
-'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-
@@ -174,6 +162,11 @@ How do you plan to scale the success of your proposal?: >-
 year_submitted: 2015
 project_image: 'http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
 youtube_video_identifier: 44E5ezgbzHg
+project_areas:
+  - South LA
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 body_class: strawberry
 
 ---

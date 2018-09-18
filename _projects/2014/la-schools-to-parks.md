@@ -9,15 +9,6 @@ organization_id: '2018140'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/AmMHBgCHQsY/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '1'
-EAST LA: ''
-SOUTH LA: ''
-SGV: ''
-SFV: ''
-SOUTH BAY: ''
-WESTSIDE: ''
-LA COUNTY: '1'
-OTHER: Los Angeles Promise Zone
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA Schools to Parks will increase community parks in the LA Promise Zone by
   working with schools to open their outdoor recreation space to the community
@@ -86,6 +77,9 @@ How will your idea/project help make LA the best place to connect today? In LA20
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: AmMHBgCHQsY
+project_areas:
+  - CENTRAL LA
+  - LA COUNTY
 body_class: strawberry
 
 ---
