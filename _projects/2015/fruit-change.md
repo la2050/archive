@@ -122,6 +122,10 @@ How do you plan to scale the success of your proposal?: >-
    
    I've been a Reality TV producer for seven years. If there's one thing I can do, it's jump into a brand new world, figure out how it works, and use limited resources to make it even better. I build a great team and get everyone working at full potential.
 year_submitted: 2015
+maker_image_id: '23782'
+maker_image_file_name: IMG_7734.jpeg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23782%252Fdisplay%252FIMG_7734.jpeg=c570x385
 body_class: blueberry
 
 ---

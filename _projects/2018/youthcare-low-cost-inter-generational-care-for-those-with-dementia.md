@@ -34,7 +34,7 @@ make_la_great: >-
 category: create
 organization_id: '2018124'
 project_image: >-
-  https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
 project_video: 'https://youtu.be/5fwflSIChBM'
 body_class: banana
 

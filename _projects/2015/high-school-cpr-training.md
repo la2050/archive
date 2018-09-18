@@ -106,6 +106,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Saving lives is important. Giving teenagers the tools to save lives is empowering for them and good for the health of the community.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg'
+youtube_video_identifier: lilCVZW2Ggk
 body_class: lime
 
 ---

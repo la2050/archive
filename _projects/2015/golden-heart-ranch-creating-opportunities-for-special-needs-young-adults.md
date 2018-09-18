@@ -81,6 +81,10 @@ How do you plan to scale the success of your proposal?: >-
   350 guests from every state of the union learning best practices in housing,
   employment and socialization for our special needs community.
 year_submitted: 2015
+maker_image_id: '23906'
+maker_image_file_name: 2014-08-12_11.41.58.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23906%252Fdisplay%252F2014-08-12_11.41.58.jpg=c570x385
 body_class: strawberry
 
 ---

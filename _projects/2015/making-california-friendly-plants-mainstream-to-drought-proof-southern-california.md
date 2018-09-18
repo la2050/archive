@@ -153,6 +153,8 @@ How do you plan to scale the success of your proposal?: >-
    
    In the twentieth century, California's invested in pioneering physical infrastructure to safeguard our water future and create an unprecedented era of water supply. This new virtual infrastructure will ensure California's water future into the next century by powering an unprecedented era of water efficiency.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
+youtube_video_identifier: mvOTPkbwJJU
 body_class: strawberry
 
 ---

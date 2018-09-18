@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2014138'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/C1uVBoRtQ74/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -89,6 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Clear Expectations: Partner roles are clearly defined to maximize efficiency and establish accountability to ensure all goals are met.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: C1uVBoRtQ74
 body_class: blueberry
 
 ---

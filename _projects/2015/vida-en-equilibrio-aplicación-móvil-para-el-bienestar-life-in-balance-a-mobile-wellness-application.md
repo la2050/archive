@@ -117,6 +117,10 @@ How do you plan to scale the success of your proposal?: >-
    
    We can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well.
 year_submitted: 2015
+maker_image_id: '23673'
+maker_image_file_name: vidaenequilibrio.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23673%252Fdisplay%252Fvidaenequilibrio.png=c570x385
 body_class: lime
 
 ---

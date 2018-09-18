@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014117'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/A3zOCbnCHLg/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -82,6 +82,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factor #3: - Communication: Because we are not working directly with the individuals we serve, it is imperative that we have an open and reciprocal line of communication with partner CBOs. We must respond to their needs in a timely fashion, and they must strongly communicate the impact of our donations so we can continue to obtain items from generous corporations, retailers, and individuals.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: A3zOCbnCHLg
 body_class: lime
 
 ---

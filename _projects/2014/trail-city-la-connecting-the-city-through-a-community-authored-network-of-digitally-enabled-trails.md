@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2014044'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
+project_image: 'http://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -103,6 +103,7 @@ Whom will your project benefit? Please be specific.: >-
    
    We are particularly excited to be continuing our collaboration with Franklin High School’s Arroyo Seco Academy, because it was the work of their students in 2010 that inspired the Trail City LA concept. Assisted by staff from the National Parks Service, Franklin students designed 30 unique trails that required them to conduct in-depth and on-site research. The trail program has continued each year since then and our trail authoring platform will enhance the process they have already developed and enable the trails they create to contain dynamic media content and reach a wide audience.
 empty_column_1: ''
+youtube_video_identifier: _1j9tLhT4z8
 body_class: tangerine
 
 ---

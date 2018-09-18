@@ -101,6 +101,8 @@ How do you plan to scale the success of your proposal?: >-
   Grizzlies will also help build relationships with local professional sports
   organizations, involving them in future court projects.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
+youtube_video_identifier: phXK2cX3WEk
 body_class: strawberry
 
 ---

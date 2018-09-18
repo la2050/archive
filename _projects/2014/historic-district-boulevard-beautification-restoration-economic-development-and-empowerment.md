@@ -9,7 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2014002'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -87,6 +88,8 @@ Whom will your project benefit? Please be specific.: >-
   We want the participants to "own" the improvements and to inspire others to do
   their small part that will make an enormous contribution to the community.
 empty_column_1: '1'
+maker_image_id: '21055'
+maker_image_file_name: Washington_Square.JPG
 body_class: banana
 
 ---

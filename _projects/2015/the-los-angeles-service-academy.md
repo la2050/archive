@@ -92,6 +92,10 @@ How do you plan to scale the success of your proposal?: >-
   central, student-participant model, but we have made no firm decisions in this
   regard as yet.
 year_submitted: 2015
+maker_image_id: '23401'
+maker_image_file_name: LASA_LARiver2015.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385
 body_class: strawberry
 
 ---

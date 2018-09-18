@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014229'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21770%252Fdisplay%252Fjobstour.png=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '1'
@@ -59,6 +60,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   include them in the conversation.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '21770'
+maker_image_file_name: jobstour.png
 body_class: blueberry
 
 ---

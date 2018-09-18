@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014008'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
+project_image: 'http://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -102,6 +102,7 @@ Whom will your project benefit? Please be specific.: >-
    
    The factors critical to our collaborative success are: shared vision, respect and reciprocity. Shared vision ensures we are pulling in the same direction - towards an interconnected, livable city where people from all walks of life can thrive. Respect allows for us to share our diverse perspectives, ideas and solutions. Reciprocity allows us to focus on community, not individual betterment, and meaningful exchange rather than service or charity.
 empty_column_1: ''
+youtube_video_identifier: ytlmnttRP70
 body_class: tangerine
 
 ---

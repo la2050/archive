@@ -154,6 +154,10 @@ How do you plan to scale the success of your proposal?: |-
     
    Additionally, upon the completion of the research project, we will release a complete evaluation of the retreat development process, retreat experience, and post-retreat findings. We will create a dissemination strategy that balances free distribution with needs for training and fidelity to the model. We will publish our curriculum and support its effective dissemination. We will also empower program partners, key staff and researchers, to strategically share the research findings through conferences and written materials.
 year_submitted: 2015
+maker_image_id: '23670'
+maker_image_file_name: 2050pic.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23670%252Fdisplay%252F2050pic.jpg=c570x385
 body_class: blueberry
 
 ---

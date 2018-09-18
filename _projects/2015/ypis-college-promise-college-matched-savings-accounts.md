@@ -133,6 +133,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Our L.A. landscape is itself a dynamic element of change. Partnering with LA2050, we’re optimistic that by the year 2050 the beneficiaries of these matched college savings accounts will be sending their own children to college—part of a tradition of learning in Los Angeles where everyone who wishes for, envisions, and strives for college enrollment and completion can achieve it.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/8EU-FnJm4xE/maxresdefault.jpg'
+youtube_video_identifier: 8EU-FnJm4xE
 body_class: strawberry
 
 ---

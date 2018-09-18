@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014203'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -93,6 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our organizational ties to LA-based companies like Space X enable us to reach a targeted population of highly influential individuals and organizations, building our network through these channels.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: tgVu1wy15RQ
 body_class: lime
 
 ---

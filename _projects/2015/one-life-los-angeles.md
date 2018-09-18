@@ -122,6 +122,10 @@ How do you plan to scale the success of your proposal?: |-
    
    The other measure is the on-going website and social media outcomes of the workshops, measure in total reach, screenings, community meetings and kids presentation.
 year_submitted: 2015
+maker_image_id: '23763'
+maker_image_file_name: OWW_logo_and_logline.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23763%252Fdisplay%252FOWW_logo_and_logline.jpg=c570x385
 body_class: blueberry
 
 ---

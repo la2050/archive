@@ -100,6 +100,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Our goal is to reach 10,000 people in one year through event attendance and print, utilizing web and social medial to scale the impact across the web.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/ENJ15Tkyiqw/maxresdefault.jpg'
+youtube_video_identifier: ENJ15Tkyiqw
 body_class: blueberry
 
 ---

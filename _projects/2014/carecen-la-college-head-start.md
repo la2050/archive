@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014122'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21279%252Fdisplay%252F20121102_193319.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -81,6 +82,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Working together (CARECEN and Civitas) influencing a lasting change in the Westlake/Pico-Union community by raising awareness for higher academic standards and college readiness.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '21279'
+maker_image_file_name: 20121102_193319.jpg
 body_class: blueberry
 
 ---

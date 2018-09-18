@@ -142,6 +142,8 @@ How do you plan to scale the success of your proposal?: >-
   need for conservation. Enabling the EcoBoard project to be modular helps and
   the project itself is scalable in nature by its original design and resources.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
+youtube_video_identifier: 5-OvAiMBAFc
 body_class: strawberry
 
 ---

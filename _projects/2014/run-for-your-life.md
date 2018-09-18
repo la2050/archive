@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014210'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -84,6 +85,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    o Los Angeles Police Department: Attends monthly platicas and works with residents to discuss safety and community issues
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '20215'
+maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 body_class: lime
 
 ---

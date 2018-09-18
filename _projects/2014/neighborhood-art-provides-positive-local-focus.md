@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014020'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20596%252Fdisplay%252FIMAG0233.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -72,6 +73,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Recognition of contributions
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20596'
+maker_image_file_name: IMAG0233.jpg
 body_class: banana
 
 ---

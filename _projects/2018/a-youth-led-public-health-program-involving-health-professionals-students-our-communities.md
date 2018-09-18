@@ -32,7 +32,7 @@ make_la_great: >-
 category: live
 organization_id: '2018004'
 project_image: >-
-  https://activation.la2050.org/live/a-healthier-community-starts-with-youth/a-healthier-community-starts-with-youth.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/a-healthier-community-starts-with-youth.jpg
 project_video: 'https://vimeo.com/241727342'
 body_class: lime
 

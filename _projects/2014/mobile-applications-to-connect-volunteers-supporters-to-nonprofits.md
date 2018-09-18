@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014074'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20899%252Fdisplay%252Fgood.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -49,6 +50,8 @@ Whom will your project benefit? Please be specific.: >-
   We'd also love to collaborate with all other local organizations on the build
   of the platform to suit their operational needs.
 empty_column_1: ''
+maker_image_id: '20899'
+maker_image_file_name: good.jpg
 body_class: tangerine
 
 ---

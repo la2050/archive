@@ -159,6 +159,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Ultimately, the success of this project would be used as a model example of how to transform artistic communities in other cities that desperately require a program of this nature to survive, evolve and become part of the global dialogue.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/X9EpK48pYtY/maxresdefault.jpg'
+youtube_video_identifier: X9EpK48pYtY
 body_class: blueberry
 
 ---

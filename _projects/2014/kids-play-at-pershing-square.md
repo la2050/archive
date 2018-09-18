@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014067'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -68,6 +69,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Community support and engagement
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20546'
+maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 body_class: strawberry
 
 ---

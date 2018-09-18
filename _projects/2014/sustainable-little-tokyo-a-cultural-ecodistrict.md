@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014223'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/QQpabiJ0uus/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -73,6 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) The partners will need to maintain a nimble and flexible strategy that fluidly adjusts to shifting policy currents.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: QQpabiJ0uus
 body_class: lime
 
 ---

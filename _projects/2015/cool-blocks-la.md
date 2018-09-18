@@ -156,6 +156,10 @@ How do you plan to scale the success of your proposal?: >-
    
    By the end of Year 3, Los Angeles will be in an ideal position to serve as a candidate for an upcoming “Cool Cities Challenge,” a $2.5 million initiative with 20 California cities leading the way to a healthy carbon future by 2020.
 year_submitted: 2015
+maker_image_id: '23843'
+maker_image_file_name: Cool_block_9.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23843%252Fdisplay%252FCool_block_9.png=c570x385
 body_class: strawberry
 
 ---

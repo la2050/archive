@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014083'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
+project_image: 'http://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -75,6 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three factors critical to the success of our collaboration: sharing similar goals and ideals, willingness to roll up our collective sleeves, and the passion to create new things.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: qtJ5XumU1Gw
 body_class: strawberry
 
 ---

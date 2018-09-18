@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2014057'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
+project_image: 'http://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -99,6 +99,7 @@ Whom will your project benefit? Please be specific.: >-
    
    To better connect with citizens and communities throughout Los Angeles, we will rely on networking with a broad spectrum of groups, including community based organizations, neighborhood councils and associations, local elected officials, and other civic technology providers.
 empty_column_1: ''
+youtube_video_identifier: ql6hxsjKMCQ
 body_class: tangerine
 
 ---

@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2016205'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/reimaginedresources.html'
+project_image: 'http://img.youtube.com/vi/vKCqcYfiVNA/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -54,6 +54,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The only group we have not yet worked with is the Sanitation Dept. and our first meeting was scheduled for the day the water pipe broke in west LA. We are rescheduled for Aug. 6th in Kevin James office.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: vKCqcYfiVNA
 body_class: strawberry
 
 ---

@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014163'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -75,6 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    From the environmental sector, our confirmed partners include Ecodistricts, the Natural Resources Defense Council, Global Green USA. These partners bring expertise around climate change, sustainability planning, and green technology.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: 6BWp4B7O03I
 body_class: lime
 
 ---

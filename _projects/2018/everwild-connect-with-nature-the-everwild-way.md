@@ -33,7 +33,7 @@ make_la_great: >-
    To increase access, EverWild will continue to develop partnerships with open space and park facilities to host activities and to present events, programs, internships, summer employment, and volunteer opportunities they offer. EverWild will offer client support for public transportation and van rentals to bring young people and families to and from program, as needed. EverWild will document partnerships with memorandums of understanding, letters of agreement, and written communication with open spaces. EverWild will obtain feedback from children and families on quality of space and overall experience. For reporting outcomes on after school participation,EverWild will require sign-in and attendance logs.
 category: play
 organization_id: '2018038'
-project_image: 'https://activation.la2050.org/play/everwild/everwild.jpg'
+project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everwild.jpg'
 project_video: 'https://vimeo.com/262456324'
 body_class: strawberry
 

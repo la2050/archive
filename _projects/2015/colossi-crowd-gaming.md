@@ -82,6 +82,8 @@ How do you plan to scale the success of your proposal?: >-
    In addition, we will continue our outreach to local schools, partnering with them to do fundraisers and such, both small scale and at the large sports events. 
    Eventually, we would work to make all of LA more and more interactive.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
+youtube_video_identifier: CAz_mkuDRno
 body_class: strawberry
 
 ---

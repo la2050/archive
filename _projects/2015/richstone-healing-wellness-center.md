@@ -102,6 +102,8 @@ How do you plan to scale the success of your proposal?: >-
   possibility of expanding services and/or replicating the project's programs at
   other venues in neighboring high need communities.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg'
+youtube_video_identifier: gRaTc3pZvug
 body_class: strawberry
 
 ---

@@ -128,6 +128,10 @@ How do you plan to scale the success of your proposal?: >-
   cohorts to conduct mobile access trainings to various regions first in the
   state, then on the West Coast, followed by national growth.
 year_submitted: 2015
+maker_image_id: '23511'
+maker_image_file_name: 3014224447_e908044cf3_o.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23511%252Fdisplay%252F3014224447_e908044cf3_o.jpg=c570x385
 body_class: lime
 
 ---

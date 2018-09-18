@@ -90,6 +90,8 @@ How do you plan to scale the success of your proposal?: >-
   with public officials through our role in the coalition to bring to life a
   permanent transit-to-trails program.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
+youtube_video_identifier: SVzSpv8Dj74
 body_class: lime
 
 ---

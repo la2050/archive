@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2014194'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -94,6 +94,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Clear expectations and communication.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: lz8FDz2KN0s
 body_class: blueberry
 
 ---

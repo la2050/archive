@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014230'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21490%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.15.53_AM.png=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -81,6 +82,8 @@ Whom will your project benefit? Please be specific.: >-
    
    Fold Gallery, and Pasadena Architectural Salvage are made up of artists and specialists who will help to create the reused and reclaimed look and feel of the former auto mechanic turned sustainable demonstration venue.
 empty_column_1: '1'
+maker_image_id: '21490'
+maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
 body_class: lime
 
 ---

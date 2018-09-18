@@ -40,7 +40,7 @@ make_la_great: >-
    In fostering critical thinking skills, KidBot empowers students to flourish creatively and view competition as another way to learn from and teach others. Further, the integration of social and emotional learning in programming encourages students to cultivate higher-thinking skills such as responsibility, empathy, teamwork, problem solving, emotion management and initiative. These components empower students as they develop strong, positive relationships with peers and adults through their journey to becoming young leaders in the STEM field.
 category: learn
 organization_id: '2018065'
-project_image: 'https://activation.la2050.org/learn/las-best/las-best.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg'
 project_video: '0'
 body_class: blueberry
 

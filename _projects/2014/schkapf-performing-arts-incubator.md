@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014079'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
+project_image: 'http://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -91,6 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   sustainable touring network, and a university-to-industry pipeline.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: mei1C43QDXw
 body_class: banana
 
 ---

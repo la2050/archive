@@ -55,7 +55,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018045'
 project_image: >-
-  https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/girls-academic-leadership-academy-gala.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/girls-academic-leadership-academy-gala.jpg
 project_video: 'https://youtu.be/PTteThgae3o'
 body_class: blueberry
 

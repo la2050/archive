@@ -103,6 +103,10 @@ How do you plan to scale the success of your proposal?: >-
    
    I will also diffuse lessons learned through my national network, providing a blueprint for next gen talent development to other regional organizations.
 year_submitted: 2015
+maker_image_id: '23338'
+maker_image_file_name: Screen_Shot_2015-10-03_at_3.51.42_PM.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23338%252Fdisplay%252FScreen_Shot_2015-10-03_at_3.51.42_PM.png=c570x385
 body_class: blueberry
 
 ---

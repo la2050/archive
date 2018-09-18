@@ -34,7 +34,7 @@ make_la_great: >-
    We want to take our 4 years of learnings and utilize existing platforms that can enable us to adapt and deliver our curriculum to anyone, anywhere. We want to specifically focus marketing to underrepresented minority communities and social enterprises to provide access to education, tools and resources
 category: create
 organization_id: '2018049'
-project_image: 'https://activation.la2050.org/create/grid110-inc/grid110-inc.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg'
 project_video: '0'
 body_class: banana
 

@@ -193,6 +193,8 @@ How do you plan to scale the success of your proposal?: >-
    * spark new environmental thinking, research and action through student-led community events 
    * collaborate with partners to develop creative ways to spread the importance of conserving nature in LA
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/gxmDmbwknC0/maxresdefault.jpg'
+youtube_video_identifier: gxmDmbwknC0
 body_class: strawberry
 
 ---

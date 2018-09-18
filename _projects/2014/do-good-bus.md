@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014026'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
+project_image: 'http://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -88,6 +88,7 @@ Whom will your project benefit? Please be specific.: >-
    EDUCATION PARTNERS
    As for causes and organizations who can help us make Do Good Field Trips a reality, we’re looking forward to working with No Right Brain Left Behind, Green Dot Schools, Breakaway Education and Zimmer Children’s Museum.
 empty_column_1: ''
+youtube_video_identifier: T17vBV41x0g
 body_class: tangerine
 
 ---

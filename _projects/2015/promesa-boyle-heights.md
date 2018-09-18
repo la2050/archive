@@ -150,6 +150,8 @@ How do you plan to scale the success of your proposal?: >-
    
    As part of our involvement in the national Promise Neighborhood Institute, we are also beginning to share best practices and tools with other communities and organizations in Los Angeles and throughout the nation. We see this as an important part of our contribution towards the field of education and community transformation.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/S4rpsBWmEw4/maxresdefault.jpg'
+youtube_video_identifier: S4rpsBWmEw4
 body_class: strawberry
 
 ---

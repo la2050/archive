@@ -103,6 +103,8 @@ How do you plan to scale the success of your proposal?: >-
   world. It would be incredible to then see a project like this grow into other
   cities.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg'
+youtube_video_identifier: Wx27G6vdyF4
 body_class: strawberry
 
 ---

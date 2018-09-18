@@ -40,7 +40,7 @@ make_la_great: >-
    Through this work, VoteRunLead will deliver specifically on the LA2050 metric to increase participation in neighborhood councils, training and propelling women into office to create a more responsive governance that addresses residents' needs.
 category: live
 organization_id: '2018134'
-project_image: 'https://activation.la2050.org/connect/voterunlead/voterunlead.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg'
 project_video: 'https://www.youtube.com/watch?v=UJlhdh9rWgs'
 body_class: lime
 

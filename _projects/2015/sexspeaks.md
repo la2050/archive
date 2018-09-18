@@ -37,6 +37,10 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': ''
 How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
+maker_image_id: '23695'
+maker_image_file_name: IMG_5402.JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23695%252Fdisplay%252FIMG_5402.JPG=c570x385
 body_class: strawberry
 
 ---

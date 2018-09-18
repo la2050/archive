@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014178'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20849%252Fdisplay%252FNEW_IFCLOGO.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -94,6 +95,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    LA-Más is a non-profit that performs design-based experiments with the city as our lab. Their mission is to look critically at systemic problems in the LA area and provide solutions based on research and community engagement.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '20849'
+maker_image_file_name: NEW_IFCLOGO.jpg
 body_class: lime
 
 ---

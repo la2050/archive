@@ -40,7 +40,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018017'
 project_image: >-
-  https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/charles-r-drew-university-of-medicine-and-science.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/charles-r-drew-university-of-medicine-and-science.jpg
 project_video: 'https://www.youtube.com/watch?v=9xHS8SSMejQ'
 body_class: blueberry
 

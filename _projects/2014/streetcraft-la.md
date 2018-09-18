@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2015175'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/streetcraftla.html'
+project_image: 'http://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -77,6 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In all of our partnerships, philosophical alignment is the critical elements. The Streetcraft venture has a set of deeply held core values: every person has strengths and talents that need to be respected and placed at the center of any plan to train, educate, and support that person. All of our partners share this commitment to the intrinsic worth of our participants.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: LDkB_pxZu2k
 body_class: banana
 
 ---

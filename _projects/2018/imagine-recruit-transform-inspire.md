@@ -35,7 +35,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018027'
 project_image: >-
-  https://activation.la2050.org/connect/city-year-los-angeles/city-year-los-angeles.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/city-year-los-angeles.jpg
 project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
 body_class: tangerine
 

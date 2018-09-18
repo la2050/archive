@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2015222'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22548%252Fdisplay%252FScreen_shot_2014-07-31_at_2.03.49_PM.png=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -77,6 +78,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three factors critical to the success of collaboration are (1) We can efficiently create a structure to delegate tasks and get work done in the most efficient manner possible with our staff of over 100 people. (2) We have access to mental health professionals as a resource throughout the creation and execution of the campaign. (3) Student Wellness Commission has led a successful campaign, 7000 in Solidarity, to raise awareness of sexual assault on our campus. This experience is vital it programming for All of Us.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22548'
+maker_image_file_name: Screen_shot_2014-07-31_at_2.03.49_PM.png
 body_class: blueberry
 
 ---

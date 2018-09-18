@@ -43,7 +43,7 @@ make_la_great: >-
    Our prototype: https://invis.io/F2C8XR4HW#/239912225_Load
 category: live
 organization_id: '2018119'
-project_image: 'https://activation.la2050.org/live/the-glue/the-glue.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-glue.jpg'
 project_video: '0'
 body_class: lime
 

@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014102'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21229%252Fdisplay%252Furban_air.jpg=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -106,6 +107,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Marketing and promotion
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21229'
+maker_image_file_name: urban_air.jpg
 body_class: banana
 
 ---

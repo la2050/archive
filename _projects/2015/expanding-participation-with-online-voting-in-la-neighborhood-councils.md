@@ -84,6 +84,10 @@ How do you plan to scale the success of your proposal?: >-
   will work with EmpowerLA to distribute best practices and conduct training
   with neighborhood councils if and when the pilot expands in future years.
 year_submitted: 2015
+maker_image_id: '23887'
+maker_image_file_name: civictechusc_neighborhood_LA2050.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23887%252Fdisplay%252Fcivictechusc_neighborhood_LA2050.png=c570x385
 body_class: strawberry
 
 ---

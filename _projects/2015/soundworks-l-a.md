@@ -113,6 +113,10 @@ How do you plan to scale the success of your proposal?: >-
    
    We also anticipate being able to engage our students on the processes of building and running a business, associated ethics and any fiscal training available. With the support of our Board of Directors and through building an Advisory Committee for this project, we will have the expertise and guidance needed to ensure we are exploring every possible angle and making practical and effective decisions in scaling our success.
 year_submitted: 2015
+maker_image_id: '23245'
+maker_image_file_name: Slide1.JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23245%252Fdisplay%252FSlide1.JPG=c570x385
 body_class: strawberry
 
 ---

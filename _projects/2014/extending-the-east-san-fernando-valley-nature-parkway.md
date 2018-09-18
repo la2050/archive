@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2016093'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '1'
@@ -51,6 +51,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    USC (analysis; unconfirmed)
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: O0GqacCipYM
 body_class: lime
 
 ---

@@ -99,6 +99,8 @@ How do you plan to scale the success of your proposal?: >-
   tablets, the cost of providing the app would be minimal for schools in
   comparison with the cost of textbooks and other print resources.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/5tvdNOJ7fCw/maxresdefault.jpg'
+youtube_video_identifier: 5tvdNOJ7fCw
 body_class: blueberry
 
 ---

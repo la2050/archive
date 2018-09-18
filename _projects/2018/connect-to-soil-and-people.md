@@ -25,7 +25,7 @@ make_la_great: >-
    There are significant environmental benefits to both reducing food waste and using finished compost- ultimately completing the story of food from farm to table to compost and back to the soil. The environmental benefits of compost include increased water retention, reduce erosion, lower greenhouse gas emissions, and increase nutritional value of food. These environmental benefits help stabilize and protect our changing climate, making LA more resilient. Our goal is to strengthen the social fabric of LA by amplifying shared spaces for connections, with each other, our food system and the vibrant ecosystems of LA- while diverting food waste from landfill, generating healthy compost to nourish LA’s landscapes, protecting LA from drought and erosion, and celebrating diversity within soil and people.
 category: connect
 organization_id: '2018061'
-project_image: 'https://activation.la2050.org/connect/la-compost/la-compost.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la-compost.jpg'
 project_video: 'https://youtu.be/QeunrIbUzt0'
 body_class: tangerine
 

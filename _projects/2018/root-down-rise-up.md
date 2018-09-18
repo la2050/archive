@@ -44,7 +44,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018085'
 project_image: >-
-  https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg
 project_video: 'https://youtu.be/4gShI4Plo2I'
 body_class: tangerine
 

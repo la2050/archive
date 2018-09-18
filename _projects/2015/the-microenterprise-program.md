@@ -93,6 +93,8 @@ How do you plan to scale the success of your proposal?: >-
   a larger scale and then be ready to implement it in other areas of LA County
   and other cities across the nation
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
+youtube_video_identifier: 0qhd1kRJ698
 body_class: blueberry
 
 ---

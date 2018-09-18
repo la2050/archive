@@ -146,6 +146,8 @@ How do you plan to scale the success of your proposal?: >-
   campuses. This enables the Partnership to meet the needs of its schools in a
   cost-effective way, providing a sustainable and scalable model.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/_P0ljapOsHo/maxresdefault.jpg'
+youtube_video_identifier: _P0ljapOsHo
 body_class: blueberry
 
 ---

@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014014'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
+project_image: 'http://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -76,6 +76,7 @@ Whom will your project benefit? Please be specific.: >-
    2) Add value to our partners programs by making interactions with clients and caregivers more meaningful
    3) Build community among all the individuals involved in the process of caring for and advocating for those living with chronic or terminal conditions. In addition, to the tremendous partnerships in our program area, Beauty Bus has successful collaborations with a number of beauty companies and the Professional Beauty Association. These relationships are responsible for the million dollars in product donations which are used at all of our events, visits and our Bag of Beauty Program.
 empty_column_1: ''
+youtube_video_identifier: XoT_36T5K5E
 body_class: tangerine
 
 ---

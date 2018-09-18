@@ -129,6 +129,10 @@ How do you plan to scale the success of your proposal?: >-
   Ecological Reserve and other Playa Vista parks will also be a measure of
   success.
 year_submitted: 2015
+maker_image_id: '23805'
+maker_image_file_name: LA2050_Cover_image_flattened2.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23805%252Fdisplay%252FLA2050_Cover_image_flattened2.jpg=c570x385
 body_class: blueberry
 
 ---

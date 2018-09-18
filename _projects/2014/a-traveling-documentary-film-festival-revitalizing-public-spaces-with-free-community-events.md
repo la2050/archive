@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2015007'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/BringAmbulante2CA.html'
+project_image: 'http://img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -98,6 +98,7 @@ empty_column_1: >-
    The participation of each site we visit includes not just audience engagement but volunteers from each area. Our volunteers are trained and given a level of independence, confidence and boosts of morale. We attract young go-getters and older film lovers as volunteers. Our films are family driven but are also emotional which can really affect adults. 
    
    Ambulante California does not impose any ideas or restrictions on the communities it enters, creating a safe space for people of all races, genders, sexual orientations, and socioeconomic backgrounds to participate in important dialogues.
+youtube_video_identifier: 6jwNTQKIwsI
 body_class: tangerine
 
 ---

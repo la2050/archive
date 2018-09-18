@@ -42,7 +42,7 @@ make_la_great: >-
    For Reference: Advancement Project Report: http://bit.ly/APYouthReport
 category: live
 organization_id: '2018008'
-project_image: 'https://activation.la2050.org/live/big-citizen-hub/big-citizen-hub.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg'
 project_video: '0'
 body_class: lime
 

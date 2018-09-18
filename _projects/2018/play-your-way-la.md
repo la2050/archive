@@ -75,7 +75,7 @@ make_la_great: >-
 category: play
 organization_id: '2018058'
 project_image: >-
-  https://activation.la2050.org/play/kounkuey-design-initiative/kounkuey-design-initiative.jpg
+  https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
 body_class: strawberry
 

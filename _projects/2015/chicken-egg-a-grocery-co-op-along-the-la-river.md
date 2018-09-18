@@ -157,6 +157,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Lastly, we believe that any LA River project needs to be accessible to all people, races, economic backgrounds. We have been focusing on basic services, not high-end boutique that marginalizes long time residents. The bigger the customer base, the greater chance at success.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
+youtube_video_identifier: CTFt7gFp6BY
 body_class: strawberry
 
 ---

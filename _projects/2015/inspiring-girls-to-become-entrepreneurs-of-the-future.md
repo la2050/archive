@@ -86,6 +86,8 @@ How do you plan to scale the success of your proposal?: >-
   volunteers to support the work will further expand the reach and impact of the
   program allowing for more girls to participate.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/Dcwg2GZofvo/maxresdefault.jpg'
+youtube_video_identifier: Dcwg2GZofvo
 body_class: blueberry
 
 ---

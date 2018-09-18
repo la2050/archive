@@ -43,7 +43,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018132'
 project_image: >-
-  https://activation.la2050.org/live/united-way-of-greater-los-angeles/united-way-of-greater-los-angeles.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
 project_video: 'https://youtu.be/omjbiTiHXxU'
 body_class: tangerine
 

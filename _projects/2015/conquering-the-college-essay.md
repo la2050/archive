@@ -94,6 +94,8 @@ How do you plan to scale the success of your proposal?: >-
    
    *NOTE ABOUT THE YOUTUBE VIDEO below! This was a pitch I gave last year; I have since (summer of 2015) completely re-done my UX (for the better!). The fundamental product is the same, but the look-n-feel is much better now. Please let me know if you'd like a tour of the current product (which I am just now getting ready to unveil). Thank you!
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg'
+youtube_video_identifier: IRXVbzVLXls
 body_class: blueberry
 
 ---

@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014205'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22849%252Fdisplay%252FAquariumPacific.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -79,6 +80,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three factors critical to a successful “Mobile Forum” collaboration-partnership are: (1) a distributed and representative audience, (2) connection to decision-makers, and (3) promotion.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22849'
+maker_image_file_name: AquariumPacific.jpg
 body_class: lime
 
 ---

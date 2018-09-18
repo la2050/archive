@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014023'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
+project_image: 'http://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -105,6 +105,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   develop our work for our upcoming debut performance of Amaterra this Fall.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: K83J6XaqQlM
 body_class: banana
 
 ---

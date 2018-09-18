@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2015087'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/LAhasHEART.html'
+project_image: 'http://img.youtube.com/vi/Xau4GFWaEhY/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -52,6 +52,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our ability to establish sustainable partnerships is illustrated in our 19-year partnership with One Heartland for our summer arts camp. HH is dedicated to strengthening relationships with all our existing partners and continually seeks to collaborate with other like-minded organizations in for future programs.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: Xau4GFWaEhY
 body_class: banana
 
 ---

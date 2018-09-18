@@ -5,7 +5,7 @@ project_summary: MEND provides medical services to local poverty-level people at
 category: live
 organization_id: '2014175'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/z_iZNryQIgw/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -120,6 +120,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    . Worksource California TSE Program
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: z_iZNryQIgw
 body_class: lime
 
 ---

@@ -89,6 +89,8 @@ How do you plan to scale the success of your proposal?: >-
   of South Los Angeles, East Los Angeles, North Long Beach, Inglewood, San
   Gabriel Valley, San Fernando, Lancaster, and Palmdale).
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg'
+youtube_video_identifier: myUKgR-PO4c
 body_class: lime
 
 ---

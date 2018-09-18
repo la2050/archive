@@ -131,6 +131,8 @@ How do you plan to scale the success of your proposal?: >-
    
    It is our belief that our greatest assets are the youth we serve & it is because of them that we will be successful & able to scale to reach more & more youth. By caring, nurturing & supporting these youth, they will no doubt thrive & continue to reach for the limitless potential that they all possess.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/xbatmQQi_e4/maxresdefault.jpg'
+youtube_video_identifier: xbatmQQi_e4
 body_class: blueberry
 
 ---

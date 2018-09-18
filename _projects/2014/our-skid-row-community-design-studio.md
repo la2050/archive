@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014081'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21430%252Fdisplay%252FPhotos_2013.JPG=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -72,6 +73,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   growth, involvement and leadership development.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21430'
+maker_image_file_name: Photos_2013.JPG
 body_class: banana
 
 ---

@@ -92,6 +92,8 @@ How do you plan to scale the success of your proposal?: >-
   be utilized effectively in continually making LA the best place to create.
   This time, through 3D printing!
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
+youtube_video_identifier: uVgrIU_Bl9g
 body_class: blueberry
 
 ---

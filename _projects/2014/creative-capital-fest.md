@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014001'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22856%252Fdisplay%252Fcreative_capital_img.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -120,6 +121,8 @@ Whom will your project benefit? Please be specific.: |-
    
    3. Building a movement - it's crucial that this event does not exist in isolation, but is an integrated into the larger movement to showcase LA as a global hub of creativity
 empty_column_1: '1'
+maker_image_id: '22856'
+maker_image_file_name: creative_capital_img.jpg
 body_class: banana
 
 ---

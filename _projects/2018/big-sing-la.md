@@ -36,7 +36,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018076'
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-master-chorale/los-angeles-master-chorale.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg
 project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
 body_class: tangerine
 

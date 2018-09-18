@@ -95,7 +95,7 @@ make_la_great: >-
    We created a career track training curriculum to rapid prototype working professionals changing careers by offering specialized training for product management, data analysis, big data and other important skills for entry level jobs in tech. See our past events at http://bit.ly/freshstart-events.
 category: learn
 organization_id: '2018033'
-project_image: 'https://activation.la2050.org/learn/data-360/data-360.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
 project_video: '0'
 body_class: blueberry
 

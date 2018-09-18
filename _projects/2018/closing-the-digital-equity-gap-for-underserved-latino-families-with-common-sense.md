@@ -63,7 +63,7 @@ make_la_great: >-
    Through these efforts, we will help kids build the skills they need to harness technology for learning and life - from using the internet safely and responsibly to using media and technology to optimize learning. Our award-winning Digital Citizenship program covers media balance and well being, digital footprint and identity, privacy and safety, relationships and communication, digital drama, cyberbullying and hate speech, and news and media literacy. This comprehensive work will be executed by a team of people in our LA office, supported by our national staff who are creating the programmatic resources.
 category: learn
 organization_id: '2018029'
-project_image: 'https://activation.la2050.org/learn/common-sense/common-sense.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg'
 project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
 body_class: blueberry
 

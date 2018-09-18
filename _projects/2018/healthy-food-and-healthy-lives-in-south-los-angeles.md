@@ -32,7 +32,7 @@ make_la_great: |-
 category: live
 organization_id: '2018087'
 project_image: >-
-  https://activation.la2050.org/live/my-friends-house-inc/my-friends-house-inc.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/my-friends-house-inc.jpg
 project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
 body_class: lime
 

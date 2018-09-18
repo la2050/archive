@@ -38,7 +38,8 @@ make_la_great: >-
    Kitchen Table App is an expert in facilitating communal dining and gathering experiences and creating the opportunity to easily connect with others by participating in both hosting meals and get-togethers for others or joining meals and get-togethers with others. Kitchen Table App is rooted in connecting. It’s our core value. And we invite you and your community to join in and take a seat at the table with us.
 category: connect
 organization_id: '2018057'
-project_image: 'https://activation.la2050.org/connect/kitchen-table-app/kitchen-table-app.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg
 project_video: 'https://youtu.be/Rmqp7T8vQ0A'
 body_class: tangerine
 

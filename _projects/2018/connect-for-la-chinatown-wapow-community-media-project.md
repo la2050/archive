@@ -61,7 +61,8 @@ make_la_great: >-
    The project’s new storytelling platform is a vehicle for community building around important issues of shared interest. It also provides new ways to access community resources, and opportunities for people to activate and connect—either actively as volunteers or event-goers, or passively as readers. The focus on storytelling helps build empathy and mutual understanding across different generations, experiences, histories and perspectives, toward building community cohesion and resilience.
 category: connect
 organization_id: '2018047'
-project_image: 'https://activation.la2050.org/connect/good-shine-studio/good-shine-studio.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg
 project_video: 'https://www.youtube.com/watch?v=03UxLqNGuvE'
 body_class: tangerine
 

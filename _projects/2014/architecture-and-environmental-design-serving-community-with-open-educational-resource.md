@@ -9,7 +9,7 @@ project_summary: >-
 category: learn
 organization_id: '2015130'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/Rbh4r1scbVc/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -132,6 +132,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   leaders.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: Rbh4r1scbVc
 body_class: blueberry
 
 ---

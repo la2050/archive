@@ -148,6 +148,8 @@ How do you plan to scale the success of your proposal?: >-
    
    In the end, these plans will benefit more of our students and community members.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
+youtube_video_identifier: c9y0Bp8kgT4
 body_class: blueberry
 
 ---

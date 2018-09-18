@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014192'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22790%252Fdisplay%252FGEInc_Logo-brown_3-12.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -80,6 +81,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    (3) The shared heart-centered philosophy of serving without judgment or obligation is imperative to our success.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22790'
+maker_image_file_name: GEInc_Logo-brown_3-12.jpg
 body_class: lime
 
 ---

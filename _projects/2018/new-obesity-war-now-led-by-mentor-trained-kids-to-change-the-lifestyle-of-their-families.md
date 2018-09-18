@@ -82,7 +82,7 @@ make_la_great: |-
 category: play
 organization_id: '2018106'
 project_image: >-
-  https://activation.la2050.org/live/science-academy-for-all/science-academy-for-all.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
 project_video: '0'
 body_class: strawberry
 

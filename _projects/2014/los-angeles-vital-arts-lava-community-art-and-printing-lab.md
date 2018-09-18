@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014064'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/LAVA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21917%252Fdisplay%252Fstudio1.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -62,6 +63,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Mitch O'Farrell, NELA art Organization, ArtCenter college.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21917'
+maker_image_file_name: studio1.jpg
 body_class: banana
 
 ---

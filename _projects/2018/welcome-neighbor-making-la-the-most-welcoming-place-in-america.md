@@ -61,7 +61,7 @@ make_la_great: >-
    Through these stages and actions, “Welcome, Neighbor” will provide resettling individuals and families with social and emotional support, promote participation in Neighborhood Councils, and boost volunteerism. Ultimately, we believe that an LA where neighbors come together to welcome refugees will be a better, more compassionate, and more engaged city for all its residents.
 category: connect
 organization_id: '2018083'
-project_image: 'https://activation.la2050.org/connect/mirys-list/mirys-list.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mirys-list.jpg'
 project_video: 'https://youtu.be/6re3u9HlO-A'
 body_class: tangerine
 

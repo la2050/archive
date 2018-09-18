@@ -41,7 +41,7 @@ make_la_great: >-
 category: live
 organization_id: '2018080'
 project_image: >-
-  https://activation.la2050.org/live/mar-vista-family-center/mar-vista-family-center.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/mar-vista-family-center.jpg
 project_video: 'https://youtu.be/4ejRwTEFlUg'
 body_class: lime
 

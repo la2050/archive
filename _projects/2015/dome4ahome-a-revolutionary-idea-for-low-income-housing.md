@@ -70,6 +70,10 @@ How do you plan to scale the success of your proposal?: >-
   Dome building program. We would also look to corporate sponsorship to
   contribute a number of Dome homes.
 year_submitted: 2015
+maker_image_id: '23466'
+maker_image_file_name: large_domes-134_crop.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23466%252Fdisplay%252Flarge_domes-134_crop.jpg=c570x385
 body_class: strawberry
 
 ---

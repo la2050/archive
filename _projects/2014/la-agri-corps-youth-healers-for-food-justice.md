@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014193'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22630%252Fdisplay%252Fcorn_seeding.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -81,6 +82,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factors that are critical to the success of the proposed collaboration include: (1) the ability of community members to learn about road safety and opportunities to help shape and advocate for Vision Zero; (2) the capacity of the project to inspire participants in workshops and walks to advocate for safer streets; and (3) the ability of advocacy to influence decision makers to adopt Vision Zero policies. We believe that the Vision Zero Los Angeles team can provide synergy through community-based journalism and outreach, community-engaged advocacy and community-led visioning for safer streets in order to achieve project goals.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '22630'
+maker_image_file_name: corn_seeding.jpg
 body_class: lime
 
 ---

@@ -79,6 +79,10 @@ How do you plan to scale the success of your proposal?: >-
   Increased community engagement and support and participation in youth
   programs.
 year_submitted: 2015
+maker_image_id: '24149'
+maker_image_file_name: Screen_Shot_2015-10-15_at_12.10.38_PM.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24149%252Fdisplay%252FScreen_Shot_2015-10-15_at_12.10.38_PM.png=c570x385
 body_class: strawberry
 
 ---

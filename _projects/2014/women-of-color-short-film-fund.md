@@ -5,7 +5,8 @@ project_summary: '1'
 category: create
 organization_id: '2014087'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -73,6 +74,8 @@ What will you do to implement this idea/project?: |-
 How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20953'
+maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
 body_class: banana
 
 ---

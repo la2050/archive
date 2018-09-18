@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014151'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21199%252Fdisplay%252FDSC02097-2.jpg=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -68,6 +69,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three factors critical to success of any of our proposed collaborations are: increased access to local actors already interested in food production and consumption of healthy food; increased access to people working in the food justice and social equity arena, so integral to community improvement and overall health; and increased access to people who are actively growing quality food in local spaces.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21199'
+maker_image_file_name: DSC02097-2.jpg
 body_class: lime
 
 ---

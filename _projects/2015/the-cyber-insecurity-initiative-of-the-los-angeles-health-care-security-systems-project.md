@@ -119,6 +119,8 @@ How do you plan to scale the success of your proposal?: >-
   out-patients. The pilot survey we will work with is at
   https://www.surveymonkey.com/r/healthcybersecurity.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
+youtube_video_identifier: NNetdspYB4M
 body_class: blueberry
 
 ---

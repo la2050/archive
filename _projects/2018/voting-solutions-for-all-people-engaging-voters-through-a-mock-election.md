@@ -50,7 +50,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018073'
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/los-angeles-county-registrar-recorder-county-clerk.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-county-registrar-recorder-county-clerk.jpg
 project_video: 'https://youtu.be/Z8m9oU7eBqc'
 body_class: tangerine
 

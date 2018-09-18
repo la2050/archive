@@ -148,6 +148,10 @@ How do you plan to scale the success of your proposal?: >-
    - Event audience increases to 268,000 (baseline: 212,970)
    - Internship opportunities increase to 50 (baseline: 25)
 year_submitted: 2015
+maker_image_id: '24006'
+maker_image_file_name: CWA_SMC_KCRW_121010.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24006%252Fdisplay%252FCWA_SMC_KCRW_121010.jpg=c570x385
 body_class: banana
 
 ---

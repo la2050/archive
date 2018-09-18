@@ -41,7 +41,7 @@ make_la_great: >-
 category: live
 organization_id: '2018037'
 project_image: >-
-  https://activation.la2050.org/live/environment-california-research-policy-center/environment-california-research-policy-center.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
 project_video: '0'
 body_class: lime
 

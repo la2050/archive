@@ -161,6 +161,10 @@ How do you plan to scale the success of your proposal?: >-
     
    -Publication of the research results in a variety of fora.
 year_submitted: 2015
+maker_image_id: '23806'
+maker_image_file_name: USE_THIS_ONE.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23806%252Fdisplay%252FUSE_THIS_ONE.jpg=c570x385
 body_class: strawberry
 
 ---

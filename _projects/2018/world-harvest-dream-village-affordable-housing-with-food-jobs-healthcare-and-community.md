@@ -43,7 +43,7 @@ make_la_great: >-
 category: live
 organization_id: '2018139'
 project_image: >-
-  https://activation.la2050.org/live/world-harvest-charities-family-services/world-harvest-charities-family-services.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/world-harvest-charities-family-services.jpg
 project_video: 'https://youtu.be/Jtc3hudRjRA'
 body_class: lime
 

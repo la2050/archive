@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2016148'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/_PVTw0r1Njg/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -69,6 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Having the opportunity for EVALUATION within the schools and classrooms is another key factor to determine the success of the collaboration. We will collect as many surveys and information as possible from the children and the teachers after their "book raisers."
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: _PVTw0r1Njg
 body_class: blueberry
 
 ---

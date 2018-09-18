@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014013'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
+project_image: 'http://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -103,6 +103,7 @@ Whom will your project benefit? Please be specific.: >-
    
    When funding is secured all collaborators will be confirmed.
 empty_column_1: ''
+youtube_video_identifier: I-2fvjBviRI
 body_class: tangerine
 
 ---

@@ -96,6 +96,10 @@ How do you plan to scale the success of your proposal?: >-
   election, will give us some idea of how well we have succeeded. We will
   evaluate this feedback in framing how to proceed in future election cycles.
 year_submitted: 2015
+maker_image_id: '23344'
+maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23344%252Fdisplay%252FArtWalk_Final_Full_Color_logo.jpg=c570x385
 body_class: blueberry
 
 ---

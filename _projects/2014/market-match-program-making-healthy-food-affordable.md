@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2015197'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22352%252Fdisplay%252FMarket_Match_Booth_Adams.Vermont_1.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -92,6 +93,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Red-E (cyber consulting firm)
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '22352'
+maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 body_class: lime
 
 ---

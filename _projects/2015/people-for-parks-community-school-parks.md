@@ -145,6 +145,8 @@ How do you plan to scale the success of your proposal?: >-
    o Civic Engagement: Engaging parents, teachers and stakeholders to elevate community voice in Community School Park formation/maintenance. Organizing participation in key neighborhood, city and district policy meetings. 
    o Fundraising:Training and assistance for community members seeking funds for ongoing park activity. Includes assistance requesting funds from the county, city and neighborhood councils.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/3nATZG2br34/maxresdefault.jpg'
+youtube_video_identifier: 3nATZG2br34
 body_class: strawberry
 
 ---

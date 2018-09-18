@@ -98,6 +98,8 @@ How do you plan to scale the success of your proposal?: >-
   would be to educate people about the importance of the concepts proposed by
   ATP & to network with likeminded individuals.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
+youtube_video_identifier: _D5ZYrmwF6Y
 body_class: strawberry
 
 ---

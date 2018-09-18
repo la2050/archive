@@ -64,6 +64,10 @@ How do you plan to scale the success of your proposal?: >-
   continue growing these patchwork peri-freeway spaces throughout Los Angeles
   county.
 year_submitted: 2015
+maker_image_id: '24023'
+maker_image_file_name: LA2050_Freeway_Growth.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24023%252Fdisplay%252FLA2050_Freeway_Growth.jpg=c570x385
 body_class: banana
 
 ---

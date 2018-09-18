@@ -22,7 +22,7 @@ make_la_great: >-
    In addition, it will reduce the number of parking tickets issued to people throughout the city. This has the potential to make residents and commuters happier in their daily lives, and allow tourists and visitors to enjoy their visit in the city to a greater capacity. Time not spent looking for parking is time spent in local stores, restaurants and businesses. These effects have positive economic implications, but will also benefit the city of Los Angeles beyond monetary reasons. Our app's image recognition and text analysis will make life easier for non english speakers so they can park, knowing they will not suffer the burden of a ticket. Simply stated, it will make the notorious parking problems rampant throughout the city more manageable, thereby making the city a happier and more productive place to live.
 category: learn
 organization_id: '2018091'
-project_image: 'https://activation.la2050.org/live/notow/notow.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
 project_video: 'https://youtu.be/Vz9f3nvm5-Y'
 body_class: blueberry
 

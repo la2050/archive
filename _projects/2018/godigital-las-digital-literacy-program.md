@@ -42,7 +42,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018025'
 project_image: >-
-  https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/city-of-los-angeles-information-technology-agency.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/city-of-los-angeles-information-technology-agency.jpg
 project_video: 'https://youtu.be/5eE1kF4xL2U'
 body_class: blueberry
 

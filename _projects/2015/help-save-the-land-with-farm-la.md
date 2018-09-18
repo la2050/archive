@@ -110,6 +110,10 @@ How do you plan to scale the success of your proposal?: >-
    
    Though Farm LA is still young, we have the applicable skills to champion our mission. We have no problem taking on leadership roles or getting our hands dirty. We have a commitment to our dream, the passion to expand and serve new sites in the future.
 year_submitted: 2015
+maker_image_id: '23612'
+maker_image_file_name: 2050_Lg.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23612%252Fdisplay%252F2050_Lg.jpg=c570x385
 body_class: strawberry
 
 ---

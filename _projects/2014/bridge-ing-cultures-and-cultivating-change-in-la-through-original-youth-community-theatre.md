@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2014012'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
+project_image: 'http://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -83,6 +83,7 @@ Whom will your project benefit? Please be specific.: >-
    2. A strong passion for working with underserved youth.
    3. A shared vision in shaping a positive future for all communities in Los Angeles.
 empty_column_1: ''
+youtube_video_identifier: q9wQFn0hPbk
 body_class: tangerine
 
 ---

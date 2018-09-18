@@ -39,7 +39,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018024'
 project_image: >-
-  https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/city-impact-lab-powered-by-stratiscope.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
 project_video: '0'
 body_class: tangerine
 

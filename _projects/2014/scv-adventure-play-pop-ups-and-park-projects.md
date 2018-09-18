@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2015176'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/scvadventureplay.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21829%252Fdisplay%252FIMG_9755_edit.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -74,6 +75,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Future possible collaborators include Santa Clarita Valley International (K-12 tuition-free public charter school), Val Verde YAL program, Parks and Recreation, Local Fire Fighters, Boy and Girl Scout troupes, Home school groups, PTAs, CalArts, CalArts Community Arts Partnership, College of the Canyons, Albert Einstein Academy, local K-12 schools, Adult Education Programs, Other Community arts programs, Holistic Mom’s Chapters, Arbor Day Nature Explore Program, Community Gardens of Santa Clarita, The Alliance for Childhood, and IPA International Play Association
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21829'
+maker_image_file_name: IMG_9755_edit.jpg
 body_class: strawberry
 
 ---

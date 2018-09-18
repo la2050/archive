@@ -132,6 +132,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Meetings between Jumpstart’s program leadership, our partner preschools and partner universities, and prospective new partners occur on an on-going basis. The conditions for success and program goals for Jumpstart’s 2015-16 program year have already been determined. Thanks to the efforts of our site managers at California State University, Dominguez Hills; California State University, Los Angeles; and the Los Angeles Community Corps, recruitment and training of Corps members have already begun, and Jumpstart is currently taking measurable steps toward program expansion in the South LA and East LA regions.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
+youtube_video_identifier: a-3Yo_Yz5Vc
 body_class: strawberry
 
 ---

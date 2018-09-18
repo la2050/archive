@@ -46,7 +46,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018022'
 project_image: >-
-  https://activation.la2050.org/connect/citizens-of-culture/citizens-of-culture.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/citizens-of-culture.jpg
 project_video: 'https://vimeo.com/250192634'
 body_class: tangerine
 

@@ -39,7 +39,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018015'
 project_image: >-
-  https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/center-for-council-a-project-of-community-partners.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/center-for-council-a-project-of-community-partners.jpg
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
 body_class: tangerine
 

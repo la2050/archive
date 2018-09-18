@@ -30,7 +30,7 @@ make_la_great: >-
    We’ve learned how as we grow older adults lose touch of their childlike-wonder; becoming hardened and jaded by the ways of the world. As guides, we reconnect adults back to themselves by providing respites from the hustle of life and opportunities to engage in fulfilling enrichment. We are seeing our adult participants growing in their capacity to see themselves as agents of change, and finding immense emotional support in our uninhibited spaces of self-reflection and sharing. We utilize the power of paying-it-forward and the fun within our community-building programming to draw more adults into this social and emotional support system.
 category: connect
 organization_id: '2018036'
-project_image: 'https://activation.la2050.org/connect/eayikes/eayikes.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/eayikes.jpg'
 project_video: 'https://youtu.be/PtA8wOP6XuM'
 body_class: tangerine
 

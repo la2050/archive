@@ -138,6 +138,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Finally, back to the “Artist Run Space,” we hope that in five years time, Dreamhaus will be a point of reference for corporations to connect with artists. Funding from this grant challenge will allow us to work towards a better Los Angeles as a place to create, connect and live.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
+youtube_video_identifier: yy9nnTHABlE
 body_class: blueberry
 
 ---

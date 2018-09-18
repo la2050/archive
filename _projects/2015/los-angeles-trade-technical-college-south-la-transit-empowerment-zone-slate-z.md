@@ -122,6 +122,10 @@ How do you plan to scale the success of your proposal?: >-
   and grants. SLATE-Z is seeking the designation of the South LA Region as a HUD
   Promise Zone, which will increase opportunities for funding and parntership.
 year_submitted: 2015
+maker_image_id: '24040'
+maker_image_file_name: connect_SLATEZsigners.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24040%252Fdisplay%252Fconnect_SLATEZsigners.jpg=c570x385
 body_class: blueberry
 
 ---

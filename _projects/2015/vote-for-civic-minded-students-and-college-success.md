@@ -129,6 +129,10 @@ How do you plan to scale the success of your proposal?: >-
    
    JSA currently reaches 10,000 students across the country, but Alliance-type partnerships offer an opportunity to dramatically increase this number.
 year_submitted: 2015
+maker_image_id: '23346'
+maker_image_file_name: 73168.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23346%252Fdisplay%252F73168.jpg=c570x385
 body_class: blueberry
 
 ---

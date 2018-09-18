@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014143'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21609%252Fdisplay%252FFutureBoundKids_w_Logo.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -79,6 +80,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    FutureBound has existing relationships and has worked with the following organizations: Los Angeles Unified School District; Southern California College Access Network; USC Pullias Center for Higher Education; and USC Game Innovation Lab. Potential partners include: Inglewood Unified School District; Santa Monica-Malibu Unified School District; Culver City Unified School District; TRIO & Upward Bound Program participants; Los Angeles Boys & Girls Club; LA's BEST After School Enrichment Program; and MESA Programs.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '21609'
+maker_image_file_name: FutureBoundKids_w_Logo.jpg
 body_class: blueberry
 
 ---

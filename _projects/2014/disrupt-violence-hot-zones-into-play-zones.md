@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014003'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
+project_image: 'http://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -93,6 +93,7 @@ Whom will your project benefit? Please be specific.: >-
    Our long history of working together
    Both organizations’ shared understanding of the needs of high-violence communities
 empty_column_1: '1'
+youtube_video_identifier: nt_fnRYCyhI
 body_class: strawberry
 
 ---

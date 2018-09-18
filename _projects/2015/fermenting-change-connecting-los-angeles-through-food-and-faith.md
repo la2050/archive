@@ -151,6 +151,8 @@ How do you plan to scale the success of your proposal?: >-
    
    The Fermenting Change agenda that we plan to implement in 2016 will be the beginning of a replicable and sustainable program to engage citizens of our diverse community. From the success and lessons of 2016, we can not only host more Fermenting Change events, but inspire and train more and more participants to do meaningful volunteer work and engage in social action. We believe that with Fermenting Change we can lay the groundwork for activism that connects people across religious boundaries, cultural barriers, social class, and geography.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg'
+youtube_video_identifier: z7nrpaONjUI
 body_class: lime
 
 ---

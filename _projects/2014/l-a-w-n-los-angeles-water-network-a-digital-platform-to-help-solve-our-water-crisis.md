@@ -9,7 +9,7 @@ project_summary: >-
 category: live
 organization_id: '2014176'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/2qWrLJakj5M/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -77,6 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    It should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: 2qWrLJakj5M
 body_class: lime
 
 ---

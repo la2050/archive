@@ -9,7 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2015133'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22607%252Fdisplay%252FGroup_pix.JPG=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -94,6 +95,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    MAPS - This grant will leverage us into a different platform to demonstrate that we, in fact, have the most innovative, result-oriented school-to-college-to-work pipeline. If the results are equivalent to our previous program outcomes, our process-oriented, training approach will establish itself as a replicable model.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '22607'
+maker_image_file_name: Group_pix.JPG
 body_class: blueberry
 
 ---

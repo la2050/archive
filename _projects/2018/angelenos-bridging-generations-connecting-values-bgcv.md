@@ -47,7 +47,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018010'
 project_image: >-
-  https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/boys-girls-clubs-of-venice-bgcv.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/boys-girls-clubs-of-venice-bgcv.jpg
 project_video: 'https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be'
 body_class: tangerine
 

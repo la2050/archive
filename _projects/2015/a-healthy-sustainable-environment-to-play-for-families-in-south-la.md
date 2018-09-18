@@ -150,6 +150,8 @@ How do you plan to scale the success of your proposal?: |-
    Increased number of partnerships
    Increased number at events
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/USaJI1-Ab8E/maxresdefault.jpg'
+youtube_video_identifier: USaJI1-Ab8E
 body_class: strawberry
 
 ---

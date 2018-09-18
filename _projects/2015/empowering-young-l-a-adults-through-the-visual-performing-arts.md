@@ -100,6 +100,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Furthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg'
+youtube_video_identifier: '-_7F7nxyZ1Y'
 body_class: strawberry
 
 ---

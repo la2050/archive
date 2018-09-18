@@ -149,6 +149,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Our goal is to fertilize a broader movement aimed at shifting the dialogue from “getting back to normal” to how we, both individually and collectively, can use loss as a springboard to living better, more resilient, more open-hearted lives.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
+youtube_video_identifier: YijVi1ZG5EM
 body_class: strawberry
 
 ---

@@ -99,6 +99,10 @@ How do you plan to scale the success of your proposal?: >-
    
    Should the city accept our proposal before our entire budget is spent, the remainder of the funds will go towards increasing enthusiasm and support for the new, redesigned LA flag!
 year_submitted: 2015
+maker_image_id: '23596'
+maker_image_file_name: Sky_Pic.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23596%252Fdisplay%252FSky_Pic.png=c570x385
 body_class: strawberry
 
 ---

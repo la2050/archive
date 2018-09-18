@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014015'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22565%252Fdisplay%252FProposed_Space_for_Venice_Arts_Commons.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -91,6 +92,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    SPARC is dedicated to using public art to address contemporary issues and questions of social memory. It shares the grounds of the Old Venice City Hall with Beyond Baroque and its arts programming is an essential component of the proposed Arts Commons. SPARC has committed to the design plan created by Rios Clementi Hale.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22565'
+maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
 body_class: strawberry
 
 ---

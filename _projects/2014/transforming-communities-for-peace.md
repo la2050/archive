@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014109'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/peace.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22532%252Fdisplay%252FWP1_Logo_new.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -92,6 +93,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
     3. Designing for the future so that projects build on each other and create designs, models, and practices that will make each project part of a larger whole
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '22532'
+maker_image_file_name: WP1_Logo_new.jpg
 body_class: banana
 
 ---

@@ -40,7 +40,8 @@ make_la_great: >-
    Our project begins by bringing committed partner organizations together into two regional community focus groups (South Bay/South LA and Antelope Valley), where we will learn more about their specific challenges and strengths. Based on this information, we will develop and deliver 30 compassion fatigue and resilience-building workshops using a curriculum based on The Resilience Toolkit, a holistic evidence-informed practice and process with a demonstrated track record in the LA area. Trauma-informed and culturally competent perspectives will be woven into the entire program. We will certify 24 key community partner representatives and provide technical assistance to organizations to develop ongoing programming for staff and volunteers. As the organizations’ worker capacity and internal resources increase, we will mentor them in establishing similar programming for their clients, students, or members. We will conduct a comprehensive program evaluation. The program will culminate in a series of regional convenings of partner organizations, other community stakeholders, and funders to discuss how the outcomes of the program can leverage their increased personal/organizational resilience to the community level.
 category: live
 organization_id: '2018078'
-project_image: 'https://activation.la2050.org/live/lumos-transforms/lumos-transforms.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
 project_video: '0'
 body_class: lime
 

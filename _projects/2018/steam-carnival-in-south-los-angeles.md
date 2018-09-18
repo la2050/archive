@@ -28,7 +28,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018128'
 project_image: >-
-  https://activation.la2050.org/learn/two-bit-circus-foundation/two-bit-circus-foundation.jpg
+  https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
 project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
 body_class: tangerine
 

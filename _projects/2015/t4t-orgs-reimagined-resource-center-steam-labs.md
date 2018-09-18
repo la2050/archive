@@ -96,6 +96,8 @@ How do you plan to scale the success of your proposal?: >-
   guidebook for any other community that is interested in starting a T4T.org
   style traveling Makers Space using ReImagined Resources from their community.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/1GUzOIci_7Q/maxresdefault.jpg'
+youtube_video_identifier: 1GUzOIci_7Q
 body_class: blueberry
 
 ---

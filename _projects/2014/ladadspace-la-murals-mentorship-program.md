@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014055'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
+project_image: 'http://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -85,6 +85,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Department of Cultural Affairs- The Department of Cultural Affairs was authorized by the City Council to establish and run a City-wide mural program in Oct 2013. As such, we will work with DCA to identify resources, including use of available fiscal year 2014/15 City funding for the creation of new murals, in order to further fund the program. We will work with DCA to apply for Mural disposition plan funding, which provides $20K per City Council District for the creation of new murals. DCA will work with us through DCA's role in administering the City's mural program.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: cVrWTvw8gFc
 body_class: banana
 
 ---

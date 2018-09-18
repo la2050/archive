@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2016064'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/U6P_iHfyivY/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -73,6 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Once a year, DIGDEEP opens the 4Liter Challenge to the public, uniting organizations like Take Part, One.org, Hurley H2O, and teams from major corporations, faith communities, and college campuses. All of these partners are confirmed, and their participation provides national exposure to new teachers.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: U6P_iHfyivY
 body_class: blueberry
 
 ---

@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2016223'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20485%252Fdisplay%252F2Barbara_with_kids.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -85,6 +86,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    “The book is a perfect fit to our literacy program,” reports CHLA & others.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '20485'
+maker_image_file_name: 2Barbara_with_kids.jpg
 body_class: blueberry
 
 ---

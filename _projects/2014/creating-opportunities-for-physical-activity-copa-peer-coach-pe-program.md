@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2015161'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -72,6 +72,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    These partnerships are long-standing and contribute to the success of our residential program. Three critical factors that have help ensure our successful collaboration is open communication on project status through reports and meetings, effective partnership agreements and mutual support on projects.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: S_0nE1f2B1w
 body_class: lime
 
 ---

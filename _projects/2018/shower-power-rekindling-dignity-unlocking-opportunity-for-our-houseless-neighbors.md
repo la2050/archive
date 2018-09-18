@@ -61,7 +61,7 @@ make_la_great: >-
    The Power of a Shower. Did you shower today? If you’re living on the streets, you probably didn’t. Lava Mae delivers mobile showers to help people experiencing homelessness rekindle dignity and maintain hygiene so they can seek employment and housing. If you can take a shower, you can help give a shower to a neighbor in need. Visit lavamae.org and learn how you can give a shower and the dignity + opportunity that come with being clean.
 category: connect
 organization_id: '2018066'
-project_image: 'https://activation.la2050.org/connect/lava-mae/lava-mae.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/lava-mae.jpg'
 project_video: 'https://www.youtube.com/watch?v=Uxp2LencnXs'
 body_class: tangerine
 

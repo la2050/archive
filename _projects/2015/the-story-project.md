@@ -102,6 +102,8 @@ How do you plan to scale the success of your proposal?: >-
   that will document our successes through the years in curbing violence and
   adding value to the quality of life in these challenged communities.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg'
+youtube_video_identifier: BnbLK2sxsXI
 body_class: blueberry
 
 ---

@@ -143,6 +143,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Food scraps will continue to exist and because of how much we produce, some of it will often find its way in a landfill. Unless we change the way we look at it (how we now view glass, plastic, and aluminum as a reusable product) it will be hard to create long lasting change. Through educating individuals within their community and providing options for them to be part of this change, we believe our hubs have the potential to change the issue we have with waste both now, and through 2050.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/oPkjhNbvFTw/maxresdefault.jpg'
+youtube_video_identifier: oPkjhNbvFTw
 body_class: strawberry
 
 ---

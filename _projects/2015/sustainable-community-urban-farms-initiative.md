@@ -96,6 +96,10 @@ How do you plan to scale the success of your proposal?: >-
   farms. Finally, other cities have also expressed interest in our pilot program
   and are looking to collaborate and build on our program.
 year_submitted: 2015
+maker_image_id: '23569'
+maker_image_file_name: towergarden.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23569%252Fdisplay%252Ftowergarden.jpg=c570x385
 body_class: blueberry
 
 ---

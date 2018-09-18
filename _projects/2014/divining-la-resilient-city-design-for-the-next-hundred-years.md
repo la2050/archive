@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014197'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22512%252Fdisplay%252FBoom_Map_300dpi_1200px_wide.jpeg=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -62,6 +63,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    If we can demonstrate the effectiveness of this strategy working with WRC, this could be expanded to the other Regional Centers across LA County that together serve tens of thousands of individuals with developmental disabilities.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '22512'
+maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
 body_class: lime
 
 ---

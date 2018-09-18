@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2018019'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22826%252Fdisplay%252FProKid.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -85,6 +86,8 @@ Whom will your project benefit? Please be specific.: >-
    
    Each of these members brings added benefit to the project. This project is all about connecting the diverse support that already exists for kids in LA. Every new member that joins helps further the goal of making LA the most connected place for kids in the country.
 empty_column_1: ''
+maker_image_id: '22826'
+maker_image_file_name: ProKid.jpg
 body_class: tangerine
 
 ---

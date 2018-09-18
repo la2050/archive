@@ -30,7 +30,7 @@ make_la_great: >-
   of Los Angeles, representing the diversity and musical talent of LA.
 category: learn
 organization_id: '2018042'
-project_image: 'https://activation.la2050.org/learn/future-america/future-america.jpg'
+project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/future-america.jpg'
 project_video: 'https://youtu.be/bbNl_ikc93g'
 body_class: blueberry
 

@@ -5,7 +5,7 @@ project_summary: '1'
 category: connect
 organization_id: '2018034'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/All_LA_online_faster.html'
+project_image: 'http://img.youtube.com/vi/f1NWhlN60zE/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -73,6 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Data Roads Foundation is already partnering with several open source and mesh hardware projects like Internet-In-A-Box.org, Commotion Wireless, Freedom Stack, Freedom Box, Open Telco, Guardian Project, Calyx Institute, and several open source mesh routing software projects. We are currently negotiating collaborations with several California based network hardware and maintenance service vendors. Anything that proprietary vendors refuse to provide can be created by and for ourselves, by using open technologies in our own communities.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: f1NWhlN60zE
 body_class: tangerine
 
 ---

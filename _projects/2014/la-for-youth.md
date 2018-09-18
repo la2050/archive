@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014105'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20605%252Fdisplay%252FRallyinLA.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -76,6 +77,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    It is important to note that engaging these additional coalitions would represent longstanding partnerships, and organizations with a history of working together for systems change.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20605'
+maker_image_file_name: RallyinLA.jpg
 body_class: strawberry
 
 ---

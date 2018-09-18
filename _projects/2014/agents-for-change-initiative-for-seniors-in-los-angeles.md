@@ -5,7 +5,8 @@ project_summary: '0'
 category: connect
 organization_id: '2014085'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -65,6 +66,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   policy issues impacting the lives of older adult residents of Los Angeles.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20167'
+maker_image_file_name: _DSC5884.JPG
 body_class: tangerine
 
 ---

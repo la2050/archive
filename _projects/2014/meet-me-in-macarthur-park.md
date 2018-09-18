@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2015127'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
+project_image: 'http://img.youtube.com/vi/SrPeAWx2AMM/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -89,6 +89,7 @@ Whom will your project benefit? Please be specific.: >-
   unite various efforts and turn MacArthur Park into a real resource that spurs
   local and city-wide opportunities for connection.
 empty_column_1: ''
+youtube_video_identifier: SrPeAWx2AMM
 body_class: tangerine
 
 ---

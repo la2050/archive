@@ -93,6 +93,10 @@ How do you plan to scale the success of your proposal?: >-
    
    As this succeeds we will reach out to more neighborhoods and cities, building up the participation to entire states, and of course the national government. Later, the world.
 year_submitted: 2015
+maker_image_id: '23482'
+maker_image_file_name: Synergize_LA.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23482%252Fdisplay%252FSynergize_LA.png=c570x385
 body_class: banana
 
 ---

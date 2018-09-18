@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2018058'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/UnlocktheBlock.html'
+project_image: 'http://img.youtube.com/vi/B8tTn7kwSIk/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -90,6 +90,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Jubilee Consortium brings an expertise in designing active programming for all ages in non-traditional venues throughout Los Angeles. Jubilee Consortium has offered low-cost physical fitness and nutrition programs in underserved neighborhoods since its founding in 2001. For the past two years, Jubilee Consortium has trained community members to become Health Advocates for their communities as part of the United for Health collaborative led by CHC. The Jubilee Consortium creates healthy and just neighborhoods through enrichment opportunities and leadership programs centered on healthy lifestyles.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: B8tTn7kwSIk
 body_class: strawberry
 
 ---

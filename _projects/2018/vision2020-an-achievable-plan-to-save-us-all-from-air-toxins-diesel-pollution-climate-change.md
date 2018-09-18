@@ -57,7 +57,7 @@ make_la_great: >-
 category: live
 organization_id: '2018084'
 project_image: >-
-  https://activation.la2050.org/live/move-la-a-project-of-community-partners/move-la-a-project-of-community-partners.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/move-la-a-project-of-community-partners.jpg
 project_video: 'https://youtu.be/4JnqpY0nP4s'
 body_class: lime
 

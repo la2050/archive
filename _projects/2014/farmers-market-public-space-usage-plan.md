@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014036'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22050%252Fdisplay%252Fimagxxe.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -62,6 +63,8 @@ Whom will your project benefit? Please be specific.: >-
    
    We will seek support for local government officials, local businesses, artist and other local stakeholders to create a collaborative effort.
 empty_column_1: ''
+maker_image_id: '22050'
+maker_image_file_name: imagxxe.jpg
 body_class: tangerine
 
 ---

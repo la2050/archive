@@ -102,6 +102,10 @@ How do you plan to scale the success of your proposal?: >-
   Finally, we may seek additional grant funding to support further development
   and deployment of the wage theft prediction tool.
 year_submitted: 2015
+maker_image_id: '23889'
+maker_image_file_name: 12000148473_482ef012b5_k.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23889%252Fdisplay%252F12000148473_482ef012b5_k.jpg=c570x385
 body_class: strawberry
 
 ---

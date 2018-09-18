@@ -39,7 +39,7 @@ make_la_great: >-
 category: live
 organization_id: '2018140'
 project_image: >-
-  https://activation.la2050.org/connect/youth-policy-institute/youth-policy-institute.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
 project_video: 'https://youtu.be/__37Jfcwzr8'
 body_class: lime
 

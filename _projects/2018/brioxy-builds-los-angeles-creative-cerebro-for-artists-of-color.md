@@ -38,7 +38,7 @@ make_la_great: >-
    These bootcamps are 4-day immersives that deliver the core tools and skills needed to run a nonprofit or startup business. Our Cerebro Pipeline centers wellness and self care—balancing that with hard skills like fundraising and financial management. We invite thought leaders and successful innovators to join each cohort for talks, meals and community as these local creatives map out how to grow their leadership and take LA’s creative industry to the next level.
 category: create
 organization_id: '2018011'
-project_image: 'https://activation.la2050.org/create/brioxy/brioxy.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg'
 project_video: 'https://www.youtube.com/watch?v=AC3S73SvRy0'
 body_class: banana
 

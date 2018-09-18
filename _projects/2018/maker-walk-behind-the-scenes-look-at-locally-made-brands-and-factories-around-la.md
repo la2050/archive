@@ -44,7 +44,7 @@ make_la_great: >-
    We anticipate repeating our Arts District Maker Walk in October 2018, and ramping up to a total of 18 events in the grant period. We expect to grow by 10% each month and attract more than 2,500 attendees per event by the second year, for a total of 25,000 attendees to date.
 category: create
 organization_id: '2018079'
-project_image: 'https://activation.la2050.org/create/make-it-in-la/make-it-in-la.jpg'
+project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/make-it-in-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
 body_class: banana
 

@@ -9,7 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2014208'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20755%252Fdisplay%252FThe_Prep_Source_Resume_Workshop.png=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -77,6 +78,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    LA Unified School District (preliminary discussions)
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '20755'
+maker_image_file_name: The_Prep_Source_Resume_Workshop.png
 body_class: blueberry
 
 ---

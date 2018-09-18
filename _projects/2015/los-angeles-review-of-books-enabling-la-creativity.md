@@ -167,6 +167,8 @@ How do you plan to scale the success of your proposal?: >-
   place to create helps the world become a better place, and that is why,
   finally, we do what we do.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/dZQ4_RgpSno/maxresdefault.jpg'
+youtube_video_identifier: dZQ4_RgpSno
 body_class: blueberry
 
 ---

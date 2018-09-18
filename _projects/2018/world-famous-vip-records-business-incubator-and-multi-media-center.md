@@ -108,7 +108,7 @@ make_la_great: >-
 category: live
 organization_id: '2018138'
 project_image: >-
-  https://activation.la2050.org/create/world-famous-vip-records-llc/world-famous-vip-records-llc.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
 project_video: '0'
 body_class: lime
 

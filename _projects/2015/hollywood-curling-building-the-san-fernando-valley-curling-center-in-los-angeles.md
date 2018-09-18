@@ -159,6 +159,8 @@ How do you plan to scale the success of your proposal?: |-
    
    With your generous assistance will reach our goal of offering the game of curling to the local community, foster the social and competitive spirit of curling, and teach and develop curlers to compete at a local and national level. This grant opportunity comes at a crucial time in our fundraising campaigns and will ensure the growth of the organization and sport of curling in Los Angeles.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg'
+youtube_video_identifier: 3ceZFpvVVU0
 body_class: blueberry
 
 ---

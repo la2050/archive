@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2014201'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -80,6 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Critical to the success of these collaborations is open communication between dance program and school staff, mutual commitment to the project and a shared belief in the importance of arts education to academic success.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: TlilAMszJEs
 body_class: blueberry
 
 ---

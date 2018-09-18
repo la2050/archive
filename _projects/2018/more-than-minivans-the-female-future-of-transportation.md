@@ -68,7 +68,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018055'
 project_image: >-
-  https://activation.la2050.org/connect/investing-in-place/investing-in-place.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
 body_class: tangerine
 

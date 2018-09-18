@@ -38,7 +38,7 @@ make_la_great: >-
    The purchase of staging equipment and audience seating will also enable Red Hen Press to host its own events. Currently, the press primarily programs literary events at arts venues, museums, art galleries, and theaters throughout Los Angeles, and such events often incur space rental costs. By programming literary events at our own performance space, the press will eliminate venue rental costs, allowing for free entry for audience members and higher honoraria for performing artists. Support for this project will also support Red Hen’s efforts to increase attendance from low-income populations by providing free tickets to students, their families, and faculty at Title I schools in Los Angeles.
 category: create
 organization_id: '2018101'
-project_image: 'https://activation.la2050.org/play/red-hen-press/red-hen-press.jpg'
+project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
 project_video: '0'
 body_class: banana
 

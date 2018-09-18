@@ -65,7 +65,7 @@ make_la_great: >-
    This activation will deliver more and deeper SOCIAL MEDIA CONNECTIONS among residents by providing new ways for them to participate together in activities of common interest, thus promoting direct residents-2-residents discovery.
 category: create
 organization_id: '2018102'
-project_image: 'https://activation.la2050.org/connect/regional-la/regional-la.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
 body_class: banana
 

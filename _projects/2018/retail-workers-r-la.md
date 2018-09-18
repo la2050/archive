@@ -40,7 +40,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018072'
 project_image: >-
-  https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-alliance-for-a-new-economy-fair-workweek.jpg
 project_video: 'https://youtu.be/7GHqVKrYCjM'
 body_class: tangerine
 

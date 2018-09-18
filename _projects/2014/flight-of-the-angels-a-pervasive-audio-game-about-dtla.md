@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014073'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
+project_image: 'http://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -65,6 +65,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three critical success factors: communication, participation, and balancing of interests. The game needs to be fun, we want it to be informative, and it should have the right mix. We’re pretty sure the three of us work well together – it’s all about balancing what we each bring to the table.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: NtMAZqR4Tf4
 body_class: strawberry
 
 ---

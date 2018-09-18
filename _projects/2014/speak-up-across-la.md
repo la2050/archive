@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014111'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
+project_image: 'http://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -95,6 +95,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Once funded we will also partner with civic leaders in our target communities along with local neighborhood councils and the elected council members in that district. We know that by partnering with elected leaders in local, city and state levels we can create conversations both at the community and policy levels to really affect change and give an avenue for the students solutions and voice.
 empty_column_1: ''
+youtube_video_identifier: poREvQfFFL4
 body_class: tangerine
 
 ---

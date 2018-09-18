@@ -89,6 +89,10 @@ How do you plan to scale the success of your proposal?: >-
   We will scale up the initiative as we raise funds to provide additional
   transportation grants.
 year_submitted: 2015
+maker_image_id: '23519'
+maker_image_file_name: EKIPkidswithwalkingsticks.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23519%252Fdisplay%252FEKIPkidswithwalkingsticks.png=c570x385
 body_class: blueberry
 
 ---

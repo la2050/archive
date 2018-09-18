@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2016161'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20921%252Fdisplay%252FResilience-3_02.jpg=c570x385
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -68,6 +69,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three main factors which are critical to our success are leadership, communication and teamwork. The Nature Parkway’s project manager will help make it possible to extend urban trails because of her leadership ability to pay attention to detail without undermining the biggest asset which are the partners and residents. She will help us get the right team members to the decision making table. Communication will be key, since no formal group already exists to carry on the work. Continuous communication will help keep all informed in the project’s process. Lastly teamwork is necessary to understand what is going well and what needs to be ameliorated. Volunteers including experts who donate services will be engaged by the opportunity to self-identify their role and execute the right action leading towards the main goal.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20921'
+maker_image_file_name: Resilience-3_02.jpg
 body_class: lime
 
 ---

@@ -33,7 +33,7 @@ make_la_great: >-
 category: live
 organization_id: '2018089'
 project_image: >-
-  https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/neighborhood-housing-services-of-los-angeles-county.jpg
+  https://activation.la2050.org/assets/images/live/2048-wide/neighborhood-housing-services-of-los-angeles-county.jpg
 project_video: 'https://youtu.be/W_HksfcqY6U'
 body_class: lime
 

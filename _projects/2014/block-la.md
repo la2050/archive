@@ -5,7 +5,7 @@ project_summary: '1'
 category: live
 organization_id: '2014165'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ZVtljIILth8/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -74,6 +74,7 @@ What will you do to implement this idea/project?: >-
 How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: ZVtljIILth8
 body_class: lime
 
 ---

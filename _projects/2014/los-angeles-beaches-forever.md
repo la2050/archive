@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014191'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -77,6 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) Commitment/Leadership: The success of the collaboration is also dependent on the full commitment to the project by both main collaborators. To highlight each other’s commitment, both parties have drafted an MoU to better frame the goals and timeline of the initiative. In addition, SCI-Arc has appointed faculty member Darin Johnstone as the project coordinator and lead. A practicing LA architect, Darin is also the director of DID, SCI-Arc's introduction to design program for high school students.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: fAQOxqwuIHk
 body_class: lime
 
 ---

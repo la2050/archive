@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014058'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
+project_image: 'http://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -75,6 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Dogtown Media- Marc Fischer, CEO, local mobile app developer and professor at Santa Monica college will be contracted to build the selected app projects.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: Vv698CCwrt4
 body_class: banana
 
 ---

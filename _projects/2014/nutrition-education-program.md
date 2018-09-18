@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014120'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22174%252Fdisplay%252FBeverly_Site_New_Logo_on_Building_2013.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -58,6 +59,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We would also partner with healthy food vendors -- e.g. community-supported agriculture and organic farmers -- to sell their wares alongside our demonstrations. Our demonstrations would likely generate business for these vendors and, in doing so, create a means for low-income neighborhoods to access healthy foods.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22174'
+maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 body_class: lime
 
 ---

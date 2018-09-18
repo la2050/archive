@@ -97,6 +97,8 @@ How do you plan to scale the success of your proposal?: >-
    For the 2017 cycle, we hope to recruit the participants from the 2016 cycle as student ambassadors to help with outreach and support for future teams. 
    We recently launched a platform to involve Technovation Alumnae in scaling the program. SprEdTech, created by Amrita Venkatraman, a Technovation alumnae, is an initiative to encourage girls (grade 6 to grade 12) to develop an early interest in technology. Technovation alumnae are encouraged to become ambassadors through SprEdTech and spread the word about using coding and technology to create innovative products. Ambassadors will recruit and mentor future Technovation teams, lead technology workshops, and much more!
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg'
+youtube_video_identifier: NTnzCDQ335U
 body_class: blueberry
 
 ---

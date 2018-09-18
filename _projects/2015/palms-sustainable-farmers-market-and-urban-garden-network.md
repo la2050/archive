@@ -103,6 +103,8 @@ How do you plan to scale the success of your proposal?: >-
   We will offer programs to all communities to replicate this successful
   program.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
+youtube_video_identifier: g0KxazcQnVA
 body_class: strawberry
 
 ---

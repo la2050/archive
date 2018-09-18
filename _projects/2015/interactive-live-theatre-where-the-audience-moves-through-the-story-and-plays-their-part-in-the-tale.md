@@ -64,6 +64,8 @@ How do you plan to scale the success of your proposal?: >-
   gut in leading this ship for 4 years have done well for us so far....so I'll
   be keeping that up as well!
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
+youtube_video_identifier: wGHuWyQEQIU
 body_class: strawberry
 
 ---

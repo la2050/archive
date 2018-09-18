@@ -157,6 +157,10 @@ How do you plan to scale the success of your proposal?: >-
    
    At the same time, LACP believes it is important to put the Boys & Girls Clubs where we have already made a commitment on a firm financial basis. If we receive the LA2050 grant in 2016, it will not only allow us to launch the program at four clubs across LA County, we believe the recognition will aid our fundraising for these programs in 2017—as well as plan for further expansion.
 year_submitted: 2015
+maker_image_id: '23374'
+maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23374%252Fdisplay%252FJulia_Dean_at_Boyle_Heights_B_B_Club.jpg=c570x385
 body_class: blueberry
 
 ---

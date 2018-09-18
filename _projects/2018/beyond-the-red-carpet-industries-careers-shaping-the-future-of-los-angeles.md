@@ -41,7 +41,8 @@ make_la_great: >-
    Los Angeles is one of the most diverse cities in the world, but the entertainment industry remains a very small, largely white, male “club”. This year offered hope that the industry may have reached a tipping point. With the Grammy’s long overdue recognition of hip hop as the dominant genre in music, and with the critical and box office success of films like The Shape of Water, Get Out, and Black Panther, the hope is that the industry is finally changing to better reflect the diversity of our country and the world at large. The challenge ahead is to build from these successes. Beyond the Red Carpet will highlight writers, directors, producers and other creative talents who are forging new ground so that the entertainment industry continues to nurture and attract the best creative talent from all cultures and walks of life.
 category: create
 organization_id: '2018104'
-project_image: 'https://activation.la2050.org/create/roadtrip-nation/roadtrip-nation.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/roadtrip-nation.jpg
 project_video: 'https://www.youtube.com/watch?v=jT5D2oFUbpQ'
 body_class: banana
 

@@ -40,7 +40,7 @@ make_la_great: >-
    Providing teachers with training and ongoing support throughout the duration of the school year will help them feel more equipped to deal with classroom challenges. It will reduce teachers' stress and burn out, allowing them to provide appropriate and beneficial support for their students. It will also provide teachers with communal language and ways to communicate with their families, creating cohesion between schools and families.
 category: create
 organization_id: '2018105'
-project_image: 'https://activation.la2050.org/live/roots-wings/roots-wings.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
 body_class: banana
 

@@ -98,6 +98,10 @@ How do you plan to scale the success of your proposal?: >-
    
    The ultimate goal of the RCLA campaign would be to have every municipality that prosecutes its own misdemeanors in Los Angeles County to have some sort of RCLA program running, thereby maximizing the number of would-be defendants diverted from the criminal justice system . The inclusive, community-oriented model that RCLA is based on is naturally scaleable as long as there is funding for RCLA case managers. This is the one of the strengths of RCLA program design in response to a dire need: The criminal justice system simply has too many cases in order to be effective. Therefore, the only challenge that exists with regard to scaling is the willingness of prosecutors to try something new.
 year_submitted: 2015
+maker_image_id: '23396'
+maker_image_file_name: ReConnectLA_Logo_02.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23396%252Fdisplay%252FReConnectLA_Logo_02.jpg=c570x385
 body_class: lime
 
 ---

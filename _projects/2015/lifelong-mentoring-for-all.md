@@ -113,6 +113,10 @@ How do you plan to scale the success of your proposal?: |-
    -Draw from the own LA community of student leaders to act as ambassadors to drive growth throughout their own peers also generating organic growth
    -Articles and publications that can be spread through various social media channels
 year_submitted: 2015
+maker_image_id: '23218'
+maker_image_file_name: Cabrillo_High_School_Campus.JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23218%252Fdisplay%252FCabrillo_High_School_Campus.JPG=c570x385
 body_class: blueberry
 
 ---

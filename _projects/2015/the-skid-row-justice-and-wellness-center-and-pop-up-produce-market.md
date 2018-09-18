@@ -140,6 +140,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We know our model for increasing the health of poor communities of color through community education, gardening, healthy food access, and micro-enterprise works. With the help of LA 2050, we can continue to help make LA the healthiest place to live.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/d7u6LPKVtv4/maxresdefault.jpg'
+youtube_video_identifier: d7u6LPKVtv4
 body_class: banana
 
 ---

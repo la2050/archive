@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014093'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/newdigs.html'
+project_image: 'http://img.youtube.com/vi/gzqE0ygfM8Y/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -93,6 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The Museum is also working with a confidential technology partner to bring Wi-Fi service to the park and Museum, free of charge for visitors. This partner is currently working with the Museum, and has for the last two years on several very successful endeavors. With a wealth of fossils lying still undisturbed in the park, it is critical that the best-possible experts work with us to design a connectivity system that keeps the fossils safe while also providing uninterrupted service. A successful partnership would: enable streamlined guest services throughout the park with the aide of wireless connectivity, allow for highly interactive mobile activities to be designed for our indoor and outdoor visitors, provide a way for us to further track crowd flow to better enhance the experience.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: gzqE0ygfM8Y
 body_class: strawberry
 
 ---

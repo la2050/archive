@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2016018'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/R5Y7BiciDestino.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22378%252Fdisplay%252Fr5y7collage.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -77,6 +78,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Max Kanter, Community Builder at Good Eggs LA, Volunteer Coordinator at Food Forward.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22378'
+maker_image_file_name: r5y7collage.jpg
 body_class: banana
 
 ---

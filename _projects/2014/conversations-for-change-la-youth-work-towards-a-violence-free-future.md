@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2016113'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/YouthConversations.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22159%252Fdisplay%252Fkids_group_shot.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -77,6 +78,8 @@ Whom will your project benefit? Please be specific.: >-
    2. Coordinated Community Response Network- A network of organizations who together will ensure access to community resources and provide a victim-centered response to domestic
    violence, teen dating violence, sexual assault, stalking and other youth issues. Our Memorandum of Understanding Partners include: Watts Healthcare Corporation, Green Dot Public Schools Animo (Alain) Leroy Locke High School, South Central Training Consortium, and Los Angeles Police Department/Wilshire Area Leadership Academy.
 empty_column_1: ''
+maker_image_id: '22159'
+maker_image_file_name: kids_group_shot.jpg
 body_class: tangerine
 
 ---

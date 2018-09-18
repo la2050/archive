@@ -178,6 +178,8 @@ How do you plan to scale the success of your proposal?: >-
    * Complete blueprinting of 10 environments from around the world
    * Create optimized environment for sustaining life in space (e.g., for Mars or Moon mission)
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
+youtube_video_identifier: H-S2LiQcO00
 body_class: blueberry
 
 ---

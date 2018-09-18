@@ -38,7 +38,7 @@ make_la_great: >-
 category: create
 organization_id: '2018035'
 project_image: >-
-  https://activation.la2050.org/create/east-la-community-corporation-elacc/east-la-community-corporation-elacc.jpg
+  https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg
 project_video: 'https://youtu.be/xpzFikU5XZ0'
 body_class: banana
 

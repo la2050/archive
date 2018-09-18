@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2015179'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/TogetherWePlayLA.html'
+project_image: 'http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -105,6 +105,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have a track record of success in these areas with our partners which provides a strong foundation for the roll out and successful implementation of this initiative. As with any new initiative, we anticipate hurdles as we navigate somewhat unfamiliar territory. Our confidence lies in the strength of our partnership history in overcoming obstacles.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: 44E5ezgbzHg
 body_class: strawberry
 
 ---

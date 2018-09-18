@@ -67,7 +67,7 @@ make_la_great: |-
    * Provide the collected data to public and nongovernment organizations to implement preventive actions.
 category: connect
 organization_id: '2018110'
-project_image: 'https://activation.la2050.org/live/smartairla/smartairla.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
 project_video: '0'
 body_class: tangerine
 

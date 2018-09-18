@@ -9,7 +9,7 @@ project_summary: >-
 category: live
 organization_id: '2014220'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/aw-JuSolYNE/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -80,6 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Creating a long-term funding and implementation platform.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: aw-JuSolYNE
 body_class: lime
 
 ---

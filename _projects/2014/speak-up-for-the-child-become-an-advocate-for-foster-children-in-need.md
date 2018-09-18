@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2018014'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/casaofla.html'
+project_image: 'http://img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -104,6 +104,7 @@ Whom will your project benefit? Please be specific.: >-
    
    The three factors that are critical to our success with the proposed partnerships are legitimate outreach to the partner’s community, instructive and authentic collaboration between CASA and the partner organization, and informed engagement with our training programs.
 empty_column_1: ''
+youtube_video_identifier: WxrdQYucwHo
 body_class: tangerine
 
 ---

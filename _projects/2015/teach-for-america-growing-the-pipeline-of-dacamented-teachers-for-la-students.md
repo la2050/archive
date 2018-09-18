@@ -119,6 +119,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Lastly, we see an opportunity to engage with other community service (such as other Americorps initiatives) and/or teaching pipeline programs to discuss how to collectively work to recruit from an expanded pool of DACAmented students and professionals to join the teaching profession.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/Iih_C_KRHL0/maxresdefault.jpg'
+youtube_video_identifier: Iih_C_KRHL0
 body_class: strawberry
 
 ---

@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014050'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
+project_image: 'http://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -73,6 +73,7 @@ Whom will your project benefit? Please be specific.: >-
   promoting access to justice and providing accurate, useful legal information
   to the public.
 empty_column_1: ''
+youtube_video_identifier: DRehRt5n68c
 body_class: tangerine
 
 ---

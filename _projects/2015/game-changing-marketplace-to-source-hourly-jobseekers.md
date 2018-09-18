@@ -91,6 +91,8 @@ How do you plan to scale the success of your proposal?: >-
   deliver quality candidates to stores that have never had a system to track and
   source new applicants.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
+youtube_video_identifier: 9l0UWGhKU-U
 body_class: blueberry
 
 ---

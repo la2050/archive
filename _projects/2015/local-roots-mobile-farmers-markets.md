@@ -164,6 +164,10 @@ How do you plan to scale the success of your proposal?: >-
   to help other entrepreneurs and/or foundations leverage our farming
   technologies to replicate the model more quickly than we ourselves can scale.
 year_submitted: 2015
+maker_image_id: '23707'
+maker_image_file_name: Mobile_Market_Mock-Up.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23707%252Fdisplay%252FMobile_Market_Mock-Up.png=c570x385
 body_class: blueberry
 
 ---

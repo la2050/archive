@@ -69,6 +69,10 @@ How do you plan to scale the success of your proposal?: >-
   community awareness to the exercise equipment, healthy living classes and
   medical services provided at our Pico Union site.
 year_submitted: 2015
+maker_image_id: '24096'
+maker_image_file_name: exercise.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24096%252Fdisplay%252Fexercise.jpg=c570x385
 body_class: strawberry
 
 ---

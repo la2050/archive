@@ -127,6 +127,8 @@ How do you plan to scale the success of your proposal?: >-
   to market that meet the range and passenger capacity criteria for the
   company’s model, Green Commuter intends to diversify its fleet.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
+youtube_video_identifier: TjRq-S_gY9U
 body_class: strawberry
 
 ---

@@ -42,7 +42,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018131'
 project_image: >-
-  https://activation.la2050.org/connect/united-parents-and-students/united-parents-and-students.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/united-parents-and-students.jpg
 project_video: 'https://vimeo.com/205438757'
 body_class: tangerine
 

@@ -40,7 +40,7 @@ make_la_great: >-
    The more often Angelenos hear our students speak—in their own words—about their hopes and challenges, the more often those same Angelenos will volunteer their time, donate funds, share stories with others, and advocate on behalf of LA students at the ballot box and beyond.
 category: connect
 organization_id: '2018003'
-project_image: 'https://activation.la2050.org/connect/826la/826la.jpg'
+project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/826la.jpg'
 project_video: 'https://youtu.be/4nRuPAZABus'
 body_class: tangerine
 

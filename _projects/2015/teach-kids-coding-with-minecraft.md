@@ -141,6 +141,8 @@ How do you plan to scale the success of your proposal?: >-
   integrated into their core model. Last summer, they served 2,000 kids and have
   plans to double this number next summer.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/V0_Km6YYSbo/maxresdefault.jpg'
+youtube_video_identifier: V0_Km6YYSbo
 body_class: blueberry
 
 ---

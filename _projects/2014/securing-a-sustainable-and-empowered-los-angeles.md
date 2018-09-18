@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2015216'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22723%252Fdisplay%252F5971_LASC_Poster_07_(1).jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -72,6 +73,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   part of the MyAir LA team.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '22723'
+maker_image_file_name: 5971_LASC_Poster_07_(1).jpg
 body_class: lime
 
 ---

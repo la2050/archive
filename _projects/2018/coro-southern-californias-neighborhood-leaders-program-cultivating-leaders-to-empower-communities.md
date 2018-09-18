@@ -50,7 +50,7 @@ make_la_great: >-
 category: connect
 organization_id: '2018031'
 project_image: >-
-  https://activation.la2050.org/connect/coro-southern-california/coro-southern-california.jpg
+  https://activation.la2050.org/assets/images/connect/2048-wide/coro-southern-california.jpg
 project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
 body_class: tangerine
 

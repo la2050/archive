@@ -26,7 +26,8 @@ make_la_great: >-
   to their classrooms.
 category: learn
 organization_id: '2018032'
-project_image: 'https://activation.la2050.org/learn/crayon-collection/crayon-collection.jpg'
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
 body_class: blueberry
 

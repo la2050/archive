@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2018084'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/MoveLA.html'
+project_image: 'http://img.youtube.com/vi/wO0XVgSOcoY/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -98,6 +98,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Most of these partners have been with us in the trenches since Measure R. We add new partners often but not all in this list are confirmed and we hope to keep discovering more. The three factors critical to the success of this collaboration are: 1) sufficient resources; 2) a smart strategy that effectively engages our partners; 3) our ability to sustain the organizing effort over time.
 empty_column_1: ''
+youtube_video_identifier: wO0XVgSOcoY
 body_class: tangerine
 
 ---

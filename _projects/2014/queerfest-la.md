@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014075'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21336%252Fdisplay%252FQueerFest2014.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -73,6 +74,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have also collaborated with the Mayor's Office to produce the LGBT Heritage Month Closing Night, and are working closely with many additional city offices to ensure this festival is safe and significant for the community.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21336'
+maker_image_file_name: QueerFest2014.jpg
 body_class: strawberry
 
 ---

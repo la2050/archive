@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2016074'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22756%252Fdisplay%252FEveryoneOn_Logo.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -74,6 +75,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The two factors that are critical to the success of this collaboration are funding and outreach/community awareness. Once funding has been secured, we will collectively leverage our networks and partners on the ground in LA to drive outreach and awareness.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22756'
+maker_image_file_name: EveryoneOn_Logo.jpg
 body_class: blueberry
 
 ---

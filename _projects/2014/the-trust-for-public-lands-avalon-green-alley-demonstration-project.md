@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2018133'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22632%252Fdisplay%252FPages_from_T-Alley_Outreach_Flip_Book-2.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -83,6 +84,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The Plant Chicago is an Urban Farming initiative that has pioneered an ecological urban farm concept that eliminates the idea of waste by establishing the interdependence of productive units. They posses a unique expertise and have been a great inspiration to the project. In collaborating with The Plant Chicago, we hope to use them as a case study and implement several other concepts similar to theirs within the game.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22632'
+maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
 body_class: lime
 
 ---

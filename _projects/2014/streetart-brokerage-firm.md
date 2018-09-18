@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014089'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
+project_image: 'http://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -81,6 +81,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three factors critical to the success of our proposed collaboration are our core values and mission, our shared knowledge and free flow of ideas and our impeccable reputations and integrity as human beings and art and community advocates.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: G4cMVQVTBkM
 body_class: banana
 
 ---

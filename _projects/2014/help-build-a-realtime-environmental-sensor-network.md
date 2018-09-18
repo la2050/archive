@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014150'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -80,6 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Veracity Productions will operate as a subcontractor to Home Front Build in the making of a documentary for educational and advocacy purposes: www.veracityproductions.com.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: Cb6MAN2lVkg
 body_class: lime
 
 ---

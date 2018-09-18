@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2018099'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21775%252Fdisplay%252FIMG_20140406_135445.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -59,6 +60,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    9) UCLA School of Public Health
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21775'
+maker_image_file_name: IMG_20140406_135445.jpg
 body_class: lime
 
 ---

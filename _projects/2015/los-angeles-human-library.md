@@ -119,6 +119,10 @@ How do you plan to scale the success of your proposal?: >-
   bringing people from all over LA together to share their experiences with one
   another.
 year_submitted: 2015
+maker_image_id: '23929'
+maker_image_file_name: logo3.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23929%252Fdisplay%252Flogo3.jpg=c570x385
 body_class: blueberry
 
 ---

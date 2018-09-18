@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014159'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -82,6 +82,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    10. Brothers, Sons, Selves Collaborative for Boys & Young Men of Color
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: ez1sypeq2hI
 body_class: lime
 
 ---

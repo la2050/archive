@@ -92,6 +92,8 @@ How do you plan to scale the success of your proposal?: >-
   vision and plan to engage the LA Unified School District to enter this work
   into school and after-school settings.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
+youtube_video_identifier: WendT0Sm-Tk
 body_class: blueberry
 
 ---

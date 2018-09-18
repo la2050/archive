@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2016031'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/WeThePeople.html'
+project_image: 'http://img.youtube.com/vi/TxBLXGuD1n8/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -122,6 +122,7 @@ Whom will your project benefit? Please be specific.: >-
    2)Experienced with advocacy and leadership training
    3)Often ignored and misunderstood community
 empty_column_1: ''
+youtube_video_identifier: TxBLXGuD1n8
 body_class: tangerine
 
 ---

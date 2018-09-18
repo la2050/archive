@@ -122,6 +122,10 @@ How do you plan to scale the success of your proposal?: >-
    
    More generally, interest in collective shops is growing rapidly as a way to leverage resources and create community. We have already shared our ideas and experiences with similar ventures in Austin, Minneapolis, Northern California, and North Carolina. We will continue to share our perspective and offer our curriculum and toolkit as resources for these new ventures.
 year_submitted: 2015
+maker_image_id: '23544'
+maker_image_file_name: IMG_8112_web.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23544%252Fdisplay%252FIMG_8112_web.jpg=c570x385
 body_class: blueberry
 
 ---

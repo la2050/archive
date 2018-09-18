@@ -163,6 +163,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We recognize that by delivering excellent outcomes, we can become an influential demonstration model that speaks to what works. From this platform we can persuade leaders across the philanthropic, for-profit, nonprofit, and government sectors to adapt best practices that can interrupt the cycle of poverty at scale and create a brighter future for the next generation of children.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/0kAkWtDm2X0/maxresdefault.jpg'
+youtube_video_identifier: 0kAkWtDm2X0
 body_class: banana
 
 ---

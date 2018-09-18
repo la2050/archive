@@ -40,7 +40,7 @@ make_la_great: >-
 category: live
 organization_id: '2018117'
 project_image: >-
-  https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/the-brady-center-to-prevent-gun-violence.jpg
+  https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
 project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
 body_class: lime
 

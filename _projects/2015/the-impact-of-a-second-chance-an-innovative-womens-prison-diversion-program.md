@@ -144,6 +144,10 @@ How do you plan to scale the success of your proposal?: >-
   formerly incarcerated women among elected officials, will provide Prototypes
   the leverage to scale the Second Chance Women’s Reentry Program.
 year_submitted: 2015
+maker_image_id: '23741'
+maker_image_file_name: 2013_Pomona_0649.JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23741%252Fdisplay%252F2013_Pomona_0649.JPG=c570x385
 body_class: strawberry
 
 ---

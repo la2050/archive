@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014040'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21361%252Fdisplay%252FGFS_PHOTO_1.png=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '0'
@@ -99,6 +100,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Collaboration with 21st Century Fox, along with other LA based film studios and partners in the film industry, is essential to the success of GFS LA. GFS LA students will participate in regular site visits to studio lots, development offices and post houses, weekly trips to top LA cinemas, museums and art galleries, and an international production trip during the annual GFS LA Thesis Project.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '21361'
+maker_image_file_name: GFS_PHOTO_1.png
 body_class: banana
 
 ---

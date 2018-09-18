@@ -9,7 +9,7 @@ project_summary: >-
 category: live
 organization_id: '2015040'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/keXQ-tYKL9g/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -76,6 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) Annually, we have about 40 volunteers serve a total of 5,550 hours. Volunteers include youth interns from youth employment programs such as YO Watts, community service volunteers, philanthropy groups, Temporary Subsidized Employees, and ReEmployability employees.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: keXQ-tYKL9g
 body_class: lime
 
 ---

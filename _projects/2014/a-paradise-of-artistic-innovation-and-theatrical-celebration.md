@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014099'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
+project_image: 'http://img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -68,6 +68,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   with other organizations.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: nJPC81QoGyk
 body_class: banana
 
 ---

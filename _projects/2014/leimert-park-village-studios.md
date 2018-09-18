@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014038'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
+project_image: 'http://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '1'
@@ -106,6 +106,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: _BC4Wfw6Gb4
 body_class: banana
 
 ---

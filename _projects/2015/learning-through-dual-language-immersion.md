@@ -112,6 +112,10 @@ How do you plan to scale the success of your proposal?: >-
   grand scale, we can use those successes to increase our likelihood of
   obtaining ongoing funds from other sources.
 year_submitted: 2015
+maker_image_id: '23186'
+maker_image_file_name: d48c0ef901b441899955a9ebf656288f.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23186%252Fdisplay%252Fd48c0ef901b441899955a9ebf656288f.jpg=c570x385
 body_class: blueberry
 
 ---

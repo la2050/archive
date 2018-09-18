@@ -9,7 +9,8 @@ project_summary: >-
 category: connect
 organization_id: '2014007'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22052%252Fdisplay%252FLA2050-image-4.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -96,6 +97,8 @@ Whom will your project benefit? Please be specific.: |-
    We will partner with LA Works to award points for volunteering. People who take on LA Works’ challenge will earn points each time they volunteer and will also earn points for trying new projects. Through this challenge, volunteers will help improve LA while earning points and prizes, while App of Life will benefit from gaining new players who are focused on giving back.
    We have volunteered with LA Works for more than a decade and have proposed a partnership.
 empty_column_1: ''
+maker_image_id: '22052'
+maker_image_file_name: LA2050-image-4.jpg
 body_class: tangerine
 
 ---

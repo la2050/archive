@@ -39,7 +39,7 @@ make_la_great: >-
    We will realize the power of everyday commerce as fuel for philanthropy and revolutionize the way communities support each other, creating a more economically viable future for Angelenos. At every touch point across this economic bridge, from planting seeds to distributing salads, every dollar made will be reinvested back into our communities. Who knew, the impact of a grab and go at LAX?
 category: live
 organization_id: '2018059'
-project_image: 'https://activation.la2050.org/live/l-a-kitchen/l-a-kitchen.jpg'
+project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-kitchen.jpg'
 project_video: 'https://vimeo.com/262575721'
 body_class: lime
 

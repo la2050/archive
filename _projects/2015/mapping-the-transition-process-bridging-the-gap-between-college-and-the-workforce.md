@@ -84,6 +84,10 @@ How do you plan to scale the success of your proposal?: >-
   and ensure students have the essential skills to successfully navigate the
   workforce.
 year_submitted: 2015
+maker_image_id: '23390'
+maker_image_file_name: fair.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23390%252Fdisplay%252Ffair.jpg=c570x385
 body_class: blueberry
 
 ---

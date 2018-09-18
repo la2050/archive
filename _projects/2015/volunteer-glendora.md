@@ -89,6 +89,10 @@ How do you plan to scale the success of your proposal?: >-
   ensure that not only our community but to others outside of community who may
   want to participate.
 year_submitted: 2015
+maker_image_id: '23980'
+maker_image_file_name: LA2015_1.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23980%252Fdisplay%252FLA2015_1.jpg=c570x385
 body_class: blueberry
 
 ---

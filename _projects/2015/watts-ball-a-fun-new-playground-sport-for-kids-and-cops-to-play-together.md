@@ -110,6 +110,8 @@ How do you plan to scale the success of your proposal?: >-
   communities around the country to help make Watts Ball a reality in other
   cities.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg'
+youtube_video_identifier: XYkDHo1jJ1c
 body_class: strawberry
 
 ---

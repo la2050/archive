@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2015186'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/LosAngelesRiverworks.html'
+project_image: 'http://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '0'
@@ -113,6 +113,7 @@ Whom will your project benefit? Please be specific.: >-
    
    3. Identify and implement the appropriate legal and policy tools to ensure that River revitalization efforts are responsive and accountable to existing residents’ needs.
 empty_column_1: ''
+youtube_video_identifier: fMyc7c0Ylc4
 body_class: tangerine
 
 ---

@@ -9,7 +9,7 @@ project_summary: >-
 category: learn
 organization_id: '2016048'
 year_submitted: 2014
-project_image: ''
+project_image: 'http://img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '0'
 EAST LA: '1'
@@ -88,6 +88,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. As part of the Boyle Heights Learning Collaborative, and through our relationships with other CBOs, CTBH coordinates with other non-profits who support our students’ non-academic and social/emotional needs.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+youtube_video_identifier: DcSdvVTv_Cg
 body_class: blueberry
 
 ---

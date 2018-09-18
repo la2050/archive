@@ -105,6 +105,10 @@ How do you plan to scale the success of your proposal?: >-
   addition to social media staff will engage and promote the app at Farmers
   Markets, Cultural Centers and Co-working spaces.
 year_submitted: 2015
+maker_image_id: '23547'
+maker_image_file_name: Leif_Community_Engagement_App.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23547%252Fdisplay%252FLeif_Community_Engagement_App.jpg=c570x385
 body_class: blueberry
 
 ---

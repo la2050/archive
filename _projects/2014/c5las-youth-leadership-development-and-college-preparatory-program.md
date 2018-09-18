@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2015024'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21493%252Fdisplay%252FC5LA--LA2050.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
@@ -77,6 +78,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Constantly exploring how we can partner with new organizations that serve a similar youth demographic.
 Whom will your project benefit? Please be specific.: '0'
 empty_column_1: ''
+maker_image_id: '21493'
+maker_image_file_name: C5LA--LA2050.jpg
 body_class: blueberry
 
 ---

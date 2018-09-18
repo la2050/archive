@@ -119,6 +119,8 @@ How do you plan to scale the success of your proposal?: >-
   positive impact that shading pilot has had. The project can be scaled up by
   creating other artistic shade installations in other parts of the park.
 year_submitted: 2015
+project_image: 'http://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
+youtube_video_identifier: BhO5jmXKosA
 body_class: lime
 
 ---

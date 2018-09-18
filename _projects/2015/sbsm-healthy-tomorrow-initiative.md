@@ -131,6 +131,10 @@ How do you plan to scale the success of your proposal?: >-
   fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be
   able to expand our reach in LAUSD even further.
 year_submitted: 2015
+maker_image_id: '23214'
+maker_image_file_name: IMG_0438.JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23214%252Fdisplay%252FIMG_0438.JPG=c570x385
 body_class: strawberry
 
 ---

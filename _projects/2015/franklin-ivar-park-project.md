@@ -117,6 +117,10 @@ How do you plan to scale the success of your proposal?: >-
    New urban parks of similar size were recently constructed by the MRCA and serve other park-poor neighborhoods. Constant outreach through social media such as Facebook, emails and person to person contact has allowed us to reach a wider scale of people and further the success of our public programing, resulting in higher number of attendance. The same will be done with Franklin/Ivar Park. 
    Additionally, as trees and other vegetation are proven to sequester carbon and improve our air quality, the park’s tree canopy and shrubs will almost immediately clean the air. Furthermore, air quality will be improved and greenhouse gasses will be reduced due to the park’s easy access via walking and bicycling, its close proximity to public transit, and permanent designation as open-space.
 year_submitted: 2015
+maker_image_id: '23455'
+maker_image_file_name: Franklin-Ivar_Plan-small_2015_09_15.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23455%252Fdisplay%252FFranklin-Ivar_Plan-small_2015_09_15.jpg=c570x385
 body_class: blueberry
 
 ---
