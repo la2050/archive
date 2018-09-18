@@ -13,10 +13,10 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
+SFV: ''
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Ongoing: Youth leaders have developed a Tumblr for the campaign and meet twice
@@ -66,7 +66,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Dawn and John have come on the project as design consultants, working with youth to develop their ideas into design elements for print, social media, and digital distribution. They are formally trained by Rebeca Mendez, who developed Peace Over Violence's signature brand and brand guidelines. They have been involved with the agency throughout Summer 2014 and will ensure campaign brand consistency. 
    
    The three critical factors in these partnerships are: 1. school buy-in and support for campaign implementation and dissemination, 2. continuous radio distribution/coverage of campaign, and 3. on going campaign design mentorship and brand development with youth.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: nF2CnqS_6oQ
 body_class: blueberry

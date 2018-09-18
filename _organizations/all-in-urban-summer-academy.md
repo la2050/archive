@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: All-In Urban Summer Academy
 organization_website: urbansummeracademy.org
 ein: '814435851'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
@@ -12,13 +12,13 @@ tags_indicators:
   - 'Housing: Homelessness'
   - Youth
   - Tutoring
-twitter: '0'
+twitter: ''
 instagram: urbansummeracademy
 facebook: urbansummeracademy
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Summer teachers implement intervention and project based curriculum to boost
   conceptual and social skills of 3rd-8th graders; engaging youth, empowering

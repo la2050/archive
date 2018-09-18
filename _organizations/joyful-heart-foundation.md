@@ -15,7 +15,7 @@ facebook: thejhf
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   Our mission is to transform society's response to sexual assault, domestic
   violence, and child abuse, support survivors' healing, and end this violence

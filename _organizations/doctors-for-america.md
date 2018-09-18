@@ -16,7 +16,7 @@ facebook: n/a
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   DFA mobilizes doctors and medical students to be leaders in local communities
   on the pressing issues of the day to improve the health of our patients,

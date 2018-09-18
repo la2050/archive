@@ -14,7 +14,7 @@ tags_indicators:
   - Underserved communities
   - Inclusion
 twitter: '@Everyone_On'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/EveryoneOn/'
 org_type: Nonprofit
 project_image: >-

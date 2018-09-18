@@ -16,7 +16,7 @@ SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
-WESTSIDE: '0'
+WESTSIDE: ''
 LA COUNTY: ''
 OTHER: >-
   Los Angeles Biohackers is an organization that has built an open community
@@ -54,7 +54,7 @@ What will you do to implement this idea/project?: >-
    
    Factors that are critical to our success are 1) having a paid employee to work and communicate closely with LabLaunch 2) negotiating a deal that is doable with LA Biohackers’ budget but also compensates LabLaunch appropriately, and 3) working with local universities to get projects from the university into the pre-incubator program.
 How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22859'
 maker_image_file_name: la_biohackers__LA2050_570_345_copy2.jpg

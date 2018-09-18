@@ -8,18 +8,18 @@ project_summary: >-
   We will construct two Monolithic Dome homes to showcase the extraordinary
   qualities of reinforced, open-span concrete construction. 
    We will show how by providing skills training to the unemployed we can construct permanent, high quality, low-cost housing for the homeless.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-

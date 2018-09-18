@@ -44,7 +44,7 @@ category: connect
 organization_id: '2018081'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg
-project_video: '0'
+project_video: ''
 body_class: tangerine
 
 ---

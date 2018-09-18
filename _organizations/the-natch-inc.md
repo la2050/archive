@@ -16,7 +16,7 @@ instagram: 'https://www.instagram.com/natch_app_/'
 facebook: 'https://www.facebook.com/thenatch/'
 org_type: Forprofit
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   We run an online marketplace where anybody can locally sell and deliver food
   they make.

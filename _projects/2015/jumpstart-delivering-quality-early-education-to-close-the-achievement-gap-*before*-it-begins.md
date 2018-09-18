@@ -16,16 +16,16 @@ project_summary: >-
   academic outcomes of low-income children.
 Central LA: '1'
 East LA: '1'
-San Gabriel Valley: '0'
+San Gabriel Valley: ''
 San Fernando Valley: '1'
 South LA: '1'
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: >-
   Jumpstart provides high quality early education programming at almost fifty
   state preschools, Head Start providers, and child development centers

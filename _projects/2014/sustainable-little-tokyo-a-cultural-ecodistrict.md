@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Western Center will help the County of Los Angeles and the State of California
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1) This is a winnable but immensely complicated project with many moving parts.
    2) There are distinct yet intertwined roles for each of the partners that must be appropriately woven together.
    3) The partners will need to maintain a nimble and flexible strategy that fluidly adjusts to shifting policy currents.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: QQpabiJ0uus
 body_class: lime

@@ -12,18 +12,18 @@ project_summary: >-
   growing our Managed Project programming, we will make volunteering even more
   accessible by having opportunities led by trained L.A. Works volunteers in
   every neighborhood of Greater Los Angeles.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

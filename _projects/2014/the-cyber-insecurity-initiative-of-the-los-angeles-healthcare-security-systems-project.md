@@ -18,7 +18,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Funding Program
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Articulating the formula that defines savings to emissions with expert agreement from city, county and state government and the scientific/environmental community.
    - Engaging business as partners 
    - Creating a long-term funding and implementation platform.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: aw-JuSolYNE
 body_class: lime

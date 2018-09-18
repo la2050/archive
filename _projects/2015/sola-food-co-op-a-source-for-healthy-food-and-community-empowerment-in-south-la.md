@@ -14,18 +14,18 @@ project_summary: >-
   fresh juices, and organic coffee. We feel that in an area long overlooked,
   with too few grocery stores, that is a food desert, a health foods cooperative
   is a brilliant solution.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: In the Leimert Park area
 category: 00playlive
 'Describe in greater detail how you will make LA the best place to connect:': >-

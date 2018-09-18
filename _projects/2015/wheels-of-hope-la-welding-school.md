@@ -10,17 +10,17 @@ project_summary: >-
   certification is good in all 50 states and once our students pass we then
   place them in jobs. The end of term project is welding motorcycle ambulances,
   which once completed we send to villages in Africa.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: '412 Boyd St, Los Angeles CA 90013'
 category: learn

@@ -13,11 +13,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Project partners will engage residents and advocates in a campaign to adopt
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Place It founder James Rojas has led hundreds of creative planning workshops to allow community residents to envision how their built environment and streets can change for the better. These three organizations have formally and informally collaborated in the past as individuals leaders and/or as organizations. 
    
    Factors that are critical to the success of the proposed collaboration include: (1) the ability of community members to learn about road safety and opportunities to help shape and advocate for Vision Zero; (2) the capacity of the project to inspire participants in workshops and walks to advocate for safer streets; and (3) the ability of advocacy to influence decision makers to adopt Vision Zero policies. We believe that the Vision Zero Los Angeles team can provide synergy through community-based journalism and outreach, community-engaged advocacy and community-led visioning for safer streets in order to achieve project goals.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22630'
 maker_image_file_name: corn_seeding.jpg

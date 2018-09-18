@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently support 14 other boys and girls clubs in Los Angeles County in
@@ -44,7 +44,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Our primarily partnership is with other Boys & Girls Clubs, although we also
   partner with the Los Angeles Unified School District and currently serve youth
   on eleven LAUSD school sites.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: sI0_dZ4TpAA
 body_class: blueberry

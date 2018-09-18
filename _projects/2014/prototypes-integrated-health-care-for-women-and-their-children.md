@@ -9,14 +9,14 @@ organization_id: '2014124'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ChapCare’s Marketing Manager will manage the project. The Manager is a member
@@ -44,7 +44,7 @@ What will you do to implement this idea/project?: >-
    The proposed area is predominantly Latino (75%) followed by Asian (20%), with the Asian population being predominantly Chinese and Vietnamese, making services that are culturally and linguistically competent of critical importance.
    ChapCare’s proposed project will benefit the low-income populations of the El Monte/South El Monte region by providing easily accessible health insurance enrollment services. The project will provide services in a culturally and linguistically competent manner that is responsive to the needs of the community.
 How will your idea/project help make LA the best place to connect today? In LA2050?: Not applicable.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 6AUZY8VvXXQ
 body_class: lime

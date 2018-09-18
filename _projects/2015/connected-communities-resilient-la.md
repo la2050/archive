@@ -22,8 +22,8 @@ South Bay: '1'
 Antelope Valley: '1'
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-

@@ -22,7 +22,7 @@ facebook: N/A
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Pools of Hope is a warm-water facility promoting whole life wellness in our
   community through aquatic programs for low-income individuals of varying

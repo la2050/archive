@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: TWIGG How-To
 organization_website: 'http://www.twigghowto.com/'
 ein: '813851393'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
@@ -18,7 +18,7 @@ instagram: 'https://www.instagram.com/twigghowto/'
 facebook: 'https://www.facebook.com/twigghowto'
 org_type: Forprofit
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/twigg-how-to.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   TWIGG How-To [aka The Winging It Girls’ Guide] is an award-winning platform
   seeking to create a damsel-free world through how-to articles, workshops, and

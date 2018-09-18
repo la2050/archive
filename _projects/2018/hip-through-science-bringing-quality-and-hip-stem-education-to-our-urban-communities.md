@@ -42,7 +42,7 @@ category: learn
 organization_id: '2018122'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
-project_video: '0'
+project_video: ''
 body_class: blueberry
 
 ---

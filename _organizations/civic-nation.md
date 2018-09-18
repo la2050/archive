@@ -19,7 +19,7 @@ facebook: N/A
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Civic Nation builds tools and campaigns that encourage more civic engagement
   around topics like ending sexual assault, gender equality, free community

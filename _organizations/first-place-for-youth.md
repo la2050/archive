@@ -20,7 +20,7 @@ facebook: firstplaceforyouth
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   First Place provides foster youth with intensive support to complete their
   high school diploma or GED certificate, enroll in college, and obtain

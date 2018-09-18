@@ -14,17 +14,17 @@ project_summary: >-
   self-sustaining after startup costs. It will create new value to share among
   the stakeholders. It will evolve urban development toward equitable resolution
   of conflict and inclusion.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: Highland Park
 category: 00playlive

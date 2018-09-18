@@ -10,18 +10,18 @@ project_summary: >-
   water-smart future. Working in neighborhoods along the river and across the
   basin, CtD uses advanced hydrologic data as public art, empowering and
   inspiring citizens to help solve our city’s transit, public space, and water.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   thirsty neighborhoods dotted across the 864-sq-mile LA Basin, on the river and
   off.

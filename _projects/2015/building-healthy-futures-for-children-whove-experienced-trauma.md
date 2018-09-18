@@ -13,17 +13,17 @@ project_summary: >-
   evidence-based mental health, early childhood, youth development, and family
   support to treat the whole child and the entire family.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
+Westside: ''
 South Bay: '1'
-Antelope Valley: '0'
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   CII Otis Booth Campus Westlake/Rampart Los Angeles; CII New Hampshire Campus
   Koreatown Los Angeles; CII Watts Campus Watts Los Angeles; CII Burton E. Green

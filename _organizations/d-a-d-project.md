@@ -18,7 +18,7 @@ facebook: d.a.d_project
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Provide Workshops, Training and Events to help fathers understand the value of
   supporting their child's academic development, and provide resources that

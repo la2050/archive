@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: City of Los Angeles Information Technology Agency
 organization_website: 'http://ita.lacity.org/'
 ein: '956000735'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
 ntee_type: ''
 tags_indicators:
@@ -15,7 +15,7 @@ tags_indicators:
   - Digital Equity
   - Technology
 twitter: '@LACity'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/CityofLosAngelesTruePage/'
 org_type: Government
 project_image: >-

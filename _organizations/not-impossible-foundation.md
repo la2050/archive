@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Not Impossible Foundation
 organization_website: www.notimpossible.com
 ein: '451601262'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451601262'
 ntee_type: ''
 tags_indicators:
@@ -17,7 +17,7 @@ facebook: NotImpossible
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   NIF recognizes global, human-centered absurdities deemed insolvable, then
   commits to solving them with a variety of experts to discover and create

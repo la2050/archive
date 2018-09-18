@@ -20,7 +20,7 @@ facebook: N/A
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Core Innovate is an education technology and support services business that
   supports educators in strategic instructional planning aimed at removing

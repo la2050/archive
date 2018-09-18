@@ -213,6 +213,10 @@ function createMarkdownFile(data) {
     console.log("A title is missing")
   }
 
+  for (let prop in data) {
+    if (data[prop] === '0') data[prop] = ''
+  }
+
   // console.dir(data)
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-

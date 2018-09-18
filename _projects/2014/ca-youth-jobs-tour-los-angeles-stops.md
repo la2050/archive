@@ -10,14 +10,14 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21770%252Fdisplay%252Fjobstour.png=c570x385
 project_video: ''
-CENTRAL LA: '0'
+CENTRAL LA: ''
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our organizing teams will recruit a diverse range of unemployed,
@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   their desire to work. We also intend to incorporate employers in the
   conversation and stakeholder engagement, as we know that it is important to
   include them in the conversation.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21770'
 maker_image_file_name: jobstour.png

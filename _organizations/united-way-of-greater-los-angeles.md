@@ -5,7 +5,7 @@ organization_name: United Way of Greater Los Angeles
 organization_website: >-
   http://everyoneinla.org/,http://www.abundanthousingla.org/,http://www.innercitylaw.org/
 ein: '952274801'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952274801'
 ntee_type: ''
 tags_indicators:

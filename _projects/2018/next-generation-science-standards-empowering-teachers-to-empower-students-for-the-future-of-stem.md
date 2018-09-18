@@ -47,7 +47,7 @@ category: learn
 organization_id: '2018016'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
-project_video: '0'
+project_video: ''
 body_class: blueberry
 
 ---

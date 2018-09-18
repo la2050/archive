@@ -9,13 +9,13 @@ organization_id: '2014207'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: All of the Los Angeles Unified School District
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have also partnered bargaining units (SEIU, UTLA, and ALAA), GSA Network, and others to produce our OUT for Safe Schools badges – part of the OUT for Safe Schools Campaign. All of the partners listed are confirmed and were part of last year’s Project SPIN campaign. 
    
    Lastly, Project SPIN has recently partnered with ONE National Gay & Lesbian Archives at the University of Southern California to develop educational materials for implementation of the California FAIR Education Act (2011). In June of 2014, Project SPIN created a resource guide of inclusive curriculum that teachers can use as supplement to textbooks.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: lg-vCWbUV8s
 body_class: blueberry

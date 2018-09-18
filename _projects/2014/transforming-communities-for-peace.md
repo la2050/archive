@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The first step is empowering people through education. World Peace One helps
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
     1. Continuous connection to the residents in the communities
     2. Effective and efficient execution of Peace Projects, led by residents, that reflect cultural and other needs of the community and are designed to be sustainable
     3. Designing for the future so that projects build on each other and create designs, models, and practices that will make each project part of a larger whole
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22532'
 maker_image_file_name: WP1_Logo_new.jpg

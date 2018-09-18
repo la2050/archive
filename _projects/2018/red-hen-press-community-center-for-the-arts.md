@@ -39,7 +39,7 @@ make_la_great: >-
 category: create
 organization_id: '2018101'
 project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
-project_video: '0'
+project_video: ''
 body_class: banana
 
 ---

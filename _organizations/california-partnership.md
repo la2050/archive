@@ -14,7 +14,7 @@ facebook: californiapartnership
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   An economic justice organization that builds leadership among low-income folks
   and communities of color through grassroots organizing, policy advocacy,

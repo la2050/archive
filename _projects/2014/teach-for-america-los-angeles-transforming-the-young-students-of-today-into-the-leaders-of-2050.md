@@ -15,11 +15,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
+SGV: ''
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are working to cultivate leaders at all levels of the education system by
@@ -77,7 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Westside Children’s Center, one of our ECE partner schools, provides high-quality early education programs to serve 400 at-risk children (ages 0 – 5) from very low-income families in southwest Los Angeles County. Since 2012, our ECE corps members have attended summer institute training at Westside Children’s Center, during which they receive training in pedagogy and teaching strategies in model classrooms. The teachers at Westside Children’s Center mentor our corps members and gain exposure to the Teach For America instructional program. The current CEO of Westside Children’s Center, Heather Carrigan, joined Teach For America – Los Angeles’ inaugural class after graduating from Princeton University in 1990. While teaching at Warren Lane Elementary School in Inglewood, Heather learned first-hand about teachers’ daily struggles combating educational disparities and has since committed her career to fighting poverty through education reform.
    
    3. St. Anne’s, one of our ECE partner schools, serves some of the most abused, abandoned, neglected, and otherwise challenged young women and children in Los Angeles County. St. Anne’s offers an array of comprehensive programs including but not limited to, transitional housing, child care, family literacy, and educational and vocational preparation. All of their programs strive to empower and educate by providing the highest level of care and resources so as to help young women and children recognize their own value and potential, giving them the hope and the tools needed for a better future.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21106'
 maker_image_file_name: rsz_1rsz_2mktg_201406_ece_landingpage_goi.jpg

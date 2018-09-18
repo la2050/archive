@@ -18,7 +18,7 @@ facebook: wisdomartslaboratory
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Wisdom Arts Laboratory encourages and nurtures the imagination, critical
   thinking skills, and citizenship of our students and instructors through art

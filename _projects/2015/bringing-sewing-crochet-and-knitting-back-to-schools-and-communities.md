@@ -11,14 +11,14 @@ project_summary: >-
   classes, which produces well-rounded, positive students. We see students teach
   other students, which promotes the idea of helping others and sharing our
   gifts and talents.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
 South Bay: '1'
-Antelope Valley: '0'
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'

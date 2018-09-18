@@ -11,12 +11,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22797%252Fdisplay%252F1836681_290007847815931_949505580_o(1).jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: We often produce events in other areas of the city
 Which area(s) of LA does your project benefit? Other (elaborate): >-

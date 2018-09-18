@@ -63,7 +63,7 @@ category: create
 organization_id: '2018098'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
-project_video: '0'
+project_video: ''
 body_class: banana
 
 ---

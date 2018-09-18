@@ -14,17 +14,17 @@ project_summary: >-
   stores, art galleries, restaurants, and coffee shops. Proceeds from book sales
   will achieve both an immediate and long-term solution for the homeless crisis.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-

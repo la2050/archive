@@ -69,7 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    National and regional support has been secured for the STEAM Carnival and include sponsorships and grants from several sources including: Time Warner Cable, Hitachi, City of Los Angeles, and Popular Mechanics. We also have a two-year recurring commitment from American Honda Foundation for the development of our STEAM curriculum and professional learning costs. 
    
    Two Bit Circus in currently working with the Extension Program at the University of California, San Diego to create the first-ever STEAM certificate program for K-12 teachers. This was announced as a CGI commitment (http://www.prweb.com/releases/2014/07/prweb12011117.htm).
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

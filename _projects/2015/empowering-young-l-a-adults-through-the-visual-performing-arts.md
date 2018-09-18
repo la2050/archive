@@ -12,18 +12,18 @@ project_summary: >-
   volunteers, mentors and staff, as well as organize events for the community
   that showcase the work of our members. Our purpose for doing this is to ensure
   that more and more of our young artists find success.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-

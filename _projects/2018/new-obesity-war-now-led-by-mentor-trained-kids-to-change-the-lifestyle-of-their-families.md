@@ -83,7 +83,7 @@ category: play
 organization_id: '2018106'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
-project_video: '0'
+project_video: ''
 body_class: strawberry
 
 ---

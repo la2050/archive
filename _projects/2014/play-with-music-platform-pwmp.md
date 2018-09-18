@@ -9,13 +9,13 @@ organization_id: '2014095'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: >-
   The year long pilot program will benefit kids & the community of South LA, but
@@ -109,7 +109,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We also hope to attract participation from famous musicians, and inspire students with an opportunity to be in a “virtual band” with them. We’ll lean on our entire professional & personal network to achieve this goal.
     
    Finally, we have relationships with many socially conscious local tech firms, including Pull Creative,100 Years, Ludlow Kingsley & Arts of Olympus, who are all on board to help. Together we will create the most impactful program and platform possible.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: o1W8HEqylCg
 body_class: strawberry

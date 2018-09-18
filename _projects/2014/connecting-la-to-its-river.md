@@ -12,12 +12,12 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
-OTHER: '0'
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Inspired by the hymn,“Shall We Gather at the River?” FoLAR's founders united
   to influence public opinion by bringing individuals, reporters,

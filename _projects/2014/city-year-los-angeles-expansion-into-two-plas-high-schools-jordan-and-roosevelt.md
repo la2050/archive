@@ -11,13 +11,13 @@ organization_id: '2018027'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/8tBfuIKLAao/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
+CENTRAL LA: ''
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Jordan High School in Watts and Roosevelt High School in Boyle Heights
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In 2013, Partnership for LA Schools recognized City Year as their Community Partner of the Year at its annual Family and Community Engagement Awards. We both deeply believe that our students are more likely to succeed if they attend a Partnership school with City Year corps members in the classroom. Our collaboration runs so deep that we have opted to apply for this grant together, rather than compete against one another. 
    
    In our past collaboration, we have found these three factors to be critical: 1) strong leadership from both organizations – on the ground level at the schools as well as at the senior level of our organizations; 2) shared values and a deep belief in our students and their potential; and 3) a willingness to leverage partnerships and outside resources to support our students and our work.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 8tBfuIKLAao
 body_class: blueberry

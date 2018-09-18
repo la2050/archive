@@ -15,7 +15,7 @@ facebook: breakthecycle
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   Break the Cycle inspires and supports young people to build healthy
   relationships and create a culture without abuse.

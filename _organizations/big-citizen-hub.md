@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Big Citizen HUB
 organization_website: www.investinyouthco.com
 ein: '954302067'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
 tags_indicators:
@@ -17,7 +17,7 @@ instagram: 'https://www.instagram.com/investinyouth_/'
 facebook: 'https://www.facebook.com/InvestinYouthCo/'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   The Invest in Youth Coalition is urging our city’s policymakers to create a
   Youth Development Department, focusing on funding an equitable strategy to our

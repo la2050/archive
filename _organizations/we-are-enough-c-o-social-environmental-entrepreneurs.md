@@ -16,7 +16,7 @@ tags_indicators:
   - Financial management
 twitter: '@weareenoughbiz'
 instagram: '@weareenoughbiz'
-facebook: '0'
+facebook: ''
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg

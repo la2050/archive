@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will solicit sponsorships from corporations, use social media and YouTube,
@@ -57,7 +57,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   travel and hospitality businesses to develop tourist packages including
   lodging, bus tours, dining, shopping, and other entertainment attractions that
   will encourage visitors to stay multiple days in the city.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: strawberry
 

@@ -16,9 +16,9 @@ SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
-WESTSIDE: '0'
+WESTSIDE: ''
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Jenesse’s focus on youth is a critical aspect of our prevention strategy to
   reduce the prevalence of domestic violence in our communities in the near

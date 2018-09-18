@@ -12,7 +12,7 @@ EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: >-
   In the next year, LA Community Garden Council will help an additional 150

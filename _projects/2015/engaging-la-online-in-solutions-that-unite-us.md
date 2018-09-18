@@ -12,18 +12,18 @@ project_summary: >-
   communicate with them; and democratically distills the contributions of
   millions of participants in to a small, high-quality, representative set for
   city and neighborhood council meetings.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-

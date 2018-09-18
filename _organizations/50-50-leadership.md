@@ -16,7 +16,7 @@ facebook: 5050leadership
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: Promotes women's equal leadership
 areas_impacted:
   - San Gabriel Valley

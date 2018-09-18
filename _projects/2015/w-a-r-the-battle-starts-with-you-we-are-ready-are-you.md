@@ -14,16 +14,16 @@ project_summary: >-
   community members in the city of Los Angeles.
 Central LA: '1'
 East LA: '1'
-San Gabriel Valley: '0'
+San Gabriel Valley: ''
 San Fernando Valley: '1'
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: none
 'Describe in greater detail how you will make LA the best place to connect:': >-

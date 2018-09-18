@@ -20,7 +20,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A lot of L.A. residents would use mass transportation if there were a way to
   get between home and the station. Our project is to develop a plan for moving

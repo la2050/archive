@@ -11,13 +11,13 @@ project_image: 'http://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
-SOUTH LA: '0'
-SGV: '0'
+SOUTH LA: ''
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The idea: Individuals can create social solutions to hard problems that
   frequently seem insurmountable or dependent on major infrastructure.

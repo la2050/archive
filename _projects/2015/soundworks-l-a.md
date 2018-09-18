@@ -11,18 +11,18 @@ project_summary: >-
   component in which youth will play a role in building the plan and launching
   the business. Students will earn certifications and have the opportunity to
   further their studies through our strategic partners in higher learning.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-

@@ -12,17 +12,17 @@ project_summary: >-
   innovative local entrepreneurs, and lower their risk threshold to help them
   grow. Our vision is to make these projects scalable, sustainable and
   repeatable for diverse communities.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: Long Beach; LA County
 category: learn

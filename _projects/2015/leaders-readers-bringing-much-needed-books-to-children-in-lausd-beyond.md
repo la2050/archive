@@ -12,14 +12,14 @@ project_summary: >-
   learning and academic excellence AND allow students to gain experience with
   leadership and community service. L+R is leveraging our community’s resources
   to fill the budget gap that LAUSD faces.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'

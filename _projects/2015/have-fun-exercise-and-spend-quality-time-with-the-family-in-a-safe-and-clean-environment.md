@@ -11,17 +11,17 @@ project_summary: >-
   environment. Parents can feel confident that their children will exercise and
   have fun while still keeping up with school work. Kids in a society that are
   stuck on technology can come and play and run around like kids used to.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: 'Adventure Playhouse 1116 San Fernando Rd. San Fernando, Ca 91340'
 category: all

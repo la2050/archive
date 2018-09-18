@@ -12,17 +12,17 @@ project_summary: >-
   target 7th and 8th grade students who demonstrate risk factors for dropping
   out, providing more capacity to Partnership staff and school leadership to
   implement their vision at the school.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: Carver Middle School (South Los Angeles)
 category: learn

@@ -13,11 +13,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
 SOUTH BAY: '1'
-WESTSIDE: '0'
-LA COUNTY: '0'
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1. PHE partners with high schools that lack skills-based health education and
@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    On the high school side, each of these schools and networks has demonstrated the willingness to provide time and space for our program during the school day, supported by host teachers who are invested in the program's success. PUC Schools and LA Alliance Schools, for the first time, are now sharing the costs of our program.
    
    Our program must have a 40-60 minute time slot during the school day, be able to reach the entire 9th grade in the school, and have a committed and supportive host teacher in the classroom at all times in order to achieve success.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22219'
 maker_image_file_name: LA2050Vision.jpg

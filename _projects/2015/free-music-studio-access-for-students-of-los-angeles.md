@@ -11,18 +11,18 @@ project_summary: >-
   kind opportunity for the youth of LA to have sound-proofed studios to practice
   in at full volume, state of the art music equipment at their disposal, and a
   safe creative environment in which to practice music and let their ideas flow.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

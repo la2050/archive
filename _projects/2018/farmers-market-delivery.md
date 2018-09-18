@@ -44,7 +44,7 @@ make_la_great: >-
 category: live
 organization_id: '2018120'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
-project_video: '0'
+project_video: ''
 body_class: lime
 
 ---

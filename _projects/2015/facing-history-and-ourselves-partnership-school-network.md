@@ -12,18 +12,18 @@ project_summary: >-
   increase students’ ability to relate history to their own lives; heighten
   their understanding of the origins of bigotry and hatred; and engage them in
   creating change in their communities.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
+San Gabriel Valley: ''
 San Fernando Valley: '1'
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-

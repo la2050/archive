@@ -12,12 +12,12 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
+SGV: ''
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
-OTHER: '0'
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The mission of Big Citizen HUB is to build a community of Big Citizens,
   expanding the social capital of youth through curiosity, gratitude, team, and

@@ -12,12 +12,12 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
+SGV: ''
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
-OTHER: '0'
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Mirror, Mirror Project starts with one simple idea-- to see one
   another--face to face. Mirror, Mirror sits us directly in front of a homeless

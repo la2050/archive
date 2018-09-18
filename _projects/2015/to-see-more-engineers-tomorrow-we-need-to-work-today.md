@@ -10,15 +10,15 @@ project_summary: >-
   These vehicles also will permit USC faculty, students and staff to easily
   travel to schools and community centers where they provide Hands- on
   activities,workshops, tutoring, mentoring and other services.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
+Westside: ''
 South Bay: '1'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
 'Other:': '1'

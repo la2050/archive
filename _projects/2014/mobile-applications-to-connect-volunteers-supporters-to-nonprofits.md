@@ -18,7 +18,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to rebuild our platform so that we can cut the time it takes to
   produce mobile apps down, from months to only days, as well as release web

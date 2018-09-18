@@ -9,13 +9,13 @@ organization_id: '2014038'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
+CENTRAL LA: ''
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
+SGV: ''
+SFV: ''
 SOUTH BAY: '1'
-WESTSIDE: '0'
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Leimert Park
 Which area(s) of LA does your project benefit? Other (elaborate): >-

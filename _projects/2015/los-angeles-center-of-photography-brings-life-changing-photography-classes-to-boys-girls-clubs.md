@@ -14,17 +14,17 @@ project_summary: >-
   LACP will host a final exhibit for each group in Hollywood—heightening student
   self-esteem by following through with a long-term creative project and helping
   mount the show.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: Long Beach Boys & Girls Club
 category: learn

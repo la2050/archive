@@ -17,7 +17,7 @@ facebook: coParenter
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   We are building a coParenting movement to educate, inform and empower parents
   with online dispute resolution to take a child-centric approach to separation,

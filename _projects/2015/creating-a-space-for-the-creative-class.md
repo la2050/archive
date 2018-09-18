@@ -12,16 +12,16 @@ project_summary: >-
   series of discussions to examine how craftsmanship can survive and thrive in
   our city and to create a toolkit for building LA's creative economy.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   Off The Saw is located in Downtown Los Angeles and we serve a population

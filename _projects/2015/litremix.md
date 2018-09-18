@@ -12,18 +12,18 @@ project_summary: >-
   compliant, LitRemix is based on 10 years of work through Artists for Literacy.
   It directly addresses the challenge teachers have to make the experience of
   reading books relevant to their students.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

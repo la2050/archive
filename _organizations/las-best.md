@@ -16,7 +16,7 @@ instagram: lasbestafterschool
 facebook: www.facebook.com/lasbest
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/las-best.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   The mission of LA's BEST After School Enrichment Program is to provide a safe
   and supervised after school education, enrichment and recreation program for

@@ -13,7 +13,7 @@ EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: >-
   @Thinkingabout2morrow reaches out to ALL students to promote & #encourage

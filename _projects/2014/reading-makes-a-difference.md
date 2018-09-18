@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We open with motivational Introductory Assemblies geared to each grade level,
@@ -84,7 +84,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Teamwork with a school liaison who will routinely remain in touch with The Phund throughout the program. Regular communication is vital to maintaining the quality and consistency of the program and working through any slight bumps that might occur along the way. 
    ● Hospital desire for Jester books and dolls to benefit patients.
    “The book is a perfect fit to our literacy program,” reports CHLA & others.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20485'
 maker_image_file_name: 2Barbara_with_kids.jpg

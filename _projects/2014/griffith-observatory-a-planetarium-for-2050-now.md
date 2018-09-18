@@ -66,7 +66,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   perform our new life in the universe show live in Boulder after it premieres
   in Los Angeles.
    Conversations have begun with biology and other visualization experts to identify a core group of animators to support the development of the new planetarium show. Conversations are also being held with different groups of Disney animators to assist with animation. Visualizations from NASA/JPL are likely to be incorporated. Also, a variety of scientific experts are partners to ensure accurate, authentic information.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20477'
 maker_image_file_name: 405.jpg

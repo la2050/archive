@@ -19,7 +19,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already implemented this project in some school districts in Los
@@ -59,7 +59,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    We are currently seeking support for distribution in Long Beach, Compton, Inglewood, LAUSD, Burbank, and Glendale.
    These relationships are critical to providing financial support to create the materials and to distribute them; each collaborator uses their unique relationships to leverage connections with appropriate personnel in positions of decision-making; and each collaboration validates the need for the TALK Project.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22795'
 maker_image_file_name: LA2050-pic-1_copy.jpg

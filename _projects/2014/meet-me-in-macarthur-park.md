@@ -10,14 +10,14 @@ year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/SrPeAWx2AMM/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
-OTHER: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Neighborhood Land Trust is working to revitalize MacArthur Park as a
   thriving community hub that connects Angelenos. This year, we engaged over

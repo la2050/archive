@@ -16,7 +16,7 @@ facebook: lacountylibrary
 org_type: Government
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7316447986741-team91.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   We are a library system which has the stated mission of helping its patrons
   connect, create and explore.

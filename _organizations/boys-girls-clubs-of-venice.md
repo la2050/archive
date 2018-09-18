@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Boys & Girls Clubs of Venice
 organization_website: 'https://www.bgcv.org/'
 ein: '956209203'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956209203'
 ntee_type: ''
 tags_indicators:

@@ -12,11 +12,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our coalition brings together a unique set of skills, including communication
@@ -97,7 +97,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Supporting the implementation of the largest urban rooftop solar program in the nation;
    ● Doubling Los Angeles Department of Water and Power’s (LADWP) energy efficiency budget in 2012 (LA has now doubled energy savings in the last two years); and
    ● Securing a commitment from LADWP to end the use of coal no later than 2025.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: g8ndzuZ3kKM
 body_class: lime

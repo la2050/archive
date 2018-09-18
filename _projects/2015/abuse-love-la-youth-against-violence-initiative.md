@@ -11,14 +11,14 @@ project_summary: >-
   intervention, and a training service model to address the needs of youth
   exposed to domestic violence, teen dating violence, intimate partner violence,
   sexual assault, gang violence and bullying.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'

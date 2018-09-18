@@ -13,7 +13,7 @@ tags_indicators:
   - Sustainability
   - Volunteerism
 twitter: seedcg
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/seedusa'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'

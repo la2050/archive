@@ -14,7 +14,7 @@ facebook: PatrickHenryDualImmersion
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   Our mission is to make Patrick Henry School an exciting place to learn through
   programs that promote personal growth, cultural connections, and creative

@@ -18,7 +18,7 @@ facebook: none
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   Drizzle enables low-income families to stay connected to their community and
   the world by allowing them to receive free mobile phone service and high-speed

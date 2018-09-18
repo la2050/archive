@@ -20,7 +20,7 @@ facebook: doljobcorps
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   The Filmlit Mission facilitates a curriculum engaging pupils to develop in the
   skill sets of script composition, graphic design, photography, character

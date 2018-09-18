@@ -9,13 +9,13 @@ organization_id: '2014191'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Westmont; LA County
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -75,7 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) Pace/Patience: Keeping up with the annual ‘design-document-build’ timeline is crucial to the project’s success. It must, however, be done thoughtfully in order to respond to the needs of the residents and community. As the project progresses, resident input, both past and future, can be a key part of this process.
    
    3) Commitment/Leadership: The success of the collaboration is also dependent on the full commitment to the project by both main collaborators. To highlight each other’s commitment, both parties have drafted an MoU to better frame the goals and timeline of the initiative. In addition, SCI-Arc has appointed faculty member Darin Johnstone as the project coordinator and lead. A practicing LA architect, Darin is also the director of DID, SCI-Arc's introduction to design program for high school students.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: fAQOxqwuIHk
 body_class: lime

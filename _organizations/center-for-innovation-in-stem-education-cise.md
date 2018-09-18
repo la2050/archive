@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Center for Innovation in STEM Education (CISE)
 organization_website: 'https://www.csudh.edu/cise/'
 ein: '952543028'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952543028'
 ntee_type: ''
 tags_indicators:
@@ -19,7 +19,7 @@ facebook: 'https://www.facebook.com/CSUDH/'
 org_type: Government
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   CISE brings STEM to the forefront of K-16 education by partnering with
   schools, community colleges, philanthropic and industry leaders to enable

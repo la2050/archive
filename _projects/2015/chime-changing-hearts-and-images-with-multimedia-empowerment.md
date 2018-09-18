@@ -12,18 +12,18 @@ project_summary: >-
   express their creative voice by bringing the imagination of young minds to
   life through media. CHIME also emphasizes lifelong learning through our
   benchmark ACT (Attitude, Commitment, Teamwork).
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   Ten K-8 schools will be selected, one school from each of the following areas:
   Compton, Lynwood, Gardena, Inglewood, Hawthorne, El Segundo, Venice, Lennox,

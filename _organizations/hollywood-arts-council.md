@@ -19,7 +19,7 @@ facebook: hollywoodartscouncil
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Project S.O.A.R. is an after-school and in-class arts program serving children
   in Hollywood’s public elementary schools.

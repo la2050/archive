@@ -11,12 +11,12 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Families from all over Los Angeles County visit Pershing Square.
 Which area(s) of LA does your project benefit? Other (elaborate): >-

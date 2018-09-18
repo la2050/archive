@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: 'Synaccord, LLC'
 organization_website: 'synaccord.com,synaccord.com/citydemo'
 ein: '47448496'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
@@ -17,7 +17,7 @@ facebook: 'https://www.facebook.com/synaccord'
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/synaccord-llc.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We build web apps for civil & constructive large scale conversations based on
   proven practices in face to face deliberative discussion so people can

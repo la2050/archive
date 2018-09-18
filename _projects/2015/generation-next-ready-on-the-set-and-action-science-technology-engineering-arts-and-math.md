@@ -14,16 +14,16 @@ project_summary: >-
   and students with winning ideas will be supported by science and creative
   mentors in writing a full script. Top 2 finished scripts will receive a cash
   prize at the annual SET Awards Ceremony.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
 LAUSD: '1'
 'Other:': '1'
 Please specify below: >-

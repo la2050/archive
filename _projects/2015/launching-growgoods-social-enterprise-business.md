@@ -12,17 +12,17 @@ project_summary: >-
   business plan to build a greenhouse on-site to grow and sell produce
   year-round to LA’s finest restaurants. The social enterprise business will
   employ Shelter residents, many of whom are veterans.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: 'The Salvation Army''s Bell Shelter in Bell, CA; LA County'
 category: learn

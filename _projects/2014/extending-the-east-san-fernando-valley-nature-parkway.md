@@ -9,14 +9,14 @@ organization_id: '2016093'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
+CENTRAL LA: ''
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently have a feasibility study pending at CSUN, which, once completed,
@@ -49,7 +49,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Sierra Club (letters of support; confirmed)
    CSUN (feasibility study awaiting funding; confirmed & enthusiastic)
    USC (analysis; unconfirmed)
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: O0GqacCipYM
 body_class: lime

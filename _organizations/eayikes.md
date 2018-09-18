@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Eayikes
 organization_website: eayikes.org
 ein: '462395125'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462395125'
 ntee_type: ''
 tags_indicators:
@@ -14,7 +14,7 @@ tags_indicators:
   - Youth
   - Community health
   - Underserved communities
-twitter: '0'
+twitter: ''
 instagram: '@eayikes'
 facebook: facebook.com/eayikes
 org_type: Nonprofit

@@ -15,11 +15,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Students who place in remediation are less likely to graduate from college.
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    All three of these CSUs in the Los Angeles metropolitan area bring key benefits to this project. They offer in-kind donations of the professors’ salaries, use of university equipment and space, educational outreach (tutoring, college counseling, and school orientation), and financial aid resources (FAFSA workshops). LAUSD offers in-kind donations by providing the teacher and facilities to offer the courses in the regular school day. The three factors that are critical to the success of these collaborations are buy-in from (1) LAUSD high school teachers, (2) CSU professors, and (3) administrators in both LAUSD and CSUs.
    
    The LA Bridge Project ensures buy-in from all stakeholders by linking the work of the school district and higher education institutions. We bring together high school teachers and college professors to co-teach college-level math and English courses in order to offer students the opportunity to bypass academic remediation. By working shoulder to shoulder, this project eschews the traditional blame game and serves as bidirectional professional development for both instructors and administrators.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22829'
 maker_image_file_name: College_Bridge_Logo.jpg

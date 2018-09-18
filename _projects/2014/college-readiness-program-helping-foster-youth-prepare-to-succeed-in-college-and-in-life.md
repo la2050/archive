@@ -15,11 +15,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Central to UFC’s approach is providing the foster youth in our programs with
@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Children’s Law Center, Success in Degrees, Camp Felix, First Star UCLA Bruin
   Guardian Academy, Alliance for Children’s Rights, and numerous Foster Family
   Agencies and Group Homes.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20499'
 maker_image_file_name: IMG_4794.jpg

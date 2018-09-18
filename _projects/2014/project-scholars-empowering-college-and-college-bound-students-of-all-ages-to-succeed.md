@@ -16,10 +16,10 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to increase college graduation rates of low-income students living in
@@ -77,7 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   programming, and clinical psychological services. The relationships that their
   staff build through these and other programs is a compliment to CDF's
   programming.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22531'
 maker_image_file_name: Photo_Collage_v6.jpg

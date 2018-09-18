@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Cyber Insecurity Initiative has four main phases: planning, assessment,
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    LA County EMS Agency
    California Hospital Association
    Red-E (cyber consulting firm)
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22352'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg

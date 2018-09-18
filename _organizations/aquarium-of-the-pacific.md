@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Aquarium of the Pacific
 organization_website: ''
 ein: '330532354'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330532354'
 ntee_type: ''
 tags_indicators: ''

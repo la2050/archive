@@ -13,11 +13,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to visit science teachers at fifteen or more different Title I schools
@@ -59,7 +59,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1. The collaborator's personal professional interest and commitment to working with us: hands-on science activities are not necessarily part of a teacher's job obligations, and there is often extra time and effort involved up front; we can therefore only work with teachers who have a strong interest in engaging their students in this way.
    2. The collaborator's particular needs: we're looking for teachers whose classroom needs fit our skills, experience, and equipment inventory in order to maximize our contribution to each collaborator's work.
    3. The collaborator's accessibility: we've found that the teachers whom we can serve best are those at schools located near our staff, near bus lines that our staff uses, or near university campuses from which we can recruit volunteers.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21591'
 maker_image_file_name: less.png

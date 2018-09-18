@@ -20,7 +20,7 @@ facebook: sijcc
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   The SIJCC is a home for arts, culture, education and belonging on LA’s east
   side, with numerous classes, events and other offerings devoted to supporting

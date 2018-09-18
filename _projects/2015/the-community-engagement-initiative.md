@@ -11,17 +11,17 @@ project_summary: >-
    
    It is an "evidence based practice" that examines existing evidence based community engagement strategies and assesses how existing community resources, services and programs are being utilized to coordinate these services in an effective and efficient manner.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
 Westside: '1'
 South Bay: '1'
-Antelope Valley: '0'
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'

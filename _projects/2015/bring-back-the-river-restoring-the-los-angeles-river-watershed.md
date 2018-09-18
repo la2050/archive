@@ -12,18 +12,18 @@ project_summary: >-
    The ARPP program will educate citizens about the river revitalization planned by the Army Core of Engineers on the Arroyo Seco Stream in Los Angeles County.
    
    To reach out to the community we want to establish a native plant nursery that will be the central location of our effort to reconnect the community to the LA River Watershed.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-

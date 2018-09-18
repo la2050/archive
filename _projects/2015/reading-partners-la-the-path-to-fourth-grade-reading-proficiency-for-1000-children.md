@@ -13,14 +13,14 @@ project_summary: >-
   with the support of 850 volunteers. By 2017, we intend to partner with an
   additional four to six new school sites, doubling our reach from 500 to 1,000
   children in Los Angeles area Title I schools.
-Central LA: '0'
-East LA: '0'
+Central LA: ''
+East LA: ''
 San Gabriel Valley: '1'
-San Fernando Valley: '0'
-South LA: '0'
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
 South Bay: '1'
-Antelope Valley: '0'
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'

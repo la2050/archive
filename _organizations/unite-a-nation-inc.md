@@ -19,7 +19,7 @@ facebook: uniteanationinc
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We transform lives through innovative investments in young people by focusing
   on cultural art, economic empowerment, workforce development and

@@ -16,7 +16,7 @@ facebook: N/A
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Braille Institute is a nonprofit organization whose mission is to eliminate
   barriers to a fulfilling life caused by blindness and severe sight loss.

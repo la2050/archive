@@ -13,11 +13,11 @@ tags_indicators:
   - Underserved youth
   - Youth
 twitter: '@ChildrenNow'
-instagram: '0'
+instagram: ''
 facebook: Children-Now-224016820554/
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   Children Now is LA County’s whole-child, non-partisan research, policy,
   advocacy and network-building organization dedicated to improving children’s

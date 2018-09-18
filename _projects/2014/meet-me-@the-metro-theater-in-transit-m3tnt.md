@@ -17,7 +17,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   M3TNT is a community based arts project performed on the Metro Gold line. It
   is the most innovative transit-oriented “Happening” in Los Angeles, featuring

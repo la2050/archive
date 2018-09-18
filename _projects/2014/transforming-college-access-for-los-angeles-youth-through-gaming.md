@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FutureBound’s mission is to create a suite of fun, inspiring, and educational
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three factors that will be critical to the success of our partnerships include: (1) ability to enhance distribution and expand access to LA schools and students; (2) partner resources and capabilities to help provide some of the training to local schools; and (3) a strong track record among partners of working with LA youth in the area of college access. 
    
    FutureBound has existing relationships and has worked with the following organizations: Los Angeles Unified School District; Southern California College Access Network; USC Pullias Center for Higher Education; and USC Game Innovation Lab. Potential partners include: Inglewood Unified School District; Santa Monica-Malibu Unified School District; Culver City Unified School District; TRIO & Upward Bound Program participants; Los Angeles Boys & Girls Club; LA's BEST After School Enrichment Program; and MESA Programs.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21609'
 maker_image_file_name: FutureBoundKids_w_Logo.jpg

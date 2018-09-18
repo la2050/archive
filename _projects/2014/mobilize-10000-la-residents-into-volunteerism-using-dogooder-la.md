@@ -17,7 +17,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Nothing connects Los Angelenos more than our mobile phones. They are
   everywhere. You're almost lost without one. So, how do we increase

@@ -14,7 +14,7 @@ EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: >-
   #Microfinance creating #jobs in LA by funding #foodtrucks! Each loan creates
@@ -76,8 +76,8 @@ What will you do to implement this idea/project?: >-
    When we provide a microloan to fill the financing gap for a food truck entrepreneur, Opportunity Fund also creates demand for a new food truck—supporting scores of local manufacturing jobs for people like Rocio, who is one of 23 people employed at Kareem Carts. Through our food truck financing, we foster entrepreneurship within LA’s underserved populations, support local manufacturing jobs, and create new employment opportunities for the region’s diverse and talented workforce. Opportunity Fund and our manufacturing partners are committed to expanding our impact through increased loan volume in the coming year.
    
    In addition to our unique collaboration with local food truck manufacturers, Opportunity Fund also partners with local bank branches, business services providers, and community organizations to identify small business owners who need access to financing.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
-Whom will your project benefit? Please be specific.: '0'
+How will your idea/project help make LA the best place to connect today? In LA2050?: ''
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: banana
 

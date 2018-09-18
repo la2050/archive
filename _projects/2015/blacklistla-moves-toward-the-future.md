@@ -18,12 +18,12 @@ San Gabriel Valley: '1'
 San Fernando Valley: '1'
 South LA: '1'
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   All Metro Station with Park and Rides. Also, places such as Walt Disney
   Concert Hall, LACMA, Leimart Park, Culver City Arts District, Abbot Kinney,

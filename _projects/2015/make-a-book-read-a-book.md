@@ -11,18 +11,18 @@ project_summary: >-
   each of our book arts projects can align to a specific curricular subject.
   Students and teachers learn deeply by creating connections in a given subject
   area via the making of hand-made books.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   Braddock Drive Elementary, Culver City, LA County (76% Latino); Stoner Ave
   Elementary, Culver City, LA County (91% Latino); ICEF Vista Elementary Academy

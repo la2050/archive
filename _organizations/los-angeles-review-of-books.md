@@ -14,7 +14,7 @@ facebook: lareviewofbooks
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   L.A. Review of Books runs websites with over a half million visits a month, a
   weekly radio show, print & e-publications, & events, all to promote &

@@ -17,7 +17,7 @@ facebook: N/A
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   In partnership with industry, educators, and community organizations, ITEP
   connects disadvantaged and diverse high school students to college and career

@@ -15,7 +15,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Currently we partner with schools and organizations offering bootcamps,
@@ -53,7 +53,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - DevPoint Labs is an adult coding bootcamp. They have extensive experience in teaching code, creating industry relevant code curriculum, and a network of developers and large tech companies.
    - Yes, they have provided insight and guidance for the current iteration of our curriculum
    - Consistent feedback loop on the curriculum, quality of instructor training, maintaining connections in the tech world.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21687'
 maker_image_file_name: la2050-pic-2.png

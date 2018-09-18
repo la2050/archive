@@ -18,7 +18,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Clothes The Deal has established several collaborations. Partnering agencies
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1) Attend networking events focused on employment and vocational programs, including those hosted by POWER (Providing Opportunities with Essential Resources), LA United Job Creation Council and the Department of Mental Health Case Manager Meetings. 
    2) Build relationships with local businesses and organizations that in turn provide clothing donations and host clothing drives to generate donations for us. 
    3) Annually, we have about 40 volunteers serve a total of 5,550 hours. Volunteers include youth interns from youth employment programs such as YO Watts, community service volunteers, philanthropy groups, Temporary Subsidized Employees, and ReEmployability employees.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: keXQ-tYKL9g
 body_class: lime

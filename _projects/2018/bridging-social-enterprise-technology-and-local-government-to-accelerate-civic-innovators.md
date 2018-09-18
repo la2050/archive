@@ -45,7 +45,7 @@ category: create
 organization_id: '2018028'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
-project_video: '0'
+project_video: ''
 body_class: banana
 
 ---

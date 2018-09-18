@@ -17,7 +17,7 @@ facebook: theodorepayne
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We rewild Los Angeles by bringing native plants back into the city, creating
   habitat that supports local ecosystems, and helping people fall in love with

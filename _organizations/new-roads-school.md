@@ -15,7 +15,7 @@ facebook: UPTOGOODorg
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   New Roads School is a college prep program with a unique focus on social
   justice and the arts, from which a richly diverse student population develops

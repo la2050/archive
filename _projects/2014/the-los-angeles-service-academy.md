@@ -11,9 +11,9 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: LASA teaches high school students how things work in Southern California.
 OTHER: >-
@@ -95,7 +95,7 @@ What will you do to implement this idea/project?: >-
   fact that the LASA participants get to meet high-profile decision-makers and
   leaders across a broad swath of institutions, agencies, and educational
   centers in the region.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
+How will your idea/project help make LA the best place to connect today? In LA2050?: ''
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '23401'

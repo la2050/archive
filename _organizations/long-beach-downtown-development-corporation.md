@@ -18,7 +18,7 @@ facebook: www.facebook.com/downtownlongbeach/
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Our mission is to cultivate, preserve and promote a healthy, safe and
   prosperous Downtown.

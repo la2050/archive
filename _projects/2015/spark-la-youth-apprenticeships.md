@@ -12,16 +12,16 @@ project_summary: >-
    69% of LA students drop out in 9th grade, but if mentors can ignite a spark in them—in 7th and 8th grade—students would be motivated to stay in school. With less than 1% of the LA workforce serving as a mentor, Spark could reach every off-track 7th and 8th grader.
 Central LA: '1'
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: >-
   Spark is partnered with 6 LAUSD schools, as well as workplaces throughout the
   city.

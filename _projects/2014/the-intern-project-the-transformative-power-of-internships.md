@@ -12,11 +12,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Fund launched the summer 2014 TIP pilot with 17 LAUSD students matched
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    JJ and Katie Abrams financially supported the research and development of the TIP program and Samsung Electronics provided a cash donation and an in-kind donation of 15 Samsung Galaxy Note Tablets for interns to support the social media component of the TIP pilot.
    
    The LA Fund has received positive feedback from the above business partners regarding the work of each TIP intern and their experience in acting as a host. It is our hope to work with all business partners during summer 2015. We are also beginning conversations with new businesses now for summer of 2015 participation.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: tMwKJIhKIAU
 body_class: blueberry

@@ -15,7 +15,7 @@ facebook: epageinc
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   EPage is a mobile app development company that has created and released over
   300 apps for schools, businesses, professionals, and public gardens.

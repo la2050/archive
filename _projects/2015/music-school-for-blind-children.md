@@ -10,18 +10,18 @@ project_summary: >-
   money to help with student tuition, musical instruments and teacher salary.
   The students also want to start dancing! So, we're trying to purchase shoes &
   clothes for them.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: 'The Learning Center (TLC) In Reseda, CA'
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-

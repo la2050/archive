@@ -18,7 +18,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Start up education is a new frontier, and the Incubator School is one of its
@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) the ability of both organizations to extend the reach of the curricula the collaboration develops
    
    We have not worked together in the past, but we greatly look forward to working together in the future.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 2Pjt88MXETw
 body_class: blueberry

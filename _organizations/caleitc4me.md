@@ -13,7 +13,7 @@ tags_indicators:
   - Poverty
   - Underserved communities
 twitter: '@CalEITC4Me'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/CalEITC4Me/'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'

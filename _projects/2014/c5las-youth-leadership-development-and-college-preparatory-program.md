@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   C5LA will offer leadership development, mentoring, college preparatory, and
@@ -76,7 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Working closely with existing collaborative partners to further develop our program;
    • Seeking out relationships with college preparatory programs that have been proven effective; and
    • Constantly exploring how we can partner with new organizations that serve a similar youth demographic.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21493'
 maker_image_file_name: C5LA--LA2050.jpg

@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Western Justice Center (WJC)
 organization_website: ''
 ein: '954176583'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954176583'
 ntee_type: ''
 tags_indicators: ''

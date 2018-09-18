@@ -10,13 +10,13 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22530%252Fdisplay%252FDSC01431.jpg=c570x385
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Abraham Lincoln High School in Northeast Los Angeles
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -90,7 +90,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We also collaborate with professionals within Los Angeles to better enhance the delivery of our services, through avenues of guest speaking, workshop facilitation, and tutoring and mentoring. These individuals include professors from Cal State systems, local pastors, pro bono lawyers, and financial consultants from highly ranked corporations.
    
    Moving forward, ITC will strengthen existing partnerships as well as establish new collaborations with surrounding colleges and universities, mentoring agencies, and parent advocacy agencies in East Los Angeles. These partnerships will be successful insofar as we see each other as vital in holistically impacting the trajectory of lives in East Los Angelenos; we can not view each other as competition, but must be able to share and utilize resources conducive to growth.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22530'
 maker_image_file_name: DSC01431.jpg

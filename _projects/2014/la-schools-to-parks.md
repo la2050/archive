@@ -10,12 +10,12 @@ year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/AmMHBgCHQsY/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Los Angeles Promise Zone
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -83,7 +83,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The Trust for Public Land is committed to support YPI and the City while building on similar programs like the NYC Schoolyards to Playgrounds Initiative, which has designed and built over 180 green playgrounds since 1996. The Trust for Public Land is a founding partner in the Promise Zone and works to lead park and open space development in the Zone. 
    
    Three major factors critical to success include involvement and buy-in of residents. Without this, this project cannot and will not happen. They will participate through neighborhood visioning, incubator training, and volunteering to ensure that parks are great locations for fun and play. Secondly, involvement of partners is vital. Without effective buy-in of the City of LA and the Recreation and Parks Department, and the support of LAUSD and schools, the project will not succeed. Finally, best practices offered by YPI and partners in opening schools as public parks and in providing collaborative services for residents are critical- this includes experience YPI has in building community involvement, experience People for Parks has in opening schools and parks, and components already in place to make this happen- Fast Track permitting, approval procedures, and services provided by the City in the Recreation and Parks Department.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: AmMHBgCHQsY
 body_class: strawberry

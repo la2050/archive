@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Do Good Bus
 organization_website: dogoodbus.com
 ein: '300694127'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators: ''

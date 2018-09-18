@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Phase 1: Call For Participation
@@ -86,7 +86,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   easily accessible to teachers and librarians to integrate in their programs. 
    
    Through our partnership with The Summer/City of Learning, students connected with our program will have the opportunity to participate in digital badging, a program sponsored by Mayor Garcetti’s Office. This program will enable students to map their progress through their projects and show skills gained to colleges and future employers.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

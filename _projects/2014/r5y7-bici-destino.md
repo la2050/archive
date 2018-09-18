@@ -11,13 +11,13 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22378%252Fdisplay%252Fr5y7collage.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: frogtown!
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Working with RAC Design Build we are about to what space is available. The

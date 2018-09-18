@@ -9,17 +9,17 @@ project_summary: >-
   a few simple questions to find out which political candidates have your best
   interests at heart, and have a track record to back it up.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   We will be curating local election data for all of LA County, initially
   focusing on the larger municipalities.

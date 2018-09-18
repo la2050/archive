@@ -20,7 +20,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In our initial launch, App of Life players are earning points for eating well,
   exercising, experiencing local culture, being social and taking on socially

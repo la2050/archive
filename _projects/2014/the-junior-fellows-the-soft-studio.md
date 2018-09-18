@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Soft Studio aims to be the nexus of collaboration between Los Angeles
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   county-wide, regional four year institutions and the local network of startup
   accelerators to establish a pipeline of support for emerging social
   entrepreneurs.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

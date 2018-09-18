@@ -9,17 +9,17 @@ project_summary: >-
   sustainable way to grow organic food. In the process we will educate and
   encourage the community to get involved and learn about a more
   health-conscious way of life.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
+LAUSD: ''
 'Other:': '1'
 Please specify below: Particularly focused in areas with unbuildable land.
 category: 00playlive

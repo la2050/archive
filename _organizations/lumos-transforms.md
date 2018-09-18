@@ -14,7 +14,7 @@ facebook: '@LumosTransforms'
 org_type: Social enterprise or Bcorps
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/lumos-transforms.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We develop, implement, and disseminate frameworks and tools that build
   resilience in individuals, organizations, and communities in service of

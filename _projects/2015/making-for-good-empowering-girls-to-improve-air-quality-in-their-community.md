@@ -12,15 +12,15 @@ project_summary: >-
   solutions for a Los Angeles with clean air by 2050. This project enables girls
   and others to become advocates for the change they want to see in their
   communities.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
 'Other:': '1'

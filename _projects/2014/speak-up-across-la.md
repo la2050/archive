@@ -12,12 +12,12 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
-OTHER: '0'
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to present the voices of our future leaders. By 2050, the youth of
   today will be the generation that inherits Los Angeles. One of them may even

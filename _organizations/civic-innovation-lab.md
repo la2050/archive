@@ -21,7 +21,7 @@ facebook: civicinnlab
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Civic Innovation Lab facilitates cross-sector collaboration and the creation
   of civic solutions through design challenges, structured programming, and

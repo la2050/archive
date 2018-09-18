@@ -12,12 +12,12 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
-OTHER: '0'
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beauty Bus Foundation brings beauty home to chronically or terminally ill
   individuals and their caregivers. For the past five years, Beauty Bus

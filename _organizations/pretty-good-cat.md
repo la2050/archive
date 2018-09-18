@@ -15,7 +15,7 @@ facebook: prettygoodcat
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
-project_video: '0'
+project_video: ''
 org_summary: We rescue unsponsored cats and dogs .
 areas_impacted:
   - Central LA

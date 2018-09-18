@@ -18,7 +18,7 @@ facebook: Jesterpharley
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We donate inspiring “Jester Has Lost His Jingle” books & dolls to ill children
   & help low-income students become engaged in charitable activities through

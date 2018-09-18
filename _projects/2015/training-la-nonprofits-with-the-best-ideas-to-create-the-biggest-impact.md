@@ -12,18 +12,18 @@ project_summary: >-
   Our LA2050 program will culminate with a pitch competition, where industry
   leaders and our participants will gather to showcase their bold ideas and make
   LA the best place to create change.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

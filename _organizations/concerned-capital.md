@@ -14,7 +14,7 @@ facebook: N/A
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   Concerned Capital is a social impact investment firm that leverages economic
   development tools to save/create family wage jobs in distressed communities by

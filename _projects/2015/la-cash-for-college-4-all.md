@@ -12,18 +12,18 @@ project_summary: >-
   over 150 free financial aid completion workshops, and a scholarship reception,
   empowering them to apply to college and seek financial aid. This year, we hope
   to increase aid students secure.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

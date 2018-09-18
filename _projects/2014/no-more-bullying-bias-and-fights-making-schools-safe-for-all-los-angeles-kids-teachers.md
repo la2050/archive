@@ -11,13 +11,13 @@ organization_id: '2014224'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: LA County
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -96,7 +96,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Haven is currently being tested by a volunteer team of 50 students and educators from LACHSA, Social Justice Schools: Global Issues Academy and University High School. They test the site and report needed fixes to the program consultant who is creating the site structure. The testers also evaluate content and technology to ensure that WJC is creating a user-friendly and youth-empowering product that addresses the needs of high school students committed to creating better schools.
    
    WJC values collaborations with the leadership and staff of individual schools. A single educator cannot create and/or sustain a safe and inclusive school; administrators and other school staff members must also support conflict resolution as a way to create a school climate that promotes learning. We look for this collaboration as we implement each program: educators who have the support of their administration to start an anti-bully or anti-bias or peer mediation program; a principal’s validation that students and advisers from his or her school should participate in Haven; a school’s suggestion that parents check out Haven School Tools.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

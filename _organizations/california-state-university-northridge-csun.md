@@ -17,7 +17,7 @@ facebook: CSUN_edu
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Serving nearly 40,000 students, CSUN offers programs to help develop the
   academic competencies, professional skills, critical/creative abilities, and

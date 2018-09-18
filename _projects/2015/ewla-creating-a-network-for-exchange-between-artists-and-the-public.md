@@ -9,17 +9,17 @@ project_summary: >-
   and the public to contribute to the arts. EWLA connects artists to individuals
   and businesses through mutually beneficial exchanges, with an economic,
   environmental, personal and cultural impact.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   While working countywide, EWLA’s temporary event space will be located in LA’s

@@ -10,13 +10,13 @@ year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Sustainable Little Tokyo has a clear implementation plan with the support of
@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    From the community development field, we are working with confirmed partners such as LTSC Community Development Corporation, Enterprise Community Partners, NeighborWorks America, the Local Initiatives Support Corporation, and the Low Income Investment Fund. These partners bring sophisticated understanding of real estate development and finance, equity and affordability, and capacity building. 
     
    From the environmental sector, our confirmed partners include Ecodistricts, the Natural Resources Defense Council, Global Green USA. These partners bring expertise around climate change, sustainability planning, and green technology.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 6BWp4B7O03I
 body_class: lime

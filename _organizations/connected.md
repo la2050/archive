@@ -15,7 +15,7 @@ facebook: NA
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   ConnectEd partners with school, district, and community leaders to transform
   education through career pathways so that all students, regardless of

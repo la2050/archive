@@ -68,7 +68,7 @@ make_la_great: |-
 category: connect
 organization_id: '2018110'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
-project_video: '0'
+project_video: ''
 body_class: tangerine
 
 ---

@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   When budgets are cut, those without a voice in government are the hardest hit.
@@ -65,7 +65,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Social Impact Agency. 
    
    Raise a Child, a leader in foster and adoptive parent recruitment will work with potential recruits to see them through the long and often frustrating process of certification to placement. United Friends of the Children will collaborate by providing volunteer opportunities for individuals wishing to volunteer their time and talents to advance a foster child through education.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 4hA5BjBbKm8
 body_class: blueberry

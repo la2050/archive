@@ -15,7 +15,7 @@ facebook: mdalosangeles
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   At MDA, we are fighting to free individuals — and the families who love them —
   from the harmful effects of muscle-debilitating diseases so they can live

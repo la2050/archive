@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: 'Grid110, Inc.'
 organization_website: 'http://www.grid110.org'
 ein: '474318779'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'
 ntee_type: ''
 tags_indicators:
@@ -17,7 +17,7 @@ instagram: grid110
 facebook: 'https://facebook.com/grid110'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/grid110-inc.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   Grid110 creates pathways to success for early stage entrepreneurs and
   activates the Los Angeles startup ecosystem.

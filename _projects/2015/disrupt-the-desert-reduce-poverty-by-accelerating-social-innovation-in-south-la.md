@@ -14,18 +14,18 @@ project_summary: >-
   participate in an innovative, multi-modal series of events including 3
   leadership development workshops, a 2.5 day design sprint, and a 1 day
   symposium on how to amplify the impact of So. LA nonprofits.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: Los Angeles SouthWest College
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'

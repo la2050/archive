@@ -13,17 +13,17 @@ project_summary: >-
   to attend hearings, submit comments and champion the construction of more
   places to live. An influx of new voices demanding more housing can help expand
   housing options for everyone.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   The City of Los Angeles will be our primary focus, with additional advocacy in

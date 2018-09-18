@@ -15,8 +15,8 @@ SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
-WESTSIDE: '0'
-LA COUNTY: '0'
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will work with School districts and public parks to establish the first

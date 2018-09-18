@@ -15,7 +15,7 @@ facebook: '["facebook.com/Stratiscope","facebook.com/CityImpactLabLA"]'
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/city-impact-lab-powered-by-stratiscope.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Powered by Stratiscope, the City Impact Lab empowers individuals, businesses,
   & organizations to make an impact in their community. CIL serves as a hub for

@@ -13,8 +13,8 @@ tags_indicators:
   - Policy
   - Communities of color
   - Training and development
-twitter: '0'
-instagram: '0'
+twitter: ''
+instagram: ''
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'
 org_type: Nonprofit
 project_image: >-

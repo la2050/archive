@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Alliance College-Ready Public Schools
 organization_website: www.laalliance.org
 ein: '954779029'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954779029'
 ntee_type: ''
 tags_indicators: ''

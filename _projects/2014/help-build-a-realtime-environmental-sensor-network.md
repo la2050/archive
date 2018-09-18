@@ -9,14 +9,14 @@ organization_id: '2014150'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the “Toward a Carbon Neutral House” project we propose to
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    BurroHappold International engineering firm is a confirmed partner. They will provide strategic over-sight of the process including the data collection and life-cycle assessment. They will assist directing the graduate student work and provide peer support and review of the results of this research. Further, they have interested international parties and contacts, specifically in the UK, that are conducing industrial research in this area and who would be able to share their expertise and be able to build on it.
    
    Veracity Productions will operate as a subcontractor to Home Front Build in the making of a documentary for educational and advocacy purposes: www.veracityproductions.com.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Cb6MAN2lVkg
 body_class: lime

@@ -12,17 +12,17 @@ project_summary: >-
   including JobsLA, GoMetro, MyLA 311. We will also show workers how to use
   social media apps to connect to their government representatives and local
   neighborhood councils.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   Neighborhoods of Pico Union, Downtown, Westlake, Hollywood, North Hollywood,

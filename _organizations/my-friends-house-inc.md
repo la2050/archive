@@ -11,7 +11,7 @@ tags_indicators:
   - 'Health: Healthy food'
   - Food inequality
 twitter: '@MyFriendsHse'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/My-Friends-House-Inc-436222196498017/'
 org_type: Nonprofit
 project_image: >-

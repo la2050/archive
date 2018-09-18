@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Promesa Boyle Heights at Proyecto Pastoral
 organization_website: www.promesaboyleheights.org
 ein: '953213958'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953213958'
 ntee_type: ''
 tags_indicators:
@@ -17,7 +17,7 @@ facebook: www.facebook.com/PromesaBoyleHeights
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Promesa Boyle Heights is a passionate collaborative of residents, educators,
   and organizations working together to create a community where all thrive and

@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Prototypes’ Pomona Women’s Center has been in operation since 1988, providing
@@ -70,7 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   work with East Valley Community Health Centers to provide medical care.
    
    These partnerships are long-standing and contribute to the success of our residential program. Three critical factors that have help ensure our successful collaboration is open communication on project status through reports and meetings, effective partnership agreements and mutual support on projects.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: S_0nE1f2B1w
 body_class: lime

@@ -18,7 +18,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Too many of LA’s 2.3 million children lack access to the necessary
   supports—such as high-quality early learning programs, rigorous K-12

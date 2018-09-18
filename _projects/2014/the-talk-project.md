@@ -13,10 +13,10 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   There are three main objectives for the Invisible to Invincible Campaign: 1)
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    8. Advancing Justice LA
    9. Boyle Heights Technology Youth Center/Youth Opportunity Movement
    10. Brothers, Sons, Selves Collaborative for Boys & Young Men of Color
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: ez1sypeq2hI
 body_class: lime

@@ -12,16 +12,16 @@ project_summary: >-
   showcasing the multiculturalism of LA, and expanding the awareness of other
   world cultures.
 Central LA: '1'
-East LA: '0'
+East LA: ''
 San Gabriel Valley: '1'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   Levitt Pavilion Los Angeles (MacArthur Park); Levitt Pavilion Pasadena

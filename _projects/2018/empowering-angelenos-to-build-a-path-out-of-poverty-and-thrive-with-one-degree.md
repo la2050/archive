@@ -73,7 +73,7 @@ make_la_great: >-
 category: learn
 organization_id: '2018092'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
-project_video: '0'
+project_video: ''
 body_class: blueberry
 
 ---

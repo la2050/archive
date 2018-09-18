@@ -16,10 +16,10 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MAPS and WIB will determine the effectiveness of each other’s professional
@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    City-wide to State-wide - The Workforce Innovation and Opportunity 2014 Act requires states to begin developing a statewide workforce development system. This grant will initiate approaches to develop models and systems for one city and then expand to the state. Through this collaborative effort, LA will be the catalyst for positive change.
    
    MAPS - This grant will leverage us into a different platform to demonstrate that we, in fact, have the most innovative, result-oriented school-to-college-to-work pipeline. If the results are equivalent to our previous program outcomes, our process-oriented, training approach will establish itself as a replicable model.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22607'
 maker_image_file_name: Group_pix.JPG

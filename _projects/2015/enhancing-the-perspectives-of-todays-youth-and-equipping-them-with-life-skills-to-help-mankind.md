@@ -15,18 +15,18 @@ project_summary: >-
    To educate youth about drugs, alcohol, bullying, aberrant sexual practices, and other harmful/anti-social behavior.
    
    To educate youth about the inherent dignity and human rights of other races, ethnicities, and religions, around the world.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: >-
   Various High Schools, Colleges, and Universities throughout Los Angeles
   County.

@@ -15,7 +15,7 @@ facebook: NFYInstitute
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   NFYI/LA recruits and trains grassroots leaders, works to create new
   understanding of foster families, and educates policymakers to change how

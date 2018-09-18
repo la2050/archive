@@ -19,7 +19,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already started implementing the project on a small scale by
@@ -76,7 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    California Community Colleges Initiative - Doing what Matters For Jobs and the economy (http://doingwhatmatters.cccco.edu/) - (preliminary discussions)
    
    LA Unified School District (preliminary discussions)
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20755'
 maker_image_file_name: The_Prep_Source_Resume_Workshop.png

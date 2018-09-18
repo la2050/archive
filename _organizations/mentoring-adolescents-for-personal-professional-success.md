@@ -14,9 +14,9 @@ tags_indicators:
   - Underserved youth
   - Training and development
   - Youth
-twitter: '0'
-instagram: '0'
-facebook: '0'
+twitter: ''
+instagram: ''
+facebook: ''
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/mentoring-adolescents-for-personal-professional-success.jpg

@@ -14,7 +14,7 @@ facebook: impacthub_la
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Impact Hub Los Angeles is a community hub and co-working space for socially
   conscious entrepreneurs, civic leaders, professionals and creatives.

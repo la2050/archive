@@ -19,7 +19,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A city-wide, community-based urban trails authoring platform. This web-based
   tool enables community organizations, interest groups, and the public to

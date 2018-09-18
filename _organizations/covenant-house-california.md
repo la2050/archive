@@ -15,7 +15,7 @@ facebook: N/A
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Covenant House California (CHC) is a nonprofit youth homeless shelter that
   provides sanctuary and support for homeless and trafficked youth, ages 18 to

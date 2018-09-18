@@ -19,7 +19,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Today, 20,000 children languish in LA’s foster care system. RAC will apply its
   successful model of recruiting prospective parents and helping match them with

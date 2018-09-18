@@ -14,7 +14,7 @@ facebook: cwc_losangeles
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Citizens of the World Los Angeles (CWC LA) operates three highly diverse,
   academically challenging, and community-based public charter schools currently

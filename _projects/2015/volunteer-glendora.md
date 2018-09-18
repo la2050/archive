@@ -12,17 +12,17 @@ project_summary: >-
   investing in an enclosed mobile tool trailer that would house various
   equipment needed for volunteer projects throughout the City. It is the goal of
   the City to get the community excited about
-Central LA: '0'
-East LA: '0'
+Central LA: ''
+East LA: ''
 San Gabriel Valley: '1'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: City of Glendora
 category: learn

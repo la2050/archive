@@ -18,7 +18,7 @@ facebook: brandingwhilebroke
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Continuous Good supports, shares, and builds social impact brands. Our
   flagship brand is a platform designed to equip, inspire and educate

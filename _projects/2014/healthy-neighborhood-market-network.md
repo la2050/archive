@@ -17,7 +17,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Los Angeles Food Policy Council builds the capacity of small "mom n’ pop"
   store owners in ‘food desert’ communities to thrive as good food businesses

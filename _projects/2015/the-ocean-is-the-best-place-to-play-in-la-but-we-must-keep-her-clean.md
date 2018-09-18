@@ -12,17 +12,17 @@ project_summary: >-
   because we LOVE her! We also do a lot of outreach for adults and kids of all
   ages: lectures, presentations, tabling events to let everyone know what is
   happening in the ocean.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   ANY school that will let us do a presentation, we will attend. For ocean

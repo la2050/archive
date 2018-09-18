@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MNMS currently has 20 school clubs in 4 states, most of which are based right
@@ -68,7 +68,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    At MNMS we believe in the power of collaboration and engaging the entire community; we partner with specific institutions in LA to connect kids to people in their local communities. For example, MNMS book drives run by school clubs in LA have partnered with the UCLA Olive View Hospital, the Van Nuys Library, the Platt Library, KIPP LA and other organizations and community centers to bring books to people in these communities, who may not have access to them. Other school clubs have read to children in local elementary schools, donated to shelters for at-risk youth, and made care packages for individuals in need- all relevant ways of connecting schools and students with members of their local community.
    
    We have partnered with Ashoka and Peace First. They have been content providers for some of our larger events- including the Social Entrepreneurship Camp for Young Changemakers- and continue to provide strong support for MNMS.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: A9yf6DpgLSM
 body_class: blueberry

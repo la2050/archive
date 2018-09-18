@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Shockingly, in an age when many view the Internet as ubiquitous and a
@@ -148,7 +148,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    MOCA TV 
    Self Help Graphics & Art
    Visual Communications
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21306'
 maker_image_file_name: 12_Stills_from_videos.jpg

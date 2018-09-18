@@ -17,10 +17,10 @@ South LA: '1'
 Westside: '1'
 South Bay: '1'
 Antelope Valley: '1'
-County of Los Angeles (countywide): '0'
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': >-

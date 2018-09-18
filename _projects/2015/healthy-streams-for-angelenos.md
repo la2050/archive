@@ -13,17 +13,17 @@ project_summary: >-
   water quality safety standards are exceeded. This information will be
   developed into a public awareness campaign.
 Central LA: '1'
-East LA: '0'
+East LA: ''
 San Gabriel Valley: '1'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: 0create0live
 'Describe in greater detail how you will make LA the best place to connect:': >-

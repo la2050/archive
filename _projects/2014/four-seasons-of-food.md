@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Arid Lands Institute's mission is to train designers and citizens to innovate in response to hydrologic variability brought on by climate change. ALI's vision is a water-smart built environment in the US West serving as a model for drylands globally. ALI provides an open, lab-like platform for collaborators from multiple universities, serving as a resource for the academic, public, and private sectors. Critical thinking; design excellence for the public good; and hospitality to diversity, including a rich web of collaborative partnerships that reach across cultures, generations, and sectors, are central to ALI’s programs and operations.
    
    LA-Más is a non-profit that performs design-based experiments with the city as our lab. Their mission is to look critically at systemic problems in the LA area and provide solutions based on research and community engagement.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20849'
 maker_image_file_name: NEW_IFCLOGO.jpg

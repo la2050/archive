@@ -12,11 +12,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CFY will provide wrap-around support for students, teachers, and families at 5
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Additionally, we plan to work with additional school partners on select portions of the Digital Learning Program. We are still in the process of securing those additional partners.
    
    CFY also works closely with other leaders in the digital learning and educational technology space. We were a member of the Los Angeles Next Generation Learning Systems collaboration that submitted a proposal to the Gates Foundation to scale personalized learning district-wide. Members of the team included LAUSD, KIPP LA, and the Partnership for Los Angeles Schools. CFY has also partnered with Alliance College-Ready Public Schools to provide a portion of their blended learning professional development during their summer institute for teachers.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: HIVY5tBE450
 body_class: blueberry

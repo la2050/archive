@@ -19,7 +19,7 @@ facebook: n/a
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We foster practices that awaken connection to self, others, and the natural
   world; council - the circle practice of listening and speaking from the heart

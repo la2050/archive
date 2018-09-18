@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Positive Minded People
 organization_website: www.positivemindedpeople.com
 ein: '471474958'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471474958'
 ntee_type: ''
 tags_indicators: ''

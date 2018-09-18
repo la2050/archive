@@ -11,13 +11,13 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21750%252Fdisplay%252Fsafari.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Expo line originates in downtown Los Angeles, and then ends in Santa

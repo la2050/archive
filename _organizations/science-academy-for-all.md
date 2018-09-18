@@ -18,7 +18,7 @@ facebook: 'https://www.facebook.com/profile.php?id=100025256641530'
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Science Academy For All provides opportunity for science through
   contextualized learning for all backgrounds and all ages.

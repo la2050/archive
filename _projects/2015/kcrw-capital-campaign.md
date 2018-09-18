@@ -12,18 +12,18 @@ project_summary: >-
   Invest in programming that moves KCRW to new levels of excellence; and (3)
   Create digital technologies that promote KCRW’s mission amid an ever-changing
   media landscape.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-

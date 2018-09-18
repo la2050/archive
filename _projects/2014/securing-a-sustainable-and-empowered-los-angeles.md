@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will use publicly available information available from the US EPA about
@@ -71,7 +71,7 @@ What will you do to implement this idea/project?: >-
 How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   We don't have any outside collaborators but several researchers at UCLA are
   part of the MyAir LA team.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22723'
 maker_image_file_name: 5971_LASC_Poster_07_(1).jpg

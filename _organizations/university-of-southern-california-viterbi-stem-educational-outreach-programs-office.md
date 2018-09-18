@@ -24,7 +24,7 @@ facebook: uscviterbi
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   STEM Educational Outreach Programs (STEM-EOP) serves educationally
   disadvantaged students with the goal to increase the number of students who

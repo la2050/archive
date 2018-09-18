@@ -10,13 +10,13 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22512%252Fdisplay%252FBoom_Map_300dpi_1200px_wide.jpeg=c570x385
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: 'Although based in Culver City, we serve families across LA County.'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -61,7 +61,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    As part of an extensive outreach plan, Achievable is looking to become the medical home of choice for many new L.A. Care clients. Serving as a medical home to L.A. Care clients places our clinic in a strategic position to contribute significantly towards L.A. Care Health Plan’s Triple Aim goals of achieving excellent patient outcomes, excellent patient experiences, and cost effectiveness and efficiency on behalf of our shared clients. To that end, we seek to improve patient experiences while minimizing long-term medical costs through an integrated, whole-person approach to addressing the ongoing healthcare needs of our community members. 
    
    If we can demonstrate the effectiveness of this strategy working with WRC, this could be expanded to the other Regional Centers across LA County that together serve tens of thousands of individuals with developmental disabilities.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22512'
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg

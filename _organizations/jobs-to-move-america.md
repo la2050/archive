@@ -18,7 +18,7 @@ facebook: JobstoMoveAmerica
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1741937194741-team89.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Jobs to Move America (JMA) is a national organization- headquartered in
   LA-dedicated to re-invigorating our manufacturing economy through good jobs &

@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Children's Action Network
 organization_website: www.fostermore.org
 ein: '943213100'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943213100'
 ntee_type: ''
 tags_indicators:

@@ -34,7 +34,7 @@ category: learn
 organization_id: '2018006'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg
-project_video: '0'
+project_video: ''
 body_class: blueberry
 
 ---

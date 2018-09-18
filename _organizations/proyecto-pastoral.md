@@ -19,7 +19,7 @@ facebook: proyectopastoral
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a collaboration
   of families, educators & orgs working to ensure all children in BH have access

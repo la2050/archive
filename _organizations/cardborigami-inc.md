@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Cardborigami Inc
 organization_website: 'http://www.cardborigami.org'
 ein: '274595299'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274595299'
 ntee_type: ''
 tags_indicators:

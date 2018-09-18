@@ -17,7 +17,7 @@ facebook: tlfcci
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   Strengthen quality child care and early education through participation in and
   education of health and wellness initiatives.

@@ -15,13 +15,13 @@ project_summary: >-
   civic spaces and build community through creating healthy and happy places for
   people of all ages to “play”.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
 South LA: '1'
-Westside: '0'
+Westside: ''
 South Bay: '1'
-Antelope Valley: '0'
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'

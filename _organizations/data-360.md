@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Data 360
 organization_website: 'http://data360.solutions'
 ein: '813780149'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
@@ -15,11 +15,11 @@ tags_indicators:
   - Underserved communities
   - Youth
 twitter: '@data360me'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/data360solutions/'
 org_type: Forprofit
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   We expand people's possibilities by empowering people to create a new future
   with data and technology.

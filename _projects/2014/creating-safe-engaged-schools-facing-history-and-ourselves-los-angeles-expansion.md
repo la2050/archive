@@ -14,11 +14,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Facing History reaches students through their teachers, providing professional
@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In addition to the work with individual schools, we convene teachers, administrators, students and parents from partner schools across Los Angeles, both in person and online. Teachers, who too often work in isolation, can now regularly connect with educators from other schools who face similar challenges. Collaboration and idea-sharing within the network has been greatly enhanced through the Los Angeles Network blog (lanetwork.facinghistory.org). The blog provides a flexible forum for educators and Facing History staff to share ideas, challenges, and solutions for addressing issues they confront in the classroom. This online community serves as a networking tool for teachers within and beyond the Los Angeles Partnership Schools Network. 
    
    Facing History is investing significantly in a core group of exemplary Facing History educators to serve as mentors for other teachers in Los Angeles. Teacher leaders are early adopters in piloting Facing History’s new resources, and are instrumental in supporting liaisons from the Los Angeles Partnership Network. Collaboration with our teacher leaders is a critical factor in helping Facing History respond to the needs of teachers, build stronger school-wide programs, and continue expanding to more urban schools.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

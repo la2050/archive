@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: '1'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Arts LANDed is a neighborhood-based artist-in-residence program at local

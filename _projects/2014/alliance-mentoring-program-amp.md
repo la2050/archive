@@ -16,7 +16,7 @@ SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
-WESTSIDE: '0'
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: LA County
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -93,7 +93,7 @@ Whom will your project benefit? Please be specific.: >-
    The colleges and universities provide vital first year services to incoming freshman, including academic preparedness resources (via tutoring services, counseling, workshops and school orientation programs) and financial hardship resources (via financial aid, financial counseling, and work study). Additionally, several participating colleges visit Alliance high school campuses to educate and enroll incoming Alliance freshman in first year, university-based support programs and placement exams. Others have hosted orientation days specifically for Alliance alumni and incoming Alliance freshman, including discussion of the peer mentoring program. 
    
    Alliance through its college counselors, AMP coordinators and, most importantly, AMP mentors provide the necessary social and cultural capital to leverage the resources provided by the colleges and universities. Alliance mentors serve as extended outreach for college and university first-year completion programs.
-empty_column_1: '0'
+empty_column_1: ''
 maker_image_id: '20500'
 maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
 body_class: blueberry

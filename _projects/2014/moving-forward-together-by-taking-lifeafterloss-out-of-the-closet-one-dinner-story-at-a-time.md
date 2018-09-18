@@ -13,13 +13,13 @@ project_image: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.htm
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through beautiful, unstructured dinner parties hosted by friends for friends,
   we invite those who’ve experienced significant loss--a parent, a partner, a

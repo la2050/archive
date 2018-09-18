@@ -17,7 +17,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Patterned after the Olympic Games, the Special Olympics World Games occur
   every two years alternating between Winter and Summer. LA 2015 will be the

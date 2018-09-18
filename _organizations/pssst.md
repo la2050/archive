@@ -15,7 +15,7 @@ facebook: pssst.xyz
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   PSSST is an artist-run interdisciplinary nonprofit exhibition and performance
   space founded on the principle of artists supporting artists.

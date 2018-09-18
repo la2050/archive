@@ -15,7 +15,7 @@ facebook: la_mag
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   L.A. magazine is the single most powerful media voice in the region,
   delivering content that encourages Angelenos to act, discover and connect in

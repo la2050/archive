@@ -13,11 +13,11 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
-OTHER: '0'
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through our work we know that sharing leads to more connected, resilient and
   sustainable communities. As part of Shareable’s Sharing Cities Network, we

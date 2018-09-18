@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The curriculum was created by East Los Angeles College instructors in
@@ -128,7 +128,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Variety Boys & Girls Club
    Watts / Willowbrook Boys & Girls Club
    West Valley Boys & Girls Club
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: JAZZ3YBKHzY
 body_class: blueberry

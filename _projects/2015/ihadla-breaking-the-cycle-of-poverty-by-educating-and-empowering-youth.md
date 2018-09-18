@@ -12,18 +12,18 @@ project_summary: >-
   “Dreamers” attend our in-school, after-school & summer programs that prepare
   them for academic & emotional success; each student is eligible for an $8,000
   scholarship from us upon completing high school.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: >-
   Sunrise Elementary School in Boyle Heights, 99th Street Elementary and Animo
   James B. Taylor in Watts, and multiple high schools in Inglewood

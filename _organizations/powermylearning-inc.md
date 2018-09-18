@@ -14,7 +14,7 @@ facebook: PowerMyLearning
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1786791705741-team89.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   PowerMyLearning helps students in low-income communities, together with their
   teachers and families, harness the power of digital learning to improve

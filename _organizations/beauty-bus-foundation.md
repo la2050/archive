@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Beauty Bus Foundation
 organization_website: www.beautybus.org
 ein: '263075655'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263075655'
 ntee_type: ''
 tags_indicators: ''

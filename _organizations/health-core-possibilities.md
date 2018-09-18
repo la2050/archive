@@ -11,8 +11,8 @@ tags_indicators:
   - Environmental Quality
   - Public Safety
 twitter: '@lizettealvare15'
-instagram: '0'
-facebook: '0'
+instagram: ''
+facebook: ''
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg

@@ -12,17 +12,17 @@ project_summary: >-
   and "restorative practices" programs and to collaborate on the design and
   construction of a dedicated council space at one of those schools.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: >-
   Gardner St. Elem. School, LAUSD, Hollywood; Valor High School, Panorama City;
   Valor Middle School, North Hills; Rise Kohyang Middle School, Koreatown;

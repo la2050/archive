@@ -16,8 +16,8 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
-OTHER: '0'
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ACT-LA will make LA the best place to Connect because we will develop a cadre
   of Angelenos with skills and ability to shape the future of development around

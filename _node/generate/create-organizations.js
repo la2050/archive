@@ -216,6 +216,9 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
   // console.dir(data)
 
+  for (let prop in data) {
+    if (data[prop] === '0') data[prop] = ''
+  }
   data = fixDataCharacters(data);
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-

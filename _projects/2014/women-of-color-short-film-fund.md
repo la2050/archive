@@ -13,7 +13,7 @@ EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: >-
   LA takes leap to change Hollywood statistics and the future of cinema with a

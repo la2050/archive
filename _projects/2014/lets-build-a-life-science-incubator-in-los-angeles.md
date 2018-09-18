@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will gradually build out our support for LA area biotech startups as we
@@ -72,7 +72,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    X-PRIZE Foundation – the Director of Life Science competitions for the X-PRIZE Foundation is a co-founder of this project. This will ensure that LA-based innovators have access to new competitions and opportunities. A new Life Science incubator in LA will form a central role in promoting and supporting LA innovators' responses to new X-Prize challenges in the Life Sciences.
    
    Pasadena Bioscience Collaborative (PBC) – This biotech incubator in Pasadena currently supports 18 companies across three separate locations. The PBC will offer us experienced advice about running a life science incubator, and access to an existing base of investors and supporters of the Life Sciences industry from the San Gabriel Valley. Our collaboration will be mutually beneficial by expanding available space for startups, providing a link between the LA Basin and San Gabriel Valley biotech communities, and enhancing access between innovators and investors across the LA region.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: banana
 

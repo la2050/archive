@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Elusive Minds Productions
 organization_website: www.elusiveminds.com
 ein: '470919488'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators: ''

@@ -15,7 +15,7 @@ facebook: Inspired_Parenting
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3788557564741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Educational organization that promotes collaborative community models of
   education through play.

@@ -11,16 +11,16 @@ project_summary: >-
   nature-filled learning centers. 
    Urban Nature Expressed - To provide an artistic platform and Pop-Up gallery for under-served youth to showcase their interpretations of urban nature in LA, where students interact with the public.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   Ballona Wetlands, Baldwin Hills Scenic Overlook State Park, Kenneth Hahn State

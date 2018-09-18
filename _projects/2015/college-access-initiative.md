@@ -11,18 +11,18 @@ project_summary: >-
   comprehensive, high-quality, outcome driven program designed to keep middle
   school and high school students on the path towards their college and career
   goals.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
+Westside: ''
 South Bay: '1'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-

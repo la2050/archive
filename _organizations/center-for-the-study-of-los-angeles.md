@@ -15,7 +15,7 @@ facebook: LMUstudyLA
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   The Center for the Study of Los Angeles is a leading undergraduate research
   center, conducting public opinion surveys, exit polling, and leadership and

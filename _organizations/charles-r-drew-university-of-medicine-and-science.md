@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Charles R. Drew University of Medicine and Science
 organization_website: www.cdrewu.edu
 ein: '956151774'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956151774'
 ntee_type: ''
 tags_indicators:

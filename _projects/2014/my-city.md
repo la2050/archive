@@ -17,7 +17,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MyCity is a web & mobile app that bridges Travelers with local Tour
   Specialists. Mass commercialized tours are prevalent as a one-size fits all

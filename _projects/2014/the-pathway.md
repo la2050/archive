@@ -15,8 +15,8 @@ SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
-WESTSIDE: '0'
-LA COUNTY: '0'
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will implement this project through a four-pronged approach, 1) scale up a
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Factor #2 - Donated items: To improve the health, safety and well-being of children living in poverty, and in turn, the sustainability of our partners’ services, we need to have access to essential gear, products and services that will positively impact the lives of children and families we serve. 
    
    Factor #3: - Communication: Because we are not working directly with the individuals we serve, it is imperative that we have an open and reciprocal line of communication with partner CBOs. We must respond to their needs in a timely fashion, and they must strongly communicate the impact of our donations so we can continue to obtain items from generous corporations, retailers, and individuals.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: A3zOCbnCHLg
 body_class: lime

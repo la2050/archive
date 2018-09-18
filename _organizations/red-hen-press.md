@@ -18,7 +18,7 @@ instagram: '@redhenpress'
 facebook: RedHenPress
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   Red Hen Press is committed to discovering and publishing works of literary
   excellence, supporting diversity, and promoting literacy in our local schools.

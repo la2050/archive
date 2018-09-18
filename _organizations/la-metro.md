@@ -15,7 +15,7 @@ facebook: metrolosangeles
 org_type: Government
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   LA Metro is a multimodal mobility agency that transports 1.4 million
   passengers daily on bus, light rail, heavy rail, bus rapid transit.

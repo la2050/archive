@@ -17,7 +17,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Ignite has teamed up with experienced educators in LA and across the nation to
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Dr. Anthony Galla is 20 year educator and current Elementary Assistant Superintendent in the LA Archdiocese. A former principal of St. Francis de Sales with classroom experience from K through college, with a majority as a Jr. high school history teacher. He also writes grants, assists with school finance policy, and contributing EdTech resources. His vast experience has helped shape Ignite during alpha. He regularly provides the group with commentary regarding EdTech and how he's seen it evolve from his various perspectives as an educator and admin. His use of Ignite will extend to its beta phase, where he will use the app to develop classroom and faculty functions.
    
    All confirmed.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20940'
 maker_image_file_name: la2050.png

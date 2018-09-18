@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In 2013, the national Campaign for Grade-Level Reading invited FIS to serve as
@@ -87,7 +87,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Reciprocity: Collaboration works when it is mutually beneficial. Our education partners clearly share the goal of improved student success, the business community benefits from a more skilled and career-ready workforce and many of our philanthropic partners are able to support a vital community effort while exposing their brand to a broad audience.
    
    Clear Expectations: Partner roles are clearly defined to maximize efficiency and establish accountability to ensure all goals are met.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: C1uVBoRtQ74
 body_class: blueberry

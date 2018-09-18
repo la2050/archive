@@ -14,7 +14,7 @@ facebook: nomadicdivision
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   LAND presents museum-quality contemporary art for broad audiences to encounter
   in their everyday lives, enabling artists to work in nontraditional sites,

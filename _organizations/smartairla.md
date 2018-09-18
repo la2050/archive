@@ -11,12 +11,12 @@ tags_indicators:
   - Health
   - 'Environmental Quality: Community health'
   - Green technology
-twitter: '0'
+twitter: ''
 instagram: SmartAirLA
 facebook: www.facebook.com/smartairla
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
-project_video: '0'
+project_video: ''
 org_summary: >-
   SmartAirLA deploys smart inhalers to high-risk asthmatic children in
   underserved communities in Los Angeles County. Smart inhalers monitor

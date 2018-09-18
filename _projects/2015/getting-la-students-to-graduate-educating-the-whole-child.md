@@ -14,16 +14,16 @@ project_summary: >-
   referrals services that address those needs.
 Central LA: '1'
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-

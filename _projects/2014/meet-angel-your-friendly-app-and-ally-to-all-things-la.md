@@ -17,7 +17,7 @@ SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
 LA COUNTY: '1'
-OTHER: '0'
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA has unfortunately been known as one of the "UNFRIENDLIEST" cities in the
   U.S and in 2013 alone, was ranked #6. LET'S CHANGE THAT. This is where we come

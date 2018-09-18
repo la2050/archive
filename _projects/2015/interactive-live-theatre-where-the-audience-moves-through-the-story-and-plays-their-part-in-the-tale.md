@@ -10,18 +10,18 @@ project_summary: >-
   This new and innovative type of theatre has been a wild hit here in LA. Yet we
   remain a small theatre company in need of funds to keep the momentum going and
   build our next year-round play here in LA.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: play
 'Describe in greater detail how you will make LA the best place to connect:': >-

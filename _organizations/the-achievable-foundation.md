@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: The Achievable Foundation
 organization_website: ''
 ein: '954552419'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954552419'
 ntee_type: ''
 tags_indicators: ''

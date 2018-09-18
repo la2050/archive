@@ -8,17 +8,17 @@ project_summary: >-
   We would like to set up an incubator facility for our clients to use as
   workspace, office space and a store front.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

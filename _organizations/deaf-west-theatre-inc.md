@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: 'Deaf West Theatre, Inc.'
 organization_website: 'http://www.deafwest.org'
 ein: '954315054'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954315054'
 ntee_type: ''
 tags_indicators: ''

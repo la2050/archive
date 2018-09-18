@@ -12,18 +12,18 @@ project_summary: >-
   1)SuperDock, a new platform to load and unload container ships, 2)Freight
   Pipeline; an underground container shuttle under existing freeways connecting
   four counties, and 3)last mile truck feeder terminals.
-Central LA: '0'
+Central LA: ''
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: 'The La Kretz Innovation Campus 411 S. Hewitt St. LA, CA 90013'
 category: create
 'Describe in greater detail how you will make LA the best place to connect:': >-

@@ -10,14 +10,14 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20237%252Fdisplay%252FCLF_Balcony-HOUSE_on_MAIN_ST-GROUP_SHOT-CLF.jpg=c570x385
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The CLF will hire a staff of the very best computer science instructors who
@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   collaboration by means of our offering LAUSD students these workshops
   absolutely free-of-charge, and to supplement the few computer science classes
   they have (if any).
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20237'
 maker_image_file_name: CLF_Balcony-HOUSE_on_MAIN_ST-GROUP_SHOT-CLF.jpg

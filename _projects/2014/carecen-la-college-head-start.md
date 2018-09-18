@@ -11,13 +11,13 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21279%252Fdisplay%252F20121102_193319.jpg=c570x385
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For the past two years, CARECEN has been building momentum to continue
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1. Creating a culture where academic enrichment and college readiness are the standard. 
    2. Partnering with local colleges, universities and other community-based organizations to create a network of collaborative partners willing to help students create a transition plan toward college-life. 
    3. Working together (CARECEN and Civitas) influencing a lasting change in the Westlake/Pico-Union community by raising awareness for higher academic standards and college readiness.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21279'
 maker_image_file_name: 20121102_193319.jpg

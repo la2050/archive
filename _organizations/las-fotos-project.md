@@ -18,7 +18,7 @@ facebook: lasfotosproject
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Las Fotos Project is a photography mentoring program for teenage girls. We
   partner with schools, community groups, and libraries to create brave spaces

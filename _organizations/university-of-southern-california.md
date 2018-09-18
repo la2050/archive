@@ -9,7 +9,7 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators: ''
 twitter: '["@NDSC_LA","@USCPriceCSI"]'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/PriceSocialInnovation'
 org_type: Nonprofit
 project_image: >-

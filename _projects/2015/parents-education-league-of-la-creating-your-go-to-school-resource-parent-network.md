@@ -15,17 +15,17 @@ project_summary: >-
    1) offer comprehensive and robust access to school and educational resources via live streaming, mobile application, webinars, an interactive map; &
    2) develop and activate a City-Wide Network of parents and educational leaders
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
 San Fernando Valley: '1'
-South LA: '0'
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

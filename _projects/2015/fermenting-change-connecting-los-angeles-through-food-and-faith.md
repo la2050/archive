@@ -13,17 +13,17 @@ project_summary: >-
   we build relationships across religious and cultural barriers to create an
   interconnected and resilient Los Angeles.
 Central LA: '1'
-East LA: '0'
+East LA: ''
 San Gabriel Valley: '1'
 San Fernando Valley: '1'
-South LA: '0'
+South LA: ''
 Westside: '1'
-South Bay: '0'
-Antelope Valley: '0'
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: ''
 category: live
 'Describe in greater detail how you will make LA the best place to connect:': >-

@@ -24,7 +24,7 @@ facebook: saferefuge
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0952754165741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Safe Refuge is a place where people who are struggling can come to discover a
   supportive and caring recovery community through a continuum of care approach

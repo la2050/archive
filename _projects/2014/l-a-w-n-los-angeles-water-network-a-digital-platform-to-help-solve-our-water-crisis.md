@@ -18,7 +18,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Undevelopment One will be the pilot project for a hoped for network of
@@ -75,7 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   ecosystems might look like for many decades.
    
    It should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 2qWrLJakj5M
 body_class: lime

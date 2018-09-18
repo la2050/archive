@@ -11,13 +11,13 @@ organization_id: '2016048'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
+CENTRAL LA: ''
 EAST LA: '1'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Boyle Heights
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -86,7 +86,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1. The partnership with LAUSD and PLAS gives CTBH access to information that allows CTBH to monitor, intervene and support our students’ academics increasing successful academic outcomes for our students.
    2. Our collaboration with the City of Los Angeles shows that LA is deeply invested in making sure that students in Boyle Heights succeed. 
    3. As part of the Boyle Heights Learning Collaborative, and through our relationships with other CBOs, CTBH coordinates with other non-profits who support our students’ non-academic and social/emotional needs.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: DcSdvVTv_Cg
 body_class: blueberry

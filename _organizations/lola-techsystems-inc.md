@@ -4,13 +4,13 @@ year_submitted: 2018
 organization_name: 'Lola Techsystems, Inc.'
 organization_website: www.lolatechsystems.com
 ein: '472037575'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
   - Education
 twitter: '@lolahelps'
-instagram: '0'
+instagram: ''
 facebook: '@lolahelpsme'
 org_type: Forprofit
 project_image: >-

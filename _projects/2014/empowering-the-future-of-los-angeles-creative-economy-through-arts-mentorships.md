@@ -12,11 +12,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   DSTL Arts has been in operation for the past year and a half providing
@@ -97,7 +97,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1. Infrastructure for managing more student mentorships and new volunteer recruitment and training
    2. A centralized location for regular student art shows and performances
    3. Ability to hire staff that can fully dedicate time and resources for the management and implementation of all our programs and services
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

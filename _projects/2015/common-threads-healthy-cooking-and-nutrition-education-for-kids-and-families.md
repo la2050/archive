@@ -12,18 +12,18 @@ project_summary: >-
   their own. During the 2015-2016 school year, we will partner with 15 Los
   Angeles schools to implement our proven programming, thereby reaching a total
   of 3,649 individuals.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
-City of Los Angeles (citywide): '0'
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-

@@ -15,7 +15,7 @@ facebook: stevenechavez
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: Landscape Architecture
 areas_impacted:
   - Central LA

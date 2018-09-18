@@ -13,15 +13,15 @@ project_summary: >-
    We’d like your help to capitalize on the momentum from our pilot (Jan-March 2015) and the partnerships we have since developed to launch PWM in schools across LA, focusing our impact on at-risk students.
 Central LA: '1'
 East LA: '1'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: >-
   We can run programs wherever our partners, Green Dot Public Schools, and The

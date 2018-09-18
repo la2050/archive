@@ -18,7 +18,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Three key resources underpin the economic, social, and environmental
@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Public: We will shift our public communications from broadcasts to dialogues. With increased interaction, we hope that LA citizens will learn about the proposed project, draw inspiration from it, and get involved. Critical Success Factor: An engaged and supportive Los Angeles community is essential. 
    
    With our partners, we will create a shared vision of the future, communicate openly and directly about opportunities and challenges, increase access to all types of resources (monetary, intellectual, data, etc.), and make progress on our collective commitment to the 2050 goals.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: JB5MXGkG79E
 body_class: lime

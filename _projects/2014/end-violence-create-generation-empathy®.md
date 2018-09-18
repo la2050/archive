@@ -9,13 +9,13 @@ organization_id: '2015190'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: >-
   Our pilot program will be in the Boyle Heights area, then expand to greater
@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Resurrection Church
    Boyle Heights Neighborhood Coalition
    Roosevelt High School
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: strawberry
 

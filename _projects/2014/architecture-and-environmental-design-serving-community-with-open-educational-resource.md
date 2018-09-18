@@ -130,7 +130,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   continue helping us outreach to people of color to be active participants in
   the built environment as designers, architects, engineers, scientists and
   leaders.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Rbh4r1scbVc
 body_class: blueberry

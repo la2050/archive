@@ -10,14 +10,14 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Avalon Green Alley Network Demonstration Project is leading efforts to
@@ -83,7 +83,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    o Council for Watershed Health: Monitoring support for stormwater BMPs
    o Council District 9: Important partner and supporter for project. Essential support with alley closure piece and other logistics and community relations support
    o Los Angeles Police Department: Attends monthly platicas and works with residents to discuss safety and community issues
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20215'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg

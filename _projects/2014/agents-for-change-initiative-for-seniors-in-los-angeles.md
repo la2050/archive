@@ -1,18 +1,18 @@
 ---
 project_id: '4102199'
 title: AGEnts for Change Initiative for Seniors in Los Angeles
-project_summary: '0'
+project_summary: ''
 category: connect
 organization_id: '2014085'
 year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: 'Mid-City MacArthur Park Area, Hollywood and Echo Park'
 LA COUNTY: John Kotick

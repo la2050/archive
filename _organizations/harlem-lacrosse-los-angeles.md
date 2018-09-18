@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: Harlem Lacrosse - Los Angeles
 organization_website: www.harlemlacrosse.org
 ein: '451634118'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451634118'
 ntee_type: ''
 tags_indicators:

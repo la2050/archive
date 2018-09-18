@@ -13,17 +13,17 @@ project_summary: >-
   making informed and intuitive decisions about their bodies, sexualities,
   reproductive and mental health.
 Central LA: '1'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
 South LA: '1'
-Westside: '0'
+Westside: ''
 South Bay: '1'
 Antelope Valley: '1'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: >-
   LACC, Cal State LA, Cal State Dominguez, Cal State Northridge, Cal State Long
   Beach, USC, UCLA, Southwest College, LA Trade Tech, Cal State El Camino, SMCC

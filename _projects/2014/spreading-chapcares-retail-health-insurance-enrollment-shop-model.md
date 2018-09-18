@@ -12,7 +12,7 @@ EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: >-
   RUN4YOURLIFE - 10K Walk/Run where you get paid to participate. Mobile app
@@ -55,8 +55,8 @@ What will you do to implement this idea/project?: >-
   for LA.
    
    These have not bee secured but we are in the process now of getting them.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
-Whom will your project benefit? Please be specific.: '0'
+How will your idea/project help make LA the best place to connect today? In LA2050?: ''
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: lime
 

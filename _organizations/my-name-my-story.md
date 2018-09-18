@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: My Name My Story
 organization_website: ''
 ein: '300572278'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators: ''

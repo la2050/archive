@@ -21,7 +21,7 @@ facebook: laincubator
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   LACI incubates early stage cleantech companies and helps bring their products
   and services to market by convening investors, corporations, and customers to

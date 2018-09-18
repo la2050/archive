@@ -17,7 +17,7 @@ facebook: the_billboard_creative
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   TBC stages art shows on LA billboards in order to create attention for
   emerging artists who often lack access to conventional channels, and to bring

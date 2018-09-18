@@ -17,7 +17,7 @@ facebook: dearmamala
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Dear Mama provides the L.A. community with affordable, healthy alternatives to
   animal-based products, while providing education and empowerment on healthy

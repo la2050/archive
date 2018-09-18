@@ -9,15 +9,15 @@ organization_id: '2014082'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
-OTHER: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Resilient South LA nonprofits will become local capacity builders and earn
   income as community-based consulting firms. Organizations that have shown

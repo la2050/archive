@@ -14,18 +14,18 @@ project_summary: >-
   arts and sustainability through a program of exhibitions and workshops that
   emphasize community, connection and the exchange of ideas between people of
   all backgrounds and ages.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
 South Bay: '1'
-Antelope Valley: '0'
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: 'San Pedro, Los Angeles, South Bay'
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

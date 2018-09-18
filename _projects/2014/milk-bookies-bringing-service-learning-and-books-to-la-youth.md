@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In conjunction with the Mayor's office, we will select 1,000 Los Angeles
@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have had the opportunity to explain our project to the Mayor's office and discuss our program. We have spoken with LAUSD teachers and know that there is a NEED FOR SERVICE LEARNING PROJECTS that are not time consuming for them. Everything will be in place for the classrooms including supplies, teacher outlines and lesson plans, and volunteers and recipients.
    
    Having the opportunity for EVALUATION within the schools and classrooms is another key factor to determine the success of the collaboration. We will collect as many surveys and information as possible from the children and the teachers after their "book raisers."
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: _PVTw0r1Njg
 body_class: blueberry

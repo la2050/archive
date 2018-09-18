@@ -9,14 +9,14 @@ organization_id: '2014155'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/uz4evo3B7qw/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We train and supply the professional theater artists, and continue our 20 year
@@ -55,7 +55,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   standing invitation to work with their vets, but have not, of late, been able
   to fund our work. With funding, IW is definitely invited to work with these
   organizations.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: uz4evo3B7qw
 body_class: lime

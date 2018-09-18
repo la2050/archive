@@ -2,7 +2,7 @@
 organization_id: '2018122'
 year_submitted: 2018
 organization_name: The People of Change
-organization_website: '0'
+organization_website: ''
 ein: ''
 zip: '90014'
 charity_navigator_url: ''
@@ -20,7 +20,7 @@ facebook: 'https://www.facebook.com/thepeopleofchange/'
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/the-people-of-change.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   The People of Change programs promote advancement opportunities through
   community based initiatives in the fields of education, income, cultural

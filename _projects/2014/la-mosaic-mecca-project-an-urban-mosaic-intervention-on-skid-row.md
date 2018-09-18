@@ -13,9 +13,9 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: All visitors of Mosaic Mecca public art installation
 Which area(s) of LA does your project benefit? Other (elaborate): >-

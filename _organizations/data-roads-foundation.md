@@ -15,7 +15,7 @@ tags_indicators:
   - Small business
   - Women’s advocacy
 twitter: '@jared4dataroads'
-instagram: '0'
+instagram: ''
 facebook: 'https://www.facebook.com/dataroads/'
 org_type: Nonprofit
 project_image: >-

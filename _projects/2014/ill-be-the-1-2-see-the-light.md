@@ -10,11 +10,11 @@ project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through service learning educational programs, student made documentary films,
@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Arts and Entertainment Industry– partnering with film schools such as LA Film so students will be exposed to the entertainment industry through media projects we build with the students.
    
    Three factors critical to the success of our collaboration: 1) regular and open communication. Not a lot of institutions are used to working in such a collaborative and innovative way. There’s a lot of disconnects and “re-invent the wheel” stuff in the non-profit world and entertainment industry here. By putting the focus on the youth and not on any one organization, we give the power over to the people and encourage a much higher level of organization. There’s a learning curve in and of itself in this collaboration. We are staffed at IBT1 with experts in empowerment and leadership training and fully intend to have one of the first things we do to be to inculcate the collaborating partners into our new model of thinking. We need to walk our talk for it to work. In addition, we are staffed amply to do regular follow up with our partners and support a regular open flow of communication clearly. 2) acknowledgment for the system as it currently works. We do have our feet on the ground, even if our vision is to shoot for the stars, so to speak. We know we have to be palatable to the schools learning agenda, especially with standardized testing, so we are partnering with CREEC to ensure we are doing this in a way that’s approachable enough for the schools that they’re able to fit it in their scheduling. 3) a clear plan. High level collaborations are awesome, but they need clear strategy and direction. Through the discipline comes the freedom. We have big goals, but they start with small strategic steps. We have very clear game plans about who to engage in year one, and what we need from who to make this work. We constantly re-evaluate and course correct, but are savvy to the need for specific and measurable benchmark goals, especially in the early stages of partnerships until a more naturalorganic rhythm starts to unfold.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: blueberry
 

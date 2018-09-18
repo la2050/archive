@@ -11,18 +11,18 @@ project_summary: >-
   equipment they need to move their ideas forward. 
    
    At LabLaunch-Monrovia, we will provide high-quality laboratory space, state-of-the-art shared equipment, and a supportive innovation community, giving biotech startups a place to take root in Los Angeles.
-Central LA: '0'
-East LA: '0'
+Central LA: ''
+East LA: ''
 San Gabriel Valley: '1'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
-'Other:': '0'
+LAUSD: ''
+'Other:': ''
 Please specify below: Monrovia; Monrovia USD; LA County; City of LA
 category: learn
 'Describe in greater detail how you will make LA the best place to connect:': >-

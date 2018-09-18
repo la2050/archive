@@ -10,13 +10,13 @@ year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We use dance as a means of transforming the future for at-risk children and
@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3) LAUSD’s Ramón C. Cortines School of Visual and Performing Arts (the School District’s downtown arts high school): Last year, we began providing dance classes after-school at LAUSD’s downtown arts high school. We plan to increase enrollment in FY 14-15. The School provides us studio space and shares resources. This collaboration allows us to reach more students and to expand our reach in the City’s downtown core.
    
    Critical to the success of these collaborations is open communication between dance program and school staff, mutual commitment to the project and a shared belief in the importance of arts education to academic success.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: TlilAMszJEs
 body_class: blueberry

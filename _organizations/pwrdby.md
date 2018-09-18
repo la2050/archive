@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: PwrdBy
 organization_website: www.pwrdby.com
 ein: '270526225'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators: ''

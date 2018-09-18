@@ -9,14 +9,14 @@ organization_id: '2014106'
 year_submitted: 2014
 project_image: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
+CENTRAL LA: ''
+EAST LA: ''
 SOUTH LA: '1'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   “Electricity is really just organized lightning.” - George Carlin
@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -Shared methodology of teaching approach 
    -Curriculum & lesson plans that intersperse with each module
    -Weekly check-ins of key leaders for each group
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 body_class: strawberry
 

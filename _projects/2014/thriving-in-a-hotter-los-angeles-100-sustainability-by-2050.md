@@ -12,7 +12,7 @@ EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
+SOUTH BAY: ''
 WESTSIDE: ''
 LA COUNTY: >-
   We have a prototype network up and running in Fukushima Japan now, want to
@@ -42,8 +42,8 @@ What is your idea/project in more detail?: >-
   concrete data for their work, and policy/government who currently have limited
   data with which to make decisions.
 What will you do to implement this idea/project?: For Los Angeles we won't need any partners to deploy this.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
-Whom will your project benefit? Please be specific.: '0'
+How will your idea/project help make LA the best place to connect today? In LA2050?: ''
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: DITouRhKW80
 body_class: lime

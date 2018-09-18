@@ -10,13 +10,13 @@ year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
-SOUTH LA: '0'
+EAST LA: ''
+SOUTH LA: ''
 SGV: '1'
-SFV: '0'
-SOUTH BAY: '0'
+SFV: ''
+SOUTH BAY: ''
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SEE Fest LA will invite Los Angeles-based film-makers and artists who have
@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Project partner C.T.E, Career technical education staff, in conjunction with KLCS and LAUSD, will be responsible for local curatorial assistance in developing tailored programs for student demographics, identifying and recruiting from the pool of SEEfest those L.A.-based artists best suited for the transfer of skills needed in the L.A. creative industries marketplace: production jobs, story boarding, editing, composing and scoring music, copy writing, set decoration, lighting, filming. SEEfest will provide access to real-life training for these budding photographers, camera operators, crafts services students all of whom come from underprivileged neighborhoods of L.A. With their bi-lingual background and recent immigrant experience they don't have an easy access to on the job training and SEEfest has a track record of providing opportunities for this student population. 
    
    Three factors critical to the success of our collaboration: sharing similar goals and ideals, willingness to roll up our collective sleeves, and the passion to create new things.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: qtJ5XumU1Gw
 body_class: strawberry

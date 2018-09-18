@@ -25,7 +25,7 @@ South Bay: '1'
 Antelope Valley: '1'
 County of Los Angeles (countywide): '1'
 City of Los Angeles (citywide): '1'
-LAUSD: '0'
+LAUSD: ''
 'Other:': '1'
 Please specify below: all other sub-regions and communities of LA County
 category: all

@@ -22,7 +22,7 @@ facebook: wethrive_
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
-project_video: '0'
+project_video: ''
 org_summary: >-
   WeThrive is a youth mentoring program that uses business creation to teach
   life skills, habit adoption and foster bonds with mentors and peers to

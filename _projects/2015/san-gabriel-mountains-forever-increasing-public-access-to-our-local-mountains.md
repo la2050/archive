@@ -10,17 +10,17 @@ project_summary: >-
   develop a transit-to-trails pilot program to identify socioeconomic gaps in
   access to the San Gabriels and to demonstrate how people can reach the
   mountains via public transit.
-Central LA: '0'
-East LA: '0'
+Central LA: ''
+East LA: ''
 San Gabriel Valley: '1'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
 Antelope Valley: '1'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
 'Other:': '1'
 Please specify below: Through the research we will identify one more park-poor community in LA City
 category: live

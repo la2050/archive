@@ -10,14 +10,14 @@ year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
 project_video: ''
 CENTRAL LA: '1'
-EAST LA: '0'
+EAST LA: ''
 SOUTH LA: '1'
 SGV: '1'
 SFV: '1'
-SOUTH BAY: '0'
-WESTSIDE: '0'
-LA COUNTY: '0'
-OTHER: '0'
+SOUTH BAY: ''
+WESTSIDE: ''
+LA COUNTY: ''
+OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Alternative Travel Project encourages people to volunteer days outside the
   bubble of their cars & find new ways to travel. 

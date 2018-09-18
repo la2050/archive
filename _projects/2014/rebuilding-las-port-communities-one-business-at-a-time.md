@@ -9,13 +9,13 @@ organization_id: '2014070'
 year_submitted: 2014
 project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: Harbor area communities surrounding the Ports of Los Angeles and Long Beach
 Which area(s) of LA does your project benefit? Other (elaborate): >-
@@ -91,7 +91,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Relationships with government agencies, elected officials, industry and community groups, and business incubator organizations all make up the ecosystem of resources that help our entrepreneurs thrive. With funding from agencies such as the California Energy Commission, U.S. Department of Energy and South Coast Air Quality Management District, our entrepreneurs advance R&D efforts and commercialize their technologies. 
    
    And finally, as a public-private partnership, PortTech can continue to further its mission through support from philanthropic and corporate sponsorships, and industry collaboration.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: zmZJYC2WFVk
 body_class: banana

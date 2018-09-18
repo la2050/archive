@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The 4Liter Challenge has already come a long way, and DIGDEEP is ready to
@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Mayor Garcetti has expressed an interest in improving the way Angelinos care for their resources. Collaboration with the Mayor's office would provide public visibility for the project and open the door to funding from LA institutions.
    
    Once a year, DIGDEEP opens the 4Liter Challenge to the public, uniting organizations like Take Part, One.org, Hurley H2O, and teams from major corporations, faith communities, and college campuses. All of these partners are confirmed, and their participation provides national exposure to new teachers.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: U6P_iHfyivY
 body_class: blueberry

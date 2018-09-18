@@ -15,7 +15,7 @@ facebook: finish_the_ride
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   SAFE is dedicated to improving traffic safety, advocating for victims of
   traffic, and eliminating traffic fatalities through outreach, policy,

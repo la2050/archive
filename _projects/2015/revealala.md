@@ -9,18 +9,18 @@ project_summary: >-
   visual depictions of Latino culture in Los Angeles.
    
    From public sculptures and iconic buildings to road signs and street vendors, each element will literally be‘reframed’ with a simple color panel placed behind it – momentarily taking the piece out of its surroundings and allowing the viewer see it afresh and to rethink its meaning.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
 City of Los Angeles (citywide): '1'
 LAUSD: '1'
-'Other:': '0'
+'Other:': ''
 Please specify below: ''
 category: all
 'Describe in greater detail how you will make LA the best place to connect:': '#N/A'

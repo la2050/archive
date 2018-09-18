@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: Levantine Cultural Center
 organization_website: 'http://levantinecenter.org'
 ein: '912156607'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912156607'
 ntee_type: ''
 tags_indicators: ''

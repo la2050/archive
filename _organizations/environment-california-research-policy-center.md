@@ -26,7 +26,7 @@ facebook: >-
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   Environment California Research & Policy Center is dedicated to protecting the
   places we love, advancing the environmental values we share, and winning real

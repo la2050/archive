@@ -3,17 +3,17 @@ project_id: '4102074'
 title: >-
   PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
   how to pay for college
-project_summary: '0'
+project_summary: ''
 category: learn
 organization_id: '2014141'
 year_submitted: 2014
 project_image: ''
 project_video: ''
-CENTRAL LA: '0'
-EAST LA: '0'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
+CENTRAL LA: ''
+EAST LA: ''
+SOUTH LA: ''
+SGV: ''
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: >-
   Currently we benefit 6th-12th grade students in Culver City, El Monte, El
@@ -77,7 +77,7 @@ What will you do to implement this idea/project?: >-
    2) Rio Hondo Community College is piloting the use of data from our file format for first year academic placement of approximately 350 first year students who graduated from El Monte High school District in Spring 2014. Rio's Dean of Counseling works closely with CCGI to inform the development of counseling tools, messaging and the higher ed user role on our professional center/counselor facing portal - to maximize the use of our system for smoothing transition to community colleges. Our goals include expansion to all Rio Hondo's feeder districts (we are in three of six already) to prove the ability to place all incoming students based on transcripts rather than placement exams.
    
    3) We have initial conversations underway with LAUSD's Director of Secondary Education, Gerardo Loera, as well as local superintendent Bravo (ESC South), to pilot the use of CCGI tools in their high schools.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '0'
+How will your idea/project help make LA the best place to connect today? In LA2050?: ''
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 body_class: blueberry

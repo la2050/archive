@@ -4,7 +4,7 @@ year_submitted: 2018
 organization_name: LA Compost
 organization_website: lacompost.org
 ein: '461134852'
-zip: '0'
+zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
 ntee_type: Educational Institutions and Related Activities
 tags_indicators:

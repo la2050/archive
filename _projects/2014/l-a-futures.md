@@ -14,10 +14,10 @@ CENTRAL LA: '1'
 EAST LA: '1'
 SOUTH LA: '1'
 SGV: '1'
-SFV: '0'
+SFV: ''
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Since it was inaugurated several years ago, L.A. Futures has served hundreds
@@ -96,7 +96,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1) Shared decision-making
    2) Understanding of roles and expectations
    3) Evaluation and improvement
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG

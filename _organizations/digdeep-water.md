@@ -20,7 +20,7 @@ facebook: digdeepwater
 org_type: Nonprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
-project_video: '0'
+project_video: ''
 org_summary: >-
   DIGDEEP is a human rights non-profit making clean water more available and
   more sustainable in every community.

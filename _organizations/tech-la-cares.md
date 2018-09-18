@@ -14,7 +14,7 @@ facebook: scottperry
 org_type: Forprofit
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
-project_video: '0'
+project_video: ''
 org_summary: >-
   We aim to connect LA-area tech firms with volunteer opportunities at local
   STEM-based organizations via events, web, and weekly emails -- and lots of

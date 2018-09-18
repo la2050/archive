@@ -4,7 +4,7 @@ year_submitted: 2014
 organization_name: 'Earth Protect, Inc.'
 organization_website: www.earthprotect.com
 ein: '260612343'
-zip: '0'
+zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators: ''

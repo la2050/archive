@@ -77,7 +77,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We have dreamed about creating a center for girls, and this Write Place for Girls center will allow us to fulfill that vision. The move will be more than just a physical one. It signifies an important next step in our organization’s development and exemplifies the kind of partnerships we hope to cultivate in the future. This move symbolizes what we’ve strived so hard to achieve and it illustrates the trajectory of our growth.
    
    Three factors that are critical to success in all our partnerships: 1) Financial health in order to remain stable and support each other. 2) Similar values – for example, positivity and respect are key components in building community and successful programs. 3) Making decisions with an eye to the future, and having a shared vision for the health of Los Angeles. After all, 2050 is not that far away!
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: FmHmFIlfA4A
 body_class: blueberry

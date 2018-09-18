@@ -8,18 +8,18 @@ project_summary: >-
   Clinica Romero is a community health clinic dedicated to improve the health
   and lives of patients and community at large that proposes a holistic approach
   to healthier lifestyles.
-Central LA: '0'
-East LA: '0'
-San Gabriel Valley: '0'
-San Fernando Valley: '0'
-South LA: '0'
-Westside: '0'
-South Bay: '0'
-Antelope Valley: '0'
-County of Los Angeles (countywide): '0'
-City of Los Angeles (citywide): '0'
-LAUSD: '0'
-'Other:': '0'
+Central LA: ''
+East LA: ''
+San Gabriel Valley: ''
+San Fernando Valley: ''
+South LA: ''
+Westside: ''
+South Bay: ''
+Antelope Valley: ''
+County of Los Angeles (countywide): ''
+City of Los Angeles (citywide): ''
+LAUSD: ''
+'Other:': ''
 Please specify below: Clinica Romero Pico Union Clinic Site
 category: 0createplay0
 'Describe in greater detail how you will make LA the best place to connect:': >-

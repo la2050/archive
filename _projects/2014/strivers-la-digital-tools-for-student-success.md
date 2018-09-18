@@ -16,7 +16,7 @@ SGV: '1'
 SFV: '1'
 SOUTH BAY: '1'
 WESTSIDE: '1'
-LA COUNTY: '0'
+LA COUNTY: ''
 OTHER: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With Strivers.LA, students are prompted to share their exam calendars with
@@ -92,7 +92,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ● Reciprocal benefit for each partner; Strivers.LA will have access to a student population that’s perfect for our application, and LACCF will have access to a digital tool that will help its students succeed.
    ● Common goals: wanting to help struggling students succeed and complete a degree or certificate program, or successfully transfer to a four-year institution.
    ● Clear expectations and communication.
-Whom will your project benefit? Please be specific.: '0'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: lz8FDz2KN0s
 body_class: blueberry

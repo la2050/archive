@@ -12,11 +12,11 @@ project_image: >-
 project_video: ''
 CENTRAL LA: '1'
 EAST LA: '1'
-SOUTH LA: '0'
-SGV: '0'
-SFV: '0'
-SOUTH BAY: '0'
-WESTSIDE: '0'
+SOUTH LA: ''
+SGV: ''
+SFV: ''
+SOUTH BAY: ''
+WESTSIDE: ''
 LA COUNTY: '1'
 OTHER: East Hollywood
 Which area(s) of LA does your project benefit? Other (elaborate): >-
