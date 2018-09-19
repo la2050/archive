@@ -399,7 +399,7 @@ text-align: left;
   var searchByTags = getParameterByName('tags');
 
   var tagsTitle = document.getElementById("tags-title");
-  if (tagsTitle) {
+  if (tagsTitle && searchByTags) {
     tagsTitle.style.display = "block";
     tagsTitle.textContent = searchByTags;
   }
