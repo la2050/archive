@@ -8,8 +8,6 @@ ein: '800696339'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''

@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture
-  - creative industry
-  - arts and culture vitality
-  - high school graduation
-  - education
-  - job training
 twitter: theicala
 instagram: theicala
 facebook: theicala

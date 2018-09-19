@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: EmpowerMeMobile
 instagram: groups/1083984054990809/
 facebook: empowermemobile

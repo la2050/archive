@@ -8,7 +8,6 @@ ein: '465572000'
 zip: '91362'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/jobcouch
 instagram: www.instagram.com/jobcouch
 facebook: www.facebook.com/jobcouch

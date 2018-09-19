@@ -8,9 +8,6 @@ ein: '521285097'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521285097'
 ntee_type: ''
-tags_indicators:
-  - 'Public Safety: Gun control/safety'
-  - Crime
 twitter: Bradybuzz
 instagram: 'https://instagram.com/bradybuzz'
 facebook: 'https://facebook.com/bradycampaign'

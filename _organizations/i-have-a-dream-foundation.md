@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - youth
-  - public safety
-  - inclusion
 twitter: IHADLA
 instagram: ihaveadreamla
 facebook: IHADLA

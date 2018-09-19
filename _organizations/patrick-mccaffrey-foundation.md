@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Veteran services
 twitter: LATinyHouses
 instagram: veteransvillage.org
 facebook: veteransvillage8551

@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - social connectedness
-  - inclusion
-  - diversity
-  - arts and culture vitality
 twitter: lasfotosproject
 instagram: lasfotosproject
 facebook: lasfotosproject

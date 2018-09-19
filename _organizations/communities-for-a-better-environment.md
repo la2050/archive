@@ -10,7 +10,6 @@ ein: '260404220'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260404220'
 ntee_type: ''
-tags_indicators: ''
 twitter: >-
   https://twitter.com/CBEcal / https://twitter.com/trustsouthla1 /
   https://twitter.com/nrdcsolutions / https://twitter.com/sharedUseCntr

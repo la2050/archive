@@ -8,11 +8,6 @@ ein: '952315682'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952315682'
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Public space
-  - Diversity
 twitter: 'https://twitter.com/lamasterchorale'
 instagram: 'https://www.instagram.com/lamasterchorale/'
 facebook: 'https://www.facebook.com/LAMasterChorale/'

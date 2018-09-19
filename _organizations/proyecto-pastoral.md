@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - career readinesss
-  - youth
-  - children
-  - parents
 twitter: '@ProyectoNews'
 instagram: ProyectoPastoral
 facebook: proyectopastoral

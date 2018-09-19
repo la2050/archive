@@ -8,7 +8,6 @@ ein: '841631105'
 zip: '90403'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: techlacares
 instagram: latechdigest
 facebook: scottperry

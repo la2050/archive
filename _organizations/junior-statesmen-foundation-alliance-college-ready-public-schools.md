@@ -8,7 +8,6 @@ ein: '946050452'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=946050452'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/jsajuniorstate
 instagram: ''
 facebook: www.facebook.com/JuniorState

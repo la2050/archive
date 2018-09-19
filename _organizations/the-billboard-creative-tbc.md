@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - creative industry
-  - 'entertainment industry,'
 twitter: tbcbillboards
 instagram: thebillboardcreative
 facebook: the_billboard_creative

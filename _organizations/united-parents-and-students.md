@@ -8,12 +8,6 @@ ein: '813413763'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
-  - 'Income and Employment: Underserved communities'
-  - Policy
-  - Communities of color
-  - Training and development
 twitter: 0
 instagram: 0
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'

@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - children
-  - advocacy
-  - diversity
-  - underserved communities
-  - policy
 twitter: LBLreaders
 instagram: LBLreaders
 facebook: n/a

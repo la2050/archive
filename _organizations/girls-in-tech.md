@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - STEM
-  - science
-  - inclusion
-  - career readiness
-  - college preparedness
-  - womens advocacy
 twitter: '@girlsintech'
 instagram: GirlsInTech
 facebook: girlsintech.global

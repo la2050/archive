@@ -10,8 +10,6 @@ charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951643307
   (Caltech)
 ntee_type: ''
-tags_indicators:
-  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''

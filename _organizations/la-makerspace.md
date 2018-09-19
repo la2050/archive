@@ -8,7 +8,6 @@ ein: '954116679'
 zip: '91615'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/LAMakerspace'
 instagram: N/A
 facebook: www.facebook.com/LAMakerspace

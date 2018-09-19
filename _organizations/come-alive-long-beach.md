@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - volunteerism
-  - youth
-  - children
-  - sports
-  - education
 twitter: ComeAliveLB
 instagram: comealivelb
 facebook: comealivelb

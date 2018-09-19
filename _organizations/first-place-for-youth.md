@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - youth
-  - inclusion
-  - mentorship
-  - training and development
-  - career readiness
 twitter: FPFY
 instagram: FirstPlaceforYouth
 facebook: firstplaceforyouth

@@ -8,7 +8,6 @@ ein: '273558431'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: ImpactHubLA
 instagram: impacthubla
 facebook: impacthub_la

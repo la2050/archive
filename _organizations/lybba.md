@@ -8,8 +8,6 @@ ein: '383777236'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=383777236'
 ntee_type: ''
-tags_indicators:
-  - Health
 twitter: ''
 instagram: ''
 facebook: ''

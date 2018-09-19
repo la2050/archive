@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - Foster care
 twitter: asenseofhomeorg
 instagram: ASenseofHomeMovement
 facebook: asenseofhomeorg

@@ -8,13 +8,6 @@ ein: '273428380'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273428380'
 ntee_type: ''
-tags_indicators:
-  - Health
-  - Environmental Quality
-  - 'Social Connectedness: Inclusion'
-  - Diversity
-  - Public space
-  - Community health
 twitter: '@ciclavia'
 instagram: '@ciclavia'
 facebook: 'https://www.facebook.com/ciclavia/'

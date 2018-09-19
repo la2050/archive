@@ -8,11 +8,6 @@ ein: '814435851'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - 'Housing: Homelessness'
-  - Youth
-  - Tutoring
 twitter: 0
 instagram: urbansummeracademy
 facebook: urbansummeracademy

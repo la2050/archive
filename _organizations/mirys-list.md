@@ -8,11 +8,6 @@ ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
-tags_indicators:
-  - 'Social Connectedness: Neighborhood councils'
-  - Refugees
-  - Underserved communities
-  - Volunteerism
 twitter: '@miryslist'
 instagram: '@miryslist'
 facebook: www.facebook.com/miryslist

@@ -8,14 +8,6 @@ ein: '471205640'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471205640'
 ntee_type: ''
-tags_indicators:
-  - Foster care
-  - youth
-  - high school graduation
-  - college preparedness
-  - career readiness
-  - education
-  - children
 twitter: academyproject
 instagram: theacademyproject
 facebook: academyproject

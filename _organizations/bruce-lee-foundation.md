@@ -8,7 +8,6 @@ ein: '43657544'
 zip: '90049'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=43657544'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/BruceLeeFDN
 instagram: www.instagram.com/BruceLeeFoundation
 facebook: www.facebook.com/BruceLeeFoundation

@@ -8,11 +8,6 @@ ein: '562464067'
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Education: Youth'
-  - STEM
-  - Arts and culture
 twitter: '@TwoBitCircusorg'
 instagram: '@TwoBitCircusorg'
 facebook: '@TwoBitCircusorg'

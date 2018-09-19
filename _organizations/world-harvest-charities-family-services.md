@@ -8,15 +8,6 @@ ein: '392064653'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=392064653'
 ntee_type: ''
-tags_indicators:
-  - Health
-  - Housing
-  - 'Income and Employment: Healthy food'
-  - Food inequality
-  - Affordable housing
-  - Healthcare
-  - Job training
-  - Small business
 twitter: 'https://twitter.com/WorldHarvestFB'
 instagram: 'https://www.instagram.com/worldharvestcharities'
 facebook: 'https://www.facebook.com/WorldHarvestFoodBank'

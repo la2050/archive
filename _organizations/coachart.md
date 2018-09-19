@@ -8,7 +8,6 @@ ein: '943389547'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943389547'
 ntee_type: ''
-tags_indicators: ''
 twitter: CoachArtorg
 instagram: coachart
 facebook: CoachArtOrg

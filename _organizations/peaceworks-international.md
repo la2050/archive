@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: IAmLA2017
 instagram: IAmLA2017
 facebook: IAmLA2017

@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Drought-adaptive
-  - environmentally safe gardens
 twitter: ANDESIGN_
 instagram: andesignoc
 facebook: andesignlab

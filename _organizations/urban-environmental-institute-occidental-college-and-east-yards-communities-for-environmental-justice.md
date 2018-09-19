@@ -10,7 +10,6 @@ ein: '951667177'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951667177'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/uepi www.twitter.com/ejcej
 instagram: www.instagram.com/ejcej
 facebook: www.facebook.com/uepiatoxy www.facebook.com/ejcej

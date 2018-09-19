@@ -8,8 +8,6 @@ ein: '473732729'
 zip: '90039'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Bringing Arts/Commerce/Development to LA River
 twitter: www.twitter.com/RiverWildLA
 instagram: www.instagram.com/river_wilder
 facebook: 'https://www.facebook.com/RiverWildLA'

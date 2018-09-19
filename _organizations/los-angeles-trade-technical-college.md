@@ -8,7 +8,6 @@ ein: '952587353'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952587353'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/slate_z
 instagram: we do not have an instagram account
 facebook: www.facebook.com/slate_z

@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - college preparation
-  - career readiness
 twitter: BUILDinLA
 instagram: BUILD.org
 facebook: buildnational

@@ -8,11 +8,6 @@ ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: '#N/A'
 ntee_type: ''
-tags_indicators:
-  - Community nutrition
-  - obesity
-  - community wellness
-  - food accessibility
 twitter: www.twitter.com/CCPHA
 instagram: ''
 facebook: www.facebook.com/CCPHA

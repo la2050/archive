@@ -8,13 +8,6 @@ ein: '463064675'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463064675'
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - Public Safety
-  - 'Social Connectedness: Crime'
-  - Underserved communities
-  - Arts and culture
-  - Communities of color
 twitter: www.twitter.com/JusticeLANow
 instagram: www.instagram.com/JusticeLANow
 facebook: www.facebook.com/JusticeLANow

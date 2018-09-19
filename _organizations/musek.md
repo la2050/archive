@@ -8,8 +8,6 @@ ein: '546674177'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
 twitter: ''
 instagram: ''
 facebook: ''

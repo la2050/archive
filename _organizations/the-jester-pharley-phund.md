@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - youth
-  - underserved communities
-  - poverty
 twitter: Jesterpharley
 instagram: The-Jester-and-Pharley-Phund-167046320311
 facebook: Jesterpharley

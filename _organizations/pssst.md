@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: pssstxyz
 instagram: 'https://www.facebook.com/pssst.xyz'
 facebook: pssst.xyz

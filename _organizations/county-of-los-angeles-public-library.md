@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - 'creative industry,'
 twitter: LACountyLibrary
 instagram: LACountyLibrary
 facebook: lacountylibrary

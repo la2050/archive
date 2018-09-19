@@ -8,7 +8,6 @@ ein: '4647362978'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=4647362978'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/climateresolve
 instagram: ''
 facebook: www.facebook.com/climateresolve

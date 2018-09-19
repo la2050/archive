@@ -8,12 +8,6 @@ ein: '412024986'
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=412024986'
 ntee_type: ''
-tags_indicators:
-  - 'Education: Education'
-  - Latino/Hispanic
-  - Parents
-  - Digital literacy
-  - Training and development
 twitter: '@commonsense'
 instagram: '@commonsenseorg'
 facebook: 'https://www.facebook.com/commonsenselatino/'

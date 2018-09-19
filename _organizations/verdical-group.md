@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Sustainability
-  - Green tech
 twitter: VerdicalGroup
 instagram: VerdicalGroup
 facebook: N/A

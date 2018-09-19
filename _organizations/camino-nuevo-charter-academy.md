@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - career readiness
 twitter: cncaschools
 instagram: caminonuevocharterschool
 facebook: cncaschools

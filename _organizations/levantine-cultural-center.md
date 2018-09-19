@@ -8,7 +8,6 @@ ein: '912156607'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912156607'
 ntee_type: ''
-tags_indicators: ''
 twitter: '@LevantineCenter'
 instagram: Levantine Cultural Center
 facebook: 'https://www.facebook.com/levantine.c.center'

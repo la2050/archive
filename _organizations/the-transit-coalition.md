@@ -8,7 +8,6 @@ ein: '954845170'
 zip: 91341-0567
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/Transit_Co'
 instagram: n/a
 facebook: 'https://www.facebook.com/groups/25096512282/'

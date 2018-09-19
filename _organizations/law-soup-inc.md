@@ -8,7 +8,6 @@ ein: '471443694'
 zip: '90039'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/lawsoupdotorg
 instagram: ''
 facebook: www.facebook.com/lawsoup

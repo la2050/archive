@@ -8,7 +8,6 @@ ein: '208027133'
 zip: '90026'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/Pub_Matters'
 instagram: 'https://instagram.com/publicmatters/'
 facebook: www.facebook.com/publicmatters

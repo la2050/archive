@@ -8,10 +8,6 @@ ein: '953881333'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953881333'
 ntee_type: ''
-tags_indicators:
-  - Community health care
-  - disease prevention
-  - serving uninsured
 twitter: 'https://twitter.com/clinicaromero'
 instagram: 'http://www.instagram.com/clinicaromero'
 facebook: 'https://www.facebook.com/clinicaromero'

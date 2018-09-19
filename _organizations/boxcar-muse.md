@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Income and employment
-  - job training
-  - social connectedness
-  - womens advocacy
-  - innovation
-  - arts and culture vitality
 twitter: boxcarmuse
 instagram: boxcarmuse-1752428701663307/
 facebook: boxcarmuse

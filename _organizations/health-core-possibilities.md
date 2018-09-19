@@ -8,9 +8,6 @@ ein: '300538676'
 zip: '94113'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
-  - Public Safety
 twitter: '@lizettealvare15'
 instagram: 0
 facebook: 0

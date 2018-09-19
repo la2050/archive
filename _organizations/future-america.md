@@ -8,12 +8,6 @@ ein: '954425671'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425671'
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - Education
-  - 'Social Connectedness: Arts and culture'
-  - Communities of color
-  - Youth
 twitter: misterlatinjazz
 instagram: misterlatinjazz
 facebook: >-

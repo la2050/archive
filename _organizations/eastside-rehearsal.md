@@ -8,7 +8,6 @@ ein: '474050600'
 zip: '90033'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/EastsideRehearsal
 instagram: www.instagram.com/EastsideRehearsal
 facebook: www.facebook.com/EastsideRehearsal

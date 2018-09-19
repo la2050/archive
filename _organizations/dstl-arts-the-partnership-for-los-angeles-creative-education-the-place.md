@@ -8,7 +8,6 @@ ein: '471509200'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471509200'
 ntee_type: ''
-tags_indicators: ''
 twitter: DSTLArts
 instagram: DSTLArts
 facebook: DSTLArts

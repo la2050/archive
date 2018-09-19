@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - creative industry
-  - Youth
-  - children
-  - entertainment industry
-  - income and employment
-  - mentorship
 twitter: emx_la
 instagram: emx.la
 facebook: emx.la

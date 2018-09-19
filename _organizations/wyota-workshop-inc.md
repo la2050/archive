@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture
-  - science
-  - stem
-  - green industry
-  - sustainability
-  - public health
-  - education
 twitter: WyotaW
 instagram: wyotaworkshop/
 facebook: wyotaworkshop

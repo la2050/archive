@@ -8,8 +8,6 @@ ein: '953750631'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953750631'
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: KCRW
 instagram: kcrwradio
 facebook: KCRW

@@ -8,15 +8,6 @@ ein: '461639779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461639779'
 ntee_type: ''
-tags_indicators:
-  - Health
-  - Income and Employment
-  - 'Environmental Quality: Community health'
-  - Healthy food
-  - Job training
-  - Training and development
-  - Public space
-  - Sustainability
 twitter: '@thelakitchen'
 instagram: '@thelakitchen'
 facebook: 'https://www.facebook.com/thelakitchen/'

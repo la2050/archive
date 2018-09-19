@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Inclusion
-  - community health
 twitter: capitalandmain
 instagram: capitalandmain
 facebook: Not applicable

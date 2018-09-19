@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Ecosystems
-  - Sustainability
-  - Environment
 twitter: NWF
 instagram: NationalWildlife
 facebook: nationalwildlife

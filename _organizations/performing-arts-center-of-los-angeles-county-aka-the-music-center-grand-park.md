@@ -8,7 +8,6 @@ ein: '952217011'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952217011'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/grandpark_la
 instagram: www.instagram.com/grandpark_la
 facebook: www.facebook.com/grandparklosangeles

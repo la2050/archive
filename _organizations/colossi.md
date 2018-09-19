@@ -8,7 +8,6 @@ ein: '474259326'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/ColossiCo?lang=en'
 instagram: ''
 facebook: n/a

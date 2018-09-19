@@ -8,8 +8,6 @@ ein: '475129866'
 zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475129866'
 ntee_type: ''
-tags_indicators:
-  - 'Healthy/organic eating,'
 twitter: theedibleapt
 instagram: TheEdibleApartment
 facebook: theedibleapartment

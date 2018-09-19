@@ -8,12 +8,6 @@ ein: We are fiscally sponsored
 zip: '90012'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Innovation
-  - Creative Industry
-  - Communities of color
 twitter: brioxylife
 instagram: brioxy
 facebook: brioxy

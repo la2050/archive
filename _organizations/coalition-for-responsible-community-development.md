@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - community health
-  - 'gun violence,'
 twitter: CRCD_SouthLA
 instagram: CRCDSouthLA
 facebook: CRCD_SouthLA

@@ -8,8 +8,6 @@ ein: '270903202'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''

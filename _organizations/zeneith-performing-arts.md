@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - creative industry
-  - social connectedness
-  - youth
-  - foster care
-  - underserved youth
-  - diversity
 twitter: wearezpa
 instagram: zeneithperformingarts
 facebook: wearezpa

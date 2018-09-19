@@ -8,7 +8,6 @@ ein: '453003702'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453003702'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/ASNTimeBank'
 instagram: www.instagram.com/ShareLosAngeles
 facebook: www.facebook.com/ArroyoSecoNetworkOfTimeBanks

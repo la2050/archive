@@ -8,16 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Educaiton
-  - mentorship
-  - tutoring
-  - teachers
-  - youth
-  - children
-  - job training and development
-  - arts and culture vitality
-  - entertainment industry
 twitter: WeRepresent_Org
 instagram: werepresent
 facebook: werepresent_org

@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Fitness
-  - Public space
 twitter: n/a
 instagram: academyofstrengthandsport
 facebook: n/a

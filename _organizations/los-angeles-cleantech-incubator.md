@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental quality
-  - sustainability
-  - green tech
-  - green industry
-  - income and employment
-  - innovation
-  - snall business
 twitter: LACIncubator
 instagram: LACIncubator
 facebook: laincubator

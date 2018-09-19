@@ -8,8 +8,6 @@ ein: '462805525'
 zip: '85226'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - App to provide health solutions
 twitter: 'https://twitter.com/polarteched'
 instagram: ''
 facebook: >-

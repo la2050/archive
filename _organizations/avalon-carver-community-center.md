@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - STEM
-  - education
-  - career readiness
-  - children
-  - youth
-  - mentorship
 twitter: avaloncarvercc
 instagram: AvalonCarverCC
 facebook: AvalonCarver_CC

@@ -8,7 +8,6 @@ ein: '474688368'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: N/A
 instagram: www.instagram.com/ruckusprojects/
 facebook: N/A

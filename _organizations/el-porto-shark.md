@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Social connectedness
-  - 'animal advocacy,'
 twitter: elportoshark
 instagram: ElPortoShark
 facebook: elportoshark

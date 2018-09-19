@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Healthy food
-  - career readiness
 twitter: CHealingGardens
 instagram: CommunityHealingGardens
 facebook: CommunityHealingGardens

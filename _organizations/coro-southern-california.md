@@ -8,10 +8,6 @@ ein: '954274561'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954274561'
 ntee_type: ''
-tags_indicators:
-  - 'Social Connectedness: Underserved communities'
-  - Volunteerism
-  - Neighborhood councils
 twitter: '@CoroSoCal'
 instagram: corosocal
 facebook: 'https://www.facebook.com/corosoutherncalifornia'

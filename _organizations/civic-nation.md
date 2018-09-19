@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Educaiton
-  - publis safety
-  - social connectedness
-  - womens advocacy
-  - 'crime,'
 twitter: '@civicnation'
 instagram: N/A
 facebook: N/A

@@ -8,10 +8,6 @@ ein: '462089483'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
-  - 'Arts and Cultural Vitality: Public space'
-  - Innovation
 twitter: '@GetSomeGlue'
 instagram: getsomeglue
 facebook: 'https://www.facebook.com/getsomeglue'

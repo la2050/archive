@@ -8,8 +8,6 @@ ein: '271684448'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271684448'
 ntee_type: ''
-tags_indicators:
-  - Arts & Cultural Vitality
 twitter: ''
 instagram: ''
 facebook: ''

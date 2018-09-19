@@ -8,8 +8,6 @@ ein: '954320598'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954320598'
 ntee_type: ''
-tags_indicators:
-  - Education
 twitter: ''
 instagram: ''
 facebook: ''

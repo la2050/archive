@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - mentorship
-  - education
-  - training and development
 twitter: futurescouts
 instagram: futurescouts.co
 facebook: futurescouts

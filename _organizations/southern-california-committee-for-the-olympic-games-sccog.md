@@ -8,8 +8,6 @@ ein: '951240083'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951240083'
 ntee_type: ''
-tags_indicators:
-  - Health
 twitter: ''
 instagram: ''
 facebook: ''

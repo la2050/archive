@@ -8,8 +8,6 @@ ein: '465406542'
 zip: '90015'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Veteran services
 twitter: '@wearethemighty'
 instagram: '@wearethemighty'
 facebook: '@wearethemighty'

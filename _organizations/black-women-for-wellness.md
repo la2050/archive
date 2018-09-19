@@ -8,14 +8,6 @@ ein: '954624707'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954624707'
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Sustainability'
-  - Communities of color
-  - Underserved communities
-  - Innovation
-  - Arts and culture
 twitter: BW4WLA
 instagram: BWWLA
 facebook: Black Women for Wellness

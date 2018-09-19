@@ -8,9 +8,6 @@ ein: '454105869'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - 'Housing: Affordable housing'
-  - Homelessness
 twitter: '@thisismutuo'
 instagram: '@thisismutuo'
 facebook: 'https://www.facebook.com/thisismutuoLA'

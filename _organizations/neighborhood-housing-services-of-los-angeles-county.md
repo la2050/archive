@@ -8,15 +8,6 @@ ein: '953938955'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
 ntee_type: ''
-tags_indicators:
-  - Housing
-  - 'Income and Employment: Underserved communities'
-  - Economic development
-  - Affordable housing
-  - Supportive housing
-  - Financial management
-  - Job training
-  - Career readiness
 twitter: nhslacounty
 instagram: nhslacounty
 facebook: NHSLAC

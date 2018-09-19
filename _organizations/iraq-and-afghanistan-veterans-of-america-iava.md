@@ -8,9 +8,6 @@ ein: '201664531'
 zip: '10036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201664531'
 ntee_type: ''
-tags_indicators:
-  - Uniting/Empowering Veterans
-  - veteran health
 twitter: 'https://twitter.com/iava'
 instagram: 'https://instagram.com/iava'
 facebook: 'https://www.facebook.com/IAVA.org'

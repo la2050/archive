@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Fitness
-  - youth
-  - sustainability
-  - community health
-  - advocacy
 twitter: SportUpLife
 instagram: SportUpLife
 facebook: SportUpLife

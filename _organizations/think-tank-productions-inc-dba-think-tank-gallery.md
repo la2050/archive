@@ -8,12 +8,6 @@ ein: '300445999'
 zip: '92612'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Underserved communities
-  - Communities of color
-  - Technology
 twitter: 'https://twitter.com/thinktankdtla'
 instagram: 'https://instagram.com/thinktankdtla'
 facebook: 'https://www.facebook.com/thinktankgallery'

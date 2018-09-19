@@ -8,7 +8,6 @@ ein: '951690975'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951690975'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/childrenbureau
 instagram: www.instagram.com/childrensbureau
 facebook: www.facebook.com/childrensbureau

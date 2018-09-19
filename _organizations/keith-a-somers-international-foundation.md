@@ -8,9 +8,6 @@ ein: '473024770'
 zip: '90292'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473024770'
 ntee_type: ''
-tags_indicators:
-  - Youth education and life skills
-  - Educate youth of risky behavior
 twitter: KASIF0731
 instagram: kasif0731
 facebook: www.facebook.com/KASIF0731

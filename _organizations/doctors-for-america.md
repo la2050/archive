@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Health care
-  - Medicine
 twitter: Drsforamerica
 instagram: DoctorsforAmerica
 facebook: n/a

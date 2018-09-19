@@ -8,12 +8,6 @@ ein: '474333055'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474333055'
 ntee_type: Human Services
-tags_indicators:
-  - Arts and Cultural Vitality
-  - Social Connectedness
-  - 'Housing (?): Arts and culture'
-  - Homelessness
-  - Women’s advocacy
 twitter: happyperiodorg
 instagram: wearehappyperiod
 facebook: 0

@@ -8,7 +8,6 @@ ein: '951992732'
 zip: 91330-8309
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951992732'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/csunorthridge'
 instagram: ''
 facebook: 'https://www.facebook.com/calstatenorthridge'

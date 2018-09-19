@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - social connectedness
-  - underserved communities
-  - poverty
-  - financial management
 twitter: get_drizzle
 instagram: getdrizzle
 facebook: none

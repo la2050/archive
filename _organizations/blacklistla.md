@@ -8,7 +8,6 @@ ein: '954440752'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954440752'
 ntee_type: ''
-tags_indicators: ''
 twitter: _blacklistla
 instagram: runblacklistla
 facebook: BlacklistLA

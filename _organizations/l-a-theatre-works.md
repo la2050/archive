@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - Education
-  - Arts and culture vitality
-  - creative industry
-  - technology
 twitter: LATheatreWorks
 instagram: LATheatreWorks
 facebook: latheatreworks

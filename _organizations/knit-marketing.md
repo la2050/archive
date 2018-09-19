@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - career readiness
-  - job training
 twitter: KnitMarketing
 instagram: KnitMarketing
 facebook: KnitMarketing

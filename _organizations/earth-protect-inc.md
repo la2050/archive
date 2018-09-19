@@ -8,7 +8,6 @@ ein: '260612343'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/EarthProtect1'
 instagram: ''
 facebook: www.facebook.com/earthprotect

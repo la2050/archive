@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Mentorship
-  - training and development
-  - Youth
-  - career readiness
-  - education
 twitter: uniteanationinc
 instagram: uniteanation
 facebook: uniteanationinc

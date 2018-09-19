@@ -8,8 +8,6 @@ ein: '454109556'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: GRIDInc
 instagram: makinggoodongoodsmovement/
 facebook: N/A

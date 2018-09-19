@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Training and development
-  - career readiness
-  - Entrepreneurship
-  - innovation
-  - Stem
-  - education
 twitter: thejobcorps
 instagram: public/Filmlit-Corp
 facebook: doljobcorps

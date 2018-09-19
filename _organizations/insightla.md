@@ -8,8 +8,6 @@ ein: '841713927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=841713927'
 ntee_type: ''
-tags_indicators:
-  - Health
 twitter: ''
 instagram: ''
 facebook: ''

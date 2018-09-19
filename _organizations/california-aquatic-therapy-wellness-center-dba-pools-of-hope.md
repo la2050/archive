@@ -8,15 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Poverty
-  - underserved communities
-  - children
-  - mentorship
-  - education
-  - teachers
-  - STEM
-  - high school graduation
 twitter: caaqua
 instagram: caaquatictherapy
 facebook: N/A

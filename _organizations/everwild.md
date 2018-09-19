@@ -8,17 +8,6 @@ ein: '813577278'
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813577278'
 ntee_type: ''
-tags_indicators:
-  - Education
-  - Environmental Quality
-  - 'Social Connectedness: Children'
-  - Youth
-  - Parents
-  - Inclusion
-  - Diversity
-  - Ecosystems
-  - Public space
-  - Sustainability
 twitter: '@EverWildFA'
 instagram: 'https://www.instagram.com/everwildla/'
 facebook: 'https://www.facebook.com/EverWildLa/'

@@ -8,7 +8,6 @@ ein: '954371286'
 zip: '90403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954371286'
 ntee_type: ''
-tags_indicators: ''
 twitter: ChildrensLife
 instagram: TheChildrensLifesavingFoundation
 facebook: childrenslife

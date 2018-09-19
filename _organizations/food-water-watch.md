@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Sustainability
-  - green industry
 twitter: foodandwater
 instagram: foodandwaterwatch
 facebook: foodandwaterwatch

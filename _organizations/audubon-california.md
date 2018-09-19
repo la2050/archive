@@ -8,7 +8,6 @@ ein: '131624102'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=131624102'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/birdyourparks'
 instagram: instagram.com/audubondebspark
 facebook: 'https://www.facebook.com/audubondebspark'

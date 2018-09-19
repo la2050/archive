@@ -8,7 +8,6 @@ ein: '261198327'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=261198327'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/CWH_org
 instagram: www.instagram.com/watershedhealth
 facebook: www.facebook.com/CouncilforWatershedHealth

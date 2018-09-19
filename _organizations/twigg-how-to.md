@@ -8,12 +8,6 @@ ein: '813851393'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Women’s advocacy'
-  - Underserved communities
-  - Innovation
-  - Arts and culture
 twitter: 'https://twitter.com/TWIGGHOWTO'
 instagram: 'https://www.instagram.com/twigghowto/'
 facebook: 'https://www.facebook.com/twigghowto'

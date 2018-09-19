@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental quality
-  - green industry
-  - green technology
-  - sustainability
 twitter: skysource_awg
 instagram: skysourcewater
 facebook: skysourcewater

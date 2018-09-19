@@ -8,10 +8,6 @@ ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
-tags_indicators:
-  - Housing
-  - 'Health: Homelessness'
-  - Healthcare
 twitter: 'https://twitter.com/uclaMEC'
 instagram: uclamobileyeclinic
 facebook: 'https://www.facebook.com/uclamobileyeclinic/'

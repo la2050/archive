@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - creative industry
-  - income and employment
-  - entreprenuership
 twitter: natch_app
 instagram: natch-340508439626814
 facebook: natch_app_

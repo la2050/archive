@@ -8,10 +8,6 @@ ein: '237373745'
 zip: '90250'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237373745'
 ntee_type: ''
-tags_indicators:
-  - Child Abuse
-  - Child Wellness
-  - Educating/strengthening families
 twitter: richstonefamily
 instagram: richstonefamily
 facebook: richstonefamily

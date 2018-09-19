@@ -9,10 +9,6 @@ ein: '900599471'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
-  - 'Social Connectedness: Public space'
-  - Underserved communities
 twitter:
   - '@Kounkuey'
   - '@LURNetwork'

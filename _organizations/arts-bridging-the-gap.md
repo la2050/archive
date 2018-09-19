@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - underserved communities
-  - womens advocacy
-  - stem
-  - education
-  - career readiness
 twitter: artsbridgegap
 instagram: artsbridgingthegap
 facebook: artsbridgegap

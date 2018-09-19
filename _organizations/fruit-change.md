@@ -8,7 +8,6 @@ ein: '475229978'
 zip: '90731'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/fruitchange
 instagram: www.instagram.com/sanpedrofruitchange
 facebook: www.facebook.com/fruitchange

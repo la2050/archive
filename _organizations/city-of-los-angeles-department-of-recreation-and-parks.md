@@ -8,7 +8,6 @@ ein: '956000735'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000735'
 ntee_type: ''
-tags_indicators: ''
 twitter: LACityParks
 instagram: LACityParks
 facebook: LACityParks

@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Sustainability
-  - career readiness
-  - education
 twitter: ActAmbassadors
 instagram: actionambassadors
 facebook: ActionAmbassadors

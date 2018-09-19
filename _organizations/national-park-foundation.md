@@ -8,7 +8,6 @@ ein: '521086761'
 zip: '20005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521086761'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/GoParks'
 instagram: www.instagram.com/goparks
 facebook: www.facebook.com/nationalpark

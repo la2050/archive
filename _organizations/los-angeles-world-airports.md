@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Mentorship
-  - career readiness
-  - youth
 twitter: N/A
 instagram: N/A
 facebook: N/A

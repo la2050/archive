@@ -8,7 +8,6 @@ ein: '133065716'
 zip: '20005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133065716'
 ntee_type: ''
-tags_indicators: ''
 twitter: (None)
 instagram: FrontLineLeadersAcademy
 facebook: (None)

@@ -8,8 +8,6 @@ ein: '943279613'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943279613'
 ntee_type: ''
-tags_indicators:
-  - Education
 twitter: collegetrack
 instagram: nationalcollegetrack
 facebook: collegetrack

@@ -8,7 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: calpartnership
 instagram: CaliforniaPartnership
 facebook: californiapartnership

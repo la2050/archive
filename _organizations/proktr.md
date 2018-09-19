@@ -8,7 +8,6 @@ ein: '464405903'
 zip: '90027'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/ProktrLA'
 instagram: www.instagram.com/proktrla
 facebook: 'https://www.facebook.com/ProktrLA'

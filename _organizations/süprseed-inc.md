@@ -8,8 +8,6 @@ ein: '823768348'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=823768348'
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: 0
 instagram: www.instagram.com/supr.mrkt
 facebook: www.facebook.com/suprmarkt

@@ -8,7 +8,6 @@ ein: '462067337'
 zip: '90245'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462067337'
 ntee_type: ''
-tags_indicators: ''
 twitter: therealyba
 instagram: youthbusinessalliance
 facebook: youthbusinessalliance

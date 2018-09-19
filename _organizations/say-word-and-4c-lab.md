@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - public space
-  - community health
-  - economic development
-  - underserved communities
 twitter: SaywordLA
 instagram: SayWordProject
 facebook: Saywordla

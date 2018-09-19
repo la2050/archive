@@ -10,8 +10,6 @@ ein: '320150097'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320150097'
 ntee_type: ''
-tags_indicators:
-  - Public Safety
 twitter: ''
 instagram: ''
 facebook: ''

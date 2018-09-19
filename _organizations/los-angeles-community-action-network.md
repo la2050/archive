@@ -8,8 +8,6 @@ ein: '20661629'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=20661629'
 ntee_type: ''
-tags_indicators:
-  - Advancing health and community on Skid Row
 twitter: www.twitter.com/LACANetwork
 instagram: ''
 facebook: >-

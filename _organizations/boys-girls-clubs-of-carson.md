@@ -8,7 +8,6 @@ ein: '330475452'
 zip: 90810-1652
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330475452'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/BGCofCarson
 instagram: ''
 facebook: www.facebook.com/bgccarson

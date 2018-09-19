@@ -8,7 +8,6 @@ ein: '463324164'
 zip: '90016'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/IronboxEdu'
 instagram: ''
 facebook: www.facebook.com/ironboxeducation

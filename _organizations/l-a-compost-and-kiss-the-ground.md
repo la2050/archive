@@ -8,10 +8,6 @@ ein: '461134852'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
 ntee_type: ''
-tags_indicators:
-  - Sustainability
-  - Green space
-  - Composting
 twitter: www.twitter.com/LACOMPOST www.twitter.com/kissthegroundCA
 instagram: www.instagram.com/lacompost www.instagram.com/kissthegroundca/
 facebook: www.facebook.com/L.A.CompostCA www.facebook.com/kissthegroundCA

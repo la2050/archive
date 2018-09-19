@@ -9,8 +9,6 @@ ein: '463084511'
 zip: '94965'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - 'Social Connectedness: Underserved communities'
 twitter:
   - '@Stratiscope'
   - '@CityImpactLab'

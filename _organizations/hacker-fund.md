@@ -8,15 +8,6 @@ ein: '472485464'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472485464'
 ntee_type: ''
-tags_indicators:
-  - Education
-  - Income and Employment
-  - 'Arts and Cultural Vitality: Digital literacy'
-  - STEM
-  - Job training
-  - Innovation
-  - Technology
-  - Creative industry
 twitter: '@thehackerfund'
 instagram: '@hackerfund'
 facebook: '@hackerfund'

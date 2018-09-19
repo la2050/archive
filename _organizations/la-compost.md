@@ -8,11 +8,6 @@ ein: '461134852'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461134852'
 ntee_type: Educational Institutions and Related Activities
-tags_indicators:
-  - Environmental Quality
-  - 'Social Connectedness: Ecosystems'
-  - Sustainability
-  - Public space Volunteerism
 twitter: '@lacompost'
 instagram: '@lacompost'
 facebook: '@l.a.compostCA'

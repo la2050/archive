@@ -8,7 +8,6 @@ ein: '954522816'
 zip: '90064'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522816'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/hollywdheart
 instagram: www.instagram.com/hollywoodsheart
 facebook: www.facebook.com/hollywoodheart

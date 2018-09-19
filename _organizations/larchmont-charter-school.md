@@ -8,12 +8,6 @@ ein: '571206928'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'
 ntee_type: ''
-tags_indicators:
-  - Education
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Youth
-  - Underserved Youth
 twitter: '@larchmontschool'
 instagram: 'https://www.instagram.com/larchmontschool/'
 facebook: 'https://www.facebook.com/LarchmontSchool/posts/10160153595750361'

@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: PPPSGV
 instagram: www.facebook.com/pppsgv
 facebook: PPPSGV

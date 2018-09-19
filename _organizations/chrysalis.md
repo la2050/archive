@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Income and employment
-  - entrepreneurship
-  - community health
-  - job training
-  - training and development
 twitter: ChrysalisLA
 instagram: ChrysalisLA
 facebook: ChrysalisLA

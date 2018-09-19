@@ -8,15 +8,6 @@ ein: '475033123'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'
 ntee_type: ''
-tags_indicators:
-  - Public Safety
-  - Social Connectedness
-  - 'Income and Employment: Women’s advocacy'
-  - Crime
-  - Financial management
-  - Entrepreneurship
-  - Homelessness
-  - Small business
 twitter: 'https://twitter.com/freefromorg'
 instagram: '@freefromdotorg'
 facebook: 'https://www.facebook.com/freefrom.org/'

@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Health and Nutrition in Low Income communities
 twitter: Groceryships
 instagram: groceryships
 facebook: groceryships

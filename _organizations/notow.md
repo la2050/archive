@@ -8,7 +8,6 @@ ein: '824997963'
 zip: '90036'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: pleaseNoTow
 instagram: pleaseNoTow
 facebook: 'https://www.facebook.com/NoTow-2018982601723446/?modal=admin_todo_tour'

@@ -8,8 +8,6 @@ ein: '954592893'
 zip: '90242'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592893'
 ntee_type: ''
-tags_indicators:
-  - Pre-employment services to low income individuals
 twitter: www.twitter.com/clothesthedeal
 instagram: www.instagram.com/clothesthedeal
 facebook: www.facebook.com/clothesthedeal

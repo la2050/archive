@@ -8,8 +8,6 @@ ein: '472037575'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
 twitter: '@lolahelps'
 instagram: 0
 facebook: '@lolahelpsme'

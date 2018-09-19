@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Women's advocacy
-  - crime
 twitter: 5050Leadership
 instagram: 5050leadership
 facebook: 5050leadership

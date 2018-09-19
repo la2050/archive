@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture
-  - STEM
-  - science
-  - education
 twitter: wisdomartslab
 instagram: wisdom.artslab
 facebook: wisdomartslaboratory

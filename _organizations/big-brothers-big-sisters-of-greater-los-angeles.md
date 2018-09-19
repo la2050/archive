@@ -8,16 +8,6 @@ ein: '951904857'
 zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'
 ntee_type: ''
-tags_indicators:
-  - Education
-  - Social Connectedness
-  - 'Income and Employment: Underserved youth'
-  - College preparation
-  - Underserved communities
-  - High school graduation
-  - Poverty
-  - Mentorship
-  - Communities of color
 twitter: 'https://www.twitter.com/BBBSLA'
 instagram: 'https://www.instagram.com/bbbsla'
 facebook: 'https://www.facebook.com/BBBSLA/'

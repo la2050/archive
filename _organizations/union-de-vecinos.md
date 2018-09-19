@@ -8,8 +8,6 @@ ein: '522076978'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522076978'
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''

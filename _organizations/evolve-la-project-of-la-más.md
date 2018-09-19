@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Economic development
-  - underprivilaged communities
 twitter: mas4la
 instagram: mas4LA
 facebook: none

@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Educaiton
-  - parents
-  - children
-  - 'mentorship,'
 twitter: Dadproject3
 instagram: dadproject3
 facebook: d.a.d_project

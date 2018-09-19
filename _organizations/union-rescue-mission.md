@@ -8,7 +8,6 @@ ein: '951709293'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951709293'
 ntee_type: ''
-tags_indicators: ''
 twitter: urm
 instagram: unionrescuemissionla
 facebook: unionrescuemission

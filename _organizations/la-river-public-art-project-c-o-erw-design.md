@@ -8,9 +8,6 @@ ein: '364519595'
 zip: '90065'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Art and culture'
 twitter: 'https://www.twitter.com/@LARPAP'
 instagram: 'https://www.instagram.com/lariverpublicartproject'
 facebook: 'https://www.facebook.com/Los-Angeles-River-Public-Art-Project-698775940231398/'

@@ -8,7 +8,6 @@ ein: '952219680'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952219680'
 ntee_type: ''
-tags_indicators: ''
 twitter: '@crfusa'
 instagram: ''
 facebook: www.facebook.com/ConstitutionalRightsFoundation

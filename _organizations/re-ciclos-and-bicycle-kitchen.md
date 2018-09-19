@@ -8,10 +8,6 @@ ein: '260454089'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=260454089'
 ntee_type: ''
-tags_indicators:
-  - Transportation
-  - Recycing
-  - More bikes on the road
 twitter: 'https://twitter.com/ReCiclosLA'
 instagram: 'https://instagram.com/reciclos_la'
 facebook: 'https://www.facebook.com/ReCiclosLA'

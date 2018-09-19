@@ -8,10 +8,6 @@ ein: '271313830'
 zip: '92123'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271313830'
 ntee_type: ''
-tags_indicators:
-  - Arts and Cultural Vitality
-  - 'Social Connectedness: Arts and culture'
-  - Volunteerism
 twitter: '@graciaschoir'
 instagram: gracias_choir
 facebook: 'https://www.facebook.com/graciasmusicfoundation/'

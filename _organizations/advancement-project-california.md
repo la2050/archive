@@ -8,7 +8,6 @@ ein: '954835230'
 zip: 90026-3291
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954835230'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/AP_California
 instagram: ''
 facebook: www.facebook.com/AdvancementProjectCA

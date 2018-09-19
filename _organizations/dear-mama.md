@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Healthy foods
-  - Community health
-  - Public health
 twitter: DearMamaLA
 instagram: dearmamala
 facebook: dearmamala

@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Youth
-  - gun safety
-  - education
-  - inclusion
 twitter: NDY4Kids
 instagram: NewDirectionsForYouth
 facebook: NDY4Kids

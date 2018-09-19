@@ -8,12 +8,6 @@ ein: '952543028'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952543028'
 ntee_type: ''
-tags_indicators:
-  - 'Education: STEM'
-  - Teachers
-  - Youth
-  - Underserved youth
-  - College preparation
 twitter: '@DominguezHills'
 instagram: csudominguezhills
 facebook: 'https://www.facebook.com/CSUDH/'

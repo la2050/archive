@@ -8,7 +8,6 @@ ein: '465551374'
 zip: '90068'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465551374'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/ghostfishing
 instagram: ''
 facebook: www.facebook.com/ghostfishing

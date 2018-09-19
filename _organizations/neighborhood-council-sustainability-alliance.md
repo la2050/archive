@@ -8,10 +8,6 @@ ein: '475283695'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475283695'
 ntee_type: ''
-tags_indicators:
-  - Carbon footprint
-  - water footprint
-  - community reslience
 twitter: 'http://www.twitter.com/LA_NCSA'
 instagram: ''
 facebook: 'https://www.facebook.com/neighborhoodcouncilsustainabilityalliance'

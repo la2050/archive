@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture
-  - education
-  - children
-  - youth
-  - foster care
-  - underserved communities
 twitter: HarmonyProject
 instagram: HarmonyProjectLA
 facebook: harmonyprojectla

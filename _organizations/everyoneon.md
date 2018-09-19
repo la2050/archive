@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Digital equality
 twitter: Everyone_On
 instagram: EveryoneOn/
 facebook: N/A

@@ -8,7 +8,6 @@ ein: '557066495'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: fallenfruit
 instagram: fallenfruit
 facebook: fallen_fruit

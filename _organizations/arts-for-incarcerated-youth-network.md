@@ -8,15 +8,6 @@ ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
-tags_indicators:
-  - Foster care
-  - youth
-  - underserved communities
-  - arts and culture vitality
-  - job training
-  - income and employment
-  - crime
-  - public safety
 twitter: AIYNetwork
 instagram: AIYNetwork
 facebook: AIYNetwork

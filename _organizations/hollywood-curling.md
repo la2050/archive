@@ -8,7 +8,6 @@ ein: '262477682'
 zip: '91409'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262477682'
 ntee_type: ''
-tags_indicators: ''
 twitter: 'https://twitter.com/HollywoodCurl'
 instagram: 'https://instagram.com/hollywoodcurl/'
 facebook: www.facebook.com/hollywoodcurling

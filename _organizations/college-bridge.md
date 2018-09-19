@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Mentorship
-  - training and development
-  - Youth
-  - college preparedness
-  - education
-  - parents
 twitter: College_Bridge
 instagram: CollegeBridgeLA
 facebook: college.bridge

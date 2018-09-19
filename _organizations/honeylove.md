@@ -8,8 +8,6 @@ ein: '452863213'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452863213'
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
 twitter: ''
 instagram: ''
 facebook: ''

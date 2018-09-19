@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental quality
-  - sustainability
-  - green industry
-  - income and employment
-  - poverty
-  - 'homelessness,'
 twitter: LISC_LA
 instagram: N/A
 facebook: N/A

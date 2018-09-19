@@ -8,8 +8,6 @@ ein: '464783761'
 zip: '90058'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Providing fresh food and produce to communities
 twitter: www.twitter.com/localrootsfarms
 instagram: 'https://instagram.com/localrootsfarms/'
 facebook: 'https://www.facebook.com/LocalRootsFarms/'

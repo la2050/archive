@@ -8,13 +8,6 @@ ein: Personal DBA
 zip: '91105'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - Social Connectedness
-  - 'Income and Employment: Job training'
-  - Underserved youth
-  - Training and development
-  - Youth
 twitter: 0
 instagram: 0
 facebook: 0

@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Health care
-  - community health
-  - underserved people
 twitter: avasheart
 instagram: AvasHeart
 facebook: avasheart_org

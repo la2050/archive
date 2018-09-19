@@ -8,7 +8,6 @@ ein: '311597223'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311597223'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/downtownartwalk
 instagram: www.instagram.com/downtownartwalk
 facebook: www.facebook.com/downtownartwalk

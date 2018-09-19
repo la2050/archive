@@ -8,7 +8,6 @@ ein: '952540759'
 zip: '90101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/mediadoneresp
 instagram: ''
 facebook: www.facebook.com/mediadoneresponsibly

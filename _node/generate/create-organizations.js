@@ -161,6 +161,27 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     data.tags_indicators = data.tags_indicators.split(", ")
   }
 
+  function hasValue(tag) {
+    return tag && tag != "" && tag != " "
+  }
+
+  if (organizationTagsLookup[data.organization_id] && 
+    (hasValue(organizationTagsLookup[data.organization_id].tag_1) ||
+     hasValue(organizationTagsLookup[data.organization_id].tag_2))) {
+
+    data.tags_indicators = []
+
+    if (hasValue(organizationTagsLookup[data.organization_id].tag_1)) {
+      data.tags_indicators.push(organizationTagsLookup[data.organization_id].tag_1)
+    }
+
+    if (hasValue(organizationTagsLookup[data.organization_id].tag_2)) {
+      data.tags_indicators.push(organizationTagsLookup[data.organization_id].tag_2)
+    }
+  } else {
+    delete data.tags_indicators
+  }
+
   try {
     data.twitter = JSON.parse(data.twitter)
   } catch(e) {}
@@ -201,7 +222,7 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
-      if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
+      // if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
       let match = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
       if (match && match.image) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
@@ -314,6 +335,19 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
   }
   return records
 }
+
+
+let organizationTagsInput = fs.readFileSync('../_data/tags-organization-2013-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+let organizationTags = parse(organizationTagsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+// Create an object for quick lookup
+let organizationTagsLookup = {}
+organizationTags.forEach(tag => {
+  organizationTagsLookup[tag.organization_id] = tag
+})
+
+
+
 
 generateAllCollections('organizations-2013-2018.csv', 
                        'maker-projects.csv',

@@ -8,13 +8,6 @@ ein: ''
 zip: '90014'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - 'Income and Employment: Youth'
-  - Entrepreneurship
-  - Mentorship
-  - STEM
-  - Technology
 twitter: '@thepplofchange'
 instagram: '@thepplofchange'
 facebook: 'https://www.facebook.com/thepeopleofchange/'

@@ -8,11 +8,6 @@ ein: '954425565'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954425565'
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
-  - 'Income and Employment: Volunteerism'
-  - Poverty
-  - Underserved Youth
 twitter: '@ShoesThatFit'
 instagram: shoesthatfitcharity
 facebook: 'https://www.facebook.com/ShoesThatFitNonProfit'

@@ -8,7 +8,6 @@ ein: '461899740'
 zip: '90016'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/heartof_artgal
 instagram: www.instagram.com/heartofartgallery
 facebook: www.facebook.com/HeartofArtGallery

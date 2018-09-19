@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Diversity
-  - womens advocacy
-  - education
-  - STEM
-  - social connectedness
-  - communities of color
-  - science
 twitter: EngineerFactory
 instagram: TheEngineerFactory
 facebook: TheEngineerFactory

@@ -8,7 +8,6 @@ ein: '954439557'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954439557'
 ntee_type: ''
-tags_indicators: ''
 twitter: '@LeimertPVillage'
 instagram: LeimertParkVillage
 facebook: 'https://www.facebook.com/leimertparkvillage2020'

@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Community health
-  - diversity
-  - public safety
 twitter: connectWPDI
 instagram: WhitakerPeace
 facebook: whitaker_peace

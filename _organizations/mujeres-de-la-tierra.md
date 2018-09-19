@@ -8,8 +8,6 @@ ein: '205270350'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=205270350'
 ntee_type: ''
-tags_indicators:
-  - Supports women/families in being enviromentally/socially active
 twitter: MujeresdlTierra
 instagram: MujeresdlTierra
 facebook: mujeresdelatierra

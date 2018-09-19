@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Environmental quality
-  - public space
-  - arts and culture vitality
-  - arts and culture
-  - innovation
 twitter: annenberglab
 instagram: annenberglab
 facebook: annenberglab

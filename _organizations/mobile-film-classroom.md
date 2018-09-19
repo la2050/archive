@@ -8,7 +8,6 @@ ein: '461053961'
 zip: '90004'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=461053961'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/mobilefilmclass
 instagram: instagram.com/mobilefilmclassroom
 facebook: www.facebook.com/mobilefilmclassroom

@@ -8,7 +8,6 @@ ein: '452683013'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452683013'
 ntee_type: ''
-tags_indicators: ''
 twitter: RelationalMed
 instagram: Relational-Medicine-Foundation-335334423155325/timeline/
 facebook: RelationalMedicineFoundation

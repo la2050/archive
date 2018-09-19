@@ -8,7 +8,6 @@ ein: '201836547'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201836547'
 ntee_type: ''
-tags_indicators: ''
 twitter: SparkProgramLA
 instagram: SparkLosAngeles
 facebook: N/A

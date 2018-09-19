@@ -8,7 +8,6 @@ ein: '272756584'
 zip: '90027'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: twitter.com/LAPerformance
 instagram: instagram.com/welikeitnew
 facebook: 'https://www.facebook.com/LosAngelesPerformancePractice'

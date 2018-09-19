@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Income and employment
-  - entrepreneurship
-  - health
-  - community health
-  - healthy food
-  - small business
 twitter: thecoolla
 instagram: thecoolla
 facebook: thecoolla

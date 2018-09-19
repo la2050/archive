@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Women's advocacy
-  - health care
 twitter: KickinCancer
 instagram: lynnecohenfoundation
 facebook: lynnecohenfoundation

@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - inclusion
-  - 'youth '
-  - children
-  - parents
-  - high school graduation
-  - mental health care
 twitter: wishcharter
 instagram: WISH Charter
 facebook: wish_charter

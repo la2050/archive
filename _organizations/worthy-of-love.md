@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - social connectedness
-  - underserved youth
-  - poverty
-  - 'homelessness,'
 twitter: Worthyoflovela
 instagram: Worthyoflovela
 facebook: Worthyoflovela

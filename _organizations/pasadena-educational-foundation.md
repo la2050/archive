@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Digital equality
-  - digital literacy
-  - education
-  - Youth
 twitter: pasedfoundation
 instagram: PasadenaEducationalFoundation
 facebook: pasedfoundation

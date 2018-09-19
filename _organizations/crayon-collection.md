@@ -8,13 +8,6 @@ ein: '463314343'
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463314343'
 ntee_type: ''
-tags_indicators:
-  - Education
-  - Arts and Cultural Vitality
-  - 'Environmental Quality: Arts and culture'
-  - Sustainability
-  - Education
-  - Underserved Communities
 twitter: '@crayoncollection'
 instagram: '@crayoncollection'
 facebook: facebook.com/crayoncollection

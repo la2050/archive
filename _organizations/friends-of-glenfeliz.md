@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Mentorship
-  - Education
-  - Underserved communities
 twitter: Glenfeliz_SAS
 instagram: groups/35639714531/
 facebook: glenfelizsas

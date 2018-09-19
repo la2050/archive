@@ -10,8 +10,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: mean2greenstrz
 instagram: IndustrialDistrictGreen
 facebook: Industrial_district_green_la

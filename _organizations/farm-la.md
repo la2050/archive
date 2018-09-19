@@ -8,8 +8,6 @@ ein: '473050128'
 zip: '90039'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473050128'
 ntee_type: ''
-tags_indicators:
-  - Rescue unbuildable land for solar/drought resistant farming
 twitter: 'https://twitter.com/farm_la'
 instagram: 'https://instagram.com/farm_la'
 facebook: 'https://www.facebook.com/FarmLosAngeles?fref=nf'

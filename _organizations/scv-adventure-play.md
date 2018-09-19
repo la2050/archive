@@ -8,7 +8,6 @@ ein: '473489539'
 zip: '91384'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: '@SCVAdvPlay'
 instagram: ''
 facebook: www.facebook.com/scvadventureplay

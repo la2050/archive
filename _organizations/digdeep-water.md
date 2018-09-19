@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Sustainability
-  - youth
-  - community health
-  - public health
-  - green industry
-  - mentoriship
 twitter: digdeeph2o
 instagram: DigDeepWater
 facebook: digdeepwater

@@ -8,11 +8,6 @@ ein: '810832318'
 zip: '91605'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
-  - 'Income and Employment: Homelessness'
-  - Volunteerism
-  - Underserved communities
 twitter: '@lavamaela'
 instagram: lavamae_la
 facebook: lavamae_la

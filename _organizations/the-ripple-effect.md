@@ -8,7 +8,6 @@ ein: '330748320'
 zip: '90807'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330748320'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/1rippleeffect
 instagram: ''
 facebook: www.facebook.com/TheRippleEffect1

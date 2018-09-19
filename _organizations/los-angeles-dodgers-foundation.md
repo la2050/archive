@@ -8,14 +8,6 @@ ein: '954623022'
 zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
 ntee_type: ''
-tags_indicators:
-  - Health
-  - 'Social Connectedness. Environmental Quality: Fitness'
-  - Sports
-  - Underserved communities
-  - Underserved youth
-  - Volunteerism
-  - Public Space
 twitter: '@DodgersFdn'
 instagram: '@DodgersFoundation'
 facebook: /LosAngelesDodgersFoundation/

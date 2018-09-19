@@ -238,7 +238,7 @@ text-align: left;
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
-  <li class="{{ data.category }}" data-tags="{{ data['tags_indicators'] }}">
+  <li class="{{ data.category }}" data-tags="{{ data['tags_indicators'] | join: "," }}">
     <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
@@ -307,26 +307,13 @@ text-align: left;
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 15 | plus: 1 %}
-  <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 2 | plus: 1 %}
+  <li><a href="/search/?tags={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
 </details>
 
 
-{% comment %}
-<details class="tags" style="margin-bottom: 3em;" open>
-<summary>
-<h2><strong>Browse</strong> by tag</h2>
-</summary>
-<ul class="action">
-{% for item in site.data.tags %}
-  {% assign font_scale_factor = item.count | times: 1.0 | divided_by: site.data.tags.size | times: 10 | plus: 1 %}
-  <li><a href="/search/?keywords={{ item.tag }}" {% if item.count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ item.tag }}</a></li>
-{% endfor %}
-</ul>
-</details>
-{% endcomment %}
 
 
 <script>
@@ -406,9 +393,10 @@ text-align: left;
   }
 
   var keywords = getParameterByName('keywords');
+  var searchByTags = getParameterByName('tags');
 
   // TEMPORARY: Show all projects if keywords are absent
-  if (projectList && !keywords) {
+  if (projectList && !keywords && !searchByTags) {
     var items = projectList.getElementsByTagName('script');
     for (var index = 0; index < items.length; index++) {
        projectList.insertAdjacentHTML('beforeend', items[index].innerHTML);
@@ -416,7 +404,7 @@ text-align: left;
     return;
   }
 
-  if (!keywords || !form || !field || !projectList) return; // TODO: Show an error message?
+  if ((!keywords && !searchByTags) || !form || !field || !projectList) return; // TODO: Show an error message?
 
   field.value = keywords;
   var keywordsIndicator = document.getElementById('keywords');
@@ -480,21 +468,28 @@ text-align: left;
   // var fragment = document.createDocumentFragment();
   var items = projectList.getElementsByTagName('script');
   var matches = [];
-  for (var index = 0; index < items.length; index++) {
+  if (keywords) {
     var keywordList = keywords.replace(/\s/, ',').split(',');
     if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
       return keyword != "and";
     })
+  }
+  for (var index = 0; index < items.length; index++) {
     var tags = [];
     var tagsMatches = items[index].innerHTML.match(/data-tags=\"([^\"]+)\"/);
     // console.dir(tagsMatches)
-    if (tagsMatches && tagsMatches.length > 1) tags = tagsMatches[1].split(", ");
-    var rank = containsAnyKeyword(keywordList, items[index].innerHTML);
+    if (tagsMatches && tagsMatches.length > 1) tags = tagsMatches[1].split(",");
+    var rank = 0
+
+    if (keywordList) rank += containsAnyKeyword(keywordList, items[index].innerHTML);
+
+    console.dir(tags)
 
     for (var j = 0; j < tags.length; j++) {
-      if (tags[j] === keywords) {
+      if (tags[j] === keywords || tags[j] === searchByTags) {
         console.log("Tag match found: " + tags[j]);
         console.log("Keywords: " + keywords);
+        console.log("Tags: " + searchByTags);
         rank += 100; // An exact tag match gets 100 points
       }
     }

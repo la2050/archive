@@ -8,7 +8,6 @@ ein: '530196605'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=530196605'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/RedCrossLA
 instagram: ''
 facebook: www.facebook.com/redcrossla

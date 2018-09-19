@@ -8,11 +8,6 @@ ein: '275334557'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=275334557'
 ntee_type: ''
-tags_indicators:
-  - Environmental Quality
-  - 'Income and Employment: Green technology'
-  - Entrepreneurship
-  - Small business
 twitter: '@dlba'
 instagram: www.instagram.com/dlba/
 facebook: www.facebook.com/downtownlongbeach/

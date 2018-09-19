@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Social connectedness
-  - arts and culture vitality
-  - creative industry
-  - underserved communities
-  - diversity
-  - inclusion
 twitter: cornerstonethtr
 instagram: cornerstonetheater
 facebook: cornerstonetheater

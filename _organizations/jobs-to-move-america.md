@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Income and employment
-  - job training
-  - training and development
-  - local manufacturing
 twitter: JobsMoveAmerica
 instagram: JobstoMoveAmerica
 facebook: JobstoMoveAmerica

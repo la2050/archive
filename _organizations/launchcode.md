@@ -8,10 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Career readiness
-  - Economic development
-  - Mentorship
 twitter: Launch_Code
 instagram: launchcodestl
 facebook: launchcode

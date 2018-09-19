@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Animal advocacy
 twitter: PrettyGoodCat
 instagram: prettygoodcat
 facebook: prettygoodcat

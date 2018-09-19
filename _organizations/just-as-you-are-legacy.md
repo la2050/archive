@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - creative industry
-  - entertainment industry
-  - income and employment
-  - mentorship
 twitter: jayalegacy
 instagram: Jaya-Legacy-1744895492449502/?fref=ts
 facebook: jayalegacy

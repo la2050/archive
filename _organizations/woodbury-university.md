@@ -7,7 +7,6 @@ ein: '952786163'
 zip: 91504-1052
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952786163'
 ntee_type: ''
-tags_indicators: ''
 twitter: ''
 instagram: ''
 facebook: ''

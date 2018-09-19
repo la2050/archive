@@ -8,10 +8,6 @@ ein: '451601262'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451601262'
 ntee_type: ''
-tags_indicators:
-  - 'Health: Technology'
-  - Food inequality
-  - Healthy food
 twitter: '@NotImpossible'
 instagram: NotImpossible
 facebook: NotImpossible

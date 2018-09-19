@@ -8,10 +8,6 @@ ein: '954459427'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954459427'
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
-  - 'Income and Employment: Training and development'
-  - Underserved communities
 twitter: '@FairWorkweekLA'
 instagram: '@FairWorkweekLA'
 facebook: facebook.com/fairworkweekla

@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: LA_mag
 instagram: 'https://www.facebook.com/LosAngelesmag/'
 facebook: la_mag

@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - media
-  - arts and culture
-  - education
-  - community health
-  - creative industry
 twitter: writewithmozi
 instagram: themozi
 facebook: N/A

@@ -8,8 +8,6 @@ ein: '472219458'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472219458'
 ntee_type: ''
-tags_indicators:
-  - Bring together communities through nutrion (Vision 80)
 twitter: 'https://twitter.com/happycityus'
 instagram: ''
 facebook: 'https://www.facebook.com/happycity.us'

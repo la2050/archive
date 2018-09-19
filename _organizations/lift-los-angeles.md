@@ -8,13 +8,6 @@ ein: '522168409'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522168409'
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
-  - 'Income and Employment: Poverty'
-  - Financial management
-  - Underserved communities
-  - Inclusion
-  - Mentorship
 twitter: '@LIFTCommunities'
 instagram: liftcommunities
 facebook: '@LIFTcommunities'

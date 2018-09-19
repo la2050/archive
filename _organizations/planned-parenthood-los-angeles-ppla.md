@@ -8,10 +8,6 @@ ein: '952408623'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952408623'
 ntee_type: ''
-tags_indicators:
-  - Sexual health
-  - progressive policy
-  - Affordable health services and testing
 twitter: PPLosAngeles
 instagram: plannedparenthoodla
 facebook: pplapeeradvocates

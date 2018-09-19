@@ -9,7 +9,8 @@ zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271538597'
 ntee_type: ''
 tags_indicators:
-  - Income & Employment
+  - 22 Art
+  - 05 Workforce development
 twitter: ''
 instagram: ''
 facebook: ''

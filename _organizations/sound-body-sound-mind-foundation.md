@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Fitness
-  - Youth
 twitter: UCLAHealth
 instagram: uclahealth
 facebook: uclahealth

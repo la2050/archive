@@ -8,7 +8,6 @@ ein: '463776168'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: WithLoveLA
 instagram: WithLoveLA_
 facebook: With Love Community Market and Cafe - Doors Open Late Summer 2014

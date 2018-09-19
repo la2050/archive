@@ -8,10 +8,6 @@ ein: '951641424'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641424'
 ntee_type: ''
-tags_indicators:
-  - Child health
-  - Child support
-  - Child mental health
 twitter: 'https://twitter.com/CII_Updates'
 instagram: ''
 facebook: 'https://www.facebook.com/Childrens-Institute-Inc-CII-103939291803/timeline/'

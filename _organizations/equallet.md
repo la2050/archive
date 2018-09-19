@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Women's advocacy
-  - small business
-  - entrepreneurship
-  - job training
 twitter: equallet
 instagram: equallet/?fref=ts
 facebook: na

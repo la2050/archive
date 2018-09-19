@@ -10,9 +10,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Ecosystem
-  - 'green industry,'
 twitter: LAcitysense
 instagram: La-CitySense-348205538857872/
 facebook: LAcitysense

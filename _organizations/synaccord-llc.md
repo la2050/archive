@@ -9,10 +9,6 @@ ein: '47448496'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - 'Social Connectedness: Underserved communities'
-  - Neighborhood councils
-  - Inclusion
 twitter: '@synaccord'
 instagram: engageyourneighborhood
 facebook: 'https://www.facebook.com/synaccord'

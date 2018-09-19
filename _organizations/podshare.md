@@ -8,9 +8,6 @@ ein: '811021799'
 zip: '90035'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - 'Housing: Affordable housing'
-  - Homelessness
 twitter: '@podshare'
 instagram: Podshare
 facebook: 'https://www.facebook.com/PodShare/'

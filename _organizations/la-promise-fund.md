@@ -8,15 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Job training
-  - mentorship
-  - diversity
-  - inclusion
-  - education
-  - income and employment
-  - communities of color
-  - volunteerism
 twitter: LAPromiseFund
 instagram: LAFund
 facebook: lapromisefund

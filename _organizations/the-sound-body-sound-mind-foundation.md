@@ -8,8 +8,6 @@ ein: '203604882'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203604882'
 ntee_type: ''
-tags_indicators:
-  - Workout equipment to high school and junior high students
 twitter: www.twitter.com/SBSMFoundation
 instagram: ''
 facebook: www.facebook.com/soundbodysoundmind.org/

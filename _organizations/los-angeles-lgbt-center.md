@@ -8,10 +8,6 @@ ein: '953567895'
 zip: '94114'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953567895'
 ntee_type: ''
-tags_indicators:
-  - 'Social Connectedness: Underserved communities'
-  - Diversity
-  - Policy
 twitter: '@lalgbtcenter'
 instagram: '@lalgbtcenter'
 facebook: '@lalgbtcenter'

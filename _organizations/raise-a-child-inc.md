@@ -8,9 +8,6 @@ ein: '453665296'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453665296'
 ntee_type: ''
-tags_indicators:
-  - 'Social Connectedness: Foster care'
-  - Media
 twitter: '@RaiseAChild'
 instagram: RaiseAChild
 facebook: RaiseAChild

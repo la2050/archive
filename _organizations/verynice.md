@@ -8,8 +8,6 @@ ein: '455282740'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Social Connectedness
 twitter: ''
 instagram: ''
 facebook: ''

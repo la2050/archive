@@ -8,7 +8,6 @@ ein: '954171497'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954171497'
 ntee_type: ''
-tags_indicators: ''
 twitter: '@folartweets, @LARiverRover, @TheFrogSpot'
 instagram: Friends of the Los Angeles River
 facebook: LosAngelesRiver

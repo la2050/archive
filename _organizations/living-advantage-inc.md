@@ -8,7 +8,6 @@ ein: '954447561'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954447561'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/LivAdvInc
 instagram: www.instagram.com/livingadvantagebenefit
 facebook: www.facebook.com/livingadvantage

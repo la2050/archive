@@ -8,13 +8,6 @@ ein: '813780149'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Education
-  - 'Income and Employment: Career readiness'
-  - Education
-  - Technology
-  - Underserved communities
-  - Youth
 twitter: '@data360me'
 instagram: 0
 facebook: 'https://www.facebook.com/data360solutions/'

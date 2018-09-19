@@ -8,8 +8,6 @@ ein: '565687413'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Income & Employment
 twitter: ''
 instagram: ''
 facebook: ''

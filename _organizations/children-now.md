@@ -8,11 +8,6 @@ ein: '943059243'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943059243'
 ntee_type: ''
-tags_indicators:
-  - Education
-  - 'Social Connectedness: Children'
-  - Underserved youth
-  - Youth
 twitter: '@ChildrenNow'
 instagram: 0
 facebook: Children-Now-224016820554/

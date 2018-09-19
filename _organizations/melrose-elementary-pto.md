@@ -8,14 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Digital literacy
-  - underserved youth
-  - diversity
-  - education
-  - digital equity
-  - sustainability
-  - green industry
 twitter: MelroseMSTPTO
 instagram: MelroseElementaryPTO
 facebook: melrosemstpto

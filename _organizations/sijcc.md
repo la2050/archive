@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture vitality
-  - innovation
-  - creative intrustry
-  - arts and culture
-  - social connectedness
-  - 'community health,'
 twitter: eastsidejews
 instagram: silverlakejcc
 facebook: sijcc

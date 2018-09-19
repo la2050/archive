@@ -8,11 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - education
-  - financial management
-  - income and employment
-  - training and development
 twitter: H2S_NPO
 instagram: HeretoServe.Nonprofit/?pnref=lhc
 facebook: Here_to_Serve_NPO

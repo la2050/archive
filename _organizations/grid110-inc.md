@@ -8,11 +8,6 @@ ein: '474318779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'
 ntee_type: ''
-tags_indicators:
-  - Income and Employment
-  - 'Education: Entrepreneurship'
-  - Technology
-  - Digital literacy
 twitter: grid110
 instagram: grid110
 facebook: 'https://facebook.com/grid110'

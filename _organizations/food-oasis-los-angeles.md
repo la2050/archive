@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Food inequality
-  - healthy food
 twitter: foodoasisla
 instagram: foodoasisla
 facebook: none

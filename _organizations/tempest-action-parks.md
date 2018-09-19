@@ -8,7 +8,6 @@ ein: '262209104'
 zip: '90250'
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/tmpstactionpark
 instagram: www.instagram.com/tempestactionparks
 facebook: www.facebook.com/tempestactionparks

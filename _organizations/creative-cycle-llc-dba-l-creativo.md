@@ -8,7 +8,6 @@ ein: '453189725'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators: ''
 twitter: L_Creativo
 instagram: ''
 facebook: www.facebook.com/lcreativofest

@@ -8,8 +8,6 @@ ein: '237105149'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237105149'
 ntee_type: ''
-tags_indicators:
-  - Housing
 twitter: ''
 instagram: ''
 facebook: ''

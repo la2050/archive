@@ -8,7 +8,6 @@ ein: '951656369'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951656369'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/LightTheWayBCC
 instagram: 'https://instagram.com/blindchildrenscenter/'
 facebook: www.facebook.com/blindchildrenscenter

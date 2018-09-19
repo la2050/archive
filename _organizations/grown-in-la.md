@@ -8,9 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Public space
-  - food inequality
 twitter: '@Conserve_CA'
 instagram: natureconservancycalifornia/
 facebook: growninla

@@ -8,13 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Arts and culture
-  - underserved communities
-  - youth
-  - children
-  - education
-  - mentorship
 twitter: InnerCityArts
 instagram: innercityartsLA
 facebook: innercityarts

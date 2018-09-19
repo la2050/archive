@@ -8,8 +8,6 @@ ein: '383886677'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Health
 twitter: ''
 instagram: ''
 facebook: ''

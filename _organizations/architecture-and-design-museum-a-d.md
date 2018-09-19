@@ -8,7 +8,6 @@ ein: '481269978'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=481269978'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/aplusd_la
 instagram: www.instagram.com/aplusd_la
 facebook: www.facebook.com/aplusd.la

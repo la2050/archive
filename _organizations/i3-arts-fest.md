@@ -8,8 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - '#N/A'
 twitter: 'GrandPark_LA,GrandPerfs'
 instagram: i3artsfest
 facebook: 'GrandPark_LA,GrandPerfs, MakeMusicLA, Playascape'

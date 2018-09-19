@@ -8,7 +8,6 @@ ein: '472247578'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472247578'
 ntee_type: ''
-tags_indicators: ''
 twitter: la3dspace
 instagram: la3dspace
 facebook: la3dspace

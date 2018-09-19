@@ -8,7 +8,6 @@ ein: '510665121'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510665121'
 ntee_type: ''
-tags_indicators: ''
 twitter: www.twitter.com/dublab
 instagram: 'https://instagram.com/dublab/'
 facebook: 'https://www.facebook.com/dublab'

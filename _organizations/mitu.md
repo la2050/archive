@@ -8,12 +8,6 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
-tags_indicators:
-  - Social connectedness
-  - diversity
-  - underserved communities
-  - arts and creative vitality
-  - creative industry
 twitter: wearemitu
 instagram: wearemitu
 facebook: wearemitu
