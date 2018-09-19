@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2016064'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/U6P_iHfyivY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/U6P_iHfyivY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/U6P_iHfyivY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The 4Liter Challenge has already come a long way, and DIGDEEP is ready to
   accelerate the project into LA County schools!

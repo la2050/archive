@@ -5,8 +5,8 @@ project_summary: '1'
 category: live
 organization_id: '2014165'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/ZVtljIILth8/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/ZVtljIILth8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ZVtljIILth8'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Within the first year, the three new community gardens will provide access to
   healthy food and exercise for at least 150 low-income families in LA County.

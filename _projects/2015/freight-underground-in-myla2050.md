@@ -160,7 +160,8 @@ How do you plan to scale the success of your proposal?: >-
   https://www.gov.ca.gov/news.php?id=19046
    This executive order seeks widespread collaboration to achieve a sustainable freight transportation system. The MYLA2050 award will sustain our companies efforts to connect with the state, federal, regional, and local stakeholders to move this proposal forward. We intend to scale the proposal by engaging with private firms interested in investing in our transportation infrastructure, however, we must collaborate with local stakeholders first to ensure that the project is in demand from communities near the freight supply chain. We seek support from both public and private interests to engage with these "grassroots" and under represented constituencies. The ultimate success of failure of this project lies within our ability to evaluate the project for feasibility. This is what the core mission is of the proposers and the MYLA2050 award is a means to start the process.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/Z8CUwycoaCc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Z8CUwycoaCc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Z8CUwycoaCc'
 youtube_video_identifier: Z8CUwycoaCc
 project_areas:
   - East LA

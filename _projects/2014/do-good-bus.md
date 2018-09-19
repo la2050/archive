@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014026'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/T17vBV41x0g'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Hop on the bus and we’ll do the rest! Here at the Do Good Bus, we deliver an
   exciting and engaging opportunity to get involved with your community and to

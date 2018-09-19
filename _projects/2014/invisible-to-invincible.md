@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014163'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/6BWp4B7O03I'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Sustainable Little Tokyo has a clear implementation plan with the support of
   the two-year national Target Cities pilot program to explore this brand new

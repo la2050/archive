@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014055'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/cVrWTvw8gFc'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LADADSpace’s strength lies in its deep relationships with property owners,
   restaurants, businesses, arts organizations, and artists in the Arts District

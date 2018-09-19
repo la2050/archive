@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014037'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/5fr_Qf0ZQ7M'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Inspired by the hymn,“Shall We Gather at the River?” FoLAR's founders united
   to influence public opinion by bringing individuals, reporters,

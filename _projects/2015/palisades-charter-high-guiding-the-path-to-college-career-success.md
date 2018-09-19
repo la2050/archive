@@ -123,7 +123,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Our goal is to have the students, parents and counselors work as a team to guide our students towards becoming college and career ready by utilizing the tools provided to them with the goal of embracing their own future with knowledge and confidence.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/XUlv1Zd4JZU'
 youtube_video_identifier: XUlv1Zd4JZU
 project_areas: []
 body_class: strawberry

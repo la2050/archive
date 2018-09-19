@@ -145,7 +145,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Our proposal envisions the survey component to be a key deliverable in the form of a multi-lingual playbook that outlines strategies and best practices for community development that can be scaled and deployed to other regions of LA County. Identifying the Promise Zone’s next generation of leaders and change agents and delivering the promise of a Los Angeles as a functioning, well-run city that works with and for all Angelenos.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/MbjQABq5iTI'
 youtube_video_identifier: MbjQABq5iTI
 project_areas:
   - Central LA

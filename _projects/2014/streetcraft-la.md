@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2015175'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/LDkB_pxZu2k/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/LDkB_pxZu2k'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   How do we help kids create their own jobs in the creative economy? Streetcraft
   LA’s approach to launching creative micro-ventures is a three-step model we

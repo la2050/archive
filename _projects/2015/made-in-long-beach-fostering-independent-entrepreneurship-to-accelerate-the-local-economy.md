@@ -149,7 +149,8 @@ How do you plan to scale the success of your proposal?: |-
    
    Because these models are based on amount of product and fees, they are scalable for the growth of clients that we receive. Moreover, we do make revenue by renting out facility space for events, for which we charge 50%.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/TNz5Q0G-KAs'
 youtube_video_identifier: TNz5Q0G-KAs
 project_areas:
   - County of Los Angeles

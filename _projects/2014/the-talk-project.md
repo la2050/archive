@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014159'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ez1sypeq2hI'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   There are three main objectives for the Invisible to Invincible Campaign: 1)
   Political/Community change regarding the four challenges identified in our

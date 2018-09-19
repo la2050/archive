@@ -90,7 +90,8 @@ How do you plan to scale the success of your proposal?: >-
    10%: Transitional Units: These units have the ability to transition 120 - 240 at risk / homeless individuals into stable housing through our 6 month or 1 year comprehensive programs.
    By using various for-profit business models, Sustaynabl will provide a source of funding for responsible housing development and create the foundation of a balanced housing market.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/5-66_Xqn0Cw'
 youtube_video_identifier: 5-66_Xqn0Cw
 project_areas:
   - Central LA

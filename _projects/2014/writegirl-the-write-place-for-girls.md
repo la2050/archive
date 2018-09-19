@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014228'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/FmHmFIlfA4A'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   For many years, WriteGirl has offered workshops and creative programming for
   girls at community centers, museums, parks and theaters all over greater Los

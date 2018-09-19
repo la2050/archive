@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014082'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/iHlwRhoV_78'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Resilient South LA nonprofits will become local capacity builders and earn
   income as community-based consulting firms. Organizations that have shown

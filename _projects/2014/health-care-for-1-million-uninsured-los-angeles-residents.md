@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014162'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/-8HpYaBGc4I'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will create a framework to implement programs that address public
   health, connectivity, and maximizing local health infrastructure. The

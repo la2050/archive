@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014091'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/0SGeH9Mnt2k'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   HOPSCOTCH is planned for October 2015, but the concept for the project has
   been in development since April of 2013. We are currently at the stage of

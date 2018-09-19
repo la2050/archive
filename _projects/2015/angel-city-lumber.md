@@ -102,7 +102,8 @@ How do you plan to scale the success of your proposal?: >-
    
    The beauty of urban lumber is the simplicity of it’s message, re-use local resources that are otherwise being wasted. It is also a sound business plan, as we’ve seen with the success of urban lumber companies elsewhere. Angel City Lumber hopes to expand it’s operation - while at the same time expanding the awareness of Angelenos of the value of our local resources.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/4Kt14HIJyiU'
 youtube_video_identifier: 4Kt14HIJyiU
 project_areas:
   - East LA

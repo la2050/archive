@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2018121'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/JEFLrDV_RDE/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/JEFLrDV_RDE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/JEFLrDV_RDE'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ALIP will target women and minorities with an emphasis on emerging Latino
   content creators in LA communities traditionally under-served by professional

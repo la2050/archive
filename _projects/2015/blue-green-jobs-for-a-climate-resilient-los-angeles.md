@@ -102,7 +102,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Our ultimate aim is to design a curriculum that can be transferred to colleges throughout the California Community College System and ultimately, the west.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fvo26NJM3JM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/fvo26NJM3JM'
 youtube_video_identifier: fvo26NJM3JM
 project_areas:
   - City of Los Angeles

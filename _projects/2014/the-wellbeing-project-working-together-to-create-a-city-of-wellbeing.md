@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014016'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/quAWRNiRKEg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Wellbeing Project is a game-changing update to the way a community
   understands its strengths and challenges. The Local Wellbeing Index will

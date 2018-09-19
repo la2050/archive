@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014018'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/CQsypZUTmbo'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CSU will work with partners to create a series of seven mini Earth Day South
   LA events as well as EDSLA 2015 and a new Produce Stand launch event in

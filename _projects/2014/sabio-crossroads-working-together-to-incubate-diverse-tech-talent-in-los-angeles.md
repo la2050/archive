@@ -9,8 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2014078'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/QaoTDnw-Xtw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   If the LA2050 Challenge Grant were to be awarded to The Sabio Crossroads
   Creative Tech Training Program (Creative Tech) it would be implemented via a

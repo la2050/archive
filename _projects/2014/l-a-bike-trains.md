@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014046'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The idea: Individuals can create social solutions to hard problems that
   frequently seem insurmountable or dependent on major infrastructure.

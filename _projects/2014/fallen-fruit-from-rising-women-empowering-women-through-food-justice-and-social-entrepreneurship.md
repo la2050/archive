@@ -9,8 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2014024'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Ht0-3dSjCew'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FFFRW is an established program and has been running successfully since 2010.
   Currently, Crossroads residents work with Claremont College students enrolled

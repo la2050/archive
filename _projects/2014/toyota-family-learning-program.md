@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014212'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/7nJBFWm-mb0'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We completed our first full year of implementation as one of only five
   recipients (out of over 250 applicants) of the national Toyota Family Learning

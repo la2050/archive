@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014005'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Eg3e5xfocOk'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Recognizing that LA is a place where no life or space is wasted, ABF creates
   opportunities for the formerly incarcerated to build up the health of

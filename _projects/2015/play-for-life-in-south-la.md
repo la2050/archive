@@ -127,7 +127,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We also plan to scale our impact through community partnerships, most notably the creation of new community gardens throughout our neighborhood. Additionally, we are in the process of codifying the APCH approach. APCH would like to further codify and standardize the gathering and tracking of data to identify and apply appropriate metrics in assessing and documenting acquisition and development of academic skills and rigor, attitudinal change, social competency, career aptitude, self-efficacy, and preparedness for transition to next levels of education, vocation and independence.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/wzFv5uV3pew'
 youtube_video_identifier: wzFv5uV3pew
 project_areas:
   - Central LA

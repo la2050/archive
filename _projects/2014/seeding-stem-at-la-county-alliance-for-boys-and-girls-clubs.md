@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014167'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/JAZZ3YBKHzY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The curriculum was created by East Los Angeles College instructors in
   alignment with common core standards for a pilot program which ran from

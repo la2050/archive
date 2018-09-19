@@ -88,7 +88,8 @@ How do you plan to scale the success of your proposal?: >-
    We will build and sustain a robust communication effort around our conference through direct marketing (at UCLA), social media and our newsletters, to keep participants engaged in our work, as well as to reach out to as many people as possible. We intend to use pictures, videos and anecdotes from our conference and the rest of our campaign endeavors to display the kind of work that we do throughout the year, and we expect a large increase in our ‘following’ on our Facebook page, Instagram, email lists and twitter this year, helping us to reach out to a larger audience.
    The success of our 2015 Conference will also help us expand our network of contacts that we can use for inviting keynote speakers, conducting workshops and collaborating with experienced organizations in 2016. This in turn will allow us to conduct larger conferences with better resources in the years forward.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/YHlDfLtzSio'
 youtube_video_identifier: YHlDfLtzSio
 project_areas:
   - Central LA

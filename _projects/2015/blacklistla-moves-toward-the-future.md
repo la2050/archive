@@ -89,7 +89,8 @@ How do you plan to scale the success of your proposal?: >-
   scalability lies in our ability to offer more runs throughout the city, as
   well as our ability to connect people in-person and online.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/U6oh03TPQOw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/U6oh03TPQOw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/U6oh03TPQOw'
 youtube_video_identifier: U6oh03TPQOw
 project_areas:
   - Central LA

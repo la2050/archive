@@ -64,7 +64,8 @@ How do you plan to scale the success of your proposal?: >-
   certain number of youth each day for participation and getting new interested
   youth involved.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/IscZOss0am8'
 youtube_video_identifier: IscZOss0am8
 project_areas:
   - San Fernando Valley

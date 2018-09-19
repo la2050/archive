@@ -104,7 +104,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Because program participants will be served by ARC’s current Support Network upon release, a large focus of planning for expanding the program will concentrate on enhancing ARC's current Membership Services framework through the development of more robust case management services. ARC will enhance programming around supporting cognitive and behavioral issues, as well as providing additional support for trauma and substance abuse.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/jxDLaDNSLjo'
 youtube_video_identifier: jxDLaDNSLjo
 project_areas: []
 body_class: strawberry

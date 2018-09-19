@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2015186'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/fMyc7c0Ylc4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A new project to revitalize the LA River promises to deliver 18,000 jobs,
   billions in private development, and tremendous environmental benefits. But a

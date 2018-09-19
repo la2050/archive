@@ -78,7 +78,8 @@ How do you plan to scale the success of your proposal?: >-
   with public officials through our role in the coalition to bring to life a
   permanent transit-to-trails program.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/SVzSpv8Dj74'
 youtube_video_identifier: SVzSpv8Dj74
 project_areas:
   - San Gabriel Valley

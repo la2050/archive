@@ -9,8 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2015040'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/keXQ-tYKL9g/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/keXQ-tYKL9g/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/keXQ-tYKL9g'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Clothes The Deal has established several collaborations. Partnering agencies
   that refer clients have provided needs assessments to estimate the number of

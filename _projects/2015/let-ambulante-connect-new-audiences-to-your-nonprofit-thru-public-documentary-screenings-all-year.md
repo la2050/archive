@@ -119,7 +119,8 @@ How do you plan to scale the success of your proposal?: >-
   by working withour 40 plus filmmakers and providing each of them access to our
   projection and program
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/W6D_g6EB-QY'
 youtube_video_identifier: W6D_g6EB-QY
 project_areas:
   - Central LA

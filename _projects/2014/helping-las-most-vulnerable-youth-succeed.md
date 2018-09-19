@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014140'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/4hA5BjBbKm8/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/4hA5BjBbKm8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/4hA5BjBbKm8'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   When budgets are cut, those without a voice in government are the hardest hit.
   Foster youth are the most vulnerable Angelenos because the foster care system

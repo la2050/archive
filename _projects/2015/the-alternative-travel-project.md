@@ -86,7 +86,8 @@ How do you plan to scale the success of your proposal?: >-
   would be to educate people about the importance of the concepts proposed by
   ATP & to network with likeminded individuals.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/_D5ZYrmwF6Y'
 youtube_video_identifier: _D5ZYrmwF6Y
 project_areas:
   - County of Los Angeles

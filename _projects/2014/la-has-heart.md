@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2015087'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/Xau4GFWaEhY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/Xau4GFWaEhY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Xau4GFWaEhY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to implement this initiative, we will work with our existing partners
   who have been serving at-risk youth, so we can effectively and efficiently

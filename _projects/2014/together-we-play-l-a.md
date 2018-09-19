@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2015179'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/44E5ezgbzHg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Play as a Uniting Force: The school based aspect of the Together We Play L.A.!
   initiative will directly impact over 3,000 children in over 50 schools. Our

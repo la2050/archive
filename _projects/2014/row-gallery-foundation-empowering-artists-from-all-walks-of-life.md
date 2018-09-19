@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014077'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ApjqumUUgTI'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We plan on implementing this idea by first developing a fully functional
   interface where the organizations can upload the work. Account management will

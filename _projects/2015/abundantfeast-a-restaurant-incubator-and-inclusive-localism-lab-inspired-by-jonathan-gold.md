@@ -84,7 +84,8 @@ How do you plan to scale the success of your proposal?: >-
    We will collect ideas from our workshops along with example of places around the world where change has successfully been implemented; and links to books, articles, blogs and opinions related to changing transportation and related urban change. The website will be searchable – and readable in different layers by our different audiences.
    We hope that the C7 case study, ideas from Place It! workshops, examples of transportation and mobility approaches, , will point to ideas for for planning and policy reform will add up to a wider and stronger constituency of residents seeking to affect transportation and mobility. in Los Angeles.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/qyZQR5_KCEM'
 youtube_video_identifier: qyZQR5_KCEM
 project_areas:
   - East LA

@@ -114,7 +114,8 @@ How do you plan to scale the success of your proposal?: >-
    
    College Track and the i.am.angel foundation have a history of partnering with other nonprofit and government organizations across Los Angeles, and we are happy to share the lessons learned from our work at the i.am College Track center in Boyle Heights to improve academic outcomes for students across LA and help ensure that every high school student in LA will graduate and be college and career ready by 2050.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/vTrYQcYICQQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/vTrYQcYICQQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/vTrYQcYICQQ'
 youtube_video_identifier: vTrYQcYICQQ
 project_areas:
   - East LA

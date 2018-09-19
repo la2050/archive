@@ -136,7 +136,8 @@ How do you plan to scale the success of your proposal?: >-
    
    In the end, these plans will benefit more of our students and community members.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/c9y0Bp8kgT4'
 youtube_video_identifier: c9y0Bp8kgT4
 project_areas:
   - South LA

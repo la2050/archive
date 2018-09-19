@@ -169,7 +169,8 @@ How do you plan to scale the success of your proposal?: >-
    
    By greatly lowering the cost per program and growing the roster of health coaches and Program Ambassadors, Groceryships is now in a prime position to quickly scale. In 2015 Groceryships will run 10 programs for 100 families and has the capacity to run 30 or more programs in 2016 if the necessary funding is secured. Running 30 programs in 2016 would allow Groceryhips to scale even more rapidly with the number of additional trained health coaches and graduates for becoming Program Ambassadors. Having 300 additional alumni families from 30 new programs would also drive increased referrals for more Groceryships programs and intensify the priority for health in the South LA community.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/7GOyC2VCNOk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/7GOyC2VCNOk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/7GOyC2VCNOk'
 youtube_video_identifier: 7GOyC2VCNOk
 project_areas:
   - South LA

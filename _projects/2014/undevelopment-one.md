@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2016232'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/g8ndzuZ3kKM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/g8ndzuZ3kKM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our coalition brings together a unique set of skills, including communication
   experts, business leaders, and community organizers. Our campaign focuses on

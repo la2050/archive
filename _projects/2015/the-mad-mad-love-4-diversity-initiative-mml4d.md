@@ -22,7 +22,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': ''
 How do you plan to scale the success of your proposal?: ''
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/hN38-2LQ8Sk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/hN38-2LQ8Sk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/hN38-2LQ8Sk'
 youtube_video_identifier: hN38-2LQ8Sk
 project_areas:
   - County of Los Angeles

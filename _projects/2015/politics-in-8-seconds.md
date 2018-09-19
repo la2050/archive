@@ -138,7 +138,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We will focus on Los Angeles County and it’s 88 municipalities before scaling to other areas in Southern California. With proven success in Los Angeles, we plan to duplicate our program in neighboring areas, including Orange County and Ventura County.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/cljP5pJVVbE'
 youtube_video_identifier: cljP5pJVVbE
 project_areas:
   - Central LA

@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2015127'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/SrPeAWx2AMM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/SrPeAWx2AMM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/SrPeAWx2AMM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Neighborhood Land Trust is working to revitalize MacArthur Park as a
   thriving community hub that connects Angelenos. This year, we engaged over

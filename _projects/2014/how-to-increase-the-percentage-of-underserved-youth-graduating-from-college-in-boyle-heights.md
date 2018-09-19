@@ -9,8 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2016048'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/DcSdvVTv_Cg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/DcSdvVTv_Cg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CT’s successful model is currently being implemented in Boyle Heights. The
   model is innovative in 3 key ways: 1) it supports students continuously from

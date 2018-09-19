@@ -116,7 +116,8 @@ How do you plan to scale the success of your proposal?: >-
     
    Hollywood HEART is currently reaching out to community colleges who have targeted programs for first generation and low-income students to provide encouragement and support for our students who wish to continue working in art-related fields. We are also in preliminary discussions with a four-year college who has expressed an interest in launching a similar effort. Our initial programming will target students interested in career opportunities for “below the line” positions in film and television which aligns not only with our film and digital media workshops but also our culinary arts and fashion programs which translate easily to catering and costuming careers.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/7VGCk_c0VcU'
 youtube_video_identifier: 7VGCk_c0VcU
 project_areas:
   - LAUSD

@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014053'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/iFODyc5eUjQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   "...final adoption of Newspeak had been fixed for so late a date as 2050.” --
   last words, George Orwell’s 1984

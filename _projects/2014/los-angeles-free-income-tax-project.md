@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014045'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/tFrudFZCeRY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Did you know that thousands of volunteers throughout the United States drive
   one of the most effective anti-poverty strategies in the country? Volunteer

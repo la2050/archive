@@ -128,7 +128,8 @@ How do you plan to scale the success of your proposal?: >-
    
    The LitRemix vision is a fantastic mash-up of music, videos, and visual art from all over the world –celebrating some of the greatest works of both classic and modern literature.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/0EQnXawnCQk'
 youtube_video_identifier: 0EQnXawnCQk
 project_areas:
   - Westside

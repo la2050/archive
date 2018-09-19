@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014111'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/poREvQfFFL4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We want to present the voices of our future leaders. By 2050, the youth of
   today will be the generation that inherits Los Angeles. One of them may even

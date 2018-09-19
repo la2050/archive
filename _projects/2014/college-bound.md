@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014119'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/sI0_dZ4TpAA'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently support 14 other boys and girls clubs in Los Angeles County in
   their efforts to implement our College Bound program, Further, we support 41

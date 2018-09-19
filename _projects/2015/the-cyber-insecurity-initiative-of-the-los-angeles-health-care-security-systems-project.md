@@ -107,7 +107,8 @@ How do you plan to scale the success of your proposal?: >-
   out-patients. The pilot survey we will work with is at
   https://www.surveymonkey.com/r/healthcybersecurity.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/NNetdspYB4M'
 youtube_video_identifier: NNetdspYB4M
 project_areas:
   - County of Los Angeles

@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014147'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/RQJ6YjAJTNY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/RQJ6YjAJTNY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/RQJ6YjAJTNY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   I have contacted community organizations & subject matter experts that have
   agreed to partner with our organization to "Green The Block" in a West Long

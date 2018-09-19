@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014090'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/dCvzeDvQtLY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/dCvzeDvQtLY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/dCvzeDvQtLY'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   3 targeted workshop groups:
    1. SENIORS currently “playing” in local parks, recreation areas and senior centers, beaches and other public recreational areas

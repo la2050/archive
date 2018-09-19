@@ -149,7 +149,8 @@ How do you plan to scale the success of your proposal?: >-
    3. Monitor development to ensure community priorities are implemented. 
    Many residents aren't aware of the magnitude of the potential investment or the potential opportunity the River brings if the investment is shaped with local communities in mind. As River development begins, we will monitor activities and share information with residents to help develop tools for meaningfully shaping River community benefits.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/fMyc7c0Ylc4'
 youtube_video_identifier: fMyc7c0Ylc4
 project_areas: []
 body_class: strawberry

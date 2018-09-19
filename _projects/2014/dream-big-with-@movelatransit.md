@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2018084'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/wO0XVgSOcoY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/wO0XVgSOcoY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/wO0XVgSOcoY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Game-changing transportation investment is transforming Los Angeles County and
   it’s just the beginning! Transportation is the spine around which cities get

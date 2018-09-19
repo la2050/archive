@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014073'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/NtMAZqR4Tf4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our game FREEQ did a lot of cool thins - it created an audio world and a
   mystery to solve that was highly reactive to the choices players made. It’s

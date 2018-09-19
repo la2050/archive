@@ -99,7 +99,8 @@ How do you plan to scale the success of your proposal?: >-
    We are also at a time in our cultural development when the power and value of circle practices are being remembered. With the growth of the restorative justice movement, there is growing demand for the work we do. We expect the success of this project will create more demand for our services. The Bright Star organization is doing amazing work with severely underserved populations in some of LA's most difficult communities, and council is playing a big part in their success. Opportunities to work with other charter schools are and will continue emerging from our work with Bright Star. 
    The council space we are building at Gardner will bring additional attention to our work and additional opportunities to work with other schools, and to collaborate with other artists and architects interested in creating spaces for circle conversations.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/fKSh73dO49s/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fKSh73dO49s/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/fKSh73dO49s'
 youtube_video_identifier: fKSh73dO49s
 project_areas:
   - Central LA

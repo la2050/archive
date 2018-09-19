@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2018065'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/zO6iw8OKiwM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/zO6iw8OKiwM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/zO6iw8OKiwM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Connecting for Success is an innovative, original LA’s BEST program that
   promotes constructive approaches to conflict resolution, social

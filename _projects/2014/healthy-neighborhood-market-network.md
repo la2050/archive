@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2016135'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/zX43aG_3H48/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/zX43aG_3H48/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/zX43aG_3H48'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Los Angeles Food Policy Council builds the capacity of small "mom n’ pop"
   store owners in ‘food desert’ communities to thrive as good food businesses

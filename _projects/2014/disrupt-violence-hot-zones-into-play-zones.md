@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014003'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/nt_fnRYCyhI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/nt_fnRYCyhI'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In L.A.’s gang violence hot zones people are too afraid to play, or ride their
   bikes, or go to the park. But there are unexpected neighborhood heroes that

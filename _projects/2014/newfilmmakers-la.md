@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014062'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/grALjLXwxgM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   NewFilmmakers Los Angeles is requesting funds to aid us in expanding our core
   programming—NFMLA’s Monthly Screening Series, and On Location: the Los Angeles

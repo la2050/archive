@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014181'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/A9yf6DpgLSM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/A9yf6DpgLSM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/A9yf6DpgLSM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MNMS currently has 20 school clubs in 4 states, most of which are based right
   here in Southern California. MNMS currently offers schools the opportunity to

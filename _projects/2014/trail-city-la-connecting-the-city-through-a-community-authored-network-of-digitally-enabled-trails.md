@@ -9,8 +9,8 @@ project_summary: >-
 category: connect
 organization_id: '2014044'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/_1j9tLhT4z8'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A city-wide, community-based urban trails authoring platform. This web-based
   tool enables community organizations, interest groups, and the public to

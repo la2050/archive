@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2018014'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/WxrdQYucwHo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/WxrdQYucwHo'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The County of Los Angeles has more foster children than any other county in
   the United States, with over 28,000 children in the dependency system. In

@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014043'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/uVV1_WmFT9o'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   The i.am Makerspace will provide the following: 
    

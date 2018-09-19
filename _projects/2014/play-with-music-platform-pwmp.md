@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014095'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/o1W8HEqylCg'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   We have a 3 phase plan!
    

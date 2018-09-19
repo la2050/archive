@@ -5,8 +5,8 @@ project_summary: MEND provides medical services to local poverty-level people at
 category: live
 organization_id: '2014175'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/z_iZNryQIgw/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/z_iZNryQIgw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/z_iZNryQIgw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through the volunteer health volunteers, it provides basic ambulatory,
   hypertension, diabetic, vision, women’s health, acupuncture and chiropractic

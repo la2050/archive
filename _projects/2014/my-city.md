@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014028'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/NHaLkpe_jms'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MyCity is a web & mobile app that bridges Travelers with local Tour
   Specialists. Mass commercialized tours are prevalent as a one-size fits all

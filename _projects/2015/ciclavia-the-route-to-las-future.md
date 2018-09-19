@@ -175,7 +175,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Since 2010, the success of CicLAvia has resonated not only across the region, but also throughout the country. Open streets events have taken place in many of the country’s urban and rural cities, and CicLAvia has been the national model. While CicLAvia events are often measured by the number of participants, the success of the events will be strengthened by the overall positive impacts on our quality of life. CicLAvia improves air quality and increases the benefits to the local economy. It reinforces positive change in local and regional alternative transportation policies, and encourages conversation in creating new open space. And CicLAvia brings communities closer and makes people more connected to each other.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/1oq_kmWPaYk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/1oq_kmWPaYk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/1oq_kmWPaYk'
 youtube_video_identifier: 1oq_kmWPaYk
 project_areas:
   - Central LA

@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2018058'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/B8tTn7kwSIk/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/B8tTn7kwSIk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/B8tTn7kwSIk'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ‘Children must play, and children, if they live in the cities, must play in
   the streets.’ -1914 New York Times. For generations, residential streets

@@ -90,7 +90,8 @@ How do you plan to scale the success of your proposal?: >-
   possibility of expanding services and/or replicating the project's programs at
   other venues in neighboring high need communities.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gRaTc3pZvug/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/gRaTc3pZvug'
 youtube_video_identifier: gRaTc3pZvug
 project_areas:
   - South Bay

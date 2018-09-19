@@ -106,7 +106,8 @@ How do you plan to scale the success of your proposal?: >-
   aiming within the next four years to offer continuing program opportunities to
   every elementary school participant in a Young Storytellers program.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/9pqXAYBOKLo'
 youtube_video_identifier: 9pqXAYBOKLo
 project_areas:
   - Central LA

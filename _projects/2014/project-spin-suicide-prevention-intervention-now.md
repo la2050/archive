@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014207'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/lg-vCWbUV8s'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Project SPIN’s main focus areas include Policy and Advocacy (developing
   inclusive policies and best practices for systemic change), Mental Health Care

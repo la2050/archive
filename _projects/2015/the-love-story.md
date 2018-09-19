@@ -95,7 +95,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/2U1i7uKpy8Y'
 youtube_video_identifier: 2U1i7uKpy8Y
 project_areas:
   - East LA

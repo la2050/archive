@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014058'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Vv698CCwrt4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beginning with a one-day Ideafest on a local university campus, industry
   experts, city department officials, and web developers will compete in teams

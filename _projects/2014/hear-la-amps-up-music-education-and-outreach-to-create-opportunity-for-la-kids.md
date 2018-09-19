@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2016038'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/Vda4r42ouZQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/Vda4r42ouZQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Vda4r42ouZQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Citizens of the World Charter School Mar Vista purposely reflects ethnic,
   racial, linguistic and socioeconomic diversity. CWC believes that children who

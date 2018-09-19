@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014079'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/mei1C43QDXw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Building upon our 10-year track record as a presenting theatre and home to a
   resident theatre laboratory, Schkapf will expand its pilot programming

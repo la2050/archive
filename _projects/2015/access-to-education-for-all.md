@@ -95,7 +95,8 @@ How do you plan to scale the success of your proposal?: >-
    
    We will also have additional target goals like number of students to apply to higher learning and success measures such as indivicusl improved GPA.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/20ErlmkuIfQ'
 youtube_video_identifier: 20ErlmkuIfQ
 project_areas: []
 body_class: strawberry

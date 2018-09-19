@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014089'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/G4cMVQVTBkM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the Street Art Brokerage Firms’ projects, we will create a
   website and construct the database and continually update, promote and respond

@@ -88,7 +88,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Furthermore, the results from surveys will tell how effective our attempts of reaching and serving our community have been.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/-_7F7nxyZ1Y/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/-_7F7nxyZ1Y'
 youtube_video_identifier: '-_7F7nxyZ1Y'
 project_areas:
   - Westside

@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2018008'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/DZtldImzMPo/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/DZtldImzMPo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/DZtldImzMPo'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The mission of Big Citizen HUB is to build a community of Big Citizens,
   expanding the social capital of youth through curiosity, gratitude, team, and

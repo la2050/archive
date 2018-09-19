@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014023'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/K83J6XaqQlM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Executive Director, Elena Sophia Kozak, runs the Dance Leadership Program. She
   is in charge of implementing the following activities:

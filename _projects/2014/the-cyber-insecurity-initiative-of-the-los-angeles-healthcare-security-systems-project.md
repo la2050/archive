@@ -9,8 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2014220'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/aw-JuSolYNE/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/aw-JuSolYNE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/aw-JuSolYNE'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Funding Program
    The first action will be to invest a portion of the funds dedicated to creating further investment by government and foundations charged with advancing healthy communities measures by pragmatic and measurable means. 

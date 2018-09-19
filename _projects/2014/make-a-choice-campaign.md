@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014184'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/nF2CnqS_6oQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Ongoing: Youth leaders have developed a Tumblr for the campaign and meet twice
   a month as a group to discuss its content, which is populated with a campaign

@@ -9,8 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2015130'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/Rbh4r1scbVc/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/Rbh4r1scbVc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Rbh4r1scbVc'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1.- Implement and establish a clear platform and branding for social media and
   web presence of who we are, what we’ve done, where we’re going, as well as

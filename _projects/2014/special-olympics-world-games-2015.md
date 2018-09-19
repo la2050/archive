@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014084'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/DMG32xJ5p-Q'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Patterned after the Olympic Games, the Special Olympics World Games occur
   every two years alternating between Winter and Summer. LA 2015 will be the

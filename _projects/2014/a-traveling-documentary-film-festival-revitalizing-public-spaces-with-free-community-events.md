@@ -9,8 +9,8 @@ project_summary: >-
 category: connect
 organization_id: '2015007'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/6jwNTQKIwsI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/6jwNTQKIwsI'
 Which area(s) of LA does your project benefit? Other (elaborate): Santa Clara and Boyle Heights
 What is your idea/project in more detail?: >-
   Ambulante USA is a nonprofit based in Los Angeles that focuses on supporting

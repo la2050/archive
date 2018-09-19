@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014032'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/3CNwJdOyIDQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   EnrichLA has a significant track record for designing, building, and providing
   programming at schools across Los Angeles. Within the last 3 years, EnrichLA

@@ -91,7 +91,8 @@ How do you plan to scale the success of your proposal?: >-
   We will offer programs to all communities to replicate this successful
   program.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/g0KxazcQnVA'
 youtube_video_identifier: g0KxazcQnVA
 project_areas:
   - Westside

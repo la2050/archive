@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2015161'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/S_0nE1f2B1w'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Prototypes’ Pomona Women’s Center has been in operation since 1988, providing
   residential treatment to women and their children. Our LA2050 project will

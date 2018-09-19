@@ -25,7 +25,8 @@ Are there other organizations doing similar work (whether complementary or compe
 'Please include a detailed budget of how you will use $100,000 to implement this project.': '#N/A'
 How do you plan to scale the success of your proposal?: '#N/A'
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Ht0-3dSjCew'
 youtube_video_identifier: Ht0-3dSjCew
 project_areas:
   - San Gabriel Valley

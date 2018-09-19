@@ -113,7 +113,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Meanwhile, we expect that the external evaluation of our program that is currently underway will help us to validate our relationship-based service model, and identify opportunities to improve our program delivery, so that not only can we scale the program locally, but encourage its replication in communities nationwide.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/adLZ6eeMc2w/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/adLZ6eeMc2w'
 youtube_video_identifier: adLZ6eeMc2w
 project_areas:
   - County of Los Angeles

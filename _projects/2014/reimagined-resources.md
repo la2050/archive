@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2016205'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/vKCqcYfiVNA/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/vKCqcYfiVNA/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/vKCqcYfiVNA'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will work with School districts and public parks to establish the first
   sites. We have already begun the process by engaging Kevin James in the

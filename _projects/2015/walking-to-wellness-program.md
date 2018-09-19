@@ -175,7 +175,8 @@ How do you plan to scale the success of your proposal?: >-
   taking part in the program and how it helped them, generating further
   interest, and growing the number of participants.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/_AEWWNe6eQw'
 youtube_video_identifier: _AEWWNe6eQw
 project_areas:
   - Central LA

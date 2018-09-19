@@ -123,7 +123,8 @@ How do you plan to scale the success of your proposal?: >-
    Preschool Fair:
    “I'm a new mom and this was very helpful because some of the preschools I didn't find in my search on yelp, google search, & in the book. It was wonderful to be able to ask questions to multiple schools. Please keep having the fairs.”
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/mtWPecaYPCQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/mtWPecaYPCQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/mtWPecaYPCQ'
 youtube_video_identifier: mtWPecaYPCQ
 project_areas:
   - Central LA

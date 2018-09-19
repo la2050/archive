@@ -119,7 +119,8 @@ How do you plan to scale the success of your proposal?: >-
    – Launching a technology platform, Spark Online
    Through a partnership with LA corporate partner Cornerstone OnDemand, Spark is launching an online platform, Spark Online. This online platform puts key resources directly into the mentor’s hands, like activity resources, a project library, and training videos. It also provides a place for teachers to collaborate on each student’s Spark experience. In future years, the online platform will provide an avenue for Spark to share its program with other organizations, allowing the Spark model to scale.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/ueKmJQlz92o/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ueKmJQlz92o/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ueKmJQlz92o'
 youtube_video_identifier: ueKmJQlz92o
 project_areas:
   - Central LA

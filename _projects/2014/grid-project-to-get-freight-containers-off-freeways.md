@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014135'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/2Kn2iZ9g9C4/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/2Kn2iZ9g9C4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/2Kn2iZ9g9C4'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Collect Water /Plant Trees/Community Invention
    

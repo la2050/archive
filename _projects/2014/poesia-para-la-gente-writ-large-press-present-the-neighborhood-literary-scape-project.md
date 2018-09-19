@@ -9,8 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2014011'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/BtUB4Ycebms/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/BtUB4Ycebms/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/BtUB4Ycebms'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   The project will facilitate a series of 7 three-part programs. 
    

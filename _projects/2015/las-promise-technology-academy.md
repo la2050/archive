@@ -108,7 +108,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Off-Site Expansion – Expand program to other schools within the Los Angeles Unified School District.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/SXGVU13JPLU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SXGVU13JPLU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/SXGVU13JPLU'
 youtube_video_identifier: SXGVU13JPLU
 project_areas:
   - South LA

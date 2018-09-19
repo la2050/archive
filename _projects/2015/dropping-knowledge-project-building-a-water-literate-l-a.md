@@ -118,7 +118,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Heal the Bay is confident that its proposed Dropping Knowledge Project will make a great impact due in large part to the organization’s capacity to develop meaningful, call-to-action messaging, broad network of contacts in the Greater Los Angeles area and reputation as a reliable educational resource for the greater community– the project also has the potential of being successfully replicated in other large urban cities with water security issues and ethnically diverse populations.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/SC6HYm8Zp7M'
 youtube_video_identifier: SC6HYm8Zp7M
 project_areas:
   - Central LA

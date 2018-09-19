@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014191'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/fAQOxqwuIHk'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In order to implement this project, starting in September 2014, SCI-Arc and
   Habitat LA will begin a series of design-build studios whose structure is set

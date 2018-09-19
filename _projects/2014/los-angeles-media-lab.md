@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014034'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/DiU_9RR7ZvY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already began to implement the foundation of our plan through building
   a mobile studio, hosting live television tapings, teaching A/V workshops, and

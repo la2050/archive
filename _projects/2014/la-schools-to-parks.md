@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2018140'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/AmMHBgCHQsY/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/AmMHBgCHQsY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/AmMHBgCHQsY'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA Schools to Parks will increase community parks in the LA Promise Zone by
   working with schools to open their outdoor recreation space to the community

@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014013'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/I-2fvjBviRI'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beautify Earth’s vision is to create 50 murals in one year throughout South
   Los Angeles, initially targeting 3 neighborhoods: Crenshaw, Central

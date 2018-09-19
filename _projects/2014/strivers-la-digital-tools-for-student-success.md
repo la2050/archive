@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014194'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/lz8FDz2KN0s'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With Strivers.LA, students are prompted to share their exam calendars with
   people who can support their academic success (employers, parents, romantic

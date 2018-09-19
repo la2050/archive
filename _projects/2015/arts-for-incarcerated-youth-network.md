@@ -91,7 +91,8 @@ How do you plan to scale the success of your proposal?: >-
   world. It would be incredible to then see a project like this grow into other
   cities.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Wx27G6vdyF4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4'
 youtube_video_identifier: Wx27G6vdyF4
 project_areas:
   - County of Los Angeles

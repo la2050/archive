@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2015196'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/u0DYRf98w-o/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/u0DYRf98w-o'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Alternative Travel Project encourages people to volunteer days outside the
   bubble of their cars & find new ways to travel. 

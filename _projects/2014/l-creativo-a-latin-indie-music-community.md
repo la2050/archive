@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014022'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/XFrn3G05ZVc/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/XFrn3G05ZVc'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   L Creativo is already working towards the goals of the project outlined in
   this proposal. The team is ready to continue working with the same intensity

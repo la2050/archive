@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014008'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ytlmnttRP70'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through our work we know that sharing leads to more connected, resilient and
   sustainable communities. As part of Shareable’s Sharing Cities Network, we

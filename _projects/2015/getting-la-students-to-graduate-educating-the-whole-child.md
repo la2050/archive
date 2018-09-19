@@ -95,7 +95,8 @@ How do you plan to scale the success of your proposal?: >-
   South and Southeast LA. 
    This targeted Shared Mobility Plan could be a prototype for other disadvantaged communities in Southern California, from East LA to Long Beach to Inglewood and parts of the San Fernando Valley. All of these communities deserve to be part of the shift towards affordable shared mobility solutions, and this Plan will be a prototype for how to get there.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/8RfGcPRl--8'
 youtube_video_identifier: 8RfGcPRl--8
 project_areas:
   - Central LA

@@ -99,7 +99,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Building our jobs team will allow URM to significantly scale our program, doubling the number of men and women served during the 12 month grant funding period. Given the critical importance that jobs play in restoring the futures of the men and women we serve, we plan to leverage this grant to attract more funding, building our capacity to grow the meet the increasing needs. Over time, we plan to scale the program to serve all guests who turn to us for help, achieving our ultimate goal of Building a Better LA -- by Helping to End Skid Row through Jobs.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/uIeSYK3uGbU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/uIeSYK3uGbU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/uIeSYK3uGbU'
 youtube_video_identifier: uIeSYK3uGbU
 project_areas:
   - Central LA

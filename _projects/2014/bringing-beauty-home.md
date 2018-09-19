@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014014'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/XoT_36T5K5E'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Beauty Bus Foundation brings beauty home to chronically or terminally ill
   individuals and their caregivers. For the past five years, Beauty Bus

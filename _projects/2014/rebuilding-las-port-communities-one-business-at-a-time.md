@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014070'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/zmZJYC2WFVk'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   PortTech’s concentrated effort to identify, attract and retain qualified
   startups centers around the PortTech Pitch program. The first step of the

@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014124'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/6AUZY8VvXXQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/6AUZY8VvXXQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   ChapCare’s Marketing Manager will manage the project. The Manager is a member
   of ChapCare's Senior Leadership Team.

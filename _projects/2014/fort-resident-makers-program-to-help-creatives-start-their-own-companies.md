@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014035'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/kNqNTSXVqsI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/kNqNTSXVqsI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/kNqNTSXVqsI'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Currently FORT operates as a company that leverages reclaimed materials to
   create beautiful pieces of furniture. We also host DIY workshops, where

@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2016148'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/_PVTw0r1Njg/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/_PVTw0r1Njg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/_PVTw0r1Njg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In conjunction with the Mayor's office, we will select 1,000 Los Angeles
   classrooms to implement our pilot program for the 2014-2015 school year. M+B

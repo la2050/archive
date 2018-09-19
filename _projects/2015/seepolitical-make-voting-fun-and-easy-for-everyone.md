@@ -102,7 +102,8 @@ How do you plan to scale the success of your proposal?: >-
    
    A gift from the Goldhirsh Foundation this year will establish a reputation for improving civic literacy across the city, state and soon the nation!
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/atB8yIPXKCk'
 youtube_video_identifier: atB8yIPXKCk
 project_areas:
   - County of Los Angeles

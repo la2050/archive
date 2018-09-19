@@ -105,7 +105,8 @@ How do you plan to scale the success of your proposal?: >-
    
    Again, we are excited about opportunities to expand our commitment to social-emotional learning, and we are eager to collaborate with any like-minded organizations or individuals to make Los Angeles a better place to learn, live and connect.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/RVA2N6tX2cg'
 youtube_video_identifier: RVA2N6tX2cg
 project_areas:
   - City of Los Angeles

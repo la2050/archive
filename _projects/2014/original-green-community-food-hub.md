@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014177'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/zs2Oe9X1llQ'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   Step 1: Partner with local schools and youth groups
     - Reach out to school administrators, councilors, and teachers, as well as youth group leaders from local churches and community centers.

@@ -5,8 +5,8 @@ project_summary: '1'
 category: create
 organization_id: '2014076'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/1JDr-eMpJX4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project will represent what Los Angeles is, a multicultural society that
   is meant to live vibrantly, and share our resources, culture, and customs.

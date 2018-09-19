@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014152'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/jAOkF8UAOLI'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Hunger Action Los Angeles will complete the following activities to expand
   Market Match throughout more portions of Los Angeles County:

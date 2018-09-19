@@ -84,7 +84,8 @@ How do you plan to scale the success of your proposal?: >-
   guidebook for any other community that is interested in starting a T4T.org
   style traveling Makers Space using ReImagined Resources from their community.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/MkTQQ0m8Ys8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MkTQQ0m8Ys8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/MkTQQ0m8Ys8'
 youtube_video_identifier: MkTQQ0m8Ys8
 project_areas:
   - County of Los Angeles

@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2016093'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/O0GqacCipYM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/O0GqacCipYM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We currently have a feasibility study pending at CSUN, which, once completed,
   would enable us to win private financing that would fund engineering,

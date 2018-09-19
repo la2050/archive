@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2015177'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/XBMMD3_5s30/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/XBMMD3_5s30/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/XBMMD3_5s30'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   SeePolitical.com is an interactive website, widget and mobile app providing
   objective, easily understood information about ballot propositions for all

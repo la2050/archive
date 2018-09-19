@@ -7,8 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014206'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/tMwKJIhKIAU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/tMwKJIhKIAU'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The LA Fund launched the summer 2014 TIP pilot with 17 LAUSD students matched
   with 13 business partners to identify best practices and challenges to

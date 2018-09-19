@@ -9,8 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2014217'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/JB5MXGkG79E/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/JB5MXGkG79E/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/JB5MXGkG79E'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Three key resources underpin the economic, social, and environmental
   well-being of the LA region: the energy that powers our economy, the water

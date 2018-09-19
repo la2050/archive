@@ -9,8 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2018027'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/8tBfuIKLAao/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/8tBfuIKLAao/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/8tBfuIKLAao'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   As stated above, City Year and Partnership for LA Schools have worked closely
   together for a number of years. Both organizations serve schools and

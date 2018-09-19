@@ -143,7 +143,8 @@ How do you plan to scale the success of your proposal?: >-
    
    The steady success of this project has already created ripples outside of LA. The Partner School Network model is now being replicated in other regions of the country. Chicago, Cleveland, and Memphis are now either operating or about to launch school networks that will leverage best practices from the LA network’s six years of operation.
 year_submitted: 2015
-project_image: 'http://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/2EbK6sblpo0'
 youtube_video_identifier: 2EbK6sblpo0
 project_areas:
   - East LA

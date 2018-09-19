@@ -5,8 +5,8 @@ project_summary: '1'
 category: live
 organization_id: '2014190'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/DITouRhKW80'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   With our radiation data we changed the established method of reporting data as
   huge averages to giving pinpoint data down to a specific GPS location, giving

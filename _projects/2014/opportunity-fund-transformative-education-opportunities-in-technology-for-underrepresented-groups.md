@@ -9,8 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2014144'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/CMmY955jD5A'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The pilot Opportunity Fund program kicked off this June in New York, with 6
   fellows receiving scholarships. Over 300 online applications were received,

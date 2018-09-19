@@ -9,8 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2014189'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/zTPVN1p3Lg8'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The NEP has been part of SCC’s primary services since September 2013.
   Implementation of its services is ongoing throughout the year. The NEP is led

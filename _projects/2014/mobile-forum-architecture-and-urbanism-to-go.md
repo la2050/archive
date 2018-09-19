@@ -7,8 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014203'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/tgVu1wy15RQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement this project, we will install 75 more gardens in LA in the next
   twelve months.

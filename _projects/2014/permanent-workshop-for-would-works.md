@@ -5,8 +5,8 @@ project_summary: Would-Works is seeking permanent workspace to grow!
 category: create
 organization_id: '2014110'
 year_submitted: 2014
-project_image: 'http://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/xlsYqBrzY4k'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Launched with bootstrap funding in 2012, Would-Works has spent the past two
   years proving the validity of the concept of empowering individuals to improve
