@@ -396,25 +396,14 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
 
 
 
-{% comment %}
-<p class="{{ primary_color }}" style="max-width: none; grid-column: 1/-1; margin-bottom: 4.5em;">Here are ideas this organization had about how to make LA a better place to <a href="/{{ project.category }}/" style="font-weight: bold; color: var(--primary-color); text-transform: uppercase;">{{ project.category }}</a>.</p>
-{% endcomment %}
-
-
-
-
 
 <ul style="list-style: none; margin-left: 0; padding-left: 0; justify-self: center; width: 40em; max-width: 100%; box-sizing: border-box; margin-bottom: 3em;">
 
 
-  <li class="{{ primary_color }}" style="list-style: none; margin-left: 0; padding-left: 0; margin-bottom: 3em;">
+  <li class="{{ project.body_class }}" style="list-style: none; margin-left: 0; padding-left: 0; margin-bottom: 3em;">
 
       
-      {% comment %}
-      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea submitted by this organization in <strong style="color: inherit;">{{ project.year }}</strong> about how to make LA a better place to <a href="/{{ project.category }}/" style="font-weight: bold; color: var(--primary-color); text-transform: uppercase;">{{ project.category }}</a></small></p>
-      {% endcomment %}
-
-      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea about how to make LA a better place to <strong style="font-weight: bold; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.05em;">{{ project.category }}</strong>, submitted by this organization in <strong style="color: inherit;">{{ project.year_submitted }}</strong>.</small></p>
+      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea about how to make LA a better place to <strong style="font-weight: bold; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.05em;">{% if project.indicator %}{{ project.indicator }}{% else %}{{ project.category }}{% endif %}</strong>, submitted by this organization in <strong style="color: inherit;">{{ project.year_submitted }}</strong>.</small></p>
 
 {% assign video_embed_url = "" %}
 

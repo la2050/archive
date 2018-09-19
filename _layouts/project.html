@@ -75,7 +75,7 @@ stylesheets:
 
 <div class="proposal-header">
 <p class="category" style="color: rgba(0, 0, 0, 0.5);">
-  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{{ page.category }}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
+  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{% if page.indicator %}{{ page.indicator }}{% else %}{{ page.category }}{% endif %}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
 </p>
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
