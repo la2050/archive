@@ -403,7 +403,7 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
   <li class="{{ project.body_class }}" style="list-style: none; margin-left: 0; padding-left: 0; margin-bottom: 3em;">
 
       
-      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea about how to make LA a better place to <strong style="font-weight: bold; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.05em;">{% if project.indicator %}{{ project.indicator }}{% else %}{{ project.category }}{% endif %}</strong>, submitted by this organization in <strong style="color: inherit;">{{ project.year_submitted }}</strong>.</small></p>
+      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea about how to make LA a better place {% if project.indicator %}for{% else %}to{% endif %} <strong style="font-weight: bold; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.05em;">{% if project.indicator %}{{ project.indicator }}{% else %}{{ project.category }}{% endif %}</strong>, submitted by this organization in <strong style="color: inherit;">{{ project.year_submitted }}</strong>.</small></p>
 
 {% assign video_embed_url = "" %}
 
