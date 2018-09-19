@@ -362,43 +362,43 @@ function fixDataCharacters(data) {
   for (let prop in data) {
     if (typeof(data[prop]) === 'string') {
       data[prop] = data[prop]
-        .replace('â€“', '—')
-        .replace('â€˜', '‘')
-        .replace('â€™', '’')
-        .replace('â€¯', '') // ?
-        .replace('â€”', '—')
-        .replace('â€‹', '') // ?
-        .replace('â€œ', '“') // ?
-        .replace('â€', '”') // ?
-        .replace('â€¢', "*")
-        .replace('â€¦', "…")
-        .replace('âˆš', '√')
-        .replace('â–ª', '*')
-        .replace('â—\x8F', '*')
-        .replace('â„¢', '™')
-        .replace('Â·', '* ')
-        .replace('Â½', '½')
-        .replace('Ãœ', 'Ü')
-        .replace('Ã±', 'ñ')
+        .replace(/â€“/g, '—')
+        .replace(/â€˜/g, '‘')
+        .replace(/â€™/g, '’')
+        .replace(/â€¯/g, '') // ?
+        .replace(/â€”/g, '—')
+        .replace(/â€‹/g, '') // ?
+        .replace(/â€œ/g, '“') // ?
+        .replace(/â€/g, '”') // ?
+        .replace(/â€¢/g, "*")
+        .replace(/â€¦/g, "…")
+        .replace(/âˆš/g, '√')
+        .replace(/â–ª/g, '*')
+        .replace(/â—\x8F/g, '*')
+        .replace(/â„¢/g, '™')
+        .replace(/Â·/g, '* ')
+        .replace(/Â½/g, '½')
+        .replace(/Ãœ/g, 'Ü')
+        .replace(/Ã±/g, 'ñ')
     }
   }
 
   return data
 }
 
-function generateCollections(file_name, category) {
+// function generateCollections(file_name, category) {
 
-  console.log('generateCollections: ' + file_name)
+//   console.log('generateCollections: ' + file_name)
 
-  let input = fs.readFileSync('./_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-  let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+//   let input = fs.readFileSync('./_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+//   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
-  for (let index = 0; index < records.length; index++) {
-    let data = fixDataCharacters(records[index])
-    createMarkdownFile(data, category)
-  }
-  return records
-}
+//   for (let index = 0; index < records.length; index++) {
+//     let data = fixDataCharacters(records[index])
+//     createMarkdownFile(data, category)
+//   }
+//   return records
+// }
 
 const categories = ["learn", "create", "play", "connect", "live"]
 const category_colors = {
@@ -417,7 +417,7 @@ function generateAllCollections(file_name, year) {
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
   for (let index = 0; index < records.length; index++) {
-    //let data = fixDataCharacters(records[index])
+    let data = fixDataCharacters(records[index])
 
     let category
     if (records[index].category) {
@@ -639,6 +639,7 @@ markdownProjects.forEach(project => {
 generateAllCollections('projects-2018.csv', 2018)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
+generateAllCollections('projects-2013.csv', 2013)
 
 
 
