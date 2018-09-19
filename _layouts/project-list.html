@@ -215,6 +215,9 @@ text-align: left;
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
 
+<h2 id="tags-title" style="display: none; max-width: none; text-align: center;"></h2>
+
+
 {% assign data_collection = site.collections | where: "label", "organizations" | first %}
 {% assign data_list = data_collection.docs %}
 
@@ -395,6 +398,12 @@ text-align: left;
   var keywords = getParameterByName('keywords');
   var searchByTags = getParameterByName('tags');
 
+  var tagsTitle = document.getElementById("tags-title");
+  if (tagsTitle) {
+    tagsTitle.style.display = "block";
+    tagsTitle.textContent = searchByTags;
+  }
+
   // TEMPORARY: Show all projects if keywords are absent
   if (projectList && !keywords && !searchByTags) {
     var items = projectList.getElementsByTagName('script');
@@ -483,7 +492,7 @@ text-align: left;
 
     if (keywordList) rank += containsAnyKeyword(keywordList, items[index].innerHTML);
 
-    console.dir(tags)
+    // console.dir(tags)
 
     for (var j = 0; j < tags.length; j++) {
       if (tags[j] === keywords || tags[j] === searchByTags) {
