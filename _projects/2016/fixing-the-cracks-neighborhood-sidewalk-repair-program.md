@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3701902165741-team91.jpg
 project_video: ''
-project_description: >-
-  Cracked and broken, unattractive and dangerous, far too many sidewalks in Los
-  Angeles are in severe disrepair. LANI, in collaboration with the City of Los
-  Angeles Urban Forestry Division, will develop and distribute a comprehensive
-  tool-kit to assist residents in navigating the process of repairing or
-  replacing their own sidewalks. LANI will conduct extensive outreach,
-  facilitate six neighborhood workshops, and work hands-on with local residents
-  to make streets safer for all!
+project_summary: >-
+  LANI and the Urban Forestry Division will work hands-on with community members
+  to guide them through the process of repairing their cracked sidewalks, making
+  the streets of Los Angeles safer for all.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   City of Los Angeles, Urban Forestry Division, Los Angeles Neighborhood
@@ -51,6 +47,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Cracked and broken, unattractive and dangerous, far too many sidewalks in Los
+  Angeles are in severe disrepair. LANI, in collaboration with the City of Los
+  Angeles Urban Forestry Division, will develop and distribute a comprehensive
+  tool-kit to assist residents in navigating the process of repairing or
+  replacing their own sidewalks. LANI will conduct extensive outreach,
+  facilitate six neighborhood workshops, and work hands-on with local residents
+  to make streets safer for all!
 project_impact: >-
   ["Public/open streets gatherings","Government responsiveness to residents’
   needs","Public transit riders","Rates of volunteerism","Transit-accessible

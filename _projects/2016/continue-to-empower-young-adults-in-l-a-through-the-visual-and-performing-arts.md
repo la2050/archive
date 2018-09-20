@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4928931823741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fIYqcCuCuw?rel=0&amp;showinfo=0'
-project_description: >-
-  PIECES seeks to grow its existing educational programs, which focus on the
-  visual and performing arts, and mentorship. All funds granted to the
-  organization will be allocated toward securing a stable location to operate
-  from, hiring staff and acquiring the required tools and equipment needed in
-  order to expand programming. In turn, PIECES will serve more young creatives
-  in the Los Angeles area, offering a secure, inspirational, and motivational
-  creative home. Growing more opportunities.
+project_summary: >-
+  Grow PIECES – a program that successfully empowers young adults to create a
+  brighter future for themselves through the many benefits that the arts
+  provide.
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -44,6 +40,14 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers etc.)
   - Community outreach
+project_description: >-
+  PIECES seeks to grow its existing educational programs, which focus on the
+  visual and performing arts, and mentorship. All funds granted to the
+  organization will be allocated toward securing a stable location to operate
+  from, hiring staff and acquiring the required tools and equipment needed in
+  order to expand programming. In turn, PIECES will serve more young creatives
+  in the Los Angeles area, offering a secure, inspirational, and motivational
+  creative home. Growing more opportunities.
 project_impact: '["Arts establishments"]'
 project_proposal_best_place: >-
   PIECES has been empowering young people through the arts since 2012. It is a

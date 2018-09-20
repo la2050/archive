@@ -14,13 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4988765384741-team91.JPG
 project_video: 'https://www.youtube.com/embed/-pcpeiJq118?rel=0&amp;showinfo=0'
-project_description: >-
-  We are looking for funds to launch our capital campaign, our Goal is to raise
-  $26 million for renovation and improvements and capital needs to have an
-  actual site to house transplant patients near the three world premier
-  hospitals that provide transplants in Los Angeles California. Transplant
-  patients who cannot afford the required temporary housing find Ava’s Heart
-  through word of mouth or are referred by their transplant teams.
+project_summary: >-
+  Help Ava’s Heart create a Ronald MacDonald-type house for Transplant patients.
+  You cannot get listed unless you have 3 months of post transplant housing
+  close to hospitals; Cedars, UCLA & Keck
 project_is_collaboration: 'Yes'
 project_collaborators: Relational Medicine Foundation
 project_areas:
@@ -39,6 +36,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  We are looking for funds to launch our capital campaign, our Goal is to raise
+  $26 million for renovation and improvements and capital needs to have an
+  actual site to house transplant patients near the three world premier
+  hospitals that provide transplants in Los Angeles California. Transplant
+  patients who cannot afford the required temporary housing find Ava’s Heart
+  through word of mouth or are referred by their transplant teams.
 project_impact: >-
   ["Housing affordability","Healthcare access","Self-sufficiency","Residents
   receiving coordinated healthcare services"]

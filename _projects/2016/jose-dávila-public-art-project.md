@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3334798155741-team90.jpg
 project_video: ''
-project_description: >-
-  LA residents will have the opportunity to gather and playfully interact with a
-  concrete sculpture that will break apart and slowly migrate to diverse public
-  locales around the city. LAND, Dávila, and community members will create
-  ceremonious public events for the sculpture’s movement, inspired by each
-  neighborhood and its residents. The pieces will finally return to its original
-  location and form in the end – showing the history of its geography and
-  community experiences in its modified shape.
+project_summary: >-
+  LAND creates free opportunities for residents to engage with contemporary art
+  in public spaces in over 20 LA neighborhoods by commissioning a Jose Dávila
+  sculpture and presenting community-led events.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Jose Dávila’s project will be presented as part of the Getty Foundation’s
@@ -75,6 +71,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  LA residents will have the opportunity to gather and playfully interact with a
+  concrete sculpture that will break apart and slowly migrate to diverse public
+  locales around the city. LAND, Dávila, and community members will create
+  ceremonious public events for the sculpture’s movement, inspired by each
+  neighborhood and its residents. The pieces will finally return to its original
+  location and form in the end – showing the history of its geography and
+  community experiences in its modified shape.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Gini
   coefficient","Jobs per capita","Measures of cultural and global economic

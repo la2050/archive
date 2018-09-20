@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7344404654741-team91.jpg
 project_video: ''
-project_description: >-
-  The Triforium is a six-story, 60-ton public artwork in Downtown Los Angeles.
-  Its original design was for a polyphonoptic sculpture lighting up in synchrony
-  to music and human movement. It was ahead of his time, and never worked as
-  intended. We want to retrofit and reimagine the Triforium, replacing its
-  incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
-  Young’s original goals. We want to create an app that'll allow people to
-  create compositions for the Triforium to play.
+project_summary: >-
+  The Triforium is a piece of “polyphonoptic” public art in DTLA that was 40
+  years ahead of its time; we want to restore and retrofit it to achieve the
+  artist's dream of music, community, and wonder.
 project_is_collaboration: 'Yes'
 project_collaborators: '5 Every Day, Tom Explores Los Angeles, Downtown Art Walk, Art Share LA'
 project_areas:
@@ -50,6 +46,14 @@ project_proposal_help:
   - Volunteers
   - Technical infrastructure (computers etc.)
   - Community outreach
+project_description: >-
+  The Triforium is a six-story, 60-ton public artwork in Downtown Los Angeles.
+  Its original design was for a polyphonoptic sculpture lighting up in synchrony
+  to music and human movement. It was ahead of his time, and never worked as
+  intended. We want to retrofit and reimagine the Triforium, replacing its
+  incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
+  Young’s original goals. We want to create an app that'll allow people to
+  create compositions for the Triforium to play.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Perceived safety"]

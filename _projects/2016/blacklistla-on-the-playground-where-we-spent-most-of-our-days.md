@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733468065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/YcJFmTnHOeE?rel=0&amp;showinfo=0'
-project_description: >-
+project_summary: >-
   PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
-  will provide 100+ opportunities for Angelenos get active and play in their
-  city with diverse programming on physical fitness, runner safety, local
-  running events, public art and community building. Our team of volunteers will
-  offer unique running experiences that integrate landmarks, public art, parks,
-  Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
-  connection and community building.
+  will provide over 100 opportunities for Angelenos of all ages to get active
+  and play in their city.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas: '["Central LA","East LA","South LA","Westside"]'
@@ -58,6 +54,14 @@ project_proposal_help: >-
   members","Publicity/awareness","Infrastructure (building/space/vehicles
   etc.)","Community outreach ","Network/relationship support","Quality
   improvement research"]
+project_description: >-
+  PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
+  will provide 100+ opportunities for Angelenos get active and play in their
+  city with diverse programming on physical fitness, runner safety, local
+  running events, public art and community building. Our team of volunteers will
+  offer unique running experiences that integrate landmarks, public art, parks,
+  Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
+  connection and community building.
 project_impact: >-
   ["Access to open space and park facilities","Attendance at major league
   sporting events","Number (and quality) of informal spaces for play","Number of

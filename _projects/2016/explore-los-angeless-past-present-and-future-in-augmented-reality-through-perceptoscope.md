@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1517216783741-team89.jpeg
 project_video: 'https://www.youtube.com/embed/GCBLHUIW9FI?rel=0&amp;showinfo=0'
-project_description: >-
-  Perceptoscope, an interactive public arts initiative, will temporarily deploy
-  augmented reality pedestal viewers at strategic locations around the city
-  taking into account the context, communities and histories of the spaces in
-  which they're dropped. We will work with local organizations towards permanent
-  deployments, and along the way document our process of design and public
-  deployment through online video.
+project_summary: >-
+  Perceptoscopes are public augmented reality viewers in the form of coin
+  operated binoculars. They can expose the hidden past, present points of
+  interest, or future potentials of a place.
 project_is_collaboration: 'No'
 project_collaborators: >-
   Though not an explicit collaborator, I'm part of the upcoming class of Arts
@@ -77,6 +74,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Perceptoscope, an interactive public arts initiative, will temporarily deploy
+  augmented reality pedestal viewers at strategic locations around the city
+  taking into account the context, communities and histories of the spaces in
+  which they're dropped. We will work with local organizations towards permanent
+  deployments, and along the way document our process of design and public
+  deployment through online video.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play

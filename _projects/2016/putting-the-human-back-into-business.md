@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4532943913741-team90.JPG
 project_video: 'https://player.vimeo.com/video/176509438?rel=0&amp;showinfo=0'
-project_description: >-
-  The integrated Learning annex is spearheaded by strategist, Bryce Brown, and
-  clinical neuropsychologist, Michelle Conover, Ph.D., to create high-impact
-  learning experiences for companies, organizations, and institutions interested
-  in getting the most of our their people. Our approach is 'people over policy',
-  so we create options for executives, decision-makers, and managers that put
-  human capabilities in the driver's seat. We deliver programming in-person or
-  virtually.
+project_summary: >-
+  TiLA is a learning center devoted to personal, professional, and
+  organizational development with humanism, critical thinking, and empathy baked
+  into its mission.
 project_is_collaboration: 'No'
 project_collaborators: >-
   None. However, we work with LAUSD, LBUSD, and police-community relations
@@ -44,6 +40,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The integrated Learning annex is spearheaded by strategist, Bryce Brown, and
+  clinical neuropsychologist, Michelle Conover, Ph.D., to create high-impact
+  learning experiences for companies, organizations, and institutions interested
+  in getting the most of our their people. Our approach is 'people over policy',
+  so we create options for executives, decision-makers, and managers that put
+  human capabilities in the driver's seat. We deliver programming in-person or
+  virtually.
 project_impact: >-
   ["Measures of cultural and global economic influence (“soft
   power”)","Minority- and women-owned firms","Percentage of graduates from local

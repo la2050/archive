@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0271131194741-team91.JPG
 project_video: 'https://www.youtube.com/embed/R1IuTSQQ9PY?rel=0&amp;showinfo=0'
-project_description: >-
-  Doctors' Orders is an innovative video series that features physicians,
-  patients and researchers educating on health conditions including obesity,
-  heart disease and mental illness.  We have completed the first four half-hour
-  episodes and will make the series available to the county health departments
-  in Los Angeles so that while patients are in waiting rooms they can learn
-  about the link between obesity and cancer, how to spot depression in a loved
-  one, and what to do for a diabetic relative.
+project_summary: >-
+  Doctors' Orders is a powerful new video series for Los Angeles that will
+  educate on diseases, preventative care and living a healthy lifestyle. 
+  Because proactive health care saves lives!
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   The City of Hope, Methodist Hospital of Southern California, Torrance Memorial
@@ -54,6 +50,14 @@ project_proposal_help:
   - Volunteers
   - Advisors/board members
   - Infrastructure (building/space/vehicles
+project_description: >-
+  Doctors' Orders is an innovative video series that features physicians,
+  patients and researchers educating on health conditions including obesity,
+  heart disease and mental illness.  We have completed the first four half-hour
+  episodes and will make the series available to the county health departments
+  in Los Angeles so that while patients are in waiting rooms they can learn
+  about the link between obesity and cancer, how to spot depression in a loved
+  one, and what to do for a diabetic relative.
 project_impact: >-
   ["Obesity","Residents receiving coordinated healthcare services","Mental
   illness"]

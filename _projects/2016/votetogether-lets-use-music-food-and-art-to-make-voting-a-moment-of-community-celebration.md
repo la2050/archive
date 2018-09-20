@@ -17,13 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1862313165741-team91.jpg
 project_video: ''
-project_description: >-
-  We propose using food, music, and art to make voting a community-driven moment
-  of celebration, and improve voter participation in Los Angeles.  Building on
-  successful research by Columbia Professor Don Green, Civic Nation will expand
-  a pilot program we began in 2016. We will engage with community partners in
-  Los Angeles to stage events at voting locations and study the results to
-  measure the impact on voter participation.
+project_summary: >-
+  Let's Use Music, Food, and Art to Make Voting a Moment of Community
+  Celebration
 project_is_collaboration: 'Yes'
 project_collaborators: Columbia University Professor Donald P. Green
 project_areas:
@@ -44,6 +40,13 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  We propose using food, music, and art to make voting a community-driven moment
+  of celebration, and improve voter participation in Los Angeles.  Building on
+  successful research by Columbia Professor Don Green, Civic Nation will expand
+  a pilot program we began in 2016. We will engage with community partners in
+  Los Angeles to stage events at voting locations and study the results to
+  measure the impact on voter participation.
 project_impact: '["Cultural events","Public/open streets gatherings","Voting rates"]'
 project_proposal_best_place: >-
   Voter participation is the cornerstone of America’s democracy. We believe that

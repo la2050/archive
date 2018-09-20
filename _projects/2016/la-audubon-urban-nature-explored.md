@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7081548543741-team89.jpg
 project_video: 'https://youtube.com/embed/gxmDmbwknC0?rel=0&amp;showinfo=0'
-project_description: >-
-  LA Audubon Urban Nature Explored connects people of all ages to outdoor
-  experiences at parks, beaches and open spaces. We provide thousands of public
-  school students from under-served communities with nature-based field trips
-  and after-school programs. High school and college students receive
-  stewardship training as part of paid internship programs, leading habitat
-  restoration events that engage their communities and improve the quality of
-  open space for people and wildlife.
+project_summary: >-
+  LA Audubon Urban Nature Explored connects people of all ages to nature
+  activities, provides field trips and after-school programs for LAUSD students,
+  and student internships for under-served youth.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Ballona Creek Renaissance, Baldwin Hills Scenic Overlook State Park, Kenneth
@@ -67,6 +63,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  LA Audubon Urban Nature Explored connects people of all ages to outdoor
+  experiences at parks, beaches and open spaces. We provide thousands of public
+  school students from under-served communities with nature-based field trips
+  and after-school programs. High school and college students receive
+  stewardship training as part of paid internship programs, leading habitat
+  restoration events that engage their communities and improve the quality of
+  open space for people and wildlife.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Number

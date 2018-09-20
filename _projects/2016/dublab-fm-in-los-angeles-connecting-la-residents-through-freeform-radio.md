@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6890837355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/whDuQqva3a8?rel=0&amp;showinfo=0'
-project_description: >-
-  DUBLAB has received a license from the FCC to broadcast on the FM airwaves in
-  Los Angeles, and would like to build our FM broadcasting capabilities with
-  funding from the LA2050 grant. We will buy a transmitter, an antennae, and be
-  able to hire an engineer to put it all together. The decision for dublab to
-  broadcast on the FM airwaves has been a long time in the making, and is part
-  of a larger organizational effort to engage more listeners with our diverse,
-  freeform broadcasts.
+project_summary: >-
+  DUBLAB's FM Initiative can help make Los Angeles the best place to connect by
+  providing an extremely accessible platform for musicians, DJs, and artists to
+  reach LA residents with freeform broadcasts.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Machine Project, Echo Park Film Center'
 project_areas:
@@ -59,6 +55,14 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  DUBLAB has received a license from the FCC to broadcast on the FM airwaves in
+  Los Angeles, and would like to build our FM broadcasting capabilities with
+  funding from the LA2050 grant. We will buy a transmitter, an antennae, and be
+  able to hire an engineer to put it all together. The decision for dublab to
+  broadcast on the FM airwaves has been a long time in the making, and is part
+  of a larger organizational effort to engage more listeners with our diverse,
+  freeform broadcasts.
 project_impact: >-
   ["Social & emotional support","Cultural events","Travel time to
   work","Residential segregation","Total number of local social media friends

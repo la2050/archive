@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4439940265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/8fx_LFJr4lc?rel=0&amp;showinfo=0'
-project_description: >-
-  T4T.org’s Pop-Up Makers’ Space will arrive in some of LA’s most underserved
-  communities on a Saturday or Sunday. Our truck will pull up, drop down the
-  sides, and set up the tables. Then, future inventors, scientists and
-  researchers, from the local community go to work. These children are welcome
-  to create, build and experiment. We will bring Laser cutters, 3D Printers and
-  all the tools these young inventors need to realize whatever they can imagine.
+project_summary: >-
+  We are the Robbin Hoods of Rubbish, using manufacturers clean waste to inspire
+  the next generation of Scientists, Technology experts, Engineers, Artists, and
+  Mathematicians.
 project_is_collaboration: 'No'
 project_collaborators: na
 project_areas:
@@ -53,6 +50,13 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  T4T.org’s Pop-Up Makers’ Space will arrive in some of LA’s most underserved
+  communities on a Saturday or Sunday. Our truck will pull up, drop down the
+  sides, and set up the tables. Then, future inventors, scientists and
+  researchers, from the local community go to work. These children are welcome
+  to create, build and experiment. We will bring Laser cutters, 3D Printers and
+  all the tools these young inventors need to realize whatever they can imagine.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries"]

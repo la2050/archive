@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9146110265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/QpfhY-eA-N8?rel=0&amp;showinfo=0'
-project_description: >-
-  Too many LA children experience frequent traumatic events that can be toxic
-  and lead to a lifetime of physical and emotional challenges. Children Now will
-  bring together thousands of voices in LA County to promote a comprehensive
-  policy agenda to reduce childhood trauma and ensure the needed supports for
-  kids who experience it. The power of these voices will be demonstrated through
-  a public support campaign and advocacy around specific policy changes.
+project_summary: >-
+  Children Now will bring together thousands of voices in LA County to promote
+  cross-sector collaboration and demand large-scale change to prevent childhood
+  trauma and reduce its impact on kids.
 project_is_collaboration: 'No'
 project_collaborators: NA
 project_areas:
@@ -56,6 +53,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Too many LA children experience frequent traumatic events that can be toxic
+  and lead to a lifetime of physical and emotional challenges. Children Now will
+  bring together thousands of voices in LA County to promote a comprehensive
+  policy agenda to reduce childhood trauma and ensure the needed supports for
+  kids who experience it. The power of these voices will be demonstrated through
+  a public support campaign and advocacy around specific policy changes.
 project_impact: >-
   ["Healthcare access","Resilient communities","Residents receiving coordinated
   healthcare services","Prevalence of adverse childhood

@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4405823065741-team91.JPG
 project_video: 'https://www.youtube.com/embed/mZrJcqrvSsM?rel=0&amp;showinfo=0'
-project_description: >-
-  We want to change the face of schools by bringing a massive burst of color.
-  We'll bring students, faculty, parents and neighbors together to transform
-  blank structures to ones filled with vibrancy and lively characters while
-  learning the fundamentals of color therapy. We believe that by enhancing their
-  environment, kids of any age will be more engaged and committed to their
-  educational journey, schools will be more welcoming, and every community can
-  enjoy and appreciate beautiful art.
+project_summary: >-
+  Color Your School: Big Sunday is Creating Awesome Murals for (and with)
+  Amazing Kids at Incredible Schools
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -65,6 +60,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Personal outreach in local communities
+project_description: >-
+  We want to change the face of schools by bringing a massive burst of color.
+  We'll bring students, faculty, parents and neighbors together to transform
+  blank structures to ones filled with vibrancy and lively characters while
+  learning the fundamentals of color therapy. We believe that by enhancing their
+  environment, kids of any age will be more engaged and committed to their
+  educational journey, schools will be more welcoming, and every community can
+  enjoy and appreciate beautiful art.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0529159945741-team91.png
 project_video: 'https://www.youtube.com/embed/UpeLWXJL0JI?rel=0&amp;showinfo=0'
-project_description: >-
-  Arts Connect displays the real-life achievement of well-respected and highly
-  regarded individuals, both historical and contemporary, through a digital
-  multi-media format specifically to enhance student learning experiences. The
-  format follows learning mandates and promotes the broad-ranging potential in
-  all children. This is a complimentary learning management system that offers
-  real world examples and the cosmopolitan language of Art in all its forms as
-  an all-important tool for joyful learning
+project_summary: >-
+  Arts Connect is a progressive plan for Los Angeles learners to get a fresh
+  real-life digital storyline and multimedia curriculum presented with LA’s
+  legendary icons.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Metta World Peace (center) at Los Angeles High School and College Summit. 1763
@@ -51,6 +47,14 @@ project_proposal_help: >-
   ["Money ","Publicity/awareness","Education/training ","Technical
   infrastructure (computers etc.)","Community outreach ","Network/relationship
   support","Quality improvement research"]
+project_description: >-
+  Arts Connect displays the real-life achievement of well-respected and highly
+  regarded individuals, both historical and contemporary, through a digital
+  multi-media format specifically to enhance student learning experiences. The
+  format follows learning mandates and promotes the broad-ranging potential in
+  all children. This is a complimentary learning management system that offers
+  real world examples and the cosmopolitan language of Art in all its forms as
+  an all-important tool for joyful learning
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education

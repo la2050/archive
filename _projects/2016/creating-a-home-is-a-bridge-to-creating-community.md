@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371052065741-team91.png
 project_video: 'https://www.youtube.com/embed/PXXuCduxggc?rel=0&amp;showinfo=0'
-project_description: >-
-  ASOH brings together volunteers to serve as a family would utilizing donated
-  furniture to create the youth’s first permanent living space. The state of
-  one’s “home” affects one’s physical health, cognitive development,
-  social/emotional well-being & how an individual views themselves. By creating
-  a physical home that embodies the aspirations of each youth & connecting them
-  with a community of care— Maslow’s Hierarchy of Needs is satisfied & the youth
-  can focus on building a prosperous future.
+project_summary: >-
+  A holistic approach to transform the lives of at-risk foster youth who “age
+  out” of the system by creating their first ever homes
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas: >-
@@ -65,6 +60,14 @@ project_measure: >-
   substandard housing and separation from parent(s), among the main factors that
   are toxic to the developing brain.
 project_proposal_help: '["Money ","Support of the city"]'
+project_description: >-
+  ASOH brings together volunteers to serve as a family would utilizing donated
+  furniture to create the youth’s first permanent living space. The state of
+  one’s “home” affects one’s physical health, cognitive development,
+  social/emotional well-being & how an individual views themselves. By creating
+  a physical home that embodies the aspirations of each youth & connecting them
+  with a community of care— Maslow’s Hierarchy of Needs is satisfied & the youth
+  can focus on building a prosperous future.
 project_impact: '["Self-sufficiency","Resilient communities","Homelessness"]'
 project_proposal_best_place: >-
   With an all former foster youth staff, and former foster youth paying it

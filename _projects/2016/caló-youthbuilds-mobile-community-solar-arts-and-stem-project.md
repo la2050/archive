@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3912790265741-team91.jpg
 project_video: ''
-project_description: >-
-  CALO YouthBuild's Mobile Community Arts and STEM project will allow its
-  students the opportunity to design and create mobile solar powered generators
-  to bring arts and STEM programming to underserved communities affected by
-  youth violence, drug use, and academic apathy. The project will target local
-  parks, housing projects and schools to identify young people who are at risk
-  of engaging in drug use or violent/gang activity. Mobile programs will include
-  music instruction/production and recording.
+project_summary: >-
+  CALO YouthBuild Students will create mobile solar powered generators to bring
+  arts and STEM programming to underserved communities affected by youth
+  violence, drug use, and academic apathy.
 project_is_collaboration: 'Yes'
 project_collaborators: YouthBuild Charter School of California
 project_areas:
@@ -49,6 +45,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  CALO YouthBuild's Mobile Community Arts and STEM project will allow its
+  students the opportunity to design and create mobile solar powered generators
+  to bring arts and STEM programming to underserved communities affected by
+  youth violence, drug use, and academic apathy. The project will target local
+  parks, housing projects and schools to identify young people who are at risk
+  of engaging in drug use or violent/gang activity. Mobile programs will include
+  music instruction/production and recording.
 project_impact: >-
   ["Number (and quality) of informal spaces for play","Number of children
   enrolled in afterschool programs","Number of parks with intergenerational play

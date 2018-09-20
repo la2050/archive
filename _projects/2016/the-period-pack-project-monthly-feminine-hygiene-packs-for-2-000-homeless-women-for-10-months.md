@@ -17,13 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8470067535741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sVisyYUs8U0?rel=0&amp;showinfo=0'
-project_description: >-
-  Our Period Pack Project will provide sustainably-produced toxic-free tampons
-  and pads to 2,000 of L.A.'s most critically-underserved homeless women, every
-  month, for 10 months. That's 20,000 packs. Can you imagine getting you period
-  while living on the streets? Our Period Packs include biodegradable waste bags
-  and feminine wipes, as well as tampons and pads, providing essential items to
-  women, focusing on access, environment, and human dignity.
+project_summary: >-
+  Period Packs: Providing Essential Feminine Hygiene to Homeless Women. Can you
+  imagine getting your period while living on the streets?
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -50,6 +46,13 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Our Period Pack Project will provide sustainably-produced toxic-free tampons
+  and pads to 2,000 of L.A.'s most critically-underserved homeless women, every
+  month, for 10 months. That's 20,000 packs. Can you imagine getting you period
+  while living on the streets? Our Period Packs include biodegradable waste bags
+  and feminine wipes, as well as tampons and pads, providing essential items to
+  women, focusing on access, environment, and human dignity.
 project_impact: >-
   ["Waterways","Healthcare access","Self-sufficiency","Local water","Resilient
   communities","Residents receiving coordinated healthcare

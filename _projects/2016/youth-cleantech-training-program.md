@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6504718986741-team91.jpg
 project_video: ''
-project_description: >-
-  With the opening of the new 60,000 sq. ft. La Kretz Innovation Campus located
-  in Downtown LA, LACI has training space, an advanced manufacturing prototyping
-  lab, and access to growing cleantech companies – all under one roof. Our focus
-  now is to leverage these assets and build a “sticky” talent pipeline that
-  creates a more inclusive, robust cleantech sector in LA.  We propose a summer
-  youth program that includes technical training, a sponsored internship, and
-  follow-on alumni programming.
+project_summary: >-
+  LACI will help make Los Angeles a more creative, inclusive economy by training
+  our city's youth in the technical and business skills necessary to join LA’s
+  rapidly growing cleantech sector.
 project_is_collaboration: 'No'
 project_collaborators: >-
   Our pilot project is focused on providing cleantech technical and
@@ -51,6 +47,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  With the opening of the new 60,000 sq. ft. La Kretz Innovation Campus located
+  in Downtown LA, LACI has training space, an advanced manufacturing prototyping
+  lab, and access to growing cleantech companies – all under one roof. Our focus
+  now is to leverage these assets and build a “sticky” talent pipeline that
+  creates a more inclusive, robust cleantech sector in LA.  We propose a summer
+  youth program that includes technical training, a sponsored internship, and
+  follow-on alumni programming.
 project_impact: >-
   ["Manufacturing activity","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft

@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6262793265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/_1nAIfTqGIc?rel=0&amp;showinfo=0'
-project_description: >-
-  Capital & Main will uncover the most inspiring stories of Angelenos who are
-  creating economic opportunity that makes Los Angeles a better city in which to
-  live. These stories, presented in text, video, audio and images, will
-  highlight the transformational nature of L.A.'s economic and social justice
-  movements and how they are creating models of change that are being replicated
-  across the country.
+project_summary: >-
+  Investigative news publication Capital & Main will tell the inspiring stories
+  of Angelenos who, against all odds, are making the American Dream a reality
+  for themselves and their communities
 project_is_collaboration: 'No'
 project_collaborators: Not applicable
 project_areas:
@@ -46,6 +43,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Capital & Main will uncover the most inspiring stories of Angelenos who are
+  creating economic opportunity that makes Los Angeles a better city in which to
+  live. These stories, presented in text, video, audio and images, will
+  highlight the transformational nature of L.A.'s economic and social justice
+  movements and how they are creating models of change that are being replicated
+  across the country.
 project_impact: >-
   ["Access to healthy food","Housing affordability","Exposure to air
   toxins","Healthcare access","Self-sufficiency","Resilient

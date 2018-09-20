@@ -12,25 +12,10 @@ organization_activity: 'We make bicycling awesome through events, programs and s
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1244558065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/l2oE7AX8gtw?rel=0&amp;showinfo=0'
-project_description: >-
-  Like to ride a bike in LA? Wouldn't it be nice if you could map out:
-
-
-  1) the most chill-safe-stress free route
-
-  2) the faster route
-
-
-  and then see if there was anyone else doing the same commute so that you could
-  have company and enjoy safety in numbers?
-
-
-  You know there's a great bike path (Ballona Creek, LA River) but it's
-  confusing.. signage anyone?
-
-
-  It's possible! LA Bike Trains has been running a similar education program in
-  LA since 2013. Based on feedback this is what people want.
+project_summary: >-
+  Online + (iPhone/Android) find the best bicycle routes around LA and the
+  ability to find people to ride/commute with - at any time! Plus key signage to
+  find bike paths/routes that are easy to miss..
 project_is_collaboration: 'No'
 project_collaborators: >-
   We will have an unofficial collaboration with LADOT to ensure signage is in
@@ -61,6 +46,25 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Like to ride a bike in LA? Wouldn't it be nice if you could map out:
+
+
+  1) the most chill-safe-stress free route
+
+  2) the faster route
+
+
+  and then see if there was anyone else doing the same commute so that you could
+  have company and enjoy safety in numbers?
+
+
+  You know there's a great bike path (Ballona Creek, LA River) but it's
+  confusing.. signage anyone?
+
+
+  It's possible! LA Bike Trains has been running a similar education program in
+  LA since 2013. Based on feedback this is what people want.
 project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Travel time to work","Public transit riders","Total number of local

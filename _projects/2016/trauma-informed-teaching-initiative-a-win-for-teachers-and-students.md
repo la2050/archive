@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6235226615741-team90.jpg
 project_video: 'https://www.youtube.com/embed/T7BYSC7XXLk?rel=0&amp;showinfo=0'
-project_description: >-
-  Teach For America operates in schools in low-income communities where
-  students, who are more prone to trauma and high stress environments, have
-  increased barriers to an excellent education. It is a central part of our
-  mission to develop and mobilize quality teachers and leaders in education that
-  can address educational inequity from all angles, including from a
-  trauma-informed framework to transform classrooms, schools and entire school
-  systems.
+project_summary: >-
+  Our Trauma-Informed Teaching Initiative promotes the mental wellness of our
+  teachers and students, enhances instructional effectiveness, and motivates
+  teachers to stay in education.
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -64,6 +60,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Publicity/awareness
+project_description: >-
+  Teach For America operates in schools in low-income communities where
+  students, who are more prone to trauma and high stress environments, have
+  increased barriers to an excellent education. It is a central part of our
+  mission to develop and mobilize quality teachers and leaders in education that
+  can address educational inequity from all angles, including from a
+  trauma-informed framework to transform classrooms, schools and entire school
+  systems.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline","Students’

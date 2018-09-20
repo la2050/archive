@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9369505955741-team90.jpeg
 project_video: 'https://www.youtube.com/embed/teuTGnS3vkM?rel=0&amp;showinfo=0'
-project_description: >-
-  Common Threads (CT) and The Kitchen Community will train teachers at 15 LA
-  schools to deliver experiential, classroom- and garden-based nutrition
-  education to 1,886 underserved students, grades preK-8. Each student will
-  receive 8-16 hours of hands-on education that empowers them to make healthier
-  food choices and connects them to fresh food. CT will also train teachers at
-  six schools to utilize our new digital nutrition education platform Common
-  Bytes, reaching an additional 480 kids.
+project_summary: >-
+  Common Threads and The Kitchen Community will deliver hands-on, school-based
+  garden and nutrition education that empowers underserved kids to make
+  healthier food choices and improves school wellness.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Common Threads will collaborate with The Kitchen Community (TKC) to train
@@ -72,6 +68,14 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  Common Threads (CT) and The Kitchen Community will train teachers at 15 LA
+  schools to deliver experiential, classroom- and garden-based nutrition
+  education to 1,886 underserved students, grades preK-8. Each student will
+  receive 8-16 hours of hands-on education that empowers them to make healthier
+  food choices and connects them to fresh food. CT will also train teachers at
+  six schools to utilize our new digital nutrition education platform Common
+  Bytes, reaching an additional 480 kids.
 project_impact: '["Access to healthy food","Obesity"]'
 project_proposal_best_place: >-
   Common Threads (CT), in partnership with The Kitchen Community (TKC), will

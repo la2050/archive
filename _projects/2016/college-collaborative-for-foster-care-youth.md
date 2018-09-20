@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7481336294741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3qC3k8bY6A0?rel=0&amp;showinfo=0'
-project_description: >-
-  CASA of Los Angeles is making a high-level commitment to expand the
-  educational support our volunteers provide to foster youth through the College
-  Collaborative. CASA/LA will establish formal collaborations with local
-  partners to provide post-secondary readiness and support for abused and
-  neglected youth, and will develop a training for CASA volunteers to better
-  coordinate these partnerships. CASA will serve at least 30 additional foster
-  youth in Los Angeles County through this advocacy.
+project_summary: >-
+  Help CASA build an organizational collaborative to help more youth in foster
+  care attend college.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Prospective Collaborators: First Star, Guardian Scholars, United Friends of
@@ -60,6 +55,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  CASA of Los Angeles is making a high-level commitment to expand the
+  educational support our volunteers provide to foster youth through the College
+  Collaborative. CASA/LA will establish formal collaborations with local
+  partners to provide post-secondary readiness and support for abused and
+  neglected youth, and will develop a training for CASA volunteers to better
+  coordinate these partnerships. CASA will serve at least 30 additional foster
+  youth in Los Angeles County through this advocacy.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates"]

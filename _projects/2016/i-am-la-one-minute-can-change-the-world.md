@@ -12,10 +12,7 @@ organization_activity: 'Impacting future generations through art, education, and
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9122157445741-team91.JPG
 project_video: 'https://www.youtube.com/embed/l9WIsFvpdpU?rel=0&amp;showinfo=0'
-project_description: >-
-  We can do better together. I Am LA is a city-wide campaign to care for the
-  place we call home. And we want your help. We are offering $1,000 prizes for
-  1-minute films that inspire us to care for our neighbors and our environment.
+project_summary: Let your voice be heard-- with I Am LA the whole city is ready to listen.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -48,6 +45,10 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  We can do better together. I Am LA is a city-wide campaign to care for the
+  place we call home. And we want your help. We are offering $1,000 prizes for
+  1-minute films that inspire us to care for our neighbors and our environment.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public transit
   riders","Participation in neighborhood councils","Rates of

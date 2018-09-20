@@ -16,12 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9914449755741-team91.jpg
 project_video: 'https://www.youtube.com/embed/DLg3R9NTcNc?rel=0&amp;showinfo=0'
-project_description: >-
-  The LA2050 grant will allow the LA Derby Dolls to make infrastructure
-  improvements to its training and events facility, and increase outreach,
-  ensuring that the organization can continue to offer adult and young women
-  programs that promote social and emotional support inherent in team sports and
-  from a women-focused organization.
+project_summary: >-
+  Sustain and grow the Derby Dolls training and competition program as well as
+  expand outreach to women who will benefit from the social and emotional
+  support inherent in team sport and community.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -69,6 +67,12 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The LA2050 grant will allow the LA Derby Dolls to make infrastructure
+  improvements to its training and events facility, and increase outreach,
+  ensuring that the organization can continue to offer adult and young women
+  programs that promote social and emotional support inherent in team sports and
+  from a women-focused organization.
 project_impact: '["Social & emotional support","Rates of volunteerism"]'
 project_proposal_best_place: >-
   The LA Derby Dolls is an all-volunteer organization that reflects the

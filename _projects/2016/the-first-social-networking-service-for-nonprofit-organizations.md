@@ -12,11 +12,7 @@ organization_activity: Coligo
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156024363741-team89.jpg
 project_video: 'https://www.youtube.com/embed/fTkbmu7_ywc?rel=0&amp;showinfo=0'
-project_description: >-
-  Coligo is the first social networking service for non-profit and charitable
-  organizations that facilitates a connection between non-profit organizations
-  and donors, allowing matched users to exchange resources and funds to achieve
-  social impact together.
+project_summary: The first social networking service for nonprofit organizations.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -61,6 +57,11 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Coligo is the first social networking service for non-profit and charitable
+  organizations that facilitates a connection between non-profit organizations
+  and donors, allowing matched users to exchange resources and funds to achieve
+  social impact together.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media

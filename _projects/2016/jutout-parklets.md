@@ -12,10 +12,9 @@ organization_activity: Landscape Architecture
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3589906913741-team90.jpg
 project_video: ''
-project_description: >-
-  To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
-  waterways -- with a priority of installing the parklets in park poor
-  communities.
+project_summary: >-
+  Jutouts are a concept by SCA-LARC to create a series of cantilevered parklets
+  overlooking Los Angeles waterways.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   I will be collaborating with landscape architect Ian Horton, PLA, ASLA of
@@ -48,6 +47,10 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
+  waterways -- with a priority of installing the parklets in park poor
+  communities.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Public transit

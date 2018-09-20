@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7925063255741-team88.png
 project_video: 'https://www.youtube.com/embed/wyKSTyquR-0?rel=0&amp;showinfo=0'
-project_description: >-
-  Every year, thousands of local Operation Gratitude volunteers form a human
-  assembly line to create 200,000+ care packages for Active Military, their
-  children, Veterans, First Responders, Wounded heroes & Caregivers. Each
-  package contains up to 50 snack, entertainment & handmade items, toiletries &
-  personal letters.  Our proposal is to provide every Angeleno an opportunity to
-  express their gratitude to all who serve by engaging in hands-on activities at
-  our facility and in their own communities.
+project_summary: >-
+  Through hands-on Volunteerism, Operation Gratitude provides Angelenos of every
+  age and background an uplifting way to thank all who serve by creating Care
+  Packages of handmade and donated goodies.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas: '["San Fernando Valley","County of Los Angeles","LAUSD"]'
@@ -55,6 +51,14 @@ project_measure: >-
   difference in a human life. Because of your organization, one less family
   received terrible news at Christmas.'
 project_proposal_help: '["Money ","Volunteers","Publicity/awareness","Network/relationship support"]'
+project_description: >-
+  Every year, thousands of local Operation Gratitude volunteers form a human
+  assembly line to create 200,000+ care packages for Active Military, their
+  children, Veterans, First Responders, Wounded heroes & Caregivers. Each
+  package contains up to 50 snack, entertainment & handmade items, toiletries &
+  personal letters.  Our proposal is to provide every Angeleno an opportunity to
+  express their gratitude to all who serve by engaging in hands-on activities at
+  our facility and in their own communities.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]

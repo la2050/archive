@@ -14,13 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2545821265741-team91.png
 project_video: ''
-project_description: >-
-  LA Metro aims to connect Los Angeles residents to our community through the
-  use of the podcasting medium to tell our collective urban story. We seek to
-  unearth the iconic story of how the people of Los Angeles learn, create, play,
-  connect, and live in our vibrant community. The podcast celebrates the past,
-  present and future of mobility in Los Angeles through narrative content by
-  creating story-driven podcasts that educate, inspire and entertain people.
+project_summary: >-
+  LA Metro is deepening Los Angeles County’s connection to itself by telling the
+  diverse story of who we are and who we want to be through the lens of riding
+  public transportation.
 project_is_collaboration: 'Yes'
 project_collaborators: The Glue
 project_areas:
@@ -39,6 +36,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - 'Story Ideas, Interviewees'
+project_description: >-
+  LA Metro aims to connect Los Angeles residents to our community through the
+  use of the podcasting medium to tell our collective urban story. We seek to
+  unearth the iconic story of how the people of Los Angeles learn, create, play,
+  connect, and live in our vibrant community. The podcast celebrates the past,
+  present and future of mobility in Los Angeles through narrative content by
+  creating story-driven podcasts that educate, inspire and entertain people.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Travel time to

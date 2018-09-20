@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2365322355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/9ADs2v7U-Ro?rel=0&amp;showinfo=0'
-project_description: >-
-  River LA, in partnership with 72andSunny, is creating a human-centered public
-  engagement project to generate inspiring, human stories from the people who
-  know the LA River the best  - environmentalists, cyclists, equestrians, young
-  families, recreational enthusiasts, artists, among others. LA River Stories
-  immerses the viewer in the lives of real people, fosters an understanding of
-  their needs, and elevates the narrative to inspire transformative ideas to
-  shape equitable planning and design.
+project_summary: >-
+  LA River Stories, a multimedia project, focuses on first-hand human
+  interactions with the LA River in order to engage communities, demonstrate
+  impact, and inspire resilient design and equitable policy
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   72andSunny is a highly respected and awarded international creative agency
@@ -61,6 +57,14 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  River LA, in partnership with 72andSunny, is creating a human-centered public
+  engagement project to generate inspiring, human stories from the people who
+  know the LA River the best  - environmentalists, cyclists, equestrians, young
+  families, recreational enthusiasts, artists, among others. LA River Stories
+  immerses the viewer in the lives of real people, fosters an understanding of
+  their needs, and elevates the narrative to inspire transformative ideas to
+  shape equitable planning and design.
 project_impact: '["Waterways","Local water","Resilient communities"]'
 project_proposal_best_place: >-
   For many Angelenos, the LA River is not just a concrete flood channel, it’s a

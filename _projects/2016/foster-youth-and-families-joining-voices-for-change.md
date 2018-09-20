@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6395409023741-team88.jpg
 project_video: ''
-project_description: >-
-  The foster care system needs to change. Families need support to care for
-  their children, and children need to know that they are safe and loved no
-  matter where they live. The people who know what needs to change are the ones
-  who know the system best. NFYI/LA will recruit and train 100 foster youth and
-  50 family members to advocate with policy makers for new approaches to
-  transform the child welfare system.
+project_summary: >-
+  NFYI is building a social movement in LA, led by foster youth and their
+  families, to transform the child welfare system so it WORKS!
 project_is_collaboration: 'Yes'
 project_collaborators: Community Coalition
 project_areas:
@@ -56,6 +52,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  The foster care system needs to change. Families need support to care for
+  their children, and children need to know that they are safe and loved no
+  matter where they live. The people who know what needs to change are the ones
+  who know the system best. NFYI/LA will recruit and train 100 foster youth and
+  50 family members to advocate with policy makers for new approaches to
+  transform the child welfare system.
 project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Rates of volunteerism","Total number of local social media friends and

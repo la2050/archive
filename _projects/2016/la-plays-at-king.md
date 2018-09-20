@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0761849894741-team91.jpg
 project_video: 'https://www.youtube.com/embed/LO-jFIvksfc?rel=0&amp;showinfo=0'
-project_description: >-
-  Our proposal is to upgrade T.S. King Middle School’s play spaces, embracing
-  the ideals of all three of our magnet programs – Arts and Tech, Environmental
-  STEAM, and Film & Media. This includes upgrading the sound in our film studio
-  and auditorium, refurbishing our outdoor amphitheater, as well as resurfacing
-  our playing field. These changes will benefit the over 2,100 students
-  attending King, while providing greater entertainment and recreational
-  opportunities for our surrounding neighbors.
+project_summary: >-
+  Our proposal is to upgrade Thomas Starr King Middle School’s field,
+  auditorium, production studio and outdoor amphitheater into a fully-functional
+  community play space.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -72,6 +68,14 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - Advisors are always welcome!
+project_description: >-
+  Our proposal is to upgrade T.S. King Middle School’s play spaces, embracing
+  the ideals of all three of our magnet programs – Arts and Tech, Environmental
+  STEAM, and Film & Media. This includes upgrading the sound in our film studio
+  and auditorium, refurbishing our outdoor amphitheater, as well as resurfacing
+  our playing field. These changes will benefit the over 2,100 students
+  attending King, while providing greater entertainment and recreational
+  opportunities for our surrounding neighbors.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Per

@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0265060265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/cPfsZdgBbDk?rel=0&amp;showinfo=0'
-project_description: >-
-  Our project is a model that can be duplicated in other communities and help
-  others, too. We offer proven Boys & Girls Club youth-development activities in
-  affordable housing communities to kids 6-18 years of age. Programs yield
-  academic success, good character & citizenship, and healthy lifestyles. What’s
-  special here is that we are bringing the Club to the home community so that
-  kids are directly served with programs they need, and the whole family
-  benefits from using the family-centered space.
+project_summary: >-
+  Our project brings the service and care of the Boys & Girls Club right to the
+  doorsteps of our kids.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Boys and Girls Clubs of Santa Monica, Community Corporation of Santa Monica'
 project_areas:
@@ -47,6 +42,14 @@ project_proposal_help:
   - 'Money '
   - Volunteers
   - Staff
+project_description: >-
+  Our project is a model that can be duplicated in other communities and help
+  others, too. We offer proven Boys & Girls Club youth-development activities in
+  affordable housing communities to kids 6-18 years of age. Programs yield
+  academic success, good character & citizenship, and healthy lifestyles. What’s
+  special here is that we are bringing the Club to the home community so that
+  kids are directly served with programs they need, and the whole family
+  benefits from using the family-centered space.
 project_impact: '["Number of children enrolled in afterschool programs"]'
 project_proposal_best_place: >-
   Remember when you were a kid – some of your best friends were from your

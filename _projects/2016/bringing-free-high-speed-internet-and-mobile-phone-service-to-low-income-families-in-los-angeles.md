@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4367473165741-team90.png
 project_video: ''
-project_description: >-
-  Over 650,000 households in LA earning less than $50K/year do not have internet
-  at home (based on 2013 estimates). Drizzle will build an online platform to
-  deliver free internet and phone service to these lower-income families.
-  Qualifying families use our platform to get phone and internet service from
-  local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
-  are paid by retailers on our platform who give cash-back rewards on families'
-  everyday purchases (gas, food, clothes).
+project_summary: >-
+  We help low-income families get high-speed internet and phone service by
+  connecting them to providers who subsidize costs and retailers who pay
+  remaining costs via cash-back rebates on everyday items.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Techstars, COX Enterprises'
 project_areas:
@@ -68,6 +64,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - Technical infrastructure (computers etc.)
   - Community outreach
+project_description: >-
+  Over 650,000 households in LA earning less than $50K/year do not have internet
+  at home (based on 2013 estimates). Drizzle will build an online platform to
+  deliver free internet and phone service to these lower-income families.
+  Qualifying families use our platform to get phone and internet service from
+  local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
+  are paid by retailers on our platform who give cash-back rewards on families'
+  everyday purchases (gas, food, clothes).
 project_impact: >-
   ["Access to free wifi","Total number of local social media friends and
   connections Angelenos have","Voting rates"]

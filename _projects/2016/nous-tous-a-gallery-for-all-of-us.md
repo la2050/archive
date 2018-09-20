@@ -14,11 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2520459835741-team91.JPG
 project_video: 'https://www.youtube.com/embed/I_DjRnUczmc?rel=0&amp;showinfo=0'
-project_description: >-
-  Citizens Of Culture uses engaging events to highlight and create deeper
-  context for artist's work. With the LA2050 we will expand our gallery 
-  showroom programs beyond the walls of our space to engage with a wider network
-  of creators.
+project_summary: >-
+  Citizens Of Culture cultivates economic opportunities for independent artists
+  and designers through workshops and events.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -43,6 +41,11 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Citizens Of Culture uses engaging events to highlight and create deeper
+  context for artist's work. With the LA2050 we will expand our gallery 
+  showroom programs beyond the walls of our space to engage with a wider network
+  of creators.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Gini coefficient","Jobs per capita","Measures of cultural and

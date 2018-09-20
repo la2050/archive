@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4893873855741-team90.jpg
 project_video: 'https://www.youtube.com/embed/QgGAt5V-g8k?rel=0&amp;showinfo=0'
-project_description: >-
-  LA Compost is working to create an entirely local solution to food waste
-  through composting. Our community supported compost hubs will keep organics
-  within the same community in which they were consumed, and provide finished
-  compost for local growers. By expanding our current countywide compost hub
-  network, we will continue to divert thousands of pounds of organics from
-  reaching landfills monthly, while also providing residents with the tools and
-  education needed to compost on their own.
+project_summary: >-
+  L.A. Compost will create a countywide composting program, connecting the
+  community with the soil that feeds them via workshops and use/access to
+  neighborhood community compost hubs.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -66,6 +62,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles
   - Network/relationship support
+project_description: >-
+  LA Compost is working to create an entirely local solution to food waste
+  through composting. Our community supported compost hubs will keep organics
+  within the same community in which they were consumed, and provide finished
+  compost for local growers. By expanding our current countywide compost hub
+  network, we will continue to divert thousands of pounds of organics from
+  reaching landfills monthly, while also providing residents with the tools and
+  education needed to compost on their own.
 project_impact: '["Access to healthy food","Self-sufficiency","Resilient communities"]'
 project_proposal_best_place: >-
   LA Compost will help make LA be the best place to LIVE by reconnecting

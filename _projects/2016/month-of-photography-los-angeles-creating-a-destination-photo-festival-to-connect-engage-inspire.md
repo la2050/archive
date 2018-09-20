@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852558165741-team90.jpg
 project_video: ''
-project_description: >-
-  Our aim is to expand upon eight successful iterations of the festival by
-  building a smart phone app to improve information dissemination and sharing,
-  enrich our local artist and creative community by commissioning artists to
-  create unique imagery and projects that celebrate Los Angeles, and to find
-  talented people to support the expansion and improvement of the festival. Our
-  principal goal is to build a world-class, destination photography festival by
-  2018.
+project_summary: >-
+  Month of Photography Los Angeles' two-fold mission is to advance dynamic
+  programming designed to engage and stimulate the photography and creative
+  community.
 project_is_collaboration: 'No'
 project_collaborators: not applicable.
 project_areas:
@@ -42,6 +38,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Our aim is to expand upon eight successful iterations of the festival by
+  building a smart phone app to improve information dissemination and sharing,
+  enrich our local artist and creative community by commissioning artists to
+  create unique imagery and projects that celebrate Los Angeles, and to find
+  talented people to support the expansion and improvement of the festival. Our
+  principal goal is to build a world-class, destination photography festival by
+  2018.
 project_impact: '["Cultural events","Public/open streets gatherings"]'
 project_proposal_best_place: >-
   Los Angeles has quickly become a city known for it's prominent arts and

@@ -14,11 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9754248015741-team90.jpeg
 project_video: ''
-project_description: >-
-  Red Hen Press will advocate for diversity in literature by publishing and
-  publicizing 26 works of poetry, fiction, and creative nonfiction by both
-  established and emerging authors, providing opportunities for minority
-  populations to establish their place in the American literary canon.
+project_summary: >-
+  Red Hen Press will advocate for literary diversity by publishing 26 works of
+  poetry, fiction, and nonfiction, creating opportunities for unheard voices to
+  establish their place in American literature.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -62,6 +61,11 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Red Hen Press will advocate for diversity in literature by publishing and
+  publicizing 26 works of poetry, fiction, and creative nonfiction by both
+  established and emerging authors, providing opportunities for minority
+  populations to establish their place in the American literary canon.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Percentage of graduates from local higher education institutions

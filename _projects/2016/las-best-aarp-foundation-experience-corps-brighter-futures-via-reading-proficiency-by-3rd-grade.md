@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3583609165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Q7i_qCu5ttQ?rel=0&amp;showinfo=0'
-project_description: >-
-  Highly trained AARP Foundation Experience Corps (EC) volunteers – retired
-  Americans ages 50+ – will tutor and mentor LA’s BEST kindergarten through 3rd
-  grade students to cultivate reading proficiency by the end of the 3rd grade.
-  LA’s BEST program staff – teachers, mentors and coaches to the children served
-  – will work alongside EC volunteers and receive training and tools to expand
-  and sustain the project, while growing personally and professionally through
-  invaluable intergenerational exchange.
+project_summary: >-
+  AARP Foundation Experience Corps volunteers will use evidence-based curriculum
+  to tutor struggling readers attending LA's BEST after school program so they
+  achieve reading proficiency by 3rd grade.
 project_is_collaboration: 'Yes'
 project_collaborators: AARP Foundation Experience Corps & LA’s BEST
 project_areas:
@@ -65,6 +61,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Education/training '
   - Network/relationship support
+project_description: >-
+  Highly trained AARP Foundation Experience Corps (EC) volunteers – retired
+  Americans ages 50+ – will tutor and mentor LA’s BEST kindergarten through 3rd
+  grade students to cultivate reading proficiency by the end of the 3rd grade.
+  LA’s BEST program staff – teachers, mentors and coaches to the children served
+  – will work alongside EC volunteers and receive training and tools to expand
+  and sustain the project, while growing personally and professionally through
+  invaluable intergenerational exchange.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Students’ perceived sense of safety at and on the way to

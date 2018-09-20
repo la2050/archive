@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0138450996741-team90.jpeg
 project_video: ''
-project_description: >-
-  The Westside of Los Angeles is home to more people than all but a handful of
-  American cities in their entirety. And yet, because of the region's
-  combination of independent jurisdictions, the Westside is more of an idea than
-  an entity. As the Westside's leading civic organization, WUF proposes a
-  day-long conference to gather leaders and stakeholders from across the
-  Westside spectrum to solve common challenges, seize upon common opportunities,
-  and identify projects to pursue in the coming year.
+project_summary: >-
+  WUF will sponsor a first-ever one-day conference to celebrate the Westside,
+  discuss common challenges, and identify projects to make the Westside more
+  lively, equitable, and functional.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -45,6 +41,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Westside of Los Angeles is home to more people than all but a handful of
+  American cities in their entirety. And yet, because of the region's
+  combination of independent jurisdictions, the Westside is more of an idea than
+  an entity. As the Westside's leading civic organization, WUF proposes a
+  day-long conference to gather leaders and stakeholders from across the
+  Westside spectrum to solve common challenges, seize upon common opportunities,
+  and identify projects to pursue in the coming year.
 project_impact: >-
   ["Government responsiveness to residents’ needs","Public transit
   riders","Participation in neighborhood councils","Residential segregation"]

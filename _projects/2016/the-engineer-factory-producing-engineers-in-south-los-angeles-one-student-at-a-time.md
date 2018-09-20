@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7432986155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/IgcIdSHSnMc?rel=0&amp;showinfo=0'
-project_description: >-
-  The Engineer Factory, in collaboration with the UCLA MESA Program, Los Angeles
-  Southwest College Urban Teachers Fellowship (LASC UTF) and the Girl Scouts of
-  Greater Los Angeles seek to spark the interest of 4th- 8th grade females and
-  students of color in being engineers. The program includes: consistent fun,
-  hands-on, project-based learning through one-day Pop-Up community workshops;
-  participating in MESA & engineer-based competitions; and providing practical
-  training and resources for teachers.
+project_summary: >-
+  The Engineer Factory is to increase the number of students from
+  underrepresented populations (girls and students of color) that pursue higher
+  education and careers in Engineering.  This
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   UCLA MESA, The Girl Scouts of Greater Los Angeles, Los Angeles Southwest
@@ -74,6 +70,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Engineer Factory, in collaboration with the UCLA MESA Program, Los Angeles
+  Southwest College Urban Teachers Fellowship (LASC UTF) and the Girl Scouts of
+  Greater Los Angeles seek to spark the interest of 4th- 8th grade females and
+  students of color in being engineers. The program includes: consistent fun,
+  hands-on, project-based learning through one-day Pop-Up community workshops;
+  participating in MESA & engineer-based competitions; and providing practical
+  training and resources for teachers.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   The Engineer Factory (EF) will help make LA the best place to learn by

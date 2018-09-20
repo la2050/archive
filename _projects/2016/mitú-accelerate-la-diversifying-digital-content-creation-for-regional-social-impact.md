@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5654638165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/I-2Ao80yxyQ?rel=0&amp;showinfo=0'
-project_description: >-
-  mitú Accelerate LA not only discovers aspiring Latino digital filmmakers, but
-  connects them with key community organizations, educational institutions, and
-  industry partners, with the goal of training them on how to successfully
-  create digital content that speaks to the often overlooked, yet massive,
-  Latino millennial audience. As leaders in this field, mitú is focused on
-  giving back by teaching Latino filmmakers to authentically tell their own
-  stories in a way that speaks directly and effective
+project_summary: >-
+  mitú Accelerate LA is a two track program focused on empowering aspiring
+  Latino filmmakers and storytellers to share their powerful stories, and cover
+  some of the most vital issues in the community.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We will form collaborative partnerships with groups to elevate diverse voices,
@@ -73,6 +69,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - Technical infrastructure (computers etc.)
   - Network/relationship support
+project_description: >-
+  mitú Accelerate LA not only discovers aspiring Latino digital filmmakers, but
+  connects them with key community organizations, educational institutions, and
+  industry partners, with the goal of training them on how to successfully
+  create digital content that speaks to the often overlooked, yet massive,
+  Latino millennial audience. As leaders in this field, mitú is focused on
+  giving back by teaching Latino filmmakers to authentically tell their own
+  stories in a way that speaks directly and effective
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and

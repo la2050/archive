@@ -17,12 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6633121265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/wTWVo0OKkL8?rel=0&amp;showinfo=0'
-project_description: >-
-  EMX is looking to expand their current platform throughout Los Angeles County,
-  which showcases undiscovered local electronic music artists.  EMX artists will
-  enhance their communities by active involvement in the NoHo ArtWalk,
-  after-school DJ programs for kids, after-school Producer programs for
-  teens/adults, and the Electronic Music Alliance’s Play it FWD program.
+project_summary: >-
+  EMX will invest in developing the NoHo ArtWalk, educational classes for
+  kids/teens/adults, and developing new artists who will contribute to community
+  service through the EMA Play it FWD program.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   -Western Marketing & Media (DBA: EMX): https://www.facebook.com/emx.la/, ,
@@ -67,6 +65,12 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  EMX is looking to expand their current platform throughout Los Angeles County,
+  which showcases undiscovered local electronic music artists.  EMX artists will
+  enhance their communities by active involvement in the NoHo ArtWalk,
+  after-school DJ programs for kids, after-school Producer programs for
+  teens/adults, and the Electronic Music Alliance’s Play it FWD program.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft

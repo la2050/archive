@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1265013144741-team90.png
 project_video: 'https://www.youtube.com/embed/VIFv2XHX_l8?rel=0&amp;showinfo=0'
-project_description: >-
-  thecool will disrupt the standard cafe experience by serving and engaging the
-  community in an interactive space, with a culturally adventurous menu that
-  integrates popular food and drink from various cuisines while elevating them
-  in preparation, aesthetics, and taste.  Guests are encouraged to surface their
-  hidden talents, act as a catalyst for the brainstorming and exchange of
-  innovative ideas, and provide all Angelenos an outlet to build community in an
-  increasingly isolated and digital world.
+project_summary: >-
+  We plan to create a space that encourages you to use all five senses in public
+  - savor our menu, witness people’s gifts, play in the space, listen to
+  conversations and music.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -64,6 +60,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  thecool will disrupt the standard cafe experience by serving and engaging the
+  community in an interactive space, with a culturally adventurous menu that
+  integrates popular food and drink from various cuisines while elevating them
+  in preparation, aesthetics, and taste.  Guests are encouraged to surface their
+  hidden talents, act as a catalyst for the brainstorming and exchange of
+  innovative ideas, and provide all Angelenos an outlet to build community in an
+  increasingly isolated and digital world.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

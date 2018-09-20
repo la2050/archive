@@ -16,12 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8207349525741-team91.jpg
 project_video: 'https://www.youtube.com/embed/JHgZ6ApAYVQ?rel=0&amp;showinfo=0'
-project_description: >-
-  To be able to provide a nature based arts program for the children of the Anna
-  Bing Arnold Children's Center utilizing the non-profit arts program,
-  Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
-  multi-disciplinary arts program which uses art and nature as a mode of
-  learning to facilitate the development of the whole child.
+project_summary: >-
+  To provide holistic project-based learning experiences for the children of
+  Anna Bing Arnold Children's Center through the intergration of the Connecting
+  Children to Art and Nature Program.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -56,6 +54,12 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  To be able to provide a nature based arts program for the children of the Anna
+  Bing Arnold Children's Center utilizing the non-profit arts program,
+  Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
+  multi-disciplinary arts program which uses art and nature as a mode of
+  learning to facilitate the development of the whole child.
 project_impact: '["Proficiency in English and Language Arts and Math","Early education"]'
 project_proposal_best_place: >-
   Overview:

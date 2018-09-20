@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8636309165741-team90.JPG
 project_video: 'https://www.youtube.com/embed/t9dVCR59w60?rel=0&amp;showinfo=0'
-project_description: >-
-  Building on a successful two-year pilot, Front Line Leaders Academy will
-  recruit 15-20 young people who are seeking positive social change but are
-  underrepresented in local leadership - such as women, people of color, and
-  LGBTQ youth. Fellows participate in four three-day weekend trainings over the
-  course of the six months to cover a wide range of skills and tactics. By
-  graduation Fellows will have developed a wide range of organizing skills that
-  will help them to be effective local leaders.
+project_summary: >-
+  FLLA provides values-based training to young people seeking social change with
+  a vision to create a system of truly representative government that gives
+  voice for youth and marginalized communities.
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -53,6 +49,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Building on a successful two-year pilot, Front Line Leaders Academy will
+  recruit 15-20 young people who are seeking positive social change but are
+  underrepresented in local leadership - such as women, people of color, and
+  LGBTQ youth. Fellows participate in four three-day weekend trainings over the
+  course of the six months to cover a wide range of skills and tactics. By
+  graduation Fellows will have developed a wide range of organizing skills that
+  will help them to be effective local leaders.
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Voting rates"]

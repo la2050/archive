@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1708382065741-team91.jpg
 project_video: ''
-project_description: >-
-  Dear Mama will use the 100,000 grant to  mobilize and revolutionize healthy
-  food throughout the Los Angeles county. We have a three-part initiative that
-  will allow us to impact and improve the health of millions of Angelenos. We
-  will use our mobile food trucks to travel throughout the Los Angeles county
-  and deliver healthy plant-based food options. Through engagement of classes
-  and workshops will be educated and empower families and community members  to
-  charge of their eating habits.
+project_summary: >-
+  Dear Mama will revolutionize  the eating habits of our community through
+  mobilizing plant-based food, by empowering and engaging with the community to
+  create a deep impact with Angelenos.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -76,6 +72,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Dear Mama will use the 100,000 grant to  mobilize and revolutionize healthy
+  food throughout the Los Angeles county. We have a three-part initiative that
+  will allow us to impact and improve the health of millions of Angelenos. We
+  will use our mobile food trucks to travel throughout the Los Angeles county
+  and deliver healthy plant-based food options. Through engagement of classes
+  and workshops will be educated and empower families and community members  to
+  charge of their eating habits.
 project_impact: >-
   ["Access to healthy food","Housing affordability","Exposure to air
   toxins","Self-sufficiency","Obesity","Local water","Resilient

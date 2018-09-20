@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9172894265741-team91.png
 project_video: 'https://www.youtube.com/embed/a-9Ki04WhRM?rel=0&amp;showinfo=0'
-project_description: >-
-  An LA2050 grant would enable Sundance Institute to 1) provide 20% of NEXT
-  FEST17 screening and event tickets free-of-charge to Los Angeles County
-  community organizations and other community outreach programs, 2) support NEXT
-  FEST public panels and workshops, and 3) continue NEXT DOOR, a publicly
-  accessible outdoor community space located next to the festival and open
-  throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
-  Angelenos across the county.
+project_summary: >-
+  Providing free tickets and a place for Angelenos to connect through a unique
+  summer festival fusing independent film, music, comedy & conversation in the
+  heart of Downtown LA.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -63,6 +59,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  An LA2050 grant would enable Sundance Institute to 1) provide 20% of NEXT
+  FEST17 screening and event tickets free-of-charge to Los Angeles County
+  community organizations and other community outreach programs, 2) support NEXT
+  FEST public panels and workshops, and 3) continue NEXT DOOR, a publicly
+  accessible outdoor community space located next to the festival and open
+  throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
+  Angelenos across the county.
 project_impact: >-
   ["Cultural events","Public/open streets gatherings","Public transit
   riders","Total number of local social media friends and connections Angelenos

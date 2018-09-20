@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7618226615741-team90.jpg
 project_video: ''
-project_description: >-
-  This project creates an integrated technology solution between ConnectEd and
-  Nepris that supports the LAUSD vision and goals of college, career, and
-  community readiness for all students. It combines real-world, relevant career
-  exposure and mentoring based on student interest and goals,through a
-  media-rich, technology-based platform. Content is designed by a collaborative
-  community of educators and experts from local and global for-profit,
-  non-profit, and labor organizations and associations.
+project_summary: >-
+  Through a media-rich, technology-based platform powered by students, teachers,
+  and business/labor/nonprofit, this project brings an array of thriving LA
+  careers to life in high school classrooms.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Nepris, Los Angeles Unified School District'
 project_areas:
@@ -59,6 +55,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  This project creates an integrated technology solution between ConnectEd and
+  Nepris that supports the LAUSD vision and goals of college, career, and
+  community readiness for all students. It combines real-world, relevant career
+  exposure and mentoring based on student interest and goals,through a
+  media-rich, technology-based platform. Content is designed by a collaborative
+  community of educators and experts from local and global for-profit,
+  non-profit, and labor organizations and associations.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   Dropping out of school is a life-altering decision process that can start in

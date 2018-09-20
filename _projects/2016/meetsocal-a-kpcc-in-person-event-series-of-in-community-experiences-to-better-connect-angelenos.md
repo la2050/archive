@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4956546915741-team89.JPG
 project_video: 'https://www.youtube.com/embed/lRjoDtwYF8s?rel=0&amp;showinfo=0'
-project_description: >-
-  #MeetSoCal events will bring KPCC to a variety of venues in LA County
-  communities, especially those underserved by public radio. We will gather
-  Angelenos to share experiences, ideas, and concerns in formats ranging from
-  panel discussions to artistic performances to listening booths and more.
-  #MeetSoCal will build relationships with new audiences, inform and feed our
-  news coverage, connect people with their neighbors and communities, and foster
-  conversation about civic and cultural issues in LA.
+project_summary: >-
+  With #MeetSoCal, KPCC will explore LA County’s diverse and changing
+  neighborhoods through the eyes of Angelenos to inform our coverage, foster
+  robust public conversation, and connect our communities.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -59,6 +55,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Community outreach
+project_description: >-
+  #MeetSoCal events will bring KPCC to a variety of venues in LA County
+  communities, especially those underserved by public radio. We will gather
+  Angelenos to share experiences, ideas, and concerns in formats ranging from
+  panel discussions to artistic performances to listening booths and more.
+  #MeetSoCal will build relationships with new audiences, inform and feed our
+  news coverage, connect people with their neighbors and communities, and foster
+  conversation about civic and cultural issues in LA.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Total number of local social media friends and connections

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8496394265741-team91.jpg
 project_video: ''
-project_description: >-
-  There is a traffic collision every ten minutes in Los Angeles; these
-  physically, mentally, and emotionally traumatic experiences impact 52,000
-  survivors and their loved ones every year. SAFE Support provides a support
-  group, practical resources, and important advocacy for these “victims of
-  traffic.” Our experts help survivors heal from injuries, navigate the legal
-  process, manage their daily lives, repair their mental health, and use their
-  experiences to affect meaningful change.
+project_summary: >-
+  With over 52,000 traumatic traffic collisions in LA County every year, SAFE
+  Support  is there to help fill the gaps in the social and government safety
+  net.
 project_is_collaboration: 'Yes'
 project_collaborators: Forged by Fire Foundation.
 project_areas:
@@ -46,6 +42,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  There is a traffic collision every ten minutes in Los Angeles; these
+  physically, mentally, and emotionally traumatic experiences impact 52,000
+  survivors and their loved ones every year. SAFE Support provides a support
+  group, practical resources, and important advocacy for these “victims of
+  traffic.” Our experts help survivors heal from injuries, navigate the legal
+  process, manage their daily lives, repair their mental health, and use their
+  experiences to affect meaningful change.
 project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Rates of volunteerism"]

@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7260306494741-team91.JPG
 project_video: 'https://www.youtube.com/embed/3NWi_lmKGzs?rel=0&amp;showinfo=0'
-project_description: >-
-  We intend to construct an Adventure Playground, taking advantage of the vacant
-  space that used to occupy a school on our campus. The playground will extend
-  from the already existent community garden and encompass a center for learning
-  about arts, building, and gardening as well as incorporating free play areas
-  for children to explore. We hope that this outreach will connect with children
-  and families of the neighborhood to create a safe environment to learn and
-  emphasize the importance of play.
+project_summary: >-
+  We intend to reintroduce play into the community by constructing an Adventure
+  Playground that will create a safe environment for families to explore and
+  grow, facilitating a sense of harmony.
 project_is_collaboration: 'Yes'
 project_collaborators: 'D. Santana Architect Firm; Department of Children, Family Services'
 project_areas:
@@ -54,6 +50,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  We intend to construct an Adventure Playground, taking advantage of the vacant
+  space that used to occupy a school on our campus. The playground will extend
+  from the already existent community garden and encompass a center for learning
+  about arts, building, and gardening as well as incorporating free play areas
+  for children to explore. We hope that this outreach will connect with children
+  and families of the neighborhood to create a safe environment to learn and
+  emphasize the importance of play.
 project_impact: >-
   ["Access to open space and park facilities","Number of children enrolled in
   afterschool programs","Number of parks with intergenerational play

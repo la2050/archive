@@ -12,16 +12,7 @@ organization_activity: Open data-driven analysis of public transport accessibili
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8010774165741-team91.png
 project_video: 'https://player.vimeo.com/video/183623434?rel=0&amp;showinfo=0'
-project_description: >-
-  By using Habidatum Platform we help identify the priority public transport
-  development areas. We highlight places where public transport is unavailable,
-  and people have to wait or walk longer than in other locations.
-
-  We also analyze where public transport is inefficient. In some cases, getting
-  somewhere by foot is faster than using public transport. 
-
-  Automated spatio-temporal analysis performed in our platform supports
-  improvement of public transit’s reputation and quality of life in the city.
+project_summary: Open data-driven analysis of public transport accessibility in space-time
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -41,6 +32,16 @@ project_proposal_help:
   - 'Money '
   - Advisors/board members
   - Publicity/awareness
+project_description: >-
+  By using Habidatum Platform we help identify the priority public transport
+  development areas. We highlight places where public transport is unavailable,
+  and people have to wait or walk longer than in other locations.
+
+  We also analyze where public transport is inefficient. In some cases, getting
+  somewhere by foot is faster than using public transport. 
+
+  Automated spatio-temporal analysis performed in our platform supports
+  improvement of public transit’s reputation and quality of life in the city.
 project_impact: >-
   ["Government responsiveness to residents’ needs","Travel time to work","Public
   transit riders"]

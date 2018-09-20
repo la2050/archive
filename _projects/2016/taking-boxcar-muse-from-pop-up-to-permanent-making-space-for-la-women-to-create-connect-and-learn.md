@@ -16,16 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2216202144741-team91.jpg
 project_video: 'https://youtube.com/embed/200FWNYbCNw?rel=0&amp;showinfo=0'
-project_description: >-
-  boxcar+muse will go from pop-up to permanent, providing its growing community
-  with a year-round creative camp and learning lab, doubling its workshop series
-  and club programming, and offering 130 new sponsorships for women. 
-
-
-  By providing women with the inspiration, tools, space, and comradery for
-  regular creative exercise and experiences, boxcar+muse hopes to democratize
-  the process, making innovation and self-discovery outside of work or family a
-  vital habit for Los Angeles women.
+project_summary: >-
+  boxcar+muse will go from pop-up to permanent, cultivating a year-round
+  creative camp and learning lab for women, doubling our workshop series and
+  club programming, and offering 130 new sponsorships.
 project_is_collaboration: 'No'
 project_collaborators: >-
   None*, , *While we have not collaborated on this particular proposal we
@@ -48,6 +42,16 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  boxcar+muse will go from pop-up to permanent, providing its growing community
+  with a year-round creative camp and learning lab, doubling its workshop series
+  and club programming, and offering 130 new sponsorships for women. 
+
+
+  By providing women with the inspiration, tools, space, and comradery for
+  regular creative exercise and experiences, boxcar+muse hopes to democratize
+  the process, making innovation and self-discovery outside of work or family a
+  vital habit for Los Angeles women.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Jobs per capita","Minority- and women-owned firms","Patents per

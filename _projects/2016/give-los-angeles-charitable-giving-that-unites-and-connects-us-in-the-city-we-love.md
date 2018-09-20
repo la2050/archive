@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4972927725741-team91.jpg
 project_video: ''
-project_description: >-
-  This winter, Los Angeles magazine is embarking on our most ambitious
-  non-profit initiative, the GIVE Los Angeles Challenge. As a custom publication
-  and online fundraising challenge, GIVE Los Angeles will connect passionate,
-  engaged supporters with deserving non-profits, in an effort to encourage more
-  local philanthropy. This is our public call to the people of L.A. to support
-  local organizations by donating and/or volunteering.
+project_summary: >-
+  GIVE Los Angeles is a unique effort and public call to Angelenos, encouraging
+  us to think, act and give back to the non-profits that are doing remarkable
+  work to make life in LA the best it can be.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Alzheimer's Greater Los Angeles, Children's Hospital Los Angeles, City of
@@ -60,6 +57,13 @@ project_measure: >-
 project_proposal_help: >-
   ["Money ","Advisors/board members","Publicity/awareness","Community outreach
   ","Network/relationship support"]
+project_description: >-
+  This winter, Los Angeles magazine is embarking on our most ambitious
+  non-profit initiative, the GIVE Los Angeles Challenge. As a custom publication
+  and online fundraising challenge, GIVE Los Angeles will connect passionate,
+  engaged supporters with deserving non-profits, in an effort to encourage more
+  local philanthropy. This is our public call to the people of L.A. to support
+  local organizations by donating and/or volunteering.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Public transit

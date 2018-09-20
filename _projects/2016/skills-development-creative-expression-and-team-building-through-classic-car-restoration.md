@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3013757055741-team88.JPG
 project_video: 'https://www.youtube.com/embed/RLWhGmroxoM?rel=0&amp;showinfo=0'
-project_description: >-
-  Lost Angels Children's Project provides an engaging after-school program
-  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
-  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
-  learn classic car restoration and customizing techniques, which provide job
-  and life skills training, character building, and enforces academic subjects
-  of science, technology, engineering, arts, and mathematics (STEAM).
+project_summary: >-
+  Lost Angels Children's Project engages at-risk youth through classic car
+  restoration and customization to learn a trade, gain life skills and become
+  empowered through team building activities.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -64,6 +61,13 @@ project_proposal_help:
   - 'Staff '
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
+project_description: >-
+  Lost Angels Children's Project provides an engaging after-school program
+  serving local at-risk and foster youth. Twice a week, 10-13 youth attend the
+  LACP facility to participate in workshops for two-hours. Youth, ages 11-19,
+  learn classic car restoration and customizing techniques, which provide job
+  and life skills training, character building, and enforces academic subjects
+  of science, technology, engineering, arts, and mathematics (STEAM).
 project_impact: '["Youth unemployment and underemployment"]'
 project_proposal_best_place: >-
   LACP is committed to providing a safe after-school environment where the youth

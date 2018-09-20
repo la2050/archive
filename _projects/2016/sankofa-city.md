@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5836115265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Miif0LRI6Ls?rel=0&amp;showinfo=0'
-project_description: >-
-  The advent of new urban-based technologies means that the future form of Los
-  Angeles will be unlike anything one can now imagine.  For example, how might
-  self-driving vehicles and augmented reality be used to change our relationship
-  to the city - to even change the city itself? We will conduct a series of
-  collaborative workshops with artists, students, technical experts, and local
-  Leimert Park residents, to create vivid scenarios of the possibilities to
-  share with the public and spark debate.
+project_summary: >-
+  Sankofa City will explore the nexus of emerging technology, art, and
+  community-based urban design, to provide visions for the future of local
+  innovation and cultural development in Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Kaos Network, Los Angeles, CA (Leimert Park), Urban Systems Laboratory,
@@ -61,6 +57,14 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers etc.)
   - Community outreach
+project_description: >-
+  The advent of new urban-based technologies means that the future form of Los
+  Angeles will be unlike anything one can now imagine.  For example, how might
+  self-driving vehicles and augmented reality be used to change our relationship
+  to the city - to even change the city itself? We will conduct a series of
+  collaborative workshops with artists, students, technical experts, and local
+  Leimert Park residents, to create vivid scenarios of the possibilities to
+  share with the public and spark debate.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Minority- and women-owned
   firms"]

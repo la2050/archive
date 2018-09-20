@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4852245265741-team91.png
 project_video: ''
-project_description: >-
-  ProduceAthon, in collaboration with the Cities of Los Angeles, West Hollywood,
-  Long Beach, & Santa Monica will create a new program that catalyzes local
-  talent – developers, designers, entrepreneurs, storytellers, and makers – to
-  build marketing solutions & innovative tech-based prototypes around
-  city-identified challenge sets. We will match talent teams with subject matter
-  experts, business accelerators, & investors to ensure their concepts are
-  scalable, sustainable, & deliver measurable impact
+project_summary: >-
+  We mobilize local talent to create campaigns and tech-based solutions that
+  inspire civic engagement, address our greatest civic needs, and unite the
+  non-profit, private, & public sectors.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1 - 5: The Cities of: Los Angeles West Hollywood, Santa Monica, & Long Beach,
@@ -65,6 +61,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  ProduceAthon, in collaboration with the Cities of Los Angeles, West Hollywood,
+  Long Beach, & Santa Monica will create a new program that catalyzes local
+  talent – developers, designers, entrepreneurs, storytellers, and makers – to
+  build marketing solutions & innovative tech-based prototypes around
+  city-identified challenge sets. We will match talent teams with subject matter
+  experts, business accelerators, & investors to ensure their concepts are
+  scalable, sustainable, & deliver measurable impact
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Gini coefficient","Jobs per capita","Measures of cultural and

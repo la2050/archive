@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7692902065741-team91.png
 project_video: ''
-project_description: >-
-  In a community such as Carson, and school district that has seen violence,
-  bullying, and behavioral issues among students, the Domestic Harmonizer
-  Program is boosting both learning, and promoting the prevention and peaceful
-  resolution of conflicts on campus between and among students. Students and
-  teachers at Andrew Carnegie Middle School are learning tools, skills and
-  processes to prevent and resolve conflicts, and to enhance youth leadership
-  and academics.
+project_summary: >-
+  The Domestic Harmonizer Program addresses youth violence, bullying, and
+  conflict, and helps students transform conflicts from negative experiences to
+  opportunities for positive change.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   - California State University, Dominguez Hills (CSUDH), - Andrew Carnegie
@@ -36,6 +32,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  In a community such as Carson, and school district that has seen violence,
+  bullying, and behavioral issues among students, the Domestic Harmonizer
+  Program is boosting both learning, and promoting the prevention and peaceful
+  resolution of conflicts on campus between and among students. Students and
+  teachers at Andrew Carnegie Middle School are learning tools, skills and
+  processes to prevent and resolve conflicts, and to enhance youth leadership
+  and academics.
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Students’ perceived
   sense of safety at and on the way to school","Suspension and expulsion

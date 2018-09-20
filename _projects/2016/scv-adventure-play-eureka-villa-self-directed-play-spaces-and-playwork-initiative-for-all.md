@@ -17,10 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9802286065741-team89.png
 project_video: 'https://www.youtube.com/embed/NzPGR-4eafI?rel=0&amp;showinfo=0'
-project_description: >-
-  SCV Adventure Play is focusing on two initiatives with the 2050 Grant, opening
-  the Eureka Villa Adventure Playground to a larger public and funding FREE
-  Saturday Adventure Play Days throughout LA County for AN ENTIRE YEAR.
+project_summary: >-
+  Providing self-directed play space created not just for kids but BY THEM as we
+  do finishing touches on Eureka Villa Adventure Playground and launch a year
+  long series of FREE Pop-Ups around LA County!
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -58,6 +58,10 @@ project_proposal_help:
   - Advisors/board members
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  SCV Adventure Play is focusing on two initiatives with the 2050 Grant, opening
+  the Eureka Villa Adventure Playground to a larger public and funding FREE
+  Saturday Adventure Play Days throughout LA County for AN ENTIRE YEAR.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play

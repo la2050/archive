@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4454572955741-team91.png
 project_video: 'https://www.youtube.com/embed/cVxDjQi1ofo?rel=0&amp;showinfo=0'
-project_description: >-
-  The Intern Project is a countywide effort to expose more than 325 African
-  American and Hispanic students from predominantly low-income backgrounds to
-  mentorships, volunteer opportunities, and paid internships in high growth
-  career fields that include digital media, entertainment, technology, health
-  care, and design. By supporting our LA2050 campaign, an additional 50 students
-  from one of 11 South Los Angeles Promise Zone high schools will participate in
-  paid summer internships.
+project_summary: >-
+  The Intern Project will expose an additional 50 high school juniors located
+  within the newly established South Los Angeles Promise Zone to paid internship
+  opportunities in high growth career fields.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -42,6 +38,14 @@ project_proposal_help:
   - 'Money '
   - Volunteers
   - Publicity/awareness
+project_description: >-
+  The Intern Project is a countywide effort to expose more than 325 African
+  American and Hispanic students from predominantly low-income backgrounds to
+  mentorships, volunteer opportunities, and paid internships in high growth
+  career fields that include digital media, entertainment, technology, health
+  care, and design. By supporting our LA2050 campaign, an additional 50 students
+  from one of 11 South Los Angeles Promise Zone high schools will participate in
+  paid summer internships.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]

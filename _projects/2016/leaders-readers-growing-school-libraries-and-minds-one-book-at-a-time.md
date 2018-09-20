@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0517807355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk?rel=0&amp;showinfo=0'
-project_description: >-
-  Leaders+Readers will flood approximately 50,000 titles, as part of its book
-  drive program, to the 12 elementary schools that make up the Lynwood Unified
-  School District to support learning and academic excellence. At each school,
-  we will restock the school library and classroom libraries, as well as hold a
-  “Choose + Keep” Book Fair for students to start their own home libraries
-  giving these students access to the reading materials needed to inspire and
-  engage.
+project_summary: >-
+  Leaders+Readers is addressing educational disparities by flooding books into
+  the Lynwood Unified School District & introducing students to books that will
+  become their gateway into stronger literacy.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -40,6 +36,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Leaders+Readers will flood approximately 50,000 titles, as part of its book
+  drive program, to the 12 elementary schools that make up the Lynwood Unified
+  School District to support learning and academic excellence. At each school,
+  we will restock the school library and classroom libraries, as well as hold a
+  “Choose + Keep” Book Fair for students to start their own home libraries
+  giving these students access to the reading materials needed to inspire and
+  engage.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Early education","Student education pipeline"]

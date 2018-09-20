@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0402902265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/oaYNAjDLsxk?rel=0&amp;showinfo=0'
-project_description: >-
-  The Burg is an online platform that will make it easy for individuals to
-  address the local issues of their community in real time. The Burg will
-  connect members of a district and allow them to communicate directly through
-  collective expression (i.e. petitions, campaigns, public service projects). By
-  creating a private space dedicated to informing and organizing members of a
-  community, the Burg will connect LA residents and cultivate civic engagement
-  in a truly innovative way.
+project_summary: >-
+  The Burg is an innovative digital public square that connects communities and
+  gives los angeles residents the tools to address local issues and
+  #buildbettercities.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas: '["County of Los Angeles"]'
@@ -58,6 +54,14 @@ project_proposal_help: >-
   etc.)","Education/training ","Technical infrastructure (computers
   etc.)","Community outreach ","Network/relationship support","Quality
   improvement research"]
+project_description: >-
+  The Burg is an online platform that will make it easy for individuals to
+  address the local issues of their community in real time. The Burg will
+  connect members of a district and allow them to communicate directly through
+  collective expression (i.e. petitions, campaigns, public service projects). By
+  creating a private space dedicated to informing and organizing members of a
+  community, the Burg will connect LA residents and cultivate civic engagement
+  in a truly innovative way.
 project_impact: >-
   ["Public/open streets gatherings","Government responsiveness to residents’
   needs","Participation in neighborhood councils","Rates of volunteerism","Total

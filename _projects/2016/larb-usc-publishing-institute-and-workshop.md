@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6409369455741-team91.jpg
 project_video: ''
-project_description: >-
-  Too long the world of publishing has been inaccessible to the majority of
-  people in the country. The LARB/USC Publishing Workshop will change that by
-  raising funds to provide access to top-flight, innovative, hands-on experience
-  & networking for people whatever their background or means. The Workshop is
-  designed to diversify the pipeline, to recruit people & give them access to
-  the tools & to the people they need to know to take their place in & help
-  create the publishing industry of the future.
+project_summary: >-
+  The LARB/USC Publishing Workshop will give Angelenos unprecedented access to
+  the world of publishing, from traditional books & magazines to e-publications,
+  apps, games, multimedia and new platforms.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   USC is our main partner. Providing fellowships are Black Mountain Institute,
@@ -78,6 +74,14 @@ project_proposal_help:
   - 'Staff '
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  Too long the world of publishing has been inaccessible to the majority of
+  people in the country. The LARB/USC Publishing Workshop will change that by
+  raising funds to provide access to top-flight, innovative, hands-on experience
+  & networking for people whatever their background or means. The Workshop is
+  designed to diversify the pipeline, to recruit people & give them access to
+  the tools & to the people they need to know to take their place in & help
+  create the publishing industry of the future.
 project_impact: '["College completion","Student education pipeline"]'
 project_proposal_best_place: >-
   Los Angeles has never had a program like this, a program that can make the

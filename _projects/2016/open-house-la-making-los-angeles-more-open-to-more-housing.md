@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0674973265741-team91.png
 project_video: ''
-project_description: >-
-  Open House LA encourages residents and policy makers to be more open to adding
-  more housing of all types in Los Angeles County. it is urgent -- and
-  possible-- to build more housing in LA county more rapidly.  Our project will
-  produce engaging and easy to understand visuals and a report explaining how
-  the housing we live in today was built, why housing production slowed in
-  recent decades, and how we can accelerate adding housing of all types so that
-  LA can have homes for all types of people.
+project_summary: >-
+  Open House LA encourages residents and policy makers in LA County to be more
+  open to adding more housing of all types, so that there are enough homes for
+  all types of people to live in LA
 project_is_collaboration: 'No'
 project_collaborators: none - we will work with consultants who may be organizations
 project_areas:
@@ -71,6 +67,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Open House LA encourages residents and policy makers to be more open to adding
+  more housing of all types in Los Angeles County. it is urgent -- and
+  possible-- to build more housing in LA county more rapidly.  Our project will
+  produce engaging and easy to understand visuals and a report explaining how
+  the housing we live in today was built, why housing production slowed in
+  recent decades, and how we can accelerate adding housing of all types so that
+  LA can have homes for all types of people.
 project_impact: '["Housing affordability","Resilient communities","Homelessness"]'
 project_proposal_best_place: >-
   We cannot live better in LA unless there are enough homes so people can afford

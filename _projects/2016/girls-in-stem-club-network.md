@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4330354165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/gLhJdBqKvVA?rel=0&amp;showinfo=0'
-project_description: >-
-  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
-  DIY Girls, and the Housing Corporation of America will establish a network of
-  Girls in STEM Clubs in under-resourced locations to provide mentor
-  opportunities, skills and tools to be successful in school and life through
-  programs where they live. Each Club will be based in the girls’ own
-  communities, giving them a sense of belonging and pride. With women making up
-  29% of the STEM workforce, the program will set a founda
+project_summary: >-
+  Inspire all girls to be Strong, Smart, and Bold through innovative STEM
+  experiences
 project_is_collaboration: 'Yes'
 project_collaborators: 'Columbia Memorial Space Center, Housing Corporation of America, DIY girls'
 project_areas:
@@ -94,6 +89,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Our collaboration between Girls Inc. LA, the Columbia Memorial Space Center,
+  DIY Girls, and the Housing Corporation of America will establish a network of
+  Girls in STEM Clubs in under-resourced locations to provide mentor
+  opportunities, skills and tools to be successful in school and life through
+  programs where they live. Each Club will be based in the girls’ own
+  communities, giving them a sense of belonging and pride. With women making up
+  29% of the STEM workforce, the program will set a founda
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Student education pipeline"]

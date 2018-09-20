@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9698284165741-team91.png
 project_video: ''
-project_description: >-
-  We’re building a new data platform that will make LA the most accessible and
-  inclusive place to run for office anywhere in the nation. With support and
-  guidance from local election officials, our team at USC will work to
-  transition LA’s elected office data into a streamlined and open platform. This
-  new database will allow users to see all available elected offices based on
-  their address and provide crucial details such as filing windows, salaries,
-  requirements, and competitors.
+project_summary: >-
+  Helping Los Angeles develop the most accessible and inclusive process of
+  running for office anywhere in the nation.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   RunForOffice.org. Going forward we expect to draw on strong working
@@ -60,6 +55,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  We’re building a new data platform that will make LA the most accessible and
+  inclusive place to run for office anywhere in the nation. With support and
+  guidance from local election officials, our team at USC will work to
+  transition LA’s elected office data into a streamlined and open platform. This
+  new database will allow users to see all available elected offices based on
+  their address and provide crucial details such as filing windows, salaries,
+  requirements, and competitors.
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism","Voting rates"]

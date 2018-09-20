@@ -15,16 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2052596015741-team91.jpg
 project_video: 'https://www.youtube.com/embed/2n0ZbTcuqlo?rel=0&amp;showinfo=0'
-project_description: >-
-  By creating a bridge between the studio and the classroom, our unique approach
-  to arts education measurably improves academic and personal outcomes for more
-  than 6,000 children and teenagers each year, including those students with
-  limited English proficiency, who are at risk of academic failure. 
-
-
-  Inner-City Arts programs are an investment in the youth of Los Angeles,
-  engaging them in the creative process to become creative, confident and
-  collaborative individuals.
+project_summary: >-
+  We use the arts to positively affect the lives of underserved L.A. children,
+  improving their chances for success by developing creativity, improving
+  learning skills and building self-confidence.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -69,6 +63,16 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  By creating a bridge between the studio and the classroom, our unique approach
+  to arts education measurably improves academic and personal outcomes for more
+  than 6,000 children and teenagers each year, including those students with
+  limited English proficiency, who are at risk of academic failure. 
+
+
+  Inner-City Arts programs are an investment in the youth of Los Angeles,
+  engaging them in the creative process to become creative, confident and
+  collaborative individuals.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Early

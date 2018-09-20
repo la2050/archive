@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3953804915741-team90.png
 project_video: 'https://www.youtube.com/embed/Dh_mEDo9vD8?rel=0&amp;showinfo=0'
-project_description: >-
-  SportUp directly impacts kids in Los Angeles County by making the programs
-  that they participate in more sustainable. We work with afterschool,
-  community, and athletic programs to help build capacity and engagement by
-  giving them a tool to collect and interpreting attendance data. We will
-  outreach to local programs and provide them with a platform and advisory
-  services that will allow them to leverage their resources to impact more
-  children throughout Los Angeles.
+project_summary: >-
+  Supporting community & school based afterschool and athletic programs through
+  logistics and advisory services that empower them to increase the number of
+  children they serve in Los Angeles
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -81,6 +77,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  SportUp directly impacts kids in Los Angeles County by making the programs
+  that they participate in more sustainable. We work with afterschool,
+  community, and athletic programs to help build capacity and engagement by
+  giving them a tool to collect and interpreting attendance data. We will
+  outreach to local programs and provide them with a platform and advisory
+  services that will allow them to leverage their resources to impact more
+  children throughout Los Angeles.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Suspension and expulsion rates","Truancy rates in elementary and

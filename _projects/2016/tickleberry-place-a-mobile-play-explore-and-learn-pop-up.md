@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7538982455741-team90.png
 project_video: 'https://www.youtube.com/embed/USaJI1-Ab8E?rel=0&amp;showinfo=0'
-project_description: >-
-  Tickleberry Place is committed to teaching children and families about
-  choosing healthy lifestyles through active PLAY, EXPLORATION and LEARNING. We
-  are expanding and improving our mobile pop-up events by making them even more
-  fun, accessible and engaging. Our goal is to host a monthly event that will
-  include hands-on gardening activities, arts and crafts, a unique play
-  apparatus and feature healthy food and drink.
+project_summary: >-
+  Tickleberry Place is a mobile, PLAY, EXPLORE and LEARN pop-up serving South
+  Los Angeles where children can have fun while learning about sustainability,
+  healthy habits and eco-conscious living.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -69,6 +66,13 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Community outreach
+project_description: >-
+  Tickleberry Place is committed to teaching children and families about
+  choosing healthy lifestyles through active PLAY, EXPLORATION and LEARNING. We
+  are expanding and improving our mobile pop-up events by making them even more
+  fun, accessible and engaging. Our goal is to host a monthly event that will
+  include hands-on gardening activities, arts and crafts, a unique play
+  apparatus and feature healthy food and drink.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs"]

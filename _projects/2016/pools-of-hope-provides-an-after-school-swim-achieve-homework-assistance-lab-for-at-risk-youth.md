@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7134629065741-team91.jpg
 project_video: ''
-project_description: >-
-  Recognizing a dearth of after-school services for low-income children in the
-  north Long Beach area, Pools of Hope developed the Swim & Achieve Homework
-  Assistance Lab to provide professional tutoring for children at risk of grade
-  retention and poor academic outcomes. The Swim & Achieve program is two-fold:
-  1) provide hands-on tutoring and homework assistance for up to one hour; and
-  2) provide swim lessons as an incentive and reward for engaging with the
-  tutors each week.
+project_summary: >-
+  Pools of Hope's Swim & Achieve Homework Assistance Lab is an after-school
+  tutoring program that rewards students with swim lessons to promote academic
+  achievement and wellness in a safe environment.
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -68,6 +64,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Recognizing a dearth of after-school services for low-income children in the
+  north Long Beach area, Pools of Hope developed the Swim & Achieve Homework
+  Assistance Lab to provide professional tutoring for children at risk of grade
+  retention and poor academic outcomes. The Swim & Achieve program is two-fold:
+  1) provide hands-on tutoring and homework assistance for up to one hour; and
+  2) provide swim lessons as an incentive and reward for engaging with the
+  tutors each week.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Suspension and expulsion rates","Truancy rates in elementary and

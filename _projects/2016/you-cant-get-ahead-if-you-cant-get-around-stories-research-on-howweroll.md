@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8642914065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/gLaKB_W36pE?rel=0&amp;showinfo=0'
-project_description: >-
-  In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
-  can’t get around. Our transportation system — our roads, sidewalks, buses,
-  trains, bikeways — are complex and more interconnected than people think. We
-  will spark a series of discussions and online videos that decipher our
-  transportation system — from how it’s funded and who makes the decisions to
-  who depends on our buses and trains as their connection lifeline — and what we
-  can do to make it better for all.
+project_summary: >-
+  Access to greater opportunity depends on how you get there. Our team will
+  document and amplify stories of how people get around — and leverage the
+  stories to improve our transportation options.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Investing in Place - lead applicant, Team Friday, USC Program for Regional and
@@ -62,6 +58,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  In Los Angeles, like many major metropolitan areas, you can’t get ahead if you
+  can’t get around. Our transportation system — our roads, sidewalks, buses,
+  trains, bikeways — are complex and more interconnected than people think. We
+  will spark a series of discussions and online videos that decipher our
+  transportation system — from how it’s funded and who makes the decisions to
+  who depends on our buses and trains as their connection lifeline — and what we
+  can do to make it better for all.
 project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Travel time to work","Public transit riders","Transit-accessible

@@ -17,12 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7837391883741-team88.jpg
 project_video: 'https://youtube.com/embed/xSGbvkEdpJE?rel=0&amp;showinfo=0'
-project_description: >-
-  Playascape is dedicated to transforming urban communities into an artistic
-  playground through immersive and interactive art. The art they curate shares a
-  symbiotic relationship with math and science, creatively pushing boundaries
-  and inspiring innovation. Playascape produces cultural experiences that infuse
-  community engagement, technology and media to interact with the whole family.
+project_summary: >-
+  Playascape will transform LA into an artistic playground that cultivates the
+  imagination through public art that creatively pushing boundaries and inspires
+  innovation.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Make Music Los Angeles and Playascape are working together to start up this
@@ -52,6 +50,12 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Playascape is dedicated to transforming urban communities into an artistic
+  playground through immersive and interactive art. The art they curate shares a
+  symbiotic relationship with math and science, creatively pushing boundaries
+  and inspiring innovation. Playascape produces cultural experiences that infuse
+  community engagement, technology and media to interact with the whole family.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and

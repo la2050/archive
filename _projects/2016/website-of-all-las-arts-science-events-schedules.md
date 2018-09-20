@@ -14,13 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7117612655741-team91.png
 project_video: 'https://www.youtube.com/embed/UJ_qFwDLFqQ?rel=0&amp;showinfo=0'
-project_description: >-
-  UEP project seeks to build a website to list arts & science events in LA. It
-  will be all in one spot and united. The site is populated with curated,
-  accessible and affordable choices. We will seek short interviews to the events
-  to humanize and engage all sizes and shapes of humans to attend. UEP wants
-  people to learn how easily, enjoyably and important navigating all levels of
-  art & science can be.
+project_summary: >-
+  A website detailing arts & science events in LA and united together with a
+  focus on accessibility and diverse mixings to inspire and illuminate.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Induction Productions, Imageworks, Chicago, Caltech, Steve Allen Theater,
@@ -58,6 +54,13 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - 'I never say no to support, even ''other'''
+project_description: >-
+  UEP project seeks to build a website to list arts & science events in LA. It
+  will be all in one spot and united. The site is populated with curated,
+  accessible and affordable choices. We will seek short interviews to the events
+  to humanize and engage all sizes and shapes of humans to attend. UEP wants
+  people to learn how easily, enjoyably and important navigating all levels of
+  art & science can be.
 project_impact: >-
   ["Access to open space and park facilities","Attendance at major league
   sporting events","Number (and quality) of informal spaces for play","Number of

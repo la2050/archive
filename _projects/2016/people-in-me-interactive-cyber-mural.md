@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0883163005741-team91.jpg
 project_video: 'https://www.youtube.com/embed/KLFAAlK8ZLI?rel=0&amp;showinfo=0'
-project_description: >-
-  PEOPLE IN ME is a student-created, interactive, cyber-video mural that maps
-  the cultural diversity of community living and/or working in downtown L.A.,
-  representing 180 countries. A team of students working alongside parents,
-  artists and school partners will interview locals about their culture, arts,
-  cuisine, childhood, beliefs and how they arrived here. Students/viewers will
-  put themselves on the map by inputting data about themselves to determine how
-  their family is connected.
+project_summary: >-
+  A student-created interactive, cyber-video mural that maps the cultural
+  diversity of those living/working in downtown L.A., PEOPLE IN ME showcases
+  participants' culture, arts, and beliefs.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   METRO Charter Elementary, A multi-disciplinary design collaborative, CHA:COL,
@@ -69,6 +65,14 @@ project_proposal_help: >-
   ["Money ","Volunteers","Advisors/board
   members","Publicity/awareness","Infrastructure (building/space/vehicles
   etc.)","Technical infrastructure (computers etc.)","Community outreach"]
+project_description: >-
+  PEOPLE IN ME is a student-created, interactive, cyber-video mural that maps
+  the cultural diversity of community living and/or working in downtown L.A.,
+  representing 180 countries. A team of students working alongside parents,
+  artists and school partners will interview locals about their culture, arts,
+  cuisine, childhood, beliefs and how they arrived here. Students/viewers will
+  put themselves on the map by inputting data about themselves to determine how
+  their family is connected.
 project_impact: '["Cultural events","Public/open streets gatherings"]'
 project_proposal_best_place: >-
   PEOPLE IN ME is aligned with METRO's emphasis on providing innovative

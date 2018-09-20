@@ -12,12 +12,7 @@ organization_activity: We rescue unsponsored cats and dogs .
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7781213474741-team90.JPG
 project_video: ''
-project_description: >2-
-   We can judge the heart of a man by his treatment of animals,' - Immanuel Kant.
-  This project is to spay or neuter feral cats, give them needed medical care
-  and then socialize them and find them loving homes or place them in managed
-  colonies. This improves the quality of communities who are overrun with
-  homeless felines and gives the kitties a chance at a healthy life.
+project_summary: No More Suffering for LA's Homeless Kittens
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Signal Hill Pet Hospital, Dr. Ragi Boctor, 3449 E Pacific Coast Hwy, Signal
@@ -43,6 +38,12 @@ project_proposal_help: >-
   ","Publicity/awareness","Infrastructure
   (building/space/vehicles","Education/training ","Technical infrastructure
   (computers","Community outreach ","Network/relationship support"]
+project_description: >2-
+   We can judge the heart of a man by his treatment of animals,' - Immanuel Kant.
+  This project is to spay or neuter feral cats, give them needed medical care
+  and then socialize them and find them loving homes or place them in managed
+  colonies. This improves the quality of communities who are overrun with
+  homeless felines and gives the kitties a chance at a healthy life.
 project_impact: '["Resilient communities"]'
 project_proposal_best_place: >-
   Our communities are overrun with unwanted cats. Thanks to the ASPCA, residents

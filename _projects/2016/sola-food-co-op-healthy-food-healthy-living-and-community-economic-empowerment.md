@@ -16,12 +16,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6550607705741-team91.jpg
 project_video: 'https://www.youtube.com/embed/13VpJDoRnhg?rel=0&amp;showinfo=0'
-project_description: >-
-  By opening a community owned natural foods market,SoLA aims to increase food
-  equity in South LA. We envision our store as a place not only for shopping but
-  for learning about cooking and nutrition, a place for the community to gather,
-  celebrate, share food, fresh juices, and organic coffee. SoLA Food Co-op
-  promotes Healthy Food, Healthy Living, and Economic Empowerment.
+project_summary: To open full service health foods cooperative in South LA
 project_is_collaboration: 'No'
 project_collaborators: We are not collaborating at this time.
 project_areas:
@@ -42,6 +37,12 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers
   - Community outreach
+project_description: >-
+  By opening a community owned natural foods market,SoLA aims to increase food
+  equity in South LA. We envision our store as a place not only for shopping but
+  for learning about cooking and nutrition, a place for the community to gather,
+  celebrate, share food, fresh juices, and organic coffee. SoLA Food Co-op
+  promotes Healthy Food, Healthy Living, and Economic Empowerment.
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Resilient
   communities"]

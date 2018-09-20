@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1371941023741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Wx27G6vdyF4?rel=0&amp;showinfo=0'
-project_description: >-
-  Under the coordination of AIYN, our ten member organizations will provide
-  three 12-week cycles of multi-disciplinary arts in ten youth detention
-  camps/halls and six Juvenile Day Reporting Centers across LA County in order
-  to build youth resiliency, foster wellness and support career pathways to
-  creative economies after release. Funds will leverage the current investment
-  by LA County Probation and Arts Commission, enabling us to cover the full cost
-  of our program.
+project_summary: >-
+  AIYN will provide ongoing multi-disciplinary arts in 16 youth detention sites
+  in order to transform young people, the systems that serve them, and connect
+  them to the creative economy in Los Angeles
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Actors' Gang, Armory Center for the Arts, ArtWorx, Coalition for Engaged
@@ -39,6 +35,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Technical infrastructure (computers etc.)
+project_description: >-
+  Under the coordination of AIYN, our ten member organizations will provide
+  three 12-week cycles of multi-disciplinary arts in ten youth detention
+  camps/halls and six Juvenile Day Reporting Centers across LA County in order
+  to build youth resiliency, foster wellness and support career pathways to
+  creative economies after release. Funds will leverage the current investment
+  by LA County Probation and Arts Commission, enabling us to cover the full cost
+  of our program.
 project_impact: >-
   ["Employment in the creative industries","Jobs per capita","Percentage of
   graduates from local higher education institutions that remain in LA County 5

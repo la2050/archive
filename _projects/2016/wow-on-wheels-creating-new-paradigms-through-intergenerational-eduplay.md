@@ -14,12 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3788557564741-team90.jpg
 project_video: ''
-project_description: >-
-  An educational, nature-based, play-centered pilot project on wheels involving
-  elders, indigenous wisdom and children of various abilities using a curriculum
-  and mentoring model that focuses on youth being able to develop better
-  relationships with themselves and their world and to create a new story for
-  their future.
+project_summary: >-
+  Using an EDUPlay Paradigm to Honor Elders, Ancient Wisdom & Children of
+  Exceptional Abilities through community-wide mobile enrichment programming
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   InspiredParenting.com, Legacy Wisdom School- TCG Consulting, Transformation
@@ -46,6 +43,12 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - Technical infrastructure (computers etc.)
   - Community outreach
+project_description: >-
+  An educational, nature-based, play-centered pilot project on wheels involving
+  elders, indigenous wisdom and children of various abilities using a curriculum
+  and mentoring model that focuses on youth being able to develop better
+  relationships with themselves and their world and to create a new story for
+  their future.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Number

@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1670488055741-team91.png
 project_video: 'https://www.youtube.com/embed/n9iSFsPt5ME?rel=0&amp;showinfo=0'
-project_description: >-
-  Many special learners are underserved in STEM education. Our project reduces
-  barriers to STEM skills for students diagnosed with autism, ADHD and other
-  special needs by offering afterschool and summer STEM camps designed
-  specifically for special learners. The engaging camps extend the reach of
-  STEM3 Academy, the first K-12 school in the nation designed to build STEM
-  competence in children with special needs, and will include programs in cyber
-  security, robotics, coding and computers.
+project_summary: >-
+  Breaking barriers to STEM education and future life options for children
+  diagnosed with autism spectrum disorder, ADHD and other special needs through
+  engaging camps in robotics, coding & computers.
 project_is_collaboration: 'No'
 project_collaborators: >-
   None specifically, although The Help Group comprises a family of nonprofit
@@ -64,6 +60,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Many special learners are underserved in STEM education. Our project reduces
+  barriers to STEM skills for students diagnosed with autism, ADHD and other
+  special needs by offering afterschool and summer STEM camps designed
+  specifically for special learners. The engaging camps extend the reach of
+  STEM3 Academy, the first K-12 school in the nation designed to build STEM
+  competence in children with special needs, and will include programs in cyber
+  security, robotics, coding and computers.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Student education

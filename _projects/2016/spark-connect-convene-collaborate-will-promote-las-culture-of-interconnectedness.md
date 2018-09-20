@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0699377525741-team90.png
 project_video: 'http://bit.ly/2016-KP-CNM-Video?rel=0&amp;showinfo=0'
-project_description: >-
-  Last spring, researchers at UCLA announced that giving in LA is down $1
-  billion a year.  That shocking finding means that annual galas and golf
-  tournaments are great but given the distress across our community, it isn’t
-  enough. So, in the words of frustrated partners, “it’s time to talk.”  SPARK!:
-  CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
-  all sectors across LA to provide peer support and promote new collaborations
-  to solve LA’s biggest problems.
+project_summary: >-
+  The Center for Nonprofit Management will strategically promote opportunities
+  for connectivity, sharing and innovation for social innovators working for
+  positive change across Los Angeles
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -80,6 +76,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Last spring, researchers at UCLA announced that giving in LA is down $1
+  billion a year.  That shocking finding means that annual galas and golf
+  tournaments are great but given the distress across our community, it isn’t
+  enough. So, in the words of frustrated partners, “it’s time to talk.”  SPARK!:
+  CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
+  all sectors across LA to provide peer support and promote new collaborations
+  to solve LA’s biggest problems.
 project_impact: >-
   ["Social & emotional support","Government responsiveness to residents’
   needs","Rates of volunteerism","Total number of local social media friends and

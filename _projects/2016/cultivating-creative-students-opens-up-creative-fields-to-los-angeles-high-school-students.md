@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2749938065741-team91.jpg
 project_video: ''
-project_description: >-
-  Cultivating Creative Students (CCS) broadens access to creative fields by
-  supporting hs students as they prepare for life after high school. While most
-  students have access to some form of college counseling, few high schools are
-  versed in supporting students for creative college programs. CCS will provide
-  rigorous creative college prep resources, including college counseling,
-  portfolio coaching, documentation and more, to students lacking the financial
-  resources for such focussed support.
+project_summary: >-
+  Cultivating Creative Students provides creative college prep support — 
+  college counseling and portfolio coaching — to high school students lacking
+  financial resources.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Prep for Art - College Coaching for creative students, based in Los Angeles.
@@ -58,6 +54,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Cultivating Creative Students (CCS) broadens access to creative fields by
+  supporting hs students as they prepare for life after high school. While most
+  students have access to some form of college counseling, few high schools are
+  versed in supporting students for creative college programs. CCS will provide
+  rigorous creative college prep resources, including college counseling,
+  portfolio coaching, documentation and more, to students lacking the financial
+  resources for such focussed support.
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline"]

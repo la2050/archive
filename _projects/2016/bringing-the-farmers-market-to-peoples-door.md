@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6286523854741-team91.png
 project_video: ''
-project_description: >-
-  We are bringing the Farmer's Market to people's doors, by creating a platform
-  where local farmers and artisans can sell and deliver the things they make. We
-  then deliver these products to people's door, so that people anywhere in Los
-  Angeles have a way to be connected to local producers and have a way to find,
-  support and receive their craft products.
+project_summary: >-
+  A farmer's market app, where anybody in LA can open up their own craft shop
+  and sell anything they make (foods, crafts, clothes, art); and we deliver it
+  to your door all in one order.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Farmers and Artisans from Los Angeles. The app is a marketplace where any
@@ -51,6 +49,12 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
+project_description: >-
+  We are bringing the Farmer's Market to people's doors, by creating a platform
+  where local farmers and artisans can sell and deliver the things they make. We
+  then deliver these products to people's door, so that people anywhere in Los
+  Angeles have a way to be connected to local producers and have a way to find,
+  support and receive their craft products.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Gini coefficient","Jobs per capita","Measures of cultural and

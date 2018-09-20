@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0439357476741-team91.png
 project_video: ''
-project_description: >-
-  coParenter Project targets nearly 3M separated, divorced and never-married
-  Angelino parents, empowering them to save money, stay out of court and make
-  better decisions for their children. The initiative offers high-quality
-  education, personalized coaching and access to a state-of-the-art coParenting
-  management and mediation platform. #coParenterProject, a moderated twitter
-  initiative, helps kids exposed to parents’ separation find answers, get help
-  and build community.
+project_summary: >-
+  coParenter provides education, resources & tools to help over 150k separated &
+  divorced parents in LA disrupt the onset of ACEs (Adverse Childhood
+  Experiences) and make better decisions for their kids
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -56,6 +52,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  coParenter Project targets nearly 3M separated, divorced and never-married
+  Angelino parents, empowering them to save money, stay out of court and make
+  better decisions for their children. The initiative offers high-quality
+  education, personalized coaching and access to a state-of-the-art coParenting
+  management and mediation platform. #coParenterProject, a moderated twitter
+  initiative, helps kids exposed to parents’ separation find answers, get help
+  and build community.
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences"]

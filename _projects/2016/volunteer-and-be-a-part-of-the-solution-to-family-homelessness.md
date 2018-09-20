@@ -14,12 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7555177065741-team91.png
 project_video: 'https://www.youtube.com/embed/zp24MctE2Xo?rel=0&amp;showinfo=0'
-project_description: >-
-  Imagine LA has built an innovative Family Empowerment and Mentorship model
-  that helps families exit homelessness and thrive. Our model creates a safe
-  place to connect, engage, and empower people from different ethnic, cultural
-  and socioeconomic backgrounds. In order to expand and work with 100 families
-  in 2017, we need volunteers.
+project_summary: >-
+  Imagine LA recruits and trains volunteers across LA County to mentor formerly
+  homeless families to break their cycle of poverty and to ultimately thrive.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -39,6 +36,12 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Imagine LA has built an innovative Family Empowerment and Mentorship model
+  that helps families exit homelessness and thrive. Our model creates a safe
+  place to connect, engage, and empower people from different ethnic, cultural
+  and socioeconomic backgrounds. In order to expand and work with 100 families
+  in 2017, we need volunteers.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Transit-accessible
   housing and employment (the share of housing units and percentage of jobs that

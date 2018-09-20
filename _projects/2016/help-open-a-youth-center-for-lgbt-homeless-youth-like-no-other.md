@@ -15,14 +15,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4001387745741-team91.jpg
 project_video: 'https://www.youtube.com/embed/xrBYk1R2gXQ?rel=0&amp;showinfo=0'
-project_description: >-
-  To open a unique Youth Center for LGBT Homeless & at-risk youth (ages 14-24)
-  that offers fun, educational, and resourceful activities on a regular basis.
-  At our signature dances, youth attendees would get an opportunity to escape
-  their day-to-day challenges while at the same time gaining access to services
-  available to them locally via our community partners & agencies (i.e.
-  transitional living, GED programs, emotional support, & other social
-  services).
+project_summary: '#LGBTHomelessYouth Need A Safe Place To Be Empowered In!'
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -69,6 +62,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  To open a unique Youth Center for LGBT Homeless & at-risk youth (ages 14-24)
+  that offers fun, educational, and resourceful activities on a regular basis.
+  At our signature dances, youth attendees would get an opportunity to escape
+  their day-to-day challenges while at the same time gaining access to services
+  available to them locally via our community partners & agencies (i.e.
+  transitional living, GED programs, emotional support, & other social
+  services).
 project_impact: >-
   ["Social & emotional support","Cultural events","Government responsiveness to
   residents’ needs","Participation in neighborhood councils","Rates of

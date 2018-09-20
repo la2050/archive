@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8267604165741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wq7xVbwiQMA?rel=0&amp;showinfo=0'
-project_description: >-
-  Our innovative, age-appropriate, and culturally competent sexuality and health
-  education programs educate and empower youth, families, and communities
-  throughout Los Angeles to make healthy choices. As the largest community
-  provider of classroom-based sex education and reproductive health services in
-  Los Angeles, our programs forge the critical link between underserved
-  populations and our health centers, increasing awareness of the need for
-  medical care and knowledge of how to access services.
+project_summary: >-
+  PPLA’s community-based sex education programs empower youth, women, and men
+  across Los Angeles to make informed choices about their bodies, their
+  relationships, their health, and their futures.
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -51,6 +47,14 @@ project_proposal_help:
   - 'Money '
   - Volunteers
   - Publicity/awareness
+project_description: >-
+  Our innovative, age-appropriate, and culturally competent sexuality and health
+  education programs educate and empower youth, families, and communities
+  throughout Los Angeles to make healthy choices. As the largest community
+  provider of classroom-based sex education and reproductive health services in
+  Los Angeles, our programs forge the critical link between underserved
+  populations and our health centers, increasing awareness of the need for
+  medical care and knowledge of how to access services.
 project_impact: >-
   ["Healthcare access","Resilient communities","Residents receiving coordinated
   healthcare services","Prevalence of adverse childhood experiences"]

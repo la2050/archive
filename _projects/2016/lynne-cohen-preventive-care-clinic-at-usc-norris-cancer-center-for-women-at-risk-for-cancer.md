@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5148126005741-team91.png
 project_video: 'https://player.vimeo.com/video/123870044?rel=0&amp;showinfo=0'
-project_description: >-
-  This clinic provides an in-depth consultation to examine personal and family
-  medical history. Our team collaborates to develop an individual risk
-  assessment, educate each individual about their risks, and determine the best
-  early detection and risk-reduction strategies. Women at high risk for ovarian
-  and breast cancer have access to the following: screening services including
-  mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
-  consultation with a genetic counselor.
+project_summary: >-
+  The Lynne Cohen Foundation serves women facing increased risk for ovarian and
+  breast cancers. Our education programs and comprehensive clinics arm women and
+  their families to take action and survive
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -51,6 +47,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Publicity/awareness
+project_description: >-
+  This clinic provides an in-depth consultation to examine personal and family
+  medical history. Our team collaborates to develop an individual risk
+  assessment, educate each individual about their risks, and determine the best
+  early detection and risk-reduction strategies. Women at high risk for ovarian
+  and breast cancer have access to the following: screening services including
+  mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
+  consultation with a genetic counselor.
 project_impact: '["Healthcare access"]'
 project_proposal_best_place: >-
   Established in 1998 by Lynne Cohen’s three daughters, the Lynne Cohen

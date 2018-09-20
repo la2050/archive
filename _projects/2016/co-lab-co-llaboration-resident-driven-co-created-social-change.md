@@ -15,16 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5174397094741-team88.jpg
 project_video: 'https://www.youtube.com/embed/VqJoQqVJkWg?rel=0&amp;showinfo=0'
-project_description: >-
-  Co/Lab is an innovative response to the prevalence of top-down,
-  institutionally-led social service programs. 
-
-  As the first initiative of its kind in LA County, & perhaps the country,
-  Co/Lab is designed to put power back into the hands of residents. By
-  leveraging SBCC’s capacity to mobilize Relationship-Based Organizing
-  strategies, Co/Lab will empower residents to work alongside institutions to
-  create & implement a county-wide projects mirroring the success of SBCC’s CFSK
-  & iHeart Models.
+project_summary: >-
+  Co/Lab will empower 10,000 Angelenos to co-create social impact innovations
+  that improve civic engagement & social connection; putting the power of social
+  change back into the hands of residents.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -83,6 +77,16 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Co/Lab is an innovative response to the prevalence of top-down,
+  institutionally-led social service programs. 
+
+  As the first initiative of its kind in LA County, & perhaps the country,
+  Co/Lab is designed to put power back into the hands of residents. By
+  leveraging SBCC’s capacity to mobilize Relationship-Based Organizing
+  strategies, Co/Lab will empower residents to work alongside institutions to
+  create & implement a county-wide projects mirroring the success of SBCC’s CFSK
+  & iHeart Models.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Participation in

@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9500569955741-team90.jpg
 project_video: 'https://www.youtube.com/embed/WA8wmi8t3ik?rel=0&amp;showinfo=0'
-project_description: >-
-  Big Citizen HUB will increase impact, adding 66 Big Citizens to our middle
-  school, high school, and college-aged cohorts. In total 236 youth people will
-  come together to learn about the diversity of each other, the city, and it’s
-  issues. Through partnerships with over 50 local nonprofits, we’ll give Big
-  Citizens the skills and place to develop and lead service projects, allowing
-  them to see that they can have a positive impact on the community, setting the
-  stage for future action.
+project_summary: >-
+  Big Citizen HUB will connect 236 diverse young people, ages 11-26, from all
+  across Los Angeles for 22 Saturdays to learn about our communities and address
+  local issues through service.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -79,6 +75,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - School/recruitment and CBO partners
+project_description: >-
+  Big Citizen HUB will increase impact, adding 66 Big Citizens to our middle
+  school, high school, and college-aged cohorts. In total 236 youth people will
+  come together to learn about the diversity of each other, the city, and it’s
+  issues. Through partnerships with over 50 local nonprofits, we’ll give Big
+  Citizens the skills and place to develop and lead service projects, allowing
+  them to see that they can have a positive impact on the community, setting the
+  stage for future action.
 project_impact: >-
   ["Social & emotional support","Public transit riders","Rates of
   volunteerism","Residential segregation","Total number of local social media

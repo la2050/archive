@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5493116165741-team88.jpg
 project_video: ''
-project_description: >-
-  Core Innovate, Inc. will collaborate with Century Academy to develop and pilot
-  citizen journalism curriculum that will result in middle school students
-  producing a podcast about the work of LA2050 grantees. Students will research
-  the issues that LA2050 grantees are addressing and will write about them using
-  Mozi, Core Innovate’s writing software. Students will strengthen their
-  communication skills as they research and produce podcast episodes that will
-  tell the story of LA’s agents of change.
+project_summary: >-
+  Middle school students from Inglewood’s Century Academy for Excellence will
+  discover LA’s homegrown heroes by researching local issues LA2050 grantees are
+  addressing and producing a podcast.
 project_is_collaboration: 'Yes'
 project_collaborators: Century Academy for Excellence
 project_areas:
@@ -72,6 +68,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Core Innovate, Inc. will collaborate with Century Academy to develop and pilot
+  citizen journalism curriculum that will result in middle school students
+  producing a podcast about the work of LA2050 grantees. Students will research
+  the issues that LA2050 grantees are addressing and will write about them using
+  Mozi, Core Innovate’s writing software. Students will strengthen their
+  communication skills as they research and produce podcast episodes that will
+  tell the story of LA’s agents of change.
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Suspension and expulsion
   rates","Truancy rates in elementary and middle schools","Youth unemployment

@@ -15,12 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6783094165741-team89.jpg
 project_video: 'https://www.youtube.com/embed/ZqcKcMqk1lM?rel=0&amp;showinfo=0'
-project_description: >-
-  Our goal is to phase out fossil fuels and support an equitable transition to
-  100 percent clean energy in Los Angeles. Our vision for 100 percent clean
-  energy is premised on three pillars of quality of life now and in the future:
-  healthy and safe air, equitable economic growth, and resilient communities
-  safe from the worst potential damages wrought by climate change.
+project_summary: >-
+  We’re fighting for an equitable transition to 100 percent clean energy across
+  Los Angeles and all of California!
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -59,6 +56,12 @@ project_proposal_help:
   - Technical infrastructure (computers
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Our goal is to phase out fossil fuels and support an equitable transition to
+  100 percent clean energy in Los Angeles. Our vision for 100 percent clean
+  energy is premised on three pillars of quality of life now and in the future:
+  healthy and safe air, equitable economic growth, and resilient communities
+  safe from the worst potential damages wrought by climate change.
 project_impact: '["Exposure to air toxins","Self-sufficiency","Resilient communities"]'
 project_proposal_best_place: >-
   Los Angeles is a leader in fighting climate change. From hotter heat waves and

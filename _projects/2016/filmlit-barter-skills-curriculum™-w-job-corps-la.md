@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9861487393741-team89.jpg
 project_video: ''
-project_description: >-
-  Job Corps Los Angeles located in the heart of downtown has agreed to
-  collaborate by yielding their pupils and facilities to host the expansion of
-  the Filmlit Barter Skills Curriculum™. Our organization proposes to utilize
-  the grant to guide the pupils of Job Corps LA through a 36-week course,
-  training in the bartering of developed production skills to collaborate on
-  filmlit projects. Pupils will own stock in the projects they bring forth to
-  fruition.
+project_summary: >-
+  Job Corps LA will host FilmLit™ in facilitating the Barter Skills Curriculum,
+  a program producing marketable, commercial filmlits from the professional
+  efforts of the student body participants.
 project_is_collaboration: 'Yes'
 project_collaborators: FilmLit™ and Job Corps Los Angeles are collaborating.
 project_areas:
@@ -40,6 +36,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Job Corps Los Angeles located in the heart of downtown has agreed to
+  collaborate by yielding their pupils and facilities to host the expansion of
+  the Filmlit Barter Skills Curriculum™. Our organization proposes to utilize
+  the grant to guide the pupils of Job Corps LA through a 36-week course,
+  training in the bartering of developed production skills to collaborate on
+  filmlit projects. Pupils will own stock in the projects they bring forth to
+  fruition.
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Youth unemployment and
   underemployment"]

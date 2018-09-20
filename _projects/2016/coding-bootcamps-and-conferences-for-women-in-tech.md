@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6190449915741-team91.png
 project_video: 'https://www.youtube.com/embed/BZXFTqAIG8U?rel=0&amp;showinfo=0'
-project_description: >-
-  GIT aims to eradicate gender disparities in STEM (science, technology,
-  engineering, mathematics) fields by educating, preparing and empowering women
-  to pursue technology careers and persevere within technology fields. We
-  achieve this through the creation of proprietary, innovative programming and
-  strategic global partnerships. We provide mentorship and boot camp programs as
-  well as the Catalyst Conference, an annual conference for women in tech.
+project_summary: >-
+  Girls in Tech (GIT) is a global non-profit focused on the engagement,
+  education and empowerment of girls and women who are passionate about
+  technology by providing innovative programs and partnerships
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   For Girls in Tech to achieve its objectivesensure that more women get access
@@ -65,6 +62,13 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  GIT aims to eradicate gender disparities in STEM (science, technology,
+  engineering, mathematics) fields by educating, preparing and empowering women
+  to pursue technology careers and persevere within technology fields. We
+  achieve this through the creation of proprietary, innovative programming and
+  strategic global partnerships. We provide mentorship and boot camp programs as
+  well as the Catalyst Conference, an annual conference for women in tech.
 project_impact: >-
   ["Jobs per capita","Measures of cultural and global economic influence (“soft
   power”)","Minority- and women-owned firms","High growth startups"]

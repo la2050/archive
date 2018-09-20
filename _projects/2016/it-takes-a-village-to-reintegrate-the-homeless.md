@@ -12,11 +12,9 @@ organization_activity: General contractors for exterior property improvements
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9660024355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/XCrtiYQynKQ?rel=0&amp;showinfo=0'
-project_description: >-
-  We are proposing to deliver a combination of prototypes, research results and/
-  or outreach to other non-profit organizations in order to lay the foundations
-  of Synergy Village:  a self-sustainable community where we help the homeless
-  get reintegrated back into society as productive citizens of Los Angeles.
+project_summary: >-
+  Synergy Village: A self-sustainable community where we help the homeless get
+  reintegrated back into society as productive citizens of Los Angeles
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -39,6 +37,11 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  We are proposing to deliver a combination of prototypes, research results and/
+  or outreach to other non-profit organizations in order to lay the foundations
+  of Synergy Village:  a self-sustainable community where we help the homeless
+  get reintegrated back into society as productive citizens of Los Angeles.
 project_impact: >-
   ["Housing affordability","Self-sufficiency","Resilient
   communities","Prevalence of adverse childhood

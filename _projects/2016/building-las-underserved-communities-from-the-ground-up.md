@@ -15,19 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1939548316741-team90.jpg
 project_video: 'https://www.youtube.com/embed/1iM7NOuaQGg?rel=0&amp;showinfo=0'
-project_description: >-
-  Community Healing Gardens (CHG) is building an urban farm called the “Watts
-  Healing Garden” on a one-acre piece of land at Edwin Markham Middle School in
-  Watts - Also known as the “food desert” of Los Angeles.
-
-
-  In collaboration with Markham Middle School, CHG is embarking on a three-year
-  project to create a sustainable, working farm that provides healthy food,
-  jobs, and an eductional safe place to promote mental, physical, and human and
-  planetary healing.
-
-
-  All things grow with LOVE.
+project_summary: >-
+  Community Healing Gardens is creating a sustainable, urban school garden in
+  Watts that grows healthy food, clean water, jobs, connection, community & love
 project_is_collaboration: 'Yes'
 project_collaborators: Edwin Markham Middle School
 project_areas:
@@ -61,6 +51,19 @@ project_proposal_help:
   - Technical infrastructure (computers
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Community Healing Gardens (CHG) is building an urban farm called the “Watts
+  Healing Garden” on a one-acre piece of land at Edwin Markham Middle School in
+  Watts - Also known as the “food desert” of Los Angeles.
+
+
+  In collaboration with Markham Middle School, CHG is embarking on a three-year
+  project to create a sustainable, working farm that provides healthy food,
+  jobs, and an eductional safe place to promote mental, physical, and human and
+  planetary healing.
+
+
+  All things grow with LOVE.
 project_impact: >-
   ["Access to healthy food","Exposure to air toxins","Healthcare
   access","Self-sufficiency","Obesity","Local water","Resilient

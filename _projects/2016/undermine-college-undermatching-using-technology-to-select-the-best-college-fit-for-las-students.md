@@ -16,13 +16,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8915786065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/bBIXPsWICAQ?rel=0&amp;showinfo=0'
-project_description: >-
-  Too many low-income students “undermatch” when they apply for college, a
-  situation where well-qualified students apply to less competitive or cheaper
-  schools. They wind up at a community college, for example, when they could
-  have gone to UCLA. YPI’s College Choice Tool technology matches students to
-  the best schools based on their GPA, SAT/ACT scores and interests, resulting
-  in higher college enrollment and completion rates, while reducing student loan
+project_summary: >-
+  YPI’s College Choice Tool helps students find “best fit” schools for
+  academics, cost, and preference, helping them earn a college degree with less
   debt.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
@@ -72,6 +68,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Too many low-income students “undermatch” when they apply for college, a
+  situation where well-qualified students apply to less competitive or cheaper
+  schools. They wind up at a community college, for example, when they could
+  have gone to UCLA. YPI’s College Choice Tool technology matches students to
+  the best schools based on their GPA, SAT/ACT scores and interests, resulting
+  in higher college enrollment and completion rates, while reducing student loan
+  debt.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline"]

@@ -14,14 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1698840075741-team91.PNG
 project_video: 'https://www.youtube.com/embed/FGTFKKha0-Q?rel=0&amp;showinfo=0'
-project_description: >-
-  #CodingisCool will be expanding to host workshops at actual tech companies in
-  and around West Los Angeles-what lately has become known as 'Silicone Beach.'
-  We'll be hosting coding and programming workshops with actual programmers
-  employed at places such as TrueCar and other huge tech workplaces. The
-  students we serve will be able to tour the space, learn about jobs available
-  to them in the future, and understand how exciting and accessible a job in
-  computer programming can truly be for them!
+project_summary: Help Us Create the Future Tech Leaders of LA!
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   TrueCar, Inc. Pending conformation with: Yahoo, Google, Snapchat, Activation,
@@ -51,6 +44,14 @@ project_proposal_help:
   - Volunteers
   - Infrastructure (building/space/vehicles etc.)
   - Technical infrastructure (computers etc.)
+project_description: >-
+  #CodingisCool will be expanding to host workshops at actual tech companies in
+  and around West Los Angeles-what lately has become known as 'Silicone Beach.'
+  We'll be hosting coding and programming workshops with actual programmers
+  employed at places such as TrueCar and other huge tech workplaces. The
+  students we serve will be able to tour the space, learn about jobs available
+  to them in the future, and understand how exciting and accessible a job in
+  computer programming can truly be for them!
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Suspension and expulsion rates","Truancy

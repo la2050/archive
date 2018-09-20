@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6377992175741-team91.jpg
 project_video: 'https://www.youtube.com/embed/yYikBEjX8p0?rel=0&amp;showinfo=0'
-project_description: >-
-  The Talk Project is an exciting, brand-new peer-to-peer sexual assault
-  awareness program by and for high school students. In The Talk Project, teams
-  of teen Peer Educators visit LA high schools to lead a workshop on sexual
-  violence, speaking out against harmful behavior, engaging in healthy and
-  consensual relationships, making informed decisions about seeking legal
-  justice if necessary, and creating cultural change.
+project_summary: >-
+  NCJW|LA's The Talk Project is a peer-to-peer sexual violence awareness program
+  for and by high school students. Teams of trained Peer Educators lead
+  interactive workshops to create cultural change.
 project_is_collaboration: 'No'
 project_collaborators: ''
 project_areas:
@@ -45,6 +42,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The Talk Project is an exciting, brand-new peer-to-peer sexual assault
+  awareness program by and for high school students. In The Talk Project, teams
+  of teen Peer Educators visit LA high schools to lead a workshop on sexual
+  violence, speaking out against harmful behavior, engaging in healthy and
+  consensual relationships, making informed decisions about seeking legal
+  justice if necessary, and creating cultural change.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Students’ perceived sense of safety at and on the way to school"]

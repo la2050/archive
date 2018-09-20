@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9859494345741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Jbhwq5zWzA4?rel=0&amp;showinfo=0'
-project_description: >-
-  Tapping above-mentioned agencies like the BID, CD14, LAPD & LAFD, ABC, LADBS,
-  & more, we’ll map out the permitting process for creators. Via live workshops
-  & online resources, we will connect arts event producers with city agents, we
-  eventually craft an online system connecting owners of vacant or inhabited
-  buildings to artists that can create vibrant events in underutilized spaces
-  and neighborhoods. This will result in more art establishments and jobs per
-  capita, each of them collaborative.
+project_summary: >-
+  Our project will join creators with building owners, government agencies, and
+  various advisors to take big ideas and push them through the legal and
+  infrastructure challenges that restrict creativity.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Formally, Space in the Raw, , Semi-formally, the Department of Cultural
@@ -64,6 +60,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Community outreach
+project_description: >-
+  Tapping above-mentioned agencies like the BID, CD14, LAPD & LAFD, ABC, LADBS,
+  & more, we’ll map out the permitting process for creators. Via live workshops
+  & online resources, we will connect arts event producers with city agents, we
+  eventually craft an online system connecting owners of vacant or inhabited
+  buildings to artists that can create vibrant events in underutilized spaces
+  and neighborhoods. This will result in more art establishments and jobs per
+  capita, each of them collaborative.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Jobs per capita"]

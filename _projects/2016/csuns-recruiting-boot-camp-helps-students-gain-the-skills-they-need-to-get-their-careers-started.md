@@ -17,18 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7272231265741-team91.jpg
 project_video: ''
-project_description: >-
-  CSUN’s Accounting Career Center offers advisement/coaching, resume writing,
-  interviewing, job search training, and job and internship placement help. 
-
-
-  Our annual two-day Recruiting Boot Camp is held each summer for accounting
-  juniors/seniors. Industry professionals offer classes on interviewing,
-  business ethics, proper working attire, networking and more.
-
-
-  This grant will allow CSUN to include more students, add a one-day spring
-  program and extend orientation to CSUN freshmen and sophomores.
+project_summary: >-
+  California State University,Northridge wants to offer accounting students from
+  underserved communities the job skills they need to launch their careers.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -49,6 +40,18 @@ project_proposal_help:
   - 'Money '
   - 'Staff '
   - Technical infrastructure (computers etc.)
+project_description: >-
+  CSUN’s Accounting Career Center offers advisement/coaching, resume writing,
+  interviewing, job search training, and job and internship placement help. 
+
+
+  Our annual two-day Recruiting Boot Camp is held each summer for accounting
+  juniors/seniors. Industry professionals offer classes on interviewing,
+  business ethics, proper working attire, networking and more.
+
+
+  This grant will allow CSUN to include more students, add a one-day spring
+  program and extend orientation to CSUN freshmen and sophomores.
 project_impact: '["Youth unemployment and underemployment"]'
 project_proposal_best_place: >-
   CSUN’s business education extends throughout the San Fernando Valley and well

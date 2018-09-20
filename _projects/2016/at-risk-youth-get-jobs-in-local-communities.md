@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729983255741-team91.jpg
 project_video: 'https://www.youtube.com/embed/-6vW85daIkY?rel=0&amp;showinfo=0'
-project_description: >-
-  We are going into our second year of training at risk youth in high school how
-  to create a resume, interview, job skills and job success. We patner with
-  Wissip, Work is Success and local businesses to get paid internships which
-  Ihave A Dream Foundation-Los Angeles pays for during the summer for 10 weeks.
-  Our robust team has already worked with theses students since 3rd grade to
-  raise not only them, but their communities out of poverty. We have helped 7000
-  students and their families for 35 years
+project_summary: >-
+  To end intergenerational poverty, we train our high schools students how to
+  secure a job abd how to be successful in that job. We partner with businesses
+  and we pay for the students an internshipship
 project_is_collaboration: 'Yes'
 project_collaborators: 'Wissip, Algebra genius'
 project_areas:
@@ -50,6 +46,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  We are going into our second year of training at risk youth in high school how
+  to create a resume, interview, job skills and job success. We patner with
+  Wissip, Work is Success and local businesses to get paid internships which
+  Ihave A Dream Foundation-Los Angeles pays for during the summer for 10 weeks.
+  Our robust team has already worked with theses students since 3rd grade to
+  raise not only them, but their communities out of poverty. We have helped 7000
+  students and their families for 35 years
 project_impact: >-
   ["College completion","College matriculation rates","Proficiency in English
   and Language Arts and Math","Early education","Student education

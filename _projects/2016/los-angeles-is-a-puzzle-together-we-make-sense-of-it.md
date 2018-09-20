@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4340166065741-team90.jpg
 project_video: ''
-project_description: >-
-  LASA proposes to expand its learning activities by investing in greater
-  cohesion amongst our students, easing transportation concerns, and creating
-  and sustaining our community of alumni to create change in LA. LASA plans to
-  create a comprehensive database of current students and alumni to capture
-  feedback after each session as well as feedback from alumni who can articulate
-  how LASA changed their career or study trajectories.
+project_summary: >-
+  LASA empowers a diverse group of LA's youth to not only understand the
+  complexities of civic infrastructure, but be the problem-solvers and
+  visionaries of our city’s immediate and far-flung future.
 project_is_collaboration: 'Yes'
 project_collaborators: USC; Huntington Library; LAPL
 project_areas:
@@ -59,6 +56,13 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  LASA proposes to expand its learning activities by investing in greater
+  cohesion amongst our students, easing transportation concerns, and creating
+  and sustaining our community of alumni to create change in LA. LASA plans to
+  create a comprehensive database of current students and alumni to capture
+  feedback after each session as well as feedback from alumni who can articulate
+  how LASA changed their career or study trajectories.
 project_impact: '["College matriculation rates","District-wide graduation rates"]'
 project_proposal_best_place: >-
   Designed as a supplement to the regular school year, LASA will make greater

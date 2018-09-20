@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6644400825741-team90.jpg
 project_video: 'https://www.youtube.com/embed/bmuk6k_61Tc?rel=0&amp;showinfo=0'
-project_description: >-
-  The Trust for Public Land’s Green Alleys Initiative creates new community
-  green space by transforming polluted alleys in Los Angeles into a network of
-  pedestrian-friendly green alleys featuring innovative stormwater best
-  management practices. Empowering local residents to participate in the
-  transformation of their community by leading community organizing,
-  landscaping, and beautification efforts is a key piece of the Green Alleys
-  Initiative.
+project_summary: >-
+  The Green Alleys Initiative transforms polluted alleys into vibrant green
+  space while capturing stormwater to recharge local aquifers and create a more
+  sustainable water supply for Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: None
 project_areas:
@@ -61,6 +57,14 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  The Trust for Public Land’s Green Alleys Initiative creates new community
+  green space by transforming polluted alleys in Los Angeles into a network of
+  pedestrian-friendly green alleys featuring innovative stormwater best
+  management practices. Empowering local residents to participate in the
+  transformation of their community by leading community organizing,
+  landscaping, and beautification efforts is a key piece of the Green Alleys
+  Initiative.
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Obesity","Local
   water","Resilient communities","Tree canopy cover","Walk/bike/transit score"]

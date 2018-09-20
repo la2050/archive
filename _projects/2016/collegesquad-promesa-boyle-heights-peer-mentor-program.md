@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5158070785741-team91.jpg
 project_video: ''
-project_description: >-
-  To increase college access among Boyle Heights youth, we will create a peer
-  mentoring program, in which local college students would mentor college bound,
-  but first generation high students at two key schools, Felicitas and Gonzalo
-  Mendez High School and Roosevelt High School, giving them support as they
-  prepare to apply to college.  In turn, those high school mentors, will mentor
-  at risk middle school students at risk of not graduating, to increase their
-  motivation towards school.
+project_summary: >-
+  We will create a peer mentorship program aimed at increasing college access in
+  Boyle Heights, where college students mentor high school students, who in turn
+  mentor middle school students.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Mendez High School, Roosevelt High School, Hollenbeck Middle School'
 project_areas:
@@ -58,6 +54,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  To increase college access among Boyle Heights youth, we will create a peer
+  mentoring program, in which local college students would mentor college bound,
+  but first generation high students at two key schools, Felicitas and Gonzalo
+  Mendez High School and Roosevelt High School, giving them support as they
+  prepare to apply to college.  In turn, those high school mentors, will mentor
+  at risk middle school students at risk of not graduating, to increase their
+  motivation towards school.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]

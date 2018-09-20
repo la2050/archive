@@ -19,13 +19,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4597804105741-team91.jpg
 project_video: ''
-project_description: >-
-  STEM Center for Innovation and Excellence (SCIE) is a program that engages
-  at-risk high school students in science, technology, engineering and
-  mathematics (STEM) by having them create apps and technology based products
-  that improve their community and/or create entrepreneurial opportunities.
-  Students work in teams to create prototypes of apps and products in a local
-  maker space/starter garage setting at their school.
+project_summary: >-
+  SCIE engages at-risk high school students in science, technology, engineering
+  & mathematics (STEM) by having them create apps & techie products that improve
+  their community & create entrepreneurship.
 project_is_collaboration: 'Yes'
 project_collaborators: Living Advantage
 project_areas:
@@ -94,6 +91,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Education/training '
   - Community outreach
+project_description: >-
+  STEM Center for Innovation and Excellence (SCIE) is a program that engages
+  at-risk high school students in science, technology, engineering and
+  mathematics (STEM) by having them create apps and technology based products
+  that improve their community and/or create entrepreneurial opportunities.
+  Students work in teams to create prototypes of apps and products in a local
+  maker space/starter garage setting at their school.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Youth
   unemployment and underemployment"]

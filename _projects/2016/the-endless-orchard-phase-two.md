@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0700914165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/KA9t95cpVZs?rel=0&amp;showinfo=0'
-project_description: >-
-  The Endless Orchard project collaborates with the citizens of Los Angeles
-  planting fruit trees on the margins of public and private space, in front of
-  homes and businesses and spaces like parkways, bike paths and alleys. Tree
-  tags placed at each fruit tree identify it as part of a network of sharing.
-  Anyone can collaborate with the project by planting, mapping, sharing, and
-  navigating the fruit trees via the free online website and app.
+project_summary: >-
+  The Endless Orchard is a real living fruit orchard planted by the public, for
+  the public, that transforms our neighborhoods  into edible gardens.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Code Rodeo, Creative Capital, and Los Angeles State Historic Park'
 project_areas:
@@ -59,6 +55,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Endless Orchard project collaborates with the citizens of Los Angeles
+  planting fruit trees on the margins of public and private space, in front of
+  homes and businesses and spaces like parkways, bike paths and alleys. Tree
+  tags placed at each fruit tree identify it as part of a network of sharing.
+  Anyone can collaborate with the project by planting, mapping, sharing, and
+  navigating the fruit trees via the free online website and app.
 project_impact: >-
   ["Access to healthy food","Exposure to air
   toxins","Self-sufficiency","Obesity","Resilient communities","Tree canopy

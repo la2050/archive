@@ -14,13 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1639271165741-team90.JPG
 project_video: ''
-project_description: >-
-  The Zone will bring dating prevention education to young people in Los Angeles
-  in casual spaces, removing obstacles to real talk about the factors that
-  restrict healthy relationships.  The Zone will bring together various parts of
-  specific neighborhoods: young people, caring adults, retail community members,
-  community volunteers to ignite connectivity, inspire action and community
-  pride for healthy relationships and healthy spaces for all.
+project_summary: >-
+  Snack runs and social spaces meet technology hubs of information and resources
+  for RealTalk about youth relationships
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -68,6 +64,13 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Zone will bring dating prevention education to young people in Los Angeles
+  in casual spaces, removing obstacles to real talk about the factors that
+  restrict healthy relationships.  The Zone will bring together various parts of
+  specific neighborhoods: young people, caring adults, retail community members,
+  community volunteers to ignite connectivity, inspire action and community
+  pride for healthy relationships and healthy spaces for all.
 project_impact: >-
   ["Access to free wifi","Social & emotional support","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media

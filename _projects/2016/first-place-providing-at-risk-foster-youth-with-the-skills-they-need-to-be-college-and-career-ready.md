@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3278819955741-team89.jpg
 project_video: ''
-project_description: >-
-  First Place provides at-risk foster youth, ages 18 to 24, with intensive
-  education and employment support so that they can become self-sufficient.
-  First Place will expand our program operations, currently located in
-  Koreatown, and launch a new satellite office within the A+P Campus. By
-  providing outcomes-driven services to more youth in need, First Place can push
-  for higher standards through our leadership in the field and change the way
-  that youth are treated within the foster care system.
+project_summary: >-
+  First Place for Youth provides at-risk foster youth, ages 18 to 24, with
+  intensive education and employment support so that they can improve their
+  lives and become self-sufficient.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Art + Practice Foundation (A+P) is an arts and education private operating
@@ -67,6 +63,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  First Place provides at-risk foster youth, ages 18 to 24, with intensive
+  education and employment support so that they can become self-sufficient.
+  First Place will expand our program operations, currently located in
+  Koreatown, and launch a new satellite office within the A+P Campus. By
+  providing outcomes-driven services to more youth in need, First Place can push
+  for higher standards through our leadership in the field and change the way
+  that youth are treated within the foster care system.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]

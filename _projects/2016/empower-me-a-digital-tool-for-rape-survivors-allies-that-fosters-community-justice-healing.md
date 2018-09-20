@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6138888165741-team90.png
 project_video: 'https://www.youtube.com/embed/17VrzStmqAs?rel=0&amp;showinfo=0'
-project_description: >-
-  Light Sprout will develop “Empower Me”, a digital tool that provides
-  important, immediate and ongoing resources to equip sexual assault victims and
-  their allies from the moment it occurs, through the process of seeking justice
-  and healing. This would take them, their family and allies out of isolation
-  and empower them to make informed decisions and access vital support systems
-  to accelerate the healing and justice seeking process. Empower Me is easily
-  accessible and free of charge to all users.
+project_summary: >-
+  Empower Me cultivates a community of healing for sexual assault survivors and
+  their advocates through story sharing, medical and psychological resources,
+  and avenues for justice.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Light Sprout is collaborating with ProSocial, Take Back the Night and is under
@@ -54,6 +50,14 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  Light Sprout will develop “Empower Me”, a digital tool that provides
+  important, immediate and ongoing resources to equip sexual assault victims and
+  their allies from the moment it occurs, through the process of seeking justice
+  and healing. This would take them, their family and allies out of isolation
+  and empower them to make informed decisions and access vital support systems
+  to accelerate the healing and justice seeking process. Empower Me is easily
+  accessible and free of charge to all users.
 project_impact: >-
   ["Healthcare access","Self-sufficiency","Resilient communities","Residents
   receiving coordinated healthcare services","Prevalence of adverse childhood

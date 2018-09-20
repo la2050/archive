@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1299310265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/oHWTV6mzQbg?rel=0&amp;showinfo=0'
-project_description: >-
-  CURE focuses on cases prosecuted by the City Attorney’s Anti-Gang Section.
-  CURE offers youth an opportunity to earn the dismissal of their case by
-  engaging in 12-18 months of education, vocational training, and wrap-around
-  services such as mental health care. CURE is a violence prevention effort that
-  redirects youth to productive activities in order to prevent escalation of
-  misdemeanor offenses to felony level violence and to increase community
-  safety.
+project_summary: >-
+  A gang alternative sentencing program that redirects youth to productive
+  activities such as education and job training in order to prevent escalation
+  of misdemeanor offenses to felony level.
 project_is_collaboration: 'Yes'
 project_collaborators: "•\tCoalition for Responsible Community Development, •\tLA City Attorney Office, •\tLA County Public Defender"
 project_areas:
@@ -61,6 +57,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  CURE focuses on cases prosecuted by the City Attorney’s Anti-Gang Section.
+  CURE offers youth an opportunity to earn the dismissal of their case by
+  engaging in 12-18 months of education, vocational training, and wrap-around
+  services such as mental health care. CURE is a violence prevention effort that
+  redirects youth to productive activities in order to prevent escalation of
+  misdemeanor offenses to felony level violence and to increase community
+  safety.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline","Youth

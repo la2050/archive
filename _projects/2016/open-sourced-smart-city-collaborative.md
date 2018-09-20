@@ -14,14 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5488182355741-team91.jpg
 project_video: ''
-project_description: >-
-  The City of West Hollywood will soon release an RFP for a Smart City Strategic
-  Plan. The plan will aim to solve a number of questions regarding project
-  priorities, funding options, implementation strategy, citizen privacy
-  concerns, and technology best practices. The LA2050 Grant would allow this
-  strategic plan to be open-sourced and serve as a model for other cities,
-  especially small cities, throughout the County, through development of an
-  interactive website and toolkit for other cities.
+project_summary: Building a network of smart city best practices for the 88 cities in LA County
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -38,6 +31,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The City of West Hollywood will soon release an RFP for a Smart City Strategic
+  Plan. The plan will aim to solve a number of questions regarding project
+  priorities, funding options, implementation strategy, citizen privacy
+  concerns, and technology best practices. The LA2050 Grant would allow this
+  strategic plan to be open-sourced and serve as a model for other cities,
+  especially small cities, throughout the County, through development of an
+  interactive website and toolkit for other cities.
 project_impact: >-
   ["Access to free wifi","Government responsiveness to residents’ needs","Travel
   time to work","Public transit riders"]

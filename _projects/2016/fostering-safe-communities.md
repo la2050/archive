@@ -12,12 +12,7 @@ organization_activity: Promotes women's equal leadership
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9273888445741-team90.jpg
 project_video: ''
-project_description: >-
-  For a community to be safe, everyone in the community needs to feel safe. We
-  have to change the statistic of one in three women being assaulted in their
-  lifetime, so we train women, specifically women who grew up in the mostly
-  unsafe environment of foster care, that they can prevent violence and how to
-  defend themselves when necessary.
+project_summary: Community Safety through Women's Empowerment
 project_is_collaboration: 'Yes'
 project_collaborators: 'All Saints Episcopal Church of Pasadena, IMPACT Personal Safety'
 project_areas:
@@ -41,6 +36,12 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  For a community to be safe, everyone in the community needs to feel safe. We
+  have to change the statistic of one in three women being assaulted in their
+  lifetime, so we train women, specifically women who grew up in the mostly
+  unsafe environment of foster care, that they can prevent violence and how to
+  defend themselves when necessary.
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences","Homelessness"]

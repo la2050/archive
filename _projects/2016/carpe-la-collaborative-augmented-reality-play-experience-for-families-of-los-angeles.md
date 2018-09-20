@@ -17,11 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1328398065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/flxMXmBJItU?rel=0&amp;showinfo=0'
-project_description: >-
-  CARPE LA is mobile experience designed to get teams of kids and adults outside
-  to play a story-driven, location-based game in parks throughout LA. Through a
-  series of summer events at which CARPE LA will be played, teams will
-  collaborate to unlock the open spaces in their neighborhoods.
+project_summary: >-
+  CARPE LA blends digital and physical play as teams work together to discover,
+  collect and unlock the secrets of a fantasy world overlaid on their local
+  neighborhood park.
 project_is_collaboration: 'Yes'
 project_collaborators: Artifact Technologies
 project_areas:
@@ -79,6 +78,11 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  CARPE LA is mobile experience designed to get teams of kids and adults outside
+  to play a story-driven, location-based game in parks throughout LA. Through a
+  series of summer events at which CARPE LA will be played, teams will
+  collaborate to unlock the open spaces in their neighborhoods.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play opportunities"]

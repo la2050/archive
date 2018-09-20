@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5378393065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/m_s4N2esUKk?rel=0&amp;showinfo=0'
-project_description: >-
-  No Mind Left Behind Tutoring Service provides mentorship and multi-level
-  tutoring services for FREE to students throughout the greater Los Angeles
-  area, allowing them to accelerate academically and socially through our
-  distinguished services. With the help of the LA2050 Grant, we can grow from
-  currently servicing over 350 students to thousands of students in LAUSD, ISD,
-  ICEF, and so on. We have seen how our services have helped strengthen and
-  maintain students’ mentality and self-esteem.
+project_summary: >-
+  With your vote, we can help thousands receive quality 1-on-1 tutoring for
+  FREE. All lives matter, including students, and this program will help enhance
+  every student we encounter. Even yours!
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -69,6 +65,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  No Mind Left Behind Tutoring Service provides mentorship and multi-level
+  tutoring services for FREE to students throughout the greater Los Angeles
+  area, allowing them to accelerate academically and socially through our
+  distinguished services. With the help of the LA2050 Grant, we can grow from
+  currently servicing over 350 students to thousands of students in LAUSD, ISD,
+  ICEF, and so on. We have seen how our services have helped strengthen and
+  maintain students’ mentality and self-esteem.
 project_impact: >-
   ["Manufacturing activity","Jobs per capita","Measures of cultural and global
   economic influence (“soft power”)","Minority- and women-owned

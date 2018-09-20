@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1655980265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/p6jmc2uJAb0?rel=0&amp;showinfo=0'
-project_description: >-
-  Let’s create an LA LandfillHarmonics. Research confirms that music raises your
-  IQ, so let’s start making music. We will gladly accept musical instruments
-  from anyone who has one collecting dust. We will also work with engineers to
-  create instruments out of up-cycled materials T4T has diverted from landfill.
-  These instruments will inspire a cohort of students to become musically
-  literate. Students who would otherwise not have an opportunity to learn a
-  musical instrument or even hear a concert.
+project_summary: >-
+  The Robin Hoods of Rubbish are inspired by Paraguay's Landfill Harmonics to
+  build intelligence in our youth using music, a proven builder of brainpower!
 project_is_collaboration: 'Yes'
 project_collaborators: The Harmony Project
 project_areas:
@@ -50,6 +45,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  Let’s create an LA LandfillHarmonics. Research confirms that music raises your
+  IQ, so let’s start making music. We will gladly accept musical instruments
+  from anyone who has one collecting dust. We will also work with engineers to
+  create instruments out of up-cycled materials T4T has diverted from landfill.
+  These instruments will inspire a cohort of students to become musically
+  literate. Students who would otherwise not have an opportunity to learn a
+  musical instrument or even hear a concert.
 project_impact: >-
   ["Number of children enrolled in afterschool programs","Number of parks with
   intergenerational play opportunities"]

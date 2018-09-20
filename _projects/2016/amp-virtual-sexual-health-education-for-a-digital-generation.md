@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2875239905741-team91.jpg
 project_video: 'https://www.youtube.com/embed/PV_FxBFP2hA?rel=0&amp;showinfo=0'
-project_description: >-
-  AMP! simultaneously educates and inspires young people to make responsible
-  health decisions by harnessing the transformative power of humor and
-  courageous storytelling to create performances for teens that are memorable,
-  inclusive, and FUN. Ninth grade is the last year LAUSD delivers sexual health
-  education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
-  digital platform would allow us to reach them by providing an accessible,
-  updated resource to all LAUSD health teachers.
+project_summary: >-
+  Give sex ed a new look, outside of the box and not in a book. Help AMP! UCLA
+  help high school students get the facts so they can step up as advocates for
+  their own sexual health decisions.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -60,6 +56,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Education/training '
   - Network/relationship support
+project_description: >-
+  AMP! simultaneously educates and inspires young people to make responsible
+  health decisions by harnessing the transformative power of humor and
+  courageous storytelling to create performances for teens that are memorable,
+  inclusive, and FUN. Ninth grade is the last year LAUSD delivers sexual health
+  education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
+  digital platform would allow us to reach them by providing an accessible,
+  updated resource to all LAUSD health teachers.
 project_impact: >-
   ["Healthcare access","Self-sufficiency","Resilient communities","Prevalence of
   adverse childhood experiences"]

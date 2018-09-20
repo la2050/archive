@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8056322165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/9rEbX6VgLaA?rel=0&amp;showinfo=0'
-project_description: >-
-  In collaboration with California State Parks, Clockshop will create programs
-  and events that bring Angelenos to experience “the Bowtie,” a plot of
-  post-industrial land on the LA River. The Bowtie Project transforms
-  post-industrial wasteland into a cultural destination, and lays the groundwork
-  for creating LA’s largest riverfront park.
+project_summary: >-
+  The Bowtie Project promotes the development of LA’s newest state park by
+  bringing artist projects, performances, and community events to a plot of
+  undeveloped land on the LA River.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Clockshop, California State Parks'
 project_areas:
@@ -49,6 +47,12 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  In collaboration with California State Parks, Clockshop will create programs
+  and events that bring Angelenos to experience “the Bowtie,” a plot of
+  post-industrial land on the LA River. The Bowtie Project transforms
+  post-industrial wasteland into a cultural destination, and lays the groundwork
+  for creating LA’s largest riverfront park.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play

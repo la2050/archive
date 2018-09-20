@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5864964105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/zf4cRLVe4Co?rel=0&amp;showinfo=0'
-project_description: >-
-  BUILD will use these funds to hire two key members of its new Los Angeles
-  team, which will serve 600 students in 2017.  BUILD inspires students from
-  under-resourced communities to graduate from high school, develop critical
-  life skills, and achieve post-secondary success through the highly engaging
-  experience of launching their very own businesses.  BUILD will hire its
-  Volunteer Manager and its Student Success Program Manager to recruit 150
-  volunteer mentors and to work with 150 9th graders.
+project_summary: >-
+  BUILD engages high school students who are at risk of not graduating by
+  teaching them how to create and launch their own small businesses, with the
+  goals of college enrollment and career success.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas: '["East LA","City of Los Angeles","LAUSD"]'
@@ -66,6 +62,14 @@ project_proposal_help: >-
   ","Publicity/awareness","Infrastructure (building/space/vehicles
   etc.)","Technical infrastructure (computers etc.)","Community outreach
   ","Network/relationship support"]
+project_description: >-
+  BUILD will use these funds to hire two key members of its new Los Angeles
+  team, which will serve 600 students in 2017.  BUILD inspires students from
+  under-resourced communities to graduate from high school, develop critical
+  life skills, and achieve post-secondary success through the highly engaging
+  experience of launching their very own businesses.  BUILD will hire its
+  Volunteer Manager and its Student Success Program Manager to recruit 150
+  volunteer mentors and to work with 150 9th graders.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Youth unemployment and underemployment"]

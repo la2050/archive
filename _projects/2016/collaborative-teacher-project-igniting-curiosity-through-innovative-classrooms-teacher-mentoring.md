@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1467124065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3wrDCMSLScc?rel=0&amp;showinfo=0'
-project_description: >-
-  High quality education starts with teachers who have specialized training in
-  early education and access to engaging and thought provoking learning
-  materials. Our goal is to bring these resources to underprivileged communities
-  who lack both. We are piloting our program at 4 LAUSD Title 1 sites and hope
-  to extend our support of these classrooms through May 2017, as well as expand
-  our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
-  school year.
+project_summary: >-
+  The Collaborative Teacher Project provides on-site teacher mentoring and
+  innovative classroom design to support early childhood educators working in
+  underserved public schools.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -63,6 +59,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Network/relationship support
+project_description: >-
+  High quality education starts with teachers who have specialized training in
+  early education and access to engaging and thought provoking learning
+  materials. Our goal is to bring these resources to underprivileged communities
+  who lack both. We are piloting our program at 4 LAUSD Title 1 sites and hope
+  to extend our support of these classrooms through May 2017, as well as expand
+  our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
+  school year.
 project_impact: '["Early education"]'
 project_proposal_best_place: >-
   While LA is rich in diversity, a great disparity exists between the early

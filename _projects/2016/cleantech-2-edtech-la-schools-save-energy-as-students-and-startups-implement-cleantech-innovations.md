@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4863691455741-team91.jpg
 project_video: ''
-project_description: >-
-  Cleantech 2 Edtech will explore new clean energy and water technologies and
-  work with LAUSD and the utilities to pilot them in the district. We will offer
-  complementary education and internship opportunities for high school students
-  interested in learning more. LAUSD and LADWP are developing pilot technologies
-  for funding in a new Memorandum of Understanding (“MOU”).  This project would
-  complement their efforts and access funding both to educate and to develop 
-  emerging efficiency technologies.
+project_summary: >-
+  Cleantech 2 Edtech will speed energy saving innovations into LA schools,
+  engage students in energy saving projects and open new opportunities for fast
+  growing cleantech companies in Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Los Angeles Cleantech Incubator, Los Angeles Unified School District, Los
@@ -73,6 +69,14 @@ project_proposal_help:
   - Advisors/board members
   - Publicity/awareness
   - Education/training
+project_description: >-
+  Cleantech 2 Edtech will explore new clean energy and water technologies and
+  work with LAUSD and the utilities to pilot them in the district. We will offer
+  complementary education and internship opportunities for high school students
+  interested in learning more. LAUSD and LADWP are developing pilot technologies
+  for funding in a new Memorandum of Understanding (“MOU”).  This project would
+  complement their efforts and access funding both to educate and to develop 
+  emerging efficiency technologies.
 project_impact: >-
   ["Federal research grant funding","Jobs per capita","High growth
   startups","Patents per capita","Percentage of graduates from local higher

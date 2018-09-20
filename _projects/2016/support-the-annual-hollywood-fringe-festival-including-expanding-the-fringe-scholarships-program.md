@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7523100096741-team90.jpg
 project_video: 'https://www.youtube.com/embed/zSYYJz2FUBw?rel=0&amp;showinfo=0'
-project_description: >-
-  Hollywood Fringe seeks support for its annual June festival, which is
-  currently one of the largest open-access art festivals in the country. The
-  festival gives 100% of ticket sales to the performers and is supported by
-  volunteers and staff who work well below market rates. The organization is
-  especially looking for support of its Fringe Scholarships program, which
-  provides scholarships to performers from diverse and underrepresented
-  backgrounds.
+project_summary: >-
+  Grow the Hollywood Fringe Festival in order to create an empowered community
+  of artists and lower the bar of entry for those who cannot afford to
+  participate.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -41,6 +37,14 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  Hollywood Fringe seeks support for its annual June festival, which is
+  currently one of the largest open-access art festivals in the country. The
+  festival gives 100% of ticket sales to the performers and is supported by
+  volunteers and staff who work well below market rates. The organization is
+  especially looking for support of its Fringe Scholarships program, which
+  provides scholarships to performers from diverse and underrepresented
+  backgrounds.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5555652265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/ueKmJQlz92o?rel=0&amp;showinfo=0'
-project_description: >-
-  One out of every six LAUSD students drop out of high school -- and of those
-  who drop out, two thirds either don’t complete or get held back in 9th grade.
-  By 2050, Spark wants every LA student to be ready for 9th grade with the
-  support they need to thrive in high school and beyond. Today, a $100,000
-  investment from LA2050 will fuel Spark’s next step: matching 300 underserved
-  middle schoolers with mentors from top companies for a year of career
-  exploration, skill-building, and academic engagement.
+project_summary: >-
+  Let’s make LA the best place to learn by matching all of our city’s
+  underserved middle schoolers with mentors at leading companies to support
+  their success in high school and beyond.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -71,6 +67,14 @@ project_proposal_help:
   - Volunteers
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  One out of every six LAUSD students drop out of high school -- and of those
+  who drop out, two thirds either don’t complete or get held back in 9th grade.
+  By 2050, Spark wants every LA student to be ready for 9th grade with the
+  support they need to thrive in high school and beyond. Today, a $100,000
+  investment from LA2050 will fuel Spark’s next step: matching 300 underserved
+  middle schoolers with mentors from top companies for a year of career
+  exploration, skill-building, and academic engagement.
 project_impact: >-
   ["District-wide graduation rates","Student education pipeline","Suspension and
   expulsion rates","Truancy rates in elementary and middle schools"]

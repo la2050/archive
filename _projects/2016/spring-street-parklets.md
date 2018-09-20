@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3396502194741-team91.jpg
 project_video: 'https://www.youtube.com/embed/7q-meY3ysT4?rel=0&amp;showinfo=0'
-project_description: >-
-  Our proposal is to build new technology-equipped public parklets on Spring
-  Street, and enhance the two original pilot parklets. Strategically located
-  adjacent to DTLA hotspots like Guisados and The Last Bookstore, the parklets
-  will feature planters, shaded seating, free wifi, charging stations, and
-  spaces for arts and culture programming. With a pledge of matching funds from
-  Councilmember Jose Huizar, the parklets will be designed, built, and
-  maintained by the HCBID and the City of Los Angeles.
+project_summary: >-
+  Spark face-to-face connections and cultural engagement through
+  technology-equipped public parklets in the heart of Downtown Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: LA City Councilmember Jose Huizar
 project_areas:
@@ -51,6 +46,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Publicity/awareness
+project_description: >-
+  Our proposal is to build new technology-equipped public parklets on Spring
+  Street, and enhance the two original pilot parklets. Strategically located
+  adjacent to DTLA hotspots like Guisados and The Last Bookstore, the parklets
+  will feature planters, shaded seating, free wifi, charging stations, and
+  spaces for arts and culture programming. With a pledge of matching funds from
+  Councilmember Jose Huizar, the parklets will be designed, built, and
+  maintained by the HCBID and the City of Los Angeles.
 project_impact: >-
   ["Access to free wifi","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Travel time to

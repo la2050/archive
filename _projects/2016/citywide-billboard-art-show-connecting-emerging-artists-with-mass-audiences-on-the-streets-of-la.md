@@ -17,14 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2650088355741-team91.jpg
 project_video: ''
-project_description: >-
-  TBC will mount an art exhibition on billboards across many neighborhoods of
-  the city & featuring works from emerging Los Angeles artists.  Of the
-  estimated 30-50 works (pending rental fee rates), 5 will be selected by public
-  voting with the remainder selected by a curator.  In addition, we will
-  highlight emerging artists each week for 3 months on our website, social media
-  channels, & on an app.  We want to bring art to Angelenos and help artists
-  develop sustainable careers in the arts.
+project_summary: >-
+  TBC’s 2050 Show will be a citywide, billboard art show & app bringing broad
+  attention to local emerging artists and art to our community.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -71,6 +66,14 @@ project_proposal_help:
   - Advisors/board members
   - 'Staff '
   - Publicity/awareness
+project_description: >-
+  TBC will mount an art exhibition on billboards across many neighborhoods of
+  the city & featuring works from emerging Los Angeles artists.  Of the
+  estimated 30-50 works (pending rental fee rates), 5 will be selected by public
+  voting with the remainder selected by a curator.  In addition, we will
+  highlight emerging artists each week for 3 months on our website, social media
+  channels, & on an app.  We want to bring art to Angelenos and help artists
+  develop sustainable careers in the arts.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8698821265741-team88.jpg
 project_video: 'https://www.youtube.com/embed/vk1BgrHSmZ0?rel=0&amp;showinfo=0'
-project_description: >-
-  E4E-LA is building a movement of teachers to take action on behalf of student
-  success. As our district responds to decades of demand for better public
-  schools by trying to implement higher standards, healthier school climates,
-  and improved rates of entry to colleges and careers, E4E-LA provides teachers
-  with opportunities to learn about education policy, network with policy
-  makers, and participate in leadership development and advocacy campaigns to
-  make LA a great place to learn and teach.
+project_summary: >-
+  Teachers at E4E-LA are designing the policy vision and solutions that will
+  propel more of our students to  colleges and careers.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -76,6 +71,14 @@ project_proposal_help:
   - Advisors/board members
   - 'Staff '
   - Publicity/awareness
+project_description: >-
+  E4E-LA is building a movement of teachers to take action on behalf of student
+  success. As our district responds to decades of demand for better public
+  schools by trying to implement higher standards, healthier school climates,
+  and improved rates of entry to colleges and careers, E4E-LA provides teachers
+  with opportunities to learn about education policy, network with policy
+  makers, and participate in leadership development and advocacy campaigns to
+  make LA a great place to learn and teach.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline","Students’

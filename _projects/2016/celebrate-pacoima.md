@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5056172635741-team91.JPG
 project_video: 'https://www.youtube.com/embed/_7_25X6aAm4?rel=0&amp;showinfo=0'
-project_description: >-
-  Celebrate Pacoima proposes to develop an all-inclusive intergenerational arts
-  incubator to harness the local cultural-arts tradition of Pacoima. Pacoima
-  Beautiful will provide access to artist training, technical assistance,
-  workspace, artist in residence programs, workshops and opportunities for
-  creative placemaking and economic growth. The funding from LA2050 will enable
-  Pacoima Beautiful to purchase equipment, tools and provide instructors with
-  stipends to deliver high quality resources.
+project_summary: >-
+  Join us in developing a safe creative space for the community and by the
+  community.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -52,6 +47,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Celebrate Pacoima proposes to develop an all-inclusive intergenerational arts
+  incubator to harness the local cultural-arts tradition of Pacoima. Pacoima
+  Beautiful will provide access to artist training, technical assistance,
+  workspace, artist in residence programs, workshops and opportunities for
+  creative placemaking and economic growth. The funding from LA2050 will enable
+  Pacoima Beautiful to purchase equipment, tools and provide instructors with
+  stipends to deliver high quality resources.
 project_impact: >-
   ["Arts establishments","Manufacturing activity","Employment in the creative
   industries","Federal research grant funding","Jobs per capita"]

@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3786211355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/SArUqu9L8eI?rel=0&amp;showinfo=0'
-project_description: >-
-  Since 2012, EveryoneOn has been connecting people in the U.S. to low-cost
-  Internet, devices, and digital literacy training. Internet connectivity is
-  critical to learning and educational advancement today, especially when 80% of
-  children need the Internet to do their homework and 90% of college
-  applications are filled out online. In collaboration with AT&T, we will
-  facilitate Internet connectivity and devices for families living in public
-  housing within Los Angeles’ designated Promise Zones.
+project_summary: >-
+  EveryoneOn, in collaboration with AT&T. will facilitate Internet connectivity
+  and devices for families living in public housing within Los Angeles’
+  designated Promise Zones.
 project_is_collaboration: 'No'
 project_collaborators: Access from AT&T
 project_areas:
@@ -50,6 +46,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Since 2012, EveryoneOn has been connecting people in the U.S. to low-cost
+  Internet, devices, and digital literacy training. Internet connectivity is
+  critical to learning and educational advancement today, especially when 80% of
+  children need the Internet to do their homework and 90% of college
+  applications are filled out online. In collaboration with AT&T, we will
+  facilitate Internet connectivity and devices for families living in public
+  housing within Los Angeles’ designated Promise Zones.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Early

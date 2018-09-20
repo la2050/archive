@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1725312484741-team89.jpg
 project_video: 'https://www.youtube.com/embed/vK-yBYBjdlA?rel=0&amp;showinfo=0'
-project_description: >-
-  Represent will create Represent School of Acting & Media Arts – a new LA-based
-  arts establishment training aspiring, diverse media makers for employment in
-  the entertainment industry free of charge. We will provide professional
-  technical training in acting, TV, screen & playwriting, & filmmaking.
-  Additionally, we will give students opportunities to produce their own
-  projects, showcase their talents, and connect them with industry mentors and
-  agents to jumpstart their careers.
+project_summary: >-
+  A FREE, LA-based, acting & media arts school for diverse, aspiring media
+  makers!
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -71,6 +66,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - Technical infrastructure (computers etc.)
   - Network/relationship support
+project_description: >-
+  Represent will create Represent School of Acting & Media Arts – a new LA-based
+  arts establishment training aspiring, diverse media makers for employment in
+  the entertainment industry free of charge. We will provide professional
+  technical training in acting, TV, screen & playwriting, & filmmaking.
+  Additionally, we will give students opportunities to produce their own
+  projects, showcase their talents, and connect them with industry mentors and
+  agents to jumpstart their careers.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Minority- and
   women-owned firms"]

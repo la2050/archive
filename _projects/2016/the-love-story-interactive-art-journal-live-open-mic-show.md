@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6473062183741-team90.png
 project_video: 'https://player.vimeo.com/video/168583145?rel=0&amp;showinfo=0'
-project_description: >-
-  This isn't about mental health--it's about transforming pain into creative
-  expression. We will interview 40 artists on how they have transformed the pain
-  of loss into art and produce the interviews into an interactive media art
-  journal, complimented by two live music/art shows where Angelenos can engage
-  in conversations surrounding grief, love and art while providing artists
-  performances and open mic sharing of our journal entries.
+project_summary: >-
+  We will interview 40 artists on how they have transformed the pain of loss
+  into creative expression and produce those interviews into a New Media Art
+  Journal. complimented by a live music/art show.
 project_is_collaboration: 'Yes'
 project_collaborators: America Innovates Foundation
 project_areas:
@@ -49,6 +46,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  This isn't about mental health--it's about transforming pain into creative
+  expression. We will interview 40 artists on how they have transformed the pain
+  of loss into art and produce the interviews into an interactive media art
+  journal, complimented by two live music/art shows where Angelenos can engage
+  in conversations surrounding grief, love and art while providing artists
+  performances and open mic sharing of our journal entries.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Residential segregation","Total number of

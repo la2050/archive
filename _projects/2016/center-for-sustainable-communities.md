@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4742887015741-team89.jpg
 project_video: ''
-project_description: >-
-  Utilizing the model of 'What Makes Community?' as our focus, NHS is working
-  with the City of Compton, Pacific Coast Regional, and METRO CDC to create the
-  first of several Centers for Sustainable Communities in Compton, CA. The
-  Center will help low-to-middle income families in Compton deal with the
-  impacts of divestiture by serving as a hub to provide access to housing,
-  transit, employment, healthy living, and community food resources that make
-  communities stronger and more resilient.
+project_summary: >-
+  Built on the site of a blighted grocery store in Compton, the 28,000 sq ft
+  Center will serve as a hub for nonprofits and feature small business
+  incubators, a health clinic, and community gardens.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   - Los Angeles Conservation Corps (LACC), - Pacific Coast Regional Small
@@ -68,6 +64,14 @@ project_proposal_help: >-
   members","Publicity/awareness","Infrastructure
   (building/space/vehicles","Technical infrastructure (computers","Community
   outreach ","Network/relationship support"]
+project_description: >-
+  Utilizing the model of 'What Makes Community?' as our focus, NHS is working
+  with the City of Compton, Pacific Coast Regional, and METRO CDC to create the
+  first of several Centers for Sustainable Communities in Compton, CA. The
+  Center will help low-to-middle income families in Compton deal with the
+  impacts of divestiture by serving as a hub to provide access to housing,
+  transit, employment, healthy living, and community food resources that make
+  communities stronger and more resilient.
 project_impact: >-
   ["Access to healthy food","Housing affordability","Waterways","Healthcare
   access","Self-sufficiency","Obesity","Local water","Resilient

@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6459268355741-team89.png
 project_video: 'https://www.youtube.com/embed/YKNosko-ufM?rel=0&amp;showinfo=0'
-project_description: >-
-  Over the summer of 2016, we piloted an 8-week internship program that uses the
-  United Nations Sustainable Development Goals to teach youth that their local
-  actions have global relevance. Youth intern with non-profits or local elected
-  officials for 10 hours a week, and then spend another 10 hours developing
-  their own project that addresses an issue such as sustainability, poverty, or
-  inequality. With this proposal, we will expand this program to thirty students
-  across LA County in 2016.
+project_summary: >-
+  Action Ambassadors is training the next generation of leaders in Los Angeles
+  through volunteer work, political involvement, and social entrepreneurship.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   As of last year, we collaborated with the following organizations. However, in
@@ -67,6 +62,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Over the summer of 2016, we piloted an 8-week internship program that uses the
+  United Nations Sustainable Development Goals to teach youth that their local
+  actions have global relevance. Youth intern with non-profits or local elected
+  officials for 10 hours a week, and then spend another 10 hours developing
+  their own project that addresses an issue such as sustainability, poverty, or
+  inequality. With this proposal, we will expand this program to thirty students
+  across LA County in 2016.
 project_impact: '["Student education pipeline","Youth unemployment and underemployment"]'
 project_proposal_best_place: >-
   Student education pipeline: 

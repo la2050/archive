@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0815848445741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xbatmQQi_e4?rel=0&amp;showinfo=0'
-project_description: >-
-  50% of  the 28,000 foster youth in LA end up homeless, in gangs,
-  institutionalized or in jail.  Over 42% of foster youth drop out of high
-  school and  only 3% graduate from college.  Starting in Grade 7, TAP will
-  build an exclusive & consistent community for at-risk foster youth, building
-  on the success of our summer program to include an afterschool program to
-  launch in April providing the necessary support & motivation needed
-  year-round.
+project_summary: >-
+  The Academy Project prepares LA foster youth to succeed in high school,
+  through an innovative summer camp & after school program, with a guaranteed
+  spot in a stable & supportive community
 project_is_collaboration: 'Yes'
 project_collaborators: 'A HOME WITHIN, AdaptED, UCLA UNICAMP'
 project_areas:
@@ -82,6 +78,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Network/relationship support
+project_description: >-
+  50% of  the 28,000 foster youth in LA end up homeless, in gangs,
+  institutionalized or in jail.  Over 42% of foster youth drop out of high
+  school and  only 3% graduate from college.  Starting in Grade 7, TAP will
+  build an exclusive & consistent community for at-risk foster youth, building
+  on the success of our summer program to include an afterschool program to
+  launch in April providing the necessary support & motivation needed
+  year-round.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education

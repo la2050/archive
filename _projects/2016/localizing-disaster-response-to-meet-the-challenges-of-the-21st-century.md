@@ -14,14 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5594912265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5BOUm4PBeUc?rel=0&amp;showinfo=0'
-project_description: >-
-  Spending money on resiliency and readiness saves money.  An organized, trained
-  and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
-  municipal and emergency services to perform core functions enabling them to
-  focus on getting residents back to normal life as quickly as possible.  By
-  leveraging the skills of veterans, TR is preparing for and responding to
-  disasters as well as providing purpose, community and identity to our nation's
-  veteran's, easing their transition home.
+project_summary: 'Get LA Squared Away: Community Resilience Project'
 project_is_collaboration: 'No'
 project_collaborators: >-
   Team Rubicon's vision of making Los Angeles a community better prepared for
@@ -51,6 +44,14 @@ project_proposal_help:
   - Advisors/board members
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  Spending money on resiliency and readiness saves money.  An organized, trained
+  and equipped Team Rubicon will help stabilize LA once disaster hits, allowing
+  municipal and emergency services to perform core functions enabling them to
+  focus on getting residents back to normal life as quickly as possible.  By
+  leveraging the skills of veterans, TR is preparing for and responding to
+  disasters as well as providing purpose, community and identity to our nation's
+  veteran's, easing their transition home.
 project_impact: '["Resilient communities"]'
 project_proposal_best_place: >-
   Cities' ability to respond to our rapidly changing climate and the changing

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1483407105741-team91.jpg
 project_video: 'https://player.vimeo.com/video/169895416?rel=0&amp;showinfo=0'
-project_description: >-
-  Believing that college access and success is the best path to
-  self-sufficiency, United Friends of the Children has created an 11-year
-  educational support continuum that helps foster youth graduate from high
-  school, aspire to and attain college acceptance, and earn their Bachelors
-  degree.  100% of those in our Readiness program 4 years or more graduate HS,
-  with more than 50% matriculating directly to 4-yr. schools;  70% of those in
-  our College Sponsorship program earn a Bachelors within 5 years.
+project_summary: >-
+  By providing LA County foster youth with a support network of caring adults
+  and a host of program opportunities, the project will help more than 700 youth
+  to reach successful independence.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -59,6 +55,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Believing that college access and success is the best path to
+  self-sufficiency, United Friends of the Children has created an 11-year
+  educational support continuum that helps foster youth graduate from high
+  school, aspire to and attain college acceptance, and earn their Bachelors
+  degree.  100% of those in our Readiness program 4 years or more graduate HS,
+  with more than 50% matriculating directly to 4-yr. schools;  70% of those in
+  our College Sponsorship program earn a Bachelors within 5 years.
 project_impact: '["College completion","College matriculation rates"]'
 project_proposal_best_place: >-
   UFC has created an 11-year education support continuum that follows foster

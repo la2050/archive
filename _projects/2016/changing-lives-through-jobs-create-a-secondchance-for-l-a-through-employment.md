@@ -17,14 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1107194355741-team88.jpg
 project_video: 'https://www.youtube.com/embed/9fQj9v92GS4?rel=0&amp;showinfo=0'
-project_description: >-
-  Chrysalis is the leading organization in L.A. focused on helping formerly
-  incarcerated individuals attain self-sufficiency through work.  Each year,
-  through classes, supportive services, and our social enterprise “Chrysalis
-  Enterprises” (CE), we provide comprehensive job readiness training and
-  employment for over 600 participants in transitional jobs. We offer these
-  motivated individuals, 73% of whom have a criminal background, a second chance
-  in life when they need it most.
+project_summary: >-
+  With your support, Chrysalis will provide a second chance for 400 additional
+  formerly incarcerated individuals by expanding its transitional jobs program.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas: '["City of Los Angeles"]'
@@ -56,6 +51,14 @@ project_proposal_help: >-
   ["Money ","Volunteers","Advisors/board members","Staff
   ","Publicity/awareness","Infrastructure (building/space/vehicles
   etc.)","Education/training ","Technical infrastructure (computers etc.)"]
+project_description: >-
+  Chrysalis is the leading organization in L.A. focused on helping formerly
+  incarcerated individuals attain self-sufficiency through work.  Each year,
+  through classes, supportive services, and our social enterprise “Chrysalis
+  Enterprises” (CE), we provide comprehensive job readiness training and
+  employment for over 600 participants in transitional jobs. We offer these
+  motivated individuals, 73% of whom have a criminal background, a second chance
+  in life when they need it most.
 project_impact: >-
   ["Gini coefficient","Jobs per capita","Unemployment (and opportunities) for
   the formerly incarcerated"]

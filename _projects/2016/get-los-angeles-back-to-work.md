@@ -14,14 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6757074165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/pZ7s6I73bNU?rel=0&amp;showinfo=0'
-project_description: >-
-  We are opening LaunchCode Los Angeles to help Los Angelenos create a new level
-  of self-sufficiency through empowering jobs in technology and computer
-  science.  Millions of Americans are unemployed and are stuck in low-wage job
-  cycles which leave them struggling to find jobs that offer livable salaries,
-  employable skills, and a chance for advancement.  Businesses also have a
-  problem —there just isn’t enough tech talent to match the growing demand.
-  LaunchCode programs address both problems.
+project_summary: Get Los Angeles Back to Work!
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Kimberley Baker Guillemet, Esq., Manager, Office of Reentry, Mayor's Office of
@@ -60,6 +53,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  We are opening LaunchCode Los Angeles to help Los Angelenos create a new level
+  of self-sufficiency through empowering jobs in technology and computer
+  science.  Millions of Americans are unemployed and are stuck in low-wage job
+  cycles which leave them struggling to find jobs that offer livable salaries,
+  employable skills, and a chance for advancement.  Businesses also have a
+  problem —there just isn’t enough tech talent to match the growing demand.
+  LaunchCode programs address both problems.
 project_impact: '["Self-sufficiency","Resilient communities"]'
 project_proposal_best_place: >-
   Over the long term, we know that high paying jobs increase self sufficiency.

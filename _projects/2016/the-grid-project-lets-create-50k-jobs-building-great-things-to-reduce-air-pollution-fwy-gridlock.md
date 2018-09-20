@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8110702055741-team91.png
 project_video: 'https://www.youtube.com/embed/KmmJPqr_ObQ?rel=0&amp;showinfo=0'
-project_description: >-
-  GRID's Project proposal begins with the need for an independent evaluation of
-  the GRID Project, ideally from regional stakeholders in the form of political,
-  business, labor, environmental, and social justice quarters.  GRID seeks
-  support through its affiliation with the Los Angeles Cleantech Incubator and
-  its surrounding community stakeholders to include education, and neighborhood
-  councils.
+project_summary: >-
+  Cleantech infrastructure that connects container cargo between ships, trains,
+  trucks and warehouses while adding value to people's lives all along Greater
+  LA's trading corridors.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   GRID Logistics Inc. is a Los Angeles Cleantech Portfolio Company and has been
@@ -62,6 +59,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  GRID's Project proposal begins with the need for an independent evaluation of
+  the GRID Project, ideally from regional stakeholders in the form of political,
+  business, labor, environmental, and social justice quarters.  GRID seeks
+  support through its affiliation with the Los Angeles Cleantech Incubator and
+  its surrounding community stakeholders to include education, and neighborhood
+  councils.
 project_impact: '["Travel time to work","Participation in neighborhood councils"]'
 project_proposal_best_place: >-
   Once the envisioned GRID infrastructure becomes operational, the most visually

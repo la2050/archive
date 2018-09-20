@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6818331265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/6dLgurysIlo?rel=0&amp;showinfo=0'
-project_description: >-
-  an affordable exercise program for a “community.” The “community” will be a
-  group of people who assemble on a regular basis for a common goal/interest in
-  a predefined structure or building. The Grassroots Training for Health and
-  Academy of Strength/Sport will provide the exercise equipment and group
-  classes along with a train-the-trainer program for the purpose of the
-  Community to maintain an exercise program independently.
+project_summary: >-
+  Grassroots Training for Health is a non-profit organization that collaborates
+  with community fitness experts and city leaders to establish an affordable
+  physical exercise programs under-served Communi
 project_is_collaboration: 'Yes'
 project_collaborators: Academy of Strength and Sport
 project_areas:
@@ -35,6 +32,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  an affordable exercise program for a “community.” The “community” will be a
+  group of people who assemble on a regular basis for a common goal/interest in
+  a predefined structure or building. The Grassroots Training for Health and
+  Academy of Strength/Sport will provide the exercise equipment and group
+  classes along with a train-the-trainer program for the purpose of the
+  Community to maintain an exercise program independently.
 project_impact: '["Self-sufficiency","Obesity","Resilient communities"]'
 project_proposal_best_place: >-
   The Grassroots Training for Health project will help make LA a great place to

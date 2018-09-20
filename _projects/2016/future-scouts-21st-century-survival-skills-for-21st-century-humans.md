@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4696118255741-team90.png
 project_video: 'https://www.youtube.com/embed/opdLZ7mHMqw?rel=0&amp;showinfo=0'
-project_description: >-
-  Future Scouts ran a crowd-funded pilot program in July 2016 with 12 teens from
-  across LA for a two weeks, culminating in a Future Worlds Fair: LA 2036! We
-  propose to run two summer sessions in Los Angeles in 2017 for teens aged
-  13-18, on a by-donation basis, as well fund an after-school program with
-  C:/DAGS @ Hawkins HS for Spring 2017.
+project_summary: >-
+  FUTURE SCOUTS: a series of urban creative labs that prepare youth with
+  essential 21st century literacies and skills, through art, science, design,
+  systems thinking and technology
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   USC World Building Institute, HexLab Makerspace, C:/DAGS (Critical Design And
@@ -85,6 +83,12 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Future Scouts ran a crowd-funded pilot program in July 2016 with 12 teens from
+  across LA for a two weeks, culminating in a Future Worlds Fair: LA 2036! We
+  propose to run two summer sessions in Los Angeles in 2017 for teens aged
+  13-18, on a by-donation basis, as well fund an after-school program with
+  C:/DAGS @ Hawkins HS for Spring 2017.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Early

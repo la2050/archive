@@ -14,12 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0987534165741-team90.png
 project_video: 'https://www.youtube.com/embed/GURgU8nO6rM?rel=0&amp;showinfo=0'
-project_description: >-
-  The goal of this project is to directly impact students by providing them with
-  paid learning opportunities. With the wide scope of divisions within Los
-  Angeles World Airports, we aspire to provide students with positions that will
-  help develop future career goals. We hope to expand the existing program from
-  12 to 25 positions.
+project_summary: Los Angeles World Airports - educational opportunities that pay!
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -41,6 +36,12 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  The goal of this project is to directly impact students by providing them with
+  paid learning opportunities. With the wide scope of divisions within Los
+  Angeles World Airports, we aspire to provide students with positions that will
+  help develop future career goals. We hope to expand the existing program from
+  12 to 25 positions.
 project_impact: >-
   ["College completion","College matriculation rates","Early education","Student
   education pipeline","Youth unemployment and underemployment"]

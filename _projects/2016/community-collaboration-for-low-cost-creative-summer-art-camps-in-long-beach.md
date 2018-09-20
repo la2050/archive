@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7808945355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/SCPg1hapsGE?rel=0&amp;showinfo=0'
-project_description: >-
-  CALB in partnership with Light and Life Community Center and Side By Side
-  Community Church will host Come Alive Creative Summer Arts Camps for a second
-  year for students (ages 6-15) to learn from experienced local artisans about
-  creative expression. These camps will create jobs for local artists and offer
-  internships (16-25) and volunteer opportunities (16 years and older). Students
-  will be mentored and families introduced to partnering organizations that
-  offer ongoing support services.
+project_summary: >-
+  Connecting the city of Long Beach together to create low cost creative summer
+  art day camps to encourage and empower under-resourced children, youth and
+  families in the city of Long Beach.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Light and Life Community Center, Come Alive Long Beach, Side By Side Community
@@ -77,6 +73,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  CALB in partnership with Light and Life Community Center and Side By Side
+  Community Church will host Come Alive Creative Summer Arts Camps for a second
+  year for students (ages 6-15) to learn from experienced local artisans about
+  creative expression. These camps will create jobs for local artists and offer
+  internships (16-25) and volunteer opportunities (16 years and older). Students
+  will be mentored and families introduced to partnering organizations that
+  offer ongoing support services.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Residential
   segregation"]

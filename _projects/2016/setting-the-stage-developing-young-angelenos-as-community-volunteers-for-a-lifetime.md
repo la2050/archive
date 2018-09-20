@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6000534355741-team90.JPG
 project_video: 'https://www.youtube.com/embed/80TAsrIU1O8?rel=0&amp;showinfo=0'
-project_description: >-
-  Partnering with 25 schools, Roots & Shoots will connect 750 diverse Los
-  Angeles youth to communities using the R&S model and empower them to map their
-  communities, identify local issues, implement a service campaign, and
-  collaboratively celebrate successes. R&S will additionally recruit and train
-  five youth leaders to model and inspire civic responsibility through outreach
-  and community engagement. Finally, R&S will hold local community service
-  events and a citywide celebration of service.
+project_summary: >-
+  Partnering with key LA schools, Roots & Shoots will connect youth to their
+  communities, build awareness of local issues, empower them through
+  volunteerism, and develop them as compassionate leaders.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -82,6 +78,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Partnering with 25 schools, Roots & Shoots will connect 750 diverse Los
+  Angeles youth to communities using the R&S model and empower them to map their
+  communities, identify local issues, implement a service campaign, and
+  collaboratively celebrate successes. R&S will additionally recruit and train
+  five youth leaders to model and inspire civic responsibility through outreach
+  and community engagement. Finally, R&S will hold local community service
+  events and a citywide celebration of service.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism"]

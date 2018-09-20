@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0183087065741-team90.jpg
 project_video: ''
-project_description: >-
-  Through CWC’s school model, students learn to meaningfully connect with each
-  other, be part of any community, and courageously decide who they are in the
-  world and how they want the world to be. The goal of our race, equity and
-  diversity project is for staff and students to realize their full potential to
-  thrive in a diverse society. To achieve this ambitious goal, CWC must equip
-  our staff with the values, skills, and tools to empower students to navigate
-  lines of difference and build community.
+project_summary: >-
+  Citizens of the World Los Angeles will prepare our students to thrive in our
+  diverse schools and society by making critical investments in race, equity and
+  diversity training for our staff.
 project_is_collaboration: 'No'
 project_collaborators: >-
   CWC LA will contract with the Fellowship for Race and Equity in Education
@@ -48,6 +44,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Through CWC’s school model, students learn to meaningfully connect with each
+  other, be part of any community, and courageously decide who they are in the
+  world and how they want the world to be. The goal of our race, equity and
+  diversity project is for staff and students to realize their full potential to
+  thrive in a diverse society. To achieve this ambitious goal, CWC must equip
+  our staff with the values, skills, and tools to empower students to navigate
+  lines of difference and build community.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Students’

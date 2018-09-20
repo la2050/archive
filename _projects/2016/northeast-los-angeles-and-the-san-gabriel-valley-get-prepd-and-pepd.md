@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7186712265741-team91.JPG
 project_video: 'https://www.youtube.com/embed/x07ncVd8hWY?rel=0&amp;showinfo=0'
-project_description: >-
-  PrEP protects and empowers men who have sex with men and dismantles the sexual
-  stigma and shame that still lingers today. But for many Angelenos, PrEP costs
-  at least $1,500/year and can be hard to access beyond metro LA. We believe
-  everybody deserves first-rate sexual health care--no matter what. PPPSGV aims
-  to be the first health centers in northeast LA and the San Gabriel Valley to
-  offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
-  year stay healthy and HIV-free.
+project_summary: >-
+  PrEP is the 'miracle' HIV pill, but this revolutionary drug can be costly,
+  difficult to reach, and clouded in myth, especially for Angelenos in northeast
+  LA and the SGV; let's change that for good!
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas: '["East LA","San Gabriel Valley","N/A"]'
@@ -58,6 +54,14 @@ project_proposal_help: >-
   ["Money ","Volunteers","Advisors/board members","Staff
   ","Publicity/awareness","Education/training ","Community outreach
   ","Network/relationship support","Advocacy to elected officials"]
+project_description: >-
+  PrEP protects and empowers men who have sex with men and dismantles the sexual
+  stigma and shame that still lingers today. But for many Angelenos, PrEP costs
+  at least $1,500/year and can be hard to access beyond metro LA. We believe
+  everybody deserves first-rate sexual health care--no matter what. PPPSGV aims
+  to be the first health centers in northeast LA and the San Gabriel Valley to
+  offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
+  year stay healthy and HIV-free.
 project_impact: '["Healthcare access"]'
 project_proposal_best_place: >-
   This proposal will make LA the best place to LIVE because we envision a place

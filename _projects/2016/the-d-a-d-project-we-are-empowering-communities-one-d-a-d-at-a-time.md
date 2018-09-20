@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7019184355741-team90.jpg
 project_video: ''
-project_description: >-
-  Provide Opportunities for fathers and other male role models to take an active
-  role in the life and development of their children, families, and community.
-  The project proposal is seeking funding to provide opportunities for fathers
-  and other male role models to gain knowledge and skills in making a positive
-  impact in the lives of children and families.
+project_summary: >-
+  The D.A.D Proejct was developed to help fathers undersand the importance of
+  father/male involvement in their child's educational developement, by
+  providing programs that support school readiness goals
 project_is_collaboration: 'No'
 project_collaborators: None!
 project_areas:
@@ -70,6 +68,12 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Provide Opportunities for fathers and other male role models to take an active
+  role in the life and development of their children, families, and community.
+  The project proposal is seeking funding to provide opportunities for fathers
+  and other male role models to gain knowledge and skills in making a positive
+  impact in the lives of children and families.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Early

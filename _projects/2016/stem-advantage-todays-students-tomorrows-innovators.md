@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3262530655741-team91.jpg
 project_video: 'https://www.youtube.com/embed/z2t5cRSBqQA?rel=0&amp;showinfo=0'
-project_description: >-
-  STEM Advantage's 360-degree program provides students attending a public
-  university the type of support that many students attending a private
-  university receive, including internships, mentors, scholarships, career
-  panels, access to and networking opportunities with business and  technology
-  executives and hiring managers. STEM Advantage aims to level the playing field
-  for young women and underserved communities attending  California State
-  University (CSU) campuses in the Los Angeles area.
+project_summary: >-
+  STEM Advantage mentors, prepares and inspires young women and underserved
+  communities to pursue careers in science, technology, engineering and math
+  through paid internships, mentors and scholarships.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   STEM Advantage has partnerships with the computer science and engineering
@@ -82,6 +78,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  STEM Advantage's 360-degree program provides students attending a public
+  university the type of support that many students attending a private
+  university receive, including internships, mentors, scholarships, career
+  panels, access to and networking opportunities with business and  technology
+  executives and hiring managers. STEM Advantage aims to level the playing field
+  for young women and underserved communities attending  California State
+  University (CSU) campuses in the Los Angeles area.
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline","Youth unemployment and underemployment"]

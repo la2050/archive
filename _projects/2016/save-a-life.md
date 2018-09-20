@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9035316643741-team90.jpg
 project_video: 'https://www.youtube.com/embed/vJZsFAP-f-E?rel=0&amp;showinfo=0'
-project_description: >-
-  Los Angeles and the rest of the country are experiencing an opioid epidemic,
-  and drug overdose deaths are now the leading cause of unintended death in the
-  US, over car accidents. Help HHCLA save lives via its naloxone distribution
-  program that empowers people to make a real impact in this increasing
-  epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
-  and this number will only continue to grow with the proper training and
-  resources.
+project_summary: >-
+  Since 2011, the rate of opioid overdoses has more than tripled in LA County;
+  this epidemic is completely preventable if people were aware of and had access
+  to the lifesaving drug, naloxone.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -67,6 +63,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Los Angeles and the rest of the country are experiencing an opioid epidemic,
+  and drug overdose deaths are now the leading cause of unintended death in the
+  US, over car accidents. Help HHCLA save lives via its naloxone distribution
+  program that empowers people to make a real impact in this increasing
+  epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
+  and this number will only continue to grow with the proper training and
+  resources.
 project_impact: >-
   ["Access to healthy food","Housing affordability","Healthcare
   access","Self-sufficiency","Resilient communities","Residents receiving

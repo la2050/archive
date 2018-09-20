@@ -15,6 +15,15 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3863693255741-team91.jpg
 project_video: 'https://www.youtube.com/embed/nKlf21GJLW8?rel=0&amp;showinfo=0'
+project_summary: >-
+  EnCorps STEM Teachers addresses the conditions severely limiting low income,
+  under-resourced, and minority student opportunities by transitioning
+  outstanding STEM professionals into public education.
+project_is_collaboration: 'No'
+project_collaborators: None
+project_areas: '["County of Los Angeles"]'
+project_measure: "We will measure our success by surveying students, partner sites and EnCorps Fellows:\n\nStudents will agree that EnCorps Fellows made them:\n-More aware of STEM career opportunities 85%\n-More interested in STEM 80%\n-STEM grades Improved 70%\n-Understand relevance of STEM better 85%\n\nPlacement sites will agree that EnCorps Fellows:\n-Increase student excitement 90%\n-Increase student achievement 95%\n-Increase student understanding of real-world connections 90%\n-are as effective as other tutors 85%\n-make differentiation easier\t80%\n\nEnCorps Fellows will agree that:\n-they are satisfied with the EnCorps Fellowship 90%\n-they are satisfied with overall support 95%"
+project_proposal_help: '["Money ","Volunteers","Advisors/board members","Publicity/awareness"]'
 project_description: >-
   The objectives of the EnCorps STEM Teachers: Translators of Math and Science
   in the Classroom are as follows:
@@ -27,11 +36,6 @@ project_description: >-
   shows the real-world application of math and science
 
   *Increase under­represented populations in STEM professions
-project_is_collaboration: 'No'
-project_collaborators: None
-project_areas: '["County of Los Angeles"]'
-project_measure: "We will measure our success by surveying students, partner sites and EnCorps Fellows:\n\nStudents will agree that EnCorps Fellows made them:\n-More aware of STEM career opportunities 85%\n-More interested in STEM 80%\n-STEM grades Improved 70%\n-Understand relevance of STEM better 85%\n\nPlacement sites will agree that EnCorps Fellows:\n-Increase student excitement 90%\n-Increase student achievement 95%\n-Increase student understanding of real-world connections 90%\n-are as effective as other tutors 85%\n-make differentiation easier\t80%\n\nEnCorps Fellows will agree that:\n-they are satisfied with the EnCorps Fellowship 90%\n-they are satisfied with overall support 95%"
-project_proposal_help: '["Money ","Volunteers","Advisors/board members","Publicity/awareness"]'
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline"]

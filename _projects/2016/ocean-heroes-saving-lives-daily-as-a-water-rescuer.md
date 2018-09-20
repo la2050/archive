@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9852179754741-team91.jpg
 project_video: 'https://www.youtube.com/embed/3HIz022aUd4?rel=0&amp;showinfo=0'
-project_description: >-
-  Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
-  during the summer at two open water locations within the City. Taught by
-  certified lifeguards, our Program is competitive and rigorous providing
-  instruction in physical conditioning, competition skills and the use of
-  professional lifesaving equipment. Our Program is designed to educate and
-  impassion youth to appreciate and respect the marine environment and introduce
-  youth to a potential career choice in water safety.
+project_summary: >-
+  Open Water Junior Lifeguard Program provides professional lifeguard
+  instruction to youth in water safety and physical conditioning as an
+  introduction to a potential career choice as water rescuers.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -53,6 +49,14 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  Geared for youth ages 9-17, the Open Water Junior Lifeguard Program operates
+  during the summer at two open water locations within the City. Taught by
+  certified lifeguards, our Program is competitive and rigorous providing
+  instruction in physical conditioning, competition skills and the use of
+  professional lifesaving equipment. Our Program is designed to educate and
+  impassion youth to appreciate and respect the marine environment and introduce
+  youth to a potential career choice in water safety.
 project_impact: >-
   ["Access to open space and park facilities","Attendance at major league
   sporting events","Number (and quality) of informal spaces for play","Number of

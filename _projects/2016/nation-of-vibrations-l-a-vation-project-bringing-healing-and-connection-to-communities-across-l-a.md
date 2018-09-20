@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4762549545741-team90.jpg
 project_video: 'https://www.youtube.com/embed/jzZRGNGG5LA?rel=0&amp;showinfo=0'
-project_description: >-
-  The L.A.vation project will CONNECT communities (including schools,
-  businesses, activist organizations, non-profits, and other spaces) by
-  organizing and facilitating different events and gatherings uniquely tailored
-  to the community being served. The project creates unifying events designed
-  for people to join together to heal and elevate their minds, bodies and
-  spirits, while also promoting empowerment, engagement, and positive action
-  within and between communities.
+project_summary: >-
+  The L.A.vation Project brings healing circles, and other group-centered events
+  to diverse schools, organizations, and communities throughout LA to encourage
+  inspiration, engagement, and change.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -70,6 +66,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The L.A.vation project will CONNECT communities (including schools,
+  businesses, activist organizations, non-profits, and other spaces) by
+  organizing and facilitating different events and gatherings uniquely tailored
+  to the community being served. The project creates unifying events designed
+  for people to join together to heal and elevate their minds, bodies and
+  spirits, while also promoting empowerment, engagement, and positive action
+  within and between communities.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media

@@ -17,11 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5745794855741-team90.jpg
 project_video: ''
-project_description: >-
-  Our proposal looks to increase LA's civic engagement through building
-  relationships with community partners, organizations, and elected officials,
-  implementing community education and outreach strategies, and creating change
-  in local politics.
+project_summary: >-
+  California Partnership seeks to connect community groups, organizations, and
+  elected officials to build our community's civic power and enact political and
+  social change.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -78,6 +77,11 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Our proposal looks to increase LA's civic engagement through building
+  relationships with community partners, organizations, and elected officials,
+  implementing community education and outreach strategies, and creating change
+  in local politics.
 project_impact: '["Government responsiveness to residents’ needs"]'
 project_proposal_best_place: >-
   California Partnership’s (CAP) goal, as a statewide economic justice

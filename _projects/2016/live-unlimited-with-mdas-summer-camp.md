@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7522135096741-team90.jpg
 project_video: ''
-project_description: >-
-  Kids with muscular dystrophy, spinal muscular atrophy and related
-  life-threatening diseases face daily challenges that often make “just being a
-  kid” difficult. MDA Summer Camp gives kids ages 6-17 the freedom to be kids
-  with others who are just like them during a life-changing week of fun and
-  friendship. Through the magic of summer camp, MDA offers a world of
-  possibilities to campers — from swimming and horseback riding to zip-lining,
-  adaptive sports and camp dances.
+project_summary: >-
+  MDA Summer Camp provides kids with muscular dystrophy and related diseases an
+  opportunity for 'the best week of the year,' where kids are living beyond
+  limits in a place where anything is possible!
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -61,6 +57,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Kids with muscular dystrophy, spinal muscular atrophy and related
+  life-threatening diseases face daily challenges that often make “just being a
+  kid” difficult. MDA Summer Camp gives kids ages 6-17 the freedom to be kids
+  with others who are just like them during a life-changing week of fun and
+  friendship. Through the magic of summer camp, MDA offers a world of
+  possibilities to campers — from swimming and horseback riding to zip-lining,
+  adaptive sports and camp dances.
 project_impact: >-
   ["Healthcare access","Residents receiving coordinated healthcare
   services","Prevalence of adverse childhood experiences"]

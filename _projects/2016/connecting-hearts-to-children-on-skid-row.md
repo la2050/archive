@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6126977535741-team91.png
 project_video: 'https://www.youtube.com/embed/auo58FNeynU?rel=0&amp;showinfo=0'
-project_description: >-
-  The number of children in LA experiencing homelessness has increased. Worthy
-  of Loves reaches to lift their souls and spirits by celebrating their
-  birthdays. We have witnessed the happiness given to hundreds of children and
-  their families while attending a Worthy of Love birthday party and are
-  compelled to expand the parties to additional locations.
+project_summary: >-
+  Worthy of Love will continue hosting birthday parties for children living at
+  the Union Rescue Mission and branch out to host parties at other homeless
+  shelters throughout Los Angeles.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas: '["Central LA","San Fernando Valley","Westside"]'
@@ -41,6 +39,12 @@ project_proposal_help: >-
   ["Money ","Volunteers","Advisors/board
   members","Publicity/awareness","Community outreach ","Network/relationship
   support"]
+project_description: >-
+  The number of children in LA experiencing homelessness has increased. Worthy
+  of Loves reaches to lift their souls and spirits by celebrating their
+  birthdays. We have witnessed the happiness given to hundreds of children and
+  their families while attending a Worthy of Love birthday party and are
+  compelled to expand the parties to additional locations.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]

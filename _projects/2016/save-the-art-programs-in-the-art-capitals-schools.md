@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2236943265741-team89.jpg
 project_video: ''
-project_description: >-
-  In the same city celebrated as the epicenter for film and music — where a
-  gilded entertainment industry churns and draws talent from around the world —
-  a vast majority of schools don't have adequate arts programs.' (LA Times) This
-  grant will ensure the students at three local elementary schools experience
-  the joy of creative movement, photography or visual arts workshops provided
-  free of charge by the Hollywood Arts Council. We will also be able to expand
-  this program in other schools.
+project_summary: >-
+  As an art capital of the world, Hollywood needs and deserves more art programs
+  for the children in its LAUSD schools.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Cheremoya Elementary, Grant Elementary, and Melrose Elementary'
 project_areas:
@@ -32,6 +27,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Publicity/awareness
+project_description: >-
+  In the same city celebrated as the epicenter for film and music — where a
+  gilded entertainment industry churns and draws talent from around the world —
+  a vast majority of schools don't have adequate arts programs.' (LA Times) This
+  grant will ensure the students at three local elementary schools experience
+  the joy of creative movement, photography or visual arts workshops provided
+  free of charge by the Hollywood Arts Council. We will also be able to expand
+  this program in other schools.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Early education","Students’ perceived sense of safety at and on the

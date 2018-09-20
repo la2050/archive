@@ -14,13 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3092492065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/31Cl_cWYbgY?rel=0&amp;showinfo=0'
-project_description: >-
-  Four Rings is a lifestyle brand dedicated to individual and collective growth
-  through fitness, health, entertainment, and community.  Our Vision is to
-  provide a premier space for vibrant and eclectic individuals to be galvanized
-  by the realization of our human potential.  The ChallengeLA2050 grant will
-  directly contribute to the vision of the company through funding for a 35,000
-  sq. ft. LA facility to house our growing community.
+project_summary: >-
+  Four Rings is building a facility to house our vibrant and eclectic community
+  centered around our four pillars: fitness, health, entertainment, and
+  community.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Southern California United - SC United Men's Gymnastics is a unique program
@@ -62,6 +59,13 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Four Rings is a lifestyle brand dedicated to individual and collective growth
+  through fitness, health, entertainment, and community.  Our Vision is to
+  provide a premier space for vibrant and eclectic individuals to be galvanized
+  by the realization of our human potential.  The ChallengeLA2050 grant will
+  directly contribute to the vision of the company through funding for a 35,000
+  sq. ft. LA facility to house our growing community.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft

@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6737289065741-team89.jpeg
 project_video: 'https://www.youtube.com/embed/nIjlAQbq7q4?rel=0&amp;showinfo=0'
-project_description: >-
-  Based on the nationally recognized NAMI Family-to-Family program, NAMI
-  Homefront is designed to address the unique needs of family, caregivers and
-  friends of those who have served or are currently serving our country. The
-  program is taught by trained family members of service members/veterans living
-  with mental health conditions.  The program will also recruit, train, & place
-  trained individuals in their communities to further expand outreach and
-  education efforts.
+project_summary: >-
+  NAMI Homefront is a free, 6-session educational program for families,
+  caregivers and friends of military service members and vets with mental health
+  conditions.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   VA Greater Los Angeles Healthcare System, Los Angeles County Department of
@@ -54,6 +50,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Based on the nationally recognized NAMI Family-to-Family program, NAMI
+  Homefront is designed to address the unique needs of family, caregivers and
+  friends of those who have served or are currently serving our country. The
+  program is taught by trained family members of service members/veterans living
+  with mental health conditions.  The program will also recruit, train, & place
+  trained individuals in their communities to further expand outreach and
+  education efforts.
 project_impact: >-
   ["Access to healthy food","Housing affordability","Healthcare
   access","Self-sufficiency","Residents receiving coordinated healthcare

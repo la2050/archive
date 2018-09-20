@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3933038065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/1lv9lN3FZUw?rel=0&amp;showinfo=0'
-project_description: >-
-  Working in partnership with LAUSD and Mia Lehrer + Associates, the National
-  Wildlife Federation's California team will provide seed funding, expertise and
-  curriculum to 1 school in each of the 6 LAUSD districts to transform their
-  current grounds into a urban wildlife habitat.  This space will support a
-  healthy ecosystem for the community by increasing habitat for native animals
-  like butterflies, bees, birds and also provide a living laboratory that
-  enhances STEM learning for students in the city
+project_summary: >-
+  Transforming LA schoolyards into critical habitat so wildlife, students and
+  the whole community can thrive
 project_is_collaboration: 'Yes'
 project_collaborators: 'Los Angeles Unified School District, Mia Lehrer + Associates'
 project_areas:
@@ -55,6 +50,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Working in partnership with LAUSD and Mia Lehrer + Associates, the National
+  Wildlife Federation's California team will provide seed funding, expertise and
+  curriculum to 1 school in each of the 6 LAUSD districts to transform their
+  current grounds into a urban wildlife habitat.  This space will support a
+  healthy ecosystem for the community by increasing habitat for native animals
+  like butterflies, bees, birds and also provide a living laboratory that
+  enhances STEM learning for students in the city
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities","Prevalence of adverse childhood

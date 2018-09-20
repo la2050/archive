@@ -12,18 +12,7 @@ organization_activity: Plantaware helps people grow food at home.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9685194155741-team91.png
 project_video: 'https://www.youtube.com/embed/Mze22CqlIlE?rel=0&amp;showinfo=0'
-project_description: >-
-  Plantaware will support the growth of fresh local food, beautify life with
-  living plants, and provide better connection to the urban environment we live
-  in. 
-
-
-  We’ll make LA a garden of food and beauty,  while offering Angelenos
-  personalized knowledge and tools to grow plants, any plants, successfully. 
-
-
-  Our community will provide a place to connect, get location specific and
-  obtain specific instructions related to any crop of interest.
+project_summary: Plantaware helps people grow food at home
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -85,6 +74,18 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - n/a
+project_description: >-
+  Plantaware will support the growth of fresh local food, beautify life with
+  living plants, and provide better connection to the urban environment we live
+  in. 
+
+
+  We’ll make LA a garden of food and beauty,  while offering Angelenos
+  personalized knowledge and tools to grow plants, any plants, successfully. 
+
+
+  Our community will provide a place to connect, get location specific and
+  obtain specific instructions related to any crop of interest.
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Resilient communities","Tree
   canopy cover"]

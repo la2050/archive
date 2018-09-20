@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4037609065741-team91.png
 project_video: 'https://www.youtube.com/embed/0kAkWtDm2X0?rel=0&amp;showinfo=0'
-project_description: >-
-  At LIFT-Los Angeles and One Degree, we know that poverty is complex but
-  believe that getting help does not have to be. We are combining our respective
-  strengths to provide historically marginalized communities with supports to
-  address short- and long-term needs and goals. Both in-person and via an online
-  tool, LIFT and One Degree are working hand-in-hand with families on their
-  journeys out of poverty.
+project_summary: >-
+  LIFT-Los Angeles and One Degree, two nonprofits dedicated to breaking the
+  cycle of poverty, are leveraging technology to put wraparound supports
+  directly in the hands of families.
 project_is_collaboration: 'Yes'
 project_collaborators: 'LIFT, Inc. (a.k.a LIFT-Los Angeles) and One Degree (www.1deg.org)'
 project_areas:
@@ -57,6 +54,13 @@ project_proposal_help:
   - Publicity/awareness
   - Technical infrastructure (computers
   - Community outreach
+project_description: >-
+  At LIFT-Los Angeles and One Degree, we know that poverty is complex but
+  believe that getting help does not have to be. We are combining our respective
+  strengths to provide historically marginalized communities with supports to
+  address short- and long-term needs and goals. Both in-person and via an online
+  tool, LIFT and One Degree are working hand-in-hand with families on their
+  journeys out of poverty.
 project_impact: >-
   ["Access to healthy food","Healthcare access","Self-sufficiency","Resilient
   communities","Prevalence of adverse childhood experiences","Homelessness"]

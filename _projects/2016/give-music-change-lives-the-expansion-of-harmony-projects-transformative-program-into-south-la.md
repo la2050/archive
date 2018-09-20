@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4845089986741-team90.JPG
 project_video: 'https://www.youtube.com/embed/Kep3gB10R3I?rel=0&amp;showinfo=0'
-project_description: >-
-  Our South LA programs will engage a minimum of 1,000 youth across the next 3
-  years within our transformative program. Students enroll in the closest
-  program site to their home and are provided an instrument, rigorous music
-  instruction (5 hr/wk), ensemble participation, community performances,
-  positive adult and peer mentors, family and social support services, field
-  trips, and a robust college prep program. We set high expectations and support
-  children with the resources needed to thrive.
+project_summary: >-
+  Harmony Project will expand our proven, comprehensive afterschool music
+  program in South LA that promotes life skills development and supports
+  students through timely graduation and into college.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Our South LA programs run in partnership with the Sheriff’s Foundation Youth
@@ -83,6 +79,14 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Technical infrastructure (computers etc.)
+project_description: >-
+  Our South LA programs will engage a minimum of 1,000 youth across the next 3
+  years within our transformative program. Students enroll in the closest
+  program site to their home and are provided an instrument, rigorous music
+  instruction (5 hr/wk), ensemble participation, community performances,
+  positive adult and peer mentors, family and social support services, field
+  trips, and a robust college prep program. We set high expectations and support
+  children with the resources needed to thrive.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Truancy rates in elementary and middle

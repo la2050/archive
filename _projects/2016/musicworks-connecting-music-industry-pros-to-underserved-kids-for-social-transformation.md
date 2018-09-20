@@ -17,14 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1369152355741-team90.png
 project_video: 'https://www.youtube.com/embed/rDnYXMVy1xo?rel=0&amp;showinfo=0'
-project_description: >-
-  To leverage our prime location in the capital of the entertainment and music
-  industries, L.A. Works has launched MusicWorks to harness the excitement
-  garnered by music-industry professionals in order to significantly increase
-  volunteerism in L.A.. This project will make L.A. the “best place to connect”
-  by bringing together music industry pros with after-school music programs to
-  excite youth participants; inspire a new cadre of skilled-volunteers; and
-  raise the profiles of the programs served.
+project_summary: >-
+  MusicWorks mobilizes music industry professionals to volunteer with
+  after-school music programs as a tool for social transformation.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -71,6 +66,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  To leverage our prime location in the capital of the entertainment and music
+  industries, L.A. Works has launched MusicWorks to harness the excitement
+  garnered by music-industry professionals in order to significantly increase
+  volunteerism in L.A.. This project will make L.A. the “best place to connect”
+  by bringing together music industry pros with after-school music programs to
+  excite youth participants; inspire a new cadre of skilled-volunteers; and
+  raise the profiles of the programs served.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Residential
   segregation","Total number of local social media friends and connections

@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2540983165741-team91.png
 project_video: 'https://www.youtube.com/embed/xJxjON6kbbU?rel=0&amp;showinfo=0'
-project_description: >-
-  Over the last 10 years, LA neighborhoods have undergone unprecedented change.
-  Expanding public transit options and the blossoming of dynamic art centers,
-  have transformed neighborhoods that once had limited desirability into
-  attractive places to live and work. LA LISC seeks to empower four culturally
-  diverse neighborhoods to negotiate the change process and develop a robust
-  approach for leveraging culture as a tool for promoting sustainable
-  neighborhood identities and economic development.
+project_summary: >-
+  Preserving LA’s diverse commercial hubs will support cultural entrepreneurship
+  and the creation of jobs to ensure a sustainable future for LA's creative
+  communities.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Coalition for Responsible Community Development; Little Tokyo Service Center;
@@ -63,6 +59,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Over the last 10 years, LA neighborhoods have undergone unprecedented change.
+  Expanding public transit options and the blossoming of dynamic art centers,
+  have transformed neighborhoods that once had limited desirability into
+  attractive places to live and work. LA LISC seeks to empower four culturally
+  diverse neighborhoods to negotiate the change process and develop a robust
+  approach for leveraging culture as a tool for promoting sustainable
+  neighborhood identities and economic development.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and

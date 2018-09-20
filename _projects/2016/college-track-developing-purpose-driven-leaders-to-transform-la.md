@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4013598065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/3R34MzY6_dM?rel=0&amp;showinfo=0'
-project_description: >-
-  College Track’s Dream LA project will transform high school students from
-  Boyle Heights and Watts into leaders of change by helping them identify their
-  dreams, turn their passions into actions, and make a positive impact in the LA
-  community. Purpose-driven service projects will allow students to explore
-  leadership, activism, community development and entrepreneurship – creating
-  networks and developing interests that propel them through college and beyond.
+project_summary: >-
+  College Track’s Dream LA project empowers students from Boyle Heights and
+  Watts to identify their dreams and passions, and connect those interests in
+  meaningful service to the LA community.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -58,6 +55,13 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  College Track’s Dream LA project will transform high school students from
+  Boyle Heights and Watts into leaders of change by helping them identify their
+  dreams, turn their passions into actions, and make a positive impact in the LA
+  community. Purpose-driven service projects will allow students to explore
+  leadership, activism, community development and entrepreneurship – creating
+  networks and developing interests that propel them through college and beyond.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Student education

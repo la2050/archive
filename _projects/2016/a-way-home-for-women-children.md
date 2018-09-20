@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5004868715741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dtKGgHD0VHE?rel=0&amp;showinfo=0'
-project_description: >-
-  As part this Grants Challenge, Union Rescue Mission will help 15 mothers and
-  their children get into permanent housing over the next year. The project
-  connects women and children experiencing homelessness with food, supportive
-  services and a healthy place to LIVE. It engages and connects caring citizens
-  and local communities with opportunities for service. And it gives all of us
-  the chance to work together to transform Los Angeles into a place where
-  everyone deserves to thrive.
+project_summary: >-
+  Help us provide a way home for women and children experiencing homelessness on
+  the streets of Los Angeles.
 project_is_collaboration: 'No'
 project_collaborators: >-
   URM collaborates with numerous social service, health and community-based
@@ -47,6 +42,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Education/training '
   - Network/relationship support
+project_description: >-
+  As part this Grants Challenge, Union Rescue Mission will help 15 mothers and
+  their children get into permanent housing over the next year. The project
+  connects women and children experiencing homelessness with food, supportive
+  services and a healthy place to LIVE. It engages and connects caring citizens
+  and local communities with opportunities for service. And it gives all of us
+  the chance to work together to transform Los Angeles into a place where
+  everyone deserves to thrive.
 project_impact: >-
   ["Access to healthy food","Housing affordability","Healthcare
   access","Self-sufficiency","Resilient communities","Residents receiving

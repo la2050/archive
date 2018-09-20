@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6154785996741-team91.jpg
 project_video: 'https://www.youtube.com/embed/pMW7_cxOs1s?rel=0&amp;showinfo=0'
-project_description: >-
-  Because caregivers face a 63% increase in illness and death, represent 62% of
-  all bankruptcies, and lose 25% productivity at work, Here to Serve CONNECTS
-  and organizes people, businesses and other charities with families in crisis
-  to provide non-medical assistance. Here to Serve stands in the gap to provide
-  communication and assistance with critical needs: meals, child, pet home care,
-  respite, housekeeping, fundraising, and medical updates to avoid physical
-  collapse of family and caregiver.
+project_summary: >-
+  We believe families with a critically-ill child not risk their job, health, or
+  finances to care for their child. We identify, connect & mobilize support
+  bringing relief to families in medical crisis.
 project_is_collaboration: 'No'
 project_collaborators: >-
   We collaborate with Children's Hospital Los Angeles and UCLA Mattel Children's
@@ -81,6 +77,14 @@ project_proposal_help:
   - Publicity/awareness
   - Technical infrastructure (computers etc.)
   - Network/relationship support
+project_description: >-
+  Because caregivers face a 63% increase in illness and death, represent 62% of
+  all bankruptcies, and lose 25% productivity at work, Here to Serve CONNECTS
+  and organizes people, businesses and other charities with families in crisis
+  to provide non-medical assistance. Here to Serve stands in the gap to provide
+  communication and assistance with critical needs: meals, child, pet home care,
+  respite, housekeeping, fundraising, and medical updates to avoid physical
+  collapse of family and caregiver.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]

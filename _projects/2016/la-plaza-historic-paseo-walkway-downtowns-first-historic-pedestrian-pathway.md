@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6510837105741-team89.jpg
 project_video: 'https://www.youtube.com/embed/KlbjX6GafyI?rel=0&amp;showinfo=0'
-project_description: >-
-  The Historic Paseo Walkway is the City’s first pedestrian pathway exploring
-  and celebrating the rich, multicultural history of L.A.  The pathway will
-  include a mural, historical markers and monuments, street pavings, and other
-  artistic interpretive elements leading visitors on a historic journey through
-  Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
-  a new gathering place for Angelenos and visitors to explore, experience and
-  appreciate the city’s historical roots.
+project_summary: >-
+  The Historic Paseo Walkway creates a new gathering place in downtown that
+  celebrates the city’s past by connecting the oldest historical sites and
+  museums from Ft. Moore to Union Station.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Los Angeles Conservancy, Our Lady Queen of Angels Church, El Pueblo Historic
@@ -59,6 +55,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Historic Paseo Walkway is the City’s first pedestrian pathway exploring
+  and celebrating the rich, multicultural history of L.A.  The pathway will
+  include a mural, historical markers and monuments, street pavings, and other
+  artistic interpretive elements leading visitors on a historic journey through
+  Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
+  a new gathering place for Angelenos and visitors to explore, experience and
+  appreciate the city’s historical roots.
 project_impact: >-
   ["Cultural events","Public/open streets gatherings","Public transit
   riders","Transit-accessible housing and employment (the share of housing units

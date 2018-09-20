@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3678478165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30?rel=0&amp;showinfo=0'
-project_description: >-
-  The founding concept of CoachArt was to create an Ebay-like marketplace for
-  students with chronic illness to be matched with volunteer coaches. The
-  CoachArt Matching Platform will bring this concept to life by implementing a
-  technological solution to our current volunteer program. We intend to move our
-  entire process of engaging, training, and on-boarding volunteers online to
-  reduce excessive overhead and time needed to prepare them to be matched with a
-  student.
+project_summary: >-
+  Through technology and innovation, the CoachArt Matching Platform will
+  revolutionize the process of matching potential volunteers with students
+  impacted by chronic illness, from a month to days.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -61,6 +57,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The founding concept of CoachArt was to create an Ebay-like marketplace for
+  students with chronic illness to be matched with volunteer coaches. The
+  CoachArt Matching Platform will bring this concept to life by implementing a
+  technological solution to our current volunteer program. We intend to move our
+  entire process of engaging, training, and on-boarding volunteers online to
+  reduce excessive overhead and time needed to prepare them to be matched with a
+  student.
 project_impact: '["Rates of volunteerism"]'
 project_proposal_best_place: >-
   Los Angeles is booming. From the re-emergence of a thriving downtown to having

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7962246194741-team91.JPG
 project_video: 'https://www.youtube.com/embed/4V4Ke8wtZgg?rel=0&amp;showinfo=0'
-project_description: >-
-  Through this project, Richstone will help address our community's escalating
-  child abuse crisis by creating an integrated program that expands Richstone's
-  trauma treatment programs and launches new wellness programs designed to help
-  alleviate the risk factors for future abuse. These new offerings include
-  trauma-focused wellness programs that concentrate on mitigating the long term
-  effects of abuse, and a number of prevention programs to educate the
-  community.
+project_summary: >-
+  Provide healing and hope for victims of child abuse and family violence by
+  supporting Richstone's trauma-focused treatment, wellness, and violence
+  prevention program.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Growing Great, Kinecta Federal Credit Union, Bay Club Athletic Gyms, Level 10
@@ -64,6 +60,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Through this project, Richstone will help address our community's escalating
+  child abuse crisis by creating an integrated program that expands Richstone's
+  trauma treatment programs and launches new wellness programs designed to help
+  alleviate the risk factors for future abuse. These new offerings include
+  trauma-focused wellness programs that concentrate on mitigating the long term
+  effects of abuse, and a number of prevention programs to educate the
+  community.
 project_impact: >-
   ["Access to healthy food","Healthcare
   access","Self-sufficiency","Obesity","Resilient communities","Residents

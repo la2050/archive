@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6052198655741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/ozDtyhaXTtI?rel=0&amp;showinfo=0'
-project_description: >-
-  One of the biggest problems every city faces is an inability to effectively
-  collaborate all the local research and effort in a sustainable way. The goal
-  of our project is to unify all of the thinkers, doers and research from local
-  universities, orgs and businesses into one hub that surfaces the best ideas,
-  campaigns, research & innovation. The result is a living convergence of local
-  effort & research that allows everyone to keep their finger on the pulse of
-  local emerging ideas & collaborations.
+project_summary: >-
+  Unify research and ideas from LA universities, orgs and local businesses to
+  effectively and sustainably coverage ideas, research and effort around local
+  problems & innovation.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Global Action Platform an international university-business alliance to
@@ -48,6 +44,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  One of the biggest problems every city faces is an inability to effectively
+  collaborate all the local research and effort in a sustainable way. The goal
+  of our project is to unify all of the thinkers, doers and research from local
+  universities, orgs and businesses into one hub that surfaces the best ideas,
+  campaigns, research & innovation. The result is a living convergence of local
+  effort & research that allows everyone to keep their finger on the pulse of
+  local emerging ideas & collaborations.
 project_impact: >-
   ["College completion","Student education pipeline","Youth unemployment and
   underemployment"]

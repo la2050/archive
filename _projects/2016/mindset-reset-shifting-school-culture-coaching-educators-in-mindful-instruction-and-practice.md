@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5938228555741-team91.png
 project_video: 'https://www.youtube.com/embed/0xgcqCC9nTM?rel=0&amp;showinfo=0'
-project_description: >-
-  A 10 month Pilot of coaching services in 3 LA schools to connect educators
-  with effective instruction, mindful learning, and a more dynamic school
-  culture based on existing vision. Schools start where they are in
-  implementation of best practice and mindful learning and collaborate with
-  Pedagogics to refine strategies and explore tools that address challenges and
-  issues unique to each site. Ongoing learning and development is facilitated by
-  a PLN to shift education towards a more mindful LA.
+project_summary: >-
+  A 10 month pilot includes: a 6 week individualized instructional coaching
+  program for 3 schools; a unique platform for educator community to refine
+  expertise; and empowering shift to mindful practice.
 project_is_collaboration: 'Yes'
 project_collaborators: Vignettes Learning
 project_areas:
@@ -60,6 +56,14 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - Social Media Strategies
+project_description: >-
+  A 10 month Pilot of coaching services in 3 LA schools to connect educators
+  with effective instruction, mindful learning, and a more dynamic school
+  culture based on existing vision. Schools start where they are in
+  implementation of best practice and mindful learning and collaborate with
+  Pedagogics to refine strategies and explore tools that address challenges and
+  issues unique to each site. Ongoing learning and development is facilitated by
+  a PLN to shift education towards a more mindful LA.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   “Are we preparing kids minds for a life of tests or the test of life?” Arthur

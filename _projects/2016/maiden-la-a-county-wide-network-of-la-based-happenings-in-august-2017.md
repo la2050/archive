@@ -14,12 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5228131725741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Qy7qio56M78?rel=0&amp;showinfo=0'
-project_description: >-
-  After a successful pilot program, for the 2nd iteration, Maiden LA will put
-  out an open call to LA-based artists to host an event during the month of
-  August 2017. In expanding outreach and participation, Maiden LA will continue
-  to connect artists and collectives while representing LA County as a vibrant
-  and extensive art community.
+project_summary: >-
+  Maiden LA is an inclusive and expansive county-wide survey of art happenings
+  that in encouraging the use of alternative spaces, considers the city as a
+  platform for generative discourse and exchange.
 project_is_collaboration: 'Yes'
 project_collaborators: none
 project_areas:
@@ -69,6 +67,12 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  After a successful pilot program, for the 2nd iteration, Maiden LA will put
+  out an open call to LA-based artists to host an event during the month of
+  August 2017. In expanding outreach and participation, Maiden LA will continue
+  to connect artists and collectives while representing LA County as a vibrant
+  and extensive art community.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Minority- and
   women-owned firms","Percentage of graduates from local higher education

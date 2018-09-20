@@ -15,11 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7012460625741-team89.jpg
 project_video: 'https://www.youtube.com/embed/iDCnFxfgu1o?rel=0&amp;showinfo=0'
-project_description: >-
-  Camino Nuevo Charter Academy, will expand upon our Camino Through College
-  (CTC) program, which focuses on preparing students for success through
-  exposure to different colleges and careers, skill-building, parent engagement,
-  and support throughout the college-application process, enrollment and beyond.
+project_summary: >-
+  Camino Nuevo Charter Academy will expand upon Camino to College, our existing
+  college access and alumni support program. The focus of the program is getting
+  more students to and through college.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -59,6 +58,11 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers etc.)
   - Quality improvement research
+project_description: >-
+  Camino Nuevo Charter Academy, will expand upon our Camino Through College
+  (CTC) program, which focuses on preparing students for success through
+  exposure to different colleges and careers, skill-building, parent engagement,
+  and support throughout the college-application process, enrollment and beyond.
 project_impact: '["College completion","College matriculation rates"]'
 project_proposal_best_place: >-
   Camino Through College (CTC) will help make LA the best place to learn by

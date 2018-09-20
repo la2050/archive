@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4990464255741-team89.JPG
 project_video: 'https://www.youtube.com/embed/sGB-wEyY8Ic?rel=0&amp;showinfo=0'
-project_description: >-
-  Inspired by interviews with the Los Angeles college community, The LadyParts
-  Collective is writing an original play about consent, rape culture, and sexual
-  violence on Los Angeles college campuses.  The play will be offered to local
-  colleges as a tool for sparking a productive conversation about sexual
-  violence, brainstorming actionable solutions, and enacting specific changes. 
-  We plan to work with colleges to personalize the play to their specific campus
-  needs.
+project_summary: >-
+  An all-female theater collective creates an original, interview-inspired play
+  that sparks change-activating dialogue about consent, rape culture and sexual
+  violence on Los Angeles College Campuses
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   At our current stage, we are collaborating as individuals and cultivating
@@ -57,6 +53,14 @@ project_proposal_help:
   - Publicity/awareness
   - Infrastructure (building/space/vehicles etc.)
   - Community outreach
+project_description: >-
+  Inspired by interviews with the Los Angeles college community, The LadyParts
+  Collective is writing an original play about consent, rape culture, and sexual
+  violence on Los Angeles college campuses.  The play will be offered to local
+  colleges as a tool for sparking a productive conversation about sexual
+  violence, brainstorming actionable solutions, and enacting specific changes. 
+  We plan to work with colleges to personalize the play to their specific campus
+  needs.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft

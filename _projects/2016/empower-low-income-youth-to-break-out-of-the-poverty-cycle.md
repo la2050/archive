@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4435758065741-team91.png
 project_video: ''
-project_description: >-
-  We believe that every child deserves exposure to life skills education and
-  connection with local business professionals. Our mission is to help at risk
-  and disadvantaged youth break out of the poverty cycle. We currently serve
-  about 400 students in 16 LA-area high schools and have approximately 25 Field
-  Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
-  schools on our waiting list and we would like to expand to support more
-  schools and students.
+project_summary: >-
+  Connect at risk and disadvantaged youth to life skills, local professionals,
+  and businesses.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Alliance Patti & Peter Neuwirth Leadership Academy, Animo Pat Brown HS, Animo
@@ -74,6 +69,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  We believe that every child deserves exposure to life skills education and
+  connection with local business professionals. Our mission is to help at risk
+  and disadvantaged youth break out of the poverty cycle. We currently serve
+  about 400 students in 16 LA-area high schools and have approximately 25 Field
+  Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
+  schools on our waiting list and we would like to expand to support more
+  schools and students.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Student education

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3219654155741-team90.JPG
 project_video: 'https://www.youtube.com/embed/LW-vMpFhnl8?rel=0&amp;showinfo=0'
-project_description: >-
-  Save Spaces for Healthy Places prepares residents to use their influential
-  voices to ensure policies and land-use plans reflect the actual needs of their
-  community by: 1) learning about the community planning process and how it can
-  be influenced; 2) learning to frame their message so their voices can matter;
-  3) understanding the linkage between lack of community resources and health;
-  and 4) connecting them to civic engagement through their Neighborhood Councils
-  and other pathways to activism.
+project_summary: >-
+  Save Spaces for Healthy Places provides the training, knowledge and ongoing
+  opportunity for South LA residents to find and project their powerful voices
+  so that community change can become a reality.
 project_is_collaboration: 'No'
 project_collaborators: >-
   This project aims to engage Neighborhood Council partners at the onset of the
@@ -76,6 +72,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Save Spaces for Healthy Places prepares residents to use their influential
+  voices to ensure policies and land-use plans reflect the actual needs of their
+  community by: 1) learning about the community planning process and how it can
+  be influenced; 2) learning to frame their message so their voices can matter;
+  3) understanding the linkage between lack of community resources and health;
+  and 4) connecting them to civic engagement through their Neighborhood Councils
+  and other pathways to activism.
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Rates of volunteerism"]

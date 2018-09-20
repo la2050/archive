@@ -14,16 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5735922065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/RiRRvkOFhpY?rel=0&amp;showinfo=0'
-project_description: >-
-  LA isn't yet in love with the bicycle. Education (what bike, how to get there,
-  who else is riding?) is the actual #1 barrier to getting more people riding -
-  which helps address the #1 perceived barrier - safety. 
-
-
-  By creating a 'Disneyland' of bicycles (road mountain, city, e_bikes, family
-  bikes) making it easy to learn, play and connect we can jump start a new
-  excitement for bikes and get more people riding to work/school, connecting to
-  METRO and enjoying how great LA is for biking.
+project_summary: >-
+  Play with bikes, make friends, connect to local resources + inspire bicycle
+  riding in Los Angeles!
 project_is_collaboration: 'No'
 project_collaborators: >-
   None - We have repeatedly reached out to other nonprofits (MCM, LACBC, ERBC,
@@ -60,6 +53,16 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  LA isn't yet in love with the bicycle. Education (what bike, how to get there,
+  who else is riding?) is the actual #1 barrier to getting more people riding -
+  which helps address the #1 perceived barrier - safety. 
+
+
+  By creating a 'Disneyland' of bicycles (road mountain, city, e_bikes, family
+  bikes) making it easy to learn, play and connect we can jump start a new
+  excitement for bikes and get more people riding to work/school, connecting to
+  METRO and enjoying how great LA is for biking.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool

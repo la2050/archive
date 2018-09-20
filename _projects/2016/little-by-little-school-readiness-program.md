@@ -14,17 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6004983715741-team91.jpg
 project_video: 'http://www.lblreaders.org/videos/LittleByLittle.webm?rel=0&amp;showinfo=0'
-project_description: >-
-  The LBL Public Policy Consultant has the primary responsibility for educating
-  decision makers about LBL with a focus on:
-
-  •providing expert and strategic guidance about how best to educate and inform
-  public officials about the importance of early literacy education and LBL;
-
-  •closely tracking  how all public dollars are being allocated around early
-  literacy (0-5) efforts and advising LBL about best strategies for pursuing
-  such funding;&  
-   positioning LBL as a national expert in early education.
+project_summary: >-
+  Administered through the WIC program, Little by Little is an evidence-based
+  early (ages 0 to 5) literacy program that significantly improves school
+  readiness for low-income children in Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1) The Special Supplemental Nutrition Program for Women, Infants, and Children
@@ -54,6 +47,17 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The LBL Public Policy Consultant has the primary responsibility for educating
+  decision makers about LBL with a focus on:
+
+  •providing expert and strategic guidance about how best to educate and inform
+  public officials about the importance of early literacy education and LBL;
+
+  •closely tracking  how all public dollars are being allocated around early
+  literacy (0-5) efforts and advising LBL about best strategies for pursuing
+  such funding;&  
+   positioning LBL as a national expert in early education.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Early education","Student education pipeline","Suspension and

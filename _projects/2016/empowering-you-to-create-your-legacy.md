@@ -14,11 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6383208955741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/MPnJxlMhByQ?rel=0&amp;showinfo=0'
-project_description: >-
-  JAYA Legacy intends to create opportunities for artists to create, develop,
-  network, and showcase talent through the facilitation of professional
-  development workshops and the establishment of minority-owned business
-  ventures.
+project_summary: We support you and your community to achieve entrepreneurial endeavors.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -45,6 +41,11 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  JAYA Legacy intends to create opportunities for artists to create, develop,
+  network, and showcase talent through the facilitation of professional
+  development workshops and the establishment of minority-owned business
+  ventures.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Minority- and
   women-owned firms","High growth startups","Venture capital investment"]

@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6518565165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/N5d8kpPSzG4?rel=0&amp;showinfo=0'
-project_description: >-
-  L.A. Theatre Works has a treasure trove of 500+ plays recorded by
-  award-winning actors for the audio format. We want to build an online
-  infrastructure that will expand worldwide access to these Los Angeles-based
-  works, create new artistic opportunities via the online platform, and increase
-  public and student engagement with theatre – including models for LAUSD
-  students to create their own interactive educational technology based on our
-  new educational platform resources.
+project_summary: >-
+  LATW, the nation’s leading producer of audio theatre, seeks to expand the
+  reach of local productions across the globe and enable students to create
+  their own theatre-based educational apps.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   LATW is in conversations with two LAUSD schools which will partner on the
@@ -56,6 +52,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Publicity/awareness
+project_description: >-
+  L.A. Theatre Works has a treasure trove of 500+ plays recorded by
+  award-winning actors for the audio format. We want to build an online
+  infrastructure that will expand worldwide access to these Los Angeles-based
+  works, create new artistic opportunities via the online platform, and increase
+  public and student engagement with theatre – including models for LAUSD
+  students to create their own interactive educational technology based on our
+  new educational platform resources.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

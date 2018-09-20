@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8371696026741-team91.jpg
 project_video: 'https://www.youtube.com/embed/8nHQbGQ-t-E?rel=0&amp;showinfo=0'
-project_description: >-
-  There is no easy way to find and support women owned businesses (WOBs) in LA.
-  Equallet was built to fill this void by providing an online and mobile search
-  platform (think Yelp or Google) that connects consumers and investors with
-  LA-based WOBs. In this way, we will contribute to small business growth, the
-  creation of new jobs for women and increased in investments into our
-  community.
+project_summary: >-
+  Equallet is a website and app that connect consumers, investors and
+  women-owned businesses to drive job creation, generate wealth and achieve
+  gender equality.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -66,6 +63,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  There is no easy way to find and support women owned businesses (WOBs) in LA.
+  Equallet was built to fill this void by providing an online and mobile search
+  platform (think Yelp or Google) that connects consumers and investors with
+  LA-based WOBs. In this way, we will contribute to small business growth, the
+  creation of new jobs for women and increased in investments into our
+  community.
 project_impact: >-
   ["Jobs per capita","Minority- and women-owned firms","Venture capital
   investment"]

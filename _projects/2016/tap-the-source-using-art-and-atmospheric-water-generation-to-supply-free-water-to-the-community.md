@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4076350854741-team90.jpg
 project_video: 'https://www.youtube.com/embed/d0EPG2F9qzk?rel=0&amp;showinfo=0'
-project_description: >-
-  Our goal is to use the prize money in order to help facilitate the creation of
-  urban wells in communities with limited or compromised water supply. We plan
-  to create an art installation surrounding the well in order to inspire the
-  community to learn about the issues we are facing in the current drought, and
-  how atmospheric water generation could be a possible solution. The art
-  installation could range from a billboard attracting people to the well or a
-  mural on the side of a building.
+project_summary: >-
+  Sky Source's mission is to install atmospheric water generators in communities
+  with low access to clean drinking water, incorporating artwork into the
+  installation, creating an urban drinking fountain
 project_is_collaboration: 'Yes'
 project_collaborators: Island Sky
 project_areas: '["South LA"]'
@@ -34,6 +30,14 @@ project_measure: >-
   that this installation inspires people of the community to ask questions, and
   become educated about the drought and the potential technological solutions.
 project_proposal_help: '["Money ","Publicity/awareness","Community outreach"]'
+project_description: >-
+  Our goal is to use the prize money in order to help facilitate the creation of
+  urban wells in communities with limited or compromised water supply. We plan
+  to create an art installation surrounding the well in order to inspire the
+  community to learn about the issues we are facing in the current drought, and
+  how atmospheric water generation could be a possible solution. The art
+  installation could range from a billboard attracting people to the well or a
+  mural on the side of a building.
 project_impact: '["Arts establishments","Manufacturing activity"]'
 project_proposal_best_place: >-
   SkySource will make LA the best place to create by facilitating community

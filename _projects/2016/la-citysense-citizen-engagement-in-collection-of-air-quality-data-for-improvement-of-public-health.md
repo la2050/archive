@@ -21,13 +21,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0478134165741-team90.png
 project_video: 'https://www.youtube.com/embed/BUNdHYAuc-o?rel=0&amp;showinfo=0'
-project_description: >-
-  LA CitySense proposes to couple air quality sensing kits to bikes, enabling
-  the citizens, to map as they ride recording the pollutant concentration in
-  different areas of the city. The goal is to engage the citizens in the process
-  of reading and documenting air pollution data which would not only increase
-  sensitivity towards the built environment but could trigger formulation of
-  locally informed urban policies.
+project_summary: >-
+  LA CitySense is a citizen engagement initiative for collection of air quality
+  data for the improvement of public health.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Visiting researcher from Princeton University, Civil and Environmental
@@ -73,6 +69,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - communication with the LA municipality
+project_description: >-
+  LA CitySense proposes to couple air quality sensing kits to bikes, enabling
+  the citizens, to map as they ride recording the pollutant concentration in
+  different areas of the city. The goal is to engage the citizens in the process
+  of reading and documenting air pollution data which would not only increase
+  sensitivity towards the built environment but could trigger formulation of
+  locally informed urban policies.
 project_impact: >-
   ["Exposure to air toxins","Resilient communities","Tree canopy
   cover","Walk/bike/transit score"]

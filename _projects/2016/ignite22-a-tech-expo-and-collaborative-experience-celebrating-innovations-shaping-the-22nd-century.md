@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1008153355741-team91.jpg
 project_video: 'https://www.youtube.com/embed/XLWpDjYyDQI?rel=0&amp;showinfo=0'
-project_description: >-
-  IGNITE22 brings together, in a collaborative environment, the entrepreneurial
-  community, industry partners, academic institutions, and other stakeholders
-  and supporting organizations, for an event that showcases technology that will
-  impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
-  creativity in entrepreneurship and STEM programs while supporting the region’s
-  technology hubs. With a single accord, we will celebrate the future.
+project_summary: >-
+  IGNITE22 is a technology showcase and collaborative experience that will bring
+  together creators, adopters and facilitators – visionaries that will shape the
+  next century.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Through a collaboration with California State University Program for Education
@@ -77,6 +74,13 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  IGNITE22 brings together, in a collaborative environment, the entrepreneurial
+  community, industry partners, academic institutions, and other stakeholders
+  and supporting organizations, for an event that showcases technology that will
+  impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
+  creativity in entrepreneurship and STEM programs while supporting the region’s
+  technology hubs. With a single accord, we will celebrate the future.
 project_impact: >-
   ["Manufacturing activity","Federal research grant funding","Gini
   coefficient","Jobs per capita","Measures of cultural and global economic

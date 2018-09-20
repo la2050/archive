@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5529285065741-team91.JPG
 project_video: ''
-project_description: >-
-  We believe in the power of arts and culture to transform communities. Our
-  pilot cultural series is built on the creative capital of LA’s east side
-  neighborhoods and will highlight local artists from diverse disciplines,
-  compensate them for their time and talents and offer space for rehearsal and
-  creative work at reduced rates. Through five key focuses — talk, music,
-  performance, movement and family — we will bring the community together to
-  learn, create and discover together.
+project_summary: >-
+  A cultural series focused on music, performance, movement, talk and family,
+  that highlights artists who live and work in Los Angeles in the revamped space
+  at the SIJCC.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
    No organizations confirmed at this time. We plan to collaborate with an array
@@ -52,6 +48,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  We believe in the power of arts and culture to transform communities. Our
+  pilot cultural series is built on the creative capital of LA’s east side
+  neighborhoods and will highlight local artists from diverse disciplines,
+  compensate them for their time and talents and offer space for rehearsal and
+  creative work at reduced rates. Through five key focuses — talk, music,
+  performance, movement and family — we will bring the community together to
+  learn, create and discover together.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita"]

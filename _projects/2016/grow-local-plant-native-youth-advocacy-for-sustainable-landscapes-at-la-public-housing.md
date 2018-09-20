@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3729564165741-team89.jpg
 project_video: ''
-project_description: >-
-  By bringing beautiful and sustainable native plant landscapes to Los Angeles
-  public housing, Grow Local: Plant Native will engage residents and staff in
-  making long-term decisions about the future of LA and their own lives. Public
-  housing staff will design and install native plant gardens. Youth will be
-  hired to learn about native plant horticulture and communications strategies
-  in order to create a marketing campaign to shape their communities future.
+project_summary: >-
+  Grow Local: Plant Native! Theodore Payne Foundation, LA Housing Authority and
+  Boys & Girls Clubs of the LA Harbor partner to reshape LA for a sustainable
+  future, lush with native plants for all.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Housing Authority of the City of Los Angeles and Boys & Girls Clubs of the Los
@@ -76,6 +73,13 @@ project_proposal_help: >-
   ["Money ","Volunteers","Staff ","Publicity/awareness","Infrastructure
   (building/space/vehicles","Education/training ","Technical infrastructure
   (computers","Community outreach ","Network/relationship support"]
+project_description: >-
+  By bringing beautiful and sustainable native plant landscapes to Los Angeles
+  public housing, Grow Local: Plant Native will engage residents and staff in
+  making long-term decisions about the future of LA and their own lives. Public
+  housing staff will design and install native plant gardens. Youth will be
+  hired to learn about native plant horticulture and communications strategies
+  in order to create a marketing campaign to shape their communities future.
 project_impact: >-
   ["Waterways","Exposure to air toxins","Local water","Resilient
   communities","Tree canopy cover","Walk/bike/transit score"]

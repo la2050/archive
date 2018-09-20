@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5520243165741-team91.jpg
 project_video: ''
-project_description: >-
-  New Roads, in collaboration with UPTOGOOD.org, will develop and offer classes
-  to introduce students to impact producing, while amplifying these efforts
-  within the LA community at large. We will explore the power of video-based
-  storytelling, social media, and digital marketing for social impact. Students
-  will actively ideate, film, and host social impact campaigns for causes they
-  care about on UPTOGOOD, while working closely with local NGOs and companies
-  looking to make a positive social impact.
+project_summary: >-
+  We hope to empower our youth and our community with tools to execute impact
+  storytelling and campaigns that effectively message social issues and inspired
+  community action plans to solve them.
 project_is_collaboration: 'Yes'
 project_collaborators: 'UPTOGOOD Benefit Corporation, Media Institute for Social Change'
 project_areas:
@@ -84,6 +80,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  New Roads, in collaboration with UPTOGOOD.org, will develop and offer classes
+  to introduce students to impact producing, while amplifying these efforts
+  within the LA community at large. We will explore the power of video-based
+  storytelling, social media, and digital marketing for social impact. Students
+  will actively ideate, film, and host social impact campaigns for causes they
+  care about on UPTOGOOD, while working closely with local NGOs and companies
+  looking to make a positive social impact.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Rates of

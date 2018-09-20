@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1149750813741-team90.png
 project_video: 'https://www.youtube.com/embed/1WcN6j5lVCc?rel=0&amp;showinfo=0'
-project_description: >-
-  The sad reality is that children in low-income public schools spend most of
-  their recreation time on unsafe and unsightly asphalt playgrounds. Skinned
-  knees and injuries are all too common. And many children, particularly girls,
-  rarely participate at all. ASLA's vision for Los Angeles is for all children
-  to have access to high-quality sports and enrichment programs and safe places
-  to play regardless of families’ income levels.
+project_summary: >-
+  Turning school playgrounds from black top to green turf to provide a safe
+  surface for children to experience team sports without the fear of injury.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -65,6 +61,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The sad reality is that children in low-income public schools spend most of
+  their recreation time on unsafe and unsightly asphalt playgrounds. Skinned
+  knees and injuries are all too common. And many children, particularly girls,
+  rarely participate at all. ASLA's vision for Los Angeles is for all children
+  to have access to high-quality sports and enrichment programs and safe places
+  to play regardless of families’ income levels.
 project_impact: >-
   ["Access to open space and park facilities","Attendance at major league
   sporting events","Number (and quality) of informal spaces for play","Number of

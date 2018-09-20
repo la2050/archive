@@ -15,15 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8786812913741-team90.jpg
 project_video: ''
-project_description: >-
-  LA-based STEM organizations are strapped for resources; area tech firms need
-  any easy path to become more involved with their communities.
-   
-  Tech LA Cares (TLC) aims to build a gateway for the two worlds to connect and
-  create long-term relationships that foster a more diverse workforce that
-  reflects LA's culture, and to offer resources for both sides to more
-  efficiently give and receive manpower, internships, mentorships, scholarships,
-  monetary support, hardware, software, and more.
+project_summary: >-
+  Tech LA Cares (TLC) aims to connect LA tech companies with volunteer
+  opportunities at area STEM organizations in order to faciliate a more diverse
+  future workforce for LA.
 project_is_collaboration: 'No'
 project_collaborators: >-
   None -- no direct collaboration, but we are talking to nearly two dozen area
@@ -100,6 +95,15 @@ project_proposal_help:
   - Advisors/board members
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  LA-based STEM organizations are strapped for resources; area tech firms need
+  any easy path to become more involved with their communities.
+   
+  Tech LA Cares (TLC) aims to build a gateway for the two worlds to connect and
+  create long-term relationships that foster a more diverse workforce that
+  reflects LA's culture, and to offer resources for both sides to more
+  efficiently give and receive manpower, internships, mentorships, scholarships,
+  monetary support, hardware, software, and more.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Early

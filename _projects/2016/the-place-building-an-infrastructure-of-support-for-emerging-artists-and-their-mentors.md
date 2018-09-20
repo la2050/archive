@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4185192065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/v3ftc0qxlwI?rel=0?rel=0&amp;showinfo=0'
-project_description: >-
-  DSTL Arts & The PLACE, will establish & manage a centralized creative
-  workspace that will act as a hub for training & resource development for
-  volunteer mentors & teaching artists working within our respective mentorship
-  programs for both at-risk youth (ages 16–24), & adult emerging artists & arts
-  administrators, while also providing a fixed venue for our cultural events &
-  arts programs in partnership with our affiliate organizations.
+project_summary: >-
+  DSTL Arts & The Partnership for Los Angeles' Creative Education will nurture &
+  support teaching artists & the emerging artists they mentor through training &
+  creative space for cultural production.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Founding Partners of The Partnership for Los Angeles' Creative Education (The
@@ -93,6 +90,13 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  DSTL Arts & The PLACE, will establish & manage a centralized creative
+  workspace that will act as a hub for training & resource development for
+  volunteer mentors & teaching artists working within our respective mentorship
+  programs for both at-risk youth (ages 16–24), & adult emerging artists & arts
+  administrators, while also providing a fixed venue for our cultural events &
+  arts programs in partnership with our affiliate organizations.
 project_impact: '["Social & emotional support","Cultural events","Rates of volunteerism"]'
 project_proposal_best_place: >-
   We'll rent a commercial space & build infrastructure for The Partnership for

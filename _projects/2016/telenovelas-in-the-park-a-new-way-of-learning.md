@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4156269625741-team90.jpg
 project_video: 'https://www.youtube.com/embed/0NEAOsciAWM?rel=0&amp;showinfo=0'
-project_description: >-
-  Telenovelas in the Park utilizes a fun and entertaining platform of the
-  traditional Latino soap opera to educate, inform, and instill a high
-  environmental ethic. Telenovelas in the Park catalyzes and inspires Angelenos
-  to change their behaviors by emphasizing the importance of water conservation,
-  of reducing plastics pollution, and other actions individuals can take to
-  protect our environment and our city. The platform is flexible, which allows
-  us to address multiple environmental issues.
+project_summary: >-
+  Inspire • Motivate • Teach. Telenovelas for an environmentally conscious
+  LA2050
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   - Sonia Sotomayor School of History and Dramatic Arts, - Mountains Recreation
@@ -56,6 +51,14 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  Telenovelas in the Park utilizes a fun and entertaining platform of the
+  traditional Latino soap opera to educate, inform, and instill a high
+  environmental ethic. Telenovelas in the Park catalyzes and inspires Angelenos
+  to change their behaviors by emphasizing the importance of water conservation,
+  of reducing plastics pollution, and other actions individuals can take to
+  protect our environment and our city. The platform is flexible, which allows
+  us to address multiple environmental issues.
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities"]

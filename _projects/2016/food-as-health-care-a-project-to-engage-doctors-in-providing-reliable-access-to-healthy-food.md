@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4415249165741-team91.png
 project_video: ''
-project_description: >-
-  We will leverage physicians embedded in our community to help identify those
-  who do not have reliable access to healthy food, educate patients on the
-  importance of healthy eating, and connect people with food resources. Our
-  project will include development of materials for the use of educating
-  physicians and their patients on food insecurity and available food resources
-  in our community. We will organize physicians through educational webinars,
-  social media campaigns, and grassroots organizing.
+project_summary: >-
+  We will leverage health care providers embedded in our community to help
+  identify those who do not have reliable access to healthy food, educate the
+  community, and connect people with food resources.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are an organization of over 18,000 doctors and medical students in all 50
@@ -92,6 +88,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  We will leverage physicians embedded in our community to help identify those
+  who do not have reliable access to healthy food, educate patients on the
+  importance of healthy eating, and connect people with food resources. Our
+  project will include development of materials for the use of educating
+  physicians and their patients on food insecurity and available food resources
+  in our community. We will organize physicians through educational webinars,
+  social media campaigns, and grassroots organizing.
 project_impact: >-
   ["Access to healthy food","Healthcare
   access","Self-sufficiency","Obesity","Resilient communities","Residents

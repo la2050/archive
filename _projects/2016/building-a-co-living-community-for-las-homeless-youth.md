@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7267442825741-team91.jpg
 project_video: 'https://www.youtube.com/embed/nzZIUSqsR-Y?rel=0&amp;showinfo=0'
-project_description: >-
-  PodShare will build a pilot program for transitional housing for Homeless
-  Youth in Hollywood to host 40 individuals selected by partner organizations,
-  for a period of up to six months while they seek long term housing. The
-  property will offer co-living pods for sleeping, shared co-ed amenities, a
-  'maker's lab' for content creation, and hospitality job training with
-  placement to PodShare and hotel service companies. Each youth pays a nominal
-  fee and must either have or be actively seeking a job.
+project_summary: >-
+  PodShare builds affordable live/work communities with custom-designed pods,
+  open floor plans, and access to a network of locations to co-live, co-work,
+  and collaborate.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   'PodShare for Homeless Youth' would be serviced by one or more non-profit
@@ -88,6 +84,14 @@ project_proposal_help:
   - Technical infrastructure (computers
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  PodShare will build a pilot program for transitional housing for Homeless
+  Youth in Hollywood to host 40 individuals selected by partner organizations,
+  for a period of up to six months while they seek long term housing. The
+  property will offer co-living pods for sleeping, shared co-ed amenities, a
+  'maker's lab' for content creation, and hospitality job training with
+  placement to PodShare and hotel service companies. Each youth pays a nominal
+  fee and must either have or be actively seeking a job.
 project_impact: >-
   ["Housing affordability","Self-sufficiency","Resilient
   communities","Homelessness"]

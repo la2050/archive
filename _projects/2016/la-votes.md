@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6888645593741-team90.png
 project_video: ''
-project_description: >-
-  This grant would guarantee another successful LA Votes Project during the LA
-  Primary Election on March 7, 2017. The LA Votes Project consists of two parts:
-  an exit poll in the City of LA and an election day reception titled Election
-  Central. Over 15 years, LMUStudyLA has organized 10 exit polls, mobilized
-  1,000+ LMU students as field researchers, collected 12,000+ exit surveys,
-  fostered dozens of media hits, and hosted hundreds of guests at past Election
-  Central celebrations.
+project_summary: >-
+  LA Votes celebrates the electoral process in LA by conducting the largest
+  per-capita exit poll in the nation & announcing topline results for this exit
+  poll at an election watching party open to all.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -70,6 +66,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  This grant would guarantee another successful LA Votes Project during the LA
+  Primary Election on March 7, 2017. The LA Votes Project consists of two parts:
+  an exit poll in the City of LA and an election day reception titled Election
+  Central. Over 15 years, LMUStudyLA has organized 10 exit polls, mobilized
+  1,000+ LMU students as field researchers, collected 12,000+ exit surveys,
+  fostered dozens of media hits, and hosted hundreds of guests at past Election
+  Central celebrations.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Participation in

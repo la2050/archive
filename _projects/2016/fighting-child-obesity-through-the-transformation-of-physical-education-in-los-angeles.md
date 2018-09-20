@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4898814105741-team90.jpg
 project_video: 'https://www.youtube.com/embed/wA3zYsq4f3I?rel=0&amp;showinfo=0'
-project_description: >-
-  Los Angeles is in dire need of quality physical education resources and
-  training within its schools. Sound Body Sound Mind (SBSM) plans to fill this
-  void by providing recipient schools within LAUSD a state-of-the-art fitness
-  center, SBSM Curriculum, and professional development training. This
-  comprehensive package gives underserved students a space to transform their
-  physical education experience, and P.E. educators new and inventive resources
-  to implement within their class.
+project_summary: >-
+  Sound Body Sound Mind will provide Los Angeles middle and high schools
+  state-of-the-art fitness centers, fitness curriculum, and professional
+  development to transform P.E. and student health.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -81,6 +77,14 @@ project_proposal_help:
   - Advisors/board members
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  Los Angeles is in dire need of quality physical education resources and
+  training within its schools. Sound Body Sound Mind (SBSM) plans to fill this
+  void by providing recipient schools within LAUSD a state-of-the-art fitness
+  center, SBSM Curriculum, and professional development training. This
+  comprehensive package gives underserved students a space to transform their
+  physical education experience, and P.E. educators new and inventive resources
+  to implement within their class.
 project_impact: >-
   ["Self-sufficiency","Obesity","Resilient communities","Prevalence of adverse
   childhood experiences"]

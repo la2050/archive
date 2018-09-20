@@ -14,21 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7270013455741-team88.jpg
 project_video: 'https://www.youtube.com/embed/TA13D1sFcIU?rel=0&amp;showinfo=0'
-project_description: >-
-  eQuiz is looking to expand its operation in the Los Angeles area, including
-  expanding its office space and hiring Los Angeles residents. The hires will be
-  focused on marketing, content creation and creative efforts in eQuiz's
-  expansion. 
-
-
-  eQuiz is available on iOS and can be downloaded here: 
-
-  https://itunes.apple.com/app/id326562830
-
-
-  More information can be found in our eQuiz pitchdeck: 
-
-  http://bit.ly/2d6t47R
+project_summary: >-
+  eQuiz is a fun and free trivia app that brings the world together through
+  knowledge. eQuiz looks to grow and employ people in the LA community.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -49,6 +37,21 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  eQuiz is looking to expand its operation in the Los Angeles area, including
+  expanding its office space and hiring Los Angeles residents. The hires will be
+  focused on marketing, content creation and creative efforts in eQuiz's
+  expansion. 
+
+
+  eQuiz is available on iOS and can be downloaded here: 
+
+  https://itunes.apple.com/app/id326562830
+
+
+  More information can be found in our eQuiz pitchdeck: 
+
+  http://bit.ly/2d6t47R
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft

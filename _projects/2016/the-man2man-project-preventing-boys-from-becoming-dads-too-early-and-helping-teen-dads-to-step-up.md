@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1711077255741-team90.JPG
 project_video: 'https://www.youtube.com/embed/DA24svvRWgw?rel=0&amp;showinfo=0'
-project_description: >-
-  The Man2Man Project will expand the lauded Young Dads program at Friends of
-  the Family in two ways.  Adult male volunteers will be recruited and trained
-  to provide one-to-one mentorship for Young Dads participants, a majority of
-  whom did not have a father or male role model as they grew up.  The Project
-  will simultaneously train the Young Dads participants to work with middle and
-  high school at-risk boys in an effort to prevent them from also becoming
-  fathers too soon.
+project_summary: >-
+  The Man2Man Project will connect multiple generations of men and boys for the
+  dual purpose of helping young dads to become great fathers and preventing
+  at-risk boys from becoming fathers too soon.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -70,6 +66,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Man2Man Project will expand the lauded Young Dads program at Friends of
+  the Family in two ways.  Adult male volunteers will be recruited and trained
+  to provide one-to-one mentorship for Young Dads participants, a majority of
+  whom did not have a father or male role model as they grew up.  The Project
+  will simultaneously train the Young Dads participants to work with middle and
+  high school at-risk boys in an effort to prevent them from also becoming
+  fathers too soon.
 project_impact: '["Social & emotional support","Rates of volunteerism"]'
 project_proposal_best_place: >-
   The Man2Man Project (M2M) will help make LA the best place to connect by

@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4769182815741-team88.png
 project_video: 'https://www.youtube.com/embed/_REjMUMytYw?rel=0&amp;showinfo=0'
-project_description: >-
-  Over 500 adults with developmental disabilities will develop the skills to
-  access and engage in volunteerism at 120 non-profit organizations. Through the
-  training and community development efforts of a Volunteer and Employment
-  Developer, partner organizations will gain critical, committed volunteers,
-  while recognizing the strengths that people with disabilities are waiting to
-  give back to their community.
+project_summary: >-
+  Tierra del Sol Foundation will empower adults with developmental disabilities
+  to achieve a life of meaning, acceptance, value, and inclusion, via
+  professional volunteerism as a pathway to employment.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Angel Interfaith, Assistance League, Burbank Temporary Aid Center, Glendale
@@ -48,6 +45,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Over 500 adults with developmental disabilities will develop the skills to
+  access and engage in volunteerism at 120 non-profit organizations. Through the
+  training and community development efforts of a Volunteer and Employment
+  Developer, partner organizations will gain critical, committed volunteers,
+  while recognizing the strengths that people with disabilities are waiting to
+  give back to their community.
 project_impact: >-
   ["Access to free wifi","Social & emotional support","Cultural
   events","Government responsiveness to residents’ needs","Travel time to

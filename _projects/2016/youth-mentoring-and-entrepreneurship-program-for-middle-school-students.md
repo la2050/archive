@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2610135955741-team91.JPG
 project_video: ''
-project_description: >-
-  42% of children born to parents in the bottom fifth of the economic
-  distribution remain in the bottom as adults. To achieve upward mobility, we
-  require education & life skills to succeed in today's career paths, as well as
-  the resources, networks and tools to achieve our definitions of success.
-  Through real-world experience from venture creation, mentorship and habit
-  adoption, WeThrive will train and equip more than 800 middle school students
-  with the life skills & resources for upward mobility.
+project_summary: >-
+  An entrepreneurial mentoring program for middle school students of
+  under-resourced communities. All youth participants create companies of their
+  own, earn real revenues and donate profits to charity.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -44,6 +40,14 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - Capacity Building
+project_description: >-
+  42% of children born to parents in the bottom fifth of the economic
+  distribution remain in the bottom as adults. To achieve upward mobility, we
+  require education & life skills to succeed in today's career paths, as well as
+  the resources, networks and tools to achieve our definitions of success.
+  Through real-world experience from venture creation, mentorship and habit
+  adoption, WeThrive will train and equip more than 800 middle school students
+  with the life skills & resources for upward mobility.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Suspension and expulsion rates","Truancy

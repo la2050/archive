@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1824656555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/f1NWhlN60zE?rel=0&amp;showinfo=0'
-project_description: >-
-  Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
-  including WiGig, fiber, beam antennas, ethernet, and broadband over
-  powerlines. This allows a Mega-Mesh to start with a small number of public
-  institutions, with distributed local hosting of teaching tools such as online
-  encyclopedias and coursework. Rather than depending on far away cloud
-  providers, e-media or courseware owned by any library can be shared directly
-  over its local Mega-Mesh.
+project_summary: >-
+  Combining communications technologies like Mega-MIMO 2.0 and distributed Mesh
+  networking will allow LA learning institutions, including our schools and
+  libraries, to teach us both online and off.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Internet-In-A-Box.org, Friends of the Library, LAUSD, LACC, LA Museums'
 project_areas:
@@ -71,6 +67,14 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - Start your own community network co-ops!
+project_description: >-
+  Mega-MIMO 2.0 WiFi coordination can take place over multi-medium Mesh networks
+  including WiGig, fiber, beam antennas, ethernet, and broadband over
+  powerlines. This allows a Mega-Mesh to start with a small number of public
+  institutions, with distributed local hosting of teaching tools such as online
+  encyclopedias and coursework. Rather than depending on far away cloud
+  providers, e-media or courseware owned by any library can be shared directly
+  over its local Mega-Mesh.
 project_impact: >-
   ["Access to free wifi","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Public transit

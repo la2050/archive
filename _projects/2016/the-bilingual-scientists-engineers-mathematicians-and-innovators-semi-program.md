@@ -17,12 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9165635165741-team90.JPG
 project_video: ''
-project_description: >-
-  The Patrick Henry Foundation, in collaboration with California State
-  University Long Beach, will develop and incubate the Scientists, Engineers,
-  Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
-  English) curriculum that introduces 5th grade elementary school students to
-  STEM in a culturally-relevant manner.
+project_summary: >-
+  The Scientists, Engineers, Mathematicians and Innovators (SEMI) is a bilingual
+  program training the next generation of global STEM professionals.
 project_is_collaboration: 'Yes'
 project_collaborators: "•\tHopscotch & Doodles: http://www.hopscotchanddoodles.com/, •\tPatrick Henry Foundation: http://www.patrickhenryfoundation.org/, •\tLong Beach Unified School District: http://www.lbusd.k12.ca.us/, •\tPatrick Henry Elementary School: https://henry-lbusd-ca.schoolloop.com/, •\tPatrick Henry PTA: http://patrickhenrypta.com/, •\tCalifornia State University Long Beach: https://www.csulb.edu/"
 project_areas:
@@ -58,6 +55,12 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The Patrick Henry Foundation, in collaboration with California State
+  University Long Beach, will develop and incubate the Scientists, Engineers,
+  Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
+  English) curriculum that introduces 5th grade elementary school students to
+  STEM in a culturally-relevant manner.
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Early
   education","Student education pipeline"]

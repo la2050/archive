@@ -12,13 +12,7 @@ organization_activity: Building Compassionate cities since 2013
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5082856955741-team91.png
 project_video: 'https://www.youtube.com/embed/7bCjkM0o31Y?rel=0&amp;showinfo=0'
-project_description: >-
-  No other initiative has struck a nerve, inspired the uninspired, raised the
-  eyebrow of the skeptic, or gotten the attention of the weary and the tired as
-  much as the Compassion movement.  And no idea to mobilize people into a new
-  way of being compassionate has been more creative, effective and awe inspiring
-  than the Compassion Games: Survival of the Kindest. Next year we want to
-  transcend the geographical divide and include LA County in our efforts.
+project_summary: 'Make your community safer, kinder, more just and a better place to live.'
 project_is_collaboration: 'Yes'
 project_collaborators: Charter for Compassion and Compassion Games International.
 project_areas:
@@ -60,6 +54,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  No other initiative has struck a nerve, inspired the uninspired, raised the
+  eyebrow of the skeptic, or gotten the attention of the weary and the tired as
+  much as the Compassion movement.  And no idea to mobilize people into a new
+  way of being compassionate has been more creative, effective and awe inspiring
+  than the Compassion Games: Survival of the Kindest. Next year we want to
+  transcend the geographical divide and include LA County in our efforts.
 project_impact: >-
   ["Access to open space and park facilities","Attendance at major league
   sporting events","Number (and quality) of informal spaces for play","Number of

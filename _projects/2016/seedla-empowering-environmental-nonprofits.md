@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7385254065741-team90.JPG
 project_video: 'https://www.youtube.com/embed/aL8WA_hgTNo?rel=0&amp;showinfo=0'
-project_description: >-
-  We will partner with 12 local environmental nonprofits and provide free
-  support with marketing strategy, data analytics or new program development.
-  Each organization will be paired with a dedicated team of five skilled
-  Angelenos. Over the course of a 10-week project we will help catalyze their
-  work and accelerate their impact on Los Angeles. Our project will bring a
-  total of 4,800 hours of high quality analytical support to further empower
-  LA’s extraordinary environmental nonprofit organizations
+project_summary: >-
+  SeedLA will provide 12 environmental nonprofits with 10 week consulting
+  projects to enhance their pioneering work towards a healthier and more
+  sustainable Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: We will partner with 12 different local environmental nonprofit organizations.
 project_areas:
@@ -51,6 +47,14 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - Meeting spaces
+project_description: >-
+  We will partner with 12 local environmental nonprofits and provide free
+  support with marketing strategy, data analytics or new program development.
+  Each organization will be paired with a dedicated team of five skilled
+  Angelenos. Over the course of a 10-week project we will help catalyze their
+  work and accelerate their impact on Los Angeles. Our project will bring a
+  total of 4,800 hours of high quality analytical support to further empower
+  LA’s extraordinary environmental nonprofit organizations
 project_impact: >-
   ["Waterways","Exposure to air toxins","Healthcare access","Local
   water","Resilient communities"]

@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2799579455741-team90.jpg
 project_video: 'https://www.youtube.com/embed/TqtNFWeLxeE?rel=0&amp;showinfo=0'
-project_description: >-
-  Our proposal is a school, and community-led project to convert the existing
-  schoolyard into a living landscape and to create an outdoor learning
-  environment that supports the visual and performing arts, and the school
-  curriculum. The components include multipurpose areas for open-air classes,
-  sculpture, art, and sensory gardens, performances, adventure and water play,
-  nature discovery and informal gatherings. Both the project and its outcome are
-  envisioned to support learning.
+project_summary: >-
+  Our objective is to enhance the existing schoolyard by making spaces more
+  conducive to outdoor learning.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Rockdale Visual and Performing Arts Magnet Elementary School (Rockdale VAPA
@@ -63,6 +58,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Our proposal is a school, and community-led project to convert the existing
+  schoolyard into a living landscape and to create an outdoor learning
+  environment that supports the visual and performing arts, and the school
+  curriculum. The components include multipurpose areas for open-air classes,
+  sculpture, art, and sensory gardens, performances, adventure and water play,
+  nature discovery and informal gatherings. Both the project and its outcome are
+  envisioned to support learning.
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Early
   education","Students’ perceived sense of safety at and on the way to

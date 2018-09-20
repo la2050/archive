@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0296500655741-team91.jpg
 project_video: ''
-project_description: >-
-  Impact Hub Los Angeles is serving as a convener for a collaborative project
-  between the City of Los Angeles Personnel Department, Woodbury University's
-  Interdisciplinary Studies Department and immersive technologies consultancy,
-  FutureSculpt focused on activating a wider base of constituents to participate
-  in public safety. The intent of this project is to change public perception
-  and help create law enforcement that is reflective of the community it
-  protects.
+project_summary: >-
+  This virtual reality pilot program will attempt to change the perception of
+  policing in LA by serving as community-based recruitment tool that provides a
+  glimpse into the day in the life of a officer.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1. City of Los Angeles Personnel Department (Public Safety), 2. Woodbury
@@ -52,6 +48,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Publicity/awareness
+project_description: >-
+  Impact Hub Los Angeles is serving as a convener for a collaborative project
+  between the City of Los Angeles Personnel Department, Woodbury University's
+  Interdisciplinary Studies Department and immersive technologies consultancy,
+  FutureSculpt focused on activating a wider base of constituents to participate
+  in public safety. The intent of this project is to change public perception
+  and help create law enforcement that is reflective of the community it
+  protects.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Jobs per
   capita","Measures of cultural and global economic influence (“soft power”)"]

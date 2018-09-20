@@ -21,14 +21,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3772023193741-team89.jpg
 project_video: 'https://www.youtube.com/embed/7ku12q5dd4k?rel=0&amp;showinfo=0'
-project_description: >-
-  Through the Green Alley PLAYlab we will temporarily transform a series of
-  industrial alleys into playful public landscapes for the community. We
-  envision these landscapes as labs for sensory driven experiments created by
-  our collaborators who specialize in: healthcare, art, ecology and business
-  development. This new model for community engagement builds momentum towards
-  our ultimate goal of a green alley trail system that prioritizes human,
-  ecological and economic health.
+project_summary: >-
+  The Green Alley PLAYlab uses the power of play as a strategy to enhance human,
+  ecological and economic health in the Industrial Neighborhoods’ green alleys.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   USC Dept. of Architecture and Spatial Sciences   Institute, USC Dept. of
@@ -70,6 +65,14 @@ project_measure: >-
 project_proposal_help: >-
   ["Money ","Volunteers","Publicity/awareness","Community outreach
   ","Network/relationship support","Quality improvement research"]
+project_description: >-
+  Through the Green Alley PLAYlab we will temporarily transform a series of
+  industrial alleys into playful public landscapes for the community. We
+  envision these landscapes as labs for sensory driven experiments created by
+  our collaborators who specialize in: healthcare, art, ecology and business
+  development. This new model for community engagement builds momentum towards
+  our ultimate goal of a green alley trail system that prioritizes human,
+  ecological and economic health.
 project_impact: >-
   ["Number (and quality) of informal spaces for play","Number of parks with
   intergenerational play opportunities","Number of residents with easy access to

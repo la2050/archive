@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3797480105741-team90.jpeg
 project_video: 'https://www.youtube.com/embed/LPu2w2BufhE?rel=0&amp;showinfo=0'
-project_description: >-
-  BreastfeedLA (BFLA) plans to increase its efforts to transform community
-  clinics in South LA into Breastfeeding Friendly health centers affecting
-  thousands of families. We will help implement comprehensive institutional
-  changes that allow mothers to turn their breastfeeding goals into reality. In
-  addition, BreastfeedLA and SFYB will work together to bring a dynamic
-  culturally congruent breastfeeding education and support program to the
-  underserved community of South LA.
+project_summary: >-
+  Increasing food security in South Los Angeles by supporting breastfeeding in
+  the community.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Breastfeeding Task force of Greater Los Angeles: BreastfeedLA (BFLA), Soul
@@ -82,6 +77,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  BreastfeedLA (BFLA) plans to increase its efforts to transform community
+  clinics in South LA into Breastfeeding Friendly health centers affecting
+  thousands of families. We will help implement comprehensive institutional
+  changes that allow mothers to turn their breastfeeding goals into reality. In
+  addition, BreastfeedLA and SFYB will work together to bring a dynamic
+  culturally congruent breastfeeding education and support program to the
+  underserved community of South LA.
 project_impact: >-
   ["Access to healthy food","Healthcare access","Obesity","Residents receiving
   coordinated healthcare services"]

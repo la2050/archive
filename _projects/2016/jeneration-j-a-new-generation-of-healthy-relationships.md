@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9940469155741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Rols-6I43HE?rel=0&amp;showinfo=0'
-project_description: >-
-  Jenesse Center’s youth advocacy leadership and education program, Jeneration
-  J, is a developing program to include young people in the campaign to prevent
-  domestic violence and violent intimate partner relationships. Lined up with
-  fun-filled activities and events, Jeneration J seeks to equip young people
-  with the knowledge, skills and awareness to navigate healthy relationship
-  behaviors and actively stand against dating violence in their respective
-  communities.
+project_summary: >-
+  Jeneration J is a platform for today’s youth to discuss domestic violence
+  prevention and intervention strategies to create advocates for future
+  generations.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -42,6 +38,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Jenesse Center’s youth advocacy leadership and education program, Jeneration
+  J, is a developing program to include young people in the campaign to prevent
+  domestic violence and violent intimate partner relationships. Lined up with
+  fun-filled activities and events, Jeneration J seeks to equip young people
+  with the knowledge, skills and awareness to navigate healthy relationship
+  behaviors and actively stand against dating violence in their respective
+  communities.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism"]

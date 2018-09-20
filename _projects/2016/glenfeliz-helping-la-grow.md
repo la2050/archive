@@ -14,14 +14,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9449291893741-team90.jpg
 project_video: 'https://www.youtube.com/embed/UOyRvF_8T3s?rel=0&amp;showinfo=0'
-project_description: >-
-  This year, Glenfeliz Elementary School became the first LAUSD School for
-  Advanced Studies (SAS) focused on Farm-to-Table Garden and Culinary Arts. Our
-  program integrates gardening and cooking into the Common Core curriculum,
-  stimulating student interest in learning while promoting good health. Now that
-  the first of our program is complete, our goal is to expand our cooking
-  program and to grow into the model elementary school in Los Angeles for
-  health, nutrition and sustainability.
+project_summary: 'Glenfeliz: Helping LA Grow'
 project_is_collaboration: 'Yes'
 project_collaborators: none.
 project_areas:
@@ -66,6 +59,14 @@ project_proposal_help:
   - Technical infrastructure (computers
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  This year, Glenfeliz Elementary School became the first LAUSD School for
+  Advanced Studies (SAS) focused on Farm-to-Table Garden and Culinary Arts. Our
+  program integrates gardening and cooking into the Common Core curriculum,
+  stimulating student interest in learning while promoting good health. Now that
+  the first of our program is complete, our goal is to expand our cooking
+  program and to grow into the model elementary school in Los Angeles for
+  health, nutrition and sustainability.
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Resilient
   communities","Prevalence of adverse childhood experiences"]

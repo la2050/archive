@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3845012265741-team90.jpg
 project_video: 'https://www.youtube.com/embed/8nHD7qZG4S8?rel=0&amp;showinfo=0'
-project_description: >-
-  Melrose Magnet seeks to close the digital divide by ensuring all students,
-  regardless of income or ethnicity, have access to 21st century skills and
-  technology. Our 1-to-1 integrated computing program engages students to use
-  technology as a powerful tool to investigate, collaborate, and bring ideas to
-  life. Completing the final phase of a self-sustaining tech renewal project
-  will support our mission for students to become self-sufficient learners and
-  creators in all aspects of their work.
+project_summary: >-
+  Help us close the achievement gap and bring technology and equality to our
+  diverse magnet school in the heart of LA.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -57,6 +52,14 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers etc.)
   - Community outreach
+project_description: >-
+  Melrose Magnet seeks to close the digital divide by ensuring all students,
+  regardless of income or ethnicity, have access to 21st century skills and
+  technology. Our 1-to-1 integrated computing program engages students to use
+  technology as a powerful tool to investigate, collaborate, and bring ideas to
+  life. Completing the final phase of a self-sustaining tech renewal project
+  will support our mission for students to become self-sufficient learners and
+  creators in all aspects of their work.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Student education

@@ -15,14 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8286144555741-team88.png
 project_video: 'https://www.youtube.com/embed/WCahF7BtB1c?rel=0&amp;showinfo=0'
-project_description: >-
-  Let's empower Angelinos to engage with each other and their Neighborhood
-  Councils online to solve their challenges and create their future. We’ll let
-  people be heard from the time and place available to them, and collaborate
-  with each other in an innovative online structure to bring out the most
-  representative public input, avoid the trolls, and no public speaking
-  required!  This project will work closely with one lead NC and make the tools
-  and best practices will be available to all in LA.
+project_summary: >-
+  Engage your neighbors and your neighborhood council your way, online,
+  productively, to make the future happen
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Venice Neighborhood Council - At the last minute it was determined that the NC
@@ -64,6 +59,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Let's empower Angelinos to engage with each other and their Neighborhood
+  Councils online to solve their challenges and create their future. We’ll let
+  people be heard from the time and place available to them, and collaborate
+  with each other in an innovative online structure to bring out the most
+  representative public input, avoid the trolls, and no public speaking
+  required!  This project will work closely with one lead NC and make the tools
+  and best practices will be available to all in LA.
 project_impact: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils"]

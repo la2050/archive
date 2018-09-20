@@ -16,13 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9587467355741-team91.jpg
 project_video: ''
-project_description: >-
-  We will expand on our pilot program in a number of Los Angeles schools: the
-  service will be tested on dozens of field trips across a wide variety of
-  locations with elementary school children. Performance will be monitored and
-  improvements made to the hardware and software.  We will develop new wearable
-  beacons for use with young children, improve the mobile app, and ensure the
-  service is robust enough to handle substantial simultaneous usage.
+project_summary: >-
+  Gaggle uses a fun wearable beacon combined with a mobile app to create a
+  revolutionary new child safety service to help monitor large groups of
+  students on school field trips.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Redondo Beach Unified School District, Redondo Beach Council of PTAs, El
@@ -68,6 +65,13 @@ project_proposal_help:
   - Publicity/awareness
   - Technical infrastructure (computers etc.)
   - Quality improvement research
+project_description: >-
+  We will expand on our pilot program in a number of Los Angeles schools: the
+  service will be tested on dozens of field trips across a wide variety of
+  locations with elementary school children. Performance will be monitored and
+  improvements made to the hardware and software.  We will develop new wearable
+  beacons for use with young children, improve the mobile app, and ensure the
+  service is robust enough to handle substantial simultaneous usage.
 project_impact: >-
   ["Access to open space and park facilities","Number of children enrolled in
   afterschool programs","Perceived safety"]

@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7316447986741-team91.JPG
 project_video: ''
-project_description: >-
-  We will expand the Tell Your True Tale writing workshops at the LA County
-  Library, which for three years have been helping people with little writing
-  experience identify, write and polish their stories, creating nonfiction tales
-  that read like fiction. We will create a community of writers turning good
-  narratives into great ones - both online and at three workshops we propose at
-  libraries in East LA, Compton/South-Central and Rosemead, each aimed at
-  producing a volume of stories.
+project_summary: >-
+  Tell Your True Tale writing workshops help empower novice authors from diverse
+  communities to write true life stories, publish their work and connect with
+  fellow authors.
 project_is_collaboration: 'Yes'
 project_collaborators: 'County of Los Angeles Public Library, Sam Quinones author, journalist, editor'
 project_areas:
@@ -39,6 +35,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  We will expand the Tell Your True Tale writing workshops at the LA County
+  Library, which for three years have been helping people with little writing
+  experience identify, write and polish their stories, creating nonfiction tales
+  that read like fiction. We will create a community of writers turning good
+  narratives into great ones - both online and at three workshops we propose at
+  libraries in East LA, Compton/South-Central and Rosemead, each aimed at
+  producing a volume of stories.
 project_impact: >-
   ["Arts establishments","Measures of cultural and global economic influence
   (“soft power”)"]

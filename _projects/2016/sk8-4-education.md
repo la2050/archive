@@ -14,13 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4915432065741-team91.jpg
 project_video: 'https://youtu.be/HSe2pclx0MU?rel=0&amp;showinfo=0'
-project_description: >-
-  SK8 4 Education is an after school program developed to motivate at-risk youth
-  by combining skateboarding with education. Our mission is to inspire,
-  motivate, and empower the youth through skateboarding and urban arts. We use
-  art activities, art shows, skate competitions, and merchandise as incentives
-  for kids to come after school and do their homework and exchange it for
-  points.
+project_summary: >-
+  SK8 4 Education is an after school program developed to motivate undeserved
+  youth by combining skateboarding with education.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -40,6 +36,13 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  SK8 4 Education is an after school program developed to motivate at-risk youth
+  by combining skateboarding with education. Our mission is to inspire,
+  motivate, and empower the youth through skateboarding and urban arts. We use
+  art activities, art shows, skate competitions, and merchandise as incentives
+  for kids to come after school and do their homework and exchange it for
+  points.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   The Garage Board Shop was created with the idea to bring the youth community a

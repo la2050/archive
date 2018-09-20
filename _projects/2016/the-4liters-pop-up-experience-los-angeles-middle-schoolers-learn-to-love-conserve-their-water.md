@@ -16,15 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5522525955741-team91.png
 project_video: ''
-project_description: >-
-  DIGDEEP Water would like to create a temporary exhibit, coined the '4Liters
-  Pop-Up Experience' for a hands-on-learning experience with middle school
-  students in Los Angeles. 
-
-
-  The 4Liters Pop-Up Experience includes several interactive displays that will
-  help students explore fundamental concepts about water conservation both
-  locally and beyond their communities.
+project_summary: >-
+  The 4Liters Pop-Up is a flexible, multi-disciplinary learning experience
+  designed to help middle school students in Los Angeles better understand and
+  protect their local and state water resources.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Girls Athletic Leadership School (G.A.L.S.), LAUSD Beyond The Bell'
 project_areas:
@@ -50,6 +45,15 @@ project_proposal_help:
   - 'Money '
   - Volunteers
   - Publicity/awareness
+project_description: >-
+  DIGDEEP Water would like to create a temporary exhibit, coined the '4Liters
+  Pop-Up Experience' for a hands-on-learning experience with middle school
+  students in Los Angeles. 
+
+
+  The 4Liters Pop-Up Experience includes several interactive displays that will
+  help students explore fundamental concepts about water conservation both
+  locally and beyond their communities.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   In 2010, Xylem (a water technology company) released its Value of Water Index

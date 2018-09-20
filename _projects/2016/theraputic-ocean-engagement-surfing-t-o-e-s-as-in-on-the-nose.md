@@ -15,14 +15,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8758171455741-team90.jpg
 project_video: 'https://www.youtube.com/embed/mTtQd9ZOG1E?rel=0&amp;showinfo=0'
-project_description: >-
-  TOES programming breaks down barriers of access to LA County beaches.  Surf
-  Bus invites LA City Park and Recreation Departments out to the beaches of Los
-  Angeles to become 'ocean literate' and we provide the transportation, bathing
-  suits, wetsuits, surf boards, boogie boards, munchies, and the ocean safety
-  and education needed to surfvive and thrive in Los Angeles!  Our program has a
-  measurable positive impact on the self-esteem, motivation, endurance, and
-  trust (in self) of our participants.
+project_summary: 'Therapeutic Ocean Engagement: Surfing (T.O.E.S)'
 project_is_collaboration: 'Yes'
 project_collaborators: Surf Academy (for surf equipment rentals)
 project_areas:
@@ -73,6 +66,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Education/training '
   - Community outreach
+project_description: >-
+  TOES programming breaks down barriers of access to LA County beaches.  Surf
+  Bus invites LA City Park and Recreation Departments out to the beaches of Los
+  Angeles to become 'ocean literate' and we provide the transportation, bathing
+  suits, wetsuits, surf boards, boogie boards, munchies, and the ocean safety
+  and education needed to surfvive and thrive in Los Angeles!  Our program has a
+  measurable positive impact on the self-esteem, motivation, endurance, and
+  trust (in self) of our participants.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Number

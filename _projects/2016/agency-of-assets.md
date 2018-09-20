@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5792245165741-team88.jpg
 project_video: 'https://www.youtube.com/embed/Jmdk4Z5cMIc?rel=0&amp;showinfo=0'
-project_description: >-
-  ICA LA, in collaboration with arts advocate Pete Galindo and Legacy LA, will
-  create Agency of Assets—an initiative designed to catalyze local high school
-  youth into leadership roles in the arts and creative economy through
-  engagement, experience, and employment. In its pilot stage, a cohort of twenty
-  students will participate in a spring break immersion program, followed by
-  mentorship meetings, summer job positions, and the creation of a pop-up art
-  space in fall 2017.
+project_summary: >-
+  ICA LA creates exhibitions, education programs, and community partnerships
+  that spark the pleasure of discovery and challenge the way we see and
+  experience the world, ourselves, and each other.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   1. Legacy LA, 2. Pete Galindo, Founder & Managing Partner of Civic Center
@@ -68,6 +64,14 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  ICA LA, in collaboration with arts advocate Pete Galindo and Legacy LA, will
+  create Agency of Assets—an initiative designed to catalyze local high school
+  youth into leadership roles in the arts and creative economy through
+  engagement, experience, and employment. In its pilot stage, a cohort of twenty
+  students will participate in a spring break immersion program, followed by
+  mentorship meetings, summer job positions, and the creation of a pop-up art
+  space in fall 2017.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

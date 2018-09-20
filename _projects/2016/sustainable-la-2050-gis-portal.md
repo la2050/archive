@@ -14,14 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7070315265741-team91.png
 project_video: 'https://www.youtube.com/embed/622Zh36LYZ0?rel=0&amp;showinfo=0'
-project_description: >-
-  Founded on comprehensive UCLA research on LA County’s patterns in energy,
-  water, and ecosystem health, our proposal creates an online portal that
-  geospatially collects, connects, and conveys planning scenarios, working
-  toward a fully built-out implementation strategy for a sustainable LA by 2050.
-  This planning tool will 1) collect isolated data from its disparate sources,
-  2) connect data into comprehensive, dynamic visual scenarios, and 3) convey
-  the impact of various planning solutions.
+project_summary: >-
+  A web interface that connects researchers, policymakers, and citizens by
+  testing and visualizing scenarios for a sustainable LA by 2050.
 project_is_collaboration: 'No'
 project_collaborators: >-
   The Now Institute will be the sole beneficiary of the grant. However, it
@@ -51,6 +46,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Founded on comprehensive UCLA research on LA County’s patterns in energy,
+  water, and ecosystem health, our proposal creates an online portal that
+  geospatially collects, connects, and conveys planning scenarios, working
+  toward a fully built-out implementation strategy for a sustainable LA by 2050.
+  This planning tool will 1) collect isolated data from its disparate sources,
+  2) connect data into comprehensive, dynamic visual scenarios, and 3) convey
+  the impact of various planning solutions.
 project_impact: >-
   ["Cultural events","Public/open streets gatherings","Government responsiveness
   to residents’ needs","Travel time to work","Public transit

@@ -17,12 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4867649955741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sKs_VJT3Xr0?rel=0&amp;showinfo=0'
-project_description: >-
-  Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
-  collaborating to demonstrate how to use tiny homes to create
-  affordable-by-design housing and increase self-sufficiency in Los Angeles.
-  With $100,000, we can take 5 important capacity-building steps for
-  implementing our approach.
+project_summary: >-
+  The purpose of our project is to demonstrate a replicable method for solving
+  LA’s affordable housing crisis by encouraging tiny living as a solution.
 project_is_collaboration: 'Yes'
 project_collaborators: 'LATCH Collective, Makes A Village, LLC'
 project_areas: '["County of Los Angeles","Locations of LATCH & Makes a Village are TBD"]'
@@ -51,6 +48,12 @@ project_proposal_help: >-
   ["Money ","Volunteers","Publicity/awareness","Infrastructure
   (building/space/vehicles","Education/training ","Technical infrastructure
   (computers","Community outreach"]
+project_description: >-
+  Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
+  collaborating to demonstrate how to use tiny homes to create
+  affordable-by-design housing and increase self-sufficiency in Los Angeles.
+  With $100,000, we can take 5 important capacity-building steps for
+  implementing our approach.
 project_impact: >-
   ["Housing affordability","Self-sufficiency","Resilient
   communities","Homelessness"]

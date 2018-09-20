@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4873052265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/31P5WKMZjqg?rel=0&amp;showinfo=0'
-project_description: >-
-  Now that Food Oasis LA has created a minimum viable product, we desire to get
-  this into the hands of Los Angeles residents from all walks of life. Being an
-  entirely volunteer-run and non-profit organization, we are understandably
-  seeking funding in order to assist with our goals. These goals involve heavy
-  real-world usability testing, marketing and promoting our product to the Los
-  Angeles landscape, and ultimately improving our product's UI/UX and back-end
-  to maximize our effectiveness in LA.
+project_summary: >-
+  We want to make a healthier LA! We think the best way to do this is to
+  leverage current tech and build a platform to empower everyone with the right
+  tools and resources to easily find healthy food.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -47,6 +43,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Now that Food Oasis LA has created a minimum viable product, we desire to get
+  this into the hands of Los Angeles residents from all walks of life. Being an
+  entirely volunteer-run and non-profit organization, we are understandably
+  seeking funding in order to assist with our goals. These goals involve heavy
+  real-world usability testing, marketing and promoting our product to the Los
+  Angeles landscape, and ultimately improving our product's UI/UX and back-end
+  to maximize our effectiveness in LA.
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Resilient
   communities","Walk/bike/transit score"]

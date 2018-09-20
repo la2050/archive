@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5085632065741-team91.jpg
 project_video: 'https://youtu.be/4ciuYTMpjdE?rel=0&amp;showinfo=0'
-project_description: >-
-  We inspire creative and critical thinking by allowing the students to create
-  working head-sets, model homes with complex circuitry, robots, simple engines
-  and more - out of clean, colorful items captured from manufacturers waste
-  streams (that’s where the Rubbish comes in). Using this material rather than
-  allowing it to head to landfill will also advance the notion of environmental
-  stewardship in a generation of Los Angeles’ children.
+project_summary: >-
+  We are the Robin Hoods of Rubbish and we want to build STEAM Labs (Science,
+  Technology, Engineering, Art and Math) out of upcycled materials in 20 Title 1
+  Schools in Los Angeles.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Elysian Heights Elementary, Hillery T. Broadous Elementary, San Pascual Avenue
@@ -55,6 +52,13 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Quality improvement research
+project_description: >-
+  We inspire creative and critical thinking by allowing the students to create
+  working head-sets, model homes with complex circuitry, robots, simple engines
+  and more - out of clean, colorful items captured from manufacturers waste
+  streams (that’s where the Rubbish comes in). Using this material rather than
+  allowing it to head to landfill will also advance the notion of environmental
+  stewardship in a generation of Los Angeles’ children.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline"]

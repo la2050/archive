@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0113414065741-team91.png
 project_video: ''
-project_description: >-
-  Child care providers are empowered to try new foods and skills with Culinary
-  Skills in a Box. Thematic recipes, skills, tools and incentives are delivered
-  monthly to a child care provider’s home, including the recipe ingredients!
-  This project increases access and willingness to try new foods. The box is 
-  focused on helping the provider introduce culinary skills and healthful foods
-  to children. Culinary skills and food delivery addresses childhood obesity and
-  food access issues in L.A. County.
+project_summary: >-
+  Culinary Skills in a Box introduces child caregivers, parents & children to
+  skills and new foods that are developmentally appropriate. Food & lessons
+  delivered to their door monthly.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Raddish Kids, Evergreen Nutrition Program'
 project_areas:
@@ -60,6 +56,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Child care providers are empowered to try new foods and skills with Culinary
+  Skills in a Box. Thematic recipes, skills, tools and incentives are delivered
+  monthly to a child care provider’s home, including the recipe ingredients!
+  This project increases access and willingness to try new foods. The box is 
+  focused on helping the provider introduce culinary skills and healthful foods
+  to children. Culinary skills and food delivery addresses childhood obesity and
+  food access issues in L.A. County.
 project_impact: '["Access to healthy food","Obesity"]'
 project_proposal_best_place: >-
   We will make L.A.  County the healthiest place to live by changing the

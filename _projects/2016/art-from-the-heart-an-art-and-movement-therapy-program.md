@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1734618955741-team91.png
 project_video: 'https://www.youtube.com/embed/F0jAU8oFZyQ?rel=0&amp;showinfo=0'
-project_description: >-
-  Based on Dr. Federica Raia's ethnographic and participatory research, the
-  Relational Medicine Foundation's key activities include: patient and student
-  involvement in the artistic integration of Art and Medicine to aid the process
-  of healing through collaboration with innovative and well-respected arts and
-  cultural institutions, and the dissemination of research results to the
-  community.
+project_summary: >-
+  The Foundation empowers patients and improves the humanism of patient care
+  through its dedication to the “relationally present” person-to-person
+  encounter between patient and healthcare professionals
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Ava Kaufman, founder of Ava's Heart, who was in the first graduating class in
@@ -62,6 +59,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Based on Dr. Federica Raia's ethnographic and participatory research, the
+  Relational Medicine Foundation's key activities include: patient and student
+  involvement in the artistic integration of Art and Medicine to aid the process
+  of healing through collaboration with innovative and well-respected arts and
+  cultural institutions, and the dissemination of research results to the
+  community.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Federal
   research grant funding","Jobs per capita","Measures of cultural and global

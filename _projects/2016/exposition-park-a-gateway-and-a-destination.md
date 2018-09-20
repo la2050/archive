@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2101126065741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xLSpVnV_dyk?rel=0&amp;showinfo=0'
-project_description: >-
-  This is the first step in making Exposition Park a true transit crossroads
-  linking South LA, Downtown, the Westside, and nearby communities. Our project
-  is a participatory planning process, soliciting meaningful input from the
-  community to improve transit access, increase bike and pedestrian trips, and
-  improve Exposition Park's contribution to surrounding neighborhoods by
-  planning for additional amenities and better-marked links between public
-  transit, pedestrian routes, and biking trails.
+project_summary: >-
+  This project is the first step in making Exposition Park a true crossroads
+  linking South LA, Downtown LA, the Westside, while benefiting visitors and
+  residents of the surrounding community.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   State of California, , California Science Center, , California African
@@ -72,6 +68,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  This is the first step in making Exposition Park a true transit crossroads
+  linking South LA, Downtown, the Westside, and nearby communities. Our project
+  is a participatory planning process, soliciting meaningful input from the
+  community to improve transit access, increase bike and pedestrian trips, and
+  improve Exposition Park's contribution to surrounding neighborhoods by
+  planning for additional amenities and better-marked links between public
+  transit, pedestrian routes, and biking trails.
 project_impact: >-
   ["Cultural events","Public/open streets gatherings","Government responsiveness
   to residents’ needs","Travel time to work","Public transit

@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5620032535741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Xt3t96JpHBc?rel=0&amp;showinfo=0'
-project_description: >-
-  In 2017, KCRW will open the KCRW Media Center—a 35,000-square-foot
-  multipurpose facility that will be a vibrant, publicly-accessible performance
-  and community gathering space for Southern California.  Already an influential
-  source of news, music, and cultural discovery, we will expand our
-  programming—on air, online and in person—to engage our devoted audiences here
-  in Los Angeles and around the world.
+project_summary: >-
+  In 2017 KCRW will open the brand new KCRW Media Center—designed in partnership
+  with Santa Monica College as a public space for all Angelenos to connect with
+  our music, news, and cultural programming.
 project_is_collaboration: 'Yes'
 project_collaborators: Santa Monica College
 project_areas:
@@ -50,6 +47,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  In 2017, KCRW will open the KCRW Media Center—a 35,000-square-foot
+  multipurpose facility that will be a vibrant, publicly-accessible performance
+  and community gathering space for Southern California.  Already an influential
+  source of news, music, and cultural discovery, we will expand our
+  programming—on air, online and in person—to engage our devoted audiences here
+  in Los Angeles and around the world.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Public transit riders","Total number of local social media

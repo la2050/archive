@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4102217015741-team90.jpg
 project_video: 'https://www.youtube.com/embed/JVvCvAmzsCA?rel=0&amp;showinfo=0'
-project_description: >-
-  The project begins with a world-class youth entrepreneur training program
-  encompassing activity-based leadership, marketing, financial, career
-  development workshops and youth mentoring. The second part of the project
-  places these highly trained youth at minority and women-owned small businesses
-  applying what they learned by giving creative, innovative and technology-based
-  business support: marketing, website, social media, and bookkeeping, etc.
+project_summary: >-
+  We provide a creative entrepreneur training program for youth and give them
+  practical experience by placing them with a struggling local small business.
 project_is_collaboration: 'Yes'
 project_collaborators: Los Angeles Mayor's Office of Economic Development
 project_areas:
@@ -50,6 +46,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The project begins with a world-class youth entrepreneur training program
+  encompassing activity-based leadership, marketing, financial, career
+  development workshops and youth mentoring. The second part of the project
+  places these highly trained youth at minority and women-owned small businesses
+  applying what they learned by giving creative, innovative and technology-based
+  business support: marketing, website, social media, and bookkeeping, etc.
 project_impact: >-
   ["Employment in the creative industries","Gini coefficient","Jobs per
   capita","Measures of cultural and global economic influence (“soft

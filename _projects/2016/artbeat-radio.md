@@ -15,12 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0178457155741-team91.jpg
 project_video: 'https://www.youtube.com/embed/yjPtx6xf7jI?rel=0&amp;showinfo=0'
-project_description: >-
-  Following 35 years of progress towards inclusion and access for people with
-  intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
-  innovative community project presented through the lens of disability culture.
-  As engagement has increased and content producers are demanding more access to
-  share their voices, Artbeat Radio is prepared to go mobile.
+project_summary: >-
+  To expand our Artbeat Radio broadcast, created, hosted and produced by people
+  with intellectual disabilities on the road
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Collaboration takes place between KCSN and KPFK Radio and Able ARTS Work. The
@@ -37,6 +34,12 @@ project_proposal_help: >-
   ","Publicity/awareness","Infrastructure (building/space/vehicles
   etc.)","Education/training ","Technical infrastructure (computers
   etc.)","Community outreach ","Network/relationship support"]
+project_description: >-
+  Following 35 years of progress towards inclusion and access for people with
+  intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
+  innovative community project presented through the lens of disability culture.
+  As engagement has increased and content producers are demanding more access to
+  share their voices, Artbeat Radio is prepared to go mobile.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Total number of

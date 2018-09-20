@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3428423065741-team90.jpg
 project_video: ''
-project_description: >-
-  We will revitalize and create connections to Studio City’s neglected LA River
-  Greenway, helping the River become a vital part of Los Angeles. Local experts
-  will provide best practices training to City park maintenance staff and the
-  community for native plant care and invasive plant removal. We will engage
-  civic organizations to create a plan that connects local businesses to the
-  revitalized Greenway, enhances bike and pedestrian access, inspires
-  stewardship and improves public health and safety.
+project_summary: >-
+  Recognizing the LA River can be beautiful only with community support, we will
+  restore the River Greenway’s vibrancy in Studio City, re-establish bike and
+  pedestrian access and improve public safety.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Studio City Residents Association (SCRA), Studio City Beautification (SCBA),
@@ -61,6 +57,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  We will revitalize and create connections to Studio City’s neglected LA River
+  Greenway, helping the River become a vital part of Los Angeles. Local experts
+  will provide best practices training to City park maintenance staff and the
+  community for native plant care and invasive plant removal. We will engage
+  civic organizations to create a plan that connects local businesses to the
+  revitalized Greenway, enhances bike and pedestrian access, inspires
+  stewardship and improves public health and safety.
 project_impact: >-
   ["Waterways","Local water","Resilient communities","Tree canopy
   cover","Homelessness","Walk/bike/transit score"]

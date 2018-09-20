@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4374914065741-team88.jpg
 project_video: 'https://www.youtube.com/embed/xHT7xEa5fQs?rel=0&amp;showinfo=0'
-project_description: >-
-  Groceryships and Netiya believe that a healthy life has two ingredients: whole
-  foods and whole people. With the The Trellis Project, we’ll combine each
-  organization's expertise, offering one year of comprehensive food-focused
-  education and community engagement from two distinct and interrelated
-  perspectives: cooking and gardening. While the approaches are different, the
-  intention is the same, to grow health by empowering local communities through
-  existing support structures at their churches.
+project_summary: >-
+  Combining nutrition education and communal gardening to provide good food, a
+  supportive community and water-wise, food productive landscapes at churches in
+  underserved LA communities.
 project_is_collaboration: 'Yes'
 project_collaborators: 'Netiya, Groceryships, Emmanuel HM Turner AME Church, New Mount Calvary Church'
 project_areas:
@@ -64,6 +60,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Groceryships and Netiya believe that a healthy life has two ingredients: whole
+  foods and whole people. With the The Trellis Project, we’ll combine each
+  organization's expertise, offering one year of comprehensive food-focused
+  education and community engagement from two distinct and interrelated
+  perspectives: cooking and gardening. While the approaches are different, the
+  intention is the same, to grow health by empowering local communities through
+  existing support structures at their churches.
 project_impact: >-
   ["Access to healthy food","Self-sufficiency","Obesity","Local
   water","Resilient communities","Tree canopy cover","Mental illness"]

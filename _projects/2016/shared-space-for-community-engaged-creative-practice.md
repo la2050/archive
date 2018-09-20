@@ -12,14 +12,10 @@ organization_activity: Cornerstone Theater Company makes new plays with and abou
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/9548964265741-team89.jpg
 project_video: 'https://www.youtube.com/embed/I7lk13h9nJE?rel=0&amp;showinfo=0'
-project_description: >-
-  Building a coalition of practitioners from different fields, Cornerstone
-  proposes the development of a Shared Space for Community Engaged Creative
-  Practice. This shared space will serve as a public space for practitioners to
-  create a cross-disciplinary 'engagement commons;' an open space filled with
-  vibrant and diverse community-based approaches and projects that cultivates
-  platforms from which communities of LA from all backgrounds can come together
-  and engage in civic discourse and art-making.
+project_summary: >-
+  Cornerstone envisions a home that provides a shared space for Angelenos to
+  come together to create, collaborate and engage in dialogue acting as a site
+  for civic engagement and creative practice.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -69,6 +65,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Building a coalition of practitioners from different fields, Cornerstone
+  proposes the development of a Shared Space for Community Engaged Creative
+  Practice. This shared space will serve as a public space for practitioners to
+  create a cross-disciplinary 'engagement commons;' an open space filled with
+  vibrant and diverse community-based approaches and projects that cultivates
+  platforms from which communities of LA from all backgrounds can come together
+  and engage in civic discourse and art-making.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

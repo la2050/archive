@@ -16,13 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7295760875741-team91.jpeg
 project_video: 'https://www.youtube.com/embed/rFJckDRj_3A?rel=0&amp;showinfo=0'
-project_description: >-
-  LIT is a community block party under the stars, with an integrated,
-  interactive audiovisual experience. Local students will learn how to build,
-  program and install specially curated light installations to accompany a
-  series of live DJ sets at a community block party on Reseda Boulevard. LIT
-  will also feature local artists, performers and businesses from the San
-  Fernando Valley in a fun, night market atmosphere.
+project_summary: >-
+  LIT is a community block party with an interactive lighting and music
+  experience, created and curated by local students, artists and musicians from
+  the San Fernando Valley.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Beats and Pieces LA, California State University, Northridge, Collective
@@ -50,6 +47,13 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  LIT is a community block party under the stars, with an integrated,
+  interactive audiovisual experience. Local students will learn how to build,
+  program and install specially curated light installations to accompany a
+  series of live DJ sets at a community block party on Reseda Boulevard. LIT
+  will also feature local artists, performers and businesses from the San
+  Fernando Valley in a fun, night market atmosphere.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Public transit

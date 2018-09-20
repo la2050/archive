@@ -12,14 +12,9 @@ organization_activity: ANDesign Lab is a full-fledged industrial design firm.
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3454622194741-team91.png
 project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
-project_description: >-
-  The objective of this proposal is for the Research and Development of a
-  drought-adaptive gardening hub, suitable for a city-gardener.
-  Over-fertilization can be a source of unnecessary harm, resulting in
-  environmental hazards in the cases of nutrient run off. The development of an
-  in-field, real-time, plant sensing system for a site-specific application can
-  protect the environment from excessive chemicals and save management cost
-  while controlling the productivity of watering systems.
+project_summary: >-
+  Self-Sustained Gardening Sensors Will Change Life Outdoors for all
+  Metropolitan Areas.
 project_is_collaboration: 'No'
 project_collaborators: none.
 project_areas:
@@ -69,6 +64,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  The objective of this proposal is for the Research and Development of a
+  drought-adaptive gardening hub, suitable for a city-gardener.
+  Over-fertilization can be a source of unnecessary harm, resulting in
+  environmental hazards in the cases of nutrient run off. The development of an
+  in-field, real-time, plant sensing system for a site-specific application can
+  protect the environment from excessive chemicals and save management cost
+  while controlling the productivity of watering systems.
 project_impact: >-
   ["Access to healthy food","Waterways","Self-sufficiency","Local
   water","Walk/bike/transit score"]

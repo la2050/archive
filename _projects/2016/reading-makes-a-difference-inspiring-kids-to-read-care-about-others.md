@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2726365725741-team91.jpg
 project_video: ''
-project_description: >-
-  We will bring our Reading Makes A Difference program to 5 low-income
-  elementary schools to develop a love of reading and kindness through
-  read-a-thons benefiting ill kids. Student reading results in “Jester” books &
-  dolls given to local hospitals in the name of the school & LA2050. Following
-  inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
-  set of 3 educator enrichment manuals, with a final Recognition Assembly
-  showcasing student reading achievements and compassion.
+project_summary: >-
+  We will ignite a love for reading while developing compassion among
+  low-income  elementary students who will join a read-a-thon to give ill kids
+  in their community uplifting “Jester” books & dolls.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -75,6 +71,14 @@ project_proposal_help:
   - Advisors/board members
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  We will bring our Reading Makes A Difference program to 5 low-income
+  elementary schools to develop a love of reading and kindness through
+  read-a-thons benefiting ill kids. Student reading results in “Jester” books &
+  dolls given to local hospitals in the name of the school & LA2050. Following
+  inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
+  set of 3 educator enrichment manuals, with a final Recognition Assembly
+  showcasing student reading achievements and compassion.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Early education","Student education pipeline","Suspension and

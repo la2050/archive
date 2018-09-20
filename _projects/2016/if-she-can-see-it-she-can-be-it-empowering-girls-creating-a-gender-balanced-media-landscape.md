@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8697450355741-team90.jpg
 project_video: 'https://www.youtube.com/embed/BumIt2pIRuw?rel=0&amp;showinfo=0'
-project_description: >-
-  The Institute’s quarterly See Jane Salon Series engages industry professionals
-  and corporate influencers in discussions on achieving gender equity in media.
-  This project will expand and enhance the 2017 series with scholarships for 50
-  girls, ages 13-18, from across LA to join the conversation and connect with
-  mentors in the industry. The program will empower girls around issues of
-  gender in media, foster future female entertainment leaders, and help create a
-  more gender-balanced media landscape.
+project_summary: >-
+  The Geena Davis Institute will invite 50 young women to participate in its See
+  Jane Salons, fostering future female entertainment leaders and empowering
+  girls in LA around issues of gender in media.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -75,6 +71,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The Institute’s quarterly See Jane Salon Series engages industry professionals
+  and corporate influencers in discussions on achieving gender equity in media.
+  This project will expand and enhance the 2017 series with scholarships for 50
+  girls, ages 13-18, from across LA to join the conversation and connect with
+  mentors in the industry. The program will empower girls around issues of
+  gender in media, foster future female entertainment leaders, and help create a
+  more gender-balanced media landscape.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Minority- and
   women-owned firms"]

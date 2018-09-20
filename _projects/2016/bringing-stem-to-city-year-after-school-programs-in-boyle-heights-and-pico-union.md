@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7806062065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/Qukugb-h7xI?rel=0&amp;showinfo=0'
-project_description: >-
-  City Year’s pilot Science, Technology, Engineering and Math (STEM) program
-  will empower students to write code, create video games, and pursue their
-  technology interests in our after-school programs, deepening their
-  understanding of key academic fundamentals that will help them graduate from
-  high school, while building relevant skills for some of California’s most
-  competitive future careers. This grant will enable City Year to pilot this
-  program at three high-needs high schools in Los Angeles.
+project_summary: >-
+  In the next five years, nearly 1 million California STEM jobs will need to be
+  filled. City Year will pilot a STEM curriculum in 3 high schools to better
+  prepare our students for these opportunities.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -58,6 +54,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Education/training '
   - Technical infrastructure (computers etc.)
+project_description: >-
+  City Year’s pilot Science, Technology, Engineering and Math (STEM) program
+  will empower students to write code, create video games, and pursue their
+  technology interests in our after-school programs, deepening their
+  understanding of key academic fundamentals that will help them graduate from
+  high school, while building relevant skills for some of California’s most
+  competitive future careers. This grant will enable City Year to pilot this
+  program at three high-needs high schools in Los Angeles.
 project_impact: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Student education pipeline","Youth unemployment and

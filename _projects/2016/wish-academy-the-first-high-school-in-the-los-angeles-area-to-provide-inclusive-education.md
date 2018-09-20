@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4396755265741-team90.JPG
 project_video: 'https://www.youtube.com/embed/zVjUr0gjKDE?rel=0&amp;showinfo=0'
-project_description: >-
-  As many of our children are about to graduate eighth grade, they will once
-  again be faced with the challenge of no inclusive school options.  WISH
-  Academy is designed to build on the unique and successful model of WISH
-  Charter elementary and middle school, offering a rigorous, meaningful
-  curriculum for ALL students - inclusive populations of students including
-  those with mild, moderate and severe disabilities, as well as students who are
-  designated as being high achieving and highly gifted.
+project_summary: >-
+  Currently, there are no inclusive community high school options embracing (or
+  even allowing) students of all abilities, including those with disabilities,
+  to learn together in one inclusive setting.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are collaborating with the Los Angeles Unified School District and Loyola
@@ -60,6 +56,14 @@ project_proposal_help: >-
   etc.)","Education/training ","Technical infrastructure (computers
   etc.)","Community outreach ","Network/relationship support","Quality
   improvement research"]
+project_description: >-
+  As many of our children are about to graduate eighth grade, they will once
+  again be faced with the challenge of no inclusive school options.  WISH
+  Academy is designed to build on the unique and successful model of WISH
+  Charter elementary and middle school, offering a rigorous, meaningful
+  curriculum for ALL students - inclusive populations of students including
+  those with mild, moderate and severe disabilities, as well as students who are
+  designated as being high achieving and highly gifted.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   WISH Academy will serve as a small, high-performing 9th-12th grade school that

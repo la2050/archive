@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5887450265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/eWUHxpi7AOI?rel=0&amp;showinfo=0'
-project_description: >-
-  Ryman Arts will expand The Big Draw LA (BDLA) campaign, Southern California’s
-  largest drawing festival, a month-long, community drawing experiences, across
-  Los Angeles by collaborating with local venues. BDLA will raise awareness of
-  drawing’s power as a tool for learning, observation, creativity, and social
-  and cultural engagement by the community – enhancing the quality of each
-  Angeleno and representing Los Angeles as the creative capital that it is.
+project_summary: >-
+  Let’s get Angelenos of all ages and backgrounds drawing together to create
+  art, build connections and imagine our shared future.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Varies depending on the organizations that create public art events and
@@ -46,6 +42,13 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Ryman Arts will expand The Big Draw LA (BDLA) campaign, Southern California’s
+  largest drawing festival, a month-long, community drawing experiences, across
+  Los Angeles by collaborating with local venues. BDLA will raise awareness of
+  drawing’s power as a tool for learning, observation, creativity, and social
+  and cultural engagement by the community – enhancing the quality of each
+  Angeleno and representing Los Angeles as the creative capital that it is.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Rates of volunteerism","Total number of local social media

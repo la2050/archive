@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3746850165741-team90.jpg
 project_video: ''
-project_description: >-
-  Collaborating with the local YMCA, community leaders and residents, artists
-  and builders, we will design and build a public circle meeting space and train
-  and support community elders to facilitate circle dialogs for the community in
-  the space we co-create. The project will give elders renewed purpose and
-  provide the community a place and a process for sharing stories, discussing
-  matters of importance, resolving differences, determining action steps, and
-  making authentic connections.
+project_summary: >-
+  Community Circle Space Initiative builds circle spaces and trains community
+  elders to facilitate circle dialogs for Southeast LA residents to share
+  stories, address issues, and resolve conflicts.
 project_is_collaboration: 'Yes'
 project_collaborators: Southeast Rio Vista YMCA
 project_areas: '["South LA"]'
@@ -64,6 +60,14 @@ project_proposal_help: >-
   members","Publicity/awareness","Infrastructure (building/space/vehicles
   etc.)","Education/training ","Community outreach ","Network/relationship
   support"]
+project_description: >-
+  Collaborating with the local YMCA, community leaders and residents, artists
+  and builders, we will design and build a public circle meeting space and train
+  and support community elders to facilitate circle dialogs for the community in
+  the space we co-create. The project will give elders renewed purpose and
+  provide the community a place and a process for sharing stories, discussing
+  matters of importance, resolving differences, determining action steps, and
+  making authentic connections.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Government responsiveness to residents’ needs","Participation in

@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8716427165741-team91.png
 project_video: ''
-project_description: >-
-  Our proposal will identify 10 manufacturing companies in Los Angeles County
-  that are ‘at risk’ for relocation. We seek to ‘re-tool’ these companies
-  through new digital communications, enterprise crowdfunding, and/or management
-  capacity so they can better understand their marketplace, increase sales and
-  re-position the company to avert relocation and loss of manufacturing jobs in
-  LA County.
+project_summary: >-
+  Reinvent older, LA manufacturing companies by using crowdfunding and other
+  innovations to retain jobs in LA
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are teaming up with Crowdfund Better (crowdfundbetter.com) on this
@@ -72,6 +68,13 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers etc.)
   - Network/relationship support
+project_description: >-
+  Our proposal will identify 10 manufacturing companies in Los Angeles County
+  that are ‘at risk’ for relocation. We seek to ‘re-tool’ these companies
+  through new digital communications, enterprise crowdfunding, and/or management
+  capacity so they can better understand their marketplace, increase sales and
+  re-position the company to avert relocation and loss of manufacturing jobs in
+  LA County.
 project_impact: >-
   ["Manufacturing activity","Employment in the creative industries","Jobs per
   capita","Minority- and women-owned firms","Venture capital investment"]

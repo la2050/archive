@@ -17,14 +17,7 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3733217165741-team91.jpg
 project_video: ''
-project_description: >-
-  BRANDNEW YOUth is a 6-week brand development program for male teens of color.
-  In response to high levels of consumer marketing towards this specific
-  demographic, Brandnew Youth will empower students to develop a healthy and
-  sustainable relationship with brands, by teaching them how to create their own
-  personal brand. The program will be concentrated on students from low income,
-  high consumer communities within South Central Los Angeles and will be limited
-  to 10 participants per cycle.
+project_summary: BRANDNEW YOUth is a 6-week brand development program for male teens of color.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -72,6 +65,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  BRANDNEW YOUth is a 6-week brand development program for male teens of color.
+  In response to high levels of consumer marketing towards this specific
+  demographic, Brandnew Youth will empower students to develop a healthy and
+  sustainable relationship with brands, by teaching them how to create their own
+  personal brand. The program will be concentrated on students from low income,
+  high consumer communities within South Central Los Angeles and will be limited
+  to 10 participants per cycle.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Youth unemployment and underemployment"]

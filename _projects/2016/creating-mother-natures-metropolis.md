@@ -15,13 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0680094165741-team91.jpg
 project_video: 'https://www.youtube.com/embed/PsctXfdIX5A?rel=0&amp;showinfo=0'
-project_description: >-
-  Grown in LA will work to reinvigorate a relic nursery in the heart of LA’s
-  largest public space - Griffith Park! This project will convert an
-  underutilized plot of land into an outdoor urban laboratory that will grow
-  climate-appropriate plants for public parks and LA River restoration projects;
-  conduct cutting-edge research on urban ecology; and engage Angelenos through
-  educational opportunities.
+project_summary: >-
+  Grown in LA and partners will reinvigorate an underutilized site in Griffith
+  Park into an outdoor laboratory that grows and conducts research on
+  climate-appropriate plants for cities in southern CA.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   The Nature Conservancy, City of Los Angeles Department of Recreation and
@@ -56,6 +53,13 @@ project_proposal_help:
   - Network/relationship support
   - Quality improvement research
   - N/A
+project_description: >-
+  Grown in LA will work to reinvigorate a relic nursery in the heart of LA’s
+  largest public space - Griffith Park! This project will convert an
+  underutilized plot of land into an outdoor urban laboratory that will grow
+  climate-appropriate plants for public parks and LA River restoration projects;
+  conduct cutting-edge research on urban ecology; and engage Angelenos through
+  educational opportunities.
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities","Tree canopy cover"]

@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0511230265741-team91.PNG
 project_video: 'https://www.youtube.com/embed/MnStd_eLovQ?rel=0&amp;showinfo=0'
-project_description: >-
-  We designed and launched an air quality app (AirForU) for iPhones and Android
-  phones a few months ago. AirForU is specifically geared towards populations
-  that are vulnerable to air pollution and currently has over 2400 users. For
-  this project, we are proposing to enhance the app technology, incorporate new
-  research methods, recruit more users and analyze the data to develop more
-  effective strategies for protecting the health of sensitive populations.
+project_summary: >-
+  AirForU is an air quality app that provides real-time air quality information
+  and is also a research tool to reduce air pollution-related health impacts,
+  particularly for vulnerable populations.
 project_is_collaboration: 'Yes'
 project_collaborators: UCLA Health
 project_areas:
@@ -62,6 +59,13 @@ project_proposal_help:
   - 'Money '
   - Publicity/awareness
   - Community outreach
+project_description: >-
+  We designed and launched an air quality app (AirForU) for iPhones and Android
+  phones a few months ago. AirForU is specifically geared towards populations
+  that are vulnerable to air pollution and currently has over 2400 users. For
+  this project, we are proposing to enhance the app technology, incorporate new
+  research methods, recruit more users and analyze the data to develop more
+  effective strategies for protecting the health of sensitive populations.
 project_impact: '["Exposure to air toxins"]'
 project_proposal_best_place: >-
   Los Angeles continues to have some of the most polluted air in the nation.

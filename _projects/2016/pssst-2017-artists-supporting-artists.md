@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4400390065741-team91.jpg
 project_video: ''
-project_description: >-
-  PSSST will cultivate and amplify Los Angeles’ role as an international arts
-  center by expanding our 2017 interdisciplinary programming that includes: LA
-  Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
-  Conversations, Crit Club, exhibitions and performances, film screenings,
-  lectures, and live music. Our 2017 programming, driven by the concept of
-  artists supporting artists, will present 80 underrepresented artists at 50
-  events for more than 5000 audiences.
+project_summary: >-
+  PSSST will amplify Los Angeles’ role as an international arts center by
+  expanding our 2017 interdisciplinary programming, which is driven by the
+  concept of artists supporting artists.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas: '["Central LA"]'
@@ -68,6 +64,14 @@ project_measure: >-
 project_proposal_help: >-
   ["Money ","Volunteers","Advisors/board members","Community outreach
   ","Network/relationship support"]
+project_description: >-
+  PSSST will cultivate and amplify Los Angeles’ role as an international arts
+  center by expanding our 2017 interdisciplinary programming that includes: LA
+  Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
+  Conversations, Crit Club, exhibitions and performances, film screenings,
+  lectures, and live music. Our 2017 programming, driven by the concept of
+  artists supporting artists, will present 80 underrepresented artists at 50
+  events for more than 5000 audiences.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)","Minority- and

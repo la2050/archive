@@ -17,14 +17,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3020056105741-team91.jpeg
 project_video: ''
-project_description: >-
-  In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
-  the south Los Angeles community, we provide self-esteem building, individual
-  and community goal setting, professional development, along with community
-  projects as civic leadership and cultural arts    to encourage academic and
-  community success. Upon graduating from our programs, we will place youth in
-  internships that match their field of interest, while connecting youth to
-  networking relationships and mentors.
+project_summary: >-
+  Building the Power and Brilliant Imaginations of youth through community
+  leadership and life skills enhancement
 project_is_collaboration: 'Yes'
 project_collaborators: 'Dorsey High School, Jim Gilliam Recreation Center'
 project_areas: '["South LA","City of Los Angeles","LAUSD","Baldwin Village ''The Jungles''"]'
@@ -73,6 +68,14 @@ project_proposal_help: >-
   ["Money ","Volunteers","Advisors/board members","Infrastructure
   (building/space/vehicles etc.)","Technical infrastructure (computers
   etc.)","Network/relationship support","Quality improvement research"]
+project_description: >-
+  In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
+  the south Los Angeles community, we provide self-esteem building, individual
+  and community goal setting, professional development, along with community
+  projects as civic leadership and cultural arts    to encourage academic and
+  community success. Upon graduating from our programs, we will place youth in
+  internships that match their field of interest, while connecting youth to
+  networking relationships and mentors.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Student education pipeline","Suspension and expulsion rates","Youth

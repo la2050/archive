@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3954291065741-team90.jpg
 project_video: ''
-project_description: >-
-  So many of the jobs available to homeless youth are low-paying jobs, and we
-  think they deserve more than that; they deserve the opportunity to have a
-  career. We will use these resources to open a barber college attended by
-  traditional students and homeless youth where they can become certified
-  barbers. The college will encourage an entrepreneurial spirit rather than a
-  charitable one, and its students will quickly understand the ways in which
-  community and service work together in L.A.
+project_summary: >-
+  The Precise Barber College will provide pathways to careers for homeless youth
+  - not just jobs - and combine the best of the for-profit and non-profit worlds
+  for a socially conscious enterprise.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We will be collaborating with Mr. Gabe Torres, owner/operator of Precise
@@ -71,6 +67,14 @@ project_proposal_help:
   - 'Education/training '
   - Technical infrastructure (computers
   - Network/relationship support
+project_description: >-
+  So many of the jobs available to homeless youth are low-paying jobs, and we
+  think they deserve more than that; they deserve the opportunity to have a
+  career. We will use these resources to open a barber college attended by
+  traditional students and homeless youth where they can become certified
+  barbers. The college will encourage an entrepreneurial spirit rather than a
+  charitable one, and its students will quickly understand the ways in which
+  community and service work together in L.A.
 project_impact: '["Self-sufficiency","Resilient communities","Homelessness"]'
 project_proposal_best_place: >-
   In order for homeless young people to truly be independent, they are going to

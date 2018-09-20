@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5030775394741-team91.jpg
 project_video: 'https://www.youtube.com/embed/LxJHEQHCP5c?rel=0&amp;showinfo=0'
-project_description: >-
-  The 2050 Challenge grant will fully support one series of short-content films.
-  Our proposed series is “Mixing California Native with Non-Native Plants”.
-  These short films show people how to retrofit their non-native gardens with
-  native plants adapted to our rainfall, climate, and soil – plants that most of
-  our butterflies, birds and other animals can’t live without. Use these films
-  to retrofit with native plants for creating a beautiful resilient LA where
-  nature and urban agriculture can thrive!
+project_summary: >-
+  Short films empowering people to create evergreen, flowering California native
+  gardens that bring back LA’s butterflies and birds and save water! Learn how
+  to plant native to revitalize LA!
 project_is_collaboration: 'Yes'
 project_collaborators: Arroyo Seco Foundation
 project_areas:
@@ -58,6 +54,14 @@ project_proposal_help:
   - Technical infrastructure (computers
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The 2050 Challenge grant will fully support one series of short-content films.
+  Our proposed series is “Mixing California Native with Non-Native Plants”.
+  These short films show people how to retrofit their non-native gardens with
+  native plants adapted to our rainfall, climate, and soil – plants that most of
+  our butterflies, birds and other animals can’t live without. Use these films
+  to retrofit with native plants for creating a beautiful resilient LA where
+  nature and urban agriculture can thrive!
 project_impact: '["Waterways","Local water","Resilient communities","Tree canopy cover"]'
 project_proposal_best_place: >-
   Through the content of these films and the action they inspire, the LA2050

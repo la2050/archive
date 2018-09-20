@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6368104854741-team91.jpg
 project_video: 'https://www.youtube.com/embed/9rIjGtZLljo?rel=0&amp;showinfo=0'
-project_description: >-
-  We are creating an educational platform to give underserved girls resources to
-  empower them as valuable creators in this new tech and media landscape. 
-  Recently, VRLA School, Arts Bridging the Gap, SH//FT and other organizations
-  collaborated to put on the first Girls Make VR hands-on workshop for young
-  girls interested in learning how to make interactive Virtual Reality (VR)
-  content.  It proved to be a hugely valuable experience for the girls -
-  immersing them in a new world and potential future.
+project_summary: >-
+  Weekly educational events, workshops and classes to teach underserved girls
+  cutting edge creative and technical processes for making Virtual Reality and
+  Augmented Reality content.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   VRLA School: the education arm of the largest VR/AR expo in the world, VRLA.,
@@ -64,6 +60,14 @@ project_proposal_help:
   - Publicity/awareness
   - Technical infrastructure (computers etc.)
   - Network/relationship support
+project_description: >-
+  We are creating an educational platform to give underserved girls resources to
+  empower them as valuable creators in this new tech and media landscape. 
+  Recently, VRLA School, Arts Bridging the Gap, SH//FT and other organizations
+  collaborated to put on the first Girls Make VR hands-on workshop for young
+  girls interested in learning how to make interactive Virtual Reality (VR)
+  content.  It proved to be a hugely valuable experience for the girls -
+  immersing them in a new world and potential future.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Youth unemployment and underemployment"]

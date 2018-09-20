@@ -12,10 +12,10 @@ organization_activity: Food & Water Watch champions healthy food and clean water
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7867733165741-team90.png
 project_video: ''
-project_description: >-
-  Building on our work to ban fracking and end our dependence on dirty fossil
-  fuels, Food & Water Watch is undertaking a strategic campaign to transition
-  Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
+project_summary: >-
+  It’s time for L.A. be a global leader and make the transition to 100% clean,
+  renewable energy by 2030 - we will build political power in communities across
+  L.A. to make this transition a reality.
 project_is_collaboration: 'Yes'
 project_collaborators: ''
 project_areas:
@@ -37,6 +37,10 @@ project_proposal_help:
   - Publicity/awareness
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Building on our work to ban fracking and end our dependence on dirty fossil
+  fuels, Food & Water Watch is undertaking a strategic campaign to transition
+  Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
 project_impact: '["Waterways","Exposure to air toxins","Local water","Resilient communities"]'
 project_proposal_best_place: >-
   In Los Angeles, residents struggle to live with some of the worst air quality

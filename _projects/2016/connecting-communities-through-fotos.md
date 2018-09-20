@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2500980265741-team91.jpg
 project_video: ''
-project_description: >-
-  Pictures are a powerful way to convey your mission and communicate your social
-  impact. But let’s face it, many nonprofits don’t have flexible funds for great
-  photography and marketing. Our project will host photoshoots for 20
-  organizations across Greater LA, in order to help them tell their story and
-  create visual representations of the life-changing work being done.
+project_summary: >-
+  There are thousands of inspiring stories, people and nonprofits that make LA
+  dynamic. Help us tell their stories through photos - connecting people and
+  communities!
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Las Fotos Project and Momentum Solutions Team are the core partners. In
@@ -65,6 +63,12 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Pictures are a powerful way to convey your mission and communicate your social
+  impact. But let’s face it, many nonprofits don’t have flexible funds for great
+  photography and marketing. Our project will host photoshoots for 20
+  organizations across Greater LA, in order to help them tell their story and
+  create visual representations of the life-changing work being done.
 project_impact: >-
   ["Social & emotional support","Rates of volunteerism","Total number of local
   social media friends and connections Angelenos have"]

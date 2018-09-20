@@ -17,9 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4934410265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/-7-HrBCZPFo?rel=0&amp;showinfo=0'
-project_description: >-
-  Connect the community to unique and custom planes to give of your time,
-  treasure or talent, locally.
+project_summary: >-
+  GiveTodayLA is all about connecting you to experiences and causes right here
+  in LA. Our social share platform ranks community goals and causes and creates
+  ways to give local: time, treasure or talent.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -44,6 +45,9 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Connect the community to unique and custom planes to give of your time,
+  treasure or talent, locally.
 project_impact: >-
   ["Access to free wifi","Social & emotional support","Cultural
   events","Public/open streets gatherings","Government responsiveness to

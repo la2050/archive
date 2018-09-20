@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/5359541815741-team91.jpg
 project_video: 'https://www.youtube.com/embed/ydbOMK-5HPM?rel=0&amp;showinfo=0'
-project_description: >-
-  In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
-  use during non-school hours, providing a park within walking distance of
-  45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
-  partnership with Kid Healthy, train parents and residents in neighborhood
-  engagement, recruiting, playground management and physical activities.
-  Community mobilization by PFP and Kid Healthy will keep these play spaces open
-  and sustainable.
+project_summary: >-
+  People for Parks transforms public park access. Partnering with Kid Healthy
+  we’ll train parents to grow our 11 new Community School Parks into vibrant
+  places for kids and families to play and thrive.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are collaborating with Kid Healthy, a community based organization, on
@@ -78,6 +74,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  In 2016, People for Parks (PFP) opened 9 new Community School Parks (CSPs) for
+  use during non-school hours, providing a park within walking distance of
+  45,000 Angelenos. In 2017, PFP will operate 11 CSPs and through a strategic
+  partnership with Kid Healthy, train parents and residents in neighborhood
+  engagement, recruiting, playground management and physical activities.
+  Community mobilization by PFP and Kid Healthy will keep these play spaces open
+  and sustainable.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Number

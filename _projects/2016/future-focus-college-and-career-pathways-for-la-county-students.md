@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4142800165741-team91.png
 project_video: 'https://www.youtube.com/embed/EVn09zI9fe4?rel=0&amp;showinfo=0'
-project_description: >-
-  Personalized college and career planning should not be something only
-  accessible to the wealthiest Angelenos. In California’s public schools,
-  college counselors on average can only spend 38 minutes once a year per
-  student advising them on this critical process. The Future Focus program
-  ameliorates this situation by providing group workshops and individual
-  mentoring to students and their families to ensure that everyone is given
-  equitable support to pursue their dreams beyond high school.
+project_summary: >-
+  The Future Focus program provides all students and families - regardless of
+  income – personalized support to transition from high school to college and
+  career.
 project_is_collaboration: 'Yes'
 project_collaborators: College Bridge and YMCA of Metropolitan Los Angeles
 project_areas:
@@ -62,6 +58,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  Personalized college and career planning should not be something only
+  accessible to the wealthiest Angelenos. In California’s public schools,
+  college counselors on average can only spend 38 minutes once a year per
+  student advising them on this critical process. The Future Focus program
+  ameliorates this situation by providing group workshops and individual
+  mentoring to students and their families to ensure that everyone is given
+  equitable support to pursue their dreams beyond high school.
 project_impact: >-
   ["College matriculation rates","Student education pipeline","Youth
   unemployment and underemployment"]

@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8535340073741-team88.JPG
 project_video: ''
-project_description: >-
-  The demand for our signature Survivor Retreat Program for survivors of
-  domestic and sexual violence exceeds its availability and reach. In response,
-  we have undertaken an ambitious research project in partnership with
-  Georgetown University to evaluate our retreats. Our research findings will
-  used to create a replicable Retreat Model that organizations can implement and
-  offer to survivors, the healing professionals who serve them, and communities
-  beyond our current capacity and scope.
+project_summary: >-
+  Joyful Heart's Survivor Retreat Model offers LA's survivors of sexual assault,
+  domestic violence, and child abuse, and the professionals who serve them, a
+  new holistic pathway to healing from trauma.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Peace Over Violence, Village Family Services, Homeboy Industries, Georgetown
@@ -60,6 +56,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles
   - Technical infrastructure (computers
   - Network/relationship support
+project_description: >-
+  The demand for our signature Survivor Retreat Program for survivors of
+  domestic and sexual violence exceeds its availability and reach. In response,
+  we have undertaken an ambitious research project in partnership with
+  Georgetown University to evaluate our retreats. Our research findings will
+  used to create a replicable Retreat Model that organizations can implement and
+  offer to survivors, the healing professionals who serve them, and communities
+  beyond our current capacity and scope.
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences","Mental illness"]

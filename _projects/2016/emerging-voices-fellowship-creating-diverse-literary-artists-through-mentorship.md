@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4957308744741-team88.jpg
 project_video: 'https://www.youtube.com/embed/L9QrXSUROQ0?rel=0&amp;showinfo=0'
-project_description: >-
-  PEN USA will select five individuals who are in the early stages of their
-  literary careers—based on their writing talent, potential, and limited access
-  to traditional educational and publishing opportunities—for a seven-month
-  fellowship. Fellows are paired with a LA-based writer/mentor; take two free
-  classes through the UCLA Extension Writers’ Program; attend genre-specific
-  classes; receive a nominal stipend; participate in a volunteer project; and
-  share their works at public readings.
+project_summary: >-
+  Annually, PEN Center USA produces and presents a seven-month Emerging Voices
+  Fellowship pairing five budding writers with professional Los Angeles-based
+  writer/mentors.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -73,6 +69,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  PEN USA will select five individuals who are in the early stages of their
+  literary careers—based on their writing talent, potential, and limited access
+  to traditional educational and publishing opportunities—for a seven-month
+  fellowship. Fellows are paired with a LA-based writer/mentor; take two free
+  classes through the UCLA Extension Writers’ Program; attend genre-specific
+  classes; receive a nominal stipend; participate in a volunteer project; and
+  share their works at public readings.
 project_impact: >-
   ["Arts establishments","Employment in the creative industries","Measures of
   cultural and global economic influence (“soft power”)"]

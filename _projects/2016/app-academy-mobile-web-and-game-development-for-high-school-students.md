@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4308721265741-team91.jpg
 project_video: 'https://www.youtube.com/embed/gzso3MPN5og?rel=0&amp;showinfo=0'
-project_description: >-
-  The APP Academy is a collaboration of the Pasadena Educational Foundation and
-  the Pasadena Unified School District, designed to teach computer science to
-  high school students from diverse backgrounds and prepare them for success in
-  college and career. The 4-year program delivers a project-based learning
-  experience where students learn programming by creating their own websites,
-  games and mobile apps. Started in 2012, it graduated its first class of
-  students in 2016, who are now all in college.
+project_summary: >-
+  The APP Academy is a four-year computer science education program where high
+  school students learn mobile, web and game development through real-world,
+  inquiry-based, hands-on projects.
 project_is_collaboration: 'Yes'
 project_collaborators: '1. Pasadena Unified School District, 2. Pasadena Chamber of Commerce'
 project_areas:
@@ -60,6 +56,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  The APP Academy is a collaboration of the Pasadena Educational Foundation and
+  the Pasadena Unified School District, designed to teach computer science to
+  high school students from diverse backgrounds and prepare them for success in
+  college and career. The 4-year program delivers a project-based learning
+  experience where students learn programming by creating their own websites,
+  games and mobile apps. Started in 2012, it graduated its first class of
+  students in 2016, who are now all in college.
 project_impact: >-
   ["College completion","College matriculation rates","Student education
   pipeline"]

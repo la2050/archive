@@ -15,13 +15,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1825639986741-team91.jpg
 project_video: ''
-project_description: >-
-  This Summit will provide students in East Los Angeles the opportunity to learn
-  about cutting edge environmental science careers that will enable them to
-  become part of the local economy and contribute to their communities cleaner,
-  more accessible, and sustainable. ITEP will convene industry and community
-  partners to hear the Generation Z perspective on community problems and
-  potential solutions.
+project_summary: >-
+  Local industry leaders and East LA youth will converge inspire the next
+  generation of environmental leaders and change.
 project_is_collaboration: 'No'
 project_collaborators: N/A
 project_areas:
@@ -55,6 +51,13 @@ project_proposal_help:
   - 'Education/training '
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  This Summit will provide students in East Los Angeles the opportunity to learn
+  about cutting edge environmental science careers that will enable them to
+  become part of the local economy and contribute to their communities cleaner,
+  more accessible, and sustainable. ITEP will convene industry and community
+  partners to hear the Generation Z perspective on community problems and
+  potential solutions.
 project_impact: >-
   ["Waterways","Exposure to air toxins","Self-sufficiency","Local
   water","Resilient communities","Tree canopy cover"]

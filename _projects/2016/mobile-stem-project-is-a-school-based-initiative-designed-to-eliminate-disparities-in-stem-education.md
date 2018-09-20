@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/0308329715741-team89.jpg
 project_video: 'https://www.youtube.com/embed/rGOQvQ3eOJk?rel=0&amp;showinfo=0'
-project_description: >-
-  The Mobile STEM  project will provide twenty-six (26) one-hour and fifteen
-  minute weekly scientific investigation and engineering design projects for
-  students in 3rd through 5th grade. Project-based activities provide in-depth,
-  kinesthetic and creative learning experiences that are hands-on and
-  learner-centered. The learning experiences actively engage students in
-  inquiry-based and problem-solving practices to achieve depth of core ideas in
-  the disciplines of science.
+project_summary: >-
+  In an effort to minimize the achievement gaps in math and science, the Mobile
+  STEM project provides science and engineering engineering that make learning
+  exciting and engaging for South LA students.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -57,6 +53,14 @@ project_measure: >-
 project_proposal_help:
   - 'Money '
   - Volunteers
+project_description: >-
+  The Mobile STEM  project will provide twenty-six (26) one-hour and fifteen
+  minute weekly scientific investigation and engineering design projects for
+  students in 3rd through 5th grade. Project-based activities provide in-depth,
+  kinesthetic and creative learning experiences that are hands-on and
+  learner-centered. The learning experiences actively engage students in
+  inquiry-based and problem-solving practices to achieve depth of core ideas in
+  the disciplines of science.
 project_impact: >-
   ["Proficiency in English and Language Arts and Math","Early
   education","Student education pipeline","Youth unemployment and

@@ -15,12 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/2775648715741-team90.jpg
 project_video: 'https://www.youtube.com/embed/Y7hnhC54WqA?rel=0&amp;showinfo=0'
-project_description: >-
-  An annual community fun-fest  held at a public venue in South LA, Da FUNction
-  offers residents and the larger LA community a day of play with a diverse menu
-  of activities ranging from drumming, weaving, ceramics, woodworking,
-  gardening, yoga and more. Da FUNction serves to transform unused, undervalued
-  public spaces into beautiful places full of life, culture & art.
+project_summary: >-
+  Da FUNction is a one day, free event that brings members from LA’s diverse
+  communities together for one purpose - to have fun and play with a smorgasbord
+  of activities in an otherwise unused space.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -64,6 +62,12 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  An annual community fun-fest  held at a public venue in South LA, Da FUNction
+  offers residents and the larger LA community a day of play with a diverse menu
+  of activities ranging from drumming, weaving, ceramics, woodworking,
+  gardening, yoga and more. Da FUNction serves to transform unused, undervalued
+  public spaces into beautiful places full of life, culture & art.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play

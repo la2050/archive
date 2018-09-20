@@ -14,14 +14,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/3892536625741-team89.jpg
 project_video: 'https://www.youtube.com/embed/ym0IsfhUDW8?rel=0&amp;showinfo=0'
-project_description: >-
-  Using cutting-edge blue technology and state of the art ocean research,
-  AltaSea’s STEM network provides ocean-based programs to middle school students
-  at the LA Waterfront. Through hands-on exploration of the ocean, students will
-  be empowered to be part of the solution to the planet’s sustainability
-  challenges and ultimately to see science/STEM careers as an option. Our long
-  term goal is to motivate our youth to be 21st century champions for a
-  sustainable ocean.
+project_summary: >-
+  AltaSea and our partners are inspiring the next generation to explore the
+  ocean and to generate blue solutions to the world’s most pressing challenges:
+  food, energy and climate security.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   AltaSea at the Port of Los Angeles, Ocean Exploration Trust, Los Angeles
@@ -72,6 +68,14 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  Using cutting-edge blue technology and state of the art ocean research,
+  AltaSea’s STEM network provides ocean-based programs to middle school students
+  at the LA Waterfront. Through hands-on exploration of the ocean, students will
+  be empowered to be part of the solution to the planet’s sustainability
+  challenges and ultimately to see science/STEM careers as an option. Our long
+  term goal is to motivate our youth to be 21st century champions for a
+  sustainable ocean.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Proficiency
   in English and Language Arts and Math","Student education pipeline"]

@@ -17,13 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4297890165741-team90.jpg
 project_video: 'https://www.youtube.com/embed/5fPP7vcVjlM?rel=0&amp;showinfo=0'
-project_description: >-
-  HYC’s Conservation Pathways Project will advance the Southeast Los Angeles
-  community’s understanding of water and energy conservation by providing
-  education regarding drought-tolerant plants, agricultural practices,
-  irrigation basics and garden design; present practical information to the
-  public on ways to lessen resource consumption; and connect residents to career
-  prospects in the expanding environmental industry.
+project_summary: >-
+  HYC's Conservation Pathways Project in Southeast LA County boosts residents’
+  understanding of environmental sustainability and awareness of prospective
+  careers in the growing eco-friendly industry.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   County of Los Angeles, The Orchard Dale Water District, Water Replenishment
@@ -73,6 +70,13 @@ project_proposal_help:
   - Technical infrastructure (computers etc.)
   - 'Community outreach '
   - Network/relationship support
+project_description: >-
+  HYC’s Conservation Pathways Project will advance the Southeast Los Angeles
+  community’s understanding of water and energy conservation by providing
+  education regarding drought-tolerant plants, agricultural practices,
+  irrigation basics and garden design; present practical information to the
+  public on ways to lessen resource consumption; and connect residents to career
+  prospects in the expanding environmental industry.
 project_impact: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of children enrolled in afterschool programs","Number

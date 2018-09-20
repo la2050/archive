@@ -16,14 +16,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/1054585155741-team89.jpg
 project_video: 'https://www.youtube.com/embed/UclMuVfefwA?rel=0&amp;showinfo=0'
-project_description: >-
-  POLAHS prepares 950 students to be college and career ready through our Career
-  Technical Education (CTE) program. POLAHS offers a college preparatory
-  curriculum with CTE pathways in the high-skill, high-wage, high-demand
-  industries of Digital Media; Boat Operations; and Construction Technology.
-  Postsecondary and industry partnerships are integral to the program, allowing
-  students to graduate with core academic skills, employability skills, and
-  technical, job-specific skills.
+project_summary: >-
+  POLAHS provides a college preparatory education with Career Technical
+  Education (CTE) pathways in the high-skill, high-wage, high-demand industries
+  of Boat Operations; Digital Media; and Construction.
 project_is_collaboration: 'Yes'
 project_collaborators: Los Angeles Maritime Institute
 project_areas:
@@ -82,6 +78,14 @@ project_proposal_help:
   - Publicity/awareness
   - Technical infrastructure (computers etc.)
   - Network/relationship support
+project_description: >-
+  POLAHS prepares 950 students to be college and career ready through our Career
+  Technical Education (CTE) program. POLAHS offers a college preparatory
+  curriculum with CTE pathways in the high-skill, high-wage, high-demand
+  industries of Digital Media; Boat Operations; and Construction Technology.
+  Postsecondary and industry partnerships are integral to the program, allowing
+  students to graduate with core academic skills, employability skills, and
+  technical, job-specific skills.
 project_impact: >-
   ["College completion","College matriculation rates","District-wide graduation
   rates","Proficiency in English and Language Arts and Math","Student education

@@ -17,17 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/7904799065741-team91.jpg
 project_video: 'https://www.youtube.com/embed/WWAqDf9vNEg?rel=0&amp;showinfo=0'
-project_description: >-
-  LA families struggle to access comprehensive, objective information on  school
-  choices.
-
-
-  With the support of LA2050, and in collaboration with leading childhood
-  experts and area preschools, PEL will create a series of accessible, dynamic,
-  purposeful and content-rich “Public Service Mini-Courses on Early Childhood
-  Education” to educate families on the importance and purpose of early
-  childhood education AND the methodology and criteria to find the best fitting
-  early childhood environments.
+project_summary: >-
+  PEL will launch a series of accessible, content-rich, dynamic and purposeful
+  “Public Service Mini-Courses ” for families to educate, empower, and provide
+  access to early childhood education choices.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Child Care Alliance of LA, LAUSD Early Childhood Education Division, Westside
@@ -45,6 +38,17 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - Quality improvement research
+project_description: >-
+  LA families struggle to access comprehensive, objective information on  school
+  choices.
+
+
+  With the support of LA2050, and in collaboration with leading childhood
+  experts and area preschools, PEL will create a series of accessible, dynamic,
+  purposeful and content-rich “Public Service Mini-Courses on Early Childhood
+  Education” to educate families on the importance and purpose of early
+  childhood education AND the methodology and criteria to find the best fitting
+  early childhood environments.
 project_impact: '["Early education","Student education pipeline"]'
 project_proposal_best_place: >-
   While, fortunately, there are many educational options (private, public,

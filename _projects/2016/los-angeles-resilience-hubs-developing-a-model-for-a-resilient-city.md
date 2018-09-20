@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8832997725741-team90.jpg
 project_video: ''
-project_description: >-
-  As the effects of climate change manifest in Los Angeles, prolonged heat
-  waves, dry spells and fires threaten to disrupt power grids, force families
-  from their homes, and underscore the need for off-grid centers where residents
-  can gather, cool down, charge phones, contact family, and receive critical
-  updates from emergency personnel. We will work with local communities,
-  designers, and government organizations to develop a model for Resilience Hubs
-  in neighborhoods throughout the County.
+project_summary: >-
+  Developing regionally appropriate model Resilience Hubs so Los Angeles
+  residents can safely and quickly bounce back from extreme weather events and
+  natural disasters.
 project_is_collaboration: 'No'
 project_collaborators: None.
 project_areas:
@@ -62,6 +58,14 @@ project_proposal_help:
   - Infrastructure (building/space/vehicles
   - Technical infrastructure (computers
   - Community outreach
+project_description: >-
+  As the effects of climate change manifest in Los Angeles, prolonged heat
+  waves, dry spells and fires threaten to disrupt power grids, force families
+  from their homes, and underscore the need for off-grid centers where residents
+  can gather, cool down, charge phones, contact family, and receive critical
+  updates from emergency personnel. We will work with local communities,
+  designers, and government organizations to develop a model for Resilience Hubs
+  in neighborhoods throughout the County.
 project_impact: >-
   ["Self-sufficiency","Resilient communities","Prevalence of adverse childhood
   experiences"]

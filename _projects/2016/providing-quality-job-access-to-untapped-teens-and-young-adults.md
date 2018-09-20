@@ -15,14 +15,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/8216358055741-team91.jpg
 project_video: 'https://www.youtube.com/embed/TsbsuQ8zdgM?rel=0&amp;showinfo=0'
-project_description: >-
-  Knit Marketing has been in operation since June 2016. We have hired two
-  interns from View Park High School and are consistently managing social media
-  accounts for 2 monthly clients and supporting 2 additional small business
-  clients with short term projects. Knit Marketing is expanding and aims to
-  create a sustainable business that will be able to hire and train at least 6
-  youth employees this year, and double the number of employees each year
-  thereafter.
+project_summary: >-
+  Knit Marketing is a social media marketing agency that recruits, trains, and
+  employs teens and young adults from untapped communities in Los Angeles, to
+  manage marketing campaigns for businesses.
 project_is_collaboration: 'No'
 project_collaborators: None
 project_areas:
@@ -50,6 +46,14 @@ project_proposal_help:
   - Publicity/awareness
   - 'Education/training '
   - Network/relationship support
+project_description: >-
+  Knit Marketing has been in operation since June 2016. We have hired two
+  interns from View Park High School and are consistently managing social media
+  accounts for 2 monthly clients and supporting 2 additional small business
+  clients with short term projects. Knit Marketing is expanding and aims to
+  create a sustainable business that will be able to hire and train at least 6
+  youth employees this year, and double the number of employees each year
+  thereafter.
 project_impact: >-
   ["College matriculation rates","District-wide graduation rates","Student
   education pipeline","Youth unemployment and underemployment"]

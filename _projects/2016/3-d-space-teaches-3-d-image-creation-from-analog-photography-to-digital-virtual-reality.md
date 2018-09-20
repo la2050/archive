@@ -17,12 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4065764555741-team91.jpg
 project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk?rel=0&amp;showinfo=0'
-project_description: >-
-  3-D SPACE will implement an ongoing program of public presentations, classes
-  and workshops in stereoscopic 3-D history and content creation, from 3-D
-  photography and filmmaking to immersive virtual reality. These programs will
-  include outreach to LA's underserved communities, and also specialized
-  educational initiatives for LA's creative youth and senior populations.
+project_summary: >-
+  3-D SPACE will implement public presentations, classes and workshops in
+  stereoscopic 3-D history and content creation, from 3-D photography and
+  filmmaking to immersive virtual reality.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas: '["Central LA","San Fernando Valley"]'
@@ -66,6 +64,12 @@ project_proposal_help: >-
   (building/space/vehicles etc.)","Education/training ","Technical
   infrastructure (computers etc.)","Community outreach ","Network/relationship
   support"]
+project_description: >-
+  3-D SPACE will implement an ongoing program of public presentations, classes
+  and workshops in stereoscopic 3-D history and content creation, from 3-D
+  photography and filmmaking to immersive virtual reality. These programs will
+  include outreach to LA's underserved communities, and also specialized
+  educational initiatives for LA's creative youth and senior populations.
 project_impact: '["Arts establishments","Employment in the creative industries"]'
 project_proposal_best_place: >-
   Our goals are to celebrate the work of many talented artists, photographers

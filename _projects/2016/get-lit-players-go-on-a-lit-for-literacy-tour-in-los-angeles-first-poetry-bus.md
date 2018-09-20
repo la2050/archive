@@ -17,14 +17,10 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6403175774741-team90.jpg
 project_video: 'https://www.youtube.com/embed/xQ9wavSt_34?rel=0&amp;showinfo=0'
-project_description: >-
-  Get Lit seeks funds to put the Get Lit Players on our brand new Poetry Bus for
-  a “Lit for Literacy” Tour that will visit underserved middle schools, high
-  schools, and community centers throughout Los Angeles County. The Tour will
-  use the Players’ new book “Get Lit Rising,” which includes personal stories
-  and poems, to inspire teens to get involved and stay in school, cultivate a
-  love of language and learning, and ignite community, connectedness, and social
-  activism amongst the citizens of LA.
+project_summary: >-
+  The Get Lit Players go on a 'Lit for Literacy' tour with their new book 'Get
+  Lit Rising' to promote literacy and self expression amongst underserved and
+  marginalized Los Angeles youth.
 project_is_collaboration: 'No'
 project_collaborators: none
 project_areas:
@@ -77,6 +73,14 @@ project_proposal_help:
   - 'Community outreach '
   - Network/relationship support
   - n/a
+project_description: >-
+  Get Lit seeks funds to put the Get Lit Players on our brand new Poetry Bus for
+  a “Lit for Literacy” Tour that will visit underserved middle schools, high
+  schools, and community centers throughout Los Angeles County. The Tour will
+  use the Players’ new book “Get Lit Rising,” which includes personal stories
+  and poems, to inspire teens to get involved and stay in school, cultivate a
+  love of language and learning, and ignite community, connectedness, and social
+  activism amongst the citizens of LA.
 project_impact: >-
   ["Social & emotional support","Cultural events","Public/open streets
   gatherings","Residential segregation","Total number of local social media

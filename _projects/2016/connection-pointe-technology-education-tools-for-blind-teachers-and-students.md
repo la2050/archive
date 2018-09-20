@@ -14,11 +14,9 @@ organization_activity: >-
 project_image: >-
   https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/4196312265741-team91.jpg
 project_video: ''
-project_description: >-
-  We will development and deploy a tablet-based, fully accessible digital
-  curriculum tool that allows our visually impaired instructors to effectively
-  teach digital literacy skills to our blind students in one-on-one and group
-  settings.
+project_summary: >-
+  We will create a fully accessible iPad application that will guide blind and
+  visually impaired users through our digital literacy curriculum.
 project_is_collaboration: 'Yes'
 project_collaborators: >-
   Braille Institute of America, EG Technologies - Technology and Software
@@ -37,6 +35,11 @@ project_proposal_help:
   - Advisors/board members
   - Publicity/awareness
   - Network/relationship support
+project_description: >-
+  We will development and deploy a tablet-based, fully accessible digital
+  curriculum tool that allows our visually impaired instructors to effectively
+  teach digital literacy skills to our blind students in one-on-one and group
+  settings.
 project_impact: '["Student education pipeline"]'
 project_proposal_best_place: >-
   The demand for technology instruction, especially instruction for the visually
