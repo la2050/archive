@@ -121,6 +121,7 @@ project_proposal_description: >-
   neglected youth, and will develop a training for CASA volunteers to better
   coordinate these partnerships. CASA will serve at least 30 additional foster
   youth in Los Angeles County through this advocacy.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

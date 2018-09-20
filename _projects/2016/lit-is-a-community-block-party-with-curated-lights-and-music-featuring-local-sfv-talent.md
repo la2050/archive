@@ -110,6 +110,7 @@ project_proposal_description: >-
   series of live DJ sets at a community block party on Reseda Boulevard. LIT
   will also feature local artists, performers and businesses from the San
   Fernando Valley in a fun, night market atmosphere.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

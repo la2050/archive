@@ -181,6 +181,7 @@ project_proposal_description: >-
   reflects LA's culture, and to offer resources for both sides to more
   efficiently give and receive manpower, internships, mentorships, scholarships,
   monetary support, hardware, software, and more.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

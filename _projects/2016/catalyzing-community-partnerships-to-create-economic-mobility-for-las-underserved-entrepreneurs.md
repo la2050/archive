@@ -92,6 +92,7 @@ project_proposal_description: >-
   combine forces with community-based organizations by providing microloans to
   their constituents. This collaboration is a means to scale and provide fairer
   and affordable capital options for our community.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

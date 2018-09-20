@@ -157,6 +157,7 @@ project_proposal_description: >-
   Postsecondary and industry partnerships are integral to the program, allowing
   students to graduate with core academic skills, employability skills, and
   technical, job-specific skills.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

@@ -157,6 +157,7 @@ project_proposal_description: >-
   physicians and their patients on food insecurity and available food resources
   in our community. We will organize physicians through educational webinars,
   social media campaigns, and grassroots organizing.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

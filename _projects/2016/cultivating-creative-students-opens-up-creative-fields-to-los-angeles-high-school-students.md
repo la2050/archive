@@ -106,6 +106,7 @@ project_proposal_description: >-
   rigorous creative college prep resources, including college counseling,
   portfolio coaching, documentation and more, to students lacking the financial
   resources for such focussed support.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

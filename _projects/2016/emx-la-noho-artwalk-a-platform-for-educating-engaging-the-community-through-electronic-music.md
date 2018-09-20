@@ -141,6 +141,7 @@ project_proposal_description: >-
   enhance their communities by active involvement in the NoHo ArtWalk,
   after-school DJ programs for kids, after-school Producer programs for
   teens/adults, and the Electronic Music Alliance’s Play it FWD program.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

@@ -99,6 +99,7 @@ project_proposal_description: >-
   positive adult and peer mentors, family and social support services, field
   trips, and a robust college prep program. We set high expectations and support
   children with the resources needed to thrive.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

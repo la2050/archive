@@ -70,6 +70,7 @@ project_proposal_description: >-
   training in the bartering of developed production skills to collaborate on
   filmlit projects. Pupils will own stock in the projects they bring forth to
   fruition.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

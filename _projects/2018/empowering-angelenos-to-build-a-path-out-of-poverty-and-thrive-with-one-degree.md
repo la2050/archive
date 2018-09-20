@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Number of households below the self-sufficiency standard","Resilient
   communities","Residents receiving coordinated healthcare services"]
-category: learn
+category: live
 organization_id: '2018092'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-degree.jpg'
 project_video: ''
@@ -160,6 +160,6 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/live/one-degree/'
-body_class: blueberry
+body_class: lime
 
 ---

@@ -137,6 +137,7 @@ project_proposal_description: >-
   inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
   set of 3 educator enrichment manuals, with a final Recognition Assembly
   showcasing student reading achievements and compassion.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

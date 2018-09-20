@@ -58,6 +58,7 @@ project_proposal_description: >-
   parents complete together at home and follow up with feedback to the teacher.
   It connects teachers and parents online and via text messaging to share
   information on student learning.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

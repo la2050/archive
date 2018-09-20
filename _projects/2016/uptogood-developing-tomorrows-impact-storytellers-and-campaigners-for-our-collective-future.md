@@ -138,6 +138,7 @@ project_proposal_description: >-
   will actively ideate, film, and host social impact campaigns for causes they
   care about on UPTOGOOD, while working closely with local NGOs and companies
   looking to make a positive social impact.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -127,6 +127,7 @@ project_proposal_description: >-
   specific neighborhoods: young people, caring adults, retail community members,
   community volunteers to ignite connectivity, inspire action and community
   pride for healthy relationships and healthy spaces for all.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

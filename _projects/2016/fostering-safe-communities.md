@@ -87,6 +87,7 @@ project_proposal_description: >-
   lifetime, so we train women, specifically women who grew up in the mostly
   unsafe environment of foster care, that they can prevent violence and how to
   defend themselves when necessary.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

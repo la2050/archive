@@ -150,6 +150,7 @@ project_proposal_description: >-
   engagement, recruiting, playground management and physical activities.
   Community mobilization by PFP and Kid Healthy will keep these play spaces open
   and sustainable.
+category: play
 body_class: strawberry
 
 ---

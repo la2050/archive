@@ -127,6 +127,7 @@ project_proposal_description: >-
   This planning tool will 1) collect isolated data from its disparate sources,
   2) connect data into comprehensive, dynamic visual scenarios, and 3) convey
   the impact of various planning solutions.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -143,6 +143,7 @@ project_proposal_description: >-
   landscape of Los Angeles and its freeway systems that connect and divide us
   interpreted and culminated through spoken word and dance in a public
   performance to create dialogue in surrounding communities.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

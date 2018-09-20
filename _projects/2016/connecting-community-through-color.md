@@ -137,6 +137,7 @@ project_proposal_description: >-
   environment, kids of any age will be more engaged and committed to their
   educational journey, schools will be more welcoming, and every community can
   enjoy and appreciate beautiful art.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

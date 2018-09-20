@@ -7,7 +7,7 @@ project_summary: >-
   being able to see, which the UCLA Mobile Eye Clinic proposes to remedy for
   people experiencing homelessness in L.A.
 impact_metrics: '["Healthcare access","Residents receiving coordinated healthcare services"]'
-category: connect
+category: live
 organization_id: '2018130'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/ucla-mobile-eye-clinic-umec.jpg
@@ -110,6 +110,6 @@ category_other:
   - LA is the best place to LEARN
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
-body_class: tangerine
+body_class: lime
 
 ---

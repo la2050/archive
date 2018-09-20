@@ -136,6 +136,7 @@ project_proposal_description: >-
   Mozi, Core Innovate’s writing software. Students will strengthen their
   communication skills as they research and produce podcast episodes that will
   tell the story of LA’s agents of change.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

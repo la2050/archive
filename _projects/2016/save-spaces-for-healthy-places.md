@@ -151,6 +151,7 @@ project_proposal_description: >-
   3) understanding the linkage between lack of community resources and health;
   and 4) connecting them to civic engagement through their Neighborhood Councils
   and other pathways to activism.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -109,6 +109,7 @@ project_proposal_description: >-
   immerses the viewer in the lives of real people, fosters an understanding of
   their needs, and elevates the narrative to inspire transformative ideas to
   shape equitable planning and design.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

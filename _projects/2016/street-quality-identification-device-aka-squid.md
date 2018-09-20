@@ -143,6 +143,7 @@ project_proposal_description: >-
   cloud data storage and computation to empower street level bureaucrats to
   augment existing street response tactics towards equitable and efficient
   outcomes.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

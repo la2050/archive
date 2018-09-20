@@ -88,6 +88,7 @@ project_proposal_description: >-
   classes through the UCLA Extension Writers’ Program; attend genre-specific
   classes; receive a nominal stipend; participate in a volunteer project; and
   share their works at public readings.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

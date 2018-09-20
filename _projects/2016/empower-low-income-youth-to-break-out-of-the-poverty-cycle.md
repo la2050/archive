@@ -146,6 +146,7 @@ project_proposal_description: >-
   Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
   schools on our waiting list and we would like to expand to support more
   schools and students.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

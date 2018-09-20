@@ -122,6 +122,7 @@ project_proposal_description: >-
   drawing’s power as a tool for learning, observation, creativity, and social
   and cultural engagement by the community – enhancing the quality of each
   Angeleno and representing Los Angeles as the creative capital that it is.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

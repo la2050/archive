@@ -124,6 +124,7 @@ project_proposal_description: >-
   outreach to local programs and provide them with a platform and advisory
   services that will allow them to leverage their resources to impact more
   children throughout Los Angeles.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

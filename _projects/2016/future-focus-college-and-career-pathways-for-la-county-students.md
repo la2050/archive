@@ -127,6 +127,7 @@ project_proposal_description: >-
   ameliorates this situation by providing group workshops and individual
   mentoring to students and their families to ensure that everyone is given
   equitable support to pursue their dreams beyond high school.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

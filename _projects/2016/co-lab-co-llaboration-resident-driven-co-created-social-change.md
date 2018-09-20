@@ -159,6 +159,7 @@ project_proposal_description: >-
   strategies, Co/Lab will empower residents to work alongside institutions to
   create & implement a county-wide projects mirroring the success of SBCC’s CFSK
   & iHeart Models.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

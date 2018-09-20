@@ -118,6 +118,7 @@ project_proposal_description: >-
   literacy (0-5) efforts and advising LBL about best strategies for pursuing
   such funding;&  
    positioning LBL as a national expert in early education.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

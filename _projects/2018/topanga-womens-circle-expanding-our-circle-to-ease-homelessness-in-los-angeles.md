@@ -11,7 +11,7 @@ project_summary: >-
 impact_metrics: >-
   ["Prevalence of adverse childhood experiences","Rates of
   homelessness","Resilient communities"]
-category: play
+category: live
 organization_id: '2018126'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/topanga-womens-circle.jpg
@@ -126,6 +126,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/topanga-womens-circle/'
-body_class: strawberry
+body_class: lime
 
 ---

@@ -83,6 +83,7 @@ project_proposal_description: >-
   network helps other organizations tailor the model to fit their own
   communities, and collectively advocate on behalf of those who have been denied
   a voice.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

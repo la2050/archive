@@ -148,6 +148,7 @@ project_proposal_description: >-
   addition, BreastfeedLA and SFYB will work together to bring a dynamic
   culturally congruent breastfeeding education and support program to the
   underserved community of South LA.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

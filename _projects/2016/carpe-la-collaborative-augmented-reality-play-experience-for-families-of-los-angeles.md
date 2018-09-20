@@ -134,6 +134,7 @@ project_proposal_description: >-
   to play a story-driven, location-based game in parks throughout LA. Through a
   series of summer events at which CARPE LA will be played, teams will
   collaborate to unlock the open spaces in their neighborhoods.
+category: play
 body_class: strawberry
 
 ---

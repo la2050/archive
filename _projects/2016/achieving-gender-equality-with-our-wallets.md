@@ -121,6 +121,7 @@ project_proposal_description: >-
   LA-based WOBs. In this way, we will contribute to small business growth, the
   creation of new jobs for women and increased in investments into our
   community.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

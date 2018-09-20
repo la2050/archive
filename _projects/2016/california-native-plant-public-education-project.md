@@ -124,6 +124,7 @@ project_proposal_description: >-
   our butterflies, birds and other animals can’t live without. Use these films
   to retrofit with native plants for creating a beautiful resilient LA where
   nature and urban agriculture can thrive!
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

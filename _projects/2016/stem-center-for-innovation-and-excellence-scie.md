@@ -148,6 +148,7 @@ project_proposal_description: >-
   that improve their community and/or create entrepreneurial opportunities.
   Students work in teams to create prototypes of apps and products in a local
   maker space/starter garage setting at their school.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

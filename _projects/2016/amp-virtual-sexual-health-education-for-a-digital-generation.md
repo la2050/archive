@@ -122,6 +122,7 @@ project_proposal_description: >-
   education. There are approximately 60,000 ninth graders in LAUSD. An AMP!
   digital platform would allow us to reach them by providing an accessible,
   updated resource to all LAUSD health teachers.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

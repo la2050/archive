@@ -159,6 +159,7 @@ project_proposal_description: >-
   improve Exposition Park's contribution to surrounding neighborhoods by
   planning for additional amenities and better-marked links between public
   transit, pedestrian routes, and biking trails.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

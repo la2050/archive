@@ -9,7 +9,7 @@ project_summary: >-
   empowering residents to conduct community outreach and education, so that
   their fellow neighbors can access wellness resources.
 impact_metrics: '["Adults getting sufficient social & emotional support"]'
-category: create
+category: connect
 organization_id: '2018098'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/promesa-boyle-heights-at-proyecto-pastoral.jpg
@@ -140,6 +140,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: >-
   https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
-body_class: banana
+body_class: tangerine
 
 ---

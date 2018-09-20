@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Exposure to air toxins","Prevalence of adverse childhood
   experiences","Residents receiving coordinated healthcare services"]
-category: connect
+category: live
 organization_id: '2018110'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smartairla.jpg'
 project_video: ''
@@ -179,6 +179,6 @@ category_other:
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/smartairla/'
-body_class: tangerine
+body_class: lime
 
 ---

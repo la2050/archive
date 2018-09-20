@@ -134,6 +134,7 @@ project_proposal_description: >-
   irrigation basics and garden design; present practical information to the
   public on ways to lessen resource consumption; and connect residents to career
   prospects in the expanding environmental industry.
+category: play
 body_class: strawberry
 
 ---

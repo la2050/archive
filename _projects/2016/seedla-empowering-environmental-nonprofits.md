@@ -127,6 +127,7 @@ project_proposal_description: >-
   work and accelerate their impact on Los Angeles. Our project will bring a
   total of 4,800 hours of high quality analytical support to further empower
   LA’s extraordinary environmental nonprofit organizations
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

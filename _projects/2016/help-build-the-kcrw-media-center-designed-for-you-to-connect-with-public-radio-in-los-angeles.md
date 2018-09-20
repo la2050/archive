@@ -110,6 +110,7 @@ project_proposal_description: >-
   source of news, music, and cultural discovery, we will expand our
   programming—on air, online and in person—to engage our devoted audiences here
   in Los Angeles and around the world.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

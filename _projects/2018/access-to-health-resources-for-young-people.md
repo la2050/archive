@@ -7,7 +7,7 @@ project_summary: >-
   make healthy decisions through providing in-person clinic tours of a local
   community health center for 9th-grade students.
 impact_metrics: '["Healthcare access"]'
-category: learn
+category: live
 organization_id: '2018094'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
@@ -65,6 +65,6 @@ category_other:
   - LA is the best place to LEARN
   - LA is the best place to PLAY
 challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'
-body_class: blueberry
+body_class: lime
 
 ---

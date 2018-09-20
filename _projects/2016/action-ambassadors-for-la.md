@@ -111,6 +111,7 @@ project_proposal_description: >-
   their own project that addresses an issue such as sustainability, poverty, or
   inequality. With this proposal, we will expand this program to thirty students
   across LA County in 2016.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

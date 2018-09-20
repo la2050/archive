@@ -123,6 +123,7 @@ project_proposal_description: >-
   tags placed at each fruit tree identify it as part of a network of sharing.
   Anyone can collaborate with the project by planting, mapping, sharing, and
   navigating the fruit trees via the free online website and app.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

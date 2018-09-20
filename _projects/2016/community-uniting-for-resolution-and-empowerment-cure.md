@@ -126,6 +126,7 @@ project_proposal_description: >-
   redirects youth to productive activities in order to prevent escalation of
   misdemeanor offenses to felony level violence and to increase community
   safety.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

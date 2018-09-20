@@ -116,6 +116,7 @@ project_proposal_description: >-
   encyclopedias and coursework. Rather than depending on far away cloud
   providers, e-media or courseware owned by any library can be shared directly
   over its local Mega-Mesh.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

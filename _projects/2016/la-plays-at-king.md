@@ -125,6 +125,7 @@ project_proposal_description: >-
   our playing field. These changes will benefit the over 2,100 students
   attending King, while providing greater entertainment and recreational
   opportunities for our surrounding neighbors.
+category: play
 body_class: strawberry
 
 ---

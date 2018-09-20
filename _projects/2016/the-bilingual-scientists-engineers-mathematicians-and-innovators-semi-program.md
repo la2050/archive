@@ -117,6 +117,7 @@ project_proposal_description: >-
   Mathematicians and Innovators (SEMI) program, a new bilingual (Spanish and
   English) curriculum that introduces 5th grade elementary school students to
   STEM in a culturally-relevant manner.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

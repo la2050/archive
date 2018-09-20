@@ -120,6 +120,7 @@ project_proposal_description: >-
   broadcast on the FM airwaves has been a long time in the making, and is part
   of a larger organizational effort to engage more listeners with our diverse,
   freeform broadcasts.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

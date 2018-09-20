@@ -8,7 +8,7 @@ project_summary: >-
 impact_metrics: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of residents with easy access to a “vibrant” park"]
-category: create
+category: play
 organization_id: '2018123'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/the-trust-for-public-land.jpg
@@ -136,6 +136,6 @@ category_other:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/play/the-trust-for-public-land/'
-body_class: banana
+body_class: strawberry
 
 ---

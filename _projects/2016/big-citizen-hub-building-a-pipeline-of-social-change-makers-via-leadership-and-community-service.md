@@ -159,6 +159,7 @@ project_proposal_description: >-
   Citizens the skills and place to develop and lead service projects, allowing
   them to see that they can have a positive impact on the community, setting the
   stage for future action.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

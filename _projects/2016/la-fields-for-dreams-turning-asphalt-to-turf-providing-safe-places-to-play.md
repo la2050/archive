@@ -116,6 +116,7 @@ project_proposal_description: >-
   rarely participate at all. ASLA's vision for Los Angeles is for all children
   to have access to high-quality sports and enrichment programs and safe places
   to play regardless of families’ income levels.
+category: play
 body_class: strawberry
 
 ---

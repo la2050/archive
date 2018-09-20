@@ -71,6 +71,7 @@ project_proposal_description: >-
   Angeles World Airports, we aspire to provide students with positions that will
   help develop future career goals. We hope to expand the existing program from
   12 to 25 positions.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

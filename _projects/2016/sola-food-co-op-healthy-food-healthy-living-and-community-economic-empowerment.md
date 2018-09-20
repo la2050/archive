@@ -62,6 +62,7 @@ project_proposal_description: >-
   for learning about cooking and nutrition, a place for the community to gather,
   celebrate, share food, fresh juices, and organic coffee. SoLA Food Co-op
   promotes Healthy Food, Healthy Living, and Economic Empowerment.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

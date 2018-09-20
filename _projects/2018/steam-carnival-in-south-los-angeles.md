@@ -7,7 +7,7 @@ project_summary: >-
   interest kids in Science, Tech, Engineering, Art & Math careers. Young
   inventors in South Los Angeles step right up!
 impact_metrics: '["Students’ immersion in Science, Technology, Engineering, and Math content"]'
-category: connect
+category: learn
 organization_id: '2018128'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/two-bit-circus-foundation.jpg
@@ -100,6 +100,6 @@ category_other:
   - LA is the best place to CREATE
   - LA is the best place to PLAY
 challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
-body_class: tangerine
+body_class: blueberry
 
 ---

@@ -77,6 +77,7 @@ project_proposal_description: >-
   and mentoring model that focuses on youth being able to develop better
   relationships with themselves and their world and to create a new story for
   their future.
+category: play
 body_class: strawberry
 
 ---

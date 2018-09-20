@@ -135,6 +135,7 @@ project_proposal_description: >-
 
 
   All things grow with LOVE.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

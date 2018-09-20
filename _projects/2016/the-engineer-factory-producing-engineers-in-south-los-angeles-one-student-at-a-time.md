@@ -137,6 +137,7 @@ project_proposal_description: >-
   hands-on, project-based learning through one-day Pop-Up community workshops;
   participating in MESA & engineer-based competitions; and providing practical
   training and resources for teachers.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

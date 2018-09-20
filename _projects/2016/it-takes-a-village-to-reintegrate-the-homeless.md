@@ -61,6 +61,7 @@ project_proposal_description: >-
   or outreach to other non-profit organizations in order to lay the foundations
   of Synergy Village:  a self-sustainable community where we help the homeless
   get reintegrated back into society as productive citizens of Los Angeles.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

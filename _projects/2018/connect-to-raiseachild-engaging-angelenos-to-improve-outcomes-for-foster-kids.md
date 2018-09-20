@@ -12,7 +12,7 @@ impact_metrics: >-
   ["Adults getting sufficient social & emotional support","Attendance at
   public/open streets gatherings","Government responsiveness to residents’
   needs"]
-category: create
+category: connect
 organization_id: '2018100'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/raise-a-child-inc.jpg
@@ -140,6 +140,6 @@ category_metrics:
 category_other:
   - LA is the best place to CREATE
 challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
-body_class: banana
+body_class: tangerine
 
 ---

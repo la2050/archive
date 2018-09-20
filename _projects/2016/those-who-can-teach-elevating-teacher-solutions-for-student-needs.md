@@ -141,6 +141,7 @@ project_proposal_description: >-
   with opportunities to learn about education policy, network with policy
   makers, and participate in leadership development and advocacy campaigns to
   make LA a great place to learn and teach.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

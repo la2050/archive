@@ -91,6 +91,7 @@ empty_column_1: ''
 project_proposal_description: >-
   Connect the community to unique and custom planes to give of your time,
   treasure or talent, locally.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

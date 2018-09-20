@@ -145,6 +145,7 @@ project_proposal_description: >-
   and poems, to inspire teens to get involved and stay in school, cultivate a
   love of language and learning, and ignite community, connectedness, and social
   activism amongst the citizens of LA.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

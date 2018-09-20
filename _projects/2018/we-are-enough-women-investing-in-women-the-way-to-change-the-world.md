@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Gini coefficient","Minority- and women-owned firms","Venture capital
   investment"]
-category: live
+category: create
 organization_id: '2018136'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
@@ -84,6 +84,6 @@ category_other:
   - LA is the best place to CONNECT
 challenge_url: >-
   https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
-body_class: lime
+body_class: banana
 
 ---

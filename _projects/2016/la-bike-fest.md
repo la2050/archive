@@ -85,6 +85,7 @@ project_proposal_description: >-
   bikes) making it easy to learn, play and connect we can jump start a new
   excitement for bikes and get more people riding to work/school, connecting to
   METRO and enjoying how great LA is for biking.
+category: play
 body_class: strawberry
 
 ---

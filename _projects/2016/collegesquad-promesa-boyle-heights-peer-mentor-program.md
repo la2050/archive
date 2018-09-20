@@ -119,6 +119,7 @@ project_proposal_description: >-
   prepare to apply to college.  In turn, those high school mentors, will mentor
   at risk middle school students at risk of not graduating, to increase their
   motivation towards school.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

@@ -109,6 +109,7 @@ project_proposal_description: >-
   connect, and live in our vibrant community. The podcast celebrates the past,
   present and future of mobility in Los Angeles through narrative content by
   creating story-driven podcasts that educate, inspire and entertain people.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -137,6 +137,7 @@ project_proposal_description: >-
   by bringing together music industry pros with after-school music programs to
   excite youth participants; inspire a new cadre of skilled-volunteers; and
   raise the profiles of the programs served.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

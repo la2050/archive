@@ -10,7 +10,7 @@ impact_metrics: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Total number of local social media friends and
   connections Angelenos have"]
-category: create
+category: connect
 organization_id: '2018102'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/regional-la.jpg'
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
@@ -167,6 +167,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/regional-la/'
-body_class: banana
+body_class: tangerine
 
 ---

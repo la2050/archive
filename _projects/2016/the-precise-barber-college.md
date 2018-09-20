@@ -131,6 +131,7 @@ project_proposal_description: >-
   barbers. The college will encourage an entrepreneurial spirit rather than a
   charitable one, and its students will quickly understand the ways in which
   community and service work together in L.A.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

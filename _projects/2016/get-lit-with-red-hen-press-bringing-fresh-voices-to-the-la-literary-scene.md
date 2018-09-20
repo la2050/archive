@@ -127,6 +127,7 @@ project_proposal_description: >-
   publicizing 26 works of poetry, fiction, and creative nonfiction by both
   established and emerging authors, providing opportunities for minority
   populations to establish their place in the American literary canon.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

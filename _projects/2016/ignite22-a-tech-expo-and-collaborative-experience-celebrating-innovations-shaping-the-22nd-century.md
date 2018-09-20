@@ -135,6 +135,7 @@ project_proposal_description: >-
   impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
   creativity in entrepreneurship and STEM programs while supporting the region’s
   technology hubs. With a single accord, we will celebrate the future.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

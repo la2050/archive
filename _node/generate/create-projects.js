@@ -170,7 +170,8 @@ const projectAnswers = [
   "project_measure",
   "project_five_years",
   "category_metrics",
-  "category_other"
+  "category_other",
+  "category"
 ]
 
 const projectAnswersToRemove = [

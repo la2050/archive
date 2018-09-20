@@ -7,7 +7,7 @@ project_summary: >-
   and 1000 free deliveries to LA's food deserts to make fresh food affordable
   for all and create a healthy future for us all.
 impact_metrics: '["Access to healthy food","Healthcare access","Obesity rates"]'
-category: connect
+category: live
 organization_id: '2018113'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg'
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
@@ -169,6 +169,6 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/live/süprseed/'
-body_class: tangerine
+body_class: lime
 
 ---

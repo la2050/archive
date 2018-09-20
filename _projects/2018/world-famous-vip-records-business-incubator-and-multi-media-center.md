@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Employment in the creative industries","Minority- and women-owned
   firms","Unemployment (and opportunities) for the formerly incarcerated"]
-category: live
+category: create
 organization_id: '2018138'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/world-famous-vip-records-llc.jpg
@@ -147,6 +147,6 @@ category_other:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
-body_class: lime
+body_class: banana
 
 ---

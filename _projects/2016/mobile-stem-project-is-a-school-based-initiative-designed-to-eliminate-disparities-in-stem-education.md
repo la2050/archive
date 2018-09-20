@@ -120,6 +120,7 @@ project_proposal_description: >-
   learner-centered. The learning experiences actively engage students in
   inquiry-based and problem-solving practices to achieve depth of core ideas in
   the disciplines of science.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

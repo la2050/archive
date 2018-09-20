@@ -121,6 +121,7 @@ project_proposal_description: >-
   and empower them to make informed decisions and access vital support systems
   to accelerate the healing and justice seeking process. Empower Me is easily
   accessible and free of charge to all users.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

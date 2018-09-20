@@ -157,6 +157,7 @@ project_proposal_description: >-
   programs for both at-risk youth (ages 16–24), & adult emerging artists & arts
   administrators, while also providing a fixed venue for our cultural events &
   arts programs in partnership with our affiliate organizations.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

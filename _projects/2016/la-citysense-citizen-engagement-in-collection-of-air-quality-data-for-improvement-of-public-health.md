@@ -87,6 +87,7 @@ project_proposal_description: >-
   of reading and documenting air pollution data which would not only increase
   sensitivity towards the built environment but could trigger formulation of
   locally informed urban policies.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

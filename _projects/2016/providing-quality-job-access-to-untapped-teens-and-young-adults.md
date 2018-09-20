@@ -94,6 +94,7 @@ project_proposal_description: >-
   create a sustainable business that will be able to hire and train at least 6
   youth employees this year, and double the number of employees each year
   thereafter.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

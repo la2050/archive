@@ -72,6 +72,7 @@ project_proposal_description: >-
   Our robust team has already worked with theses students since 3rd grade to
   raise not only them, but their communities out of poverty. We have helped 7000
   students and their families for 35 years
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

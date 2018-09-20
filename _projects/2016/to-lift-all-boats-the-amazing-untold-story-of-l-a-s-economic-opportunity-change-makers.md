@@ -74,6 +74,7 @@ project_proposal_description: >-
   highlight the transformational nature of L.A.'s economic and social justice
   movements and how they are creating models of change that are being replicated
   across the country.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Government responsiveness to residents’ needs","Participation in
   neighborhood councils","Voting rates"]
-category: live
+category: connect
 organization_id: '2018118'
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/the-burg-llc.jpg'
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
@@ -104,6 +104,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/the-burg-llc/'
-body_class: lime
+body_class: tangerine
 
 ---

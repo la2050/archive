@@ -150,6 +150,7 @@ project_proposal_description: >-
   executives and hiring managers. STEM Advantage aims to level the playing field
   for young women and underserved communities attending  California State
   University (CSU) campuses in the Los Angeles area.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

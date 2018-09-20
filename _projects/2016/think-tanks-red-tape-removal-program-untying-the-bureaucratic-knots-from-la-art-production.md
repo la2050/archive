@@ -128,6 +128,7 @@ project_proposal_description: >-
   buildings to artists that can create vibrant events in underutilized spaces
   and neighborhoods. This will result in more art establishments and jobs per
   capita, each of them collaborative.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

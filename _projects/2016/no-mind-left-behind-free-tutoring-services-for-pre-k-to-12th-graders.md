@@ -138,6 +138,7 @@ project_proposal_description: >-
   currently servicing over 350 students to thousands of students in LAUSD, ISD,
   ICEF, and so on. We have seen how our services have helped strengthen and
   maintain students’ mentality and self-esteem.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

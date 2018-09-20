@@ -110,6 +110,7 @@ project_proposal_description: >-
   more accessible, and sustainable. ITEP will convene industry and community
   partners to hear the Generation Z perspective on community problems and
   potential solutions.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

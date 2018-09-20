@@ -111,6 +111,7 @@ project_proposal_description: >-
   violence, brainstorming actionable solutions, and enacting specific changes. 
   We plan to work with colleges to personalize the play to their specific campus
   needs.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

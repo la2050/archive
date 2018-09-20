@@ -56,6 +56,7 @@ project_proposal_description: >-
   network, and showcase talent through the facilitation of professional
   development workshops and the establishment of minority-owned business
   ventures.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

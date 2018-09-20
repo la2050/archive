@@ -135,6 +135,7 @@ project_proposal_description: >-
   sculpture, art, and sensory gardens, performances, adventure and water play,
   nature discovery and informal gatherings. Both the project and its outcome are
   envisioned to support learning.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

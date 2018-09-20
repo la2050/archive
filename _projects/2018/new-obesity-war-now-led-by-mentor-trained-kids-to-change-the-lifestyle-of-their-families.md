@@ -9,7 +9,7 @@ project_summary: >-
   on different foods to lead their families for healthy lifestyle change and
   reduce obesity.
 impact_metrics: '["Obesity rates"]'
-category: play
+category: live
 organization_id: '2018106'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/science-academy-for-all.jpg
@@ -129,6 +129,6 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/live/science-academy-for-all/'
-body_class: strawberry
+body_class: lime
 
 ---

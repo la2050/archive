@@ -112,6 +112,7 @@ project_proposal_description: >-
   for children to explore. We hope that this outreach will connect with children
   and families of the neighborhood to create a safe environment to learn and
   emphasize the importance of play.
+category: play
 body_class: strawberry
 
 ---

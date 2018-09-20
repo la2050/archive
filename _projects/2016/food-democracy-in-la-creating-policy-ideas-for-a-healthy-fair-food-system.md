@@ -138,6 +138,7 @@ project_proposal_description: >-
   our local food system. Combining data and community perspectives, the new Good
   Food For All Agenda will translate community priorities to policy makers so
   that all Angelenos can enjoy healthy, sustainable food.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

@@ -104,6 +104,7 @@ project_proposal_description: >-
   support through its affiliation with the Los Angeles Cleantech Incubator and
   its surrounding community stakeholders to include education, and neighborhood
   councils.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

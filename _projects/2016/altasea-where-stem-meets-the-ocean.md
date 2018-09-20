@@ -142,6 +142,7 @@ project_proposal_description: >-
   challenges and ultimately to see science/STEM careers as an option. Our long
   term goal is to motivate our youth to be 21st century champions for a
   sustainable ocean.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

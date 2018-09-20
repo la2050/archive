@@ -143,6 +143,7 @@ project_proposal_description: >-
   Additionally, we will give students opportunities to produce their own
   projects, showcase their talents, and connect them with industry mentors and
   agents to jumpstart their careers.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

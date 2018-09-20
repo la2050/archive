@@ -123,6 +123,7 @@ project_proposal_description: >-
   thrive in a diverse society. To achieve this ambitious goal, CWC must equip
   our staff with the values, skills, and tools to empower students to navigate
   lines of difference and build community.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

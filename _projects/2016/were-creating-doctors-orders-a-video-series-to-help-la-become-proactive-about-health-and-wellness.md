@@ -100,6 +100,7 @@ project_proposal_description: >-
   in Los Angeles so that while patients are in waiting rooms they can learn
   about the link between obesity and cancer, how to spot depression in a loved
   one, and what to do for a diabetic relative.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

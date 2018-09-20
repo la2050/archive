@@ -132,6 +132,7 @@ project_proposal_description: >-
   energy is premised on three pillars of quality of life now and in the future:
   healthy and safe air, equitable economic growth, and resilient communities
   safe from the worst potential damages wrought by climate change.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

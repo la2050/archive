@@ -119,6 +119,7 @@ project_proposal_description: >-
   public and student engagement with theatre – including models for LAUSD
   students to create their own interactive educational technology based on our
   new educational platform resources.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

@@ -118,6 +118,7 @@ project_proposal_description: >-
   ensuring that the organization can continue to offer adult and young women
   programs that promote social and emotional support inherent in team sports and
   from a women-focused organization.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

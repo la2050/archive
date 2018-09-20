@@ -89,6 +89,7 @@ project_proposal_description: >-
   strategic plan to be open-sourced and serve as a model for other cities,
   especially small cities, throughout the County, through development of an
   interactive website and toolkit for other cities.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

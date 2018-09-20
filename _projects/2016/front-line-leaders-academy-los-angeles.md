@@ -127,6 +127,7 @@ project_proposal_description: >-
   course of the six months to cover a wide range of skills and tactics. By
   graduation Fellows will have developed a wide range of organizing skills that
   will help them to be effective local leaders.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

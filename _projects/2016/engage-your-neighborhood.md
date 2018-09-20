@@ -141,6 +141,7 @@ project_proposal_description: >-
   representative public input, avoid the trolls, and no public speaking
   required!  This project will work closely with one lead NC and make the tools
   and best practices will be available to all in LA.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -12,7 +12,7 @@ impact_metrics: >-
   ["Adults getting sufficient social & emotional support","Rates of
   volunteerism","Total number of local social media friends and connections
   Angelenos have"]
-category: live
+category: connect
 organization_id: '2018135'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/walk-with-sally.jpg
@@ -100,6 +100,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/walk-with-sally/'
-body_class: lime
+body_class: tangerine
 
 ---

@@ -93,6 +93,7 @@ project_proposal_description: >-
   parks, housing projects and schools to identify young people who are at risk
   of engaging in drug use or violent/gang activity. Mobile programs will include
   music instruction/production and recording.
+category: play
 body_class: strawberry
 
 ---

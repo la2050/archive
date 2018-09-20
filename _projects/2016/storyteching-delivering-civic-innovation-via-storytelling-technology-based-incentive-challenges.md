@@ -137,6 +137,7 @@ project_proposal_description: >-
   city-identified challenge sets. We will match talent teams with subject matter
   experts, business accelerators, & investors to ensure their concepts are
   scalable, sustainable, & deliver measurable impact
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

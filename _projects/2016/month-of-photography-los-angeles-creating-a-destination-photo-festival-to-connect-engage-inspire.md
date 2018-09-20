@@ -70,6 +70,7 @@ project_proposal_description: >-
   talented people to support the expansion and improvement of the festival. Our
   principal goal is to build a world-class, destination photography festival by
   2018.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

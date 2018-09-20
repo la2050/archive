@@ -106,6 +106,7 @@ project_proposal_description: >-
   create a comprehensive database of current students and alumni to capture
   feedback after each session as well as feedback from alumni who can articulate
   how LASA changed their career or study trajectories.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

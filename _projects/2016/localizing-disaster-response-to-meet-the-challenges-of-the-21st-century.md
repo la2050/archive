@@ -113,6 +113,7 @@ project_proposal_description: >-
   leveraging the skills of veterans, TR is preparing for and responding to
   disasters as well as providing purpose, community and identity to our nation's
   veteran's, easing their transition home.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

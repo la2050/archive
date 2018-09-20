@@ -143,6 +143,7 @@ project_proposal_description: >-
   communication and assistance with critical needs: meals, child, pet home care,
   respite, housekeeping, fundraising, and medical updates to avoid physical
   collapse of family and caregiver.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

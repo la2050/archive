@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Access to open space and park facilities","Number (and quality) of informal
   spaces for play","Number of parks with intergenerational play opportunities"]
-category: connect
+category: play
 organization_id: '2018111'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/south-bay-bicycle-coalition.jpg
@@ -170,6 +170,6 @@ category_other:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
-body_class: tangerine
+body_class: strawberry
 
 ---

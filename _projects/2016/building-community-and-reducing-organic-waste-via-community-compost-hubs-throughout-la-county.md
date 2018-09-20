@@ -124,6 +124,7 @@ project_proposal_description: >-
   network, we will continue to divert thousands of pounds of organics from
   reaching landfills monthly, while also providing residents with the tools and
   education needed to compost on their own.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

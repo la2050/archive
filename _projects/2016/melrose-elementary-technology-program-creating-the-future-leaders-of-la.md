@@ -113,6 +113,7 @@ project_proposal_description: >-
   life. Completing the final phase of a self-sustaining tech renewal project
   will support our mission for students to become self-sufficient learners and
   creators in all aspects of their work.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

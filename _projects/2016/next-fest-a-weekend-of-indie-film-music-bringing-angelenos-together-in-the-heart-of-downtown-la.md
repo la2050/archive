@@ -129,6 +129,7 @@ project_proposal_description: >-
   accessible outdoor community space located next to the festival and open
   throughout NEXT FEST. Our ticket outreach efforts will reach a broad range of
   Angelenos across the county.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

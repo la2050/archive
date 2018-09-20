@@ -64,6 +64,7 @@ project_proposal_description: >-
   Developer, partner organizations will gain critical, committed volunteers,
   while recognizing the strengths that people with disabilities are waiting to
   give back to their community.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

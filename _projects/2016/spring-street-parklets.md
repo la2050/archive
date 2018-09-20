@@ -106,6 +106,7 @@ project_proposal_description: >-
   spaces for arts and culture programming. With a pledge of matching funds from
   Councilmember Jose Huizar, the parklets will be designed, built, and
   maintained by the HCBID and the City of Los Angeles.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

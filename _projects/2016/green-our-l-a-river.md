@@ -133,6 +133,7 @@ project_proposal_description: >-
   civic organizations to create a plan that connects local businesses to the
   revitalized Greenway, enhances bike and pedestrian access, inspires
   stewardship and improves public health and safety.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

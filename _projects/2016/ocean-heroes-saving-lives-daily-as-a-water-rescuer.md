@@ -110,6 +110,7 @@ project_proposal_description: >-
   professional lifesaving equipment. Our Program is designed to educate and
   impassion youth to appreciate and respect the marine environment and introduce
   youth to a potential career choice in water safety.
+category: play
 body_class: strawberry
 
 ---

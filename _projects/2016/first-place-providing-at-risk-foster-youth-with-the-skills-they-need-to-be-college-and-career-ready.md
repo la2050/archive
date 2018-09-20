@@ -133,6 +133,7 @@ project_proposal_description: >-
   providing outcomes-driven services to more youth in need, First Place can push
   for higher standards through our leadership in the field and change the way
   that youth are treated within the foster care system.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

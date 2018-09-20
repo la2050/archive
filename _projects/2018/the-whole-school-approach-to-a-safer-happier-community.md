@@ -6,7 +6,7 @@ project_summary: >-
   We address the roots of violence and stress to ensure our children will have
   the wings to set them free to achieve a joyful life.
 impact_metrics: '["Prevalence of adverse childhood experiences"]'
-category: create
+category: live
 organization_id: '2018105'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg'
 project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
@@ -111,6 +111,6 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/live/roots-wings/'
-body_class: banana
+body_class: lime
 
 ---

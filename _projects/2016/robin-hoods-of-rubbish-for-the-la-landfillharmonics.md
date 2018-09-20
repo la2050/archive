@@ -81,6 +81,7 @@ project_proposal_description: >-
   These instruments will inspire a cohort of students to become musically
   literate. Students who would otherwise not have an opportunity to learn a
   musical instrument or even hear a concert.
+category: play
 body_class: strawberry
 
 ---

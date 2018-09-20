@@ -116,6 +116,7 @@ project_proposal_description: >-
   healthy ecosystem for the community by increasing habitat for native animals
   like butterflies, bees, birds and also provide a living laboratory that
   enhances STEM learning for students in the city
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

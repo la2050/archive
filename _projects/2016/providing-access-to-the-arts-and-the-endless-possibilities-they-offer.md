@@ -148,6 +148,7 @@ project_proposal_description: >-
   Inner-City Arts programs are an investment in the youth of Los Angeles,
   engaging them in the creative process to become creative, confident and
   collaborative individuals.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

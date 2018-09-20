@@ -153,6 +153,7 @@ project_proposal_description: >-
   stewardship training as part of paid internship programs, leading habitat
   restoration events that engage their communities and improve the quality of
   open space for people and wildlife.
+category: play
 body_class: strawberry
 
 ---

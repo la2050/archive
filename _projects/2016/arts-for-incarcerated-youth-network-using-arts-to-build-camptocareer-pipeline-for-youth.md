@@ -109,6 +109,7 @@ project_proposal_description: >-
   creative economies after release. Funds will leverage the current investment
   by LA County Probation and Arts Commission, enabling us to cover the full cost
   of our program.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

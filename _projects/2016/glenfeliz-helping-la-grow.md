@@ -123,6 +123,7 @@ project_proposal_description: >-
   the first of our program is complete, our goal is to expand our cooking
   program and to grow into the model elementary school in Los Angeles for
   health, nutrition and sustainability.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

@@ -131,6 +131,7 @@ project_proposal_description: >-
   students to participate in a ten-week dance and theater intensive that will
   conclude with a performance. The project will also subsidize class tuition for
   students who train with ZPA after the project.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

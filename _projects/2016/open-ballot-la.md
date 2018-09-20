@@ -110,6 +110,7 @@ project_proposal_description: >-
   new database will allow users to see all available elected offices based on
   their address and provide crucial details such as filing windows, salaries,
   requirements, and competitors.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

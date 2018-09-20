@@ -87,6 +87,7 @@ project_proposal_description: >-
   to humanize and engage all sizes and shapes of humans to attend. UEP wants
   people to learn how easily, enjoyably and important navigating all levels of
   art & science can be.
+category: play
 body_class: strawberry
 
 ---

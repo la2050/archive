@@ -139,6 +139,7 @@ project_proposal_description: >-
   students will participate in a spring break immersion program, followed by
   mentorship meetings, summer job positions, and the creation of a pop-up art
   space in fall 2017.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

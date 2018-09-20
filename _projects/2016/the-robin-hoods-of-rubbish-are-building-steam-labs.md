@@ -92,6 +92,7 @@ project_proposal_description: >-
   streams (that’s where the Rubbish comes in). Using this material rather than
   allowing it to head to landfill will also advance the notion of environmental
   stewardship in a generation of Los Angeles’ children.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Attendance at cultural events","Attendance at public/open streets
   gatherings","Rates of volunteerism"]
-category: live
+category: connect
 organization_id: '2018140'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/youth-policy-institute.jpg
@@ -108,6 +108,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'
-body_class: lime
+body_class: tangerine
 
 ---

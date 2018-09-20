@@ -119,6 +119,7 @@ project_proposal_description: >-
   with a proven message to move them through the prospective foster parent
   funnel.  We would like to expand our online effort to meet the pressing need
   for foster parents in the county.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

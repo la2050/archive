@@ -149,6 +149,7 @@ project_proposal_description: >-
   five youth leaders to model and inspire civic responsibility through outreach
   and community engagement. Finally, R&S will hold local community service
   events and a citywide celebration of service.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

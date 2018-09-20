@@ -7,7 +7,7 @@ project_summary: >-
   to ready-to-eat meals through SMS, leveraging tech already in the hands of
   millions in order to tackle this injustice.
 impact_metrics: '["Access to healthy food"]'
-category: learn
+category: live
 organization_id: '2018090'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/not-impossible-foundation.jpg
@@ -99,6 +99,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/not-impossible-foundation/'
-body_class: blueberry
+body_class: lime
 
 ---

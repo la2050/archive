@@ -86,6 +86,7 @@ project_proposal_description: >-
   care, and design. By supporting our LA2050 campaign, an additional 50 students
   from one of 11 South Los Angeles Promise Zone high schools will participate in
   paid summer internships.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

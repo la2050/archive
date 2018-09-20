@@ -77,6 +77,7 @@ project_proposal_description: >-
   employable skills, and a chance for advancement.  Businesses also have a
   problem —there just isn’t enough tech talent to match the growing demand.
   LaunchCode programs address both problems.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

@@ -108,6 +108,7 @@ project_proposal_description: >-
   This nighttime celebration features large-scale installations, multimedia and
   performing arts experiences that will inspire the community, entertain
   visitors and thrill stakeholders.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

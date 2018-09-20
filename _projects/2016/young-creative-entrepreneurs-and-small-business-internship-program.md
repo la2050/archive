@@ -117,6 +117,7 @@ project_proposal_description: >-
   places these highly trained youth at minority and women-owned small businesses
   applying what they learned by giving creative, innovative and technology-based
   business support: marketing, website, social media, and bookkeeping, etc.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

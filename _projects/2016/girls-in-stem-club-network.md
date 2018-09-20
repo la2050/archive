@@ -133,6 +133,7 @@ project_proposal_description: >-
   programs where they live. Each Club will be based in the girls’ own
   communities, giving them a sense of belonging and pride. With women making up
   29% of the STEM workforce, the program will set a founda
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

@@ -82,6 +82,7 @@ project_proposal_description: >-
   More information can be found in our eQuiz pitchdeck: 
 
   http://bit.ly/2d6t47R
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

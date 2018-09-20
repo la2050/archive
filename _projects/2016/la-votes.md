@@ -141,6 +141,7 @@ project_proposal_description: >-
   1,000+ LMU students as field researchers, collected 12,000+ exit surveys,
   fostered dozens of media hits, and hosted hundreds of guests at past Election
   Central celebrations.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

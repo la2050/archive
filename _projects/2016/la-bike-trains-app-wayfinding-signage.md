@@ -116,6 +116,7 @@ project_proposal_description: >-
 
   It's possible! LA Bike Trains has been running a similar education program in
   LA since 2013. Based on feedback this is what people want.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

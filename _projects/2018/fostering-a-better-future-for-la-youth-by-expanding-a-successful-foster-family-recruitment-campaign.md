@@ -8,7 +8,7 @@ project_summary: >-
   A non-profit coalition united on behalf of foster youth to increase
   participation in foster parenting, mentoring and educational opportunities.
 impact_metrics: '["Rates of volunteerism"]'
-category: play
+category: connect
 organization_id: '2018020'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/tides-center-dba-childrens-action-network.jpg
@@ -69,6 +69,6 @@ category_other:
   - LA is the healthiest place to LIVE
 challenge_url: >-
   https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
-body_class: strawberry
+body_class: tangerine
 
 ---

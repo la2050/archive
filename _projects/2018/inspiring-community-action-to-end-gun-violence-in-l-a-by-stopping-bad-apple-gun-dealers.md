@@ -9,7 +9,7 @@ project_summary: >-
   Angelenos to take meaningful action to stem the flow of crime guns and end gun
   violence in the community.
 impact_metrics: '["Per capita crime rates","Perceived safety"]'
-category: live
+category: play
 organization_id: '2018117'
 project_image: >-
   https://activation.la2050.org/assets/images/play/2048-wide/the-brady-center-to-prevent-gun-violence.jpg
@@ -134,6 +134,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
-body_class: lime
+body_class: strawberry
 
 ---

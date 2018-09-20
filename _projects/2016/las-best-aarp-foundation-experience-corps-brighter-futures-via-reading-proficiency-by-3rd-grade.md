@@ -130,6 +130,7 @@ project_proposal_description: >-
   – will work alongside EC volunteers and receive training and tools to expand
   and sustain the project, while growing personally and professionally through
   invaluable intergenerational exchange.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

@@ -70,6 +70,7 @@ project_proposal_description: >-
   computer literacy education for various vulnerable communities, including the
   formerly incarcerated and homeless adults.  Funds will be used to purchase
   software, equipment, and to train staff.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

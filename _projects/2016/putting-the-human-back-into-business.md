@@ -87,6 +87,7 @@ project_proposal_description: >-
   so we create options for executives, decision-makers, and managers that put
   human capabilities in the driver's seat. We deliver programming in-person or
   virtually.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

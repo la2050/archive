@@ -109,6 +109,7 @@ project_proposal_description: >-
   photography and marketing. Our project will host photoshoots for 20
   organizations across Greater LA, in order to help them tell their story and
   create visual representations of the life-changing work being done.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

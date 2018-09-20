@@ -114,6 +114,7 @@ project_proposal_description: >-
   this project, we are proposing to enhance the app technology, incorporate new
   research methods, recruit more users and analyze the data to develop more
   effective strategies for protecting the health of sensitive populations.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

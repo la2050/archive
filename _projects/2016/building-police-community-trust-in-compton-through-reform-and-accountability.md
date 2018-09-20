@@ -74,6 +74,7 @@ project_proposal_description: >-
   work together to develop and implement reforms and police training that can
   make a real difference. This project builds on a successful model in Oakland
   that reduced officer involved shootings.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

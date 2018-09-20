@@ -10,7 +10,7 @@ impact_metrics: >-
   ["Adults getting sufficient social & emotional support","Government
   responsiveness to residents’ needs","Total number of local social media
   friends and connections Angelenos have"]
-category: live
+category: connect
 organization_id: '2018137'
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/we-are-the-mighty.jpg
@@ -97,6 +97,6 @@ category_other:
   - LA is the best place to LEARN
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/connect/we-are-the-mighty/'
-body_class: lime
+body_class: tangerine
 
 ---

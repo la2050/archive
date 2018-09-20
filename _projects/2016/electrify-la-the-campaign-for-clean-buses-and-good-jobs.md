@@ -110,6 +110,7 @@ project_proposal_description: >-
   jobs for our communities. Because of California's environmental regulation and
   strong policy leadership in the city and county, LA has the potential to
   create 1,000s of good jobs building new EV buses.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

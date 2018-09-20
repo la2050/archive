@@ -140,6 +140,7 @@ project_proposal_description: >-
   and deliver healthy plant-based food options. Through engagement of classes
   and workshops will be educated and empower families and community members  to
   charge of their eating habits.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

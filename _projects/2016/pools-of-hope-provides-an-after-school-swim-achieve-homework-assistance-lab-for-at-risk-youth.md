@@ -119,6 +119,7 @@ project_proposal_description: >-
   1) provide hands-on tutoring and homework assistance for up to one hour; and
   2) provide swim lessons as an incentive and reward for engaging with the
   tutors each week.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

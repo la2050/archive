@@ -121,6 +121,7 @@ project_proposal_description: >-
   symbiotic relationship with math and science, creatively pushing boundaries
   and inspiring innovation. Playascape produces cultural experiences that infuse
   community engagement, technology and media to interact with the whole family.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

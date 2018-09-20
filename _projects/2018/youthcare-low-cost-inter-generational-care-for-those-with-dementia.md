@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Healthcare access","Rates of mental illness","Residents receiving
   coordinated healthcare services"]
-category: create
+category: live
 organization_id: '2018124'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers.jpg
@@ -99,6 +99,6 @@ category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: >-
   https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
-body_class: banana
+body_class: lime
 
 ---

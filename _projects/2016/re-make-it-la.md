@@ -154,6 +154,7 @@ project_proposal_description: >-
   capacity so they can better understand their marketplace, increase sales and
   re-position the company to avert relocation and loss of manufacturing jobs in
   LA County.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

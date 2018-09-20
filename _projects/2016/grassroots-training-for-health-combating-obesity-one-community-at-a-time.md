@@ -93,6 +93,7 @@ project_proposal_description: >-
   Academy of Strength/Sport will provide the exercise equipment and group
   classes along with a train-the-trainer program for the purpose of the
   Community to maintain an exercise program independently.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

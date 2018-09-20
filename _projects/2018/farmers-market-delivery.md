@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Employment in the creative industries","Jobs per capita","Minority- and
   women-owned firms"]
-category: live
+category: create
 organization_id: '2018120'
 project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the-natch-inc.jpg'
 project_video: ''
@@ -106,6 +106,6 @@ category_other:
   - LA is the best place to CONNECT
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/create/the-natch-inc/'
-body_class: lime
+body_class: banana
 
 ---

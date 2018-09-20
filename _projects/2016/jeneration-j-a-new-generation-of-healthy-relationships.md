@@ -87,6 +87,7 @@ project_proposal_description: >-
   with the knowledge, skills and awareness to navigate healthy relationship
   behaviors and actively stand against dating violence in their respective
   communities.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

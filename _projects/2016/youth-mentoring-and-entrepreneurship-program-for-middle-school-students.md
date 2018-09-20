@@ -101,6 +101,7 @@ project_proposal_description: >-
   Through real-world experience from venture creation, mentorship and habit
   adoption, WeThrive will train and equip more than 800 middle school students
   with the life skills & resources for upward mobility.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

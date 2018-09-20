@@ -162,6 +162,7 @@ project_proposal_description: >-
 
   Our community will provide a place to connect, get location specific and
   obtain specific instructions related to any crop of interest.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

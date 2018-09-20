@@ -97,6 +97,7 @@ project_proposal_description: >-
   “Choose + Keep” Book Fair for students to start their own home libraries
   giving these students access to the reading materials needed to inspire and
   engage.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

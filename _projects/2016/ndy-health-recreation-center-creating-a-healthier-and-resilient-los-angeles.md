@@ -89,6 +89,7 @@ project_proposal_description: >-
   traditional fitness centers. The Center will also create an opportunity for
   under-served youth (ages 14-24) to receive job training, employment, and the
   critical skills to succeed.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

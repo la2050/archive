@@ -138,6 +138,7 @@ project_proposal_description: >-
   internships (16-25) and volunteer opportunities (16 years and older). Students
   will be mentored and families introduced to partnering organizations that
   offer ongoing support services.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

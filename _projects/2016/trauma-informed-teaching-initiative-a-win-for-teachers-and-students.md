@@ -132,6 +132,7 @@ project_proposal_description: >-
   can address educational inequity from all angles, including from a
   trauma-informed framework to transform classrooms, schools and entire school
   systems.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

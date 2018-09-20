@@ -4,7 +4,7 @@ year_submitted: 2018
 title: Mobile application to make parking easier
 project_summary: A mobile application to make sure you never get a parking ticket ever again!
 impact_metrics: '["Walk/bike/transit score"]'
-category: learn
+category: live
 organization_id: '2018091'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow.jpg'
 project_video: 'https://youtu.be/Vz9f3nvm5-Y'
@@ -85,6 +85,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/notow/'
-body_class: blueberry
+body_class: lime
 
 ---

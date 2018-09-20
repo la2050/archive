@@ -126,6 +126,7 @@ project_proposal_description: >-
   #MeetSoCal will build relationships with new audiences, inform and feed our
   news coverage, connect people with their neighbors and communities, and foster
   conversation about civic and cultural issues in LA.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

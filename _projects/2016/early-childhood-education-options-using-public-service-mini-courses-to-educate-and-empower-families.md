@@ -115,6 +115,7 @@ project_proposal_description: >-
   Education” to educate families on the importance and purpose of early
   childhood education AND the methodology and criteria to find the best fitting
   early childhood environments.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

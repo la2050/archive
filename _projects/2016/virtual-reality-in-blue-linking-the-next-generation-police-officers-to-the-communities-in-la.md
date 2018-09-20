@@ -105,6 +105,7 @@ project_proposal_description: >-
   in public safety. The intent of this project is to change public perception
   and help create law enforcement that is reflective of the community it
   protects.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

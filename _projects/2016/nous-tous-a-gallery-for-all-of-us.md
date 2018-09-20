@@ -90,6 +90,7 @@ project_proposal_description: >-
   context for artist's work. With the LA2050 we will expand our gallery 
   showroom programs beyond the walls of our space to engage with a wider network
   of creators.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

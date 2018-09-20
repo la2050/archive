@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Number of households below the self-sufficiency standard","Prevalence of
   adverse childhood experiences"]
-category: play
+category: live
 organization_id: '2018108'
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes-that-fit.jpg'
 project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
@@ -91,6 +91,6 @@ category_metrics:
 category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/live/shoes-that-fit/'
-body_class: strawberry
+body_class: lime
 
 ---

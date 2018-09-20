@@ -115,6 +115,7 @@ project_proposal_description: >-
   violence, speaking out against harmful behavior, engaging in healthy and
   consensual relationships, making informed decisions about seeking legal
   justice if necessary, and creating cultural change.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

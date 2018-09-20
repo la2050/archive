@@ -113,6 +113,7 @@ project_proposal_description: >-
   creates a more inclusive, robust cleantech sector in LA.  We propose a summer
   youth program that includes technical training, a sponsored internship, and
   follow-on alumni programming.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

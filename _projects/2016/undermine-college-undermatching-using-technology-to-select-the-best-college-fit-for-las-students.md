@@ -133,6 +133,7 @@ project_proposal_description: >-
   the best schools based on their GPA, SAT/ACT scores and interests, resulting
   in higher college enrollment and completion rates, while reducing student loan
   debt.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

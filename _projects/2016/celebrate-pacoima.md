@@ -111,6 +111,7 @@ project_proposal_description: >-
   creative placemaking and economic growth. The funding from LA2050 will enable
   Pacoima Beautiful to purchase equipment, tools and provide instructors with
   stipends to deliver high quality resources.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

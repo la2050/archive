@@ -133,6 +133,7 @@ project_proposal_description: >-
   available to them locally via our community partners & agencies (i.e.
   transitional living, GED programs, emotional support, & other social
   services).
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

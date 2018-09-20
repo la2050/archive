@@ -107,6 +107,7 @@ project_proposal_description: >-
   who know the system best. NFYI/LA will recruit and train 100 foster youth and
   50 family members to advocate with policy makers for new approaches to
   transform the child welfare system.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

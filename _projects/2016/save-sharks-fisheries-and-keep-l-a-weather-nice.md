@@ -114,6 +114,7 @@ project_proposal_description: >-
   local water and how to become citizen scientists.  Sharks populations are
   correlated to other ocean species and not only sequester carbon in their
   bodies, but are apex predators vital to the ocean.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

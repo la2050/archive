@@ -95,6 +95,7 @@ project_proposal_description: >-
   traffic.” Our experts help survivors heal from injuries, navigate the legal
   process, manage their daily lives, repair their mental health, and use their
   experiences to affect meaningful change.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

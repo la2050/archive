@@ -123,6 +123,7 @@ project_proposal_description: >-
   community. Purpose-driven service projects will allow students to explore
   leadership, activism, community development and entrepreneurship – creating
   networks and developing interests that propel them through college and beyond.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

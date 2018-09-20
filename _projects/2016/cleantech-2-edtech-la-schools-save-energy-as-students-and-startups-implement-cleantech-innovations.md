@@ -139,6 +139,7 @@ project_proposal_description: >-
   for funding in a new Memorandum of Understanding (“MOU”).  This project would
   complement their efforts and access funding both to educate and to develop 
   emerging efficiency technologies.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

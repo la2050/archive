@@ -136,6 +136,7 @@ project_proposal_description: >-
   investment from LA2050 will fuel Spark’s next step: matching 300 underserved
   middle schoolers with mentors from top companies for a year of career
   exploration, skill-building, and academic engagement.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

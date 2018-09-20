@@ -108,6 +108,7 @@ project_proposal_description: >-
   The project proposal is seeking funding to provide opportunities for fathers
   and other male role models to gain knowledge and skills in making a positive
   impact in the lives of children and families.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

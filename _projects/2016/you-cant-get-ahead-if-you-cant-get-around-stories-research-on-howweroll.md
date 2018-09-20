@@ -139,6 +139,7 @@ project_proposal_description: >-
   transportation system — from how it’s funded and who makes the decisions to
   who depends on our buses and trains as their connection lifeline — and what we
   can do to make it better for all.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

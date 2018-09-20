@@ -117,6 +117,7 @@ project_proposal_description: >-
   campaigns, research & innovation. The result is a living convergence of local
   effort & research that allows everyone to keep their finger on the pulse of
   local emerging ideas & collaborations.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

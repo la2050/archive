@@ -108,6 +108,7 @@ project_proposal_description: >-
   with mental health conditions.  The program will also recruit, train, & place
   trained individuals in their communities to further expand outreach and
   education efforts.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

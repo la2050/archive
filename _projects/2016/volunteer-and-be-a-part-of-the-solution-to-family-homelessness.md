@@ -97,6 +97,7 @@ project_proposal_description: >-
   place to connect, engage, and empower people from different ethnic, cultural
   and socioeconomic backgrounds. In order to expand and work with 100 families
   in 2017, we need volunteers.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -85,6 +85,7 @@ project_proposal_description: >-
   then deliver these products to people's door, so that people anywhere in Los
   Angeles have a way to be connected to local producers and have a way to find,
   support and receive their craft products.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

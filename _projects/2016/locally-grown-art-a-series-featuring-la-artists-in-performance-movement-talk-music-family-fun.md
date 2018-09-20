@@ -108,6 +108,7 @@ project_proposal_description: >-
   creative work at reduced rates. Through five key focuses — talk, music,
   performance, movement and family — we will bring the community together to
   learn, create and discover together.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

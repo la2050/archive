@@ -141,6 +141,7 @@ project_proposal_description: >-
   mentors in the industry. The program will empower girls around issues of
   gender in media, foster future female entertainment leaders, and help create a
   more gender-balanced media landscape.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

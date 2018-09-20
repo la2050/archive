@@ -123,6 +123,7 @@ project_proposal_description: >-
   regular creative exercise and experiences, boxcar+muse hopes to democratize
   the process, making innovation and self-discovery outside of work or family a
   vital habit for Los Angeles women.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

@@ -128,6 +128,7 @@ project_proposal_description: >-
   hidden talents, act as a catalyst for the brainstorming and exchange of
   innovative ideas, and provide all Angelenos an outlet to build community in an
   increasingly isolated and digital world.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

@@ -107,6 +107,7 @@ project_proposal_description: >-
   journal, complimented by two live music/art shows where Angelenos can engage
   in conversations surrounding grief, love and art while providing artists
   performances and open mic sharing of our journal entries.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

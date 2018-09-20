@@ -103,6 +103,7 @@ project_proposal_description: >-
   and local communities with opportunities for service. And it gives all of us
   the chance to work together to transform Los Angeles into a place where
   everyone deserves to thrive.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

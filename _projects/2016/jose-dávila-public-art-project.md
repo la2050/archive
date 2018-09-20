@@ -137,6 +137,7 @@ project_proposal_description: >-
   neighborhood and its residents. The pieces will finally return to its original
   location and form in the end – showing the history of its geography and
   community experiences in its modified shape.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

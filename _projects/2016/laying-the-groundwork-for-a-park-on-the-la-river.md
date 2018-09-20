@@ -117,6 +117,7 @@ project_proposal_description: >-
   post-industrial land on the LA River. The Bowtie Project transforms
   post-industrial wasteland into a cultural destination, and lays the groundwork
   for creating LA’s largest riverfront park.
+category: play
 body_class: strawberry
 
 ---

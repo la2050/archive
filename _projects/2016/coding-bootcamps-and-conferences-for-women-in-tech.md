@@ -118,6 +118,7 @@ project_proposal_description: >-
   achieve this through the creation of proprietary, innovative programming and
   strategic global partnerships. We provide mentorship and boot camp programs as
   well as the Catalyst Conference, an annual conference for women in tech.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

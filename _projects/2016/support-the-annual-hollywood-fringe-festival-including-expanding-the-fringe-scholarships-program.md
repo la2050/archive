@@ -72,6 +72,7 @@ project_proposal_description: >-
   especially looking for support of its Fringe Scholarships program, which
   provides scholarships to performers from diverse and underrepresented
   backgrounds.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

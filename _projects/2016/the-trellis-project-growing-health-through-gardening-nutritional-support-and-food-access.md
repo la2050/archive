@@ -126,6 +126,7 @@ project_proposal_description: >-
   perspectives: cooking and gardening. While the approaches are different, the
   intention is the same, to grow health by empowering local communities through
   existing support structures at their churches.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

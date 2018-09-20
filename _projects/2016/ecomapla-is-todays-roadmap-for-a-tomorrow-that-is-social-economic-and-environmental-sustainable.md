@@ -107,6 +107,7 @@ project_proposal_description: >-
   Communities. Information will be displayed in an intuitive way to navigate
   with on demand tools and layers to control what you see, including pictures,
   text, videos, external links, etc. for a fully customized experience.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

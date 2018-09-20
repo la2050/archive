@@ -144,6 +144,7 @@ project_proposal_description: >-
   on the success of our summer program to include an afterschool program to
   launch in April providing the necessary support & motivation needed
   year-round.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

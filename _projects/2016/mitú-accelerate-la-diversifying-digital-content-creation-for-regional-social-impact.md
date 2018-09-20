@@ -136,6 +136,7 @@ project_proposal_description: >-
   Latino millennial audience. As leaders in this field, mitú is focused on
   giving back by teaching Latino filmmakers to authentically tell their own
   stories in a way that speaks directly and effective
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

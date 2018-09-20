@@ -133,6 +133,7 @@ project_proposal_description: >-
   food choices and connects them to fresh food. CT will also train teachers at
   six schools to utilize our new digital nutrition education platform Common
   Bytes, reaching an additional 480 kids.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

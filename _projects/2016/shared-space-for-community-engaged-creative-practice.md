@@ -131,6 +131,7 @@ project_proposal_description: >-
   vibrant and diverse community-based approaches and projects that cultivates
   platforms from which communities of LA from all backgrounds can come together
   and engage in civic discourse and art-making.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

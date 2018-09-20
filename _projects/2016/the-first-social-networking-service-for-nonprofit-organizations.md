@@ -124,6 +124,7 @@ project_proposal_description: >-
   organizations that facilitates a connection between non-profit organizations
   and donors, allowing matched users to exchange resources and funds to achieve
   social impact together.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

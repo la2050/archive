@@ -140,6 +140,7 @@ project_proposal_description: >-
   August 2017. In expanding outreach and participation, Maiden LA will continue
   to connect artists and collectives while representing LA County as a vibrant
   and extensive art community.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

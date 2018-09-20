@@ -72,6 +72,7 @@ project_proposal_description: >-
   the joy of creative movement, photography or visual arts workshops provided
   free of charge by the Hollywood Arts Council. We will also be able to expand
   this program in other schools.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

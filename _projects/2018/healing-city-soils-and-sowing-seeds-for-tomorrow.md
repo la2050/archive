@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["District-wide graduation rates","Proficiency in English and Language Arts
   and Math","Youth unemployment and underemployment"]
-category: create
+category: learn
 organization_id: '2018099'
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg
@@ -117,6 +117,6 @@ category_other:
   - LA is the best place to CONNECT
 challenge_url: >-
   https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
-body_class: banana
+body_class: blueberry
 
 ---

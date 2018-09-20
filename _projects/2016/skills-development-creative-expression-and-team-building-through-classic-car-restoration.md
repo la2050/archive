@@ -99,6 +99,7 @@ project_proposal_description: >-
   learn classic car restoration and customizing techniques, which provide job
   and life skills training, character building, and enforces academic subjects
   of science, technology, engineering, arts, and mathematics (STEAM).
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

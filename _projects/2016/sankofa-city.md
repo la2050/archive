@@ -126,6 +126,7 @@ project_proposal_description: >-
   collaborative workshops with artists, students, technical experts, and local
   Leimert Park residents, to create vivid scenarios of the possibilities to
   share with the public and spark debate.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

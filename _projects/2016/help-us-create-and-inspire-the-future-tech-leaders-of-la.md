@@ -109,6 +109,7 @@ project_proposal_description: >-
   students we serve will be able to tour the space, learn about jobs available
   to them in the future, and understand how exciting and accessible a job in
   computer programming can truly be for them!
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

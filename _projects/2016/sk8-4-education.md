@@ -78,6 +78,7 @@ project_proposal_description: >-
   art activities, art shows, skate competitions, and merchandise as incentives
   for kids to come after school and do their homework and exchange it for
   points.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

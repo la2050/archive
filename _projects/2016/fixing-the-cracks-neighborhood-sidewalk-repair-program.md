@@ -106,6 +106,7 @@ project_proposal_description: >-
   replacing their own sidewalks. LANI will conduct extensive outreach,
   facilitate six neighborhood workshops, and work hands-on with local residents
   to make streets safer for all!
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

@@ -105,6 +105,7 @@ project_proposal_description: >-
   management and mediation platform. #coParenterProject, a moderated twitter
   initiative, helps kids exposed to parents’ separation find answers, get help
   and build community.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

@@ -118,6 +118,7 @@ project_proposal_description: >-
   by the realization of our human potential.  The ChallengeLA2050 grant will
   directly contribute to the vision of the company through funding for a 35,000
   sq. ft. LA facility to house our growing community.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

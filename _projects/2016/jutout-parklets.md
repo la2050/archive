@@ -85,6 +85,7 @@ project_proposal_description: >-
   To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
   waterways -- with a priority of installing the parklets in park poor
   communities.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

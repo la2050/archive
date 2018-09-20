@@ -115,6 +115,7 @@ project_proposal_description: >-
   of healing through collaboration with innovative and well-respected arts and
   cultural institutions, and the dissemination of research results to the
   community.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

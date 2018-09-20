@@ -157,6 +157,7 @@ project_proposal_description: >-
   the housing we live in today was built, why housing production slowed in
   recent decades, and how we can accelerate adding housing of all types so that
   LA can have homes for all types of people.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

@@ -128,6 +128,7 @@ project_proposal_description: >-
   experience where students learn programming by creating their own websites,
   games and mobile apps. Started in 2012, it graduated its first class of
   students in 2016, who are now all in college.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

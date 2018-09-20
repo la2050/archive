@@ -7,7 +7,7 @@ project_summary: >-
   homelessness by creating affordable housing & helping Angelenos keep their
   homes
 impact_metrics: '["Housing affordability","Rates of homelessness"]'
-category: connect
+category: live
 organization_id: '2018132'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/united-way-of-greater-los-angeles.jpg
@@ -173,6 +173,6 @@ category_other:
   - LA is the best place to PLAY
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
-body_class: tangerine
+body_class: lime
 
 ---

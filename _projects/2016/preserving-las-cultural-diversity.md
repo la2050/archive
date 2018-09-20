@@ -130,6 +130,7 @@ project_proposal_description: >-
   diverse neighborhoods to negotiate the change process and develop a robust
   approach for leveraging culture as a tool for promoting sustainable
   neighborhood identities and economic development.
-body_class: strawberry
+category: create
+body_class: banana
 
 ---

@@ -7,7 +7,7 @@ project_summary: >-
   start and grow their own businesses, helping them revitalize their communities
   and create new local opportunities.
 impact_metrics: '["Minority- and women-owned firms"]'
-category: connect
+category: create
 organization_id: '2018109'
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg
@@ -105,6 +105,6 @@ category_metrics:
 category_other:
   - LA is the healthiest place to LIVE
 challenge_url: 'https://activation.la2050.org/create/small-business-majority/'
-body_class: tangerine
+body_class: banana
 
 ---

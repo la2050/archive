@@ -80,6 +80,7 @@ project_proposal_description: >-
   trauma-focused wellness programs that concentrate on mitigating the long term
   effects of abuse, and a number of prevention programs to educate the
   community.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

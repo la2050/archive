@@ -107,6 +107,7 @@ project_proposal_description: >-
   in-field, real-time, plant sensing system for a site-specific application can
   protect the environment from excessive chemicals and save management cost
   while controlling the productivity of watering systems.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

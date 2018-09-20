@@ -117,6 +117,7 @@ project_proposal_description: >-
   way of being compassionate has been more creative, effective and awe inspiring
   than the Compassion Games: Survival of the Kindest. Next year we want to
   transcend the geographical divide and include LA County in our efforts.
+category: play
 body_class: strawberry
 
 ---

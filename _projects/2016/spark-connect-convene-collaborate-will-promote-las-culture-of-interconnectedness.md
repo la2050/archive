@@ -136,6 +136,7 @@ project_proposal_description: >-
   CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
   all sectors across LA to provide peer support and promote new collaborations
   to solve LA’s biggest problems.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

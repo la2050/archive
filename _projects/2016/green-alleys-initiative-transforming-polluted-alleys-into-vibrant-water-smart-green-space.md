@@ -76,6 +76,7 @@ project_proposal_description: >-
   transformation of their community by leading community organizing,
   landscaping, and beautification efforts is a key piece of the Green Alleys
   Initiative.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

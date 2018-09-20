@@ -63,6 +63,7 @@ project_proposal_description: >-
   learning opportunities through classes, workshops and group dinners and 'TEA'
   parties. We serve to inspire, educate and beautify existing properties so
   residents can thrive.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

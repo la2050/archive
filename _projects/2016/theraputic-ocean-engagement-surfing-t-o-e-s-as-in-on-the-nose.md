@@ -137,6 +137,7 @@ project_proposal_description: >-
   and education needed to surfvive and thrive in Los Angeles!  Our program has a
   measurable positive impact on the self-esteem, motivation, endurance, and
   trust (in self) of our participants.
+category: play
 body_class: strawberry
 
 ---

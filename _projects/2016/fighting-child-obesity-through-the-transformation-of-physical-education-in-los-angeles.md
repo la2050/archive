@@ -155,6 +155,7 @@ project_proposal_description: >-
   comprehensive package gives underserved students a space to transform their
   physical education experience, and P.E. educators new and inventive resources
   to implement within their class.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

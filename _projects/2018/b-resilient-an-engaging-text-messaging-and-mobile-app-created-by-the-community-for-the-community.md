@@ -9,7 +9,7 @@ project_summary: >-
   and reduce the risk/impact of depressive symptoms in response to multiple
   stressors in under-resourced communities in LA.
 impact_metrics: '["Rates of mental illness","Resilient communities"]'
-category: connect
+category: live
 organization_id: '2018129'
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/ucla-center-for-health-services-and-society.jpg
@@ -117,6 +117,6 @@ category_other:
   - LA is the best place to LEARN
 challenge_url: >-
   https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
-body_class: tangerine
+body_class: lime
 
 ---

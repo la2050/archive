@@ -9,7 +9,7 @@ project_summary: >-
 impact_metrics: >-
   ["Number (and quality) of informal spaces for play","Number of children
   enrolled in afterschool programs"]
-category: create
+category: play
 organization_id: '2018101'
 project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-hen-press.jpg'
 project_video: ''
@@ -91,6 +91,6 @@ category_metrics:
 category_other:
   - LA is the best place to CREATE
 challenge_url: 'https://activation.la2050.org/play/red-hen-press/'
-body_class: banana
+body_class: strawberry
 
 ---

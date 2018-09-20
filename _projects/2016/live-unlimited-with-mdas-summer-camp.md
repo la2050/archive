@@ -118,6 +118,7 @@ project_proposal_description: >-
   friendship. Through the magic of summer camp, MDA offers a world of
   possibilities to campers — from swimming and horseback riding to zip-lining,
   adaptive sports and camp dances.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

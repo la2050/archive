@@ -119,6 +119,7 @@ project_proposal_description: >-
   surrounding areas. PPS residents lead an advocacy action day to inform
   decision-makers on municipal budget prioritization to have parks serve as
   community hubs that strengthen family bonds and reduce community violence.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

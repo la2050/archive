@@ -142,6 +142,7 @@ project_proposal_description: >-
   local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
   are paid by retailers on our platform who give cash-back rewards on families'
   everyday purchases (gas, food, clothes).
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---

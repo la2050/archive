@@ -141,6 +141,7 @@ project_proposal_description: >-
   epidemic. HHCLA clients have reported over 1,000 overdose reversals to date
   and this number will only continue to grow with the proper training and
   resources.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

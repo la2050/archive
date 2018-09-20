@@ -123,6 +123,7 @@ project_proposal_description: >-
   (CTC) program, which focuses on preparing students for success through
   exposure to different colleges and careers, skill-building, parent engagement,
   and support throughout the college-application process, enrollment and beyond.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

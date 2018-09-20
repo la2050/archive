@@ -110,6 +110,7 @@ project_proposal_description: >-
   of activities ranging from drumming, weaving, ceramics, woodworking,
   gardening, yoga and more. Da FUNction serves to transform unused, undervalued
   public spaces into beautiful places full of life, culture & art.
+category: play
 body_class: strawberry
 
 ---

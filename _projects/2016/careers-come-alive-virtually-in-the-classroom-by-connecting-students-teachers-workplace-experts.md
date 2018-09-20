@@ -115,6 +115,7 @@ project_proposal_description: >-
   media-rich, technology-based platform. Content is designed by a collaborative
   community of educators and experts from local and global for-profit,
   non-profit, and labor organizations and associations.
-body_class: strawberry
+category: learn
+body_class: blueberry
 
 ---

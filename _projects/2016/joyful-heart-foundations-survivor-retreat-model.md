@@ -113,6 +113,7 @@ project_proposal_description: >-
   used to create a replicable Retreat Model that organizations can implement and
   offer to survivors, the healing professionals who serve them, and communities
   beyond our current capacity and scope.
-body_class: strawberry
+category: live
+body_class: lime
 
 ---

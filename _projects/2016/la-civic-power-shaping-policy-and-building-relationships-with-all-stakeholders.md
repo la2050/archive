@@ -145,6 +145,7 @@ project_proposal_description: >-
   relationships with community partners, organizations, and elected officials,
   implementing community education and outreach strategies, and creating change
   in local politics.
-body_class: strawberry
+category: connect
+body_class: tangerine
 
 ---
