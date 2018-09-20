@@ -1,7 +1,7 @@
 ---
-project_id: '3102012'
-organization_id: '2013012'
+organization_id: '2015008'
 project_image: 'http://maker.good.is/myla2050/projects/PrepareLA.html'
+project_id: '3102018'
 title: PrepareLA — Building Resilience through Community and Volunteer Engagement
 indicator: ' Social Connectedness'
 What is your idea and how will it impact your indicator?: >-

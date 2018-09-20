@@ -1,7 +1,7 @@
 ---
-project_id: '3102253'
-organization_id: '2013253'
+organization_id: '2013198'
 project_image: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
+project_id: '3102110'
 title: >-
   At thrdPlace our idea for LA2050 is to provide the digital infrastructure for
   community development

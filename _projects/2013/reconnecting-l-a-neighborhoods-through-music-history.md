@@ -1,7 +1,7 @@
 ---
-project_id: '3102168'
-organization_id: '2013168'
+organization_id: '2013128'
 project_image: 'http://maker.good.is/myla2050/projects/LTSC.html'
+project_id: '3102192'
 title: ReConnecting L.A. Neighborhoods through Music & History
 indicator: ' Social Connectedness'
 What is your idea and how will it impact your indicator?: >+

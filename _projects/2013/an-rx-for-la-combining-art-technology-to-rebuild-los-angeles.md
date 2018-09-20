@@ -1,7 +1,7 @@
 ---
-project_id: '3102245'
-organization_id: '2013245'
+organization_id: '2013191'
 project_image: 'http://maker.good.is/myla2050/projects/RXforLA.html'
+project_id: '3102107'
 title: An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
 indicator: ' Income & Employment'
 What is your idea and how will it impact your indicator?: >+

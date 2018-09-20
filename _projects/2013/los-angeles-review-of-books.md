@@ -1,8 +1,8 @@
 ---
-project_id: '3102165'
-organization_id: '2013165'
+organization_id: '2016139'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22625%252Fdisplay%252Flarb_logo.jpg=c570x385
+project_id: '3102189'
 title: Los Angeles Review of Books
 indicator: Arts & Cultural Vitality
 What is your idea and how will it impact your indicator?: >-

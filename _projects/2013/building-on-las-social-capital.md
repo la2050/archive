@@ -1,7 +1,7 @@
 ---
-project_id: '3102176'
-organization_id: '2013176'
+organization_id: '2013136'
 project_image: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+project_id: '3102198'
 title: 'Building on LAs Social Capital '
 indicator: ' Income & Employment'
 What is your idea and how will it impact your indicator?: >-

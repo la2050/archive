@@ -1,7 +1,7 @@
 ---
-project_id: '3102127'
-organization_id: '2013127'
+organization_id: '2013098'
 project_image: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+project_id: '3102157'
 title: Listening Communication and Conflict Resolution Skills for Los Angeles
 indicator: ' Social Connectedness'
 What is your idea and how will it impact your indicator?: >-

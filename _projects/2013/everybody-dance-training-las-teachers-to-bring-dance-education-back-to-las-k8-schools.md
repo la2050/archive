@@ -1,7 +1,7 @@
 ---
-project_id: '3102240'
-organization_id: '2013240'
+organization_id: '2014201'
 project_image: 'http://maker.good.is/myla2050/projects/dance.html'
+project_id: '3102247'
 title: >-
   everybody dance:  Training LA’s Teachers to Bring Dance Education Back to LA’s
   K8 Schools

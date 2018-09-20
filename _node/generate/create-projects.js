@@ -182,6 +182,15 @@ const projectAnswersToRemove = [
   "make_la_great"
 ]
 
+const projectAnswersToRemove2013 = [
+  "organization_name",
+  "about_organization",
+  "ein",
+  "empty_column_1",
+  "empty_column_2",
+  "empty_column_3"
+]
+
 const projectAreas2015 = [
   "Central LA",
   "East LA",
@@ -211,6 +220,17 @@ const projectAreas2014 = [
 
 
 function addProjectAnswers(data) {
+
+
+  if (data.year_submitted == 2013) {
+
+    // Remove unneeded answers
+    projectAnswersToRemove2013.forEach(answerToRemove => {
+      delete data[answerToRemove]
+    })
+
+  }
+
 
   if (data.year_submitted == 2014) {
     let project_areas = []

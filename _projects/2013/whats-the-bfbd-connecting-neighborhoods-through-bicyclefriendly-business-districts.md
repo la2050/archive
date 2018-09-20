@@ -1,7 +1,7 @@
 ---
-project_id: '3102108'
-organization_id: '2013108'
+organization_id: '2013085'
 project_image: 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'
+project_id: '3102054'
 title: >-
   What’s the BF(B)D? Connecting Neighborhoods through BicycleFriendly Business
   Districts

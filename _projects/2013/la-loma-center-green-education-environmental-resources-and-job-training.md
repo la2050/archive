@@ -1,7 +1,7 @@
 ---
-project_id: '3102146'
-organization_id: '2013146'
+organization_id: '2013114'
 project_image: 'http://maker.good.is/myla2050/projects/LALOMA.html'
+project_id: '3102068'
 title: 'La Loma Center: Green Education Environmental Resources and Job Training '
 indicator: ' Income & Employment'
 What is your idea and how will it impact your indicator?: >-

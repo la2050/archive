@@ -1,7 +1,7 @@
 ---
-project_id: '3102018'
-organization_id: '2013018'
+organization_id: '2013015'
 project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/maxresdefault.jpg'
+project_id: '3102027'
 title: 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 indicator: Arts & Cultural Vitality
 What is your idea and how will it impact your indicator?: >-

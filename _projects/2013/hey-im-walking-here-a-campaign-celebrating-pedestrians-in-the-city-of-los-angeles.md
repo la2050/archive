@@ -1,7 +1,7 @@
 ---
-project_id: '3102166'
-organization_id: '2013166'
+organization_id: '2013126'
 project_image: 'http://maker.good.is/myla2050/projects/LAwalks.html'
+project_id: '3102190'
 title: >-
   “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of Los
   Angeles 

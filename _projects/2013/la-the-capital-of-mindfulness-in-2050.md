@@ -1,7 +1,7 @@
 ---
-project_id: '3102126'
-organization_id: '2013126'
+organization_id: '2013097'
 project_image: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+project_id: '3102156'
 title: LA the capital of mindfulness in 2050
 indicator: ' Health'
 What is your idea and how will it impact your indicator?: >-

@@ -1,7 +1,7 @@
 ---
-project_id: '3102105'
-organization_id: '2013105'
+organization_id: '2013082'
 project_image: 'http://maker.good.is/myla2050/projects/goglayc.html'
+project_id: '3102140'
 title: Grades of Green  Los Angeles Youth Corps
 indicator: ' Environmental Quality'
 What is your idea and how will it impact your indicator?: >-

@@ -1,7 +1,7 @@
 ---
-project_id: '3102140'
-organization_id: '2013140'
+organization_id: '2013109'
 project_image: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+project_id: '3102066'
 title: Connecting Angelenos Through Smart Engaging Neighborhood Maps
 indicator: ' Social Connectedness'
 What is your idea and how will it impact your indicator?: >-

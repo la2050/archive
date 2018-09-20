@@ -1,7 +1,7 @@
 ---
-project_id: '3102063'
-organization_id: '2013063'
+organization_id: '2013050'
 project_image: 'http://maker.good.is/myla2050/projects/enlightened200.html'
+project_id: '3102102'
 title: >-
   The LA2050 200  Creating Enlightened Leadership for a Healthy Thriving Los
   Angeles

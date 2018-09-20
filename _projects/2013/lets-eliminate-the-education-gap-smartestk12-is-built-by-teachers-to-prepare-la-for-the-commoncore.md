@@ -1,7 +1,7 @@
 ---
-project_id: '3102220'
-organization_id: '2013220'
+organization_id: '2013167'
 project_image: 'http://maker.good.is/myla2050/projects/smartestk12.html'
+project_id: '3102092'
 title: >-
   Lets eliminate the education gap: smartestk12 is built by teachers to prepare
   LA for the CommonCore

@@ -1,7 +1,7 @@
 ---
-project_id: '3102038'
-organization_id: '2013038'
+organization_id: '2018021'
 project_image: 'https://img.youtube.com/vi/y4WKBQ2UIos/maxresdefault.jpg'
+project_id: '3102061'
 title: 'CicLAvia: Get Connected LA'
 indicator: ' Social Connectedness'
 What is your idea and how will it impact your indicator?: >-

@@ -1,8 +1,8 @@
 ---
-project_id: '3102224'
-organization_id: '2013224'
+organization_id: '2013171'
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16663%252Fdisplay%252FBoyleTalk.jpg=c570x385
+project_id: '3102237'
 title: 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
 indicator: ' Social Connectedness'
 What is your idea and how will it impact your indicator?: >+
