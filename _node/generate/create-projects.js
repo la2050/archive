@@ -180,7 +180,12 @@ const projectAnswersToRemove = [
   "resources_needed",
   "measure_success",
   "impact_metrics",
-  "make_la_great"
+  "make_la_great",
+  "Please describe the activation your organization seeks to launch.",
+  "Describe in greater detail how your activation will make LA the best place?",
+  "How will your activation engage Angelenos to make LA the best place",
+  "Please explain how you will define and measure success for your activation.",
+  "Where do you hope this activation or your organization will be in five years?"
 ]
 
 const projectAnswersToRemove2013 = [
@@ -275,12 +280,12 @@ function addProjectAnswers(data) {
       }
 
       // Remove empty or redundant answers
-      projectAnswersToRemove.forEach(answerToRemove => {
-        if (data[answerToRemove] == "") delete data[answerToRemove]
-        projectAnswers.forEach(answer => {
-          if (data[answerToRemove] == data[answer]) delete data[answerToRemove]
-        })
-      })
+      // projectAnswersToRemove.forEach(answerToRemove => {
+      //   if (data[answerToRemove] == "") delete data[answerToRemove]
+      //   projectAnswers.forEach(answer => {
+      //     if (data[answerToRemove] == data[answer]) delete data[answerToRemove]
+      //   })
+      // })
     }
 
   }
@@ -676,7 +681,7 @@ markdownProjects.forEach(project => {
 
 
 
-// generateAllCollections('projects-2018.csv', 2018)
+generateAllCollections('projects-2018.csv', 2018)
 generateAllCollections('projects-2016.csv', 2016)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
