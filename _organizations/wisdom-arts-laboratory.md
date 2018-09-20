@@ -24,7 +24,7 @@ areas_impacted:
   - East LA
   - San Gabriel Valley
   - South LA
-project_ids: ''
+project_ids: '6102283'
 title: Wisdom Arts Laboratory
 uri: /organizations/wisdom-arts-laboratory/
 challenge_url: >-

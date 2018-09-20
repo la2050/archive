@@ -29,7 +29,7 @@ org_summary: >-
   large public forums to educate citizens about how mindfulness can improve
   their lives.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102156'
 title: InsightLA
 uri: /organizations/insightla/
 challenge_url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'

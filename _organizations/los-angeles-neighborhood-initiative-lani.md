@@ -25,7 +25,7 @@ areas_impacted:
   - San Fernando Valley
   - South LA
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102143'
 title: Los Angeles Neighborhood Initiative (LANI)
 uri: /organizations/los-angeles-neighborhood-initiative-lani/
 challenge_url: >-

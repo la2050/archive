@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102127'
 title: Landscape Integrity Films and Education (LIFE)
 uri: /organizations/landscape-integrity-films-and-education-life/
 challenge_url: >-

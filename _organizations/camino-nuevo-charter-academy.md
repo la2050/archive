@@ -21,7 +21,7 @@ org_summary: >-
   through high school for success in college.
 areas_impacted:
   - Central LA
-project_ids: ''
+project_ids: '6102030'
 title: Camino Nuevo Charter Academy
 uri: /organizations/camino-nuevo-charter-academy/
 challenge_url: >-

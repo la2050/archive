@@ -32,7 +32,7 @@ org_summary: |-
    
    Partnership with the Los Angeles Chamber Orchestra: In 2003-2007
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102191'
 title: Los Angeles Youth Orchestra
 uri: /organizations/los-angeles-youth-orchestra/
 challenge_url: 'http://maker.good.is/myla2050/projects/Communitybuilding.html'

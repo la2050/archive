@@ -27,7 +27,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102003'
 title: A Sense of Home
 uri: /organizations/a-sense-of-home/
 challenge_url: >-

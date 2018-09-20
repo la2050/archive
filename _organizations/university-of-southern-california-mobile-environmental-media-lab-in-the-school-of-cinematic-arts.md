@@ -34,7 +34,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102275'
 title: >-
   University of Southern California, Mobile + Environmental Media Lab in the
   School of Cinematic Arts

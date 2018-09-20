@@ -25,7 +25,7 @@ areas_impacted:
   - Gateway Cities
   - LAUSD
   - Inglewood
-project_ids: ''
+project_ids: '6102246'
 title: The Jester & Pharley Phund
 uri: /organizations/the-jester-pharley-phund/
 challenge_url: >-

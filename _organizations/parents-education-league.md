@@ -21,7 +21,7 @@ org_summary: >-
   12th grade.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102174'
 title: Parents Education League
 uri: /organizations/parents-education-league/
 challenge_url: >-

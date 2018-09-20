@@ -49,7 +49,7 @@ org_summary: >-
   now utilized nationally. My LA2050 funding would enable us to expand these
   programs and train practitioners on how to make use of the game-based tools.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102224'
 title: Pullias Center for Higher Education
 uri: /organizations/pullias-center-for-higher-education/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegecapacity.html'

@@ -30,7 +30,7 @@ org_summary: |-
    
    * Conducted an international educational game program: a semester-long, synchronous game played between the 5th grade math class at RFK Community Schools’ Ambassador School of Global Leadership and a 5th grade math class in Seoul Korea. The program was led by Professor Jong H., Wi, internationally recognized “serious game” designer and visiting Professor at CRESST UCLA school of education.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102229'
 title: RFK-LA (Legacy in Action)
 uri: /organizations/rfk-la-legacy-in-action/
 challenge_url: 'http://maker.good.is/myla2050/projects/RFKLA.html'

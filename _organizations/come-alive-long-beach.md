@@ -21,7 +21,7 @@ org_summary: >-
   creative summer arts camps in the city of Long Beach.
 areas_impacted:
   - Gateway Cities
-project_ids: ''
+project_ids: '6102048'
 title: Come Alive Long Beach
 uri: /organizations/come-alive-long-beach/
 challenge_url: >-

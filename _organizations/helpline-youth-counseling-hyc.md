@@ -21,7 +21,7 @@ org_summary: >-
   advocacy, and the utilization of resources.
 areas_impacted:
   - Gateway Cities
-project_ids: ''
+project_ids: '6102090'
 title: Helpline Youth Counseling (HYC)
 uri: /organizations/helpline-youth-counseling-hyc/
 challenge_url: >-

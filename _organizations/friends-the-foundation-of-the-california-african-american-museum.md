@@ -45,7 +45,7 @@ org_summary: >-
   today employing, training and educating 30 high school youth year round for
   their personal and professional career development.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102133'
 title: 'Friends, the Foundation of the California African American Museum'
 uri: >-
   /organizations/friends-the-foundation-of-the-california-african-american-museum/

@@ -23,7 +23,7 @@ areas_impacted:
   - San Gabriel Valley
   - San Fernando Valley
   - LAUSD
-project_ids: ''
+project_ids: '6102264'
 title: Tierra del Sol Foundation
 uri: /organizations/tierra-del-sol-foundation/
 challenge_url: >-

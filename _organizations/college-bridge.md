@@ -31,7 +31,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102046'
 title: College Bridge
 uri: /organizations/college-bridge/
 challenge_url: >-

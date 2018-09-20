@@ -25,7 +25,7 @@ org_summary: >-
   potential in creating a training program so legal professionals like her can
   help people the law is meant to serve.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102001'
 title: ADVANCE
 uri: /organizations/advance/
 challenge_url: 'http://maker.good.is/myla2050/projects/AccessJustice.html'

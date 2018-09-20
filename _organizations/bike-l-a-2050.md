@@ -25,7 +25,7 @@ org_summary: >-
   architecture and engineering fields on urban mobility projects, including the
   launch of electric vehicles and charging infrastructure.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102034'
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
 challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'

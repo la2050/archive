@@ -20,7 +20,7 @@ org_summary: >-
   lifestyle choices among today's youth.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102211'
 title: Sound Body Sound Mind Foundation
 uri: /organizations/sound-body-sound-mind-foundation/
 challenge_url: >-

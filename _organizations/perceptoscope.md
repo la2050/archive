@@ -24,7 +24,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - There is global interest. We want to pilot in LA.
-project_ids: '#N/A'
+project_ids: '6102215'
 title: Perceptoscope
 uri: /organizations/perceptoscope/
 challenge_url: >-

@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102161'
 title: Give Today LA
 uri: /organizations/give-today-la/
 challenge_url: >-

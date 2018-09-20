@@ -26,7 +26,7 @@ areas_impacted:
   - Westside
   - South Bay
   - LAUSD
-project_ids: ''
+project_ids: '6102196'
 title: Relational Medicine Foundation
 uri: /organizations/relational-medicine-foundation/
 challenge_url: >-

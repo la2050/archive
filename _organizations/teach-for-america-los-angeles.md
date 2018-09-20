@@ -29,7 +29,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102230'
 title: Teach For America-Los Angeles
 uri: /organizations/teach-for-america-los-angeles/
 challenge_url: >-

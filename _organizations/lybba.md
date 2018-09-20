@@ -85,7 +85,7 @@ org_summary: >-
    
    In addition to the programs above, Lybba has designed, constructed, and created content strategy for a dozen healthcare websites. Lybba has also produced two dozen films on science and healthcare with our film-making partner, Wondros.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102193'
 title: Lybba
 uri: /organizations/lybba/
 challenge_url: 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'

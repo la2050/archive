@@ -25,7 +25,7 @@ areas_impacted:
   - San Gabriel Valley
   - South LA
   - Gateway Cities
-project_ids: ''
+project_ids: '6102204'
 title: Say Word and 4C LAB
 uri: /organizations/say-word-and-4c-lab/
 challenge_url: >-

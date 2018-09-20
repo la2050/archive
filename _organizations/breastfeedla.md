@@ -21,7 +21,7 @@ org_summary: >-
   breastfeeding.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102022'
 title: BreastfeedLA
 uri: /organizations/breastfeedla/
 challenge_url: >-

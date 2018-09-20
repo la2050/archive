@@ -20,7 +20,7 @@ org_summary: >-
   infrastructure improvements in the Expo Park neighborhood.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102169'
 title: Office of Exposition Park Management
 uri: /organizations/office-of-exposition-park-management/
 challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'

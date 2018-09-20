@@ -17,11 +17,11 @@ project_video: ''
 org_summary: >-
   Inspire & educate girls and women to solve problems in their community using
   technology.
-areas_impacted: County of Los Angeles (countywide)
+areas_impacted: South LA
 project_ids: '5102145'
 title: Iridescent
 uri: /organizations/iridescent/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/Technovation.html'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'
 youtube_video_identifier: NTnzCDQ335U
 
 ---

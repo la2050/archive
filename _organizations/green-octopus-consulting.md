@@ -32,7 +32,7 @@ org_summary: >-
    
    &nbsp;</p>* Being the subject of Copenhagen’s Bicycle Manager, Andreas Rohl’s grant to study our work in Long Beach and San Diego in an effort to implement our ideas in Copenhagen.
 areas_impacted: ''
-project_ids: '5102046'
+project_ids: '3102054'
 title: Green Octopus Consulting
 uri: /organizations/green-octopus-consulting/
 challenge_url: 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'

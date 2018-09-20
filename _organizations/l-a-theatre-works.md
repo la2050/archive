@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102117'
 title: L.A. Theatre Works
 uri: /organizations/l-a-theatre-works/
 challenge_url: >-

@@ -21,7 +21,7 @@ org_summary: >-
   diverse institutions.
 areas_impacted:
   - East LA
-project_ids: ''
+project_ids: '6102042'
 title: Clockshop & California State Parks
 uri: /organizations/clockshop-california-state-parks/
 challenge_url: >-

@@ -21,7 +21,7 @@ org_summary: >-
   learning.
 areas_impacted:
   - East LA
-project_ids: '4102073'
+project_ids: '6102071'
 title: '#Library'
 uri: /organizations/library/
 challenge_url: >-

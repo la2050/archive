@@ -47,7 +47,7 @@ org_summary: >-
    
    * The “Equal Access to College Prep” campaign achieved the landmark A-G Resolution in 2005, mandating that A-G college preparatory curriculum be made available in all schools in LAUSD. Coalition youth leaders recognized that the majority of South LA youth were not on track to graduate and were ineligible for college based on college pre-requirements. In this five-year effort, the Coalition trained student leaders to engage with elected officials and decision-makers. The Coalition also co-founded Communities for Educ</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102087'
 title: Community Coalition
 uri: /organizations/community-coalition/
 challenge_url: 'http://maker.good.is/myla2050/projects/SaferHoods.html'

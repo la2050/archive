@@ -21,7 +21,7 @@ org_summary: >-
   our shared natural heritage.
 areas_impacted:
   - South Bay
-project_ids: ''
+project_ids: '6102261'
 title: Theodore Payne Foundation for Wild Flower and Native Plants
 uri: /organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/
 challenge_url: >-

@@ -20,7 +20,7 @@ org_summary: >-
   benefit drought affected communities
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102229'
 title: Sky Source
 uri: /organizations/sky-source/
 challenge_url: >-

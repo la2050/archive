@@ -25,7 +25,7 @@ org_summary: >-
   distributes over 40 grants to artists and community based nonprofit arts
   organizations.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102027'
 title: Arts Council for Long Beach
 uri: /organizations/arts-council-for-long-beach/
 challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'

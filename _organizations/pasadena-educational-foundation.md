@@ -20,7 +20,7 @@ org_summary: >-
   programs, initiatives, and priorities of the Pasadena Unified School District.
 areas_impacted:
   - San Gabriel Valley
-project_ids: ''
+project_ids: '6102175'
 title: Pasadena Educational Foundation
 uri: /organizations/pasadena-educational-foundation/
 challenge_url: >-

@@ -34,7 +34,7 @@ org_summary: >-
   nations brave service members helping to honor and empower them through
   theatre.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102095'
 title: CRE Outreach
 uri: /organizations/cre-outreach/
 challenge_url: 'http://maker.good.is/myla2050/projects/creoutreach.html'

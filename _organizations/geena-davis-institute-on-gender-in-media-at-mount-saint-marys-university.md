@@ -21,7 +21,7 @@ org_summary: >-
   balance in media and empower women and girls.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102079'
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 uri: >-
   /organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/

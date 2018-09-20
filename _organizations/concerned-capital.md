@@ -25,7 +25,7 @@ areas_impacted:
   - San Fernando Valley
   - South LA
   - Gateway Cities
-project_ids: '5102152'
+project_ids: '6102111'
 title: Concerned Capital
 uri: /organizations/concerned-capital/
 challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'

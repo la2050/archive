@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102134'
 title: Living Spring Foundation
 uri: /organizations/living-spring-foundation/
 challenge_url: >-

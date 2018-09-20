@@ -24,7 +24,7 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
   - Baldwin Village 'The Jungles'
-project_ids: ''
+project_ids: '6102269'
 title: 'Unite A Nation, Inc.'
 uri: /organizations/unite-a-nation-inc/
 challenge_url: >-

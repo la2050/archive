@@ -27,7 +27,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102137'
 title: Los Angeles Cleantech Incubator
 uri: /organizations/los-angeles-cleantech-incubator/
 challenge_url: 'https://challenge.la2050.org/entry/youth-cleantech-training-program'

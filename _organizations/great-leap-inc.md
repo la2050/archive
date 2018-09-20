@@ -50,7 +50,7 @@ org_summary: >-
    
    Now we are using our environmental music video series, “Eco-Vids” as an innovative way to engage communities of color with the critical issue of Climate Change and highlight the sustainable practices passed down the generations. The first, “B.Y.O. Chopstix,” promotes conservation by using disposable chopsticks; “Mottainai” tells the story of the Japanese tradition of “No Waste,” and “Cycles of Change,” a collaboration between Quetzal and Nobuko, encourages urban families to bicycle for their health and the environment. Since 2010 the Ecovids have received over 45,000 views on YouTube.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102142'
 title: 'Great Leap, Inc.'
 uri: /organizations/great-leap-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/FandangObon2050.html'

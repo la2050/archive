@@ -28,7 +28,7 @@ org_summary: >-
   Music Series, now entering its 20th year, which draws over 700 people each
   year.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102263'
 title: UCLA William Andrews Clark Memorial Library
 uri: /organizations/ucla-william-andrews-clark-memorial-library/
 challenge_url: 'http://maker.good.is/myla2050/projects/Clark.html'

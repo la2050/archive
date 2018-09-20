@@ -17,7 +17,7 @@ project_image: >-
 project_video: ''
 org_summary: '#NAME?'
 areas_impacted: ''
-project_ids: '5102072'
+project_ids: '3102083'
 title: Participlay
 uri: /organizations/participlay/
 challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'

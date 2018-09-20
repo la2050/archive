@@ -20,7 +20,7 @@ org_summary: >-
   part of the Mayor’s Los Angeles CleanTech Incubator, bringing clean technology
   companies to the City of Los Angeles.
 areas_impacted: ''
-project_ids: '4102032'
+project_ids: '3102055'
 title: Hive Lighting
 uri: /organizations/hive-lighting/
 challenge_url: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'

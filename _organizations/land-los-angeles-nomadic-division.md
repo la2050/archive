@@ -27,7 +27,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102126'
 title: LAND (Los Angeles Nomadic Division)
 uri: /organizations/land-los-angeles-nomadic-division/
 challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'

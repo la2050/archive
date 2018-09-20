@@ -24,7 +24,7 @@ areas_impacted:
   - San Fernando Valley
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102060'
 title: DIGDEEP Water
 uri: /organizations/digdeep-water/
 challenge_url: >-

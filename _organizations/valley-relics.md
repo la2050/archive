@@ -20,7 +20,7 @@ org_summary: >-
   protect the history, culture and artifacts of the San Fernando Valley
 areas_impacted:
   - San Fernando Valley
-project_ids: ''
+project_ids: '6102278'
 title: Valley Relics
 uri: /organizations/valley-relics/
 challenge_url: >-

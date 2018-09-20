@@ -53,7 +53,7 @@ org_summary: >-
    
    * 30,000 L.A. transgender persons with improved access to medical care
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102180'
 title: Liberty Hill
 uri: /organizations/liberty-hill/
 challenge_url: 'http://maker.good.is/myla2050/projects/bootcamp2050.html'

@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102103'
 title: Inner-City Arts
 uri: /organizations/inner-city-arts/
 challenge_url: >-

@@ -20,7 +20,7 @@ org_summary: >-
   Design that applies strategic urban thinking to real world issues.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102251'
 title: The NOW Institute/UCLA
 uri: /organizations/the-now-institute-ucla/
 challenge_url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'

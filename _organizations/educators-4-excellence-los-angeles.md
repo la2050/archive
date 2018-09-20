@@ -20,7 +20,7 @@ org_summary: >-
   movement of teachers can change what’s possible in our education system.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102063'
 title: Educators 4 Excellence-Los Angeles
 uri: /organizations/educators-4-excellence-los-angeles/
 challenge_url: >-

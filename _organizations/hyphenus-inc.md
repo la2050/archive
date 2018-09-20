@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102172'
 title: 'HyphenUs, Inc.'
 uri: /organizations/hyphenus-inc/
 challenge_url: >-

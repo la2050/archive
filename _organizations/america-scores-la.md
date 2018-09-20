@@ -21,7 +21,7 @@ org_summary: >-
   academic achievement and civic engagement.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102006'
 title: America Scores LA
 uri: /organizations/america-scores-la/
 challenge_url: >-

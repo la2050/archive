@@ -21,7 +21,7 @@ org_summary: >-
   desiring to grow in instructional effectiveness.
 areas_impacted:
   - County of Los Angeles
-project_ids: '5102273'
+project_ids: '6102210'
 title: Pedagogics Coaching Group
 uri: /organizations/pedagogics-coaching-group/
 challenge_url: >-

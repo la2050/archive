@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102284'
 title: WISH Academy High School
 uri: /organizations/wish-academy-high-school/
 challenge_url: >-

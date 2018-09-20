@@ -24,7 +24,7 @@ org_summary: >-
   see our imprint on individuals as they go on to transform the world in
   positive sustainable ways.
 areas_impacted: ''
-project_ids: '4102040'
+project_ids: '3102077'
 title: MLoveizm Inc.
 uri: /organizations/mloveizm-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'

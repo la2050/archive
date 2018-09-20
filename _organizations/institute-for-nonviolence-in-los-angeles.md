@@ -22,7 +22,7 @@ org_summary: >-
   Professor Buzz Wilms initiated a class at UCLA in 2001, and hundreds of
   undergraduates have been trained as a result of that class.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102157'
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'

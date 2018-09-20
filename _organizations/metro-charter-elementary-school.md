@@ -21,7 +21,7 @@ org_summary: >-
   of those who work and live downtown.
 areas_impacted:
   - Downtown L.A. metro area
-project_ids: ''
+project_ids: '6102154'
 title: METRO Charter Elementary School
 uri: /organizations/metro-charter-elementary-school/
 challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'

@@ -31,7 +31,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '4102131'
+project_ids: '6102141'
 title: Equallet
 uri: /organizations/equallet/
 challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'

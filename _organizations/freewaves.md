@@ -67,7 +67,7 @@ org_summary: >-
    
    <p>Out the Window’s excellence has been acknowledged with numerous extremely competitive grants from MacArthur, Rockefeller, Warhol, Durfee and Irvine Foundations, National Endowment for the Arts, California Arts Council, Los Angeles County Arts Commission and The City of Los Angeles Department of Cultural Affairs and others, leading to two critical awards: one of L.A. Weekly’s Top Ten Art Projects of the Year, and Public Art Review’s Top 50 National Projects of the Year.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102132'
 title: Freewaves
 uri: /organizations/freewaves/
 challenge_url: 'http://maker.good.is/myla2050/projects/Freewaves.html'

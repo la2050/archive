@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - East LA
   - South LA
-project_ids: ''
+project_ids: '6102186'
 title: Knit Marketing
 uri: /organizations/knit-marketing/
 challenge_url: >-

@@ -40,7 +40,7 @@ org_summary: >-
   important cause to further light on the national media scale, and would like
   to thank all of our supporters who have been with us every step of the way.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102241'
 title: Swipes for the Homeless
 uri: /organizations/swipes-for-the-homeless/
 challenge_url: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'

@@ -24,7 +24,7 @@ areas_impacted:
   - Westside
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102136'
 title: Los Angeles Audubon Society (LAAS)
 uri: /organizations/los-angeles-audubon-society-laas/
 challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'

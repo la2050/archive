@@ -31,7 +31,7 @@ org_summary: >-
   supporting them to succeed. More than 70 percent of our employed Alumni work
   full-time in education.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102120'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
 challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'

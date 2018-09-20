@@ -25,7 +25,7 @@ areas_impacted:
   - South LA
   - Westside
   - LAUSD
-project_ids: ''
+project_ids: '6102249'
 title: 'The Love Story Media, Inc.'
 uri: /organizations/the-love-story-media-inc/
 challenge_url: >-

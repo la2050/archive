@@ -26,7 +26,7 @@ areas_impacted:
   - San Fernando Valley
   - South LA
   - Gateway Cities
-project_ids: '5102263'
+project_ids: '6102205'
 title: mitu
 uri: /organizations/mitu/
 challenge_url: >-

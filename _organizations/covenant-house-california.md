@@ -21,7 +21,7 @@ org_summary: >-
   25.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102057'
 title: Covenant House California
 uri: /organizations/covenant-house-california/
 challenge_url: 'https://challenge.la2050.org/entry/the-precise-barber-college'

@@ -26,7 +26,7 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
   - 'Inglewood and Compton, California'
-project_ids: ''
+project_ids: '6102101'
 title: I'm A Movement Not A Monument
 uri: /organizations/im-a-movement-not-a-monument/
 challenge_url: >-

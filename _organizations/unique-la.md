@@ -41,7 +41,7 @@ org_summary: >-
    
    - An estimated $9.3 million has been spent at UNIQUE shows (all that money goes right back into the local economy)
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102111'
 title: UNIQUE LA
 uri: /organizations/unique-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'

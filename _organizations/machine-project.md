@@ -35,7 +35,7 @@ org_summary: >-
    
    * Supported the creation of new work by hundreds of artists. This includes direct financial support, often presenting their first solo show or first museum show and providing professional video documentation of their work. <p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102194'
 title: Machine Project
 uri: /organizations/machine-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/machineproject.html'

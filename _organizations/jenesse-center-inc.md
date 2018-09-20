@@ -21,7 +21,7 @@ org_summary: >-
   transition from immediate crisis to self-sufficiency.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102108'
 title: 'Jenesse Center, Inc.'
 uri: /organizations/jenesse-center-inc/
 challenge_url: >-

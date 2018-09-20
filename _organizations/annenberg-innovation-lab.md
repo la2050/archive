@@ -21,7 +21,7 @@ org_summary: >-
   businesses, education, creators and consumers.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102008'
 title: Annenberg Innovation Lab
 uri: /organizations/annenberg-innovation-lab/
 challenge_url: 'https://challenge.la2050.org/entry/sankofa-city'

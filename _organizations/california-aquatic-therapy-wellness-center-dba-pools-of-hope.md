@@ -21,7 +21,7 @@ org_summary: >-
   abilities and of all ages.
 areas_impacted:
   - South Bay
-project_ids: ''
+project_ids: '6102025'
 title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 uri: /organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
 challenge_url: >-

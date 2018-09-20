@@ -21,7 +21,7 @@ org_summary: >-
   recidivism, and transform the juvenile justice system
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102012'
 title: Arts For Incarcerated Youth Network
 uri: /organizations/arts-for-incarcerated-youth-network/
 challenge_url: >-

@@ -40,7 +40,7 @@ org_summary: >-
    
    More recently, I developed a research project called ‘Los Angeles Affordable Apartments,’ a multi-unit residential prototype based on traditional village housing schemes. I proposed unit prototypes for the low-income which compels pedestrian activity in DTLA. For a mobile city like Los Angeles, I believe this could be new typology that encourages such activity.
 areas_impacted: ''
-project_ids: '4102058'
+project_ids: '3102112'
 title: UNITEDLAB
 uri: /organizations/unitedlab/
 challenge_url: 'http://maker.good.is/myla2050/projects/poroushousing.html'

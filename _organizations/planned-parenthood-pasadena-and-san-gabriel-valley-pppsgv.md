@@ -23,7 +23,7 @@ areas_impacted:
   - East LA
   - San Gabriel Valley
   - N/A
-project_ids: ''
+project_ids: '6102185'
 title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 uri: /organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
 challenge_url: >-

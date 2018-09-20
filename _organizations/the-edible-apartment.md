@@ -26,7 +26,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102240'
 title: The Edible Apartment
 uri: /organizations/the-edible-apartment/
 challenge_url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'

@@ -23,7 +23,7 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
   - n/a
-project_ids: ''
+project_ids: '6102114'
 title: Continuous Good
 uri: /organizations/continuous-good/
 challenge_url: >-

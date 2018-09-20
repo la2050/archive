@@ -24,7 +24,7 @@ areas_impacted:
   - East LA
   - San Fernando Valley
   - South LA
-project_ids: ''
+project_ids: '6102257'
 title: The Sierra Club Foundation
 uri: /organizations/the-sierra-club-foundation/
 challenge_url: >-

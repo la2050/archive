@@ -21,7 +21,7 @@ org_summary: >-
 areas_impacted:
   - South LA
   - Westside
-project_ids: ''
+project_ids: '6102238'
 title: The Children's Lifesaving Foundation
 uri: /organizations/the-childrens-lifesaving-foundation/
 challenge_url: >-

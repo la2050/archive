@@ -34,7 +34,7 @@ org_summary: >-
    
    This has been done by effectively collaborating with a host of other community organizations from withing the public and private sectors. As continued recipients of Federal resources, the boundaries between Church and State are clearly understood and respected.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102135'
 title: FSBCS dba Community Builders Resource Network (CBRN)
 uri: /organizations/fsbcs-dba-community-builders-resource-network-cbrn/
 challenge_url: 'http://maker.good.is/myla2050/projects/CBRN.html'

@@ -71,7 +71,7 @@ org_summary: >-
    
    In addition to these past events, the Potluck Truck is something we have discussed for quite a while. Currently, events are being planned around the conflict between indigenous Mexican farmers and the Monsanto Corporation as big agriculture attempts to take over the Mexican production of corn.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102221'
 title: Project Food LA
 uri: /organizations/project-food-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/potlucktruck.html'

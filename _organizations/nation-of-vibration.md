@@ -26,7 +26,7 @@ areas_impacted:
   - Westside
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102209'
 title: Nation of Vibration
 uri: /organizations/nation-of-vibration/
 challenge_url: >-

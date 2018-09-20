@@ -21,7 +21,7 @@ org_summary: >-
   and environmental benefit of all Angelenos.
 areas_impacted:
   - San Fernando Valley
-project_ids: ''
+project_ids: '6102255'
 title: The River Project
 uri: /organizations/the-river-project/
 challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'

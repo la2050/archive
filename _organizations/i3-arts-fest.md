@@ -21,7 +21,7 @@ org_summary: >-
   for a thriving and dynamic city.
 areas_impacted:
   - Central LA
-project_ids: ''
+project_ids: '6102099'
 title: I3 Arts Fest
 uri: /organizations/i3-arts-fest/
 challenge_url: >-

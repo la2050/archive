@@ -23,7 +23,7 @@ areas_impacted:
   - South LA
   - South Bay
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102241'
 title: 'The Engineer Factory, a project of Community Partners'
 uri: /organizations/the-engineer-factory-a-project-of-community-partners/
 challenge_url: >-

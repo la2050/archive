@@ -27,7 +27,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102287'
 title: Youth Business Alliance
 uri: /organizations/youth-business-alliance/
 challenge_url: >-

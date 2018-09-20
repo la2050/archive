@@ -24,7 +24,7 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
   - LADWP and SCE's rate paying territories
-project_ids: ''
+project_ids: '6102026'
 title: California Institute of Technology
 uri: /organizations/california-institute-of-technology/
 challenge_url: >-

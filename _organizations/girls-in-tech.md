@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - Central LA
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102081'
 title: Girls in Tech
 uri: /organizations/girls-in-tech/
 challenge_url: >-

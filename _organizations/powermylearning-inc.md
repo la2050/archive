@@ -25,7 +25,7 @@ areas_impacted:
   - San Gabriel Valley
   - San Fernando Valley
   - South LA
-project_ids: ''
+project_ids: '6102188'
 title: 'PowerMyLearning, Inc.'
 uri: /organizations/powermylearning-inc/
 challenge_url: 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'

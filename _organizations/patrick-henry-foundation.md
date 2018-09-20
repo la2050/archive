@@ -21,7 +21,7 @@ org_summary: >-
   learning experiences.
 areas_impacted:
   - South Bay
-project_ids: ''
+project_ids: '6102176'
 title: Patrick Henry Foundation
 uri: /organizations/patrick-henry-foundation/
 challenge_url: >-

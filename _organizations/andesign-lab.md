@@ -18,7 +18,7 @@ project_video: 'https://player.vimeo.com/video/114298600?rel=0&amp;showinfo=0'
 org_summary: ANDesign Lab is a full-fledged industrial design firm.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102076'
 title: ANDesign Lab
 uri: /organizations/andesign-lab/
 challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'

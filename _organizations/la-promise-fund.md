@@ -22,7 +22,7 @@ areas_impacted:
   - South LA
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102123'
 title: LA Promise Fund
 uri: /organizations/la-promise-fund/
 challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'

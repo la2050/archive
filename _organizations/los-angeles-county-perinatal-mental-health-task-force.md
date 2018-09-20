@@ -61,7 +61,7 @@ org_summary: >-
    
    The Task Force is a project of 501(c)3 fiscal sponsor, Community Partners.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102184'
 title: Los Angeles County Perinatal Mental Health Task Force
 uri: /organizations/los-angeles-county-perinatal-mental-health-task-force/
 challenge_url: 'http://maker.good.is/myla2050/projects/SpeakUp.html'

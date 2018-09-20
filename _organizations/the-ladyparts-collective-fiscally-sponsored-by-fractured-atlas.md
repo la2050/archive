@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102260'
 title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 uri: /organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 challenge_url: >-

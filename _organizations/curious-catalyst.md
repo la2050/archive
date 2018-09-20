@@ -41,7 +41,7 @@ org_summary: >-
    
    <p>The company has garnered support from some of the top architects and urban developers in the world, as we’re building our Advisory Board. And as passionate believers in user-centered design, we are committed to genuine collaboration with all constituencies when developing approaches to these solutions.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102022'
 title: Curious Catalyst
 uri: /organizations/curious-catalyst/
 challenge_url: 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'

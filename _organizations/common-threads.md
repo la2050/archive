@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102049'
 title: Common Threads
 uri: /organizations/common-threads/
 challenge_url: >-

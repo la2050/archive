@@ -33,7 +33,7 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
   - We work with more than 50 school districts
-project_ids: ''
+project_ids: '6102244'
 title: The Help Group's STEM3 Academy
 uri: /organizations/the-help-groups-stem3-academy/
 challenge_url: >-

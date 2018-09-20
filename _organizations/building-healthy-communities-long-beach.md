@@ -21,7 +21,7 @@ org_summary: >-
   partnerships, and strategic communications.
 areas_impacted:
   - South Bay
-project_ids: ''
+project_ids: '6102024'
 title: 'Building Healthy Communities: Long Beach'
 uri: /organizations/building-healthy-communities-long-beach/
 challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'

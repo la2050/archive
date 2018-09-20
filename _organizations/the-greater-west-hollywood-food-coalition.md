@@ -45,7 +45,7 @@ org_summary: >-
   as to how we can reach deeper into the community and how we can avail
   ourselves of its strength to do more for the weakest among us.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102248'
 title: The Greater West Hollywood Food Coalition
 uri: /organizations/the-greater-west-hollywood-food-coalition/
 challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'

@@ -36,7 +36,7 @@ org_summary: >-
    
    <p>This project would synthesize relationships developed over several years between the members of the team by giving focus to an on-the ground experimental project.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102172'
 title: LA Riverside Country Club
 uri: /organizations/la-riverside-country-club/
 challenge_url: 'http://maker.good.is/myla2050/projects/LARiversideCC.html'

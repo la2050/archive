@@ -29,7 +29,7 @@ org_summary: >-
   than 60,000 audience members annually to concerts, dance performances,
   theatrical productions and exhibitions.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102227'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 uri: /organizations/redcat-the-roy-and-edna-disney-calarts-theater/
 challenge_url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'

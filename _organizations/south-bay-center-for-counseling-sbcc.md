@@ -30,7 +30,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102212'
 title: South Bay Center for Counseling (SBCC)
 uri: /organizations/south-bay-center-for-counseling-sbcc/
 challenge_url: >-

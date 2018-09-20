@@ -23,7 +23,7 @@ areas_impacted:
   - East LA
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102047'
 title: College Track
 uri: /organizations/college-track/
 challenge_url: >-

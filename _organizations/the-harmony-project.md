@@ -21,7 +21,7 @@ org_summary: >-
   communities, throughout their entire childhood (k-12).
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102243'
 title: The Harmony Project
 uri: /organizations/the-harmony-project/
 challenge_url: >-

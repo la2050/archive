@@ -62,7 +62,7 @@ org_summary: >-
    
    String Theory has performed at The Santa Barbara Museum of Art, and the Museum of Natural History.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102099'
 title: String Theory Productions
 uri: /organizations/string-theory-productions/
 challenge_url: 'http://maker.good.is/myla2050/projects/giantharpproject.html'

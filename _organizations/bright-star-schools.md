@@ -93,7 +93,7 @@ org_summary: >-
    
    Connectors also built a “College Center” on the high school campus where students and families can access college resources such as financial aid and scholarship information and applications, admissions exams and study guides, and participate in college-bound workshops led by Connectors.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102042'
 title: Bright Star Schools
 uri: /organizations/bright-star-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/connections.html'

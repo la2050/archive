@@ -21,7 +21,7 @@ org_summary: >-
   collaboratively with creativity and innovation.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102153'
 title: Melrose Elementary PTO
 uri: /organizations/melrose-elementary-pto/
 challenge_url: >-

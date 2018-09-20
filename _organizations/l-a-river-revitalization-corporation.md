@@ -72,7 +72,7 @@ org_summary: >-
    
    <p> * Raised $10,000 on Kickstarter to host the first-ever L.A. River Bike-in Movie Theater in April<p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102167'
 title: L.A. River Revitalization Corporation
 uri: /organizations/l-a-river-revitalization-corporation/
 challenge_url: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'

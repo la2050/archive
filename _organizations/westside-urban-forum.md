@@ -21,7 +21,7 @@ org_summary: >-
   other events.
 areas_impacted:
   - Westside
-project_ids: ''
+project_ids: '6102280'
 title: Westside Urban Forum
 uri: /organizations/westside-urban-forum/
 challenge_url: >-

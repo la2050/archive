@@ -23,7 +23,7 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '8102070'
+project_ids: '6102135'
 title: El Porto Shark
 uri: /organizations/el-porto-shark/
 challenge_url: >-

@@ -47,7 +47,7 @@ org_summary: >-
   trials), healthcare disparities and trends relating to brain tumors, and brain
   tumor genomics studies.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102041'
 title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 uri: >-
   /organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/

@@ -22,7 +22,7 @@ areas_impacted:
   - East LA
   - San Gabriel Valley
   - 'California State University, Los Angeles'
-project_ids: ''
+project_ids: '6102007'
 title: Anna Bing Arnold Children's Center
 uri: /organizations/anna-bing-arnold-childrens-center/
 challenge_url: >-

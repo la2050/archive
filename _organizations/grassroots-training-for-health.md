@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - San Fernando Valley
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102084'
 title: Grassroots Training for Health
 uri: /organizations/grassroots-training-for-health/
 challenge_url: >-

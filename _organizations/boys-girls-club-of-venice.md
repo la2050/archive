@@ -73,7 +73,7 @@ org_summary: >-
    
    In spite of these challenges, we continue to achieve miracles, and enhance our core services. Without the support of individuals like you who breathe life into our youth development organization, our mission and work would be filled with empty dreams and missed opportunities to make a difference in the life of a child.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102038'
 title: Boys & Girls Club of Venice
 uri: /organizations/boys-girls-club-of-venice/
 challenge_url: 'http://maker.good.is/myla2050/projects/BGCVenice.html'

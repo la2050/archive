@@ -21,7 +21,7 @@ org_summary: >-
   bevy of resources and current web technologies.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102070'
 title: Food Oasis Los Angeles
 uri: /organizations/food-oasis-los-angeles/
 challenge_url: >-

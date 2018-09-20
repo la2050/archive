@@ -48,7 +48,7 @@ org_summary: >-
    
    LA CAUSA is recognized as one of unincorporated East Los Angeles's only youth services group. The opportunities and resources in the community are relatively limited while showing significant positive outcomes
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102169'
 title: LA CAUSA YouthBuild
 uri: /organizations/la-causa-youthbuild/
 challenge_url: 'http://maker.good.is/myla2050/projects/saladbowl.html'

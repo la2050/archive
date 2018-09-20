@@ -30,7 +30,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102220'
 title: Sundance Institute
 uri: /organizations/sundance-institute/
 challenge_url: >-

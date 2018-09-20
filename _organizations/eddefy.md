@@ -84,7 +84,7 @@ org_summary: >-
    
    Our network collectively reaches over 100,000 experts in Los Angeles.
 areas_impacted: ''
-project_ids: '5102028'
+project_ids: '3102035'
 title: EDDEFY
 uri: /organizations/eddefy/
 challenge_url: 'http://maker.good.is/myla2050/projects/MASTERY.html'

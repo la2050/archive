@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102202'
 title: SAFE (Streets Are For Everyone)
 uri: /organizations/safe-streets-are-for-everyone/
 challenge_url: >-

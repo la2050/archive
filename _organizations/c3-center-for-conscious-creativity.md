@@ -40,7 +40,7 @@ org_summary: >-
   APPLE, was successfully premiered in September 2012 in the Vortex Dome to a
   very appreciative audience.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102045'
 title: 'c3: Center for Conscious Creativity'
 uri: /organizations/c3-center-for-conscious-creativity/
 challenge_url: 'http://maker.good.is/myla2050/projects/f2futurefest.html'

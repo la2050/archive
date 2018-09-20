@@ -28,7 +28,7 @@ areas_impacted:
   - Westside
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102236'
 title: The Billboard Creative (TBC)
 uri: /organizations/the-billboard-creative-tbc/
 challenge_url: >-

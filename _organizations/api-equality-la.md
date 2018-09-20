@@ -28,7 +28,7 @@ org_summary: >-
   our allies, we provide an important foundation for further organizing in LGBT
   communities of color.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102023'
 title: API Equality-LA
 uri: /organizations/api-equality-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'

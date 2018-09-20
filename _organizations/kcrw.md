@@ -21,7 +21,7 @@ org_summary: >-
   informed public affairs.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102113'
 title: KCRW
 uri: /organizations/kcrw/
 challenge_url: >-

@@ -21,7 +21,7 @@ org_summary: >-
   harness one’s gifts and passions.
 areas_impacted:
   - District 9 of Long Beach - Los Angeles County
-project_ids: ''
+project_ids: '6102132'
 title: Light and Life Christian Fellowship Community Center
 uri: /organizations/light-and-life-christian-fellowship-community-center/
 challenge_url: >-

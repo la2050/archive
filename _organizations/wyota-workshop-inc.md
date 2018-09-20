@@ -23,7 +23,7 @@ areas_impacted:
   - East LA
   - LAUSD
   - NELA
-project_ids: ''
+project_ids: '6102279'
 title: 'Wyota Workshop, Inc.'
 uri: /organizations/wyota-workshop-inc/
 challenge_url: >-

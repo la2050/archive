@@ -28,7 +28,7 @@ areas_impacted:
   - Westside
   - South Bay
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102110'
 title: Joyful Heart Foundation
 uri: /organizations/joyful-heart-foundation/
 challenge_url: >-

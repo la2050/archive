@@ -22,7 +22,7 @@ areas_impacted:
   - East LA
   - South LA
   - Boyle Heights
-project_ids: ''
+project_ids: '6102248'
 title: The Garage Board Shop
 uri: /organizations/the-garage-board-shop/
 challenge_url: 'https://challenge.la2050.org/entry/sk8-4-education'

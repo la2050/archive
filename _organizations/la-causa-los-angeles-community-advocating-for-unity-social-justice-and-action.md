@@ -35,7 +35,7 @@ org_summary: >-
    
    Recognized as one of unincorporated East Los Angeles's only youth services group. The opportunities and resources in the community are relatively limited while showing significant positive outcomes.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102168'
 title: >-
   LA CAUSA (Los Angeles Community Advocating for Unity Social Justice and
   Action)

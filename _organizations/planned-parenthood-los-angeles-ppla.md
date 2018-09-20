@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102184'
 title: Planned Parenthood Los Angeles (PPLA)
 uri: /organizations/planned-parenthood-los-angeles-ppla/
 challenge_url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'

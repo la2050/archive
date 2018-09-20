@@ -21,7 +21,7 @@ org_summary: >-
   communities affected by affected by mental illness.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102160'
 title: NAMI San Fernando Valley
 uri: /organizations/nami-san-fernando-valley/
 challenge_url: >-

@@ -39,7 +39,7 @@ org_summary: >-
    
    LAXART welcomes the community to interact with contemporary art as part of the everyday through L.A.P.D. initiatives. Our programming is central to the history of public art in L.A. Highlights include: Ruben Ocha’s 2006 Extracted Freeway Wall Intervention, a photographic image of a Los Angeles landscape stretched on and interrupting a freeway wall; Jedediah Cesar’s Gleaner’s Stone, a resin sculpture temporarily sited at the NE corner of Washington Blvd. and Marcasel Avenue in Culver City as part of the 2008 California Biennial; Doug Aitken’s Migration, the acclaimed artist’s first monumental public project in L.A. seen from Santa Monica Boulevard at Almont Drive in 2009; Joel Kyack’s Superclogger, a mobile theatre mounted in the back of a pick-up truck, which traveled all around Los Angeles to the surprise of other motorists in summer 2010; and Piero Golia’s Luminous Sphere, a blue globe mounted on the top of the Standard Hotel in West Hollywood in 2010-11.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102177'
 title: LAXART
 uri: /organizations/laxart/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAXART.html'

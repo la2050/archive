@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - San Gabriel Valley
   - County of Los Angeles
-project_ids: '8102063'
+project_ids: '6102124'
 title: Drizzle Connect
 uri: /organizations/drizzle-connect/
 challenge_url: >-

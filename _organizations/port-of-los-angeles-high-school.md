@@ -23,7 +23,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102187'
 title: Port of Los Angeles High School
 uri: /organizations/port-of-los-angeles-high-school/
 challenge_url: >-

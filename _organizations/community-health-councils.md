@@ -21,7 +21,7 @@ org_summary: >-
   access, civic engagement, and transformation.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102052'
 title: Community Health Councils
 uri: /organizations/community-health-councils/
 challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'

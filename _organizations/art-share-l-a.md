@@ -44,7 +44,7 @@ org_summary: >-
    
    Currently, Art Share L.A. is pursuing the creation of on going immersive and interactive art experiences through digital augment reality platforms like Aurasma in partnership with ceramic street artist, Zenka. We will create interactive, augmented reality ceramic art installations in the Arts District.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102026'
 title: Art Share L.A.
 uri: /organizations/art-share-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/artsharela.html'

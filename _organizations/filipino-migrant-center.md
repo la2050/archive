@@ -37,7 +37,7 @@ org_summary: >-
    
    </li></ol>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102126'
 title: Filipino Migrant Center
 uri: /organizations/filipino-migrant-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/voices.html'

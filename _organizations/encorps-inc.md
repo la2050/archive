@@ -21,7 +21,7 @@ org_summary: >-
   outstanding STEM professionals into public education.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102064'
 title: 'EnCorps, Inc.'
 uri: /organizations/encorps-inc/
 challenge_url: >-

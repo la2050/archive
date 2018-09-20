@@ -48,7 +48,7 @@ org_summary: >-
   the subject of collegiate studies at Vassar College, Syracuse University,
   Hampshire College, and other institutions.
 areas_impacted: ''
-project_ids: '4102051'
+project_ids: '3102098'
 title: Stephen Glassman Studio
 uri: /organizations/stephen-glassman-studio/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'

@@ -20,7 +20,7 @@ org_summary: >-
   in South Los Angeles, owned by the community.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102231'
 title: SoLA Food Co-op
 uri: /organizations/sola-food-co-op/
 challenge_url: >-

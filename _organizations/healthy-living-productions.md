@@ -29,7 +29,7 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102089'
 title: Healthy Living Productions
 uri: /organizations/healthy-living-productions/
 challenge_url: >-

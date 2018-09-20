@@ -31,7 +31,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102286'
 title: 'WOW Imagined, Inc.'
 uri: /organizations/wow-imagined-inc/
 challenge_url: >-

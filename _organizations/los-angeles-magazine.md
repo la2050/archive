@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '5102258'
+project_ids: '6102200'
 title: Los Angeles Magazine
 uri: /organizations/los-angeles-magazine/
 challenge_url: >-

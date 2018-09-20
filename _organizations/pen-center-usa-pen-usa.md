@@ -21,7 +21,7 @@ org_summary: >-
   literary community in the western United States.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102180'
 title: 'PEN Center USA, ''PEN USA'''
 uri: /organizations/pen-center-usa-pen-usa/
 challenge_url: >-

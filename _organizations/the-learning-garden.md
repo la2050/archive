@@ -36,7 +36,7 @@ org_summary: >-
    
    Our community events, including the Spring Equinox Celebration, the July 4th Ice Cream Social (with ice cream made from the garden), Pesto Day (our garlic and basil whipped into a heavenly meal) and our Winter Solstice all bring together our community in celebration. We also sponsor, with Transition Mar Vista/Venice, a 100 Mile Meal, stressing the importance of eating locally. Most important, our weekly potlucks create a regular and safe place for people of all kinds to join together to share their garden foods.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102252'
 title: The Learning Garden
 uri: /organizations/the-learning-garden/
 challenge_url: 'http://maker.good.is/myla2050/projects/Gardens.html'

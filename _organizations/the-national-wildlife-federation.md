@@ -21,7 +21,7 @@ org_summary: >-
   conservationists.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102250'
 title: The National Wildlife Federation
 uri: /organizations/the-national-wildlife-federation/
 challenge_url: >-

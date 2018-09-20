@@ -24,7 +24,7 @@ areas_impacted:
   - East LA
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102253'
 title: The Pedagogical Institute of Los Angeles
 uri: /organizations/the-pedagogical-institute-of-los-angeles/
 challenge_url: >-

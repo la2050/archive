@@ -21,7 +21,7 @@ org_summary: >-
   comprehensive care in one place on one day.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102150'
 title: Lynne Cohen Foundation
 uri: /organizations/lynne-cohen-foundation/
 challenge_url: >-

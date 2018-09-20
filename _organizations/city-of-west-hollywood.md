@@ -22,7 +22,7 @@ areas_impacted:
   - Westside
   - County of Los Angeles
   - City of West Hollywood
-project_ids: ''
+project_ids: '6102039'
 title: City of West Hollywood
 uri: /organizations/city-of-west-hollywood/
 challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'

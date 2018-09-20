@@ -29,7 +29,7 @@ org_summary: |-
    
    I can tell you that as an individual, I have line produced two feature films, one of which was acquired and released by Lionsgate (you can view my resume on IMDB at http://www.imdb.com/name/nm1336027/). I have become a member of the Producer's Guild of America, and I partnered with others on two separate internet media companies, and while they fell short of expectations, I have learned from their mistakes.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102103'
 title: Dear Los Angeles
 uri: /organizations/dear-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'

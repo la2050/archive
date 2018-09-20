@@ -19,7 +19,7 @@ org_summary: General contractors for exterior property improvements
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '4102075'
+project_ids: '6102072'
 title: Alliance Building & Construction Services
 uri: /organizations/alliance-building-construction-services/
 challenge_url: >-

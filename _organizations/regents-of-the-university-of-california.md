@@ -20,7 +20,7 @@ org_summary: >-
   arts to improve public health in Los Angeles.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102195'
 title: Regents of the University of California
 uri: /organizations/regents-of-the-university-of-california/
 challenge_url: >-

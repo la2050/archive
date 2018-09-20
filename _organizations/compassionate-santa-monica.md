@@ -20,7 +20,7 @@ areas_impacted:
   - Westside
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102053'
 title: Compassionate Santa Monica
 uri: /organizations/compassionate-santa-monica/
 challenge_url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'

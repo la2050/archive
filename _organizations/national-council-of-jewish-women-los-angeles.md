@@ -29,7 +29,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102162'
 title: National Council of Jewish Women | Los Angeles
 uri: /organizations/national-council-of-jewish-women-los-angeles/
 challenge_url: >-

@@ -21,7 +21,7 @@ org_summary: >-
   to strong schools & support systems.
 areas_impacted:
   - East LA
-project_ids: ''
+project_ids: '6102191'
 title: Proyecto Pastoral
 uri: /organizations/proyecto-pastoral/
 challenge_url: >-

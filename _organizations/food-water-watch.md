@@ -18,7 +18,7 @@ project_video: ''
 org_summary: Food & Water Watch champions healthy food and clean water for all.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102069'
 title: Food & Water Watch
 uri: /organizations/food-water-watch/
 challenge_url: >-

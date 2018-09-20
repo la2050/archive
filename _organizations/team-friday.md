@@ -30,7 +30,7 @@ org_summary: >-
   idea, and many of them took the opportunity to walk, bike and metro to art
   nearby!
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102104'
 title: Team Friday
 uri: /organizations/team-friday/
 challenge_url: 'http://maker.good.is/myla2050/projects/artmageddon.html'

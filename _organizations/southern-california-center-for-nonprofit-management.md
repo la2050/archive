@@ -29,7 +29,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102213'
 title: Southern California Center for Nonprofit Management
 uri: /organizations/southern-california-center-for-nonprofit-management/
 challenge_url: >-

@@ -26,7 +26,7 @@ areas_impacted:
   - South LA
   - Westside
   - South Bay
-project_ids: '8102086'
+project_ids: '6102159'
 title: Future Fields
 uri: /organizations/future-fields/
 challenge_url: >-

@@ -29,7 +29,7 @@ areas_impacted:
   - Gateway Cities
   - Antelope Valley
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102066'
 title: Evolve LA (project of LA-Más)
 uri: /organizations/evolve-la-project-of-la-más/
 challenge_url: >-

@@ -21,7 +21,7 @@ org_summary: >-
 areas_impacted:
   - East LA
   - LAUSD
-project_ids: ''
+project_ids: '6102073'
 title: Friends of Glenfeliz
 uri: /organizations/friends-of-glenfeliz/
 challenge_url: 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'

@@ -19,7 +19,7 @@ org_summary: Coligo
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '4102101'
+project_ids: '6102105'
 title: 'Coligo, Inc.'
 uri: /organizations/coligo-inc/
 challenge_url: >-

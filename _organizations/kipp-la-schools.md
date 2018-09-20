@@ -32,7 +32,7 @@ org_summary: >-
   KIPP LA alumni are attending high-performing, college-prep high schools, and
   nearly 85 percent are currently enrolled in college.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102166'
 title: KIPP LA Schools
 uri: /organizations/kipp-la-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'

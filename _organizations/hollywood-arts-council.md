@@ -20,7 +20,7 @@ org_summary: >-
   in Hollywood’s public elementary schools.
 areas_impacted:
   - Central LA
-project_ids: ''
+project_ids: '6102093'
 title: Hollywood Arts Council
 uri: /organizations/hollywood-arts-council/
 challenge_url: >-

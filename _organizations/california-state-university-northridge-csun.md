@@ -23,7 +23,7 @@ areas_impacted:
   - San Fernando Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102028'
 title: 'California State University, Northridge (CSUN)'
 uri: /organizations/california-state-university-northridge-csun/
 challenge_url: >-

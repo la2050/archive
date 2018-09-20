@@ -24,7 +24,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - Inglewood
-project_ids: ''
+project_ids: '6102058'
 title: D.A.D Project
 uri: /organizations/d-a-d-project/
 challenge_url: >-

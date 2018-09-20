@@ -22,7 +22,7 @@ areas_impacted:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '5102119'
+project_ids: '6102085'
 title: boxcar+muse
 uri: /organizations/boxcar-muse/
 challenge_url: >-

@@ -20,7 +20,7 @@ org_summary: >-
   passengers daily on bus, light rail, heavy rail, bus rapid transit.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102121'
 title: LA Metro
 uri: /organizations/la-metro/
 challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'

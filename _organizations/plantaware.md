@@ -24,7 +24,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - n/a
-project_ids: '4102198'
+project_ids: '6102217'
 title: Plantaware
 uri: /organizations/plantaware/
 challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'

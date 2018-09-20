@@ -28,7 +28,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102227'
 title: T4T.org
 uri: /organizations/t4t-org/
 challenge_url: >-

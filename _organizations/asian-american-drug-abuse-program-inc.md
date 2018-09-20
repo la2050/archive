@@ -24,7 +24,7 @@ org_summary: >-
   assisting youth in becoming more responsible and completing high school,
   saving lives, and ensuring public safety.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102030'
 title: 'Asian American Drug Abuse Program, Inc'
 uri: /organizations/asian-american-drug-abuse-program-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'

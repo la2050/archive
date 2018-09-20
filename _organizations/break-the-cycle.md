@@ -20,7 +20,7 @@ org_summary: >-
   relationships and create a culture without abuse.
 areas_impacted:
   - East LA
-project_ids: ''
+project_ids: '6102021'
 title: Break the Cycle
 uri: /organizations/break-the-cycle/
 challenge_url: >-

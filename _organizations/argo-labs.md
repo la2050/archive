@@ -24,7 +24,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102009'
 title: ARGO Labs
 uri: /organizations/argo-labs/
 challenge_url: >-

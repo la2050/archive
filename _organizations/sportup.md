@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: '5102292'
+project_ids: '6102233'
 title: SportUp
 uri: /organizations/sportup/
 challenge_url: >-

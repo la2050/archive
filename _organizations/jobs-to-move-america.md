@@ -27,7 +27,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102109'
 title: Jobs to Move America
 uri: /organizations/jobs-to-move-america/
 challenge_url: >-

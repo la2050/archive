@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - Los Angeles's reputation outside LA.
-project_ids: ''
+project_ids: '6102144'
 title: Los Angeles Review of Books
 uri: /organizations/los-angeles-review-of-books/
 challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'

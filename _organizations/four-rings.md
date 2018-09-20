@@ -23,7 +23,7 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102156'
 title: Four Rings
 uri: /organizations/four-rings/
 challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'

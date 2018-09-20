@@ -69,7 +69,7 @@ org_summary: >-
    
    <p>For additional background information, please visit our website at jemmottrollinsgroup.net.</p>
 areas_impacted: ''
-project_ids: '5102056'
+project_ids: '3102063'
 title: Jemmott Rollins Group
 uri: /organizations/jemmott-rollins-group/
 challenge_url: 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'

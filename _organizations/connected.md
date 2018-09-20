@@ -21,7 +21,7 @@ org_summary: >-
   background, can succeed in college, career, and life.
 areas_impacted:
   - LAUSD
-project_ids: ''
+project_ids: '6102054'
 title: ConnectEd
 uri: /organizations/connected/
 challenge_url: >-

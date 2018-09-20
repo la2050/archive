@@ -34,7 +34,7 @@ org_summary: >-
    
    With the continuous educational cutbacks on all levels (local, state and federal), schools within a 5-10 mile radius of CARECEN will experience continuous setbacks, for example — the cuts to arts and culture, parent centers and academic enrichment programs. Given this reality, CARECEN feels it is important to open its doors to the community and provide children and youth the best educational experience during their lengthy break from school.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102051'
 title: CARECEN (Central American Resource Center)
 uri: /organizations/carecen-central-american-resource-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegeheadstart.html'

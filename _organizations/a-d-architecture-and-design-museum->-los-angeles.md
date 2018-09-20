@@ -41,7 +41,7 @@ org_summary: >-
    
    <p> A+D hosts exhibit openings and events that are well-attended and garner attention and good will. These events are an integral part of the Museum’s purpose: comprehensive programming that incorporates academic and professional development with public outreach that is social and educational: Exhibitions of progressive architecture and design; topical lectures and seminars; student and professional design charrettes; education programs; architecture, design, urban tours; film screenings; book launches; internship opportunities; collaborations with community foundations focusing on at-risk youth; collaborations with cultural and educational institutions, locally and worldwide. <p/>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102004'
 title: A+D Architecture and Design Museum > Los Angeles
 uri: /organizations/a-d-architecture-and-design-museum->-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'

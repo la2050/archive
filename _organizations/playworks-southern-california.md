@@ -34,7 +34,7 @@ org_summary: >-
    
    Playworks featured at the Clinton Global Initiative in 2009. The mission of the Clinton Global Initiative (CGI) is to turn ideas into action. Established in 2005 by President Bill Clinton, the Clinton Global Initiative (CGI) convenes global leaders to create and implement innovative solutions to the world's most pressing challenges.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102220'
 title: Playworks Southern California
 uri: /organizations/playworks-southern-california/
 challenge_url: 'http://maker.good.is/myla2050/projects/Recess.html'

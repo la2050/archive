@@ -40,7 +40,7 @@ org_summary: >-
    
    Project Food LA (PFLA) was formed to bring diverse, creative voices to issues of food and justice in Los Angeles. Since its founding, PFLA has staged a series of provocative events in diverse locations in the city from panel discussions to tree plantings. PFLA has been engaged with Mudtown Farms, holding events, tours, and advocating for the realization of this important project.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102074'
 title: CIVIC PROJECTS
 uri: /organizations/civic-projects/
 challenge_url: 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'

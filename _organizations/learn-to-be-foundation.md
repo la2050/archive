@@ -50,7 +50,7 @@ org_summary: |-
    
    </ul>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102178'
 title: Learn To Be Foundation
 uri: /organizations/learn-to-be-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/ltb.html'

@@ -24,7 +24,7 @@ areas_impacted:
   - San Fernando Valley
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102271'
 title: United Nations Association-USA Pasadena Chapter Inc.
 uri: /organizations/united-nations-association-usa-pasadena-chapter-inc/
 challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'

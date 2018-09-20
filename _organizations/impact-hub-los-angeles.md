@@ -20,7 +20,7 @@ org_summary: >-
   conscious entrepreneurs, civic leaders, professionals and creatives.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102179'
 title: Impact Hub Los Angeles
 uri: /organizations/impact-hub-los-angeles/
 challenge_url: >-

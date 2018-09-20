@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102013'
 title: Avalon Carver Community Center
 uri: /organizations/avalon-carver-community-center/
 challenge_url: >-

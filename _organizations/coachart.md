@@ -30,7 +30,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102043'
 title: CoachArt
 uri: /organizations/coachart/
 challenge_url: >-

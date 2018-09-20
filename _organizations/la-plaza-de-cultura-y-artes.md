@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102122'
 title: LA Plaza de Cultura y Artes
 uri: /organizations/la-plaza-de-cultura-y-artes/
 challenge_url: >-

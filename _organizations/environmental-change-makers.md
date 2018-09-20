@@ -32,7 +32,7 @@ org_summary: >-
    
    In 2009-2011, ECM worked with LAUSD and the Mayor’s office to found and build the Emerson Avenue Community Garden.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102125'
 title: Environmental Change-Makers
 uri: /organizations/environmental-change-makers/
 challenge_url: 'http://maker.good.is/myla2050/projects/ChangeMakingGardens.html'

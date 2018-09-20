@@ -34,7 +34,7 @@ org_summary: >-
    
    To date we have 40 members in Los Angeles. You can see a full list here. http://artsearthpartnership.org/members/
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102029'
 title: 'Arts:Earth Partnership'
 uri: /organizations/arts-earth-partnership/
 challenge_url: 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'

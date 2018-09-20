@@ -23,7 +23,7 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102004'
 title: Able Arts Work
 uri: /organizations/able-arts-work/
 challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'

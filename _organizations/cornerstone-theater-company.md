@@ -24,7 +24,7 @@ areas_impacted:
   - South LA
   - Westside
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102055'
 title: Cornerstone Theater Company
 uri: /organizations/cornerstone-theater-company/
 challenge_url: >-

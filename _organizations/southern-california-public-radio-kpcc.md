@@ -21,7 +21,7 @@ org_summary: >-
   podcasts, social media, and live events.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102214'
 title: Southern California Public Radio (KPCC)
 uri: /organizations/southern-california-public-radio-kpcc/
 challenge_url: >-

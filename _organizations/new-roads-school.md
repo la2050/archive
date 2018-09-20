@@ -23,7 +23,7 @@ areas_impacted:
   - Westside
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102167'
 title: New Roads School
 uri: /organizations/new-roads-school/
 challenge_url: >-

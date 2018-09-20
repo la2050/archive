@@ -21,7 +21,7 @@ org_summary: >-
   and retain employment.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102036'
 title: Chrysalis
 uri: /organizations/chrysalis/
 challenge_url: >-

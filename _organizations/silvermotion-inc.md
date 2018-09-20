@@ -20,7 +20,7 @@ org_summary: >-
   their passion for knowledge.
 areas_impacted:
   - San Fernando Valley
-project_ids: ''
+project_ids: '6102228'
 title: 'SilverMotion, Inc.'
 uri: /organizations/silvermotion-inc/
 challenge_url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'

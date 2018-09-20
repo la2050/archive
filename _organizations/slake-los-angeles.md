@@ -24,7 +24,7 @@ org_summary: >-
   should expect from a Los Angeles journal. Meanwhile, we've provided much
   needed gravity around which this often diffused community.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102233'
 title: 'Slake: Los Angeles'
 uri: /organizations/slake-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'

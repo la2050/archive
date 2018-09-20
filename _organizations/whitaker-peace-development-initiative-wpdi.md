@@ -21,7 +21,7 @@ org_summary: >-
 areas_impacted:
   - Gateway Cities
   - LAUSD
-project_ids: ''
+project_ids: '6102282'
 title: Whitaker Peace & Development Initiative (WPDI)
 uri: /organizations/whitaker-peace-development-initiative-wpdi/
 challenge_url: >-

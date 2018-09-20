@@ -21,7 +21,7 @@ org_summary: >-
   neighborhoods.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102256'
 title: The Ron Finley Project
 uri: /organizations/the-ron-finley-project/
 challenge_url: >-

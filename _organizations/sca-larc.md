@@ -30,7 +30,7 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
   - Los Angeles Rivers and Washes
-project_ids: '5102285'
+project_ids: '6102223'
 title: SCA-LARC
 uri: /organizations/sca-larc/
 challenge_url: 'https://challenge.la2050.org/entry/jutout-parklets'

@@ -139,6 +139,12 @@ function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
   }
 }
 
+const dataToRemove = [
+  "empty_column_1",
+  "empty_column_2",
+  "empty_column_3"
+]
+
 function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswers) {
   // console.log('createMarkdownFile for ' + data.title)
   let writePath = '../_organizations'
@@ -154,6 +160,10 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
   // TODO: Get the ntee_type from the page located at charity_navigator_url
   delete data.link_to_ntee_code
+
+  dataToRemove.forEach(name => {
+    delete data[name]
+  })
 
   if (data.tags_indicators === "0") data.tags_indicators = ""
 

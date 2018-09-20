@@ -24,7 +24,7 @@ areas_impacted:
   - South LA
   - Gateway Cities
   - Antelope Valley
-project_ids: ''
+project_ids: '6102082'
 title: Girls Inc. of Greater Los Angeles
 uri: /organizations/girls-inc-of-greater-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'

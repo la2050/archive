@@ -36,7 +36,7 @@ org_summary: >-
   to both artists and our neighbors if the vitality and sense of community that
   the Hammer enjoys could spill out into our commercial neighborhood as well.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102144'
 title: Hammer Museum
 uri: /organizations/hammer-museum/
 challenge_url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'

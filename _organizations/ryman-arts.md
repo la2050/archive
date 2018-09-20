@@ -31,7 +31,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102201'
 title: Ryman Arts
 uri: /organizations/ryman-arts/
 challenge_url: >-

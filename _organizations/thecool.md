@@ -21,7 +21,7 @@ org_summary: >-
   pastime of congregating over food and drink.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102262'
 title: thecool
 uri: /organizations/thecool/
 challenge_url: >-

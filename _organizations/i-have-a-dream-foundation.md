@@ -25,7 +25,7 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
   - Boyle Heights and Inglewood
-project_ids: ''
+project_ids: '6102098'
 title: I Have a Dream Foundation
 uri: /organizations/i-have-a-dream-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities'

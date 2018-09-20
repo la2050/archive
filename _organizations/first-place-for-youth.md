@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - South LA
   - South Bay
-project_ids: ''
+project_ids: '6102068'
 title: First Place for Youth
 uri: /organizations/first-place-for-youth/
 challenge_url: >-

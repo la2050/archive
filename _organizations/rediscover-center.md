@@ -32,7 +32,7 @@ org_summary: >-
    
    We are also very proud of the inspiration our center provides to children. As 9 year old Beatriz said during a field trip, “I could live at this place!”
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102228'
 title: reDiscover Center
 uri: /organizations/rediscover-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/Innovate.html'

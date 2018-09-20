@@ -21,7 +21,7 @@ org_summary: >-
   annually.
 areas_impacted:
   - San Fernando Valley
-project_ids: ''
+project_ids: '6102166'
 title: 'New Directions for Youth, Inc'
 uri: /organizations/new-directions-for-youth-inc/
 challenge_url: >-

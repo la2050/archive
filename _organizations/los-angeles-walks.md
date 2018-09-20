@@ -78,7 +78,7 @@ org_summary: >-
    
    <p>- Conducted pedestrian-related events during CicLAvia including a WalkLAvia in October 2012 on three miles of Figueroa Street</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102190'
 title: Los Angeles Walks
 uri: /organizations/los-angeles-walks/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAwalks.html'

@@ -24,7 +24,7 @@ org_summary: >-
 areas_impacted:
   - Central LA
   - East LA
-project_ids: ''
+project_ids: '6102045'
 title: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.

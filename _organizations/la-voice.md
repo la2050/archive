@@ -21,7 +21,7 @@ org_summary: >-
   people, especially those in greatest need.
 areas_impacted:
   - Compton
-project_ids: ''
+project_ids: '6102125'
 title: LA Voice
 uri: /organizations/la-voice/
 challenge_url: >-

@@ -21,7 +21,7 @@ org_summary: >-
   thinking and teaches vocational skills.
 areas_impacted:
   - Antelope Valley
-project_ids: ''
+project_ids: '6102148'
 title: Lost Angels Children's Project
 uri: /organizations/lost-angels-childrens-project/
 challenge_url: >-

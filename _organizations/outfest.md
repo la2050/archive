@@ -28,7 +28,7 @@ org_summary: >-
   three filmmaking programs using mentors, and we have over 400 volunteers who
   participate in our programs.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102211'
 title: Outfest
 uri: /organizations/outfest/
 challenge_url: 'http://maker.good.is/myla2050/projects/neighbor.html'

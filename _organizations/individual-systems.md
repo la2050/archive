@@ -48,7 +48,7 @@ org_summary: >-
    
    <P>The recent course Karen had taken, coupled with the perfect timing of having Lola as student along with the professional development she shared with other teachers made Karen realize just how many kids would in the future, benefit tremendously by a "work system" like she had informally developed for Lola, and an idea took root: an App version.<P>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102062'
 title: Individual Systems
 uri: /organizations/individual-systems/
 challenge_url: 'http://maker.good.is/myla2050/projects/KCARUSO.html'

@@ -23,7 +23,7 @@ areas_impacted:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102272'
 title: Verdical Group
 uri: /organizations/verdical-group/
 challenge_url: >-

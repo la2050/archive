@@ -27,7 +27,7 @@ areas_impacted:
   - Gateway Cities
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102199'
 title: River LA (formerly LA River Revitalization Corporation)
 uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
 challenge_url: >-

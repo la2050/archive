@@ -27,7 +27,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102164'
 title: GRID Logistics
 uri: /organizations/grid-logistics/
 challenge_url: >-

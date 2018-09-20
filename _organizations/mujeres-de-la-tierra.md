@@ -24,7 +24,7 @@ areas_impacted:
   - San Fernando Valley
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102157'
 title: Mujeres de la Tierra
 uri: /organizations/mujeres-de-la-tierra/
 challenge_url: >-

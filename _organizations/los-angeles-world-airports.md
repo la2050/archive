@@ -26,7 +26,7 @@ areas_impacted:
   - South Bay
   - LAUSD
   - County wide; but targetting local students
-project_ids: ''
+project_ids: '6102147'
 title: Los Angeles World Airports
 uri: /organizations/los-angeles-world-airports/
 challenge_url: >-

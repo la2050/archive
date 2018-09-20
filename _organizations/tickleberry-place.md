@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - Central LA
   - South LA
-project_ids: '5102321'
+project_ids: '6102265'
 title: Tickleberry Place
 uri: /organizations/tickleberry-place/
 challenge_url: >-

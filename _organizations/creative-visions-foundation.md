@@ -51,7 +51,7 @@ org_summary: >-
    
    <p>Living on One: A documentary about 4 LA-based college students who spent their summer living on $1 a day in rural Guatemala to better understand extreme poverty, Living on One has screened in 25 cities to 52,000 people & launched a Student Microfinance Movement with participation from 55 universities. A resource for students to take microfinance classes, find internships, and attend conferences, the Student Microfinance Movement builds the skill set necessary to become successful social entrepreneurs.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102097'
 title: Creative Visions Foundation
 uri: /organizations/creative-visions-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/creativeactivists.html'

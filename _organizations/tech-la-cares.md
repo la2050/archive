@@ -29,7 +29,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102242'
 title: Tech LA Cares
 uri: /organizations/tech-la-cares/
 challenge_url: >-

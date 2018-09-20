@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - Santa Clarita Valley and surrounding areas
-project_ids: ''
+project_ids: '6102222'
 title: Santa Clarita Valley Adventure Play
 uri: /organizations/santa-clarita-valley-adventure-play/
 challenge_url: >-

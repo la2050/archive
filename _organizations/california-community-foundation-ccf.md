@@ -52,7 +52,7 @@ org_summary: >-
    
    In conjunction with LAGRANT COMMUNICATIONS, CCF has produced print and radio media placements and materials to expand BLOOM’s messaging. Examples of such placements include: KJLH radio (radio spots by BLOOM spokesperson Larenz Tate), The Huffington Post, California Crusader, and coverage on KABC7 Eyewitness News at 6 pm. BLOOM is also one of five philanthropic initiatives featured in Where Do We Go from Here?: Philanthropic Support for Black Men and Boys, a report published in October 2012 by The Foundation Center. The report examines U.S. foundation giving explicitly in support of Black males by issue area, type of support, and geographic area served. The analyses explore patterns of giving by larger U.S. foundations over the past eight years, with a focus on giving from 2008 to 2010.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102049'
 title: California Community Foundation (CCF)
 uri: /organizations/california-community-foundation-ccf/
 challenge_url: 'http://maker.good.is/myla2050/projects/BLOOM.html'

@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102207'
 title: SIJCC
 uri: /organizations/sijcc/
 challenge_url: >-

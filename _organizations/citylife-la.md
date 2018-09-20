@@ -54,7 +54,7 @@ org_summary: >-
    
    <p>CityLife received a Rose Award from the Downtown Breakfast Club. And student projects have been featured in articles in the Los Angeles Downtown News and the Los Angeles Times.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102070'
 title: CityLife-LA
 uri: /organizations/citylife-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/CityLife-LA.html'

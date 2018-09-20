@@ -21,7 +21,7 @@ org_summary: >-
   education, healthcare, and a resource-rich community.
 areas_impacted:
   - San Fernando Valley
-project_ids: ''
+project_ids: '6102075'
 title: Friends of the Family
 uri: /organizations/friends-of-the-family/
 challenge_url: >-

@@ -57,7 +57,7 @@ org_summary: >-
   Tax & made Prop 30 more progressive & ultimately more feasible to pass,
   providing important revenue for vital services and education.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102094'
 title: Courage Campaign
 uri: /organizations/courage-campaign/
 challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'

@@ -22,7 +22,7 @@ org_summary: >-
   interactions and intersections of natural and human systems. The school has a
   host of 606 projects on their website for more information.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102047'
 title: 'Cal Poly Pomona Foundation, Inc.'
 uri: /organizations/cal-poly-pomona-foundation-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'

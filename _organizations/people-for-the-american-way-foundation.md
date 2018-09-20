@@ -21,7 +21,7 @@ org_summary: >-
   opportunity and equal justice for all.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102182'
 title: People For the American Way Foundation
 uri: /organizations/people-for-the-american-way-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/front-line-leaders-academy-–-los-angeles'

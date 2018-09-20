@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102116'
 title: Dear Mama
 uri: /organizations/dear-mama/
 challenge_url: >-

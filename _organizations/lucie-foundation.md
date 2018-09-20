@@ -21,7 +21,7 @@ org_summary: >-
   a variety of year-round programming.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102149'
 title: Lucie Foundation
 uri: /organizations/lucie-foundation/
 challenge_url: >-

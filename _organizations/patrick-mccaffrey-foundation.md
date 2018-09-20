@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - Locations of LATCH & Makes a Village are TBD
-project_ids: ''
+project_ids: '6102177'
 title: Patrick McCaffrey Foundation
 uri: /organizations/patrick-mccaffrey-foundation/
 challenge_url: >-

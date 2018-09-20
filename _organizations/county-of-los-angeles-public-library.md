@@ -22,7 +22,7 @@ areas_impacted:
   - Central LA
   - East LA
   - San Gabriel Valley
-project_ids: ''
+project_ids: '6102056'
 title: County of Los Angeles Public Library
 uri: /organizations/county-of-los-angeles-public-library/
 challenge_url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'

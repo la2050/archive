@@ -21,7 +21,7 @@ org_summary: >-
   expression, and commercial production.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102067'
 title: FILMLIT MISSION
 uri: /organizations/filmlit-mission/
 challenge_url: >-

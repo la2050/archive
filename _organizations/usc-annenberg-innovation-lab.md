@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - East LA
   - Westside
-project_ids: ''
+project_ids: '6102277'
 title: USC Annenberg Innovation Lab
 uri: /organizations/usc-annenberg-innovation-lab/
 challenge_url: >-

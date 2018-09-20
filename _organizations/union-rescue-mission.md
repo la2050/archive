@@ -25,7 +25,7 @@ areas_impacted:
   - San Fernando Valley
   - South LA
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102268'
 title: Union Rescue Mission
 uri: /organizations/union-rescue-mission/
 challenge_url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'

@@ -20,7 +20,7 @@ org_summary: >-
   education of health and wellness initiatives.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102224'
 title: T&L Foundation for Child Care Information
 uri: /organizations/t-l-foundation-for-child-care-information/
 challenge_url: >-

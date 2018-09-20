@@ -56,7 +56,7 @@ org_summary: >-
    
    All event details for State of the Arts 2012 can be viewed here: http://www.c3so.com/soa-2012.html
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102123'
 title: Electronic Music Alliance
 uri: /organizations/electronic-music-alliance/
 challenge_url: 'http://maker.good.is/myla2050/projects/EMAPLAY.html'

@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102033'
 title: Center for the Study of Los Angeles
 uri: /organizations/center-for-the-study-of-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/la-votes'

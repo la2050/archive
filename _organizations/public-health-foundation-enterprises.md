@@ -20,7 +20,7 @@ org_summary: >-
   services to optimize population health
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102193'
 title: Public Health Foundation Enterprises
 uri: /organizations/public-health-foundation-enterprises/
 challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'

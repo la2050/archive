@@ -21,7 +21,7 @@ org_summary: >-
   interactive, creative site for Angelenos of all ages.
 areas_impacted:
   - Central LA
-project_ids: ''
+project_ids: '6102258'
 title: The Triforium Project
 uri: /organizations/the-triforium-project/
 challenge_url: >-

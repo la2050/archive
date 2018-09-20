@@ -27,7 +27,7 @@ org_summary: >-
   discussing a partnership to grow a community farm that would feed families in
   need of healthier food options.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102183'
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/

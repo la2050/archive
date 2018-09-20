@@ -23,7 +23,7 @@ org_summary: >-
   was absolutely humbling, and to see what happens when a good idea's time has
   come was inspiring.
 areas_impacted: ''
-project_ids: '5102081'
+project_ids: '3102101'
 title: Take Back the Grid
 uri: /organizations/take-back-the-grid/
 challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'

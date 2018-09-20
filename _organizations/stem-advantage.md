@@ -26,7 +26,7 @@ areas_impacted:
   - South LA
   - South Bay
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102218'
 title: STEM Advantage
 uri: /organizations/stem-advantage/
 challenge_url: >-

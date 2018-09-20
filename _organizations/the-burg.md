@@ -21,7 +21,7 @@ org_summary: >-
   barriers to civic engagement.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102247'
 title: The Burg
 uri: /organizations/the-burg/
 challenge_url: >-

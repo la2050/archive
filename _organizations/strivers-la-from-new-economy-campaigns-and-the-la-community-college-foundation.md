@@ -40,7 +40,7 @@ org_summary: >-
    
    <p>LACC has great success moving students into well-paid careers. Each of the Allied Health Programs (Nursing, Dental Technology, Radiologic Technology) boasts of impressive student test results, job placements and successful alumni. However, the path to success for many of these students is filled with financial hardship, personal sacrifice—and even homelessness. In addition, these programs are more expensive to complete because they require additional tuition, expensive textbooks and supplies. STRIVERS.LA will work with LACCF to target recruitment of students involved in each of these successful LACC programs. </p>
 areas_impacted: ''
-project_ids: '8102033'
+project_ids: '3102100'
 title: >-
   STRIVERS.LA: from New Economy Campaigns and the LA Community College
   Foundation

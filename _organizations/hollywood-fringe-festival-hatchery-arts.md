@@ -21,7 +21,7 @@ org_summary: >-
   one another and engage with the Hollywood community.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102094'
 title: Hollywood Fringe Festival (Hatchery Arts)
 uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 challenge_url: >-

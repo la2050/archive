@@ -55,7 +55,7 @@ org_summary: |-
    
    * Worked with youth and policy experts to craft a community development policy described as "A Model of LA Planning," which will set strong environmental and equity protections for local residents
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102236'
 title: >-
   Special Service for Groups/Asian and Pacific Islander Obesity Prevention
   Alliance (APIOPA)

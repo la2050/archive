@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - City of Los Angeles
   - Hollywood
-project_ids: ''
+project_ids: '6102237'
 title: The C.I.T.Y. x1 Youth Group
 uri: /organizations/the-c-i-t-y-x1-youth-group/
 challenge_url: >-

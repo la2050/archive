@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - Central LA
   - East LA
-project_ids: ''
+project_ids: '6102104'
 title: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 uri: /organizations/institute-of-contemporary-art-los-angeles-ica-la/
 challenge_url: 'https://challenge.la2050.org/entry/agency-of-assets'

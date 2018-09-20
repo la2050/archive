@@ -20,7 +20,7 @@ org_summary: >-
   space founded on the principle of artists supporting artists.
 areas_impacted:
   - Central LA
-project_ids: ''
+project_ids: '6102192'
 title: PSSST
 uri: /organizations/pssst/
 challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'

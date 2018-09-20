@@ -61,7 +61,7 @@ org_summary: >-
    
    As a musician, I’ve learned how to make something out of nothing. The times I’ve been entrusted with resources have seen success more often than failure. My strength is knowing my weakness, and finding the right people to execute the task.
 areas_impacted: ''
-project_ids: '4102031'
+project_ids: '3102053'
 title: Geoff Gallegos/daKAH Hip Hop Orchestra
 uri: /organizations/geoff-gallegos-dakah-hip-hop-orchestra/
 challenge_url: 'http://maker.good.is/myla2050/projects/dakathouse.html'

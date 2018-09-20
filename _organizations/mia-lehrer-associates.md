@@ -161,7 +161,7 @@ org_summary: >-
    
    Water + Life Museums — Hemet, CA. LEED Platinum
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102072'
 title: Mia Lehrer + Associates
 uri: /organizations/mia-lehrer-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanforest.html'

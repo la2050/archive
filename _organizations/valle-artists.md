@@ -23,7 +23,7 @@ org_summary: >-
   non-profits, but who can also lead a self-funded project with the community.
   The Pacoima Art Movement has restored pride in the community.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102270'
 title: Valle Artists
 uri: /organizations/valle-artists/
 challenge_url: 'http://maker.good.is/myla2050/projects/Artistmovement.html'

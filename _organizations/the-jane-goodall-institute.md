@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
   - LAUSD
-project_ids: ''
+project_ids: '6102245'
 title: the Jane Goodall Institute
 uri: /organizations/the-jane-goodall-institute/
 challenge_url: >-

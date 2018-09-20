@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
   - South Bay
-project_ids: ''
+project_ids: '6102038'
 title: City of Los Angeles Department of Recreation and Parks
 uri: /organizations/city-of-los-angeles-department-of-recreation-and-parks/
 challenge_url: >-

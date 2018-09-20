@@ -25,7 +25,7 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
   - South & Central LA have largest population of FY
-project_ids: ''
+project_ids: '6102235'
 title: The Academy Project
 uri: /organizations/the-academy-project/
 challenge_url: >-

@@ -30,7 +30,7 @@ org_summary: >-
   upcoming collaboration with the Gang Reduction and Youth Development program
   of Los Angeles in piloting our after school program.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102096'
 title: Create LA
 uri: /organizations/create-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/createla.html'

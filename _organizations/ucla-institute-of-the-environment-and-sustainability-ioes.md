@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102266'
 title: UCLA Institute of the Environment and Sustainability (IOES)
 uri: /organizations/ucla-institute-of-the-environment-and-sustainability-ioes/
 challenge_url: >-

@@ -30,7 +30,7 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102151'
 title: Maiden LA
 uri: /organizations/maiden-la/
 challenge_url: >-

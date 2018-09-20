@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - South LA
   - South Bay
-project_ids: ''
+project_ids: '6102198'
 title: Richstone Family Center
 uri: /organizations/richstone-family-center/
 challenge_url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'

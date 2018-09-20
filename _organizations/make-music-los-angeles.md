@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - Central LA
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102152'
 title: Make Music Los Angeles
 uri: /organizations/make-music-los-angeles/
 challenge_url: >-

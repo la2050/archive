@@ -21,7 +21,7 @@ org_summary: >-
   to services.
 areas_impacted:
   - South Bay
-project_ids: ''
+project_ids: '6102203'
 title: Safe Refuge
 uri: /organizations/safe-refuge/
 challenge_url: >-

@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - Central LA
   - South LA
-project_ids: ''
+project_ids: '6102065'
 title: EveryoneOn
 uri: /organizations/everyoneon/
 challenge_url: >-

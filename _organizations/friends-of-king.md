@@ -26,7 +26,7 @@ areas_impacted:
   - South LA
   - LAUSD
   - AYSO soccer plays on our field
-project_ids: ''
+project_ids: '6102074'
 title: Friends of King
 uri: /organizations/friends-of-king/
 challenge_url: 'https://challenge.la2050.org/entry/la-plays-at-king'

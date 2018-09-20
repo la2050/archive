@@ -21,7 +21,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102130'
 title: LaunchCode
 uri: /organizations/launchcode/
 challenge_url: 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'

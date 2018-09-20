@@ -21,7 +21,7 @@ org_summary: >-
   residents moves into stable permanent housing we have accomplished our goal.
   Successful reintegration into society is our top priority.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102226'
 title: 'Reach For theTop, Inc.'
 uri: /organizations/reach-for-thetop-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CasaAmador.html'

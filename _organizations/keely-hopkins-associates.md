@@ -38,7 +38,7 @@ org_summary: >-
    
    Prior to launching Youth 4C, Keely Hopkins and Samuel Alleyne both came from non-profit and government relations backgrounds. Keely Hopkins, a government relations attorney and development specialist, has led statewide political campaigns, advocated on behalf of non-profits before state legislatures, and has led youth advocacy trainings in South Los Angeles. Samuel Alleyne, who specializes in project management and development strategy, comes from an extensive background in youth leadership and engagement. Samuel has served as a project coordinator the California Department of Public Health, has organized and led international youth campaigns, and has taught youth leadership and entrepreneurial classes at CSU and LACC.
 areas_impacted: ''
-project_ids: '4102036'
+project_ids: '3102064'
 title: Keely Hopkins & Associates
 uri: /organizations/keely-hopkins-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'

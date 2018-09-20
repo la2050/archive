@@ -26,7 +26,7 @@ areas_impacted:
   - South LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102100'
 title: ICON CDC
 uri: /organizations/icon-cdc/
 challenge_url: >-

@@ -23,7 +23,7 @@ areas_impacted:
   - South LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102044'
 title: Coalition for Responsible Community Development
 uri: /organizations/coalition-for-responsible-community-development/
 challenge_url: >-

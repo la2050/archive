@@ -29,7 +29,7 @@ org_summary: >-
   to the Keystone Conference for their demonstrated leadership and community
   service.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102037'
 title: Boys & Girls Club of Mar Vista Gardens
 uri: /organizations/boys-girls-club-of-mar-vista-gardens/
 challenge_url: 'http://maker.good.is/myla2050/projects/begreat.html'

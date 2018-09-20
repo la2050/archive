@@ -54,7 +54,7 @@ org_summary: |-
    
    Clothing & Household Item Recycling Exchange Site
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102131'
 title: Foster Care Counts
 uri: /organizations/foster-care-counts/
 challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'

@@ -37,7 +37,7 @@ org_summary: >-
    
    Additionally, as many as half of NYA’s alumni who remain in the Los Angeles area after high school, return to the program as volunteers. Alumni volunteers set an example for younger students and help guide the way for the next generation of youth to graduate from high school, succeed in college and transition into meaningful careers.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102203'
 title: Neighborhood Youth Association (NYA)
 uri: /organizations/neighborhood-youth-association-nya/
 challenge_url: 'http://maker.good.is/myla2050/projects/NYAforLA.html'

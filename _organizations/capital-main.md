@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102031'
 title: Capital & Main
 uri: /organizations/capital-main/
 challenge_url: >-

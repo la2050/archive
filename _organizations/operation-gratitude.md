@@ -23,7 +23,7 @@ areas_impacted:
   - San Fernando Valley
   - County of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102170'
 title: Operation Gratitude
 uri: /organizations/operation-gratitude/
 challenge_url: >-

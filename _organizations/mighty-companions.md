@@ -26,7 +26,7 @@ org_summary: >-
   (www.TEDxWestHollywood.com), where the intention is to deliver a body of talks
   that could activate people who want to change the world.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102196'
 title: Mighty Companions
 uri: /organizations/mighty-companions/
 challenge_url: 'http://maker.good.is/myla2050/projects/sisterblocks.html'

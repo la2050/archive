@@ -21,7 +21,7 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102020'
 title: Braille Institute of America
 uri: /organizations/braille-institute-of-america/
 challenge_url: >-

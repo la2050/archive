@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102051'
 title: Community Healing Gardens
 uri: /organizations/community-healing-gardens/
 challenge_url: >-

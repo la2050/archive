@@ -21,7 +21,7 @@ org_summary: >-
   Specifically, they conserve water and energy, produce less waste, use less
   toxic chemicals and purchase greener products.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102240'
 title: Sustainable Works a Project of Community Partners
 uri: /organizations/sustainable-works-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'

@@ -50,7 +50,7 @@ org_summary: |-
    
    <p>Other Youth Corps and Grades of Green students are tackling environmental problems big and small at their schools and in their communities. For example, Yaeeun H is using Grades of Green 3R curriculum to teach kids at her school about how and why to protect the environment; Sydney H, a sixth grader, is organizing an e-waste collection drive at her school; Sam H is collecting used shoes to donate to Soles for Souls; and Lauren S and Jenna R, both sixth graders, are working to plant a native garden at their school. These kids are the future of Los Angeles and our best hope of making our vision for Los Angeles a reality in 2050. </p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102140'
 title: Grades of Green
 uri: /organizations/grades-of-green/
 challenge_url: 'http://maker.good.is/myla2050/projects/goglayc.html'

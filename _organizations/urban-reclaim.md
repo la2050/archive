@@ -23,7 +23,7 @@ org_summary: >-
   Street Viaduct project team, working with city officials and community leaders
   on creating successful urban public spaces for the Los Angeles community.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102267'
 title: Urban Reclaim
 uri: /organizations/urban-reclaim/
 challenge_url: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'

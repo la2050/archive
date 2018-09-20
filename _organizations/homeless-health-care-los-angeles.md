@@ -21,7 +21,7 @@ org_summary: >-
   the communities of LA County.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102096'
 title: Homeless Health Care Los Angeles
 uri: /organizations/homeless-health-care-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/save-a-life'

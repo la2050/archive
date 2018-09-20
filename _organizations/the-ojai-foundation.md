@@ -21,7 +21,7 @@ org_summary: >-
   - is central to all our initiatives.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102252'
 title: The Ojai Foundation
 uri: /organizations/the-ojai-foundation/
 challenge_url: >-

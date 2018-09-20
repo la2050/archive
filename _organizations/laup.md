@@ -100,7 +100,7 @@ org_summary: >-
    
    * Increasing access to preschool for thousands of children in Los Angeles County by providing the operating funds needed to fill previously empty classrooms.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102176'
 title: LAUP
 uri: /organizations/laup/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'

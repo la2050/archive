@@ -20,7 +20,7 @@ org_summary: >-
   to afford treatment and care.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102014'
 title: Ava's Heart
 uri: /organizations/avas-heart/
 challenge_url: 'https://challenge.la2050.org/entry/the-transplant-journey'

@@ -95,7 +95,7 @@ org_summary: >-
    
    o Organized, drafted, and passed Just Cause Ordinance in the City
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102264'
 title: Union de Vecinos
 uri: /organizations/union-de-vecinos/
 challenge_url: 'http://maker.good.is/myla2050/projects/UVLA.html'

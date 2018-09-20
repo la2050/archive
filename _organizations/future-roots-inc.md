@@ -20,7 +20,7 @@ org_summary: >-
   arts and culture.
 areas_impacted:
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102077'
 title: Future Roots Inc.
 uri: /organizations/future-roots-inc/
 challenge_url: >-

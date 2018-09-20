@@ -21,7 +21,7 @@ org_summary: >-
   convening of partners, and community education
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102027'
 title: California Partnership
 uri: /organizations/california-partnership/
 challenge_url: >-

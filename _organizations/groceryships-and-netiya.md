@@ -21,7 +21,7 @@ org_summary: >-
   gardens in low-income communities most in need.
 areas_impacted:
   - South LA
-project_ids: ''
+project_ids: '6102087'
 title: Groceryships and Netiya
 uri: /organizations/groceryships-and-netiya/
 challenge_url: >-

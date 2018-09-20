@@ -42,7 +42,7 @@ org_summary: >-
   pre-qualified for projects with LAUSD, MWD, among other major institutions. We
   have created jobs and income during a recession, what more can you ask?
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102068'
 title: La Loma Development Company
 uri: /organizations/la-loma-development-company/
 challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'

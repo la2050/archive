@@ -23,7 +23,7 @@ areas_impacted:
   - East LA
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102023'
 title: BUILD
 uri: /organizations/build/
 challenge_url: >-

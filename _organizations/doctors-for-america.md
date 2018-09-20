@@ -32,7 +32,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: ''
+project_ids: '6102061'
 title: Doctors for America
 uri: /organizations/doctors-for-america/
 challenge_url: >-

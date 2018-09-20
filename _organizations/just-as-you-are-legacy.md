@@ -27,7 +27,7 @@ areas_impacted:
   - Westside
   - South Bay
   - LAUSD
-project_ids: ''
+project_ids: '6102112'
 title: Just As You Are Legacy
 uri: /organizations/just-as-you-are-legacy/
 challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'

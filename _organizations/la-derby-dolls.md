@@ -22,7 +22,7 @@ areas_impacted:
   - East LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102120'
 title: LA Derby Dolls
 uri: /organizations/la-derby-dolls/
 challenge_url: >-

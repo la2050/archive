@@ -23,7 +23,7 @@ areas_impacted:
   - Central LA
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '4102136'
+project_ids: '6102146'
 title: Fallen Fruit
 uri: /organizations/fallen-fruit/
 challenge_url: 'https://challenge.la2050.org/entry/the-endless-orchard-phase-two'

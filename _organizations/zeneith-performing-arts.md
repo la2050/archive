@@ -23,7 +23,7 @@ areas_impacted:
   - South LA
   - South Bay
   - LAUSD
-project_ids: ''
+project_ids: '6102289'
 title: Zeneith Performing Arts
 uri: /organizations/zeneith-performing-arts/
 challenge_url: >-

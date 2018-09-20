@@ -35,7 +35,7 @@ org_summary: >-
    
    <p>ForYourArt also organized the public art component for <em>Arts Matter</em>, a first of its kind, citywide public art exhibition and fundraising campaign to support arts education in the nation’s second largest public school system. Presented by the Los Angeles Fund for Public Education (LA Fund) and the Los Angeles Unified School District (LAUSD), <em>Arts Matter</em> addresses the importance of arts education in Los Angeles public schools, the “creative capital of the world.” Artists Barbara Kruger and John Baldessari created public art works that were presented on city buses and other outdoor media all across the greater metro area.</p>
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102052'
 title: ForYourArt
 uri: /organizations/foryourart/
 challenge_url: 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'

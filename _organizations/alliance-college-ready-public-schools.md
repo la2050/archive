@@ -19,7 +19,7 @@ org_summary: >-
   Alliance is the largest charter school network in LA, providing a college prep
   education to 11,300 low-income students at 26 schools.
 areas_impacted: ''
-project_ids: '4102001'
+project_ids: '3102011'
 title: Alliance College-Ready Public Schools
 uri: /organizations/alliance-college-ready-public-schools/
 challenge_url: ''

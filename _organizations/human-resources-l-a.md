@@ -35,7 +35,7 @@ org_summary: >-
    
    Human Resources serves as an important point of convergence for diverse and sometimes disparate art communities. We offer regular platforms for conversation and idea-sharing in order to promote the sustainability of non-traditional art forms. We nurture the kinds of artistic intelligence produced by working closely with different artistic communities - such as that of experimental music and performance art. We have also collaborated with other art spaces and events, including Pacific Standard Time, Silvershed's Collective show, fundraisers and events for Les Figues Press and Darin Klein's Box of Books, and the Chinatown Perform!Now! Festival. We continue to provide a substantial venue for large events, installations, video screenings, music performance, performance art and hybrid events in the Chinatown area of Los Angeles.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102151'
 title: Human Resources L.A.
 uri: /organizations/human-resources-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'

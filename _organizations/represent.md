@@ -21,7 +21,7 @@ org_summary: >-
   Arts School free of charge.
 areas_impacted:
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102197'
 title: Represent
 uri: /organizations/represent/
 challenge_url: >-

@@ -27,7 +27,7 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
   - LAUSD
-project_ids: '4102129'
+project_ids: '6102138'
 title: EMX Los Angeles
 uri: /organizations/emx-los-angeles/
 challenge_url: >-

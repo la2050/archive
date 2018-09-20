@@ -19,7 +19,7 @@ org_summary: Open data-driven analysis of public transport accessibility in spac
 areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '4102157'
+project_ids: '6102168'
 title: Habidatum
 uri: /organizations/habidatum/
 challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'

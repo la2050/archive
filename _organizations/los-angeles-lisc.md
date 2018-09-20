@@ -22,7 +22,7 @@ areas_impacted:
   - Central LA
   - East LA
   - South LA
-project_ids: ''
+project_ids: '6102142'
 title: Los Angeles LISC
 uri: /organizations/los-angeles-lisc/
 challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'

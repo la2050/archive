@@ -25,7 +25,7 @@ areas_impacted:
   - Central LA
   - South LA
   - LAUSD
-project_ids: ''
+project_ids: '6102274'
 title: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)

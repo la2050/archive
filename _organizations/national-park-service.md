@@ -36,7 +36,7 @@ org_summary: >-
    
    * Employed over 20 scientists to conduct scientific research on plants, animals, water quality, air quality and more. This research includes four active citizen science programs (What’s Invasive, California phenology project, crayfish removal).
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102201'
 title: National Park Service
 uri: /organizations/national-park-service/
 challenge_url: 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'

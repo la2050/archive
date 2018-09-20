@@ -23,7 +23,7 @@ areas_impacted:
   - Westside
   - County of Los Angeles
   - City of Los Angeles
-project_ids: '4102210'
+project_ids: '6102239'
 title: Tampon Tribe
 uri: /organizations/tampon-tribe/
 challenge_url: >-

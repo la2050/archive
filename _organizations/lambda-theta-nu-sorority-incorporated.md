@@ -27,7 +27,7 @@ org_summary: >-
   encourages students to pursue a higher education and we offer them the tools
   and support to do so.
 areas_impacted: ''
-project_ids: ''
+project_ids: '3102174'
 title: 'Lambda Theta Nu Sorority, Incorporated'
 uri: /organizations/lambda-theta-nu-sorority-incorporated/
 challenge_url: 'http://maker.good.is/myla2050/projects/FEM.html'

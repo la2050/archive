@@ -21,7 +21,7 @@ org_summary: >-
 areas_impacted:
   - Westside
   - City of Los Angeles
-project_ids: ''
+project_ids: '6102183'
 title: PIECES
 uri: /organizations/pieces/
 challenge_url: >-

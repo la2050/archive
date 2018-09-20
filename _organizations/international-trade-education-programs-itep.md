@@ -21,7 +21,7 @@ org_summary: >-
   opportunities.
 areas_impacted:
   - East LA
-project_ids: ''
+project_ids: '6102106'
 title: International Trade Education Programs (ITEP)
 uri: /organizations/international-trade-education-programs-itep/
 challenge_url: >-

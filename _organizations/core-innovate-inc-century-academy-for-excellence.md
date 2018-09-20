@@ -22,7 +22,7 @@ org_summary: >-
 areas_impacted:
   - South LA
   - County of Los Angeles
-project_ids: ''
+project_ids: '6102115'
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
 uri: /organizations/core-innovate-inc-century-academy-for-excellence/
 challenge_url: >-
