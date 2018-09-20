@@ -289,6 +289,29 @@ function addProjectAnswers(data) {
 
 
 function createMarkdownFile(data) {
+
+  if (!data.title) {
+    console.log("A title is missing")
+
+    let found = false;
+    for (let prop in data) {
+      if (data.hasOwnProperty(prop) && prop != "year_submitted" && data[prop] && data[prop] != "" && data[prop] != "0") {
+        found = true;
+      }
+    }
+
+    // If this project has no data, stop here
+    if (!found) {
+      console.log("Project has no data. Skipping…")
+      return;
+    }
+
+    console.dir(data);
+
+    data.title = "Project title, to be determined"
+  }
+
+
   console.log('createMarkdownFile for ' + data.title)
   let writePath = '../_projects/' + data.year_submitted
 
@@ -340,11 +363,6 @@ function createMarkdownFile(data) {
   addProjectAnswers(data)
 
   data.body_class = category_colors[data.category] || "strawberry"
-
-  if (!data.title) {
-    data.title = "Project title, to be determined"
-    console.log("A title is missing")
-  }
 
   for (let prop in data) {
     if (data[prop] === '0') data[prop] = ''
@@ -658,7 +676,7 @@ markdownProjects.forEach(project => {
 
 
 
-generateAllCollections('projects-2018.csv', 2018)
+// generateAllCollections('projects-2018.csv', 2018)
 generateAllCollections('projects-2016.csv', 2016)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
