@@ -172,7 +172,11 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   }
 
   function hasValue(tag) {
-    return tag && tag != "" && tag != " "
+    return tag && tag != "" && tag != " " && tag != " \r"
+  }
+
+  function simplify(tag) {
+    return tag.replace("\r", "").replace(/[0-9][0-9]\s/g, "")
   }
 
   if (organizationTagsLookup[data.organization_id] && 
@@ -182,11 +186,11 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     data.tags_indicators = []
 
     if (hasValue(organizationTagsLookup[data.organization_id].tag_1)) {
-      data.tags_indicators.push(organizationTagsLookup[data.organization_id].tag_1)
+      data.tags_indicators.push(simplify(organizationTagsLookup[data.organization_id].tag_1))
     }
 
     if (hasValue(organizationTagsLookup[data.organization_id].tag_2)) {
-      data.tags_indicators.push(organizationTagsLookup[data.organization_id].tag_2)
+      data.tags_indicators.push(simplify(organizationTagsLookup[data.organization_id].tag_2))
     }
   } else {
     delete data.tags_indicators
@@ -292,7 +296,7 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
 
   console.log('generateCollections: ' + file_name)
 
-  let input = fs.readFileSync('../_data/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let input = fs.readFileSync('../_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
 
@@ -347,7 +351,7 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
 }
 
 
-let organizationTagsInput = fs.readFileSync('../_data/tags-organization-2013-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+let organizationTagsInput = fs.readFileSync('../_spreadsheets/tags-organization-2013-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
 let organizationTags = parse(organizationTagsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
 // Create an object for quick lookup
