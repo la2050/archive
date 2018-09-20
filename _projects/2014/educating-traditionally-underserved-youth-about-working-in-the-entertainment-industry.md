@@ -70,7 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    There are different factors when it comes to owners of sailing ships and other nautical items. Most importantly, we cannot schedule training on a ship if it is out to sea on the day of our class.
    
    The most critical issue with regard to collaborations is that both sides are aiming towards the same goals, and that both sides are able to agree to the overall process. We have concentrated on collaborations with organizations that are genuinely interested in youth education, and we find that it has worked well for all of us
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

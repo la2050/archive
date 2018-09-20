@@ -70,7 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   of ideas and cooperation with our shared core values. 
    
    The three factors critical to the success of our proposed collaboration are our core values and mission, our shared knowledge and free flow of ideas and our impeccable reputations and integrity as human beings and art and community advocates.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: G4cMVQVTBkM
 project_areas:

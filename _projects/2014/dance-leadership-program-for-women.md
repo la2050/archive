@@ -94,7 +94,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   A this year to and now hold all our classes and rehearsals there. Although we
   must now rent space, Studio A has made it possible to continue our program and
   develop our work for our upcoming debut performance of Amaterra this Fall.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: K83J6XaqQlM
 project_areas:

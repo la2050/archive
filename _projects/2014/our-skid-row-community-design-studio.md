@@ -62,7 +62,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   accessible and will not limit participation due to lack of technical
   abilities. Lastly, programming will be continuous to nurture cumulative
   growth, involvement and leadership development.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21430'
 maker_image_file_name: Photos_2013.JPG

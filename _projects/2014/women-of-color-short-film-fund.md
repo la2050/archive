@@ -9,6 +9,16 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20953%252Fdisplay%252FScreen_Shot_2014-07-30_at_5.51.26_PM.png=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
+  LA takes leap to change Hollywood statistics and the future of cinema with a
+  series of provocative #shortfilms by #WomenofColor.
+What is your idea/project in more detail?: >-
+  We propose to make a series of short films by cutting edge Women of Color in
+  LA for the purpose of exposing their talent and capabilities to hiring
+  executives, the LA public and online community. We will select the filmmakers,
+  help produce, fund, and distribute the films. 
+   
+   We need more storytelling by Women of Color about their experiences as Angelenos, as they themselves see it. Hollywood definitely has a dearth of Women of Color in film. Only 1 out 500 Top Films in History have ever featured a live action Woman of Color. There's a danger in only being shown LA and the world through the point of view of the status quo. Women of Color in the LA community need to speak for themselves and film is the world's most far reaching media.
+What will you do to implement this idea/project?: >-
   If Los Angeles and Hollywood don't nurture and invite new voices as an example
   of an inclusive modern city, then who will? We can lead the diversification of
   cinema and help improve the statistics for women of color creatives in the
@@ -17,7 +27,7 @@ Which area(s) of LA does your project benefit? Other (elaborate): >-
    This would be a landmark for other cities to follow and showcase their diverse voices. Women of Color initiatives have never been done this way anywhere before, so why not in the city that makes the most filmed media in the universe? We have the talent but we need support in making a statement to our networks and studios that Women of Color are capable and cutting edge creatives for hire. Statistics say women often leave the film industry, when they are often pushed out for not getting opportunities that men and white people do. We feel it's a shame that LA is such a melting pot of cultures, but our most dominant industry is negligent of this fact. 
    
    As an example- London has better initiatives set up to make films that are made by Londoners that show off multi-cultural voices. Many of their funding initiatives mandate diversity now. We, LA- the seat of Hollywood don't have anything built in like this, yet.
-What is your idea/project in more detail?: >-
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   Everyone of every color, creed, age and gender will feel like their lives in
   LA count when they can see diversity accurately represented in the short films
   funded by this program. These films will show LA as a beacon for all to
@@ -26,7 +36,7 @@ What is your idea/project in more detail?: >-
   voice matters regardless of ethnic background and gender. People everywhere
   will be able to see Los Angeles in a different light, a true modern city where
   opportunities lie for all.
-What will you do to implement this idea/project?: |-
+Whom will your project benefit? Please be specific.: |-
   -Seed & Spark CEO Emily Best (confirmed)
    Distributor
    http://www.seedandspark.com/who-we-are
@@ -54,8 +64,6 @@ What will you do to implement this idea/project?: |-
    1. Social media outreach and cross promotion.
    2. Quality control of the short films
    3. Support from industry players in the form of mentorship, donated resources, exposure, and collaborations.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
-Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '20953'
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png

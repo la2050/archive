@@ -63,7 +63,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Avenue 50 Studio and it’s Poesia Para La Gente staff will market, produce, and document the project, and engage acclaimed poets from L.A. and throughout California to facilitate 5-day workshops and perform their work at book launches. They will also organize visual artists, and assist in the production of the events. Writ Large Press will commit staff resources for publication and distribution of the new work in a series of 7
    books, and will organize musicians, sound, and projection equipment for the book launch events. www.avenue50studio.org
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: BtUB4Ycebms
 project_areas:

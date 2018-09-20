@@ -82,7 +82,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Individual teachers are also important partners and we work extensively with 10,000 annually to create museum curriculum for visiting schools. This “for teachers, by teachers” approach ensures that the information the Museum provides is relevant and helpful to visiting teachers and creates a generation of Angelenos who know and value the La Brea Tar Pits. Teachers are also welcomed to regularly scheduled teaching workshops that inform their field trip and classroom teaching while ensure school groups will visit the Museum. 
    
    The Museum is also working with a confidential technology partner to bring Wi-Fi service to the park and Museum, free of charge for visitors. This partner is currently working with the Museum, and has for the last two years on several very successful endeavors. With a wealth of fossils lying still undisturbed in the park, it is critical that the best-possible experts work with us to design a connectivity system that keeps the fossils safe while also providing uninterrupted service. A successful partnership would: enable streamlined guest services throughout the park with the aide of wireless connectivity, allow for highly interactive mobile activities to be designed for our indoor and outdoor visitors, provide a way for us to further track crowd flow to better enhance the experience.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: gzqE0ygfM8Y
 project_areas:

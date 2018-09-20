@@ -111,7 +111,7 @@ Whom will your project benefit? Please be specific.: |-
    2. Collaborative planning- It's critical that we undergo a truly collaborative and inclusive strategic planning process, establishing clear communication channels agreed upon roles and responsibilities
    
    3. Building a movement - it's crucial that this event does not exist in isolation, but is an integrated into the larger movement to showcase LA as a global hub of creativity
-empty_column_1: '1'
+empty_column_1: ''
 maker_image_id: '22856'
 maker_image_file_name: creative_capital_img.jpg
 project_areas:

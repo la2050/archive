@@ -62,7 +62,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   arts leaders. As previously mentioned, we have confirmed with the staff of
   Arts for LA that, if funded, we would contract with them to provide advocacy
   training over a six-month period with our Board Network.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22303'
 maker_image_file_name: Faces_Installation.jpg

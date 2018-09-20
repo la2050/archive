@@ -68,7 +68,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Quetzal Guerrero - A partner for the “Sonido Popular” event as a host artist. 
    
    Angel Aguilar - A ‘Don Quixote’ in the journalistic world of LA, working towards bringing quality music reporting to the Latin crowd in Spanish.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: XFrn3G05ZVc
 project_areas:

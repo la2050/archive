@@ -69,7 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Risks with these partners include time and money: our working process has given us a good idea of what we'd like to do, but a design process that isn't carefully controlled could drag out and cost more money than we've anticipated. We've reduced risk by having a long pre-design process working with others who've worked on similar projects – like Seattle's Experience Music Project. We've learned from their mistakes. Mission drift is a potential problem, but one we've attempted to minimize by focusing on what we want to do and working with experienced people. 
    
    As part of this preparedness, we want to start programming before we have a final space. Our partner in this will be The Science & Entertainment Exchange, part of the National Academy of Sciences. While they typically work with movies and television to increase the amount of science on screen, they want to work with us to reach a broader audience through public programming. Potential issues are building compelling programming, attracting audiences, and finding spaces. The NAS has shown they can do the first of these; we have tentative agreements with members of our working group in the entertainment business – including film institutes – to help us with the second and third of these issues.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: KofWk5qh3jE
 project_areas:

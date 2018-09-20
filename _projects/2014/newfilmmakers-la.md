@@ -57,7 +57,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   program—a magnificent opportunity for any up-and-coming independent filmmaker.
    
    Between so many global partnerships and the fact that we bring and showcase international filmmakers to the city on a monthly basis, NewFilmmakers has made promoting a diverse, international presence in LA a top priority. It is for these reasons that the Hollywood Arts Council is honoring us with a Cinema Arts Award this year to celebrate outstanding contributions of merit to Hollywood and its arts.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: grALjLXwxgM
 project_areas:

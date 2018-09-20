@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    CA Association of Food Banks: Provides funding, training and resources for CSU to do outreach for CalFresh (food stamps) and assist eligible people in applying for benefits.
    
    Factors critical to the success of these partnerships: taking time to learn about each organizations history, goals and culture in order to build partnerships that can effectively accomplish project goals; having a shared interest in bringing services and healthy food access to South LA and a shared perspective that building vibrant local and regional food systems is a viable strategy for addressing the environmental, health, and social injustices; and having a shared commitment to work together to leverage each others resources and expertise to bring the best possible result to South LA Families.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: CQsypZUTmbo
 project_areas:

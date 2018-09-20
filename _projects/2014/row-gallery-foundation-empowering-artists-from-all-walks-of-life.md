@@ -62,7 +62,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) Increasing the amount of art education that goes into the LA community. Row Gallery hopes to provide the tools necessary to help empower people through art.
    
    3) Ensuring a space where the physical gallery can grow. Currently, there are no spaces in LA that specifically showcases artwork from both professionals and working artists. Why not change that?
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: ApjqumUUgTI
 project_areas:

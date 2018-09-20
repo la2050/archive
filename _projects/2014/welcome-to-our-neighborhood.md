@@ -105,7 +105,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ...4.3 Maintenance and updating information.
    
    ......4.3.1 This will include local businesses, local organizations, local governments, and others wishing to convey information through the QR codes. Not confirmed.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: z7QaUClznXM
 project_areas:

@@ -9,6 +9,17 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23401%252Fdisplay%252FLASA_LARiver2015.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
+  LASA begins with questions. How does a city run? How does a vast metropolitan
+  region like Los Angeles work? Which institutions are responsible for moving
+  water, people, food, and power from points A to points Z? How are such
+  institutions and agencies funded and run? Who runs them? How can neighborhoods
+  be made more livable? What does an elected official do all day? What role do
+  cultural institutions play in the life of greater Los Angeles? What about
+  businesses and non-profits? What are the potential educational and career
+  paths for young people interested in civic, civil, and public service in the
+  Los Angeles Basin? We encourage high school students to ask these -- and so
+  many more -- questions, and then we work together to answer them.
+What is your idea/project in more detail?: >-
   The 2050 metric is really important to us at LASA. We embrace the long-term.
   We work with a fairly small group of participants at a time. We are about to
   welcome our third LASA class (in early August). It has thirty high school
@@ -30,7 +41,7 @@ Which area(s) of LA does your project benefit? Other (elaborate): >-
    Of course there are short-term goals. Teach a broad cross section of kids about LA; draw a diverse group of young people who may come from very different circumstances or parts of LA together, allow them to discover commonalities of experience and curiosity. Put them into the landscape, teach them about going to college, show them how transit works, empower them to use libraries well help them learn to express themselves in public settings; have a lot of fun on a Saturday LASA day. 
    
    We think LASA is spot on with experiential learning objectives. We think greater Los Angeles is an astonishing learning laboratory for history, policy, landscape, culture, and urbanism, and we think no one is too young to begin to grapple with his or her place in the metropolis. We think LASA helps make LA navigable, and we think that we empower and built the confidence of the young people who join us each year.
-What is your idea/project in more detail?: >-
+What will you do to implement this idea/project?: >-
   At the very center of the experience, we know LASA benefit four specific
   groups. First and foremost are the high school participants themselves. Those
   benefits accrue, we think, in post-LASA years, in that we make efforts to keep
@@ -52,7 +63,7 @@ What is your idea/project in more detail?: >-
    Those are focused beneficiaries. There are more, we think. Our LASA students take their experience back to their families. These families often repeat our fieldtrip experiences; we go to point A on a given Saturday and the student brings her family back there on the next Saturday. The friends of our LASA students benefit similarly, and we recruit new LASA students from these ranks.
    
    Most widely, we believe LA benefits. Not yet, perhaps. But we think the lines of friendship, knowledge, and commitment to public service and awareness cannot help but make LA both work better and become a better place to live and work. That's LASA's promise, we think, and it makes it all very exciting to us.
-What will you do to implement this idea/project?: >-
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   LASA thrives on and can only work through partnerships. It is in fostering
   these partnerships -- and in showcasing them to the students -- that we
   further and strengthen our foundation of collaboration across the great city.
@@ -76,7 +87,6 @@ What will you do to implement this idea/project?: >-
   fact that the LASA participants get to meet high-profile decision-makers and
   leaders across a broad swath of institutions, agencies, and educational
   centers in the region.
-How will your idea/project help make LA the best place to connect today? In LA2050?: ''
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 maker_image_id: '23401'

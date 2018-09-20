@@ -90,7 +90,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The second factor is innovative use of resources and outreach strategies. Translating techniques through social media to reach immigrant populations and non-English speakers, willingness to try bold approaches to connect with local places of faith, savvy use of film and media, and access to celebrities, faith leaders, and other successful individuals will be required to drive attendance to the events. 
    
    The third factor is availability and boldness. Anyone involved should be available to knock on doors, make calls, and attend the actual block parties. In many ways, this is like a series of campaigns for God in Los Angeles. Partners need to be comfortable with their faith, not on the fence, and be willing to stand up and share it with the world!
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

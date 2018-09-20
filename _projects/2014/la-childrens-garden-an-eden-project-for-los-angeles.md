@@ -49,7 +49,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Mia Lehrer + Associates' projects include the LA River, Vista Hermosa Park, TreePeople campus and the Natural History Museum. Amazing sites!
    
    Muir Ranch is supported by dozens of corporate and individual donors and customers via are CSA program. We sell vegetables to retail customers and horticulture companies (Baker Creek, Seeds of Change and Organiks) provide endless plant and seed material. Both major program partners, ECHS and MLA, with Muir Ranch bring education and design expertise to create a space where all can learn and #play!
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

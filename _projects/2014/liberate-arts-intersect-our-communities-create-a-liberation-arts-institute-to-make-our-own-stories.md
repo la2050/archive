@@ -83,7 +83,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2) Communication and consensus building. Because we honor so many people's stories, Spanish translation & funds transparency is important. We also work through building consensus so that all voices are heard in decisions
    
    3) Consistency to core vision of collective liberation and generating intersecting spaces to build our stories. Big-picture keeps us united.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: V_x6dj_Fa9M
 project_areas:

@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Disney – has agreed to review resumes and to provide interviews to individuals with full-stack web development expertise.
    WalMart – Bentonville, AK – various opportunities are available for individuals that have full-stack web development expertise. They have reached-out and are interested in reviewing Sabio Fellow’s resumes to identify potential candidates to be interviewed.
    TechWorkers – San Ramon, CA- front-end web development opportunities
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: QaoTDnw-Xtw
 project_areas:

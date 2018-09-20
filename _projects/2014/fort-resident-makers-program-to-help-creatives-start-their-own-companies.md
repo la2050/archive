@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • VEDC (Valley Economic Development Center)- will take special care of our FORT Resident Makers with one on one sessions with expert professionals who will help them start their own business after launching their product through FORT.
    
    • Mentor Matchmaker- will provide our FORT Resident Makers with experienced mentors to guide them in their journey of creating a career out of their creative passion.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: kNqNTSXVqsI
 project_areas:

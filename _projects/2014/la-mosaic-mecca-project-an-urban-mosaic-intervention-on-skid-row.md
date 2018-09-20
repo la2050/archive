@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    Other partners will include a wide range of volunteers, including students, working professionals, retirees, and corporate groups as well as engagement with other Skid Row agencies that share our objectives toward addressing needs among vulnerable populations. A partnership in place with the Downtown Women’s Center engages the Center’s Job Developer in assisting human resources role in recruiting Skid Row candidates for permanent job placement within the Piece by Piece social-enterprise as studio and sales associates.
    Factors critical to success: (1) Partnership with SRHT -- brings to bear an extensive network of private and public resources and connections that make the project possible, (2) Artist Involvement -- Through funding support from the NEA and others, Piece by Piece engages a roster of more than 25 professional artists, and will expand this roster significantly; (3) Arts-Network -- The Project will form meaningful partnership with individual artists, and also arts organizations with the talent and resources for lending support toward successful planning, design and coordination of a large Public Art installation.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

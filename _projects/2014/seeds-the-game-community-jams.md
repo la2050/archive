@@ -75,7 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Additional allies include Ron Finley and his work to grow food with youth in Los Angeles, UrbanTXT working with youth and mobile development, Vortex Immersion hosting events with us in Los Angeles near LAUSD and La Loma, a local permaculture development company providing playtesting space for people to grow food for the first time during our game jam series. Some of these are now confirming for the next round and we have worked with Vortex in the past on the State of the Arts immersion experience.
    
    We are currently considering collaborating within the LA Technology community (business and government-focused) along with talent from local game companies, schools and hacker/maker community groups. We have shared #SeedstheGame at the Verge conference for green solutions for business and government and with the Federal Games Guild which is informally helping us position for federal and international NGO funding in 2015.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22335'
 maker_image_file_name: volunteer-photo.jpg

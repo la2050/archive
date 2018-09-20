@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    ARTIST RESEARCHERS: We will be working with artist researchers to create fresh content, resources, and information for arts professionals. Meeting directly with art administrators, curators, non-profits, educators, lawyers, healthcare professionals, and studio artists allows GYST Cloud to stay current, up-to-date, relevant in the ever-changing art world.
    
    USERS (YOU): We will invite our existing individual and organization users (over 2,350) and new clients to beta test GYST Cloud. Further funding from others who donate towards the support of low-income artists, as well as the income-based subscription model will allow this project to be sustainable for future generations. Establishing responsibility within the art community, we will invite users to self-determine their own level of income and therefore their subscription price.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21305'
 maker_image_file_name: GYSTInksoftware_artworktracking.png

@@ -8,7 +8,11 @@ year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20167%252Fdisplay%252F_DSC5884.JPG=c570x385
 project_video: ''
-Which area(s) of LA does your project benefit? Other (elaborate): >-
+Which area(s) of LA does your project benefit? Other (elaborate): John Kotick
+What is your idea/project in more detail?: >-
+  We are training Seniors to be AGEnts for Change in Los Angeles to improve the
+  lives of Older Adults in our City through advocacy.
+What will you do to implement this idea/project?: >-
   SBSS will build on its successful experience in creating and conducting the
   AGEnts for Change program. The primary goal for the 2nd generation (G2) of the
   AGEnts for Change Initiative is to expand the impact of AGEnts advocacy and
@@ -25,7 +29,7 @@ Which area(s) of LA does your project benefit? Other (elaborate): >-
    (6) Conduct 6 monthly communiqués including conference calls, emails, direct mail and newsletters distributed at the Senior Centers and community sites. 
    
    The need is great and with the right support, many older adults are willing and able to speak up for themselves and for the senior community at large.
-What is your idea/project in more detail?: >-
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   St. Barnabas Senior Services (SBSS) initial AGEnts for Change Initiative
   achieved success in its first year of implementation. Due to the support of
   The SCAN Foundation, SBSS was able to recruit and train 32 seniors. Six
@@ -39,22 +43,20 @@ What is your idea/project in more detail?: >-
    
    SBSS is in a strong position to initiate the enhancement of the AGEnts Initiative, not only because of its solid record of community engagement, but also as a direct result of the recent expansion of its service area to include the neighborhoods of Hollywood, Griffith Park, Los Feliz, Silver Lake, Atwater Village and Chevy Chase as served by the Hollywood Senior Multipurpose Center (HSMPC). This expansion has doubled SBSS’ geographic reach and increased the number of seniors served annually from 8,000 to nearly 18,000. This expansion has provided SBSS with the opportunity to reach an entirely new group of seniors who have the potential to become advocates for themselves and for the senior community. The diversity of this community will further strengthen the efforts of the AGEnts Initiative as SBSS is able to recruit and engage seniors who are representative of the cultural, linguistic and social richness of Los Angeles.
    Involving the growing senior population of Los Angeles in advocacy not only contributes to their well being, but helps make L.A. a great place in which to live and age with dignity. By 2050, our population of seniors will have increased dramatically and investing in sound policy and advocacy now, will contribute to a vibrant L.A. in 2050
-What will you do to implement this idea/project?: >-
+Whom will your project benefit? Please be specific.: >-
   Our project specifically benefits all older adults living in Los Angeles and
   their families, by advocating for senior friendly public policy, programs and
   services that contribute to their independence, health and well being. Through
   a strong policy framework that supports seniors advocating for themselves,
   their voices are heard, their lives are enriched and L.A. itself becomes a
   better place to live.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+empty_column_1: >-
   The SCAN Foundation continues to assist with funding for the AGEnts for Change
   Initiative and their advice as well as funding has been important to our
   project. In addition, the Los Angeles Ageing Advocacy Coalition is a
   significant policy partner to SBSS and the AGEnts for Change Initiative,
   bringing together over 50 organizations and individuals working together on
   policy issues impacting the lives of older adult residents of Los Angeles.
-Whom will your project benefit? Please be specific.: '1'
-empty_column_1: ''
 maker_image_id: '20167'
 maker_image_file_name: _DSC5884.JPG
 project_areas:

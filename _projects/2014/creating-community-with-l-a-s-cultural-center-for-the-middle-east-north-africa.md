@@ -38,7 +38,7 @@ What will you do to implement this idea/project?: 'UP to 10,000 K-12 youth and t
 How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   We will partner with multiple community organizations, such as Muslims for
   Progressive Values, and the Craft and Folk Art Museum, as well as LAUSD.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

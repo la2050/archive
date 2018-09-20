@@ -52,7 +52,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   School, Art Lab High School), LA River Revitalization Corp, Elysian Valley
   Arts Collective, Frogtown Artwalk, Bookshow (Independent artisan book store),
   Mitch O'Farrell, NELA art Organization, ArtCenter college.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21917'
 maker_image_file_name: studio1.jpg

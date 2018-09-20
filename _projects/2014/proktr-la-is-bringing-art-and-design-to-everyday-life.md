@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Century Fox and more. 
    
    Though there are no other confirmed partnerships, warm relationships have been developed through the current production of Protkr at museums such as MOCA, LACMA, The Hammer, SMMOA, PMCA, The Huntington, The Broad and at many galleries in the city. Through these relationships we hope to establish long term partners, advisory board members, and potential editorial contributors.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

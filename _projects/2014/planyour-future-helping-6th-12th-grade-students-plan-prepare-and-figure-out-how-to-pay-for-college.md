@@ -10,6 +10,18 @@ year_submitted: 2014
 project_image: ''
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
+  CCGI helps 6th-12th grade students develop a career aspiration, and then plan,
+  prepare and figure out how to pay for college.
+What is your idea/project in more detail?: >-
+  CCGI takes a three pronged approach to our goal of ensuring that all high
+  school students graduate with a post-secondary plan. We:
+   
+   1) Build mobile (in development) and web based (CaliforniaColleges.edu) college and career planning tools that allow each student to develop their own individual portfolio.
+   
+   2) Partner with K-12 districts to integrate our tools into instructional time and counseling practice (both school based counselors and partner CBOS/university based outreach programs) so that all students meet 18 college and career planning milestones.
+   
+   3) Facilitate collaboration between our district partners and local colleges/universities to use student portfolios for college recruitment, admission and first year academic placement.
+What will you do to implement this idea/project?: >-
   By 2050, a student in LA will have ongoing college and career planning
   activities integrated into their educational experience irrespective of school
   district from 6th grade forward (likely earlier). All of those activities will
@@ -22,7 +34,7 @@ Which area(s) of LA does your project benefit? Other (elaborate): >-
   talent to meet our workforce needs and ensure a healthy and vibrant economy. 
    
    Today, we are proving pieces of this overarching concept, in real time with school districts, colleges and students themselves. Our progress on A-G analysis and planning tools during 2014-2015 will allow us to help districts increase the numbers of students who graduate eligible for admissions to a four year college or university. Increased awareness of post-secondary options and degree pathways will help students to more fully understand the steps ahead of them and arrive at post-secondary ready to succeed.
-What is your idea/project in more detail?: >-
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   We view our work as accountable first and foremost to students, and we place
   them at the center of the equation at all times. While our work focuses
   primarily on 6th-12th grade students, we house resources on our site for
@@ -41,7 +53,7 @@ What is your idea/project in more detail?: >-
    Community Colleges: Despite growing recognition that high school transcripts are key to successful first year academic placement, community colleges (as open access institutions) do not and will not request or require that transcript data from students. Our system allows them not only to access transcript data for that purpose, but non-academic data about student's career exploration and aspirations that will support educational planning.
    
    Community and University based college preparation programs: Counselors in these programs generally lack access to student's transcript data. By linking their portfolio to approved providers (we have an approval process), we help to unify and maximize the efforts of all adults participating in a student's planning process.
-What will you do to implement this idea/project?: >-
+Whom will your project benefit? Please be specific.: >-
   We have signed MOUs with all five LA county school districts (named above),
   three of whom already have active data uploads to our system. The two newer
   districts are actively working on the file format that allows them to load
@@ -56,8 +68,6 @@ What will you do to implement this idea/project?: >-
    2) Rio Hondo Community College is piloting the use of data from our file format for first year academic placement of approximately 350 first year students who graduated from El Monte High school District in Spring 2014. Rio's Dean of Counseling works closely with CCGI to inform the development of counseling tools, messaging and the higher ed user role on our professional center/counselor facing portal - to maximize the use of our system for smoothing transition to community colleges. Our goals include expansion to all Rio Hondo's feeder districts (we are in three of six already) to prove the ability to place all incoming students based on transcripts rather than placement exams.
    
    3) We have initial conversations underway with LAUSD's Director of Secondary Education, Gerardo Loera, as well as local superintendent Bravo (ESC South), to pilot the use of CCGI tools in their high schools.
-How will your idea/project help make LA the best place to connect today? In LA2050?: ''
-Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
 project_areas:
   - SOUTH BAY

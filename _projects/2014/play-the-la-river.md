@@ -70,7 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -The City of LA Bureau of Engineering, which implements the city’s LA River Master Plan, and California State Parks, which oversees the two largest riverside parks, are providing support to the project on access, permitting, and outreach.
    
    -Other collaborators & champions include: UCLA, UC Riverside, Friends of the LA River (FoLAR), River Wild, Boom: A Journal of California, and the EPA-led Urban Waters Federal Partnership.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21550'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg

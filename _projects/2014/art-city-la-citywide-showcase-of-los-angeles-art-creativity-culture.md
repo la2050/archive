@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    “You have a great idea to excite LA's community through showcasing local artists. As you astutely observed, this is also one of the aims of CCI. Unfortunately, with such short lead time, it would be difficult to get involved on our end. I wish you success in finding an institutional partner and hope you'll keep us updated on your progress. If your project is awarded, let me know as that may provide another opportunity for partnership in promoting your program far and wide.” -Angie Kim, Center for Cultural Innovation
    
    These encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

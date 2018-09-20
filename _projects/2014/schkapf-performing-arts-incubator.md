@@ -80,7 +80,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   collaborating with new partners capable of assisting in the creation of an
   operational and revenue-producing commissary, the foundations for a
   sustainable touring network, and a university-to-industry pipeline.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: mei1C43QDXw
 project_areas:

@@ -78,7 +78,7 @@ Whom will your project benefit? Please be specific.: >-
   momentum from actions taken by others that will inspire new efforts by others.
   We want the participants to "own" the improvements and to inspire others to do
   their small part that will make an enormous contribution to the community.
-empty_column_1: '1'
+empty_column_1: ''
 maker_image_id: '21055'
 maker_image_file_name: Washington_Square.JPG
 project_areas:

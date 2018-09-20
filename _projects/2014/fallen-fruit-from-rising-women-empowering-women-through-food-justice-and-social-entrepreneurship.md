@@ -70,7 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In addition, we have active partnerships with the local Claremont community. Fred and Julianne Baumann generously donate fresh fruit from their 2.5 acre backyard on a weekly basis to create our jams. We have also established relationships with the Prison Library Project, Uncommon Good, and Randy Beckendam, the owner of Amy’s Farm, a social justice oriented farm. 
     
    There are several factors critical to the continued success of these collaborations. First, continued support from Scripps College is key. The collaboration with Scripps College has been institutionalized and made a core part of the curriculum and educational mission of the college, receiving significant funding from the office of the President. In addition, we rely on community involvement and fruit donations for our jams. Finally, Crossroads has made FFFRW part of their comprehensive reentry program and the core of their food justice initiative.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Ht0-3dSjCew
 project_areas:

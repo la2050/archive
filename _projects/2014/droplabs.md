@@ -199,7 +199,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    TheWrap.com
    
    We anticipate that there will be many more…
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21245'
 maker_image_file_name: slide-image-1.jpg

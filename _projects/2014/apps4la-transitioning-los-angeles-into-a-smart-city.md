@@ -64,7 +64,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Internships.com, Yair Riemer- Sponsor and supplier of quality interns.
    
    Dogtown Media- Marc Fischer, CEO, local mobile app developer and professor at Santa Monica college will be contracted to build the selected app projects.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Vv698CCwrt4
 project_areas:

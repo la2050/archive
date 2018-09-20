@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Molly Renda’s 30-year graphic design practice includes exhibit design, artists and scholars collaborations on site-specific installation, and environmental and wayfinding design. Currently the Exhibit Program Librarian at NC State University Libraries, she designs exhibits in traditional gallery spaces and technology-rich digital environments.
    
    Three critical factors for successful collaboration: shared vision statement for the Cultural Master Plan; experienced in working collaboratively with clearly defined roles and responsibilities, and ability and experience working with multiple stakeholders and agencies
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: fpGXBYHFZuE
 project_areas:

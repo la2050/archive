@@ -59,7 +59,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   implementing and maintaining the technology that drives the marketplace.
    
    In addition we will be tapping into our network of non-profit organizations across Los Angeles to help bring the apps to their respective Spanish speaking constituents such as Tia Chucha's Centro Cultural, MEND, Youth Speak Collective, and Guayaba Kitchen. Over the years Elusive Minds Productions has also developed relationships with Spanish language media outlets such as LATV Live, Mun2, and Telemundo.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

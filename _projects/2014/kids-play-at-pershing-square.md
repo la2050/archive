@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1. Steadfast committment from the Department of Recreation & Parks for this Project - the PAB was chartered by the Department, so we are integrally linked
    2. Open Communication between Department and PAB
    3. Community support and engagement
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20546'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg

@@ -86,7 +86,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Ability to recruit participants willing to produce artwork
    Ability to recruit Volunteers and staff for workshop prep, implementation and follow up
    Ability of Installation locations
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: dCvzeDvQtLY
 project_areas:

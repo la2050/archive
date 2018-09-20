@@ -85,7 +85,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   LAUSD, Malibu Boys and Girls Club.
    We have been in discussion with industry partners to help us purchase, customize and equip a new eco friendly digital media bus. We’ve had support of a leading production vehicle company as they supplied parking and maintenance support for our current vehicle since 2012. These potential partners bring expertise in designing production vehicles, state of the art video and editing equipment and software and entertainment professionals that mentor our students in the most current trends in the industry.
    What has made these collaborations work is our flexibility in programming (we customize the projects to fit the interests of that organization), our mobility to provide access to technology and a shared belief in the need to help all LA kids express their creativity as a way of strengthening communities.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

@@ -63,7 +63,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Additionally, in order for this festival to be a success, we must partner with local businesses. The Black Cat (a Los Angeles Historic-Cultural Monument) has donated use of its space, as well as the adjacent raw space, to QueerFest. Programming site-specific aspects of QueerFest in this hallowed and historically queer space is a significant centerpiece to the fest, and gives it weight. Mack Sennett Studios have donated stages for screenings and a Launch Event. The Eagle LA, Akbar, and Hyperion Tavern have offered to host historic events and interventions in their venues.
    
    We have also collaborated with the Mayor's Office to produce the LGBT Heritage Month Closing Night, and are working closely with many additional city offices to ensure this festival is safe and significant for the community.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21336'
 maker_image_file_name: QueerFest2014.jpg

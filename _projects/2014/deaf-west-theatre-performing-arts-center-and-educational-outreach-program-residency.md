@@ -107,7 +107,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    *NOTE - In the event that a DWT Residency at CSUN does not come to full fruition, the following schools known to have significant deaf / hard of hearing attendees and a popular sign language interpreter program on campus are: Pierce College, Santa Monica College, Pasadena City College, El Camino College and as their student population and sign language teachers are all in DWT's long-standing circle of friends, artists, audiences and some board members as well, we will likely find a residency at one of these L.A. County higher-education learning centers as an alternative. CSULA, UCLA, USC, and CalArts are other strong possibilities. There are also other non-profit theatres throughout the county that would benefit equally from a DWT residency under their auspices, sharing space and equipment (as DWT has with The Antaeus Company). 
    
    Until a residency agreement with any organization is finalized, our budget does not assume financial obligation (cash or in-kind) from any potential partner.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

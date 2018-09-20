@@ -95,7 +95,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    2. Putting in place an organizational infrastructure that establishes a shared set of values and practices; clarifies benefits and obligations of partners; implements a long-term strategic plan.
    
    3. Building in a broad-based sense of ownership and investment in the Studio: Leimert Park Village is a small area with limited resources; to meet the full scope of our ambitions, we will have to make Leimert a magnet for cultural education, training, and enrichment; and a center for creative innovation.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: _BC4Wfw6Gb4
 project_areas:

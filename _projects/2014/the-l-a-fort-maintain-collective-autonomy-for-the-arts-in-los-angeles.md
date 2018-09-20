@@ -53,7 +53,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Vibe Coach Industries - VCI is an all inclusive musician management company that holds it’s headquarters at The L.A. Fort. It often collaborates with members of The L.A. Fort to make music videos, stage sets, designs, and poster art. 
    
    Mister Psychedelia - MP is an event, design and sound team focusing their productions production in alternative, community music & arts events and festivals. They help produce all in house events at the L.A. Fort as well as provide education on producing event. They hold quarterly sound engineering workshops open to the public and members of the L.A. Fort.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22797'
 maker_image_file_name: 1836681_290007847815931_949505580_o(1).jpg

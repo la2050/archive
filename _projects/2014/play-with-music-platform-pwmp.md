@@ -9,7 +9,11 @@ organization_id: '2014095'
 year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/o1W8HEqylCg'
-Which area(s) of LA does your project benefit? Other (elaborate): |-
+Which area(s) of LA does your project benefit? Other (elaborate): >-
+  The year long pilot program will benefit kids & the community of South LA, but
+  our app based platform will benefit the entire Green Dot Network and then
+  hopefully all of LAUSD
+What is your idea/project in more detail?: |-
   We have a 3 phase plan!
    
    1) Introduction & development:
@@ -46,7 +50,7 @@ Which area(s) of LA does your project benefit? Other (elaborate): |-
    •Based on the above, build app and online platform to automate and scale PWMP
    •Provide Green Dot network & other under-funded schools with the new PWMP tablet app, to implement a full-scale test program.
    •Create opt-in teacher training program to help implement PWMP
-What is your idea/project in more detail?: >-
+What will you do to implement this idea/project?: >-
   By creating a platform that gives our students the skills to play with music,
   technology & each other, we’ll build the foundations of a truly creative
   generation in LA. 
@@ -62,7 +66,7 @@ What is your idea/project in more detail?: >-
    We want our kids in 2050 to be given (at least in their music classrooms) the tools to play & collaborate on positive creative projects, & be inspired by mentors that have succeeded in ways they admire. We want our students to then use these tools as a gateway to good jobs in LA.
    
    Music is not just an art form or a career path... at it’s core, it’s a platform for sharing, storytelling & playing together. That’s why music has almost always been at the heart of our communities. If every school in LA participated by 2050, our virtual music network would bridge socio-economic and physical distances, foster connection, & unite students across the city through creative play. Not only would this nourish our economy, but contribute significantly to a safer, more equitable and vibrant city.
-What will you do to implement this idea/project?: >-
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   First, it’ll benefit Locke students, teachers & the Watts community.
   Post-pilot, it’ll grow to impact students & educators across LA, and
   eventually, any school with internet access.
@@ -82,7 +86,7 @@ What will you do to implement this idea/project?: >-
    Our response: create a platform that’s as compelling & fun as it is relevant & useful. We want to build communities & economies by inspiring kids. There’s no lack of opportunity - LA employs more artists than any other city in the U.S., with a sector that consists of nearly 1 million direct & indirect jobs. By 2016, these numbers are projected to grow; for example, we’ll have 14% more sound engineers (earning $59,470/year on average).
    
    When we foster creative platforms & programs, we prepare LA kids for these jobs, creating generations of sustainable communities. Laying these foundations will benefit all of LA by 2050.
-How will your idea/project help make LA the best place to connect today? In LA2050?: >-
+Whom will your project benefit? Please be specific.: >-
   Our confirmed partners are Green Dot Public Schools, No Right Brain Left
   Behind (NRBLB) & CalArts Community Arts Partnership (CAP).
     
@@ -97,7 +101,6 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We also hope to attract participation from famous musicians, and inspire students with an opportunity to be in a “virtual band” with them. We’ll lean on our entire professional & personal network to achieve this goal.
     
    Finally, we have relationships with many socially conscious local tech firms, including Pull Creative,100 Years, Ludlow Kingsley & Arts of Olympus, who are all on board to help. Together we will create the most impactful program and platform possible.
-Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: o1W8HEqylCg
 project_areas:

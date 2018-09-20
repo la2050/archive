@@ -61,7 +61,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3D Systems: 3D Systems is a top 3D Printing company that has teamed up with will.i.am on creative innovation. They will be providing 3D printers to all i.am.angel program spaces in Boyle Heights. 
    
    General Assembly: General Assembly is an ed tech company that has been great supporters of our Hack for LA hackathons, and we'd love to team up with them to provide high-tech skills training such as web and app development to Boyle Heights residents. i.am.angel plans to subsidize the cost of these workshops in order to make classes more affordable for the Boyle Heights community.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: uVV1_WmFT9o
 project_areas:

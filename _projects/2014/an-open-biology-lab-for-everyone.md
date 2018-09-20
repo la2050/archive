@@ -11,6 +11,14 @@ project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22859%252Fdisplay%252Fla_biohackers__LA2050_570_345_copy2.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
+  Los Angeles Biohackers is an organization that has built an open community
+  laboratory and meeting space focused on helping people of all ages and
+  education levels gain access to advanced biological equipment and expertise.
+   
+   In generations past, kids turned to creative toys such as Lego and Erector Set. But recently kids have been adopting more advanced toys such as Arduinos and Raspberry Pis. We want to take this further and introduce more young people to biotech as a hobby.
+   
+   We will expand our current ability to serve the community with more space and more tools for kids and adults alike to learn and have fun together.
+What is your idea/project in more detail?: >-
   While kids of the past may have tinkered with Lego or Erector Set, kids of
   today tinker with electronics. As a result of the miniaturization and
   decreasing cost of manufacturing, electronics today are more accessible to
@@ -21,12 +29,12 @@ Which area(s) of LA does your project benefit? Other (elaborate): >-
    Biotech is currently undergoing the same revolution in price and accessibility. While practicing biotech as a hobby is not quite as affordable as electronics, progress is being made and lots of young people are getting involved. We envision a future where kids in LA are just as likely to pick up a pipette as they are a soldering iron. Playing with biology will be as common place as playing with electronics.
    
    LA Biohackers will make this dream a reality before 2050 by getting young people access to laboratory space and advanced biotech equipment in addition to knowledge and guidance. We are currently making this happen but with help we can expand our breadth and scope to include more people of all ages.
-What is your idea/project in more detail?: >-
+What will you do to implement this idea/project?: >-
   Our project will benefit anyone in Los Angeles that is interested in biology
   and biotech. Our laboratory is not limited by age or earned degrees. Anyone
   who can demonstrate the ability to follow safety guidelines can have fun in
   our space.
-What will you do to implement this idea/project?: >-
+How will your idea/project help make LA the best place to connect today? In LA2050?: >-
   LA Biohackers has recently been working closely with LabLaunch, another
   organization submitting a proposal to LA2050 (confirmed, please see their
   proposal). We plan on moving in to their facility and becoming the first
@@ -37,7 +45,6 @@ What will you do to implement this idea/project?: >-
    LA Biohackers benefits from this relationship by gaining access to discounted space that is amenable to hosting a biology lab as well as access to some of their resources. LabLaunch benefits by having a source of new companies to feed into their incubator. And we both benefit from the cross pollination of ideas and technical knowledge between the two groups.
    
    Factors that are critical to our success are 1) having a paid employee to work and communicate closely with LabLaunch 2) negotiating a deal that is doable with LA Biohackers’ budget but also compensates LabLaunch appropriately, and 3) working with local universities to get projects from the university into the pre-incubator program.
-How will your idea/project help make LA the best place to connect today? In LA2050?: '1'
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22859'

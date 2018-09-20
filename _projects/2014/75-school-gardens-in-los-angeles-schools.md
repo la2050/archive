@@ -49,7 +49,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   People, and more. EnrichLA is open to new and continuing partnerships as we
   hope to partner with like-minded organizations concerned with offering edible
   education and green spaces to local students.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 3CNwJdOyIDQ
 project_areas:

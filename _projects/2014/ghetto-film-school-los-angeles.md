@@ -89,7 +89,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    
    LA FILM INDUSTRY
    Collaboration with 21st Century Fox, along with other LA based film studios and partners in the film industry, is essential to the success of GFS LA. GFS LA students will participate in regular site visits to studio lots, development offices and post houses, weekly trips to top LA cinemas, museums and art galleries, and an international production trip during the annual GFS LA Thesis Project.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21361'
 maker_image_file_name: GFS_PHOTO_1.png
