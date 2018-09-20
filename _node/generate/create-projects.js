@@ -263,7 +263,8 @@ function addProjectAnswers(data) {
     let project = markdownProjectsLookup[data.title]
     if (project) {
       projectAnswers.forEach(answer => {
-        if (project[answer] && !data[answer]) {
+        // if (project[answer] && !data[answer]) {
+        if (project[answer]) {
           data[answer] = project[answer]
         }
       })
@@ -657,6 +658,7 @@ markdownProjects.forEach(project => {
 
 
 generateAllCollections('projects-2018.csv', 2018)
+generateAllCollections('projects-2016.csv', 2016)
 generateAllCollections('projects-2015.csv', 2015)
 generateAllCollections('projects-2014.csv', 2014)
 generateAllCollections('projects-2013.csv', 2013)
