@@ -215,7 +215,7 @@ text-align: left;
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
 
-<h2 id="tags-title" style="display: none; max-width: none; text-align: center;"></h2>
+<h2 id="tags-title" style="display: none; max-width: none; text-align: center; color: var(--primary-color)"></h2>
 
 
 {% assign data_collection = site.collections | where: "label", "organizations" | first %}
@@ -241,7 +241,19 @@ text-align: left;
 
   {% if page.is_search_results %}<script type="text/template">{% endif %}
 
-  <li class="{{ data.category }}" data-tags="{{ data['tags_indicators'] | join: "," }}">
+  {% assign categories = "learn, create, play, connect, live" | split: ", " %}
+  {% assign data_category = "" %}
+  {% for tag in data.tags_indicators %}
+    {% for category in categories %}
+      {% for parentTag in site.data.tags_categories[category] %}
+        {% if tag == parentTag %}
+          {% assign data_category = category %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endfor %}
+
+  <li class="{{ data_category }}" data-tags="{{ data['tags_indicators'] | join: "," }}">
     <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
@@ -325,15 +337,17 @@ text-align: left;
 
 
 <script>
-(function() {
-  function containsAnyKeyword(keywordList, string) {
-    // console.log("string: " + string)
-    string = string.toLowerCase()
-    for (var index = 0; index < keywordList.length; index++) {
-      if (string.indexOf(keywordList[index].toLowerCase()) >= 0) return true
-    }
-    return false
+
+function containsAnyKeyword(keywordList, string) {
+  // console.log("string: " + string)
+  string = string.toLowerCase()
+  for (var index = 0; index < keywordList.length; index++) {
+    if (string.indexOf(keywordList[index].toLowerCase()) >= 0) return true
   }
+  return false
+}
+
+function addCategoryColor(tag) {
 
   // var keywords = {
   //   "learn"   : ["educ", "mentor", "train", "teach", "tutor", "career", "finan", "veteran", "vitality: innovation"],
@@ -345,32 +359,31 @@ text-align: left;
 
   var keywords = {{ site.data.tags_categories | jsonify }}
 
-  console.dir(keywords);
+  if (containsAnyKeyword(keywords.learn, tag.textContent)) {
+    tag.classList.add("blueberry");
+  }
+  else if (containsAnyKeyword(keywords.create, tag.textContent)) {
+    tag.classList.add("banana");
+  }
+  else if (containsAnyKeyword(keywords.play, tag.textContent)) {
+    tag.classList.add("strawberry");
+  }
+  else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
+    tag.classList.add("tangerine");
+  }
+  else if (containsAnyKeyword(keywords.live, tag.textContent)) {
+    tag.classList.add("lime");
+  }
+}
 
+(function() {
   var tags = document.querySelectorAll(".tags li");
   if (tags && tags.length > 0) {
-    tags.forEach(function(tag) {
-      if (containsAnyKeyword(keywords.learn, tag.textContent)) {
-        tag.classList.add("blueberry");
-      }
-      else if (containsAnyKeyword(keywords.create, tag.textContent)) {
-        tag.classList.add("banana");
-      }
-      else if (containsAnyKeyword(keywords.play, tag.textContent)) {
-        tag.classList.add("strawberry");
-      }
-      else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
-        tag.classList.add("tangerine");
-      }
-      else if (containsAnyKeyword(keywords.live, tag.textContent)) {
-        tag.classList.add("lime");
-      }
-    })
+    tags.forEach(addCategoryColor)
   }
 })()
 </script>
 {% endif %}
-
 
 
 
@@ -411,6 +424,8 @@ text-align: left;
   if (tagsTitle && searchByTags) {
     tagsTitle.style.display = "block";
     tagsTitle.textContent = searchByTags;
+    addCategoryColor(tagsTitle);
+    document.body.className = tagsTitle.className;
   }
 
   // TEMPORARY: Show all projects if keywords are absent

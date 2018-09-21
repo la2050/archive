@@ -6,7 +6,35 @@ stylesheets:
   - "/assets/css/project.css"
 ---
 
-{% case page.category %}
+
+{% assign data_collection = site.collections | where: "label", "projects" | first %}
+{% assign project_list = "" | split: "," %}
+
+{% for item in data_collection.docs %}
+  {% if item.organization_id == page.organization_id %}
+    {% assign project_list = project_list | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% if project_list.size > 0 %}
+{% assign project_list = project_list | sort: "year_submitted" | reverse %}
+{% assign first_project_url = project_list[0].url %}
+{% endif %}
+
+
+{% assign categories = "learn, create, play, connect, live" | split: ", " %}
+{% assign data_category = "" %}
+{% for tag in page.tags_indicators %}
+  {% for category in categories %}
+    {% for parentTag in site.data.tags_categories[category] %}
+      {% if tag == parentTag %}
+        {% assign data_category = category %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
+
+{% case data_category %}
   {% when 'learn' %}
      {% assign primary_color = "blueberry" %}
   {% when 'create' %}
@@ -20,6 +48,7 @@ stylesheets:
   {% else %}
      {% assign primary_color = "strawberry" %}
 {% endcase %}
+
 
 <script>
 document.body.classList.remove("strawberry")
@@ -98,7 +127,7 @@ document.body.classList.add("{{ primary_color }}")
 
 <figure class="feature has-image">
   <div data-aspect-ratio="1280/720">
-    <a href="{{ page.challenge_url }}">
+    <a href="{{ first_project_url }}">
       <img src="{{ page.project_image }}" alt="{{ page.title }}" width="500" />
     </a>
   </div>
@@ -115,7 +144,7 @@ document.body.classList.add("{{ primary_color }}")
 <p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.org_type }}</p>
 
 {% capture link_to_more %}
-… <a href="{{ page.challenge_url }}">Learn More</a>
+… <a href="{{ first_project_url }}">Learn More</a>
 {% endcapture %}
 <p style="margin-bottom: 0">
   {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
@@ -352,30 +381,14 @@ document.body.classList.add("{{ primary_color }}")
 {% endif %}
 
 
-{% assign data_collection = site.collections | where: "label", "projects" | first %}
-{% assign project_list = "" | split: "," %}
-
-
-{% for item in data_collection.docs %}
-  {% if item.organization_id == page.organization_id %}
-    {% assign project_list = project_list | push: item %}
-  {% endif %}
-{% endfor %}
-
-
-
 
 {% if project_list.size > 0 %}
-
 
 <h2 style="text-align: left; justify-self: start; max-width: none;
 text-transform: uppercase;
 font-weight: 600;
 letter-spacing: 0.05em; color: rgb(41, 41, 41) !important; 
 font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
-
-
-{% assign project_list = project_list | sort: "year_submitted" | reverse %}
 
 {% for project in project_list %}
 
@@ -763,49 +776,55 @@ line-height: 1;">Find similar organizations</h2>
     {% endif %}
   {% endfor %}
   {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 10 | plus: 1 %}
-  <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+  <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
 </details>
 
+
 <script>
+function containsAnyKeyword(keywordList, string) {
+  // console.log("string: " + string)
+  string = string.toLowerCase()
+  for (var index = 0; index < keywordList.length; index++) {
+    if (string.indexOf(keywordList[index].toLowerCase()) >= 0) return true
+  }
+  return false
+}
+
+function addCategoryColor(tag) {
+
+  // var keywords = {
+  //   "learn"   : ["educ", "mentor", "train", "teach", "tutor", "career", "finan", "veteran", "vitality: innovation"],
+  //   "create"  : ["creat", "tech", "kids", "children", "youth", "science", "busi"],
+  //   "play"    : ["play"],
+  //   "connect" : ["women", "hous", "home", "finan", "entre", "sustain", "volunt", "employ"],
+  //   "live"    : ["crime", "food", "health", "green", "safety", "poverty", "space"]
+  // }
+
+  var keywords = {{ site.data.tags_categories | jsonify }}
+
+  if (containsAnyKeyword(keywords.learn, tag.textContent)) {
+    tag.classList.add("blueberry");
+  }
+  else if (containsAnyKeyword(keywords.create, tag.textContent)) {
+    tag.classList.add("banana");
+  }
+  else if (containsAnyKeyword(keywords.play, tag.textContent)) {
+    tag.classList.add("strawberry");
+  }
+  else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
+    tag.classList.add("tangerine");
+  }
+  else if (containsAnyKeyword(keywords.live, tag.textContent)) {
+    tag.classList.add("lime");
+  }
+}
+
 (function() {
-  function containsAnyKeyword(keywordList, string) {
-    console.log("string: " + string)
-    string = string.toLowerCase()
-    for (var index = 0; index < keywordList.length; index++) {
-      if (string.indexOf(keywordList[index]) >= 0) return true
-    }
-    return false
-  }
-
-  var keywords = {
-    "learn"   : ["educ", "mentor", "train", "teach", "tutor", "career", "finan", "veteran", "vitality: innovation"],
-    "create"  : ["creat", "tech", "kids", "children", "youth", "science", "busi"],
-    "play"    : ["play"],
-    "connect" : ["women", "hous", "home", "finan", "entre", "sustain", "volunt", "employ"],
-    "live"    : ["crime", "food", "health", "green", "safety", "poverty", "space"]
-  }
-
   var tags = document.querySelectorAll(".tags li");
   if (tags && tags.length > 0) {
-    tags.forEach(function(tag) {
-      if (containsAnyKeyword(keywords.learn, tag.textContent)) {
-        tag.classList.add("blueberry");
-      }
-      else if (containsAnyKeyword(keywords.create, tag.textContent)) {
-        tag.classList.add("banana");
-      }
-      else if (containsAnyKeyword(keywords.play, tag.textContent)) {
-        tag.classList.add("strawberry");
-      }
-      else if (containsAnyKeyword(keywords.connect, tag.textContent)) {
-        tag.classList.add("tangerine");
-      }
-      else if (containsAnyKeyword(keywords.live, tag.textContent)) {
-        tag.classList.add("lime");
-      }
-    })
+    tags.forEach(addCategoryColor)
   }
 })()
 </script>
