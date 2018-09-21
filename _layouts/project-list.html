@@ -304,14 +304,19 @@ text-align: left;
 </summary>
 <ul class="action">
 {% for tag in unique_tags %}
-  {% assign tag_count = 0 %}
-  {% for tag_for_counting in tags %}
-    {% if tag_for_counting == tag %}
-      {% assign tag_count = tag_count | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 2 | plus: 1 %}
-  <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+
+  {% if site.data.tags[tag] %}
+    {% assign tag_count = 0 %}
+    {% for tag_for_counting in tags %}
+      {% if tag_for_counting == tag %}
+        {% assign tag_count = tag_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 2 | plus: 1 %}
+    <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+  {% endif %}
+
 {% endfor %}
 </ul>
 </details>
@@ -325,18 +330,22 @@ text-align: left;
     // console.log("string: " + string)
     string = string.toLowerCase()
     for (var index = 0; index < keywordList.length; index++) {
-      if (string.indexOf(keywordList[index]) >= 0) return true
+      if (string.indexOf(keywordList[index].toLowerCase()) >= 0) return true
     }
     return false
   }
 
-  var keywords = {
-    "learn"   : ["educ", "mentor", "train", "teach", "tutor", "career", "finan", "veteran", "vitality: innovation"],
-    "create"  : ["creat", "tech", "kids", "children", "youth", "science", "busi"],
-    "play"    : ["play"],
-    "connect" : ["women", "hous", "home", "finan", "entre", "sustain", "volunt", "employ"],
-    "live"    : ["crime", "food", "health", "green", "safety", "poverty", "space"]
-  }
+  // var keywords = {
+  //   "learn"   : ["educ", "mentor", "train", "teach", "tutor", "career", "finan", "veteran", "vitality: innovation"],
+  //   "create"  : ["creat", "tech", "kids", "children", "youth", "science", "busi"],
+  //   "play"    : ["play"],
+  //   "connect" : ["women", "hous", "home", "finan", "entre", "sustain", "volunt", "employ"],
+  //   "live"    : ["crime", "food", "health", "green", "safety", "poverty", "space"]
+  // }
+
+  var keywords = {{ site.data.tags_categories | jsonify }}
+
+  console.dir(keywords);
 
   var tags = document.querySelectorAll(".tags li");
   if (tags && tags.length > 0) {
