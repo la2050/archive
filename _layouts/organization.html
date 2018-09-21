@@ -143,12 +143,24 @@ document.body.classList.add("{{ primary_color }}")
 
 <p style="font-style: italic; font-size: 0.875em; font-weight: 500;">{{ page.org_type }}</p>
 
+{% comment %}
 {% capture link_to_more %}
 … <a href="{{ first_project_url }}">Learn More</a>
 {% endcapture %}
 <p style="margin-bottom: 0">
   {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
 </p>
+{% endcomment %}
+
+{% if page.org_summary contains "<p>" %}
+<div>
+  {{ page.org_summary }}
+</div>
+{% else %}
+<p style="margin-bottom: 0">
+  {{ page.org_summary }}
+</p>
+{% endif %}
 
 
 {% if page.link_donate and page.link_donate != '' %}
