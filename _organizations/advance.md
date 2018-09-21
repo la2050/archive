@@ -10,6 +10,7 @@ ntee_type: ''
 tags_indicators:
   - Access to capital & benefits
   - Entrepreneurship & innovation
+  - Income & employment
 twitter: ''
 instagram: ''
 facebook: ''

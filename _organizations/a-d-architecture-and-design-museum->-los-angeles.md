@@ -11,6 +11,8 @@ ntee_type: ''
 tags_indicators:
   - Art
   - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

@@ -11,6 +11,8 @@ ntee_type: ''
 tags_indicators:
   - Art
   - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 twitter: ''
 instagram: ''
 facebook: ''

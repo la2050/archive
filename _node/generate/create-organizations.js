@@ -176,7 +176,7 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   }
 
   function simplify(tag) {
-    return tag.replace("\r", "").replace(/[0-9][0-9]\s/g, "")
+    return tag.replace("\r", "").replace(/[0-9][0-9]\s/g, "").replace(/ and /g, " & ")
   }
 
   if (organizationTagsLookup[data.organization_id] && 
@@ -192,6 +192,14 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     if (hasValue(organizationTagsLookup[data.organization_id].tag_2)) {
       data.tags_indicators.push(simplify(organizationTagsLookup[data.organization_id].tag_2))
     }
+
+    data.tags_indicators.forEach(tag => {
+      if (parentTags[tag]) {
+        if (!data.tags_indicators.includes(parentTags[tag])) {
+          data.tags_indicators.push(parentTags[tag])
+        }
+      }
+    })
   } else {
     delete data.tags_indicators
   }
@@ -361,7 +369,19 @@ organizationTags.forEach(tag => {
 })
 
 
+// Get document, or throw exception on error
+let parentTagsData = yaml.safeLoad(fs.readFileSync('../_data/tags.yaml', 'utf8'));
+console.dir(parentTagsData)
 
+let parentTags = {}
+for (let prop in parentTagsData) {
+  if (parentTagsData.hasOwnProperty(prop)) {
+    parentTagsData[prop].forEach(childTag => {
+      parentTags[childTag] = prop
+    })
+  }
+}
+console.dir(parentTags)
 
 generateAllCollections('organizations-2013-2018.csv', 
                        'maker-projects.csv',
