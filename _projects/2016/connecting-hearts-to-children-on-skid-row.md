@@ -21,7 +21,10 @@ project_summary: >-
   shelters throughout Los Angeles.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas: '["Central LA","San Fernando Valley","Westside"]'
+project_areas:
+  - Central LA
+  - San Fernando Valley
+  - Westside
 project_measure: |-
   Success will be defined as follows:
   1) The smiles on the faces of the children attending the birthday party
@@ -35,10 +38,13 @@ project_measure: |-
   3) Increased viewers on social media
   4) Increased requests for newsletter
   5) Increased staffing
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board
-  members","Publicity/awareness","Community outreach ","Network/relationship
-  support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   The number of children in LA experiencing homelessness has increased. Worthy
   of Loves reaches to lift their souls and spirits by celebrating their
@@ -69,6 +75,17 @@ project_proposal_best_place: >-
   demonstrates Los Angeles as being the 'City of Angels'.
 challenge_url: 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  The number of children in LA experiencing homelessness has increased. Worthy
+  of Loves reaches to lift their souls and spirits by celebrating their
+  birthdays. We have witnessed the happiness given to hundreds of children and
+  their families while attending a Worthy of Love birthday party and are
+  compelled to expand the parties to additional locations.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+category: connect
+body_class: tangerine
 
 ---

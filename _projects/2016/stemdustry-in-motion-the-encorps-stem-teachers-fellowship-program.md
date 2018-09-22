@@ -21,9 +21,14 @@ project_summary: >-
   outstanding STEM professionals into public education.
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas: '["County of Los Angeles"]'
+project_areas:
+  - County of Los Angeles
 project_measure: "We will measure our success by surveying students, partner sites and EnCorps Fellows:\n\nStudents will agree that EnCorps Fellows made them:\n-More aware of STEM career opportunities 85%\n-More interested in STEM 80%\n-STEM grades Improved 70%\n-Understand relevance of STEM better 85%\n\nPlacement sites will agree that EnCorps Fellows:\n-Increase student excitement 90%\n-Increase student achievement 95%\n-Increase student understanding of real-world connections 90%\n-are as effective as other tutors 85%\n-make differentiation easier\t80%\n\nEnCorps Fellows will agree that:\n-they are satisfied with the EnCorps Fellowship 90%\n-they are satisfied with overall support 95%"
-project_proposal_help: '["Money ","Volunteers","Advisors/board members","Publicity/awareness"]'
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
 project_description: >-
   The objectives of the EnCorps STEM Teachers: Translators of Math and Science
   in the Classroom are as follows:
@@ -93,6 +98,23 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  The objectives of the EnCorps STEM Teachers: Translators of Math and Science
+  in the Classroom are as follows:
+
+
+  *Increase the number of qualified STEM teachers and tutors who serve high need
+  public and charter schools in Southern California
+
+  *Increase disadvantaged students' access to a first-rate STEM education that
+  shows the real-world application of math and science
+
+  *Increase under­represented populations in STEM professions
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Student education pipeline
+category: learn
+body_class: blueberry
 
 ---

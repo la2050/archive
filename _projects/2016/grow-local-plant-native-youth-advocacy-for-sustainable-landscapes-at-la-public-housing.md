@@ -25,7 +25,8 @@ project_is_collaboration: 'Yes'
 project_collaborators: >-
   Housing Authority of the City of Los Angeles and Boys & Girls Clubs of the Los
   Angeles Harbor – POLA
-project_areas: '["South Bay"]'
+project_areas:
+  - South Bay
 project_measure: >-
   Objective: Train Rancho San Pedro staff 
 
@@ -69,10 +70,16 @@ project_measure: >-
 
   •  Success: observation of increased outdoor leisure-time activity by
   residents
-project_proposal_help: >-
-  ["Money ","Volunteers","Staff ","Publicity/awareness","Infrastructure
-  (building/space/vehicles","Education/training ","Technical infrastructure
-  (computers","Community outreach ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   By bringing beautiful and sustainable native plant landscapes to Los Angeles
   public housing, Grow Local: Plant Native will engage residents and staff in
@@ -170,6 +177,21 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  By bringing beautiful and sustainable native plant landscapes to Los Angeles
+  public housing, Grow Local: Plant Native will engage residents and staff in
+  making long-term decisions about the future of LA and their own lives. Public
+  housing staff will design and install native plant gardens. Youth will be
+  hired to learn about native plant horticulture and communications strategies
+  in order to create a marketing campaign to shape their communities future.
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Walk/bike/transit score
+category: live
+body_class: lime
 
 ---

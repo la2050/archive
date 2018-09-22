@@ -22,7 +22,11 @@ project_summary: >-
   leadership and life skills enhancement
 project_is_collaboration: 'Yes'
 project_collaborators: 'Dorsey High School, Jim Gilliam Recreation Center'
-project_areas: '["South LA","City of Los Angeles","LAUSD","Baldwin Village ''The Jungles''"]'
+project_areas:
+  - South LA
+  - City of Los Angeles
+  - LAUSD
+  - Baldwin Village 'The Jungles'
 project_measure: >-
   Our first measure of success is our waiting list of over 50 students who are
   referred to our program from their friends and classmates.
@@ -64,10 +68,14 @@ project_measure: >-
   Youth Testimonial, “I like this program it gives you a lot of opportunity.
   Also, I like how we communicate and are open to many ideas. Last year I met
   Mayor Eric Garcetti through this program and it was a great experience.” Dayja
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Infrastructure
-  (building/space/vehicles etc.)","Technical infrastructure (computers
-  etc.)","Network/relationship support","Quality improvement research"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - Network/relationship support
+  - Quality improvement research
 project_description: >-
   In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
   the south Los Angeles community, we provide self-esteem building, individual
@@ -140,6 +148,22 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  In collaboration with Dorsey high school and Jim Gilliam Recreation center; in
+  the south Los Angeles community, we provide self-esteem building, individual
+  and community goal setting, professional development, along with community
+  projects as civic leadership and cultural arts    to encourage academic and
+  community success. Upon graduating from our programs, we will place youth in
+  internships that match their field of interest, while connecting youth to
+  networking relationships and mentors.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
+category: learn
+body_class: blueberry
 
 ---

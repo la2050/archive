@@ -21,7 +21,8 @@ project_summary: >-
   #buildbettercities.
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas: '["County of Los Angeles"]'
+project_areas:
+  - County of Los Angeles
 project_measure: >-
   We will consider The Burg a success if we accomplish the following:
 
@@ -48,12 +49,18 @@ project_measure: >-
   give us a measure of the success of The Burg.   Furthermore, by requiring
   users to register to vote or verify their status to access The Burg, we aim to
   directly increase voter registration.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Education/training ","Technical infrastructure (computers
-  etc.)","Community outreach ","Network/relationship support","Quality
-  improvement research"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 project_description: >-
   The Burg is an online platform that will make it easy for individuals to
   address the local issues of their community in real time. The Burg will
@@ -121,6 +128,22 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  The Burg is an online platform that will make it easy for individuals to
+  address the local issues of their community in real time. The Burg will
+  connect members of a district and allow them to communicate directly through
+  collective expression (i.e. petitions, campaigns, public service projects). By
+  creating a private space dedicated to informing and organizing members of a
+  community, the Burg will connect LA residents and cultivate civic engagement
+  in a truly innovative way.
+project_proposal_impact:
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
+category: connect
+body_class: tangerine
 
 ---

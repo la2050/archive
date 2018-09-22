@@ -20,7 +20,8 @@ project_summary: >-
   concept of artists supporting artists.
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas: '["Central LA"]'
+project_areas:
+  - Central LA
 project_measure: >-
   PSSST will consider our project successful if we:
 
@@ -61,9 +62,12 @@ project_measure: >-
 
 
   -Grow our Board of Directors by 30%
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Community outreach
-  ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   PSSST will cultivate and amplify Los Angeles’ role as an international arts
   center by expanding our 2017 interdisciplinary programming that includes: LA
@@ -134,6 +138,23 @@ project_proposal_best_place: >-
   project.
 challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  PSSST will cultivate and amplify Los Angeles’ role as an international arts
+  center by expanding our 2017 interdisciplinary programming that includes: LA
+  Artist Residency, Inter/National Residency, Young Artist Fellowship, Community
+  Conversations, Crit Club, exhibitions and performances, film screenings,
+  lectures, and live music. Our 2017 programming, driven by the concept of
+  artists supporting artists, will present 80 underrepresented artists at 50
+  events for more than 5000 audiences.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+category: create
+body_class: banana
 
 ---

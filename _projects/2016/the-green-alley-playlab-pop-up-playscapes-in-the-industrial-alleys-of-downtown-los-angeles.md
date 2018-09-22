@@ -29,7 +29,9 @@ project_collaborators: >-
   USC Dept. of Architecture and Spatial Sciences   Institute, USC Dept. of
   Occupational Therapy and Affiliates, Green Octopus Consulting, Richard Lerman,
   Sound Artist/Professor, Sound, Media & Digital Arts, Arizona State University
-project_areas: '["Central LA","East LA"]'
+project_areas:
+  - Central LA
+  - East LA
 project_measure: >-
   The following metrics will be used:
 
@@ -62,9 +64,13 @@ project_measure: >-
   outside visitor attendance, active participation by attendees and solid
   responsiveness by developers and City Agencies to take these projects to the
   next level of permanence.
-project_proposal_help: >-
-  ["Money ","Volunteers","Publicity/awareness","Community outreach
-  ","Network/relationship support","Quality improvement research"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 project_description: >-
   Through the Green Alley PLAYlab we will temporarily transform a series of
   industrial alleys into playful public landscapes for the community. We
@@ -129,6 +135,20 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
 empty_column_1: ''
+project_proposal_description: >-
+  Through the Green Alley PLAYlab we will temporarily transform a series of
+  industrial alleys into playful public landscapes for the community. We
+  envision these landscapes as labs for sensory driven experiments created by
+  our collaborators who specialize in: healthcare, art, ecology and business
+  development. This new model for community engagement builds momentum towards
+  our ultimate goal of a green alley trail system that prioritizes human,
+  ecological and economic health.
+project_proposal_impact:
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Perceived safety
+category: play
 body_class: strawberry
 
 ---

@@ -21,7 +21,11 @@ project_summary: >-
   and play in their city.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas: '["Central LA","East LA","South LA","Westside"]'
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
 project_measure: >-
   The success of our work will be measured by our ability to make progress
   toward our expected outcomes. Included below are our two desired outcomes: 
@@ -49,11 +53,15 @@ project_measure: >-
   We will conduct surveys and interviews with runners, parents, and community
   members to help grade the effectiveness of our Project 4242, Happy Birthday
   L.A. 5K, weekly runs, and safety
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board
-  members","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Community outreach ","Network/relationship support","Quality
-  improvement research"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 project_description: >-
   PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
   will provide 100+ opportunities for Angelenos get active and play in their
@@ -130,6 +138,22 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/blacklistla-on-the-playground-where-we-spent-most-of-our-days
 empty_column_1: ''
+project_proposal_description: >-
+  PLAY doesn’t end with childhood; adults need recess, too! In 2017, BlacklistLA
+  will provide 100+ opportunities for Angelenos get active and play in their
+  city with diverse programming on physical fitness, runner safety, local
+  running events, public art and community building. Our team of volunteers will
+  offer unique running experiences that integrate landmarks, public art, parks,
+  Metro stations and Los Angeles’ Great Streets as vital spaces for movement,
+  connection and community building.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Per capita crime rates
+  - Perceived safety
+category: play
 body_class: strawberry
 
 ---

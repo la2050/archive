@@ -21,7 +21,10 @@ project_summary: >-
   LA and the SGV; let's change that for good!
 project_is_collaboration: 'No'
 project_collaborators: None.
-project_areas: '["East LA","San Gabriel Valley","N/A"]'
+project_areas:
+  - East LA
+  - San Gabriel Valley
+  - N/A
 project_measure: >-
   Success means offering nPEP/PrEP services at our four health centers in a
   manner that is sustainable, efficient, culturally competent, and serves and
@@ -50,10 +53,16 @@ project_measure: >-
   the activities of this project will be undertaken by staff in both our Patient
   Services and External Affairs Departments and implemented at all our health
   centers as well as in the community at large.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Education/training ","Community outreach
-  ","Network/relationship support","Advocacy to elected officials"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
+  - Advocacy to elected officials
 project_description: >-
   PrEP protects and empowers men who have sex with men and dismantles the sexual
   stigma and shame that still lingers today. But for many Angelenos, PrEP costs
@@ -114,6 +123,17 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  PrEP protects and empowers men who have sex with men and dismantles the sexual
+  stigma and shame that still lingers today. But for many Angelenos, PrEP costs
+  at least $1,500/year and can be hard to access beyond metro LA. We believe
+  everybody deserves first-rate sexual health care--no matter what. PPPSGV aims
+  to be the first health centers in northeast LA and the San Gabriel Valley to
+  offer sliding-scale PrEP, with the end-goal being to help 960 new patients per
+  year stay healthy and HIV-free.
+project_proposal_impact:
+  - Healthcare access
+category: live
+body_class: lime
 
 ---

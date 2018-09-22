@@ -22,7 +22,8 @@ project_summary: >-
   formerly incarcerated individuals by expanding its transitional jobs program.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas: '["City of Los Angeles"]'
+project_areas:
+  - City of Los Angeles
 project_measure: >-
   A steady job is a key step to a person’s transition out of poverty and onto a
   pathway to self-sufficiency. For this project, we define success as helping
@@ -47,10 +48,15 @@ project_measure: >-
   achieve our goals. We will continue to work closely with all of our partners
   in the reentry community to track unemployment among formerly incarcerated
   people, as reducing that is our ultimate goal.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Education/training ","Technical infrastructure (computers etc.)"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
 project_description: >-
   Chrysalis is the leading organization in L.A. focused on helping formerly
   incarcerated individuals attain self-sufficiency through work.  Each year,
@@ -113,6 +119,19 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Chrysalis is the leading organization in L.A. focused on helping formerly
+  incarcerated individuals attain self-sufficiency through work.  Each year,
+  through classes, supportive services, and our social enterprise “Chrysalis
+  Enterprises” (CE), we provide comprehensive job readiness training and
+  employment for over 600 participants in transitional jobs. We offer these
+  motivated individuals, 73% of whom have a criminal background, a second chance
+  in life when they need it most.
+project_proposal_impact:
+  - Gini coefficient
+  - Jobs per capita
+  - Unemployment (and opportunities) for the formerly incarcerated
+category: create
+body_class: banana
 
 ---

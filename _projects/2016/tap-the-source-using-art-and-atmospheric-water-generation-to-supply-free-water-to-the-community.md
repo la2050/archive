@@ -22,14 +22,18 @@ project_summary: >-
   installation, creating an urban drinking fountain
 project_is_collaboration: 'Yes'
 project_collaborators: Island Sky
-project_areas: '["South LA"]'
+project_areas:
+  - South LA
 project_measure: >-
   Our measure of success is simply if the urban well is put to good use. Our
   mission will be complete if the community uses this pure drinking water to
   enrich themselves and also reduce demand on municipal supplies. We also hope
   that this installation inspires people of the community to ask questions, and
   become educated about the drought and the potential technological solutions.
-project_proposal_help: '["Money ","Publicity/awareness","Community outreach"]'
+project_proposal_help:
+  - 'Money '
+  - Publicity/awareness
+  - Community outreach
 project_description: >-
   Our goal is to use the prize money in order to help facilitate the creation of
   urban wells in communities with limited or compromised water supply. We plan
@@ -67,6 +71,18 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Our goal is to use the prize money in order to help facilitate the creation of
+  urban wells in communities with limited or compromised water supply. We plan
+  to create an art installation surrounding the well in order to inspire the
+  community to learn about the issues we are facing in the current drought, and
+  how atmospheric water generation could be a possible solution. The art
+  installation could range from a billboard attracting people to the well or a
+  mural on the side of a building.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+category: create
+body_class: banana
 
 ---

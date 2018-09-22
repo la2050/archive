@@ -25,10 +25,19 @@ project_is_collaboration: 'Yes'
 project_collaborators: >-
   We are collaborating with the Los Angeles Unified School District and Loyola
   Marymount University schools of Education and Engineering.
-project_areas: >-
-  ["Central LA","East LA","San Gabriel Valley","San Fernando Valley","South
-  LA","Westside","South Bay","Gateway Cities","Antelope Valley","County of Los
-  Angeles","City of Los Angeles","LAUSD"]
+project_areas:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Gateway Cities
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_measure: >-
   Several times a month the Principal will facilitate data chats with teachers
   to open dialogue, reflection and planning based on student achievement data. 
@@ -50,12 +59,18 @@ project_measure: >-
   that allows students to demonstrate their depth of knowledge, critical
   thinking and problem-solving skills and ability to collaborate with peers on
   real-world issues and Curriculum based formative assessments.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Education/training ","Technical infrastructure (computers
-  etc.)","Community outreach ","Network/relationship support","Quality
-  improvement research"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 project_description: >-
   As many of our children are about to graduate eighth grade, they will once
   again be faced with the challenge of no inclusive school options.  WISH
@@ -99,6 +114,17 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  As many of our children are about to graduate eighth grade, they will once
+  again be faced with the challenge of no inclusive school options.  WISH
+  Academy is designed to build on the unique and successful model of WISH
+  Charter elementary and middle school, offering a rigorous, meaningful
+  curriculum for ALL students - inclusive populations of students including
+  those with mild, moderate and severe disabilities, as well as students who are
+  designated as being high achieving and highly gifted.
+project_proposal_impact:
+  - Student education pipeline
+category: learn
+body_class: blueberry
 
 ---

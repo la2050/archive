@@ -21,7 +21,12 @@ project_collaborators: >-
   645 4444, , Ohana Veterinary  Clinic, Dr. Tracy Uchima, 22231 S. Vermont Ave.,
   Torrance, CA 90502, (310) 328 0380, , Tenth  Life Pet Rescue, Lisa Vought,
   Suite 100, 600 S. Pacific Avenue, San Pedro, CA 90731, 626 833 5920
-project_areas: '["Central LA","East LA","South LA","Westside","South Bay"]'
+project_areas:
+  - Central LA
+  - East LA
+  - South LA
+  - Westside
+  - South Bay
 project_measure: >-
   We will measure against a goal of 300 kitties served for the year and accuracy
   of the projected budget. 
@@ -33,11 +38,17 @@ project_measure: >-
   Spay/Neutering Average 40 per cat - $15,000
 
   Data collection and reporting and accounting =  $1,500.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Infrastructure
-  (building/space/vehicles","Education/training ","Technical infrastructure
-  (computers","Community outreach ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >2-
    We can judge the heart of a man by his treatment of animals,' - Immanuel Kant.
   This project is to spay or neuter feral cats, give them needed medical care
@@ -65,6 +76,17 @@ project_proposal_best_place: >-
   control and volunteer groups.
 challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  ' We can judge the heart of a man by his treatment of animals,' - Immanuel
+  Kant.
+
+  This project is to spay or neuter feral cats, give them needed medical care
+  and then socialize them and find them loving homes or place them in managed
+  colonies. This improves the quality of communities who are overrun with
+  homeless felines and gives the kitties a chance at a healthy life.
+project_proposal_impact:
+  - Resilient communities
+category: live
+body_class: lime
 
 ---

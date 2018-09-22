@@ -22,7 +22,9 @@ project_summary: >-
   LA’s affordable housing crisis by encouraging tiny living as a solution.
 project_is_collaboration: 'Yes'
 project_collaborators: 'LATCH Collective, Makes A Village, LLC'
-project_areas: '["County of Los Angeles","Locations of LATCH & Makes a Village are TBD"]'
+project_areas:
+  - County of Los Angeles
+  - Locations of LATCH & Makes a Village are TBD
 project_measure: >-
   1) SUCCESS IS LA County residents developing homebuilding knowledge and
   skills. THIS LOOKS LIKE 300+ hours of home building labor; 12+ workshops; 50+
@@ -44,10 +46,14 @@ project_measure: >-
   THIS LOOKS LIKE PMF purchase of a site to develop a Tiny House village
   demonstration. 5) SUCCESS IS previous strangers connecting and willfully
   becoming neighbors. THIS LOOKS LIKE... Formation of housing cooperative.
-project_proposal_help: >-
-  ["Money ","Volunteers","Publicity/awareness","Infrastructure
-  (building/space/vehicles","Education/training ","Technical infrastructure
-  (computers","Community outreach"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - 'Education/training '
+  - Technical infrastructure (computers
+  - Community outreach
 project_description: >-
   Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
   collaborating to demonstrate how to use tiny homes to create
@@ -108,6 +114,18 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Makes a Village, LATCH Collective and the Patrick McCaffrey Foundation are
+  collaborating to demonstrate how to use tiny homes to create
+  affordable-by-design housing and increase self-sufficiency in Los Angeles.
+  With $100,000, we can take 5 important capacity-building steps for
+  implementing our approach.
+project_proposal_impact:
+  - Housing affordability
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
+category: live
+body_class: lime
 
 ---

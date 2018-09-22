@@ -21,7 +21,10 @@ project_summary: >-
   goals of college enrollment and career success.
 project_is_collaboration: 'No'
 project_collaborators: None
-project_areas: '["East LA","City of Los Angeles","LAUSD"]'
+project_areas:
+  - East LA
+  - City of Los Angeles
+  - LAUSD
 project_measure: >-
   For this first year, BUILD's metrics will include: 
 
@@ -57,11 +60,16 @@ project_measure: >-
   skills that we have identified, and research supports, are pertinent to master
   for long-term life success. These skills are communication, collaboration,
   problem solving, innovation, self-management, and demonstration of grit.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Technical infrastructure (computers etc.)","Community outreach
-  ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   BUILD will use these funds to hire two key members of its new Los Angeles
   team, which will serve 600 students in 2017.  BUILD inspires students from
@@ -139,6 +147,21 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  BUILD will use these funds to hire two key members of its new Los Angeles
+  team, which will serve 600 students in 2017.  BUILD inspires students from
+  under-resourced communities to graduate from high school, develop critical
+  life skills, and achieve post-secondary success through the highly engaging
+  experience of launching their very own businesses.  BUILD will hire its
+  Volunteer Manager and its Student Success Program Manager to recruit 150
+  volunteer mentors and to work with 150 9th graders.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
+category: learn
+body_class: blueberry
 
 ---

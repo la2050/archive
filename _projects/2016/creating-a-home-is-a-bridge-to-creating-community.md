@@ -19,9 +19,15 @@ project_summary: >-
   out” of the system by creating their first ever homes
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas: >-
-  ["Central LA","East LA","San Fernando Valley","South LA","South Bay","Antelope
-  Valley","County of Los Angeles","City of Los Angeles"]
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - South Bay
+  - Antelope Valley
+  - County of Los Angeles
+  - City of Los Angeles
 project_measure: >-
   In just two years, ASOH has created 125 homes and has placed 185 youth in
   beds.  We are currently creating a minimum of two homes per week, 130 homes
@@ -59,7 +65,9 @@ project_measure: >-
   not living in scarcity. The National Scientific Council Report attributes
   substandard housing and separation from parent(s), among the main factors that
   are toxic to the developing brain.
-project_proposal_help: '["Money ","Support of the city"]'
+project_proposal_help:
+  - 'Money '
+  - Support of the city
 project_description: >-
   ASOH brings together volunteers to serve as a family would utilizing donated
   furniture to create the youth’s first permanent living space. The state of
@@ -121,6 +129,19 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  ASOH brings together volunteers to serve as a family would utilizing donated
+  furniture to create the youth’s first permanent living space. The state of
+  one’s “home” affects one’s physical health, cognitive development,
+  social/emotional well-being & how an individual views themselves. By creating
+  a physical home that embodies the aspirations of each youth & connecting them
+  with a community of care— Maslow’s Hierarchy of Needs is satisfied & the youth
+  can focus on building a prosperous future.
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
+category: live
+body_class: lime
 
 ---

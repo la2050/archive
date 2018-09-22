@@ -80,6 +80,83 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=2x_ao5Cxho8'
 project_id_3: '8102052'
 year_submitted: 2018
+project_proposal_description: >-
+  Engaging all Angelenos especially Latinos to drive while using a multilingual
+  distracted driving prevention app will move the transit score moving the
+  needle in the right direction. Car accidents is one of the four leading causes
+  of death for Latino/Hispanic populations in Los Angeles. Implementation of new
+  technology to drive engagement to ignite the activation catalyst. Incentive
+  programs — various cash and media rewards — for continuing use of the app over
+  90 day periods.
+project_areas:
+  - Central LA
+  - East LA
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Los Angeles digital space
+project_proposal_mobilize:
+  - >-
+    Influence individual behavior (e.g. change consumer spending or increase
+    conservation activity)
+  - Increase donations to organizations and causes
+  - >-
+    Data collected on distracted driving will be analyzed and summarized for
+    media placement along with academic publication.
+project_proposal_best_place: >-
+  Our program to eliminate distracted driving will reduce the numbers of
+  premature deaths by car accidents. The County of Los Angeles Public Health
+  lists premature deaths from car accidents as the third leading cause
+  countywide. The Hispanic population is the ONLY racial group among four that
+  includes premature death by car accidents as one of the four principal causes
+  of premature deaths. The bike score will be improved by mobilizing the LA
+  community through a digital and bilingual strategy (the ProTextMe app) that
+  will prevent drivers from using their phones while driving (or biking).
+  Realtime outcomes data will provide an unprecedented dataset that will
+  document distracted driving activity and program impact. HCP principals
+  routinely publish scholarly papers on the outcomes for programs in which we
+  are involved. ProTextMe has sponsored scholarly publications on their European
+  program outcomes. We will work with our media partners and LA2050 to publicize
+  the program and its outcomes on social media. LA will become the model for its
+  program to eliminate distracted driving, especially among diverse communities
+  for which we are famous. This approach that uses mass media and academia
+  provides exposure in two important communities: public awareness and the
+  highest standards of scrutiny.
+project_proposal_engage: >-
+  Our strategy is to cast our net far and wide. Translate and use our digital
+  tool that will be translated into Spanish. Hispanics/Latinos are the majority
+  in LA County and the plurality in LA City. Our team brings together experience
+  in healthcare, digital and public policy campaigns and strategies; in
+  particular using platforms and tools in Native or preferred Languages. Our
+  projects history has demonstrated our commitment to and skills working
+  traditionally hard to reach or not looked at LA communities.
+project_measure: >-
+  The ProTextMe (PTM) app collects real-time distracted driving data including
+  screen touches while the vehicle is moving and at rest. We will follow the
+  protocol in the 2017 published study that used the PTM app. Findings
+  identified screen touches by other apps including WhatsApp, Facebook, SMS,
+  etc. Success will be measured by a reduction in total screen touches, touches
+  while moving (reduction) and still (increase), and touches by specific app. We
+  will share our findings by specific apps with the companies. Our
+  http://miltolinfoundation.org/team/ Mitt Olin Foundation (MOF) board members
+  will be helpful in promoting corporate responsibility as one of our aims.
+project_five_years: >-
+  This activation will create a path to support community and statewide
+  involvement with distracted driving prevention, reduction of accidents and
+  deaths attributable to distracted driving. We will create the template for
+  targeting Hispanic and other specific ethnic communities, using technology in
+  target languages to prevent deaths and increase education and utilization
+  and/or change behaviour. Our project will establish the distracted driving
+  movement by adding realtime objective metrics that will be the agent of change
+  of vehicle accidents because of distracted drivers while texting.
+category_metrics:
+  - Resilient communities
+  - Walk/bike/transit score
+category_other:
+  - LA is the best place to PLAY
+  - LA is the healthiest place to CONNECT
+challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'
 body_class: lime
 
 ---

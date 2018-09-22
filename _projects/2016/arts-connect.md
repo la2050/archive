@@ -25,7 +25,10 @@ project_collaborators: >-
   Columbia Road, NW, Second Floor, Washington, DC 20009; College Summit
   transforms the lives of low-income youth by connecting them to college and
   career, in collaboration with ARTS CONNECT.
-project_areas: '["County of Los Angeles","City of Los Angeles","LAUSD"]'
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
+  - LAUSD
 project_measure: >-
   Arts Connect aspires to be the answer to most of the existing issues facing
   today’s educational system. This program has the ability to enrich, enlighten
@@ -43,10 +46,14 @@ project_measure: >-
 
   Arts Connect is holistic in its approach to cultivating and nurturing students
   to become healthy, productive, and contributing citizens in their community!
-project_proposal_help: >-
-  ["Money ","Publicity/awareness","Education/training ","Technical
-  infrastructure (computers etc.)","Community outreach ","Network/relationship
-  support","Quality improvement research"]
+project_proposal_help:
+  - 'Money '
+  - Publicity/awareness
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
+  - Quality improvement research
 project_description: >-
   Arts Connect displays the real-life achievement of well-respected and highly
   regarded individuals, both historical and contemporary, through a digital
@@ -109,6 +116,22 @@ project_proposal_best_place: >-
   and a desire to continue and succeed in school.
 challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Arts Connect displays the real-life achievement of well-respected and highly
+  regarded individuals, both historical and contemporary, through a digital
+  multi-media format specifically to enhance student learning experiences. The
+  format follows learning mandates and promotes the broad-ranging potential in
+  all children. This is a complimentary learning management system that offers
+  real world examples and the cosmopolitan language of Art in all its forms as
+  an all-important tool for joyful learning
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+category: learn
+body_class: blueberry
 
 ---

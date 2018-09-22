@@ -23,7 +23,9 @@ project_summary: >-
   filmmaking to immersive virtual reality.
 project_is_collaboration: 'No'
 project_collaborators: none
-project_areas: '["Central LA","San Fernando Valley"]'
+project_areas:
+  - Central LA
+  - San Fernando Valley
 project_measure: >-
   Our goals for this program are:
 
@@ -59,11 +61,16 @@ project_measure: >-
   Our internal evaluation will be based on measuring levels of continuing
   engagement with the public, growth of class and workshop sizes, attendance
   numbers at our events, and public demand for increased activities.
-project_proposal_help: >-
-  ["Money ","Volunteers","Staff ","Publicity/awareness","Infrastructure
-  (building/space/vehicles etc.)","Education/training ","Technical
-  infrastructure (computers etc.)","Community outreach ","Network/relationship
-  support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   3-D SPACE will implement an ongoing program of public presentations, classes
   and workshops in stereoscopic 3-D history and content creation, from 3-D
@@ -127,6 +134,16 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  3-D SPACE will implement an ongoing program of public presentations, classes
+  and workshops in stereoscopic 3-D history and content creation, from 3-D
+  photography and filmmaking to immersive virtual reality. These programs will
+  include outreach to LA's underserved communities, and also specialized
+  educational initiatives for LA's creative youth and senior populations.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+category: create
+body_class: banana
 
 ---

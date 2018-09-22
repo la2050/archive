@@ -27,13 +27,22 @@ project_collaborators: >-
   the broadcast technology needed for the radio program. ARTBEAT RADIO is
   created and produced at the Able ARTS Work location and the podcast is
   available locally, nationally and internationally
-project_areas: '["South Bay","County of Los Angeles","LAUSD"]'
+project_areas:
+  - South Bay
+  - County of Los Angeles
+  - LAUSD
 project_measure: "Our goal is to provide meaningful opportunities for people with and without disabilities to engage through the arts.\nOur measures of success:\n1.)\tResident artists with intellectual disabilities attending Able ARTS Work will have increased opportunities to create, host and produce Artbeat Radio content in various communities. \n2.)\tThe Artbeat Radio audience will grow through social media engagement, podcast subscriptions.\n3.)\tGrowing interest in providing inclusive opportunities at events, organizations, corporations, and institutions, as evidenced through connections we can make with community stakeholders."
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board members","Staff
-  ","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Education/training ","Technical infrastructure (computers
-  etc.)","Community outreach ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - 'Staff '
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - Technical infrastructure (computers etc.)
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   Following 35 years of progress towards inclusion and access for people with
   intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
@@ -97,6 +106,19 @@ project_proposal_best_place: >-
   include the sharing of strategic information to build  engagement.
 challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Following 35 years of progress towards inclusion and access for people with
+  intellectual disabilities, Able ARTS Work launched Artbeat Radio, an
+  innovative community project presented through the lens of disability culture.
+  As engagement has increased and content producers are demanding more access to
+  share their voices, Artbeat Radio is prepared to go mobile.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Total number of local social media friends and connections Angelenos have
+category: connect
+body_class: tangerine
 
 ---

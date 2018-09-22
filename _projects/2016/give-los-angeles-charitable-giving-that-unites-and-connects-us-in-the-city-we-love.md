@@ -28,7 +28,9 @@ project_collaborators: >-
   Los Angeles Fire Department Foundation, Los Angeles Ronald McDonald House,
   Natural History Museum, Partnership for Los Angeles Schools, Piece by Piece,
   Present Now, RAND Corporation, United Way, XPRIZE, ...more to be added
-project_areas: '["County of Los Angeles","City of Los Angeles"]'
+project_areas:
+  - County of Los Angeles
+  - City of Los Angeles
 project_measure: >-
   The success of our Give Los Angeles program will be defined by meeting two
   goals: to connect Angelenos with nonprofits in their community and to provide
@@ -54,9 +56,12 @@ project_measure: >-
   publication and online challenge.) If this goal is achieved, we believe the
   participants will view the program as a valuable addition to their
   organization and ensure participation in the future.
-project_proposal_help: >-
-  ["Money ","Advisors/board members","Publicity/awareness","Community outreach
-  ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Advisors/board members
+  - Publicity/awareness
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   This winter, Los Angeles magazine is embarking on our most ambitious
   non-profit initiative, the GIVE Los Angeles Challenge. As a custom publication
@@ -102,6 +107,22 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  This winter, Los Angeles magazine is embarking on our most ambitious
+  non-profit initiative, the GIVE Los Angeles Challenge. As a custom publication
+  and online fundraising challenge, GIVE Los Angeles will connect passionate,
+  engaged supporters with deserving non-profits, in an effort to encourage more
+  local philanthropy. This is our public call to the people of L.A. to support
+  local organizations by donating and/or volunteering.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+category: connect
+body_class: tangerine
 
 ---

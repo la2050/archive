@@ -24,9 +24,12 @@ project_collaborators: >-
   - Los Angeles Conservation Corps (LACC), - Pacific Coast Regional Small
   Business Development Corp (PCR), - METRO CDC, - City of Compton, - Christian
   Health Clinics
-project_areas: >-
-  ["Central LA","South LA","Gateway Cities","County of Los Angeles","City of Los
-  Angeles"]
+project_areas:
+  - Central LA
+  - South LA
+  - Gateway Cities
+  - County of Los Angeles
+  - City of Los Angeles
 project_measure: >-
   Our expected outcomes will make a vital difference for families and small
   businesses looking to increase access to neighborhood resources, improve
@@ -59,11 +62,15 @@ project_measure: >-
   data with NHS. NHS will serve as the central filter for evaluating the impacts
   and status of job training, homeowner education, senior and afterschool
   programming, and small business education programs.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board
-  members","Publicity/awareness","Infrastructure
-  (building/space/vehicles","Technical infrastructure (computers","Community
-  outreach ","Network/relationship support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles
+  - Technical infrastructure (computers
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   Utilizing the model of 'What Makes Community?' as our focus, NHS is working
   with the City of Compton, Pacific Coast Regional, and METRO CDC to create the
@@ -123,6 +130,26 @@ project_proposal_best_place: >-
   Creek Project evolves.
 challenge_url: 'https://challenge.la2050.org/entry/center-for-sustainable-communities'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Utilizing the model of 'What Makes Community?' as our focus, NHS is working
+  with the City of Compton, Pacific Coast Regional, and METRO CDC to create the
+  first of several Centers for Sustainable Communities in Compton, CA. The
+  Center will help low-to-middle income families in Compton deal with the
+  impacts of divestiture by serving as a hub to provide access to housing,
+  transit, employment, healthy living, and community food resources that make
+  communities stronger and more resilient.
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Waterways
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Walk/bike/transit score
+category: live
+body_class: lime
 
 ---

@@ -23,7 +23,8 @@ project_summary: >-
   stories, address issues, and resolve conflicts.
 project_is_collaboration: 'Yes'
 project_collaborators: Southeast Rio Vista YMCA
-project_areas: '["South LA"]'
+project_areas:
+  - South LA
 project_measure: >-
   The Community Circle Space Initiative's objective is to increase connection
   among residents of Southeast LA. We will use the following metrics to measure
@@ -55,11 +56,15 @@ project_measure: >-
   during the year, and at end of one year. We will also gather quantitative and
   qualitative feedback from participants after community circles, as well as
   from the community at large and from grass roots and city leaders.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board
-  members","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Education/training ","Community outreach ","Network/relationship
-  support"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - 'Education/training '
+  - 'Community outreach '
+  - Network/relationship support
 project_description: >-
   Collaborating with the local YMCA, community leaders and residents, artists
   and builders, we will design and build a public circle meeting space and train
@@ -123,6 +128,24 @@ project_proposal_best_place: >-
 challenge_url: >-
   https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  Collaborating with the local YMCA, community leaders and residents, artists
+  and builders, we will design and build a public circle meeting space and train
+  and support community elders to facilitate circle dialogs for the community in
+  the space we co-create. The project will give elders renewed purpose and
+  provide the community a place and a process for sharing stories, discussing
+  matters of importance, resolving differences, determining action steps, and
+  making authentic connections.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Voting rates
+category: connect
+body_class: tangerine
 
 ---
