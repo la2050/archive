@@ -267,7 +267,7 @@ function addProjectAnswers(data) {
     // Find the project in markdownProjects that matches this data
       // If title is the same as one of the project titles
 
-    let project = markdownProjectsLookup[data.title]
+    let project = markdownProjectsLookup[data.title.trim()]
     if (project) {
       projectAnswers.forEach(answer => {
         // if (project[answer] && !data[answer]) {
@@ -674,8 +674,8 @@ categories.forEach(category => {
 // Create an object for quick lookup
 let markdownProjectsLookup = {}
 markdownProjects.forEach(project => {
-  if (!markdownProjectsLookup[project.title]) {
-    markdownProjectsLookup[project.title] = project
+  if (!markdownProjectsLookup[project.title.trim()]) {
+    markdownProjectsLookup[project.title.trim()] = project
   }
 })
 

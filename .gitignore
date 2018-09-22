@@ -6,3 +6,4 @@
 /_node/node_modules
 /Gemfile.lock
 /_node/.npmrc
+.DS_Store
