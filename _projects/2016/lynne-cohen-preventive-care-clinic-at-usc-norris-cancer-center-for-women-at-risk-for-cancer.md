@@ -124,6 +124,8 @@ project_proposal_description: >-
   and breast cancer have access to the following: screening services including
   mammography, MRI, pelvic ultrasounds, and serum-based screening tests;
   consultation with a genetic counselor.
+project_proposal_impact:
+  - Healthcare access
 category: live
 body_class: lime
 

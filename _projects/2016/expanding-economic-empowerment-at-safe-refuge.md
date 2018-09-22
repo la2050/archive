@@ -74,6 +74,9 @@ project_proposal_description: >-
   computer literacy education for various vulnerable communities, including the
   formerly incarcerated and homeless adults.  Funds will be used to purchase
   software, equipment, and to train staff.
+project_proposal_impact:
+  - Jobs per capita
+  - Unemployment (and opportunities) for the formerly incarcerated
 category: create
 body_class: banana
 

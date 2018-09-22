@@ -64,6 +64,13 @@ project_proposal_description: >-
   or outreach to other non-profit organizations in order to lay the foundations
   of Synergy Village:  a self-sustainable community where we help the homeless
   get reintegrated back into society as productive citizens of Los Angeles.
+project_proposal_impact:
+  - Housing affordability
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

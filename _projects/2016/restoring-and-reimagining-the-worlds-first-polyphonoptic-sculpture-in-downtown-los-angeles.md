@@ -125,6 +125,10 @@ project_proposal_description: >-
   incandescent bulbs with LEDs and a nimble computer system to achieve Joseph
   Young’s original goals. We want to create an app that'll allow people to
   create compositions for the Triforium to play.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Perceived safety
 category: play
 body_class: strawberry
 

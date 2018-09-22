@@ -145,6 +145,16 @@ project_proposal_description: >-
   enhance their communities by active involvement in the NoHo ArtWalk,
   after-school DJ programs for kids, after-school Producer programs for
   teens/adults, and the Electronic Music Alliance’s Play it FWD program.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Venture capital investment
 category: create
 body_class: banana
 

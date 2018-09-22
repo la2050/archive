@@ -78,6 +78,16 @@ project_proposal_description: >-
   highlight the transformational nature of L.A.'s economic and social justice
   movements and how they are creating models of change that are being replicated
   across the country.
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Exposure to air toxins
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
 category: live
 body_class: lime
 

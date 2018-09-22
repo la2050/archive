@@ -130,6 +130,19 @@ project_proposal_description: >-
   This planning tool will 1) collect isolated data from its disparate sources,
   2) connect data into comprehensive, dynamic visual scenarios, and 3) convey
   the impact of various planning solutions.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+  - Voting rates
 category: connect
 body_class: tangerine
 

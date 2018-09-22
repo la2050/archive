@@ -138,6 +138,12 @@ project_proposal_description: >-
   irrigation basics and garden design; present practical information to the
   public on ways to lessen resource consumption; and connect residents to career
   prospects in the expanding environmental industry.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
 category: play
 body_class: strawberry
 

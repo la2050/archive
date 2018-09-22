@@ -76,6 +76,16 @@ project_proposal_description: >-
   Our robust team has already worked with theses students since 3rd grade to
   raise not only them, but their communities out of poverty. We have helped 7000
   students and their families for 35 years
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

@@ -137,6 +137,13 @@ project_proposal_description: >-
   civic organizations to create a plan that connects local businesses to the
   revitalized Greenway, enhances bike and pedestrian access, inspires
   stewardship and improves public health and safety.
+project_proposal_impact:
+  - Waterways
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Homelessness
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

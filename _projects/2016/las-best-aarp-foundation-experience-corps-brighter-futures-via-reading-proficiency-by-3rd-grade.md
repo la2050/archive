@@ -134,6 +134,11 @@ project_proposal_description: >-
   – will work alongside EC volunteers and receive training and tools to expand
   and sustain the project, while growing personally and professionally through
   invaluable intergenerational exchange.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Students’ perceived sense of safety at and on the way to school
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

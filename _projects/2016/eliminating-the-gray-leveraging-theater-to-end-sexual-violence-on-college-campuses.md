@@ -115,6 +115,16 @@ project_proposal_description: >-
   violence, brainstorming actionable solutions, and enacting specific changes. 
   We plan to work with colleges to personalize the play to their specific campus
   needs.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
 category: create
 body_class: banana
 

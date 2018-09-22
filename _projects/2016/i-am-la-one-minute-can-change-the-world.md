@@ -114,6 +114,15 @@ project_proposal_description: >-
   We can do better together. I Am LA is a city-wide campaign to care for the
   place we call home. And we want your help. We are offering $1,000 prizes for
   1-minute films that inspire us to care for our neighbors and our environment.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
 category: connect
 body_class: tangerine
 

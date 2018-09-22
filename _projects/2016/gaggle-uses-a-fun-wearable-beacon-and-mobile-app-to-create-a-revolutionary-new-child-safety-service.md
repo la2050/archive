@@ -124,6 +124,10 @@ project_proposal_description: >-
   improvements made to the hardware and software.  We will develop new wearable
   beacons for use with young children, improve the mobile app, and ensure the
   service is robust enough to handle substantial simultaneous usage.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number of children enrolled in afterschool programs
+  - Perceived safety
 category: play
 body_class: strawberry
 

@@ -93,6 +93,10 @@ project_proposal_description: >-
   traditional fitness centers. The Center will also create an opportunity for
   under-served youth (ages 14-24) to receive job training, employment, and the
   critical skills to succeed.
+project_proposal_impact:
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
 category: live
 body_class: lime
 

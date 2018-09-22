@@ -101,6 +101,14 @@ project_proposal_description: >-
   while living on the streets? Our Period Packs include biodegradable waste bags
   and feminine wipes, as well as tampons and pads, providing essential items to
   women, focusing on access, environment, and human dignity.
+project_proposal_impact:
+  - Waterways
+  - Healthcare access
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
 category: live
 body_class: lime
 

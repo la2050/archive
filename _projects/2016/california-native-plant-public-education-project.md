@@ -128,6 +128,11 @@ project_proposal_description: >-
   our butterflies, birds and other animals can’t live without. Use these films
   to retrofit with native plants for creating a beautiful resilient LA where
   nature and urban agriculture can thrive!
+project_proposal_impact:
+  - Waterways
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
 category: live
 body_class: lime
 

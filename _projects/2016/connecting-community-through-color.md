@@ -140,6 +140,12 @@ project_proposal_description: >-
   environment, kids of any age will be more engaged and committed to their
   educational journey, schools will be more welcoming, and every community can
   enjoy and appreciate beautiful art.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

@@ -91,6 +91,11 @@ project_proposal_description: >-
   with the knowledge, skills and awareness to navigate healthy relationship
   behaviors and actively stand against dating violence in their respective
   communities.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

@@ -109,6 +109,11 @@ project_proposal_description: >-
   in public safety. The intent of this project is to change public perception
   and help create law enforcement that is reflective of the community it
   protects.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

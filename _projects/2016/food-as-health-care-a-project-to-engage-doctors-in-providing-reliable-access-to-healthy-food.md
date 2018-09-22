@@ -161,6 +161,15 @@ project_proposal_description: >-
   physicians and their patients on food insecurity and available food resources
   in our community. We will organize physicians through educational webinars,
   social media campaigns, and grassroots organizing.
+project_proposal_impact:
+  - Access to healthy food
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
 category: live
 body_class: lime
 

@@ -135,6 +135,9 @@ project_proposal_description: >-
   will simultaneously train the Young Dads participants to work with middle and
   high school at-risk boys in an effort to prevent them from also becoming
   fathers too soon.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

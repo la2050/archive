@@ -141,6 +141,17 @@ project_proposal_description: >-
   city-identified challenge sets. We will match talent teams with subject matter
   experts, business accelerators, & investors to ensure their concepts are
   scalable, sustainable, & deliver measurable impact
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Patents per capita
+  - Venture capital investment
 category: create
 body_class: banana
 

@@ -110,6 +110,11 @@ project_proposal_description: >-
   who know the system best. NFYI/LA will recruit and train 100 foster youth and
   50 family members to advocate with policy makers for new approaches to
   transform the child welfare system.
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

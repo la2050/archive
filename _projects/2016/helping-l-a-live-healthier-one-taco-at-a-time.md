@@ -144,6 +144,19 @@ project_proposal_description: >-
   and deliver healthy plant-based food options. Through engagement of classes
   and workshops will be educated and empower families and community members  to
   charge of their eating habits.
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

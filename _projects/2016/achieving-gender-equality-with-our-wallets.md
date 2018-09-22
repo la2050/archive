@@ -125,6 +125,10 @@ project_proposal_description: >-
   LA-based WOBs. In this way, we will contribute to small business growth, the
   creation of new jobs for women and increased in investments into our
   community.
+project_proposal_impact:
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Venture capital investment
 category: create
 body_class: banana
 

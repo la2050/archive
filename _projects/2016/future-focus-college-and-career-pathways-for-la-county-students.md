@@ -131,6 +131,10 @@ project_proposal_description: >-
   ameliorates this situation by providing group workshops and individual
   mentoring to students and their families to ensure that everyone is given
   equitable support to pursue their dreams beyond high school.
+project_proposal_impact:
+  - College matriculation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

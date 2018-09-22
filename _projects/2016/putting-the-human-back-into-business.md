@@ -91,6 +91,13 @@ project_proposal_description: >-
   so we create options for executives, decision-makers, and managers that put
   human capabilities in the driver's seat. We deliver programming in-person or
   virtually.
+project_proposal_impact:
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
 category: create
 body_class: banana
 

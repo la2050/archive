@@ -114,6 +114,13 @@ project_proposal_description: >-
   professional lifesaving equipment. Our Program is designed to educate and
   impassion youth to appreciate and respect the marine environment and introduce
   youth to a potential career choice in water safety.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Perceived safety
 category: play
 body_class: strawberry
 

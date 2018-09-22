@@ -132,6 +132,12 @@ project_proposal_description: >-
   for people to join together to heal and elevate their minds, bodies and
   spirits, while also promoting empowerment, engagement, and positive action
   within and between communities.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

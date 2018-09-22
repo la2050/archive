@@ -110,6 +110,10 @@ project_proposal_description: >-
   rigorous creative college prep resources, including college counseling,
   portfolio coaching, documentation and more, to students lacking the financial
   resources for such focussed support.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

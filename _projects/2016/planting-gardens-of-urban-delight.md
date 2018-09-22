@@ -67,6 +67,13 @@ project_proposal_description: >-
   learning opportunities through classes, workshops and group dinners and 'TEA'
   parties. We serve to inspire, educate and beautify existing properties so
   residents can thrive.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Tree canopy cover
+  - Mental illness
 category: live
 body_class: lime
 

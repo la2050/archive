@@ -152,6 +152,16 @@ project_proposal_description: >-
   Inner-City Arts programs are an investment in the youth of Los Angeles,
   engaging them in the creative process to become creative, confident and
   collaborative individuals.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

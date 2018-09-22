@@ -155,6 +155,10 @@ project_proposal_description: >-
   3) understanding the linkage between lack of community resources and health;
   and 4) connecting them to civic engagement through their Neighborhood Councils
   and other pathways to activism.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

@@ -152,6 +152,10 @@ project_proposal_description: >-
   that improve their community and/or create entrepreneurial opportunities.
   Students work in teams to create prototypes of apps and products in a local
   maker space/starter garage setting at their school.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

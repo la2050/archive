@@ -124,6 +124,11 @@ project_proposal_description: >-
   learner-centered. The learning experiences actively engage students in
   inquiry-based and problem-solving practices to achieve depth of core ideas in
   the disciplines of science.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

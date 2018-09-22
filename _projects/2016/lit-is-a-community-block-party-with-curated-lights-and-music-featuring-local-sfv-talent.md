@@ -114,6 +114,16 @@ project_proposal_description: >-
   series of live DJ sets at a community block party on Reseda Boulevard. LIT
   will also feature local artists, performers and businesses from the San
   Fernando Valley in a fun, night market atmosphere.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

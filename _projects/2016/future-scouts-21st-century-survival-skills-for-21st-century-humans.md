@@ -176,6 +176,15 @@ project_proposal_description: >-
   propose to run two summer sessions in Los Angeles in 2017 for teens aged
   13-18, on a by-donation basis, as well fund an after-school program with
   C:/DAGS @ Hawkins HS for Spring 2017.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

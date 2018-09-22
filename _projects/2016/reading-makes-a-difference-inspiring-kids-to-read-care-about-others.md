@@ -141,6 +141,13 @@ project_proposal_description: >-
   inspiring Introductory Assemblies, all classrooms receive a “Jester” book &
   set of 3 educator enrichment manuals, with a final Recognition Assembly
   showcasing student reading achievements and compassion.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

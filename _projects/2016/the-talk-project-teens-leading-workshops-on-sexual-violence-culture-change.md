@@ -119,6 +119,11 @@ project_proposal_description: >-
   violence, speaking out against harmful behavior, engaging in healthy and
   consensual relationships, making informed decisions about seeking legal
   justice if necessary, and creating cultural change.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Students’ perceived sense of safety at and on the way to school
 category: learn
 body_class: blueberry
 

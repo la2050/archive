@@ -125,6 +125,12 @@ project_proposal_description: >-
   drawing’s power as a tool for learning, observation, creativity, and social
   and cultural engagement by the community – enhancing the quality of each
   Angeleno and representing Los Angeles as the creative capital that it is.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

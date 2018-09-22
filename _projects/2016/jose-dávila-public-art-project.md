@@ -141,6 +141,13 @@ project_proposal_description: >-
   neighborhood and its residents. The pieces will finally return to its original
   location and form in the end – showing the history of its geography and
   community experiences in its modified shape.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

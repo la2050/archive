@@ -101,6 +101,11 @@ project_proposal_description: >-
   “Choose + Keep” Book Fair for students to start their own home libraries
   giving these students access to the reading materials needed to inspire and
   engage.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

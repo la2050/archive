@@ -125,6 +125,12 @@ project_proposal_description: >-
   organizations that facilitates a connection between non-profit organizations
   and donors, allowing matched users to exchange resources and funds to achieve
   social impact together.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

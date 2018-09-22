@@ -74,6 +74,9 @@ project_proposal_description: >-
   training in the bartering of developed production skills to collaborate on
   filmlit projects. Pupils will own stock in the projects they bring forth to
   fruition.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

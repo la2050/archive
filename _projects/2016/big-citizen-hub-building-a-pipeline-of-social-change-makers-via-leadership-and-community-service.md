@@ -163,6 +163,12 @@ project_proposal_description: >-
   Citizens the skills and place to develop and lead service projects, allowing
   them to see that they can have a positive impact on the community, setting the
   stage for future action.
+project_proposal_impact:
+  - Social & emotional support
+  - Public transit riders
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

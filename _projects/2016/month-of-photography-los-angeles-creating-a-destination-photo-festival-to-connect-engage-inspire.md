@@ -74,6 +74,9 @@ project_proposal_description: >-
   talented people to support the expansion and improvement of the festival. Our
   principal goal is to build a world-class, destination photography festival by
   2018.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
 category: connect
 body_class: tangerine
 

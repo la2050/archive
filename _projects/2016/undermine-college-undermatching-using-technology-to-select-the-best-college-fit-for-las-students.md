@@ -137,6 +137,11 @@ project_proposal_description: >-
   the best schools based on their GPA, SAT/ACT scores and interests, resulting
   in higher college enrollment and completion rates, while reducing student loan
   debt.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

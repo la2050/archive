@@ -129,6 +129,11 @@ project_proposal_description: >-
   high school, while building relevant skills for some of California’s most
   competitive future careers. This grant will enable City Year to pilot this
   program at three high-needs high schools in Los Angeles.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

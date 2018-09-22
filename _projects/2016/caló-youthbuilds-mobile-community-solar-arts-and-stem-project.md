@@ -97,6 +97,12 @@ project_proposal_description: >-
   parks, housing projects and schools to identify young people who are at risk
   of engaging in drug use or violent/gang activity. Mobile programs will include
   music instruction/production and recording.
+project_proposal_impact:
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

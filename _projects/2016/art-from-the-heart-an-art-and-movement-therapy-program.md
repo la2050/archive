@@ -119,6 +119,19 @@ project_proposal_description: >-
   of healing through collaboration with innovative and well-respected arts and
   cultural institutions, and the dissemination of research results to the
   community.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Federal research grant funding
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+  - Venture capital investment
 category: create
 body_class: banana
 

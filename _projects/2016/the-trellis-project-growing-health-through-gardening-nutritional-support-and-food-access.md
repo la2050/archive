@@ -130,6 +130,14 @@ project_proposal_description: >-
   perspectives: cooking and gardening. While the approaches are different, the
   intention is the same, to grow health by empowering local communities through
   existing support structures at their churches.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Mental illness
 category: live
 body_class: lime
 

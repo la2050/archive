@@ -127,6 +127,16 @@ project_proposal_description: >-
   regular creative exercise and experiences, boxcar+muse hopes to democratize
   the process, making innovation and self-discovery outside of work or family a
   vital habit for Los Angeles women.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Patents per capita
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
 category: create
 body_class: banana
 

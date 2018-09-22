@@ -118,6 +118,9 @@ project_proposal_description: >-
   degree.  100% of those in our Readiness program 4 years or more graduate HS,
   with more than 50% matriculating directly to 4-yr. schools;  70% of those in
   our College Sponsorship program earn a Bachelors within 5 years.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
 category: learn
 body_class: blueberry
 

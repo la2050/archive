@@ -131,6 +131,11 @@ project_proposal_description: >-
   course of the six months to cover a wide range of skills and tactics. By
   graduation Fellows will have developed a wide range of organizing skills that
   will help them to be effective local leaders.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Voting rates
 category: connect
 body_class: tangerine
 

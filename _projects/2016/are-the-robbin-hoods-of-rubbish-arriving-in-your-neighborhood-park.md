@@ -83,6 +83,10 @@ project_proposal_description: >-
   researchers, from the local community go to work. These children are welcome
   to create, build and experiment. We will bring Laser cutters, 3D Printers and
   all the tools these young inventors need to realize whatever they can imagine.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
 category: create
 body_class: banana
 

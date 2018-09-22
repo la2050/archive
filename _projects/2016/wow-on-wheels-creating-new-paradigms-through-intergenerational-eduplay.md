@@ -80,6 +80,13 @@ project_proposal_description: >-
   and mentoring model that focuses on youth being able to develop better
   relationships with themselves and their world and to create a new story for
   their future.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
 category: play
 body_class: strawberry
 

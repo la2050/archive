@@ -110,6 +110,14 @@ project_proposal_description: >-
   replacing their own sidewalks. LANI will conduct extensive outreach,
   facilitate six neighborhood workshops, and work hands-on with local residents
   to make streets safer for all!
+project_proposal_impact:
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Rates of volunteerism
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
 category: connect
 body_class: tangerine
 

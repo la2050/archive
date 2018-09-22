@@ -133,6 +133,8 @@ project_proposal_description: >-
   Pedagogics to refine strategies and explore tools that address challenges and
   issues unique to each site. Ongoing learning and development is facilitated by
   a PLN to shift education towards a more mindful LA.
+project_proposal_impact:
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

@@ -149,6 +149,12 @@ project_proposal_description: >-
   and poems, to inspire teens to get involved and stay in school, cultivate a
   love of language and learning, and ignite community, connectedness, and social
   activism amongst the citizens of LA.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

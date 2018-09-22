@@ -130,6 +130,12 @@ project_proposal_description: >-
   specific neighborhoods: young people, caring adults, retail community members,
   community volunteers to ignite connectivity, inspire action and community
   pride for healthy relationships and healthy spaces for all.
+project_proposal_impact:
+  - Access to free wifi
+  - Social & emotional support
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

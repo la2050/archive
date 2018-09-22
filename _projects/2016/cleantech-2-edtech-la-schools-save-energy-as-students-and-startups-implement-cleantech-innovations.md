@@ -143,6 +143,16 @@ project_proposal_description: >-
   for funding in a new Memorandum of Understanding (“MOU”).  This project would
   complement their efforts and access funding both to educate and to develop 
   emerging efficiency technologies.
+project_proposal_impact:
+  - Federal research grant funding
+  - Jobs per capita
+  - High growth startups
+  - Patents per capita
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+  - Venture capital investment
 category: create
 body_class: banana
 

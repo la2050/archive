@@ -111,6 +111,14 @@ project_proposal_description: >-
   Communities. Information will be displayed in an intuitive way to navigate
   with on demand tools and layers to control what you see, including pictures,
   text, videos, external links, etc. for a fully customized experience.
+project_proposal_impact:
+  - Travel time to work
+  - Public transit riders
+  - Rates of volunteerism
+  - Residential segregation
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
 category: connect
 body_class: tangerine
 

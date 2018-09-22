@@ -113,6 +113,13 @@ project_proposal_description: >-
   creative economies after release. Funds will leverage the current investment
   by LA County Probation and Arts Commission, enabling us to cover the full cost
   of our program.
+project_proposal_impact:
+  - Employment in the creative industries
+  - Jobs per capita
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Unemployment (and opportunities) for the formerly incarcerated
 category: create
 body_class: banana
 

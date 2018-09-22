@@ -122,6 +122,14 @@ project_proposal_description: >-
   literacy (0-5) efforts and advising LBL about best strategies for pursuing
   such funding;&  
    positioning LBL as a national expert in early education.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

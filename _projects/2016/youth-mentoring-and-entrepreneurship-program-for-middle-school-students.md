@@ -105,6 +105,14 @@ project_proposal_description: >-
   Through real-world experience from venture creation, mentorship and habit
   adoption, WeThrive will train and equip more than 800 middle school students
   with the life skills & resources for upward mobility.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

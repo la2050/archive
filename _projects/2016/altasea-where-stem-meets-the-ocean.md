@@ -146,6 +146,11 @@ project_proposal_description: >-
   challenges and ultimately to see science/STEM careers as an option. Our long
   term goal is to motivate our youth to be 21st century champions for a
   sustainable ocean.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

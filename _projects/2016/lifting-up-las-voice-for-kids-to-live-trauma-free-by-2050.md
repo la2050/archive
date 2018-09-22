@@ -126,6 +126,13 @@ project_proposal_description: >-
   policy agenda to reduce childhood trauma and ensure the needed supports for
   kids who experience it. The power of these voices will be demonstrated through
   a public support campaign and advocacy around specific policy changes.
+project_proposal_impact:
+  - Healthcare access
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
 category: live
 body_class: lime
 

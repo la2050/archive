@@ -132,6 +132,10 @@ project_proposal_description: >-
   hidden talents, act as a catalyst for the brainstorming and exchange of
   innovative ideas, and provide all Angelenos an outlet to build community in an
   increasingly isolated and digital world.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

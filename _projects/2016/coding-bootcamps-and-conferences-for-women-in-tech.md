@@ -122,6 +122,11 @@ project_proposal_description: >-
   achieve this through the creation of proprietary, innovative programming and
   strategic global partnerships. We provide mentorship and boot camp programs as
   well as the Catalyst Conference, an annual conference for women in tech.
+project_proposal_impact:
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
 category: create
 body_class: banana
 

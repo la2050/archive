@@ -125,6 +125,10 @@ project_proposal_description: >-
 
   Automated spatio-temporal analysis performed in our platform supports
   improvement of public transit’s reputation and quality of life in the city.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
 category: connect
 body_class: tangerine
 

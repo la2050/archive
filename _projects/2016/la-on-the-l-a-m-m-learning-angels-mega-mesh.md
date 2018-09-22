@@ -120,6 +120,17 @@ project_proposal_description: >-
   encyclopedias and coursework. Rather than depending on far away cloud
   providers, e-media or courseware owned by any library can be shared directly
   over its local Mega-Mesh.
+project_proposal_impact:
+  - Access to free wifi
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
 category: connect
 body_class: tangerine
 

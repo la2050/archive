@@ -75,6 +75,14 @@ project_proposal_description: >-
   the joy of creative movement, photography or visual arts workshops provided
   free of charge by the Hollywood Arts Council. We will also be able to expand
   this program in other schools.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

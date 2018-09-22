@@ -57,6 +57,9 @@ project_proposal_description: >-
   narratives into great ones - both online and at three workshops we propose at
   libraries in East LA, Compton/South-Central and Rosemead, each aimed at
   producing a volume of stories.
+project_proposal_impact:
+  - Arts establishments
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

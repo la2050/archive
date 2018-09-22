@@ -140,6 +140,11 @@ project_proposal_description: >-
   Latino millennial audience. As leaders in this field, mitú is focused on
   giving back by teaching Latino filmmakers to authentically tell their own
   stories in a way that speaks directly and effective
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

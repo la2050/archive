@@ -69,6 +69,11 @@ project_proposal_description: >-
   hospitals that provide transplants in Los Angeles California. Transplant
   patients who cannot afford the required temporary housing find Ava’s Heart
   through word of mouth or are referred by their transplant teams.
+project_proposal_impact:
+  - Housing affordability
+  - Healthcare access
+  - Self-sufficiency
+  - Residents receiving coordinated healthcare services
 category: live
 body_class: lime
 

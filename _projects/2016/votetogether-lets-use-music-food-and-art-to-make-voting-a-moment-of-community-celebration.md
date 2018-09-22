@@ -118,6 +118,10 @@ project_proposal_description: >-
   a pilot program we began in 2016. We will engage with community partners in
   Los Angeles to stage events at voting locations and study the results to
   measure the impact on voter participation.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Voting rates
 category: connect
 body_class: tangerine
 

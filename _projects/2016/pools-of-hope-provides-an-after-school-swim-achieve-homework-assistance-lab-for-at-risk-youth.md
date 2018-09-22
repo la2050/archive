@@ -123,6 +123,11 @@ project_proposal_description: >-
   1) provide hands-on tutoring and homework assistance for up to one hour; and
   2) provide swim lessons as an incentive and reward for engaging with the
   tutors each week.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

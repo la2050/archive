@@ -116,6 +116,15 @@ project_proposal_description: >-
   life. Completing the final phase of a self-sustaining tech renewal project
   will support our mission for students to become self-sufficient learners and
   creators in all aspects of their work.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

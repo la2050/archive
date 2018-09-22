@@ -146,6 +146,10 @@ project_proposal_description: >-
   cloud data storage and computation to empower street level bureaucrats to
   augment existing street response tactics towards equitable and efficient
   outcomes.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
 category: connect
 body_class: tangerine
 

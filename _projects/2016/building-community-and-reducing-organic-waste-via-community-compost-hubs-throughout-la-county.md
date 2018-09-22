@@ -128,6 +128,10 @@ project_proposal_description: >-
   network, we will continue to divert thousands of pounds of organics from
   reaching landfills monthly, while also providing residents with the tools and
   education needed to compost on their own.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Resilient communities
 category: live
 body_class: lime
 

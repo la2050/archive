@@ -131,6 +131,13 @@ project_proposal_description: >-
   publicizing 26 works of poetry, fiction, and creative nonfiction by both
   established and emerging authors, providing opportunities for minority
   populations to establish their place in the American literary canon.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
 category: create
 body_class: banana
 

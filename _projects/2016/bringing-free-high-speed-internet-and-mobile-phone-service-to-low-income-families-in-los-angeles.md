@@ -146,6 +146,10 @@ project_proposal_description: >-
   local providers who subsidize prices (e.g. COX, AT&T, Sprint). Remaining costs
   are paid by retailers on our platform who give cash-back rewards on families'
   everyday purchases (gas, food, clothes).
+project_proposal_impact:
+  - Access to free wifi
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
 category: connect
 body_class: tangerine
 

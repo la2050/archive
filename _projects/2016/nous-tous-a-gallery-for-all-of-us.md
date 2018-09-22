@@ -93,6 +93,19 @@ project_proposal_description: >-
   context for artist's work. With the LA2050 we will expand our gallery 
   showroom programs beyond the walls of our space to engage with a wider network
   of creators.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Unemployment (and opportunities) for the formerly incarcerated
+  - Venture capital investment
 category: create
 body_class: banana
 

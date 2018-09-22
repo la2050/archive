@@ -110,6 +110,9 @@ project_proposal_description: >-
   create a comprehensive database of current students and alumni to capture
   feedback after each session as well as feedback from alumni who can articulate
   how LASA changed their career or study trajectories.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
 category: learn
 body_class: blueberry
 

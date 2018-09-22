@@ -140,6 +140,11 @@ project_proposal_description: >-
   by bringing together music industry pros with after-school music programs to
   excite youth participants; inspire a new cadre of skilled-volunteers; and
   raise the profiles of the programs served.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

@@ -72,6 +72,9 @@ project_proposal_description: >-
   opportunities for the homeless within that region. This will involve providing
   a trailer shower, strategically located where the homeless can take showers
   daily and improve their personal hygiene and dignity.
+project_proposal_impact:
+  - Self-sufficiency
+  - Homelessness
 category: live
 body_class: lime
 

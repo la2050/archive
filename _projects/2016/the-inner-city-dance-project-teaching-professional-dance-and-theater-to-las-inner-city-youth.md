@@ -135,6 +135,11 @@ project_proposal_description: >-
   students to participate in a ten-week dance and theater intensive that will
   conclude with a performance. The project will also subsidize class tuition for
   students who train with ZPA after the project.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

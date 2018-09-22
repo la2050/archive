@@ -157,6 +157,12 @@ project_proposal_description: >-
   stewardship training as part of paid internship programs, leading habitat
   restoration events that engage their communities and improve the quality of
   open space for people and wildlife.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
 category: play
 body_class: strawberry
 

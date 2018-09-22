@@ -124,6 +124,12 @@ project_proposal_description: >-
   broadcast on the FM airwaves has been a long time in the making, and is part
   of a larger organizational effort to engage more listeners with our diverse,
   freeform broadcasts.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Travel time to work
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

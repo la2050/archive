@@ -132,6 +132,10 @@ project_proposal_description: >-
   experience where students learn programming by creating their own websites,
   games and mobile apps. Started in 2012, it graduated its first class of
   students in 2016, who are now all in college.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

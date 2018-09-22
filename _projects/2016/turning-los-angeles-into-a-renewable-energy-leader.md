@@ -90,6 +90,11 @@ project_proposal_description: >-
   Building on our work to ban fracking and end our dependence on dirty fossil
   fuels, Food & Water Watch is undertaking a strategic campaign to transition
   Los Angeles from oil, gas, and coal to 100% renewable energy by 2030.
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Local water
+  - Resilient communities
 category: live
 body_class: lime
 

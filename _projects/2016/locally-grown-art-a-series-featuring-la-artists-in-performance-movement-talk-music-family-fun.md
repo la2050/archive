@@ -112,6 +112,10 @@ project_proposal_description: >-
   creative work at reduced rates. Through five key focuses — talk, music,
   performance, movement and family — we will bring the community together to
   learn, create and discover together.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
 category: create
 body_class: banana
 

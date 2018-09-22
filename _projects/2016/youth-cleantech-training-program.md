@@ -117,6 +117,14 @@ project_proposal_description: >-
   creates a more inclusive, robust cleantech sector in LA.  We propose a summer
   youth program that includes technical training, a sponsored internship, and
   follow-on alumni programming.
+project_proposal_impact:
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Venture capital investment
 category: create
 body_class: banana
 

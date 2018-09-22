@@ -136,6 +136,10 @@ project_proposal_description: >-
   fun, accessible and engaging. Our goal is to host a monthly event that will
   include hands-on gardening activities, arts and crafts, a unique play
   apparatus and feature healthy food and drink.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
 category: play
 body_class: strawberry
 

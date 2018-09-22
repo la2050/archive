@@ -147,6 +147,10 @@ project_proposal_description: >-
   communication and assistance with critical needs: meals, child, pet home care,
   respite, housekeeping, fundraising, and medical updates to avoid physical
   collapse of family and caregiver.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

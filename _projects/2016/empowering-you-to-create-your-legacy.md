@@ -57,6 +57,12 @@ project_proposal_description: >-
   network, and showcase talent through the facilitation of professional
   development workshops and the establishment of minority-owned business
   ventures.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Minority- and women-owned firms
+  - High growth startups
+  - Venture capital investment
 category: create
 body_class: banana
 

@@ -122,6 +122,14 @@ project_proposal_description: >-
   by the realization of our human potential.  The ChallengeLA2050 grant will
   directly contribute to the vision of the company through funding for a 35,000
   sq. ft. LA facility to house our growing community.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Venture capital investment
 category: create
 body_class: banana
 

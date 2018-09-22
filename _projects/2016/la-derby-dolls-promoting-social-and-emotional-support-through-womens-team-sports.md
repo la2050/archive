@@ -122,6 +122,9 @@ project_proposal_description: >-
   ensuring that the organization can continue to offer adult and young women
   programs that promote social and emotional support inherent in team sports and
   from a women-focused organization.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

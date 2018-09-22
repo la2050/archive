@@ -149,6 +149,14 @@ project_proposal_description: >-
   Trip Partners and 1,000 registered Guest Speakers. There are approximately 30
   schools on our waiting list and we would like to expand to support more
   schools and students.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

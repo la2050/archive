@@ -122,6 +122,10 @@ project_proposal_description: >-
   friendship. Through the magic of summer camp, MDA offers a world of
   possibilities to campers — from swimming and horseback riding to zip-lining,
   adaptive sports and camp dances.
+project_proposal_impact:
+  - Healthcare access
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
 category: live
 body_class: lime
 

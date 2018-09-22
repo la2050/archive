@@ -134,6 +134,13 @@ project_proposal_description: >-
   available to them locally via our community partners & agencies (i.e.
   transitional living, GED programs, emotional support, & other social
   services).
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

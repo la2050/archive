@@ -143,6 +143,10 @@ project_proposal_description: >-
   students will participate in a spring break immersion program, followed by
   mentorship meetings, summer job positions, and the creation of a pop-up art
   space in fall 2017.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

@@ -119,6 +119,12 @@ project_proposal_description: >-
   of reducing plastics pollution, and other actions individuals can take to
   protect our environment and our city. The platform is flexible, which allows
   us to address multiple environmental issues.
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
 category: live
 body_class: lime
 

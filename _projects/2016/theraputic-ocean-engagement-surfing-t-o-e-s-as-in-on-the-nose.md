@@ -138,6 +138,13 @@ project_proposal_description: >-
   and education needed to surfvive and thrive in Los Angeles!  Our program has a
   measurable positive impact on the self-esteem, motivation, endurance, and
   trust (in self) of our participants.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

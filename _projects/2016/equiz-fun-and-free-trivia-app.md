@@ -85,6 +85,14 @@ project_proposal_description: >-
   More information can be found in our eQuiz pitchdeck: 
 
   http://bit.ly/2d6t47R
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Venture capital investment
 category: create
 body_class: banana
 

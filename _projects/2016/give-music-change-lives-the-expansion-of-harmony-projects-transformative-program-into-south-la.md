@@ -103,6 +103,12 @@ project_proposal_description: >-
   positive adult and peer mentors, family and social support services, field
   trips, and a robust college prep program. We set high expectations and support
   children with the resources needed to thrive.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

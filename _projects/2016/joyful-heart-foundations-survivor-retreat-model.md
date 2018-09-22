@@ -117,6 +117,11 @@ project_proposal_description: >-
   used to create a replicable Retreat Model that organizations can implement and
   offer to survivors, the healing professionals who serve them, and communities
   beyond our current capacity and scope.
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Mental illness
 category: live
 body_class: lime
 

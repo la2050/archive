@@ -113,6 +113,13 @@ project_proposal_description: >-
   more accessible, and sustainable. ITEP will convene industry and community
   partners to hear the Generation Z perspective on community problems and
   potential solutions.
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
 category: live
 body_class: lime
 

@@ -114,6 +114,11 @@ project_proposal_description: >-
   jobs for our communities. Because of California's environmental regulation and
   strong policy leadership in the city and county, LA has the potential to
   create 1,000s of good jobs building new EV buses.
+project_proposal_impact:
+  - Manufacturing activity
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Unemployment (and opportunities) for the formerly incarcerated
 category: create
 body_class: banana
 

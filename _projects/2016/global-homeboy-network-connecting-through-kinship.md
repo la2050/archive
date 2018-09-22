@@ -87,6 +87,10 @@ project_proposal_description: >-
   network helps other organizations tailor the model to fit their own
   communities, and collectively advocate on behalf of those who have been denied
   a voice.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

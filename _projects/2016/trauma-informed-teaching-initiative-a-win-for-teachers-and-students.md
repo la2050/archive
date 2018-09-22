@@ -136,6 +136,13 @@ project_proposal_description: >-
   can address educational inequity from all angles, including from a
   trauma-informed framework to transform classrooms, schools and entire school
   systems.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

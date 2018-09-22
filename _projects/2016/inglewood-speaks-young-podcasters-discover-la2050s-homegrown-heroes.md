@@ -140,6 +140,11 @@ project_proposal_description: >-
   Mozi, Core Innovate’s writing software. Students will strengthen their
   communication skills as they research and produce podcast episodes that will
   tell the story of LA’s agents of change.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

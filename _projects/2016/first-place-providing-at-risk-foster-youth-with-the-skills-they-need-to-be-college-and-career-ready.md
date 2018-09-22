@@ -137,6 +137,11 @@ project_proposal_description: >-
   providing outcomes-driven services to more youth in need, First Place can push
   for higher standards through our leadership in the field and change the way
   that youth are treated within the foster care system.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

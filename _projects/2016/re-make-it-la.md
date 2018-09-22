@@ -157,6 +157,12 @@ project_proposal_description: >-
   capacity so they can better understand their marketplace, increase sales and
   re-position the company to avert relocation and loss of manufacturing jobs in
   LA County.
+project_proposal_impact:
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Jobs per capita
+  - Minority- and women-owned firms
+  - Venture capital investment
 category: create
 body_class: banana
 

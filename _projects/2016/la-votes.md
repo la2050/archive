@@ -145,6 +145,15 @@ project_proposal_description: >-
   1,000+ LMU students as field researchers, collected 12,000+ exit surveys,
   fostered dozens of media hits, and hosted hundreds of guests at past Election
   Central celebrations.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Voting rates
 category: connect
 body_class: tangerine
 

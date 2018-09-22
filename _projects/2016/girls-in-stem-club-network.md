@@ -136,6 +136,10 @@ project_proposal_description: >-
   programs where they live. Each Club will be based in the girls’ own
   communities, giving them a sense of belonging and pride. With women making up
   29% of the STEM workforce, the program will set a founda
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

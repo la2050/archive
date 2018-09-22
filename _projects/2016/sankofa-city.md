@@ -130,6 +130,10 @@ project_proposal_description: >-
   collaborative workshops with artists, students, technical experts, and local
   Leimert Park residents, to create vivid scenarios of the possibilities to
   share with the public and spark debate.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

@@ -143,6 +143,9 @@ project_proposal_description: >-
   Connecting Children to Art and Nature (CCAN). CCAN is a comprehensive
   multi-disciplinary arts program which uses art and nature as a mode of
   learning to facilitate the development of the whole child.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
 category: learn
 body_class: blueberry
 

@@ -78,6 +78,9 @@ project_proposal_description: >-
   employable skills, and a chance for advancement.  Businesses also have a
   problem —there just isn’t enough tech talent to match the growing demand.
   LaunchCode programs address both problems.
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
 category: live
 body_class: lime
 

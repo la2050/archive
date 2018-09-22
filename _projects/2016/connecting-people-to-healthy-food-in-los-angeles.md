@@ -83,6 +83,12 @@ project_proposal_description: >-
   real-world usability testing, marketing and promoting our product to the Los
   Angeles landscape, and ultimately improving our product's UI/UX and back-end
   to maximize our effectiveness in LA.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

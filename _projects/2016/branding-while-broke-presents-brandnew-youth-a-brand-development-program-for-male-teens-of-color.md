@@ -143,6 +143,12 @@ project_proposal_description: >-
   personal brand. The program will be concentrated on students from low income,
   high consumer communities within South Central Los Angeles and will be limited
   to 10 participants per cycle.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

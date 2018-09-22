@@ -81,6 +81,8 @@ project_proposal_description: >-
   art activities, art shows, skate competitions, and merchandise as incentives
   for kids to come after school and do their homework and exchange it for
   points.
+project_proposal_impact:
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

@@ -144,6 +144,9 @@ project_proposal_description: >-
   representative public input, avoid the trolls, and no public speaking
   required!  This project will work closely with one lead NC and make the tools
   and best practices will be available to all in LA.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
 category: connect
 body_class: tangerine
 

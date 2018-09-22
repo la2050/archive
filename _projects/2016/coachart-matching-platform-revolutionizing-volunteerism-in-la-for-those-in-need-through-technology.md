@@ -121,6 +121,8 @@ project_proposal_description: >-
   entire process of engaging, training, and on-boarding volunteers online to
   reduce excessive overhead and time needed to prepare them to be matched with a
   student.
+project_proposal_impact:
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

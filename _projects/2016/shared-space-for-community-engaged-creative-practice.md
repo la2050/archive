@@ -135,6 +135,10 @@ project_proposal_description: >-
   vibrant and diverse community-based approaches and projects that cultivates
   platforms from which communities of LA from all backgrounds can come together
   and engage in civic discourse and art-making.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

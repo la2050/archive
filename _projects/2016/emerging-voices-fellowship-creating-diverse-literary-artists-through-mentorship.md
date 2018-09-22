@@ -92,6 +92,10 @@ project_proposal_description: >-
   classes through the UCLA Extension Writers’ Program; attend genre-specific
   classes; receive a nominal stipend; participate in a volunteer project; and
   share their works at public readings.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

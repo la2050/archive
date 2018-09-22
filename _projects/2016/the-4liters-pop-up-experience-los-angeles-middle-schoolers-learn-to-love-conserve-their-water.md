@@ -91,6 +91,8 @@ project_proposal_description: >-
   The 4Liters Pop-Up Experience includes several interactive displays that will
   help students explore fundamental concepts about water conservation both
   locally and beyond their communities.
+project_proposal_impact:
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

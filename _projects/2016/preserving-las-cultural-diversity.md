@@ -134,6 +134,11 @@ project_proposal_description: >-
   diverse neighborhoods to negotiate the change process and develop a robust
   approach for leveraging culture as a tool for promoting sustainable
   neighborhood identities and economic development.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

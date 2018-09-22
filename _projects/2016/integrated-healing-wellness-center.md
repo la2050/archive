@@ -84,6 +84,15 @@ project_proposal_description: >-
   trauma-focused wellness programs that concentrate on mitigating the long term
   effects of abuse, and a number of prevention programs to educate the
   community.
+project_proposal_impact:
+  - Access to healthy food
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Mental illness
 category: live
 body_class: lime
 

@@ -62,6 +62,8 @@ project_proposal_description: >-
   parents complete together at home and follow up with feedback to the teacher.
   It connects teachers and parents online and via text messaging to share
   information on student learning.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
 category: learn
 body_class: blueberry
 

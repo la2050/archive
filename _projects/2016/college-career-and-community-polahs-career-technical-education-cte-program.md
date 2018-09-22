@@ -161,6 +161,14 @@ project_proposal_description: >-
   Postsecondary and industry partnerships are integral to the program, allowing
   students to graduate with core academic skills, employability skills, and
   technical, job-specific skills.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

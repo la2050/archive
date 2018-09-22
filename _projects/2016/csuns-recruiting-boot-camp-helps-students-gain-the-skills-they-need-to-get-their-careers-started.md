@@ -112,6 +112,8 @@ project_proposal_description: >-
 
   This grant will allow CSUN to include more students, add a one-day spring
   program and extend orientation to CSUN freshmen and sophomores.
+project_proposal_impact:
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

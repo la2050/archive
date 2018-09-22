@@ -112,6 +112,14 @@ project_proposal_description: >-
   with mental health conditions.  The program will also recruit, train, & place
   trained individuals in their communities to further expand outreach and
   education efforts.
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Healthcare access
+  - Self-sufficiency
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
 category: live
 body_class: lime
 

@@ -140,6 +140,9 @@ project_proposal_description: >-
   designed to diversify the pipeline, to recruit people & give them access to
   the tools & to the people they need to know to take their place in & help
   create the publishing industry of the future.
+project_proposal_impact:
+  - College completion
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

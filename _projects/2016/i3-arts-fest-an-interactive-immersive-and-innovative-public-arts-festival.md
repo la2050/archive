@@ -112,6 +112,11 @@ project_proposal_description: >-
   This nighttime celebration features large-scale installations, multimedia and
   performing arts experiences that will inspire the community, entertain
   visitors and thrill stakeholders.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

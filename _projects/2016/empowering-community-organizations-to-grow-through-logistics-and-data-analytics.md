@@ -128,6 +128,11 @@ project_proposal_description: >-
   outreach to local programs and provide them with a platform and advisory
   services that will allow them to leverage their resources to impact more
   children throughout Los Angeles.
+project_proposal_impact:
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

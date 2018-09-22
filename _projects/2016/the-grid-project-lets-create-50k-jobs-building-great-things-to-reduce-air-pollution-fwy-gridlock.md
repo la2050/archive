@@ -108,6 +108,9 @@ project_proposal_description: >-
   support through its affiliation with the Los Angeles Cleantech Incubator and
   its surrounding community stakeholders to include education, and neighborhood
   councils.
+project_proposal_impact:
+  - Travel time to work
+  - Participation in neighborhood councils
 category: connect
 body_class: tangerine
 

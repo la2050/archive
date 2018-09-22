@@ -146,6 +146,10 @@ project_proposal_description: >-
   Additionally, we will give students opportunities to produce their own
   projects, showcase their talents, and connect them with industry mentors and
   agents to jumpstart their careers.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

@@ -123,6 +123,11 @@ project_proposal_description: >-
   prepare to apply to college.  In turn, those high school mentors, will mentor
   at risk middle school students at risk of not graduating, to increase their
   motivation towards school.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

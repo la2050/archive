@@ -171,6 +171,11 @@ project_proposal_description: >-
   'maker's lab' for content creation, and hospitality job training with
   placement to PodShare and hotel service companies. Each youth pays a nominal
   fee and must either have or be actively seeking a job.
+project_proposal_impact:
+  - Housing affordability
+  - Self-sufficiency
+  - Resilient communities
+  - Homelessness
 category: live
 body_class: lime
 

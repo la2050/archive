@@ -89,6 +89,17 @@ project_proposal_description: >-
   then deliver these products to people's door, so that people anywhere in Los
   Angeles have a way to be connected to local producers and have a way to find,
   support and receive their craft products.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Unemployment (and opportunities) for the formerly incarcerated
+  - Venture capital investment
 category: create
 body_class: banana
 

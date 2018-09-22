@@ -163,6 +163,17 @@ project_proposal_description: >-
   improve Exposition Park's contribution to surrounding neighborhoods by
   planning for additional amenities and better-marked links between public
   transit, pedestrian routes, and biking trails.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Total number of local social media friends and connections Angelenos have
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
 category: connect
 body_class: tangerine
 

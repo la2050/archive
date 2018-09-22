@@ -144,6 +144,13 @@ project_proposal_description: >-
   with opportunities to learn about education policy, network with policy
   makers, and participate in leadership development and advocacy campaigns to
   make LA a great place to learn and teach.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
 category: learn
 body_class: blueberry
 

@@ -115,6 +115,11 @@ project_proposal_description: >-
   Los Angeles, our programs forge the critical link between underserved
   populations and our health centers, increasing awareness of the need for
   medical care and knowledge of how to access services.
+project_proposal_impact:
+  - Healthcare access
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
 category: live
 body_class: lime
 

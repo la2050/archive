@@ -126,6 +126,14 @@ project_proposal_description: >-
   tags placed at each fruit tree identify it as part of a network of sharing.
   Anyone can collaborate with the project by planting, mapping, sharing, and
   navigating the fruit trees via the free online website and app.
+project_proposal_impact:
+  - Access to healthy food
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Tree canopy cover
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

@@ -130,6 +130,11 @@ project_proposal_description: >-
   #MeetSoCal will build relationships with new audiences, inform and feed our
   news coverage, connect people with their neighbors and communities, and foster
   conversation about civic and cultural issues in LA.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

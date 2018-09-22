@@ -80,6 +80,15 @@ project_proposal_description: >-
   transformation of their community by leading community organizing,
   landscaping, and beautification efforts is a key piece of the Green Alleys
   Initiative.
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

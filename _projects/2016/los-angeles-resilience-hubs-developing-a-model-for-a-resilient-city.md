@@ -122,6 +122,10 @@ project_proposal_description: >-
   updates from emergency personnel. We will work with local communities,
   designers, and government organizations to develop a model for Resilience Hubs
   in neighborhoods throughout the County.
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
 category: live
 body_class: lime
 

@@ -133,6 +133,14 @@ project_proposal_description: >-
   STEM3 Academy, the first K-12 school in the nation designed to build STEM
   competence in children with special needs, and will include programs in cyber
   security, robotics, coding and computers.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

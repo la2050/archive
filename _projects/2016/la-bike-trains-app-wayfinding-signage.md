@@ -120,6 +120,12 @@ project_proposal_description: >-
 
   It's possible! LA Bike Trains has been running a similar education program in
   LA since 2013. Based on feedback this is what people want.
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

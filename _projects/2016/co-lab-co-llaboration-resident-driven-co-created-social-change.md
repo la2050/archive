@@ -163,6 +163,15 @@ project_proposal_description: >-
   strategies, Co/Lab will empower residents to work alongside institutions to
   create & implement a county-wide projects mirroring the success of SBCC’s CFSK
   & iHeart Models.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
+  - Voting rates
 category: connect
 body_class: tangerine
 

@@ -112,6 +112,17 @@ project_proposal_description: >-
   The project proposal is seeking funding to provide opportunities for fathers
   and other male role models to gain knowledge and skills in making a positive
   impact in the lives of children and families.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

@@ -132,6 +132,11 @@ project_proposal_description: >-
   buildings to artists that can create vibrant events in underutilized spaces
   and neighborhoods. This will result in more art establishments and jobs per
   capita, each of them collaborative.
+project_proposal_impact:
+  - Arts establishments
+  - Manufacturing activity
+  - Employment in the creative industries
+  - Jobs per capita
 category: create
 body_class: banana
 

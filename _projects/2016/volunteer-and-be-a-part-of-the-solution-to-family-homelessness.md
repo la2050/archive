@@ -100,6 +100,12 @@ project_proposal_description: >-
   place to connect, engage, and empower people from different ethnic, cultural
   and socioeconomic backgrounds. In order to expand and work with 100 families
   in 2017, we need volunteers.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
 category: connect
 body_class: tangerine
 

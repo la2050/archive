@@ -119,6 +119,13 @@ project_proposal_description: >-
   climate-appropriate plants for public parks and LA River restoration projects;
   conduct cutting-edge research on urban ecology; and engage Angelenos through
   educational opportunities.
+project_proposal_impact:
+  - Waterways
+  - Exposure to air toxins
+  - Self-sufficiency
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
 category: live
 body_class: lime
 

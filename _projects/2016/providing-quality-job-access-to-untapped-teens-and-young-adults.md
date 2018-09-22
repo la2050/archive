@@ -98,6 +98,11 @@ project_proposal_description: >-
   create a sustainable business that will be able to hire and train at least 6
   youth employees this year, and double the number of employees each year
   thereafter.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

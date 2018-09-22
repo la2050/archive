@@ -148,6 +148,13 @@ project_proposal_description: >-
   on the success of our summer program to include an afterschool program to
   launch in April providing the necessary support & motivation needed
   year-round.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

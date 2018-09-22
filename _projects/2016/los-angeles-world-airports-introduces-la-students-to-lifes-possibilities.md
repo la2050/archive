@@ -72,6 +72,12 @@ project_proposal_description: >-
   Angeles World Airports, we aspire to provide students with positions that will
   help develop future career goals. We hope to expand the existing program from
   12 to 25 positions.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - Early education
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

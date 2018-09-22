@@ -90,6 +90,15 @@ project_proposal_description: >-
   to humanize and engage all sizes and shapes of humans to attend. UEP wants
   people to learn how easily, enjoyably and important navigating all levels of
   art & science can be.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

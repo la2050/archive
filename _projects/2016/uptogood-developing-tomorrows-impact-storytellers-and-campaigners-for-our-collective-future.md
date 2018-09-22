@@ -142,6 +142,13 @@ project_proposal_description: >-
   will actively ideate, film, and host social impact campaigns for causes they
   care about on UPTOGOOD, while working closely with local NGOs and companies
   looking to make a positive social impact.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

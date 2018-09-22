@@ -140,6 +140,11 @@ project_proposal_description: >-
   CONNECT-CONVENE-COLLABORATE will bring together leaders and innovators from
   all sectors across LA to provide peer support and promote new collaborations
   to solve LA’s biggest problems.
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

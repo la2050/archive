@@ -68,6 +68,15 @@ project_proposal_description: >-
   Developer, partner organizations will gain critical, committed volunteers,
   while recognizing the strengths that people with disabilities are waiting to
   give back to their community.
+project_proposal_impact:
+  - Access to free wifi
+  - Social & emotional support
+  - Cultural events
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

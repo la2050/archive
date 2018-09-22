@@ -88,6 +88,14 @@ project_proposal_description: >-
   To create a series of cantilevered 'Jutout' parklets overlooking Los Angeles
   waterways -- with a priority of installing the parklets in park poor
   communities.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

@@ -130,6 +130,12 @@ project_proposal_description: >-
   redirects youth to productive activities in order to prevent escalation of
   misdemeanor offenses to felony level violence and to increase community
   safety.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

@@ -185,6 +185,16 @@ project_proposal_description: >-
   reflects LA's culture, and to offer resources for both sides to more
   efficiently give and receive manpower, internships, mentorships, scholarships,
   monetary support, hardware, software, and more.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

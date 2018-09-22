@@ -110,6 +110,14 @@ project_proposal_description: >-
   students we serve will be able to tour the space, learn about jobs available
   to them in the future, and understand how exciting and accessible a job in
   computer programming can truly be for them!
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Student education pipeline
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

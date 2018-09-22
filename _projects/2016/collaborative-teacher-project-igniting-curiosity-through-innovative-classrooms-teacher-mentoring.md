@@ -122,6 +122,8 @@ project_proposal_description: >-
   to extend our support of these classrooms through May 2017, as well as expand
   our mentoring project to 4 more at-risk LA schools by the end of the 2017-18
   school year.
+project_proposal_impact:
+  - Early education
 category: learn
 body_class: blueberry
 

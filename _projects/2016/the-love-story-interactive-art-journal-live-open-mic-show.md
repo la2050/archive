@@ -111,6 +111,13 @@ project_proposal_description: >-
   journal, complimented by two live music/art shows where Angelenos can engage
   in conversations surrounding grief, love and art while providing artists
   performances and open mic sharing of our journal entries.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

@@ -117,6 +117,9 @@ project_proposal_description: >-
   local water and how to become citizen scientists.  Sharks populations are
   correlated to other ocean species and not only sequester carbon in their
   bodies, but are apex predators vital to the ocean.
+project_proposal_impact:
+  - Minority- and women-owned firms
+  - High growth startups
 category: create
 body_class: banana
 

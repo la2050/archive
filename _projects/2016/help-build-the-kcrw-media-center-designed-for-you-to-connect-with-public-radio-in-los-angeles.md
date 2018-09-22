@@ -114,6 +114,12 @@ project_proposal_description: >-
   source of news, music, and cultural discovery, we will expand our
   programming—on air, online and in person—to engage our devoted audiences here
   in Los Angeles and around the world.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

@@ -161,6 +161,10 @@ project_proposal_description: >-
   programs for both at-risk youth (ages 16–24), & adult emerging artists & arts
   administrators, while also providing a fixed venue for our cultural events &
   arts programs in partnership with our affiliate organizations.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

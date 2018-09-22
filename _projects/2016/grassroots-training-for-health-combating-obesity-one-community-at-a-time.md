@@ -97,6 +97,10 @@ project_proposal_description: >-
   Academy of Strength/Sport will provide the exercise equipment and group
   classes along with a train-the-trainer program for the purpose of the
   Community to maintain an exercise program independently.
+project_proposal_impact:
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
 category: live
 body_class: lime
 

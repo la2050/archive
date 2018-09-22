@@ -132,6 +132,11 @@ project_proposal_description: >-
   which they're dropped. We will work with local organizations towards permanent
   deployments, and along the way document our process of design and public
   deployment through online video.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
 category: play
 body_class: strawberry
 

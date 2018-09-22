@@ -60,6 +60,8 @@ project_proposal_description: >-
   curriculum tool that allows our visually impaired instructors to effectively
   teach digital literacy skills to our blind students in one-on-one and group
   settings.
+project_proposal_impact:
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

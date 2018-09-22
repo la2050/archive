@@ -127,6 +127,14 @@ project_proposal_description: >-
   thrive in a diverse society. To achieve this ambitious goal, CWC must equip
   our staff with the values, skills, and tools to empower students to navigate
   lines of difference and build community.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

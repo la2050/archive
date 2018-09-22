@@ -124,6 +124,9 @@ project_proposal_description: >-
   focused on helping the provider introduce culinary skills and healthful foods
   to children. Culinary skills and food delivery addresses childhood obesity and
   food access issues in L.A. County.
+project_proposal_impact:
+  - Access to healthy food
+  - Obesity
 category: live
 body_class: lime
 

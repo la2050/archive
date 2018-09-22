@@ -113,6 +113,14 @@ project_proposal_description: >-
   connect, and live in our vibrant community. The podcast celebrates the past,
   present and future of mobility in Los Angeles through narrative content by
   creating story-driven podcasts that educate, inspire and entertain people.
+project_proposal_impact:
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

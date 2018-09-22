@@ -124,6 +124,12 @@ project_proposal_description: >-
   the first of our program is complete, our goal is to expand our cooking
   program and to grow into the model elementary school in Los Angeles for
   health, nutrition and sustainability.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
 category: live
 body_class: lime
 

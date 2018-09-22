@@ -96,6 +96,11 @@ project_proposal_description: >-
   streams (that’s where the Rubbish comes in). Using this material rather than
   allowing it to head to landfill will also advance the notion of environmental
   stewardship in a generation of Los Angeles’ children.
+project_proposal_impact:
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

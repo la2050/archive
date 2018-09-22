@@ -138,6 +138,18 @@ project_proposal_description: >-
 
 
   All things grow with LOVE.
+project_proposal_impact:
+  - Access to healthy food
+  - Exposure to air toxins
+  - Healthcare access
+  - Self-sufficiency
+  - Obesity
+  - Local water
+  - Resilient communities
+  - Tree canopy cover
+  - Prevalence of adverse childhood experiences
+  - Homelessness
+  - Mental illness
 category: live
 body_class: lime
 

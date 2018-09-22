@@ -138,6 +138,12 @@ project_proposal_description: >-
   sculpture, art, and sensory gardens, performances, adventure and water play,
   nature discovery and informal gatherings. Both the project and its outcome are
   envisioned to support learning.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

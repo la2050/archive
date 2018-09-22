@@ -125,6 +125,13 @@ project_proposal_description: >-
   and empower them to make informed decisions and access vital support systems
   to accelerate the healing and justice seeking process. Empower Me is easily
   accessible and free of charge to all users.
+project_proposal_impact:
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Prevalence of adverse childhood experiences
+  - Mental illness
 category: live
 body_class: lime
 

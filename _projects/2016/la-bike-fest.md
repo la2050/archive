@@ -88,6 +88,11 @@ project_proposal_description: >-
   bikes) making it easy to learn, play and connect we can jump start a new
   excitement for bikes and get more people riding to work/school, connecting to
   METRO and enjoying how great LA is for biking.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Perceived safety
 category: play
 body_class: strawberry
 

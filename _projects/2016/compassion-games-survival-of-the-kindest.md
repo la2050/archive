@@ -118,6 +118,14 @@ project_proposal_description: >-
   way of being compassionate has been more creative, effective and awe inspiring
   than the Compassion Games: Survival of the Kindest. Next year we want to
   transcend the geographical divide and include LA County in our efforts.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Perceived safety
 category: play
 body_class: strawberry
 

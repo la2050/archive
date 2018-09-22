@@ -96,6 +96,9 @@ project_proposal_description: >-
   combine forces with community-based organizations by providing microloans to
   their constituents. This collaboration is a means to scale and provide fairer
   and affordable capital options for our community.
+project_proposal_impact:
+  - Jobs per capita
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

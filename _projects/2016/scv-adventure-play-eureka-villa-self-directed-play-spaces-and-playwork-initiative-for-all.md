@@ -127,6 +127,13 @@ project_proposal_description: >-
   SCV Adventure Play is focusing on two initiatives with the 2050 Grant, opening
   the Eureka Villa Adventure Playground to a larger public and funding FREE
   Saturday Adventure Play Days throughout LA County for AN ENTIRE YEAR.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

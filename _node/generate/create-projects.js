@@ -167,6 +167,7 @@ const projectAnswers = [
   "project_proposal_best_place",
   "project_proposal_engage",
   "project_proposal_help",
+  "project_proposal_impact", // For 2016
   "project_measure",
   "project_five_years",
   "category_metrics",

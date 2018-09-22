@@ -163,6 +163,11 @@ project_proposal_description: >-
 
   Our community will provide a place to connect, get location specific and
   obtain specific instructions related to any crop of interest.
+project_proposal_impact:
+  - Access to healthy food
+  - Self-sufficiency
+  - Resilient communities
+  - Tree canopy cover
 category: live
 body_class: lime
 

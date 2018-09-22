@@ -159,6 +159,11 @@ project_proposal_description: >-
   comprehensive package gives underserved students a space to transform their
   physical education experience, and P.E. educators new and inventive resources
   to implement within their class.
+project_proposal_impact:
+  - Self-sufficiency
+  - Obesity
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
 category: live
 body_class: lime
 

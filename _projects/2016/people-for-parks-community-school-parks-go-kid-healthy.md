@@ -154,6 +154,14 @@ project_proposal_description: >-
   engagement, recruiting, playground management and physical activities.
   Community mobilization by PFP and Kid Healthy will keep these play spaces open
   and sustainable.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

@@ -132,6 +132,11 @@ project_proposal_description: >-
   girls interested in learning how to make interactive Virtual Reality (VR)
   content.  It proved to be a hugely valuable experience for the girls -
   immersing them in a new world and potential future.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Youth unemployment and underemployment
 category: learn
 body_class: blueberry
 

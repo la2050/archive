@@ -105,6 +105,8 @@ project_proposal_description: >-
   special here is that we are bringing the Club to the home community so that
   kids are directly served with programs they need, and the whole family
   benefits from using the family-centered space.
+project_proposal_impact:
+  - Number of children enrolled in afterschool programs
 category: play
 body_class: strawberry
 

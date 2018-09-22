@@ -88,6 +88,11 @@ project_proposal_description: >-
   lifetime, so we train women, specifically women who grew up in the mostly
   unsafe environment of foster care, that they can prevent violence and how to
   defend themselves when necessary.
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Homelessness
 category: live
 body_class: lime
 

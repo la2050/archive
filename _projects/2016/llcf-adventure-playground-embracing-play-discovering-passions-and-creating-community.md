@@ -116,6 +116,13 @@ project_proposal_description: >-
   for children to explore. We hope that this outreach will connect with children
   and families of the neighborhood to create a safe environment to learn and
   emphasize the importance of play.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

@@ -110,6 +110,12 @@ project_proposal_description: >-
   in-field, real-time, plant sensing system for a site-specific application can
   protect the environment from excessive chemicals and save management cost
   while controlling the productivity of watering systems.
+project_proposal_impact:
+  - Access to healthy food
+  - Waterways
+  - Self-sufficiency
+  - Local water
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

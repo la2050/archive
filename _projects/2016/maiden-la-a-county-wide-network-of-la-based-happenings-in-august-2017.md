@@ -144,6 +144,14 @@ project_proposal_description: >-
   August 2017. In expanding outreach and participation, Maiden LA will continue
   to connect artists and collectives while representing LA County as a vibrant
   and extensive art community.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
 category: create
 body_class: banana
 

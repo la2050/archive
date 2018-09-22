@@ -89,6 +89,10 @@ project_proposal_description: >-
   highlight emerging artists each week for 3 months on our website, social media
   channels, & on an app.  We want to bring art to Angelenos and help artists
   develop sustainable careers in the arts.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

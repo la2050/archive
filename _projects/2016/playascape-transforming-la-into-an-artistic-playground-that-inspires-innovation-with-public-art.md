@@ -125,6 +125,11 @@ project_proposal_description: >-
   symbiotic relationship with math and science, creatively pushing boundaries
   and inspiring innovation. Playascape produces cultural experiences that infuse
   community engagement, technology and media to interact with the whole family.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
 category: create
 body_class: banana
 

@@ -121,6 +121,13 @@ project_proposal_description: >-
   address short- and long-term needs and goals. Both in-person and via an online
   tool, LIFT and One Degree are working hand-in-hand with families on their
   journeys out of poverty.
+project_proposal_impact:
+  - Access to healthy food
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Prevalence of adverse childhood experiences
+  - Homelessness
 category: live
 body_class: lime
 

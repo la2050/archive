@@ -90,6 +90,11 @@ project_proposal_description: >-
   of reading and documenting air pollution data which would not only increase
   sensitivity towards the built environment but could trigger formulation of
   locally informed urban policies.
+project_proposal_impact:
+  - Exposure to air toxins
+  - Resilient communities
+  - Tree canopy cover
+  - Walk/bike/transit score
 category: live
 body_class: lime
 

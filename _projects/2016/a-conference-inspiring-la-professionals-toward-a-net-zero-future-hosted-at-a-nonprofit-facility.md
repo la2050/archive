@@ -121,6 +121,9 @@ project_proposal_description: >-
   Electrical Training Institute is the perfect venue for this conference to
   inspire L.A.'s building professionals into action and prepare for California's
   net zero code changes together.
+project_proposal_impact:
+  - Self-sufficiency
+  - Resilient communities
 category: live
 body_class: lime
 

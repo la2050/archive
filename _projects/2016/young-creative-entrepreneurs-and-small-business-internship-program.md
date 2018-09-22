@@ -120,6 +120,14 @@ project_proposal_description: >-
   places these highly trained youth at minority and women-owned small businesses
   applying what they learned by giving creative, innovative and technology-based
   business support: marketing, website, social media, and bookkeeping, etc.
+project_proposal_impact:
+  - Employment in the creative industries
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Recruiting and retention rates for local higher education institutions
 category: create
 body_class: banana
 

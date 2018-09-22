@@ -89,6 +89,11 @@ project_proposal_description: >-
   teachers at Andrew Carnegie Middle School are learning tools, skills and
   processes to prevent and resolve conflicts, and to enhance youth leadership
   and academics.
+project_proposal_impact:
+  - Proficiency in English and Language Arts and Math
+  - Students’ perceived sense of safety at and on the way to school
+  - Suspension and expulsion rates
+  - Truancy rates in elementary and middle schools
 category: learn
 body_class: blueberry
 

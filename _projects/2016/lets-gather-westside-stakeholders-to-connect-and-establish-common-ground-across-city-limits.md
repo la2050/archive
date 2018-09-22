@@ -98,6 +98,11 @@ project_proposal_description: >-
   day-long conference to gather leaders and stakeholders from across the
   Westside spectrum to solve common challenges, seize upon common opportunities,
   and identify projects to pursue in the coming year.
+project_proposal_impact:
+  - Government responsiveness to residents’ needs
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Residential segregation
 category: connect
 body_class: tangerine
 

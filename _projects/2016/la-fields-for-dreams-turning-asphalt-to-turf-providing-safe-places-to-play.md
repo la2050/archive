@@ -119,6 +119,15 @@ project_proposal_description: >-
   rarely participate at all. ASLA's vision for Los Angeles is for all children
   to have access to high-quality sports and enrichment programs and safe places
   to play regardless of families’ income levels.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Attendance at major league sporting events
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Number of parks with intergenerational play opportunities
+  - Number of residents with easy access to a “vibrant” park
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

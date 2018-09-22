@@ -95,6 +95,22 @@ empty_column_1: ''
 project_proposal_description: >-
   Connect the community to unique and custom planes to give of your time,
   treasure or talent, locally.
+project_proposal_impact:
+  - Access to free wifi
+  - Social & emotional support
+  - Cultural events
+  - Public/open streets gatherings
+  - Government responsiveness to residents’ needs
+  - Travel time to work
+  - Public transit riders
+  - Participation in neighborhood councils
+  - Rates of volunteerism
+  - Residential segregation
+  - Total number of local social media friends and connections Angelenos have
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
+  - Voting rates
 category: connect
 body_class: tangerine
 

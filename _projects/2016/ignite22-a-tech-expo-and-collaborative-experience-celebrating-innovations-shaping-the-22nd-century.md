@@ -139,6 +139,20 @@ project_proposal_description: >-
   impact our lives into the 22nd Century. IGNITE22 will inspire innovation and
   creativity in entrepreneurship and STEM programs while supporting the region’s
   technology hubs. With a single accord, we will celebrate the future.
+project_proposal_impact:
+  - Manufacturing activity
+  - Federal research grant funding
+  - Gini coefficient
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - High growth startups
+  - Patents per capita
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
+  - Venture capital investment
 category: create
 body_class: banana
 

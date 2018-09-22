@@ -76,6 +76,10 @@ project_proposal_description: >-
   especially looking for support of its Fringe Scholarships program, which
   provides scholarships to performers from diverse and underrepresented
   backgrounds.
+project_proposal_impact:
+  - Arts establishments
+  - Employment in the creative industries
+  - Measures of cultural and global economic influence (“soft power”)
 category: create
 body_class: banana
 

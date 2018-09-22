@@ -122,6 +122,10 @@ project_proposal_description: >-
   with a proven message to move them through the prospective foster parent
   funnel.  We would like to expand our online effort to meet the pressing need
   for foster parents in the county.
+project_proposal_impact:
+  - Social & emotional support
+  - Government responsiveness to residents’ needs
+  - Rates of volunteerism
 category: connect
 body_class: tangerine
 

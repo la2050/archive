@@ -129,6 +129,12 @@ project_proposal_description: >-
   our playing field. These changes will benefit the over 2,100 students
   attending King, while providing greater entertainment and recreational
   opportunities for our surrounding neighbors.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of children enrolled in afterschool programs
+  - Per capita crime rates
+  - Perceived safety
 category: play
 body_class: strawberry
 

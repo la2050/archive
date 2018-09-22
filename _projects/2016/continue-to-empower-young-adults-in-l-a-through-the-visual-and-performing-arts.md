@@ -79,6 +79,8 @@ project_proposal_description: >-
   order to expand programming. In turn, PIECES will serve more young creatives
   in the Los Angeles area, offering a secure, inspirational, and motivational
   creative home. Growing more opportunities.
+project_proposal_impact:
+  - Arts establishments
 category: create
 body_class: banana
 

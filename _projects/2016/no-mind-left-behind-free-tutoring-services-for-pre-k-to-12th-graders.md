@@ -142,6 +142,15 @@ project_proposal_description: >-
   currently servicing over 350 students to thousands of students in LAUSD, ISD,
   ICEF, and so on. We have seen how our services have helped strengthen and
   maintain students’ mentality and self-esteem.
+project_proposal_impact:
+  - Manufacturing activity
+  - Jobs per capita
+  - Measures of cultural and global economic influence (“soft power”)
+  - Minority- and women-owned firms
+  - >-
+    Percentage of graduates from local higher education institutions that remain
+    in LA County 5 years after graduating
+  - Recruiting and retention rates for local higher education institutions
 category: create
 body_class: banana
 

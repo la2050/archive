@@ -113,6 +113,10 @@ project_proposal_description: >-
   photography and marketing. Our project will host photoshoots for 20
   organizations across Greater LA, in order to help them tell their story and
   create visual representations of the life-changing work being done.
+project_proposal_impact:
+  - Social & emotional support
+  - Rates of volunteerism
+  - Total number of local social media friends and connections Angelenos have
 category: connect
 body_class: tangerine
 

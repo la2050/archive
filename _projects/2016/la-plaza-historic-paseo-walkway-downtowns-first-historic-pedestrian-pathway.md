@@ -126,6 +126,13 @@ project_proposal_description: >-
   Union Station, El Pueblo, LA Plaza and Fort Moore.  The Walkway will serve as
   a new gathering place for Angelenos and visitors to explore, experience and
   appreciate the city’s historical roots.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+  - Public transit riders
+  - >-
+    Transit-accessible housing and employment (the share of housing units and
+    percentage of jobs that are located within a half-mile of transit)
 category: connect
 body_class: tangerine
 

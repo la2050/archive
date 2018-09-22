@@ -104,6 +104,13 @@ project_proposal_description: >-
   applications are filled out online. In collaboration with AT&T, we will
   facilitate Internet connectivity and devices for families living in public
   housing within Los Angeles’ designated Promise Zones.
+project_proposal_impact:
+  - College completion
+  - College matriculation rates
+  - District-wide graduation rates
+  - Proficiency in English and Language Arts and Math
+  - Early education
+  - Student education pipeline
 category: learn
 body_class: blueberry
 

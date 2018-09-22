@@ -114,6 +114,11 @@ project_proposal_description: >-
   of activities ranging from drumming, weaving, ceramics, woodworking,
   gardening, yoga and more. Da FUNction serves to transform unused, undervalued
   public spaces into beautiful places full of life, culture & art.
+project_proposal_impact:
+  - Access to open space and park facilities
+  - Number (and quality) of informal spaces for play
+  - Number of parks with intergenerational play opportunities
+  - Perceived safety
 category: play
 body_class: strawberry
 

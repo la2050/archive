@@ -106,6 +106,15 @@ project_proposal_description: >-
   and local communities with opportunities for service. And it gives all of us
   the chance to work together to transform Los Angeles into a place where
   everyone deserves to thrive.
+project_proposal_impact:
+  - Access to healthy food
+  - Housing affordability
+  - Healthcare access
+  - Self-sufficiency
+  - Resilient communities
+  - Residents receiving coordinated healthcare services
+  - Homelessness
+  - Mental illness
 category: live
 body_class: lime
 
