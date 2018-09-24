@@ -14,7 +14,7 @@ twitter: www.twitter.com/lapromisezone
 instagram: www.instagram.com/lapromisezone
 facebook: www.facebook.com/lapromisezone
 org_type: Other
-project_image: ''
+project_image: 'http://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Promise Zone Partnership is building healthy neighborhoods by connecting
@@ -27,5 +27,6 @@ title: >-
 uri: >-
   /organizations/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
+youtube_video_identifier: MbjQABq5iTI
 
 ---

@@ -12,7 +12,8 @@ twitter: www.twitter.com/rootdownla
 instagram: www.instagram.com/rootdownla/
 facebook: www.facebook.com/RootDown-LA-125870417444952
 org_type: Nonprofit
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23812%252Fdisplay%252FRD_APCH_Training_Install_Mar_15_4web.jpg=c570x385
 project_video: ''
 org_summary: >-
   RootDown LA confronts health-related issues in South LA, by first convincing
@@ -24,5 +25,7 @@ project_ids: '5102256'
 title: 'RootDown LA, A project of Community Partners'
 uri: /organizations/rootdown-la-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
+maker_image_id: '23812'
+maker_image_file_name: RD_APCH_Training_Install_Mar_15_4web.jpg
 
 ---

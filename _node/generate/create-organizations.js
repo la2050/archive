@@ -14,7 +14,13 @@ function stringToURI(str) {
     .replace(/\./g, '-')
     .replace(/\:/g, '-')
     .replace(/\!/g, '-')
+    .replace(/…/g, '-')
+    .replace(/\?/g, '-')
     .replace(/\$/g, '-')
+    .replace(/\%/g, '-')
+    .replace(/\≠/g, '-')
+    .replace(/\–/g, '-')
+    .replace(/\—/g, '-')
     .replace(/\|/g, '-')
     .replace(/\_/g, '-')
     .replace(/\,/g, "-")
@@ -37,7 +43,20 @@ function stringToURI(str) {
     .replace(/\-\-/g, '-')
     .replace(/^\-/g, '') // Remove starting dash
     .replace(/\-$/g, '') // Remove trailing dash
-    .replace(' ', '')
+    .replace(/ /g, '')
+}
+
+function getStringForComparison(string) {
+  string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
+  string = (stringToURI(string).replace(/\-/, ""))
+  // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
+  //   console.log("BEFORE")
+  //   console.log(string)
+  //   console.log("AFTER")
+  //   console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
+  //   return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
+  // }
+  return string
 }
 
 function fixDataCharacters(data) {
@@ -83,7 +102,7 @@ function getMakerProject(data, makerProjects, makerProjectAnswers) {
       if (!makerProjectAnswersLookup[answer.project_id]) {
         makerProjectAnswersLookup[answer.project_id] = {}
       }
-      makerProjectAnswersLookup[answer.project_id][answer.value.trim()] = 1
+      makerProjectAnswersLookup[answer.project_id][getStringForComparison(answer.value)] = 1
       if (answer.project_id == test_id) console.log(answer.project_id)
       if (answer.project_id == test_id) console.log(answer.value)
     })
@@ -98,9 +117,9 @@ function getMakerProject(data, makerProjects, makerProjectAnswers) {
     }
 
     if (makerProjectAnswersLookup[project.id] && 
-        makerProjectAnswersLookup[project.id][data.organization_name.trim()]) {
+        makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)]) {
       if (project.id == test_id) {
-        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][data.organization_name])
+        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)])
         console.log("*** found a match!")
       }
       match = project
@@ -262,7 +281,12 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
       } else if (match && match.video) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
-        data.project_image = `http://img.youtube.com/vi/${match.video.youtube_video_identifier}/maxresdefault.jpg`
+
+        // https://i.ytimg.com/vi/Gx66ZyZaf90/sddefault.jpg
+        data.project_image = `https://i.ytimg.com/vi/${match.video.youtube_video_identifier}/sddefault.jpg`
+
+        // data.project_image = `http://img.youtube.com/vi/${match.video.youtube_video_identifier}/maxresdefault.jpg`
+
         data.youtube_video_identifier = match.video.youtube_video_identifier
         // console.log(data.project_image)
       }

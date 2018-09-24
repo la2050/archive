@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/--BnysezHK0/maxresdefault.jpg'
+project_image: 'http://img.youtube.com/vi/ZKvfZLPuMhQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   While Filmanthropos is a fairly new social enterprise that was founded in Q4
@@ -26,6 +26,6 @@ project_ids: '3102044'
 title: Filmanthropos
 uri: /organizations/filmanthropos/
 challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
-youtube_video_identifier: '--BnysezHK0'
+youtube_video_identifier: ZKvfZLPuMhQ
 
 ---
