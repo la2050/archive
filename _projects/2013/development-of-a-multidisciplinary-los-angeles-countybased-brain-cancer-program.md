@@ -1,6 +1,6 @@
 ---
 organization_id: '2013022'
-project_image: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102041'
 title: >-
   Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer

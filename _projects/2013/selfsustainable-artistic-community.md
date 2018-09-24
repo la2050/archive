@@ -1,6 +1,6 @@
 ---
 organization_id: '2013211'
-project_image: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102269'
 title: 'SelfSustainable Artistic Community '
 indicator: ' Housing'

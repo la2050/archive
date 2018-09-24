@@ -1,6 +1,6 @@
 ---
 organization_id: '2013117'
-project_image: 'http://maker.good.is/myla2050/projects/FEM.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102174'
 title: Financial Enrichment and Management (collegiate class of 20182019)
 indicator: ' Income & Employment'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013128'
-project_image: 'http://maker.good.is/myla2050/projects/LTSC.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102192'
 title: ReConnecting L.A. Neighborhoods through Music & History
 indicator: ' Social Connectedness'

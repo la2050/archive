@@ -1,6 +1,6 @@
 ---
 organization_id: '2013110'
-project_image: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102167'
 title: 'Roving RÃ­o Vista: A Park on the Move'
 indicator: ' Social Connectedness'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013091'
-project_image: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102150'
 title: PesticideFree Los Angeles 2050
 indicator: ' Environmental Quality'

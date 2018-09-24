@@ -1,6 +1,6 @@
 ---
 organization_id: '2013073'
-project_image: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102131'
 title: Virtual Mentor Program for Foster and Atrisk Youth
 indicator: ' Education'

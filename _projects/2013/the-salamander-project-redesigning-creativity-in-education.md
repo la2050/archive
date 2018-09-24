@@ -1,6 +1,6 @@
 ---
 organization_id: '2013145'
-project_image: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102207'
 title: 'The Salamander Project: Redesigning Creativity in Education'
 indicator: ' Education'

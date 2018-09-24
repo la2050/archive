@@ -1,6 +1,6 @@
 ---
 organization_id: '2013152'
-project_image: 'http://maker.good.is/myla2050/projects/axsfestival.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102214'
 title: AxS aksis Festival
 indicator: Arts & Cultural Vitality

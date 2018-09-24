@@ -1,6 +1,6 @@
 ---
 organization_id: '2013163'
-project_image: 'http://maker.good.is/myla2050/projects/RFKLA.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102229'
 title: RFKLA (Legacy in Action) Digital Archive
 indicator: ' Education'

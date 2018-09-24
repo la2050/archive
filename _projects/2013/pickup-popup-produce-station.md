@@ -1,6 +1,6 @@
 ---
 organization_id: '2013040'
-project_image: 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102074'
 title: PickUp PopUp Produce Station
 indicator: ' Health'

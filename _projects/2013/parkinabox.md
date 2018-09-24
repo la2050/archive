@@ -1,6 +1,6 @@
 ---
 organization_id: '2013062'
-project_image: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102036'
 title: PARKINABOX
 indicator: ' Environmental Quality'

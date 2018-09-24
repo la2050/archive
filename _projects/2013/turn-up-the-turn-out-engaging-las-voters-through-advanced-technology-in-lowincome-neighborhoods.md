@@ -1,6 +1,6 @@
 ---
 organization_id: '2013026'
-project_image: 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102048'
 title: >-
   Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in
