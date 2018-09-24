@@ -12,8 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16366%252Fdisplay%252FStem_pic.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: >-
   KPI received the following grants and has leveraged in-kind funding to offset

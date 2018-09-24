@@ -14,8 +14,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16822%252Fdisplay%252Freal_estate_and_social_media_thoughts_1113.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: >-
   LA CAUSA YouthBuild is regarded as the organization that transformed the

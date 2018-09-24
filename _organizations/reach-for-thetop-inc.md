@@ -12,8 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16395%252Fdisplay%252FPOSTCARD-1.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: >-
   Currently R4TT has one lot with three households. On average we work with 30

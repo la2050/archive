@@ -202,6 +202,38 @@ tinyImages.forEach(image => {
   }
 })
 
+// let missingImages = []
+
+// let images = document.querySelectorAll(".proposals li img")
+// images.forEach(image => {
+//   var img = new Image();
+
+//   img.onerror = function(){
+//     missingImages.push(image.getAttribute("src"))
+//   }
+
+//   img.src = image.getAttribute("src");
+// })
+
+//JSON.stringify(missingImages)
+
+
+// http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17061%252Fdisplay%252FObama_kids_jobs.jpg=c570x385
+
+
+let missingImages = JSON.parse("[\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F18718%252Fdisplay%252FAntiguaSticker.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16399%252Fdisplay%252FAndrew_Colunga_whole_image_sm.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16109%252Fdisplay%252FBLOOM-NEWFINAL_LOGO_ccf_tag.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16042%252Fdisplay%252FBRAINCANCERLA2050.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16214%252Fdisplay%252FIMG_1031.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16195%252Fdisplay%252Fevolvela2.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16238%252Fdisplay%252FDebris_3.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16358%252Fdisplay%252Fvnfl_final_copy.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16366%252Fdisplay%252FStem_pic.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16779%252Fdisplay%252FJabami.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17061%252Fdisplay%252FObama_kids_jobs.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16174%252Fdisplay%252FLAM_Robots.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16822%252Fdisplay%252Freal_estate_and_social_media_thoughts_1113.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16307%252Fdisplay%252Fimage.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16057%252Fdisplay%252Fmcmenyellowandwhite_final.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16395%252Fdisplay%252FPOSTCARD-1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16300%252Fdisplay%252F2010-2011_Graduation_Picture.171103650_std.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16261%252Fdisplay%252FLASA_2012.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16360%252Fdisplay%252FGarden_Sign.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16669%252Fdisplay%252FCLARK_The_Country_Wife__1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16254%252Fdisplay%252Fscholarspic.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16390%252Fdisplay%252Fslider_gocarts2.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22867%252Fdisplay%252FGiveHalf_009.jpg=c570x385\"]")
+let missingImagesLookup = {}
+
+console.dir(missingImages)
+
+missingImages.forEach(image => {
+  if (image.includes("Obama_kids_jobs.jpg")) {
+    console.log("adding lookup image Obama_kids_jobs.jpg")
+    console.log(`image: ${image}`)
+  }
+  missingImagesLookup[image] = 1
+})
+console.dir(missingImagesLookup)
 
 
 function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswers) {
@@ -354,6 +386,15 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     if (data[prop] === '0') data[prop] = ''
   }
   data = fixDataCharacters(data);
+
+  if (data.project_image.includes("Obama_kids_jobs.jpg")) {
+    console.log("checking for missing image Obama_kids_jobs.jpg")
+    console.log(`data.project_image: ${data.project_image}`)
+    console.log(`missingImagesLookup[data.project_image]: ${missingImagesLookup[data.project_image]}`)
+  }
+  if (missingImagesLookup[data.project_image]) {
+    data.project_image = "http://maker.good.is/images/placeholder/idea.png"
+  }
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
