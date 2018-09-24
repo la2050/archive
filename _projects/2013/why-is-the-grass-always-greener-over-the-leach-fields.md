@@ -1,6 +1,6 @@
 ---
 organization_id: '2013025'
-project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg'
 project_id: '3102047'
 title: Why is the grass always greener over the leach fields?
 indicator: ' Environmental Quality'

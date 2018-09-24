@@ -1,6 +1,6 @@
 ---
 organization_id: '2013121'
-project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
 project_id: '3102180'
 title: Boot Camp 2050 for Change
 indicator: ' Social Connectedness'

@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014038'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/_BC4Wfw6Gb4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Within the existing framework of the LPV 20/20 Vision Initiative, a grassroots

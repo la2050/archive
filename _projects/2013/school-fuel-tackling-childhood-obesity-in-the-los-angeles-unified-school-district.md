@@ -1,6 +1,6 @@
 ---
 organization_id: '2013193'
-project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
 project_id: '3102253'
 title: >-
   School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School

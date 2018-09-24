@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014063'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/JVyDVToMVoo'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   ART CITY LA will be implemented in the following ways:

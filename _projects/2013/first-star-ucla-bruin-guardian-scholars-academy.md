@@ -1,6 +1,6 @@
 ---
 organization_id: '2013068'
-project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg'
 project_id: '3102128'
 title: First Star UCLA Bruin Guardian Scholars Academy
 indicator: ' Education'

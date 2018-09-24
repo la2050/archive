@@ -1,6 +1,6 @@
 ---
 organization_id: '2013102'
-project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
 project_id: '3102162'
 title: Departures Youth Voices Mobile Classroom
 indicator: ' Education'

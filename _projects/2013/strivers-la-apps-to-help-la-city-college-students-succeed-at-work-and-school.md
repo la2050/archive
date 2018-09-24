@@ -1,6 +1,6 @@
 ---
 organization_id: '2013176'
-project_image: 'https://img.youtube.com/vi/inJ5XFkvJ84/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/inJ5XFkvJ84/hqdefault.jpg'
 project_id: '3102100'
 title: 'STRIVERS.LA: Apps to help LA City College students succeed at work and school'
 indicator: ' Income & Employment'

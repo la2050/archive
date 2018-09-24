@@ -1,6 +1,6 @@
 ---
 organization_id: '2013015'
-project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nPa4Lu7CMPA/hqdefault.jpg'
 project_id: '3102027'
 title: 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 indicator: Arts & Cultural Vitality

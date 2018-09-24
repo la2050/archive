@@ -1,6 +1,6 @@
 ---
 organization_id: '2013070'
-project_image: 'https://img.youtube.com/vi/EpR6dHeaGIQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg'
 project_id: '3102129'
 title: 'Food Forward: Connecting Angelenos Through Local Food Abundance'
 indicator: ' Social Connectedness'

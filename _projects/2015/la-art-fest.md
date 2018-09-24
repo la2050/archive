@@ -203,7 +203,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Multi-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/pnwgZVtiDAA'
 youtube_video_identifier: pnwgZVtiDAA
 project_areas:

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013165'
-project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
 project_id: '3102091'
 title: LA Kids Rock!
 indicator: ' Education'

@@ -98,7 +98,7 @@ How do you plan to scale the success of your proposal?: >-
   #FeedtheDolphins campaign. 
    After the initial success of the #FeedtheDolphins campaign in Santa Monica, Tiny Rebellion would like to expand the program across greater Los Angeles. The agency would use this campaign as a case study to partner with other city governments and business hubs to build donation statues in other commercial areas. By giving neighborhoods across the city ‘dolphins’ of their own, the #FeedtheDolphins campaign will not only bring together the West Side community, but has the potential to connect all of Los Angeles to the homeless situation.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/nu53ttV7jQI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/nu53ttV7jQI'
 youtube_video_identifier: nu53ttV7jQI
 project_areas:

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013166'
-project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_id: '3102233'
 title: 'Slake: Los Angeles'
 indicator: Arts & Cultural Vitality

@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2014057'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ql6hxsjKMCQ/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/ql6hxsjKMCQ'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   MassKnowtify is dedicated to making communications between government and

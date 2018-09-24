@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014223'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/QQpabiJ0uus/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/QQpabiJ0uus/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/QQpabiJ0uus'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Western Center will help the County of Los Angeles and the State of California

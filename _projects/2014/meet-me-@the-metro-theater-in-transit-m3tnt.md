@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014019'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/-MVQfBjaOS0'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   M3TNT is a community based arts project performed on the Metro Gold line. It

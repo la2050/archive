@@ -1,6 +1,6 @@
 ---
 organization_id: '2014029'
-project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_id: '3102116'
 title: Dodgeball Prosperity and the Common Good
 indicator: ' Health'

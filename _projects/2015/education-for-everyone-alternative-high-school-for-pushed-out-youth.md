@@ -86,7 +86,7 @@ How do you plan to scale the success of your proposal?: >-
   as decreased youth involvement with law enforcement and the juvenile justice
   system.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/31zyNJHGmig/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/31zyNJHGmig'
 youtube_video_identifier: 31zyNJHGmig
 project_areas:

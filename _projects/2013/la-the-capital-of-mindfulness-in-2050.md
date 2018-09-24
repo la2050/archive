@@ -1,6 +1,6 @@
 ---
 organization_id: '2013097'
-project_image: 'https://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
 project_id: '3102156'
 title: LA the capital of mindfulness in 2050
 indicator: ' Health'

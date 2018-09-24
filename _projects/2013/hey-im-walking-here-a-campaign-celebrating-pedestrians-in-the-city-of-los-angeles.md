@@ -1,6 +1,6 @@
 ---
 organization_id: '2013126'
-project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
 project_id: '3102190'
 title: >-
   “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of Los

@@ -121,7 +121,7 @@ How do you plan to scale the success of your proposal?: >-
   service delivery that is well documented, and it is done with the support and
   interest of our funders.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/iQpQqqot8AQ'
 youtube_video_identifier: iQpQqqot8AQ
 project_areas:

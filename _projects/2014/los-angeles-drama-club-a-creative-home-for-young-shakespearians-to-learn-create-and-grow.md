@@ -9,7 +9,7 @@ project_summary: >-
 category: learn
 organization_id: '2014169'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/79DqmMTV8-Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/79DqmMTV8-Y'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We are determined to have our own space within the next three to five years,

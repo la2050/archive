@@ -82,7 +82,7 @@ How do you plan to scale the success of your proposal?: >-
   March 2016, all which would adopt the methodology that will be developed
   through this project.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/EJWQ6cYZBCk'
 youtube_video_identifier: EJWQ6cYZBCk
 project_areas:

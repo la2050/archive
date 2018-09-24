@@ -1,6 +1,6 @@
 ---
 organization_id: '2013161'
-project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_id: '3102227'
 title: >-
   RADAR L.A. International Theater Festival; A vital investment in L.A.Theater

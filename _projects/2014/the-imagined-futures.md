@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014096'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/KofWk5qh3jE'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Imagined Futures consists of three components: live programming; a

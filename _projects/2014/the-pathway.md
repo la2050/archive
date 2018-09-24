@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014117'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/A3zOCbnCHLg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will implement this project through a four-pronged approach, 1) scale up a

@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014150'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Cb6MAN2lVkg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement the “Toward a Carbon Neutral House” project we propose to

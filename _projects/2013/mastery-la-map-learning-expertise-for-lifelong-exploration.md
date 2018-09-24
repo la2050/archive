@@ -1,6 +1,6 @@
 ---
 organization_id: '2013055'
-project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg'
 project_id: '3102035'
 title: 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 indicator: ' Education'

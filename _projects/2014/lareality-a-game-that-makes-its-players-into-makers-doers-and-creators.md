@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014104'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/dN0L0YMa39s'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Simply: we are expanding the scope of a proven project to benefit the entire

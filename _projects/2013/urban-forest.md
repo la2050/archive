@@ -1,6 +1,6 @@
 ---
 organization_id: '2013132'
-project_image: 'https://img.youtube.com/vi/9xQP6vGylgE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/9xQP6vGylgE/hqdefault.jpg'
 project_id: '3102072'
 title: Urban Forest
 indicator: ' Environmental Quality'

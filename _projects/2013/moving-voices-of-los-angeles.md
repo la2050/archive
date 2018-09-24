@@ -1,6 +1,6 @@
 ---
 organization_id: '2013065'
-project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
 project_id: '3102126'
 title: Moving Voices of Los Angeles
 indicator: Arts & Cultural Vitality

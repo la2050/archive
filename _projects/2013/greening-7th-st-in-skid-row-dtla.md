@@ -1,6 +1,6 @@
 ---
 organization_id: '2013096'
-project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CqF0Cn4dZJs/hqdefault.jpg'
 project_id: '3102155'
 title: Greening 7th St. in Skid Row/DTLA
 indicator: ' Environmental Quality'

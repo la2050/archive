@@ -1,6 +1,6 @@
 ---
 organization_id: '2013004'
-project_image: 'https://img.youtube.com/vi/FVOqZ9sWi8k/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg'
 project_id: '3102009'
 title: Shared Housing Helps Los Angeles Become a National Model!
 indicator: ' Housing'

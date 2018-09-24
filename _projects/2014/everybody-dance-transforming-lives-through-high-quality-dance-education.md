@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2014201'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/TlilAMszJEs'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We use dance as a means of transforming the future for at-risk children and

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013074'
-project_image: 'https://img.youtube.com/vi/W-ekiTrnYW0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/W-ekiTrnYW0/hqdefault.jpg'
 project_id: '3102132'
 title: 'OUT THE WINDOW: Videos on LA buses '
 indicator: Arts & Cultural Vitality

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013081'
-project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg'
 project_id: '3102139'
 title: GLOBALGIRL MEDIA HIVE NETWORK
 indicator: ' Education'

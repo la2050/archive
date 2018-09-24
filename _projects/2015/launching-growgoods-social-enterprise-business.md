@@ -127,7 +127,7 @@ How do you plan to scale the success of your proposal?: >-
   from growing California native plants for drought-stricken California gardens
   to value-add food products such as craft coleslaw and sauces.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/zqrk27Md2Bo'
 youtube_video_identifier: zqrk27Md2Bo
 project_areas: []

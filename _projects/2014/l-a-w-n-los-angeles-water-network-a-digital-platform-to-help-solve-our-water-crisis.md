@@ -9,7 +9,7 @@ project_summary: >-
 category: live
 organization_id: '2014176'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2qWrLJakj5M'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Undevelopment One will be the pilot project for a hoped for network of

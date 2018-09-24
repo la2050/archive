@@ -1,6 +1,6 @@
 ---
 organization_id: '2013010'
-project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
 project_id: '3102021'
 title: 'LA v2.0: Transforming LA into a World Class Place to Live'
 indicator: ' Housing'

@@ -9,7 +9,7 @@ project_summary: >-
 category: create
 organization_id: '2014059'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/sO2seHdnH3c/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/sO2seHdnH3c'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will work with an industry partner to purchase and retrofit an RV into an

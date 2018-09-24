@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014093'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/gzqE0ygfM8Y'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Natural History Museum of Los Angeles County (which oversees the Page

@@ -144,7 +144,7 @@ How do you plan to scale the success of your proposal?: >-
    
    Thank you and good luck to all LA2050 Create submitters!
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/jpQSRVlR_XM'
 youtube_video_identifier: jpQSRVlR_XM
 project_areas:

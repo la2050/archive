@@ -1,6 +1,6 @@
 ---
 organization_id: '2013054'
-project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
 project_id: '3102032'
 title: The County Resident from District 3
 indicator: ' Social Connectedness'

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013179'
-project_image: 'https://img.youtube.com/vi/R-T1Ud6JTNo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg'
 project_id: '3102101'
 title: Renewable Financing for Renewable Energy
 indicator: ' Environmental Quality'

@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014029'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/aKgBQ7XR-pg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Yacht Club wants to recruit, select and develop six league ambassadors to

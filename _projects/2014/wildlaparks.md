@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014010'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/KRKqNflY-PU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/KRKqNflY-PU'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Our project will take a three part approach to making LA the best place for

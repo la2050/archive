@@ -7,7 +7,7 @@ project_summary: ''
 category: learn
 organization_id: '2014141'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/q2OELc_KuI4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CCGI helps 6th-12th grade students develop a career aspiration, and then plan,

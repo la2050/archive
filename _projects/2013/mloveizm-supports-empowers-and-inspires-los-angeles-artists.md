@@ -1,6 +1,6 @@
 ---
 organization_id: '2013137'
-project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
 project_id: '3102077'
 title: MLoveizm Supports Empowers and Inspires Los Angeles Artists
 indicator: Arts & Cultural Vitality

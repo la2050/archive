@@ -1,6 +1,6 @@
 ---
 organization_id: '2013116'
-project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
 project_id: '3102071'
 title: Farm on Wheels
 indicator: ' Health'

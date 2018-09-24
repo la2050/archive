@@ -1,6 +1,6 @@
 ---
 organization_id: '2013123'
-project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg'
 project_id: '3102184'
 title: 'Speak Up When Youre Down: Maternal Mental Health Improvement Project'
 indicator: ' Health'

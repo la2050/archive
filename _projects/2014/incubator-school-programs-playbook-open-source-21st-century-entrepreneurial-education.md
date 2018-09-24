@@ -9,7 +9,7 @@ project_summary: >-
 category: learn
 organization_id: '2014157'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/2Pjt88MXETw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2Pjt88MXETw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/2Pjt88MXETw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Start up education is a new frontier, and the Incubator School is one of its

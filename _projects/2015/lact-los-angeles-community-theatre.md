@@ -49,7 +49,7 @@ How do you plan to scale the success of your proposal?: >-
   Over the 4 years that we make use of the $100k, we will grow our audience and
   donors to a place where LACT will be self sustainable.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fRmzSDzuoRA/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fRmzSDzuoRA'
 youtube_video_identifier: fRmzSDzuoRA
 project_areas:

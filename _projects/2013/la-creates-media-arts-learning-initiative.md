@@ -1,6 +1,6 @@
 ---
 organization_id: '2013034'
-project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
 project_id: '3102067'
 title: LA Creates! Media Arts Learning Initiative
 indicator: Arts & Cultural Vitality

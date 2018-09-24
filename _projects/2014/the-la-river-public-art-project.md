@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014033'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/fpGXBYHFZuE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/fpGXBYHFZuE'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Keyed to Recommendation 5.16 of the 2007 LA River Revitalization Master Plan,

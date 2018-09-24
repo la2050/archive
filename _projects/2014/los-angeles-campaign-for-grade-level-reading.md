@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2014138'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/C1uVBoRtQ74/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/C1uVBoRtQ74/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/C1uVBoRtQ74'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In 2013, the national Campaign for Grade-Level Reading invited FIS to serve as

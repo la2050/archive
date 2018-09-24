@@ -7,7 +7,7 @@ project_summary: >-
 category: live
 organization_id: '2014155'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/uz4evo3B7qw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We train and supply the professional theater artists, and continue our 20 year

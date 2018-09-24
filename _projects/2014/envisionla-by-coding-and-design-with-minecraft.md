@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014103'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/g_OFCYLH7gw'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   To implement this project, founder Oscar Menjivar, and our team of over 20

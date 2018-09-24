@@ -9,7 +9,7 @@ project_summary: >-
 category: live
 organization_id: '2016204'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/4svMiNJ-HL0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/4svMiNJ-HL0/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/4svMiNJ-HL0'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This authentic learning experience for license-exempt caregivers will address

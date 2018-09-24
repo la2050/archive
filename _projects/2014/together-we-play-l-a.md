@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2015179'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/44E5ezgbzHg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Play as a Uniting Force: The school based aspect of the Together We Play L.A.!

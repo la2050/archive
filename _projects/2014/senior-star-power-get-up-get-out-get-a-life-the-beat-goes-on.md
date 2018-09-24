@@ -7,7 +7,7 @@ project_summary: >-
 category: play
 organization_id: '2014080'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/TsuTBskJETc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/TsuTBskJETc'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will solicit sponsorships from corporations, use social media and YouTube,

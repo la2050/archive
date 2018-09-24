@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2014012'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/q9wQFn0hPbk'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   BRIDGE Theatre Project began in 2009 as an international theatre program

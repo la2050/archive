@@ -7,7 +7,7 @@ project_summary: >-
 category: create
 organization_id: '2014065'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/z7QaUClznXM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/z7QaUClznXM'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Meet with collaborators. 

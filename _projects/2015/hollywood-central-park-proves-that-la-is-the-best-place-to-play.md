@@ -111,7 +111,7 @@ How do you plan to scale the success of your proposal?: >-
    
    In addition, throughout the LA2050 grant year, FHCP will document each step of the Design Competition, including challenges and best practices. This information will be available to other groups interested in deck parks, including the other four currently proposed in LA County. Our hope is that other deck parks can learn from FHCP’s Design Competition and the subsequent steps needed to build the park. Our focus on finding a design created by Angelenos for Angelenos can be replicated within LA, as well as for other cities considering deck parks. Local design will help ensure each future Park is built to meet the needs and context of the neighborhoods surrounding the Park.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/t_fQo1Z6VSg'
 youtube_video_identifier: t_fQo1Z6VSg
 project_areas:

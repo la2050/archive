@@ -7,7 +7,7 @@ project_summary: >-
 category: learn
 organization_id: '2014123'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/HIVY5tBE450/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/HIVY5tBE450'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CFY will provide wrap-around support for students, teachers, and families at 5

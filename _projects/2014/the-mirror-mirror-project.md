@@ -7,7 +7,7 @@ project_summary: >-
 category: connect
 organization_id: '2014094'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/awJQoJqGL-o'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Mirror, Mirror Project starts with one simple idea-- to see one

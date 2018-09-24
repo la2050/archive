@@ -180,7 +180,7 @@ How do you plan to scale the success of your proposal?: >-
    
    In order to scale our project’s success, we must ensure we have the resources necessary to sustain the proposed program expansion for years to come. This includes continuing to build relationships and cultivate partnerships with organizations that share and our goals and complement our work such as the Los Angeles Education Partnership, Youth Policy Institute, Board of Education, Los Angeles Unified School District, Joint Use Moving People to Play task force at the Los Angeles County Department of Public Health, Division of Chronic Disease and Injury Prevention, while simultaneously developing our organizational capacity and infrastructure.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/SdL6NXZskjo'
 youtube_video_identifier: SdL6NXZskjo
 project_areas:

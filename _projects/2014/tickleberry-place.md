@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2016238'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/Tickleberryplace.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/rlrzrwiHA8I/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/rlrzrwiHA8I'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will fundraise the funds and become certified as B Corporation. Once we
   have the funds we can do the following:
@@ -45,6 +45,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   having partners and are looking for them.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: rlrzrwiHA8I
 project_areas:
   - CENTRAL LA
   - SOUTH LA

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013139'
-project_image: 'https://img.youtube.com/vi/Gx66ZyZaf90/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg'
 project_id: '3102201'
 title: Pavement to Parks
 indicator: ' Environmental Quality'

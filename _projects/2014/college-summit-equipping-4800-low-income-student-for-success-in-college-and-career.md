@@ -9,7 +9,7 @@ project_summary: >-
 category: learn
 organization_id: '2014130'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/XNxfMssLYzc'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Across the 2014-15 school year, College Summit will partner with LA-area

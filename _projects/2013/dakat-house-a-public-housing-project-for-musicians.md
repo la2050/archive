@@ -1,6 +1,6 @@
 ---
 organization_id: '2013080'
-project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ZErt5IiuEPA/hqdefault.jpg'
 project_id: '3102053'
 title: 'daKAT House:  A Public Housing Project for musicians.'
 indicator: ' Housing'

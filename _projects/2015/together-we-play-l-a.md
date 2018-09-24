@@ -160,7 +160,7 @@ How do you plan to scale the success of your proposal?: >-
    
    The Together We Play L.A.! initiative will provide another important opportunity for Los Angeles to lead the way in play - today - tomorrow - into 2050 and beyond!
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/44E5ezgbzHg'
 youtube_video_identifier: 44E5ezgbzHg
 project_areas:

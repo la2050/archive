@@ -1,6 +1,6 @@
 ---
 organization_id: '2013198'
-project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg'
 project_id: '3102110'
 title: >-
   At thrdPlace our idea for LA2050 is to provide the digital infrastructure for

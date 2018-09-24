@@ -1,6 +1,6 @@
 ---
 organization_id: '2013184'
-project_image: 'https://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
 project_id: '3102245'
 title: 'Education by Nature: Los Angeles'
 indicator: ' Education'

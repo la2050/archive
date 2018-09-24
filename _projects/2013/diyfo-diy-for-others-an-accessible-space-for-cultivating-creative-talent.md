@@ -1,6 +1,6 @@
 ---
 organization_id: '2013053'
-project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
 project_id: '3102024'
 title: 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 indicator: Arts & Cultural Vitality

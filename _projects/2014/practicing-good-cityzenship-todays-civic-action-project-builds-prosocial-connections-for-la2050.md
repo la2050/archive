@@ -9,7 +9,7 @@ project_summary: >-
 category: connect
 organization_id: '2014021'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/I85PHrZjakM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/I85PHrZjakM'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We imagine a vibrant LA2050 where strong social connectedness joins citizens

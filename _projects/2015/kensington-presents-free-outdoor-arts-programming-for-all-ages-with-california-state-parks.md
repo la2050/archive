@@ -103,7 +103,7 @@ How do you plan to scale the success of your proposal?: >-
   and educational programming surrounding creating small businesses or
   successful freelance businesses.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/v-5UnN1CD0E'
 youtube_video_identifier: v-5UnN1CD0E
 project_areas: []

@@ -127,7 +127,7 @@ How do you plan to scale the success of your proposal?: >-
    
    We aim to achieve this growth by focusing on growing our fundraising & income as well as by increasing the community partners with whom we are able to work. By growing our marketing & brand awareness, ramping up our online presence, and making ourselves known throughout LA county, we hope to increase the number of people & organizations desiring to work with us in helping to make dreams come true as we aim to raise the disadvantaged youth we serve out of poverty.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/QV1lB2SqWos'
 youtube_video_identifier: QV1lB2SqWos
 project_areas:

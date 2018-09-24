@@ -109,7 +109,7 @@ How do you plan to scale the success of your proposal?: >-
   students, parents, school representatives and the public. We have seen the
   success of this Program and are confident it will grow on its own merit.
 year_submitted: 2015
-project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/MIn1VBaIlrQ'
 youtube_video_identifier: MIn1VBaIlrQ
 project_areas:
