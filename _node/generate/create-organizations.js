@@ -148,12 +148,15 @@ function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
 
   // console.log("getMakerImage")
   let project = getMakerProject(data, makerProjects, makerProjectAnswers)
-  if (project) {
-    if (makerImagesLookup[project.id]) {
-      return {
-        image: makerImagesLookup[project.id]["ProjectPhoto"],
-        video: makerImagesLookup[project.id]["ProjectVideo"]
-      }
+  if (project && makerImagesLookup[project.id]) {
+    return {
+      image: makerImagesLookup[project.id]["ProjectPhoto"],
+      video: makerImagesLookup[project.id]["ProjectVideo"]
+    }
+  } else {
+    console.log("couldn’t find image data for project: " + data.title + " : " + data.year_submitted + " : " + data.category + " : " + data.organization_id)
+    return {
+      image: "http://maker.good.is/images/placeholder/idea.png"
     }
   }
 }
@@ -309,12 +312,17 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22867%252Fdisplay%252FGiveHalf_009.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385#
 
-        let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${match.image.id}/display/${match.image.image_file_name}`))
-        data.maker_image_id = match.image.id
-        data.maker_image_file_name = match.image.image_file_name
-        data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
-        // console.log(data.project_image)
-        // http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+        if (typeof(match.image) == "object") {
+
+          let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${match.image.id}/display/${match.image.image_file_name}`))
+          data.maker_image_id = match.image.id
+          data.maker_image_file_name = match.image.image_file_name
+          data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
+          // console.log(data.project_image)
+          // http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+        } else {
+          data.project_image = match.image
+        }
       } else if (match && match.video) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385

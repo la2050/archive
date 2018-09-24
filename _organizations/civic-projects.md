@@ -13,7 +13,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: >-
   Civic Projects: Publication of The Car in 2035: Mobility Planning for the Near

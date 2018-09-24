@@ -12,7 +12,7 @@ twitter: www.twitter.com/CCPHA
 instagram: ''
 facebook: www.facebook.com/CCPHA
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: '#N/A'
 areas_impacted: South Bay

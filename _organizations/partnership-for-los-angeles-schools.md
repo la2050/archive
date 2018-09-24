@@ -12,7 +12,7 @@ twitter: www.twitter.com/LA2050 or www.twitter.com/PartnershipLA
 instagram: www.instagram.com/cityyearla www.instagram.com/partnershipla
 facebook: www.facebook.com/PartnershipLA
 org_type: Nonprofit
-project_image: ''
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'Other (please specify below):'

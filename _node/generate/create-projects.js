@@ -83,6 +83,7 @@ function getStringForComparison(string) {
   //   console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
   //   return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
   // }
+
   return string
 }
 
@@ -230,13 +231,17 @@ function getMakerImage(data) {
     // const similarity = 3
     // let compare = subCompare(item.name, data.title, similarity)
     //if (item.name.trim() == data.title.trim()) {
-    if (getStringForComparison(item.name) == getStringForComparison(data.title)) {
+    let compareTitle = data.title
+    if (data.title == "Tickleberry Place" && data.year_submitted == "2014") {
+      compareTitle = "Tickleberry Place Indoor Play Gym"
+    }
+
+    if (getStringForComparison(item.name) == getStringForComparison(compareTitle)) {
       project = item
       // if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
       //   console.log(`project`)
       //   console.dir(project)
       // }
-      
     }
   })
 
@@ -247,6 +252,9 @@ function getMakerImage(data) {
     }
   } else {
     console.log("couldn’t find image data for project: " + data.title + " : " + data.year_submitted + " : " + data.category + " : " + data.organization_id)
+    return {
+      image: "http://maker.good.is/images/placeholder/idea.png"
+    }
   }
 }
 
@@ -528,12 +536,17 @@ function createMarkdownFile(data) {
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22867%252Fdisplay%252FGiveHalf_009.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385#
 
-        let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${match.image.id}/display/${match.image.image_file_name}`))
-        data.maker_image_id = match.image.id
-        data.maker_image_file_name = match.image.image_file_name
-        data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
-        // console.log(data.project_image)
-        // http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+        if (typeof(match.image) == "object") {
+
+          let encodedURI = encodeURIComponent(encodeURIComponent(`maker/attachments/project_photos/images/${match.image.id}/display/${match.image.image_file_name}`))
+          data.maker_image_id = match.image.id
+          data.maker_image_file_name = match.image.image_file_name
+          data.project_image = `http://maker.good.is/s3/${encodedURI}=c570x385`
+          // console.log(data.project_image)
+          // http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg
+        } else {
+          data.project_image = match.image
+        }
       } else if (match && match.video) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
