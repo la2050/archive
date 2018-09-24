@@ -1,7 +1,7 @@
 ---
 project_id: '8102073'
 project_id_2: '8102073'
-title: 'Voting Solutions for All People: Engaging Voters Through a Mock Election '
+title: 'Voting Solutions for All People: Engaging Voters Through a Mock Election'
 project_summary: >-
   As LA County prepares to revolutionize the voting experience, voters will
   participate in a countywide mock election to interact with new voting

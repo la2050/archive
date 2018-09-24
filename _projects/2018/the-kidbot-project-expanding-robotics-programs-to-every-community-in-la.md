@@ -1,7 +1,7 @@
 ---
 project_id: '8102065'
 project_id_2: '8102065'
-title: 'The KidBot Project: Expanding robotics programs to every community in LA! '
+title: 'The KidBot Project: Expanding robotics programs to every community in LA!'
 project_summary: >-
   In collaboration with LEGO Education and i.am.angel foundation, LA’s BEST
   students will learn to code, build robots and prepare to tackle the next big

@@ -3,7 +3,7 @@ project_id: ''
 project_id_2: '8102051'
 title: >-
   Every Angeleno is an all star on our team. Help HL - LA build our home field
-  advantage! 
+  advantage!
 project_summary: ''
 Please describe the activation your organization seeks to launch.: >-
   By activating all the individuals that HL-LA’s programs touch both directly

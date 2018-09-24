@@ -6,7 +6,7 @@ organization_website: www.pppsgv.org
 ein: ''
 project_image_2: 7186712265741-team91.JPG
 project_id: '6102185'
-title: Northeast Los Angeles and the San Gabriel Valley Get PreP'd and PEP'd!!
+title: 'Northeast Los Angeles and the San Gabriel Valley Get PreP''d and PEP''d!! '
 organization_name_2: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 organization_activity: >-
   We provide (1) affordable, convenient, and culturally competent sexual and

@@ -6,7 +6,7 @@ organization_website: www.nhslacounty.org
 ein: '953938955'
 project_image_2: 4742887015741-team89.jpg
 project_id: '6102165'
-title: Center for Sustainable Communities
+title: 'Center for Sustainable Communities '
 organization_name_2: Neighborhood Housing Services of Los Angeles County
 organization_activity: >-
   NHS strengthens neighborhoods through the development of quality affordable

@@ -1,7 +1,7 @@
 ---
 project_id: '8102132'
 project_id_2: '8102132'
-title: 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless '
+title: 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless'
 project_summary: >-
   “EVERYONE IN: Preventing Homelessness” will help 30,000 people avoid
   homelessness by creating affordable housing & helping Angelenos keep their

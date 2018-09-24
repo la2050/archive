@@ -8,7 +8,7 @@ project_image_2: 4396755265741-team90.JPG
 project_id: '6102284'
 title: >-
   WISH ACADEMY: THE FIRST HIGH SCHOOL IN THE LOS ANGELES AREA TO PROVIDE
-  INCLUSIVE EDUCATION
+  INCLUSIVE EDUCATION 
 organization_name_2: WISH Academy High School
 organization_activity: >-
   Before WISH, we found ourselves without an inclusive community school option

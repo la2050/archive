@@ -1,7 +1,7 @@
 ---
 project_id: '8102046'
 project_id_2: '8102046'
-title: 'Global Green’s Creative Reuse Coalition '
+title: Global Green’s Creative Reuse Coalition
 project_summary: >-
   Through community upcycling workshops and digital tutorials, Angelenos will
   learn how to creatively reuse, repair, and repurpose their damaged or worn out

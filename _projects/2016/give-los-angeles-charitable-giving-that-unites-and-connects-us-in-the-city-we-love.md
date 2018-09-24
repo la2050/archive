@@ -8,7 +8,7 @@ project_image_2: 4972927725741-team91.jpg
 project_id: '6102200'
 title: >-
   GIVE Los Angeles: charitable giving that unites and connects us in the city we
-  love.
+  love. 
 organization_name_2: Los Angeles Magazine
 organization_activity: >-
   L.A. magazine is the single most powerful media voice in the region,

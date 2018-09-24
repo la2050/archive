@@ -1,7 +1,7 @@
 ---
 project_id: '8102018'
 project_id_2: '8102018'
-title: 'Community: Where strong families are made '
+title: 'Community: Where strong families are made'
 project_summary: >-
   Through hands-on workshops and trainings, Child360 will empower parents and
   community members to advocate on behalf of their families to realize the

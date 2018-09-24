@@ -6,7 +6,7 @@ organization_website: www.aalcf.com/index.php/what-the/80-article-eight14
 ein: ''
 project_image_2: 0529159945741-team91.png
 project_id: '6102010'
-title: Arts Connect
+title: 'Arts Connect '
 organization_name_2: Arts and Living Charitable Foundation
 organization_activity: >-
   Arts Connect takes successful, well-known relevant people and produces their

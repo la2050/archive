@@ -8,7 +8,7 @@ project_image_2: 4076350854741-team90.jpg
 project_id: '6102229'
 title: >-
   Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-  Water to the Community
+  Water to the Community 
 organization_name_2: Sky Source
 organization_activity: >-
   Our organization promotes the use of atmospheric water generation in order to

@@ -1,7 +1,7 @@
 ---
 project_id: '8102104'
 project_id_2: '8102104'
-title: "Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles\r\n"
+title: Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles
 project_summary: >-
   Three Angelenos traverse LA in a green RV to interview professionals in the
   creative, high-tech and manufacturing industries, introducing millions of TV

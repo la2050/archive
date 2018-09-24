@@ -3,7 +3,7 @@ project_id: '8102093'
 project_id_2: '8102093'
 title: >-
   Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
-  Small Business Owners. 
+  Small Business Owners.
 project_summary: >-
   The Responsible Business Lending Coalition (RBLC) will educate and empower
   L.A. entrepreneurs and Angelenos to advocate against predatory lending

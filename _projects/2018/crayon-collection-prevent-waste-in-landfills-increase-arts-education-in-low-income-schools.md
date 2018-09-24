@@ -3,7 +3,7 @@ project_id: ''
 project_id_2: '8102032'
 title: >-
   Crayon Collection: prevent waste in landfills; increase arts education in low
-  income schools. 
+  income schools.
 project_summary: ''
 Please describe the activation your organization seeks to launch.: >-
   Crayon Collection wants to increase awareness among Angelenos that crayons do

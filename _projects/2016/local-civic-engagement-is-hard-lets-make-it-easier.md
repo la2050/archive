@@ -6,7 +6,7 @@ organization_website: burg.io
 ein: ''
 project_image_2: 0402902265741-team89.jpg
 project_id: '6102247'
-title: Local civic engagement is hard. Let’s make it easier.
+title: 'Local civic engagement is hard. Let’s make it easier.  '
 organization_name_2: The Burg
 organization_activity: >-
   Our organization's mission is to improve local political and community based

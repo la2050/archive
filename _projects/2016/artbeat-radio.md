@@ -6,7 +6,7 @@ organization_website: www.ableartswork.org
 ein: ''
 project_image_2: 0178457155741-team91.jpg
 project_id: '6102004'
-title: Artbeat Radio
+title: 'Artbeat Radio '
 organization_name_2: Able Arts Work
 organization_activity: >-
   The  mission of Able ARTS Work aka Arts & Services for Disabled is to provide

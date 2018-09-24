@@ -6,7 +6,7 @@ organization_website: www.pssst.xyz
 ein: ''
 project_image_2: 4400390065741-team91.jpg
 project_id: '6102192'
-title: 'PSSST 2017: Artists Supporting Artists'
+title: 'PSSST 2017: Artists Supporting Artists  '
 organization_name_2: PSSST
 organization_activity: >-
   PSSST is an artist-run interdisciplinary nonprofit exhibition and performance

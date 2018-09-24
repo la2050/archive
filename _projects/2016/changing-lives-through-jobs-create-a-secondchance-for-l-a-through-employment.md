@@ -8,7 +8,7 @@ project_image_2: 1107194355741-team88.jpg
 project_id: '6102036'
 title: >-
   Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-  employment
+  employment 
 organization_name_2: Chrysalis
 organization_activity: >-
   Chrysalis’ mission is to create a pathway to self-sufficiency for homeless and

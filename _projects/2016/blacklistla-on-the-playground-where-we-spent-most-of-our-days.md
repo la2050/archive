@@ -6,7 +6,7 @@ organization_website: www.blacklistla.city
 ein: '954440752'
 project_image_2: 3733468065741-team91.JPG
 project_id: '6102019'
-title: 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
+title: ' BlacklistLA: On the Playground Where We Spent Most of Our Days'
 organization_name_2: BlacklistLA Run Organization
 organization_activity: >-
   BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of

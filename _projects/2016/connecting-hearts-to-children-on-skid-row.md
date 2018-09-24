@@ -6,7 +6,7 @@ organization_website: www.worthyoflove.net
 ein: ''
 project_image_2: 6126977535741-team91.png
 project_id: '6102285'
-title: Connecting Hearts To Children On Skid Row
+title: 'Connecting Hearts To Children On Skid Row '
 organization_name_2: Worthy of Love
 organization_activity: >-
   Worthy of Love hosts birthday parties for the children living in Homeless

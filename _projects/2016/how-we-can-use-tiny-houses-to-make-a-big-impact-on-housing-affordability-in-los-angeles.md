@@ -8,7 +8,7 @@ project_image_2: 4867649955741-team91.jpg
 project_id: '6102177'
 title: >-
   How we can use tiny houses to make a big impact on housing affordability in
-  Los Angeles!
+  Los Angeles! 
 organization_name_2: Patrick McCaffrey Foundation
 organization_activity: >-
   The Patrick McCaffrey Foundation is a non-profit public charity benefitting

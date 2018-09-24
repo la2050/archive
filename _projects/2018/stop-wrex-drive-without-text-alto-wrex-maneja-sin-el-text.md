@@ -1,7 +1,7 @@
 ---
 project_id: '8102052'
 project_id_2: '8102052'
-title: 'STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT / '
+title: STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT /
 project_summary: >-
   STOP WREX!/ALTO WREX! will establish our Bilingual digital app program to
   eliminate distracted driving as a project Angelenos — especially Latinos -

@@ -6,7 +6,7 @@ organization_website: asenseofhome.org
 ein: ''
 project_image_2: 8371052065741-team91.png
 project_id: '6102003'
-title: Creating a home is a bridge to creating community
+title: 'Creating a home is a bridge to creating community '
 organization_name_2: A Sense of Home
 organization_activity: >-
   Create homes for foster youth aging out of the system & connect them with a

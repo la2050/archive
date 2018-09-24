@@ -3,7 +3,7 @@ project_id: '8102008'
 project_id_2: '8102008'
 title: >-
   Invest in Youth Coalition: Advocating for a Los Angeles that prioritizes young
-  people 
+  people
 project_summary: >-
   We demand an equitable strategy and coordinated approach to comprehensive
   youth development, led by a city department focused on creating prosperity for

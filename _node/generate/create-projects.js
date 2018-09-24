@@ -46,6 +46,18 @@ function stringToURI(str) {
     .replace(' ', '')
 }
 
+function getStringForComparison(string) {
+  if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
+    console.log("BEFORE")
+    console.log(string)
+    console.log("AFTER")
+    console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
+    return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
+  }
+  return string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
+}
+
+
 function getArrayFromString(string) {
   if (!string) return []
 
@@ -106,8 +118,8 @@ function subCompare (needle, haystack, min_substring_length) {
 
 
 let makerProjectAnswersLookup
-// const test_id = null
-const test_id = 8272
+const test_id = null
+// const test_id = 8272
 
 function getMakerProject(data) {
   // console.log("getMakerProject")
@@ -121,7 +133,7 @@ function getMakerProject(data) {
       if (!makerProjectAnswersLookup[answer.project_id]) {
         makerProjectAnswersLookup[answer.project_id] = {}
       }
-      makerProjectAnswersLookup[answer.project_id][answer.value.trim()] = 1
+      makerProjectAnswersLookup[answer.project_id][getStringForComparison(answer.value)] = 1
       if (answer.project_id == test_id) console.log(answer.project_id)
       if (answer.project_id == test_id) console.log(answer.value)
     })
@@ -136,7 +148,7 @@ function getMakerProject(data) {
     }
 
     if (makerProjectAnswersLookup[project.id] && 
-        makerProjectAnswersLookup[project.id][data.organization_name.trim()]) {
+        makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)]) {
       if (project.id == test_id) {
         console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][data.organization_name])
         console.log("*** found a match!")
@@ -162,8 +174,8 @@ function getMakerImage(data) {
       }
       makerImagesLookup[image.project_id][image.type] = image
     })
-    console.log("makerImagesLookup[test_id]: ")
-    console.dir(makerImagesLookup[test_id])
+    // console.log("makerImagesLookup[test_id]: ")
+    // console.dir(makerImagesLookup[test_id])
   }
 
   // console.log("getMakerImage")
@@ -173,28 +185,28 @@ function getMakerImage(data) {
   let project
   makerProjects.forEach(item => {
     if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
-      console.log("Comparing title and name for: " + test_id)
-      console.log("item.name.trim(): " + item.name.trim())
-      console.log("data.title.trim(): " + data.title.trim())
-      console.log("item.name.trim() == data.title.trim(): " + item.name.trim() == data.title.trim())
-      console.log(`item.name.toLowerCase().replace(/\,/g, "").trim() : ${item.name.toLowerCase().replace(/\,/g, "").trim()}`)
-      console.log(`data.title.toLowerCase().replace(/\,/g, "").trim(): ${data.title.toLowerCase().replace(/\,/g, "").trim()}`)
-      console.log('item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim(): ' + 
-        item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim())
-      let comparison = item.name.toLowerCase().replace(/\,/g, "").trim() ==
-                       data.title.toLowerCase().replace(/\,/g, "").trim()
-      console.log(`comparison = ${comparison}`)
+      // console.log("Comparing title and name for: " + test_id)
+      // console.log("item.name.trim(): " + item.name.trim())
+      // console.log("data.title.trim(): " + data.title.trim())
+      // console.log("item.name.trim() == data.title.trim(): " + item.name.trim() == data.title.trim())
+      // console.log(`item.name.toLowerCase().replace(/\,/g, "").trim() : ${item.name.toLowerCase().replace(/\,/g, "").trim()}`)
+      // console.log(`data.title.toLowerCase().replace(/\,/g, "").trim(): ${data.title.toLowerCase().replace(/\,/g, "").trim()}`)
+      // console.log('item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim(): ' + 
+      //   item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim())
+      // let comparison = getStringForComparison(item.name) ==
+      //                  getStringForComparison(data.title)
+      // console.log(`comparison = ${comparison}`)
     }
 
     // const similarity = 3
     // let compare = subCompare(item.name, data.title, similarity)
     //if (item.name.trim() == data.title.trim()) {
-    if (item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim()) {
+    if (getStringForComparison(item.name) == getStringForComparison(data.title)) {
       project = item
-      if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
-        console.log(`project`)
-        console.dir(project)
-      }
+      // if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
+      //   console.log(`project`)
+      //   console.dir(project)
+      // }
       
     }
   })
@@ -213,6 +225,7 @@ function getMakerImage(data) {
 
 
 const projectAnswers = [
+  "title",
   "project_is_collaboration",
   "project_collaborators",
   "project_proposal_description",
@@ -322,46 +335,46 @@ function addProjectAnswers(data) {
       // If title is the same as one of the project titles
 
     let project
-    if (data.title == "`Activate So`uth Bay LA Trails!") {
-      console.log("testing Activate South Bay LA Trails!")
-    }
-    if (!data.category || !markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()]) {
+    // if (data.title == "`Activate So`uth Bay LA Trails!") {
+    //   console.log("testing Activate South Bay LA Trails!")
+    // }
+    if (!data.category || !markdownProjectsLookup[data.year_submitted][data.category][getStringForComparison(data.title)]) {
       categories.forEach(category => {
-        let candidate = markdownProjectsLookup[data.year_submitted][category][data.title.trim()]
+        let candidate = markdownProjectsLookup[data.year_submitted][category][getStringForComparison(data.title)]
         if (candidate) {
-          if (data.title == "Activate South Bay LA Trails!") {
-            console.log("candidate matched")
-          }
+          // if (data.title == "Activate South Bay LA Trails!") {
+          //   console.log("candidate matched")
+          // }
           project = candidate
         }
       })
     } else {
-      project = markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()]
-      if (data.title.trim() == "Activate South Bay LA Trails!") {
-        console.log("---***--**")
-        console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
-        console.log("**--***---")
-        console.log(`data.year_submitted: ${data.year_submitted}`)
-        console.log(`data.category: ${data.category}`)
-        console.log(`data.title: ${data.title.trim()}`)
-        console.log("category exists and project found: " + project)
-        console.log(`here it is` + markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()])
-        console.log(markdownProjectsLookup[data.year_submitted])
-        console.log(markdownProjectsLookup[data.year_submitted][data.category])
-        console.log(markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()])
-        console.log("data.title.trim(): " + data.title.trim())
-        console.dir(project)
-      }
+      project = markdownProjectsLookup[data.year_submitted][data.category][getStringForComparison(data.title)]
+      // if (data.title.trim() == "Activate South Bay LA Trails!") {
+      //   console.log("---***--**")
+      //   console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
+      //   console.log("**--***---")
+      //   console.log(`data.year_submitted: ${data.year_submitted}`)
+      //   console.log(`data.category: ${data.category}`)
+      //   console.log(`data.title: ${data.title.trim()}`)
+      //   console.log("category exists and project found: " + project)
+      //   console.log(`here it is` + markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()])
+      //   console.log(markdownProjectsLookup[data.year_submitted])
+      //   console.log(markdownProjectsLookup[data.year_submitted][data.category])
+      //   console.log(markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()])
+      //   console.log("data.title.trim(): " + data.title.trim())
+      //   console.dir(project)
+      // }
     }
 
     if (project) {
-      if (data.title == "Activate South Bay LA Trails!") {
-        console.log("project has a value")
-      }
+      // if (data.title == "Activate South Bay LA Trails!") {
+      //   console.log("project has a value")
+      // }
       projectAnswers.forEach(answer => {
-        if (data.title == "Activate South Bay LA Trails!") {
-          console.log(answer)
-        }
+        // if (data.title == "Activate South Bay LA Trails!") {
+        //   console.log(answer)
+        // }
         // if (project[answer] && !data[answer]) {
         if (project[answer]) {
           data[answer] = project[answer]
@@ -429,7 +442,7 @@ function createMarkdownFile(data) {
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
-      if (data.organization_name == "826LA") console.log("Looking for image for 826LA: " + data.year_submitted + " : " + data.title)
+      // if (data.organization_name == "826LA") console.log("Looking for image for 826LA: " + data.year_submitted + " : " + data.title)
       let match = getMakerImage(data)
       if (match && match.image) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
@@ -773,29 +786,29 @@ function createLookup(year) {
       if (project.title == "Activate South Bay LA Trails!") {
         // console.dir(project)
       }
-      if (!markdownProjectsLookup[year][category][project.title.trim()]) {
-        markdownProjectsLookup[year][category][project.title.trim()] = project
+      if (!markdownProjectsLookup[year][category][getStringForComparison(project.title)]) {
+        markdownProjectsLookup[year][category][getStringForComparison(project.title)] = project
       }
     })
   })
 
 }
 
-// createLookup(2016)
+createLookup(2016)
 createLookup(2018)
 
-console.log("********/*")
-console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
-console.log("********//*")
+// console.log("********/*")
+// console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
+// console.log("********//*")
 
 
 
 
 generateAllCollections('projects-2018.csv', 2018)
-// generateAllCollections('projects-2016.csv', 2016)
-// generateAllCollections('projects-2015.csv', 2015)
-// generateAllCollections('projects-2014.csv', 2014)
-// generateAllCollections('projects-2013.csv', 2013)
+generateAllCollections('projects-2016.csv', 2016)
+generateAllCollections('projects-2015.csv', 2015)
+generateAllCollections('projects-2014.csv', 2014)
+generateAllCollections('projects-2013.csv', 2013)
 
 
 

@@ -6,7 +6,7 @@ organization_website: Prettygoodcat.com
 ein: ''
 project_image_2: 7781213474741-team90.JPG
 project_id: '6102189'
-title: No More Suffering for LA's Homeless Kittens
+title: 'No More Suffering for LA''s Homeless Kittens '
 organization_name_2: Pretty Good Cat
 organization_activity: We rescue unsponsored cats and dogs .
 project_image: >-

@@ -1,7 +1,7 @@
 ---
 project_id: '8102009'
 project_id_2: '8102009'
-title: "ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science \r\n"
+title: ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
 project_summary: >-
   A multimedia “Zombie Apocalypse” campaign to raise awareness and advance
   meaningful systemic change about the impact of climate justice on communities

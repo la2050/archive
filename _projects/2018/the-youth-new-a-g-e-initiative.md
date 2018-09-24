@@ -1,7 +1,7 @@
 ---
 project_id: '8102080'
 project_id_2: '8102080'
-title: 'The Youth New A.G.E Initiative '
+title: The Youth New A.G.E Initiative
 project_summary: >-
   The New A.G.E Initiative coaches low-income youth on how to Abate waste,
   Generate revenue, and Educate communities about recycling to engender

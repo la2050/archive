@@ -8,7 +8,7 @@ project_image_2: 3020056105741-team91.jpeg
 project_id: '6102269'
 title: >-
   Ending generational cycles of poverty through urban youth and community
-  development programs
+  development programs 
 organization_name_2: 'Unite A Nation, Inc.'
 organization_activity: >-
   We transform lives through innovative investments in young people by focusing

@@ -3,7 +3,7 @@ project_id: '8102062'
 project_id_2: '8102062'
 title: >-
   Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-  Sustainable Los Angeles 
+  Sustainable Los Angeles
 project_summary: >-
   LA Forward connects Angelenos with the organizers, policy experts, and
   coalitions based in disadvantaged communities in order to build a movement for

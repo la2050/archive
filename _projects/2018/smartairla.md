@@ -1,7 +1,7 @@
 ---
 project_id: '8102110'
 project_id_2: '8102110'
-title: 'SmartAirLA '
+title: SmartAirLA
 project_summary: >-
   SmartAirLA deploys “Smart” Internet of Things (IoT) technologies to empower
   communities to reduce the effects and prevalence of asthma in Los Angeles

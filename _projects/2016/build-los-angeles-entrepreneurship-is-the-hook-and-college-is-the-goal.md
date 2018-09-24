@@ -6,7 +6,7 @@ organization_website: BUILD.org
 ein: ''
 project_image_2: 5864964105741-team90.jpg
 project_id: '6102023'
-title: 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
+title: 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
 organization_name_2: BUILD
 organization_activity: >-
   BUILD uses entrepreneurship-based, experiential learning to engage students,

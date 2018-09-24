@@ -8,7 +8,7 @@ project_image_2: 3746850165741-team90.jpg
 project_id: '6102252'
 title: >-
   Community Circle Space Initiative: Creating a place and sharing a process for
-  authentic connection
+  authentic connection 
 organization_name_2: The Ojai Foundation
 organization_activity: >-
   We foster practices that awaken connection to self, others, and the natural

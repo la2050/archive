@@ -1,7 +1,7 @@
 ---
 project_id: '8102130'
 project_id_2: '8102130'
-title: 'To see well is to live well. '
+title: To see well is to live well.
 project_summary: >-
   It is challenging to fill out applications or navigate the streets without
   being able to see, which the UCLA Mobile Eye Clinic proposes to remedy for

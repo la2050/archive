@@ -6,7 +6,7 @@ organization_website: www.encorps.org
 ein: ''
 project_image_2: 3863693255741-team91.jpg
 project_id: '6102064'
-title: 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
+title: 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
 organization_name_2: 'EnCorps, Inc.'
 organization_activity: >-
   EnCorps STEM Teachers addresses the conditions severely limiting low income,

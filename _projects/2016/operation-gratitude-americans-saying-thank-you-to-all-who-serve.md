@@ -6,7 +6,7 @@ organization_website: OperationGratitude.com
 ein: ''
 project_image_2: 7925063255741-team88.png
 project_id: '6102170'
-title: Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
+title: 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
 organization_name_2: Operation Gratitude
 organization_activity: >-
   Operation Gratitude volunteers nationwide donate items, write letters and

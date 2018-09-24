@@ -8,7 +8,7 @@ project_image_2: 3729564165741-team89.jpg
 project_id: '6102261'
 title: >-
   Grow Local: Plant Native! Youth advocacy for sustainable landscapes at LA
-  Public Housing
+  Public Housing 
 organization_name_2: Theodore Payne Foundation for Wild Flower and Native Plants
 organization_activity: >-
   We rewild Los Angeles by bringing native plants back into the city, creating

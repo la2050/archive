@@ -10,7 +10,7 @@ project_image_2: 3772023193741-team89.jpg
 project_id: '6102045'
 title: >-
   The Green Alley PLAYlab: Pop-Up playscapes in the industrial alleys of
-  Downtown Los Angeles.
+  Downtown Los Angeles. 
 organization_name_2: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.

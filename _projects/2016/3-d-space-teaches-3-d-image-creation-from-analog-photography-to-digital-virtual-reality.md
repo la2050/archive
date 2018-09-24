@@ -6,9 +6,7 @@ organization_website: 3-DSPACE.org
 ein: '472247578'
 project_image_2: 4065764555741-team91.jpg
 project_id: '6102001'
-title: >-
-  3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital
-  Virtual Reality
+title: ' 3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital Virtual Reality'
 organization_name_2: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
 organization_activity: >-
   3-D SPACE is an LA based arts and education nonprofit  dedicated to both the
