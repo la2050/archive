@@ -84,6 +84,10 @@ How do you plan to scale the success of your proposal?: >-
   programs within the greater overall frame with Pavilions for each of the
   tracts.
 year_submitted: 2015
+maker_image_id: '24136'
+maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24136%252Fdisplay%252FScreen_Shot_2015-10-08_at_4.09.45_PM.png=c570x385
 project_areas:
   - County of Los Angeles
 body_class: strawberry

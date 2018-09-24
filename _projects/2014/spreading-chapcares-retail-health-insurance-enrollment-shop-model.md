@@ -5,7 +5,8 @@ project_summary: ''
 category: live
 organization_id: '2014204'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21436%252Fdisplay%252FMarch_31_2014_at_5pm.jpeg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   RUN4YOURLIFE - 10K Walk/Run where you get paid to participate. Mobile app
@@ -49,6 +50,8 @@ Whom will your project benefit? Please be specific.: >-
    
    These have not bee secured but we are in the process now of getting them.
 empty_column_1: ''
+maker_image_id: '21436'
+maker_image_file_name: March_31_2014_at_5pm.jpeg
 project_areas:
   - CENTRAL LA
   - EAST LA

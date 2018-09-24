@@ -89,6 +89,10 @@ How do you plan to scale the success of your proposal?: >-
   we hope to package and license the curriculum, making it available to
   community colleges throughout the state and nation as a social enterprise.
 year_submitted: 2015
+maker_image_id: '24010'
+maker_image_file_name: codetechiq.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24010%252Fdisplay%252Fcodetechiq.jpg=c570x385
 project_areas:
   - South LA
   - South Bay

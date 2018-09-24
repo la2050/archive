@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2016094'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22854%252Fdisplay%252FTreeMapLA_(1).jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We build relationships with established organizations in low-income
@@ -49,6 +50,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Vitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.”
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '22854'
+maker_image_file_name: TreeMapLA_(1).jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

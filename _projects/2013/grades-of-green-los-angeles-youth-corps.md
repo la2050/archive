@@ -1,6 +1,7 @@
 ---
 organization_id: '2013082'
-project_image: 'http://maker.good.is/myla2050/projects/goglayc.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16837%252Fdisplay%252FLA_YouthCorps_Logo-01.png=c570x385
 project_id: '3102140'
 title: Grades of Green  Los Angeles Youth Corps
 indicator: ' Environmental Quality'
@@ -375,6 +376,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16837'
+maker_image_file_name: LA_YouthCorps_Logo-01.png
 body_class: strawberry
 
 ---

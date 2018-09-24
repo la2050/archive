@@ -1,6 +1,6 @@
 ---
 organization_id: '2013193'
-project_image: 'http://maker.good.is/myla2050/projects/school_fuel.html'
+project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/maxresdefault.jpg'
 project_id: '3102253'
 title: >-
   School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School
@@ -257,6 +257,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   be significantly reduced.  A healthier city will not only reduce the health
   care costs of Los Angeles, but also increase its productivity. 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/FB9aNSfVARA'
+youtube_video_identifier: FB9aNSfVARA
 body_class: strawberry
 
 ---

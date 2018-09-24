@@ -1,6 +1,6 @@
 ---
 organization_id: '2014184'
-project_image: 'http://maker.good.is/myla2050/projects/POV.html'
+project_image: 'https://img.youtube.com/vi/zPGZHRuHf9Y/maxresdefault.jpg'
 project_id: '3102215'
 title: Childrens Counseling Program at POV
 indicator: ' Public Safety'
@@ -220,6 +220,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   who practice violence prevention and consider violence as an intolerable
   condition for the residents of Los Angeles. 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/zPGZHRuHf9Y'
+youtube_video_identifier: zPGZHRuHf9Y
 body_class: strawberry
 
 ---

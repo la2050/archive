@@ -1,6 +1,6 @@
 ---
 organization_id: '2015089'
-project_image: 'http://maker.good.is/myla2050/projects/cainesarcade.html'
+project_image: 'https://img.youtube.com/vi/Ul9c-4dX4Hk/maxresdefault.jpg'
 project_id: '3102154'
 title: The Caines Arcade Challenge
 indicator: ' Education'
@@ -301,6 +301,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/Ul9c-4dX4Hk'
+youtube_video_identifier: Ul9c-4dX4Hk
 body_class: strawberry
 
 ---

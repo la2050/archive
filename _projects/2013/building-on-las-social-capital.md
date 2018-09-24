@@ -1,6 +1,6 @@
 ---
 organization_id: '2013136'
-project_image: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+project_image: 'https://img.youtube.com/vi/AXqYX0rfbys/maxresdefault.jpg'
 project_id: '3102198'
 title: 'Building on LAs Social Capital '
 indicator: ' Income & Employment'
@@ -242,6 +242,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   invest in their futures through things like citizenship, homeownership, and
   their children’s education.</p>
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/AXqYX0rfbys'
+youtube_video_identifier: AXqYX0rfbys
 body_class: strawberry
 
 ---

@@ -1,6 +1,7 @@
 ---
 organization_id: '2013017'
-project_image: 'http://maker.good.is/myla2050/projects/ArtsEarthPartnership.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17283%252Fdisplay%252FNate_Holden.jpg=c570x385
 project_id: '3102029'
 title: AEP  Arts and Cultural Environmental Certification
 indicator: ' Environmental Quality'
@@ -281,6 +282,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   triple bottom line (people, profit and planet) and we can all live in a safer,
   healthier, and cleaner world.  All it takes is education, desire and action.
 year_submitted: 2013
+maker_image_id: '17283'
+maker_image_file_name: Nate_Holden.jpg
 body_class: strawberry
 
 ---

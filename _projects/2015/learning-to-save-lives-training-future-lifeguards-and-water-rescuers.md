@@ -110,6 +110,9 @@ How do you plan to scale the success of your proposal?: >-
   for babies, infants, and toddlers that the City of LA does not currently
   provide.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/U-UzxBOeJm8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/U-UzxBOeJm8'
+youtube_video_identifier: U-UzxBOeJm8
 project_areas:
   - San Fernando Valley
   - South Bay

@@ -1,6 +1,7 @@
 ---
 organization_id: '2013029'
-project_image: 'http://maker.good.is/myla2050/projects/collegeheadstart.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16608%252Fdisplay%252Fcollegeheadstart1.jpg=c570x385
 project_id: '3102051'
 title: CARECENs College Head Start
 indicator: ' Education'
@@ -184,6 +185,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   to their community. In 2050 we hope to see a community that actively
   encourages students in their pursuit of a higher education.
 year_submitted: 2013
+maker_image_id: '16608'
+maker_image_file_name: collegeheadstart1.jpg
 body_class: strawberry
 
 ---

@@ -9,8 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2014213'
 year_submitted: 2014
-project_image: ''
-project_video: ''
+project_image: 'https://img.youtube.com/vi/PpeXRYKkJko/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/PpeXRYKkJko'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In March, 2014 TreePeople launched TreeMapLA, a website and mobile app
   enabling communities to improve the environmental health of Los Angeles. Over
@@ -95,6 +95,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Our most important and long-term partnership, however, is with the people of LA. Our 40 year history has been one of partnering with people from all walks of life to educate, empower and motivate them to heal our environment. TreeMapLA makes it easier for all of us to join together and share knowledge to make our city more sustainable.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: PpeXRYKkJko
 project_areas:
   - CENTRAL LA
   - EAST LA

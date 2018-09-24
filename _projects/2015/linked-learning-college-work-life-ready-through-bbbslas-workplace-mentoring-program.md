@@ -97,6 +97,10 @@ How do you plan to scale the success of your proposal?: >-
   growth so we can continue to scale the impact of our program to help make this
   unique, proven effective linked learning program to more of LA's youth.
 year_submitted: 2015
+maker_image_id: '23399'
+maker_image_file_name: BBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23399%252Fdisplay%252FBBBSLA_Workplace_Mentoring_-_Linked_Learning.jpg=c570x385
 project_areas:
   - Central LA
   - East LA

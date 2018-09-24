@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2015109'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/LALabLaunch.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20497%252Fdisplay%252FLAbLaunch_Poster_Wb2.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will gradually build out our support for LA area biotech startups as we
@@ -65,6 +66,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Pasadena Bioscience Collaborative (PBC) – This biotech incubator in Pasadena currently supports 18 companies across three separate locations. The PBC will offer us experienced advice about running a life science incubator, and access to an existing base of investors and supporters of the Life Sciences industry from the San Gabriel Valley. Our collaboration will be mutually beneficial by expanding available space for startups, providing a link between the LA Basin and San Gabriel Valley biotech communities, and enhancing access between innovators and investors across the LA region.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '20497'
+maker_image_file_name: LAbLaunch_Poster_Wb2.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

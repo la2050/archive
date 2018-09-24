@@ -1,6 +1,7 @@
 ---
 organization_id: '2013192'
-project_image: 'http://maker.good.is/myla2050/projects/Gardens.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16360%252Fdisplay%252FGarden_Sign.png=c570x385
 project_id: '3102252'
 title: Gardens Gardens  Everywhere!
 indicator: ' Environmental Quality'
@@ -199,6 +200,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16360'
+maker_image_file_name: Garden_Sign.png
 body_class: strawberry
 
 ---

@@ -90,6 +90,9 @@ How do you plan to scale the success of your proposal?: >-
   placed back in the water, we will be able to expand our program by more than
   30%.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/m_0WUOFanyM'
+youtube_video_identifier: m_0WUOFanyM
 project_areas:
   - County of Los Angeles
   - City of Los Angeles

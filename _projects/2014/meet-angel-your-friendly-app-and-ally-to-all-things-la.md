@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014066'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22289%252Fdisplay%252FPA-angel.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   LA has unfortunately been known as one of the "UNFRIENDLIEST" cities in the
@@ -114,6 +115,8 @@ Whom will your project benefit? Please be specific.: >-
    (2) Clientele interest through partner
    (3) Mutually beneficial results for both us and partner
 empty_column_1: ''
+maker_image_id: '22289'
+maker_image_file_name: PA-angel.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

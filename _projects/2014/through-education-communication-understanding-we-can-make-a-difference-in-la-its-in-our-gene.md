@@ -9,7 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2014145'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21319%252Fdisplay%252FGENE_pic.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We will meet with local and state administrators to educate them on the
@@ -48,6 +49,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We are committed to help these diverse learners thrive and hope to have your support in helping to meet their instructional needs.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '21319'
+maker_image_file_name: GENE_pic.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

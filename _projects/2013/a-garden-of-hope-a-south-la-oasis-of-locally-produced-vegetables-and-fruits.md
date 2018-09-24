@@ -1,6 +1,7 @@
 ---
 organization_id: '2015127'
-project_image: 'http://maker.good.is/myla2050/projects/FruitVegetableOasis.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16619%252Fdisplay%252FLA2050_Photo.jpg=c570x385
 project_id: '3102188'
 title: 'A Garden of Hope A South LA Oasis of locally produced Vegetables and Fruits '
 indicator: ' Environmental Quality'
@@ -330,6 +331,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   desires of the communities we serve, striving to offer lifechanging community
   spaces, programs and resources.
 year_submitted: 2013
+maker_image_id: '16619'
+maker_image_file_name: LA2050_Photo.jpg
 body_class: strawberry
 
 ---

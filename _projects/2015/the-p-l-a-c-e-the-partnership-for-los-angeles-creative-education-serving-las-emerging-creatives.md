@@ -196,6 +196,9 @@ How do you plan to scale the success of your proposal?: >-
    
    The leadership of Trade School LA, Emerging Arts Leaders/LA & DSTL Arts are very committed to creating a pipeline of mentorship & education for creatives at all levels of their career. We are focused on establishing a mutually-supportive infrastructure now, that can eventually be expanded into other markets that will benefit from our pipeline structure. As long as we are able to collectively find funding to expand into other markets & establish centralized spaces, while hiring staff to coordinate our respective programs, we will scale the success of our proposal.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/LLupKVdXbLI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/LLupKVdXbLI'
+youtube_video_identifier: LLupKVdXbLI
 project_areas:
   - Central LA
   - East LA

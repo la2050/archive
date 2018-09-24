@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2015132'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/LAWF.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21921%252Fdisplay%252FScreen_Shot_2014-07-31_at_9.17.55_AM.png=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   A. Connect the dots between communities and cities in this region using the
@@ -102,6 +103,8 @@ Whom will your project benefit? Please be specific.: >-
    2. Development of the strategic plan to be used by participants in their outreach efforts, and 
    3. Effective administration collaborative outreach efforts toward achieving the overall objectives of the project.
 empty_column_1: ''
+maker_image_id: '21921'
+maker_image_file_name: Screen_Shot_2014-07-31_at_9.17.55_AM.png
 project_areas:
   - CENTRAL LA
   - EAST LA

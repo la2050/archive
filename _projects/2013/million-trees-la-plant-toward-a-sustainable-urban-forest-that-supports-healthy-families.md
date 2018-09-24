@@ -1,6 +1,6 @@
 ---
 organization_id: '2013134'
-project_image: 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
+project_image: 'https://img.youtube.com/vi/IMUZKtO4vOw/maxresdefault.jpg'
 project_id: '3102197'
 title: >-
   Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
@@ -159,6 +159,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/IMUZKtO4vOw'
+youtube_video_identifier: IMUZKtO4vOw
 body_class: strawberry
 
 ---

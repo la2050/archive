@@ -1,6 +1,6 @@
 ---
 organization_id: '2013123'
-project_image: 'http://maker.good.is/myla2050/projects/SpeakUp.html'
+project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg'
 project_id: '3102184'
 title: 'Speak Up When Youre Down: Maternal Mental Health Improvement Project'
 indicator: ' Health'
@@ -310,6 +310,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   care and other community providers, and that 100% of high risk patients are
   provided with a warm referral to an organization or agency that can help them.
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/Xoof6-2YZ_U'
+youtube_video_identifier: Xoof6-2YZ_U
 body_class: strawberry
 
 ---

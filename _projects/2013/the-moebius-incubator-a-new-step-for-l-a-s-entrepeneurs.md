@@ -1,6 +1,7 @@
 ---
 organization_id: '2014027'
-project_image: 'http://maker.good.is/myla2050/projects/Moebius5000.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17027%252Fdisplay%252Fnagle_droplab.png=c570x385
 project_id: '3102031'
 title: 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
 indicator: ' Income & Employment'
@@ -483,6 +484,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   many factors in bringing L.A. From 2 âˆ’ 3 percentage points above the
   national average to that many points below it. </p>
 year_submitted: 2013
+maker_image_id: '17027'
+maker_image_file_name: nagle_droplab.png
 body_class: strawberry
 
 ---

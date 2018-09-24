@@ -1,6 +1,6 @@
 ---
 organization_id: '2015212'
-project_image: 'http://maker.good.is/myla2050/projects/tiachucha.html'
+project_image: 'https://img.youtube.com/vi/B5uKTbH5IV0/maxresdefault.jpg'
 project_id: '3102258'
 title: >-
   Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia Wellness
@@ -156,6 +156,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   the building blocks of such a future, such possibilities, such an integral
   time and place.  
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/B5uKTbH5IV0'
+youtube_video_identifier: B5uKTbH5IV0
 body_class: strawberry
 
 ---

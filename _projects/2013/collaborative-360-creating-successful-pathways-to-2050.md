@@ -1,6 +1,7 @@
 ---
 organization_id: '2013108'
-project_image: 'http://maker.good.is/myla2050/projects/C-360.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17017%252Fdisplay%252F360.png=c570x385
 project_id: '3102065'
 title: Collaborative 360 — Creating Successful Pathways to 2050
 indicator: ' Public Safety'
@@ -288,6 +289,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '17017'
+maker_image_file_name: 360.png
 body_class: strawberry
 
 ---

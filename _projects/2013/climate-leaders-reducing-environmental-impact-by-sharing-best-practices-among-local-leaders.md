@@ -1,6 +1,7 @@
 ---
 organization_id: '2013079'
-project_image: 'http://maker.good.is/myla2050/projects/climateleaders.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16505%252Fdisplay%252FLogo.jpg=c570x385
 project_id: '3102138'
 title: >-
   Climate Leaders  reducing environmental impact by sharing best practices among
@@ -237,6 +238,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   a multitude of support from local governments, residents, constituents and key
   stakeholders.
 year_submitted: 2013
+maker_image_id: '16505'
+maker_image_file_name: Logo.jpg
 body_class: strawberry
 
 ---

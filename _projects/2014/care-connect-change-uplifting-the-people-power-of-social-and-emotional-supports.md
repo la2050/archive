@@ -9,7 +9,8 @@ project_summary: >-
 category: connect
 organization_id: '2018068'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21175%252Fdisplay%252FLIFT-LA_Care__Connect__Change__Photo.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We uphold that more connected people are more likely to manage crises and move
@@ -89,6 +90,8 @@ Whom will your project benefit? Please be specific.: >-
    
    • Keystone Accountability works with LIFT to develop and test a system to collect continuous client and volunteer feedback. Keystone is an expert in gathering, analyzing, and amplifying client voices in order to foster a culture of accountability. Keystone’s founder and CEO, David Bonbright, worked with LIFT over the last year to design CV, and will continue working closely with LIFT’s Executive and Program Team to effectively implement CV in LA. We are excited about this partnership and its potential to ensure our responsiveness to the needs of our members in LA.
 empty_column_1: ''
+maker_image_id: '21175'
+maker_image_file_name: LIFT-LA_Care__Connect__Change__Photo.jpg
 project_areas:
   - SOUTH LA
   - LA COUNTY

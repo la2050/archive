@@ -1,6 +1,7 @@
 ---
 organization_id: '2015083'
-project_image: 'http://maker.good.is/myla2050/projects/healthyneighborhoods.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16808%252Fdisplay%252FYouth_Summit-Action_IV.jpg=c570x385
 project_id: '3102146'
 title: Heal the Bays Healthy Neighborhoods Healthy Environment Initiative
 indicator: ' Environmental Quality'
@@ -522,6 +523,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16808'
+maker_image_file_name: Youth_Summit-Action_IV.jpg
 body_class: strawberry
 
 ---

@@ -1,6 +1,7 @@
 ---
 organization_id: '2013201'
-project_image: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16612%252Fdisplay%252FHYPOPARK.jpg=c570x385
 project_id: '3102261'
 title: HYPOPARK
 indicator: ' Health'
@@ -261,6 +262,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   </p>3. The ability to attract other prospective private sponsors and
   “adopting” agencies.<p>
 year_submitted: 2013
+maker_image_id: '16612'
+maker_image_file_name: HYPOPARK.jpg
 body_class: strawberry
 
 ---

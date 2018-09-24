@@ -1,6 +1,7 @@
 ---
 organization_id: '2014111'
-project_image: 'http://maker.good.is/myla2050/projects/youthspeak.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16636%252Fdisplay%252FLA2050-graphic.jpg=c570x385
 project_id: '3102279'
 title: 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
 indicator: ' Social Connectedness'
@@ -140,6 +141,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   2050 would be vibrant with social bonds that also make a community impact,
   whether great or small.</p>
 year_submitted: 2013
+maker_image_id: '16636'
+maker_image_file_name: LA2050-graphic.jpg
 body_class: strawberry
 
 ---

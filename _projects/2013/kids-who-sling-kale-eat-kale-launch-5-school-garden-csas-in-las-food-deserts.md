@@ -1,6 +1,6 @@
 ---
 organization_id: '2014060'
-project_image: 'http://maker.good.is/myla2050/projects/MuirRanch.html'
+project_image: 'https://img.youtube.com/vi/l5L_mT-6swI/maxresdefault.jpg'
 project_id: '3102200'
 title: 'Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food Deserts'
 indicator: ' Education'
@@ -426,6 +426,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   an awareness of the natural world and the importance of diet we'll only be in
   a better world for it. 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/l5L_mT-6swI'
+youtube_video_identifier: l5L_mT-6swI
 body_class: strawberry
 
 ---

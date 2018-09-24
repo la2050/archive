@@ -1,6 +1,7 @@
 ---
 organization_id: '2013191'
-project_image: 'http://maker.good.is/myla2050/projects/RXforLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385
 project_id: '3102107'
 title: An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
 indicator: ' Income & Employment'
@@ -228,6 +229,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   supports and rewards business.  Going much beyond that would require far more
   space to properly discuss.
 year_submitted: 2013
+maker_image_id: '16903'
+maker_image_file_name: LBSpan2med.jpg
 body_class: strawberry
 
 ---

@@ -119,6 +119,9 @@ How do you plan to scale the success of your proposal?: >-
   volunteer opportunities, and then by recruiting enough volunteers to serve all
   children in need.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/3qC3k8bY6A0/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/3qC3k8bY6A0'
+youtube_video_identifier: 3qC3k8bY6A0
 project_areas:
   - County of Los Angeles
 body_class: blueberry

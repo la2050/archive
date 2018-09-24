@@ -92,6 +92,10 @@ How do you plan to scale the success of your proposal?: >-
   experts deem it necessary to accomplish the greatest degree of impact and
   effectiveness.
 year_submitted: 2015
+maker_image_id: '23179'
+maker_image_file_name: Web_New_Com.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23179%252Fdisplay%252FWeb_New_Com.jpg=c570x385
 project_areas:
   - Westside
   - County of Los Angeles

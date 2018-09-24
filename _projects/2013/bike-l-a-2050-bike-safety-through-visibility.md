@@ -1,6 +1,7 @@
 ---
 organization_id: '2013019'
-project_image: 'http://maker.good.is/myla2050/projects/bikela2050.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16963%252Fdisplay%252F2019409068.jpg=c570x385
 project_id: '3102034'
 title: Bike L.A. 2050  Bike Safety Through Visibility
 indicator: ' Public Safety'
@@ -64,6 +65,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   community that has been documented in cultures that use bicycles for
   commuting.
 year_submitted: 2013
+maker_image_id: '16963'
+maker_image_file_name: 2019409068.jpg
 body_class: strawberry
 
 ---

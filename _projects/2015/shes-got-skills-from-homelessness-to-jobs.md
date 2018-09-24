@@ -88,6 +88,9 @@ How do you plan to scale the success of your proposal?: >-
    
    DWC is recognized as a leader in the service field. In 2001, we spearheaded the Downtown Women's Action Coalition in gathering information on homeless women’s needs with the potential to affect positive change in policy. In 2005, we developed a national study of best practices in homeless women’s services. In 2011, DWC was deemed “Organization of the Year” by the Los Angeles Business Journal and was granted the Los Angeles Conservancy Preservation Award. In 2013, we were named “Nonprofit of the Year,” by the Office of the Governor and California Volunteers.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/13dwU_7eCrQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/13dwU_7eCrQ'
+youtube_video_identifier: 13dwU_7eCrQ
 project_areas: []
 body_class: blueberry
 

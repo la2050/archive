@@ -131,6 +131,10 @@ How do you plan to scale the success of your proposal?: >-
    
    Hiring staff for Grid110 will be vital in order for us to grow beyond our first space and continue to scale in growing the starting ecosystem.
 year_submitted: 2015
+maker_image_id: '23862'
+maker_image_file_name: Screen_Shot_2015-10-06_at_11.01.25_AM.png
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23862%252Fdisplay%252FScreen_Shot_2015-10-06_at_11.01.25_AM.png=c570x385
 project_areas:
   - East LA
 body_class: blueberry

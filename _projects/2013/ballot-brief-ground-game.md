@@ -1,6 +1,7 @@
 ---
 organization_id: '2013103'
-project_image: 'http://maker.good.is/myla2050/projects/GroundGame.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385
 project_id: '3102164'
 title: Ballot Brief  Ground Game
 indicator: ' Social Connectedness'
@@ -212,6 +213,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   engaged and empowered, likeminded citizens rather than by isolated, silo'd
   neighborhoods.  
 year_submitted: 2013
+maker_image_id: '17051'
+maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 body_class: strawberry
 
 ---

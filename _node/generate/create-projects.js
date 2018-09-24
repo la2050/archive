@@ -7,6 +7,49 @@ let parse = require('csv-parse/lib/sync')
 let yaml = require('js-yaml')
 // let request = require("request")
 
+//  Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los Angeles : 2015 : learn : 2015148
+//  Bresee’s Safe Place to Play for over 2,500 Youth and Families in Central Los Angeles
+
+//  Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1000 Children : 2015 : learn : 2015165
+//  Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1,000 Children
+
+//  AnonymousGood: LAGood posts 50000 Acts of Good 4 LA2050 : 2014 : connect : 2014006
+//  Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA : 2014 : connect : 2014071
+//  College Summit: Equipping 4800 Low-Income Student For Success in College and Career : 2014 : learn : 2014130
+//  Tickleberry Place : 2014 : play : 2016238
+//  20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in our diverse communities : 2014 : connect : 2018100
+
+//  1000 Mentors for Students: Build a Greater City of Angels with 826LA! : 2013 : undefined : 2018003
+//  1,000 Mentors for Students: Build a Greater City of Angels with 826LA!
+
+//  cARTel: Collaborative Arts LAs ToDo List : 2013 : undefined : 2013030
+//  cARTel: Collaborative Arts LA's To-Do List
+
+
+//  Alliance CollegeReady Public Schools  BLAST : 2013 : undefined : 2013005
+//  PARKINABOX : 2013 : undefined : 2013062
+//  Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer Program  : 2013 : undefined : 2013022
+//  Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in LowIncome Neighborhoods : 2013 : undefined : 2013026
+//  What’s the BF(B)D? Connecting Neighborhoods through BicycleFriendly Business Districts : 2013 : undefined : 2013085
+//  PickUp PopUp Produce Station : 2013 : undefined : 2013040
+//  LA Street Vendors: A Better Economy through LowIncome Entrepreneurs : 2013 : undefined : 2018035
+//  ChangeMaking Gardens : 2013 : undefined : 2013061
+//  Virtual Mentor Program for Foster and Atrisk Youth : 2013 : undefined : 2013073
+//  PesticideFree Los Angeles 2050 : 2013 : undefined : 2013091
+//  Roving RÃ­o Vista: A Park on the Move : 2013 : undefined : 2013110
+//  Financial Enrichment and Management (collegiate class of 20182019) : 2013 : undefined : 2013117
+//  Crowdsourcing Education To Provide Free Oneonone Online Tutoring For Underserved Communities  : 2013 : undefined : 2013120
+//  ReConnecting L.A. Neighborhoods through Music & History : 2013 : undefined : 2013128
+//  The Salamander Project: Redesigning Creativity in Education : 2013 : undefined : 2013145
+//  AxS aksis Festival : 2013 : undefined : 2013152
+//  College Bus: Driving LA’s LowIncome Youth Towards a College Education : 2013 : undefined : 2013154
+//  RFKLA (Legacy in Action) Digital Archive : 2013 : undefined : 2013163
+//  A HighPaying HighTech Jobs Solution For Those That Need It The MOST : 2013 : undefined : 2014078
+//  everybody dance:  Training LA’s Teachers to Bring Dance Education Back to LA’s K8 Schools : 2013 : undefined : 2014201
+//  SelfSustainable Artistic Community  : 2013 : undefined : 2013211
+//  Wayfinder LA a utility for carfree transit : 2013 : undefined : 2013216
+
+
 function stringToURI(str) {
   return String(str).toLowerCase()
     .replace(/\s/g, '-')
@@ -15,6 +58,7 @@ function stringToURI(str) {
     .replace(/\./g, '-')
     .replace(/\:/g, '-')
     .replace(/\!/g, '-')
+    .replace(/…/g, '-')
     .replace(/\?/g, '-')
     .replace(/\$/g, '-')
     .replace(/\%/g, '-')
@@ -43,18 +87,20 @@ function stringToURI(str) {
     .replace(/\-\-/g, '-')
     .replace(/^\-/g, '') // Remove starting dash
     .replace(/\-$/g, '') // Remove trailing dash
-    .replace(' ', '')
+    .replace(/ /g, '')
 }
 
 function getStringForComparison(string) {
-  if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
-    console.log("BEFORE")
-    console.log(string)
-    console.log("AFTER")
-    console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
-    return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
-  }
-  return string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
+  string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
+  string = (stringToURI(string).replace(/\-/, ""))
+  // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
+  //   console.log("BEFORE")
+  //   console.log(string)
+  //   console.log("AFTER")
+  //   console.log(string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim())
+  //   return "A house for Tommy in my backyard! If only LA knew the opportunity that lies in our backyards…"
+  // }
+  return string
 }
 
 

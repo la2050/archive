@@ -1,6 +1,6 @@
 ---
 organization_id: '2015112'
-project_image: 'http://maker.good.is/myla2050/projects/LASPROMISE.html'
+project_image: 'https://img.youtube.com/vi/wt2vknxO7Q0/maxresdefault.jpg'
 project_id: '3102175'
 title: 'LAs Promise: Improving Schools Empowering Neighborhoods'
 indicator: ' Education'
@@ -263,6 +263,8 @@ How will your project benefit Los Angeles? Please be specific.: >-
   lowincome communities across LA.
 What would success look like in the year 2050 regarding your indicator?: "As noted above, by 2050, LA’s Promise will have transformed South LA’s schools to have produced more than 35 years of successful high school and college graduates and will have rolled out its transformative model across Los Angeles’ underserved schools. Meanwhile, the tens of thousands of alumni LA’s Promise will have supported by 2050 will be successful adults giving back to their home community of South LA, which will have shifted from decades of urgent need to a time of prosperous leadership.\n\n\n\n\n\nGenerally, we believe that success in 2050 for Education in Los Angeles would include:\n\n\n\t95% graduation rates across all schools in South Los Angeles, and a minimum of 75% graduation rates across the schools in all of the communities of Los Angeles;\n\n\n\t95% college attendance rates across the students graduating from LA’s Promise schools;\n\n\n\t96% school attendance rates across the schools in lowincome communities of Los Angeles;\n\n\n\tAll Los Angeles schools serving as community hubs and resources, involving entire families and communities in the education of its children;\n\n\n\tA unified pipeline of schools, beginning with prekindergarten, that meet the needs of 100% of the families and communities all across the Los Angeles region; and\n\n\n\tLA’s Promise graduates returning to work in the communities where they grew up and serving as mentors to current students and as advocates for the LA’s Promise model across the region. \n\n\n\n\n\nBy 2050, LA’s Promise will have graduated more than 500,000 youth and sent them on to pursue college and professional careers. \n\n\n\n\n\n"
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/wt2vknxO7Q0'
+youtube_video_identifier: wt2vknxO7Q0
 body_class: strawberry
 
 ---

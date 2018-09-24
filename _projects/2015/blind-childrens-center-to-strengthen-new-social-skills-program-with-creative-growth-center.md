@@ -95,6 +95,9 @@ How do you plan to scale the success of your proposal?: >-
    
    We anticipate the hard work we put into this undertaking will yield an out-of-the-box curriculum that can be used as a model to tackle a very real issue facing young people who are visually impaired. With the appropriate social skills to go along with strong educational skills, our students and others like them will be equipped to make friends, live independently, and fulfill their highest potential.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/z__BDhvkp9Q'
+youtube_video_identifier: z__BDhvkp9Q
 project_areas:
   - County of Los Angeles
   - City of Los Angeles

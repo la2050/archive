@@ -1,6 +1,7 @@
 ---
 organization_id: '2013056'
-project_image: 'http://maker.good.is/myla2050/projects/access.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16514%252Fdisplay%252Feym_apple.JPG=c570x385
 project_id: '3102118'
 title: EYMs ACCESS / NO EXCUSE
 indicator: ' Education'
@@ -275,6 +276,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   type of access, and it is our vision that we can make a meaningful impact
   right now and in the future.
 year_submitted: 2013
+maker_image_id: '16514'
+maker_image_file_name: eym_apple.JPG
 body_class: strawberry
 
 ---

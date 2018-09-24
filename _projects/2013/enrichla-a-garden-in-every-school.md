@@ -1,6 +1,7 @@
 ---
 organization_id: '2014032'
-project_image: 'http://maker.good.is/myla2050/projects/enrichla.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16733%252Fdisplay%252Fenrichla-photo-3.jpg=c570x385
 project_id: '3102124'
 title: EnrichLA A Garden in EVERY School!
 indicator: ' Environmental Quality'
@@ -202,6 +203,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16733'
+maker_image_file_name: enrichla-photo-3.jpg
 body_class: strawberry
 
 ---

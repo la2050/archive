@@ -1,6 +1,7 @@
 ---
 organization_id: '2013169'
-project_image: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17239%252Fdisplay%252FJohn_-_LA_Daily_News.jpg=c570x385
 project_id: '3102235'
 title: 'Ready Set Gold!: A Students Guide to a Lifetime of Fitness '
 indicator: ' Health'
@@ -272,6 +273,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '17239'
+maker_image_file_name: John_-_LA_Daily_News.jpg
 body_class: strawberry
 
 ---

@@ -111,6 +111,10 @@ How do you plan to scale the success of your proposal?: >-
    
    Over the past five years, we have gone from originating 70 loans a year in LA to 70loans a month in the county. We have achieved this growth by investing in the people and technology to reach and serve LA’s entrepreneurs. We know that every loan we make creates and sustains more than two jobs, and that every $1 we invest results in a ripple effect that generates almost $2 in new economic activity. By investing to scale in Los Angeles, Opportunity Fund is positioned to help thousands of small business owners access hundreds of millions of dollars in microloans by 2050—supporting job creation at significant scale while spurring economic growth in communities that need it most.
 year_submitted: 2015
+maker_image_id: '24110'
+maker_image_file_name: southern_girl_desserts.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24110%252Fdisplay%252Fsouthern_girl_desserts.jpg=c570x385
 project_areas:
   - County of Los Angeles
 body_class: strawberry

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013044'
-project_image: 'http://maker.good.is/myla2050/projects/SaferHoods.html'
+project_image: 'https://img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg'
 project_id: '3102087'
 title: Safer Hoods Through Arts Action and Community
 indicator: ' Public Safety'
@@ -148,6 +148,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   residents played to reclaim their public spaces, get organized, and advance
   transformative change one neighborhood at a time.</p>
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/8O5p-fqguRo'
+youtube_video_identifier: 8O5p-fqguRo
 body_class: strawberry
 
 ---

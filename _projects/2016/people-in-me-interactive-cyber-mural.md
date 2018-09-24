@@ -6,7 +6,7 @@ organization_website: metrocharter.org
 ein: ''
 project_image_2: 0883163005741-team91.jpg
 project_id: '6102154'
-title: PEOPLE IN ME' Interactive Cyber Mural
+title: '''PEOPLE IN ME'' Interactive Cyber Mural'
 organization_name_2: METRO Charter Elementary School
 organization_activity: >-
   The first parent-initiated charter in downtown L.A., METRO meaningfully
@@ -25,7 +25,8 @@ project_collaborators: >-
   South Park Business Improvement District, Sandy Point INK, Chase New Markets
   Tax Credit Group, Xyvest Holdings Inc., CalStateTEACH, L.A. City Real Estate
   and Land Use, Technology provider - TBD
-project_areas: '["Downtown L.A. metro area"]'
+project_areas:
+  - Downtown L.A. metro area
 project_measure: >-
   1) Tabulate the number of visitors that view the mural.
 
@@ -61,10 +62,14 @@ project_measure: >-
   students to figure out how they learn best. They also get to see how their
   peers learn best, showing them that there are many ways to problem solve and
   reach the same solution.
-project_proposal_help: >-
-  ["Money ","Volunteers","Advisors/board
-  members","Publicity/awareness","Infrastructure (building/space/vehicles
-  etc.)","Technical infrastructure (computers etc.)","Community outreach"]
+project_proposal_help:
+  - 'Money '
+  - Volunteers
+  - Advisors/board members
+  - Publicity/awareness
+  - Infrastructure (building/space/vehicles etc.)
+  - Technical infrastructure (computers etc.)
+  - Community outreach
 project_description: >-
   PEOPLE IN ME is a student-created, interactive, cyber-video mural that maps
   the cultural diversity of community living and/or working in downtown L.A.,
@@ -124,6 +129,18 @@ project_proposal_best_place: >-
   positive attitudes about aging, and community service.
 challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
 empty_column_1: ''
-body_class: strawberry
+project_proposal_description: >-
+  PEOPLE IN ME is a student-created, interactive, cyber-video mural that maps
+  the cultural diversity of community living and/or working in downtown L.A.,
+  representing 180 countries. A team of students working alongside parents,
+  artists and school partners will interview locals about their culture, arts,
+  cuisine, childhood, beliefs and how they arrived here. Students/viewers will
+  put themselves on the map by inputting data about themselves to determine how
+  their family is connected.
+project_proposal_impact:
+  - Cultural events
+  - Public/open streets gatherings
+category: connect
+body_class: tangerine
 
 ---

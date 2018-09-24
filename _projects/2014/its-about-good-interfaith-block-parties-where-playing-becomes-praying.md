@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014042'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21276%252Fdisplay%252Finterfaithsize.png=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Partnering with the Interfaith Religious Council of Los Angeles, the Office of
@@ -92,6 +93,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The third factor is availability and boldness. Anyone involved should be available to knock on doors, make calls, and attend the actual block parties. In many ways, this is like a series of campaigns for God in Los Angeles. Partners need to be comfortable with their faith, not on the fence, and be willing to stand up and share it with the world!
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '21276'
+maker_image_file_name: interfaithsize.png
 project_areas:
   - CENTRAL LA
   - EAST LA

@@ -1,6 +1,7 @@
 ---
 organization_id: '2013050'
-project_image: 'http://maker.good.is/myla2050/projects/enlightened200.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385
 project_id: '3102102'
 title: >-
   The LA2050 200  Creating Enlightened Leadership for a Healthy Thriving Los
@@ -131,6 +132,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16855'
+maker_image_file_name: DLFlogo.jpg
 body_class: strawberry
 
 ---

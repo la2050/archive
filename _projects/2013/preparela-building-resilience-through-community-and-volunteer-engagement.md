@@ -1,6 +1,6 @@
 ---
 organization_id: '2015008'
-project_image: 'http://maker.good.is/myla2050/projects/PrepareLA.html'
+project_image: 'https://img.youtube.com/vi/o9qNFS7Opf0/maxresdefault.jpg'
 project_id: '3102018'
 title: PrepareLA — Building Resilience through Community and Volunteer Engagement
 indicator: ' Social Connectedness'
@@ -415,6 +415,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/o9qNFS7Opf0'
+youtube_video_identifier: o9qNFS7Opf0
 body_class: strawberry
 
 ---

@@ -1,6 +1,7 @@
 ---
 organization_id: '2013058'
-project_image: 'http://maker.good.is/myla2050/projects/edpioneer.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16507%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
 project_id: '3102120'
 title: 'The power in an hour: Putting time for teachers back in a principals day'
 indicator: ' Education'
@@ -104,6 +105,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   instructional leadership to develop teacher leaders, and ensure that every
   child in their school is in a classroom with an effective teacher every day.  
 year_submitted: 2013
+maker_image_id: '16507'
+maker_image_file_name: FB_Cover_photo.jpg
 body_class: strawberry
 
 ---

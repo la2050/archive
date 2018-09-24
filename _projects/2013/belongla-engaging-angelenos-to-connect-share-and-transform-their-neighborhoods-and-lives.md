@@ -1,6 +1,6 @@
 ---
 organization_id: '2015032'
-project_image: 'http://maker.good.is/myla2050/projects/belong.html'
+project_image: 'https://img.youtube.com/vi/yZuXj1JMt5M/maxresdefault.jpg'
 project_id: '3102060'
 title: >-
   BelongLA — Engaging Angelenos to connect share and transform their
@@ -254,6 +254,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   educational and economic outcomes thereby making Los Angeles a place where
   residents and businesses will thrive.   
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/yZuXj1JMt5M'
+youtube_video_identifier: yZuXj1JMt5M
 body_class: strawberry
 
 ---

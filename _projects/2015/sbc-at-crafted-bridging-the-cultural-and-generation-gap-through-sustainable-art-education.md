@@ -102,6 +102,10 @@ How do you plan to scale the success of your proposal?: |-
    During our successful year at CRAFTED, SBC will work to find funding to continue the program at the LA Waterfront, and to expand the program to other areas of Los Angeles. List other organizations that may potentially want to partner for space and support the projects expansion… 
    We hope that we can continue the program of exhibitions and workshops at the CRAFTED location. There is potential to develop a similar program at the Anderson Senior Center
 year_submitted: 2015
+maker_image_id: '24146'
+maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24146%252Fdisplay%252FCulture_gaps_for_la2050xsmall_copy.jpg=c570x385
 project_areas:
   - South Bay
   - County of Los Angeles

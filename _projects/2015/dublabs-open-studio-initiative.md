@@ -107,6 +107,9 @@ How do you plan to scale the success of your proposal?: >-
   Open Studio Initiative a central part of dublab’s operations for many years to
   come.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/xXMkk_S-UnU'
+youtube_video_identifier: xXMkk_S-UnU
 project_areas:
   - Central LA
 body_class: strawberry

@@ -131,6 +131,10 @@ How do you plan to scale the success of your proposal?: >-
   (2017-2018) will build on CtD relationships and visioning; community design
   teams will compete for selection to realize demonstration projects.
 year_submitted: 2015
+maker_image_id: '24151'
+maker_image_file_name: CtD_2050_Image_2.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24151%252Fdisplay%252FCtD_2050_Image_2.jpg=c570x385
 project_areas: []
 body_class: strawberry
 

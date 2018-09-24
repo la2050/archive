@@ -1,6 +1,7 @@
 ---
 organization_id: '2013086'
-project_image: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385
 project_id: '3102143'
 title: Youth Outreach Unit Together We Create a Better Y.O.U.
 indicator: ' Public Safety'
@@ -109,6 +110,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '17077'
+maker_image_file_name: Helper_Logo.jpg
 body_class: strawberry
 
 ---

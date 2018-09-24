@@ -140,6 +140,9 @@ How do you plan to scale the success of your proposal?: >-
    
    We envision a generation of children and families growing up in Los Angeles who will think of the River as a memorable place that shaped their experiences and provided great places to play.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/NlnlvjCu_AE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/NlnlvjCu_AE'
+youtube_video_identifier: NlnlvjCu_AE
 project_areas:
   - Central LA
   - East LA

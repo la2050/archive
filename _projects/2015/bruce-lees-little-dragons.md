@@ -123,6 +123,9 @@ How do you plan to scale the success of your proposal?: >-
    
    This pilot program and partnership with LA2050 will be key in proving the overall concept of the program itself, prior to expanding locally within LA county, then to the greater Californian area and eventually reaching other states within the continental US.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/YufCYg-BYaY'
+youtube_video_identifier: YufCYg-BYaY
 project_areas:
   - County of Los Angeles
 body_class: blueberry

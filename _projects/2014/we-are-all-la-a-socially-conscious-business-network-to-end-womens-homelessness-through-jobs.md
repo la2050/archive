@@ -9,8 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2015051'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/8GZELMERrSk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/8GZELMERrSk'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Build a business coalition
    2. Place participants in jobs
@@ -63,6 +63,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In harnessing the power of collaboration for our business coalition, three factors will be critical to our success. The contribution of expertise and network of our current partners is of utmost importance to the success of our initiative, as is effective and engaging training and workshops that help women stay on track in their personal stability and in their path toward self-sufficiency. Lastly, because a growth initiative like this one often takes a backseat to programming upkeep, funding for this innovation is crucial.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: 8GZELMERrSk
 project_areas:
   - CENTRAL LA
   - LA COUNTY
