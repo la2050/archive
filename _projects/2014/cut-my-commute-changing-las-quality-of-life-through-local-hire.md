@@ -84,7 +84,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Lead clinical staff from each agency and WIN meet to coordinate work at our monthly Program Committee Meetings, and partner agency case managers and supervisors, plus WIN therapists and our clinical director meet weekly for shared case reviews. WIN trains its partner agency staff with 20-40 hours of multi-disciplinary training each year, plus provides dedicated, weekly mental health consultation to the Early Head Start and/or programmatic staff of each of our partner agencies.
    
    Thanks to WIN’s HIPAA-compliant data system (a system that has become the model for one the state of Connecticut has adopted for its early childhood mental health services), WIN and its partners coordinate care for each family though a jointly prepared on-line service plan that is updated by each agency regularly. The system reports monthly on how well we’re helping families achieve their goals, and allows staff to communicate in ‘real-time’ regarding family progress—as well as to coordinate care during emergencies. The system tabulates our biannual outcomes, gathering data input by staff at various levels from all partners, and reminds case managers and therapists when screenings, assessments and releases are due.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - SOUTH LA

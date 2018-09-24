@@ -48,7 +48,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    NationBuilder and Social Mosaic will help NALIP develop and perfect the technology and audience engagement tools to better serve Digitize LA participants.
    
    MiTu will provide space and access to their development executives to serve as mentors and possible buyer of participants' content.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: JEFLrDV_RDE
 project_areas:

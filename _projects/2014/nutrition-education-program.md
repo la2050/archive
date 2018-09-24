@@ -48,7 +48,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Strong potential partners could include: public health outreach campaigns, low-income health clinics, local grocery stores, community gardens, food truck events, farmers markets, and community festivals. Additionally, we could provide specific programming to incorporate into nonprofit events around nutrition, such as school education series. 
    
    We would also partner with healthy food vendors -- e.g. community-supported agriculture and organic farmers -- to sell their wares alongside our demonstrations. Our demonstrations would likely generate business for these vendors and, in doing so, create a means for low-income neighborhoods to access healthy foods.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22174'
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg

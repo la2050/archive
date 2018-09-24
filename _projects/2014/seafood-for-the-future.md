@@ -69,7 +69,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    “Mobile Forum” would organize similar, but circumstantially unique arrangements across the city − amassing a variety of both tailored and universal approaches to responsive development by design. Other collaborator-partners to which the LA Forum has reached out and/or with which the LA Forum has the potential of working include the City of West Hollywood, Skid Row Housing Trust, El Proyecto del Barrio, and the Housing Rights Group, to name a few. The LA Forum’s board members, all well established design and urbanism professionals, have respected histories working with an extended network of organizations appropriate to fill the collaborator-partner positions and will activate that network in order to secure involvement in “Mobile Forum.”
    
    The three factors critical to a successful “Mobile Forum” collaboration-partnership are: (1) a distributed and representative audience, (2) connection to decision-makers, and (3) promotion.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22849'
 maker_image_file_name: AquariumPacific.jpg

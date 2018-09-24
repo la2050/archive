@@ -47,7 +47,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   State Northridge, and Cal Poly Pomona. Partners in outreach to let low income
   people know about the program include Public Health Foundation Enterprises WIC
   Program, Project Angel Food, and SOVA Jewish Food Pantry Market
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: jAOkF8UAOLI
 project_areas:

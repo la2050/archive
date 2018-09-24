@@ -46,7 +46,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In an effort to enable the diverse student population to have the maximum opportunity for learning, we have also been in touch with the LAUSA Department for Gifted and Talented Students and the LAUSD Multilingual and Multicultural Education Department, as we believe both of these departments serve students who have great potential, and need to have resources and opportunities to enable the maximal learning potential of every child.
    
    We are committed to help these diverse learners thrive and hope to have your support in helping to meet their instructional needs.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

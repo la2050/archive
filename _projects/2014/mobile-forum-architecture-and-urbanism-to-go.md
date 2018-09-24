@@ -82,7 +82,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We work with The California Endowment Fund through a substantive grant to install gardens in schools that fall outside of the LAUSD. We will continue nurturing this partnership and others in hopes of unlocking future funds.
    
    Our organizational ties to LA-based companies like Space X enable us to reach a targeted population of highly influential individuals and organizations, building our network through these channels.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: tgVu1wy15RQ
 project_areas:

@@ -88,7 +88,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • LA Food Policy Council – Has agreed to help NHS coordinate events, outreach, and advocacy through the Center in addition to serving as a partner in creating community gardens. 
    • Los Angeles Department of Neighborhood Empowerment – As the oversight agency of neighborhood councils, LADNE will provide extensive outreach, special project coordination, and a grassroots connection to regional community groups. 
    • LA County Department of Health – Committed to helping us create living projects and support our clinic plan.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22809'
 maker_image_file_name: CSC_1.JPG

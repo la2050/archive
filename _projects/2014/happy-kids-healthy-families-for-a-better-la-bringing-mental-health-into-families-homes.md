@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Consulting regarding the creation of new curriculum
    
    We also intend to reach out to Child and Adult Care Food Program (CACFP) Sponsors for reaching out to license-exempt providers on their programs or seeking out volunteer coaches.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 4svMiNJ-HL0
 project_areas:

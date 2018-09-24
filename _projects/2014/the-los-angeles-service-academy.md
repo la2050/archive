@@ -87,7 +87,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   fact that the LASA participants get to meet high-profile decision-makers and
   leaders across a broad swath of institutions, agencies, and educational
   centers in the region.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '23401'
 maker_image_file_name: LASA_LARiver2015.jpg

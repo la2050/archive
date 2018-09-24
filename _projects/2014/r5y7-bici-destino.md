@@ -67,7 +67,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Helen Leung, Director of Social Impact, Mas LA. Board member, Elysian Valley Arts Collective.
    
    Max Kanter, Community Builder at Good Eggs LA, Volunteer Coordinator at Food Forward.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22378'
 maker_image_file_name: r5y7collage.jpg

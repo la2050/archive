@@ -83,7 +83,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   planning; (2) ability to conduct classes and; (3) expertise and knowledge to
   evaluate and measure success. The proposed partners meet these critical
   factors.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22088'
 maker_image_file_name: LINCOLN_STATUE.jpg

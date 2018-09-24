@@ -51,7 +51,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   We constantly work with collaborators and partners, and inevitably there would
   be many involved in this project, but none that have been specifically
   identified yet.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20805'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg

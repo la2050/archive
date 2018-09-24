@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    UCLA Sociology Department faculty members will help with analyzing complex and big data sets. 
    UCLA Life Sciences Division undergraduate students in conjunction with the School of Medicine and local fitness trainers will help develop multiple healthy dietary regiments based on user profile and needs. 
    UCLA Business School undergraduate students and graduate students will seek to further establish connections with local and corporate businesses to provide incentives for users and rewards for those that reach their target goal/metric such as weight loss, miles walked than driven, etc.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: hhGzboSQL6A
 project_areas:

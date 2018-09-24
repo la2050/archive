@@ -94,7 +94,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Delivering on proposed goals and commitments. 
    
    We have a track record of success in these areas with our partners which provides a strong foundation for the roll out and successful implementation of this initiative. As with any new initiative, we anticipate hurdles as we navigate somewhat unfamiliar territory. Our confidence lies in the strength of our partnership history in overcoming obstacles.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 44E5ezgbzHg
 project_areas:

@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Potential Collaborators:
    
    Graphic design Artists, muralists, photographers, architects, yoga teachers, nutrition specialists
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22268'
 maker_image_file_name: Heathy_Teens__LA.png

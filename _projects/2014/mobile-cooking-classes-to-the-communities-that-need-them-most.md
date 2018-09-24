@@ -49,7 +49,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    7) White Memorial Medical Center
    8) Amigos de Los Rios
    9) UCLA School of Public Health
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21775'
 maker_image_file_name: IMG_20140406_135445.jpg

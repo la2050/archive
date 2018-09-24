@@ -57,7 +57,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   At this time we have no partner organizations, however, due to the
   collaborative nature of our work in the theatre, we are open to collaboration
   with other organizations.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: nJPC81QoGyk
 project_areas:

@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Collaboration, as our name suggests, is the foundation of our work. Our mission to create a more sustainable LA cannot be done alone and we strive to establish long lasting relationships with leaders in government, nonprofits, academia, and businesses. 
    
    While we have yet to identify partners for this grant period, we expect they will be confirmed within one to three months after the grant is awarded. Three factors that are critical to the success of our proposed collaborations are 1) adequate funding to staff our initiative areas with Senior Fellows; 2) growth and expansion in the number of Research Fellowships; and 3) sufficient operational revenue to support growing staffing needs.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22672'
 maker_image_file_name: rainbow.jpg

@@ -64,7 +64,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    EveryoneOn works with outreach and enrollment partner organizations to provide free digital literacy content and pre-qualify low-income, unconnected families for our low-cost technology and home Internet service offers. We have worked with these organizations and many others to drive technology adoption in LA and across the country.
    
    The two factors that are critical to the success of this collaboration are funding and outreach/community awareness. Once funding has been secured, we will collectively leverage our networks and partners on the ground in LA to drive outreach and awareness.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22756'
 maker_image_file_name: EveryoneOn_Logo.jpg

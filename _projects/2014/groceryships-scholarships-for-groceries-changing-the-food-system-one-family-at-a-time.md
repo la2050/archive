@@ -93,7 +93,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In the next year we’ll form a TreeMapLA Advisory Committee, and have identified urban forestry and related organizations to invite. We hope to bring in diverse ideas and ownership to make this the most valuable tool possible for our entire region.
    
    Our most important and long-term partnership, however, is with the people of LA. Our 40 year history has been one of partnering with people from all walks of life to educate, empower and motivate them to heal our environment. TreeMapLA makes it easier for all of us to join together and share knowledge to make our city more sustainable.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

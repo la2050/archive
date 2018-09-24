@@ -86,7 +86,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Perhaps the most productive potential partners to collaborate with in Elysian Valley are the residents that in 2010 rallied together to promote access to healthy food, and established a .25-acre community garden at the intersection of Blake Avenue and Rich Street. This community driven effort simultaneously signals a desire for access to healthy produce and a demonstrated ability to self-organize to achieve this vision - two elements critical for the successful implementation of the Frogtown Ribbon Gardens proposal. The need and demand for fresh fruit and vegetables in Elysian Valley, however, far outstrips the production capacity of its community garden.We hope that by working in conjunction with this group, Global Green can leverage their community expertise and local gardening experience to see our mutual vision for increased food access in Elysian Valley to fruition. 
    
    While we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20927'
 maker_image_file_name: index__element43.jpg

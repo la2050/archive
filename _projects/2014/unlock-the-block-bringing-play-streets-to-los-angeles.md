@@ -79,7 +79,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    CHC brings to the project a strong expertise in policy work and community engagement. They have a wide presence and reputation among residents in the communities where we would like to pilot UtB, and also have relationships with City Council offices that can provide political support for making play accessible in park-poor communities. For more than two decades, CHC has been at the forefront of advocacy to eliminate health disparities by expanding healthcare coverage, increasing access to quality healthcare, and improving the built environment for under-resourced communities.
    
    Jubilee Consortium brings an expertise in designing active programming for all ages in non-traditional venues throughout Los Angeles. Jubilee Consortium has offered low-cost physical fitness and nutrition programs in underserved neighborhoods since its founding in 2001. For the past two years, Jubilee Consortium has trained community members to become Health Advocates for their communities as part of the United for Health collaborative led by CHC. The Jubilee Consortium creates healthy and just neighborhoods through enrichment opportunities and leadership programs centered on healthy lifestyles.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: B8tTn7kwSIk
 project_areas:

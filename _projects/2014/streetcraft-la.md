@@ -66,7 +66,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    SBCC is currently building collaborations with higher education institutions including UCLA, the Design Center, Cerritos College, Santa Monica College, CSU Dominguez Hills, CSU Long Beach, and others, in order to increase opportunities for internship and directed study, as well as college credit-bearing workshops and classes on-site at Streetcraft.
    
    In all of our partnerships, philosophical alignment is the critical elements. The Streetcraft venture has a set of deeply held core values: every person has strengths and talents that need to be respected and placed at the center of any plan to train, educate, and support that person. All of our partners share this commitment to the intrinsic worth of our participants.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: LDkB_pxZu2k
 project_areas:

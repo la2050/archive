@@ -118,7 +118,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    • Mexican Consulate
    
    We will cultivate additional partners and collaborators as the process unfolds.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

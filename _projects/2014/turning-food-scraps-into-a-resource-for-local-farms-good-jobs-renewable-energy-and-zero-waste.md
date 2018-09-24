@@ -75,7 +75,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Enterprise Community Partners is a national nonprofit community investment company providing expertise for developing affordable housing and building sustainable communities. Enterprise has worked closely with USGBC National on a variety of projects including the development of the Enterprise Green Communities Criteria. Enterprise has invested more than $1 billion in Southern California to expand the supply of green, affordable housing and is committed to advancing equitable transit-oriented development. They bring technical expertise in rating systems development as well as the direct and test case projects development, financing and implementation of new construction, adaptive reuse, renewable energy, and green infrastructure projects. 
    
    The keys to the success of this collaboration are open communication, mutual respect and a clear work plan. Ultimately, our shared commitment to the core goals of resilience and our shared vision of the potential of this project to bring positive change to the region underlie all of our interactions and will enable us to be successful.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20947'
 maker_image_file_name: 2014-07-30_13.28.02.jpg

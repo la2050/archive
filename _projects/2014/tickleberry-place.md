@@ -43,7 +43,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Having a partner would be a great opportunity for collaborating on this cause
   of creating healthy and sustainable play spaces in Los Angeles. We are open to
   having partners and are looking for them.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 project_areas:
   - CENTRAL LA

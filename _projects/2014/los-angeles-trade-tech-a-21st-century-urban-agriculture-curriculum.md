@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Local Fishermen and Producers (confirmed): SFF works closely with local fishermen and aquaculture producers to promote healthy and responsible seafood choices. Our new tools will include education and outreach materials that feature local fishermen, directories of local fish markets where consumers can buy direct, and a local seasonality chart for chefs and consumers. These new tools will help bridge the gap between consumers and the source of their seafood.
    
    SFF Restaurant and Business Partners (confirmed): SFF has established a network of restaurant, distribution, and retail partners working together to promote responsible seafood sourcing. Our partner chefs will star in the video demonstration series, provide seafood for cooking demonstration and educational purposes, and host cooking demonstrations at outreach events.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22163'
 maker_image_file_name: Trade_Tech_Urban_Ag.jpg

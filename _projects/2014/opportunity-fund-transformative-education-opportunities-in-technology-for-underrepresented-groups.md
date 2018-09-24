@@ -85,7 +85,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Additionally, it requires a commitment to volunteer 100+ hours with our Non Profit partners, to learn about their mission and document and share this experience with their community.
     
    General Assembly will document and share this journey amongst its global network of entrepreneurs, alumni and community, as well as with the Benefactors, ensuring the outcomes and experiences touch everyone.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: CMmY955jD5A
 project_areas:

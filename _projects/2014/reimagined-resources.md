@@ -43,7 +43,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We currently work with Republic Services in the LAUSD Schools to offer recycling training in a fun relay program for students. We are planning to engage them further in this project to support the facilities and to advertise the program on their trucks driving all over LA County. 
    We are in talks with Kevin James at the LA Sanitation office to find locations and support in the effort to let manufacturers know about option for their waste materials and to inform the public of the opportunities. We will invite LAUSD to be part of the program also to inform the students of the opportunity to explore in the space and to volunteer in the space.
    The only group we have not yet worked with is the Sanitation Dept. and our first meeting was scheduled for the day the water pipe broke in west LA. We are rescheduled for Aug. 6th in Kevin James office.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: vKCqcYfiVNA
 project_areas:

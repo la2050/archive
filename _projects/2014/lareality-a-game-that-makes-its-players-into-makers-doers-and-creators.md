@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - be flexible to their schedules and life's demands
    - give them ownership over the experience and how they'd like it to play out
    - keep the experience small and intimate - this makes it special and doesn't turn it into a circus
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: dN0L0YMa39s
 project_areas:

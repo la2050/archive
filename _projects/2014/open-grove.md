@@ -78,7 +78,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We are working with Antioch Professor Gilda Haas to explore opportunities for co-operative enterprises in the waste and recycling industry, focusing on possibilities in the organics waste stream. Through this collaboration, we will be able to identify and develop the necessary training for compost-related jobs. 
    
    The Sierra Club, Angeles Chapter, was a founding member of the Don’t Waste LA Coalition and is a long-time advocate for increasing composting through its Organics Project. In addition to expertise, the chapter has over 40,000 members who can help inform and support new infrastructure and spread the word.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21247'
 maker_image_file_name: 271142_126746457409396_123727814377927_212920_3369410_n.jpg

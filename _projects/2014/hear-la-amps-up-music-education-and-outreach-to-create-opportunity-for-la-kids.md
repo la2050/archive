@@ -76,7 +76,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3 crucial factors to making HEAR LA work are the International Music Creation Network, students from diverse backgrounds and their imaginations.
    
    HEAR LA gives students hands on experience with various software and music applications but also teaches them about teamwork, handling critiques and turning criticism into a positive. Every student will have the chance to be a leader and also to be a follower. By being a part of a global network, students will realize how big and how small the world is. They will get the chance to forge friendships across the global and bring new awareness to what is happening in those areas. HearMe plans to reach out to war torn countries and bring hope to children across the globe. Our LA students could be companions in peace and global unity and understanding.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: Vda4r42ouZQ
 project_areas:

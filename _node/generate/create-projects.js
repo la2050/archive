@@ -184,7 +184,7 @@ function getMakerImage(data) {
 
   let project
   makerProjects.forEach(item => {
-    if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
+    //if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
       // console.log("Comparing title and name for: " + test_id)
       // console.log("item.name.trim(): " + item.name.trim())
       // console.log("data.title.trim(): " + data.title.trim())
@@ -196,7 +196,7 @@ function getMakerImage(data) {
       // let comparison = getStringForComparison(item.name) ==
       //                  getStringForComparison(data.title)
       // console.log(`comparison = ${comparison}`)
-    }
+    //}
 
     // const similarity = 3
     // let compare = subCompare(item.name, data.title, similarity)
@@ -211,15 +211,13 @@ function getMakerImage(data) {
     }
   })
 
-  if (project) {
-    if (makerImagesLookup[project.id]) {
-      return {
-        image: makerImagesLookup[project.id]["ProjectPhoto"],
-        video: makerImagesLookup[project.id]["ProjectVideo"]
-      }
+  if (project && makerImagesLookup[project.id]) {
+    return {
+      image: makerImagesLookup[project.id]["ProjectPhoto"],
+      video: makerImagesLookup[project.id]["ProjectVideo"]
     }
   } else {
-    console.log("couldn’t find image data for project: " + data.title + " : " + data.year_submitted + " : " + data.category + " : " + data.organization_name)
+    console.log("couldn’t find image data for project: " + data.title + " : " + data.year_submitted + " : " + data.category + " : " + data.organization_id)
   }
 }
 
@@ -400,6 +398,13 @@ function addProjectAnswers(data) {
 
 
 function createMarkdownFile(data) {
+
+
+  // SHIM: Avoid showing "1" in the answer section
+  // TODO: Check for a value of 1 in more fields?
+  let question = "Whom will your project benefit? Please be specific."
+  if (data[question] && data[question] === "1") data[question] = ""
+
 
   if (!data.title) {
     console.log("A title is missing")

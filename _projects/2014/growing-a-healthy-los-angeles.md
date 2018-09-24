@@ -73,7 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    This project and resulting partnerships will live on beyond this grant--partners agree to share content and contacts and have the newly created story library be open source for all to use.
    
    The overall tone of effort is inclusive, intentional and incisive--high-quality artistic content will unite transportation conversations with user experiences from across LA County, particularly underserved communities and populations.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20229'
 maker_image_file_name: LACGC_Community_Photo.jpg

@@ -53,7 +53,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Design Partners: 
    
    In addition to partners for our work sessions, we are also committed to partnering for design. We strive to create high-quality, hand-crafted products in downtown Los Angeles. To accomplish this, we have partnered with some designers to create products and plan to expand our design partnerships. We partnered with the Department of Design at Cal State Long Beach to create future products. We also collaborated with style blogger, Almanac of Style, on a limited edition product.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: xlsYqBrzY4k
 project_areas:

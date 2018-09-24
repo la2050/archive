@@ -86,7 +86,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    LACUSC Med Center: The objectives of the LHHI, align with LACUSC strategic interests as it seeks to minimize costs and improve community relations.
    
    CITY OF LA: Aligns with many of the public health, transportations, and economic development strategies pursued by various city agencies. By pooling the resources of the city and health centers, the LHHI can promote the area as an ideal location for health targeted industry clusters and health infrastructure.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: '-8HpYaBGc4I'
 project_areas:

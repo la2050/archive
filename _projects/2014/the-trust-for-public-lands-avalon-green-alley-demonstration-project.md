@@ -71,7 +71,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Unity3D is the company that develops Unity, the game engine used so far for the development of BLOCK. We are in conversation with them for technical support for this project.
    
    The Plant Chicago is an Urban Farming initiative that has pioneered an ecological urban farm concept that eliminates the idea of waste by establishing the interdependence of productive units. They posses a unique expertise and have been a great inspiration to the project. In collaborating with The Plant Chicago, we hope to use them as a case study and implement several other concepts similar to theirs within the game.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22632'
 maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg

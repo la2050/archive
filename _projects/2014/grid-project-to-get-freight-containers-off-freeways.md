@@ -64,7 +64,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Agencies - We will augment established programs by the MWD and City of LA. We previously received three grants from MWD for doing watershed education work including creating environmental maps and signage. One map, Santa Monica and Ballona Watershed Green Map serves as an international reference—from India to Africa— has been viewed by thousands at Japan Expo and 20 other international venues. This map is in the permanent collection of the Library of Congress and the New York, Los Angeles and Toronto Public Libraries. 
    
    Experts – We will receive professional support from Loyola Marymount University and Santa Monica Bay Restoration Commission (SMBRC). We worked successfully with both of these organizations on a community-building document for the Ballona Wetlands Restoration. We received funding in the past from the SMBRC. In fact the Executive Director, said this of our partnership, “It was due to Duvivier’s involvement in the CDA Rain Gardens that my organization provided seed funding to start the project. Duvivier overcame many challenges and brought everyone on board with her vision. We use it today in our outreach to state and national agencies and technical professionals looking to implement creative, low-cost water pollution mitigation with added community and educational benefits.”
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 2Kn2iZ9g9C4
 project_areas:

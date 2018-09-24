@@ -58,7 +58,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    There is no food hub in South Los Angeles. Our work will be the first organized and developed system. In the immediate area, we have a relationship with the manager of the Baldwin Hills Crenshaw farmers market. Since 2010, we have worked with community organizations educating residents about access to healthy food options along with our own work supporting those who grow and prepare their own food for distribution. We also access a number of guerilla gardeners who are sharing and growing food with neighbors but could reach and connect with consumers in South Los Angeles on a broad scale through our food hub network. 
    
    Three factors critical to success of any of our proposed collaborations are: increased access to local actors already interested in food production and consumption of healthy food; increased access to people working in the food justice and social equity arena, so integral to community improvement and overall health; and increased access to people who are actively growing quality food in local spaces.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '21199'
 maker_image_file_name: DSC02097-2.jpg

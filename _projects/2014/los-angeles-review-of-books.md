@@ -65,7 +65,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The three factors critical to our success are the (1) the efficient use of KPFK's resources on LARB's part, (2) the marketing efforts of both entities, and (3) making the show available for podcasting, the audience for which may end up being larger than the broadcast audience.
    
    We have partnered in the past (and in most cases are still partnered with) many organizations. The following websites are now LARB Channels: Boom, Avidly, Marginalia, Swink, The Philosopher's Plant, and The Levatine Review. We have also partnered with KCRW, KPCC, the Library Foundation, UC Riverside, USC, PEN USA, CalArts, SoHo House, Skylight Books, Tia Chucho Centro Cultural, and the Los Angeles Institute for the Humanities, as well as with a number of other literary and arts magazines, including LA Magazine, The American Reader, n+1, Flaunt, The New Inquiry, Slake, Black Clock, Triple Canopy, and others.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '22625'
 maker_image_file_name: larb_logo.jpg

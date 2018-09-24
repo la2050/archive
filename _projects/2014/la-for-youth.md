@@ -64,7 +64,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We will bring in already-committed allies in the Boyle Heights Building Healthy Communities Hub, including their Youth Engagement and Community Engagement Committees. This represents six core partner organizations, as well as several supporting organizations. These partners are already working with technical advisers through the Advancement Project (whom we hope to bring on as an official partner) on deconstructing the City budget, and engaging City leadership in support of the effort. We have begun conversations about engaging the South Los Angeles Building Healthy Communities partners in this effort as well, which would bring an additional dozen organizations into the coalition. All partners will help ensure community and youth voices are leading the effort for change. Additionally, the project will be a vehicle to grow local capacity around civic engagement and advocacy implementation, to ensure the long term sustainability and community ownership of the effort. 
    
    It is important to note that engaging these additional coalitions would represent longstanding partnerships, and organizations with a history of working together for systems change.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20605'
 maker_image_file_name: RallyinLA.jpg

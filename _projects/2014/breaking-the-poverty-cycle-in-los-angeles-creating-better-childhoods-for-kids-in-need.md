@@ -105,7 +105,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    1-Site locations (done)
    2-Mutually beneficial resource exchange (agreed)
    3-Funding (Hmm...)
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 maker_image_id: '20955'
 maker_image_file_name: alg-babybuggy-jpg.jpg

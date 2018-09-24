@@ -74,7 +74,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
   Library (on-site literacy programming).
    
    We also receive significant support from our 352 volunteers: 18 Board Members, 122 Auxiliary members (thrift store), 50 program volunteers (tutoring, enrichment/recreation), and 164 evening meal volunteers (provide a full meal for youth every day). In our after school program alone, volunteers contribute 3,005 hours each year with an estimated dollar value of $74,374. In addition, we receive tremendous support from local funders who share our commitment to the children. Some supporting foundations include Toyota/NCFL (Toyota Family Learning) Dwight Stuart, Parsons, Ahmanson, Rose Hills, CA Community Foundation, Boeing and Kaiser. Finally, we also connect to our community through regular standing meetings with law enforcement and government officials to proactively address neighborhood issues, meet regularly with local child care organizations to ensure open youth-focused dialogue occurs and have instituted several avenues to maintain open and ongoing communication with our local schools.
-Whom will your project benefit? Please be specific.: '1'
+Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
 youtube_video_identifier: 7nJBFWm-mb0
 project_areas:
