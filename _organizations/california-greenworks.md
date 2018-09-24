@@ -8,6 +8,11 @@ ein: '10574486'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=10574486'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Air & water
+  - Public safety & public space
+  - Environmental quality & sustainability
 twitter: ''
 instagram: ''
 facebook: ''

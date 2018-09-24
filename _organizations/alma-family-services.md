@@ -8,6 +8,11 @@ ein: '952959331'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952959331'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Disability & aging
+  - Health
+  - Mobility
 twitter: ''
 instagram: ''
 facebook: ''

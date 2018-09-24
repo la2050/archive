@@ -8,6 +8,9 @@ ein: '956000927'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''

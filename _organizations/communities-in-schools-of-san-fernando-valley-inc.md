@@ -8,6 +8,11 @@ ein: '954523780'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954523780'
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Teaching & mentorship
+  - Public safety & public space
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

@@ -8,6 +8,9 @@ ein: '954635737'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954635737'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

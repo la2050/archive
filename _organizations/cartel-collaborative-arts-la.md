@@ -8,6 +8,9 @@ ein: '270794887'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: ''
 instagram: ''
 facebook: ''

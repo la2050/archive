@@ -8,6 +8,11 @@ ein: '954395737'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954395737'
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Voting & civic engagement
+  - Income & employment
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

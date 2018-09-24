@@ -10,6 +10,11 @@ ein: '263106566'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263106566'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Voting & civic engagement
+  - Housing & homelessness
+  - Social connectedness
 twitter: '@All4Transit'
 instagram: ''
 facebook: ''

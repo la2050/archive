@@ -8,6 +8,11 @@ ein: '953038398'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953038398'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Voting & civic engagement
+  - Arts & cultural vitality
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

@@ -10,9 +10,9 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators:
   - Art
-  - Teaching & mentorship
+  - Community gatherings
   - Arts & cultural vitality
-  - Education & youth
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

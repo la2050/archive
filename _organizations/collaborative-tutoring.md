@@ -8,6 +8,11 @@ ein: '462388422'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Community safety
+  - Health
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

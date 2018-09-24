@@ -8,6 +8,10 @@ ein: '953510055'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953510055'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

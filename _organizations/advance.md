@@ -8,9 +8,10 @@ zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
-  - Access to capital & benefits
-  - Entrepreneurship & innovation
+  - Workforce development
+  - Community safety
   - Income & employment
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''
