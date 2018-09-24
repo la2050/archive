@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/AGoodOrg'
 instagram: 'http://instagram.com/anonymousgoodposts'
 facebook: 'https://www.facebook.com/anonymousgood'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   AG is Compassion Technology that fast-tracks kindness & connection by posting

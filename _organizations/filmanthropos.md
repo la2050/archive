@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/ZKvfZLPuMhQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ZKvfZLPuMhQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   While Filmanthropos is a fairly new social enterprise that was founded in Q4

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/Jw8-KCURHUA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Jw8-KCURHUA/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Our dream is that every child learns to read and gains confidence with

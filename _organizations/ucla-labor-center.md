@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Yogg_bV8Dew/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In the last several years, the UCLA Labor Center has emerged as a national

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/7so4eDfFRws/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/7so4eDfFRws/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>The L.A. River is at the heart of our vision is to make Los Angeles a

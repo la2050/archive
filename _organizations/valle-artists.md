@@ -13,7 +13,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/rksqpbf13eo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Mural Mile has become a necessary project for artists, community members, and

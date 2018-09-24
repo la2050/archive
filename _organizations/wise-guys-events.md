@@ -12,7 +12,7 @@ twitter: www.twitter.com/wiseguysgames
 instagram: www.instagram.com/wiseguysevents
 facebook: www.facebook.com/wiseguysevents
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XYkDHo1jJ1c/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Wise Guys Events is the premiere source for real life games in Southern

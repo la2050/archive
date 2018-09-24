@@ -12,7 +12,7 @@ twitter: www.twitter.com/industryopera
 instagram: www.instagram.com/industryopera
 facebook: www.facebook.com/theindustrycollective
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0SGeH9Mnt2k/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Industry is an independent, artist-driven company creating experimental

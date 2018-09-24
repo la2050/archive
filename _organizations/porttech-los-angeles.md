@@ -12,7 +12,7 @@ twitter: www.twitter.com/PortTechLA
 instagram: ''
 facebook: www.facebook.com/PortTechLosAngeles
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   PortTech connects entrepreneurs, industry and community to advance innovation,

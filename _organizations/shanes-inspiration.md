@@ -12,7 +12,7 @@ twitter: www.twitter.com/ShanesPlay
 instagram: www.instagram.com/shanesplay
 facebook: www.facebook.com/shanesinspiration
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Shane's Inspiration creates inclusive playgrounds and education programs that

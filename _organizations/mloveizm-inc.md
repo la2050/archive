@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   From working, guiding, promoting, encouraging and teaching artists, we have

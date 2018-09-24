@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/kyccla'
 instagram: 'http://instagram.com/kyccla'
 facebook: 'https://www.facebook.com/KYCCLA'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/tFrudFZCeRY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   KYCC serves low-income families in Los Angeles in the areas of education,

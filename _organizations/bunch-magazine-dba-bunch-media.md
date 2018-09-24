@@ -12,7 +12,7 @@ twitter: www.twitter.com/bunchmag
 instagram: www.instagram.com/bunchmagazine
 facebook: www.facebook.com/bunchmag
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We publish BUNCH Magazine which equips creative professionals and those who

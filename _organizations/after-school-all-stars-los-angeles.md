@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/asaslosangeles'
 instagram: 'https://instagram.com/asaslosangeles'
 facebook: 'https://facebook.com/asaslosangeles'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   After-School All-Stars, Los Angeles educates, enlightens and inspires young

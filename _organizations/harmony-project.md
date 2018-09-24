@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zVwm_GRMSHw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Harmony Project has won numerous accolades, including the Coming Up Taller

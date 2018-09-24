@@ -12,7 +12,7 @@ twitter: www.twitter.com/clothesthedeal
 instagram: www.instagram.com/clothesthedeal
 facebook: www.facebook.com/clothesthedeal
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/myUKgR-PO4c/hqdefault.jpg'
 project_video: ''
 org_summary: Clothes The Deal provides pre-employment services to low-income individuals.
 areas_impacted: >-

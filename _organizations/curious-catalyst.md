@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/5Y9Sr73nDzU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5Y9Sr73nDzU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Curious Catalyst is a new consultancy that employs agile and lean

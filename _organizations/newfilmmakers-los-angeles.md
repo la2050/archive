@@ -12,7 +12,7 @@ twitter: www.twitter.com/nfmla
 instagram: www.instagram.com/nfmla
 facebook: www.facebook.com/nfmla
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/grALjLXwxgM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We're a nonprofit dedicated to advancing the careers of emerging filmmakers &

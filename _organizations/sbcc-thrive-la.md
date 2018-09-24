@@ -12,7 +12,7 @@ twitter: www.twitter.com/sbccthrivela
 instagram: www.instagram.com/sbccthrivela
 facebook: www.facebook.com/sbccthrivela
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Hey6DKTLdw8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Hey6DKTLdw8/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   We partner with individuals, families and neighborhoods to build empowered and

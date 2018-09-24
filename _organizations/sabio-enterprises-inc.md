@@ -12,7 +12,7 @@ twitter: www.twitter.com/wesabio
 instagram: '@wesabio'
 facebook: www.facebook.com/sabio
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/QaoTDnw-Xtw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We train Angelenos to become superior entry-level, full-stack web developers

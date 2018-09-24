@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FKuY_bTZzoM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   WJC changes the way people think about and respond to differences and conflict

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Dq2cY1SKlFQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Though NativLA does not yet exist, it will coalesce my years of experience

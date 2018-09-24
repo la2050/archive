@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/RisingWomenCA'
 instagram: ''
 facebook: 'https://www.facebook.com/fallenfruitfromrisingwomen'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Ht0-3dSjCew/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are collaborative social enterprise between Scripps College (the women's

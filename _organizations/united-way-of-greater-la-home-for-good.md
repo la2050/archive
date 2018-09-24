@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Sq1MDbnR1wg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Sq1MDbnR1wg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Two years ago, United Way worked with the Business Leaders Task Force to

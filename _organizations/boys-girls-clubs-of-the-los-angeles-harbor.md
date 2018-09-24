@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/sI0_dZ4TpAA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   enable young people, especially those who need us most, to reach their full

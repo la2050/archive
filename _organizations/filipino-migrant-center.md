@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/nO6H3p5HpV4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nO6H3p5HpV4/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <ol><li>Launched a successful campaign with trafficked migrant workers that

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/cEATGWzLMiM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/cEATGWzLMiM/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   In fewer than 18 months, DIYFO has grown from an arts and crafts-oriented

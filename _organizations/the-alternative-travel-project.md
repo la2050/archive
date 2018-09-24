@@ -12,7 +12,7 @@ twitter: '@ALTravelproject'
 instagram: instagram.com/ALTRAVELPROJECT
 facebook: 'https://www.facebook.com/GoCARfree'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_D5ZYrmwF6Y/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Alternative Travel Project (ATP) is an initiative that encourages people

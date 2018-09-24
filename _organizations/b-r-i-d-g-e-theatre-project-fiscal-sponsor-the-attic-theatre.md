@@ -12,7 +12,7 @@ twitter: www.twitter.com/BRIDGE_Theatre
 instagram: No Instagram (yet!)
 facebook: www.facebook.com/bridgetheatre
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/q9wQFn0hPbk/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Through original theatre, BRIDGE fosters cultural awareness & engages youth in

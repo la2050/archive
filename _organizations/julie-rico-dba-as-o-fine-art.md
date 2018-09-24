@@ -12,7 +12,7 @@ twitter: www.twitter.com/laartfest
 instagram: www.instagram.com/laartfest
 facebook: www.facebook.com/laartfest
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/pnwgZVtiDAA/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   LA Art Fest supports artists of all kinds from the diverse communities in the

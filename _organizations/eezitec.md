@@ -12,7 +12,7 @@ twitter: www.twitter.com/eezitec
 instagram: EEZITEC.com
 facebook: www.facebook.com/eezitec
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/uVgrIU_Bl9g/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   EEZITEC is an eCommerce platform & ecosystem where people can discover & learn

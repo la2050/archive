@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/IridescentLA'
 instagram: ''
 facebook: 'https://www.facebook.com/ImagineInventEngineer'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/NTnzCDQ335U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Inspire & educate girls and women to solve problems in their community using

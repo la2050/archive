@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/ArroyoSecoFound'
 instagram: www.instagram.com/arroyosecoviews
 facebook: www.facebook.com/ArroyoSecoFoundation
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our Foundation is committed to restoring the Arroyo Seco Stream to a living

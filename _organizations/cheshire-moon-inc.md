@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/mf0l7ocARFM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We have grown Dancescape into a well-known and respected event that our

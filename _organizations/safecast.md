@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Cb6MAN2lVkg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Hoping to build out a realtime environmental monitoring sensor network in Los

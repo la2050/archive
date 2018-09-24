@@ -12,7 +12,7 @@ twitter: www.twitter.com/ghostfishing
 instagram: ''
 facebook: www.facebook.com/ghostfishing
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are a group of specially trained volunteer scuba divers that are ridding

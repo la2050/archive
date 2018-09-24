@@ -12,7 +12,7 @@ twitter: 'http://twitter.com/exphalfhour'
 instagram: 'http://instagram.com/experimentalhalfhour'
 facebook: 'http://facebook.com/experimentalhalfhour'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/DiU_9RR7ZvY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are a multimedia arts organization that collaborates with artists to

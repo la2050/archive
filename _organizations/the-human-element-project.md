@@ -12,7 +12,7 @@ twitter: I will open a Twitter account once grant is received
 instagram: I will open a Instagram account once grant is received
 facebook: I will open a Facebook account once grant is received
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/dCvzeDvQtLY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/dCvzeDvQtLY/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Develops partnerships through education, creative exploration and exhibitions

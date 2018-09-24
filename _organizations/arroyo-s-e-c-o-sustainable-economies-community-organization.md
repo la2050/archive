@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/ASNTimeBank'
 instagram: www.instagram.com/ShareLosAngeles
 facebook: www.facebook.com/ArroyoSecoNetworkOfTimeBanks
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ytlmnttRP70/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our mission is to educate, promote and create greater access to the practices

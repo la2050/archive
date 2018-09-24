@@ -12,7 +12,7 @@ twitter: www.twitter.com/diygirls
 instagram: www.instagram.com/diygirlsorg
 facebook: www.facebook.com/diygirlsLA
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/g5AgtC0G5ec/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We foster community economic development through programs like the 2nd

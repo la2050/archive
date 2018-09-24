@@ -14,7 +14,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/inJ5XFkvJ84/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/inJ5XFkvJ84/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>STRIVERS.LA is a new organization that will incorporate as a California B

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/@litremix'
 instagram: ''
 facebook: www.facebook.com/artistsforliteracy
 org_type: Other
-project_image: 'http://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0EQnXawnCQk/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   LitRemix is a collaborative learning platform that encourages both the

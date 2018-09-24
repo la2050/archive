@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Xoof6-2YZ_U/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The Los Angeles County Perinatal Mental Health Task Force was founded in

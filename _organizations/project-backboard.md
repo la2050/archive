@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/PrjctBckbrd'
 instagram: 'https://instagram.com/projectbackboard/'
 facebook: 'https://www.facebook.com/Project-Backboard-453825768102650/timeline/'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/phXK2cX3WEk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Renovate basketball courts and install art in public parks in order to create

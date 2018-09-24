@@ -14,7 +14,7 @@ twitter: www.twitter.com/lapromisezone
 instagram: www.instagram.com/lapromisezone
 facebook: www.facebook.com/lapromisezone
 org_type: Other
-project_image: 'http://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MbjQABq5iTI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Promise Zone Partnership is building healthy neighborhoods by connecting

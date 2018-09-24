@@ -12,7 +12,7 @@ twitter: '@folartweets, @LARiverRover, @TheFrogSpot'
 instagram: Friends of the Los Angeles River
 facebook: LosAngelesRiver
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5fr_Qf0ZQ7M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   FoLAR strives for a swimmable, fishable, boatable, bikeable LA River through

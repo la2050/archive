@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/sN5SCezYZTM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/sN5SCezYZTM/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   One of the most significant achievements to date for The LA Trust has been the

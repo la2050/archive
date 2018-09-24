@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/PISouthLA'
 instagram: N/A
 facebook: N/A
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/qooMUYecd1s/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Plug In South LA will be opening a co-working space in South Los Angeles early

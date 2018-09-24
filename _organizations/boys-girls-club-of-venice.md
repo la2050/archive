@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/kovLXgjjpp0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/kovLXgjjpp0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Boys & Girls Club of Venice was established in 1968 as a VISTA project on

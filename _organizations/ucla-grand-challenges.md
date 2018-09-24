@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Government
-project_image: 'http://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/DITouRhKW80/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The UCLA Grand Challenges initiative brings together faculty, students and

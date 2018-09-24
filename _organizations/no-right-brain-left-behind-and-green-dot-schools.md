@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/y3Gts_Aoxd8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/y3Gts_Aoxd8/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Over the past 12 years, Green Dot has grown from a single 9th grade class

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xtg0o0s_GEU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Boys & Girls Club of Mar Vista Gardens has only just recently opened on

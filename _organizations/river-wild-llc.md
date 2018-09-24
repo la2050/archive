@@ -12,7 +12,7 @@ twitter: www.twitter.com/RiverWildLA
 instagram: www.instagram.com/river_wilder
 facebook: 'https://www.facebook.com/RiverWildLA'
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CTFt7gFp6BY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   River Wild LLC incubates pop-up economic development models along the LA River

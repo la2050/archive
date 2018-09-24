@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/U3BkXd4ano4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Venice Art Crawl has been around for more than two years now and has

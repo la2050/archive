@@ -13,7 +13,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/JAZZ3YBKHzY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LACABGC is a coalition of 26 Boys and Girls Club organizations in the county,

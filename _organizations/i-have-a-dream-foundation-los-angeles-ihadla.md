@@ -12,7 +12,7 @@ twitter: www.twitter.com/IHADLA
 instagram: www.instagram.com/ihadla/
 facebook: www.facebook.com/ihaveadreamla
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/QV1lB2SqWos/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/QV1lB2SqWos/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Since 1987, IHADLA has worked to break the cycle of poverty in Los Angeles’

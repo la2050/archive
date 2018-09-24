@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/YCMb5z0EVGw/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   <p>DEVELOPMENT OF THE ONE DAY ON EARTH SOCIAL NETWORK:

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/sustainsurf'
 instagram: 'https://instagram.com/sustainsurf/'
 facebook: 'https://www.facebook.com/Sustainable-Surf-152079374854312/'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5-OvAiMBAFc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Continue to be the catalyst that transforms global surf culture into a

@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zs2Oe9X1llQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We engage in food justice helping low-income food entrepreneurs in South Los

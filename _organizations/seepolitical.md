@@ -12,7 +12,7 @@ twitter: www.twitter.com/SeePolitical
 instagram: n/a
 facebook: www.facebook.com/SeePolitical
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/atB8yIPXKCk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   SeePolitical demystifies the issues on your ballot as well as the process of

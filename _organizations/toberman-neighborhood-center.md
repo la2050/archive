@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/7nJBFWm-mb0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Toberman Neighborhood Center tackles poverty by addressing its root causes and

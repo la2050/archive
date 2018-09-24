@@ -12,7 +12,7 @@ twitter: www.twitter.com/sustaynabl
 instagram: www.facebook.com/sustaynabl
 facebook: www.facebook.com/sustaynabl
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5-66_Xqn0Cw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Sustaynabl is a socially aware corporation tackling Urban Poverty through

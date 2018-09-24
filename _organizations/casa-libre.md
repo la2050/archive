@@ -12,7 +12,7 @@ twitter: www.twitter.com/casa_libre
 instagram: www.instagram.com/casa_libre
 facebook: www.facebook.com/casa.libre.9
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/20ErlmkuIfQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Casa Libre is a homeless shelter for homeless boys under 18, with one of a

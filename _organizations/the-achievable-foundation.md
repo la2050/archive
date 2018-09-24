@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zTPVN1p3Lg8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our comprehensive health center offers high quality, comprehensive health care

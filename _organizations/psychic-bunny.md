@@ -12,7 +12,7 @@ twitter: '@psychicbunnyinc'
 instagram: ''
 facebook: 'https://www.facebook.com/psychicbunny'
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/NtMAZqR4Tf4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Psychic Bunny is a multidisciplinary creative company – we make films,

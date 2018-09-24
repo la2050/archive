@@ -12,7 +12,7 @@ twitter: www.twitter.com/Voter
 instagram: ''
 facebook: www.facebook.com/voterapp
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/cljP5pJVVbE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We’re building an app that makes it fast, fun, and easy to become informed in

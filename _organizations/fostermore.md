@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/4hA5BjBbKm8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/4hA5BjBbKm8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   A non-profit coalition united on behalf of foster youth to increase

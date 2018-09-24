@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/-8HpYaBGc4I/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Western Center advocates and litigates to secure housing, health care and a

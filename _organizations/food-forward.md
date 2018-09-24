@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/EpR6dHeaGIQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/EpR6dHeaGIQ/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Since its founding in 2009, Food Forward has engaged thousands of

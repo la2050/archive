@@ -12,7 +12,7 @@ twitter: www.twitter.com/BruceLeeFDN
 instagram: www.instagram.com/BruceLeeFoundation
 facebook: www.facebook.com/BruceLeeFoundation
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/YufCYg-BYaY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are the only not-for-profit organization dedicated to sharing Bruce Lee’s

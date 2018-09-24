@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/CEGvQC5fAns/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CEGvQC5fAns/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>As an organization, we have changed the lives of over 1,000 students in LA

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/8O5p-fqguRo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Community Coalition hopes to build on its major accomplishments from its

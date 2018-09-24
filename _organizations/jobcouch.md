@@ -12,7 +12,7 @@ twitter: www.twitter.com/jobcouch
 instagram: www.instagram.com/jobcouch
 facebook: www.facebook.com/jobcouch
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/9l0UWGhKU-U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   JobCouch is a mobile enhanced platform to match hourly jobseekers with

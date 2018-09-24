@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/W-ekiTrnYW0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/W-ekiTrnYW0/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Since its inception 24 years ago as an umbrella organization uniting the

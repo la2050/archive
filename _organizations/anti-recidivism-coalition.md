@@ -12,7 +12,7 @@ twitter: www.twitter.com/antirecidivism
 instagram: ''
 facebook: www.facebook.com/antirecidivismcoalition
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jxDLaDNSLjo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   To accomplish its mission of changing lives and creating safe, healthy

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MNDn6OWCjco/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   NHM is currently in the process of the most dramatic changes in its 100-year

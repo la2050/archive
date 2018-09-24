@@ -12,7 +12,7 @@ twitter: www.twitter.com/iambih
 instagram: ''
 facebook: 'https://www.facebook.com/Breaking-Into-Hollywood-160939580614639/timeline/'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/GLojtCpWaz4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Founded in 2005, BReaKiNG iNTo HoLLyooD (BiH) helps creative and business

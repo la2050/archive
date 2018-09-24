@@ -12,7 +12,7 @@ twitter: www.twitter.com/DinnerPartiers
 instagram: 'http://instagram.com/thedinnerparty'
 facebook: 'https://www.facebook.com/ThisIsTheDinnerParty'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/Tyka7IrZhXU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Tyka7IrZhXU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Changing the way we approach #lifeafterloss through candid conversation and

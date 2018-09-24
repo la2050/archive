@@ -12,7 +12,7 @@ twitter: www.twitter.com/SoACTPartners
 instagram: ''
 facebook: www.facebook.com/SocialActionPartners
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   SoACT strengthens the nonprofit infrastructure in low-income communities by

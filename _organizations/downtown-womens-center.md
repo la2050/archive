@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/DWCweb'
 instagram: 'https://instagram.com/dwcweb/'
 facebook: 'https://www.facebook.com/DWCweb'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/13dwU_7eCrQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/13dwU_7eCrQ/maxresdefault.jpg'
 project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'Other (please specify below):'

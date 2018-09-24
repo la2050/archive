@@ -12,7 +12,7 @@ twitter: www.twitter.com/RPLosAngeles
 instagram: ''
 facebook: www.facebook.com/ReadingPartnersLA
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/sKN2PQLjrps/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We connect local volunteers to under-resourced elementary schools to provide

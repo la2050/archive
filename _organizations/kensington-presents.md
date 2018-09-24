@@ -12,7 +12,7 @@ twitter: 'www.twitter.com/kensingtonpresents #kensingtonpresents'
 instagram: www.instagram.com/kensingtonpresents
 facebook: www.facebook.com/kensingtonpresents
 org_type: Other
-project_image: 'http://img.youtube.com/vi/v-5UnN1CD0E/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/v-5UnN1CD0E/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Kensington Presents builds community through free, family-friendly concerts

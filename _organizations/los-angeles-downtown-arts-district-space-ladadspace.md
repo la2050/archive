@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/LADADSpace'
 instagram: 'http://instagram.com/ladadspace'
 facebook: 'https://www.facebook.com/artsdistrictla'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/cVrWTvw8gFc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LADADSpace supports artists and develops strategies to preserve the Arts

@@ -12,7 +12,7 @@ twitter: www.twitter.com/mobilefilmclass
 instagram: instagram.com/mobilefilmclassroom
 facebook: www.facebook.com/mobilefilmclassroom
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/sO2seHdnH3c/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/sO2seHdnH3c/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Mobile Film Classroom equips the next generation of creative leaders with

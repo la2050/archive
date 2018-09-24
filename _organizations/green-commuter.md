@@ -12,7 +12,7 @@ twitter: n/a
 instagram: n/a
 facebook: n/a
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TjRq-S_gY9U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   With the goal of helping to alleviate traffic, mitigate air pollution, and

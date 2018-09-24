@@ -15,7 +15,7 @@ twitter: 'https://twitter.com/LANLT'
 instagram: N/A
 facebook: www.facebook.com/FreeLotsAngeles
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KQnPSzqeZRk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The LA Neighborhood Land Trust partners with LA’s communities of color to

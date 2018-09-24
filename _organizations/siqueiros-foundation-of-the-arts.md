@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/SFOTA2015'
 instagram: 'https://instagram.com/siqueiros_foundation/'
 facebook: 'https://www.facebook.com/siqueirosfoundation'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   To promote peace and good will in the world by helping those in need through

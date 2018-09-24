@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: 'https://www.facebook.com/pages/Rangoli-Dance-Company/331420330066'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/1JDr-eMpJX4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We create, teach, present, and produce Indian classical dance, music, and

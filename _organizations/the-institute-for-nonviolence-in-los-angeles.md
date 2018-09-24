@@ -12,7 +12,7 @@ twitter: www.twitter.com/DaysofDialogue
 instagram: ''
 facebook: WWW.FACEBOOK.COM/GROUPS/110752075748344/
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/69OXVYZ15kU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   INVLA staff and trained volunteer mediators provide peer mediation, conflict

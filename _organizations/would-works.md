@@ -12,7 +12,7 @@ twitter: '@WouldWorks1'
 instagram: '@would_works'
 facebook: 'https://www.facebook.com/pages/WOULD-WORKS/216415171803596'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xlsYqBrzY4k/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Would-Works CREATES opportunities for men and women living in poverty in Los

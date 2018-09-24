@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/apch2830'
 instagram: 'https://instagram.com/apch2830/'
 facebook: 'https://www.facebook.com/APCH2830'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/wzFv5uV3pew/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   APCH is a safe haven in South Central LA where underserved youth are empowered

@@ -12,7 +12,7 @@ twitter: www.twitter.com/SOLACommunity
 instagram: ''
 facebook: www.facebook.com/solacommunity
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/aH5tvjvjOYE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Operations-South Bureau Community Stakeholder Collaboration is a community

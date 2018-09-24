@@ -12,7 +12,7 @@ twitter: Twitter- @CSUINCLA
 instagram: csuinc
 facebook: Facebook-@CSUINC
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CQsypZUTmbo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Through education and participation we envision and create community driven

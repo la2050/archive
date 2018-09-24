@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/epicenter_la'
 instagram: N/A
 facebook: 'https://www.facebook.com/pages/The-Epicenter/220315941470120'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/NNetdspYB4M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   COMMET promotes the widespread use of new medical technology, helping to

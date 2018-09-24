@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/qBtFoJ-YYd0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   BGCH provides K-12 students with the tools needed to succeed in life by

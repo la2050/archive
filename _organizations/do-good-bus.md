@@ -12,7 +12,7 @@ twitter: www.twitter.com/DoGoodBus
 instagram: instagram.com/DoGoodBus
 facebook: www.facebook.com/DoGoodBus
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/T17vBV41x0g/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Do Good Bus provides an interactive and engaging experience by taking people

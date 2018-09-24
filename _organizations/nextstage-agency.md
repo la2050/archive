@@ -12,7 +12,7 @@ twitter: ArtCityLA
 instagram: ''
 facebook: facebook.com/ArtCityLA
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   NextStage Agency produces programs, events and campaigns that enhance the

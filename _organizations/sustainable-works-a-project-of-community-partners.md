@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/q0_2OnUiDiU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since 1998, Sustainable Works has educated over 4,000 residents and instructed

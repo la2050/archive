@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/mJP7rkVcRfo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In 2012, Playworks was selected as one of the Social Impact Exchange's 100

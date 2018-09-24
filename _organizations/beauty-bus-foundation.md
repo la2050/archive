@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/BeautyBus'
 instagram: 'http://instagram.com/beautybusfoundation'
 facebook: 'https://www.facebook.com/beautybus'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XoT_36T5K5E/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Provide beauty and grooming service to chronically or terminally ill

@@ -12,7 +12,7 @@ twitter: www.twitter.com/dublab
 instagram: 'https://instagram.com/dublab/'
 facebook: 'https://www.facebook.com/dublab'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xXMkk_S-UnU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   DUBLAB is a non-profit internet radio station and community arts collective

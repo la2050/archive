@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ez1sypeq2hI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   WAGV educates the public, policy makers and the media about the human,

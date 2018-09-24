@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/LABioscienceHub'
 instagram: n/a
 facebook: n/a
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LA Bioscience Hub (LABH) facilitates the creation of a thriving bioscience

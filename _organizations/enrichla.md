@@ -12,7 +12,7 @@ twitter: www.twitter.com/enrichla
 instagram: www.instagram.com/enrichlagardens
 facebook: www.facebook.com/enrichla
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   EnrichLA builds edible gardens and green spaces in local schools, and provides

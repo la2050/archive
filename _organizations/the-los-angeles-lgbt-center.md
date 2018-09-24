@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/lg-vCWbUV8s/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The Los Angeles LGBT Center is the world's largest provider of programs and

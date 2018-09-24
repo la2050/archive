@@ -17,7 +17,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/keoZhYn_XbI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p> The A+D Architecture and Design Museum > Los Angeles was founded in 2001.

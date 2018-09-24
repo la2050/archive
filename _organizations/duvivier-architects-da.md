@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fAQOxqwuIHk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   DA pioneered the integration of water resources & architecture in sustainable

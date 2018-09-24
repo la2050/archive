@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jGa5KEowRPM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Pullias Center for Higher Education is dedicated to improving access to

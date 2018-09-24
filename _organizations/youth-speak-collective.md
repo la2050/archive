@@ -12,7 +12,7 @@ twitter: youthspeakup
 instagram: youthspeakcollective
 facebook: www.facebook.com/youthspeakcollective
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/poREvQfFFL4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We pair up High School students with freelance working professionals to create

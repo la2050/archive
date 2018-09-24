@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Exploratory: Maker Guilds prepares children to become innovative agents of

@@ -12,7 +12,7 @@ twitter: www.twitter.com/UCLAREMAP
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_1j9tLhT4z8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We use emerging technologies and advanced research to create new ways for

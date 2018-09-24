@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/incschool'
 instagram: 'https://instagram.com/incschool/'
 facebook: 'https://www.facebook.com/incubatorschool'
 org_type: Government
-project_image: 'http://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SHjS92F_BK8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Incubator School is a small, college and 21st century world-ready 6-12

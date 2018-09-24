@@ -12,7 +12,7 @@ twitter: WithLoveLA
 instagram: WithLoveLA_
 facebook: With Love Community Market and Cafe - Doors Open Late Summer 2014
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   A for-profit social enterprise seeking to provide healthy food access,

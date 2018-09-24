@@ -7,47 +7,30 @@ let parse = require('csv-parse/lib/sync')
 let yaml = require('js-yaml')
 // let request = require("request")
 
-//  Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los Angeles : 2015 : learn : 2015148
-//  Bresee’s Safe Place to Play for over 2,500 Youth and Families in Central Los Angeles
-
-//  Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1000 Children : 2015 : learn : 2015165
-//  Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1,000 Children
-
-//  AnonymousGood: LAGood posts 50000 Acts of Good 4 LA2050 : 2014 : connect : 2014006
-//  Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA : 2014 : connect : 2014071
-//  College Summit: Equipping 4800 Low-Income Student For Success in College and Career : 2014 : learn : 2014130
-//  Tickleberry Place : 2014 : play : 2016238
-//  20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in our diverse communities : 2014 : connect : 2018100
-
-//  1000 Mentors for Students: Build a Greater City of Angels with 826LA! : 2013 : undefined : 2018003
-//  1,000 Mentors for Students: Build a Greater City of Angels with 826LA!
-
-//  cARTel: Collaborative Arts LAs ToDo List : 2013 : undefined : 2013030
-//  cARTel: Collaborative Arts LA's To-Do List
-
-
-//  Alliance CollegeReady Public Schools  BLAST : 2013 : undefined : 2013005
-//  PARKINABOX : 2013 : undefined : 2013062
-//  Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer Program  : 2013 : undefined : 2013022
-//  Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in LowIncome Neighborhoods : 2013 : undefined : 2013026
-//  What’s the BF(B)D? Connecting Neighborhoods through BicycleFriendly Business Districts : 2013 : undefined : 2013085
-//  PickUp PopUp Produce Station : 2013 : undefined : 2013040
-//  LA Street Vendors: A Better Economy through LowIncome Entrepreneurs : 2013 : undefined : 2018035
-//  ChangeMaking Gardens : 2013 : undefined : 2013061
-//  Virtual Mentor Program for Foster and Atrisk Youth : 2013 : undefined : 2013073
-//  PesticideFree Los Angeles 2050 : 2013 : undefined : 2013091
-//  Roving RÃ­o Vista: A Park on the Move : 2013 : undefined : 2013110
-//  Financial Enrichment and Management (collegiate class of 20182019) : 2013 : undefined : 2013117
-//  Crowdsourcing Education To Provide Free Oneonone Online Tutoring For Underserved Communities  : 2013 : undefined : 2013120
-//  ReConnecting L.A. Neighborhoods through Music & History : 2013 : undefined : 2013128
-//  The Salamander Project: Redesigning Creativity in Education : 2013 : undefined : 2013145
-//  AxS aksis Festival : 2013 : undefined : 2013152
-//  College Bus: Driving LA’s LowIncome Youth Towards a College Education : 2013 : undefined : 2013154
-//  RFKLA (Legacy in Action) Digital Archive : 2013 : undefined : 2013163
-//  A HighPaying HighTech Jobs Solution For Those That Need It The MOST : 2013 : undefined : 2014078
-//  everybody dance:  Training LA’s Teachers to Bring Dance Education Back to LA’s K8 Schools : 2013 : undefined : 2014201
-//  SelfSustainable Artistic Community  : 2013 : undefined : 2013211
-//  Wayfinder LA a utility for carfree transit : 2013 : undefined : 2013216
+// Tickleberry Place : 2014 : play : 2016238
+// cARTel: Collaborative Arts LAs ToDo List : 2013 : undefined : 2013030
+// Alliance CollegeReady Public Schools  BLAST : 2013 : undefined : 2013005
+// PARKINABOX : 2013 : undefined : 2013062
+// Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer Program  : 2013 : undefined : 2013022
+// Turn Up the Turn Out: Engaging LA’s Voters through Advanced Technology in LowIncome Neighborhoods : 2013 : undefined : 2013026
+// What’s the BF(B)D? Connecting Neighborhoods through BicycleFriendly Business Districts : 2013 : undefined : 2013085
+// PickUp PopUp Produce Station : 2013 : undefined : 2013040
+// LA Street Vendors: A Better Economy through LowIncome Entrepreneurs : 2013 : undefined : 2018035
+// ChangeMaking Gardens : 2013 : undefined : 2013061
+// Virtual Mentor Program for Foster and Atrisk Youth : 2013 : undefined : 2013073
+// PesticideFree Los Angeles 2050 : 2013 : undefined : 2013091
+// Roving RÃ­o Vista: A Park on the Move : 2013 : undefined : 2013110
+// Financial Enrichment and Management (collegiate class of 20182019) : 2013 : undefined : 2013117
+// Crowdsourcing Education To Provide Free Oneonone Online Tutoring For Underserved Communities  : 2013 : undefined : 2013120
+// ReConnecting L.A. Neighborhoods through Music & History : 2013 : undefined : 2013128
+// The Salamander Project: Redesigning Creativity in Education : 2013 : undefined : 2013145
+// AxS aksis Festival : 2013 : undefined : 2013152
+// College Bus: Driving LA’s LowIncome Youth Towards a College Education : 2013 : undefined : 2013154
+// RFKLA (Legacy in Action) Digital Archive : 2013 : undefined : 2013163
+// A HighPaying HighTech Jobs Solution For Those That Need It The MOST : 2013 : undefined : 2014078
+// everybody dance:  Training LA’s Teachers to Bring Dance Education Back to LA’s K8 Schools : 2013 : undefined : 2014201
+// SelfSustainable Artistic Community  : 2013 : undefined : 2013211
+// Wayfinder LA a utility for carfree transit : 2013 : undefined : 2013216
 
 
 function stringToURI(str) {
@@ -443,6 +426,40 @@ function addProjectAnswers(data) {
 }
 
 
+// let tinyImages = []
+
+// let images = document.querySelectorAll(".proposals li img")
+// images.forEach(image => {
+//   var img = new Image();
+
+//   img.onload = function(){
+//     var height = img.height;
+//     var width = img.width;
+
+//     console.log(`width ${width}`)
+//     console.log(`height ${height}`)
+//     if (width < 200 || height < 200) {
+//       tinyImages.push(image.getAttribute("src"))
+//     }
+
+//     // code here to use the dimensions
+//   }
+
+//   img.src = image.getAttribute("src");
+// })
+
+// JSON.serialize(tinyImages)
+
+let tinyImages = JSON.parse("[\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385\",\"http://img.youtube.com/vi/CZMjDcpz53c/maxresdefault.jpg\",\"http://img.youtube.com/vi/--BnysezHK0/maxresdefault.jpg\",\"http://img.youtube.com/vi/C1uVBoRtQ74/maxresdefault.jpg\",\"http://img.youtube.com/vi/kNqNTSXVqsI/maxresdefault.jpg\",\"http://img.youtube.com/vi/6pkTdEgSCvo/maxresdefault.jpg\",\"http://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg\",\"http://img.youtube.com/vi/fpGXBYHFZuE/maxresdefault.jpg\",\"http://img.youtube.com/vi/XFrn3G05ZVc/maxresdefault.jpg\",\"http://img.youtube.com/vi/y5Q3OTnTYC4/maxresdefault.jpg\",\"http://img.youtube.com/vi/-MVQfBjaOS0/maxresdefault.jpg\",\"http://img.youtube.com/vi/UYdxlEZVaNA/maxresdefault.jpg\",\"http://img.youtube.com/vi/XNxfMssLYzc/maxresdefault.jpg\",\"http://img.youtube.com/vi/jRPfyjiCjwg/maxresdefault.jpg\",\"http://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg\",\"http://img.youtube.com/vi/ZobE5kX4dTc/maxresdefault.jpg\",\"http://img.youtube.com/vi/XyASgYDVS_Q/maxresdefault.jpg\",\"http://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg\",\"http://img.youtube.com/vi/q2OELc_KuI4/maxresdefault.jpg\",\"http://img.youtube.com/vi/nO6H3p5HpV4/maxresdefault.jpg\",\"http://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg\",\"http://img.youtube.com/vi/BtUB4Ycebms/maxresdefault.jpg\",\"http://img.youtube.com/vi/KRKqNflY-PU/maxresdefault.jpg\",\"http://img.youtube.com/vi/gyQdQTAWs0U/maxresdefault.jpg\",\"http://img.youtube.com/vi/gHdNsESWQgM/maxresdefault.jpg\",\"http://img.youtube.com/vi/EpR6dHeaGIQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/IYZkhNMTKrg/maxresdefault.jpg\",\"http://img.youtube.com/vi/HtWxHzKO0zY/maxresdefault.jpg\",\"http://img.youtube.com/vi/cEATGWzLMiM/maxresdefault.jpg\",\"http://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg\",\"http://img.youtube.com/vi/I85PHrZjakM/maxresdefault.jpg\",\"http://img.youtube.com/vi/KHtt2okRChU/maxresdefault.jpg\",\"http://img.youtube.com/vi/ghRsAe0AExM/maxresdefault.jpg\",\"http://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg\",\"http://img.youtube.com/vi/0fH09h-Rx9o/maxresdefault.jpg\",\"http://img.youtube.com/vi/z__BDhvkp9Q/maxresdefault.jpg\",\"http://img.youtube.com/vi/nPa4Lu7CMPA/maxresdefault.jpg\",\"http://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg\",\"http://img.youtube.com/vi/MIn1VBaIlrQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/EJWQ6cYZBCk/maxresdefault.jpg\",\"http://img.youtube.com/vi/zqrk27Md2Bo/maxresdefault.jpg\",\"http://img.youtube.com/vi/ZErt5IiuEPA/maxresdefault.jpg\",\"http://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg\",\"http://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg\",\"http://img.youtube.com/vi/W-ekiTrnYW0/maxresdefault.jpg\",\"http://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg\",\"http://img.youtube.com/vi/tnpBsy1mGwQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/FVOqZ9sWi8k/maxresdefault.jpg\",\"http://img.youtube.com/vi/JrkPrBnN4UI/maxresdefault.jpg\",\"http://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg\",\"http://img.youtube.com/vi/d8oxCVYqxhU/maxresdefault.jpg\",\"http://img.youtube.com/vi/QV1lB2SqWos/maxresdefault.jpg\",\"http://img.youtube.com/vi/2Pjt88MXETw/maxresdefault.jpg\",\"http://img.youtube.com/vi/jpQSRVlR_XM/maxresdefault.jpg\",\"http://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg\",\"http://img.youtube.com/vi/TkvIb74D38g/maxresdefault.jpg\",\"http://img.youtube.com/vi/iQpQqqot8AQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg\",\"http://img.youtube.com/vi/v-5UnN1CD0E/maxresdefault.jpg\",\"http://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg\",\"http://img.youtube.com/vi/oPkjhNbvFTw/maxresdefault.jpg\",\"http://img.youtube.com/vi/f2SXn1p3d4I/maxresdefault.jpg\",\"http://img.youtube.com/vi/fRmzSDzuoRA/maxresdefault.jpg\",\"http://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg\",\"http://img.youtube.com/vi/9PUd4G27uNk/maxresdefault.jpg\",\"http://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg\",\"http://img.youtube.com/vi/DVIx37igPg0/maxresdefault.jpg\",\"http://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg\",\"http://img.youtube.com/vi/CqF0Cn4dZJs/maxresdefault.jpg\",\"http://img.youtube.com/vi/iGjxg6yI_og/maxresdefault.jpg\",\"http://img.youtube.com/vi/H107Gy4bTFs/maxresdefault.jpg\",\"http://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/QQpabiJ0uus/maxresdefault.jpg\",\"http://img.youtube.com/vi/7so4eDfFRws/maxresdefault.jpg\",\"http://img.youtube.com/vi/9xQP6vGylgE/maxresdefault.jpg\",\"http://img.youtube.com/vi/2qWrLJakj5M/maxresdefault.jpg\",\"http://img.youtube.com/vi/y3Gts_Aoxd8/maxresdefault.jpg\",\"http://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg\",\"http://img.youtube.com/vi/Gx66ZyZaf90/maxresdefault.jpg\",\"http://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg\",\"http://img.youtube.com/vi/79DqmMTV8-Y/maxresdefault.jpg\",\"http://img.youtube.com/vi/inJ5XFkvJ84/maxresdefault.jpg\",\"http://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg\",\"http://img.youtube.com/vi/_8WrWZXDKdQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/a-kQryxgF4M/maxresdefault.jpg\",\"http://img.youtube.com/vi/VpqSppE8ppo/maxresdefault.jpg\",\"http://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg\",\"http://img.youtube.com/vi/A9yf6DpgLSM/maxresdefault.jpg\",\"http://img.youtube.com/vi/sO2seHdnH3c/maxresdefault.jpg\",\"http://img.youtube.com/vi/A3zOCbnCHLg/maxresdefault.jpg\",\"http://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg\",\"http://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg\",\"http://img.youtube.com/vi/kfEpQxhOtUk/maxresdefault.jpg\",\"http://img.youtube.com/vi/ERxmCic5y3o/maxresdefault.jpg\",\"http://img.youtube.com/vi/uz4evo3B7qw/maxresdefault.jpg\",\"http://img.youtube.com/vi/iHvoKckqh4o/maxresdefault.jpg\",\"http://img.youtube.com/vi/CDJnJMrwko8/maxresdefault.jpg\",\"http://img.youtube.com/vi/Jw8-KCURHUA/maxresdefault.jpg\",\"http://img.youtube.com/vi/Hey6DKTLdw8/maxresdefault.jpg\",\"http://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg\",\"http://img.youtube.com/vi/z7QaUClznXM/maxresdefault.jpg\",\"http://img.youtube.com/vi/SXGVU13JPLU/maxresdefault.jpg\",\"http://img.youtube.com/vi/pUrKNHKdDLA/maxresdefault.jpg\",\"http://img.youtube.com/vi/cWwkZlNW9ng/maxresdefault.jpg\",\"http://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg\",\"http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg\",\"http://img.youtube.com/vi/TsuTBskJETc/maxresdefault.jpg\",\"http://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg\",\"http://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg\",\"http://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg\",\"http://img.youtube.com/vi/R-T1Ud6JTNo/maxresdefault.jpg\",\"http://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg\",\"http://img.youtube.com/vi/Sq1MDbnR1wg/maxresdefault.jpg\",\"http://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg\",\"http://img.youtube.com/vi/g_OFCYLH7gw/maxresdefault.jpg\",\"http://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg\",\"http://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg\",\"http://img.youtube.com/vi/5tvdNOJ7fCw/maxresdefault.jpg\",\"http://img.youtube.com/vi/KofWk5qh3jE/maxresdefault.jpg\",\"http://img.youtube.com/vi/X9EpK48pYtY/maxresdefault.jpg\",\"http://img.youtube.com/vi/awJQoJqGL-o/maxresdefault.jpg\",\"http://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg\",\"http://img.youtube.com/vi/sN5SCezYZTM/maxresdefault.jpg\",\"http://img.youtube.com/vi/FB9aNSfVARA/maxresdefault.jpg\",\"http://img.youtube.com/vi/gzqE0ygfM8Y/maxresdefault.jpg\",\"http://img.youtube.com/vi/dCvzeDvQtLY/maxresdefault.jpg\",\"http://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg\",\"http://img.youtube.com/vi/4zAG6xu-HQM/maxresdefault.jpg\",\"http://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg\",\"http://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg\",\"http://img.youtube.com/vi/f_x1AGOuR7A/maxresdefault.jpg\",\"http://img.youtube.com/vi/nu53ttV7jQI/maxresdefault.jpg\",\"http://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg\",\"http://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg\",\"http://img.youtube.com/vi/31zyNJHGmig/maxresdefault.jpg\",\"http://img.youtube.com/vi/4svMiNJ-HL0/maxresdefault.jpg\"]")
+let tinyImagesLookup = {}
+tinyImages.forEach(image => {
+  if (image.includes("youtube")) {
+    let youTubeID = image.split("/")[4] // https://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg
+    tinyImagesLookup[youTubeID] = 1
+  }
+})
+
+
 function createMarkdownFile(data) {
 
 
@@ -520,7 +537,16 @@ function createMarkdownFile(data) {
       } else if (match && match.video) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
-        data.project_image = `https://img.youtube.com/vi/${match.video.youtube_video_identifier}/maxresdefault.jpg`
+
+        let size = tinyImagesLookup[match.video.youtube_video_identifier] ? `hqdefault.jpg` : `maxresdefault.jpg`
+
+        data.project_image = `https://img.youtube.com/vi/${match.video.youtube_video_identifier}/${size}`
+
+        // https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api
+        
+
+        // data.project_image = `https://img.youtube.com/vi/${match.video.youtube_video_identifier}/maxresdefault.jpg`
+
         data.project_video = `https://www.youtube.com/embed/${match.video.youtube_video_identifier}`
 
         data.youtube_video_identifier = match.video.youtube_video_identifier

@@ -12,7 +12,7 @@ twitter: N/A
 instagram: ''
 facebook: www.facebook.com/TheMicroenterpriseProgram
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0qhd1kRJ698/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We help homeless (and extremely low-income) individuals start small

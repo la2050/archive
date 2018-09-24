@@ -12,7 +12,7 @@ twitter: www.twitter.com/hollywdheart
 instagram: www.instagram.com/hollywoodsheart
 facebook: www.facebook.com/hollywoodheart
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Hollywood HEART nurtures resiliency, creativity, and community through

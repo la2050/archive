@@ -12,7 +12,7 @@ twitter: www.twitter.com/LivAdvInc
 instagram: www.instagram.com/livingadvantagebenefit
 facebook: www.facebook.com/livingadvantage
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LA, Inc. brings a more innovative approach by utilizing a technological and

@@ -12,7 +12,7 @@ twitter: www.twitter.com/palicharterhigh
 instagram: ''
 facebook: www.facebook.com/palihigh
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XUlv1Zd4JZU/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   PCHS, a public charter high school serving over 2900 students from 100+ zip

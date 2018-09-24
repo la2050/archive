@@ -12,7 +12,7 @@ twitter: www.twitter.com/HwoodCapPark
 instagram: ''
 facebook: www.facebook.com/FriendsOfTheHollywoodCentralPark
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/t_fQo1Z6VSg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   FHCP will build a 38-acre Hollywood Central Park by decking one mile of US 101

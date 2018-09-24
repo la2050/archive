@@ -12,7 +12,7 @@ twitter: www.twitter.com/passthaball
 instagram: www.instagram.com/passthaball
 facebook: www.facebook.com/passthaball
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/IscZOss0am8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We offer basketball skills training to youth and help them obtain an athletic

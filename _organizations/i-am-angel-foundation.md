@@ -12,7 +12,7 @@ twitter: '@iamangelfdn'
 instagram: ''
 facebook: www.facebook.com/iamangelfoundation
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/uVV1_WmFT9o/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Founded by will.i.am, the i.am.angel Foundation aims to transform lives

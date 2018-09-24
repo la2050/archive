@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/thelovestoryorg'
 instagram: 'https://instagram.com/weletgo/'
 facebook: 'https://www.facebook.com/thelovestory.org'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2U1i7uKpy8Y/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Through multimedia production and storytelling workshops, our organization

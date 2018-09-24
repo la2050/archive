@@ -12,7 +12,7 @@ twitter: '@seefilmla'
 instagram: SEEFEST
 facebook: seefilmla.org
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/qtJ5XumU1Gw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   South East European Film Festival engages all of Los Angeles through educating

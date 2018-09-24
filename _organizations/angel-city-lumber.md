@@ -12,7 +12,7 @@ twitter: n/a
 instagram: www.instagram.com/angelcitylumber
 facebook: n/a
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/4Kt14HIJyiU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Angel City Lumber intercepts felled city trees designated as “green waste”

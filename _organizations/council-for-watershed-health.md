@@ -12,7 +12,7 @@ twitter: www.twitter.com/CWH_org
 instagram: www.instagram.com/watershedhealth
 facebook: www.facebook.com/CouncilforWatershedHealth
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/kQnTJYkpO4A/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Culture Shock LA utilizes urban dance, art, and culture to cultivate

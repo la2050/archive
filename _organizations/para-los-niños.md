@@ -12,7 +12,7 @@ twitter: www.twitter.com/paralosninosorg
 instagram: ''
 facebook: 'https://www.facebook.com/paralosninosfanpage'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0MYV-P-oK80/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Para Los Niños is transforming lives by closing the achievement gap for

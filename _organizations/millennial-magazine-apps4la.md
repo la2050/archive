@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/MillennialMagz'
 instagram: ''
 facebook: 'https://www.facebook.com/MillennialMagazine'
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Vv698CCwrt4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Millennial is a lifestyle and culture magazine profiling those who shape the

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/3J2TSZ1AMHM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Funded by The Annenberg Foundation, The Relational Center launched a pilot

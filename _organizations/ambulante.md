@@ -12,7 +12,7 @@ twitter: www.twitter.com/ambulanteca
 instagram: www.instagram.com/ambulanteca
 facebook: www.facebook.com/ambulantecalifornia
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/W6D_g6EB-QY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Generate dialogue, cultural exchange and revitalize public spaces through a

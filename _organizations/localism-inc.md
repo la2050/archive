@@ -12,7 +12,7 @@ twitter: www.twitter.com/madeinlongbeach
 instagram: www.instagram.com/madeinlongbeach
 facebook: www.facebook.com/madeinlongbeach
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TNz5Q0G-KAs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Localism Inc. fosters independent entrepreneurship to promote a more

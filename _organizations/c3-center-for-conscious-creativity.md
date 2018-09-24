@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/n_itMCVl124/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In 2009 the c3 created a partnership with The Millennium Project

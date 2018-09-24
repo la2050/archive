@@ -12,7 +12,7 @@ twitter: www.twitter.com/MotorAveMarket
 instagram: www.instagram.com/MotorAveMarket
 facebook: www.facebook.com/MotorAveFM
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/g0KxazcQnVA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Motor Avenue Improvement Association and the Farmers Market and Urban

@@ -12,7 +12,7 @@ twitter: www.twitter.com/hollywoodfringe
 instagram: www.instagram.com/hollywoodfringe
 facebook: www.facebook.com/hollywoodfringe
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Hollywood Fringe Festival (HFF) is an annual, open-access,

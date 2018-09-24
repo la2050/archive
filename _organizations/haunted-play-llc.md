@@ -12,7 +12,7 @@ twitter: www.twitter.com/enterdelusion
 instagram: www.instagram.com/enterdelusion/
 facebook: www.facebook.com/enterdelusion
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/wGHuWyQEQIU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   For the last 4 years, Delusion has been the premiere live theatre event in the

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/seacala, https://twitter.com/PublicCounsel'
 instagram: ''
 facebook: www.facebook.com/seacala www.facebook.com/publiccounsel
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fMyc7c0Ylc4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   SEACA connects youth with advocates to create policies for a more economically

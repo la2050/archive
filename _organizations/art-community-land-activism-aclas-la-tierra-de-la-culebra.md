@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jAOkF8UAOLI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We facilitate access to a public park by developing creative and cultural

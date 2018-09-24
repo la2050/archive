@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   cityLAB, a research center at UCLA’s School of the Arts and Architecture, was

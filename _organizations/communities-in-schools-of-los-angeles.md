@@ -12,7 +12,7 @@ twitter: www.twitter.com/cislosangeles
 instagram: www.instagram.com/cislosangeles
 facebook: www.facebook.com/cisoflosangeles
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/8RfGcPRl--8/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Compiler LA uses informed design, technology, and data to make Los Angeles a

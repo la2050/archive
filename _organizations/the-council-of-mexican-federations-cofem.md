@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/cofem'
 instagram: 'https://instagram.com/cofem/'
 facebook: 'https://www.facebook.com/orgCOFEM'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SVzSpv8Dj74/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   A non-profit empowering immigrant communities to be integrated in the social,

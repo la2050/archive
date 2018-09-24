@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Over the past decade plus, the Hammer Museum has transformed itself into one

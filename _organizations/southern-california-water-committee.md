@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/Lawn_Dude'
 instagram: www.instagram.com/socalwater
 facebook: www.facebook.com/socalwater
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/mvOTPkbwJJU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Southern California Water Committee (SCWC) — established in 1984 — is a

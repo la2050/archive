@@ -12,7 +12,7 @@ twitter: www.twitter.com/cultureshockla
 instagram: www.instagram.com/cultureshockla
 facebook: www.facebook.com/cultureshockla
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Data Roads Foundation expands access to interconnected networks (or Internets

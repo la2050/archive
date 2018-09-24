@@ -12,7 +12,7 @@ twitter: '@Beautify_Earth'
 instagram: '@BeautifyEarth'
 facebook: facebook.com/BeautifyEarth
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/I-2fvjBviRI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Beautify Earth creates murals to uplift neighborhoods, build strong

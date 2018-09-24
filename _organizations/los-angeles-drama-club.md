@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/79DqmMTV8-Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/79DqmMTV8-Y/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Our Shakespeare programs provide underserved children with the camaraderie of

@@ -13,7 +13,7 @@ instagram: 'http://instagram.com/criticalmassdancecompany'
 facebook: >-
   https://www.facebook.com/pages/Critical-Mass-Dance-Company-Dance-from-the-Heart/195684683779897
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/K83J6XaqQlM/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Critical Mass Dance Company (CMDC) catalyzes community health, personal growth

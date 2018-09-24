@@ -12,7 +12,7 @@ twitter: '@schkapf'
 instagram: 'http://instagram.com/schkapf'
 facebook: 'https://www.facebook.com/schkapf'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/mei1C43QDXw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Schkapf incubates Los Angeles performing artists and culturemakers through

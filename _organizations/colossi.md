@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/ColossiCo?lang=en'
 instagram: ''
 facebook: n/a
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CAz_mkuDRno/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our company Colossi is about creating interactive games for giant screens,

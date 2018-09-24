@@ -12,7 +12,7 @@ twitter: www.twitter.com/LibrosSchmibros
 instagram: www.instagram.com/librosschmibros
 facebook: 'https://www.facebook.com/librosschmibros'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iFODyc5eUjQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Libros Schmibros is a Boyle Heights-based lending library that puts low-or

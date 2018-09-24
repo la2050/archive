@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/inC3OJbaTT4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   L.A. Kitchen is brand new. Many of its core ideas have been proven successful

@@ -14,7 +14,7 @@ twitter: www.twitter.com/thenewhist
 instagram: www.instagram.com/thenewhistory
 facebook: www.facebook.com/TheNewHistoryEdu
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MY3TeVh867s/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are a modern music education program that brings at-risk students, music

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/LABikeTrains'
 instagram: 'http://instagram.com/bicyclecultureinst'
 facebook: 'https://www.facebook.com/LABikeTrains'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/l2oE7AX8gtw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Bicycle Culture Institute is a 501(c)3 non-profit dedicated to connecting

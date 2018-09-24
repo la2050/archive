@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CMmY955jD5A/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   General Assembly delivers best-in-class practical education in technology,

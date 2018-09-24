@@ -12,7 +12,7 @@ twitter: www.twitter.com/allofuscare
 instagram: www.instagram.com/allofuscare
 facebook: www.facebook.com/allofuscare?fref=ts
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/YHlDfLtzSio/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Office of the President and the Student Wellness Commission represent the

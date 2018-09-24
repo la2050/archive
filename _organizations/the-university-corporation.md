@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/csunorthridge'
 instagram: ''
 facebook: 'https://www.facebook.com/calstatenorthridge'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/5tvdNOJ7fCw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5tvdNOJ7fCw/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The University Corporation is a non-profit auxiliary corporation providing

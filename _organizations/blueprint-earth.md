@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/BlueprintEarth'
 instagram: www.instagram.com/blueprintearth
 facebook: www.facebook.com/blueprintearth
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/H-S2LiQcO00/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Blueprint Earth’s mission is to preserve Earth's environments through

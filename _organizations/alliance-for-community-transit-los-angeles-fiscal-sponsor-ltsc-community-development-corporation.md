@@ -14,7 +14,7 @@ twitter: '@All4Transit'
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xcozMknxurc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ACT-LA is a coalition of organizations working to create just and equitable

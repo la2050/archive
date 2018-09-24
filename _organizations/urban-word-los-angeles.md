@@ -12,7 +12,7 @@ twitter: www.twitter.com/urbanwordla
 instagram: ''
 facebook: www.facebook.com/urbanword
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/WendT0Sm-Tk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Urban Word LA provided diverse platforms for youth to cultivate and share

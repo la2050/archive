@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/rt9TuksVaZU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>The individuals associated with the project have two avenues of connection

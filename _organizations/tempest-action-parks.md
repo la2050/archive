@@ -12,7 +12,7 @@ twitter: www.twitter.com/tmpstactionpark
 instagram: www.instagram.com/tempestactionparks
 facebook: www.facebook.com/tempestactionparks
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/k-SpD948tJc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   TMPST Action Parks helps provide creative movement to communities everywhere

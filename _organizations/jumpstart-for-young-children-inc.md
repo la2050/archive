@@ -12,7 +12,7 @@ twitter: www.twitter.com/jumpstartkids
 instagram: ''
 facebook: www.facebook.com/jumpstartkids
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/a-3Yo_Yz5Vc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Jumpstart provides high quality early education programming to preschools in

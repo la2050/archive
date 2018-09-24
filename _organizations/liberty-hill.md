@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/kfEpQxhOtUk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/kfEpQxhOtUk/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Liberty Hill invests in community groups on the frontlines of change with

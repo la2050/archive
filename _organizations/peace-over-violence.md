@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nF2CnqS_6oQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   provides crisis intervention & healing services for survivors of domestic &

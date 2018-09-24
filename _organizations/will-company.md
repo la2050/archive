@@ -12,7 +12,7 @@ twitter: 'http://www.twitter.com/willandcompany'
 instagram: 'http://www.instagram.com/willandcompany'
 facebook: 'http://www.facebook.com/artsandfitness'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Will & Company is a non-profit that produces theater for social change at the

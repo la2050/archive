@@ -12,7 +12,7 @@ twitter: www.twitter.com/grandpark_la
 instagram: www.instagram.com/grandpark_la
 facebook: www.facebook.com/grandparklosangeles
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/BhO5jmXKosA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Music Center is a world-renowned performing arts center, home to over

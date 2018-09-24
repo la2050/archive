@@ -12,7 +12,7 @@ twitter: www.twitter.com/DREAMHAUS_LA
 instagram: www.instagram.com/DREAMHAUSLA
 facebook: www.facebook.com/DREAMHAUSLA
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/yy9nnTHABlE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Dreamhaus is both an educational and economic catalyst for urban youth in

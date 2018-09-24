@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Founded in 2003 in response to the acute shortage of leadership and management

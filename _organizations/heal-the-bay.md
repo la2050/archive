@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/healthebay'
 instagram: 'https://instagram.com/healthebay/'
 facebook: 'https://www.facebook.com/HealtheBay/'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Heal the Bay is a nonprofit environmental organization making Southern

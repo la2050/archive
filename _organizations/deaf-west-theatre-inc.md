@@ -12,7 +12,7 @@ twitter: '@deafwest'
 instagram: deafwest
 facebook: 'https://www.facebook.com/deafwesttheatre'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Deaf West Theatre creates, innovates, entertains, enlightens, educates,

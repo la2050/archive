@@ -14,7 +14,7 @@ twitter: 'https://www.twitter.com/SCOPE_LA'
 instagram: 'https://www.instagram.com/scope_la'
 facebook: 'https://www.facebook.com/scopelosangeles'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/ERxmCic5y3o/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ERxmCic5y3o/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   SCOPE builds community power in South LA to ensure equitable investment in

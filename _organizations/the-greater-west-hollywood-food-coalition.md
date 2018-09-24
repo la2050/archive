@@ -14,7 +14,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/vZOFIeiYKwA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Having been called into being as volunteers by the City of West Hollywood in

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/d166fbxFWas/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since its inception in 2009, Children Mending Hearts has helped over 12,000

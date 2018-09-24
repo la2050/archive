@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/TkvIb74D38g/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TkvIb74D38g/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Since being founded in April 2011, HoneyLove has been leading the grassroots

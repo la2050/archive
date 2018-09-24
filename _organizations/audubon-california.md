@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/birdyourparks'
 instagram: instagram.com/audubondebspark
 facebook: 'https://www.facebook.com/audubondebspark'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/KRKqNflY-PU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KRKqNflY-PU/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Audubon inspires people to experience, understand and care for the local

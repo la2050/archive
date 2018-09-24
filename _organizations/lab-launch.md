@@ -12,7 +12,7 @@ twitter: www.twitter.com/lablaunch
 instagram: ''
 facebook: www.facebook.com/lablaunch
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/wZGBfT2_pi4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Lab Launch’s mission is to enable the scientists and entrepreneurs of Los

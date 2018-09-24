@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/tgVu1wy15RQ/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The LA Forum provides a framework for the public to explore, evaluate, and

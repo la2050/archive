@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/NHaLkpe_jms/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Dumlao Enterprises is a digital media & marketing business focused on helping

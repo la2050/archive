@@ -12,7 +12,7 @@ twitter: '@LACE_Center'
 instagram: ''
 facebook: 'https://www.facebook.com/lacecenter.org'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/V_x6dj_Fa9M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The LACE Center is a community-led organization invested in arts for

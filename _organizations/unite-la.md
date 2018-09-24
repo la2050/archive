@@ -12,7 +12,7 @@ twitter: www.twitter.com/lacash4college
 instagram: www.instagram.com/lacash4college
 facebook: www.facebook.com/lacashforcollege
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/q4McatdcN78/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   UNITE-LA transcends traditional silos and barriers between government,

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/w8o0x9VRbvE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   For over a decade, Art Share L.A. has provided 30-affordable live/work units

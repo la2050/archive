@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TlilAMszJEs/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The Gabriella Foundation provides in-school and after-school dance instruction

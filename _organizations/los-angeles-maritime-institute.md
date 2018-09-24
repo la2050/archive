@@ -12,7 +12,7 @@ twitter: www.twitter.com/lami_topsail
 instagram: www.instagram.com/tallshipschool
 facebook: www.facebook.com/lami.topsail
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/m_0WUOFanyM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We empower youth to discover their greater potential through extraordinary

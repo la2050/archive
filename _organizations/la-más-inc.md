@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/iGjxg6yI_og/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iGjxg6yI_og/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Farm on Wheels is a product of the partnership between LA-MÃ¡s and Mia

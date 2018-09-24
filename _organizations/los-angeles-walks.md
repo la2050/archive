@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Deborah Murphy, a native Angeleno, founded Los Angeles Walks in 1998 after

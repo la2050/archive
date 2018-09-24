@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/CII_Updates'
 instagram: ''
 facebook: 'https://www.facebook.com/Childrens-Institute-Inc-CII-103939291803/timeline/'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   CII helps children in Los Angeles’s most challenged communities heal from the

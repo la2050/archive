@@ -12,7 +12,7 @@ twitter: www.twitter.com/EIC_online
 instagram: www.instagram.com/ent.industries.council
 facebook: www.facebook.com/EIConline
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   EIC was founded by entertainment industry leaders to bring the power and

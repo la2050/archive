@@ -12,7 +12,7 @@ twitter: www.twitter.com/knucklebones
 instagram: www.instagram.com/knucklebones
 facebook: www.facebook.com/knucklebones
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FAirDH4ROp0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Knucklebones is an athletically inspired wellness company, providing custom

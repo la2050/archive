@@ -13,7 +13,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/S_0nE1f2B1w/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We provide a full spectrum of care from leading-edge treatments to prevention

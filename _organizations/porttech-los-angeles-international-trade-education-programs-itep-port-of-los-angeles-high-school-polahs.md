@@ -14,7 +14,7 @@ twitter: www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLA
 instagram: ''
 facebook: www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zmZJYC2WFVk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   PortTech connects entrepreneurs, industry and community to advance innovation,

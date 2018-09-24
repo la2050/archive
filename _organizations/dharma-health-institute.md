@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/DharmaHealthLA'
 instagram: www.instagram.com/dharmahealthinstitute
 facebook: www.facebook.com/dharmahealthinstitute
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   DIY Girls’ mission is to increase girls’ interest in technology, engineering

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/ProktrLA'
 instagram: www.instagram.com/proktrla
 facebook: 'https://www.facebook.com/ProktrLA'
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Proktr illuminates what is going on now in the art and design world of Los

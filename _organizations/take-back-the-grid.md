@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/R-T1Ud6JTNo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/R-T1Ud6JTNo/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Working with Dan Rosen, Billy Parish, and Arthur Coulston at SolarMosaic

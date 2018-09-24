@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/civLAtweets'
 instagram: 'https://instagram.com/imgla/'
 facebook: none
 org_type: Other
-project_image: 'http://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/qyZQR5_KCEM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   civ.LA is an agile civic innovation laboratory (or "think-do tank"). We're

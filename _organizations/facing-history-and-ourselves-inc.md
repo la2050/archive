@@ -12,7 +12,7 @@ twitter: www.twitter.com/facinghistoryla
 instagram: www.instagram.com/facinghistory
 facebook: www.facebook.com/facinghistory
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2EbK6sblpo0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Facing History and Ourselves supports educators in LA and around the world,

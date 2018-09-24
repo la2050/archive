@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/FVOqZ9sWi8k/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FVOqZ9sWi8k/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   In the 35 years since ALA was founded, we have helped more than 30,000 seniors

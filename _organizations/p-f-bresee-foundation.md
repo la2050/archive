@@ -12,7 +12,7 @@ twitter: www.twitter.com/BreseeLA
 instagram: www.instagram.com/BreseeLA
 facebook: www.facebook.com/BreseeFoundation
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/yeyzmCpYfFk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Bresee serves youth and families through Academics, Career-readiness, STEM,

@@ -12,7 +12,7 @@ twitter: NewHistoryEdu
 instagram: NewHistoryEdu
 facebook: TheNewHistoryEdu
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/o1W8HEqylCg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We leverage music, collaboration & technology to re-imagine how kids learn &

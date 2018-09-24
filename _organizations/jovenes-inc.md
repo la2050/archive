@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/6BWp4B7O03I/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Jovenes is a place of personal transformation for homeless youth ages 18-25.

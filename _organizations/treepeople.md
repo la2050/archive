@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/r9LtyQwYAks/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   TreePeople unites the power of people, trees and nature-based solutions to

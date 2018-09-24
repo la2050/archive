@@ -19,7 +19,7 @@ facebook: >-
   www.facebook.com/ThisIsTheDinnerParty, www.facebook.com/TheKitchenWidow,
   https://www.facebook.com/HopeAfterProject, www.facebook.com/firstseating
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/YijVi1ZG5EM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Dinner Party is a community of mostly 20- and 30-somethings who’ve each

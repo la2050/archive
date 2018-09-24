@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ARC provides comprehensive, afterschool programming for over 23,000 student

@@ -12,7 +12,7 @@ twitter: www.twitter.com/climateresolve
 instagram: ''
 facebook: www.facebook.com/climateresolve
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/jRPfyjiCjwg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jRPfyjiCjwg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Climate Resolve’s mission is to make Southern California more livable and

@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/2ndChancesInc'
 instagram: 'https://instagram.com/2ndChancesInc'
 facebook: 'https://www.facebook.com/ffscinc'
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/c9y0Bp8kgT4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Foundation for Second Chances provides children and youth with the necessities

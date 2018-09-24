@@ -12,7 +12,7 @@ twitter: TESanPedroRep
 instagram: tesanpedrorep
 facebook: 'https://www.facebook.com/TESanPedroRep'
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nJPC81QoGyk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   TE San Pedro Rep is a Teaching Theatre and Arts Organization dedicated to

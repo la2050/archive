@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/Pub_Matters'
 instagram: 'https://instagram.com/publicmatters/'
 facebook: www.facebook.com/publicmatters
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/1HVZ3rX86M4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Public Matters is a social enterprise—made up of artists, educators, media

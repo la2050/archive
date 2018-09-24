@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/EarthProtect1'
 instagram: ''
 facebook: www.facebook.com/earthprotect
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/usGtj9dvrhA/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Earth Protect shares and creates stories about people and organizations

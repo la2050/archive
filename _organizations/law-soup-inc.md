@@ -12,7 +12,7 @@ twitter: www.twitter.com/lawsoupdotorg
 instagram: ''
 facebook: www.facebook.com/lawsoup
 org_type: Forprofit
-project_image: 'http://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/DRehRt5n68c/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Law Soup is an online media company that creates and publishes content

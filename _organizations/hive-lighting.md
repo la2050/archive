@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fmzJcYDzdUw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Hive Lighting is a Los Angeles based specialty lighting design, manufacturing

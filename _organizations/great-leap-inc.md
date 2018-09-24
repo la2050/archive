@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/gyQdQTAWs0U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gyQdQTAWs0U/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   2013 is the 35th anniversary of Great Leap. We have consistently created

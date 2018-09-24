@@ -12,7 +12,7 @@ twitter: 'www.twitter.com/flowprojectla, www.twitter.com/unycyn'
 instagram: www.instagram.com/flowproject.la
 facebook: www.facebook.com/unycyn.civic.arts
 org_type: Nonprofit
-project_image: 'http://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
 project_video: ''
 org_summary: We help beautify civic spaces with public art and urban gardens.
 areas_impacted: >-
