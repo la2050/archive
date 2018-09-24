@@ -1,6 +1,6 @@
 ---
 organization_id: '2013035'
-project_image: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+project_image: 'https://img.youtube.com/vi/T-_qt-Ah9-0/maxresdefault.jpg'
 project_id: '3102069'
 title: 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
 indicator: ' Housing'
@@ -230,6 +230,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   of legal backyard units, and an abundance of new types of Backyard Homes in
   addition to this prototype developed by cityLAB.
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/T-_qt-Ah9-0'
+youtube_video_identifier: T-_qt-Ah9-0
 body_class: strawberry
 
 ---

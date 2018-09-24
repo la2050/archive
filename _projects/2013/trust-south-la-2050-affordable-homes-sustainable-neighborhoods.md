@@ -1,6 +1,6 @@
 ---
 organization_id: '2013199'
-project_image: 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
+project_image: 'https://img.youtube.com/vi/zwlibJLtPOE/maxresdefault.jpg'
 project_id: '3102259'
 title: 'TRUST South LA 2050: Affordable Homes Sustainable Neighborhoods'
 indicator: ' Housing'
@@ -399,6 +399,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   transportation, bicycle and pedestrian infrastructure that encourages people
   to out of their cars and into their neighborhoods. 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/zwlibJLtPOE'
+youtube_video_identifier: zwlibJLtPOE
 body_class: strawberry
 
 ---

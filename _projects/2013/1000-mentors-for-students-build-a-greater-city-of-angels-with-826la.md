@@ -1,6 +1,6 @@
 ---
 organization_id: '2018003'
-project_image: 'http://maker.good.is/myla2050/projects/826LA.html'
+project_image: 'https://img.youtube.com/vi/rZH2uJv5RLI/maxresdefault.jpg'
 project_id: '3102003'
 title: '1000 Mentors for Students: Build a Greater City of Angels with 826LA!'
 indicator: ' Education'
@@ -245,6 +245,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   to the education of our children in 2050. Our students—and all of Los
   Angeles—will benefit from this culturally rich, engaged, and united city. </p>
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/rZH2uJv5RLI'
+youtube_video_identifier: rZH2uJv5RLI
 body_class: strawberry
 
 ---

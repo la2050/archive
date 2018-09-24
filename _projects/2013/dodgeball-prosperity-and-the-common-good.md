@@ -1,6 +1,6 @@
 ---
 organization_id: '2014029'
-project_image: 'http://maker.good.is/myla2050/projects/theyachtclub.html'
+project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg'
 project_id: '3102116'
 title: Dodgeball Prosperity and the Common Good
 indicator: ' Health'
@@ -338,6 +338,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   selfworth and accomplishment that comes from giving back to your community
   through volunteerism is paramount to your overall health.</p>
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/aKgBQ7XR-pg'
+youtube_video_identifier: aKgBQ7XR-pg
 body_class: strawberry
 
 ---

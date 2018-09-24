@@ -9,8 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2016204'
 year_submitted: 2014
-project_image: ''
-project_video: ''
+project_image: 'https://img.youtube.com/vi/4svMiNJ-HL0/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/4svMiNJ-HL0'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This authentic learning experience for license-exempt caregivers will address
   health and wellness topics such as Breastfeeding, Food and Drink, Physical
@@ -73,6 +73,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    We also intend to reach out to Child and Adult Care Food Program (CACFP) Sponsors for reaching out to license-exempt providers on their programs or seeking out volunteer coaches.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: 4svMiNJ-HL0
 project_areas:
   - LA COUNTY
 body_class: lime

@@ -111,6 +111,9 @@ How do you plan to scale the success of your proposal?: >-
   youth, parents and partners. We also intend to have a model that can be
   replicated in other Los Angeles area schools and beyond.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/2EuVrQnBaFE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/2EuVrQnBaFE'
+youtube_video_identifier: 2EuVrQnBaFE
 project_areas:
   - South LA
   - County of Los Angeles

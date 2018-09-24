@@ -1,6 +1,7 @@
 ---
 organization_id: '2018060'
-project_image: 'http://maker.good.is/myla2050/projects/FoundLA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16893%252Fdisplay%252FFoundLAImage2.jpg=c570x385
 project_id: '3102171'
 title: >-
   Found LA: Festival of Neighborhoods A Day to Meet and Eat with Neighbors
@@ -114,6 +115,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   and exploring parts of the city outside of their own neighborhoods. Greater
   sense of ownership and desire to contribute to the city.
 year_submitted: 2013
+maker_image_id: '16893'
+maker_image_file_name: FoundLAImage2.jpg
 body_class: strawberry
 
 ---

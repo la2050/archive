@@ -1,6 +1,6 @@
 ---
 organization_id: '2013137'
-project_image: 'http://maker.good.is/myla2050/projects/mloveizm.html'
+project_image: 'https://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg'
 project_id: '3102077'
 title: MLoveizm Supports Empowers and Inspires Los Angeles Artists
 indicator: Arts & Cultural Vitality
@@ -113,6 +113,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   increase as well!  We are currently in the process of gaining our 501c as
   well!
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/Q4dC-OX4vTw'
+youtube_video_identifier: Q4dC-OX4vTw
 body_class: strawberry
 
 ---

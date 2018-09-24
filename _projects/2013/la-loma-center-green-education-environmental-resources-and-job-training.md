@@ -1,6 +1,7 @@
 ---
 organization_id: '2013114'
-project_image: 'http://maker.good.is/myla2050/projects/LALOMA.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16974%252Fdisplay%252FLa_Loma_Development_Single_Picture.jpg=c570x385
 project_id: '3102068'
 title: 'La Loma Center: Green Education Environmental Resources and Job Training '
 indicator: ' Income & Employment'
@@ -235,6 +236,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16974'
+maker_image_file_name: La_Loma_Development_Single_Picture.jpg
 body_class: strawberry
 
 ---

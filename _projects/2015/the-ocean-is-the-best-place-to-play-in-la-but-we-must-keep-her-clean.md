@@ -84,6 +84,9 @@ How do you plan to scale the success of your proposal?: >-
   everywhere. We have more recent videos on Vimeo, but your application only
   seems to recognize YouTube.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/laadW_CUhSY/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/laadW_CUhSY'
+youtube_video_identifier: laadW_CUhSY
 project_areas:
   - City of Los Angeles
 body_class: blueberry

@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014029'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/eryc.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/aKgBQ7XR-pg'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Yacht Club wants to recruit, select and develop six league ambassadors to
   launch dodgeball leagues in under-resourced neighborhoods across LA. We will
@@ -65,6 +65,7 @@ Whom will your project benefit? Please be specific.: |-
    WeAreGiants:
    WeAreGiants. is a civic-minded marketing and design agency based in Downtown Los Angeles. WAG. has been engaged in many projects for the City of Los Angeles: Jose Huizar’s Bringing Back Broadway initiative, CicLAvia, and the redevelopment of Pershing Square. WAG. will provide design and marketing services (branding, logos, flyers, etc.) for the league expansions.
 empty_column_1: ''
+youtube_video_identifier: aKgBQ7XR-pg
 project_areas:
   - CENTRAL LA
   - EAST LA

@@ -1,6 +1,7 @@
 ---
 organization_id: '2013135'
-project_image: 'http://maker.good.is/myla2050/projects/mindsonfire.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16654%252Fdisplay%252FSlide1.jpg=c570x385
 project_id: '3102075'
 title: Building A Community of Leaders One Middle School Student at a Time
 indicator: ' Education'
@@ -303,6 +304,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   function at the highest possible level —  so teachers, community members,
   parents and students together can foster an excitement for learning.
 year_submitted: 2013
+maker_image_id: '16654'
+maker_image_file_name: Slide1.jpg
 body_class: strawberry
 
 ---

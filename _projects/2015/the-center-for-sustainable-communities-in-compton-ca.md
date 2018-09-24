@@ -133,6 +133,10 @@ How do you plan to scale the success of your proposal?: >-
   resource needs of the Center and support the creation of new Centers in
   underserved communities.
 year_submitted: 2015
+maker_image_id: '23300'
+maker_image_file_name: CSC_1.JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23300%252Fdisplay%252FCSC_1.JPG=c570x385
 project_areas:
   - South LA
   - County of Los Angeles

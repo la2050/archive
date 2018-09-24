@@ -7,7 +7,8 @@ project_summary: >-
 category: live
 organization_id: '2014158'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22088%252Fdisplay%252FLINCOLN_STATUE.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   (1) Nutritional Information Pamphlets: The first step of the Four Seasons of
@@ -84,6 +85,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   factors.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '22088'
+maker_image_file_name: LINCOLN_STATUE.jpg
 project_areas:
   - LA COUNTY
 body_class: lime

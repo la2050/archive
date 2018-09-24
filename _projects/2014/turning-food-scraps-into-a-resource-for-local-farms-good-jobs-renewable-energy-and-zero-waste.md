@@ -9,7 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2014221'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20947%252Fdisplay%252F2014-07-30_13.28.02.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Imagine Los Angeles after a major earthquake. Experts predict that the biggest
@@ -76,6 +77,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    The keys to the success of this collaboration are open communication, mutual respect and a clear work plan. Ultimately, our shared commitment to the core goals of resilience and our shared vision of the potential of this project to bring positive change to the region underlie all of our interactions and will enable us to be successful.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20947'
+maker_image_file_name: 2014-07-30_13.28.02.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

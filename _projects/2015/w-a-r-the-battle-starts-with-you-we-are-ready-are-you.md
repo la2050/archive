@@ -68,6 +68,9 @@ How do you plan to scale the success of your proposal?: >-
   I'll be honest I don't understand this question but would be more than willing
   to discuss with someone once I understand the question.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/t3QQPi2pnEU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/t3QQPi2pnEU'
+youtube_video_identifier: t3QQPi2pnEU
 project_areas:
   - Central LA
   - East LA

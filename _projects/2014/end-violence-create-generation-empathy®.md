@@ -7,7 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2015190'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/generationempathy.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20714%252Fdisplay%252Fge.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   1. Develop and finalize Generation Empathy® curriculum, for several age
@@ -64,6 +65,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Roosevelt High School
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '20714'
+maker_image_file_name: ge.jpg
 project_areas:
   - SOUTH LA
   - LA COUNTY

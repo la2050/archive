@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014104'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/LAReality.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/dN0L0YMa39s'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Simply: we are expanding the scope of a proven project to benefit the entire
   city.
@@ -60,6 +60,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - keep the experience small and intimate - this makes it special and doesn't turn it into a circus
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: dN0L0YMa39s
 project_areas:
   - CENTRAL LA
   - EAST LA

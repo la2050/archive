@@ -129,6 +129,10 @@ How do you plan to scale the success of your proposal?: >-
    • We will host two alumni events in Year One and four events in Years Two and Three.
    • Migrate data and launch new software in the third and fourth quarters of Year One.
 year_submitted: 2015
+maker_image_id: '24065'
+maker_image_file_name: class_of_2016_selfie.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24065%252Fdisplay%252Fclass_of_2016_selfie.jpg=c570x385
 project_areas:
   - County of Los Angeles
 body_class: strawberry

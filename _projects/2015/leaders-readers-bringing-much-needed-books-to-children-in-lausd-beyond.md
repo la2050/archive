@@ -134,6 +134,9 @@ How do you plan to scale the success of your proposal?: >-
    
    • Narrowing the “achievement gap” leads to lower truancy rates and increases in confidence and academic achievement.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/OKuHAUhFKxk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/OKuHAUhFKxk'
+youtube_video_identifier: OKuHAUhFKxk
 project_areas:
   - County of Los Angeles
   - City of Los Angeles

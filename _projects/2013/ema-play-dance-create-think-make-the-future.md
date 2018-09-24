@@ -1,6 +1,7 @@
 ---
 organization_id: '2013060'
-project_image: 'http://maker.good.is/myla2050/projects/EMAPLAY.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385
 project_id: '3102123'
 title: 'EMA PLAY:  Dance Create Think Make the Future'
 indicator: Arts & Cultural Vitality
@@ -302,6 +303,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   like a SXSW, slowly building it out and showcasing the art and culture of our
   beloved Angelenos.
 year_submitted: 2013
+maker_image_id: '16296'
+maker_image_file_name: EMAHeader.jpg
 body_class: strawberry
 
 ---

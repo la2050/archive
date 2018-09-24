@@ -75,6 +75,9 @@ How do you plan to scale the success of your proposal?: >-
   programs and if we grow enough we would open other locations in the LA area to
   incorporate these programs and more. The sky is the limit!
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/JrkPrBnN4UI'
+youtube_video_identifier: JrkPrBnN4UI
 project_areas:
   - San Fernando Valley
 body_class: strawberry

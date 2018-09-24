@@ -7,7 +7,8 @@ project_summary: '1'
 category: create
 organization_id: '2018093'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/OpportunityFund.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20202%252Fdisplay%252FThe_Little_Machin.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Opportunity Fund's Food Truck Financing initiative will provide microloans to
@@ -68,6 +69,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    In addition to our unique collaboration with local food truck manufacturers, Opportunity Fund also partners with local bank branches, business services providers, and community organizations to identify small business owners who need access to financing.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '20202'
+maker_image_file_name: The_Little_Machin.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

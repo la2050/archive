@@ -83,6 +83,9 @@ How do you plan to scale the success of your proposal?: >-
   well beyond high schools in the city of Los Angeles. At this point, we're
   excited to take it one step at a time.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/UYdxlEZVaNA'
+youtube_video_identifier: UYdxlEZVaNA
 project_areas:
   - Central LA
   - East LA

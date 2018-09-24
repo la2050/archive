@@ -115,6 +115,9 @@ How do you plan to scale the success of your proposal?: >-
    
    Winning the LA2050 grant will provide seed money for the coordination of partners with this program and producing the prototype garden. In addition to the treasure, winning the LA2050 grant offers opportunities for counsel and potential partnerships with your advisors and their time, talents and resources as well. It would be an honor to work with you to help make LA a better place to play in the most livable, educational, connecting and creative senses of the word! Thanks for the opportunity to share our project and ideas with the public!
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/1Qmy2pX9eEo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/1Qmy2pX9eEo'
+youtube_video_identifier: 1Qmy2pX9eEo
 project_areas:
   - Central LA
   - San Fernando Valley

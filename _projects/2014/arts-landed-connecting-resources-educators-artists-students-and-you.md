@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2016126'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/ArtsLANDed.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/enLi01MVXnc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/enLi01MVXnc'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Arts LANDed is a neighborhood-based artist-in-residence program at local
   schools & an ongoing event resource aggregator/mapping website for teachers &
@@ -95,6 +95,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors that are critical to the success of these collaborations are: 1.Institution’s willingness to participate in the program, in addition to other educational programs in place 2. Athletics’ ability to aggregate all relevant arts listings 3. LAUSD’s openness to integrating this program into existing curricula
 empty_column_1: ''
+youtube_video_identifier: enLi01MVXnc
 project_areas:
   - CENTRAL LA
   - EAST LA

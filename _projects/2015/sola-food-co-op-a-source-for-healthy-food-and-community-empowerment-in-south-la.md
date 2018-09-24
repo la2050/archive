@@ -96,6 +96,9 @@ How do you plan to scale the success of your proposal?: >-
   toward hiring a general manager,designing and equipping the store, obtaining
   inventory,and opening.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/fi31RJKyr4I/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/fi31RJKyr4I'
+youtube_video_identifier: fi31RJKyr4I
 project_areas:
   - South LA
 body_class: strawberry

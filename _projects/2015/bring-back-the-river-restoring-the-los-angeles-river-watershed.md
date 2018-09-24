@@ -99,6 +99,9 @@ How do you plan to scale the success of your proposal?: >-
   USCAE's plan. We also want build enough capacity at our nursery to provide
   regionally adapted native plants for restoration.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/ffK1mzyzUPE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ffK1mzyzUPE'
+youtube_video_identifier: ffK1mzyzUPE
 project_areas:
   - County of Los Angeles
 body_class: strawberry

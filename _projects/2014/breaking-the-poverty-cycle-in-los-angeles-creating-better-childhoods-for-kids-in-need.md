@@ -9,7 +9,8 @@ project_summary: >-
 category: live
 organization_id: '2015130'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20955%252Fdisplay%252Falg-babybuggy-jpg.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The implementation strategy involves a year-round semester-based curriculum
@@ -106,6 +107,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3-Funding (Hmm...)
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20955'
+maker_image_file_name: alg-babybuggy-jpg.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

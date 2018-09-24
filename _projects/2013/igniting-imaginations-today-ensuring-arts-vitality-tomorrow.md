@@ -1,6 +1,6 @@
 ---
 organization_id: '2015113'
-project_image: 'http://maker.good.is/myla2050/projects/LEVITT.html'
+project_image: 'https://img.youtube.com/vi/Zh5iBVuawU4/maxresdefault.jpg'
 project_id: '3102179'
 title: Igniting Imaginations Today Ensuring Arts Vitality Tomorrow
 indicator: Arts & Cultural Vitality
@@ -303,6 +303,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   and engaged. This appreciation and understanding will translate into the arts
   playing a prominent role in our city’s vitality.
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/Zh5iBVuawU4'
+youtube_video_identifier: Zh5iBVuawU4
 body_class: strawberry
 
 ---

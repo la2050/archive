@@ -1,6 +1,7 @@
 ---
 organization_id: '2013094'
-project_image: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385
 project_id: '3102057'
 title: Organizing Social Enterprise Urban Farm in South Los Angeles
 indicator: ' Income & Employment'
@@ -389,6 +390,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   neighborhoods and healthy, thriving children are learning and increasingly
   attending higher education institutions. 
 year_submitted: 2013
+maker_image_id: '16812'
+maker_image_file_name: Logo_Color_Large2.png
 body_class: strawberry
 
 ---

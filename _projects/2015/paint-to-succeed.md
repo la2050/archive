@@ -55,6 +55,9 @@ How do you plan to scale the success of your proposal?: >-
   will provide a template for the community to go on an create more public art
   projects.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/s-SSOCwgWEs/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/s-SSOCwgWEs'
+youtube_video_identifier: s-SSOCwgWEs
 project_areas:
   - County of Los Angeles
 body_class: blueberry

@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014071'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22152%252Fdisplay%252FImage_for_Good.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Nothing connects Los Angelenos more than our mobile phones. They are
@@ -63,6 +64,8 @@ Whom will your project benefit? Please be specific.: >-
    
    *Bennie Mayberry, founder of Positive Minded People, has 6 years experience working in large scale, multi-million dollar online advertising campaigns for large brands including the marketing of top Apple and Android apps. As the founder of Positive Minded People, he also has a one-on-one understanding of what helps mobilize people to volunteer having served as coordinator of 60+ volunteer based events. These experiences coupled together make for a great combination for long term success.
 empty_column_1: ''
+maker_image_id: '22152'
+maker_image_file_name: Image_for_Good.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

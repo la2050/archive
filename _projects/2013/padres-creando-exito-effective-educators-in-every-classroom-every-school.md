@@ -1,6 +1,7 @@
 ---
 organization_id: '2013006'
-project_image: 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16427%252Fdisplay%252FIMG_5905.JPG=c570x385
 project_id: '3102012'
 title: 'Padres Creando Exito: Effective educators in every classroom every school  '
 indicator: ' Education'
@@ -189,6 +190,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   the public dialogue about educational issues that matter to everyone and can
   be relatable by anyone. 
 year_submitted: 2013
+maker_image_id: '16427'
+maker_image_file_name: IMG_5905.JPG
 body_class: strawberry
 
 ---

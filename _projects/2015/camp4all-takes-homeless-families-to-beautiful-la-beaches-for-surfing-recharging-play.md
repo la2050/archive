@@ -85,6 +85,10 @@ How do you plan to scale the success of your proposal?: >-
   be amazing to replicate it in Ventura County as well, eventually, and to also
   add more camps during the Spring season.
 year_submitted: 2015
+maker_image_id: '23533'
+maker_image_file_name: Great-Group-Camp4All-Beach-Photo-2014.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23533%252Fdisplay%252FGreat-Group-Camp4All-Beach-Photo-2014.jpg=c570x385
 project_areas:
   - Central LA
   - East LA

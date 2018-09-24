@@ -1,7 +1,7 @@
 ---
 organization_id: '2014048'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16935%252Fdisplay%252FFaces_Installation.jpg=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22303%252Fdisplay%252FFaces_Installation.jpg=c570x385
 project_id: '3102173'
 title: 'Arts & Culture Infrastructure Initiative '
 indicator: Arts & Cultural Vitality
@@ -300,7 +300,7 @@ What would success look like in the year 2050 regarding your indicator?: >-
   sector grow economically and culturally to inspire all of America and the
   world.</p>
 year_submitted: 2013
-maker_image_id: '16935'
+maker_image_id: '22303'
 maker_image_file_name: Faces_Installation.jpg
 body_class: strawberry
 

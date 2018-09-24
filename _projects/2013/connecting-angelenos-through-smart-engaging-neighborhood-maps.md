@@ -1,6 +1,7 @@
 ---
 organization_id: '2013109'
-project_image: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16991%252Fdisplay%252Flasmartmap3.jpg=c570x385
 project_id: '3102066'
 title: Connecting Angelenos Through Smart Engaging Neighborhood Maps
 indicator: ' Social Connectedness'
@@ -207,6 +208,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   current topics that if cultivated could result in creating a higher, local
   consciousness. Technology is a tool to further us along this path. 
 year_submitted: 2013
+maker_image_id: '16991'
+maker_image_file_name: lasmartmap3.jpg
 body_class: strawberry
 
 ---

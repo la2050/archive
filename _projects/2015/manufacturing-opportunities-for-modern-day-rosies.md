@@ -108,6 +108,9 @@ How do you plan to scale the success of your proposal?: >-
    Regional transportation agencies such as LA Metro, Metrolink, Long Beach transit, California High Speed Rail and a new high speed rail line between LA and Las Vegas have projected many billions of dollars’ worth of projects for which there will be RFPs for manufacturers over the next 10-20 years. We will continue to work with these agencies to ensure that recruitment, training, hiring & support for women workers will be a priority in each of these RFPs. Overall, we believe that, with a strong program, LA can continue to attract and retain large bus, railcar and related parts factories to the LA region and create a model, modern manufacturing sector that reflects the values of inclusion and diversity that are part of the LA 2050 plan.
    While hiring and inclusion of women in major industries has been a renewed topic of conversation in major media, that discussion has primarily focused on hiring of professional women and support for women in executive positions. The fact that women are so unwelcome and excluded from LA’s heavy manufacturing workforce (where jobs tend to be better than in the growing retail, service and food processing sectors) is seldom discussed in the media or in the halls of political power. The reality is that women have to muster huge courage to apply to be welders and electricians in LA factories in the face of so much prejudice and harassment. That is why the Modern Rosies project is a crucial component of an agenda for a progressive LA future and will continue to grow in LA and around the country,
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/XYSInTxuZyU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/XYSInTxuZyU'
+youtube_video_identifier: XYSInTxuZyU
 project_areas:
   - Central LA
   - East LA

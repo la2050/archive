@@ -1,6 +1,6 @@
 ---
 organization_id: '2014159'
-project_image: 'http://maker.good.is/myla2050/projects/ehubb.html'
+project_image: 'https://img.youtube.com/vi/EU-tF61LXK8/maxresdefault.jpg'
 project_id: '3102160'
 title: The Beacon Network presented by Jovenes Inc.
 indicator: ' Social Connectedness'
@@ -201,6 +201,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   connection through voting, volunteering, raising the voices and aspirations of
   our youth.</p>
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/EU-tF61LXK8'
+youtube_video_identifier: EU-tF61LXK8
 body_class: strawberry
 
 ---

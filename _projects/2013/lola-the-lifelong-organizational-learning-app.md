@@ -1,6 +1,7 @@
 ---
 organization_id: '2013095'
-project_image: 'http://maker.good.is/myla2050/projects/KCARUSO.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16476%252Fdisplay%252FApptalk.JPG=c570x385
 project_id: '3102062'
 title: LOLA the Lifelong Organizational Learning App
 indicator: ' Education'
@@ -375,6 +376,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+maker_image_id: '16476'
+maker_image_file_name: Apptalk.JPG
 body_class: strawberry
 
 ---

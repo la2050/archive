@@ -1,6 +1,7 @@
 ---
 organization_id: '2015144'
-project_image: 'http://maker.good.is/myla2050/projects/Project10.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16459%252Fdisplay%252FSnapshot_N.jpg=c570x385
 project_id: '3102204'
 title: 'Project 10: Tithing Urban Harvests Growing Community Food Security'
 indicator: ' Environmental Quality'
@@ -429,6 +430,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   organizations, pantries, food justice organizations, workforce development,
   and local government collaborators) to advance this vision.</p>
 year_submitted: 2013
+maker_image_id: '16459'
+maker_image_file_name: Snapshot_N.jpg
 body_class: strawberry
 
 ---

@@ -91,6 +91,10 @@ How do you plan to scale the success of your proposal?: >-
    3. Reach out to the wider school system and invite schools to apply to the program.
    4. Publish the results of the program so other schools are aware of the program.
 year_submitted: 2015
+maker_image_id: '23476'
+maker_image_file_name: IMG_8796_(2).JPG
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23476%252Fdisplay%252FIMG_8796_(2).JPG=c570x385
 project_areas:
   - Westside
 body_class: strawberry

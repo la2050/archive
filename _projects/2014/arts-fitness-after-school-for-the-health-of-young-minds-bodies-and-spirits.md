@@ -7,8 +7,8 @@ project_summary: >-
 category: play
 organization_id: '2014106'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/GzEz6Q-9lWQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/GzEz6Q-9lWQ'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   “Electricity is really just organized lightning.” - George Carlin
    
@@ -66,6 +66,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    -Weekly check-ins of key leaders for each group
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: GzEz6Q-9lWQ
 project_areas:
   - SOUTH LA
 body_class: strawberry

@@ -7,8 +7,8 @@ project_summary: ''
 category: learn
 organization_id: '2014141'
 year_submitted: 2014
-project_image: ''
-project_video: ''
+project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/q2OELc_KuI4'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   CCGI helps 6th-12th grade students develop a career aspiration, and then plan,
   prepare and figure out how to pay for college.
@@ -69,6 +69,7 @@ Whom will your project benefit? Please be specific.: >-
    
    3) We have initial conversations underway with LAUSD's Director of Secondary Education, Gerardo Loera, as well as local superintendent Bravo (ESC South), to pilot the use of CCGI tools in their high schools.
 empty_column_1: ''
+youtube_video_identifier: q2OELc_KuI4
 project_areas:
   - SOUTH BAY
 body_class: blueberry

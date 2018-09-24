@@ -137,6 +137,10 @@ How do you plan to scale the success of your proposal?: >-
   L.A. social work staff, and increasing our outreach and community building
   activities.
 year_submitted: 2015
+maker_image_id: '23674'
+maker_image_file_name: Image.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23674%252Fdisplay%252FImage.jpg=c570x385
 project_areas:
   - County of Los Angeles
 body_class: strawberry

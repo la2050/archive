@@ -7,7 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2015008'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/communityambassadors.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21941%252Fdisplay%252Fcommunity_ambassdor_graphic_button_graphic.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We also believe in the power of Angelenos to shape the future of our region.
@@ -83,6 +84,8 @@ Whom will your project benefit? Please be specific.: >-
   continual dialogue about best practices; and exchange of ideas, promotion and
   training programs.
 empty_column_1: ''
+maker_image_id: '21941'
+maker_image_file_name: community_ambassdor_graphic_button_graphic.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

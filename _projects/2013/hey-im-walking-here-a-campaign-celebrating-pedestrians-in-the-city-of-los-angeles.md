@@ -1,6 +1,6 @@
 ---
 organization_id: '2013126'
-project_image: 'http://maker.good.is/myla2050/projects/LAwalks.html'
+project_image: 'https://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg'
 project_id: '3102190'
 title: >-
   “Hey I’m Walking Here!”: A Campaign Celebrating Pedestrians in the City of Los
@@ -444,6 +444,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   move to dense parts of the city to age in place without a loss of
   independence.</p>
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/hHXkL2SbXI8'
+youtube_video_identifier: hHXkL2SbXI8
 body_class: strawberry
 
 ---

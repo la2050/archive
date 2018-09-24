@@ -1,6 +1,6 @@
 ---
 organization_id: '2018068'
-project_image: 'http://maker.good.is/myla2050/projects/liftcommunities.html'
+project_image: 'https://img.youtube.com/vi/jn079WdXzRI/maxresdefault.jpg'
 project_id: '3102181'
 title: >-
   LIFTing up Constituent Voice to positively impact poverty perception practice
@@ -394,6 +394,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/jn079WdXzRI'
+youtube_video_identifier: jn079WdXzRI
 body_class: strawberry
 
 ---

@@ -152,6 +152,10 @@ How do you plan to scale the success of your proposal?: >-
    
    By tracking how many Metro LAACE Art Discount Cards have been purchased, we will be able to assess the popularity of the card itself and also how it is being used.
 year_submitted: 2015
+maker_image_id: '23739'
+maker_image_file_name: LAACE.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385
 project_areas:
   - San Fernando Valley
 body_class: strawberry

@@ -9,8 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2014107'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/HVOvMO9t6Gk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/HVOvMO9t6Gk'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   We have already secured a leased space for the market, cafe, and our offices
   to be located, have a staff team who are finishing the market and cafe's
@@ -48,6 +48,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    - Use Homeboy as a resource for employing members coming out of their programs
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+youtube_video_identifier: HVOvMO9t6Gk
 project_areas:
   - LA COUNTY
 body_class: banana

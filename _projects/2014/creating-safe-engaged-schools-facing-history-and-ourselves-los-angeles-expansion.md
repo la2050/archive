@@ -9,8 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2015061'
 year_submitted: 2014
-project_image: ''
-project_video: ''
+project_image: 'https://img.youtube.com/vi/gVgLoJrhRj8/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/gVgLoJrhRj8'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Facing History reaches students through their teachers, providing professional
   development (PD) to help middle and high school educators explore issues such
@@ -72,6 +72,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Facing History is investing significantly in a core group of exemplary Facing History educators to serve as mentors for other teachers in Los Angeles. Teacher leaders are early adopters in piloting Facing History’s new resources, and are instrumental in supporting liaisons from the Los Angeles Partnership Network. Collaboration with our teacher leaders is a critical factor in helping Facing History respond to the needs of teachers, build stronger school-wide programs, and continue expanding to more urban schools.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: gVgLoJrhRj8
 project_areas:
   - CENTRAL LA
   - EAST LA

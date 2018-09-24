@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014063'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/JVyDVToMVoo'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   ART CITY LA will be implemented in the following ways:
    
@@ -95,6 +95,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    These encouraging comments attest to a strong interest in the value of a global program such as ART CITY LA, which if chosen as an LA2050 Grant Challenge winner will offer these institutions and others full opportunity to participate in empowering LA County residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: JVyDVToMVoo
 project_areas:
   - CENTRAL LA
   - WESTSIDE

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013097'
-project_image: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+project_image: 'https://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg'
 project_id: '3102156'
 title: LA the capital of mindfulness in 2050
 indicator: ' Health'
@@ -167,6 +167,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   leads to a drastic decrease in chronic disease, a more functional and solvent
   health system, and longer, more productive, healthier lives.
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/lLS50WusJa4'
+youtube_video_identifier: lLS50WusJa4
 body_class: strawberry
 
 ---

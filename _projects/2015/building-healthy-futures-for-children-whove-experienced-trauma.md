@@ -128,6 +128,9 @@ How do you plan to scale the success of your proposal?: >-
    
    In September, CII achieved a milestone in Watts, unveiling plans for the future Campus, designed pro-bono by world-renowned architect Frank Gehry. CII will continue evaluating our Model’s effectiveness at reducing the symptoms of Adverse Childhood Experiences and we will bring the most successful aspects of this proposal to Watts.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/3AOHXhfJeho/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/3AOHXhfJeho'
+youtube_video_identifier: 3AOHXhfJeho
 project_areas:
   - Central LA
   - South LA

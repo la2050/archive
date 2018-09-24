@@ -99,6 +99,9 @@ How do you plan to scale the success of your proposal?: >-
    
    Because of the unique approach of community engagement through this project we have begun to identify other foundations that have this as their funding priorities such as the James Irvine Foundation and their Exploring Engagement Fund Grant. We also hope that this project can be a catalyst to bring together many more collaborators around Los Angeles who are doing great work around poetry and expand the partnership to potentially develop a city-wide crowdsourcing campaign to expand the work to a larger scale.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/gX3uzlinkXc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/gX3uzlinkXc'
+youtube_video_identifier: gX3uzlinkXc
 project_areas:
   - County of Los Angeles
   - City of Los Angeles

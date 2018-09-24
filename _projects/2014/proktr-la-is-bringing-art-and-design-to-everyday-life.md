@@ -7,8 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014072'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/_-Xf6dKy4no/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/_-Xf6dKy4no'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   The project will be unrolled in 3 phases:
    
@@ -95,6 +95,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Though there are no other confirmed partnerships, warm relationships have been developed through the current production of Protkr at museums such as MOCA, LACMA, The Hammer, SMMOA, PMCA, The Huntington, The Broad and at many galleries in the city. Through these relationships we hope to establish long term partners, advisory board members, and potential editorial contributors.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: _-Xf6dKy4no
 project_areas:
   - CENTRAL LA
   - EAST LA

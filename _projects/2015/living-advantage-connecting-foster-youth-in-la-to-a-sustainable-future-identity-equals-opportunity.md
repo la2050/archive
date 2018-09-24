@@ -127,6 +127,9 @@ How do you plan to scale the success of your proposal?: |-
    Decrease unemployment rates after 24 months foster youth age of out the system
    Qualitative measures in foster youth behavior and service program outcomes.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/1_UXQ2fFeSU/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/1_UXQ2fFeSU'
+youtube_video_identifier: 1_UXQ2fFeSU
 project_areas:
   - Central LA
   - East LA

@@ -96,6 +96,9 @@ How do you plan to scale the success of your proposal?: >-
   individual classes and services can be tailored to meet the specific needs of
   the communities in which new centers may open.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/wmExJ7xdKYc/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/wmExJ7xdKYc'
+youtube_video_identifier: wmExJ7xdKYc
 project_areas:
   - South Bay
   - County of Los Angeles

@@ -9,8 +9,8 @@ project_summary: >-
 category: create
 organization_id: '2014025'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/deafwest.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/n__7obsdA8E/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/n__7obsdA8E'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Deaf West Theatre will establish a 3-5 production per year subscription
   season. Productions will be developed and performed at this location and
@@ -109,6 +109,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Until a residency agreement with any organization is finalized, our budget does not assume financial obligation (cash or in-kind) from any potential partner.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: n__7obsdA8E
 project_areas:
   - CENTRAL LA
   - EAST LA

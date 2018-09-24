@@ -126,6 +126,9 @@ How do you plan to scale the success of your proposal?: >-
   podcasts and Skype modes of communication to allow for mentorship of many
   students.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/5paOc34oG84/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/5paOc34oG84'
+youtube_video_identifier: 5paOc34oG84
 project_areas:
   - San Fernando Valley
   - Westside

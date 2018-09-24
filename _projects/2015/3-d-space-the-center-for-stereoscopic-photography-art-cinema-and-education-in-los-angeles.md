@@ -111,6 +111,9 @@ How do you plan to scale the success of your proposal?: >-
   partnership with other arts and science organizations and local school
   districts and colleges.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/sMiWY0aFpkk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/sMiWY0aFpkk'
+youtube_video_identifier: sMiWY0aFpkk
 project_areas:
   - Central LA
   - San Fernando Valley

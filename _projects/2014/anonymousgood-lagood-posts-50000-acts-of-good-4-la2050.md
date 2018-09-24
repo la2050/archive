@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014006'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/xzNGKe7E2iE/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/xzNGKe7E2iE'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Imagine a city where people actually look for ways to help one another. It’s a
   happier, healthier, more connected, safer feeling place. A place you’d be
@@ -118,6 +118,7 @@ Whom will your project benefit? Please be specific.: >-
    • LA Gov’t- target elected official’s constituent relations first so Acts of Good being done in government are surfaced. Post 250 
    • LA-based brand sponsorship is central to paying it forward with our Allies4Good
 empty_column_1: ''
+youtube_video_identifier: xzNGKe7E2iE
 project_areas:
   - CENTRAL LA
   - EAST LA

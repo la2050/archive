@@ -9,8 +9,8 @@ project_summary: >-
 category: learn
 organization_id: '2015065'
 year_submitted: 2014
-project_image: ''
-project_video: ''
+project_image: 'https://img.youtube.com/vi/0cwVt7tDN_c/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/0cwVt7tDN_c'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   FLY will send our Creator/ Director, Haley Dawn, to lead large staff trainings
   for LA's BEST Enrichment Program staff. We will send teaching artists to
@@ -70,6 +70,7 @@ How will your idea/project help make LA the best place to connect today? In LA20
    3. LA's BEST's assistance in measuring our goals through surveys, student and staff testimonials, and on site observations throughout the school year.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+youtube_video_identifier: 0cwVt7tDN_c
 project_areas:
   - CENTRAL LA
   - EAST LA

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013046'
-project_image: 'http://maker.good.is/myla2050/projects/creoutreach.html'
+project_image: 'https://img.youtube.com/vi/pp9oh64x-9Y/maxresdefault.jpg'
 project_id: '3102095'
 title: Transforming Lives One Show at a Time
 indicator: Arts & Cultural Vitality
@@ -112,6 +112,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   partnership with the VA, the Los Angeles performing arts community will help
   veterans successfully transition from combat into society.
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/pp9oh64x-9Y'
+youtube_video_identifier: pp9oh64x-9Y
 body_class: strawberry
 
 ---

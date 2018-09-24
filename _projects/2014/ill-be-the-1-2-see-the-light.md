@@ -5,7 +5,8 @@ project_summary: Service learning programs that matter for secondary students & 
 category: learn
 organization_id: '2014154'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21338%252Fdisplay%252FIBT1student.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   Through service learning educational programs, student made documentary films,
@@ -66,6 +67,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
    Three factors critical to the success of our collaboration: 1) regular and open communication. Not a lot of institutions are used to working in such a collaborative and innovative way. There’s a lot of disconnects and “re-invent the wheel” stuff in the non-profit world and entertainment industry here. By putting the focus on the youth and not on any one organization, we give the power over to the people and encourage a much higher level of organization. There’s a learning curve in and of itself in this collaboration. We are staffed at IBT1 with experts in empowerment and leadership training and fully intend to have one of the first things we do to be to inculcate the collaborating partners into our new model of thinking. We need to walk our talk for it to work. In addition, we are staffed amply to do regular follow up with our partners and support a regular open flow of communication clearly. 2) acknowledgment for the system as it currently works. We do have our feet on the ground, even if our vision is to shoot for the stars, so to speak. We know we have to be palatable to the schools learning agenda, especially with standardized testing, so we are partnering with CREEC to ensure we are doing this in a way that’s approachable enough for the schools that they’re able to fit it in their scheduling. 3) a clear plan. High level collaborations are awesome, but they need clear strategy and direction. Through the discipline comes the freedom. We have big goals, but they start with small strategic steps. We have very clear game plans about who to engage in year one, and what we need from who to make this work. We constantly re-evaluate and course correct, but are savvy to the need for specific and measurable benchmark goals, especially in the early stages of partnerships until a more naturalorganic rhythm starts to unfold.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '21338'
+maker_image_file_name: IBT1student.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

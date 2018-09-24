@@ -7,7 +7,8 @@ project_summary: >-
 category: learn
 organization_id: '2014227'
 year_submitted: 2014
-project_image: ''
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21934%252Fdisplay%252FPatch_2.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   The Soft Studio aims to be the nexus of collaboration between Los Angeles
@@ -60,6 +61,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   entrepreneurs.
 Whom will your project benefit? Please be specific.: ''
 empty_column_1: ''
+maker_image_id: '21934'
+maker_image_file_name: Patch_2.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

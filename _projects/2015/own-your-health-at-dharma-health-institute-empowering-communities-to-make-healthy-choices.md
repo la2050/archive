@@ -112,6 +112,9 @@ How do you plan to scale the success of your proposal?: >-
    
    For us as an organization, we will assess success by having the opportunity to provide integrative health services to a wider population and offer the community at large an opportunity to learn strategies and techniques to live a healthier, a more productive life and be empowered to make health decisions based on the knowledge they receive.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/yP9QgOVBaYA/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/yP9QgOVBaYA'
+youtube_video_identifier: yP9QgOVBaYA
 project_areas:
   - Westside
   - South Bay

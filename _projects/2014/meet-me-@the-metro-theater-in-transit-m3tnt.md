@@ -7,8 +7,8 @@ project_summary: >-
 category: connect
 organization_id: '2014019'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
-project_video: ''
+project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/-MVQfBjaOS0'
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   M3TNT is a community based arts project performed on the Metro Gold line. It
   is the most innovative transit-oriented “Happening” in Los Angeles, featuring
@@ -103,6 +103,7 @@ Whom will your project benefit? Please be specific.: >-
    
    Three factors that are critical to the success of our proposed collaboration with new collaborators are experience with site-specific work, availability of artists and coordination of scheduling. When it comes to non-confirmed collaborators who have not experienced the power of transit-oriented site-specific work these three factors often come up.
 empty_column_1: ''
+youtube_video_identifier: '-MVQfBjaOS0'
 project_areas:
   - CENTRAL LA
   - EAST LA

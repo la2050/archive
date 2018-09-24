@@ -76,8 +76,38 @@ function getRandomInt(min, max) {
 }
 
 
+// KUDOS: https://stackoverflow.com/questions/13006556/check-if-two-strings-share-a-common-substring-in-javascript
+// Note: not fully tested, there may be bugs:
+function subCompare (needle, haystack, min_substring_length) {
+
+    // Min substring length is optional, if not given or is 0 default to 1:
+    min_substring_length = min_substring_length || 1;
+
+    // Search possible substrings from largest to smallest:
+    for (let i=needle.length; i>=min_substring_length; i--) {
+        for (let j=0; j <= (needle.length - i); j++) {
+            let substring = needle.substr(j,i);
+            let k = haystack.indexOf(substring);
+            if (k != -1) {
+                return {
+                    found : 1,
+                    substring : substring,
+                    needleIndex : j,
+                    haystackIndex : k
+                }
+            }
+        }
+    }
+    return {
+        found : 0
+    }
+}
+
+
+
 let makerProjectAnswersLookup
-const test_id = null //"8115"
+// const test_id = null
+const test_id = 8272
 
 function getMakerProject(data) {
   // console.log("getMakerProject")
@@ -87,7 +117,7 @@ function getMakerProject(data) {
     makerProjectAnswersLookup = {}
     makerProjectAnswers.forEach(answer => {
       // if (answer.project_id == 9541) console.dir(answer)
-      if (answer.project_id == test_id) console.log("Adding an answer index for Alliance for a Better Community, 8115")
+      if (answer.project_id == test_id) console.log("Adding an answer index for test_id: " + test_id)
       if (!makerProjectAnswersLookup[answer.project_id]) {
         makerProjectAnswersLookup[answer.project_id] = {}
       }
@@ -100,7 +130,7 @@ function getMakerProject(data) {
   let match
   makerProjects.forEach(project => {
     if (project.id == test_id) {
-      console.log("Checking to see if project matches Alliance for a Better Community, 8115")
+      console.log("Checking to see if project matches test_id: " + test_id)
       console.log("makerProjectAnswersLookup[project.id]: " + makerProjectAnswersLookup[project.id])
       console.dir(makerProjectAnswersLookup[project.id])
     }
@@ -125,23 +155,47 @@ function getMakerImage(data) {
   if (!makerImagesLookup) {
     makerImagesLookup = {}
     makerImages.forEach(image => {
-      if (image.project_id == test_id) console.log("Adding an image index for Alliance for a Better Community, 8115")
-
+      if (image.project_id == test_id) console.log("Adding an image index for test_id: " + test_id)
 
       if (!makerImagesLookup[image.project_id]) {
         makerImagesLookup[image.project_id] = {}
       }
       makerImagesLookup[image.project_id][image.type] = image
     })
+    console.log("makerImagesLookup[test_id]: ")
+    console.dir(makerImagesLookup[test_id])
   }
 
   // console.log("getMakerImage")
   // let project = getMakerProject(data)
 
+
   let project
   makerProjects.forEach(item => {
-    if (item.name == data.title) {
+    if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
+      console.log("Comparing title and name for: " + test_id)
+      console.log("item.name.trim(): " + item.name.trim())
+      console.log("data.title.trim(): " + data.title.trim())
+      console.log("item.name.trim() == data.title.trim(): " + item.name.trim() == data.title.trim())
+      console.log(`item.name.toLowerCase().replace(/\,/g, "").trim() : ${item.name.toLowerCase().replace(/\,/g, "").trim()}`)
+      console.log(`data.title.toLowerCase().replace(/\,/g, "").trim(): ${data.title.toLowerCase().replace(/\,/g, "").trim()}`)
+      console.log('item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim(): ' + 
+        item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim())
+      let comparison = item.name.toLowerCase().replace(/\,/g, "").trim() ==
+                       data.title.toLowerCase().replace(/\,/g, "").trim()
+      console.log(`comparison = ${comparison}`)
+    }
+
+    // const similarity = 3
+    // let compare = subCompare(item.name, data.title, similarity)
+    //if (item.name.trim() == data.title.trim()) {
+    if (item.name.toLowerCase().replace(/\,/g, "").trim() == data.title.toLowerCase().replace(/\,/g, "").trim()) {
       project = item
+      if (data.title.indexOf("1000 Mentors") >= 0 && item.name.indexOf("1,000 Mentors") >= 0) {
+        console.log(`project`)
+        console.dir(project)
+      }
+      
     }
   })
 
@@ -318,7 +372,7 @@ function createMarkdownFile(data) {
   }
 
 
-  console.log('createMarkdownFile for ' + data.title)
+  // console.log('createMarkdownFile for ' + data.title)
   let writePath = '../_projects/' + data.year_submitted
 
   let filename = stringToURI(data.title)
@@ -337,7 +391,7 @@ function createMarkdownFile(data) {
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
-      if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
+      if (data.organization_name == "826LA") console.log("Looking for image for 826LA: " + data.year_submitted + " : " + data.title)
       let match = getMakerImage(data)
       if (match && match.image) {
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385

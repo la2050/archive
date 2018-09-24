@@ -1,6 +1,6 @@
 ---
 organization_id: '2013182'
-project_image: 'http://maker.good.is/myla2050/projects/ihaveadream.html'
+project_image: 'https://img.youtube.com/vi/CEGvQC5fAns/maxresdefault.jpg'
 project_id: '3102243'
 title: >-
   From Dream to Reality: IHADLA Will Help to Stop The Cycle of Poverty in Los
@@ -407,6 +407,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/CEGvQC5fAns'
+youtube_video_identifier: CEGvQC5fAns
 body_class: strawberry
 
 ---

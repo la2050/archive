@@ -106,6 +106,9 @@ How do you plan to scale the success of your proposal?: |-
    
    - Seek additional funding sources to support the internship match and course component.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/UNbHPa1n2g4/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/UNbHPa1n2g4'
+youtube_video_identifier: UNbHPa1n2g4
 project_areas:
   - East LA
   - County of Los Angeles

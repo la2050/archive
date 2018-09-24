@@ -96,6 +96,10 @@ How do you plan to scale the success of your proposal?: >-
   and replicable guide for implementing creative service-learning into all
   aspects of an enhanced curriculum.
 year_submitted: 2015
+maker_image_id: '23605'
+maker_image_file_name: FullSizeRender-2.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23605%252Fdisplay%252FFullSizeRender-2.jpg=c570x385
 project_areas:
   - San Gabriel Valley
 body_class: blueberry

@@ -7,7 +7,8 @@ project_summary: >-
 category: create
 organization_id: '2014098'
 year_submitted: 2014
-project_image: 'http://maker.good.is/myLA2050create/projects/WCCW.html'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20805%252Fdisplay%252F1525354_1412741148965740_1670155225_n.jpg=c570x385
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   In many ways the Women’s Center for Creative Work is well underway! We have a
@@ -52,6 +53,8 @@ How will your idea/project help make LA the best place to connect today? In LA20
   identified yet.
 Whom will your project benefit? Please be specific.: '1'
 empty_column_1: ''
+maker_image_id: '20805'
+maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 project_areas:
   - CENTRAL LA
   - EAST LA

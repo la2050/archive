@@ -115,6 +115,10 @@ How do you plan to scale the success of your proposal?: >-
   and on the spot conversation of buyer preferences and requests. Feedback will
   also be solicited from Paleteras regarding public comments, and impressions.
 year_submitted: 2015
+maker_image_id: '23623'
+maker_image_file_name: Marsh_Park_Launch_Denice_Bike_.jpg
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23623%252Fdisplay%252FMarsh_Park_Launch_Denice_Bike_.jpg=c570x385
 project_areas:
   - Central LA
   - East LA

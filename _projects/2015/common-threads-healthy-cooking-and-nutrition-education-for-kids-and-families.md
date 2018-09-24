@@ -123,6 +123,9 @@ How do you plan to scale the success of your proposal?: >-
    
    This fall, we are piloting CommonBytes in the Miami-Dade County Public Schools, with a national pilot –including in Los Angeles – planned for 2016. Overall, during the 2015-16 school year, we expect up to 5,000 kids to receive cooking and nutrition education through CommonBytes.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/teuTGnS3vkM/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/teuTGnS3vkM'
+youtube_video_identifier: teuTGnS3vkM
 project_areas:
   - County of Los Angeles
   - LAUSD

@@ -1,6 +1,6 @@
 ---
 organization_id: '2013198'
-project_image: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
+project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg'
 project_id: '3102110'
 title: >-
   At thrdPlace our idea for LA2050 is to provide the digital infrastructure for
@@ -431,6 +431,8 @@ What would success look like in the year 2050 regarding your indicator?: >+
 
 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/jUd4odIOyuc'
+youtube_video_identifier: jUd4odIOyuc
 body_class: strawberry
 
 ---

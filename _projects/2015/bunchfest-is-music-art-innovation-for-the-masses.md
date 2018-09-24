@@ -106,6 +106,9 @@ How do you plan to scale the success of your proposal?: |-
    
    The data collected during the first event will be used to program all future events.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/ByhCcHjp3FQ/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/ByhCcHjp3FQ'
+youtube_video_identifier: ByhCcHjp3FQ
 project_areas:
   - East LA
 body_class: blueberry

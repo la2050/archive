@@ -118,6 +118,9 @@ How do you plan to scale the success of your proposal?: >-
   will track the number of cities represented by considering a city
   “represented” when at least 30 matches are taking place in that city.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/dYGBRY6Ol30/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/dYGBRY6Ol30'
+youtube_video_identifier: dYGBRY6Ol30
 project_areas:
   - County of Los Angeles
 body_class: blueberry

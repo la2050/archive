@@ -1,6 +1,6 @@
 ---
 organization_id: '2013098'
-project_image: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_id: '3102157'
 title: Listening Communication and Conflict Resolution Skills for Los Angeles
 indicator: ' Social Connectedness'
@@ -42,6 +42,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   matter quickly and constructively.  A culture change would occur in our city,
   resulting in significantly fewer matters which result in violent behavior. 
 year_submitted: 2013
+project_video: 'https://www.youtube.com/embed/-wRfwMCYTHY'
+youtube_video_identifier: '-wRfwMCYTHY'
 body_class: strawberry
 
 ---

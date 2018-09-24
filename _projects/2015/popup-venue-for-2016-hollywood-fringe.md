@@ -101,6 +101,9 @@ How do you plan to scale the success of your proposal?: >-
    
    HFF will share findings and best practices with interested parties who wish to establish a pop up venue. Using these tools, producers and artists will be able to help lift up the dwindling theatrical spaces in the Hollywood area and revitalize the area.
 year_submitted: 2015
+project_image: 'https://img.youtube.com/vi/jqxMSN_U1Pk/maxresdefault.jpg'
+project_video: 'https://www.youtube.com/embed/jqxMSN_U1Pk'
+youtube_video_identifier: jqxMSN_U1Pk
 project_areas: []
 body_class: strawberry
 
