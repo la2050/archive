@@ -207,7 +207,7 @@ function getMakerImage(data) {
       }
     }
   } else {
-    console.log("couldn’t find image data for project: " + data.title)
+    console.log("couldn’t find image data for project: " + data.title + " : " + data.year_submitted + " : " + data.category + " : " + data.organization_name)
   }
 }
 
@@ -321,9 +321,47 @@ function addProjectAnswers(data) {
     // Find the project in markdownProjects that matches this data
       // If title is the same as one of the project titles
 
-    let project = markdownProjectsLookup[data.title.trim()]
+    let project
+    if (data.title == "`Activate So`uth Bay LA Trails!") {
+      console.log("testing Activate South Bay LA Trails!")
+    }
+    if (!data.category || !markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()]) {
+      categories.forEach(category => {
+        let candidate = markdownProjectsLookup[data.year_submitted][category][data.title.trim()]
+        if (candidate) {
+          if (data.title == "Activate South Bay LA Trails!") {
+            console.log("candidate matched")
+          }
+          project = candidate
+        }
+      })
+    } else {
+      project = markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()]
+      if (data.title.trim() == "Activate South Bay LA Trails!") {
+        console.log("---***--**")
+        console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
+        console.log("**--***---")
+        console.log(`data.year_submitted: ${data.year_submitted}`)
+        console.log(`data.category: ${data.category}`)
+        console.log(`data.title: ${data.title.trim()}`)
+        console.log("category exists and project found: " + project)
+        console.log(`here it is` + markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()])
+        console.log(markdownProjectsLookup[data.year_submitted])
+        console.log(markdownProjectsLookup[data.year_submitted][data.category])
+        console.log(markdownProjectsLookup[data.year_submitted][data.category][data.title.trim()])
+        console.log("data.title.trim(): " + data.title.trim())
+        console.dir(project)
+      }
+    }
+
     if (project) {
+      if (data.title == "Activate South Bay LA Trails!") {
+        console.log("project has a value")
+      }
       projectAnswers.forEach(answer => {
+        if (data.title == "Activate South Bay LA Trails!") {
+          console.log(answer)
+        }
         // if (project[answer] && !data[answer]) {
         if (project[answer]) {
           data[answer] = project[answer]
@@ -714,33 +752,50 @@ let makerProjectInput = fs.readFileSync('data/' + maker_projects, 'utf8')
 let makerProjects     = parse(makerProjectInput, {columns: true})
 
 
-// Load the markdown files
-
-
-
-
-let markdownProjects = []
-categories.forEach(category => {
-  let next = getRecords(`data/projects-2016-2018-markdown/_${category}`)
-  markdownProjects = markdownProjects.concat(next)
-})
-
 // Create an object for quick lookup
 let markdownProjectsLookup = {}
-markdownProjects.forEach(project => {
-  if (!markdownProjectsLookup[project.title.trim()]) {
-    markdownProjectsLookup[project.title.trim()] = project
-  }
-})
+
+function createLookup(year) {
+
+  // Load the markdown files
+  let records = {}
+  categories.forEach(category => {
+    let next = getRecords(`data/projects-${year}-markdown/_${category}`)
+    records[category] = next
+  })
+
+  markdownProjectsLookup[year] = {}
+  categories.forEach(category => {
+    if (!markdownProjectsLookup[year][category]) {
+      markdownProjectsLookup[year][category] = {}
+    }
+    records[category].forEach(project => {
+      if (project.title == "Activate South Bay LA Trails!") {
+        // console.dir(project)
+      }
+      if (!markdownProjectsLookup[year][category][project.title.trim()]) {
+        markdownProjectsLookup[year][category][project.title.trim()] = project
+      }
+    })
+  })
+
+}
+
+// createLookup(2016)
+createLookup(2018)
+
+console.log("********/*")
+console.dir(markdownProjectsLookup["2018"]["play"]["Activate South Bay LA Trails!"])
+console.log("********//*")
 
 
 
 
 generateAllCollections('projects-2018.csv', 2018)
-generateAllCollections('projects-2016.csv', 2016)
-generateAllCollections('projects-2015.csv', 2015)
-generateAllCollections('projects-2014.csv', 2014)
-generateAllCollections('projects-2013.csv', 2013)
+// generateAllCollections('projects-2016.csv', 2016)
+// generateAllCollections('projects-2015.csv', 2015)
+// generateAllCollections('projects-2014.csv', 2014)
+// generateAllCollections('projects-2013.csv', 2013)
 
 
 
