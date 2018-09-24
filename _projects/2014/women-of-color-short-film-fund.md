@@ -1,7 +1,7 @@
 ---
 project_id: '4102207'
 title: Women of Color Short Film Fund
-project_summary: '1'
+project_summary: ''
 category: create
 organization_id: '2014087'
 year_submitted: 2014

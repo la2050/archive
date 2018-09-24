@@ -1,7 +1,7 @@
 ---
 project_id: '4102052'
 title: 100% of LA online faster!
-project_summary: '1'
+project_summary: ''
 category: connect
 organization_id: '2018034'
 year_submitted: 2014

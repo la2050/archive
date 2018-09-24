@@ -1,7 +1,7 @@
 ---
 project_id: '4102125'
 title: Block LA
-project_summary: '1'
+project_summary: ''
 category: live
 organization_id: '2014165'
 year_submitted: 2014

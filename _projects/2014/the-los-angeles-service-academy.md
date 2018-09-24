@@ -1,7 +1,7 @@
 ---
 project_id: '4102135'
 title: The Los Angeles Service Academy
-project_summary: '1'
+project_summary: ''
 category: learn
 organization_id: '2018077'
 year_submitted: 2014

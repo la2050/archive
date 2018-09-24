@@ -1,7 +1,7 @@
 ---
 project_id: '4102185'
 title: Thriving in a Hotter Los Angeles—100% Sustainability by 2050
-project_summary: '1'
+project_summary: ''
 category: live
 organization_id: '2014190'
 year_submitted: 2014

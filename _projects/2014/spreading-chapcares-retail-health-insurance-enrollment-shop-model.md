@@ -1,7 +1,7 @@
 ---
 project_id: '4102220'
 title: Spreading ChapCares Retail Health Insurance Enrollment Shop Model
-project_summary: '1'
+project_summary: ''
 category: live
 organization_id: '2014204'
 year_submitted: 2014

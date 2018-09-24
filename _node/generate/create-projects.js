@@ -400,11 +400,20 @@ function addProjectAnswers(data) {
 function createMarkdownFile(data) {
 
 
-  // SHIM: Avoid showing "1" in the answer section
-  // TODO: Check for a value of 1 in more fields?
-  let question = "Whom will your project benefit? Please be specific."
-  if (data[question] && data[question] === "1") data[question] = ""
+  // SHIM: Avoid showing "1" as content on the project page
+  let propertiesWithLongTextValues = [ 
+    "project_summary",
+    "Whom will your project benefit? Please be specific."
+  ]
+  propertiesWithLongTextValues.forEach(prop => {
+    if (data[prop] && data[prop] === "1") data[prop] = ""
+  }) 
 
+  // for (let prop in data) {
+  //   if (data.hasOwnProperty(prop) && data[prop] && typeof(data[prop]) === "string" && data[prop] === "1") {
+  //     data[prop] = ""
+  //   }
+  // }
 
   if (!data.title) {
     console.log("A title is missing")

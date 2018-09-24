@@ -1,7 +1,7 @@
 ---
 project_id: '4102234'
 title: Thinking about Tomorrow is making School Cool!
-project_summary: '1'
+project_summary: ''
 category: learn
 organization_id: '2015211'
 year_submitted: 2014

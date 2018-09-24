@@ -1,7 +1,7 @@
 ---
 project_id: '4102181'
 title: This is the Moment!
-project_summary: '1'
+project_summary: ''
 category: create
 organization_id: '2014076'
 year_submitted: 2014

@@ -3,7 +3,7 @@ project_id: '4102160'
 title: >-
   Support LA’s celebrated food truck culture by helping food truck entrepreneurs
   grow and create jobs
-project_summary: '1'
+project_summary: ''
 category: create
 organization_id: '2018093'
 year_submitted: 2014
