@@ -779,7 +779,8 @@ text-align: left;
 
 {% if unique_tags_indicators and unique_tags_indicators.size > 0 %}
 
-<hr style="opacity: 0" />
+<hr />
+
 <h2 style="
 text-align: left;
 justify-self: start;
@@ -803,7 +804,7 @@ line-height: 1;">Find similar organizations</h2>
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 10 | plus: 1 %}
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 2 | plus: 1 %}
   <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
