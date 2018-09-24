@@ -332,7 +332,23 @@ document.body.classList.add("{{ primary_color }}")
 
 </section><!-- /.proposal-introduction -->
 
+{% assign has_project_links = false %}
+
+{% if page.instagram and page.instagram != "" and page.instagram != "n/a" and page.instagram != "N/A" and page.instagram != "none" %}
+{% assign has_project_links = true %}
+{% endif %}
+
+{% if page.twitter and page.twitter != "" and page.twitter != "n/a" and page.twitter != "N/A" and page.twitter != "none" %}
+{% assign has_project_links = true %}
+{% endif %}
+
+{% if page.facebook and page.facebook != "" and page.facebook != "n/a" and page.facebook != "N/A" and page.facebook != "none" %}
+{% assign has_project_links = true %}
+{% endif %}
+
+{% if has_project_links %}
 <hr />
+{% endif %}
 
 {% include project-links.html %}
 
