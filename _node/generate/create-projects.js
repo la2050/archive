@@ -232,9 +232,6 @@ function getMakerImage(data) {
     // let compare = subCompare(item.name, data.title, similarity)
     //if (item.name.trim() == data.title.trim()) {
     let compareTitle = data.title
-    if (data.title == "Tickleberry Place" && data.year_submitted == "2014") {
-      compareTitle = "Tickleberry Place Indoor Play Gym"
-    }
 
     if (getStringForComparison(item.name) == getStringForComparison(compareTitle)) {
       project = item
@@ -668,6 +665,10 @@ function generateAllCollections(file_name, year) {
 
   for (let index = 0; index < records.length; index++) {
     let data = fixDataCharacters(records[index])
+
+    if (data.title.toLowerCase().includes("tickleberry") && data.year_submitted == "2014") {
+      data.title = "Tickleberry Place Indoor Play Gym"
+    }
 
     let category
     if (records[index].category) {

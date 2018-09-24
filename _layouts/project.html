@@ -385,8 +385,10 @@ stylesheets:
 <h3>How will your idea/project help make LA the best place to connect today? In LA2050?</h3>
 {{ page['How will your idea/project help make LA the best place to connect today? In LA2050?'] }}
 
+{% if page['Whom will your project benefit? Please be specific.'] != "" %}
 <h3>Whom will your project benefit?</h3>
 {{ page['Whom will your project benefit? Please be specific.'] }}
+{% endif %}
 
 </div>
 

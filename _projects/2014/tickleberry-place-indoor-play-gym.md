@@ -1,6 +1,6 @@
 ---
 project_id: '4102235'
-title: Tickleberry Place
+title: Tickleberry Place Indoor Play Gym
 project_summary: >-
   Provide a eco- friendly healthy indoor play and educational space for kids and
   families, that also serves organic & healthy foods.
