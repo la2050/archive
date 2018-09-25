@@ -8,6 +8,11 @@ ein: '813851393'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/TWIGGHOWTO'
 instagram: 'https://www.instagram.com/twigghowto/'
 facebook: 'https://www.facebook.com/twigghowto'

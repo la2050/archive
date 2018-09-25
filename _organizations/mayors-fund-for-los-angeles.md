@@ -9,6 +9,10 @@ ein: '471084641'
 zip: '20001'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471084641'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Volunteerism
+  - Social connectedness
 twitter:
   - '@MayorsFundLA'
   - '@MayorOfLA'

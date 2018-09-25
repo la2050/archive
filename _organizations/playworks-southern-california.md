@@ -8,6 +8,11 @@ ein: '943251867'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943251867'
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

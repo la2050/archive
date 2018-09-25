@@ -8,6 +8,9 @@ ein: TBC
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

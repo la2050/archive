@@ -9,6 +9,11 @@ ein: '208083398'
 zip: '90016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208083398'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Community health
+  - Social connectedness
+  - Health
 twitter: '@YouthAgainstAlz'
 instagram: theyouthmovement_org
 facebook: '@theyouthmovementagainstalzheimers'

@@ -8,6 +8,11 @@ ein: '952647443'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952647443'
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Community gatherings
+  - Education & youth
+  - Social connectedness
 twitter: '@Marvistafc'
 instagram: '@Marvistafc'
 facebook: 'https://www.facebook.com/marvistafamilycenter/'

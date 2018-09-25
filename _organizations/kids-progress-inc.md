@@ -8,6 +8,11 @@ ein: '651169693'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=651169693'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Early childhood
+  - Housing & homelessness
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

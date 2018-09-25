@@ -8,6 +8,9 @@ ein: '813413763'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=813413763'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: 0
 instagram: 0
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'

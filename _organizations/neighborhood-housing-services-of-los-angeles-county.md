@@ -8,6 +8,9 @@ ein: '953938955'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953938955'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
 twitter: nhslacounty
 instagram: nhslacounty
 facebook: NHSLAC

@@ -8,6 +8,11 @@ ein: '462089483'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Community health
+  - Arts & cultural vitality
+  - Health
 twitter: '@GetSomeGlue'
 instagram: getsomeglue
 facebook: 'https://www.facebook.com/getsomeglue'

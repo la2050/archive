@@ -8,6 +8,9 @@ ein: '954870779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954870779'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

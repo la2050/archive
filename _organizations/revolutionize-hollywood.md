@@ -8,6 +8,11 @@ ein: '812011003'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812011003'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Entrepreneurship & innovation
+  - Arts & cultural vitality
+  - Income & employment
 twitter: '@REVOLUTIONIZEHW'
 instagram: '@revolutionizehollywood'
 facebook: 'https://www.facebook.com/revolutionizehollywood'

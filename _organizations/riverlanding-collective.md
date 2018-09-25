@@ -7,6 +7,11 @@ ein: '900627151'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Access to parks & green space
+  - Environmental quality & sustainability
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

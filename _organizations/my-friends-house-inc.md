@@ -8,6 +8,10 @@ ein: '262718485'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262718485'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Health
 twitter: '@MyFriendsHse'
 instagram: 0
 facebook: 'https://www.facebook.com/My-Friends-House-Inc-436222196498017/'

@@ -8,6 +8,9 @@ ein: '364729392'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: '@1Deg'
 instagram: OneDegree
 facebook: 'https://www.facebook.com/1degree.org'

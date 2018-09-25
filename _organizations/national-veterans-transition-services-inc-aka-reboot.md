@@ -8,6 +8,11 @@ ein: '800597403'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800597403'
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Mental & emotional health
+  - Income & employment
+  - Health
 twitter: '@RebootWorkshop'
 instagram: 'https://www.instagram.com/rebootworkshop/'
 facebook: 'https://www.facebook.com/REBOOTWorkshop/'

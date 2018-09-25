@@ -8,6 +8,11 @@ ein: ''
 zip: '90014'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Community health
+  - Income & employment
+  - Health
 twitter: '@thepplofchange'
 instagram: '@thepplofchange'
 facebook: 'https://www.facebook.com/thepeopleofchange/'

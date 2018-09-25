@@ -8,6 +8,11 @@ ein: '956006143'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Volunteerism
+  - Health
+  - Social connectedness
 twitter: 'https://twitter.com/UCLA_HSS'
 instagram: www.instagram.com/uclahss
 facebook: www.facebook.com/uclahss

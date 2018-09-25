@@ -8,6 +8,11 @@ ein: '462375546'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

@@ -8,6 +8,9 @@ ein: '900678872'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900678872'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''

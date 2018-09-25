@@ -8,6 +8,11 @@ ein: '954754598'
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954754598'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Creative economy
+  - Education & youth
+  - Arts & cultural vitality
 twitter: '@redhenpress'
 instagram: '@redhenpress'
 facebook: RedHenPress

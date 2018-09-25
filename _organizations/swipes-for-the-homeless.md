@@ -8,6 +8,11 @@ ein: '452038035'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452038035'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Homelessness
+  - Health
+  - Housing & homelessness
 twitter: ''
 instagram: ''
 facebook: ''

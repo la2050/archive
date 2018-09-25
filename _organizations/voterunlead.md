@@ -8,6 +8,9 @@ ein: '46'
 zip: '990275'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=46'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@VoteRunLead'
 instagram: '@voterunlead'
 facebook: www.facebook.com/VoteRunLead

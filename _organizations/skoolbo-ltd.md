@@ -8,6 +8,9 @@ ein: '421774453'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

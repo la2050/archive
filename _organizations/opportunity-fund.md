@@ -16,6 +16,9 @@ ein: '311719434'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311719434'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter:
   - '@opportunityfund'
   - '@OFSmallBusiness'

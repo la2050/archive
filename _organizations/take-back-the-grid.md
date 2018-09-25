@@ -8,6 +8,9 @@ ein: '383887267'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Environmental quality & sustainability
 twitter: ''
 instagram: ''
 facebook: ''

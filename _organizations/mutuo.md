@@ -8,6 +8,9 @@ ein: '454105869'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: '@thisismutuo'
 instagram: '@thisismutuo'
 facebook: 'https://www.facebook.com/thisismutuoLA'

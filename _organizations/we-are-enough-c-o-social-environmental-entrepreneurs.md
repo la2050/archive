@@ -8,6 +8,11 @@ ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Voting & civic engagement
+  - Income & employment
+  - Social connectedness
 twitter: '@weareenoughbiz'
 instagram: '@weareenoughbiz'
 facebook: 0

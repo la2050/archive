@@ -8,6 +8,11 @@ ein: '271720480'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=271720480'
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Volunteerism
+  - Public safety & public space
+  - Social connectedness
 twitter: '@TeamRubicon'
 instagram: '@TeamRubicon'
 facebook: 'https://www.facebook.com/teamrubicon'

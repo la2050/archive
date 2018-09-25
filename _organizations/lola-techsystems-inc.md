@@ -8,6 +8,9 @@ ein: '472037575'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: '@lolahelps'
 instagram: 0
 facebook: '@lolahelpsme'

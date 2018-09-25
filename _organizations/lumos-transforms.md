@@ -8,6 +8,9 @@ ein: '814833035'
 zip: '20002'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=814833035'
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Public safety & public space
 twitter: '@LumosTransforms'
 instagram: '@lumos_transforms'
 facebook: '@LumosTransforms'

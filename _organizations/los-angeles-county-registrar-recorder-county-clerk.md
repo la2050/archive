@@ -8,6 +8,9 @@ ein: '956000927'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000927'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@lacountyrrcc'
 instagram: '@lacountyrrcc'
 facebook: 'https://www.facebook.com/LACountyRRCC/'

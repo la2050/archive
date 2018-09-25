@@ -8,6 +8,11 @@ ein: '810832318'
 zip: '91605'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810832318'
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Community health
+  - Housing & homelessness
+  - Health
 twitter: '@lavamaela'
 instagram: lavamae_la
 facebook: lavamae_la

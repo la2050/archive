@@ -10,6 +10,10 @@ ein: '811715988'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=811715988'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
 twitter:
   - '@wemakeitinla'
   - '@LAFoodFest'

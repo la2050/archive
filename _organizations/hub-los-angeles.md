@@ -8,6 +8,9 @@ ein: '273558431'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: ''
 instagram: ''
 facebook: ''

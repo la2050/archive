@@ -8,6 +8,10 @@ ein: '953213958'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953213958'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@PromesaBH'
 instagram: PromesaBH
 facebook: www.facebook.com/PromesaBoyleHeights

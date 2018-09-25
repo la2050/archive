@@ -8,6 +8,11 @@ ein: '813470225'
 zip: '90021'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Access to healthy food
+  - Income & employment
+  - Health
 twitter: 'https://twitter.com/natch_app'
 instagram: 'https://www.instagram.com/natch_app_/'
 facebook: 'https://www.facebook.com/thenatch/'

@@ -8,6 +8,11 @@ ein: '951644589'
 zip: '90019'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644589'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 twitter: LASA_ICW
 instagram: instagram.com/husc_icw
 facebook: facebook.com/husc.icw

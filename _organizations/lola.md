@@ -8,6 +8,9 @@ ein: '301007192'
 zip: '90036'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: 'https://twitter.com/LOLAdotcool'
 instagram: 'https://www.instagram.com/loladotcool/'
 facebook: 'https://www.facebook.com/loladotcool/'

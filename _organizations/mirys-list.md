@@ -8,6 +8,10 @@ ein: '954116679'
 zip: 90089-0034
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@miryslist'
 instagram: '@miryslist'
 facebook: www.facebook.com/miryslist

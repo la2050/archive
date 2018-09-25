@@ -8,6 +8,11 @@ ein: '954444102'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954444102'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Affordable housing
+  - Social connectedness
+  - Housing & homelessness
 twitter: ''
 instagram: ''
 facebook: ''

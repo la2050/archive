@@ -8,6 +8,9 @@ ein: '571206928'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@larchmontschool'
 instagram: 'https://www.instagram.com/larchmontschool/'
 facebook: 'https://www.facebook.com/LarchmontSchool/posts/10160153595750361'

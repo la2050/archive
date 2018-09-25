@@ -8,6 +8,10 @@ ein: '824799787'
 zip: '9005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824799787'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Community gatherings
+  - Social connectedness
 twitter: 'https://twitter.com/Rgnl_LA'
 instagram: 'https://www.instagram.com/regional.la8605/'
 facebook: 'https://www.facebook.com/rgnl.la'

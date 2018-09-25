@@ -8,6 +8,11 @@ ein: '300945310'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300945310'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 twitter: '@ProduceAthon'
 instagram: '@produceAthon'
 facebook: www.facebook.com/ProduceAthon

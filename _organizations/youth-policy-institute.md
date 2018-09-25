@@ -8,6 +8,11 @@ ein: '521278339'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=521278339'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Early childhood
+  - Social connectedness
+  - Education & youth
 twitter: ypiusa
 instagram: ypiusa
 facebook: 'https://www.facebook.com/ypiusa'

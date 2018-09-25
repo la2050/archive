@@ -10,9 +10,7 @@ zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274568770'
 ntee_type: ''
 tags_indicators:
-  - Voting & civic engagement
   - Transportation
-  - Social connectedness
   - Mobility
 twitter: ''
 instagram: ''

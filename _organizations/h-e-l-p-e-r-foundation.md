@@ -8,6 +8,11 @@ ein: '954759013'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954759013'
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Workforce development
+  - Public safety & public space
+  - Income & employment
 twitter: ''
 instagram: ''
 facebook: ''

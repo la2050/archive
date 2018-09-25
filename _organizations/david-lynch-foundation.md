@@ -8,6 +8,9 @@ ein: '830436453'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=830436453'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''

@@ -8,6 +8,10 @@ ein: '611472800'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=611472800'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Mental & emotional health
+  - Health
 twitter: '@walkwithsally'
 instagram: '@walkwithsally'
 facebook: '@walkwithsally'

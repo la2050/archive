@@ -8,6 +8,9 @@ ein: '953180934'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953180934'
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

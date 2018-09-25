@@ -8,6 +8,11 @@ ein: '954623022'
 zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Fitness & sports
+  - Education & youth
+  - Health
 twitter: '@DodgersFdn'
 instagram: '@DodgersFoundation'
 facebook: /LosAngelesDodgersFoundation/

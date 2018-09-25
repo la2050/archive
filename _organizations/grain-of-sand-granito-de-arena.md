@@ -8,6 +8,11 @@ ein: '460667294'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460667294'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Air & water
+  - Education & youth
+  - Environmental quality & sustainability
 twitter: ''
 instagram: ''
 facebook: ''

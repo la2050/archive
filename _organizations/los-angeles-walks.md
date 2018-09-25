@@ -8,6 +8,9 @@ ein: '954845170'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954845170'
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Mobility
 twitter: ''
 instagram: ''
 facebook: ''

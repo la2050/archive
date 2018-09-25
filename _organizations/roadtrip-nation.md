@@ -9,6 +9,11 @@ ein: '263889207'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263889207'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
+  - Education & youth
+  - Income & employment
 twitter: '@RoadtripNation'
 instagram: '@RoadtripNation'
 facebook: '@RoadtripNation'

@@ -8,6 +8,11 @@ ein: '460815941'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460815941'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

@@ -8,6 +8,11 @@ ein: '954459427'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954459427'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Access to capital & benefits
+  - Social connectedness
+  - Income & employment
 twitter: '@FairWorkweekLA'
 instagram: '@FairWorkweekLA'
 facebook: facebook.com/fairworkweekla

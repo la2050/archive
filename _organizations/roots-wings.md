@@ -8,6 +8,11 @@ ein: '821894269'
 zip: '90017'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Mental & emotional health
+  - Education & youth
+  - Health
 twitter: 0
 instagram: rootsnwings_malibu
 facebook: >-

@@ -8,6 +8,11 @@ ein: '134198479'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134198479'
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 twitter: '@nalip_org'
 instagram: '@nalip_org'
 facebook: '@nalip'

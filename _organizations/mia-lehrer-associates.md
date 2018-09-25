@@ -8,6 +8,9 @@ ein: '270903202'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

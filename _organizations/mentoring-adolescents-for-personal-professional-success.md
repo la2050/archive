@@ -8,6 +8,11 @@ ein: Personal DBA
 zip: '91105'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
+  - Income & employment
+  - Education & youth
 twitter: 0
 instagram: 0
 facebook: 0

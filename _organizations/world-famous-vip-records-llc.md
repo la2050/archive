@@ -8,6 +8,11 @@ ein: '820873052'
 zip: '90008'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=820873052'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Art
+  - Income & employment
+  - Arts & cultural vitality
 twitter: viplongbeach
 instagram: 0
 facebook: viplongbeach

@@ -8,6 +8,9 @@ ein: '731687451'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=731687451'
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Environmental quality & sustainability
 twitter: ''
 instagram: ''
 facebook: ''

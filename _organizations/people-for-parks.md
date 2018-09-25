@@ -8,6 +8,11 @@ ein: '954219646'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954219646'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Community health
+  - Public safety & public space
+  - Health
 twitter: '@pfpla'
 instagram: '@pfpla'
 facebook: 'https://www.facebook.com/PeopleForParksLosAngeles'

@@ -8,6 +8,10 @@ ein: '463169840'
 zip: '90040'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463169840'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Fitness & sports
+  - Health
 twitter:
   - '@altaseaorg'
   - '@lamitopsail'

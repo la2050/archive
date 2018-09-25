@@ -8,6 +8,11 @@ ein: '203023426'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203023426'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Access to healthy food
+  - Education & youth
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''

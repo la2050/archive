@@ -8,6 +8,11 @@ ein: '451601262'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451601262'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Entrepreneurship & innovation
+  - Social connectedness
+  - Income & employment
 twitter: '@NotImpossible'
 instagram: NotImpossible
 facebook: NotImpossible

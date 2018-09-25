@@ -8,6 +8,11 @@ ein: ''
 zip: '90014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein='
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Community gatherings
+  - Mobility
+  - Social connectedness
 twitter: sbbc_la
 instagram: sbbc_la
 facebook: 'https://www.facebook.com/southbaybicyclecoalition'
