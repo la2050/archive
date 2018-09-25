@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/happycityus'
 instagram: ''
 facebook: 'https://www.facebook.com/happycity.us'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/EJWQ6cYZBCk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   HappyCity is committed to helping communities reach their goal of Vision 80 --

@@ -12,7 +12,7 @@ twitter: www.twitter.com/theeryc
 instagram: www.instagram.com/theyachtclub
 facebook: www.facebook.com/theyachtclub
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Through dodgeball, civic service, partnerships with rec centers and our youth,

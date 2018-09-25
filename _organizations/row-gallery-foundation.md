@@ -12,7 +12,7 @@ twitter: www.twitter.com/rowgallery
 instagram: ''
 facebook: www.facebook.com/rowgalleryLA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Row Gallery strives to create a positive community that promotes artists and

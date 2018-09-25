@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/healthebay'
 instagram: 'https://instagram.com/healthebay/'
 facebook: 'https://www.facebook.com/HealtheBay/'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/SC6HYm8Zp7M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/EDmhXWDVs3M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Heal the Bay is a nonprofit environmental organization making Southern
@@ -25,6 +25,6 @@ project_ids: '5102129'
 title: Heal the Bay
 uri: /organizations/heal-the-bay/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
-youtube_video_identifier: SC6HYm8Zp7M
+youtube_video_identifier: EDmhXWDVs3M
 
 ---

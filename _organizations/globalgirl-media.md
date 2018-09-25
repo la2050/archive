@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gHdNsESWQgM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   As of June 2012, GGM has implemented initiatives in seven cities in South

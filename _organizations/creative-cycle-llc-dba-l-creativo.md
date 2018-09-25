@@ -12,7 +12,7 @@ twitter: L_Creativo
 instagram: ''
 facebook: www.facebook.com/lcreativofest
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XFrn3G05ZVc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Supporting the Latin Indie Music Community of LA & Inspiring a new generation

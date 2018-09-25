@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/iHvoKckqh4o/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iHvoKckqh4o/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>SBCC has achieved significant community-level and countywide impacts in

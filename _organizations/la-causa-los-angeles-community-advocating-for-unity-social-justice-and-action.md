@@ -14,7 +14,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: 'https://img.youtube.com/vi/JPbaYb88x0U/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   LA CAUSA YouthBuild is regarded as the organization that transformed the
@@ -41,7 +41,6 @@ title: >-
 uri: >-
   /organizations/la-causa-los-angeles-community-advocating-for-unity-social-justice-and-action/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
-maker_image_id: '16822'
-maker_image_file_name: real_estate_and_social_media_thoughts_1113.jpg
+youtube_video_identifier: JPbaYb88x0U
 
 ---

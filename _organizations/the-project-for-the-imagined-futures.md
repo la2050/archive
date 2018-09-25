@@ -12,7 +12,7 @@ twitter: www.twitter.com/IFLosAngeles
 instagram: 'http://instagram.com/theimaginedfutures'
 facebook: 'https://www.facebook.com/TheImaginedFutures'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KofWk5qh3jE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Imagined Futures wants Angelenos to immersively interact with technology &

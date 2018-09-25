@@ -15,7 +15,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/4zAG6xu-HQM/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/4zAG6xu-HQM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our greatest achievements have grown out of the people and artists with whom

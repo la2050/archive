@@ -12,7 +12,7 @@ twitter: www.twitter.com/mediadoneresp
 instagram: ''
 facebook: www.facebook.com/mediadoneresponsibly
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/H107Gy4bTFs/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Media Done Responsibly is a media leadership program providing healthy media

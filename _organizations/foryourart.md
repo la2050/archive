@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16352%252Fdisplay%252Fvnfl_final.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>ForYourArt creates new contexts for art on- and off-line and applies an
@@ -38,7 +39,7 @@ project_ids: '3102052'
 title: ForYourArt
 uri: /organizations/foryourart/
 challenge_url: 'http://maker.good.is/myla2050/projects/36hoursinLA2050_FYA.html'
-maker_image_id: '16358'
-maker_image_file_name: vnfl_final_copy.jpg
+maker_image_id: '16352'
+maker_image_file_name: vnfl_final.jpg
 
 ---

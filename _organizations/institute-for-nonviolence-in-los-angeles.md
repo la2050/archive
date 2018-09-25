@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: 'https://img.youtube.com/vi/-wRfwMCYTHY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   More than 2,000 members of the public were trained by Avis Ridley-Thomas in
@@ -25,7 +25,6 @@ project_ids: '3102157'
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
-maker_image_id: '16779'
-maker_image_file_name: Jabami.jpg
+youtube_video_identifier: '-wRfwMCYTHY'
 
 ---

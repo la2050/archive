@@ -20,7 +20,7 @@ facebook: >-
   www.facebook.com/nrdclosangeles?fref=ts /
   www.facebook.com/sharedusecenter?fref=ts
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/ghRsAe0AExM/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ghRsAe0AExM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   By working directly in underserved public schools in Los Angeles Unified

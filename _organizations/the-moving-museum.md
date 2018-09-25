@@ -12,7 +12,7 @@ twitter: www.twitter.com/TheMovingMuseum
 instagram: www.instagram.com/TheMovingMuseum
 facebook: www.facebook.com/TheMovingMuseum
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/X9EpK48pYtY/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Moving Museum runs a nomadic contemporary art program in significant

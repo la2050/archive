@@ -16,7 +16,7 @@ instagram: ''
 facebook: ''
 org_type: For profit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16434%252Fdisplay%252FSplashScreenImageCrimeReporter.png=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16290%252Fdisplay%252Fzenfunder-la2050.png=c570x385
 project_video: ''
 org_summary: >-
   <p>As a leader in the civic engagement space, CitySourced has received
@@ -59,7 +59,7 @@ project_ids: '3102017'
 title: 'CitySourced, Inc.'
 uri: /organizations/citysourced-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
-maker_image_id: '16434'
-maker_image_file_name: SplashScreenImageCrimeReporter.png
+maker_image_id: '16290'
+maker_image_file_name: zenfunder-la2050.png
 
 ---

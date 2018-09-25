@@ -12,7 +12,7 @@ twitter: www.twitter.com/storyprojectLA
 instagram: ''
 facebook: 'https://www.facebook.com/The-Story-Project-116216105118265/timeline/'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/BnbLK2sxsXI/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Story Project encourages at-risk youth in underserved communities to

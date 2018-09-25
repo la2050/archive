@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/9xQP6vGylgE/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/9xQP6vGylgE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We have a history of partnering with non-profit organizations that are focused

@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2qWrLJakj5M/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ML+A promotes the practice of designing innovative landscapes while building

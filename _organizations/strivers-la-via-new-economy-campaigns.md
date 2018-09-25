@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   New Economy Campaigns drives social impact through multiplatform campaigns,

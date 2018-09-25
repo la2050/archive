@@ -13,7 +13,7 @@ instagram: ''
 facebook: ''
 org_type: Nonprofit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16921%252Fdisplay%252Fartbound_logo.jpg=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385
 project_video: ''
 org_summary: >-
   Since 1964, KCET has served Los Angeles and an 11-county region of Southern
@@ -55,7 +55,7 @@ project_ids: '3102163'
 title: KCETLink
 uri: /organizations/kcetlink/
 challenge_url: 'http://maker.good.is/myla2050/projects/GroundGame.html'
-maker_image_id: '16921'
-maker_image_file_name: artbound_logo.jpg
+maker_image_id: '17051'
+maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 
 ---

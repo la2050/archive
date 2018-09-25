@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/f2SXn1p3d4I/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/f2SXn1p3d4I/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>CTLA: Created by the Mayor in 2009, CTLA is partnership of the region’s

@@ -12,7 +12,7 @@ twitter: www.twitter.com/LifeChangeUp
 instagram: www.instagram.com/lifechangeup/
 facebook: www.facebook.com/ThinkOutsideYourComfortZone
 org_type: Other
-project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   This is a Life Skills Training Program teaching the positive effects of

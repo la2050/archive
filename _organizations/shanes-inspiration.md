@@ -12,7 +12,7 @@ twitter: www.twitter.com/ShanesPlay
 instagram: www.instagram.com/shanesplay
 facebook: www.facebook.com/shanesinspiration
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/44E5ezgbzHg/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/yUDKtK6Gfls/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Shane's Inspiration creates inclusive playgrounds and education programs that
@@ -24,6 +24,6 @@ project_ids: '5102266'
 title: Shane's Inspiration
 uri: /organizations/shanes-inspiration/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
-youtube_video_identifier: 44E5ezgbzHg
+youtube_video_identifier: yUDKtK6Gfls
 
 ---

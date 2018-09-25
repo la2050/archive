@@ -12,7 +12,7 @@ twitter: www.twitter.com/heartof_artgal
 instagram: www.instagram.com/heartofartgallery
 facebook: www.facebook.com/HeartofArtGallery
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jpQSRVlR_XM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Heart of Art Gallery is a conscious space run by women in South LA that

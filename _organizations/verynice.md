@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17230%252Fdisplay%252Fverynice.jpeg=c570x385
 project_video: ''
 org_summary: >-
   verynice started in my apartment at UCLA when I was 19 years old. To date, I
@@ -44,7 +45,7 @@ project_ids: '3102114'
 title: verynice
 uri: /organizations/verynice/
 challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'
-maker_image_id: '22867'
-maker_image_file_name: GiveHalf_009.jpg
+maker_image_id: '17230'
+maker_image_file_name: verynice.jpeg
 
 ---

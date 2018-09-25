@@ -12,7 +12,7 @@ twitter: '@urbantxt'
 instagram: 'http://instagram.com/urbantxt'
 facebook: www.facebook.com/UrbanTeenseXploringTechnology
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/g_OFCYLH7gw/maxresdefault.jpg'
 project_video: ''
 org_summary: We inspire teens in the low income communities to become tech entrepreneurs !
 areas_impacted: 'Central LA,East LA,South LA,Other:'

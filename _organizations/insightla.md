@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/lLS50WusJa4/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We have trained more than 10,000 individual students in mindfulness. We have

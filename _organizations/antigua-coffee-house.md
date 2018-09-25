@@ -17,7 +17,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16313%252Fdisplay%252Fsamsung_device_801.jpg=c570x385
 project_video: ''
 org_summary: |-
   Best Coffee Roaster 2007
@@ -47,7 +48,7 @@ project_ids: '3102005'
 title: Antigua Coffee House
 uri: /organizations/antigua-coffee-house/
 challenge_url: 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
-maker_image_id: '18718'
-maker_image_file_name: AntiguaSticker.jpg
+maker_image_id: '16313'
+maker_image_file_name: samsung_device_801.jpg
 
 ---

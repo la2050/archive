@@ -13,7 +13,7 @@ instagram: ''
 facebook: ''
 org_type: For profit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16782%252Fdisplay%252Fvertical_AP_kit_3b.jpg=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16774%252Fdisplay%252Fvertical_AP_kit_3.jpg=c570x385
 project_video: ''
 org_summary: |-
   * First commercial aquaponics farm in LA County (LA Times http://goo.gl/xmTck)
@@ -52,7 +52,7 @@ project_ids: '3102040'
 title: Evo Farm
 uri: /organizations/evo-farm/
 challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
-maker_image_id: '16782'
-maker_image_file_name: vertical_AP_kit_3b.jpg
+maker_image_id: '16774'
+maker_image_file_name: vertical_AP_kit_3.jpg
 
 ---

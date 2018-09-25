@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/fortgoods'
 instagram: 'http://instagram.com/fortgoods'
 facebook: 'https://www.facebook.com/FORTgoods'
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/kNqNTSXVqsI/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/kNqNTSXVqsI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   FORT is a scalable community workshop that organizes artists and community

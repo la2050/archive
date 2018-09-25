@@ -13,7 +13,7 @@ instagram: ''
 facebook: ''
 org_type: Nonprofit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16560%252Fdisplay%252F2050_image.jpg=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16321%252Fdisplay%252F2050_image.jpg=c570x385
 project_video: ''
 org_summary: >-
   <p>Since our inception in 2010, CITYstage has served over 100 of LA’s at-risk
@@ -51,7 +51,7 @@ project_ids: '3102073'
 title: CITYstage
 uri: /organizations/citystage/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
-maker_image_id: '16560'
+maker_image_id: '16321'
 maker_image_file_name: 2050_image.jpg
 
 ---

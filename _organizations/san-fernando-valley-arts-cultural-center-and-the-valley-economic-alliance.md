@@ -14,8 +14,7 @@ facebook: >-
   www.facebook.com/SanFernandoValleyArtsAlliance and
   www.facebook.com/valleyeconomicalliance
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23739%252Fdisplay%252FLAACE.jpg=c570x385
+project_image: 'https://img.youtube.com/vi//maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The San Fernando Valley Arts & Cultural Center advocates the arts through
@@ -28,7 +27,6 @@ title: San Fernando Valley Arts & Cultural Center and The Valley Economic Allian
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
-maker_image_id: '23739'
-maker_image_file_name: LAACE.jpg
+youtube_video_identifier: ''
 
 ---

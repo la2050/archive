@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/q2OELc_KuI4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   CCGI helps 6th-12th grade students develop well-informed plans for their

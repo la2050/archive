@@ -17,7 +17,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/DVIx37igPg0/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/DVIx37igPg0/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Founded by concerned family caregivers in 1980 and incorporated in 1981,

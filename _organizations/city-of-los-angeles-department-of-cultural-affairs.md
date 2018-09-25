@@ -17,7 +17,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/ZobE5kX4dTc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>DCA generates & supports high quality arts & cultural experiences for LA’s

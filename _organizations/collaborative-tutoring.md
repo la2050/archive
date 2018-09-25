@@ -18,7 +18,7 @@ instagram: ''
 facebook: ''
 org_type: For profit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17048%252Fdisplay%252Ftutoring.png=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17103%252Fdisplay%252FScreen_shot_2013-03-28_at_2.40.43_PM.png=c570x385
 project_video: ''
 org_summary: >-
   <p>Collaborative Tutoring is an organization driven by the ultimate goal of
@@ -47,7 +47,7 @@ project_ids: '3102020'
 title: Collaborative Tutoring
 uri: /organizations/collaborative-tutoring/
 challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
-maker_image_id: '17048'
-maker_image_file_name: tutoring.png
+maker_image_id: '17103'
+maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
 
 ---

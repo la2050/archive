@@ -12,7 +12,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/KAJrrW9SOdA/maxresdefault.jpg'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16503%252Fdisplay%252FFB_Cover_photo.jpg=c570x385
 project_video: ''
 org_summary: >-
   Founded in 2003 in response to the acute shortage of leadership and management
@@ -35,6 +36,7 @@ project_ids: '3102120'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
 challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
-youtube_video_identifier: KAJrrW9SOdA
+maker_image_id: '16503'
+maker_image_file_name: FB_Cover_photo.jpg
 
 ---

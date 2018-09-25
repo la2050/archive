@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_8WrWZXDKdQ/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   - Worked on the Los Angeles Revitalization Master Plan <p>

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CZMjDcpz53c/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Our series of groundbreaking Report Cards — which measure and compare how each

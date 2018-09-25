@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/2Pjt88MXETw/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/2Pjt88MXETw/maxresdefault.jpg'
 project_video: ''
 org_summary: We start up students!
 areas_impacted: ''

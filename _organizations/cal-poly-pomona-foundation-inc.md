@@ -15,7 +15,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/0fH09h-Rx9o/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   With 35 years of tradition of thorough environmental research and services to

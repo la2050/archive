@@ -16,7 +16,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/d8oxCVYqxhU/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/d8oxCVYqxhU/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   ADVANCE is still in its idea stages; however, as mentioned, we have been

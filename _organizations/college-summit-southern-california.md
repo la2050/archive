@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/XNxfMssLYzc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   College Summit is dedicated to transforming the lives of low-income youth by

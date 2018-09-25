@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/xF48V9enLaE/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   CNI’s mission is to educate children, families, and their communities through

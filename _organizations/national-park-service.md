@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/Gx66ZyZaf90/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Gx66ZyZaf90/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The staff and volunteers of Santa Monica Mountains National Recreation Area

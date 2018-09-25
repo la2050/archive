@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/ApplicantLab'
 instagram: ''
 facebook: 'https://www.facebook.com/ApplicantLab/'
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Leveling the admissions playing field via an online series of interactive

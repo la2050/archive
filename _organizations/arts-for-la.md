@@ -15,7 +15,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16399%252Fdisplay%252FAndrew_Colunga_whole_image_sm.jpg=c570x385
 project_video: ''
 org_summary: >-
   Our 2012 Annual Report and a comprehensive list of our organizational

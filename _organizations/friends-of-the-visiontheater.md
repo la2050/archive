@@ -12,7 +12,7 @@ twitter: '@LeimertPVillage'
 instagram: LeimertParkVillage
 facebook: 'https://www.facebook.com/leimertparkvillage2020'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   We are committed to making a renovated Vision Theater the driving principle in

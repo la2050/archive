@@ -12,7 +12,7 @@ twitter: www.twitter.com/adventplayhouse
 instagram: www.instagram.com/adventureplayhouse
 facebook: www.facebook.com/adventureplayhouse
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/JrkPrBnN4UI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Adventure Playhouse creates a safe and clean environment for families to play

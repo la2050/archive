@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'http://maker.good.is/images/placeholder/idea.png'
+project_image: 'https://img.youtube.com/vi/J0uae-Y78Nw/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Since 2005, Los Angeles Universal Preschool (LAUP) has supported the operation
@@ -103,7 +103,6 @@ project_ids: '3102176'
 title: LAUP
 uri: /organizations/laup/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'
-maker_image_id: '17061'
-maker_image_file_name: Obama_kids_jobs.jpg
+youtube_video_identifier: J0uae-Y78Nw
 
 ---

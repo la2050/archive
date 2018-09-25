@@ -12,7 +12,7 @@ twitter: www.twitter.com/LACOMPOST www.twitter.com/kissthegroundCA
 instagram: www.instagram.com/lacompost www.instagram.com/kissthegroundca/
 facebook: www.facebook.com/L.A.CompostCA www.facebook.com/kissthegroundCA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/oPkjhNbvFTw/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/oPkjhNbvFTw/maxresdefault.jpg'
 project_video: ''
 org_summary: |-
   LA Compost equips and empowers people to create their own green spaces.

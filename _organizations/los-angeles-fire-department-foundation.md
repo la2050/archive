@@ -12,7 +12,7 @@ twitter: www.twitter.com/lafdfoundation
 instagram: www.instagram.com/lafdfoundation
 facebook: www.facebook.com/lafdfoundation
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/lilCVZW2Ggk/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The LAFD Foundation supports the LAFD in protecting life, property, and the

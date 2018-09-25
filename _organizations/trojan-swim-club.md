@@ -12,7 +12,7 @@ twitter: '@TSCOutreach'
 instagram: www.instagram.com/trojanswimcluboutreach
 facebook: www.facebook.com/Trojan-Swim-Club-Outreach
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The Trojan Swim Club operates both a fee-based competitive swim program and a

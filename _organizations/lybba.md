@@ -13,7 +13,7 @@ instagram: ''
 facebook: ''
 org_type: Nonprofit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16850%252Fdisplay%252Fopenhealthcentral.png=c570x385
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16271%252Fdisplay%252Fopenhealthcentral.png=c570x385
 project_video: ''
 org_summary: >-
   OPENHealth Central is being designed by Lybba, a 501(c)3 nonprofit based in
@@ -89,7 +89,7 @@ project_ids: '3102193'
 title: Lybba
 uri: /organizations/lybba/
 challenge_url: 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
-maker_image_id: '16850'
+maker_image_id: '16271'
 maker_image_file_name: openhealthcentral.png
 
 ---

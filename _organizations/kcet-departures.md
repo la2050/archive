@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/9PUd4G27uNk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   In the past five years Departures Youth Voices has worked with almost 200

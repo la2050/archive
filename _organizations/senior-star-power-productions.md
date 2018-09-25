@@ -12,7 +12,7 @@ twitter: seniorstarpower
 instagram: ''
 facebook: facebook.com/SeniorStarPower
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/TsuTBskJETc/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/TsuTBskJETc/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The mission of Senior Star Power is to engage, inspire, and enrich the health

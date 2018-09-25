@@ -12,7 +12,7 @@ twitter: '@almabackydfarms'
 instagram: instagram.com/almabackyardfarms
 facebook: www.facebook.com/almabackyardfarmla
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/Eg3e5xfocOk/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Alma Backyard Farms creates a dynamic opportunity in urban farming for the

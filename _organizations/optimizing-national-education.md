@@ -12,7 +12,7 @@ twitter: In process.
 instagram: In process.
 facebook: In process.
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/z7QaUClznXM/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/z7QaUClznXM/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   The charity develops original, big-vision programs which create jobs and

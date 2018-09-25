@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/IYZkhNMTKrg/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Ten years ago I was a schoolteacher for special education, focused on violent

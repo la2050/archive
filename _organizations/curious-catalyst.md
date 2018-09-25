@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/5Y9Sr73nDzU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gatKpPjdUvo/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>Curious Catalyst is a new consultancy that employs agile and lean
@@ -45,6 +45,6 @@ project_ids: '3102022'
 title: Curious Catalyst
 uri: /organizations/curious-catalyst/
 challenge_url: 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
-youtube_video_identifier: 5Y9Sr73nDzU
+youtube_video_identifier: gatKpPjdUvo
 
 ---

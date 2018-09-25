@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/cWwkZlNW9ng/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/cWwkZlNW9ng/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Stephen Glassman Studio first raised widespread critical acclaim in the early

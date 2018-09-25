@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/NetiyaLA'
 instagram: 'https://instagram.com/netiyala/'
 facebook: 'https://www.facebook.com/NetiyaLA/'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/z7nrpaONjUI/hqdefault.jpg'
+project_image: 'https://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg'
 project_video: ''
 org_summary: >-
   Netiya is a food justice and interfaith network that fosters self-reliance and
