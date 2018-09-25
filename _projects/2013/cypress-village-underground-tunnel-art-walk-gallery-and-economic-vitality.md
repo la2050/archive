@@ -1,7 +1,6 @@
 ---
 organization_id: '2013011'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16313%252Fdisplay%252Fsamsung_device_801.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102005'
 title: 'Cypress Village Underground Tunnel Art Walk Gallery and Economic Vitality '
 indicator: Arts & Cultural Vitality

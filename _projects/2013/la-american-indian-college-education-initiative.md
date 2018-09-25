@@ -1,7 +1,6 @@
 ---
 organization_id: '2013215'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16254%252Fdisplay%252Fscholarspic.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102272'
 title: 'LA American Indian College Education Initiative '
 indicator: ' Education'

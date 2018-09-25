@@ -1,7 +1,6 @@
 ---
 organization_id: '2013037'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16290%252Fdisplay%252Fzenfunder-la2050.png=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102017'
 title: Civic Crowdfunding Platform for Local Government and Schools
 indicator: ' Education'

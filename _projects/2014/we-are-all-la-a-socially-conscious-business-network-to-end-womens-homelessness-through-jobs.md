@@ -9,7 +9,7 @@ project_summary: >-
 category: create
 organization_id: '2015051'
 year_submitted: 2014
-project_image: 'https://img.youtube.com/vi/8GZELMERrSk/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/8GZELMERrSk/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/8GZELMERrSk'
 Which area(s) of LA does your project benefit? Other (elaborate): |-
   1. Build a business coalition

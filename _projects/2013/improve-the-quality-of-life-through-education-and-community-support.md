@@ -1,7 +1,6 @@
 ---
 organization_id: '2013159'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16300%252Fdisplay%252F2010-2011_Graduation_Picture.171103650_std.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102225'
 title: Improve The Quality of Life Through Education and Community Support
 indicator: ' Education'

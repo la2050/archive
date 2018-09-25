@@ -88,9 +88,10 @@ function fixDataCharacters(data) {
 }
 
 let makerProjectAnswersLookup
-const test_id = null //"8115"
+const test_id = null
+// const test_id = "8075"
 
-function getMakerProject(data, makerProjects, makerProjectAnswers) {
+function getMakerProjects(data, makerProjects, makerProjectAnswers) {
   // console.log("getMakerProject")
 
   // Create an object for quick lookup
@@ -103,17 +104,17 @@ function getMakerProject(data, makerProjects, makerProjectAnswers) {
         makerProjectAnswersLookup[answer.project_id] = {}
       }
       makerProjectAnswersLookup[answer.project_id][getStringForComparison(answer.value)] = 1
-      if (answer.project_id == test_id) console.log(answer.project_id)
-      if (answer.project_id == test_id) console.log(answer.value)
+      // if (answer.project_id == test_id) console.log(answer.project_id)
+      // if (answer.project_id == test_id) console.log(answer.value)
     })
   }
 
-  let match
+  let matches = []
   makerProjects.forEach(project => {
     if (project.id == test_id) {
       console.log("Checking to see if project matches Alliance for a Better Community, 8115")
       console.log("makerProjectAnswersLookup[project.id]: " + makerProjectAnswersLookup[project.id])
-      console.dir(makerProjectAnswersLookup[project.id])
+      // console.dir(makerProjectAnswersLookup[project.id])
     }
 
     if (makerProjectAnswersLookup[project.id] && 
@@ -122,10 +123,10 @@ function getMakerProject(data, makerProjects, makerProjectAnswers) {
         console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)])
         console.log("*** found a match!")
       }
-      match = project
+      matches.push(project)
     }
   })
-  return match
+  return matches
 }
 
 let makerImagesLookup
@@ -147,12 +148,57 @@ function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
   }
 
   // console.log("getMakerImage")
-  let project = getMakerProject(data, makerProjects, makerProjectAnswers)
-  if (project && makerImagesLookup[project.id]) {
-    return {
-      image: makerImagesLookup[project.id]["ProjectPhoto"],
-      video: makerImagesLookup[project.id]["ProjectVideo"]
+  let projects = getMakerProjects(data, makerProjects, makerProjectAnswers)
+  let images = []
+  if (projects && projects.length > 0) {
+    projects.sort((a, b) => {
+      // a is less than b by some ordering criterion
+      if (a.created_at > b.created_at) {
+        return -1
+      }
+      // a is greater than b by the ordering criterion
+      if (a.created_at < b.created_at) {
+        return 1
+      }
+      // a must be equal to b
+      return 0
+    })
+    projects.forEach(project => {
+      if (makerImagesLookup[project.id]) {
+        images.push( {
+          project_title: project.name,
+          image: makerImagesLookup[project.id]["ProjectPhoto"],
+          video: makerImagesLookup[project.id]["ProjectVideo"]
+        } )
+      }
+    })
+  }
+
+  if (images.length > 0) {
+    if (data.organization_id == 2015051) {
+      console.log("**** images ")
+      console.dir(images)
+      console.log("****")
     }
+    let latestProjectTitle = getLatestProjectTitle(data)
+    if (data.organization_id == 2015051) {
+      console.log(`latestProjectTitle: ${latestProjectTitle}`)
+    }
+    let makerImage
+    images.forEach(image => {
+      if (typeof(image.project_title) === "string" && typeof(latestProjectTitle) === "string" && 
+        getStringForComparison(image.project_title) == getStringForComparison(latestProjectTitle)) {
+        if (data.organization_id == 2015051) {
+          console.log(`found a match: ${image.project_title}`)
+        }
+        makerImage = image
+      }
+    })
+    if (data.organization_id == 2015051) {
+      console.log(`couldn’t find a match`)
+    }
+    if (!makerImage) makerImage = images[0]
+    return makerImage
   } else {
     console.log("couldn’t find image data for project: " + data.title + " : " + data.year_submitted + " : " + data.category + " : " + data.organization_id)
     return {
@@ -191,9 +237,9 @@ const dataToRemove = [
 //   img.src = image.getAttribute("src");
 // })
 
-// JSON.serialize(tinyImages)
+// JSON.stringify(tinyImages)
 
-let tinyImages = JSON.parse("[\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385\",\"http://img.youtube.com/vi/CZMjDcpz53c/maxresdefault.jpg\",\"http://img.youtube.com/vi/--BnysezHK0/maxresdefault.jpg\",\"http://img.youtube.com/vi/C1uVBoRtQ74/maxresdefault.jpg\",\"http://img.youtube.com/vi/kNqNTSXVqsI/maxresdefault.jpg\",\"http://img.youtube.com/vi/6pkTdEgSCvo/maxresdefault.jpg\",\"http://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg\",\"http://img.youtube.com/vi/fpGXBYHFZuE/maxresdefault.jpg\",\"http://img.youtube.com/vi/XFrn3G05ZVc/maxresdefault.jpg\",\"http://img.youtube.com/vi/y5Q3OTnTYC4/maxresdefault.jpg\",\"http://img.youtube.com/vi/-MVQfBjaOS0/maxresdefault.jpg\",\"http://img.youtube.com/vi/UYdxlEZVaNA/maxresdefault.jpg\",\"http://img.youtube.com/vi/XNxfMssLYzc/maxresdefault.jpg\",\"http://img.youtube.com/vi/jRPfyjiCjwg/maxresdefault.jpg\",\"http://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg\",\"http://img.youtube.com/vi/ZobE5kX4dTc/maxresdefault.jpg\",\"http://img.youtube.com/vi/XyASgYDVS_Q/maxresdefault.jpg\",\"http://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg\",\"http://img.youtube.com/vi/q2OELc_KuI4/maxresdefault.jpg\",\"http://img.youtube.com/vi/nO6H3p5HpV4/maxresdefault.jpg\",\"http://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg\",\"http://img.youtube.com/vi/BtUB4Ycebms/maxresdefault.jpg\",\"http://img.youtube.com/vi/KRKqNflY-PU/maxresdefault.jpg\",\"http://img.youtube.com/vi/gyQdQTAWs0U/maxresdefault.jpg\",\"http://img.youtube.com/vi/gHdNsESWQgM/maxresdefault.jpg\",\"http://img.youtube.com/vi/EpR6dHeaGIQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/IYZkhNMTKrg/maxresdefault.jpg\",\"http://img.youtube.com/vi/HtWxHzKO0zY/maxresdefault.jpg\",\"http://img.youtube.com/vi/cEATGWzLMiM/maxresdefault.jpg\",\"http://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg\",\"http://img.youtube.com/vi/I85PHrZjakM/maxresdefault.jpg\",\"http://img.youtube.com/vi/KHtt2okRChU/maxresdefault.jpg\",\"http://img.youtube.com/vi/ghRsAe0AExM/maxresdefault.jpg\",\"http://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg\",\"http://img.youtube.com/vi/0fH09h-Rx9o/maxresdefault.jpg\",\"http://img.youtube.com/vi/z__BDhvkp9Q/maxresdefault.jpg\",\"http://img.youtube.com/vi/nPa4Lu7CMPA/maxresdefault.jpg\",\"http://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg\",\"http://img.youtube.com/vi/MIn1VBaIlrQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/EJWQ6cYZBCk/maxresdefault.jpg\",\"http://img.youtube.com/vi/zqrk27Md2Bo/maxresdefault.jpg\",\"http://img.youtube.com/vi/ZErt5IiuEPA/maxresdefault.jpg\",\"http://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg\",\"http://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg\",\"http://img.youtube.com/vi/W-ekiTrnYW0/maxresdefault.jpg\",\"http://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg\",\"http://img.youtube.com/vi/tnpBsy1mGwQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/FVOqZ9sWi8k/maxresdefault.jpg\",\"http://img.youtube.com/vi/JrkPrBnN4UI/maxresdefault.jpg\",\"http://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg\",\"http://img.youtube.com/vi/d8oxCVYqxhU/maxresdefault.jpg\",\"http://img.youtube.com/vi/QV1lB2SqWos/maxresdefault.jpg\",\"http://img.youtube.com/vi/2Pjt88MXETw/maxresdefault.jpg\",\"http://img.youtube.com/vi/jpQSRVlR_XM/maxresdefault.jpg\",\"http://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg\",\"http://img.youtube.com/vi/TkvIb74D38g/maxresdefault.jpg\",\"http://img.youtube.com/vi/iQpQqqot8AQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg\",\"http://img.youtube.com/vi/v-5UnN1CD0E/maxresdefault.jpg\",\"http://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg\",\"http://img.youtube.com/vi/oPkjhNbvFTw/maxresdefault.jpg\",\"http://img.youtube.com/vi/f2SXn1p3d4I/maxresdefault.jpg\",\"http://img.youtube.com/vi/fRmzSDzuoRA/maxresdefault.jpg\",\"http://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg\",\"http://img.youtube.com/vi/9PUd4G27uNk/maxresdefault.jpg\",\"http://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg\",\"http://img.youtube.com/vi/DVIx37igPg0/maxresdefault.jpg\",\"http://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg\",\"http://img.youtube.com/vi/CqF0Cn4dZJs/maxresdefault.jpg\",\"http://img.youtube.com/vi/iGjxg6yI_og/maxresdefault.jpg\",\"http://img.youtube.com/vi/H107Gy4bTFs/maxresdefault.jpg\",\"http://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/QQpabiJ0uus/maxresdefault.jpg\",\"http://img.youtube.com/vi/7so4eDfFRws/maxresdefault.jpg\",\"http://img.youtube.com/vi/9xQP6vGylgE/maxresdefault.jpg\",\"http://img.youtube.com/vi/2qWrLJakj5M/maxresdefault.jpg\",\"http://img.youtube.com/vi/y3Gts_Aoxd8/maxresdefault.jpg\",\"http://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg\",\"http://img.youtube.com/vi/Gx66ZyZaf90/maxresdefault.jpg\",\"http://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg\",\"http://img.youtube.com/vi/79DqmMTV8-Y/maxresdefault.jpg\",\"http://img.youtube.com/vi/inJ5XFkvJ84/maxresdefault.jpg\",\"http://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg\",\"http://img.youtube.com/vi/_8WrWZXDKdQ/maxresdefault.jpg\",\"http://img.youtube.com/vi/a-kQryxgF4M/maxresdefault.jpg\",\"http://img.youtube.com/vi/VpqSppE8ppo/maxresdefault.jpg\",\"http://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg\",\"http://img.youtube.com/vi/A9yf6DpgLSM/maxresdefault.jpg\",\"http://img.youtube.com/vi/sO2seHdnH3c/maxresdefault.jpg\",\"http://img.youtube.com/vi/A3zOCbnCHLg/maxresdefault.jpg\",\"http://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg\",\"http://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg\",\"http://img.youtube.com/vi/kfEpQxhOtUk/maxresdefault.jpg\",\"http://img.youtube.com/vi/ERxmCic5y3o/maxresdefault.jpg\",\"http://img.youtube.com/vi/uz4evo3B7qw/maxresdefault.jpg\",\"http://img.youtube.com/vi/iHvoKckqh4o/maxresdefault.jpg\",\"http://img.youtube.com/vi/CDJnJMrwko8/maxresdefault.jpg\",\"http://img.youtube.com/vi/Jw8-KCURHUA/maxresdefault.jpg\",\"http://img.youtube.com/vi/Hey6DKTLdw8/maxresdefault.jpg\",\"http://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg\",\"http://img.youtube.com/vi/z7QaUClznXM/maxresdefault.jpg\",\"http://img.youtube.com/vi/SXGVU13JPLU/maxresdefault.jpg\",\"http://img.youtube.com/vi/pUrKNHKdDLA/maxresdefault.jpg\",\"http://img.youtube.com/vi/cWwkZlNW9ng/maxresdefault.jpg\",\"http://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg\",\"http://img.youtube.com/vi/44E5ezgbzHg/maxresdefault.jpg\",\"http://img.youtube.com/vi/TsuTBskJETc/maxresdefault.jpg\",\"http://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg\",\"http://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg\",\"http://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg\",\"http://img.youtube.com/vi/R-T1Ud6JTNo/maxresdefault.jpg\",\"http://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg\",\"http://img.youtube.com/vi/Sq1MDbnR1wg/maxresdefault.jpg\",\"http://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg\",\"http://img.youtube.com/vi/g_OFCYLH7gw/maxresdefault.jpg\",\"http://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg\",\"http://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg\",\"http://img.youtube.com/vi/5tvdNOJ7fCw/maxresdefault.jpg\",\"http://img.youtube.com/vi/KofWk5qh3jE/maxresdefault.jpg\",\"http://img.youtube.com/vi/X9EpK48pYtY/maxresdefault.jpg\",\"http://img.youtube.com/vi/awJQoJqGL-o/maxresdefault.jpg\",\"http://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg\",\"http://img.youtube.com/vi/sN5SCezYZTM/maxresdefault.jpg\",\"http://img.youtube.com/vi/FB9aNSfVARA/maxresdefault.jpg\",\"http://img.youtube.com/vi/gzqE0ygfM8Y/maxresdefault.jpg\",\"http://img.youtube.com/vi/dCvzeDvQtLY/maxresdefault.jpg\",\"http://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg\",\"http://img.youtube.com/vi/4zAG6xu-HQM/maxresdefault.jpg\",\"http://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg\",\"http://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg\",\"http://img.youtube.com/vi/f_x1AGOuR7A/maxresdefault.jpg\",\"http://img.youtube.com/vi/nu53ttV7jQI/maxresdefault.jpg\",\"http://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg\",\"http://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg\",\"http://img.youtube.com/vi/31zyNJHGmig/maxresdefault.jpg\",\"http://img.youtube.com/vi/4svMiNJ-HL0/maxresdefault.jpg\"]")
+let tinyImages = JSON.parse("[\"https://img.youtube.com/vi/QV1lB2SqWos/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21055%252Fdisplay%252FWashington_Square.JPG=c570x385\",\"https://img.youtube.com/vi/d8oxCVYqxhU/maxresdefault.jpg\",\"https://img.youtube.com/vi/JrkPrBnN4UI/maxresdefault.jpg\",\"https://img.youtube.com/vi/FVOqZ9sWi8k/maxresdefault.jpg\",\"https://img.youtube.com/vi/Eg3e5xfocOk/maxresdefault.jpg\",\"https://img.youtube.com/vi/DVIx37igPg0/maxresdefault.jpg\",\"https://img.youtube.com/vi/tnpBsy1mGwQ/maxresdefault.jpg\",\"https://img.youtube.com/vi/IRXVbzVLXls/maxresdefault.jpg\",\"https://img.youtube.com/vi/0EQnXawnCQk/maxresdefault.jpg\",\"https://img.youtube.com/vi/nPa4Lu7CMPA/maxresdefault.jpg\",\"https://img.youtube.com/vi/KRKqNflY-PU/maxresdefault.jpg\",\"https://img.youtube.com/vi/BtUB4Ycebms/maxresdefault.jpg\",\"https://img.youtube.com/vi/q9wQFn0hPbk/maxresdefault.jpg\",\"https://img.youtube.com/vi/z__BDhvkp9Q/maxresdefault.jpg\",\"https://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg\",\"http://maker.good.is/images/placeholder/idea.png\",\"https://img.youtube.com/vi/0fH09h-Rx9o/maxresdefault.jpg\",\"https://img.youtube.com/vi/XyASgYDVS_Q/maxresdefault.jpg\",\"https://img.youtube.com/vi/ZobE5kX4dTc/maxresdefault.jpg\",\"https://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg\",\"https://img.youtube.com/vi/UYdxlEZVaNA/maxresdefault.jpg\",\"https://img.youtube.com/vi/jRPfyjiCjwg/maxresdefault.jpg\",\"https://img.youtube.com/vi/myUKgR-PO4c/maxresdefault.jpg\",\"https://img.youtube.com/vi/XNxfMssLYzc/maxresdefault.jpg\",\"https://img.youtube.com/vi/ghRsAe0AExM/maxresdefault.jpg\",\"https://img.youtube.com/vi/-MVQfBjaOS0/maxresdefault.jpg\",\"https://img.youtube.com/vi/KHtt2okRChU/maxresdefault.jpg\",\"https://img.youtube.com/vi/I85PHrZjakM/maxresdefault.jpg\",\"https://img.youtube.com/vi/y5Q3OTnTYC4/maxresdefault.jpg\",\"https://img.youtube.com/vi/XFrn3G05ZVc/maxresdefault.jpg\",\"https://img.youtube.com/vi/K83J6XaqQlM/maxresdefault.jpg\",\"https://img.youtube.com/vi/cEATGWzLMiM/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16855%252Fdisplay%252FDLFlogo.jpg=c570x385\",\"https://img.youtube.com/vi/8GZELMERrSk/maxresdefault.jpg\",\"https://img.youtube.com/vi/HtWxHzKO0zY/maxresdefault.jpg\",\"https://img.youtube.com/vi/IYZkhNMTKrg/maxresdefault.jpg\",\"https://img.youtube.com/vi/fpGXBYHFZuE/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16942%252Fdisplay%252FSequester_student_working1.jpg=c570x385\",\"https://img.youtube.com/vi/aKgBQ7XR-pg/maxresdefault.jpg\",\"https://img.youtube.com/vi/6pkTdEgSCvo/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16296%252Fdisplay%252FEMAHeader.jpg=c570x385\",\"https://img.youtube.com/vi/kNqNTSXVqsI/maxresdefault.jpg\",\"https://img.youtube.com/vi/C1uVBoRtQ74/maxresdefault.jpg\",\"https://img.youtube.com/vi/nO6H3p5HpV4/maxresdefault.jpg\",\"https://img.youtube.com/vi/--BnysezHK0/maxresdefault.jpg\",\"https://img.youtube.com/vi/CZMjDcpz53c/maxresdefault.jpg\",\"https://img.youtube.com/vi/EpR6dHeaGIQ/maxresdefault.jpg\",\"https://img.youtube.com/vi/q2OELc_KuI4/maxresdefault.jpg\",\"https://img.youtube.com/vi/W-ekiTrnYW0/maxresdefault.jpg\",\"https://img.youtube.com/vi/t_fQo1Z6VSg/maxresdefault.jpg\",\"https://img.youtube.com/vi/_BC4Wfw6Gb4/maxresdefault.jpg\",\"https://img.youtube.com/vi/ZErt5IiuEPA/maxresdefault.jpg\",\"https://img.youtube.com/vi/gHdNsESWQgM/maxresdefault.jpg\",\"https://img.youtube.com/vi/gyQdQTAWs0U/maxresdefault.jpg\",\"https://img.youtube.com/vi/zqrk27Md2Bo/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17077%252Fdisplay%252FHelper_Logo.jpg=c570x385\",\"https://img.youtube.com/vi/EJWQ6cYZBCk/maxresdefault.jpg\",\"https://img.youtube.com/vi/EDmhXWDVs3M/maxresdefault.jpg\",\"https://img.youtube.com/vi/MIn1VBaIlrQ/maxresdefault.jpg\",\"https://img.youtube.com/vi/jpQSRVlR_XM/maxresdefault.jpg\",\"https://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg\",\"https://img.youtube.com/vi/TkvIb74D38g/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16812%252Fdisplay%252FLogo_Color_Large2.png=c570x385\",\"https://img.youtube.com/vi/2Pjt88MXETw/maxresdefault.jpg\",\"https://img.youtube.com/vi/CqF0Cn4dZJs/maxresdefault.jpg\",\"https://img.youtube.com/vi/lLS50WusJa4/maxresdefault.jpg\",\"https://img.youtube.com/vi/iQpQqqot8AQ/maxresdefault.jpg\",\"https://img.youtube.com/vi/pnwgZVtiDAA/maxresdefault.jpg\",\"https://img.youtube.com/vi/9PUd4G27uNk/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17051%252Fdisplay%252Ffullsized_ballot-brief-logo-stacked.jpeg=c570x385\",\"https://img.youtube.com/vi/v-5UnN1CD0E/maxresdefault.jpg\",\"https://img.youtube.com/vi/oPkjhNbvFTw/maxresdefault.jpg\",\"https://img.youtube.com/vi/7so4eDfFRws/maxresdefault.jpg\",\"https://img.youtube.com/vi/JPbaYb88x0U/maxresdefault.jpg\",\"https://img.youtube.com/vi/f2SXn1p3d4I/maxresdefault.jpg\",\"https://img.youtube.com/vi/SXGVU13JPLU/maxresdefault.jpg\",\"https://img.youtube.com/vi/iGjxg6yI_og/maxresdefault.jpg\",\"https://img.youtube.com/vi/fRmzSDzuoRA/maxresdefault.jpg\",\"https://img.youtube.com/vi/DRehRt5n68c/maxresdefault.jpg\",\"https://img.youtube.com/vi/kfEpQxhOtUk/maxresdefault.jpg\",\"https://img.youtube.com/vi/_AEWWNe6eQw/maxresdefault.jpg\",\"https://img.youtube.com/vi/QQpabiJ0uus/maxresdefault.jpg\",\"https://img.youtube.com/vi/Xoof6-2YZ_U/maxresdefault.jpg\",\"https://img.youtube.com/vi/79DqmMTV8-Y/maxresdefault.jpg\",\"https://img.youtube.com/vi/lilCVZW2Ggk/maxresdefault.jpg\",\"https://img.youtube.com/vi/hHXkL2SbXI8/maxresdefault.jpg\",\"https://img.youtube.com/vi/Q4dC-OX4vTw/maxresdefault.jpg\",\"https://img.youtube.com/vi/ql6hxsjKMCQ/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23910%252Fdisplay%252FMMH-NOW_Final_Logo_9.1.15_(8.5_x_3_5).jpg=c570x385\",\"https://img.youtube.com/vi/H107Gy4bTFs/maxresdefault.jpg\",\"https://img.youtube.com/vi/A3zOCbnCHLg/maxresdefault.jpg\",\"https://img.youtube.com/vi/9xQP6vGylgE/maxresdefault.jpg\",\"https://img.youtube.com/vi/2qWrLJakj5M/maxresdefault.jpg\",\"https://img.youtube.com/vi/sO2seHdnH3c/maxresdefault.jpg\",\"https://img.youtube.com/vi/A9yf6DpgLSM/maxresdefault.jpg\",\"https://img.youtube.com/vi/Gx66ZyZaf90/maxresdefault.jpg\",\"https://img.youtube.com/vi/z7nrpaONjUI/maxresdefault.jpg\",\"https://img.youtube.com/vi/JVyDVToMVoo/maxresdefault.jpg\",\"https://img.youtube.com/vi/y3Gts_Aoxd8/maxresdefault.jpg\",\"https://img.youtube.com/vi/z7QaUClznXM/maxresdefault.jpg\",\"https://img.youtube.com/vi/XUlv1Zd4JZU/maxresdefault.jpg\",\"http://maker.good.is/images/placeholder/idea.png\",\"http://maker.good.is/images/placeholder/idea.png\",\"https://img.youtube.com/vi/VpqSppE8ppo/maxresdefault.jpg\",\"https://img.youtube.com/vi/a-kQryxgF4M/maxresdefault.jpg\",\"https://img.youtube.com/vi/_8WrWZXDKdQ/maxresdefault.jpg\",\"https://img.youtube.com/vi/ApjqumUUgTI/maxresdefault.jpg\",\"https://img.youtube.com/vi/Hey6DKTLdw8/maxresdefault.jpg\",\"https://img.youtube.com/vi/inJ5XFkvJ84/maxresdefault.jpg\",\"https://img.youtube.com/vi/Cb6MAN2lVkg/maxresdefault.jpg\",\"https://img.youtube.com/vi//maxresdefault.jpg\",\"https://img.youtube.com/vi/TsuTBskJETc/maxresdefault.jpg\",\"https://img.youtube.com/vi/yUDKtK6Gfls/maxresdefault.jpg\",\"https://img.youtube.com/vi/Jw8-KCURHUA/maxresdefault.jpg\",\"https://img.youtube.com/vi/CDJnJMrwko8/maxresdefault.jpg\",\"https://img.youtube.com/vi/iHvoKckqh4o/maxresdefault.jpg\",\"https://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg\",\"https://img.youtube.com/vi/uz4evo3B7qw/maxresdefault.jpg\",\"https://img.youtube.com/vi/cWwkZlNW9ng/maxresdefault.jpg\",\"https://img.youtube.com/vi/ERxmCic5y3o/maxresdefault.jpg\",\"https://img.youtube.com/vi/pUrKNHKdDLA/maxresdefault.jpg\",\"https://img.youtube.com/vi/lz8FDz2KN0s/maxresdefault.jpg\",\"https://img.youtube.com/vi/R-T1Ud6JTNo/maxresdefault.jpg\",\"https://img.youtube.com/vi/xF48V9enLaE/maxresdefault.jpg\",\"https://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg\",\"https://img.youtube.com/vi/TlilAMszJEs/maxresdefault.jpg\",\"https://img.youtube.com/vi/dCvzeDvQtLY/maxresdefault.jpg\",\"https://img.youtube.com/vi/gzqE0ygfM8Y/maxresdefault.jpg\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16903%252Fdisplay%252FLBSpan2med.jpg=c570x385\",\"https://img.youtube.com/vi/FB9aNSfVARA/maxresdefault.jpg\",\"https://img.youtube.com/vi/lg-vCWbUV8s/maxresdefault.jpg\",\"https://img.youtube.com/vi/sN5SCezYZTM/maxresdefault.jpg\",\"https://img.youtube.com/vi/2U1i7uKpy8Y/maxresdefault.jpg\",\"https://img.youtube.com/vi/awJQoJqGL-o/maxresdefault.jpg\",\"https://img.youtube.com/vi/X9EpK48pYtY/maxresdefault.jpg\",\"https://img.youtube.com/vi/KofWk5qh3jE/maxresdefault.jpg\",\"https://img.youtube.com/vi/BnbLK2sxsXI/maxresdefault.jpg\",\"https://img.youtube.com/vi/5tvdNOJ7fCw/maxresdefault.jpg\",\"https://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg\",\"https://img.youtube.com/vi/nu53ttV7jQI/maxresdefault.jpg\",\"https://img.youtube.com/vi/SdL6NXZskjo/maxresdefault.jpg\",\"https://img.youtube.com/vi/g_OFCYLH7gw/maxresdefault.jpg\",\"https://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg\",\"https://img.youtube.com/vi/Sq1MDbnR1wg/maxresdefault.jpg\",\"https://img.youtube.com/vi/f_x1AGOuR7A/maxresdefault.jpg\",\"https://img.youtube.com/vi/-8HpYaBGc4I/maxresdefault.jpg\",\"https://img.youtube.com/vi/4svMiNJ-HL0/maxresdefault.jpg\",\"https://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg\",\"https://img.youtube.com/vi/31zyNJHGmig/maxresdefault.jpg\",\"https://img.youtube.com/vi/4zAG6xu-HQM/maxresdefault.jpg\"]")
 let tinyImagesLookup = {}
 tinyImages.forEach(image => {
   if (image.includes("youtube")) {
@@ -215,16 +261,16 @@ tinyImages.forEach(image => {
 //   img.src = image.getAttribute("src");
 // })
 
-//JSON.stringify(missingImages)
+// JSON.stringify(missingImages)
 
 
 // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17061%252Fdisplay%252FObama_kids_jobs.jpg=c570x385
 
 
-let missingImages = JSON.parse("[\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F18718%252Fdisplay%252FAntiguaSticker.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16399%252Fdisplay%252FAndrew_Colunga_whole_image_sm.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16109%252Fdisplay%252FBLOOM-NEWFINAL_LOGO_ccf_tag.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16042%252Fdisplay%252FBRAINCANCERLA2050.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16214%252Fdisplay%252FIMG_1031.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16195%252Fdisplay%252Fevolvela2.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16238%252Fdisplay%252FDebris_3.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16358%252Fdisplay%252Fvnfl_final_copy.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16366%252Fdisplay%252FStem_pic.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16779%252Fdisplay%252FJabami.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17061%252Fdisplay%252FObama_kids_jobs.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16174%252Fdisplay%252FLAM_Robots.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16822%252Fdisplay%252Freal_estate_and_social_media_thoughts_1113.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16307%252Fdisplay%252Fimage.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16057%252Fdisplay%252Fmcmenyellowandwhite_final.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16395%252Fdisplay%252FPOSTCARD-1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16300%252Fdisplay%252F2010-2011_Graduation_Picture.171103650_std.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16261%252Fdisplay%252FLASA_2012.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16360%252Fdisplay%252FGarden_Sign.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16669%252Fdisplay%252FCLARK_The_Country_Wife__1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16254%252Fdisplay%252Fscholarspic.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16390%252Fdisplay%252Fslider_gocarts2.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22867%252Fdisplay%252FGiveHalf_009.jpg=c570x385\"]")
+let missingImages = JSON.parse("[\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16321%252Fdisplay%252F2050_image.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16313%252Fdisplay%252Fsamsung_device_801.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21279%252Fdisplay%252F20121102_193319.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16042%252Fdisplay%252FBRAINCANCERLA2050.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17103%252Fdisplay%252FScreen_shot_2013-03-28_at_2.40.43_PM.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16214%252Fdisplay%252FIMG_1031.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F17107%252Fdisplay%252Frachelschmid.elrio.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16290%252Fdisplay%252Fzenfunder-la2050.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16774%252Fdisplay%252Fvertical_AP_kit_3.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23585%252Fdisplay%252FEW_Molly_EWLA_sm.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16195%252Fdisplay%252Fevolvela2.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16352%252Fdisplay%252Fvnfl_final.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16238%252Fdisplay%252FDebris_3.JPG=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16366%252Fdisplay%252FStem_pic.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16174%252Fdisplay%252FLAM_Robots.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16399%252Fdisplay%252FAndrew_Colunga_whole_image_sm.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16109%252Fdisplay%252FBLOOM-NEWFINAL_LOGO_ccf_tag.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16271%252Fdisplay%252Fopenhealthcentral.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16307%252Fdisplay%252Fimage.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16057%252Fdisplay%252Fmcmenyellowandwhite_final.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16300%252Fdisplay%252F2010-2011_Graduation_Picture.171103650_std.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16261%252Fdisplay%252FLASA_2012.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16360%252Fdisplay%252FGarden_Sign.png=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16395%252Fdisplay%252FPOSTCARD-1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16669%252Fdisplay%252FCLARK_The_Country_Wife__1.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16254%252Fdisplay%252Fscholarspic.jpg=c570x385\",\"http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16390%252Fdisplay%252Fslider_gocarts2.jpg=c570x385\"]")
 let missingImagesLookup = {}
 
-console.dir(missingImages)
+// console.dir(missingImages)
 
 missingImages.forEach(image => {
   if (image.includes("Obama_kids_jobs.jpg")) {
@@ -233,7 +279,7 @@ missingImages.forEach(image => {
   }
   missingImagesLookup[image] = 1
 })
-console.dir(missingImagesLookup)
+// console.dir(missingImagesLookup)
 
 
 function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswers) {
@@ -334,10 +380,16 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   } else if (data.year_submitted == 2015 || 
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
-    if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
+    // if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
+    if (true) {
       // if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
       let match = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
+      if (data.organization_id == 2015051) {
+        console.dir(data)
+        console.dir(match)
+      }
       if (match && match.image) {
+        // console.dir(match)
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
         // http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23182%252Fdisplay%252FCCC_pic17_small.jpg=c570x385
 
@@ -387,11 +439,11 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   }
   data = fixDataCharacters(data);
 
-  if (data.project_image.includes("Obama_kids_jobs.jpg")) {
-    console.log("checking for missing image Obama_kids_jobs.jpg")
-    console.log(`data.project_image: ${data.project_image}`)
-    console.log(`missingImagesLookup[data.project_image]: ${missingImagesLookup[data.project_image]}`)
-  }
+  // if (data.project_image.includes("Obama_kids_jobs.jpg")) {
+  //   console.log("checking for missing image Obama_kids_jobs.jpg")
+  //   console.log(`data.project_image: ${data.project_image}`)
+  //   console.log(`missingImagesLookup[data.project_image]: ${missingImagesLookup[data.project_image]}`)
+  // }
   if (missingImagesLookup[data.project_image]) {
     data.project_image = "http://maker.good.is/images/placeholder/idea.png"
   }
@@ -477,6 +529,55 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
 }
 
 
+function getProjectRecords(filename, year) {
+  let input = fs.readFileSync(`../_spreadsheets/${filename}`, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+  let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+  records.forEach(record => {
+    if (!record.year_submitted) record.year_submitted = year
+  })
+  return records
+}
+
+const years = [2013, 2014, 2015, 2016, 2018]
+let projectRecords = []
+years.forEach(year => {
+  projectRecords = projectRecords.concat(getProjectRecords(`projects-${year}.csv`, year))
+})
+
+
+let projectsLookup = {}
+projectRecords.forEach(project => {
+  if (!projectsLookup[project.organization_id]) {
+    projectsLookup[project.organization_id] = []
+  }
+  projectsLookup[project.organization_id].push(project)
+})
+
+
+function getLatestProjectTitle(organization) {
+  if (organization.organization_id == 2015051) {
+    console.log("getLatestProjectTitle for verynice")
+  }
+  let candidates = projectsLookup[organization.organization_id]
+  if (projectsLookup[organization.organization_id] &&
+      projectsLookup[organization.organization_id].length > 0) {
+    candidates.sort(function (a, b) {
+      // a is less than b by some ordering criterion
+      if (a.year_submitted > b.year_submitted) {
+        return -1
+      }
+      // a is greater than b by the ordering criterion
+      if (a.year_submitted < b.year_submitted) {
+        return 1
+      }
+      // a must be equal to b
+      return 0
+    })
+    return candidates[0].title
+  }
+}
+
+
 let organizationTagsInput = fs.readFileSync('../_spreadsheets/tags-organization-2013-2018.csv', 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
 let organizationTags = parse(organizationTagsInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
 
@@ -489,7 +590,7 @@ organizationTags.forEach(tag => {
 
 // Get document, or throw exception on error
 let parentTagsData = yaml.safeLoad(fs.readFileSync('../_data/tags.yaml', 'utf8'));
-console.dir(parentTagsData)
+// console.dir(parentTagsData)
 
 let parentTags = {}
 for (let prop in parentTagsData) {
@@ -499,11 +600,13 @@ for (let prop in parentTagsData) {
     })
   }
 }
-console.dir(parentTags)
+// console.dir(parentTags)
 
 generateAllCollections('organizations-2013-2018.csv', 
                        'maker-projects.csv',
                        'maker-user-media.csv',
                        'maker-project-properties.csv')
+
+
 
 

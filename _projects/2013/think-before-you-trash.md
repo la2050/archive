@@ -1,7 +1,6 @@
 ---
 organization_id: '2013083'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16238%252Fdisplay%252FDebris_3.JPG=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102141'
 title: Think Before You Trash
 indicator: ' Environmental Quality'

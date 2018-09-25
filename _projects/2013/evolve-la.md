@@ -1,7 +1,6 @@
 ---
 organization_id: '2013069'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16195%252Fdisplay%252Fevolvela2.png=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102046'
 title: evolve.la
 indicator: ' Social Connectedness'

@@ -1,7 +1,6 @@
 ---
 organization_id: '2013203'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16669%252Fdisplay%252FCLARK_The_Country_Wife__1.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102263'
 title: 'Arts on the Grounds: L.A. Escena Performance Series'
 indicator: Arts & Cultural Vitality

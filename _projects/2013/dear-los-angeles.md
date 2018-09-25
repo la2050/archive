@@ -1,7 +1,6 @@
 ---
 organization_id: '2013051'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16214%252Fdisplay%252FIMG_1031.JPG=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102103'
 title: Dear Los Angeles
 indicator: ' Social Connectedness'

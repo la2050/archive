@@ -1,7 +1,6 @@
 ---
 organization_id: '2013138'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16307%252Fdisplay%252Fimage.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102079'
 title: Empowering students thru arts and education
 indicator: ' Education'

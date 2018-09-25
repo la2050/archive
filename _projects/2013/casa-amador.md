@@ -1,7 +1,6 @@
 ---
 organization_id: '2013160'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16395%252Fdisplay%252FPOSTCARD-1.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102226'
 title: Casa Amador
 indicator: ' Housing'

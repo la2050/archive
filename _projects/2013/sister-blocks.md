@@ -1,7 +1,6 @@
 ---
 organization_id: '2013133'
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F16057%252Fdisplay%252Fmcmenyellowandwhite_final.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_id: '3102196'
 title: Sister Blocks
 indicator: ' Social Connectedness'
