@@ -23,6 +23,8 @@ project_ids: ''
 title: Los Angeles Performance Practice
 uri: /organizations/los-angeles-performance-practice/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
+project_titles:
+  - 'Los Angeles Performance Practice: Innovative Performance in DTLA'
 maker_image_id: '21753'
 maker_image_file_name: Shank_130920_453.jpg
 

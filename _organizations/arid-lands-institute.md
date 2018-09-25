@@ -22,6 +22,8 @@ project_ids: '4102113'
 title: Arid Lands Institute
 uri: /organizations/arid-lands-institute/
 challenge_url: ''
+project_titles:
+  - Climate Cents
 maker_image_id: '22512'
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
 

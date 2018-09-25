@@ -22,6 +22,8 @@ project_ids: '4102054'
 title: Libros Schmibros
 uri: /organizations/libros-schmibros/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
+project_titles:
+  - 'Bicycle Libraries: The Class of 2050'
 youtube_video_identifier: iFODyc5eUjQ
 
 ---

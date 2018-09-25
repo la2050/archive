@@ -22,6 +22,10 @@ project_ids: '5102160'
 title: Kensington Presents
 uri: /organizations/kensington-presents/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
+project_titles:
+  - >-
+    Kensington Presents: Free outdoor arts programming for all ages with
+    California State Parks
 youtube_video_identifier: v-5UnN1CD0E
 
 ---

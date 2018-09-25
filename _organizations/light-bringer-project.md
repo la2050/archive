@@ -22,6 +22,8 @@ project_ids: '4102144'
 title: Light Bringer Project
 uri: /organizations/light-bringer-project/
 challenge_url: ''
+project_titles:
+  - L.A. Futures
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG
 

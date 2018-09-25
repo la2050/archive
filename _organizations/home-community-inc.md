@@ -21,6 +21,8 @@ project_ids: '4102134'
 title: home&community inc
 uri: /organizations/home-community-inc/
 challenge_url: ''
+project_titles:
+  - The Shed Pasadena
 youtube_video_identifier: zs2Oe9X1llQ
 
 ---

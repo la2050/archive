@@ -21,6 +21,10 @@ project_ids: '4102116'
 title: Boys & Girls Club of Hollywood
 uri: /organizations/boys-girls-club-of-hollywood/
 challenge_url: ''
+project_titles:
+  - >-
+    IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
+    Awareness Campaign
 youtube_video_identifier: qBtFoJ-YYd0
 
 ---

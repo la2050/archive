@@ -72,6 +72,8 @@ project_ids: '3102058'
 title: Cheshire Moon Inc
 uri: /organizations/cheshire-moon-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
+project_titles:
+  - Dancescape Ed
 youtube_video_identifier: mf0l7ocARFM
 
 ---

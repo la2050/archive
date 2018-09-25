@@ -21,6 +21,8 @@ project_ids: '5102091'
 title: Duvivier Architects (DA)
 uri: /organizations/duvivier-architects-da/
 challenge_url: ''
+project_titles:
+  - GRID Project to Get Freight Containers Off Freeways
 youtube_video_identifier: fAQOxqwuIHk
 
 ---

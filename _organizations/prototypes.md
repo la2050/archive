@@ -25,6 +25,12 @@ project_ids: '5102246'
 title: Prototypes
 uri: /organizations/prototypes/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
+project_titles:
+  - >-
+    The Impact of a Second Chance: An Innovative Women’s Prison Diversion
+    Program
+  - Creating Opportunities For Physical Activity (COPA) - Peer Coach PE Program
+  - Inspiring Healthy Futures
 maker_image_id: '23741'
 maker_image_file_name: 2013_Pomona_0649.JPG
 

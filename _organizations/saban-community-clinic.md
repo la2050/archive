@@ -22,6 +22,10 @@ project_ids: '4102161'
 title: Saban Community Clinic
 uri: /organizations/saban-community-clinic/
 challenge_url: ''
+project_titles:
+  - >-
+    The Achievable Clinic: quality healthcare for families and people with
+    developmental disabilities
 maker_image_id: '22174'
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 

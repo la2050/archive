@@ -25,6 +25,8 @@ project_ids: '4102072'
 title: Positive Minded People
 uri: /organizations/positive-minded-people/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
+project_titles:
+  - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
 maker_image_id: '22152'
 maker_image_file_name: Image_for_Good.jpg
 

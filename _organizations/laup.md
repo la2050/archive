@@ -106,6 +106,8 @@ project_ids: '3102176'
 title: LAUP
 uri: /organizations/laup/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAUPPreschool.html'
+project_titles:
+  - LAUP/LA2050 Preschool Research Project
 youtube_video_identifier: J0uae-Y78Nw
 
 ---

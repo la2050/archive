@@ -24,6 +24,8 @@ project_ids: '4102118'
 title: 'Millennial Magazine: Apps4LA'
 uri: /organizations/millennial-magazine-apps4la/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
+project_titles:
+  - Apps4LA- Transitioning Los Angeles into a Smart City
 youtube_video_identifier: Vv698CCwrt4
 
 ---

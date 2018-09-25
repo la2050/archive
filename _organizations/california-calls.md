@@ -67,6 +67,10 @@ project_ids: '3102048'
 title: California Calls
 uri: /organizations/california-calls/
 challenge_url: 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
+project_titles:
+  - >-
+    Turn Up the Turn Out: Engaging LAâ€™s Voters through Advanced Technology in
+    LowIncome Neighborhoods
 youtube_video_identifier: XyASgYDVS_Q
 
 ---

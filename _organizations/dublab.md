@@ -22,6 +22,9 @@ project_ids: '5102088'
 title: DUBLAB
 uri: /organizations/dublab/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html'
+project_titles:
+  - DUBLABs Open Studio Initiative
+  - SOUND SHARE LA
 youtube_video_identifier: xXMkk_S-UnU
 
 ---

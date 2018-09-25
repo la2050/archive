@@ -22,6 +22,8 @@ project_ids: '4102091'
 title: The Industry
 uri: /organizations/the-industry/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
+project_titles:
+  - 'HOPSCOTCH: A MOBILE OPERA AND POP-UP SPACE'
 youtube_video_identifier: 0SGeH9Mnt2k
 
 ---

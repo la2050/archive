@@ -83,6 +83,8 @@ project_ids: '3102143'
 title: H.E.L.P.E.R. Foundation
 uri: /organizations/h-e-l-p-e-r-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
+project_titles:
+  - Youth Outreach Unit Together We Create a Better Y.O.U.
 maker_image_id: '17077'
 maker_image_file_name: Helper_Logo.jpg
 

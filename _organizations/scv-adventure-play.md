@@ -25,6 +25,11 @@ project_ids: '5102290'
 title: SCV Adventure Play
 uri: /organizations/scv-adventure-play/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
+project_titles:
+  - >-
+    Eureka Villa Permanent Adventure Playground and County Wide Pop-ups by SCV
+    Adventure Play
+  - SCV Adventure Play Pop-ups and Park Projects
 maker_image_id: '24111'
 maker_image_file_name: SCV_ADvplay_table_logo.png
 

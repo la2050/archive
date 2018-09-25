@@ -24,6 +24,8 @@ project_ids: '4102081'
 title: Senior Star Power Productions
 uri: /organizations/senior-star-power-productions/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
+project_titles:
+  - Senior Star Power - Get Up Get Out & Get a Life! - The Beat Goes On
 youtube_video_identifier: TsuTBskJETc
 
 ---

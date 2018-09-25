@@ -21,6 +21,8 @@ project_ids: '4102172'
 title: The Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/the-los-angeles-forum-for-architecture-and-urban-design/
 challenge_url: ''
+project_titles:
+  - Seafood for the Future
 youtube_video_identifier: tgVu1wy15RQ
 
 ---

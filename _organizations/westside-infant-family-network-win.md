@@ -21,6 +21,8 @@ project_ids: '4102185'
 title: Westside Infant-Family Network (WIN)
 uri: /organizations/westside-infant-family-network-win/
 challenge_url: ''
+project_titles:
+  - 'CUT MY COMMUTE: CHANGING LAS QUALITY OF LIFE THROUGH LOCAL HIRE'
 youtube_video_identifier: 4svMiNJ-HL0
 
 ---

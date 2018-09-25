@@ -29,6 +29,8 @@ title: >-
 uri: >-
   /organizations/santa-monica-cradle-to-career-led-by-city-of-santa-monica-in-partnership-with-smmusd/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
+project_titles:
+  - The Thrive Center at Samohi
 maker_image_id: '23931'
 maker_image_file_name: wordcloud-thrivecenter.png
 

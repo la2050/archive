@@ -23,6 +23,8 @@ project_ids: '5102094'
 title: Environmental Charter Schools
 uri: /organizations/environmental-charter-schools/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
+project_titles:
+  - ECS Serves LA
 maker_image_id: '23859'
 maker_image_file_name: Good_Image_Change_the_World.jpg
 

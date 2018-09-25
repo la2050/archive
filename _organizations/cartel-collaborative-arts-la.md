@@ -35,6 +35,8 @@ project_ids: '3102008'
 title: 'cARTel: Collaborative Arts LA'
 uri: /organizations/cartel-collaborative-arts-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/cartel.html'
+project_titles:
+  - 'cARTel: Collaborative Arts LAs ToDo List'
 youtube_video_identifier: 4zAG6xu-HQM
 
 ---

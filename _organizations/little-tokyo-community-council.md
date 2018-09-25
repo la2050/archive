@@ -21,6 +21,8 @@ project_ids: '4102146'
 title: Little Tokyo Community Council
 uri: /organizations/little-tokyo-community-council/
 challenge_url: ''
+project_titles:
+  - Invisible to Invincible
 youtube_video_identifier: QQpabiJ0uus
 
 ---

@@ -55,6 +55,8 @@ project_ids: '3102234'
 title: South Bay Center for Community Development
 uri: /organizations/south-bay-center-for-community-development/
 challenge_url: 'http://maker.good.is/myla2050/projects/act2connect.html'
+project_titles:
+  - Act2Connect
 youtube_video_identifier: iHvoKckqh4o
 
 ---

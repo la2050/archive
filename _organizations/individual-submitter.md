@@ -25,6 +25,8 @@ project_ids: '5102141'
 title: Individual submitter
 uri: /organizations/individual-submitter/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/bringbackthebeaver.html'
+project_titles:
+  - Effective Drought Solutions
 maker_image_id: '23280'
 maker_image_file_name: Drought_Solutions_3.jpg
 

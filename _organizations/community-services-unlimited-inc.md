@@ -22,6 +22,8 @@ project_ids: '4102019'
 title: Community Services Unlimited inc.
 uri: /organizations/community-services-unlimited-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
+project_titles:
+  - Earth Day Every Day
 youtube_video_identifier: CQsypZUTmbo
 
 ---

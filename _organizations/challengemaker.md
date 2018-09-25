@@ -24,6 +24,8 @@ project_ids: ''
 title: ChallengeMaker
 uri: /organizations/challengemaker/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ChallengeMaker.html'
+project_titles:
+  - ChallengeMaker
 maker_image_id: '24048'
 maker_image_file_name: ChallnegeMaker_Deck_V5_1_pdf__page_2_of_8_.png
 

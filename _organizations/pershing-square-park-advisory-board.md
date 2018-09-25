@@ -23,6 +23,9 @@ project_ids: '4102068'
 title: Pershing Square Park Advisory Board
 uri: /organizations/pershing-square-park-advisory-board/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/KidsplayatPS.html'
+project_titles:
+  - Kids Play at Pershing Square
+  - Kids Play at Pershing Square
 maker_image_id: '20546'
 maker_image_file_name: Kids_Play_-_both_playgrounds_from_6th.jpg
 

@@ -21,6 +21,8 @@ project_ids: '4102162'
 title: Safecast
 uri: /organizations/safecast/
 challenge_url: ''
+project_titles:
+  - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
 youtube_video_identifier: Cb6MAN2lVkg
 
 ---

@@ -24,6 +24,8 @@ project_ids: ''
 title: 'Voter, LLC'
 uri: /organizations/voter-llc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/voter.html'
+project_titles:
+  - Politics in 8 Seconds
 youtube_video_identifier: cljP5pJVVbE
 
 ---

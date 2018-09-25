@@ -23,6 +23,8 @@ project_ids: ''
 title: URBAN AIR
 uri: /organizations/urban-air/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
+project_titles:
+  - URBAN AIR
 maker_image_id: '21229'
 maker_image_file_name: urban_air.jpg
 

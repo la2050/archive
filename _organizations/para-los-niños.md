@@ -22,6 +22,8 @@ project_ids: '5102228'
 title: Para Los Niños
 uri: /organizations/para-los-niños/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'
+project_titles:
+  - Engaging Parents to Reduce Truancy Rates
 youtube_video_identifier: 0MYV-P-oK80
 
 ---

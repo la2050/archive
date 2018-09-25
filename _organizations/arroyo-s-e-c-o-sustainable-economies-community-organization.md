@@ -22,6 +22,8 @@ project_ids: '4102009'
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 uri: /organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
+project_titles:
+  - ShareLA
 youtube_video_identifier: ytlmnttRP70
 
 ---

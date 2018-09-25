@@ -25,6 +25,10 @@ project_ids: '5102178'
 title: 'Living Advantage, Inc.'
 uri: /organizations/living-advantage-inc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
+project_titles:
+  - >-
+    Living Advantage Connecting Foster Youth in LA to a Sustainable Future:
+    Identity Equals Opportunity
 youtube_video_identifier: 1_UXQ2fFeSU
 
 ---

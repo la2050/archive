@@ -23,6 +23,8 @@ project_ids: '5102085'
 title: Dreamhaus Inc.
 uri: /organizations/dreamhaus-inc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
+project_titles:
+  - Pioneer the Dreams and Aspirations of Youth & Artists in South Los Angeles
 youtube_video_identifier: yy9nnTHABlE
 
 ---

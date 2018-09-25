@@ -100,6 +100,8 @@ project_ids: '3102021'
 title: Angelenos Against Gridlock
 uri: /organizations/angelenos-against-gridlock/
 challenge_url: 'http://maker.good.is/myla2050/projects/fundthisproject.html'
+project_titles:
+  - 'LA v2.0: Transforming LA into a World Class Place to Live'
 youtube_video_identifier: tnpBsy1mGwQ
 
 ---

@@ -25,6 +25,10 @@ project_ids: '5102274'
 title: 'South Bay Contemporary, CRAFTED'
 uri: /organizations/south-bay-contemporary-crafted/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
+project_titles:
+  - >-
+    SBC at CRAFTED: Bridging the Cultural and Generation Gap through Sustainable
+    Art Education
 maker_image_id: '24146'
 maker_image_file_name: Culture_gaps_for_la2050xsmall_copy.jpg
 

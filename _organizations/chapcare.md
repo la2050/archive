@@ -22,6 +22,8 @@ project_ids: '4102121'
 title: ChapCare
 uri: /organizations/chapcare/
 challenge_url: ''
+project_titles:
+  - 'Prototypes: Integrated Health Care for Women and Their Children'
 maker_image_id: '21436'
 maker_image_file_name: March_31_2014_at_5pm.jpeg
 

@@ -23,6 +23,10 @@ project_ids: '5102334'
 title: Unycyn Civic Arts
 uri: /organizations/unycyn-civic-arts/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'
+project_titles:
+  - >-
+    From the Mountains to the Sea growing Civic Art Gardens with schools along
+    the LA River
 youtube_video_identifier: 1Qmy2pX9eEo
 
 ---

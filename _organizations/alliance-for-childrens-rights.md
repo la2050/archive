@@ -25,6 +25,8 @@ project_ids: '5102012'
 title: Alliance for Children's Rights
 uri: /organizations/alliance-for-childrens-rights/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
+project_titles:
+  - Know Before You Go (B4UGO) Campaign
 maker_image_id: '24082'
 maker_image_file_name: Page_6_Behind_the_scenes.JPG
 

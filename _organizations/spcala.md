@@ -27,6 +27,11 @@ project_ids: '5102279'
 title: spcaLA
 uri: /organizations/spcala/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ASN.html'
+project_titles:
+  - >-
+    spcaLAs ASN: Helping domestic violence survivors & their pets live safer
+    healthier lives
+  - End Violence Create Generation Empathy®
 maker_image_id: '23662'
 maker_image_file_name: Carrie_15-00963.jpg
 

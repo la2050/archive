@@ -22,6 +22,8 @@ project_ids: '4102135'
 title: Hunger Action Los Angeles
 uri: /organizations/hunger-action-los-angeles/
 challenge_url: ''
+project_titles:
+  - Revitalizing La Tierra de la Culebra community art park
 maker_image_id: '22352'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 

@@ -23,6 +23,8 @@ project_ids: '5102032'
 title: BookArtsLA
 uri: /organizations/bookartsla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
+project_titles:
+  - Make a Book Read a Book
 maker_image_id: '23476'
 maker_image_file_name: IMG_8796_(2).JPG
 

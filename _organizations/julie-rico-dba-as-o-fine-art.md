@@ -22,6 +22,8 @@ project_ids: '8102096'
 title: Julie Rico DBA as O Fine Art
 uri: /organizations/julie-rico-dba-as-o-fine-art/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
+project_titles:
+  - LA ART FEST
 youtube_video_identifier: pnwgZVtiDAA
 
 ---

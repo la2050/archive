@@ -65,6 +65,8 @@ project_ids: '3102123'
 title: Electronic Music Alliance
 uri: /organizations/electronic-music-alliance/
 challenge_url: 'http://maker.good.is/myla2050/projects/EMAPLAY.html'
+project_titles:
+  - 'EMA PLAY:  Dance Create Think Make the Future'
 maker_image_id: '16296'
 maker_image_file_name: EMAHeader.jpg
 

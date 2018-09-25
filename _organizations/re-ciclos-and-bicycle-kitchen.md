@@ -24,6 +24,8 @@ project_ids: '5102248'
 title: 'Re:Ciclos and Bicycle Kitchen'
 uri: /organizations/re-ciclos-and-bicycle-kitchen/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
+project_titles:
+  - 'Re:Ciclos a movement by bicycle. A new project of the Bicycle Kitchen'
 youtube_video_identifier: a-kQryxgF4M
 
 ---

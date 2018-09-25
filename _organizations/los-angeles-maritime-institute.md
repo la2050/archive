@@ -24,6 +24,8 @@ project_ids: '5102190'
 title: Los Angeles Maritime Institute
 uri: /organizations/los-angeles-maritime-institute/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
+project_titles:
+  - Adventure Education Aboard L.A.s Official Tall Ships
 youtube_video_identifier: m_0WUOFanyM
 
 ---

@@ -22,6 +22,8 @@ project_ids: '4102170'
 title: The Kitchen Community
 uri: /organizations/the-kitchen-community/
 challenge_url: ''
+project_titles:
+  - 'Mobile Forum: Architecture and Urbanism To-Go'
 maker_image_id: '21882'
 maker_image_file_name: Happy_Greens.jpg
 

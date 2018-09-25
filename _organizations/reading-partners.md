@@ -26,6 +26,10 @@ project_ids: '5102249'
 title: Reading Partners
 uri: /organizations/reading-partners/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
+project_titles:
+  - >-
+    Reading Partners LA: The Path to Fourth Grade Reading Proficiency for 1000
+    Children
 youtube_video_identifier: sKN2PQLjrps
 
 ---

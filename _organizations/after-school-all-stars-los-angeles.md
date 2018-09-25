@@ -26,6 +26,8 @@ project_ids: '5102010'
 title: 'After-School All-Stars, Los Angeles'
 uri: /organizations/after-school-all-stars-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
+project_titles:
+  - 'W.A.R.: The Battle Starts With You... We Are Ready Are You?'
 youtube_video_identifier: t3QQPi2pnEU
 
 ---

@@ -38,6 +38,8 @@ project_ids: '3102198'
 title: Mission Asset Fund
 uri: /organizations/mission-asset-fund/
 challenge_url: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+project_titles:
+  - 'Building on LAs Social Capital '
 youtube_video_identifier: AXqYX0rfbys
 
 ---

@@ -24,6 +24,11 @@ project_ids: '5102054'
 title: Children's Bureau of Southern California
 uri: /organizations/childrens-bureau-of-southern-california/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ChildrensBureau.html'
+project_titles:
+  - South Los Angeles Healthy Corner Store Conversion Program
+  - >-
+    BelongLA â€“ Engaging Angelenos to connect share and transform their
+    neighborhoods and lives
 maker_image_id: '23775'
 maker_image_file_name: CB_Logo.jpg
 

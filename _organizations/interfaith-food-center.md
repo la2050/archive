@@ -20,6 +20,8 @@ project_ids: '4102141'
 title: Interfaith Food Center
 uri: /organizations/interfaith-food-center/
 challenge_url: ''
+project_titles:
+  - LINCOLN HEIGHTS HEALTH INITIATIVE
 maker_image_id: '20849'
 maker_image_file_name: NEW_IFCLOGO.jpg
 

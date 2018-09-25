@@ -24,6 +24,9 @@ project_ids: '4102005'
 title: Advancement Project California
 uri: /organizations/advancement-project-california/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
+project_titles:
+  - 'Disrupt Violence: Hot Zones into Play Zones'
+  - 'Advancement Project: Safe Streets for Watts Students'
 youtube_video_identifier: nt_fnRYCyhI
 
 ---

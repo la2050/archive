@@ -24,6 +24,8 @@ project_ids: '8102082'
 title: FEAL.LA
 uri: /organizations/feal-la/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
+project_titles:
+  - FEAL.LA - A sanctuary for the arts.
 maker_image_id: '23967'
 maker_image_file_name: LOGO.png
 

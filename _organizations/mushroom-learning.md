@@ -20,6 +20,8 @@ project_ids: '4102067'
 title: Mushroom Learning
 uri: /organizations/mushroom-learning/
 challenge_url: ''
+project_titles:
+  - We Teach Kids Code
 maker_image_id: '21687'
 maker_image_file_name: la2050-pic-2.png
 

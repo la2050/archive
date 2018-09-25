@@ -35,6 +35,8 @@ project_ids: '3102023'
 title: API Equality-LA
 uri: /organizations/api-equality-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
+project_titles:
+  - Eye to Eye LGBTQ Organizing Center
 maker_image_id: '16625'
 maker_image_file_name: CIMG0246.jpg
 

@@ -22,6 +22,9 @@ project_ids: '4102189'
 title: Young Invincibles
 uri: /organizations/young-invincibles/
 challenge_url: ''
+project_titles:
+  - 'CA Youth Jobs Tour: Los Angeles Stops'
+  - Young Leaders For A Healthy LA
 maker_image_id: '21770'
 maker_image_file_name: jobstour.png
 

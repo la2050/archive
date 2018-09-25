@@ -23,6 +23,10 @@ title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 uri: >-
   /organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/
 challenge_url: ''
+project_titles:
+  - >-
+    Mapping Los Angeles Air Pollution through a mobile application to create
+    awareness and engagement.
 maker_image_id: '20504'
 maker_image_file_name: myla2.png
 

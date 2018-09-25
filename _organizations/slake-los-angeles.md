@@ -28,6 +28,8 @@ project_ids: '3102233'
 title: 'Slake: Los Angeles'
 uri: /organizations/slake-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/slakelosangeles.html'
+project_titles:
+  - 'Slake: Los Angeles'
 youtube_video_identifier: CDJnJMrwko8
 
 ---

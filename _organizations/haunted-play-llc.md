@@ -24,6 +24,10 @@ project_ids: '4102158'
 title: Haunted Play LLC
 uri: /organizations/haunted-play-llc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
+project_titles:
+  - >-
+    Interactive Live Theatre where the audience moves through the story and
+    plays their part in the tale
 youtube_video_identifier: wGHuWyQEQIU
 
 ---

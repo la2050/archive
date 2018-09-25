@@ -50,6 +50,8 @@ project_ids: '3102214'
 title: Pasadena Arts Council
 uri: /organizations/pasadena-arts-council/
 challenge_url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
+project_titles:
+  - AxS aksis Festival
 maker_image_id: '16490'
 maker_image_file_name: AxSBrochure_Cover_v2.jpg
 

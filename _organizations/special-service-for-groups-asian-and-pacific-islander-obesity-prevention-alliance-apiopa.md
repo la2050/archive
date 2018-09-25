@@ -67,6 +67,8 @@ title: >-
 uri: >-
   /organizations/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/
 challenge_url: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
+project_titles:
+  - Chinatown Food Hub
 youtube_video_identifier: DXcrNhhe5V0
 
 ---

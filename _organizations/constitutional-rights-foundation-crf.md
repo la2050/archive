@@ -24,6 +24,10 @@ project_ids: '4102022'
 title: 'Constitutional Rights Foundation, CRF'
 uri: /organizations/constitutional-rights-foundation-crf/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
+project_titles:
+  - >-
+    Practicing Good CITYzenship: Today’s Civic Action Project Builds Prosocial
+    Connections for LA2050
 youtube_video_identifier: I85PHrZjakM
 
 ---

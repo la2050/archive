@@ -41,6 +41,8 @@ project_ids: '3102095'
 title: CRE Outreach
 uri: /organizations/cre-outreach/
 challenge_url: 'http://maker.good.is/myla2050/projects/creoutreach.html'
+project_titles:
+  - Transforming Lives One Show at a Time
 youtube_video_identifier: pp9oh64x-9Y
 
 ---

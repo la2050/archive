@@ -27,6 +27,8 @@ title: San Fernando Valley Arts & Cultural Center and The Valley Economic Allian
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
+project_titles:
+  - Connecting to Los Angeles Arts Culture & Entertainment
 youtube_video_identifier: ''
 
 ---

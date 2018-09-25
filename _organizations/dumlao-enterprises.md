@@ -24,6 +24,8 @@ project_ids: '8102052'
 title: Dumlao Enterprises
 uri: /organizations/dumlao-enterprises/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
+project_titles:
+  - MY CITY
 youtube_video_identifier: NHaLkpe_jms
 
 ---

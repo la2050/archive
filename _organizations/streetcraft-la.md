@@ -46,6 +46,10 @@ project_ids: '3102239'
 title: Streetcraft LA
 uri: /organizations/streetcraft-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/streetcraft.html'
+project_titles:
+  - >-
+    Streetcraft: where street hustlers and tag bangers become creative economy
+    entrepreneurs
 youtube_video_identifier: LDkB_pxZu2k
 
 ---

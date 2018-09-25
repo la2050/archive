@@ -24,6 +24,8 @@ project_ids: '5102124'
 title: 'GrowGood, Inc.'
 uri: /organizations/growgood-inc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
+project_titles:
+  - Launching GrowGoods Social Enterprise Business
 youtube_video_identifier: zqrk27Md2Bo
 
 ---

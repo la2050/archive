@@ -25,6 +25,9 @@ project_ids: '5102129'
 title: Heal the Bay
 uri: /organizations/heal-the-bay/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
+project_titles:
+  - Dropping Knowledge Project – Building a Water-Literate L.A.
+  - Heal the Bays Healthy Neighborhoods Healthy Environment Initiative
 youtube_video_identifier: EDmhXWDVs3M
 
 ---

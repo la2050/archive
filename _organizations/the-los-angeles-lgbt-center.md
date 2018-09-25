@@ -21,6 +21,8 @@ project_ids: '4102174'
 title: The Los Angeles LGBT Center
 uri: /organizations/the-los-angeles-lgbt-center/
 challenge_url: ''
+project_titles:
+  - 'Project SPIN: Suicide Prevention Intervention Now'
 youtube_video_identifier: lg-vCWbUV8s
 
 ---

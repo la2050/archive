@@ -56,6 +56,8 @@ project_ids: '3102224'
 title: Pullias Center for Higher Education
 uri: /organizations/pullias-center-for-higher-education/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegecapacity.html'
+project_titles:
+  - Increasing Capacity for College Going
 youtube_video_identifier: jGa5KEowRPM
 
 ---

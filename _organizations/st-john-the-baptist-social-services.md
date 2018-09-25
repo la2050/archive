@@ -64,6 +64,8 @@ project_ids: '3102237'
 title: St. John the Baptist Social Services
 uri: /organizations/st-john-the-baptist-social-services/
 challenge_url: 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
+project_titles:
+  - 'Building Bridges in the San Gabriel Valley: Social Connectedness in Action'
 maker_image_id: '16663'
 maker_image_file_name: BoyleTalk.jpg
 

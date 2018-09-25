@@ -53,6 +53,8 @@ project_ids: '3102113'
 title: Urban Macrosystems
 uri: /organizations/urban-macrosystems/
 challenge_url: 'http://maker.good.is/myla2050/projects/NRT.html'
+project_titles:
+  - 'Narrative Replacement Therapy: Reimagining the Heart of Los Angeles'
 maker_image_id: '16818'
 maker_image_file_name: placita_nueva.jpg
 

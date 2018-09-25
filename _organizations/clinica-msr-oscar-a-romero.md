@@ -24,6 +24,8 @@ project_ids: '5102068'
 title: Clinica Msr. Oscar A. Romero
 uri: /organizations/clinica-msr-oscar-a-romero/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
+project_titles:
+  - Live Well Pico Union
 maker_image_id: '24096'
 maker_image_file_name: exercise.jpg
 

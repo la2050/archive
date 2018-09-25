@@ -24,6 +24,10 @@ project_ids: '5102271'
 title: Social Action Partners (SoACT)
 uri: /organizations/social-action-partners-soact/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
+project_titles:
+  - >-
+    Disrupt the Desert: Reduce Poverty by Accelerating Social Innovation in
+    South LA
 youtube_video_identifier: iHlwRhoV_78
 
 ---

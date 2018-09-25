@@ -62,6 +62,8 @@ project_ids: '3102180'
 title: Liberty Hill
 uri: /organizations/liberty-hill/
 challenge_url: 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
+project_titles:
+  - Boot Camp 2050 for Change
 youtube_video_identifier: kfEpQxhOtUk
 
 ---

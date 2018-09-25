@@ -23,6 +23,8 @@ project_ids: '4102092'
 title: The L.A. Fort
 uri: /organizations/the-l-a-fort/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
+project_titles:
+  - 'The L.A. Fort: Maintain Collective Autonomy for the Arts in Los Angeles'
 maker_image_id: '22797'
 maker_image_file_name: 1836681_290007847815931_949505580_o(1).jpg
 

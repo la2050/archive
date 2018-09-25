@@ -24,6 +24,8 @@ project_ids: ''
 title: Dharma Health Institute
 uri: /organizations/dharma-health-institute/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
+project_titles:
+  - 'Making for Good: Empowering Girls to Improve Air Quality in Their Community'
 youtube_video_identifier: yP9QgOVBaYA
 
 ---

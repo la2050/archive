@@ -23,6 +23,10 @@ project_ids: ''
 title: Adventure Playhouse Indoor Activity Center
 uri: /organizations/adventure-playhouse-indoor-activity-center/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
+project_titles:
+  - >-
+    Have fun exercise and spend quality time with the family in a safe and clean
+    environment
 youtube_video_identifier: JrkPrBnN4UI
 
 ---

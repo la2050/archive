@@ -24,6 +24,11 @@ project_ids: '5102075'
 title: Communities In Schools of Los Angeles
 uri: /organizations/communities-in-schools-of-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
+project_titles:
+  - >-
+    Intersection Repair - Using art to create safer streets and stronger
+    communities
+  - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
 youtube_video_identifier: 8RfGcPRl--8
 
 ---

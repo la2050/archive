@@ -25,6 +25,8 @@ project_ids: '4102018'
 title: Community Centered
 uri: /organizations/community-centered/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
+project_titles:
+  - 'CivicLA: Connecting You to the Best of LA'
 maker_image_id: '21146'
 maker_image_file_name: civicla.png
 

@@ -23,6 +23,11 @@ title: The Center of Medical Multimedia Education and Technology (COMMET)
 uri: >-
   /organizations/the-center-of-medical-multimedia-education-and-technology-commet/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
+project_titles:
+  - >-
+    The Cyber Insecurity Initiative of the Los Angeles Health Care Security
+    Systems Project
+  - 'Market Match Program : Making Healthy Food Affordable'
 youtube_video_identifier: NNetdspYB4M
 
 ---

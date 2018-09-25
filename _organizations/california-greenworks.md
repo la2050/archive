@@ -62,6 +62,8 @@ project_ids: '3102050'
 title: California Greenworks
 uri: /organizations/california-greenworks/
 challenge_url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
+project_titles:
+  - The Million Reusable Bag Giveaway
 maker_image_id: '17141'
 maker_image_file_name: Leroy.JPG
 

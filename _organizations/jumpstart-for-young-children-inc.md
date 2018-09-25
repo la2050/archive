@@ -26,6 +26,11 @@ project_ids: '5102153'
 title: 'Jumpstart For Young Children, Inc.'
 uri: /organizations/jumpstart-for-young-children-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
+project_titles:
+  - >-
+    Jumpstart: Delivering Quality Early Education To Close the Achievement Gap
+    *Before* it Begins
+  - 'Jumpstart: Preschool Changes Everything'
 youtube_video_identifier: a-3Yo_Yz5Vc
 
 ---

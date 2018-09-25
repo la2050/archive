@@ -22,6 +22,8 @@ project_ids: '4102105'
 title: Will & Company
 uri: /organizations/will-company/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
+project_titles:
+  - Arts & Fitness After School for the Health of Young Minds Bodies and Spirits
 youtube_video_identifier: GzEz6Q-9lWQ
 
 ---

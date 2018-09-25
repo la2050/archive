@@ -23,6 +23,8 @@ project_ids: '5102042'
 title: Casa Libre
 uri: /organizations/casa-libre/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CasaLibre.html'
+project_titles:
+  - ACCESS TO EDUCATION FOR ALL!!!!
 youtube_video_identifier: 20ErlmkuIfQ
 
 ---

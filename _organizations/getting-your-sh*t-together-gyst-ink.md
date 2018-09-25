@@ -25,6 +25,8 @@ project_ids: ''
 title: Getting Your Sh*t Together (GYST-INK)
 uri: /organizations/getting-your-sh*t-together-gyst-ink/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
+project_titles:
+  - GYST Cloud for Art
 maker_image_id: '21305'
 maker_image_file_name: GYSTInksoftware_artworktracking.png
 

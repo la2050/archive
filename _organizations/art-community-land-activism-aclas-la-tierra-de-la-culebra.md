@@ -21,6 +21,8 @@ project_ids: '4102114'
 title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
 uri: /organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/
 challenge_url: ''
+project_titles:
+  - Healthy Teens Los Angeles
 youtube_video_identifier: jAOkF8UAOLI
 
 ---

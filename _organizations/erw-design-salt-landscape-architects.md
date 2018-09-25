@@ -50,6 +50,8 @@ project_ids: '3102036'
 title: ERW DESIGN + SALT Landscape Architects
 uri: /organizations/erw-design-salt-landscape-architects/
 challenge_url: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
+project_titles:
+  - PARKINABOX
 maker_image_id: '17284'
 maker_image_file_name: Poster2_smaller.jpg
 

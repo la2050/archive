@@ -38,6 +38,8 @@ project_ids: '3102272'
 title: 'Walking Shield, Inc.'
 uri: /organizations/walking-shield-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
+project_titles:
+  - 'LA American Indian College Education Initiative '
 maker_image_id: '16254'
 maker_image_file_name: scholarspic.jpg
 

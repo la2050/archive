@@ -69,6 +69,8 @@ project_ids: '3102099'
 title: String Theory Productions
 uri: /organizations/string-theory-productions/
 challenge_url: 'http://maker.good.is/myla2050/projects/giantharpproject.html'
+project_titles:
+  - The Los Angeles Giant Harp Project
 youtube_video_identifier: pUrKNHKdDLA
 
 ---

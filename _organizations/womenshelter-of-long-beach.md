@@ -23,6 +23,8 @@ project_ids: '4102107'
 title: WomenShelter of Long Beach
 uri: /organizations/womenshelter-of-long-beach/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
+project_titles:
+  - Safe Networks Active Communities
 maker_image_id: '20761'
 maker_image_file_name: logo.png
 

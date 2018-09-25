@@ -22,6 +22,8 @@ project_ids: '5102101'
 title: River Wild LLC
 uri: /organizations/river-wild-llc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
+project_titles:
+  - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
 youtube_video_identifier: CTFt7gFp6BY
 
 ---

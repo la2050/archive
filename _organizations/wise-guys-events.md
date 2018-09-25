@@ -22,6 +22,8 @@ project_ids: ''
 title: Wise Guys Events
 uri: /organizations/wise-guys-events/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
+project_titles:
+  - 'Watts Ball: A Fun New Playground Sport for Kids and Cops to Play Together'
 youtube_video_identifier: XYkDHo1jJ1c
 
 ---

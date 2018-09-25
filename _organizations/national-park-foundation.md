@@ -25,6 +25,8 @@ project_ids: '5102217'
 title: National Park Foundation
 uri: /organizations/national-park-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'
+project_titles:
+  - Every Kid in a Park in Los Angeles
 maker_image_id: '23519'
 maker_image_file_name: EKIPkidswithwalkingsticks.png
 

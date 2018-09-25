@@ -22,6 +22,8 @@ project_ids: '4102035'
 title: Experimental Half-Hour
 uri: /organizations/experimental-half-hour/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
+project_titles:
+  - Los Angeles Media Lab
 youtube_video_identifier: DiU_9RR7ZvY
 
 ---

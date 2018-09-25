@@ -39,6 +39,8 @@ project_ids: '3102166'
 title: KIPP LA Schools
 uri: /organizations/kipp-la-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
+project_titles:
+  - KIPP Through College
 maker_image_id: '17303'
 maker_image_file_name: KIPPThroughCollege3.jpg
 

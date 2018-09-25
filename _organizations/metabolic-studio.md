@@ -21,6 +21,10 @@ project_ids: '4102154'
 title: Metabolic Studio
 uri: /organizations/metabolic-studio/
 challenge_url: ''
+project_titles:
+  - >-
+    L.A.W.N. Los Angeles Water Network: A digital platform to help solve our
+    water crisis
 youtube_video_identifier: g8ndzuZ3kKM
 
 ---

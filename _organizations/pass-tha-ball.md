@@ -22,6 +22,8 @@ project_ids: '5102230'
 title: Pass Tha Ball
 uri: /organizations/pass-tha-ball/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
+project_titles:
+  - Hoops Center for the Youth
 youtube_video_identifier: IscZOss0am8
 
 ---

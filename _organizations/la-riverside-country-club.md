@@ -43,6 +43,8 @@ project_ids: '3102172'
 title: LA Riverside Country Club
 uri: /organizations/la-riverside-country-club/
 challenge_url: 'http://maker.good.is/myla2050/projects/LARiversideCC.html'
+project_titles:
+  - PLUNGE into the waters of the LA River
 youtube_video_identifier: rt9TuksVaZU
 
 ---

@@ -26,6 +26,8 @@ project_ids: '5102125'
 title: HappyCity Los Angeles
 uri: /organizations/happycity-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
+project_titles:
+  - Los Angeles Well-Being Project
 youtube_video_identifier: EJWQ6cYZBCk
 
 ---

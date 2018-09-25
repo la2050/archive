@@ -63,6 +63,8 @@ project_ids: '3102070'
 title: CityLife-LA
 uri: /organizations/citylife-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/CityLife-LA.html'
+project_titles:
+  - High School Students Shape the Future of Los Angeles
 youtube_video_identifier: EZJvYnujihw
 
 ---

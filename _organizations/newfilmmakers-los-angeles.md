@@ -24,6 +24,8 @@ project_ids: '4102063'
 title: NewFilmmakers Los Angeles
 uri: /organizations/newfilmmakers-los-angeles/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
+project_titles:
+  - NewFilmmakers LA
 youtube_video_identifier: grALjLXwxgM
 
 ---

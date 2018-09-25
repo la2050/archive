@@ -29,6 +29,8 @@ project_ids: '3102047'
 title: 'Cal Poly Pomona Foundation, Inc.'
 uri: /organizations/cal-poly-pomona-foundation-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'
+project_titles:
+  - Why is the grass always greener over the leach fields?
 youtube_video_identifier: 0fH09h-Rx9o
 
 ---

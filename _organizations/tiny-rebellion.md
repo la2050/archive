@@ -24,6 +24,8 @@ project_ids: '8102127'
 title: Tiny Rebellion
 uri: /organizations/tiny-rebellion/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
+project_titles:
+  - '#FeedtheDolphins'
 youtube_video_identifier: nu53ttV7jQI
 
 ---

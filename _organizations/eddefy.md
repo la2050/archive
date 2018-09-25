@@ -91,6 +91,8 @@ project_ids: '3102035'
 title: EDDEFY
 uri: /organizations/eddefy/
 challenge_url: 'http://maker.good.is/myla2050/projects/MASTERY.html'
+project_titles:
+  - 'MASTERY LA: Map Learning & Expertise for Lifelong Exploration'
 youtube_video_identifier: IYZkhNMTKrg
 
 ---

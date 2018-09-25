@@ -26,6 +26,8 @@ project_ids: '5102053'
 title: 'Children’s Institute, Inc. (CII)'
 uri: /organizations/childrens-institute-inc-cii/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
+project_titles:
+  - Building Healthy Futures for Children Who’ve Experienced Trauma
 youtube_video_identifier: 3AOHXhfJeho
 
 ---

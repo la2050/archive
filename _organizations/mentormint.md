@@ -25,6 +25,8 @@ project_ids: ''
 title: MentorMint
 uri: /organizations/mentormint/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
+project_titles:
+  - Lifelong Mentoring for All
 maker_image_id: '23218'
 maker_image_file_name: Cabrillo_High_School_Campus.JPG
 

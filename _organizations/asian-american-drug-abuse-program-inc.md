@@ -31,6 +31,8 @@ project_ids: '3102030'
 title: 'Asian American Drug Abuse Program, Inc'
 uri: /organizations/asian-american-drug-abuse-program-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
+project_titles:
+  - School Based Mentoring
 maker_image_id: '17043'
 maker_image_file_name: School_Based_Mentoring.jpg
 

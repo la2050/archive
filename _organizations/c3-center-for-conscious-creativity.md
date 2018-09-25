@@ -47,6 +47,8 @@ project_ids: '3102045'
 title: 'c3: Center for Conscious Creativity'
 uri: /organizations/c3-center-for-conscious-creativity/
 challenge_url: 'http://maker.good.is/myla2050/projects/f2futurefest.html'
+project_titles:
+  - f2 FutureFest LA
 youtube_video_identifier: n_itMCVl124
 
 ---

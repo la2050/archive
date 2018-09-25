@@ -31,6 +31,8 @@ project_ids: '3102077'
 title: MLoveizm Inc.
 uri: /organizations/mloveizm-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'
+project_titles:
+  - MLoveizm Supports Empowers and Inspires Los Angeles Artists
 youtube_video_identifier: Q4dC-OX4vTw
 
 ---

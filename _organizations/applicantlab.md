@@ -23,6 +23,8 @@ project_ids: ''
 title: ApplicantLab
 uri: /organizations/applicantlab/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
+project_titles:
+  - Conquering the College Essay
 youtube_video_identifier: IRXVbzVLXls
 
 ---

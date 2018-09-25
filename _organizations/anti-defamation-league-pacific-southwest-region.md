@@ -21,6 +21,8 @@ project_ids: '4102111'
 title: Anti-Defamation League - Pacific Southwest Region
 uri: /organizations/anti-defamation-league-pacific-southwest-region/
 challenge_url: ''
+project_titles:
+  - 'Becoming An Ally: Stopping Bias and Bullying in Los Angeles Schools'
 youtube_video_identifier: 3KyvlMJefR4
 
 ---

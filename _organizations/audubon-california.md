@@ -22,6 +22,8 @@ project_ids: '4102011'
 title: Audubon California
 uri: /organizations/audubon-california/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
+project_titles:
+  - WildLAParks
 youtube_video_identifier: KRKqNflY-PU
 
 ---

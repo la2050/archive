@@ -22,6 +22,8 @@ project_ids: ''
 title: The New History
 uri: /organizations/the-new-history/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
+project_titles:
+  - Play With Music Platform (PWMP)
 youtube_video_identifier: o1W8HEqylCg
 
 ---

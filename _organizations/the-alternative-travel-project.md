@@ -22,6 +22,8 @@ project_ids: '4102215'
 title: The Alternative Travel Project
 uri: /organizations/the-alternative-travel-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
+project_titles:
+  - The Alternative Travel Project - Go car FREE for just ONE day!
 youtube_video_identifier: u0DYRf98w-o
 
 ---

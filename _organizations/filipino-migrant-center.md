@@ -44,6 +44,8 @@ project_ids: '3102126'
 title: Filipino Migrant Center
 uri: /organizations/filipino-migrant-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/voices.html'
+project_titles:
+  - Moving Voices of Los Angeles
 youtube_video_identifier: nO6H3p5HpV4
 
 ---

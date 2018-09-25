@@ -24,6 +24,8 @@ project_ids: '5102022'
 title: Art of Acting Studio
 uri: /organizations/art-of-acting-studio/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
+project_titles:
+  - Art of Acting Studio 1 Week Theatre Intensives for Incarcerated Citizens
 maker_image_id: '23700'
 maker_image_file_name: 12113284_1058676700830263_4818412174925935968_o.jpg
 

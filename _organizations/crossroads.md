@@ -22,6 +22,10 @@ project_ids: '4102025'
 title: Crossroads
 uri: /organizations/crossroads/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
+project_titles:
+  - >-
+    Fallen Fruit from Rising Women: Empowering Women through Food Justice and
+    Social Entrepreneurship
 youtube_video_identifier: Ht0-3dSjCew
 
 ---

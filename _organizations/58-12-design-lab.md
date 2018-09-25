@@ -46,6 +46,8 @@ project_ids: '3102002'
 title: 58-12 Design Lab
 uri: /organizations/58-12-design-lab/
 challenge_url: 'http://maker.good.is/myla2050/projects/lastories.html'
+project_titles:
+  - LA Stories â€” Writing on the Job
 maker_image_id: '16859'
 maker_image_file_name: la2050_title.jpg
 

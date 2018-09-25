@@ -23,6 +23,8 @@ project_ids: '4102024'
 title: Critical Mass Dance Company (CMDC)
 uri: /organizations/critical-mass-dance-company-cmdc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
+project_titles:
+  - Dance Leadership Program for Women
 youtube_video_identifier: K83J6XaqQlM
 
 ---

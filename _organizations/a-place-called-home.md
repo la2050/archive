@@ -24,6 +24,8 @@ project_ids: '5102006'
 title: A Place Called Home
 uri: /organizations/a-place-called-home/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
+project_titles:
+  - Play for Life in South LA
 youtube_video_identifier: wzFv5uV3pew
 
 ---

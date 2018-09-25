@@ -20,6 +20,8 @@ project_ids: '4102137'
 title: Imagination Workshop
 uri: /organizations/imagination-workshop/
 challenge_url: ''
+project_titles:
+  - SFCLA - Serving Hope and Veggies where LA needs it most!
 maker_image_id: '20927'
 maker_image_file_name: index__element43.jpg
 

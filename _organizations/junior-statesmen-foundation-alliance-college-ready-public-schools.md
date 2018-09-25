@@ -26,6 +26,8 @@ title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 uri: >-
   /organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
+project_titles:
+  - Vote for civic-minded students and college success!
 maker_image_id: '23346'
 maker_image_file_name: 73168.jpg
 

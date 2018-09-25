@@ -30,6 +30,8 @@ project_ids: '3102101'
 title: Take Back the Grid
 uri: /organizations/take-back-the-grid/
 challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
+project_titles:
+  - Renewable Financing for Renewable Energy
 youtube_video_identifier: R-T1Ud6JTNo
 
 ---

@@ -22,6 +22,10 @@ project_ids: '4102050'
 title: LACE Center
 uri: /organizations/lace-center/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
+project_titles:
+  - >-
+    Liberate Arts! Intersect Our Communities! Create a Liberation Arts Institute
+    to make our own stories
 youtube_video_identifier: V_x6dj_Fa9M
 
 ---

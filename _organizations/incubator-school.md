@@ -19,6 +19,10 @@ project_ids: '4102140'
 title: Incubator School
 uri: /organizations/incubator-school/
 challenge_url: ''
+project_titles:
+  - >-
+    Incubator School Programs + Playbook: Open Source 21st Century
+    Entrepreneurial Education
 youtube_video_identifier: 2Pjt88MXETw
 
 ---

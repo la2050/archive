@@ -58,6 +58,9 @@ project_ids: '3102017'
 title: 'CitySourced, Inc.'
 uri: /organizations/citysourced-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CitySourcedCrimeApp.html'
+project_titles:
+  - Civic Crowdfunding Platform for Local Government and Schools
+  - Smartphone App for Civic Crime Reporting
 maker_image_id: '16290'
 maker_image_file_name: zenfunder-la2050.png
 

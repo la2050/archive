@@ -23,6 +23,8 @@ project_ids: '5102305'
 title: 'The Love Story and The Love Story Media, Inc.'
 uri: /organizations/the-love-story-and-the-love-story-media-inc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
+project_titles:
+  - The Love Story
 youtube_video_identifier: 2U1i7uKpy8Y
 
 ---

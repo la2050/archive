@@ -46,6 +46,8 @@ project_ids: '3102262'
 title: UCLA Labor Center
 uri: /organizations/ucla-labor-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/Dream.html'
+project_titles:
+  - Dream Resource Center
 youtube_video_identifier: Yogg_bV8Dew
 
 ---

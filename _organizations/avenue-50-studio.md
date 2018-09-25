@@ -24,6 +24,10 @@ project_ids: '4102012'
 title: Avenue 50 Studio
 uri: /organizations/avenue-50-studio/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'
+project_titles:
+  - >-
+    Poesia Para La Gente & Writ Large Press Present: The Neighborhood
+    Literary-scape Project
 youtube_video_identifier: BtUB4Ycebms
 
 ---

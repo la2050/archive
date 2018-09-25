@@ -22,6 +22,8 @@ project_ids: '4102109'
 title: Would-Works
 uri: /organizations/would-works/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
+project_titles:
+  - Permanent Workshop for Would-Works
 youtube_video_identifier: xlsYqBrzY4k
 
 ---

@@ -23,6 +23,8 @@ project_ids: ''
 title: Conant Moran Design & Fabrication
 uri: /organizations/conant-moran-design-fabrication/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
+project_titles:
+  - Neighborhood Art Provides Positive Local Focus
 maker_image_id: '20596'
 maker_image_file_name: IMAG0233.jpg
 

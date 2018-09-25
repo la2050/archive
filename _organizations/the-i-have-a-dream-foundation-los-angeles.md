@@ -63,6 +63,10 @@ project_ids: '3102243'
 title: The "I Have a Dream" Foundation - Los Angeles
 uri: /organizations/the-i-have-a-dream-foundation-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/ihaveadream.html'
+project_titles:
+  - >-
+    From Dream to Reality: IHADLA Will Help to Stop The Cycle of Poverty in Los
+    Angeles 2050
 youtube_video_identifier: CEGvQC5fAns
 
 ---

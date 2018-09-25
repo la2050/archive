@@ -23,6 +23,8 @@ project_ids: '5102270'
 title: Social & Environmental Entrepreneurs
 uri: /organizations/social-environmental-entrepreneurs/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
+project_titles:
+  - Veterans Gardens LA
 maker_image_id: '24052'
 maker_image_file_name: homelessstreetscene.jpg
 

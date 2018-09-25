@@ -26,6 +26,8 @@ project_ids: '5102083'
 title: DIY Girls
 uri: /organizations/diy-girls/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
+project_titles:
+  - downtown art walk votes
 youtube_video_identifier: g5AgtC0G5ec
 
 ---

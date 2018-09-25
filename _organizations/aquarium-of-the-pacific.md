@@ -22,6 +22,8 @@ project_ids: '4102112'
 title: Aquarium of the Pacific
 uri: /organizations/aquarium-of-the-pacific/
 challenge_url: ''
+project_titles:
+  - Los Angeles Trade Tech - A 21st Century Urban Agriculture Curriculum
 maker_image_id: '22849'
 maker_image_file_name: AquariumPacific.jpg
 

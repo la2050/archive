@@ -22,6 +22,9 @@ project_ids: '4102030'
 title: Eagle Rock Yacht Club
 uri: /organizations/eagle-rock-yacht-club/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/eryc.html'
+project_titles:
+  - Dodgeball Community and the Common Good
+  - Dodgeball Prosperity and the Common Good
 youtube_video_identifier: aKgBQ7XR-pg
 
 ---

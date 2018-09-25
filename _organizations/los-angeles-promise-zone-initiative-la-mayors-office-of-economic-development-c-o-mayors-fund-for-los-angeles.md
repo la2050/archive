@@ -27,6 +27,10 @@ title: >-
 uri: >-
   /organizations/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
+project_titles:
+  - >-
+    Young Ethnographers: fostering youth development through the Promise Zone
+    Survey
 youtube_video_identifier: MbjQABq5iTI
 
 ---

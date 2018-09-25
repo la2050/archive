@@ -23,6 +23,8 @@ project_ids: ''
 title: Cell-Ed
 uri: /organizations/cell-ed/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
+project_titles:
+  - Dial for English on the Go
 maker_image_id: '24155'
 maker_image_file_name: Screen_Shot_2015-10-15_at_5.32.07_PM.png
 

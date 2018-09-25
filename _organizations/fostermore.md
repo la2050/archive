@@ -21,6 +21,8 @@ project_ids: '4102126'
 title: FosterMore
 uri: /organizations/fostermore/
 challenge_url: ''
+project_titles:
+  - Helping LA’s most vulnerable youth succeed
 youtube_video_identifier: 4hA5BjBbKm8
 
 ---

@@ -46,6 +46,10 @@ project_ids: '3102177'
 title: LAXART
 uri: /organizations/laxart/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAXART.html'
+project_titles:
+  - >-
+    LA><ARTâ€™s public art initiatives take contemporary art to the streets
+    L.A.P.D. (LA Public Domain)
 maker_image_id: '17143'
 maker_image_file_name: slanguage_facade_edit.jpg
 

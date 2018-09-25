@@ -45,6 +45,8 @@ project_ids: '3102201'
 title: National Park Service
 uri: /organizations/national-park-service/
 challenge_url: 'http://maker.good.is/myla2050/projects/GreenKidsLA2050.html'
+project_titles:
+  - Pavement to Parks
 youtube_video_identifier: Gx66ZyZaf90
 
 ---

@@ -22,6 +22,8 @@ project_ids: '4102145'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
 uri: /organizations/lincoln-heights-health-initiative/
 challenge_url: ''
+project_titles:
+  - Health Care for 1 Million Uninsured Los Angeles Residents
 maker_image_id: '22088'
 maker_image_file_name: LINCOLN_STATUE.jpg
 

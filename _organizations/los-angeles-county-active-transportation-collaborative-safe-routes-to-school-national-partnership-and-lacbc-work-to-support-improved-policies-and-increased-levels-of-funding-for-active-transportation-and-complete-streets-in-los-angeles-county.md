@@ -31,6 +31,8 @@ title: >-
 uri: >-
   /organizations/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/
 challenge_url: ''
+project_titles:
+  - Growing a Healthy Los Angeles
 maker_image_id: '22795'
 maker_image_file_name: LA2050-pic-1_copy.jpg
 

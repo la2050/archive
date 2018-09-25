@@ -22,6 +22,8 @@ project_ids: ''
 title: Proktr
 uri: /organizations/proktr/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
+project_titles:
+  - Proktr LA is bringing art and design to everyday life.
 youtube_video_identifier: _-Xf6dKy4no
 
 ---

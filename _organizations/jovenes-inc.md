@@ -22,6 +22,9 @@ project_ids: '4102142'
 title: 'Jovenes, Inc.'
 uri: /organizations/jovenes-inc/
 challenge_url: ''
+project_titles:
+  - The TALK Project
+  - The Beacon Network presented by Jovenes Inc.
 youtube_video_identifier: 6BWp4B7O03I
 
 ---

@@ -23,6 +23,8 @@ project_ids: '5102127'
 title: BUNCH Magazine dba BUNCH Media
 uri: /organizations/bunch-magazine-dba-bunch-media/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
+project_titles:
+  - BUNCHFEST is Music Art + Innovation for the masses
 youtube_video_identifier: ByhCcHjp3FQ
 
 ---

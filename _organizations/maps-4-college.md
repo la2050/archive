@@ -24,6 +24,13 @@ project_ids: '5102202'
 title: MAPS 4 College
 uri: /organizations/maps-4-college/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html'
+project_titles:
+  - >-
+    Mapping the Transition Process: Bridging the Gap Between College and the
+    Workforce
+  - >-
+    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
+    Work Ready Community in CA
 maker_image_id: '23390'
 maker_image_file_name: fair.jpg
 

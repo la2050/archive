@@ -70,6 +70,8 @@ project_ids: '3102219'
 title: PF Bresee Foundation (Bresee)
 uri: /organizations/pf-bresee-foundation-bresee/
 challenge_url: 'http://maker.good.is/myla2050/projects/Bresee.html'
+project_titles:
+  - 'College Bus: Driving LAâ€™s LowIncome Youth Towards a College Education'
 youtube_video_identifier: _3B75bmN3Lo
 
 ---

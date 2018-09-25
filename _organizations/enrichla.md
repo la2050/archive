@@ -24,6 +24,9 @@ project_ids: '4102033'
 title: EnrichLA
 uri: /organizations/enrichla/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/enrichla.html'
+project_titles:
+  - 75 School Gardens in Los Angeles Schools!
+  - EnrichLA A Garden in EVERY School!
 youtube_video_identifier: 3CNwJdOyIDQ
 
 ---

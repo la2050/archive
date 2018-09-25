@@ -21,6 +21,10 @@ project_ids: '4102127'
 title: Foundation for California Community Colleges (Fiscal Sponsor)
 uri: /organizations/foundation-for-california-community-colleges-fiscal-sponsor/
 challenge_url: ''
+project_titles:
+  - >-
+    PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
+    how to pay for college
 youtube_video_identifier: q2OELc_KuI4
 
 ---

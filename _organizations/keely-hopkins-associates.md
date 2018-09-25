@@ -47,6 +47,8 @@ project_ids: '3102064'
 title: Keely Hopkins & Associates
 uri: /organizations/keely-hopkins-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/Youth4CLeaders.html'
+project_titles:
+  - LA2050 Youth 4C Leaders
 maker_image_id: '16740'
 maker_image_file_name: poster1.jpg
 

@@ -26,6 +26,10 @@ project_ids: '5102134'
 title: Hollywood Curling
 uri: /organizations/hollywood-curling/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
+project_titles:
+  - >-
+    Hollywood Curling- Building the San Fernando Valley Curling Center in Los
+    Angeles
 youtube_video_identifier: 3ceZFpvVVU0
 
 ---

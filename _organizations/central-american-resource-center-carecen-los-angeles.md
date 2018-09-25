@@ -21,6 +21,8 @@ project_ids: '4102119'
 title: Central American Resource Center - CARECEN - Los Angeles
 uri: /organizations/central-american-resource-center-carecen-los-angeles/
 challenge_url: ''
+project_titles:
+  - CARECEN - LA College Head Start
 maker_image_id: '21279'
 maker_image_file_name: 20121102_193319.jpg
 

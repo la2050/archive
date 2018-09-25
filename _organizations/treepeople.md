@@ -21,6 +21,10 @@ project_ids: '4102178'
 title: TreePeople
 uri: /organizations/treepeople/
 challenge_url: ''
+project_titles:
+  - >-
+    Groceryships (Scholarships for Groceries)--Changing the Food System One
+    Family at a Time
 youtube_video_identifier: r9LtyQwYAks
 
 ---

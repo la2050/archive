@@ -22,6 +22,9 @@ project_ids: '5102264'
 title: SeePolitical
 uri: /organizations/seepolitical/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SeePolitical.html'
+project_titles:
+  - 'SeePolitical: Make Voting Fun and Easy for Everyone!'
+  - SeePolitical - Making Ballot Propositions Easy to Understand
 youtube_video_identifier: atB8yIPXKCk
 
 ---

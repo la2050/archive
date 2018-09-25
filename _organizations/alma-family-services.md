@@ -48,6 +48,8 @@ project_ids: '3102015'
 title: Alma Family Services
 uri: /organizations/alma-family-services/
 challenge_url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
+project_titles:
+  - 'Parent and Child Training Program '
 maker_image_id: '17028'
 maker_image_file_name: logo_new.jpg
 

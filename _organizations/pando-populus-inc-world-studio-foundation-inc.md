@@ -27,6 +27,8 @@ project_ids: '5102227'
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 uri: /organizations/pando-populus-inc-world-studio-foundation-inc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
+project_titles:
+  - PANDO HUBS
 maker_image_id: '23521'
 maker_image_file_name: Eco_Civ.png
 

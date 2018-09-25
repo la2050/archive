@@ -23,6 +23,10 @@ project_ids: '5102093'
 title: 'Entertainment Industries Council, Inc.'
 uri: /organizations/entertainment-industries-council-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
+project_titles:
+  - >-
+    Generation Next: Ready on the SET and Action - Science Technology
+    Engineering Arts and Math
 youtube_video_identifier: 5paOc34oG84
 
 ---

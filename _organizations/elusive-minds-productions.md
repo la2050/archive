@@ -25,6 +25,8 @@ project_ids: '5102339'
 title: Elusive Minds Productions
 uri: /organizations/elusive-minds-productions/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/tianguis.html'
+project_titles:
+  - 'Tianguis: A Digital Exchange of Goods Ideas and Cultura'
 maker_image_id: '22393'
 maker_image_file_name: Tianguis.jpg
 

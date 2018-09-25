@@ -22,6 +22,8 @@ project_ids: '4102014'
 title: Beautify Earth
 uri: /organizations/beautify-earth/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
+project_titles:
+  - Beautify LA!
 youtube_video_identifier: I-2fvjBviRI
 
 ---

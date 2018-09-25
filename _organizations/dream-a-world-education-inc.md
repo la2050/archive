@@ -22,6 +22,10 @@ project_ids: '4102123'
 title: 'Dream A World Education, Inc.'
 uri: /organizations/dream-a-world-education-inc/
 challenge_url: ''
+project_titles:
+  - >-
+    Bringing the arts back to public education one school at a time one child at
+    a time
 maker_image_id: '22600'
 maker_image_file_name: Hearts9.jpg
 

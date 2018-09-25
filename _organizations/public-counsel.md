@@ -69,6 +69,8 @@ project_ids: '3102223'
 title: Public Counsel
 uri: /organizations/public-counsel/
 challenge_url: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
+project_titles:
+  - 'Smart Growth for All: Affordable Housing Near Public Transit'
 maker_image_id: '16677'
 maker_image_file_name: Holiday_Venice_Apartments.jpg
 

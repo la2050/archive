@@ -26,6 +26,8 @@ project_ids: ''
 title: Local Roots
 uri: /organizations/local-roots/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
+project_titles:
+  - Local Roots Mobile Farmers Markets
 maker_image_id: '23707'
 maker_image_file_name: Mobile_Market_Mock-Up.png
 

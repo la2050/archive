@@ -34,6 +34,9 @@ title: >-
 uri: >-
   /organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
+project_titles:
+  - 'Connecting Voices Building Power: Resident Led Community Planning'
+  - 'LA Green Teen Summit: 2050 and Beyond'
 youtube_video_identifier: xcozMknxurc
 
 ---

@@ -22,6 +22,9 @@ project_ids: '5102145'
 title: Iridescent
 uri: /organizations/iridescent/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'
+project_titles:
+  - Inspiring Girls in Technology Entrepreneurship
+  - Iridescent Curiosity Machine Program
 youtube_video_identifier: NTnzCDQ335U
 
 ---

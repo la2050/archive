@@ -24,6 +24,8 @@ project_ids: '5102017'
 title: Anti-Recidivism Coalition
 uri: /organizations/anti-recidivism-coalition/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
+project_titles:
+  - Developing a Peer Mentorship Model in Juvenile Halls to Build a Healthier LA
 youtube_video_identifier: jxDLaDNSLjo
 
 ---

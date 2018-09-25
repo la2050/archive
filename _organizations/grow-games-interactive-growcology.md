@@ -25,6 +25,8 @@ project_ids: '5102147'
 title: 'Grow Games Interactive, Growcology'
 uri: /organizations/grow-games-interactive-growcology/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
+project_titles:
+  - 'Seeds the Game: Community Jams'
 maker_image_id: '22335'
 maker_image_file_name: volunteer-photo.jpg
 

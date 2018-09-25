@@ -41,6 +41,8 @@ project_ids: '3102120'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
 challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
+project_titles:
+  - 'The power in an hour: Putting time for teachers back in a principals day'
 maker_image_id: '16503'
 maker_image_file_name: FB_Cover_photo.jpg
 

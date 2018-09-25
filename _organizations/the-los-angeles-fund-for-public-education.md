@@ -44,6 +44,10 @@ project_ids: '3102253'
 title: The Los Angeles Fund for Public Education
 uri: /organizations/the-los-angeles-fund-for-public-education/
 challenge_url: 'http://maker.good.is/myla2050/projects/school_fuel.html'
+project_titles:
+  - >-
+    School Fuel  Tackling Childhood Obesity in the Los Angeles Unified School
+    District
 youtube_video_identifier: FB9aNSfVARA
 
 ---

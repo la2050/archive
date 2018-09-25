@@ -22,6 +22,8 @@ project_ids: '4102187'
 title: Woodbury University
 uri: /organizations/woodbury-university/
 challenge_url: ''
+project_titles:
+  - The Junior Fellows & The Soft Studio
 maker_image_id: '21934'
 maker_image_file_name: Patch_2.jpg
 

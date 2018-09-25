@@ -24,6 +24,8 @@ project_ids: '4102007'
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 uri: '/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/'
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
+project_titles:
+  - 'AnonymousGood: LAGood posts 50000 Acts of Good 4 LA2050'
 youtube_video_identifier: xzNGKe7E2iE
 
 ---

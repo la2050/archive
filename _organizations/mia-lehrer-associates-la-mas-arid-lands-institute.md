@@ -21,6 +21,8 @@ project_ids: '4102156'
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 uri: /organizations/mia-lehrer-associates-la-mas-arid-lands-institute/
 challenge_url: ''
+project_titles:
+  - Four Seasons of Food
 youtube_video_identifier: 2qWrLJakj5M
 
 ---

@@ -24,6 +24,8 @@ project_ids: ''
 title: Angel City Lumber
 uri: /organizations/angel-city-lumber/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
+project_titles:
+  - Angel City Lumber
 youtube_video_identifier: 4Kt14HIJyiU
 
 ---

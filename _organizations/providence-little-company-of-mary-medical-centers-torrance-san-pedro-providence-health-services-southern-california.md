@@ -26,6 +26,8 @@ title: >-
 uri: >-
   /organizations/providence-little-company-of-mary-medical-centers-torrance-san-pedro-providence-health-services-southern-california/
 challenge_url: ''
+project_titles:
+  - SCI-Arc/Habitat LA Housing Project
 youtube_video_identifier: S_0nE1f2B1w
 
 ---

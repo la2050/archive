@@ -27,6 +27,8 @@ title: >-
 uri: >-
   /organizations/play-with-music-the-new-history-parent-organization-of-play-with-music-current-transition-filing-501c3-status-for-play-with-music/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
+project_titles:
+  - Play with Music
 youtube_video_identifier: MY3TeVh867s
 
 ---

@@ -25,6 +25,8 @@ project_ids: '5102080'
 title: Culture Shock Los Angeles
 uri: /organizations/culture-shock-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/C3.html'
+project_titles:
+  - Community at Home Box
 youtube_video_identifier: wmExJ7xdKYc
 
 ---

@@ -24,6 +24,8 @@ project_ids: '5102333'
 title: UNITE-LA
 uri: /organizations/unite-la/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
+project_titles:
+  - LA Cash for College 4 All
 youtube_video_identifier: q4McatdcN78
 
 ---

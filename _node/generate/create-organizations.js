@@ -380,6 +380,13 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   } else if (data.year_submitted == 2015 || 
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
+
+    let projects = getProjects(data)
+    if (projects && projects.length > 0) {
+      data.project_titles = projects.map(project => project.title)
+    }
+    // data.category = projects[0].category
+
     // if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
     if (true) {
       // if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
@@ -554,14 +561,14 @@ projectRecords.forEach(project => {
 })
 
 
-function getLatestProjectTitle(organization) {
+function getProjects(organization) {
   if (organization.organization_id == 2015051) {
-    console.log("getLatestProjectTitle for verynice")
+    console.log("getLastestProject for verynice")
   }
-  let candidates = projectsLookup[organization.organization_id]
+  let projects = projectsLookup[organization.organization_id]
   if (projectsLookup[organization.organization_id] &&
       projectsLookup[organization.organization_id].length > 0) {
-    candidates.sort(function (a, b) {
+    projects.sort(function (a, b) {
       // a is less than b by some ordering criterion
       if (a.year_submitted > b.year_submitted) {
         return -1
@@ -573,7 +580,14 @@ function getLatestProjectTitle(organization) {
       // a must be equal to b
       return 0
     })
-    return candidates[0].title
+    return projects
+  }
+}
+
+function getLatestProjectTitle(organization) {
+  let projects = getProjects(organization)
+  if (projects && projects.length > 0) {
+    return getProjects(organization)[0].title
   }
 }
 

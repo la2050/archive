@@ -78,6 +78,8 @@ project_ids: '3102221'
 title: Project Food LA
 uri: /organizations/project-food-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/potlucktruck.html'
+project_titles:
+  - Potluck Truck
 youtube_video_identifier: ZBTmjmoABZE
 
 ---

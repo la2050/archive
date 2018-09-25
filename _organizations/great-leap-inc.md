@@ -59,6 +59,8 @@ project_ids: '3102142'
 title: 'Great Leap, Inc.'
 uri: /organizations/great-leap-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/FandangObon2050.html'
+project_titles:
+  - Fandango Obon Project / Proyecto Fandango Obon
 youtube_video_identifier: gyQdQTAWs0U
 
 ---

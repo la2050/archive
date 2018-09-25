@@ -24,6 +24,10 @@ project_ids: '4102026'
 title: 'Deaf West Theatre, Inc.'
 uri: /organizations/deaf-west-theatre-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/deafwest.html'
+project_titles:
+  - >-
+    Deaf West Theatre Performing Arts Center and Educational Outreach Program
+    Residency
 youtube_video_identifier: n__7obsdA8E
 
 ---

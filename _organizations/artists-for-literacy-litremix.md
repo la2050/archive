@@ -24,6 +24,8 @@ project_ids: '5102023'
 title: Artists for Literacy / LitRemix
 uri: /organizations/artists-for-literacy-litremix/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
+project_titles:
+  - LitRemix
 youtube_video_identifier: 0EQnXawnCQk
 
 ---

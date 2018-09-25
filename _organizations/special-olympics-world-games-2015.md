@@ -24,6 +24,8 @@ project_ids: '4102085'
 title: Special Olympics World Games 2015
 uri: /organizations/special-olympics-world-games-2015/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
+project_titles:
+  - Special Olympics World Games 2015
 youtube_video_identifier: DMG32xJ5p-Q
 
 ---

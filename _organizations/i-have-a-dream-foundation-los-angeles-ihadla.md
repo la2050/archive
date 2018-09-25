@@ -26,6 +26,8 @@ project_ids: '5102001'
 title: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 uri: /organizations/i-have-a-dream-foundation-los-angeles-ihadla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
+project_titles:
+  - 'IHADLA: Breaking the Cycle of Poverty by Educating and Empowering Youth.'
 youtube_video_identifier: QV1lB2SqWos
 
 ---

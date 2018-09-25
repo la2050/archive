@@ -59,6 +59,8 @@ project_ids: '3102049'
 title: California Community Foundation (CCF)
 uri: /organizations/california-community-foundation-ccf/
 challenge_url: 'http://maker.good.is/myla2050/projects/BLOOM.html'
+project_titles:
+  - 'Building a Lifetime of Options and Opportunities for Men (BLOOM) '
 maker_image_id: '16109'
 maker_image_file_name: BLOOM-NEWFINAL_LOGO_ccf_tag.jpg
 

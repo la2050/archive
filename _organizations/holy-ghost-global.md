@@ -25,6 +25,8 @@ project_ids: '4102043'
 title: Holy Ghost Global
 uri: /organizations/holy-ghost-global/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
+project_titles:
+  - 'Its About Good Interfaith Block Parties: Where Playing Becomes Praying'
 maker_image_id: '21276'
 maker_image_file_name: interfaithsize.png
 

@@ -20,6 +20,8 @@ project_ids: ''
 title: Brown Paper LA
 uri: /organizations/brown-paper-la/
 challenge_url: ''
+project_titles:
+  - Nutrition Education Program
 maker_image_id: '21775'
 maker_image_file_name: IMG_20140406_135445.jpg
 

@@ -21,6 +21,9 @@ project_ids: '4102159'
 title: Peace Over Violence
 uri: /organizations/peace-over-violence/
 challenge_url: ''
+project_titles:
+  - Make A Choice Campaign
+  - Childrens Counseling Program at POV
 youtube_video_identifier: nF2CnqS_6oQ
 
 ---

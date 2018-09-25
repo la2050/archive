@@ -24,6 +24,8 @@ project_ids: ''
 title: Off The Saw
 uri: /organizations/off-the-saw/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
+project_titles:
+  - Creating a Space for the Creative Class
 maker_image_id: '23544'
 maker_image_file_name: IMG_8112_web.jpg
 

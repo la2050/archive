@@ -25,6 +25,9 @@ project_ids: '5102327'
 title: UCLA
 uri: /organizations/ucla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
+project_titles:
+  - 'Trauma Informed Educational Reform: The TIER Project'
+  - Securing a Sustainable and Empowered Los Angeles
 maker_image_id: '23820'
 maker_image_file_name: TIER.jpg
 

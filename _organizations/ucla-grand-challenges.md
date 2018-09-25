@@ -21,6 +21,10 @@ project_ids: '4102180'
 title: UCLA Grand Challenges
 uri: /organizations/ucla-grand-challenges/
 challenge_url: ''
+project_titles:
+  - >-
+    Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
+    Activity Education
 youtube_video_identifier: DITouRhKW80
 
 ---

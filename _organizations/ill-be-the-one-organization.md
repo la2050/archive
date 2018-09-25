@@ -22,6 +22,8 @@ project_ids: '4102137'
 title: I'll Be The One Organization
 uri: /organizations/ill-be-the-one-organization/
 challenge_url: ''
+project_titles:
+  - I’LL BE THE 1 2 SEE THE LIGHT
 maker_image_id: '21338'
 maker_image_file_name: IBT1student.jpg
 

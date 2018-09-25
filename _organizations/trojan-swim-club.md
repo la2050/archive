@@ -23,6 +23,8 @@ project_ids: '5102323'
 title: Trojan Swim Club
 uri: /organizations/trojan-swim-club/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
+project_titles:
+  - 'Swimming for Life: Water Safety and Competition for Inner-City Youth'
 youtube_video_identifier: SdL6NXZskjo
 
 ---

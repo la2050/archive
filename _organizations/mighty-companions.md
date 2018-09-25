@@ -29,6 +29,8 @@ project_ids: '3102196'
 title: Mighty Companions
 uri: /organizations/mighty-companions/
 challenge_url: 'http://maker.good.is/myla2050/projects/sisterblocks.html'
+project_titles:
+  - Sister Blocks
 maker_image_id: '16057'
 maker_image_file_name: mcmenyellowandwhite_final.jpg
 

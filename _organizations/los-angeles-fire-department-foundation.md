@@ -24,6 +24,8 @@ project_ids: '5102188'
 title: Los Angeles Fire Department Foundation
 uri: /organizations/los-angeles-fire-department-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
+project_titles:
+  - High School CPR Training
 youtube_video_identifier: lilCVZW2Ggk
 
 ---

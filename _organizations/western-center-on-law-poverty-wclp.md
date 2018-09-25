@@ -21,6 +21,8 @@ project_ids: '4102183'
 title: Western Center on Law & Poverty (WCLP)
 uri: /organizations/western-center-on-law-poverty-wclp/
 challenge_url: ''
+project_titles:
+  - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
 youtube_video_identifier: '-8HpYaBGc4I'
 
 ---

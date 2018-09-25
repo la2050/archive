@@ -22,6 +22,10 @@ project_ids: '4102175'
 title: 'With Love Market and Cafe, With Love Community Market and Cafe'
 uri: /organizations/with-love-market-and-cafe-with-love-community-market-and-cafe/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
+project_titles:
+  - >-
+    With Love Market and Cafe: bringing healthy food jobs and community to
+    Southwest LA
 youtube_video_identifier: HVOvMO9t6Gk
 
 ---

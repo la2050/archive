@@ -39,6 +39,8 @@ project_ids: '3102252'
 title: The Learning Garden
 uri: /organizations/the-learning-garden/
 challenge_url: 'http://maker.good.is/myla2050/projects/Gardens.html'
+project_titles:
+  - Gardens Gardens  Everywhere!
 maker_image_id: '16360'
 maker_image_file_name: Garden_Sign.png
 

@@ -61,6 +61,8 @@ project_ids: '3102131'
 title: Foster Care Counts
 uri: /organizations/foster-care-counts/
 challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
+project_titles:
+  - Virtual Mentor Program for Foster and Atrisk Youth
 maker_image_id: '16488'
 maker_image_file_name: FCC_logo_master_jpeg.jpg
 

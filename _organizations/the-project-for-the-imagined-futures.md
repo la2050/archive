@@ -24,6 +24,8 @@ project_ids: '4102096'
 title: The Project for The Imagined Futures
 uri: /organizations/the-project-for-the-imagined-futures/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
+project_titles:
+  - The Imagined Futures
 youtube_video_identifier: KofWk5qh3jE
 
 ---

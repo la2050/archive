@@ -50,6 +50,10 @@ title: >-
 uri: >-
   /organizations/strivers-la-from-new-economy-campaigns-and-the-la-community-college-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/striversLA.html'
+project_titles:
+  - >-
+    STRIVERS.LA: Apps to help LA City College students succeed at work and
+    school
 youtube_video_identifier: inJ5XFkvJ84
 
 ---

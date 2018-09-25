@@ -24,6 +24,8 @@ project_ids: '5102265'
 title: Sequoyah School
 uri: /organizations/sequoyah-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/seq.html'
+project_titles:
+  - Sequoyah High School
 maker_image_id: '23515'
 maker_image_file_name: DSC_0342.jpg
 

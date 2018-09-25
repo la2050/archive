@@ -22,6 +22,10 @@ project_ids: '5102254'
 title: Localism Inc.
 uri: /organizations/localism-inc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
+project_titles:
+  - >-
+    MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
+    local economy
 youtube_video_identifier: TNz5Q0G-KAs
 
 ---

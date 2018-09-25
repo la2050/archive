@@ -34,6 +34,8 @@ project_ids: '3102001'
 title: ADVANCE
 uri: /organizations/advance/
 challenge_url: 'http://maker.good.is/myla2050/projects/AccessJustice.html'
+project_titles:
+  - Advancing Justice through Legal Social Enterprises
 youtube_video_identifier: d8oxCVYqxhU
 
 ---

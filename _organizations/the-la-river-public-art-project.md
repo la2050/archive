@@ -25,6 +25,8 @@ project_ids: ''
 title: The LA River Public Art Project
 uri: /organizations/the-la-river-public-art-project/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
+project_titles:
+  - 'TEN FEET: Art Meets the River 2016'
 youtube_video_identifier: NlnlvjCu_AE
 
 ---

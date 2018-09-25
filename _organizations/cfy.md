@@ -21,6 +21,8 @@ project_ids: '4102120'
 title: CFY
 uri: /organizations/cfy/
 challenge_url: ''
+project_titles:
+  - Transforming school communities through digital learning
 youtube_video_identifier: HIVY5tBE450
 
 ---

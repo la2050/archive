@@ -44,6 +44,8 @@ project_ids: '3102145'
 title: Harmony Project
 uri: /organizations/harmony-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
+project_titles:
+  - 'Harmony Project '
 youtube_video_identifier: zVwm_GRMSHw
 
 ---

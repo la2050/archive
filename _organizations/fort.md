@@ -24,6 +24,8 @@ project_ids: ''
 title: FORT
 uri: /organizations/fort/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/FORT.html'
+project_titles:
+  - FORT (Resident Makers Program to help creatives start their own companies).
 youtube_video_identifier: kNqNTSXVqsI
 
 ---

@@ -24,6 +24,10 @@ project_ids: '4102060'
 title: Mobile Film Classroom
 uri: /organizations/mobile-film-classroom/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
+project_titles:
+  - >-
+    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
+    creative workforce in LA
 youtube_video_identifier: sO2seHdnH3c
 
 ---

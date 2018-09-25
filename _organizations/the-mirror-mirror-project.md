@@ -22,6 +22,8 @@ project_ids: '4102094'
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
+project_titles:
+  - The Mirror Mirror Project
 youtube_video_identifier: awJQoJqGL-o
 
 ---

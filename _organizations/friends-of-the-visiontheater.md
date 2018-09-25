@@ -22,6 +22,8 @@ project_ids: '4102039'
 title: Friends of the VisionTheater
 uri: /organizations/friends-of-the-visiontheater/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
+project_titles:
+  - Leimert Park Village Studios
 youtube_video_identifier: _BC4Wfw6Gb4
 
 ---

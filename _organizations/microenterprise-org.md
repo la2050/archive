@@ -24,6 +24,8 @@ project_ids: ''
 title: Microenterprise.org
 uri: /organizations/microenterprise-org/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
+project_titles:
+  - The Microenterprise Program
 youtube_video_identifier: 0qhd1kRJ698
 
 ---

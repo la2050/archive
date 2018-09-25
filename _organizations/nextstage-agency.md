@@ -22,6 +22,8 @@ project_ids: '4102124'
 title: NextStage Agency
 uri: /organizations/nextstage-agency/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
+project_titles:
+  - 'ART CITY LA: Citywide Showcase of Los Angeles Art Creativity & Culture'
 youtube_video_identifier: JVyDVToMVoo
 
 ---

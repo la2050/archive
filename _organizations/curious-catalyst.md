@@ -48,6 +48,8 @@ project_ids: '3102022'
 title: Curious Catalyst
 uri: /organizations/curious-catalyst/
 challenge_url: 'http://maker.good.is/myla2050/projects/CuriousFoodTruck.html'
+project_titles:
+  - 'Food Truck + Food Desert = Win Win Win! '
 youtube_video_identifier: gatKpPjdUvo
 
 ---

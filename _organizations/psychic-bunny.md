@@ -22,6 +22,8 @@ project_ids: '5102207'
 title: Psychic Bunny
 uri: /organizations/psychic-bunny/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
+project_titles:
+  - Flight of the Angels - A Pervasive Audio Game About DTLA
 youtube_video_identifier: NtMAZqR4Tf4
 
 ---

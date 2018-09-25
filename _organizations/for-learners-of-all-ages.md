@@ -50,6 +50,8 @@ project_ids: '3102130'
 title: For Learners of All Ages
 uri: /organizations/for-learners-of-all-ages/
 challenge_url: 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
+project_titles:
+  - Shall We Dance in LA?
 maker_image_id: '17044'
 maker_image_file_name: FLAA1.jpg
 

@@ -22,6 +22,8 @@ project_ids: '4102015'
 title: Beauty Bus Foundation
 uri: /organizations/beauty-bus-foundation/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
+project_titles:
+  - Bringing Beauty Home
 youtube_video_identifier: XoT_36T5K5E
 
 ---

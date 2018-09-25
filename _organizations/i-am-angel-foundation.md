@@ -22,6 +22,10 @@ project_ids: '4102044'
 title: i.am.angel Foundation
 uri: /organizations/i-am-angel-foundation/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
+project_titles:
+  - 'i.am Makerspace: Empowering Creators in Disadvantaged Communities'
+  - 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
+  - 'THE i.am.angel EAST L.A. INCUBATOR PROJECT '
 youtube_video_identifier: uVV1_WmFT9o
 
 ---

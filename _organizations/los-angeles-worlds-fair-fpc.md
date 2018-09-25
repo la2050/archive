@@ -25,6 +25,9 @@ project_ids: '5102199'
 title: 'Los Angeles World''s Fair, FPC'
 uri: /organizations/los-angeles-worlds-fair-fpc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/SustainableFutureLA.html'
+project_titles:
+  - Sustainable Future LA
+  - Los Angeles Worlds Fair Collaboration 2014-2015
 youtube_video_identifier: '-cj1vPWlAdo'
 
 ---

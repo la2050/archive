@@ -41,6 +41,8 @@ project_ids: '3102191'
 title: Los Angeles Youth Orchestra
 uri: /organizations/los-angeles-youth-orchestra/
 challenge_url: 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
+project_titles:
+  - Los Angeles Youth Orchestra Community Building
 youtube_video_identifier: OSdBClactgc
 
 ---

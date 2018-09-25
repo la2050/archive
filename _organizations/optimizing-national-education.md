@@ -24,6 +24,8 @@ project_ids: '4102066'
 title: Optimizing National Education
 uri: /organizations/optimizing-national-education/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Welcome.html'
+project_titles:
+  - Welcome to Our Neighborhood
 youtube_video_identifier: z7QaUClznXM
 
 ---

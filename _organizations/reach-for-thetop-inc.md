@@ -27,6 +27,8 @@ project_ids: '3102226'
 title: 'Reach For theTop, Inc.'
 uri: /organizations/reach-for-thetop-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/CasaAmador.html'
+project_titles:
+  - Casa Amador
 maker_image_id: '16395'
 maker_image_file_name: POSTCARD-1.jpg
 

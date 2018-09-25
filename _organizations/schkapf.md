@@ -24,6 +24,8 @@ project_ids: '4102080'
 title: Schkapf
 uri: /organizations/schkapf/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
+project_titles:
+  - Schkapf Performing Arts Incubator
 youtube_video_identifier: mei1C43QDXw
 
 ---

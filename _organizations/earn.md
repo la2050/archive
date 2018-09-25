@@ -25,6 +25,8 @@ project_ids: '5102089'
 title: EARN
 uri: /organizations/earn/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/save.html'
+project_titles:
+  - Turning Effort Into Opportunity Through Saving
 maker_image_id: '23728'
 maker_image_file_name: Earnlogopage2.jpg
 

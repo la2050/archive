@@ -21,6 +21,10 @@ project_ids: '4102184'
 title: Western Justice Center (WJC)
 uri: /organizations/western-justice-center-wjc/
 challenge_url: ''
+project_titles:
+  - >-
+    No More Bullying Bias and Fights: Making Schools Safe for all Los Angeles
+    Kids & Teachers
 youtube_video_identifier: FKuY_bTZzoM
 
 ---

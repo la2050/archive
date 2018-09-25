@@ -41,6 +41,8 @@ project_ids: '3102141'
 title: Grain of Sand - Granito de Arena
 uri: /organizations/grain-of-sand-granito-de-arena/
 challenge_url: 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
+project_titles:
+  - Think Before You Trash
 maker_image_id: '16238'
 maker_image_file_name: Debris_3.JPG
 

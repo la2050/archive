@@ -44,6 +44,8 @@ project_ids: '3102081'
 title: Pacesetter Productions
 uri: /organizations/pacesetter-productions/
 challenge_url: 'http://maker.good.is/myla2050/projects/Passion.html'
+project_titles:
+  - A Passion at Risk
 maker_image_id: '16972'
 maker_image_file_name: Pacesetter.jpg
 

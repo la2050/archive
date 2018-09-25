@@ -54,6 +54,8 @@ project_ids: '3102165'
 title: Kids Progress Inc.
 uri: /organizations/kids-progress-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/kpi.html'
+project_titles:
+  - Building Future Leaders through STEM Education
 maker_image_id: '16366'
 maker_image_file_name: Stem_pic.jpg
 

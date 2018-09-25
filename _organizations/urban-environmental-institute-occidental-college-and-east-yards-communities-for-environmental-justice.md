@@ -31,6 +31,8 @@ title: >-
 uri: >-
   /organizations/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
+project_titles:
+  - LA Mobilized
 maker_image_id: '23743'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 

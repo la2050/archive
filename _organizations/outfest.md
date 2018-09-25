@@ -32,6 +32,8 @@ project_ids: '3102211'
 title: Outfest
 uri: /organizations/outfest/
 challenge_url: 'http://maker.good.is/myla2050/projects/neighbor.html'
+project_titles:
+  - 'Neighbor to Neighbor: Connecting Los Angeles Through Storytelling'
 maker_image_id: '16858'
 maker_image_file_name: Access_LA_Rt_copy.jpg
 

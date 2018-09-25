@@ -22,6 +22,10 @@ project_ids: '4102182'
 title: US Green Building Council-Los Angeles
 uri: /organizations/us-green-building-council-los-angeles/
 challenge_url: ''
+project_titles:
+  - >-
+    Turning food scraps into a resource for local farms good jobs renewable
+    energy and zero waste.
 maker_image_id: '20921'
 maker_image_file_name: Resilience-3_02.jpg
 

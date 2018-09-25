@@ -24,6 +24,8 @@ project_ids: '5102163'
 title: Koreatown Immigrant Worker Alliance
 uri: /organizations/koreatown-immigrant-worker-alliance/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
+project_titles:
+  - Ending Wage Theft in Los Angeles
 maker_image_id: '23889'
 maker_image_file_name: 12000148473_482ef012b5_k.jpg
 

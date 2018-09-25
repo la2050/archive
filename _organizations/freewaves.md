@@ -74,6 +74,8 @@ project_ids: '3102132'
 title: Freewaves
 uri: /organizations/freewaves/
 challenge_url: 'http://maker.good.is/myla2050/projects/Freewaves.html'
+project_titles:
+  - 'OUT THE WINDOW: Videos on LA buses '
 youtube_video_identifier: W-ekiTrnYW0
 
 ---

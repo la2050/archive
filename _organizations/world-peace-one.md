@@ -25,6 +25,8 @@ project_ids: '4102108'
 title: World Peace One
 uri: /organizations/world-peace-one/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/peace.html'
+project_titles:
+  - Transforming Communities for Peace
 maker_image_id: '22532'
 maker_image_file_name: WP1_Logo_new.jpg
 

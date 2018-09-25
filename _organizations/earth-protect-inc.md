@@ -24,6 +24,8 @@ project_ids: '5102132'
 title: 'Earth Protect, Inc.'
 uri: /organizations/earth-protect-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
+project_titles:
+  - Artists for Sustainability Hub
 youtube_video_identifier: usGtj9dvrhA
 
 ---

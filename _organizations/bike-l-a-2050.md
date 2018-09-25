@@ -32,6 +32,8 @@ project_ids: '3102034'
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
 challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'
+project_titles:
+  - Bike L.A. 2050  Bike Safety Through Visibility
 maker_image_id: '16963'
 maker_image_file_name: 2019409068.jpg
 

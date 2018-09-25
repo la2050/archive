@@ -22,6 +22,8 @@ project_ids: ''
 title: Ignite Teaching
 uri: /organizations/ignite-teaching/
 challenge_url: ''
+project_titles:
+  - Ignite Teaching
 maker_image_id: '20940'
 maker_image_file_name: la2050.png
 

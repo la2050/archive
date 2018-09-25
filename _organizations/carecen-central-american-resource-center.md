@@ -41,6 +41,8 @@ project_ids: '3102051'
 title: CARECEN (Central American Resource Center)
 uri: /organizations/carecen-central-american-resource-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/collegeheadstart.html'
+project_titles:
+  - CARECENs College Head Start
 maker_image_id: '16608'
 maker_image_file_name: collegeheadstart1.jpg
 

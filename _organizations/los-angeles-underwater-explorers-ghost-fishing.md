@@ -23,6 +23,8 @@ project_ids: '5102198'
 title: Los Angeles Underwater Explorers; Ghost Fishing
 uri: /organizations/los-angeles-underwater-explorers-ghost-fishing/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
+project_titles:
+  - The OCEAN is the best place to play in LA! But we must keep her clean!
 youtube_video_identifier: laadW_CUhSY
 
 ---

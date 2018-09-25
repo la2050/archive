@@ -73,6 +73,8 @@ project_ids: '3102238'
 title: Step Up Women's Network
 uri: /organizations/step-up-womens-network/
 challenge_url: 'http://maker.good.is/myla2050/projects/StepUp.html'
+project_titles:
+  - Professional women Step Up to help underserved teen girls graduate
 maker_image_id: '17003'
 maker_image_file_name: 130126-0191.jpg
 

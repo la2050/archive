@@ -25,6 +25,8 @@ project_ids: '5102084'
 title: Downtown Los Angeles Art Walk
 uri: /organizations/downtown-los-angeles-art-walk/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html'
+project_titles:
+  - 'Shes Got Skills: From Homelessness to Jobs'
 maker_image_id: '23344'
 maker_image_file_name: ArtWalk_Final_Full_Color_logo.jpg
 

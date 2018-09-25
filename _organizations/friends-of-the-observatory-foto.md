@@ -22,6 +22,8 @@ project_ids: '4102128'
 title: Friends Of The Observatory (FOTO)
 uri: /organizations/friends-of-the-observatory-foto/
 challenge_url: ''
+project_titles:
+  - Griffith Observatory--A pLAnetarium for 2050 now!
 maker_image_id: '20477'
 maker_image_file_name: 405.jpg
 

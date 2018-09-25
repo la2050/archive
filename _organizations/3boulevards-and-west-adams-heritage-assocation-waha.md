@@ -23,6 +23,10 @@ project_ids: '4102004'
 title: 3Boulevards and West Adams Heritage Assocation (WAHA)
 uri: /organizations/3boulevards-and-west-adams-heritage-assocation-waha/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
+project_titles:
+  - >-
+    Historic district boulevard beautification restoration & economic
+    development and empowerment
 maker_image_id: '21055'
 maker_image_file_name: Washington_Square.JPG
 

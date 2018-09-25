@@ -22,6 +22,9 @@ project_ids: '5102174'
 title: LA's Promise
 uri: /organizations/las-promise/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
+project_titles:
+  - LA’s Promise Technology Academy
+  - 'LAs Promise: Improving Schools Empowering Neighborhoods'
 youtube_video_identifier: SXGVU13JPLU
 
 ---

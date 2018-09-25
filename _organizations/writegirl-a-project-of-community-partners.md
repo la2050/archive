@@ -21,6 +21,9 @@ project_ids: '4102188'
 title: 'WriteGirl, a project of Community Partners'
 uri: /organizations/writegirl-a-project-of-community-partners/
 challenge_url: ''
+project_titles:
+  - 'WriteGirl: The Write Place for Girls'
+  - 'Power of the Pen: Writing Together'
 youtube_video_identifier: FmHmFIlfA4A
 
 ---

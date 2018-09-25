@@ -24,6 +24,10 @@ project_ids: ''
 title: MassKnowtify
 uri: /organizations/massknowtify/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
+project_titles:
+  - >-
+    MassKnowtify: Connecting local governments to citizens and communities
+    everywhere
 youtube_video_identifier: ql6hxsjKMCQ
 
 ---

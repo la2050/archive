@@ -25,6 +25,10 @@ project_ids: '4102053'
 title: Levantine Cultural Center
 uri: /organizations/levantine-cultural-center/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
+project_titles:
+  - >-
+    Creating Community With L.A.s Cultural Center for the Middle East/North
+    Africa
 maker_image_id: '22605'
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 

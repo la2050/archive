@@ -64,6 +64,10 @@ project_ids: '3102094'
 title: Courage Campaign
 uri: /organizations/courage-campaign/
 challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
+project_titles:
+  - >-
+    Increase Voter Turnout Neighbor to Neighbor Communication and Govt
+    Responsiveness
 maker_image_id: '16571'
 maker_image_file_name: DFO_retreat_rowdy_pic.jpg
 

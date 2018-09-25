@@ -23,6 +23,9 @@ project_ids: '5102079'
 title: Council for Watershed Health
 uri: /organizations/council-for-watershed-health/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
+project_titles:
+  - 'C3: Center for Connecting the Community'
+  - 'The Pulse of Los Angeles: Assessing the Watersheds'
 youtube_video_identifier: kQnTJYkpO4A
 
 ---

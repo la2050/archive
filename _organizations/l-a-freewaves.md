@@ -25,6 +25,8 @@ project_ids: '4102048'
 title: L.A. Freewaves
 uri: /organizations/l-a-freewaves/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
+project_titles:
+  - Out the Window
 maker_image_id: '21306'
 maker_image_file_name: 12_Stills_from_videos.jpg
 

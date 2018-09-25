@@ -21,6 +21,8 @@ project_ids: '4102173'
 title: The Los Angeles Fund For Public Education (The LA Fund)
 uri: /organizations/the-los-angeles-fund-for-public-education-the-la-fund/
 challenge_url: ''
+project_titles:
+  - 'The Intern Project: The Transformative Power of Internships'
 youtube_video_identifier: tMwKJIhKIAU
 
 ---

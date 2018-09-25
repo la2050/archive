@@ -52,6 +52,8 @@ project_ids: '3102026'
 title: Art Share L.A.
 uri: /organizations/art-share-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/artsharela.html'
+project_titles:
+  - Creative Placemaking in Downtown L.A.
 youtube_video_identifier: w8o0x9VRbvE
 
 ---

@@ -22,6 +22,8 @@ project_ids: ''
 title: Home Front Build
 uri: /organizations/home-front-build/
 challenge_url: ''
+project_titles:
+  - Help build a Realtime Environmental Sensor Network
 maker_image_id: '22740'
 maker_image_file_name: obee-landscape.jpg
 

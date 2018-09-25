@@ -74,6 +74,8 @@ project_ids: '3102086'
 title: 'Communities In Schools of San Fernando Valley, Inc.'
 uri: /organizations/communities-in-schools-of-san-fernando-valley-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/PTP.html'
+project_titles:
+  - Peace to Prosperity
 maker_image_id: '16714'
 maker_image_file_name: Games_for_Peace.jpg
 

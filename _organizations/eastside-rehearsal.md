@@ -25,6 +25,8 @@ project_ids: '5102181'
 title: Eastside Rehearsal
 uri: /organizations/eastside-rehearsal/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
+project_titles:
+  - Free Music Studio Access for Students of Los Angeles
 maker_image_id: '23180'
 maker_image_file_name: ESRLogo.jpg
 

@@ -22,6 +22,8 @@ project_ids: '4102071'
 title: PortTech Los Angeles
 uri: /organizations/porttech-los-angeles/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
+project_titles:
+  - Rebuilding LA’s port communities one business at a time
 youtube_video_identifier: zmZJYC2WFVk
 
 ---

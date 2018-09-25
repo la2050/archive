@@ -21,6 +21,8 @@ project_ids: '4102153'
 title: Meet Each Need with Dignity
 uri: /organizations/meet-each-need-with-dignity/
 challenge_url: ''
+project_titles:
+  - 'Clothes The Deal: Dismantling Barriers to Employment'
 youtube_video_identifier: A3zOCbnCHLg
 
 ---

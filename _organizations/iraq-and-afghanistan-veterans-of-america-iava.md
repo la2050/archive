@@ -25,6 +25,8 @@ project_ids: '5102144'
 title: Iraq and Afghanistan Veterans of America (IAVA)
 uri: /organizations/iraq-and-afghanistan-veterans-of-america-iava/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
+project_titles:
+  - 'LA Veterans in Need: IAVA’s Rapid Response Referral Program'
 maker_image_id: '23674'
 maker_image_file_name: Image.jpg
 

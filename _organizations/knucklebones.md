@@ -27,6 +27,8 @@ project_ids: '5102240'
 title: Knucklebones
 uri: /organizations/knucklebones/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/playla.html'
+project_titles:
+  - Free pLAy for all L.A.
 youtube_video_identifier: FAirDH4ROp0
 
 ---

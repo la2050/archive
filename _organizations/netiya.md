@@ -25,6 +25,10 @@ project_ids: '5102220'
 title: Netiya
 uri: /organizations/netiya/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
+project_titles:
+  - 'Fermenting Change: Connecting Los Angeles through food and faith'
+  - Every Kid Deserves a Learning Garden
+  - 'Project 10: Tithing Urban Harvests Growing Community Food Security'
 youtube_video_identifier: z7nrpaONjUI
 
 ---

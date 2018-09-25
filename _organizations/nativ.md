@@ -46,6 +46,8 @@ project_ids: '3102080'
 title: Nativ
 uri: /organizations/nativ/
 challenge_url: 'http://maker.good.is/myla2050/projects/Nativ.html'
+project_titles:
+  - 'NativLA: Discover the city you thought you knew '
 youtube_video_identifier: Dq2cY1SKlFQ
 
 ---

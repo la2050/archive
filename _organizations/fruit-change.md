@@ -24,6 +24,8 @@ project_ids: ''
 title: Fruit Change
 uri: /organizations/fruit-change/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
+project_titles:
+  - Fruit Change
 maker_image_id: '23782'
 maker_image_file_name: IMG_7734.jpeg
 

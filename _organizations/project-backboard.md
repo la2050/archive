@@ -24,6 +24,10 @@ project_ids: '5102243'
 title: Project Backboard
 uri: /organizations/project-backboard/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
+project_titles:
+  - >-
+    Basketball Courts and Public Art: Inspiring Inter-generational Play in
+    Public Parks
 youtube_video_identifier: phXK2cX3WEk
 
 ---

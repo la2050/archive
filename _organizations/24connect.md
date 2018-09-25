@@ -25,6 +25,8 @@ project_ids: '4102074'
 title: 24Connect
 uri: /organizations/24connect/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
+project_titles:
+  - CREATIVE CAPITAL FEST
 maker_image_id: '22856'
 maker_image_file_name: creative_capital_img.jpg
 

@@ -25,6 +25,8 @@ project_ids: '4102070'
 title: Play the LA River
 uri: /organizations/play-the-la-river/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
+project_titles:
+  - Play the LA River
 maker_image_id: '21550'
 maker_image_file_name: PlaytheLARiver_LA2050_ImageCropped.jpg
 

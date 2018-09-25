@@ -22,6 +22,8 @@ project_ids: '4102133'
 title: ExchangeWorks
 uri: /organizations/exchangeworks/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
+project_titles:
+  - 'EWLA: Creating a network for exchange between artists and the public'
 maker_image_id: '23585'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 

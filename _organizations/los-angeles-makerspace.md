@@ -62,6 +62,8 @@ project_ids: '3102187'
 title: Los Angeles Makerspace
 uri: /organizations/los-angeles-makerspace/
 challenge_url: 'http://maker.good.is/myla2050/projects/lamakerspace.html'
+project_titles:
+  - Central Educational Network Based On The Apprenticeship Model
 maker_image_id: '16174'
 maker_image_file_name: LAM_Robots.jpg
 

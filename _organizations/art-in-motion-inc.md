@@ -23,6 +23,10 @@ project_ids: '4102010'
 title: 'Art In Motion, Inc.'
 uri: /organizations/art-in-motion-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
+project_titles:
+  - >-
+    Educating traditionally underserved youth about working in the entertainment
+    industry
 maker_image_id: '21797'
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
 

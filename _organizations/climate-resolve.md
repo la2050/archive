@@ -24,6 +24,9 @@ project_ids: '5102067'
 title: Climate Resolve
 uri: /organizations/climate-resolve/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
+project_titles:
+  - Climate Ready Roofs
+  - 'Climate Resolve: Inspiring LA to Prosper in a Changing Climate'
 youtube_video_identifier: jRPfyjiCjwg
 
 ---

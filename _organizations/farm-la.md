@@ -23,6 +23,8 @@ project_ids: '5102100'
 title: Farm LA
 uri: /organizations/farm-la/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
+project_titles:
+  - Help Save The LAnd with Farm LA
 maker_image_id: '23612'
 maker_image_file_name: 2050_Lg.jpg
 

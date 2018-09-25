@@ -25,6 +25,8 @@ project_ids: '4102087'
 title: The Bitch Pack
 uri: /organizations/the-bitch-pack/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
+project_titles:
+  - Women of Color Short Film Fund
 maker_image_id: '20953'
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
 

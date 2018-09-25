@@ -25,6 +25,11 @@ project_ids: '4102061'
 title: Muir Ranch
 uri: /organizations/muir-ranch/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
+project_titles:
+  - LA Childrens Garden an Eden Project for Los Angeles.
+  - >-
+    Kids who sling kale eat kale: Launch 5 School Garden CSAs in LAs Food
+    Deserts
 maker_image_id: '20571'
 maker_image_file_name: dahlia3queque.jpg
 

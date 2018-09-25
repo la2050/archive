@@ -24,6 +24,10 @@ project_ids: '5102299'
 title: The Council of Mexican Federations (COFEM)
 uri: /organizations/the-council-of-mexican-federations-cofem/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
+project_titles:
+  - >-
+    San Gabriel Mountains Forever: Increasing Public Access to Our Local
+    Mountains
 youtube_video_identifier: SVzSpv8Dj74
 
 ---

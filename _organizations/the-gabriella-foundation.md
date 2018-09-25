@@ -21,6 +21,11 @@ project_ids: '4102169'
 title: The Gabriella Foundation
 uri: /organizations/the-gabriella-foundation/
 challenge_url: ''
+project_titles:
+  - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
+  - >-
+    everybody dance:  Training LAâ€™s Teachers to Bring Dance Education Back to
+    LAâ€™s K8 Schools
 youtube_video_identifier: TlilAMszJEs
 
 ---

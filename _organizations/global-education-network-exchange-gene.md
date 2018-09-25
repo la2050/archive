@@ -22,6 +22,10 @@ project_ids: ''
 title: Global Education Network Exchange (GENE)
 uri: /organizations/global-education-network-exchange-gene/
 challenge_url: ''
+project_titles:
+  - >-
+    Through education communication & understanding we can make a difference in
+    LA...its in our GENE!
 maker_image_id: '21319'
 maker_image_file_name: GENE_pic.jpg
 

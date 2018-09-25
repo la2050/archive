@@ -25,6 +25,10 @@ title: Get On The Bus a program of the Center for Restorative Justice Works
 uri: >-
   /organizations/get-on-the-bus-a-program-of-the-center-for-restorative-justice-works/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
+project_titles:
+  - >-
+    Reunifying children with their incarcerated parents in prisons throughout
+    California
 maker_image_id: '23562'
 maker_image_file_name: CRJW_Goodmaker.jpg
 

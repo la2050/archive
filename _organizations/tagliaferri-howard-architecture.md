@@ -25,6 +25,8 @@ project_ids: ''
 title: Tagliaferri Howard Architecture
 uri: /organizations/tagliaferri-howard-architecture/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html'
+project_titles:
+  - Ballona Creek Pedestrian/Bike Connector Bridge
 maker_image_id: '23805'
 maker_image_file_name: LA2050_Cover_image_flattened2.jpg
 

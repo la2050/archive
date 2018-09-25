@@ -75,6 +75,8 @@ project_ids: '3102209'
 title: One Day on Earth
 uri: /organizations/one-day-on-earth/
 challenge_url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
+project_titles:
+  - One Day in Los Angeles
 youtube_video_identifier: YCMb5z0EVGw
 
 ---

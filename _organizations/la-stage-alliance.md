@@ -23,6 +23,9 @@ project_ids: '4102049'
 title: LA STAGE Alliance
 uri: /organizations/la-stage-alliance/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
+project_titles:
+  - Arts & Culture Infrastructure Initiative
+  - 'Arts & Culture Infrastructure Initiative '
 maker_image_id: '16935'
 maker_image_file_name: Faces_Installation.jpg
 

@@ -24,6 +24,8 @@ project_ids: ''
 title: Colossi
 uri: /organizations/colossi/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/colossi.html'
+project_titles:
+  - 'Colossi: Crowd Gaming'
 youtube_video_identifier: CAz_mkuDRno
 
 ---

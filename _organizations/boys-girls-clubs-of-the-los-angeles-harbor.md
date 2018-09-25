@@ -21,6 +21,8 @@ project_ids: '4102117'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 uri: /organizations/boys-girls-clubs-of-the-los-angeles-harbor/
 challenge_url: ''
+project_titles:
+  - College Bound
 youtube_video_identifier: sI0_dZ4TpAA
 
 ---

@@ -25,6 +25,10 @@ project_ids: '5102204'
 title: Media Done Responsibly c/o Pasadena Arts Council
 uri: /organizations/media-done-responsibly-c-o-pasadena-arts-council/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
+project_titles:
+  - >-
+    Linking Middle High School & College Students through Humanity Centered
+    Media
 youtube_video_identifier: H107Gy4bTFs
 
 ---

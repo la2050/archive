@@ -21,6 +21,10 @@ project_ids: '4102064'
 title: General Assembly Opportunity Fund
 uri: /organizations/general-assembly-opportunity-fund/
 challenge_url: ''
+project_titles:
+  - >-
+    Opportunity Fund: Transformative Education & Opportunities in Technology for
+    Underrepresented Groups
 youtube_video_identifier: CMmY955jD5A
 
 ---

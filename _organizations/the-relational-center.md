@@ -32,6 +32,8 @@ project_ids: '3102256'
 title: The Relational Center
 uri: /organizations/the-relational-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/relationalcenter.html'
+project_titles:
+  - 'Camp reLAte: A Community Organizing Approach to Cultivating Connectedness'
 youtube_video_identifier: 3J2TSZ1AMHM
 
 ---

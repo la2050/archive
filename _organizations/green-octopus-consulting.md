@@ -39,6 +39,10 @@ project_ids: '3102054'
 title: Green Octopus Consulting
 uri: /organizations/green-octopus-consulting/
 challenge_url: 'http://maker.good.is/myla2050/projects/BikeShopLocal.html'
+project_titles:
+  - >-
+    Whatâ€™s the BF(B)D? Connecting Neighborhoods through BicycleFriendly
+    Business Districts
 maker_image_id: '16987'
 maker_image_file_name: Diane_Gershuny.jpg
 

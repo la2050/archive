@@ -23,6 +23,8 @@ project_ids: '4102069'
 title: Piece by Piece
 uri: /organizations/piece-by-piece/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
+project_titles:
+  - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
 maker_image_id: '22131'
 maker_image_file_name: In_Studio_Irvine_Mural.jpg
 

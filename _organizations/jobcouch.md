@@ -22,6 +22,8 @@ project_ids: '5102239'
 title: JobCouch
 uri: /organizations/jobcouch/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
+project_titles:
+  - Game Changing Marketplace to Source Hourly Jobseekers
 youtube_video_identifier: 9l0UWGhKU-U
 
 ---

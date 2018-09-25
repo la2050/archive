@@ -39,6 +39,8 @@ project_ids: '3102024'
 title: DIYFO (Do-It-Yourself. For Others.)
 uri: /organizations/diyfo-do-it-yourself-for-others/
 challenge_url: 'http://maker.good.is/myla2050/projects/diyfo.html'
+project_titles:
+  - 'DIYFO: DIY For Others. An accessible space for cultivating creative talent'
 youtube_video_identifier: cEATGWzLMiM
 
 ---

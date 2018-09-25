@@ -24,6 +24,10 @@ project_ids: ''
 title: Sustaynabl
 uri: /organizations/sustaynabl/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
+project_titles:
+  - >-
+    The Art of Skid Row: Bringing awareness to the homelessness state of
+    emergency.
 youtube_video_identifier: 5-66_Xqn0Cw
 
 ---

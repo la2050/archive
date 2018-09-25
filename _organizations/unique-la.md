@@ -45,6 +45,8 @@ project_ids: '3102111'
 title: UNIQUE LA
 uri: /organizations/unique-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCreativeLab.html'
+project_titles:
+  - Fuel LAs Creative Economy Help UNIQUE LA Build The Creative Lab!
 maker_image_id: '17068'
 maker_image_file_name: LA2050.jpg
 

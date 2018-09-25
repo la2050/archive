@@ -26,6 +26,9 @@ project_ids: '5102221'
 title: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
 uri: /organizations/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
+project_titles:
+  - Los Angeles Youth Entrepreneurship Pathway Initiative
+  - Innovation Saturday for Los Angeles Youth
 maker_image_id: '24049'
 maker_image_file_name: Crystal_Cropped_Big_Check.jpg
 

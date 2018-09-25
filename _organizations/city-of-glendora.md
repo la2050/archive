@@ -24,6 +24,8 @@ project_ids: '5102058'
 title: City of Glendora
 uri: /organizations/city-of-glendora/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'
+project_titles:
+  - Volunteer Glendora!
 maker_image_id: '23980'
 maker_image_file_name: LA2015_1.jpg
 

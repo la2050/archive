@@ -48,6 +48,10 @@ project_ids: '3102266'
 title: Urban & Environmental Policy Institute
 uri: /organizations/urban-environmental-policy-institute/
 challenge_url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
+project_titles:
+  - >-
+    Building Blocks LA: changing the shape of Los Angeles through imaginative
+    urban planning
 youtube_video_identifier: FuPNWZxNhrI
 
 ---

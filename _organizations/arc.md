@@ -78,6 +78,10 @@ project_ids: '3102006'
 title: arc
 uri: /organizations/arc/
 challenge_url: 'http://maker.good.is/myla2050/projects/arcexperience.html'
+project_titles:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
 youtube_video_identifier: KAJrrW9SOdA
 
 ---

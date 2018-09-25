@@ -68,6 +68,10 @@ project_ids: '3102195'
 title: Materials & Applications
 uri: /organizations/materials-applications/
 challenge_url: 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
+project_titles:
+  - >-
+    START SEEING UGLY!  A social app to reveal and transform blighted parts of
+    Los Angeles
 youtube_video_identifier: Uj3t-8frJ4Q
 
 ---

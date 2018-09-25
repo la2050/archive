@@ -56,6 +56,8 @@ project_ids: '3102251'
 title: The L.A. Kitchen
 uri: /organizations/the-l-a-kitchen/
 challenge_url: 'http://maker.good.is/myla2050/projects/thelakitchen.html'
+project_titles:
+  - 'L.A. Kitchen: Neither Food or People Should Ever Go to Waste'
 youtube_video_identifier: inC3OJbaTT4
 
 ---

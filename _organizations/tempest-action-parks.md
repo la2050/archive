@@ -24,6 +24,8 @@ project_ids: ''
 title: Tempest Action Parks
 uri: /organizations/tempest-action-parks/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
+project_titles:
+  - TMPST Action Parks provide creative movement to LA through play and fitness
 youtube_video_identifier: k-SpD948tJc
 
 ---

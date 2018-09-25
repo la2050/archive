@@ -22,6 +22,8 @@ project_ids: '4102139'
 title: 'IN THE CITY, INC.'
 uri: /organizations/in-the-city-inc/
 challenge_url: ''
+project_titles:
+  - 'Mission 3.0: Empowering Leaders on the Field and In the Classroom'
 maker_image_id: '22530'
 maker_image_file_name: DSC01431.jpg
 

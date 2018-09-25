@@ -92,6 +92,8 @@ project_ids: '3102265'
 title: United Way of Greater LA (Home For Good)
 uri: /organizations/united-way-of-greater-la-home-for-good/
 challenge_url: 'http://maker.good.is/myla2050/projects/SkidRow100.html'
+project_titles:
+  - '100 in 100: Skid Row Innovates!'
 youtube_video_identifier: Sq1MDbnR1wg
 
 ---

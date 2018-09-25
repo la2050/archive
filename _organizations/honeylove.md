@@ -43,6 +43,8 @@ project_ids: '3102150'
 title: HoneyLove
 uri: /organizations/honeylove/
 challenge_url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+project_titles:
+  - PesticideFree Los Angeles 2050
 youtube_video_identifier: TkvIb74D38g
 
 ---

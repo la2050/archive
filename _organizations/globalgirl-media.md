@@ -92,6 +92,8 @@ project_ids: '3102139'
 title: GlobalGirl Media
 uri: /organizations/globalgirl-media/
 challenge_url: 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
+project_titles:
+  - GLOBALGIRL MEDIA HIVE NETWORK
 youtube_video_identifier: gHdNsESWQgM
 
 ---

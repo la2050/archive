@@ -20,6 +20,11 @@ project_ids: '#N/A'
 title: Downtown Women's Center
 uri: /organizations/downtown-womens-center/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
+project_titles:
+  - >-
+    We Are All LA: a socially conscious business network to end womens
+    homelessness through jobs
+  - 'MADE by DWC: Education and Job Readiness for Homeless Women'
 youtube_video_identifier: 8GZELMERrSk
 
 ---

@@ -21,6 +21,8 @@ project_ids: '4102164'
 title: St. Francis Center
 uri: /organizations/st-francis-center/
 challenge_url: ''
+project_titles:
+  - Green The Block
 youtube_video_identifier: uz4evo3B7qw
 
 ---

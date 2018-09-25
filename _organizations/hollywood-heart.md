@@ -23,6 +23,10 @@ project_ids: '5102135'
 title: Hollywood HEART
 uri: /organizations/hollywood-heart/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
+project_titles:
+  - 'Hollywood HEART: Arts in the Classroom'
+  - LA has HEART
+  - 'Camp Hollywood HEART '
 youtube_video_identifier: 7VGCk_c0VcU
 
 ---

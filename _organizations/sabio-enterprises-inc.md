@@ -22,6 +22,11 @@ project_ids: ''
 title: 'Sabio Enterprises, Inc.'
 uri: /organizations/sabio-enterprises-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Transformation.html'
+project_titles:
+  - >-
+    Sabio & Crossroads working together to incubate diverse tech talent in Los
+    Angeles.
+  - A HighPaying HighTech Jobs Solution For Those That Need It The MOST
 youtube_video_identifier: QaoTDnw-Xtw
 
 ---

@@ -24,6 +24,8 @@ project_ids: '5102226'
 title: Palisades Charter High School (PCHS)
 uri: /organizations/palisades-charter-high-school-pchs/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
+project_titles:
+  - Palisades Charter High - Guiding the Path to College & Career Success!
 youtube_video_identifier: XUlv1Zd4JZU
 
 ---

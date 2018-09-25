@@ -22,6 +22,10 @@ project_ids: '4102088'
 title: The Dinner Party
 uri: /organizations/the-dinner-party/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
+project_titles:
+  - >-
+    Moving forward together by taking #lifeafterloss out of the closet one
+    dinner & story at a time.
 youtube_video_identifier: Tyka7IrZhXU
 
 ---

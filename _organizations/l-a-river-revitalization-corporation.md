@@ -81,6 +81,8 @@ project_ids: '3102167'
 title: L.A. River Revitalization Corporation
 uri: /organizations/l-a-river-revitalization-corporation/
 challenge_url: 'http://maker.good.is/myla2050/projects/RovingRioVistasLA.html'
+project_titles:
+  - 'Roving RÃ­o Vista: A Park on the Move'
 youtube_video_identifier: 7so4eDfFRws
 
 ---

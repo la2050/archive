@@ -23,6 +23,8 @@ project_ids: '4102100'
 title: UCLA Extension Landscape Architecture Program
 uri: /organizations/ucla-extension-landscape-architecture-program/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
+project_titles:
+  - EXPO Line Safari!
 maker_image_id: '21750'
 maker_image_file_name: safari.jpg
 

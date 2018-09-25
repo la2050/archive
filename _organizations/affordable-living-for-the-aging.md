@@ -73,6 +73,8 @@ project_ids: '3102009'
 title: Affordable Living for the Aging
 uri: /organizations/affordable-living-for-the-aging/
 challenge_url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
+project_titles:
+  - Shared Housing Helps Los Angeles Become a National Model!
 youtube_video_identifier: FVOqZ9sWi8k
 
 ---

@@ -43,6 +43,8 @@ project_ids: '3102220'
 title: Playworks Southern California
 uri: /organizations/playworks-southern-california/
 challenge_url: 'http://maker.good.is/myla2050/projects/Recess.html'
+project_titles:
+  - Creating a Positive Learning Environment
 youtube_video_identifier: mJP7rkVcRfo
 
 ---

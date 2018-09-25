@@ -25,6 +25,9 @@ project_ids: ''
 title: Droplabs
 uri: /organizations/droplabs/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
+project_titles:
+  - Droplabs
+  - 'The Moebius Incubator: A New Step for L.A.s Entrepeneurs'
 maker_image_id: '21245'
 maker_image_file_name: slide-image-1.jpg
 

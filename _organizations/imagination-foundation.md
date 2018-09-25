@@ -22,6 +22,9 @@ project_ids: '5102138'
 title: Imagination Foundation
 uri: /organizations/imagination-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/imagination.html'
+project_titles:
+  - LA League of Imagination
+  - The Caines Arcade Challenge
 youtube_video_identifier: VtA2ubRDvAs
 
 ---

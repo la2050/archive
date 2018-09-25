@@ -23,6 +23,8 @@ project_ids: '4102041'
 title: Ghetto Film School
 uri: /organizations/ghetto-film-school/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
+project_titles:
+  - Ghetto Film School -- Los Angeles
 maker_image_id: '21361'
 maker_image_file_name: GFS_PHOTO_1.png
 

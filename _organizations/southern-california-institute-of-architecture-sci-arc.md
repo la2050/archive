@@ -22,6 +22,8 @@ project_ids: '4102163'
 title: Southern California Institute of Architecture (SCI-Arc)
 uri: /organizations/southern-california-institute-of-architecture-sci-arc/
 challenge_url: ''
+project_titles:
+  - Los Angeles Beaches Forever
 maker_image_id: '21961'
 maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
 

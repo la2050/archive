@@ -22,6 +22,8 @@ project_ids: '4102171'
 title: The Laurel Foundation
 uri: /organizations/the-laurel-foundation/
 challenge_url: ''
+project_titles:
+  - Spreading ChapCares Retail Health Insurance Enrollment Shop Model
 maker_image_id: '20215'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 

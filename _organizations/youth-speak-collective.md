@@ -22,6 +22,9 @@ project_ids: '4102110'
 title: Youth Speak Collective
 uri: /organizations/youth-speak-collective/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
+project_titles:
+  - SPEAK UP ACROSS LA!
+  - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
 youtube_video_identifier: poREvQfFFL4
 
 ---

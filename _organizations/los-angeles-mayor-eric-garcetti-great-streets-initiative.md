@@ -24,6 +24,8 @@ project_ids: '5102191'
 title: Los Angeles Mayor Eric Garcetti Great Streets Initiative
 uri: /organizations/los-angeles-mayor-eric-garcetti-great-streets-initiative/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
+project_titles:
+  - 'The Great Streets Challenge: Making Streets Playful Public Places'
 maker_image_id: '24129'
 maker_image_file_name: Screen_Shot_2015-10-07_at_4.00.20_PM.png
 

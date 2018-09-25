@@ -101,6 +101,8 @@ project_ids: '3102042'
 title: Bright Star Schools
 uri: /organizations/bright-star-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/connections.html'
+project_titles:
+  - The Connections Program
 youtube_video_identifier: '-t89MRZW7G0'
 
 ---

@@ -37,6 +37,8 @@ project_ids: '3102170'
 title: LA Cleantech Incubator / Clean Tech LA
 uri: /organizations/la-cleantech-incubator-clean-tech-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACI.html'
+project_titles:
+  - Establishing a Hub for Cleantech Innovation and Job Creation
 youtube_video_identifier: f2SXn1p3d4I
 
 ---

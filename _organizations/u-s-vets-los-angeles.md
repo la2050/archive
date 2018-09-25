@@ -34,6 +34,8 @@ project_ids: '3102260'
 title: U.S. VETS - Los Angeles
 uri: /organizations/u-s-vets-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/housevets.html'
+project_titles:
+  - Veteran Housing Retention Initiative
 maker_image_id: '17006'
 maker_image_file_name: WestsideONE.jpg
 

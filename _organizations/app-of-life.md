@@ -25,6 +25,10 @@ project_ids: '5102108'
 title: App of Life
 uri: /organizations/app-of-life/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
+project_titles:
+  - >-
+    App of Life transforms people and communities by challenging us to play real
+    life as a game.
 maker_image_id: '22052'
 maker_image_file_name: LA2050-image-4.jpg
 

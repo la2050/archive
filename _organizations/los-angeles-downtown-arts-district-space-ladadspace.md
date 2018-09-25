@@ -22,6 +22,8 @@ project_ids: '4102056'
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 uri: /organizations/los-angeles-downtown-arts-district-space-ladadspace/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
+project_titles:
+  - LADADSpace LA Murals & Mentorship Program
 youtube_video_identifier: cVrWTvw8gFc
 
 ---

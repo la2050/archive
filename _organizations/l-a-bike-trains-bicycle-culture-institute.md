@@ -22,6 +22,8 @@ project_ids: '4102047'
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 uri: /organizations/l-a-bike-trains-bicycle-culture-institute/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
+project_titles:
+  - L.A. Bike Trains
 youtube_video_identifier: l2oE7AX8gtw
 
 ---

@@ -23,6 +23,10 @@ project_ids: '5102184'
 title: Los Angeles Bioscience Hub
 uri: /organizations/los-angeles-bioscience-hub/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
+project_titles:
+  - >-
+    Biotech Leaders Academy: Growing diverse entrepreneurs in biotech via
+    hands-on work and mentorship
 youtube_video_identifier: UNbHPa1n2g4
 
 ---

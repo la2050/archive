@@ -27,6 +27,9 @@ project_ids: ''
 title: Public Matters
 uri: /organizations/public-matters/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/urbanfutureslab.html'
+project_titles:
+  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
+  - 'Market Makeovers: NextGen Leaders'
 youtube_video_identifier: 1HVZ3rX86M4
 
 ---

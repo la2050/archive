@@ -24,6 +24,8 @@ project_ids: ''
 title: Bill Weber Studios
 uri: /organizations/bill-weber-studios/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
+project_titles:
+  - Ambassador Bird - L.A.s Diversity Ambassador
 maker_image_id: '23146'
 maker_image_file_name: TWOAB.jpg
 

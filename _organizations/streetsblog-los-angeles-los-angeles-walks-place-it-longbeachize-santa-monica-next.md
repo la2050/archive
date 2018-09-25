@@ -27,6 +27,8 @@ title: >-
 uri: >-
   /organizations/streetsblog-los-angeles-los-angeles-walks-place-it-longbeachize-santa-monica-next/
 challenge_url: ''
+project_titles:
+  - 'LA Agri-Corps: Youth HEALers for Food Justice'
 maker_image_id: '21490'
 maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
 

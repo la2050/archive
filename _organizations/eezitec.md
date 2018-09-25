@@ -22,6 +22,10 @@ project_ids: '8102069'
 title: EEZITEC
 uri: /organizations/eezitec/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
+project_titles:
+  - >-
+    Making the next generation of creativity accessible to anyone with a 3D
+    Printing Makerspace!
 youtube_video_identifier: uVgrIU_Bl9g
 
 ---

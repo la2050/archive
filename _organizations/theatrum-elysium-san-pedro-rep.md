@@ -22,6 +22,8 @@ project_ids: '4102166'
 title: 'Theatrum Elysium, San Pedro Rep'
 uri: /organizations/theatrum-elysium-san-pedro-rep/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
+project_titles:
+  - A Paradise of Artistic Innovation and Theatrical Celebration
 youtube_video_identifier: nJPC81QoGyk
 
 ---

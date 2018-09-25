@@ -74,6 +74,10 @@ project_ids: '3102197'
 title: 'Million Trees LA, a project of Community Partners'
 uri: /organizations/million-trees-la-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
+project_titles:
+  - >-
+    Million Trees LA  Plant Toward a Sustainable Urban Forest That Supports
+    Healthy Families .
 youtube_video_identifier: IMUZKtO4vOw
 
 ---

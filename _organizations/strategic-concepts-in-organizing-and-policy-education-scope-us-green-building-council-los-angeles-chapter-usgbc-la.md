@@ -28,6 +28,8 @@ title: >-
 uri: >-
   /organizations/strategic-concepts-in-organizing-and-policy-education-scope-us-green-building-council-los-angeles-chapter-usgbc-la/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
+project_titles:
+  - 'Communities Building Resilience: South LA'
 youtube_video_identifier: ERxmCic5y3o
 
 ---

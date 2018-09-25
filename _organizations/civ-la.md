@@ -23,6 +23,10 @@ project_ids: '5102063'
 title: civ.LA
 uri: /organizations/civ-la/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
+project_titles:
+  - >-
+    AbundantFeast: a Restaurant Incubator and Inclusive Localism Lab inspired by
+    Jonathan Gold
 youtube_video_identifier: qyZQR5_KCEM
 
 ---

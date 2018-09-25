@@ -23,6 +23,8 @@ project_ids: '4102037'
 title: Fox Hills Ladera Healthy Family Association Inc.
 uri: /organizations/fox-hills-ladera-healthy-family-association-inc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
+project_titles:
+  - Farmers Market- Public Space Usage Plan
 maker_image_id: '22050'
 maker_image_file_name: imagxxe.jpg
 

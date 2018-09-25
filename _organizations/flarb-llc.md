@@ -49,6 +49,8 @@ project_ids: '3102046'
 title: FLARB LLC
 uri: /organizations/flarb-llc/
 challenge_url: 'http://maker.good.is/myla2050/projects/evolvela.html'
+project_titles:
+  - evolve.la
 maker_image_id: '16195'
 maker_image_file_name: evolvela2.png
 

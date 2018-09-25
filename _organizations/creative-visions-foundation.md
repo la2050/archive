@@ -58,6 +58,8 @@ project_ids: '3102097'
 title: Creative Visions Foundation
 uri: /organizations/creative-visions-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/creativeactivists.html'
+project_titles:
+  - Creative Activist Program
 youtube_video_identifier: 8N5kv8ddErc
 
 ---

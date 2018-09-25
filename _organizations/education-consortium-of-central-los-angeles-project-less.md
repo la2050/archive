@@ -85,6 +85,8 @@ project_ids: '3102119'
 title: Education Consortium of Central Los Angeles / Project LESS
 uri: /organizations/education-consortium-of-central-los-angeles-project-less/
 challenge_url: 'http://maker.good.is/myla2050/projects/morelearning.html'
+project_titles:
+  - Learning Equipment Supply Service
 youtube_video_identifier: 6pkTdEgSCvo
 
 ---

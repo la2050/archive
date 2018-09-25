@@ -21,6 +21,10 @@ project_ids: '4102122'
 title: College Summit Southern California
 uri: /organizations/college-summit-southern-california/
 challenge_url: ''
+project_titles:
+  - >-
+    College Summit: Equipping 4800 Low-Income Student For Success in College and
+    Career
 youtube_video_identifier: XNxfMssLYzc
 
 ---

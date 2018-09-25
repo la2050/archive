@@ -27,6 +27,8 @@ project_ids: ''
 title: Green Commuter
 uri: /organizations/green-commuter/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
+project_titles:
+  - Green Commuter LA2050
 youtube_video_identifier: TjRq-S_gY9U
 
 ---

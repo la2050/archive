@@ -24,6 +24,10 @@ project_ids: '5102116'
 title: Great Minds STEM Society
 uri: /organizations/great-minds-stem-society/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
+project_titles:
+  - >-
+    Providing minority students opportunities in science technology engineering
+    and mathematics.
 maker_image_id: '23564'
 maker_image_file_name: IMG_9595_(5).jpg
 

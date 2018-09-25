@@ -23,6 +23,8 @@ project_ids: '5102302'
 title: The Incubator School
 uri: /organizations/the-incubator-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
+project_titles:
+  - 'The Incubator School: Designing the High School of Tomorrow Today'
 youtube_video_identifier: SHjS92F_BK8
 
 ---

@@ -24,6 +24,9 @@ project_ids: ''
 title: Do Good Bus
 uri: /organizations/do-good-bus/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
+project_titles:
+  - Do Good Bus
+  - 'Do Good Bus | Free Rides '
 youtube_video_identifier: T17vBV41x0g
 
 ---

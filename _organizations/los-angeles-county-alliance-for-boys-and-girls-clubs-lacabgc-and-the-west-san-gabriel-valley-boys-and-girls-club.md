@@ -26,6 +26,8 @@ title: >-
 uri: >-
   /organizations/los-angeles-county-alliance-for-boys-and-girls-clubs-lacabgc-and-the-west-san-gabriel-valley-boys-and-girls-club/
 challenge_url: ''
+project_titles:
+  - Seeding STEM at LA County Alliance for Boys and Girls Clubs
 youtube_video_identifier: JAZZ3YBKHzY
 
 ---

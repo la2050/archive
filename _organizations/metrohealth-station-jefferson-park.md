@@ -22,6 +22,8 @@ project_ids: ''
 title: MetroHealth Station - Jefferson Park
 uri: /organizations/metrohealth-station-jefferson-park/
 challenge_url: ''
+project_titles:
+  - Original Green Community Food Hub
 maker_image_id: '22268'
 maker_image_file_name: Heathy_Teens__LA.png
 

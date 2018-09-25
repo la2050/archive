@@ -45,6 +45,8 @@ project_ids: '3102069'
 title: cityLAB-UCLA
 uri: /organizations/citylab-ucla/
 challenge_url: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+project_titles:
+  - 'Backyard Homes: Sustainable Flexible Affordable Housing for LA'
 youtube_video_identifier: T-_qt-Ah9-0
 
 ---

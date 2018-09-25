@@ -81,6 +81,8 @@ project_ids: '3102038'
 title: Boys & Girls Club of Venice
 uri: /organizations/boys-girls-club-of-venice/
 challenge_url: 'http://maker.good.is/myla2050/projects/BGCVenice.html'
+project_titles:
+  - Boys & Girls Club of Venice Learning Center Renovation
 youtube_video_identifier: kovLXgjjpp0
 
 ---

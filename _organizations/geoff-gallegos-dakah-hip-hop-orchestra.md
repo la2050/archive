@@ -68,6 +68,8 @@ project_ids: '3102053'
 title: Geoff Gallegos/daKAH Hip Hop Orchestra
 uri: /organizations/geoff-gallegos-dakah-hip-hop-orchestra/
 challenge_url: 'http://maker.good.is/myla2050/projects/dakathouse.html'
+project_titles:
+  - 'daKAT House:  A Public Housing Project for musicians.'
 youtube_video_identifier: ZErt5IiuEPA
 
 ---

@@ -23,6 +23,8 @@ project_ids: '5102036'
 title: Bruce Lee Foundation
 uri: /organizations/bruce-lee-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
+project_titles:
+  - Bruce Lees Little Dragons
 youtube_video_identifier: YufCYg-BYaY
 
 ---

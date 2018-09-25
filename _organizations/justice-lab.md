@@ -23,6 +23,8 @@ project_ids: '5102155'
 title: Justice Lab
 uri: /organizations/justice-lab/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
+project_titles:
+  - ReConnect.la (RCLA)
 maker_image_id: '23396'
 maker_image_file_name: ReConnectLA_Logo_02.jpg
 

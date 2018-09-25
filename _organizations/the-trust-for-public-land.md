@@ -22,6 +22,8 @@ project_ids: '4102176'
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
 challenge_url: ''
+project_titles:
+  - RUN FOR YOUR LIFE
 maker_image_id: '22632'
 maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
 

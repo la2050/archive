@@ -33,6 +33,8 @@ title: >-
 uri: >-
   /organizations/los-angeles-southwest-college-foundation-innovate-globally-and-los-angeles-southwest-college-career-technical-education/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
+project_titles:
+  - Innov8-Helping Other Create Opportunities. South LAs Silicon Valley!
 maker_image_id: '24010'
 maker_image_file_name: codetechiq.jpg
 

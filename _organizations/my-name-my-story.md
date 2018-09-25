@@ -21,6 +21,8 @@ project_ids: ''
 title: My Name My Story
 uri: /organizations/my-name-my-story/
 challenge_url: ''
+project_titles:
+  - My Name My Story
 youtube_video_identifier: A9yf6DpgLSM
 
 ---

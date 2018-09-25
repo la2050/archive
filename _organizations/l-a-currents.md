@@ -38,6 +38,8 @@ project_ids: '3102066'
 title: L.A. Currents
 uri: /organizations/l-a-currents/
 challenge_url: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+project_titles:
+  - Connecting Angelenos Through Smart Engaging Neighborhood Maps
 maker_image_id: '16991'
 maker_image_file_name: lasmartmap3.jpg
 

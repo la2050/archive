@@ -22,6 +22,10 @@ project_ids: ''
 title: The Prep Source
 uri: /organizations/the-prep-source/
 challenge_url: ''
+project_titles:
+  - >-
+    Creating an equal opportunity to succeed by mentorship from someone that has
+    the career you want
 maker_image_id: '20755'
 maker_image_file_name: The_Prep_Source_Resume_Workshop.png
 

@@ -54,6 +54,10 @@ title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 uri: >-
   /organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
+project_titles:
+  - >-
+    Development of a Multidisciplinary Los Angeles CountyBased Brain Cancer
+    Program 
 maker_image_id: '16042'
 maker_image_file_name: BRAINCANCERLA2050.jpg
 

@@ -23,6 +23,8 @@ project_ids: '8102115'
 title: Ruckus Projects
 uri: /organizations/ruckus-projects/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
+project_titles:
+  - Localized Mobile News App Connecting You to Your Community
 maker_image_id: '23547'
 maker_image_file_name: Leif_Community_Engagement_App.jpg
 

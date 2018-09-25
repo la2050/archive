@@ -55,6 +55,9 @@ project_ids: '3102163'
 title: KCETLink
 uri: /organizations/kcetlink/
 challenge_url: 'http://maker.good.is/myla2050/projects/GroundGame.html'
+project_titles:
+  - Ballot Brief  Ground Game
+  - Ballot Brief  Ground Game
 maker_image_id: '17051'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 

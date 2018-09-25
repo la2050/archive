@@ -24,6 +24,10 @@ project_ids: '5102159'
 title: Keith A. Somers International Foundation
 uri: /organizations/keith-a-somers-international-foundation/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
+project_titles:
+  - >-
+    Enhancing the perspectives of todays youth and equipping them with life
+    skills to help mankind.
 maker_image_id: '23179'
 maker_image_file_name: Web_New_Com.jpg
 

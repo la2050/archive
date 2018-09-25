@@ -50,6 +50,8 @@ project_ids: '3102207'
 title: No Right Brain Left Behind and Green Dot Schools
 uri: /organizations/no-right-brain-left-behind-and-green-dot-schools/
 challenge_url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+project_titles:
+  - 'The Salamander Project: Redesigning Creativity in Education'
 youtube_video_identifier: y3Gts_Aoxd8
 
 ---

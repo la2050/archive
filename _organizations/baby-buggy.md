@@ -22,6 +22,8 @@ project_ids: '4102115'
 title: Baby Buggy
 uri: /organizations/baby-buggy/
 challenge_url: ''
+project_titles:
+  - The Pathway
 maker_image_id: '20955'
 maker_image_file_name: alg-babybuggy-jpg.jpg
 

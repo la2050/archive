@@ -22,6 +22,8 @@ project_ids: '4102143'
 title: Learning Equipment Supply Service
 uri: /organizations/learning-equipment-supply-service/
 challenge_url: ''
+project_titles:
+  - Lab Equipment Access for LA Science Teachers
 maker_image_id: '21591'
 maker_image_file_name: less.png
 

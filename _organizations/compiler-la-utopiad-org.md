@@ -24,6 +24,10 @@ project_ids: '5102150'
 title: 'Compiler LA, Utopiad.org'
 uri: /organizations/compiler-la-utopiad-org/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
+project_titles:
+  - >-
+    Diversifying LA’s manufacturing ownership by empowering workers to buy their
+    company
 youtube_video_identifier: KHtt2okRChU
 
 ---

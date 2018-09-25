@@ -22,6 +22,8 @@ project_ids: '4102078'
 title: Row Gallery Foundation
 uri: /organizations/row-gallery-foundation/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
+project_titles:
+  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
 youtube_video_identifier: ApjqumUUgTI
 
 ---

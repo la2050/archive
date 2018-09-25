@@ -23,6 +23,8 @@ project_ids: '5102255'
 title: Robey Theatre Company
 uri: /organizations/robey-theatre-company/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
+project_titles:
+  - History Detectives 2.0
 maker_image_id: '23966'
 maker_image_file_name: Robey_Brochure_Front1_(1).jpg
 

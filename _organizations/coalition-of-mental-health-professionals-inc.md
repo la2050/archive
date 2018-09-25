@@ -44,6 +44,8 @@ project_ids: '3102078'
 title: 'Coalition of Mental Health Professionals, Inc.'
 uri: /organizations/coalition-of-mental-health-professionals-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/workersrising.html'
+project_titles:
+  - 'Partnership for Black Workers Rising '
 youtube_video_identifier: gTKhNc98GIc
 
 ---

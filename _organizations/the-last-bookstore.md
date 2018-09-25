@@ -40,6 +40,8 @@ project_ids: '3102107'
 title: The Last Bookstore
 uri: /organizations/the-last-bookstore/
 challenge_url: 'http://maker.good.is/myla2050/projects/RXforLA.html'
+project_titles:
+  - An Rx for LA  Combining Art & Technology to ReBuild Los Angeles
 maker_image_id: '16903'
 maker_image_file_name: LBSpan2med.jpg
 

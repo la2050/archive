@@ -24,6 +24,8 @@ project_ids: '4102090'
 title: The Human Element Project
 uri: /organizations/the-human-element-project/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
+project_titles:
+  - 'The Human Element Project: Play in LA'
 youtube_video_identifier: dCvzeDvQtLY
 
 ---

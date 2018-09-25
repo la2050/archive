@@ -25,6 +25,8 @@ project_ids: '4102098'
 title: The Women's Center for Creative Work
 uri: /organizations/the-womens-center-for-creative-work/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/WCCW.html'
+project_titles:
+  - A Physical Space for the WCCW
 maker_image_id: '20805'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 

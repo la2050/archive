@@ -24,6 +24,8 @@ project_ids: '5102283'
 title: Sustainablesurf.org
 uri: /organizations/sustainablesurf-org/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'
+project_titles:
+  - the EcoBoard Project
 youtube_video_identifier: 5-OvAiMBAFc
 
 ---

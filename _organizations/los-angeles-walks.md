@@ -85,6 +85,8 @@ project_ids: '3102190'
 title: Los Angeles Walks
 uri: /organizations/los-angeles-walks/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAwalks.html'
+project_titles:
+  - "â€œHey Iâ€™m Walking Here!â€\x9D: A Campaign Celebrating Pedestrians in the City of Los Angeles "
 youtube_video_identifier: hHXkL2SbXI8
 
 ---

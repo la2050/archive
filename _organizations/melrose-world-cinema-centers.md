@@ -24,6 +24,8 @@ project_ids: '5102205'
 title: Melrose World Cinema Centers
 uri: /organizations/melrose-world-cinema-centers/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
+project_titles:
+  - ONE LIFE LOS ANGELES
 maker_image_id: '23763'
 maker_image_file_name: OWW_logo_and_logline.jpg
 

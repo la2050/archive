@@ -25,6 +25,8 @@ project_ids: ''
 title: Peace Allies
 uri: /organizations/peace-allies/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
+project_titles:
+  - 'Meet angel: Your friendly app and ally to all things LA'
 maker_image_id: '22289'
 maker_image_file_name: PA-angel.jpg
 

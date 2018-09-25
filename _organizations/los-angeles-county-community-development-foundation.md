@@ -22,6 +22,10 @@ project_ids: '4102150'
 title: Los Angeles County Community Development Foundation
 uri: /organizations/los-angeles-county-community-development-foundation/
 challenge_url: ''
+project_titles:
+  - >-
+    Project: SCHOLARS - empowering college and college bound students of all
+    ages to succeed
 maker_image_id: '22531'
 maker_image_file_name: Photo_Collage_v6.jpg
 

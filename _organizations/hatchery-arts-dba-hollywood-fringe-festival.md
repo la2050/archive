@@ -23,6 +23,8 @@ project_ids: '5102126'
 title: Hatchery Arts dba Hollywood Fringe Festival
 uri: /organizations/hatchery-arts-dba-hollywood-fringe-festival/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/hollywoodfringe.html'
+project_titles:
+  - Popup Venue for 2016 Hollywood Fringe
 youtube_video_identifier: jqxMSN_U1Pk
 
 ---

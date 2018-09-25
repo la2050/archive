@@ -109,6 +109,8 @@ project_ids: '3102254'
 title: The Los Angeles Mayor's Council on Innovation and Industry
 uri: /organizations/the-los-angeles-mayors-council-on-innovation-and-industry/
 challenge_url: 'http://maker.good.is/myla2050/projects/LAMCII.html'
+project_titles:
+  - Make Los Angeles the Innovation Capital of the World
 maker_image_id: '16540'
 maker_image_file_name: LAMCII_graphic.png
 

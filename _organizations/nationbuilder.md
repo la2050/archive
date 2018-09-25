@@ -25,6 +25,8 @@ project_ids: '5102180'
 title: NationBuilder
 uri: /organizations/nationbuilder/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
+project_titles:
+  - LA Conversation Meals
 maker_image_id: '22481'
 maker_image_file_name: LA2050.png
 

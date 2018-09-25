@@ -24,6 +24,8 @@ project_ids: ''
 title: Plug In South LA
 uri: /organizations/plug-in-south-la/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
+project_titles:
+  - Plug In South LA
 youtube_video_identifier: qooMUYecd1s
 
 ---

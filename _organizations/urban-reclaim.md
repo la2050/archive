@@ -27,6 +27,8 @@ project_ids: '3102267'
 title: Urban Reclaim
 uri: /organizations/urban-reclaim/
 challenge_url: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
+project_titles:
+  - Reclaimed Park Strand Project
 youtube_video_identifier: rDZ9hY7J0xQ
 
 ---

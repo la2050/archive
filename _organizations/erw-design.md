@@ -24,6 +24,8 @@ project_ids: '5102342'
 title: ERW Design
 uri: /organizations/erw-design/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
+project_titles:
+  - The LA River Public Art Project
 youtube_video_identifier: fpGXBYHFZuE
 
 ---

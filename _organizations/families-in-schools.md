@@ -21,6 +21,8 @@ project_ids: '4102125'
 title: Families In Schools
 uri: /organizations/families-in-schools/
 challenge_url: ''
+project_titles:
+  - Los Angeles Campaign for Grade Level Reading
 youtube_video_identifier: C1uVBoRtQ74
 
 ---

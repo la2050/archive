@@ -22,6 +22,8 @@ project_ids: '4102046'
 title: Koreatown Youth and Community Center (KYCC)
 uri: /organizations/koreatown-youth-and-community-center-kycc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
+project_titles:
+  - Los Angeles Free Income Tax Project
 youtube_video_identifier: tFrudFZCeRY
 
 ---

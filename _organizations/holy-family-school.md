@@ -25,6 +25,8 @@ project_ids: '5102136'
 title: Holy Family School
 uri: /organizations/holy-family-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'
+project_titles:
+  - Learning Through Service at Holy Family School
 maker_image_id: '23605'
 maker_image_file_name: FullSizeRender-2.jpg
 

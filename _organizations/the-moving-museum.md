@@ -22,6 +22,8 @@ project_ids: '5102307'
 title: The Moving Museum
 uri: /organizations/the-moving-museum/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
+project_titles:
+  - The Moving Museum Los Angeles
 youtube_video_identifier: X9EpK48pYtY
 
 ---

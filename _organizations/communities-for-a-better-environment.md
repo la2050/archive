@@ -32,6 +32,9 @@ project_ids: '5102074'
 title: Communities for a Better Environment
 uri: /organizations/communities-for-a-better-environment/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
+project_titles:
+  - 'Getting LA students to graduate: educating the whole child'
+  - Youth for Environmental Justice and Community Revitalization
 youtube_video_identifier: ghRsAe0AExM
 
 ---

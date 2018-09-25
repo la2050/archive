@@ -23,6 +23,9 @@ project_ids: '4102082'
 title: Skid Row Housing Trust
 uri: /organizations/skid-row-housing-trust/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
+project_titles:
+  - Our Skid Row Community Design Studio
+  - Skid Row 2050
 maker_image_id: '21430'
 maker_image_file_name: Photos_2013.JPG
 

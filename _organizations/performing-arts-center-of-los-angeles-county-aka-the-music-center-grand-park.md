@@ -25,6 +25,8 @@ title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand P
 uri: >-
   /organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
+project_titles:
+  - A shady oasis for everyone in Grand Park
 youtube_video_identifier: BhO5jmXKosA
 
 ---

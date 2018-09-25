@@ -21,6 +21,8 @@ project_ids: '4102168'
 title: 'The Exploratory: Maker Guilds'
 uri: /organizations/the-exploratory-maker-guilds/
 challenge_url: ''
+project_titles:
+  - Tinker.Make.Innovate. Challenge
 youtube_video_identifier: 7nv6O3U7szc
 
 ---

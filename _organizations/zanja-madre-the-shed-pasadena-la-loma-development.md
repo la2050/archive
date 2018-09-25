@@ -22,6 +22,8 @@ project_ids: '4102190'
 title: 'Zanja Madre, The Shed Pasadena, La Loma Development'
 uri: /organizations/zanja-madre-the-shed-pasadena-la-loma-development/
 challenge_url: ''
+project_titles:
+  - 'Vision Zero Los Angeles: safe streets for healthy living'
 maker_image_id: '21199'
 maker_image_file_name: DSC02097-2.jpg
 

@@ -30,6 +30,8 @@ project_ids: '3102157'
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+project_titles:
+  - Listening Communication and Conflict Resolution Skills for Los Angeles
 youtube_video_identifier: '-wRfwMCYTHY'
 
 ---

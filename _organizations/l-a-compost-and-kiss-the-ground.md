@@ -25,6 +25,8 @@ project_ids: '5102164'
 title: L.A. Compost and Kiss the Ground
 uri: /organizations/l-a-compost-and-kiss-the-ground/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
+project_titles:
+  - Compost Hubs throughout Los Angeles
 youtube_video_identifier: oPkjhNbvFTw
 
 ---

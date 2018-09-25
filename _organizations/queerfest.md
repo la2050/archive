@@ -23,6 +23,8 @@ project_ids: '4102076'
 title: QueerFest
 uri: /organizations/queerfest/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
+project_titles:
+  - QueerFest LA
 maker_image_id: '21336'
 maker_image_file_name: QueerFest2014.jpg
 

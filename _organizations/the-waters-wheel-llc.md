@@ -41,6 +41,8 @@ project_ids: '3102108'
 title: 'The Waters Wheel, LLC'
 uri: /organizations/the-waters-wheel-llc/
 challenge_url: 'http://maker.good.is/myla2050/projects/Heal_This_City.html'
+project_titles:
+  - Heal This City
 maker_image_id: '16690'
 maker_image_file_name: 100_Trees_3.jpg
 

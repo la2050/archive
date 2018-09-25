@@ -25,6 +25,8 @@ project_ids: '5102256'
 title: 'RootDown LA, A project of Community Partners'
 uri: /organizations/rootdown-la-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
+project_titles:
+  - RootDown LA - Youre Gonna Wanna Eat Your Veggies!
 maker_image_id: '23812'
 maker_image_file_name: RD_APCH_Training_Install_Mar_15_4web.jpg
 

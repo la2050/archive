@@ -24,6 +24,9 @@ project_ids: '5102266'
 title: Shane's Inspiration
 uri: /organizations/shanes-inspiration/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
+project_titles:
+  - Together We Play L.A.!
+  - Together We Play L.A.!
 youtube_video_identifier: yUDKtK6Gfls
 
 ---

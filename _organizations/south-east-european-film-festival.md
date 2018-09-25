@@ -22,6 +22,8 @@ project_ids: '4102084'
 title: South East European Film Festival
 uri: /organizations/south-east-european-film-festival/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
+project_titles:
+  - BALKAN - L.A. CULTURAL CROSSROADS
 youtube_video_identifier: qtJ5XumU1Gw
 
 ---

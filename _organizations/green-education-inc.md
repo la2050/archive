@@ -22,6 +22,8 @@ project_ids: '4102132'
 title: Green Education Inc.
 uri: /organizations/green-education-inc/
 challenge_url: ''
+project_titles:
+  - Empowering Teens to Make Healthy Decisions
 maker_image_id: '22790'
 maker_image_file_name: GEInc_Logo-brown_3-12.jpg
 

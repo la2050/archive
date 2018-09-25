@@ -25,6 +25,8 @@ project_ids: '5102092'
 title: El Basurero
 uri: /organizations/el-basurero/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/basurero.html'
+project_titles:
+  - El Basurero
 maker_image_id: '23242'
 maker_image_file_name: 20150904_101442.jpg
 

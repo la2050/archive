@@ -168,6 +168,8 @@ project_ids: '3102072'
 title: Mia Lehrer + Associates
 uri: /organizations/mia-lehrer-associates/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanforest.html'
+project_titles:
+  - Urban Forest
 youtube_video_identifier: 9xQP6vGylgE
 
 ---

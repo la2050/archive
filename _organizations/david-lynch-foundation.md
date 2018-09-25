@@ -44,6 +44,10 @@ project_ids: '3102102'
 title: David Lynch Foundation
 uri: /organizations/david-lynch-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/enlightened200.html'
+project_titles:
+  - >-
+    The LA2050 200  Creating Enlightened Leadership for a Healthy Thriving Los
+    Angeles
 maker_image_id: '16855'
 maker_image_file_name: DLFlogo.jpg
 

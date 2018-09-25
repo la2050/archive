@@ -253,7 +253,7 @@ text-align: left;
     {% endfor %}
   {% endfor %}
 
-  <li class="{{ data_category }}" data-tags="{{ data['tags_indicators'] | join: "," }}">
+  <li data-project-titles="{{ data['project_titles'] | join: "," }}" data-tags="{{ data['tags_indicators'] | join: "," }}">
     <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
@@ -447,6 +447,7 @@ function addCategoryColor(tag) {
     if (!keyword || keyword == '' || keyword.length < 2) return;
 
     keyword = keyword.toLowerCase();
+    string = string.toLowerCase();
 
     var rank = 0;
 
@@ -504,7 +505,7 @@ function addCategoryColor(tag) {
   if (keywords) {
     var keywordList = keywords.replace(/\s/, ',').split(',');
     if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
-      return keyword != "and";
+      return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the";
     })
   }
   for (var index = 0; index < items.length; index++) {

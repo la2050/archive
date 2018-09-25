@@ -41,6 +41,8 @@ project_ids: '3102010'
 title: City Earthworm
 uri: /organizations/city-earthworm/
 challenge_url: 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+project_titles:
+  - You Can Compost That!
 maker_image_id: '16537'
 maker_image_file_name: LA2050.jpg
 

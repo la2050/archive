@@ -21,6 +21,10 @@ project_ids: '4102151'
 title: Los Angeles Drama Club
 uri: /organizations/los-angeles-drama-club/
 challenge_url: ''
+project_titles:
+  - >-
+    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn
+    create and grow
 youtube_video_identifier: 79DqmMTV8-Y
 
 ---

@@ -23,6 +23,8 @@ project_ids: '5102309'
 title: The Ripple Effect
 uri: /organizations/the-ripple-effect/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
+project_titles:
+  - College Bridge Program for Graduating High School Seniors
 maker_image_id: '23575'
 maker_image_file_name: Picture_5.jpg
 
