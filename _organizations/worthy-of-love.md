@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Mental & emotional health
+  - Housing & homelessness
+  - Health
 twitter: Worthyoflovela
 instagram: Worthyoflovela
 facebook: Worthyoflovela

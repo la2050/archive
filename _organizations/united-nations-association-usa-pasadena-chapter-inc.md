@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Climate change
+  - Education & youth
+  - Environmental quality & sustainability
 twitter: ActAmbassadors
 instagram: actionambassadors
 facebook: ActionAmbassadors

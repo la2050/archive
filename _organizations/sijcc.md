@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Community health
+  - Social connectedness
+  - Health
 twitter: eastsidejews
 instagram: silverlakejcc
 facebook: sijcc

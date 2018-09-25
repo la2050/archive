@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Access to parks & green space
+  - Social connectedness
+  - Public safety & public space
 twitter: ronfinleyhq
 instagram: RonFinley
 facebook: ronfinleyhq

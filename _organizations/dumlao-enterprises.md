@@ -8,6 +8,9 @@ ein: '464108322'
 zip: '91406'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 twitter: ''
 instagram: ''
 facebook: ''

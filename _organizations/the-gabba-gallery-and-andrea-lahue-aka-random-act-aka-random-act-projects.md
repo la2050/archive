@@ -8,6 +8,9 @@ ein: '273886515'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273886515'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: www.twitter.com/thegabbagallery and www.twitter.com/AndreaLaHue
 instagram: instagram.com/thegabbagallery instagram.com/andrealahue
 facebook: www.facebook.com/thegabbagallery and www.facebook.com/RandomActakaAndreaLaHue

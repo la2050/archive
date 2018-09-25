@@ -8,6 +8,10 @@ ein: '812014188'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812014188'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
 twitter: GALAcademy
 instagram: girls_academic_leadership_acad
 facebook: GALAcademy

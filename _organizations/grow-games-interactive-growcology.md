@@ -8,6 +8,10 @@ ein: '463288070'
 zip: '92504'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Community safety
+  - Public safety & public space
 twitter: twitter.com/growgames
 instagram: instagram.com/growgames
 facebook: 'https://www.facebook.com/growgamesinteractive'

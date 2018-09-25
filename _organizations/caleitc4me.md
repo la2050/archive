@@ -8,6 +8,9 @@ ein: '474325738'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474325738'
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 twitter: '@CalEITC4Me'
 instagram: 0
 facebook: 'https://www.facebook.com/CalEITC4Me/'

@@ -8,6 +8,9 @@ ein: '900406307'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: '@psychicbunnyinc'
 instagram: ''
 facebook: 'https://www.facebook.com/psychicbunny'

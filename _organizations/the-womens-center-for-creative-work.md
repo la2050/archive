@@ -8,6 +8,11 @@ ein: '952540759'
 zip: '90031'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 twitter: '@WCCWLA'
 instagram: '@womenscenterforcreativework'
 facebook: 'https://www.facebook.com/womenscenterforcreativework'

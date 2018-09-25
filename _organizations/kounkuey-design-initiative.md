@@ -9,6 +9,11 @@ ein: '900599471'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=900599471'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Fitness & sports
+  - Public safety & public space
+  - Health
 twitter:
   - '@Kounkuey'
   - '@LURNetwork'

@@ -8,6 +8,9 @@ ein: '451130362'
 zip: '90015'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451130362'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
 twitter: '@cityfabrick'
 instagram: cityfabrick
 facebook: cityfabrick

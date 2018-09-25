@@ -8,6 +8,11 @@ ein: '463064675'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463064675'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: www.twitter.com/JusticeLANow
 instagram: www.instagram.com/JusticeLANow
 facebook: www.facebook.com/JusticeLANow

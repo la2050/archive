@@ -8,6 +8,9 @@ ein: '900771336'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/fortgoods'
 instagram: 'http://instagram.com/fortgoods'
 facebook: 'https://www.facebook.com/FORTgoods'

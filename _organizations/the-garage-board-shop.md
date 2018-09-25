@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Fitness & sports
+  - Education & youth
+  - Health
 twitter: GarageBoardshop
 instagram: The-Garage-Board-Shop-155402207883024/
 facebook: the_garageboardshop/

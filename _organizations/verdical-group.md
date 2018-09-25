@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Resiliency
+  - Environmental quality & sustainability
+  - Public safety & public space
 twitter: VerdicalGroup
 instagram: VerdicalGroup
 facebook: N/A

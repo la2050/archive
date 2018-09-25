@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: Jesterpharley
 instagram: The-Jester-and-Pharley-Phund-167046320311
 facebook: Jesterpharley

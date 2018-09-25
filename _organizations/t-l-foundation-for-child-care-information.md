@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Access to healthy food
+  - Education & youth
+  - Health
 twitter: tlfcci
 instagram: tandlfoundationforchildcareinformation
 facebook: tlfcci

@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Entrepreneurship & innovation
+  - Education & youth
+  - Income & employment
 twitter: wethrive_
 instagram: teamwethrive
 facebook: wethrive_

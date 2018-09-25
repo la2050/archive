@@ -8,6 +8,9 @@ ein: '455055360'
 zip: '90731'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: TESanPedroRep
 instagram: tesanpedrorep
 facebook: 'https://www.facebook.com/TESanPedroRep'

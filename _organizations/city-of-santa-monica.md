@@ -8,6 +8,9 @@ ein: '956000790'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000790'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@CityofWellbeing'
 instagram: ''
 facebook: facebook.com/SantaMonicaWellbeing

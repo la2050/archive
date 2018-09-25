@@ -10,6 +10,11 @@ charity_navigator_url: >-
   https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951716914
   (in the name of Special Service for Groups)
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Access to healthy food
+  - Housing & homelessness
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''

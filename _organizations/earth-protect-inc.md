@@ -8,6 +8,9 @@ ein: '260612343'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Environmental quality & sustainability
 twitter: 'https://twitter.com/EarthProtect1'
 instagram: ''
 facebook: www.facebook.com/earthprotect

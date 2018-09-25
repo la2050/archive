@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Volunteerism
+  - Social connectedness
 twitter: uniteanationinc
 instagram: uniteanation
 facebook: uniteanationinc

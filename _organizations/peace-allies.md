@@ -8,6 +8,11 @@ ein: '471459497'
 zip: '91711'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Community health
+  - Social connectedness
+  - Health
 twitter: twitter.com/PeaceAllies
 instagram: facebook.com/PeaceAllies
 facebook: facebook.com/PeaceAllies

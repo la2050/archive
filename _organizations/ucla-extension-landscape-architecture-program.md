@@ -8,6 +8,11 @@ ein: '956006143'
 zip: '91208'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Climate change
+  - Public safety & public space
+  - Environmental quality & sustainability
 twitter: 'http://www.twitter.com/LandArch_UCLAx'
 instagram: ''
 facebook: 'https://www.facebook.com/pages/UCLA-Extension-Landscape-Architecture-Program'

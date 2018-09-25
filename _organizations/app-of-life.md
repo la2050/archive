@@ -8,6 +8,9 @@ ein: '471275838'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 twitter: '@App_of_Life'
 instagram: 'http://instagram.com/appoflife'
 facebook: 'https://www.facebook.com/appoflife'

@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
+  - Education & youth
+  - Health
 twitter: connectWPDI
 instagram: WhitakerPeace
 facebook: whitaker_peace

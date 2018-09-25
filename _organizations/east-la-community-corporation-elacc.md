@@ -11,6 +11,9 @@ ein: '954531076'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954531076'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter:
   - '@elaccorg'
   - '@lurnetwork'

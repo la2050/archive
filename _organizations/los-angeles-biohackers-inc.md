@@ -8,6 +8,9 @@ ein: '1'
 zip: '90782'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=1'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: LABiohackers
 instagram: None
 facebook: 'https://www.facebook.com/pages/LA-Biohackers/245330182182586'

@@ -8,6 +8,9 @@ ein: '452812002'
 zip: '90018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452812002'
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 twitter: TinyCitiesLA
 instagram: TinyCitiesLA
 facebook: TinyCitiesLA

@@ -8,6 +8,11 @@ ein: '463314343'
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463314343'
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Climate change
+  - Education & youth
+  - Environmental quality & sustainability
 twitter: '@crayoncollection'
 instagram: '@crayoncollection'
 facebook: facebook.com/crayoncollection

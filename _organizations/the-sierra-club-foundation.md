@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
 twitter: MyGenerationSC
 instagram: MyGenerationSC
 facebook: mygencampaign

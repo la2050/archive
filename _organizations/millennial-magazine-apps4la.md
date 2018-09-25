@@ -8,6 +8,9 @@ ein: '613480924'
 zip: '91504'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/MillennialMagz'
 instagram: ''
 facebook: 'https://www.facebook.com/MillennialMagazine'

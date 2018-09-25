@@ -8,6 +8,9 @@ ein: '954443724'
 zip: '91403'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954443724'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: ''
 instagram: ''
 facebook: 'https://www.facebook.com/pages/Rangoli-Dance-Company/331420330066'

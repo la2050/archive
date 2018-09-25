@@ -8,6 +8,11 @@ ein: '223902958'
 zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Community health
+  - Social connectedness
+  - Health
 twitter: '@child_360'
 instagram: '@child_360'
 facebook: www.facebook.com/child360

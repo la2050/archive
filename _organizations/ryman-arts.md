@@ -8,6 +8,11 @@ ein: '951051084'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951051084'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 twitter: rymanarts
 instagram: rymanartsfanpage
 facebook: rymanarts

@@ -8,6 +8,11 @@ ein: '474318779'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=474318779'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Teaching & mentorship
+  - Income & employment
+  - Education & youth
 twitter: grid110
 instagram: grid110
 facebook: 'https://facebook.com/grid110'

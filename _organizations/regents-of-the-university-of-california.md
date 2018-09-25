@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Community health
+  - Arts & cultural vitality
+  - Health
 twitter: uclaaghc
 instagram: uclaaghc
 facebook: uclaaghc

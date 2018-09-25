@@ -13,6 +13,11 @@ ein: '680531882'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680531882'
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Climate change
+  - Mobility
+  - Environmental quality & sustainability
 twitter:
   - '@LAElectricBus'
   - '@EnvCalifornia'

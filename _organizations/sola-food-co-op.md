@@ -8,6 +8,9 @@ ein: '464872589'
 zip: '90062'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Health
 twitter: SoLAFoodCoop
 instagram: SoLAfoodcoop
 facebook: solafoodcoop

@@ -8,6 +8,11 @@ ein: '770387124'
 zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770387124'
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Climate change
+  - Public safety & public space
+  - Environmental quality & sustainability
 twitter: '@globalgreen'
 instagram: '@globalgreen'
 facebook: '@globalgreenfans'

@@ -8,6 +8,9 @@ ein: '953943485'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953943485'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: '@filmindependent'
 instagram: '@filmindependent'
 facebook: 'https://www.facebook.com/filmindependent/'

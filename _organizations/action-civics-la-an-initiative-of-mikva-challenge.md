@@ -9,6 +9,11 @@ ein: '522033353'
 zip: '91383'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522033353'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 twitter:
   - '@actioncivicsla'
   - '@procon_org'

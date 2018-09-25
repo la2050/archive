@@ -8,6 +8,11 @@ ein: '956209203'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956209203'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Volunteerism
+  - Education & youth
+  - Social connectedness
 twitter: twitter.com/bgcvenice
 instagram: instagram.com/bgcvenice
 facebook: facebook.com/bgcvenice

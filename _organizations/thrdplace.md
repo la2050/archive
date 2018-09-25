@@ -8,6 +8,9 @@ ein: '275115367'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 twitter: ''
 instagram: ''
 facebook: ''

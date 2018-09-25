@@ -8,6 +8,9 @@ ein: '262467065'
 zip: '90031'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: droplabs
 instagram: ''
 facebook: 'https://www.facebook.com/DroplabsLA'

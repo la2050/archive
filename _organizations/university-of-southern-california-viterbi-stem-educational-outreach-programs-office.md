@@ -10,6 +10,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
 twitter: viterbi4stem
 instagram: USCViterbi
 facebook: uscviterbi

@@ -8,6 +8,11 @@ ein: '475033123'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475033123'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community safety
+  - Health
+  - Public safety & public space
 twitter: 'https://twitter.com/freefromorg'
 instagram: '@freefromdotorg'
 facebook: 'https://www.facebook.com/freefrom.org/'

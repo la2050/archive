@@ -8,6 +8,11 @@ ein: '134127229'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=134127229'
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 twitter: www.twitter.com/ghettofilm
 instagram: instagram.com/ghettofilmschool
 facebook: www.facebook.com/ghettofilmschool

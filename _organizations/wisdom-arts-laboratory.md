@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - College prep
+  - Arts & cultural vitality
+  - Education & youth
 twitter: wisdomartslab
 instagram: wisdom.artslab
 facebook: wisdomartslaboratory

@@ -8,6 +8,10 @@ ein: '821044989'
 zip: '91506'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=821044989'
 ntee_type: 'Arts, Culture and Humanities'
+tags_indicators:
+  - Voting & civic engagement
+  - Community gatherings
+  - Social connectedness
 twitter: '@ctznsofculture'
 instagram: ctznsofculture
 facebook: 'https://www.facebook.com/CitizensOfCulture/'

@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Art
+  - Health
+  - Arts & cultural vitality
 twitter: SaywordLA
 instagram: SayWordProject
 facebook: Saywordla

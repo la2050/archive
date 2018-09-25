@@ -8,6 +8,11 @@ ein: '953779389'
 zip: '90020'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953779389'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Teaching & mentorship
+  - Housing & homelessness
+  - Education & youth
 twitter: 'https://twitter.com/kyccla'
 instagram: 'http://instagram.com/kyccla'
 facebook: 'https://www.facebook.com/KYCCLA'

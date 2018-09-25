@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Creative economy
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: thecoolla
 instagram: thecoolla
 facebook: thecoolla

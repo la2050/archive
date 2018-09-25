@@ -8,6 +8,11 @@ ein: '203602931'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203602931'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

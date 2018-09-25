@@ -8,6 +8,11 @@ ein: '463345611'
 zip: '90049'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Voting & civic engagement
+  - Public safety & public space
+  - Social connectedness
 twitter: 'http://www.twitter.com/MassKnowtify'
 instagram: ''
 facebook: 'http://www.facebook.com/MassKnowtify'

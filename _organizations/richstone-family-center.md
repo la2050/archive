@@ -8,6 +8,11 @@ ein: '237373745'
 zip: '90250'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237373745'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community safety
+  - Health
+  - Public safety & public space
 twitter: richstonefamily
 instagram: richstonefamily
 facebook: richstonefamily

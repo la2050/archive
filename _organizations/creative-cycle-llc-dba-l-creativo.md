@@ -8,6 +8,9 @@ ein: '453189725'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: L_Creativo
 instagram: ''
 facebook: www.facebook.com/lcreativofest

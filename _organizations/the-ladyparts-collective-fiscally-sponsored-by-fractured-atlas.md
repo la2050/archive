@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Community safety
+  - Arts & cultural vitality
+  - Public safety & public space
 twitter: LPCollectiveLA
 instagram: ladypartscollective
 facebook: N/A

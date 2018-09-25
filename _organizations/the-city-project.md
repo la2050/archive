@@ -8,6 +8,10 @@ ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Access to parks & green space
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

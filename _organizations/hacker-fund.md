@@ -8,6 +8,11 @@ ein: '472485464'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472485464'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
+  - Education & youth
+  - Income & employment
 twitter: '@thehackerfund'
 instagram: '@hackerfund'
 facebook: '@hackerfund'

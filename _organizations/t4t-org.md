@@ -8,6 +8,9 @@ ein: '562464067'
 zip: '90249'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562464067'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: t4torg
 instagram: t4torg
 facebook: t4torg

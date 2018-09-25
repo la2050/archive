@@ -8,6 +8,9 @@ ein: '465347621'
 zip: '90027'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 twitter: www.twitter.com/gystink
 instagram: www.instagram.com/gyst_ink
 facebook: www.facebook.com/gystink

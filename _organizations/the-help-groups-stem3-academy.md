@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Disability & aging
+  - Education & youth
+  - Mobility
 twitter: STEM3Academy
 instagram: Stem3Academy
 facebook: NA

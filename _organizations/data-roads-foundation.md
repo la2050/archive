@@ -8,6 +8,9 @@ ein: '311796801'
 zip: '90005'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311796801'
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Income & employment
 twitter: '@jared4dataroads'
 instagram: 0
 facebook: 'https://www.facebook.com/dataroads/'

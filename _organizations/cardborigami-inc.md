@@ -8,6 +8,9 @@ ein: '274595299'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=274595299'
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 twitter: 'https://twitter.com/Cardborigami'
 instagram: 'https://www.instagram.com/cardborigami/'
 facebook: 'https://www.facebook.com/Cardborigami/'

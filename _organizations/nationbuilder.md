@@ -8,6 +8,9 @@ ein: '352315659'
 zip: '90048'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: nationbuilder
 instagram: instagram.com/nbcreators
 facebook: facebook.com/nationbuilder

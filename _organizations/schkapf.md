@@ -8,6 +8,9 @@ ein: '464981201'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464981201'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: '@schkapf'
 instagram: 'http://instagram.com/schkapf'
 facebook: 'https://www.facebook.com/schkapf'

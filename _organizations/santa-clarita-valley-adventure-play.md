@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Fitness & sports
+  - Public safety & public space
+  - Health
 twitter: SCVAdvPlay
 instagram: scvadventureplay
 facebook: scvadventureplay

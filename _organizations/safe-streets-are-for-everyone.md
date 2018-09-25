@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Transportation
+  - Health
+  - Mobility
 twitter: StreetsR4Every1
 instagram: StreetsAreForEveryone
 facebook: finish_the_ride

@@ -8,6 +8,11 @@ ein: '204637089'
 zip: '90265'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204637089'
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Volunteerism
+  - Housing & homelessness
+  - Social connectedness
 twitter: '@ImagineLA'
 instagram: '@Imagine.LA'
 facebook: '@ImagineLA'

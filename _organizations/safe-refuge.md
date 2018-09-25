@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 twitter: asaferefuge
 instagram: Safe-Refuge-764120340344089/
 facebook: saferefuge

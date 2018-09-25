@@ -8,6 +8,9 @@ ein: '133541913'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133541913'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: TFA_LA
 instagram: TFA.LosAngeles
 facebook: tfa_la

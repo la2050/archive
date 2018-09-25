@@ -8,6 +8,10 @@ ein: '824719690'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=824719690'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Fitness & sports
+  - Health
 twitter: '@hcsy_ucla'
 instagram: '@hcsy.ucla'
 facebook: 'https://www.facebook.com/HCSYatUCLA/'

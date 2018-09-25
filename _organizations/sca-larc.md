@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 twitter: SCALARC
 instagram: SCALARC/?pnref=story
 facebook: stevenechavez

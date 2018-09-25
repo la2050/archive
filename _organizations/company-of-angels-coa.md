@@ -8,6 +8,9 @@ ein: '237448515'
 zip: '90078'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237448515'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/CoAngels'
 instagram: ''
 facebook: 'https://www.facebook.com/companyofangels'

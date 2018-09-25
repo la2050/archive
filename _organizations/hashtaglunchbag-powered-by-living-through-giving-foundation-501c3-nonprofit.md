@@ -10,6 +10,11 @@ ein: '800928421'
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800928421'
 ntee_type: 'Food, Agriculture and Nutrition'
+tags_indicators:
+  - Access to healthy food
+  - Volunteerism
+  - Health
+  - Social connectedness
 twitter: '@hashtaglunchbag'
 instagram: '@hashtaglunchbag'
 facebook: 'https://www.facebook.com/hashtaglunchbag/'

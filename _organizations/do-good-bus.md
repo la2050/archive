@@ -8,6 +8,9 @@ ein: '300694127'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 twitter: www.twitter.com/DoGoodBus
 instagram: instagram.com/DoGoodBus
 facebook: www.facebook.com/DoGoodBus

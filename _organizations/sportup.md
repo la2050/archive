@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Fitness & sports
+  - Education & youth
+  - Health
 twitter: SportUpLife
 instagram: SportUpLife
 facebook: SportUpLife

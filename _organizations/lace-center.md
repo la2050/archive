@@ -8,6 +8,9 @@ ein: '954230350'
 zip: '90018'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954230350'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: '@LACE_Center'
 instagram: ''
 facebook: 'https://www.facebook.com/lacecenter.org'

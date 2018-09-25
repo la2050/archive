@@ -8,6 +8,9 @@ ein: '542088575'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=542088575'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/Avenue50Studio'
 instagram: 'http://instagram.com/avenue50studio'
 facebook: 'https://www.facebook.com/avenue50studio'

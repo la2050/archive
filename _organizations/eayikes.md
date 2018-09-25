@@ -8,6 +8,11 @@ ein: '462395125'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462395125'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Volunteerism
+  - Health
+  - Social connectedness
 twitter: 0
 instagram: '@eayikes'
 facebook: facebook.com/eayikes

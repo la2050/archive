@@ -8,6 +8,11 @@ ein: '954302067'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Early childhood
+  - Social connectedness
+  - Education & youth
 twitter: 'https://twitter.com/Investinyouthco'
 instagram: 'https://www.instagram.com/investinyouth_/'
 facebook: 'https://www.facebook.com/InvestinYouthCo/'

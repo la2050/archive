@@ -8,6 +8,10 @@ ein: '951904857'
 zip: 90039-2520
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951904857'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
 twitter: 'https://www.twitter.com/BBBSLA'
 instagram: 'https://www.instagram.com/bbbsla'
 facebook: 'https://www.facebook.com/BBBSLA/'

@@ -8,6 +8,11 @@ ein: '841631105'
 zip: '90403'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Volunteerism
+  - Education & youth
+  - Social connectedness
 twitter: techlacares
 instagram: latechdigest
 facebook: scottperry

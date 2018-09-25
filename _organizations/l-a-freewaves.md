@@ -8,6 +8,9 @@ ein: '954476207'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954476207'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/lafreewaves'
 instagram: 'http://instagram.com/lafreewaves'
 facebook: 'https://www.facebook.com/freewaves'

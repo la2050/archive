@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Air & water
+  - Environmental quality & sustainability
 twitter: UCLAIoES
 instagram: uclaioes
 facebook: uclaioes

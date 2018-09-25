@@ -8,6 +8,10 @@ ein: '470939543'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=470939543'
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/LADADSpace'
 instagram: 'http://instagram.com/ladadspace'
 facebook: 'https://www.facebook.com/artsdistrictla'

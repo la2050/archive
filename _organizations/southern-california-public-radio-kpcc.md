@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 twitter: KPCC
 instagram: KPCC
 facebook: KPCC

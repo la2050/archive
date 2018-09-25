@@ -8,6 +8,9 @@ ein: '951641435'
 zip: '90057'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951641435'
 ntee_type: ''
+tags_indicators:
+  - Disability & aging
+  - Mobility
 twitter: 'https://twitter.com/SBSSla'
 instagram: ''
 facebook: 'https://www.facebook.com/SBSSla'

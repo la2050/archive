@@ -10,6 +10,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Community health
+  - Environmental quality & sustainability
+  - Health
 twitter: LAcitysense
 instagram: La-CitySense-348205538857872/
 facebook: LAcitysense

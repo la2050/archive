@@ -8,6 +8,11 @@ ein: We are fiscally sponsored
 zip: '90012'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Entrepreneurship & innovation
+  - Arts & cultural vitality
+  - Income & employment
 twitter: brioxylife
 instagram: brioxy
 facebook: brioxy

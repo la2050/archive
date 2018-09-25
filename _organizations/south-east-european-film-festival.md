@@ -8,6 +8,9 @@ ein: '510618883'
 zip: '90046'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=510618883'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: '@seefilmla'
 instagram: SEEFEST
 facebook: seefilmla.org

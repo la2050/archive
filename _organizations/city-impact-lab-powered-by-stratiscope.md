@@ -9,6 +9,10 @@ ein: '463084511'
 zip: '94965'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Community gatherings
+  - Social connectedness
 twitter:
   - '@Stratiscope'
   - '@CityImpactLab'

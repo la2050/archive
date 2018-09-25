@@ -8,6 +8,11 @@ ein: '208970937'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: ''
 instagram: ''
 facebook: ''

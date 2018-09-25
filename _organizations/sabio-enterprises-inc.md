@@ -8,6 +8,11 @@ ein: '464000152'
 zip: '90094'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - STEM & Digital literacy
+  - Income & employment
+  - Education & youth
 twitter: www.twitter.com/wesabio
 instagram: '@wesabio'
 facebook: www.facebook.com/sabio

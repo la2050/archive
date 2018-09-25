@@ -8,6 +8,9 @@ ein: '453307896'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453307896'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: www.twitter.com/industryopera
 instagram: www.instagram.com/industryopera
 facebook: www.facebook.com/theindustrycollective

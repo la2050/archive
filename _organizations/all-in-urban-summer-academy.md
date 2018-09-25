@@ -8,6 +8,11 @@ ein: '814435851'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Homelessness
+  - Education & youth
+  - Housing & homelessness
 twitter: 0
 instagram: urbansummeracademy
 facebook: urbansummeracademy

@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 twitter: rootsandshoots
 instagram: rootsandshoots
 facebook: rootsandshoots

@@ -8,6 +8,11 @@ ein: '451634118'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=451634118'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Fitness & sports
+  - Education & youth
+  - Health
 twitter: '@harlemlacrosse'
 instagram: '@harlemlacrosse_LA'
 facebook: 'https://www.facebook.com/harlemlacrosseLA/'

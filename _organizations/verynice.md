@@ -8,6 +8,11 @@ ein: '455282740'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Creative economy
+  - Income & employment
+  - Arts & cultural vitality
 twitter: ''
 instagram: ''
 facebook: ''

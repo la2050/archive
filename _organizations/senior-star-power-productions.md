@@ -8,6 +8,11 @@ ein: '454380818'
 zip: '91367'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=454380818'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Disability & aging
+  - Arts & cultural vitality
+  - Mobility
 twitter: seniorstarpower
 instagram: ''
 facebook: facebook.com/SeniorStarPower

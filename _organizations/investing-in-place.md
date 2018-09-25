@@ -8,6 +8,11 @@ ein: Community Partners
 zip: '#N/A'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Voting & civic engagement
+  - Mobility
+  - Social connectedness
 twitter: '@investinplace'
 instagram: InvestinginPlace
 facebook: 'https://www.facebook.com/investinginplace/'

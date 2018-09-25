@@ -8,6 +8,11 @@ ein: '954302067'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community gatherings
+  - Health
+  - Social connectedness
 twitter: www.twitter.com/DinnerPartiers
 instagram: 'http://instagram.com/thedinnerparty'
 facebook: 'https://www.facebook.com/ThisIsTheDinnerParty'

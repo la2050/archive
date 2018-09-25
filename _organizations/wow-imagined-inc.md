@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Access to parks & green space
+  - Education & youth
+  - Public safety & public space
 twitter: IPMagOnline
 instagram: InspiredParentingMagazine
 facebook: Inspired_Parenting

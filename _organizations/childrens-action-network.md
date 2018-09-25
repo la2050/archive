@@ -8,6 +8,9 @@ ein: '943213100'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943213100'
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: 'https://twitter.com/FosterMore'
 instagram: FosterMore
 facebook: 'https://www.facebook.com/FosterMore'

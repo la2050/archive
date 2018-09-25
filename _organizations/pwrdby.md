@@ -8,6 +8,9 @@ ein: '270526225'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@pwrdby'
 instagram: instagram.com/PwrdBy_chris
 facebook: 'https://www.facebook.com/picturehealing'

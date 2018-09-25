@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Community health
+  - Public safety & public space
+  - Health
 twitter: annenberglab
 instagram: annenberglab
 facebook: annenberglab

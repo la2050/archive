@@ -8,6 +8,9 @@ ein: '952540759'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 twitter: ''
 instagram: 'http://instagram.com/themirrormirrorproject'
 facebook: 'https://www.facebook.com/mirrormirrorartevent'

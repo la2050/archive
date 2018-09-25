@@ -8,6 +8,10 @@ ein: '952540759'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952540759'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
 twitter: www.twitter.com/LibrosSchmibros
 instagram: www.instagram.com/librosschmibros
 facebook: 'https://www.facebook.com/librosschmibros'
