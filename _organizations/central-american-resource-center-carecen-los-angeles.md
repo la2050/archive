@@ -11,8 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F21279%252Fdisplay%252F20121102_193319.jpg=c570x385
+project_image: 'http://maker.good.is/images/placeholder/idea.png'
 project_video: ''
 org_summary: >-
   CARECEN is a non-profit organization working for the economic mobility, civic

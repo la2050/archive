@@ -12,7 +12,7 @@ twitter: '@crfusa'
 instagram: ''
 facebook: www.facebook.com/ConstitutionalRightsFoundation
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/I85PHrZjakM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/I85PHrZjakM/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   CRF changes kids' lives by helping them become engaged citizens who know how

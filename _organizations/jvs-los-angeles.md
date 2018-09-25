@@ -12,7 +12,7 @@ twitter: www.twitter.com/jvsla
 instagram: www.instagram.com/JVSLA_
 facebook: www.facebook.com/jvsla
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/iQpQqqot8AQ/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   JVS Los Angeles offers hope and opportunity to our diverse community through

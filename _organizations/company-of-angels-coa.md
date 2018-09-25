@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/CoAngels'
 instagram: ''
 facebook: 'https://www.facebook.com/companyofangels'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/-MVQfBjaOS0/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Company of Angels reflects the richness, diversity and complexity that is Los

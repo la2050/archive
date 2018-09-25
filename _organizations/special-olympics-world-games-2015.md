@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/LosAngeles2015'
 instagram: 'http://instagram.com/la2015worldgames'
 facebook: www.facebook.com/LA2015
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/DMG32xJ5p-Q/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/DMG32xJ5p-Q/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   LA2015 celebrates the abilities of the intellectually disabled population by

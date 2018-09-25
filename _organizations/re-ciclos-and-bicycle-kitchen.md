@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/ReCiclosLA'
 instagram: 'https://instagram.com/reciclos_la'
 facebook: 'https://www.facebook.com/ReCiclosLA'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/a-kQryxgF4M/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Re:Ciclos is a cargo bicycle manufacturing project dedicated to bridging the

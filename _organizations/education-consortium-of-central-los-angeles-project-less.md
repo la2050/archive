@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/6pkTdEgSCvo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/6pkTdEgSCvo/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>In March of 2013, we began lending lab equipment to the science teacher at

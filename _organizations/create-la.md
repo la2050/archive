@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/y5Q3OTnTYC4/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/y5Q3OTnTYC4/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Within the past year, we have been thrilled to work with a dedicated group of

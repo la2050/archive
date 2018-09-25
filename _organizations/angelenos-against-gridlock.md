@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/tnpBsy1mGwQ/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Before we tout our own horn, we should note you don't have to take our word

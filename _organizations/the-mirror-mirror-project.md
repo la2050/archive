@@ -12,7 +12,7 @@ twitter: ''
 instagram: 'http://instagram.com/themirrormirrorproject'
 facebook: 'https://www.facebook.com/mirrormirrorartevent'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/awJQoJqGL-o/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Pairs artists with homeless youth to create portraits of each other allowing

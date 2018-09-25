@@ -12,7 +12,7 @@ twitter: ''
 instagram: ERWDESIGN
 facebook: 'https://www.facebook.com/ERWDESIGN'
 org_type: '#N/A'
-project_image: 'https://img.youtube.com/vi/fpGXBYHFZuE/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/fpGXBYHFZuE/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   A team of LA-based architects, landscape architects, planners, and art

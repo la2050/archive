@@ -12,7 +12,7 @@ twitter: www.twitter.com/YouthJusticeLA
 instagram: ''
 facebook: www.facebook.com/YouthJusticeCoalition
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/31zyNJHGmig/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/31zyNJHGmig/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The Youth Justice Coalition works to build a youth, family and prisoner-led

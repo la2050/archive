@@ -13,7 +13,7 @@ twitter: 'https://twitter.com/compilerla, https://twitter.com/daveedkapoor'
 instagram: ''
 facebook: 'https://www.facebook.com/CompilerLA?fref=ts'
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/KHtt2okRChU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/KHtt2okRChU/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Concerned Capital creates business ownership opportunities for long-term blue

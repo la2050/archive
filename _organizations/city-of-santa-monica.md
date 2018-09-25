@@ -12,7 +12,7 @@ twitter: '@CityofWellbeing'
 instagram: ''
 facebook: facebook.com/SantaMonicaWellbeing
 org_type: Government
-project_image: 'https://img.youtube.com/vi/quAWRNiRKEg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/quAWRNiRKEg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The City of Santa Monica works to protect, support & promote a safe, vibrant

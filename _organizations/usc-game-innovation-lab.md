@@ -12,7 +12,7 @@ twitter: '@USCGameLab'
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/dN0L0YMa39s/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The GIL is a premiere research and design think tank, developing experimental

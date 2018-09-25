@@ -14,7 +14,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/JPbaYb88x0U/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/JPbaYb88x0U/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   LA CAUSA YouthBuild is regarded as the organization that transformed the

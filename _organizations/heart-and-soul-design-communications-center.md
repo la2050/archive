@@ -12,7 +12,7 @@ twitter: N/A
 instagram: ''
 facebook: www.facebook.com/hasCHIME
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/MIn1VBaIlrQ/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The mission of Heart and Soul Design Communications Center (HAS) is to create

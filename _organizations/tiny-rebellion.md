@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/tiny_rebellion'
 instagram: 'https://instagram.com/tinyrbln/'
 facebook: 'https://www.facebook.com/tinyrebellion'
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/nu53ttV7jQI/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/nu53ttV7jQI/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Tiny Rebellion is a Santa Monica-based agency that exists to accelerate

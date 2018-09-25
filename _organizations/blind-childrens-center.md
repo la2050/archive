@@ -12,7 +12,7 @@ twitter: www.twitter.com/LightTheWayBCC
 instagram: 'https://instagram.com/blindchildrenscenter/'
 facebook: www.facebook.com/blindchildrenscenter
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/z__BDhvkp9Q/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The Blind Children's Center's mission is to foster the development and

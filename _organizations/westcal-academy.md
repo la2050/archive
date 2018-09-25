@@ -12,7 +12,7 @@ twitter: www.twitter.com/westcalacademy
 instagram: www.instagram.com/westcalacademy
 facebook: www.facebook.com/westcalacademy
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/f_x1AGOuR7A/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/f_x1AGOuR7A/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   WestCal Academy connects industry mentors with high school and undergraduate

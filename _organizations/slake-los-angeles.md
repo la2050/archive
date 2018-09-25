@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/CDJnJMrwko8/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Most importantly, Slake proved Los Angeles can produce a beautiful, exciting,

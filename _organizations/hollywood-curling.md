@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/HollywoodCurl'
 instagram: 'https://instagram.com/hollywoodcurl/'
 facebook: www.facebook.com/hollywoodcurling
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/3ceZFpvVVU0/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   We are the only place in Los Angeles to participate in the Olympic sport of

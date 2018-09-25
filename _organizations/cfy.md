@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/HIVY5tBE450/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/HIVY5tBE450/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   CFY is a nonprofit that helps students, parents & educators use digital

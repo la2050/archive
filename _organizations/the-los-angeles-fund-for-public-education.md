@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FB9aNSfVARA/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Since our inception in 2011, The LA Fund for Public Education worked with

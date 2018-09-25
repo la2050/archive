@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/uz4evo3B7qw/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   St. Francis Center's mission is to feed, serve, and walk with the poor as a

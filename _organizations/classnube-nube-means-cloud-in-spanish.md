@@ -12,7 +12,7 @@ twitter: www.twitter.com/classnube
 instagram: ''
 facebook: 'https://www.facebook.com/classnube?ref=hl'
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/UYdxlEZVaNA/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   We make software to help students and teachers learn and teach in truly

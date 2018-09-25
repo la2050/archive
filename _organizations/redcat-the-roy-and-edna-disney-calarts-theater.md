@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/VpqSppE8ppo/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   REDCAT is currently celebrating ten years of bringing experimental and

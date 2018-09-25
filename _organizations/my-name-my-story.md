@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Forprofit
-project_image: 'https://img.youtube.com/vi/A9yf6DpgLSM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/A9yf6DpgLSM/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   My Name My Story is a youth-led organization that Inspires Empathy to Empower

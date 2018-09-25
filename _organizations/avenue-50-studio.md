@@ -12,7 +12,7 @@ twitter: 'https://twitter.com/Avenue50Studio'
 instagram: 'http://instagram.com/avenue50studio'
 facebook: 'https://www.facebook.com/avenue50studio'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/BtUB4Ycebms/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/BtUB4Ycebms/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Ave 50 Studio is an arts organization that seeks to bridge communities by

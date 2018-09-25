@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/FmHmFIlfA4A/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   WriteGirl is a creative writing and mentoring program in LA that pairs

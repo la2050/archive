@@ -12,7 +12,7 @@ twitter: www.twitter.com/LAsPromise
 instagram: LAsPromise
 facebook: www.facebook.com/LAsPromise.org
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/SXGVU13JPLU/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/SXGVU13JPLU/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   Our mission is to graduate every student attending an LA's Promise

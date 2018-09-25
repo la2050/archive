@@ -12,7 +12,7 @@ twitter: www.twitter.com/thegabbagallery and www.twitter.com/AndreaLaHue
 instagram: instagram.com/thegabbagallery instagram.com/andrealahue
 facebook: www.facebook.com/thegabbagallery and www.facebook.com/RandomActakaAndreaLaHue
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/G4cMVQVTBkM/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/G4cMVQVTBkM/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   We enrich artists and community through Street Art, public projects,

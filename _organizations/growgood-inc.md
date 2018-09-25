@@ -12,7 +12,7 @@ twitter: www.twitter.com/good_grow
 instagram: www.instagram.com/grow_good
 facebook: www.facebook.com/wegrowgood
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/zqrk27Md2Bo/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   GrowGood leverages the power of urban farming to unite people, to create hope

@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/HtWxHzKO0zY/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   <p>-Attended the last two years of Los Angeles County Board of Supervisors

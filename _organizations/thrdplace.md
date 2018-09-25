@@ -12,7 +12,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: For profit
-project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/jUd4odIOyuc/hqdefault.jpg'
 project_video: ''
 org_summary: |-
   <p>To date, the most important achievement of thrdPlace is our viability. 

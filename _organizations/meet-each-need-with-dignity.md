@@ -11,7 +11,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/A3zOCbnCHLg/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   MEND provides services that meet the basic human needs of poverty-level

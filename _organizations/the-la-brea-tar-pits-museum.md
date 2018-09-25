@@ -12,7 +12,7 @@ twitter: '@LaBreaTarPits'
 instagram: 'http://instagram.com/nhmla'
 facebook: 'https://www.facebook.com/tarpits'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/maxresdefault.jpg'
+project_image: 'https://img.youtube.com/vi/gzqE0ygfM8Y/hqdefault.jpg'
 project_video: ''
 org_summary: >-
   The La Brea Tar Pits Museum and park are where Angelenos discover, interpret
