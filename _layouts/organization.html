@@ -163,17 +163,20 @@ stylesheets:
 {% endcomment %}
 
 
+{% if page.year_submitted == 2013 %}
 {% capture link_to_more %}
 … <span style="color: var(--primary-color); font-weight: bold;">Read More</span>
 {% endcapture %}
 
 <details class="organization-summary">
   <summary>
-  <p style="margin-bottom: 0">
-    {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
-  </p>
+  {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
   </summary>
 
+  {{ page.org_summary }}
+</details>
+
+{% else %}
   {% if page.org_summary contains "<p>" %}
   <div>
     {{ page.org_summary }}
@@ -183,20 +186,11 @@ stylesheets:
     {{ page.org_summary }}
   </p>
   {% endif %}
-</details>
+{% endif %}
 
 
 <style>
-.organization-summary p {
-  margin-top: 0;
-  margin: 0;
-  font-style: normal;
-  text-align: left;
-}
 .organization-summary[open] summary {
-  outline: none;
-}
-.organization-summary[open] summary p {
   display: none;
 }
 </style>
