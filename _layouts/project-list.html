@@ -542,17 +542,18 @@ function addCategoryColor(tag) {
       }
     }
 
-    if (items[index].innerHTML.includes("data-winner")) {
-      console.log("found a winner!: ")
-      console.log(items[index])
-      rank += 10000
-    } else if (items[index].innerHTML.includes("data-finalist")) {
-      console.log("found a finalist!: ")
-      console.log(items[index])
-      rank += 1000
-    }
-
     if (rank > 0) {
+
+      if (items[index].innerHTML.includes("data-winner")) {
+        console.log("found a winner!: ")
+        console.log(items[index])
+        rank += 10000
+      } else if (items[index].innerHTML.includes("data-finalist")) {
+        console.log("found a finalist!: ")
+        console.log(items[index])
+        rank += 1000
+      }
+
       matches.push({  
         item: items[index],
         rank: rank
