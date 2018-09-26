@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Homelessness
+  - Income & employment
+  - Housing & homelessness
 twitter: ChrysalisLA
 instagram: ChrysalisLA
 facebook: ChrysalisLA

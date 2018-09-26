@@ -7,6 +7,9 @@ ein: '464431156'
 zip: '90505'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

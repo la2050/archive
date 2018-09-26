@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: ConcernCapital
 instagram: concernedcapital
 facebook: N/A

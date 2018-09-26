@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: cwc_losangeles
 instagram: cwclosangeles
 facebook: cwc_losangeles

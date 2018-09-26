@@ -7,6 +7,9 @@ ein: '522007028'
 zip: '90245'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=522007028'
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

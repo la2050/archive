@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Voting & civic engagement
+  - Housing & homelessness
+  - Social connectedness
 twitter: CRCD_SouthLA
 instagram: CRCDSouthLA
 facebook: CRCD_SouthLA

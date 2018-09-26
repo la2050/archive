@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: YBBoyleHeights
 instagram: youthbuildboyleheights
 facebook: calo_yb

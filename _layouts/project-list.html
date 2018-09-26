@@ -278,7 +278,7 @@ text-align: left;
         <small>
           {{ data['year_submitted'] }}{% if data.zip and data.zip != "" and data.zip != "0" and false %}, 
             {{ data.zip }}
-          {% endif %}{% if is_winner %}, Winner{% elsif is_finalist %}, Finalist{% endif %}
+          {% endif %}{% if is_winner %} Winner{% elsif is_finalist %} Finalist{% endif %}
         </small>
       </p>
     </a>

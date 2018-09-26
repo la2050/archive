@@ -7,6 +7,11 @@ ein: '954592961'
 zip: '90042'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954592961'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Access to parks & green space
+  - Arts & cultural vitality
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

@@ -7,6 +7,9 @@ ein: '272807367'
 zip: '10010'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

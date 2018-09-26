@@ -7,6 +7,11 @@ ein: '273608324'
 zip: '90031'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Access to healthy food
+  - Social connectedness
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''

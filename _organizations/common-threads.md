@@ -8,6 +8,11 @@ ein: '200106847'
 zip: '78746'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=200106847'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Teaching & mentorship
+  - Health
+  - Education & youth
 twitter: common__threads
 instagram: CThreads
 facebook: common__threads

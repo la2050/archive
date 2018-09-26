@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 twitter: calpartnership
 instagram: CaliforniaPartnership
 facebook: californiapartnership

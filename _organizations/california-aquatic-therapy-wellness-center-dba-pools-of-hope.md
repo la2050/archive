@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Disability & aging
+  - Health
+  - Mobility
 twitter: caaqua
 instagram: caaquatictherapy
 facebook: N/A

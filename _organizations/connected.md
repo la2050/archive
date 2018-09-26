@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Education & youth
 twitter: connectedorg
 instagram: ConnectEdCalifornia
 facebook: NA

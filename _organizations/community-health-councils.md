@@ -8,6 +8,9 @@ ein: '954487664'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954487664'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: chcinc
 instagram: communityhealthcouncils
 facebook: communityhealthcouncils

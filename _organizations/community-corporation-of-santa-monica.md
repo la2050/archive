@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
 twitter: smbgc
 instagram: smbgcfan
 facebook: smbgc
