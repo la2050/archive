@@ -14,83 +14,150 @@ phase: 8
 
 finalists:
 
+  ############# 2018 #############
+
   # Learn
   # 1)
-  - /learn/big-brothers-big-sisters-of-greater-los-angeles/
+  - /organizations/big-brothers-big-sisters-of-greater-los-angeles/
   # 2)
-  - /learn/charles-r-drew-university-of-medicine-and-science/
+  - /organizations/charles-r-drew-university-of-medicine-and-science/
   # 3)
-  - /learn/center-for-innovation-in-stem-education-cise/
+  - /organizations/center-for-innovation-in-stem-education-cise/
   # 4)
-  - /learn/common-sense/
+  - /organizations/common-sense/
   # 5)
-  - /learn/harlem-lacrosse-los-angeles/
+  - /organizations/harlem-lacrosse-los-angeles/
 
   # Create
   # 1)
-  - /create/brioxy/
+  - /organizations/brioxy/
   # 2)
-  - /create/east-la-community-corporation-elacc/
+  - /organizations/east-la-community-corporation-elacc/
   # 3)
-  - /create/long-beach-downtown-development-corporation/
+  - /organizations/long-beach-downtown-development-corporation/
   # 4)
-  - /create/make-it-in-la/
+  - /organizations/make-it-in-la/
   # 5)
-  - /create/national-association-of-latino-independent-producers-nalip/
+  - /organizations/national-association-of-latino-independent-producers-nalip/
 
   # Play
   # 1)
-  - /play/the-brady-center-to-prevent-gun-violence/
+  - /organizations/the-brady-center-to-prevent-gun-violence/
   # 2)
-  - /play/kounkuey-design-initiative/
+  - /organizations/kounkuey-design-initiative/
   # 3)
-  - /play/los-angeles-dodgers-foundation/
+  - /organizations/los-angeles-dodgers-foundation/
   # 4)
-  - /play/people-for-parks/
+  - /organizations/people-for-parks/
   # 5)
-  - /play/the-trust-for-public-land/
+  - /organizations/the-trust-for-public-land/
 
   # Connect
   # 1)
-  - /connect/casa-of-los-angeles/
+  - /organizations/casa-of-los-angeles/
   # 2)
-  - /connect/homeboy-industries/
+  - /organizations/homeboy-industries/
   # 3)
-  - /connect/investing-in-place/
+  - /organizations/investing-in-place/
   # 4)
-  - /connect/mirys-list/
+  - /organizations/mirys-list/
   # 5)
-  - /connect/voterunlead/
+  - /organizations/voterunlead/
 
   # Live
   # 1)
-  - /live/environment-california-research-policy-center/
+  - /organizations/environment-california-research-policy-center/
   # 2)
-  - /live/l-a-kitchen/
+  - /organizations/l-a-kitchen/
   # 3)
-  - /live/move-la-a-project-of-community-partners/
+  - /organizations/move-la-a-project-of-community-partners/
   # 4)
-  - /live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+  - /organizations/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
   # 5)
-  - /live/united-way-of-greater-los-angeles/
+  - /organizations/united-way-of-greater-los-angeles/
+
+  ############# 2016 #############
+
+  # Learn
+  # 1)
+  - /organizations/big-brothers-big-sisters-of-greater-los-angeles/
+  # 2)
+  - /organizations/charles-r-drew-university-of-medicine-and-science/
+  # 3)
+  - /organizations/center-for-innovation-in-stem-education-cise/
+  # 4)
+  - /organizations/common-sense/
+  # 5)
+  - /organizations/harlem-lacrosse-los-angeles/
+
+  # Create
+  # 1)
+  - /organizations/brioxy/
+  # 2)
+  - /organizations/east-la-community-corporation-elacc/
+  # 3)
+  - /organizations/long-beach-downtown-development-corporation/
+  # 4)
+  - /organizations/make-it-in-la/
+  # 5)
+  - /organizations/national-association-of-latino-independent-producers-nalip/
+
+  # Play
+  # 1)
+  - /organizations/the-brady-center-to-prevent-gun-violence/
+  # 2)
+  - /organizations/kounkuey-design-initiative/
+  # 3)
+  - /organizations/los-angeles-dodgers-foundation/
+  # 4)
+  - /organizations/people-for-parks/
+  # 5)
+  - /organizations/the-trust-for-public-land/
+
+  # Connect
+  # 1)
+  - /organizations/casa-of-los-angeles/
+  # 2)
+  - /organizations/homeboy-industries/
+  # 3)
+  - /organizations/investing-in-place/
+  # 4)
+  - /organizations/mirys-list/
+  # 5)
+  - /organizations/voterunlead/
+
+  # Live
+  # 1)
+  - /organizations/environment-california-research-policy-center/
+  # 2)
+  - /organizations/l-a-kitchen/
+  # 3)
+  - /organizations/move-la-a-project-of-community-partners/
+  # 4)
+  - /organizations/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+  # 5)
+  - /organizations/united-way-of-greater-los-angeles/
 
 
 winners:
+
+  ############# 2018 #############
+
   # 1)
-  - /learn/center-for-innovation-in-stem-education-cise/
+  - /organizations/center-for-innovation-in-stem-education-cise/
   # 2)
-  - /create/east-la-community-corporation-elacc/
+  - /organizations/east-la-community-corporation-elacc/
   # 3)
-  - /play/the-brady-center-to-prevent-gun-violence/
+  - /organizations/the-brady-center-to-prevent-gun-violence/
   # 4)
-  - /connect/mirys-list/
+  - /organizations/mirys-list/
   # 5)
-  - /live/united-way-of-greater-los-angeles/
+  - /organizations/united-way-of-greater-los-angeles/
 
 
 
 # For cache busting
-version: 0.0.1
+version: 0.0.2
 
 
 permalink: pretty

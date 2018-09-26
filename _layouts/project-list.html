@@ -235,6 +235,20 @@ text-align: left;
 
   {% for data in data_list %}
 
+  {% assign is_finalist = false %}
+  {% for finalist in site.finalists %}
+    {% if finalist == data.url %}
+      {% assign is_finalist = true %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign is_winner = false %}
+  {% for winner in site.winners %}
+    {% if winner == data.url %}
+      {% assign is_winner = true %}
+    {% endif %}
+  {% endfor %}
+
   {% assign do_show_item = true %}
 
   {% if do_show_item == true %}
@@ -264,7 +278,7 @@ text-align: left;
         <small>
           {{ data['year_submitted'] }}{% if data.zip and data.zip != "" and data.zip != "0" and false %}, 
             {{ data.zip }}
-          {% endif %}
+          {% endif %}{% if is_winner %}, Winner{% elsif is_finalist %}, Finalist{% endif %}
         </small>
       </p>
     </a>
