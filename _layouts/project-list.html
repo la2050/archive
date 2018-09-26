@@ -243,8 +243,8 @@ text-align: left;
   {% endfor %}
 
   {% assign is_winner = false %}
-  {% for winner in site.winners %}
-    {% if winner == data.url %}
+  {% for winner in site.data.winners %}
+    {% if winner.url == data.challenge_url %}
       {% assign is_winner = true %}
     {% endif %}
   {% endfor %}
@@ -267,7 +267,7 @@ text-align: left;
     {% endfor %}
   {% endfor %}
 
-  <li data-project-titles="{{ data['project_titles'] | join: "," }}" data-tags="{{ data['tags_indicators'] | join: "," }}">
+  <li data-project-titles="{{ data['project_titles'] | join: "," }}" data-tags="{{ data['tags_indicators'] | join: "," }}" {% if is_winner %} data-winner="data-winner" {% elsif is_finalist %} data-finalist="data-finalist" {% endif %}>
     <a href="{{ data.url }}">
       <span class="image">
         <img src="{{ data['project_image'] }}" alt="" width="540" height="428" />
@@ -540,6 +540,16 @@ function addCategoryColor(tag) {
         console.log("Tags: " + searchByTags);
         rank += 100; // An exact tag match gets 100 points
       }
+    }
+
+    if (items[index].innerHTML.includes("data-winner")) {
+      console.log("found a winner!: ")
+      console.log(items[index])
+      rank += 10000
+    } else if (items[index].innerHTML.includes("data-finalist")) {
+      console.log("found a finalist!: ")
+      console.log(items[index])
+      rank += 1000
     }
 
     if (rank > 0) {
