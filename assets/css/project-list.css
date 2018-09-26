@@ -932,6 +932,7 @@ details:not([open]) > summary strong {
 details summary::-webkit-details-marker,
 details summary:focus::-webkit-details-marker {
   color: transparent;
+  display: none;
 }
 
 .browse {
