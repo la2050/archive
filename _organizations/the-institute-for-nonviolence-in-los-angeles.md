@@ -8,6 +8,9 @@ ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Health
 twitter: www.twitter.com/DaysofDialogue
 instagram: ''
 facebook: WWW.FACEBOOK.COM/GROUPS/110752075748344/

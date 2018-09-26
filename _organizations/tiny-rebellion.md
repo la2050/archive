@@ -8,6 +8,9 @@ ein: '954280254'
 zip: '90401'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: 'https://twitter.com/tiny_rebellion'
 instagram: 'https://instagram.com/tinyrbln/'
 facebook: 'https://www.facebook.com/tinyrebellion'

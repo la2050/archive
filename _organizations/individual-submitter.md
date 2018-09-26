@@ -8,6 +8,9 @@ ein: '542988389'
 zip: '91601'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=542988389'
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Environmental quality & sustainability
 twitter: '@brittsheflin'
 instagram: '@thehikingchef'
 facebook: www.facebook.com/allhaleblog

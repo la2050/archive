@@ -8,6 +8,11 @@ ein: '770568469'
 zip: '91107'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770568469'
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Teaching & mentorship
+  - Social connectedness
+  - Education & youth
 twitter: www.twitter.com/RPLosAngeles
 instagram: ''
 facebook: www.facebook.com/ReadingPartnersLA

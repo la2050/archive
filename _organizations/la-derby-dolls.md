@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Mental & emotional health
+  - Health
 twitter: laderbydolls
 instagram: laderbydolls
 facebook: laderbydolls

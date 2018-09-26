@@ -8,6 +8,9 @@ ein: '92184898'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=92184898'
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Social connectedness
 twitter: www.twitter.com/palicharterhigh
 instagram: ''
 facebook: www.facebook.com/palihigh

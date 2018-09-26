@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 twitter: boxcarmuse
 instagram: boxcarmuse-1752428701663307/
 facebook: boxcarmuse

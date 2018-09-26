@@ -8,6 +8,10 @@ ein: '262458769'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=262458769'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
 twitter: www.twitter.com/C5LA
 instagram: www.instagram.com/C5LA
 facebook: 'https://www.facebook.com/C5LosAngeles'

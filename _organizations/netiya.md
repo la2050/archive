@@ -8,6 +8,11 @@ ein: '951890769'
 zip: '91436'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951890769'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Access to healthy food
+  - Public safety & public space
+  - Health
 twitter: 'https://twitter.com/NetiyaLA'
 instagram: 'https://instagram.com/netiyala/'
 facebook: 'https://www.facebook.com/NetiyaLA/'

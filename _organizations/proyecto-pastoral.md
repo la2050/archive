@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
 twitter: '@ProyectoNews'
 instagram: ProyectoPastoral
 facebook: proyectopastoral

@@ -8,6 +8,11 @@ ein: '954770745'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954770745'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Voting & civic engagement
+  - Arts & cultural vitality
+  - Social connectedness
 twitter: pb__community
 instagram: pacoima.beautiful
 facebook: pacoimabeautiful

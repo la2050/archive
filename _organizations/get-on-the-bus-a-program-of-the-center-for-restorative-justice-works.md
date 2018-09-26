@@ -8,6 +8,9 @@ ein: '680547196'
 zip: '91606'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=680547196'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: www.twitter.com/Get0nTheBus
 instagram: www.instagram/GetOnTheBus_CRJW
 facebook: www.facebook.com/unitingchildren

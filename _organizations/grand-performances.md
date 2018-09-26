@@ -8,6 +8,11 @@ ein: '954576761'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954576761'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: www.twitter.com/GrandPerfs
 instagram: www.instagram.com/grandperfs
 facebook: www.facebook.com/GrandPerformances

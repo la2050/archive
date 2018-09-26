@@ -8,6 +8,11 @@ ein: '951644058'
 zip: '90832'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951644058'
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Mental & emotional health
+  - Public safety & public space
+  - Health
 twitter: 'https://twitter.com/womenshelterlb'
 instagram: ''
 facebook: 'https://www.facebook.com/womenshelterlb'

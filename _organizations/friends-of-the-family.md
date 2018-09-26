@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: fofca_org
 instagram: fofca
 facebook: friendsofthefamilyca

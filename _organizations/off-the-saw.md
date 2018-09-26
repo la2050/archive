@@ -8,6 +8,9 @@ ein: '465189527'
 zip: '90015'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/offthesaw'
 instagram: 'https://instagram.com/offthesaw/'
 facebook: 'https://www.facebook.com/offthesaw?_rdr=p'

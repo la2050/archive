@@ -8,6 +8,9 @@ ein: '452177652'
 zip: '90802'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: www.twitter.com/madeinlongbeach
 instagram: www.instagram.com/madeinlongbeach
 facebook: www.facebook.com/madeinlongbeach

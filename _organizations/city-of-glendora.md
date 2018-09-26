@@ -8,6 +8,10 @@ ein: '956000715'
 zip: '91741'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956000715'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Volunteerism
+  - Social connectedness
 twitter: www.twitter.comm/cityofglendora
 instagram: ''
 facebook: www.facebook.com/cityofglendora.com

@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Art
+  - Arts & cultural vitality
 twitter: hollywoodfringe
 instagram: hollywoodfringe
 facebook: hollywoodfringe

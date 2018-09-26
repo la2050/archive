@@ -8,6 +8,9 @@ ein: '952923783'
 zip: '93401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952923783'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: www.twitter.com/rrmdesigngroup
 instagram: ''
 facebook: www.facebook.comrrmdesign

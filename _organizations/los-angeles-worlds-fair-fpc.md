@@ -8,6 +8,9 @@ ein: '462004059'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=462004059'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 twitter: www.twitter.com/LAWorldsFair
 instagram: 'https://instagram.com/laworldsfair/'
 facebook: 'https://www.facebook.com/Los-Angeles-Worlds-Fair-543396465697684/'

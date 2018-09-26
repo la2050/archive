@@ -8,6 +8,9 @@ ein: '474688368'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: N/A
 instagram: www.instagram.com/ruckusprojects/
 facebook: N/A

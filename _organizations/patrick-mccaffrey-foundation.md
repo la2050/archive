@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 twitter: LATinyHouses
 instagram: veteransvillage.org
 facebook: veteransvillage8551

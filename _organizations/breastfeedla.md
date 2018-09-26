@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Early childhood
+  - Health
+  - Education & youth
 twitter: breastfeedla
 instagram: breastfeedla
 facebook: breastfeedla

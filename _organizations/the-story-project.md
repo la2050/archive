@@ -8,6 +8,9 @@ ein: '954684376'
 zip: '90036'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954684376'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: www.twitter.com/storyprojectLA
 instagram: ''
 facebook: 'https://www.facebook.com/The-Story-Project-116216105118265/timeline/'

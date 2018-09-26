@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: coParenterPro
 instagram: coParenter
 facebook: coParenter

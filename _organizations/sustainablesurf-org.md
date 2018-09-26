@@ -8,6 +8,9 @@ ein: '453220205'
 zip: '90266'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=453220205'
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
 twitter: 'https://twitter.com/sustainsurf'
 instagram: 'https://instagram.com/sustainsurf/'
 facebook: 'https://www.facebook.com/Sustainable-Surf-152079374854312/'

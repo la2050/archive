@@ -8,6 +8,9 @@ ein: '463878728'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=463878728'
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Health
 twitter: www.twitter.com/passthaball
 instagram: www.instagram.com/passthaball
 facebook: www.facebook.com/passthaball

@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Community health
+  - Health
 twitter: Drsforamerica
 instagram: DoctorsforAmerica
 facebook: n/a

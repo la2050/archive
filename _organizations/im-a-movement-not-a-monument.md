@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: imamovement11
 instagram: Im-A-Movement-Not-A-Monument-207815486290631
 facebook: imamovement

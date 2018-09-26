@@ -8,6 +8,11 @@ ein: '800240205'
 zip: '33062'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800240205'
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Community health
+  - Environmental quality & sustainability
+  - Health
 twitter: ''
 instagram: ''
 facebook: 'https://www.facebook.com/worldpeaceone'

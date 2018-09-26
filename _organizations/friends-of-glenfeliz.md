@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Community health
+  - Education & youth
+  - Health
 twitter: Glenfeliz_SAS
 instagram: groups/35639714531/
 facebook: glenfelizsas

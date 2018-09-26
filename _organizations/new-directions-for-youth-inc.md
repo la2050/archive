@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Workforce development
+  - Health
+  - Income & employment
 twitter: NDY4Kids
 instagram: NewDirectionsForYouth
 facebook: NDY4Kids

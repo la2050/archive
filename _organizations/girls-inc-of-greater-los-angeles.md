@@ -8,6 +8,10 @@ ein: '131915124'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=131915124'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Teaching & mentorship
+  - Education & youth
 twitter: girlsincla
 instagram: girlsincla
 facebook: girlsincla

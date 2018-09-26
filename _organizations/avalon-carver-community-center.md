@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: avaloncarvercc
 instagram: AvalonCarverCC
 facebook: AvalonCarver_CC

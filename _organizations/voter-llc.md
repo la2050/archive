@@ -8,6 +8,9 @@ ein: '464743109'
 zip: '90401'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: www.twitter.com/Voter
 instagram: ''
 facebook: www.facebook.com/voterapp

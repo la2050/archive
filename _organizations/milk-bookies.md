@@ -8,6 +8,9 @@ ein: '263245228'
 zip: '90404'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263245228'
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: milkandbookies
 instagram: MilkandBookies
 facebook: milkandbookies

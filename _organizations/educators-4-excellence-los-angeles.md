@@ -8,6 +8,11 @@ ein: '273382030'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=273382030'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 twitter: Ed4Excellence
 instagram: Educators4Excellence
 facebook: ed4excellence

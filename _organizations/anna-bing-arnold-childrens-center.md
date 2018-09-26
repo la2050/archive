@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: abacc1968
 instagram: Anna-Bing-Arnold-Children-Center
 facebook: annabingchildrenscenter

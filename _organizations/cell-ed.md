@@ -8,6 +8,9 @@ ein: '451825071'
 zip: '90212'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: www.twitter.com/Cell_Ed
 instagram: ''
 facebook: www.facebook.com/Cell-Ed-1501820070055352

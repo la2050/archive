@@ -8,6 +8,11 @@ ein: '475245280'
 zip: '91030'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475245280'
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
 twitter: 'https://twitter.com/PrjctBckbrd'
 instagram: 'https://instagram.com/projectbackboard/'
 facebook: 'https://www.facebook.com/Project-Backboard-453825768102650/timeline/'

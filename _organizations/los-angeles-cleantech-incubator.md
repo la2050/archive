@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - STEM & Digital literacy
+  - Income & employment
+  - Education & youth
 twitter: LACIncubator
 instagram: LACIncubator
 facebook: laincubator

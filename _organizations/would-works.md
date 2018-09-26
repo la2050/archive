@@ -8,6 +8,11 @@ ein: '455552196'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455552196'
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Workforce development
+  - Arts & cultural vitality
+  - Income & employment
 twitter: '@WouldWorks1'
 instagram: '@would_works'
 facebook: 'https://www.facebook.com/pages/WOULD-WORKS/216415171803596'

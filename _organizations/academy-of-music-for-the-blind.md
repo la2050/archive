@@ -8,6 +8,11 @@ ein: '201148737'
 zip: '91016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=201148737'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Disability & aging
+  - Education & youth
+  - Mobility
 twitter: 'https://twitter.com/our_amb'
 instagram: 'https://instagram.com/ouramb/'
 facebook: 'https://www.facebook.com/ouramb'

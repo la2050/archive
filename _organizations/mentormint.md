@@ -8,6 +8,9 @@ ein: '473621424'
 zip: '90089'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: www.twitter.com/MentorMint
 instagram: www.MentorMint.com
 facebook: www.facebook.com/MentorMint

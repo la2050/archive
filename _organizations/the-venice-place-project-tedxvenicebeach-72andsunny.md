@@ -8,6 +8,9 @@ ein: '455593632'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455593632'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 twitter: 'https://twitter.com/hashtag/venicepopuppark'
 instagram: 'https://instagram.com/venicepopuppark/'
 facebook: 'https://www.facebook.com/venicepopup'

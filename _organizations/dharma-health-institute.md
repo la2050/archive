@@ -8,6 +8,9 @@ ein: '954116679'
 zip: '90036'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: 'https://twitter.com/DharmaHealthLA'
 instagram: www.instagram.com/dharmahealthinstitute
 facebook: www.facebook.com/dharmahealthinstitute

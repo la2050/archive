@@ -8,6 +8,9 @@ ein: '272007326'
 zip: '90067'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=272007326'
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Public safety & public space
 twitter: www.twitter.com/lafdfoundation
 instagram: www.instagram.com/lafdfoundation
 facebook: www.facebook.com/lafdfoundation

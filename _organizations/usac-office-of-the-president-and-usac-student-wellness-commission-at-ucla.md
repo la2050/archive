@@ -8,6 +8,9 @@ ein: '951777979'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951777979'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: www.twitter.com/allofuscare
 instagram: www.instagram.com/allofuscare
 facebook: www.facebook.com/allofuscare?fref=ts

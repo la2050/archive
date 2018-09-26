@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Disability & aging
+  - Mobility
 twitter: brailleinst
 instagram: brailleinstitute/
 facebook: N/A

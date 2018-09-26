@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Teaching & mentorship
+  - Income & employment
+  - Education & youth
 twitter: iconcdc
 instagram: iconcdc
 facebook: N/A

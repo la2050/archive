@@ -8,6 +8,9 @@ ein: '475212304'
 zip: '90069'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475212304'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: www.twitter.com/LifeChangeUp
 instagram: www.instagram.com/lifechangeup/
 facebook: www.facebook.com/ThinkOutsideYourComfortZone

@@ -8,6 +8,11 @@ ein: '460673783'
 zip: '90078'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=460673783'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Resiliency
+  - Housing & homelessness
+  - Public safety & public space
 twitter: 'https://twitter.com/DanHildebrand09'
 instagram: 'https://instagram.com/domes4homes/'
 facebook: 'https://www.facebook.com/HDomes'

@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community gatherings
+  - Health
+  - Social connectedness
 twitter: llcflb
 instagram: LLCFCommunityCenter/
 facebook: llcflb

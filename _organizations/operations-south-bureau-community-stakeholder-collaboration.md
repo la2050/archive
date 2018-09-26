@@ -8,6 +8,9 @@ ein: '270889800'
 zip: '90003'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270889800'
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Public safety & public space
 twitter: www.twitter.com/SOLACommunity
 instagram: ''
 facebook: www.facebook.com/solacommunity

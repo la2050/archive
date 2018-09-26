@@ -10,7 +10,9 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators:
   - Mental & emotional health
+  - Voting & civic engagement
   - Health
+  - Social connectedness
 twitter: '@lalgbtcenter'
 instagram: '@lalgbtcenter'
 facebook: '@lalgbtcenter'

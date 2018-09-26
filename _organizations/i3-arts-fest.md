@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Community gatherings
+  - Arts & cultural vitality
+  - Social connectedness
 twitter: 'GrandPark_LA,GrandPerfs'
 instagram: i3artsfest
 facebook: 'GrandPark_LA,GrandPerfs, MakeMusicLA, Playascape'

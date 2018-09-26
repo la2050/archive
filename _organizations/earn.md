@@ -8,6 +8,9 @@ ein: '912172676'
 zip: '94104'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912172676'
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Income & employment
 twitter: www.twitter.com/earn
 instagram: 'https://instagram.com/earnorg/'
 facebook: www.facebook.com/earnorg

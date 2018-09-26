@@ -8,6 +8,11 @@ ein: '320003071'
 zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320003071'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: www.twitter.com/eastsidejews
 instagram: www.instagram.com/sijcc
 facebook: 'https://www.facebook.com/silverlakejcc'

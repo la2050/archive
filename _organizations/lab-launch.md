@@ -8,6 +8,9 @@ ein: '471621472'
 zip: '91016'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471621472'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: www.twitter.com/lablaunch
 instagram: ''
 facebook: www.facebook.com/lablaunch

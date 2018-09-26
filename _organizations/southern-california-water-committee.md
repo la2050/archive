@@ -8,6 +8,9 @@ ein: '330081886'
 zip: '91604'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330081886'
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
 twitter: 'https://twitter.com/Lawn_Dude'
 instagram: www.instagram.com/socalwater
 facebook: www.facebook.com/socalwater

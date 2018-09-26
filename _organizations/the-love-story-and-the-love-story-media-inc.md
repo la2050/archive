@@ -8,6 +8,9 @@ ein: '472937595'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472937595'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/thelovestoryorg'
 instagram: 'https://instagram.com/weletgo/'
 facebook: 'https://www.facebook.com/thelovestory.org'

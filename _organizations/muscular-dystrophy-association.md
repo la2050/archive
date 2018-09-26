@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Disability & aging
+  - Health
+  - Mobility
 twitter: mdalosangeles
 instagram: mdalosangeles
 facebook: mdalosangeles

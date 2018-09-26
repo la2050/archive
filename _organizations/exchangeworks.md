@@ -8,6 +8,10 @@ ein: '462746723'
 zip: '90404'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Creative economy
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/ExchangeWorksUS'
 instagram: ''
 facebook: 'https://www.facebook.com/ExchangeWorks.co'

@@ -8,6 +8,11 @@ ein: '954760497'
 zip: '91411'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954760497'
 ntee_type: ''
+tags_indicators:
+  - Disability & aging
+  - Access to parks & green space
+  - Mobility
+  - Public safety & public space
 twitter: www.twitter.com/ShanesPlay
 instagram: www.instagram.com/shanesplay
 facebook: www.facebook.com/shanesinspiration

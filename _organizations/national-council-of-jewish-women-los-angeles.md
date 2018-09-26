@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Community health
+  - Social connectedness
+  - Health
 twitter: Ncjwla
 instagram: NCJWLosAngeles
 facebook: Ncjwla

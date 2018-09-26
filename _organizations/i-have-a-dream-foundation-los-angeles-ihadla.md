@@ -8,6 +8,10 @@ ein: '954089758'
 zip: '90010'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954089758'
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Teaching & mentorship
+  - Education & youth
 twitter: www.twitter.com/IHADLA
 instagram: www.instagram.com/ihadla/
 facebook: www.facebook.com/ihaveadreamla

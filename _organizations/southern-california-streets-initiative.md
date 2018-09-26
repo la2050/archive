@@ -8,6 +8,9 @@ ein: '#N/A'
 zip: '#N/A'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
 twitter: 'http://www.twitter.com/abundanthousing http://www.twitter.com/streetsblogla'
 instagram: ''
 facebook: >-

@@ -8,6 +8,10 @@ ein: '270575032'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=270575032'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - STEM & Digital literacy
+  - Education & youth
 twitter: www.twitter.com/diygirls
 instagram: www.instagram.com/diygirlsorg
 facebook: www.facebook.com/diygirlsLA

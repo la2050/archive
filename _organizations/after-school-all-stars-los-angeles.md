@@ -8,6 +8,11 @@ ein: '912162719'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=912162719'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Mental & emotional health
+  - Education & youth
+  - Health
 twitter: 'https://twitter.com/asaslosangeles'
 instagram: 'https://instagram.com/asaslosangeles'
 facebook: 'https://facebook.com/asaslosangeles'

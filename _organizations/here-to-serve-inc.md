@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community health
+  - Health
 twitter: H2S_NPO
 instagram: HeretoServe.Nonprofit/?pnref=lhc
 facebook: Here_to_Serve_NPO

@@ -8,6 +8,9 @@ ein: '954116679'
 zip: '91302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954116679'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: www.twitter.com/changebetterorg
 instagram: www.instagram.com/changebetterorg
 facebook: www.facebook.com/changebetter.org

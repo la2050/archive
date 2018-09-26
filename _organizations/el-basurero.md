@@ -9,6 +9,9 @@ ein: '113388344'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=113388344'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: 'https://twitter.com/thejoelepstein'
 instagram: 'https://instagram.com/jcepstein/'
 facebook: 'https://www.facebook.com/thejoelepstein'

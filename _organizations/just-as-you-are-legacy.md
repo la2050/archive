@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Entrepreneurship & innovation
+  - Arts & cultural vitality
+  - Income & employment
 twitter: jayalegacy
 instagram: Jaya-Legacy-1744895492449502/?fref=ts
 facebook: jayalegacy

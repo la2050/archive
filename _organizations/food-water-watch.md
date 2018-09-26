@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Climate change
+  - Health
+  - Environmental quality & sustainability
 twitter: foodandwater
 instagram: foodandwaterwatch
 facebook: foodandwaterwatch

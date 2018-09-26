@@ -8,6 +8,11 @@ ein: '770112367'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=770112367'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Air & water
+  - Public safety & public space
+  - Environmental quality & sustainability
 twitter: na
 instagram: ''
 facebook: 'https://www.facebook.com/lamountains?_rdr=p'

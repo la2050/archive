@@ -8,6 +8,11 @@ ein: '465274049'
 zip: '90045'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=465274049'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Entrepreneurship & innovation
+  - Education & youth
+  - Income & employment
 twitter: 'https://twitter.com/incschool'
 instagram: 'https://instagram.com/incschool/'
 facebook: 'https://www.facebook.com/incubatorschool'

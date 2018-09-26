@@ -8,6 +8,9 @@ ein: '464888726'
 zip: '90025'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=464888726'
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Mobility
 twitter: '@ALTravelproject'
 instagram: instagram.com/ALTRAVELPROJECT
 facebook: 'https://www.facebook.com/GoCARfree'

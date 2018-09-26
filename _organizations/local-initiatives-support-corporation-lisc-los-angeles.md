@@ -8,6 +8,11 @@ ein: '133030229'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133030229'
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Community health
+  - Public safety & public space
+  - Health
 twitter: www.twitter.com/LISC_LA
 instagram: 'https://instagram.com/lisc_hq/'
 facebook: www.facebook.com/lisc.org

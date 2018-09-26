@@ -8,6 +8,9 @@ ein: '952022023'
 zip: '91105'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952022023'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: www.twitter.com/SequoyahSchool
 instagram: www.instagram.com/SequoyahSchool
 facebook: www.facebook.com/SequoyahSchool

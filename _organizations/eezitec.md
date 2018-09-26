@@ -8,6 +8,9 @@ ein: '472691696'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: www.twitter.com/eezitec
 instagram: EEZITEC.com
 facebook: www.facebook.com/eezitec

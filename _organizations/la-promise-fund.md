@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Workforce development
+  - Education & youth
+  - Income & employment
 twitter: LAPromiseFund
 instagram: LAFund
 facebook: lapromisefund

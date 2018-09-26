@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
 twitter: plantaware
 instagram: plantaware/
 facebook: plantawarecorporation

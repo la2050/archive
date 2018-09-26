@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Climate change
+  - Income & employment
+  - Environmental quality & sustainability
 twitter: JobsMoveAmerica
 instagram: JobstoMoveAmerica
 facebook: JobstoMoveAmerica

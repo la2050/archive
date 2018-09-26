@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - STEM & Digital literacy
+  - Education & youth
 twitter: pasedfoundation
 instagram: PasadenaEducationalFoundation
 facebook: pasedfoundation

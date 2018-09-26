@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Workforce development
+  - Education & youth
+  - Income & employment
 twitter: Launch_Code
 instagram: launchcodestl
 facebook: launchcode

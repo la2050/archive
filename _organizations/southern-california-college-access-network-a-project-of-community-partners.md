@@ -8,6 +8,9 @@ ein: '954302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Education & youth
 twitter: 'https://twitter.com/socalcan'
 instagram: 'https://instagram.com/levelupsocalcan/'
 facebook: >-

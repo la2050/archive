@@ -8,6 +8,9 @@ ein: '475247130'
 zip: '90003'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475247130'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: 'https://twitter.com/greatmindstem'
 instagram: ''
 facebook: www.facebook.com/GreatMindsSTEMSociety

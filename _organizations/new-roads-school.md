@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Voting & civic engagement
+  - Education & youth
+  - Social connectedness
 twitter: UPTOGOODorg
 instagram: newroads
 facebook: UPTOGOODorg

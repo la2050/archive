@@ -8,6 +8,9 @@ ein: '43262046'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=43262046'
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Education & youth
 twitter: www.twitter.com/jumpstartkids
 instagram: ''
 facebook: www.facebook.com/jumpstartkids

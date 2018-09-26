@@ -8,6 +8,9 @@ ein: '470919488'
 zip: '91342'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=470919488'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/tiachucha'
 instagram: 'https://instagram.com/tiachuchas'
 facebook: 'https://www.facebook.com/TiaChuchasCentroCultural'

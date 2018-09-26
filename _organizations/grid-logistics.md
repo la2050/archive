@@ -8,6 +8,11 @@ ein: '454109556'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Climate change
+  - Income & employment
+  - Environmental quality & sustainability
 twitter: GRIDInc
 instagram: makinggoodongoodsmovement/
 facebook: N/A

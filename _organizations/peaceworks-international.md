@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Volunteerism
+  - Arts & cultural vitality
+  - Social connectedness
 twitter: IAmLA2017
 instagram: IAmLA2017
 facebook: IAmLA2017

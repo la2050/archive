@@ -8,6 +8,11 @@ ein: '471417650'
 zip: '92174'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Access to parks & green space
+  - Arts & cultural vitality
+  - Public safety & public space
 twitter: www.twitter.com/TENFEET2016
 instagram: ''
 facebook: www.facebook.com/Los-Angeles-River-Public-Art-Project-698775940231398/

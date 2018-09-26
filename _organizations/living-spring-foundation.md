@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Community health
+  - Housing & homelessness
+  - Health
 twitter: LivingSpringF
 instagram: livingspringfoundation
 facebook: livingspringf

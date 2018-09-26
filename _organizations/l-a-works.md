@@ -8,6 +8,11 @@ ein: '954329727'
 zip: '90065'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954329727'
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: LAWorksNow
 instagram: laworks
 facebook: laworksnow

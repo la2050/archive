@@ -8,6 +8,9 @@ ein: '954031055'
 zip: '90401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954031055'
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
 twitter: 'https://twitter.com/healthebay'
 instagram: 'https://instagram.com/healthebay/'
 facebook: 'https://www.facebook.com/HealtheBay/'

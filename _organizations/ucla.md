@@ -8,6 +8,9 @@ ein: '956006143'
 zip: 90095-1656
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956006143'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: 'https://twitter.com/UCLALuskin'
 instagram: 'https://instagram.com/uclaluskin/'
 facebook: 'https://www.facebook.com/UCLALuskinSchool/timeline/'

@@ -8,6 +8,9 @@ ein: '452390782'
 zip: '91101'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452390782'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: 'http://twitter.com/labiohackers'
 instagram: ''
 facebook: 'https://www.facebook.com/TheL4b'

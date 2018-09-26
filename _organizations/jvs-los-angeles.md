@@ -8,6 +8,9 @@ ein: '951691012'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951691012'
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Income & employment
 twitter: www.twitter.com/jvsla
 instagram: www.instagram.com/JVSLA_
 facebook: www.facebook.com/jvsla

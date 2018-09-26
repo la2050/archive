@@ -8,6 +8,11 @@ ein: '455472840'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=455472840'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Workforce development
+  - Health
+  - Income & employment
 twitter: www.twitter.com/good_grow
 instagram: www.instagram.com/grow_good
 facebook: www.facebook.com/wegrowgood

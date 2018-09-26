@@ -8,6 +8,9 @@ ein: '473612459'
 zip: '90272'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473612459'
 ntee_type: ''
+tags_indicators:
+  - Air & water
+  - Environmental quality & sustainability
 twitter: 'www.twitter.com/flowprojectla, www.twitter.com/unycyn'
 instagram: www.instagram.com/flowproject.la
 facebook: www.facebook.com/unycyn.civic.arts

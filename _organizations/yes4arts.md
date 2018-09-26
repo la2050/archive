@@ -8,6 +8,9 @@ ein: '473851439'
 zip: '90505'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473851439'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: www.twitter.com/yes4arts
 instagram: ''
 facebook: www.facebook.com/yes4arts

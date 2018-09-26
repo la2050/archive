@@ -8,6 +8,9 @@ ein: '263131470'
 zip: '90254'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=263131470'
 ntee_type: ''
+tags_indicators:
+  - Disability & aging
+  - Mobility
 twitter: www.twitter.com/goldenhrtranch
 instagram: www.instagram.com/goldenheartranch
 facebook: www.facebook.com/GoldenHeartRanch

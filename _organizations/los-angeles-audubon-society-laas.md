@@ -8,6 +8,11 @@ ein: '956093704'
 zip: 90041-8301
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=956093704'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Community gatherings
+  - Public safety & public space
+  - Social connectedness
 twitter: LAAudubon
 instagram: LosAngelesAudubon
 facebook: la_audubon

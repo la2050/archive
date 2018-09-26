@@ -8,6 +8,9 @@ ein: '320154043'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=320154043'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: 'https://twitter.com/cofem'
 instagram: 'https://instagram.com/cofem/'
 facebook: 'https://www.facebook.com/orgCOFEM'

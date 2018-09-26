@@ -8,6 +8,9 @@ ein: '475118457'
 zip: '90017'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Housing & homelessness
 twitter: www.twitter.com/sustaynabl
 instagram: www.facebook.com/sustaynabl
 facebook: www.facebook.com/sustaynabl

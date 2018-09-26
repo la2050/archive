@@ -8,6 +8,11 @@ ein: '922748922'
 zip: '90291'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=922748922'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 twitter: www.twitter.com/urbanwordla
 instagram: ''
 facebook: www.facebook.com/urbanword

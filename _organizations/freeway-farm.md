@@ -8,6 +8,9 @@ ein: '475285481'
 zip: '91103'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=475285481'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 twitter: 'https://twitter.com/freewayfarm'
 instagram: www.instagram.com/freewayfarm
 facebook: www.facebook.com/freewayfarm

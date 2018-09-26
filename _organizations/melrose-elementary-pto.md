@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - STEM & Digital literacy
+  - Education & youth
 twitter: MelroseMSTPTO
 instagram: MelroseElementaryPTO
 facebook: melrosemstpto

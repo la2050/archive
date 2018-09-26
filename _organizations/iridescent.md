@@ -8,6 +8,9 @@ ein: '208386654'
 zip: '90007'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=208386654'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: 'https://twitter.com/IridescentLA'
 instagram: ''
 facebook: 'https://www.facebook.com/ImagineInventEngineer'

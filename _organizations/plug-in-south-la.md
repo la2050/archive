@@ -8,6 +8,9 @@ ein: '475199699'
 zip: '90066'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: 'https://twitter.com/PISouthLA'
 instagram: N/A
 facebook: N/A

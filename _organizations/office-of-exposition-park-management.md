@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Transportation
+  - Public safety & public space
+  - Mobility
 twitter: ExpositionPark
 instagram: exposition.park
 facebook: ExpositionParkLA

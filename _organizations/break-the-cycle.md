@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community safety
+  - Health
+  - Public safety & public space
 twitter: breakthecycledv
 instagram: breakthecycle
 facebook: breakthecycle

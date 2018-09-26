@@ -8,6 +8,9 @@ ein: '264236328'
 zip: '90028'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=264236328'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 twitter: www.twitter.com/HwoodCapPark
 instagram: ''
 facebook: www.facebook.com/FriendsOfTheHollywoodCentralPark

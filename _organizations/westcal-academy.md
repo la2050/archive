@@ -8,6 +8,9 @@ ein: '473703367'
 zip: '90249'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=473703367'
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Income & employment
 twitter: www.twitter.com/westcalacademy
 instagram: www.instagram.com/westcalacademy
 facebook: www.facebook.com/westcalacademy

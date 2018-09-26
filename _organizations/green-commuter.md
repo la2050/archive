@@ -8,6 +8,11 @@ ein: '471211258'
 zip: '90401'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Climate change
+  - Mobility
+  - Environmental quality & sustainability
 twitter: n/a
 instagram: n/a
 facebook: n/a

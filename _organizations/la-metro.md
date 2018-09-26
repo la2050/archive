@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Transportation
+  - Mobility
 twitter: metrolosangeles
 instagram: losangelesmetro
 facebook: metrolosangeles

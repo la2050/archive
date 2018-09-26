@@ -8,6 +8,11 @@ ein: '383887199'
 zip: '91340'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Early childhood
+  - Access to parks & green space
+  - Education & youth
+  - Public safety & public space
 twitter: www.twitter.com/adventplayhouse
 instagram: www.instagram.com/adventureplayhouse
 facebook: www.facebook.com/adventureplayhouse

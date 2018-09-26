@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: Healthy_Prod
 instagram: healthylivingproductions
 facebook: N/A

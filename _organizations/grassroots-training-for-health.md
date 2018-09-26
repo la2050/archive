@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Community health
+  - Health
 twitter: n/a
 instagram: academyofstrengthandsport
 facebook: n/a

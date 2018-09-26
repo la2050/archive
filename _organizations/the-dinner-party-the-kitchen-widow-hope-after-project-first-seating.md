@@ -9,6 +9,9 @@ ein: '954302067'
 zip: '90026'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Health
 twitter: >-
   www.twitter.com/DinnerPartiers, www.twitter.com/TheKitchenWidow,
   www.twitter.com/FindHopeAfter, www.twitter.com/firstseating

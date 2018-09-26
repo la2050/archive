@@ -8,6 +8,9 @@ ein: '475224113'
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Health
 twitter: www.twitter.com/greenboxfarms
 instagram: www.instagram.com/greenboxfarms
 facebook: www.facebook.com/greenboxfarms

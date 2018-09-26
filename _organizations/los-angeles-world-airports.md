@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Workforce development
+  - Education & youth
+  - Income & employment
 twitter: N/A
 instagram: N/A
 facebook: N/A

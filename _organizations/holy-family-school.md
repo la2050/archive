@@ -8,6 +8,9 @@ ein: '951809568'
 zip: '91030'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951809568'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: 'https://twitter.com/holyfamily'
 instagram: www.instagram.com/HolyFamily_
 facebook: www.facebook.com/holy.family.south.pasadena

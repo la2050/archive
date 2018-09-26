@@ -8,6 +8,9 @@ ein: 472268086‏
 zip: '90012'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: www.twitter.com/laartfest
 instagram: www.instagram.com/laartfest
 facebook: www.facebook.com/laartfest

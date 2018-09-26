@@ -8,6 +8,11 @@ ein: '954302067'
 zip: '90011'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954302067'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Workforce development
+  - Health
+  - Income & employment
 twitter: www.twitter.com/rootdownla
 instagram: www.instagram.com/rootdownla/
 facebook: www.facebook.com/RootDown-LA-125870417444952

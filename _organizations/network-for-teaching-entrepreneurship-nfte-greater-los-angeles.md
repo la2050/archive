@@ -8,6 +8,9 @@ ein: '133408731'
 zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=133408731'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: www.twitter.com/nftegreaterla
 instagram: www.instagram.com/nftegreaterla
 facebook: www.facebook.com/nftela

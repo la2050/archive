@@ -8,6 +8,10 @@ ein: '432067664'
 zip: '90043'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=432067664'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Early childhood
+  - Education & youth
 twitter: 'https://twitter.com/2ndChancesInc'
 instagram: 'https://instagram.com/2ndChancesInc'
 facebook: 'https://www.facebook.com/ffscinc'

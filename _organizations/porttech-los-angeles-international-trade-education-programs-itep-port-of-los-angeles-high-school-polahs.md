@@ -10,6 +10,9 @@ ein: '800363808'
 zip: '90731'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=800363808'
 ntee_type: ''
+tags_indicators:
+  - Entrepreneurship & innovation
+  - Income & employment
 twitter: www.twitter.com/PortTechLA www.twitter.com/ITEPinc www.twitter.com/POLAHS
 instagram: ''
 facebook: www.facebook.com/PortTechLosAngeles www.facebook.com/ITEPInc?ref=ts

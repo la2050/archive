@@ -11,6 +11,9 @@ ein: '953941686'
 zip: '90047'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=953941686'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: 'www.twitter.com/codetechiq, www.twitter.com/LASCFoundation'
 instagram: ''
 facebook: 'www.facebook.com/lascfoundation, www.facebook.com/codetechiq'

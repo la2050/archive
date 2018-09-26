@@ -8,6 +8,9 @@ ein: '943390795'
 zip: '90034'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=943390795'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/@litremix'
 instagram: ''
 facebook: www.facebook.com/artistsforliteracy

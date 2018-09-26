@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Entrepreneurship & innovation
+  - Health
+  - Income & employment
 twitter: natch_app
 instagram: natch-340508439626814
 facebook: natch_app_

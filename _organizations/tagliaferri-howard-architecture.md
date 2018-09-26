@@ -8,6 +8,9 @@ ein: '472358063'
 zip: '90066'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: NA
 instagram: NA
 facebook: NA

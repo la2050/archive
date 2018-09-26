@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Health
 twitter: Groceryships
 instagram: groceryships
 facebook: groceryships

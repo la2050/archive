@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - Mental & emotional health
+  - Social connectedness
+  - Health
 twitter: namisfv
 instagram: NAMISanFernandoValley
 facebook: namisfv

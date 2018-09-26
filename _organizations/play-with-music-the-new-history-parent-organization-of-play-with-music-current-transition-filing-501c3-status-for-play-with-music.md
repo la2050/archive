@@ -10,6 +10,11 @@ ein: '471474363'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=471474363'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
 twitter: www.twitter.com/thenewhist
 instagram: www.instagram.com/thenewhistory
 facebook: www.facebook.com/TheNewHistoryEdu

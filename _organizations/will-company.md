@@ -8,6 +8,11 @@ ein: '954215225'
 zip: '91401'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954215225'
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Fitness & sports
+  - Arts & cultural vitality
+  - Health
 twitter: 'http://www.twitter.com/willandcompany'
 instagram: 'http://www.instagram.com/willandcompany'
 facebook: 'http://www.facebook.com/artsandfitness'

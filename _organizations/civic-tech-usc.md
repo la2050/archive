@@ -8,6 +8,9 @@ ein: '951642394'
 zip: '90071'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=951642394'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: 'https://twitter.com/CivicTechUSC'
 instagram: ''
 facebook: www.facebook.com/USCCCLP

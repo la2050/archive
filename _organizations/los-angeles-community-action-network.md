@@ -8,6 +8,11 @@ ein: '20661629'
 zip: '90021'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=20661629'
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Access to capital & benefits
+  - Social connectedness
+  - Income & employment
 twitter: www.twitter.com/LACANetwork
 instagram: ''
 facebook: >-

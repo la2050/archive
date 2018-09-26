@@ -8,6 +8,9 @@ ein: '330614644'
 zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=330614644'
 ntee_type: ''
+tags_indicators:
+  - Fitness & sports
+  - Health
 twitter: '@TSCOutreach'
 instagram: www.instagram.com/trojanswimcluboutreach
 facebook: www.facebook.com/Trojan-Swim-Club-Outreach

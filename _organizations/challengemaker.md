@@ -8,6 +8,9 @@ ein: '471275838'
 zip: '90026'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Voting & civic engagement
+  - Social connectedness
 twitter: '@challengemaker1'
 instagram: '@challengemaker1'
 facebook: 'https://www.facebook.com/profile.php?id=100009987910475'

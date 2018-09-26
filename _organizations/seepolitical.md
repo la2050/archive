@@ -8,6 +8,11 @@ ein: '452742032'
 zip: '90402'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=452742032'
 ntee_type: ''
+tags_indicators:
+  - Workforce development
+  - Community health
+  - Income & employment
+  - Health
 twitter: www.twitter.com/SeePolitical
 instagram: n/a
 facebook: www.facebook.com/SeePolitical

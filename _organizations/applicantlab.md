@@ -8,6 +8,9 @@ ein: '473354380'
 zip: '90094'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - College prep
+  - Education & youth
 twitter: 'https://twitter.com/ApplicantLab'
 instagram: ''
 facebook: 'https://www.facebook.com/ApplicantLab/'

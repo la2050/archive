@@ -8,6 +8,11 @@ ein: '810591705'
 zip: '91030'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=810591705'
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Art
+  - Social connectedness
+  - Arts & cultural vitality
 twitter: www.twitter.com/levittla
 instagram: www.instagram.com/levittpas ; www.instagram.com/levittpavilionlosangeles
 facebook: www.facebook.com/LevittPavilionPasadena www.facebok.com/LevittPavilionMacPark

@@ -8,6 +8,10 @@ ein: '934302067'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=934302067'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Community health
+  - Health
 twitter: 'https://twitter.com/mmhealthnow'
 instagram: 'https://instagram.com/maternalmentalhealthnow/'
 facebook: 'https://www.facebook.com/MaternalMentalHealthNow/'

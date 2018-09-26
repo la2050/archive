@@ -9,6 +9,11 @@ ein: '464394783'
 zip: '90013'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - STEM & Digital literacy
+  - Public safety & public space
+  - Education & youth
 twitter: 'https://twitter.com/compilerla, https://twitter.com/daveedkapoor'
 instagram: ''
 facebook: 'https://www.facebook.com/CompilerLA?fref=ts'

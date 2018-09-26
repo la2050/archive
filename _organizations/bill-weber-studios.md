@@ -8,6 +8,9 @@ ein: '132467145'
 zip: '91617'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community gatherings
+  - Social connectedness
 twitter: www.twitter.com/bwstudios
 instagram: www.instagram.com/billweberstudios
 facebook: www.facebook.com/ambassadorbird

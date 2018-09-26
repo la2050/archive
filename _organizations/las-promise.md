@@ -8,6 +8,10 @@ ein: '204562686'
 zip: '90012'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=204562686'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - College prep
+  - Education & youth
 twitter: www.twitter.com/LAsPromise
 instagram: LAsPromise
 facebook: www.facebook.com/LAsPromise.org

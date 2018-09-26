@@ -8,6 +8,9 @@ ein: '203359738'
 zip: ''
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203359738'
 ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
 twitter: 'https://twitter.com/fromlottospot'
 instagram: 'https://instagram.com/fromlottospot'
 facebook: 'https://www.facebook.com/fromlottospot'

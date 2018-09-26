@@ -8,6 +8,9 @@ ein: '472219458'
 zip: '90066'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472219458'
 ntee_type: ''
+tags_indicators:
+  - Mental & emotional health
+  - Health
 twitter: 'https://twitter.com/happycityus'
 instagram: ''
 facebook: 'https://www.facebook.com/happycity.us'

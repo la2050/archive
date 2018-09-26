@@ -8,6 +8,11 @@ ein: '952925985'
 zip: '91711'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952925985'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Workforce development
+  - Health
+  - Income & employment
 twitter: 'https://twitter.com/RisingWomenCA'
 instagram: ''
 facebook: 'https://www.facebook.com/fallenfruitfromrisingwomen'

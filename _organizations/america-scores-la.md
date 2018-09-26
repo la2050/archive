@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Fitness & sports
+  - Education & youth
+  - Health
 twitter: lascores
 instagram: lascores
 facebook: americascores.la

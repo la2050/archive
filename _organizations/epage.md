@@ -8,6 +8,9 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Community safety
+  - Public safety & public space
 twitter: GetGaggle
 instagram: getgaggle
 facebook: epageinc

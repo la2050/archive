@@ -8,6 +8,9 @@ ein: '472185490'
 zip: '90013'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472185490'
 ntee_type: ''
+tags_indicators:
+  - STEM & Digital literacy
+  - Education & youth
 twitter: 'https://twitter.com/LABioscienceHub'
 instagram: n/a
 facebook: n/a

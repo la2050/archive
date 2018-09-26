@@ -8,6 +8,9 @@ ein: '475245567'
 zip: '90021'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Art
+  - Arts & cultural vitality
 twitter: 'https://twitter.com/feal_la'
 instagram: ''
 facebook: 'https://www.facebook.com/fealglobal'

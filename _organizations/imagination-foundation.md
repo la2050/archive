@@ -8,6 +8,11 @@ ein: '300742986'
 zip: '90086'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=300742986'
 ntee_type: ''
+tags_indicators:
+  - Volunteerism
+  - STEM & Digital literacy
+  - Social connectedness
+  - Education & youth
 twitter: www.twitter.com/imagination
 instagram: www.instagram.com/imaginationfdn
 facebook: www.facebook.com/imaginationfoundation

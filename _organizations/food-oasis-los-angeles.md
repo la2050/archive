@@ -8,6 +8,11 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Voting & civic engagement
+  - Health
+  - Social connectedness
 twitter: foodoasisla
 instagram: foodoasisla
 facebook: none

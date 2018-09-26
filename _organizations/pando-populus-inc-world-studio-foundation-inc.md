@@ -8,6 +8,9 @@ ein: '472745964'
 zip: '10014'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=472745964'
 ntee_type: ''
+tags_indicators:
+  - Resiliency
+  - Public safety & public space
 twitter: 'https://twitter.com/pandopopulus; https://twitter.com/designignites'
 instagram: ''
 facebook: >-

@@ -8,6 +8,10 @@ ein: '954392004'
 zip: '90006'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954392004'
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Workforce development
+  - Income & employment
 twitter: 'http://www.twitter.com/kiwa4justice'
 instagram: ''
 facebook: 'https://www.facebook.com/KoreaTownImmigrantWorkersAlliance'

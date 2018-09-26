@@ -8,6 +8,10 @@ ein: ''
 zip: ''
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Access to capital & benefits
+  - Workforce development
+  - Income & employment
 twitter: 5050Leadership
 instagram: 5050leadership
 facebook: 5050leadership
