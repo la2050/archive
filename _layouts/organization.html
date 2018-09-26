@@ -150,7 +150,6 @@ stylesheets:
 <p style="margin-bottom: 0">
   {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
 </p>
-{% endcomment %}
 
 {% if page.org_summary contains "<p>" %}
 <div>
@@ -161,6 +160,47 @@ stylesheets:
   {{ page.org_summary }}
 </p>
 {% endif %}
+{% endcomment %}
+
+
+{% capture link_to_more %}
+… <span style="color: var(--primary-color); font-weight: bold;">Read More</span>
+{% endcapture %}
+
+<details class="organization-summary">
+  <summary>
+  <p style="margin-bottom: 0">
+    {{ page.org_summary | strip_html | truncate: 500, link_to_more }}
+  </p>
+  </summary>
+
+  {% if page.org_summary contains "<p>" %}
+  <div>
+    {{ page.org_summary }}
+  </div>
+  {% else %}
+  <p style="margin-bottom: 0">
+    {{ page.org_summary }}
+  </p>
+  {% endif %}
+</details>
+
+
+<style>
+.organization-summary p {
+  margin-top: 0;
+  margin: 0;
+  font-style: normal;
+  text-align: left;
+}
+.organization-summary[open] summary {
+  outline: none;
+}
+.organization-summary[open] summary p {
+  display: none;
+}
+</style>
+
 
 
 {% if page.link_donate and page.link_donate != '' %}
