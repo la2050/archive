@@ -797,7 +797,7 @@ line-height: 1;">Find similar projects</h2>
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_aidens_tags.size | times: 0.5 | plus: 1 %}
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_aidens_tags.size | times: 0.25 | plus: 1 %}
   <li><a href="/search/?keywords={{ tag }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>

@@ -804,7 +804,7 @@ line-height: 1;">Find similar organizations</h2>
       {% assign tag_count = tag_count | plus: 1 %}
     {% endif %}
   {% endfor %}
-  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 0.5 | plus: 1 %}
+  {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 0.25 | plus: 1 %}
   <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
 {% endfor %}
 </ul>
