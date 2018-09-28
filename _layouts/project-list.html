@@ -239,11 +239,22 @@ body:not(.header-not-visible) header h2,
 body:not(.header-not-visible) header a {
   color: inherit !important;
 }
+body:not(.header-not-visible) header a:hover,
+body:not(.header-not-visible) header a:active,
+body:not(.header-not-visible) header a:focus {
+  color: var(--primary-color) !important;
+}
 .goals .navigation .options form input,
 .goals .navigation .options form button {
   background-color: transparent;
   color: white;
   border-color: white;
+}
+.goals .navigation .options form input:focus,
+.goals .navigation .options form button:hover,
+.goals .navigation .options form button:active,
+.goals .navigation .options form button:focus {
+  border-color: var(--primary-color);
 }
 .tags .action a {
   background-color: transparent;

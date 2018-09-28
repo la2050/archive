@@ -221,6 +221,11 @@
   body:not(.header-not-visible) header a {
     color: rgb(41, 41, 41) !important;
   }
+  body:not(.header-not-visible) header a:hover,
+  body:not(.header-not-visible) header a:active,
+  body:not(.header-not-visible) header a:focus {
+    color: var(--primary-color) !important;
+  }
   @media (min-width: 40em) { /* @medium-size-screen */
     header,
     footer {
