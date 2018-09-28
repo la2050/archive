@@ -109,6 +109,8 @@
 </head>
 <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
 
+<div class="container"><div class="container-inner">
+
   {% comment %}
   {% if page.show_promotion or site.phase == 6 or site.phase == 8 %}
   <section class="promotion">
@@ -245,6 +247,8 @@
   <script async src="/assets/js/goals.js?v={{ site.version }}"></script>
   {% endcomment %}
   <script async src="/assets/js/randomize-links.js?v={{ site.version }}"></script>
+
+</div></div><!-- /.container-inner --><!-- /.container -->
 
 </body>
 </html>
