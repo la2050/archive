@@ -826,7 +826,7 @@ letter-spacing: 0.05em;
 color: rgb(41, 41, 41) !important;
 font-size: 1.25em;
 line-height: 1;">Find similar organizations</h2>
-<details class="tags" style="margin-bottom: 3em;" open>
+<details class="tags" style="margin-top: 3em; margin-bottom: 3em; font-size: 1.25em;" open>
 <summary>
 <h2 style="display: none;"><strong>Browse</strong> related organizations</h2>
 </summary>
@@ -839,7 +839,7 @@ line-height: 1;">Find similar organizations</h2>
     {% endif %}
   {% endfor %}
   {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags_indicators.size | times: 0.25 | plus: 1 %}
-  <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+  <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}">{{ tag }}</a></li>
 {% endfor %}
 </ul>
 </details>
@@ -887,7 +887,7 @@ function addCategoryColor(tag) {
 (function() {
   var tags = document.querySelectorAll(".tags li");
   if (tags && tags.length > 0) {
-    tags.forEach(addCategoryColor)
+    // tags.forEach(addCategoryColor)
   }
 })()
 </script>

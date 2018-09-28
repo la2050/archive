@@ -215,8 +215,6 @@ text-align: left;
 <h1 style="color: white; position: absolute; left: -9999px">My LA2050</h1>
 
 
-<h2 id="tags-title" style="margin-top: 0; display: none; max-width: none; text-align: center; color: var(--primary-color)"></h2>
-
 
 {% assign data_collection = site.collections | where: "label", "organizations" | first %}
 {% assign data_list = data_collection.docs %}
@@ -327,7 +325,7 @@ text-align: left;
 {% assign unique_tags = tags | uniq | sort %}
 
 {% if unique_tags.size > 0 %}
-<details class="tags" style="margin-bottom: 3em;" open>
+<details class="tags" style="margin-top: 3em; margin-bottom: 3em; font-size: 1.25em;" open>
 <summary>
 <h2><strong>Browse</strong> by tag</h2>
 </summary>
@@ -343,7 +341,7 @@ text-align: left;
     {% endfor %}
 
     {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 0.25 | plus: 1 %}
-    <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}" {% if tag_count > 0 %}style="font-size: calc(0.75em + {{ font_scale_factor }}vmin)"{% endif %}>{{ tag }}</a></li>
+    <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}">{{ tag }}</a></li>
   {% endif %}
 
 {% endfor %}
@@ -396,7 +394,7 @@ function addCategoryColor(tag) {
 (function() {
   var tags = document.querySelectorAll(".tags li");
   if (tags && tags.length > 0) {
-    tags.forEach(addCategoryColor)
+    // tags.forEach(addCategoryColor)
   }
 })()
 </script>
@@ -441,8 +439,8 @@ function addCategoryColor(tag) {
   if (tagsTitle && searchByTags) {
     tagsTitle.style.display = "block";
     tagsTitle.textContent = searchByTags;
-    addCategoryColor(tagsTitle);
-    document.body.className = tagsTitle.className;
+    // addCategoryColor(tagsTitle);
+    // document.body.className = tagsTitle.className;
   }
 
   // TEMPORARY: Show all projects if keywords are absent
