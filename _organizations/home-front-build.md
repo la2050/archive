@@ -7,6 +7,9 @@ ein: '452025063'
 zip: '90065'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Creative economy
+  - Arts & cultural vitality
 twitter: ''
 instagram: ''
 facebook: ''

@@ -7,6 +7,11 @@ ein: '10967139'
 zip: '91302'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=10967139'
 ntee_type: ''
+tags_indicators:
+  - Climate change
+  - Resiliency
+  - Environmental quality & sustainability
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

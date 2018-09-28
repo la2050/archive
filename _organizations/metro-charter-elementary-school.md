@@ -9,8 +9,8 @@ zip: ''
 charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
-  - Art
-  - Arts & cultural vitality
+  - Teaching & mentorship
+  - Education & youth
 twitter: metrocharterschool
 instagram: metrocharter
 facebook: no account

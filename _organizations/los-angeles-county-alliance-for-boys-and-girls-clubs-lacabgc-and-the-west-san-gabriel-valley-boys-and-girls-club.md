@@ -9,6 +9,9 @@ ein: '952782501'
 zip: '91754'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952782501'
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''

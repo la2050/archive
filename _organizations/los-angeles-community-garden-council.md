@@ -7,6 +7,11 @@ ein: '311734705'
 zip: '90027'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=311734705'
 ntee_type: ''
+tags_indicators:
+  - Access to healthy food
+  - Access to parks & green space
+  - Health
+  - Public safety & public space
 twitter: ''
 instagram: ''
 facebook: ''

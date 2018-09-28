@@ -8,6 +8,9 @@ ein: '954342434'
 zip: '90033'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954342434'
 ntee_type: ''
+tags_indicators:
+  - Affordable housing
+  - Housing & homelessness
 twitter: ''
 instagram: ''
 facebook: ''

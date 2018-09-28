@@ -7,6 +7,9 @@ ein: '465641508'
 zip: '93021'
 charity_navigator_url: ''
 ntee_type: ''
+tags_indicators:
+  - Teaching & mentorship
+  - Education & youth
 twitter: ''
 instagram: ''
 facebook: ''
