@@ -603,7 +603,12 @@ function addCategoryColor(tag) {
   var keywords = getParameterByName('keywords');
   var searchByTags = getParameterByName('tags');
 
+  if (keywords) {
+    keywords = keywords.trim()
+  }
+
   if (searchByTags) {
+    searchByTags = searchByTags.trim()
     document.querySelector(".goals .navigation .options details").style.display = "none";
     document.getElementById("tags-title").style.marginTop = "0";
   }
@@ -632,6 +637,13 @@ function addCategoryColor(tag) {
   if (keywordsIndicator) keywordsIndicator.textContent = keywords;
 
   function containsKeyword(keyword, string) {
+
+    // if (string.indexOf(keyword) >= 0) {
+    //   console.log("/******")
+    //   console.log("keyword: " + keyword);
+    //   console.log("string: " + string);
+    // }
+
     if (!keyword || keyword == '' || keyword.length < 2) return;
 
     keyword = keyword.toLowerCase();
@@ -639,19 +651,29 @@ function addCategoryColor(tag) {
 
     var rank = 0;
 
-    // Keyword as part of another word gets one point
-    if (string.indexOf(keyword) >= 0) rank++;
+    if (string == keyword) rank++;
+
+    // Keyword at the beginning of another word gets one point
+    if (string.indexOf(' ' + keyword) >= 0) rank++;
+    if (string.indexOf('>' + keyword) >= 0) rank++;
 
     // Keyword used as a word by itself gets one point
     // TODO: Handle punctuation or HTML elements, before or after the keyword
     if (string.indexOf(' ' + keyword + ' ') >= 0) rank++;
     if (string.startsWith(keyword + ' ')) rank++;
+    if (string.indexOf('>' + keyword + ' ') >= 0) rank++;
     if (string.endsWith(' ' + keyword)) rank++;
+    if (string.indexOf(' ' + keyword + "<") >= 0) rank++;
 
     // Multiple instances of keyword add additional points
     // KUDOS: https://stackoverflow.com/questions/881085/count-the-number-of-occurrences-of-a-character-in-a-string-in-javascript
-    var numberOfMatches = (string.match(new RegExp(keyword, "g")) || []).length;
+    var numberOfMatches = (string.match(new RegExp(' ' + keyword, "g")) || []).length;
     if (numberOfMatches > 2) rank += (numberOfMatches - 1);
+
+    // if (string.indexOf(keyword) >= 0) {
+    //   console.log("rank: " + rank);
+    //   console.log("******/")
+    // }
 
     return rank;
   }
