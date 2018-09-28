@@ -6,6 +6,7 @@ stylesheets:
   - "/assets/css/project-list.css"
 ---
 
+
 <style>
 @media (min-width: 40em) {
 
@@ -179,6 +180,113 @@ text-align: left;
   text-decoration: underline;
 }*/
 </style>
+
+
+
+{% unless page.is_search_results %}
+
+<style>
+html, body {
+  height: 100%;
+}
+body {
+  background: rgb(254, 254, 254);
+  color: rgb(41, 41, 41);
+  background-size: cover;
+  background-position: center;
+}
+body::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+body:not(.header-not-visible) header {
+  background-color: transparent !important;
+  color: white !important;
+}
+body:not(.header-not-visible) header h2,
+body:not(.header-not-visible) header a {
+  color: inherit !important;
+}
+.goals .navigation .options form input,
+.goals .navigation .options form button {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+}
+.tags .action a {
+  background-color: transparent;
+  color: white;
+}
+main {
+  min-height: 0;
+}
+footer {
+  color: white;
+}
+</style>
+
+<script>
+
+(function() {
+
+  var images = [
+    "https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-lgbt-center.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/investing-in-place.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/kitchen-table-app.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg",
+    "https://activation.la2050.org/assets/images/learn/2048-wide/all-in-urban-summer-academy.jpg",
+    "https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg",
+    "https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg",
+    "https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg",
+    "https://activation.la2050.org/assets/images/live/2048-wide/süprseed.jpg",
+    "https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg",
+    "https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg",
+    "https://activation.la2050.org/assets/images/learn/2048-wide/proyecto-jardin-a-project-of-hunger-action-la.jpg",
+
+    "https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/good-shine-studio.jpg",
+
+
+    "https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg",
+    "https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg",
+    "https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg"
+  ]
+
+  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+
+    /**
+   * Returns a random number between min (inclusive) and max (exclusive)
+   */
+  function getRandomArbitrary(min, max) {
+      return Math.random() * (max - min) + min;
+  }
+
+  /**
+   * Returns a random integer between min (inclusive) and max (inclusive)
+   * Using Math.round() will give you a non-uniform distribution!
+   */
+  function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  var randomNumber = getRandomInt(0, images.length - 1);
+
+  document.body.style.backgroundImage = "url(" + images[randomNumber] + ")";
+
+})();
+
+</script>
+
+{% endunless %}
 
 
 

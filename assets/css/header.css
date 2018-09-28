@@ -524,7 +524,9 @@
     height: 2.875em;
   }
   header h2 a svg path,
-  footer h2 a svg path {
+  footer h2 a svg path,
+  header h2 a svg text,
+  footer h2 a svg text {
     fill: currentColor;
   }
   header h2 a:hover,
