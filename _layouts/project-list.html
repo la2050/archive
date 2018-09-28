@@ -715,7 +715,7 @@ function addCategoryColor(tag) {
   if (keywords) {
     var keywordList = keywords.replace(/\s/, ',').split(',');
     if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
-      return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the";
+      return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the" && keyword.toLowerCase() != "la";
     })
   }
   for (var index = 0; index < items.length; index++) {
@@ -726,6 +726,16 @@ function addCategoryColor(tag) {
     var rank = 0
 
     if (keywordList) rank += containsAnyKeyword(keywordList, items[index].innerHTML);
+
+    // If an exact phrase was found, add more rank depending on the number of words
+    // console.log(keywords.replace(/\s/, ',').split(',').length >= 1)
+    if (keywords && keywords.replace(/\s/, ',').split(',').length >= 1) {
+      // console.log("looking for an exact phrase match")
+      if (items[index].innerHTML.toLowerCase().indexOf(keywords.toLowerCase()) >= 0) {
+        // console.log("***** exact phrase match *****")
+        rank += (100 * keywords.replace(/\s/, ',').split(',').length)
+      }
+    }
 
     // console.dir(tags)
 
