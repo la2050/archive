@@ -248,9 +248,16 @@ body:not(.header-not-visible) header a:focus {
 .goals .navigation .options form button {
   background-color: transparent;
   color: white;
-  border-color: white;
+  border-color: transparent;
 }
-.goals .navigation .options form input:focus,
+.goals .navigation .options form input {
+  background: rgb(254, 254, 254); /* @snow */
+  color: rgb(41, 41, 41); /* @midnight */
+}
+.goals .navigation .options form input:focus {
+  background: rgb(254, 254, 254); /* @snow */
+  color: rgb(41, 41, 41); /* @midnight */
+}
 .goals .navigation .options form button:hover,
 .goals .navigation .options form button:active,
 .goals .navigation .options form button:focus {
@@ -259,6 +266,7 @@ body:not(.header-not-visible) header a:focus {
 .tags .action a {
   background-color: transparent;
   color: white;
+  text-decoration: underline;
 }
 main {
   min-height: 0;

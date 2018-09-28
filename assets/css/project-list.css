@@ -1204,9 +1204,9 @@ details summary:focus::-webkit-details-marker {
   margin-top: 0;
   text-align: center;
 }
-.goals.without-category details p {
+/*.goals.without-category details p {
   display: none;
-}
+}*/
 .goals.without-category ~ .tags h2 {
   display: none;
 }
