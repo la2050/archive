@@ -57,14 +57,19 @@ stylesheets:
   justify-content: center;
   align-content: center;
   align-items: center;
-  margin-left: 0;
   max-width: none;
   padding-left: 0;
   /*margin: -1.35em;*/
 /*  margin-left: -1.35em;
   margin-right: -1.35em;*/
-  margin-left: 0.375em;
-  margin-right: 0.375em;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+}
+@media (min-width: 40em) {
+  .tags .action {
+    margin-left: 0.375em;
+    margin-right: 0.375em;
+  }
 }
 @media (min-width: 40em) {
 /*.tags .action {
@@ -434,6 +439,11 @@ function addCategoryColor(tag) {
 
   var keywords = getParameterByName('keywords');
   var searchByTags = getParameterByName('tags');
+
+  if (searchByTags) {
+    document.querySelector(".goals .navigation .options details").style.display = "none";
+    document.getElementById("tags-title").style.marginTop = "0";
+  }
 
   var tagsTitle = document.getElementById("tags-title");
   if (tagsTitle && searchByTags) {
