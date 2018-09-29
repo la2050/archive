@@ -817,7 +817,7 @@ function addCategoryColor(tag) {
       nextRank = containsKeyword(keywordList[index], string);
 
       // Add a little rank for a match without puncuation or tense
-      var rootKeyword = keywordList[index].replace(/['‘’,"“”\.]/g, "").replace(/(ion|ing|ed|s)$/, "")
+      var rootKeyword = keywordList[index].replace(/['‘’,"“”\.]/g, "").replace(/(ion|ing|ed|ies|s)$/, "")
       // var rootKeyword = keywordList[index].replace(/['‘’,"“”]/g, "").replace(/(ing|ed|s)$/, "")
       if (rootKeyword.length >= 3) {
         nextRank = containsKeyword(rootKeyword, string) * 0.1;
@@ -899,11 +899,11 @@ function addCategoryColor(tag) {
       if (items[index].getAttribute("data-winner")) {
         console.log("found a winner!: ")
         console.log(items[index])
-        rank += 10000
+        rank += (searchByTags && searchByTags != "") ? 10000 : 2
       } else if (items[index].getAttribute("data-finalist")) {
         console.log("found a finalist!: ")
         console.log(items[index])
-        rank += 1000
+        rank += (searchByTags && searchByTags != "") ? 1000 : 1
       }
 
       matches.push({  

@@ -15,6 +15,22 @@ stylesheets:
 {% endfor %}
 
 
+{% assign is_finalist = false %}
+{% for finalist in site.finalists %}
+  {% if finalist == organization.url %}
+    {% assign is_finalist = true %}
+  {% endif %}
+{% endfor %}
+
+{% assign is_winner = false %}
+{% for winner in site.data.winners %}
+  {% if winner.url == organization.challenge_url or winner.title == data.title %}
+    {% assign is_winner = true %}
+  {% endif %}
+{% endfor %}
+
+
+
 {% comment %}
 <div style="margin-top: 3em"></div>
 {% endcomment %}
@@ -77,7 +93,7 @@ stylesheets:
 
 <div class="proposal-header">
 <p class="category" style="color: rgba(0, 0, 0, 0.5);">
-  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{% if page.indicator %}{{ page.indicator }}{% else %}{{ page.category }}{% endif %}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
+  <strong style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--primary-color)">{% if page.indicator %}{{ page.indicator }}{% else %}{{ page.category }}{% endif %} {% if is_winner %}Winner{% elsif is_finalist %}Finalist{% endif %}</strong> / <strong style="color: inherit;">{{ page.year_submitted }}</strong>
 </p>
 <h1 style="margin-bottom: 0">{{ page.title }}</h1>
 </div>
