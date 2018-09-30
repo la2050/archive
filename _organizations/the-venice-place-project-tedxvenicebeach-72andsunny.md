@@ -27,8 +27,16 @@ project_ids: '5102314'
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 uri: /organizations/the-venice-place-project-tedxvenicebeach-72andsunny/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - LA Pop Up Parks
+project_titles_from_project_ids:
+  - LA Pop Up Parks
+original_project_titles:
+  - LA Pop Up Parks
+original_project_ids:
+  - '5102314'
 maker_image_id: '23850'
 maker_image_file_name: IMG_9355.JPG
 

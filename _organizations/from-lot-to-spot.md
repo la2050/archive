@@ -27,12 +27,31 @@ project_ids: '5102107'
 title: From Lot to Spot
 uri: /organizations/from-lot-to-spot/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
+extrapolated_project_ids:
+  - '3102134'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Network and Nature:Identification and Implementation of Community Green
+    Spaces within Los Angeles
 project_titles:
-  - Watts Rain Gardens
   - Cypress Park Pocket Park
   - >-
     Network and Nature:Identification and Implementation of Community Green
     Spaces within Los Angeles
+  - Watts Rain Gardens
+project_titles_from_project_ids:
+  - Watts Rain Gardens
+original_project_titles:
+  - Cypress Park Pocket Park
+  - >-
+    Network and Nature:Identification and Implementation of Community Green
+    Spaces within Los Angeles
+  - Watts Rain Gardens
+original_project_ids:
+  - '3102134'
+  - '4102079'
+  - '5102107'
+project_titles_flagged: 1
 maker_image_id: '24100'
 maker_image_file_name: IMG_4644.JPG
 

@@ -28,8 +28,18 @@ project_ids: '5102168'
 title: LA Makerspace
 uri: /organizations/la-makerspace/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
+extrapolated_project_ids:
+  - '5102168'
+project_titles_from_extrapolated_project_ids:
+  - Teach Kids Coding with Minecraft
 project_titles:
   - Teach Kids Coding with Minecraft
+project_titles_from_project_ids:
+  - Teach Kids Coding with Minecraft
+original_project_titles:
+  - Teach Kids Coding with Minecraft
+original_project_ids:
+  - '5102168'
 youtube_video_identifier: V0_Km6YYSbo
 
 ---

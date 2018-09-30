@@ -27,8 +27,19 @@ project_ids: '4102038'
 title: Friends of the Los Angeles River
 uri: /organizations/friends-of-the-los-angeles-river/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/rover.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Connecting LA to its River
+project_titles_from_project_ids:
+  - >-
+    City Year Los Angeles Expansion into two PLAS High Schools: Jordan and
+    Roosevelt
+original_project_titles:
+  - Connecting LA to its River
+original_project_ids:
+  - '4102076'
+project_titles_flagged: 1
 youtube_video_identifier: 5fr_Qf0ZQ7M
 
 ---

@@ -27,9 +27,18 @@ project_ids: '5102275'
 title: Southeast Asian Community Alliance (SEACA) and Public Counsel
 uri: /organizations/southeast-asian-community-alliance-seaca-and-public-counsel/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LARiverworks.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
   - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
+project_titles_from_project_ids:
+  - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
+original_project_titles:
+  - 'LA Riverworks: A Vision to Engage LA Communities in River Revitalization'
+original_project_ids:
+  - '4102195'
+project_titles_flagged: 1
 youtube_video_identifier: fMyc7c0Ylc4
 
 ---

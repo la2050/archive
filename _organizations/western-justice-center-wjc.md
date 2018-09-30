@@ -21,10 +21,23 @@ project_ids: '4102184'
 title: Western Justice Center (WJC)
 uri: /organizations/western-justice-center-wjc/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     No More Bullying Bias and Fights: Making Schools Safe for all Los Angeles
     Kids & Teachers
+project_titles_from_project_ids:
+  - >-
+    Sabio & Crossroads working together to incubate diverse tech talent in Los
+    Angeles.
+original_project_titles:
+  - >-
+    No More Bullying, Bias and Fights: Making Schools Safe for all Los Angeles
+    Kids & Teachers
+original_project_ids:
+  - '4102254'
+project_titles_flagged: 1
 youtube_video_identifier: FKuY_bTZzoM
 
 ---

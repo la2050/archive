@@ -5,7 +5,7 @@ title: Hacker Fund Civic Innovation Center
 project_summary: >-
   Hacker Fund is launching a Civic Innovation Center in order to provide
   Angelenos with resources for technology education, tools to prototype civic
-  innovations, and a community workspace. 
+  innovations, and a community workspace.
 Please describe the activation your organization seeks to launch.: >-
   Hacker Fund is building a Civic Innovation Center in order to provide
   Angelenos with technology education, tools to prototype and develop new civic
@@ -25,6 +25,7 @@ project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/hac
 project_video: 'https://vimeo.com/231126321'
 project_id_3: '8102050'
 year_submitted: 2018
+organization_name: Hacker Fund
 project_proposal_description: >-
   Hacker Fund is building a Civic Innovation Center in order to provide
   Angelenos with technology education, tools to prototype and develop new civic

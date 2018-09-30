@@ -45,6 +45,20 @@ project_ids: '8102058'
 title: Kounkuey Design Initiative
 uri: /organizations/kounkuey-design-initiative/
 challenge_url: 'https://activation.la2050.org/play/kounkuey-design-initiative/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'Play YOUR way, LA!'
+  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
+project_titles_from_project_ids:
+  - 'Play YOUR way, LA!'
+original_project_titles:
+  - 'Play YOUR way, LA!'
+  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
+original_project_ids:
+  - '4102106'
+  - '8102058'
+project_titles_flagged: 1
 category: play
 
 ---

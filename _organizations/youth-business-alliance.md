@@ -37,5 +37,23 @@ title: Youth Business Alliance
 uri: /organizations/youth-business-alliance/
 challenge_url: >-
   https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
+extrapolated_project_ids:
+  - '6102287'
+  - '5102344'
+project_titles_from_extrapolated_project_ids:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
+project_titles:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
+project_titles_from_project_ids:
+  - Empower low income youth to break out of the poverty cycle!
+original_project_titles:
+  - Empower low income youth to break out of the poverty cycle!
+  - YOUTH BUSINESS ALLIANCE
+original_project_ids:
+  - '5102344'
+  - '6102287'
+project_titles_flagged: 1
 
 ---

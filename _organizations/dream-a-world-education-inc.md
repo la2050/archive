@@ -25,10 +25,21 @@ project_ids: '4102123'
 title: 'Dream A World Education, Inc.'
 uri: /organizations/dream-a-world-education-inc/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Bringing the arts back to public education one school at a time one child at
     a time
+project_titles_from_project_ids:
+  - Open Grove
+original_project_titles:
+  - >-
+    Bringing the arts back to public education one school at a time, one child
+    at a time
+original_project_ids:
+  - '4102057'
+project_titles_flagged: 1
 maker_image_id: '22600'
 maker_image_file_name: Hearts9.jpg
 

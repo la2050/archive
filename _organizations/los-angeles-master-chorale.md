@@ -35,6 +35,18 @@ project_ids: '8102076'
 title: Los Angeles Master Chorale
 uri: /organizations/los-angeles-master-chorale/
 challenge_url: 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
+extrapolated_project_ids:
+  - '8102076'
+project_titles_from_extrapolated_project_ids:
+  - Big Sing LA
+project_titles:
+  - Big Sing LA
+project_titles_from_project_ids:
+  - Big Sing LA
+original_project_titles:
+  - Big Sing LA
+original_project_ids:
+  - '8102076'
 category: connect
 
 ---

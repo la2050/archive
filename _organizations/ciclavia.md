@@ -41,6 +41,37 @@ project_ids: '8102021'
 title: CicLAvia
 uri: /organizations/ciclavia/
 challenge_url: 'https://activation.la2050.org/connect/ciclavia/'
+extrapolated_project_ids:
+  - '8102021'
+  - '5102055'
+  - '3102061'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    CicLAvia: "When LA Listens" captures and tells the stories of the people and
+    places that is LA.
+  - 'CicLAvia: The Route to LA’s Future'
+  - 'CicLAvia: Get Connected LA'
+project_titles:
+  - >-
+    CicLAvia: "When LA Listens" captures and tells the stories of the people and
+    places that is LA.
+  - 'CicLAvia: Get Connected LA'
+  - 'CicLAvia: The Route to LA’s Future'
+project_titles_from_project_ids:
+  - >-
+    CicLAvia: "When LA Listens" captures and tells the stories of the people and
+    places that is LA.
+original_project_titles:
+  - >-
+    CicLAvia: "When LA Listens" captures and tells the stories of the people and
+    places that is LA.
+  - 'CicLAvia: Get Connected LA'
+  - 'CicLAvia: The Route to LA’s Future'
+original_project_ids:
+  - '3102061'
+  - '5102055'
+  - '8102021'
+project_titles_flagged: 1
 category: connect
 
 ---

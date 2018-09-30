@@ -28,6 +28,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/82
 project_video: 'https://youtu.be/4nRuPAZABus'
 project_id_3: '8102003'
 year_submitted: 2018
+organization_name: 826LA
 project_proposal_description: >-
   826LA will inspire Los Angeles residents to support local students through
   volunteering. 826LA will share student writing via a special-edition

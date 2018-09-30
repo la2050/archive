@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   LIFT-LA will transform the lives of 4,000 community members and influence
   100,000 Angelenos to break the cycle of intergenerational poverty for parents
-  and children. 
+  and children.
 Please describe the activation your organization seeks to launch.: >-
   LIFT-LA will launch the #upLIFTingLA campaign to change the perception of
   people living in poverty in order to build social and financial capital. The
@@ -71,6 +71,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=ms14tJAN0ls'
 project_id_3: '8102068'
 year_submitted: 2018
+organization_name: LIFT-Los Angeles
 project_proposal_description: >-
   LIFT-LA will launch the #upLIFTingLA campaign to change the perception of
   people living in poverty in order to build social and financial capital. The

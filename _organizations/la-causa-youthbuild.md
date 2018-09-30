@@ -56,8 +56,19 @@ project_ids: '3102169'
 title: LA CAUSA YouthBuild
 uri: /organizations/la-causa-youthbuild/
 challenge_url: 'http://maker.good.is/myla2050/projects/saladbowl.html'
+extrapolated_project_ids:
+  - '3102169'
+project_titles_from_extrapolated_project_ids:
+  - Youth Take Their Lives Off The Streets And Into Gardens
 project_titles:
   - Youth Take Their Lives Off The Streets And Into Gardens
+project_titles_from_project_ids:
+  - Youth Take Their Lives Off The Streets And Into Gardens
+original_project_titles:
+  - Make one Healthy Choice... Then Make Another.
+  - Young leaders of today to the leaders of 2050
+original_project_ids: []
+project_titles_flagged: 1
 maker_image_id: '16872'
 maker_image_file_name: health_diagram_en.jpg
 

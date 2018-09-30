@@ -25,8 +25,17 @@ project_ids: '4102083'
 title: Social Action Partners
 uri: /organizations/social-action-partners/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Stronger Together: South LA Nonprofits Get Capacity Fit'
+project_titles_from_project_ids:
+  - Ghetto Film School -- Los Angeles
+original_project_titles:
+  - 'Stronger Together: South LA Nonprofits Get Capacity Fit'
+original_project_ids:
+  - '4102193'
+project_titles_flagged: 1
 youtube_video_identifier: iHlwRhoV_78
 
 ---

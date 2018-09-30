@@ -25,8 +25,19 @@ project_ids: '4102084'
 title: South East European Film Festival
 uri: /organizations/south-east-european-film-festival/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - BALKAN - L.A. CULTURAL CROSSROADS
+project_titles_from_project_ids:
+  - >-
+    Through education communication & understanding we can make a difference in
+    LA...its in our GENE!
+original_project_titles:
+  - BALKAN - L.A. CULTURAL CROSSROADS
+original_project_ids:
+  - '4102194'
+project_titles_flagged: 1
 youtube_video_identifier: qtJ5XumU1Gw
 
 ---

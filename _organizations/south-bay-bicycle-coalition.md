@@ -30,6 +30,16 @@ project_ids: '8102111'
 title: South Bay Bicycle Coalition
 uri: /organizations/south-bay-bicycle-coalition/
 challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Activate South Bay LA Trails!
+project_titles_from_project_ids:
+  - Activate South Bay LA Trails!
+original_project_titles:
+  - Activate South Bay LA Trails!
+original_project_ids:
+  - '8102111'
 category: play
 
 ---

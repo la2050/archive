@@ -33,6 +33,16 @@ project_ids: '8102130'
 title: UCLA Mobile Eye Clinic (UMEC)
 uri: /organizations/ucla-mobile-eye-clinic-umec/
 challenge_url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'To see well is to live well. '
+project_titles_from_project_ids:
+  - 'To see well is to live well. '
+original_project_titles:
+  - To see well is to live well.
+original_project_ids:
+  - '8102130'
 category: live
 
 ---

@@ -28,6 +28,16 @@ project_ids: '8102118'
 title: 'The Burg, LLC'
 uri: /organizations/the-burg-llc/
 challenge_url: 'https://activation.la2050.org/connect/the-burg-llc/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'The Burg: LA''s Community Platform'
+project_titles_from_project_ids:
+  - 'The Burg: LA''s Community Platform'
+original_project_titles:
+  - 'The Burg: LA''s Community Platform'
+original_project_ids:
+  - '8102118'
 category: connect
 
 ---

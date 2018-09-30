@@ -32,5 +32,37 @@ title: Common Threads
 uri: /organizations/common-threads/
 challenge_url: >-
   https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
+extrapolated_project_ids:
+  - '6102049'
+  - '5102073'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Nutrition and Garden Education for Underserved Children - Common Threads
+    with The Kitchen Community
+  - >-
+    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
+    Families
+project_titles:
+  - >-
+    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
+    Families
+  - >-
+    Nutrition and Garden Education for Underserved Children - Common Threads
+    with The Kitchen Community
+project_titles_from_project_ids:
+  - >-
+    Nutrition and Garden Education for Underserved Children - Common Threads
+    with The Kitchen Community
+original_project_titles:
+  - >-
+    Common Threads’ Healthy Cooking and Nutrition Education for Kids and
+    Families 
+  - >-
+    Nutrition and Garden Education for Underserved Children - Common Threads
+    with The Kitchen Community
+original_project_ids:
+  - '5102073'
+  - '6102049'
+project_titles_flagged: 1
 
 ---

@@ -27,8 +27,19 @@ project_ids: '4102007'
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 uri: '/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/'
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'AnonymousGood: LAGood posts 50000 Acts of Good 4 LA2050'
+project_titles_from_project_ids:
+  - >-
+    A traveling documentary film festival revitalizing public spaces with free
+    community events.
+original_project_titles:
+  - 'AnonymousGood: LAGood posts 50,000 Acts of Good 4 LA2050  '
+original_project_ids:
+  - '4102009'
+project_titles_flagged: 1
 youtube_video_identifier: xzNGKe7E2iE
 
 ---

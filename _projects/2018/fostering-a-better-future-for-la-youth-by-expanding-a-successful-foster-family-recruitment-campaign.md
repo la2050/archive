@@ -32,6 +32,7 @@ project_image: >-
 project_video: 'https://youtu.be/JPeuzRmiI3w'
 project_id_3: '8102020'
 year_submitted: 2018
+organization_name: Tides Center dba Children's Action Network
 project_proposal_description: >-
   To help meet LA County’s urgent need for foster parents and mentors, the
   effort combines predictive analytics and powerful digital content to generate

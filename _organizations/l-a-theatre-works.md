@@ -30,5 +30,25 @@ title: L.A. Theatre Works
 uri: /organizations/l-a-theatre-works/
 challenge_url: >-
   https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
+extrapolated_project_ids:
+  - '6102117'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+    Creativity
+project_titles:
+  - >-
+    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+    Creativity
+project_titles_from_project_ids:
+  - >-
+    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+    Creativity
+original_project_titles:
+  - >-
+    Audio Theatre 2.0: An IT Platform for Audience Engagement and Student
+    Creativity
+original_project_ids:
+  - '6102117'
 
 ---

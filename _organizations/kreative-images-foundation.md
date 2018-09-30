@@ -55,8 +55,18 @@ project_ids: '3102065'
 title: Kreative Images Foundation
 uri: /organizations/kreative-images-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/C-360.html'
+extrapolated_project_ids:
+  - '3102065'
+project_titles_from_extrapolated_project_ids:
+  - Collaborative 360 — Creating Successful Pathways to 2050
 project_titles:
+  - Collaborative 360 — Creating Successful Pathways to 2050
+project_titles_from_project_ids:
   - Collaborative 360 â€“ Creating Successful Pathways to 2050
+original_project_titles:
+  - Collaborative 360 – Creating Successful Pathways to 2050
+original_project_ids: []
+project_titles_flagged: 1
 maker_image_id: '17017'
 maker_image_file_name: 360.png
 

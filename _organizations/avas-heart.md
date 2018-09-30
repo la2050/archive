@@ -27,5 +27,17 @@ project_ids: '6102014'
 title: Ava's Heart
 uri: /organizations/avas-heart/
 challenge_url: 'https://challenge.la2050.org/entry/the-transplant-journey'
+extrapolated_project_ids:
+  - '6102014'
+project_titles_from_extrapolated_project_ids:
+  - The Transplant Journey
+project_titles:
+  - The Transplant Journey
+project_titles_from_project_ids:
+  - The Transplant Journey
+original_project_titles:
+  - The Transplant Journey
+original_project_ids:
+  - '6102014'
 
 ---

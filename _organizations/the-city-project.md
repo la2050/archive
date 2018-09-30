@@ -41,10 +41,26 @@ project_ids: '3102246'
 title: The City Project
 uri: /organizations/the-city-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
+extrapolated_project_ids:
+  - '3102246'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Discovering LA’s Forgotten Landmarks: Celebrating Our Diverse Cultural
+    History
 project_titles:
+  - >-
+    Discovering LA’s Forgotten Landmarks: Celebrating Our Diverse Cultural
+    History
+project_titles_from_project_ids:
   - >-
     Discovering LAâ€™s Forgotten Landmarks: Celebrating Our Diverse Cultural
     History
+original_project_titles:
+  - >-
+    Discovering LA’s Forgotten Landmarks: Celebrating Our Diverse Cultural
+    History
+original_project_ids: []
+project_titles_flagged: 1
 maker_image_id: '16667'
 maker_image_file_name: Image.jpg
 

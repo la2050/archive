@@ -24,10 +24,21 @@ project_ids: '4102116'
 title: Boys & Girls Club of Hollywood
 uri: /organizations/boys-girls-club-of-hollywood/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
     Awareness Campaign
+project_titles_from_project_ids:
+  - Lab Equipment Access for LA Science Teachers
+original_project_titles:
+  - >-
+    IamLA- Inspiring the future generation of Angelenos with a youth-led STEAM
+    Awareness Campaign 
+original_project_ids:
+  - '4102026'
+project_titles_flagged: 1
 youtube_video_identifier: qBtFoJ-YYd0
 
 ---

@@ -30,6 +30,16 @@ project_ids: '8102039'
 title: Family Promise of the South Bay
 uri: /organizations/family-promise-of-the-south-bay/
 challenge_url: 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - TINY CITIES FOR L.A.’S HOMELESS
+project_titles_from_project_ids:
+  - TINY CITIES FOR L.A.â€™S HOMELESS
+original_project_titles:
+  - TINY CITIES FOR L.A.’S HOMELESS
+original_project_ids: []
+project_titles_flagged: 1
 category: live
 
 ---

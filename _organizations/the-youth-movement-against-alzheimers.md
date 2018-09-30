@@ -34,6 +34,16 @@ title: The Youth Movement Against Alzheimer’s
 uri: /organizations/the-youth-movement-against-alzheimers/
 challenge_url: >-
   https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - YouthCare - Intergenerational Respite Care
+project_titles_from_project_ids:
+  - YouthCare - Intergenerational Respite Care
+original_project_titles:
+  - 'YouthCare: Low-cost inter-generational care for those with dementia'
+original_project_ids: []
+project_titles_flagged: 1
 category: live
 
 ---

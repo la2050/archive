@@ -62,8 +62,18 @@ project_ids: '3102106'
 title: Thank You For Coming
 uri: /organizations/thank-you-for-coming/
 challenge_url: 'http://maker.good.is/myla2050/projects/thankyouforcoming.html'
+extrapolated_project_ids:
+  - '3102106'
+project_titles_from_extrapolated_project_ids:
+  - 'We are an experimental food and art space in Los Angeles. '
 project_titles:
   - 'We are an experimental food and art space in Los Angeles. '
+project_titles_from_project_ids:
+  - 'We are an experimental food and art space in Los Angeles. '
+original_project_titles:
+  - 'We are an experimental food and art space in Los Angeles. '
+original_project_ids:
+  - '3102106'
 maker_image_id: '16835'
 maker_image_file_name: kitchen2.jpg
 

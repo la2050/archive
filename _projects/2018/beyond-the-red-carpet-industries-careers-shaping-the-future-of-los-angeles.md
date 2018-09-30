@@ -36,6 +36,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=jT5D2oFUbpQ'
 project_id_3: '8102104'
 year_submitted: 2018
+organization_name: Roadtrip Nation
 project_proposal_description: >-
   Roadtrip Nation helps people from all walks of life find career pathways that
   match their interests through its public TV series and educational resources.

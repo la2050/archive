@@ -28,10 +28,21 @@ project_ids: '4102097'
 title: The Transit Coalition
 uri: /organizations/the-transit-coalition/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Fix our Traffic: Getting people to rapid transit stations one neighborhood
     at a time
+project_titles_from_project_ids:
+  - I’LL BE THE 1 2 SEE THE LIGHT
+original_project_titles:
+  - >-
+    Fix our Traffic: Getting people to rapid transit stations one neighborhood
+    at a time
+original_project_ids:
+  - '4102230'
+project_titles_flagged: 1
 maker_image_id: '20691'
 maker_image_file_name: Cars_Attribution_Biofriendly_Creative_Commons_license.jpeg
 

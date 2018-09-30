@@ -26,8 +26,16 @@ project_ids: '5102051'
 title: Change Better
 uri: /organizations/change-better/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
+project_titles_from_project_ids:
+  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
+original_project_titles:
+  - Training LA Nonprofits With The Best Ideas To Create The Biggest Impact
+original_project_ids:
+  - '5102051'
 maker_image_id: '23690'
 maker_image_file_name: Change_Better_Profile.jpg
 

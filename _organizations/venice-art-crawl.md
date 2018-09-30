@@ -38,8 +38,18 @@ project_ids: '3102271'
 title: Venice Art Crawl
 uri: /organizations/venice-art-crawl/
 challenge_url: 'http://maker.good.is/myla2050/projects/vacrainbarrels.html'
+extrapolated_project_ids:
+  - '3102271'
+project_titles_from_extrapolated_project_ids:
+  - Beautiful Rain Barrels in Public Places
 project_titles:
   - Beautiful Rain Barrels in Public Places
+project_titles_from_project_ids:
+  - Beautiful Rain Barrels in Public Places
+original_project_titles:
+  - Beautiful Rain Barrels in Public Places
+original_project_ids:
+  - '3102271'
 youtube_video_identifier: U3BkXd4ano4
 
 ---

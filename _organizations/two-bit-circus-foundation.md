@@ -35,6 +35,18 @@ project_ids: '8102128'
 title: Two Bit Circus Foundation
 uri: /organizations/two-bit-circus-foundation/
 challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - STEAM Carnival
+  - STEAM Carnival in South Los Angeles
+project_titles_from_project_ids:
+  - STEAM Carnival in South Los Angeles
+original_project_titles:
+  - STEAM Carnival in South Los Angeles
+original_project_ids:
+  - '8102128'
+project_titles_flagged: 1
 category: learn
 
 ---

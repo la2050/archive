@@ -27,10 +27,22 @@ project_ids: '5102225'
 title: P.F. Bresee Foundation
 uri: /organizations/p-f-bresee-foundation/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los
     Angeles
+project_titles_from_project_ids:
+  - >-
+    Bresee’s Safe Place to Play for over 2500 Youth and Families in Central Los
+    Angeles
+original_project_titles:
+  - >-
+    Bresee’s Safe Place to Play for over 2,500 Youth and Families in Central Los
+    Angeles
+original_project_ids:
+  - '5102225'
 youtube_video_identifier: yeyzmCpYfFk
 
 ---

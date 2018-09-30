@@ -32,5 +32,19 @@ project_ids: '6102082'
 title: Girls Inc. of Greater Los Angeles
 uri: /organizations/girls-inc-of-greater-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/girls-in-stem-club-network'
+extrapolated_project_ids:
+  - '6102082'
+project_titles_from_extrapolated_project_ids:
+  - Girls in STEM Club Network
+project_titles:
+  - Girls in STEM Club Network
+  - Inspiring girls to become entrepreneurs of the Future
+project_titles_from_project_ids:
+  - Girls in STEM Club Network
+original_project_titles:
+  - Girls in STEM Club Network
+original_project_ids:
+  - '6102082'
+project_titles_flagged: 1
 
 ---

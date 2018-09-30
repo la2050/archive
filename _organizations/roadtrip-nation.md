@@ -42,6 +42,20 @@ project_ids: '8102104'
 title: Roadtrip Nation
 uri: /organizations/roadtrip-nation/
 challenge_url: 'https://activation.la2050.org/create/roadtrip-nation/'
+extrapolated_project_ids:
+  - '8102104'
+project_titles_from_extrapolated_project_ids:
+  - "Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles\r\n"
+project_titles:
+  - "Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles\r\n"
+project_titles_from_project_ids:
+  - "Beyond the Red Carpet - Industries & Careers Shaping the Future of Los Angeles\r\n"
+original_project_titles:
+  - >-
+    Beyond the Red Carpet - Industries & Careers Shaping the Future of Los
+    Angeles
+original_project_ids:
+  - '8102104'
 category: create
 
 ---

@@ -28,8 +28,19 @@ project_ids: '4102048'
 title: L.A. Freewaves
 uri: /organizations/l-a-freewaves/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Out the Window
+project_titles_from_project_ids:
+  - >-
+    Practicing Good CITYzenship: Today’s Civic Action Project Builds Prosocial
+    Connections for LA2050
+original_project_titles:
+  - Out the Window
+original_project_ids:
+  - '4102108'
+project_titles_flagged: 1
 maker_image_id: '21306'
 maker_image_file_name: 12_Stills_from_videos.jpg
 

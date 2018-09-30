@@ -30,8 +30,18 @@ project_ids: '3102270'
 title: Valle Artists
 uri: /organizations/valle-artists/
 challenge_url: 'http://maker.good.is/myla2050/projects/Artistmovement.html'
+extrapolated_project_ids:
+  - '3102270'
+project_titles_from_extrapolated_project_ids:
+  - Art Revitalization Movement
 project_titles:
   - Art Revitalization Movement
+project_titles_from_project_ids:
+  - Art Revitalization Movement
+original_project_titles:
+  - Art Revitalization Movement
+original_project_ids:
+  - '3102270'
 youtube_video_identifier: rksqpbf13eo
 
 ---

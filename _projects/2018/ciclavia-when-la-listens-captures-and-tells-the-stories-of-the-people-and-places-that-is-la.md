@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   LA is a place we love - our people, our neighborhoods, and our experiences
   connect us. CicLAvia: "When LA Listens" captures and tells the stories of the
-  people and places that is LA. 
+  people and places that is LA.
 Please describe the activation your organization seeks to launch.: >-
   CicLAvia’s “When LA Listens” activation captures and shares the collective
   stories of LA and its people.  An online home will be created to amplify the
@@ -44,6 +44,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ci
 project_video: 'https://youtu.be/I7wQ8SasHfQ'
 project_id_3: '8102021'
 year_submitted: 2018
+organization_name: CicLAvia
 project_proposal_description: >-
   CicLAvia’s “When LA Listens” activation captures and shares the collective
   stories of LA and its people. An online home will be created to amplify the

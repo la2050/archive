@@ -30,6 +30,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=50O1szspYcg'
 project_id_3: '8102058'
 year_submitted: 2018
+organization_name: Kounkuey Design Initiative
 project_proposal_description: >-
   We’re asking you to nominate overlooked, underutilized everyday spaces in your
   neighborhood — a sidewalk, a vacant lot, a street — that YOU think would be

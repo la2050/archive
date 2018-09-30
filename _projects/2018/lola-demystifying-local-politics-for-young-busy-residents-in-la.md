@@ -23,6 +23,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102069'
 year_submitted: 2018
+organization_name: LOLA
 project_proposal_description: >-
   Many young Los Angelenos are disengaged in local elections, and they’re not
   alone. In LA’s 2017 mayoral race, only 12 percent of registered voters cast a

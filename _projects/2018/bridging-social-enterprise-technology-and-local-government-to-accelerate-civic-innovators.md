@@ -1,10 +1,13 @@
 ---
-project_id: ''
+project_id: '8102028'
 project_id_2: '8102028'
 title: >-
   Bridging social enterprise, technology, and local government to accelerate
   civic innovators.
-project_summary: ''
+project_summary: >-
+  Civic Innovation Lab facilitates cross-sector collaboration and the creation
+  of civic solutions through design challenges, structured programming, and
+  networking with public & private sector experts.
 Please describe the activation your organization seeks to launch.: >-
   Civic Innovation Lab seeks to harness the passion and ingenuity of our
   community members, the power of technology, and the expertise of our local
@@ -33,10 +36,12 @@ impact_metrics: ''
 make_la_great: ''
 category: create
 organization_id: ''
-project_image: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/civic-innovation-lab.jpg
 project_video: ''
 project_id_3: ''
 year_submitted: 2018
+organization_name: Civic Innovation Lab
 project_proposal_description: >-
   Civic Innovation Lab seeks to harness the passion and ingenuity of our
   community members, the power of technology, and the expertise of our local

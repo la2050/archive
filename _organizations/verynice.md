@@ -50,10 +50,29 @@ project_ids: '3102114'
 title: verynice
 uri: /organizations/verynice/
 challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'
+extrapolated_project_ids:
+  - '3102114'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
+    Nice.
 project_titles:
   - >-
     Helping Small Businesses and Independent Contractors in Los Angeles Be Very
     Nice.
+project_titles_from_project_ids:
+  - >-
+    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
+    Nice.
+original_project_titles:
+  - >-
+    Helping Small Businesses and Independent Contractors in Los Angeles Be Very
+    Nice.
+  - verynice
+  - verynice gives half of its work away for free to nonprofits
+original_project_ids:
+  - '3102114'
+project_titles_flagged: 1
 maker_image_id: '17230'
 maker_image_file_name: verynice.jpeg
 

@@ -25,8 +25,17 @@ project_ids: '4102124'
 title: NextStage Agency
 uri: /organizations/nextstage-agency/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'ART CITY LA: Citywide Showcase of Los Angeles Art Creativity & Culture'
+project_titles_from_project_ids:
+  - An Open Biology Lab for Everyone
+original_project_titles:
+  - 'ART CITY LA: Citywide Showcase of Los Angeles Art, Creativity & Culture'
+original_project_ids:
+  - '4102158'
+project_titles_flagged: 1
 youtube_video_identifier: JVyDVToMVoo
 
 ---

@@ -56,8 +56,21 @@ project_ids: '3102040'
 title: Evo Farm
 uri: /organizations/evo-farm/
 challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
+extrapolated_project_ids:
+  - '3102040'
+project_titles_from_extrapolated_project_ids:
+  - 25 Aquaponic Farms in 25 Schools
 project_titles:
   - 25 Aquaponic Farms in 25 Schools
+project_titles_from_project_ids:
+  - 25 Aquaponic Farms in 25 Schools
+original_project_titles:
+  - 25 Aquaponic Farms in 25 Schools
+  - 25 Aquaponic Farms in 25 Schools
+original_project_ids:
+  - '3102040'
+  - '3102040'
+project_titles_flagged: 1
 maker_image_id: '16774'
 maker_image_file_name: vertical_AP_kit_3.jpg
 

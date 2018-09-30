@@ -27,8 +27,16 @@ project_ids: '5102303'
 title: The Institute for Nonviolence in Los Angeles
 uri: /organizations/the-institute-for-nonviolence-in-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - The Peer Mediation Network
+project_titles_from_project_ids:
+  - The Peer Mediation Network
+original_project_titles:
+  - The Peer Mediation Network
+original_project_ids:
+  - '5102303'
 youtube_video_identifier: 69OXVYZ15kU
 
 ---

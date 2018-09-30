@@ -27,10 +27,22 @@ project_ids: '5102035'
 title: Breaking into Hollywood
 uri: /organizations/breaking-into-hollywood/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/STARS.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     STARS (Super Talented Artists Resource Studio) Fosters Artistic
     Entrepreneurship in L.A.
+project_titles_from_project_ids:
+  - >-
+    STARS (Super Talented Artists Resource Studio) Fosters Artistic
+    Entrepreneurship in L.A.
+original_project_titles:
+  - >-
+    STARS (Super Talented Artists' Resource Studio) Fosters Artistic
+    Entrepreneurship in L.A. 
+original_project_ids:
+  - '5102035'
 youtube_video_identifier: GLojtCpWaz4
 
 ---

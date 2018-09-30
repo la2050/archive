@@ -28,8 +28,16 @@ project_ids: '5102008'
 title: Academy of Music for the Blind
 uri: /organizations/academy-of-music-for-the-blind/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Music School for Blind Children
+project_titles_from_project_ids:
+  - Music School for Blind Children
+original_project_titles:
+  - Music School for Blind Children
+original_project_ids:
+  - '5102008'
 maker_image_id: '23208'
 maker_image_file_name: AMBgroupPic.jpg
 

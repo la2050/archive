@@ -35,5 +35,17 @@ title: STEM Advantage
 uri: /organizations/stem-advantage/
 challenge_url: >-
   https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
+extrapolated_project_ids:
+  - '6102218'
+project_titles_from_extrapolated_project_ids:
+  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
+project_titles:
+  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
+project_titles_from_project_ids:
+  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
+original_project_titles:
+  - 'STEM Advantage: Today''s students, tomorrow''s innovators!'
+original_project_ids:
+  - '6102218'
 
 ---

@@ -23,8 +23,18 @@ project_ids: '5102171'
 title: LACT - Los Angeles Community Theatre
 uri: /organizations/lact-los-angeles-community-theatre/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/LACT.html'
+extrapolated_project_ids:
+  - '5102171'
+project_titles_from_extrapolated_project_ids:
+  - LACT - Los Angeles Community Theatre
 project_titles:
   - LACT - Los Angeles Community Theatre
+project_titles_from_project_ids:
+  - LACT - Los Angeles Community Theatre
+original_project_titles:
+  - LACT - Los Angeles Community Theatre
+original_project_ids:
+  - '5102171'
 youtube_video_identifier: fRmzSDzuoRA
 
 ---

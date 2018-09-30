@@ -56,8 +56,18 @@ project_ids: '3102250'
 title: The Huntington-USC Institute on California and the West
 uri: /organizations/the-huntington-usc-institute-on-california-and-the-west/
 challenge_url: 'http://maker.good.is/myla2050/projects/LASA.html'
+extrapolated_project_ids:
+  - '3102250'
+project_titles_from_extrapolated_project_ids:
+  - The Los Angeles Service Academy
 project_titles:
   - The Los Angeles Service Academy
+project_titles_from_project_ids:
+  - The Los Angeles Service Academy
+original_project_titles:
+  - The Los Angeles Service Academy
+original_project_ids:
+  - '3102250'
 maker_image_id: '16261'
 maker_image_file_name: LASA_2012.jpg
 

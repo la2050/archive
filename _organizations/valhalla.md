@@ -39,8 +39,18 @@ project_ids: '3102269'
 title: ValhalLA
 uri: /organizations/valhalla/
 challenge_url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+extrapolated_project_ids:
+  - '3102269'
+project_titles_from_extrapolated_project_ids:
+  - 'SelfSustainable Artistic Community '
 project_titles:
   - 'SelfSustainable Artistic Community '
+project_titles_from_project_ids:
+  - 'SelfSustainable Artistic Community '
+original_project_titles:
+  - 'Self-Sustainable Artistic Community '
+original_project_ids: []
+project_titles_flagged: 1
 maker_image_id: '17236'
 maker_image_file_name: valhalla550.jpg
 

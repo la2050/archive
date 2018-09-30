@@ -28,5 +28,17 @@ project_ids: '6102008'
 title: Annenberg Innovation Lab
 uri: /organizations/annenberg-innovation-lab/
 challenge_url: 'https://challenge.la2050.org/entry/sankofa-city'
+extrapolated_project_ids:
+  - '6102008'
+project_titles_from_extrapolated_project_ids:
+  - Sankofa City
+project_titles:
+  - Sankofa City
+project_titles_from_project_ids:
+  - Sankofa City
+original_project_titles:
+  - Sankofa City
+original_project_ids:
+  - '6102008'
 
 ---

@@ -125,6 +125,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=GjY2oTPnxak'
 project_id_3: '8102064'
 year_submitted: 2018
+organization_name: Larchmont Charter School
 project_proposal_description: >-
   We will launch a way for ALL KIDS in Los Angeles to join a movement for social
   justice. We live in an unequal society and we see it on our streets every day.

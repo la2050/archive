@@ -47,8 +47,18 @@ project_ids: '3102112'
 title: UNITEDLAB
 uri: /organizations/unitedlab/
 challenge_url: 'http://maker.good.is/myla2050/projects/poroushousing.html'
+extrapolated_project_ids:
+  - '3102112'
+project_titles_from_extrapolated_project_ids:
+  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
 project_titles:
   - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
+project_titles_from_project_ids:
+  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
+original_project_titles:
+  - 'Porous Housing 2050: Housing Typology for DTLA in 2050'
+original_project_ids:
+  - '3102112'
 maker_image_id: '16553'
 maker_image_file_name: LA_2050__r.jpg
 

@@ -34,5 +34,17 @@ title: Future Fields
 uri: /organizations/future-fields/
 challenge_url: >-
   https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
+extrapolated_project_ids:
+  - '6102159'
+project_titles_from_extrapolated_project_ids:
+  - 'Future Scouts: 21st century survival skills for 21st century humans'
+project_titles:
+  - 'Future Scouts: 21st century survival skills for 21st century humans'
+project_titles_from_project_ids:
+  - 'Future Scouts: 21st century survival skills for 21st century humans'
+original_project_titles:
+  - 'Future Scouts: 21st century survival skills for 21st century humans'
+original_project_ids:
+  - '6102159'
 
 ---

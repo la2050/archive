@@ -21,8 +21,19 @@ project_ids: '4102168'
 title: 'The Exploratory: Maker Guilds'
 uri: /organizations/the-exploratory-maker-guilds/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102211'
+project_titles_from_extrapolated_project_ids:
+  - Tinker.Make.Innovate. Challenge
 project_titles:
   - Tinker.Make.Innovate. Challenge
+project_titles_from_project_ids:
+  - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
+original_project_titles:
+  - 'Tinker.Make.Innovate. Challenge '
+original_project_ids:
+  - '4102211'
+project_titles_flagged: 1
 youtube_video_identifier: 7nv6O3U7szc
 
 ---

@@ -35,6 +35,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=pnfEE7Dx14g'
 project_id_3: '8102135'
 year_submitted: 2018
+organization_name: Walk With Sally
 project_proposal_description: >-
   Our goal is to activate 200 new volunteers throughout this cancer community
   and beyond that will help support every child facing the trauma of a parent,

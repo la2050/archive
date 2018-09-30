@@ -28,6 +28,22 @@ project_ids: '8102092'
 title: One Degree
 uri: /organizations/one-degree/
 challenge_url: 'https://activation.la2050.org/live/one-degree/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
+project_titles_from_project_ids:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
+original_project_titles:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
+original_project_ids:
+  - '8102092'
 category: live
 
 ---

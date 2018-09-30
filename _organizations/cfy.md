@@ -24,8 +24,19 @@ project_ids: '4102120'
 title: CFY
 uri: /organizations/cfy/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102033'
+project_titles_from_extrapolated_project_ids:
+  - Transforming school communities through digital learning
 project_titles:
   - Transforming school communities through digital learning
+project_titles_from_project_ids:
+  - L.A. Futures
+original_project_titles:
+  - Transforming school communities through digital learning
+original_project_ids:
+  - '4102033'
+project_titles_flagged: 1
 youtube_video_identifier: HIVY5tBE450
 
 ---

@@ -47,6 +47,16 @@ title: 'Action Civics LA, an initiative of Mikva Challenge'
 uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
 challenge_url: >-
   https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Youth Voice 2020
+project_titles_from_project_ids:
+  - Youth Voice 2020
+original_project_titles:
+  - Youth Voice 2020
+original_project_ids:
+  - '8102005'
 category: connect
 
 ---

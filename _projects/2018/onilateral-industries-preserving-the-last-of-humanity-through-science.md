@@ -27,6 +27,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=M5Q0W1tCJVg'
 project_id_3: '8102009'
 year_submitted: 2018
+organization_name: Black Women for Wellness
 project_proposal_description: >-
   Black Women for Wellness (BWW) and the California League of Conservation
   Voters Education Fund (CLCVEF) will design a multimedia “Zombie Apocalypse”

@@ -44,8 +44,20 @@ project_ids: '3102252'
 title: The Learning Garden
 uri: /organizations/the-learning-garden/
 challenge_url: 'http://maker.good.is/myla2050/projects/Gardens.html'
+extrapolated_project_ids:
+  - '3102252'
+project_titles_from_extrapolated_project_ids:
+  - Gardens Gardens  Everywhere!
 project_titles:
   - Gardens Gardens  Everywhere!
+project_titles_from_project_ids:
+  - Gardens Gardens  Everywhere!
+original_project_titles:
+  - 'Gardens, Gardens - Everywhere!'
+  - The Learning Garden
+original_project_ids:
+  - '3102252'
+project_titles_flagged: 1
 maker_image_id: '16360'
 maker_image_file_name: Garden_Sign.png
 

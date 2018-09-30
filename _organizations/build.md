@@ -33,5 +33,17 @@ title: BUILD
 uri: /organizations/build/
 challenge_url: >-
   https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
+extrapolated_project_ids:
+  - '6102023'
+project_titles_from_extrapolated_project_ids:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
+project_titles:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
+project_titles_from_project_ids:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.'
+original_project_titles:
+  - 'BUILD Los Angeles: Entrepreneurship is the hook and college is the goal.  '
+original_project_ids:
+  - '6102023'
 
 ---

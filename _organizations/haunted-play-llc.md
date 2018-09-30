@@ -27,10 +27,21 @@ project_ids: '4102158'
 title: Haunted Play LLC
 uri: /organizations/haunted-play-llc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Interactive Live Theatre where the audience moves through the story and
     plays their part in the tale
+project_titles_from_project_ids:
+  - 'ART CITY LA: Citywide Showcase of Los Angeles Art Creativity & Culture'
+original_project_titles:
+  - >-
+    Interactive Live Theatre where the audience moves through the story and
+    plays their part in the tale
+original_project_ids:
+  - '5102127'
+project_titles_flagged: 1
 youtube_video_identifier: wGHuWyQEQIU
 
 ---

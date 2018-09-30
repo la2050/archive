@@ -40,5 +40,25 @@ title: 'Here to Serve, Inc'
 uri: /organizations/here-to-serve-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
+extrapolated_project_ids:
+  - '6102091'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Connecting communities of support with families who have a critically ill
+    young child or parent.
+project_titles:
+  - >-
+    Connecting communities of support with families who have a critically ill
+    young child or parent.
+project_titles_from_project_ids:
+  - >-
+    Connecting communities of support with families who have a critically ill
+    young child or parent.
+original_project_titles:
+  - >-
+    Connecting communities of support with families who have a critically ill
+    young child or parent.
+original_project_ids:
+  - '6102091'
 
 ---

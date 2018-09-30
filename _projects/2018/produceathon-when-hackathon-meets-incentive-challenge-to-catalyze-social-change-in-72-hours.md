@@ -35,6 +35,7 @@ project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/pro
 project_video: ''
 project_id_3: '8102097'
 year_submitted: 2018
+organization_name: ProduceAthon
 project_proposal_description: >-
   Our approach unites civic leaders, city innovations teams, social innovation
   partners, and individual creators and changemakers. Through our events, we

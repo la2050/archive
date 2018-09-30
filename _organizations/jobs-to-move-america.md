@@ -37,5 +37,17 @@ title: Jobs to Move America
 uri: /organizations/jobs-to-move-america/
 challenge_url: >-
   https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
+extrapolated_project_ids:
+  - '6102109'
+project_titles_from_extrapolated_project_ids:
+  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
+project_titles:
+  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
+project_titles_from_project_ids:
+  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
+original_project_titles:
+  - 'Electrify LA:  the Campaign for Clean Buses and Good Jobs'
+original_project_ids:
+  - '6102109'
 
 ---

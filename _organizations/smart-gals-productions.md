@@ -28,8 +28,16 @@ project_ids: '5102269'
 title: Smart Gals Productions
 uri: /organizations/smart-gals-productions/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Is.Was.Will Be.
+project_titles_from_project_ids:
+  - Is.Was.Will Be.
+original_project_titles:
+  - 'Is.Was.Will Be. '
+original_project_ids:
+  - '5102269'
 maker_image_id: '23815'
 maker_image_file_name: IsWasWillBe_SmartGals.jpg
 

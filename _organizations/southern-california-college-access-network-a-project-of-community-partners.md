@@ -31,10 +31,22 @@ title: 'Southern California College Access Network, a Project of Community Partn
 uri: >-
   /organizations/southern-california-college-access-network-a-project-of-community-partners/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Level Up: Students Organizations and Colleges Working Together For College
     Success!
+project_titles_from_project_ids:
+  - >-
+    Level Up: Students Organizations and Colleges Working Together For College
+    Success!
+original_project_titles:
+  - >-
+    Level Up: Students, Organizations, and Colleges Working Together For College
+    Success! 
+original_project_ids:
+  - '5102276'
 maker_image_id: '23240'
 maker_image_file_name: _MG_9694.JPG
 

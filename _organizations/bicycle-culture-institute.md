@@ -25,5 +25,27 @@ project_ids: '6102016'
 title: Bicycle Culture Institute
 uri: /organizations/bicycle-culture-institute/
 challenge_url: 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
+extrapolated_project_ids:
+  - '6102015'
+  - '6102016'
+project_titles_from_extrapolated_project_ids:
+  - LA Bike Fest
+  - LA Bike Trains - APP + Wayfinding Signage
+project_titles:
+  - LA Bike Fest
+  - LA Bike Trains - APP + Wayfinding Signage
+  - 'R5Y7: bici destino'
+project_titles_from_project_ids:
+  - LA Bike Trains - APP + Wayfinding Signage
+original_project_titles:
+  - LA Bike Fest
+  - LA Bike Trains - APP + Wayfinding Signage
+  - 'Life is Better with Bicycles; learning, playing and inspiring change.'
+  - 'R5Y7: bici destino'
+original_project_ids:
+  - '4102024'
+  - '6102015'
+  - '6102016'
+project_titles_flagged: 1
 
 ---

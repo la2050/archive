@@ -41,8 +41,18 @@ project_ids: '3102135'
 title: FSBCS dba Community Builders Resource Network (CBRN)
 uri: /organizations/fsbcs-dba-community-builders-resource-network-cbrn/
 challenge_url: 'http://maker.good.is/myla2050/projects/CBRN.html'
+extrapolated_project_ids:
+  - '3102135'
+project_titles_from_extrapolated_project_ids:
+  - Community Builders Resource Network (CBRN)
 project_titles:
   - Community Builders Resource Network (CBRN)
+project_titles_from_project_ids:
+  - Community Builders Resource Network (CBRN)
+original_project_titles:
+  - Community Builders Resource Network (CBRN)
+original_project_ids:
+  - '3102135'
 maker_image_id: '17060'
 maker_image_file_name: collaboration_statement.jpg
 

@@ -27,8 +27,16 @@ project_ids: '5102020'
 title: Arroyo Seco Foundation
 uri: /organizations/arroyo-seco-foundation/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Bring Back the River: Restoring the Los Angeles River Watershed'
+project_titles_from_project_ids:
+  - 'Bring Back the River: Restoring the Los Angeles River Watershed'
+original_project_titles:
+  - 'Bring Back the River: Restoring the Los Angeles River Watershed '
+original_project_ids:
+  - '5102020'
 youtube_video_identifier: ffK1mzyzUPE
 
 ---

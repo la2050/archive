@@ -25,5 +25,20 @@ title: Future Roots Inc.
 uri: /organizations/future-roots-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
+extrapolated_project_ids:
+  - '6102077'
+project_titles_from_extrapolated_project_ids:
+  - 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
+project_titles:
+  - 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
+project_titles_from_project_ids:
+  - 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
+original_project_titles:
+  - 'DUBLAB FM in Los Angeles: Connecting LA Residents Through Freeform Radio'
+  - SOUND SHARE LA
+original_project_ids:
+  - '3102115'
+  - '6102077'
+project_titles_flagged: 1
 
 ---

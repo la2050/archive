@@ -30,8 +30,16 @@ title: >-
 uri: >-
   /organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Rebuilding LA’s port communities one business at a time
+project_titles_from_project_ids:
+  - Rebuilding LA’s port communities one business at a time
+original_project_titles:
+  - Rebuilding LA’s port communities one business at a time
+original_project_ids:
+  - '4102170'
 youtube_video_identifier: zmZJYC2WFVk
 
 ---

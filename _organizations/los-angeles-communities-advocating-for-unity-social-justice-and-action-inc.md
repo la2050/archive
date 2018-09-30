@@ -32,8 +32,18 @@ title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action,
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
+extrapolated_project_ids:
+  - '3102183'
+project_titles_from_extrapolated_project_ids:
+  - Youth Take Their Lives Off The Streets And Into Gardens
 project_titles:
   - Youth Take Their Lives Off The Streets And Into Gardens
+project_titles_from_project_ids:
+  - Youth Take Their Lives Off The Streets And Into Gardens
+original_project_titles:
+  - Youth Take Their Lives Off The Streets And Into Gardens
+original_project_ids:
+  - '3102169'
 maker_image_id: '16688'
 maker_image_file_name: LA_CAUSA.jpg
 

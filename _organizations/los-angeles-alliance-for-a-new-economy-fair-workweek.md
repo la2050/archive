@@ -33,6 +33,19 @@ title: Los Angeles Alliance for a New Economy-Fair Workweek
 uri: /organizations/los-angeles-alliance-for-a-new-economy-fair-workweek/
 challenge_url: >-
   https://activation.la2050.org/connect/los-angeles-alliance-for-a-new-economy-fair-workweek/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Green Jobs in a Zero Waste LA
+  - Manufacturing Opportunities for Modern Day Rosies
+  - Open Grove
+  - Retail Workers “R” LA
+project_titles_from_project_ids:
+  - "Retail Workers â€œRâ€\x9D LA"
+original_project_titles:
+  - Retail Workers “R” LA
+original_project_ids: []
+project_titles_flagged: 1
 category: connect
 
 ---

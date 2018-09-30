@@ -50,6 +50,28 @@ project_ids: '8102114'
 title: Surf Bus Foundation
 uri: /organizations/surf-bus-foundation/
 challenge_url: 'https://activation.la2050.org/play/surf-bus-foundation/'
+extrapolated_project_ids:
+  - '6102221'
+project_titles_from_extrapolated_project_ids:
+  - 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
+project_titles:
+  - >-
+    Surf Bus and partners present: Splash Force LA, a comprehensive guide to
+    beach access and ocean play
+  - 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
+project_titles_from_project_ids:
+  - >-
+    Surf Bus and partners present: Splash Force LA, a comprehensive guide to
+    beach access and ocean play
+original_project_titles:
+  - >-
+    Surf Bus and partners present: Splash Force LA, a comprehensive guide to
+    beach access and ocean play
+  - 'Theraputic Ocean Engagement: Surfing (T.O.E.S. as in, on the nose!)'
+original_project_ids:
+  - '6102221'
+  - '8102114'
+project_titles_flagged: 1
 category: play
 
 ---

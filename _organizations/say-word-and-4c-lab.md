@@ -35,5 +35,25 @@ title: Say Word and 4C LAB
 uri: /organizations/say-word-and-4c-lab/
 challenge_url: >-
   https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
+extrapolated_project_ids:
+  - '6102204'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    MERGE: LA youth collaborating through spoken word & dance to build empathy,
+    literacy and confidence.
+project_titles:
+  - >-
+    MERGE: LA youth collaborating through spoken word & dance to build empathy,
+    literacy and confidence.
+project_titles_from_project_ids:
+  - >-
+    MERGE: LA youth collaborating through spoken word & dance to build empathy,
+    literacy and confidence.
+original_project_titles:
+  - >-
+    MERGE: LA youth collaborating through spoken word & dance to build empathy,
+    literacy and confidence.
+original_project_ids:
+  - '6102204'
 
 ---

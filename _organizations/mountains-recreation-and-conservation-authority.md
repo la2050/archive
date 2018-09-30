@@ -29,9 +29,20 @@ project_ids: '5102211'
 title: Mountains Recreation and Conservation Authority
 uri: /organizations/mountains-recreation-and-conservation-authority/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/FRANKLINIVAR.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - El Dorado Park Project (Stormwater Arroyo)
   - Franklin-Ivar Park project
+project_titles_from_project_ids:
+  - Franklin-Ivar Park project
+original_project_titles:
+  - El Dorado Park Project (Stormwater Arroyo)
+  - Franklin-Ivar Park project
+original_project_ids:
+  - '5102211'
+  - '5102212'
+project_titles_flagged: 1
 maker_image_id: '23990'
 maker_image_file_name: LA2050_EDP_Stormwater_Improvements_Final_2015-10-6-01.png
 

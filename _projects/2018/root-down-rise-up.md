@@ -51,6 +51,7 @@ project_image: >-
 project_video: 'https://youtu.be/4gShI4Plo2I'
 project_id_3: '8102085'
 year_submitted: 2018
+organization_name: 'Multicultural Communities for Mobility, a project of Community Partners'
 project_proposal_description: >-
   Two “Street Beats” events will celebrate community history, people, and place
   through music, food, storytelling, safe street simulations, and communal art

@@ -32,6 +32,31 @@ project_ids: '8102084'
 title: 'Move LA, a project of Community Partners'
 uri: /organizations/move-la-a-project-of-community-partners/
 challenge_url: 'https://activation.la2050.org/live/move-la-a-project-of-community-partners/'
+extrapolated_project_ids:
+  - '3102199'
+project_titles_from_extrapolated_project_ids:
+  - Student Eco Riders
+project_titles:
+  - Dream Big With @movelatransit
+  - Student Eco Riders
+  - Universal Student Transit Passes for LA Community Colleges
+  - >-
+    Vision 2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
+    Pollution & Climate Change!
+project_titles_from_project_ids:
+  - >-
+    Vision 2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
+    Pollution & Climate Change!
+original_project_titles:
+  - >-
+    #Vision2020: An Achievable Plan to Save Us All from Air Toxins, Diesel
+    Pollution & Climate Change!
+  - Student Eco Riders
+  - Universal Student Transit Passes for LA Community Colleges
+original_project_ids:
+  - '3102199'
+  - '5102213'
+project_titles_flagged: 1
 category: live
 
 ---

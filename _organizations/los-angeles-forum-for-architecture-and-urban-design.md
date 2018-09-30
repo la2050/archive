@@ -54,8 +54,18 @@ project_ids: '3102186'
 title: Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/los-angeles-forum-for-architecture-and-urban-design/
 challenge_url: 'http://maker.good.is/myla2050/projects/stimulateLA.html'
+extrapolated_project_ids:
+  - '3102186'
+project_titles_from_extrapolated_project_ids:
+  - S(t)imulate LA
 project_titles:
   - S(t)imulate LA
+project_titles_from_project_ids:
+  - S(t)imulate LA
+original_project_titles:
+  - S(t)imulate LA
+original_project_ids:
+  - '3102186'
 maker_image_id: '16640'
 maker_image_file_name: game_on_LA2050_resized.jpg
 

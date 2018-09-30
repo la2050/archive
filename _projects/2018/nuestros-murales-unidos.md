@@ -39,6 +39,7 @@ project_image: >-
 project_video: 'https://youtu.be/__37Jfcwzr8'
 project_id_3: '8102140'
 year_submitted: 2018
+organization_name: Youth Policy Institute
 project_proposal_description: >-
   Nuestros Murales Unidos will activate communities in Pico-Union and Westlake
   to beautify neighborhoods and unite people through public art, working with

@@ -26,10 +26,22 @@ project_ids: '5102277'
 title: Southern California Water Committee
 uri: /organizations/southern-california-water-committee/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Making California Friendly Plants Mainstream to Drought Proof Southern
     California
+project_titles_from_project_ids:
+  - >-
+    Making California Friendly Plants Mainstream to Drought Proof Southern
+    California
+original_project_titles:
+  - >-
+    Making California Friendly Plants Mainstream to Drought Proof Southern
+    California
+original_project_ids:
+  - '5102277'
 youtube_video_identifier: mvOTPkbwJJU
 
 ---

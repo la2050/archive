@@ -48,6 +48,20 @@ project_ids: '8102035'
 title: East LA Community Corporation (ELACC)
 uri: /organizations/east-la-community-corporation-elacc/
 challenge_url: 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
+extrapolated_project_ids:
+  - '3102117'
+project_titles_from_extrapolated_project_ids:
+  - 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
+project_titles:
+  - 'LA Street Vendors: A Better Economy through LowIncome Entrepreneurs'
+  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
+project_titles_from_project_ids:
+  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
+original_project_titles:
+  - 'LA Street Vendors: Building an Inclusive Economy for the Future City'
+original_project_ids:
+  - '8102035'
+project_titles_flagged: 1
 category: create
 
 ---

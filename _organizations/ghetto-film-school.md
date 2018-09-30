@@ -28,8 +28,21 @@ project_ids: '4102041'
 title: Ghetto Film School
 uri: /organizations/ghetto-film-school/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
+extrapolated_project_ids:
+  - '4102083'
+project_titles_from_extrapolated_project_ids:
+  - Ghetto Film School -- Los Angeles
 project_titles:
   - Ghetto Film School -- Los Angeles
+project_titles_from_project_ids:
+  - >-
+    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
+    Colleges in LA County
+original_project_titles:
+  - Ghetto Film School -- Los Angeles
+original_project_ids:
+  - '4102083'
+project_titles_flagged: 1
 maker_image_id: '21361'
 maker_image_file_name: GFS_PHOTO_1.png
 

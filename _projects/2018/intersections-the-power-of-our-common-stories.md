@@ -29,6 +29,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/im
 project_video: 'https://www.youtube.com/watch?v=RBbjWQRI1Lc'
 project_id_3: '8102054'
 year_submitted: 2018
+organization_name: Imagine LA
 project_proposal_description: >-
   Sharing stories and making connections is essential to developing the trusting
   mentor/mentee relationships that pull a vulnerable family out of the cycle of

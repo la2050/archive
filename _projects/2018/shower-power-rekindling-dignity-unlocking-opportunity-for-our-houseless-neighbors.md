@@ -44,6 +44,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la
 project_video: 'https://www.youtube.com/watch?v=Uxp2LencnXs'
 project_id_3: '8102066'
 year_submitted: 2018
+organization_name: Lava Mae
 project_proposal_description: >-
   What if you couldn’t shower? How would you feel? How would people treat you?
   Would you be able to keep your job or apply for one? Access to hygiene is

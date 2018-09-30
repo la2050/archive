@@ -37,5 +37,25 @@ title: EMX Los Angeles
 uri: /organizations/emx-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
+extrapolated_project_ids:
+  - '6102138'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
+    through Electronic Music
+project_titles:
+  - >-
+    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
+    through Electronic Music
+project_titles_from_project_ids:
+  - >-
+    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
+    through Electronic Music
+original_project_titles:
+  - >-
+    EMX LA & NoHo ArtWalk: A Platform for Educating & Engaging the Community
+    through Electronic Music
+original_project_ids:
+  - '6102138'
 
 ---

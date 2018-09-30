@@ -2,7 +2,10 @@
 project_id: '8102055'
 project_id_2: '8102055'
 title: 'More than Minivans: the Female Future of Transportation'
-project_summary: ''
+project_summary: >-
+  Our activation will combine new data and new voices from women to influence
+  policy and investments for a transportation system that serves and strengthens
+  our entire region.
 Please describe the activation your organization seeks to launch.: ''
 Describe in greater detail how your activation will make LA the best place?: ''
 How will your activation engage Angelenos to make LA the best place: ''
@@ -19,6 +22,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=p_hZaJvzgqE'
 project_id_3: '8102055'
 year_submitted: 2018
+organization_name: Investing in Place
 project_proposal_description: >-
   We envision a Los Angeles transportation system that intentionally connects
   the travel needs of women and mothers with policymakers’ planning, funding,

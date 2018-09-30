@@ -85,6 +85,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=6iKW4H-17BA'
 project_id_3: '8102133'
 year_submitted: 2018
+organization_name: University of Southern California
 project_proposal_description: >-
   The Neighborhood Data for Social Change (NDSC) platform will activate informed
   and engaged LA County neighborhoods through data analysis and storytelling. By

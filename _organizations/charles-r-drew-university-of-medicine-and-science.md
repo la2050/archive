@@ -44,6 +44,22 @@ title: Charles R. Drew University of Medicine and Science
 uri: /organizations/charles-r-drew-university-of-medicine-and-science/
 challenge_url: >-
   https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    Saturday Science Academy II: Preparing the Next Generation of STEM & Health
+    Care Leaders
+project_titles_from_project_ids:
+  - >-
+    Saturday Science Academy II: Preparing the Next Generation of STEM & Health
+    Care Leaders
+original_project_titles:
+  - >-
+    Saturday Science Academy II: Preparing the Next Generation of STEM & Health
+    Care Leaders
+original_project_ids:
+  - '8102017'
 category: learn
 
 ---

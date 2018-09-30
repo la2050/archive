@@ -32,5 +32,21 @@ title: Cornerstone Theater Company
 uri: /organizations/cornerstone-theater-company/
 challenge_url: >-
   https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
+extrapolated_project_ids:
+  - '6102055'
+project_titles_from_extrapolated_project_ids:
+  - Shared Space for Community Engaged Creative Practice
+project_titles:
+  - Shared Space for Community Engaged Creative Practice
+project_titles_from_project_ids:
+  - Shared Space for Community Engaged Creative Practice
+original_project_titles:
+  - >-
+    National Advocacy and Training - Spreading the work of LA's Day Laborer
+    Theater Without Borders
+  - Shared Space for Community Engaged Creative Practice
+original_project_ids:
+  - '6102055'
+project_titles_flagged: 1
 
 ---

@@ -33,5 +33,29 @@ title: The Academy Project
 uri: /organizations/the-academy-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
+extrapolated_project_ids:
+  - '6102235'
+  - '5102295'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Supporting LA's foster youth by creating a dependable community built on
+    trust and consistency.
+  - The Academy Project--Helping Foster Youth THRIVE!!
+project_titles:
+  - >-
+    Supporting LA's foster youth by creating a dependable community built on
+    trust and consistency.
+  - The Academy Project--Helping Foster Youth THRIVE!!
+project_titles_from_project_ids:
+  - >-
+    Supporting LA's foster youth by creating a dependable community built on
+    trust and consistency.
+original_project_titles:
+  - >-
+    Supporting LA's foster youth by creating a dependable community built on
+    trust and consistency.
+original_project_ids:
+  - '6102235'
+project_titles_flagged: 1
 
 ---

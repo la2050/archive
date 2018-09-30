@@ -40,5 +40,23 @@ project_ids: '6102018'
 title: Big Sunday
 uri: /organizations/big-sunday/
 challenge_url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
+extrapolated_project_ids:
+  - '6102018'
+  - '3102033'
+project_titles_from_extrapolated_project_ids:
+  - Connecting Community Through Color
+  - Engaging the Reluctant Volunteer
+project_titles:
+  - Connecting Community Through Color
+  - Engaging the Reluctant Volunteer
+project_titles_from_project_ids:
+  - Connecting Community Through Color
+original_project_titles:
+  - Connecting Community Through Color
+  - Engaging the Reluctant Volunteer
+original_project_ids:
+  - '3102033'
+  - '6102018'
+project_titles_flagged: 1
 
 ---

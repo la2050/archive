@@ -27,10 +27,26 @@ project_ids: '3102110'
 title: ThrdPlace
 uri: /organizations/thrdplace/
 challenge_url: 'http://maker.good.is/myla2050/projects/thrdPlace.html'
+extrapolated_project_ids:
+  - '3102110'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    At thrdPlace our idea for LA2050 is to provide the digital infrastructure
+    for community development
 project_titles:
   - >-
     At thrdPlace our idea for LA2050 is to provide the digital infrastructure
     for community development
+project_titles_from_project_ids:
+  - >-
+    At thrdPlace our idea for LA2050 is to provide the digital infrastructure
+    for community development
+original_project_titles:
+  - >-
+    At thrdPlace, our idea for LA2050 is to provide the digital infrastructure
+    for community development
+original_project_ids:
+  - '3102110'
 youtube_video_identifier: jUd4odIOyuc
 
 ---

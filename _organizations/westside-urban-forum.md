@@ -29,5 +29,25 @@ title: Westside Urban Forum
 uri: /organizations/westside-urban-forum/
 challenge_url: >-
   https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
+extrapolated_project_ids:
+  - '6102280'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Let’s gather Westside stakeholders to connect and establish common ground
+    across city limits.
+project_titles:
+  - >-
+    Let’s gather Westside stakeholders to connect and establish common ground
+    across city limits.
+project_titles_from_project_ids:
+  - >-
+    Let’s gather Westside stakeholders to connect and establish common ground
+    across city limits.
+original_project_titles:
+  - >-
+    Let’s gather Westside stakeholders to connect and establish common ground
+    across city limits.
+original_project_ids:
+  - '6102280'
 
 ---

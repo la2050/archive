@@ -26,6 +26,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/city-
 project_video: 'https://youtu.be/dUZCmEGdjvM'
 project_id_3: '8102023'
 year_submitted: 2018
+organization_name: City Fabrick
 project_proposal_description: >-
   IN House will be a collaboration between City Fabrick, affordable housing
   providers, community partners, and local residents to collaboratively guide a

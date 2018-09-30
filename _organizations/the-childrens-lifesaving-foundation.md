@@ -31,5 +31,32 @@ title: The Children's Lifesaving Foundation
 uri: /organizations/the-childrens-lifesaving-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
+extrapolated_project_ids:
+  - '6102238'
+  - '5102298'
+project_titles_from_extrapolated_project_ids:
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing
+    recharging & play!
+project_titles:
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing
+    recharging & play!
+  - Coding is Cool Workshop & Initiative!
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+project_titles_from_project_ids:
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+original_project_titles:
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing,
+    recharging & play!
+  - Coding is Cool Workshop & Initiative!
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+original_project_ids:
+  - '4102209'
+  - '5102298'
+  - '6102238'
+project_titles_flagged: 1
 
 ---

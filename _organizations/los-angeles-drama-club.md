@@ -24,10 +24,25 @@ project_ids: '4102151'
 title: Los Angeles Drama Club
 uri: /organizations/los-angeles-drama-club/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102130'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn
+    create and grow
 project_titles:
   - >-
     Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn
     create and grow
+project_titles_from_project_ids:
+  - Buy a paleta and secure a womans future.
+original_project_titles:
+  - >-
+    Los Angeles Drama Club: A Creative Home for Young Shakespearians to learn,
+    create and grow
+original_project_ids:
+  - '4102130'
+project_titles_flagged: 1
 youtube_video_identifier: 79DqmMTV8-Y
 
 ---

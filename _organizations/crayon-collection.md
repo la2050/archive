@@ -42,6 +42,30 @@ project_ids: '8102032'
 title: Crayon Collection
 uri: /organizations/crayon-collection/
 challenge_url: 'https://activation.la2050.org/learn/crayon-collection/'
+extrapolated_project_ids:
+  - '8102032'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools. 
+project_titles:
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools. 
+project_titles_from_project_ids:
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools. 
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools. 
+original_project_titles:
+  - >-
+    Crayon Collection: prevent waste in landfills; increase arts education in
+    low income schools.
+original_project_ids:
+  - '8102032'
+project_titles_flagged: 1
 category: learn
 
 ---

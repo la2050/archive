@@ -22,6 +22,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/re
 project_video: 'https://www.youtube.com/watch?v=rdB1z_4U_0A'
 project_id_3: '8102102'
 year_submitted: 2018
+organization_name: REGIONAL.LA
 project_proposal_description: >-
   Regional.LA will launch a campaign to connect the 2000+ governmental agencies
   & bodies within Los Angeles County with the residents they serve via tailored

@@ -25,10 +25,21 @@ project_ids: '5102254'
 title: Localism Inc.
 uri: /organizations/localism-inc/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
     local economy
+project_titles_from_project_ids:
+  - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
+original_project_titles:
+  - >-
+    MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
+    local economy
+original_project_ids:
+  - '5102181'
+project_titles_flagged: 1
 youtube_video_identifier: TNz5Q0G-KAs
 
 ---

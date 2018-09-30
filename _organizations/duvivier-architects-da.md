@@ -24,8 +24,19 @@ project_ids: '5102091'
 title: Duvivier Architects (DA)
 uri: /organizations/duvivier-architects-da/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - GRID Project to Get Freight Containers Off Freeways
+project_titles_from_project_ids:
+  - >-
+    Making the next generation of creativity accessible to anyone with a 3D
+    Printing Makerspace!
+original_project_titles:
+  - Los Angeles Beaches Forever
+original_project_ids:
+  - '4102196'
+project_titles_flagged: 1
 youtube_video_identifier: fAQOxqwuIHk
 
 ---

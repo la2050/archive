@@ -33,6 +33,26 @@ project_ids: '8102051'
 title: Harlem Lacrosse - Los Angeles
 uri: /organizations/harlem-lacrosse-los-angeles/
 challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    Every Angeleno is an all star on our team. Help HL - LA build our home field
+    advantage! 
+project_titles_from_project_ids:
+  - >-
+    Every Angeleno is an all star on our team. Help HL - LA build our home field
+    advantage! 
+  - >-
+    Every Angeleno is an all star on our team. Help HL - LA build our home field
+    advantage! 
+original_project_titles:
+  - >-
+    Every Angeleno is an all star on our team. Help HL - LA build our home field
+    advantage!
+original_project_ids:
+  - '8102051'
+project_titles_flagged: 1
 category: learn
 
 ---

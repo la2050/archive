@@ -27,8 +27,17 @@ title: >-
 uri: >-
   /organizations/streetsblog-los-angeles-los-angeles-walks-place-it-longbeachize-santa-monica-next/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'LA Agri-Corps: Youth HEALers for Food Justice'
+project_titles_from_project_ids:
+  - Frogtown Ribbon Gardens
+original_project_titles:
+  - 'Vision Zero Los Angeles: safe streets for healthy living'
+original_project_ids:
+  - '4102267'
+project_titles_flagged: 1
 maker_image_id: '21490'
 maker_image_file_name: Screen_Shot_2014-07-31_at_9.15.53_AM.png
 

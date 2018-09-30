@@ -34,6 +34,26 @@ project_ids: '8102029'
 title: Common Sense
 uri: /organizations/common-sense/
 challenge_url: 'https://activation.la2050.org/learn/common-sense/'
+extrapolated_project_ids:
+  - '8102029'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Closing the Digital Equity Gap for Underserved Latino Families with Common
+    Sense
+project_titles:
+  - >-
+    Closing the Digital Equity Gap for Underserved Latino Families with Common
+    Sense
+project_titles_from_project_ids:
+  - >-
+    Closing the Digital Equity Gap for Underserved Latino Families with Common
+    Sense
+original_project_titles:
+  - >-
+    Closing the Digital Equity Gap for Underserved Latino Families with Common
+    Sense
+original_project_ids:
+  - '8102029'
 category: learn
 
 ---

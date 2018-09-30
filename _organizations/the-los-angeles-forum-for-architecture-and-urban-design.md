@@ -21,8 +21,17 @@ project_ids: '4102172'
 title: The Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/the-los-angeles-forum-for-architecture-and-urban-design/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Seafood for the Future
+project_titles_from_project_ids:
+  - Proktr LA is bringing art and design to everyday life.
+original_project_titles:
+  - 'Mobile Forum: Architecture and Urbanism To-Go'
+original_project_ids:
+  - '4102217'
+project_titles_flagged: 1
 youtube_video_identifier: tgVu1wy15RQ
 
 ---

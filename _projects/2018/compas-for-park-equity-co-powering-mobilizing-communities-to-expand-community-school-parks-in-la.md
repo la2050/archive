@@ -31,6 +31,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=J2ZWX_tk4BU'
 project_id_3: '8102095'
 year_submitted: 2018
+organization_name: People for Parks
 project_proposal_description: >-
   PFP is mobilizing for more play in LA. Through digital and grassroots
   activism, we launched COMPAS, a movement of school staff, parents, neighbors

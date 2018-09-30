@@ -30,5 +30,29 @@ title: Patrick Henry Foundation
 uri: /organizations/patrick-henry-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
+extrapolated_project_ids:
+  - '6102176'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+    Program
+project_titles:
+  - Learning Through Dual Language Immersion
+  - >-
+    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+    Program
+project_titles_from_project_ids:
+  - >-
+    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+    Program
+original_project_titles:
+  - Learning Through Dual Language Immersion
+  - >-
+    The Bilingual Scientists, Engineers, Mathematicians and Innovators (SEMI)
+    Program
+original_project_ids:
+  - '5102231'
+  - '6102176'
+project_titles_flagged: 1
 
 ---

@@ -25,8 +25,19 @@ project_ids: '4102121'
 title: ChapCare
 uri: /organizations/chapcare/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102034'
+project_titles_from_extrapolated_project_ids:
+  - 'Prototypes: Integrated Health Care for Women and Their Children'
 project_titles:
   - 'Prototypes: Integrated Health Care for Women and Their Children'
+project_titles_from_project_ids:
+  - Health Care for 1 Million Uninsured Los Angeles Residents
+original_project_titles:
+  - Spreading ChapCare's Retail Health Insurance Enrollment Shop Model
+original_project_ids:
+  - '4102220'
+project_titles_flagged: 1
 maker_image_id: '21436'
 maker_image_file_name: March_31_2014_at_5pm.jpeg
 

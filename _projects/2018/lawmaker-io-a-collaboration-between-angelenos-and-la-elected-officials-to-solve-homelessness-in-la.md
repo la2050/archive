@@ -39,6 +39,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la
 project_video: 'https://www.youtube.com/watch?v=mH8x6av0XTA'
 project_id_3: '8102067'
 year_submitted: 2018
+organization_name: LawMaker.io
 project_proposal_description: >-
   LawMaker is planning a 1-year collaboration between elected officials and
   residents to tackle homelessness in LA. This 12-month discussion will be

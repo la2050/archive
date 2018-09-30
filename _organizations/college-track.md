@@ -31,5 +31,38 @@ title: College Track
 uri: /organizations/college-track/
 challenge_url: >-
   https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
+extrapolated_project_ids:
+  - '6102047'
+  - '5102071'
+  - '4102043'
+  - '3102082'
+project_titles_from_extrapolated_project_ids:
+  - 'College Track: Developing purpose-driven leaders to transform LA'
+  - Ensuring Boyle Heights 12th Graders Graduate From College
+  - >-
+    How To Increase The Percentage Of Underserved Youth Graduating From College
+    in Boyle Heights
+  - 'College Track: Creating a Pathway to College in Boyle Heights'
+project_titles:
+  - 'College Track: Creating a Pathway to College in Boyle Heights'
+  - 'College Track: Developing purpose-driven leaders to transform LA'
+  - Ensuring Boyle Heights 12th Graders Graduate From College
+  - >-
+    How To Increase The Percentage Of Underserved Youth Graduating From College
+    in Boyle Heights
+project_titles_from_project_ids:
+  - 'College Track: Developing purpose-driven leaders to transform LA'
+original_project_titles:
+  - College Track
+  - 'College Track: Creating a Pathway to College in Boyle Heights'
+  - 'College Track: Developing purpose-driven leaders to transform LA'
+  - >-
+    How To Increase The Percentage Of Underserved Youth Graduating From College
+    in Boyle Heights
+original_project_ids:
+  - '3102082'
+  - '4102043'
+  - '6102047'
+project_titles_flagged: 1
 
 ---

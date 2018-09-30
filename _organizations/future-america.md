@@ -34,6 +34,22 @@ project_ids: '8102042'
 title: Future America
 uri: /organizations/future-america/
 challenge_url: 'https://activation.la2050.org/learn/future-america/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
+    Ensemble of SF. LJYE.com
+project_titles_from_project_ids:
+  - >-
+    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
+    Ensemble of SF. LJYE.com
+original_project_titles:
+  - >-
+    The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
+    Ensemble of SF.
+original_project_ids: []
+project_titles_flagged: 1
 category: learn
 
 ---

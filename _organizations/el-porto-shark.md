@@ -31,5 +31,17 @@ title: El Porto Shark
 uri: /organizations/el-porto-shark/
 challenge_url: >-
   https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
+extrapolated_project_ids:
+  - '6102135'
+project_titles_from_extrapolated_project_ids:
+  - 'Save sharks, fisheries, and keep L.A. weather nice!'
+project_titles:
+  - 'Save sharks, fisheries, and keep L.A. weather nice!'
+project_titles_from_project_ids:
+  - 'Save sharks, fisheries, and keep L.A. weather nice!'
+original_project_titles:
+  - 'Save sharks, fisheries, and keep L.A. weather nice!'
+original_project_ids:
+  - '6102135'
 
 ---

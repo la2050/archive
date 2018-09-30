@@ -53,6 +53,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=-aFvxFfQick'
 project_id_3: '8102030'
 year_submitted: 2018
+organization_name: 'Connect to Compete, Inc (EveryoneOn)'
 project_proposal_description: >-
   EveryoneOn would like to launch the local effort of our Digital Equity
   Champions initiative seeking to identify established touchpoints in community

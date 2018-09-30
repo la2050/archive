@@ -30,5 +30,17 @@ title: Melrose Elementary PTO
 uri: /organizations/melrose-elementary-pto/
 challenge_url: >-
   https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
+extrapolated_project_ids:
+  - '6102153'
+project_titles_from_extrapolated_project_ids:
+  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
+project_titles:
+  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
+project_titles_from_project_ids:
+  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
+original_project_titles:
+  - 'Melrose Elementary Technology Program: Creating the Future Leaders of LA'
+original_project_ids:
+  - '6102153'
 
 ---

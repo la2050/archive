@@ -28,6 +28,7 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/th
 project_video: 'https://www.youtube.com/watch?v=DNPNUbNOQ48'
 project_id_3: '8102118'
 year_submitted: 2018
+organization_name: 'The Burg, LLC'
 project_proposal_description: >-
   We envision people using The Burg as the interactive, online home for their
   community. There is one common ground all people have: we care about where we

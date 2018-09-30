@@ -51,6 +51,7 @@ project_image: >-
 project_video: 'https://youtu.be/p_JwubxZcKA'
 project_id_3: '8102056'
 year_submitted: 2018
+organization_name: Justice LA | Dignity and Power Now
 project_proposal_description: >-
   Using art as a catalyst for civic engagement, Justice LA will launch
   exhibitions in spaces featuring jail beds as a powerful visual to raise

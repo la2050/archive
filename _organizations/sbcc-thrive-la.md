@@ -29,9 +29,18 @@ project_ids: '5102262'
 title: SBCC Thrive LA
 uri: /organizations/sbcc-thrive-la/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Preschool Without Walls
   - Streetcraft LA
+project_titles_from_project_ids:
+  - Preschool Without Walls
+original_project_titles:
+  - Preschool Without Walls
+original_project_ids:
+  - '5102262'
+project_titles_flagged: 1
 youtube_video_identifier: Hey6DKTLdw8
 
 ---

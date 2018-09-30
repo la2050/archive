@@ -17,7 +17,7 @@ tags_indicators:
 twitter:
   - '@NDSC_LA'
   - '@USCPriceCSI'
-instagram: 0
+instagram: ''
 facebook: 'https://www.facebook.com/PriceSocialInnovation'
 org_type: Nonprofit
 project_image: >-
@@ -45,6 +45,26 @@ project_ids: '8102133'
 title: University of Southern California
 uri: /organizations/university-of-southern-california/
 challenge_url: 'https://activation.la2050.org/connect/university-of-southern-california/'
+extrapolated_project_ids:
+  - '6102273'
+project_titles_from_extrapolated_project_ids:
+  - Open Ballot LA
+project_titles:
+  - Leveraging Neighborhood Data to Activate Local Change
+  - Open Ballot LA
+  - The Trust for Public Land’s Avalon Green Alley Demonstration Project
+project_titles_from_project_ids:
+  - Leveraging Neighborhood Data to Activate Local Change
+original_project_titles:
+  - Block LA
+  - 'Learn, Share, Inspire'
+  - Leveraging Neighborhood Data to Activate Local Change
+  - Open Ballot LA
+original_project_ids:
+  - '4102125'
+  - '6102273'
+  - '8102133'
+project_titles_flagged: 1
 category: connect
 
 ---

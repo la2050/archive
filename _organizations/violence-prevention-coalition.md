@@ -28,8 +28,17 @@ project_ids: '4102104'
 title: Violence Prevention Coalition
 uri: /organizations/violence-prevention-coalition/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - LA for Youth
+project_titles_from_project_ids:
+  - The TALK Project
+original_project_titles:
+  - LA for Youth
+original_project_ids:
+  - '4102252'
+project_titles_flagged: 1
 maker_image_id: '20605'
 maker_image_file_name: RallyinLA.jpg
 

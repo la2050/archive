@@ -36,5 +36,17 @@ title: WeThrive
 uri: /organizations/wethrive/
 challenge_url: >-
   https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
+extrapolated_project_ids:
+  - '6102281'
+project_titles_from_extrapolated_project_ids:
+  - Youth Mentoring and Entrepreneurship Program for Middle School Students
+project_titles:
+  - Youth Mentoring and Entrepreneurship Program for Middle School Students
+project_titles_from_project_ids:
+  - Youth Mentoring and Entrepreneurship Program for Middle School Students
+original_project_titles:
+  - Youth Mentoring and Entrepreneurship Program for Middle School Students
+original_project_ids:
+  - '6102281'
 
 ---

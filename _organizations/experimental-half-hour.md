@@ -25,8 +25,17 @@ project_ids: '4102035'
 title: Experimental Half-Hour
 uri: /organizations/experimental-half-hour/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Los Angeles Media Lab
+project_titles_from_project_ids:
+  - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
+original_project_titles:
+  - Los Angeles Media Lab
+original_project_ids:
+  - '4102068'
+project_titles_flagged: 1
 youtube_video_identifier: DiU_9RR7ZvY
 
 ---

@@ -29,8 +29,17 @@ project_ids: '5102147'
 title: 'Grow Games Interactive, Growcology'
 uri: /organizations/grow-games-interactive-growcology/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Seeds the Game: Community Jams'
+project_titles_from_project_ids:
+  - Giving Students Power Over Numbers and Power Over Learning
+original_project_titles:
+  - 'Seeds the Game: Community Jams'
+original_project_ids:
+  - '4102089'
+project_titles_flagged: 1
 maker_image_id: '22335'
 maker_image_file_name: volunteer-photo.jpg
 

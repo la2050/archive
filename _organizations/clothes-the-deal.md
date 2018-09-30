@@ -26,11 +26,30 @@ project_ids: '5102069'
 title: Clothes The Deal
 uri: /organizations/clothes-the-deal/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
+extrapolated_project_ids:
+  - '5102069'
+  - '4102040'
+project_titles_from_extrapolated_project_ids:
+  - Employment Enhancement Project
+  - >-
+    Solar in the Sunshine Capital: LA is known for its abundant sun. Let’s put
+    it to use.
 project_titles:
   - Employment Enhancement Project
   - >-
     Solar in the Sunshine Capital: LA is known for its abundant sun. Let’s put
     it to use.
+project_titles_from_project_ids:
+  - Employment Enhancement Project
+original_project_titles:
+  - 'Clothes The Deal: Dismantling Barriers to Employment'
+  - 'Clothes The Deal: Dismantling Barriers to Employment'
+  - Employment Enhancement Project
+original_project_ids:
+  - '4102142'
+  - '4102142'
+  - '5102069'
+project_titles_flagged: 1
 youtube_video_identifier: myUKgR-PO4c
 
 ---

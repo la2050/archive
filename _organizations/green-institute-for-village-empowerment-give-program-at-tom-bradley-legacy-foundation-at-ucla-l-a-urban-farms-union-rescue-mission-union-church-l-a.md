@@ -32,8 +32,16 @@ title: >-
 uri: >-
   /organizations/green-institute-for-village-empowerment-give-program-at-tom-bradley-legacy-foundation-at-ucla-l-a-urban-farms-union-rescue-mission-union-church-l-a/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GIVEUrbanfarms.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Sustainable Community Urban Farms Initiative
+project_titles_from_project_ids:
+  - Sustainable Community Urban Farms Initiative
+original_project_titles:
+  - Sustainable Community Urban Farms Initiative
+original_project_ids:
+  - '5102118'
 maker_image_id: '23569'
 maker_image_file_name: towergarden.jpg
 

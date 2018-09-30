@@ -27,8 +27,21 @@ project_ids: '4102071'
 title: PortTech Los Angeles
 uri: /organizations/porttech-los-angeles/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Rebuilding LA’s port communities one business at a time
+project_titles_from_project_ids:
+  - >-
+    FLY Yoga Arts: Enhancing LAUSD Arts Education with Integrated Mindfulness
+    Movement & Creative Play
+original_project_titles:
+  - Rebuilding LA’s port communities one business at a time
+  - Rebuilding LA’s port communities one business at a time
+original_project_ids:
+  - '4102170'
+  - '4102170'
+project_titles_flagged: 1
 youtube_video_identifier: zmZJYC2WFVk
 
 ---

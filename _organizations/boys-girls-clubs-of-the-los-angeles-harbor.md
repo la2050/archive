@@ -24,8 +24,19 @@ project_ids: '4102117'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 uri: /organizations/boys-girls-clubs-of-the-los-angeles-harbor/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - College Bound
+project_titles_from_project_ids:
+  - >-
+    Creating Community With L.A.s Cultural Center for the Middle East/North
+    Africa
+original_project_titles:
+  - College Bound
+original_project_ids:
+  - '4102027'
+project_titles_flagged: 1
 youtube_video_identifier: sI0_dZ4TpAA
 
 ---

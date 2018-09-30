@@ -30,6 +30,28 @@ title: Neighborhood Housing Services of Los Angeles County
 uri: /organizations/neighborhood-housing-services-of-los-angeles-county/
 challenge_url: >-
   https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
+extrapolated_project_ids:
+  - '8102089'
+  - '6102165'
+project_titles_from_extrapolated_project_ids:
+  - Center for Sustainable Communities - Compton
+  - Center for Sustainable Communities
+project_titles:
+  - Center for Sustainable Communities
+  - Center for Sustainable Communities - Compton
+  - Center for Sustainable Communities in Compton CA
+  - The Center for Sustainable Communities in Compton CA
+project_titles_from_project_ids:
+  - Center for Sustainable Communities - Compton
+original_project_titles:
+  - 'Center for Sustainable Communities '
+  - Center for Sustainable Communities - Compton
+  - 'Center for Sustainable Communities in Compton, CA'
+original_project_ids:
+  - '4102155'
+  - '6102165'
+  - '8102089'
+project_titles_flagged: 1
 category: live
 
 ---

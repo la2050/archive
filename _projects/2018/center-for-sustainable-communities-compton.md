@@ -28,6 +28,7 @@ project_image: >-
 project_video: 'https://youtu.be/W_HksfcqY6U'
 project_id_3: '8102089'
 year_submitted: 2018
+organization_name: Neighborhood Housing Services of Los Angeles County
 project_proposal_description: >-
   Utilizing the model of 'What Makes A Community?' as our focus, NHS is working
   with the City of Compton, Pacific Coast Regional, and METRO CDC to create a

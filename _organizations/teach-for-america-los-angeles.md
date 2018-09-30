@@ -37,5 +37,42 @@ title: Teach For America-Los Angeles
 uri: /organizations/teach-for-america-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
+extrapolated_project_ids:
+  - '6102230'
+  - '4102204'
+  - '3102242'
+project_titles_from_extrapolated_project_ids:
+  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
+  - >-
+    Teach For America - Los Angeles: Transforming the Young Students of Today
+    into the Leaders of 2050
+  - >-
+    Enlisting our city’s most promising future leaders in the fight for
+    educational equity
+project_titles:
+  - >-
+    Enlisting our city’s most promising future leaders in the fight for
+    educational equity
+  - >-
+    Teach For America - Los Angeles: Transforming the Young Students of Today
+    into the Leaders of 2050
+  - >-
+    Teach For America: Growing the pipeline of DACAmented teachers for LA
+    students
+  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
+project_titles_from_project_ids:
+  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
+original_project_titles:
+  - >-
+    Enlisting our city’s most promising future leaders in the fight for
+    educational equity
+  - >-
+    Teach For America - Los Angeles: Transforming the Young Students of Today
+    into the Leaders of 2050
+  - Trauma-Informed Teaching Initiative; A Win For Teachers and Students
+original_project_ids:
+  - '4102204'
+  - '6102230'
+project_titles_flagged: 1
 
 ---

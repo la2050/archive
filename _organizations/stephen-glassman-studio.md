@@ -57,8 +57,18 @@ project_ids: '3102098'
 title: Stephen Glassman Studio
 uri: /organizations/stephen-glassman-studio/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'
+extrapolated_project_ids:
+  - '3102098'
+project_titles_from_extrapolated_project_ids:
+  - URBAN AIR
 project_titles:
   - URBAN AIR
+project_titles_from_project_ids:
+  - URBAN AIR
+original_project_titles:
+  - URBAN AIR
+original_project_ids:
+  - '3102098'
 youtube_video_identifier: cWwkZlNW9ng
 
 ---

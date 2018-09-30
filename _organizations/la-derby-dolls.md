@@ -31,5 +31,25 @@ title: LA Derby Dolls
 uri: /organizations/la-derby-dolls/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
+extrapolated_project_ids:
+  - '6102120'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
+    Sports
+project_titles:
+  - >-
+    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
+    Sports
+project_titles_from_project_ids:
+  - >-
+    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
+    Sports
+original_project_titles:
+  - >-
+    LA Derby Dolls: Promoting Social and Emotional Support Through Women's Team
+    Sports
+original_project_ids:
+  - '6102120'
 
 ---

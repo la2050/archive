@@ -56,6 +56,7 @@ project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/comm
 project_video: 'https://www.youtube.com/watch?v=0ZmDMvQPyoE'
 project_id_3: '8102029'
 year_submitted: 2018
+organization_name: Common Sense
 project_proposal_description: >-
   48 percent of LA's population and 65 percent of students enrolled in public
   schools are Latino. Common Sense’s free English and Spanish-language online

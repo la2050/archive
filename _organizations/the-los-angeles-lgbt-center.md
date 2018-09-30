@@ -21,8 +21,17 @@ project_ids: '4102174'
 title: The Los Angeles LGBT Center
 uri: /organizations/the-los-angeles-lgbt-center/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Project SPIN: Suicide Prevention Intervention Now'
+project_titles_from_project_ids:
+  - Creating Opportunities For Physical Activity (COPA) - Peer Coach PE Program
+original_project_titles:
+  - 'Project SPIN: Suicide Prevention Intervention Now'
+original_project_ids:
+  - '4102223'
+project_titles_flagged: 1
 youtube_video_identifier: lg-vCWbUV8s
 
 ---

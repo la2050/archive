@@ -27,8 +27,16 @@ project_ids: '5102336'
 title: Urban Word Los Angeles
 uri: /organizations/urban-word-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - LA Youth Poet Ambassadors
+project_titles_from_project_ids:
+  - LA Youth Poet Ambassadors
+original_project_titles:
+  - LA Youth Poet Ambassadors
+original_project_ids:
+  - '5102336'
 youtube_video_identifier: WendT0Sm-Tk
 
 ---

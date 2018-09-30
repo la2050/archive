@@ -32,6 +32,16 @@ uri: >-
   /organizations/multicultural-communities-for-mobility-a-project-of-community-partners/
 challenge_url: >-
   https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Root down! Rise up!
+project_titles_from_project_ids:
+  - Root down! Rise up!
+original_project_titles:
+  - Root down! Rise up!
+original_project_ids:
+  - '8102085'
 category: connect
 
 ---

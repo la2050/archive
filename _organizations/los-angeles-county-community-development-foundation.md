@@ -27,10 +27,21 @@ project_ids: '4102150'
 title: Los Angeles County Community Development Foundation
 uri: /organizations/los-angeles-county-community-development-foundation/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Project: SCHOLARS - empowering college and college bound students of all
     ages to succeed
+project_titles_from_project_ids:
+  - LA Childrens Garden an Eden Project for Los Angeles.
+original_project_titles:
+  - >-
+    Project: SCHOLARS - empowering college and college bound students of all
+    ages to succeed
+original_project_ids:
+  - '4102128'
+project_titles_flagged: 1
 maker_image_id: '22531'
 maker_image_file_name: Photo_Collage_v6.jpg
 

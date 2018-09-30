@@ -46,8 +46,21 @@ project_ids: '3102122'
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
 uri: /organizations/el-rio-schools-mind-fit-education-for-the-21st-century/
 challenge_url: 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
+extrapolated_project_ids:
+  - '3102122'
+project_titles_from_extrapolated_project_ids:
+  - 'Mindful Education for LAUSD '
 project_titles:
   - 'Mindful Education for LAUSD '
+project_titles_from_project_ids:
+  - 'Mindful Education for LAUSD '
+original_project_titles:
+  - 'Mindful Education for LAUSD '
+  - 'Mindful Education for LAUSD '
+original_project_ids:
+  - '3102122'
+  - '3102122'
+project_titles_flagged: 1
 maker_image_id: '17107'
 maker_image_file_name: rachelschmid.elrio.jpg
 

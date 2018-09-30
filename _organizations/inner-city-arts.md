@@ -32,5 +32,17 @@ title: Inner-City Arts
 uri: /organizations/inner-city-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
+extrapolated_project_ids:
+  - '6102103'
+project_titles_from_extrapolated_project_ids:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
+project_titles:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
+project_titles_from_project_ids:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
+original_project_titles:
+  - Providing Access to the Arts and the Endless Possibilities They Offer
+original_project_ids:
+  - '6102103'
 
 ---

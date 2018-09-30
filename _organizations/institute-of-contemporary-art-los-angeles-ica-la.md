@@ -31,5 +31,17 @@ project_ids: '6102104'
 title: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 uri: /organizations/institute-of-contemporary-art-los-angeles-ica-la/
 challenge_url: 'https://challenge.la2050.org/entry/agency-of-assets'
+extrapolated_project_ids:
+  - '6102104'
+project_titles_from_extrapolated_project_ids:
+  - Agency of Assets
+project_titles:
+  - Agency of Assets
+project_titles_from_project_ids:
+  - Agency of Assets
+original_project_titles:
+  - Agency of Assets
+original_project_ids:
+  - '6102104'
 
 ---

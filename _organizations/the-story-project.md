@@ -26,8 +26,18 @@ project_ids: '5102312'
 title: The Story Project
 uri: /organizations/the-story-project/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
+extrapolated_project_ids:
+  - '5102312'
+project_titles_from_extrapolated_project_ids:
+  - The Story Project
 project_titles:
   - The Story Project
+project_titles_from_project_ids:
+  - The Story Project
+original_project_titles:
+  - The Story Project
+original_project_ids:
+  - '5102312'
 youtube_video_identifier: BnbLK2sxsXI
 
 ---

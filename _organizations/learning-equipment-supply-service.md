@@ -25,8 +25,19 @@ project_ids: '4102143'
 title: Learning Equipment Supply Service
 uri: /organizations/learning-equipment-supply-service/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Lab Equipment Access for LA Science Teachers
+project_titles_from_project_ids:
+  - >-
+    L.A.W.N. Los Angeles Water Network: A digital platform to help solve our
+    water crisis
+original_project_titles:
+  - Lab Equipment Access for LA Science Teachers
+original_project_ids:
+  - '4102116'
+project_titles_flagged: 1
 maker_image_id: '21591'
 maker_image_file_name: less.png
 

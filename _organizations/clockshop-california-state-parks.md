@@ -29,5 +29,17 @@ title: Clockshop & California State Parks
 uri: /organizations/clockshop-california-state-parks/
 challenge_url: >-
   https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
+extrapolated_project_ids:
+  - '6102042'
+project_titles_from_extrapolated_project_ids:
+  - Laying the Groundwork for a Park on the LA River
+project_titles:
+  - Laying the Groundwork for a Park on the LA River
+project_titles_from_project_ids:
+  - Laying the Groundwork for a Park on the LA River
+original_project_titles:
+  - Laying the Groundwork for a Park on the LA River
+original_project_ids:
+  - '6102042'
 
 ---

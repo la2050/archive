@@ -25,8 +25,21 @@ project_ids: '4102215'
 title: The Alternative Travel Project
 uri: /organizations/the-alternative-travel-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
+extrapolated_project_ids:
+  - '4102206'
+project_titles_from_extrapolated_project_ids:
+  - The Alternative Travel Project - Go car FREE for just ONE day!
 project_titles:
   - The Alternative Travel Project - Go car FREE for just ONE day!
+project_titles_from_project_ids:
+  - 'HOPSCOTCH: A MOBILE OPERA AND POP-UP SPACE'
+original_project_titles:
+  - The Alternative Travel Project
+  - The Alternative Travel Project - Go car FREE for just ONE day!
+original_project_ids:
+  - '4102206'
+  - '5102296'
+project_titles_flagged: 1
 youtube_video_identifier: u0DYRf98w-o
 
 ---

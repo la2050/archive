@@ -80,6 +80,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=2x_ao5Cxho8'
 project_id_3: '8102052'
 year_submitted: 2018
+organization_name: Health Core Possibilities
 project_proposal_description: >-
   Engaging all Angelenos especially Latinos to drive while using a multilingual
   distracted driving prevention app will move the transit score moving the

@@ -29,6 +29,16 @@ title: Long Beach Downtown Development Corporation
 uri: /organizations/long-beach-downtown-development-corporation/
 challenge_url: >-
   https://activation.la2050.org/create/long-beach-downtown-development-corporation/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - The Sustainable Tech Intellectual Property Education Series (STIPES)
+project_titles_from_project_ids:
+  - The Sustainable Tech Intellectual Property Education Series (STIPES)
+original_project_titles:
+  - The Sustainable Tech Intellectual Property Education Series (STIPES)
+original_project_ids:
+  - '8102071'
 category: create
 
 ---

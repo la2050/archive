@@ -28,6 +28,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=IVHAVDZAcFk'
 project_id_3: '8102088'
 year_submitted: 2018
+organization_name: 'National Veterans Transition Services, Inc. AKA REBOOT'
 project_proposal_description: >-
   To “Carry Forward” means to make progress in addressing some of the issues
   that veterans and other Angelenos face every day. Collaborative efforts can
