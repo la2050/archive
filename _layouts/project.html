@@ -369,42 +369,190 @@ stylesheets:
 
 {% if page.maker_answers_list %}
 
+{% if page.year_submitted == 2013 %}
+
+<div class="proposal-answers">
+
+<h3>What is your idea and how will it impact your indicator?</h3>
+{{ page.maker_answers.description1 | markdownify }}
+
+<h3>What are some of your organization’s most important achievements to date? </h3>
+{{ page.maker_answers.description | markdownify }}
+
+<h3>Please identify any partners or collaborators who will work with you on this project.</h3>
+{{ page.maker_answers.collaborators | markdownify }}
+
+<h3>Please explain how you will evaluate your project. How will you measure success?</h3>
+{{ page.maker_answers.success | markdownify }}
+
+<h3>How will your project benefit Los Angeles? Please be specific.</h3>
+{{ page.maker_answers.brief | markdownify }}
+
+<h3>What would success look like in the year 2050 regarding your indicator?</h3>
+{{ page.maker_answers.vision | markdownify }}
+
+</div>
+
+{% elsif page.year_submitted == 2014 %}
+
+<div class="proposal-answers">
+
+<h3>In one sentence, please describe your idea or project.</h3>
+{{ page.maker_answers.describe_idea | markdownify }}
+
+{% comment %}
+<h3>Does your project impact Los Angeles County? Check only one.</h3>
+
+
+<h3>Which area(s) of LA does your project benefit? Check all that apply.</h3>
+
+
+<h3>If other, please specify.:</h3>
+
+{% endcomment %}
+
+<h3>What is your idea/project in more detail?</h3>
+{{ page.maker_answers.more_detail | markdownify }}
+
+<h3>What will you do to implement this idea/project?</h3>
+{{ page.maker_answers.implement | markdownify }}
+
+
+{% if page.maker_answers.impact_learn %}
+
+<h3>How will your idea/project help make LA the best place to LEARN today? In 2050?</h3>
+{{ page.maker_answers.impact_learn | markdownify }}
+
+{% elsif page.maker_answers.impact_create %}
+<h3>How will your idea/project help make LA the best place to CREATE today? In 2050?</h3>
+{{ page.maker_answers.impact_create | markdownify }}
+
+{% elsif page.maker_answers.impact_play %}
+<h3>How will your idea/project help make LA the best place to PLAY today? In 2050?</h3>
+{{ page.maker_answers.impact_play | markdownify }}
+
+{% elsif page.maker_answers.impact_connect %}
+<h3>How will your idea/project help make LA the best place to CONNECT today? In 2050?</h3>
+{{ page.maker_answers.impact_connect | markdownify }}
+
+{% elsif page.maker_answers.impact_live %}
+<h3>How will your idea/project help make LA the healthiest place to LIVE today? In 2050?</h3>
+{{ page.maker_answers.impact_live | markdownify }}
+
+{% endif %}
+
+
+<h3>Whom will your project benefit? Please be specific. </h3>
+{{ page.maker_answers.who_benefit | markdownify }}
+
+<h3>Please identify any partners or collaborators who will work with you on this project.</h3>
+{% if page.maker_answers.collaboration %}
+  {{ page.maker_answers.collaboration | markdownify }}
+{% else %}
+  {{ page.maker_answers.partners_collaboration | markdownify }}
+{% endif %}
+
+{% comment %}
+<h3>How will your project impact the LA2050 "LIVE" metrics?</h3>
+
+
+<h3>If other, please specify.:</h3>
+
+{% endcomment %}
+
+<h3>Please elaborate on how your project will impact the above metrics.</h3>
+{{ page.maker_answers.impact_metrics | markdownify }}
+
+{% comment %}
+<h3>Please select which other LA2050 Goals are relevant to your project or organization (check all that apply):</h3>
+
+{% endcomment %}
+
+<h3>Please explain how you will evaluate your project.</h3>
+{{ page.maker_answers.evaluate | markdownify }}
+
+<h3>What two lessons have informed your solution or project?</h3>
+{{ page.maker_answers.two_lessons | markdownify }}
+
+<h3>Explain how implementing your project within the next twelve months is an achievable goal. </h3>
+{{ page.maker_answers.achievable_goal | markdownify }}
+
+<h3>Please list at least two major barriers/challenges you anticipate. What is your strategy for ensuring a successful implementation?</h3>
+{{ page.maker_answers.major_challenges | markdownify }}
+
+{% comment %}
+<h3>What resources does your project need? (check all that apply)</h3>
+
+{% endcomment %}
+
+</div>
+
+
+
+{% elsif page.year_submitted == 2015 %}
+
+<div class="proposal-answers">
+
+<h3>In one sentence, please describe what your organization does.</h3>
+{{ page.maker_answers["In one sentence, please describe what your organization does."] | markdownify }}
+
+<h3>In one to three sentences, please describe your proposal.</h3>
+{{ page.maker_answers["In one to three sentences, please describe your proposal."] | markdownify }}
+
+{% comment %}
+<h3>Where will you be working? Please be specific (e.g. Third Street Middle School; Boyle Heights; LA County).</h3>
+
+
+<h3>How do you plan to use these resources to make change? (check all that apply)</h3>
+
+
+<h3>How will your proposal improve the following “Live” metrics? (check all that apply)</h3>
+
+{% endcomment %}
+
+{% if page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO LEARN."] %}
+<h3>DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO LEARN.</h3>
+{{ page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO LEARN."] | markdownify }}
+
+{% elsif page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO CREATE."] %}
+<h3>DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO CREATE.</h3>
+{{ page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO CREATE."] | markdownify }}
+
+{% elsif page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO PLAY."] %}
+<h3>DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO PLAY.</h3>
+{{ page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO PLAY."] | markdownify }}
+
+{% elsif page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO CONNECT."] %}
+<h3>DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO CONNECT.</h3>
+{{ page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE BEST PLACE TO CONNECT."] | markdownify }}
+
+{% elsif page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE:"] %}
+<h3>DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE:</h3>
+{{ page.maker_answers["DESCRIBE IN GREATER DETAIL HOW YOU WILL MAKE LA THE HEALTHIEST PLACE TO LIVE:"] | markdownify }}
+
+{% endif %}
+
+<h3>Please explain how you will evaluate your work.</h3>
+{{ page.maker_answers["Please explain how you will evaluate your work."] | markdownify }}
+
+{% comment %}
+<h3>How can the LA2050 community and other stakeholders help your proposal succeed? (check all that apply)</h3>
+
+{% endcomment %}
+
+</div>
+
+{% endif %}
+
+
+<hr />
+
 <div class="proposal-answers">
 
 {% for item in page.maker_answers_list %}
 <h3>{{ item.name }}: {{ item.label }}</h3>
 {{ item.answer }}
 {% endfor %}
-
-</div>
-
-<hr />
-
-<div class="proposal-answers">
-
-<h3>In one sentence, please describe your idea or project.</h3>
-{{ describe_idea }}
-
-<h3>Does your project impact Los Angeles County? Check only one.</h3>
-{{  }}
-
-<h3>Which area(s) of LA does your project benefit? Check all that apply.</h3>
-{{  }}
-
-<h3>If other, please specify.:</h3>
-{{  }}
-
-<h3></h3>
-{{  }}
-
-<h3></h3>
-{{  }}
-
-<h3></h3>
-{{  }}
-
-<h3></h3>
-{{  }}
 
 </div>
 

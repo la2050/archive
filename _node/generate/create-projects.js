@@ -368,9 +368,6 @@ const projectAreas2014 = [
 ]
 
 
-let maker_answers_to_skip = [
-  "resources_research"
-]
 
 
 function addMakerAnswers(data) {
@@ -387,8 +384,14 @@ function addMakerAnswers(data) {
 
         // Skip sensitive data
         if (question.name == "your_name" ||
+            question.name == "Name" ||
+            question.name == "Your name" ||
             question.name == "email_address" ||
+            question.name == "email" ||
+            question.name == "Your email" ||
             question.name == "phone_number" ||
+            question.name == "phone" ||
+            question.name == "Your phone number" ||
             question.name == "heard_about_us") {
           return
         }
@@ -734,9 +737,9 @@ function createMarkdownFile(data) {
     }
   }
 
-  const answersToReplace = {
-    "project_summary": "one_sentence_project"
-  }
+  // const answersToReplace = {
+  //   "project_summary": "one_sentence_project"
+  // }
 
   // delete data.project_id_2
   // delete data.project_id_3
@@ -747,16 +750,33 @@ function createMarkdownFile(data) {
     // delete data.maker_answers.phone_number
     // delete data.maker_answers.heard_about_us
 
-    for (let prop in answersToReplace) {
-      if (answersToReplace.hasOwnProperty(prop)) {
-        let from = prop
-        let to   = answersToReplace[prop]
-        if (data[from] && data.maker_answers[to]) {
-          data[from] = data.maker_answers[to]
-          // delete data.maker_answers[to]
-        }
-      }
+
+
+
+    if (data.maker_answers.one_sentence_project && data.maker_answers.one_sentence_project != "") {
+      data.project_summary = data.maker_answers.one_sentence_project
+    } else if (data.maker_answers.describe_idea && data.maker_answers.describe_idea != "") {
+      data.project_summary = data.maker_answers.describe_idea
+    } else if (data.maker_answers["In one to three sentences, please describe your proposal."] &&
+               data.maker_answers["In one to three sentences, please describe your proposal."] != "") {
+      data.project_summary = data.maker_answers["In one to three sentences, please describe your proposal."]
     }
+
+    if (data.maker_answers["Organization(s) name(s)"] && data.maker_answers["Organization(s) name(s)"] != "") {
+      data.organization_name = data.maker_answers["Organization(s) name(s)"]
+    }
+
+
+    // for (let prop in answersToReplace) {
+    //   if (answersToReplace.hasOwnProperty(prop)) {
+    //     let from = prop
+    //     let to   = answersToReplace[prop]
+    //     if (data[from] && data.maker_answers[to]) {
+    //       data[from] = data.maker_answers[to]
+    //       // delete data.maker_answers[to]
+    //     }
+    //   }
+    // }
   }
 
   // console.dir(data)

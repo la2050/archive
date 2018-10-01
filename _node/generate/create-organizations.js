@@ -784,6 +784,15 @@ projectRecords.forEach(data => {
           })
         }
 
+        if (data.maker_answers.one_sentence_project && data.maker_answers.one_sentence_project != "") {
+          data.project_summary = data.maker_answers.one_sentence_project
+        } else if (data.maker_answers.describe_idea && data.maker_answers.describe_idea != "") {
+          data.project_summary = data.maker_answers.describe_idea
+        } else if (data.maker_answers["In one to three sentences, please describe your proposal."] &&
+                   data.maker_answers["In one to three sentences, please describe your proposal."] != "") {
+          data.project_summary = data.maker_answers["In one to three sentences, please describe your proposal."]
+        }
+
       }
     }
   }
