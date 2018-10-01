@@ -74,6 +74,7 @@ function stringToURI(str) {
 }
 
 function getStringForComparison(string) {
+  string = fixDataCharactersInString(string)
   string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
   string = (stringToURI(string).replace(/\-/, ""))
   // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
@@ -147,11 +148,42 @@ function subCompare (needle, haystack, min_substring_length) {
 
 
 
+
+function getMakerProjectByName(projectName) {
+  let match
+  makerProjects.forEach(project => {
+    if (match) return;
+
+    if (getStringForComparison(project.name) == getStringForComparison(projectName)) {
+      // console.log("************ found a match!")
+      match = project
+    }
+  })
+  // console.log(match)
+  return match
+}
+
+
+
+let makerProjectQuestionsLookup
+
+function createMakerProjectQuestionsLookup() {
+  if (!makerProjectQuestionsLookup) {
+    makerProjectQuestionsLookup = {}
+    makerProjectQuestions.forEach(question => {
+      makerProjectQuestionsLookup[question.id] = question
+    })
+  }
+}
+
+
+
 let makerProjectAnswersLookup
 const test_id = null
 // const test_id = 8272
 
-function getMakerProject(data) {
+
+function createMakerProjectAnswerLookup() {
   // console.log("getMakerProject")
 
   // Create an object for quick lookup
@@ -161,13 +193,22 @@ function getMakerProject(data) {
       // if (answer.project_id == 9541) console.dir(answer)
       if (answer.project_id == test_id) console.log("Adding an answer index for test_id: " + test_id)
       if (!makerProjectAnswersLookup[answer.project_id]) {
-        makerProjectAnswersLookup[answer.project_id] = {}
+        makerProjectAnswersLookup[answer.project_id] = {
+          keys: {},
+          answers: []
+        }
       }
-      makerProjectAnswersLookup[answer.project_id][getStringForComparison(answer.value)] = 1
+      makerProjectAnswersLookup[answer.project_id].keys[getStringForComparison(answer.value)] = 1
+      makerProjectAnswersLookup[answer.project_id].answers.push(answer)
       if (answer.project_id == test_id) console.log(answer.project_id)
       if (answer.project_id == test_id) console.log(answer.value)
     })
   }
+
+}
+
+function getMakerProject(data) {
+  createMakerProjectAnswerLookup()
 
   let match
   makerProjects.forEach(project => {
@@ -178,9 +219,9 @@ function getMakerProject(data) {
     }
 
     if (makerProjectAnswersLookup[project.id] && 
-        makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)]) {
+        makerProjectAnswersLookup[project.id].keys[getStringForComparison(data.organization_name)]) {
       if (project.id == test_id) {
-        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][data.organization_name])
+        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id].keys[data.organization_name])
         console.log("*** found a match!")
       }
       match = project
@@ -230,6 +271,7 @@ function getMakerImage(data) {
 
     // const similarity = 3
     // let compare = subCompare(item.name, data.title, similarity)
+    // if (compare.found === 1) { }
     //if (item.name.trim() == data.title.trim()) {
     let compareTitle = data.title
 
@@ -258,6 +300,7 @@ function getMakerImage(data) {
 
 const projectAnswers = [
   "title",
+  "organization_name",
   "project_is_collaboration",
   "project_collaborators",
   "project_proposal_description",
@@ -325,6 +368,46 @@ const projectAreas2014 = [
 ]
 
 
+let maker_answers_to_skip = [
+  "resources_research"
+]
+
+
+function addMakerAnswers(data) {
+  // Get a list of answers that match the current project ID
+
+  createMakerProjectQuestionsLookup()
+  if (!data.maker_answers) data.maker_answers = {}
+  if (!data.maker_answers_list) data.maker_answers_list = []
+
+  if (data.maker_answer_records && data.maker_answer_records.length > 0) {
+    data.maker_answer_records.forEach(answer => {
+      if (makerProjectQuestionsLookup[answer.fund_project_property_id]) {
+        let question = makerProjectQuestionsLookup[answer.fund_project_property_id]
+
+        // Skip sensitive data
+        if (question.name == "your_name" ||
+            question.name == "email_address" ||
+            question.name == "phone_number" ||
+            question.name == "heard_about_us") {
+          return
+        }
+
+        data.maker_answers[question.name] = answer.value
+        data.maker_answers_list.push({
+          name: question.name,
+          label: question.label,
+          explanation: question.explanation,
+          answer: answer.value
+        })
+      } else {
+        console.log("couldn’t find maker question for answer.fund_project_property_id: " + answer.fund_project_property_id)
+      }
+    })
+  }
+}
+
+
 function addProjectAnswers(data) {
 
 
@@ -335,8 +418,8 @@ function addProjectAnswers(data) {
       delete data[answerToRemove]
     })
 
+    addMakerAnswers(data)
   }
-
 
   if (data.year_submitted == 2014) {
     let project_areas = []
@@ -347,6 +430,8 @@ function addProjectAnswers(data) {
       delete data[area]
     })
     data.project_areas = project_areas
+
+    addMakerAnswers(data)
   }
 
   if (data.year_submitted == 2015) {
@@ -358,6 +443,8 @@ function addProjectAnswers(data) {
       delete data[area]
     })
     data.project_areas = project_areas
+
+    addMakerAnswers(data)
   }
 
   if (data.year_submitted == 2016 ||
@@ -412,6 +499,14 @@ function addProjectAnswers(data) {
           data[answer] = project[answer]
         }
       })
+
+      if (project["project_description"]) {
+        data.project_summary = project["project_description"]
+      }
+
+      if (project["project_image"] && !data["project_image"]) {
+        data["project_image"] = `https://activation.la2050.org/assets/images/${project.category}/2048-wide/${project.project_image}`
+      }
 
       if (data.year_submitted == 2018 && project.uri) {
         data.challenge_url = `https://activation.la2050.org${project.uri}`
@@ -556,6 +651,20 @@ function createMarkdownFile(data) {
   } else if (data.year_submitted == 2015 || 
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
+
+
+    let makerProject = getMakerProjectByName(data.title)
+    if (makerProject) {
+      createMakerProjectAnswerLookup()
+      if (makerProject.id && makerProjectAnswersLookup[makerProject.id]) {
+        // console.log("*** found maker answers")
+        data.maker_answer_records = makerProjectAnswersLookup[makerProject.id].answers
+        // console.log("data.maker_answer_records: ")
+        // console.dir(data.maker_answer_records)
+      }
+    }
+
+
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
       // if (data.organization_name == "826LA") console.log("Looking for image for 826LA: " + data.year_submitted + " : " + data.title)
       let match = getMakerImage(data)
@@ -617,6 +726,39 @@ function createMarkdownFile(data) {
     data.project_image = "http://maker.good.is/images/placeholder/idea.png"
   }
 
+  if ((!data.project_id || data.project_id == "")) {
+    if (data.project_id_2 && data.project_id_2 != "") {
+      data.project_id = data.project_id_2
+    } else if (data.project_id_3 && data.project_id_3 != "") {
+      data.project_id = data.project_id_3
+    }
+  }
+
+  const answersToReplace = {
+    "project_summary": "one_sentence_project"
+  }
+
+  // delete data.project_id_2
+  // delete data.project_id_3
+  delete data.maker_answer_records
+  if (data.maker_answers) {
+    // delete data.maker_answers.your_name
+    // delete data.maker_answers.email_address
+    // delete data.maker_answers.phone_number
+    // delete data.maker_answers.heard_about_us
+
+    for (let prop in answersToReplace) {
+      if (answersToReplace.hasOwnProperty(prop)) {
+        let from = prop
+        let to   = answersToReplace[prop]
+        if (data[from] && data.maker_answers[to]) {
+          data[from] = data.maker_answers[to]
+          // delete data.maker_answers[to]
+        }
+      }
+    }
+  }
+
   // console.dir(data)
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
@@ -647,32 +789,37 @@ let orderCursors = {
   live    : 0
 }
 
+function fixDataCharactersInString(string) {
+  string = string
+    .replace(/â€“/g, '—')
+    .replace(/â€˜/g, '‘')
+    .replace(/â€™/g, '’')
+    .replace(/â€¯/g, '') // ?
+    .replace(/â€”/g, '—')
+    .replace(/â€‹/g, '') // ?
+    .replace(/â€œ/g, '“') // ?
+    .replace(/â€/g, '”') // ?
+    .replace(/â€¢/g, "*")
+    .replace(/â€¦/g, "…")
+    .replace(/âˆš/g, '√')
+    .replace(/â–ª/g, '*')
+    .replace(/â—\x8F/g, '*')
+    .replace(/â„¢/g, '™')
+    .replace(/Â·/g, '* ')
+    .replace(/Â½/g, '½')
+    .replace(/Ãœ/g, 'Ü')
+    .replace(/Ã±/g, 'ñ')
+  return string
+}
+
 function fixDataCharacters(data) {
   for (let prop in data) {
     if (typeof(data[prop]) === 'string') {
-      data[prop] = data[prop]
-        .replace(/â€“/g, '—')
-        .replace(/â€˜/g, '‘')
-        .replace(/â€™/g, '’')
-        .replace(/â€¯/g, '') // ?
-        .replace(/â€”/g, '—')
-        .replace(/â€‹/g, '') // ?
-        .replace(/â€œ/g, '“') // ?
-        .replace(/â€/g, '”') // ?
-        .replace(/â€¢/g, "*")
-        .replace(/â€¦/g, "…")
-        .replace(/âˆš/g, '√')
-        .replace(/â–ª/g, '*')
-        .replace(/â—\x8F/g, '*')
-        .replace(/â„¢/g, '™')
-        .replace(/Â·/g, '* ')
-        .replace(/Â½/g, '½')
-        .replace(/Ãœ/g, 'Ü')
-        .replace(/Ã±/g, 'ñ')
+      data[prop] = fixDataCharactersInString(data[prop])
     }
   }
 
-  return data
+  return data;
 }
 
 // function generateCollections(file_name, category) {
@@ -890,9 +1037,14 @@ function getRecords(folder) {
 
 
 
-let maker_projects        = 'maker-projects.csv'
-let maker_user_media      = 'maker-user-media.csv'
-let maker_project_answers = 'maker-project-properties.csv'
+let maker_projects          = 'maker-projects.csv'
+let maker_user_media        = 'maker-user-media.csv'
+let maker_project_answers   = 'maker-project-properties.csv'
+let maker_project_questions = 'maker-fund-project-properties.csv'
+
+
+let makerProjectQuestionsInput = fs.readFileSync('data/' + maker_project_questions, 'utf8')
+let makerProjectQuestions      = parse(makerProjectQuestionsInput, {columns: true})
 
 
 let makerProjectAnswersInput = fs.readFileSync('data/' + maker_project_answers, 'utf8')

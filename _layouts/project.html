@@ -9,9 +9,25 @@ stylesheets:
 {% assign data_collection = site.collections | where: "label", "organizations" | first %}
 
 {% for item in data_collection.docs %}
+
+  {% for project_id in item.original_project_ids %}
+    {% if page.project_id == project_id %}
+      {% assign organization = item %}
+    {% endif %}
+  {% endfor %}
+
+  {% for project_id in item.extrapolated_project_ids %}
+    {% if page.project_id == project_id %}
+      {% assign organization = item %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %}
   {% if item.organization_id == page.organization_id %}
     {% assign organization = item %}
   {% endif %}
+  {% endcomment %}
+
 {% endfor %}
 
 
@@ -349,6 +365,52 @@ stylesheets:
 
 <div class="proposal-in-depth">
 
+
+
+{% if page.maker_answers_list %}
+
+<div class="proposal-answers">
+
+{% for item in page.maker_answers_list %}
+<h3>{{ item.name }}: {{ item.label }}</h3>
+{{ item.answer }}
+{% endfor %}
+
+</div>
+
+<hr />
+
+<div class="proposal-answers">
+
+<h3>In one sentence, please describe your idea or project.</h3>
+{{ describe_idea }}
+
+<h3>Does your project impact Los Angeles County? Check only one.</h3>
+{{  }}
+
+<h3>Which area(s) of LA does your project benefit? Check all that apply.</h3>
+{{  }}
+
+<h3>If other, please specify.:</h3>
+{{  }}
+
+<h3></h3>
+{{  }}
+
+<h3></h3>
+{{  }}
+
+<h3></h3>
+{{  }}
+
+<h3></h3>
+{{  }}
+
+</div>
+
+<hr />
+
+{% endif %}
 
 
 {% if page.year_submitted == 2013 %}

@@ -6,6 +6,28 @@ let mkdirp = require('mkdirp')
 let parse = require('csv-parse/lib/sync')
 let yaml = require('js-yaml')
 
+
+let maker_projects          = 'maker-projects.csv'
+let maker_user_media        = 'maker-user-media.csv'
+let maker_project_answers   = 'maker-project-properties.csv'
+let maker_project_questions = 'maker-fund-project-properties.csv'
+
+
+let makerProjectQuestionsInput = fs.readFileSync('data/' + maker_project_questions, 'utf8')
+let makerProjectQuestions      = parse(makerProjectQuestionsInput, {columns: true})
+
+let makerProjectAnswersInput = fs.readFileSync('data/' + maker_project_answers, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+let makerProjectAnswers = parse(makerProjectAnswersInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+let makerUserMediaInput = fs.readFileSync('data/' + maker_user_media, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+let makerImages = parse(makerUserMediaInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+let makerProjectInput = fs.readFileSync('data/' + maker_projects, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+let makerProjects = parse(makerProjectInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+
+
+
 function stringToURI(str) {
   return String(str).toLowerCase()
     .replace(/\s/g, '-')
@@ -47,6 +69,7 @@ function stringToURI(str) {
 }
 
 function getStringForComparison(string) {
+  string = fixDataCharactersInString(string)
   string = string.toLowerCase().replace(/\,/g, "").replace(/\\\r\\\n/g, "").replace(/\\\r/g, "").replace(/\\\n/g, "").trim()
   string = (stringToURI(string).replace(/\-/, ""))
   // if (string.indexOf("A house for Tommy in my backyard!") >= 0) {
@@ -59,39 +82,62 @@ function getStringForComparison(string) {
   return string
 }
 
+function fixDataCharactersInString(string) {
+  string = string
+    .replace(/â€“/g, '—')
+    .replace(/â€˜/g, '‘')
+    .replace(/â€™/g, '’')
+    .replace(/â€¯/g, '') // ?
+    .replace(/â€”/g, '—')
+    .replace(/â€‹/g, '') // ?
+    .replace(/â€œ/g, '“') // ?
+    .replace(/â€/g, '”') // ?
+    .replace(/â€¢/g, "*")
+    .replace(/â€¦/g, "…")
+    .replace(/âˆš/g, '√')
+    .replace(/â–ª/g, '*')
+    .replace(/â—\x8F/g, '*')
+    .replace(/â„¢/g, '™')
+    .replace(/Â·/g, '* ')
+    .replace(/Â½/g, '½')
+    .replace(/Ãœ/g, 'Ü')
+    .replace(/Ã±/g, 'ñ')
+  return string
+}
+
 function fixDataCharacters(data) {
   for (let prop in data) {
     if (typeof(data[prop]) === 'string') {
-      data[prop] = data[prop]
-        .replace(/â€“/g, '—')
-        .replace(/â€˜/g, '‘')
-        .replace(/â€™/g, '’')
-        .replace(/â€¯/g, '') // ?
-        .replace(/â€”/g, '—')
-        .replace(/â€‹/g, '') // ?
-        .replace(/â€œ/g, '“') // ?
-        .replace(/â€/g, '”') // ?
-        .replace(/â€¢/g, "*")
-        .replace(/â€¦/g, "…")
-        .replace(/âˆš/g, '√')
-        .replace(/â–ª/g, '*')
-        .replace(/â—\x8F/g, '*')
-        .replace(/â„¢/g, '™')
-        .replace(/Â·/g, '* ')
-        .replace(/Â½/g, '½')
-        .replace(/Ãœ/g, 'Ü')
-        .replace(/Ã±/g, 'ñ')
+      data[prop] = fixDataCharactersInString(data[prop])
     }
   }
 
   return data;
 }
 
+
+let makerProjectQuestionsLookup
+
+function createMakerProjectQuestionsLookup() {
+  if (!makerProjectQuestionsLookup) {
+    makerProjectQuestionsLookup = {}
+    makerProjectQuestions.forEach(question => {
+      makerProjectQuestionsLookup[question.id] = question
+    })
+  }
+}
+
+
+
+
+
+
 let makerProjectAnswersLookup
 const test_id = null
 // const test_id = "8075"
 
-function getMakerProjects(data, makerProjects, makerProjectAnswers) {
+
+function createMakerProjectAnswerLookup() {
   // console.log("getMakerProject")
 
   // Create an object for quick lookup
@@ -99,15 +145,27 @@ function getMakerProjects(data, makerProjects, makerProjectAnswers) {
     makerProjectAnswersLookup = {}
     makerProjectAnswers.forEach(answer => {
       // if (answer.project_id == 9541) console.dir(answer)
-      if (answer.project_id == test_id) console.log("Adding an answer index for Alliance for a Better Community, 8115")
+      if (answer.project_id == test_id) console.log("Adding an answer index for test_id: " + test_id)
       if (!makerProjectAnswersLookup[answer.project_id]) {
-        makerProjectAnswersLookup[answer.project_id] = {}
+        makerProjectAnswersLookup[answer.project_id] = {
+          keys: {},
+          answers: []
+        }
       }
-      makerProjectAnswersLookup[answer.project_id][getStringForComparison(answer.value)] = 1
-      // if (answer.project_id == test_id) console.log(answer.project_id)
-      // if (answer.project_id == test_id) console.log(answer.value)
+      makerProjectAnswersLookup[answer.project_id].keys[getStringForComparison(answer.value)] = 1
+      makerProjectAnswersLookup[answer.project_id].answers.push(answer)
+      if (answer.project_id == test_id) console.log(answer.project_id)
+      if (answer.project_id == test_id) console.log(answer.value)
     })
   }
+
+}
+
+
+function getMakerProjects(data, makerProjects, makerProjectAnswers) {
+  // console.log("getMakerProject")
+
+  createMakerProjectAnswerLookup()
 
   let matches = []
   makerProjects.forEach(project => {
@@ -118,9 +176,9 @@ function getMakerProjects(data, makerProjects, makerProjectAnswers) {
     }
 
     if (makerProjectAnswersLookup[project.id] && 
-        makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)]) {
+        makerProjectAnswersLookup[project.id].keys[getStringForComparison(data.organization_name)]) {
       if (project.id == test_id) {
-        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id][getStringForComparison(data.organization_name)])
+        console.log("makerProjectAnswersLookup[project.id][data.organization_name]: " + makerProjectAnswersLookup[project.id].keys[getStringForComparison(data.organization_name)])
         console.log("*** found a match!")
       }
       matches.push(project)
@@ -175,28 +233,28 @@ function getMakerImage(data, makerProjects, makerImages, makerProjectAnswers) {
   }
 
   if (images.length > 0) {
-    if (data.organization_id == 2015051) {
-      console.log("**** images ")
-      console.dir(images)
-      console.log("****")
-    }
+    // if (data.organization_id == 2015051) {
+    //   console.log("**** images ")
+    //   console.dir(images)
+    //   console.log("****")
+    // }
     let latestProjectTitle = getLatestProjectTitle(data)
-    if (data.organization_id == 2015051) {
-      console.log(`latestProjectTitle: ${latestProjectTitle}`)
-    }
+    // if (data.organization_id == 2015051) {
+    //   console.log(`latestProjectTitle: ${latestProjectTitle}`)
+    // }
     let makerImage
     images.forEach(image => {
       if (typeof(image.project_title) === "string" && typeof(latestProjectTitle) === "string" && 
         getStringForComparison(image.project_title) == getStringForComparison(latestProjectTitle)) {
-        if (data.organization_id == 2015051) {
-          console.log(`found a match: ${image.project_title}`)
-        }
+        // if (data.organization_id == 2015051) {
+        //   console.log(`found a match: ${image.project_title}`)
+        // }
         makerImage = image
       }
     })
-    if (data.organization_id == 2015051) {
-      console.log(`couldn’t find a match`)
-    }
+    // if (data.organization_id == 2015051) {
+    //   console.log(`couldn’t find a match`)
+    // }
     if (!makerImage) makerImage = images[0]
     return makerImage
   } else {
@@ -281,6 +339,33 @@ missingImages.forEach(image => {
 })
 // console.dir(missingImagesLookup)
 
+// KUDOS: https://stackoverflow.com/questions/13006556/check-if-two-strings-share-a-common-substring-in-javascript
+// Note: not fully tested, there may be bugs:
+function subCompare (needle, haystack, min_substring_length) {
+
+    // Min substring length is optional, if not given or is 0 default to 1:
+    min_substring_length = min_substring_length || 1;
+
+    // Search possible substrings from largest to smallest:
+    for (let i=needle.length; i>=min_substring_length; i--) {
+        for (let j=0; j <= (needle.length - i); j++) {
+            let substring = needle.substr(j,i);
+            let k = haystack.indexOf(substring);
+            if (k != -1) {
+                return {
+                    found : 1,
+                    substring : substring,
+                    needleIndex : j,
+                    haystackIndex : k
+                }
+            }
+        }
+    }
+    return {
+        found : 0
+    }
+}
+
 
 function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswers) {
   // console.log('createMarkdownFile for ' + data.title)
@@ -288,6 +373,11 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
   // let filename = data.organization_id + "-" + stringToURI(data.title)
   let filename = stringToURI(data.title)
+
+  for (let prop in data) {
+    if (data[prop] === '0') data[prop] = ''
+  }
+  data = fixDataCharacters(data);
 
   data.uri = '/organizations/' + filename + '/'
   // data.order = orderCursor++
@@ -367,6 +457,122 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     // console.log("Couldn’t parse areas_impacted: " + data.areas_impacted)
   }
 
+
+
+    // For the data-titles attribute
+    let projects = getProjects(data)
+    data.extrapolated_project_ids = []
+    data.project_titles_from_extrapolated_project_ids = []
+    if (projects && projects.length > 0) {
+      data.project_titles = projects.map(project => fixDataCharactersInString(project.title))
+      projects.forEach(project => {
+        // if (this project really belongs to this org)
+        // data.project_ids.push(project.project_id)
+        // if any of the project answer contain a 
+
+        // const min_substring_length = 100
+        let isSimilar = false
+        let answers = project.maker_answers || project
+        for (let prop in answers) {
+          if (answers.hasOwnProperty(prop)) {
+            if (answers[prop] && typeof(answers[prop]) === "string") {
+              // let compare = subCompare(getStringForComparison(data.organization_name), getStringForComparison(answers[prop]), min_substring_length)
+              // if (compare.found === 1) {
+              //   isSimilar = true
+              // }
+              if (getStringForComparison(answers[prop]).includes(getStringForComparison(data.organization_name))) {
+                isSimilar = true
+              }
+            }
+          }
+        }
+
+        if (isSimilar) {
+          data.extrapolated_project_ids.push(project.project_id)
+          data.project_titles_from_extrapolated_project_ids.push(fixDataCharactersInString(project.title))
+        }
+      })
+    }
+    // data.category = projects[0].category
+
+    let project_ids = data.project_ids.split(",").map(id => id.trim())
+    if (data.title == "826LA") {
+      console.log("826LA *******")
+      console.dir(`data.project_ids ${data.project_ids}`)
+      console.dir(`project_ids ${project_ids}`)
+    }
+
+    project_ids.forEach(project_id => {
+      if (projectsLookup[project_id] &&
+          projectsLookup[project_id].length > 0) {
+        let projects = projectsLookup[project_id]
+        projects.sort(function (a, b) {
+          // a is less than b by some ordering criterion
+          if (a.year_submitted > b.year_submitted) {
+            return -1
+          }
+          // a is greater than b by the ordering criterion
+          if (a.year_submitted < b.year_submitted) {
+            return 1
+          }
+          // a must be equal to b
+          return 0
+        })
+        data.project_titles_from_project_ids = projects.map(project => project.title)
+      }
+    })
+
+
+    // EXPERIMENTAL
+    if (!data.original_project_titles) data.original_project_titles = []
+    if (!data.original_project_ids)    data.original_project_ids    = []
+    let organizationMakerProjects = getMakerProjects(data, makerProjects, makerProjectAnswers)
+    if (organizationMakerProjects && organizationMakerProjects.length > 0) {
+      data.original_project_titles = data.original_project_titles.concat(organizationMakerProjects.map(project => project.name))
+      data.original_project_ids    = data.original_project_ids.concat(   organizationMakerProjects.map(project => {
+        if (projectsLookup[getStringForComparison(project.name)] && projectsLookup[getStringForComparison(project.name)][0]) {
+          return projectsLookup[getStringForComparison(project.name)][0].project_id
+        }
+      }).filter(item => item != null))
+    }
+    let organizationMarkdownProjects = getMarkdownProjects(data)
+    if (organizationMarkdownProjects && organizationMarkdownProjects.length > 0) {
+      data.original_project_titles = data.original_project_titles.concat(organizationMarkdownProjects.map(project => project.title))
+      data.original_project_ids    = data.original_project_ids.concat(   organizationMarkdownProjects.map(project => {
+        if (projectsLookup[getStringForComparison(project.title)] && projectsLookup[getStringForComparison(project.title)][0]) {
+          return projectsLookup[getStringForComparison(project.title)][0].project_id
+        }
+      }).filter(item => item != null))
+    }
+
+    if (data.project_titles) data.project_titles.sort()
+    if (data.original_project_titles) data.original_project_titles.sort()
+    if (data.project_titles_from_project_ids) data.project_titles_from_project_ids.sort()
+
+    if (data.title == "826LA") {
+      console.log("826LA *******")
+      console.dir(`data.project_titles ${data.project_titles}`)
+      console.dir(`data.original_project_titles ${data.original_project_titles}`)
+      console.dir(`data.project_titles_from_project_ids ${data.project_titles_from_project_ids}`)
+    }
+
+    if (data.project_titles && data.original_project_titles && data.project_titles_from_project_ids &&
+        data.project_titles.length == data.original_project_titles.length &&
+        data.project_titles.length == data.project_titles_from_project_ids.length) {
+      for (let index = 0; index < data.project_titles.length; index++) {
+        if (getStringForComparison(data.project_titles[index])          != getStringForComparison(data.original_project_titles[index]) ||
+            getStringForComparison(data.project_titles[index])          != getStringForComparison(data.project_titles_from_project_ids[index]) ||
+            getStringForComparison(data.original_project_titles[index]) != getStringForComparison(data.project_titles_from_project_ids[index])
+          ) {
+          data.project_titles_flagged = 1
+        }
+      }
+    } else {
+      data.project_titles_flagged = 1
+    }
+
+
+
   if (data.year_submitted == 2018) {
     data.project_image = data.project_image.replace(/https\:\/\/activation.la2050.org\/([^/]+)\/[^/]+\/([^\.]+)\.jpg/, function(match, p1, p2, offset, string) {
       // p1 is nondigits, p2 digits, and p3 non-alphanumerics
@@ -381,20 +587,14 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
 
-    let projects = getProjects(data)
-    if (projects && projects.length > 0) {
-      data.project_titles = projects.map(project => project.title)
-    }
-    // data.category = projects[0].category
-
     // if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
     if (true) {
       // if (data.organization_name == "Alliance for a Better Community") console.log("Looking for image for Alliance for a Better Community, 8115")
       let match = getMakerImage(data, makerProjects, makerImages, makerProjectAnswers)
-      if (data.organization_id == 2015051) {
-        console.dir(data)
-        console.dir(match)
-      }
+      // if (data.organization_id == 2015051) {
+      //   console.dir(data)
+      //   console.dir(match)
+      // }
       if (match && match.image) {
         // console.dir(match)
         // http://maker.good.is/s3/maker/attachments/project_photos/images/23182/display/CCC_pic17_small.jpg=c570x385
@@ -441,11 +641,6 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
   // console.dir(data)
 
-  for (let prop in data) {
-    if (data[prop] === '0') data[prop] = ''
-  }
-  data = fixDataCharacters(data);
-
   // if (data.project_image.includes("Obama_kids_jobs.jpg")) {
   //   console.log("checking for missing image Obama_kids_jobs.jpg")
   //   console.log(`data.project_image: ${data.project_image}`)
@@ -477,25 +672,12 @@ ${yaml.safeDump(data)}
 
 // let orderCursor = 0
 
-function generateAllCollections(file_name, maker_projects, maker_user_media, maker_project_answers) {
+function generateAllCollections(file_name) {
 
   console.log('generateCollections: ' + file_name)
 
   let input = fs.readFileSync('../_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
-
-
-  let makerProjectAnswersInput = fs.readFileSync('data/' + maker_project_answers, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-  let makerProjectAnswers = parse(makerProjectAnswersInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
-
-
-  let makerUserMediaInput = fs.readFileSync('data/' + maker_user_media, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-  let makerImages = parse(makerUserMediaInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
-
-
-  let makerProjectInput = fs.readFileSync('data/' + maker_projects, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
-  let makerProjects = parse(makerProjectInput, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
-
 
   // Sort by most recent year first
   records.sort(function (a, b) {
@@ -536,6 +718,21 @@ function generateAllCollections(file_name, maker_projects, maker_user_media, mak
 }
 
 
+function getMakerProjectByName(projectName) {
+  let match
+  makerProjects.forEach(project => {
+    if (match) return;
+
+    if (getStringForComparison(project.name) == getStringForComparison(projectName)) {
+      // console.log("************ found a match!")
+      match = project
+    }
+  })
+  // console.log(match)
+  return match
+}
+
+
 function getProjectRecords(filename, year) {
   let input = fs.readFileSync(`../_spreadsheets/${filename}`, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
@@ -551,20 +748,70 @@ years.forEach(year => {
   projectRecords = projectRecords.concat(getProjectRecords(`projects-${year}.csv`, year))
 })
 
+projectRecords.forEach(data => {
+  if ((!data.project_id || data.project_id == "")) {
+    if (data.project_id_2 && data.project_id_2 != "") {
+      data.project_id = data.project_id_2
+    } else if (data.project_id_3 && data.project_id_3 != "") {
+      data.project_id = data.project_id_3
+    }
+  }
+
+  if (data.year_submitted == 2015 || 
+      data.year_submitted == 2014 ||
+      data.year_submitted == 2013) {
+
+    let makerProject = getMakerProjectByName(data.title)
+    if (makerProject) {
+      createMakerProjectAnswerLookup()
+      createMakerProjectQuestionsLookup()
+      if (makerProject.id && makerProjectAnswersLookup[makerProject.id]) {
+        // console.log("*** found maker answers")
+        let maker_answer_records = makerProjectAnswersLookup[makerProject.id].answers
+        // console.log("data.maker_answer_records: ")
+        // console.dir(data.maker_answer_records)
+
+        if (!data.maker_answers) data.maker_answers = {}
+
+        if (maker_answer_records && maker_answer_records.length > 0) {
+          maker_answer_records.forEach(answer => {
+            if (makerProjectQuestionsLookup[answer.fund_project_property_id]) {
+              let question = makerProjectQuestionsLookup[answer.fund_project_property_id].name
+              data.maker_answers[question] = answer.value
+            } else {
+              console.log("couldn’t find maker question for answer.fund_project_property_id: " + answer.fund_project_property_id)
+            }
+          })
+        }
+
+      }
+    }
+  }
+
+})
+
 
 let projectsLookup = {}
 projectRecords.forEach(project => {
   if (!projectsLookup[project.organization_id]) {
     projectsLookup[project.organization_id] = []
   }
+  if (!projectsLookup[project.project_id]) {
+    projectsLookup[project.project_id] = []
+  }
+  if (!projectsLookup[getStringForComparison(project.title)]) {
+    projectsLookup[getStringForComparison(project.title)] = []
+  }
   projectsLookup[project.organization_id].push(project)
+  projectsLookup[project.project_id].push(project)
+  projectsLookup[getStringForComparison(project.title)].push(project)
 })
 
 
 function getProjects(organization) {
-  if (organization.organization_id == 2015051) {
-    console.log("getLastestProject for verynice")
-  }
+  // if (organization.organization_id == 2015051) {
+  //   console.log("getLastestProject for verynice")
+  // }
   let projects = projectsLookup[organization.organization_id]
   if (projectsLookup[organization.organization_id] &&
       projectsLookup[organization.organization_id].length > 0) {
@@ -616,10 +863,134 @@ for (let prop in parentTagsData) {
 }
 // console.dir(parentTags)
 
-generateAllCollections('organizations-2013-2018.csv', 
-                       'maker-projects.csv',
-                       'maker-user-media.csv',
-                       'maker-project-properties.csv')
+
+function getYaml(text, filename) {
+  const DELIMITER = '---'
+  let items = text.split(DELIMITER)
+  if (items.length === 3) {
+    return items[1]
+  } else {
+    console.log('unexpected markdown format detected')
+    console.log(items.length)
+    console.log(text)
+    console.log(filename)
+  }
+}
+
+function getContent(text, filename) {
+  const DELIMITER = '---'
+  let items = text.split(DELIMITER)
+  if (items.length === 3) {
+    return items[2]
+  } else {
+    console.log('unexpected markdown format detected')
+    console.log(items.length)
+    console.log(text)
+  }
+}
+
+
+
+// https://stackoverflow.com/questions/20822273/best-way-to-get-folder-and-file-list-in-javascript#21459809
+function getAllFilesFromFolder(dir) {
+
+    let filesystem = require("fs")
+    let results = []
+
+    filesystem.readdirSync(dir).forEach(function(file) {
+
+        file = dir+'/'+file
+        let stat = filesystem.statSync(file)
+
+        if (stat && stat.isDirectory()) {
+            results = results.concat(getAllFilesFromFolder(file))
+        } else results.push(file)
+
+    })
+
+    return results
+
+}
+
+
+function loadMarkdown(filename) {
+  // let input = fs.readFileSync(filename, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
+
+  // Get document, or throw exception on error 
+  try {
+    let text = fs.readFileSync(filename, 'utf8')
+    let yamlText = getYaml(text, filename)
+    let contentText = getContent(text, filename)
+
+    if (!yamlText || !contentText) return
+
+    let data = {}
+    data.yaml = yaml.safeLoad(yamlText)
+    data.content = contentText
+    return data
+
+  } catch (e) {
+    console.log(e)
+  }
+}
+
+
+
+function getRecords(folder) {
+  let files = getAllFilesFromFolder(folder)
+
+  let records = []
+  for (let index = 0; index < files.length; index++) {
+    if (files[index].indexOf('.DS_Store') >= 0) continue
+
+    // Load the contents of the file
+    let data = loadMarkdown(files[index])
+    if (!data) continue
+
+    // Add the data to the list of records
+    records.push(data.yaml)
+  }
+  return records
+}
+
+const categories = ["learn", "create", "play", "connect", "live"]
+
+// Create an object for quick lookup
+let markdownProjectsLookup = {}
+
+function createLookup(year) {
+
+  // Load the markdown files
+  let records = {}
+  categories.forEach(category => {
+    let next = getRecords(`data/projects-${year}-markdown/_${category}`)
+    records[category] = next
+  })
+
+  categories.forEach(category => {
+    records[category].forEach(project => {
+      if (!markdownProjectsLookup[getStringForComparison(project.organization_name)]) {
+        markdownProjectsLookup[getStringForComparison(project.organization_name)] = []
+      }
+      markdownProjectsLookup[getStringForComparison(project.organization_name)].push(project)
+    })
+  })
+
+}
+
+createLookup(2016)
+createLookup(2018)
+
+
+
+
+
+function getMarkdownProjects(organization) {
+  return markdownProjectsLookup[getStringForComparison(organization.title)]
+}
+
+
+generateAllCollections('organizations-2013-2018.csv')
 
 
 
