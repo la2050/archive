@@ -93,21 +93,8 @@ project_ids: '3102193'
 title: Lybba
 uri: /organizations/lybba/
 challenge_url: 'http://maker.good.is/myla2050/projects/OPENHEALTHCentral.html'
-extrapolated_project_ids:
-  - '3102193'
-project_titles_from_extrapolated_project_ids:
-  - OPENHealth Central  Putting the care back in healthcare
 project_titles:
   - OPENHealth Central  Putting the care back in healthcare
-project_titles_from_project_ids:
-  - OPENHealth Central  Putting the care back in healthcare
-original_project_titles:
-  - OPENHealth Central  Putting the "care" back in healthcare
-  - OPENHealth Central  Putting the "care" back in healthcare
-original_project_ids:
-  - '3102193'
-  - '3102193'
-project_titles_flagged: 1
 maker_image_id: '16271'
 maker_image_file_name: openhealthcentral.png
 

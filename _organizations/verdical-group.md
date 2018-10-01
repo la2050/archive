@@ -33,25 +33,5 @@ title: Verdical Group
 uri: /organizations/verdical-group/
 challenge_url: >-
   https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
-extrapolated_project_ids:
-  - '6102272'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-project_titles:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-project_titles_from_project_ids:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-original_project_titles:
-  - >-
-    A conference inspiring LA professionals toward a net zero future; hosted at
-    a nonprofit  facility
-original_project_ids:
-  - '6102272'
 
 ---

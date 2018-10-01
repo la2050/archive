@@ -38,16 +38,6 @@ uri: >-
   /organizations/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
 challenge_url: >-
   https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - '#HashtagLunchbag Feeds LA'
-project_titles_from_project_ids:
-  - '#HashtagLunchbag Feeds LA'
-original_project_titles:
-  - '#HashtagLunchbag Feeds LA'
-original_project_ids:
-  - '8102002'
 category: live
 
 ---

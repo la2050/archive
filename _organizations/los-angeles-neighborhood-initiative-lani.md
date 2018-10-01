@@ -35,17 +35,5 @@ title: Los Angeles Neighborhood Initiative (LANI)
 uri: /organizations/los-angeles-neighborhood-initiative-lani/
 challenge_url: >-
   https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
-extrapolated_project_ids:
-  - '6102143'
-project_titles_from_extrapolated_project_ids:
-  - 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
-project_titles:
-  - 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
-project_titles_from_project_ids:
-  - 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
-original_project_titles:
-  - 'Fixing the Cracks: Neighborhood Sidewalk Repair Program'
-original_project_ids:
-  - '6102143'
 
 ---

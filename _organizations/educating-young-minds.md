@@ -74,18 +74,8 @@ project_ids: '3102118'
 title: Educating Young Minds
 uri: /organizations/educating-young-minds/
 challenge_url: 'http://maker.good.is/myla2050/projects/access.html'
-extrapolated_project_ids:
-  - '3102118'
-project_titles_from_extrapolated_project_ids:
-  - EYMs ACCESS / NO EXCUSE
 project_titles:
   - EYMs ACCESS / NO EXCUSE
-project_titles_from_project_ids:
-  - EYMs ACCESS / NO EXCUSE
-original_project_titles:
-  - EYM's ACCESS / NO EXCUSE
-original_project_ids:
-  - '3102118'
 maker_image_id: '16514'
 maker_image_file_name: eym_apple.JPG
 

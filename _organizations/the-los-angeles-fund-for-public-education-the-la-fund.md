@@ -21,17 +21,8 @@ project_ids: '4102173'
 title: The Los Angeles Fund For Public Education (The LA Fund)
 uri: /organizations/the-los-angeles-fund-for-public-education-the-la-fund/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'The Intern Project: The Transformative Power of Internships'
-project_titles_from_project_ids:
-  - 'Promesa Boyle Heights: Transforming our Community Together.'
-original_project_titles:
-  - 'The Intern Project: The Transformative Power of Internships'
-original_project_ids:
-  - '4102222'
-project_titles_flagged: 1
 youtube_video_identifier: tMwKJIhKIAU
 
 ---

@@ -26,17 +26,5 @@ title: '#Library'
 uri: /organizations/library/
 challenge_url: >-
   https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
-extrapolated_project_ids:
-  - '6102071'
-project_titles_from_extrapolated_project_ids:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-project_titles:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-project_titles_from_project_ids:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-original_project_titles:
-  - 'Sync thinkers, doers & research to hyperdrive local solutions & innovation.'
-original_project_ids:
-  - '6102071'
 
 ---

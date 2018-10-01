@@ -29,7 +29,6 @@ project_image: >-
 project_video: 'https://vimeo.com/250192634'
 project_id_3: '8102022'
 year_submitted: 2018
-organization_name: Citizens Of Culture
 project_proposal_description: >-
   With the support of LA2050 we hope to make LA the best place to CONNECT by
   creating intentional human-centered conversations 10 critical subjects and

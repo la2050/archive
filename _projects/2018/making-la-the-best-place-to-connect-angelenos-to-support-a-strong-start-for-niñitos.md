@@ -6,7 +6,7 @@ title: >-
   Niñitos
 project_summary: >-
   Children Now will support thousands of Angelenos to voice their support for
-  quality care and education for LA’s babies.
+  quality care and education for LA’s babies. 
 Please describe the activation your organization seeks to launch.: >-
   Too often in LA, children—especially children of color, children in foster
   care, and those growing up in poverty—face many systemic barriers to a healthy
@@ -29,7 +29,6 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ch
 project_video: ''
 project_id_3: '8102019'
 year_submitted: 2018
-organization_name: Children Now
 project_proposal_description: >-
   Too often in LA, children—especially children of color, children in foster
   care, and those growing up in poverty—face many systemic barriers to a healthy

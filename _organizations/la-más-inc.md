@@ -53,18 +53,8 @@ project_ids: '3102071'
 title: 'LA-Más, Inc.'
 uri: /organizations/la-más-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/farmonwheels.html'
-extrapolated_project_ids:
-  - '3102071'
-project_titles_from_extrapolated_project_ids:
-  - Farm on Wheels
 project_titles:
   - Farm on Wheels
-project_titles_from_project_ids:
-  - Farm on Wheels
-original_project_titles:
-  - Farm on Wheels
-original_project_ids:
-  - '3102071'
 youtube_video_identifier: iGjxg6yI_og
 
 ---

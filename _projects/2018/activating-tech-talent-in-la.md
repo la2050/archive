@@ -29,7 +29,6 @@ project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data
 project_video: ''
 project_id_3: '8102033'
 year_submitted: 2018
-organization_name: Data 360
 project_proposal_description: >-
   We are looking to launch "Grow with Google" programs with all local Los
   Angeles community colleges.

@@ -32,24 +32,5 @@ project_ids: '6102146'
 title: Fallen Fruit
 uri: /organizations/fallen-fruit/
 challenge_url: 'https://challenge.la2050.org/entry/the-endless-orchard-phase-two'
-extrapolated_project_ids:
-  - '6102146'
-  - '3102043'
-project_titles_from_extrapolated_project_ids:
-  - 'The Endless Orchard: Phase Two'
-  - ENDLESS ORCHARD
-project_titles:
-  - ENDLESS ORCHARD
-  - 'The Endless Orchard: Phase Two'
-project_titles_from_project_ids:
-  - 'The Endless Orchard: Phase Two'
-original_project_titles:
-  - ENDLESS ORCHARD
-  - 'The Endless Orchard: Phase Two'
-  - Urban Fruit Trails
-original_project_ids:
-  - '3102043'
-  - '6102146'
-project_titles_flagged: 1
 
 ---

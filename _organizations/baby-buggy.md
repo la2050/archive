@@ -25,19 +25,8 @@ project_ids: '4102115'
 title: Baby Buggy
 uri: /organizations/baby-buggy/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - The Pathway
-project_titles_from_project_ids:
-  - Re-Ignite Lincoln Heights
-original_project_titles:
-  - >-
-    Breaking the Poverty Cycle in Los Angeles & Creating Better Childhoods for
-    Kids in Need 
-original_project_ids:
-  - '4102137'
-project_titles_flagged: 1
 maker_image_id: '20955'
 maker_image_file_name: alg-babybuggy-jpg.jpg
 

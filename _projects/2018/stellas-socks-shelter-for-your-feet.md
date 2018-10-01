@@ -81,7 +81,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=ClzWZnnOiJA'
 project_id_3: '8102112'
 year_submitted: 2018
-organization_name: Stella's Socks
 project_proposal_description: >-
   As an upstart organization, we have been largely self-funded. We require
   financial assistance to continue our efforts, stabilize our operations and

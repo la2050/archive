@@ -40,25 +40,5 @@ title: Capital & Main
 uri: /organizations/capital-main/
 challenge_url: >-
   https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
-extrapolated_project_ids:
-  - '6102031'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
-project_titles:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
-project_titles_from_project_ids:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
-original_project_titles:
-  - >-
-    To Lift All Boats: The Amazing Untold Story of L.A.'s Economic Opportunity
-    Change Makers
-original_project_ids:
-  - '6102031'
 
 ---

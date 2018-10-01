@@ -29,22 +29,8 @@ project_ids: '3102044'
 title: Filmanthropos
 uri: /organizations/filmanthropos/
 challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
-extrapolated_project_ids:
-  - '3102044'
-project_titles_from_extrapolated_project_ids:
-  - Empowering LAUSD with a Transmedia Education Platform for Change
 project_titles:
   - Empowering LAUSD with a Transmedia Education Platform for Change
-project_titles_from_project_ids:
-  - Empowering LAUSD with a Transmedia Education Platform for Change
-original_project_titles:
-  - Empowering LAUSD with a Transmedia Education Platform for Change
-  - Leading Change with PrdouceAthons
-  - Leading Change with ProducAthons
-  - Leading Change with ProducAthons
-original_project_ids:
-  - '3102044'
-project_titles_flagged: 1
 youtube_video_identifier: '--BnysezHK0'
 
 ---

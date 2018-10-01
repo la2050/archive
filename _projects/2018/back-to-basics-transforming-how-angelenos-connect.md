@@ -39,7 +39,6 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/ea
 project_video: 'https://youtu.be/PtA8wOP6XuM'
 project_id_3: '8102036'
 year_submitted: 2018
-organization_name: Eayikes
 project_proposal_description: >-
   By 2020 Eayikes brings empowerment to thousands of LA youth and adults through
   school programs and public events. For students we expand upon our empathy and

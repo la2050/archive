@@ -29,22 +29,10 @@ project_ids: '5102048'
 title: Center for Innovation at the LAEDC
 uri: /organizations/center-for-innovation-at-the-laedc/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Lets Build Bridges Between Communities And Our Dream LA By Celebrating LA
     County Innovation Broadly
-project_titles_from_project_ids:
-  - >-
-    Lets Build Bridges Between Communities And Our Dream LA By Celebrating LA
-    County Innovation Broadly
-original_project_titles:
-  - >-
-    Let's Build Bridges Between Communities And Our Dream LA By Celebrating LA
-    County Innovation Broadly
-original_project_ids:
-  - '5102048'
 maker_image_id: '24136'
 maker_image_file_name: Screen_Shot_2015-10-08_at_4.09.45_PM.png
 

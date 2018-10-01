@@ -31,17 +31,5 @@ title: Operation Gratitude
 uri: /organizations/operation-gratitude/
 challenge_url: >-
   https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
-extrapolated_project_ids:
-  - '6102170'
-project_titles_from_extrapolated_project_ids:
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
-project_titles:
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
-project_titles_from_project_ids:
-  - Operation Gratitude -  Americans Saying “Thank You” To All Who Serve
-original_project_titles:
-  - 'Operation Gratitude -  Americans Saying “Thank You” To All Who Serve '
-original_project_ids:
-  - '6102170'
 
 ---

@@ -5,7 +5,7 @@ title: 'Voting Solutions for All People: Engaging Voters Through a Mock Election
 project_summary: >-
   As LA County prepares to revolutionize the voting experience, voters will
   participate in a countywide mock election to interact with new voting
-  technologies and get excited about future elections.
+  technologies and get excited about future elections. 
 Please describe the activation your organization seeks to launch.: >-
   LA County is modernizing the voting experience. In order to educate the
   community about this new voting experience, the County will engage Angelenos
@@ -46,7 +46,6 @@ project_image: >-
 project_video: 'https://youtu.be/Z8m9oU7eBqc'
 project_id_3: '8102073'
 year_submitted: 2018
-organization_name: Los Angeles County Registrar-Recorder/County Clerk
 project_proposal_description: >-
   LA County is modernizing the voting experience. In order to educate the
   community about this new voting experience, the County will engage Angelenos

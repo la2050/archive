@@ -25,26 +25,9 @@ project_ids: '5102088'
 title: DUBLAB
 uri: /organizations/dublab/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html'
-extrapolated_project_ids:
-  - '5102088'
-  - '3102115'
-project_titles_from_extrapolated_project_ids:
-  - DUBLABs Open Studio Initiative
-  - SOUND SHARE LA
 project_titles:
   - DUBLABs Open Studio Initiative
   - SOUND SHARE LA
-project_titles_from_project_ids:
-  - DUBLABs Open Studio Initiative
-original_project_titles:
-  - DUBLAB's Open Studio Initiative
-  - SOUND SHARE LA
-  - Sound Sanctuary
-  - 'Wayfinder LA, a utility for car-free transit'
-original_project_ids:
-  - '3102115'
-  - '5102088'
-project_titles_flagged: 1
 youtube_video_identifier: xXMkk_S-UnU
 
 ---

@@ -31,17 +31,5 @@ project_ids: '6102056'
 title: County of Los Angeles Public Library
 uri: /organizations/county-of-los-angeles-public-library/
 challenge_url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
-extrapolated_project_ids:
-  - '6102056'
-project_titles_from_extrapolated_project_ids:
-  - Tell Your True Tale Writer's Workshop
-project_titles:
-  - Tell Your True Tale Writer's Workshop
-project_titles_from_project_ids:
-  - Tell Your True Tale Writer's Workshop
-original_project_titles:
-  - Tell Your True Tale Writer's Workshop
-original_project_ids:
-  - '6102056'
 
 ---

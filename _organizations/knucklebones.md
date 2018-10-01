@@ -30,21 +30,8 @@ project_ids: '5102240'
 title: Knucklebones
 uri: /organizations/knucklebones/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/playla.html'
-extrapolated_project_ids:
-  - '5102162'
-project_titles_from_extrapolated_project_ids:
-  - Free pLAy for all L.A.
 project_titles:
   - Free pLAy for all L.A.
-project_titles_from_project_ids:
-  - >-
-    Vida en equilibrio:Aplicación móvil para el bienestar/Life in Balance: A
-    Mobile Wellness Application
-original_project_titles:
-  - Free pLAy for all L.A.
-original_project_ids:
-  - '5102162'
-project_titles_flagged: 1
 youtube_video_identifier: FAirDH4ROp0
 
 ---

@@ -37,23 +37,5 @@ title: Joyful Heart Foundation
 uri: /organizations/joyful-heart-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
-extrapolated_project_ids:
-  - '6102110'
-  - '5102151'
-project_titles_from_extrapolated_project_ids:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-project_titles_from_project_ids:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-original_project_titles:
-  - Joyful Heart Foundation’s Survivor Retreat Model
-  - Joyful Heart Foundation’s Survivor Retreat Model
-original_project_ids:
-  - '5102151'
-  - '5102151'
-project_titles_flagged: 1
 
 ---

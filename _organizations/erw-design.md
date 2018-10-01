@@ -24,17 +24,8 @@ project_ids: '5102342'
 title: ERW Design
 uri: /organizations/erw-design/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - The LA River Public Art Project
-project_titles_from_project_ids:
-  - 'Watts Ball: A Fun New Playground Sport for Kids and Cops to Play Together'
-original_project_titles:
-  - The LA River Public Art Project
-original_project_ids:
-  - '4102066'
-project_titles_flagged: 1
 youtube_video_identifier: fpGXBYHFZuE
 
 ---

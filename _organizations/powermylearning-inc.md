@@ -33,19 +33,5 @@ project_ids: '6102188'
 title: 'PowerMyLearning, Inc.'
 uri: /organizations/powermylearning-inc/
 challenge_url: 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'
-extrapolated_project_ids:
-  - '6102188'
-project_titles_from_extrapolated_project_ids:
-  - Los Angeles Family Playlist Program
-project_titles:
-  - Los Angeles Family Playlist Program
-  - PowerMyLearning Los Angeles Program
-project_titles_from_project_ids:
-  - Los Angeles Family Playlist Program
-original_project_titles:
-  - Los Angeles Family Playlist Program
-original_project_ids:
-  - '6102188'
-project_titles_flagged: 1
 
 ---

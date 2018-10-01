@@ -25,17 +25,8 @@ project_ids: '4102145'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
 uri: /organizations/lincoln-heights-health-initiative/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Health Care for 1 Million Uninsured Los Angeles Residents
-project_titles_from_project_ids:
-  - Four Seasons of Food
-original_project_titles:
-  - 'LINCOLN HEIGHTS HEALTH INITIATIVE '
-original_project_ids:
-  - '4102101'
-project_titles_flagged: 1
 maker_image_id: '22088'
 maker_image_file_name: LINCOLN_STATUE.jpg
 

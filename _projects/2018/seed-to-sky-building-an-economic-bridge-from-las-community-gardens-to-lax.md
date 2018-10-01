@@ -26,7 +26,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/l-a-k
 project_video: 'https://vimeo.com/262575721'
 project_id_3: '8102059'
 year_submitted: 2018
-organization_name: L.A. Kitchen
 project_proposal_description: >-
   L.A. Kitchen’s coalition leverages strengths of existing organizations
   creating resilient communities. Partners merge expertise in urban agriculture,

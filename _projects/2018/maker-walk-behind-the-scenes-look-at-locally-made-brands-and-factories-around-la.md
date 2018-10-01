@@ -40,7 +40,6 @@ project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/mak
 project_video: 'https://www.youtube.com/watch?v=x2Ty5rjHVyE'
 project_id_3: '8102079'
 year_submitted: 2018
-organization_name: MAKE IT IN LA
 project_proposal_description: >-
   Our first Maker Walk attracted 500+ attendees for a choose-your-own-adventure
   of businesses and factories in the Arts District. They begged for more, so we

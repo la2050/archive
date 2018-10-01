@@ -31,17 +31,5 @@ title: The C.I.T.Y. x1 Youth Group
 uri: /organizations/the-c-i-t-y-x1-youth-group/
 challenge_url: >-
   https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
-extrapolated_project_ids:
-  - '6102237'
-project_titles_from_extrapolated_project_ids:
-  - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
-project_titles:
-  - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
-project_titles_from_project_ids:
-  - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
-original_project_titles:
-  - Help Open A Youth Center for LGBT Homeless Youth Like No Other!
-original_project_ids:
-  - '6102237'
 
 ---

@@ -27,22 +27,6 @@ project_ids: '8102139'
 title: World Harvest Charities & Family Services
 uri: /organizations/world-harvest-charities-family-services/
 challenge_url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
-    and Community.
-project_titles_from_project_ids:
-  - >-
-    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
-    and Community.
-original_project_titles:
-  - >-
-    World Harvest Dream Village: Affordable Housing with Food, Jobs, Healthcare,
-    and Community.
-original_project_ids:
-  - '8102139'
 category: live
 
 ---

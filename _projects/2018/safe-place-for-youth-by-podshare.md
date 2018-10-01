@@ -80,7 +80,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/podsh
 project_video: 'https://youtu.be/9T1sxwl670s'
 project_id_3: '8102096'
 year_submitted: 2018
-organization_name: Podshare
 project_proposal_description: >-
   This grant money would secure a property and build 20 pods in West LA within 6
   months. Once built, we will jointly fund raise to secure ongoing rent and

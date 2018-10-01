@@ -39,17 +39,5 @@ project_ids: '6102033'
 title: Center for the Study of Los Angeles
 uri: /organizations/center-for-the-study-of-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/la-votes'
-extrapolated_project_ids:
-  - '6102033'
-project_titles_from_extrapolated_project_ids:
-  - LA Votes
-project_titles:
-  - LA Votes
-project_titles_from_project_ids:
-  - LA Votes
-original_project_titles:
-  - LA Votes
-original_project_ids:
-  - '6102033'
 
 ---

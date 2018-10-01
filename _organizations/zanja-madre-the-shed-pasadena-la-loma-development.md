@@ -22,17 +22,8 @@ project_ids: '4102190'
 title: 'Zanja Madre, The Shed Pasadena, La Loma Development'
 uri: /organizations/zanja-madre-the-shed-pasadena-la-loma-development/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Vision Zero Los Angeles: safe streets for healthy living'
-project_titles_from_project_ids:
-  - Senior Star Power - Get Up Get Out & Get a Life! - The Beat Goes On
-original_project_titles:
-  - The Shed Pasadena
-original_project_ids:
-  - '4102093'
-project_titles_flagged: 1
 maker_image_id: '21199'
 maker_image_file_name: DSC02097-2.jpg
 

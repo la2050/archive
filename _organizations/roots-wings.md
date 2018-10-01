@@ -13,7 +13,7 @@ tags_indicators:
   - Mental & emotional health
   - Education & youth
   - Health
-twitter: ''
+twitter: 0
 instagram: rootsnwings_malibu
 facebook: >-
   Roots-Wings-Counseling-Classes-Coaching-for-a-Meaningful-Life-1952358844987700/
@@ -38,19 +38,6 @@ project_ids: '5102284'
 title: Roots & Wings
 uri: /organizations/roots-wings/
 challenge_url: 'https://activation.la2050.org/live/roots-wings/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - The Whole School Approach to a Safer & Happier Community
-project_titles_from_project_ids:
-  - >-
-    The Art of Skid Row: Bringing awareness to the homelessness state of
-    emergency.
-original_project_titles:
-  - The Whole School Approach to a Safer & Happier Community
-original_project_ids:
-  - '8102105'
-project_titles_flagged: 1
 category: live
 
 ---

@@ -31,26 +31,6 @@ project_ids: '8102135'
 title: Walk With Sally
 uri: /organizations/walk-with-sally/
 challenge_url: 'https://activation.la2050.org/connect/walk-with-sally/'
-extrapolated_project_ids:
-  - '8102135'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Walk With Sally - Bringing the cancer community together to heal the next
-    generation
-project_titles:
-  - >-
-    Walk With Sally - Bringing the cancer community together to heal the next
-    generation
-project_titles_from_project_ids:
-  - >-
-    Walk With Sally - Bringing the cancer community together to heal the next
-    generation
-original_project_titles:
-  - >-
-    Walk With Sally - Bringing the cancer community together to heal the next
-    generation
-original_project_ids:
-  - '8102135'
 category: connect
 
 ---

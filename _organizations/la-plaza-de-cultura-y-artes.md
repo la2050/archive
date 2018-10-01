@@ -31,25 +31,5 @@ title: LA Plaza de Cultura y Artes
 uri: /organizations/la-plaza-de-cultura-y-artes/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
-extrapolated_project_ids:
-  - '6102122'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
-    pathway!
-project_titles:
-  - >-
-    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
-    pathway!
-project_titles_from_project_ids:
-  - >-
-    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
-    pathway!
-original_project_titles:
-  - >-
-    LA Plaza Historic Paseo Walkway:  Downtown’s first historic pedestrian
-    pathway!
-original_project_ids:
-  - '6102122'
 
 ---

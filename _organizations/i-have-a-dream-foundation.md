@@ -33,17 +33,5 @@ project_ids: '6102098'
 title: I Have a Dream Foundation
 uri: /organizations/i-have-a-dream-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities'
-extrapolated_project_ids:
-  - '6102098'
-project_titles_from_extrapolated_project_ids:
-  - At Risk Youth Get Jobs in Local Communities
-project_titles:
-  - At Risk Youth Get Jobs in Local Communities
-project_titles_from_project_ids:
-  - At Risk Youth Get Jobs in Local Communities
-original_project_titles:
-  - At Risk Youth Get Jobs in Local Communities
-original_project_ids:
-  - '6102098'
 
 ---

@@ -30,20 +30,9 @@ title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 uri: >-
   /organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
+  - 'All of Us: A Campaign to Rethink Mental Health'
   - 'All of Us at UCLA: A Revitalization of Mental Health'
-  - 'All of Us: A Campaign to Rethink Mental Health'
-project_titles_from_project_ids:
-  - 'All of Us: A Campaign to Rethink Mental Health'
-original_project_titles:
-  - 'All of Us at UCLA: A Revitalization of Mental Health'
-  - 'All of Us: A Campaign to Rethink Mental Health'
-original_project_ids:
-  - '4102250'
-  - '5102337'
-project_titles_flagged: 1
 youtube_video_identifier: YHlDfLtzSio
 
 ---

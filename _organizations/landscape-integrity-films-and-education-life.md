@@ -40,17 +40,5 @@ title: Landscape Integrity Films and Education (LIFE)
 uri: /organizations/landscape-integrity-films-and-education-life/
 challenge_url: >-
   https://challenge.la2050.org/entry/california-native-plant-public-education-project
-extrapolated_project_ids:
-  - '6102127'
-project_titles_from_extrapolated_project_ids:
-  - California Native Plant Public Education Project
-project_titles:
-  - California Native Plant Public Education Project
-project_titles_from_project_ids:
-  - California Native Plant Public Education Project
-original_project_titles:
-  - California Native Plant Public Education Project
-original_project_ids:
-  - '6102127'
 
 ---

@@ -33,23 +33,5 @@ project_ids: '6102111'
 title: Concerned Capital
 uri: /organizations/concerned-capital/
 challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
-extrapolated_project_ids:
-  - '6102111'
-project_titles_from_extrapolated_project_ids:
-  - '#Re-Make It LA'
-project_titles:
-  - '#Re-Make It LA'
-  - >-
-    Connect the Dots LA: Public Design Workshops for Realizing a Resilient
-    Future
-project_titles_from_project_ids:
-  - '#Re-Make It LA'
-original_project_titles:
-  - >-
-    Diversifying LA’s manufacturing ownership by empowering workers to buy their
-    company   
-original_project_ids:
-  - '5102076'
-project_titles_flagged: 1
 
 ---

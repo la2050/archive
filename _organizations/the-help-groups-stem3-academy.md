@@ -43,25 +43,5 @@ title: The Help Group's STEM3 Academy
 uri: /organizations/the-help-groups-stem3-academy/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
-extrapolated_project_ids:
-  - '6102244'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
-    Learners! 
-project_titles:
-  - >-
-    The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
-    Learners! 
-project_titles_from_project_ids:
-  - >-
-    The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
-    Learners! 
-original_project_titles:
-  - >-
-    The Help Group's STEM3 Academy Coding, Computer & Robotics Camps for Special
-    Learners! 
-original_project_ids:
-  - '6102244'
 
 ---

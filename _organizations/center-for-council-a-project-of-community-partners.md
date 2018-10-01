@@ -39,18 +39,6 @@ title: 'Center for Council, a project of Community Partners'
 uri: /organizations/center-for-council-a-project-of-community-partners/
 challenge_url: >-
   https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Connection through Council
-  - Social Justice Resilience and Community Building
-project_titles_from_project_ids:
-  - Connection through Council
-original_project_titles:
-  - Connection through Council
-original_project_ids:
-  - '8102015'
-project_titles_flagged: 1
 category: connect
 
 ---

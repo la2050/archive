@@ -47,21 +47,6 @@ title: LA River Public Art Project (c/o ERW Design)
 uri: /organizations/la-river-public-art-project-c-o-erw-design/
 challenge_url: >-
   https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    The Art Barge: a traveling, interactive archive of art and culture
-    precedents along the LA River.
-project_titles_from_project_ids:
-  - 'Urban Futures Lab: Reimagining LA’s Civic and Creative Capital'
-original_project_titles:
-  - >-
-    The Art Barge: a traveling, interactive archive of art and culture
-    precedents along the LA River.
-original_project_ids:
-  - '8102063'
-project_titles_flagged: 1
 category: connect
 
 ---

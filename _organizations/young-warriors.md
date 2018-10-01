@@ -34,18 +34,8 @@ project_ids: '3102277'
 title: Young Warriors
 uri: /organizations/young-warriors/
 challenge_url: 'http://maker.good.is/myla2050/projects/YoungWarriors.html'
-extrapolated_project_ids:
-  - '3102277'
-project_titles_from_extrapolated_project_ids:
-  - Young Warriors
 project_titles:
   - Young Warriors
-project_titles_from_project_ids:
-  - Young Warriors
-original_project_titles:
-  - Young Warriors
-original_project_ids:
-  - '3102277'
 maker_image_id: '16390'
 maker_image_file_name: slider_gocarts2.jpg
 

@@ -35,23 +35,5 @@ project_ids: '6102240'
 title: The Edible Apartment
 uri: /organizations/the-edible-apartment/
 challenge_url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
-extrapolated_project_ids:
-  - '6102240'
-  - '5102301'
-project_titles_from_extrapolated_project_ids:
-  - Planting Gardens of Urban Delight!
-  - The Edible Apartment
-project_titles:
-  - Planting Gardens of Urban Delight!
-  - The Edible Apartment
-project_titles_from_project_ids:
-  - Planting Gardens of Urban Delight!
-original_project_titles:
-  - Planting Gardens of Urban Delight!
-  - The Edible Apartment
-original_project_ids:
-  - '5102301'
-  - '6102240'
-project_titles_flagged: 1
 
 ---

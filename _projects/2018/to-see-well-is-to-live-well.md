@@ -27,7 +27,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=XX7-agoIc2M'
 project_id_3: '8102130'
 year_submitted: 2018
-organization_name: UCLA Mobile Eye Clinic (UMEC)
 project_proposal_description: >-
   In partnership with the MCP, UMEC seeks to activate the people of LA to
   improve eye care access, change eye health behavior, and provide individuals

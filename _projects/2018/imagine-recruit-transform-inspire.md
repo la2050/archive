@@ -4,7 +4,7 @@ project_id_2: '8102027'
 title: Imagine. Recruit. Transform. Inspire.
 project_summary: >-
   City Year Los Angeles connects Angelenos across the city to beautify school
-  campuses, making them more welcoming, vibrant places for students to learn.
+  campuses, making them more welcoming, vibrant places for students to learn.  
 Please describe the activation your organization seeks to launch.: >-
   City Year Los Angeles will engage volunteers across the city to beautify some
   of the highest need school campuses in LAUSD. Together we will transform
@@ -55,7 +55,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=oUBvw2A2YMI'
 project_id_3: '8102027'
 year_submitted: 2018
-organization_name: City Year Los Angeles
 project_proposal_description: >-
   City Year Los Angeles will engage volunteers across the city to beautify some
   of the highest need school campuses in LAUSD. Together we will transform

@@ -30,30 +30,5 @@ title: City of Los Angeles Department of Recreation and Parks
 uri: /organizations/city-of-los-angeles-department-of-recreation-and-parks/
 challenge_url: >-
   https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
-extrapolated_project_ids:
-  - '6102038'
-  - '3102014'
-project_titles_from_extrapolated_project_ids:
-  - Ocean Heroes - Saving Lives Daily as a Water Rescuer
-  - 'Camp Educates Kids Forever '
-project_titles:
-  - 'Camp Educates Kids Forever '
-  - KIPP (Kids Indoor Play Park)
-  - LA Dance Immersion
-  - 'Learning to Save Lives: Training Future Lifeguards and Water Rescuers'
-  - Ocean Heroes - Saving Lives Daily as a Water Rescuer
-project_titles_from_project_ids:
-  - Ocean Heroes - Saving Lives Daily as a Water Rescuer
-original_project_titles:
-  - 'Camp Educates Kids Forever '
-  - KIPP (Kids Indoor Play Park)
-  - LA Dance Immersion
-  - Ocean Heroes - Saving Lives Daily as a Water Rescuer
-original_project_ids:
-  - '3102014'
-  - '5102059'
-  - '5102061'
-  - '6102038'
-project_titles_flagged: 1
 
 ---

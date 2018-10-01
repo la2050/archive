@@ -36,17 +36,5 @@ project_ids: '6102112'
 title: Just As You Are Legacy
 uri: /organizations/just-as-you-are-legacy/
 challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
-extrapolated_project_ids:
-  - '6102112'
-project_titles_from_extrapolated_project_ids:
-  - Empowering You to Create Your Legacy
-project_titles:
-  - Empowering You to Create Your Legacy
-project_titles_from_project_ids:
-  - Empowering You to Create Your Legacy
-original_project_titles:
-  - Empowering You to Create Your Legacy
-original_project_ids:
-  - '6102112'
 
 ---

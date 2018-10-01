@@ -37,17 +37,5 @@ title: Evolve LA (project of LA-Más)
 uri: /organizations/evolve-la-project-of-la-más/
 challenge_url: >-
   https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
-extrapolated_project_ids:
-  - '6102066'
-project_titles_from_extrapolated_project_ids:
-  - 'Open House LA: making los angeles more open to more housing'
-project_titles:
-  - 'Open House LA: making los angeles more open to more housing'
-project_titles_from_project_ids:
-  - 'Open House LA: making los angeles more open to more housing'
-original_project_titles:
-  - 'Open House LA: making los angeles more open to more housing'
-original_project_ids:
-  - '6102066'
 
 ---

@@ -27,7 +27,6 @@ project_image: >-
 project_video: 'https://youtu.be/omjbiTiHXxU'
 project_id_3: '8102132'
 year_submitted: 2018
-organization_name: United Way of Greater Los Angeles
 project_proposal_description: >-
   We will activate 100,000 Angelenos to connect the dots between housing
   affordability and homelessness. We will empower participants to say “yes” to

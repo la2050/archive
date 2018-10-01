@@ -24,7 +24,6 @@ project_image: >-
 project_video: 'https://youtu.be/Bt5RMStlQxI?t=90'
 project_id_3: '8102087'
 year_submitted: 2018
-organization_name: 'My Friends House, Inc.'
 project_proposal_description: >-
   Los Angeles has an amazing number of restaurants, farmer’s markets, and
   supermarkets in some areas. We need volunteers to connect to those

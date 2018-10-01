@@ -34,18 +34,8 @@ project_ids: '3102225'
 title: 'Quality of Life Center, Inc.'
 uri: /organizations/quality-of-life-center-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
-extrapolated_project_ids:
-  - '3102225'
-project_titles_from_extrapolated_project_ids:
-  - Improve The Quality of Life Through Education and Community Support
 project_titles:
   - Improve The Quality of Life Through Education and Community Support
-project_titles_from_project_ids:
-  - Improve The Quality of Life Through Education and Community Support
-original_project_titles:
-  - Improve The Quality of Life Through Education and Community Support
-original_project_ids:
-  - '3102225'
 maker_image_id: '16300'
 maker_image_file_name: 2010-2011_Graduation_Picture.171103650_std.jpg
 

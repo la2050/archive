@@ -12,7 +12,7 @@ tags_indicators:
   - Workforce development
   - Income & employment
 twitter: '@jared4dataroads'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/dataroads/'
 org_type: Nonprofit
 project_image: >-
@@ -36,30 +36,6 @@ project_ids: '8102034'
 title: Data Roads Foundation
 uri: /organizations/data-roads-foundation/
 challenge_url: 'https://activation.la2050.org/connect/data-roads-foundation/'
-extrapolated_project_ids:
-  - '6102059'
-project_titles_from_extrapolated_project_ids:
-  - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
-project_titles:
-  - 100% of LA online faster!
-  - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
-  - >-
-    Own Your Health at Dharma Health Institute: Empowering communities to make
-    healthy choices
-  - Women@Home Networks
-project_titles_from_project_ids:
-  - Women@Home Networks
-original_project_titles:
-  - 100% of LA online faster!
-  - Community at Home Box
-  - 'LA on the L.A.M.M: Learning Angels'' Mega-Mesh'
-  - Women@Home Networks
-original_project_ids:
-  - '4102052'
-  - '5102080'
-  - '6102059'
-  - '8102034'
-project_titles_flagged: 1
 category: connect
 
 ---

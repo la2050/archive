@@ -25,17 +25,8 @@ project_ids: '4102139'
 title: 'IN THE CITY, INC.'
 uri: /organizations/in-the-city-inc/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Mission 3.0: Empowering Leaders on the Field and In the Classroom'
-project_titles_from_project_ids:
-  - Los Angeles Worlds Fair Collaboration 2014-2015
-original_project_titles:
-  - 'Mission 3.0: Empowering Leaders on the Field and In the Classroom'
-original_project_ids:
-  - '4102099'
-project_titles_flagged: 1
 maker_image_id: '22530'
 maker_image_file_name: DSC01431.jpg
 

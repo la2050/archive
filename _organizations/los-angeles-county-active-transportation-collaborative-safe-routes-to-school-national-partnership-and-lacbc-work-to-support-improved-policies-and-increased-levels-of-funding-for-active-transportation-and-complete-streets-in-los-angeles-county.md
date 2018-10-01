@@ -34,21 +34,8 @@ title: >-
 uri: >-
   /organizations/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Growing a Healthy Los Angeles
-project_titles_from_project_ids:
-  - >-
-    Mobilize LA’s Youth: Eco-friendly digital media bus equips kids to be the
-    creative workforce in LA
-original_project_titles:
-  - >-
-    Los Angeles Gets There: A Regional Storytelling project about mobility in
-    Los Angeles County
-original_project_ids:
-  - '4102258'
-project_titles_flagged: 1
 maker_image_id: '22795'
 maker_image_file_name: LA2050-pic-1_copy.jpg
 

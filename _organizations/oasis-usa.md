@@ -62,18 +62,8 @@ project_ids: '3102208'
 title: Oasis USA
 uri: /organizations/oasis-usa/
 challenge_url: 'http://maker.good.is/myla2050/projects/oasisusa.html'
-extrapolated_project_ids:
-  - '3102208'
-project_titles_from_extrapolated_project_ids:
-  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
 project_titles:
   - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
-project_titles_from_project_ids:
-  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
-original_project_titles:
-  - 'Making LA TraffickFree: ending trafficking 1 COMMUNITY at a time'
-original_project_ids:
-  - '3102208'
 youtube_video_identifier: _5icxWSNJFw
 
 ---

@@ -33,17 +33,5 @@ title: Living Spring Foundation
 uri: /organizations/living-spring-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
-extrapolated_project_ids:
-  - '6102134'
-project_titles_from_extrapolated_project_ids:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
-project_titles:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
-project_titles_from_project_ids:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
-original_project_titles:
-  - 'Free Showers for the Homeless in Downtown, Los Angeles'
-original_project_ids:
-  - '6102134'
 
 ---

@@ -32,22 +32,6 @@ project_ids: '8102046'
 title: Global Green
 uri: /organizations/global-green/
 challenge_url: 'https://activation.la2050.org/live/global-green/'
-extrapolated_project_ids:
-  - '8102046'
-  - '6102083'
-project_titles_from_extrapolated_project_ids:
-  - 'Global Green’s Creative Reuse Coalition '
-  - Los Angeles Resilience Hubs - Developing a Model for a Resilient City
-project_titles:
-  - 'Global Green’s Creative Reuse Coalition '
-  - Imagination Workshop
-  - Los Angeles Resilience Hubs - Developing a Model for a Resilient City
-project_titles_from_project_ids:
-  - 'Global Greenâ€™s Creative Reuse Coalition '
-original_project_titles:
-  - Global Green’s Creative Reuse Coalition
-original_project_ids: []
-project_titles_flagged: 1
 category: live
 
 ---

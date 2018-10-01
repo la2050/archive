@@ -31,27 +31,5 @@ project_ids: '6102173'
 title: Pacoima Beautiful
 uri: /organizations/pacoima-beautiful/
 challenge_url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
-extrapolated_project_ids:
-  - '6102173'
-  - '3102212'
-project_titles_from_extrapolated_project_ids:
-  - Celebrate Pacoima
-  - Van Nuys Blvd. Green Project
-project_titles:
-  - Celebrate Pacoima
-  - Los Angeles Resilience Rating System
-  - Van Nuys Blvd. Green Project
-project_titles_from_project_ids:
-  - Celebrate Pacoima
-original_project_titles:
-  - Celebrate Pacoima
-  - Extending the East San Fernando Valley Nature Parkway
-  - Pacoima Beautiful
-  - Van Nuys Blvd. Green Project
-original_project_ids:
-  - '3102212'
-  - '4102087'
-  - '6102173'
-project_titles_flagged: 1
 
 ---

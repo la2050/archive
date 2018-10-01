@@ -27,17 +27,5 @@ project_ids: '6102050'
 title: Community Corporation of Santa Monica
 uri: /organizations/community-corporation-of-santa-monica/
 challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
-extrapolated_project_ids:
-  - '6102050'
-project_titles_from_extrapolated_project_ids:
-  - Great Futures Start At Home
-project_titles:
-  - Great Futures Start At Home
-project_titles_from_project_ids:
-  - Great Futures Start At Home
-original_project_titles:
-  - Great Futures Start At Home
-original_project_ids:
-  - '6102050'
 
 ---

@@ -26,21 +26,8 @@ project_ids: '5102090'
 title: GREENBOXFARMS
 uri: /organizations/greenboxfarms/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/GREENBOXFARMS.html'
-extrapolated_project_ids:
-  - '5102119'
-project_titles_from_extrapolated_project_ids:
-  - Revitalizing the way Los Angeles grows mentally physically and economically.
 project_titles:
   - Revitalizing the way Los Angeles grows mentally physically and economically.
-project_titles_from_project_ids:
-  - Free Music Studio Access for Students of Los Angeles
-original_project_titles:
-  - >-
-    Revitalizing the way Los Angeles grows mentally, physically, and
-    economically.
-original_project_ids:
-  - '5102119'
-project_titles_flagged: 1
 maker_image_id: '23755'
 maker_image_file_name: Hydroponickids1.jpg
 

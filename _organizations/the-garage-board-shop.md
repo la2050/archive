@@ -31,17 +31,5 @@ project_ids: '6102248'
 title: The Garage Board Shop
 uri: /organizations/the-garage-board-shop/
 challenge_url: 'https://challenge.la2050.org/entry/sk8-4-education'
-extrapolated_project_ids:
-  - '6102248'
-project_titles_from_extrapolated_project_ids:
-  - SK8 4 Education
-project_titles:
-  - SK8 4 Education
-project_titles_from_project_ids:
-  - SK8 4 Education
-original_project_titles:
-  - SK8 4 Education
-original_project_ids:
-  - '6102248'
 
 ---

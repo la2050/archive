@@ -32,17 +32,5 @@ title: SAFE (Streets Are For Everyone)
 uri: /organizations/safe-streets-are-for-everyone/
 challenge_url: >-
   https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
-extrapolated_project_ids:
-  - '6102202'
-project_titles_from_extrapolated_project_ids:
-  - SAFE Support -- Helping for Those Affected by Traumatic Traffic Collisions
-project_titles:
-  - SAFE Support -- Helping for Those Affected by Traumatic Traffic Collisions
-project_titles_from_project_ids:
-  - SAFE Support -- Helping for Those Affected by Traumatic Traffic Collisions
-original_project_titles:
-  - SAFE Support -- Helping for Those Affected by Traumatic Traffic Collisions
-original_project_ids:
-  - '6102202'
 
 ---

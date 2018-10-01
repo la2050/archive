@@ -35,26 +35,6 @@ project_ids: '8102126'
 title: Topanga Women's Circle
 uri: /organizations/topanga-womens-circle/
 challenge_url: 'https://activation.la2050.org/live/topanga-womens-circle/'
-extrapolated_project_ids:
-  - '8102126'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
-    Angeles
-project_titles:
-  - >-
-    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
-    Angeles
-project_titles_from_project_ids:
-  - >-
-    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
-    Angeles
-original_project_titles:
-  - >-
-    Topanga Women's Circle: Expanding our Circle to Ease Homelessness in Los
-    Angeles
-original_project_ids:
-  - '8102126'
 category: live
 
 ---

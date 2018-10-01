@@ -29,33 +29,5 @@ title: Parents Education League
 uri: /organizations/parents-education-league/
 challenge_url: >-
   https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
-extrapolated_project_ids:
-  - '6102174'
-  - '5102229'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
-  - >-
-    Parents Education League of LA: Creating Your Go-To School Resource & Parent
-    Network
-project_titles:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
-  - >-
-    Parents Education League of LA: Creating Your Go-To School Resource & Parent
-    Network
-project_titles_from_project_ids:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
-original_project_titles:
-  - >-
-    Early Childhood Education Options: Using Public Service Mini-Courses to
-    Educate and Empower Families
-original_project_ids:
-  - '6102174'
-project_titles_flagged: 1
 
 ---

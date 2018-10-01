@@ -5,7 +5,7 @@ title: Connection through Council
 project_summary: >-
   To amplify the impact of the LA2050 Activation Challenge and foster deeper
   compassion amongst Angelenos, Center for Council will train ten of the
-  finalist organizations in the practice of Council.
+  finalist organizations in the practice of Council.  
 Please describe the activation your organization seeks to launch.: >-
   Center for Council will train the winning organizations and six semi-finalists
   in Council, a practice of bringing people together to listen non-judgmentally
@@ -29,7 +29,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=TAAc3xB3YTk'
 project_id_3: '8102015'
 year_submitted: 2018
-organization_name: 'Center for Council, a project of Community Partners'
 project_proposal_description: >-
   Center for Council will train the winning organizations and six semi-finalists
   in Council, a practice of bringing people together to listen non-judgmentally

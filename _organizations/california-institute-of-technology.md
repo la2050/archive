@@ -32,25 +32,5 @@ title: California Institute of Technology
 uri: /organizations/california-institute-of-technology/
 challenge_url: >-
   https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
-extrapolated_project_ids:
-  - '6102026'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
-project_titles:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
-project_titles_from_project_ids:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
-original_project_titles:
-  - >-
-    Cleantech 2 Edtech: LA schools save energy as students and startups
-    implement cleantech innovations
-original_project_ids:
-  - '6102026'
 
 ---

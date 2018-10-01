@@ -28,26 +28,10 @@ project_ids: '5102185'
 title: Los Angeles Center of Photography
 uri: /organizations/los-angeles-center-of-photography/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/LACP.html'
-extrapolated_project_ids:
-  - '5102185'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Los Angeles Center of Photography Brings Life Changing Photography Classes
-    to Boys & Girls Clubs
 project_titles:
   - >-
     Los Angeles Center of Photography Brings Life Changing Photography Classes
     to Boys & Girls Clubs
-project_titles_from_project_ids:
-  - >-
-    Los Angeles Center of Photography Brings Life Changing Photography Classes
-    to Boys & Girls Clubs
-original_project_titles:
-  - >-
-    Los Angeles Center of Photography Brings Life Changing Photography Classes
-    to Boys & Girls Clubs
-original_project_ids:
-  - '5102185'
 maker_image_id: '23374'
 maker_image_file_name: Julia_Dean_at_Boyle_Heights_B_B_Club.jpg
 

@@ -25,17 +25,8 @@ project_ids: '4102144'
 title: Light Bringer Project
 uri: /organizations/light-bringer-project/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - L.A. Futures
-project_titles_from_project_ids:
-  - Original Green Community Food Hub
-original_project_titles:
-  - L.A. Futures
-original_project_ids:
-  - '4102120'
-project_titles_flagged: 1
 maker_image_id: '22179'
 maker_image_file_name: IMG_2944.JPG
 

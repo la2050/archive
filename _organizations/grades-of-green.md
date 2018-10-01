@@ -60,20 +60,8 @@ project_ids: '3102140'
 title: Grades of Green
 uri: /organizations/grades-of-green/
 challenge_url: 'http://maker.good.is/myla2050/projects/goglayc.html'
-extrapolated_project_ids:
-  - '3102140'
-project_titles_from_extrapolated_project_ids:
-  - Grades of Green  Los Angeles Youth Corps
 project_titles:
   - Grades of Green  Los Angeles Youth Corps
-project_titles_from_project_ids:
-  - Grades of Green  Los Angeles Youth Corps
-original_project_titles:
-  - Grades of Green - Los Angeles Environmental Youth Corps
-  - Grades of Green - Los Angeles Youth Corps
-original_project_ids:
-  - '3102140'
-project_titles_flagged: 1
 maker_image_id: '16837'
 maker_image_file_name: LA_YouthCorps_Logo-01.png
 

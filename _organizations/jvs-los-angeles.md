@@ -27,20 +27,9 @@ project_ids: '5102156'
 title: JVS Los Angeles
 uri: /organizations/jvs-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'JVS Works: Creating Hope and Opportunity'
   - 'JVS Works: Creating Hope and Opportunity'
-project_titles_from_project_ids:
-  - 'JVS Works: Creating Hope and Opportunity'
-original_project_titles:
-  - 'JVS Works:  Creating Hope and Opportunity'
-  - 'JVS Works:  Creating Hope and Opportunity'
-original_project_ids:
-  - '5102156'
-  - '5102156'
-project_titles_flagged: 1
 youtube_video_identifier: iQpQqqot8AQ
 
 ---

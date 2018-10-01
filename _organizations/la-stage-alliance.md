@@ -26,22 +26,9 @@ project_ids: '4102049'
 title: LA STAGE Alliance
 uri: /organizations/la-stage-alliance/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
-extrapolated_project_ids:
-  - '3102173'
-project_titles_from_extrapolated_project_ids:
-  - 'Arts & Culture Infrastructure Initiative '
 project_titles:
   - Arts & Culture Infrastructure Initiative
   - 'Arts & Culture Infrastructure Initiative '
-project_titles_from_project_ids:
-  - L Creativo - A Latin Indie Music Community
-original_project_titles:
-  - Arts & Culture Infrastructure Initiative
-  - 'Arts & Culture Infrastructure Initiative '
-original_project_ids:
-  - '3102173'
-  - '3102173'
-project_titles_flagged: 1
 maker_image_id: '16935'
 maker_image_file_name: Faces_Installation.jpg
 

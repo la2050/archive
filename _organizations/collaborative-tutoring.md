@@ -46,21 +46,8 @@ project_ids: '3102020'
 title: Collaborative Tutoring
 uri: /organizations/collaborative-tutoring/
 challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
-extrapolated_project_ids:
-  - '3102020'
-project_titles_from_extrapolated_project_ids:
-  - Mentoring through Education Movement
 project_titles:
   - Mentoring through Education Movement
-project_titles_from_project_ids:
-  - Mentoring through Education Movement
-original_project_titles:
-  - Mentoring through Education Movement
-  - Mentoring through Education Movement
-original_project_ids:
-  - '3102020'
-  - '3102020'
-project_titles_flagged: 1
 maker_image_id: '17103'
 maker_image_file_name: Screen_shot_2013-03-28_at_2.40.43_PM.png
 

@@ -37,17 +37,5 @@ project_ids: '6102223'
 title: SCA-LARC
 uri: /organizations/sca-larc/
 challenge_url: 'https://challenge.la2050.org/entry/jutout-parklets'
-extrapolated_project_ids:
-  - '6102223'
-project_titles_from_extrapolated_project_ids:
-  - Jutout Parklets
-project_titles:
-  - Jutout Parklets
-project_titles_from_project_ids:
-  - Jutout Parklets
-original_project_titles:
-  - Jutout Parklets
-original_project_ids:
-  - '6102223'
 
 ---

@@ -35,30 +35,6 @@ project_ids: '8102028'
 title: Civic Innovation Lab
 uri: /organizations/civic-innovation-lab/
 challenge_url: 'https://activation.la2050.org/create/civic-innovation-lab/'
-extrapolated_project_ids:
-  - '8102028'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-project_titles:
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-project_titles_from_project_ids:
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-original_project_titles:
-  - >-
-    Bridging social enterprise, technology, and local government to accelerate
-    civic innovators.
-original_project_ids:
-  - '8102028'
-project_titles_flagged: 1
 category: create
 
 ---

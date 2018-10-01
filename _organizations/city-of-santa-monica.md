@@ -25,17 +25,8 @@ project_ids: '4102017'
 title: City of Santa Monica
 uri: /organizations/city-of-santa-monica/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'The Wellbeing Project: Working together to create a city of wellbeing'
-project_titles_from_project_ids:
-  - WildLAParks
-original_project_titles:
-  - 'The Wellbeing Project: Working together to create a city of wellbeing'
-original_project_ids:
-  - '4102037'
-project_titles_flagged: 1
 youtube_video_identifier: quAWRNiRKEg
 
 ---

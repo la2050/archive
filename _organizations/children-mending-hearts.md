@@ -54,18 +54,8 @@ project_ids: '3102059'
 title: Children Mending Hearts
 uri: /organizations/children-mending-hearts/
 challenge_url: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
-extrapolated_project_ids:
-  - '3102059'
-project_titles_from_extrapolated_project_ids:
-  - 'Children Mending Hearts: Kids Helping Kids'
 project_titles:
   - 'Children Mending Hearts: Kids Helping Kids'
-project_titles_from_project_ids:
-  - 'Children Mending Hearts: Kids Helping Kids'
-original_project_titles:
-  - 'Children Mending Hearts: Kids Helping Kids'
-original_project_ids:
-  - '3102059'
 youtube_video_identifier: d166fbxFWas
 
 ---

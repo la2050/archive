@@ -23,16 +23,8 @@ project_ids: '5102140'
 title: Independent Team of LA Residents
 uri: /organizations/independent-team-of-la-residents/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - My Bucket List LA
-project_titles_from_project_ids:
-  - My Bucket List LA
-original_project_titles:
-  - My Bucket List LA
-original_project_ids:
-  - '5102140'
 maker_image_id: '23304'
 maker_image_file_name: MyBucketlistLA.png
 

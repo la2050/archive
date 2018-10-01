@@ -25,17 +25,5 @@ project_ids: '6102076'
 title: ANDesign Lab
 uri: /organizations/andesign-lab/
 challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
-extrapolated_project_ids:
-  - '6102076'
-project_titles_from_extrapolated_project_ids:
-  - Self-Sustaining Gardening Sensors
-project_titles:
-  - Self-Sustaining Gardening Sensors
-project_titles_from_project_ids:
-  - Self-Sustaining Gardening Sensors
-original_project_titles:
-  - Self-Sustaining Gardening Sensors
-original_project_ids:
-  - '6102076'
 
 ---

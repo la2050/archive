@@ -32,33 +32,6 @@ project_ids: '8102095'
 title: People for Parks
 uri: /organizations/people-for-parks/
 challenge_url: 'https://activation.la2050.org/play/people-for-parks/'
-extrapolated_project_ids:
-  - '6102181'
-  - '5102232'
-project_titles_from_extrapolated_project_ids:
-  - People for Parks' Community School Parks Go Kid Healthy!
-  - People for Parks’ Community School Parks
-project_titles:
-  - >-
-    COMPAS for Park Equity: co-powering & mobilizing communities to expand
-    Community School Parks in LA
-  - People for Parks' Community School Parks Go Kid Healthy!
-  - People for Parks’ Community School Parks
-project_titles_from_project_ids:
-  - >-
-    COMPAS for Park Equity: co-powering & mobilizing communities to expand
-    Community School Parks in LA
-original_project_titles:
-  - >-
-    COMPAS for Park Equity: co-powering & mobilizing communities to expand
-    Community School Parks in LA
-  - People for Parks' Community School Parks Go Kid Healthy!
-  - People for Parks’ Community School Parks
-original_project_ids:
-  - '5102232'
-  - '6102181'
-  - '8102095'
-project_titles_flagged: 1
 category: play
 
 ---

@@ -29,16 +29,8 @@ project_ids: '5102033'
 title: Boys & Girls Clubs of Carson
 uri: /organizations/boys-girls-clubs-of-carson/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CollegeAccess.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - College Access Initiative
-project_titles_from_project_ids:
-  - College Access Initiative
-original_project_titles:
-  - College Access Initiative
-original_project_ids:
-  - '5102033'
 maker_image_id: '24078'
 maker_image_file_name: College_Access_Initiative.jpg
 

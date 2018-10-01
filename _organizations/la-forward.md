@@ -32,26 +32,6 @@ project_ids: '8102062'
 title: LA Forward
 uri: /organizations/la-forward/
 challenge_url: 'https://activation.la2050.org/connect/la-forward/'
-extrapolated_project_ids:
-  - '8102062'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-    Sustainable Los Angeles 
-project_titles:
-  - >-
-    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-    Sustainable Los Angeles 
-project_titles_from_project_ids:
-  - >-
-    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-    Sustainable Los Angeles 
-original_project_titles:
-  - >-
-    Connecting Angelenos to the Coalitions Shaping a Fair, Vibrant, and
-    Sustainable Los Angeles
-original_project_ids:
-  - '8102062'
 category: connect
 
 ---

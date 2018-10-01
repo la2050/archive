@@ -28,17 +28,8 @@ project_ids: '4102107'
 title: WomenShelter of Long Beach
 uri: /organizations/womenshelter-of-long-beach/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Safe Networks Active Communities
-project_titles_from_project_ids:
-  - L.A. Bike Trains
-original_project_titles:
-  - 'Safe Networks, Active Communities'
-original_project_ids:
-  - '4102259'
-project_titles_flagged: 1
 maker_image_id: '20761'
 maker_image_file_name: logo.png
 

@@ -27,18 +27,8 @@ project_ids: '5102105'
 title: Freeway Farm
 uri: /organizations/freeway-farm/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FreewayFarm.html'
-extrapolated_project_ids:
-  - '5102105'
-project_titles_from_extrapolated_project_ids:
-  - Freeway Farm Green Infrastructure Pilot Project
 project_titles:
   - Freeway Farm Green Infrastructure Pilot Project
-project_titles_from_project_ids:
-  - Freeway Farm Green Infrastructure Pilot Project
-original_project_titles:
-  - Freeway Farm Green Infrastructure Pilot Project
-original_project_ids:
-  - '5102105'
 maker_image_id: '24023'
 maker_image_file_name: LA2050_Freeway_Growth.jpg
 

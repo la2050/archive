@@ -27,7 +27,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/one-d
 project_video: ''
 project_id_3: '8102092'
 year_submitted: 2018
-organization_name: One Degree
 project_proposal_description: >-
   Low-income families spend hours every week researching, finding, and traveling
   to multiple agencies to get the services they need. The users of social

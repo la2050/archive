@@ -24,27 +24,10 @@ project_ids: '4102140'
 title: Incubator School
 uri: /organizations/incubator-school/
 challenge_url: ''
-extrapolated_project_ids:
-  - '4102100'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Incubator School Programs + Playbook: Open Source 21st Century
-    Entrepreneurial Education
 project_titles:
   - >-
     Incubator School Programs + Playbook: Open Source 21st Century
     Entrepreneurial Education
-project_titles_from_project_ids:
-  - >-
-    Bridge Skilled Workers & Businesses to Have LA Become the First Certified
-    Work Ready Community in CA
-original_project_titles:
-  - >-
-    Incubator School Programs + Playbook: Open Source 21st Century
-    Entrepreneurial Education
-original_project_ids:
-  - '4102100'
-project_titles_flagged: 1
 youtube_video_identifier: 2Pjt88MXETw
 
 ---

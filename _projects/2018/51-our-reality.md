@@ -41,7 +41,6 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/tw
 project_video: ''
 project_id_3: '8102127'
 year_submitted: 2018
-organization_name: TWIGG How-To
 project_proposal_description: >-
   51%: Our Reality is a multi-narrative virtual reality exhibit based on the
   real experiences of women in LA, who make up 51% of our city’s population.

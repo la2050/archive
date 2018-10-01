@@ -38,19 +38,5 @@ project_ids: '6102129'
 title: Las Fotos Project
 uri: /organizations/las-fotos-project/
 challenge_url: 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
-extrapolated_project_ids:
-  - '6102129'
-project_titles_from_extrapolated_project_ids:
-  - Connecting Communities through Fotos
-project_titles:
-  - Connecting Communities through Fotos
-project_titles_from_project_ids:
-  - Connecting Communities through Fotos
-original_project_titles:
-  - Connecting Communities through Fotos
-  - Las Fotos Project
-original_project_ids:
-  - '6102129'
-project_titles_flagged: 1
 
 ---

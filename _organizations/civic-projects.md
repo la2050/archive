@@ -47,16 +47,7 @@ project_ids: '3102074'
 title: CIVIC PROJECTS
 uri: /organizations/civic-projects/
 challenge_url: 'http://maker.good.is/myla2050/projects/PickUpPopUpProduce.html'
-extrapolated_project_ids:
-  - '3102074'
-project_titles_from_extrapolated_project_ids:
-  - PickUp PopUp Produce Station
 project_titles:
   - PickUp PopUp Produce Station
-project_titles_from_project_ids:
-  - PickUp PopUp Produce Station
-original_project_titles: []
-original_project_ids: []
-project_titles_flagged: 1
 
 ---

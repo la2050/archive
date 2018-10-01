@@ -11,8 +11,8 @@ ntee_type: ''
 tags_indicators:
   - Voting & civic engagement
   - Social connectedness
-twitter: ''
-instagram: ''
+twitter: 0
+instagram: 0
 facebook: 'https://www.facebook.com/UnitedParentsandStudents/'
 org_type: Nonprofit
 project_image: >-
@@ -34,26 +34,6 @@ project_ids: '8102131'
 title: United Parents and Students
 uri: /organizations/united-parents-and-students/
 challenge_url: 'https://activation.la2050.org/connect/united-parents-and-students/'
-extrapolated_project_ids:
-  - '8102131'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    United Parents and Students: Developing Cultures of Civic Engagement Across
-    Los Angeles
-project_titles:
-  - >-
-    United Parents and Students: Developing Cultures of Civic Engagement Across
-    Los Angeles
-project_titles_from_project_ids:
-  - >-
-    United Parents and Students: Developing Cultures of Civic Engagement Across
-    Los Angeles
-original_project_titles:
-  - >-
-    United Parents and Students: Developing Cultures of Civic Engagement Across
-    Los Angeles
-original_project_ids:
-  - '8102131'
 category: connect
 
 ---

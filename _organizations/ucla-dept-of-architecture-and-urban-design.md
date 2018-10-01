@@ -40,18 +40,8 @@ project_ids: '3102261'
 title: UCLA Dept. of Architecture and Urban Design
 uri: /organizations/ucla-dept-of-architecture-and-urban-design/
 challenge_url: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
-extrapolated_project_ids:
-  - '3102261'
-project_titles_from_extrapolated_project_ids:
-  - HYPOPARK
 project_titles:
   - HYPOPARK
-project_titles_from_project_ids:
-  - HYPOPARK
-original_project_titles:
-  - HYPO-PARK
-original_project_ids:
-  - '3102261'
 maker_image_id: '16612'
 maker_image_file_name: HYPOPARK.jpg
 

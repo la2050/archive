@@ -26,19 +26,8 @@ project_ids: '4102056'
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 uri: /organizations/los-angeles-downtown-arts-district-space-ladadspace/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - LADADSpace LA Murals & Mentorship Program
-project_titles_from_project_ids:
-  - >-
-    We Are All LA: a socially conscious business network to end womens
-    homelessness through jobs
-original_project_titles:
-  - LADADSpace LA Murals & Mentorship Program
-original_project_ids:
-  - '4102129'
-project_titles_flagged: 1
 youtube_video_identifier: cVrWTvw8gFc
 
 ---

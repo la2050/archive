@@ -29,17 +29,5 @@ title: Represent
 uri: /organizations/represent/
 challenge_url: >-
   https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
-extrapolated_project_ids:
-  - '6102197'
-project_titles_from_extrapolated_project_ids:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-project_titles:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-project_titles_from_project_ids:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-original_project_titles:
-  - 'Represent: FREE acting & media arts school for diverse media makers!'
-original_project_ids:
-  - '6102197'
 
 ---

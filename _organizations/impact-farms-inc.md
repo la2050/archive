@@ -39,18 +39,8 @@ project_ids: '3102057'
 title: 'ImPact Farms, Inc.'
 uri: /organizations/impact-farms-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
-extrapolated_project_ids:
-  - '3102057'
-project_titles_from_extrapolated_project_ids:
-  - Organizing Social Enterprise Urban Farm in South Los Angeles
 project_titles:
   - Organizing Social Enterprise Urban Farm in South Los Angeles
-project_titles_from_project_ids:
-  - Organizing Social Enterprise Urban Farm in South Los Angeles
-original_project_titles:
-  - 'Organizing Social Enterprise, Urban Farm in South Los Angeles'
-original_project_ids:
-  - '3102057'
 maker_image_id: '16812'
 maker_image_file_name: Logo_Color_Large2.png
 

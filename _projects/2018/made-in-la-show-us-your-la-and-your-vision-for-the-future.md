@@ -69,7 +69,6 @@ project_image: >-
 project_video: 'https://youtu.be/-PSOJBGkQ-Y'
 project_id_3: '8102040'
 year_submitted: 2018
-organization_name: Film Independent
 project_proposal_description: >-
   To show the diversity and beauty of what it means to live in LA today (and
   hint at its future), we will engage people through a call for submissions to

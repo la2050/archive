@@ -41,17 +41,5 @@ project_ids: '6102158'
 title: Muscular Dystrophy Association
 uri: /organizations/muscular-dystrophy-association/
 challenge_url: 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
-extrapolated_project_ids:
-  - '6102158'
-project_titles_from_extrapolated_project_ids:
-  - Live Unlimited with MDA's Summer Camp
-project_titles:
-  - Live Unlimited with MDA's Summer Camp
-project_titles_from_project_ids:
-  - Live Unlimited with MDA's Summer Camp
-original_project_titles:
-  - Live Unlimited with MDA's Summer Camp
-original_project_ids:
-  - '6102158'
 
 ---

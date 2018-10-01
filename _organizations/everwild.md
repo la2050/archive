@@ -29,18 +29,6 @@ project_ids: '8102038'
 title: EverWild
 uri: /organizations/everwild/
 challenge_url: 'https://activation.la2050.org/play/everwild/'
-extrapolated_project_ids:
-  - '8102038'
-project_titles_from_extrapolated_project_ids:
-  - EverWild - Connect with Nature the EverWild Way
-project_titles:
-  - EverWild - Connect with Nature the EverWild Way
-project_titles_from_project_ids:
-  - EverWild - Connect with Nature the EverWild Way
-original_project_titles:
-  - EverWild - Connect with Nature the EverWild Way
-original_project_ids:
-  - '8102038'
 category: play
 
 ---

@@ -21,18 +21,9 @@ project_ids: '4102188'
 title: 'WriteGirl, a project of Community Partners'
 uri: /organizations/writegirl-a-project-of-community-partners/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
+  - 'WriteGirl: The Write Place for Girls'
   - 'Power of the Pen: Writing Together'
-  - 'WriteGirl: The Write Place for Girls'
-project_titles_from_project_ids:
-  - SCV Adventure Play Pop-ups and Park Projects
-original_project_titles:
-  - 'WriteGirl: The Write Place for Girls'
-original_project_ids:
-  - '4102263'
-project_titles_flagged: 1
 youtube_video_identifier: FmHmFIlfA4A
 
 ---

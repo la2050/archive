@@ -32,30 +32,5 @@ title: Los Angeles Food Policy Council
 uri: /organizations/los-angeles-food-policy-council/
 challenge_url: >-
   https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
-extrapolated_project_ids:
-  - '6102140'
-  - '3102185'
-project_titles_from_extrapolated_project_ids:
-  - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
-  - >-
-    The Good Food Purchasing Program: Building a Local and Sustainable Food
-    Economy for LA
-project_titles:
-  - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
-  - Healthy Neighborhood Market Network
-  - >-
-    The Good Food Purchasing Program: Building a Local and Sustainable Food
-    Economy for LA
-project_titles_from_project_ids:
-  - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
-original_project_titles:
-  - 'Food Democracy in LA: Creating Policy Ideas for a Healthy, Fair Food System'
-  - >-
-    The Good Food Purchasing Program: Building a Local and Sustainable Food
-    Economy for LA
-original_project_ids:
-  - '3102185'
-  - '6102140'
-project_titles_flagged: 1
 
 ---

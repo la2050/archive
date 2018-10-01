@@ -28,17 +28,5 @@ project_ids: '6102024'
 title: 'Building Healthy Communities: Long Beach'
 uri: /organizations/building-healthy-communities-long-beach/
 challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
-extrapolated_project_ids:
-  - '6102024'
-project_titles_from_extrapolated_project_ids:
-  - 'People''s Planning School: Park Equity Project'
-project_titles:
-  - 'People''s Planning School: Park Equity Project'
-project_titles_from_project_ids:
-  - 'People''s Planning School: Park Equity Project'
-original_project_titles:
-  - 'People''s Planning School: Park Equity Project'
-original_project_ids:
-  - '6102024'
 
 ---

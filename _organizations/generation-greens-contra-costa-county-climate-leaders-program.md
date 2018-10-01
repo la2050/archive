@@ -51,26 +51,10 @@ project_ids: '3102138'
 title: Generation Green's Contra Costa County Climate Leaders Program
 uri: /organizations/generation-greens-contra-costa-county-climate-leaders-program/
 challenge_url: 'http://maker.good.is/myla2050/projects/climateleaders.html'
-extrapolated_project_ids:
-  - '3102138'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Climate Leaders  reducing environmental impact by sharing best practices
-    among local leaders
 project_titles:
   - >-
     Climate Leaders  reducing environmental impact by sharing best practices
     among local leaders
-project_titles_from_project_ids:
-  - >-
-    Climate Leaders  reducing environmental impact by sharing best practices
-    among local leaders
-original_project_titles:
-  - >-
-    Climate Leaders - reducing environmental impact by sharing best practices
-    among local leaders
-original_project_ids:
-  - '3102138'
 maker_image_id: '16505'
 maker_image_file_name: Logo.jpg
 

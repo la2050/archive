@@ -31,22 +31,6 @@ title: Children's Action Network
 uri: /organizations/childrens-action-network/
 challenge_url: >-
   https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
-extrapolated_project_ids:
-  - '6102035'
-project_titles_from_extrapolated_project_ids:
-  - FosterMore-Because No Child Makes It Alone
-project_titles:
-  - FosterMore-Because No Child Makes It Alone
-  - >-
-    Fostering a better future for LA youth by expanding a successful foster
-    family recruitment campaign.
-project_titles_from_project_ids:
-  - >-
-    Fostering a better future for LA youth by expanding a successful foster
-    family recruitment campaign.
-original_project_titles: []
-original_project_ids: []
-project_titles_flagged: 1
 category: connect
 
 ---

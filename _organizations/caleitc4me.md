@@ -12,7 +12,7 @@ tags_indicators:
   - Access to capital & benefits
   - Income & employment
 twitter: '@CalEITC4Me'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/CalEITC4Me/'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/caleitc4me.jpg'
@@ -30,18 +30,6 @@ project_ids: '8102012'
 title: CalEITC4Me
 uri: /organizations/caleitc4me/
 challenge_url: 'https://activation.la2050.org/live/caleitc4me/'
-extrapolated_project_ids:
-  - '8102012'
-project_titles_from_extrapolated_project_ids:
-  - Financial Security for Low-Income Angelenos
-project_titles:
-  - Financial Security for Low-Income Angelenos
-project_titles_from_project_ids:
-  - Financial Security for Low-Income Angelenos
-original_project_titles:
-  - Financial Security for Low-Income Angelenos
-original_project_ids:
-  - '8102012'
 category: live
 
 ---

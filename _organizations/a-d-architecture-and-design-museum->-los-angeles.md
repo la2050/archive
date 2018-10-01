@@ -50,18 +50,8 @@ project_ids: '3102004'
 title: A+D Architecture and Design Museum > Los Angeles
 uri: /organizations/a-d-architecture-and-design-museum->-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/NEVERBUILT.html'
-extrapolated_project_ids:
-  - '3102004'
-project_titles_from_extrapolated_project_ids:
-  - 'Never Built: Los Angeles'
 project_titles:
   - 'Never Built: Los Angeles'
-project_titles_from_project_ids:
-  - 'Never Built: Los Angeles'
-original_project_titles:
-  - 'Never Built: Los Angeles'
-original_project_ids:
-  - '3102004'
 youtube_video_identifier: keoZhYn_XbI
 
 ---

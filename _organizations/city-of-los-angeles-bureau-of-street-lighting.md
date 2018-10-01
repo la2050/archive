@@ -14,8 +14,8 @@ tags_indicators:
   - Environmental quality & sustainability
   - Health
 twitter: '@LA_Streetlights'
-instagram: ''
-facebook: ''
+instagram: 0
+facebook: 0
 org_type: Government
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/city-of-los-angeles-bureau-of-street-lighting.jpg
@@ -33,16 +33,6 @@ title: 'City of Los Angeles, Bureau of Street Lighting'
 uri: /organizations/city-of-los-angeles-bureau-of-street-lighting/
 challenge_url: >-
   https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'AirCareLA, an Air Quality Education Pilot'
-project_titles_from_project_ids:
-  - 'AirCareLA, an Air Quality Education Pilot'
-original_project_titles:
-  - 'AirCareLA, an Air Quality Education Pilot'
-original_project_ids:
-  - '8102026'
 category: live
 
 ---

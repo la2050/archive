@@ -73,18 +73,8 @@ project_ids: '3102192'
 title: LTSC Community Development Corporation
 uri: /organizations/ltsc-community-development-corporation/
 challenge_url: 'http://maker.good.is/myla2050/projects/LTSC.html'
-extrapolated_project_ids:
-  - '3102192'
-project_titles_from_extrapolated_project_ids:
-  - ReConnecting L.A. Neighborhoods through Music & History
 project_titles:
   - ReConnecting L.A. Neighborhoods through Music & History
-project_titles_from_project_ids:
-  - ReConnecting L.A. Neighborhoods through Music & History
-original_project_titles:
-  - Re-Connecting L.A. Neighborhoods through Music & History
-original_project_ids: []
-project_titles_flagged: 1
 maker_image_id: '16930'
 maker_image_file_name: LTSC_LA2050.jpg
 

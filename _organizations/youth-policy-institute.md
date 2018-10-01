@@ -29,43 +29,6 @@ project_ids: '8102140'
 title: Youth Policy Institute
 uri: /organizations/youth-policy-institute/
 challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'
-extrapolated_project_ids:
-  - '6102288'
-  - '3102278'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Undermine College Undermatching: Using Technology to Select the Best College
-    Fit for LA's Students
-  - 'Los Angeles Promise Neighborhood: Transforming Public Education'
-project_titles:
-  - LA Schools to Parks
-  - 'Los Angeles Promise Neighborhood: Transforming Public Education'
-  - Nuestros Murales Unidos
-  - >-
-    Undermine College Undermatching: Using Technology to Select the Best College
-    Fit for LA's Students
-  - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
-project_titles_from_project_ids:
-  - Nuestros Murales Unidos
-original_project_titles:
-  - LA Schools to Parks
-  - LA Schools to Parks
-  - LA Schools to Parks
-  - 'Los Angeles Promise Neighborhood: Transforming Public Education'
-  - Nuestros Murales Unidos
-  - >-
-    Undermine College Undermatching: Using Technology to Select the Best College
-    Fit for LA's Students
-  - 'YPI’s COLLEGE PROMISE: College Matched Savings Accounts'
-original_project_ids:
-  - '3102278'
-  - '4102265'
-  - '4102265'
-  - '4102265'
-  - '5102347'
-  - '6102288'
-  - '8102140'
-project_titles_flagged: 1
 category: connect
 
 ---

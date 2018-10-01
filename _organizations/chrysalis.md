@@ -31,25 +31,5 @@ title: Chrysalis
 uri: /organizations/chrysalis/
 challenge_url: >-
   https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
-extrapolated_project_ids:
-  - '6102036'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-    employment
-project_titles:
-  - >-
-    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-    employment
-project_titles_from_project_ids:
-  - >-
-    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-    employment
-original_project_titles:
-  - >-
-    Changing Lives Through Jobs: Create a #SecondChance for L.A. through
-    employment 
-original_project_ids:
-  - '6102036'
 
 ---

@@ -22,17 +22,8 @@ project_ids: '4102171'
 title: The Laurel Foundation
 uri: /organizations/the-laurel-foundation/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Spreading ChapCares Retail Health Insurance Enrollment Shop Model
-project_titles_from_project_ids:
-  - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
-original_project_titles:
-  - RUN FOR YOUR LIFE
-original_project_ids:
-  - '4102231'
-project_titles_flagged: 1
 maker_image_id: '20215'
 maker_image_file_name: RUN_FOR_YOUR_LIFE.jpg
 

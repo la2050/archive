@@ -30,19 +30,8 @@ project_ids: '5102181'
 title: Eastside Rehearsal
 uri: /organizations/eastside-rehearsal/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Free Music Studio Access for Students of Los Angeles
-project_titles_from_project_ids:
-  - >-
-    MADE in Long Beach: Fostering independent entrepreneurship to accelerate the
-    local economy
-original_project_titles:
-  - Free Music Studio Access for Students of Los Angeles
-original_project_ids:
-  - '5102090'
-project_titles_flagged: 1
 maker_image_id: '23180'
 maker_image_file_name: ESRLogo.jpg
 

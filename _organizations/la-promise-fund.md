@@ -31,17 +31,5 @@ project_ids: '6102123'
 title: LA Promise Fund
 uri: /organizations/la-promise-fund/
 challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
-extrapolated_project_ids:
-  - '6102123'
-project_titles_from_extrapolated_project_ids:
-  - 'The Intern Project: SLATE-Z Expansion'
-project_titles:
-  - 'The Intern Project: SLATE-Z Expansion'
-project_titles_from_project_ids:
-  - 'The Intern Project: SLATE-Z Expansion'
-original_project_titles:
-  - 'The Intern Project: SLATE-Z Expansion'
-original_project_ids:
-  - '6102123'
 
 ---

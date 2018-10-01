@@ -28,16 +28,8 @@ project_ids: '5102315'
 title: 'TheLab, Inc'
 uri: /organizations/thelab-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/thelab.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'TheLab: LA’s Place for Scientific Exploration'
-project_titles_from_project_ids:
-  - 'TheLab: LA’s Place for Scientific Exploration'
-original_project_titles:
-  - 'TheLab: LA’s Place for Scientific Exploration'
-original_project_ids:
-  - '5102315'
 maker_image_id: '23379'
 maker_image_file_name: LA2050.png
 

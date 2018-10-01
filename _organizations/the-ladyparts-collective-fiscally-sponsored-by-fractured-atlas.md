@@ -32,25 +32,5 @@ title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 uri: /organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 challenge_url: >-
   https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
-extrapolated_project_ids:
-  - '6102260'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
-    CAMPUSES
-project_titles:
-  - >-
-    ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
-    CAMPUSES
-project_titles_from_project_ids:
-  - >-
-    ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
-    CAMPUSES
-original_project_titles:
-  - >-
-    ELIMINATING THE GRAY: LEVERAGING THEATER TO END SEXUAL VIOLENCE ON COLLEGE
-    CAMPUSES
-original_project_ids:
-  - '6102260'
 
 ---

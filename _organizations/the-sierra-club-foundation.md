@@ -32,19 +32,5 @@ title: The Sierra Club Foundation
 uri: /organizations/the-sierra-club-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
-extrapolated_project_ids:
-  - '6102257'
-project_titles_from_extrapolated_project_ids:
-  - The Future is Bright! A Clean Energy Future for LA
-project_titles:
-  - The Future is Bright! A Clean Energy Future for LA
-  - Undevelopment One
-project_titles_from_project_ids:
-  - The Future is Bright! A Clean Energy Future for LA
-original_project_titles:
-  - The Future is Bright! A Clean Energy Future for LA
-original_project_ids:
-  - '6102257'
-project_titles_flagged: 1
 
 ---

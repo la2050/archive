@@ -28,28 +28,5 @@ project_ids: '6102255'
 title: The River Project
 uri: /organizations/the-river-project/
 challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
-extrapolated_project_ids:
-  - '6102255'
-  - '3102257'
-project_titles_from_extrapolated_project_ids:
-  - Green Our L.A. River!
-  - 'Serious Game: Los Angeles 2050'
-project_titles:
-  - Blue/Green Jobs for a Climate Resilient Los Angeles
-  - Green Our L.A. River!
-  - 'Serious Game: Los Angeles 2050'
-project_titles_from_project_ids:
-  - Green Our L.A. River!
-original_project_titles:
-  - Blue/Green Jobs for a Climate Resilient Los Angeles
-  - Green Our L.A. River!
-  - 'Serious Game: Los Angeles 2050'
-  - 'Serious Game: Los Angeles 2050'
-original_project_ids:
-  - '3102257'
-  - '3102257'
-  - '5102310'
-  - '6102255'
-project_titles_flagged: 1
 
 ---

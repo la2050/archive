@@ -32,22 +32,6 @@ project_ids: '8102056'
 title: Justice LA | Dignity and Power Now
 uri: /organizations/justice-la-dignity-and-power-now/
 challenge_url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    Justice LA, along with FreeAmerica, are working to radically transform LA
-    County's justice system.
-project_titles_from_project_ids:
-  - >-
-    Justice LA, along with FreeAmerica, are working to radically transform LA
-    County's justice system.
-original_project_titles:
-  - >-
-    Justice LA, along with FreeAmerica, are working to radically transform LA
-    County's justice system.
-original_project_ids:
-  - '8102056'
 category: connect
 
 ---

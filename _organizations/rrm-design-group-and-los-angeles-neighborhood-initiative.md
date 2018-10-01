@@ -26,16 +26,8 @@ project_ids: '5102257'
 title: RRM Design Group and Los Angeles Neighborhood Initiative
 uri: /organizations/rrm-design-group-and-los-angeles-neighborhood-initiative/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - LA Outside The Box
-project_titles_from_project_ids:
-  - LA Outside The Box
-original_project_titles:
-  - LA Outside The Box
-original_project_ids:
-  - '5102257'
 maker_image_id: '23558'
 maker_image_file_name: IMG_0112.JPG
 

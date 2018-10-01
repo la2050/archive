@@ -29,29 +29,5 @@ title: California Partnership
 uri: /organizations/california-partnership/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
-extrapolated_project_ids:
-  - '6102027'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    LA Civic Power: Shaping Policy and Building Relationships with All
-    Stakeholders
-project_titles:
-  - '#WeThePeople'
-  - >-
-    LA Civic Power: Shaping Policy and Building Relationships with All
-    Stakeholders
-project_titles_from_project_ids:
-  - >-
-    LA Civic Power: Shaping Policy and Building Relationships with All
-    Stakeholders
-original_project_titles:
-  - '#WeThePeople'
-  - >-
-    LA Civic Power: Shaping Policy and Building Relationships with All
-    Stakeholders
-original_project_ids:
-  - '4102030'
-  - '6102027'
-project_titles_flagged: 1
 
 ---

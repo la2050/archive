@@ -22,7 +22,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=pOdXvRDzj98'
 project_id_3: '8102070'
 year_submitted: 2018
-organization_name: 'Lola Techsystems, Inc.'
 project_proposal_description: |-
   Our mission: spread Lola’s impact through out LA County. 
    

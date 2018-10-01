@@ -37,18 +37,8 @@ project_ids: '3102229'
 title: RFK-LA (Legacy in Action)
 uri: /organizations/rfk-la-legacy-in-action/
 challenge_url: 'http://maker.good.is/myla2050/projects/RFKLA.html'
-extrapolated_project_ids:
-  - '3102229'
-project_titles_from_extrapolated_project_ids:
-  - RFKLA (Legacy in Action) Digital Archive
 project_titles:
   - RFKLA (Legacy in Action) Digital Archive
-project_titles_from_project_ids:
-  - RFKLA (Legacy in Action) Digital Archive
-original_project_titles:
-  - RFK-LA (Legacy in Action) Digital Archive
-original_project_ids: []
-project_titles_flagged: 1
 maker_image_id: '17150'
 maker_image_file_name: rfk-logo.png
 

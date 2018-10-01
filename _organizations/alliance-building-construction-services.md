@@ -27,17 +27,5 @@ title: Alliance Building & Construction Services
 uri: /organizations/alliance-building-construction-services/
 challenge_url: >-
   https://challenge.la2050.org/entry/it-takes-a-village-to-reintegrate-the-homeless
-extrapolated_project_ids:
-  - '6102072'
-project_titles_from_extrapolated_project_ids:
-  - It Takes a Village to Reintegrate the Homeless
-project_titles:
-  - It Takes a Village to Reintegrate the Homeless
-project_titles_from_project_ids:
-  - It Takes a Village to Reintegrate the Homeless
-original_project_titles:
-  - It Takes a Village to Reintegrate the Homeless
-original_project_ids:
-  - '6102072'
 
 ---

@@ -32,17 +32,5 @@ title: Knit Marketing
 uri: /organizations/knit-marketing/
 challenge_url: >-
   https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
-extrapolated_project_ids:
-  - '6102186'
-project_titles_from_extrapolated_project_ids:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
-project_titles:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
-project_titles_from_project_ids:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
-original_project_titles:
-  - Providing Quality Job Access to Untapped Teens and Young Adults
-original_project_ids:
-  - '6102186'
 
 ---

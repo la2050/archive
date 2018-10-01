@@ -81,18 +81,8 @@ project_ids: '3102127'
 title: First Look West
 uri: /organizations/first-look-west/
 challenge_url: 'http://maker.good.is/myla2050/projects/FLOW.html'
-extrapolated_project_ids:
-  - '3102127'
-project_titles_from_extrapolated_project_ids:
-  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
 project_titles:
-  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
-project_titles_from_project_ids:
   - 'Jobs for LAâ€™s Cleantech Future: the FLoW Multiplier Program'
-original_project_titles:
-  - 'Jobs for LA’s Cleantech Future: the FLoW Multiplier Program'
-original_project_ids: []
-project_titles_flagged: 1
 maker_image_id: '16416'
 maker_image_file_name: FLOW-image-2.jpg
 

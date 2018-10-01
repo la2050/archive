@@ -42,18 +42,6 @@ project_ids: '8102102'
 title: REGIONAL.LA
 uri: /organizations/regional-la/
 challenge_url: 'https://activation.la2050.org/connect/regional-la/'
-extrapolated_project_ids:
-  - '8102102'
-project_titles_from_extrapolated_project_ids:
-  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
-project_titles:
-  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
-project_titles_from_project_ids:
-  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
-original_project_titles:
-  - 'REGIONAL.LA: Delivering Community Engagement to Los Angeles County'
-original_project_ids:
-  - '8102102'
 category: connect
 
 ---

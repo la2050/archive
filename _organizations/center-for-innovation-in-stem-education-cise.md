@@ -33,22 +33,6 @@ title: Center for Innovation in STEM Education (CISE)
 uri: /organizations/center-for-innovation-in-stem-education-cise/
 challenge_url: >-
   https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    Next Generation Science Standards: Empowering Teachers to Empower Students
-    for the Future of STEM
-project_titles_from_project_ids:
-  - >-
-    Next Generation Science Standards: Empowering Teachers to Empower Students
-    for the Future of STEM
-original_project_titles:
-  - >-
-    Next Generation Science Standards: Empowering Teachers to Empower Students
-    for the Future of STEM
-original_project_ids:
-  - '8102016'
 category: learn
 
 ---

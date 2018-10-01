@@ -31,25 +31,5 @@ title: 'California State University, Northridge (CSUN)'
 uri: /organizations/california-state-university-northridge-csun/
 challenge_url: >-
   https://challenge.la2050.org/entry/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started
-extrapolated_project_ids:
-  - '6102028'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
-    their careers started.
-project_titles:
-  - >-
-    CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
-    their careers started.
-project_titles_from_project_ids:
-  - >-
-    CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
-    their careers started.
-original_project_titles:
-  - >-
-    CSUN’s Recruiting Boot Camp helps students gain the skills they need to get
-    their careers started.
-original_project_ids:
-  - '6102028'
 
 ---

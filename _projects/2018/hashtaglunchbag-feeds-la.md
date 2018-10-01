@@ -27,9 +27,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=3WjUJh2z0WE'
 project_id_3: '8102002'
 year_submitted: 2018
-organization_name: >-
-  #HashtagLunchbag - powered by Living Through Giving Foundation, 501(c)3
-  nonprofit
 project_proposal_description: >-
   #HashtagLunchbag aspires to promote and affirm the notion that solutions to
   large scale problems are attainable even when a small group of people dedicate

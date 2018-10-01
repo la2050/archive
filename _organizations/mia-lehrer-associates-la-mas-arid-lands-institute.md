@@ -21,19 +21,8 @@ project_ids: '4102156'
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 uri: /organizations/mia-lehrer-associates-la-mas-arid-lands-institute/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Four Seasons of Food
-project_titles_from_project_ids:
-  - Every Kid Deserves a Learning Garden
-original_project_titles:
-  - >-
-    L.A.W.N. Los Angeles Water Network: A digital platform to help solve our
-    water crisis
-original_project_ids:
-  - '4102143'
-project_titles_flagged: 1
 youtube_video_identifier: 2qWrLJakj5M
 
 ---

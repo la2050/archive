@@ -30,7 +30,6 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/vo
 project_video: 'https://www.youtube.com/watch?v=UJlhdh9rWgs'
 project_id_3: '8102134'
 year_submitted: 2018
-organization_name: VoteRunLead
 project_proposal_description: >-
   VoteRunLead is an expert at building independent political power and
   grassroots movements at the local level. Through the LA2050 Activation

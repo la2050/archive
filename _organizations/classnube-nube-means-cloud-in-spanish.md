@@ -30,21 +30,10 @@ project_ids: '4102099'
 title: ClassNube (Nube means Cloud in Spanish)
 uri: /organizations/classnube-nube-means-cloud-in-spanish/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Graduate thousands of L.A. High School Students with an Awesome Teacher & an
     Innovative App
-project_titles_from_project_ids:
-  - 'Mission 3.0: Empowering Leaders on the Field and In the Classroom'
-original_project_titles:
-  - >-
-    Graduate thousands of L.A. High School Students with an Awesome Teacher & an
-    Innovative App 
-original_project_ids:
-  - '5102065'
-project_titles_flagged: 1
 youtube_video_identifier: UYdxlEZVaNA
 
 ---

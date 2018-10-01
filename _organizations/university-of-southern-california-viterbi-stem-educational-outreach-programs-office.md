@@ -37,17 +37,5 @@ uri: >-
   /organizations/university-of-southern-california-viterbi-stem-educational-outreach-programs-office/
 challenge_url: >-
   https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
-extrapolated_project_ids:
-  - '6102274'
-project_titles_from_extrapolated_project_ids:
-  - STEM Center for Innovation and Excellence (SCIE)
-project_titles:
-  - STEM Center for Innovation and Excellence (SCIE)
-project_titles_from_project_ids:
-  - STEM Center for Innovation and Excellence (SCIE)
-original_project_titles:
-  - STEM Center for Innovation and Excellence (SCIE)
-original_project_ids:
-  - '6102274'
 
 ---

@@ -1,7 +1,7 @@
 ---
 organization_id: '2016021'
 year_submitted: 2016
-organization_name: BlacklistLA Run Organization
+organization_name: BlacklistLA
 organization_website: www.blacklistla.city
 ein: '954440752'
 project_image_2: 3733468065741-team91.JPG

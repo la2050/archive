@@ -34,21 +34,5 @@ title: BlacklistLA
 uri: /organizations/blacklistla/
 challenge_url: >-
   https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
-extrapolated_project_ids:
-  - '6102019'
-  - '5102029'
-project_titles_from_extrapolated_project_ids:
-  - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
-  - BlacklistLA Moves Toward The Future
-project_titles:
-  - BlacklistLA Moves Toward The Future
-  - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
-project_titles_from_project_ids:
-  - 'BlacklistLA: On the Playground Where We Spent Most of Our Days'
-original_project_titles:
-  - BlacklistLA Moves Toward The Future
-original_project_ids:
-  - '5102029'
-project_titles_flagged: 1
 
 ---

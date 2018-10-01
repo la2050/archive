@@ -130,7 +130,6 @@ project_image: >-
 project_video: 'https://youtu.be/PTteThgae3o'
 project_id_3: '8102045'
 year_submitted: 2018
-organization_name: Girls Academic Leadership Academy (GALA)
 project_proposal_description: >-
   GALA’s mission is to provide its diverse community of young women with an
   excellent STEM education that prepares them for success in both university

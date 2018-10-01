@@ -5,7 +5,7 @@ title: 'Welcome, Neighbor: Making LA the most welcoming place in America'
 project_summary: >-
   "Welcome, Neighbor" is a campaign to activate Angelenos across the city
   through their Neighborhood Councils to welcome and support their newest
-  neighbors, refugee families resettling in Los Angeles.
+  neighbors, refugee families resettling in Los Angeles. 
 Please describe the activation your organization seeks to launch.: >-
   “Welcome, Neighbor” will activate people across LA to welcome and support
   their newest neighbors -- resettling refugees. Working through the
@@ -28,7 +28,6 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/mi
 project_video: 'https://youtu.be/6re3u9HlO-A'
 project_id_3: '8102083'
 year_submitted: 2018
-organization_name: Miry’s List
 project_proposal_description: >-
   “Welcome, Neighbor” will activate people across LA to welcome and support
   their newest neighbors -- resettling refugees. Working through the

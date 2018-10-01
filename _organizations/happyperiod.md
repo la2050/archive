@@ -15,7 +15,7 @@ tags_indicators:
   - Housing & homelessness
 twitter: happyperiodorg
 instagram: wearehappyperiod
-facebook: ''
+facebook: 0
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happyperiod.jpg'
 project_video: 'https://youtu.be/goBUjr5-dRA'
@@ -31,18 +31,6 @@ project_ids: '8102001'
 title: '#HappyPeriod'
 uri: /organizations/happyperiod/
 challenge_url: 'https://activation.la2050.org/live/happyperiod/'
-extrapolated_project_ids:
-  - '8102001'
-project_titles_from_extrapolated_project_ids:
-  - Normalize Periods by Giving Back!
-project_titles:
-  - Normalize Periods by Giving Back!
-project_titles_from_project_ids:
-  - Normalize Periods by Giving Back!
-original_project_titles:
-  - Normalize Periods by Giving Back!
-original_project_ids:
-  - '8102001'
 category: live
 
 ---

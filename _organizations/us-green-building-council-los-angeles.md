@@ -22,19 +22,10 @@ project_ids: '4102182'
 title: US Green Building Council-Los Angeles
 uri: /organizations/us-green-building-council-los-angeles/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Turning food scraps into a resource for local farms good jobs renewable
     energy and zero waste.
-project_titles_from_project_ids:
-  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
-original_project_titles:
-  - Los Angeles Resilience Rating System
-original_project_ids:
-  - '4102162'
-project_titles_flagged: 1
 maker_image_id: '20921'
 maker_image_file_name: Resilience-3_02.jpg
 

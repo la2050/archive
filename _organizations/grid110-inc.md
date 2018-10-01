@@ -28,20 +28,6 @@ project_ids: '8102049'
 title: 'Grid110, Inc.'
 uri: /organizations/grid110-inc/
 challenge_url: 'https://activation.la2050.org/create/grid110-inc/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'Grid110: Idea to Prototype'
-  - Were creating an ecosystem of entrepreneurs and growing new businesses.
-project_titles_from_project_ids:
-  - 'Grid110: Idea to Prototype'
-original_project_titles:
-  - 'Grid110: Idea to Prototype'
-  - We're creating an ecosystem of entrepreneurs and growing new businesses.
-original_project_ids:
-  - '5102122'
-  - '8102049'
-project_titles_flagged: 1
 category: create
 
 ---

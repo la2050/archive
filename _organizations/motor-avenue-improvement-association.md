@@ -26,16 +26,8 @@ project_ids: '5102210'
 title: Motor Avenue Improvement Association
 uri: /organizations/motor-avenue-improvement-association/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Palms Sustainable Farmers Market and Urban Garden Network
-project_titles_from_project_ids:
-  - Palms Sustainable Farmers Market and Urban Garden Network
-original_project_titles:
-  - Palms Sustainable Farmers Market and Urban Garden Network
-original_project_ids:
-  - '5102210'
 youtube_video_identifier: g0KxazcQnVA
 
 ---

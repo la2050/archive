@@ -38,25 +38,5 @@ title: Sundance Institute
 uri: /organizations/sundance-institute/
 challenge_url: >-
   https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
-extrapolated_project_ids:
-  - '6102220'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    NEXT FEST: A weekend of indie film & music bringing Angelenos together in
-    the heart of Downtown LA.
-project_titles:
-  - >-
-    NEXT FEST: A weekend of indie film & music bringing Angelenos together in
-    the heart of Downtown LA.
-project_titles_from_project_ids:
-  - >-
-    NEXT FEST: A weekend of indie film & music bringing Angelenos together in
-    the heart of Downtown LA.
-original_project_titles:
-  - >-
-    NEXT FEST: A weekend of indie film & music bringing Angelenos together in
-    the heart of Downtown LA.
-original_project_ids:
-  - '6102220'
 
 ---

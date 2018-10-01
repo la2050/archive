@@ -25,19 +25,8 @@ project_ids: '4102011'
 title: Audubon California
 uri: /organizations/audubon-california/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - WildLAParks
-project_titles_from_project_ids:
-  - >-
-    App of Life transforms people and communities by challenging us to play real
-    life as a game.
-original_project_titles:
-  - WildLAParks
-original_project_ids:
-  - '4102017'
-project_titles_flagged: 1
 youtube_video_identifier: KRKqNflY-PU
 
 ---

@@ -28,19 +28,8 @@ project_ids: '4102043'
 title: Holy Ghost Global
 uri: /organizations/holy-ghost-global/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Its About Good Interfaith Block Parties: Where Playing Becomes Praying'
-project_titles_from_project_ids:
-  - >-
-    How To Increase The Percentage Of Underserved Youth Graduating From College
-    in Boyle Heights
-original_project_titles:
-  - 'It''s About Good Interfaith Block Parties: Where Playing Becomes Praying'
-original_project_ids:
-  - '4102091'
-project_titles_flagged: 1
 maker_image_id: '21276'
 maker_image_file_name: interfaithsize.png
 

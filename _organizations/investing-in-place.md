@@ -32,28 +32,6 @@ project_ids: '8102055'
 title: Investing in Place
 uri: /organizations/investing-in-place/
 challenge_url: 'https://activation.la2050.org/connect/investing-in-place/'
-extrapolated_project_ids:
-  - '6102107'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
-    #HowWeRoll
-project_titles:
-  - 'More than Minivans: the Female Future of Transportation'
-  - >-
-    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
-    #HowWeRoll
-project_titles_from_project_ids:
-  - 'More than Minivans: the Female Future of Transportation'
-original_project_titles:
-  - 'More than Minivans: the Female Future of Transportation'
-  - >-
-    You Can’t Get Ahead If You Can’t Get Around: Stories & Research on
-    #HowWeRoll
-original_project_ids:
-  - '6102107'
-  - '8102055'
-project_titles_flagged: 1
 category: connect
 
 ---

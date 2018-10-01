@@ -29,30 +29,11 @@ project_ids: '5102066'
 title: Climate Cents
 uri: /organizations/climate-cents/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
-extrapolated_project_ids:
-  - '5102066'
-  - '4102039'
-project_titles_from_extrapolated_project_ids:
-  - Climate Cents
-  - >-
-    Making Los Angeles the most technologically progressive and healthy city in
-    the country
 project_titles:
   - Climate Cents
   - >-
     Making Los Angeles the most technologically progressive and healthy city in
     the country
-project_titles_from_project_ids:
-  - Climate Cents
-original_project_titles:
-  - Climate Cents
-  - Climate Cents
-  - Climate Cents
-original_project_ids:
-  - '4102013'
-  - '4102013'
-  - '4102013'
-project_titles_flagged: 1
 youtube_video_identifier: WjnYc_5sRG8
 
 ---

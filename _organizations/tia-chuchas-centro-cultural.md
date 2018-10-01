@@ -27,24 +27,11 @@ project_ids: '5102318'
 title: Tia Chucha's Centro Cultural
 uri: /organizations/tia-chuchas-centro-cultural/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/poetry.html'
-extrapolated_project_ids:
-  - '3102258'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia
-    Wellness Project
 project_titles:
   - Poetry is Life Poetry is Story
   - >-
     Tia Chuchas Centro Culturals Arts Transforms Community  A Multimedia
     Wellness Project
-project_titles_from_project_ids:
-  - Poetry is Life Poetry is Story
-original_project_titles:
-  - 'Poetry is Life, Poetry is Story'
-original_project_ids:
-  - '5102318'
-project_titles_flagged: 1
 youtube_video_identifier: gX3uzlinkXc
 
 ---

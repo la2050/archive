@@ -23,21 +23,10 @@ title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 uri: >-
   /organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Mapping Los Angeles Air Pollution through a mobile application to create
     awareness and engagement.
-project_titles_from_project_ids:
-  - QueerFest LA
-original_project_titles:
-  - >-
-    Making Los Angeles the most technologically progressive and healthy city in
-    the country
-original_project_ids:
-  - '4102039'
-project_titles_flagged: 1
 maker_image_id: '20504'
 maker_image_file_name: myla2.png
 

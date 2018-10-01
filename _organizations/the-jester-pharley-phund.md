@@ -33,23 +33,5 @@ title: The Jester & Pharley Phund
 uri: /organizations/the-jester-pharley-phund/
 challenge_url: >-
   https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
-extrapolated_project_ids:
-  - '6102246'
-  - '4102216'
-project_titles_from_extrapolated_project_ids:
-  - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
-  - Reading Makes a Difference
-project_titles:
-  - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
-  - Reading Makes a Difference
-project_titles_from_project_ids:
-  - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
-original_project_titles:
-  - 'Reading Makes A Difference: Inspiring Kids to Read & Care About Others'
-  - Reading Makes a Difference
-original_project_ids:
-  - '4102216'
-  - '6102246'
-project_titles_flagged: 1
 
 ---

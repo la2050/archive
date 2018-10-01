@@ -25,17 +25,8 @@ project_ids: '4102132'
 title: Green Education Inc.
 uri: /organizations/green-education-inc/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Empowering Teens to Make Healthy Decisions
-project_titles_from_project_ids:
-  - Meet me in MacArthur Park
-original_project_titles:
-  - Green The Block
-original_project_ids:
-  - '4102200'
-project_titles_flagged: 1
 maker_image_id: '22790'
 maker_image_file_name: GEInc_Logo-brown_3-12.jpg
 

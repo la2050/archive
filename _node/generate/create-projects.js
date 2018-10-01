@@ -147,27 +147,11 @@ function subCompare (needle, haystack, min_substring_length) {
 
 
 
-
-function getMakerProjectByName(projectName) {
-  let match
-  makerProjects.forEach(project => {
-    if (match) return;
-
-    if (getStringForComparison(project.name) == getStringForComparison(projectName)) {
-      match = project
-    }
-  })
-  return match
-}
-
-
-
 let makerProjectAnswersLookup
 const test_id = null
 // const test_id = 8272
 
-
-function createMakerProjectAnswerLookup() {
+function getMakerProject(data) {
   // console.log("getMakerProject")
 
   // Create an object for quick lookup
@@ -184,11 +168,6 @@ function createMakerProjectAnswerLookup() {
       if (answer.project_id == test_id) console.log(answer.value)
     })
   }
-
-}
-
-function getMakerProject(data) {
-  createMakerProjectAnswerLookup()
 
   let match
   makerProjects.forEach(project => {
@@ -251,7 +230,6 @@ function getMakerImage(data) {
 
     // const similarity = 3
     // let compare = subCompare(item.name, data.title, similarity)
-    // if (compare.found === 1) { }
     //if (item.name.trim() == data.title.trim()) {
     let compareTitle = data.title
 
@@ -280,7 +258,6 @@ function getMakerImage(data) {
 
 const projectAnswers = [
   "title",
-  "organization_name",
   "project_is_collaboration",
   "project_collaborators",
   "project_proposal_description",
@@ -436,14 +413,6 @@ function addProjectAnswers(data) {
         }
       })
 
-      if (project["project_description"]) {
-        data.project_summary = project["project_description"]
-      }
-
-      if (project["project_image"] && !data["project_image"]) {
-        data["project_image"] = `https://activation.la2050.org/assets/images/${project.category}/2048-wide/${project.project_image}`
-      }
-
       if (data.year_submitted == 2018 && project.uri) {
         data.challenge_url = `https://activation.la2050.org${project.uri}`
       }
@@ -587,17 +556,6 @@ function createMarkdownFile(data) {
   } else if (data.year_submitted == 2015 || 
              data.year_submitted == 2014 ||
              data.year_submitted == 2013) {
-
-
-    let makerProject = getMakerProjectByName(data.title)
-    if (makerProject) {
-      createMakerProjectAnswerLookup()
-      if (makerProject.project_id && makerProjectAnswersLookup[makerProject.project_id]) {
-        data.maker_answers = makerProjectAnswersLookup[makerProject.project_id]
-      }
-    }
-
-
     if (!data.project_image || data.project_image == "" || data.project_image.includes(".html")) {
       // if (data.organization_name == "826LA") console.log("Looking for image for 826LA: " + data.year_submitted + " : " + data.title)
       let match = getMakerImage(data)
@@ -657,14 +615,6 @@ function createMarkdownFile(data) {
   // }
   if (missingImagesLookup[data.project_image]) {
     data.project_image = "http://maker.good.is/images/placeholder/idea.png"
-  }
-
-  if ((!data.project_id || data.project_id == "")) {
-    if (data.project_id_2 && data.project_id_2 != "") {
-      data.project_id = data.project_id_2
-    } else if (data.project_id_3 && data.project_id_3 != "") {
-      data.project_id = data.project_id_3
-    }
   }
 
   // console.dir(data)

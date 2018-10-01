@@ -28,19 +28,8 @@ project_ids: '4102069'
 title: Piece by Piece
 uri: /organizations/piece-by-piece/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'LA Mosaic Mecca Project: An Urban Mosaic Intervention on Skid Row'
-project_titles_from_project_ids:
-  - >-
-    Creating Safe Engaged Schools: Facing History and Ourselves Los Angeles
-    Expansion
-original_project_titles:
-  - 'LA Mosaic Mecca Project:  An Urban Mosaic Intervention on Skid Row'
-original_project_ids:
-  - '4102168'
-project_titles_flagged: 1
 maker_image_id: '22131'
 maker_image_file_name: In_Studio_Irvine_Mural.jpg
 

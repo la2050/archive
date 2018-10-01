@@ -4,7 +4,7 @@ project_id_2: '8102012'
 title: Financial Security for Low-Income Angelenos
 project_summary: >-
   Improving the lives of working Californians by creating financial security
-  through a program of research, analysis, public information and education.
+  through a program of research, analysis, public information and education. 
 Please describe the activation your organization seeks to launch.: >-
   Golden State Opportunity strives to improve the lives of working Californians
   through a program of research, analysis, public information, and education.
@@ -29,7 +29,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/calei
 project_video: 'https://www.youtube.com/watch?v=55FW0fd5Mh4'
 project_id_3: '8102012'
 year_submitted: 2018
-organization_name: CalEITC4Me
 project_proposal_description: >-
   Golden State Opportunity strives to improve the lives of working Californians
   through a program of research, analysis, public information, and education.

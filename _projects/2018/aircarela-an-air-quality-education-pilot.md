@@ -5,7 +5,7 @@ title: 'AirCareLA, an Air Quality Education Pilot'
 project_summary: >-
   Deploy 150 air quality sensors on streetlights Citywide to provide
   environmental data at a local level in order to evaluate the disparity of air
-  quality among communities & impacting factors.
+  quality among communities & impacting factors. 
 Please describe the activation your organization seeks to launch.: >-
   The City of LA seeks to use its streetlights to initiate discussions about air
   quality at local community level. Funding will enable the City to manage an
@@ -37,7 +37,6 @@ project_image: >-
 project_video: 'https://youtu.be/tVCxc_xD6Xo'
 project_id_3: '8102026'
 year_submitted: 2018
-organization_name: 'City of Los Angeles, Bureau of Street Lighting'
 project_proposal_description: >-
   The City of LA seeks to use its streetlights to initiate discussions about air
   quality at local community level. Funding will enable the City to manage an

@@ -22,7 +22,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102106'
 year_submitted: 2018
-organization_name: Science Academy For All
 project_proposal_description: >-
   1. Mentor and Motivate kids for a healthy life style and initiate a New
   obesity war.

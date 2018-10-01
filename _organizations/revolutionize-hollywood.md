@@ -38,26 +38,6 @@ project_ids: '8102103'
 title: Revolutionize Hollywood
 uri: /organizations/revolutionize-hollywood/
 challenge_url: 'https://activation.la2050.org/create/revolutionize-hollywood/'
-extrapolated_project_ids:
-  - '8102103'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-project_titles:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-project_titles_from_project_ids:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-original_project_titles:
-  - >-
-    Revolutionize Hollywood Presents: The ArTrepreneur software a digital Market
-    Place for creatives.
-original_project_ids:
-  - '8102103'
 category: create
 
 ---

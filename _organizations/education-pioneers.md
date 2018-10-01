@@ -41,25 +41,8 @@ project_ids: '3102120'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
 challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
-extrapolated_project_ids:
-  - '3102120'
-project_titles_from_extrapolated_project_ids:
-  - 'The power in an hour: Putting time for teachers back in a principals day'
 project_titles:
   - 'The power in an hour: Putting time for teachers back in a principals day'
-project_titles_from_project_ids:
-  - 'The power in an hour: Putting time for teachers back in a principals day'
-original_project_titles:
-  - >-
-    MyARC: A digital social network that solves educational challenges one
-    project at a time.
-  - 'The power in an hour: Putting time for teachers back in a principal''s day'
-  - 'The power in an hour: Putting time for teachers back in a principal''s day'
-original_project_ids:
-  - '3102120'
-  - '3102120'
-  - '3102006'
-project_titles_flagged: 1
 maker_image_id: '16503'
 maker_image_file_name: FB_Cover_photo.jpg
 

@@ -33,17 +33,5 @@ project_ids: '6102217'
 title: Plantaware
 uri: /organizations/plantaware/
 challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
-extrapolated_project_ids:
-  - '6102217'
-project_titles_from_extrapolated_project_ids:
-  - A digital green thumb for the urban-scape
-project_titles:
-  - A digital green thumb for the urban-scape
-project_titles_from_project_ids:
-  - A digital green thumb for the urban-scape
-original_project_titles:
-  - A digital green thumb for the urban-scape
-original_project_ids:
-  - '6102217'
 
 ---

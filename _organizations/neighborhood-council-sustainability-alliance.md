@@ -29,16 +29,8 @@ project_ids: '5102218'
 title: Neighborhood Council Sustainability Alliance
 uri: /organizations/neighborhood-council-sustainability-alliance/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Cool Blocks LA
-project_titles_from_project_ids:
-  - Cool Blocks LA
-original_project_titles:
-  - Cool Blocks LA
-original_project_ids:
-  - '5102218'
 maker_image_id: '23843'
 maker_image_file_name: Cool_block_9.png
 

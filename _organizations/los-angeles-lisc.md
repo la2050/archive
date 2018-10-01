@@ -29,17 +29,5 @@ project_ids: '6102142'
 title: Los Angeles LISC
 uri: /organizations/los-angeles-lisc/
 challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
-extrapolated_project_ids:
-  - '6102142'
-project_titles_from_extrapolated_project_ids:
-  - Preserving LA's Cultural Diversity
-project_titles:
-  - Preserving LA's Cultural Diversity
-project_titles_from_project_ids:
-  - Preserving LA's Cultural Diversity
-original_project_titles:
-  - Preserving LA's Cultural Diversity
-original_project_ids:
-  - '6102142'
 
 ---

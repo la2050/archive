@@ -23,19 +23,8 @@ project_ids: '5102127'
 title: BUNCH Magazine dba BUNCH Media
 uri: /organizations/bunch-magazine-dba-bunch-media/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - BUNCHFEST is Music Art + Innovation for the masses
-project_titles_from_project_ids:
-  - >-
-    Interactive Live Theatre where the audience moves through the story and
-    plays their part in the tale
-original_project_titles:
-  - 'BUNCHFEST is Music, Art + Innovation for the masses'
-original_project_ids:
-  - '5102037'
-project_titles_flagged: 1
 youtube_video_identifier: ByhCcHjp3FQ
 
 ---

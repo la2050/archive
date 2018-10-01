@@ -49,25 +49,8 @@ project_ids: '3102091'
 title: Skoolbo LTD
 uri: /organizations/skoolbo-ltd/
 challenge_url: 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
-extrapolated_project_ids:
-  - '3102091'
-project_titles_from_extrapolated_project_ids:
-  - LA Kids Rock!
 project_titles:
   - LA Kids Rock!
-project_titles_from_project_ids:
-  - LA Kids Rock!
-original_project_titles:
-  - LA Kids Rock!
-  - LA Kids Rock!
-  - LA Kids Rock!
-  - LA Kids Rock!2
-  - LA Kids Rock!asd
-original_project_ids:
-  - '3102091'
-  - '3102091'
-  - '3102091'
-project_titles_flagged: 1
 youtube_video_identifier: Jw8-KCURHUA
 
 ---

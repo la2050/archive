@@ -64,7 +64,6 @@ project_image: >-
 project_video: 'https://youtu.be/nUykHHtLIHo'
 project_id_3: '8102014'
 year_submitted: 2018
-organization_name: CASA of Los Angeles
 project_proposal_description: >-
   Through the LA2050 challenge, CASA/LA is looking to activate college students
   to work as court-appointed volunteers helping older youth in foster care, aged

@@ -27,21 +27,10 @@ project_ids: '4102012'
 title: Avenue 50 Studio
 uri: /organizations/avenue-50-studio/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Poesia Para La Gente & Writ Large Press Present: The Neighborhood
     Literary-scape Project
-project_titles_from_project_ids:
-  - Los Angeles Trade Tech - A 21st Century Urban Agriculture Curriculum
-original_project_titles:
-  - >-
-    Poesia Para La Gente & Writ Large Press Present: The Neighborhood
-    Literary-scape Project
-original_project_ids:
-  - '4102018'
-project_titles_flagged: 1
 youtube_video_identifier: BtUB4Ycebms
 
 ---

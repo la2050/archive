@@ -104,18 +104,8 @@ project_ids: '3102264'
 title: Union de Vecinos
 uri: /organizations/union-de-vecinos/
 challenge_url: 'http://maker.good.is/myla2050/projects/UVLA.html'
-extrapolated_project_ids:
-  - '3102264'
-project_titles_from_extrapolated_project_ids:
-  - DIY Social Spaces
 project_titles:
   - DIY Social Spaces
-project_titles_from_project_ids:
-  - DIY Social Spaces
-original_project_titles:
-  - DIY Social Spaces
-original_project_ids:
-  - '3102264'
 youtube_video_identifier: Ih-cjiooJ3M
 
 ---

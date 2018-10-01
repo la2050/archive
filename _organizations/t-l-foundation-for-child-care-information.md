@@ -30,34 +30,5 @@ title: T&L Foundation for Child Care Information
 uri: /organizations/t-l-foundation-for-child-care-information/
 challenge_url: >-
   https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
-extrapolated_project_ids:
-  - '6102224'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-project_titles:
-  - 'Caregiver and Me: Get Healthy with Sesame Street'
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-  - >-
-    Happy kids Healthy Families for a Better LA: bringing mental health into
-    families homes.
-project_titles_from_project_ids:
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-original_project_titles:
-  - >-
-    Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
-    Activity Education
-  - >-
-    Culinary Skills in a Box - Giving Children in Child Care the Tools to
-    Establish Healthy Habits
-original_project_ids:
-  - '4102243'
-  - '6102224'
-project_titles_flagged: 1
 
 ---

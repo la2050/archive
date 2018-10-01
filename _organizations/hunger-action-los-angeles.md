@@ -25,19 +25,8 @@ project_ids: '4102135'
 title: Hunger Action Los Angeles
 uri: /organizations/hunger-action-los-angeles/
 challenge_url: ''
-extrapolated_project_ids:
-  - '4102094'
-project_titles_from_extrapolated_project_ids:
-  - Revitalizing La Tierra de la Culebra community art park
 project_titles:
   - Revitalizing La Tierra de la Culebra community art park
-project_titles_from_project_ids:
-  - The Los Angeles Service Academy
-original_project_titles:
-  - 'Market Match Program : Making Healthy Food Affordable'
-original_project_ids:
-  - '4102208'
-project_titles_flagged: 1
 maker_image_id: '22352'
 maker_image_file_name: Market_Match_Booth_Adams.Vermont_1.jpg
 

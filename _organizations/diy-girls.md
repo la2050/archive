@@ -30,17 +30,8 @@ project_ids: '5102083'
 title: DIY Girls
 uri: /organizations/diy-girls/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - downtown art walk votes
-project_titles_from_project_ids:
-  - downtown art walk votes
-original_project_titles:
-  - 'Making for Good: Empowering Girls to Improve Air Quality in Their Community'
-original_project_ids:
-  - '5102082'
-project_titles_flagged: 1
 youtube_video_identifier: g5AgtC0G5ec
 
 ---

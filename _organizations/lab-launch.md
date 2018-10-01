@@ -29,26 +29,9 @@ project_ids: '5102170'
 title: Lab Launch
 uri: /organizations/lab-launch/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
-extrapolated_project_ids:
-  - '5102170'
-  - '4102110'
-project_titles_from_extrapolated_project_ids:
-  - Lets Create Innovation Space for LA Biotech
-  - Lets Build a Life Science Incubator in Los Angeles!
 project_titles:
+  - Lets Create Innovation Space for LA Biotech
   - Lets Build a Life Science Incubator in Los Angeles!
-  - Lets Create Innovation Space for LA Biotech
-project_titles_from_project_ids:
-  - Lets Create Innovation Space for LA Biotech
-original_project_titles:
-  - Let's Build a Life Science Incubator in Los Angeles!
-  - Let's Build a Life Science Incubator in Los Angeles!
-  - Let's Create Innovation Space for LA Biotech
-original_project_ids:
-  - '4102110'
-  - '4102110'
-  - '5102170'
-project_titles_flagged: 1
 youtube_video_identifier: wZGBfT2_pi4
 
 ---

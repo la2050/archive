@@ -37,25 +37,5 @@ title: Healthy Living Productions
 uri: /organizations/healthy-living-productions/
 challenge_url: >-
   https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
-extrapolated_project_ids:
-  - '6102089'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    We're creating Doctors' Orders, a video series to help LA become proactive
-    about health and wellness
-project_titles:
-  - >-
-    We're creating Doctors' Orders, a video series to help LA become proactive
-    about health and wellness
-project_titles_from_project_ids:
-  - >-
-    We're creating Doctors' Orders, a video series to help LA become proactive
-    about health and wellness
-original_project_titles:
-  - >-
-    We're creating Doctors' Orders, a video series to help LA become proactive
-    about health and wellness
-original_project_ids:
-  - '6102089'
 
 ---

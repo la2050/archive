@@ -32,25 +32,5 @@ title: Zeneith Performing Arts
 uri: /organizations/zeneith-performing-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
-extrapolated_project_ids:
-  - '6102289'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
-project_titles:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
-project_titles_from_project_ids:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
-original_project_titles:
-  - >-
-    The Inner City Dance Project: Teaching professional dance and theater to
-    LA’s inner city youth
-original_project_ids:
-  - '6102289'
 
 ---

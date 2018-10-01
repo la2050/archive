@@ -34,29 +34,6 @@ project_ids: '8102053'
 title: Homeboy Industries
 uri: /organizations/homeboy-industries/
 challenge_url: 'https://activation.la2050.org/connect/homeboy-industries/'
-extrapolated_project_ids:
-  - '8102053'
-  - '6102095'
-  - '3102149'
-project_titles_from_extrapolated_project_ids:
-  - 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
-  - 'Global Homeboy Network: Connecting Through Kinship'
-  - 'Homeboy Industries: Hope Has An Address'
-project_titles:
-  - 'Global Homeboy Network: Connecting Through Kinship'
-  - 'Homeboy Industries: Hope Has An Address'
-  - 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
-project_titles_from_project_ids:
-  - 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
-original_project_titles:
-  - 'Global Homeboy Network: Connecting Through Kinship'
-  - 'Homeboy Industries: Hope Has An Address'
-  - 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote'
-original_project_ids:
-  - '3102149'
-  - '6102095'
-  - '8102053'
-project_titles_flagged: 1
 category: connect
 
 ---

@@ -33,20 +33,6 @@ title: 'LA Commons, a project of Community Partners'
 uri: /organizations/la-commons-a-project-of-community-partners/
 challenge_url: >-
   https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'A Recipe for a Great City: Home Cooking'
-  - >-
-    Found LA: Festival of Neighborhoods A Day to Meet and Eat with Neighbors
-    Across Los Angeles
-project_titles_from_project_ids:
-  - 'A Recipe for a Great City: Home Cooking'
-original_project_titles:
-  - 'A Recipe for a Great City: Home Cooking'
-original_project_ids:
-  - '8102060'
-project_titles_flagged: 1
 category: connect
 
 ---

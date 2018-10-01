@@ -27,19 +27,8 @@ project_ids: '4102105'
 title: Will & Company
 uri: /organizations/will-company/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Arts & Fitness After School for the Health of Young Minds Bodies and Spirits
-project_titles_from_project_ids:
-  - Los Angeles Free Income Tax Project
-original_project_titles:
-  - >-
-    Arts & Fitness After School, for the Health of Young Minds, Bodies and
-    Spirits
-original_project_ids:
-  - '4102256'
-project_titles_flagged: 1
 youtube_video_identifier: GzEz6Q-9lWQ
 
 ---

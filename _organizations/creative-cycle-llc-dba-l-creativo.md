@@ -27,17 +27,8 @@ project_ids: '5102117'
 title: 'Creative Cycle, LLC, dba. L Creativo'
 uri: /organizations/creative-cycle-llc-dba-l-creativo/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - L Creativo - A Latin Indie Music Community
-project_titles_from_project_ids:
-  - Green Commuter LA2050
-original_project_titles:
-  - L Creativo - A Latin Indie Music Community
-original_project_ids:
-  - '4102049'
-project_titles_flagged: 1
 youtube_video_identifier: XFrn3G05ZVc
 
 ---

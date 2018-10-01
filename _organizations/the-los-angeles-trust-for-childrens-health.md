@@ -58,26 +58,10 @@ project_ids: '3102255'
 title: The Los Angeles Trust for Children's Health
 uri: /organizations/the-los-angeles-trust-for-childrens-health/
 challenge_url: 'http://maker.good.is/myla2050/projects/thelatrust.html'
-extrapolated_project_ids:
-  - '3102255'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Student Health = Student Success. Improving student health and readiness to
-    learn in LA 
 project_titles:
   - >-
     Student Health = Student Success. Improving student health and readiness to
     learn in LA 
-project_titles_from_project_ids:
-  - >-
-    Student Health = Student Success. Improving student health and readiness to
-    learn in LA 
-original_project_titles:
-  - >-
-    Student Health = Student Success. Improving student health and readiness to
-    learn in LA 
-original_project_ids:
-  - '3102255'
 youtube_video_identifier: sN5SCezYZTM
 
 ---

@@ -25,7 +25,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/roots
 project_video: 'https://www.youtube.com/watch?v=nNWKz4hwzOc'
 project_id_3: '8102105'
 year_submitted: 2018
-organization_name: Roots & Wings
 project_proposal_description: >-
   We teach psychological tools that are proven to heal stress and increase joy
   in every student, staff & parent to create trauma-informed schools resulting

@@ -30,18 +30,6 @@ project_ids: '8102083'
 title: Miry’s List
 uri: /organizations/mirys-list/
 challenge_url: 'https://activation.la2050.org/connect/mirys-list/'
-extrapolated_project_ids:
-  - '8102083'
-project_titles_from_extrapolated_project_ids:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-project_titles:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-project_titles_from_project_ids:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-original_project_titles:
-  - 'Welcome, Neighbor: Making LA the most welcoming place in America'
-original_project_ids:
-  - '8102083'
 category: connect
 
 ---

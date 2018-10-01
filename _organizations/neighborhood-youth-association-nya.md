@@ -44,18 +44,8 @@ project_ids: '3102203'
 title: Neighborhood Youth Association (NYA)
 uri: /organizations/neighborhood-youth-association-nya/
 challenge_url: 'http://maker.good.is/myla2050/projects/NYAforLA.html'
-extrapolated_project_ids:
-  - '3102203'
-project_titles_from_extrapolated_project_ids:
-  - Educating LAs Youth for a Better Future
 project_titles:
   - Educating LAs Youth for a Better Future
-project_titles_from_project_ids:
-  - Educating LAs Youth for a Better Future
-original_project_titles:
-  - Educating LA's Youth for a Better Future
-original_project_ids:
-  - '3102203'
 maker_image_id: '17025'
 maker_image_file_name: Boy_reading_to_younger_kids.jpg
 

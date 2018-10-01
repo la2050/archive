@@ -35,24 +35,6 @@ project_ids: '8102117'
 title: The Brady Center to Prevent Gun Violence
 uri: /organizations/the-brady-center-to-prevent-gun-violence/
 challenge_url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
-extrapolated_project_ids:
-  - '8102117'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
-    Apple” Gun Dealers
-project_titles:
-  - >-
-    Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
-    Apple” Gun Dealers
-project_titles_from_project_ids:
-  - "Inspiring Community Action to End Gun Violence in L.A. by Stopping â€œBad Appleâ€\x9D Gun Dealers"
-original_project_titles:
-  - >-
-    Inspiring Community Action to End Gun Violence in L.A. by Stopping “Bad
-    Apple” Gun Dealers
-original_project_ids: []
-project_titles_flagged: 1
 category: play
 
 ---

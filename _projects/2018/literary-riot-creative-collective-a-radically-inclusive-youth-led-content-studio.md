@@ -39,7 +39,6 @@ project_image: >-
 project_video: 'https://youtu.be/ioZuMb9vLz8'
 project_id_3: '8102044'
 year_submitted: 2018
-organization_name: Get Lit - Words Ignite
 project_proposal_description: >-
   Get Lit seeks to significantly expand the reach and impact of Literary Riot,
   our content studio and film training program that gives young and diverse

@@ -46,7 +46,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102024'
 year_submitted: 2018
-organization_name: 'City Impact Lab, powered by Stratiscope'
 project_proposal_description: >-
   In LA’s dense multi-family neighborhoods, neighbors live the closest to each
   other but are often disconnected. In a fun & engaging way, The BlockMobile

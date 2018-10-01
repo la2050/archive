@@ -28,7 +28,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=EWUItoHZ1Hs&feature=youtu.be'
 project_id_3: '8102010'
 year_submitted: 2018
-organization_name: Boys & Girls Clubs of Venice (BGCV)
 project_proposal_description: >-
   Bridging Generations Connecting Values project led by CEO Karen Papazian will
   make LA 'the best place' to connect vulnerable youth and intergenerational

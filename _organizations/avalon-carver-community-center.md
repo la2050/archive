@@ -30,25 +30,5 @@ title: Avalon Carver Community Center
 uri: /organizations/avalon-carver-community-center/
 challenge_url: >-
   https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
-extrapolated_project_ids:
-  - '6102013'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
-project_titles:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
-project_titles_from_project_ids:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
-original_project_titles:
-  - >-
-    Mobile STEM Project is a school based initiative designed to eliminate
-    disparities in STEM education
-original_project_ids:
-  - '6102013'
 
 ---

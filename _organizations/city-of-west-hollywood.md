@@ -29,17 +29,5 @@ project_ids: '6102039'
 title: City of West Hollywood
 uri: /organizations/city-of-west-hollywood/
 challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
-extrapolated_project_ids:
-  - '6102039'
-project_titles_from_extrapolated_project_ids:
-  - Open Sourced Smart City Collaborative
-project_titles:
-  - Open Sourced Smart City Collaborative
-project_titles_from_project_ids:
-  - Open Sourced Smart City Collaborative
-original_project_titles:
-  - Open Sourced Smart City Collaborative
-original_project_ids:
-  - '6102039'
 
 ---

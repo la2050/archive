@@ -27,25 +27,5 @@ title: Give Today LA
 uri: /organizations/give-today-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
-extrapolated_project_ids:
-  - '6102161'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Give Today LA: An online community center connecting causes, commerce and
-    community to do good!
-project_titles:
-  - >-
-    Give Today LA: An online community center connecting causes, commerce and
-    community to do good!
-project_titles_from_project_ids:
-  - >-
-    Give Today LA: An online community center connecting causes, commerce and
-    community to do good!
-original_project_titles:
-  - >-
-    Give Today LA: An online community center connecting causes, commerce and
-    community to do good!
-original_project_ids:
-  - '6102161'
 
 ---

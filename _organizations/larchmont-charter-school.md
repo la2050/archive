@@ -33,22 +33,6 @@ project_ids: '8102064'
 title: Larchmont Charter School
 uri: /organizations/larchmont-charter-school/
 challenge_url: 'https://activation.la2050.org/connect/larchmont-charter-school/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    Larchmont Social Justice Alliance allows youth to speak up for social
-    justice with a literary voice.
-project_titles_from_project_ids:
-  - >-
-    Larchmont Social Justice Alliance allows youth to speak up for social
-    justice with a literary voice.
-original_project_titles:
-  - >-
-    Larchmont Social Justice Alliance allows youth to speak up for social
-    justice with a literary voice.
-original_project_ids:
-  - '8102064'
 category: connect
 
 ---

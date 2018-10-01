@@ -2,10 +2,7 @@
 project_id: '8102111'
 project_id_2: '8102111'
 title: Activate South Bay LA Trails!
-project_summary: >-
-  ACTIVATE SOUTH BAY LA TRAILS! beckons residents of 5 Cities to come outside
-  and play on a network of trails--Redondo Beach through Manhattan Beach,
-  bordering Hawthorne and El Segundo to Lawndale.
+project_summary: ''
 Please describe the activation your organization seeks to launch.: ''
 Describe in greater detail how your activation will make LA the best place?: ''
 How will your activation engage Angelenos to make LA the best place: ''
@@ -22,7 +19,6 @@ project_image: >-
 project_video: 'https://youtu.be/ZE0fqJVRj80'
 project_id_3: '8102111'
 year_submitted: 2018
-organization_name: South Bay Bicycle Coalition
 project_proposal_description: >-
   A vast network of trails exists throughout the South Bay region to expand
   available space for safe cycling and pedestrian activities. ACTIVATE SOUTH BAY

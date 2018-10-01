@@ -21,17 +21,8 @@ project_ids: '4102164'
 title: St. Francis Center
 uri: /organizations/st-francis-center/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Green The Block
-project_titles_from_project_ids:
-  - Make A Choice Campaign
-original_project_titles:
-  - SFCLA - Serving Hope and Veggies where LA needs it most!
-original_project_ids:
-  - '4102098'
-project_titles_flagged: 1
 youtube_video_identifier: uz4evo3B7qw
 
 ---

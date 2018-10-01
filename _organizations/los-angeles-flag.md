@@ -27,16 +27,8 @@ project_ids: '5102189'
 title: Los Angeles Flag
 uri: /organizations/los-angeles-flag/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - L.A. Flag Redesign
-project_titles_from_project_ids:
-  - L.A. Flag Redesign
-original_project_titles:
-  - L.A. Flag Redesign
-original_project_ids:
-  - '5102189'
 maker_image_id: '23596'
 maker_image_file_name: Sky_Pic.png
 

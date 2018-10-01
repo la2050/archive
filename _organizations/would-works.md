@@ -27,21 +27,8 @@ project_ids: '4102109'
 title: Would-Works
 uri: /organizations/would-works/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
-extrapolated_project_ids:
-  - '4102262'
-project_titles_from_extrapolated_project_ids:
-  - Permanent Workshop for Would-Works
 project_titles:
   - Permanent Workshop for Would-Works
-project_titles_from_project_ids:
-  - Arts & Culture Infrastructure Initiative
-original_project_titles:
-  - Permanent Workshop for Would-Works
-  - Would-Works
-  - Would-Works
-original_project_ids:
-  - '4102262'
-project_titles_flagged: 1
 youtube_video_identifier: xlsYqBrzY4k
 
 ---

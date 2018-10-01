@@ -22,7 +22,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102115'
 year_submitted: 2018
-organization_name: 'Synaccord, LLC'
 project_proposal_description: >-
   An app and web site that allow the constituents of LA's neighborhood councils
   to get together and constructively deliberate on their most important

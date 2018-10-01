@@ -22,7 +22,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=03UxLqNGuvE'
 project_id_3: '8102047'
 year_submitted: 2018
-organization_name: Good Shine Studio
 project_proposal_description: >-
   In a changing Chinatown, WAPOW uses media to unite and activate diverse
   stakeholders, as agents for integrative change that increases community power,

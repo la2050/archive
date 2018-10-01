@@ -21,17 +21,8 @@ project_ids: '4102177'
 title: Toberman Neighborhood Center
 uri: /organizations/toberman-neighborhood-center/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Toyota Family Learning program
-project_titles_from_project_ids:
-  - Flight of the Angels - A Pervasive Audio Game About DTLA
-original_project_titles:
-  - Toyota Family Learning program
-original_project_ids:
-  - '4102236'
-project_titles_flagged: 1
 youtube_video_identifier: 7nJBFWm-mb0
 
 ---

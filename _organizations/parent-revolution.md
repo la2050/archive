@@ -122,18 +122,8 @@ project_ids: '3102213'
 title: Parent Revolution
 uri: /organizations/parent-revolution/
 challenge_url: 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
-extrapolated_project_ids:
-  - '3102213'
-project_titles_from_extrapolated_project_ids:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
 project_titles:
   - Transforming Los Angeles Schools Using the Parent Trigger Law
-project_titles_from_project_ids:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
-original_project_titles:
-  - Transforming Los Angeles Schools Using the Parent Trigger Law
-original_project_ids:
-  - '3102213'
 youtube_video_identifier: ajJ28FU4Wws
 
 ---

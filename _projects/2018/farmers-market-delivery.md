@@ -25,7 +25,6 @@ project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/the
 project_video: ''
 project_id_3: '8102120'
 year_submitted: 2018
-organization_name: 'The Natch, INC.'
 project_proposal_description: >-
   We want to enable thousands of Angelinos from across the city to start their
   own business. By making it easier for any Angelino to locally sell their

@@ -27,19 +27,8 @@ project_ids: '4102080'
 title: Schkapf
 uri: /organizations/schkapf/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
-extrapolated_project_ids:
-  - '4102187'
-project_titles_from_extrapolated_project_ids:
-  - Schkapf Performing Arts Incubator
 project_titles:
   - Schkapf Performing Arts Incubator
-project_titles_from_project_ids:
-  - Transforming College Access for Los Angeles’ Youth Through Gaming
-original_project_titles:
-  - Schkapf Performing Arts Incubator
-original_project_ids:
-  - '4102187'
-project_titles_flagged: 1
 youtube_video_identifier: mei1C43QDXw
 
 ---

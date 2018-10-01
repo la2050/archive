@@ -2,10 +2,7 @@
 project_id: '8102025'
 project_id_2: '8102025'
 title: GoDigital! LA’s Digital Literacy Program
-project_summary: >-
-  This project focuses on erasing the Digital Divide in Los Angeles' underserved
-  communities. The project will provide education about the importance of
-  engaging online and how to do so safely.
+project_summary: "This project focuses on erasing the Digital Divide in Los Angeles' underserved communities.  The project will provide education about the importance of engaging online and how to do so safely.\r\n"
 Please describe the activation your organization seeks to launch.: >-
   ITA seeks to continue Digital Literacy education efforts in South Los Angeles,
   an area impacted by lack of broadband access.   The funding will support
@@ -29,7 +26,6 @@ project_image: >-
 project_video: 'https://youtu.be/5eE1kF4xL2U'
 project_id_3: '8102025'
 year_submitted: 2018
-organization_name: City of Los Angeles Information Technology Agency
 project_proposal_description: >-
   ITA seeks to continue Digital Literacy education efforts in South Los Angeles,
   an area impacted by lack of broadband access. The funding will support

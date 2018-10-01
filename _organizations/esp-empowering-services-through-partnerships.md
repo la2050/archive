@@ -29,18 +29,8 @@ project_ids: '3102039'
 title: ESP Empowering Services Through Partnerships
 uri: /organizations/esp-empowering-services-through-partnerships/
 challenge_url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
-extrapolated_project_ids:
-  - '3102039'
-project_titles_from_extrapolated_project_ids:
-  - ESP Team Teacher Service Learning Project
 project_titles:
   - ESP Team Teacher Service Learning Project
-project_titles_from_project_ids:
-  - ESP Team Teacher Service Learning Project
-original_project_titles:
-  - ESP Team Teacher Service Learning Project
-original_project_ids:
-  - '3102039'
 maker_image_id: '16942'
 maker_image_file_name: Sequester_student_working1.jpg
 

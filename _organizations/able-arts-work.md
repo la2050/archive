@@ -32,17 +32,5 @@ project_ids: '6102004'
 title: Able Arts Work
 uri: /organizations/able-arts-work/
 challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'
-extrapolated_project_ids:
-  - '6102004'
-project_titles_from_extrapolated_project_ids:
-  - Artbeat Radio
-project_titles:
-  - Artbeat Radio
-project_titles_from_project_ids:
-  - Artbeat Radio
-original_project_titles:
-  - 'Artbeat Radio '
-original_project_ids:
-  - '6102004'
 
 ---

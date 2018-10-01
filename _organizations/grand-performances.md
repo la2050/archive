@@ -29,18 +29,8 @@ project_ids: '5102115'
 title: Grand Performances
 uri: /organizations/grand-performances/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/GPCONNECTS.html'
-extrapolated_project_ids:
-  - '5102115'
-project_titles_from_extrapolated_project_ids:
-  - Free concerts + community = change
 project_titles:
   - Free concerts + community = change
-project_titles_from_project_ids:
-  - Free concerts + community = change
-original_project_titles:
-  - Free concerts + community = change
-original_project_ids:
-  - '5102115'
 maker_image_id: '24070'
 maker_image_file_name: gp_la2050_570x345.jpg
 

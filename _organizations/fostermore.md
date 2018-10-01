@@ -24,19 +24,8 @@ project_ids: '4102126'
 title: FosterMore
 uri: /organizations/fostermore/
 challenge_url: ''
-extrapolated_project_ids:
-  - '4102073'
-project_titles_from_extrapolated_project_ids:
-  - Helping LA’s most vulnerable youth succeed
 project_titles:
   - Helping LA’s most vulnerable youth succeed
-project_titles_from_project_ids:
-  - Growing a Healthy Los Angeles
-original_project_titles:
-  - Helping LA’s most vulnerable youth succeed
-original_project_ids:
-  - '4102073'
-project_titles_flagged: 1
 youtube_video_identifier: 4hA5BjBbKm8
 
 ---

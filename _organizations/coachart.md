@@ -39,32 +39,5 @@ title: CoachArt
 uri: /organizations/coachart/
 challenge_url: >-
   https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
-extrapolated_project_ids:
-  - '6102043'
-  - '5102070'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
-    need through technology
-  - The CoachArt Student/Coach Matching App
-project_titles:
-  - >-
-    CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
-    need through technology
-  - The CoachArt Student/Coach Matching App
-project_titles_from_project_ids:
-  - >-
-    CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
-    need through technology
-original_project_titles:
-  - CoachArt
-  - >-
-    CoachArt Matching Platform: revolutionizing volunteerism in LA for those in
-    need through technology
-  - 'The CoachArt Student/Coach Matching App '
-original_project_ids:
-  - '5102070'
-  - '6102043'
-project_titles_flagged: 1
 
 ---

@@ -41,7 +41,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102098'
 year_submitted: 2018
-organization_name: Promesa Boyle Heights at Proyecto Pastoral
 project_proposal_description: >-
   We seek to train and empower 25 Boyle Heights residents to become promotores
   to improve physical and emotional health outcomes in the community. Once

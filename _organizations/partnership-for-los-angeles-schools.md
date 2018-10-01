@@ -24,10 +24,5 @@ project_ids: '#N/A'
 title: Partnership for Los Angeles Schools
 uri: /organizations/partnership-for-los-angeles-schools/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-original_project_titles: []
-original_project_ids: []
-project_titles_flagged: 1
 
 ---

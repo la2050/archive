@@ -31,25 +31,5 @@ title: Port of Los Angeles High School
 uri: /organizations/port-of-los-angeles-high-school/
 challenge_url: >-
   https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
-extrapolated_project_ids:
-  - '6102187'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
-    Program 
-project_titles:
-  - >-
-    COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
-    Program 
-project_titles_from_project_ids:
-  - >-
-    COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
-    Program 
-original_project_titles:
-  - >-
-    COLLEGE, CAREER, and COMMUNITY: POLAHS Career Technical Education (CTE)
-    Program 
-original_project_ids:
-  - '6102187'
 
 ---

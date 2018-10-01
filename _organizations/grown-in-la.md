@@ -31,17 +31,5 @@ project_ids: '6102088'
 title: Grown in LA
 uri: /organizations/grown-in-la/
 challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
-extrapolated_project_ids:
-  - '6102088'
-project_titles_from_extrapolated_project_ids:
-  - Creating Mother Nature's Metropolis
-project_titles:
-  - Creating Mother Nature's Metropolis
-project_titles_from_project_ids:
-  - Creating Mother Nature's Metropolis
-original_project_titles:
-  - Creating Mother Nature's Metropolis
-original_project_ids:
-  - '6102088'
 
 ---

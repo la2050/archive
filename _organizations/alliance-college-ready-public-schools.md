@@ -27,21 +27,9 @@ project_ids: '3102011'
 title: Alliance College-Ready Public Schools
 uri: /organizations/alliance-college-ready-public-schools/
 challenge_url: ''
-extrapolated_project_ids:
-  - '3102011'
-project_titles_from_extrapolated_project_ids:
-  - Alliance CollegeReady Public Schools  BLAST
 project_titles:
-  - Alliance CollegeReady Public Schools  BLAST
   - Alliance Mentoring Program (AMP)
-project_titles_from_project_ids:
   - Alliance CollegeReady Public Schools  BLAST
-original_project_titles:
-  - Alliance College-Ready Public Schools - BLAST
-  - Alliance Mentoring Program (AMP)
-original_project_ids:
-  - '4102004'
-project_titles_flagged: 1
 maker_image_id: '20500'
 maker_image_file_name: 2013_Graduation_Luskin_Academy_(54).jpg
 

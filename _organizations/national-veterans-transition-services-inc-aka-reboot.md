@@ -36,16 +36,6 @@ title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
 challenge_url: >-
   https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Carry Forward
-project_titles_from_project_ids:
-  - Carry Forward
-original_project_titles:
-  - Carry Forward
-original_project_ids:
-  - '8102088'
 category: live
 
 ---

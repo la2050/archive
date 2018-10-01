@@ -28,28 +28,5 @@ project_ids: '6102270'
 title: United Friends of the Children
 uri: /organizations/united-friends-of-the-children/
 challenge_url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
-extrapolated_project_ids:
-  - '6102270'
-project_titles_from_extrapolated_project_ids:
-  - College IS for Foster Youth!
-project_titles:
-  - College IS for Foster Youth!
-  - College IS for Foster Youth!
-  - >-
-    College Readiness Program - Helping Foster Youth Prepare to Succeed in
-    College and in Life
-project_titles_from_project_ids:
-  - College IS for Foster Youth!
-original_project_titles:
-  - College IS for Foster Youth!
-  - College IS for Foster Youth!
-  - >-
-    College Readiness Program - Helping Foster Youth Prepare to Succeed in
-    College and in Life
-original_project_ids:
-  - '4102244'
-  - '5102332'
-  - '5102332'
-project_titles_flagged: 1
 
 ---

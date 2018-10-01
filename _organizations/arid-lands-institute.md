@@ -26,17 +26,8 @@ project_ids: '4102113'
 title: Arid Lands Institute
 uri: /organizations/arid-lands-institute/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Climate Cents
-project_titles_from_project_ids:
-  - Connecting for Success
-original_project_titles:
-  - 'Divining LA: Resilient City Design for the Next Hundred Years'
-original_project_ids:
-  - '4102205'
-project_titles_flagged: 1
 maker_image_id: '22512'
 maker_image_file_name: Boom_Map_300dpi_1200px_wide.jpeg
 

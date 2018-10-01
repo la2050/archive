@@ -55,18 +55,8 @@ title: 'Friends, the Foundation of the California African American Museum'
 uri: >-
   /organizations/friends-the-foundation-of-the-california-african-american-museum/
 challenge_url: 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
-extrapolated_project_ids:
-  - '3102133'
-project_titles_from_extrapolated_project_ids:
-  - Digging Deeper/ Making Connections/ Doing Better
 project_titles:
   - Digging Deeper/ Making Connections/ Doing Better
-project_titles_from_project_ids:
-  - Digging Deeper/ Making Connections/ Doing Better
-original_project_titles:
-  - Digging Deeper/ Making Connections/ Doing Better
-original_project_ids:
-  - '3102133'
 maker_image_id: '17083'
 maker_image_file_name: Wishing_Upon_A_Star.jpg
 

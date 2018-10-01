@@ -26,17 +26,8 @@ title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 uri: >-
   /organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - StreetArt Brokerage Firm
-project_titles_from_project_ids:
-  - 'Seeds the Game: Community Jams'
-original_project_titles:
-  - StreetArt Brokerage Firm
-original_project_ids:
-  - '4102212'
-project_titles_flagged: 1
 youtube_video_identifier: G4cMVQVTBkM
 
 ---

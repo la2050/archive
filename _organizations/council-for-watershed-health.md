@@ -28,24 +28,9 @@ project_ids: '5102079'
 title: Council for Watershed Health
 uri: /organizations/council-for-watershed-health/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
-extrapolated_project_ids:
-  - '3102093'
-project_titles_from_extrapolated_project_ids:
-  - 'The Pulse of Los Angeles: Assessing the Watersheds'
 project_titles:
   - 'C3: Center for Connecting the Community'
   - 'The Pulse of Los Angeles: Assessing the Watersheds'
-project_titles_from_project_ids:
-  - 'C3: Center for Connecting the Community'
-original_project_titles:
-  - Healthy Streams for Angelenos
-  - 'The Pulse of Los Angeles: Assessing the Watersheds'
-  - Why is the grass always greener over the leach fields?
-original_project_ids:
-  - '3102047'
-  - '3102093'
-  - '5102078'
-project_titles_flagged: 1
 youtube_video_identifier: kQnTJYkpO4A
 
 ---

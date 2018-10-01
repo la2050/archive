@@ -6,7 +6,7 @@ title: >-
   and Community.
 project_summary: >-
   It’s the dream we all dream of: A village in the city where you can live,
-  work, eat, learn, play, heal, connect, and create.
+  work, eat, learn, play, heal, connect, and create. 
 Please describe the activation your organization seeks to launch.: >-
   World Harvest is designing a 100-unit affordable housing complex that includes
   a grocery store style food bank, restaurants, jobs and job training, a health
@@ -28,7 +28,6 @@ project_image: >-
 project_video: 'https://youtu.be/Jtc3hudRjRA'
 project_id_3: '8102139'
 year_submitted: 2018
-organization_name: World Harvest Charities & Family Services
 project_proposal_description: >-
   World Harvest is designing a 100-unit affordable housing complex that includes
   a grocery store style food bank, restaurants, jobs and job training, a health

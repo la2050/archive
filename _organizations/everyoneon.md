@@ -31,31 +31,5 @@ title: EveryoneOn
 uri: /organizations/everyoneon/
 challenge_url: >-
   https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
-extrapolated_project_ids:
-  - '6102065'
-  - '4102067'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
-project_titles:
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-project_titles_from_project_ids:
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-original_project_titles:
-  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
-  - >-
-    Connect with Promise: Providing Internet Connectivity & Devices to Families
-    in Public Housing
-original_project_ids:
-  - '4102067'
-  - '6102065'
-project_titles_flagged: 1
 
 ---

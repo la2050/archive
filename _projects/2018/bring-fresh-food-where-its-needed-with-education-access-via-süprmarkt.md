@@ -33,7 +33,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/süpr
 project_video: 'https://www.youtube.com/watch?v=KcRryxjBr-8'
 project_id_3: '8102113'
 year_submitted: 2018
-organization_name: 'SÜPRSEED, Inc.'
 project_proposal_description: >-
   SÜPRMARKT has served up 1200+ cases of food since starting in 2016 and seeks
   to expand its operations by opening a 6 day a week location, serving organics

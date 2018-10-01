@@ -49,18 +49,8 @@ project_ids: '3102067'
 title: City of Los Angeles Department of Cultural Affairs
 uri: /organizations/city-of-los-angeles-department-of-cultural-affairs/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACreates.html'
-extrapolated_project_ids:
-  - '3102067'
-project_titles_from_extrapolated_project_ids:
-  - LA Creates! Media Arts Learning Initiative
 project_titles:
   - LA Creates! Media Arts Learning Initiative
-project_titles_from_project_ids:
-  - LA Creates! Media Arts Learning Initiative
-original_project_titles:
-  - LA Creates! Media Arts Learning Initiative
-original_project_ids:
-  - '3102067'
 youtube_video_identifier: ZobE5kX4dTc
 
 ---

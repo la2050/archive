@@ -29,26 +29,6 @@ project_ids: '8102004'
 title: A Healthier Community Starts with YOUth
 uri: /organizations/a-healthier-community-starts-with-youth/
 challenge_url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
-extrapolated_project_ids:
-  - '8102004'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-project_titles:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-project_titles_from_project_ids:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-original_project_titles:
-  - >-
-    A youth-led public health program involving health professionals, students,
-    & our communities.
-original_project_ids:
-  - '8102004'
 category: live
 
 ---

@@ -19,7 +19,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/the-g
 project_video: ''
 project_id_3: '8102119'
 year_submitted: 2018
-organization_name: The Glue
 project_proposal_description: >-
   Driving direction apps are ubiquitous, transit apps are not far behind, but
   what about that “last mile,” or the last few feet? Pedestrians (footed,

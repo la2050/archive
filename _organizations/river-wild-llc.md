@@ -25,19 +25,8 @@ project_ids: '5102101'
 title: River Wild LLC
 uri: /organizations/river-wild-llc/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
-extrapolated_project_ids:
-  - '5102254'
-project_titles_from_extrapolated_project_ids:
-  - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
 project_titles:
   - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
-project_titles_from_project_ids:
-  - FEAL.LA - A sanctuary for the arts.
-original_project_titles:
-  - 'Chicken & Egg: A Grocery Co-op along the LA RIver'
-original_project_ids:
-  - '5102254'
-project_titles_flagged: 1
 youtube_video_identifier: CTFt7gFp6BY
 
 ---

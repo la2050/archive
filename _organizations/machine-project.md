@@ -44,18 +44,8 @@ project_ids: '3102194'
 title: Machine Project
 uri: /organizations/machine-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/machineproject.html'
-extrapolated_project_ids:
-  - '3102194'
-project_titles_from_extrapolated_project_ids:
-  - 'Everything Everywhere: LA 2050'
 project_titles:
   - 'Everything Everywhere: LA 2050'
-project_titles_from_project_ids:
-  - 'Everything Everywhere: LA 2050'
-original_project_titles:
-  - 'Everything, Everywhere: LA 2050'
-original_project_ids:
-  - '3102194'
 youtube_video_identifier: c2e6ERN-dS8
 
 ---

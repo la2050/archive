@@ -36,42 +36,5 @@ title: T4T.org
 uri: /organizations/t4t-org/
 challenge_url: >-
   https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
-extrapolated_project_ids:
-  - '6102225'
-  - '6102226'
-  - '6102227'
-  - '5102287'
-  - '5102289'
-project_titles_from_extrapolated_project_ids:
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - T4T.org’s Mobile Makers Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
-project_titles:
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - LA Landfill Harmonic Orchestra
-  - Reimagined Resources
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - T4T.org’s Mobile Makers Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-project_titles_from_project_ids:
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-original_project_titles:
-  - Are the Robbin Hoods of Rubbish arriving in your neighborhood park?
-  - LA Landfill Harmonic Orchestra
-  - Robin Hoods of Rubbish for the LA LandfillHarmonics
-  - T4T.org’s Mobile Makers' Space with ReImagined Resources
-  - T4T.org’s ReImagined Resource Center STEAM Labs
-  - The Robin Hoods of Rubbish are building STEAM Labs!
-original_project_ids:
-  - '5102288'
-  - '5102289'
-  - '5102287'
-  - '6102225'
-  - '6102226'
-  - '6102227'
-project_titles_flagged: 1
 
 ---

@@ -37,18 +37,8 @@ project_ids: '3102155'
 title: Industrial District Green
 uri: /organizations/industrial-district-green/
 challenge_url: 'http://maker.good.is/myla2050/projects/Greening7thinDTLA.html'
-extrapolated_project_ids:
-  - '3102155'
-project_titles_from_extrapolated_project_ids:
-  - Greening 7th St. in Skid Row/DTLA
 project_titles:
   - Greening 7th St. in Skid Row/DTLA
-project_titles_from_project_ids:
-  - Greening 7th St. in Skid Row/DTLA
-original_project_titles:
-  - Greening 7th St. in Skid Row/DTLA
-original_project_ids:
-  - '3102155'
 youtube_video_identifier: CqF0Cn4dZJs
 
 ---

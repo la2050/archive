@@ -31,18 +31,8 @@ project_ids: '3102273'
 title: Wayfinder LA
 uri: /organizations/wayfinder-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/wayfinderla.html'
-extrapolated_project_ids:
-  - '3102273'
-project_titles_from_extrapolated_project_ids:
-  - Wayfinder LA a utility for carfree transit
 project_titles:
   - Wayfinder LA a utility for carfree transit
-project_titles_from_project_ids:
-  - Wayfinder LA a utility for carfree transit
-original_project_titles:
-  - 'Wayfinder LA, a utility for car-free transit'
-original_project_ids: []
-project_titles_flagged: 1
 maker_image_id: '16815'
 maker_image_file_name: Wayfinder.png
 

@@ -29,16 +29,6 @@ project_ids: '8102047'
 title: Good Shine Studio
 uri: /organizations/good-shine-studio/
 challenge_url: 'https://activation.la2050.org/connect/good-shine-studio/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Connect for LA Chinatown - WAPOW Community Media Project
-project_titles_from_project_ids:
-  - Connect for LA Chinatown - WAPOW Community Media Project
-original_project_titles:
-  - Connect for LA Chinatown - WAPOW Community Media Project
-original_project_ids:
-  - '8102047'
 category: connect
 
 ---

@@ -55,18 +55,8 @@ project_ids: '3102137'
 title: Garden School Foundation
 uri: /organizations/garden-school-foundation/
 challenge_url: 'http://maker.good.is/myla2050/projects/schoolgardensforall.html'
-extrapolated_project_ids:
-  - '3102137'
-project_titles_from_extrapolated_project_ids:
-  - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
 project_titles:
   - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
-project_titles_from_project_ids:
-  - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
-original_project_titles:
-  - 'Asphalt to Apples: Sprouting Healthy Kids and Gardens'
-original_project_ids:
-  - '3102137'
 maker_image_id: '16977'
 maker_image_file_name: beans_on_clothes_H_small.jpg
 

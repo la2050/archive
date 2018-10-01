@@ -30,20 +30,9 @@ project_ids: '5102175'
 title: Levitt Pavilion Greater Los Angeles & Pasadena
 uri: /organizations/levitt-pavilion-greater-los-angeles-pasadena/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
-extrapolated_project_ids:
-  - '5102175'
-project_titles_from_extrapolated_project_ids:
-  - Ignite Imaginations Access the World
 project_titles:
   - Ignite Imaginations Access the World
   - Igniting Imaginations Today Ensuring Arts Vitality Tomorrow
-project_titles_from_project_ids:
-  - Ignite Imaginations Access the World
-original_project_titles:
-  - 'Ignite Imaginations, Access the World'
-original_project_ids:
-  - '5102175'
-project_titles_flagged: 1
 maker_image_id: '23665'
 maker_image_file_name: Levitt_LA_Silk_Road-285-2080542528-O.jpg
 

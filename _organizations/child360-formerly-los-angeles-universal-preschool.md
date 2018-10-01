@@ -33,18 +33,6 @@ title: Child360 (formerly Los Angeles Universal Preschool)
 uri: /organizations/child360-formerly-los-angeles-universal-preschool/
 challenge_url: >-
   https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
-extrapolated_project_ids:
-  - '8102018'
-project_titles_from_extrapolated_project_ids:
-  - 'Community: Where strong families are made '
-project_titles:
-  - 'Community: Where strong families are made '
-project_titles_from_project_ids:
-  - 'Community: Where strong families are made '
-original_project_titles:
-  - 'Community: Where strong families are made'
-original_project_ids:
-  - '8102018'
 category: connect
 
 ---

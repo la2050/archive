@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   Topanga Women's Circle will create a new city-wide program called The
   Community Circle Project which will guide existing service groups in helping
-  homeless families as they transition into housing.
+  homeless families as they transition into housing. 
 Please describe the activation your organization seeks to launch.: >-
   TWC will create the Community Circle Project - Expanding our Circle to Ease
   Homelessness in L.A, a new city-wide partnership between public/private
@@ -33,7 +33,6 @@ project_image: >-
 project_video: 'https://youtu.be/9lVdk4emJ-M'
 project_id_3: '8102126'
 year_submitted: 2018
-organization_name: Topanga Women's Circle
 project_proposal_description: >-
   TWC will create the Community Circle Project - Expanding our Circle to Ease
   Homelessness in L.A, a new city-wide partnership between public/private

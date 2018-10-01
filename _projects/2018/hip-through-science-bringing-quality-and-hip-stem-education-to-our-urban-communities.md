@@ -94,7 +94,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102122'
 year_submitted: 2018
-organization_name: The People of Change
 project_proposal_description: >-
   HIP Through Science seeks to make STEM Education HIP, relatable and obtainable
   for children in our underserved communities.Our STEM program is aiming to

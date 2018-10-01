@@ -40,28 +40,6 @@ project_ids: '8102061'
 title: LA Compost
 uri: /organizations/la-compost/
 challenge_url: 'https://activation.la2050.org/connect/la-compost/'
-extrapolated_project_ids:
-  - '6102119'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Building Community and reducing organic waste via Community Compost Hubs
-    throughout LA County
-project_titles:
-  - >-
-    Building Community and reducing organic waste via Community Compost Hubs
-    throughout LA County
-  - Connect to Soil and People
-project_titles_from_project_ids:
-  - Connect to Soil and People
-original_project_titles:
-  - >-
-    Building Community and reducing organic waste via Community Compost Hubs
-    throughout LA County
-  - Connect to Soil and People
-original_project_ids:
-  - '6102119'
-  - '8102061'
-project_titles_flagged: 1
 category: connect
 
 ---

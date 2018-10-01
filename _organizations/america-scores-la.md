@@ -31,25 +31,5 @@ title: America Scores LA
 uri: /organizations/america-scores-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
-extrapolated_project_ids:
-  - '6102006'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-project_titles:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-project_titles_from_project_ids:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-original_project_titles:
-  - >-
-    LA Fields for Dreams - Turning Asphalt to Turf (providing safe places to
-    play)
-original_project_ids:
-  - '6102006'
 
 ---

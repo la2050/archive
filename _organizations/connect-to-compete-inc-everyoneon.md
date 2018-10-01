@@ -12,7 +12,7 @@ tags_indicators:
   - STEM & Digital literacy
   - Education & youth
 twitter: '@Everyone_On'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/EveryoneOn/'
 org_type: Nonprofit
 project_image: >-
@@ -29,16 +29,6 @@ project_ids: '8102030'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 uri: /organizations/connect-to-compete-inc-everyoneon/
 challenge_url: 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'EveryoneOn Digital Equity Champions Initiative: Bringing  Angelenos Online'
-project_titles_from_project_ids:
-  - 'EveryoneOn Digital Equity Champions Initiative: Bringing  Angelenos Online'
-original_project_titles:
-  - 'EveryoneOn Digital Equity Champions Initiative: Bringing Angelenos Online'
-original_project_ids:
-  - '8102030'
 category: connect
 
 ---

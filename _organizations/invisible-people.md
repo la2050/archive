@@ -110,18 +110,8 @@ project_ids: '3102158'
 title: Invisible People
 uri: /organizations/invisible-people/
 challenge_url: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
-extrapolated_project_ids:
-  - '3102158'
-project_titles_from_extrapolated_project_ids:
-  - Los Angeles Invisible People Chapter and Film Festival
 project_titles:
   - Los Angeles Invisible People Chapter and Film Festival
-project_titles_from_project_ids:
-  - Los Angeles Invisible People Chapter and Film Festival
-original_project_titles:
-  - Los Angeles Invisible People Chapter and Film Festival
-original_project_ids:
-  - '3102158'
 youtube_video_identifier: yUwt2n0jfsc
 
 ---

@@ -41,7 +41,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=w47i_b8U5-0&feature=youtu.be'
 project_id_3: '8102013'
 year_submitted: 2018
-organization_name: Cardborigami Inc
 project_proposal_description: >-
   Cardborigami will establish safe, managed, temporary shelter sites on secured
   premises of private property hosts, where our shelter structures will be set

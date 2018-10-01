@@ -21,19 +21,8 @@ project_ids: '4102183'
 title: Western Center on Law & Poverty (WCLP)
 uri: /organizations/western-center-on-law-poverty-wclp/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
-project_titles_from_project_ids:
-  - >-
-    The Achievable Clinic: quality healthcare for families and people with
-    developmental disabilities
-original_project_titles:
-  - Health Care for 1 Million Uninsured Los Angeles Residents
-original_project_ids:
-  - '4102121'
-project_titles_flagged: 1
 youtube_video_identifier: '-8HpYaBGc4I'
 
 ---

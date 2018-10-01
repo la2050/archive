@@ -34,18 +34,6 @@ project_ids: '8102041'
 title: FreeFrom
 uri: /organizations/freefrom/
 challenge_url: 'https://activation.la2050.org/live/freefrom/'
-extrapolated_project_ids:
-  - '8102041'
-project_titles_from_extrapolated_project_ids:
-  - Make LA the first city where everyone can live free from abuse
-project_titles:
-  - Make LA the first city where everyone can live free from abuse
-project_titles_from_project_ids:
-  - Make LA the first city where everyone can live free from abuse
-original_project_titles:
-  - Make LA the first city where everyone can live free from abuse
-original_project_ids:
-  - '8102041'
 category: live
 
 ---

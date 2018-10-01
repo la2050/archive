@@ -5,9 +5,9 @@ title: >-
   VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
   change.
 project_summary: >-
-  With the leadership of LA's Mayor and building upon a recent increase in local
+  With the leadership of LAs Mayor and building upon a recent increase in local
   activism, VolunteerLA will turn energy into action by connecting Angelenos to
-  volunteer opportunities that create change.
+  volunteer opportunities that create change. 
 Please describe the activation your organization seeks to launch.: >-
   VolunteerLA will connect Angelenos to volunteer opportunities available in
   communities across the region through an online platform powered by a mobile
@@ -29,7 +29,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102081'
 year_submitted: 2018
-organization_name: Mayor’s Fund for Los Angeles
 project_proposal_description: >-
   VolunteerLA will connect Angelenos to volunteer opportunities available in
   communities across the region through an online platform powered by a mobile

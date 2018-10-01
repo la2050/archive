@@ -31,7 +31,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/shoes
 project_video: 'https://www.youtube.com/watch?v=OiWi0EoNxHc'
 project_id_3: '8102108'
 year_submitted: 2018
-organization_name: Shoes That Fit
 project_proposal_description: >-
   We will work with LAUSD schools to identify the students (K-12) in need of
   shoes. Kids cannot attend school without shoes, can't participate in PE

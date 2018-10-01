@@ -39,18 +39,8 @@ project_ids: '3102128'
 title: 'First Star, Inc.'
 uri: /organizations/first-star-inc/
 challenge_url: 'http://maker.good.is/myla2050/projects/FirstStar.html'
-extrapolated_project_ids:
-  - '3102128'
-project_titles_from_extrapolated_project_ids:
-  - First Star UCLA Bruin Guardian Scholars Academy
 project_titles:
   - First Star UCLA Bruin Guardian Scholars Academy
-project_titles_from_project_ids:
-  - First Star UCLA Bruin Guardian Scholars Academy
-original_project_titles:
-  - First Star UCLA Bruin Guardian Scholars Academy
-original_project_ids:
-  - '3102128'
 youtube_video_identifier: CZMjDcpz53c
 
 ---

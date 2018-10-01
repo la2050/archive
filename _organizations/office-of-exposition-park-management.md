@@ -29,17 +29,5 @@ project_ids: '6102169'
 title: Office of Exposition Park Management
 uri: /organizations/office-of-exposition-park-management/
 challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'
-extrapolated_project_ids:
-  - '6102169'
-project_titles_from_extrapolated_project_ids:
-  - 'Exposition Park: A Gateway and a Destination'
-project_titles:
-  - 'Exposition Park: A Gateway and a Destination'
-project_titles_from_project_ids:
-  - 'Exposition Park: A Gateway and a Destination'
-original_project_titles:
-  - 'Exposition Park: A Gateway and a Destination'
-original_project_ids:
-  - '6102169'
 
 ---

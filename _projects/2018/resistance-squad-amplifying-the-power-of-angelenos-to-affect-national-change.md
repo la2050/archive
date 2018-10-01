@@ -41,7 +41,6 @@ project_image: >-
 project_video: 'https://youtu.be/63SBgjUNWxA'
 project_id_3: '8102075'
 year_submitted: 2018
-organization_name: Los Angeles LGBT Center
 project_proposal_description: >-
   As Los Angeles, we are uniquely positioned to help improve the lives of
   millions of our neighbors while leading our state, changing a nation, and

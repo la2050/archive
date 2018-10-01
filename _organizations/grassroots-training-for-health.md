@@ -32,17 +32,5 @@ title: Grassroots Training for Health
 uri: /organizations/grassroots-training-for-health/
 challenge_url: >-
   https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
-extrapolated_project_ids:
-  - '6102084'
-project_titles_from_extrapolated_project_ids:
-  - 'Grassroots Training for Health: Combating Obesity One Community at a Time'
-project_titles:
-  - 'Grassroots Training for Health: Combating Obesity One Community at a Time'
-project_titles_from_project_ids:
-  - 'Grassroots Training for Health: Combating Obesity One Community at a Time'
-original_project_titles:
-  - 'Grassroots Training for Health: Combating Obesity One Community at a Time'
-original_project_ids:
-  - '6102084'
 
 ---

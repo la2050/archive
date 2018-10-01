@@ -29,18 +29,8 @@ project_ids: '5102340'
 title: WestCal Academy
 uri: /organizations/westcal-academy/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
-extrapolated_project_ids:
-  - '5102340'
-project_titles_from_extrapolated_project_ids:
-  - WestCal Career Pathways
 project_titles:
   - WestCal Career Pathways
-project_titles_from_project_ids:
-  - WestCal Career Pathways
-original_project_titles:
-  - WestCal Career Pathways
-original_project_ids:
-  - '5102340'
 youtube_video_identifier: f_x1AGOuR7A
 
 ---

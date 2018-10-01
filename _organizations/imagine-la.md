@@ -34,22 +34,6 @@ project_ids: '8102054'
 title: Imagine LA
 uri: /organizations/imagine-la/
 challenge_url: 'https://activation.la2050.org/connect/imagine-la/'
-extrapolated_project_ids:
-  - '6102102'
-project_titles_from_extrapolated_project_ids:
-  - Volunteer and be a Part of the Solution to Family Homelessness
-project_titles:
-  - 'Intersections: The power of our common stories.'
-  - Volunteer and be a Part of the Solution to Family Homelessness
-project_titles_from_project_ids:
-  - 'Intersections: The power of our common stories.'
-original_project_titles:
-  - 'Intersections: The power of our common stories.'
-  - Volunteer and be a Part of the Solution to Family Homelessness
-original_project_ids:
-  - '6102102'
-  - '8102054'
-project_titles_flagged: 1
 category: connect
 
 ---

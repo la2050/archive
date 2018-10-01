@@ -25,19 +25,8 @@ project_ids: '4102094'
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
-extrapolated_project_ids:
-  - '4102224'
-project_titles_from_extrapolated_project_ids:
-  - The Mirror Mirror Project
 project_titles:
   - The Mirror Mirror Project
-project_titles_from_project_ids:
-  - Revitalizing La Tierra de la Culebra community art park
-original_project_titles:
-  - 'The Mirror, Mirror Project'
-original_project_ids:
-  - '4102224'
-project_titles_flagged: 1
 youtube_video_identifier: awJQoJqGL-o
 
 ---

@@ -33,17 +33,5 @@ project_ids: '6102074'
 title: Friends of King
 uri: /organizations/friends-of-king/
 challenge_url: 'https://challenge.la2050.org/entry/la-plays-at-king'
-extrapolated_project_ids:
-  - '6102074'
-project_titles_from_extrapolated_project_ids:
-  - LA Plays at King
-project_titles:
-  - LA Plays at King
-project_titles_from_project_ids:
-  - LA Plays at King
-original_project_titles:
-  - LA Plays at King
-original_project_ids:
-  - '6102074'
 
 ---

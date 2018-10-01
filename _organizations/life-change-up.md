@@ -29,16 +29,8 @@ project_ids: '5102176'
 title: Life Change Up
 uri: /organizations/life-change-up/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/walking.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Walking to Wellness Program
-project_titles_from_project_ids:
-  - Walking to Wellness Program
-original_project_titles:
-  - Walking to Wellness Program
-original_project_ids:
-  - '5102176'
 youtube_video_identifier: _AEWWNe6eQw
 
 ---

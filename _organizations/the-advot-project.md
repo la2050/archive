@@ -85,18 +85,8 @@ project_ids: '3102244'
 title: The Advot Project
 uri: /organizations/the-advot-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/advotproject.html'
-extrapolated_project_ids:
-  - '3102244'
-project_titles_from_extrapolated_project_ids:
-  - 'Advot: Theater to Facilitate Change'
 project_titles:
   - 'Advot: Theater to Facilitate Change'
-project_titles_from_project_ids:
-  - 'Advot: Theater to Facilitate Change'
-original_project_titles:
-  - 'Advot: Theater to Facilitate Change'
-original_project_ids:
-  - '3102244'
 maker_image_id: '17036'
 maker_image_file_name: logo.png
 

@@ -24,7 +24,6 @@ project_image: >-
 project_video: 'https://youtu.be/uGjAQ4LYDr8'
 project_id_3: '8102077'
 year_submitted: 2018
-organization_name: Los Angeles Service Academy (LASA)
 project_proposal_description: >-
   LASA proposes to expand its foundational skills training of student activists;
   create additional partnerships; foster greater cohesion amongst our students

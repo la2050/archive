@@ -34,18 +34,8 @@ project_ids: '3102027'
 title: Arts Council for Long Beach
 uri: /organizations/arts-council-for-long-beach/
 challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'
-extrapolated_project_ids:
-  - '3102027'
-project_titles_from_extrapolated_project_ids:
-  - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
 project_titles:
   - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
-project_titles_from_project_ids:
-  - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
-original_project_titles:
-  - 'The A LOT Initiative: Using Art to Activate Vacant City Lots'
-original_project_ids:
-  - '3102027'
 youtube_video_identifier: nPa4Lu7CMPA
 
 ---

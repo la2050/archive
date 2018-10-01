@@ -25,25 +25,10 @@ project_ids: '8102069'
 title: EEZITEC
 uri: /organizations/eezitec/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
-extrapolated_project_ids:
-  - '5102091'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Making the next generation of creativity accessible to anyone with a 3D
-    Printing Makerspace!
 project_titles:
   - >-
     Making the next generation of creativity accessible to anyone with a 3D
     Printing Makerspace!
-project_titles_from_project_ids:
-  - 'LOLA: Demystifying local politics for young, busy residents in LA'
-original_project_titles:
-  - >-
-    Making the next generation of creativity accessible to anyone with a 3D
-    Printing Makerspace!
-original_project_ids:
-  - '5102091'
-project_titles_flagged: 1
 youtube_video_identifier: uVgrIU_Bl9g
 
 ---

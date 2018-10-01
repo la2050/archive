@@ -29,26 +29,10 @@ project_ids: '5102031'
 title: Blueprint Earth
 uri: /organizations/blueprint-earth/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
-extrapolated_project_ids:
-  - '5102031'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Blueprint Earth is Making Los Angeles the Environmental Science Capital of
-    the World
 project_titles:
   - >-
     Blueprint Earth is Making Los Angeles the Environmental Science Capital of
     the World
-project_titles_from_project_ids:
-  - >-
-    Blueprint Earth is Making Los Angeles the Environmental Science Capital of
-    the World
-original_project_titles:
-  - >-
-    Blueprint Earth is Making Los Angeles the Environmental Science Capital of
-    the World
-original_project_ids:
-  - '5102031'
 youtube_video_identifier: H-S2LiQcO00
 
 ---

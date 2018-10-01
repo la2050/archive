@@ -31,17 +31,5 @@ title: Come Alive Long Beach
 uri: /organizations/come-alive-long-beach/
 challenge_url: >-
   https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
-extrapolated_project_ids:
-  - '6102048'
-project_titles_from_extrapolated_project_ids:
-  - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
-project_titles:
-  - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
-project_titles_from_project_ids:
-  - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
-original_project_titles:
-  - Community Collaboration For Low Cost Creative Summer Art Camps In Long Beach
-original_project_ids:
-  - '6102048'
 
 ---

@@ -42,25 +42,5 @@ title: SportUp
 uri: /organizations/sportup/
 challenge_url: >-
   https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
-extrapolated_project_ids:
-  - '6102233'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
-project_titles:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
-project_titles_from_project_ids:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
-original_project_titles:
-  - >-
-    Empowering community organizations to grow through logistics and data
-    analytics
-original_project_ids:
-  - '6102233'
 
 ---

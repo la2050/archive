@@ -37,22 +37,6 @@ project_ids: '8102075'
 title: Los Angeles LGBT Center
 uri: /organizations/los-angeles-lgbt-center/
 challenge_url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
-project_titles_from_project_ids:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
-original_project_titles:
-  - >-
-    Resistance Squad: Amplifying the Power of Angelenos to Affect National
-    Change
-original_project_ids:
-  - '8102075'
 category: connect
 
 ---

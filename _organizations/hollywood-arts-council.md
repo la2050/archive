@@ -28,17 +28,5 @@ title: Hollywood Arts Council
 uri: /organizations/hollywood-arts-council/
 challenge_url: >-
   https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
-extrapolated_project_ids:
-  - '6102093'
-project_titles_from_extrapolated_project_ids:
-  - Save the Art Programs in the Art Capital's Schools!
-project_titles:
-  - Save the Art Programs in the Art Capital's Schools!
-project_titles_from_project_ids:
-  - Save the Art Programs in the Art Capital's Schools!
-original_project_titles:
-  - Save the Art Programs in the Art Capital's Schools!
-original_project_ids:
-  - '6102093'
 
 ---

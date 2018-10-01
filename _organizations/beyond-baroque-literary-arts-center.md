@@ -28,19 +28,8 @@ project_ids: '4102016'
 title: Beyond Baroque Literary Arts Center
 uri: /organizations/beyond-baroque-literary-arts-center/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - An Arts Commons for Everyone
-project_titles_from_project_ids:
-  - >-
-    Educating traditionally underserved youth about working in the entertainment
-    industry
-original_project_titles:
-  - An Arts Commons for Everyone
-original_project_ids:
-  - '4102023'
-project_titles_flagged: 1
 maker_image_id: '22565'
 maker_image_file_name: Proposed_Space_for_Venice_Arts_Commons.jpg
 

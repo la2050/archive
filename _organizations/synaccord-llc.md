@@ -39,25 +39,6 @@ project_ids: '5102293'
 title: 'Synaccord, LLC'
 uri: /organizations/synaccord-llc/
 challenge_url: 'https://activation.la2050.org/connect/synaccord-llc/'
-extrapolated_project_ids:
-  - '6102234'
-project_titles_from_extrapolated_project_ids:
-  - Engage Your Neighborhood
-project_titles:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-  - Neighborhood Conversations
-project_titles_from_project_ids:
-  - TMPST Action Parks provide creative movement to LA through play and fitness
-original_project_titles:
-  - Engage Your Neighborhood
-  - Engaging LA Online in Solutions that Unite Us
-  - Neighborhood Conversations
-original_project_ids:
-  - '5102285'
-  - '6102234'
-  - '8102115'
-project_titles_flagged: 1
 category: connect
 
 ---

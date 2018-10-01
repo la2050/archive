@@ -33,19 +33,5 @@ project_ids: '6102136'
 title: Los Angeles Audubon Society (LAAS)
 uri: /organizations/los-angeles-audubon-society-laas/
 challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
-extrapolated_project_ids:
-  - '6102136'
-project_titles_from_extrapolated_project_ids:
-  - LA Audubon - Urban Nature Explored
-project_titles:
-  - LA Audubon - Urban Nature Explored
-  - LOS ANGELES AUDUBON - Urban Nature Explored and Expressed
-project_titles_from_project_ids:
-  - LA Audubon - Urban Nature Explored
-original_project_titles:
-  - LA Audubon - Urban Nature Explored
-original_project_ids:
-  - '6102136'
-project_titles_flagged: 1
 
 ---

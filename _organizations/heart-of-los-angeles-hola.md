@@ -92,18 +92,8 @@ project_ids: '3102147'
 title: Heart of Los Angeles (HOLA)
 uri: /organizations/heart-of-los-angeles-hola/
 challenge_url: 'http://maker.good.is/myla2050/projects/heartofla.html'
-extrapolated_project_ids:
-  - '3102147'
-project_titles_from_extrapolated_project_ids:
-  - Visual Arts Education at Heart of Los Angeles
 project_titles:
   - Visual Arts Education at Heart of Los Angeles
-project_titles_from_project_ids:
-  - Visual Arts Education at Heart of Los Angeles
-original_project_titles:
-  - Visual Arts Education at Heart of Los Angeles
-original_project_ids:
-  - '3102147'
 youtube_video_identifier: 0CZIOxlCozk
 
 ---

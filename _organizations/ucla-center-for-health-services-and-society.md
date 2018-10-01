@@ -34,26 +34,6 @@ title: UCLA Center for Health Services and Society
 uri: /organizations/ucla-center-for-health-services-and-society/
 challenge_url: >-
   https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
-extrapolated_project_ids:
-  - '8102129'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
-    Community for the Community
-project_titles:
-  - >-
-    B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
-    Community for the Community
-project_titles_from_project_ids:
-  - >-
-    B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
-    Community for the Community
-original_project_titles:
-  - >-
-    B-RESILIENT: An Engaging Text Messaging and Mobile App Created by the
-    Community for the Community
-original_project_ids:
-  - '8102129'
 category: live
 
 ---

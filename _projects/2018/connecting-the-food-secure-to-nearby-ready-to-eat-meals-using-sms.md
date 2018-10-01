@@ -27,7 +27,6 @@ project_image: >-
 project_video: ''
 project_id_3: '8102090'
 year_submitted: 2018
-organization_name: Not Impossible Foundation
 project_proposal_description: >-
   NIF seeks to launch Hunger: Not Impossible, a SMS and also soon-to-be
   app-based platform that connects food secure individuals to hot, ready-to-eat

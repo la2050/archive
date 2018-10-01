@@ -30,17 +30,5 @@ project_ids: '6102010'
 title: Arts and Living Charitable Foundation
 uri: /organizations/arts-and-living-charitable-foundation/
 challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
-extrapolated_project_ids:
-  - '6102010'
-project_titles_from_extrapolated_project_ids:
-  - Arts Connect
-project_titles:
-  - Arts Connect
-project_titles_from_project_ids:
-  - Arts Connect
-original_project_titles:
-  - 'Arts Connect '
-original_project_ids:
-  - '6102010'
 
 ---

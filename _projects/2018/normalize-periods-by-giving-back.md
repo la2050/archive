@@ -61,7 +61,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/happy
 project_video: 'https://youtu.be/goBUjr5-dRA'
 project_id_3: '8102001'
 year_submitted: 2018
-organization_name: '#HappyPeriod'
 project_proposal_description: >-
   A 25-foot art installation of the words PERIODS and #HAPPYPERIOD set in five
   locations within Los Angeles county. The letters will be made of ply-wood with

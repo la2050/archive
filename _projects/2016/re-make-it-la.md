@@ -1,7 +1,7 @@
 ---
 organization_id: '2016055'
 year_submitted: 2016
-organization_name: Concerned Capital/Crowdfund Better
+organization_name: Concerned Capital
 organization_website: www.concernedcapital.org
 ein: ''
 project_image_2: 8716427165741-team91.png

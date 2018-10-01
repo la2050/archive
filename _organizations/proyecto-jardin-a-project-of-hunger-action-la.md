@@ -34,18 +34,6 @@ title: 'Proyecto Jardin: A Project of Hunger Action LA'
 uri: /organizations/proyecto-jardin-a-project-of-hunger-action-la/
 challenge_url: >-
   https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Healing City Soils and Sowing Seeds for Tomorrow
-  - Mobile Cooking Classes To The Communities That Need Them Most
-project_titles_from_project_ids:
-  - Healing City Soils and Sowing Seeds for Tomorrow
-original_project_titles:
-  - Healing City Soils and Sowing Seeds for Tomorrow
-original_project_ids:
-  - '8102099'
-project_titles_flagged: 1
 category: learn
 
 ---

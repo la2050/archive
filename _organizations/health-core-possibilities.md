@@ -14,8 +14,8 @@ tags_indicators:
   - Mobility
   - Public safety & public space
 twitter: '@lizettealvare15'
-instagram: ''
-facebook: ''
+instagram: 0
+facebook: 0
 org_type: Forprofit
 project_image: >-
   https://activation.la2050.org/assets/images/live/2048-wide/health-core-possibilities.jpg
@@ -36,17 +36,6 @@ project_ids: '8102091'
 title: Health Core Possibilities
 uri: /organizations/health-core-possibilities/
 challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT / '
-project_titles_from_project_ids:
-  - Mobile application to make parking easier
-original_project_titles:
-  - STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT /
-original_project_ids:
-  - '8102052'
-project_titles_flagged: 1
 category: live
 
 ---

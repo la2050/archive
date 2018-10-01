@@ -12,7 +12,7 @@ tags_indicators:
   - STEM & Digital literacy
   - Education & youth
 twitter: '@data360me'
-instagram: ''
+instagram: 0
 facebook: 'https://www.facebook.com/data360solutions/'
 org_type: Forprofit
 project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/data-360.jpg'
@@ -31,17 +31,6 @@ project_ids: '4102106'
 title: Data 360
 uri: /organizations/data-360/
 challenge_url: 'https://activation.la2050.org/learn/data-360/'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Activating Tech Talent in LA
-project_titles_from_project_ids:
-  - 'Unlock the Block: Bringing Play Streets to Los Angeles'
-original_project_titles:
-  - Activating Tech Talent in LA
-original_project_ids:
-  - '8102033'
-project_titles_flagged: 1
 category: learn
 
 ---

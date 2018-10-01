@@ -31,27 +31,5 @@ title: 'PEN Center USA, ''PEN USA'''
 uri: /organizations/pen-center-usa-pen-usa/
 challenge_url: >-
   https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
-extrapolated_project_ids:
-  - '6102180'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Emerging Voices Fellowship: Creating Diverse Literary Artists Through
-    Mentorship
-project_titles:
-  - >-
-    Emerging Voices Fellowship: Creating Diverse Literary Artists Through
-    Mentorship
-  - Los Angeles Youth Poet Laureate Program
-project_titles_from_project_ids:
-  - >-
-    Emerging Voices Fellowship: Creating Diverse Literary Artists Through
-    Mentorship
-original_project_titles:
-  - >-
-    Emerging Voices Fellowship: Creating Diverse Literary Artists Through
-    Mentorship
-original_project_ids:
-  - '6102180'
-project_titles_flagged: 1
 
 ---

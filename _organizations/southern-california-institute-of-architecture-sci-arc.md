@@ -22,17 +22,8 @@ project_ids: '4102163'
 title: Southern California Institute of Architecture (SCI-Arc)
 uri: /organizations/southern-california-institute-of-architecture-sci-arc/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Los Angeles Beaches Forever
-project_titles_from_project_ids:
-  - 'Meet angel: Your friendly app and ally to all things LA'
-original_project_titles:
-  - SCI-Arc/Habitat LA Housing Project
-original_project_ids:
-  - '4102175'
-project_titles_flagged: 1
 maker_image_id: '21961'
 maker_image_file_name: SCI-Arc-HFH_FINAL.jpg
 

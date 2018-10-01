@@ -41,20 +41,8 @@ title: >-
 uri: >-
   /organizations/la-causa-los-angeles-community-advocating-for-unity-social-justice-and-action/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
-extrapolated_project_ids:
-  - '3102168'
-project_titles_from_extrapolated_project_ids:
-  - Young people want to feel safe too
 project_titles:
   - Young people want to feel safe too
-project_titles_from_project_ids:
-  - Young people want to feel safe too
-original_project_titles:
-  - Young leaders of today to the leaders of 2050
-  - Young people want to feel safe too
-original_project_ids:
-  - '3102168'
-project_titles_flagged: 1
 youtube_video_identifier: JPbaYb88x0U
 
 ---

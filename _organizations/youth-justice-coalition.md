@@ -29,16 +29,8 @@ project_ids: '5102345'
 title: Youth Justice Coalition
 uri: /organizations/youth-justice-coalition/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
-project_titles_from_project_ids:
-  - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
-original_project_titles:
-  - 'Education for Everyone: Alternative High School for Pushed-Out Youth'
-original_project_ids:
-  - '5102345'
 youtube_video_identifier: 31zyNJHGmig
 
 ---

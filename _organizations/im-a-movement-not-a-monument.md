@@ -34,17 +34,5 @@ title: I'm A Movement Not A Monument
 uri: /organizations/im-a-movement-not-a-monument/
 challenge_url: >-
   https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
-extrapolated_project_ids:
-  - '6102101'
-project_titles_from_extrapolated_project_ids:
-  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-project_titles:
-  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-project_titles_from_project_ids:
-  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-original_project_titles:
-  - 'No Mind Left Behind: Free Tutoring Services for Pre-K to 12th Graders'
-original_project_ids:
-  - '6102101'
 
 ---

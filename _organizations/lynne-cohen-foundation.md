@@ -29,25 +29,5 @@ title: Lynne Cohen Foundation
 uri: /organizations/lynne-cohen-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
-extrapolated_project_ids:
-  - '6102150'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
-project_titles:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
-project_titles_from_project_ids:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
-original_project_titles:
-  - >-
-    Lynne Cohen Preventive Care Clinic at USC/Norris Cancer Center for Women at
-    Risk for Cancer
-original_project_ids:
-  - '6102150'
 
 ---

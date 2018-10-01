@@ -29,25 +29,5 @@ title: Braille Institute of America
 uri: /organizations/braille-institute-of-america/
 challenge_url: >-
   https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
-extrapolated_project_ids:
-  - '6102020'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
-project_titles:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
-project_titles_from_project_ids:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
-original_project_titles:
-  - >-
-    Connection Pointe – Technology Education Tools for Blind Teachers and
-    Students
-original_project_ids:
-  - '6102020'
 
 ---

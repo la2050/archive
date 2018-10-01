@@ -39,7 +39,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=Du3r0rMVl4Q'
 project_id_3: '8102031'
 year_submitted: 2018
-organization_name: Coro Southern California
 project_proposal_description: >-
   Coro’s Neighborhood Leaders Program (NLP) is a nine-month, part-time program
   that provides a cohort of 25 emerging leaders from South LA with leadership

@@ -40,17 +40,5 @@ title: Maiden LA
 uri: /organizations/maiden-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
-extrapolated_project_ids:
-  - '6102151'
-project_titles_from_extrapolated_project_ids:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-project_titles:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-project_titles_from_project_ids:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-original_project_titles:
-  - 'Maiden LA, a county-wide network of LA-based ''happenings'' in August 2017'
-original_project_ids:
-  - '6102151'
 
 ---

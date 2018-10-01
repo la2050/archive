@@ -4,7 +4,7 @@ project_id_2: '8102099'
 title: Healing City Soils and Sowing Seeds for Tomorrow
 project_summary: >-
   We are activating the regenerative power of our earth mother to heal broken
-  hearts, restore city soils, and feed mind, body and spirit through meaningful
+  hearts, restore city soils, and feed mind, body and spirit through  meaningful
   education, soulful work, and radical hope.
 Please describe the activation your organization seeks to launch.: >-
   We are leveraging the healing and therapeutic benefits of gardening,
@@ -31,7 +31,6 @@ project_image: >-
 project_video: 'https://www.facebook.com/269671146378710/videos/476537755692047/'
 project_id_3: '8102099'
 year_submitted: 2018
-organization_name: 'Proyecto Jardin: A Project of Hunger Action LA'
 project_proposal_description: >-
   We are leveraging the healing and therapeutic benefits of gardening,
   composting, and healthy cooking to create safe and inspiring learning

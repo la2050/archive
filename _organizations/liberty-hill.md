@@ -62,21 +62,8 @@ project_ids: '3102180'
 title: Liberty Hill
 uri: /organizations/liberty-hill/
 challenge_url: 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
-extrapolated_project_ids:
-  - '3102180'
-project_titles_from_extrapolated_project_ids:
-  - Boot Camp 2050 for Change
 project_titles:
   - Boot Camp 2050 for Change
-project_titles_from_project_ids:
-  - Boot Camp 2050 for Change
-original_project_titles:
-  - Boot Camp 2050 for Change
-  - Housing Long Beach
-  - Khmer Girls in Action
-original_project_ids:
-  - '3102180'
-project_titles_flagged: 1
 youtube_video_identifier: kfEpQxhOtUk
 
 ---

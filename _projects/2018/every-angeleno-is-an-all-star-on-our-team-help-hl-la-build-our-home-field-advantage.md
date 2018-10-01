@@ -1,13 +1,10 @@
 ---
-project_id: '8102051'
+project_id: ''
 project_id_2: '8102051'
 title: >-
   Every Angeleno is an all star on our team. Help HL - LA build our home field
   advantage!
-project_summary: >-
-  HL-LA engages families, communities, businesses, law enforcement, school
-  partners, and athletes of all backgrounds to provide kids most at risk of
-  dropout with personal pathways to future successes.
+project_summary: ''
 Please describe the activation your organization seeks to launch.: >-
   By activating all the individuals that HL-LA’s programs touch both directly
   and indirectly, from students and parents to school staff and local police,
@@ -23,12 +20,10 @@ impact_metrics: ''
 make_la_great: ''
 category: learn
 organization_id: ''
-project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg
+project_image: ''
 project_video: ''
 project_id_3: ''
 year_submitted: 2018
-organization_name: Harlem Lacrosse - Los Angeles
 project_proposal_description: >-
   By activating all the individuals that HL-LA’s programs touch both directly
   and indirectly, from students and parents to school staff and local police,

@@ -34,19 +34,10 @@ title: >-
 uri: >-
   /organizations/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
-  - 'A Garden of Hope A South LA Oasis of locally produced Vegetables and Fruits '
   - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
   - Meet me in MacArthur Park
-project_titles_from_project_ids:
-  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
-original_project_titles:
-  - 'FREE LOTS ANGELES: Transforming Vacant Lots into Neighborhood Assets'
-original_project_ids:
-  - '5102192'
-project_titles_flagged: 1
+  - 'A Garden of Hope A South LA Oasis of locally produced Vegetables and Fruits '
 youtube_video_identifier: KQnPSzqeZRk
 
 ---

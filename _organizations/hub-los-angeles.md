@@ -51,18 +51,8 @@ project_ids: '3102056'
 title: Hub Los Angeles
 uri: /organizations/hub-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/thehubla.html'
-extrapolated_project_ids:
-  - '3102056'
-project_titles_from_extrapolated_project_ids:
-  - 'Craft Meets Impact: Hub LA Media Lab'
 project_titles:
   - 'Craft Meets Impact: Hub LA Media Lab'
-project_titles_from_project_ids:
-  - 'Craft Meets Impact: Hub LA Media Lab'
-original_project_titles:
-  - 'Craft Meets Impact: Hub LA Media Lab'
-original_project_ids:
-  - '3102056'
 maker_image_id: '17015'
 maker_image_file_name: Lounge_Rendering.jpg
 

@@ -47,25 +47,5 @@ uri: >-
   /organizations/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
-extrapolated_project_ids:
-  - '6102275'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    LA CitySense: Citizen engagement in collection of air quality data for
-    improvement of public health
-project_titles:
-  - >-
-    LA CitySense: Citizen engagement in collection of air quality data for
-    improvement of public health
-project_titles_from_project_ids:
-  - >-
-    LA CitySense: Citizen engagement in collection of air quality data for
-    improvement of public health
-original_project_titles:
-  - >-
-    LA CitySense: Citizen engagement in collection of air quality data for
-    improvement of public health
-original_project_ids:
-  - '6102275'
 
 ---

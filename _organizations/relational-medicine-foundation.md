@@ -36,21 +36,5 @@ title: Relational Medicine Foundation
 uri: /organizations/relational-medicine-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
-extrapolated_project_ids:
-  - '6102196'
-project_titles_from_extrapolated_project_ids:
-  - 'Art from the Heart: an Art and Movement Therapy Program'
-project_titles:
-  - 'Art from the Heart: an Art and Movement Therapy Program'
-  - 'Relational Medicine: National Movement Recognizes Compassionate Patient Care'
-project_titles_from_project_ids:
-  - 'Art from the Heart: an Art and Movement Therapy Program'
-original_project_titles:
-  - 'Art from the Heart: an Art and Movement Therapy Program'
-  - 'Relational Medicine: National Movement Recognizes Compassionate Patient Care'
-original_project_ids:
-  - '5102252'
-  - '6102196'
-project_titles_flagged: 1
 
 ---

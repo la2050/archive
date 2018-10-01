@@ -33,25 +33,5 @@ title: Tierra del Sol Foundation
 uri: /organizations/tierra-del-sol-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
-extrapolated_project_ids:
-  - '6102264'
-project_titles_from_extrapolated_project_ids:
-  - Pathways to Employment through Professional Volunteerism
-project_titles:
-  - >-
-    Empowering Artists with Disabilities to Fill the Creative Industry
-    Employment Gap
-  - Pathways to Employment through Professional Volunteerism
-project_titles_from_project_ids:
-  - Pathways to Employment through Professional Volunteerism
-original_project_titles:
-  - >-
-    Empowering Artists with Disabilities to Fill the Creative Industry
-    Employment Gap
-  - Pathways to Employment through Professional Volunteerism
-original_project_ids:
-  - '5102320'
-  - '6102264'
-project_titles_flagged: 1
 
 ---

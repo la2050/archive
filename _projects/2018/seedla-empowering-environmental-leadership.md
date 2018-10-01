@@ -30,7 +30,6 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedl
 project_video: 'https://www.youtube.com/watch?v=p0Ag2WK9kaw'
 project_id_3: '8102107'
 year_submitted: 2018
-organization_name: SeedLA
 project_proposal_description: >-
   We will partner with 12 local environmental nonprofits and provide free
   support with marketing strategy, data analytics or new program development.

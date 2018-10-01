@@ -122,7 +122,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=CDgr7CxOHfA'
 project_id_3: '8102129'
 year_submitted: 2018
-organization_name: UCLA Center for Health Services and Society
 project_proposal_description: >-
   Our organization seeks to launch an expansion of the B-RESILIENT
   texting/mobile app to promote resiliency and improve moderate to mild

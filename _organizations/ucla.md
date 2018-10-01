@@ -28,28 +28,9 @@ project_ids: '5102327'
 title: UCLA
 uri: /organizations/ucla/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/TIER.html'
-extrapolated_project_ids:
-  - '4102240'
-project_titles_from_extrapolated_project_ids:
-  - Securing a Sustainable and Empowered Los Angeles
 project_titles:
+  - 'Trauma Informed Educational Reform: The TIER Project'
   - Securing a Sustainable and Empowered Los Angeles
-  - 'Trauma Informed Educational Reform: The TIER Project'
-project_titles_from_project_ids:
-  - 'Trauma Informed Educational Reform: The TIER Project'
-original_project_titles:
-  - >-
-    Making Los Angeles the most technologically progressive and healthy city in
-    the country
-  - >-
-    Mapping Los Angeles Air Pollution through a mobile application to create
-    awareness and engagement.  
-  - 'Trauma Informed Educational Reform: The TIER Project'
-original_project_ids:
-  - '4102039'
-  - '4102241'
-  - '5102327'
-project_titles_flagged: 1
 maker_image_id: '23820'
 maker_image_file_name: TIER.jpg
 

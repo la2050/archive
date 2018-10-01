@@ -28,16 +28,8 @@ project_ids: '5102313'
 title: The University Corporation
 uri: /organizations/the-university-corporation/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - CREATE Project
-project_titles_from_project_ids:
-  - CREATE Project
-original_project_titles:
-  - CREATE Project
-original_project_ids:
-  - '5102313'
 youtube_video_identifier: 5tvdNOJ7fCw
 
 ---

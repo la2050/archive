@@ -27,29 +27,11 @@ project_ids: '5102075'
 title: Communities In Schools of Los Angeles
 uri: /organizations/communities-in-schools-of-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
-extrapolated_project_ids:
-  - '3102085'
-project_titles_from_extrapolated_project_ids:
-  - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
 project_titles:
-  - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
   - >-
     Intersection Repair - Using art to create safer streets and stronger
     communities
-project_titles_from_project_ids:
-  - >-
-    Intersection Repair - Using art to create safer streets and stronger
-    communities
-original_project_titles:
-  - >-
-    Bringing the South LA community together to support the students at Santee
-    who need it
   - 'Communities In Schools of Los Angeles: A Vision of 100% Graduation in LAUSD'
-  - 'Getting LA students to graduate: educating the whole child'
-original_project_ids:
-  - '3102085'
-  - '5102074'
-project_titles_flagged: 1
 youtube_video_identifier: 8RfGcPRl--8
 
 ---

@@ -25,7 +25,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=ZgMxPYmoLgA'
 project_id_3: '8102109'
 year_submitted: 2018
-organization_name: Small Business Majority
 project_proposal_description: >-
   With a focus on reaching and supporting women and minority entrepreneurs in
   Los Angeles County, we will provide education and resources that small

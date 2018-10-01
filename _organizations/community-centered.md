@@ -29,19 +29,8 @@ project_ids: '4102018'
 title: Community Centered
 uri: /organizations/community-centered/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - 'CivicLA: Connecting You to the Best of LA'
-project_titles_from_project_ids:
-  - >-
-    Poesia Para La Gente & Writ Large Press Present: The Neighborhood
-    Literary-scape Project
-original_project_titles:
-  - 'CivicLA: Connecting You to the Best of LA'
-original_project_ids:
-  - '4102044'
-project_titles_flagged: 1
 maker_image_id: '21146'
 maker_image_file_name: civicla.png
 

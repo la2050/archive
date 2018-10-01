@@ -21,27 +21,11 @@ project_ids: '4102169'
 title: The Gabriella Foundation
 uri: /organizations/the-gabriella-foundation/
 challenge_url: ''
-extrapolated_project_ids:
-  - '3102247'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
-    LA’s K8 Schools
 project_titles:
   - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
   - >-
-    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
-    LA’s K8 Schools
-project_titles_from_project_ids:
-  - Play the LA River
-original_project_titles:
-  - 'Everybody Dance!: Transforming Lives Through High-Quality Dance Education'
-  - >-
-    everybody dance:  Training LA’s Teachers to Bring Dance Education Back to
-    LA’s K-8 Schools
-original_project_ids:
-  - '4102213'
-project_titles_flagged: 1
+    everybody dance:  Training LAâ€™s Teachers to Bring Dance Education Back to
+    LAâ€™s K8 Schools
 youtube_video_identifier: TlilAMszJEs
 
 ---

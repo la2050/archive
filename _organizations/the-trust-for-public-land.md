@@ -22,23 +22,8 @@ project_ids: '4102176'
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - RUN FOR YOUR LIFE
-project_titles_from_project_ids:
-  - Mobile Cooking Classes To The Communities That Need Them Most
-original_project_titles:
-  - >-
-    Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
-    Water-Smart Green Space
-  - Play LA! Open Spaces for LA2050!
-  - The Trust for Public Land’s Avalon Green Alley Demonstration Project
-original_project_ids:
-  - '4102245'
-  - '6102259'
-  - '8102123'
-project_titles_flagged: 1
 maker_image_id: '22632'
 maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
 

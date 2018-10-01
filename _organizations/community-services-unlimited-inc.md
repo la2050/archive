@@ -27,19 +27,8 @@ project_ids: '4102019'
 title: Community Services Unlimited inc.
 uri: /organizations/community-services-unlimited-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Earth Day Every Day
-project_titles_from_project_ids:
-  - >-
-    BRIDGE-ing Cultures and Cultivating Change in LA through Original Youth &
-    Community Theatre
-original_project_titles:
-  - Earth Day Every Day
-original_project_ids:
-  - '4102045'
-project_titles_flagged: 1
 youtube_video_identifier: CQsypZUTmbo
 
 ---

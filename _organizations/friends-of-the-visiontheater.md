@@ -27,19 +27,8 @@ project_ids: '4102039'
 title: Friends of the VisionTheater
 uri: /organizations/friends-of-the-visiontheater/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Leimert Park Village Studios
-project_titles_from_project_ids:
-  - >-
-    Making Los Angeles the most technologically progressive and healthy city in
-    the country
-original_project_titles:
-  - Leimert Park Village Studios
-original_project_ids:
-  - '4102078'
-project_titles_flagged: 1
 youtube_video_identifier: _BC4Wfw6Gb4
 
 ---

@@ -28,25 +28,5 @@ title: Sky Source
 uri: /organizations/sky-source/
 challenge_url: >-
   https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
-extrapolated_project_ids:
-  - '6102229'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-    Water to the Community
-project_titles:
-  - >-
-    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-    Water to the Community
-project_titles_from_project_ids:
-  - >-
-    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-    Water to the Community
-original_project_titles:
-  - >-
-    Tap The Source: Using Art and Atmospheric Water Generation to Supply Free
-    Water to the Community 
-original_project_ids:
-  - '6102229'
 
 ---

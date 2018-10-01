@@ -36,19 +36,6 @@ title: 'The National Association of Latino Independent Producers, NALIP'
 uri: /organizations/the-national-association-of-latino-independent-producers-nalip/
 challenge_url: >-
   https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - Digitize LA
-  - Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
-project_titles_from_project_ids:
-  - Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
-  - Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
-original_project_titles:
-  - Digitize LA
-original_project_ids:
-  - '4102225'
-project_titles_flagged: 1
 category: create
 
 ---

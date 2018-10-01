@@ -30,17 +30,5 @@ project_ids: '6102156'
 title: Four Rings
 uri: /organizations/four-rings/
 challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
-extrapolated_project_ids:
-  - '6102156'
-project_titles_from_extrapolated_project_ids:
-  - 'Four Rings: Giving LA a Home to Recharge'
-project_titles:
-  - 'Four Rings: Giving LA a Home to Recharge'
-project_titles_from_project_ids:
-  - 'Four Rings: Giving LA a Home to Recharge'
-original_project_titles:
-  - 'Four Rings: Giving LA a Home to Recharge'
-original_project_ids:
-  - '6102156'
 
 ---

@@ -39,7 +39,6 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=6ZaOSqWls54'
 project_id_3: '8102128'
 year_submitted: 2018
-organization_name: Two Bit Circus Foundation
 project_proposal_description: >-
   Our STEAM Carnival invites children to look at the world of play from the
   perspective of their studies and future careers. We immerse the child in the

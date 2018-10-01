@@ -66,16 +66,6 @@ title: Environment California Research & Policy Center
 uri: /organizations/environment-california-research-policy-center/
 challenge_url: >-
   https://activation.la2050.org/live/environment-california-research-policy-center/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - '#NextStopCleanAir: Electric School Buses for LA''s Kids'
-project_titles_from_project_ids:
-  - '#NextStopCleanAir: Electric School Buses for LA''s Kids'
-original_project_titles:
-  - '#NextStopCleanAir: Electric School Buses for LA’s Kids'
-original_project_ids:
-  - '8102037'
 category: live
 
 ---

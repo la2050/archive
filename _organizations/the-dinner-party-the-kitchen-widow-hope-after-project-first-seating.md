@@ -34,16 +34,8 @@ title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 uri: >-
   /organizations/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - The Good Grief Garden
-project_titles_from_project_ids:
-  - The Good Grief Garden
-original_project_titles:
-  - The Good Grief Garden
-original_project_ids:
-  - '5102300'
 youtube_video_identifier: YijVi1ZG5EM
 
 ---

@@ -28,16 +28,8 @@ project_ids: '5102223'
 title: Operations-South Bureau Community Stakeholder Collaboration
 uri: /organizations/operations-south-bureau-community-stakeholder-collaboration/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - The Community Engagement Initiative
-project_titles_from_project_ids:
-  - The Community Engagement Initiative
-original_project_titles:
-  - 'The Community Engagement Initiative '
-original_project_ids:
-  - '5102223'
 youtube_video_identifier: aH5tvjvjOYE
 
 ---

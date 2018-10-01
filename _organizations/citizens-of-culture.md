@@ -31,33 +31,6 @@ project_ids: '8102022'
 title: Citizens Of Culture
 uri: /organizations/citizens-of-culture/
 challenge_url: 'https://activation.la2050.org/connect/citizens-of-culture/'
-extrapolated_project_ids:
-  - '6102097'
-  - '5102056'
-project_titles_from_extrapolated_project_ids:
-  - 'Nous Tous: A Gallery For All Of Us'
-  - Creating The Culture of Entrepreneurship
-project_titles:
-  - Creating The Culture of Entrepreneurship
-  - 'Nous Tous: A Gallery For All Of Us'
-  - >-
-    The View From Here: Conversations About The Most Important Issues Of Our
-    Time
-project_titles_from_project_ids:
-  - >-
-    The View From Here: Conversations About The Most Important Issues Of Our
-    Time
-original_project_titles:
-  - Creating The Culture of Entrepreneurship
-  - 'Nous Tous: A Gallery For All Of Us'
-  - >-
-    The View From Here: Conversations About The Most Important Issues Of Our
-    Time
-original_project_ids:
-  - '5102056'
-  - '6102097'
-  - '8102022'
-project_titles_flagged: 1
 category: connect
 
 ---

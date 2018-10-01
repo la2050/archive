@@ -26,21 +26,10 @@ project_ids: '4102010'
 title: 'Art In Motion, Inc.'
 uri: /organizations/art-in-motion-inc/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Educating traditionally underserved youth about working in the entertainment
     industry
-project_titles_from_project_ids:
-  - 'Becoming An Ally: Stopping Bias and Bullying in Los Angeles Schools'
-original_project_titles:
-  - >-
-    Educating  traditionally underserved youth about working in the
-    entertainment industry
-original_project_ids:
-  - '4102016'
-project_titles_flagged: 1
 maker_image_id: '21797'
 maker_image_file_name: SPIFF-Youth-Intensive.jpg
 

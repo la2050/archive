@@ -51,18 +51,8 @@ project_ids: '3102068'
 title: La Loma Development Company
 uri: /organizations/la-loma-development-company/
 challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'
-extrapolated_project_ids:
-  - '3102068'
-project_titles_from_extrapolated_project_ids:
-  - 'La Loma Center: Green Education Environmental Resources and Job Training '
 project_titles:
   - 'La Loma Center: Green Education Environmental Resources and Job Training '
-project_titles_from_project_ids:
-  - 'La Loma Center: Green Education Environmental Resources and Job Training '
-original_project_titles:
-  - 'La Loma Center: Green Education, Environmental Resources, and Job Training '
-original_project_ids:
-  - '3102068'
 maker_image_id: '16974'
 maker_image_file_name: La_Loma_Development_Single_Picture.jpg
 

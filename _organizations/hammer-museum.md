@@ -45,18 +45,8 @@ project_ids: '3102144'
 title: Hammer Museum
 uri: /organizations/hammer-museum/
 challenge_url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
-extrapolated_project_ids:
-  - '3102144'
-project_titles_from_extrapolated_project_ids:
-  - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
 project_titles:
   - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
-project_titles_from_project_ids:
-  - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
-original_project_titles:
-  - 'Arts ReSTORE LA: Westwood. An urban renewal project by the Hammer Museum'
-original_project_ids:
-  - '3102144'
 youtube_video_identifier: 30f36j_o_wU
 
 ---

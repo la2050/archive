@@ -34,24 +34,6 @@ project_ids: '8102116'
 title: Team Rubicon
 uri: /organizations/team-rubicon/
 challenge_url: 'https://activation.la2050.org/live/team-rubicon/'
-extrapolated_project_ids:
-  - '8102116'
-  - '6102232'
-project_titles_from_extrapolated_project_ids:
-  - Los Angelenos Resilient in the Face of Natural Disasters
-  - Localizing Disaster Response to Meet the Challenges of the 21st Century
-project_titles:
-  - Localizing Disaster Response to Meet the Challenges of the 21st Century
-  - Los Angelenos Resilient in the Face of Natural Disasters
-project_titles_from_project_ids:
-  - Los Angelenos Resilient in the Face of Natural Disasters
-original_project_titles:
-  - Localizing Disaster Response to Meet the Challenges of the 21st Century
-  - Los Angelenos Resilient in the Face of Natural Disasters
-original_project_ids:
-  - '6102232'
-  - '8102116'
-project_titles_flagged: 1
 category: live
 
 ---

@@ -29,19 +29,8 @@ project_ids: '4102090'
 title: The Human Element Project
 uri: /organizations/the-human-element-project/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
-extrapolated_project_ids:
-  - '4102214'
-project_titles_from_extrapolated_project_ids:
-  - 'The Human Element Project: Play in LA'
 project_titles:
   - 'The Human Element Project: Play in LA'
-project_titles_from_project_ids:
-  - LA has HEART
-original_project_titles:
-  - 'The Human Element Project: Play in LA'
-original_project_ids:
-  - '4102214'
-project_titles_flagged: 1
 youtube_video_identifier: dCvzeDvQtLY
 
 ---

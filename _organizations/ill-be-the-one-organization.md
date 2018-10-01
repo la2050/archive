@@ -25,19 +25,8 @@ project_ids: '4102137'
 title: I'll Be The One Organization
 uri: /organizations/ill-be-the-one-organization/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - I’LL BE THE 1 2 SEE THE LIGHT
-project_titles_from_project_ids:
-  - >-
-    Breaking the Poverty Cycle in Los Angeles & Creating Better Childhoods for
-    Kids in Need
-original_project_titles:
-  - 'I’LL BE THE 1 2 SEE THE LIGHT '
-original_project_ids:
-  - '4102097'
-project_titles_flagged: 1
 maker_image_id: '21338'
 maker_image_file_name: IBT1student.jpg
 

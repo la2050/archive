@@ -54,20 +54,8 @@ project_ids: '3102087'
 title: Community Coalition
 uri: /organizations/community-coalition/
 challenge_url: 'http://maker.good.is/myla2050/projects/SaferHoods.html'
-extrapolated_project_ids:
-  - '3102087'
-project_titles_from_extrapolated_project_ids:
-  - Safer Hoods Through Arts Action and Community
 project_titles:
   - Safer Hoods Through Arts Action and Community
-project_titles_from_project_ids:
-  - Safer Hoods Through Arts Action and Community
-original_project_titles:
-  - Community Coalition
-  - 'Safer ''Hoods Through Arts, Action, and Community'
-original_project_ids:
-  - '3102087'
-project_titles_flagged: 1
 youtube_video_identifier: 8O5p-fqguRo
 
 ---

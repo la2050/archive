@@ -30,25 +30,5 @@ title: 'HyphenUs, Inc.'
 uri: /organizations/hyphenus-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
-extrapolated_project_ids:
-  - '6102172'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    The coParenter Project: building a healthier Los Angeles two coParents at a
-    time
-project_titles:
-  - >-
-    The coParenter Project: building a healthier Los Angeles two coParents at a
-    time
-project_titles_from_project_ids:
-  - >-
-    The coParenter Project: building a healthier Los Angeles two coParents at a
-    time
-original_project_titles:
-  - >-
-    The coParenter Project: building a healthier Los Angeles two coParents at a
-    time
-original_project_ids:
-  - '6102172'
 
 ---

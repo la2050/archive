@@ -24,21 +24,10 @@ project_ids: '4102122'
 title: College Summit Southern California
 uri: /organizations/college-summit-southern-california/
 challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     College Summit: Equipping 4800 Low-Income Student For Success in College and
     Career
-project_titles_from_project_ids:
-  - Invisible to Invincible
-original_project_titles:
-  - >-
-    College Summit: Equipping 4,800 Low-Income Student For Success in College
-    and Career
-original_project_ids:
-  - '4102042'
-project_titles_flagged: 1
 youtube_video_identifier: XNxfMssLYzc
 
 ---

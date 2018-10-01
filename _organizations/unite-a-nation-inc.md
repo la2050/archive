@@ -33,25 +33,5 @@ title: 'Unite A Nation, Inc.'
 uri: /organizations/unite-a-nation-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
-extrapolated_project_ids:
-  - '6102269'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Ending generational cycles of poverty through urban youth and community
-    development programs
-project_titles:
-  - >-
-    Ending generational cycles of poverty through urban youth and community
-    development programs
-project_titles_from_project_ids:
-  - >-
-    Ending generational cycles of poverty through urban youth and community
-    development programs
-original_project_titles:
-  - >-
-    Ending generational cycles of poverty through urban youth and community
-    development programs 
-original_project_ids:
-  - '6102269'
 
 ---

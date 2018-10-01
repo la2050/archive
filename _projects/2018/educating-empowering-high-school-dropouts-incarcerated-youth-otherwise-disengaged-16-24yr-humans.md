@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   High School for Recording Arts (20 years) is teaming up with Mentoring
   Adolescents for Personal & Professional Success (MAPPS), a choice-based human
-  development program leading youth to productivity
+  development program leading youth to productivity  
 Please describe the activation your organization seeks to launch.: >-
   HSRA has selected the MAPPS leadership team as their replication partner in
   Los Angeles.  As part of that effort, we hope to launch our HSRA/MAPPS school
@@ -36,7 +36,6 @@ project_image: >-
 project_video: 'https://youtu.be/hVF2r_6Q-Vw'
 project_id_3: '8102082'
 year_submitted: 2018
-organization_name: Mentoring Adolescents for Personal & Professional Success
 project_proposal_description: >-
   HSRA has selected the MAPPS leadership team as their replication partner in
   Los Angeles. As part of that effort, we hope to launch our HSRA/MAPPS school

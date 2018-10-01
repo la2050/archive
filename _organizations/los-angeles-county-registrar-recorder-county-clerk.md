@@ -31,16 +31,6 @@ title: Los Angeles County Registrar-Recorder/County Clerk
 uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
 challenge_url: >-
   https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'Voting Solutions for All People: Engaging Voters Through a Mock Election '
-project_titles_from_project_ids:
-  - 'Voting Solutions for All People: Engaging Voters Through a Mock Election '
-original_project_titles:
-  - 'Voting Solutions for All People: Engaging Voters Through a Mock Election'
-original_project_ids:
-  - '8102073'
 category: connect
 
 ---

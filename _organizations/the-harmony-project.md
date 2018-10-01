@@ -31,25 +31,5 @@ title: The Harmony Project
 uri: /organizations/the-harmony-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
-extrapolated_project_ids:
-  - '6102243'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Give Music Change Lives: The expansion of Harmony Project’s transformative
-    program into South LA
-project_titles:
-  - >-
-    Give Music Change Lives: The expansion of Harmony Project’s transformative
-    program into South LA
-project_titles_from_project_ids:
-  - >-
-    Give Music Change Lives: The expansion of Harmony Project’s transformative
-    program into South LA
-original_project_titles:
-  - >-
-    Give Music Change Lives: The expansion of Harmony Project’s transformative
-    program into South LA
-original_project_ids:
-  - '6102243'
 
 ---

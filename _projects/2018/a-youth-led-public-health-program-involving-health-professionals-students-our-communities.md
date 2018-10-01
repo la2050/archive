@@ -47,7 +47,6 @@ project_image: >-
 project_video: 'https://vimeo.com/241727342'
 project_id_3: '8102004'
 year_submitted: 2018
-organization_name: A Healthier Community Starts with YOUth
 project_proposal_description: >-
   HCSY seeks to build sustainable programs that empower Health Systems to
   educate communities in understanding and improving their social determinates

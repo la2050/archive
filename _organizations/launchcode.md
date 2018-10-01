@@ -30,17 +30,5 @@ project_ids: '6102130'
 title: LaunchCode
 uri: /organizations/launchcode/
 challenge_url: 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'
-extrapolated_project_ids:
-  - '6102130'
-project_titles_from_extrapolated_project_ids:
-  - Get Los Angeles Back to Work!
-project_titles:
-  - Get Los Angeles Back to Work!
-project_titles_from_project_ids:
-  - Get Los Angeles Back to Work!
-original_project_titles:
-  - Get Los Angeles Back to Work!
-original_project_ids:
-  - '6102130'
 
 ---

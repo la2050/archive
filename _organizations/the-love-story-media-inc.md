@@ -33,17 +33,5 @@ title: 'The Love Story Media, Inc.'
 uri: /organizations/the-love-story-media-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
-extrapolated_project_ids:
-  - '6102249'
-project_titles_from_extrapolated_project_ids:
-  - The Love Story Interactive Art Journal + Live Open Mic Show
-project_titles:
-  - The Love Story Interactive Art Journal + Live Open Mic Show
-project_titles_from_project_ids:
-  - The Love Story Interactive Art Journal + Live Open Mic Show
-original_project_titles:
-  - The Love Story Interactive Art Journal + Live Open Mic Show
-original_project_ids:
-  - '6102249'
 
 ---

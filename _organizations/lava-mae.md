@@ -30,26 +30,6 @@ project_ids: '8102066'
 title: Lava Mae
 uri: /organizations/lava-mae/
 challenge_url: 'https://activation.la2050.org/connect/lava-mae/'
-extrapolated_project_ids:
-  - '8102066'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
-    Neighbors
-project_titles:
-  - >-
-    Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
-    Neighbors
-project_titles_from_project_ids:
-  - >-
-    Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
-    Neighbors
-original_project_titles:
-  - >-
-    Shower Power: Rekindling Dignity & Unlocking Opportunity for our Houseless
-    Neighbors
-original_project_ids:
-  - '8102066'
 category: connect
 
 ---

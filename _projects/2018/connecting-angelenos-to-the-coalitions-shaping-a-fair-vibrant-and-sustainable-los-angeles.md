@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   LA Forward connects Angelenos with the organizers, policy experts, and
   coalitions based in disadvantaged communities in order to build a movement for
-  a just, democratic, and sustainable Los Angeles.
+  a just, democratic, and sustainable Los Angeles. 
 Please describe the activation your organization seeks to launch.: >-
   LA Forward will expand its civic education programs—ballot guides, the LA
   Forwards & Backwards podcast, collateral like civic trading cards—to reach
@@ -40,7 +40,6 @@ project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/la
 project_video: 'https://youtu.be/iK1p6nJf5bg'
 project_id_3: '8102062'
 year_submitted: 2018
-organization_name: LA Forward
 project_proposal_description: >-
   LA Forward will expand its civic education programs—ballot guides, the LA
   Forwards & Backwards podcast, collateral like civic trading cards—to reach

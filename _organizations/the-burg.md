@@ -26,17 +26,5 @@ title: The Burg
 uri: /organizations/the-burg/
 challenge_url: >-
   https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
-extrapolated_project_ids:
-  - '6102247'
-project_titles_from_extrapolated_project_ids:
-  - Local civic engagement is hard. Let’s make it easier.
-project_titles:
-  - Local civic engagement is hard. Let’s make it easier.
-project_titles_from_project_ids:
-  - Local civic engagement is hard. Let’s make it easier.
-original_project_titles:
-  - 'Local civic engagement is hard. Let’s make it easier.  '
-original_project_ids:
-  - '6102247'
 
 ---

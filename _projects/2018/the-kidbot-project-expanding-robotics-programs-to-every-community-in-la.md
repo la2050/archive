@@ -44,7 +44,6 @@ project_image: 'https://activation.la2050.org/assets/images/learn/2048-wide/las-
 project_video: ''
 project_id_3: '8102065'
 year_submitted: 2018
-organization_name: LA's BEST
 project_proposal_description: >-
   LA’s BEST will expand our KidBot robotics program from the current 16 LAUSD
   elementary schools to reach the 25,000 children we serve in nearly 200 schools

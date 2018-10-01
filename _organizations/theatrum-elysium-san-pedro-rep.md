@@ -25,17 +25,8 @@ project_ids: '4102166'
 title: 'Theatrum Elysium, San Pedro Rep'
 uri: /organizations/theatrum-elysium-san-pedro-rep/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - A Paradise of Artistic Innovation and Theatrical Celebration
-project_titles_from_project_ids:
-  - Los Angeles Youth Poet Laureate Program
-original_project_titles:
-  - A Paradise of Artistic Innovation and Theatrical Celebration
-original_project_ids:
-  - '4102233'
-project_titles_flagged: 1
 youtube_video_identifier: nJPC81QoGyk
 
 ---

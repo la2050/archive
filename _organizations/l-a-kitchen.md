@@ -30,18 +30,6 @@ project_ids: '8102059'
 title: L.A. Kitchen
 uri: /organizations/l-a-kitchen/
 challenge_url: 'https://activation.la2050.org/live/l-a-kitchen/'
-extrapolated_project_ids:
-  - '8102059'
-project_titles_from_extrapolated_project_ids:
-  - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
-project_titles:
-  - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
-project_titles_from_project_ids:
-  - 'Seed to Sky:  building an economic bridge from LA''s community gardens to LAX'
-original_project_titles:
-  - 'Seed to Sky: building an economic bridge from LA’s community gardens to LAX'
-original_project_ids:
-  - '8102059'
 category: live
 
 ---

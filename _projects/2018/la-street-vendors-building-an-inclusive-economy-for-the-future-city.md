@@ -39,7 +39,6 @@ project_image: >-
 project_video: 'https://youtu.be/xpzFikU5XZ0'
 project_id_3: '8102035'
 year_submitted: 2018
-organization_name: East LA Community Corporation (ELACC)
 project_proposal_description: >-
   We will activate 100,000 Angelenos to participate in building an equitable
   economy that is inclusive of micro-entrepreneurs like street vendors, whose

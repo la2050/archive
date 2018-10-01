@@ -31,17 +31,5 @@ title: Girls in Tech
 uri: /organizations/girls-in-tech/
 challenge_url: >-
   https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
-extrapolated_project_ids:
-  - '6102081'
-project_titles_from_extrapolated_project_ids:
-  - Coding Bootcamps and Conferences for Women in Tech
-project_titles:
-  - Coding Bootcamps and Conferences for Women in Tech
-project_titles_from_project_ids:
-  - Coding Bootcamps and Conferences for Women in Tech
-original_project_titles:
-  - Coding Bootcamps and Conferences for Women in Tech
-original_project_ids:
-  - '6102081'
 
 ---

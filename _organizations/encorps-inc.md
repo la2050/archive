@@ -29,17 +29,5 @@ title: 'EnCorps, Inc.'
 uri: /organizations/encorps-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
-extrapolated_project_ids:
-  - '6102064'
-project_titles_from_extrapolated_project_ids:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
-project_titles:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
-project_titles_from_project_ids:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program'
-original_project_titles:
-  - 'STEMdustry In Motion: The EnCorps STEM Teachers Fellowship Program '
-original_project_ids:
-  - '6102064'
 
 ---

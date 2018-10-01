@@ -30,29 +30,5 @@ title: Impact Hub Los Angeles
 uri: /organizations/impact-hub-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
-extrapolated_project_ids:
-  - '6102179'
-project_titles_from_extrapolated_project_ids:
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-project_titles:
-  - 'The Digital District: A 21st Century Neighborhood of Los Angeles'
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-project_titles_from_project_ids:
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-original_project_titles:
-  - 'The Digital District: A 21st Century Neighborhood of Los Angeles '
-  - >-
-    Virtual Reality in Blue: Linking the Next Generation Police Officers to the
-    communities in LA.
-original_project_ids:
-  - '5102139'
-  - '6102179'
-project_titles_flagged: 1
 
 ---

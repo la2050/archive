@@ -21,24 +21,11 @@ project_ids: '4102186'
 title: Women Against Gun Violence
 uri: /organizations/women-against-gun-violence/
 challenge_url: ''
-extrapolated_project_ids:
-  - '3102274'
-project_titles_from_extrapolated_project_ids:
-  - SLAM GUN VIOLENCE
 project_titles:
   - >-
     Los Angeles Gets There: A Regional Storytelling project about mobility in
     Los Angeles County
   - SLAM GUN VIOLENCE
-project_titles_from_project_ids:
-  - Streetcraft LA
-original_project_titles:
-  - SLAM GUN VIOLENCE
-  - The TALK Project
-original_project_ids:
-  - '3102274'
-  - '4102104'
-project_titles_flagged: 1
 youtube_video_identifier: ez1sypeq2hI
 
 ---

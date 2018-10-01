@@ -31,17 +31,5 @@ title: CALO YouthBuild
 uri: /organizations/calo-youthbuild/
 challenge_url: >-
   https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
-extrapolated_project_ids:
-  - '6102029'
-project_titles_from_extrapolated_project_ids:
-  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
-project_titles:
-  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
-project_titles_from_project_ids:
-  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
-original_project_titles:
-  - CALÓ YouthBuild's Mobile Community Solar Arts and STEM Project
-original_project_ids:
-  - '6102029'
 
 ---

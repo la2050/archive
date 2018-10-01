@@ -26,16 +26,8 @@ project_ids: '5102250'
 title: Redeemer Baptist Elementary School
 uri: /organizations/redeemer-baptist-elementary-school/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Technology for the Classroom
-project_titles_from_project_ids:
-  - Technology for the Classroom
-original_project_titles:
-  - Technology for the Classroom
-original_project_ids:
-  - '5102250'
 maker_image_id: '23262'
 maker_image_file_name: dsc00212.jpg
 

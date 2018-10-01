@@ -15,7 +15,7 @@ tags_indicators:
   - Social connectedness
 twitter: '@weareenoughbiz'
 instagram: '@weareenoughbiz'
-facebook: ''
+facebook: 0
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/create/2048-wide/we-are-enough-c-o-social-environmental-entrepreneurs.jpg
@@ -32,16 +32,6 @@ title: We Are Enough c/o Social & Environmental Entrepreneurs
 uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
 challenge_url: >-
   https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
-project_titles:
-  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
-project_titles_from_project_ids:
-  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
-original_project_titles:
-  - 'We Are Enough: Women Investing $$$ in Women... the Way to Change the World!'
-original_project_ids:
-  - '8102136'
 category: create
 
 ---
