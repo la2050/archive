@@ -1,6 +1,6 @@
 ---
 layout: project-list
 body_class: strawberry
-title: Search entries for the 2018 My LA2050 Activation Challenge
+title: Search results for My LA2050 Impact Archive
 is_search_results: true
 ---
