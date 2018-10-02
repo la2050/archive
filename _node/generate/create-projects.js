@@ -760,6 +760,9 @@ function createMarkdownFile(data) {
     } else if (data.maker_answers["In one to three sentences, please describe your proposal."] &&
                data.maker_answers["In one to three sentences, please describe your proposal."] != "") {
       data.project_summary = data.maker_answers["In one to three sentences, please describe your proposal."]
+    } else if (data.maker_answers.description1 &&
+               data.maker_answers.description1 != "") {
+      data.project_summary = data.maker_answers.description1
     }
 
     if (data.maker_answers["Organization(s) name(s)"] && data.maker_answers["Organization(s) name(s)"] != "") {

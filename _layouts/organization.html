@@ -7,7 +7,6 @@ stylesheets:
 ---
 
 
-
 {% assign data_collection = site.collections | where: "label", "projects" | first %}
 {% assign project_list = "" | split: "," %}
 
@@ -614,7 +613,7 @@ line-height: 1.25;
 text-decoration: none;
 margin-top: 0.75em;
 margin-bottom: 0.375em; max-width: none;">{{ project.title }}</h3>
-      <p style="margin: 0; max-width: none; font-size: 0.875em;">{{ project.project_summary }} <em style="display: inline-block; text-decoration: underline; color: inherit; font-weight: inherit; font-style: inherit;">Learn more</em></p>
+      <p style="margin: 0; max-width: none; font-size: 0.875em;">{{ project.project_summary | truncate: 500 }} <em style="display: inline-block; text-decoration: underline; color: inherit; font-weight: inherit; font-style: inherit;">Learn more</em></p>
     </a>
   </li>
 </ul>

@@ -493,8 +493,13 @@ stylesheets:
 
 <div class="proposal-answers">
 
+{% comment %}
+<h3>In one sentence, please describe what your organization does</h3>
+{{ page.maker_answers["In one sentence, please describe what your organization does"] | markdownify }}
+
 <h3>In one sentence, please describe what your organization does.</h3>
 {{ page.maker_answers["In one sentence, please describe what your organization does."] | markdownify }}
+{% endcomment %}
 
 <h3>In one to three sentences, please describe your proposal.</h3>
 {{ page.maker_answers["In one to three sentences, please describe your proposal."] | markdownify }}
