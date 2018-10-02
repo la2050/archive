@@ -6,13 +6,13 @@ main_class: standard-layout
 
 <h1 style="position: absolute; left: -9999px;">About</h1>
 
-## About the archive
+## About this archive
 
 Over 1,000 organizations have submitted ideas to the [My LA2050 Challenge](#la2050). These organizations are non-profits, for-profits, individuals, and government agencies. They all are doing their part to ensure Los Angeles has a bright future. 
 
 This website is a collection of information about the organizations, about their projects, and in some cases videos that highlight their work.
 
-## How to use the archive
+## How to use this archive
 
 It is our hope that you’ll use the Impact Archive to discover local organizations doing great work in Los Angeles, be inspired by their ideas, and find ways to get involved. Here’s how to use the database: 
 
