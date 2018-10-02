@@ -1,5 +1,5 @@
 ---
-title: About My LA2050
+title: About the My LA2050 Impact Archive
 body_class: strawberry
 main_class: standard-layout
 ---
