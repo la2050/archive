@@ -9,11 +9,30 @@
 {% if site.phase >= 4 %}
 {% unless page.winners %}
 
+
+{% unless page.is_search_results %}
+<h2 style="
+font-style: normal;
+color: inherit !important;
+font-size: 1.25em;
+line-height: inherit;
+margin-top: 0;
+font-weight: inherit;
+padding-left: 1.5em;
+max-width: none;margin-bottom: 4.5rem;">
+  Find great organizations and bright ideas for <strong style="
+color: inherit;">Los Angeles</strong>
+</h2>
+{% endunless %}
+
+
 <details open>
 <summary>
+{% unless page.is_search_results %}
 <p>
-  Find organizations in <strong>Los Angeles</strong>
+  <strong>Search</strong> by keywords like <a style="color: inherit;" href="/search/?keywords=schools">schools</a>, <a style="color: inherit;" href="/search/?keywords=housing">housing</a> or <a style="color: inherit;" href="/search/?keywords=seniors">seniors</a>
 </p>
+{% endunless %}
 </summary>
 
 <form class="search" action="/search/{{ conditional_finalists_url }}/" method="get" id="search">
