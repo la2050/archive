@@ -28,3 +28,10 @@ It is our hope that you’ll use the Impact Archive to discover local organizati
 
 **Learn more by viewing organization project ideas.** At the bottom of each organization page, you’ll find projects and ideas submitted to past LA2050 Challenges. View these pages to get more information about the organization and how they think about creating impact in Los Angeles. 
 
+## Questions
+
+If you have any questions about the information on this page, please send us an email at [connect@la2050.org](mailto:connect@la2050.org).
+
+<div class="introduction">
+<p class="action"><a href="/">Get started</a></p>
+</div>
