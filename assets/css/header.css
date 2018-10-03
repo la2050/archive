@@ -588,3 +588,12 @@
     }
   }
 
+
+@media (min-width: 40em) {
+  main > h1:first-child {
+    margin-top: -3rem;
+    padding: 6rem 3rem 6rem;
+  }
+}
+
+

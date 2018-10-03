@@ -1207,7 +1207,7 @@ details summary:focus::-webkit-details-marker {
 /*.goals.without-category details p {
   display: none;
 }*/
-.goals.without-category ~ .tags h2 {
+/*.goals.without-category ~ .tags h2 {
   display: none;
-}
+}*/
 

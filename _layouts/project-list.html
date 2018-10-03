@@ -8,6 +8,8 @@ stylesheets:
 
 
 <style>
+
+
 @media (min-width: 40em) {
 
 .tags {
@@ -270,7 +272,6 @@ body:not(.header-not-visible) header a:focus {
 }
 main {
   min-height: 0;
-  margin-top: 3em;
 }
 footer {
   color: white;
@@ -493,9 +494,9 @@ footer {
 {% assign unique_tags = tags | uniq | sort %}
 
 {% if unique_tags.size > 0 %}
-<details class="tags" style="margin-top: 3em; margin-bottom: 3em; font-size: 1.25em;" open>
+<details class="tags" style="margin-top: 4.5em; margin-bottom: 3em; font-size: 1.25em;" open>
 <summary>
-<h2><strong>Browse</strong> by tag</h2>
+<h2 style="font-size: 1rem;"><strong>Browse</strong> by issue area</h2>
 </summary>
 <ul class="action">
 {% for tag in unique_tags %}
