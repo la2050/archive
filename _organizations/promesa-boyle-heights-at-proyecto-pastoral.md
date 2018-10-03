@@ -30,6 +30,33 @@ title: Promesa Boyle Heights at Proyecto Pastoral
 uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
 challenge_url: >-
   https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
+extrapolated_project_ids:
+  - '5102245'
+  - '4102173'
+project_titles_from_extrapolated_project_ids:
+  - Promesa Boyle Heights
+  - 'Promesa Boyle Heights: Transforming our Community Together.'
+project_titles:
+  - >-
+    Neighbor to neighbor: Empower Boyle Heights residents to help each other
+    access wellness resources.
+  - Promesa Boyle Heights
+  - 'Promesa Boyle Heights: Transforming our Community Together.'
+project_titles_from_project_ids:
+  - >-
+    Neighbor to neighbor: Empower Boyle Heights residents to help each other
+    access wellness resources.
+original_project_titles:
+  - >-
+    Neighbor to neighbor: Empower Boyle Heights residents to help each other
+    access wellness resources.
+  - Promesa Boyle Heights
+  - 'Promesa Boyle Heights: Transforming our Community, Together.'
+original_project_ids:
+  - '4102173'
+  - '5102245'
+  - '8102098'
+project_titles_flagged: 1
 category: connect
 
 ---

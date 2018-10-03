@@ -2,7 +2,7 @@
 project_id: '4102146'
 title: 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
 project_summary: >-
-  M+B will implement its service learning program in Los Angeles classrooms
+  M+B will implement its service learning  program in Los Angeles classrooms 
   while increasing access to books for underprivileged children.
 category: learn
 organization_id: '2016148'
@@ -69,6 +69,417 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  about_you: 'Los Angeles, CA'
+  org_name: Milk + Bookies
+  org_website: 'http://www.milkandbookies.org'
+  org_twitter: www.twitter.com/milkandbookies
+  org_facebook: www.facebook.com/milkandbookies
+  org_instagram: instagram.com/milkandbookies
+  org_mailingaddress: '3122 Santa Monica Blvd., #300, Santa Monica, CA 90404'
+  org_ein: '263245228'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '1'
+  describe_collaboration: '0'
+  describe_organization: >-
+    M+B inspires children to help others by placing books into the hands of
+    children who need them.
+  one_sentence_project: >-
+    M+B will implement its service learning  program in Los Angeles classrooms 
+    while increasing access to books for underprivileged children.
+  describe_idea: "@milkandbookies inspires LA children to become future philanthropists through giving books to local underprivileged children.\r\n"
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: >-
+    M+B will take our successful proven model of "book-raising" and implement it
+    into Los Angeles classrooms and partnering community-based children's
+    organizations. Third or fourth grade Los Angeles classrooms will
+    "book-raise" for their service learning project. M+B will research a
+    specific group of children in their area (homeless shelters, foster kid
+    programs, after school programs, battered women and children shelters) that
+    will receive the books. Students will inscribe their books, creating a
+    personal connection to this giving experience. We will then deliver the
+    books to their local peers. These books will become one of the very first
+    storybooks that the underprivileged children can call their own. 
+  implement: "In conjunction with the Mayor's office, we will select 1,000 Los Angeles classrooms to implement our pilot program for the 2014-2015 school year. M+B will provide these Los Angeles classrooms with a comprehensive instructional outline of our service learning project. Each aspect of our project is designed to make it easy for the teachers and fun for the students. Before the teachers present this service learning project to their classrooms, M+B will lead an assembly at the schools explaining the program in detail. We will supply each teacher with all of the products and tools needed to implement the project and help distribute the books collected from the students to local in-need recipients. M+B will provide a small reserve of books in each classroom for children who are unable to donate a book on their own. It is just as important to experience giving so we want to make sure that all children have this opportunity.\r\nAfter the program takes place, M+B will stay involved with organizing transport of the books from the schools to the local children in need.\r\n\r\n"
+  impact_learn: "The sustainability of a literate society largely depends on the accessibility of books (Education Insider).\"Getting books into the homes of children is what's important,\"(Celia Yusem, LAUSD teacher of 40 years). There are books in the school libraries but students who read at home are better, more efficient readers and have higher math scores according to the National Education Association. Having books in the home is important for children to master literacy skills. Additionally, according to the National Service Learning Clearinghouse, exposing children to service learning increases acceptance of diversity, development of ethics, development of caring, and other social emotional learning. Bringing the Milk+Bookies service learning project to Los Angeles schools will  give all students important skills in life that will foster Los Angeles children to feel empowered, equip them with the basic skills needed for academic challenges and encourage them to be socially-minded citizens.\r\n\r\n\r\n"
+  who_benefit: "Our project will benefit children, teachers, schools and ultimately Los Angeles.\r\n \r\nBy exposing children to how great giving feels, they will want to do it again and again. With a purposeful format to impact each child, we aim to make a real imprint on their lives and watch as they set out to recreate that “do good” feeling.\r\n\r\nWith this grant, 1,000 classrooms - approximately 30,000 children - will be impacted by our program. More than 30,000 books will be distributed to at-risk, in-need children. The byproduct of our organization's mission is getting underprivileged children age appropriate books to help them with literacy, help them dream bigger and help them feel inspired.\r\n\r\nLos Angeles teachers and schools will also benefit because we have the resources and materials ready for them. Their service learning project comes ready-made and will be distributed without any extra time and energy on their end. With all of the budget shortfalls, there is no extra time or money for classrooms to supply the children with all of these materials let alone carry out steps for finding recipients and helping organize distribution.\r\n\r\n\r\n\r\n "
+  collaboration: "It has  been M+B's dream to share our service learning project with LAUSD's third grade classrooms. We have had the OPPORTUNITY to work with many other classrooms both in LA and nationwide and see the successful outcomes. We will focus all of our efforts on Los Angeles and double the amount of children being able to give and get.\r\n\r\nWe have had the opportunity to explain our project to the Mayor's office and discuss our program. We have spoken with LAUSD teachers and know that there is a NEED FOR SERVICE LEARNING PROJECTS that are not time consuming for them. Everything will be in place for the classrooms including supplies, teacher outlines and lesson plans, and volunteers and recipients.\r\n\r\nHaving the opportunity for EVALUATION within the schools and classrooms is another key factor to determine the success of the collaboration. We will collect as many surveys and information as possible from the children and the teachers after their \"book raisers.\"\r\n\r\n\r\n\r\n"
+  metrics_learn_earlyeducation: '0'
+  metrics_learn_communitycollege: '1'
+  metrics_learn_unemployment: '1'
+  metrics_learn_graduationrates: '1'
+  metrics_learn_proficiency: '1'
+  metrics_learn_api: '1'
+  metrics_learn_college: '1'
+  metrics_learn_pipeline: '1'
+  metrics_learn_suspension: '1'
+  metrics_learn_truancy: '1'
+  metrics_learn_safety: '0'
+  metrics_learn_other: '0'
+  metrics_learn_blank: ''
+  impact_metrics: "The Early Childhood Longitudinal Study found that the children who were read to at least three times a week by a family member were almost twice as likely to score in the top 25%\L in reading compared to children who were read to less than 3 times a week. (U.S. Department of Education)\r\n\r\nFindings show higher-than-average scores among students who reported more types of reading material at home. (The Nation’s Report Card: Fourth-Grade Reading).\r\n\r\nOther research finds that low academic achievement and weak basic skills are other major reasons for truancy…warning signs are often evident in the elementary school years. As well as, Hispanic students in the United States are entering schools at a disadvantage because of a lack of exposure to literacy activities at home. The mathematics achievement gap is similar to that of reading scores. Low income fourth graders scored close to 30 points lower than their classmates in reading.\r\n\r\nStatistics show 8th and 12th graders in similar low income families without age appropriate reading materials in the home resemble the fourth graders achievement gap. Many studies show that there is a direct correlation between illiteracy and academic/school failure. Literacy, confidence and character development lead children on a path to success in any school subject and ultimately anything they set out to achieve academically. Milk + Bookies  empowers children by giving them books to read and give so that ultimately they will become Los Angeles's next generation of confident and compassionate leaders.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  best_place_to_connect: '0'
+  best_place_to_create: '1'
+  best_place_to_play: '0'
+  healthiest_place_to_live: '0'
+  evaluate: "Evaluation will be very important for us and equally includes each group below. \r\n1. We will include post \"book raiser\" forms for the teachers to hand out to the children who donated books. We will take photos at the events, hand out simple survey questionnaires and interview some of the children while they are filling out their bookplates (little inscriptions written by the giving child and placed in the front of the book). \r\n\r\n2. We will assess:  how the teachers and schools respond, which schools accept the program for their service learning project, what part of the school-year they decide to implement it, how easy or difficult it is  to get schools involved, and how many books are collected in each classroom and overall.\r\n\r\n3. We will distribute survey questionnaires to the organizations who received the books and there will be follow-up after they have distributed the books to the children they service. The organization will gather reactions from the children who receive the books and will use that information to encourage future schools and organizations who inquire about the children's responses. We will also reach out to the shelters, foster groups and after school programs in subsequent years to see how the children are performing in their schools and in their lives.\r\n"
+  two_lessons: "This project was born out of two very important lessons Milk+Bookies has learned over our 5 years of hosting our program locally and nationwide.\r\n\r\n1) Kids, no matter their age or socioeconomic status, are naturally drawn to giving back. We have witnessed first hand the power of introducing service learning to students from a young age - our past participants have gone on to give back to their community through volunteering at food pantries, animal shelters, and even becoming interns at Milk+Bookies headquarters. \r\n\r\n2) The most direct way to teach children about giving back is through the schools, but, unfortunately, teachers are often too overtasked to take on a service learning project. Because of this lesson, we have streamlined our project so that teachers have everything they need in one box. We take care of all the logistics and gather all of the materials to help bring service learning to students without overwhelming the teachers. \r\n\r\n\r\n"
+  achievable_goal: "M+B has five years of solid experience and we have seen success from our program peppered all over the country. We have hosted events in 269 cities and have been able to give books to 213 underprivileged children's groups nationwide. \r\nBeing a Los Angeles based organization, we can focus all of our efforts locally making it that much more manageable.\r\nOur proposal is an achievable goal because the program is already in place, we know all of the materials needed and we have the information and experience to implement this project. \r\nWith the grant money we will have the resources to purchase all of the supplies, hire an extra staff member and cover all of the costs for the travel and outreach.\r\nWe also have a dedicated group of interns and volunteers who are always excited to travel to the recipient group. It is the most rewarding part of our job as well as their internship so they jump at the chance to go."
+  major_challenges: "1) Finding LAUSD schools to cooperate and choose our program for their service learning project may be a challenge. We have met with the Mayor's office to go over our program in more detail and discuss needs in specific districts.  In addition to LAUSD, there are other USDs in Los Angeles, including Beverly Hills, Santa Monica/ Malibu, Compton and Las Virgines as well charter and private schools, with whom we have relationships. \r\n\r\n2) The most direct way to teach children about giving back is through the schools, but, unfortunately, teachers are often too overtasked to take on a service learning project. Because of this lesson, we have streamlined our project so that teachers have everything they need in one box. We take care of all the logistics and gather all of the materials to help bring service learning to students without overwhelming the teachers. \r\n"
+  competition: "Bookends is a similar organization but targets their distribution from one school to another. The books only stay on campus. Statistics show that literacy pinpoints the lack of appropriate reading material at home. Milk + Bookies makes sure the books are given to the children to keep at home. Bookends and other organizations like them are well respected and successful and will only complement our mission of inspiring a generation of philanthropists and increasing access to books for underprivileged children.\r\n"
+  cost: >-
+    We have planned it just right so that our budget stays at the $100,000. In
+    the case of unexpected costs, we will reach out to our loyal donors and
+    other institutions. 
+  budget: "Supplies (lesson box materials, printing-$40/classroom) $40,000\r\nStaff $30,000\r\nVolunteers (travel, parking, meals) $10,000\r\nDocumentation (database, photography, surveys) $2,500\r\nOverhead/indirect $15,000\r\nOutreach $2,500"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '0'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '1'
+  resources_communityoutreach: '0'
+  resources_network: '1'
+  resources_research: '1'
+maker_answers_list:
+  - name: about_you
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Milk + Bookies
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: 'http://www.milkandbookies.org'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/milkandbookies
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: www.facebook.com/milkandbookies
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: instagram.com/milkandbookies
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '3122 Santa Monica Blvd., #300, Santa Monica, CA 90404'
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '263245228'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '1'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '0'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      M+B inspires children to help others by placing books into the hands of
+      children who need them.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      M+B will implement its service learning  program in Los Angeles
+      classrooms  while increasing access to books for underprivileged children.
+  - name: describe_idea
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: "@milkandbookies inspires LA children to become future philanthropists through giving books to local underprivileged children.\r\n"
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      M+B will take our successful proven model of "book-raising" and implement
+      it into Los Angeles classrooms and partnering community-based children's
+      organizations. Third or fourth grade Los Angeles classrooms will
+      "book-raise" for their service learning project. M+B will research a
+      specific group of children in their area (homeless shelters, foster kid
+      programs, after school programs, battered women and children shelters)
+      that will receive the books. Students will inscribe their books, creating
+      a personal connection to this giving experience. We will then deliver the
+      books to their local peers. These books will become one of the very first
+      storybooks that the underprivileged children can call their own. 
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "In conjunction with the Mayor's office, we will select 1,000 Los Angeles classrooms to implement our pilot program for the 2014-2015 school year. M+B will provide these Los Angeles classrooms with a comprehensive instructional outline of our service learning project. Each aspect of our project is designed to make it easy for the teachers and fun for the students. Before the teachers present this service learning project to their classrooms, M+B will lead an assembly at the schools explaining the program in detail. We will supply each teacher with all of the products and tools needed to implement the project and help distribute the books collected from the students to local in-need recipients. M+B will provide a small reserve of books in each classroom for children who are unable to donate a book on their own. It is just as important to experience giving so we want to make sure that all children have this opportunity.\r\nAfter the program takes place, M+B will stay involved with organizing transport of the books from the schools to the local children in need.\r\n\r\n"
+  - name: impact_learn
+    label: ''
+    explanation: ''
+    answer: "The sustainability of a literate society largely depends on the accessibility of books (Education Insider).\"Getting books into the homes of children is what's important,\"(Celia Yusem, LAUSD teacher of 40 years). There are books in the school libraries but students who read at home are better, more efficient readers and have higher math scores according to the National Education Association. Having books in the home is important for children to master literacy skills. Additionally, according to the National Service Learning Clearinghouse, exposing children to service learning increases acceptance of diversity, development of ethics, development of caring, and other social emotional learning. Bringing the Milk+Bookies service learning project to Los Angeles schools will  give all students important skills in life that will foster Los Angeles children to feel empowered, equip them with the basic skills needed for academic challenges and encourage them to be socially-minded citizens.\r\n\r\n\r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "Our project will benefit children, teachers, schools and ultimately Los Angeles.\r\n \r\nBy exposing children to how great giving feels, they will want to do it again and again. With a purposeful format to impact each child, we aim to make a real imprint on their lives and watch as they set out to recreate that “do good” feeling.\r\n\r\nWith this grant, 1,000 classrooms - approximately 30,000 children - will be impacted by our program. More than 30,000 books will be distributed to at-risk, in-need children. The byproduct of our organization's mission is getting underprivileged children age appropriate books to help them with literacy, help them dream bigger and help them feel inspired.\r\n\r\nLos Angeles teachers and schools will also benefit because we have the resources and materials ready for them. Their service learning project comes ready-made and will be distributed without any extra time and energy on their end. With all of the budget shortfalls, there is no extra time or money for classrooms to supply the children with all of these materials let alone carry out steps for finding recipients and helping organize distribution.\r\n\r\n\r\n\r\n "
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "It has  been M+B's dream to share our service learning project with LAUSD's third grade classrooms. We have had the OPPORTUNITY to work with many other classrooms both in LA and nationwide and see the successful outcomes. We will focus all of our efforts on Los Angeles and double the amount of children being able to give and get.\r\n\r\nWe have had the opportunity to explain our project to the Mayor's office and discuss our program. We have spoken with LAUSD teachers and know that there is a NEED FOR SERVICE LEARNING PROJECTS that are not time consuming for them. Everything will be in place for the classrooms including supplies, teacher outlines and lesson plans, and volunteers and recipients.\r\n\r\nHaving the opportunity for EVALUATION within the schools and classrooms is another key factor to determine the success of the collaboration. We will collect as many surveys and information as possible from the children and the teachers after their \"book raisers.\"\r\n\r\n\r\n\r\n"
+  - name: metrics_learn_earlyeducation
+    label: Percentage of children enrolled in early education programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_communitycollege
+    label: >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_unemployment
+    label: Youth unemployment and underemployment
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_graduationrates
+    label: District-wide graduation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_proficiency
+    label: HS student proficiency in English & Language Arts and Math
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_api
+    label: Academic Performance Index scores
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_college
+    label: College matriculation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_pipeline
+    label: >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_suspension
+    label: Suspension and expulsion rates (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_truancy
+    label: Truancy rates in elementary and middle school (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_safety
+    label: >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "The Early Childhood Longitudinal Study found that the children who were read to at least three times a week by a family member were almost twice as likely to score in the top 25%\L in reading compared to children who were read to less than 3 times a week. (U.S. Department of Education)\r\n\r\nFindings show higher-than-average scores among students who reported more types of reading material at home. (The Nation’s Report Card: Fourth-Grade Reading).\r\n\r\nOther research finds that low academic achievement and weak basic skills are other major reasons for truancy…warning signs are often evident in the elementary school years. As well as, Hispanic students in the United States are entering schools at a disadvantage because of a lack of exposure to literacy activities at home. The mathematics achievement gap is similar to that of reading scores. Low income fourth graders scored close to 30 points lower than their classmates in reading.\r\n\r\nStatistics show 8th and 12th graders in similar low income families without age appropriate reading materials in the home resemble the fourth graders achievement gap. Many studies show that there is a direct correlation between illiteracy and academic/school failure. Literacy, confidence and character development lead children on a path to success in any school subject and ultimately anything they set out to achieve academically. Milk + Bookies  empowers children by giving them books to read and give so that ultimately they will become Los Angeles's next generation of confident and compassionate leaders.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "Evaluation will be very important for us and equally includes each group below. \r\n1. We will include post \"book raiser\" forms for the teachers to hand out to the children who donated books. We will take photos at the events, hand out simple survey questionnaires and interview some of the children while they are filling out their bookplates (little inscriptions written by the giving child and placed in the front of the book). \r\n\r\n2. We will assess:  how the teachers and schools respond, which schools accept the program for their service learning project, what part of the school-year they decide to implement it, how easy or difficult it is  to get schools involved, and how many books are collected in each classroom and overall.\r\n\r\n3. We will distribute survey questionnaires to the organizations who received the books and there will be follow-up after they have distributed the books to the children they service. The organization will gather reactions from the children who receive the books and will use that information to encourage future schools and organizations who inquire about the children's responses. We will also reach out to the shelters, foster groups and after school programs in subsequent years to see how the children are performing in their schools and in their lives.\r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "This project was born out of two very important lessons Milk+Bookies has learned over our 5 years of hosting our program locally and nationwide.\r\n\r\n1) Kids, no matter their age or socioeconomic status, are naturally drawn to giving back. We have witnessed first hand the power of introducing service learning to students from a young age - our past participants have gone on to give back to their community through volunteering at food pantries, animal shelters, and even becoming interns at Milk+Bookies headquarters. \r\n\r\n2) The most direct way to teach children about giving back is through the schools, but, unfortunately, teachers are often too overtasked to take on a service learning project. Because of this lesson, we have streamlined our project so that teachers have everything they need in one box. We take care of all the logistics and gather all of the materials to help bring service learning to students without overwhelming the teachers. \r\n\r\n\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "M+B has five years of solid experience and we have seen success from our program peppered all over the country. We have hosted events in 269 cities and have been able to give books to 213 underprivileged children's groups nationwide. \r\nBeing a Los Angeles based organization, we can focus all of our efforts locally making it that much more manageable.\r\nOur proposal is an achievable goal because the program is already in place, we know all of the materials needed and we have the information and experience to implement this project. \r\nWith the grant money we will have the resources to purchase all of the supplies, hire an extra staff member and cover all of the costs for the travel and outreach.\r\nWe also have a dedicated group of interns and volunteers who are always excited to travel to the recipient group. It is the most rewarding part of our job as well as their internship so they jump at the chance to go."
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "1) Finding LAUSD schools to cooperate and choose our program for their service learning project may be a challenge. We have met with the Mayor's office to go over our program in more detail and discuss needs in specific districts.  In addition to LAUSD, there are other USDs in Los Angeles, including Beverly Hills, Santa Monica/ Malibu, Compton and Las Virgines as well charter and private schools, with whom we have relationships. \r\n\r\n2) The most direct way to teach children about giving back is through the schools, but, unfortunately, teachers are often too overtasked to take on a service learning project. Because of this lesson, we have streamlined our project so that teachers have everything they need in one box. We take care of all the logistics and gather all of the materials to help bring service learning to students without overwhelming the teachers. \r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "Bookends is a similar organization but targets their distribution from one school to another. The books only stay on campus. Statistics show that literacy pinpoints the lack of appropriate reading material at home. Milk + Bookies makes sure the books are given to the children to keep at home. Bookends and other organizations like them are well respected and successful and will only complement our mission of inspiring a generation of philanthropists and increasing access to books for underprivileged children.\r\n"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      We have planned it just right so that our budget stays at the $100,000. In
+      the case of unexpected costs, we will reach out to our loyal donors and
+      other institutions. 
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Supplies (lesson box materials, printing-$40/classroom) $40,000\r\nStaff $30,000\r\nVolunteers (travel, parking, meals) $10,000\r\nDocumentation (database, photography, surveys) $2,500\r\nOverhead/indirect $15,000\r\nOutreach $2,500"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '0'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '0'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '1'
 body_class: blueberry
 
 ---

@@ -41,8 +41,18 @@ project_ids: '3102228'
 title: reDiscover Center
 uri: /organizations/rediscover-center/
 challenge_url: 'http://maker.good.is/myla2050/projects/Innovate.html'
+extrapolated_project_ids:
+  - '3102228'
+project_titles_from_extrapolated_project_ids:
+  - Upcycle Innovation
 project_titles:
   - Upcycle Innovation
+project_titles_from_project_ids:
+  - Upcycle Innovation
+original_project_titles:
+  - Upcycle Innovation
+original_project_ids:
+  - '3102228'
 maker_image_id: '16706'
 maker_image_file_name: reDiscover_Upcyle_Innovate.jpg
 

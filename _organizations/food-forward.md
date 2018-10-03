@@ -38,8 +38,22 @@ project_ids: '3102129'
 title: Food Forward
 uri: /organizations/food-forward/
 challenge_url: 'http://maker.good.is/myla2050/projects/FoodForwardLA.html'
+extrapolated_project_ids:
+  - '3102129'
+project_titles_from_extrapolated_project_ids:
+  - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
 project_titles:
   - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
+project_titles_from_project_ids:
+  - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
+original_project_titles:
+  - >-
+    Bringing Together Angelenos to Glean Local Food and Provide Fresh Produce to
+    Those in Need
+  - 'Food Forward: Connecting Angelenos Through Local Food Abundance'
+original_project_ids:
+  - '3102129'
+project_titles_flagged: 1
 youtube_video_identifier: EpR6dHeaGIQ
 
 ---

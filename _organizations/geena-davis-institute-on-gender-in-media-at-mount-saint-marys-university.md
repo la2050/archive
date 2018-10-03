@@ -27,5 +27,37 @@ uri: >-
   /organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/
 challenge_url: >-
   https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
+extrapolated_project_ids:
+  - '6102078'
+  - '6102079'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+project_titles:
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+project_titles_from_project_ids:
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+original_project_titles:
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+  - >-
+    If She Can See It, She Can Be It: Empowering Girls & Creating a
+    Gender-Balanced Media Landscape 
+original_project_ids:
+  - '6102078'
+  - '6102078'
+project_titles_flagged: 1
 
 ---

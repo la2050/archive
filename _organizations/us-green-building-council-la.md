@@ -32,5 +32,25 @@ title: US Green Building Council-LA
 uri: /organizations/us-green-building-council-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
+extrapolated_project_ids:
+  - '6102276'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
+    environmental sustainable
+project_titles:
+  - >-
+    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
+    environmental sustainable
+project_titles_from_project_ids:
+  - >-
+    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
+    environmental sustainable
+original_project_titles:
+  - >-
+    EcoMapLA is todays roadmap for a tomorrow that is social, economic and
+    environmental sustainable
+original_project_ids:
+  - '6102276'
 
 ---

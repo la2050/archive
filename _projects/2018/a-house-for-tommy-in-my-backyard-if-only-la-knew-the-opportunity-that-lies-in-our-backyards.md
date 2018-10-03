@@ -26,6 +26,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/mutuo
 project_video: 'https://www.youtube.com/watch?v=Xr8XGS427jo'
 project_id_3: '8102086'
 year_submitted: 2018
+organization_name: Mutuo
 project_proposal_description: |-
   There is lack of affordable housing in LA. 
    

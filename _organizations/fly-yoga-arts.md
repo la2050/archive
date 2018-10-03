@@ -26,6 +26,16 @@ project_ids: '5102206'
 title: FLY Yoga Arts
 uri: /organizations/fly-yoga-arts/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
+extrapolated_project_ids:
+  - '5102102'
+  - '4102071'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    FLY Yoga Arts: Enhancing Academic Education Through Integrated Movement and
+    Creative Arts Play!
+  - >-
+    FLY Yoga Arts: Enhancing LAUSD Arts Education with Integrated Mindfulness
+    Movement & Creative Play
 project_titles:
   - >-
     FLY Yoga Arts: Enhancing Academic Education Through Integrated Movement and
@@ -33,6 +43,18 @@ project_titles:
   - >-
     FLY Yoga Arts: Enhancing LAUSD Arts Education with Integrated Mindfulness
     Movement & Creative Play
+project_titles_from_project_ids:
+  - Lifelong Mentoring for All
+original_project_titles:
+  - >-
+    FLY Yoga Arts: Enhancing & Growing LAUSD Arts Education with Movement,
+    Mindfulness & Creative Play!
+  - >-
+    FLY Yoga Arts: Enhancing Academic Education Through Integrated Movement and
+    Creative Arts Play!
+original_project_ids:
+  - '5102102'
+project_titles_flagged: 1
 maker_image_id: '23727'
 maker_image_file_name: StillVideoImage_(2).jpg
 

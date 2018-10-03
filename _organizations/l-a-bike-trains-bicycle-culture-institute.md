@@ -25,8 +25,19 @@ project_ids: '4102047'
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 uri: /organizations/l-a-bike-trains-bicycle-culture-institute/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
+extrapolated_project_ids:
+  - '4102107'
+project_titles_from_extrapolated_project_ids:
+  - L.A. Bike Trains
 project_titles:
   - L.A. Bike Trains
+project_titles_from_project_ids:
+  - Neighborhood Art Provides Positive Local Focus
+original_project_titles:
+  - L.A. Bike Trains
+original_project_ids:
+  - '4102107'
+project_titles_flagged: 1
 youtube_video_identifier: l2oE7AX8gtw
 
 ---

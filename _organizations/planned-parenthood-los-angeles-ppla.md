@@ -39,5 +39,23 @@ project_ids: '6102184'
 title: Planned Parenthood Los Angeles (PPLA)
 uri: /organizations/planned-parenthood-los-angeles-ppla/
 challenge_url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'
+extrapolated_project_ids:
+  - '6102184'
+  - '5102237'
+project_titles_from_extrapolated_project_ids:
+  - Community-Based Comprehensive Sex Education
+  - Helping Los Angeles Youth Make Healthy Decisions And Access Care
+project_titles:
+  - Community-Based Comprehensive Sex Education
+  - Helping Los Angeles Youth Make Healthy Decisions And Access Care
+project_titles_from_project_ids:
+  - Community-Based Comprehensive Sex Education
+original_project_titles:
+  - Community-Based Comprehensive Sex Education
+  - Helping Los Angeles Youth Make Healthy Decisions And Access Care
+original_project_ids:
+  - '5102237'
+  - '6102184'
+project_titles_flagged: 1
 
 ---

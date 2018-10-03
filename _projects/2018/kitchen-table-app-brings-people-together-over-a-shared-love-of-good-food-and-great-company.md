@@ -32,6 +32,7 @@ project_image: >-
 project_video: 'https://youtu.be/Rmqp7T8vQ0A'
 project_id_3: '8102057'
 year_submitted: 2018
+organization_name: Kitchen Table App
 project_proposal_description: >-
   Kitchen Table App will activate 100,000 Angelenos to meet the neighbors
   they’ve lived next door to but never knew, make new friends in the city they

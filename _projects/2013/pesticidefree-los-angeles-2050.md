@@ -184,6 +184,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   And rather than being cast as killers and pests, honey bees will be returned
   to their rightful role at the very center of our existence.
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

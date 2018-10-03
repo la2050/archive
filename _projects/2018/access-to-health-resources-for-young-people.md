@@ -1,8 +1,11 @@
 ---
-project_id: ''
+project_id: '8102094'
 project_id_2: '8102094'
 title: Access to Health Resources for Young People
-project_summary: ''
+project_summary: >-
+  We seek to empower young people with the knowledge, skills, and resources to
+  make healthy decisions through providing in-person clinic tours of a local
+  community health center for 9th-grade students.
 Please describe the activation your organization seeks to launch.: >-
   In collaboration with our partner high schools and local community clinics, we
   aim to promote health equity through providing resources and access to health
@@ -31,10 +34,12 @@ impact_metrics: ''
 make_la_great: ''
 category: live
 organization_id: ''
-project_image: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/live/2048-wide/peer-health-exchange.jpg
 project_video: ''
 project_id_3: ''
 year_submitted: 2018
+organization_name: Peer Health Exchange
 project_proposal_description: >-
   In collaboration with our partner high schools and local community clinics, we
   aim to promote health equity through providing resources and access to health

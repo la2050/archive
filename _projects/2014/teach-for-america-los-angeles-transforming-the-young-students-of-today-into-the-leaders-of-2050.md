@@ -78,6 +78,486 @@ project_areas:
   - SOUTH LA
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  about_you: 'Los Angeles, CA'
+  org_name: Teach For America - Los Angeles
+  org_website: 'http://www.teachforamerica.org/where-we-work/los-angeles'
+  org_twitter: 'https://twitter.com/TFA_LA'
+  org_facebook: 'https://www.facebook.com/teachforamerica'
+  org_instagram: 'http://instagram.com/teachforamerica'
+  org_mailingaddress: "606 S. Olive St., Suite 300\r\nLos Angeles, CA 90014"
+  org_ein: '133541913'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    Teach For America enlists our nation’s most promising leaders in the effort
+    to expand educational opportunity in Los Angeles schools.
+  one_sentence_project: >-
+    We will recruit, train, and develop an expanding cohort of exceptional
+    preschool teachers for under-served communities in Los Angeles.
+  describe_idea: >-
+    @TFA_LA is leading our youngest students on the path to a brighter future.
+    Our children today, our nation’s leaders tomorrow!
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: >-
+    Without high-quality preschool teachers, children from low-income
+    communities enter kindergarten already behind their peers in more affluent
+    communities, and this gap only widens with time. Teach For America is
+    committed to providing the youngest students living in low-income
+    communities in Los Angeles with an excellent education, setting them up for
+    success in the classroom, and leading them to a better future. While we have
+    been supporting Early Childhood Education (ECE) at a smaller scale since
+    2006, we are looking to expand our efforts dramatically to meet the high
+    demand for qualified, passionate pre-K teachers in Los Angeles, and we want
+    to bring our ECE teachers, whom we refer to as corps members, to the
+    students who need them most.
+  implement: "We are working to cultivate leaders at all levels of the education system by recruiting more teachers with demonstrated leadership abilities, maximizing their impact through better training and development, and extending their impact by supporting them as alumni. In order to achieve our mission, Teach For America – Los Angeles will:\r\n\r\n1. Recruit Outstanding and Diverse Leaders: Our nationwide recruitment model dramatically expands the talent pool of future teachers and leaders that local schools can access. We are committed to diversifying Los Angeles’ teaching force, and have dedicated efforts to increase the representation of corps members who share the racial and socioeconomic background of our students, and who come from a variety of professional backgrounds. We are diversifying the ECE landscape, with over 75% of our incoming corps members identifying as people of color. Students from low-income communities will benefit from this broadened base of exceptional talent for potential ECE corps members.\r\n\r\n2. Maximize Our Impact on Student Achievement: Our success is ultimately predicated upon our corps members’ ability to provide a solid, life-changing education to their students. We ensure success in the classroom through extensive training, ongoing support, and consistent progress measurement. Our corps members receive individualized feedback from teacher coaches, who provide one-on-one support throughout their two-year commitment. Teacher coaches use data collected during classroom observations and real-time student achievement tracking to identify areas for improvement and ensure adequate progress toward individualized goals. With Teach For America’s support, our ECE corps members are expanding opportunities for their students in the classroom and beyond. \r\n\r\n3. Foster and Accelerate the Leadership of our Alumni: We continue to expand our alumni base in Los Angeles, and foster their ongoing leadership as a force for long-term change. After gaining firsthand knowledge and insight into the educational opportunity gap – and its solvability – our corps members become lifelong leaders in the fight for educational equity from a variety of sectors. If we are serious about building quality in ECE, then we need to have a growing pipeline of young leaders who are willing to commit to the work. "
+  impact_learn: "Today, our corps members pursue ambitious growth goals, aiming for their students to achieve at least 1.5 levels of growth on the Desired Results Development Profile, far above the state-recommended growth target of 1 level. In many classrooms, like May Webster’s, we see even more dramatic growth. May, a 2010 Los Angeles corps member, taught preschool in Lennox, and was selected as Preschool Teacher of the Year by Los Angeles Universal Preschool. May was able to achieve 1.66 levels of growth in her classroom and overcome the statistics predicting that students from low-income backgrounds will enter kindergarten already 12 – 14 months behind their wealthier peers. With May’s leadership and passion, her students started kindergarten already reading at a first-grade level. \r\n\r\nOur corps members not only focus on student growth, but also invest families in their efforts. Victoria Hong, a 2011 Los Angeles corps member, instructed two classrooms of 17 dual language learners aged 3-5 as a Head Start Teacher at Pacific Asian Consortium in Employment. Victoria’s vision was to inspire in her students a love for learning, and to encourage their parents to become lifelong advocates for their child’s education. In addition to teaching her students a rigorous curriculum, Victoria also facilitated parent sessions to increase their awareness of the educational opportunity gap and provided resources to help them support their child’s learning. Her students achieved more than 1.5 years of growth, and their parents felt empowered to fight for high-quality educational opportunities.\r\n\r\nImagine a world in which all children across Los Angeles have access to such caring, qualified teachers who can help level the playing field by actively pursuing ambitious growth goals, and engaging with and educating their students’ families. If all of our students entered kindergarten on similar academic levels and had families who felt empowered to advocate for their education, our entire country would benefit! We would see the long-term benefits with more students graduating high school and attending college, and more adults holding stable jobs with higher earnings (Source: HighScope Perry Preschool Project). High-quality early education is the best investment we can make and Teach For America is prepared to expand our ECE efforts to ensure that all students in Los Angeles are on the path to a brighter future!"
+  who_benefit: "By bringing in and supporting highly committed and effective ECE teachers, Teach For America – Los Angeles is playing a pivotal role in the trajectory of Los Angeles’ young students’ education, shaping their initial understanding of what it means to be a successful student and an active member of a learning community. Teaching in some of the highest-need communities in Los Angeles, our ECE corps members will serve over 300 students and their families each day in the 2014-15 school year. The beneficiaries of our work are verified through their qualification for the federal free- and reduced-price lunch program. Children from families with incomes at or below 185% of the poverty level (which equates to $43,568 for a family of four in 2014) are eligible for reduced-price or free meals. Over 95% of the students we serve on a daily basis are eligible for this program. We currently estimate that 60 to 80% of the students we serve are Latino, and 20 to 40% are African American. \r\n\r\nThe work we do is about people. It is about our students, who have the potential to achieve at the highest levels. It is about their parents, who want the best for their children and their community. It is about our corps members, who work relentlessly to lead their students on more promising academic trajectories. It is about our alumni, who work in education and across a variety of fields to accelerate the pace of change. It is about our staff members, supporters, and partners, who make all of these efforts possible. Together, this movement of individuals reflects a rich diversity of experiences and is united by a shared vision that one day, all children in this nation will have the opportunity to attain an excellent education."
+  collaboration: "At Teach For America, we believe that transformation happens through partnership. We consistently engage with other partners in this work, such as First 5 LA, as collaboration is essential to our efforts to further our ECE initiative. Our confirmed partnerships with the following organizations are vital to the success of our program:\r\n\r\n1. Loyola Marymount University (LMU), our university partner for over a decade, where our corps members enroll in credentialing courses during the school year and pursue their Master’s degrees during their second year. In the 2013-14 school year, all of our ECE corps members completed their Master’s degrees at LMU. \r\n\r\n2. Westside Children’s Center, one of our ECE partner schools, provides high-quality early education programs to serve 400 at-risk children (ages 0 – 5) from very low-income families in southwest Los Angeles County. Since 2012, our ECE corps members have attended summer institute training at Westside Children’s Center, during which they receive training in pedagogy and teaching strategies in model classrooms. The teachers at Westside Children’s Center mentor our corps members and gain exposure to the Teach For America instructional program. The current CEO of Westside Children’s Center, Heather Carrigan, joined Teach For America – Los Angeles’ inaugural class after graduating from Princeton University in 1990. While teaching at Warren Lane Elementary School in Inglewood, Heather learned first-hand about teachers’ daily struggles combating educational disparities and has since committed her career to fighting poverty through education reform.\r\n\r\n3. St. Anne’s, one of our ECE partner schools, serves some of the most abused, abandoned, neglected, and otherwise challenged young women and children in Los Angeles County. St. Anne’s offers an array of comprehensive programs including but not limited to, transitional housing, child care, family literacy, and educational and vocational preparation. All of their programs strive to empower and educate by providing the highest level of care and resources so as to help young women and children recognize their own value and potential, giving them the hope and the tools needed for a better future."
+  metrics_learn_earlyeducation: '0'
+  metrics_learn_communitycollege: '0'
+  metrics_learn_unemployment: '1'
+  metrics_learn_graduationrates: '1'
+  metrics_learn_proficiency: '1'
+  metrics_learn_api: '1'
+  metrics_learn_college: '1'
+  metrics_learn_pipeline: '1'
+  metrics_learn_suspension: '1'
+  metrics_learn_truancy: '1'
+  metrics_learn_safety: '0'
+  metrics_learn_other: '0'
+  metrics_learn_blank: ''
+  impact_metrics: "We are directly impacting students by recruiting and supporting high-quality preschool teachers and thus far, our program has demonstrated significant improvements in early vocabulary and math skills for our youngest students. Ample research has shown that access to high-quality preschool teachers has many longer-term benefits. Students who attended preschool are significantly more likely to score proficient or advanced in English and mathematics; less likely to be suspended or expelled from primary and secondary school; more than 20% more likely to graduate high school; and more likely to attend and graduate from college. Adults who attended preschool are also much more likely to maintain full-time employment and earn higher salaries; more likely to live healthier lives; and less likely to receive welfare assistance or commit any crimes. \r\n\r\nResearch consistently shows that providing high-quality and caring teachers to the students and communities that need them most can fundamentally address the educational opportunity gap. In order to achieve the long-term benefits discussed above, we need exceptional teachers at every level. We support corps members, alumni teachers, and school and district leaders, and thus their students, at every level of our education system, from preschool through high school. As such, we are uniquely positioned to provide a solid, life-changing education to our students. Our corps members go above and beyond to make up for the challenges that their students face, and prove what is possible when excellent teachers set high expectations for their students. Our corps members are charged with the difficult task of bringing to life the idea that an excellent education is achievable every day in their classrooms, and we provide them the support they need to maximize their impact."
+  best_place_to_connect: '0'
+  best_place_to_create: '1'
+  best_place_to_play: '0'
+  healthiest_place_to_live: '1'
+  evaluate: "1. In order to further fuel the ECE talent pipeline in Los Angeles, we seek to bring even more ECE educators to our community. We measure our impact by the number of teaching placements that we are able to secure for our corps members by the first day of the school year. We seek to bring 8 new ECE corps members to Los Angeles to begin teaching in the 2015-16 school year.\r\n\r\n2. Our success is ultimately predicated upon our corps members’ ability to successfully educate their students. Our ECE corps members pursue ambitious growth goals, aiming for their students to achieve, on average, at least 1.5 levels of growth on the Desired Results Development Profile, beyond the state-recommended growth target of 1 level. Progress is tracked throughout the year and is determined through a combination of standardized test grades, end-of-year reports from school districts, and in-class evaluations. \r\n\r\n3. We also seek to foster and accelerate the leadership of our alumni, the effectiveness of which we will measure by the number of ECE corps members who continue working, beyond their two-year teaching commitment, directly in education and/or with low-income communities. We aim for 80% of our ECE corps members to continue working in education and/or with low-income communities. Our Alumni Leadership and Engagement team works to support alumni who continue teaching and coach alumni who are ready to move up the leadership pipeline and tracks their progress. "
+  two_lessons: "We believe in the potential of each and every one of our corps members to have a profound impact on their students’ lives, and we have learned from the growing body of external research that affirms this belief. External studies have shown that students in Teach For America corps members’ classrooms are making stronger gains in vocabulary and early math skills than students in non-Teach For America classrooms. A study conducted by Westat, Inc. found that pre-K students taught by Teach For America teachers learned to recognize all or most of the 26 letters of the alphabet, compared with students who were taught by non-Teach For America teachers and learned an average of 10 letters. This is such an important achievement since recognizing letters is a vital steppingstone on the path to reading. The young students that we serve can benefit the most from excellent teachers, and we are proud that a growing body of independent evidence affirms the significant impact of our teachers. \r\n\r\nAdditionally, the education levels that our corps members possess far surpass the state minimum education requirements for early childhood educators – a fact that has us even more committed to bringing more talented, passionate, and highly-educated teachers to our community. While primary and secondary school teachers in California are required to hold a bachelor’s degree, preschool teachers are not. In fact, only half of Head Start teachers in our state possess a bachelor’s degree. Preschool teachers can completely change the academic and life trajectories of their students – so why do we not require them to possess a bachelor’s degree like their peers in elementary and secondary schools? At Teach For America, we strongly believe in the power of education and this belief extends to our teachers as well. Our ECE corps members have all completed their bachelor’s degrees and are encouraged to obtain their master’s degree through our partnership with Loyola Marymount University. In the 2013-14 school year, every single one of our second-year ECE corps members completed their master’s degree. "
+  achievable_goal: "Teach For America has been working in ECE since 2006, and is fully equipped to expand our impact even further by increasing the number of ECE corps members in Los Angeles. We will continue our efforts to:\r\n\r\n1. Recruit at the nation’s top colleges to attract leaders who demonstrate the potential to become excellent ECE teachers. \r\n\r\n2. Select the top ECE candidates through an intensive admissions process. For more than 20 years, Teach For America has refined its selection model based on data about which applicant traits are most predictive of effective teaching and leadership.\r\n\r\n3. Prepare and train our ECE corps members through a rigorous pre-service training, including an intensive five-week summer training institute at Westside Children’s Center. Over twenty years of experience and continuous improvement through reflection has equipped Teach For America with the ability to develop highly effective teachers.\r\n\r\n4. Place our ECE corps members in classrooms where they can attain maximum success with the highest-need students. \r\n\r\n5. Provide ongoing professional development and support to our ECE corps members. We invest significant time and resources in providing support for our corps members throughout their two-year commitment. Corps members continue the teacher certification process through our partnership with Loyola Marymount University, and earn Master’s degrees in education. They also receive individualized feedback from teacher coaches, who provide one-on-one support to corps members throughout their two-year commitment to identify areas for improvement and ensure adequate progress toward individualized goals.\r\n\r\n6. Foster and accelerate the leadership of our ECE alumni. The corps experience is transformative, deeply influencing the lives of corps members during and after their commitment. Although only 15% of incoming corps members report that teaching is one of their top career choices, 86% of our alumni work in education and/or with low-income communities. To foster the leadership of our alumni, we employ a two-part strategy. First, we work to build community among our alumni and keep them connected to Teach For America by facilitating alumni interaction and hosting alumni events. Second, we support the career development of our alumni through a series of career development and training initiatives, including school leadership and policy and advocacy leadership initiatives."
+  major_challenges: "As we work to grow our cohort, we are very sensitive to the additional challenges faced by our corps members in preschool classrooms. When our corps members are admitted into our program, we commit to identifying a placement for them that pays a minimum salary of $34,000. However, our pre-K teachers often do not have salaries that align with our promised baseline salary because ECE teachers on the whole are typically paid $5,000 to $10,000 less each year than their peers in elementary and secondary schools. We work hard to fundraise to cover this salary differential in order to ensure that our pre-K corps members can focus on the hard work required to lead their young students on a path toward success. In the 2014-15 school year, we need to raise nearly $20,000 to cover this salary differential, every dollar of which will be disbursed to our ECE corps members. A portion of the LA2050 funds will go towards supplementing our ECE corps members’ salaries.\r\n\r\nPre-K teachers also work a different schedule than their peers in elementary and secondary schools, working a year-round schedule and only receiving a few weeks off in the summer. Combined with the lower salaries, this reality makes the challenge of bringing outstanding teachers to low-income communities even more difficult, and as such the ECE community at-large is facing a deficit of high-quality human capital. We are proud of the dedication to closing the opportunity gap already demonstrated by our ECE corps members, who have risen to this challenge of teaching where they are most needed, despite the challenges they may face. We anticipate a continued desire from within our corps to teach in ECE settings, and look forward to expanding our impact across Los Angeles.\r\n\r\nAnother major challenge that we anticipate is a lack of state and district funding for preschool programs. More than $1 billion has been cut from preschool and child care funding in California in the last five years, and there are approximately 110,000 fewer seats for students in state preschool now. Thus, although we are bringing highly-qualified and passionate ECE teachers to Los Angeles, our impact is limited by the placement landscape. While we are currently partnered with Westside Children’s Center and St. Anne’s to place all of our ECE corps members, we are also continuing to connect with other community members and stakeholders to identify addition partners to ensure that we are able to serve the students who most need us. "
+  competition: >-
+    There are many important organizations working to address the injustices
+    facing Los Angeles’ students growing up in poverty, and we strive to be a
+    key partner among them. That being said, Teach For America serves as one of
+    the only leadership and talent pipelines for pre-K programs and schools that
+    serve low-income communities. Our nationwide recruitment and selection
+    models dramatically expand the talent pool of future teachers and leaders
+    that local schools and school districts can access. We also train more
+    teachers for low-income communities than any other institution in the
+    country, and measure the academic growth of each of our corps members’
+    students, holding our teachers directly accountable for their students’
+    progress. Lastly, through our alumni program, we continue to motivate and
+    connect corps members, creating an unparalleled pipeline of outstanding
+    leaders with the insight, experiences, and commitment to effect the systemic
+    changes necessary to ensure educational opportunity for all.
+  cost: >-
+    We estimate that our efforts to train and support our current 8 ECE corps
+    members, and recruit and select an additional 8 ECE corps members to teach
+    in the 2015-16 school year will cost $317,462. This figure includes the
+    $20,000 ECE salary differential, enabling us to supplement our current ECE
+    corps members’ salaries to maintain our guaranteed minimum salary of
+    $34,000. Teach For America – Los Angeles has garnered significant support
+    from a number of diverse community stakeholders across all sectors. We have
+    been invited to apply to the Atlas Family Foundation to potentially
+    supplement our ECE corps members’ low salaries and are also pursuing ECE
+    funding from the W.M. Keck Foundation. As we grow and diversify our funding
+    base, we aim to identify and request support from other potential ECE
+    funders.
+  budget: >-
+    For the 2014-15 school year, we estimate that our ECE initiative in Los
+    Angeles will cost $317,462. This budget includes our efforts to recruit 8
+    new ECE corps members to teach in the 2015-16 school year, as well as to
+    train and support our 8 ECE corps members who are currently teaching. The
+    $100,000 from LA2050 will go towards our current ECE corps members’ salary
+    differential (to supplement their low salaries and bring them up to Teach
+    For America – Los Angeles’ guaranteed $34,000 salary), as well as enable us
+    to expand our efforts and further our impact in ECE classrooms.
+  resources_money: '1'
+  resources_staff: '0'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: about_you
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Teach For America - Los Angeles
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: 'http://www.teachforamerica.org/where-we-work/los-angeles'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: 'https://twitter.com/TFA_LA'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/teachforamerica'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: 'http://instagram.com/teachforamerica'
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "606 S. Olive St., Suite 300\r\nLos Angeles, CA 90014"
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '133541913'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Teach For America enlists our nation’s most promising leaders in the
+      effort to expand educational opportunity in Los Angeles schools.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      We will recruit, train, and develop an expanding cohort of exceptional
+      preschool teachers for under-served communities in Los Angeles.
+  - name: describe_idea
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      @TFA_LA is leading our youngest students on the path to a brighter future.
+      Our children today, our nation’s leaders tomorrow!
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Without high-quality preschool teachers, children from low-income
+      communities enter kindergarten already behind their peers in more affluent
+      communities, and this gap only widens with time. Teach For America is
+      committed to providing the youngest students living in low-income
+      communities in Los Angeles with an excellent education, setting them up
+      for success in the classroom, and leading them to a better future. While
+      we have been supporting Early Childhood Education (ECE) at a smaller scale
+      since 2006, we are looking to expand our efforts dramatically to meet the
+      high demand for qualified, passionate pre-K teachers in Los Angeles, and
+      we want to bring our ECE teachers, whom we refer to as corps members, to
+      the students who need them most.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "We are working to cultivate leaders at all levels of the education system by recruiting more teachers with demonstrated leadership abilities, maximizing their impact through better training and development, and extending their impact by supporting them as alumni. In order to achieve our mission, Teach For America – Los Angeles will:\r\n\r\n1. Recruit Outstanding and Diverse Leaders: Our nationwide recruitment model dramatically expands the talent pool of future teachers and leaders that local schools can access. We are committed to diversifying Los Angeles’ teaching force, and have dedicated efforts to increase the representation of corps members who share the racial and socioeconomic background of our students, and who come from a variety of professional backgrounds. We are diversifying the ECE landscape, with over 75% of our incoming corps members identifying as people of color. Students from low-income communities will benefit from this broadened base of exceptional talent for potential ECE corps members.\r\n\r\n2. Maximize Our Impact on Student Achievement: Our success is ultimately predicated upon our corps members’ ability to provide a solid, life-changing education to their students. We ensure success in the classroom through extensive training, ongoing support, and consistent progress measurement. Our corps members receive individualized feedback from teacher coaches, who provide one-on-one support throughout their two-year commitment. Teacher coaches use data collected during classroom observations and real-time student achievement tracking to identify areas for improvement and ensure adequate progress toward individualized goals. With Teach For America’s support, our ECE corps members are expanding opportunities for their students in the classroom and beyond. \r\n\r\n3. Foster and Accelerate the Leadership of our Alumni: We continue to expand our alumni base in Los Angeles, and foster their ongoing leadership as a force for long-term change. After gaining firsthand knowledge and insight into the educational opportunity gap – and its solvability – our corps members become lifelong leaders in the fight for educational equity from a variety of sectors. If we are serious about building quality in ECE, then we need to have a growing pipeline of young leaders who are willing to commit to the work. "
+  - name: impact_learn
+    label: ''
+    explanation: ''
+    answer: "Today, our corps members pursue ambitious growth goals, aiming for their students to achieve at least 1.5 levels of growth on the Desired Results Development Profile, far above the state-recommended growth target of 1 level. In many classrooms, like May Webster’s, we see even more dramatic growth. May, a 2010 Los Angeles corps member, taught preschool in Lennox, and was selected as Preschool Teacher of the Year by Los Angeles Universal Preschool. May was able to achieve 1.66 levels of growth in her classroom and overcome the statistics predicting that students from low-income backgrounds will enter kindergarten already 12 – 14 months behind their wealthier peers. With May’s leadership and passion, her students started kindergarten already reading at a first-grade level. \r\n\r\nOur corps members not only focus on student growth, but also invest families in their efforts. Victoria Hong, a 2011 Los Angeles corps member, instructed two classrooms of 17 dual language learners aged 3-5 as a Head Start Teacher at Pacific Asian Consortium in Employment. Victoria’s vision was to inspire in her students a love for learning, and to encourage their parents to become lifelong advocates for their child’s education. In addition to teaching her students a rigorous curriculum, Victoria also facilitated parent sessions to increase their awareness of the educational opportunity gap and provided resources to help them support their child’s learning. Her students achieved more than 1.5 years of growth, and their parents felt empowered to fight for high-quality educational opportunities.\r\n\r\nImagine a world in which all children across Los Angeles have access to such caring, qualified teachers who can help level the playing field by actively pursuing ambitious growth goals, and engaging with and educating their students’ families. If all of our students entered kindergarten on similar academic levels and had families who felt empowered to advocate for their education, our entire country would benefit! We would see the long-term benefits with more students graduating high school and attending college, and more adults holding stable jobs with higher earnings (Source: HighScope Perry Preschool Project). High-quality early education is the best investment we can make and Teach For America is prepared to expand our ECE efforts to ensure that all students in Los Angeles are on the path to a brighter future!"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "By bringing in and supporting highly committed and effective ECE teachers, Teach For America – Los Angeles is playing a pivotal role in the trajectory of Los Angeles’ young students’ education, shaping their initial understanding of what it means to be a successful student and an active member of a learning community. Teaching in some of the highest-need communities in Los Angeles, our ECE corps members will serve over 300 students and their families each day in the 2014-15 school year. The beneficiaries of our work are verified through their qualification for the federal free- and reduced-price lunch program. Children from families with incomes at or below 185% of the poverty level (which equates to $43,568 for a family of four in 2014) are eligible for reduced-price or free meals. Over 95% of the students we serve on a daily basis are eligible for this program. We currently estimate that 60 to 80% of the students we serve are Latino, and 20 to 40% are African American. \r\n\r\nThe work we do is about people. It is about our students, who have the potential to achieve at the highest levels. It is about their parents, who want the best for their children and their community. It is about our corps members, who work relentlessly to lead their students on more promising academic trajectories. It is about our alumni, who work in education and across a variety of fields to accelerate the pace of change. It is about our staff members, supporters, and partners, who make all of these efforts possible. Together, this movement of individuals reflects a rich diversity of experiences and is united by a shared vision that one day, all children in this nation will have the opportunity to attain an excellent education."
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "At Teach For America, we believe that transformation happens through partnership. We consistently engage with other partners in this work, such as First 5 LA, as collaboration is essential to our efforts to further our ECE initiative. Our confirmed partnerships with the following organizations are vital to the success of our program:\r\n\r\n1. Loyola Marymount University (LMU), our university partner for over a decade, where our corps members enroll in credentialing courses during the school year and pursue their Master’s degrees during their second year. In the 2013-14 school year, all of our ECE corps members completed their Master’s degrees at LMU. \r\n\r\n2. Westside Children’s Center, one of our ECE partner schools, provides high-quality early education programs to serve 400 at-risk children (ages 0 – 5) from very low-income families in southwest Los Angeles County. Since 2012, our ECE corps members have attended summer institute training at Westside Children’s Center, during which they receive training in pedagogy and teaching strategies in model classrooms. The teachers at Westside Children’s Center mentor our corps members and gain exposure to the Teach For America instructional program. The current CEO of Westside Children’s Center, Heather Carrigan, joined Teach For America – Los Angeles’ inaugural class after graduating from Princeton University in 1990. While teaching at Warren Lane Elementary School in Inglewood, Heather learned first-hand about teachers’ daily struggles combating educational disparities and has since committed her career to fighting poverty through education reform.\r\n\r\n3. St. Anne’s, one of our ECE partner schools, serves some of the most abused, abandoned, neglected, and otherwise challenged young women and children in Los Angeles County. St. Anne’s offers an array of comprehensive programs including but not limited to, transitional housing, child care, family literacy, and educational and vocational preparation. All of their programs strive to empower and educate by providing the highest level of care and resources so as to help young women and children recognize their own value and potential, giving them the hope and the tools needed for a better future."
+  - name: metrics_learn_earlyeducation
+    label: Percentage of children enrolled in early education programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_communitycollege
+    label: >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_unemployment
+    label: Youth unemployment and underemployment
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_graduationrates
+    label: District-wide graduation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_proficiency
+    label: HS student proficiency in English & Language Arts and Math
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_api
+    label: Academic Performance Index scores
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_college
+    label: College matriculation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_pipeline
+    label: >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_suspension
+    label: Suspension and expulsion rates (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_truancy
+    label: Truancy rates in elementary and middle school (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_safety
+    label: >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "We are directly impacting students by recruiting and supporting high-quality preschool teachers and thus far, our program has demonstrated significant improvements in early vocabulary and math skills for our youngest students. Ample research has shown that access to high-quality preschool teachers has many longer-term benefits. Students who attended preschool are significantly more likely to score proficient or advanced in English and mathematics; less likely to be suspended or expelled from primary and secondary school; more than 20% more likely to graduate high school; and more likely to attend and graduate from college. Adults who attended preschool are also much more likely to maintain full-time employment and earn higher salaries; more likely to live healthier lives; and less likely to receive welfare assistance or commit any crimes. \r\n\r\nResearch consistently shows that providing high-quality and caring teachers to the students and communities that need them most can fundamentally address the educational opportunity gap. In order to achieve the long-term benefits discussed above, we need exceptional teachers at every level. We support corps members, alumni teachers, and school and district leaders, and thus their students, at every level of our education system, from preschool through high school. As such, we are uniquely positioned to provide a solid, life-changing education to our students. Our corps members go above and beyond to make up for the challenges that their students face, and prove what is possible when excellent teachers set high expectations for their students. Our corps members are charged with the difficult task of bringing to life the idea that an excellent education is achievable every day in their classrooms, and we provide them the support they need to maximize their impact."
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "1. In order to further fuel the ECE talent pipeline in Los Angeles, we seek to bring even more ECE educators to our community. We measure our impact by the number of teaching placements that we are able to secure for our corps members by the first day of the school year. We seek to bring 8 new ECE corps members to Los Angeles to begin teaching in the 2015-16 school year.\r\n\r\n2. Our success is ultimately predicated upon our corps members’ ability to successfully educate their students. Our ECE corps members pursue ambitious growth goals, aiming for their students to achieve, on average, at least 1.5 levels of growth on the Desired Results Development Profile, beyond the state-recommended growth target of 1 level. Progress is tracked throughout the year and is determined through a combination of standardized test grades, end-of-year reports from school districts, and in-class evaluations. \r\n\r\n3. We also seek to foster and accelerate the leadership of our alumni, the effectiveness of which we will measure by the number of ECE corps members who continue working, beyond their two-year teaching commitment, directly in education and/or with low-income communities. We aim for 80% of our ECE corps members to continue working in education and/or with low-income communities. Our Alumni Leadership and Engagement team works to support alumni who continue teaching and coach alumni who are ready to move up the leadership pipeline and tracks their progress. "
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "We believe in the potential of each and every one of our corps members to have a profound impact on their students’ lives, and we have learned from the growing body of external research that affirms this belief. External studies have shown that students in Teach For America corps members’ classrooms are making stronger gains in vocabulary and early math skills than students in non-Teach For America classrooms. A study conducted by Westat, Inc. found that pre-K students taught by Teach For America teachers learned to recognize all or most of the 26 letters of the alphabet, compared with students who were taught by non-Teach For America teachers and learned an average of 10 letters. This is such an important achievement since recognizing letters is a vital steppingstone on the path to reading. The young students that we serve can benefit the most from excellent teachers, and we are proud that a growing body of independent evidence affirms the significant impact of our teachers. \r\n\r\nAdditionally, the education levels that our corps members possess far surpass the state minimum education requirements for early childhood educators – a fact that has us even more committed to bringing more talented, passionate, and highly-educated teachers to our community. While primary and secondary school teachers in California are required to hold a bachelor’s degree, preschool teachers are not. In fact, only half of Head Start teachers in our state possess a bachelor’s degree. Preschool teachers can completely change the academic and life trajectories of their students – so why do we not require them to possess a bachelor’s degree like their peers in elementary and secondary schools? At Teach For America, we strongly believe in the power of education and this belief extends to our teachers as well. Our ECE corps members have all completed their bachelor’s degrees and are encouraged to obtain their master’s degree through our partnership with Loyola Marymount University. In the 2013-14 school year, every single one of our second-year ECE corps members completed their master’s degree. "
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "Teach For America has been working in ECE since 2006, and is fully equipped to expand our impact even further by increasing the number of ECE corps members in Los Angeles. We will continue our efforts to:\r\n\r\n1. Recruit at the nation’s top colleges to attract leaders who demonstrate the potential to become excellent ECE teachers. \r\n\r\n2. Select the top ECE candidates through an intensive admissions process. For more than 20 years, Teach For America has refined its selection model based on data about which applicant traits are most predictive of effective teaching and leadership.\r\n\r\n3. Prepare and train our ECE corps members through a rigorous pre-service training, including an intensive five-week summer training institute at Westside Children’s Center. Over twenty years of experience and continuous improvement through reflection has equipped Teach For America with the ability to develop highly effective teachers.\r\n\r\n4. Place our ECE corps members in classrooms where they can attain maximum success with the highest-need students. \r\n\r\n5. Provide ongoing professional development and support to our ECE corps members. We invest significant time and resources in providing support for our corps members throughout their two-year commitment. Corps members continue the teacher certification process through our partnership with Loyola Marymount University, and earn Master’s degrees in education. They also receive individualized feedback from teacher coaches, who provide one-on-one support to corps members throughout their two-year commitment to identify areas for improvement and ensure adequate progress toward individualized goals.\r\n\r\n6. Foster and accelerate the leadership of our ECE alumni. The corps experience is transformative, deeply influencing the lives of corps members during and after their commitment. Although only 15% of incoming corps members report that teaching is one of their top career choices, 86% of our alumni work in education and/or with low-income communities. To foster the leadership of our alumni, we employ a two-part strategy. First, we work to build community among our alumni and keep them connected to Teach For America by facilitating alumni interaction and hosting alumni events. Second, we support the career development of our alumni through a series of career development and training initiatives, including school leadership and policy and advocacy leadership initiatives."
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "As we work to grow our cohort, we are very sensitive to the additional challenges faced by our corps members in preschool classrooms. When our corps members are admitted into our program, we commit to identifying a placement for them that pays a minimum salary of $34,000. However, our pre-K teachers often do not have salaries that align with our promised baseline salary because ECE teachers on the whole are typically paid $5,000 to $10,000 less each year than their peers in elementary and secondary schools. We work hard to fundraise to cover this salary differential in order to ensure that our pre-K corps members can focus on the hard work required to lead their young students on a path toward success. In the 2014-15 school year, we need to raise nearly $20,000 to cover this salary differential, every dollar of which will be disbursed to our ECE corps members. A portion of the LA2050 funds will go towards supplementing our ECE corps members’ salaries.\r\n\r\nPre-K teachers also work a different schedule than their peers in elementary and secondary schools, working a year-round schedule and only receiving a few weeks off in the summer. Combined with the lower salaries, this reality makes the challenge of bringing outstanding teachers to low-income communities even more difficult, and as such the ECE community at-large is facing a deficit of high-quality human capital. We are proud of the dedication to closing the opportunity gap already demonstrated by our ECE corps members, who have risen to this challenge of teaching where they are most needed, despite the challenges they may face. We anticipate a continued desire from within our corps to teach in ECE settings, and look forward to expanding our impact across Los Angeles.\r\n\r\nAnother major challenge that we anticipate is a lack of state and district funding for preschool programs. More than $1 billion has been cut from preschool and child care funding in California in the last five years, and there are approximately 110,000 fewer seats for students in state preschool now. Thus, although we are bringing highly-qualified and passionate ECE teachers to Los Angeles, our impact is limited by the placement landscape. While we are currently partnered with Westside Children’s Center and St. Anne’s to place all of our ECE corps members, we are also continuing to connect with other community members and stakeholders to identify addition partners to ensure that we are able to serve the students who most need us. "
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: >-
+      There are many important organizations working to address the injustices
+      facing Los Angeles’ students growing up in poverty, and we strive to be a
+      key partner among them. That being said, Teach For America serves as one
+      of the only leadership and talent pipelines for pre-K programs and schools
+      that serve low-income communities. Our nationwide recruitment and
+      selection models dramatically expand the talent pool of future teachers
+      and leaders that local schools and school districts can access. We also
+      train more teachers for low-income communities than any other institution
+      in the country, and measure the academic growth of each of our corps
+      members’ students, holding our teachers directly accountable for their
+      students’ progress. Lastly, through our alumni program, we continue to
+      motivate and connect corps members, creating an unparalleled pipeline of
+      outstanding leaders with the insight, experiences, and commitment to
+      effect the systemic changes necessary to ensure educational opportunity
+      for all.
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      We estimate that our efforts to train and support our current 8 ECE corps
+      members, and recruit and select an additional 8 ECE corps members to teach
+      in the 2015-16 school year will cost $317,462. This figure includes the
+      $20,000 ECE salary differential, enabling us to supplement our current ECE
+      corps members’ salaries to maintain our guaranteed minimum salary of
+      $34,000. Teach For America – Los Angeles has garnered significant support
+      from a number of diverse community stakeholders across all sectors. We
+      have been invited to apply to the Atlas Family Foundation to potentially
+      supplement our ECE corps members’ low salaries and are also pursuing ECE
+      funding from the W.M. Keck Foundation. As we grow and diversify our
+      funding base, we aim to identify and request support from other potential
+      ECE funders.
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: >-
+      For the 2014-15 school year, we estimate that our ECE initiative in Los
+      Angeles will cost $317,462. This budget includes our efforts to recruit 8
+      new ECE corps members to teach in the 2015-16 school year, as well as to
+      train and support our 8 ECE corps members who are currently teaching. The
+      $100,000 from LA2050 will go towards our current ECE corps members’ salary
+      differential (to supplement their low salaries and bring them up to Teach
+      For America – Los Angeles’ guaranteed $34,000 salary), as well as enable
+      us to expand our efforts and further our impact in ECE classrooms.
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '0'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: blueberry
 
 ---

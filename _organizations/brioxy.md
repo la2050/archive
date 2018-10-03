@@ -33,6 +33,18 @@ project_ids: '8102011'
 title: Brioxy
 uri: /organizations/brioxy/
 challenge_url: 'https://activation.la2050.org/create/brioxy/'
+extrapolated_project_ids:
+  - '8102011'
+project_titles_from_extrapolated_project_ids:
+  - Brioxy Builds Los Angeles' Creative Cerebro for Artists of Color
+project_titles:
+  - Brioxy Builds Los Angeles' Creative Cerebro for Artists of Color
+project_titles_from_project_ids:
+  - Brioxy Builds Los Angeles' Creative Cerebro for Artists of Color
+original_project_titles:
+  - Brioxy Builds Los Angeles’ Creative Cerebro for Artists of Color
+original_project_ids:
+  - '8102011'
 category: create
 
 ---

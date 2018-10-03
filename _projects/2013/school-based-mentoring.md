@@ -26,6 +26,138 @@ What would success look like in the year 2050 regarding your indicator?: >-
 year_submitted: 2013
 maker_image_id: '17043'
 maker_image_file_name: School_Based_Mentoring.jpg
+maker_answers:
+  Organization Name: 'Asian American Drug Abuse Program, Inc'
+  website: www.aadapinc.org
+  Indicator: ' Education'
+  brief: "Provide a school based mentoring program.  AADAP shall target children and youth ages 7 to 15 years of age. The children and youth are identified as being at risk of failing or dropping out of school, at risk of joining a gang or using drugs.\r\n\r\n\r\nProgram Goals:\r\n1. Strengthen the social, emotional, cognitive and behavioral competencies of children living in poverty;\r\n2. Improve the children’s commitment to school and to academic achievement;\r\n3. Improve the children’s understanding of healthy standards of behavior;\r\n4. Improve each child’s resilience, self-efficacy and sense of the future; and\r\n5. Strengthen each child’s sense of self-worth.\r\n6. Help reduce the negative impact of an absent mother or father on a child’s well-being and life potential. \r\n  7. Help reduce the negative impact of poverty and other socio-economic stressors on child’s social and emotional well-being, academic performance, and ability to develop essential life competencies.\r\n8. Increase opportunities for every child’s success in school and in life. \r\n9. Help youth develop self-esteem, motivation, and self-management skills to work towards high school graduation and higher education.\r\n\r\nAADAP's School-Based Mentoring Program supports economically and educationally disadvantaged children in public elementary and middle schools with volunteer mentors who spend at least one hour per week at the school for the entire school year. The mentor and the youth meet for a one-to-one mentoring in the classroom, school library, school computer room, neighborhood community center, or other set location. They shall meet once a week to read together, play sports, play games, or simply talk about life and personal issues – just as friends do. \r\n\r\n\r\nMentoring Activities include but is not limited to the following:\r\n\r\n*  Arts and crafts\r\n*  Team Building\r\n*  Goal setting\r\n*  Conflict resolution\r\n*  Motivation\r\n*  Cultural diversity and sensitivity\r\n*  Communication skills\r\n*  Leadership development \r\n*  Self-esteem enhancement\r\n*  Career exposure/awareness\r\n*  College exposure/awareness\r\n*  Community service\r\n*  Social events or field trips\r\n\r\n\r\nThe youth we serve are some of the most disadvantaged in South Los Angeles.\r\n\r\n•\tWe are serving youth who are not attending school. \r\n•\tWe are serving youth living below the federal poverty level. \r\n•\tWe are serving youth whose parents are incarcerated.\r\n•\tWe are serving youth whose father and/or mother have abandon them.\r\n•\tWe are serving youth whose siblings have already joined gangs and/or have been in juvenile detention. \r\n•\tWe are serving youth who are teased at school because of some physical or emotional problem that is evident to their peers. \r\n•\tWe are serving youth who are not allowed to play outside after school because the neighborhood they live in is so dangerous. \r\n•\tWe are serving youth who are being raised by grandparents.\r\n•\tWe are serving youth whose father and/or mother are using drugs.\r\n•\tWe are serving youth who are giving up on school and on life.\r\n\r\nThere is hope! Research shows that well-run mentoring programs are likely to be a powerful intervention for improving the well-being and academic and life skills of disadvantaged youth. It also states that youth in mentoring programs have higher levels of functioning including higher scholastic competence and grades, fewer days of class missed, lower levels of substance abuse, more positive peer and parent relationships, and less physical aggression. \r\n\r\nYouth who participate in the program show dramatic improvements in their daily lives.\r\n\r\n•\t85% made progress in their overall school performance.\r\n•\t74% participated in class more.\r\n•\t58% improved their classroom behavior.\r\n•\t58% had a better sense and interest in the future. \r\n•\t64% developed more positive attitudes towards school.\r\n•\t64% developed higher levels of self-confidence.\r\n•\t80% avoid adolescent pregnancy; \r\n•\t84% experience higher levels of self-esteem; \r\n•\t76% do not begin using alcohol and drugs \r\n•\t62% become more aware of educational and career options; and\r\n•\t53% experience improved relationships with their peers and family members.\r\n\r\n\r\n"
+  budget explanation: "Personnel:\r\n\t\r\nSalaries and Wages\t        $42,656.76 \r\nEmployment Benefits\t$10,536.22 \r\nEmployment Taxes\t        $4,393.65 \r\n\r\nTotal Personal Expenses\t$57,586.63  \r\n\r\nProgram Supplies\t        $2,000.00 \r\nProgram Events\t                $3,000.00         \r\nFood \t                                $3,000.00\r\nSubcontracts\t                $20,000.00\r\nIndirect Cost                        $13,043.00\r\n\r\nTOTAL PROJECTED BUDGET\t $100,000   "
+  description: "Youth who participate in the program shall improve in the following areas and therefore benefit Los Angeles.\r\n\r\n•\t85% made progress in their overall school performance.\r\n•\t74% participated in class more.\r\n•\t58% improved their classroom behavior.\r\n•\t58% had a better sense and interest in the future. \r\n•\t64% developed more positive attitudes towards school.\r\n•\t64% developed higher levels of self-confidence.\r\n•\t80% avoid adolescent pregnancy; \r\n•\t84% experience higher levels of self-esteem; \r\n•\t76% do not begin using alcohol and drugs \r\n•\t62% become more aware of educational and career options; and\r\n•\t53% experience improved relationships with their peers and family members.\r\n"
+  collaborators: >-
+    Teamworks of Los Angeles shall assist in the implementation of school base
+    mentoring at two middle schools.
+  success: "AADAP’s shall measure outcomes are as follows:\r\n\r\nMeasurable Outcome\t                                                                  Impact \r\n• Limit the number of youth that become involved in gangs \t     80% \r\n• Youth will demonstrate better decision making skills                85% \r\n• Reduce the number of youth that experiment with drugs \t     50% \r\n• Youth shall increase school attendance                                        85%\r\n• Youth shall improve in overall school academic                          80%            \r\n• Youth shall increase their self esteem                                             86%\r\n• Youth shall improve their social skills                                             85%\r\n\r\n\r\n\r\n"
+  description1: >-
+    AADAP builds upon over 40 years of successful experience in serving and
+    providing comprehensive services to youth and families in South Los
+    Angeles.  AADAP’s demonstrated track record and success of providing
+    services to gang involved youth will ensure that this proposed program will
+    complement the agency’s dedicated efforts of engaging the youth in
+    pro-social activities, assisting youth in becoming more responsible and
+    completing high school, saving lives, and ensuring public safety.  
+  description3: >-
+    For over 40 years, AADAP, Inc., has demonstrated impressive success of
+    providing substance abuse treatment, prevention and education services,
+    comprehensive employment and training services for the most
+    difficult-to-serve populations with specialization of working with the Asian
+    and Pacific Islander communities of the City and County of Los Angeles.  The
+    agency is structured into 7 Units namely: The “Therapeutic Community” (Adult
+    Residential Drug Treatment Program), Outpatient Drug Treatment Unit,
+    Prevention Unit, Olympic Academy (Youth Residential Drug Treatment Program),
+    Employment Access Unit, Fiscal and Administrative Units.
+  vision: >-
+    Success in the year 2050 will become a brighter, better, and successful Los
+    Angeles will more youth being educated by graduating from high school and
+    going to college.
+  EIN: 95-2848695
+  Tax Status: ' Non-profit organization'
+  about_you: 'Los Angeles, CA 90016'
+  Does your project impact Los Angeles County?: 'yes'
+maker_answers_list:
+  - name: Organization Name
+    label: ''
+    explanation: ''
+    answer: 'Asian American Drug Abuse Program, Inc'
+  - name: website
+    label: 'NULL'
+    explanation: >-
+      Have a homepage or blog you'd like to link to? Put the URL here.
+      <br/>(Example: http://www.yoursite.com)
+    answer: www.aadapinc.org
+  - name: Indicator
+    label: ''
+    explanation: >-
+      Please select the one indicator that is most relevant to your project or
+      organization
+    answer: ' Education'
+  - name: brief
+    label: ''
+    explanation: ''
+    answer: "Provide a school based mentoring program.  AADAP shall target children and youth ages 7 to 15 years of age. The children and youth are identified as being at risk of failing or dropping out of school, at risk of joining a gang or using drugs.\r\n\r\n\r\nProgram Goals:\r\n1. Strengthen the social, emotional, cognitive and behavioral competencies of children living in poverty;\r\n2. Improve the children’s commitment to school and to academic achievement;\r\n3. Improve the children’s understanding of healthy standards of behavior;\r\n4. Improve each child’s resilience, self-efficacy and sense of the future; and\r\n5. Strengthen each child’s sense of self-worth.\r\n6. Help reduce the negative impact of an absent mother or father on a child’s well-being and life potential. \r\n  7. Help reduce the negative impact of poverty and other socio-economic stressors on child’s social and emotional well-being, academic performance, and ability to develop essential life competencies.\r\n8. Increase opportunities for every child’s success in school and in life. \r\n9. Help youth develop self-esteem, motivation, and self-management skills to work towards high school graduation and higher education.\r\n\r\nAADAP's School-Based Mentoring Program supports economically and educationally disadvantaged children in public elementary and middle schools with volunteer mentors who spend at least one hour per week at the school for the entire school year. The mentor and the youth meet for a one-to-one mentoring in the classroom, school library, school computer room, neighborhood community center, or other set location. They shall meet once a week to read together, play sports, play games, or simply talk about life and personal issues – just as friends do. \r\n\r\n\r\nMentoring Activities include but is not limited to the following:\r\n\r\n*  Arts and crafts\r\n*  Team Building\r\n*  Goal setting\r\n*  Conflict resolution\r\n*  Motivation\r\n*  Cultural diversity and sensitivity\r\n*  Communication skills\r\n*  Leadership development \r\n*  Self-esteem enhancement\r\n*  Career exposure/awareness\r\n*  College exposure/awareness\r\n*  Community service\r\n*  Social events or field trips\r\n\r\n\r\nThe youth we serve are some of the most disadvantaged in South Los Angeles.\r\n\r\n•\tWe are serving youth who are not attending school. \r\n•\tWe are serving youth living below the federal poverty level. \r\n•\tWe are serving youth whose parents are incarcerated.\r\n•\tWe are serving youth whose father and/or mother have abandon them.\r\n•\tWe are serving youth whose siblings have already joined gangs and/or have been in juvenile detention. \r\n•\tWe are serving youth who are teased at school because of some physical or emotional problem that is evident to their peers. \r\n•\tWe are serving youth who are not allowed to play outside after school because the neighborhood they live in is so dangerous. \r\n•\tWe are serving youth who are being raised by grandparents.\r\n•\tWe are serving youth whose father and/or mother are using drugs.\r\n•\tWe are serving youth who are giving up on school and on life.\r\n\r\nThere is hope! Research shows that well-run mentoring programs are likely to be a powerful intervention for improving the well-being and academic and life skills of disadvantaged youth. It also states that youth in mentoring programs have higher levels of functioning including higher scholastic competence and grades, fewer days of class missed, lower levels of substance abuse, more positive peer and parent relationships, and less physical aggression. \r\n\r\nYouth who participate in the program show dramatic improvements in their daily lives.\r\n\r\n•\t85% made progress in their overall school performance.\r\n•\t74% participated in class more.\r\n•\t58% improved their classroom behavior.\r\n•\t58% had a better sense and interest in the future. \r\n•\t64% developed more positive attitudes towards school.\r\n•\t64% developed higher levels of self-confidence.\r\n•\t80% avoid adolescent pregnancy; \r\n•\t84% experience higher levels of self-esteem; \r\n•\t76% do not begin using alcohol and drugs \r\n•\t62% become more aware of educational and career options; and\r\n•\t53% experience improved relationships with their peers and family members.\r\n\r\n\r\n"
+  - name: budget explanation
+    label: ''
+    explanation: ''
+    answer: "Personnel:\r\n\t\r\nSalaries and Wages\t        $42,656.76 \r\nEmployment Benefits\t$10,536.22 \r\nEmployment Taxes\t        $4,393.65 \r\n\r\nTotal Personal Expenses\t$57,586.63  \r\n\r\nProgram Supplies\t        $2,000.00 \r\nProgram Events\t                $3,000.00         \r\nFood \t                                $3,000.00\r\nSubcontracts\t                $20,000.00\r\nIndirect Cost                        $13,043.00\r\n\r\nTOTAL PROJECTED BUDGET\t $100,000   "
+  - name: description
+    label: ''
+    explanation: ''
+    answer: "Youth who participate in the program shall improve in the following areas and therefore benefit Los Angeles.\r\n\r\n•\t85% made progress in their overall school performance.\r\n•\t74% participated in class more.\r\n•\t58% improved their classroom behavior.\r\n•\t58% had a better sense and interest in the future. \r\n•\t64% developed more positive attitudes towards school.\r\n•\t64% developed higher levels of self-confidence.\r\n•\t80% avoid adolescent pregnancy; \r\n•\t84% experience higher levels of self-esteem; \r\n•\t76% do not begin using alcohol and drugs \r\n•\t62% become more aware of educational and career options; and\r\n•\t53% experience improved relationships with their peers and family members.\r\n"
+  - name: collaborators
+    label: ''
+    explanation: ''
+    answer: >-
+      Teamworks of Los Angeles shall assist in the implementation of school base
+      mentoring at two middle schools.
+  - name: success
+    label: ''
+    explanation: ''
+    answer: "AADAP’s shall measure outcomes are as follows:\r\n\r\nMeasurable Outcome\t                                                                  Impact \r\n• Limit the number of youth that become involved in gangs \t     80% \r\n• Youth will demonstrate better decision making skills                85% \r\n• Reduce the number of youth that experiment with drugs \t     50% \r\n• Youth shall increase school attendance                                        85%\r\n• Youth shall improve in overall school academic                          80%            \r\n• Youth shall increase their self esteem                                             86%\r\n• Youth shall improve their social skills                                             85%\r\n\r\n\r\n\r\n"
+  - name: description1
+    label: ''
+    explanation: ''
+    answer: >-
+      AADAP builds upon over 40 years of successful experience in serving and
+      providing comprehensive services to youth and families in South Los
+      Angeles.  AADAP’s demonstrated track record and success of providing
+      services to gang involved youth will ensure that this proposed program
+      will complement the agency’s dedicated efforts of engaging the youth in
+      pro-social activities, assisting youth in becoming more responsible and
+      completing high school, saving lives, and ensuring public safety.  
+  - name: description3
+    label: ''
+    explanation: ''
+    answer: >-
+      For over 40 years, AADAP, Inc., has demonstrated impressive success of
+      providing substance abuse treatment, prevention and education services,
+      comprehensive employment and training services for the most
+      difficult-to-serve populations with specialization of working with the
+      Asian and Pacific Islander communities of the City and County of Los
+      Angeles.  The agency is structured into 7 Units namely: The “Therapeutic
+      Community” (Adult Residential Drug Treatment Program), Outpatient Drug
+      Treatment Unit, Prevention Unit, Olympic Academy (Youth Residential Drug
+      Treatment Program), Employment Access Unit, Fiscal and Administrative
+      Units.
+  - name: vision
+    label: ''
+    explanation: ''
+    answer: >-
+      Success in the year 2050 will become a brighter, better, and successful
+      Los Angeles will more youth being educated by graduating from high school
+      and going to college.
+  - name: EIN
+    label: EIN
+    explanation: ''
+    answer: 95-2848695
+  - name: Tax Status
+    label: Are you a for profit organization or non-profit organization?
+    explanation: ''
+    answer: ' Non-profit organization'
+  - name: about_you
+    label: 'City, State'
+    explanation: 'NULL'
+    answer: 'Los Angeles, CA 90016'
+  - name: Does your project impact Los Angeles County?
+    label: Does your project impact Los Angeles County?
+    explanation: Does your project impact Los Angeles County?
+    answer: 'yes'
 body_class: strawberry
+project_summary: >-
+  AADAP builds upon over 40 years of successful experience in serving and
+  providing comprehensive services to youth and families in South Los Angeles. 
+  AADAP’s demonstrated track record and success of providing services to gang
+  involved youth will ensure that this proposed program will complement the
+  agency’s dedicated efforts of engaging the youth in pro-social activities,
+  assisting youth in becoming more responsible and completing high school,
+  saving lives, and ensuring public safety.  
 
 ---

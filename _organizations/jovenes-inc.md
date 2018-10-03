@@ -25,9 +25,22 @@ project_ids: '4102142'
 title: 'Jovenes, Inc.'
 uri: /organizations/jovenes-inc/
 challenge_url: ''
-project_titles:
-  - The TALK Project
+extrapolated_project_ids:
+  - '3102160'
+project_titles_from_extrapolated_project_ids:
   - The Beacon Network presented by Jovenes Inc.
+project_titles:
+  - The Beacon Network presented by Jovenes Inc.
+  - The TALK Project
+project_titles_from_project_ids:
+  - 'Clothes The Deal: Dismantling Barriers to Employment'
+original_project_titles:
+  - Invisible to Invincible
+  - 'The Beacon Network, presented by Jovenes, Inc.'
+original_project_ids:
+  - '3102160'
+  - '4102122'
+project_titles_flagged: 1
 youtube_video_identifier: 6BWp4B7O03I
 
 ---

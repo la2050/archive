@@ -10,10 +10,8 @@ charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
-  - Homelessness
   - Education & youth
-  - Housing & homelessness
-twitter: 0
+twitter: ''
 instagram: urbansummeracademy
 facebook: urbansummeracademy
 org_type: Forprofit
@@ -31,6 +29,19 @@ project_ids: '4102079'
 title: All-In Urban Summer Academy
 uri: /organizations/all-in-urban-summer-academy/
 challenge_url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
+extrapolated_project_ids:
+  - '8102006'
+project_titles_from_extrapolated_project_ids:
+  - 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
+project_titles:
+  - 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
+project_titles_from_project_ids:
+  - Cypress Park Pocket Park
+original_project_titles:
+  - 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
+original_project_ids:
+  - '8102006'
+project_titles_flagged: 1
 category: learn
 
 ---

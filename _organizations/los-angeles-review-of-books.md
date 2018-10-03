@@ -39,5 +39,34 @@ project_ids: '6102144'
 title: Los Angeles Review of Books
 uri: /organizations/los-angeles-review-of-books/
 challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
+extrapolated_project_ids:
+  - '6102144'
+  - '5102194'
+  - '4102134'
+  - '3102189'
+project_titles_from_extrapolated_project_ids:
+  - LARB/USC Publishing Institute and Workshop
+  - Los Angeles Review of Books Enabling LA Creativity
+  - Los Angeles Review of Books
+  - Los Angeles Review of Books
+project_titles:
+  - LARB/USC Publishing Institute and Workshop
+  - Los Angeles Review of Books
+  - Los Angeles Review of Books
+  - Los Angeles Review of Books Enabling LA Creativity
+project_titles_from_project_ids:
+  - LARB/USC Publishing Institute and Workshop
+original_project_titles:
+  - LA Review of Books
+  - LARB/USC Publishing Institute and Workshop
+  - Los Angeles Review of Books
+  - Los Angeles Review of Books
+  - Los Angeles Review of Books Enabling LA Creativity
+original_project_ids:
+  - '3102189'
+  - '3102189'
+  - '5102194'
+  - '6102144'
+project_titles_flagged: 1
 
 ---

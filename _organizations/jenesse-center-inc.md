@@ -31,5 +31,33 @@ title: 'Jenesse Center, Inc.'
 uri: /organizations/jenesse-center-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
+extrapolated_project_ids:
+  - '6102108'
+  - '5102149'
+  - '4102103'
+  - '3102159'
+project_titles_from_extrapolated_project_ids:
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
+project_titles:
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative'
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+project_titles_from_project_ids:
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+original_project_titles:
+  - 'Abuse ≠Love: LA Youth Against Violence Initiative '
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+  - Enhanced Permanent Supportive Housing for Victims of Domestic Violence
+  - 'Jeneration J: A New Generation of Healthy Relationships'
+original_project_ids:
+  - '3102159'
+  - '4102103'
+  - '5102149'
+  - '6102108'
+project_titles_flagged: 1
 
 ---

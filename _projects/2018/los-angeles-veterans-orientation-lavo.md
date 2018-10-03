@@ -5,7 +5,7 @@ title: Los Angeles Veterans Orientation (LAVO)
 project_summary: >-
   The Los Angeles Veterans Orienation welcomes veterans to our community and
   provides a friendly and fun introduction to the benefits veterans need to
-  become successful Angelinos. 
+  become successful Angelinos.
 Please describe the activation your organization seeks to launch.: >-
   The LAVO is an opportunity to directly engage and support the veterans of Los
   Angeles County. The LAVO provides a casual, informal community for veterans to
@@ -34,6 +34,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102137'
 year_submitted: 2018
+organization_name: We Are the Mighty
 project_proposal_description: >-
   The LAVO is an opportunity to directly engage and support the veterans of Los
   Angeles County. The LAVO provides a casual, informal community for veterans to

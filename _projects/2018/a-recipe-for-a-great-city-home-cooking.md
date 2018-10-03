@@ -22,6 +22,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=mNrTZHODsQI'
 project_id_3: '8102060'
 year_submitted: 2018
+organization_name: 'LA Commons, a project of Community Partners'
 project_proposal_description: >-
   In partnership with key City departments, we will engage unengaged 18-34 year
   olds in LA’s process for planning affordable housing and as candidates for

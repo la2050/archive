@@ -32,5 +32,34 @@ title: Mujeres de la Tierra
 uri: /organizations/mujeres-de-la-tierra/
 challenge_url: >-
   https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
+extrapolated_project_ids:
+  - '6102157'
+  - '5102214'
+  - '4102151'
+project_titles_from_extrapolated_project_ids:
+  - 'Telenovelas in the Park, a new way of learning!'
+  - >-
+    La Paletera de los Angeles - Fruit Bars Cold Drinks Healthy Delicious
+    Snacks.
+  - Buy a paleta and secure a womans future.
+project_titles:
+  - Buy a paleta and secure a womans future.
+  - >-
+    La Paletera de los Angeles - Fruit Bars Cold Drinks Healthy Delicious
+    Snacks.
+  - 'Telenovelas in the Park, a new way of learning!'
+project_titles_from_project_ids:
+  - 'Telenovelas in the Park, a new way of learning!'
+original_project_titles:
+  - >-
+    La Paletera de los Angeles - Fruit Bars, Cold Drinks, Healthy Delicious
+    Snacks.
+  - 'Paint to Succeed '
+  - 'Telenovelas in the Park, a new way of learning!'
+original_project_ids:
+  - '5102214'
+  - '5102268'
+  - '6102157'
+project_titles_flagged: 1
 
 ---

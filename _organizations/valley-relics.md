@@ -30,5 +30,25 @@ title: Valley Relics
 uri: /organizations/valley-relics/
 challenge_url: >-
   https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
+extrapolated_project_ids:
+  - '6102278'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    LIT is a community block party with curated lights and music featuring local
+    SFV talent
+project_titles:
+  - >-
+    LIT is a community block party with curated lights and music featuring local
+    SFV talent
+project_titles_from_project_ids:
+  - >-
+    LIT is a community block party with curated lights and music featuring local
+    SFV talent
+original_project_titles:
+  - >-
+    LIT is a community block party with curated lights and music featuring local
+    SFV talent
+original_project_ids:
+  - '6102278'
 
 ---

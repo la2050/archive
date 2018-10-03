@@ -23,11 +23,24 @@ project_ids: '4102102'
 title: URBAN Teens Exploring Technology ( TXT )
 uri: /organizations/urban-teens-exploring-technology-txt/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/EnvisionLA.html'
+extrapolated_project_ids:
+  - '4102248'
+project_titles_from_extrapolated_project_ids:
+  - '#EnvisionLA by coding and design with MINECRAFT'
 project_titles:
   - '#EnvisionLA by coding and design with MINECRAFT'
   - >-
     South LA + HackerSpace = Innovative youth community united to learn
     technology skills together
+project_titles_from_project_ids:
+  - >-
+    Trail City LA: Connecting the city through a community authored network of
+    digitally enabled trails.
+original_project_titles:
+  - '#EnvisionLA by coding and design with MINECRAFT'
+original_project_ids:
+  - '4102248'
+project_titles_flagged: 1
 youtube_video_identifier: g_OFCYLH7gw
 
 ---

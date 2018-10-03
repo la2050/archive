@@ -9,8 +9,8 @@ zip: '90405'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=571206928'
 ntee_type: ''
 tags_indicators:
-  - Voting & civic engagement
-  - Social connectedness
+  - Teaching & mentorship
+  - Education & youth
 twitter: '@larchmontschool'
 instagram: 'https://www.instagram.com/larchmontschool/'
 facebook: 'https://www.facebook.com/LarchmontSchool/posts/10160153595750361'
@@ -33,6 +33,22 @@ project_ids: '8102064'
 title: Larchmont Charter School
 uri: /organizations/larchmont-charter-school/
 challenge_url: 'https://activation.la2050.org/connect/larchmont-charter-school/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    Larchmont Social Justice Alliance allows youth to speak up for social
+    justice with a literary voice.
+project_titles_from_project_ids:
+  - >-
+    Larchmont Social Justice Alliance allows youth to speak up for social
+    justice with a literary voice.
+original_project_titles:
+  - >-
+    Larchmont Social Justice Alliance allows youth to speak up for social
+    justice with a literary voice.
+original_project_ids:
+  - '8102064'
 category: connect
 
 ---

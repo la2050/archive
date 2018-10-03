@@ -38,8 +38,18 @@ project_ids: '3102104'
 title: Team Friday
 uri: /organizations/team-friday/
 challenge_url: 'http://maker.good.is/myla2050/projects/artmageddon.html'
+extrapolated_project_ids:
+  - '3102104'
+project_titles_from_extrapolated_project_ids:
+  - ARTmageddon
 project_titles:
   - ARTmageddon
+project_titles_from_project_ids:
+  - ARTmageddon
+original_project_titles:
+  - ARTmageddon
+original_project_ids:
+  - '3102104'
 maker_image_id: '17024'
 maker_image_file_name: USE.jpg
 

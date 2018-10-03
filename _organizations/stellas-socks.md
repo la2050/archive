@@ -30,6 +30,18 @@ project_ids: '8102112'
 title: Stella's Socks
 uri: /organizations/stellas-socks/
 challenge_url: 'https://activation.la2050.org/connect/stellas-socks/'
+extrapolated_project_ids:
+  - '8102112'
+project_titles_from_extrapolated_project_ids:
+  - Stella's Socks - Shelter for Your Feet
+project_titles:
+  - Stella's Socks - Shelter for Your Feet
+project_titles_from_project_ids:
+  - Stella's Socks - Shelter for Your Feet
+original_project_titles:
+  - Stella's Socks - Shelter for Your Feet
+original_project_ids:
+  - '8102112'
 category: connect
 
 ---

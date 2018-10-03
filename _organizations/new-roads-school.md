@@ -33,5 +33,25 @@ title: New Roads School
 uri: /organizations/new-roads-school/
 challenge_url: >-
   https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
+extrapolated_project_ids:
+  - '6102167'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
+    collective future
+project_titles:
+  - >-
+    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
+    collective future
+project_titles_from_project_ids:
+  - >-
+    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
+    collective future
+original_project_titles:
+  - >-
+    UPTOGOOD: Developing tomorrow's impact storytellers and campaigners for our
+    collective future
+original_project_ids:
+  - '6102167'
 
 ---

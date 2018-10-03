@@ -36,5 +36,32 @@ uri: >-
   /organizations/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
+extrapolated_project_ids:
+  - '6102062'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    The PLACE: building an infrastructure of support for emerging artists and
+    their mentors.
+project_titles:
+  - >-
+    Empowering the Future of Los Angeles Creative Economy through Arts
+    Mentorships
+  - >-
+    The P.L.A.C.E.–The Partnership for Los Angeles Creative Education serving
+    LAs emerging creatives!
+  - >-
+    The PLACE: building an infrastructure of support for emerging artists and
+    their mentors.
+project_titles_from_project_ids:
+  - >-
+    The PLACE: building an infrastructure of support for emerging artists and
+    their mentors.
+original_project_titles:
+  - >-
+    The PLACE: building an infrastructure of support for emerging artists and
+    their mentors.
+original_project_ids:
+  - '6102062'
+project_titles_flagged: 1
 
 ---

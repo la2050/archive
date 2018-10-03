@@ -147,6 +147,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   neighborhood change and a strong contributor to building a greener, healthier
   city for all communities.
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

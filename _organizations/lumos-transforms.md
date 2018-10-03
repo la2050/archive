@@ -30,6 +30,18 @@ project_ids: '8102078'
 title: Lumos Transforms
 uri: /organizations/lumos-transforms/
 challenge_url: 'https://activation.la2050.org/live/lumos-transforms/'
+extrapolated_project_ids:
+  - '8102078'
+project_titles_from_extrapolated_project_ids:
+  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
+project_titles:
+  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
+project_titles_from_project_ids:
+  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
+original_project_titles:
+  - '#ResilientLA: Building Healthy Individuals, Organizations, and Communities'
+original_project_ids:
+  - '8102078'
 category: live
 
 ---

@@ -61,6 +61,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/globa
 project_video: 'https://www.youtube.com/watch?v=xtgKX6NE490'
 project_id_3: '8102046'
 year_submitted: 2018
+organization_name: Global Green
 project_proposal_description: >-
   Global Green’s Creative Reuse Coalition (CRC) will activate Angelenos in
   educational, creative reuse workshops. In cooperation with local businesses,

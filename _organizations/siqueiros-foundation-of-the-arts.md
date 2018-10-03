@@ -25,8 +25,18 @@ project_ids: '5102268'
 title: Siqueiros Foundation of the Arts
 uri: /organizations/siqueiros-foundation-of-the-arts/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
+extrapolated_project_ids:
+  - '5102268'
+project_titles_from_extrapolated_project_ids:
+  - Paint to Succeed
 project_titles:
   - Paint to Succeed
+project_titles_from_project_ids:
+  - Paint to Succeed
+original_project_titles:
+  - 'Paint to Succeed '
+original_project_ids:
+  - '5102268'
 youtube_video_identifier: s-SSOCwgWEs
 
 ---

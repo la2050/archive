@@ -2,7 +2,13 @@
 project_id: '8102074'
 project_id_2: '8102074'
 title: 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
-project_summary: "The Los Angeles Dodgers Foundation, together with the support of partners, donors, and\r\nfans, will activate LA to get more kids, families, and communities active and\r\nenergized to PLAY! \r\n"
+project_summary: >-
+  The Los Angeles Dodgers Foundation, together with the support of partners,
+  donors, and
+   
+   fans, will activate LA to get more kids, families, and communities active and
+   
+   energized to PLAY!
 Please describe the activation your organization seeks to launch.: >-
   Through Dodgers Dreamfields, we create vibrant spaces for communities to play
   and provide ample opportunities for community involvement at these sites,
@@ -27,6 +33,7 @@ project_image: >-
 project_video: 'https://www.mlb.com/dodgers/video/ladf-overview/c-1866876583?tid=80228278'
 project_id_3: '8102074'
 year_submitted: 2018
+organization_name: Los Angeles Dodgers Foundation
 project_proposal_description: >-
   Through Dodgers Dreamfields, we create vibrant spaces for communities to play
   and provide ample opportunities for community involvement at these sites,

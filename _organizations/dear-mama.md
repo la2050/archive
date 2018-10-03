@@ -37,5 +37,17 @@ title: Dear Mama
 uri: /organizations/dear-mama/
 challenge_url: >-
   https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
+extrapolated_project_ids:
+  - '6102116'
+project_titles_from_extrapolated_project_ids:
+  - Helping L.A. Live Healthier One Taco at a Time!
+project_titles:
+  - Helping L.A. Live Healthier One Taco at a Time!
+project_titles_from_project_ids:
+  - Helping L.A. Live Healthier One Taco at a Time!
+original_project_titles:
+  - Helping L.A. Live Healthier One Taco at a Time!
+original_project_ids:
+  - '6102116'
 
 ---

@@ -26,5 +26,17 @@ project_ids: '6102189'
 title: Pretty Good Cat
 uri: /organizations/pretty-good-cat/
 challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
+extrapolated_project_ids:
+  - '6102189'
+project_titles_from_extrapolated_project_ids:
+  - No More Suffering for LA's Homeless Kittens
+project_titles:
+  - No More Suffering for LA's Homeless Kittens
+project_titles_from_project_ids:
+  - No More Suffering for LA's Homeless Kittens
+original_project_titles:
+  - 'No More Suffering for LA''s Homeless Kittens '
+original_project_ids:
+  - '6102189'
 
 ---

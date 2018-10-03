@@ -54,8 +54,18 @@ project_ids: '3102248'
 title: The Greater West Hollywood Food Coalition
 uri: /organizations/the-greater-west-hollywood-food-coalition/
 challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
+extrapolated_project_ids:
+  - '3102248'
+project_titles_from_extrapolated_project_ids:
+  - volunteers housing the homeless
 project_titles:
   - volunteers housing the homeless
+project_titles_from_project_ids:
+  - volunteers housing the homeless
+original_project_titles:
+  - volunteers housing the homeless
+original_project_ids:
+  - '3102248'
 youtube_video_identifier: vZOFIeiYKwA
 
 ---

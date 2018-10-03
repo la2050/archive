@@ -37,5 +37,17 @@ project_ids: '6102208'
 title: Natch
 uri: /organizations/natch/
 challenge_url: 'https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door'
+extrapolated_project_ids:
+  - '6102208'
+project_titles_from_extrapolated_project_ids:
+  - Bringing the Farmer's Market to People's Door
+project_titles:
+  - Bringing the Farmer's Market to People's Door
+project_titles_from_project_ids:
+  - Bringing the Farmer's Market to People's Door
+original_project_titles:
+  - Bringing the Farmer's Market to People's Door
+original_project_ids:
+  - '6102208'
 
 ---

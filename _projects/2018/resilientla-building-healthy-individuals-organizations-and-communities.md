@@ -27,6 +27,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102078'
 year_submitted: 2018
+organization_name: Lumos Transforms
 project_proposal_description: >-
   In areas with a high-density of marginalized and under-resourced peoples, we
   seek to increase community resilience by repairing the community-based human

@@ -33,5 +33,28 @@ title: Milk + Bookies
 uri: /organizations/milk-bookies/
 challenge_url: >-
   https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
+extrapolated_project_ids:
+  - '6102155'
+  - '5102208'
+  - '4102146'
+project_titles_from_extrapolated_project_ids:
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
+project_titles:
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond'
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
+project_titles_from_project_ids:
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+original_project_titles:
+  - 'Leaders + Readers: Bringing Much Needed Books to Children in LAUSD & Beyond '
+  - 'Leaders + Readers: Growing School Libraries and Minds One Book At A Time'
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
+original_project_ids:
+  - '4102146'
+  - '5102208'
+  - '6102155'
+project_titles_flagged: 1
 
 ---

@@ -5,7 +5,7 @@ title: '#NextStopCleanAir: Electric School Buses for LA’s Kids'
 project_summary: >-
   Worried about the smog affecting our kids’ health? Join students, parents,
   teachers, and the community to put 100 percent clean, electric buses on school
-  bus routes across LA by 2030! 
+  bus routes across LA by 2030!
 Please describe the activation your organization seeks to launch.: >-
   We seek to run a campaign to transition Los Angeles’ old and polluting school
   buses to new, clean and safe electric buses. Our coalition will engage and
@@ -38,6 +38,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102037'
 year_submitted: 2018
+organization_name: Environment California Research & Policy Center
 project_proposal_description: >-
   We seek to run a campaign to transition Los Angeles’ old and polluting school
   buses to new, clean, and safe electric buses. Our coalition will engage and

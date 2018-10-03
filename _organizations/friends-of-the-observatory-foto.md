@@ -25,8 +25,21 @@ project_ids: '4102128'
 title: Friends Of The Observatory (FOTO)
 uri: /organizations/friends-of-the-observatory-foto/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102077'
+project_titles_from_extrapolated_project_ids:
+  - Griffith Observatory--A pLAnetarium for 2050 now!
 project_titles:
   - Griffith Observatory--A pLAnetarium for 2050 now!
+project_titles_from_project_ids:
+  - >-
+    Project: SCHOLARS - empowering college and college bound students of all
+    ages to succeed
+original_project_titles:
+  - Griffith Observatory--A pLAnetarium for 2050 now!
+original_project_ids:
+  - '4102077'
+project_titles_flagged: 1
 maker_image_id: '20477'
 maker_image_file_name: 405.jpg
 

@@ -45,6 +45,21 @@ title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
 challenge_url: >-
   https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - "Create Above the Radar Program —Â\_Think Tank Gallery Spotlight on Creative Opportunity"
+  - >-
+    Think Tank's Red Tape Removal Program – Untying the Bureaucratic Knots from
+    LA Art Production
+project_titles_from_project_ids:
+  - A Healthy & Sustainable Environment to Play for Families in South LA
+original_project_titles:
+  - >-
+    Create Above the Radar Program – Think Tank Gallery Spotlight on Creative
+    Opportunity
+original_project_ids: []
+project_titles_flagged: 1
 category: create
 
 ---

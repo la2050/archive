@@ -30,5 +30,25 @@ title: 'Braid Theory, Inc.'
 uri: /organizations/braid-theory-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
+extrapolated_project_ids:
+  - '6102086'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    IGNITE22: A tech expo and collaborative experience celebrating innovations
+    shaping the 22nd century
+project_titles:
+  - >-
+    IGNITE22: A tech expo and collaborative experience celebrating innovations
+    shaping the 22nd century
+project_titles_from_project_ids:
+  - >-
+    IGNITE22: A tech expo and collaborative experience celebrating innovations
+    shaping the 22nd century
+original_project_titles:
+  - >-
+    IGNITE22: A tech expo and collaborative experience celebrating innovations
+    shaping the 22nd century
+original_project_ids:
+  - '6102086'
 
 ---

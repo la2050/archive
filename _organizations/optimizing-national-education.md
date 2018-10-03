@@ -27,8 +27,19 @@ project_ids: '4102066'
 title: Optimizing National Education
 uri: /organizations/optimizing-national-education/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/Welcome.html'
+extrapolated_project_ids:
+  - '4102161'
+project_titles_from_extrapolated_project_ids:
+  - Welcome to Our Neighborhood
 project_titles:
   - Welcome to Our Neighborhood
+project_titles_from_project_ids:
+  - The LA River Public Art Project
+original_project_titles:
+  - Welcome to Our Neighborhood
+original_project_ids:
+  - '4102161'
+project_titles_flagged: 1
 youtube_video_identifier: z7QaUClznXM
 
 ---

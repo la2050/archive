@@ -27,5 +27,17 @@ project_ids: '6102228'
 title: 'SilverMotion, Inc.'
 uri: /organizations/silvermotion-inc/
 challenge_url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
+extrapolated_project_ids:
+  - '6102228'
+project_titles_from_extrapolated_project_ids:
+  - 'eQuiz: Fun and Free Trivia App'
+project_titles:
+  - 'eQuiz: Fun and Free Trivia App'
+project_titles_from_project_ids:
+  - 'eQuiz: Fun and Free Trivia App'
+original_project_titles:
+  - 'eQuiz: Fun and Free Trivia App'
+original_project_ids:
+  - '6102228'
 
 ---

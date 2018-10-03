@@ -237,6 +237,255 @@ What would success look like in the year 2050 regarding your indicator?: >-
 year_submitted: 2013
 maker_image_id: '17083'
 maker_image_file_name: Wishing_Upon_A_Star.jpg
+maker_answers:
+  Organization Name: 'Friends, the Foundation of the California African American Museum'
+  website: www.caamuseum.org
+  Indicator: ' Social Connectedness'
+  brief: "We propose to integrate 4 tracks of existing and new activity initiatives for greater depth, synergistic connections and “doing more better” for our youth and community as follows:\r\n\r\nYoung Docents and Young Docents After Hours - continuing and deepening the experience for LA County high school students to receive paid employment and training through hands-on cross use customer service business, public speaking and problem solving skills plus direct experience of museum operations, and program development and delivery.\r\n\r\nArtpreneurs program enhancement with 10 increased opportunities for participation and promotion fostering creative and economic vitality for visual artists through monthly on-site vending and marketing opportunities to the public.\r\n\r\nKids Gloves project to be tested with our YDs to empower learning and pride in uncovering school and neighborhood history through professional experiences in cataloging & preserving historical artifacts, gathering oral histories and determining if we can replicate the program for at schools throughout Los Angeles. \r\n\r\nArt on CAAM’s Footprint program which is a 2 year program designed to develop deeper community based relationships and engagement in the placement, curation and creation of CAAM’s exterior footprint as a “gallery” for public exhibition \r\n\r\nFor 6 months we would blend and cross purpose these initiatives for a more integrated and richer public, experience for both our youth, audiences, general public that will not only meet the arts and cultural vitality indicators, but also serve as boosters for education, social connections, and provide direct impact on income and employment for area youth as well as the overall enhancement of the physical Exposition Park neighborhood and environment. \r\n\r\n"
+  budget explanation: "Project Budget\r\nProject Installation $10,000.00 \r\nProject Administration Pre-Planning $5,000 \r\nProject Administration Installation $5,000\r\nConsultants/artists $10,000 (Computer and web for expanded YD, archivists for Kid Gloves, artists for public workshops on the footprint)\r\nSite Preparation/permit /fees $3,750\r\nDe-installation costs $5,000.00 (and to prepare footprint for second install)\r\nEquipment Purchase $25,000 (tenting and awning to create uniform outdoor presentation for “artpreneurs” and workshops on the foot print, with appropriate signage and branding, benches, low tables for tots)\r\nProject Administration Outreach (Expanded YD, C-TAP, Kid-Gloves) $25,000 (summer and fall)\r\nArtists stipends $10,000 (actual art creation on the footprint including materials and supplies)\r\nBuses and Docents $3,000\r\nPress/Promotion $10,000\r\nPublic Curator expense $1,000 (hospitality, parking)\r\nGraphic Design $5,000\r\nDocumentation (survey and program) $1,500 \r\nDocumentation (video and photography) $3,250 \r\nPostage/mailhouse $4,500 \r\n"
+  description: "Some suggest that museum’s have largely supplanted churches as institutions that are emblematic of American cities.  For the California African American (CAAM), situated in the heart of LA, this is idea applies as related to the on-going challenge of engaging a multiplicity of demographics and subjects matters.  At CAAM we go beyond daily programming to invest in developing human infrastructures and relationships that will serve the unmet needs of the local and larger community, and bring together the experiences of generations.  It is in this context that we seek support for our multifaceted vision to “Dig Deeper, Connect the Dots & Do More.”\r\n\r\nCAAM is physically located in a neighborhood that was residentially Black through a good part of LA’s history.  It is also in the midst of a fairly dramatic demographic shift.  While nestled across from USC, the 2000 US census reveals an Exposition Park neighborhood that is 21% African American, 57% Latino and 11% White.  This is also a very working class neighborhood grappling with difficult socio – economic issues such as 40% of families living in poverty with an African American unemployment rate at 13.8%, higher than any other ethnic group.  CAAM has met this shift employing youth; providing wider opportunities for people of all backgrounds as a part of our exhibitions and programs; welcoming all as a part of the story of art and history that we recount from an African American voice; and promoting artists as entrepreneurs to strengthen their position economically.  \r\n\r\nEven in the United Kingdom, where tradition is almost holy, they recognize that museums in the future will be “less about us as the guardians of collections and delivering our services to communities and more about us facilitating communities to celebrate their own heritage and create their own experiences using our resources (collections, buildings, people etc).”(Keith Merrin)  Since our 1977 CAAM has embraced these concepts.  Progress in the past 10 years in the past includes an increase in collaborations and outreach despite the economy.  We are responsive and are comfortable letting our audiences have a say.  This is what CAAM has done, but we need to better connect the dots between what has worked, where we have found surprise gems, change as needed and reach a new better.  We exist on a mission that requires the integration of all facets of life for public engagement and enhancement.  A world that requires multi and cross-cultural, discipline, education, economic, skill recycling and social integration is not new territory for CAAM.  This is not and never has been a “traditional” museum, and we are proud to be grounded in such a wide berth, but now is the time for us to dig deeper into our foundation to find ways to connect successful initiatives, and incorporate in necessary elements in order to reach better.  "
+  collaborators: >-
+    Role of Partners in Planning and Implementation (if any): The California
+    African American Museum (a State Agency) provides the facility, utilities,
+    equipment and co-workers that drive our mission; Funding Donors, such as
+    Target, Bank of America, Annenberg Foundation, Department of Cultural
+    Affairs, Los Angeles County Arts Commission, SEMPRA Energy, SCE and others
+    generously fund programs through our Friends Foundation; People of the
+    African Diaspora, African American Artists, Collectors, History Makers and
+    Gallery Owners who through their need, support and participation drive our
+    mission and increased the demand for continued growth and vitality. 
+  success: "For the Young Docents we have evaluation forms that are regularly used to assess the individual students and the program as a whole. Students keep journals, are tested on information, given feedback and opportunities to lead tours, assist guests and engage in other projects and research.  We determine success by not only the number of students that complete the summer portion of the program, but by the increased number of students that want to return for the year long portion of the program.  The increased number of applications further advises us that there is a need and we seek advise from consultants and specialists for improvements.  The deeper offerings centered around graphic design, AV tech training, social media protocols and direct engagement with the community for the YD participants under this grant would be scrutinized in the same manner.\r\n\r\nFor Artpreneurs we seek to increase the current 25 art vendors on our roster by another 10 participants having customer access.  This program is evaluated based on the number of returning vendors which is currently at a 75% success rate in terms of returning Artpreneurs.  Having resources to expand outreach and promotion for this program should increase vendor sales and CAAM attendance simultaneously, and the quantity and quality of artist entrepreneurs seeking to participate.  We will count these increases accordingly as a measurement of the program’s success.\r\n\r\nKid Gloves is a new pilot and if it works with the Young Docents, we will seek to have the YDs be part of a professionally led team that goes into the schools to share ways in which the program can become part of a classroom or an after-school club experience.  We seek to have this program achieve a greater awareness of neighborhood, history and relationships between cultures as neighborhood demographics evolve.\r\n\r\nArt on the Footprint at CAAM is the other new initiative which is developing and going into operation this fall.  With each phase we will have an exhibition and increased engagement with the community not only participating in workshops but serving as community curators selecting art to be on the exterior of CAAM and in the making of such art.  This program digs deep to create long lasting relationships that will also evolve and morph as we get further feedback from and engage the community.\r\n"
+  description1: >-
+    Despite the economic downturn and budget reductions we have grown attendance
+    at CAAM over the last 10 years from35K to over 100,000 visitors representing
+    an average 20% increase each year.  We are now presenting 80+ public
+    programs each year and 9 – 13 exhibitions while continuing to maintain an
+    active and growing research library and collection.  We are proud of these
+    numbers and equally as proud that they represent a connection to content
+    that has ranged from presenting the more than 20 exhibitions that have been
+    directly related to telling the story of the African Diaspora around the
+    world…and all still for Free Admission!  We have proudly collaborated with
+    numerous organizations from the Skirball Cultural Center to the Japanese
+    American National Museum, the Chinese American Museum and others like Self
+    Help Graphics to the obvious connections with the Watts Towers, St. Elmo’s
+    Village, and commercial galleries owned by African Americans.  We encourage
+    artmaking and training by children and showcase the work of other
+    organizations serving this purpose like Ryman Arts. But perhaps we are just
+    as proud of our outreach efforts with Target that were designed to allow us
+    to showcase the achievements and contributions of the African American and
+    collaborative communities through our Target Sundays at CAAM programs. 
+    Through this effort, we have not only created places for the community to
+    showcase what they do but this showcasing of talent also included bringing
+    to the public important discussions and representatives that could assist
+    with everything from healthy living to safety in the water.  Target Sundays
+    even helped us create our Artpreneur program making it possible for solo art
+    entrepreneurs to have a place to sell and expose audiences to their work and
+    earn income accordingly. Our most heartfelt achievement is the growth of our
+    Young Docents program having grown it from a 2 person 4 week program that is
+    an integral part of our program today employing, training and educating 30
+    high school youth year round for their personal and professional career
+    development.
+  description3: >-
+    We are a 44,000 sq ft institution with a collection of 6,000 objects of art,
+    artifacts, photographs, memorabilia, etc. representing the largest African
+    American based museum in California and the west coast.  However, we are
+    still much smaller than our immediate arts competitors whom some might view
+    to be LACMA, MOCA, the Hammer, and the much smaller Museum of African
+    American Art located in the Macy’s Dept. store.  For history and artifacts
+    on African Americans, the competition is the Mayme Clayton Library and
+    Museum which has a strong collection but is not yet nearly accessible to the
+    public.  Our relationship with all of these organizations is good and
+    strong.  In fact, we are collaborating with LACMA on at least two projects
+    for the future, and have had occasion to work with all of these institutions
+    in some capacity including the Getty.
+  vision: >-
+    By 2050 we fully expect CAAM to have moved into its expanded 172,000 sq ft
+    facility that will provide better storage, classrooms, multi-use
+    presentation spaces, a larger library and exhibition galleries as well as
+    greatly improved physical presence in the park and in the neighborhood. 
+    However, we are driven first by further providing the content and programs
+    that we think are vital to our relationship in this neighborhood.  We seek
+    to have strong give back programs like the ones we describe in this
+    application to be a part of our base of operations in the same way that we
+    began our Young Docents program16 years ago with only 2 students being
+    served. We will remain responsible for employing our youth, providing Art on
+    the Footprint so as to create changing and engaging experiences for our Park
+    users.  Even pieces created today will be a part of our collection and the
+    history of our neighborhood.  Our Kid Gloves project will be a regular part
+    of school education outreach efforts as new generations of students need to
+    remain connected to their school community, even if they are bused into the
+    area.  Success for CAAM is a full integration of all of the multi-facets of
+    art and culture, education, employment and income, and neighborhood
+    enhancement…these are the elements served by our mission but expanded upon
+    to include even greater community input and involvement.
+  EIN: 95-4676760
+  Tax Status: ' Non-profit organization'
+  about_you: 'Los Angeles, California'
+  Does your project impact Los Angeles County?: 'yes'
+maker_answers_list:
+  - name: Organization Name
+    label: ''
+    explanation: ''
+    answer: 'Friends, the Foundation of the California African American Museum'
+  - name: website
+    label: 'NULL'
+    explanation: >-
+      Have a homepage or blog you'd like to link to? Put the URL here.
+      <br/>(Example: http://www.yoursite.com)
+    answer: www.caamuseum.org
+  - name: Indicator
+    label: ''
+    explanation: >-
+      Please select the one indicator that is most relevant to your project or
+      organization
+    answer: ' Social Connectedness'
+  - name: brief
+    label: ''
+    explanation: ''
+    answer: "We propose to integrate 4 tracks of existing and new activity initiatives for greater depth, synergistic connections and “doing more better” for our youth and community as follows:\r\n\r\nYoung Docents and Young Docents After Hours - continuing and deepening the experience for LA County high school students to receive paid employment and training through hands-on cross use customer service business, public speaking and problem solving skills plus direct experience of museum operations, and program development and delivery.\r\n\r\nArtpreneurs program enhancement with 10 increased opportunities for participation and promotion fostering creative and economic vitality for visual artists through monthly on-site vending and marketing opportunities to the public.\r\n\r\nKids Gloves project to be tested with our YDs to empower learning and pride in uncovering school and neighborhood history through professional experiences in cataloging & preserving historical artifacts, gathering oral histories and determining if we can replicate the program for at schools throughout Los Angeles. \r\n\r\nArt on CAAM’s Footprint program which is a 2 year program designed to develop deeper community based relationships and engagement in the placement, curation and creation of CAAM’s exterior footprint as a “gallery” for public exhibition \r\n\r\nFor 6 months we would blend and cross purpose these initiatives for a more integrated and richer public, experience for both our youth, audiences, general public that will not only meet the arts and cultural vitality indicators, but also serve as boosters for education, social connections, and provide direct impact on income and employment for area youth as well as the overall enhancement of the physical Exposition Park neighborhood and environment. \r\n\r\n"
+  - name: budget explanation
+    label: ''
+    explanation: ''
+    answer: "Project Budget\r\nProject Installation $10,000.00 \r\nProject Administration Pre-Planning $5,000 \r\nProject Administration Installation $5,000\r\nConsultants/artists $10,000 (Computer and web for expanded YD, archivists for Kid Gloves, artists for public workshops on the footprint)\r\nSite Preparation/permit /fees $3,750\r\nDe-installation costs $5,000.00 (and to prepare footprint for second install)\r\nEquipment Purchase $25,000 (tenting and awning to create uniform outdoor presentation for “artpreneurs” and workshops on the foot print, with appropriate signage and branding, benches, low tables for tots)\r\nProject Administration Outreach (Expanded YD, C-TAP, Kid-Gloves) $25,000 (summer and fall)\r\nArtists stipends $10,000 (actual art creation on the footprint including materials and supplies)\r\nBuses and Docents $3,000\r\nPress/Promotion $10,000\r\nPublic Curator expense $1,000 (hospitality, parking)\r\nGraphic Design $5,000\r\nDocumentation (survey and program) $1,500 \r\nDocumentation (video and photography) $3,250 \r\nPostage/mailhouse $4,500 \r\n"
+  - name: description
+    label: ''
+    explanation: ''
+    answer: "Some suggest that museum’s have largely supplanted churches as institutions that are emblematic of American cities.  For the California African American (CAAM), situated in the heart of LA, this is idea applies as related to the on-going challenge of engaging a multiplicity of demographics and subjects matters.  At CAAM we go beyond daily programming to invest in developing human infrastructures and relationships that will serve the unmet needs of the local and larger community, and bring together the experiences of generations.  It is in this context that we seek support for our multifaceted vision to “Dig Deeper, Connect the Dots & Do More.”\r\n\r\nCAAM is physically located in a neighborhood that was residentially Black through a good part of LA’s history.  It is also in the midst of a fairly dramatic demographic shift.  While nestled across from USC, the 2000 US census reveals an Exposition Park neighborhood that is 21% African American, 57% Latino and 11% White.  This is also a very working class neighborhood grappling with difficult socio – economic issues such as 40% of families living in poverty with an African American unemployment rate at 13.8%, higher than any other ethnic group.  CAAM has met this shift employing youth; providing wider opportunities for people of all backgrounds as a part of our exhibitions and programs; welcoming all as a part of the story of art and history that we recount from an African American voice; and promoting artists as entrepreneurs to strengthen their position economically.  \r\n\r\nEven in the United Kingdom, where tradition is almost holy, they recognize that museums in the future will be “less about us as the guardians of collections and delivering our services to communities and more about us facilitating communities to celebrate their own heritage and create their own experiences using our resources (collections, buildings, people etc).”(Keith Merrin)  Since our 1977 CAAM has embraced these concepts.  Progress in the past 10 years in the past includes an increase in collaborations and outreach despite the economy.  We are responsive and are comfortable letting our audiences have a say.  This is what CAAM has done, but we need to better connect the dots between what has worked, where we have found surprise gems, change as needed and reach a new better.  We exist on a mission that requires the integration of all facets of life for public engagement and enhancement.  A world that requires multi and cross-cultural, discipline, education, economic, skill recycling and social integration is not new territory for CAAM.  This is not and never has been a “traditional” museum, and we are proud to be grounded in such a wide berth, but now is the time for us to dig deeper into our foundation to find ways to connect successful initiatives, and incorporate in necessary elements in order to reach better.  "
+  - name: collaborators
+    label: ''
+    explanation: ''
+    answer: >-
+      Role of Partners in Planning and Implementation (if any): The California
+      African American Museum (a State Agency) provides the facility, utilities,
+      equipment and co-workers that drive our mission; Funding Donors, such as
+      Target, Bank of America, Annenberg Foundation, Department of Cultural
+      Affairs, Los Angeles County Arts Commission, SEMPRA Energy, SCE and others
+      generously fund programs through our Friends Foundation; People of the
+      African Diaspora, African American Artists, Collectors, History Makers and
+      Gallery Owners who through their need, support and participation drive our
+      mission and increased the demand for continued growth and vitality. 
+  - name: success
+    label: ''
+    explanation: ''
+    answer: "For the Young Docents we have evaluation forms that are regularly used to assess the individual students and the program as a whole. Students keep journals, are tested on information, given feedback and opportunities to lead tours, assist guests and engage in other projects and research.  We determine success by not only the number of students that complete the summer portion of the program, but by the increased number of students that want to return for the year long portion of the program.  The increased number of applications further advises us that there is a need and we seek advise from consultants and specialists for improvements.  The deeper offerings centered around graphic design, AV tech training, social media protocols and direct engagement with the community for the YD participants under this grant would be scrutinized in the same manner.\r\n\r\nFor Artpreneurs we seek to increase the current 25 art vendors on our roster by another 10 participants having customer access.  This program is evaluated based on the number of returning vendors which is currently at a 75% success rate in terms of returning Artpreneurs.  Having resources to expand outreach and promotion for this program should increase vendor sales and CAAM attendance simultaneously, and the quantity and quality of artist entrepreneurs seeking to participate.  We will count these increases accordingly as a measurement of the program’s success.\r\n\r\nKid Gloves is a new pilot and if it works with the Young Docents, we will seek to have the YDs be part of a professionally led team that goes into the schools to share ways in which the program can become part of a classroom or an after-school club experience.  We seek to have this program achieve a greater awareness of neighborhood, history and relationships between cultures as neighborhood demographics evolve.\r\n\r\nArt on the Footprint at CAAM is the other new initiative which is developing and going into operation this fall.  With each phase we will have an exhibition and increased engagement with the community not only participating in workshops but serving as community curators selecting art to be on the exterior of CAAM and in the making of such art.  This program digs deep to create long lasting relationships that will also evolve and morph as we get further feedback from and engage the community.\r\n"
+  - name: description1
+    label: ''
+    explanation: ''
+    answer: >-
+      Despite the economic downturn and budget reductions we have grown
+      attendance at CAAM over the last 10 years from35K to over 100,000 visitors
+      representing an average 20% increase each year.  We are now presenting 80+
+      public programs each year and 9 – 13 exhibitions while continuing to
+      maintain an active and growing research library and collection.  We are
+      proud of these numbers and equally as proud that they represent a
+      connection to content that has ranged from presenting the more than 20
+      exhibitions that have been directly related to telling the story of the
+      African Diaspora around the world…and all still for Free Admission!  We
+      have proudly collaborated with numerous organizations from the Skirball
+      Cultural Center to the Japanese American National Museum, the Chinese
+      American Museum and others like Self Help Graphics to the obvious
+      connections with the Watts Towers, St. Elmo’s Village, and commercial
+      galleries owned by African Americans.  We encourage artmaking and training
+      by children and showcase the work of other organizations serving this
+      purpose like Ryman Arts. But perhaps we are just as proud of our outreach
+      efforts with Target that were designed to allow us to showcase the
+      achievements and contributions of the African American and collaborative
+      communities through our Target Sundays at CAAM programs.  Through this
+      effort, we have not only created places for the community to showcase what
+      they do but this showcasing of talent also included bringing to the public
+      important discussions and representatives that could assist with
+      everything from healthy living to safety in the water.  Target Sundays
+      even helped us create our Artpreneur program making it possible for solo
+      art entrepreneurs to have a place to sell and expose audiences to their
+      work and earn income accordingly. Our most heartfelt achievement is the
+      growth of our Young Docents program having grown it from a 2 person 4 week
+      program that is an integral part of our program today employing, training
+      and educating 30 high school youth year round for their personal and
+      professional career development.
+  - name: description3
+    label: ''
+    explanation: ''
+    answer: >-
+      We are a 44,000 sq ft institution with a collection of 6,000 objects of
+      art, artifacts, photographs, memorabilia, etc. representing the largest
+      African American based museum in California and the west coast.  However,
+      we are still much smaller than our immediate arts competitors whom some
+      might view to be LACMA, MOCA, the Hammer, and the much smaller Museum of
+      African American Art located in the Macy’s Dept. store.  For history and
+      artifacts on African Americans, the competition is the Mayme Clayton
+      Library and Museum which has a strong collection but is not yet nearly
+      accessible to the public.  Our relationship with all of these
+      organizations is good and strong.  In fact, we are collaborating with
+      LACMA on at least two projects for the future, and have had occasion to
+      work with all of these institutions in some capacity including the Getty.
+  - name: vision
+    label: ''
+    explanation: ''
+    answer: >-
+      By 2050 we fully expect CAAM to have moved into its expanded 172,000 sq ft
+      facility that will provide better storage, classrooms, multi-use
+      presentation spaces, a larger library and exhibition galleries as well as
+      greatly improved physical presence in the park and in the neighborhood. 
+      However, we are driven first by further providing the content and programs
+      that we think are vital to our relationship in this neighborhood.  We seek
+      to have strong give back programs like the ones we describe in this
+      application to be a part of our base of operations in the same way that we
+      began our Young Docents program16 years ago with only 2 students being
+      served. We will remain responsible for employing our youth, providing Art
+      on the Footprint so as to create changing and engaging experiences for our
+      Park users.  Even pieces created today will be a part of our collection
+      and the history of our neighborhood.  Our Kid Gloves project will be a
+      regular part of school education outreach efforts as new generations of
+      students need to remain connected to their school community, even if they
+      are bused into the area.  Success for CAAM is a full integration of all of
+      the multi-facets of art and culture, education, employment and income, and
+      neighborhood enhancement…these are the elements served by our mission but
+      expanded upon to include even greater community input and involvement.
+  - name: EIN
+    label: EIN
+    explanation: ''
+    answer: 95-4676760
+  - name: Tax Status
+    label: Are you a for profit organization or non-profit organization?
+    explanation: ''
+    answer: ' Non-profit organization'
+  - name: about_you
+    label: 'City, State'
+    explanation: 'NULL'
+    answer: 'Los Angeles, California'
+  - name: Does your project impact Los Angeles County?
+    label: Does your project impact Los Angeles County?
+    explanation: Does your project impact Los Angeles County?
+    answer: 'yes'
 body_class: strawberry
+project_summary: >-
+  Despite the economic downturn and budget reductions we have grown attendance
+  at CAAM over the last 10 years from35K to over 100,000 visitors representing
+  an average 20% increase each year.  We are now presenting 80+ public programs
+  each year and 9 – 13 exhibitions while continuing to maintain an active and
+  growing research library and collection.  We are proud of these numbers and
+  equally as proud that they represent a connection to content that has ranged
+  from presenting the more than 20 exhibitions that have been directly related
+  to telling the story of the African Diaspora around the world…and all still
+  for Free Admission!  We have proudly collaborated with numerous organizations
+  from the Skirball Cultural Center to the Japanese American National Museum,
+  the Chinese American Museum and others like Self Help Graphics to the obvious
+  connections with the Watts Towers, St. Elmo’s Village, and commercial
+  galleries owned by African Americans.  We encourage artmaking and training by
+  children and showcase the work of other organizations serving this purpose
+  like Ryman Arts. But perhaps we are just as proud of our outreach efforts with
+  Target that were designed to allow us to showcase the achievements and
+  contributions of the African American and collaborative communities through
+  our Target Sundays at CAAM programs.  Through this effort, we have not only
+  created places for the community to showcase what they do but this showcasing
+  of talent also included bringing to the public important discussions and
+  representatives that could assist with everything from healthy living to
+  safety in the water.  Target Sundays even helped us create our Artpreneur
+  program making it possible for solo art entrepreneurs to have a place to sell
+  and expose audiences to their work and earn income accordingly. Our most
+  heartfelt achievement is the growth of our Young Docents program having grown
+  it from a 2 person 4 week program that is an integral part of our program
+  today employing, training and educating 30 high school youth year round for
+  their personal and professional career development.
 
 ---

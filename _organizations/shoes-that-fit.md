@@ -38,6 +38,16 @@ project_ids: '8102108'
 title: Shoes That Fit
 uri: /organizations/shoes-that-fit/
 challenge_url: 'https://activation.la2050.org/live/shoes-that-fit/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'Equal Footing LA: Providing New Shoes For Kids In Need'
+project_titles_from_project_ids:
+  - 'Equal Footing LA: Providing New Shoes For Kids In Need'
+original_project_titles:
+  - 'Equal Footing LA: Providing New Shoes For Kids In Need'
+original_project_ids:
+  - '8102108'
 category: live
 
 ---

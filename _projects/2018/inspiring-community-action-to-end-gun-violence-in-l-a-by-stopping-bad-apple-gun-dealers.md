@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   The Brady Center to Prevent Gun Violence will educate and empower Los
   Angelenos to take meaningful action to stem the flow of crime guns and end gun
-  violence in the community. 
+  violence in the community.
 Please describe the activation your organization seeks to launch.: >-
   Gun violence is a serious threat to Los Angelenos, and most agree that keeping
   guns from those who would use them to do harm is a critical step in ending gun
@@ -29,6 +29,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=GpI8redM2To'
 project_id_3: '8102117'
 year_submitted: 2018
+organization_name: The Brady Center to Prevent Gun Violence
 project_proposal_description: >-
   Gun violence is a serious threat to Los Angelenos, and most agree that keeping
   guns from those who would use them to do harm is a critical step in ending gun

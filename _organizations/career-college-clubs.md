@@ -28,8 +28,18 @@ project_ids: '5102041'
 title: Career & College clubs
 uri: /organizations/career-college-clubs/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
+extrapolated_project_ids:
+  - '5102041'
+project_titles_from_extrapolated_project_ids:
+  - Middle School Career and College Preparation
 project_titles:
   - Middle School Career and College Preparation
+project_titles_from_project_ids:
+  - Middle School Career and College Preparation
+original_project_titles:
+  - Middle School Career and College Preparation
+original_project_ids:
+  - '5102041'
 maker_image_id: '23182'
 maker_image_file_name: CCC_pic17_small.jpg
 

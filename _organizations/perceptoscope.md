@@ -32,5 +32,25 @@ title: Perceptoscope
 uri: /organizations/perceptoscope/
 challenge_url: >-
   https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
+extrapolated_project_ids:
+  - '6102215'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Explore Los Angeles's past, present, and future in augmented reality through
+    Perceptoscope
+project_titles:
+  - >-
+    Explore Los Angeles's past, present, and future in augmented reality through
+    Perceptoscope
+project_titles_from_project_ids:
+  - >-
+    Explore Los Angeles's past, present, and future in augmented reality through
+    Perceptoscope
+original_project_titles:
+  - >-
+    Explore Los Angeles's past, present, and future in augmented reality through
+    Perceptoscope
+original_project_ids:
+  - '6102215'
 
 ---

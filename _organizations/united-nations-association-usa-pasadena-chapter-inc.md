@@ -33,5 +33,17 @@ project_ids: '6102271'
 title: United Nations Association-USA Pasadena Chapter Inc.
 uri: /organizations/united-nations-association-usa-pasadena-chapter-inc/
 challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
+extrapolated_project_ids:
+  - '6102271'
+project_titles_from_extrapolated_project_ids:
+  - Action Ambassadors for LA
+project_titles:
+  - Action Ambassadors for LA
+project_titles_from_project_ids:
+  - Action Ambassadors for LA
+original_project_titles:
+  - Action Ambassadors for LA
+original_project_ids:
+  - '6102271'
 
 ---

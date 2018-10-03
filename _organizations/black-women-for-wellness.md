@@ -9,8 +9,8 @@ zip: '90089'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954624707'
 ntee_type: ''
 tags_indicators:
-  - Climate change
-  - Environmental quality & sustainability
+  - Community health
+  - Health
 twitter: BW4WLA
 instagram: BWWLA
 facebook: Black Women for Wellness
@@ -31,6 +31,20 @@ project_ids: '8102009'
 title: Black Women for Wellness
 uri: /organizations/black-women-for-wellness/
 challenge_url: 'https://activation.la2050.org/live/black-women-for-wellness/'
+extrapolated_project_ids:
+  - '8102009'
+project_titles_from_extrapolated_project_ids:
+  - "ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science \r\n"
+project_titles:
+  - "ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science \r\n"
+project_titles_from_project_ids:
+  - "ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science \r\n"
+original_project_titles:
+  - Black Women for Wellness
+  - ONILATERAL INDUSTRIES - Preserving The Last of Humanity through Science
+original_project_ids:
+  - '8102009'
+project_titles_flagged: 1
 category: live
 
 ---

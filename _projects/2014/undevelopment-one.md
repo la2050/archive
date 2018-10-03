@@ -2,8 +2,8 @@
 project_id: '4102229'
 title: Undevelopment One
 project_summary: >-
-  Our goal is to empower people across Los Angeles to achieve rooftop solar and
-  to secure a climate friendly future.
+  Wouldn't it be good if streams that run from the mountains to the sea could
+  again be connected to form a new river moving through our city?
 category: live
 organization_id: '2016232'
 year_submitted: 2014
@@ -97,6 +97,552 @@ project_areas:
   - SOUTH LA
   - SFV
   - WESTSIDE
+maker_answers:
+  city_state: 'Los Angeles, CA'
+  org_name: Metabolic Studio
+  org_website: 'http://www.metabolicstudio.org'
+  org_twitter: ''
+  org_facebook: 'https://www.facebook.com/metabolicstudio'
+  org_instagram: ''
+  org_mailingaddress: "1745 N. Spring Street Unit 4\r\nLos Angeles, CA 90012"
+  EIN: '261878892'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: >-
+    The Metabolic Studio transforms nutrients into energy, actions, and objects
+    that nurture life.
+  describe_idea: >-
+    Wouldn't it be good if streams that run from the mountains to the sea could
+    again be connected to form a new river moving through our city?
+  describe_organization: >-
+    Metabolic Studio believes that artists must create on the same scale that
+    society has the capacity to destroy
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: >-
+    Lauren Bon’s Metabolic Studio and the Harrison Studio, Center for the Force
+    Majeure, propose to renew downtown LA’s historic flood plain. While we don’t
+    support the LA River haphazardly flooding, carefully constructed basins
+    allowing saturation into unused industrial lots could create a flood plain
+    corridor that runs along the LA River and makes use of the network of storm
+    drains receiving water from the mountains and the hills around Northeast LA.
+    Eemian age plants, from roughly 115,000 years ago would be introduced to
+    prepare for a climate change, creating a prophetic ecology along the river
+    corridor.  Climatologists predict that the climate experienced during that
+    time is close to that which we will be facing in 50-100 years    
+  implement: >-
+    Undevelopment One will be the pilot project for a hoped for network of
+    Undevelopments that could, over time, create a paleo-botanical eavesment by
+    redefining our historic flood plain. We have counted around 25 storm drains
+    and about as many potential brownfields that are candidates for
+    Undevelopment. By Undeveloping we mean pounding out unused tarmac and
+    concrete and adding water and letting the land regain agency. Lauren Bon and
+    The Metabolic Studio are about to break ground on a waterwheel which will
+    bring LA river water back up to the city. When construction begins in early
+    2015, the Harrison studio is proposing that cores be drilled down to the
+    Eemian, 115,000 years ago, in order to conduct the appropriate pollen
+    analysis to locate the species that had once lived there. Undevelopment One
+    would take one of several possible sites along the edge of the LA River,
+    reconnect it to LA River water, and establish on that site a greenhouse
+    inside which potential future plant ensembles would be grown and released in
+    the larger environment, in small experimental sites over the years as the
+    weather warms. Our hope is that inspired  cooperation among land owners and
+    agencies will allow remediation without necessarily owning and controlling
+    the land. We hope to educate through Undevelopment One that Another City Is
+    Possible, one in which we are connected by a common goal to see LA survive
+    into the future with a limited water supply and warming temperatures and see
+    water as a human right and a social commodity. We see this as a kind of
+    utilitarian prophecy that is at the same time a botanical adventure.
+  impact_live: "It should be understood that both the Metabolic Studio and the Harrison Studio see the Undevelopment proposal as a new urban narrative. Climatologists predict that the climate experienced during the Eemian Age is close to that which we will be facing in 50-100 years. We note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that the Harrison Studio and Metabolic Studio wish to put in place is replicable as cities around the world realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available. Our hope is that all artists, engineers, politicians, urban planners and visionaries network plans, funding and initiatives to address entropy rebalancing—meaning that all living systems move toward entropy, but that rate of that process in contemporary society, the stress on nature and on all our living systems is such that we can no longer think of any individual city but rather of collective actions that can rebalance entropy.\r\n\r\n“Artists Must Create on the Same Scale that Society has the Capacity to Destroy.”"
+  who_benefit: The LA River corridor and the broader Los Angeles watershed and community
+  partners_collaboration: "Each Undevelopment project will be a public/private partnership requiring local, state, and federal agencies and private property owners to cooperate. Our team working on Bending the River Back Into the City is poised to assist with the implementation and have been confirmed: engineers from Geosyntec, landscape/construction professionals from Valley Crest, public affairs advocates from KindelGagan and climatologists from UCLA. The Metabolic Studio, in collaboration with the Harrison Studio, is applying for support for a pilot project for a network of Undevelopment projects. Helen and Newton Harrison of the Harrison Studio have been working with climate change and what future ecosystems might look like for many decades.\r\n\r\nIt should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available."
+  metrics_live_healthyfood: '0'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '1'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '1'
+  metrics_live_obesity: '0'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '0'
+  metrics_live_pollutedwaterways: '1'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '1'
+  metrics_live_other: '1'
+  metrics_live_blank: Preservation of soil through prevention of erosion in global warming.
+  impact_metrics: >-
+    Undevelopment will provide innovative solutions to the environmental
+    toxicity we have inherited from the 20th century industrial landscape.
+  best_place_to_create: '1'
+  best_place_to_play: '1'
+  best_place_to_connect: '1'
+  best_place_to_learn: '1'
+  evaluate: >-
+    Success will be measured by resource efficiency, community engagement and
+    replicability on other sites and regions.
+  two_lessons: >-
+    The Harrison Studio has been looking at the Arroyo Seco’s repurposing since
+    the mid 1980’s. First proposing a transformation of the lower Arroyo, then
+    arguing for the restoration of the Arroyo Seco River and thereafter,
+    redesigning the Devil’s Gate debris basin, which later became Hahamonga
+    Watershed Park in Pasadena. Lauren Bon and The Metabolic Studio transformed
+    a train yard into a cornfield in 2005. Notacornfield brought the Los Angeles
+    State Historic Park into public consciousness. Ninety miles of irrigation
+    stripping were used to irrigate what used to be a cornfield irritated by the
+    unbridled LA River. Since that time they have been working to reconnect land
+    and water in Los Angeles and in the Owens Valley where much of our urban
+    water is sourced. Bending the River Back Into the City, a three part
+    metabolic sculpture, will make a permanent reconnection possible. The studio
+    is interested in extending the capacity of the waterwheel to include a large
+    distribution network. Together the Harrison Studio and The Metabolic Studio
+    see Council District One in Los Angeles as a political area that can become
+    a role model in how water can be seen as social capital capable of
+    supporting community and creating the capacity for environmental renewal. 
+  achievable_goal: >-
+    We have already identified the necessary permits, mapped potential
+    implementation sites, and have confirmed the partnerships needed to
+    accomplish the pilot Undevelopment project.
+  major_challenges: >-
+    Land use restrictions and permit delays could possibly create timeline push
+    backs for the pilot project.  We will and have already begun to engage all
+    the appropriate stakeholders, agencies, and channels to create an efficient
+    and timely path to completion and success to avoid such delays.
+  competition: >-
+    We hope to collaborate with any other organizations doing similar work both
+    locally and regionally.
+  cost: >-
+    We think that the overall cost will be $250,000 for Undevelopment One.
+    Funding form LA 2050 will allow this first Undevelopment to happen as part
+    of the larger dialogue of what is making our city thrive.  The Metabolic
+    Studio will be covering the remaining costs. Additional Undevelopment
+    projects will be funded through a campaign in which 64 limited edition La
+    Noria (water wheel) blade prototypes of the actual blades that will comprise
+    the waterwheel, will be sold. Our hope is that each blade sold will provide
+    the funding to produce a new Undevelopment site and that LA 2050 funding
+    might be understood as the first official sponsorship of the Undevelopment
+    network concept.
+  budget: "Estimated Costs:\r\n\r\nSite cleaning and grading $25,000\r\n\r\nBoring to the Eemian strata, collection of ancient pollen $35,000\r\n\r\nErecting greenhouse of Eemian organisms $10,000\r\n\r\nHydraulic repurposing of storm drains into flood basins $30,000\r\n\r\n*all consultants to be paid by Metabolic Studio."
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '1'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Metabolic Studio
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: 'http://www.metabolicstudio.org'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: ''
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/metabolicstudio'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "1745 N. Spring Street Unit 4\r\nLos Angeles, CA 90012"
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '261878892'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      The Metabolic Studio transforms nutrients into energy, actions, and
+      objects that nurture life.
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Wouldn't it be good if streams that run from the mountains to the sea
+      could again be connected to form a new river moving through our city?
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      Metabolic Studio believes that artists must create on the same scale that
+      society has the capacity to destroy
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Lauren Bon’s Metabolic Studio and the Harrison Studio, Center for the
+      Force Majeure, propose to renew downtown LA’s historic flood plain. While
+      we don’t support the LA River haphazardly flooding, carefully constructed
+      basins allowing saturation into unused industrial lots could create a
+      flood plain corridor that runs along the LA River and makes use of the
+      network of storm drains receiving water from the mountains and the hills
+      around Northeast LA. Eemian age plants, from roughly 115,000 years ago
+      would be introduced to prepare for a climate change, creating a prophetic
+      ecology along the river corridor.  Climatologists predict that the climate
+      experienced during that time is close to that which we will be facing in
+      50-100 years    
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: >-
+      Undevelopment One will be the pilot project for a hoped for network of
+      Undevelopments that could, over time, create a paleo-botanical eavesment
+      by redefining our historic flood plain. We have counted around 25 storm
+      drains and about as many potential brownfields that are candidates for
+      Undevelopment. By Undeveloping we mean pounding out unused tarmac and
+      concrete and adding water and letting the land regain agency. Lauren Bon
+      and The Metabolic Studio are about to break ground on a waterwheel which
+      will bring LA river water back up to the city. When construction begins in
+      early 2015, the Harrison studio is proposing that cores be drilled down to
+      the Eemian, 115,000 years ago, in order to conduct the appropriate pollen
+      analysis to locate the species that had once lived there. Undevelopment
+      One would take one of several possible sites along the edge of the LA
+      River, reconnect it to LA River water, and establish on that site a
+      greenhouse inside which potential future plant ensembles would be grown
+      and released in the larger environment, in small experimental sites over
+      the years as the weather warms. Our hope is that inspired  cooperation
+      among land owners and agencies will allow remediation without necessarily
+      owning and controlling the land. We hope to educate through Undevelopment
+      One that Another City Is Possible, one in which we are connected by a
+      common goal to see LA survive into the future with a limited water supply
+      and warming temperatures and see water as a human right and a social
+      commodity. We see this as a kind of utilitarian prophecy that is at the
+      same time a botanical adventure.
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: "It should be understood that both the Metabolic Studio and the Harrison Studio see the Undevelopment proposal as a new urban narrative. Climatologists predict that the climate experienced during the Eemian Age is close to that which we will be facing in 50-100 years. We note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that the Harrison Studio and Metabolic Studio wish to put in place is replicable as cities around the world realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available. Our hope is that all artists, engineers, politicians, urban planners and visionaries network plans, funding and initiatives to address entropy rebalancing—meaning that all living systems move toward entropy, but that rate of that process in contemporary society, the stress on nature and on all our living systems is such that we can no longer think of any individual city but rather of collective actions that can rebalance entropy.\r\n\r\n“Artists Must Create on the Same Scale that Society has the Capacity to Destroy.”"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: The LA River corridor and the broader Los Angeles watershed and community
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Each Undevelopment project will be a public/private partnership requiring local, state, and federal agencies and private property owners to cooperate. Our team working on Bending the River Back Into the City is poised to assist with the implementation and have been confirmed: engineers from Geosyntec, landscape/construction professionals from Valley Crest, public affairs advocates from KindelGagan and climatologists from UCLA. The Metabolic Studio, in collaboration with the Harrison Studio, is applying for support for a pilot project for a network of Undevelopment projects. Helen and Newton Harrison of the Harrison Studio have been working with climate change and what future ecosystems might look like for many decades.\r\n\r\nIt should be understood that both the Metabolic Studio and the Harrison Studio see this work as a new urban narrative. They note that many cities in the world, perhaps a majority, have profoundly mistreated their river systems. The model that they wish to put in place is replicable as cities realize that a new way to justify their relationship to nature and the larger environment within which they are embedded has been made available."
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Preservation of soil through prevention of erosion in global warming.
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: >-
+      Undevelopment will provide innovative solutions to the environmental
+      toxicity we have inherited from the 20th century industrial landscape.
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: >-
+      Success will be measured by resource efficiency, community engagement and
+      replicability on other sites and regions.
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: >-
+      The Harrison Studio has been looking at the Arroyo Seco’s repurposing
+      since the mid 1980’s. First proposing a transformation of the lower
+      Arroyo, then arguing for the restoration of the Arroyo Seco River and
+      thereafter, redesigning the Devil’s Gate debris basin, which later became
+      Hahamonga Watershed Park in Pasadena. Lauren Bon and The Metabolic Studio
+      transformed a train yard into a cornfield in 2005. Notacornfield brought
+      the Los Angeles State Historic Park into public consciousness. Ninety
+      miles of irrigation stripping were used to irrigate what used to be a
+      cornfield irritated by the unbridled LA River. Since that time they have
+      been working to reconnect land and water in Los Angeles and in the Owens
+      Valley where much of our urban water is sourced. Bending the River Back
+      Into the City, a three part metabolic sculpture, will make a permanent
+      reconnection possible. The studio is interested in extending the capacity
+      of the waterwheel to include a large distribution network. Together the
+      Harrison Studio and The Metabolic Studio see Council District One in Los
+      Angeles as a political area that can become a role model in how water can
+      be seen as social capital capable of supporting community and creating the
+      capacity for environmental renewal. 
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: >-
+      We have already identified the necessary permits, mapped potential
+      implementation sites, and have confirmed the partnerships needed to
+      accomplish the pilot Undevelopment project.
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: >-
+      Land use restrictions and permit delays could possibly create timeline
+      push backs for the pilot project.  We will and have already begun to
+      engage all the appropriate stakeholders, agencies, and channels to create
+      an efficient and timely path to completion and success to avoid such
+      delays.
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: >-
+      We hope to collaborate with any other organizations doing similar work
+      both locally and regionally.
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      We think that the overall cost will be $250,000 for Undevelopment One.
+      Funding form LA 2050 will allow this first Undevelopment to happen as part
+      of the larger dialogue of what is making our city thrive.  The Metabolic
+      Studio will be covering the remaining costs. Additional Undevelopment
+      projects will be funded through a campaign in which 64 limited edition La
+      Noria (water wheel) blade prototypes of the actual blades that will
+      comprise the waterwheel, will be sold. Our hope is that each blade sold
+      will provide the funding to produce a new Undevelopment site and that LA
+      2050 funding might be understood as the first official sponsorship of the
+      Undevelopment network concept.
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Estimated Costs:\r\n\r\nSite cleaning and grading $25,000\r\n\r\nBoring to the Eemian strata, collection of ancient pollen $35,000\r\n\r\nErecting greenhouse of Eemian organisms $10,000\r\n\r\nHydraulic repurposing of storm drains into flood basins $30,000\r\n\r\n*all consultants to be paid by Metabolic Studio."
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '1'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '1'
 body_class: lime
 
 ---

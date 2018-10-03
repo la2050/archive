@@ -26,5 +26,17 @@ project_ids: '6102002'
 title: 50/50 Leadership
 uri: /organizations/50-50-leadership/
 challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
+extrapolated_project_ids:
+  - '6102002'
+project_titles_from_extrapolated_project_ids:
+  - Fostering Safe Communities
+project_titles:
+  - Fostering Safe Communities
+project_titles_from_project_ids:
+  - Fostering Safe Communities
+original_project_titles:
+  - Fostering Safe Communities
+original_project_ids:
+  - '6102002'
 
 ---

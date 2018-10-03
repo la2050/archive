@@ -24,8 +24,18 @@ project_ids: '3102083'
 title: Participlay
 uri: /organizations/participlay/
 challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'
+extrapolated_project_ids:
+  - '3102083'
+project_titles_from_extrapolated_project_ids:
+  - Craft Services
 project_titles:
   - Craft Services
+project_titles_from_project_ids:
+  - Craft Services
+original_project_titles:
+  - Craft Services
+original_project_ids:
+  - '3102083'
 maker_image_id: '17034'
 maker_image_file_name: Diva_Mob_with_logo.jpeg
 

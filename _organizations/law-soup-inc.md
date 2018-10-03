@@ -27,8 +27,19 @@ project_ids: '5102162'
 title: 'Law Soup, Inc.'
 uri: /organizations/law-soup-inc/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
+extrapolated_project_ids:
+  - '4102114'
+project_titles_from_extrapolated_project_ids:
+  - Law Soup LA
 project_titles:
   - Law Soup LA
+project_titles_from_project_ids:
+  - Free pLAy for all L.A.
+original_project_titles:
+  - Law Soup LA
+original_project_ids:
+  - '4102114'
+project_titles_flagged: 1
 youtube_video_identifier: DRehRt5n68c
 
 ---

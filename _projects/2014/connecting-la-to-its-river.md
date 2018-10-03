@@ -85,6 +85,450 @@ project_areas:
   - EAST LA
   - SOUTH LA
   - SFV
+maker_answers:
+  city_state: Los Angeles
+  org_name: Friends of the Los Angeles River
+  org_website: www.folar.org
+  org_twitter: '@folartweets, @LARiverRover, @TheFrogSpot'
+  org_facebook: LosAngelesRiver
+  org_instagram: Friends of the Los Angeles River
+  org_mailingaddress: '570 W. Avenue 26, #250'
+  org_ein: '954171497'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    FoLAR strives for a swimmable, fishable, boatable, bikeable LA River through
+    advocacy, education and wise stewardship.
+  one_sentence_project: >-
+    FoLAR connects people to the River through the Great LA River CleanUp and
+    further engages the public to create a constituency for change.
+  describe_idea: >-
+    This is how we ROLL @FoLARtweets! @LARiverRover connects diverse communities
+    to the #LARiver via advocacy, education & stewardship
+  impact_LA_County: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '1'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: Diverse communities along the LA River corridor
+  more_detail: >-
+    Inspired by the hymn,“Shall We Gather at the River?” FoLAR's founders united
+    to influence public opinion by bringing individuals, reporters,
+    decision-makers – anyone who would listen – down to the Los Angeles River.
+    Our 38' mobile visitor and education center, the Los Angeles River
+    Rover,hails a new era of public engagement and advocacy. Interpretive and
+    interactive exhibits for all ages connect the River's past and present to
+    its possible future. Through programs and events, FoLAR and its partners
+    connect individuals to the River and to one another to create a constituency
+    for change. Docent and citizen science activities increase volunteerism. At
+    the Rover ideas are exchanged and dreams are shared. A better LA is sure to
+    follow.
+  implement: "Exchanging information is easy at the River Rover. With an internet connection, a high resolution projector inside and a 40” monitor on the outside of the Rover there are multiple ways to communicate and connect. DVDs and slide shows play in the background or speakers can make presentations on myriad topics.\r\n\r\nOn the weekends the River Rover will park near natural-bottom sections at lease once a month in each of these three service areas:\r\n1.\tThe San Fernando Valley from Canoga Park to Burbank,\r\n2.\tThe Glendale Narrows from Griffith Park through downtown, \r\n3.\tThe lower River from Vernon to Long Beach. \r\n\r\nBring the River to the People: By visiting schools, festivals, neighborhood council meetings, libraries, senior centers – anywhere we can park provides the opportunity to inform and engage people of all ages, cultures connecting communities and residents to the issues that impact their neighborhoods and the River so their voices can be heard.\r\n\r\nActivities Connect People to the River and to One Another: \r\nFoLAR educators and experts from our partner organizations conduct walks along the River calling attention to bird and plant life, sharing current information and engaging participants in conversations. Bicycle rides, kayaking trips, fishing lessons and tournaments, poetry readings, live music and food trucks, these are just some of the ways to connect people to the River not only as a place for recreation and celebration but also as an ecosystem in the heart of our built environment.\r\n\r\nCitizen Science and Trained Docent Opportunities\r\nWith an increasing demand for volunteer opportunities both citizen science and docent programs provide meaningful ways for the public to engage. Assessing the River's biological health, testing water quality and conducting trash surveys provide both volunteer opportunities and useful data that can be used to influence policy decisions that affect the River's future. Trained docents provide guided tours through the Rover, answer questions and engage the public in numerous other ways. Individuals and high school students representing each of the three regions gain knowledge and experience while increasing FoLAR's capacity to foster connections.\r\n"
+  impact_connect: "A Better LA Now\r\nHow do you convince the public, politicians, city, state and federal government agencies that there is value to restoring a concrete River?  In 1986 Lewis MacAdams and two friends cut a hole in the fence and started what he called a 40-year artwork to bring the River back to life. Now the once maligned River is a place for recreation, education and restoration. This year FoLAR rallied for the most ambitious plan to remove concrete, restore wetland habitat and connect communities to a natural environment while increasing flood-control capacity; Alternative 20. \r\n\r\nFirst, we raised and donated $1,000,000 to the U.S. Army Corps of Engineers to complete an Ecosystem Feasibility Study seven years in the making; a first in the Corps' history. Next, Lewis, Mayor Eric Garcetti, and others traveled to Washington DC meeting with Senators Boxer and Feinstein, and top-ranking Army Corps and Obama Administration officials. We pressed for a town-hall at the LA River Center and mobilized politicians and community leaders; over 200 people voiced support for the most ambitious plan- Alternative 20. In a precedent-setting action, the City agreed to share costs for the plan that will remove X miles of concrete and an 11-mile stretch through the heart of our region.\r\n\r\nA Better LA in 2050\r\nBy touring the Rover's interior, children and adults are introduced to the pre-channelized River's natural and human history in the Past Gallery where animal pelts, native plant scents, bird calls and frog croaks bring the River alive. The Present Gallery includes an aquarium where aquatic insects and fish from the River give guests a look into its waters. A counter with microscopes and a sink turns the area into a mobile laboratory. A true/false game and interpretive panels provide an overview of the River as it is today. In the Future Gallery images of future plans are projected onto a screen. A game allows visitors to place hexagonal tiles depicting bike paths, wetlands and other amenities onto a concrete channel to create the River of their dreams.The vehicle's vibrant exterior artwork provides additional opportunity to engage the public.\r\n\r\nWith the River Rover FoLAR's visibility and effectiveness will grow exponentially. Programming is limitless and partnerships abundant. As William Carlos Williams noted, “A new world is a new mind.” A new River is possible. By 2050 the possible will be realized.\r\n"
+  who_benefit: "FoLAR’s work benefits all; near and far, young and old, nature lovers and urbanites alike. Because the Los Angeles River is one of the few elements that cross geographical, economic and social boundaries in Los Angeles, FoLAR is in a unique position to CONNECT Angelenos in ways no other civic project can.Though our work is for everyone’s benefit habitat restoration of the River will first and foremost impact the hundreds of thousands of, mostly low-income, families and business owners who’ve have made the banks of the LA River their home for generations. \r\nThe LA River runs through some of the most densely populated, and ethnically diverse communities in the country where access to nature and open space is virtually non-existent for millions. According to the City Project there are 7.2 total acres of green space per thousand residents along the River corridor, compared to 89.8 countywide and 1,343.5 statewide.\r\nCommunities along the River corridor are disproportionately Latino: 52% along the River, compared to 48% for the city, 47% for the county, and 37% statewide.\r\nAnd 18% of the people live in poverty, compared to 20% citywide, 16% countywide, and 14% statewide. Designed for all ages, the Rover is also equipped with an ADA wheelchair lift, allowing people of all abilities to enter, experience and exit the vehicle with ease. FoLAR's bilingual staff speak Spanish, Korean and Farsi and many of our partners advocate for other diverse cultures – Chinese, Vietnamese.\r\n\r\nFoLAR’s current school program focuses on students and their teachers in grades 3 through 6. A pilot program for high school students begins in Fall 2014.The goal is to provide opportunities for students from Kindergarten through college with curriculum and connections to the LA River. On weekends, students have the opportunity to bring their friends and family to the River to see the LA River Rover that visited their school and to explore the River together through family-friendly progams and activities.\r\nNeighborhood council meetings, libraries, summer day camps, places of worship; anywhere we can safely park is a place to engage people of all ages, all nationalities, all socio-economic backgrounds and all abilities. Staging near the River introduces members of park-poor communities to an oasis in their backyard; a place for recreation, respite and open expanses. Connecting Angelenos to its River has never been more feasible. FoLAR is connecting us all to a better future."
+  collaboration: "The U.S. Fish and Wildlife Service: With a new directive to encourage and nurture an appreciation of wildlife conservation in new urban audiences who are often disconnected from nature and wildlife, the USFWS created the Urban Wildlife Refuge Partnership. Recognizing the ability to connect with diverse populations in an urban environment the River Rover was selected as one of eight partners. Through our connection we are building a new conservation constituency to engage new and different peoplein meaningful, collaborative ways that build sustainable, broad-based support. We've collaborated on a technical support grant to develop an LA River map emphasizing recreation and ecological diversity that will be distributed from the River Rover.\r\nThe Los Angeles County Natural History Museum:The first grant FoLAR received was to compile a Biota for the Los Angeles River in partnership with the Natural History Museum. The majority of the data used to document the biological diversity on the LA River was gleaned from the Museum’s vast collection. With a commitment from both the U.S. Army Corps of Engineers and the city of Los Angeles to share costs associated with the most ambitious plan EVER PROPOSED to restore 11 miles of wetland habitat we’ve again joined forces with the Natural History Museum. Experts from the Museum on birds, fish, reptiles, amphibians and mammals are at the ready to lend their knowledge and expertise to our programs. The LA River Rover will stage numerous events in the Museum’s habitat garden and we’re working together on an exhibit and lecture series, utilizing the Museum’s vast collections, to focus on the River’s historic and possible future bio-diversity. We’re also working closely with the Museum’s mobile education staff on ways to share education materials and expertise.\r\nThe Mountains Recreation and Conservation Authority: The Mountains Recreation and Conservation Authority (MRCA) has worked for decades to create and maintain small pocket parks on the Los Angeles River corridor and FoLAR has championed their efforts. With funding from the MRCA FoLAR created the first decorative gates -the Heron Gates- to declare the River open to the public. We’ve worked together to reimagine a railyard, owned by Union Pacific across the River from Union Station, as a location for restored wetlands and water retention that is included in the ecosystem restoration plan. We partner with MRCA’s trained naturalists whose knowledge, expertise and programmin"
+  metrics_connect_volunteerism: '1'
+  metrics_connect_voting: '0'
+  metrics_connect_adultsupport: '0'
+  metrics_connect_traveltime: '0'
+  metrics_connect_culturalevents: '0'
+  metrics_connect_publictransit: '0'
+  metrics_connect_neighborhoodcouncils: '0'
+  metrics_connect_volunteer: '1'
+  metrics_connect_govresponsiveness: '1'
+  metrics_connect_transitaccessible: '0'
+  metrics_connect_socialmedia: '1'
+  metrics_connect_attendance: '1'
+  metrics_connect_residential segregation: '0'
+  metrics_connect_wifi: '0'
+  metrics_connect_other: '0'
+  metrics_connect_blank: >-
+    Participation in planning and political processes Social media posts,
+    tweets, photos shared by the general public Scientific data collected to
+    influence decisions related to the River's future Number of visitors engaged
+    and educated Number of students who
+  impact_metrics: "With an increased presence in the community and on the River, more Angelenos will volunteer at the Great LA River CleanUp, at the River Rover and at the Frog Spot. Questionnaires to track how people heard about he programs, whether this is a first or one of many visits, what motivated people to visit and what types of experiences they are interested will help us understand more about the ways people want to connect.\r\n\r\nThe number of docents we recruit and the number of people who participate in citizen science activities will inform us about the desire to connect and working with these volunteers will hep us understand what motivates them to give their time.\r\n\r\nBy informing the public via programs and presentations and then providing calls to action when there is a meeting or decision that is crucial to the River's future we can track how many people respond and what issues are most relevant to constituents based upon their responses.\r\n\r\nTracking the number of individuals who visit the Rover at community events and what affect the Rover had in their decision to attend, we can find out how our programming increases public attendance at gatherings throughout the region.\r\n\r\nWIFI at the Frog Spot is a perk and we'll understand the demand for public use of WIFI at River Rover events.\r\n\r\nBy encouraging people to post to FoLAR's Facebook Page, follow our twitter accounts - @folartweets, @thefrogspot, @LARiverRover and by using hashtags such as #LARiver and others we can see what visitors are saying about their experiences and whether they share or retweet FoLAR's posts.\r\n\r\nBy seeing how many students bring their family and friends to the River after the Rover has visited their schools we can learn first-hand what inspired their visits and how connecting with the River connects them to one another.\r\n\r\nBy collecting and sharing scientific data about the River we can track what has been shared and how that information is being shared and we can provide that data to decision-makers to influence their actions relevant to the River's future.\r\n"
+  best_place_to_learn: '1'
+  best_place_to_create: '0'
+  healthiest_place_to_live: '1'
+  best_place_to_play: '1'
+  evaluate: "By creating and using simple surveys that can be filled out on-site via Ipads that we provide or via visitor's smart phones we can understand more about the people who visit, what motivates them, what interested or surprised them most, what programming they would like to see, what experiences they want to have and how FoLAR and its partners can facilitate these demands.\r\n\r\nSuccess can be measured in multiple ways as detailed in the section above, however, we will focus on:\r\n\r\n1.\tThe number of people who connect with FoLAR and the River through our various events. The above-mentioned surveys, as well as documenting conversations we have with our visitors will help us understand what aspects of the River interest people most. Programming and staging will be influenced by our public interactions.\r\n2.\tThe ways in which students and the public participate in the political process. FoLAR works with numerous Neighborhood Councils along the River to understand the unique needs of each community. When issues of relevance occur, whether that is a planned development, the expansion of the bike path, creation of parks, high speed rail along the River, and myriad other projects and programs that affect communities and the River, FoLAR will provide opportunities for people to participate, attend meetings, provide feedback, write letters and so on. Seeing how people respond, what drives their interests and efforts, we will better bridge the gap between River users and decision-makers.\r\n3.  Participation in citizen science and docent programs; how many people respond to our call to action for their participation in collecting scientific data and being trained as a docent to lead tours inside the Rover and give talks to the public.\r\n"
+  two_lessons: "“Where do I go to visit and learn about the Los Angeles River?” \r\nWe've learned first-hand that people are hungry to connect with the River, for knowledge and respite. We field requests daily from people who want to visit, kayak, fish and bicycle along the River. It's the reason a donor funded the creation of the LA River Rover, so FoLAR can create destinations for discovery, recreation and advocacy. This summer FoLAR created The Frog Spot, a temporary  Riverside visitor center open on weekends on the Elysian Valley Bike Path, with free water, WIFI, shade and places for people to gather and relax. Saturday nights turn into “Sunset at the Oasis”, FoLAR fundraising mixers from 5-8 with live music and two drinks (beer, wine or soda) for a suggested donation of $15. The place is jumping with upwards of 1,000 visitors each weekend. We are eager to roll out the River Rover to create destinations along the entire length of the River. \r\n\r\n“What volunteer opportunities do you offer?” \r\nWe've learned first-hand that people are eager to connect with the River through volunteerism. FoLAR's annual Great Los Angeles River CleanUp started with 30 people at one site and has grown to nearly 4,000 people at 15 sites throughout the watershed to pull up to 25 tons out of the River annually. For our 25th anniversary this year we split the event into three weekends, staging on the upper, middle and lower River so that volunteers could experience more than one spot. With the River Rover on the road this fall we intend to visit at least two sites during each of the three weekend cleanups. With docent and citizen science activities in development people of all ages with different backgrounds can learn more about the River and help FoLAR increase its capacity to educate the public, while nature walks, and scientific monitoring activities offer meaningful ways to connect and collect data that will shape the River's future.\r\nFoLAR is meeting an ever-increasing demand for people to connect with, experience and learn about the LA River. Docent and citizen science opportunities will meet the increasing demand for meaningful, year-round volunteer opportunities. The Frog Spot and the River Rover are platforms for people to connect with the River, to connect with each other and to connect with the issues that will shape the River's future. A well-informed and invested public will make their voices heard.\r\n"
+  achievable_goal: "Connecting people to the River is integral to the work we've done for nearly three decades. The Great Los Angeles River CleanUp is an institution, 2015 marks the 26th annual event. The Frog Spot is well-used and extremely well-received. The River Rover is built and is now ready to roll. While we are eager to connect as many people to the River as we can, we realize that we need to start simple and build. Staging at each of the three River sections at least once a month is achievable. Partnering with the U.S. Fish and Wildlife Service, the Natural History Museum and the Mountains Recreation and Conservation Authority expands our reach and enhances our educational message and improves our programming capabilities. We'll create consistent messaging, offer talks and walks with trained naturalists, promote our partnerships and programs through a combined network to achieve mutual goals.\r\n\r\nWe've taken the initial steps to develop a docent training program operating out of the Frog Spot and intend to recruit volunteers and hold training sessions in each of the three service areas to provide volunteers with both meaningful ways to contribute and to foster connections to the River in their own backyards. \r\n\r\nCitizen science programs exist at the Natural History Museum as do several database programs, such as E-bird and I-naturalist, where data that is collected can be uploaded and shared with scientists and the general public. We're working with numerous other partners such as the San Fernando and Los Angeles Chapters of the Audubon Society, the Sierra Club, the California Native Plant Society, Heal the Bay, Tree People, North East Trees, the Council for Watershed Health, The Aquarium of the Pacific, the UC Collaborative Extension and a network of over 50 educators through the Watershed Education Collaborative. \r\n\r\nWe have the expertise, we have the partnerships, we have the perfect opportunities to bring the River to the People and the People to the River through the River Rover, the Frog Spot and the Great Los Angeles River CleanUp. FoLAR's visibitlity and effectiveness is about to grow exponentially, connecting LA to its River, improving the quality of life, increasing public involvement in the decisions involving the River's future and creating a better LA in the process.\r\n"
+  major_challenges: "The public demand for opportunities and ways to connect with the LA River increases daily. Requests for the River Rover, completed in June, to appear at community gatherings and schools come in daily. And we've committed to creating Riverside destinations and programming. One challenge we face is the ability to attend community gatherings, visit schools and stage along the River while realizing the very real needs to plan, prepare and maintain the vehicle. We know there will be a learning curve as we become acquainted with the vehicle. We know that we want to maximize our reach and respond to the public demand to learn about the River's past, present and future plans while also meeting the need to connect with the River for recreation and respite. Initially we'll give priority to events within the River's 800 square mile-watershed, visit schools in disadvantaged and park-poor communities, promote Riverside events and programming to maximize our reach and connect with as many people as we can without over-committing our resources.\r\n\r\nManeuvering a 38' vehicle in our crowded urban environment, parking at schools, libraries, festivals and locations along the River will be challenging. FoLAR staff have received RV Bootcamp Training consisting of street and freeway training, parallel parking, and navigating a slalom course of cones in both forward and reverse. We've learned from our partners at the Natural History Museum that advanced planning and scouting is imperative to success. Not only will accessing Riverside locations provide challenges, but entry-ways to schools and other locations are often small, blocked by trees and other details that often need attention prior to visits. Pre-event staging and scouting trips will need to be scheduled and integrated into our operational calender. These details are just as important as maintenance, preparation and implementation of programs and events to the success of our outreach efforts.\r\n"
+  competition: "As the original voice of the LA River, FoLAR was founded on the belief that effective advocacy, education, collaboration and imagination can accomplish great things. We’ve partnered with numerous organizations along the way, many of whom continue to focus on specifics such as social and environmental justice, park creation, bicycle advocacy and so on. \r\n\r\nMost recently the Los Angeles River Revitalization Corporation, created to implement the city’s Los Angeles River Revitalization Master Plan, is both similar and different. Both organizations are dedicated to making the River a better place and both bring people to the River. The LARRC has a Regata Club, a series of special events designed to bring people together. The LARRC is focused on development along the River – both parks and green spaces as well as public/private partnerships that focus on building an equestrian and pedestrian bridge with a nearby café and bicycle rental facility. We have advocated for a continuous bike path from the mountains to the sea since our inception and the LARRC has an initiative, Greenway 2020, focusing on bike paths. We’ve stood together to promote Alternative 20, we’ve spoken together to voice support for the bike path by Universal and other studios along the River. And a FoLAR board member spoke with LARRC when creating a plan for an in-channel bike path in downtown Los Angeles.\r\n\r\nFoLAR advocates for a swimmable, fishable, boatable, bikeable, walkable Los Angeles River where people and wildlife can coexist. We see want to make sure that the River is open for everyone. While we share an enthusiasm for future plans we also see the potential for enjoying and appreciating the River as it is today.\r\n"
+  cost: >-
+    Connecting people to the River via the CleanUp, the River Rover and the Frog
+    Spot are all integral to the organization's programming. Each has its own
+    budget and we've raised funds for each. This award will allow us to include
+    all staff in these efforts to ensure that we continue to connect with the
+    public, both individually and as an organization by increasing our
+    organizational capacity. 
+  budget: "Event and Program Expense\t\r\nAdvertising for event\t $2,250 \r\nEntertainment\t $375 \r\nEquipment Rental for Event\t $1,200 \r\nInsurance\t $750 \r\nMisc/Contingency\t $89 \r\nMonitoring (Fish & Game)\t $750 \r\n Permits & Fees\t $188 \r\n Photography\t $300 \r\n Printing\t $300 \r\n Program Management\t $3,863 \r\n Refreshments\t $150 \r\n Sound\t $300 \r\n Supplies\t $900 \r\nTemporary Help\t $1,800 \r\n Travel\t $75 \r\nEvent and Program Expense\t $13,290 \r\n\r\nContract Services\t\r\nGraphic Design\t $750 \r\nPublic Relations\t $2,250 \r\nFundraising \t $900 \r\nWebsite and IT\t $1,200 \r\nTemporary Help\t $4,200 \r\nTotal Contract Services\t $9,300 \r\nFacilities and Equipment\t\r\nEquipment Repair\t $1,500 \r\n Small Equipment Purchase\t $1,500 \r\n Rent/Parking\t $3,000 \r\nTotal Facilities and Equipment\t $6,000 \r\n \r\nPayroll Expenses\t\r\nWages and Salaries\t $51,000 \r\nPayroll Tax Expense\t $4,500 \r\nHealth Insurance\t $1,350 \r\nWorker's Compensation\t $1,800 \r\nPayroll processing fee\t $75 \r\nTotal  Payroll Expenses\t $58,725 \r\n\r\nTravel and Meetings\t\r\nConference, Convention, Meeting\t $487 \r\nTravel\t $600 \r\n Meals and Entertainment\t $600 \r\nTotal Travel and Meetings\t $1,687 \r\n\t\r\nSubtotal\t $89,002 \r\n\t\r\nOther Expense\t\r\nIndirect Cost Recovery (15%)\t $13,350 \r\n\t\t\r\nTotal  Expenses\t $102,352 \r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: Los Angeles
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Friends of the Los Angeles River
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: www.folar.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: '@folartweets, @LARiverRover, @TheFrogSpot'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: LosAngelesRiver
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: Friends of the Los Angeles River
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '570 W. Avenue 26, #250'
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '954171497'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      FoLAR strives for a swimmable, fishable, boatable, bikeable LA River
+      through advocacy, education and wise stewardship.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      FoLAR connects people to the River through the Great LA River CleanUp and
+      further engages the public to create a constituency for change.
+  - name: describe_idea
+    label: ''
+    explanation: >-
+      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
+      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
+      have such an awesome project! Please vote for @GoldhirshFdn here!'
+    answer: >-
+      This is how we ROLL @FoLARtweets! @LARiverRover connects diverse
+      communities to the #LARiver via advocacy, education & stewardship
+  - name: impact_LA_County
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Diverse communities along the LA River corridor
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Inspired by the hymn,“Shall We Gather at the River?” FoLAR's founders
+      united to influence public opinion by bringing individuals, reporters,
+      decision-makers – anyone who would listen – down to the Los Angeles River.
+      Our 38' mobile visitor and education center, the Los Angeles River
+      Rover,hails a new era of public engagement and advocacy. Interpretive and
+      interactive exhibits for all ages connect the River's past and present to
+      its possible future. Through programs and events, FoLAR and its partners
+      connect individuals to the River and to one another to create a
+      constituency for change. Docent and citizen science activities increase
+      volunteerism. At the Rover ideas are exchanged and dreams are shared. A
+      better LA is sure to follow.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "Exchanging information is easy at the River Rover. With an internet connection, a high resolution projector inside and a 40” monitor on the outside of the Rover there are multiple ways to communicate and connect. DVDs and slide shows play in the background or speakers can make presentations on myriad topics.\r\n\r\nOn the weekends the River Rover will park near natural-bottom sections at lease once a month in each of these three service areas:\r\n1.\tThe San Fernando Valley from Canoga Park to Burbank,\r\n2.\tThe Glendale Narrows from Griffith Park through downtown, \r\n3.\tThe lower River from Vernon to Long Beach. \r\n\r\nBring the River to the People: By visiting schools, festivals, neighborhood council meetings, libraries, senior centers – anywhere we can park provides the opportunity to inform and engage people of all ages, cultures connecting communities and residents to the issues that impact their neighborhoods and the River so their voices can be heard.\r\n\r\nActivities Connect People to the River and to One Another: \r\nFoLAR educators and experts from our partner organizations conduct walks along the River calling attention to bird and plant life, sharing current information and engaging participants in conversations. Bicycle rides, kayaking trips, fishing lessons and tournaments, poetry readings, live music and food trucks, these are just some of the ways to connect people to the River not only as a place for recreation and celebration but also as an ecosystem in the heart of our built environment.\r\n\r\nCitizen Science and Trained Docent Opportunities\r\nWith an increasing demand for volunteer opportunities both citizen science and docent programs provide meaningful ways for the public to engage. Assessing the River's biological health, testing water quality and conducting trash surveys provide both volunteer opportunities and useful data that can be used to influence policy decisions that affect the River's future. Trained docents provide guided tours through the Rover, answer questions and engage the public in numerous other ways. Individuals and high school students representing each of the three regions gain knowledge and experience while increasing FoLAR's capacity to foster connections.\r\n"
+  - name: impact_connect
+    label: ''
+    explanation: ''
+    answer: "A Better LA Now\r\nHow do you convince the public, politicians, city, state and federal government agencies that there is value to restoring a concrete River?  In 1986 Lewis MacAdams and two friends cut a hole in the fence and started what he called a 40-year artwork to bring the River back to life. Now the once maligned River is a place for recreation, education and restoration. This year FoLAR rallied for the most ambitious plan to remove concrete, restore wetland habitat and connect communities to a natural environment while increasing flood-control capacity; Alternative 20. \r\n\r\nFirst, we raised and donated $1,000,000 to the U.S. Army Corps of Engineers to complete an Ecosystem Feasibility Study seven years in the making; a first in the Corps' history. Next, Lewis, Mayor Eric Garcetti, and others traveled to Washington DC meeting with Senators Boxer and Feinstein, and top-ranking Army Corps and Obama Administration officials. We pressed for a town-hall at the LA River Center and mobilized politicians and community leaders; over 200 people voiced support for the most ambitious plan- Alternative 20. In a precedent-setting action, the City agreed to share costs for the plan that will remove X miles of concrete and an 11-mile stretch through the heart of our region.\r\n\r\nA Better LA in 2050\r\nBy touring the Rover's interior, children and adults are introduced to the pre-channelized River's natural and human history in the Past Gallery where animal pelts, native plant scents, bird calls and frog croaks bring the River alive. The Present Gallery includes an aquarium where aquatic insects and fish from the River give guests a look into its waters. A counter with microscopes and a sink turns the area into a mobile laboratory. A true/false game and interpretive panels provide an overview of the River as it is today. In the Future Gallery images of future plans are projected onto a screen. A game allows visitors to place hexagonal tiles depicting bike paths, wetlands and other amenities onto a concrete channel to create the River of their dreams.The vehicle's vibrant exterior artwork provides additional opportunity to engage the public.\r\n\r\nWith the River Rover FoLAR's visibility and effectiveness will grow exponentially. Programming is limitless and partnerships abundant. As William Carlos Williams noted, “A new world is a new mind.” A new River is possible. By 2050 the possible will be realized.\r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "FoLAR’s work benefits all; near and far, young and old, nature lovers and urbanites alike. Because the Los Angeles River is one of the few elements that cross geographical, economic and social boundaries in Los Angeles, FoLAR is in a unique position to CONNECT Angelenos in ways no other civic project can.Though our work is for everyone’s benefit habitat restoration of the River will first and foremost impact the hundreds of thousands of, mostly low-income, families and business owners who’ve have made the banks of the LA River their home for generations. \r\nThe LA River runs through some of the most densely populated, and ethnically diverse communities in the country where access to nature and open space is virtually non-existent for millions. According to the City Project there are 7.2 total acres of green space per thousand residents along the River corridor, compared to 89.8 countywide and 1,343.5 statewide.\r\nCommunities along the River corridor are disproportionately Latino: 52% along the River, compared to 48% for the city, 47% for the county, and 37% statewide.\r\nAnd 18% of the people live in poverty, compared to 20% citywide, 16% countywide, and 14% statewide. Designed for all ages, the Rover is also equipped with an ADA wheelchair lift, allowing people of all abilities to enter, experience and exit the vehicle with ease. FoLAR's bilingual staff speak Spanish, Korean and Farsi and many of our partners advocate for other diverse cultures – Chinese, Vietnamese.\r\n\r\nFoLAR’s current school program focuses on students and their teachers in grades 3 through 6. A pilot program for high school students begins in Fall 2014.The goal is to provide opportunities for students from Kindergarten through college with curriculum and connections to the LA River. On weekends, students have the opportunity to bring their friends and family to the River to see the LA River Rover that visited their school and to explore the River together through family-friendly progams and activities.\r\nNeighborhood council meetings, libraries, summer day camps, places of worship; anywhere we can safely park is a place to engage people of all ages, all nationalities, all socio-economic backgrounds and all abilities. Staging near the River introduces members of park-poor communities to an oasis in their backyard; a place for recreation, respite and open expanses. Connecting Angelenos to its River has never been more feasible. FoLAR is connecting us all to a better future."
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "The U.S. Fish and Wildlife Service: With a new directive to encourage and nurture an appreciation of wildlife conservation in new urban audiences who are often disconnected from nature and wildlife, the USFWS created the Urban Wildlife Refuge Partnership. Recognizing the ability to connect with diverse populations in an urban environment the River Rover was selected as one of eight partners. Through our connection we are building a new conservation constituency to engage new and different peoplein meaningful, collaborative ways that build sustainable, broad-based support. We've collaborated on a technical support grant to develop an LA River map emphasizing recreation and ecological diversity that will be distributed from the River Rover.\r\nThe Los Angeles County Natural History Museum:The first grant FoLAR received was to compile a Biota for the Los Angeles River in partnership with the Natural History Museum. The majority of the data used to document the biological diversity on the LA River was gleaned from the Museum’s vast collection. With a commitment from both the U.S. Army Corps of Engineers and the city of Los Angeles to share costs associated with the most ambitious plan EVER PROPOSED to restore 11 miles of wetland habitat we’ve again joined forces with the Natural History Museum. Experts from the Museum on birds, fish, reptiles, amphibians and mammals are at the ready to lend their knowledge and expertise to our programs. The LA River Rover will stage numerous events in the Museum’s habitat garden and we’re working together on an exhibit and lecture series, utilizing the Museum’s vast collections, to focus on the River’s historic and possible future bio-diversity. We’re also working closely with the Museum’s mobile education staff on ways to share education materials and expertise.\r\nThe Mountains Recreation and Conservation Authority: The Mountains Recreation and Conservation Authority (MRCA) has worked for decades to create and maintain small pocket parks on the Los Angeles River corridor and FoLAR has championed their efforts. With funding from the MRCA FoLAR created the first decorative gates -the Heron Gates- to declare the River open to the public. We’ve worked together to reimagine a railyard, owned by Union Pacific across the River from Union Station, as a location for restored wetlands and water retention that is included in the ecosystem restoration plan. We partner with MRCA’s trained naturalists whose knowledge, expertise and programmin"
+  - name: metrics_connect_volunteerism
+    label: Rates of volunteerism
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_voting
+    label: Voting rates by race
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_adultsupport
+    label: Adults getting sufficient social & emotional support
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_traveltime
+    label: Median travel time to work
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_culturalevents
+    label: Attendance at cultural events
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_publictransit
+    label: Number of public transit riders
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_neighborhoodcouncils
+    label: Participation in neighborhood councils
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_volunteer
+    label: Percentage of Angelenos that volunteer informally (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_govresponsiveness
+    label: Government responsiveness to residents’ needs (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_transitaccessible
+    label: >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_socialmedia
+    label: Total number of social media friends (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_attendance
+    label: Attendance at public/open street gatherings (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_residential segregation
+    label: Residential segregation (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_wifi
+    label: Access to free wifi (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: >-
+      Participation in planning and political processes Social media posts,
+      tweets, photos shared by the general public Scientific data collected to
+      influence decisions related to the River's future Number of visitors
+      engaged and educated Number of students who
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "With an increased presence in the community and on the River, more Angelenos will volunteer at the Great LA River CleanUp, at the River Rover and at the Frog Spot. Questionnaires to track how people heard about he programs, whether this is a first or one of many visits, what motivated people to visit and what types of experiences they are interested will help us understand more about the ways people want to connect.\r\n\r\nThe number of docents we recruit and the number of people who participate in citizen science activities will inform us about the desire to connect and working with these volunteers will hep us understand what motivates them to give their time.\r\n\r\nBy informing the public via programs and presentations and then providing calls to action when there is a meeting or decision that is crucial to the River's future we can track how many people respond and what issues are most relevant to constituents based upon their responses.\r\n\r\nTracking the number of individuals who visit the Rover at community events and what affect the Rover had in their decision to attend, we can find out how our programming increases public attendance at gatherings throughout the region.\r\n\r\nWIFI at the Frog Spot is a perk and we'll understand the demand for public use of WIFI at River Rover events.\r\n\r\nBy encouraging people to post to FoLAR's Facebook Page, follow our twitter accounts - @folartweets, @thefrogspot, @LARiverRover and by using hashtags such as #LARiver and others we can see what visitors are saying about their experiences and whether they share or retweet FoLAR's posts.\r\n\r\nBy seeing how many students bring their family and friends to the River after the Rover has visited their schools we can learn first-hand what inspired their visits and how connecting with the River connects them to one another.\r\n\r\nBy collecting and sharing scientific data about the River we can track what has been shared and how that information is being shared and we can provide that data to decision-makers to influence their actions relevant to the River's future.\r\n"
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "By creating and using simple surveys that can be filled out on-site via Ipads that we provide or via visitor's smart phones we can understand more about the people who visit, what motivates them, what interested or surprised them most, what programming they would like to see, what experiences they want to have and how FoLAR and its partners can facilitate these demands.\r\n\r\nSuccess can be measured in multiple ways as detailed in the section above, however, we will focus on:\r\n\r\n1.\tThe number of people who connect with FoLAR and the River through our various events. The above-mentioned surveys, as well as documenting conversations we have with our visitors will help us understand what aspects of the River interest people most. Programming and staging will be influenced by our public interactions.\r\n2.\tThe ways in which students and the public participate in the political process. FoLAR works with numerous Neighborhood Councils along the River to understand the unique needs of each community. When issues of relevance occur, whether that is a planned development, the expansion of the bike path, creation of parks, high speed rail along the River, and myriad other projects and programs that affect communities and the River, FoLAR will provide opportunities for people to participate, attend meetings, provide feedback, write letters and so on. Seeing how people respond, what drives their interests and efforts, we will better bridge the gap between River users and decision-makers.\r\n3.  Participation in citizen science and docent programs; how many people respond to our call to action for their participation in collecting scientific data and being trained as a docent to lead tours inside the Rover and give talks to the public.\r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "“Where do I go to visit and learn about the Los Angeles River?” \r\nWe've learned first-hand that people are hungry to connect with the River, for knowledge and respite. We field requests daily from people who want to visit, kayak, fish and bicycle along the River. It's the reason a donor funded the creation of the LA River Rover, so FoLAR can create destinations for discovery, recreation and advocacy. This summer FoLAR created The Frog Spot, a temporary  Riverside visitor center open on weekends on the Elysian Valley Bike Path, with free water, WIFI, shade and places for people to gather and relax. Saturday nights turn into “Sunset at the Oasis”, FoLAR fundraising mixers from 5-8 with live music and two drinks (beer, wine or soda) for a suggested donation of $15. The place is jumping with upwards of 1,000 visitors each weekend. We are eager to roll out the River Rover to create destinations along the entire length of the River. \r\n\r\n“What volunteer opportunities do you offer?” \r\nWe've learned first-hand that people are eager to connect with the River through volunteerism. FoLAR's annual Great Los Angeles River CleanUp started with 30 people at one site and has grown to nearly 4,000 people at 15 sites throughout the watershed to pull up to 25 tons out of the River annually. For our 25th anniversary this year we split the event into three weekends, staging on the upper, middle and lower River so that volunteers could experience more than one spot. With the River Rover on the road this fall we intend to visit at least two sites during each of the three weekend cleanups. With docent and citizen science activities in development people of all ages with different backgrounds can learn more about the River and help FoLAR increase its capacity to educate the public, while nature walks, and scientific monitoring activities offer meaningful ways to connect and collect data that will shape the River's future.\r\nFoLAR is meeting an ever-increasing demand for people to connect with, experience and learn about the LA River. Docent and citizen science opportunities will meet the increasing demand for meaningful, year-round volunteer opportunities. The Frog Spot and the River Rover are platforms for people to connect with the River, to connect with each other and to connect with the issues that will shape the River's future. A well-informed and invested public will make their voices heard.\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "Connecting people to the River is integral to the work we've done for nearly three decades. The Great Los Angeles River CleanUp is an institution, 2015 marks the 26th annual event. The Frog Spot is well-used and extremely well-received. The River Rover is built and is now ready to roll. While we are eager to connect as many people to the River as we can, we realize that we need to start simple and build. Staging at each of the three River sections at least once a month is achievable. Partnering with the U.S. Fish and Wildlife Service, the Natural History Museum and the Mountains Recreation and Conservation Authority expands our reach and enhances our educational message and improves our programming capabilities. We'll create consistent messaging, offer talks and walks with trained naturalists, promote our partnerships and programs through a combined network to achieve mutual goals.\r\n\r\nWe've taken the initial steps to develop a docent training program operating out of the Frog Spot and intend to recruit volunteers and hold training sessions in each of the three service areas to provide volunteers with both meaningful ways to contribute and to foster connections to the River in their own backyards. \r\n\r\nCitizen science programs exist at the Natural History Museum as do several database programs, such as E-bird and I-naturalist, where data that is collected can be uploaded and shared with scientists and the general public. We're working with numerous other partners such as the San Fernando and Los Angeles Chapters of the Audubon Society, the Sierra Club, the California Native Plant Society, Heal the Bay, Tree People, North East Trees, the Council for Watershed Health, The Aquarium of the Pacific, the UC Collaborative Extension and a network of over 50 educators through the Watershed Education Collaborative. \r\n\r\nWe have the expertise, we have the partnerships, we have the perfect opportunities to bring the River to the People and the People to the River through the River Rover, the Frog Spot and the Great Los Angeles River CleanUp. FoLAR's visibitlity and effectiveness is about to grow exponentially, connecting LA to its River, improving the quality of life, increasing public involvement in the decisions involving the River's future and creating a better LA in the process.\r\n"
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "The public demand for opportunities and ways to connect with the LA River increases daily. Requests for the River Rover, completed in June, to appear at community gatherings and schools come in daily. And we've committed to creating Riverside destinations and programming. One challenge we face is the ability to attend community gatherings, visit schools and stage along the River while realizing the very real needs to plan, prepare and maintain the vehicle. We know there will be a learning curve as we become acquainted with the vehicle. We know that we want to maximize our reach and respond to the public demand to learn about the River's past, present and future plans while also meeting the need to connect with the River for recreation and respite. Initially we'll give priority to events within the River's 800 square mile-watershed, visit schools in disadvantaged and park-poor communities, promote Riverside events and programming to maximize our reach and connect with as many people as we can without over-committing our resources.\r\n\r\nManeuvering a 38' vehicle in our crowded urban environment, parking at schools, libraries, festivals and locations along the River will be challenging. FoLAR staff have received RV Bootcamp Training consisting of street and freeway training, parallel parking, and navigating a slalom course of cones in both forward and reverse. We've learned from our partners at the Natural History Museum that advanced planning and scouting is imperative to success. Not only will accessing Riverside locations provide challenges, but entry-ways to schools and other locations are often small, blocked by trees and other details that often need attention prior to visits. Pre-event staging and scouting trips will need to be scheduled and integrated into our operational calender. These details are just as important as maintenance, preparation and implementation of programs and events to the success of our outreach efforts.\r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "As the original voice of the LA River, FoLAR was founded on the belief that effective advocacy, education, collaboration and imagination can accomplish great things. We’ve partnered with numerous organizations along the way, many of whom continue to focus on specifics such as social and environmental justice, park creation, bicycle advocacy and so on. \r\n\r\nMost recently the Los Angeles River Revitalization Corporation, created to implement the city’s Los Angeles River Revitalization Master Plan, is both similar and different. Both organizations are dedicated to making the River a better place and both bring people to the River. The LARRC has a Regata Club, a series of special events designed to bring people together. The LARRC is focused on development along the River – both parks and green spaces as well as public/private partnerships that focus on building an equestrian and pedestrian bridge with a nearby café and bicycle rental facility. We have advocated for a continuous bike path from the mountains to the sea since our inception and the LARRC has an initiative, Greenway 2020, focusing on bike paths. We’ve stood together to promote Alternative 20, we’ve spoken together to voice support for the bike path by Universal and other studios along the River. And a FoLAR board member spoke with LARRC when creating a plan for an in-channel bike path in downtown Los Angeles.\r\n\r\nFoLAR advocates for a swimmable, fishable, boatable, bikeable, walkable Los Angeles River where people and wildlife can coexist. We see want to make sure that the River is open for everyone. While we share an enthusiasm for future plans we also see the potential for enjoying and appreciating the River as it is today.\r\n"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      Connecting people to the River via the CleanUp, the River Rover and the
+      Frog Spot are all integral to the organization's programming. Each has its
+      own budget and we've raised funds for each. This award will allow us to
+      include all staff in these efforts to ensure that we continue to connect
+      with the public, both individually and as an organization by increasing
+      our organizational capacity. 
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Event and Program Expense\t\r\nAdvertising for event\t $2,250 \r\nEntertainment\t $375 \r\nEquipment Rental for Event\t $1,200 \r\nInsurance\t $750 \r\nMisc/Contingency\t $89 \r\nMonitoring (Fish & Game)\t $750 \r\n Permits & Fees\t $188 \r\n Photography\t $300 \r\n Printing\t $300 \r\n Program Management\t $3,863 \r\n Refreshments\t $150 \r\n Sound\t $300 \r\n Supplies\t $900 \r\nTemporary Help\t $1,800 \r\n Travel\t $75 \r\nEvent and Program Expense\t $13,290 \r\n\r\nContract Services\t\r\nGraphic Design\t $750 \r\nPublic Relations\t $2,250 \r\nFundraising \t $900 \r\nWebsite and IT\t $1,200 \r\nTemporary Help\t $4,200 \r\nTotal Contract Services\t $9,300 \r\nFacilities and Equipment\t\r\nEquipment Repair\t $1,500 \r\n Small Equipment Purchase\t $1,500 \r\n Rent/Parking\t $3,000 \r\nTotal Facilities and Equipment\t $6,000 \r\n \r\nPayroll Expenses\t\r\nWages and Salaries\t $51,000 \r\nPayroll Tax Expense\t $4,500 \r\nHealth Insurance\t $1,350 \r\nWorker's Compensation\t $1,800 \r\nPayroll processing fee\t $75 \r\nTotal  Payroll Expenses\t $58,725 \r\n\r\nTravel and Meetings\t\r\nConference, Convention, Meeting\t $487 \r\nTravel\t $600 \r\n Meals and Entertainment\t $600 \r\nTotal Travel and Meetings\t $1,687 \r\n\t\r\nSubtotal\t $89,002 \r\n\t\r\nOther Expense\t\r\nIndirect Cost Recovery (15%)\t $13,350 \r\n\t\t\r\nTotal  Expenses\t $102,352 \r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: tangerine
 
 ---

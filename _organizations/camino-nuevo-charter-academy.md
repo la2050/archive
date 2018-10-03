@@ -29,5 +29,19 @@ title: Camino Nuevo Charter Academy
 uri: /organizations/camino-nuevo-charter-academy/
 challenge_url: >-
   https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
+extrapolated_project_ids:
+  - '6102030'
+project_titles_from_extrapolated_project_ids:
+  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
+project_titles:
+  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
+project_titles_from_project_ids:
+  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
+original_project_titles:
+  - 'Camino to College: Paving the Way To and Through College for Urban Youth'
+  - Candice Ryu
+original_project_ids:
+  - '6102030'
+project_titles_flagged: 1
 
 ---

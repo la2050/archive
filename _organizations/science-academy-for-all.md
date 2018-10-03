@@ -29,6 +29,22 @@ project_ids: '8102106'
 title: Science Academy For All
 uri: /organizations/science-academy-for-all/
 challenge_url: 'https://activation.la2050.org/live/science-academy-for-all/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
+    their families.
+project_titles_from_project_ids:
+  - >-
+    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
+    their families.
+original_project_titles:
+  - >-
+    New Obesity War (NOW) led by mentor trained kids to change the lifestyle of
+    their families.
+original_project_ids:
+  - '8102106'
 category: live
 
 ---

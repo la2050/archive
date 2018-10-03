@@ -578,6 +578,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   barriers to higher education and graduate from high school collegeready and
   collegebound.</b></p>
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

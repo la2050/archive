@@ -14,7 +14,7 @@ tags_indicators:
   - Education & youth
   - Social connectedness
 twitter: '@ChildrenNow'
-instagram: 0
+instagram: ''
 facebook: Children-Now-224016820554/
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/connect/2048-wide/children-now.jpg'
@@ -31,6 +31,42 @@ project_ids: '8102019'
 title: Children Now
 uri: /organizations/children-now/
 challenge_url: 'https://activation.la2050.org/connect/children-now/'
+extrapolated_project_ids:
+  - '8102019'
+  - '6102034'
+  - '5102052'
+  - '4102035'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Making LA the Best Place to Connect Angelenos to Support a Strong Start for
+    Niñitos
+  - Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
+  - Leveraging The Children’s Movement to Make LA the Best Place to Learn
+  - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
+project_titles:
+  - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
+  - Leveraging The Children’s Movement to Make LA the Best Place to Learn
+  - Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
+  - >-
+    Making LA the Best Place to Connect Angelenos to Support a Strong Start for
+    Niñitos
+project_titles_from_project_ids:
+  - >-
+    Making LA the Best Place to Connect Angelenos to Support a Strong Start for
+    NiÃ±itos
+original_project_titles:
+  - 'A Pro-Kid LA: Building The Children’s Movement in Los Angeles'
+  - 'Leveraging The Children’s Movement to Make LA the Best Place to Learn '
+  - Lifting Up LA’s Voice for Kids to Live Trauma-Free by 2050
+  - >-
+    Making LA the Best Place to Connect Angelenos to Support a Strong Start for
+    Niñitos
+original_project_ids:
+  - '4102035'
+  - '5102052'
+  - '6102034'
+  - '8102019'
+project_titles_flagged: 1
 category: connect
 
 ---

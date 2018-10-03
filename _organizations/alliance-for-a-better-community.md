@@ -53,8 +53,18 @@ project_ids: '3102012'
 title: Alliance for a Better Community
 uri: /organizations/alliance-for-a-better-community/
 challenge_url: 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
+extrapolated_project_ids:
+  - '3102012'
+project_titles_from_extrapolated_project_ids:
+  - 'Padres Creando Exito: Effective educators in every classroom every school  '
 project_titles:
   - 'Padres Creando Exito: Effective educators in every classroom every school  '
+project_titles_from_project_ids:
+  - 'Padres Creando Exito: Effective educators in every classroom every school  '
+original_project_titles:
+  - 'Padres Creando Exito: Effective educators in every classroom, every school  '
+original_project_ids:
+  - '3102012'
 maker_image_id: '16427'
 maker_image_file_name: IMG_5905.JPG
 

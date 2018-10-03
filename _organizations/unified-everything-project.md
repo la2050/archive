@@ -42,5 +42,17 @@ title: Unified Everything Project
 uri: /organizations/unified-everything-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/website-of-all-las-arts-science-events-schedules
+extrapolated_project_ids:
+  - '6102267'
+project_titles_from_extrapolated_project_ids:
+  - Website of all LA's Arts & Science events / schedules
+project_titles:
+  - Website of all LA's Arts & Science events / schedules
+project_titles_from_project_ids:
+  - Website of all LA's Arts & Science events / schedules
+original_project_titles:
+  - Website of all LA's Arts & Science events / schedules
+original_project_ids:
+  - '6102267'
 
 ---

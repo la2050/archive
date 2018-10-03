@@ -1,8 +1,10 @@
 ---
-project_id: ''
+project_id: '8102121'
 project_id_2: '8102121'
 title: Emerging Content Creators Inclusion Initiative (ECC Inclusion Initiative)
-project_summary: ''
+project_summary: >-
+  Through the this activation, NALIP aims to provide support for college ready
+  urban youth through media training & resources.
 Please describe the activation your organization seeks to launch.: >-
   This past year has seen not only impactful changes in the entertainment
   industry but a strong push for a more inclusive and diverse media ecosystem.
@@ -59,10 +61,12 @@ impact_metrics: ''
 make_la_great: ''
 category: create
 organization_id: ''
-project_image: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/create/2048-wide/national-association-of-latino-independent-producers-nalip.jpg
 project_video: ''
 project_id_3: ''
 year_submitted: 2018
+organization_name: National Association of Latino Independent Producers (NALIP)
 project_proposal_description: >-
   This past year has seen not only impactful changes in the entertainment
   industry but a strong push for a more inclusive and diverse media ecosystem.

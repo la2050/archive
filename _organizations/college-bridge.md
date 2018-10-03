@@ -39,5 +39,29 @@ title: College Bridge
 uri: /organizations/college-bridge/
 challenge_url: >-
   https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
+extrapolated_project_ids:
+  - '6102046'
+  - '4102041'
+project_titles_from_extrapolated_project_ids:
+  - 'Future Focus: College and Career Pathways for LA County Students'
+  - >-
+    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
+    Colleges in LA County
+project_titles:
+  - 'Future Focus: College and Career Pathways for LA County Students'
+  - >-
+    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
+    Colleges in LA County
+project_titles_from_project_ids:
+  - 'Future Focus: College and Career Pathways for LA County Students'
+original_project_titles:
+  - 'Future Focus: College and Career Pathways for LA County Students'
+  - >-
+    LA Bridge: Ensuring Under-represented Students Enroll in and Graduate from
+    Colleges in LA County
+original_project_ids:
+  - '4102041'
+  - '6102046'
+project_titles_flagged: 1
 
 ---

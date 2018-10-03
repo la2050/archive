@@ -28,8 +28,18 @@ project_ids: '5102244'
 title: Project MuszEd
 uri: /organizations/project-muszed/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
+extrapolated_project_ids:
+  - '5102244'
+project_titles_from_extrapolated_project_ids:
+  - SoundWorks L.A.
 project_titles:
   - SoundWorks L.A.
+project_titles_from_project_ids:
+  - SoundWorks L.A.
+original_project_titles:
+  - SoundWorks L.A.
+original_project_ids:
+  - '5102244'
 maker_image_id: '23245'
 maker_image_file_name: Slide1.JPG
 

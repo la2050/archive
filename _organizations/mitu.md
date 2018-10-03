@@ -34,5 +34,25 @@ title: mitu
 uri: /organizations/mitu/
 challenge_url: >-
   https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
+extrapolated_project_ids:
+  - '6102205'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    mitú Accelerate LA:  Diversifying digital content creation for regional
+    social impact
+project_titles:
+  - >-
+    mitú Accelerate LA:  Diversifying digital content creation for regional
+    social impact
+project_titles_from_project_ids:
+  - >-
+    mitú Accelerate LA:  Diversifying digital content creation for regional
+    social impact
+original_project_titles:
+  - >-
+    mitú Accelerate LA:  Diversifying digital content creation for regional
+    social impact
+original_project_ids:
+  - '6102205'
 
 ---

@@ -30,6 +30,16 @@ project_ids: '8102080'
 title: Mar Vista Family Center
 uri: /organizations/mar-vista-family-center/
 challenge_url: 'https://activation.la2050.org/live/mar-vista-family-center/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'The Youth New A.G.E Initiative '
+project_titles_from_project_ids:
+  - 'The Youth New A.G.E Initiative '
+original_project_titles:
+  - The Youth New A.G.E Initiative
+original_project_ids:
+  - '8102080'
 category: live
 
 ---

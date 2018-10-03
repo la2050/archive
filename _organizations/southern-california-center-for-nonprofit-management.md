@@ -37,5 +37,25 @@ title: Southern California Center for Nonprofit Management
 uri: /organizations/southern-california-center-for-nonprofit-management/
 challenge_url: >-
   https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
+extrapolated_project_ids:
+  - '6102213'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
+    interconnectedness
+project_titles:
+  - >-
+    SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
+    interconnectedness
+project_titles_from_project_ids:
+  - >-
+    SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
+    interconnectedness
+original_project_titles:
+  - >-
+    SPARK!: CONNECT-CONVENE-COLLABORATE will promote LA’s culture of
+    interconnectedness
+original_project_ids:
+  - '6102213'
 
 ---

@@ -30,5 +30,25 @@ title: Make Music Los Angeles
 uri: /organizations/make-music-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
+extrapolated_project_ids:
+  - '6102152'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Playascape: Transforming LA into an artistic playground that inspires
+    innovation with public art
+project_titles:
+  - >-
+    Playascape: Transforming LA into an artistic playground that inspires
+    innovation with public art
+project_titles_from_project_ids:
+  - >-
+    Playascape: Transforming LA into an artistic playground that inspires
+    innovation with public art
+original_project_titles:
+  - >-
+    Playascape: Transforming LA into an artistic playground that inspires
+    innovation with public art
+original_project_ids:
+  - '6102152'
 
 ---

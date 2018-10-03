@@ -323,6 +323,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   woman who came to the AxS Festival as a fourthgrader is heading up the
   Governor’s task force on arts, culture, science and technology.
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

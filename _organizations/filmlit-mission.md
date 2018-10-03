@@ -29,5 +29,17 @@ title: FILMLIT MISSION
 uri: /organizations/filmlit-mission/
 challenge_url: >-
   https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
+extrapolated_project_ids:
+  - '6102067'
+project_titles_from_extrapolated_project_ids:
+  - FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
+project_titles:
+  - FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
+project_titles_from_project_ids:
+  - FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
+original_project_titles:
+  - FILMLIT BARTER SKILLS CURRICULUM™ w/JOB CORPS LA!
+original_project_ids:
+  - '6102067'
 
 ---

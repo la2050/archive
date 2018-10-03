@@ -28,5 +28,17 @@ project_ids: '6102154'
 title: METRO Charter Elementary School
 uri: /organizations/metro-charter-elementary-school/
 challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
+extrapolated_project_ids:
+  - '6102154'
+project_titles_from_extrapolated_project_ids:
+  - PEOPLE IN ME' Interactive Cyber Mural
+project_titles:
+  - PEOPLE IN ME' Interactive Cyber Mural
+project_titles_from_project_ids:
+  - PEOPLE IN ME' Interactive Cyber Mural
+original_project_titles:
+  - '''PEOPLE IN ME'' Interactive Cyber Mural'
+original_project_ids:
+  - '6102154'
 
 ---

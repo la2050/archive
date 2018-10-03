@@ -21,10 +21,21 @@ project_ids: '4102180'
 title: UCLA Grand Challenges
 uri: /organizations/ucla-grand-challenges/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     Caregivers & Kids - License-Exempt & Child Inclusive Nutrition and Physical
     Activity Education
+project_titles_from_project_ids:
+  - >-
+    20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in
+    our diverse communities
+original_project_titles:
+  - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
+original_project_ids:
+  - '4102185'
+project_titles_flagged: 1
 youtube_video_identifier: DITouRhKW80
 
 ---

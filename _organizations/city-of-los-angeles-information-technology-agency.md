@@ -12,7 +12,7 @@ tags_indicators:
   - STEM & Digital literacy
   - Education & youth
 twitter: '@LACity'
-instagram: 0
+instagram: ''
 facebook: 'https://www.facebook.com/CityofLosAngelesTruePage/'
 org_type: Government
 project_image: >-
@@ -29,6 +29,16 @@ title: City of Los Angeles Information Technology Agency
 uri: /organizations/city-of-los-angeles-information-technology-agency/
 challenge_url: >-
   https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - GoDigital! LA’s Digital Literacy Program
+project_titles_from_project_ids:
+  - GoDigital! LAâ€™s Digital Literacy Program
+original_project_titles:
+  - GoDigital! LA’s Digital Literacy Program
+original_project_ids:
+  - '8102025'
 category: learn
 
 ---

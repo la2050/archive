@@ -28,8 +28,18 @@ project_ids: '5102113'
 title: Golden Heart Ranch
 uri: /organizations/golden-heart-ranch/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
+extrapolated_project_ids:
+  - '5102113'
+project_titles_from_extrapolated_project_ids:
+  - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
 project_titles:
   - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
+project_titles_from_project_ids:
+  - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
+original_project_titles:
+  - Golden Heart Ranch... Creating Opportunities for Special Needs Young Adults.
+original_project_ids:
+  - '5102113'
 maker_image_id: '23906'
 maker_image_file_name: 2014-08-12_11.41.58.jpg
 

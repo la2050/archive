@@ -42,6 +42,7 @@ project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/red-h
 project_video: ''
 project_id_3: '8102101'
 year_submitted: 2018
+organization_name: Red Hen Press
 project_proposal_description: >-
   In 2017, Red Hen Press moved into a permanent home in Pasadena with enough
   space to allow us to expand our community programming significantly. Red Hen

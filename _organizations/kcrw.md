@@ -29,5 +29,39 @@ title: KCRW
 uri: /organizations/kcrw/
 challenge_url: >-
   https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
+extrapolated_project_ids:
+  - '6102113'
+  - '5102158'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Help build the KCRW Media Center — designed for YOU to CONNECT with public
+    radio in Los Angeles.
+  - KCRW Capital Campaign
+project_titles:
+  - >-
+    Help build the KCRW Media Center — designed for YOU to CONNECT with public
+    radio in Los Angeles.
+  - KCRW Capital Campaign
+project_titles_from_project_ids:
+  - >-
+    Help build the KCRW Media Center — designed for YOU to CONNECT with public
+    radio in Los Angeles.
+original_project_titles:
+  - 'Building Healthy Futures for Children Who’ve Experienced Trauma '
+  - 'DynamiCity: Embracing Imbalance to Improve Cities'
+  - >-
+    Happy kids, Healthy Families for a Better LA: bringing mental health into
+    families homes.
+  - >-
+    Help build the KCRW Media Center — designed for YOU to CONNECT with public
+    radio in Los Angeles.
+  - 'Is.Was.Will Be. '
+  - Toward a Carbon Neutral House
+original_project_ids:
+  - '4102203'
+  - '5102053'
+  - '5102269'
+  - '6102113'
+project_titles_flagged: 1
 
 ---

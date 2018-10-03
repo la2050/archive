@@ -32,5 +32,17 @@ title: ARGO Labs
 uri: /organizations/argo-labs/
 challenge_url: >-
   https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
+extrapolated_project_ids:
+  - '6102009'
+project_titles_from_extrapolated_project_ids:
+  - Street Quality Identification Device aka SQUID
+project_titles:
+  - Street Quality Identification Device aka SQUID
+project_titles_from_project_ids:
+  - Street Quality Identification Device aka SQUID
+original_project_titles:
+  - Street Quality Identification Device aka SQUID
+original_project_ids:
+  - '6102009'
 
 ---

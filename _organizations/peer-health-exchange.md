@@ -9,9 +9,9 @@ zip: '90017'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=562374305'
 ntee_type: ''
 tags_indicators:
-  - Teaching & mentorship
+  - Community health
   - Volunteerism
-  - Education & youth
+  - Health
   - Social connectedness
 twitter: twitter.com/peerhealthexch
 instagram: peerhealthexchange
@@ -34,6 +34,24 @@ project_ids: '8102094'
 title: Peer Health Exchange
 uri: /organizations/peer-health-exchange/
 challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'
+extrapolated_project_ids:
+  - '3102216'
+project_titles_from_extrapolated_project_ids:
+  - Empowering Teens with the Knowledge and Skills to Make Healthy Decisions
+project_titles:
+  - Access to Health Resources for Young People
+  - Empowering Teens with the Knowledge and Skills to Make Healthy Decisions
+  - Frogtown Ribbon Gardens
+project_titles_from_project_ids:
+  - Access to Health Resources for Young People
+  - Access to Health Resources for Young People
+original_project_titles:
+  - Access to Health Resources for Young People
+  - Empowering Teens to Make Healthy Decisions
+original_project_ids:
+  - '4102086'
+  - '8102094'
+project_titles_flagged: 1
 category: live
 
 ---

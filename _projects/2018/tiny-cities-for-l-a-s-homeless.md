@@ -29,6 +29,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=5y2nTF_hrSE'
 project_id_3: '8102039'
 year_submitted: 2018
+organization_name: Family Promise of the South Bay
 project_proposal_description: >-
   Our group would like to activate the idea of Tiny Cities to solve the homeless
   crisis in Los Angeles County. We have been talking to City and County

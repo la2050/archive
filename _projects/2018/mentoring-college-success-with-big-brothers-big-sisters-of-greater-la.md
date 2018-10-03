@@ -3,7 +3,7 @@ project_id: '8102007'
 project_id_2: '8102007'
 title: Mentoring College Success with Big Brothers Big Sisters of Greater LA
 project_summary: >-
-  Big Brothers Big Sisters of LA’s College P.A.C. Program  (Preparation, Access,
+  Big Brothers Big Sisters of LA’s College P.A.C. Program (Preparation, Access,
   Completion) provides underserved youth with mentoring support to finish high
   school, graduate college, and start careers.
 Please describe the activation your organization seeks to launch.: >-
@@ -29,6 +29,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=3J0TBcxjUQY'
 project_id_3: '8102007'
 year_submitted: 2018
+organization_name: Big Brothers Big Sisters of Greater Los Angeles
 project_proposal_description: >-
   We are proposing an expansion of our College Preparation, Access, Completion
   (PAC) program to provide all our youth mentees with an umbrella of resources

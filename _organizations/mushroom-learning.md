@@ -20,8 +20,19 @@ project_ids: '4102067'
 title: Mushroom Learning
 uri: /organizations/mushroom-learning/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102152'
+project_titles_from_extrapolated_project_ids:
+  - We Teach Kids Code
 project_titles:
   - We Teach Kids Code
+project_titles_from_project_ids:
+  - 'Bridging the Divide in LA: Language and Digital Literacy Pilot'
+original_project_titles:
+  - We Teach Kids Code
+original_project_ids:
+  - '4102152'
+project_titles_flagged: 1
 maker_image_id: '21687'
 maker_image_file_name: la2050-pic-2.png
 

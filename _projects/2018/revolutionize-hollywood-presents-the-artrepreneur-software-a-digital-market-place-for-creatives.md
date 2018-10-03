@@ -28,6 +28,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102103'
 year_submitted: 2018
+organization_name: Revolutionize Hollywood
 project_proposal_description: >-
   We will implement “The ArTrepreneur”, a new software designed to drive
   engagement with LA artist, profile creative work and assist with creating

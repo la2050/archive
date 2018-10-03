@@ -26,8 +26,21 @@ project_ids: '4102133'
 title: ExchangeWorks
 uri: /organizations/exchangeworks/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
+extrapolated_project_ids:
+  - '5102095'
+project_titles_from_extrapolated_project_ids:
+  - 'EWLA: Creating a network for exchange between artists and the public'
 project_titles:
   - 'EWLA: Creating a network for exchange between artists and the public'
+project_titles_from_project_ids:
+  - 'Los Angeles Performance Practice: Innovative Performance in DTLA'
+original_project_titles:
+  - 'EWLA: Creating a network for exchange between artists and the public'
+  - 'EWLA: Creating a network for exchange between artists and the public'
+original_project_ids:
+  - '5102095'
+  - '5102095'
+project_titles_flagged: 1
 maker_image_id: '23585'
 maker_image_file_name: EW_Molly_EWLA_sm.jpg
 

@@ -80,6 +80,437 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  city_state: 'Los Angeles, CA'
+  org_name: The Project for The Imagined Futures
+  org_website: 'http://www.theimaginedfutures.org'
+  org_twitter: www.twitter.com/IFLosAngeles
+  org_facebook: 'https://www.facebook.com/TheImaginedFutures'
+  org_instagram: 'http://instagram.com/theimaginedfutures'
+  org_mailingaddress: '5017 Ambrose Avenue, Los Angeles, CA 90027'
+  org_ein: '471442056'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    The Imagined Futures wants Angelenos to immersively interact with technology
+    & storytelling in order to imagine & create possible futures.
+  one_sentence_project: >-
+    Presenting entertaining & educational public events & designing an
+    interactive museum experience to celebrate art, storytelling & tech in LA
+  describe_idea: >-
+    Test drive your future: explore how art, tech, and storytelling in Los
+    Angeles can create The Imagined Futures with @IFLosAngeles.
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: >-
+    The Imagined Futures is a museum, a classroom, a theater: a space for
+    connecting art, technology, and storytelling. It uses education and
+    entertainment to engage students of all ages by 1) bringing together
+    fictional futures and real-world underpinnings; 2) facilitating discussions
+    about possible futures between scientists, engineers, artists and the
+    public; 3) providing resources for educators who want to interest students
+    in STEM and the creative arts; and 4) considering the impact of imagined
+    futures on L.A. The Imagined Futures consists of 3 areas: galleries
+    containing objects for thinking about the future; live programming,
+    screenings, panels and debates; and an augmented future-vision panorama of
+    Los Angeles created by each visitor.
+  implement: "The Imagined Futures consists of three components: live programming; a sequence of galleries; and an augmented-reality panorama of the city of Los Angeles in the future. We can start work on the first of these today; the other two need custom-designed physical spaces which we will start preparing. The first phase of The Imagined Futures, covered by this grant, is the next year. We will establish ourselves with live programming while finalizing the design for the complete vision. The second phase will implement that vision with the aim of opening the building at the end of 2016. (More on this can be read on our website, http://theimaginedfutures.org) \r\n\r\nWe've found a group of designers and creative minds to help develop our vision. Many are former Disney Imagineers now working at places like Google, The X Prize Foundation, and The Hettema Group. Over the past year, we've had twelve charettes with this group; that process will continue, but we're now at the point where we should work with a professional design firm – Thinkwell Group\_– to come up with concrete visions of the space needed, layouts of the galleries, what exhibits require, and the greater user experience. We estimate this process will take three months. \r\n\r\nAfter this, we can commission a feasibility study from Entertainment + Culture Advisors to determine the project's cost (working estimate: $70 million) and resource usage. This will take another three months. At that point, serious fundraising can begin with introductions to potential partners: individuals and L.A.-based corporations that see our work as a way to attract possible future talent.\r\n\r\nIn parallel with this work, we will start implementing live educational programming – some in Spanish or dual-language – by bringing together creatives and technologists to imagine futures in front of the general public. Our partners will the National Academy of Sciences, who have been presenting films with commentary from scientists. Working with the NAS, we will expand programming to include panels, presentations, debates, and competitions, as well as building mutually beneficial visibility.\r\n\r\nWe also want to work with schools to bring scientists and artists working in creative media to students as a tool for educators to augment existing curricula. We want to bring together storytellers and people working on technology featured in stories to create a moment of revelation for audiences throughout the city who otherwise might not have such access."
+  impact_create: "Los Angeles has been built on the idea that the future is captivating. Our inexhaustible appetite for science fiction and imaginative entertainment – often created right here in Hollywood – exists because everyone loves thinking about potential futures. Innovation, in both art and sciences, happens because someone looks at the world and imagines how an element of it could be different – and, perhaps, the changes that might come across because of that difference. New products – and works of art\_– come into being this way all the time. And social change can happen because people imagine better possible futures. By encouraging creative and imaginative thinking, we can cultivate a better future. The Imagined Futures wants to challenge people to explore, predict and imagine the possibilities for the future.\r\n\r\nThat's why this project, at its core, is about Los Angeles itself. The possibilities for a city focused on imagining future potentials – as Los Angeles historically has been, from the prominence of the film and aerospace industries in the twentieth century to Activision today – are exciting. We want make sure that LA doesn't lose creativity to centers like San Francisco or New York by highlighting local creators, researchers, and companies who are on the cutting edge. We want to excite young Angelenos about scientific, technological, and creative career choices. The Imagined Futures also celebrates imagination, which teaches critical thinking, collaboration, problem solving, and entrepreneurship just as it leads to new industries in engineering, art, science and design. \r\n\r\nA major goal for The Imagined Futures is to brand – or rebrand – LA as the premier place for creative minds to come to tinker with science and art in order to make exciting new things. This rebranding will have an immediate effect on existing creative industries: companies will be able to attract new talent and new ventures will find a foothold here. But the broader benefits of The Imagined Futures will only be seen with time. The seeds of ideas dreamed up today can blossom into future industries and fields of study. By 2050 there will be a more pronounced effect, as students who have grown up with The Imagined Futures programming will become major players in the industries that define the city. A population raised to prioritize the imagination will develop faster, farther and smarter. By doing so, we hope to create a population that will sustain Los Angeles well into the future. \r\n"
+  who_benefit: "Primary beneficiaries of The Imagined Futures in its completed form will be visitors. Visitors to The Imagined Futures can be divided into three groups: 1) tourists, as we imagine it becoming a destination like LACMA or the California Science Center; 2) school children, who will visit The Imagined Futures in classroom groups as part of our educational component; and 3) Angelenos, who will return for event programming even if they've already visited the museum component.\r\n\r\nEven at the project's inception, other primary beneficiaries will be Los Angeles scientists, technologists, artists, and storytellers. The Imagined Futures will allow scientists to connect with artists (and vice versa), as well as sharing insights and ideas with the general public, which appears to be interested but generally lacks a venue for this sort of learning. The Imagined Futures will also be a platform for scientists and technologists as well as entertainment firms to promote their work as a way to attract attention, future talent, and the funds to continue.\r\n\r\nBy extension, this project will benefit the Los Angeles economy more broadly – by bringing in money to the area – and attention to Los Angeles firms and creators. As a resource for educators, it will make getting students interested in STEM jobs (and thinking more broadly about the function of creativity) easier. A primary goal of this museum is to interest underrepresented populations in STEM fields: women, minorities, low-income groups, and those with English as a second language. Long-term, we'd like to see those students going into science, technology, and entertainment, bringing with them their diverse backgrounds and keeping their skills in the Los Angeles area. We want to be a driver of technological and entertainment progress in Los Angeles, which will benefit everyone. \r\n\r\nIn the short term, The Imagined Futures will not have a physical building. The number of people – and their economic effects – attending programs set up by The Imagined Futures will be smaller than it will be. We will, however, be able to launch our first year of educational initiatives, as well as public programming in partnership with the National Academy of Sciences. Collaborations between creators and scientists – and interaction between those professionals and students – will be happening from the beginning. We envision an immediate impact on students as well as a secondary impact on the creative arts in Los Angeles."
+  partners_collaboration: "As mentioned above, there's been a tremendous interest in our project. We've formed an informal working group to design the project that includes people working at JPL, Tesla, Google, Disney Imagineering, The X Prize Foundation, and The Hettema Group, as well as writers, film producers, gamemakers, designers, and architects.\r\n\r\nTo move forward, we need a complete design for the project's physical implementation. Members of the Burbank-based Thinkwell Group – the premier agency for designing museums, theme parks, and exhibits –\_have been working with us informally. Thinkwell has agreed to take us on as a client. Their work will finalize concrete visions of the space needed, layouts of the galleries, exhibition requirements, and user experience. We estimate this process will take three months. Once finished, we can commission a feasibility study from Beverly Hills-based Entertainment + Culture Advisors, who we've been meeting with. Successful completion of both studies will allow us to pinpoint exactly what we need to build to make our project feasible and designed for its highest potential. The concrete plan this process will develop will allow us to begin more serious fundraising. \r\n\r\nRisks with these partners include time and money: our working process has given us a good idea of what we'd like to do, but a design process that isn't carefully controlled could drag out and cost more money than we've anticipated. We've reduced risk by having a long pre-design process working with others who've worked on similar projects –\_like Seattle's Experience Music Project. We've learned from their mistakes. Mission drift is a potential problem, but one we've attempted to minimize by focusing on what we want to do and working with experienced people. \r\n\r\nAs part of this preparedness, we want to start programming before we have a final space. Our partner in this will be The Science & Entertainment Exchange, part of the National Academy of Sciences. While they typically work with movies and television to increase the amount of science on screen, they want to work with us to reach a broader audience through public programming. Potential issues are building compelling programming, attracting audiences, and finding spaces. The NAS has shown they can do the first of these; we have tentative agreements with members of our working group in the entertainment business – including film institutes – to help us with the second and third of these issues. \r\n"
+  metrics_create_employment: '1'
+  metrics_create_arts: '0'
+  metrics_create_manufacturing: '0'
+  metrics_create_researchgrant: '1'
+  metrics_create_patents: '1'
+  metrics_create_jbs: '1'
+  metrics_create_minoritywomenowned: '1'
+  metrics_create_gini: '1'
+  metrics_create_startups: '1'
+  metrics_create_venturecapital: '1'
+  metrics_create_influencers: '1'
+  metrics_create_recruitingrates: '1'
+  metrics_create_graduates: '1'
+  metrics_create_unemployment: '0'
+  metrics_create_other: '0'
+  metrics_create_blank: ''
+  impact_metrics: "The Imagined Futures should have a strong impact on almost all of the LA2050 Create metrics.\r\n\r\nPrimary impact will be on:\r\n* Employment in creative industries: by encouraging crossover between science, tech & the creative world, as well as by highlighting science & tech-related aspects of the entertainment industry that wouldn't otherwise be noticed.\r\n* Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): The Imagined Futures will spotlight how much work in science & tech there is in LA, helping to keep talent in the city.\r\n* Measures of cultural and global economic influence (“soft power”) (Dream Metric): A primary focus of The Imagined Futures is highlighting LA's history of cultural & industrial influence, as well as making that a selling point for tourism. When people think innovation, they should think LA. \r\n* Recruiting and retention rates at local higher education institutions (Dream Metric). If L.A. is seen as a center for creativity and technology, it will recruit & retain more students. Promoting work done at research universities in the Los Angeles area (like CalTech's work with JPL) is good for them. We also envision working with college interns from smaller educational institutions.\r\n\r\nSecondary impact will be made on:\r\n* Number of high-growth startups, patents per capita, venture capital investment, jobs per capita: The Imagined Futures is encouraging young people to take an interest in STEM careers, as well as focusing attention on the tech needs of the entertainment business. Over time this will lead to a greater number of high-growth startups, patents per capita, and venture capital investment, and more jobs per capita. \r\n* Gini coefficient, Minority- and women-owned firms: The Imagined Futures is directly aimed at inspiring underrepresented groups to go into higher income fields than they otherwise would have. STEM fields or creative work might seem out of reach to many of them; we can inspire them to dream bigger. \r\n* Federal research grant funding: a goal of The Imagined Futures is building visiblity for scientists and their work that might otherwise go unnoticed, especially if that work will benefit the community. \r\n\r\nTertiary impact will be made on arts establishments per capita, concentration of manufacturing activity in LA, and unemployment rates (and opportunities) for the formerly incarcerated. \r\n"
+  best_place_to_learn: '1'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '0'
+  best_place_to_play: '1'
+  evaluate: "This is the first stage of a multi-year process. In the next year, two steps toward future financial viability need to happen: first, a serious design for the project, and second, a feasibility study based on that design which will tell us how much money we need to raise. Those two things need to happen in the next six months. This is a binary, not a metric.\r\n\r\nAfter those are done, serious fundraising will begin in earnest. The feasibility study will tell us how much money we need to raise, and how much money we'll need before we can start building. When this is done, we can have concrete goals on how much money needs to be raised, especially in the remainder of the first year: this will be one clear metric for success. \r\n\r\nIn parallel with design and fundraising, we're going to start our public programming. We envision ten public and in-school programs over the next year; we're interested in the number of attendants, the number of repeat attendants, and stated satisfaction with the programming. Ideally, each program will be bigger than the last. This is an area in which there's a great deal of public interest; we need to demonstrate that we can take advantage of that. As one of our goals is to reach underrepresented groups, at least one event will specifically target a Spanish-speaking audience and another will focus on women. Attendence from these groups at all events will be tracked and our ability to attract these audiences will be a measure of success.\r\n\r\nAdditionally, we need to accumulate supporters, collaborators, and potential board members. We've started on the first two already, and have a long list for the third. Board members will be judged by their ability to fundraise as needed by the project. By the end of this year, we want a board full of people who are excited about the project who are willing and able to help us raise the amount of money we need to make The Imagined Futures a reality for everyone. \r\n"
+  two_lessons: "First, a personal story. I've been a Big Brother to underprivileged youths in Los Angeles since college. Two summers ago, I suggested to Brent that we could read Isaac Asimov's \"Foundation\" together: it's a book that I remember loving when I was his age. He didn't know it; he found it hard going at first. But then came an \"aha\" moment: when the vision of the future that Asimov is presenting in that book and its sequels (which he raced through with a speed that astonished everyone) took him over. More than that: the idea that the future was something that could be shaped, that he could have agency over not just his life, turbulent as it might seem, but also the future of society. We talked about that for hours – and he started to see why science and math, unattractive though they might seem, weren't impositions so much as tools that he could use to make something bigger. What happened with Brent isn't that different from what any educator's trying to do. But so many don't get through. I started wondering how we could create \"aha\" moments for ten Brents, a thousand Brents, a million Brents. If we can harness the power of storytelling to get kids on a grand scale to consider STEM disciplines, we should. We'll all benefit. \r\n\r\nSecond, a lesson from history. We use cell phones every day; every once in a while we pass a television showing Star Trek and note how similar the communicator they use in that show is to what we can do with an iPhone. This isn't an accident of convergent evolution. Martin Cooper, an engineer at Motorola, saw the Star Trek communicator and started wondering \"what if\": what if with the technology of the late 1970s he could make something like that? He did: the cell phone. Probably Gene Roddenberry didn't have any idea that he would be shaping the future for all of us when he inserted the communicator into his television show. That creative act didn't actually shape the future by itself.\_When it came together with a mind prepared to act upon it –\_Martin Cooper's –\_it did. The story of the invention of the cell phone isn't an isolated one: scratch deeper in recent technological innovation and you'll find a hundred more. \r\n\r\nTremendous power becomes available when technology and storytelling come together. The time is right to harness that potential. At The Imagined Futures, we want to make \"aha\" and \"what if\" moments happen for everyone.\r\n"
+  achievable_goal: "While this is the first public year for The Imagined Futures, this is a project that we've been working on privately for eighteen months. We've spent the last year speaking to a variety of people – agents, directors, producers, studio heads, writers, people at JPL, CalTech, USC, UCLA, Boeing, Activision, GoogleX, Microsoft, Disney, Disney Imagineering, CAA, National Academy of Sciences, Exxon Mobil, LACMA, Paul Allen's Experience Music Project – who have participated in shaping our ideas as part of the informal working group behind our project. More have expressed confidence in our ability to execute. A museum that celebrates art and technology in LA is a \"no-brainer\", we've been told several times. We've absorbed their input and we're ready to move. \r\n\r\nOver the next twelve months, work on The Imagined Futures will proceed along two parallel tracks.\r\n\r\nThe first is connected to development. The next twelve months will be spent working intensely on designing the museum, exploring feasibility, and creating fundraising presentations. Collaborators for this are ready to go; they only need money to get started. This work should take the first six months of the year. By the second half of the year, we will use the information they provide to start assembling a board. Early donor meetings should be underway, moving us forward to the next stage of creating The Imagined Futures.\r\n\r\nThe second is event-based. The National Academy of Sciences has indicated its willingness to co-present events both entertaining and educational –\_film series, talks, panel discussions – with The Imagined Futures, which we intend to start as soon as possible. We will put on at least ten of these public programs bringing together entertainment and science. One will specifically focus on a Spanish-speaking audience; another on women. These events will raise awareness for the project and provide valuable feedback for how the project should proceed; eventually this programming will be folded into our building and expanded to be daily. \r\n\r\nIn addition, we want to start working with educators and collaborators (including the NAS and the X Prize Foundation) to understand how best to put The Imagined Futures' educational strategies into play. In the early stages, this could consist of bringing groups of schoolchildren to presentations by artists and scientists; this could proceed along with our more event-based programming. "
+  major_challenges: "We're executing on a big plan. While it would be more exciting to immediately open any doors, no matter how small, to the public, we think this project is important enough to be worth doing correctly. We've seen a number of superficially similar projects raise a fair amount of money with Kickstarters, only to fizzle out when they realize that they don't have a greater plan on how to get to the next level.\r\n\r\nDoing this project correctly requires major funding, which is obviously a risk. While we have a clearly defined pool of potential donors (as well as a number of parties who have already indicated interest), we want to be able to approach them with an extremely detailed plan for what money will be needed, how that money will be spent, and what the results will be. Assembling a serious board is a major goal for the next year: we want to get people who are deeply integrated into southern California's technology and entertainment industries, who are excited about thinking about the future, and who want to work with us to make this a reality. These people are out there. Quality of the board will be key to success in development; one of the members of the Experience Music Project team has offered to help us develop a strong board using the lessons learned there. \r\n\r\nA second risk is developing legitimacy. We have a strong network, but introductions (and donations) require the perception of legitimacy. This is another area that a strong board will help with. We're also looking for suitable collaborators who share our vision. We've found one in the National Academy of Sciences; we're also talking with the California Science Center, who are interested in working with us on programming for the exhibits around the space shuttle Endeavour. We need to identify other such potential collaborators, and we'd welcome the input of LA2050 on developing these connections. \r\n\r\nA challenge on a different scale is attracting audiences that are different from those that have historically shown strong interest in the intersection between creativity and science. These underrepresented populations need more inclusionary programming which we're going to focus on providing. It's important that The Imagined Futures belong to everyone, not just fans of science fiction. "
+  competition: "A handful of science-fiction-themed museums exist or are in the planning stages. The highest profile is Paul Allen's EMP museum in Seattle, which includes science fiction exhibits in a museum primarily about pop music. Other projects have been funded by Kickstarter or are in the planning stages; the funding for these projects is limited and the teams behind them appear to lack the financial acumen to create a lasting cultural institution: a Kickstarter will get you off the ground, but it won't keep you going. While there's a similarity between these museums and our project, there is a substantial difference between what they're doing and what we're doing: science fiction museums, paradoxically, celebrate things of the past. We're interested in the future, and our interest in the past is as a tool for moving forward. Additionally, science fiction by itself has a perception of historically excluding demographics that we understand as central to our mission. Even the phrase \"science fiction\" can dissuade those who might otherwise be interested in the concepts entailed.\r\n \r\n A number of (primarily older) science and technology museums also exist (the California Science Center, for example), and there's no shortage of entertainment-themed attractions in southern California. Some non-museum institutions also might be thought of as comparable: witness the continued popularity of ComiCon and its ability to mobilize the power of fans. It's clear that a major audience exists for what we want to do. However, there's a near universal failure to present entertainment and science as being complementary. We think there's a tremendous opportunity to focus on the intersection of storytelling and technology –\_an intersection that has historically had a major center in Los Angeles. Creativity and technology are tools that can be used to reshape a city at a crossroads.\r\n\r\n There are currently a number of educational and community organizations in Los Angeles focused on building interest in STEAM and STEM disciplines, but these organizations don't have a central location which we could provide. Similarly, we could provide a centralized stage and audience for other ventures designed to encourage creativity and science in Los Angeles – like what Tesla and the X Prize are doing – so that these projects could have a more public impact. The Imagined Futures can provide a home in L.A. for productive intersection and interchange between many different organizations and interests. "
+  cost: "This grant will fund the first stage of a multi-part process, though $100,000 will cover operations for the first year of The Imagined Futures. To build The Imagined Futures as we imagine it will take considerably more that $100,000; a prelimary estimate is approximately $70 million. Much of this grant will pay for comprehensive feasibility and consulting to generate a detailed plan that will make raising much greater sums of money – from individuals, corporations, and foundations – possible.\r\n\r\nTo cover additional live programming needs, we anticipate partnering with corporations, studios, and other organizations as necessary. Our partners at the National Academy of Sciences have already shown this can happen at a small level; we want to make what they're doing bigger and have more of an impact.\r\n"
+  budget: "DEVELOPMENT COSTS:\r\n* Design for The Imagined Futures: $45,000\r\nThis work is done by the Thinkwell Group. Estimated time: 3 months. This can begin immediately.\r\n\r\n* Feasibility study for The Imagined Futures: $15,000.\r\nThis work will be done by Entertainment + Culture Advisors. Estimated time: 3 months. This can begin as soon as design work is completed.\r\n\r\nThis work will enable future fundraising.\r\n\r\nPROGRAMMING COSTS:\r\n10 programs are envisioned over a period of 12 months.\r\n* Honoraria: $500/each; average 2 speakers per event x 10 events = $10,000\r\n* Travel costs for speakers: slush fund of $5,000.\r\n* A/V rentals: $500/screening x 10 event = $5,000\r\n* Part-time program manager: $5,000\r\n* Part-time publicity manager: $2,500\r\n* Publicity: $5,000 (in conjunction with partners' contributions)\r\n* Miscellaneous expenses: $2,500\r\n* Administration, legal, and accounting costs: $5,000\r\n \r\n Partnerships with the National Academy of Sciences, the X Prize Foundation, and educational and film institutes are a major part of this program & will significantly offset costs. We also anticipate soliciting corporate sponsorships – some of which has already been offered – for this programming.\r\n \r\n* Staff: volunteer basis.\r\n* Online social media coordinator: volunteer basis.\r\n* Space rental: free. Partnerships with theaters and film institutes can make this happen. \r\n* Media costs: free. Partnerships with studios and film institutes can make this happen.\r\n* Catering: can be sponsored.\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: The Project for The Imagined Futures
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: 'http://www.theimaginedfutures.org'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/IFLosAngeles
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/TheImaginedFutures'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: 'http://instagram.com/theimaginedfutures'
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '5017 Ambrose Avenue, Los Angeles, CA 90027'
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '471442056'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      The Imagined Futures wants Angelenos to immersively interact with
+      technology & storytelling in order to imagine & create possible futures.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Presenting entertaining & educational public events & designing an
+      interactive museum experience to celebrate art, storytelling & tech in LA
+  - name: describe_idea
+    label: ''
+    explanation: >-
+      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
+      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
+      have such an awesome project! Please vote for @GoldhirshFdn here!'
+    answer: >-
+      Test drive your future: explore how art, tech, and storytelling in Los
+      Angeles can create The Imagined Futures with @IFLosAngeles.
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: ''
+    explanation: Yes (benefits a region of LA County)
+    answer: '0'
+  - name: population_county
+    label: ''
+    explanation: Yes (benefits a population of LA County)
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      The Imagined Futures is a museum, a classroom, a theater: a space for
+      connecting art, technology, and storytelling. It uses education and
+      entertainment to engage students of all ages by 1) bringing together
+      fictional futures and real-world underpinnings; 2) facilitating
+      discussions about possible futures between scientists, engineers, artists
+      and the public; 3) providing resources for educators who want to interest
+      students in STEM and the creative arts; and 4) considering the impact of
+      imagined futures on L.A. The Imagined Futures consists of 3 areas:
+      galleries containing objects for thinking about the future; live
+      programming, screenings, panels and debates; and an augmented
+      future-vision panorama of Los Angeles created by each visitor.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "The Imagined Futures consists of three components: live programming; a sequence of galleries; and an augmented-reality panorama of the city of Los Angeles in the future. We can start work on the first of these today; the other two need custom-designed physical spaces which we will start preparing. The first phase of The Imagined Futures, covered by this grant, is the next year. We will establish ourselves with live programming while finalizing the design for the complete vision. The second phase will implement that vision with the aim of opening the building at the end of 2016. (More on this can be read on our website, http://theimaginedfutures.org) \r\n\r\nWe've found a group of designers and creative minds to help develop our vision. Many are former Disney Imagineers now working at places like Google, The X Prize Foundation, and The Hettema Group. Over the past year, we've had twelve charettes with this group; that process will continue, but we're now at the point where we should work with a professional design firm – Thinkwell Group\_– to come up with concrete visions of the space needed, layouts of the galleries, what exhibits require, and the greater user experience. We estimate this process will take three months. \r\n\r\nAfter this, we can commission a feasibility study from Entertainment + Culture Advisors to determine the project's cost (working estimate: $70 million) and resource usage. This will take another three months. At that point, serious fundraising can begin with introductions to potential partners: individuals and L.A.-based corporations that see our work as a way to attract possible future talent.\r\n\r\nIn parallel with this work, we will start implementing live educational programming – some in Spanish or dual-language – by bringing together creatives and technologists to imagine futures in front of the general public. Our partners will the National Academy of Sciences, who have been presenting films with commentary from scientists. Working with the NAS, we will expand programming to include panels, presentations, debates, and competitions, as well as building mutually beneficial visibility.\r\n\r\nWe also want to work with schools to bring scientists and artists working in creative media to students as a tool for educators to augment existing curricula. We want to bring together storytellers and people working on technology featured in stories to create a moment of revelation for audiences throughout the city who otherwise might not have such access."
+  - name: impact_create
+    label: ''
+    explanation: ''
+    answer: "Los Angeles has been built on the idea that the future is captivating. Our inexhaustible appetite for science fiction and imaginative entertainment – often created right here in Hollywood – exists because everyone loves thinking about potential futures. Innovation, in both art and sciences, happens because someone looks at the world and imagines how an element of it could be different – and, perhaps, the changes that might come across because of that difference. New products – and works of art\_– come into being this way all the time. And social change can happen because people imagine better possible futures. By encouraging creative and imaginative thinking, we can cultivate a better future. The Imagined Futures wants to challenge people to explore, predict and imagine the possibilities for the future.\r\n\r\nThat's why this project, at its core, is about Los Angeles itself. The possibilities for a city focused on imagining future potentials – as Los Angeles historically has been, from the prominence of the film and aerospace industries in the twentieth century to Activision today – are exciting. We want make sure that LA doesn't lose creativity to centers like San Francisco or New York by highlighting local creators, researchers, and companies who are on the cutting edge. We want to excite young Angelenos about scientific, technological, and creative career choices. The Imagined Futures also celebrates imagination, which teaches critical thinking, collaboration, problem solving, and entrepreneurship just as it leads to new industries in engineering, art, science and design. \r\n\r\nA major goal for The Imagined Futures is to brand – or rebrand – LA as the premier place for creative minds to come to tinker with science and art in order to make exciting new things. This rebranding will have an immediate effect on existing creative industries: companies will be able to attract new talent and new ventures will find a foothold here. But the broader benefits of The Imagined Futures will only be seen with time. The seeds of ideas dreamed up today can blossom into future industries and fields of study. By 2050 there will be a more pronounced effect, as students who have grown up with The Imagined Futures programming will become major players in the industries that define the city. A population raised to prioritize the imagination will develop faster, farther and smarter. By doing so, we hope to create a population that will sustain Los Angeles well into the future. \r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "Primary beneficiaries of The Imagined Futures in its completed form will be visitors. Visitors to The Imagined Futures can be divided into three groups: 1) tourists, as we imagine it becoming a destination like LACMA or the California Science Center; 2) school children, who will visit The Imagined Futures in classroom groups as part of our educational component; and 3) Angelenos, who will return for event programming even if they've already visited the museum component.\r\n\r\nEven at the project's inception, other primary beneficiaries will be Los Angeles scientists, technologists, artists, and storytellers. The Imagined Futures will allow scientists to connect with artists (and vice versa), as well as sharing insights and ideas with the general public, which appears to be interested but generally lacks a venue for this sort of learning. The Imagined Futures will also be a platform for scientists and technologists as well as entertainment firms to promote their work as a way to attract attention, future talent, and the funds to continue.\r\n\r\nBy extension, this project will benefit the Los Angeles economy more broadly – by bringing in money to the area – and attention to Los Angeles firms and creators. As a resource for educators, it will make getting students interested in STEM jobs (and thinking more broadly about the function of creativity) easier. A primary goal of this museum is to interest underrepresented populations in STEM fields: women, minorities, low-income groups, and those with English as a second language. Long-term, we'd like to see those students going into science, technology, and entertainment, bringing with them their diverse backgrounds and keeping their skills in the Los Angeles area. We want to be a driver of technological and entertainment progress in Los Angeles, which will benefit everyone. \r\n\r\nIn the short term, The Imagined Futures will not have a physical building. The number of people – and their economic effects – attending programs set up by The Imagined Futures will be smaller than it will be. We will, however, be able to launch our first year of educational initiatives, as well as public programming in partnership with the National Academy of Sciences. Collaborations between creators and scientists – and interaction between those professionals and students – will be happening from the beginning. We envision an immediate impact on students as well as a secondary impact on the creative arts in Los Angeles."
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "As mentioned above, there's been a tremendous interest in our project. We've formed an informal working group to design the project that includes people working at JPL, Tesla, Google, Disney Imagineering, The X Prize Foundation, and The Hettema Group, as well as writers, film producers, gamemakers, designers, and architects.\r\n\r\nTo move forward, we need a complete design for the project's physical implementation. Members of the Burbank-based Thinkwell Group – the premier agency for designing museums, theme parks, and exhibits –\_have been working with us informally. Thinkwell has agreed to take us on as a client. Their work will finalize concrete visions of the space needed, layouts of the galleries, exhibition requirements, and user experience. We estimate this process will take three months. Once finished, we can commission a feasibility study from Beverly Hills-based Entertainment + Culture Advisors, who we've been meeting with. Successful completion of both studies will allow us to pinpoint exactly what we need to build to make our project feasible and designed for its highest potential. The concrete plan this process will develop will allow us to begin more serious fundraising. \r\n\r\nRisks with these partners include time and money: our working process has given us a good idea of what we'd like to do, but a design process that isn't carefully controlled could drag out and cost more money than we've anticipated. We've reduced risk by having a long pre-design process working with others who've worked on similar projects –\_like Seattle's Experience Music Project. We've learned from their mistakes. Mission drift is a potential problem, but one we've attempted to minimize by focusing on what we want to do and working with experienced people. \r\n\r\nAs part of this preparedness, we want to start programming before we have a final space. Our partner in this will be The Science & Entertainment Exchange, part of the National Academy of Sciences. While they typically work with movies and television to increase the amount of science on screen, they want to work with us to reach a broader audience through public programming. Potential issues are building compelling programming, attracting audiences, and finding spaces. The NAS has shown they can do the first of these; we have tentative agreements with members of our working group in the entertainment business – including film institutes – to help us with the second and third of these issues. \r\n"
+  - name: metrics_create_employment
+    label: Employment in creative industries
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_arts
+    label: Arts establishments per capita
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_manufacturing
+    label: Concentration of manufacturing activity in LA
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_researchgrant
+    label: Federal research grant funding
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_patents
+    label: Patents per capita
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_jbs
+    label: Jobs per capita
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_minoritywomenowned
+    label: Minority- and women-owned firms
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_gini
+    label: Gini coefficient
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_startups
+    label: Number of high-growth startups
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_venturecapital
+    label: Venture capital investment
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_influencers
+    label: >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_recruitingrates
+    label: >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_graduates
+    label: >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_unemployment
+    label: >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "The Imagined Futures should have a strong impact on almost all of the LA2050 Create metrics.\r\n\r\nPrimary impact will be on:\r\n* Employment in creative industries: by encouraging crossover between science, tech & the creative world, as well as by highlighting science & tech-related aspects of the entertainment industry that wouldn't otherwise be noticed.\r\n* Percentage of graduates from local higher education institutions that remain in LA County 5 years after graduating (Dream Metric): The Imagined Futures will spotlight how much work in science & tech there is in LA, helping to keep talent in the city.\r\n* Measures of cultural and global economic influence (“soft power”) (Dream Metric): A primary focus of The Imagined Futures is highlighting LA's history of cultural & industrial influence, as well as making that a selling point for tourism. When people think innovation, they should think LA. \r\n* Recruiting and retention rates at local higher education institutions (Dream Metric). If L.A. is seen as a center for creativity and technology, it will recruit & retain more students. Promoting work done at research universities in the Los Angeles area (like CalTech's work with JPL) is good for them. We also envision working with college interns from smaller educational institutions.\r\n\r\nSecondary impact will be made on:\r\n* Number of high-growth startups, patents per capita, venture capital investment, jobs per capita: The Imagined Futures is encouraging young people to take an interest in STEM careers, as well as focusing attention on the tech needs of the entertainment business. Over time this will lead to a greater number of high-growth startups, patents per capita, and venture capital investment, and more jobs per capita. \r\n* Gini coefficient, Minority- and women-owned firms: The Imagined Futures is directly aimed at inspiring underrepresented groups to go into higher income fields than they otherwise would have. STEM fields or creative work might seem out of reach to many of them; we can inspire them to dream bigger. \r\n* Federal research grant funding: a goal of The Imagined Futures is building visiblity for scientists and their work that might otherwise go unnoticed, especially if that work will benefit the community. \r\n\r\nTertiary impact will be made on arts establishments per capita, concentration of manufacturing activity in LA, and unemployment rates (and opportunities) for the formerly incarcerated. \r\n"
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "This is the first stage of a multi-year process. In the next year, two steps toward future financial viability need to happen: first, a serious design for the project, and second, a feasibility study based on that design which will tell us how much money we need to raise. Those two things need to happen in the next six months. This is a binary, not a metric.\r\n\r\nAfter those are done, serious fundraising will begin in earnest. The feasibility study will tell us how much money we need to raise, and how much money we'll need before we can start building. When this is done, we can have concrete goals on how much money needs to be raised, especially in the remainder of the first year: this will be one clear metric for success. \r\n\r\nIn parallel with design and fundraising, we're going to start our public programming. We envision ten public and in-school programs over the next year; we're interested in the number of attendants, the number of repeat attendants, and stated satisfaction with the programming. Ideally, each program will be bigger than the last. This is an area in which there's a great deal of public interest; we need to demonstrate that we can take advantage of that. As one of our goals is to reach underrepresented groups, at least one event will specifically target a Spanish-speaking audience and another will focus on women. Attendence from these groups at all events will be tracked and our ability to attract these audiences will be a measure of success.\r\n\r\nAdditionally, we need to accumulate supporters, collaborators, and potential board members. We've started on the first two already, and have a long list for the third. Board members will be judged by their ability to fundraise as needed by the project. By the end of this year, we want a board full of people who are excited about the project who are willing and able to help us raise the amount of money we need to make The Imagined Futures a reality for everyone. \r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "First, a personal story. I've been a Big Brother to underprivileged youths in Los Angeles since college. Two summers ago, I suggested to Brent that we could read Isaac Asimov's \"Foundation\" together: it's a book that I remember loving when I was his age. He didn't know it; he found it hard going at first. But then came an \"aha\" moment: when the vision of the future that Asimov is presenting in that book and its sequels (which he raced through with a speed that astonished everyone) took him over. More than that: the idea that the future was something that could be shaped, that he could have agency over not just his life, turbulent as it might seem, but also the future of society. We talked about that for hours – and he started to see why science and math, unattractive though they might seem, weren't impositions so much as tools that he could use to make something bigger. What happened with Brent isn't that different from what any educator's trying to do. But so many don't get through. I started wondering how we could create \"aha\" moments for ten Brents, a thousand Brents, a million Brents. If we can harness the power of storytelling to get kids on a grand scale to consider STEM disciplines, we should. We'll all benefit. \r\n\r\nSecond, a lesson from history. We use cell phones every day; every once in a while we pass a television showing Star Trek and note how similar the communicator they use in that show is to what we can do with an iPhone. This isn't an accident of convergent evolution. Martin Cooper, an engineer at Motorola, saw the Star Trek communicator and started wondering \"what if\": what if with the technology of the late 1970s he could make something like that? He did: the cell phone. Probably Gene Roddenberry didn't have any idea that he would be shaping the future for all of us when he inserted the communicator into his television show. That creative act didn't actually shape the future by itself.\_When it came together with a mind prepared to act upon it –\_Martin Cooper's –\_it did. The story of the invention of the cell phone isn't an isolated one: scratch deeper in recent technological innovation and you'll find a hundred more. \r\n\r\nTremendous power becomes available when technology and storytelling come together. The time is right to harness that potential. At The Imagined Futures, we want to make \"aha\" and \"what if\" moments happen for everyone.\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "While this is the first public year for The Imagined Futures, this is a project that we've been working on privately for eighteen months. We've spent the last year speaking to a variety of people – agents, directors, producers, studio heads, writers, people at JPL, CalTech, USC, UCLA, Boeing, Activision, GoogleX, Microsoft, Disney, Disney Imagineering, CAA, National Academy of Sciences, Exxon Mobil, LACMA, Paul Allen's Experience Music Project – who have participated in shaping our ideas as part of the informal working group behind our project. More have expressed confidence in our ability to execute. A museum that celebrates art and technology in LA is a \"no-brainer\", we've been told several times. We've absorbed their input and we're ready to move. \r\n\r\nOver the next twelve months, work on The Imagined Futures will proceed along two parallel tracks.\r\n\r\nThe first is connected to development. The next twelve months will be spent working intensely on designing the museum, exploring feasibility, and creating fundraising presentations. Collaborators for this are ready to go; they only need money to get started. This work should take the first six months of the year. By the second half of the year, we will use the information they provide to start assembling a board. Early donor meetings should be underway, moving us forward to the next stage of creating The Imagined Futures.\r\n\r\nThe second is event-based. The National Academy of Sciences has indicated its willingness to co-present events both entertaining and educational –\_film series, talks, panel discussions – with The Imagined Futures, which we intend to start as soon as possible. We will put on at least ten of these public programs bringing together entertainment and science. One will specifically focus on a Spanish-speaking audience; another on women. These events will raise awareness for the project and provide valuable feedback for how the project should proceed; eventually this programming will be folded into our building and expanded to be daily. \r\n\r\nIn addition, we want to start working with educators and collaborators (including the NAS and the X Prize Foundation) to understand how best to put The Imagined Futures' educational strategies into play. In the early stages, this could consist of bringing groups of schoolchildren to presentations by artists and scientists; this could proceed along with our more event-based programming. "
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "We're executing on a big plan. While it would be more exciting to immediately open any doors, no matter how small, to the public, we think this project is important enough to be worth doing correctly. We've seen a number of superficially similar projects raise a fair amount of money with Kickstarters, only to fizzle out when they realize that they don't have a greater plan on how to get to the next level.\r\n\r\nDoing this project correctly requires major funding, which is obviously a risk. While we have a clearly defined pool of potential donors (as well as a number of parties who have already indicated interest), we want to be able to approach them with an extremely detailed plan for what money will be needed, how that money will be spent, and what the results will be. Assembling a serious board is a major goal for the next year: we want to get people who are deeply integrated into southern California's technology and entertainment industries, who are excited about thinking about the future, and who want to work with us to make this a reality. These people are out there. Quality of the board will be key to success in development; one of the members of the Experience Music Project team has offered to help us develop a strong board using the lessons learned there. \r\n\r\nA second risk is developing legitimacy. We have a strong network, but introductions (and donations) require the perception of legitimacy. This is another area that a strong board will help with. We're also looking for suitable collaborators who share our vision. We've found one in the National Academy of Sciences; we're also talking with the California Science Center, who are interested in working with us on programming for the exhibits around the space shuttle Endeavour. We need to identify other such potential collaborators, and we'd welcome the input of LA2050 on developing these connections. \r\n\r\nA challenge on a different scale is attracting audiences that are different from those that have historically shown strong interest in the intersection between creativity and science. These underrepresented populations need more inclusionary programming which we're going to focus on providing. It's important that The Imagined Futures belong to everyone, not just fans of science fiction. "
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "A handful of science-fiction-themed museums exist or are in the planning stages. The highest profile is Paul Allen's EMP museum in Seattle, which includes science fiction exhibits in a museum primarily about pop music. Other projects have been funded by Kickstarter or are in the planning stages; the funding for these projects is limited and the teams behind them appear to lack the financial acumen to create a lasting cultural institution: a Kickstarter will get you off the ground, but it won't keep you going. While there's a similarity between these museums and our project, there is a substantial difference between what they're doing and what we're doing: science fiction museums, paradoxically, celebrate things of the past. We're interested in the future, and our interest in the past is as a tool for moving forward. Additionally, science fiction by itself has a perception of historically excluding demographics that we understand as central to our mission. Even the phrase \"science fiction\" can dissuade those who might otherwise be interested in the concepts entailed.\r\n \r\n A number of (primarily older) science and technology museums also exist (the California Science Center, for example), and there's no shortage of entertainment-themed attractions in southern California. Some non-museum institutions also might be thought of as comparable: witness the continued popularity of ComiCon and its ability to mobilize the power of fans. It's clear that a major audience exists for what we want to do. However, there's a near universal failure to present entertainment and science as being complementary. We think there's a tremendous opportunity to focus on the intersection of storytelling and technology –\_an intersection that has historically had a major center in Los Angeles. Creativity and technology are tools that can be used to reshape a city at a crossroads.\r\n\r\n There are currently a number of educational and community organizations in Los Angeles focused on building interest in STEAM and STEM disciplines, but these organizations don't have a central location which we could provide. Similarly, we could provide a centralized stage and audience for other ventures designed to encourage creativity and science in Los Angeles – like what Tesla and the X Prize are doing – so that these projects could have a more public impact. The Imagined Futures can provide a home in L.A. for productive intersection and interchange between many different organizations and interests. "
+  - name: cost
+    label: ''
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "This grant will fund the first stage of a multi-part process, though $100,000 will cover operations for the first year of The Imagined Futures. To build The Imagined Futures as we imagine it will take considerably more that $100,000; a prelimary estimate is approximately $70 million. Much of this grant will pay for comprehensive feasibility and consulting to generate a detailed plan that will make raising much greater sums of money – from individuals, corporations, and foundations – possible.\r\n\r\nTo cover additional live programming needs, we anticipate partnering with corporations, studios, and other organizations as necessary. Our partners at the National Academy of Sciences have already shown this can happen at a small level; we want to make what they're doing bigger and have more of an impact.\r\n"
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "DEVELOPMENT COSTS:\r\n* Design for The Imagined Futures: $45,000\r\nThis work is done by the Thinkwell Group. Estimated time: 3 months. This can begin immediately.\r\n\r\n* Feasibility study for The Imagined Futures: $15,000.\r\nThis work will be done by Entertainment + Culture Advisors. Estimated time: 3 months. This can begin as soon as design work is completed.\r\n\r\nThis work will enable future fundraising.\r\n\r\nPROGRAMMING COSTS:\r\n10 programs are envisioned over a period of 12 months.\r\n* Honoraria: $500/each; average 2 speakers per event x 10 events = $10,000\r\n* Travel costs for speakers: slush fund of $5,000.\r\n* A/V rentals: $500/screening x 10 event = $5,000\r\n* Part-time program manager: $5,000\r\n* Part-time publicity manager: $2,500\r\n* Publicity: $5,000 (in conjunction with partners' contributions)\r\n* Miscellaneous expenses: $2,500\r\n* Administration, legal, and accounting costs: $5,000\r\n \r\n Partnerships with the National Academy of Sciences, the X Prize Foundation, and educational and film institutes are a major part of this program & will significantly offset costs. We also anticipate soliciting corporate sponsorships – some of which has already been offered – for this programming.\r\n \r\n* Staff: volunteer basis.\r\n* Online social media coordinator: volunteer basis.\r\n* Space rental: free. Partnerships with theaters and film institutes can make this happen. \r\n* Media costs: free. Partnerships with studios and film institutes can make this happen.\r\n* Catering: can be sponsored.\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '1'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: banana
 
 ---

@@ -9,8 +9,10 @@ zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=364729392'
 ntee_type: ''
 tags_indicators:
-  - Community health
-  - Health
+  - Access to capital & benefits
+  - Voting & civic engagement
+  - Income & employment
+  - Social connectedness
 twitter: '@1Deg'
 instagram: OneDegree
 facebook: 'https://www.facebook.com/1degree.org'
@@ -28,6 +30,22 @@ project_ids: '8102092'
 title: One Degree
 uri: /organizations/one-degree/
 challenge_url: 'https://activation.la2050.org/live/one-degree/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
+project_titles_from_project_ids:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
+original_project_titles:
+  - >-
+    Empowering Angelenos to build a path out of poverty and thrive with One
+    Degree
+original_project_ids:
+  - '8102092'
 category: live
 
 ---

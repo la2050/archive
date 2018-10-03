@@ -34,6 +34,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/team-
 project_video: 'https://www.youtube.com/watch?v=5BOUm4PBeUc'
 project_id_3: '8102116'
 year_submitted: 2018
+organization_name: Team Rubicon
 project_proposal_description: >-
   The frequency and cost of natural disasters has steadily increased the past 40
   years. Los Angeles’ ability to react to the changing nature and magnitude of

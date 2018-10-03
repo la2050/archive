@@ -41,5 +41,25 @@ title: Doctors for America
 uri: /organizations/doctors-for-america/
 challenge_url: >-
   https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
+extrapolated_project_ids:
+  - '6102061'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Food As Health Care: A Project to Engage Doctors in Providing Reliable
+    Access to Healthy Food
+project_titles:
+  - >-
+    Food As Health Care: A Project to Engage Doctors in Providing Reliable
+    Access to Healthy Food
+project_titles_from_project_ids:
+  - >-
+    Food As Health Care: A Project to Engage Doctors in Providing Reliable
+    Access to Healthy Food
+original_project_titles:
+  - >-
+    Food As Health Care: A Project to Engage Doctors in Providing Reliable
+    Access to Healthy Food
+original_project_ids:
+  - '6102061'
 
 ---

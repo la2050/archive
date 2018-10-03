@@ -2,8 +2,8 @@
 project_id: '4102145'
 title: Four Seasons of Food
 project_summary: >-
-  This app will educate the public about water conservation projects in their
-  communities and encourage them to get involved.
+  Four Seasons of Food is designed to utilize the food provided in weekly
+  supplemental distributions in the healthiest, most economical way.
 category: live
 organization_id: '2014178'
 year_submitted: 2014
@@ -95,6 +95,492 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
   - LA COUNTY
+maker_answers:
+  city_state: 'Santa Fe Springs, California'
+  org_name: Interfaith Food Center
+  org_website: www.interfaithfoodcenter.org
+  org_twitter: ''
+  org_facebook: www.facebook.com/interfaithfoodcenter
+  org_instagram: ''
+  org_mailingaddress: '11819 Burke Street, Santa Fe Springs, CA  90670'
+  EIN: '953889152'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: We feed the hungry.
+  describe_idea: >-
+    Four Seasons of Food is designed to utilize the food provided in weekly
+    supplemental distributions in the healthiest, most economical way.
+  describe_organization: >-
+    Our goal at @ifc4seasons is to educate and provide the tools necessary to
+    develop, implement, maintain and a healthy diet.
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: >-
+    City and unincorporated area of Whittier and the cities of La Mirada and
+    Santa Fe Springs.
+  more_detail: >-
+    Four Seasons of Food is a nutrition program designed with Food Insecurity in
+    mind.  The objective is to design and implement a program that educates
+    clients about nutrition and provides them with the tools necessary to
+    develop, implement, and maintain a healthy diet. This program, titled Four
+    Seasons of Food, is designed to utilize the food provided in weekly
+    supplemental distributions in the healthiest, most economical way possible.
+    Funding will be used to print informational materials, purchase kitchen
+    items, hire a part time administrator to oversee the program, and also to
+    purchase additional healthy items for distribution.
+  implement: "(1) Nutritional Information Pamphlets: The first step of the Four Seasons of Food would be to research and compile nutritional information pamphlets which provide simple to understand nutritional information to the clients. The pamphlets will include simple charts and diagrams outlining food pyramids, recommended daily levels, and recommended BMI levels. (2)Seasonal Food Plans: The next phase of Four Seasons of Food would be designing a diet plan with the food provided by Interfaith in mind. Interfaith provides clients with four bags of food: a “wet” bag (containing refrigerated/frozen items such as dairy and meat), a “dry” bag (containing canned goods, cereals, and other packaged, non-refrigerated items), fresh produce when available, and a bag of bread/tortillas. The food plans will take into consideration the items being distributed and offer recipes, preparation tips, and other information which would allow clients to use the food to the most of its nutritious and economic potential. Each quarter (season) would have its own detailed plan, and this would reflect the what is offered by Interfaith and also what is available at that time of the year. Information in both the informative pamphlet and seasonal plan pamphlet would be compiled by health/nutrition students in the area and PIH Health, under the direction of the program administrator. Clients would pick up these materials as they signed in before they received their food. (3) Food Preparation Demonstrations: The third part of the Four Seasons of  Food program will be the offering of food demonstrations/cooking classes for clients. Every quarter clients will be invited to sign up for a demonstration in the on-site kitchen/preparation room or the facilities at Whittier Area First Day, which will inform clients of healthy/economical ways to prepare the food provided weekly. (4) Kitchen Items:The final phase of Four Seasons of Food will be the purchase and distribution of kitchen items at demonstration classes to complement each season and provide clients with a tangible tool to prepare/keep food. The items for each season will be as follows: spring will be a juicer, summer will be a smoothie maker, fall will be items to pack a healthy lunch (portion controlled, cooled lunchboxes), and winter will be a slow cooker/crock pot. \r\n\r\n"
+  impact_live: "One in six American families are currently experiencing food insecurity, which is defined as not the total absence of food, but rather the constant fear that the next meal can not be counted on (National Geographic 2014). The majority of food insecure households have at least one working parent employed in a full time job, but due to low wages and high living expenses, the “new face of poverty” seen nationwide is one that is not only struggling to get by, but also lacking the time and energy necessary to prepare labor intensive meals with nutritiousness in mind. Melissa Boteach, vice president of the Poverty and Prosperity Program of the Center for American Progress notes in the August 2014 issue of National Geographic, that “the paradox that hunger and obesity are two sides of the same coin.” Many “make trade-offs between food that is filling but not nutritious and may actually contribute to obesity.” Continuing, the undeniable link between being overweight and having food insecurity is explained because “junk food [is] plentiful and often cheap, hunger and obesity are now parallel problems.” \r\nA clear indication of the severity of food insecurity in the service area is found in the PIH Health Needs Assessment (PIH Survey, 2013), which indicates that in the Los Nietos School District (with three schools, all located in the designated service area), 100% of the student population participate in the Free and Reduced Meal Program, and in the South Whittier School District, 64% of the students participate in that same program. The clients served by Interfaith Food Center live in an area with an above national average poverty rate, with 15.7% earning less than than $10,830/person/year (PIH Survey, 2013). Additionally, 9% of the population served identify as a senior in poverty (PIH Survey, 2013). \r\nThe unfortunate link between obesity and food insecurity is something that has been proven by studies throughout the United States and is something that Four Seasons of Hunger attempts to tackle. Through this four pronged approach, beginning with broad information and concluding with specific action, the hope is that clients will be able to avoid becoming part of this trend and use Interfaith Food Center’s supplemental groceries to achieve healthy diets. A good diet is something that is passed down from generation to generation, and if healthy habits are instilled in the current population, not only will they benefit, but it will ensure a healthier LA in 2050."
+  who_benefit: >-
+    The Four Seasons of Food project would benefit Interfaith Food Center's
+    clients.  Interfaith Food Center currently serves over 1,200 families,
+    consisting of roughly 4,000 individuals living with food insecurity in the
+    city and unincorporated areas of Whittier, and the cities of La Mirada and
+    Santa Fe Springs in Los Angeles County. All clients will be given not only
+    supplemental food, but also correct and current information about how to
+    prepare it. 
+  partners_collaboration: >-
+    Interfaith Food Center currently partners with PIH Health, Whittier Area
+    First Day, Whittier College, and Biola University, as well as having the
+    support and resources of many talented volunteers.  Specifically, PIH Health
+    has nutritionists and chefs to assist in compiling informational pamphlets
+    and menus.  Whittier Area First Day is a local homeless shelter. The shelter
+    just received a new commercial grade kitchen, which they will make available
+    to Interfaith Food Center to conduct classes, if necessary.  Both Whittier
+    and Biola Colleges partner with Interfaith Food Center for internships and
+    research classes, making them the perfect partners for program evaluation
+    and implementation. The three factors that are critical to the success of
+    the proposed collaboration are (1) access to nutritional information and
+    menu planning; (2) ability to conduct classes and; (3) expertise and
+    knowledge to evaluate and measure success.  The proposed partners meet these
+    critical factors.
+  metrics_live_healthyfood: '1'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '0'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '0'
+  metrics_live_pollutedwaterways: '0'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '0'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '0'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  impact_metrics: >-
+    Through education and hands on training, Interfaith Food Center's Four
+    Seasons of Food will help break the cycle of hunger and obesity in low
+    income families in the service area.  As previously outlined, there is an
+    undeniable link between low income families making the choice of buying
+    cheap fast food and obesity.  The proposed program will focus on obtaining
+    the most nutritious foods possible for the clients, teaching them portion
+    control and healthy eating habits, and getting them on the right path to
+    health.
+  best_place_to_create: '0'
+  best_place_to_play: '1'
+  best_place_to_connect: '0'
+  best_place_to_learn: '0'
+  evaluate: "In order to check the progress of Four Seasons of Food, two processes will be used. (1) Surveys: At the end of each quarter a short, anonymous survey will be available for the clients to pick up at the front desk to be filled out at home and then dropped in a box when they return the next week. The survey will be at the front desk for all clients who regularly pick up to be able to receive and return. (2)Focus Group/Individual Testimonials: In accordance with Interfaith policy, every card must re-register within the first two months of the year in order to renew their membership and maintain an active status to continue to pick up food. After a full year of Four Seasons of Food, all returning clients will be surveyed about their experiences. On the registration forms there will be a special section of questions dealing with Four Seasons of Food, such as rating clients’ perception on the program, if their diet changed, and also if they noticed a change in their health. All returning clients who re-register will be asked about their experience with Four Seasons of Food.\r\n\r\nThe program administrator will be in charge of coordinating the specifics of the survey. He/she will partner with local universities and a research class can aid in survey production."
+  two_lessons: "Two recent news articles reflect what Interfaith has seen for years, the illustration of the relationship between poverty and obesity: a National Geographic article on the \"New Face of Hunger,\" and a recent Frontline story on \"Hungry Children.\" \r\n\r\nThe National Geographic article dealt mainly with the changing demographic of America's hungry: the majority have a job and are not what would typically be considered hungry. It provided testimonials of families struggling to pay the bills and also buy food, and how cares about nutrition take a backseat when times are tough. Each and every family interviewed stated that the choice between what is healthy and what is cheap/fast was a daily issue, and that the \"extra pounds that result from a poor diet are collateral damage--an unintended side effect of hunger itself.\"\r\n\r\nThe Frontline news story \"Hungry Children\" focused primarily on a few families and provided a more human take on the issue. One small girl in particular commented on the fact that she had only eaten frozen pizzas for the past month. The dietary effects were evident and she was quite overweight, something which caused her to be extremely self conscious and ashamed. \r\n\r\nAt the beginning of every year all clients must re-register, and what surprises many of the first time registration volunteers at Interfaith is that many clients are obese. After the clients present their salary verification (if any), volunteers realize that many clients have jobs, and they are overweight because they do not have the time or money to provide themselves with the tools to be healthy. "
+  achievable_goal: "The first action would be to hire a part time program administrator to oversee the project and begin collaborations with different resources in the community.\r\n\r\nIn order to begin the research and preliminary pamphlet design, partnerships with local colleges will begin during the Fall Semester (2014). Additionally, during Christmas break the extra volunteers on hand will be used to help with coordinating printing materials and pamphlet distribution.\r\n\r\nClients will begin to interact with Four Seasons of Food beginning in January, when they will come in to the office to fulfill their mandatory renewal commitment and receive information about the program. During the re-registration process, Interfaith can inform clients about the program, and distribute both the nutritional information pamphlet and the first seasonal plan (juicing), and inform them of the sign-up process. \r\n\r\nFive classes with 20 clients in each class will be offered each season, with 100 clients receiving instruction and a free kitchen item. \r\n\r\nThe juice season will be from January to March, the blender season will be April to June, July to September will be lunch supplies, and October to December will be slow cooker. \r\n\r\nWith a project administrator to oversee the implementation and also the help of volunteers and local universities, Interfaith anticipates that this project will be able to operate on schedule. Interfaith uses an online database system to track how often a client picks up food in addition to information regarding their personal statistics, and this tool can be used to keep a record of which families are receiving the items. "
+  major_challenges: "The two major challenges anticipated will be (1) adjusting the food items being distributed to meet the health standards outlined in the Four Seasons of Food plans and (2) the distribution of kitchen items.\r\n\r\nInterfaith obtains their food through donations and also purchasing it from distributors. A major challenge will be figuring out where the donated goods fit in to the Four Seasons of Food plan, because for the most part Interfaith has no say in what they receive. The solution to this problem is to purchase additional food that supplements the donated goods, and makes up for what is potentially lacking in nutritious value. This means that more fresh fruit ,vegetables, and dairy products will need to be purchased, and funds from the LA 2050 grant would be used.\r\n\r\nThe second challenge facing Four Seasons of Food is to ensure that the kitchen tool distribution is contained to the correct time frame and that it is done as fairly as possible. Clients are authorized to pick up food once a week (twice if the number of people per household exceeds 5 people), and the distribution of the kitchen items would occur throughout the quarter. To ensure that each household receives a fair chance at obtaining a kitchen item and also a say in whether or not they receive it, Interfaith would ask that each client sign up for a demonstration class, and at each demonstration they would receive the item. This way it can be better insured that those clients who wish to learn about the proper way to use the item and also receive education can benefit fully. One individual item cannot be purchased per season per family, and this way only those who truly want to make a change can be provided with the tools needed to succeed. "
+  competition: No.
+  cost: >-
+    Interfaith is aiming to have the budget for this project be $100,000. Any
+    additional  costs will be covered by obtaining extra funds through grants.
+    Interfaith has a high success rate at being awarded grants, and with all the
+    community resources available and collaborations happening on this
+    particular program, Interfaith's funding team is confident that adequate
+    capital can be raised if expenses exceed the proposed budget. 
+  budget: "Project Four Seasons of Food\r\n\r\n1. Materials and Printing: \r\na. Class Materials: $10,000\r\nb. Promotions and Menus: $8,000\r\nTOTAL: $18,000\r\n\r\n2. Equipment:\r\na. Blenders: 100@ $50 each= $5,000\r\nb. Slow Cookers: 100 @ $50 each= $5,000\r\nc. Juicers: 100 @ $100 each= $10,000\r\nd. Lunch Boxes: 100 @ $20 each= $2,000\r\nTOTAL: $22,000\r\n\r\n3. Personnel\r\na. Contracted Project Administrator: $30,000\r\nTOTAL: $30,000\r\n\r\n4. Food Costs:\r\na. $2,500 per month for dairy and produce\r\nTOTAL: $30,000\r\n\r\nGRAND TOTAL= $100,000"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '0'
+  resources_infrastructure: '0'
+  resources_education: '1'
+  resources_technical: '0'
+  resources_communityoutreach: '0'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Santa Fe Springs, California'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Interfaith Food Center
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: www.interfaithfoodcenter.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: ''
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: www.facebook.com/interfaithfoodcenter
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '11819 Burke Street, Santa Fe Springs, CA  90670'
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '953889152'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: We feed the hungry.
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Four Seasons of Food is designed to utilize the food provided in weekly
+      supplemental distributions in the healthiest, most economical way.
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      Our goal at @ifc4seasons is to educate and provide the tools necessary to
+      develop, implement, maintain and a healthy diet.
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: >-
+      City and unincorporated area of Whittier and the cities of La Mirada and
+      Santa Fe Springs.
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Four Seasons of Food is a nutrition program designed with Food Insecurity
+      in mind.  The objective is to design and implement a program that educates
+      clients about nutrition and provides them with the tools necessary to
+      develop, implement, and maintain a healthy diet. This program, titled Four
+      Seasons of Food, is designed to utilize the food provided in weekly
+      supplemental distributions in the healthiest, most economical way
+      possible. Funding will be used to print informational materials, purchase
+      kitchen items, hire a part time administrator to oversee the program, and
+      also to purchase additional healthy items for distribution.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "(1) Nutritional Information Pamphlets: The first step of the Four Seasons of Food would be to research and compile nutritional information pamphlets which provide simple to understand nutritional information to the clients. The pamphlets will include simple charts and diagrams outlining food pyramids, recommended daily levels, and recommended BMI levels. (2)Seasonal Food Plans: The next phase of Four Seasons of Food would be designing a diet plan with the food provided by Interfaith in mind. Interfaith provides clients with four bags of food: a “wet” bag (containing refrigerated/frozen items such as dairy and meat), a “dry” bag (containing canned goods, cereals, and other packaged, non-refrigerated items), fresh produce when available, and a bag of bread/tortillas. The food plans will take into consideration the items being distributed and offer recipes, preparation tips, and other information which would allow clients to use the food to the most of its nutritious and economic potential. Each quarter (season) would have its own detailed plan, and this would reflect the what is offered by Interfaith and also what is available at that time of the year. Information in both the informative pamphlet and seasonal plan pamphlet would be compiled by health/nutrition students in the area and PIH Health, under the direction of the program administrator. Clients would pick up these materials as they signed in before they received their food. (3) Food Preparation Demonstrations: The third part of the Four Seasons of  Food program will be the offering of food demonstrations/cooking classes for clients. Every quarter clients will be invited to sign up for a demonstration in the on-site kitchen/preparation room or the facilities at Whittier Area First Day, which will inform clients of healthy/economical ways to prepare the food provided weekly. (4) Kitchen Items:The final phase of Four Seasons of Food will be the purchase and distribution of kitchen items at demonstration classes to complement each season and provide clients with a tangible tool to prepare/keep food. The items for each season will be as follows: spring will be a juicer, summer will be a smoothie maker, fall will be items to pack a healthy lunch (portion controlled, cooled lunchboxes), and winter will be a slow cooker/crock pot. \r\n\r\n"
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: "One in six American families are currently experiencing food insecurity, which is defined as not the total absence of food, but rather the constant fear that the next meal can not be counted on (National Geographic 2014). The majority of food insecure households have at least one working parent employed in a full time job, but due to low wages and high living expenses, the “new face of poverty” seen nationwide is one that is not only struggling to get by, but also lacking the time and energy necessary to prepare labor intensive meals with nutritiousness in mind. Melissa Boteach, vice president of the Poverty and Prosperity Program of the Center for American Progress notes in the August 2014 issue of National Geographic, that “the paradox that hunger and obesity are two sides of the same coin.” Many “make trade-offs between food that is filling but not nutritious and may actually contribute to obesity.” Continuing, the undeniable link between being overweight and having food insecurity is explained because “junk food [is] plentiful and often cheap, hunger and obesity are now parallel problems.” \r\nA clear indication of the severity of food insecurity in the service area is found in the PIH Health Needs Assessment (PIH Survey, 2013), which indicates that in the Los Nietos School District (with three schools, all located in the designated service area), 100% of the student population participate in the Free and Reduced Meal Program, and in the South Whittier School District, 64% of the students participate in that same program. The clients served by Interfaith Food Center live in an area with an above national average poverty rate, with 15.7% earning less than than $10,830/person/year (PIH Survey, 2013). Additionally, 9% of the population served identify as a senior in poverty (PIH Survey, 2013). \r\nThe unfortunate link between obesity and food insecurity is something that has been proven by studies throughout the United States and is something that Four Seasons of Hunger attempts to tackle. Through this four pronged approach, beginning with broad information and concluding with specific action, the hope is that clients will be able to avoid becoming part of this trend and use Interfaith Food Center’s supplemental groceries to achieve healthy diets. A good diet is something that is passed down from generation to generation, and if healthy habits are instilled in the current population, not only will they benefit, but it will ensure a healthier LA in 2050."
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: >-
+      The Four Seasons of Food project would benefit Interfaith Food Center's
+      clients.  Interfaith Food Center currently serves over 1,200 families,
+      consisting of roughly 4,000 individuals living with food insecurity in the
+      city and unincorporated areas of Whittier, and the cities of La Mirada and
+      Santa Fe Springs in Los Angeles County. All clients will be given not only
+      supplemental food, but also correct and current information about how to
+      prepare it. 
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: >-
+      Interfaith Food Center currently partners with PIH Health, Whittier Area
+      First Day, Whittier College, and Biola University, as well as having the
+      support and resources of many talented volunteers.  Specifically, PIH
+      Health has nutritionists and chefs to assist in compiling informational
+      pamphlets and menus.  Whittier Area First Day is a local homeless shelter.
+      The shelter just received a new commercial grade kitchen, which they will
+      make available to Interfaith Food Center to conduct classes, if
+      necessary.  Both Whittier and Biola Colleges partner with Interfaith Food
+      Center for internships and research classes, making them the perfect
+      partners for program evaluation and implementation. The three factors that
+      are critical to the success of the proposed collaboration are (1) access
+      to nutritional information and menu planning; (2) ability to conduct
+      classes and; (3) expertise and knowledge to evaluate and measure success. 
+      The proposed partners meet these critical factors.
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: >-
+      Through education and hands on training, Interfaith Food Center's Four
+      Seasons of Food will help break the cycle of hunger and obesity in low
+      income families in the service area.  As previously outlined, there is an
+      undeniable link between low income families making the choice of buying
+      cheap fast food and obesity.  The proposed program will focus on obtaining
+      the most nutritious foods possible for the clients, teaching them portion
+      control and healthy eating habits, and getting them on the right path to
+      health.
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "In order to check the progress of Four Seasons of Food, two processes will be used. (1) Surveys: At the end of each quarter a short, anonymous survey will be available for the clients to pick up at the front desk to be filled out at home and then dropped in a box when they return the next week. The survey will be at the front desk for all clients who regularly pick up to be able to receive and return. (2)Focus Group/Individual Testimonials: In accordance with Interfaith policy, every card must re-register within the first two months of the year in order to renew their membership and maintain an active status to continue to pick up food. After a full year of Four Seasons of Food, all returning clients will be surveyed about their experiences. On the registration forms there will be a special section of questions dealing with Four Seasons of Food, such as rating clients’ perception on the program, if their diet changed, and also if they noticed a change in their health. All returning clients who re-register will be asked about their experience with Four Seasons of Food.\r\n\r\nThe program administrator will be in charge of coordinating the specifics of the survey. He/she will partner with local universities and a research class can aid in survey production."
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "Two recent news articles reflect what Interfaith has seen for years, the illustration of the relationship between poverty and obesity: a National Geographic article on the \"New Face of Hunger,\" and a recent Frontline story on \"Hungry Children.\" \r\n\r\nThe National Geographic article dealt mainly with the changing demographic of America's hungry: the majority have a job and are not what would typically be considered hungry. It provided testimonials of families struggling to pay the bills and also buy food, and how cares about nutrition take a backseat when times are tough. Each and every family interviewed stated that the choice between what is healthy and what is cheap/fast was a daily issue, and that the \"extra pounds that result from a poor diet are collateral damage--an unintended side effect of hunger itself.\"\r\n\r\nThe Frontline news story \"Hungry Children\" focused primarily on a few families and provided a more human take on the issue. One small girl in particular commented on the fact that she had only eaten frozen pizzas for the past month. The dietary effects were evident and she was quite overweight, something which caused her to be extremely self conscious and ashamed. \r\n\r\nAt the beginning of every year all clients must re-register, and what surprises many of the first time registration volunteers at Interfaith is that many clients are obese. After the clients present their salary verification (if any), volunteers realize that many clients have jobs, and they are overweight because they do not have the time or money to provide themselves with the tools to be healthy. "
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "The first action would be to hire a part time program administrator to oversee the project and begin collaborations with different resources in the community.\r\n\r\nIn order to begin the research and preliminary pamphlet design, partnerships with local colleges will begin during the Fall Semester (2014). Additionally, during Christmas break the extra volunteers on hand will be used to help with coordinating printing materials and pamphlet distribution.\r\n\r\nClients will begin to interact with Four Seasons of Food beginning in January, when they will come in to the office to fulfill their mandatory renewal commitment and receive information about the program. During the re-registration process, Interfaith can inform clients about the program, and distribute both the nutritional information pamphlet and the first seasonal plan (juicing), and inform them of the sign-up process. \r\n\r\nFive classes with 20 clients in each class will be offered each season, with 100 clients receiving instruction and a free kitchen item. \r\n\r\nThe juice season will be from January to March, the blender season will be April to June, July to September will be lunch supplies, and October to December will be slow cooker. \r\n\r\nWith a project administrator to oversee the implementation and also the help of volunteers and local universities, Interfaith anticipates that this project will be able to operate on schedule. Interfaith uses an online database system to track how often a client picks up food in addition to information regarding their personal statistics, and this tool can be used to keep a record of which families are receiving the items. "
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "The two major challenges anticipated will be (1) adjusting the food items being distributed to meet the health standards outlined in the Four Seasons of Food plans and (2) the distribution of kitchen items.\r\n\r\nInterfaith obtains their food through donations and also purchasing it from distributors. A major challenge will be figuring out where the donated goods fit in to the Four Seasons of Food plan, because for the most part Interfaith has no say in what they receive. The solution to this problem is to purchase additional food that supplements the donated goods, and makes up for what is potentially lacking in nutritious value. This means that more fresh fruit ,vegetables, and dairy products will need to be purchased, and funds from the LA 2050 grant would be used.\r\n\r\nThe second challenge facing Four Seasons of Food is to ensure that the kitchen tool distribution is contained to the correct time frame and that it is done as fairly as possible. Clients are authorized to pick up food once a week (twice if the number of people per household exceeds 5 people), and the distribution of the kitchen items would occur throughout the quarter. To ensure that each household receives a fair chance at obtaining a kitchen item and also a say in whether or not they receive it, Interfaith would ask that each client sign up for a demonstration class, and at each demonstration they would receive the item. This way it can be better insured that those clients who wish to learn about the proper way to use the item and also receive education can benefit fully. One individual item cannot be purchased per season per family, and this way only those who truly want to make a change can be provided with the tools needed to succeed. "
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: No.
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      Interfaith is aiming to have the budget for this project be $100,000. Any
+      additional  costs will be covered by obtaining extra funds through grants.
+      Interfaith has a high success rate at being awarded grants, and with all
+      the community resources available and collaborations happening on this
+      particular program, Interfaith's funding team is confident that adequate
+      capital can be raised if expenses exceed the proposed budget. 
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Project Four Seasons of Food\r\n\r\n1. Materials and Printing: \r\na. Class Materials: $10,000\r\nb. Promotions and Menus: $8,000\r\nTOTAL: $18,000\r\n\r\n2. Equipment:\r\na. Blenders: 100@ $50 each= $5,000\r\nb. Slow Cookers: 100 @ $50 each= $5,000\r\nc. Juicers: 100 @ $100 each= $10,000\r\nd. Lunch Boxes: 100 @ $20 each= $2,000\r\nTOTAL: $22,000\r\n\r\n3. Personnel\r\na. Contracted Project Administrator: $30,000\r\nTOTAL: $30,000\r\n\r\n4. Food Costs:\r\na. $2,500 per month for dairy and produce\r\nTOTAL: $30,000\r\n\r\nGRAND TOTAL= $100,000"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '0'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '1'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '0'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: lime
 
 ---

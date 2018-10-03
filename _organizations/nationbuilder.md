@@ -28,8 +28,19 @@ project_ids: '5102180'
 title: NationBuilder
 uri: /organizations/nationbuilder/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
+extrapolated_project_ids:
+  - '4102154'
+project_titles_from_extrapolated_project_ids:
+  - LA Conversation Meals
 project_titles:
   - LA Conversation Meals
+project_titles_from_project_ids:
+  - Local Roots Mobile Farmers Markets
+original_project_titles:
+  - LA Conversation Meals
+original_project_ids:
+  - '4102154'
+project_titles_flagged: 1
 maker_image_id: '22481'
 maker_image_file_name: LA2050.png
 

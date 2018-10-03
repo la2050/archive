@@ -31,5 +31,17 @@ project_ids: '6102005'
 title: AltaSea at the Port of Los Angeles
 uri: /organizations/altasea-at-the-port-of-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
+extrapolated_project_ids:
+  - '6102005'
+project_titles_from_extrapolated_project_ids:
+  - 'AltaSea: Where STEM Meets the Ocean'
+project_titles:
+  - 'AltaSea: Where STEM Meets the Ocean'
+project_titles_from_project_ids:
+  - 'AltaSea: Where STEM Meets the Ocean'
+original_project_titles:
+  - 'AltaSea: Where STEM Meets the Ocean'
+original_project_ids:
+  - '6102005'
 
 ---

@@ -22,8 +22,19 @@ project_ids: '4102187'
 title: Woodbury University
 uri: /organizations/woodbury-university/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102260'
+project_titles_from_extrapolated_project_ids:
+  - The Junior Fellows & The Soft Studio
 project_titles:
   - The Junior Fellows & The Soft Studio
+project_titles_from_project_ids:
+  - Schkapf Performing Arts Incubator
+original_project_titles:
+  - 'The Junior Fellows & The Soft Studio '
+original_project_ids:
+  - '4102260'
+project_titles_flagged: 1
 maker_image_id: '21934'
 maker_image_file_name: Patch_2.jpg
 

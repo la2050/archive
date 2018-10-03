@@ -27,8 +27,19 @@ project_ids: '4102103'
 title: USC Game Innovation Lab
 uri: /organizations/usc-game-innovation-lab/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAReality.html'
+extrapolated_project_ids:
+  - '4102251'
+project_titles_from_extrapolated_project_ids:
+  - LAReality - a game that makes its players into makers doers and creators
 project_titles:
   - LAReality - a game that makes its players into makers doers and creators
+project_titles_from_project_ids:
+  - 'Conversations for Change: LA Youth Work Towards A Violence Free Future'
+original_project_titles:
+  - 'LAReality - a game that makes its players into makers, doers, and creators'
+original_project_ids:
+  - '4102251'
+project_titles_flagged: 1
 youtube_video_identifier: dN0L0YMa39s
 
 ---

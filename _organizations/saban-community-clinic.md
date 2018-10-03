@@ -7,6 +7,9 @@ ein: '952539105'
 zip: '90048'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=952539105'
 ntee_type: ''
+tags_indicators:
+  - Community health
+  - Health
 twitter: ''
 instagram: ''
 facebook: ''
@@ -22,10 +25,19 @@ project_ids: '4102161'
 title: Saban Community Clinic
 uri: /organizations/saban-community-clinic/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     The Achievable Clinic: quality healthcare for families and people with
     developmental disabilities
+project_titles_from_project_ids:
+  - Welcome to Our Neighborhood
+original_project_titles:
+  - Nutrition Education Program
+original_project_ids:
+  - '4102028'
+project_titles_flagged: 1
 maker_image_id: '22174'
 maker_image_file_name: Beverly_Site_New_Logo_on_Building_2013.jpg
 

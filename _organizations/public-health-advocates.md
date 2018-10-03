@@ -25,5 +25,10 @@ project_ids: '#N/A'
 title: Public Health Advocates
 uri: /organizations/public-health-advocates/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/EatWellLiveBetter.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+original_project_titles: []
+original_project_ids: []
+project_titles_flagged: 1
 
 ---

@@ -30,5 +30,25 @@ title: Patrick McCaffrey Foundation
 uri: /organizations/patrick-mccaffrey-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
+extrapolated_project_ids:
+  - '6102177'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    How we can use tiny houses to make a big impact on housing affordability in
+    Los Angeles!
+project_titles:
+  - >-
+    How we can use tiny houses to make a big impact on housing affordability in
+    Los Angeles!
+project_titles_from_project_ids:
+  - >-
+    How we can use tiny houses to make a big impact on housing affordability in
+    Los Angeles!
+original_project_titles:
+  - >-
+    How we can use tiny houses to make a big impact on housing affordability in
+    Los Angeles! 
+original_project_ids:
+  - '6102177'
 
 ---

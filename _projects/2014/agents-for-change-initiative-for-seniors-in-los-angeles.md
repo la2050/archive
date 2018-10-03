@@ -1,7 +1,9 @@
 ---
 project_id: '4102199'
 title: AGEnts for Change Initiative for Seniors in Los Angeles
-project_summary: ''
+project_summary: >-
+  We are training Seniors to be AGEnts for Change in Los Angeles to improve the
+  lives of Older Adults in our City through advocacy.
 category: connect
 organization_id: '2014085'
 year_submitted: 2014
@@ -61,6 +63,470 @@ maker_image_id: '20167'
 maker_image_file_name: _DSC5884.JPG
 project_areas:
   - SOUTH BAY
+maker_answers:
+  city_state: 'Los Angeles, California'
+  org_name: St. Barnabas Senior Services aka St. Barnabas Senior Center
+  org_website: www.sbssla.org
+  org_twitter: 'https://twitter.com/SBSSla'
+  org_facebook: 'https://www.facebook.com/SBSSla'
+  org_instagram: ''
+  org_mailingaddress: '675 S. Carondelet St., Los Angeles, CA 90057'
+  org_ein: '951641435'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    For over 100 years, St. Barnabas Senior Services (SBSS) has been serving
+    aging and economically vulnerable people in the urban center of 
+  impact_LA_County: '0'
+  region_county: '0'
+  population_county: '1'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: 'Mid-City MacArthur Park Area, Hollywood and Echo Park'
+  describe_idea: >-
+    We are training Seniors to be AGEnts for Change in Los Angeles to improve
+    the lives of Older Adults in our City through advocacy.
+  more_detail: >-
+    The goal for the AGEnts for Change Initiative is to expand the impact of
+    AGEnts advocacy and education activities through a recruitment, education
+    and mobilization process that will engage a new team of lead AGEnts to
+    educate key legislators, other seniors in Los Angeles, and the general
+    community about issues facing the aging population. 
+  implement: "SBSS will build on its successful experience in creating and conducting the AGEnts for Change program.  The primary goal for the 2nd generation (G2) of the AGEnts for Change Initiative is to expand the impact of AGEnts advocacy and education activities by launching a revitalized recruitment, education and mobilization process that will engage a new cadre of lead AGEnts who will in turn educate key legislators, other seniors in Los Angeles, and the general community about issues facing the aging population. In order to achieve this goal, SBSS will do the following:\r\n(1)\tOrganize 5 recruitment events at identified sites in SBSS service area to engage the senior community.\r\n(2)\tIdentify and recruit 12 -15 seniors to be trained as lead AGEnts. \r\n(3)\tConduct 3 periodic meetings in which information and training will be provided to lead AGEnts to keep their skills current.\r\n(4)\tCoordinate 8 educational meetings with key legislators (federal, state, and local) on topics relevant to the senior community. \r\n(5)\tProduce and distribute four Video on Demand (VOD Casts) Issue statements.\r\n(6)\tConduct 6 monthly communiqués including conference calls, emails, direct mail and newsletters distributed at the Senior Centers and community sites. \r\n\r\nThe need is great and with the right support, many older adults are willing and able to speak up for themselves and for the senior community at large."
+  impact_connect: "St. Barnabas Senior Services (SBSS) initial AGEnts for Change Initiative achieved success in its first year of implementation. Due to the support of The SCAN Foundation, SBSS was able to recruit and train 32 seniors. Six emerged as lead advocates who actively informed key legislators, for-profit and non-profit organizations, and the general community about issues that are facing the senior population. Paramount to the success of the initiative was the empowerment of a diverse group of seniors who now take responsibility for educating themselves and others and can provide testament to their ability to positively impact their community.\r\nOver the past several months, SBSS and a few of the AGEnts have remained active in their pursuit of preserving safety net services for seniors. In particular, these AGEnts have continued to support the efforts of the Los Angeles Aging Advocacy Coalition (LAAAC) by attending meetings, participating in conference calls and educating key legislators. During these interactions, it has become even more apparent that the impact of SBSS AGEnts can be improved through an enhanced recruitment, education and mobilization process that will engage additional AGEnts for Change. \r\n\r\nSBSS is in a strong position to initiate the enhancement of the AGEnts Initiative, not only because of its solid record of community engagement, but also as a direct result of the recent expansion of its service area to include the neighborhoods of Hollywood, Griffith Park, Los Feliz, Silver Lake, Atwater Village and Chevy Chase as served by the Hollywood Senior Multipurpose Center (HSMPC). This expansion has doubled SBSS’ geographic reach and increased the number of seniors served annually from 8,000 to nearly 18,000. This expansion has provided SBSS with the opportunity to reach an entirely new group of seniors who have the potential to become advocates for themselves and for the senior community. The diversity of this community will further strengthen the efforts of the AGEnts Initiative as SBSS is able to recruit and engage seniors who are representative of the cultural, linguistic and social richness of Los Angeles.\r\nInvolving the growing senior population of Los Angeles in advocacy not only contributes to their well being, but helps make L.A. a great place in which to live and age with dignity. By 2050, our population of seniors will have increased dramatically and investing in sound policy and advocacy now, will contribute to a vibrant L.A. in 2050 \r\n"
+  who_benefit: >-
+    Our project specifically benefits all older adults living in Los Angeles and
+    their families, by advocating for senior friendly public policy, programs
+    and services that contribute to their independence, health and well being.
+    Through a strong policy framework that supports seniors advocating for
+    themselves, their voices are heard, their lives are enriched and L.A. itself
+    becomes a better place to live.
+  collaboration: >-
+    The SCAN Foundation continues to assist with funding for the AGEnts for
+    Change Initiative and their advice as well as funding has been important to
+    our project. In addition, the Los Angeles Ageing Advocacy Coalition is a
+    significant policy partner to SBSS and the AGEnts for Change Initiative,
+    bringing together over 50 organizations and individuals working together on
+    policy issues impacting the lives of older adult residents of Los Angeles.
+  metrics_connect_volunteerism: '1'
+  metrics_connect_voting: '0'
+  metrics_connect_adultsupport: '1'
+  metrics_connect_traveltime: '0'
+  metrics_connect_culturalevents: '0'
+  metrics_connect_publictransit: '0'
+  metrics_connect_neighborhoodcouncils: '0'
+  metrics_connect_volunteer: '0'
+  metrics_connect_govresponsiveness: '1'
+  metrics_connect_transitaccessible: '0'
+  metrics_connect_socialmedia: '0'
+  metrics_connect_attendance: '1'
+  metrics_connect_residential segregation: '0'
+  metrics_connect_wifi: '0'
+  metrics_connect_other: '0'
+  metrics_connect_blank: ''
+  impact_metrics: >-
+    The AGEnts for Change Initiative is a volunteer intensive program and
+    through its efforts will increase the number of seniors involved as
+    volunteers in policy and advocacy work in Los Angeles. In addition, the
+    outcomes of the AGEnts for Change Initiative are specifically focused on
+    impacting government responsiveness to senior issues, increasing services to
+    seniors for social and emotional support among other needs and will
+    stimulate attendance of seniors in public meetings.
+  best_place_to_learn: '1'
+  best_place_to_create: '0'
+  healthiest_place_to_live: '1'
+  best_place_to_play: '0'
+  evaluate: "The AGEnts for Change Initiative will be evaluated against its objectives, three of which are specifically:\r\n1. The number of seniors that are recruited and trained as Lead AGEnts for Change.\r\n2. The number of educational meetings and policies influenced with key legislators.\r\n3. The completion of four Video on Demand Issue statements for distribution."
+  two_lessons: "1. The experience of seniors who have become AGEnts for Change through SBSS. SBSS is in a strong position to initiate the enhancement of the AGEnts Initiative, not only because of its solid record of community engagement, but also as a direct result of the recent expansion of its service area to include the neighborhoods of Hollywood, Griffith Park, Los Feliz, Silver Lake, Atwater Village and Chevy Chase as served by the Hollywood Senior Multipurpose Center (HSMPC). This expansion has doubled SBSS’ geographic reach and increased the number of seniors served annually from 8,000 to nearly 18,000. This expansion has provided SBSS with the opportunity to reach an entirely new group of seniors who have the potential to become advocates for themselves and for the senior community. The diversity of this community will further strengthen the efforts of the AGEnts Initiative as SBSS is able to recruit and engage seniors who are representative of the cultural, linguistic and social richness of Los Angeles.\r\n\r\n2. Over the past several months, SBSS and a few of the AGEnts have remained active in their pursuit of preserving safety net services for seniors. In particular, these AGEnts have continued to support the efforts of the Los Angeles Aging Advocacy Coalition (LAAAC) by attending meetings, participating in conference calls and educating key legislators. During these interactions, it has become even more apparent that the impact of SBSS AGEnts can be improved through an enhanced recruitment, education and mobilization process that will engage additional AGEnts for Change. \r\n"
+  achievable_goal: >-
+    Our planning is complete, staffing is in place, our experience has been
+    informative and we are ready to implement this project immediately. The only
+    missing piece is sufficient funding.
+  major_challenges: "1. Maintaining the knowledge level of Lead AGEnts for Change in a rapidly changing policy environment is a challenge. However, we have planned for this challenge by building in 3 periodic refresher sessions for the Lead AGEnts to keep them current on issues affecting Los Angeles Seniors.\r\n\r\n2. The changing environment of health, social, economic and policy issues that are currently impacting the lives of seniors and new unforeseen issues that may arise during the course of our work is a challenge. Our close working relationship with the Los Angeles Ageing Advocacy Coalition and its contact with the California Department of Aging leadership as well as local, state and national officials helps to keep SBSS and the AGEnts for Change Initiative program informed of recent and anticipated policy developments."
+  competition: >-
+    There are other advocacy organizations working on the behalf of seniors,
+    such as AARP. However, AGEnts for Change is unique in Los Angeles in that
+    we're a grassroots effort training senior volunteers as Lead AGEnts for
+    Change, mobilizing other seniors through the work of the Lead AGEnts for
+    Change and collaborating with a strong coalition of aging organizations
+    through the Los Angeles Ageing Advocacy Coalition.
+  cost: >-
+    The 100,000 is sufficient to fund the AGEnts for Change Initiative for a
+    year. The proposed budget is $98,260.00. 
+  budget: "Coordinator Civic Engagement Salary and Fringe @ .5 FTE = 27,280\r\nAdministrative Support Salary and Fringe @ 1.0 FTE = 33,480\r\nGeneral Office Supplies/Expense = 2000\r\nTraining Sessions = 2,500\r\nTraining Materials = 2,000\r\nLegislative Visits including travel by AGEnts = 7,000\r\nCommunications including Video's  = 12,000\r\nRecruitment & Information Sessions = 2,000\r\nLocal Legislator Education Visits = 2,000\r\nTransportation local including taxi vouchers, van usage, public transportation reimbursement and mileage = 5,000\r\nRefreshments and hosting visits from elected officials\r\nIT = 1,000\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, California'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: St. Barnabas Senior Services aka St. Barnabas Senior Center
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: www.sbssla.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: 'https://twitter.com/SBSSla'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/SBSSla'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '675 S. Carondelet St., Los Angeles, CA 90057'
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '951641435'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      For over 100 years, St. Barnabas Senior Services (SBSS) has been serving
+      aging and economically vulnerable people in the urban center of 
+  - name: impact_LA_County
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '1'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: 'Mid-City MacArthur Park Area, Hollywood and Echo Park'
+  - name: describe_idea
+    label: ''
+    explanation: >-
+      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
+      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
+      have such an awesome project! Please vote for @GoldhirshFdn here!'
+    answer: >-
+      We are training Seniors to be AGEnts for Change in Los Angeles to improve
+      the lives of Older Adults in our City through advocacy.
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      The goal for the AGEnts for Change Initiative is to expand the impact of
+      AGEnts advocacy and education activities through a recruitment, education
+      and mobilization process that will engage a new team of lead AGEnts to
+      educate key legislators, other seniors in Los Angeles, and the general
+      community about issues facing the aging population. 
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "SBSS will build on its successful experience in creating and conducting the AGEnts for Change program.  The primary goal for the 2nd generation (G2) of the AGEnts for Change Initiative is to expand the impact of AGEnts advocacy and education activities by launching a revitalized recruitment, education and mobilization process that will engage a new cadre of lead AGEnts who will in turn educate key legislators, other seniors in Los Angeles, and the general community about issues facing the aging population. In order to achieve this goal, SBSS will do the following:\r\n(1)\tOrganize 5 recruitment events at identified sites in SBSS service area to engage the senior community.\r\n(2)\tIdentify and recruit 12 -15 seniors to be trained as lead AGEnts. \r\n(3)\tConduct 3 periodic meetings in which information and training will be provided to lead AGEnts to keep their skills current.\r\n(4)\tCoordinate 8 educational meetings with key legislators (federal, state, and local) on topics relevant to the senior community. \r\n(5)\tProduce and distribute four Video on Demand (VOD Casts) Issue statements.\r\n(6)\tConduct 6 monthly communiqués including conference calls, emails, direct mail and newsletters distributed at the Senior Centers and community sites. \r\n\r\nThe need is great and with the right support, many older adults are willing and able to speak up for themselves and for the senior community at large."
+  - name: impact_connect
+    label: ''
+    explanation: ''
+    answer: "St. Barnabas Senior Services (SBSS) initial AGEnts for Change Initiative achieved success in its first year of implementation. Due to the support of The SCAN Foundation, SBSS was able to recruit and train 32 seniors. Six emerged as lead advocates who actively informed key legislators, for-profit and non-profit organizations, and the general community about issues that are facing the senior population. Paramount to the success of the initiative was the empowerment of a diverse group of seniors who now take responsibility for educating themselves and others and can provide testament to their ability to positively impact their community.\r\nOver the past several months, SBSS and a few of the AGEnts have remained active in their pursuit of preserving safety net services for seniors. In particular, these AGEnts have continued to support the efforts of the Los Angeles Aging Advocacy Coalition (LAAAC) by attending meetings, participating in conference calls and educating key legislators. During these interactions, it has become even more apparent that the impact of SBSS AGEnts can be improved through an enhanced recruitment, education and mobilization process that will engage additional AGEnts for Change. \r\n\r\nSBSS is in a strong position to initiate the enhancement of the AGEnts Initiative, not only because of its solid record of community engagement, but also as a direct result of the recent expansion of its service area to include the neighborhoods of Hollywood, Griffith Park, Los Feliz, Silver Lake, Atwater Village and Chevy Chase as served by the Hollywood Senior Multipurpose Center (HSMPC). This expansion has doubled SBSS’ geographic reach and increased the number of seniors served annually from 8,000 to nearly 18,000. This expansion has provided SBSS with the opportunity to reach an entirely new group of seniors who have the potential to become advocates for themselves and for the senior community. The diversity of this community will further strengthen the efforts of the AGEnts Initiative as SBSS is able to recruit and engage seniors who are representative of the cultural, linguistic and social richness of Los Angeles.\r\nInvolving the growing senior population of Los Angeles in advocacy not only contributes to their well being, but helps make L.A. a great place in which to live and age with dignity. By 2050, our population of seniors will have increased dramatically and investing in sound policy and advocacy now, will contribute to a vibrant L.A. in 2050 \r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: >-
+      Our project specifically benefits all older adults living in Los Angeles
+      and their families, by advocating for senior friendly public policy,
+      programs and services that contribute to their independence, health and
+      well being. Through a strong policy framework that supports seniors
+      advocating for themselves, their voices are heard, their lives are
+      enriched and L.A. itself becomes a better place to live.
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: >-
+      The SCAN Foundation continues to assist with funding for the AGEnts for
+      Change Initiative and their advice as well as funding has been important
+      to our project. In addition, the Los Angeles Ageing Advocacy Coalition is
+      a significant policy partner to SBSS and the AGEnts for Change Initiative,
+      bringing together over 50 organizations and individuals working together
+      on policy issues impacting the lives of older adult residents of Los
+      Angeles.
+  - name: metrics_connect_volunteerism
+    label: Rates of volunteerism
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_voting
+    label: Voting rates by race
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_adultsupport
+    label: Adults getting sufficient social & emotional support
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_traveltime
+    label: Median travel time to work
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_culturalevents
+    label: Attendance at cultural events
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_publictransit
+    label: Number of public transit riders
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_neighborhoodcouncils
+    label: Participation in neighborhood councils
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_volunteer
+    label: Percentage of Angelenos that volunteer informally (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_govresponsiveness
+    label: Government responsiveness to residents’ needs (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_transitaccessible
+    label: >-
+      Transit-accessible housing and employment (the share of housing units and
+      percentage of jobs that are located within a half-mile of transit) (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_socialmedia
+    label: Total number of social media friends (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_attendance
+    label: Attendance at public/open street gatherings (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_connect_residential segregation
+    label: Residential segregation (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_wifi
+    label: Access to free wifi (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_connect_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: >-
+      The AGEnts for Change Initiative is a volunteer intensive program and
+      through its efforts will increase the number of seniors involved as
+      volunteers in policy and advocacy work in Los Angeles. In addition, the
+      outcomes of the AGEnts for Change Initiative are specifically focused on
+      impacting government responsiveness to senior issues, increasing services
+      to seniors for social and emotional support among other needs and will
+      stimulate attendance of seniors in public meetings.
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "The AGEnts for Change Initiative will be evaluated against its objectives, three of which are specifically:\r\n1. The number of seniors that are recruited and trained as Lead AGEnts for Change.\r\n2. The number of educational meetings and policies influenced with key legislators.\r\n3. The completion of four Video on Demand Issue statements for distribution."
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "1. The experience of seniors who have become AGEnts for Change through SBSS. SBSS is in a strong position to initiate the enhancement of the AGEnts Initiative, not only because of its solid record of community engagement, but also as a direct result of the recent expansion of its service area to include the neighborhoods of Hollywood, Griffith Park, Los Feliz, Silver Lake, Atwater Village and Chevy Chase as served by the Hollywood Senior Multipurpose Center (HSMPC). This expansion has doubled SBSS’ geographic reach and increased the number of seniors served annually from 8,000 to nearly 18,000. This expansion has provided SBSS with the opportunity to reach an entirely new group of seniors who have the potential to become advocates for themselves and for the senior community. The diversity of this community will further strengthen the efforts of the AGEnts Initiative as SBSS is able to recruit and engage seniors who are representative of the cultural, linguistic and social richness of Los Angeles.\r\n\r\n2. Over the past several months, SBSS and a few of the AGEnts have remained active in their pursuit of preserving safety net services for seniors. In particular, these AGEnts have continued to support the efforts of the Los Angeles Aging Advocacy Coalition (LAAAC) by attending meetings, participating in conference calls and educating key legislators. During these interactions, it has become even more apparent that the impact of SBSS AGEnts can be improved through an enhanced recruitment, education and mobilization process that will engage additional AGEnts for Change. \r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: >-
+      Our planning is complete, staffing is in place, our experience has been
+      informative and we are ready to implement this project immediately. The
+      only missing piece is sufficient funding.
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "1. Maintaining the knowledge level of Lead AGEnts for Change in a rapidly changing policy environment is a challenge. However, we have planned for this challenge by building in 3 periodic refresher sessions for the Lead AGEnts to keep them current on issues affecting Los Angeles Seniors.\r\n\r\n2. The changing environment of health, social, economic and policy issues that are currently impacting the lives of seniors and new unforeseen issues that may arise during the course of our work is a challenge. Our close working relationship with the Los Angeles Ageing Advocacy Coalition and its contact with the California Department of Aging leadership as well as local, state and national officials helps to keep SBSS and the AGEnts for Change Initiative program informed of recent and anticipated policy developments."
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: >-
+      There are other advocacy organizations working on the behalf of seniors,
+      such as AARP. However, AGEnts for Change is unique in Los Angeles in that
+      we're a grassroots effort training senior volunteers as Lead AGEnts for
+      Change, mobilizing other seniors through the work of the Lead AGEnts for
+      Change and collaborating with a strong coalition of aging organizations
+      through the Los Angeles Ageing Advocacy Coalition.
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      The 100,000 is sufficient to fund the AGEnts for Change Initiative for a
+      year. The proposed budget is $98,260.00. 
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Coordinator Civic Engagement Salary and Fringe @ .5 FTE = 27,280\r\nAdministrative Support Salary and Fringe @ 1.0 FTE = 33,480\r\nGeneral Office Supplies/Expense = 2000\r\nTraining Sessions = 2,500\r\nTraining Materials = 2,000\r\nLegislative Visits including travel by AGEnts = 7,000\r\nCommunications including Video's  = 12,000\r\nRecruitment & Information Sessions = 2,000\r\nLocal Legislator Education Visits = 2,000\r\nTransportation local including taxi vouchers, van usage, public transportation reimbursement and mileage = 5,000\r\nRefreshments and hosting visits from elected officials\r\nIT = 1,000\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: tangerine
 
 ---

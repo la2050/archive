@@ -63,8 +63,18 @@ project_ids: '3102105'
 title: design east of La Brea
 uri: /organizations/design-east-of-la-brea/
 challenge_url: 'http://maker.good.is/myla2050/projects/delab.html'
+extrapolated_project_ids:
+  - '3102105'
+project_titles_from_extrapolated_project_ids:
+  - Making LA
 project_titles:
   - Making LA
+project_titles_from_project_ids:
+  - Making LA
+original_project_titles:
+  - Making LA
+original_project_ids:
+  - '3102105'
 maker_image_id: '16457'
 maker_image_file_name: bikes.jpg
 

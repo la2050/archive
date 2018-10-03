@@ -4,7 +4,9 @@ project_id_2: '8102048'
 title: >-
   Gracias Music Foundation: Cultivating and empowering musicians that give back
   to the community
-project_summary: "We Believe Having A Dream And Never Giving Up Will Eventually Create Tomorrow's Music.\r\n"
+project_summary: >-
+  We Believe Having A Dream And Never Giving Up Will Eventually Create
+  Tomorrow's Music.
 Please describe the activation your organization seeks to launch.: >-
   Gracias Music Foundation serves people of all socioeconomic backgrounds. The
   Foundation promises to fulfill the dreams of those who aspires to be musicians
@@ -32,6 +34,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=EeCBqVA5f_g'
 project_id_3: '8102048'
 year_submitted: 2018
+organization_name: Gracias Music Foundation
 project_proposal_description: >-
   Gracias Music Foundation serves people of all socioeconomic backgrounds. The
   Foundation promises to fulfill the dreams of those who aspires to be musicians

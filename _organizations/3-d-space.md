@@ -30,5 +30,33 @@ title: 3-D SPACE
 uri: /organizations/3-d-space/
 challenge_url: >-
   https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
+extrapolated_project_ids:
+  - '6102001'
+  - '5102004'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital
+    Virtual Reality
+  - >-
+    3-D SPACE: The Center For Stereoscopic Photography Art Cinema and Education
+    in Los Angeles
+project_titles:
+  - >-
+    3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital
+    Virtual Reality
+  - >-
+    3-D SPACE: The Center For Stereoscopic Photography Art Cinema and Education
+    in Los Angeles
+project_titles_from_project_ids:
+  - >-
+    3-D SPACE Teaches 3-D Image Creation: From Analog Photography to Digital
+    Virtual Reality
+original_project_titles:
+  - >-
+    3-D SPACE: The Center For Stereoscopic Photography, Art, Cinema, and
+    Education in Los Angeles
+original_project_ids:
+  - '5102004'
+project_titles_flagged: 1
 
 ---

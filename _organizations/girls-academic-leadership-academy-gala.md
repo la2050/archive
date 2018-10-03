@@ -29,6 +29,18 @@ project_ids: '8102045'
 title: Girls Academic Leadership Academy (GALA)
 uri: /organizations/girls-academic-leadership-academy-gala/
 challenge_url: 'https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Girls Learn LA
+  - 'Launch Her Future: Empowering Los Angeles Girls'
+project_titles_from_project_ids:
+  - 'Launch Her Future: Empowering Los Angeles Girls'
+original_project_titles:
+  - 'Launch Her Future: Empowering Los Angeles Girls'
+original_project_ids:
+  - '8102045'
+project_titles_flagged: 1
 category: learn
 
 ---

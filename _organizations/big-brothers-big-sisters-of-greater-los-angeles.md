@@ -43,6 +43,29 @@ title: Big Brothers Big Sisters of Greater Los Angeles
 uri: /organizations/big-brothers-big-sisters-of-greater-los-angeles/
 challenge_url: >-
   https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
+extrapolated_project_ids:
+  - '5102025'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
+    Mentoring Program
+project_titles:
+  - >-
+    Linked Learning: College Work & Life Ready Through BBBSLAs Workplace
+    Mentoring Program
+  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
+project_titles_from_project_ids:
+  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
+original_project_titles:
+  - 'College, Work, & Life Ready Through BBBSLA''s Workplace Mentoring Program'
+  - >-
+    Linked Learning: College, Work, & Life Ready Through BBBSLA's Workplace
+    Mentoring Program
+  - Mentoring College Success with Big Brothers Big Sisters of Greater LA
+original_project_ids:
+  - '5102025'
+  - '8102007'
+project_titles_flagged: 1
 category: learn
 
 ---

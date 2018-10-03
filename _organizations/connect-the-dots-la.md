@@ -29,8 +29,19 @@ project_ids: '5102078'
 title: Connect the Dots LA
 uri: /organizations/connect-the-dots-la/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Healthy Streams for Angelenos
+project_titles_from_project_ids:
+  - Healthy Streams for Angelenos
+original_project_titles:
+  - >-
+    Connect the Dots LA:  Public Design Workshops for Realizing a Resilient
+    Future
+original_project_ids:
+  - '5102077'
+project_titles_flagged: 1
 maker_image_id: '24151'
 maker_image_file_name: CtD_2050_Image_2.jpg
 

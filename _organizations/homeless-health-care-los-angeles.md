@@ -28,5 +28,17 @@ project_ids: '6102096'
 title: Homeless Health Care Los Angeles
 uri: /organizations/homeless-health-care-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/save-a-life'
+extrapolated_project_ids:
+  - '6102096'
+project_titles_from_extrapolated_project_ids:
+  - Save A Life
+project_titles:
+  - Save A Life
+project_titles_from_project_ids:
+  - Save A Life
+original_project_titles:
+  - Save A Life
+original_project_ids:
+  - '6102096'
 
 ---

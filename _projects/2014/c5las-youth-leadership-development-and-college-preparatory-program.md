@@ -3,7 +3,7 @@ project_id: '4102029'
 title: C5LA’s Youth Leadership Development and College Preparatory Program
 project_summary: >-
   C5LA's proposed project develops future leaders, helps youth graduate high
-  school and attend college, and teaches the value of giving back.
+  school and attend college, and teaches the value of giving back. 
 category: learn
 organization_id: '2015024'
 year_submitted: 2014
@@ -79,6 +79,416 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  about_you: 'Los Angeles, CA'
+  org_name: C5 Youth Foundation of Southern California (“C5LA”)
+  org_website: 'http://www.c5la.org/'
+  org_twitter: '@C5LA'
+  org_facebook: 'https://www.facebook.com/C5LosAngeles'
+  org_instagram: C5LA
+  org_mailingaddress: "1334 South Central Avenue\r\nLos Angeles, CA 90021\r\n"
+  org_ein: '262458769'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '1'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '0'
+  describe_organization: >-
+    C5LA inspires high potential youth from at-risk environments to pursue
+    personal success, prepare for college, and become community leaders.
+  one_sentence_project: >-
+    C5LA's proposed project develops future leaders, helps youth graduate high
+    school and attend college, and teaches the value of giving back. 
+  describe_idea: >-
+    C5LA gets high potential teens from at-risk environments to college in five
+    years!
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: >-
+    The mission of C5LA perfectly reflects the goals of LA2050—we prepare
+    under-resourced Los Angeles youth for lifelong learning, build their
+    character, and empower them to contribute their skills, talents and
+    abilities to the community.  C5LA provides a five-year youth academic and
+    leadership development program for students at high risk for high school
+    dropout based on family poverty, single or no-parent homes, and precarious
+    living circumstances. C5LA helps them to graduate from high school, identify
+    potential career paths, and enter an institute of higher learning. Program
+    elements include: academic support, test preparation, community service
+    projects, summer camps, college campus tours, and career fairs. 
+  implement: "C5LA will offer leadership development, mentoring, college preparatory, and service learning programs to 300 students in grades eight to twelve over one year.  With the goal of helping youth: 1) graduate high school; 2) navigate the process of applying and enrolling in college; and 3) pursue a career path of their choosing, the C5LA program is structured as follows:\r\n\r\nYear One—Learning to Take the Lead: Eighth graders begin with a team building program that prepares them for the adventures that lie ahead. During the school year, youth participate in a two-day high ropes challenge course where they learn the importance of leadership and teamwork. In the summer, students travel to Hyattville, Wyoming for four weeks for Camp Paintrock–Leadership U. At camp, they learn about themselves and others, developing fundamental leadership skills while participating in adventure activities.\r\n\r\nYear Two—Leadership in Practice: Students apply newly developed leadership skills in challenging real world settings. Throughout the year, youth prepare for their upcoming summer experience through a variety of planning programs and a three-day camping trip. Year two culminates in the 12-day C5LA Bridges/Paintrock Leadership Challenge—a backcountry leadership adventure in Montana and Wyoming, where youth make decisions, solve problems, and learn to work together effectively.\r\n\r\nYear Three—Exploring My Future: Participants explore choices for post-secondary education and careers through The Road to College, a 7-10 day college campus tour. While on the tour, teens engage in a volunteer service project in one of the communities they visit. \r\n\r\nYear Four—Visionary Leadership: Students spend a week on a college campus where they identify the needs of community members, create potential solutions to the unique problems faced by the community, meet people who are making a difference in the community, develop a multimedia presentation about their experience, and teach others about the importance of giving back. Youth continue their college preparation through seminars and attendance at college fairs.\r\n\r\nYear Five—Looking Ahead and Giving Back: In their final year, youth develop and host the C5 A.C.T. Now Summit. This culminating day-long college access event is presented to their peers—students who share similar life experiences but lack the resources, skills, and preparation that our C5LA students have obtained through their years with the program. \r\n"
+  impact_learn: "According to recent studies, only 45% of all LAUSD freshmen ultimately receive a high school diploma. For ethnic minorities, the graduation rate is even lower. Nationwide, African-Americans drop out of school at almost twice the rate of Caucasians, and Hispanics at over three times the rate of their Caucasian peers.\r\n\r\nA lack of education impacts a person’s whole life. High school dropouts are 72% more likely to be unemployed, three times more likely to be arrested over their lifetimes, and the less formal education one has, the worse one’s health tends to be. Ultimately, low graduation rates impact entire communities, as historically under-served populations lose potential talent, leadership, income, and access to credit and capital—all of which could otherwise invigorate local economies.\r\n\r\nKey to the future success of all youth is a high school degree. Research clearly demonstrates that teens with successful role models earn higher grades and have greater self-esteem. Unfortunately, C5LA students lack such role models, as they become the first people in their families to attend college.  \r\n\r\nC5LA makes Los Angeles a better place to learn by providing education and supports to under-served youth and encouraging and facilitating high school graduation and college matriculation. The impact of our program on today’s youth is clear: for the past two years, 100% of our students have graduated from high school and gone on to college.\r\n\r\nC5LA is also helping make Los Angeles the best place to learn in 2050 by preparing program graduates to be leaders in the community and to take their education and leadership skills into their neighborhoods, schools, and places of work to perpetuate a cycle of improvement for others. These benefits are particularly important in Los Angeles’ low-income neighborhoods, where there are too few examples of success with which youth can identify.  \r\n\r\nGiving back to the community is essential and all youth are required to spend at least 30 hours per year engaged in community service activities.  The program also cultivates continued service through its Counselor in Training in Program (“CIT”). CIT provides C5LA graduates an opportunity to further develop the skills they obtained through their five years in the program. “C5ers” participate in either the Leadership Camp in Wyoming or the Road to College Tour and the ACT NOW Summit.  Students build skills that help create well-prepared and high-quality counselors and prepare them for the future. \r\n"
+  who_benefit: "C5LA’s Leadership Development and College Preparatory Program serves Los Angeles students who are at high risk for school dropout based on family poverty, single or no-parent homes, precarious living circumstances, and prevalence of gangs in their neighborhoods.  \r\n\r\nC5LA participants are Latino (56%), African American (22%), Asian/Pacific Islander (11%), Caucasian (7%), and other backgrounds (4%). One hundred percent come from low-income, working poor backgrounds and most live in homes where the annual income is less than $10,000 per family member. The average student in our program comes from a family of five members with a total annual income of $21,000. One hundred percent of C5LA youth participate in the federal free lunch program and over 90% are the first in their families to attend college. \r\n\r\nMore broadly, C5LA benefits the community by developing college-ready youth who have self-confidence and positive self-esteem, value diversity, and function effectively in a multicultural environment. The success of our youth as first-to-college family members, peer mentors, and community leaders also directly impacts the lives of their families, friends, and community: siblings/friends gain a positive role model and the community gains an engaged citizen. Successive generations will be more likely to attend college and their futures will change dramatically. Financial stability, better health, less violence and incarceration, and greater opportunities for advancement and retirement security are all likely outcomes of a college education.  \r\n"
+  collaboration: "C5LA works with organizations such as Educare, the Posse Foundation, Champions, Impact, and UCLA Uni-Camp to collaborate on serving more youth through our leadership programs. We are also partnered with the Fulfillment Fund and Princeton Review to enrich our college preparatory programming, including our youth participating in their standardized test taking prep classes and the Fulfillment Fund’s Destination College fair. \r\n\r\nC5LA also partners with 18 schools in the LAUSD through the Beyond the Bell Program, an initiative that provides after-school enrichment opportunities for underserved youth. Because C5LA aims to prepare youth for college through programs like the Road to College, the agency has developed extensive partnerships with dozens of colleges and universities, including throughout California and into Oregon and Washington for the Road to College and across the country as students have explored and entered universities around the country for more than 10 years. In addition to the Road to College, the A.C.T. Now Summit enables students to spend a week on a local college campus designing and developing a day-long college access and awareness event for other at-risk students.  Each year, A.C.T. Now impacts not just the lives of our program youth, but 500 others as well in the culmination of the program when C5 youth deliver the fall college preparatory program to hundreds of peers.       \r\n\r\nAs a result of our participation in the Los Angeles Social Venture Partners's “Fast Pitch” program, C5LA partnered with South Central Scholars in the creation of the “College Access Brain Trust,” which now includes leadership from several key organizations, including the National Foundation for Teaching Entrepreneurship and the former Magic Johnson Foundation. \r\n\r\nWe ensure our collaborations are successful by:\r\n•\tWorking closely with existing collaborative partners to further develop our program;\r\n•\tSeeking out relationships with college preparatory programs that have been proven effective; and\r\n•\tConstantly exploring how we can partner with new organizations that serve a similar youth demographic.\r\n"
+  metrics_learn_earlyeducation: '0'
+  metrics_learn_communitycollege: '0'
+  metrics_learn_unemployment: '1'
+  metrics_learn_graduationrates: '1'
+  metrics_learn_proficiency: '1'
+  metrics_learn_api: '1'
+  metrics_learn_college: '1'
+  metrics_learn_pipeline: '0'
+  metrics_learn_suspension: '0'
+  metrics_learn_truancy: '1'
+  metrics_learn_safety: '0'
+  metrics_learn_other: '0'
+  metrics_learn_blank: ''
+  impact_metrics: "The Leadership Development and College Preparatory Program is designed to help low-income students who come into the C5LA program with a C-average grade level, to achieve the following goals: \r\n\r\n•\tStudents will improve their grades and increase extracurricular activities during high school;\r\n•\t100% of students will graduate from high school;\r\n•\t100% of students will enter an institution of higher learning (college/university, community college, trade technical school, military, or other) within 12 months of their graduation from C5LA;\r\n•\t80% of youth will identify potential career paths and interests; and \r\n•\t80% college persistence rate for program alumni who have matriculated to college.\r\n\r\nOne hundred percent of our youth complete more than 30 hours of community service per year and are involved in extracurricular activities. C5LA has an unprecedented 94% year over year retention rate of participants. More than ten years of annual evaluations conducted by Youth Development Strategies, Social Solutions Efforts to Outcomes, and an internal program practice and safety audit confirms that 100% of youth who complete the program receive their high school diploma and over 95% matriculate to college. For the past two years, 100% of our students have gone to college. The current college persistence rate for our alumni is 5-10 times the national average.  \r\n"
+  best_place_to_connect: '1'
+  best_place_to_create: '0'
+  best_place_to_play: '0'
+  healthiest_place_to_live: '0'
+  evaluate: "C5LA is aimed at fulfilling our mission by helping youth grow, stay in school, and succeed. In order to accomplish this, the program has been designed around five key outcomes, which the program uses to measure success. Students are expected to:\r\n\r\n•\tForm positive relationships with youth and adults;\r\n•\tLive and work successfully in a diverse community;\r\n•\tGraduate high school and pursue higher education;\r\n•\tMake a positive contribution to his or her community; and \r\n•\tDevelop leadership skills in the areas of Self-Awareness, Confidence, Communication, Problem Solving, Decision Making, Organization, and Group Effectiveness.\r\n\r\nC5LA measures school attendance, community service hours, extracurricular involvement, and academic performance/grades. When compared to data related to a student’s performance prior to entrance into the C5LA program, we are able to measure performance and assess need for program change or enhancement. \r\n"
+  two_lessons: "Throughout its development, two principal lessons have informed the design of C5LA’s programs.  \r\n\r\nLesson 1: Summer camp experiences (two weeks or longer) have a tremendous impact on children’s confidence, self-esteem, and interpersonal skills. C5LA was founded in 2000 as the personal philanthropy of John Alm, former President and CEO of Coca-Cola Enterprises. After many years of sending his own children to summer camp, John Alm began to see the impact it had on their lives. The camp experience was an amazing lesson in life, but John knew that not all youth had the resources or financial means to attend.\r\n\r\nWith this in mind, John began his mission with the idea of creating a summer camp for those who otherwise would not have access to such an opportunity. In order to truly achieve the life impacting experiences that he felt would be necessary to affect students’ future behavior, John Alm and his wife, Carolyn, purchased a ranch in Hyattville, Wyoming, built a camp on the land, and hired staff to create the Paintrock Canyon Program. \r\n\r\nIn 2000, he brought 36 Los Angeles teens to Paintrock for the inaugural summer, where the youth spent one month at camp, far away from their everyday lives in Los Angeles.  Having started as a summer camp 14 years ago, C5LA is now a five-year, year-round academic and leadership development program where 100% of all participants graduate from high school and over 95% enter college. \r\n\r\nLesson 2:  Youth of limited family resources need consistent, long-term support to achieve their full potential. A 2006 study by the Bridgespan Group listed several important factors for enabling low-income students to get into and make it through college. Factors include understanding the link between education and career aspirations, a cohort of peers planning for college together, expecting a college-preparatory curriculum, and taking steps to make college more affordable. \r\n\r\nWith these factors in mind, the C5LA program grew in scope, not only involving a summer camp, but also creating an educational program that helps children grow into successful young adults. The program provides the wonderful adventure programs teaching the skills necessary for success and provides long-term assistance and support the youth might otherwise never receive.\r\n"
+  achievable_goal: "C5LA’s program is well established and we are confident that we can implement our project in the next twelve months because we have a clear timeline for recruiting new program participants and conducting project activities.  The timeline for the upcoming year follows.\r\n\r\nAugust-September: Administrators and C5LA Site Coordinators of each partner middle school meet with C5LA program staff to kick-off the identification/nomination/selection process.  \r\n\r\nOctober: C5LA Site Coordinators and Administrators present the program to the staff, who nominate youth at their middle schools. Teachers, counselors, and principals complete nominations and these documents are presented to partner school Site Coordinators for review. C5LA typically receives 30-40 nominations per school and more than 500 total nominations.  \r\n\r\nNovember-December: C5LA Site Coordinators distribute program applications to nominees.  Students and parents/guardians complete applications, secure reference letters, grades, and write essays. C5LA typically receives 300-400 completed application packets.\r\n\r\nFebruary-March: C5LA staff reviews applications and uses a score card to assess the fit with the program as well as the student’s need. Approximately 150 students are selected to interview for 72 spots. Interviews are completed on campus and include both group and individual format in order to assess the students in a team-oriented environment as well as one-on-one.  \r\n\r\nApril: C5LA staff meets to decide which 72 students will be chosen for the five-year, year-round program to begin in the spring. Thirty-six boys and 36 girls are chosen and this group is considered a cohort for the five program years. All students are notified, along with a wait-list group, and then the program kicks-off with orientation programming in the months leading up to the first residential summer program in Wyoming.  \r\n"
+  major_challenges: "The first challenge we are at the end of conquering, but remains a current challenge, is confidently fundraising a minimum of our budgeted expenses, and preferably going over this goal with a contingency amount in place each year.  \r\n\r\nC5LA’s revenues have fallen short relative to expenses, as expected, due to the fact that our operating budget was previously fully funded by a National organization (which was funded by Coca-Cola and Coca-Cola Enterprises).  When the funding ended five years ago, our board and staff were tasked with raising the entire operating budget for the first time.  A $2.8M cushion of support was provided knowing that it would take at least a few years, if not longer, to raise approximately $1 million per year when starting from zero. It is not our intention to completely drain the funds in this safety net pool and we still have a reserve available.  \r\n\r\nWe have successfully grown the board and continue to forge funding relationships with new partners each year, all while maintaining existing donors.  We are now poised, along with potential support from new funding sources such as LA2050, to grow our budget again in 2015 and start to strategically plan for an endowment fund. \r\n\r\nThe second challenge is staffing and retention.  C5LA seeks qualified staff of the highest caliber and aims to ensure that they stay. Because of the uniqueness of our model, combining year-round college preparation activities with rigorous outdoor adventure in the summer months, C5LA seeks individuals with a broad range of skill sets.  Staff must have experience in youth development, outdoor education, leadership development, and college and career planning.  There are seasonal summer employees for Camp Paintrock and training new staff each year on the program and culture can be challenging.  \r\n\r\nC5LA addresses staffing challenges by connecting with local colleges and universities to recruit staff through their teacher training and MPA programs.  C5LA also recruits LAUSD teachers.  These efforts, along with intensive training, ensure that we recruit dedicated, qualified, and diverse staff who reflect the demographics of our program participants.  In addition, there are opportunities for former program youth to work with C5LA. This is often ideal because many former C5ers work with C5LA when they are home from college in the summer and are already familiar with the program culture. \r\n"
+  competition: "Many of our previously named partners are doing similar work along with successful organizations such as Project GRAD who we are not partnered with yet.  We primarily view them as complementary and engage around partnership conversations versus feeling competitive.  Although we understand that many organizations are competing for the same funds, we strongly believe that many of us are required in the Los Angeles community in order to serve the vast numbers of low-income, underserved, first to college youth.  We recognize that we can't do it alone.  \r\n\r\nWith that said, we know we are unique because we have met with and partnered with many peers over the years and have leaders in the nonprofit community on our staff and board who have been exposed to many models and organizations.  \r\n\r\nC5LA is unique due to: 1) our five-year, year round model; 2) our proprietary curriculum which was developed by a team of nationwide youth development experts and honed over the years by the staff; 3) our robust evaluation processes including third party entities; 4) our signature, residential summer experiences; and the 5) adventure-based leadership development training in Wyoming and at sites around greater Los Angeles during the school year.  \r\n\r\nWe are an intentional, outcomes based program. Our students' first signature summer experience is a one month camp program in Hyattville, Wyoming which is often their first time away from family and home, their first time on a plane, and their first time camping in the wilderness.  This means they are all on a level playing field where the students' athletic abilities, academic performance, and other talents don't create the usual competition or social structures.  Rather, all youth are in the same, new, challenging situation. They are placed in diverse cabins of six and learn and grow significantly from each other and their peers in their cohort of 36, and become a tight knit family for the next five years.  We have yet to hear of or experience a similar program in Los Angeles that achieves the same remarkable results or utilizes the same program curriculum and structure.   \r\n"
+  cost: "The annual budget for C5LA in 2014 is $865,750. C5LA will cover additional costs of the program with unrestricted funding and/or grant funds raised.  \r\n\r\nOther organizations that have been or will soon be contacted for support include: the Joseph Drown Foundation ($50,000 approved), the John W. Carson Foundation ($10,000), Insperity ($5,000 approved), the Weingart Foundation ($25,000), the Hartley Foundation ($5,000), the Windsong Trust ($125,000), Rose Hills Foundation ($25,000 pledge), the Mayer and Morris Kaplan Family Foundation ($15,000), the Winnick Foundation ($5,000), the Carl & Roberta Deutsch Foundation ($50,000), the Roth Family Foundation ($15,000), and the Green Foundation ($25,000).\r\n"
+  budget: "2014 C5 Youth Foundation Los Angeles\r\nLA2050 Proposed Budget\r\n\t\t\t\t   \r\nEXPENSE\t\t\t\t\r\nPersonnel\t\t\r\nFull Time Staff / Program Director\t           $50,000\r\nPart Time Staff / Interns\t\t                   $  4,000 \r\nGroup Leaders (4)\t\t                                   $  6,000 \r\nTOTAL PAYROLL\t\t                                   $  60,000 \r\n\t\t\r\n\r\nSummer Residential Programs/College Tour and ACT NOW Summit\t\r\nTraining\t\t                                                     $ 1,500 \r\nSupplies\t\t                                                     $  3,000 \r\nFood\t\t                                                     $  2,000 \r\nTransportation - Charter Bus\t\t             $  5,000 \r\nTransportation - Fuel\t\t                             $  1,000 \r\nLodging  - College Campus & Hotel stays for College tours & ACT Now planning summit\t                                     $  5,000 \r\nEquipment\t\t                                             $  3,500 \r\nField trip expense / Program (Admission, Facility rentals & Speakers)\t\t                                             $  5,000 \r\nTOTAL PROGRAM OPERATIONS (Summer residential program)\t                                                              $ 26,000 \r\n\r\nPathways Year Round Programs\t\t\r\nProfessional Services - Speakers and\r\nProgramming                                                        $  2,500 \r\nTravel and Lodging\t\t                                $ 1,500 \r\nSupplies - Program Material\t\t                        $ 1,500 \r\nFood\t\t                                                        $ 2,500 \r\nTransportation - Charter Bus\t\t                $ 2,000 \r\nField trip expense / Program Partnerships / Prep Courses\t\t                                                        $ 4,000 \r\nTOTAL C5 PATHWAYS PROGRAM                      $14,000 \r\n\r\nTOTAL \t\t                                                        $ 100,000 \r\n\r\n\r\n\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: about_you
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: C5 Youth Foundation of Southern California (“C5LA”)
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: 'http://www.c5la.org/'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: '@C5LA'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/C5LosAngeles'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: C5LA
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "1334 South Central Avenue\r\nLos Angeles, CA 90021\r\n"
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '262458769'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '1'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '0'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      C5LA inspires high potential youth from at-risk environments to pursue
+      personal success, prepare for college, and become community leaders.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      C5LA's proposed project develops future leaders, helps youth graduate high
+      school and attend college, and teaches the value of giving back. 
+  - name: describe_idea
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      C5LA gets high potential teens from at-risk environments to college in
+      five years!
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      The mission of C5LA perfectly reflects the goals of LA2050—we prepare
+      under-resourced Los Angeles youth for lifelong learning, build their
+      character, and empower them to contribute their skills, talents and
+      abilities to the community.  C5LA provides a five-year youth academic and
+      leadership development program for students at high risk for high school
+      dropout based on family poverty, single or no-parent homes, and precarious
+      living circumstances. C5LA helps them to graduate from high school,
+      identify potential career paths, and enter an institute of higher
+      learning. Program elements include: academic support, test preparation,
+      community service projects, summer camps, college campus tours, and career
+      fairs. 
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "C5LA will offer leadership development, mentoring, college preparatory, and service learning programs to 300 students in grades eight to twelve over one year.  With the goal of helping youth: 1) graduate high school; 2) navigate the process of applying and enrolling in college; and 3) pursue a career path of their choosing, the C5LA program is structured as follows:\r\n\r\nYear One—Learning to Take the Lead: Eighth graders begin with a team building program that prepares them for the adventures that lie ahead. During the school year, youth participate in a two-day high ropes challenge course where they learn the importance of leadership and teamwork. In the summer, students travel to Hyattville, Wyoming for four weeks for Camp Paintrock–Leadership U. At camp, they learn about themselves and others, developing fundamental leadership skills while participating in adventure activities.\r\n\r\nYear Two—Leadership in Practice: Students apply newly developed leadership skills in challenging real world settings. Throughout the year, youth prepare for their upcoming summer experience through a variety of planning programs and a three-day camping trip. Year two culminates in the 12-day C5LA Bridges/Paintrock Leadership Challenge—a backcountry leadership adventure in Montana and Wyoming, where youth make decisions, solve problems, and learn to work together effectively.\r\n\r\nYear Three—Exploring My Future: Participants explore choices for post-secondary education and careers through The Road to College, a 7-10 day college campus tour. While on the tour, teens engage in a volunteer service project in one of the communities they visit. \r\n\r\nYear Four—Visionary Leadership: Students spend a week on a college campus where they identify the needs of community members, create potential solutions to the unique problems faced by the community, meet people who are making a difference in the community, develop a multimedia presentation about their experience, and teach others about the importance of giving back. Youth continue their college preparation through seminars and attendance at college fairs.\r\n\r\nYear Five—Looking Ahead and Giving Back: In their final year, youth develop and host the C5 A.C.T. Now Summit. This culminating day-long college access event is presented to their peers—students who share similar life experiences but lack the resources, skills, and preparation that our C5LA students have obtained through their years with the program. \r\n"
+  - name: impact_learn
+    label: ''
+    explanation: ''
+    answer: "According to recent studies, only 45% of all LAUSD freshmen ultimately receive a high school diploma. For ethnic minorities, the graduation rate is even lower. Nationwide, African-Americans drop out of school at almost twice the rate of Caucasians, and Hispanics at over three times the rate of their Caucasian peers.\r\n\r\nA lack of education impacts a person’s whole life. High school dropouts are 72% more likely to be unemployed, three times more likely to be arrested over their lifetimes, and the less formal education one has, the worse one’s health tends to be. Ultimately, low graduation rates impact entire communities, as historically under-served populations lose potential talent, leadership, income, and access to credit and capital—all of which could otherwise invigorate local economies.\r\n\r\nKey to the future success of all youth is a high school degree. Research clearly demonstrates that teens with successful role models earn higher grades and have greater self-esteem. Unfortunately, C5LA students lack such role models, as they become the first people in their families to attend college.  \r\n\r\nC5LA makes Los Angeles a better place to learn by providing education and supports to under-served youth and encouraging and facilitating high school graduation and college matriculation. The impact of our program on today’s youth is clear: for the past two years, 100% of our students have graduated from high school and gone on to college.\r\n\r\nC5LA is also helping make Los Angeles the best place to learn in 2050 by preparing program graduates to be leaders in the community and to take their education and leadership skills into their neighborhoods, schools, and places of work to perpetuate a cycle of improvement for others. These benefits are particularly important in Los Angeles’ low-income neighborhoods, where there are too few examples of success with which youth can identify.  \r\n\r\nGiving back to the community is essential and all youth are required to spend at least 30 hours per year engaged in community service activities.  The program also cultivates continued service through its Counselor in Training in Program (“CIT”). CIT provides C5LA graduates an opportunity to further develop the skills they obtained through their five years in the program. “C5ers” participate in either the Leadership Camp in Wyoming or the Road to College Tour and the ACT NOW Summit.  Students build skills that help create well-prepared and high-quality counselors and prepare them for the future. \r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "C5LA’s Leadership Development and College Preparatory Program serves Los Angeles students who are at high risk for school dropout based on family poverty, single or no-parent homes, precarious living circumstances, and prevalence of gangs in their neighborhoods.  \r\n\r\nC5LA participants are Latino (56%), African American (22%), Asian/Pacific Islander (11%), Caucasian (7%), and other backgrounds (4%). One hundred percent come from low-income, working poor backgrounds and most live in homes where the annual income is less than $10,000 per family member. The average student in our program comes from a family of five members with a total annual income of $21,000. One hundred percent of C5LA youth participate in the federal free lunch program and over 90% are the first in their families to attend college. \r\n\r\nMore broadly, C5LA benefits the community by developing college-ready youth who have self-confidence and positive self-esteem, value diversity, and function effectively in a multicultural environment. The success of our youth as first-to-college family members, peer mentors, and community leaders also directly impacts the lives of their families, friends, and community: siblings/friends gain a positive role model and the community gains an engaged citizen. Successive generations will be more likely to attend college and their futures will change dramatically. Financial stability, better health, less violence and incarceration, and greater opportunities for advancement and retirement security are all likely outcomes of a college education.  \r\n"
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "C5LA works with organizations such as Educare, the Posse Foundation, Champions, Impact, and UCLA Uni-Camp to collaborate on serving more youth through our leadership programs. We are also partnered with the Fulfillment Fund and Princeton Review to enrich our college preparatory programming, including our youth participating in their standardized test taking prep classes and the Fulfillment Fund’s Destination College fair. \r\n\r\nC5LA also partners with 18 schools in the LAUSD through the Beyond the Bell Program, an initiative that provides after-school enrichment opportunities for underserved youth. Because C5LA aims to prepare youth for college through programs like the Road to College, the agency has developed extensive partnerships with dozens of colleges and universities, including throughout California and into Oregon and Washington for the Road to College and across the country as students have explored and entered universities around the country for more than 10 years. In addition to the Road to College, the A.C.T. Now Summit enables students to spend a week on a local college campus designing and developing a day-long college access and awareness event for other at-risk students.  Each year, A.C.T. Now impacts not just the lives of our program youth, but 500 others as well in the culmination of the program when C5 youth deliver the fall college preparatory program to hundreds of peers.       \r\n\r\nAs a result of our participation in the Los Angeles Social Venture Partners's “Fast Pitch” program, C5LA partnered with South Central Scholars in the creation of the “College Access Brain Trust,” which now includes leadership from several key organizations, including the National Foundation for Teaching Entrepreneurship and the former Magic Johnson Foundation. \r\n\r\nWe ensure our collaborations are successful by:\r\n•\tWorking closely with existing collaborative partners to further develop our program;\r\n•\tSeeking out relationships with college preparatory programs that have been proven effective; and\r\n•\tConstantly exploring how we can partner with new organizations that serve a similar youth demographic.\r\n"
+  - name: metrics_learn_earlyeducation
+    label: Percentage of children enrolled in early education programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_communitycollege
+    label: >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_unemployment
+    label: Youth unemployment and underemployment
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_graduationrates
+    label: District-wide graduation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_proficiency
+    label: HS student proficiency in English & Language Arts and Math
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_api
+    label: Academic Performance Index scores
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_college
+    label: College matriculation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_pipeline
+    label: >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_suspension
+    label: Suspension and expulsion rates (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_truancy
+    label: Truancy rates in elementary and middle school (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_safety
+    label: >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "The Leadership Development and College Preparatory Program is designed to help low-income students who come into the C5LA program with a C-average grade level, to achieve the following goals: \r\n\r\n•\tStudents will improve their grades and increase extracurricular activities during high school;\r\n•\t100% of students will graduate from high school;\r\n•\t100% of students will enter an institution of higher learning (college/university, community college, trade technical school, military, or other) within 12 months of their graduation from C5LA;\r\n•\t80% of youth will identify potential career paths and interests; and \r\n•\t80% college persistence rate for program alumni who have matriculated to college.\r\n\r\nOne hundred percent of our youth complete more than 30 hours of community service per year and are involved in extracurricular activities. C5LA has an unprecedented 94% year over year retention rate of participants. More than ten years of annual evaluations conducted by Youth Development Strategies, Social Solutions Efforts to Outcomes, and an internal program practice and safety audit confirms that 100% of youth who complete the program receive their high school diploma and over 95% matriculate to college. For the past two years, 100% of our students have gone to college. The current college persistence rate for our alumni is 5-10 times the national average.  \r\n"
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "C5LA is aimed at fulfilling our mission by helping youth grow, stay in school, and succeed. In order to accomplish this, the program has been designed around five key outcomes, which the program uses to measure success. Students are expected to:\r\n\r\n•\tForm positive relationships with youth and adults;\r\n•\tLive and work successfully in a diverse community;\r\n•\tGraduate high school and pursue higher education;\r\n•\tMake a positive contribution to his or her community; and \r\n•\tDevelop leadership skills in the areas of Self-Awareness, Confidence, Communication, Problem Solving, Decision Making, Organization, and Group Effectiveness.\r\n\r\nC5LA measures school attendance, community service hours, extracurricular involvement, and academic performance/grades. When compared to data related to a student’s performance prior to entrance into the C5LA program, we are able to measure performance and assess need for program change or enhancement. \r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "Throughout its development, two principal lessons have informed the design of C5LA’s programs.  \r\n\r\nLesson 1: Summer camp experiences (two weeks or longer) have a tremendous impact on children’s confidence, self-esteem, and interpersonal skills. C5LA was founded in 2000 as the personal philanthropy of John Alm, former President and CEO of Coca-Cola Enterprises. After many years of sending his own children to summer camp, John Alm began to see the impact it had on their lives. The camp experience was an amazing lesson in life, but John knew that not all youth had the resources or financial means to attend.\r\n\r\nWith this in mind, John began his mission with the idea of creating a summer camp for those who otherwise would not have access to such an opportunity. In order to truly achieve the life impacting experiences that he felt would be necessary to affect students’ future behavior, John Alm and his wife, Carolyn, purchased a ranch in Hyattville, Wyoming, built a camp on the land, and hired staff to create the Paintrock Canyon Program. \r\n\r\nIn 2000, he brought 36 Los Angeles teens to Paintrock for the inaugural summer, where the youth spent one month at camp, far away from their everyday lives in Los Angeles.  Having started as a summer camp 14 years ago, C5LA is now a five-year, year-round academic and leadership development program where 100% of all participants graduate from high school and over 95% enter college. \r\n\r\nLesson 2:  Youth of limited family resources need consistent, long-term support to achieve their full potential. A 2006 study by the Bridgespan Group listed several important factors for enabling low-income students to get into and make it through college. Factors include understanding the link between education and career aspirations, a cohort of peers planning for college together, expecting a college-preparatory curriculum, and taking steps to make college more affordable. \r\n\r\nWith these factors in mind, the C5LA program grew in scope, not only involving a summer camp, but also creating an educational program that helps children grow into successful young adults. The program provides the wonderful adventure programs teaching the skills necessary for success and provides long-term assistance and support the youth might otherwise never receive.\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "C5LA’s program is well established and we are confident that we can implement our project in the next twelve months because we have a clear timeline for recruiting new program participants and conducting project activities.  The timeline for the upcoming year follows.\r\n\r\nAugust-September: Administrators and C5LA Site Coordinators of each partner middle school meet with C5LA program staff to kick-off the identification/nomination/selection process.  \r\n\r\nOctober: C5LA Site Coordinators and Administrators present the program to the staff, who nominate youth at their middle schools. Teachers, counselors, and principals complete nominations and these documents are presented to partner school Site Coordinators for review. C5LA typically receives 30-40 nominations per school and more than 500 total nominations.  \r\n\r\nNovember-December: C5LA Site Coordinators distribute program applications to nominees.  Students and parents/guardians complete applications, secure reference letters, grades, and write essays. C5LA typically receives 300-400 completed application packets.\r\n\r\nFebruary-March: C5LA staff reviews applications and uses a score card to assess the fit with the program as well as the student’s need. Approximately 150 students are selected to interview for 72 spots. Interviews are completed on campus and include both group and individual format in order to assess the students in a team-oriented environment as well as one-on-one.  \r\n\r\nApril: C5LA staff meets to decide which 72 students will be chosen for the five-year, year-round program to begin in the spring. Thirty-six boys and 36 girls are chosen and this group is considered a cohort for the five program years. All students are notified, along with a wait-list group, and then the program kicks-off with orientation programming in the months leading up to the first residential summer program in Wyoming.  \r\n"
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "The first challenge we are at the end of conquering, but remains a current challenge, is confidently fundraising a minimum of our budgeted expenses, and preferably going over this goal with a contingency amount in place each year.  \r\n\r\nC5LA’s revenues have fallen short relative to expenses, as expected, due to the fact that our operating budget was previously fully funded by a National organization (which was funded by Coca-Cola and Coca-Cola Enterprises).  When the funding ended five years ago, our board and staff were tasked with raising the entire operating budget for the first time.  A $2.8M cushion of support was provided knowing that it would take at least a few years, if not longer, to raise approximately $1 million per year when starting from zero. It is not our intention to completely drain the funds in this safety net pool and we still have a reserve available.  \r\n\r\nWe have successfully grown the board and continue to forge funding relationships with new partners each year, all while maintaining existing donors.  We are now poised, along with potential support from new funding sources such as LA2050, to grow our budget again in 2015 and start to strategically plan for an endowment fund. \r\n\r\nThe second challenge is staffing and retention.  C5LA seeks qualified staff of the highest caliber and aims to ensure that they stay. Because of the uniqueness of our model, combining year-round college preparation activities with rigorous outdoor adventure in the summer months, C5LA seeks individuals with a broad range of skill sets.  Staff must have experience in youth development, outdoor education, leadership development, and college and career planning.  There are seasonal summer employees for Camp Paintrock and training new staff each year on the program and culture can be challenging.  \r\n\r\nC5LA addresses staffing challenges by connecting with local colleges and universities to recruit staff through their teacher training and MPA programs.  C5LA also recruits LAUSD teachers.  These efforts, along with intensive training, ensure that we recruit dedicated, qualified, and diverse staff who reflect the demographics of our program participants.  In addition, there are opportunities for former program youth to work with C5LA. This is often ideal because many former C5ers work with C5LA when they are home from college in the summer and are already familiar with the program culture. \r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "Many of our previously named partners are doing similar work along with successful organizations such as Project GRAD who we are not partnered with yet.  We primarily view them as complementary and engage around partnership conversations versus feeling competitive.  Although we understand that many organizations are competing for the same funds, we strongly believe that many of us are required in the Los Angeles community in order to serve the vast numbers of low-income, underserved, first to college youth.  We recognize that we can't do it alone.  \r\n\r\nWith that said, we know we are unique because we have met with and partnered with many peers over the years and have leaders in the nonprofit community on our staff and board who have been exposed to many models and organizations.  \r\n\r\nC5LA is unique due to: 1) our five-year, year round model; 2) our proprietary curriculum which was developed by a team of nationwide youth development experts and honed over the years by the staff; 3) our robust evaluation processes including third party entities; 4) our signature, residential summer experiences; and the 5) adventure-based leadership development training in Wyoming and at sites around greater Los Angeles during the school year.  \r\n\r\nWe are an intentional, outcomes based program. Our students' first signature summer experience is a one month camp program in Hyattville, Wyoming which is often their first time away from family and home, their first time on a plane, and their first time camping in the wilderness.  This means they are all on a level playing field where the students' athletic abilities, academic performance, and other talents don't create the usual competition or social structures.  Rather, all youth are in the same, new, challenging situation. They are placed in diverse cabins of six and learn and grow significantly from each other and their peers in their cohort of 36, and become a tight knit family for the next five years.  We have yet to hear of or experience a similar program in Los Angeles that achieves the same remarkable results or utilizes the same program curriculum and structure.   \r\n"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "The annual budget for C5LA in 2014 is $865,750. C5LA will cover additional costs of the program with unrestricted funding and/or grant funds raised.  \r\n\r\nOther organizations that have been or will soon be contacted for support include: the Joseph Drown Foundation ($50,000 approved), the John W. Carson Foundation ($10,000), Insperity ($5,000 approved), the Weingart Foundation ($25,000), the Hartley Foundation ($5,000), the Windsong Trust ($125,000), Rose Hills Foundation ($25,000 pledge), the Mayer and Morris Kaplan Family Foundation ($15,000), the Winnick Foundation ($5,000), the Carl & Roberta Deutsch Foundation ($50,000), the Roth Family Foundation ($15,000), and the Green Foundation ($25,000).\r\n"
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "2014 C5 Youth Foundation Los Angeles\r\nLA2050 Proposed Budget\r\n\t\t\t\t   \r\nEXPENSE\t\t\t\t\r\nPersonnel\t\t\r\nFull Time Staff / Program Director\t           $50,000\r\nPart Time Staff / Interns\t\t                   $  4,000 \r\nGroup Leaders (4)\t\t                                   $  6,000 \r\nTOTAL PAYROLL\t\t                                   $  60,000 \r\n\t\t\r\n\r\nSummer Residential Programs/College Tour and ACT NOW Summit\t\r\nTraining\t\t                                                     $ 1,500 \r\nSupplies\t\t                                                     $  3,000 \r\nFood\t\t                                                     $  2,000 \r\nTransportation - Charter Bus\t\t             $  5,000 \r\nTransportation - Fuel\t\t                             $  1,000 \r\nLodging  - College Campus & Hotel stays for College tours & ACT Now planning summit\t                                     $  5,000 \r\nEquipment\t\t                                             $  3,500 \r\nField trip expense / Program (Admission, Facility rentals & Speakers)\t\t                                             $  5,000 \r\nTOTAL PROGRAM OPERATIONS (Summer residential program)\t                                                              $ 26,000 \r\n\r\nPathways Year Round Programs\t\t\r\nProfessional Services - Speakers and\r\nProgramming                                                        $  2,500 \r\nTravel and Lodging\t\t                                $ 1,500 \r\nSupplies - Program Material\t\t                        $ 1,500 \r\nFood\t\t                                                        $ 2,500 \r\nTransportation - Charter Bus\t\t                $ 2,000 \r\nField trip expense / Program Partnerships / Prep Courses\t\t                                                        $ 4,000 \r\nTOTAL C5 PATHWAYS PROGRAM                      $14,000 \r\n\r\nTOTAL \t\t                                                        $ 100,000 \r\n\r\n\r\n\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '1'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: blueberry
 
 ---

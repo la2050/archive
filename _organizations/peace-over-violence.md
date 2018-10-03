@@ -21,9 +21,26 @@ project_ids: '4102159'
 title: Peace Over Violence
 uri: /organizations/peace-over-violence/
 challenge_url: ''
-project_titles:
+extrapolated_project_ids:
+  - '4102164'
+  - '3102215'
+project_titles_from_extrapolated_project_ids:
   - Make A Choice Campaign
   - Childrens Counseling Program at POV
+project_titles:
+  - Childrens Counseling Program at POV
+  - Make A Choice Campaign
+project_titles_from_project_ids:
+  - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
+original_project_titles:
+  - Children's Counseling Program at POV
+  - Make A Choice Campaign
+  - Peace Over Violence
+  - Peace Over Violence
+original_project_ids:
+  - '3102215'
+  - '4102164'
+project_titles_flagged: 1
 youtube_video_identifier: nF2CnqS_6oQ
 
 ---

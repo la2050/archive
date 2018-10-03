@@ -1,10 +1,13 @@
 ---
-project_id: ''
+project_id: '8102032'
 project_id_2: '8102032'
 title: >-
   Crayon Collection: prevent waste in landfills; increase arts education in low
   income schools.
-project_summary: ''
+project_summary: >-
+  Every child deserves a crayon. Crayon Collection aims to reduce waste in
+  landfills by collecting gently used crayons that never decompose and
+  distributing them to the kids that need them the most.
 Please describe the activation your organization seeks to launch.: >-
   Crayon Collection wants to increase awareness among Angelenos that crayons do
   not decompose and can easily be donated to underfunded schools where kids need
@@ -35,10 +38,12 @@ impact_metrics: ''
 make_la_great: ''
 category: learn
 organization_id: ''
-project_image: ''
+project_image: >-
+  https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
 project_video: ''
 project_id_3: ''
 year_submitted: 2018
+organization_name: Crayon Collection
 project_proposal_description: >-
   Crayon Collection wants to increase awareness among Angelenos that crayons do
   not decompose and can easily be donated to underfunded schools where kids need

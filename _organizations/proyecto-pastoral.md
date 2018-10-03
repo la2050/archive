@@ -30,5 +30,17 @@ title: Proyecto Pastoral
 uri: /organizations/proyecto-pastoral/
 challenge_url: >-
   https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
+extrapolated_project_ids:
+  - '6102191'
+project_titles_from_extrapolated_project_ids:
+  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
+project_titles:
+  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
+project_titles_from_project_ids:
+  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
+original_project_titles:
+  - '#collegesquad: Promesa Boyle Heights Peer Mentor Program'
+original_project_ids:
+  - '6102191'
 
 ---

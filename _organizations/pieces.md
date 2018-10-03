@@ -30,5 +30,29 @@ title: PIECES
 uri: /organizations/pieces/
 challenge_url: >-
   https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
+extrapolated_project_ids:
+  - '6102183'
+  - '5102236'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+    ARTS
+  - Empowering Young L.A. Adults Through the Visual & Performing Arts
+project_titles:
+  - >-
+    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+    ARTS
+  - Empowering Young L.A. Adults Through the Visual & Performing Arts
+project_titles_from_project_ids:
+  - >-
+    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+    ARTS
+original_project_titles:
+  - >-
+    CONTINUE TO EMPOWER YOUNG ADULTS IN L.A. THROUGH THE VISUAL AND PERFORMING
+    ARTS
+original_project_ids:
+  - '6102183'
+project_titles_flagged: 1
 
 ---

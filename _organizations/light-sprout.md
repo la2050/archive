@@ -30,5 +30,25 @@ title: Light Sprout
 uri: /organizations/light-sprout/
 challenge_url: >-
   https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
+extrapolated_project_ids:
+  - '6102133'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Empower Me, a digital tool for rape survivors & allies that fosters
+    community, justice & healing
+project_titles:
+  - >-
+    Empower Me, a digital tool for rape survivors & allies that fosters
+    community, justice & healing
+project_titles_from_project_ids:
+  - >-
+    Empower Me, a digital tool for rape survivors & allies that fosters
+    community, justice & healing
+original_project_titles:
+  - >-
+    Empower Me, a digital tool for rape survivors & allies that fosters
+    community, justice & healing
+original_project_ids:
+  - '6102133'
 
 ---

@@ -25,9 +25,25 @@ project_ids: '4102110'
 title: Youth Speak Collective
 uri: /organizations/youth-speak-collective/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
-project_titles:
+extrapolated_project_ids:
+  - '4102266'
+  - '3102279'
+project_titles_from_extrapolated_project_ids:
   - SPEAK UP ACROSS LA!
   - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
+project_titles:
+  - 'Future Leaders Initiative  Listen to the Leaders of Tomorrow. '
+  - SPEAK UP ACROSS LA!
+project_titles_from_project_ids:
+  - Lets Build a Life Science Incubator in Los Angeles!
+original_project_titles:
+  - 'Future Leaders Initiative - Listen to the Leaders of Tomorrow. '
+  - SPEAK UP ACROSS LA!
+  - Youth Speak Collective
+original_project_ids:
+  - '3102279'
+  - '4102266'
+project_titles_flagged: 1
 youtube_video_identifier: poREvQfFFL4
 
 ---

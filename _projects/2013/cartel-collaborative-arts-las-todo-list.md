@@ -352,6 +352,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   They will have developed the tools to go out there and make art no matter how
   little resources they think they have. 
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

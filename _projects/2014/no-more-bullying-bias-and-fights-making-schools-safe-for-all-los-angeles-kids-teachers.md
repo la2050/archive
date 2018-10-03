@@ -92,6 +92,417 @@ empty_column_1: ''
 youtube_video_identifier: FKuY_bTZzoM
 project_areas:
   - LA COUNTY
+maker_answers:
+  about_you: Pasadena
+  org_name: Western Justice Center (WJC)
+  org_website: westernjustice.org
+  org_twitter: '@wjc'
+  org_facebook: 'https://www.facebook.com/westernjusticecenter'
+  org_instagram: Western Justice Center
+  org_mailingaddress: 55 S Grand Ave
+  org_ein: '954176583'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    WJC changes the way people think about and respond to differences and
+    conflict in order to create safer schools and a more peaceful society.
+  one_sentence_project: >-
+    WJC Institute for Safe and Inclusive Schools trains teachers and students to
+    address bias and bullying and to resolve disputes positively.
+  describe_idea: >-
+    @WJCF programs create schools where kids feel safe and welcome. Bias,
+    bullying and fights are not okay. You can help!
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: LA County
+  more_detail: >-
+    Conflict, bullying, prejudice, hate: they play out daily in classes and on
+    school grounds, as threats, slurs, cold shoulders, violence. Too many
+    classes are disrupted; too many kids skip school or just sit in class,
+    miserable, unable to concentrate.  They don’t do well; they drop out. Using
+    programs from our Institute for Safe and Inclusive Schools – The ABCs of
+    Conflict, Peer Mediation Invitational, Haven and Haven School Tools – WJC
+    will train K-12 students and teachers from 50 LA County schools, including
+    the full staff of a new charter K-5 school, to address bias and bullying and
+    to resolve conflict positively. Thousands of students and teachers will
+    learn to create schools that welcome rather than intimidate, and that value
+    difference.
+  implement: "WJC will provide a mix of programs for students and educators to teach them about bias, bullying and conflict resolution, and to give them the support needed to create and sustain safe and inclusive school environments. The ABCs of Conflict will train 40 to 60 LA County K-12 educators (at no cost to them) to resolve conflict positively, to teach their students to do the same, and to create and run peer mediation programs in their schools. Potential participants in the five-day, 30-hour The ABCs of Conflict training will complete an online application. Since ongoing support is key to sustaining a safe and inclusive school, each educator will show personal and organizational commitment to creating new or nurturing conflict resolution or anti-bias programs at her or his school. \r\n\t \r\n\tWJC Program Director Emily Linnemeier and mediator Jason Harper will conduct Days 1-3: the basics of conflict; understanding and dealing with conflict positively; and the role of culture, identity and power in conflict. Educators will learn to use mediation and arbitration to solve conflicts; they’ll learn to set up a peer mediation program. WJC Associate Executive Director Lori Nelson and student actors from our Encompass Service Learning Class at Los Angeles County High School for the Arts will focus on bias and the educator’s role in bullying prevention and intervention on Day 4. Restorative Justice specialist Schoene Mahmood will conclude the training. \r\n\r\n\tAll participants will have access to Haven School Tools, an online source of information and lessons about conflict resolution, bias and bullying. The site also has talking points and videos that show the need, efficacy, and value of these programs. These materials help teachers gain support from administrators to work on creating a safe and welcoming climate.\r\n\r\n\tWe’ll celebrate peer mediators at our annual Peer Mediation Invitational where elementary, middle and high school students can sharpen their skills in mock mediations, receive coaching and talk with peer mediators from other schools in LA County.\r\n\r\n\tHigh school mediators and their advisors will be invited to join Haven, our social network for students who are members of organizations (peer mediation groups, anti-bullying clubs, gay-straight alliances) working to make their schools safer and more inclusive. Haven gives these teens 24/7 access to videos, interactive training modules about conflict resolution and prejudice reduction,and forums."
+  impact_learn: "What will an investment in WJC make happen? This year, students and educators in 50 LA County schools will learn to create more just schools and communities. They’ll make places where kids feel safe and welcomed, schools where students want to be. There will be less anger, less fear, more understanding and acceptance. Schools will be places where kids can achieve, where they learn to their full potential.\r\n\r\n\t\tThe National Education Association estimates that every day, tens of thousands of kids choose to stay home and not go to school. They are frightened, desperately unhappy. To these students, school is a place where they are not safe, where they are not wanted. It’s not a place to learn. They don’t do well, they act out, get suspended and fall behind academically and emotionally. Then they drop out...or they stay, miserable and distracted, never achieving their full potential. Instead, let’s make school a place to learn!\r\n\r\n\t\tThe ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School Tools teach kids, teens and adults to change the ways they think about differences and how they respond to conflict. Those lessons – about solving conflicts collaboratively, that you don’t have to be afraid or hateful of difference – go home. They go into the community.\r\n \r\n\t\tMuch of a child’s life is spent in the classroom. His or her performance there has ramifications far into the future – in terms of socioeconomics, health, happiness. But too often educators and students are unschooled about how to resolve disputes, even small ones that disrupt the learning environment, or how to understand and accept difference and to work against bullying and bias. \r\n\r\n\t\tThat’s where WJC programs make a lasting difference. Educators and students learn about conflict, bullying and bias…how it plays out in class and on campus, how she or he can stop it. Some teachers even start student-run mediation programs. Teens working to make their schools safe and welcoming are supported by peers as part of our social network exclusively for high school students and their advisers. Teachers, students, families – anyone with a stake in resolving conflicts peacefully and making schools safe – have online access to lessons and helpful tips.\r\n\r\n\t\tThis is the future you’re creating for Los Angeles with an investment in WJC as part of LA2050: schools where kids are safe and happy and achieve to their full potential, communities that welcome rather than intimidate."
+  who_benefit: "Forty to 60 K-12 educators from schools across Los Angeles County will participate at WJC headquarters in a five-day, 30-hour session of The ABCs of Conflict. WJC will select a group of participants that reflects a variety of experiences and perspectives. Educators will represent diverse school types – public, charter, and secular and non-secular private – and a range of socioeconomics, ethnicity and race. The majority will teach underserved students. This selection enriches the training, creating the potential for both positive and difficult interactions based on difference – an element that underlies conflict and that educators and students often do not know how to address in a positive way.\r\n\r\n\tOn average, each educator will teach 150 students a year. That means that the 40-60 educators trained in The ABCs of Conflict – in solving disputes positively and working against bias and bullying – will directly and positively affect 9000 students. In turn, these students will have better interactions with countless others at school and beyond.\r\n\r\n\tAnother 30-hour session of The ABCs of Conflict will comprise on-site training for the full 15-member staff of LAUSD K-5 Village Charter Academy in Canoga Park. The Academy is opening in August 2014. The school’s co-directors have invited WJC to help create, from day one, a culture of inclusion and safety. The Academy will enroll up to 250 students, the majority being English learners from underserved populations. 30-40 4th and 5th graders will be trained as peer mediators. Again, they will positively affect family, friends and community.\r\n\t\r\n\tThe approximately100 peer mediators at our Peer Mediation Invitational attend elementary, middle and high schools throughout Los Angeles County. WJC will invite current and former participants of The ABCs of Conflict to send their student mediators to the event, and will also invite students from any LA County peer mediation program. In addition, dozens of adult mediators, educators and judges and lawyers from the WJC Board volunteer to coach, mediate and present.\r\n\r\n\tApproximately 50 high school groups (500 students and advisors) that are addressing bullying, prejudice or violence issues will join Haven social network next year. Additionally, more than 1000 teachers, parents, students, grandparents –anyone interested in understanding conflict resolution, bias and bullying and what an individual can do – will use Haven School Tools."
+  collaboration: "WJC depends on collaborators – funders, participants and program specialists – to help create and implement our programs. We seek funding from individuals, foundations and corporations that share our commitment to creating schools that are safe and welcoming and that in turn create a Los Angeles that is more civil, just and peaceful.  For example, WJC is committed to delivering The ABCs of Conflict at no cost to educators. In addition to individual, foundation and corporate support, WJC will encourage districts and individual schools to help defray costs through providing professional development funds that replace the modest stipend WJC gives teachers as part of this program since they typically attend on their own time. Village Charter Academy, with the full backing of its co-directors, has already agreed to include this program in their teacher training and to assist with raising funds; they are collaborating with us to create a healthy, safe and inclusive school environment.\r\n\r\n\tOur Encompass Service Learning Class is a collaboration with Los Angeles County High School for the Arts (LACHSA). Student actors and artists from LACHSA demonstrate the impact of homophobia, racial bias and bullying on the classroom; they work in our Peer Mediation Invitational; Creating Bias-Free Classrooms; Haven and Haven School Tools programs.\r\n\r\n\tHaven is currently being tested by a volunteer team of 50 students and educators from LACHSA, Social Justice Schools: Global Issues Academy and University High School. They test the site and report needed fixes to the program consultant who is creating the site structure. The testers also evaluate content and technology to ensure that WJC is creating a user-friendly and youth-empowering product that addresses the needs of high school students committed to creating better schools.\r\n\r\n\tWJC values collaborations with the leadership and staff of individual schools. A single educator cannot create and/or sustain a safe and inclusive school; administrators and other school staff members must also support conflict resolution as a way to create a school climate that promotes learning. We look for this collaboration as we implement each program: educators who have the support of their administration to start an anti-bully or anti-bias or peer mediation program; a principal’s validation that students and advisers from his or her school should participate in Haven; a school’s suggestion that parents check out Haven School Tools."
+  metrics_learn_earlyeducation: '0'
+  metrics_learn_communitycollege: '0'
+  metrics_learn_unemployment: '0'
+  metrics_learn_graduationrates: '1'
+  metrics_learn_proficiency: '0'
+  metrics_learn_api: '0'
+  metrics_learn_college: '0'
+  metrics_learn_pipeline: '0'
+  metrics_learn_suspension: '1'
+  metrics_learn_truancy: '1'
+  metrics_learn_safety: '1'
+  metrics_learn_other: '0'
+  metrics_learn_blank: ''
+  impact_metrics: "The need for conflict resolution education is tremendous, especially on school campuses. A 2011 survey found that 29% of Los Angeles high school students were involved in at least one physical fight (nearly half of those fights were on school grounds) in the past year. Nearly 8% of students reported missing at least one day out of the last 30 because they felt unsafe at or on the way to school. \r\n\r\n\tSuspensions are not the answer to creating a safer and more welcoming school environment. Suspended students are more likely to repeat a grade, drop out and become involved in the juvenile justice system. Suspensions alienate students and work against learning. School districts, like LAUSD and the San Francisco Unified school system, are increasingly turning to alternative solutions. \r\n\r\n\tConflict resolution education, by which students become more knowledgeable about conflict and learn to collaboratively reach solutions to disputes, is a proven method to reduce disruption and create a more positive climate in which students can achieve their full potential. But skills must also be reinforced and supported by student peers and school administrators.\r\n\r\n\tThe ABCs of Conflict will reduce and often prevent conflict and will also present alternatives to suspension. Students will have more time in school. And with a safer and more welcoming school environment, other students will choose to go to school instead of staying away. There will be less disruption in classes, meaning that more learning can take place and students can achieve their potential. Teachers will be able to focus on helping students learn rather than focusing on disciplining students. \r\n\r\n\tHaven, Haven School Tools and the Peer Mediation Invitational build upon our conflict resolution education. These programs provide ongoing support – for students and advisors working to make their school safe – and also vital information for others who want to understand bias, bullying and conflict and what they can do to help.\r\n\r\n\tClassrooms and schools where students and teachers feel safe and welcomed are places where people can achieve.  Over time, suspensions and truancies will decrease, and graduation rates will rise."
+  best_place_to_connect: '1'
+  best_place_to_create: '0'
+  best_place_to_play: '0'
+  healthiest_place_to_live: '1'
+  evaluate: "WJC will use pre-and post-training surveys to measure success. We’ll use quantitative and qualitative data about our programs. We’ll also use publicly available data about truancy, suspension and expulsion rates for LA County and for individual schools that we are working with.\r\n\r\n\tSpecifically, we’ll measure how well the 40-60 LA County K-12 educators who participated in The ABCs of Conflict understand how to create classes and schools that are safer and more inclusive. Following the training, are they more confident and better prepared to resolve conflict positively? Are they ready to establish conflict resolution or peer mediation programs? Why or why not?  What tools and/or confidence do they need? \r\n\r\n\tWe’ll measure the same criteria for the Village Charter Academy staff who participated in The ABCs of Conflict. We’ll also track whether and how successfully the staff and co-directors have trained students in conflict resolution and peer mediation. Is the training helping create a culture of inclusion for the entire school?\r\n\r\n\tSuccess will be evident by the number of peer mediation or conflict education programs that participants start or continue. Are educators using Haven School Tools? Is this online resource helping them with their existing or new peer mediation program? Did it help convince a principal that a conflict resolution program or club would be a good addition to the school? Are educators suggesting that students and parents use Haven School Tools?  If so, do they know if students and parents are using it and if they find it useful?\r\n\r\n\tHow many students participate in the Peer Mediation Invitational? How many are part of a program started by an alum of The ABCs of Conflict? Did the Invitational teach new skills or reinforce skills? Did the student learn from or enjoy meeting mediators from other schools?\r\n\r\n\tTraffic to Haven social network and Haven School Tools will be measured and analyzed. For Haven, we will also track the number of registered users, the amount of activities participants engage in and posts that are made while signed onto the social network. An important tool will include periodic online surveys to gauge impact on learning. Success will be measured by the completion of a learning module and an increasing number of students (1,500 by June 30, 2015) registering and engaging in Haven activities, including forums, postings and discussion groups."
+  two_lessons: "Where do kids spend most of their childhood? They’re in school, in class with a teacher and other students. Conflicts are inevitable; they are expected. But resolving disputes, even small ones, isn’t always easy...or even taught. Instead schools are often frightening, hostile places where discipline is counter-productive. Earlier this year, U.S. Education Secretary Arne Duncan spoke about the impact of widespread use of suspensions – which are disproportionately given to minority students:  “...that the school-to-prison pipeline appears to start as early as 4-year-olds, before kindergarten, should absolutely horrify us.” \r\n\r\n\tTime out of the classroom or time in a disruptive classroom does not lead to learning. But schools with teachers and students who know how to collaboratively resolve disputes and who have a shared sense of responsibility for the school culture, have more time for instruction and for productive learning and that enable students to achieve their full potential. The ABCs of Conflict trains educators who in turn teach their students. This model ensures that current students develop conflict resolution skills and that future classes of students will also receive these invaluable life-long leadership skills.\r\n\r\n\tA training program is not enough. A school’s culture needs to embrace inclusion and safety. Students working to create safe and inclusive schools need to know that they are part of a larger community, that they have a place where they can turn to peers and adult advisors. That is why WJC created Haven, a social network for high school students who are part of anti-bias, anti-bullying and peer mediation groups.\r\n\r\n\tEducators also need support, especially from administrators and others who guide the school’s budget and direction. Too many teachers quit teaching – 40-50% don’t last five years, especially in low-performing schools – in large part because they’re not supported. Educators told us they also needed easily accessible and high quality training materials and information about conflict resolution, bullying and bias. They needed information and strategies that would better enable them to garner support from their administrators and colleagues for the work their clubs and classes do to make their school climates feel more positive for students. That is why we developed Haven School Tools and will make it available to anyone who wants to learn to make our schools places where students and teachers want to be and can succeed."
+  achievable_goal: "WJC Institute for Safe and Inclusive Schools programs, The ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School Tools, are already underway. We look forward to welcoming new participants over the next 12 months and to building and unveiling exciting new aspects of these programs.\r\n\r\nThe ABCs of Conflict and Peer Mediation Invitational are “tried and true” programs – each with a several year history and with sessions scheduled for 2015. Our two newest programs, Haven social network and Haven School Tools, are in development with seed funding in place and plans for their implementation in 2015.\r\n\r\n\t\tSome students are already working to make their high school a place where kids want to be. They’re peer mediators or members of a gay-straight alliance or a school club that fights bias and bullying. But they want to be part of a larger community. That’s why we created Haven social network – havensocialnetwork.org. \r\n\r\n\t\tHaven is a mix of graphic art, videos designed by teens (some funny, some hard-hitting, all informative), articles and conversations and interactive learning about conflict resolution, anti-bias and anti-bullying. It’s a site where students can talk with other teens and adult advisers about what’s working or not, and where they can learn more.\r\nFifty beta testers (students and educators) from Los Angeles County High School for the Arts, Social Justice Schools: Global Issues Academy and University High School are at work assessing Haven before WJC launches with widespread outreach to LA County schools in 2015. The testers are evaluating content and technology to make sure Haven is user-friendly and empowers teens to create better schools by giving them the community, information and support they want and need. \r\n\r\nThese testers, along with alumni of The ABCs of Conflict, school advisers and mediators from prior Peer Mediation Invitational events, and individuals who are not involved in formal education but who are invested in safe and inclusive schools, will soon start to \"test drive\" Haven School Tools, our online resource for educators and the public about conflict resolution and bullying and bias-prevention. We will refine the site based on their feedback. In 2015, we will reach out broadly to schools and communities throughout LA County to invite them to use this vital resource and to take part in creating safer and more just schools and communities."
+  major_challenges: "Support, in two forms – institutional and financial – is a challenge WJC faces in creating safe and inclusive schools in Los Angeles County. It’s a challenge we will meet. The rewards of doing so will be tremendous for all of us in LA County.\r\n\r\n\tCreating schools that are safe and welcoming is hard work. Students and educators need ongoing support – in their schools and in the community. That’s why, when we select participants from among the many applicants for The ABCs of Conflict (so many that we have to keep a waiting list), we look for educators who want to create a peer mediation program or integrate conflict resolution education into their schools. We see if they have buy-in from their principal and if their colleagues support their efforts. \r\n\r\nHaven, our social network for teens, is limited to high school students and their advisers who are part of groups working to make their schools safer and more inclusive. To ensure that the school supports their work, we require the principal or school director to agree their staff and students can join Haven. \r\n\r\nWJC programs provide ongoing support with information, lessons and follow-up. That programmatic support, coupled with support within a school, make it possible to create and sustain a school-wide culture of inclusion and safety.\r\n\r\nFunding these programs is also challenge. But it is an investment that will yield valuable returns. Although educator participants in The ABCs of Conflict earn Continuing Education Credits or an LAUSD Salary Point with multicultural credit, most employers do not pay for the educators’ participation. WJC does not charge educators to participate in the program, and tries to provide a modest stipend to teachers who participate on their own time. The value of educators trained in conflict resolution is tremendous. That value is multiplied when they teach their students to resolve conflicts collaboratively. Funding a social network for students and an online resource for educators and the public will also pay off – today and into the future.\r\n\r\nWith training and support, conflicts in the classroom and on campus decrease. Fewer students are suspended. When students feel safer and more welcomed at school, they learn more. They stay in school. Funding The ABCs of Conflict, Haven and Haven School Tools is a necessity. With more funding, WJC can reach even more educators and students. It’s a challenge for WJC. It’s an opportunity for LA2050 and for other donors to make an impact."
+  competition: "As described in this proposal, WJC uses a multi-pronged approach to achieve its mission to build a more civil, peaceful society where differences are valued. Additionally, WJC programs integrate the arts, a social network for teens and conflict resolution and inter-group relations training to profoundly affect participants and bring about changes in the way they think about and respond to differences and conflict. This programmatic approach, which provides ongoing support and involves all key constituencies – educators and students – is a unique and vital approach to creating safe and inclusive schools in Los Angeles County.\r\n\r\nAdditionally, WJC’s 25-year history, a well-respected Board with strong connections in Los Angeles’ legal community, and an operating space that is a unique destination and source of revenue (Pasadena’s historic Maxwell House and adjoining properties) further strengthen our standing in the fields of conflict resolution, mediation, anti-bias and anti-bullying and inter-group relations.\r\n\r\n\tFew organizations compete directly with the work of WJC. However, several organizations provide elements or programs that work to achieve the shared goal of reducing bias, bullying and conflict in our schools and communities. Among these are: Center for Civic Mediation; Center for Conflict Resolution; The California Conference for Equality; Asian Pacific American Dispute Resolution Center; Loyola Law School (conflict resolution program); Centinela Youth Services; World of Difference; ADL (anti-bullying program); and Museum of Tolerance. WJC does not view these other organizations and/or programs as institutions to avoid, but instead looks for mutually beneficial opportunities."
+  cost: "The total budget for this project is $393,639. This funds four WJC Institute for Safe and Inclusive Schools programs – The ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School Tools. We are currently embarking on a campaign to raise the necessary funds. Initially, we are turning to our constituents, starting with a solicitation that has just mailed, in-person asks to individual donors, and funding requests to private and corporate foundations. \r\n\r\nAdditionally, we will showcase Haven and Haven School Tools in October at our annual Justice Awards dinner and seek funds from individuals and organizations, as well as again requesting donations from our constituents at year-end. As part of our fund development strategy, we are expanding our audience through individual contacts and greater use of email and social media to raise awareness of WJC and our programs such as The ABCs of Conflict, Haven and Haven School Tools.\r\n\r\nWe have already received grants and individual donations for each of these programs and are confident that we will raise the full budget. A grant of $100,000 from LA2050 will provide much needed funding and will also provide opportunities for WJC to market our program to a wider audience and potentially more donors."
+  budget: "The full cost for the four programs included in this proposal are $366,000. Our request for funding of $100,000 covers a portion of each of the four programs as detailed below:\r\n\r\nProgram\t\t\t                Full Cost\t                 $ Requested\r\nThe ABCs of Conflict\t                $52,374\t                         $13,305\r\nPeer Mediation Invitational\t$19,171\t                         $4,871\r\nHaven                                     \t$161,047\t                 $40,912\r\nHaven School Tool\t                $161,047\t                 $40,912\r\nTOTAL\t                                        $393,639\t                 $100,000\r\n\r\nCosts include personnel (with fringes), consultants (content development and technical/web design and hosting), teacher stipends, office expenses.\r\n\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: about_you
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: Pasadena
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Western Justice Center (WJC)
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: westernjustice.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: '@wjc'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/westernjusticecenter'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: Western Justice Center
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: 55 S Grand Ave
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '954176583'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      WJC changes the way people think about and respond to differences and
+      conflict in order to create safer schools and a more peaceful society.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      WJC Institute for Safe and Inclusive Schools trains teachers and students
+      to address bias and bullying and to resolve disputes positively.
+  - name: describe_idea
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      @WJCF programs create schools where kids feel safe and welcome. Bias,
+      bullying and fights are not okay. You can help!
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: LA County
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Conflict, bullying, prejudice, hate: they play out daily in classes and on
+      school grounds, as threats, slurs, cold shoulders, violence. Too many
+      classes are disrupted; too many kids skip school or just sit in class,
+      miserable, unable to concentrate.  They don’t do well; they drop out.
+      Using programs from our Institute for Safe and Inclusive Schools – The
+      ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School
+      Tools – WJC will train K-12 students and teachers from 50 LA County
+      schools, including the full staff of a new charter K-5 school, to address
+      bias and bullying and to resolve conflict positively. Thousands of
+      students and teachers will learn to create schools that welcome rather
+      than intimidate, and that value difference.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "WJC will provide a mix of programs for students and educators to teach them about bias, bullying and conflict resolution, and to give them the support needed to create and sustain safe and inclusive school environments. The ABCs of Conflict will train 40 to 60 LA County K-12 educators (at no cost to them) to resolve conflict positively, to teach their students to do the same, and to create and run peer mediation programs in their schools. Potential participants in the five-day, 30-hour The ABCs of Conflict training will complete an online application. Since ongoing support is key to sustaining a safe and inclusive school, each educator will show personal and organizational commitment to creating new or nurturing conflict resolution or anti-bias programs at her or his school. \r\n\t \r\n\tWJC Program Director Emily Linnemeier and mediator Jason Harper will conduct Days 1-3: the basics of conflict; understanding and dealing with conflict positively; and the role of culture, identity and power in conflict. Educators will learn to use mediation and arbitration to solve conflicts; they’ll learn to set up a peer mediation program. WJC Associate Executive Director Lori Nelson and student actors from our Encompass Service Learning Class at Los Angeles County High School for the Arts will focus on bias and the educator’s role in bullying prevention and intervention on Day 4. Restorative Justice specialist Schoene Mahmood will conclude the training. \r\n\r\n\tAll participants will have access to Haven School Tools, an online source of information and lessons about conflict resolution, bias and bullying. The site also has talking points and videos that show the need, efficacy, and value of these programs. These materials help teachers gain support from administrators to work on creating a safe and welcoming climate.\r\n\r\n\tWe’ll celebrate peer mediators at our annual Peer Mediation Invitational where elementary, middle and high school students can sharpen their skills in mock mediations, receive coaching and talk with peer mediators from other schools in LA County.\r\n\r\n\tHigh school mediators and their advisors will be invited to join Haven, our social network for students who are members of organizations (peer mediation groups, anti-bullying clubs, gay-straight alliances) working to make their schools safer and more inclusive. Haven gives these teens 24/7 access to videos, interactive training modules about conflict resolution and prejudice reduction,and forums."
+  - name: impact_learn
+    label: ''
+    explanation: ''
+    answer: "What will an investment in WJC make happen? This year, students and educators in 50 LA County schools will learn to create more just schools and communities. They’ll make places where kids feel safe and welcomed, schools where students want to be. There will be less anger, less fear, more understanding and acceptance. Schools will be places where kids can achieve, where they learn to their full potential.\r\n\r\n\t\tThe National Education Association estimates that every day, tens of thousands of kids choose to stay home and not go to school. They are frightened, desperately unhappy. To these students, school is a place where they are not safe, where they are not wanted. It’s not a place to learn. They don’t do well, they act out, get suspended and fall behind academically and emotionally. Then they drop out...or they stay, miserable and distracted, never achieving their full potential. Instead, let’s make school a place to learn!\r\n\r\n\t\tThe ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School Tools teach kids, teens and adults to change the ways they think about differences and how they respond to conflict. Those lessons – about solving conflicts collaboratively, that you don’t have to be afraid or hateful of difference – go home. They go into the community.\r\n \r\n\t\tMuch of a child’s life is spent in the classroom. His or her performance there has ramifications far into the future – in terms of socioeconomics, health, happiness. But too often educators and students are unschooled about how to resolve disputes, even small ones that disrupt the learning environment, or how to understand and accept difference and to work against bullying and bias. \r\n\r\n\t\tThat’s where WJC programs make a lasting difference. Educators and students learn about conflict, bullying and bias…how it plays out in class and on campus, how she or he can stop it. Some teachers even start student-run mediation programs. Teens working to make their schools safe and welcoming are supported by peers as part of our social network exclusively for high school students and their advisers. Teachers, students, families – anyone with a stake in resolving conflicts peacefully and making schools safe – have online access to lessons and helpful tips.\r\n\r\n\t\tThis is the future you’re creating for Los Angeles with an investment in WJC as part of LA2050: schools where kids are safe and happy and achieve to their full potential, communities that welcome rather than intimidate."
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "Forty to 60 K-12 educators from schools across Los Angeles County will participate at WJC headquarters in a five-day, 30-hour session of The ABCs of Conflict. WJC will select a group of participants that reflects a variety of experiences and perspectives. Educators will represent diverse school types – public, charter, and secular and non-secular private – and a range of socioeconomics, ethnicity and race. The majority will teach underserved students. This selection enriches the training, creating the potential for both positive and difficult interactions based on difference – an element that underlies conflict and that educators and students often do not know how to address in a positive way.\r\n\r\n\tOn average, each educator will teach 150 students a year. That means that the 40-60 educators trained in The ABCs of Conflict – in solving disputes positively and working against bias and bullying – will directly and positively affect 9000 students. In turn, these students will have better interactions with countless others at school and beyond.\r\n\r\n\tAnother 30-hour session of The ABCs of Conflict will comprise on-site training for the full 15-member staff of LAUSD K-5 Village Charter Academy in Canoga Park. The Academy is opening in August 2014. The school’s co-directors have invited WJC to help create, from day one, a culture of inclusion and safety. The Academy will enroll up to 250 students, the majority being English learners from underserved populations. 30-40 4th and 5th graders will be trained as peer mediators. Again, they will positively affect family, friends and community.\r\n\t\r\n\tThe approximately100 peer mediators at our Peer Mediation Invitational attend elementary, middle and high schools throughout Los Angeles County. WJC will invite current and former participants of The ABCs of Conflict to send their student mediators to the event, and will also invite students from any LA County peer mediation program. In addition, dozens of adult mediators, educators and judges and lawyers from the WJC Board volunteer to coach, mediate and present.\r\n\r\n\tApproximately 50 high school groups (500 students and advisors) that are addressing bullying, prejudice or violence issues will join Haven social network next year. Additionally, more than 1000 teachers, parents, students, grandparents –anyone interested in understanding conflict resolution, bias and bullying and what an individual can do – will use Haven School Tools."
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "WJC depends on collaborators – funders, participants and program specialists – to help create and implement our programs. We seek funding from individuals, foundations and corporations that share our commitment to creating schools that are safe and welcoming and that in turn create a Los Angeles that is more civil, just and peaceful.  For example, WJC is committed to delivering The ABCs of Conflict at no cost to educators. In addition to individual, foundation and corporate support, WJC will encourage districts and individual schools to help defray costs through providing professional development funds that replace the modest stipend WJC gives teachers as part of this program since they typically attend on their own time. Village Charter Academy, with the full backing of its co-directors, has already agreed to include this program in their teacher training and to assist with raising funds; they are collaborating with us to create a healthy, safe and inclusive school environment.\r\n\r\n\tOur Encompass Service Learning Class is a collaboration with Los Angeles County High School for the Arts (LACHSA). Student actors and artists from LACHSA demonstrate the impact of homophobia, racial bias and bullying on the classroom; they work in our Peer Mediation Invitational; Creating Bias-Free Classrooms; Haven and Haven School Tools programs.\r\n\r\n\tHaven is currently being tested by a volunteer team of 50 students and educators from LACHSA, Social Justice Schools: Global Issues Academy and University High School. They test the site and report needed fixes to the program consultant who is creating the site structure. The testers also evaluate content and technology to ensure that WJC is creating a user-friendly and youth-empowering product that addresses the needs of high school students committed to creating better schools.\r\n\r\n\tWJC values collaborations with the leadership and staff of individual schools. A single educator cannot create and/or sustain a safe and inclusive school; administrators and other school staff members must also support conflict resolution as a way to create a school climate that promotes learning. We look for this collaboration as we implement each program: educators who have the support of their administration to start an anti-bully or anti-bias or peer mediation program; a principal’s validation that students and advisers from his or her school should participate in Haven; a school’s suggestion that parents check out Haven School Tools."
+  - name: metrics_learn_earlyeducation
+    label: Percentage of children enrolled in early education programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_communitycollege
+    label: >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_unemployment
+    label: Youth unemployment and underemployment
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_graduationrates
+    label: District-wide graduation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_proficiency
+    label: HS student proficiency in English & Language Arts and Math
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_api
+    label: Academic Performance Index scores
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_college
+    label: College matriculation rates
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_pipeline
+    label: >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_suspension
+    label: Suspension and expulsion rates (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_truancy
+    label: Truancy rates in elementary and middle school (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_safety
+    label: >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "The need for conflict resolution education is tremendous, especially on school campuses. A 2011 survey found that 29% of Los Angeles high school students were involved in at least one physical fight (nearly half of those fights were on school grounds) in the past year. Nearly 8% of students reported missing at least one day out of the last 30 because they felt unsafe at or on the way to school. \r\n\r\n\tSuspensions are not the answer to creating a safer and more welcoming school environment. Suspended students are more likely to repeat a grade, drop out and become involved in the juvenile justice system. Suspensions alienate students and work against learning. School districts, like LAUSD and the San Francisco Unified school system, are increasingly turning to alternative solutions. \r\n\r\n\tConflict resolution education, by which students become more knowledgeable about conflict and learn to collaboratively reach solutions to disputes, is a proven method to reduce disruption and create a more positive climate in which students can achieve their full potential. But skills must also be reinforced and supported by student peers and school administrators.\r\n\r\n\tThe ABCs of Conflict will reduce and often prevent conflict and will also present alternatives to suspension. Students will have more time in school. And with a safer and more welcoming school environment, other students will choose to go to school instead of staying away. There will be less disruption in classes, meaning that more learning can take place and students can achieve their potential. Teachers will be able to focus on helping students learn rather than focusing on disciplining students. \r\n\r\n\tHaven, Haven School Tools and the Peer Mediation Invitational build upon our conflict resolution education. These programs provide ongoing support – for students and advisors working to make their school safe – and also vital information for others who want to understand bias, bullying and conflict and what they can do to help.\r\n\r\n\tClassrooms and schools where students and teachers feel safe and welcomed are places where people can achieve.  Over time, suspensions and truancies will decrease, and graduation rates will rise."
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "WJC will use pre-and post-training surveys to measure success. We’ll use quantitative and qualitative data about our programs. We’ll also use publicly available data about truancy, suspension and expulsion rates for LA County and for individual schools that we are working with.\r\n\r\n\tSpecifically, we’ll measure how well the 40-60 LA County K-12 educators who participated in The ABCs of Conflict understand how to create classes and schools that are safer and more inclusive. Following the training, are they more confident and better prepared to resolve conflict positively? Are they ready to establish conflict resolution or peer mediation programs? Why or why not?  What tools and/or confidence do they need? \r\n\r\n\tWe’ll measure the same criteria for the Village Charter Academy staff who participated in The ABCs of Conflict. We’ll also track whether and how successfully the staff and co-directors have trained students in conflict resolution and peer mediation. Is the training helping create a culture of inclusion for the entire school?\r\n\r\n\tSuccess will be evident by the number of peer mediation or conflict education programs that participants start or continue. Are educators using Haven School Tools? Is this online resource helping them with their existing or new peer mediation program? Did it help convince a principal that a conflict resolution program or club would be a good addition to the school? Are educators suggesting that students and parents use Haven School Tools?  If so, do they know if students and parents are using it and if they find it useful?\r\n\r\n\tHow many students participate in the Peer Mediation Invitational? How many are part of a program started by an alum of The ABCs of Conflict? Did the Invitational teach new skills or reinforce skills? Did the student learn from or enjoy meeting mediators from other schools?\r\n\r\n\tTraffic to Haven social network and Haven School Tools will be measured and analyzed. For Haven, we will also track the number of registered users, the amount of activities participants engage in and posts that are made while signed onto the social network. An important tool will include periodic online surveys to gauge impact on learning. Success will be measured by the completion of a learning module and an increasing number of students (1,500 by June 30, 2015) registering and engaging in Haven activities, including forums, postings and discussion groups."
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "Where do kids spend most of their childhood? They’re in school, in class with a teacher and other students. Conflicts are inevitable; they are expected. But resolving disputes, even small ones, isn’t always easy...or even taught. Instead schools are often frightening, hostile places where discipline is counter-productive. Earlier this year, U.S. Education Secretary Arne Duncan spoke about the impact of widespread use of suspensions – which are disproportionately given to minority students:  “...that the school-to-prison pipeline appears to start as early as 4-year-olds, before kindergarten, should absolutely horrify us.” \r\n\r\n\tTime out of the classroom or time in a disruptive classroom does not lead to learning. But schools with teachers and students who know how to collaboratively resolve disputes and who have a shared sense of responsibility for the school culture, have more time for instruction and for productive learning and that enable students to achieve their full potential. The ABCs of Conflict trains educators who in turn teach their students. This model ensures that current students develop conflict resolution skills and that future classes of students will also receive these invaluable life-long leadership skills.\r\n\r\n\tA training program is not enough. A school’s culture needs to embrace inclusion and safety. Students working to create safe and inclusive schools need to know that they are part of a larger community, that they have a place where they can turn to peers and adult advisors. That is why WJC created Haven, a social network for high school students who are part of anti-bias, anti-bullying and peer mediation groups.\r\n\r\n\tEducators also need support, especially from administrators and others who guide the school’s budget and direction. Too many teachers quit teaching – 40-50% don’t last five years, especially in low-performing schools – in large part because they’re not supported. Educators told us they also needed easily accessible and high quality training materials and information about conflict resolution, bullying and bias. They needed information and strategies that would better enable them to garner support from their administrators and colleagues for the work their clubs and classes do to make their school climates feel more positive for students. That is why we developed Haven School Tools and will make it available to anyone who wants to learn to make our schools places where students and teachers want to be and can succeed."
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "WJC Institute for Safe and Inclusive Schools programs, The ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School Tools, are already underway. We look forward to welcoming new participants over the next 12 months and to building and unveiling exciting new aspects of these programs.\r\n\r\nThe ABCs of Conflict and Peer Mediation Invitational are “tried and true” programs – each with a several year history and with sessions scheduled for 2015. Our two newest programs, Haven social network and Haven School Tools, are in development with seed funding in place and plans for their implementation in 2015.\r\n\r\n\t\tSome students are already working to make their high school a place where kids want to be. They’re peer mediators or members of a gay-straight alliance or a school club that fights bias and bullying. But they want to be part of a larger community. That’s why we created Haven social network – havensocialnetwork.org. \r\n\r\n\t\tHaven is a mix of graphic art, videos designed by teens (some funny, some hard-hitting, all informative), articles and conversations and interactive learning about conflict resolution, anti-bias and anti-bullying. It’s a site where students can talk with other teens and adult advisers about what’s working or not, and where they can learn more.\r\nFifty beta testers (students and educators) from Los Angeles County High School for the Arts, Social Justice Schools: Global Issues Academy and University High School are at work assessing Haven before WJC launches with widespread outreach to LA County schools in 2015. The testers are evaluating content and technology to make sure Haven is user-friendly and empowers teens to create better schools by giving them the community, information and support they want and need. \r\n\r\nThese testers, along with alumni of The ABCs of Conflict, school advisers and mediators from prior Peer Mediation Invitational events, and individuals who are not involved in formal education but who are invested in safe and inclusive schools, will soon start to \"test drive\" Haven School Tools, our online resource for educators and the public about conflict resolution and bullying and bias-prevention. We will refine the site based on their feedback. In 2015, we will reach out broadly to schools and communities throughout LA County to invite them to use this vital resource and to take part in creating safer and more just schools and communities."
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "Support, in two forms – institutional and financial – is a challenge WJC faces in creating safe and inclusive schools in Los Angeles County. It’s a challenge we will meet. The rewards of doing so will be tremendous for all of us in LA County.\r\n\r\n\tCreating schools that are safe and welcoming is hard work. Students and educators need ongoing support – in their schools and in the community. That’s why, when we select participants from among the many applicants for The ABCs of Conflict (so many that we have to keep a waiting list), we look for educators who want to create a peer mediation program or integrate conflict resolution education into their schools. We see if they have buy-in from their principal and if their colleagues support their efforts. \r\n\r\nHaven, our social network for teens, is limited to high school students and their advisers who are part of groups working to make their schools safer and more inclusive. To ensure that the school supports their work, we require the principal or school director to agree their staff and students can join Haven. \r\n\r\nWJC programs provide ongoing support with information, lessons and follow-up. That programmatic support, coupled with support within a school, make it possible to create and sustain a school-wide culture of inclusion and safety.\r\n\r\nFunding these programs is also challenge. But it is an investment that will yield valuable returns. Although educator participants in The ABCs of Conflict earn Continuing Education Credits or an LAUSD Salary Point with multicultural credit, most employers do not pay for the educators’ participation. WJC does not charge educators to participate in the program, and tries to provide a modest stipend to teachers who participate on their own time. The value of educators trained in conflict resolution is tremendous. That value is multiplied when they teach their students to resolve conflicts collaboratively. Funding a social network for students and an online resource for educators and the public will also pay off – today and into the future.\r\n\r\nWith training and support, conflicts in the classroom and on campus decrease. Fewer students are suspended. When students feel safer and more welcomed at school, they learn more. They stay in school. Funding The ABCs of Conflict, Haven and Haven School Tools is a necessity. With more funding, WJC can reach even more educators and students. It’s a challenge for WJC. It’s an opportunity for LA2050 and for other donors to make an impact."
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "As described in this proposal, WJC uses a multi-pronged approach to achieve its mission to build a more civil, peaceful society where differences are valued. Additionally, WJC programs integrate the arts, a social network for teens and conflict resolution and inter-group relations training to profoundly affect participants and bring about changes in the way they think about and respond to differences and conflict. This programmatic approach, which provides ongoing support and involves all key constituencies – educators and students – is a unique and vital approach to creating safe and inclusive schools in Los Angeles County.\r\n\r\nAdditionally, WJC’s 25-year history, a well-respected Board with strong connections in Los Angeles’ legal community, and an operating space that is a unique destination and source of revenue (Pasadena’s historic Maxwell House and adjoining properties) further strengthen our standing in the fields of conflict resolution, mediation, anti-bias and anti-bullying and inter-group relations.\r\n\r\n\tFew organizations compete directly with the work of WJC. However, several organizations provide elements or programs that work to achieve the shared goal of reducing bias, bullying and conflict in our schools and communities. Among these are: Center for Civic Mediation; Center for Conflict Resolution; The California Conference for Equality; Asian Pacific American Dispute Resolution Center; Loyola Law School (conflict resolution program); Centinela Youth Services; World of Difference; ADL (anti-bullying program); and Museum of Tolerance. WJC does not view these other organizations and/or programs as institutions to avoid, but instead looks for mutually beneficial opportunities."
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "The total budget for this project is $393,639. This funds four WJC Institute for Safe and Inclusive Schools programs – The ABCs of Conflict, Peer Mediation Invitational, Haven and Haven School Tools. We are currently embarking on a campaign to raise the necessary funds. Initially, we are turning to our constituents, starting with a solicitation that has just mailed, in-person asks to individual donors, and funding requests to private and corporate foundations. \r\n\r\nAdditionally, we will showcase Haven and Haven School Tools in October at our annual Justice Awards dinner and seek funds from individuals and organizations, as well as again requesting donations from our constituents at year-end. As part of our fund development strategy, we are expanding our audience through individual contacts and greater use of email and social media to raise awareness of WJC and our programs such as The ABCs of Conflict, Haven and Haven School Tools.\r\n\r\nWe have already received grants and individual donations for each of these programs and are confident that we will raise the full budget. A grant of $100,000 from LA2050 will provide much needed funding and will also provide opportunities for WJC to market our program to a wider audience and potentially more donors."
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "The full cost for the four programs included in this proposal are $366,000. Our request for funding of $100,000 covers a portion of each of the four programs as detailed below:\r\n\r\nProgram\t\t\t                Full Cost\t                 $ Requested\r\nThe ABCs of Conflict\t                $52,374\t                         $13,305\r\nPeer Mediation Invitational\t$19,171\t                         $4,871\r\nHaven                                     \t$161,047\t                 $40,912\r\nHaven School Tool\t                $161,047\t                 $40,912\r\nTOTAL\t                                        $393,639\t                 $100,000\r\n\r\nCosts include personnel (with fringes), consultants (content development and technical/web design and hosting), teacher stipends, office expenses.\r\n\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: blueberry
 
 ---

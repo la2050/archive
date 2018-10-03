@@ -30,8 +30,19 @@ project_ids: '4102098'
 title: The Women's Center for Creative Work
 uri: /organizations/the-womens-center-for-creative-work/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/WCCW.html'
+extrapolated_project_ids:
+  - '4102232'
+project_titles_from_extrapolated_project_ids:
+  - A Physical Space for the WCCW
 project_titles:
   - A Physical Space for the WCCW
+project_titles_from_project_ids:
+  - SFCLA - Serving Hope and Veggies where LA needs it most!
+original_project_titles:
+  - 'A Physical Space for the WCCW '
+original_project_ids:
+  - '4102232'
+project_titles_flagged: 1
 maker_image_id: '20805'
 maker_image_file_name: 1525354_1412741148965740_1670155225_n.jpg
 

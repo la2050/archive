@@ -79,8 +79,18 @@ project_ids: '3102249'
 title: The HeArt Project
 uri: /organizations/the-heart-project/
 challenge_url: 'http://maker.good.is/myla2050/projects/theheartproject.html'
+extrapolated_project_ids:
+  - '3102249'
+project_titles_from_extrapolated_project_ids:
+  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
 project_titles:
   - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
+project_titles_from_project_ids:
+  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
+original_project_titles:
+  - 'The HeArt Project: Arts Education ends the Dropout Crisis in LA'
+original_project_ids:
+  - '3102249'
 maker_image_id: '16966'
 maker_image_file_name: DSCF5143_eventbrite.jpg
 

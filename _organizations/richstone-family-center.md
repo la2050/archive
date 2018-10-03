@@ -31,5 +31,23 @@ project_ids: '6102198'
 title: Richstone Family Center
 uri: /organizations/richstone-family-center/
 challenge_url: 'https://challenge.la2050.org/entry/integrated-healing-wellness-center'
+extrapolated_project_ids:
+  - '6102198'
+  - '5102253'
+project_titles_from_extrapolated_project_ids:
+  - Integrated Healing & Wellness Center
+  - Richstone Healing & Wellness Center
+project_titles:
+  - Integrated Healing & Wellness Center
+  - Richstone Healing & Wellness Center
+project_titles_from_project_ids:
+  - Integrated Healing & Wellness Center
+original_project_titles:
+  - Integrated Healing & Wellness Center
+  - Richstone Healing & Wellness Center
+original_project_ids:
+  - '5102253'
+  - '6102198'
+project_titles_flagged: 1
 
 ---

@@ -36,8 +36,18 @@ project_ids: '3102156'
 title: InsightLA
 uri: /organizations/insightla/
 challenge_url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+extrapolated_project_ids:
+  - '3102156'
+project_titles_from_extrapolated_project_ids:
+  - LA the capital of mindfulness in 2050
 project_titles:
   - LA the capital of mindfulness in 2050
+project_titles_from_project_ids:
+  - LA the capital of mindfulness in 2050
+original_project_titles:
+  - 'LA, the capital of mindfulness in 2050'
+original_project_ids:
+  - '3102156'
 youtube_video_identifier: lLS50WusJa4
 
 ---

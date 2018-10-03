@@ -34,6 +34,38 @@ project_ids: '8102027'
 title: City Year Los Angeles
 uri: /organizations/city-year-los-angeles/
 challenge_url: 'https://activation.la2050.org/connect/city-year-los-angeles/'
+extrapolated_project_ids:
+  - '8102027'
+  - '6102040'
+  - '4102038'
+project_titles_from_extrapolated_project_ids:
+  - Imagine. Recruit. Transform. Inspire.
+  - >-
+    Bringing STEM to City Year After-School Programs in Boyle Heights and
+    Pico-Union
+  - >-
+    City Year Los Angeles Expansion into two PLAS High Schools: Jordan and
+    Roosevelt
+project_titles:
+  - >-
+    Bringing STEM to City Year After-School Programs in Boyle Heights and
+    Pico-Union
+  - >-
+    City Year Los Angeles Expansion into two PLAS High Schools: Jordan and
+    Roosevelt
+  - Help At-Risk Students in South L.A. Get on Track to Graduate
+  - Imagine. Recruit. Transform. Inspire.
+project_titles_from_project_ids:
+  - Imagine. Recruit. Transform. Inspire.
+original_project_titles:
+  - >-
+    Bringing STEM to City Year After-School Programs in Boyle Heights and
+    Pico-Union
+  - Imagine. Recruit. Transform. Inspire.
+original_project_ids:
+  - '6102040'
+  - '8102027'
+project_titles_flagged: 1
 category: connect
 
 ---

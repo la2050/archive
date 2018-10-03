@@ -50,8 +50,25 @@ project_ids: '3102073'
 title: CITYstage
 uri: /organizations/citystage/
 challenge_url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
+extrapolated_project_ids:
+  - '3102073'
+project_titles_from_extrapolated_project_ids:
+  - The CITYstage Arts Discovery Project
 project_titles:
   - The CITYstage Arts Discovery Project
+project_titles_from_project_ids:
+  - The CITYstage Arts Discovery Project
+original_project_titles:
+  - The CITYstage Arts Discovery Project
+  - The CITYstage Arts Discovery Project
+  - The CITYstage Arts Discovery Project
+  - The CITYstage Arts Discovery Project
+original_project_ids:
+  - '3102073'
+  - '3102073'
+  - '3102073'
+  - '3102073'
+project_titles_flagged: 1
 maker_image_id: '16321'
 maker_image_file_name: 2050_image.jpg
 

@@ -27,5 +27,17 @@ project_ids: '6102193'
 title: Public Health Foundation Enterprises
 uri: /organizations/public-health-foundation-enterprises/
 challenge_url: 'https://challenge.la2050.org/entry/little-by-little-school-readiness-program'
+extrapolated_project_ids:
+  - '6102193'
+project_titles_from_extrapolated_project_ids:
+  - Little by Little School Readiness Program
+project_titles:
+  - Little by Little School Readiness Program
+project_titles_from_project_ids:
+  - Little by Little School Readiness Program
+original_project_titles:
+  - Little by Little School Readiness Program
+original_project_ids:
+  - '6102193'
 
 ---

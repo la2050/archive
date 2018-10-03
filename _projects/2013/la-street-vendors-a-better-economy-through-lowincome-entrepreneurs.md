@@ -325,6 +325,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   entrepreneurs utilizing patterns of urban movement throughout the day aimed at
   meeting the affordability needs of Angelenos.  </p>
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

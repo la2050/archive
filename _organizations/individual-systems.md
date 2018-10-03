@@ -55,8 +55,18 @@ project_ids: '3102062'
 title: Individual Systems
 uri: /organizations/individual-systems/
 challenge_url: 'http://maker.good.is/myla2050/projects/KCARUSO.html'
+extrapolated_project_ids:
+  - '3102062'
+project_titles_from_extrapolated_project_ids:
+  - LOLA the Lifelong Organizational Learning App
 project_titles:
   - LOLA the Lifelong Organizational Learning App
+project_titles_from_project_ids:
+  - LOLA the Lifelong Organizational Learning App
+original_project_titles:
+  - 'LOLA, the Lifelong Organizational Learning App'
+original_project_ids:
+  - '3102062'
 maker_image_id: '16476'
 maker_image_file_name: Apptalk.JPG
 

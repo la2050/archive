@@ -42,6 +42,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102071'
 year_submitted: 2018
+organization_name: Long Beach Downtown Development Corporation
 project_proposal_description: >-
   STIPES is focused on providing the tools needed to develop & launch green
   technology businesses, file patents & other intellectual property protections

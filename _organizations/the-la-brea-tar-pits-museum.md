@@ -27,8 +27,19 @@ project_ids: '4102093'
 title: The La Brea Tar Pits Museum
 uri: /organizations/the-la-brea-tar-pits-museum/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/newdigs.html'
+extrapolated_project_ids:
+  - '4102219'
+project_titles_from_extrapolated_project_ids:
+  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
 project_titles:
   - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
+project_titles_from_project_ids:
+  - The Shed Pasadena
+original_project_titles:
+  - 'Check out our New Digs: The La Brea Tar Pits Improvement Project'
+original_project_ids:
+  - '4102219'
+project_titles_flagged: 1
 youtube_video_identifier: gzqE0ygfM8Y
 
 ---

@@ -205,6 +205,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   schools.  As a result, Los Angeles would be a national and international hub
   of economic growth and trade, entrepreneurship, and innovation.   
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

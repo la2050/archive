@@ -43,6 +43,38 @@ project_ids: '8102097'
 title: ProduceAthon
 uri: /organizations/produceathon/
 challenge_url: 'https://activation.la2050.org/create/produceathon/'
+extrapolated_project_ids:
+  - '8102097'
+  - '6102190'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
+    Change in 72-Hours
+  - >-
+    #StoryTeching: Delivering civic innovation via storytelling & technology
+    based incentive challenges
+project_titles:
+  - >-
+    #StoryTeching: Delivering civic innovation via storytelling & technology
+    based incentive challenges
+  - >-
+    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
+    Change in 72-Hours
+project_titles_from_project_ids:
+  - >-
+    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
+    Change in 72-Hours
+original_project_titles:
+  - >-
+    #StoryTeching: Delivering civic innovation via storytelling & technology
+    based incentive challenges
+  - >-
+    ProduceAthon: When HackAthon Meets Incentive Challenge to Catalyze Social
+    Change in 72-Hours
+original_project_ids:
+  - '6102190'
+  - '8102097'
+project_titles_flagged: 1
 category: create
 
 ---

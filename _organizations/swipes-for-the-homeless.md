@@ -49,10 +49,26 @@ project_ids: '3102241'
 title: Swipes for the Homeless
 uri: /organizations/swipes-for-the-homeless/
 challenge_url: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
+extrapolated_project_ids:
+  - '3102241'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Students Working Together to Combat Homelessness and Reduce Food Waste on
+    Campus
 project_titles:
   - >-
     Students Working Together to Combat Homelessness and Reduce Food Waste on
     Campus
+project_titles_from_project_ids:
+  - >-
+    Students Working Together to Combat Homelessness and Reduce Food Waste on
+    Campus
+original_project_titles:
+  - >-
+    Students Working Together to Combat Homelessness and Reduce Food Waste on
+    Campus
+original_project_ids:
+  - '3102241'
 youtube_video_identifier: h1GATPgLPxQ
 
 ---

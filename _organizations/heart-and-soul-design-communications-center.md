@@ -26,8 +26,18 @@ project_ids: '5102131'
 title: Heart and Soul Design Communications Center
 uri: /organizations/heart-and-soul-design-communications-center/
 challenge_url: 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'
+extrapolated_project_ids:
+  - '5102131'
+project_titles_from_extrapolated_project_ids:
+  - CHIME - Changing Hearts and Images with Multimedia Empowerment
 project_titles:
   - CHIME - Changing Hearts and Images with Multimedia Empowerment
+project_titles_from_project_ids:
+  - CHIME - Changing Hearts and Images with Multimedia Empowerment
+original_project_titles:
+  - CHIME - Changing Hearts and Images with Multimedia Empowerment
+original_project_ids:
+  - '5102131'
 youtube_video_identifier: MIn1VBaIlrQ
 
 ---

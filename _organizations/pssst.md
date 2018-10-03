@@ -24,5 +24,17 @@ project_ids: '6102192'
 title: PSSST
 uri: /organizations/pssst/
 challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
+extrapolated_project_ids:
+  - '6102192'
+project_titles_from_extrapolated_project_ids:
+  - 'PSSST 2017: Artists Supporting Artists'
+project_titles:
+  - 'PSSST 2017: Artists Supporting Artists'
+project_titles_from_project_ids:
+  - 'PSSST 2017: Artists Supporting Artists'
+original_project_titles:
+  - 'PSSST 2017: Artists Supporting Artists  '
+original_project_ids:
+  - '6102192'
 
 ---

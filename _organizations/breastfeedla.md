@@ -31,5 +31,17 @@ title: BreastfeedLA
 uri: /organizations/breastfeedla/
 challenge_url: >-
   https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
+extrapolated_project_ids:
+  - '6102022'
+project_titles_from_extrapolated_project_ids:
+  - Creating a First Food Friendly South Los Angeles
+project_titles:
+  - Creating a First Food Friendly South Los Angeles
+project_titles_from_project_ids:
+  - Creating a First Food Friendly South Los Angeles
+original_project_titles:
+  - Creating a First Food Friendly South Los Angeles
+original_project_ids:
+  - '6102022'
 
 ---

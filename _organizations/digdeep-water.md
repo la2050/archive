@@ -32,5 +32,31 @@ title: DIGDEEP Water
 uri: /organizations/digdeep-water/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water
+extrapolated_project_ids:
+  - '6102060'
+  - '4102054'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
+    Conserve Their Water
+  - The 4Liter Classroom Challenge
+project_titles:
+  - The 4Liter Classroom Challenge
+  - >-
+    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
+    Conserve Their Water
+project_titles_from_project_ids:
+  - >-
+    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
+    Conserve Their Water
+original_project_titles:
+  - The 4Liter Classroom Challenge
+  - >-
+    The 4Liters Pop-Up Experience: Los Angeles Middle Schoolers Learn To Love &
+    Conserve Their Water
+original_project_ids:
+  - '4102054'
+  - '6102060'
+project_titles_flagged: 1
 
 ---

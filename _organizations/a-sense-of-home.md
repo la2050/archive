@@ -35,5 +35,17 @@ title: A Sense of Home
 uri: /organizations/a-sense-of-home/
 challenge_url: >-
   https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
+extrapolated_project_ids:
+  - '6102003'
+project_titles_from_extrapolated_project_ids:
+  - Creating a home is a bridge to creating community
+project_titles:
+  - Creating a home is a bridge to creating community
+project_titles_from_project_ids:
+  - Creating a home is a bridge to creating community
+original_project_titles:
+  - 'Creating a home is a bridge to creating community '
+original_project_ids:
+  - '6102003'
 
 ---

@@ -30,5 +30,17 @@ title: Regents of the University of California
 uri: /organizations/regents-of-the-university-of-california/
 challenge_url: >-
   https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
+extrapolated_project_ids:
+  - '6102195'
+project_titles_from_extrapolated_project_ids:
+  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
+project_titles:
+  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
+project_titles_from_project_ids:
+  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
+original_project_titles:
+  - 'AMP! Virtual: Sexual Health Education for a Digital Generation'
+original_project_ids:
+  - '6102195'
 
 ---

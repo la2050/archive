@@ -72,6 +72,415 @@ project_areas:
   - EAST LA
   - SOUTH LA
   - LA COUNTY
+maker_answers:
+  about_you: 'Los Angeles, CA'
+  org_name: City Year Los Angeles & Partnership for LA Schools
+  org_website: www.cityyear.org/losangeles
+  org_twitter: www.twitter.com/cityyearla & www.twitter.com/partnershipla
+  org_facebook: 'https://www.facebook.com/cityyear & https://www.facebook.com/PartnershipLA'
+  org_instagram: instagram.com/cityyearla
+  org_mailingaddress: "City Year LA: 606 S. Olive Street, 2nd Floor, Los Angeles, CA, 90014\r\nPLAS: 1541 Wilshire Blvd, Suite 200, Los Angeles, CA, 90017"
+  org_ein: '222882549'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    City Year LA and Partnership for LA Schools empower LA’s vulnerable students
+    with a high-quality education to reach their full potential.
+  one_sentence_project: >-
+    City Year LA and Partnership for LA Schools will build on our successful
+    partnership by expanding to Roosevelt HS and Jordan HS.
+  describe_idea: >-
+    Every child can succeed. In #Watts and #BoyleHeights @CityYearLA and
+    @PartnershipLA are teaming up to #makebetterhappen
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: Jordan High School in Watts and Roosevelt High School in Boyle Heights
+  more_detail: >-
+    Every 26 seconds a young person in America gives up on school. The high
+    school dropout crisis is enormous in scope, yet highly concentrated in just
+    a few neighborhoods like Watts and Boyle Heights. City Year LA and
+    Partnership for LA Schools are working together to help at-risk students
+    reach their full potential by expanding our longtime collaboration into two
+    of LA’s most historically challenged high schools, Jordan and Roosevelt.
+    City Year corps members will be deployed to work with 9th grade students,
+    targeting those who are demonstrating risk factors for dropping out,
+    providing more capacity to Partnership staff and school leadership to
+    implement their vision for the schools’ transformation.
+  implement: "As stated above, City Year and Partnership for LA Schools have worked closely together for a number of years. Both organizations serve schools and neighborhoods where students are at the greatest risk for dropping out. Our models complement one another, and expansion to Jordan and Roosevelt is the continuation of a successful partnership at elementary, middle, and other high schools in LA.  \r\n\r\nThe Partnership has been turning around some of the lowest-performing schools in LA since 2008, by partnering with groups like City Year LA and implementing a comprehensive school transformation model. The model includes hiring the best leaders to run schools (Great Leaders), improving quality classroom instruction (Highly Effective Teaching), leveraging technology to provide individualized student support focused on accelerating proficiency in core subjects (College-Ready Students), increasing parent engagement by training families how to advocate for their children’s education (Engaged and Empowered Families), and building a movement among stakeholders toward a common vision for high student achievement and college readiness (Collective Action).\r\n\r\nCity Year’s work is based on ground breaking research from Johns Hopkins University that identified three early warning indicators of students’ likelihood to drop out—poor attendance, negative behavior, and course failure in English and math. Their research found that a sixth grade student with any of these risk factors only has a 20% chance of graduating, absent intervention.  The research also found that if students get to 10th grade on track (without risk factors) and on time, they are four times more likely to graduate.\r\n\r\nAs such, corps members, in teams of 8-10 at each school, will be deployed to the 9th grades at Jordan and Roosevelt to work with the students who are failing or at-risk of failing math and English. Partnering with teachers, corps members will provide targeted tutoring, both one-on-one and in small groups, to ensure students are making progress in those subjects. Along with in-class support, corps members will also support whole school initiatives and lead out-of-class activities to expand and optimize learning time before and after school. \r\n\r\nIn one of the strongest areas of collaboration, City Year teams will integrate with Partnership staff and school leadership to develop or enhance programs and events that engage families, such as literacy and math nights. \r\n"
+  impact_learn: "The recent “Building a Grad Nation” report published by Civic Enterprises, the Everyone Graduates Center, America’s Promise Alliance, and the Alliance for Excellent Education, shows that for the first time in our nation’s history, the high school graduation rate is over 80%--and we are on pace to reach the goal of a 90% graduation rate by 2020. But the report also states that the 90% graduation rate is not possible without more progress in California—home to 20% of the nation’s dropouts. \r\n\r\nWith a graduation rate of 67%, and 11% of all of California’s students enrolled in its schools, the Los Angeles Unified School District’s progress will be a lynchpin for our national success. City Year LA and Partnership for LA Schools are turning around some of our city’s historically most-challenging campuses, where students struggle with academic achievement and the ongoing ramifications of generational poverty and violence. Both organizations are dedicated to making schools safe havens where students can learn and thrive. Combining our enhanced services – parent centers and community health facilities, etc., with additional adults serving as tutors, mentors, and role models – students will have a safety net to help them succeed. \r\n\r\nOur collective efforts promote school-wide cultural norms and standards related to student responsibility, efficacy and interactions between peers, students and adults. When we can change school climates—encouraging trust, respect and support—the impact is profound. Students are interacting positively with adults, and feel a sense of pride and ownership in their school. School pride makes students more likely to work hard in the classroom, reach out to adults for extra support, and become more engaged in activities before, during, and after school, treating their school like the valuable community resource it should be.  \r\n\r\nThis transformation will not just positively impact today’s students, but can ripple out to future generations. If students feel more connected to school and have greater success, they are more likely to graduate. If they graduate from high school, they will earn more than $1MM more in their lifetime than if they drop out. If they drop out, they are three times more likely to be unemployed and eight times more likely to go to jail. This will not only impact their lives, but their children and grandchildren. By breaking the cycle now, we can set up future generations for continued and further success. \r\n"
+  who_benefit: "In LA, approximately 23,000 students dropped out in 2013, one of the highest totals of any city in the country. For a single young adult such a fate can be tragic, but when the near majority of students from entire neighborhoods fail to graduate, the social and economic costs are profound and far reaching. At Jordan High School only 51% of students graduated in 2013, and the 2013 graduation rate at Roosevelt High School was 60%.\r\n\r\nStudents who get back on track to graduate, however, bring widespread benefit to themselves and to their community. For example, every 1,000 new graduates in Los Angeles would collectively earn $15MM in additional earnings and increase the gross regional product by $21MM, in an average year. \r\n\r\nIn addition to the school-wide supports offered by Partnership for LA Schools, City Year LA will directly serve nearly 400 at-risk students in the 2014-2015 school year at Jordan and Roosevelt—providing them with targeted daily intervention to get them back on track to graduate. \r\n\r\nJordan High School is located in Watts, an area that has been historically plagued by high crime, gangs and violence. Jordan serves 640 students, who are an ethnic makeup of 83% Latino and 16% African American, with 26% of students classified as English language learners, 13% special education and 78% economically disadvantaged. Jordan has great improved academically since the Partnership’s involvement in 2011, demonstrated by a 93-point Academic Performance Index (API) jump in 2011-12, showing the highest gains among all LAUSD high school that year. Even with this improvement, the 2012-13 California Standards Test (CST) indicates that only 14% of Jordan students are proficient in English, and 8% proficient in math.\r\n\r\nRoosevelt High School, located in Boyle Heights, is a community hub of this high-poverty neighborhood. Roosevelt serves 2,470 students, who are an ethnic makeup of 99% Latino and 1% African American, with 22% of students classified as English language learners, 14% special education, and 87% economically disadvantaged. While Roosevelt has demonstrated substantial improvements since joining the Partnership in 2008, with English proficiency doubled and math proficiency tripled since the Partnership’s involvement, only 34% of Roosevelt students are proficient in English, and 10% proficient in math.\r\n"
+  collaboration: "Over the last six years, City Year LA and Partnership for LA Schools have worked together to bring additional supports to our city’s most at-risk students. \r\n\r\nBy expanding City Year LA services to Roosevelt and Jordan, corps members will be at 10 out of 16 Partnership schools. When City Year partners with a new school, we look for a strong, positive school culture open to collaboration, committed to putting students first, and a fundamental belief in students’ potential to succeed. Partnership for LA Schools embodies this philosophy by providing students better instruction, safer campuses, enrichment programs & activities, and a rigorous curriculum that offers a platform to realize their full potential.  Partnership for LA Schools greatly values City Year corps members’ added-value by bringing additional individual attention to students that teachers often cannot extend in the course of a school day. \r\n\r\nIn 2013, Partnership for LA Schools recognized City Year as their Community Partner of the Year at its annual Family and Community Engagement Awards. We both deeply believe that our students are more likely to succeed if they attend a Partnership school with City Year corps members in the classroom. Our collaboration runs so deep that we have opted to apply for this grant together, rather than compete against one another. \r\n\r\nIn our past collaboration, we have found these three factors to be critical: 1) strong leadership from both organizations – on the ground level at the schools as well as at the senior level of our organizations; 2) shared values and a deep belief in our students and their potential; and 3) a willingness to leverage partnerships and outside resources to support our students and our work. \r\n"
+  metrics_learn_earlyeducation: '0'
+  metrics_learn_communitycollege: '0'
+  metrics_learn_unemployment: '0'
+  metrics_learn_graduationrates: '1'
+  metrics_learn_proficiency: '1'
+  metrics_learn_api: '1'
+  metrics_learn_college: '0'
+  metrics_learn_pipeline: '0'
+  metrics_learn_suspension: '1'
+  metrics_learn_truancy: '0'
+  metrics_learn_safety: '0'
+  metrics_learn_other: '0'
+  metrics_learn_blank: ''
+  impact_metrics: "City Year LA and the Partnership both have set organizational goals that align directly to many of the LA2050 \"LEARN\" metrics.  As mentioned above, we are both working tirelessly towards improving educational outcomes for students in our city.  While targeting two schools in LAUSD that have lower-than-average graduation rates, we know that if we can improve the performance of the students and increase the number of students graduating from Roosevelt and Jordan, we can move the needle on the graduation rates in our district.  \r\n\r\nPrevious CYLA-PLAS partnerships have seen great results towards the above metrics, including at Mendez High School in Boyle Heights. During the first year City Year LA served at the Partnership’s Mendez High School, the school had the highest one-year gain on the Academic Performance Index in the entire state of California among traditional large schools.  \r\n\r\nWhile our partnership together aims to improve the whole school, we focus much of our time on improving the performance of students in English/Language Arts and Math--two subjects research says are critical to a student graduating high school.  Working towards this, City Year corps member provides structured academic support throughout the day to a targeted group of students who are off track in math or English.  In meeting with Partnership for LA Schools teachers biweekly, corps members are able to align the content of their tutoring with the current lessons being implemented in the classroom.\r\n"
+  best_place_to_connect: '0'
+  best_place_to_create: '0'
+  best_place_to_play: '0'
+  healthiest_place_to_live: '0'
+  evaluate: "Part of the strength of our collaboration is that both of our organizations greatly value a data-driven approach to our work and a strong sense of accountability. City Year LA focuses its measurement on the subset of students it serves, while the Partnership tracks data for all 15,000 students in its network, looking at individual, grade-level and overall gains. Our outcomes are linked – if the lowest-performing population shows increases, it will elevate the entire school’s performance and improve the Partnership network results. As the Los Angeles Unified School District is transitioning to Common Core Standards, some student level testing has been suspended for the coming year. To measure student performance in the absence of standardized tests, City Year will implement the Scholastic Inventories with the students it serves to track their academic outcomes, while the Partnership will use performance growth data from benchmark exams in math and literacy. \r\n\r\nThe following are some of City Year LA’s proposed outcomes:\r\n•\tDeploy 18 corps members to Jordan High School in Watts and Roosevelt High School in Boyle Heights\r\n•\tProvide individualized interventions to 170 students and extended learning time through City Year after-school programs to 200 students\r\n•\tMove 50% of students from an English Language Arts/Math course grade of “D” or lower to a “C” or higher, or maintain/improve an existing “C”\r\n\r\nThe following are a few key outcomes the Partnership for Los Angeles Schools plans to measure:\r\n•\tIncrease graduation rates at Jordan High School and Roosevelt High School at least 3% annually\r\n•\tIncrease growth in first-time California High School Exit Exam (CAHSEE) pass rates, required by California for students to graduate, by at least 3% annually\r\n•\tJordan and Roosevelt will outperform comparable LAUSD schools in terms of improvement on graduation rates and CAHSEE first-time pass rates\r\n•\tIncrease number of Jordan and Roosevelt students passing algebra, geometry and English with a grade of “C” or better by at least 5% annually\r\n•\tIncrease number of Jordan and Roosevelt students on track to graduate in each grade level by 3% annually\r\n•\tAt least 10% reduction in suspensions and absenteeism (as measured by attendance rates)"
+  two_lessons: "One major lesson that has informed both of our organizations is that the status quo is not enough for students coming from high poverty communities. The schools where we serve have struggled for decades and generations of students have been lost. We know that even a great teacher and lesson each day is not sufficient to overcome the challenges associated with poverty and violence, especially when the majority of the class may need additional attention for a variety of reasons. Students need comprehensive support to help get them to grade level; attend school regularly when they may be responsible for siblings or older family members; become proficient in English; learn about college and the associated benefits; and more. The combined resources of our two organizations help students get the additional support they need so they can focus on that great lesson, and have the skills and tools to advance in school. \r\n\r\nResearch shows that 10% of schools produce over 50% of the dropouts, which means that only a subset of schools in LA need the in-depth services we provide.  Given this, we can be highly strategic about where we invest resources to have a disproportionate impact on LA’s educational attainment by selecting the schools that need us most and deploying corps members and wraparound services accordingly. Additionally, we serve at all levels on the education continuum- elementary, middle, and high schools, and in some cases in schools that feed into each other. For both Jordan and Roosevelt, City Year LA and Partnership for LA Schools serve the primary middle schools – Markham, Gompers, Stevenson, and Hollenbeck – that feed into them. This means that students will be better equipped to succeed in high school because of the benefits they have received in earlier grades.\r\n \r\n"
+  achievable_goal: "City Year LA and Partnership for LA Schools have already agreed on the deployment of City Year corps members at Jordan and Roosevelt High Schools over the next 12 months.  Meetings between City Year LA’s program leadership and the schools’ administration have been going on for several months and conditions for success and program goals have already been determined. Thanks to the efforts of its Recruitment and Admissions team, City Year LA has already recruited and begun training the AmeriCorps members who will be serving at the two schools starting on the first LAUSD instructional day. \r\n\r\nAs natural collaboration partners in the school-turnaround space, City Year LA and Partnership for LA Schools both understand what it takes to make a partnership work, as is evident from our continued work together at eight Partnership schools. Both organizations have strong fundraising apparatuses and receive a significant portion of our budgets from government sources. To strengthen our collaboration we are working together on joint fundraising opportunities (such as this one) to tell the story of our combined impact. \r\n"
+  major_challenges: "The upcoming school year will be a challenging year for schools and educators across the country as the new Smarter Balanced Common Core assessment is implemented. We have already taken steps to prepare for the new assessment and the potential shift in teaching and learning that will occur. Additionally, the new standardized tests will only begin to set a benchmark for schools as they implement it in consecutive years, and will not provide useful data for assessing students this current school year. To account for this transitional period, City Year will be assessing the students it serves through its Scholastic Reading and Math Inventories system. Both of these tests are computer-based and give students an early chance to adjust to that computer-based testing that will soon be required in schools. The tests also gather data in real time, allowing staff to supply corps members with the content and coaching they need to inform their interventions, and be more deliberate with their in-class service.  This data is also useful to teachers and school administrators as they assess how students are progressing.\r\n\r\nIn order for City Year LA to be successful at Jordan and Roosevelt, it requires certain conditions for success, which include: sufficient time in the school schedule for tutoring; a willingness to share student-level data; time dedicated for administrators to meet regularly with City Year corps members and leadership; and more. When starting at a new partner school, it often takes time for the school teachers and administration to buy into the work our corps members are doing. However, as mentioned above, City Year LA already has a strong history of building partnerships quickly and effectively at Partnership schools, and both Jordan and Roosevelt have expressed great interest in bringing City Year’s services to their campuses. Our history of collaboration as well as the familiarity of our program within their feeder schools should make both Roosevelt and Jordan excellent first year schools for City Year.\r\n"
+  competition: "While there are many excellent organizations working in education, we believe each of our programs has unique strengths. We also contend that the depth of our partnership and collaboration is extremely unique in the education space, which has a history of competition and contention. \r\n\r\nPartnership for LA Schools is the only organization in Los Angeles with a track record of turning around the lowest-performing schools at scale and driving policy and programmatic changes that impact all students in LAUSD. While charter schools have shown progress toward increasing student achievement, few of their methods have proven scalable to-date, and not within the constraints of the current education system. The Partnership’s model offers another option for transforming schools that takes the benefits of charter schools and applies them in a way that is scalable to LAUSD. Partnership schools work with existing staff under labor contracts and serve all students within existing attendance boundaries. Because the Partnership team works side-by-side with LAUSD, quality practices developed in our schools can be shared with and eventually adopted by other District schools, and because Partnership schools are LAUSD schools and operate under the same District constraints, we can identify and remove barriers to success for our schools and others across LAUSD and the State.\r\n\r\nCity Year also fills a unique void due to the comprehensive package of supports we provide for the most at-risk students. Teams of corps members work from 7:30am-6:00pm to provide individualized tutoring, after-school and extracurricular programs, and positive school climate initiatives to turn around the early warning indicators for the students that need it most. We are also unique in the strong partnerships we build with teachers who report feeling more supported and able to differentiate instruction because of the corps members’ consistent presence in their classroom. There are strong after-school programs and other student support organizations, but none that are fully integrated into the school day and classroom like City Year. Corps members are uniquely positioned to help students with their homework since they witnessed the lessons taught that day and can provide different perspective and support to students. \r\n\r\nAgain, the depth of this particular partnership is unique and we are able to leverage our individual strengths, assets, and resources to better support students across Los Angeles.\r\n"
+  cost: "The total cost of our proposed program together is $699,319.  Both City Year Los Angeles and the Partnership for LA Schools have sustained a strong growth and successful implementation of service through a diverse portfolio of funding and strong board leadership. \r\n\r\nThe Partnership for LA Schools will be using the funding to cover part of the cost of their Senior Director of School Transformation, who oversees all operations for their high schools.  PLAS has a strong board and diverse group of foundation, individual, and corporate funders who have helped sustain their program over the years.\r\n\r\nCity Year Los Angeles, as an AmeriCorps program, receives approximately one third of our annual budget the government, both federal and state.  Additionally, as a close partner of the Los Angeles Unified School District, we receive support from our school partners.  Superintendent John Deasy and the Principals at each of our schools have championed our ongoing partnership, and their support is indicative of the entire community. These discretionary funding decisions are governed by School Site Councils comprised of teachers, parents, and employees—an investment such as this, of scarce resources from such a diverse body of school stakeholders, reaffirms the value and responsibility that we have to the communities we serve.  The remainder of City Year's funds are raised privately in the community.  We are grateful for the lead support of our co-founders, the Goldhirsh Foundation and the Hauptman Family Foundation, as well as the support of many other leading corporations, foundations, and individuals.\r\n\r\n"
+  budget: "PLAS: $50,000 towards the salary and benefits of their Senior Director of School Transformation.\r\n\r\nCity Year: \r\nStaff Salaries & Benefits\r\nStaff Salaries- $12,414\r\nStaff Benefits- $2,760\r\nTotal Staff Salaries & Benefits- $15,174 \r\n\r\nCorps Stipends & Benefits\r\nCM Stipends- $21,848\r\nCM Benefits- $3,673\r\nTotal Corps Stipends & Benefits- $25,521 \r\n\r\nOther Non-Personnel Expenses \r\nConsulting & Professional Services- $2,193 \r\nTransportation & Travel- $920 \r\nConferences & Training- $86 \r\nAdvertising & Recruiting- $341 \r\nPromotional / Appreciation- $250 \r\nProgram & Office Supplies- $1,583 \r\nInformation Technology- $343 \r\nTelecommunications- $323 \r\nDues & Fees- $19 \r\nInsurance- $95 \r\nOccupancy- $1,485 \r\nEvent Venue Expense- $1,665 \r\nDepreciation/Amortization \r\nTotal Other Non-Personnel Expenses- $9,305\r\n\r\nSubtotal Operating Expenses- $50,000 \r\n\r\nTotal Operating Expenses- $50,000 \r\n"
+  resources_money: '1'
+  resources_staff: '0'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '0'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: about_you
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: City Year Los Angeles & Partnership for LA Schools
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: www.cityyear.org/losangeles
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/cityyearla & www.twitter.com/partnershipla
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/cityyear & https://www.facebook.com/PartnershipLA'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: instagram.com/cityyearla
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "City Year LA: 606 S. Olive Street, 2nd Floor, Los Angeles, CA, 90014\r\nPLAS: 1541 Wilshire Blvd, Suite 200, Los Angeles, CA, 90017"
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '222882549'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      City Year LA and Partnership for LA Schools empower LA’s vulnerable
+      students with a high-quality education to reach their full potential.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      City Year LA and Partnership for LA Schools will build on our successful
+      partnership by expanding to Roosevelt HS and Jordan HS.
+  - name: describe_idea
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      Every child can succeed. In #Watts and #BoyleHeights @CityYearLA and
+      @PartnershipLA are teaming up to #makebetterhappen
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Jordan High School in Watts and Roosevelt High School in Boyle Heights
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Every 26 seconds a young person in America gives up on school. The high
+      school dropout crisis is enormous in scope, yet highly concentrated in
+      just a few neighborhoods like Watts and Boyle Heights. City Year LA and
+      Partnership for LA Schools are working together to help at-risk students
+      reach their full potential by expanding our longtime collaboration into
+      two of LA’s most historically challenged high schools, Jordan and
+      Roosevelt. City Year corps members will be deployed to work with 9th grade
+      students, targeting those who are demonstrating risk factors for dropping
+      out, providing more capacity to Partnership staff and school leadership to
+      implement their vision for the schools’ transformation.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "As stated above, City Year and Partnership for LA Schools have worked closely together for a number of years. Both organizations serve schools and neighborhoods where students are at the greatest risk for dropping out. Our models complement one another, and expansion to Jordan and Roosevelt is the continuation of a successful partnership at elementary, middle, and other high schools in LA.  \r\n\r\nThe Partnership has been turning around some of the lowest-performing schools in LA since 2008, by partnering with groups like City Year LA and implementing a comprehensive school transformation model. The model includes hiring the best leaders to run schools (Great Leaders), improving quality classroom instruction (Highly Effective Teaching), leveraging technology to provide individualized student support focused on accelerating proficiency in core subjects (College-Ready Students), increasing parent engagement by training families how to advocate for their children’s education (Engaged and Empowered Families), and building a movement among stakeholders toward a common vision for high student achievement and college readiness (Collective Action).\r\n\r\nCity Year’s work is based on ground breaking research from Johns Hopkins University that identified three early warning indicators of students’ likelihood to drop out—poor attendance, negative behavior, and course failure in English and math. Their research found that a sixth grade student with any of these risk factors only has a 20% chance of graduating, absent intervention.  The research also found that if students get to 10th grade on track (without risk factors) and on time, they are four times more likely to graduate.\r\n\r\nAs such, corps members, in teams of 8-10 at each school, will be deployed to the 9th grades at Jordan and Roosevelt to work with the students who are failing or at-risk of failing math and English. Partnering with teachers, corps members will provide targeted tutoring, both one-on-one and in small groups, to ensure students are making progress in those subjects. Along with in-class support, corps members will also support whole school initiatives and lead out-of-class activities to expand and optimize learning time before and after school. \r\n\r\nIn one of the strongest areas of collaboration, City Year teams will integrate with Partnership staff and school leadership to develop or enhance programs and events that engage families, such as literacy and math nights. \r\n"
+  - name: impact_learn
+    label: ''
+    explanation: ''
+    answer: "The recent “Building a Grad Nation” report published by Civic Enterprises, the Everyone Graduates Center, America’s Promise Alliance, and the Alliance for Excellent Education, shows that for the first time in our nation’s history, the high school graduation rate is over 80%--and we are on pace to reach the goal of a 90% graduation rate by 2020. But the report also states that the 90% graduation rate is not possible without more progress in California—home to 20% of the nation’s dropouts. \r\n\r\nWith a graduation rate of 67%, and 11% of all of California’s students enrolled in its schools, the Los Angeles Unified School District’s progress will be a lynchpin for our national success. City Year LA and Partnership for LA Schools are turning around some of our city’s historically most-challenging campuses, where students struggle with academic achievement and the ongoing ramifications of generational poverty and violence. Both organizations are dedicated to making schools safe havens where students can learn and thrive. Combining our enhanced services – parent centers and community health facilities, etc., with additional adults serving as tutors, mentors, and role models – students will have a safety net to help them succeed. \r\n\r\nOur collective efforts promote school-wide cultural norms and standards related to student responsibility, efficacy and interactions between peers, students and adults. When we can change school climates—encouraging trust, respect and support—the impact is profound. Students are interacting positively with adults, and feel a sense of pride and ownership in their school. School pride makes students more likely to work hard in the classroom, reach out to adults for extra support, and become more engaged in activities before, during, and after school, treating their school like the valuable community resource it should be.  \r\n\r\nThis transformation will not just positively impact today’s students, but can ripple out to future generations. If students feel more connected to school and have greater success, they are more likely to graduate. If they graduate from high school, they will earn more than $1MM more in their lifetime than if they drop out. If they drop out, they are three times more likely to be unemployed and eight times more likely to go to jail. This will not only impact their lives, but their children and grandchildren. By breaking the cycle now, we can set up future generations for continued and further success. \r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "In LA, approximately 23,000 students dropped out in 2013, one of the highest totals of any city in the country. For a single young adult such a fate can be tragic, but when the near majority of students from entire neighborhoods fail to graduate, the social and economic costs are profound and far reaching. At Jordan High School only 51% of students graduated in 2013, and the 2013 graduation rate at Roosevelt High School was 60%.\r\n\r\nStudents who get back on track to graduate, however, bring widespread benefit to themselves and to their community. For example, every 1,000 new graduates in Los Angeles would collectively earn $15MM in additional earnings and increase the gross regional product by $21MM, in an average year. \r\n\r\nIn addition to the school-wide supports offered by Partnership for LA Schools, City Year LA will directly serve nearly 400 at-risk students in the 2014-2015 school year at Jordan and Roosevelt—providing them with targeted daily intervention to get them back on track to graduate. \r\n\r\nJordan High School is located in Watts, an area that has been historically plagued by high crime, gangs and violence. Jordan serves 640 students, who are an ethnic makeup of 83% Latino and 16% African American, with 26% of students classified as English language learners, 13% special education and 78% economically disadvantaged. Jordan has great improved academically since the Partnership’s involvement in 2011, demonstrated by a 93-point Academic Performance Index (API) jump in 2011-12, showing the highest gains among all LAUSD high school that year. Even with this improvement, the 2012-13 California Standards Test (CST) indicates that only 14% of Jordan students are proficient in English, and 8% proficient in math.\r\n\r\nRoosevelt High School, located in Boyle Heights, is a community hub of this high-poverty neighborhood. Roosevelt serves 2,470 students, who are an ethnic makeup of 99% Latino and 1% African American, with 22% of students classified as English language learners, 14% special education, and 87% economically disadvantaged. While Roosevelt has demonstrated substantial improvements since joining the Partnership in 2008, with English proficiency doubled and math proficiency tripled since the Partnership’s involvement, only 34% of Roosevelt students are proficient in English, and 10% proficient in math.\r\n"
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Over the last six years, City Year LA and Partnership for LA Schools have worked together to bring additional supports to our city’s most at-risk students. \r\n\r\nBy expanding City Year LA services to Roosevelt and Jordan, corps members will be at 10 out of 16 Partnership schools. When City Year partners with a new school, we look for a strong, positive school culture open to collaboration, committed to putting students first, and a fundamental belief in students’ potential to succeed. Partnership for LA Schools embodies this philosophy by providing students better instruction, safer campuses, enrichment programs & activities, and a rigorous curriculum that offers a platform to realize their full potential.  Partnership for LA Schools greatly values City Year corps members’ added-value by bringing additional individual attention to students that teachers often cannot extend in the course of a school day. \r\n\r\nIn 2013, Partnership for LA Schools recognized City Year as their Community Partner of the Year at its annual Family and Community Engagement Awards. We both deeply believe that our students are more likely to succeed if they attend a Partnership school with City Year corps members in the classroom. Our collaboration runs so deep that we have opted to apply for this grant together, rather than compete against one another. \r\n\r\nIn our past collaboration, we have found these three factors to be critical: 1) strong leadership from both organizations – on the ground level at the schools as well as at the senior level of our organizations; 2) shared values and a deep belief in our students and their potential; and 3) a willingness to leverage partnerships and outside resources to support our students and our work. \r\n"
+  - name: metrics_learn_earlyeducation
+    label: Percentage of children enrolled in early education programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_communitycollege
+    label: >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_unemployment
+    label: Youth unemployment and underemployment
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_graduationrates
+    label: District-wide graduation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_proficiency
+    label: HS student proficiency in English & Language Arts and Math
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_api
+    label: Academic Performance Index scores
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_college
+    label: College matriculation rates
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_pipeline
+    label: >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_suspension
+    label: Suspension and expulsion rates (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_truancy
+    label: Truancy rates in elementary and middle school (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_safety
+    label: >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "City Year LA and the Partnership both have set organizational goals that align directly to many of the LA2050 \"LEARN\" metrics.  As mentioned above, we are both working tirelessly towards improving educational outcomes for students in our city.  While targeting two schools in LAUSD that have lower-than-average graduation rates, we know that if we can improve the performance of the students and increase the number of students graduating from Roosevelt and Jordan, we can move the needle on the graduation rates in our district.  \r\n\r\nPrevious CYLA-PLAS partnerships have seen great results towards the above metrics, including at Mendez High School in Boyle Heights. During the first year City Year LA served at the Partnership’s Mendez High School, the school had the highest one-year gain on the Academic Performance Index in the entire state of California among traditional large schools.  \r\n\r\nWhile our partnership together aims to improve the whole school, we focus much of our time on improving the performance of students in English/Language Arts and Math--two subjects research says are critical to a student graduating high school.  Working towards this, City Year corps member provides structured academic support throughout the day to a targeted group of students who are off track in math or English.  In meeting with Partnership for LA Schools teachers biweekly, corps members are able to align the content of their tutoring with the current lessons being implemented in the classroom.\r\n"
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "Part of the strength of our collaboration is that both of our organizations greatly value a data-driven approach to our work and a strong sense of accountability. City Year LA focuses its measurement on the subset of students it serves, while the Partnership tracks data for all 15,000 students in its network, looking at individual, grade-level and overall gains. Our outcomes are linked – if the lowest-performing population shows increases, it will elevate the entire school’s performance and improve the Partnership network results. As the Los Angeles Unified School District is transitioning to Common Core Standards, some student level testing has been suspended for the coming year. To measure student performance in the absence of standardized tests, City Year will implement the Scholastic Inventories with the students it serves to track their academic outcomes, while the Partnership will use performance growth data from benchmark exams in math and literacy. \r\n\r\nThe following are some of City Year LA’s proposed outcomes:\r\n•\tDeploy 18 corps members to Jordan High School in Watts and Roosevelt High School in Boyle Heights\r\n•\tProvide individualized interventions to 170 students and extended learning time through City Year after-school programs to 200 students\r\n•\tMove 50% of students from an English Language Arts/Math course grade of “D” or lower to a “C” or higher, or maintain/improve an existing “C”\r\n\r\nThe following are a few key outcomes the Partnership for Los Angeles Schools plans to measure:\r\n•\tIncrease graduation rates at Jordan High School and Roosevelt High School at least 3% annually\r\n•\tIncrease growth in first-time California High School Exit Exam (CAHSEE) pass rates, required by California for students to graduate, by at least 3% annually\r\n•\tJordan and Roosevelt will outperform comparable LAUSD schools in terms of improvement on graduation rates and CAHSEE first-time pass rates\r\n•\tIncrease number of Jordan and Roosevelt students passing algebra, geometry and English with a grade of “C” or better by at least 5% annually\r\n•\tIncrease number of Jordan and Roosevelt students on track to graduate in each grade level by 3% annually\r\n•\tAt least 10% reduction in suspensions and absenteeism (as measured by attendance rates)"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "One major lesson that has informed both of our organizations is that the status quo is not enough for students coming from high poverty communities. The schools where we serve have struggled for decades and generations of students have been lost. We know that even a great teacher and lesson each day is not sufficient to overcome the challenges associated with poverty and violence, especially when the majority of the class may need additional attention for a variety of reasons. Students need comprehensive support to help get them to grade level; attend school regularly when they may be responsible for siblings or older family members; become proficient in English; learn about college and the associated benefits; and more. The combined resources of our two organizations help students get the additional support they need so they can focus on that great lesson, and have the skills and tools to advance in school. \r\n\r\nResearch shows that 10% of schools produce over 50% of the dropouts, which means that only a subset of schools in LA need the in-depth services we provide.  Given this, we can be highly strategic about where we invest resources to have a disproportionate impact on LA’s educational attainment by selecting the schools that need us most and deploying corps members and wraparound services accordingly. Additionally, we serve at all levels on the education continuum- elementary, middle, and high schools, and in some cases in schools that feed into each other. For both Jordan and Roosevelt, City Year LA and Partnership for LA Schools serve the primary middle schools – Markham, Gompers, Stevenson, and Hollenbeck – that feed into them. This means that students will be better equipped to succeed in high school because of the benefits they have received in earlier grades.\r\n \r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "City Year LA and Partnership for LA Schools have already agreed on the deployment of City Year corps members at Jordan and Roosevelt High Schools over the next 12 months.  Meetings between City Year LA’s program leadership and the schools’ administration have been going on for several months and conditions for success and program goals have already been determined. Thanks to the efforts of its Recruitment and Admissions team, City Year LA has already recruited and begun training the AmeriCorps members who will be serving at the two schools starting on the first LAUSD instructional day. \r\n\r\nAs natural collaboration partners in the school-turnaround space, City Year LA and Partnership for LA Schools both understand what it takes to make a partnership work, as is evident from our continued work together at eight Partnership schools. Both organizations have strong fundraising apparatuses and receive a significant portion of our budgets from government sources. To strengthen our collaboration we are working together on joint fundraising opportunities (such as this one) to tell the story of our combined impact. \r\n"
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "The upcoming school year will be a challenging year for schools and educators across the country as the new Smarter Balanced Common Core assessment is implemented. We have already taken steps to prepare for the new assessment and the potential shift in teaching and learning that will occur. Additionally, the new standardized tests will only begin to set a benchmark for schools as they implement it in consecutive years, and will not provide useful data for assessing students this current school year. To account for this transitional period, City Year will be assessing the students it serves through its Scholastic Reading and Math Inventories system. Both of these tests are computer-based and give students an early chance to adjust to that computer-based testing that will soon be required in schools. The tests also gather data in real time, allowing staff to supply corps members with the content and coaching they need to inform their interventions, and be more deliberate with their in-class service.  This data is also useful to teachers and school administrators as they assess how students are progressing.\r\n\r\nIn order for City Year LA to be successful at Jordan and Roosevelt, it requires certain conditions for success, which include: sufficient time in the school schedule for tutoring; a willingness to share student-level data; time dedicated for administrators to meet regularly with City Year corps members and leadership; and more. When starting at a new partner school, it often takes time for the school teachers and administration to buy into the work our corps members are doing. However, as mentioned above, City Year LA already has a strong history of building partnerships quickly and effectively at Partnership schools, and both Jordan and Roosevelt have expressed great interest in bringing City Year’s services to their campuses. Our history of collaboration as well as the familiarity of our program within their feeder schools should make both Roosevelt and Jordan excellent first year schools for City Year.\r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "While there are many excellent organizations working in education, we believe each of our programs has unique strengths. We also contend that the depth of our partnership and collaboration is extremely unique in the education space, which has a history of competition and contention. \r\n\r\nPartnership for LA Schools is the only organization in Los Angeles with a track record of turning around the lowest-performing schools at scale and driving policy and programmatic changes that impact all students in LAUSD. While charter schools have shown progress toward increasing student achievement, few of their methods have proven scalable to-date, and not within the constraints of the current education system. The Partnership’s model offers another option for transforming schools that takes the benefits of charter schools and applies them in a way that is scalable to LAUSD. Partnership schools work with existing staff under labor contracts and serve all students within existing attendance boundaries. Because the Partnership team works side-by-side with LAUSD, quality practices developed in our schools can be shared with and eventually adopted by other District schools, and because Partnership schools are LAUSD schools and operate under the same District constraints, we can identify and remove barriers to success for our schools and others across LAUSD and the State.\r\n\r\nCity Year also fills a unique void due to the comprehensive package of supports we provide for the most at-risk students. Teams of corps members work from 7:30am-6:00pm to provide individualized tutoring, after-school and extracurricular programs, and positive school climate initiatives to turn around the early warning indicators for the students that need it most. We are also unique in the strong partnerships we build with teachers who report feeling more supported and able to differentiate instruction because of the corps members’ consistent presence in their classroom. There are strong after-school programs and other student support organizations, but none that are fully integrated into the school day and classroom like City Year. Corps members are uniquely positioned to help students with their homework since they witnessed the lessons taught that day and can provide different perspective and support to students. \r\n\r\nAgain, the depth of this particular partnership is unique and we are able to leverage our individual strengths, assets, and resources to better support students across Los Angeles.\r\n"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "The total cost of our proposed program together is $699,319.  Both City Year Los Angeles and the Partnership for LA Schools have sustained a strong growth and successful implementation of service through a diverse portfolio of funding and strong board leadership. \r\n\r\nThe Partnership for LA Schools will be using the funding to cover part of the cost of their Senior Director of School Transformation, who oversees all operations for their high schools.  PLAS has a strong board and diverse group of foundation, individual, and corporate funders who have helped sustain their program over the years.\r\n\r\nCity Year Los Angeles, as an AmeriCorps program, receives approximately one third of our annual budget the government, both federal and state.  Additionally, as a close partner of the Los Angeles Unified School District, we receive support from our school partners.  Superintendent John Deasy and the Principals at each of our schools have championed our ongoing partnership, and their support is indicative of the entire community. These discretionary funding decisions are governed by School Site Councils comprised of teachers, parents, and employees—an investment such as this, of scarce resources from such a diverse body of school stakeholders, reaffirms the value and responsibility that we have to the communities we serve.  The remainder of City Year's funds are raised privately in the community.  We are grateful for the lead support of our co-founders, the Goldhirsh Foundation and the Hauptman Family Foundation, as well as the support of many other leading corporations, foundations, and individuals.\r\n\r\n"
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "PLAS: $50,000 towards the salary and benefits of their Senior Director of School Transformation.\r\n\r\nCity Year: \r\nStaff Salaries & Benefits\r\nStaff Salaries- $12,414\r\nStaff Benefits- $2,760\r\nTotal Staff Salaries & Benefits- $15,174 \r\n\r\nCorps Stipends & Benefits\r\nCM Stipends- $21,848\r\nCM Benefits- $3,673\r\nTotal Corps Stipends & Benefits- $25,521 \r\n\r\nOther Non-Personnel Expenses \r\nConsulting & Professional Services- $2,193 \r\nTransportation & Travel- $920 \r\nConferences & Training- $86 \r\nAdvertising & Recruiting- $341 \r\nPromotional / Appreciation- $250 \r\nProgram & Office Supplies- $1,583 \r\nInformation Technology- $343 \r\nTelecommunications- $323 \r\nDues & Fees- $19 \r\nInsurance- $95 \r\nOccupancy- $1,485 \r\nEvent Venue Expense- $1,665 \r\nDepreciation/Amortization \r\nTotal Other Non-Personnel Expenses- $9,305\r\n\r\nSubtotal Operating Expenses- $50,000 \r\n\r\nTotal Operating Expenses- $50,000 \r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '0'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '0'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: blueberry
 
 ---

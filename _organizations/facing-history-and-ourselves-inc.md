@@ -26,11 +26,23 @@ project_ids: '5102097'
 title: 'Facing History and Ourselves, Inc.'
 uri: /organizations/facing-history-and-ourselves-inc/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
-project_titles:
+extrapolated_project_ids:
+  - '5102097'
+project_titles_from_extrapolated_project_ids:
   - Facing History and Ourselves Partnership School Network
+project_titles:
   - >-
     Creating Safe Engaged Schools: Facing History and Ourselves Los Angeles
     Expansion
+  - Facing History and Ourselves Partnership School Network
+project_titles_from_project_ids:
+  - Facing History and Ourselves Partnership School Network
+original_project_titles:
+  - Facing History and Ourselves Partnership School Network
+  - Facing History's Partnership Schools Network
+original_project_ids:
+  - '5102097'
+project_titles_flagged: 1
 youtube_video_identifier: 2EbK6sblpo0
 
 ---

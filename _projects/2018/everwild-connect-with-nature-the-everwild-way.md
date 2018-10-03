@@ -3,7 +3,7 @@ project_id: '8102038'
 project_id_2: '8102038'
 title: EverWild - Connect with Nature the EverWild Way
 project_summary: >-
-  Get to know LA in a whole new way!  Explore local nature through hands-on
+  Get to know LA in a whole new way! Explore local nature through hands-on
   learning, child-led exploration, and foster environmental stewardship with the
   entire family!
 Please describe the activation your organization seeks to launch.: >-
@@ -43,6 +43,7 @@ project_image: 'https://activation.la2050.org/assets/images/play/2048-wide/everw
 project_video: 'https://vimeo.com/262456324'
 project_id_3: '8102038'
 year_submitted: 2018
+organization_name: EverWild
 project_proposal_description: >-
   EverWild will provide 200 youth and families with hands-on opportunities to
   become exposed to and engaged with nature in a meaningful way. The

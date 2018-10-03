@@ -31,5 +31,25 @@ title: Nation of Vibration
 uri: /organizations/nation-of-vibration/
 challenge_url: >-
   https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
+extrapolated_project_ids:
+  - '6102209'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
+    to Communities Across L.A
+project_titles:
+  - >-
+    Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
+    to Communities Across L.A
+project_titles_from_project_ids:
+  - >-
+    Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
+    to Communities Across L.A
+original_project_titles:
+  - >-
+    Nation of Vibration’s L.A.vation Project: Bringing Healing, and Connection
+    to Communities Across L.A
+original_project_ids:
+  - '6102209'
 
 ---

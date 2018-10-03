@@ -39,6 +39,22 @@ project_ids: '8102081'
 title: Mayor’s Fund for Los Angeles
 uri: /organizations/mayors-fund-for-los-angeles/
 challenge_url: 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
+    change.
+project_titles_from_project_ids:
+  - >-
+    VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
+    change.
+original_project_titles:
+  - >-
+    VolunteerLA will mobilize Angelenos to volunteer and create long-lasting
+    change.
+original_project_ids:
+  - '8102081'
 category: connect
 
 ---

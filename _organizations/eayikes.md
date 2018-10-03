@@ -13,7 +13,7 @@ tags_indicators:
   - Volunteerism
   - Health
   - Social connectedness
-twitter: 0
+twitter: ''
 instagram: '@eayikes'
 facebook: facebook.com/eayikes
 org_type: Nonprofit
@@ -30,6 +30,20 @@ project_ids: '8102036'
 title: Eayikes
 uri: /organizations/eayikes/
 challenge_url: 'https://activation.la2050.org/connect/eayikes/'
+extrapolated_project_ids:
+  - '8102036'
+project_titles_from_extrapolated_project_ids:
+  - 'Back to Basics: Transforming How Angelenos Connect'
+project_titles:
+  - 'Back to Basics: Transforming How Angelenos Connect'
+project_titles_from_project_ids:
+  - 'Back to Basics: Transforming How Angelenos Connect'
+original_project_titles:
+  - 'Back to Basics: Transforming How Angelenos Connect'
+  - Youth Building and Empowerment!
+original_project_ids:
+  - '8102036'
+project_titles_flagged: 1
 category: connect
 
 ---

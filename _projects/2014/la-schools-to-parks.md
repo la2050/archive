@@ -2,8 +2,8 @@
 project_id: '4102265'
 title: LA Schools to Parks
 project_summary: >-
-  LA Schools to Parks will open up schools as parks on weekends and in summer so
-  children are in walking distance of a place to play!
+  We wanna make #LA the best place to PLAY! Let's get ALL kids walking to parks
+  by opening schools on wknds & #summer! #LA2050 
 category: play
 organization_id: '2018140'
 year_submitted: 2014
@@ -80,6 +80,436 @@ youtube_video_identifier: AmMHBgCHQsY
 project_areas:
   - CENTRAL LA
   - LA COUNTY
+maker_answers:
+  name: LA Schools to Parks
+  handle: LASchoolstoParks
+  Email: hfukunaga@ypiusa.org
+  PhoneNumber: 520-979-2613
+  City_State: 'Los Angeles, CA'
+  org_name: Youth Policy Institute
+  org_website: www.ypiusa.org
+  org_twitter: ''
+  org_facebook: ''
+  org_instagram: ''
+  org_mailingaddress: "634 South Spring Street 10th Floor\r\nLos Angeles, CA 90014"
+  org_ein: '521278339'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    YPI provides education, training, and community support services for
+    families.
+  one_sentence_org: >-
+    LA Schools to Parks aims to create safe and vibrant play spaces for
+    Angelinos in the LA Promise Zone by transforming schools to parks.
+  describe_idea: >-
+    We wanna make #LA the best place to PLAY! Let's get ALL kids walking to
+    parks by opening schools on wknds & #summer! #LA2050 
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "LA-based nonprofit agency Youth Policy Institute (YPI) will create safe and vibrant play spaces for Angelinos. The LA Promise Zone lacks parks and green space. The solution? Leverage partnerships and community involvement to transform public schools into parks, open to residents and families on weekends and the summer. \r\n\r\nPresident Obama designated part of Central LA a \"Promise Zone\" in early 2014, an initiative to revitalize struggling communities. LA's Promise Zone encompasses LA’s densest communities including Hollywood, East Hollywood, Thai Town, Little Armenia, Koreatown, and Pico Union/Westlake. LA Schools to Parks supports Promise Zone goals and one of Mayor Garcetti's top priorities - ensure that all residents can walk to a park.  \r\n"
+  implement: "LA Schools to Parks will increase community parks in the LA Promise Zone by working with schools to open their outdoor recreation space to the community on weekends and in summer. Currently only 30% of Zone residents live within 1/4 mile walk to a park. The goal of LA Schools to Parks is to double this within one year, so that 60% of residents live within 1/4 mile walk to a park and can enjoy recreation, exercise and play. \r\n\r\nOur project will open schools on weekends and in the summer for residents, while offering recreation programs in the parks through partnerships with community groups, the City of LA Recreation and Parks, and LAUSD. Our analysis of existing parks in the Promise Zone shows that transforming just 12 schools into parks would double the percentage of residents within 1/4 mile of a park to 60% of residents. To accomplish this, we partner with residents and school leaders in neighborhood visioning sessions in the first six months of the grant to finalize school locations and identify recreation and play activities that should be offered at each park. Then we will solidify agreements with the District and schools, recruit partners to offer activities and open the parks for public use.\r\n\r\nLA Schools to Parks is part of both the Promise Zone and the Promise Neighborhood, which is exciting because these programs will bring existing fitness/recreation activities and coordination with broader neighborhood revitalization efforts in this community. \r\nIn January 2014 President Obama announced that Los Angeles had received one of only five Promise Zone designations, with the goal of revitalizing high-poverty communities through potential tax incentives and receiving extra points on federal grant applications for funding. The LA Promise Zone has over 80 public and private partners, with YPI as the Lead Implementation Partner.  YPI is also Lead Agency for the LA Promise Neighborhood (LAPN) in the Hollywood area of the Zone. LAPN in Hollywood is working with seven schools to provide a continuum of cradle to college and career services to help students graduate high school college and career ready. Four of these campuses are strong candidates for transforming into weekend/summer parks, as YPI's existing funding will provide recreation activities at these times. All of these resources will help us achieve our goal of opening up 12 more parks and helping LA residents to be healthy and play in safe spaces. \r\n"
+  impact_play: "Our project will increase open space and parks. The LA Promise Zone in Central Los Angeles is one of the densest communities in the City, but has little green space and few options for play. Over 70% of Zone residents do not live within 1/4 mile of a park. Los Angeles is the most “park poor” of major cities in the United States. While Los Angeles has 9.1 acres of park per 1,000 residents (compared to 4.6 acres per 1,000 for New York), parks are less equitably distributed in LA. The vast majority of children in New York (91%) and Boston (97%) live within walking distance of a park, compared to only 33% in LA (The Trust for Public Land, No Place to Play, 2004). The LA Promise Zone has even fewer park spaces, with only 30% of residents living within walking distance of a park, demonstrating a great need for additional parks and recreation spaces that will help make LA the best place to play today.\r\n\r\nLA Schools to Parks will address this by opening up more recreational spaces within walking distance of residents for play, recreation, and community involvement. LA Mayor Eric Garcetti has a goal that every resident should be able to walk to a park. Given the lack of affordable properties in central LA, YPI offers a feasible way to accomplish this goal - opening school playgrounds on the weekends and during the summer, rather than trying to develop and open expensive new parks. LA Schools to Parks will work to double the number of residents within walking distance of a recreational space and park by 2015. In addition, LA Schools to Parks will fundraise and work with schools long term to convert any concrete recreational spaces into increased green space.\r\n\r\nBy 2050, the City of Los Angeles will be able to leverage the success of LA Schools to Parks to meet Mayor Garcetti’s goal. The Promise Zone, with its partnerships, defined collaborative structure, and ongoing initiatives, offers the ideal laboratory to implement LA Schools to Parks. The success here will provide the springboard needed to extend this model of cooperation and grassroots change to the entire City, so that by 2050, over 90% of residents will be within walking distance to a park, and Los Angeles will be known among large cities for its extensive -- and equitable -- reach of open space and parks.\r\n"
+  who_benefit: "The project will most directly benefit over 32,000 families currently living in the Promise Zone, the majority of whom lack access to parks and open space within walking distance. 70% of Promise Zone residents (113,082) do not live within 1/4 mile of a park, which reflects the inequitable distribution of parks and open space in the City of Los Angeles. These residents are expected to use the new parks and will most directly benefit from the project.\r\n\r\nThe Promise Zone in Central Los Angeles is home to 161,516 residents. These residents are the direct beneficiaries of the LA Schools to Parks project. Promise Zone residents experience high levels of need and are very diverse, as demonstrated by the following characteristics. \r\n\r\n19.5% are youth under the age of 18, and 6.2% are under the age of 5. \r\n\r\n71% are between 18-64 years of age, and 9.6% are senior citizens age 65 and older. \r\n\r\n57.7% are Hispanic, with the remainder classified as White, Asian, and African American. \r\n\r\nA significant percentage of residents who will benefit from the new parks are low income. 34.9% are below the poverty line, a much higher percentage than for Los Angeles as a whole (20.2%). 72.8% of households in the Promise Zone make less than $50,000 per year (compared to 42% of households in California). (American Community Survey (ACS) 2007-11 and 2008-12).\r\n\r\nCritically, only 7.6% of housing in the Promise Zone are single family homes, while 90.3% are apartment complexes that typically lack a backyard for play or recreation (compared to 28.3% of all California housing being apartments) (ACS 2008-12). The need for parks and open space is particularly critical for families in the Promise Zone, which, as discussed earlier, live in one of the densest communities in Los Angeles. Moreover, this part of LA is located at a significant distance from most of the larger park systems that Los Angeles has to offer, such as the Santa Monica Mountains National Recreation Area or Angeles National Forest.\r\n"
+  partners_collaboration: "YPI (the Promise Zone Lead Implementation Partner and Lead Agency for the LA Promise Neighborhood) works with the City of Los Angeles, the Lead Agency for the Promise Zone and a confirmed partner. The City of LA will leverage services provided by LA Recreation and Parks for newly created parks, including arts and sports offered at Recreation Centers, Summer Night Lights (a program that provides after-dark recreational and jobs for youth in City parks during summer), and intergenerational programs.\r\n\r\nThe LA Unified School District is a partner and working with the City and YPI to transform Promise Zone schools into full-fledged community schools to support academic achievement and family stability. They have worked with People for Parks to establish a Memorandum of Understanding to streamline creation of new parks at schools, while the LAUSD School Police will partner to support safety in the parks.\r\n\r\nPeople for Parks LA is a partner and works to create Community-School Parks that offer open space and grass with recreational activities in LAUSD schools. They offer a grassroots incubator training program and a Fast Track Permit Process with the school district.\r\n\r\nThe Trust for Public Land is committed to support YPI and the City while building on similar programs like the NYC Schoolyards to Playgrounds Initiative, which has designed and built over 180 green playgrounds since 1996. The Trust for Public Land is a founding partner in the Promise Zone and works to lead park and open space development in the Zone. \r\n\r\nThree major factors critical to success include involvement and buy-in of residents. Without this, this project cannot and will not happen. They will participate through neighborhood visioning, incubator training, and volunteering to ensure that parks are great locations for fun and play. Secondly, involvement of partners is vital. Without effective buy-in of the City of LA and the Recreation and Parks Department, and the support of LAUSD and schools, the project will not succeed. Finally, best practices offered by YPI and partners in opening schools as public parks and in providing collaborative services for residents are critical- this includes experience YPI has in building community involvement, experience People for Parks has in opening schools and parks, and components already in place to make this happen- Fast Track permitting, approval procedures, and services provided by the City in the Recreation and Parks Department.\r\n"
+  metrics_play_openspace: '0'
+  metrics_play_afterschool: '0'
+  metrics_play_crime: '0'
+  metrics_play_safe: '0'
+  metrics_play_sportingevents: '0'
+  metrics_play_park: '1'
+  metrics_play_vibrantpark: '1'
+  metrics_play_intergenerational: '1'
+  metrics_play_informal: '1'
+  metrics_play_other: '0'
+  metrics_play_blank: ''
+  impact_metrics: "LA Schools to Parks will make a significant impact on four of the above metrics, helping to move the needle on providing Angelenos with safe, vibrant spaces for recreation. We will work with schools to open up their campuses on the weekends and during summer to serve as additional recreational park spaces.\r\n\r\nLA Schools to Parks will increase the number of residents within 1/4 mile of a park from the current number of 48,434 residents (30% of Promise Zone residents) to 97,403 (60% of Promise Zone residents). This more than doubles the number of residents who live within 1/4 mile of a park by 2015. We consider 1/4 mile to be easy access to a vibrant park, so LA Schools to Parks will impact the metric of number of residents with easy access to a vibrant park by increasing it from 48,434 residents to 97,403 residents by 2015. \r\n\r\nLA Schools to Parks will leverage funding and services provided by YPI, LAUSD, and the City of LA's Rec and Parks Departments to increase the number of parks with intergenerational play opportunities. We will impact this metric by increasing the number of parks with such opportunities by 12. YPI's Promise Neighborhood schools already have federal funding to support intergenerational play opportunities by providing staffing, equipment, and services. Intergenerational play opportunities will be designed using Generations United's \"Tried and True: A Guide to Successful Intergenerational Activities at Shared Site Programs.\" Schools near City Rec Centers can leverage staff, equipment, and programs to provide these opportunities as well. And YPI will engage the Promise Zone's 80+ partners to provide intergenerational play opportunities at the remaining schools. \r\n\r\nLA Schools to Parks will impact the metric for number of informal spaces for play by increasing it by 12 spaces in the Promise Zone. In addition to the intergenerational play opportunities the project will offer, the 12 new school/parks will also be open for informal play opportunities for Promise Zone residents.\r\n"
+  best_place_to_learn: '1'
+  best_place_to_create: '0'
+  best_place_to_connect: '1'
+  healthiest_place_to_live: '1'
+  evaluate: >-
+    YPI considers the LA Schools to Parks project to be a success when we double
+    the number of residents in the Promise Zone who live within 1/4 mile of a
+    park/recreational space by 2015. We will measure success using the four
+    metrics described in the section "How will your project impact the LA 2050
+    "Play" metrics?" These include doubling the number of the residents who live
+    within 1/4 mile of a park from 30% of Promise Zone residents to 60% of
+    Promise Zone residents. Success also means doubling the number of residents
+    with easy access to a vibrant park from 48,434 residents to 97,403. The
+    project will also seek to increase the "vibrancy" of recreational spaces by
+    implementing community-driven beautification projects on the 12 school
+    campuses. These may include building gardens, planting trees or painting
+    murals. This will also support improving the quality of informal play
+    spaces, and we will further measure success by whether we achieve increasing
+    the number of informal play spaces by 12. Similarly, LA Schools to Parks
+    will increase the number of parks with intergenerational play opportunities
+    by 12 by providing intergenerational recreation programs at the schools that
+    will be opened up as parks.
+  two_lessons: "Two lessons inform the LA Schools to Parks movement. The first is the critical importance of collaboration and partnerships to make projects of this type succeed. The recruitment and involvement of stakeholders are a vital part of defining and examining available options and services when developing parks and resources implemented through a neighborhood visioning process. In this way, the new parks will reflect needs and interests of residents and the neighborhood which will contribute to their long-term sustainability. Each school transformed into a park needs to engender strong support from the community. The best way to do this is to make sure that residents take a leading role in the design and implementation of services and programs. YPI and partners such as People for Parks have strong experience in working with residents to reflect bottom up change. In Promise Neighborhoods planning, for example, YPI worked with residents to define needed services through 3,444 completed surveys, 29 focus groups, 27 work groups, and 22 asset mapping walks, while People for Parks has successfully opened three LAUSD schools as community parks to date.\r\n\r\nThe second critical lesson is to look for solutions in the materials and services already available. The lack of parks and open space within Los Angeles and the Promise Zone in particular reflects urban realities that have seen the densest communities of the city- those that have also the highest concentration of children- become communities with the least number of parks and green spaces. Putting brand new parks in these communities is a challenging endeavor due to lack of available space and the high cost of purchasing land. YPI and the Promise Zone have addressed this in two ways. We are working with the community to use existing open space in public areas that is available and can be used- in the schools. These locations are often considered the safest in their neighborhoods, and are well known to residents. In the second, the City of Los Angeles is working in the Zone with partners such as the Trust for Public Land to establish ‘pocket parks’ in parts of the Promise Zone (particularly in the northeast) that lack schools that can become parks. In this way, the Promise Zone seeks to further expand the LA2050 metric of residents living within a ¼ of a mile from a park.\r\n"
+  achievable_goal: "The project will work with partners and residents to move the number of residents within 1/4 mile from a park from its current 30% to 60%. The first six months will be a planning phase to select and open target schools. A strong component will be consideration of LA Promise Neighborhood schools as potential sites, given multiple programs and services already offered at schools and their status as \"Full-Service Community Schools\" with existing YPI staff to support park services.\r\n\r\nLA Schools to Parks will use Promotoras (trusted community residents) to lead ten community visioning workshops and selection of 12 schools in the Zone. Community workshops and visioning sessions offered at schools will present mapping and data of existing parks and open space. This will demonstrate options and selection criteria to pick schools that are within walking distance of the largest number of residents. Consideration will include the fact that existing parks lie on or outside the boundaries of the Zone, leaving interior portions of the Zone most in need of parks.\r\n\r\nWorkshops and visioning sessions will include asset mapping walks around schools, presentations by school staff, as well as City of LA Recreation and Parks staff regarding programs to be offered at new parks. Residents and staff will work to define needs of each park: what informal areas can be open to the public? How can we develop formal parks with structured play and intergenerational activities with a partnership with City of LA Recreation and Parks? What beautification and community service activities can be provided? Promotoras working with the project manager will guide residents through data and obtain feedback. At the same time, YPI and People for Parks will work with LAUSD in the Fast Track Permit Process to add selected schools to the existing MOU already established with the school district.\r\n\r\nIn the second six months, schools selected in the visioning process will be open and publicized. Schools will be opened as parks first on Saturdays, and then extending to Sundays and summers. YPI and partners will work with the District to handle logistical requirements related to operation of public parks, and provide additional private support for maintenance. The project manager will coordinate with local City of LA Recreation Centers to provide structured activities and recreational opportunities on selected parks, and lead beautification and community services provided by volunteers at all sites.\r\n"
+  major_challenges: "Barriers and challenges include full implementation and maintenance of services at each school to ensure growing park use. This will require funding to cover custodial services to ensure school campuses remain clean and usable during both school and park hours. Additional support is needed at structured parks to provide formal programs and intergenerational activities. YPI will seek support from private funders for this. This is particularly important when implementing structural changes to schools that become parks, such as turning pavement and concrete into grass fields for recreational use. Funding sources locally and broadly to be solicited include City of LA Neighborhood Councils, the 50 Parks Initiative, Safe Routes and community development funds, school district bond measures and the LAUSD SEEDS program, as well as federal funding for which the LA Promise Zone will use its designation to receive preference.\r\n\r\nAnother challenge will be safety in parks. Crime in the LA Promise Zone is high (according to U.S. Census data, in 2012 the Zone’s violent crime rate was 1.49 times the Citywide rate) and it is vital that residents and families using parks feel safe. This concern is supported by our use of public schools as parks, as schools are often seen by residents as an island of safety in neighborhoods. YPI will coordinate efforts and oversight of parks working with the LAUSD School Police. YPI and partners will build upon ongoing efforts and public safety efforts in the other initiatives led by YPI in this community and incorporate efforts such as an enhanced Safe Passages program led by parent volunteers at each school and increased programming led by partners such as the Police Activities League (PAL) at new parks. As well, YPI will seek out additional ongoing funding for security at each park.\r\n\r\nSuccessful implementation will require collaboration of YPI and partners working with residents. YPI will leverage its own experience as well as the experience of People for Parks and the Trust for Public Land in opening numerous schools in Los Angeles and nationwide as parks. Elements such as the Community School Parks Incubator program, the Fast Track Permit Process, the community visioning process, and the partner forums and responsibilities established in the LA Promise Zone and LA Promise Neighborhood through MOUs and will greatly speed implementation of LA Schools to Parks.\r\n"
+  competition: "Yes. YPI is leveraging substantial experience and best practices of effective partners to ensure success of this project. People for Parks Los Angeles has done complementary work in Los Angeles to build relationships with LAUSD, as well as individual schools in creating a strong model to create parks and open space through their incubator training program and established MOU and agreement that facilitates the addition of new schools and a process for preparing them to be successful parks. Similarly, the Trust for Public Lands has outstanding experience working in urban neighborhoods across the country to develop park and open space suitable for high poverty and high density communities, as demonstrated in the NYC Schoolyards to Playgrounds Initiative. YPI has brought these agencies into the project for their expertise, and to provide complementary services that meet the mission and vision of their agencies.\r\n\r\nLA Schools to Parks is unique from the work already occurring in Los Angeles and in other parts of the country through partners and other organizations by the incorporation of LA Schools to Parks into the LA Promise Zone. The project benefits from an established collaborative of more than 80 partners and funders that have already signed an agreement and have agreed to a preliminary strategic plan addressing neighborhood revitalization in key fields. Additionally, YPI has extensive experience in implementing grassroots change through resident-led outreach and programs that will guide neighborhood services in selecting schools and implementing services. These include resident-driven services in the Los Angeles Promise Neighborhood, Full-Service Community Schools (a partnership with schools and families to provide a broader range of school and community services on campus), Choice Neighborhoods (in preparation for housing transformation as part of the Promise Zone), and the Byrne Criminal Justice Innovation Project (a public safety partnership with the Los Angeles Police Department). \r\nThe Promise Zone is a City of Los Angeles-led collaborative that is working with a majority of the project's collaborative agencies in LA Schools to Parks, including LAUSD. Partners have committed to neighborhood revitalization as part of the overall strategic plan of the LA Promise Zone, and also to work with YPI on related community revitalization initiatives discussed above.\r\n"
+  cost: "The process of working with residents, partners and the community transform twelve neighborhood schools into parks open to the public on the weekends and during the summer will be accomplished with the requested funding of $100,000, which provides staff, supplies for visioning meetings and beautification projects, and recreation equipment for each site. \r\n\r\nYPI will seek to enhance the project through partners and leveraged support provided by public and private agencies in the Promise Zone. This will bring services and programs provided, for example, by City of Los Angeles Recreation Centers at the new parks, and by working closely with partners that include People for Parks to leverage their existing model and services to fast track this process in the targeted community.\r\n\r\nImplementation services and continued development of the parks to meet the needs of residents and the community will require additional funds. This will include required custodial and security support, administrative costs such as insurance, and the need for continued improvement as defined by residents and partners at each new park. This can also include development of grass fields to replace concrete areas in selected parks as needed, the development and improvement of playgrounds, and the provision of structured programs and services overseen by onsite staff at each park to support residents. \r\n\r\nThese additional costs will be covered through the use of existing funding streams and the solicitation of a wide range of additional funders of parks and open space. As discussed, YPI is the Lead Agency for the LA Promise Neighborhood, which provides ongoing services at four of the 12 neighborhood schools on the preliminary list for transformation into parks. Ongoing funding through 2017 will provide staff and recreational programs at these sites. Resources to support ongoing and additional costs discussed above include financial support from local Neighborhood Councils in Los Angeles, the 50 Parks Initiative, Safe Routes and community development funds, school district bond measures and the LAUSD SEEDS program. For federal funding, the LA Promise Zone will use its designation to receive preference on proposals submitted to support LA Schools to Parks, such as for the Carol M. White Physical Education Program from the U.S. Department of Education. Additional private support will be sought from funders that include Kaboom! (playgrounds), Lowes, Home Depot, General Mills, and others."
+  budget: "YPI will hire an LA Schools to Parks Project Manager at a salary rate of $55,000, who will dedicate 60% of time to the project ($33,000 in grant funds). The Manager's fringe benefits are 14% of the salary ($4,620 in grant funds). The Manager will spearhead planning activities, serve as liaison with schools and LAUSD to develop joint use agreements, supervise promotoras, and collaborate with other YPI staff and partners to provide recreation and fitness activities at the parks. After joint use agreements are in place, the Manager will directly coordinate intergenerational activities in the parks and assist with supervision. \r\n\r\nYPI will hire five Promotora/es, or community members trained in outreach and engagement. They will work for the first six months of the project (26 weeks) for 15 hours per week at $12 per hour ($23,400 in grant funds). Their fringe benefits are 14% of wages ($3,276 in grant funds). Promotoras will outreach and engage residents in community visioning sessions during the planning period. They will present data on school locations, availability of open space in the Zone, resources associated with potential school sites, and will obtain feedback from residents that will inform the final project design, including school locations for parks and services at each. \r\n\r\nThe six staff will receive mileage reimbursements for project-related travel (e.g. meetings with residents or schools) at a rate of $0.56/mile for $1,104 in grant funds. The Manager needs a laptop in order to communicate with schools and partners, complete required reports, and maintain project files ($600 in grant funds). Grant funds will cover office supplies for staff, and printing (outreach flyers for visioning meetings or park activities) for $600. Supplies for ten community visioning meetings will include chart paper and markers, printing of large maps of the Zone, and food for participants ($4,000 in grant funds). \r\n\r\nEach of the 12 school sites that will undergo transformation into a community park will complete a beautification project to make the new space more vibrant and inviting ($18,000 in grant funds). Each site will also purchase recreation and fitness equipment to provide intergenerational activities such as yoga or zumba classes (mats or a stereo), sports (soccer balls, basketballs, kickballs, etc.), and other equipment to be identified by residents during planning when they select formal activities for each park ($950 per site for $11,400 in grant funds).\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '1'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: name
+    label: ''
+    explanation: ''
+    answer: LA Schools to Parks
+  - name: handle
+    label: ''
+    explanation: >-
+      Pick an easy to remember ending for your idea's URL. No spaces or extra
+      characters please.
+    answer: LASchoolstoParks
+  - name: Email
+    label: Your email address
+    explanation: '(Example: maker@goodinc.com)'
+    answer: hfukunaga@ypiusa.org
+  - name: PhoneNumber
+    label: Your phone number
+    explanation: '(Example: 555-555-5555)'
+    answer: 520-979-2613
+  - name: City_State
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Youth Policy Institute
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: www.ypiusa.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: ''
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: ''
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "634 South Spring Street 10th Floor\r\nLos Angeles, CA 90014"
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '521278339'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: Solo actor (just us on this project!)
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      YPI provides education, training, and community support services for
+      families.
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      LA Schools to Parks aims to create safe and vibrant play spaces for
+      Angelinos in the LA Promise Zone by transforming schools to parks.
+  - name: describe_idea
+    label: ''
+    explanation: >-
+      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
+      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
+      have such an awesome project! Please vote for @GoldhirshFdn here!'
+    answer: >-
+      We wanna make #LA the best place to PLAY! Let's get ALL kids walking to
+      parks by opening schools on wknds & #summer! #LA2050 
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: "LA-based nonprofit agency Youth Policy Institute (YPI) will create safe and vibrant play spaces for Angelinos. The LA Promise Zone lacks parks and green space. The solution? Leverage partnerships and community involvement to transform public schools into parks, open to residents and families on weekends and the summer. \r\n\r\nPresident Obama designated part of Central LA a \"Promise Zone\" in early 2014, an initiative to revitalize struggling communities. LA's Promise Zone encompasses LA’s densest communities including Hollywood, East Hollywood, Thai Town, Little Armenia, Koreatown, and Pico Union/Westlake. LA Schools to Parks supports Promise Zone goals and one of Mayor Garcetti's top priorities - ensure that all residents can walk to a park.  \r\n"
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "LA Schools to Parks will increase community parks in the LA Promise Zone by working with schools to open their outdoor recreation space to the community on weekends and in summer. Currently only 30% of Zone residents live within 1/4 mile walk to a park. The goal of LA Schools to Parks is to double this within one year, so that 60% of residents live within 1/4 mile walk to a park and can enjoy recreation, exercise and play. \r\n\r\nOur project will open schools on weekends and in the summer for residents, while offering recreation programs in the parks through partnerships with community groups, the City of LA Recreation and Parks, and LAUSD. Our analysis of existing parks in the Promise Zone shows that transforming just 12 schools into parks would double the percentage of residents within 1/4 mile of a park to 60% of residents. To accomplish this, we partner with residents and school leaders in neighborhood visioning sessions in the first six months of the grant to finalize school locations and identify recreation and play activities that should be offered at each park. Then we will solidify agreements with the District and schools, recruit partners to offer activities and open the parks for public use.\r\n\r\nLA Schools to Parks is part of both the Promise Zone and the Promise Neighborhood, which is exciting because these programs will bring existing fitness/recreation activities and coordination with broader neighborhood revitalization efforts in this community. \r\nIn January 2014 President Obama announced that Los Angeles had received one of only five Promise Zone designations, with the goal of revitalizing high-poverty communities through potential tax incentives and receiving extra points on federal grant applications for funding. The LA Promise Zone has over 80 public and private partners, with YPI as the Lead Implementation Partner.  YPI is also Lead Agency for the LA Promise Neighborhood (LAPN) in the Hollywood area of the Zone. LAPN in Hollywood is working with seven schools to provide a continuum of cradle to college and career services to help students graduate high school college and career ready. Four of these campuses are strong candidates for transforming into weekend/summer parks, as YPI's existing funding will provide recreation activities at these times. All of these resources will help us achieve our goal of opening up 12 more parks and helping LA residents to be healthy and play in safe spaces. \r\n"
+  - name: impact_play
+    label: ''
+    explanation: ''
+    answer: "Our project will increase open space and parks. The LA Promise Zone in Central Los Angeles is one of the densest communities in the City, but has little green space and few options for play. Over 70% of Zone residents do not live within 1/4 mile of a park. Los Angeles is the most “park poor” of major cities in the United States. While Los Angeles has 9.1 acres of park per 1,000 residents (compared to 4.6 acres per 1,000 for New York), parks are less equitably distributed in LA. The vast majority of children in New York (91%) and Boston (97%) live within walking distance of a park, compared to only 33% in LA (The Trust for Public Land, No Place to Play, 2004). The LA Promise Zone has even fewer park spaces, with only 30% of residents living within walking distance of a park, demonstrating a great need for additional parks and recreation spaces that will help make LA the best place to play today.\r\n\r\nLA Schools to Parks will address this by opening up more recreational spaces within walking distance of residents for play, recreation, and community involvement. LA Mayor Eric Garcetti has a goal that every resident should be able to walk to a park. Given the lack of affordable properties in central LA, YPI offers a feasible way to accomplish this goal - opening school playgrounds on the weekends and during the summer, rather than trying to develop and open expensive new parks. LA Schools to Parks will work to double the number of residents within walking distance of a recreational space and park by 2015. In addition, LA Schools to Parks will fundraise and work with schools long term to convert any concrete recreational spaces into increased green space.\r\n\r\nBy 2050, the City of Los Angeles will be able to leverage the success of LA Schools to Parks to meet Mayor Garcetti’s goal. The Promise Zone, with its partnerships, defined collaborative structure, and ongoing initiatives, offers the ideal laboratory to implement LA Schools to Parks. The success here will provide the springboard needed to extend this model of cooperation and grassroots change to the entire City, so that by 2050, over 90% of residents will be within walking distance to a park, and Los Angeles will be known among large cities for its extensive -- and equitable -- reach of open space and parks.\r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "The project will most directly benefit over 32,000 families currently living in the Promise Zone, the majority of whom lack access to parks and open space within walking distance. 70% of Promise Zone residents (113,082) do not live within 1/4 mile of a park, which reflects the inequitable distribution of parks and open space in the City of Los Angeles. These residents are expected to use the new parks and will most directly benefit from the project.\r\n\r\nThe Promise Zone in Central Los Angeles is home to 161,516 residents. These residents are the direct beneficiaries of the LA Schools to Parks project. Promise Zone residents experience high levels of need and are very diverse, as demonstrated by the following characteristics. \r\n\r\n19.5% are youth under the age of 18, and 6.2% are under the age of 5. \r\n\r\n71% are between 18-64 years of age, and 9.6% are senior citizens age 65 and older. \r\n\r\n57.7% are Hispanic, with the remainder classified as White, Asian, and African American. \r\n\r\nA significant percentage of residents who will benefit from the new parks are low income. 34.9% are below the poverty line, a much higher percentage than for Los Angeles as a whole (20.2%). 72.8% of households in the Promise Zone make less than $50,000 per year (compared to 42% of households in California). (American Community Survey (ACS) 2007-11 and 2008-12).\r\n\r\nCritically, only 7.6% of housing in the Promise Zone are single family homes, while 90.3% are apartment complexes that typically lack a backyard for play or recreation (compared to 28.3% of all California housing being apartments) (ACS 2008-12). The need for parks and open space is particularly critical for families in the Promise Zone, which, as discussed earlier, live in one of the densest communities in Los Angeles. Moreover, this part of LA is located at a significant distance from most of the larger park systems that Los Angeles has to offer, such as the Santa Monica Mountains National Recreation Area or Angeles National Forest.\r\n"
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "YPI (the Promise Zone Lead Implementation Partner and Lead Agency for the LA Promise Neighborhood) works with the City of Los Angeles, the Lead Agency for the Promise Zone and a confirmed partner. The City of LA will leverage services provided by LA Recreation and Parks for newly created parks, including arts and sports offered at Recreation Centers, Summer Night Lights (a program that provides after-dark recreational and jobs for youth in City parks during summer), and intergenerational programs.\r\n\r\nThe LA Unified School District is a partner and working with the City and YPI to transform Promise Zone schools into full-fledged community schools to support academic achievement and family stability. They have worked with People for Parks to establish a Memorandum of Understanding to streamline creation of new parks at schools, while the LAUSD School Police will partner to support safety in the parks.\r\n\r\nPeople for Parks LA is a partner and works to create Community-School Parks that offer open space and grass with recreational activities in LAUSD schools. They offer a grassroots incubator training program and a Fast Track Permit Process with the school district.\r\n\r\nThe Trust for Public Land is committed to support YPI and the City while building on similar programs like the NYC Schoolyards to Playgrounds Initiative, which has designed and built over 180 green playgrounds since 1996. The Trust for Public Land is a founding partner in the Promise Zone and works to lead park and open space development in the Zone. \r\n\r\nThree major factors critical to success include involvement and buy-in of residents. Without this, this project cannot and will not happen. They will participate through neighborhood visioning, incubator training, and volunteering to ensure that parks are great locations for fun and play. Secondly, involvement of partners is vital. Without effective buy-in of the City of LA and the Recreation and Parks Department, and the support of LAUSD and schools, the project will not succeed. Finally, best practices offered by YPI and partners in opening schools as public parks and in providing collaborative services for residents are critical- this includes experience YPI has in building community involvement, experience People for Parks has in opening schools and parks, and components already in place to make this happen- Fast Track permitting, approval procedures, and services provided by the City in the Recreation and Parks Department.\r\n"
+  - name: metrics_play_openspace
+    label: Access to open space and park facilities
+    explanation: ''
+    answer: '0'
+  - name: metrics_play_afterschool
+    label: Number of children enrolled in afterschool programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_play_crime
+    label: Per capita crime rates
+    explanation: ''
+    answer: '0'
+  - name: metrics_play_safe
+    label: Percentage of residents that feel safe in their neighborhoods
+    explanation: ''
+    answer: '0'
+  - name: metrics_play_sportingevents
+    label: Attendance at major league sporting events
+    explanation: ''
+    answer: '0'
+  - name: metrics_play_park
+    label: Residents within 1⁄4 mile of a park (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_play_vibrantpark
+    label: Number of residents with easy access to a “vibrant” park (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_play_intergenerational
+    label: Number of parks with intergenerational play opportunities (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_play_informal
+    label: Number (and quality) of informal spaces for play (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_play_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_play_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "LA Schools to Parks will make a significant impact on four of the above metrics, helping to move the needle on providing Angelenos with safe, vibrant spaces for recreation. We will work with schools to open up their campuses on the weekends and during summer to serve as additional recreational park spaces.\r\n\r\nLA Schools to Parks will increase the number of residents within 1/4 mile of a park from the current number of 48,434 residents (30% of Promise Zone residents) to 97,403 (60% of Promise Zone residents). This more than doubles the number of residents who live within 1/4 mile of a park by 2015. We consider 1/4 mile to be easy access to a vibrant park, so LA Schools to Parks will impact the metric of number of residents with easy access to a vibrant park by increasing it from 48,434 residents to 97,403 residents by 2015. \r\n\r\nLA Schools to Parks will leverage funding and services provided by YPI, LAUSD, and the City of LA's Rec and Parks Departments to increase the number of parks with intergenerational play opportunities. We will impact this metric by increasing the number of parks with such opportunities by 12. YPI's Promise Neighborhood schools already have federal funding to support intergenerational play opportunities by providing staffing, equipment, and services. Intergenerational play opportunities will be designed using Generations United's \"Tried and True: A Guide to Successful Intergenerational Activities at Shared Site Programs.\" Schools near City Rec Centers can leverage staff, equipment, and programs to provide these opportunities as well. And YPI will engage the Promise Zone's 80+ partners to provide intergenerational play opportunities at the remaining schools. \r\n\r\nLA Schools to Parks will impact the metric for number of informal spaces for play by increasing it by 12 spaces in the Promise Zone. In addition to the intergenerational play opportunities the project will offer, the 12 new school/parks will also be open for informal play opportunities for Promise Zone residents.\r\n"
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: >-
+      YPI considers the LA Schools to Parks project to be a success when we
+      double the number of residents in the Promise Zone who live within 1/4
+      mile of a park/recreational space by 2015. We will measure success using
+      the four metrics described in the section "How will your project impact
+      the LA 2050 "Play" metrics?" These include doubling the number of the
+      residents who live within 1/4 mile of a park from 30% of Promise Zone
+      residents to 60% of Promise Zone residents. Success also means doubling
+      the number of residents with easy access to a vibrant park from 48,434
+      residents to 97,403. The project will also seek to increase the "vibrancy"
+      of recreational spaces by implementing community-driven beautification
+      projects on the 12 school campuses. These may include building gardens,
+      planting trees or painting murals. This will also support improving the
+      quality of informal play spaces, and we will further measure success by
+      whether we achieve increasing the number of informal play spaces by 12.
+      Similarly, LA Schools to Parks will increase the number of parks with
+      intergenerational play opportunities by 12 by providing intergenerational
+      recreation programs at the schools that will be opened up as parks.
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "Two lessons inform the LA Schools to Parks movement. The first is the critical importance of collaboration and partnerships to make projects of this type succeed. The recruitment and involvement of stakeholders are a vital part of defining and examining available options and services when developing parks and resources implemented through a neighborhood visioning process. In this way, the new parks will reflect needs and interests of residents and the neighborhood which will contribute to their long-term sustainability. Each school transformed into a park needs to engender strong support from the community. The best way to do this is to make sure that residents take a leading role in the design and implementation of services and programs. YPI and partners such as People for Parks have strong experience in working with residents to reflect bottom up change. In Promise Neighborhoods planning, for example, YPI worked with residents to define needed services through 3,444 completed surveys, 29 focus groups, 27 work groups, and 22 asset mapping walks, while People for Parks has successfully opened three LAUSD schools as community parks to date.\r\n\r\nThe second critical lesson is to look for solutions in the materials and services already available. The lack of parks and open space within Los Angeles and the Promise Zone in particular reflects urban realities that have seen the densest communities of the city- those that have also the highest concentration of children- become communities with the least number of parks and green spaces. Putting brand new parks in these communities is a challenging endeavor due to lack of available space and the high cost of purchasing land. YPI and the Promise Zone have addressed this in two ways. We are working with the community to use existing open space in public areas that is available and can be used- in the schools. These locations are often considered the safest in their neighborhoods, and are well known to residents. In the second, the City of Los Angeles is working in the Zone with partners such as the Trust for Public Land to establish ‘pocket parks’ in parts of the Promise Zone (particularly in the northeast) that lack schools that can become parks. In this way, the Promise Zone seeks to further expand the LA2050 metric of residents living within a ¼ of a mile from a park.\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "The project will work with partners and residents to move the number of residents within 1/4 mile from a park from its current 30% to 60%. The first six months will be a planning phase to select and open target schools. A strong component will be consideration of LA Promise Neighborhood schools as potential sites, given multiple programs and services already offered at schools and their status as \"Full-Service Community Schools\" with existing YPI staff to support park services.\r\n\r\nLA Schools to Parks will use Promotoras (trusted community residents) to lead ten community visioning workshops and selection of 12 schools in the Zone. Community workshops and visioning sessions offered at schools will present mapping and data of existing parks and open space. This will demonstrate options and selection criteria to pick schools that are within walking distance of the largest number of residents. Consideration will include the fact that existing parks lie on or outside the boundaries of the Zone, leaving interior portions of the Zone most in need of parks.\r\n\r\nWorkshops and visioning sessions will include asset mapping walks around schools, presentations by school staff, as well as City of LA Recreation and Parks staff regarding programs to be offered at new parks. Residents and staff will work to define needs of each park: what informal areas can be open to the public? How can we develop formal parks with structured play and intergenerational activities with a partnership with City of LA Recreation and Parks? What beautification and community service activities can be provided? Promotoras working with the project manager will guide residents through data and obtain feedback. At the same time, YPI and People for Parks will work with LAUSD in the Fast Track Permit Process to add selected schools to the existing MOU already established with the school district.\r\n\r\nIn the second six months, schools selected in the visioning process will be open and publicized. Schools will be opened as parks first on Saturdays, and then extending to Sundays and summers. YPI and partners will work with the District to handle logistical requirements related to operation of public parks, and provide additional private support for maintenance. The project manager will coordinate with local City of LA Recreation Centers to provide structured activities and recreational opportunities on selected parks, and lead beautification and community services provided by volunteers at all sites.\r\n"
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "Barriers and challenges include full implementation and maintenance of services at each school to ensure growing park use. This will require funding to cover custodial services to ensure school campuses remain clean and usable during both school and park hours. Additional support is needed at structured parks to provide formal programs and intergenerational activities. YPI will seek support from private funders for this. This is particularly important when implementing structural changes to schools that become parks, such as turning pavement and concrete into grass fields for recreational use. Funding sources locally and broadly to be solicited include City of LA Neighborhood Councils, the 50 Parks Initiative, Safe Routes and community development funds, school district bond measures and the LAUSD SEEDS program, as well as federal funding for which the LA Promise Zone will use its designation to receive preference.\r\n\r\nAnother challenge will be safety in parks. Crime in the LA Promise Zone is high (according to U.S. Census data, in 2012 the Zone’s violent crime rate was 1.49 times the Citywide rate) and it is vital that residents and families using parks feel safe. This concern is supported by our use of public schools as parks, as schools are often seen by residents as an island of safety in neighborhoods. YPI will coordinate efforts and oversight of parks working with the LAUSD School Police. YPI and partners will build upon ongoing efforts and public safety efforts in the other initiatives led by YPI in this community and incorporate efforts such as an enhanced Safe Passages program led by parent volunteers at each school and increased programming led by partners such as the Police Activities League (PAL) at new parks. As well, YPI will seek out additional ongoing funding for security at each park.\r\n\r\nSuccessful implementation will require collaboration of YPI and partners working with residents. YPI will leverage its own experience as well as the experience of People for Parks and the Trust for Public Land in opening numerous schools in Los Angeles and nationwide as parks. Elements such as the Community School Parks Incubator program, the Fast Track Permit Process, the community visioning process, and the partner forums and responsibilities established in the LA Promise Zone and LA Promise Neighborhood through MOUs and will greatly speed implementation of LA Schools to Parks.\r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "Yes. YPI is leveraging substantial experience and best practices of effective partners to ensure success of this project. People for Parks Los Angeles has done complementary work in Los Angeles to build relationships with LAUSD, as well as individual schools in creating a strong model to create parks and open space through their incubator training program and established MOU and agreement that facilitates the addition of new schools and a process for preparing them to be successful parks. Similarly, the Trust for Public Lands has outstanding experience working in urban neighborhoods across the country to develop park and open space suitable for high poverty and high density communities, as demonstrated in the NYC Schoolyards to Playgrounds Initiative. YPI has brought these agencies into the project for their expertise, and to provide complementary services that meet the mission and vision of their agencies.\r\n\r\nLA Schools to Parks is unique from the work already occurring in Los Angeles and in other parts of the country through partners and other organizations by the incorporation of LA Schools to Parks into the LA Promise Zone. The project benefits from an established collaborative of more than 80 partners and funders that have already signed an agreement and have agreed to a preliminary strategic plan addressing neighborhood revitalization in key fields. Additionally, YPI has extensive experience in implementing grassroots change through resident-led outreach and programs that will guide neighborhood services in selecting schools and implementing services. These include resident-driven services in the Los Angeles Promise Neighborhood, Full-Service Community Schools (a partnership with schools and families to provide a broader range of school and community services on campus), Choice Neighborhoods (in preparation for housing transformation as part of the Promise Zone), and the Byrne Criminal Justice Innovation Project (a public safety partnership with the Los Angeles Police Department). \r\nThe Promise Zone is a City of Los Angeles-led collaborative that is working with a majority of the project's collaborative agencies in LA Schools to Parks, including LAUSD. Partners have committed to neighborhood revitalization as part of the overall strategic plan of the LA Promise Zone, and also to work with YPI on related community revitalization initiatives discussed above.\r\n"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "The process of working with residents, partners and the community transform twelve neighborhood schools into parks open to the public on the weekends and during the summer will be accomplished with the requested funding of $100,000, which provides staff, supplies for visioning meetings and beautification projects, and recreation equipment for each site. \r\n\r\nYPI will seek to enhance the project through partners and leveraged support provided by public and private agencies in the Promise Zone. This will bring services and programs provided, for example, by City of Los Angeles Recreation Centers at the new parks, and by working closely with partners that include People for Parks to leverage their existing model and services to fast track this process in the targeted community.\r\n\r\nImplementation services and continued development of the parks to meet the needs of residents and the community will require additional funds. This will include required custodial and security support, administrative costs such as insurance, and the need for continued improvement as defined by residents and partners at each new park. This can also include development of grass fields to replace concrete areas in selected parks as needed, the development and improvement of playgrounds, and the provision of structured programs and services overseen by onsite staff at each park to support residents. \r\n\r\nThese additional costs will be covered through the use of existing funding streams and the solicitation of a wide range of additional funders of parks and open space. As discussed, YPI is the Lead Agency for the LA Promise Neighborhood, which provides ongoing services at four of the 12 neighborhood schools on the preliminary list for transformation into parks. Ongoing funding through 2017 will provide staff and recreational programs at these sites. Resources to support ongoing and additional costs discussed above include financial support from local Neighborhood Councils in Los Angeles, the 50 Parks Initiative, Safe Routes and community development funds, school district bond measures and the LAUSD SEEDS program. For federal funding, the LA Promise Zone will use its designation to receive preference on proposals submitted to support LA Schools to Parks, such as for the Carol M. White Physical Education Program from the U.S. Department of Education. Additional private support will be sought from funders that include Kaboom! (playgrounds), Lowes, Home Depot, General Mills, and others."
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "YPI will hire an LA Schools to Parks Project Manager at a salary rate of $55,000, who will dedicate 60% of time to the project ($33,000 in grant funds). The Manager's fringe benefits are 14% of the salary ($4,620 in grant funds). The Manager will spearhead planning activities, serve as liaison with schools and LAUSD to develop joint use agreements, supervise promotoras, and collaborate with other YPI staff and partners to provide recreation and fitness activities at the parks. After joint use agreements are in place, the Manager will directly coordinate intergenerational activities in the parks and assist with supervision. \r\n\r\nYPI will hire five Promotora/es, or community members trained in outreach and engagement. They will work for the first six months of the project (26 weeks) for 15 hours per week at $12 per hour ($23,400 in grant funds). Their fringe benefits are 14% of wages ($3,276 in grant funds). Promotoras will outreach and engage residents in community visioning sessions during the planning period. They will present data on school locations, availability of open space in the Zone, resources associated with potential school sites, and will obtain feedback from residents that will inform the final project design, including school locations for parks and services at each. \r\n\r\nThe six staff will receive mileage reimbursements for project-related travel (e.g. meetings with residents or schools) at a rate of $0.56/mile for $1,104 in grant funds. The Manager needs a laptop in order to communicate with schools and partners, complete required reports, and maintain project files ($600 in grant funds). Grant funds will cover office supplies for staff, and printing (outreach flyers for visioning meetings or park activities) for $600. Supplies for ten community visioning meetings will include chart paper and markers, printing of large maps of the Zone, and food for participants ($4,000 in grant funds). \r\n\r\nEach of the 12 school sites that will undergo transformation into a community park will complete a beautification project to make the new space more vibrant and inviting ($18,000 in grant funds). Each site will also purchase recreation and fitness equipment to provide intergenerational activities such as yoga or zumba classes (mats or a stereo), sports (soccer balls, basketballs, kickballs, etc.), and other equipment to be identified by residents during planning when they select formal activities for each park ($950 per site for $11,400 in grant funds).\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '1'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: strawberry
 
 ---

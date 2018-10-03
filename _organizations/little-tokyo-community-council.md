@@ -24,8 +24,17 @@ project_ids: '4102146'
 title: Little Tokyo Community Council
 uri: /organizations/little-tokyo-community-council/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Invisible to Invincible
+project_titles_from_project_ids:
+  - 'Milk + Bookies: Bringing Service Learning and Books to LA Youth'
+original_project_titles:
+  - 'Sustainable Little Tokyo: A Cultural Ecodistrict'
+original_project_ids:
+  - '4102253'
+project_titles_flagged: 1
 youtube_video_identifier: QQpabiJ0uus
 
 ---
