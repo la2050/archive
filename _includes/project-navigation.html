@@ -10,7 +10,7 @@
 {% unless page.winners %}
 
 
-{% unless page.is_search_results %}
+{% if page.layout == 'project-list' and !page.is_search_results %}
 <h2 style="
 font-style: normal;
 color: inherit !important;
@@ -22,7 +22,7 @@ max-width: none;margin-bottom: 4.5rem;">
   Find great organizations and bright ideas for <strong style="
 color: inherit;">Los Angeles</strong>
 </h2>
-{% endunless %}
+{% endif %}
 
 
 <details open>
