@@ -47,9 +47,9 @@ project_titles_from_project_ids:
 original_project_titles:
   - >-
     The Latin Jazz Youth Ensemble of Los Angeles models the Latin Jazz Youth
-    Ensemble of SF.
-original_project_ids: []
-project_titles_flagged: 1
+    Ensemble of SF. LJYE.com
+original_project_ids:
+  - '8102042'
 category: learn
 
 ---
