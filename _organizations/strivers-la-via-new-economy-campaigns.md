@@ -21,8 +21,19 @@ project_ids: '5102095'
 title: Strivers.LA via New Economy Campaigns
 uri: /organizations/strivers-la-via-new-economy-campaigns/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102202'
+project_titles_from_extrapolated_project_ids:
+  - Strivers.LA - digital tools for student success
 project_titles:
   - Strivers.LA - digital tools for student success
+project_titles_from_project_ids:
+  - 'EWLA: Creating a network for exchange between artists and the public'
+original_project_titles:
+  - Strivers.LA - digital tools for student success
+original_project_ids:
+  - '4102202'
+project_titles_flagged: 1
 youtube_video_identifier: lz8FDz2KN0s
 
 ---

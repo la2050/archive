@@ -28,5 +28,17 @@ project_ids: '6102092'
 title: Historic Core BID
 uri: /organizations/historic-core-bid/
 challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'
+extrapolated_project_ids:
+  - '6102092'
+project_titles_from_extrapolated_project_ids:
+  - Spring Street Parklets
+project_titles:
+  - Spring Street Parklets
+project_titles_from_project_ids:
+  - Spring Street Parklets
+original_project_titles:
+  - Spring Street Parklets
+original_project_ids:
+  - '6102092'
 
 ---

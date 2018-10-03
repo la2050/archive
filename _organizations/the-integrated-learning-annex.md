@@ -32,5 +32,17 @@ project_ids: '6102254'
 title: The integrated Learning Annex
 uri: /organizations/the-integrated-learning-annex/
 challenge_url: 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'
+extrapolated_project_ids:
+  - '6102254'
+project_titles_from_extrapolated_project_ids:
+  - Putting the human back into business.
+project_titles:
+  - Putting the human back into business.
+project_titles_from_project_ids:
+  - Putting the human back into business.
+original_project_titles:
+  - Putting the human back into business.
+original_project_ids:
+  - '6102254'
 
 ---

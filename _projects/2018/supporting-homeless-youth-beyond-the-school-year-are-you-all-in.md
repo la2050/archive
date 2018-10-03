@@ -2,7 +2,10 @@
 project_id: '8102006'
 project_id_2: '8102006'
 title: 'Supporting Homeless Youth Beyond the School Year, Are You All-In?'
-project_summary: "All-In Urban Summer Academy keeps Compton and Venice youth on track for the school year by providing academic and social enrichment, as well as mitigating traumas associated with homelessness.\r\n"
+project_summary: >-
+  All-In Urban Summer Academy keeps Compton and Venice youth on track for the
+  school year by providing academic and social enrichment, as well as mitigating
+  traumas associated with homelessness.
 Please describe the activation your organization seeks to launch.: >-
   After serving a homeless family in our inaugural summer we were introduced to
   the growing crisis that affects 63,000 Los Angeles youth. A new partnership
@@ -64,6 +67,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102006'
 year_submitted: 2018
+organization_name: All-In Urban Summer Academy
 project_proposal_description: >-
   After serving a homeless family in our inaugural summer we were introduced to
   the growing crisis that affects 63,000 Los Angeles youth. A new partnership

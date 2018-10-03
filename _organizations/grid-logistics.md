@@ -37,5 +37,30 @@ title: GRID Logistics
 uri: /organizations/grid-logistics/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
+extrapolated_project_ids:
+  - '6102164'
+  - '5102121'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    The GRID Project: Let's create 50K jobs building great things to reduce air
+    pollution & FWY gridlock
+  - Freight Underground in MYLA2050
+project_titles:
+  - Extending the East San Fernando Valley Nature Parkway
+  - Freight Underground in MYLA2050
+  - >-
+    The GRID Project: Let's create 50K jobs building great things to reduce air
+    pollution & FWY gridlock
+project_titles_from_project_ids:
+  - >-
+    The GRID Project: Let's create 50K jobs building great things to reduce air
+    pollution & FWY gridlock
+original_project_titles:
+  - >-
+    The GRID Project: Let's create 50K jobs building great things to reduce air
+    pollution & FWY gridlock
+original_project_ids:
+  - '6102164'
+project_titles_flagged: 1
 
 ---

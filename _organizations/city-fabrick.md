@@ -26,6 +26,16 @@ project_ids: '8102023'
 title: City Fabrick
 uri: /organizations/city-fabrick/
 challenge_url: 'https://activation.la2050.org/live/city-fabrick/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - IN House - Collaborative Affordable Housing Design
+project_titles_from_project_ids:
+  - IN House - Collaborative Affordable Housing Design
+original_project_titles:
+  - IN House - Collaborative Affordable Housing Design
+original_project_ids:
+  - '8102023'
 category: live
 
 ---

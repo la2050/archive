@@ -37,6 +37,26 @@ project_ids: '8102048'
 title: Gracias Music Foundation
 uri: /organizations/gracias-music-foundation/
 challenge_url: 'https://activation.la2050.org/connect/gracias-music-foundation/'
+extrapolated_project_ids:
+  - '8102048'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Gracias Music Foundation: Cultivating and empowering musicians that give
+    back to the community
+project_titles:
+  - >-
+    Gracias Music Foundation: Cultivating and empowering musicians that give
+    back to the community
+project_titles_from_project_ids:
+  - >-
+    Gracias Music Foundation: Cultivating and empowering musicians that give
+    back to the community
+original_project_titles:
+  - >-
+    Gracias Music Foundation: Cultivating and empowering musicians that give
+    back to the community
+original_project_ids:
+  - '8102048'
 category: connect
 
 ---

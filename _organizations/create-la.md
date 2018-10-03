@@ -39,8 +39,18 @@ project_ids: '3102096'
 title: Create LA
 uri: /organizations/create-la/
 challenge_url: 'http://maker.good.is/myla2050/projects/createla.html'
+extrapolated_project_ids:
+  - '3102096'
+project_titles_from_extrapolated_project_ids:
+  - 'Create LA: Free Art Classes for Kids'
 project_titles:
   - 'Create LA: Free Art Classes for Kids'
+project_titles_from_project_ids:
+  - 'Create LA: Free Art Classes for Kids'
+original_project_titles:
+  - 'Create LA: Free Art Classes for Kids'
+original_project_ids:
+  - '3102096'
 youtube_video_identifier: y5Q3OTnTYC4
 
 ---

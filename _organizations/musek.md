@@ -36,8 +36,18 @@ project_ids: '3102079'
 title: MUSEK
 uri: /organizations/musek/
 challenge_url: 'http://maker.good.is/myla2050/projects/MUSEK.html'
+extrapolated_project_ids:
+  - '3102079'
+project_titles_from_extrapolated_project_ids:
+  - Empowering students thru arts and education
 project_titles:
   - Empowering students thru arts and education
+project_titles_from_project_ids:
+  - Empowering students thru arts and education
+original_project_titles:
+  - Empowering students thru arts and education
+original_project_ids:
+  - '3102079'
 maker_image_id: '16307'
 maker_image_file_name: image.jpg
 

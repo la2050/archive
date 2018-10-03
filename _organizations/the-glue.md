@@ -34,6 +34,17 @@ project_ids: '8102120'
 title: The Glue
 uri: /organizations/the-glue/
 challenge_url: 'https://activation.la2050.org/live/the-glue/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Crowd-Sourcing Sidewalk App
+project_titles_from_project_ids:
+  - Farmers Market Delivery
+original_project_titles:
+  - Crowd-Sourcing Sidewalk App
+original_project_ids:
+  - '8102119'
+project_titles_flagged: 1
 category: live
 
 ---

@@ -179,6 +179,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   The residents of Watts would be as healthy by all measures as the residents of
   Santa Monica.
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

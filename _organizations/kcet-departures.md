@@ -68,8 +68,18 @@ project_ids: '3102162'
 title: KCET Departures
 uri: /organizations/kcet-departures/
 challenge_url: 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
+extrapolated_project_ids:
+  - '3102162'
+project_titles_from_extrapolated_project_ids:
+  - Departures Youth Voices Mobile Classroom
 project_titles:
   - Departures Youth Voices Mobile Classroom
+project_titles_from_project_ids:
+  - Departures Youth Voices Mobile Classroom
+original_project_titles:
+  - Departures Youth Voices Mobile Classroom
+original_project_ids:
+  - '3102162'
 youtube_video_identifier: 9PUd4G27uNk
 
 ---

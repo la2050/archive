@@ -31,5 +31,31 @@ title: L.A. Works
 uri: /organizations/l-a-works/
 challenge_url: >-
   https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
+extrapolated_project_ids:
+  - '6102118'
+  - '5102165'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    MusicWorks: connecting music-industry pros to underserved kids for social
+    transformation
+  - 'L.A. Works: Volunteers for a Greater LA'
+project_titles:
+  - 'L.A. Works: Volunteers for a Greater LA'
+  - >-
+    MusicWorks: connecting music-industry pros to underserved kids for social
+    transformation
+project_titles_from_project_ids:
+  - >-
+    MusicWorks: connecting music-industry pros to underserved kids for social
+    transformation
+original_project_titles:
+  - 'L.A. Works: Volunteers for a Greater LA'
+  - >-
+    MusicWorks: connecting music-industry pros to underserved kids for social
+    transformation
+original_project_ids:
+  - '5102165'
+  - '6102118'
+project_titles_flagged: 1
 
 ---

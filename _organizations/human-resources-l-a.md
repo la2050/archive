@@ -42,8 +42,18 @@ project_ids: '3102151'
 title: Human Resources L.A.
 uri: /organizations/human-resources-l-a/
 challenge_url: 'http://maker.good.is/myla2050/projects/hrlaartresidency.html'
+extrapolated_project_ids:
+  - '3102151'
+project_titles_from_extrapolated_project_ids:
+  - Human Resources L.A. Artist Residency Program!
 project_titles:
   - Human Resources L.A. Artist Residency Program!
+project_titles_from_project_ids:
+  - Human Resources L.A. Artist Residency Program!
+original_project_titles:
+  - Human Resources L.A. Artist Residency Program!
+original_project_ids:
+  - '3102151'
 youtube_video_identifier: BSvlFmSuKyw
 
 ---

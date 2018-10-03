@@ -9,9 +9,7 @@ zip: '92618'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954623022'
 ntee_type: ''
 tags_indicators:
-  - Early childhood
   - Fitness & sports
-  - Education & youth
   - Health
 twitter: '@DodgersFdn'
 instagram: '@DodgersFoundation'
@@ -32,6 +30,16 @@ project_ids: '8102074'
 title: Los Angeles Dodgers Foundation
 uri: /organizations/los-angeles-dodgers-foundation/
 challenge_url: 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
+project_titles_from_project_ids:
+  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
+original_project_titles:
+  - 'Using the Power of Baseball to Engage 100,000 Angelenos in PLAY!'
+original_project_ids:
+  - '8102074'
 category: play
 
 ---

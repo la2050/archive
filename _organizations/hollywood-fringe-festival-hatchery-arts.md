@@ -30,5 +30,25 @@ title: Hollywood Fringe Festival (Hatchery Arts)
 uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
+extrapolated_project_ids:
+  - '6102094'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Support the annual Hollywood Fringe Festival including expanding the Fringe
+    Scholarships program
+project_titles:
+  - >-
+    Support the annual Hollywood Fringe Festival including expanding the Fringe
+    Scholarships program
+project_titles_from_project_ids:
+  - >-
+    Support the annual Hollywood Fringe Festival including expanding the Fringe
+    Scholarships program
+original_project_titles:
+  - >-
+    Support the annual Hollywood Fringe Festival including expanding the Fringe
+    Scholarships program
+original_project_ids:
+  - '6102094'
 
 ---

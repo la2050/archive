@@ -26,8 +26,17 @@ project_ids: '4102134'
 title: home&community inc
 uri: /organizations/home-community-inc/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - The Shed Pasadena
+project_titles_from_project_ids:
+  - Los Angeles Review of Books
+original_project_titles:
+  - Original Green Community Food Hub
+original_project_ids:
+  - '4102144'
+project_titles_flagged: 1
 youtube_video_identifier: zs2Oe9X1llQ
 
 ---

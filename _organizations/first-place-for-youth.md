@@ -31,5 +31,25 @@ title: First Place for Youth
 uri: /organizations/first-place-for-youth/
 challenge_url: >-
   https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
+extrapolated_project_ids:
+  - '6102068'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    First Place: Providing at-risk foster youth with the skills they need to be
+    college and career ready
+project_titles:
+  - >-
+    First Place: Providing at-risk foster youth with the skills they need to be
+    college and career ready
+project_titles_from_project_ids:
+  - >-
+    First Place: Providing at-risk foster youth with the skills they need to be
+    college and career ready
+original_project_titles:
+  - >-
+    First Place: Providing at-risk foster youth with the skills they need to be
+    college and career ready
+original_project_ids:
+  - '6102068'
 
 ---

@@ -97,6 +97,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   destinations will be how families choose to spend their leisure time because
   it is pleasant and social.
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

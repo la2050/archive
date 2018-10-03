@@ -12,7 +12,9 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators:
   - Homelessness
+  - Voting & civic engagement
   - Housing & homelessness
+  - Social connectedness
 twitter:
   - '@EveryoneIn_LA'
   - '@InnerCityLaw'
@@ -39,6 +41,16 @@ project_ids: '8102132'
 title: United Way of Greater Los Angeles
 uri: /organizations/united-way-of-greater-los-angeles/
 challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless '
+project_titles_from_project_ids:
+  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless '
+original_project_titles:
+  - 'EVERYONE IN: Preventing 30,000 Angelenos from Becoming Homeless'
+original_project_ids:
+  - '8102132'
 category: live
 
 ---

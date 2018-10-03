@@ -44,6 +44,26 @@ project_ids: '8102100'
 title: 'Raise A Child, Inc.'
 uri: /organizations/raise-a-child-inc/
 challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
+extrapolated_project_ids:
+  - '4102180'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in
+    our diverse communities
+project_titles:
+  - >-
+    20000 KIDS PROJECT LA: Connecting LA’s foster children with loving homes in
+    our diverse communities
+  - "Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster kids.\r\n\r\n"
+project_titles_from_project_ids:
+  - "Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster kids.\r\n\r\n"
+original_project_titles:
+  - >-
+    Connect to RaiseAChild: Engaging Angelenos to improve outcomes for foster
+    kids.
+original_project_ids:
+  - '8102100'
+project_titles_flagged: 1
 category: connect
 
 ---

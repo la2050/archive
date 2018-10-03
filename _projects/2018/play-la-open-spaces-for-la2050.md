@@ -4,7 +4,7 @@ project_id_2: '8102123'
 title: Play LA! Open Spaces for LA2050!
 project_summary: >-
   Play LA! will get you, your friends, families, and neighbors outdoors and
-  playing in and around Los Angeles.  
+  playing in and around Los Angeles.
 Please describe the activation your organization seeks to launch.: >-
   The Trust for Public Land, along with the Los Angeles Neighborhood Land Trust
   and Community Nature Connection, will host a participatory park access and
@@ -42,6 +42,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102123'
 year_submitted: 2018
+organization_name: The Trust for Public Land
 project_proposal_description: >-
   The Trust for Public Land, along with the Los Angeles Neighborhood Land Trust
   and Community Nature Connection, will host a participatory park access and

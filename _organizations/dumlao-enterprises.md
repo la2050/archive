@@ -27,8 +27,19 @@ project_ids: '8102052'
 title: Dumlao Enterprises
 uri: /organizations/dumlao-enterprises/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
+extrapolated_project_ids:
+  - '4102060'
+project_titles_from_extrapolated_project_ids:
+  - MY CITY
 project_titles:
   - MY CITY
+project_titles_from_project_ids:
+  - 'STOP WREX! DRIVE WITHOUT TEXT/ALTO WREX! MANEJA SIN EL TEXT / '
+original_project_titles:
+  - MY CITY
+original_project_ids:
+  - '4102060'
+project_titles_flagged: 1
 youtube_video_identifier: NHaLkpe_jms
 
 ---

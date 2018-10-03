@@ -30,5 +30,19 @@ project_ids: '6102216'
 title: Spark Los Angeles
 uri: /organizations/spark-los-angeles/
 challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
+extrapolated_project_ids:
+  - '6102216'
+project_titles_from_extrapolated_project_ids:
+  - Spark LA Youth Mentorships
+project_titles:
+  - Spark LA Youth Apprenticeships
+  - Spark LA Youth Mentorships
+project_titles_from_project_ids:
+  - Spark LA Youth Mentorships
+original_project_titles:
+  - Spark LA Youth Mentorships
+original_project_ids:
+  - '6102216'
+project_titles_flagged: 1
 
 ---

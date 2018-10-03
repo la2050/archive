@@ -78,10 +78,26 @@ project_ids: '3102006'
 title: arc
 uri: /organizations/arc/
 challenge_url: 'http://maker.good.is/myla2050/projects/arcexperience.html'
+extrapolated_project_ids:
+  - '3102006'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
 project_titles:
   - >-
     MyARC: A digital social network that solves educational challenges one
     project at a time.
+project_titles_from_project_ids:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
+original_project_titles:
+  - >-
+    MyARC: A digital social network that solves educational challenges one
+    project at a time.
+original_project_ids:
+  - '3102006'
 youtube_video_identifier: KAJrrW9SOdA
 
 ---

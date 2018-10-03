@@ -37,8 +37,18 @@ project_ids: '3102037'
 title: Boys & Girls Club of Mar Vista Gardens
 uri: /organizations/boys-girls-club-of-mar-vista-gardens/
 challenge_url: 'http://maker.good.is/myla2050/projects/begreat.html'
+extrapolated_project_ids:
+  - '3102037'
+project_titles_from_extrapolated_project_ids:
+  - 'BE GREAT Mentoring Program '
 project_titles:
   - 'BE GREAT Mentoring Program '
+project_titles_from_project_ids:
+  - 'BE GREAT Mentoring Program '
+original_project_titles:
+  - 'BE GREAT Mentoring Program '
+original_project_ids:
+  - '3102037'
 youtube_video_identifier: xtg0o0s_GEU
 
 ---

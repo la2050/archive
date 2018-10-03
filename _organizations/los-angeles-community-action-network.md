@@ -30,8 +30,18 @@ project_ids: '5102186'
 title: Los Angeles Community Action Network
 uri: /organizations/los-angeles-community-action-network/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
+extrapolated_project_ids:
+  - '5102186'
+project_titles_from_extrapolated_project_ids:
+  - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
 project_titles:
   - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
+project_titles_from_project_ids:
+  - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
+original_project_titles:
+  - The Skid Row Justice and Wellness Center and Pop-Up Produce Market
+original_project_ids:
+  - '5102186'
 youtube_video_identifier: d7u6LPKVtv4
 
 ---

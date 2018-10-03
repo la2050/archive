@@ -27,8 +27,19 @@ project_ids: '4102077'
 title: Rangoli Foundation for Art & Culture
 uri: /organizations/rangoli-foundation-for-art-culture/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/moment.html'
+extrapolated_project_ids:
+  - '4102181'
+project_titles_from_extrapolated_project_ids:
+  - This is the Moment!
 project_titles:
   - This is the Moment!
+project_titles_from_project_ids:
+  - Griffith Observatory--A pLAnetarium for 2050 now!
+original_project_titles:
+  - This is the Moment!
+original_project_ids:
+  - '4102181'
+project_titles_flagged: 1
 youtube_video_identifier: 1JDr-eMpJX4
 
 ---

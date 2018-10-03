@@ -27,5 +27,17 @@ project_ids: '6102053'
 title: Compassionate Santa Monica
 uri: /organizations/compassionate-santa-monica/
 challenge_url: 'https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest'
+extrapolated_project_ids:
+  - '6102053'
+project_titles_from_extrapolated_project_ids:
+  - 'Compassion Games, Survival of the Kindest'
+project_titles:
+  - 'Compassion Games, Survival of the Kindest'
+project_titles_from_project_ids:
+  - 'Compassion Games, Survival of the Kindest'
+original_project_titles:
+  - 'Compassion Games, Survival of the Kindest'
+original_project_ids:
+  - '6102053'
 
 ---

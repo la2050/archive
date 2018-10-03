@@ -27,5 +27,17 @@ project_ids: '6102178'
 title: Peaceworks International
 uri: /organizations/peaceworks-international/
 challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
+extrapolated_project_ids:
+  - '6102178'
+project_titles_from_extrapolated_project_ids:
+  - 'I Am LA: One minute can change the world'
+project_titles:
+  - 'I Am LA: One minute can change the world'
+project_titles_from_project_ids:
+  - 'I Am LA: One minute can change the world'
+original_project_titles:
+  - 'I Am LA: One minute can change the world'
+original_project_ids:
+  - '6102178'
 
 ---

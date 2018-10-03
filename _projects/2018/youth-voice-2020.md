@@ -25,6 +25,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
 project_id_3: '8102005'
 year_submitted: 2018
+organization_name: 'Action Civics LA, an initiative of Mikva Challenge'
 project_proposal_description: >-
   Every year Action Civics LA hosts a public speaking competition that calls
   young people to speak out on issues that affect them and their communities.

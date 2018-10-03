@@ -27,10 +27,25 @@ project_ids: '4102045'
 title: Interpretive Media Laboratory (IMLab)
 uri: /organizations/interpretive-media-laboratory-imlab/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
+extrapolated_project_ids:
+  - '4102102'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Trail City LA: Connecting the city through a community authored network of
+    digitally enabled trails.
 project_titles:
   - >-
     Trail City LA: Connecting the city through a community authored network of
     digitally enabled trails.
+project_titles_from_project_ids:
+  - Earth Day Every Day
+original_project_titles:
+  - >-
+    Trail City LA: Connecting the city through a community authored network of
+    digitally enabled trails.
+original_project_ids:
+  - '4102102'
+project_titles_flagged: 1
 youtube_video_identifier: _1j9tLhT4z8
 
 ---

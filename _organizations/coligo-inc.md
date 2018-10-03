@@ -27,5 +27,17 @@ title: 'Coligo, Inc.'
 uri: /organizations/coligo-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
+extrapolated_project_ids:
+  - '6102105'
+project_titles_from_extrapolated_project_ids:
+  - The first social networking service for nonprofit organizations
+project_titles:
+  - The first social networking service for nonprofit organizations
+project_titles_from_project_ids:
+  - The first social networking service for nonprofit organizations
+original_project_titles:
+  - The first social networking service for nonprofit organizations
+original_project_ids:
+  - '6102105'
 
 ---

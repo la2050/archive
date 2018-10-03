@@ -41,5 +41,23 @@ title: Ryman Arts
 uri: /organizations/ryman-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
+extrapolated_project_ids:
+  - '6102201'
+  - '3102230'
+project_titles_from_extrapolated_project_ids:
+  - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
+  - The Big Draw LA
+project_titles:
+  - The Big Draw LA
+  - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
+project_titles_from_project_ids:
+  - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
+original_project_titles:
+  - The Big Draw LA
+  - The Big Draw LA Drawing Festival. Drawing Los Angeles together!
+original_project_ids:
+  - '3102230'
+  - '6102201'
+project_titles_flagged: 1
 
 ---

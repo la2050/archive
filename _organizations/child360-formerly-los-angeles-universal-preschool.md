@@ -9,9 +9,9 @@ zip: '90024'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=223902958'
 ntee_type: ''
 tags_indicators:
-  - Voting & civic engagement
+  - Early childhood
   - Community health
-  - Social connectedness
+  - Education & youth
   - Health
 twitter: '@child_360'
 instagram: '@child_360'
@@ -33,6 +33,18 @@ title: Child360 (formerly Los Angeles Universal Preschool)
 uri: /organizations/child360-formerly-los-angeles-universal-preschool/
 challenge_url: >-
   https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
+extrapolated_project_ids:
+  - '8102018'
+project_titles_from_extrapolated_project_ids:
+  - 'Community: Where strong families are made '
+project_titles:
+  - 'Community: Where strong families are made '
+project_titles_from_project_ids:
+  - 'Community: Where strong families are made '
+original_project_titles:
+  - 'Community: Where strong families are made'
+original_project_ids:
+  - '8102018'
 category: connect
 
 ---

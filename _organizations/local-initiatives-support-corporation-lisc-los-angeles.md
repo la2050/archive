@@ -28,10 +28,26 @@ project_ids: '5102179'
 title: Local Initiatives Support Corporation (LISC) Los Angeles
 uri: /organizations/local-initiatives-support-corporation-lisc-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'
+extrapolated_project_ids:
+  - '5102179'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Creating culturally vibrant commercial corridors in LAs diverse
+    neighborhoods
 project_titles:
   - >-
     Creating culturally vibrant commercial corridors in LAs diverse
     neighborhoods
+project_titles_from_project_ids:
+  - >-
+    Creating culturally vibrant commercial corridors in LAs diverse
+    neighborhoods
+original_project_titles:
+  - >-
+    Creating culturally vibrant commercial corridors in LA's diverse
+    neighborhoods
+original_project_ids:
+  - '5102179'
 maker_image_id: '23259'
 maker_image_file_name: picture_1.jpg
 

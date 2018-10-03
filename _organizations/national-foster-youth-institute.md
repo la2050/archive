@@ -38,5 +38,17 @@ title: National Foster Youth Institute
 uri: /organizations/national-foster-youth-institute/
 challenge_url: >-
   https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
+extrapolated_project_ids:
+  - '6102163'
+project_titles_from_extrapolated_project_ids:
+  - 'Foster Youth and Families: Joining Voices for Change'
+project_titles:
+  - 'Foster Youth and Families: Joining Voices for Change'
+project_titles_from_project_ids:
+  - 'Foster Youth and Families: Joining Voices for Change'
+original_project_titles:
+  - 'Foster Youth and Families: Joining Voices for Change'
+original_project_ids:
+  - '6102163'
 
 ---

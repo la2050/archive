@@ -26,5 +26,17 @@ project_ids: '6102168'
 title: Habidatum
 uri: /organizations/habidatum/
 challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'
+extrapolated_project_ids:
+  - '6102168'
+project_titles_from_extrapolated_project_ids:
+  - 'LA: Easy Access'
+project_titles:
+  - 'LA: Easy Access'
+project_titles_from_project_ids:
+  - 'LA: Easy Access'
+original_project_titles:
+  - 'LA: Easy Access'
+original_project_ids:
+  - '6102168'
 
 ---

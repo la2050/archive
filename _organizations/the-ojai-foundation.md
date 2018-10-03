@@ -31,5 +31,29 @@ title: The Ojai Foundation
 uri: /organizations/the-ojai-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/community-circle-space-initiative-creating-a-place-and-sharing-a-process-for-authentic-connection
+extrapolated_project_ids:
+  - '6102252'
+  - '5102308'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Community Circle Space Initiative: Creating a place and sharing a process
+    for authentic connection
+  - 'Council in Schools: Building Council Cultures and Spaces at 6 LA Schools'
+project_titles:
+  - >-
+    Community Circle Space Initiative: Creating a place and sharing a process
+    for authentic connection
+  - 'Council in Schools: Building Council Cultures and Spaces at 6 LA Schools'
+project_titles_from_project_ids:
+  - >-
+    Community Circle Space Initiative: Creating a place and sharing a process
+    for authentic connection
+original_project_titles:
+  - >-
+    Community Circle Space Initiative: Creating a place and sharing a process
+    for authentic connection 
+original_project_ids:
+  - '6102252'
+project_titles_flagged: 1
 
 ---

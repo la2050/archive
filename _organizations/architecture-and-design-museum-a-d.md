@@ -27,8 +27,18 @@ project_ids: '5102019'
 title: Architecture and Design Museum (A+D)
 uri: /organizations/architecture-and-design-museum-a-d/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
+extrapolated_project_ids:
+  - '5102019'
+project_titles_from_extrapolated_project_ids:
+  - ReveaLALA
 project_titles:
   - ReveaLALA
+project_titles_from_project_ids:
+  - ReveaLALA
+original_project_titles:
+  - ReveaLALA
+original_project_ids:
+  - '5102019'
 maker_image_id: '23861'
 maker_image_file_name: AplusD-ReveaLALA.jpg
 

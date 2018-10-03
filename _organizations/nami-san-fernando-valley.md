@@ -31,5 +31,25 @@ title: NAMI San Fernando Valley
 uri: /organizations/nami-san-fernando-valley/
 challenge_url: >-
   https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
+extrapolated_project_ids:
+  - '6102160'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    NAMI Home Front  is people impacted by mental illness helping Veterans and
+    their families.
+project_titles:
+  - >-
+    NAMI Home Front  is people impacted by mental illness helping Veterans and
+    their families.
+project_titles_from_project_ids:
+  - >-
+    NAMI Home Front  is people impacted by mental illness helping Veterans and
+    their families.
+original_project_titles:
+  - >-
+    NAMI Home Front  is people impacted by mental illness helping Veterans and
+    their families.
+original_project_ids:
+  - '6102160'
 
 ---

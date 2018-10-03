@@ -12,7 +12,7 @@ tags_indicators:
   - Access to healthy food
   - Community health
   - Health
-twitter: 0
+twitter: ''
 instagram: www.instagram.com/supr.mrkt
 facebook: www.facebook.com/suprmarkt
 org_type: Nonprofit
@@ -33,6 +33,16 @@ project_ids: '8102113'
 title: 'SÜPRSEED, Inc.'
 uri: /organizations/süprseed-inc/
 challenge_url: 'https://activation.la2050.org/live/süprseed/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
+project_titles_from_project_ids:
+  - Bring Fresh Food Where it's Needed with Education + Access via SÃœPRMARKT
+original_project_titles:
+  - Bring Fresh Food Where it's Needed with Education + Access via SÜPRMARKT
+original_project_ids:
+  - '8102113'
 category: live
 
 ---

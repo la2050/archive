@@ -41,5 +41,17 @@ title: 'WOW Imagined, Inc.'
 uri: /organizations/wow-imagined-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
+extrapolated_project_ids:
+  - '6102286'
+project_titles_from_extrapolated_project_ids:
+  - 'WOW on Wheels: Creating New Paradigms Through Intergenerational EDUPlay'
+project_titles:
+  - 'WOW on Wheels: Creating New Paradigms Through Intergenerational EDUPlay'
+project_titles_from_project_ids:
+  - 'WOW on Wheels: Creating New Paradigms Through Intergenerational EDUPlay'
+original_project_titles:
+  - 'WOW on Wheels: Creating New Paradigms Through Intergenerational EDUPlay'
+original_project_ids:
+  - '6102286'
 
 ---

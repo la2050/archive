@@ -28,6 +28,7 @@ project_image: >-
 project_video: 'https://youtu.be/hYxxWm_J0Yc'
 project_id_3: '8102136'
 year_submitted: 2018
+organization_name: We Are Enough c/o Social & Environmental Entrepreneurs
 project_proposal_description: >-
   For the FIRST TIME, through a multi-year campaign, thousands of women in LA
   and millions around the world will be activated to invest an average of $1000.

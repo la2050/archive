@@ -31,6 +31,37 @@ project_ids: '8102014'
 title: CASA of Los Angeles
 uri: /organizations/casa-of-los-angeles/
 challenge_url: 'https://activation.la2050.org/connect/casa-of-los-angeles/'
+extrapolated_project_ids:
+  - '8102014'
+  - '6102032'
+  - '5102043'
+  - '4102031'
+project_titles_from_extrapolated_project_ids:
+  - 'Youth to Youth: Helping Young Adults Exit Foster Care'
+  - College Collaborative for Foster Care Youth
+  - Be a Voice for LAs Foster Care Children!
+  - Speak up for the child – become an advocate for foster children in need!
+project_titles:
+  - Be a Voice for LAs Foster Care Children!
+  - College Collaborative for Foster Care Youth
+  - Speak up for the child – become an advocate for foster children in need!
+  - 'Youth to Youth: Helping Young Adults Exit Foster Care'
+project_titles_from_project_ids:
+  - 'Youth to Youth: Helping Young Adults Exit Foster Care'
+original_project_titles:
+  - Be a Voice for LA's Foster Care Children!
+  - Be a Voice for LA's Foster Care Children!
+  - Be the Voice of LA's Foster Care Children!
+  - College Collaborative for Foster Care Youth
+  - Speak up for the child – become an advocate for foster children in need!
+  - 'Youth to Youth: Helping Young Adults Exit Foster Care'
+original_project_ids:
+  - '4102031'
+  - '5102043'
+  - '5102043'
+  - '6102032'
+  - '8102014'
+project_titles_flagged: 1
 category: connect
 
 ---

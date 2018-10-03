@@ -27,8 +27,18 @@ project_ids: '5102104'
 title: Foundation for Second Chances
 uri: /organizations/foundation-for-second-chances/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'
+extrapolated_project_ids:
+  - '5102104'
+project_titles_from_extrapolated_project_ids:
+  - Creating Brighter Futures through Second Chances
 project_titles:
   - Creating Brighter Futures through Second Chances
+project_titles_from_project_ids:
+  - Creating Brighter Futures through Second Chances
+original_project_titles:
+  - Creating Brighter Futures through Second Chances
+original_project_ids:
+  - '5102104'
 youtube_video_identifier: c9y0Bp8kgT4
 
 ---

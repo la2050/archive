@@ -40,6 +40,16 @@ project_ids: '8102109'
 title: Small Business Majority
 uri: /organizations/small-business-majority/
 challenge_url: 'https://activation.la2050.org/create/small-business-majority/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Supporting the entrepreneurs who create a vibrant Los Angeles
+project_titles_from_project_ids:
+  - Supporting the entrepreneurs who create a vibrant Los Angeles
+original_project_titles:
+  - Supporting the entrepreneurs who create a vibrant Los Angeles
+original_project_ids:
+  - '8102109'
 category: create
 
 ---

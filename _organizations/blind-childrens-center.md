@@ -28,10 +28,26 @@ project_ids: '5102030'
 title: Blind Children's Center
 uri: /organizations/blind-childrens-center/
 challenge_url: 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
+extrapolated_project_ids:
+  - '5102030'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Blind Childrens Center to strengthen new Social Skills Program with CREATIVE
+    GROWTH CENTER
 project_titles:
   - >-
     Blind Childrens Center to strengthen new Social Skills Program with CREATIVE
     GROWTH CENTER
+project_titles_from_project_ids:
+  - >-
+    Blind Childrens Center to strengthen new Social Skills Program with CREATIVE
+    GROWTH CENTER
+original_project_titles:
+  - >-
+    Blind Children's Center to strengthen new Social Skills Program with
+    CREATIVE GROWTH CENTER
+original_project_ids:
+  - '5102030'
 youtube_video_identifier: z__BDhvkp9Q
 
 ---

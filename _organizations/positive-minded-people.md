@@ -28,8 +28,19 @@ project_ids: '4102072'
 title: Positive Minded People
 uri: /organizations/positive-minded-people/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
+extrapolated_project_ids:
+  - '4102171'
+project_titles_from_extrapolated_project_ids:
+  - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
 project_titles:
   - Mobilize 10000+ LA Residents Into Volunteerism Using DoGooder.LA
+project_titles_from_project_ids:
+  - FORT (Resident Makers Program to help creatives start their own companies).
+original_project_titles:
+  - 'Mobilize 10,000+ LA Residents Into Volunteerism Using DoGooder.LA'
+original_project_ids:
+  - '4102171'
+project_titles_flagged: 1
 maker_image_id: '22152'
 maker_image_file_name: Image_for_Good.jpg
 

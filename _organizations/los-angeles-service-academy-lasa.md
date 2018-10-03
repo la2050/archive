@@ -44,6 +44,24 @@ project_ids: '8102077'
 title: Los Angeles Service Academy (LASA)
 uri: /organizations/los-angeles-service-academy-lasa/
 challenge_url: 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
+extrapolated_project_ids:
+  - '6102145'
+project_titles_from_extrapolated_project_ids:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
+project_titles:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
+  - Students Engaging Los Angeles
+  - The Los Angeles Service Academy
+  - The Los Angeles Service Academy
+project_titles_from_project_ids:
+  - Students Engaging Los Angeles
+original_project_titles:
+  - Los Angeles is a Puzzle; Together We Make Sense of It
+  - Students Engaging Los Angeles
+original_project_ids:
+  - '6102145'
+  - '8102077'
+project_titles_flagged: 1
 category: learn
 
 ---

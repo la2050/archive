@@ -31,5 +31,27 @@ title: Tickleberry Place
 uri: /organizations/tickleberry-place/
 challenge_url: >-
   https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
+extrapolated_project_ids:
+  - '6102265'
+  - '5102319'
+  - '4102235'
+project_titles_from_extrapolated_project_ids:
+  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+  - A Healthy & Sustainable Environment to Play for Families in South LA
+  - Tickleberry Place
+project_titles:
+  - A Healthy & Sustainable Environment to Play for Families in South LA
+  - Tickleberry Place
+  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+project_titles_from_project_ids:
+  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+original_project_titles:
+  - A Healthy & Sustainable Environment to Play for Families in South LA
+  - Tickleberry Place Indoor Play Gym
+  - 'Tickleberry Place, a mobile PLAY, EXPLORE and LEARN pop-up'
+original_project_ids:
+  - '5102319'
+  - '6102265'
+project_titles_flagged: 1
 
 ---

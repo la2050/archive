@@ -5,7 +5,7 @@ title: Big Sing LA
 project_summary: >-
   Big Sing LA is a free multi-generational event that invites everyone
   regardless of ability or background to come together to learn new songs and
-  sing familiar ones at selected parks in Los Angeles.  
+  sing familiar ones at selected parks in Los Angeles.
 Please describe the activation your organization seeks to launch.: >-
   Big Sing LA 2019 will bring together thousands of individuals and families at
   selected parks throughout Los Angeles to join and play music through a shared
@@ -35,6 +35,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=hYsa-tWNTm8'
 project_id_3: '8102076'
 year_submitted: 2018
+organization_name: Los Angeles Master Chorale
 project_proposal_description: >-
   Big Sing LA 2019 will bring together thousands of individuals and families at
   selected parks throughout Los Angeles to join and play music through a shared

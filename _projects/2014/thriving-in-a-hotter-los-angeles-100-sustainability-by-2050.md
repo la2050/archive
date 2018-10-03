@@ -1,7 +1,9 @@
 ---
 project_id: '4102185'
 title: Thriving in a Hotter Los Angeles—100% Sustainability by 2050
-project_summary: ''
+project_summary: >-
+  UCLA's "Hotter LA Project” pursues 100% sustainability in water, energy, and
+  nature in the LA region by 2050.
 category: live
 organization_id: '2014190'
 year_submitted: 2014
@@ -43,6 +45,404 @@ project_areas:
   - SOUTH LA
   - SGV
   - SFV
+maker_answers:
+  city_state: Los Angeles
+  org_name: UCLA Grand Challenges
+  org_website: www.grandchallenges.ucla.edu
+  org_twitter: www.twitter.com/UCLAgc
+  org_facebook: www.facebook.com/UCLAgc
+  org_instagram: www.instagram.com/UCLAgrandchallenges
+  org_mailingaddress: "UCLA\r\n2248 Murphy Hall\r\nMail Code 140501\r\nLos Angeles, CA 90095-1405"
+  EIN: '956006143'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '1'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: >-
+    The UCLA Grand Challenges initiative brings together faculty, students and
+    partners to solve critical issues.
+  describe_idea: >-
+    UCLA's "Hotter LA Project” pursues 100% sustainability in water, energy, and
+    nature in the LA region by 2050.
+  describe_organization: >-
+    Bold vision for LA Region: @UCLAgc & partners pursue 100% sustainability in
+    energy, water & nature #LA2050 #grandchallenges
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "The “Thriving in a Hotter Los Angeles” (Hotter LA) Grand Challenge Project commits to transform the LA region to 100% sustainability in water, energy, and nature by 2050. This means the region will produce all energy locally with renewable sources and rely exclusively on local water supply while protecting biodiversity. This transformation will require game-changing technologies, new policies, and an evolved urban fabric.\r\n\r\nIn 2013, UCLA publicly announced our commitment to deliver, by 2019, a plan for sustainability (2019 Plan). In the 1-year grant period, we will increase visibility of the effort, strengthen key stakeholder relationships and publish a draft work plan. "
+  implement: "Three key resources underpin the economic, social, and environmental well-being of the LA region: the energy that powers our economy, the water that supports life and activity, and the weather and physical landscapes that shape our lifestyles and culture. All three are essential to our quality of life and are deeply intertwined with climate change and the immense challenges and opportunities it represents. The world must get on a path to renewable energy to avert the most extreme consequences of climate change. Even if the transition to renewables occurs immediately, significant climate change is inevitable, and water scarcity may be its most important consequence.  \r\n\r\nResilient communities will need to simultaneously mitigate and adapt.  LA can lead the way. By becoming self-sufficient and sustainable in energy and water in harmony with the region's ecosystems and cultural identity, we will ensure our own access to these critical resources as well as a healthier and more prosperous future. Our example will drive similar transformations in urban areas across the globe and create worldwide demand for local expertise and products. \r\n\r\nThe Hotter LA Project unites dozens of UCLA’s most prominent scientists and scholars with key public and private stakeholders around a common goal: full sustainability in the LA region by 2050. By 2019, we will produce a plan detailing the new technologies and efficiencies required to obtain all energy and water from local and renewable sources in a way that’s economical, socially equitable, and supportive of the LA region’s unique biodiversity.  We will map out the required actions to modernize energy, water, and transportation systems; enhance the built and natural environment; define new policy and legal frameworks; and heighten social responsibility, thereby transforming the urban fabric and mitigating the effects of climate change.\r\n\r\nIn the 1-year grant period, we will focus on the following objectives:\r\na) Creating a working outline of the 2019 Plan and a project management timeline\r\nb) Increasing the number and depth of partnerships with critical stakeholder groups\r\nc) Raising public awareness of and support for the effort\r\n\r\nIn summary, we are committed to making all parts of the city resilient in alignment with the LA2050 goals.\r\n"
+  impact_live: "Raising awareness about the Hotter LA Project, gathering support, and developing the infrastructure for this intense and complex collaboration TODAY lays the crucial foundation for the success of this project and a healthier, greener Los Angeles. We will realize benefits from these transformations long before 2050.\r\n\r\nHere’s how achieving the Hotter LA 2050 objectives makes LA the healthiest place to live in 2050:\r\n\r\n-The transition to renewable energy and a carbon-free transportation infrastructure will eliminate the public health burden associated with fossil fuel--taking us off the list of US cities with the worst air quality.  \r\n\r\n-Transformed urban spaces and cleaner oceans offer greater opportunities to be active in natural outdoor spaces where our unique biodiversity can be celebrated.\r\n\r\n-The creation of substantial bicycle and pedestrian infrastructure will provide active commuting options that improve health and quality of life—reducing the number of vehicles on the road as we currently have more than any other urban area in the world.\r\n\r\nThe compound effect of these changes will result in the LA region becoming healthier, eliminating current environmental injustices so that all communities have minimal environmental health risks.  We will see a notable reduction in asthma attacks, heart attacks, and premature death."
+  who_benefit: "By 2050, it is estimated that 70% of the world’s population will live in cities and face the same urban environmental concerns currently present in the LA region: limited resources, smog, water waste, traffic congestion, increased heat and rising sea levels.\r\n\r\nThe Hotter LA Project is designed to achieve maximum societal impact. Even before we reach the 2050 goals, the steps made in approach of 100% sustainability will have positive benefits for all citizens and communities in the entire LA region. Millions of people will have cleaner air, safe, sustainable energy and water, and improved quality of life. We expect this effort to become a model for how other megacities might achieve sustainability through goal setting and cross-sector collaboration. Lessons learned here will be shared with communities across the state, nation, and globe."
+  partners_collaboration: "Robust partnerships with a wide variety of stakeholders are critical to the success of the project and to the eventual implementation of the 2019 Plan. Key stakeholder groups include: \r\n\r\nLocal, State, and Federal Government: LA City and County leaders and even the White House administration are aware of this project and have confirmed broad support for our goals. Members of the Hotter LA team have active research and consulting engagements with the City of Los Angeles, County of Los Angeles, and federal agencies. Critical Success Factor: We must expand relationships with all government stakeholder groups, become fluent with their complex structures, and find ways to connect beyond existing relationships to ensure that the right people are engaged, improve the feasibility of the 2050 plan, and obtain buy-in from groups that will have significant responsibility with implementation.\r\n\r\nIndustry: The expansion of industry partnerships is a priority for this Project. Through early engagement of industry, we gain a greater understanding of needs and aligned interests as related to the goals of the project. Critical Success Factor: While a number of relationships currently exist, we must develop more extensive relationships with industry and foster more entity-level engagement.\r\n\r\nPhilanthropy: Hotter LA represents our most ambitious fundraising effort to date. We believe that there is great opportunity to engage supporters of the university in new ways. Critical Success Factor: We must capture the imagination and commitment of individuals passionate about meeting the goals of the project.\r\n\r\nUCLA Campus and Other Universities: With full support from the UCLA Chancellor and the 140 faculty members involved, UCLA is deeply committed to this effort. Critical Success Factor: We will extend our reach outside of UCLA to include academic partners who can stimulate innovation and fill gaps.\r\n\r\nPublic: We will shift our public communications from broadcasts to dialogues. With increased interaction, we hope that LA citizens will learn about the proposed project, draw inspiration from it, and get involved. Critical Success Factor: An engaged and supportive Los Angeles community is essential. \r\n\r\nWith our partners, we will create a shared vision of the future, communicate openly and directly about opportunities and challenges, increase access to all types of resources (monetary, intellectual, data, etc.), and make progress on our collective commitment to the 2050 goals."
+  metrics_live_healthyfood: '0'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '1'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '1'
+  metrics_live_obesity: '0'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '1'
+  metrics_live_pollutedwaterways: '1'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '1'
+  metrics_live_other: '1'
+  metrics_live_blank: Others described in response below.
+  impact_metrics: "The benefits to be achieved with the Hotter LA Project are closely aligned with several LA2050 Metrics as summarized below: \r\n\r\n-New technologies and efficiencies position the region to cost-effectively obtain 100% energy from renewable sources and 100% water from local sources. (Metrics: Exposure to air toxins, Percent of imported water, Acres and miles of polluted waterways.)\r\n\r\n-The region's urban spaces are reimagined with increased green space supportive of Southern California’s native biodiversity. (Metrics: Percentage of tree canopy cover, Access to open space and park facilities.)\r\n\r\n-Clean energy and water and decarbonized transportation leads to more equitable outcomes for communities disproportionately burdened by pollution. (Metrics: Exposure to air toxins, Percentage of LA communities that are resilient.)\r\n\r\n-A county-wide bicycle and walking transportation network reduces traffic and provides faster, safer and greener commutes. (Metrics: Walk/bike/transit score, Other: Median travel time to work, Number of public transit riders, Transit-accessible housing and employment.)\r\n\r\n-The LA region is recognized as an innovation leader in the areas of water, energy, natural resource preservation, public health, and policy implementation. Climate change is transformed from crisis to opportunity. (Metrics: Other: Increased grant funding for environment and sustainability research, Patents per capita, Jobs per capita, Number of high growth start-ups, Venture capital investment, Measures of cultural and global economic influence.)\r\n"
+  best_place_to_create: '1'
+  best_place_to_play: '1'
+  best_place_to_connect: '1'
+  best_place_to_learn: '1'
+  evaluate: "An integral part of the 2019 Plan is the inclusion of specific metrics and milestones.  A representative sample of what will be included is below:  \r\n\r\nENERGY: Los Angeles moves to a diversified energy portfolio that is 100% renewable.  Our vision includes every rooftop in the LA region producing solar energy. Widespread adoption of solar will reduce carbon dioxide emissions and create jobs.  A recent UCLA study demonstrates that if LA county could achieve just 10% of its rooftop solar capacity it could create 47,000 jobs and slash nearly 2.5 million tons of carbon dioxide emissions annually--the equivalent of taking half a million cars off the road. \r\n\r\nWATER: The LA region no longer relies on importing 85% of our water.  We have access to plentiful, sustainable, and 100% local water. This will be achieved by reducing per capita water consumption to 50 gallons per day and significantly improving water reuse and recycle technologies.  \r\n\r\nBIODIVERSITY: The region’s transformation with energy and water is accomplished in a way that ensures no net loss of native biodiversity—preserving our status as one of Conservation International’s top 25 biodiversity hotspots and protecting the beauty of our natural spaces.  Biologists have projected that globally 50% of all living species might be lost by 2100, and virtually all of these losses are being driven by human activities.  \r\n  \r\nSuccess in the one-year grant period includes meeting the following commitments:  \r\n\r\n--Refining our Project Plan (creating a working draft outline for the 2019 Plan)\r\n--Expanding Partnerships \r\n--Increasing Public Outreach\r\n--Building Capacity\r\n--Engaging UCLA Students\r\n--Securing External Funding for the Project\r\n"
+  two_lessons: "Two lessons have informed the shape of our Grand Challenges initiative and our approach to the Hotter LA Project: \r\n\r\n1. COMPLEX CHALLENGES REQUIRE CREATIVE SOLUTIONS: As a research university, UCLA has the intellectual capital and resources it takes to explore society’s most challenging issues, and as a public research university, we have the obligation to develop solutions that improve quality of life in the U.S. and around the world. UCLA is made up of brilliant and innovative people who firmly believe that for every problem, there is a solution. Our faculty and students not only believe that anything is possible, they also frequently prove it. We call upon that spirit throughout the UCLA Grand Challenges initiative and the Hotter LA Project.\r\n\r\nSolving any of today’s most complex societal challenges—including those related to the environment and sustainability—requires not just expertise from one discipline but collaboration from a wide variety of disciplines. We’ll need inventions, policy solutions, law, education, economics, engineering, the basic sciences, public outreach strategies, and more. \r\n \r\n2. WE CAN’T DO THIS ALONE: Our environment is threatened to such a degree that basic research isn't enough. We’ll also have to show decision-makers clear applications of that research. Grand Challenge Projects differ from UCLA’s usual approach in scale and scope. These are cross-campus, “mega-research” collaborations — bigger and more transformative than anything we've done before. This means we need more coordination and more grassroots efforts focused on topics that people are passionate about. We must increase our partnerships with other universities, foundations, philanthropists, private industry, and government agencies. We’re calling for all hands on deck. Together, we’ll make breakthroughs that will benefit Los Angeles and the world.\r\n"
+  achievable_goal: "With more than 140 faculty members committed to the goals of the Hotter LA Project, UCLA is in a unique position to lead this effort. Among these faculty members are the top experts in the areas of climate change, water quality and supply, smart grid technology, renewable energy, public policy, law, environmental justice, air quality, biofuels, sustainability and more. \r\n\r\nOver the past year, we have been building internal support and an infrastructure to support the project team. Notably, Mark Gold, D.Env. (former president of Heal the Bay and currently acting director of UCLA’s Institute of the Environment and Sustainability), recently accepted the role of academic lead for the project. In August 2014, our new full-time Hotter LA Project Director (Cassie Rauser, PhD), begins her role as project manager. Concurrently, we are interviewing candidates to serve as the principal fundraising officer for this project. \r\n\r\nThis accomplished team will work closely with various marketing, communications, research and administrative offices on campus (Chancellor’s Office, government relations, media relations, research administration, intellectual property and industry sponsored research, etc.), to ensure that UCLA achieves the 12-month objectives outlined above: \r\n\r\n-Refine our Project Plan (creating a working draft outline for the 2019 deliverable)\r\n-Expand Partnerships \r\n-Increase Public Outreach\r\n-Build Capacity\r\n-Engage UCLA Students\r\n-Secure external funding for the Hotter LA Project \r\n\r\nAll of these deliverables are important contributors to the 2050 goal of achieving sustainability in the LA region."
+  major_challenges: "We have identified three major barriers associated with creating the 2019 Plan to transform the LA region to 100% sustainability: Financial Resources; Skepticism; and Integration.\r\n\r\nFINANCIAL RESOURCES: The first major challenge will be acquiring the financial resources necessary to create the 2019 Plan, which requires new research (engineering, technologies, regulatory, materials etc.), significant outreach and consensus building, and proof of concept test beds (est. $150M). While the figure is daunting, our strategy is to draw from a combination of government, industry and philanthropic funding sources. Our efforts are bolstered by a number of factors:\r\n\r\n- The inclusion of the Hotter LA Project as a centerpiece in UCLA’s $4.2B Centennial Campaign celebrating our 100 year anniversary. \r\n\r\n- Plans to establish a donor advisory board comprised of individuals with a shared vision for the future of Los Angeles.\r\n\r\n- Hiring of a new fundraising professional to pursue philanthropic support for the project. \r\n\r\nSKEPTICISM: The second major challenge is skepticism, which is often the first reaction to the seemingly impossible goals of the Hotter LA Project. We have been assured by our faculty experts that the goals are achievable. Our frequent motto is that we certainly won’t achieve these goals if we don’t strive for them. Our strategy for dealing with criticism is to listen to it, analyze it, and if appropriate, correct our course. And in fact, this strategy has proven successful as we have watched our skeptics convert to our biggest advocates, as they too become inspired by the pursuit of solutions to grand challenges. \r\n\r\nINTEGRATION: The third challenge we have encountered is integration. The process for defining and pursuing solutions to grand challenges requires our faculty members to visualize their work beyond the traditional boundaries of their disciplines. We ask them to work with individuals with all kinds of expertise and points of view and to identify common goals. Getting this many people to work together on this scale isn't easy. We have learned much from the two years we've spent shaping this initiative, and our success with the engagement of faculty proves that they also believe that they can achieve the impossible. \r\n\r\nThere are still many barriers to overcome; our strategy is to be flexible and adaptable and to keep our sights set on the big goals as we build synergies."
+  competition: "The term “grand challenge” is widely used. UCLA Grand Challenges was inspired in part by a White House effort to encourage universities to pursue solutions to grand challenges: Ambitious but achievable goals that harness science, technology, and innovation to solve important national or global problems and that have the potential to capture the public’s imagination. UCLA Grand Challenge Projects are carefully developed to meet particular criteria. They must be specific, measurable, achievable, relevant, time-bound and relevant to the public. Drawing on campus experts who approach each topic from varying perspectives, UCLA is strategically positioned to address each Grand Challenge Project. \r\n\r\nThe Hotter LA Project is UCLA’s first Grand Challenge Project. And while many entities have initiatives or research programs focused on environment and sustainability, we are not aware of another which has adopted as specific, multifaceted, and ambitious a goal. During a trip to Washington D.C. during spring 2014, this sense of the landscape was confirmed in meeting after meeting with representatives from Congress, federal agencies and program officers.\r\n\r\nUnique factors of our program include:\r\n\r\n-Its evolution: the specific goals were driven by faculty researchers with the support of campus administration.\r\n\r\n-The approach: no single researcher or small team can solve the issue. \r\n\r\n-Scale and scope: nearly 140 faculty members have committed to engage in efforts to meet the goals of the project, representing 30 academic departments. To achieve the goals will require collaboration and integration between faculty members, administrative units, and also great support of external partners.\r\n\r\n-Perfect alignment with campus priorities: It provides the means to fulfill the tripartite mission of the campus—teaching, research and service—in a single effort.\r\n\r\n-The funding strategy: we intend to leverage multiple funding sources to help us meet the goals of the project."
+  cost: "The creation of the 2019 Plan will cost approximately $150M for new research, outreach and consensus building, and proof of concept test beds. Partnership with the Goldhirsh Foundation is essential to help us lay the critical initial foundation. \r\n\r\nThe new project manager will define the scope of the project, identify potential investors (government, industry, philanthropy) and create strategies with campus leadership to secure funding.  \r\n\r\nThere are several reasons we are confident that this approach will work, including:\r\n\r\n-The inclusion of the Hotter LA Project as a centerpiece in UCLA’s $4.2B Centennial Campaign. The campus and its supporters are energized by UCLA’s accomplishments in its 100-year history. The Hotter LA Project and future grand challenge projects promise to exponentially increase UCLA’s impact in the decades to come.\r\n\r\n-The significant federal, state, and local investment in research and planning related to environment and sustainability issues and resiliency. In 2012, the federal government spent approximately $8.8 billion on environmental R&D (Source: NCSE Federal Funding for Environmental Research and Development 2012) and this amount has increased in subsequent years. The Hotter LA Project will better position the university to pursue large, team-based funding opportunities. \r\n\r\n-The connection of individual projects to a larger overarching goal. Individuals are more comfortable investing when their investment will be leveraged with others for greater impact. It is also easier for a lay audience to understand the impact of research when we link to an inspirational plan that provides clear benefits to quality of life. \r\n\r\nThe Hotter LA Project has reached a pivotal point. We have our project leadership, but we need funds that may be strategically invested. We need attention for the project to increase the public’s awareness and support. We ask Goldhirsh Foundation to: (1) invest in us with start-up funds; and (2) help us promote the project. Together we will transform the relationship between energy, water and nature in the Los Angeles region and become a model for sustainable cities all over the world."
+  budget: "The funds we seek from the Goldhirsh Foundation position the Hotter LA Project for success. The structure of the budget aligns with the project deliverables.\r\n2019 PLAN: Cassie Rauser, PhD, begins as the full-time Hotter LA Project manager on 8/5/14. She will work closely with Mark Gold (faculty lead) to create a working outline of the 2019 Plan this year. This effort will take into account existing related UCLA research and scholarship. Funding of $18,000 provides for hiring 2 students to help with inventory process and team cultivation activities.\r\nEXPAND PARTNERSHIPS:  Engaging key stakeholders early is critical to understand various perspectives about each issue and create solutions that are feasible with vested supporters. Funding of $25,000 provides 1 student worker in the UCLA government relations office and targeted events to cultivate and enrich partnerships.\r\nINCREASE PUBLIC OUTREACH:  Public support and engagement is critical to the success of the Hotter LA Project. We need assistance with developing a robust outreach strategy that assures that LA citizens will learn about the proposed project, draw inspiration from it, and get involved. Funding of $20,000 will contribute to public outreach activities such as the limited engagement of a PR firm to help us increase awareness and exposure. \r\nBUILD CAPACITY:  Extramural research funding creates local jobs and drives innovation. To position our researchers to be more successful, we will invest in strengthening our research foundation.  $7,500 will enable additional professional development programming designed specifically for the Hotter LA Project team.\r\nIMMERSE STUDENTS:  By engaging students in the pursuit of solutions, we will inspire the next generation of leaders charged to solve these great problems, access creative ideas and new approaches, and provide a unique and fulfilling educational experience. Funding of $4,500 will contribute towards student research projects and other practical experiences linked to the Hotter LA Project.\r\nSECURE FUNDING: The above investments and deliverables will position UCLA to secure funding required to bring the vision to a reality. No additional funds required for this purpose.\r\nSummary:\r\n$18,000--Working Outline of the 2019 Plan \r\n$25,000--Expand Partnerships\r\n$20,000--Increase Public Outreach & Awareness\r\n$7,500--Build Capacity\r\n$4,500--Immerse Students\r\n$0--Secure Funding\r\n$25,000--Indirect Costs (25%)\r\n=$100,000 TOTAL\r\n\r\nNote 7/30/14 letter from E. Garcia."
+  resources_money: '1'
+  resources_staff: '0'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: Los Angeles
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: UCLA Grand Challenges
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: www.grandchallenges.ucla.edu
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/UCLAgc
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: www.facebook.com/UCLAgc
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: www.instagram.com/UCLAgrandchallenges
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "UCLA\r\n2248 Murphy Hall\r\nMail Code 140501\r\nLos Angeles, CA 90095-1405"
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '956006143'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '1'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      The UCLA Grand Challenges initiative brings together faculty, students and
+      partners to solve critical issues.
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      UCLA's "Hotter LA Project” pursues 100% sustainability in water, energy,
+      and nature in the LA region by 2050.
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      Bold vision for LA Region: @UCLAgc & partners pursue 100% sustainability
+      in energy, water & nature #LA2050 #grandchallenges
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: "The “Thriving in a Hotter Los Angeles” (Hotter LA) Grand Challenge Project commits to transform the LA region to 100% sustainability in water, energy, and nature by 2050. This means the region will produce all energy locally with renewable sources and rely exclusively on local water supply while protecting biodiversity. This transformation will require game-changing technologies, new policies, and an evolved urban fabric.\r\n\r\nIn 2013, UCLA publicly announced our commitment to deliver, by 2019, a plan for sustainability (2019 Plan). In the 1-year grant period, we will increase visibility of the effort, strengthen key stakeholder relationships and publish a draft work plan. "
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "Three key resources underpin the economic, social, and environmental well-being of the LA region: the energy that powers our economy, the water that supports life and activity, and the weather and physical landscapes that shape our lifestyles and culture. All three are essential to our quality of life and are deeply intertwined with climate change and the immense challenges and opportunities it represents. The world must get on a path to renewable energy to avert the most extreme consequences of climate change. Even if the transition to renewables occurs immediately, significant climate change is inevitable, and water scarcity may be its most important consequence.  \r\n\r\nResilient communities will need to simultaneously mitigate and adapt.  LA can lead the way. By becoming self-sufficient and sustainable in energy and water in harmony with the region's ecosystems and cultural identity, we will ensure our own access to these critical resources as well as a healthier and more prosperous future. Our example will drive similar transformations in urban areas across the globe and create worldwide demand for local expertise and products. \r\n\r\nThe Hotter LA Project unites dozens of UCLA’s most prominent scientists and scholars with key public and private stakeholders around a common goal: full sustainability in the LA region by 2050. By 2019, we will produce a plan detailing the new technologies and efficiencies required to obtain all energy and water from local and renewable sources in a way that’s economical, socially equitable, and supportive of the LA region’s unique biodiversity.  We will map out the required actions to modernize energy, water, and transportation systems; enhance the built and natural environment; define new policy and legal frameworks; and heighten social responsibility, thereby transforming the urban fabric and mitigating the effects of climate change.\r\n\r\nIn the 1-year grant period, we will focus on the following objectives:\r\na) Creating a working outline of the 2019 Plan and a project management timeline\r\nb) Increasing the number and depth of partnerships with critical stakeholder groups\r\nc) Raising public awareness of and support for the effort\r\n\r\nIn summary, we are committed to making all parts of the city resilient in alignment with the LA2050 goals.\r\n"
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: "Raising awareness about the Hotter LA Project, gathering support, and developing the infrastructure for this intense and complex collaboration TODAY lays the crucial foundation for the success of this project and a healthier, greener Los Angeles. We will realize benefits from these transformations long before 2050.\r\n\r\nHere’s how achieving the Hotter LA 2050 objectives makes LA the healthiest place to live in 2050:\r\n\r\n-The transition to renewable energy and a carbon-free transportation infrastructure will eliminate the public health burden associated with fossil fuel--taking us off the list of US cities with the worst air quality.  \r\n\r\n-Transformed urban spaces and cleaner oceans offer greater opportunities to be active in natural outdoor spaces where our unique biodiversity can be celebrated.\r\n\r\n-The creation of substantial bicycle and pedestrian infrastructure will provide active commuting options that improve health and quality of life—reducing the number of vehicles on the road as we currently have more than any other urban area in the world.\r\n\r\nThe compound effect of these changes will result in the LA region becoming healthier, eliminating current environmental injustices so that all communities have minimal environmental health risks.  We will see a notable reduction in asthma attacks, heart attacks, and premature death."
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "By 2050, it is estimated that 70% of the world’s population will live in cities and face the same urban environmental concerns currently present in the LA region: limited resources, smog, water waste, traffic congestion, increased heat and rising sea levels.\r\n\r\nThe Hotter LA Project is designed to achieve maximum societal impact. Even before we reach the 2050 goals, the steps made in approach of 100% sustainability will have positive benefits for all citizens and communities in the entire LA region. Millions of people will have cleaner air, safe, sustainable energy and water, and improved quality of life. We expect this effort to become a model for how other megacities might achieve sustainability through goal setting and cross-sector collaboration. Lessons learned here will be shared with communities across the state, nation, and globe."
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Robust partnerships with a wide variety of stakeholders are critical to the success of the project and to the eventual implementation of the 2019 Plan. Key stakeholder groups include: \r\n\r\nLocal, State, and Federal Government: LA City and County leaders and even the White House administration are aware of this project and have confirmed broad support for our goals. Members of the Hotter LA team have active research and consulting engagements with the City of Los Angeles, County of Los Angeles, and federal agencies. Critical Success Factor: We must expand relationships with all government stakeholder groups, become fluent with their complex structures, and find ways to connect beyond existing relationships to ensure that the right people are engaged, improve the feasibility of the 2050 plan, and obtain buy-in from groups that will have significant responsibility with implementation.\r\n\r\nIndustry: The expansion of industry partnerships is a priority for this Project. Through early engagement of industry, we gain a greater understanding of needs and aligned interests as related to the goals of the project. Critical Success Factor: While a number of relationships currently exist, we must develop more extensive relationships with industry and foster more entity-level engagement.\r\n\r\nPhilanthropy: Hotter LA represents our most ambitious fundraising effort to date. We believe that there is great opportunity to engage supporters of the university in new ways. Critical Success Factor: We must capture the imagination and commitment of individuals passionate about meeting the goals of the project.\r\n\r\nUCLA Campus and Other Universities: With full support from the UCLA Chancellor and the 140 faculty members involved, UCLA is deeply committed to this effort. Critical Success Factor: We will extend our reach outside of UCLA to include academic partners who can stimulate innovation and fill gaps.\r\n\r\nPublic: We will shift our public communications from broadcasts to dialogues. With increased interaction, we hope that LA citizens will learn about the proposed project, draw inspiration from it, and get involved. Critical Success Factor: An engaged and supportive Los Angeles community is essential. \r\n\r\nWith our partners, we will create a shared vision of the future, communicate openly and directly about opportunities and challenges, increase access to all types of resources (monetary, intellectual, data, etc.), and make progress on our collective commitment to the 2050 goals."
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Others described in response below.
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "The benefits to be achieved with the Hotter LA Project are closely aligned with several LA2050 Metrics as summarized below: \r\n\r\n-New technologies and efficiencies position the region to cost-effectively obtain 100% energy from renewable sources and 100% water from local sources. (Metrics: Exposure to air toxins, Percent of imported water, Acres and miles of polluted waterways.)\r\n\r\n-The region's urban spaces are reimagined with increased green space supportive of Southern California’s native biodiversity. (Metrics: Percentage of tree canopy cover, Access to open space and park facilities.)\r\n\r\n-Clean energy and water and decarbonized transportation leads to more equitable outcomes for communities disproportionately burdened by pollution. (Metrics: Exposure to air toxins, Percentage of LA communities that are resilient.)\r\n\r\n-A county-wide bicycle and walking transportation network reduces traffic and provides faster, safer and greener commutes. (Metrics: Walk/bike/transit score, Other: Median travel time to work, Number of public transit riders, Transit-accessible housing and employment.)\r\n\r\n-The LA region is recognized as an innovation leader in the areas of water, energy, natural resource preservation, public health, and policy implementation. Climate change is transformed from crisis to opportunity. (Metrics: Other: Increased grant funding for environment and sustainability research, Patents per capita, Jobs per capita, Number of high growth start-ups, Venture capital investment, Measures of cultural and global economic influence.)\r\n"
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "An integral part of the 2019 Plan is the inclusion of specific metrics and milestones.  A representative sample of what will be included is below:  \r\n\r\nENERGY: Los Angeles moves to a diversified energy portfolio that is 100% renewable.  Our vision includes every rooftop in the LA region producing solar energy. Widespread adoption of solar will reduce carbon dioxide emissions and create jobs.  A recent UCLA study demonstrates that if LA county could achieve just 10% of its rooftop solar capacity it could create 47,000 jobs and slash nearly 2.5 million tons of carbon dioxide emissions annually--the equivalent of taking half a million cars off the road. \r\n\r\nWATER: The LA region no longer relies on importing 85% of our water.  We have access to plentiful, sustainable, and 100% local water. This will be achieved by reducing per capita water consumption to 50 gallons per day and significantly improving water reuse and recycle technologies.  \r\n\r\nBIODIVERSITY: The region’s transformation with energy and water is accomplished in a way that ensures no net loss of native biodiversity—preserving our status as one of Conservation International’s top 25 biodiversity hotspots and protecting the beauty of our natural spaces.  Biologists have projected that globally 50% of all living species might be lost by 2100, and virtually all of these losses are being driven by human activities.  \r\n  \r\nSuccess in the one-year grant period includes meeting the following commitments:  \r\n\r\n--Refining our Project Plan (creating a working draft outline for the 2019 Plan)\r\n--Expanding Partnerships \r\n--Increasing Public Outreach\r\n--Building Capacity\r\n--Engaging UCLA Students\r\n--Securing External Funding for the Project\r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "Two lessons have informed the shape of our Grand Challenges initiative and our approach to the Hotter LA Project: \r\n\r\n1. COMPLEX CHALLENGES REQUIRE CREATIVE SOLUTIONS: As a research university, UCLA has the intellectual capital and resources it takes to explore society’s most challenging issues, and as a public research university, we have the obligation to develop solutions that improve quality of life in the U.S. and around the world. UCLA is made up of brilliant and innovative people who firmly believe that for every problem, there is a solution. Our faculty and students not only believe that anything is possible, they also frequently prove it. We call upon that spirit throughout the UCLA Grand Challenges initiative and the Hotter LA Project.\r\n\r\nSolving any of today’s most complex societal challenges—including those related to the environment and sustainability—requires not just expertise from one discipline but collaboration from a wide variety of disciplines. We’ll need inventions, policy solutions, law, education, economics, engineering, the basic sciences, public outreach strategies, and more. \r\n \r\n2. WE CAN’T DO THIS ALONE: Our environment is threatened to such a degree that basic research isn't enough. We’ll also have to show decision-makers clear applications of that research. Grand Challenge Projects differ from UCLA’s usual approach in scale and scope. These are cross-campus, “mega-research” collaborations — bigger and more transformative than anything we've done before. This means we need more coordination and more grassroots efforts focused on topics that people are passionate about. We must increase our partnerships with other universities, foundations, philanthropists, private industry, and government agencies. We’re calling for all hands on deck. Together, we’ll make breakthroughs that will benefit Los Angeles and the world.\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "With more than 140 faculty members committed to the goals of the Hotter LA Project, UCLA is in a unique position to lead this effort. Among these faculty members are the top experts in the areas of climate change, water quality and supply, smart grid technology, renewable energy, public policy, law, environmental justice, air quality, biofuels, sustainability and more. \r\n\r\nOver the past year, we have been building internal support and an infrastructure to support the project team. Notably, Mark Gold, D.Env. (former president of Heal the Bay and currently acting director of UCLA’s Institute of the Environment and Sustainability), recently accepted the role of academic lead for the project. In August 2014, our new full-time Hotter LA Project Director (Cassie Rauser, PhD), begins her role as project manager. Concurrently, we are interviewing candidates to serve as the principal fundraising officer for this project. \r\n\r\nThis accomplished team will work closely with various marketing, communications, research and administrative offices on campus (Chancellor’s Office, government relations, media relations, research administration, intellectual property and industry sponsored research, etc.), to ensure that UCLA achieves the 12-month objectives outlined above: \r\n\r\n-Refine our Project Plan (creating a working draft outline for the 2019 deliverable)\r\n-Expand Partnerships \r\n-Increase Public Outreach\r\n-Build Capacity\r\n-Engage UCLA Students\r\n-Secure external funding for the Hotter LA Project \r\n\r\nAll of these deliverables are important contributors to the 2050 goal of achieving sustainability in the LA region."
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "We have identified three major barriers associated with creating the 2019 Plan to transform the LA region to 100% sustainability: Financial Resources; Skepticism; and Integration.\r\n\r\nFINANCIAL RESOURCES: The first major challenge will be acquiring the financial resources necessary to create the 2019 Plan, which requires new research (engineering, technologies, regulatory, materials etc.), significant outreach and consensus building, and proof of concept test beds (est. $150M). While the figure is daunting, our strategy is to draw from a combination of government, industry and philanthropic funding sources. Our efforts are bolstered by a number of factors:\r\n\r\n- The inclusion of the Hotter LA Project as a centerpiece in UCLA’s $4.2B Centennial Campaign celebrating our 100 year anniversary. \r\n\r\n- Plans to establish a donor advisory board comprised of individuals with a shared vision for the future of Los Angeles.\r\n\r\n- Hiring of a new fundraising professional to pursue philanthropic support for the project. \r\n\r\nSKEPTICISM: The second major challenge is skepticism, which is often the first reaction to the seemingly impossible goals of the Hotter LA Project. We have been assured by our faculty experts that the goals are achievable. Our frequent motto is that we certainly won’t achieve these goals if we don’t strive for them. Our strategy for dealing with criticism is to listen to it, analyze it, and if appropriate, correct our course. And in fact, this strategy has proven successful as we have watched our skeptics convert to our biggest advocates, as they too become inspired by the pursuit of solutions to grand challenges. \r\n\r\nINTEGRATION: The third challenge we have encountered is integration. The process for defining and pursuing solutions to grand challenges requires our faculty members to visualize their work beyond the traditional boundaries of their disciplines. We ask them to work with individuals with all kinds of expertise and points of view and to identify common goals. Getting this many people to work together on this scale isn't easy. We have learned much from the two years we've spent shaping this initiative, and our success with the engagement of faculty proves that they also believe that they can achieve the impossible. \r\n\r\nThere are still many barriers to overcome; our strategy is to be flexible and adaptable and to keep our sights set on the big goals as we build synergies."
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "The term “grand challenge” is widely used. UCLA Grand Challenges was inspired in part by a White House effort to encourage universities to pursue solutions to grand challenges: Ambitious but achievable goals that harness science, technology, and innovation to solve important national or global problems and that have the potential to capture the public’s imagination. UCLA Grand Challenge Projects are carefully developed to meet particular criteria. They must be specific, measurable, achievable, relevant, time-bound and relevant to the public. Drawing on campus experts who approach each topic from varying perspectives, UCLA is strategically positioned to address each Grand Challenge Project. \r\n\r\nThe Hotter LA Project is UCLA’s first Grand Challenge Project. And while many entities have initiatives or research programs focused on environment and sustainability, we are not aware of another which has adopted as specific, multifaceted, and ambitious a goal. During a trip to Washington D.C. during spring 2014, this sense of the landscape was confirmed in meeting after meeting with representatives from Congress, federal agencies and program officers.\r\n\r\nUnique factors of our program include:\r\n\r\n-Its evolution: the specific goals were driven by faculty researchers with the support of campus administration.\r\n\r\n-The approach: no single researcher or small team can solve the issue. \r\n\r\n-Scale and scope: nearly 140 faculty members have committed to engage in efforts to meet the goals of the project, representing 30 academic departments. To achieve the goals will require collaboration and integration between faculty members, administrative units, and also great support of external partners.\r\n\r\n-Perfect alignment with campus priorities: It provides the means to fulfill the tripartite mission of the campus—teaching, research and service—in a single effort.\r\n\r\n-The funding strategy: we intend to leverage multiple funding sources to help us meet the goals of the project."
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "The creation of the 2019 Plan will cost approximately $150M for new research, outreach and consensus building, and proof of concept test beds. Partnership with the Goldhirsh Foundation is essential to help us lay the critical initial foundation. \r\n\r\nThe new project manager will define the scope of the project, identify potential investors (government, industry, philanthropy) and create strategies with campus leadership to secure funding.  \r\n\r\nThere are several reasons we are confident that this approach will work, including:\r\n\r\n-The inclusion of the Hotter LA Project as a centerpiece in UCLA’s $4.2B Centennial Campaign. The campus and its supporters are energized by UCLA’s accomplishments in its 100-year history. The Hotter LA Project and future grand challenge projects promise to exponentially increase UCLA’s impact in the decades to come.\r\n\r\n-The significant federal, state, and local investment in research and planning related to environment and sustainability issues and resiliency. In 2012, the federal government spent approximately $8.8 billion on environmental R&D (Source: NCSE Federal Funding for Environmental Research and Development 2012) and this amount has increased in subsequent years. The Hotter LA Project will better position the university to pursue large, team-based funding opportunities. \r\n\r\n-The connection of individual projects to a larger overarching goal. Individuals are more comfortable investing when their investment will be leveraged with others for greater impact. It is also easier for a lay audience to understand the impact of research when we link to an inspirational plan that provides clear benefits to quality of life. \r\n\r\nThe Hotter LA Project has reached a pivotal point. We have our project leadership, but we need funds that may be strategically invested. We need attention for the project to increase the public’s awareness and support. We ask Goldhirsh Foundation to: (1) invest in us with start-up funds; and (2) help us promote the project. Together we will transform the relationship between energy, water and nature in the Los Angeles region and become a model for sustainable cities all over the world."
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "The funds we seek from the Goldhirsh Foundation position the Hotter LA Project for success. The structure of the budget aligns with the project deliverables.\r\n2019 PLAN: Cassie Rauser, PhD, begins as the full-time Hotter LA Project manager on 8/5/14. She will work closely with Mark Gold (faculty lead) to create a working outline of the 2019 Plan this year. This effort will take into account existing related UCLA research and scholarship. Funding of $18,000 provides for hiring 2 students to help with inventory process and team cultivation activities.\r\nEXPAND PARTNERSHIPS:  Engaging key stakeholders early is critical to understand various perspectives about each issue and create solutions that are feasible with vested supporters. Funding of $25,000 provides 1 student worker in the UCLA government relations office and targeted events to cultivate and enrich partnerships.\r\nINCREASE PUBLIC OUTREACH:  Public support and engagement is critical to the success of the Hotter LA Project. We need assistance with developing a robust outreach strategy that assures that LA citizens will learn about the proposed project, draw inspiration from it, and get involved. Funding of $20,000 will contribute to public outreach activities such as the limited engagement of a PR firm to help us increase awareness and exposure. \r\nBUILD CAPACITY:  Extramural research funding creates local jobs and drives innovation. To position our researchers to be more successful, we will invest in strengthening our research foundation.  $7,500 will enable additional professional development programming designed specifically for the Hotter LA Project team.\r\nIMMERSE STUDENTS:  By engaging students in the pursuit of solutions, we will inspire the next generation of leaders charged to solve these great problems, access creative ideas and new approaches, and provide a unique and fulfilling educational experience. Funding of $4,500 will contribute towards student research projects and other practical experiences linked to the Hotter LA Project.\r\nSECURE FUNDING: The above investments and deliverables will position UCLA to secure funding required to bring the vision to a reality. No additional funds required for this purpose.\r\nSummary:\r\n$18,000--Working Outline of the 2019 Plan \r\n$25,000--Expand Partnerships\r\n$20,000--Increase Public Outreach & Awareness\r\n$7,500--Build Capacity\r\n$4,500--Immerse Students\r\n$0--Secure Funding\r\n$25,000--Indirect Costs (25%)\r\n=$100,000 TOTAL\r\n\r\nNote 7/30/14 letter from E. Garcia."
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '0'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: lime
 
 ---

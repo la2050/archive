@@ -29,8 +29,21 @@ project_ids: '4102081'
 title: Senior Star Power Productions
 uri: /organizations/senior-star-power-productions/
 challenge_url: 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
+extrapolated_project_ids:
+  - '4102190'
+project_titles_from_extrapolated_project_ids:
+  - Senior Star Power - Get Up Get Out & Get a Life! - The Beat Goes On
 project_titles:
   - Senior Star Power - Get Up Get Out & Get a Life! - The Beat Goes On
+project_titles_from_project_ids:
+  - >-
+    Opportunity Fund: Transformative Education & Opportunities in Technology for
+    Underrepresented Groups
+original_project_titles:
+  - 'Senior Star Power - Get Up, Get Out & Get a Life! - The Beat Goes On'
+original_project_ids:
+  - '4102190'
+project_titles_flagged: 1
 youtube_video_identifier: TsuTBskJETc
 
 ---

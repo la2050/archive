@@ -43,8 +43,21 @@ project_ids: '3102245'
 title: The Children's Nature Institute
 uri: /organizations/the-childrens-nature-institute/
 challenge_url: 'http://maker.good.is/myla2050/projects/ExNLA.html'
+extrapolated_project_ids:
+  - '3102245'
+project_titles_from_extrapolated_project_ids:
+  - 'Education by Nature: Los Angeles'
 project_titles:
   - 'Education by Nature: Los Angeles'
+project_titles_from_project_ids:
+  - 'Education by Nature: Los Angeles'
+original_project_titles:
+  - 'Education by Nature: Los Angeles'
+  - 'Education by Nature: Los Angeles'
+original_project_ids:
+  - '3102245'
+  - '3102245'
+project_titles_flagged: 1
 youtube_video_identifier: xF48V9enLaE
 
 ---

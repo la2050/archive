@@ -28,5 +28,37 @@ title: SoLA Food Co-op
 uri: /organizations/sola-food-co-op/
 challenge_url: >-
   https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
+extrapolated_project_ids:
+  - '6102231'
+  - '5102273'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+    Empowerment
+  - >-
+    SoLA Food Co-op a source for healthy food and community empowerment in South
+    LA
+project_titles:
+  - >-
+    SoLA Food Co-op a source for healthy food and community empowerment in South
+    LA
+  - >-
+    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+    Empowerment
+project_titles_from_project_ids:
+  - >-
+    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+    Empowerment
+original_project_titles:
+  - >-
+    SoLA Food Co-op, a source for healthy food and community empowerment in
+    South LA
+  - >-
+    SoLA Food Co-op: Healthy Food , Healthy Living, and Community Economic
+    Empowerment
+original_project_ids:
+  - '5102273'
+  - '6102231'
+project_titles_flagged: 1
 
 ---

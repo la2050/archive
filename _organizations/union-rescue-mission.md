@@ -34,5 +34,23 @@ project_ids: '6102268'
 title: Union Rescue Mission
 uri: /organizations/union-rescue-mission/
 challenge_url: 'https://challenge.la2050.org/entry/a-way-home-for-women-children'
+extrapolated_project_ids:
+  - '6102268'
+  - '5102331'
+project_titles_from_extrapolated_project_ids:
+  - A Way Home for Women & Children
+  - Building a Better LA - Helping to End Skid Row through Jobs
+project_titles:
+  - A Way Home for Women & Children
+  - Building a Better LA - Helping to End Skid Row through Jobs
+project_titles_from_project_ids:
+  - A Way Home for Women & Children
+original_project_titles:
+  - A Way Home for Women & Children
+  - Building a Better LA - Helping to End Skid Row through Jobs
+original_project_ids:
+  - '5102331'
+  - '6102268'
+project_titles_flagged: 1
 
 ---

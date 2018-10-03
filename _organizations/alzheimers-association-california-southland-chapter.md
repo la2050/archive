@@ -48,10 +48,26 @@ project_ids: '3102016'
 title: 'Alzheimer''s Association, California Southland Chapter'
 uri: /organizations/alzheimers-association-california-southland-chapter/
 challenge_url: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
+extrapolated_project_ids:
+  - '3102016'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
+    Detection Counts Campaign
 project_titles:
+  - >-
+    Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
+    Detection Counts Campaign
+project_titles_from_project_ids:
   - >-
     Changing the Course of the Alzheimerâ€™s Epidemic in L.A. County:  Early
     Detection Counts Campaign
+original_project_titles:
+  - >-
+    Changing the Course of the Alzheimer’s Epidemic in L.A. County:  Early
+    Detection Counts Campaign
+original_project_ids:
+  - '3102016'
 youtube_video_identifier: DVIx37igPg0
 
 ---

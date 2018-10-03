@@ -28,8 +28,19 @@ project_ids: '4102065'
 title: Nomadlosangeles
 uri: /organizations/nomadlosangeles/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/LAVA.html'
+extrapolated_project_ids:
+  - '4102159'
+project_titles_from_extrapolated_project_ids:
+  - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
 project_titles:
   - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
+project_titles_from_project_ids:
+  - 75 School Gardens in Los Angeles Schools!
+original_project_titles:
+  - 'Los Angeles Vital Arts : LAVA: COMMUNITY ART AND PRINTING LAB'
+original_project_ids:
+  - '4102159'
+project_titles_flagged: 1
 maker_image_id: '21917'
 maker_image_file_name: studio1.jpg
 

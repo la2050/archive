@@ -14,7 +14,7 @@ tags_indicators:
   - Environmental quality & sustainability
   - Income & employment
 twitter: seedcg
-instagram: 0
+instagram: ''
 facebook: 'https://www.facebook.com/seedusa'
 org_type: Nonprofit
 project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/seedla.jpg'
@@ -40,6 +40,24 @@ project_ids: '8102107'
 title: SeedLA
 uri: /organizations/seedla/
 challenge_url: 'https://activation.la2050.org/live/seedla/'
+extrapolated_project_ids:
+  - '8102107'
+  - '6102206'
+project_titles_from_extrapolated_project_ids:
+  - 'SeedLA: Empowering Environmental Leadership'
+  - 'SeedLA: Empowering Environmental Nonprofits'
+project_titles:
+  - 'SeedLA: Empowering Environmental Leadership'
+  - 'SeedLA: Empowering Environmental Nonprofits'
+project_titles_from_project_ids:
+  - 'SeedLA: Empowering Environmental Leadership'
+original_project_titles:
+  - 'SeedLA: Empowering Environmental Leadership'
+  - 'SeedLA: Empowering Environmental Nonprofits'
+original_project_ids:
+  - '6102206'
+  - '8102107'
+project_titles_flagged: 1
 category: live
 
 ---

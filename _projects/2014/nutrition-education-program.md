@@ -2,8 +2,8 @@
 project_id: '4102028'
 title: Nutrition Education Program
 project_summary: >-
-  We would provide on-site cooking classes at community gardens and local events
-  to educate working families on healthy eating.
+  The Nutrition Education Program provides preventive nutrition services to
+  individuals at risk for or suffering from chronic diseases.
 category: live
 organization_id: '2014120'
 year_submitted: 2014
@@ -60,6 +60,421 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  city_state: 'Los Angeles, CA'
+  org_name: Saban Community Clinic
+  org_website: 'http://sabancommunityclinic.org/'
+  org_twitter: www.twitter.com/sabancommunity
+  org_facebook: 'https://www.facebook.com/pages/Saban-Community-Clinic/198837835060?ref=ts '
+  org_instagram: ''
+  org_mailingaddress: '8405 Beverly Boulevard, Los Angeles, CA 90048'
+  EIN: '952539105'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '1'
+  describe_collaboration: '0'
+  one_sentence_org: >-
+    Saban Community Clinic provides comprehensive, affordable medical and social
+    services to low-income and underserved individuals.
+  describe_idea: >-
+    The Nutrition Education Program provides preventive nutrition services to
+    individuals at risk for or suffering from chronic diseases.
+  describe_organization: >-
+    We @SabanCommunity Clinic want to offer FREE Pre-Diabetic and Fitness
+    classes in LA!
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: Metropolitan Service Planning Area 4
+  more_detail: >-
+    The Nutrition Education Program (NEP) currently provides primary and
+    preventive nutrition education with a focus on targeting patients at risk
+    for or suffering from chronic disease. Funds from LA 2050 will expand NEP’s
+    one-on-one and group education sessions to more patients and underwrite the
+    addition of free Pre-Diabetic classes and Fitness classes. The NEP is open
+    to all individuals at Saban Community Clinic (SCC). The NEP’s goal is to
+    ensure the health and wellbeing of individuals by increasing access to
+    nutrition services and promoting an active and healthier lifestyle.
+  implement: "The NEP has been part of SCC’s primary services since September 2013. Implementation of its services is ongoing throughout the year. The NEP is led by Maria Paz Quiroga, M.S., R.D., Nutritionist, and available at all three of SCC’s sites, name the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center (WAC). The Pre-Diabetic and Fitness classes will be a new component to the NEP. Ms. Quiroga has already begun developing the curriculum for the Pre-Diabetic and Fitness classes. One-on-one and group education session will be held at all sites and classes will be held at WAC. Education session will be provided during regular business hours and each class will be offered on a bi-monthly basis every Saturday in one hour sessions. Each class will have between 20-30 students and will be provided throughout the year.\r\n\r\nThe Pre-Diabetic class will covers topics such as identifying and defining diabetes and obesity, the effect of diabetes, how nutrition is linked to chronic disease, the importance of exercise, and more. Fitness classes will comprise of circuit training which incorporates a breadth of exercises such as strength training, cardio, and stretching. An education component will also be included to help participants perform the exercises at home. Participants will receive a diet journal to monitor food intake and utilize measuring tapes and calipers to evaluate progress.\r\n\r\nUpon notification of funds, Ms. Quiroga will purchase the necessary equipment and hire a contracted co-trainer to begin classes. SCC will use in-reach efforts to inform medical staff and providers of the services available as well outreach efforts to publicize NEP and its additional services.\r\n\r\nSCC’s in-reach efforts include posting posters at medical exam rooms and front desk as well as distributing informational flyers at the registration and discharge rooms. In terms of outreach efforts, SCC’s Managed Care Manager leads a team of Outreach Specialists to promote SCC’s various programs and services, including the NEP. The Managed Care Manager coordinates and leads culturally-sensitive and linguistically-appropriate outreach activities such as maintaining contact with agencies, initiating collaborations and partnerships, and participating in community events. The Outreach Specialists visit schools, local community and faith-based organizations, and other service centers."
+  impact_live: "The NEP will make LA the healthiest place to live by providing access to quality and affordable health care, health education, and fitness classes to those most in need. According to the County of Los Angeles’s Key Indicators of Health by Service Planning Area report (2013), 19% of adults in SPA 4 live in neighborhoods that do not have walking paths, parks, playgrounds, or sports fields, thus limiting spaces to exercise. Further, 25% of adults reported their health to be fair or poor, and only 17% of adults say they consume five or more servings of fruits and vegetables a day. These statistics are amongst the highest of the eight LA County SPAs and shows the potential impact the NEP’s services can make. \r\n\r\nOne-on-one and group education sessions and the Pre-Diabetic class will teach individuals how to eat healthier, how to maximize their limited funds to purchase healthy foods, appropriate portion control, and much more. Fitness classes will provide individuals a free space to exercise as well as lessons on proper fitness regimens and exercise routines. \r\n\r\nAs participants gain more knowledge about nutrition and fitness through the NEP, they will be able to utilize and share them with their friends and family to promote a healthier and more active lifestyle. By 2050, SCC hopes that the network of persons reached will be great enough to have a significant impact on the Los Angeles community. SCC is confident that the NEP will have a positive effect on the communities it serves. SCC has already received positive remarks from patients on how the current NEP and its services have transformed different areas of their health including weight loss, eating habits, blood pressure, and medication intake."
+  who_benefit: "The NEP will benefit both SCC’s current patients and individuals in SPA 4 who are at risk for or suffering from chronic disease.\r\n\r\nOver 7,000 patients at SCC are currently at risk for and or suffering from chronic disease. In Fiscal Year 2012-2013, 27,188 patient visits were related to chronic disease, accounting for more than a quarter (27%) of SCC’s total number of patient visits. SCC saw 5,653 patients for hypertension and 3,039 for diabetes. Most if not all of these patient can greatly benefit from the NEP and its free services.\r\n\r\nChronic disease is also prevalent within SPA 4. According to the County of Los Angeles’s Key Indicators of Health by Service Planning Area report (2013), major chronic health concerns prevalent among SPA 4 residents include hypertension and high cholesterol. The percentage of hypertension in SPA 4 has increased from 14% in 1997 to 20% in 2011, and the percentage of high cholesterol has increased from 15% in 1999 to 24% in 2011 according to the same report. Diabetes in SPA 4 is also a health concern according to Kaiser Foundation Hospital - Los Angeles’s 2013 Community Health Needs Assessment. In SPA 4, the prevalence of diabetes is 17% and the hospitalization rate is 186 per 100,000 persons. Furthermore, uncontrolled hospitalizations is 22 per 100,000 persons. These statistics are amongst the highest of the eight SPAs. As such, it is clear that many individuals in SCC’s service area can benefit from the NEP. "
+  partners_collaboration: "Yes. The Nutritionist is currently researching and contacting local food banks and researching local grocery stores to provide a list of healthy and affordable food. Local food banks in SCC’s service area include the Greater West Hollywood Food Coalition, World Harvest Food Bank, Los Angeles Regional Food Bank, Project Angel Food, and more. \r\n\r\nThree factors critical to a successful collaboration are the following:\r\n1. Large Capacity. SCC and local food banks and local grocery stores must have reasonably sized resources to accommodate the need for healthy food.\r\n2. Trustworthiness. SCC and local food banks will need the trust of the community, including those serves, for retaining patients in the NEP. \r\n3. Locality. All partnerships and collaborations must be local and accessible and in proximity of patients.\r\n"
+  metrics_live_healthyfood: '0'
+  metrics_live_healthcare: '1'
+  metrics_live_airtoxins: '0'
+  metrics_live_selfsufficiency: '0'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '0'
+  metrics_live_pollutedwaterways: '0'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '0'
+  metrics_live_healthcareservice: '1'
+  metrics_live_treecanopy: '0'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  impact_metrics: "Health care access: SCC is committed to serving anyone in need of health care regardless of their insurance or income status. SCC offers services at three sites, namely the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center. Multiple entry points across Los Angeles allows patients to access health care easier and more conveniently.\r\n\r\nSCC will engage in outreach and enrollment activities to ensure its patients and the surrounding communities are knowledgeable of its services. Overseen by the Managed Care Manager and Chief Operations Officer, SCC will engage in multiple in-reach and outreach efforts including signage throughout all three sites, health fairs, schools, and more information about SCC’s services, including the NEP.\r\n\r\nObesity rates: As mentioned earlier, the NEP will encourage patients to have a change in lifestyle through education sessions and Pre-Diabetic and Fitness classes. Key changes include healthier eating and regular exercise. The knowledge gained from participating in the NEP will benefit participants as well as their families and friends. \r\n\r\nPercentage of residents receiving coordinated health care services: SCC utilizes a Care Team Coordination Model, allowing cross-department referrals during a patients visit. SCC offers medical, dental, behavioral health, and non-primary care, including the NEP. Patients are able to be treated appropriately for any health ailments and referred to appropriate services to best fit their health needs. The Care Team Coordination Model enables all-inclusive, integrative care that allows for problems to be addressed quickly and efficiently. This also brings SCC closer to a Patient Centered Medical Home, giving residents more coordinated health care services."
+  best_place_to_create: '0'
+  best_place_to_play: '0'
+  best_place_to_connect: '0'
+  best_place_to_learn: '0'
+  evaluate: "Fund will assist SCC in meeting the following goals in a 12 month period:\r\n\r\n1. SCC will provide at least 150 unduplicated patients nutrition education services, including primary nutrition services as well as Pre-Diabetic and Fitness classes.\r\n2. SCC will receive positive feedback from at least 90% of patients when asked if they recommend SCC as a place to come for care to a friend or relative in Patient Satisfaction Surveys.\r\n3. SCC will reach a minimum of 2,500 outreach and health education encounters in its in-reach and outreach effort while promoting the NEP.\r\n\r\nSCC tracks quantitative measures, such as the number of patients served, patient visits, outreach contacts, service referrals and demographic data utilizing Electronic Health Records, i2i Tracks, and other health information systems. SCC also tracks qualitative measures such as patient feedback and program quality through Patient Satisfaction Surveys, its Community Advisory Council, and staff feedback. Data tracked are used to guide and evaluate SCC’s operations, giving SCC an idea of where funds need to be allocated, which programs need more staffing, which programs are reaching their goals, and which are not.\r\n\r\nPatient Satisfaction Surveys are distributed on a quarterly basis and measure patient satisfaction as well as the quality of other activities. Factors utilized in tracking patient satisfaction include appointment scheduling, registration staff at the front desk, medical/dental assistants, wait time, medical providers, dispensary/medication staff, discharge, facility, and patient safety.\r\n\r\nSCC also utilizes its Corporate Quality Management Program (CQMP) to ensure that it is managing all of its projects and services efficiently, effectively, and with the highest possible quality. The CQMP is fully integrated into SCC’s ongoing operations through participation of various committees which consist of members from all departments, disciplines, and cross functional groups/teams. The Program consists of multiple committees that evaluate different service delivery indicators including education/skills of employees, compliance and information dissemination, internal data management, policy adherence, appointment wait time, customer service, and more.\r\n"
+  two_lessons: "SCC learned the significant need for the NEP through its 2013 Community Health Needs Assessment (CHNA). SCC has utilized this report to learn about the growing health concerns of its communities in its service area as well as in Los Angeles County, as a whole. The CHNA indicated that 14% of SCC’s adult population is diagnosed with diabetes and 26% with hypertension. Further, 8% of SCC’s adult population is obese (BMI is greater than 30). SCC aims to address these issues through preventative health care services and education, both of which the NEP provides. \r\n\r\nSCC also learned that it needed to have a more comprehensive NEP in order to be an effective Patient Centered Medical Home (PCMH). SCC aims to transform its practice closer to a PCMH; it looks to develop its delivery of services in conjunction with the five pillars of a PCMH: 1) a patient-centered orientation, 2) comprehensive, team-based care, 3) care that is coordinated, 4) superb access to care, and 5) a systems-based approach to quality and safety. SCC has already taken the first steps by hiring a Nutritionist and implementing a NEP. SCC is currently looking to expand the NEP’s services in order to provide more comprehensive and accessible nutrition services."
+  achievable_goal: "As stated, the NEP has been a part of SCC’s primary services since September 2013. With the exception of the Pre-Diabetic and Fitness classes, all services have already been implemented. Since January 2014, Ms. Quiroga has been developing the curriculum for the two classes. Space at WAC has already been reserved and potential instructors have already been identified. From internal surveys and community assessment, SCC has also identified a large amount of individuals interested in participating in the two classes.\r\n\r\nSCC has significant experience in successfully piloting new projects. Previous projects include integrating HIV screening into primary care, outreaching to and enrolling individuals into a health care plan for the Affordable Care Act, delivering primary and therapeutic oral services to patients 0-5 years old, offering Spanish-speaking and domestic violence couple therapy group, and many others. All of these projects were successful and have been incorporated into SCC’s regular practice."
+  major_challenges: "SCC is in the process of implementing Electronic Health Records (EHR). EHR implementation will significantly improve delivery of services in addition to quality improvement efforts. However, SCC anticipates a loss in productivity during the initial onset of EHR as staff is trained and familiarized with the system. This anticipated loss in productivity may limit the number of patients the NEP can serve. In order to accommodate patient access during this period, SCC has extended its hours of operation with evening and weekend medical and dental sessions.\r\n\r\nAnother challenge is that the Pre-Diabetic and Fitness classes is a pilot project. As with all pilot projects, SCC anticipates to experience numerous learning opportunities. SCC is, however, prepared to identify and address any issues that may come up in a timely manner. It has a Corporate Quality Management Program that was created to ensure clinical/program challenges are address and discussed on a regular basis. The Corporate Quality Management Program is led by the Quality Performance Improvement Manager, who works closely with the Chief Medical Officer, managers, and development staff to ensure programs are meetings goals and deliverables."
+  competition: "Yes. Other community clinics and hospitals provide nutrition education services including Pre-Diabetic classes, and other private agencies provide Fitness classes. Community clinics and hospitals that provide nutrition services include AltaMed Health Services, Venice Family Clinic, and Cedars-Sinai Medical Center. Situated in Los Angeles in the Central, Northeast, and Hollywood/Willshire Health District, SCC faces a lot of competition from agencies that provide Fitness classes; agencies include Lauren Kern Fitness, Muscle Mechanics, Train and Relax, and many others.  SCC’s services, however, are distinguished from these organization because they are free. As with all of its services, nutrition services at SCC cater to the low-income and underserved population who would otherwise not be able to access these services.\r\n\r\nThe NEP is also distinguished from other similar programs due to its accessibility from multiple entry points. SCC delivers it services through a Care Team Coordination model which allows providers and key staff to refer all patients to different types of services at the time of their visit. This approach to care provides participants in the NEP access to medical, dental, and social services."
+  cost: "The NEP will cost $426,592.78. The remaining balance in excess of the $100,000 grant will be covered by SCC and fundraising efforts.\r\n\r\nSCC is dedicated to maximizing funds raised to benefit its patients and the local community. In SCC’s most recent audit, from Fiscal Year 2012-2013, administrative and fundraising expenses accounted for only 8% of its total expenses, meaning that for every dollar raised, 92 cents went directly to program services. Further, SCC retained its four star rating, the highest rating given by Charity Navigator, a nonprofit evaluator that examines an organization’s fiscal management and commitment to accountability and transparency. Only a quarter of organizations that Charity Navigator examines receive this high rating. This exceptional designation indicates that SCC adheres to good governance and other best practices that minimize the chance of unethical activities and consistently executes its mission in a fiscally responsible way.\r\n\r\nSCC and its Board of Directors are committed to the long-term sustainability and viability of all programs and services. SCC actively pursues additional grants from the federal, state, and local governments, foundations, corporations, individuals, and other sources for operating funds. SCC’s designation as a Federally Qualified Health Center (FQHC) allows it to apply for federal funding to help offset its operational costs and expand its services. It also holds several fund raising events per year including a golf tournament, a poker tournament, and an annual dinner gala. Private support from individual donors and corporations is also crucial to ensuring SCC’s continuation of quality health care to Los Angelinos. SCC and its Board of Directors have and will continue to ensure and maintain diversified and sustainable revenue sources for the fiscal wellbeing of SCC as well as the wellbeing of SCC’s patients."
+  budget: "Personnel Costs\r\nNutritionist, Maria Quiroga, M.S., R.D. (60% FTE): The Nutritionist is responsible for planning, implementing, and managing all NEP services including one-on-one and group education session and Pre-Diabetic and Fitness classes. Allocation: $43,281.\r\n\r\nCare Coordinator, Judith Sigaran-Montoya (50% FTE): Care Coordinators will be responsible for patient follow-up, referrals, navigation, and more. Allocation: $18,949.\r\n\r\nBenefits: Benefits are calculated at 24.4% and include medical, dental, and vision coverage, short- and long-term disability insurance, 403(b) Retirement employer match; life insurance and FICA, and unemployment insurance. Allocation: $15,557.\r\n\r\nContracted Co-Trainer: The Co-Trainer will lead Per-Diabetic and Fitness classes every other week. SCC has allowed $150 per class at two classes two times a month. Allocation: $7,200.\r\n\r\nDirect Operating Costs\r\nSaturday Class Equipment: Equipment includes free weights, steps, blow-up exercise balls, yoga mats, calipers, and more. Allocation: $5,000.\r\n\r\nEducational Materials: Materials include diet journals, measuring cups, and Food Exchange Books from the ADA. Allocation: $1,000\r\n\r\nIndirect Costs: Indirect Costs are calculated at 10% and cover additional overhead expenses including payroll fees and audit fees. Allocation: $9,013.\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Saban Community Clinic
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: 'http://sabancommunityclinic.org/'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/sabancommunity
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/pages/Saban-Community-Clinic/198837835060?ref=ts '
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '8405 Beverly Boulevard, Los Angeles, CA 90048'
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '952539105'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '1'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '0'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Saban Community Clinic provides comprehensive, affordable medical and
+      social services to low-income and underserved individuals.
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      The Nutrition Education Program provides preventive nutrition services to
+      individuals at risk for or suffering from chronic diseases.
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      We @SabanCommunity Clinic want to offer FREE Pre-Diabetic and Fitness
+      classes in LA!
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Metropolitan Service Planning Area 4
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      The Nutrition Education Program (NEP) currently provides primary and
+      preventive nutrition education with a focus on targeting patients at risk
+      for or suffering from chronic disease. Funds from LA 2050 will expand
+      NEP’s one-on-one and group education sessions to more patients and
+      underwrite the addition of free Pre-Diabetic classes and Fitness classes.
+      The NEP is open to all individuals at Saban Community Clinic (SCC). The
+      NEP’s goal is to ensure the health and wellbeing of individuals by
+      increasing access to nutrition services and promoting an active and
+      healthier lifestyle.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "The NEP has been part of SCC’s primary services since September 2013. Implementation of its services is ongoing throughout the year. The NEP is led by Maria Paz Quiroga, M.S., R.D., Nutritionist, and available at all three of SCC’s sites, name the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center (WAC). The Pre-Diabetic and Fitness classes will be a new component to the NEP. Ms. Quiroga has already begun developing the curriculum for the Pre-Diabetic and Fitness classes. One-on-one and group education session will be held at all sites and classes will be held at WAC. Education session will be provided during regular business hours and each class will be offered on a bi-monthly basis every Saturday in one hour sessions. Each class will have between 20-30 students and will be provided throughout the year.\r\n\r\nThe Pre-Diabetic class will covers topics such as identifying and defining diabetes and obesity, the effect of diabetes, how nutrition is linked to chronic disease, the importance of exercise, and more. Fitness classes will comprise of circuit training which incorporates a breadth of exercises such as strength training, cardio, and stretching. An education component will also be included to help participants perform the exercises at home. Participants will receive a diet journal to monitor food intake and utilize measuring tapes and calipers to evaluate progress.\r\n\r\nUpon notification of funds, Ms. Quiroga will purchase the necessary equipment and hire a contracted co-trainer to begin classes. SCC will use in-reach efforts to inform medical staff and providers of the services available as well outreach efforts to publicize NEP and its additional services.\r\n\r\nSCC’s in-reach efforts include posting posters at medical exam rooms and front desk as well as distributing informational flyers at the registration and discharge rooms. In terms of outreach efforts, SCC’s Managed Care Manager leads a team of Outreach Specialists to promote SCC’s various programs and services, including the NEP. The Managed Care Manager coordinates and leads culturally-sensitive and linguistically-appropriate outreach activities such as maintaining contact with agencies, initiating collaborations and partnerships, and participating in community events. The Outreach Specialists visit schools, local community and faith-based organizations, and other service centers."
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: "The NEP will make LA the healthiest place to live by providing access to quality and affordable health care, health education, and fitness classes to those most in need. According to the County of Los Angeles’s Key Indicators of Health by Service Planning Area report (2013), 19% of adults in SPA 4 live in neighborhoods that do not have walking paths, parks, playgrounds, or sports fields, thus limiting spaces to exercise. Further, 25% of adults reported their health to be fair or poor, and only 17% of adults say they consume five or more servings of fruits and vegetables a day. These statistics are amongst the highest of the eight LA County SPAs and shows the potential impact the NEP’s services can make. \r\n\r\nOne-on-one and group education sessions and the Pre-Diabetic class will teach individuals how to eat healthier, how to maximize their limited funds to purchase healthy foods, appropriate portion control, and much more. Fitness classes will provide individuals a free space to exercise as well as lessons on proper fitness regimens and exercise routines. \r\n\r\nAs participants gain more knowledge about nutrition and fitness through the NEP, they will be able to utilize and share them with their friends and family to promote a healthier and more active lifestyle. By 2050, SCC hopes that the network of persons reached will be great enough to have a significant impact on the Los Angeles community. SCC is confident that the NEP will have a positive effect on the communities it serves. SCC has already received positive remarks from patients on how the current NEP and its services have transformed different areas of their health including weight loss, eating habits, blood pressure, and medication intake."
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "The NEP will benefit both SCC’s current patients and individuals in SPA 4 who are at risk for or suffering from chronic disease.\r\n\r\nOver 7,000 patients at SCC are currently at risk for and or suffering from chronic disease. In Fiscal Year 2012-2013, 27,188 patient visits were related to chronic disease, accounting for more than a quarter (27%) of SCC’s total number of patient visits. SCC saw 5,653 patients for hypertension and 3,039 for diabetes. Most if not all of these patient can greatly benefit from the NEP and its free services.\r\n\r\nChronic disease is also prevalent within SPA 4. According to the County of Los Angeles’s Key Indicators of Health by Service Planning Area report (2013), major chronic health concerns prevalent among SPA 4 residents include hypertension and high cholesterol. The percentage of hypertension in SPA 4 has increased from 14% in 1997 to 20% in 2011, and the percentage of high cholesterol has increased from 15% in 1999 to 24% in 2011 according to the same report. Diabetes in SPA 4 is also a health concern according to Kaiser Foundation Hospital - Los Angeles’s 2013 Community Health Needs Assessment. In SPA 4, the prevalence of diabetes is 17% and the hospitalization rate is 186 per 100,000 persons. Furthermore, uncontrolled hospitalizations is 22 per 100,000 persons. These statistics are amongst the highest of the eight SPAs. As such, it is clear that many individuals in SCC’s service area can benefit from the NEP. "
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Yes. The Nutritionist is currently researching and contacting local food banks and researching local grocery stores to provide a list of healthy and affordable food. Local food banks in SCC’s service area include the Greater West Hollywood Food Coalition, World Harvest Food Bank, Los Angeles Regional Food Bank, Project Angel Food, and more. \r\n\r\nThree factors critical to a successful collaboration are the following:\r\n1. Large Capacity. SCC and local food banks and local grocery stores must have reasonably sized resources to accommodate the need for healthy food.\r\n2. Trustworthiness. SCC and local food banks will need the trust of the community, including those serves, for retaining patients in the NEP. \r\n3. Locality. All partnerships and collaborations must be local and accessible and in proximity of patients.\r\n"
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "Health care access: SCC is committed to serving anyone in need of health care regardless of their insurance or income status. SCC offers services at three sites, namely the Beverly Health Center, S. Mark Taper Foundation Health Center, and Wallis Annenberg Children and Family Health Center at Hollywood Wilshire Health Center. Multiple entry points across Los Angeles allows patients to access health care easier and more conveniently.\r\n\r\nSCC will engage in outreach and enrollment activities to ensure its patients and the surrounding communities are knowledgeable of its services. Overseen by the Managed Care Manager and Chief Operations Officer, SCC will engage in multiple in-reach and outreach efforts including signage throughout all three sites, health fairs, schools, and more information about SCC’s services, including the NEP.\r\n\r\nObesity rates: As mentioned earlier, the NEP will encourage patients to have a change in lifestyle through education sessions and Pre-Diabetic and Fitness classes. Key changes include healthier eating and regular exercise. The knowledge gained from participating in the NEP will benefit participants as well as their families and friends. \r\n\r\nPercentage of residents receiving coordinated health care services: SCC utilizes a Care Team Coordination Model, allowing cross-department referrals during a patients visit. SCC offers medical, dental, behavioral health, and non-primary care, including the NEP. Patients are able to be treated appropriately for any health ailments and referred to appropriate services to best fit their health needs. The Care Team Coordination Model enables all-inclusive, integrative care that allows for problems to be addressed quickly and efficiently. This also brings SCC closer to a Patient Centered Medical Home, giving residents more coordinated health care services."
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "Fund will assist SCC in meeting the following goals in a 12 month period:\r\n\r\n1. SCC will provide at least 150 unduplicated patients nutrition education services, including primary nutrition services as well as Pre-Diabetic and Fitness classes.\r\n2. SCC will receive positive feedback from at least 90% of patients when asked if they recommend SCC as a place to come for care to a friend or relative in Patient Satisfaction Surveys.\r\n3. SCC will reach a minimum of 2,500 outreach and health education encounters in its in-reach and outreach effort while promoting the NEP.\r\n\r\nSCC tracks quantitative measures, such as the number of patients served, patient visits, outreach contacts, service referrals and demographic data utilizing Electronic Health Records, i2i Tracks, and other health information systems. SCC also tracks qualitative measures such as patient feedback and program quality through Patient Satisfaction Surveys, its Community Advisory Council, and staff feedback. Data tracked are used to guide and evaluate SCC’s operations, giving SCC an idea of where funds need to be allocated, which programs need more staffing, which programs are reaching their goals, and which are not.\r\n\r\nPatient Satisfaction Surveys are distributed on a quarterly basis and measure patient satisfaction as well as the quality of other activities. Factors utilized in tracking patient satisfaction include appointment scheduling, registration staff at the front desk, medical/dental assistants, wait time, medical providers, dispensary/medication staff, discharge, facility, and patient safety.\r\n\r\nSCC also utilizes its Corporate Quality Management Program (CQMP) to ensure that it is managing all of its projects and services efficiently, effectively, and with the highest possible quality. The CQMP is fully integrated into SCC’s ongoing operations through participation of various committees which consist of members from all departments, disciplines, and cross functional groups/teams. The Program consists of multiple committees that evaluate different service delivery indicators including education/skills of employees, compliance and information dissemination, internal data management, policy adherence, appointment wait time, customer service, and more.\r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "SCC learned the significant need for the NEP through its 2013 Community Health Needs Assessment (CHNA). SCC has utilized this report to learn about the growing health concerns of its communities in its service area as well as in Los Angeles County, as a whole. The CHNA indicated that 14% of SCC’s adult population is diagnosed with diabetes and 26% with hypertension. Further, 8% of SCC’s adult population is obese (BMI is greater than 30). SCC aims to address these issues through preventative health care services and education, both of which the NEP provides. \r\n\r\nSCC also learned that it needed to have a more comprehensive NEP in order to be an effective Patient Centered Medical Home (PCMH). SCC aims to transform its practice closer to a PCMH; it looks to develop its delivery of services in conjunction with the five pillars of a PCMH: 1) a patient-centered orientation, 2) comprehensive, team-based care, 3) care that is coordinated, 4) superb access to care, and 5) a systems-based approach to quality and safety. SCC has already taken the first steps by hiring a Nutritionist and implementing a NEP. SCC is currently looking to expand the NEP’s services in order to provide more comprehensive and accessible nutrition services."
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "As stated, the NEP has been a part of SCC’s primary services since September 2013. With the exception of the Pre-Diabetic and Fitness classes, all services have already been implemented. Since January 2014, Ms. Quiroga has been developing the curriculum for the two classes. Space at WAC has already been reserved and potential instructors have already been identified. From internal surveys and community assessment, SCC has also identified a large amount of individuals interested in participating in the two classes.\r\n\r\nSCC has significant experience in successfully piloting new projects. Previous projects include integrating HIV screening into primary care, outreaching to and enrolling individuals into a health care plan for the Affordable Care Act, delivering primary and therapeutic oral services to patients 0-5 years old, offering Spanish-speaking and domestic violence couple therapy group, and many others. All of these projects were successful and have been incorporated into SCC’s regular practice."
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "SCC is in the process of implementing Electronic Health Records (EHR). EHR implementation will significantly improve delivery of services in addition to quality improvement efforts. However, SCC anticipates a loss in productivity during the initial onset of EHR as staff is trained and familiarized with the system. This anticipated loss in productivity may limit the number of patients the NEP can serve. In order to accommodate patient access during this period, SCC has extended its hours of operation with evening and weekend medical and dental sessions.\r\n\r\nAnother challenge is that the Pre-Diabetic and Fitness classes is a pilot project. As with all pilot projects, SCC anticipates to experience numerous learning opportunities. SCC is, however, prepared to identify and address any issues that may come up in a timely manner. It has a Corporate Quality Management Program that was created to ensure clinical/program challenges are address and discussed on a regular basis. The Corporate Quality Management Program is led by the Quality Performance Improvement Manager, who works closely with the Chief Medical Officer, managers, and development staff to ensure programs are meetings goals and deliverables."
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "Yes. Other community clinics and hospitals provide nutrition education services including Pre-Diabetic classes, and other private agencies provide Fitness classes. Community clinics and hospitals that provide nutrition services include AltaMed Health Services, Venice Family Clinic, and Cedars-Sinai Medical Center. Situated in Los Angeles in the Central, Northeast, and Hollywood/Willshire Health District, SCC faces a lot of competition from agencies that provide Fitness classes; agencies include Lauren Kern Fitness, Muscle Mechanics, Train and Relax, and many others.  SCC’s services, however, are distinguished from these organization because they are free. As with all of its services, nutrition services at SCC cater to the low-income and underserved population who would otherwise not be able to access these services.\r\n\r\nThe NEP is also distinguished from other similar programs due to its accessibility from multiple entry points. SCC delivers it services through a Care Team Coordination model which allows providers and key staff to refer all patients to different types of services at the time of their visit. This approach to care provides participants in the NEP access to medical, dental, and social services."
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "The NEP will cost $426,592.78. The remaining balance in excess of the $100,000 grant will be covered by SCC and fundraising efforts.\r\n\r\nSCC is dedicated to maximizing funds raised to benefit its patients and the local community. In SCC’s most recent audit, from Fiscal Year 2012-2013, administrative and fundraising expenses accounted for only 8% of its total expenses, meaning that for every dollar raised, 92 cents went directly to program services. Further, SCC retained its four star rating, the highest rating given by Charity Navigator, a nonprofit evaluator that examines an organization’s fiscal management and commitment to accountability and transparency. Only a quarter of organizations that Charity Navigator examines receive this high rating. This exceptional designation indicates that SCC adheres to good governance and other best practices that minimize the chance of unethical activities and consistently executes its mission in a fiscally responsible way.\r\n\r\nSCC and its Board of Directors are committed to the long-term sustainability and viability of all programs and services. SCC actively pursues additional grants from the federal, state, and local governments, foundations, corporations, individuals, and other sources for operating funds. SCC’s designation as a Federally Qualified Health Center (FQHC) allows it to apply for federal funding to help offset its operational costs and expand its services. It also holds several fund raising events per year including a golf tournament, a poker tournament, and an annual dinner gala. Private support from individual donors and corporations is also crucial to ensuring SCC’s continuation of quality health care to Los Angelinos. SCC and its Board of Directors have and will continue to ensure and maintain diversified and sustainable revenue sources for the fiscal wellbeing of SCC as well as the wellbeing of SCC’s patients."
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Personnel Costs\r\nNutritionist, Maria Quiroga, M.S., R.D. (60% FTE): The Nutritionist is responsible for planning, implementing, and managing all NEP services including one-on-one and group education session and Pre-Diabetic and Fitness classes. Allocation: $43,281.\r\n\r\nCare Coordinator, Judith Sigaran-Montoya (50% FTE): Care Coordinators will be responsible for patient follow-up, referrals, navigation, and more. Allocation: $18,949.\r\n\r\nBenefits: Benefits are calculated at 24.4% and include medical, dental, and vision coverage, short- and long-term disability insurance, 403(b) Retirement employer match; life insurance and FICA, and unemployment insurance. Allocation: $15,557.\r\n\r\nContracted Co-Trainer: The Co-Trainer will lead Per-Diabetic and Fitness classes every other week. SCC has allowed $150 per class at two classes two times a month. Allocation: $7,200.\r\n\r\nDirect Operating Costs\r\nSaturday Class Equipment: Equipment includes free weights, steps, blow-up exercise balls, yoga mats, calipers, and more. Allocation: $5,000.\r\n\r\nEducational Materials: Materials include diet journals, measuring cups, and Food Exchange Books from the ADA. Allocation: $1,000\r\n\r\nIndirect Costs: Indirect Costs are calculated at 10% and cover additional overhead expenses including payroll fees and audit fees. Allocation: $9,013.\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: lime
 
 ---

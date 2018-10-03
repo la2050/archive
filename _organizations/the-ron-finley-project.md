@@ -31,5 +31,17 @@ title: The Ron Finley Project
 uri: /organizations/the-ron-finley-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
+extrapolated_project_ids:
+  - '6102256'
+project_titles_from_extrapolated_project_ids:
+  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
+project_titles:
+  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
+project_titles_from_project_ids:
+  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
+original_project_titles:
+  - The Ron Finley Project presents Da FUNction - A Community Fun Fest
+original_project_ids:
+  - '6102256'
 
 ---

@@ -30,5 +30,23 @@ title: Educators 4 Excellence-Los Angeles
 uri: /organizations/educators-4-excellence-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/those-who-can-teach!-elevating-teacher-solutions-for-student-needs
+extrapolated_project_ids:
+  - '6102063'
+  - '3102121'
+project_titles_from_extrapolated_project_ids:
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+  - Teachers Leading from the Classroom
+project_titles:
+  - Teachers Leading from the Classroom
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+project_titles_from_project_ids:
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+original_project_titles:
+  - Teachers Leading from the Classroom
+  - 'Those Who Can, Teach! Elevating Teacher Solutions for Student Needs'
+original_project_ids:
+  - '3102121'
+  - '6102063'
+project_titles_flagged: 1
 
 ---

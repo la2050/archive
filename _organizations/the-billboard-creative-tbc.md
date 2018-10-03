@@ -37,5 +37,25 @@ title: The Billboard Creative (TBC)
 uri: /organizations/the-billboard-creative-tbc/
 challenge_url: >-
   https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
+extrapolated_project_ids:
+  - '6102236'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Citywide billboard art show connecting emerging artists with mass audiences
+    on the streets of LA
+project_titles:
+  - >-
+    Citywide billboard art show connecting emerging artists with mass audiences
+    on the streets of LA
+project_titles_from_project_ids:
+  - >-
+    Citywide billboard art show connecting emerging artists with mass audiences
+    on the streets of LA
+original_project_titles:
+  - >-
+    Citywide billboard art show connecting emerging artists with mass audiences
+    on the streets of LA
+original_project_ids:
+  - '6102236'
 
 ---

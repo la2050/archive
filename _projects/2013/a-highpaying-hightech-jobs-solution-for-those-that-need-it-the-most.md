@@ -346,6 +346,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   raises the standard of living across the board. This is reflected in the
   lowest unemployment and poverty rates in the nation.</p>
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

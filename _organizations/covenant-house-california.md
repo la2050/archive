@@ -28,5 +28,17 @@ project_ids: '6102057'
 title: Covenant House California
 uri: /organizations/covenant-house-california/
 challenge_url: 'https://challenge.la2050.org/entry/the-precise-barber-college'
+extrapolated_project_ids:
+  - '6102057'
+project_titles_from_extrapolated_project_ids:
+  - The Precise Barber College
+project_titles:
+  - The Precise Barber College
+project_titles_from_project_ids:
+  - The Precise Barber College
+original_project_titles:
+  - The Precise Barber College
+original_project_ids:
+  - '6102057'
 
 ---

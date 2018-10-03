@@ -3,8 +3,8 @@ project_id: '8102138'
 project_id_2: '8102138'
 title: World Famous VIP Records Business Incubator and Multi Media Center
 project_summary: >-
-  Business accelerator/incubator for tech,  music & food entrepreneurs supported
-  with  24hour radio station, retail space & music studio anchored by a replica
+  Business accelerator/incubator for tech, music & food entrepreneurs supported
+  with 24hour radio station, retail space & music studio anchored by a replica
   of the Historic World Famous VIP Sign.
 Please describe the activation your organization seeks to launch.: >-
   A business incubator and multi media center that provides work space tech lab,
@@ -27,6 +27,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102138'
 year_submitted: 2018
+organization_name: World Famous VIP Records LLC
 project_proposal_description: >-
   A business incubator and multi media center that provides work space tech lab,
   music studio, radio station, green screen room and outdoor event space.

@@ -4,8 +4,8 @@ title: >-
   Groceryships (Scholarships for Groceries)--Changing the Food System One Family
   at a Time
 project_summary: >-
-  On TreeMapLA Angelenos can crowd-source a healthier future by revitalizing our
-  urban watershed: one tree and one rain garden at a time.
+  A Groceryships group in every community, so everyone who wants to get healthy
+  amidst a toxic food environment has a place to turn for help. 
 category: live
 organization_id: '2014213'
 year_submitted: 2014
@@ -104,6 +104,414 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  city_state: Los Angeles
+  org_name: Groceryships
+  org_website: www.groceryships.org
+  org_twitter: '@groceryships'
+  org_facebook: facebook.com/groceryships
+  org_instagram: instagram.com/groceryships
+  org_mailingaddress: '836 Westholme Ave,'
+  EIN: '954116679'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '1'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '0'
+  one_sentence_org: >-
+    Comprehensive health program for low-income families struggling with
+    obesity--nutrition education, healthy cooking, and emotional support. 
+  describe_idea: >-
+    A Groceryships group in every community, so everyone who wants to get
+    healthy amidst a toxic food environment has a place to turn for help. 
+  describe_organization: >-
+    Food Inc meets Native American Healing Circles--@groceryships, where
+    nutrition education is only the beginning...
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "10 families at a time go through a comprehensive six month health program that approaches obesity from three angles:\r\n\r\n- Practical Skills -- Nutrition education, healthy cooking, label reading, shopping skills. \r\n- Emotional Health -- Group support in a safe, sacred space. \r\n- Habits -- An innovative incentive program designed to teach families healthy habits for a lifetime. \r\n\r\nWe surround our families with support--Vitamix blenders, free community yoga classes, walking clubs, healthy eating DVDs like Food Inc, Forks Over Knives, Hungry For Change. \r\n\r\nDuring the program, the families receive financial support based on an incentive system designed to instill lifelong habits. \r\n\r\n"
+  implement: "We build relationships with established organizations in low-income communities, who connect us with a first class of 10 families. After six months working with us to improve their health, those 10 families recruit 10 more families, and serve as mentors. The cycle continues each season, as stakeholders spread practices of healthy living throughout their networks. So, over time, we organically grow a robust oasis of wellness in food deserts, empowering communities to nurture future generations’ bodies, minds and hearts.\r\n"
+  impact_live: "A lot of wonderful projects are trying to change the food system from the top down. We are doing the opposite--from the bottom up, one family at a time. \r\n\r\nRight here in LA, we have kickstarted a growing movement teaching people how to take care of their bodies in the present food system. Groceryships is offering not a technical solution, but an adaptive one, helping people achieve vibrant health despite their current circumstances. We focus on the here and now, spreading a solution that equips people with the knowledge, tools, and support to make permanent lifestyle changes.  \r\n\r\nThe wealth gap creates the health gap. At Groceryships, we know every person's health is equally important, but the world seems to disagree. So we've structured our program and organization to help close both gaps. We focus on bringing all the resources available to higher income neighborhoods to lower income families. We fund this partially by donations, but also by bringing our innovative curriculum and program structure to corporations, through our for-profit Corporate Wellness program. \r\n\r\nIn 2050, Groceryships groups will have spread across Los Angeles. The tech companies in Silicon Beach will be getting healthy through our corporate wellness program, while at the same time financing groups in Compton and Inglewood. The finance companies in Pasadena and the South Bay will be getting healthy while financing Groceryships groups in Boyle Heights. \r\n\r\nBy 2050, the seeds we planted in 2014 will have taken root and changed the landscape from a desert to a rainforest, where generations of families have adopted healthy ways of eating, moving, and communicating. The Framingham study made clear the power of social networks. Changing a single families health can have profound influence not just on future generations of that family, but on everyone they come in contact with, and who those people come in contact with.  \r\nOver the long run, a change in one family can change a community, which can change a city. \r\n\r\n\r\n\r\n"
+  who_benefit: >-
+    Our first two groups are in South Los Angeles and Boyle Heights, where
+    childhood obesity is 30% and the rate of overweight/obesity is above 70%. We
+    will focus primarily on low-income families across Los Angeles who are
+    struggling with food related health issues like obesity, diabetes, heart
+    disease, malnourishment, etc. 
+  partners_collaboration: "Homeboy Industries has mentored us from the early stages of our program, providing advice and support in developing our concept. In October, we are launching our first class together, connecting their twenty-six years of experience, highly motivated members, and proven success with our innovative strategy. This is a mutually beneficial partnership, allowing us to transform the relationship with food for Homeboy employees, explore a different facet of the wellness emphasized by Homeboy, and introduce our curriculum to a new neighborhood.\r\n\r\nVitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.” \r\n"
+  metrics_live_healthyfood: '1'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '0'
+  metrics_live_selfsufficiency: '1'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '1'
+  metrics_live_pollutedwaterways: '0'
+  metrics_live_mentalillness: '1'
+  metrics_live_childhood: '1'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '0'
+  metrics_live_other: '1'
+  metrics_live_blank: Community Bonds & Connectedness
+  impact_metrics: "Groceryships increases access to healthy food by coaching families in navigating the food system. Over the course of six months of grocery stipends, people in under-resourced areas learn where and how to find and prepare nourishing meals despite external obstacles. In tandem with our comprehensive wellness classes, obesity rates decrease as lifestyle shifts take place. Groceryships’ unique holistic approach supports emotional well-being and mental health by strengthening interpersonal relationships and providing a safe space to de-stress and process trauma. The vital bonds developed in our rooms empower members of low-income communities to harness their collective strength in response to adverse events.\r\n"
+  best_place_to_create: '0'
+  best_place_to_play: '1'
+  best_place_to_connect: '1'
+  best_place_to_learn: '1'
+  evaluate: "Our evaluation will focus on three areas:\r\n\r\nKnowledge (survey) -- things like what is a whole food, health benefits of fruits/vegetables, identifying hidden sugars, understanding what's really in restaurant food. \r\nEmotional Health (survey) -- stress reduction, support network increase, sense of personal value. \r\nHabits (survey) -- increased consumption of fruits and vegetables, increase percentage of grocery budget spent on whole foods. \r\n\r\nIn addition, we will measure health metrics through clinic partnerships, including BMI, Blood Pressure, Cholesterol, A1c, etc. "
+  two_lessons: "One night my wife and I watched A Place At The Table.  It’s about hunger in America, how in the richest country in the world, millions of children don’t know where their next meal is coming from. And the poor survive on the cheapest and least healthy food, so many families are both food insecure and obese.\r\n\r\nAfter the documentary ended something clicked in my mind. I realized that the majority of the documentaries we’d ever watched, were more or less about the same thing —  a hierarchical society that values some lives more than others. \r\n\r\nSo many documentaries are about people at the top saying (without actually saying it)... “my life matters more than yours.” Heads of oil companies saying, my profit is more valuable than you having clean water.  Food company executives saying, my wealth is more important than your health. Wall Street saying my money is more important than your home. Even private prison company executives, saying my profit is more important than your freedom. And the list goes on.\r\n\r\nAnd the consequences of all these decisions, they all land in the same place. On poor families, who have freeways built through their neighborhoods, waste dumped in their backyards, and whose children attend underfunded, sometimes decrepit, schools.\r\n\r\nEverywhere you turn, the deck is stacked against poor people. And especially so when it comes to health. They are disproportionately targeted by food company advertisements, they receive zero nutrition education, and often work 2-3 jobs just to make ends meet. Who has time to cook? And even if they wanted to there are often no fresh produce markets in their neighborhoods. Instead, fast food restaurants on nearly every corner peddle cheap, highly addictive processed foods with little nutritional value.\r\n\r\nIn a thousand different ways we’ve told the poor that they are not important. The people in these communities weren’t just obese and hungry because of the toxic food culture — they were also stressed out, beaten down, and depressed from growing up in a culture that had told them from birth that they are worthless, and then sold them cheap, addictive, unhealthy food to ameliorate their psychic pain. It was—and is—a vicious cycle. \r\n\r\nFrom Father Greg Boyle I learned that the power of Homeboy isn’t the thoroughness of their job training program, or the extensiveness of their job placement network. The power is in attitude — the heart — of the place, where everyone is is respected and valued. So too Groceryships"
+  achievable_goal: "On August 13, 2014, the first Groceryships group will graduate in South Central Los Angeles. Two weeks later, on August 27th, the second class in the same location will begin. This South Central group is our flagship group, and will receive much of our focus. In October of this year, we will launch a new group at Homeboy Industries, our first satellite location. These groups -- South Central and Homeboy -- are our minimum number of groups for year 2. However, we expect that by the beginning of year 3, we will have at least 5 groups up and running.\r\n\r\nStrategically, our focus in year 2 will be on refining our program model and establishing a sustainable fundraising structure. \r\n\r\nTo refine our program, we will take the following steps:\r\n\r\n•\tProgram Binder--we will create a program binder that includes the curriculum, emotional topics, recipes, journal, and program outline. These will be handed to our next groups of families on the first day of class, and over time will iteratively develop into a stand-alone book that can be sold. \r\n\r\n•\tIncentive Structure--Rather than receiving $100 gift cards, the amount will fluctuate based on completion of certain tasks. There will be a $25 floor  based purely on attendance, and each participant will have the opportunity to earn more money by, for example, demonstrating via texted photos that they ate 5 vegetables/fruits per day ($5), prepared healthy family dinners ($5), lost weight ($2.50 per pound), reviewed weekly grocery store purchases with a nutritionist ($10), and completed a daily food journal ($5). This incentive model is inspired by Family Independence Initiative, who uses a similar model to empower families to emerge from poverty. \r\n\r\n•\tImprove Data Collection & Analysis: We will complete a logic model and specify the desired outcomes of our program. We will do a health screening of each member of participant families. Additionally, we will create before, during, and after surveys to test the knowledge intake and reported behavior changes. Lastly, we will analyze our applications to discern characteristics of our applicant pool.\r\n\r\n•\tTest Different Structures: Our model includes the following variables: education, cooking demonstrations, grocery store tour, financial incentives, 25-week term, 10 family group sizes, etc. We plan to test out different variations, customized to fit potential partners.\r\n\r\n•\tSouth LA Community Film Series: We are now in talks with filmmakers Laurie David and Lori SIlverbush ..."
+  major_challenges: "Funding: we are a new organization. Strategy: crowdfunding, grant applications, Corporate Wellness.\r\n\r\nStaffing: Finding health coaches who both understand nutrition, and have the heart and emotional health to create a safe space without giving \"advice\" to families is one of our biggest challenges. "
+  competition: "There are about a million places teaching nutrition education and healthy cooking classes. \r\n\r\nThere are none, to our knowledge, that focus primarily on the emotional and spiritual sides of health, and consciously help families create powerful support networks. "
+  cost: "$250,000. \r\n\r\nWe are a young organization, but we are good at fundraising. In a year we raised over $100,000, and we have more on the way. Our founder, Sam Polk, is a sought after speaker, and generates honorariums to Groceryships. We also have developed facility in crowdfunding, and are launching a Corporate Wellness arm to generate profits. "
+  budget: "Groceryships Budget Aug 2014--Aug 2015\t\r\n\t\r\nRevenue\t\r\nIndividual Donors (Major)\t75,000\r\nIndividual Donors (Minor)\t25,000\r\nGrants\t50,000\r\nSpeaking\t14,000\r\nCorporate Wellness\t5,000\r\nTotal Revenue\t169,000\r\n\t\r\nOperating Costs\t\r\nSalaries & Benefits\t100,000\r\nFiscal Sponsor Fees (6.5%)\t9,588\r\nInsurance\t500\r\nIncidentals\t5,000\r\nTotal Operating Costs\t115,088\r\n\t\r\nProgram Costs\t\r\nGroup #1 -- LA's Promise (2 groups)\t\r\nGroceries\t$25,000\r\nPrinting Costs\t$500\r\nFood Demonstrations\t$1,000\r\nGroup #1 -- Total\t$26,500\r\n\t\r\nGroup #2 -- Homeboy Industries (2 groups)\t\r\nGroceries\t25,000\r\nPrinting Costs\t$500\r\nFood Demonstrations\t$1,000\r\nGroup #2 -- Total\t26,500\r\n\t\r\nProgram Costs -- Total\t$53,000\r\n\t\r\nTotal Costs\t168,088\r\n\t\r\n\t"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '1'
+  resources_education: '0'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '1'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: Los Angeles
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Groceryships
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: www.groceryships.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: '@groceryships'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: facebook.com/groceryships
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: instagram.com/groceryships
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '836 Westholme Ave,'
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '954116679'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '1'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '0'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Comprehensive health program for low-income families struggling with
+      obesity--nutrition education, healthy cooking, and emotional support. 
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      A Groceryships group in every community, so everyone who wants to get
+      healthy amidst a toxic food environment has a place to turn for help. 
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      Food Inc meets Native American Healing Circles--@groceryships, where
+      nutrition education is only the beginning...
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '0'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: "10 families at a time go through a comprehensive six month health program that approaches obesity from three angles:\r\n\r\n- Practical Skills -- Nutrition education, healthy cooking, label reading, shopping skills. \r\n- Emotional Health -- Group support in a safe, sacred space. \r\n- Habits -- An innovative incentive program designed to teach families healthy habits for a lifetime. \r\n\r\nWe surround our families with support--Vitamix blenders, free community yoga classes, walking clubs, healthy eating DVDs like Food Inc, Forks Over Knives, Hungry For Change. \r\n\r\nDuring the program, the families receive financial support based on an incentive system designed to instill lifelong habits. \r\n\r\n"
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "We build relationships with established organizations in low-income communities, who connect us with a first class of 10 families. After six months working with us to improve their health, those 10 families recruit 10 more families, and serve as mentors. The cycle continues each season, as stakeholders spread practices of healthy living throughout their networks. So, over time, we organically grow a robust oasis of wellness in food deserts, empowering communities to nurture future generations’ bodies, minds and hearts.\r\n"
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: "A lot of wonderful projects are trying to change the food system from the top down. We are doing the opposite--from the bottom up, one family at a time. \r\n\r\nRight here in LA, we have kickstarted a growing movement teaching people how to take care of their bodies in the present food system. Groceryships is offering not a technical solution, but an adaptive one, helping people achieve vibrant health despite their current circumstances. We focus on the here and now, spreading a solution that equips people with the knowledge, tools, and support to make permanent lifestyle changes.  \r\n\r\nThe wealth gap creates the health gap. At Groceryships, we know every person's health is equally important, but the world seems to disagree. So we've structured our program and organization to help close both gaps. We focus on bringing all the resources available to higher income neighborhoods to lower income families. We fund this partially by donations, but also by bringing our innovative curriculum and program structure to corporations, through our for-profit Corporate Wellness program. \r\n\r\nIn 2050, Groceryships groups will have spread across Los Angeles. The tech companies in Silicon Beach will be getting healthy through our corporate wellness program, while at the same time financing groups in Compton and Inglewood. The finance companies in Pasadena and the South Bay will be getting healthy while financing Groceryships groups in Boyle Heights. \r\n\r\nBy 2050, the seeds we planted in 2014 will have taken root and changed the landscape from a desert to a rainforest, where generations of families have adopted healthy ways of eating, moving, and communicating. The Framingham study made clear the power of social networks. Changing a single families health can have profound influence not just on future generations of that family, but on everyone they come in contact with, and who those people come in contact with.  \r\nOver the long run, a change in one family can change a community, which can change a city. \r\n\r\n\r\n\r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: >-
+      Our first two groups are in South Los Angeles and Boyle Heights, where
+      childhood obesity is 30% and the rate of overweight/obesity is above 70%.
+      We will focus primarily on low-income families across Los Angeles who are
+      struggling with food related health issues like obesity, diabetes, heart
+      disease, malnourishment, etc. 
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Homeboy Industries has mentored us from the early stages of our program, providing advice and support in developing our concept. In October, we are launching our first class together, connecting their twenty-six years of experience, highly motivated members, and proven success with our innovative strategy. This is a mutually beneficial partnership, allowing us to transform the relationship with food for Homeboy employees, explore a different facet of the wellness emphasized by Homeboy, and introduce our curriculum to a new neighborhood.\r\n\r\nVitamix has also worked with us throughout our pilot program. The blenders they donate make it easier for families to increase fruit and vegetable consumption, so much so that kids of our families are holding “smoothie parties.” \r\n"
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Community Bonds & Connectedness
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "Groceryships increases access to healthy food by coaching families in navigating the food system. Over the course of six months of grocery stipends, people in under-resourced areas learn where and how to find and prepare nourishing meals despite external obstacles. In tandem with our comprehensive wellness classes, obesity rates decrease as lifestyle shifts take place. Groceryships’ unique holistic approach supports emotional well-being and mental health by strengthening interpersonal relationships and providing a safe space to de-stress and process trauma. The vital bonds developed in our rooms empower members of low-income communities to harness their collective strength in response to adverse events.\r\n"
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "Our evaluation will focus on three areas:\r\n\r\nKnowledge (survey) -- things like what is a whole food, health benefits of fruits/vegetables, identifying hidden sugars, understanding what's really in restaurant food. \r\nEmotional Health (survey) -- stress reduction, support network increase, sense of personal value. \r\nHabits (survey) -- increased consumption of fruits and vegetables, increase percentage of grocery budget spent on whole foods. \r\n\r\nIn addition, we will measure health metrics through clinic partnerships, including BMI, Blood Pressure, Cholesterol, A1c, etc. "
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "One night my wife and I watched A Place At The Table.  It’s about hunger in America, how in the richest country in the world, millions of children don’t know where their next meal is coming from. And the poor survive on the cheapest and least healthy food, so many families are both food insecure and obese.\r\n\r\nAfter the documentary ended something clicked in my mind. I realized that the majority of the documentaries we’d ever watched, were more or less about the same thing —  a hierarchical society that values some lives more than others. \r\n\r\nSo many documentaries are about people at the top saying (without actually saying it)... “my life matters more than yours.” Heads of oil companies saying, my profit is more valuable than you having clean water.  Food company executives saying, my wealth is more important than your health. Wall Street saying my money is more important than your home. Even private prison company executives, saying my profit is more important than your freedom. And the list goes on.\r\n\r\nAnd the consequences of all these decisions, they all land in the same place. On poor families, who have freeways built through their neighborhoods, waste dumped in their backyards, and whose children attend underfunded, sometimes decrepit, schools.\r\n\r\nEverywhere you turn, the deck is stacked against poor people. And especially so when it comes to health. They are disproportionately targeted by food company advertisements, they receive zero nutrition education, and often work 2-3 jobs just to make ends meet. Who has time to cook? And even if they wanted to there are often no fresh produce markets in their neighborhoods. Instead, fast food restaurants on nearly every corner peddle cheap, highly addictive processed foods with little nutritional value.\r\n\r\nIn a thousand different ways we’ve told the poor that they are not important. The people in these communities weren’t just obese and hungry because of the toxic food culture — they were also stressed out, beaten down, and depressed from growing up in a culture that had told them from birth that they are worthless, and then sold them cheap, addictive, unhealthy food to ameliorate their psychic pain. It was—and is—a vicious cycle. \r\n\r\nFrom Father Greg Boyle I learned that the power of Homeboy isn’t the thoroughness of their job training program, or the extensiveness of their job placement network. The power is in attitude — the heart — of the place, where everyone is is respected and valued. So too Groceryships"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "On August 13, 2014, the first Groceryships group will graduate in South Central Los Angeles. Two weeks later, on August 27th, the second class in the same location will begin. This South Central group is our flagship group, and will receive much of our focus. In October of this year, we will launch a new group at Homeboy Industries, our first satellite location. These groups -- South Central and Homeboy -- are our minimum number of groups for year 2. However, we expect that by the beginning of year 3, we will have at least 5 groups up and running.\r\n\r\nStrategically, our focus in year 2 will be on refining our program model and establishing a sustainable fundraising structure. \r\n\r\nTo refine our program, we will take the following steps:\r\n\r\n•\tProgram Binder--we will create a program binder that includes the curriculum, emotional topics, recipes, journal, and program outline. These will be handed to our next groups of families on the first day of class, and over time will iteratively develop into a stand-alone book that can be sold. \r\n\r\n•\tIncentive Structure--Rather than receiving $100 gift cards, the amount will fluctuate based on completion of certain tasks. There will be a $25 floor  based purely on attendance, and each participant will have the opportunity to earn more money by, for example, demonstrating via texted photos that they ate 5 vegetables/fruits per day ($5), prepared healthy family dinners ($5), lost weight ($2.50 per pound), reviewed weekly grocery store purchases with a nutritionist ($10), and completed a daily food journal ($5). This incentive model is inspired by Family Independence Initiative, who uses a similar model to empower families to emerge from poverty. \r\n\r\n•\tImprove Data Collection & Analysis: We will complete a logic model and specify the desired outcomes of our program. We will do a health screening of each member of participant families. Additionally, we will create before, during, and after surveys to test the knowledge intake and reported behavior changes. Lastly, we will analyze our applications to discern characteristics of our applicant pool.\r\n\r\n•\tTest Different Structures: Our model includes the following variables: education, cooking demonstrations, grocery store tour, financial incentives, 25-week term, 10 family group sizes, etc. We plan to test out different variations, customized to fit potential partners.\r\n\r\n•\tSouth LA Community Film Series: We are now in talks with filmmakers Laurie David and Lori SIlverbush ..."
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "Funding: we are a new organization. Strategy: crowdfunding, grant applications, Corporate Wellness.\r\n\r\nStaffing: Finding health coaches who both understand nutrition, and have the heart and emotional health to create a safe space without giving \"advice\" to families is one of our biggest challenges. "
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "There are about a million places teaching nutrition education and healthy cooking classes. \r\n\r\nThere are none, to our knowledge, that focus primarily on the emotional and spiritual sides of health, and consciously help families create powerful support networks. "
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "$250,000. \r\n\r\nWe are a young organization, but we are good at fundraising. In a year we raised over $100,000, and we have more on the way. Our founder, Sam Polk, is a sought after speaker, and generates honorariums to Groceryships. We also have developed facility in crowdfunding, and are launching a Corporate Wellness arm to generate profits. "
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Groceryships Budget Aug 2014--Aug 2015\t\r\n\t\r\nRevenue\t\r\nIndividual Donors (Major)\t75,000\r\nIndividual Donors (Minor)\t25,000\r\nGrants\t50,000\r\nSpeaking\t14,000\r\nCorporate Wellness\t5,000\r\nTotal Revenue\t169,000\r\n\t\r\nOperating Costs\t\r\nSalaries & Benefits\t100,000\r\nFiscal Sponsor Fees (6.5%)\t9,588\r\nInsurance\t500\r\nIncidentals\t5,000\r\nTotal Operating Costs\t115,088\r\n\t\r\nProgram Costs\t\r\nGroup #1 -- LA's Promise (2 groups)\t\r\nGroceries\t$25,000\r\nPrinting Costs\t$500\r\nFood Demonstrations\t$1,000\r\nGroup #1 -- Total\t$26,500\r\n\t\r\nGroup #2 -- Homeboy Industries (2 groups)\t\r\nGroceries\t25,000\r\nPrinting Costs\t$500\r\nFood Demonstrations\t$1,000\r\nGroup #2 -- Total\t26,500\r\n\t\r\nProgram Costs -- Total\t$53,000\r\n\t\r\nTotal Costs\t168,088\r\n\t\r\n\t"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '1'
 body_class: lime
 
 ---

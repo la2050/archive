@@ -550,6 +550,9 @@ stylesheets:
 {% endif %}
 
 
+
+
+{% comment %}
 <hr />
 
 <div class="proposal-answers">
@@ -560,14 +563,20 @@ stylesheets:
 {% endfor %}
 
 </div>
-
 <hr />
+{% endcomment %}
+
+
+
 
 {% endif %}
 
 
+
 {% if page.year_submitted == 2013 %}
 
+
+{% comment %}
 <div class="proposal-answers">
 
 <h3>What is your idea and how will it impact your indicator?</h3>
@@ -589,10 +598,12 @@ stylesheets:
 {{ page['What would success look like in the year 2050 regarding your indicator?'] }}
 
 </div>
+{% endcomment %}
 
 
 {% elsif page.year_submitted == 2014 %}
 
+{% comment %}
 <div class="proposal-answers">
 
 {% if page.project_areas and page.project_areas.size > 0 %}
@@ -622,10 +633,12 @@ stylesheets:
 {% endif %}
 
 </div>
+{% endcomment %}
 
 
 {% elsif page.year_submitted == 2015 %}
 
+{% comment %}
 <div class="proposal-answers">
 
 {% if page.project_areas and page.project_areas.size > 0 %}
@@ -667,6 +680,7 @@ stylesheets:
 {{ page['How do you plan to scale the success of your proposal?'] }}
 
 </div>
+{% endcomment %}
 
 
 {% else %}

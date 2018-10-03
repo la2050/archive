@@ -31,5 +31,25 @@ title: Pedagogics Coaching Group
 uri: /organizations/pedagogics-coaching-group/
 challenge_url: >-
   https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
+extrapolated_project_ids:
+  - '6102210'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+    Instruction and Practice
+project_titles:
+  - >-
+    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+    Instruction and Practice
+project_titles_from_project_ids:
+  - >-
+    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+    Instruction and Practice
+original_project_titles:
+  - >-
+    MINDSET RESET: Shifting School Culture - Coaching Educators In Mindful
+    Instruction and Practice
+original_project_ids:
+  - '6102210'
 
 ---

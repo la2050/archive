@@ -25,8 +25,19 @@ project_ids: '4102087'
 title: The Bitch Pack
 uri: /organizations/the-bitch-pack/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
+extrapolated_project_ids:
+  - '4102207'
+project_titles_from_extrapolated_project_ids:
+  - Women of Color Short Film Fund
 project_titles:
   - Women of Color Short Film Fund
+project_titles_from_project_ids:
+  - Extending the East San Fernando Valley Nature Parkway
+original_project_titles:
+  - Women of Color Short Film Fund
+original_project_ids:
+  - '4102207'
+project_titles_flagged: 1
 maker_image_id: '20953'
 maker_image_file_name: Screen_Shot_2014-07-30_at_5.51.26_PM.png
 

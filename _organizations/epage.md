@@ -30,5 +30,25 @@ title: EPage
 uri: /organizations/epage/
 challenge_url: >-
   https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
+extrapolated_project_ids:
+  - '6102139'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
+    new child safety service
+project_titles:
+  - >-
+    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
+    new child safety service
+project_titles_from_project_ids:
+  - >-
+    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
+    new child safety service
+original_project_titles:
+  - >-
+    Gaggle uses a fun wearable beacon and mobile app to create a revolutionary
+    new child safety service
+original_project_ids:
+  - '6102139'
 
 ---

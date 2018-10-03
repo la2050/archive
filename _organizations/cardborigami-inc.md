@@ -34,6 +34,22 @@ project_ids: '8102013'
 title: Cardborigami Inc
 uri: /organizations/cardborigami-inc/
 challenge_url: 'https://activation.la2050.org/live/cardborigami-inc/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - >-
+    Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
+    with dignity first
+project_titles_from_project_ids:
+  - >-
+    Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
+    with dignity first
+original_project_titles:
+  - >-
+    Pop-Up Sites for Overnight Temporary Shelter: Serving our homeless neighbors
+    with dignity first
+original_project_ids:
+  - '8102013'
 category: live
 
 ---

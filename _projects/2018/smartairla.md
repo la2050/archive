@@ -21,6 +21,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/smart
 project_video: ''
 project_id_3: '8102110'
 year_submitted: 2018
+organization_name: SmartAirLA
 project_proposal_description: >-
   Our targeted outcome is to improve health equity of underserved children.
   SmartAirLA will establish a Citizen Science Data Repository that includes a

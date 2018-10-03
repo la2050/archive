@@ -60,8 +60,21 @@ project_ids: '3102202'
 title: Natural History Museum of Los Angeles County
 uri: /organizations/natural-history-museum-of-los-angeles-county/
 challenge_url: 'http://maker.good.is/myla2050/projects/urbansafari.html'
+extrapolated_project_ids:
+  - '3102202'
+project_titles_from_extrapolated_project_ids:
+  - NHM Urban Safari
 project_titles:
   - NHM Urban Safari
+project_titles_from_project_ids:
+  - NHM Urban Safari
+original_project_titles:
+  - NHM Urban Safari
+  - NHM Urban Safari
+original_project_ids:
+  - '3102202'
+  - '3102202'
+project_titles_flagged: 1
 youtube_video_identifier: MNDn6OWCjco
 
 ---

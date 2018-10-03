@@ -39,6 +39,17 @@ project_ids: '8102010'
 title: Boys & Girls Clubs of Venice
 uri: /organizations/boys-girls-clubs-of-venice/
 challenge_url: 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
+extrapolated_project_ids:
+  - '8102010'
+project_titles_from_extrapolated_project_ids:
+  - 'ANGELENOS: Bridging Generations Connecting Values (BGCV)'
+project_titles:
+  - 'ANGELENOS: Bridging Generations Connecting Values (BGCV)'
+project_titles_from_project_ids:
+  - 'ANGELENOS: Bridging Generations Connecting Values (BGCV)'
+original_project_titles: []
+original_project_ids: []
+project_titles_flagged: 1
 category: connect
 
 ---

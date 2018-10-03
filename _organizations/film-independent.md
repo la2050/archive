@@ -30,6 +30,18 @@ project_ids: '8102040'
 title: Film Independent
 uri: /organizations/film-independent/
 challenge_url: 'https://activation.la2050.org/connect/film-independent/'
+extrapolated_project_ids:
+  - '8102040'
+project_titles_from_extrapolated_project_ids:
+  - 'Made in LA: Show us your LA and your vision for the future'
+project_titles:
+  - 'Made in LA: Show us your LA and your vision for the future'
+project_titles_from_project_ids:
+  - 'Made in LA: Show us your LA and your vision for the future'
+original_project_titles:
+  - 'Made in LA: Show us your LA and your vision for the future'
+original_project_ids:
+  - '8102040'
 category: connect
 
 ---

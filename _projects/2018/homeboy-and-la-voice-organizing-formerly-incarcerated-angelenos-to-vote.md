@@ -5,7 +5,7 @@ title: 'Homeboy and LA Voice: Organizing formerly incarcerated Angelenos to vote
 project_summary: >-
   Activate 100,000 Angelenos in civic engagement, increasing voter participation
   and supporting community organizing among formerly incarcerated and formerly
-  gang-involved men and women. 
+  gang-involved men and women.
 Please describe the activation your organization seeks to launch.: >-
   Homeboy Industries and LA Voice are partnering to increase education on voter
   rights, organize for voter registration and participation, and increase civic
@@ -26,6 +26,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102053'
 year_submitted: 2018
+organization_name: Homeboy Industries
 project_proposal_description: >-
   Homeboy Industries and LA Voice are partnering to increase education on voter
   rights, organize for voter registration and participation, and increase civic

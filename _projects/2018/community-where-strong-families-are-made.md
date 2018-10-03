@@ -5,7 +5,7 @@ title: 'Community: Where strong families are made'
 project_summary: >-
   Through hands-on workshops and trainings, Child360 will empower parents and
   community members to advocate on behalf of their families to realize the
-  changes they want to see in their community. 
+  changes they want to see in their community.
 Please describe the activation your organization seeks to launch.: >-
   Child360 will offer hands-on workshops and trainings to parents and community
   members throughout South Los Angles, East Los Angeles, and Antelope Valley.
@@ -60,6 +60,7 @@ project_image: >-
 project_video: 'https://youtu.be/3lSBgCsP9Sg'
 project_id_3: '8102018'
 year_submitted: 2018
+organization_name: Child360 (formerly Los Angeles Universal Preschool)
 project_proposal_description: >-
   Child360 will offer hands-on workshops and trainings to parents and community
   members throughout South Los Angles, East Los Angeles, and Antelope Valley.

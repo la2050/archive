@@ -30,6 +30,18 @@ project_ids: '8102050'
 title: Hacker Fund
 uri: /organizations/hacker-fund/
 challenge_url: 'https://activation.la2050.org/create/hacker-fund/'
+extrapolated_project_ids:
+  - '8102050'
+project_titles_from_extrapolated_project_ids:
+  - Hacker Fund Civic Innovation Center
+project_titles:
+  - Hacker Fund Civic Innovation Center
+project_titles_from_project_ids:
+  - Hacker Fund Civic Innovation Center
+original_project_titles:
+  - Hacker Fund Civic Innovation Center
+original_project_ids:
+  - '8102050'
 category: create
 
 ---

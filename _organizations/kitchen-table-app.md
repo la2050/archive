@@ -30,6 +30,26 @@ project_ids: '8102057'
 title: Kitchen Table App
 uri: /organizations/kitchen-table-app/
 challenge_url: 'https://activation.la2050.org/connect/kitchen-table-app/'
+extrapolated_project_ids:
+  - '8102057'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Kitchen Table App brings people together over a shared love of good food and
+    great company.
+project_titles:
+  - >-
+    Kitchen Table App brings people together over a shared love of good food and
+    great company.
+project_titles_from_project_ids:
+  - >-
+    Kitchen Table App brings people together over a shared love of good food and
+    great company.
+original_project_titles:
+  - >-
+    Kitchen Table App brings people together over a shared love of good food and
+    great company.
+original_project_ids:
+  - '8102057'
 category: connect
 
 ---

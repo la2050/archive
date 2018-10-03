@@ -44,7 +44,31 @@ stylesheets:
   {% endfor %}
 {% endfor %}
 
+
+{% comment %} SHIM {% endcomment %}
+{% if project_list.size <= 0 %}
+  {% for item in data_collection.docs %}
+    {% if item.organization_id == page.organization_id %}
+      {% assign project_list = project_list | push: item %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% comment %} SHIM {% endcomment %}
+{% if project_list.size <= 0 %}
+  {% assign project_id_list = page.project_ids | split: "," %}
+  {% for project_id in project_id_list %}
+    {% for item in data_collection.docs %}
+      {% if item.project_id == project_id %}
+        {% assign project_list = project_list | push: item %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+
+
 {% assign project_list = project_list | uniq %}
+
 
 {% if project_list.size > 0 %}
 {% assign project_list = project_list | sort: "year_submitted" | reverse %}

@@ -2,8 +2,8 @@
 project_id: '4102165'
 title: Frogtown Ribbon Gardens
 project_summary: >-
-  PHE trains college student volunteers to teach a skills-based health
-  curriculum in public high schools lacking health education.
+  Frogtown Ribbon Gardens increase access to affordable and healthy food in Los
+  Angeles Food Deserts by installing planters in public parkways
 category: live
 organization_id: '2018094'
 year_submitted: 2014
@@ -90,6 +90,426 @@ project_areas:
   - SOUTH LA
   - SFV
   - SOUTH BAY
+maker_answers:
+  city_state: 'Santa Monica, CA'
+  org_name: Global Green USA
+  org_website: www.globalgreen.org
+  org_twitter: www.twitter.com/globalgreen
+  org_facebook: www.facebook.com/globalgreenfans
+  org_instagram: instagram.com/globalgreen
+  org_mailingaddress: '2218 Main Street, 2nd Floor'
+  EIN: '770387124'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '1'
+  describe_collaboration: '0'
+  one_sentence_org: >-
+    Nonprofit working to stem climate change & build a more sustainable, secure
+    future. Helping the people, places & the planet in need.
+  describe_idea: >-
+    Frogtown Ribbon Gardens increase access to affordable and healthy food in
+    Los Angeles Food Deserts by installing planters in public parkways
+  describe_organization: >-
+    @globalgreen wants to turn barren parkway strips into productive urban farms
+    in Elysian Valley food deserts!
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '0'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '1'
+  area_other_blank: Northeast LA
+  more_detail: >-
+    Frogtown Ribbon Gardens aim to transform lost public space- the commonly
+    barren parkway strips in front of houses in Elysian Valley (a food desert)-
+    into functional areas for food production. This strategy is in direct
+    response both to LA City Council’s August 2013 15-0 vote to allow urban
+    gardening to take root in public parkways (the area between sidewalk and
+    curb) as well as Mayor Garcetti's numerous statements regarding the
+    implementation of urban gardening as a strategy to combat food deserts in
+    Los Angeles. A series of eight planting structures, ranging from simple
+    raised planting beds, to benches with embedded planter spaces, to raised
+    tree planters with built-in storage units, have been custom designed to fit
+    within these parkways. 
+  implement: "The implementation strategy for the Ribbon Gardens proposal primarily revolves around two concurrent elements: 1) fostering community support and engagement and 2) design, installation and planting of the various Ribbon Garden elements. Element one is achievable through Global Green’s extensive expertise at capacity building and community planning combined with the neighborhood’s demonstrated interest in food access through the creation of its community garden. Element two is achievable as the planters have already been designed and a planting palette has been developed. Further, we have previously tested this concept at the block level in April 2014 in Oakland, California, and from this event, we are prepared for neighborhood-scale integration. The implementation of the Frogtown Ribbon Gardens proposal will include the following steps: refine designs and communication materials; begin community outreach; acquire construction and planting materials; build planter kits; host community installation event; evaluate progress and build capacity for expanding Ribbon Gardens network to other food deserts in Los Angeles. \r\n\r\nFollowing an outreach effort to build a neighborhood coalition and leverage the strength of an existing community garden and the existing network of fruit trees distributed throughout Elysian Valley, the implementation strategy follows two paths. First, kits will be created for each planter that include lumber in pre-cut dimensions, fasteners, assembly and planting instructions so that all that is needed for assembly is a power drill. Global Green will host an installation event for community members and volunteers to assemble, install and plant these planters. The second strategy is the distribution of assembly and planting instructions in a booklet for residents to make their own planters. Each planter has been designed with ease of fabrication in mind, and as a result, all lumber cuts are either 90o or 45o, and can be performed free of charge at most hardware stores. The average parkway strip in Elysian Valley is 180 square feet, and with an average of 24 strips per block, there is nearly a basketball court’s worth of planting space each. Using a conservative .3 yield, roughly 1,300 pounds of fresh food per block per year can be produced; a significant contribution towards a healthier diet in a neighborhood lacking access to healthy foods, and assuming an average produce price of $2 per pound, a significant cost savings as well."
+  impact_live: "The USDA has estimated that 23.5 million US residents live in food deserts- low-income areas where a significant share of residents is more than half a mile from the nearest market- and Los Angeles is home to many such pockets of limited food access. Elysian Valley is one of the most prominent of these food deserts, particularly due to its geography with the LA river to it’s east and south and 5 and 2 freeways to the north and west.  As a result of this hemmed-in nature, ease of access to produce is particularly critical, and the Frogtown Ribbon Gardens proposal will help alleviate some of the pressures associated with living in a food desert while simultaneously advancing public discourse and engagement in a proactive, hands-on approach. Access to fresh and healthy food has been identified as one of the key indicators in many health issues in the American populace, and by empowering residents of Elysian Valley with the capacity to grow their own, the Frogtown Ribbon Gardens proposal continues already established community momentum in this vein.\r\n\r\nIn addition to mitigating long-standing community food access issues in Elysian Valley, the Frogtown Ribbon Gardens serve as a neighborhood-scale pilot project for a readily implementable strategy to combat conditions found throughout  Los Angeles' food deserts. The consciously designed and branded Ribbon Garden planter elements combined with the inherently community-driven nature of this effort will raise attention and advance conversation around this issue to foster complementary zoning and policy priorities by the City to further reduce the occurrence and effects of food deserts in LA. By the Fall of 2015, Los Angeles will have a neighborhood-scale pilot project demonstrating the viability of this approach. By 2050, the lessons learned from the project and the momentum gained through iterative adaptations in food deserts across the city will yield a robust network of community-driven food production and significant inroads made into the reduction of childhood obesity and other key indicators inherently tied to conditions found in food deserts. "
+  who_benefit: "The primary beneficiaries of this proposal are low-income households with limited access to fresh or healthy food in Northeast Los Angeles, specifically those in Elysian Valley. There is a real and demonstrated need for increased food access in many neighborhoods throughout Los Angeles County, and the Frogtown Ribbon Gardens provide a readily implementable, hands-on approach to mitigating the adverse health impacts associated with limited food options. This lack of access is underscored by the fact that Elysian Valley meets the USDA's criteria for a food desert - it is a low-income neighborhood where most of its residents live more than half a mile from the nearest market, a significant concern in this automobile dependent neighborhood. In addition to this USDA designation, as Los Angeles prepares its new Health and Wellness Element for the General Plan, the Planning Department has released data revealing that residents of Elysian Valley are in the lowest bracket for neighborhood food sources (9) and exhibits a childhood obesity rate of 28%. Elysian Valley’s childhood obesity rate is the key demographic indicator targeted for change by the Frogtown Ribbon Gardens. While this grant application seeks funds to support the research, production and installation of a Ribbon Garden network in Elysian Valley, the lessons learned as part of this pilot project will be applied to other communities in food deserts throughout Los Angeles. As a result, this means that while the initial impact of this proposal is primarily at the neighborhood scale, its long-term influence will be felt throughout Los Angeles. Secondary beneficiaries of the Ribbon Gardens proposal include visitors and residents of the neighborhood as the network of lush planters will help activate the streetscape and provide a more welcoming and lively public realm.\r\n"
+  partners_collaboration: "Three potential collaborators for this project- The Northeast LA Riverfront Collaborative, The Elysian Valley Community Garden and the Santa Monica Mountains Conservancy. The initial concept for the Frogtown Ribbon Gardens was developed as a competition entry for the Northeast LA Riverfront Collaborative. Our proposal won an Honorable Mention from competition judges and signals the viability of this proposal. Moving forward, we intend to connect with the Collaborative to gain their regional expertise and assistance with implementing the Ribbon Gardens approach in other food deserts in Northeast LA.\r\n\r\nThe Santa Monica Mountains Conservancy operates the Marsh Street Nature Park, Elysian Valley Gateway Park, Steelhead Park and Oso Park- three of which are situated against the western edge of the LA River in Elysian Valley. Connecting the Ribbon Gardens to these community assets and, in turn, to the river, will help solidify their presence as important fixtures in the community which both beautify the neighborhood and provide fresh, affordable and healthy food.\r\nPerhaps the most productive potential partners to collaborate with in Elysian Valley are the residents that in 2010 rallied together to promote access to healthy food, and established a .25-acre community garden at the intersection of Blake Avenue and Rich Street. This community driven effort simultaneously signals a desire for access to healthy produce and a demonstrated ability to self-organize to achieve this vision - two elements critical for the successful implementation of the Frogtown Ribbon Gardens proposal. The need and demand for fresh fruit and vegetables in Elysian Valley, however, far outstrips the production capacity of its community garden.We hope that by working in conjunction with this group, Global Green can leverage their community expertise and local gardening experience to see our mutual vision for increased food access in Elysian Valley to fruition. \r\n\r\nWhile we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant."
+  metrics_live_healthyfood: '1'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '1'
+  metrics_live_selfsufficiency: '1'
+  metrics_live_importedwater: '0'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '1'
+  metrics_live_pollutedwaterways: '1'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '1'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '1'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  impact_metrics: "The Frogtown Ribbon Gardens proposal will directly impact six of the 10 “Live” LA2050 metrics and two of the three LA2050 “Dream Metrics.” Access to healthy food is directly impacted through the production of fruits and vegetables. Natural uptake by the plants will reduce exposure to air toxins. The number of households below the self-sufficiency standard will be reduced through a reduction in grocery costs for these fruits and vegetables. Food deserts are often characterised by pronounced obesity, and by offering low-cost, nearby fresh and healthy food, community members will be able to make healthier consumptions decisions. Increasing the amount of greenery and trees in the neighborhood will simultaneously serve to beautify and activate the streetscape, yielding an improved pedestrian realm. The increased canopy cover and prevalence of plants will reduce stormwater impacts on polluted waterways through improved natural processes such as groundwater infiltration and evapotranspiration.\r\n\r\n\r\nBy increasing healthy food options, reducing the number of households below the self-sufficiency standard and providing opportunities to connect with natural systems and discover the magic of growing your own food, the prevalence of adverse childhood experiences will be reduced. With the first Ribbon Garden in Elysian Valley, and subsequent iterations of this approach in other food deserts in Los Angeles, the percentage of resilient LA communities will be raised as these communities increase their capacity to withstand and recover from difficult conditions such as fluctuating food markets. The percentage of tree canopy cover will be directly impacted by the planting of new street trees as part of this initiative."
+  best_place_to_create: '1'
+  best_place_to_play: '1'
+  best_place_to_connect: '0'
+  best_place_to_learn: '1'
+  evaluate: "Three specific metrics we will use to evaluate the planning, implementation and ongoing success of the Frogtown Ribbon Gardens are 1) the level of participation in community programs, 2) the number of Ribbon Garden Planters installed and 3) the amount of fresh fruit and vegetables grown. Studying the level of participation in community programs will reveal direct engagement with neighborhood residents. The total number of Ribbon Garden Planters installed in Elysian Valley will demonstrate community interest, viability of this approach and the full extent of the Ribbon Garden network. The total amount of food produced will be used to calculate the effectiveness of the Frogtown Ribbon Gardens in combatting food desert conditions in Elysian Valley. All three of these metrics will work in concert to serve as a barometer for effectiveness and help guide future iterations of Ribbon Gardens in other food deserts around Los Angeles.\r\n"
+  two_lessons: "As described above, in April 2014, a block-level installation of the Ribbon Gardens approach was tested in Oakland, California. Working with community partners and building the planters provided an indispensable opportunity to learn about the strengths and challenges of the Ribbon Gardens approach, refine planter designs and imparted two major lessons: 1) the importance of community buy-in and ownership, and 2) the need for a suite of planter options to accommodate various levels of needs and interests. As the Ribbon Gardens inherently become visible fixtures in the community and require the participation of property owners and a commitment to planting and maintaining them, broad community support is needed. By holding community outreach events and capitalizing upon the neighborhood’s demonstrated interest in local food production, we are confident in our ability to engender participation and support. Recognizing that residents in the community will have varying levels of time and interest in such an endeavor, we have developed a broader spectrum of Ribbon Garden planter elements to enable residents to choose the level of participation suitable for them- from a small herb garden to full-scale food production. \r\n"
+  achievable_goal: "Global Green’s expertise at community organizing and planning combined with the fact that research, design, and a proof-of-concept installation has already occurred, we are confident that the Frogtown Ribbon Gardens is a fully implementable and realizable goal within the next twelve months. Global Green has both the professional experience and the technical knowledge required to see this project to completion. We will track progress based upon the following timeline:\r\n\r\nOctober - December 2014: Refine designs and outreach materials; Begin ongoing community outreach process\r\n\r\nJanuary 2015: Identify Ribbon Garden host locations; Test build and refine each planter element\r\n\r\nFebruary 2015: Host community assembly and installation events; plant fruits, vegetables and trees\r\n\r\nMarch - June 2015: Maintain, existing planters; Distribute additional planter kits; Possibly host additional planting event\r\n\r\nJuly - August 2015: Harvest first year’s yield\r\n\r\nSeptember 2015: Evaluate program, Determine strengths and weaknesses; Develop future iterations"
+  major_challenges: "Though the Ribbon Gardens planter elements are low cost, easy to assemble, do not require a fixed foundation and the city has expressed significant interest in innovative solutions to addressing our food desert problem, challenges still remain. The first major challenge facing the successful implementation of the Frogtown Ribbon Gardens is getting buy-in from individual property owners to allow installation of the planter elements in the public parkways in front of their homes. This will require extensive outreach and coordination as well as assistance from community ambassadors committed to seeing this project to fruition. We are poised to meet this challenge through two approaches. First, individual property owners will be asked to sign agreements to allow installation and water the plants. Second, designated block captains will work to coordinate necessary plant care and harvest events. The second major challenge we anticipate is the necessary upkeep, maintenance, repair and additional installations of each Ribbon Garden planter element. Though costs for these demands will be covered by grant funds, the requisite coordination, prioritization and outreach involved in these tasks will require significant attention. This challenge will be addressed through careful monitoring, working with block captains and holding regular Ribbon Gardens community meetings to identify trends and developing issues in order to address them as efficiently as possible. \r\n"
+  competition: "While there are many important and innovative strategies being taken to mitigate the impacts of food deserts in Los Angeles, the Frogtown Ribbon Gardens proposal is distinct in scope, scale and approach. Similarly minded organizations include the UCLA Center for Population Health and Health Disparities’ efforts to expand offerings of fresh fruits and vegetables in Los Angeles corner stores, The Los Angeles Community Garden Council’s vision of building community gardens across the city, Community Health Council Incorporated’s calls for full-service grocery stores in food deserts throughout Los Angeles as well as the burgeoning guerrilla gardening movement. The reality is that food deserts in Los Angeles pose a significant challenge and their eradication requires a multifaceted approach with simultaneous efforts at the federal, state, city, council district and neighborhood scales. \r\n\r\nCity policy, community gardens, public educational campaigns, active encouragement of brick and mortar grocery stores, offering healthier alternatives in corner stores and other initiatives are all complementary but distinct solutions from Ribbon Gardens, and in aggregate, they will work in concert to reduce the effects felt by residents of food deserts in this city. Ribbon Gardens are unique from existing efforts as they simultaneously engage individual community members while operating at a neighborhood scale. Their unique design and prominence upon the streetscape foster excitement and participation while also signalling to community members and visitors that direct action is being taken to address Elysian Valley’s food access challenges.\r\n"
+  cost: "Budget calculations outlined below combined with experience from our block-level proof-of-concept event in Oakland makes us confident that we will be able to realize the Frogtown Ribbon Gardens vision for $100,000. Because each of the planter elements have already been designed, built and tested, and due to their relative economy of materials and ease of assembly, much of the product development is completed and what remains now is fine-tuning. Aside from construction and planting materials, a portion of which we hope to have donated, the major programmatic cost lies in community outreach and organization, as this will require the most staff time and attention. While specific locations will be determined through this community outreach effort, we aim to impact about six blocks, moving northward from Blimp Street to Knox Avenue with a special articulation tying the Ribbon Gardens into the LA River through Elysian Valley Gateway Park. Given this scope, we expect to spend about $40,000 on the planters and their associated materials, and allocate the remaining $60,000 to costs associated with planning, organizing and implementing this vision.\r\n"
+  budget: "Principal costs associated with this effort include site research, refining designs, community outreach, construction, installation, planting materials and maintenance. Expected allocation of the $100,000 is applied as follows.\r\n\r\nStaff time and overhead: $38,000 \r\nDirect expenses: $7,600\r\nMaterials (planters, soil, plants, trees): $40,000\r\nMaintenance (extra plants, repair materials): $5,000\r\nPrinting: $3,400\r\nCommunity events: $5,000\r\nTransit: $1,000"
+  resources_money: '1'
+  resources_staff: '0'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '0'
+  resources_communityoutreach: '1'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Santa Monica, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Global Green USA
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: www.globalgreen.org
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/globalgreen
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: www.facebook.com/globalgreenfans
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: instagram.com/globalgreen
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '2218 Main Street, 2nd Floor'
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '770387124'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '1'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '0'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Nonprofit working to stem climate change & build a more sustainable,
+      secure future. Helping the people, places & the planet in need.
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Frogtown Ribbon Gardens increase access to affordable and healthy food in
+      Los Angeles Food Deserts by installing planters in public parkways
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      @globalgreen wants to turn barren parkway strips into productive urban
+      farms in Elysian Valley food deserts!
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '0'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '1'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: Northeast LA
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      Frogtown Ribbon Gardens aim to transform lost public space- the commonly
+      barren parkway strips in front of houses in Elysian Valley (a food
+      desert)- into functional areas for food production. This strategy is in
+      direct response both to LA City Council’s August 2013 15-0 vote to allow
+      urban gardening to take root in public parkways (the area between sidewalk
+      and curb) as well as Mayor Garcetti's numerous statements regarding the
+      implementation of urban gardening as a strategy to combat food deserts in
+      Los Angeles. A series of eight planting structures, ranging from simple
+      raised planting beds, to benches with embedded planter spaces, to raised
+      tree planters with built-in storage units, have been custom designed to
+      fit within these parkways. 
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "The implementation strategy for the Ribbon Gardens proposal primarily revolves around two concurrent elements: 1) fostering community support and engagement and 2) design, installation and planting of the various Ribbon Garden elements. Element one is achievable through Global Green’s extensive expertise at capacity building and community planning combined with the neighborhood’s demonstrated interest in food access through the creation of its community garden. Element two is achievable as the planters have already been designed and a planting palette has been developed. Further, we have previously tested this concept at the block level in April 2014 in Oakland, California, and from this event, we are prepared for neighborhood-scale integration. The implementation of the Frogtown Ribbon Gardens proposal will include the following steps: refine designs and communication materials; begin community outreach; acquire construction and planting materials; build planter kits; host community installation event; evaluate progress and build capacity for expanding Ribbon Gardens network to other food deserts in Los Angeles. \r\n\r\nFollowing an outreach effort to build a neighborhood coalition and leverage the strength of an existing community garden and the existing network of fruit trees distributed throughout Elysian Valley, the implementation strategy follows two paths. First, kits will be created for each planter that include lumber in pre-cut dimensions, fasteners, assembly and planting instructions so that all that is needed for assembly is a power drill. Global Green will host an installation event for community members and volunteers to assemble, install and plant these planters. The second strategy is the distribution of assembly and planting instructions in a booklet for residents to make their own planters. Each planter has been designed with ease of fabrication in mind, and as a result, all lumber cuts are either 90o or 45o, and can be performed free of charge at most hardware stores. The average parkway strip in Elysian Valley is 180 square feet, and with an average of 24 strips per block, there is nearly a basketball court’s worth of planting space each. Using a conservative .3 yield, roughly 1,300 pounds of fresh food per block per year can be produced; a significant contribution towards a healthier diet in a neighborhood lacking access to healthy foods, and assuming an average produce price of $2 per pound, a significant cost savings as well."
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: "The USDA has estimated that 23.5 million US residents live in food deserts- low-income areas where a significant share of residents is more than half a mile from the nearest market- and Los Angeles is home to many such pockets of limited food access. Elysian Valley is one of the most prominent of these food deserts, particularly due to its geography with the LA river to it’s east and south and 5 and 2 freeways to the north and west.  As a result of this hemmed-in nature, ease of access to produce is particularly critical, and the Frogtown Ribbon Gardens proposal will help alleviate some of the pressures associated with living in a food desert while simultaneously advancing public discourse and engagement in a proactive, hands-on approach. Access to fresh and healthy food has been identified as one of the key indicators in many health issues in the American populace, and by empowering residents of Elysian Valley with the capacity to grow their own, the Frogtown Ribbon Gardens proposal continues already established community momentum in this vein.\r\n\r\nIn addition to mitigating long-standing community food access issues in Elysian Valley, the Frogtown Ribbon Gardens serve as a neighborhood-scale pilot project for a readily implementable strategy to combat conditions found throughout  Los Angeles' food deserts. The consciously designed and branded Ribbon Garden planter elements combined with the inherently community-driven nature of this effort will raise attention and advance conversation around this issue to foster complementary zoning and policy priorities by the City to further reduce the occurrence and effects of food deserts in LA. By the Fall of 2015, Los Angeles will have a neighborhood-scale pilot project demonstrating the viability of this approach. By 2050, the lessons learned from the project and the momentum gained through iterative adaptations in food deserts across the city will yield a robust network of community-driven food production and significant inroads made into the reduction of childhood obesity and other key indicators inherently tied to conditions found in food deserts. "
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "The primary beneficiaries of this proposal are low-income households with limited access to fresh or healthy food in Northeast Los Angeles, specifically those in Elysian Valley. There is a real and demonstrated need for increased food access in many neighborhoods throughout Los Angeles County, and the Frogtown Ribbon Gardens provide a readily implementable, hands-on approach to mitigating the adverse health impacts associated with limited food options. This lack of access is underscored by the fact that Elysian Valley meets the USDA's criteria for a food desert - it is a low-income neighborhood where most of its residents live more than half a mile from the nearest market, a significant concern in this automobile dependent neighborhood. In addition to this USDA designation, as Los Angeles prepares its new Health and Wellness Element for the General Plan, the Planning Department has released data revealing that residents of Elysian Valley are in the lowest bracket for neighborhood food sources (9) and exhibits a childhood obesity rate of 28%. Elysian Valley’s childhood obesity rate is the key demographic indicator targeted for change by the Frogtown Ribbon Gardens. While this grant application seeks funds to support the research, production and installation of a Ribbon Garden network in Elysian Valley, the lessons learned as part of this pilot project will be applied to other communities in food deserts throughout Los Angeles. As a result, this means that while the initial impact of this proposal is primarily at the neighborhood scale, its long-term influence will be felt throughout Los Angeles. Secondary beneficiaries of the Ribbon Gardens proposal include visitors and residents of the neighborhood as the network of lush planters will help activate the streetscape and provide a more welcoming and lively public realm.\r\n"
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Three potential collaborators for this project- The Northeast LA Riverfront Collaborative, The Elysian Valley Community Garden and the Santa Monica Mountains Conservancy. The initial concept for the Frogtown Ribbon Gardens was developed as a competition entry for the Northeast LA Riverfront Collaborative. Our proposal won an Honorable Mention from competition judges and signals the viability of this proposal. Moving forward, we intend to connect with the Collaborative to gain their regional expertise and assistance with implementing the Ribbon Gardens approach in other food deserts in Northeast LA.\r\n\r\nThe Santa Monica Mountains Conservancy operates the Marsh Street Nature Park, Elysian Valley Gateway Park, Steelhead Park and Oso Park- three of which are situated against the western edge of the LA River in Elysian Valley. Connecting the Ribbon Gardens to these community assets and, in turn, to the river, will help solidify their presence as important fixtures in the community which both beautify the neighborhood and provide fresh, affordable and healthy food.\r\nPerhaps the most productive potential partners to collaborate with in Elysian Valley are the residents that in 2010 rallied together to promote access to healthy food, and established a .25-acre community garden at the intersection of Blake Avenue and Rich Street. This community driven effort simultaneously signals a desire for access to healthy produce and a demonstrated ability to self-organize to achieve this vision - two elements critical for the successful implementation of the Frogtown Ribbon Gardens proposal. The need and demand for fresh fruit and vegetables in Elysian Valley, however, far outstrips the production capacity of its community garden.We hope that by working in conjunction with this group, Global Green can leverage their community expertise and local gardening experience to see our mutual vision for increased food access in Elysian Valley to fruition. \r\n\r\nWhile we have not worked directly with any of these groups in the past, we are confident that we can reach mutually beneficial partnerships with all three to combat the effects of food scarcity in Elysian Valley. Three factors critical to the success of these proposed collaborations are 1) ensuring collaboration, not competition, 2) identifying and pooling our mutual assets to develop the best implementation approach and 3) developing strategies to continue the Ribbon Gardens network beyond the LA2050 grant."
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "The Frogtown Ribbon Gardens proposal will directly impact six of the 10 “Live” LA2050 metrics and two of the three LA2050 “Dream Metrics.” Access to healthy food is directly impacted through the production of fruits and vegetables. Natural uptake by the plants will reduce exposure to air toxins. The number of households below the self-sufficiency standard will be reduced through a reduction in grocery costs for these fruits and vegetables. Food deserts are often characterised by pronounced obesity, and by offering low-cost, nearby fresh and healthy food, community members will be able to make healthier consumptions decisions. Increasing the amount of greenery and trees in the neighborhood will simultaneously serve to beautify and activate the streetscape, yielding an improved pedestrian realm. The increased canopy cover and prevalence of plants will reduce stormwater impacts on polluted waterways through improved natural processes such as groundwater infiltration and evapotranspiration.\r\n\r\n\r\nBy increasing healthy food options, reducing the number of households below the self-sufficiency standard and providing opportunities to connect with natural systems and discover the magic of growing your own food, the prevalence of adverse childhood experiences will be reduced. With the first Ribbon Garden in Elysian Valley, and subsequent iterations of this approach in other food deserts in Los Angeles, the percentage of resilient LA communities will be raised as these communities increase their capacity to withstand and recover from difficult conditions such as fluctuating food markets. The percentage of tree canopy cover will be directly impacted by the planting of new street trees as part of this initiative."
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "Three specific metrics we will use to evaluate the planning, implementation and ongoing success of the Frogtown Ribbon Gardens are 1) the level of participation in community programs, 2) the number of Ribbon Garden Planters installed and 3) the amount of fresh fruit and vegetables grown. Studying the level of participation in community programs will reveal direct engagement with neighborhood residents. The total number of Ribbon Garden Planters installed in Elysian Valley will demonstrate community interest, viability of this approach and the full extent of the Ribbon Garden network. The total amount of food produced will be used to calculate the effectiveness of the Frogtown Ribbon Gardens in combatting food desert conditions in Elysian Valley. All three of these metrics will work in concert to serve as a barometer for effectiveness and help guide future iterations of Ribbon Gardens in other food deserts around Los Angeles.\r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "As described above, in April 2014, a block-level installation of the Ribbon Gardens approach was tested in Oakland, California. Working with community partners and building the planters provided an indispensable opportunity to learn about the strengths and challenges of the Ribbon Gardens approach, refine planter designs and imparted two major lessons: 1) the importance of community buy-in and ownership, and 2) the need for a suite of planter options to accommodate various levels of needs and interests. As the Ribbon Gardens inherently become visible fixtures in the community and require the participation of property owners and a commitment to planting and maintaining them, broad community support is needed. By holding community outreach events and capitalizing upon the neighborhood’s demonstrated interest in local food production, we are confident in our ability to engender participation and support. Recognizing that residents in the community will have varying levels of time and interest in such an endeavor, we have developed a broader spectrum of Ribbon Garden planter elements to enable residents to choose the level of participation suitable for them- from a small herb garden to full-scale food production. \r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "Global Green’s expertise at community organizing and planning combined with the fact that research, design, and a proof-of-concept installation has already occurred, we are confident that the Frogtown Ribbon Gardens is a fully implementable and realizable goal within the next twelve months. Global Green has both the professional experience and the technical knowledge required to see this project to completion. We will track progress based upon the following timeline:\r\n\r\nOctober - December 2014: Refine designs and outreach materials; Begin ongoing community outreach process\r\n\r\nJanuary 2015: Identify Ribbon Garden host locations; Test build and refine each planter element\r\n\r\nFebruary 2015: Host community assembly and installation events; plant fruits, vegetables and trees\r\n\r\nMarch - June 2015: Maintain, existing planters; Distribute additional planter kits; Possibly host additional planting event\r\n\r\nJuly - August 2015: Harvest first year’s yield\r\n\r\nSeptember 2015: Evaluate program, Determine strengths and weaknesses; Develop future iterations"
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "Though the Ribbon Gardens planter elements are low cost, easy to assemble, do not require a fixed foundation and the city has expressed significant interest in innovative solutions to addressing our food desert problem, challenges still remain. The first major challenge facing the successful implementation of the Frogtown Ribbon Gardens is getting buy-in from individual property owners to allow installation of the planter elements in the public parkways in front of their homes. This will require extensive outreach and coordination as well as assistance from community ambassadors committed to seeing this project to fruition. We are poised to meet this challenge through two approaches. First, individual property owners will be asked to sign agreements to allow installation and water the plants. Second, designated block captains will work to coordinate necessary plant care and harvest events. The second major challenge we anticipate is the necessary upkeep, maintenance, repair and additional installations of each Ribbon Garden planter element. Though costs for these demands will be covered by grant funds, the requisite coordination, prioritization and outreach involved in these tasks will require significant attention. This challenge will be addressed through careful monitoring, working with block captains and holding regular Ribbon Gardens community meetings to identify trends and developing issues in order to address them as efficiently as possible. \r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "While there are many important and innovative strategies being taken to mitigate the impacts of food deserts in Los Angeles, the Frogtown Ribbon Gardens proposal is distinct in scope, scale and approach. Similarly minded organizations include the UCLA Center for Population Health and Health Disparities’ efforts to expand offerings of fresh fruits and vegetables in Los Angeles corner stores, The Los Angeles Community Garden Council’s vision of building community gardens across the city, Community Health Council Incorporated’s calls for full-service grocery stores in food deserts throughout Los Angeles as well as the burgeoning guerrilla gardening movement. The reality is that food deserts in Los Angeles pose a significant challenge and their eradication requires a multifaceted approach with simultaneous efforts at the federal, state, city, council district and neighborhood scales. \r\n\r\nCity policy, community gardens, public educational campaigns, active encouragement of brick and mortar grocery stores, offering healthier alternatives in corner stores and other initiatives are all complementary but distinct solutions from Ribbon Gardens, and in aggregate, they will work in concert to reduce the effects felt by residents of food deserts in this city. Ribbon Gardens are unique from existing efforts as they simultaneously engage individual community members while operating at a neighborhood scale. Their unique design and prominence upon the streetscape foster excitement and participation while also signalling to community members and visitors that direct action is being taken to address Elysian Valley’s food access challenges.\r\n"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "Budget calculations outlined below combined with experience from our block-level proof-of-concept event in Oakland makes us confident that we will be able to realize the Frogtown Ribbon Gardens vision for $100,000. Because each of the planter elements have already been designed, built and tested, and due to their relative economy of materials and ease of assembly, much of the product development is completed and what remains now is fine-tuning. Aside from construction and planting materials, a portion of which we hope to have donated, the major programmatic cost lies in community outreach and organization, as this will require the most staff time and attention. While specific locations will be determined through this community outreach effort, we aim to impact about six blocks, moving northward from Blimp Street to Knox Avenue with a special articulation tying the Ribbon Gardens into the LA River through Elysian Valley Gateway Park. Given this scope, we expect to spend about $40,000 on the planters and their associated materials, and allocate the remaining $60,000 to costs associated with planning, organizing and implementing this vision.\r\n"
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Principal costs associated with this effort include site research, refining designs, community outreach, construction, installation, planting materials and maintenance. Expected allocation of the $100,000 is applied as follows.\r\n\r\nStaff time and overhead: $38,000 \r\nDirect expenses: $7,600\r\nMaterials (planters, soil, plants, trees): $40,000\r\nMaintenance (extra plants, repair materials): $5,000\r\nPrinting: $3,400\r\nCommunity events: $5,000\r\nTransit: $1,000"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '0'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: lime
 
 ---

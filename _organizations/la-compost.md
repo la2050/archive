@@ -10,9 +10,9 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: Educational Institutions and Related Activities
 tags_indicators:
   - Climate change
-  - Community health
+  - Access to parks & green space
   - Environmental quality & sustainability
-  - Health
+  - Public safety & public space
 twitter: '@lacompost'
 instagram: '@lacompost'
 facebook: '@l.a.compostCA'
@@ -40,6 +40,28 @@ project_ids: '8102061'
 title: LA Compost
 uri: /organizations/la-compost/
 challenge_url: 'https://activation.la2050.org/connect/la-compost/'
+extrapolated_project_ids:
+  - '6102119'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Building Community and reducing organic waste via Community Compost Hubs
+    throughout LA County
+project_titles:
+  - >-
+    Building Community and reducing organic waste via Community Compost Hubs
+    throughout LA County
+  - Connect to Soil and People
+project_titles_from_project_ids:
+  - Connect to Soil and People
+original_project_titles:
+  - >-
+    Building Community and reducing organic waste via Community Compost Hubs
+    throughout LA County
+  - Connect to Soil and People
+original_project_ids:
+  - '6102119'
+  - '8102061'
+project_titles_flagged: 1
 category: connect
 
 ---

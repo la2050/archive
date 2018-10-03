@@ -29,6 +29,26 @@ project_ids: '8102134'
 title: VoteRunLead
 uri: /organizations/voterunlead/
 challenge_url: 'https://activation.la2050.org/connect/voterunlead/'
+extrapolated_project_ids:
+  - '8102134'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
+    Change
+project_titles:
+  - >-
+    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
+    Change
+project_titles_from_project_ids:
+  - >-
+    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
+    Change
+original_project_titles:
+  - >-
+    Women Lead L.A.: Activating Women to Collaborate, Lead, and Make Positive
+    Change
+original_project_ids:
+  - '8102134'
 category: connect
 
 ---

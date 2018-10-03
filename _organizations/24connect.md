@@ -30,8 +30,21 @@ project_ids: '4102074'
 title: 24Connect
 uri: /organizations/24connect/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
+extrapolated_project_ids:
+  - '4102001'
+project_titles_from_extrapolated_project_ids:
+  - CREATIVE CAPITAL FEST
 project_titles:
   - CREATIVE CAPITAL FEST
+project_titles_from_project_ids:
+  - >-
+    PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
+    how to pay for college
+original_project_titles:
+  - CREATIVE CAPITAL FEST
+original_project_ids:
+  - '4102001'
+project_titles_flagged: 1
 maker_image_id: '22856'
 maker_image_file_name: creative_capital_img.jpg
 

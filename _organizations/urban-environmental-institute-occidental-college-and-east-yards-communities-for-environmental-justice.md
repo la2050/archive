@@ -12,7 +12,9 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators:
   - Climate change
+  - Resiliency
   - Environmental quality & sustainability
+  - Public safety & public space
 twitter: www.twitter.com/uepi www.twitter.com/ejcej
 instagram: www.instagram.com/ejcej
 facebook: www.facebook.com/uepiatoxy www.facebook.com/ejcej
@@ -34,8 +36,18 @@ title: >-
 uri: >-
   /organizations/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
+extrapolated_project_ids:
+  - '5102335'
+project_titles_from_extrapolated_project_ids:
+  - LA Mobilized
 project_titles:
   - LA Mobilized
+project_titles_from_project_ids:
+  - LA Mobilized
+original_project_titles:
+  - LA Mobilized
+original_project_ids:
+  - '5102335'
 maker_image_id: '23743'
 maker_image_file_name: Screen_Shot_2015-10-06_at_10.04.00_AM.png
 

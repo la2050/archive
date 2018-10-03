@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   An interactive history of the art that has flourished along the LA River, the
   Art Barge will travel to River parks and cultural centers to activate
-  communities along the LA River and beyond. 
+  communities along the LA River and beyond.
 Please describe the activation your organization seeks to launch.: >-
   The Art Barge is a pop-up event, a public art installation, and a living
   archive of the cultural history of the LA River. Transported by truck, with
@@ -31,6 +31,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=Gr6O_ZaGMQo'
 project_id_3: '8102063'
 year_submitted: 2018
+organization_name: LA River Public Art Project (c/o ERW Design)
 project_proposal_description: >-
   The Art Barge is a pop-up event, a public art installation, and a living
   archive of the cultural history of the LA River. Transported by truck, with

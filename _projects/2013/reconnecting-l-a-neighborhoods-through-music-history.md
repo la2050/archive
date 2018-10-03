@@ -248,6 +248,8 @@ What would success look like in the year 2050 regarding your indicator?: >-
   social connections across neighborhood lines, racial and ethnic lines, class
   lines, into a living, breathing mosaic.
 year_submitted: 2013
+maker_answers: {}
+maker_answers_list: []
 body_class: strawberry
 
 ---

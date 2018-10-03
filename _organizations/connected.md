@@ -29,5 +29,25 @@ title: ConnectEd
 uri: /organizations/connected/
 challenge_url: >-
   https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
+extrapolated_project_ids:
+  - '6102054'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Careers Come Alive Virtually  in the Classroom by Connecting Students,
+    Teachers & Workplace Experts
+project_titles:
+  - >-
+    Careers Come Alive Virtually  in the Classroom by Connecting Students,
+    Teachers & Workplace Experts
+project_titles_from_project_ids:
+  - >-
+    Careers Come Alive Virtually  in the Classroom by Connecting Students,
+    Teachers & Workplace Experts
+original_project_titles:
+  - >-
+    Careers Come Alive Virtually  in the Classroom by Connecting Students,
+    Teachers & Workplace Experts
+original_project_ids:
+  - '6102054'
 
 ---

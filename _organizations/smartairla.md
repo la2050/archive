@@ -11,7 +11,7 @@ ntee_type: ''
 tags_indicators:
   - Community health
   - Health
-twitter: 0
+twitter: ''
 instagram: SmartAirLA
 facebook: www.facebook.com/smartairla
 org_type: Nonprofit
@@ -41,6 +41,18 @@ project_ids: '8102110'
 title: SmartAirLA
 uri: /organizations/smartairla/
 challenge_url: 'https://activation.la2050.org/live/smartairla/'
+extrapolated_project_ids:
+  - '8102110'
+project_titles_from_extrapolated_project_ids:
+  - 'SmartAirLA '
+project_titles:
+  - 'SmartAirLA '
+project_titles_from_project_ids:
+  - 'SmartAirLA '
+original_project_titles:
+  - SmartAirLA
+original_project_ids:
+  - '8102110'
 category: live
 
 ---

@@ -49,6 +49,7 @@ project_image: >-
 project_video: 'https://youtu.be/m9NRl8lAdZY'
 project_id_3: '8102043'
 year_submitted: 2018
+organization_name: Geffen Academy at UCLA
 project_proposal_description: >-
   The Geffen Academy Class of 2021 will activate a generation to use public
   transportation by developing a fun, functional mobile app. Our app, RideLA,

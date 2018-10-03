@@ -103,6 +103,220 @@ What would success look like in the year 2050 regarding your indicator?: >-
 year_submitted: 2013
 maker_image_id: '16858'
 maker_image_file_name: Access_LA_Rt_copy.jpg
+maker_answers:
+  Organization Name: Outfest
+  website: Outfest.org
+  Indicator: ' Social Connectedness'
+  brief: >-
+    One of the best ways to connect people is through storytelling. In September
+    of 2013, we will launch a 24-hour collaborative filmmaking project that
+    connects diverse populations and neighborhoods of Los Angeles. The theme of
+    the project is “local heroes” and each team will discover, document, and
+    share inspiring stories of the community. 15 filmmaking teams will be
+    assembled that consist of three novice filmmakers from underserved
+    communities, three professional filmmakers (mentors), and six to ten
+    volunteers. Each team will be diverse in age, race/ethnicity, and sexual
+    orientation. Moreover, each project will take place in a different
+    neighborhood, with the goal of occupying as many unique areas of Los Angeles
+    as possible. Prior to shooting the film, the team will work with
+    community-based organizations to discover stories of local heroes and to
+    build support for the project. The teams will have a month to develop
+    relationships, but only one day to actually shoot and edit the film. At the
+    end of the 24-hour period, the films will be screened first to the
+    community, then as a complete program at a special event, and finally
+    they’ll live online and will be pushed out via a social networking campaign.
+    Prizes will be given to the most impactful film, greatest number of
+    volunteers engaged, and best team cooperation. 
+  budget explanation: "- Project producer (finds mentors, coordinates teams, procures basic equipment, coordinates both neighborhood screening and final screening) – 4 months @ $4000/month = $16,000\r\n- Community organizer (partners with local community organizations, selects neighborhoods for projects) – 4 months @ $3000/month = $12,000\r\n- Volunteer coordinator – 4 months @ $3000/month = $12,000\r\n- Production assistant – 3 months@ $2000/month = $6,000\r\n- Publicist (generates print and online stories about the project) – 2 months@ 3.500/month $7,000\r\n- Outfest Senior Team Management – 4 months @ $2000/month = $8000\r\n- Web designer and online communications (produces website to house the films and runs social media campaign) = $10,000 \r\n- Office and supplies – 4 months @ $2125 = $8500\r\n- Insurance = $5,000\r\n- Food and craft services – 300 volunteers x $25 per person = $7,500\r\n- Volunteer T-shirts 300 x $10 = $3000\r\n- Final Screening (venue rental, projection costs, and reception) = $5000"
+  description: "By organizing diverse teams to tell a story about a local hero in 15 different neighborhoods across Los Angeles. This project will: \r\n1. Engage at least 300 volunteers. \r\n2. Build community among people of diverse backgrounds. \r\n3. Deepen connection to neighborhoods by highlighting local heroes. \r\n4. Provide basic training to at least 45 novice filmmakers who can transport their skills into the job force. "
+  collaborators: >-
+    Outfest has over 80 community partners that we work with through our film
+    festivals that include The Wall La Memorias Project, Jovenes Inc., Satrang,
+    AIDS Project Los Angeles, Children’s Hospital Los Angeles, Gay-Straight
+    Alliance Network (GSA Network), Planned Parenthood Los Angeles, The Trevor
+    Project, The Los Angeles Gay and Lesbian Center, and The Community Rights
+    Campaign. We will work with many of these organizations, specifically those
+    who are neighborhood and/or community specific. In addition, we will engage
+    neighborhood councils, such as the Historic Highland Park Neighborhood
+    Council, who has been a key collaborator in a recent neighborhood based
+    Outfest program. 
+  success: >-
+    In the short term, we will measure success by the number of volunteers who
+    participate, the number of films that are completed, how well the teams work
+    together, and how many community members were engaged to complete the
+    projects. In the long term, we’ll look at how many of the participants in
+    the project continued in volunteer service at Outfest or another non-profit
+    organization, how many people got more engaged in their neighborhood or
+    community, how many underserved people became engaged in filmmaking or
+    storytelling as a result of this project, and how many people used the
+    skills they learned in the project to get work. Ideally, this project will
+    continue annually and will build stronger and deeper relationships within
+    neighborhoods every year. 
+  description1: >-
+    Founded by UCLA students in 1982, Outfest is the leading organization that
+    promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
+    Bisexual and Transgender) stories on the screen. Outfest builds community by
+    connecting diverse populations to discover, discuss, and celebrate stories
+    of LGBT lives. Over the past three decades, Outfest has showcased thousands
+    of films from around the world to audiences of nearly a million, educated
+    and mentored hundreds of emerging filmmakers, and protected more than 20,000
+    LGBT films and videos. In addition, Outfest produces one of the largest film
+    festivals in Southern California, the only LGBT people of color film
+    festival, three filmmaking programs using mentors, and we have over 400
+    volunteers who participate in our programs. 
+  description3: >-
+    Outfest’s mission is to “protect our past, showcase our present, and nurture
+    our future by fostering artistic expression of gender, sexuality, and LGBT
+    culture and its transformative social impact on the world.” In order to
+    fulfill our mission, we depend on the collaborative relationships we have
+    built with filmmakers, film festivals, the film and television industry,
+    community organizations, arts institutions, policy makers, and community
+    members to ensure that artistic expression can have a transformative social
+    impact on the world. Other organizations that are similar to Outfest
+    include: Film Independent, GLAAD, and Frameline – all of whom we work with. 
+  vision: "In 2050, Los Angeles neighborhoods will have actively engaged residents, who not only know their neighbors, but they know their neighbor’s histories and stories, as well as their local heroes. Community members will understand the issues that affect their neighborhoods, collaborate in uplifting the Los Angeles region, and participate in local government. The result of this connection and involvement is that all neighborhoods will have affordable housing, jobs within a 30-minute commute, and access to parks, arts, and culture. \r\n\r\nOur project, Neighbor to Neighbor: Connecting Los Angeles Through Storytelling, contributes to this picture of success by connecting people to each other through community-based collaborative storytelling and volunteerism. By working on a project together people will get to know each other, develop common bonds, become involved in their community and invested in making Los Angeles a better place to live for everyone. "
+  EIN: 95-4089601
+  Tax Status: ' Non-profit organization'
+  about_you: 'Los Angeles '
+  Does your project impact Los Angeles County?: 'yes'
+maker_answers_list:
+  - name: Organization Name
+    label: ''
+    explanation: ''
+    answer: Outfest
+  - name: website
+    label: 'NULL'
+    explanation: >-
+      Have a homepage or blog you'd like to link to? Put the URL here.
+      <br/>(Example: http://www.yoursite.com)
+    answer: Outfest.org
+  - name: Indicator
+    label: ''
+    explanation: >-
+      Please select the one indicator that is most relevant to your project or
+      organization
+    answer: ' Social Connectedness'
+  - name: brief
+    label: ''
+    explanation: ''
+    answer: >-
+      One of the best ways to connect people is through storytelling. In
+      September of 2013, we will launch a 24-hour collaborative filmmaking
+      project that connects diverse populations and neighborhoods of Los
+      Angeles. The theme of the project is “local heroes” and each team will
+      discover, document, and share inspiring stories of the community. 15
+      filmmaking teams will be assembled that consist of three novice filmmakers
+      from underserved communities, three professional filmmakers (mentors), and
+      six to ten volunteers. Each team will be diverse in age, race/ethnicity,
+      and sexual orientation. Moreover, each project will take place in a
+      different neighborhood, with the goal of occupying as many unique areas of
+      Los Angeles as possible. Prior to shooting the film, the team will work
+      with community-based organizations to discover stories of local heroes and
+      to build support for the project. The teams will have a month to develop
+      relationships, but only one day to actually shoot and edit the film. At
+      the end of the 24-hour period, the films will be screened first to the
+      community, then as a complete program at a special event, and finally
+      they’ll live online and will be pushed out via a social networking
+      campaign. Prizes will be given to the most impactful film, greatest number
+      of volunteers engaged, and best team cooperation. 
+  - name: budget explanation
+    label: ''
+    explanation: ''
+    answer: "- Project producer (finds mentors, coordinates teams, procures basic equipment, coordinates both neighborhood screening and final screening) – 4 months @ $4000/month = $16,000\r\n- Community organizer (partners with local community organizations, selects neighborhoods for projects) – 4 months @ $3000/month = $12,000\r\n- Volunteer coordinator – 4 months @ $3000/month = $12,000\r\n- Production assistant – 3 months@ $2000/month = $6,000\r\n- Publicist (generates print and online stories about the project) – 2 months@ 3.500/month $7,000\r\n- Outfest Senior Team Management – 4 months @ $2000/month = $8000\r\n- Web designer and online communications (produces website to house the films and runs social media campaign) = $10,000 \r\n- Office and supplies – 4 months @ $2125 = $8500\r\n- Insurance = $5,000\r\n- Food and craft services – 300 volunteers x $25 per person = $7,500\r\n- Volunteer T-shirts 300 x $10 = $3000\r\n- Final Screening (venue rental, projection costs, and reception) = $5000"
+  - name: description
+    label: ''
+    explanation: ''
+    answer: "By organizing diverse teams to tell a story about a local hero in 15 different neighborhoods across Los Angeles. This project will: \r\n1. Engage at least 300 volunteers. \r\n2. Build community among people of diverse backgrounds. \r\n3. Deepen connection to neighborhoods by highlighting local heroes. \r\n4. Provide basic training to at least 45 novice filmmakers who can transport their skills into the job force. "
+  - name: collaborators
+    label: ''
+    explanation: ''
+    answer: >-
+      Outfest has over 80 community partners that we work with through our film
+      festivals that include The Wall La Memorias Project, Jovenes Inc.,
+      Satrang, AIDS Project Los Angeles, Children’s Hospital Los Angeles,
+      Gay-Straight Alliance Network (GSA Network), Planned Parenthood Los
+      Angeles, The Trevor Project, The Los Angeles Gay and Lesbian Center, and
+      The Community Rights Campaign. We will work with many of these
+      organizations, specifically those who are neighborhood and/or community
+      specific. In addition, we will engage neighborhood councils, such as the
+      Historic Highland Park Neighborhood Council, who has been a key
+      collaborator in a recent neighborhood based Outfest program. 
+  - name: success
+    label: ''
+    explanation: ''
+    answer: >-
+      In the short term, we will measure success by the number of volunteers who
+      participate, the number of films that are completed, how well the teams
+      work together, and how many community members were engaged to complete the
+      projects. In the long term, we’ll look at how many of the participants in
+      the project continued in volunteer service at Outfest or another
+      non-profit organization, how many people got more engaged in their
+      neighborhood or community, how many underserved people became engaged in
+      filmmaking or storytelling as a result of this project, and how many
+      people used the skills they learned in the project to get work. Ideally,
+      this project will continue annually and will build stronger and deeper
+      relationships within neighborhoods every year. 
+  - name: description1
+    label: ''
+    explanation: ''
+    answer: >-
+      Founded by UCLA students in 1982, Outfest is the leading organization that
+      promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
+      Bisexual and Transgender) stories on the screen. Outfest builds community
+      by connecting diverse populations to discover, discuss, and celebrate
+      stories of LGBT lives. Over the past three decades, Outfest has showcased
+      thousands of films from around the world to audiences of nearly a million,
+      educated and mentored hundreds of emerging filmmakers, and protected more
+      than 20,000 LGBT films and videos. In addition, Outfest produces one of
+      the largest film festivals in Southern California, the only LGBT people of
+      color film festival, three filmmaking programs using mentors, and we have
+      over 400 volunteers who participate in our programs. 
+  - name: description3
+    label: ''
+    explanation: ''
+    answer: >-
+      Outfest’s mission is to “protect our past, showcase our present, and
+      nurture our future by fostering artistic expression of gender, sexuality,
+      and LGBT culture and its transformative social impact on the world.” In
+      order to fulfill our mission, we depend on the collaborative relationships
+      we have built with filmmakers, film festivals, the film and television
+      industry, community organizations, arts institutions, policy makers, and
+      community members to ensure that artistic expression can have a
+      transformative social impact on the world. Other organizations that are
+      similar to Outfest include: Film Independent, GLAAD, and Frameline – all
+      of whom we work with. 
+  - name: vision
+    label: ''
+    explanation: ''
+    answer: "In 2050, Los Angeles neighborhoods will have actively engaged residents, who not only know their neighbors, but they know their neighbor’s histories and stories, as well as their local heroes. Community members will understand the issues that affect their neighborhoods, collaborate in uplifting the Los Angeles region, and participate in local government. The result of this connection and involvement is that all neighborhoods will have affordable housing, jobs within a 30-minute commute, and access to parks, arts, and culture. \r\n\r\nOur project, Neighbor to Neighbor: Connecting Los Angeles Through Storytelling, contributes to this picture of success by connecting people to each other through community-based collaborative storytelling and volunteerism. By working on a project together people will get to know each other, develop common bonds, become involved in their community and invested in making Los Angeles a better place to live for everyone. "
+  - name: EIN
+    label: EIN
+    explanation: ''
+    answer: 95-4089601
+  - name: Tax Status
+    label: Are you a for profit organization or non-profit organization?
+    explanation: ''
+    answer: ' Non-profit organization'
+  - name: about_you
+    label: 'City, State'
+    explanation: 'NULL'
+    answer: 'Los Angeles '
+  - name: Does your project impact Los Angeles County?
+    label: Does your project impact Los Angeles County?
+    explanation: Does your project impact Los Angeles County?
+    answer: 'yes'
 body_class: strawberry
+project_summary: >-
+  Founded by UCLA students in 1982, Outfest is the leading organization that
+  promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
+  Bisexual and Transgender) stories on the screen. Outfest builds community by
+  connecting diverse populations to discover, discuss, and celebrate stories of
+  LGBT lives. Over the past three decades, Outfest has showcased thousands of
+  films from around the world to audiences of nearly a million, educated and
+  mentored hundreds of emerging filmmakers, and protected more than 20,000 LGBT
+  films and videos. In addition, Outfest produces one of the largest film
+  festivals in Southern California, the only LGBT people of color film festival,
+  three filmmaking programs using mentors, and we have over 400 volunteers who
+  participate in our programs. 
 
 ---

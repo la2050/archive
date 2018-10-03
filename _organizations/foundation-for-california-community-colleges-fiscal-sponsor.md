@@ -24,10 +24,25 @@ project_ids: '4102127'
 title: Foundation for California Community Colleges (Fiscal Sponsor)
 uri: /organizations/foundation-for-california-community-colleges-fiscal-sponsor/
 challenge_url: ''
+extrapolated_project_ids:
+  - '4102074'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
+    how to pay for college
 project_titles:
   - >-
     PlanYour Future: Helping 6th-12th grade students plan prepare and figure out
     how to pay for college
+project_titles_from_project_ids:
+  - Seeding STEM at LA County Alliance for Boys and Girls Clubs
+original_project_titles:
+  - >-
+    PlanYour Future: Helping 6th-12th grade students plan, prepare and figure
+    out how to pay for college
+original_project_ids:
+  - '4102074'
+project_titles_flagged: 1
 youtube_video_identifier: q2OELc_KuI4
 
 ---

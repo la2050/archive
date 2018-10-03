@@ -28,10 +28,27 @@ project_ids: '4102053'
 title: Levantine Cultural Center
 uri: /organizations/levantine-cultural-center/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
+extrapolated_project_ids:
+  - '4102117'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Creating Community With L.A.s Cultural Center for the Middle East/North
+    Africa
 project_titles:
   - >-
     Creating Community With L.A.s Cultural Center for the Middle East/North
     Africa
+project_titles_from_project_ids:
+  - >-
+    Deaf West Theatre Performing Arts Center and Educational Outreach Program
+    Residency
+original_project_titles:
+  - >-
+    Creating Community With L.A.'s Cultural Center for the Middle East/North
+    Africa
+original_project_ids:
+  - '4102117'
+project_titles_flagged: 1
 maker_image_id: '22605'
 maker_image_file_name: MECAY-Education-Proposal-2014.jpg
 

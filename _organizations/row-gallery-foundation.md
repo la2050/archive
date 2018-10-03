@@ -25,8 +25,19 @@ project_ids: '4102078'
 title: Row Gallery Foundation
 uri: /organizations/row-gallery-foundation/
 challenge_url: 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
+extrapolated_project_ids:
+  - '4102182'
+project_titles_from_extrapolated_project_ids:
+  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
 project_titles:
   - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
+project_titles_from_project_ids:
+  - Leimert Park Village Studios
+original_project_titles:
+  - 'Row Gallery Foundation: Empowering Artists from All Walks of Life'
+original_project_ids:
+  - '4102182'
+project_titles_flagged: 1
 youtube_video_identifier: ApjqumUUgTI
 
 ---

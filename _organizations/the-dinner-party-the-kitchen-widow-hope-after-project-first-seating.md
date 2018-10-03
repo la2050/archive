@@ -11,7 +11,9 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators:
   - Mental & emotional health
+  - Community gatherings
   - Health
+  - Social connectedness
 twitter: >-
   www.twitter.com/DinnerPartiers, www.twitter.com/TheKitchenWidow,
   www.twitter.com/FindHopeAfter, www.twitter.com/firstseating
@@ -34,8 +36,18 @@ title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 uri: >-
   /organizations/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
+extrapolated_project_ids:
+  - '5102300'
+project_titles_from_extrapolated_project_ids:
+  - The Good Grief Garden
 project_titles:
   - The Good Grief Garden
+project_titles_from_project_ids:
+  - The Good Grief Garden
+original_project_titles:
+  - The Good Grief Garden
+original_project_ids:
+  - '5102300'
 youtube_video_identifier: YijVi1ZG5EM
 
 ---

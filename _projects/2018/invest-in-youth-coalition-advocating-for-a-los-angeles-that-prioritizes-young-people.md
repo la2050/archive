@@ -33,6 +33,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/big-c
 project_video: ''
 project_id_3: '8102008'
 year_submitted: 2018
+organization_name: Big Citizen HUB
 project_proposal_description: >-
   The Invest in Youth Coalition will activate 100,000 Angelenos to advocate for
   our city’s young people, urging policymakers to prioritize youth outcomes by

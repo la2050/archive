@@ -21,8 +21,17 @@ project_ids: '4102162'
 title: Safecast
 uri: /organizations/safecast/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - Thriving in a Hotter Los Angeles—100% Sustainability by 2050
+project_titles_from_project_ids:
+  - Los Angeles Resilience Rating System
+original_project_titles:
+  - Help build a Realtime Environmental Sensor Network
+original_project_ids:
+  - '4102092'
+project_titles_flagged: 1
 youtube_video_identifier: Cb6MAN2lVkg
 
 ---

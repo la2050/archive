@@ -77,6 +77,395 @@ maker_image_id: '22249'
 maker_image_file_name: CARECEN_College_Head_Start_Program.jpg
 project_areas:
   - CENTRAL LA
+maker_answers:
+  about_you: 'Los Angeles, CA'
+  org_name: Central American Resource Center - CARECEN - Los Angeles
+  org_website: 'http://www.carecen-la.org'
+  org_twitter: 'https://twitter.com/Carecen_LA'
+  org_facebook: 'https://www.facebook.com/Carecen.LA'
+  org_instagram: ''
+  org_mailingaddress: '2845 West 7th Street, Los Angeles, CA 90005'
+  org_ein: '953867724'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    CARECEN is a non-profit organization working for the economic mobility,
+    civic engagement and social integration of immigrants.
+  one_sentence_project: >-
+    College Head Start provides high schools students academic enrichment,
+    college admission/financial aid assistance, and college transition.
+  describe_idea: >-
+    We are @CARECENCHS students, dreaming big and becoming first generation
+    latino students achieving college success #higherlearning
+  all_county: '0'
+  region_county: '1'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '0'
+  area_southLA: '0'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "Over the past several decades, the U.S. has witnessed a dramatic shift in the educational aspirations of high school students, particularly among low-income and minority students. Today, the momentum has shifted as more and more students are witnessing an even greater competitive job market that requires higher G.P.A.s., greater parent involvement and community services in order to enter top universities. \r\n\r\nCARECEN’s College Head Start (CHS) is a three-phase program providing intensive pre-collegiate services for high-school students looking to apply for university and college admission. The goal for the CHS Program is to create a sustainable high school impact program where college readiness and graduation are the standard."
+  implement: "For the past two years, CARECEN has been building momentum to continue expanding the College Head Start (CHS) Program, not only to those graduating seniors from within the Belmont Zone of Choice, but to creatively build a program that will be fully integrated within a local high school as a requirement for high school graduation. Since its inception in late 2012, CARECEN has provided over 50 students and their families with College Head Start Program services, with 100% of participants accepted to four-year institutions including: Harvard University; University of California, Santa Cruz; California State University, Los Angeles, among other community and vocational schools.\r\n\r\nNevertheless, as we continue to grow the College Head Start Program, it is our belief that in order for CARECEN to make a significant impact in the lives of Latino students, we must have the opportunity to fully integrate our program at a local high school, amongst graduating students (12th grade) and even younger (9th through 11th grade students) in an effort to increase high school graduation, college eligibility and enrollment, and further increase college graduation rates for Latino students. \r\n\r\nOne way to implement this idea is working with a local high school, sharing CARECEN's College Head Start Program vision where college readiness and graduation are the standard! CARECEN has been approached by Civitas School of Leadership, a local high school located in Central Los Angeles, designed as a small school community, Civitas pursues high quality student learning through data-driven instruction, project-based learning, interdisciplinary curriculum, and vertical planning. With many of Civitas students approaching CARECEN to participate in their after-school tutoring and college counseling, school officials initiated talks with CARECEN regarding the creation and development of year long curriculum and classes to be offered at Civitas benefitting their students.\r\n\r\nIn order to fully implement CARECEN's College Head Start Program, we (CARECEN) need to hire a program assistant to support current students enrolled in the program in order for the program coordinator to fully develop a school-year curriculum addressing graduating high school students needs as they transition out of high school, how to finance their education and their detachment from their family as they pursue higher learning. CARECEN will speak with Civitas' Principal, Parent Council and School Board to pursue funding."
+  impact_learn: "CARECEN strongly believes that in order for our community to flourish we must first look toward our students, whose ongoing struggle to complete their high school education has been a task left unattended. Our College Head Start Program enriches students lives by encouraging them to become active participants in their communities, while also striving for academic enrichment and a successful transition toward college-life. By helping students reach their high school graduation goals, encouraging their path toward higher education, the City of Los Angeles will benefit from an elite class of hard-working and intellectual Latino students. \r\n\r\nIn having bright students incorporate their lives within the City of Los Angeles, local communities (many of which those same students grew up in) will return to their roots in pursuit of changing the community makeup make academic enrichment and college readiness the standard! For each student who successfully completes our College Head Start Program, they will not only become an asset to our community but will become our future community leaders."
+  who_benefit: "CARECEN's College Head Start Program will benefit students and families residing in Central Los Angeles, specifically within the communities of Westlake/Pico-Union. Students, specifically those attending Civitas School of Leadership, are recruited from within a five to ten mile radius of CARECEN's Community Center located in Central Los Angeles community of Pico-Union. \r\n\r\nProgram participants are composed of 12th grade high school students; both high and low academically performing; first generation students attending college; students/families with limited financial resources, English as a Second Language (ESL) and English Language Learner (ELL) students, and undocumented AB540 students. The College Head Start Program will serve local City of Los Angeles students, ranging in age from 16 – 18 years old, with an ethnic breakdown including: 98% Latino, 2% Mixed Ethnicity.\r\n\r\nMany students coming to CARECEN seeking academic enrichment services have been labeled by community standards as underserved and at-risk due to a lack of college advisors at schools, and suffering through significant state budget deficits with continuous educational cutbacks. It is worth nothing that neighboring high schools among the Belmont Zone of Choice where Civitas is located, are among some of Los Angeles Unified School District's most underperforming schools, with a graduation rate of 34%. CARECEN’s College Head Start Program will prove that is core curriculum and student-led services provide significant academic support and individualized attention, addressing the unmet educational needs of disadvantaged, under-served, and at-risk students; filling the gaps that exists in local schools.\r\n\r\nWith that, we believe that academic success goes hand-in-hand with leadership development for students and parents, therefore, College Head Start’s goals are to create a sustainable high school impact program, geared to support graduating students among Civitas School of Leadership and many other among the Belmont Zone of Choice by: (1) monitoring students academic progress, (2) ensuring students access to academic support, (3) helping students earn a high school diploma, and (4) preparing students to attend a: university, community college, vocational and/or trade school.\r\n\r\nReal change and benefits derive from communities who are well-informed, have the necessary tools to advocate for quality education, and who collaborate with key institutions such as schools and community organizations."
+  collaboration: "Throughout its 31 year history, CARECEN has produced many successful partnerships and collaborations with local community based organizations, regional and out-of-state partners, sister organizations, schools districts and private and public agencies. The College Head Start Program collaborates and partners with local schools in order to request transcripts, grades, school involvement, and most importantly, to streamline the process of test scores (SAT or ACT) and credit completion as a requirement for college admission. \r\n\r\nAs the program continues to expand and funding is secured, CARECEN will partner with Civitas School of Leadership in the Westlake/Pico-Union community. As previously noted, Civitas is designed as a small school and part of the Los Angeles Smalls Schools Center, Civitas School of Leadership pursues high quality student learning through a variety of means, including data-driven instruction, project-based learning, interdisciplinary curriculum, and vertical planning. \r\n\r\nA strong partnership with Civitas School of Leadership will enable CARECEN to integrate the College Head Start Program as a graduation requirement benefiting more than 600 graduating high school seniors each academic year. CARECEN has worked with Civitas School of Leadership for many years providing academic enrichment and parent education workshops at school campus and CARECEN's Community Center. Our successful and ongoing partnership throughout the years with Civitas has created a trusting relationship with CARECEN and the strength of our programs have demonstrated our effectiveness to aid students in reaching their highest academic potential. \r\n\r\nMost notably, the three critical factors to the success of our partnership with Civitas School of Leadership are: \r\n1.\tCreating a culture where academic enrichment and college readiness are the standard. \r\n2.\tPartnering with local colleges, universities and other community-based organizations to create a network of collaborative partners willing to help students create a transition plan toward college-life. \r\n3.\tWorking together (CARECEN and Civitas) influencing a lasting change in the Westlake/Pico-Union community by raising awareness for higher academic standards and college readiness. "
+  metrics_learn_earlyeducation: '0'
+  metrics_learn_communitycollege: '0'
+  metrics_learn_unemployment: '0'
+  metrics_learn_graduationrates: '1'
+  metrics_learn_proficiency: '1'
+  metrics_learn_api: '1'
+  metrics_learn_college: '1'
+  metrics_learn_pipeline: '1'
+  metrics_learn_suspension: '0'
+  metrics_learn_truancy: '0'
+  metrics_learn_safety: '0'
+  metrics_learn_other: '0'
+  metrics_learn_blank: ''
+  impact_metrics: "CARECEN’s College Head Start Program will impact the above metrics by: \r\n\r\n1. Encouraging and helping program participants meet and complete their high graduation requirements, therefore helping elevate the district-wide graduating rates, specifically within the Belmont Zone of Choice where the student graduation rate is 34%.\r\n \r\n2. Encouraging participating students to challenge themselves academically by taking on higher proficiency courses in English, Language Arts and Math in order to a greater opportunity to compete for a coveted spot in colleges and universities not only locally but statewide and nationally. \r\n\r\n3. Aiding program participants to complete their high school diploma requirements and test average to above average in standardized testing will increase the Academic Performance Index Scores for individual schools throughout the district. \r\n\r\n4. Encouraging students to enroll in higher learning institutions as the standard for professional acclaim, therefore college matriculation rates will rise. To many program participants, a college degree is a gold standard to achieving the American Dream.  \r\n\r\n5. Creating and developing a strong College Head Start Program and Curriculum involving not only the graduating student, but their families.  Joining forces, both students and their families will be aided with academic enrichment, college admissions and financial aid assistance and, most importantly, support in the transition to college-life. This process covers student’s overall education pipeline. "
+  best_place_to_connect: '1'
+  best_place_to_create: '1'
+  best_place_to_play: '0'
+  healthiest_place_to_live: '0'
+  evaluate: "CARECEN will evaluate the success and effectiveness of its College Head Start Program using the following measurements: \r\n• Tracking the number of high school credits needed for graduation by students participating in the College Head Start Program.\r\n• Tracking the number of program participants admitted and attending a four-year college/university.\r\n• Tracking the number of program participants attending a two-year college or trade program.\r\n• Tracking the number of scholarships and/or other financial aid awards attained by students through their participation in the College Head Start Program. \r\n• Tracking referrals and/or collaborations of service between CARECEN, participating students, schools and parents. \r\n• Tracking the number of College Head Start Alumni graduating from their respective two-year or four-year academic institutions.\r\n\r\nIn addition, CARECEN will conduct pre- and post-graduation surveys. Once admitted to the College Head Start Program, CARECEN will administer a pre-graduation survey to gauge the level of involvement and expectations of each incoming student. CARECEN will evaluate and determine the comfort levels of each student and what they expect to learn within the 30 weeks of the program. The same survey will be given to parents to gauge their strengths, expectations and level of commitment. At the program conclusion, students and parents will be given a post-graduation survey to analyze and provide feedback on the program and its processes. Program staff and CARECEN’s Executive Director will analyze the programs strengths, weaknesses and areas for immediate improvement.\r\n\r\nThrough the evaluation of the above-mentioned measurements, our College Head Start Program anticipates the following success indicators: \r\n\r\n• 100% of participants will receive a high school diploma or GED. \r\n• 90% of participants will qualify for admittance to a four-year university. \r\n• 100% of participants will complete at least 10 scholarship applications, with approximately 50% of students receiving additional financial assistance for educational purposes from scholarships and/or private donations.\r\n• 100% of participants will complete a comprehensive Academic/Financial/Personal Growth Plan.\r\n• 100% of participants will enter into post-high school education (e.g. four-year university, community college, vocational and/or trade school). "
+  two_lessons: "Two lessons that have informed our College Head Start Program are: \r\n\r\n(1)\tEstablishing an ongoing relationship with high schools and our program in order to align their teachings and/or courses in order to improve college readiness. In working with school officials, CARECEN is being strategic in putting an emphasis on certain curriculum benefiting the student’s chances to enter a higher learning institution. Aligning expectations and giving students information about their level of school readiness while pursuing their high school diploma will ensure that students don’t waister their final year in school. \r\n\r\n(2)\tWith the early success of CARECEN’s College Head Start Program, we have created data systems to track student progress across educational levels and higher learning institutions. In 2015, with the first College Head Start Class entering their junior college year, will be able to answer the following questions: \r\n\r\na. How do students who take college-preparatory courses in high school perform in post-graduate college education?\r\n\r\nb. How do students who earn a proficient score on a California standard assessment’s test perform in college? \r\n\r\nc. Given program participants performance in college, how can high schools change their educational curriculum and instruction to improve student’s college readiness?"
+  achievable_goal: "Over the past several decades, the United States has witnessed a dramatic shift in the educational aspirations of high school students. Thirty years ago, the task of applying to college was not on the agenda of most students in high schools; today, we find that in order to survive in the ever-changing spectrum of society, one must be equipped with the academic tools to move forward.\r\n\r\nFollowing research from the Los Angeles Daily News, more than 30% of Latinos dropped out of school within LAUSD in 2013. Of those graduating students, many of them continue to find themselves unable to qualify or lack preparation for college. Some students are merely graduating in order to make room for the next student to occupy their seat, we have realized that students that successfully complete the required high school coursework are simply not prepared to take on the next step in their life: college. \r\n\r\nBy implementing the College Head Start Program at a local high school, as noted, Civitas School of Leadership, CARECEN is opening the door for more than 600 graduating students to enter a higher learning institution and take ownership of their education. Providing students with the benefits of a three-phase college-readiness and academic program, helping them (students) and their families to enter college life, we are allowing students to DREAM big, WORK hard, and establish a network of PEERS to help one another navigate the path to academic success.  "
+  major_challenges: "CARECEN anticipates the following College Head Start Program limitations: \r\n\r\n(1)\tFunding Scarcity – Securing funding for college-readiness and academic enrichment continues to be an ongoing battle. With fewer education dollars available and a high number of organizations competing for the same monies, CARECEN is often told that funding dollars are geared more toward existing programs with more than five years in existence. As we look to sustain and grow the College Head Start Program, we have been proactive in developing additional relationships with private donors, corporations and partnering with local schools to attain school funding. \r\n\r\n(2)\tGrowing Need for Pre-Collegiate Services – The College Head Start Program was developed given the growing need and urgent requests from families in the Pico-Union area, and of those who are already part of CARECEN’s Programs, seeking additional aid in preparing their child for high-school graduation and college academics.  Since the development of the College Head Start Program (two years ago), CARECEN has served hundreds of students and families, however the need for our services in preparing and aiding students in their transition to college life continues to rapidly increase. Most recently, CARECEN was approached by local high schools to partner and provide pre-collegiate services and our College Head Start Program in its entirety to their students. Unfortunately, our current resources do not allow us to offer the program at a large scale.  However, CARECEN developed partnerships with Belmont and Civitas High-schools to provide College Head Start workshops at those two campuses.\r\n\r\n(3)\tAbsence of Affordable Support Services – The Pico-Union area is one of the poorest communities in Los Angeles, with many of our families lacking the necessary resources to offer their children support services and programs that could improve their academic success and prepare them for college, they turn to community based organizations, such as CARECEN to offer what they need. Unlike other communities, Pico-Union does not have many tutoring, SAT preparation or college guidance programs. Equally, local schools have eliminated most of their college counselors and those students who aspire to continue their education have no one to advise them or help shape their college transition. "
+  competition: "CARECEN created its College Head Start in an effort to emulate the already successful Oakland, CA based and developed College Track Program. The difference between both of our program is that CARECEN’s College Head Start Program is working with local, under-served, at-risk, immigrant students, who often have immigrated into the United States a few years back. In addition, CARECEN’s College Head Start Program created a parent/family component. \r\n\r\nCollege Head Start Program staff work with parents and families to aid them in their support of their child’s personal and academic growth. We encourage parents to allow their college son/daughter to have space and freedom to take risks to grow and to develop judgment and resiliency. Program staff provides parents with important and necessary information pertaining to college opportunities and services. In addition to promoting an ongoing connection between them (parents) and their child’s academic life, parents and families are given the information and tools necessary to become a support network for their student"
+  cost: "CARECEN’s College Head Start Program Budget is $199,500. CARECEN be proactive in developing additional relationships with private donors, corporations and partnering with local schools to attain school funding.\r\n\r\nFunding strategies to sustain CARECEN’s College Head Start Program include 1) searching for foundations and individual donors whose interests align with our commitment to academic enrichment; 2) expanding current memorandums of understanding which would enable CARECEN to provide fee for contract services at local schools (e.g. Civitas School of Leadership); and (3) applying for government funding (e.g. city, state and federal education funding). \r\n\r\nIn addition to the funding strategies, CARECEN will employ diverse fundraising tactics including:\r\n \r\n• Individual Donations – Engaging individuals to give through our direct mail appeals and monthly newsletters.  \r\n\r\n• Special Events – CARECEN annual dinner raises over $75,000 net and provides the opportunity to network with past and future funders who later become individual donors. \r\n\r\n• Government – Seeking funding through county, state and federal funding opportunities. \r\n\r\n• Corporate Giving - Increasing our visibility among local corporations and businesses, in addition to successfully engaging new corporations as partners and sponsors. Opportunities for corporate partners and sponsors include direct underwriting of programs and/or services, board and leadership committee service opportunities, and corporate volunteer opportunities to participate in CARECEN events."
+  budget: "College Head Start Budget\r\n\r\n1. Program Director, 12 months: $40,000 + $12,000 (benefits) = $52,000\r\n\r\n2. Program Coordinators (3), 12 months: $25,000 +$7,500 (benefits) = $97,500\r\n\r\n3. Food and Lodging for Educational Seminars: (40 participants x $150/day x5 days) = $30,000\r\n\r\n4. Program Supplies (e.g. brochures, backpacks, notebooks, copy paper, office supplies) = $2,500\r\n\r\n5. Printing and Copying = $2,500\r\n\r\n6. Computer and Computer Supplies (e.g. update existing computer lab for students and purchase laptops for program participants use) = $10,000\r\n\r\nGRAND TOTAL: $199,500\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: about_you
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: Central American Resource Center - CARECEN - Los Angeles
+  - name: org_website
+    label: Organization website
+    explanation: '(Example: http://www.LA2050.org)'
+    answer: 'http://www.carecen-la.org'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: 'https://twitter.com/Carecen_LA'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: 'https://www.facebook.com/Carecen.LA'
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: '2845 West 7th Street, Los Angeles, CA 90005'
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '953867724'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      CARECEN is a non-profit organization working for the economic mobility,
+      civic engagement and social integration of immigrants.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      College Head Start provides high schools students academic enrichment,
+      college admission/financial aid assistance, and college transition.
+  - name: describe_idea
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example:\_'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      We are @CARECENCHS students, dreaming big and becoming first generation
+      latino students achieving college success #higherlearning
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '0'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '0'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: "Over the past several decades, the U.S. has witnessed a dramatic shift in the educational aspirations of high school students, particularly among low-income and minority students. Today, the momentum has shifted as more and more students are witnessing an even greater competitive job market that requires higher G.P.A.s., greater parent involvement and community services in order to enter top universities. \r\n\r\nCARECEN’s College Head Start (CHS) is a three-phase program providing intensive pre-collegiate services for high-school students looking to apply for university and college admission. The goal for the CHS Program is to create a sustainable high school impact program where college readiness and graduation are the standard."
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "For the past two years, CARECEN has been building momentum to continue expanding the College Head Start (CHS) Program, not only to those graduating seniors from within the Belmont Zone of Choice, but to creatively build a program that will be fully integrated within a local high school as a requirement for high school graduation. Since its inception in late 2012, CARECEN has provided over 50 students and their families with College Head Start Program services, with 100% of participants accepted to four-year institutions including: Harvard University; University of California, Santa Cruz; California State University, Los Angeles, among other community and vocational schools.\r\n\r\nNevertheless, as we continue to grow the College Head Start Program, it is our belief that in order for CARECEN to make a significant impact in the lives of Latino students, we must have the opportunity to fully integrate our program at a local high school, amongst graduating students (12th grade) and even younger (9th through 11th grade students) in an effort to increase high school graduation, college eligibility and enrollment, and further increase college graduation rates for Latino students. \r\n\r\nOne way to implement this idea is working with a local high school, sharing CARECEN's College Head Start Program vision where college readiness and graduation are the standard! CARECEN has been approached by Civitas School of Leadership, a local high school located in Central Los Angeles, designed as a small school community, Civitas pursues high quality student learning through data-driven instruction, project-based learning, interdisciplinary curriculum, and vertical planning. With many of Civitas students approaching CARECEN to participate in their after-school tutoring and college counseling, school officials initiated talks with CARECEN regarding the creation and development of year long curriculum and classes to be offered at Civitas benefitting their students.\r\n\r\nIn order to fully implement CARECEN's College Head Start Program, we (CARECEN) need to hire a program assistant to support current students enrolled in the program in order for the program coordinator to fully develop a school-year curriculum addressing graduating high school students needs as they transition out of high school, how to finance their education and their detachment from their family as they pursue higher learning. CARECEN will speak with Civitas' Principal, Parent Council and School Board to pursue funding."
+  - name: impact_learn
+    label: ''
+    explanation: ''
+    answer: "CARECEN strongly believes that in order for our community to flourish we must first look toward our students, whose ongoing struggle to complete their high school education has been a task left unattended. Our College Head Start Program enriches students lives by encouraging them to become active participants in their communities, while also striving for academic enrichment and a successful transition toward college-life. By helping students reach their high school graduation goals, encouraging their path toward higher education, the City of Los Angeles will benefit from an elite class of hard-working and intellectual Latino students. \r\n\r\nIn having bright students incorporate their lives within the City of Los Angeles, local communities (many of which those same students grew up in) will return to their roots in pursuit of changing the community makeup make academic enrichment and college readiness the standard! For each student who successfully completes our College Head Start Program, they will not only become an asset to our community but will become our future community leaders."
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "CARECEN's College Head Start Program will benefit students and families residing in Central Los Angeles, specifically within the communities of Westlake/Pico-Union. Students, specifically those attending Civitas School of Leadership, are recruited from within a five to ten mile radius of CARECEN's Community Center located in Central Los Angeles community of Pico-Union. \r\n\r\nProgram participants are composed of 12th grade high school students; both high and low academically performing; first generation students attending college; students/families with limited financial resources, English as a Second Language (ESL) and English Language Learner (ELL) students, and undocumented AB540 students. The College Head Start Program will serve local City of Los Angeles students, ranging in age from 16 – 18 years old, with an ethnic breakdown including: 98% Latino, 2% Mixed Ethnicity.\r\n\r\nMany students coming to CARECEN seeking academic enrichment services have been labeled by community standards as underserved and at-risk due to a lack of college advisors at schools, and suffering through significant state budget deficits with continuous educational cutbacks. It is worth nothing that neighboring high schools among the Belmont Zone of Choice where Civitas is located, are among some of Los Angeles Unified School District's most underperforming schools, with a graduation rate of 34%. CARECEN’s College Head Start Program will prove that is core curriculum and student-led services provide significant academic support and individualized attention, addressing the unmet educational needs of disadvantaged, under-served, and at-risk students; filling the gaps that exists in local schools.\r\n\r\nWith that, we believe that academic success goes hand-in-hand with leadership development for students and parents, therefore, College Head Start’s goals are to create a sustainable high school impact program, geared to support graduating students among Civitas School of Leadership and many other among the Belmont Zone of Choice by: (1) monitoring students academic progress, (2) ensuring students access to academic support, (3) helping students earn a high school diploma, and (4) preparing students to attend a: university, community college, vocational and/or trade school.\r\n\r\nReal change and benefits derive from communities who are well-informed, have the necessary tools to advocate for quality education, and who collaborate with key institutions such as schools and community organizations."
+  - name: collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Throughout its 31 year history, CARECEN has produced many successful partnerships and collaborations with local community based organizations, regional and out-of-state partners, sister organizations, schools districts and private and public agencies. The College Head Start Program collaborates and partners with local schools in order to request transcripts, grades, school involvement, and most importantly, to streamline the process of test scores (SAT or ACT) and credit completion as a requirement for college admission. \r\n\r\nAs the program continues to expand and funding is secured, CARECEN will partner with Civitas School of Leadership in the Westlake/Pico-Union community. As previously noted, Civitas is designed as a small school and part of the Los Angeles Smalls Schools Center, Civitas School of Leadership pursues high quality student learning through a variety of means, including data-driven instruction, project-based learning, interdisciplinary curriculum, and vertical planning. \r\n\r\nA strong partnership with Civitas School of Leadership will enable CARECEN to integrate the College Head Start Program as a graduation requirement benefiting more than 600 graduating high school seniors each academic year. CARECEN has worked with Civitas School of Leadership for many years providing academic enrichment and parent education workshops at school campus and CARECEN's Community Center. Our successful and ongoing partnership throughout the years with Civitas has created a trusting relationship with CARECEN and the strength of our programs have demonstrated our effectiveness to aid students in reaching their highest academic potential. \r\n\r\nMost notably, the three critical factors to the success of our partnership with Civitas School of Leadership are: \r\n1.\tCreating a culture where academic enrichment and college readiness are the standard. \r\n2.\tPartnering with local colleges, universities and other community-based organizations to create a network of collaborative partners willing to help students create a transition plan toward college-life. \r\n3.\tWorking together (CARECEN and Civitas) influencing a lasting change in the Westlake/Pico-Union community by raising awareness for higher academic standards and college readiness. "
+  - name: metrics_learn_earlyeducation
+    label: Percentage of children enrolled in early education programs
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_communitycollege
+    label: >-
+      Percentage of community college students completing a certificate, degree,
+      or transfer-related program in six years
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_unemployment
+    label: Youth unemployment and underemployment
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_graduationrates
+    label: District-wide graduation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_proficiency
+    label: HS student proficiency in English & Language Arts and Math
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_api
+    label: Academic Performance Index scores
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_college
+    label: College matriculation rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_pipeline
+    label: >-
+      Student education pipeline (an integrated network of pre-schools, K-12
+      institutions, and higher education systems that prepares students for
+      seamless transitions between high school, higher education institutions,
+      and the workforce) (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_learn_suspension
+    label: Suspension and expulsion rates (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_truancy
+    label: Truancy rates in elementary and middle school (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_safety
+    label: >-
+      Students perceived sense of safety at and on the way to school (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_learn_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: "CARECEN’s College Head Start Program will impact the above metrics by: \r\n\r\n1. Encouraging and helping program participants meet and complete their high graduation requirements, therefore helping elevate the district-wide graduating rates, specifically within the Belmont Zone of Choice where the student graduation rate is 34%.\r\n \r\n2. Encouraging participating students to challenge themselves academically by taking on higher proficiency courses in English, Language Arts and Math in order to a greater opportunity to compete for a coveted spot in colleges and universities not only locally but statewide and nationally. \r\n\r\n3. Aiding program participants to complete their high school diploma requirements and test average to above average in standardized testing will increase the Academic Performance Index Scores for individual schools throughout the district. \r\n\r\n4. Encouraging students to enroll in higher learning institutions as the standard for professional acclaim, therefore college matriculation rates will rise. To many program participants, a college degree is a gold standard to achieving the American Dream.  \r\n\r\n5. Creating and developing a strong College Head Start Program and Curriculum involving not only the graduating student, but their families.  Joining forces, both students and their families will be aided with academic enrichment, college admissions and financial aid assistance and, most importantly, support in the transition to college-life. This process covers student’s overall education pipeline. "
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "CARECEN will evaluate the success and effectiveness of its College Head Start Program using the following measurements: \r\n• Tracking the number of high school credits needed for graduation by students participating in the College Head Start Program.\r\n• Tracking the number of program participants admitted and attending a four-year college/university.\r\n• Tracking the number of program participants attending a two-year college or trade program.\r\n• Tracking the number of scholarships and/or other financial aid awards attained by students through their participation in the College Head Start Program. \r\n• Tracking referrals and/or collaborations of service between CARECEN, participating students, schools and parents. \r\n• Tracking the number of College Head Start Alumni graduating from their respective two-year or four-year academic institutions.\r\n\r\nIn addition, CARECEN will conduct pre- and post-graduation surveys. Once admitted to the College Head Start Program, CARECEN will administer a pre-graduation survey to gauge the level of involvement and expectations of each incoming student. CARECEN will evaluate and determine the comfort levels of each student and what they expect to learn within the 30 weeks of the program. The same survey will be given to parents to gauge their strengths, expectations and level of commitment. At the program conclusion, students and parents will be given a post-graduation survey to analyze and provide feedback on the program and its processes. Program staff and CARECEN’s Executive Director will analyze the programs strengths, weaknesses and areas for immediate improvement.\r\n\r\nThrough the evaluation of the above-mentioned measurements, our College Head Start Program anticipates the following success indicators: \r\n\r\n• 100% of participants will receive a high school diploma or GED. \r\n• 90% of participants will qualify for admittance to a four-year university. \r\n• 100% of participants will complete at least 10 scholarship applications, with approximately 50% of students receiving additional financial assistance for educational purposes from scholarships and/or private donations.\r\n• 100% of participants will complete a comprehensive Academic/Financial/Personal Growth Plan.\r\n• 100% of participants will enter into post-high school education (e.g. four-year university, community college, vocational and/or trade school). "
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "Two lessons that have informed our College Head Start Program are: \r\n\r\n(1)\tEstablishing an ongoing relationship with high schools and our program in order to align their teachings and/or courses in order to improve college readiness. In working with school officials, CARECEN is being strategic in putting an emphasis on certain curriculum benefiting the student’s chances to enter a higher learning institution. Aligning expectations and giving students information about their level of school readiness while pursuing their high school diploma will ensure that students don’t waister their final year in school. \r\n\r\n(2)\tWith the early success of CARECEN’s College Head Start Program, we have created data systems to track student progress across educational levels and higher learning institutions. In 2015, with the first College Head Start Class entering their junior college year, will be able to answer the following questions: \r\n\r\na. How do students who take college-preparatory courses in high school perform in post-graduate college education?\r\n\r\nb. How do students who earn a proficient score on a California standard assessment’s test perform in college? \r\n\r\nc. Given program participants performance in college, how can high schools change their educational curriculum and instruction to improve student’s college readiness?"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: "Over the past several decades, the United States has witnessed a dramatic shift in the educational aspirations of high school students. Thirty years ago, the task of applying to college was not on the agenda of most students in high schools; today, we find that in order to survive in the ever-changing spectrum of society, one must be equipped with the academic tools to move forward.\r\n\r\nFollowing research from the Los Angeles Daily News, more than 30% of Latinos dropped out of school within LAUSD in 2013. Of those graduating students, many of them continue to find themselves unable to qualify or lack preparation for college. Some students are merely graduating in order to make room for the next student to occupy their seat, we have realized that students that successfully complete the required high school coursework are simply not prepared to take on the next step in their life: college. \r\n\r\nBy implementing the College Head Start Program at a local high school, as noted, Civitas School of Leadership, CARECEN is opening the door for more than 600 graduating students to enter a higher learning institution and take ownership of their education. Providing students with the benefits of a three-phase college-readiness and academic program, helping them (students) and their families to enter college life, we are allowing students to DREAM big, WORK hard, and establish a network of PEERS to help one another navigate the path to academic success.  "
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "CARECEN anticipates the following College Head Start Program limitations: \r\n\r\n(1)\tFunding Scarcity – Securing funding for college-readiness and academic enrichment continues to be an ongoing battle. With fewer education dollars available and a high number of organizations competing for the same monies, CARECEN is often told that funding dollars are geared more toward existing programs with more than five years in existence. As we look to sustain and grow the College Head Start Program, we have been proactive in developing additional relationships with private donors, corporations and partnering with local schools to attain school funding. \r\n\r\n(2)\tGrowing Need for Pre-Collegiate Services – The College Head Start Program was developed given the growing need and urgent requests from families in the Pico-Union area, and of those who are already part of CARECEN’s Programs, seeking additional aid in preparing their child for high-school graduation and college academics.  Since the development of the College Head Start Program (two years ago), CARECEN has served hundreds of students and families, however the need for our services in preparing and aiding students in their transition to college life continues to rapidly increase. Most recently, CARECEN was approached by local high schools to partner and provide pre-collegiate services and our College Head Start Program in its entirety to their students. Unfortunately, our current resources do not allow us to offer the program at a large scale.  However, CARECEN developed partnerships with Belmont and Civitas High-schools to provide College Head Start workshops at those two campuses.\r\n\r\n(3)\tAbsence of Affordable Support Services – The Pico-Union area is one of the poorest communities in Los Angeles, with many of our families lacking the necessary resources to offer their children support services and programs that could improve their academic success and prepare them for college, they turn to community based organizations, such as CARECEN to offer what they need. Unlike other communities, Pico-Union does not have many tutoring, SAT preparation or college guidance programs. Equally, local schools have eliminated most of their college counselors and those students who aspire to continue their education have no one to advise them or help shape their college transition. "
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "CARECEN created its College Head Start in an effort to emulate the already successful Oakland, CA based and developed College Track Program. The difference between both of our program is that CARECEN’s College Head Start Program is working with local, under-served, at-risk, immigrant students, who often have immigrated into the United States a few years back. In addition, CARECEN’s College Head Start Program created a parent/family component. \r\n\r\nCollege Head Start Program staff work with parents and families to aid them in their support of their child’s personal and academic growth. We encourage parents to allow their college son/daughter to have space and freedom to take risks to grow and to develop judgment and resiliency. Program staff provides parents with important and necessary information pertaining to college opportunities and services. In addition to promoting an ongoing connection between them (parents) and their child’s academic life, parents and families are given the information and tools necessary to become a support network for their student"
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: "CARECEN’s College Head Start Program Budget is $199,500. CARECEN be proactive in developing additional relationships with private donors, corporations and partnering with local schools to attain school funding.\r\n\r\nFunding strategies to sustain CARECEN’s College Head Start Program include 1) searching for foundations and individual donors whose interests align with our commitment to academic enrichment; 2) expanding current memorandums of understanding which would enable CARECEN to provide fee for contract services at local schools (e.g. Civitas School of Leadership); and (3) applying for government funding (e.g. city, state and federal education funding). \r\n\r\nIn addition to the funding strategies, CARECEN will employ diverse fundraising tactics including:\r\n \r\n• Individual Donations – Engaging individuals to give through our direct mail appeals and monthly newsletters.  \r\n\r\n• Special Events – CARECEN annual dinner raises over $75,000 net and provides the opportunity to network with past and future funders who later become individual donors. \r\n\r\n• Government – Seeking funding through county, state and federal funding opportunities. \r\n\r\n• Corporate Giving - Increasing our visibility among local corporations and businesses, in addition to successfully engaging new corporations as partners and sponsors. Opportunities for corporate partners and sponsors include direct underwriting of programs and/or services, board and leadership committee service opportunities, and corporate volunteer opportunities to participate in CARECEN events."
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "College Head Start Budget\r\n\r\n1. Program Director, 12 months: $40,000 + $12,000 (benefits) = $52,000\r\n\r\n2. Program Coordinators (3), 12 months: $25,000 +$7,500 (benefits) = $97,500\r\n\r\n3. Food and Lodging for Educational Seminars: (40 participants x $150/day x5 days) = $30,000\r\n\r\n4. Program Supplies (e.g. brochures, backpacks, notebooks, copy paper, office supplies) = $2,500\r\n\r\n5. Printing and Copying = $2,500\r\n\r\n6. Computer and Computer Supplies (e.g. update existing computer lab for students and purchase laptops for program participants use) = $10,000\r\n\r\nGRAND TOTAL: $199,500\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: blueberry
 
 ---

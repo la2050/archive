@@ -29,6 +29,26 @@ project_ids: '8102031'
 title: Coro Southern California
 uri: /organizations/coro-southern-california/
 challenge_url: 'https://activation.la2050.org/connect/coro-southern-california/'
+extrapolated_project_ids:
+  - '8102031'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Coro Southern California’s Neighborhood Leaders Program: Cultivating Leaders
+    to Empower Communities
+project_titles:
+  - >-
+    Coro Southern California’s Neighborhood Leaders Program: Cultivating Leaders
+    to Empower Communities
+project_titles_from_project_ids:
+  - >-
+    Coro Southern Californiaâ€™s Neighborhood Leaders Program: Cultivating
+    Leaders to Empower Communities
+original_project_titles:
+  - >-
+    Coro Southern California’s Neighborhood Leaders Program: Cultivating Leaders
+    to Empower Communities
+original_project_ids:
+  - '8102031'
 category: connect
 
 ---

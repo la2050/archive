@@ -35,8 +35,18 @@ project_ids: '3102103'
 title: Dear Los Angeles
 uri: /organizations/dear-los-angeles/
 challenge_url: 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
+extrapolated_project_ids:
+  - '3102103'
+project_titles_from_extrapolated_project_ids:
+  - Dear Los Angeles
 project_titles:
   - Dear Los Angeles
+project_titles_from_project_ids:
+  - Dear Los Angeles
+original_project_titles:
+  - Dear Los Angeles
+original_project_ids:
+  - '3102103'
 maker_image_id: '16214'
 maker_image_file_name: IMG_1031.JPG
 

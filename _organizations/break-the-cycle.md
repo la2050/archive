@@ -30,5 +30,19 @@ title: Break the Cycle
 uri: /organizations/break-the-cycle/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
+extrapolated_project_ids:
+  - '6102021'
+project_titles_from_extrapolated_project_ids:
+  - 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
+project_titles:
+  - 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
+project_titles_from_project_ids:
+  - 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
+original_project_titles:
+  - Break the Cycle
+  - 'The Zone: Mobile Spaces to Talk about Healthy Relationships'
+original_project_ids:
+  - '6102021'
+project_titles_flagged: 1
 
 ---

@@ -30,6 +30,7 @@ project_image: 'https://activation.la2050.org/assets/images/create/2048-wide/gri
 project_video: ''
 project_id_3: '8102049'
 year_submitted: 2018
+organization_name: 'Grid110, Inc.'
 project_proposal_description: >-
   Grid110 provides support for early stage entrepreneurs through cohort based,
   accelerator style programs. This is currently limited to an application

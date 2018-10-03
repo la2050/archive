@@ -1,7 +1,7 @@
 ---
 organization_id: '2016002'
 year_submitted: 2016
-organization_name: 3-D SPACE
+organization_name: '3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and Education'
 organization_website: 3-DSPACE.org
 ein: '472247578'
 project_image_2: 4065764555741-team91.jpg

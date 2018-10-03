@@ -14,7 +14,7 @@ tags_indicators:
   - Income & employment
   - Arts & cultural vitality
 twitter: viplongbeach
-instagram: 0
+instagram: ''
 facebook: viplongbeach
 org_type: Social enterprise or Bcorps
 project_image: >-
@@ -30,6 +30,16 @@ project_ids: '8102138'
 title: World Famous VIP Records LLC
 uri: /organizations/world-famous-vip-records-llc/
 challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - World Famous VIP Records Business Incubator and Multi Media Center
+project_titles_from_project_ids:
+  - World Famous VIP Records Business Incubator and Multi Media Center
+original_project_titles:
+  - World Famous VIP Records Business Incubator and Multi Media Center
+original_project_ids:
+  - '8102138'
 category: create
 
 ---

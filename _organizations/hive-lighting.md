@@ -27,8 +27,18 @@ project_ids: '3102055'
 title: Hive Lighting
 uri: /organizations/hive-lighting/
 challenge_url: 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
+extrapolated_project_ids:
+  - '3102055'
+project_titles_from_extrapolated_project_ids:
+  - STATE OF THE ART LIGHTING FOR CITY PARKS!
 project_titles:
   - STATE OF THE ART LIGHTING FOR CITY PARKS!
+project_titles_from_project_ids:
+  - STATE OF THE ART LIGHTING FOR CITY PARKS!
+original_project_titles:
+  - STATE OF THE ART LIGHTING FOR CITY PARKS!
+original_project_ids:
+  - '3102055'
 youtube_video_identifier: fmzJcYDzdUw
 
 ---

@@ -29,13 +29,34 @@ project_ids: '5102014'
 title: Ambulante
 uri: /organizations/ambulante/
 challenge_url: 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
-project_titles:
+extrapolated_project_ids:
+  - '5102014'
+  - '4102007'
+project_titles_from_extrapolated_project_ids:
   - >-
     Let Ambulante connect new audiences to your nonprofit thru public
     documentary screenings all year
   - >-
     A traveling documentary film festival revitalizing public spaces with free
     community events.
+project_titles:
+  - >-
+    A traveling documentary film festival revitalizing public spaces with free
+    community events.
+  - >-
+    Let Ambulante connect new audiences to your nonprofit thru public
+    documentary screenings all year
+project_titles_from_project_ids:
+  - >-
+    Let Ambulante connect new audiences to your nonprofit thru public
+    documentary screenings all year
+original_project_titles:
+  - >-
+    Let Ambulante connect new audiences to your nonprofit thru public
+    documentary screenings all year
+original_project_ids:
+  - '5102014'
+project_titles_flagged: 1
 youtube_video_identifier: W6D_g6EB-QY
 
 ---

@@ -82,8 +82,20 @@ project_ids: '3102090'
 title: RiverLAnding Collective
 uri: /organizations/riverlanding-collective/
 challenge_url: 'http://maker.good.is/myla2050/projects/LARiverLanding.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
+  - >-
+    RiverLAnding : An expedition to prototype a “landing” on the banks of the
+    Los Angeles River
+project_titles_from_project_ids:
   - "RiverLAnding : An expedition to prototype a â€œlandingâ€\x9D on the banks of the Los Angeles River"
+original_project_titles:
+  - >-
+    RiverLAnding : An expedition to prototype a “landing” on the banks of the
+    Los Angeles River
+original_project_ids:
+  - '3102090'
 youtube_video_identifier: _8WrWZXDKdQ
 
 ---

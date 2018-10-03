@@ -29,5 +29,31 @@ title: LA Voice
 uri: /organizations/la-voice/
 challenge_url: >-
   https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
+extrapolated_project_ids:
+  - '6102125'
+  - '5102169'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Building police - community trust in Compton through reform and
+    accountability
+  - Turning Out Voters Through Local Relationships
+project_titles:
+  - >-
+    Building police - community trust in Compton through reform and
+    accountability
+  - Turning Out Voters Through Local Relationships
+project_titles_from_project_ids:
+  - >-
+    Building police - community trust in Compton through reform and
+    accountability
+original_project_titles:
+  - >-
+    Building police - community trust in Compton through reform and
+    accountability
+  - Turning Out Voters Through Local Relationships
+original_project_ids:
+  - '5102169'
+  - '6102125'
+project_titles_flagged: 1
 
 ---

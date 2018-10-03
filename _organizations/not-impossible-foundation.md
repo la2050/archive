@@ -33,6 +33,16 @@ project_ids: '8102090'
 title: Not Impossible Foundation
 uri: /organizations/not-impossible-foundation/
 challenge_url: 'https://activation.la2050.org/live/not-impossible-foundation/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
+project_titles_from_project_ids:
+  - 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
+original_project_titles:
+  - 'Connecting the food secure to nearby, ready-to-eat meals using SMS'
+original_project_ids:
+  - '8102090'
 category: live
 
 ---

@@ -2,8 +2,8 @@
 project_id: '4102012'
 title: Los Angeles Trade Tech - A 21st Century Urban Agriculture Curriculum
 project_summary: >-
-  Seafood for the Future is a community of people and businesses working to
-  promote healthy, responsible seafood choices.
+  To create a 21st century inter-disciplinary urban ag institute that develops
+  best practices for implementation in LA's unique environments. 
 category: live
 organization_id: '2014114'
 year_submitted: 2014
@@ -86,6 +86,532 @@ project_areas:
   - SOUTH BAY
   - WESTSIDE
   - LA COUNTY
+maker_answers:
+  city_state: 'Los Angeles, CA'
+  org_name: >-
+    Los Angeles Trade Technical College (LATTC) - School of Architecture and
+    Design, Culinary Academy
+  org_website: 'http://college.lattc.edu'
+  org_twitter: www.twitter.com/UrbanFarmingLA
+  org_facebook: www.facebook.com/UrbanFarmingLA
+  org_instagram: instagram.com/UrbanFarmingLA
+  org_mailingaddress: "400 West Washington Blvd\r\nLos Angeles, CA 90015"
+  EIN: '953813527'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  one_sentence_org: >-
+    We provide affordable college education in sustainable landscaping,
+    construction, plumbing, and culinary arts with project-based curriculum.
+  describe_idea: >-
+    To create a 21st century inter-disciplinary urban ag institute that develops
+    best practices for implementation in LA's unique environments. 
+  describe_organization: >-
+    Want to improve your health, enhance your job skills, and enrich your
+    community? Check out Trade Tech’s new Urban Ag Curriculum!!!
+  all_county: '0'
+  region_county: '1'
+  population_county: '1'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '0'
+  area_sanfernandovalley: '0'
+  area_southbay: '0'
+  area_westside: '0'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: >-
+    This project touches upon many localized quality of life virtues including
+    education, health, social connectivity, creativity, cultural vitality, and
+    microeconomics. This workforce development initiative is tasked to design
+    and build four site-specific constructs for growing food in South LA. It
+    includes hands-on teaching, internships, small business accounting, and
+    incubation support to culinary students working with restaurants.  The
+    curriculum will assess various logistics including economic potential,
+    environmental factoring, and collective social impact, while determining the
+    feasibility of urban ag applications on rooftops and on vacant lots. The
+    information gathered from this process will be made available to the public
+    for free.
+  implement: "The implementation strategy involves a year-round semester-based curriculum program, made fiscally sustainable by generating revenue by selling produce through local food vendors including farmers markets, schools, and restaurants.  \r\nThe LATTC Urban Farming Project will build and retrofit four sites that will include the District 9 Central Avenue Field Office rooftop, LATTC campus “Magnolia” Farm at ground level, and a mezzanine level LATTC “Terrance” Farm. In addition, students will also build four experimental yet functional art constructs to grow food, selected based on feasibility from twelve digitized, virtual art constructs. The art constructs to grow food incorporate both hydroponics and soil-based planters: vertical walls, movable green towers, raised beds, and a green house. The goal is to challenge the students’ creativity, while simultaneously creating something functional and unique.\r\nPlan of Action-\r\n-Expand training and outreach to the community\r\n-Provide direct community support by providing project templates \r\n-Engage local drivers and forces by integrating their resources, i.e. Plan for Healthy LA, Green Streets LA, Food Policy Council, etc.\r\n-Advance the urban farming design build field by providing virtualization and templates ready to use\r\n-Introduce and integrate to existing practices at LATTC\r\n-Support a new interdisciplinary LATTC ASO Club for Sustainability\r\n-Explore the possibility and implementation to design and build innovative solutions for community's to grow food on their own\r\n-Analyze interdisciplinary capabilities and relationships between multiple departments and disciplines to grow local food using innovative design strategies for food productivity, products, tools, green house shelters and energy/water calculations.  \r\n-Use high-end tools to virtualize, simulate, verify and locally manufacture design build solutions; digital fabrication, geospatial tools, enterprise solutions, social media and others.\r\n-Develop a business model to implement urban farming and education with quantifiable outcomes.\r\n-Develop and implement multiple design templates drawings to build prototype\r\n-Develop and implement an online platform for collaboration, hybrid learning and frictionless participation by all stakeholders\r\n-Show return of investment for low water, high productivity and small space for multiple design solutions and techniques; aquaponics, hydroponics, vertical walls, etc.\r\n-Build prototypes on sites physically and digitally"
+  impact_live: >-
+    LATTC Urban Farming program will design, build and teach innovative Urban
+    Farming applications in colleges, homes, communities, businesses, and
+    restaurants. This program will explore the interdepartmental potential and
+    capabilities of the college to better serve our communities. This program
+    will use digital, parametric virtualization for visualization, strategic
+    planning, communication and green solutions for the use of water, sun, air
+    and soil. The program will work close with local drivers, stakeholders and
+    forces in the city to facilitate scalable and duplicable solutions in the
+    local and global ‘green economy’.  This program will explore local
+    manufacturing by using digital fabrication and biomimicry design. As the
+    program grows, the design and build templates will be available for the
+    community via iTUNES University, YouTube and interfaces. This new classroom
+    material will be user friendly and easily implemented locally and in other
+    parts of the world. LATTC Urban Farming projects will show return on
+    investment with high productivity, small spaces, low water usage and a
+    community that thrives. It will support lesson plans for existing courses in
+    Architecture, Drafting, Sustainable Landscaping, Plumbing, Photovoltaics,
+    Manufacturing, Culinary Courses and others. It will also ultimately seek
+    transferability status to programs like UCLA, USC, CalPoly, and others.
+  who_benefit: "Many urban areas in Central and South Los Angeles do not have sufficient access to groceries stores, yet are overrun with fast food eateries and convenience/liquor stores.  Their choices of diet are limited and it is difficult, costly, and time consuming to obtain wholesome fruits and vegetables. There is a growing plague of obesity and diabetes in America and other countries that have adopted the habit of relying on the dominance of pre-prepared foods.  Overworked mothers often do not have the choice of feeding their families plant, fruit, enzyme and mineral rich, traditional meals. Half the nutrition in vegetables is lost within a day of being picked. Urban agriculture would provide these families with choices, develop a deeper understanding of health, and offer the joy of a living and growing relationship to our source of nutrition, in these concrete landscape environments. Additionally, the potential for personal and public savings on healthcare, a community that encourages better decisions through hands on lessons in cultivating life, and the possibility of entrepreneurial endeavors would only serve to benefit us all. \r\nLos Angeles is a 21st century mega-city with over 4 million citizens (10 million in LA County), the food shed of which extends 200 miles. Astonishingly enough, rooftops amount to 20% of the land mass occupying exposed space in Los Angeles. Many of these spaces are functionally dormant, and serve as heat islands in a city burdened with enough environmental challenges as it is. Additionally, there are ten thousand vacant parcels that benefit no one except absentee landlords or developers not from the community. All these spaces are primed for agricultural activation, and upcoming legislative packages are finally beginning to incentivize the involvement of micro-enterprise to do so.\r\n"
+  partners_collaboration: "Confirmed Partners/Collaborators-\r\n\r\nCouncilmember Curren Price, 9th District\r\nCouncilmember Price has been very supportive of this endeavor by giving us the roof of his field office headquarters to grow food on, and by consistently championing equitable urban ag policy.\r\n\r\nLos Angeles Open Acres\r\nThe LA Open Acres project is launching soon, and a relationship is in place whereby Trade Tech lends its built-environment infrastructure support to increase the capacity and breadth of upcoming parcel activations.\r\n\r\nEvoFarm\r\nA consulting partnership has been developed with David Rosenstein, who recently gave a presentation on his innovative homemade aquaponics program at Trade Tech.\r\n\r\nLA Conservation Corps\r\nBruce Saito's remarkable organization is a curriculum partner.\r\n\r\nSocial Justice Learning Institute\r\nAnother joint-curriculum partner.\r\n\r\nRivera Restaurant / Museum Tamal\r\nCulinary students will learn to grow food hydroponically, and in top-level settings, come to understand how to best use it.\r\n\r\nMetabolic Studio\r\nAn in-kind partner, the Studio has been supportive by providing materials and offering resources.\r\n\r\n\r\nNon-Confirmed Partners/Collaborators-\r\n\r\nToo many to list... really.\r\n\r\n\r\nThree factors critical to collaborative success-\r\n1-Site locations (done)\r\n2-Mutually beneficial resource exchange (agreed)\r\n3-Funding (Hmm...)\r\n"
+  metrics_live_healthyfood: '1'
+  metrics_live_healthcare: '0'
+  metrics_live_airtoxins: '0'
+  metrics_live_selfsufficiency: '1'
+  metrics_live_importedwater: '1'
+  metrics_live_obesity: '1'
+  metrics_live_homelessness: '0'
+  metrics_live_walkscore: '0'
+  metrics_live_pollutedwaterways: '0'
+  metrics_live_mentalillness: '0'
+  metrics_live_childhood: '0'
+  metrics_live_communities: '1'
+  metrics_live_healthcareservice: '0'
+  metrics_live_treecanopy: '1'
+  metrics_live_other: '0'
+  metrics_live_blank: ''
+  impact_metrics: >-
+    Our chosen goal is ushering life into a healthier LA, by promoting “food
+    economy that promotes wellness and health” by converting existing sites into
+    chemical-free urban farms that serve as agricultural and culinary learning
+    centers as well as activity space. Community stakeholders will have
+    increased access to localized organic food sources while engaging with
+    others whom enjoy growing and creating as much as they do.
+  best_place_to_create: '1'
+  best_place_to_play: '0'
+  best_place_to_connect: '1'
+  best_place_to_learn: '1'
+  evaluate: "One of the methods to evaluate success of this project is to compare on a yearly basis health indicators for example the rate of obesity or the number of heart disease. If these are decreasing then this project, (although this project may not be the only factor contributing to this improvement in people’s health), can be consider to be successful.\r\n\r\nAlso if the number of urban farms keeps growing and there are more and more stories of people speaking about the positive contribution of their farms to their health, then it can be said that this is also a metric that indicates success. \r\n\r\nThe other measure that will indicate success of this project is the therapeutic nature of growing plants, people are healthier when they are close to plants and nature. It is our expectation that this project will contribute to decrease in violence and quite possibly a reduction on homicides and this can be tracked by comparing the numbers on a yearly basis.\r\n"
+  two_lessons: "The first lesson which has informed our project is that the production of food and the way we deal with food through processed foods and fast food restaurants is not sustainable and has led to unhealthy communities, as seen in the increased rates of obesity, and needs to be addressed in a lifestyle change. \r\n\r\nThe second  lesson which has informed our project is that solutions to community needs can only come from within the community and through their own efforts, our projects plants a seed but the community will adopt and make their own and care for it to really make a change in the community.\r\n"
+  achievable_goal: >-
+    Implementing our project within the next twelve month is an achievable goal
+    because of thorough strategic planning, coalition building, and because it’s
+    based on a four-semester cycle. We have broad moral and operational support
+    from the community, college administrators, policymakers, and LA’s urban
+    farmers.
+  major_challenges: >-
+    The biggest challenges are to institutionalize the program and to provide an
+    easily accessible and understandable transparent allocation of funds. The
+    good news is that our College and District are moving towards open
+    government and transparency in all their procedures, and our new President
+    Larry Frank is very supportive of innovative thinking, local workforces, and
+    improving students' quality of life.
+  competition: >-
+    Although there are agriculture curriculums throughout the country, there
+    aren’t any that address the multitude of specific challenges to growing food
+    in a harsh, urban environment such as Los Angeles. In addition to
+    conventional ag instruction like soil science, the Trade Tech Urban Ag
+    Curriculum will explore other facets just as crucial to growing food in LA.
+    These explorations will include site-specific hydroponics (i.e. rooftop
+    aquaponics), rain-water harvesting and water collection, which edible plants
+    most reduce air particulate matter or mitigate heat-island effect, and how
+    to affordably construct a rooftop solar greenhouse that can withstand 70-80
+    mph winds. These aforementioned objectives collectively address the unique
+    nature of growing food here in LA along with its challenges.
+  cost: >-
+    We estimate that what's been proposed will cost $100k, give or take $5k.
+    There are vast in-kind resources that we have available which would normally
+    make it a significantly higher figure. 
+  budget: "-Student Interns $45,000\r\n-Curriculum Leaders $25,000\r\n-Supplies $25,000\r\n-Administration $5,000\r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '1'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_network: '1'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: >-
+      Los Angeles Trade Technical College (LATTC) - School of Architecture and
+      Design, Culinary Academy
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: 'http://college.lattc.edu'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: www.twitter.com/UrbanFarmingLA
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: www.facebook.com/UrbanFarmingLA
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: instagram.com/UrbanFarmingLA
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "400 West Washington Blvd\r\nLos Angeles, CA 90015"
+  - name: EIN
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '953813527'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: one_sentence_org
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      We provide affordable college education in sustainable landscaping,
+      construction, plumbing, and culinary arts with project-based curriculum.
+  - name: describe_idea
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      To create a 21st century inter-disciplinary urban ag institute that
+      develops best practices for implementation in LA's unique environments. 
+  - name: describe_organization
+    label: ''
+    explanation: "Great example from 2013: 'We at @TrustSouthLA1 want to create affordable homes on 3000 acres of underutilized land in #SouthLA.'\_Bad example: 'We have such an awesome project! Please vote for @GoldhirshFdn here!'"
+    answer: >-
+      Want to improve your health, enhance your job skills, and enrich your
+      community? Check out Trade Tech’s new Urban Ag Curriculum!!!
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '0'
+  - name: region_county
+    label: Yes (benefits a region of LA County)
+    explanation: ''
+    answer: '1'
+  - name: population_county
+    label: Yes (benefits a population of LA County)
+    explanation: ''
+    answer: '1'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '0'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '0'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '0'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '0'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: >-
+      This project touches upon many localized quality of life virtues including
+      education, health, social connectivity, creativity, cultural vitality, and
+      microeconomics. This workforce development initiative is tasked to design
+      and build four site-specific constructs for growing food in South LA. It
+      includes hands-on teaching, internships, small business accounting, and
+      incubation support to culinary students working with restaurants.  The
+      curriculum will assess various logistics including economic potential,
+      environmental factoring, and collective social impact, while determining
+      the feasibility of urban ag applications on rooftops and on vacant lots.
+      The information gathered from this process will be made available to the
+      public for free.
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "The implementation strategy involves a year-round semester-based curriculum program, made fiscally sustainable by generating revenue by selling produce through local food vendors including farmers markets, schools, and restaurants.  \r\nThe LATTC Urban Farming Project will build and retrofit four sites that will include the District 9 Central Avenue Field Office rooftop, LATTC campus “Magnolia” Farm at ground level, and a mezzanine level LATTC “Terrance” Farm. In addition, students will also build four experimental yet functional art constructs to grow food, selected based on feasibility from twelve digitized, virtual art constructs. The art constructs to grow food incorporate both hydroponics and soil-based planters: vertical walls, movable green towers, raised beds, and a green house. The goal is to challenge the students’ creativity, while simultaneously creating something functional and unique.\r\nPlan of Action-\r\n-Expand training and outreach to the community\r\n-Provide direct community support by providing project templates \r\n-Engage local drivers and forces by integrating their resources, i.e. Plan for Healthy LA, Green Streets LA, Food Policy Council, etc.\r\n-Advance the urban farming design build field by providing virtualization and templates ready to use\r\n-Introduce and integrate to existing practices at LATTC\r\n-Support a new interdisciplinary LATTC ASO Club for Sustainability\r\n-Explore the possibility and implementation to design and build innovative solutions for community's to grow food on their own\r\n-Analyze interdisciplinary capabilities and relationships between multiple departments and disciplines to grow local food using innovative design strategies for food productivity, products, tools, green house shelters and energy/water calculations.  \r\n-Use high-end tools to virtualize, simulate, verify and locally manufacture design build solutions; digital fabrication, geospatial tools, enterprise solutions, social media and others.\r\n-Develop a business model to implement urban farming and education with quantifiable outcomes.\r\n-Develop and implement multiple design templates drawings to build prototype\r\n-Develop and implement an online platform for collaboration, hybrid learning and frictionless participation by all stakeholders\r\n-Show return of investment for low water, high productivity and small space for multiple design solutions and techniques; aquaponics, hydroponics, vertical walls, etc.\r\n-Build prototypes on sites physically and digitally"
+  - name: impact_live
+    label: ''
+    explanation: ''
+    answer: >-
+      LATTC Urban Farming program will design, build and teach innovative Urban
+      Farming applications in colleges, homes, communities, businesses, and
+      restaurants. This program will explore the interdepartmental potential and
+      capabilities of the college to better serve our communities. This program
+      will use digital, parametric virtualization for visualization, strategic
+      planning, communication and green solutions for the use of water, sun, air
+      and soil. The program will work close with local drivers, stakeholders and
+      forces in the city to facilitate scalable and duplicable solutions in the
+      local and global ‘green economy’.  This program will explore local
+      manufacturing by using digital fabrication and biomimicry design. As the
+      program grows, the design and build templates will be available for the
+      community via iTUNES University, YouTube and interfaces. This new
+      classroom material will be user friendly and easily implemented locally
+      and in other parts of the world. LATTC Urban Farming projects will show
+      return on investment with high productivity, small spaces, low water usage
+      and a community that thrives. It will support lesson plans for existing
+      courses in Architecture, Drafting, Sustainable Landscaping, Plumbing,
+      Photovoltaics, Manufacturing, Culinary Courses and others. It will also
+      ultimately seek transferability status to programs like UCLA, USC,
+      CalPoly, and others.
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "Many urban areas in Central and South Los Angeles do not have sufficient access to groceries stores, yet are overrun with fast food eateries and convenience/liquor stores.  Their choices of diet are limited and it is difficult, costly, and time consuming to obtain wholesome fruits and vegetables. There is a growing plague of obesity and diabetes in America and other countries that have adopted the habit of relying on the dominance of pre-prepared foods.  Overworked mothers often do not have the choice of feeding their families plant, fruit, enzyme and mineral rich, traditional meals. Half the nutrition in vegetables is lost within a day of being picked. Urban agriculture would provide these families with choices, develop a deeper understanding of health, and offer the joy of a living and growing relationship to our source of nutrition, in these concrete landscape environments. Additionally, the potential for personal and public savings on healthcare, a community that encourages better decisions through hands on lessons in cultivating life, and the possibility of entrepreneurial endeavors would only serve to benefit us all. \r\nLos Angeles is a 21st century mega-city with over 4 million citizens (10 million in LA County), the food shed of which extends 200 miles. Astonishingly enough, rooftops amount to 20% of the land mass occupying exposed space in Los Angeles. Many of these spaces are functionally dormant, and serve as heat islands in a city burdened with enough environmental challenges as it is. Additionally, there are ten thousand vacant parcels that benefit no one except absentee landlords or developers not from the community. All these spaces are primed for agricultural activation, and upcoming legislative packages are finally beginning to incentivize the involvement of micro-enterprise to do so.\r\n"
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Confirmed Partners/Collaborators-\r\n\r\nCouncilmember Curren Price, 9th District\r\nCouncilmember Price has been very supportive of this endeavor by giving us the roof of his field office headquarters to grow food on, and by consistently championing equitable urban ag policy.\r\n\r\nLos Angeles Open Acres\r\nThe LA Open Acres project is launching soon, and a relationship is in place whereby Trade Tech lends its built-environment infrastructure support to increase the capacity and breadth of upcoming parcel activations.\r\n\r\nEvoFarm\r\nA consulting partnership has been developed with David Rosenstein, who recently gave a presentation on his innovative homemade aquaponics program at Trade Tech.\r\n\r\nLA Conservation Corps\r\nBruce Saito's remarkable organization is a curriculum partner.\r\n\r\nSocial Justice Learning Institute\r\nAnother joint-curriculum partner.\r\n\r\nRivera Restaurant / Museum Tamal\r\nCulinary students will learn to grow food hydroponically, and in top-level settings, come to understand how to best use it.\r\n\r\nMetabolic Studio\r\nAn in-kind partner, the Studio has been supportive by providing materials and offering resources.\r\n\r\n\r\nNon-Confirmed Partners/Collaborators-\r\n\r\nToo many to list... really.\r\n\r\n\r\nThree factors critical to collaborative success-\r\n1-Site locations (done)\r\n2-Mutually beneficial resource exchange (agreed)\r\n3-Funding (Hmm...)\r\n"
+  - name: metrics_live_healthyfood
+    label: Access to healthy food
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcare
+    label: Healthcare access
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_airtoxins
+    label: Exposure to air toxins
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_selfsufficiency
+    label: Number of households below the self-sufficiency standard
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_importedwater
+    label: Percent of imported water
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_obesity
+    label: Obesity rates
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_homelessness
+    label: Rates of homelessness
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_walkscore
+    label: Walk/bike/transit score
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_pollutedwaterways
+    label: Acres and miles of polluted waterways
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_mentalillness
+    label: Rates of mental illnesses
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_childhood
+    label: Prevalence of adverse childhood experience (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_communities
+    label: Percentage of LA communities that are resilient (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_healthcareservice
+    label: >-
+      Percentage of residents receiving coordinated healthcare services (Dream
+      Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_treecanopy
+    label: Percentage of tree canopy cover (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_live_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_live_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: >-
+      Our chosen goal is ushering life into a healthier LA, by promoting “food
+      economy that promotes wellness and health” by converting existing sites
+      into chemical-free urban farms that serve as agricultural and culinary
+      learning centers as well as activity space. Community stakeholders will
+      have increased access to localized organic food sources while engaging
+      with others whom enjoy growing and creating as much as they do.
+  - name: best_place_to_create
+    label: LA is the best place to CREATE
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '1'
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "One of the methods to evaluate success of this project is to compare on a yearly basis health indicators for example the rate of obesity or the number of heart disease. If these are decreasing then this project, (although this project may not be the only factor contributing to this improvement in people’s health), can be consider to be successful.\r\n\r\nAlso if the number of urban farms keeps growing and there are more and more stories of people speaking about the positive contribution of their farms to their health, then it can be said that this is also a metric that indicates success. \r\n\r\nThe other measure that will indicate success of this project is the therapeutic nature of growing plants, people are healthier when they are close to plants and nature. It is our expectation that this project will contribute to decrease in violence and quite possibly a reduction on homicides and this can be tracked by comparing the numbers on a yearly basis.\r\n"
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "The first lesson which has informed our project is that the production of food and the way we deal with food through processed foods and fast food restaurants is not sustainable and has led to unhealthy communities, as seen in the increased rates of obesity, and needs to be addressed in a lifestyle change. \r\n\r\nThe second  lesson which has informed our project is that solutions to community needs can only come from within the community and through their own efforts, our projects plants a seed but the community will adopt and make their own and care for it to really make a change in the community.\r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: >-
+      Implementing our project within the next twelve month is an achievable
+      goal because of thorough strategic planning, coalition building, and
+      because it’s based on a four-semester cycle. We have broad moral and
+      operational support from the community, college administrators,
+      policymakers, and LA’s urban farmers.
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: >-
+      The biggest challenges are to institutionalize the program and to provide
+      an easily accessible and understandable transparent allocation of funds.
+      The good news is that our College and District are moving towards open
+      government and transparency in all their procedures, and our new President
+      Larry Frank is very supportive of innovative thinking, local workforces,
+      and improving students' quality of life.
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: >-
+      Although there are agriculture curriculums throughout the country, there
+      aren’t any that address the multitude of specific challenges to growing
+      food in a harsh, urban environment such as Los Angeles. In addition to
+      conventional ag instruction like soil science, the Trade Tech Urban Ag
+      Curriculum will explore other facets just as crucial to growing food in
+      LA. These explorations will include site-specific hydroponics (i.e.
+      rooftop aquaponics), rain-water harvesting and water collection, which
+      edible plants most reduce air particulate matter or mitigate heat-island
+      effect, and how to affordably construct a rooftop solar greenhouse that
+      can withstand 70-80 mph winds. These aforementioned objectives
+      collectively address the unique nature of growing food here in LA along
+      with its challenges.
+  - name: cost
+    label: ''
+    explanation: ''
+    answer: >-
+      We estimate that what's been proposed will cost $100k, give or take $5k.
+      There are vast in-kind resources that we have available which would
+      normally make it a significantly higher figure. 
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "-Student Interns $45,000\r\n-Curriculum Leaders $25,000\r\n-Supplies $25,000\r\n-Administration $5,000\r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '1'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '1'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: lime
 
 ---

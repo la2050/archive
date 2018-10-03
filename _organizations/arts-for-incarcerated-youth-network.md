@@ -31,5 +31,29 @@ title: Arts For Incarcerated Youth Network
 uri: /organizations/arts-for-incarcerated-youth-network/
 challenge_url: >-
   https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
+extrapolated_project_ids:
+  - '6102012'
+  - '5102024'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Arts for Incarcerated Youth Network: using arts to build #camptocareer
+    pipeline for youth
+  - Arts for Incarcerated Youth Network
+project_titles:
+  - Arts for Incarcerated Youth Network
+  - >-
+    Arts for Incarcerated Youth Network: using arts to build #camptocareer
+    pipeline for youth
+project_titles_from_project_ids:
+  - >-
+    Arts for Incarcerated Youth Network: using arts to build #camptocareer
+    pipeline for youth
+original_project_titles:
+  - >-
+    Arts for Incarcerated Youth Network: using arts to build #camptocareer
+    pipeline for youth
+original_project_ids:
+  - '6102012'
+project_titles_flagged: 1
 
 ---

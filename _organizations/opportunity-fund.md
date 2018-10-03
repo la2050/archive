@@ -70,6 +70,55 @@ project_ids: '8102093'
 title: Opportunity Fund
 uri: /organizations/opportunity-fund/
 challenge_url: 'https://activation.la2050.org/create/opportunity-fund/'
+extrapolated_project_ids:
+  - '6102171'
+  - '5102224'
+  - '4102160'
+  - '3102210'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Catalyzing Community Partnerships to create economic mobility for LA’s
+    underserved entrepreneurs
+  - Strengthening LAs Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs
+  - Building Strong Small Businesses through Microlending
+project_titles:
+  - Building Strong Small Businesses through Microlending
+  - >-
+    Catalyzing Community Partnerships to create economic mobility for LA’s
+    underserved entrepreneurs
+  - >-
+    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
+    Small Business Owners. 
+  - Strengthening LAs Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs
+project_titles_from_project_ids:
+  - >-
+    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
+    Small Business Owners. 
+original_project_titles:
+  - Building Strong Small Businesses through Microlending
+  - >-
+    Catalyzing Community Partnerships to create economic mobility for LA’s
+    underserved entrepreneurs
+  - >-
+    Entrepreneurs, Advocates, and Lenders Mobilize to Protect the Rights of L.A.
+    Small Business Owners.
+  - Strengthening LA's Entrepreneurs through Responsible Microlending
+  - >-
+    Support LA’s celebrated food truck culture by helping food truck
+    entrepreneurs grow and create jobs 
+original_project_ids:
+  - '3102210'
+  - '4102160'
+  - '5102224'
+  - '6102171'
+  - '8102093'
+project_titles_flagged: 1
 category: create
 
 ---

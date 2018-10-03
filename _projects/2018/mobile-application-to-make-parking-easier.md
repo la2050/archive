@@ -33,6 +33,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/notow
 project_video: 'https://youtu.be/Vz9f3nvm5-Y'
 project_id_3: '8102091'
 year_submitted: 2018
+organization_name: NoTow
 project_proposal_description: >-
   NoTow will help Angelinos save nearly $150 million(govtech.com) in parking
   fines. Our application uses image recognition and a proprietary algorithm to

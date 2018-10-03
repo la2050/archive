@@ -32,5 +32,25 @@ title: 'The Engineer Factory, a project of Community Partners'
 uri: /organizations/the-engineer-factory-a-project-of-community-partners/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
+extrapolated_project_ids:
+  - '6102241'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    The Engineer Factory: Producing engineers in South Los Angeles...one student
+    at a time!
+project_titles:
+  - >-
+    The Engineer Factory: Producing engineers in South Los Angeles...one student
+    at a time!
+project_titles_from_project_ids:
+  - >-
+    The Engineer Factory: Producing engineers in South Los Angeles...one student
+    at a time!
+original_project_titles:
+  - >-
+    The Engineer Factory: Producing engineers in South Los Angeles...one student
+    at a time!
+original_project_ids:
+  - '6102241'
 
 ---

@@ -37,8 +37,18 @@ project_ids: '3102075'
 title: Minds on Fire
 uri: /organizations/minds-on-fire/
 challenge_url: 'http://maker.good.is/myla2050/projects/mindsonfire.html'
+extrapolated_project_ids:
+  - '3102075'
+project_titles_from_extrapolated_project_ids:
+  - Building A Community of Leaders One Middle School Student at a Time
 project_titles:
   - Building A Community of Leaders One Middle School Student at a Time
+project_titles_from_project_ids:
+  - Building A Community of Leaders One Middle School Student at a Time
+original_project_titles:
+  - 'Building A Community of Leaders, One Middle School Student at a Time'
+original_project_ids:
+  - '3102075'
 maker_image_id: '16654'
 maker_image_file_name: Slide1.jpg
 

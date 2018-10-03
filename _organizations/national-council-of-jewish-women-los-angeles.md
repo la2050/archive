@@ -39,5 +39,25 @@ title: National Council of Jewish Women | Los Angeles
 uri: /organizations/national-council-of-jewish-women-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-talk-project-–-teens-leading-workshops-on-sexual-violence-culture-change
+extrapolated_project_ids:
+  - '6102162'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    The Talk Project – Teens leading workshops on sexual violence & culture
+    change
+project_titles:
+  - >-
+    The Talk Project – Teens leading workshops on sexual violence & culture
+    change
+project_titles_from_project_ids:
+  - >-
+    The Talk Project – Teens leading workshops on sexual violence & culture
+    change
+original_project_titles:
+  - >-
+    The Talk Project – Teens leading workshops on sexual violence & culture
+    change
+original_project_ids:
+  - '6102162'
 
 ---

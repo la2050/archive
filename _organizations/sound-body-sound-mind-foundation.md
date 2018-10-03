@@ -30,5 +30,25 @@ title: Sound Body Sound Mind Foundation
 uri: /organizations/sound-body-sound-mind-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
+extrapolated_project_ids:
+  - '6102211'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Fighting Child Obesity Through the Transformation of Physical Education in
+    Los Angeles
+project_titles:
+  - >-
+    Fighting Child Obesity Through the Transformation of Physical Education in
+    Los Angeles
+project_titles_from_project_ids:
+  - >-
+    Fighting Child Obesity Through the Transformation of Physical Education in
+    Los Angeles
+original_project_titles:
+  - >-
+    Fighting Child Obesity Through the Transformation of Physical Education in
+    Los Angeles
+original_project_ids:
+  - '6102211'
 
 ---

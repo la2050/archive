@@ -27,8 +27,19 @@ project_ids: '4102020'
 title: Company of Angels (CoA)
 uri: /organizations/company-of-angels-coa/
 challenge_url: 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
+extrapolated_project_ids:
+  - '4102046'
+project_titles_from_extrapolated_project_ids:
+  - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)'
 project_titles:
   - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)'
+project_titles_from_project_ids:
+  - The Pathway
+original_project_titles:
+  - 'Meet Me @the Metro: Theater/In/Transit (M3TNT)  '
+original_project_ids:
+  - '4102046'
+project_titles_flagged: 1
 youtube_video_identifier: '-MVQfBjaOS0'
 
 ---

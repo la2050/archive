@@ -31,6 +31,26 @@ project_ids: '8102067'
 title: LawMaker.io
 uri: /organizations/lawmaker-io/
 challenge_url: 'https://activation.la2050.org/connect/lawmaker-io/'
+extrapolated_project_ids:
+  - '8102067'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
+    Solve Homelessness in LA
+project_titles:
+  - >-
+    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
+    Solve Homelessness in LA
+project_titles_from_project_ids:
+  - >-
+    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
+    Solve Homelessness in LA
+original_project_titles:
+  - >-
+    LawMaker.io: A Collaboration Between Angelenos and LA Elected Officials to
+    Solve Homelessness in LA
+original_project_ids:
+  - '8102067'
 category: connect
 
 ---

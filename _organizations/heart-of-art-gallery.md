@@ -26,8 +26,21 @@ project_ids: '5102222'
 title: Heart of Art Gallery
 uri: /organizations/heart-of-art-gallery/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
+extrapolated_project_ids:
+  - '5102132'
+project_titles_from_extrapolated_project_ids:
+  - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
 project_titles:
   - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
+project_titles_from_project_ids:
+  - Creating a Space for the Creative Class
+original_project_titles:
+  - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
+  - 'City with a Heart of Art: 1000 New Artworks made in & by LA in 2016'
+original_project_ids:
+  - '5102132'
+  - '5102132'
+project_titles_flagged: 1
 youtube_video_identifier: jpQSRVlR_XM
 
 ---

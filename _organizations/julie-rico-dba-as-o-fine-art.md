@@ -25,8 +25,17 @@ project_ids: '8102096'
 title: Julie Rico DBA as O Fine Art
 uri: /organizations/julie-rico-dba-as-o-fine-art/
 challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - LA ART FEST
+project_titles_from_project_ids:
+  - Safe Place for Youth by Podshare
+original_project_titles:
+  - LA ART FEST
+original_project_ids:
+  - '5102152'
+project_titles_flagged: 1
 youtube_video_identifier: pnwgZVtiDAA
 
 ---

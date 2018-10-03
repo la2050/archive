@@ -48,6 +48,7 @@ project_image: >-
 project_video: ''
 project_id_3: '8102016'
 year_submitted: 2018
+organization_name: Center for Innovation in STEM Education (CISE)
 project_proposal_description: >-
   We seek to empower teachers to prepare and inspire students for the future of
   STEM through dynamic training and mentoring on the state adopted, industry

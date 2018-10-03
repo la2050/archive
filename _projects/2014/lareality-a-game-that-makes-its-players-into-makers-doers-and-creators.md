@@ -69,6 +69,426 @@ project_areas:
   - SFV
   - SOUTH BAY
   - WESTSIDE
+maker_answers:
+  city_state: 'Los Angeles, CA'
+  org_name: USC Game Innovation Lab
+  org_website: 'http://interactive.usc.edu/game-innovation-lab/'
+  org_twitter: '@USCGameLab'
+  org_facebook: ''
+  org_instagram: ''
+  org_mailingaddress: "University of Southern California Game Innovation Lab\r\nUniversity Park, SCI 201\r\nLos Angeles, CA 90089-2211\r\n\r\n"
+  org_ein: '951642394'
+  org_nonprofit: '1'
+  org_forprofit: '0'
+  org_government: '0'
+  org_individual: '0'
+  describe_soloactor: '0'
+  describe_proposedcollaboration: '0'
+  describe_collaboration: '1'
+  describe_organization: >-
+    The GIL is a premiere research and design think tank, developing
+    experimental games in areas including art, science, politics, and learning.
+  one_sentence_project: >-
+    Our game motivates Angelenos of all ages to become makers and doers in all
+    form, creating amazing experiences for the entire city of LA.
+  describe_idea: >-
+    @USCGameLab has a game that makes players into real #makers, #creators, and
+    #artists - and it could be played by everyone in #LA.
+  all_county: '1'
+  region_county: '0'
+  population_county: '0'
+  'no': '0'
+  area_centralLA: '1'
+  area_eastLA: '1'
+  area_southLA: '1'
+  area_sangabrielvalley: '1'
+  area_sanfernandovalley: '1'
+  area_southbay: '1'
+  area_westside: '1'
+  'area_other:': '0'
+  area_other_blank: ''
+  more_detail: "Reality is a collaborative media-making game developed and played at the USC School of Cinematic Arts. When you play the game, you must actually create new films, games, books, and experiences other people can enjoy. The game is in its fourth year and we've seen huge successes in terms of motivating incoming students to significantly increase their creative output. \r\n\r\nWe think we could do the same thing for the entire city of Los Angeles. It doesn't have to be about just media, either. New technology, new food, new business models, new wonderful things - all driven by a simple card game and a web-based community presence.\r\n\r\nCreating is a habit. Reality is a way to build those good habits. We'd like to expand our game to the entire city.\r\n"
+  implement: "Simply: we are expanding the scope of a proven project to benefit the entire city.\r\n\r\nReality uses a simple card game mechanic to suggest creative projects – often those require collaborators who have their own cards and skills. It motivates the act of creating by arranging wonderful surprises for top players and other players who distinguish themselves in key ways. \r\n\r\nExpanding the game to LA as a whole involves folding in more creative disciplines and re-balancing the game to play out over an entire city instead of just one college campus. Location also plays a big role in Reality – we encourage players to develop a curious mind and explore their surroundings and the larger cultural context of their city. We’d push this angle heavily in developing LAReality. \r\n\r\nCommunity is also a big part of making the game successful. For our campus games, we built online communities and integrated the powerful social networks our players already used in ways that were engaging and sometimes challenging. Bringing the game to the city as a whole means a significant expansion of that infrastructure and the people to run it. \r\n\r\nRewards are also a big factor that motivates creation in the game. Doing exceptional work earns once-in-a-lifetime encounters with luminaries in their fields. In our campus game, top players found themselves unexpectedly meeting director John Singleton, touring the Museum of Jurassic Technology with game designer Jenova Chen, and being whisked to the Warner Lot in a limo to present their resumes to powerful executives. Significant effort from the game runners goes into securing these rewards, but they’re powerful motivators. \r\n\r\nWe’ll expand that to the broader creative community of Los Angeles. Imagine unexpectedly going on a culinary tour of K-town with Roy Choi, or meeting Shepard Fairey to scope the graffiti murals of LA. Enlisting the participation of powerful Los Angeles creators will make the project special and ensure a level of participation we’ve seen great results with so far. \r\n\r\nWe’re constantly adding new technologies and surprises to our game. Growing it to promote more times of creativity means we also need to expand our exhibition platforms. One of the things we love about LA is the incredible number of pop-up exhibition venues organized by small groups passionate about some aspect. Our plan to grow Reality to all of Los Angeles also involves linking these groups and working towards a common, amazing cultural explosion.\r\n"
+  impact_create: "Creating is a habit. The game helps build those habits. It produces new creative work as a natural byproduct of trying to “win” the game. The effects will be immediate. Los Angeles, already known around the world as a place where creativity flourishes, will see a spike in new works. Since the game doesn’t own or seek to profit off what’s created for the game, the originators are free to pursue their ideas or interesting discoveries as far as they can imagine.\r\n\r\nEveryone sits on their couch at some point and talks about the thing they would make if they just had the time, or the money, or the motivation. We can’t help in a tangible way with time or money, but as practicing creatives, we’ve observed that when it matters, you MAKE time. We’ve seen Reality provably cause students who protest they’re too busy and too broke and too tapped to create not just short films, but entire transmedia shared universes linking dozens of projects across all mediums. We really truly think the game has the power to get more people off the couch and chasing their dreams.\r\n\r\nIn 2050? Well, like we keep saying, creating is a habit – but it’s also like fitness. It hurts at first, but when you get in the habit, it becomes easier. You do a little every day and before you know it, it’s second nature. Los Angeles is suffering a little bit of a creative brain-drain as other cities have begun luring creatives away – but if we keep the city itself fertile for creativity by building not just a place, but a community of creators, Los Angeles of 2050 will be a hell of a place to make cool stuff.\r\n"
+  who_benefit: "If you've always wanted to create something, the game is for you. If you live in this city because it's a mecca for talent, because it offers food and art and music and film and technological wonders you wouldn't find wherever it was you came from or would go to, then LAReality is also for you.\r\n\r\nWe know you said to be specific, but the truth is it could benefit anyone. All you have to do is engage with it. Engage a little, engage a lot, it's designed to be as casual or all-consuming as you want to make creativity in your life. We think it's perfect for this initiative.\r\n\r\nOne thing, though: \r\n\r\nWe place a high premium on inclusion. One thing we've prided ourselves on when developing Reality is smashing the completely toxic and baseless gates some like to erect on creating based on gender, race, creed, orientation, or other socioeconomic factors. \r\n\r\nObviously, we think the opposite is the case - there are voices out there being shut out by certain creative fields that need to be heard MORE and not less. This is a venue for those voices. So if you've ever felt trapped or boxed in or unheard - oh, we are most definitely for you.\r\n"
+  partners_collaboration: "Reality already has three years worth of inroads and good ties with the entertainment industry. If LAReality gets selected, we plan to expand to other creative professions. \r\n\r\nFrom past experience, three crucial factors for participation from outside partners are:\r\n- be flexible to their schedules and life's demands\r\n- give them ownership over the experience and how they'd like it to play out\r\n- keep the experience small and intimate - this makes it special and doesn't turn it into a circus\r\n"
+  metrics_create_employment: '1'
+  metrics_create_arts: '1'
+  metrics_create_manufacturing: '0'
+  metrics_create_researchgrant: '0'
+  metrics_create_patents: '1'
+  metrics_create_jbs: '0'
+  metrics_create_minoritywomenowned: '1'
+  metrics_create_gini: '0'
+  metrics_create_startups: '1'
+  metrics_create_venturecapital: '1'
+  metrics_create_influencers: '1'
+  metrics_create_recruitingrates: '1'
+  metrics_create_graduates: '1'
+  metrics_create_unemployment: '0'
+  metrics_create_other: '0'
+  metrics_create_blank: ''
+  impact_metrics: " In the short term, Reality produces interesting creative work. It also forges friendships and lasting creative alliances between people who never would have met or collaborated without being put together by the mechanics of the game. (Add entrepreneurship and inclusivity – so it can add to minority firms, start ups, as well as creative jobs, arts establishments, etc)\r\n\r\nIt's also going to produce some pretty great new ideas once it takes off. We feel very confident that the metrics we checked off are going to see some measurable movement as a byproduct of the experience. In our campus game we've seen lasting creative partnerships form and a few of the ideas take on lives of their own once the game ended. On the broader scale, this creates an incredible amount of potential new enterprises and has the potential to involve underserved groups and bring them exposure in ways that could really move the needle.\r\n"
+  best_place_to_learn: '0'
+  best_place_to_connect: '0'
+  healthiest_place_to_live: '0'
+  best_place_to_play: '1'
+  evaluate: "Measures of Effectiveness:\r\n\r\n- players who create at least once\r\n- players who habitually create\r\n- diversity of disciplines per player\r\n- diversity of team makeups\r\n- web traffic to creative works\r\n- physical traffic to special happenings and events\r\n- media coverage highlighting the initiative\r\n- growth in output from specific geographic and demographic communities\r\n\r\nWe’ve done groundbreaking network analysis on this project with Ben Stokes as part of his PhD at USC and this version of the game would be able to build on that work to measure social capital and engagement across the city."
+  two_lessons: "1)\tGive your players ownership\r\nThe game is a dialogue between the players and the runners. We learned early on that being flexible was key to keeping participation and enthusiasm up. Apart from safety concerns, we don’t hold to any one rule if it’s interfering with them doing the best work and the work they want to do. If they find a loophole in the rules because they want to do an incredible thing, we let them. Of course, if they find a loophole in the rules because they want to score extra points, we shut that down. That said, giving them ownership has largely prevented the usual problems of cheating or gaming the system, even when there are highly desirable prizes at stake. In three years of running the game, we’ve only ever rejected one project on those grounds.\r\n\r\n2)\tKeep it Underground, Keep it Special\r\nThe biggest threat to any activity like this is it gets seen as “mandatory fun” or institutionalized groupthink airport bookstore malarcky. The tone and spirit of the game, and its somewhat secretive “in the know” underground appeal it turns out is ESSENTIAL to the game’s success where others like it have failed. \r\n"
+  achievable_goal: >-
+    We run a 15-week game every year. We have a system in place and a lot of the
+    infrastructure – the major goal over the next twelve months is to scale it
+    up. Some things will need testing and re-factoring, but the major effort is
+    to build something out based on something that’s already successful. We feel
+    that’s highly achievable in twelve months. 
+  major_challenges: "1)\tScale\r\nWe don’t want to make it seem like we’re hand-waving when we say “scale it up” – scaling things up is hard. At bigger scales lots of balanced things tend to break. Preserving what’s great about Reality while opening up the number of disciplines and inviting a far greater number of players means we have a lot of work to do to keep it running smoothly. The best strategy for this is organization and being smart about building an all-new infrastructure to handle city-wide play.\r\n\r\n2)\tBuy-In\r\nReality works because the motivation is rooted in encounters with people and creators you want to meet. USC luckily has an excellent alumni network with notable figures across a variety of disciplines- we think we can tap a pretty good bench through our own network, but the factors we mention above about outside partnerships apply here. We’ve learned important and powerful people are pretty willing when they understand the “ask” gives them control over the details and timing and puts them in contact with 3-5 really exceptional people. We’re also hopeful our new friends from LA2050 will have some ideas and introductions they could make. ;)\r\n"
+  competition: "We’ve never seen anything quite like Reality. There are plenty of places out there trying to “gameify” work, and Los Angeles has not been a stranger to Alternate Reality Games or other games for change – but what makes Reality special is that it’s there for anyone and everyone at whatever level they want to engage with it. You can get as little or as much out of it as you’d like to put it. It’s also not mandatory fun or trying to sugarcoat a pill. It wants you to do a thing that YOU probably want to do, too, and it rewards you for acting on that. If you feel intimidated, it puts you in contact with people who will inspire. If you feel unskilled, it’ll give you experience and confidence to improve. \r\nOne unique point we’ve seen – the sheer volume of impressive work that comes out of the players is astonishing. \r\n"
+  cost: "Properly running Reality at this scale for 15 weeks probably costs more than $100,000. But a month? An incredible summer month that ends up becoming something like a festival of creativity for the entire city of Los Angeles? That’s pretty achievable.\r\n\r\nProperly managing expectations, even though we’re about to run our fourth “season” on the USC campus, this would constitute an entirely new beast. What we want to build for LA2050 is a shorter but BIGGER version 1 of the city game, LAReality.\r\n"
+  budget: "Physical Card Printing and Fulfillment - $15,000\r\nThis facilitates printing of the physical cards that are at the heart of the Reality game experience, as well as distributing those decks and special cards during the course of playing the game. $15,000 likely gets us tens upon tens of thousands of cards. We’ve never ordered anywhere near that many, though – our game runs on a few thousand cards a year.\r\n\r\nNew Web Infrastructure and support - $29,000\r\nThis covers creation of the internet-powered parts of the game and outfitting them for a potentially far greater user base. This also covers costs to develop an app that delivers cards cheaply to smartphones or web clients. We deem this essential to scaling the game up – not just being able to afford putting cards in the hands of all players, but also getting them access.\r\n\r\nDesign, Development, and Creative Direction – $33,000 \r\nPersonnel costs for designers, producers, and gamerunners to redesign the game, oversee infrastructure, and facilitate the event that is the itself. \r\n\r\nReward Budget – $12,000\r\nCovers expenses incurred in facilitating rewards. Meals with reward personalities, transportation, admission fees, and personnel to coordinate. \r\n\r\nOverhead and Contingency – $11,000\r\nLegal, Bureaucratic, and related costs – plus reserved contingency in the event of a critical overrun. \r\n"
+  resources_money: '1'
+  resources_staff: '1'
+  resources_publicity: '1'
+  resources_infrastructure: '0'
+  resources_education: '0'
+  resources_technical: '1'
+  resources_communityoutreach: '1'
+  resources_network: '0'
+  resources_research: '0'
+maker_answers_list:
+  - name: city_state
+    label: 'City, State'
+    explanation: '(Example: Los Angeles, CA)'
+    answer: 'Los Angeles, CA'
+  - name: org_name
+    label: Organization name(s)
+    explanation: Please list all if there are more than one.
+    answer: USC Game Innovation Lab
+  - name: org_website
+    label: Organization website
+    explanation: '(Ex: www.LA2050.org)'
+    answer: 'http://interactive.usc.edu/game-innovation-lab/'
+  - name: org_twitter
+    label: Organization Twitter handle
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.twitter.com/LA2050)
+    answer: '@USCGameLab'
+  - name: org_facebook
+    label: Organization Facebook page
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: www.facebook.com/LA2050)
+    answer: ''
+  - name: org_instagram
+    label: Organization Instagram
+    explanation: >-
+      This is optional, but we highly encourage submitters to use social media
+      to connect with supporters. (Ex: instagram.com/LA2050)
+    answer: ''
+  - name: org_mailingaddress
+    label: Organization mailing address
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "University of Southern California Game Innovation Lab\r\nUniversity Park, SCI 201\r\nLos Angeles, CA 90089-2211\r\n\r\n"
+  - name: org_ein
+    label: Employer identification number (EIN) - REQUIRED
+    explanation: >-
+      REQUIRED - Due to the size of the grants this information is required. If
+      you are not an organization with an EIN, you'll need to secure a fiscal
+      sponsor in order to participate. (Example: If the EIN is '12-3456789'
+      please post '123456789', without the dash.) This information is for
+      internal purposes only and will not be displayed publicly.
+    answer: '951642394'
+  - name: org_nonprofit
+    label: Nonprofit organization
+    explanation: ''
+    answer: '1'
+  - name: org_forprofit
+    label: For-profit organization
+    explanation: ''
+    answer: '0'
+  - name: org_government
+    label: Government
+    explanation: ''
+    answer: '0'
+  - name: org_individual
+    label: Individual
+    explanation: ''
+    answer: '0'
+  - name: describe_soloactor
+    label: Solo actor (just us on this project!)
+    explanation: ''
+    answer: '0'
+  - name: describe_proposedcollaboration
+    label: Proposed collaboration (we want to work with partners!)
+    explanation: ''
+    answer: '0'
+  - name: describe_collaboration
+    label: >-
+      Collaboration (partners are signed up and ready to hit the ground
+      running!)
+    explanation: ''
+    answer: '1'
+  - name: describe_organization
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      The GIL is a premiere research and design think tank, developing
+      experimental games in areas including art, science, politics, and
+      learning.
+  - name: one_sentence_project
+    label: ''
+    explanation: 140 character maximum
+    answer: >-
+      Our game motivates Angelenos of all ages to become makers and doers in all
+      form, creating amazing experiences for the entire city of LA.
+  - name: describe_idea
+    label: ''
+    explanation: >-
+      Great example from 2013: 'We at @TrustSouthLA1 want to create affordable
+      homes on 3000 acres of underutilized land in #SouthLA.' Bad example: 'We
+      have such an awesome project! Please vote for @GoldhirshFdn here!'
+    answer: >-
+      @USCGameLab has a game that makes players into real #makers, #creators,
+      and #artists - and it could be played by everyone in #LA.
+  - name: all_county
+    label: Yes (benefits all of LA County)
+    explanation: ''
+    answer: '1'
+  - name: region_county
+    label: ''
+    explanation: Yes (benefits a region of LA County)
+    answer: '0'
+  - name: population_county
+    label: ''
+    explanation: Yes (benefits a population of LA County)
+    answer: '0'
+  - name: 'no'
+    label: 'No'
+    explanation: ''
+    answer: '0'
+  - name: area_centralLA
+    label: Central LA
+    explanation: ''
+    answer: '1'
+  - name: area_eastLA
+    label: East LA
+    explanation: ''
+    answer: '1'
+  - name: area_southLA
+    label: South LA
+    explanation: ''
+    answer: '1'
+  - name: area_sangabrielvalley
+    label: San Gabriel Valley
+    explanation: ''
+    answer: '1'
+  - name: area_sanfernandovalley
+    label: San Fernando Valley
+    explanation: ''
+    answer: '1'
+  - name: area_southbay
+    label: South Bay
+    explanation: ''
+    answer: '1'
+  - name: area_westside
+    label: Westside
+    explanation: ''
+    answer: '1'
+  - name: 'area_other:'
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: area_other_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: more_detail
+    label: ''
+    explanation: ''
+    answer: "Reality is a collaborative media-making game developed and played at the USC School of Cinematic Arts. When you play the game, you must actually create new films, games, books, and experiences other people can enjoy. The game is in its fourth year and we've seen huge successes in terms of motivating incoming students to significantly increase their creative output. \r\n\r\nWe think we could do the same thing for the entire city of Los Angeles. It doesn't have to be about just media, either. New technology, new food, new business models, new wonderful things - all driven by a simple card game and a web-based community presence.\r\n\r\nCreating is a habit. Reality is a way to build those good habits. We'd like to expand our game to the entire city.\r\n"
+  - name: implement
+    label: ''
+    explanation: ''
+    answer: "Simply: we are expanding the scope of a proven project to benefit the entire city.\r\n\r\nReality uses a simple card game mechanic to suggest creative projects – often those require collaborators who have their own cards and skills. It motivates the act of creating by arranging wonderful surprises for top players and other players who distinguish themselves in key ways. \r\n\r\nExpanding the game to LA as a whole involves folding in more creative disciplines and re-balancing the game to play out over an entire city instead of just one college campus. Location also plays a big role in Reality – we encourage players to develop a curious mind and explore their surroundings and the larger cultural context of their city. We’d push this angle heavily in developing LAReality. \r\n\r\nCommunity is also a big part of making the game successful. For our campus games, we built online communities and integrated the powerful social networks our players already used in ways that were engaging and sometimes challenging. Bringing the game to the city as a whole means a significant expansion of that infrastructure and the people to run it. \r\n\r\nRewards are also a big factor that motivates creation in the game. Doing exceptional work earns once-in-a-lifetime encounters with luminaries in their fields. In our campus game, top players found themselves unexpectedly meeting director John Singleton, touring the Museum of Jurassic Technology with game designer Jenova Chen, and being whisked to the Warner Lot in a limo to present their resumes to powerful executives. Significant effort from the game runners goes into securing these rewards, but they’re powerful motivators. \r\n\r\nWe’ll expand that to the broader creative community of Los Angeles. Imagine unexpectedly going on a culinary tour of K-town with Roy Choi, or meeting Shepard Fairey to scope the graffiti murals of LA. Enlisting the participation of powerful Los Angeles creators will make the project special and ensure a level of participation we’ve seen great results with so far. \r\n\r\nWe’re constantly adding new technologies and surprises to our game. Growing it to promote more times of creativity means we also need to expand our exhibition platforms. One of the things we love about LA is the incredible number of pop-up exhibition venues organized by small groups passionate about some aspect. Our plan to grow Reality to all of Los Angeles also involves linking these groups and working towards a common, amazing cultural explosion.\r\n"
+  - name: impact_create
+    label: ''
+    explanation: ''
+    answer: "Creating is a habit. The game helps build those habits. It produces new creative work as a natural byproduct of trying to “win” the game. The effects will be immediate. Los Angeles, already known around the world as a place where creativity flourishes, will see a spike in new works. Since the game doesn’t own or seek to profit off what’s created for the game, the originators are free to pursue their ideas or interesting discoveries as far as they can imagine.\r\n\r\nEveryone sits on their couch at some point and talks about the thing they would make if they just had the time, or the money, or the motivation. We can’t help in a tangible way with time or money, but as practicing creatives, we’ve observed that when it matters, you MAKE time. We’ve seen Reality provably cause students who protest they’re too busy and too broke and too tapped to create not just short films, but entire transmedia shared universes linking dozens of projects across all mediums. We really truly think the game has the power to get more people off the couch and chasing their dreams.\r\n\r\nIn 2050? Well, like we keep saying, creating is a habit – but it’s also like fitness. It hurts at first, but when you get in the habit, it becomes easier. You do a little every day and before you know it, it’s second nature. Los Angeles is suffering a little bit of a creative brain-drain as other cities have begun luring creatives away – but if we keep the city itself fertile for creativity by building not just a place, but a community of creators, Los Angeles of 2050 will be a hell of a place to make cool stuff.\r\n"
+  - name: who_benefit
+    label: ''
+    explanation: ''
+    answer: "If you've always wanted to create something, the game is for you. If you live in this city because it's a mecca for talent, because it offers food and art and music and film and technological wonders you wouldn't find wherever it was you came from or would go to, then LAReality is also for you.\r\n\r\nWe know you said to be specific, but the truth is it could benefit anyone. All you have to do is engage with it. Engage a little, engage a lot, it's designed to be as casual or all-consuming as you want to make creativity in your life. We think it's perfect for this initiative.\r\n\r\nOne thing, though: \r\n\r\nWe place a high premium on inclusion. One thing we've prided ourselves on when developing Reality is smashing the completely toxic and baseless gates some like to erect on creating based on gender, race, creed, orientation, or other socioeconomic factors. \r\n\r\nObviously, we think the opposite is the case - there are voices out there being shut out by certain creative fields that need to be heard MORE and not less. This is a venue for those voices. So if you've ever felt trapped or boxed in or unheard - oh, we are most definitely for you.\r\n"
+  - name: partners_collaboration
+    label: ''
+    explanation: >-
+      We strongly support collaboration, please tell us a little more about your
+      partnership.
+    answer: "Reality already has three years worth of inroads and good ties with the entertainment industry. If LAReality gets selected, we plan to expand to other creative professions. \r\n\r\nFrom past experience, three crucial factors for participation from outside partners are:\r\n- be flexible to their schedules and life's demands\r\n- give them ownership over the experience and how they'd like it to play out\r\n- keep the experience small and intimate - this makes it special and doesn't turn it into a circus\r\n"
+  - name: metrics_create_employment
+    label: Employment in creative industries
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_arts
+    label: Arts establishments per capita
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_manufacturing
+    label: Concentration of manufacturing activity in LA
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_researchgrant
+    label: Federal research grant funding
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_patents
+    label: Patents per capita
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_jbs
+    label: Jobs per capita
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_minoritywomenowned
+    label: Minority- and women-owned firms
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_gini
+    label: Gini coefficient
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_startups
+    label: Number of high-growth startups
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_venturecapital
+    label: Venture capital investment
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_influencers
+    label: >-
+      Measures of cultural and global economic influence (“soft power”) (Dream
+      Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_recruitingrates
+    label: >-
+      Recruiting and retention rates at local higher education institutions
+      (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_graduates
+    label: >-
+      Percentage of graduates from local higher education institutions that
+      remain in LA County 5 years after graduating (Dream Metric)
+    explanation: ''
+    answer: '1'
+  - name: metrics_create_unemployment
+    label: >-
+      Unemployment rates (and opportunities) for the formerly incarcerated
+      (Dream Metric)
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_other
+    label: 'Other:'
+    explanation: ''
+    answer: '0'
+  - name: metrics_create_blank
+    label: 'If other, please specify.'
+    explanation: 'If other, please specify.'
+    answer: ''
+  - name: impact_metrics
+    label: Please elaborate on how your project will impact the above metrics.
+    explanation: Please elaborate on how your project will impact the above metrics.
+    answer: " In the short term, Reality produces interesting creative work. It also forges friendships and lasting creative alliances between people who never would have met or collaborated without being put together by the mechanics of the game. (Add entrepreneurship and inclusivity – so it can add to minority firms, start ups, as well as creative jobs, arts establishments, etc)\r\n\r\nIt's also going to produce some pretty great new ideas once it takes off. We feel very confident that the metrics we checked off are going to see some measurable movement as a byproduct of the experience. In our campus game we've seen lasting creative partnerships form and a few of the ideas take on lives of their own once the game ended. On the broader scale, this creates an incredible amount of potential new enterprises and has the potential to involve underserved groups and bring them exposure in ways that could really move the needle.\r\n"
+  - name: best_place_to_learn
+    label: LA is the best place to LEARN
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_connect
+    label: LA is the best place to CONNECT
+    explanation: ''
+    answer: '0'
+  - name: healthiest_place_to_live
+    label: LA is the healthiest place to LIVE
+    explanation: ''
+    answer: '0'
+  - name: best_place_to_play
+    label: LA is the best place to PLAY
+    explanation: ''
+    answer: '1'
+  - name: evaluate
+    label: ''
+    explanation: ''
+    answer: "Measures of Effectiveness:\r\n\r\n- players who create at least once\r\n- players who habitually create\r\n- diversity of disciplines per player\r\n- diversity of team makeups\r\n- web traffic to creative works\r\n- physical traffic to special happenings and events\r\n- media coverage highlighting the initiative\r\n- growth in output from specific geographic and demographic communities\r\n\r\nWe’ve done groundbreaking network analysis on this project with Ben Stokes as part of his PhD at USC and this version of the game would be able to build on that work to measure social capital and engagement across the city."
+  - name: two_lessons
+    label: ''
+    explanation: ''
+    answer: "1)\tGive your players ownership\r\nThe game is a dialogue between the players and the runners. We learned early on that being flexible was key to keeping participation and enthusiasm up. Apart from safety concerns, we don’t hold to any one rule if it’s interfering with them doing the best work and the work they want to do. If they find a loophole in the rules because they want to do an incredible thing, we let them. Of course, if they find a loophole in the rules because they want to score extra points, we shut that down. That said, giving them ownership has largely prevented the usual problems of cheating or gaming the system, even when there are highly desirable prizes at stake. In three years of running the game, we’ve only ever rejected one project on those grounds.\r\n\r\n2)\tKeep it Underground, Keep it Special\r\nThe biggest threat to any activity like this is it gets seen as “mandatory fun” or institutionalized groupthink airport bookstore malarcky. The tone and spirit of the game, and its somewhat secretive “in the know” underground appeal it turns out is ESSENTIAL to the game’s success where others like it have failed. \r\n"
+  - name: achievable_goal
+    label: ''
+    explanation: ''
+    answer: >-
+      We run a 15-week game every year. We have a system in place and a lot of
+      the infrastructure – the major goal over the next twelve months is to
+      scale it up. Some things will need testing and re-factoring, but the major
+      effort is to build something out based on something that’s already
+      successful. We feel that’s highly achievable in twelve months. 
+  - name: major_challenges
+    label: ''
+    explanation: ''
+    answer: "1)\tScale\r\nWe don’t want to make it seem like we’re hand-waving when we say “scale it up” – scaling things up is hard. At bigger scales lots of balanced things tend to break. Preserving what’s great about Reality while opening up the number of disciplines and inviting a far greater number of players means we have a lot of work to do to keep it running smoothly. The best strategy for this is organization and being smart about building an all-new infrastructure to handle city-wide play.\r\n\r\n2)\tBuy-In\r\nReality works because the motivation is rooted in encounters with people and creators you want to meet. USC luckily has an excellent alumni network with notable figures across a variety of disciplines- we think we can tap a pretty good bench through our own network, but the factors we mention above about outside partnerships apply here. We’ve learned important and powerful people are pretty willing when they understand the “ask” gives them control over the details and timing and puts them in contact with 3-5 really exceptional people. We’re also hopeful our new friends from LA2050 will have some ideas and introductions they could make. ;)\r\n"
+  - name: competition
+    label: ''
+    explanation: ''
+    answer: "We’ve never seen anything quite like Reality. There are plenty of places out there trying to “gameify” work, and Los Angeles has not been a stranger to Alternate Reality Games or other games for change – but what makes Reality special is that it’s there for anyone and everyone at whatever level they want to engage with it. You can get as little or as much out of it as you’d like to put it. It’s also not mandatory fun or trying to sugarcoat a pill. It wants you to do a thing that YOU probably want to do, too, and it rewards you for acting on that. If you feel intimidated, it puts you in contact with people who will inspire. If you feel unskilled, it’ll give you experience and confidence to improve. \r\nOne unique point we’ve seen – the sheer volume of impressive work that comes out of the players is astonishing. \r\n"
+  - name: cost
+    label: ''
+    explanation: >-
+      This information is for internal purposes only and will not be publicly
+      displayed.
+    answer: "Properly running Reality at this scale for 15 weeks probably costs more than $100,000. But a month? An incredible summer month that ends up becoming something like a festival of creativity for the entire city of Los Angeles? That’s pretty achievable.\r\n\r\nProperly managing expectations, even though we’re about to run our fourth “season” on the USC campus, this would constitute an entirely new beast. What we want to build for LA2050 is a shorter but BIGGER version 1 of the city game, LAReality.\r\n"
+  - name: budget
+    label: ''
+    explanation: ''
+    answer: "Physical Card Printing and Fulfillment - $15,000\r\nThis facilitates printing of the physical cards that are at the heart of the Reality game experience, as well as distributing those decks and special cards during the course of playing the game. $15,000 likely gets us tens upon tens of thousands of cards. We’ve never ordered anywhere near that many, though – our game runs on a few thousand cards a year.\r\n\r\nNew Web Infrastructure and support - $29,000\r\nThis covers creation of the internet-powered parts of the game and outfitting them for a potentially far greater user base. This also covers costs to develop an app that delivers cards cheaply to smartphones or web clients. We deem this essential to scaling the game up – not just being able to afford putting cards in the hands of all players, but also getting them access.\r\n\r\nDesign, Development, and Creative Direction – $33,000 \r\nPersonnel costs for designers, producers, and gamerunners to redesign the game, oversee infrastructure, and facilitate the event that is the itself. \r\n\r\nReward Budget – $12,000\r\nCovers expenses incurred in facilitating rewards. Meals with reward personalities, transportation, admission fees, and personnel to coordinate. \r\n\r\nOverhead and Contingency – $11,000\r\nLegal, Bureaucratic, and related costs – plus reserved contingency in the event of a critical overrun. \r\n"
+  - name: resources_money
+    label: Money (financial capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_staff
+    label: Volunteers/staff (human capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_publicity
+    label: Publicity/awareness (social capital)
+    explanation: ''
+    answer: '1'
+  - name: resources_infrastructure
+    label: 'Infrastructure (building/space/vehicles, etc.)'
+    explanation: ''
+    answer: '0'
+  - name: resources_education
+    label: Education/training
+    explanation: ''
+    answer: '0'
+  - name: resources_technical
+    label: 'Technical infrastructure (computers, etc.)'
+    explanation: ''
+    answer: '1'
+  - name: resources_communityoutreach
+    label: Community outreach
+    explanation: ''
+    answer: '1'
+  - name: resources_network
+    label: Network/relationship support
+    explanation: ''
+    answer: '0'
+  - name: resources_research
+    label: Quality improvement research
+    explanation: ''
+    answer: '0'
 body_class: banana
 
 ---

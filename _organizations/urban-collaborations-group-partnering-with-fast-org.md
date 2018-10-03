@@ -22,10 +22,19 @@ project_ids: '4102181'
 title: Urban Collaborations Group (Partnering with FAST.org)
 uri: /organizations/urban-collaborations-group-partnering-with-fast-org/
 challenge_url: ''
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
 project_titles:
   - >-
     The Cyber Insecurity Initiative of the Los Angeles Healthcare Security
     Systems Project
+project_titles_from_project_ids:
+  - This is the Moment!
+original_project_titles:
+  - 'CUT MY COMMUTE: CHANGING LA''S QUALITY OF LIFE THROUGH LOCAL HIRE'
+original_project_ids:
+  - '4102255'
+project_titles_flagged: 1
 maker_image_id: '22419'
 maker_image_file_name: LA2050-Hero.jpg
 

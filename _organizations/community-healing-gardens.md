@@ -30,5 +30,17 @@ title: Community Healing Gardens
 uri: /organizations/community-healing-gardens/
 challenge_url: >-
   https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
+extrapolated_project_ids:
+  - '6102051'
+project_titles_from_extrapolated_project_ids:
+  - Building LA’s underserved communities from the ground up!
+project_titles:
+  - Building LA’s underserved communities from the ground up!
+project_titles_from_project_ids:
+  - Building LA’s underserved communities from the ground up!
+original_project_titles:
+  - Building LA’s underserved communities from the ground up!
+original_project_ids:
+  - '6102051'
 
 ---

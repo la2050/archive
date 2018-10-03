@@ -30,5 +30,17 @@ project_ids: '6102073'
 title: Friends of Glenfeliz
 uri: /organizations/friends-of-glenfeliz/
 challenge_url: 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'
+extrapolated_project_ids:
+  - '6102073'
+project_titles_from_extrapolated_project_ids:
+  - 'Glenfeliz: Helping LA Grow'
+project_titles:
+  - 'Glenfeliz: Helping LA Grow'
+project_titles_from_project_ids:
+  - 'Glenfeliz: Helping LA Grow'
+original_project_titles:
+  - 'Glenfeliz: Helping LA Grow'
+original_project_ids:
+  - '6102073'
 
 ---

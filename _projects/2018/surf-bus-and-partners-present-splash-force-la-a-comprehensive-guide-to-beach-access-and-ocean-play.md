@@ -32,6 +32,7 @@ project_image: >-
 project_video: 'https://vimeo.com/262573193'
 project_id_3: '8102114'
 year_submitted: 2018
+organization_name: Surf Bus Foundation
 project_proposal_description: >-
   "Splash Force LA" is a multi-level solution to the lack of inner city park
   space available across Los Angeles. We seek to energize and mobilize

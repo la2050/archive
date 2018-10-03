@@ -27,5 +27,17 @@ project_ids: '6102251'
 title: The NOW Institute/UCLA
 uri: /organizations/the-now-institute-ucla/
 challenge_url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
+extrapolated_project_ids:
+  - '6102251'
+project_titles_from_extrapolated_project_ids:
+  - Sustainable LA 2050 GIS Portal
+project_titles:
+  - Sustainable LA 2050 GIS Portal
+project_titles_from_project_ids:
+  - Sustainable LA 2050 GIS Portal
+original_project_titles:
+  - Sustainable LA 2050 GIS Portal
+original_project_ids:
+  - '6102251'
 
 ---

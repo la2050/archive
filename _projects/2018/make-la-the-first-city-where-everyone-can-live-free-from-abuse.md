@@ -5,7 +5,7 @@ title: Make LA the first city where everyone can live free from abuse
 project_summary: >-
   FreeFrom is working to revolutionize LA’s response to the epidemic of
   gender-based violence by making sure every survivor has the financial
-  resources to heal, rebuild and live free from abuse. 
+  resources to heal, rebuild and live free from abuse.
 Please describe the activation your organization seeks to launch.: >-
   1 in 4 women will suffer severe domestic violence in their lifetime, and
   domestic violence is the leading cause of homelessness among women and
@@ -28,6 +28,7 @@ project_image: 'https://activation.la2050.org/assets/images/live/2048-wide/freef
 project_video: 'https://www.youtube.com/watch?v=9tCDaZikwNQ'
 project_id_3: '8102041'
 year_submitted: 2018
+organization_name: FreeFrom
 project_proposal_description: >-
   1 in 4 women will suffer severe domestic violence in their lifetime, and
   domestic violence is the leading cause of homelessness among women and

@@ -30,6 +30,34 @@ project_ids: '8102044'
 title: Get Lit - Words Ignite
 uri: /organizations/get-lit-words-ignite/
 challenge_url: 'https://activation.la2050.org/create/get-lit-words-ignite/'
+extrapolated_project_ids:
+  - '6102080'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
+    Bus!
+project_titles:
+  - >-
+    Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
+    Bus!
+  - >-
+    Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
+    Studio
+project_titles_from_project_ids:
+  - >-
+    Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
+    Studio
+original_project_titles:
+  - >-
+    Get Lit Players go on a 'Lit for Literacy' Tour in Los Angeles' first Poetry
+    Bus!
+  - >-
+    Literary Riot Creative Collective: A Radically Inclusive Youth-Led Content
+    Studio
+original_project_ids:
+  - '6102080'
+  - '8102044'
+project_titles_flagged: 1
 category: create
 
 ---

@@ -28,5 +28,25 @@ project_ids: '6102052'
 title: Community Health Councils
 uri: /organizations/community-health-councils/
 challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
+extrapolated_project_ids:
+  - '6102052'
+  - '3102088'
+project_titles_from_extrapolated_project_ids:
+  - Save Spaces for Healthy Places
+  - >-
+    LA Open Acres: Transforming Empty Space Through Collaboration and
+    Empowerment
+project_titles:
+  - >-
+    LA Open Acres: Transforming Empty Space Through Collaboration and
+    Empowerment
+  - Save Spaces for Healthy Places
+project_titles_from_project_ids:
+  - Save Spaces for Healthy Places
+original_project_titles:
+  - Save Spaces for Healthy Places
+original_project_ids:
+  - '6102052'
+project_titles_flagged: 1
 
 ---

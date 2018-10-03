@@ -31,5 +31,17 @@ title: I3 Arts Fest
 uri: /organizations/i3-arts-fest/
 challenge_url: >-
   https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
+extrapolated_project_ids:
+  - '6102099'
+project_titles_from_extrapolated_project_ids:
+  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
+project_titles:
+  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
+project_titles_from_project_ids:
+  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
+original_project_titles:
+  - 'I3 Arts Fest: An Interactive, Immersive and Innovative Public Arts Festival'
+original_project_ids:
+  - '6102099'
 
 ---

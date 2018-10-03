@@ -59,8 +59,18 @@ project_ids: '3102136'
 title: Fulfillment Fund
 uri: /organizations/fulfillment-fund/
 challenge_url: 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
+extrapolated_project_ids:
+  - '3102136'
+project_titles_from_extrapolated_project_ids:
+  - Destination College
 project_titles:
   - Destination College
+project_titles_from_project_ids:
+  - Destination College
+original_project_titles:
+  - Destination College
+original_project_ids:
+  - '3102136'
 maker_image_id: '16910'
 maker_image_file_name: Destination_College_Photo.jpg
 

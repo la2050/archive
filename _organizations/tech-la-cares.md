@@ -39,5 +39,23 @@ title: Tech LA Cares
 uri: /organizations/tech-la-cares/
 challenge_url: >-
   https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
+extrapolated_project_ids:
+  - '6102242'
+  - '5102292'
+project_titles_from_extrapolated_project_ids:
+  - Connecting LA Tech Companies with Area STEM Organizations
+  - Tech LA Cares (TLC)
+project_titles:
+  - Connecting LA Tech Companies with Area STEM Organizations
+  - Tech LA Cares (TLC)
+project_titles_from_project_ids:
+  - Connecting LA Tech Companies with Area STEM Organizations
+original_project_titles:
+  - Connecting LA Tech Companies with Area STEM Organizations
+  - Tech LA Cares (TLC)
+original_project_ids:
+  - '5102292'
+  - '6102242'
+project_titles_flagged: 1
 
 ---

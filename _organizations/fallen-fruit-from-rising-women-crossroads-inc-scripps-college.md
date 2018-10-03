@@ -10,7 +10,7 @@ charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.pr
 ntee_type: ''
 tags_indicators:
   - Access to healthy food
-  - Workforce development
+  - Entrepreneurship & innovation
   - Health
   - Income & employment
 twitter: 'https://twitter.com/RisingWomenCA'
@@ -29,10 +29,26 @@ project_ids: '5102099'
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 uri: /organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/
 challenge_url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
+extrapolated_project_ids:
+  - '5102099'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Fallen Fruit from Rising Women: Empowering women through social enterprise
+    and food justice
 project_titles:
   - >-
     Fallen Fruit from Rising Women: Empowering women through social enterprise
     and food justice
+project_titles_from_project_ids:
+  - >-
+    Fallen Fruit from Rising Women: Empowering women through social enterprise
+    and food justice
+original_project_titles:
+  - >-
+    Fallen Fruit from Rising Women: Empowering women through social enterprise
+    and food justice
+original_project_ids:
+  - '5102099'
 youtube_video_identifier: Ht0-3dSjCew
 
 ---

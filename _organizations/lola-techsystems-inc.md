@@ -10,9 +10,10 @@ charity_navigator_url: ''
 ntee_type: ''
 tags_indicators:
   - Teaching & mentorship
+  - STEM & Digital literacy
   - Education & youth
 twitter: '@lolahelps'
-instagram: 0
+instagram: ''
 facebook: '@lolahelpsme'
 org_type: Forprofit
 project_image: >-
@@ -33,6 +34,17 @@ project_ids: '8102105'
 title: 'Lola Techsystems, Inc.'
 uri: /organizations/lola-techsystems-inc/
 challenge_url: 'https://activation.la2050.org/learn/lola-techsystems-inc/'
+extrapolated_project_ids: []
+project_titles_from_extrapolated_project_ids: []
+project_titles:
+  - Lola software makes learning possible.
+project_titles_from_project_ids:
+  - The Whole School Approach to a Safer & Happier Community
+original_project_titles:
+  - Lola software makes learning possible.
+original_project_ids:
+  - '8102070'
+project_titles_flagged: 1
 category: learn
 
 ---

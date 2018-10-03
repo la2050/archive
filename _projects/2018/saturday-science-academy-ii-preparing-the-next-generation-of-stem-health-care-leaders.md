@@ -7,7 +7,7 @@ title: >-
 project_summary: >-
   Saturday Science Academy II prepares underrepresented preschool through 12th
   grade students for careers in Science and health care through an engaging
-  curriculum and hands-on STEM activities. 
+  curriculum and hands-on STEM activities.
 Please describe the activation your organization seeks to launch.: >-
   CDU’s SSA II seeks to expand educational opportunities for underrepresented
   students enrolled in under-resourced schools in Los Angeles County. The
@@ -52,6 +52,7 @@ project_image: >-
 project_video: 'https://www.youtube.com/watch?v=9xHS8SSMejQ'
 project_id_3: '8102017'
 year_submitted: 2018
+organization_name: Charles R. Drew University of Medicine and Science
 project_proposal_description: >-
   CDU’s SSA II seeks to expand educational opportunities for underrepresented
   students enrolled in under-resourced schools in Los Angeles County. The

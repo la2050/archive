@@ -31,6 +31,7 @@ project_image: >-
 project_video: 'https://vimeo.com/205438757'
 project_id_3: '8102131'
 year_submitted: 2018
+organization_name: United Parents and Students
 project_proposal_description: >-
   UPAS envisions Los Angeles as a city where political power accurately reflects
   the population’s diversity. UPAS will continue to train and empower low-income

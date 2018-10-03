@@ -55,9 +55,23 @@ project_ids: '3102163'
 title: KCETLink
 uri: /organizations/kcetlink/
 challenge_url: 'http://maker.good.is/myla2050/projects/GroundGame.html'
+extrapolated_project_ids:
+  - '3102163'
+  - '3102164'
+project_titles_from_extrapolated_project_ids:
+  - Ballot Brief  Ground Game
+  - Ballot Brief  Ground Game
 project_titles:
   - Ballot Brief  Ground Game
   - Ballot Brief  Ground Game
+project_titles_from_project_ids:
+  - Ballot Brief  Ground Game
+original_project_titles:
+  - Artbound - Phase II
+  - Ballot Brief - Ground Game
+original_project_ids:
+  - '3102163'
+project_titles_flagged: 1
 maker_image_id: '17051'
 maker_image_file_name: fullsized_ballot-brief-logo-stacked.jpeg
 

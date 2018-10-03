@@ -36,10 +36,26 @@ project_ids: '3102092'
 title: smartestk12.com
 uri: /organizations/smartestk12-com/
 challenge_url: 'http://maker.good.is/myla2050/projects/smartestk12.html'
+extrapolated_project_ids:
+  - '3102092'
+project_titles_from_extrapolated_project_ids:
+  - >-
+    Lets eliminate the education gap: smartestk12 is built by teachers to
+    prepare LA for the CommonCore
 project_titles:
   - >-
     Lets eliminate the education gap: smartestk12 is built by teachers to
     prepare LA for the CommonCore
+project_titles_from_project_ids:
+  - >-
+    Lets eliminate the education gap: smartestk12 is built by teachers to
+    prepare LA for the CommonCore
+original_project_titles:
+  - >-
+    Let's eliminate the education gap: smartestk12 is built by teachers to
+    prepare LA for the CommonCore
+original_project_ids:
+  - '3102092'
 maker_image_id: '16780'
 maker_image_file_name: smartestk12.homepage.student.v1.000.svg.png
 
