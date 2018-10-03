@@ -8,6 +8,8 @@ main_class: standard-layout
 
 ## About this archive
 
+The My LA2050 Impact Archive is searchable database of great organizations and bright ideas from the My LA2050 Challenges.
+
 Over 1,000 organizations have submitted ideas to the [My LA2050 Challenge](#la2050). These organizations are non-profits, for-profits, individuals, and government agencies. They all are doing their part to ensure Los Angeles has a bright future. 
 
 This website is a collection of information about the organizations, about their projects, and in some cases videos that highlight their work.
