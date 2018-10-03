@@ -4,21 +4,23 @@ body_class: strawberry
 main_class: standard-layout
 ---
 
-<h1 style="position: absolute; left: -9999px;">About</h1>
+# About
 
-## About this archive
+<div class="introduction" markdown="1">
+<p style="max-width: 33em">The My LA2050 Impact Archive is searchable database of great organizations and bright ideas from the <a href="#la2050">My LA2050 Challenges</a>.</p>
+</div>
 
-The My LA2050 Impact Archive is searchable database of great organizations and bright ideas from the My LA2050 Challenges.
+## Over 1,000 organizations have submitted ideas
 
-Over 1,000 organizations have submitted ideas to the [My LA2050 Challenge](#la2050). These organizations are non-profits, for-profits, individuals, and government agencies. They all are doing their part to ensure Los Angeles has a bright future. 
+These organizations are non-profits, for-profits, individuals, and government agencies. They all are doing their part to ensure Los Angeles has a bright future. 
 
 This website is a collection of information about the organizations, about their projects, and in some cases videos that highlight their work.
 
-## How to use this archive
+It is our hope that you’ll use the Impact Archive to discover local organizations doing great work in Los Angeles, be inspired by their ideas, and find ways to get involved.
 
-It is our hope that you’ll use the Impact Archive to discover local organizations doing great work in Los Angeles, be inspired by their ideas, and find ways to get involved. Here’s how to use the database: 
+## How to use the archive
 
-*	Search by keyword or by issue area. You can search by keyword or by the categories we use at LA2050 to categorize organization impact (read more about our indicators here). Searching by keyword will give you a list of organizations that contain that word. So if you search “building” you will get search results of organizations that build buildings, but also organizations that are “building capacity.” Searching by issue area returns a list of organizations that LA2050 has determined to be working in that issue area. We’ve based these issue areas on our indicators <LINK>.
+* Search by keyword or by issue area. You can search by keyword or by the categories we use at LA2050 to categorize organization impact (read more about our indicators here). Searching by keyword will give you a list of organizations that contain that word. So if you search “building” you will get search results of organizations that build buildings, but also organizations that are “building capacity.” Searching by issue area returns a list of organizations that LA2050 has determined to be working in that issue area. We’ve based these issue areas on our indicators <LINK>.
 * View search results. In search results, organizations that were finalist or winners of LA2050 Challenges are listed first. 
 * Learn about organizations. Each organization has its own page where you can read a little bit about the organization. All information submitted on organization pages are pulled from applications submitted by the organization and may not be current. Be sure to check out the organization website for the most up to date information and for ways to get involved by donating or volunteering. For non-profits, we’ve included a link to charity navigator so you can view information about the organization’s leadership in financials. Keep in mind that small non-profits may not have full financial information available.
 * Learn more by viewing organization project ideas. At the bottom of each organization page, you’ll find projects and ideas submitted to past LA2050 Challenges. View these pages to get more information about the organization and how they think about creating impact in Los Angeles. 
