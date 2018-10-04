@@ -27,9 +27,15 @@ areas_impacted: >-
   Central LA,East LA,City of Los Angeles (citywide),LAUSD,Other (please specify
   below):
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
+  year_submitted:
+    - '2015'
 title: The LA River Public Art Project
 uri: /organizations/the-la-river-public-art-project/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
 extrapolated_project_ids:
   - '5102304'
 project_titles_from_extrapolated_project_ids:

@@ -45,9 +45,16 @@ org_summary: >-
    Alma Family Services has been recognized at the State, County and City Level for its commitment in delivering high quality services.
 areas_impacted: ''
 project_ids: '3102015'
+challenge_url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
+aggregated:
+  project_ids:
+    - '3102015'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
+  year_submitted:
+    - '2013'
 title: Alma Family Services
 uri: /organizations/alma-family-services/
-challenge_url: 'http://maker.good.is/myla2050/projects/FamilySchoolInteract.html'
 extrapolated_project_ids:
   - '3102015'
 project_titles_from_extrapolated_project_ids:

@@ -21,9 +21,15 @@ org_summary: >-
   business and design
 areas_impacted: ''
 project_ids: '4102064'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102064'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: General Assembly Opportunity Fund
 uri: /organizations/general-assembly-opportunity-fund/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102081'
 project_titles_from_extrapolated_project_ids:

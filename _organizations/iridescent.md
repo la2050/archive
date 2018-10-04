@@ -22,9 +22,19 @@ org_summary: >-
   technology.
 areas_impacted: South LA
 project_ids: '5102145'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'
+aggregated:
+  project_ids:
+    - '5102145'
+    - '5102145'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'
+    - 'http://maker.good.is/myla2050create2015/projects/Technovation.html'
+  year_submitted:
+    - '2015'
+    - '2015'
 title: Iridescent
 uri: /organizations/iridescent/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CuriosityMachine.html'
 extrapolated_project_ids:
   - '5102145'
   - '5102146'

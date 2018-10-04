@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102016'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
+aggregated:
+  project_ids:
+    - '4102016'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
+  year_submitted:
+    - '2014'
 title: Beyond Baroque Literary Arts Center
 uri: /organizations/beyond-baroque-literary-arts-center/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
 extrapolated_project_ids:
   - '4102023'
 project_titles_from_extrapolated_project_ids:

@@ -22,9 +22,15 @@ org_summary: >-
   education
 areas_impacted: ''
 project_ids: '4102144'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102144'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Light Bringer Project
 uri: /organizations/light-bringer-project/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102120'
 project_titles_from_extrapolated_project_ids:

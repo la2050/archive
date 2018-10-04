@@ -23,9 +23,18 @@ areas_impacted: >-
   Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD,Other (please specify below):
 project_ids: '5102069'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
+aggregated:
+  project_ids:
+    - '5102069'
+    - '4102195'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: Clothes The Deal
 uri: /organizations/clothes-the-deal/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/clothesthedeal2050.html'
 extrapolated_project_ids:
   - '5102069'
 project_titles_from_extrapolated_project_ids:

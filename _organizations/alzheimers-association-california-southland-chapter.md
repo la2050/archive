@@ -45,9 +45,16 @@ org_summary: >-
    <p>The challenge of delivering quality health care to people with dementia has also been addressed successfully by this chapter of the Association. These efforts have also led to national recognition. For example, a quality improvement project with Kaiser Permanente was awarded the American Society on Aging’s 2001 Award for Quality and Innovation in Managed Care and Aging. Our consumer activation project, Partnering with Your Doctor, was honored with the Archstone Foundation-American Public Health Association’s 2003 Award for Excellence in Program Innovation and adopted for national replication by the Alzheimer’s Association. It was also adopted in parts of Great Britain. The local chapter of the Alzheimer’s Association has led three statewide efforts to create and disseminate an evidence-based practice guideline that teaches primary care providers about quality post-diagnostic care for people with Alzheimer’s disease. This California Guideline for Alzheimer’s Disease Management became the stimulant for numerous quality improvement projects in health care organizations throughout California including Kaiser Permanente, Scripps Health Care, UC San Diego Health Care and SCAN Health Plan. This chapter also played a leadership role in the development of the State of California’s Alzheimer’s Disease Plan which was released in 2011.</p>
 areas_impacted: ''
 project_ids: '3102016'
+challenge_url: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
+aggregated:
+  project_ids:
+    - '3102016'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
+  year_submitted:
+    - '2013'
 title: 'Alzheimer''s Association, California Southland Chapter'
 uri: /organizations/alzheimers-association-california-southland-chapter/
-challenge_url: 'http://maker.good.is/myla2050/projects/EarlyDetection.html'
 extrapolated_project_ids:
   - '3102016'
 project_titles_from_extrapolated_project_ids:

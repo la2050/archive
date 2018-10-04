@@ -32,9 +32,18 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102128'
+challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
+aggregated:
+  project_ids:
+    - '8102128'
+    - '4102265'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
+  year_submitted:
+    - '2018'
+    - '2014'
 title: Two Bit Circus Foundation
 uri: /organizations/two-bit-circus-foundation/
-challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -89,9 +89,16 @@ org_summary: |-
    - HOLA has consistently facilitated community engagement and helped to beautify and activate the Rampart neighborhood. In 2003, families were too scared to enter into the local park, but since HOLA partnered with LA City Recreation and Parks to bring unprecedented financial and programmatic resources, thousands of families now utilize Lafayette Park on a regular basis.
 areas_impacted: ''
 project_ids: '3102147'
+challenge_url: 'http://maker.good.is/myla2050/projects/heartofla.html'
+aggregated:
+  project_ids:
+    - '3102147'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/heartofla.html'
+  year_submitted:
+    - '2013'
 title: Heart of Los Angeles (HOLA)
 uri: /organizations/heart-of-los-angeles-hola/
-challenge_url: 'http://maker.good.is/myla2050/projects/heartofla.html'
 extrapolated_project_ids:
   - '3102147'
 project_titles_from_extrapolated_project_ids:

@@ -26,12 +26,19 @@ org_summary: >-
   help children and families in our community thrive.
 areas_impacted: 'Westside,Other (please specify below):'
 project_ids: '5102261'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
+aggregated:
+  project_ids:
+    - '5102261'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
+  year_submitted:
+    - '2015'
 title: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD
 uri: >-
   /organizations/santa-monica-cradle-to-career-led-by-city-of-santa-monica-in-partnership-with-smmusd/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
 extrapolated_project_ids:
   - '5102261'
 project_titles_from_extrapolated_project_ids:

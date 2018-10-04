@@ -33,10 +33,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102089'
-title: Healthy Living Productions
-uri: /organizations/healthy-living-productions/
 challenge_url: >-
   https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
+aggregated:
+  project_ids:
+    - '6102089'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
+  year_submitted:
+    - '2016'
+title: Healthy Living Productions
+uri: /organizations/healthy-living-productions/
 extrapolated_project_ids:
   - '6102089'
 project_titles_from_extrapolated_project_ids:

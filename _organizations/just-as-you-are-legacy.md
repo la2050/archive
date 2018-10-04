@@ -33,9 +33,16 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '6102112'
+challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
+aggregated:
+  project_ids:
+    - '6102112'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
+  year_submitted:
+    - '2016'
 title: Just As You Are Legacy
 uri: /organizations/just-as-you-are-legacy/
-challenge_url: 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
 extrapolated_project_ids:
   - '6102112'
 project_titles_from_extrapolated_project_ids:

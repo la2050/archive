@@ -23,9 +23,19 @@ org_summary: >-
   neighborhood school college and career ready.
 areas_impacted: South LA
 project_ids: '5102174'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
+aggregated:
+  project_ids:
+    - '5102174'
+    - '3102175'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
+    - 'http://maker.good.is/myla2050/projects/LASPROMISE.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: LA's Promise
 uri: /organizations/las-promise/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/LAsPromise.html'
 extrapolated_project_ids:
   - '5102174'
   - '3102175'

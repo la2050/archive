@@ -37,9 +37,19 @@ areas_impacted:
   - LAUSD
   - We are open to working anywhere in greater L.A.
 project_ids: '6102018'
+challenge_url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
+aggregated:
+  project_ids:
+    - '6102018'
+    - '3102033'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/connecting-community-through-color'
+    - 'http://maker.good.is/myla2050/projects/BigSunday.html'
+  year_submitted:
+    - '2016'
+    - '2013'
 title: Big Sunday
 uri: /organizations/big-sunday/
-challenge_url: 'https://challenge.la2050.org/entry/connecting-community-through-color'
 extrapolated_project_ids:
   - '6102018'
   - '3102033'

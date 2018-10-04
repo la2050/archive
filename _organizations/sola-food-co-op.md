@@ -24,10 +24,20 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102231'
-title: SoLA Food Co-op
-uri: /organizations/sola-food-co-op/
 challenge_url: >-
   https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
+aggregated:
+  project_ids:
+    - '6102231'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/sola-food-co-op-healthy-food-healthy-living-and-community-economic-empowerment
+    - 'http://maker.good.is/myla2050live2015/projects/goSoLA.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: SoLA Food Co-op
+uri: /organizations/sola-food-co-op/
 extrapolated_project_ids:
   - '6102231'
   - '5102273'

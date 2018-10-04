@@ -26,9 +26,16 @@ org_summary: >-
   communities.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102243'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
+aggregated:
+  project_ids:
+    - '5102243'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
+  year_submitted:
+    - '2015'
 title: Project Backboard
 uri: /organizations/project-backboard/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
 extrapolated_project_ids:
   - '5102243'
 project_titles_from_extrapolated_project_ids:

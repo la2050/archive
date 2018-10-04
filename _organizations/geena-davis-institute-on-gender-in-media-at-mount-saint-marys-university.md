@@ -22,11 +22,23 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102079'
+challenge_url: >-
+  https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
+aggregated:
+  project_ids:
+    - '6102079'
+    - '6102078'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
+    - >-
+      https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
+  year_submitted:
+    - '2016'
+    - '2016'
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 uri: >-
   /organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/
-challenge_url: >-
-  https://challenge.la2050.org/entry/if-she-can-see-it-she-can-be-it-empowering-girls-creating-a-gender-balanced-media-landscape
 extrapolated_project_ids:
   - '6102078'
   - '6102079'

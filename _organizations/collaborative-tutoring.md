@@ -43,9 +43,16 @@ org_summary: >-
    <p>It is our goal to continue to develop and implement a structured Mentoring and Internship program for our students.</p>
 areas_impacted: ''
 project_ids: '3102020'
+challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
+aggregated:
+  project_ids:
+    - '3102020'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
+  year_submitted:
+    - '2013'
 title: Collaborative Tutoring
 uri: /organizations/collaborative-tutoring/
-challenge_url: 'http://maker.good.is/myla2050/projects/CollaborativeTutor.html'
 extrapolated_project_ids:
   - '3102020'
 project_titles_from_extrapolated_project_ids:

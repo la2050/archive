@@ -36,9 +36,16 @@ org_summary: >-
    Our Foster Youth Academies, now operating in Los Angeles, CA, Rhode Island and the greater Washington, DC area, are inspiring, challenging and equipping foster youth in grades 8 through 10 for success in college and beyond. Students who remain in good standing are invited to continue in the Academy program — summer residential sessions, monthly workshop days, and our protected students’ social media site — each year through high school graduation. With the enthusiastic support of local public-private partnerships, including child welfare agencies and public schools, we have launched these three Academies in two years. To launch and operate Academies around the ï¿¼country, additional public-private partnerships are at work at six additional campuses across the nation.
 areas_impacted: ''
 project_ids: '3102128'
+challenge_url: 'http://maker.good.is/myla2050/projects/FirstStar.html'
+aggregated:
+  project_ids:
+    - '3102128'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FirstStar.html'
+  year_submitted:
+    - '2013'
 title: 'First Star, Inc.'
 uri: /organizations/first-star-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/FirstStar.html'
 extrapolated_project_ids:
   - '3102128'
 project_titles_from_extrapolated_project_ids:

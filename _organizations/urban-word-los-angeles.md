@@ -24,9 +24,16 @@ org_summary: >-
   their powerful voices.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
 project_ids: '5102336'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
+aggregated:
+  project_ids:
+    - '5102336'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
+  year_submitted:
+    - '2015'
 title: Urban Word Los Angeles
 uri: /organizations/urban-word-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
 extrapolated_project_ids:
   - '5102336'
 project_titles_from_extrapolated_project_ids:

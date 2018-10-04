@@ -22,9 +22,15 @@ org_summary: >-
   California and beyond.
 areas_impacted: 'South LA,Other (please specify below):'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
+  year_submitted:
+    - '2015'
 title: Wise Guys Events
 uri: /organizations/wise-guys-events/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
 extrapolated_project_ids:
   - '5102342'
 project_titles_from_extrapolated_project_ids:

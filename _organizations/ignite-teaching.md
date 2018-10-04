@@ -22,9 +22,14 @@ org_summary: >-
   today that will develop into the leaders of a better tomorrow.
 areas_impacted: ''
 project_ids: ''
+challenge_url: ''
+aggregated:
+  project_ids: []
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Ignite Teaching
 uri: /organizations/ignite-teaching/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102096'
 project_titles_from_extrapolated_project_ids:

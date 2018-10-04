@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102026'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/deafwest.html'
+aggregated:
+  project_ids:
+    - '4102026'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
+  year_submitted:
+    - '2014'
 title: 'Deaf West Theatre, Inc.'
 uri: /organizations/deaf-west-theatre-inc/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/deafwest.html'
 extrapolated_project_ids:
   - '4102053'
 project_titles_from_extrapolated_project_ids:

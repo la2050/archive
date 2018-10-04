@@ -23,9 +23,16 @@ org_summary: >-
   members, homeless, ex-convicts and low income minorities.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102341'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
+aggregated:
+  project_ids:
+    - '5102341'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
+  year_submitted:
+    - '2015'
 title: 'Wheels of Hope LA, Fred Jordan Mission'
 uri: /organizations/wheels-of-hope-la-fred-jordan-mission/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
 extrapolated_project_ids:
   - '5102341'
 project_titles_from_extrapolated_project_ids:

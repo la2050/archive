@@ -1,33 +1,73 @@
 ---
-organization_id: '2014210'
-year_submitted: 2014
+organization_id: '2018123'
+year_submitted: 2018
 organization_name: The Trust for Public Land
-organization_website: ''
+organization_website:
+  - www.tpl.org
 ein: '237222333'
-zip: '91105'
+zip: '90029'
 charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=237222333'
 ntee_type: ''
-twitter: ''
-instagram: ''
-facebook: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+twitter: '@tpl_org'
+instagram: trustforpublicland
+facebook: 'https://www.facebook.com/TheTrustforPublicLand/'
 org_type: Nonprofit
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F22632%252Fdisplay%252FPages_from_T-Alley_Outreach_Flip_Book-2.jpg=c570x385
+  https://activation.la2050.org/assets/images/play/2048-wide/the-trust-for-public-land.jpg
 project_video: ''
 org_summary: >-
   The Trust for Public Land creates parks and protects land for people, ensuring
-  healthy, livable communities for generations to come.
-areas_impacted: ''
-project_ids: '4102176'
+  healthy, livable communities. Our overarching goal is for every American to
+  live within a 10-minute walk of a park.
+areas_impacted:
+  - Central LA
+  - East LA
+  - San Gabriel Valley
+  - San Fernando Valley
+  - South LA
+  - Westside
+  - South Bay
+  - Antelope Valley
+  - >-
+    County of Los Angeles (please select only if your project has a countywide
+    benefit)
+  - >-
+    City of Los Angeles (please select only if your project has a citywide
+    benefit)
+  - LAUSD
+project_ids: '8102123'
+challenge_url: 'https://activation.la2050.org/play/the-trust-for-public-land/'
+aggregated:
+  project_ids:
+    - '8102123'
+    - '6102259'
+  challenge_url:
+    - 'https://activation.la2050.org/play/the-trust-for-public-land/'
+    - >-
+      https://challenge.la2050.org/entry/green-alleys-initiative-–-transforming-polluted-alleys-into-vibrant-water-smart-green-space
+  year_submitted:
+    - '2018'
+    - '2016'
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
-challenge_url: ''
-extrapolated_project_ids: []
-project_titles_from_extrapolated_project_ids: []
+extrapolated_project_ids:
+  - '8102123'
+  - '6102259'
+project_titles_from_extrapolated_project_ids:
+  - Play LA! Open Spaces for LA2050!
+  - >-
+    Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
+    Water-Smart Green Space
 project_titles:
-  - RUN FOR YOUR LIFE
+  - >-
+    Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
+    Water-Smart Green Space
+  - Play LA! Open Spaces for LA2050!
 project_titles_from_project_ids:
-  - Mobile Cooking Classes To The Communities That Need Them Most
+  - Play LA! Open Spaces for LA2050!
 original_project_titles:
   - >-
     Green Alleys Initiative – Transforming Polluted Alleys into Vibrant,
@@ -39,7 +79,6 @@ original_project_ids:
   - '6102259'
   - '8102123'
 project_titles_flagged: 1
-maker_image_id: '22632'
-maker_image_file_name: Pages_from_T-Alley_Outreach_Flip_Book-2.jpg
+category: play
 
 ---

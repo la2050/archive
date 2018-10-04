@@ -29,9 +29,20 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102055'
+challenge_url: 'https://activation.la2050.org/connect/investing-in-place/'
+aggregated:
+  project_ids:
+    - '8102055'
+    - '6102107'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/investing-in-place/'
+    - >-
+      https://challenge.la2050.org/entry/you-cant-get-ahead-if-you-cant-get-around-stories-research-on-howweroll
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Investing in Place
 uri: /organizations/investing-in-place/
-challenge_url: 'https://activation.la2050.org/connect/investing-in-place/'
 extrapolated_project_ids:
   - '6102107'
 project_titles_from_extrapolated_project_ids:

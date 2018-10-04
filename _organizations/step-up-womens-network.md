@@ -70,9 +70,16 @@ org_summary: >-
    Ja’Nai, Gettysburg College Class of 2016 “By participating in Step Up they taught me all about the business world and what I needed to do to be successful in it. In addition, it taught me exactly what my working style is and helped guide me in my search of what career I may want to pursue in the future by providing me with several exceptional mentors who are successful businesswoman. Through this program I was also able to obtain an internship at The JAR Group. I want to be a writer when I get older so my internship really helps me exercise my skills, since I spend most of my time finding content and sampling copies to go along with it. The Step Up program has given me the opportunity to have a voice.”
 areas_impacted: ''
 project_ids: '3102238'
+challenge_url: 'http://maker.good.is/myla2050/projects/StepUp.html'
+aggregated:
+  project_ids:
+    - '3102238'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/StepUp.html'
+  year_submitted:
+    - '2013'
 title: Step Up Women's Network
 uri: /organizations/step-up-womens-network/
-challenge_url: 'http://maker.good.is/myla2050/projects/StepUp.html'
 extrapolated_project_ids:
   - '3102238'
 project_titles_from_extrapolated_project_ids:

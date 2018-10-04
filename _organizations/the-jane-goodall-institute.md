@@ -26,10 +26,18 @@ areas_impacted:
   - San Fernando Valley
   - LAUSD
 project_ids: '6102245'
-title: the Jane Goodall Institute
-uri: /organizations/the-jane-goodall-institute/
 challenge_url: >-
   https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
+aggregated:
+  project_ids:
+    - '6102245'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/setting-the-stage-developing-young-angelenos-as-community-volunteers-for-a-lifetime
+  year_submitted:
+    - '2016'
+title: the Jane Goodall Institute
+uri: /organizations/the-jane-goodall-institute/
 extrapolated_project_ids:
   - '6102245'
 project_titles_from_extrapolated_project_ids:

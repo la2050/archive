@@ -24,9 +24,16 @@ org_summary: >-
   exhibits, educational programs and public outreach.
 areas_impacted: 'City of Los Angeles (citywide),LAUSD'
 project_ids: '5102019'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
+aggregated:
+  project_ids:
+    - '5102019'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
+  year_submitted:
+    - '2015'
 title: Architecture and Design Museum (A+D)
 uri: /organizations/architecture-and-design-museum-a-d/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
 extrapolated_project_ids:
   - '5102019'
 project_titles_from_extrapolated_project_ids:

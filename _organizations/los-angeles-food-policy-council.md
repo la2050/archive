@@ -28,10 +28,24 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102140'
-title: Los Angeles Food Policy Council
-uri: /organizations/los-angeles-food-policy-council/
 challenge_url: >-
   https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
+aggregated:
+  project_ids:
+    - '6102140'
+    - '4102232'
+    - '3102185'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/food-democracy-in-la-creating-policy-ideas-for-a-healthy-fair-food-system
+    - 'http://maker.good.is/myLA2050connect/projects/goodfoodla.html'
+    - 'http://maker.good.is/myla2050/projects/goodfoodla.html'
+  year_submitted:
+    - '2016'
+    - '2014'
+    - '2013'
+title: Los Angeles Food Policy Council
+uri: /organizations/los-angeles-food-policy-council/
 extrapolated_project_ids:
   - '6102140'
   - '4102131'

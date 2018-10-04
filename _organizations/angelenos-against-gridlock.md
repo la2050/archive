@@ -97,9 +97,16 @@ org_summary: >-
    (Our efforts under the names Angelenos Against Gridlock, and our predecessor efforts under the name Building LA's Future are covered herein.)
 areas_impacted: ''
 project_ids: '3102021'
+challenge_url: 'http://maker.good.is/myla2050/projects/fundthisproject.html'
+aggregated:
+  project_ids:
+    - '3102021'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/fundthisproject.html'
+  year_submitted:
+    - '2013'
 title: Angelenos Against Gridlock
 uri: /organizations/angelenos-against-gridlock/
-challenge_url: 'http://maker.good.is/myla2050/projects/fundthisproject.html'
 extrapolated_project_ids:
   - '3102021'
 project_titles_from_extrapolated_project_ids:

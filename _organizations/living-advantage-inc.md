@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,Westside,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD,Other (please specify below):
 project_ids: '5102178'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
+aggregated:
+  project_ids:
+    - '5102178'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
+  year_submitted:
+    - '2015'
 title: 'Living Advantage, Inc.'
 uri: /organizations/living-advantage-inc/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
 extrapolated_project_ids:
   - '5102178'
 project_titles_from_extrapolated_project_ids:

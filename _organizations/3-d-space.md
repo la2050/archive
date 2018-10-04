@@ -26,10 +26,21 @@ areas_impacted:
   - Central LA
   - San Fernando Valley
 project_ids: '6102001'
-title: 3-D SPACE
-uri: /organizations/3-d-space/
 challenge_url: >-
   https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
+aggregated:
+  project_ids:
+    - '6102001'
+    - '5102004'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/3-d-space-teaches-3-d-image-creation-from-analog-photography-to-digital-virtual-reality
+    - 'http://maker.good.is/myla2050create2015/projects/la3dspace.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: 3-D SPACE
+uri: /organizations/3-d-space/
 extrapolated_project_ids:
   - '6102001'
   - '5102004'

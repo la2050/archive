@@ -36,9 +36,26 @@ areas_impacted:
   - City of Los Angeles
   - Los Angeles's reputation outside LA.
 project_ids: '6102144'
+challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
+aggregated:
+  project_ids:
+    - '6102144'
+    - '5102194'
+    - '4102233'
+    - '3102189'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop
+    - 'http://maker.good.is/myla2050create2015/projects/LARB.html'
+    - 'http://maker.good.is/myLA2050create/projects/LARB.html'
+    - 'http://maker.good.is/myla2050/projects/LARB2050.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
 title: Los Angeles Review of Books
 uri: /organizations/los-angeles-review-of-books/
-challenge_url: 'https://challenge.la2050.org/entry/larb-usc-publishing-institute-and-workshop'
 extrapolated_project_ids:
   - '6102144'
   - '5102194'

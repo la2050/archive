@@ -23,9 +23,17 @@ areas_impacted:
   - Westside
   - South Bay
 project_ids: '6102189'
+challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
+aggregated:
+  project_ids:
+    - '6102189'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens
+  year_submitted:
+    - '2016'
 title: Pretty Good Cat
 uri: /organizations/pretty-good-cat/
-challenge_url: 'https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens'
 extrapolated_project_ids:
   - '6102189'
 project_titles_from_extrapolated_project_ids:

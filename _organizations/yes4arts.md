@@ -26,9 +26,16 @@ areas_impacted: >-
   Westside,South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD,Other (please specify below):
 project_ids: '5102343'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
+aggregated:
+  project_ids:
+    - '5102343'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
+  year_submitted:
+    - '2015'
 title: Yes4arts
 uri: /organizations/yes4arts/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
 extrapolated_project_ids:
   - '5102343'
 project_titles_from_extrapolated_project_ids:

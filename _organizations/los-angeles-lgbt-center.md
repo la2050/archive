@@ -34,9 +34,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102075'
+challenge_url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
+aggregated:
+  project_ids:
+    - '8102075'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
+  year_submitted:
+    - '2018'
 title: Los Angeles LGBT Center
 uri: /organizations/los-angeles-lgbt-center/
-challenge_url: 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

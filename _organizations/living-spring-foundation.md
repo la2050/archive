@@ -29,10 +29,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102134'
-title: Living Spring Foundation
-uri: /organizations/living-spring-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
+aggregated:
+  project_ids:
+    - '6102134'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
+  year_submitted:
+    - '2016'
+title: Living Spring Foundation
+uri: /organizations/living-spring-foundation/
 extrapolated_project_ids:
   - '6102134'
 project_titles_from_extrapolated_project_ids:

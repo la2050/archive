@@ -33,9 +33,16 @@ org_summary: >-
    Two years later, smartestk12 finally became more than a pet project with funding by the Wolfen Foundation. We are now getting ready to procure content for all subjects and will become a tool that is perfectly suited to complement any classroom digital device.
 areas_impacted: ''
 project_ids: '3102092'
+challenge_url: 'http://maker.good.is/myla2050/projects/smartestk12.html'
+aggregated:
+  project_ids:
+    - '3102092'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/smartestk12.html'
+  year_submitted:
+    - '2013'
 title: smartestk12.com
 uri: /organizations/smartestk12-com/
-challenge_url: 'http://maker.good.is/myla2050/projects/smartestk12.html'
 extrapolated_project_ids:
   - '3102092'
 project_titles_from_extrapolated_project_ids:

@@ -26,9 +26,16 @@ org_summary: >-
   in Service Learning Projects.
 areas_impacted: ''
 project_ids: '3102039'
+challenge_url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
+aggregated:
+  project_ids:
+    - '3102039'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
+  year_submitted:
+    - '2013'
 title: ESP Empowering Services Through Partnerships
 uri: /organizations/esp-empowering-services-through-partnerships/
-challenge_url: 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
 extrapolated_project_ids:
   - '3102039'
 project_titles_from_extrapolated_project_ids:

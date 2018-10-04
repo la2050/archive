@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '5102339'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/tianguis.html'
+aggregated:
+  project_ids:
+    - '5102339'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/tianguis.html'
+  year_submitted:
+    - '2014'
 title: Elusive Minds Productions
 uri: /organizations/elusive-minds-productions/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/tianguis.html'
 extrapolated_project_ids:
   - '4102064'
 project_titles_from_extrapolated_project_ids:

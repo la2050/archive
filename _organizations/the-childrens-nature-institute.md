@@ -40,9 +40,16 @@ org_summary: >-
    Joining MCI gave CNI the latitude and capability to embark on the leadership role for ExN:LA, a collaboration modeled on MCI and focused on bringing continuous, high-quality environmental education to schools throughout Los Angeles. Now in its second year, ExN:LA has grown to include the entire 2nd and 3rd grades at 2 schools, 6 partner organizations and the MCI network of collaborators and community. ExN:LA is part of national Education by Nature umbrella with iterations throughout California, Hawaii and Massachusetts, each of which is designed to meet the specific needs of its community, and to share best practices and ideas with each other
 areas_impacted: ''
 project_ids: '3102245'
+challenge_url: 'http://maker.good.is/myla2050/projects/ExNLA.html'
+aggregated:
+  project_ids:
+    - '3102245'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ExNLA.html'
+  year_submitted:
+    - '2013'
 title: The Children's Nature Institute
 uri: /organizations/the-childrens-nature-institute/
-challenge_url: 'http://maker.good.is/myla2050/projects/ExNLA.html'
 extrapolated_project_ids:
   - '3102245'
 project_titles_from_extrapolated_project_ids:

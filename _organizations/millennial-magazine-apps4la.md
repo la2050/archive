@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102118'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
+aggregated:
+  project_ids:
+    - '4102118'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
+  year_submitted:
+    - '2014'
 title: 'Millennial Magazine: Apps4LA'
 uri: /organizations/millennial-magazine-apps4la/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
 extrapolated_project_ids:
   - '4102147'
 project_titles_from_extrapolated_project_ids:

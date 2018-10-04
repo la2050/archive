@@ -24,9 +24,16 @@ org_summary: >-
   education.
 areas_impacted: 'County of Los Angeles (countywide),LAUSD'
 project_ids: '5102205'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
+aggregated:
+  project_ids:
+    - '5102205'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
+  year_submitted:
+    - '2015'
 title: Melrose World Cinema Centers
 uri: /organizations/melrose-world-cinema-centers/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
 extrapolated_project_ids:
   - '5102205'
 project_titles_from_extrapolated_project_ids:

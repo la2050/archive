@@ -21,9 +21,15 @@ org_summary: >-
   offering academic, leadership, and youth development programs.
 areas_impacted: ''
 project_ids: '4102116'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102116'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Boys & Girls Club of Hollywood
 uri: /organizations/boys-girls-club-of-hollywood/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102026'
 project_titles_from_extrapolated_project_ids:

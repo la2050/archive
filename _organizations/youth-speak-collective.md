@@ -22,9 +22,19 @@ org_summary: >-
   great videos for nonprofits and businesses.
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside'
 project_ids: '4102110'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
+aggregated:
+  project_ids:
+    - '4102110'
+    - '3102279'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
+    - 'http://maker.good.is/myla2050/projects/youthspeak.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Youth Speak Collective
 uri: /organizations/youth-speak-collective/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/YOUTHSPEAKUP.html'
 extrapolated_project_ids:
   - '4102266'
   - '3102279'

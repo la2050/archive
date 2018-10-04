@@ -58,9 +58,16 @@ org_summary: |-
    Clothing & Household Item Recycling Exchange Site
 areas_impacted: ''
 project_ids: '3102131'
+challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
+aggregated:
+  project_ids:
+    - '3102131'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/virtualmentor.html'
+  year_submitted:
+    - '2013'
 title: Foster Care Counts
 uri: /organizations/foster-care-counts/
-challenge_url: 'http://maker.good.is/myla2050/projects/virtualmentor.html'
 extrapolated_project_ids:
   - '3102131'
 project_titles_from_extrapolated_project_ids:

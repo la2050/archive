@@ -24,9 +24,15 @@ org_summary: >-
   populations better health outcomes.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
+  year_submitted:
+    - '2015'
 title: Polar Tech Ed and Consulting LLC/Patrick Leon
 uri: /organizations/polar-tech-ed-and-consulting-llc-patrick-leon/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
 extrapolated_project_ids:
   - '5102240'
 project_titles_from_extrapolated_project_ids:

@@ -25,10 +25,23 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102087'
-title: Groceryships and Netiya
-uri: /organizations/groceryships-and-netiya/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
+aggregated:
+  project_ids:
+    - '6102087'
+    - '5102123'
+    - '4102229'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-trellis-project-growing-health-through-gardening-nutritional-support-and-food-access
+    - 'http://maker.good.is/myla2050live2015/projects/Groceryships.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: Groceryships and Netiya
+uri: /organizations/groceryships-and-netiya/
 extrapolated_project_ids:
   - '6102087'
 project_titles_from_extrapolated_project_ids:

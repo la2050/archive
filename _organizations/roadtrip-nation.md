@@ -39,9 +39,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102104'
+challenge_url: 'https://activation.la2050.org/create/roadtrip-nation/'
+aggregated:
+  project_ids:
+    - '8102104'
+  challenge_url:
+    - 'https://activation.la2050.org/create/roadtrip-nation/'
+  year_submitted:
+    - '2018'
 title: Roadtrip Nation
 uri: /organizations/roadtrip-nation/
-challenge_url: 'https://activation.la2050.org/create/roadtrip-nation/'
 extrapolated_project_ids:
   - '8102104'
 project_titles_from_extrapolated_project_ids:

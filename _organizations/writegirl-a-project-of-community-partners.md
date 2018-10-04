@@ -18,9 +18,18 @@ org_summary: >-
   underserved teen girls with professional women writers.
 areas_impacted: ''
 project_ids: '4102188'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102188'
+    - '3102275'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/powerofthepen.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: 'WriteGirl, a project of Community Partners'
 uri: /organizations/writegirl-a-project-of-community-partners/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102263'
 project_titles_from_extrapolated_project_ids:

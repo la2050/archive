@@ -30,10 +30,18 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102124'
-title: The Youth Movement Against Alzheimer’s
-uri: /organizations/the-youth-movement-against-alzheimers/
 challenge_url: >-
   https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+aggregated:
+  project_ids:
+    - '8102124'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
+  year_submitted:
+    - '2018'
+title: The Youth Movement Against Alzheimer’s
+uri: /organizations/the-youth-movement-against-alzheimers/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

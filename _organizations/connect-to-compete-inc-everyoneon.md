@@ -26,9 +26,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102030'
+challenge_url: 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
+aggregated:
+  project_ids:
+    - '8102030'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
+  year_submitted:
+    - '2018'
 title: 'Connect to Compete, Inc (EveryoneOn)'
 uri: /organizations/connect-to-compete-inc-everyoneon/
-challenge_url: 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

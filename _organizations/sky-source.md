@@ -24,10 +24,18 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102229'
-title: Sky Source
-uri: /organizations/sky-source/
 challenge_url: >-
   https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
+aggregated:
+  project_ids:
+    - '6102229'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
+  year_submitted:
+    - '2016'
+title: Sky Source
+uri: /organizations/sky-source/
 extrapolated_project_ids:
   - '6102229'
 project_titles_from_extrapolated_project_ids:

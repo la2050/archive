@@ -19,9 +19,15 @@ org_summary: >-
   that can be easily installed in any school.
 areas_impacted: ''
 project_ids: '4102170'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102170'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: The Kitchen Community
 uri: /organizations/the-kitchen-community/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

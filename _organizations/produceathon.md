@@ -40,9 +40,20 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102097'
+challenge_url: 'https://activation.la2050.org/create/produceathon/'
+aggregated:
+  project_ids:
+    - '8102097'
+    - '6102190'
+  challenge_url:
+    - 'https://activation.la2050.org/create/produceathon/'
+    - >-
+      https://challenge.la2050.org/entry/storyteching-delivering-civic-innovation-via-storytelling-technology-based-incentive-challenges
+  year_submitted:
+    - '2018'
+    - '2016'
 title: ProduceAthon
 uri: /organizations/produceathon/
-challenge_url: 'https://activation.la2050.org/create/produceathon/'
 extrapolated_project_ids:
   - '8102097'
   - '6102190'

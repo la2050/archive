@@ -36,9 +36,16 @@ org_summary: >-
   nearly 85 percent are currently enrolled in college.
 areas_impacted: ''
 project_ids: '3102166'
+challenge_url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
+aggregated:
+  project_ids:
+    - '3102166'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
+  year_submitted:
+    - '2013'
 title: KIPP LA Schools
 uri: /organizations/kipp-la-schools/
-challenge_url: 'http://maker.good.is/myla2050/projects/kippthroughcollege.html'
 extrapolated_project_ids:
   - '3102166'
 project_titles_from_extrapolated_project_ids:

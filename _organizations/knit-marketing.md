@@ -28,10 +28,18 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: '6102186'
-title: Knit Marketing
-uri: /organizations/knit-marketing/
 challenge_url: >-
   https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
+aggregated:
+  project_ids:
+    - '6102186'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
+  year_submitted:
+    - '2016'
+title: Knit Marketing
+uri: /organizations/knit-marketing/
 extrapolated_project_ids:
   - '6102186'
 project_titles_from_extrapolated_project_ids:

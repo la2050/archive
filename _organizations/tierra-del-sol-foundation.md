@@ -29,10 +29,21 @@ areas_impacted:
   - San Fernando Valley
   - LAUSD
 project_ids: '6102264'
-title: Tierra del Sol Foundation
-uri: /organizations/tierra-del-sol-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
+aggregated:
+  project_ids:
+    - '6102264'
+    - '5102320'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/pathways-to-employment-through-professional-volunteerism
+    - 'http://maker.good.is/myla2050create2015/projects/tierradelsol.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Tierra del Sol Foundation
+uri: /organizations/tierra-del-sol-foundation/
 extrapolated_project_ids:
   - '6102264'
   - '5102320'

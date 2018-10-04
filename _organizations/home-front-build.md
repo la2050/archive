@@ -22,9 +22,14 @@ org_summary: >-
   construction.
 areas_impacted: ''
 project_ids: ''
+challenge_url: ''
+aggregated:
+  project_ids: []
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Home Front Build
 uri: /organizations/home-front-build/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

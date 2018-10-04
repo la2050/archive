@@ -27,10 +27,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102209'
-title: Nation of Vibration
-uri: /organizations/nation-of-vibration/
 challenge_url: >-
   https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
+aggregated:
+  project_ids:
+    - '6102209'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
+  year_submitted:
+    - '2016'
+title: Nation of Vibration
+uri: /organizations/nation-of-vibration/
 extrapolated_project_ids:
   - '6102209'
 project_titles_from_extrapolated_project_ids:

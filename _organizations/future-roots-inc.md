@@ -21,10 +21,18 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102077'
-title: Future Roots Inc.
-uri: /organizations/future-roots-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
+aggregated:
+  project_ids:
+    - '6102077'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
+  year_submitted:
+    - '2016'
+title: Future Roots Inc.
+uri: /organizations/future-roots-inc/
 extrapolated_project_ids:
   - '6102077'
 project_titles_from_extrapolated_project_ids:

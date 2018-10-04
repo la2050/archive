@@ -24,10 +24,18 @@ areas_impacted:
   - San Gabriel Valley
   - N/A
 project_ids: '6102185'
-title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
-uri: /organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
 challenge_url: >-
   https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
+aggregated:
+  project_ids:
+    - '6102185'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
+  year_submitted:
+    - '2016'
+title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
+uri: /organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
 extrapolated_project_ids:
   - '6102185'
 project_titles_from_extrapolated_project_ids:

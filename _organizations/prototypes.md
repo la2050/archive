@@ -26,9 +26,21 @@ org_summary: >-
   abuse and poverty.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102246'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
+aggregated:
+  project_ids:
+    - '5102246'
+    - '4102208'
+    - '3102222'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
+    - 'http://maker.good.is/myla2050/projects/inspirehealth.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
 title: Prototypes
 uri: /organizations/prototypes/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/SecondChance.html'
 extrapolated_project_ids:
   - '5102246'
   - '3102222'

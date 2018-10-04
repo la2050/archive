@@ -23,9 +23,19 @@ org_summary: >-
   support services for people who have experienced homelessness.
 areas_impacted: Central LA
 project_ids: '4102082'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
+aggregated:
+  project_ids:
+    - '4102082'
+    - '3102232'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
+    - 'http://maker.good.is/myla2050/projects/SkidRow2050.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Skid Row Housing Trust
 uri: /organizations/skid-row-housing-trust/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ourskidrow.html'
 extrapolated_project_ids:
   - '4102192'
   - '3102232'

@@ -23,9 +23,16 @@ org_summary: >-
   expose local queer artists to the community.
 areas_impacted: 'Central LA,Other:'
 project_ids: '4102076'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
+aggregated:
+  project_ids:
+    - '4102076'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
+  year_submitted:
+    - '2014'
 title: QueerFest
 uri: /organizations/queerfest/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
 extrapolated_project_ids:
   - '4102179'
 project_titles_from_extrapolated_project_ids:

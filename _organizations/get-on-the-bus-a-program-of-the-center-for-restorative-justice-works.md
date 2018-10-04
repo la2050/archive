@@ -24,10 +24,17 @@ org_summary: >-
   incarcerated parents in prisons throughout California.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102109'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
+aggregated:
+  project_ids:
+    - '5102109'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
+  year_submitted:
+    - '2015'
 title: Get On The Bus a program of the Center for Restorative Justice Works
 uri: >-
   /organizations/get-on-the-bus-a-program-of-the-center-for-restorative-justice-works/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
 extrapolated_project_ids:
   - '5102109'
 project_titles_from_extrapolated_project_ids:

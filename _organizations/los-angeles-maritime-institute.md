@@ -24,9 +24,16 @@ org_summary: >-
   lifelong learning.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
 project_ids: '5102190'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
+aggregated:
+  project_ids:
+    - '5102190'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles Maritime Institute
 uri: /organizations/los-angeles-maritime-institute/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
 extrapolated_project_ids:
   - '5102190'
 project_titles_from_extrapolated_project_ids:

@@ -72,9 +72,16 @@ org_summary: |-
    One Day on Earth has developed organizational partnerships with over 100 global NGOs and nonprofit organizations around the world, and we have helped many of those organizations work towards their missions by empowering widespread media-creation in support of their cause.</p>
 areas_impacted: ''
 project_ids: '3102209'
+challenge_url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
+aggregated:
+  project_ids:
+    - '3102209'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
+  year_submitted:
+    - '2013'
 title: One Day on Earth
 uri: /organizations/one-day-on-earth/
-challenge_url: 'http://maker.good.is/myla2050/projects/onedayinlosangeles.html'
 extrapolated_project_ids:
   - '3102209'
 project_titles_from_extrapolated_project_ids:

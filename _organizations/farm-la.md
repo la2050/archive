@@ -24,9 +24,16 @@ org_summary: >-
   land in Los Angeles for solar and agricultural drought-tolerant farming.
 areas_impacted: 'East LA,City of Los Angeles (citywide),Other (please specify below):'
 project_ids: '5102100'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
+aggregated:
+  project_ids:
+    - '5102100'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
+  year_submitted:
+    - '2015'
 title: Farm LA
 uri: /organizations/farm-la/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/FarmLA.html'
 extrapolated_project_ids:
   - '5102100'
 project_titles_from_extrapolated_project_ids:

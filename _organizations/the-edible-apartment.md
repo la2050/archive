@@ -32,9 +32,19 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102240'
+challenge_url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
+aggregated:
+  project_ids:
+    - '6102240'
+    - '5102301'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
+    - 'http://maker.good.is/myla2050live2015/projects/theedibleapartment.html'
+  year_submitted:
+    - '2016'
+    - '2015'
 title: The Edible Apartment
 uri: /organizations/the-edible-apartment/
-challenge_url: 'https://challenge.la2050.org/entry/planting-gardens-of-urban-delight!'
 extrapolated_project_ids:
   - '6102240'
   - '5102301'

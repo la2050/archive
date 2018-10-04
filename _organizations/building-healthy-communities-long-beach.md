@@ -25,9 +25,17 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '6102024'
+challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
+aggregated:
+  project_ids:
+    - '6102024'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project
+  year_submitted:
+    - '2016'
 title: 'Building Healthy Communities: Long Beach'
 uri: /organizations/building-healthy-communities-long-beach/
-challenge_url: 'https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project'
 extrapolated_project_ids:
   - '6102024'
 project_titles_from_extrapolated_project_ids:

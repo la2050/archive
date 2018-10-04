@@ -29,9 +29,22 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102046'
+challenge_url: 'https://activation.la2050.org/live/global-green/'
+aggregated:
+  project_ids:
+    - '8102046'
+    - '6102083'
+    - '4102251'
+  challenge_url:
+    - 'https://activation.la2050.org/live/global-green/'
+    - >-
+      https://challenge.la2050.org/entry/los-angeles-resilience-hubs-developing-a-model-for-a-resilient-city
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
 title: Global Green
 uri: /organizations/global-green/
-challenge_url: 'https://activation.la2050.org/live/global-green/'
 extrapolated_project_ids:
   - '8102046'
   - '6102083'

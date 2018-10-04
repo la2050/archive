@@ -32,10 +32,18 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102088'
-title: 'National Veterans Transition Services, Inc. AKA REBOOT'
-uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
 challenge_url: >-
   https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
+aggregated:
+  project_ids:
+    - '8102088'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
+  year_submitted:
+    - '2018'
+title: 'National Veterans Transition Services, Inc. AKA REBOOT'
+uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

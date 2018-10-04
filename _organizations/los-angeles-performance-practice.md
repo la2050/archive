@@ -23,9 +23,15 @@ org_summary: >-
   the unique contemporary performance community of Los Angeles.
 areas_impacted: 'Central LA,Other:'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
+  year_submitted:
+    - '2014'
 title: Los Angeles Performance Practice
 uri: /organizations/los-angeles-performance-practice/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
 extrapolated_project_ids:
   - '4102133'
 project_titles_from_extrapolated_project_ids:

@@ -32,10 +32,18 @@ areas_impacted:
   - LAUSD
   - County wide; but targetting local students
 project_ids: '6102147'
-title: Los Angeles World Airports
-uri: /organizations/los-angeles-world-airports/
 challenge_url: >-
   https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
+aggregated:
+  project_ids:
+    - '6102147'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
+  year_submitted:
+    - '2016'
+title: Los Angeles World Airports
+uri: /organizations/los-angeles-world-airports/
 extrapolated_project_ids:
   - '6102147'
 project_titles_from_extrapolated_project_ids:

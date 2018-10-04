@@ -25,9 +25,15 @@ org_summary: >-
   Over Learning.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
+  year_submitted:
+    - '2015'
 title: 'Ironbox Education, Inc.'
 uri: /organizations/ironbox-education-inc/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
 extrapolated_project_ids:
   - '5102147'
 project_titles_from_extrapolated_project_ids:

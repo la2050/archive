@@ -30,9 +30,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102130'
+challenge_url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
+aggregated:
+  project_ids:
+    - '8102130'
+  challenge_url:
+    - 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
+  year_submitted:
+    - '2018'
 title: UCLA Mobile Eye Clinic (UMEC)
 uri: /organizations/ucla-mobile-eye-clinic-umec/
-challenge_url: 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -28,10 +28,18 @@ areas_impacted:
   - City of Los Angeles
   - There is global interest. We want to pilot in LA.
 project_ids: '6102215'
-title: Perceptoscope
-uri: /organizations/perceptoscope/
 challenge_url: >-
   https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
+aggregated:
+  project_ids:
+    - '6102215'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/explore-los-angeless-past-present-and-future-in-augmented-reality-through-perceptoscope
+  year_submitted:
+    - '2016'
+title: Perceptoscope
+uri: /organizations/perceptoscope/
 extrapolated_project_ids:
   - '6102215'
 project_titles_from_extrapolated_project_ids:

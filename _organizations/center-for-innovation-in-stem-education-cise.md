@@ -29,10 +29,18 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '8102016'
-title: Center for Innovation in STEM Education (CISE)
-uri: /organizations/center-for-innovation-in-stem-education-cise/
 challenge_url: >-
   https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
+aggregated:
+  project_ids:
+    - '8102016'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
+  year_submitted:
+    - '2018'
+title: Center for Innovation in STEM Education (CISE)
+uri: /organizations/center-for-innovation-in-stem-education-cise/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

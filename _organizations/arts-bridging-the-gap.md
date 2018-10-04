@@ -28,10 +28,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102011'
-title: Arts Bridging the Gap
-uri: /organizations/arts-bridging-the-gap/
 challenge_url: >-
   https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
+aggregated:
+  project_ids:
+    - '6102011'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
+  year_submitted:
+    - '2016'
+title: Arts Bridging the Gap
+uri: /organizations/arts-bridging-the-gap/
 extrapolated_project_ids:
   - '6102011'
 project_titles_from_extrapolated_project_ids:

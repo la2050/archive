@@ -32,10 +32,38 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102227'
-title: T4T.org
-uri: /organizations/t4t-org/
 challenge_url: >-
   https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
+aggregated:
+  project_ids:
+    - '6102227'
+    - '6102226'
+    - '6102225'
+    - '5102287'
+    - '5102287'
+    - '5102287'
+    - '4102239'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/robin-hoods-of-rubbish-for-the-la-landfillharmonics
+    - >-
+      https://challenge.la2050.org/entry/are-the-robbin-hoods-of-rubbish-arriving-in-your-neighborhood-park?
+    - >-
+      https://challenge.la2050.org/entry/the-robin-hoods-of-rubbish-are-building-steam-labs!
+    - 'http://maker.good.is/myla2050play2015/projects/MobileMakersSpace.html'
+    - 'http://maker.good.is/myla2050create2015/projects/LALandfillHarmonic.html'
+    - 'http://maker.good.is/myla2050learn2015/projects/ReImaginedResources.html'
+    - 'http://maker.good.is/myLA2050play/projects/reimaginedresources.html'
+  year_submitted:
+    - '2016'
+    - '2016'
+    - '2016'
+    - '2015'
+    - '2015'
+    - '2015'
+    - '2014'
+title: T4T.org
+uri: /organizations/t4t-org/
 extrapolated_project_ids:
   - '6102225'
   - '6102226'

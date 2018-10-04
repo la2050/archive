@@ -36,9 +36,22 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '5102293'
+challenge_url: 'https://activation.la2050.org/connect/synaccord-llc/'
+aggregated:
+  project_ids:
+    - '5102293'
+    - '6102234'
+    - '4102205'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/synaccord-llc/'
+    - 'https://challenge.la2050.org/entry/engage-your-neighborhood'
+    - 'http://maker.good.is/myla2050connect2015/projects/SynaccordLA.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
 title: 'Synaccord, LLC'
 uri: /organizations/synaccord-llc/
-challenge_url: 'https://activation.la2050.org/connect/synaccord-llc/'
 extrapolated_project_ids:
   - '6102234'
   - '5102285'

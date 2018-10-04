@@ -26,12 +26,19 @@ org_summary: >-
   industry professionals, creativity & technology, into the same classroom.
 areas_impacted: 'Central LA,East LA,South LA,Other (please specify below):'
 project_ids: '5102238'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
+aggregated:
+  project_ids:
+    - '5102238'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
+  year_submitted:
+    - '2015'
 title: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)
 uri: >-
   /organizations/play-with-music-the-new-history-parent-organization-of-play-with-music-current-transition-filing-501c3-status-for-play-with-music/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
 extrapolated_project_ids:
   - '5102238'
 project_titles_from_extrapolated_project_ids:

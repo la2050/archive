@@ -47,9 +47,16 @@ org_summary: >-
    Pasadena Arts Council is the oldest arts service organization in California, established in 1964. In 2014 we will celebrate our 50th anniversary, which we think is a pretty good achievement in itself.
 areas_impacted: ''
 project_ids: '3102214'
+challenge_url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
+aggregated:
+  project_ids:
+    - '3102214'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/axsfestival.html'
+  year_submitted:
+    - '2013'
 title: Pasadena Arts Council
 uri: /organizations/pasadena-arts-council/
-challenge_url: 'http://maker.good.is/myla2050/projects/axsfestival.html'
 extrapolated_project_ids:
   - '3102214'
 project_titles_from_extrapolated_project_ids:

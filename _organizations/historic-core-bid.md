@@ -25,9 +25,16 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '6102092'
+challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'
+aggregated:
+  project_ids:
+    - '6102092'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/spring-street-parklets'
+  year_submitted:
+    - '2016'
 title: Historic Core BID
 uri: /organizations/historic-core-bid/
-challenge_url: 'https://challenge.la2050.org/entry/spring-street-parklets'
 extrapolated_project_ids:
   - '6102092'
 project_titles_from_extrapolated_project_ids:

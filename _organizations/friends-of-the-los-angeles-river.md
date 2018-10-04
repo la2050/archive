@@ -24,9 +24,16 @@ org_summary: >-
   advocacy, education and wise stewardship.
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley'
 project_ids: '4102038'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/rover.html'
+aggregated:
+  project_ids:
+    - '4102038'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/rover.html'
+  year_submitted:
+    - '2014'
 title: Friends of the Los Angeles River
 uri: /organizations/friends-of-the-los-angeles-river/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/rover.html'
 extrapolated_project_ids:
   - '4102076'
 project_titles_from_extrapolated_project_ids:

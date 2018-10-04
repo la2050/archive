@@ -30,10 +30,18 @@ areas_impacted:
   - South LA
   - Gateway Cities
 project_ids: '6102205'
-title: mitu
-uri: /organizations/mitu/
 challenge_url: >-
   https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
+aggregated:
+  project_ids:
+    - '6102205'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
+  year_submitted:
+    - '2016'
+title: mitu
+uri: /organizations/mitu/
 extrapolated_project_ids:
   - '6102205'
 project_titles_from_extrapolated_project_ids:

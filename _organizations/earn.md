@@ -25,9 +25,16 @@ areas_impacted: >-
   County of Los Angeles (countywide),City of Los Angeles (citywide),Other
   (please specify below):
 project_ids: '5102089'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/save.html'
+aggregated:
+  project_ids:
+    - '5102089'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/save.html'
+  year_submitted:
+    - '2015'
 title: EARN
 uri: /organizations/earn/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/save.html'
 extrapolated_project_ids:
   - '5102089'
 project_titles_from_extrapolated_project_ids:

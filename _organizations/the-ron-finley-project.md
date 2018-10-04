@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102256'
-title: The Ron Finley Project
-uri: /organizations/the-ron-finley-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
+aggregated:
+  project_ids:
+    - '6102256'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
+  year_submitted:
+    - '2016'
+title: The Ron Finley Project
+uri: /organizations/the-ron-finley-project/
 extrapolated_project_ids:
   - '6102256'
 project_titles_from_extrapolated_project_ids:

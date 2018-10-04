@@ -25,9 +25,16 @@ org_summary: >-
   their babies and families can have optimal beginnings.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102203'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
+aggregated:
+  project_ids:
+    - '5102203'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
+  year_submitted:
+    - '2015'
 title: Maternal Mental Health NOW
 uri: /organizations/maternal-mental-health-now/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
 extrapolated_project_ids:
   - '5102203'
 project_titles_from_extrapolated_project_ids:

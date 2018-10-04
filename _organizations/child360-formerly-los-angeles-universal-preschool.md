@@ -29,10 +29,18 @@ areas_impacted:
   - South LA
   - Antelope Valley
 project_ids: '8102018'
-title: Child360 (formerly Los Angeles Universal Preschool)
-uri: /organizations/child360-formerly-los-angeles-universal-preschool/
 challenge_url: >-
   https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
+aggregated:
+  project_ids:
+    - '8102018'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
+  year_submitted:
+    - '2018'
+title: Child360 (formerly Los Angeles Universal Preschool)
+uri: /organizations/child360-formerly-los-angeles-universal-preschool/
 extrapolated_project_ids:
   - '8102018'
 project_titles_from_extrapolated_project_ids:

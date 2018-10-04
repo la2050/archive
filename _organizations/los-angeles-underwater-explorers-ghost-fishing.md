@@ -23,9 +23,16 @@ org_summary: >-
   am the coordinator for the United States, based out of Los Angeles).
 areas_impacted: 'City of Los Angeles (citywide),Other (please specify below):'
 project_ids: '5102198'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
+aggregated:
+  project_ids:
+    - '5102198'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles Underwater Explorers; Ghost Fishing
 uri: /organizations/los-angeles-underwater-explorers-ghost-fishing/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
 extrapolated_project_ids:
   - '5102198'
 project_titles_from_extrapolated_project_ids:

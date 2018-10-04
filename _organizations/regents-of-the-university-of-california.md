@@ -26,10 +26,18 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: '6102195'
-title: Regents of the University of California
-uri: /organizations/regents-of-the-university-of-california/
 challenge_url: >-
   https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
+aggregated:
+  project_ids:
+    - '6102195'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
+  year_submitted:
+    - '2016'
+title: Regents of the University of California
+uri: /organizations/regents-of-the-university-of-california/
 extrapolated_project_ids:
   - '6102195'
 project_titles_from_extrapolated_project_ids:

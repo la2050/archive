@@ -27,10 +27,18 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102170'
-title: Operation Gratitude
-uri: /organizations/operation-gratitude/
 challenge_url: >-
   https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
+aggregated:
+  project_ids:
+    - '6102170'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
+  year_submitted:
+    - '2016'
+title: Operation Gratitude
+uri: /organizations/operation-gratitude/
 extrapolated_project_ids:
   - '6102170'
 project_titles_from_extrapolated_project_ids:

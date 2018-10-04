@@ -51,9 +51,16 @@ org_summary: >-
    * A comprehensive education initiative was launched in 2012 to provide resources/programs for youth residing in public housing communities.
 areas_impacted: ''
 project_ids: '3102165'
+challenge_url: 'http://maker.good.is/myla2050/projects/kpi.html'
+aggregated:
+  project_ids:
+    - '3102165'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/kpi.html'
+  year_submitted:
+    - '2013'
 title: Kids Progress Inc.
 uri: /organizations/kids-progress-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/kpi.html'
 extrapolated_project_ids:
   - '3102165'
 project_titles_from_extrapolated_project_ids:

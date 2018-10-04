@@ -22,9 +22,20 @@ org_summary: >-
   that has been broadcasting from Los Angeles, California since 1999.
 areas_impacted: Central LA
 project_ids: '5102088'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html'
+aggregated:
+  project_ids:
+    - '5102088'
+    - '3102115'
+  challenge_url:
+    - >-
+      http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html
+    - 'http://maker.good.is/myla2050/projects/SOUNDSHARELA.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: DUBLAB
 uri: /organizations/dublab/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OPENSTUDIOINITIATIVE.html'
 extrapolated_project_ids:
   - '5102088'
   - '3102115'

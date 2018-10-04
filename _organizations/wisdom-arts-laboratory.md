@@ -30,10 +30,18 @@ areas_impacted:
   - San Gabriel Valley
   - South LA
 project_ids: '6102283'
-title: Wisdom Arts Laboratory
-uri: /organizations/wisdom-arts-laboratory/
 challenge_url: >-
   https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
+aggregated:
+  project_ids:
+    - '6102283'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
+  year_submitted:
+    - '2016'
+title: Wisdom Arts Laboratory
+uri: /organizations/wisdom-arts-laboratory/
 extrapolated_project_ids:
   - '6102283'
 project_titles_from_extrapolated_project_ids:

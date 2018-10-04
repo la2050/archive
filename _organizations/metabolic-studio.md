@@ -18,9 +18,15 @@ org_summary: >-
   that nurture life.
 areas_impacted: ''
 project_ids: '4102154'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102154'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Metabolic Studio
 uri: /organizations/metabolic-studio/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -27,9 +27,19 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102061'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
+aggregated:
+  project_ids:
+    - '4102061'
+    - '3102200'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
+    - 'http://maker.good.is/myla2050/projects/MuirRanch.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Muir Ranch
 uri: /organizations/muir-ranch/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/LAKidsGarden.html'
 extrapolated_project_ids:
   - '4102150'
   - '3102200'

@@ -36,9 +36,16 @@ org_summary: >-
    Valhalla Washington has also started taking its first steps toward spreading awareness so that it may also sprout into a sister site.
 areas_impacted: ''
 project_ids: '3102269'
+challenge_url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+aggregated:
+  project_ids:
+    - '3102269'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ValhalLA.html'
+  year_submitted:
+    - '2013'
 title: ValhalLA
 uri: /organizations/valhalla/
-challenge_url: 'http://maker.good.is/myla2050/projects/ValhalLA.html'
 extrapolated_project_ids:
   - '3102269'
 project_titles_from_extrapolated_project_ids:

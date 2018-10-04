@@ -22,10 +22,18 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '6102071'
-title: '#Library'
-uri: /organizations/library/
 challenge_url: >-
   https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
+aggregated:
+  project_ids:
+    - '6102071'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
+  year_submitted:
+    - '2016'
+title: '#Library'
+uri: /organizations/library/
 extrapolated_project_ids:
   - '6102071'
 project_titles_from_extrapolated_project_ids:

@@ -26,10 +26,30 @@ areas_impacted:
   - San Fernando Valley
   - South Bay
 project_ids: '6102038'
-title: City of Los Angeles Department of Recreation and Parks
-uri: /organizations/city-of-los-angeles-department-of-recreation-and-parks/
 challenge_url: >-
   https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
+aggregated:
+  project_ids:
+    - '6102038'
+    - '5102059'
+    - '5102059'
+    - '5102059'
+    - '3102014'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/ocean-heroes-saving-lives-daily-as-a-water-rescuer
+    - 'http://maker.good.is/myla2050learn2015/projects/LA_Dance_Immersion.html'
+    - 'http://maker.good.is/myla2050learn2015/projects/SavingLives.html'
+    - 'http://maker.good.is/myla2050play2015/projects/KIPP.html'
+    - 'http://maker.good.is/myla2050/projects/RAP.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2015'
+    - '2015'
+    - '2013'
+title: City of Los Angeles Department of Recreation and Parks
+uri: /organizations/city-of-los-angeles-department-of-recreation-and-parks/
 extrapolated_project_ids:
   - '6102038'
   - '5102059'

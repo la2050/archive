@@ -27,9 +27,16 @@ org_summary: >-
   System sites.
 areas_impacted: South LA
 project_ids: '5102256'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
+aggregated:
+  project_ids:
+    - '5102256'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
+  year_submitted:
+    - '2015'
 title: 'RootDown LA, A project of Community Partners'
 uri: /organizations/rootdown-la-a-project-of-community-partners/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
 extrapolated_project_ids:
   - '5102256'
 project_titles_from_extrapolated_project_ids:

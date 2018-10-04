@@ -55,10 +55,17 @@ org_summary: >-
    City Ethics Commissioner.</p>
 areas_impacted: ''
 project_ids: '3102032'
+challenge_url: 'http://maker.good.is/myla2050/projects/CRD3LA.html'
+aggregated:
+  project_ids:
+    - '3102032'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/CRD3LA.html'
+  year_submitted:
+    - '2013'
 title: E.N.G.A.G.E stands for Educating Neighbors Gaining Awareness Growing Engaged
 uri: >-
   /organizations/e-n-g-a-g-e-stands-for-educating-neighbors-gaining-awareness-growing-engaged/
-challenge_url: 'http://maker.good.is/myla2050/projects/CRD3LA.html'
 extrapolated_project_ids:
   - '3102032'
 project_titles_from_extrapolated_project_ids:

@@ -27,10 +27,23 @@ areas_impacted:
   - Westside
   - LAUSD
 project_ids: '6102037'
-title: 'Citizens of the World Charter Schools, Los Angeles'
-uri: /organizations/citizens-of-the-world-charter-schools-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
+aggregated:
+  project_ids:
+    - '6102037'
+    - '5102057'
+    - '4102222'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/cwc-la-building-communities-that-embrace-equity-and-address-injustice
+    - 'http://maker.good.is/myla2050learn2015/projects/CITIZENSOFTHEWORLD.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: 'Citizens of the World Charter Schools, Los Angeles'
+uri: /organizations/citizens-of-the-world-charter-schools-los-angeles/
 extrapolated_project_ids:
   - '6102037'
   - '5102057'

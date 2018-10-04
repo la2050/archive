@@ -26,10 +26,18 @@ areas_impacted:
   - San Gabriel Valley
   - County of Los Angeles
 project_ids: '6102124'
-title: Drizzle Connect
-uri: /organizations/drizzle-connect/
 challenge_url: >-
   https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
+aggregated:
+  project_ids:
+    - '6102124'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/bringing-free-high-speed-internet-and-mobile-phone-service-to-low-income-families-in-los-angeles
+  year_submitted:
+    - '2016'
+title: Drizzle Connect
+uri: /organizations/drizzle-connect/
 extrapolated_project_ids:
   - '6102124'
 project_titles_from_extrapolated_project_ids:

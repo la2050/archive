@@ -28,9 +28,22 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102022'
+challenge_url: 'https://activation.la2050.org/connect/citizens-of-culture/'
+aggregated:
+  project_ids:
+    - '8102022'
+    - '6102097'
+    - '4102095'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/citizens-of-culture/'
+    - 'https://challenge.la2050.org/entry/nous-tous-a-gallery-for-all-of-us'
+    - 'http://maker.good.is/myla2050create2015/projects/citzensofculture.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
 title: Citizens Of Culture
 uri: /organizations/citizens-of-culture/
-challenge_url: 'https://activation.la2050.org/connect/citizens-of-culture/'
 extrapolated_project_ids:
   - '6102097'
   - '5102056'

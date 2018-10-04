@@ -40,9 +40,16 @@ org_summary: >-
    Our most important achievements are not measured in legislative changes but in the number of people we reach, teach, and impact. In that respect we have been enormously successful. In a short time we've connected with people all over the world through monthly workshops, mentoring sessions, honey bee rescues, education outreach, neighborhood council involvement and social media connections. Our proudest single achievement is creating a global community of conscientious, active urban beekeepers who now share HoneyLove's mission with an ever-growing audience. In 2050, we hope to look back on our work and be proud to say that we helped lead the change toward a pesticide-free Los Angeles.
 areas_impacted: ''
 project_ids: '3102150'
+challenge_url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+aggregated:
+  project_ids:
+    - '3102150'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/HoneyLove.html'
+  year_submitted:
+    - '2013'
 title: HoneyLove
 uri: /organizations/honeylove/
-challenge_url: 'http://maker.good.is/myla2050/projects/HoneyLove.html'
 extrapolated_project_ids:
   - '3102150'
 project_titles_from_extrapolated_project_ids:

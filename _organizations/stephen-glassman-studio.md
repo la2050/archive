@@ -54,9 +54,16 @@ org_summary: >-
   Hampshire College, and other institutions.
 areas_impacted: ''
 project_ids: '3102098'
+challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'
+aggregated:
+  project_ids:
+    - '3102098'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/urbanair.html'
+  year_submitted:
+    - '2013'
 title: Stephen Glassman Studio
 uri: /organizations/stephen-glassman-studio/
-challenge_url: 'http://maker.good.is/myla2050/projects/urbanair.html'
 extrapolated_project_ids:
   - '3102098'
 project_titles_from_extrapolated_project_ids:

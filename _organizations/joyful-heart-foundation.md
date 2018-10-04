@@ -33,10 +33,21 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
 project_ids: '6102110'
-title: Joyful Heart Foundation
-uri: /organizations/joyful-heart-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
+aggregated:
+  project_ids:
+    - '6102110'
+    - '5102151'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/joyful-heart-foundations-survivor-retreat-model
+    - 'http://maker.good.is/myla2050live2015/projects/JHFsurvivorretreat.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Joyful Heart Foundation
+uri: /organizations/joyful-heart-foundation/
 extrapolated_project_ids:
   - '6102110'
   - '5102151'

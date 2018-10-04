@@ -28,10 +28,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102260'
-title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
-uri: /organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 challenge_url: >-
   https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
+aggregated:
+  project_ids:
+    - '6102260'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
+  year_submitted:
+    - '2016'
+title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
+uri: /organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 extrapolated_project_ids:
   - '6102260'
 project_titles_from_extrapolated_project_ids:

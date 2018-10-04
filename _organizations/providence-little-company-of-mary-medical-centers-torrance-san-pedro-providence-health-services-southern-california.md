@@ -20,12 +20,18 @@ org_summary: >-
   programs that improve the health of our communities.
 areas_impacted: ''
 project_ids: '4102160'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102160'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: >-
   Providence Little Company of Mary Medical Centers - Torrance & San Pedro,
   Providence Health & Services Southern California
 uri: >-
   /organizations/providence-little-company-of-mary-medical-centers-torrance-san-pedro-providence-health-services-southern-california/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

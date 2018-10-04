@@ -23,9 +23,15 @@ project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'City of Los Angeles (citywide),Other (please specify below):'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'
+  year_submitted:
+    - '2015'
 title: Southern California Streets Initiative
 uri: /organizations/southern-california-streets-initiative/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/abundanthousingLA.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles_from_project_ids:

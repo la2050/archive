@@ -24,9 +24,15 @@ org_summary: >-
   in STEM.
 areas_impacted: 'Westside,South Bay,County of Los Angeles (countywide)'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
+  year_submitted:
+    - '2015'
 title: Dharma Health Institute
 uri: /organizations/dharma-health-institute/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -26,10 +26,17 @@ org_summary: >-
   artists and others.
 areas_impacted: San Fernando Valley
 project_ids: '5102259'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
+aggregated:
+  project_ids:
+    - '5102259'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
+  year_submitted:
+    - '2015'
 title: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
 extrapolated_project_ids:
   - '5102259'
 project_titles_from_extrapolated_project_ids:

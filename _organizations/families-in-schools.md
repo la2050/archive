@@ -21,9 +21,15 @@ org_summary: >-
   children’s education to achieve lifelong student success.
 areas_impacted: ''
 project_ids: '4102125'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102125'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Families In Schools
 uri: /organizations/families-in-schools/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102070'
 project_titles_from_extrapolated_project_ids:

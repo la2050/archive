@@ -28,10 +28,18 @@ areas_impacted:
   - San Fernando Valley
   - City of Los Angeles
 project_ids: '6102084'
-title: Grassroots Training for Health
-uri: /organizations/grassroots-training-for-health/
 challenge_url: >-
   https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
+aggregated:
+  project_ids:
+    - '6102084'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
+  year_submitted:
+    - '2016'
+title: Grassroots Training for Health
+uri: /organizations/grassroots-training-for-health/
 extrapolated_project_ids:
   - '6102084'
 project_titles_from_extrapolated_project_ids:

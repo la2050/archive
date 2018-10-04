@@ -24,9 +24,16 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102251'
+challenge_url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
+aggregated:
+  project_ids:
+    - '6102251'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
+  year_submitted:
+    - '2016'
 title: The NOW Institute/UCLA
 uri: /organizations/the-now-institute-ucla/
-challenge_url: 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
 extrapolated_project_ids:
   - '6102251'
 project_titles_from_extrapolated_project_ids:

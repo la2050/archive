@@ -25,9 +25,22 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: '6102255'
+challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
+aggregated:
+  project_ids:
+    - '6102255'
+    - '5102310'
+    - '3102257'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/green-our-l-a-river!'
+    - 'http://maker.good.is/myla2050live2015/projects/WaterLA.html'
+    - 'http://maker.good.is/myla2050/projects/TRP.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2013'
 title: The River Project
 uri: /organizations/the-river-project/
-challenge_url: 'https://challenge.la2050.org/entry/green-our-l-a-river!'
 extrapolated_project_ids:
   - '6102255'
   - '5102310'

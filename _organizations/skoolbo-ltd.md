@@ -46,9 +46,16 @@ org_summary: >-
    In September 2013 Skoolbo will be hosting FriendOurWorld.org which is a collaboration with Peace One Day and Microsoft. Children from across the world will unite and play friendship games of geography, languages and culture on the Skoolbo platform. We anticipate this will be one of the largest educational events ever held.</p>
 areas_impacted: ''
 project_ids: '3102091'
+challenge_url: 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
+aggregated:
+  project_ids:
+    - '3102091'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
+  year_submitted:
+    - '2013'
 title: Skoolbo LTD
 uri: /organizations/skoolbo-ltd/
-challenge_url: 'http://maker.good.is/myla2050/projects/proveLAKidsRock.html'
 extrapolated_project_ids:
   - '3102091'
 project_titles_from_extrapolated_project_ids:

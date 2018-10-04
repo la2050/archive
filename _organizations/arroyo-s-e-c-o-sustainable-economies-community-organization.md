@@ -22,9 +22,16 @@ org_summary: >-
   and benefits of Time Banking, co-production and the Sharing Ec
 areas_impacted: 'Central LA,East LA,South LA,San Gabriel Valley'
 project_ids: '4102009'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
+aggregated:
+  project_ids:
+    - '4102009'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
+  year_submitted:
+    - '2014'
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 uri: /organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
 extrapolated_project_ids:
   - '4102014'
 project_titles_from_extrapolated_project_ids:

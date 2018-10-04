@@ -24,9 +24,16 @@ org_summary: >-
   grassroots level in Los Angeles.
 areas_impacted: South LA
 project_ids: '4102105'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
+aggregated:
+  project_ids:
+    - '4102105'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
+  year_submitted:
+    - '2014'
 title: Will & Company
 uri: /organizations/will-company/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
 extrapolated_project_ids:
   - '4102256'
 project_titles_from_extrapolated_project_ids:

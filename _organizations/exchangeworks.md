@@ -23,9 +23,16 @@ org_summary: >-
   exchange of art and resources.
 areas_impacted: 'County of Los Angeles (countywide),Other (please specify below):'
 project_ids: '4102133'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
+aggregated:
+  project_ids:
+    - '4102133'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
+  year_submitted:
+    - '2015'
 title: ExchangeWorks
 uri: /organizations/exchangeworks/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
 extrapolated_project_ids:
   - '5102095'
 project_titles_from_extrapolated_project_ids:

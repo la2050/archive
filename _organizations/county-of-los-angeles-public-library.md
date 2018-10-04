@@ -28,9 +28,16 @@ areas_impacted:
   - East LA
   - San Gabriel Valley
 project_ids: '6102056'
+challenge_url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
+aggregated:
+  project_ids:
+    - '6102056'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
+  year_submitted:
+    - '2016'
 title: County of Los Angeles Public Library
 uri: /organizations/county-of-los-angeles-public-library/
-challenge_url: 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
 extrapolated_project_ids:
   - '6102056'
 project_titles_from_extrapolated_project_ids:

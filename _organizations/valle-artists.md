@@ -27,9 +27,16 @@ org_summary: >-
   The Pacoima Art Movement has restored pride in the community.
 areas_impacted: ''
 project_ids: '3102270'
+challenge_url: 'http://maker.good.is/myla2050/projects/Artistmovement.html'
+aggregated:
+  project_ids:
+    - '3102270'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Artistmovement.html'
+  year_submitted:
+    - '2013'
 title: Valle Artists
 uri: /organizations/valle-artists/
-challenge_url: 'http://maker.good.is/myla2050/projects/Artistmovement.html'
 extrapolated_project_ids:
   - '3102270'
 project_titles_from_extrapolated_project_ids:

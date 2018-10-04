@@ -25,9 +25,16 @@ org_summary: >-
   career endeavors despite their cultural, social and/or economic background.
 areas_impacted: 'City of Los Angeles (citywide),Other (please specify below):'
 project_ids: '5102309'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
+aggregated:
+  project_ids:
+    - '5102309'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
+  year_submitted:
+    - '2015'
 title: The Ripple Effect
 uri: /organizations/the-ripple-effect/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
 extrapolated_project_ids:
   - '5102309'
 project_titles_from_extrapolated_project_ids:

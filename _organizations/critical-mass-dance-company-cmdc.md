@@ -23,9 +23,16 @@ org_summary: >-
   and social justice in Central Los Angeles through dance.
 areas_impacted: Central LA
 project_ids: '4102024'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
+aggregated:
+  project_ids:
+    - '4102024'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
+  year_submitted:
+    - '2014'
 title: Critical Mass Dance Company (CMDC)
 uri: /organizations/critical-mass-dance-company-cmdc/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
 extrapolated_project_ids:
   - '4102050'
 project_titles_from_extrapolated_project_ids:

@@ -26,9 +26,19 @@ org_summary: >-
   strategies.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102262'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
+aggregated:
+  project_ids:
+    - '5102262'
+    - '4102209'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
+    - 'http://maker.good.is/myLA2050create/projects/streetcraftla.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: SBCC Thrive LA
 uri: /organizations/sbcc-thrive-la/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/sbccpww.html'
 extrapolated_project_ids:
   - '5102262'
 project_titles_from_extrapolated_project_ids:

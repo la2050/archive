@@ -27,9 +27,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102012'
+challenge_url: 'https://activation.la2050.org/live/caleitc4me/'
+aggregated:
+  project_ids:
+    - '8102012'
+  challenge_url:
+    - 'https://activation.la2050.org/live/caleitc4me/'
+  year_submitted:
+    - '2018'
 title: CalEITC4Me
 uri: /organizations/caleitc4me/
-challenge_url: 'https://activation.la2050.org/live/caleitc4me/'
 extrapolated_project_ids:
   - '8102012'
 project_titles_from_extrapolated_project_ids:

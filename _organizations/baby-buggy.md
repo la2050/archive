@@ -22,9 +22,15 @@ org_summary: >-
   products as incentive to participate in anti-poverty programs.
 areas_impacted: ''
 project_ids: '4102115'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102115'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Baby Buggy
 uri: /organizations/baby-buggy/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

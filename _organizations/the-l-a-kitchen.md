@@ -58,9 +58,16 @@ org_summary: >-
    Now, Egger’s energy, experience, and entrepreneurial spirit are here in the region where he grew up in the 1960’s and 70’s, with an added focus on fighting the needless waste of fresh produce and strengthening our senior citizens. It’s time for change.
 areas_impacted: ''
 project_ids: '3102251'
+challenge_url: 'http://maker.good.is/myla2050/projects/thelakitchen.html'
+aggregated:
+  project_ids:
+    - '3102251'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/thelakitchen.html'
+  year_submitted:
+    - '2013'
 title: The L.A. Kitchen
 uri: /organizations/the-l-a-kitchen/
-challenge_url: 'http://maker.good.is/myla2050/projects/thelakitchen.html'
 extrapolated_project_ids:
   - '3102251'
 project_titles_from_extrapolated_project_ids:

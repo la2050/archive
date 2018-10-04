@@ -29,9 +29,17 @@ areas_impacted:
   - San Fernando Valley
   - Westside
 project_ids: '6102285'
+challenge_url: 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'
+aggregated:
+  project_ids:
+    - '6102285'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row
+  year_submitted:
+    - '2016'
 title: Worthy of Love
 uri: /organizations/worthy-of-love/
-challenge_url: 'https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row'
 extrapolated_project_ids:
   - '6102285'
 project_titles_from_extrapolated_project_ids:

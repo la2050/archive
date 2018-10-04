@@ -36,9 +36,16 @@ org_summary: |-
    Opened a 196-bed permanent housing in 2011 specifically to address the need for affordable housing for low and very-low income veterans
 areas_impacted: ''
 project_ids: '3102260'
+challenge_url: 'http://maker.good.is/myla2050/projects/housevets.html'
+aggregated:
+  project_ids:
+    - '3102260'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/housevets.html'
+  year_submitted:
+    - '2013'
 title: U.S. VETS - Los Angeles
 uri: /organizations/u-s-vets-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050/projects/housevets.html'
 extrapolated_project_ids:
   - '3102260'
 project_titles_from_extrapolated_project_ids:

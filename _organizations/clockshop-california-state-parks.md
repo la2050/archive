@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '6102042'
-title: Clockshop & California State Parks
-uri: /organizations/clockshop-california-state-parks/
 challenge_url: >-
   https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
+aggregated:
+  project_ids:
+    - '6102042'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
+  year_submitted:
+    - '2016'
+title: Clockshop & California State Parks
+uri: /organizations/clockshop-california-state-parks/
 extrapolated_project_ids:
   - '6102042'
 project_titles_from_extrapolated_project_ids:

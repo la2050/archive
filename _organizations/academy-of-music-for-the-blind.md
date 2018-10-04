@@ -25,9 +25,16 @@ org_summary: >-
   drums, sax, flute, voice, composition and more!
 areas_impacted: 'San Fernando Valley,County of Los Angeles (countywide)'
 project_ids: '5102008'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
+aggregated:
+  project_ids:
+    - '5102008'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
+  year_submitted:
+    - '2015'
 title: Academy of Music for the Blind
 uri: /organizations/academy-of-music-for-the-blind/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
 extrapolated_project_ids:
   - '5102008'
 project_titles_from_extrapolated_project_ids:

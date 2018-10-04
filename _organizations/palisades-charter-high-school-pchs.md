@@ -24,9 +24,16 @@ org_summary: >-
   personal growth.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102226'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
+aggregated:
+  project_ids:
+    - '5102226'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
+  year_submitted:
+    - '2015'
 title: Palisades Charter High School (PCHS)
 uri: /organizations/palisades-charter-high-school-pchs/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
 extrapolated_project_ids:
   - '5102226'
 project_titles_from_extrapolated_project_ids:

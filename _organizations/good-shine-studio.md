@@ -26,9 +26,16 @@ areas_impacted:
   - Central LA
   - San Gabriel Valley
 project_ids: '8102047'
+challenge_url: 'https://activation.la2050.org/connect/good-shine-studio/'
+aggregated:
+  project_ids:
+    - '8102047'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/good-shine-studio/'
+  year_submitted:
+    - '2018'
 title: Good Shine Studio
 uri: /organizations/good-shine-studio/
-challenge_url: 'https://activation.la2050.org/connect/good-shine-studio/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

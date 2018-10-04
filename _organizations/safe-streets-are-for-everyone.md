@@ -28,10 +28,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102202'
-title: SAFE (Streets Are For Everyone)
-uri: /organizations/safe-streets-are-for-everyone/
 challenge_url: >-
   https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
+aggregated:
+  project_ids:
+    - '6102202'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
+  year_submitted:
+    - '2016'
+title: SAFE (Streets Are For Everyone)
+uri: /organizations/safe-streets-are-for-everyone/
 extrapolated_project_ids:
   - '6102202'
 project_titles_from_extrapolated_project_ids:

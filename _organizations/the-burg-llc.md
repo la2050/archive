@@ -25,9 +25,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102118'
+challenge_url: 'https://activation.la2050.org/connect/the-burg-llc/'
+aggregated:
+  project_ids:
+    - '8102118'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/the-burg-llc/'
+  year_submitted:
+    - '2018'
 title: 'The Burg, LLC'
 uri: /organizations/the-burg-llc/
-challenge_url: 'https://activation.la2050.org/connect/the-burg-llc/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

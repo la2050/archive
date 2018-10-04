@@ -33,10 +33,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102236'
-title: The Billboard Creative (TBC)
-uri: /organizations/the-billboard-creative-tbc/
 challenge_url: >-
   https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
+aggregated:
+  project_ids:
+    - '6102236'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/citywide-billboard-art-show-connecting-emerging-artists-with-mass-audiences-on-the-streets-of-la
+  year_submitted:
+    - '2016'
+title: The Billboard Creative (TBC)
+uri: /organizations/the-billboard-creative-tbc/
 extrapolated_project_ids:
   - '6102236'
 project_titles_from_extrapolated_project_ids:

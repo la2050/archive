@@ -22,9 +22,15 @@ org_summary: >-
   critical thinking, social literacy and cultural understanding
 areas_impacted: ''
 project_ids: '4102123'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102123'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: 'Dream A World Education, Inc.'
 uri: /organizations/dream-a-world-education-inc/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102057'
 project_titles_from_extrapolated_project_ids:

@@ -24,12 +24,19 @@ org_summary: >-
   our efforts and resources to empower families.
 areas_impacted: Central LA
 project_ids: '5102193'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
+aggregated:
+  project_ids:
+    - '5102193'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
+  year_submitted:
+    - '2015'
 title: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
   c/o Mayor's Fund for Los Angeles
 uri: >-
   /organizations/los-angeles-promise-zone-initiative-la-mayors-office-of-economic-development-c-o-mayors-fund-for-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
 extrapolated_project_ids:
   - '5102193'
 project_titles_from_extrapolated_project_ids:

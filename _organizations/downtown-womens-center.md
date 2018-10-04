@@ -22,9 +22,22 @@ project_video: ''
 org_summary: '#N/A'
 areas_impacted: 'Other (please specify below):'
 project_ids: '#N/A'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
+aggregated:
+  project_ids:
+    - '#N/A'
+    - '4102196'
+    - '3102109'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
+    - 'http://maker.good.is/myLA2050create/projects/DTwomenscenter.html'
+    - 'http://maker.good.is/myla2050/projects/MADEbyDWC.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
 title: Downtown Women's Center
 uri: /organizations/downtown-womens-center/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/DowntownWomensCenter.html'
 extrapolated_project_ids:
   - '4102056'
   - '3102109'

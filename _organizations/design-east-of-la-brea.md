@@ -60,9 +60,16 @@ org_summary: >-
    Highlights from de LaB’s 2011-2012 programming year include: A tour of the Subway Terminal Building in Downtown L.A. featuring the abandoned subway platform and tunnels that housed L.A.’s first subway system; A tour with the designers and public health officials behind L.A.’s first street-to-plaza conversion, Sunset Triangle, a new public space for the Silver Lake neighborhood; A private tour of the BWP EcoCampus in Burbank, a reclaimed substation which has been transformed into community green space by AHBE landscape architects; A presentation by FER Studio featuring their master plan for Inglewood’s downtown revitalization; A walking tour and published map of 31 locations in West Hollywood to honor de LaB’s late friend, urban designer John Chase, who was responsible for much of that city's great urban design; A tour of HOLA’s brand-new community center in Lafayette Park designed by Steven Kanner, which provides arts and athletic programming for underserved youth; A tour and fundraiser for Richland Farms, an agricultural community in the middle of Compton, where cowboys and horses co-exist with programs to bring farming to urban youth; A walking house tour featuring four Echo Park residences that use small footprints and sustainable design to create community-minded residences in a dense neighborhood; A bike tour of Long Beach, one of the most bicycle-friendly cities in the country, and its rapidly transforming infrastructure of parklets and roundabouts, with advocate Charlie Gandy.
 areas_impacted: ''
 project_ids: '3102105'
+challenge_url: 'http://maker.good.is/myla2050/projects/delab.html'
+aggregated:
+  project_ids:
+    - '3102105'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/delab.html'
+  year_submitted:
+    - '2013'
 title: design east of La Brea
 uri: /organizations/design-east-of-la-brea/
-challenge_url: 'http://maker.good.is/myla2050/projects/delab.html'
 extrapolated_project_ids:
   - '3102105'
 project_titles_from_extrapolated_project_ids:

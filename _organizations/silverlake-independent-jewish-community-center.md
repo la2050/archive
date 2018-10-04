@@ -27,9 +27,16 @@ org_summary: >-
   programming.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102267'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
+aggregated:
+  project_ids:
+    - '5102267'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
+  year_submitted:
+    - '2015'
 title: Silverlake Independent Jewish Community Center
 uri: /organizations/silverlake-independent-jewish-community-center/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
 extrapolated_project_ids:
   - '5102267'
 project_titles_from_extrapolated_project_ids:

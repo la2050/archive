@@ -30,9 +30,16 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102090'
+challenge_url: 'https://activation.la2050.org/live/not-impossible-foundation/'
+aggregated:
+  project_ids:
+    - '8102090'
+  challenge_url:
+    - 'https://activation.la2050.org/live/not-impossible-foundation/'
+  year_submitted:
+    - '2018'
 title: Not Impossible Foundation
 uri: /organizations/not-impossible-foundation/
-challenge_url: 'https://activation.la2050.org/live/not-impossible-foundation/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

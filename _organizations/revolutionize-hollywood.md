@@ -35,9 +35,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102103'
+challenge_url: 'https://activation.la2050.org/create/revolutionize-hollywood/'
+aggregated:
+  project_ids:
+    - '8102103'
+  challenge_url:
+    - 'https://activation.la2050.org/create/revolutionize-hollywood/'
+  year_submitted:
+    - '2018'
 title: Revolutionize Hollywood
 uri: /organizations/revolutionize-hollywood/
-challenge_url: 'https://activation.la2050.org/create/revolutionize-hollywood/'
 extrapolated_project_ids:
   - '8102103'
 project_titles_from_extrapolated_project_ids:

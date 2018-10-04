@@ -76,9 +76,16 @@ org_summary: >-
    Scholarships have traditionally taken place in the summers, but this past fall, HP has an unprecedented 8 students participating in advanced programs - 6 at Art Center’s Saturday High and their college-level program Art Center at Night; one at the Taper, one in Ryman Arts.
 areas_impacted: ''
 project_ids: '3102249'
+challenge_url: 'http://maker.good.is/myla2050/projects/theheartproject.html'
+aggregated:
+  project_ids:
+    - '3102249'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/theheartproject.html'
+  year_submitted:
+    - '2013'
 title: The HeArt Project
 uri: /organizations/the-heart-project/
-challenge_url: 'http://maker.good.is/myla2050/projects/theheartproject.html'
 extrapolated_project_ids:
   - '3102249'
 project_titles_from_extrapolated_project_ids:

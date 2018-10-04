@@ -24,9 +24,16 @@ org_summary: >-
   future vision and their own community's growth.
 areas_impacted: 'South LA,City of Los Angeles (citywide),LAUSD'
 project_ids: '5102085'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
+aggregated:
+  project_ids:
+    - '5102085'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
+  year_submitted:
+    - '2015'
 title: Dreamhaus Inc.
 uri: /organizations/dreamhaus-inc/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
 extrapolated_project_ids:
   - '5102085'
 project_titles_from_extrapolated_project_ids:

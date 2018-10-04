@@ -29,9 +29,16 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102004'
+challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'
+aggregated:
+  project_ids:
+    - '6102004'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/artbeat-radio'
+  year_submitted:
+    - '2016'
 title: Able Arts Work
 uri: /organizations/able-arts-work/
-challenge_url: 'https://challenge.la2050.org/entry/artbeat-radio'
 extrapolated_project_ids:
   - '6102004'
 project_titles_from_extrapolated_project_ids:

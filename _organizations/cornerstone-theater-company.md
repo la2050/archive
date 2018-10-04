@@ -28,10 +28,18 @@ areas_impacted:
   - Westside
   - City of Los Angeles
 project_ids: '6102055'
-title: Cornerstone Theater Company
-uri: /organizations/cornerstone-theater-company/
 challenge_url: >-
   https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
+aggregated:
+  project_ids:
+    - '6102055'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
+  year_submitted:
+    - '2016'
+title: Cornerstone Theater Company
+uri: /organizations/cornerstone-theater-company/
 extrapolated_project_ids:
   - '6102055'
 project_titles_from_extrapolated_project_ids:

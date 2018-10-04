@@ -33,9 +33,15 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/create/the-natch-inc/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'https://activation.la2050.org/create/the-natch-inc/'
+  year_submitted:
+    - '2018'
 title: 'The Natch, INC.'
 uri: /organizations/the-natch-inc/
-challenge_url: 'https://activation.la2050.org/create/the-natch-inc/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

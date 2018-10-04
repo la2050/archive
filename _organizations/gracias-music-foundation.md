@@ -34,9 +34,16 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '8102048'
+challenge_url: 'https://activation.la2050.org/connect/gracias-music-foundation/'
+aggregated:
+  project_ids:
+    - '8102048'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/gracias-music-foundation/'
+  year_submitted:
+    - '2018'
 title: Gracias Music Foundation
 uri: /organizations/gracias-music-foundation/
-challenge_url: 'https://activation.la2050.org/connect/gracias-music-foundation/'
 extrapolated_project_ids:
   - '8102048'
 project_titles_from_extrapolated_project_ids:

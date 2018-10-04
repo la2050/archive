@@ -24,9 +24,16 @@ org_summary: >-
   shaping local development around a shared cultural legacy.
 areas_impacted: 'East LA,South LA,South Bay,Other:'
 project_ids: '4102039'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
+aggregated:
+  project_ids:
+    - '4102039'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
+  year_submitted:
+    - '2014'
 title: Friends of the VisionTheater
 uri: /organizations/friends-of-the-visiontheater/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
 extrapolated_project_ids:
   - '4102078'
 project_titles_from_extrapolated_project_ids:

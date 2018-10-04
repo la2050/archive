@@ -51,9 +51,16 @@ org_summary: >-
   ourselves of its strength to do more for the weakest among us.
 areas_impacted: ''
 project_ids: '3102248'
+challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
+aggregated:
+  project_ids:
+    - '3102248'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
+  year_submitted:
+    - '2013'
 title: The Greater West Hollywood Food Coalition
 uri: /organizations/the-greater-west-hollywood-food-coalition/
-challenge_url: 'http://maker.good.is/myla2050/projects/sycamoreandromaine.html'
 extrapolated_project_ids:
   - '3102248'
 project_titles_from_extrapolated_project_ids:

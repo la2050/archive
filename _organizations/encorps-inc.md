@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102064'
-title: 'EnCorps, Inc.'
-uri: /organizations/encorps-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
+aggregated:
+  project_ids:
+    - '6102064'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
+  year_submitted:
+    - '2016'
+title: 'EnCorps, Inc.'
+uri: /organizations/encorps-inc/
 extrapolated_project_ids:
   - '6102064'
 project_titles_from_extrapolated_project_ids:

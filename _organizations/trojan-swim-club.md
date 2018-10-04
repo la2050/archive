@@ -23,9 +23,16 @@ org_summary: >-
   to empower underserved Los Angeles youth to develop healthier lifestyles.
 areas_impacted: 'Central LA,South LA,LAUSD'
 project_ids: '5102323'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
+aggregated:
+  project_ids:
+    - '5102323'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
+  year_submitted:
+    - '2015'
 title: Trojan Swim Club
 uri: /organizations/trojan-swim-club/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
 extrapolated_project_ids:
   - '5102323'
 project_titles_from_extrapolated_project_ids:

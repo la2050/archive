@@ -27,9 +27,16 @@ org_summary: >-
   their health.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102144'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
+aggregated:
+  project_ids:
+    - '5102144'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
+  year_submitted:
+    - '2015'
 title: Iraq and Afghanistan Veterans of America (IAVA)
 uri: /organizations/iraq-and-afghanistan-veterans-of-america-iava/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
 extrapolated_project_ids:
   - '5102144'
 project_titles_from_extrapolated_project_ids:

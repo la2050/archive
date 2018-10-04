@@ -23,9 +23,16 @@ org_summary: >-
   no-cost books into all hands, rich and poor, Eastside and West.
 areas_impacted: 'Central LA,East LA,San Gabriel Valley,Westside,Other:'
 project_ids: '4102054'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
+aggregated:
+  project_ids:
+    - '4102054'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
+  year_submitted:
+    - '2014'
 title: Libros Schmibros
 uri: /organizations/libros-schmibros/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
 extrapolated_project_ids:
   - '4102118'
 project_titles_from_extrapolated_project_ids:

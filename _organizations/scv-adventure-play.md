@@ -25,9 +25,19 @@ org_summary: >-
   well-being.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102290'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
+aggregated:
+  project_ids:
+    - '5102290'
+    - '8102137'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
+    - 'http://maker.good.is/myLA2050play/projects/scvadventureplay.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: SCV Adventure Play
 uri: /organizations/scv-adventure-play/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/AdventurePlay4LA.html'
 extrapolated_project_ids:
   - '5102263'
   - '4102188'

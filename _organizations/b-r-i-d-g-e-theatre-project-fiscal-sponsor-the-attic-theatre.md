@@ -24,9 +24,16 @@ org_summary: >-
   exploring practical ways to create change in their community.
 areas_impacted: 'South LA,Other:'
 project_ids: '4102013'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
+aggregated:
+  project_ids:
+    - '4102013'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
+  year_submitted:
+    - '2014'
 title: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
 uri: /organizations/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
 extrapolated_project_ids:
   - '4102019'
 project_titles_from_extrapolated_project_ids:

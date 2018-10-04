@@ -27,10 +27,18 @@ areas_impacted:
   - Central LA
   - City of Los Angeles
 project_ids: '6102081'
-title: Girls in Tech
-uri: /organizations/girls-in-tech/
 challenge_url: >-
   https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
+aggregated:
+  project_ids:
+    - '6102081'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
+  year_submitted:
+    - '2016'
+title: Girls in Tech
+uri: /organizations/girls-in-tech/
 extrapolated_project_ids:
   - '6102081'
 project_titles_from_extrapolated_project_ids:

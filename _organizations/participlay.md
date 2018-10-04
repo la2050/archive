@@ -21,9 +21,16 @@ project_video: ''
 org_summary: '#NAME?'
 areas_impacted: ''
 project_ids: '3102083'
+challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'
+aggregated:
+  project_ids:
+    - '3102083'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/craftservices.html'
+  year_submitted:
+    - '2013'
 title: Participlay
 uri: /organizations/participlay/
-challenge_url: 'http://maker.good.is/myla2050/projects/craftservices.html'
 extrapolated_project_ids:
   - '3102083'
 project_titles_from_extrapolated_project_ids:

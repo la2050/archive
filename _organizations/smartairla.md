@@ -38,9 +38,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102110'
+challenge_url: 'https://activation.la2050.org/live/smartairla/'
+aggregated:
+  project_ids:
+    - '8102110'
+  challenge_url:
+    - 'https://activation.la2050.org/live/smartairla/'
+  year_submitted:
+    - '2018'
 title: SmartAirLA
 uri: /organizations/smartairla/
-challenge_url: 'https://activation.la2050.org/live/smartairla/'
 extrapolated_project_ids:
   - '8102110'
 project_titles_from_extrapolated_project_ids:

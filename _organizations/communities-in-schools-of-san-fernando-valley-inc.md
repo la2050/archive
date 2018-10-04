@@ -71,9 +71,16 @@ org_summary: >-
    A most significant achievement occurred in 2012. After a journey that exceeded eleven years, CIS celebrated the grand opening of our Job Training & Opportunity Center on October 22, 2012. The Center has been a dream since 2001 when CIS first realized the positive impact that having a job had on helping youth continue their education and avoid violence. The Center’s construction was funded by a partnership between the County of Los Angeles, the City of Los Angeles Community Redevelopment Agency and the U. S. Dept. of Housing and Urban Development (HUD). The Center represents an unprecedented joint partnership between CIS and LA County Probation. Under a ten-year rent-free lease, the brand new CIS Job Training & Opportunity Center sits on County land and houses job training, educational and other support services programs. County Probation officers share the facility with CIS to serve probationary youth, dropouts and their families. CIS will maximize the Probation partnership and relationships to ensure job readiness service delivery for participants is effective, well coordinated and well managed.
 areas_impacted: ''
 project_ids: '3102086'
+challenge_url: 'http://maker.good.is/myla2050/projects/PTP.html'
+aggregated:
+  project_ids:
+    - '3102086'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/PTP.html'
+  year_submitted:
+    - '2013'
 title: 'Communities In Schools of San Fernando Valley, Inc.'
 uri: /organizations/communities-in-schools-of-san-fernando-valley-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/PTP.html'
 extrapolated_project_ids:
   - '3102086'
 project_titles_from_extrapolated_project_ids:

@@ -26,10 +26,27 @@ areas_impacted:
   - Central LA
   - South LA
 project_ids: '8102089'
-title: Neighborhood Housing Services of Los Angeles County
-uri: /organizations/neighborhood-housing-services-of-los-angeles-county/
 challenge_url: >-
   https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
+aggregated:
+  project_ids:
+    - '8102089'
+    - '6102165'
+    - '5102219'
+    - '4102258'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/neighborhood-housing-services-of-los-angeles-county/
+    - 'https://challenge.la2050.org/entry/center-for-sustainable-communities'
+    - 'http://maker.good.is/myla2050live2015/projects/NHSCSC.html'
+    - 'http://maker.good.is/myLA2050create/projects/SustainabilityCenter.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+title: Neighborhood Housing Services of Los Angeles County
+uri: /organizations/neighborhood-housing-services-of-los-angeles-county/
 extrapolated_project_ids:
   - '8102089'
   - '6102165'

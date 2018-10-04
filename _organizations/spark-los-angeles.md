@@ -27,9 +27,19 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102216'
+challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
+aggregated:
+  project_ids:
+    - '6102216'
+    - '5102278'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
+    - 'http://maker.good.is/myla2050learn2015/projects/SparkLA.html'
+  year_submitted:
+    - '2016'
+    - '2015'
 title: Spark Los Angeles
 uri: /organizations/spark-los-angeles/
-challenge_url: 'https://challenge.la2050.org/entry/spark-la-youth-mentorships'
 extrapolated_project_ids:
   - '6102216'
 project_titles_from_extrapolated_project_ids:

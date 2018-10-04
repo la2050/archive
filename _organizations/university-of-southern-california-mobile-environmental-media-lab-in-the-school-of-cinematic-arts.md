@@ -40,13 +40,21 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102275'
+challenge_url: >-
+  https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
+aggregated:
+  project_ids:
+    - '6102275'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
+  year_submitted:
+    - '2016'
 title: >-
   University of Southern California, Mobile + Environmental Media Lab in the
   School of Cinematic Arts
 uri: >-
   /organizations/university-of-southern-california-mobile-environmental-media-lab-in-the-school-of-cinematic-arts/
-challenge_url: >-
-  https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
 extrapolated_project_ids:
   - '6102275'
 project_titles_from_extrapolated_project_ids:

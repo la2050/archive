@@ -30,12 +30,19 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide)
 project_ids: '5102335'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
+aggregated:
+  project_ids:
+    - '5102335'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
+  year_submitted:
+    - '2015'
 title: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice
 uri: >-
   /organizations/urban-environmental-institute-occidental-college-and-east-yards-communities-for-environmental-justice/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
 extrapolated_project_ids:
   - '5102335'
 project_titles_from_extrapolated_project_ids:

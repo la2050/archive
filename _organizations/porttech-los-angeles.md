@@ -24,9 +24,16 @@ org_summary: >-
   solve port/global environmental challenges, and create jobs.
 areas_impacted: 'Other:'
 project_ids: '4102071'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
+aggregated:
+  project_ids:
+    - '4102071'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
+  year_submitted:
+    - '2014'
 title: PortTech Los Angeles
 uri: /organizations/porttech-los-angeles/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
 extrapolated_project_ids:
   - '4102170'
 project_titles_from_extrapolated_project_ids:

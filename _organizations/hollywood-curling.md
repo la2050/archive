@@ -26,9 +26,16 @@ areas_impacted: >-
   San Fernando Valley,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD
 project_ids: '5102134'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
+aggregated:
+  project_ids:
+    - '5102134'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
+  year_submitted:
+    - '2015'
 title: Hollywood Curling
 uri: /organizations/hollywood-curling/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
 extrapolated_project_ids:
   - '5102134'
 project_titles_from_extrapolated_project_ids:

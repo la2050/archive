@@ -27,9 +27,15 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
+  year_submitted:
+    - '2018'
 title: LOLA
 uri: /organizations/lola/
-challenge_url: 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
 extrapolated_project_ids:
   - '8102069'
 project_titles_from_extrapolated_project_ids:

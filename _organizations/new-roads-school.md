@@ -29,10 +29,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102167'
-title: New Roads School
-uri: /organizations/new-roads-school/
 challenge_url: >-
   https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
+aggregated:
+  project_ids:
+    - '6102167'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
+  year_submitted:
+    - '2016'
+title: New Roads School
+uri: /organizations/new-roads-school/
 extrapolated_project_ids:
   - '6102167'
 project_titles_from_extrapolated_project_ids:

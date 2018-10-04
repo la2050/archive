@@ -26,9 +26,19 @@ org_summary: >-
   development of trails.
 areas_impacted: Central LA
 project_ids: '5102211'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/FRANKLINIVAR.html'
+aggregated:
+  project_ids:
+    - '5102211'
+    - '5102211'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/FRANKLINIVAR.html'
+    - 'http://maker.good.is/myla2050live2015/projects/ELDORADOPARK.html'
+  year_submitted:
+    - '2015'
+    - '2015'
 title: Mountains Recreation and Conservation Authority
 uri: /organizations/mountains-recreation-and-conservation-authority/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/FRANKLINIVAR.html'
 extrapolated_project_ids:
   - '5102212'
   - '5102211'

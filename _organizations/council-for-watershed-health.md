@@ -25,9 +25,19 @@ org_summary: >-
    in diverse communities.
 areas_impacted: 'Central LA,San Gabriel Valley,City of Los Angeles (citywide)'
 project_ids: '5102079'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
+aggregated:
+  project_ids:
+    - '5102079'
+    - '3102093'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
+    - 'http://maker.good.is/myla2050/projects/pulseoflosangeles.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Council for Watershed Health
 uri: /organizations/council-for-watershed-health/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/healthystreams.html'
 extrapolated_project_ids:
   - '3102093'
 project_titles_from_extrapolated_project_ids:

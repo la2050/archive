@@ -23,9 +23,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102010'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
+aggregated:
+  project_ids:
+    - '4102010'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/AIM.html'
+  year_submitted:
+    - '2014'
 title: 'Art In Motion, Inc.'
 uri: /organizations/art-in-motion-inc/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/AIM.html'
 extrapolated_project_ids:
   - '4102016'
 project_titles_from_extrapolated_project_ids:

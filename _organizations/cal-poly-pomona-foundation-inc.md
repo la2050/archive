@@ -26,9 +26,16 @@ org_summary: >-
   host of 606 projects on their website for more information.
 areas_impacted: ''
 project_ids: '3102047'
+challenge_url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'
+aggregated:
+  project_ids:
+    - '3102047'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/GrassGreener.html'
+  year_submitted:
+    - '2013'
 title: 'Cal Poly Pomona Foundation, Inc.'
 uri: /organizations/cal-poly-pomona-foundation-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/GrassGreener.html'
 extrapolated_project_ids:
   - '3102047'
 project_titles_from_extrapolated_project_ids:

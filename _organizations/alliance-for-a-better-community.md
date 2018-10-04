@@ -50,9 +50,16 @@ org_summary: >-
    Don’t Hold Us Back Coalition: ABC was a leading member of this partnership comprised of a group of civil rights, parent and community organizations that believe every child deserves a quality public school education that prepares them for college and 21st century careers.. Our key demands to the LAUSD and the local teachers union included lifting the cap on teacher-led school structures; providing multiple measure evaluations to teachers; and assigning teachers to schools based on student need and not "must-place" hiring practices. As the spokesperson for the coalition, ABC used its platform in interviews with every major LA Spanish and English language newspaper and local media outlets, to describe how together, 100 parents and community members were mobilized, 26 organizations signed on to our efforts, close to 1,000 signed our petition, and as a result LAUSD-UTLA passed the Local Schools Stabilization and Empowerment Initiative of 2011. Since the coalition’s efforts wrapped up in December 2011, ABC shared its efforts with teacher groups, community organizations, parent groups and researchers nationwide to promote the replication of this type of effort.
 areas_impacted: ''
 project_ids: '3102012'
+challenge_url: 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
+aggregated:
+  project_ids:
+    - '3102012'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
+  year_submitted:
+    - '2013'
 title: Alliance for a Better Community
 uri: /organizations/alliance-for-a-better-community/
-challenge_url: 'http://maker.good.is/myla2050/projects/ABCParentEngagement.html'
 extrapolated_project_ids:
   - '3102012'
 project_titles_from_extrapolated_project_ids:

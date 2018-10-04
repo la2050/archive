@@ -27,9 +27,16 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: '8102080'
+challenge_url: 'https://activation.la2050.org/live/mar-vista-family-center/'
+aggregated:
+  project_ids:
+    - '8102080'
+  challenge_url:
+    - 'https://activation.la2050.org/live/mar-vista-family-center/'
+  year_submitted:
+    - '2018'
 title: Mar Vista Family Center
 uri: /organizations/mar-vista-family-center/
-challenge_url: 'https://activation.la2050.org/live/mar-vista-family-center/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

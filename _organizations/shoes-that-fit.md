@@ -35,9 +35,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102108'
+challenge_url: 'https://activation.la2050.org/live/shoes-that-fit/'
+aggregated:
+  project_ids:
+    - '8102108'
+  challenge_url:
+    - 'https://activation.la2050.org/live/shoes-that-fit/'
+  year_submitted:
+    - '2018'
 title: Shoes That Fit
 uri: /organizations/shoes-that-fit/
-challenge_url: 'https://activation.la2050.org/live/shoes-that-fit/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

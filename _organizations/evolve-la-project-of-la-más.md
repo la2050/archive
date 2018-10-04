@@ -33,10 +33,18 @@ areas_impacted:
   - Antelope Valley
   - County of Los Angeles
 project_ids: '6102066'
-title: Evolve LA (project of LA-Más)
-uri: /organizations/evolve-la-project-of-la-más/
 challenge_url: >-
   https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
+aggregated:
+  project_ids:
+    - '6102066'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
+  year_submitted:
+    - '2016'
+title: Evolve LA (project of LA-Más)
+uri: /organizations/evolve-la-project-of-la-más/
 extrapolated_project_ids:
   - '6102066'
 project_titles_from_extrapolated_project_ids:

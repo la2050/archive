@@ -1,0 +1,74 @@
+---
+organization_id: '2015069'
+year_submitted: 2014
+organization_name: From Lot to Spot
+organization_website:
+  - fromlottospot.org
+ein: '203359738'
+zip: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=203359738'
+ntee_type: ''
+tags_indicators:
+  - Access to parks & green space
+  - Public safety & public space
+twitter: fromlottospot
+instagram: fromlottospot
+facebook: 'https://www.facebook.com/fromlottospot'
+org_type: Nonprofit
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F24100%252Fdisplay%252FIMG_4644.JPG=c570x385
+project_video: ''
+org_summary: >-
+  From Lot to Spot (FLTS) is a 501c3 non-profit organization dedicated to
+  improving blighted, urban neighborhoods in the greater Los Angeles a
+areas_impacted: 'Other:'
+project_ids: '4102199'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/fromlottospot.html'
+aggregated:
+  project_ids:
+    - '5102107'
+    - '4102199'
+    - '3102134'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
+    - 'http://maker.good.is/myLA2050play/projects/fromlottospot.html'
+    - 'http://maker.good.is/myla2050/projects/NETWORKandNATURE.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
+title: From Lot to Spot
+uri: /organizations/from-lot-to-spot/
+extrapolated_project_ids:
+  - '5102107'
+  - '4102079'
+  - '3102134'
+project_titles_from_extrapolated_project_ids:
+  - Watts Rain Gardens
+  - Cypress Park Pocket Park
+  - >-
+    Network and Nature:Identification and Implementation of Community Green
+    Spaces within Los Angeles
+project_titles:
+  - Cypress Park Pocket Park
+  - >-
+    Network and Nature:Identification and Implementation of Community Green
+    Spaces within Los Angeles
+  - Watts Rain Gardens
+project_titles_from_project_ids:
+  - AGEnts for Change Initiative for Seniors in Los Angeles
+original_project_titles:
+  - Cypress Park Pocket Park
+  - >-
+    Network and Nature:Identification and Implementation of Community Green
+    Spaces within Los Angeles
+  - Watts Rain Gardens
+original_project_ids:
+  - '3102134'
+  - '4102079'
+  - '5102107'
+project_titles_flagged: 1
+maker_image_id: '24100'
+maker_image_file_name: IMG_4644.JPG
+
+---

@@ -21,9 +21,15 @@ org_summary: >-
   design, mapping, wetland restoration & watershed education.
 areas_impacted: ''
 project_ids: '5102091'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '5102091'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Duvivier Architects (DA)
 uri: /organizations/duvivier-architects-da/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

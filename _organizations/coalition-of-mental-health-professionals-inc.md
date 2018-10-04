@@ -41,9 +41,16 @@ org_summary: >-
    <p>Community Monitoring System and Compliance Report Card: The LA Black Worker Center (BWC) developed and piloted a community monitoring tool to foster greater community and worker participation in decision-making processes and to increase access to information in the public contraction arena. The tool provides a mechanism for accountability to the community on public infrastructure investments and how jobs are created. The BWC worked with graduate students and undergraduate research interns to develop a community monitoring tool called the “Public Construction Report Card,” which allows local residents and workers to evaluate and grade contractors’ past practices of employing a representative workforce. The report card evaluated contractors by using indicators such as community outreach and relations, accessibility, civil rights compliance, and transparency. The BWC supervised a team of BWC members and students who tested the report card tool in the field. The tool focused on four bidding contractors on the $1.7 billion Crenshaw/LAX Transit Corridor Project. Though this was a test of the tool, the results proved the public construction report card was a powerful monitoring mechanism in the high-stakes conversations with the contractors. In the end, each contractor team pledged to improve their “grades” and invited the BWC to be directly involved in their workforce pipeline process. The results of the report card pilot became the subject of high-level discussions between the office of Congresswoman Karen Bass, construction team executives, BWC members, and LA Metro staff. </p>
 areas_impacted: ''
 project_ids: '3102078'
+challenge_url: 'http://maker.good.is/myla2050/projects/workersrising.html'
+aggregated:
+  project_ids:
+    - '3102078'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/workersrising.html'
+  year_submitted:
+    - '2013'
 title: 'Coalition of Mental Health Professionals, Inc.'
 uri: /organizations/coalition-of-mental-health-professionals-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/workersrising.html'
 extrapolated_project_ids:
   - '3102078'
 project_titles_from_extrapolated_project_ids:

@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102093'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/newdigs.html'
+aggregated:
+  project_ids:
+    - '4102093'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
+  year_submitted:
+    - '2014'
 title: The La Brea Tar Pits Museum
 uri: /organizations/the-la-brea-tar-pits-museum/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/newdigs.html'
 extrapolated_project_ids:
   - '4102219'
 project_titles_from_extrapolated_project_ids:

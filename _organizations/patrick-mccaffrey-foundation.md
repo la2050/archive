@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - Locations of LATCH & Makes a Village are TBD
 project_ids: '6102177'
-title: Patrick McCaffrey Foundation
-uri: /organizations/patrick-mccaffrey-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
+aggregated:
+  project_ids:
+    - '6102177'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
+  year_submitted:
+    - '2016'
+title: Patrick McCaffrey Foundation
+uri: /organizations/patrick-mccaffrey-foundation/
 extrapolated_project_ids:
   - '6102177'
 project_titles_from_extrapolated_project_ids:

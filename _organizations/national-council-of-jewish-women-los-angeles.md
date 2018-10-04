@@ -35,10 +35,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102162'
-title: National Council of Jewish Women | Los Angeles
-uri: /organizations/national-council-of-jewish-women-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-talk-project-–-teens-leading-workshops-on-sexual-violence-culture-change
+aggregated:
+  project_ids:
+    - '6102162'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-talk-project-–-teens-leading-workshops-on-sexual-violence-culture-change
+  year_submitted:
+    - '2016'
+title: National Council of Jewish Women | Los Angeles
+uri: /organizations/national-council-of-jewish-women-los-angeles/
 extrapolated_project_ids:
   - '6102162'
 project_titles_from_extrapolated_project_ids:

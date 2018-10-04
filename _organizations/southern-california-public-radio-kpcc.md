@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102214'
-title: Southern California Public Radio (KPCC)
-uri: /organizations/southern-california-public-radio-kpcc/
 challenge_url: >-
   https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
+aggregated:
+  project_ids:
+    - '6102214'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
+  year_submitted:
+    - '2016'
+title: Southern California Public Radio (KPCC)
+uri: /organizations/southern-california-public-radio-kpcc/
 extrapolated_project_ids:
   - '6102214'
 project_titles_from_extrapolated_project_ids:

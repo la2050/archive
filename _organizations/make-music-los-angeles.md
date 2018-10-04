@@ -26,10 +26,18 @@ areas_impacted:
   - Central LA
   - City of Los Angeles
 project_ids: '6102152'
-title: Make Music Los Angeles
-uri: /organizations/make-music-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
+aggregated:
+  project_ids:
+    - '6102152'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
+  year_submitted:
+    - '2016'
+title: Make Music Los Angeles
+uri: /organizations/make-music-los-angeles/
 extrapolated_project_ids:
   - '6102152'
 project_titles_from_extrapolated_project_ids:

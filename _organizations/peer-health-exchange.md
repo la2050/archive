@@ -31,9 +31,21 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102094'
+challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'
+aggregated:
+  project_ids:
+    - '8102094'
+    - '4102260'
+    - '3102216'
+  challenge_url:
+    - 'https://activation.la2050.org/live/peer-health-exchange/'
+    - 'http://maker.good.is/myla2050/projects/peerhealthexchange.html'
+  year_submitted:
+    - '2018'
+    - '2014'
+    - '2013'
 title: Peer Health Exchange
 uri: /organizations/peer-health-exchange/
-challenge_url: 'https://activation.la2050.org/live/peer-health-exchange/'
 extrapolated_project_ids:
   - '3102216'
 project_titles_from_extrapolated_project_ids:

@@ -26,10 +26,18 @@ areas_impacted:
   - San Gabriel Valley
   - 'California State University, Los Angeles'
 project_ids: '6102007'
-title: Anna Bing Arnold Children's Center
-uri: /organizations/anna-bing-arnold-childrens-center/
 challenge_url: >-
   https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
+aggregated:
+  project_ids:
+    - '6102007'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
+  year_submitted:
+    - '2016'
+title: Anna Bing Arnold Children's Center
+uri: /organizations/anna-bing-arnold-childrens-center/
 extrapolated_project_ids:
   - '6102007'
 project_titles_from_extrapolated_project_ids:

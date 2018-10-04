@@ -22,9 +22,14 @@ project_video: ''
 org_summary: We cater intimate events using fresh ingredients and simple recipes.
 areas_impacted: ''
 project_ids: ''
+challenge_url: ''
+aggregated:
+  project_ids: []
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Brown Paper LA
 uri: /organizations/brown-paper-la/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

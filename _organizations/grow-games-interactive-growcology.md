@@ -26,9 +26,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '5102147'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
+aggregated:
+  project_ids:
+    - '5102147'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/seeds.html'
+  year_submitted:
+    - '2014'
 title: 'Grow Games Interactive, Growcology'
 uri: /organizations/grow-games-interactive-growcology/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/seeds.html'
 extrapolated_project_ids:
   - '4102089'
 project_titles_from_extrapolated_project_ids:

@@ -36,9 +36,16 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102033'
+challenge_url: 'https://challenge.la2050.org/entry/la-votes'
+aggregated:
+  project_ids:
+    - '6102033'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/la-votes'
+  year_submitted:
+    - '2016'
 title: Center for the Study of Los Angeles
 uri: /organizations/center-for-the-study-of-los-angeles/
-challenge_url: 'https://challenge.la2050.org/entry/la-votes'
 extrapolated_project_ids:
   - '6102033'
 project_titles_from_extrapolated_project_ids:

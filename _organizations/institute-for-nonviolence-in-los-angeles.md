@@ -27,9 +27,16 @@ org_summary: >-
   undergraduates have been trained as a result of that class.
 areas_impacted: ''
 project_ids: '3102157'
+challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+aggregated:
+  project_ids:
+    - '3102157'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/conflictresolution.html'
+  year_submitted:
+    - '2013'
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050/projects/conflictresolution.html'
 extrapolated_project_ids:
   - '3102157'
 project_titles_from_extrapolated_project_ids:

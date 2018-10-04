@@ -29,9 +29,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102056'
+challenge_url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
+aggregated:
+  project_ids:
+    - '8102056'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
+  year_submitted:
+    - '2018'
 title: Justice LA | Dignity and Power Now
 uri: /organizations/justice-la-dignity-and-power-now/
-challenge_url: 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

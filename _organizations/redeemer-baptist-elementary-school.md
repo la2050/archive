@@ -23,9 +23,16 @@ org_summary: >-
   enhance student learning.
 areas_impacted: Westside
 project_ids: '5102250'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
+aggregated:
+  project_ids:
+    - '5102250'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
+  year_submitted:
+    - '2015'
 title: Redeemer Baptist Elementary School
 uri: /organizations/redeemer-baptist-elementary-school/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
 extrapolated_project_ids:
   - '5102250'
 project_titles_from_extrapolated_project_ids:

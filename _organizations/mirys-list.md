@@ -27,9 +27,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102083'
+challenge_url: 'https://activation.la2050.org/connect/mirys-list/'
+aggregated:
+  project_ids:
+    - '8102083'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/mirys-list/'
+  year_submitted:
+    - '2018'
 title: Miry’s List
 uri: /organizations/mirys-list/
-challenge_url: 'https://activation.la2050.org/connect/mirys-list/'
 extrapolated_project_ids:
   - '8102083'
 project_titles_from_extrapolated_project_ids:

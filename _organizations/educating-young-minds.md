@@ -71,9 +71,16 @@ org_summary: >-
    Needless to say, not only did I pass my Trigonometry class, I became one of the first students to receive a scholarship from EYM in 1999 and graduated from USC with honors in 2003. In 2007, I graduated with a Masters Degree in Counseling- Marriage & Family Child Therapy. Today I am a very humble and proud wife and mother, who is employed with the Los Angeles County Probation Department as a Deputy Probation Officer II. Last year I co-founded my own non-profit organization, "Enriching Communities", to be an advocate for inner city youth suffering from substance abuse.
 areas_impacted: ''
 project_ids: '3102118'
+challenge_url: 'http://maker.good.is/myla2050/projects/access.html'
+aggregated:
+  project_ids:
+    - '3102118'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/access.html'
+  year_submitted:
+    - '2013'
 title: Educating Young Minds
 uri: /organizations/educating-young-minds/
-challenge_url: 'http://maker.good.is/myla2050/projects/access.html'
 extrapolated_project_ids:
   - '3102118'
 project_titles_from_extrapolated_project_ids:

@@ -27,9 +27,16 @@ org_summary: >-
 areas_impacted:
   - 'long beach, ca'
 project_ids: '8102138'
+challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
+aggregated:
+  project_ids:
+    - '8102138'
+  challenge_url:
+    - 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
+  year_submitted:
+    - '2018'
 title: World Famous VIP Records LLC
 uri: /organizations/world-famous-vip-records-llc/
-challenge_url: 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -22,10 +22,17 @@ org_summary: >-
   exhibitions, education, community outreach and beautification.
 areas_impacted: 'Central LA,East LA,South LA,Westside'
 project_ids: '4102089'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
+aggregated:
+  project_ids:
+    - '4102089'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
+  year_submitted:
+    - '2014'
 title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 uri: >-
   /organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
 extrapolated_project_ids:
   - '4102212'
 project_titles_from_extrapolated_project_ids:

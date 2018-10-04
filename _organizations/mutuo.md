@@ -28,9 +28,15 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/live/mutuo/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'https://activation.la2050.org/live/mutuo/'
+  year_submitted:
+    - '2018'
 title: Mutuo
 uri: /organizations/mutuo/
-challenge_url: 'https://activation.la2050.org/live/mutuo/'
 extrapolated_project_ids:
   - '8102086'
 project_titles_from_extrapolated_project_ids:

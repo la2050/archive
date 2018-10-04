@@ -33,9 +33,16 @@ org_summary: >-
   their lives.
 areas_impacted: ''
 project_ids: '3102156'
+challenge_url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+aggregated:
+  project_ids:
+    - '3102156'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/MindfulLA.html'
+  year_submitted:
+    - '2013'
 title: InsightLA
 uri: /organizations/insightla/
-challenge_url: 'http://maker.good.is/myla2050/projects/MindfulLA.html'
 extrapolated_project_ids:
   - '3102156'
 project_titles_from_extrapolated_project_ids:

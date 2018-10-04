@@ -28,12 +28,22 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102002'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
+aggregated:
+  project_ids:
+    - '4102002'
+    - '3102013'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
+    - 'http://maker.good.is/myla2050/projects/lagreenteensummit.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: >-
   Alliance for Community Transit - Los Angeles (Fiscal Sponsor LTSC Community
   Development Corporation)
 uri: >-
   /organizations/alliance-for-community-transit-los-angeles-fiscal-sponsor-ltsc-community-development-corporation/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/ConnectingVoices.html'
 extrapolated_project_ids:
   - '4102005'
 project_titles_from_extrapolated_project_ids:

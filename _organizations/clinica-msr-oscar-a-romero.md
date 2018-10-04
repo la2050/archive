@@ -24,9 +24,16 @@ org_summary: >-
   Angeles.
 areas_impacted: ''
 project_ids: '5102068'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
+aggregated:
+  project_ids:
+    - '5102068'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
+  year_submitted:
+    - '2015'
 title: Clinica Msr. Oscar A. Romero
 uri: /organizations/clinica-msr-oscar-a-romero/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
 extrapolated_project_ids:
   - '5102068'
 project_titles_from_extrapolated_project_ids:

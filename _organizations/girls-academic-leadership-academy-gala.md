@@ -26,9 +26,20 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: '8102045'
+challenge_url: 'https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/'
+aggregated:
+  project_ids:
+    - '8102045'
+    - '5102110'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/
+    - 'http://maker.good.is/myla2050learn2015/projects/GALA2015.html'
+  year_submitted:
+    - '2018'
+    - '2015'
 title: Girls Academic Leadership Academy (GALA)
 uri: /organizations/girls-academic-leadership-academy-gala/
-challenge_url: 'https://activation.la2050.org/learn/girls-academic-leadership-academy-gala/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

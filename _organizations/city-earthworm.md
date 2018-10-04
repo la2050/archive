@@ -38,9 +38,16 @@ org_summary: >-
    City Earthworm realizes that, while it would be great to allow more people to compost at home, there will also be some people who do not want to or are unable to do so. The easiest way to truly popularize composting is to make it easy for people. Therefore, we started offering a food service pick-up program to apartment dwellers in Santa Monica. We now hope to expand our service to the entire Los Angeles County.
 areas_impacted: ''
 project_ids: '3102010'
+challenge_url: 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+aggregated:
+  project_ids:
+    - '3102010'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/cityearthworm.html'
+  year_submitted:
+    - '2013'
 title: City Earthworm
 uri: /organizations/city-earthworm/
-challenge_url: 'http://maker.good.is/myla2050/projects/cityearthworm.html'
 extrapolated_project_ids:
   - '3102010'
 project_titles_from_extrapolated_project_ids:

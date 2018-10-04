@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: '6102280'
-title: Westside Urban Forum
-uri: /organizations/westside-urban-forum/
 challenge_url: >-
   https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
+aggregated:
+  project_ids:
+    - '6102280'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
+  year_submitted:
+    - '2016'
+title: Westside Urban Forum
+uri: /organizations/westside-urban-forum/
 extrapolated_project_ids:
   - '6102280'
 project_titles_from_extrapolated_project_ids:

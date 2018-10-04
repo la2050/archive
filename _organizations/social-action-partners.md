@@ -22,9 +22,16 @@ org_summary: >-
   strategic partnership and local ownership of capacity building.
 areas_impacted: South LA
 project_ids: '4102083'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
+aggregated:
+  project_ids:
+    - '4102083'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
+  year_submitted:
+    - '2014'
 title: Social Action Partners
 uri: /organizations/social-action-partners/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
 extrapolated_project_ids:
   - '4102193'
 project_titles_from_extrapolated_project_ids:

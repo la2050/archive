@@ -28,9 +28,16 @@ org_summary: >-
   positive sustainable ways.
 areas_impacted: ''
 project_ids: '3102077'
+challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'
+aggregated:
+  project_ids:
+    - '3102077'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/mloveizm.html'
+  year_submitted:
+    - '2013'
 title: MLoveizm Inc.
 uri: /organizations/mloveizm-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/mloveizm.html'
 extrapolated_project_ids:
   - '3102077'
 project_titles_from_extrapolated_project_ids:

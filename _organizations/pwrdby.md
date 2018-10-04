@@ -25,9 +25,15 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
+  year_submitted:
+    - '2014'
 title: PwrdBy
 uri: /organizations/pwrdby/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
 extrapolated_project_ids:
   - '4102178'
 project_titles_from_extrapolated_project_ids:

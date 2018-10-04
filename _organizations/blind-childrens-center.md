@@ -25,9 +25,16 @@ org_summary: >-
   inclusive, family-focused setting.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102030'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
+aggregated:
+  project_ids:
+    - '5102030'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
+  year_submitted:
+    - '2015'
 title: Blind Children's Center
 uri: /organizations/blind-childrens-center/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
 extrapolated_project_ids:
   - '5102030'
 project_titles_from_extrapolated_project_ids:

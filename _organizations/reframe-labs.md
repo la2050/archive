@@ -24,9 +24,16 @@ org_summary: >-
   generation school models in Los Angeles.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
 project_ids: '5102251'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
+aggregated:
+  project_ids:
+    - '5102251'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
+  year_submitted:
+    - '2015'
 title: Reframe Labs
 uri: /organizations/reframe-labs/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
 extrapolated_project_ids:
   - '5102251'
 project_titles_from_extrapolated_project_ids:

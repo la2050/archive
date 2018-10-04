@@ -18,9 +18,18 @@ org_summary: >-
   sexual violence and prevention programs for youth & LA community
 areas_impacted: ''
 project_ids: '4102159'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102159'
+    - '3102215'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/POV.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Peace Over Violence
 uri: /organizations/peace-over-violence/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102164'
   - '3102215'

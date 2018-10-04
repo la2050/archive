@@ -46,9 +46,16 @@ org_summary: >-
    </p>
 areas_impacted: ''
 project_ids: '3102046'
+challenge_url: 'http://maker.good.is/myla2050/projects/evolvela.html'
+aggregated:
+  project_ids:
+    - '3102046'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/evolvela.html'
+  year_submitted:
+    - '2013'
 title: FLARB LLC
 uri: /organizations/flarb-llc/
-challenge_url: 'http://maker.good.is/myla2050/projects/evolvela.html'
 extrapolated_project_ids:
   - '3102046'
 project_titles_from_extrapolated_project_ids:

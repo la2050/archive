@@ -26,10 +26,21 @@ areas_impacted:
   - Westside
   - City of Los Angeles
 project_ids: '6102183'
-title: PIECES
-uri: /organizations/pieces/
 challenge_url: >-
   https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
+aggregated:
+  project_ids:
+    - '6102183'
+    - '5102236'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/continue-to-empower-young-adults-in-l-a-through-the-visual-and-performing-arts
+    - 'http://maker.good.is/myla2050create2015/projects/PIECES.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: PIECES
+uri: /organizations/pieces/
 extrapolated_project_ids:
   - '6102183'
   - '5102236'

@@ -18,9 +18,18 @@ org_summary: >-
   financial and public health consequences of gun violence.
 areas_impacted: ''
 project_ids: '4102186'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102186'
+    - '3102274'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/SLAM.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Women Against Gun Violence
 uri: /organizations/women-against-gun-violence/
-challenge_url: ''
 extrapolated_project_ids:
   - '3102274'
 project_titles_from_extrapolated_project_ids:

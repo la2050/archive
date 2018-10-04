@@ -23,9 +23,15 @@ org_summary: >-
   energy, and climate change.
 areas_impacted: ''
 project_ids: '4102113'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102113'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Arid Lands Institute
 uri: /organizations/arid-lands-institute/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

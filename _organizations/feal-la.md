@@ -24,9 +24,16 @@ org_summary: >-
   physical space where L.A. artists can come to collaborate.
 areas_impacted: East LA
 project_ids: '8102082'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
+aggregated:
+  project_ids:
+    - '8102082'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
+  year_submitted:
+    - '2015'
 title: FEAL.LA
 uri: /organizations/feal-la/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
 extrapolated_project_ids:
   - '5102101'
 project_titles_from_extrapolated_project_ids:

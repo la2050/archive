@@ -19,9 +19,18 @@ org_summary: >-
   voices of young adults on core economic issues.
 areas_impacted: ''
 project_ids: '4102189'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102189'
+    - '3102276'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/YI_Care.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Young Invincibles
 uri: /organizations/young-invincibles/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102264'
   - '3102276'

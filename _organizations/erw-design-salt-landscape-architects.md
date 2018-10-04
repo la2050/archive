@@ -47,9 +47,16 @@ org_summary: >-
    Both SALT and ERW Design continue to seek unique opportunities to work closely with local constituencies to develop innovative approaches to remaking Los Angeles incrementally more humane and sustainable.
 areas_impacted: ''
 project_ids: '3102036'
+challenge_url: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
+aggregated:
+  project_ids:
+    - '3102036'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
+  year_submitted:
+    - '2013'
 title: ERW DESIGN + SALT Landscape Architects
 uri: /organizations/erw-design-salt-landscape-architects/
-challenge_url: 'http://maker.good.is/myla2050/projects/Park-in-a-Box.html'
 extrapolated_project_ids:
   - '3102036'
 project_titles_from_extrapolated_project_ids:

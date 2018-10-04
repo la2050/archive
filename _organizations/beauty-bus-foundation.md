@@ -22,9 +22,16 @@ org_summary: >-
   individuals and their caregivers.
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,South Bay,Westside'
 project_ids: '4102015'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
+aggregated:
+  project_ids:
+    - '4102015'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
+  year_submitted:
+    - '2014'
 title: Beauty Bus Foundation
 uri: /organizations/beauty-bus-foundation/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
 extrapolated_project_ids:
   - '4102022'
 project_titles_from_extrapolated_project_ids:

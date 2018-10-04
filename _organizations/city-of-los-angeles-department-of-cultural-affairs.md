@@ -46,9 +46,16 @@ org_summary: >-
    <p>The LA Fund, recently launched “Arts Matter,” an unprecedented campaign to revitalize arts education in LAUSD. Developed to drive public awareness for the critical role of arts education in public schools, the campaign includes leading contemporary artists, including Barbara Kruger and John Baldessari, as well as LA entertainment, civic, and education leaders.</p>
 areas_impacted: ''
 project_ids: '3102067'
+challenge_url: 'http://maker.good.is/myla2050/projects/LACreates.html'
+aggregated:
+  project_ids:
+    - '3102067'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LACreates.html'
+  year_submitted:
+    - '2013'
 title: City of Los Angeles Department of Cultural Affairs
 uri: /organizations/city-of-los-angeles-department-of-cultural-affairs/
-challenge_url: 'http://maker.good.is/myla2050/projects/LACreates.html'
 extrapolated_project_ids:
   - '3102067'
 project_titles_from_extrapolated_project_ids:

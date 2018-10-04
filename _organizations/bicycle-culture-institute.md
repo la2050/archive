@@ -22,9 +22,22 @@ org_summary: 'We make bicycling awesome through events, programs and social inno
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102016'
+challenge_url: 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
+aggregated:
+  project_ids:
+    - '6102016'
+    - '6102015'
+    - '4102220'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
+    - 'https://challenge.la2050.org/entry/la-bike-fest'
+    - 'http://maker.good.is/myLA2050create/projects/R5Y7BiciDestino.html'
+  year_submitted:
+    - '2016'
+    - '2016'
+    - '2014'
 title: Bicycle Culture Institute
 uri: /organizations/bicycle-culture-institute/
-challenge_url: 'https://challenge.la2050.org/entry/la-bike-trains-app-wayfinding-signage'
 extrapolated_project_ids:
   - '6102015'
   - '6102016'

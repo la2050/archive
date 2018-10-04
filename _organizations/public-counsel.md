@@ -66,9 +66,16 @@ org_summary: >-
    Public Counsel is providing legal advocacy to preserve a 400-bed homeless shelter that is at risk of being shut down or forced to relocate by the 710 freeway expansion.
 areas_impacted: ''
 project_ids: '3102223'
+challenge_url: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
+aggregated:
+  project_ids:
+    - '3102223'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
+  year_submitted:
+    - '2013'
 title: Public Counsel
 uri: /organizations/public-counsel/
-challenge_url: 'http://maker.good.is/myla2050/projects/PublicCounsel.html'
 extrapolated_project_ids:
   - '3102223'
 project_titles_from_extrapolated_project_ids:

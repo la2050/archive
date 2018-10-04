@@ -28,9 +28,16 @@ areas_impacted:
   - South Bay
   - Antelope Valley
 project_ids: '8102009'
+challenge_url: 'https://activation.la2050.org/live/black-women-for-wellness/'
+aggregated:
+  project_ids:
+    - '8102009'
+  challenge_url:
+    - 'https://activation.la2050.org/live/black-women-for-wellness/'
+  year_submitted:
+    - '2018'
 title: Black Women for Wellness
 uri: /organizations/black-women-for-wellness/
-challenge_url: 'https://activation.la2050.org/live/black-women-for-wellness/'
 extrapolated_project_ids:
   - '8102009'
 project_titles_from_extrapolated_project_ids:

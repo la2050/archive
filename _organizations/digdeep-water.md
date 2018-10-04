@@ -28,10 +28,20 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102060'
-title: DIGDEEP Water
-uri: /organizations/digdeep-water/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water
+aggregated:
+  project_ids:
+    - '6102060'
+    - '4102225'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-4liters-pop-up-experience-los-angeles-middle-schoolers-learn-to-love-conserve-their-water
+  year_submitted:
+    - '2016'
+    - '2014'
+title: DIGDEEP Water
+uri: /organizations/digdeep-water/
 extrapolated_project_ids:
   - '6102060'
   - '4102054'

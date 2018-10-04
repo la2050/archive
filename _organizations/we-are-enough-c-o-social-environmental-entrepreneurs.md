@@ -28,10 +28,18 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102136'
-title: We Are Enough c/o Social & Environmental Entrepreneurs
-uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
 challenge_url: >-
   https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
+aggregated:
+  project_ids:
+    - '8102136'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
+  year_submitted:
+    - '2018'
+title: We Are Enough c/o Social & Environmental Entrepreneurs
+uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '6102106'
-title: International Trade Education Programs (ITEP)
-uri: /organizations/international-trade-education-programs-itep/
 challenge_url: >-
   https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
+aggregated:
+  project_ids:
+    - '6102106'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
+  year_submitted:
+    - '2016'
+title: International Trade Education Programs (ITEP)
+uri: /organizations/international-trade-education-programs-itep/
 extrapolated_project_ids:
   - '6102106'
 project_titles_from_extrapolated_project_ids:

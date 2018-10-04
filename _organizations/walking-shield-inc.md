@@ -40,9 +40,16 @@ org_summary: >-
    <p>An emergency fund has been provided by the San Manuel Band of Mission Indians to assist these students in covering the costs of tuition rate increases, parking fees, books and tutoring. The goal is to elevate the heavy financial burden of higher education in order to allow students to fulfill their dreams of receiving a college degree. These services are making a difference in improving college graduation rates among the American Indian community in California and around the country. </p>
 areas_impacted: ''
 project_ids: '3102272'
+challenge_url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
+aggregated:
+  project_ids:
+    - '3102272'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
+  year_submitted:
+    - '2013'
 title: 'Walking Shield, Inc.'
 uri: /organizations/walking-shield-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/WALKINGSHIELD.html'
 extrapolated_project_ids:
   - '3102272'
 project_titles_from_extrapolated_project_ids:

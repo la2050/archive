@@ -24,10 +24,17 @@ org_summary: >-
   Grand Park.
 areas_impacted: Central LA
 project_ids: '5102234'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
+aggregated:
+  project_ids:
+    - '5102234'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
+  year_submitted:
+    - '2015'
 title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 uri: >-
   /organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
 extrapolated_project_ids:
   - '5102234'
 project_titles_from_extrapolated_project_ids:

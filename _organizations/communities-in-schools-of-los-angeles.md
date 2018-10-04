@@ -24,9 +24,19 @@ org_summary: >-
    Utopiad.org is builds environments that connect people, improve density and walkability, and encourage sustainability.
 areas_impacted: 'Central LA,East LA,South LA,Westside,LAUSD'
 project_ids: '5102075'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
+aggregated:
+  project_ids:
+    - '5102075'
+    - '3102085'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
+    - 'http://maker.good.is/myla2050/projects/cislosangeles.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Communities In Schools of Los Angeles
 uri: /organizations/communities-in-schools-of-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/cisofla.html'
 extrapolated_project_ids:
   - '3102085'
 project_titles_from_extrapolated_project_ids:

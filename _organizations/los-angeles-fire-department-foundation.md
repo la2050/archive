@@ -24,9 +24,16 @@ org_summary: >-
   resources.
 areas_impacted: 'City of Los Angeles (citywide),LAUSD'
 project_ids: '5102188'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
+aggregated:
+  project_ids:
+    - '5102188'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles Fire Department Foundation
 uri: /organizations/los-angeles-fire-department-foundation/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
 extrapolated_project_ids:
   - '5102188'
 project_titles_from_extrapolated_project_ids:

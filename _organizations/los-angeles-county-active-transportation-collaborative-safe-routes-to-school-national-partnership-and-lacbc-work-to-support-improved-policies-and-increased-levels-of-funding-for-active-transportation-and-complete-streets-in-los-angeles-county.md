@@ -26,6 +26,13 @@ org_summary: >-
   increased funding for walking, biking and complete streets.
 areas_impacted: ''
 project_ids: '4102148'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102148'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: >-
   Los Angeles County Active Transportation Collaborative (Safe Routes to School
   National Partnership and LACBC) work to support improved policies and
@@ -33,7 +40,6 @@ title: >-
   Los Angeles County.
 uri: >-
   /organizations/los-angeles-county-active-transportation-collaborative-safe-routes-to-school-national-partnership-and-lacbc-work-to-support-improved-policies-and-increased-levels-of-funding-for-active-transportation-and-complete-streets-in-los-angeles-county/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

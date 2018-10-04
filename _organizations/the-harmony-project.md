@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102243'
-title: The Harmony Project
-uri: /organizations/the-harmony-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
+aggregated:
+  project_ids:
+    - '6102243'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
+  year_submitted:
+    - '2016'
+title: The Harmony Project
+uri: /organizations/the-harmony-project/
 extrapolated_project_ids:
   - '6102243'
 project_titles_from_extrapolated_project_ids:

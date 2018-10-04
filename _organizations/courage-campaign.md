@@ -61,9 +61,16 @@ org_summary: >-
   providing important revenue for vital services and education.</p>
 areas_impacted: ''
 project_ids: '3102094'
+challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
+aggregated:
+  project_ids:
+    - '3102094'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
+  year_submitted:
+    - '2013'
 title: Courage Campaign
 uri: /organizations/courage-campaign/
-challenge_url: 'http://maker.good.is/myla2050/projects/VoterParticipation.html'
 extrapolated_project_ids:
   - '3102094'
 project_titles_from_extrapolated_project_ids:

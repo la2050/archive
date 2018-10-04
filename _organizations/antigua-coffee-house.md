@@ -44,9 +44,16 @@ org_summary: |-
    And many more to come in the future.....
 areas_impacted: ''
 project_ids: '3102005'
+challenge_url: 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
+aggregated:
+  project_ids:
+    - '3102005'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
+  year_submitted:
+    - '2013'
 title: Antigua Coffee House
 uri: /organizations/antigua-coffee-house/
-challenge_url: 'http://maker.good.is/myla2050/projects/Tunnel-Art-Walk.html'
 extrapolated_project_ids:
   - '3102005'
 project_titles_from_extrapolated_project_ids:

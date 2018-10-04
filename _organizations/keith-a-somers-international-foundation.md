@@ -24,9 +24,16 @@ org_summary: >-
   community.
 areas_impacted: 'Westside,County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102159'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
+aggregated:
+  project_ids:
+    - '5102159'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
+  year_submitted:
+    - '2015'
 title: Keith A. Somers International Foundation
 uri: /organizations/keith-a-somers-international-foundation/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
 extrapolated_project_ids:
   - '5102159'
 project_titles_from_extrapolated_project_ids:

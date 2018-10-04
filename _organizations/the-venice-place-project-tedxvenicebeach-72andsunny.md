@@ -24,9 +24,16 @@ org_summary: >-
   space.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102314'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
+aggregated:
+  project_ids:
+    - '5102314'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
+  year_submitted:
+    - '2015'
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 uri: /organizations/the-venice-place-project-tedxvenicebeach-72andsunny/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
 extrapolated_project_ids:
   - '5102314'
 project_titles_from_extrapolated_project_ids:

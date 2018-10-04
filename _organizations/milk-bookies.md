@@ -29,10 +29,23 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102155'
-title: Milk + Bookies
-uri: /organizations/milk-bookies/
 challenge_url: >-
   https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
+aggregated:
+  project_ids:
+    - '6102155'
+    - '5102208'
+    - '4102234'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/leaders-readers-growing-school-libraries-and-minds-one-book-at-a-time
+    - 'http://maker.good.is/myla2050learn2015/projects/LeadersandReaders.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: Milk + Bookies
+uri: /organizations/milk-bookies/
 extrapolated_project_ids:
   - '6102155'
   - '5102208'

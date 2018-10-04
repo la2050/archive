@@ -26,9 +26,16 @@ areas_impacted:
   - County of Los Angeles
   - City of West Hollywood
 project_ids: '6102039'
+challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
+aggregated:
+  project_ids:
+    - '6102039'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
+  year_submitted:
+    - '2016'
 title: City of West Hollywood
 uri: /organizations/city-of-west-hollywood/
-challenge_url: 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
 extrapolated_project_ids:
   - '6102039'
 project_titles_from_extrapolated_project_ids:

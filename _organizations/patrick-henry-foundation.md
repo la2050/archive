@@ -26,10 +26,21 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '6102176'
-title: Patrick Henry Foundation
-uri: /organizations/patrick-henry-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
+aggregated:
+  project_ids:
+    - '6102176'
+    - '5102231'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-bilingual-scientists-engineers-mathematicians-and-innovators-semi-program
+    - 'http://maker.good.is/myla2050learn2015/projects/dualimmersion.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Patrick Henry Foundation
+uri: /organizations/patrick-henry-foundation/
 extrapolated_project_ids:
   - '6102176'
   - '5102231'

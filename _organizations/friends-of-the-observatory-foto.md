@@ -22,9 +22,15 @@ org_summary: >-
   programs at Griffith Observatory.
 areas_impacted: ''
 project_ids: '4102128'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102128'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Friends Of The Observatory (FOTO)
 uri: /organizations/friends-of-the-observatory-foto/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102077'
 project_titles_from_extrapolated_project_ids:

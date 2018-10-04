@@ -35,10 +35,21 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102242'
-title: Tech LA Cares
-uri: /organizations/tech-la-cares/
 challenge_url: >-
   https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
+aggregated:
+  project_ids:
+    - '6102242'
+    - '8102119'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connecting-la-tech-companies-with-area-stem-organizations
+    - 'http://maker.good.is/myla2050connect2015/projects/techlacares.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Tech LA Cares
+uri: /organizations/tech-la-cares/
 extrapolated_project_ids:
   - '6102242'
   - '5102292'

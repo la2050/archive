@@ -82,9 +82,16 @@ org_summary: >-
    <p>In October of 2011, we opened as a private, profit-seeking business.</p>
 areas_impacted: ''
 project_ids: '3102119'
+challenge_url: 'http://maker.good.is/myla2050/projects/morelearning.html'
+aggregated:
+  project_ids:
+    - '3102119'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/morelearning.html'
+  year_submitted:
+    - '2013'
 title: Education Consortium of Central Los Angeles / Project LESS
 uri: /organizations/education-consortium-of-central-los-angeles-project-less/
-challenge_url: 'http://maker.good.is/myla2050/projects/morelearning.html'
 extrapolated_project_ids:
   - '3102119'
 project_titles_from_extrapolated_project_ids:

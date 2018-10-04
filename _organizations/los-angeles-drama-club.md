@@ -21,9 +21,15 @@ org_summary: >-
   an arts community, while improving their literacy skills.
 areas_impacted: ''
 project_ids: '4102151'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102151'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Los Angeles Drama Club
 uri: /organizations/los-angeles-drama-club/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102130'
 project_titles_from_extrapolated_project_ids:

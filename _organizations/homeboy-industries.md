@@ -32,9 +32,23 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102053'
+challenge_url: 'https://activation.la2050.org/connect/homeboy-industries/'
+aggregated:
+  project_ids:
+    - '8102053'
+    - '6102095'
+    - '3102149'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/homeboy-industries/'
+    - >-
+      https://challenge.la2050.org/entry/global-homeboy-network-connecting-through-kinship
+    - 'http://maker.good.is/myla2050/projects/homeboyindustries.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2013'
 title: Homeboy Industries
 uri: /organizations/homeboy-industries/
-challenge_url: 'https://activation.la2050.org/connect/homeboy-industries/'
 extrapolated_project_ids:
   - '8102053'
   - '6102095'

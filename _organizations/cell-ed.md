@@ -23,9 +23,15 @@ org_summary: >-
   and service.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
+  year_submitted:
+    - '2015'
 title: Cell-Ed
 uri: /organizations/cell-ed/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
 extrapolated_project_ids:
   - '5102046'
 project_titles_from_extrapolated_project_ids:

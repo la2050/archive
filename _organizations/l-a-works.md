@@ -27,10 +27,21 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102118'
-title: L.A. Works
-uri: /organizations/l-a-works/
 challenge_url: >-
   https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
+aggregated:
+  project_ids:
+    - '6102118'
+    - '5102165'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/musicworks-connecting-music-industry-pros-to-underserved-kids-for-social-transformation
+    - 'http://maker.good.is/myla2050connect2015/projects/LAWorks.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: L.A. Works
+uri: /organizations/l-a-works/
 extrapolated_project_ids:
   - '6102118'
   - '5102165'

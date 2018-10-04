@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102117'
-title: L.A. Theatre Works
-uri: /organizations/l-a-theatre-works/
 challenge_url: >-
   https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
+aggregated:
+  project_ids:
+    - '6102117'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
+  year_submitted:
+    - '2016'
+title: L.A. Theatre Works
+uri: /organizations/l-a-theatre-works/
 extrapolated_project_ids:
   - '6102117'
 project_titles_from_extrapolated_project_ids:

@@ -24,9 +24,16 @@ org_summary: >-
   formerly incarcerated to reintegrate by growing food in & for LA.
 areas_impacted: 'Central LA,East LA,South LA'
 project_ids: '4102006'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
+aggregated:
+  project_ids:
+    - '4102006'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
+  year_submitted:
+    - '2014'
 title: Alma Backyard Farms
 uri: /organizations/alma-backyard-farms/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
 extrapolated_project_ids:
   - '4102006'
 project_titles_from_extrapolated_project_ids:

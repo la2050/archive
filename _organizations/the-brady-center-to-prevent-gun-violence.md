@@ -32,9 +32,17 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102117'
+challenge_url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
+aggregated:
+  project_ids:
+    - '8102117'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/
+  year_submitted:
+    - '2018'
 title: The Brady Center to Prevent Gun Violence
 uri: /organizations/the-brady-center-to-prevent-gun-violence/
-challenge_url: 'https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/'
 extrapolated_project_ids:
   - '8102117'
 project_titles_from_extrapolated_project_ids:

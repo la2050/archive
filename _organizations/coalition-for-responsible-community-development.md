@@ -29,10 +29,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102044'
-title: Coalition for Responsible Community Development
-uri: /organizations/coalition-for-responsible-community-development/
 challenge_url: >-
   https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
+aggregated:
+  project_ids:
+    - '6102044'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
+  year_submitted:
+    - '2016'
+title: Coalition for Responsible Community Development
+uri: /organizations/coalition-for-responsible-community-development/
 extrapolated_project_ids:
   - '6102044'
 project_titles_from_extrapolated_project_ids:

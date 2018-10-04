@@ -61,12 +61,19 @@ org_summary: |-
    * Worked with youth and policy experts to craft a community development policy described as "A Model of LA Planning," which will set strong environmental and equity protections for local residents
 areas_impacted: ''
 project_ids: '3102236'
+challenge_url: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
+aggregated:
+  project_ids:
+    - '3102236'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
+  year_submitted:
+    - '2013'
 title: >-
   Special Service for Groups/Asian and Pacific Islander Obesity Prevention
   Alliance (APIOPA)
 uri: >-
   /organizations/special-service-for-groups-asian-and-pacific-islander-obesity-prevention-alliance-apiopa/
-challenge_url: 'http://maker.good.is/myla2050/projects/ChinatownFoodHub.html'
 extrapolated_project_ids:
   - '3102236'
 project_titles_from_extrapolated_project_ids:

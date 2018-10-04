@@ -31,9 +31,16 @@ org_summary: >-
   year.
 areas_impacted: ''
 project_ids: '3102263'
+challenge_url: 'http://maker.good.is/myla2050/projects/Clark.html'
+aggregated:
+  project_ids:
+    - '3102263'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Clark.html'
+  year_submitted:
+    - '2013'
 title: UCLA William Andrews Clark Memorial Library
 uri: /organizations/ucla-william-andrews-clark-memorial-library/
-challenge_url: 'http://maker.good.is/myla2050/projects/Clark.html'
 extrapolated_project_ids:
   - '3102263'
 project_titles_from_extrapolated_project_ids:

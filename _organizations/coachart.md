@@ -35,10 +35,21 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102043'
-title: CoachArt
-uri: /organizations/coachart/
 challenge_url: >-
   https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
+aggregated:
+  project_ids:
+    - '6102043'
+    - '5102070'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/coachart-matching-platform-revolutionizing-volunteerism-in-la-for-those-in-need-through-technology
+    - 'http://maker.good.is/myla2050connect2015/projects/COACHARTMATCHINGAPP.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: CoachArt
+uri: /organizations/coachart/
 extrapolated_project_ids:
   - '6102043'
   - '5102070'

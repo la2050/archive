@@ -21,9 +21,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102060'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
+aggregated:
+  project_ids:
+    - '4102060'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
+  year_submitted:
+    - '2014'
 title: Mobile Film Classroom
 uri: /organizations/mobile-film-classroom/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
 extrapolated_project_ids:
   - '4102148'
 project_titles_from_extrapolated_project_ids:

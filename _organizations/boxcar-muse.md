@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102085'
-title: boxcar+muse
-uri: /organizations/boxcar-muse/
 challenge_url: >-
   https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
+aggregated:
+  project_ids:
+    - '6102085'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
+  year_submitted:
+    - '2016'
+title: boxcar+muse
+uri: /organizations/boxcar-muse/
 extrapolated_project_ids:
   - '6102085'
 project_titles_from_extrapolated_project_ids:

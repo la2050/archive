@@ -24,9 +24,15 @@ areas_impacted: >-
   San Fernando Valley,South LA,County of Los Angeles (countywide),City of Los
   Angeles (citywide)
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
+  year_submitted:
+    - '2015'
 title: Tempest Action Parks
 uri: /organizations/tempest-action-parks/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
 extrapolated_project_ids:
   - '5102293'
 project_titles_from_extrapolated_project_ids:

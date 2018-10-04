@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102063'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
+aggregated:
+  project_ids:
+    - '4102063'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
+  year_submitted:
+    - '2014'
 title: NewFilmmakers Los Angeles
 uri: /organizations/newfilmmakers-los-angeles/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
 extrapolated_project_ids:
   - '4102157'
 project_titles_from_extrapolated_project_ids:

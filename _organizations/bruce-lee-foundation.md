@@ -23,9 +23,16 @@ org_summary: >-
   his message as a personal call to action.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102036'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
+aggregated:
+  project_ids:
+    - '5102036'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
+  year_submitted:
+    - '2015'
 title: Bruce Lee Foundation
 uri: /organizations/bruce-lee-foundation/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
 extrapolated_project_ids:
   - '5102036'
 project_titles_from_extrapolated_project_ids:

@@ -22,9 +22,16 @@ org_summary: ANDesign Lab is a full-fledged industrial design firm.
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102076'
+challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
+aggregated:
+  project_ids:
+    - '6102076'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
+  year_submitted:
+    - '2016'
 title: ANDesign Lab
 uri: /organizations/andesign-lab/
-challenge_url: 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
 extrapolated_project_ids:
   - '6102076'
 project_titles_from_extrapolated_project_ids:

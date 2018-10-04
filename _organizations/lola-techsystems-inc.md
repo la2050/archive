@@ -31,9 +31,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102105'
+challenge_url: 'https://activation.la2050.org/learn/lola-techsystems-inc/'
+aggregated:
+  project_ids:
+    - '8102105'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/lola-techsystems-inc/'
+  year_submitted:
+    - '2018'
 title: 'Lola Techsystems, Inc.'
 uri: /organizations/lola-techsystems-inc/
-challenge_url: 'https://activation.la2050.org/learn/lola-techsystems-inc/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

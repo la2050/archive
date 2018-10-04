@@ -25,9 +25,16 @@ org_summary: >-
   creativity, community, personal and academic growth.
 areas_impacted: 'South LA,City of Los Angeles (citywide)'
 project_ids: '5102244'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
+aggregated:
+  project_ids:
+    - '5102244'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
+  year_submitted:
+    - '2015'
 title: Project MuszEd
 uri: /organizations/project-muszed/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
 extrapolated_project_ids:
   - '5102244'
 project_titles_from_extrapolated_project_ids:

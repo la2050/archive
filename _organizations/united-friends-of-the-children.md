@@ -25,9 +25,21 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102270'
+challenge_url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
+aggregated:
+  project_ids:
+    - '6102270'
+    - '5102332'
+    - '4102245'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
+    - 'http://maker.good.is/myla2050learn2015/projects/College4FosterYouth.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
 title: United Friends of the Children
 uri: /organizations/united-friends-of-the-children/
-challenge_url: 'https://challenge.la2050.org/entry/college-is-for-foster-youth!'
 extrapolated_project_ids:
   - '6102270'
   - '5102332'

@@ -26,9 +26,19 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102005'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
+aggregated:
+  project_ids:
+    - '4102005'
+    - '3102007'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
+    - 'http://maker.good.is/myla2050/projects/SafeStreetsinWatts.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Advancement Project California
 uri: /organizations/advancement-project-california/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/DisruptViolence.html'
 extrapolated_project_ids:
   - '4102003'
 project_titles_from_extrapolated_project_ids:

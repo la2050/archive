@@ -25,9 +25,16 @@ org_summary: >-
   relevant, and respectful.
 areas_impacted: South LA
 project_ids: '5102271'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
+aggregated:
+  project_ids:
+    - '5102271'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
+  year_submitted:
+    - '2015'
 title: Social Action Partners (SoACT)
 uri: /organizations/social-action-partners-soact/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
 extrapolated_project_ids:
   - '5102271'
 project_titles_from_extrapolated_project_ids:

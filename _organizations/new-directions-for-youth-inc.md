@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: '6102166'
-title: 'New Directions for Youth, Inc'
-uri: /organizations/new-directions-for-youth-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
+aggregated:
+  project_ids:
+    - '6102166'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
+  year_submitted:
+    - '2016'
+title: 'New Directions for Youth, Inc'
+uri: /organizations/new-directions-for-youth-inc/
 extrapolated_project_ids:
   - '6102166'
 project_titles_from_extrapolated_project_ids:

@@ -22,9 +22,16 @@ org_summary: >-
   about 3D printing, purchase 3D printers, 3D scanners, & 3D printed models.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '8102069'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
+aggregated:
+  project_ids:
+    - '8102069'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
+  year_submitted:
+    - '2015'
 title: EEZITEC
 uri: /organizations/eezitec/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
 extrapolated_project_ids:
   - '5102091'
 project_titles_from_extrapolated_project_ids:

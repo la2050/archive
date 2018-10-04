@@ -52,9 +52,19 @@ org_summary: >-
    Since its launch in May 2012, our transmedia, cultural journalism program, Artbound, has been named “Best Arts & Culture Site” at the 2012 LA Weekly Web Awards; has won a National Entertainment Journalism Award for “Best Documentary or Special Program, Short” from the Los Angeles Press Club; and has received two Golden Mike Awards from the Radio & Television News Association of Southern California.
 areas_impacted: ''
 project_ids: '3102163'
+challenge_url: 'http://maker.good.is/myla2050/projects/GroundGame.html'
+aggregated:
+  project_ids:
+    - '3102163'
+    - '3102163'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/GroundGame.html'
+    - 'http://maker.good.is/myla2050/projects/Artbound.html'
+  year_submitted:
+    - '2013'
+    - '2013'
 title: KCETLink
 uri: /organizations/kcetlink/
-challenge_url: 'http://maker.good.is/myla2050/projects/GroundGame.html'
 extrapolated_project_ids:
   - '3102163'
   - '3102164'

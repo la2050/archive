@@ -26,10 +26,24 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '8102098'
-title: Promesa Boyle Heights at Proyecto Pastoral
-uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
 challenge_url: >-
   https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
+aggregated:
+  project_ids:
+    - '8102098'
+    - '5102245'
+    - '4102261'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/promesa-boyle-heights-at-proyecto-pastoral/
+    - 'http://maker.good.is/myla2050learn2015/projects/PromesaBH.html'
+    - 'http://maker.good.is/myLA2050connect/projects/BoyleHeights.html'
+  year_submitted:
+    - '2018'
+    - '2015'
+    - '2014'
+title: Promesa Boyle Heights at Proyecto Pastoral
+uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
 extrapolated_project_ids:
   - '5102245'
   - '4102173'

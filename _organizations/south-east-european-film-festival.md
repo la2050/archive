@@ -22,9 +22,16 @@ org_summary: >-
   about and promoting cultural diversity of South East Europe.
 areas_impacted: 'Central LA,San Gabriel Valley,Westside'
 project_ids: '4102084'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
+aggregated:
+  project_ids:
+    - '4102084'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
+  year_submitted:
+    - '2014'
 title: South East European Film Festival
 uri: /organizations/south-east-european-film-festival/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
 extrapolated_project_ids:
   - '4102194'
 project_titles_from_extrapolated_project_ids:

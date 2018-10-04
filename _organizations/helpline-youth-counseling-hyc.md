@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - Gateway Cities
 project_ids: '6102090'
-title: Helpline Youth Counseling (HYC)
-uri: /organizations/helpline-youth-counseling-hyc/
 challenge_url: >-
   https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
+aggregated:
+  project_ids:
+    - '6102090'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
+  year_submitted:
+    - '2016'
+title: Helpline Youth Counseling (HYC)
+uri: /organizations/helpline-youth-counseling-hyc/
 extrapolated_project_ids:
   - '6102090'
 project_titles_from_extrapolated_project_ids:

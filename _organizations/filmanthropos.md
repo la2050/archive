@@ -26,9 +26,16 @@ org_summary: >-
   institutionalizing our pro-bono service offerings.
 areas_impacted: ''
 project_ids: '3102044'
+challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
+aggregated:
+  project_ids:
+    - '3102044'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/filmanthropos.html'
+  year_submitted:
+    - '2013'
 title: Filmanthropos
 uri: /organizations/filmanthropos/
-challenge_url: 'http://maker.good.is/myla2050/projects/filmanthropos.html'
 extrapolated_project_ids:
   - '3102044'
 project_titles_from_extrapolated_project_ids:

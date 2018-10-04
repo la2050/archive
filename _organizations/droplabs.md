@@ -25,9 +25,18 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
+aggregated:
+  project_ids:
+    - '3102031'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/droplabs.html'
+    - 'http://maker.good.is/myla2050/projects/Moebius5000.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Droplabs
 uri: /organizations/droplabs/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/droplabs.html'
 extrapolated_project_ids:
   - '4102058'
   - '3102031'

@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102149'
-title: Lucie Foundation
-uri: /organizations/lucie-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
+aggregated:
+  project_ids:
+    - '6102149'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/month-of-photography-los-angeles-creating-a-destination-photo-festival-to-connect-engage-inspire
+  year_submitted:
+    - '2016'
+title: Lucie Foundation
+uri: /organizations/lucie-foundation/
 extrapolated_project_ids:
   - '6102149'
 project_titles_from_extrapolated_project_ids:

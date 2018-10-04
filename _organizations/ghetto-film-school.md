@@ -25,9 +25,16 @@ org_summary: >-
   of great American storytellers.
 areas_impacted: Central LA
 project_ids: '4102041'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
+aggregated:
+  project_ids:
+    - '4102041'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
+  year_submitted:
+    - '2014'
 title: Ghetto Film School
 uri: /organizations/ghetto-film-school/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
 extrapolated_project_ids:
   - '4102083'
 project_titles_from_extrapolated_project_ids:

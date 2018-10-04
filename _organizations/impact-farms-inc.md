@@ -36,9 +36,16 @@ org_summary: >-
    In addition, we have identified and are in discussion with 3 sites in South Los Angeles where we are considering for development.
 areas_impacted: ''
 project_ids: '3102057'
+challenge_url: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
+aggregated:
+  project_ids:
+    - '3102057'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
+  year_submitted:
+    - '2013'
 title: 'ImPact Farms, Inc.'
 uri: /organizations/impact-farms-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/ImPactFarms.html'
 extrapolated_project_ids:
   - '3102057'
 project_titles_from_extrapolated_project_ids:

@@ -23,9 +23,16 @@ org_summary: >-
   made by women, youth, and members of the LGBTQIA community.
 areas_impacted: South LA
 project_ids: '5102222'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
+aggregated:
+  project_ids:
+    - '5102222'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
+  year_submitted:
+    - '2015'
 title: Heart of Art Gallery
 uri: /organizations/heart-of-art-gallery/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
 extrapolated_project_ids:
   - '5102132'
 project_titles_from_extrapolated_project_ids:

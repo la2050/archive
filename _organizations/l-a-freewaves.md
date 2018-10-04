@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102048'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
+aggregated:
+  project_ids:
+    - '4102048'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
+  year_submitted:
+    - '2014'
 title: L.A. Freewaves
 uri: /organizations/l-a-freewaves/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
 extrapolated_project_ids:
   - '4102108'
 project_titles_from_extrapolated_project_ids:

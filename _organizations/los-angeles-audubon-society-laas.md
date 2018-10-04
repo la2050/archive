@@ -30,9 +30,19 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102136'
+challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
+aggregated:
+  project_ids:
+    - '6102136'
+    - '5102183'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
+    - 'http://maker.good.is/myla2050play2015/projects/urbannature.html'
+  year_submitted:
+    - '2016'
+    - '2015'
 title: Los Angeles Audubon Society (LAAS)
 uri: /organizations/los-angeles-audubon-society-laas/
-challenge_url: 'https://challenge.la2050.org/entry/la-audubon-urban-nature-explored'
 extrapolated_project_ids:
   - '6102136'
 project_titles_from_extrapolated_project_ids:

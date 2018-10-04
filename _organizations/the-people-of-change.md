@@ -26,9 +26,16 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102122'
+challenge_url: 'https://activation.la2050.org/learn/the-people-of-change/'
+aggregated:
+  project_ids:
+    - '8102122'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/the-people-of-change/'
+  year_submitted:
+    - '2018'
 title: The People of Change
 uri: /organizations/the-people-of-change/
-challenge_url: 'https://activation.la2050.org/learn/the-people-of-change/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -23,9 +23,16 @@ org_summary: >-
   transformed through it.
 areas_impacted: 'East LA,Westside,City of Los Angeles (citywide)'
 project_ids: '5102305'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
+aggregated:
+  project_ids:
+    - '5102305'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
+  year_submitted:
+    - '2015'
 title: 'The Love Story and The Love Story Media, Inc.'
 uri: /organizations/the-love-story-and-the-love-story-media-inc/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
 extrapolated_project_ids:
   - '5102305'
 project_titles_from_extrapolated_project_ids:

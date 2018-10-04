@@ -22,9 +22,16 @@ org_summary: >-
   animations, games, and interactive transmedia experiences.
 areas_impacted: Central LA
 project_ids: '5102207'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
+aggregated:
+  project_ids:
+    - '5102207'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
+  year_submitted:
+    - '2014'
 title: Psychic Bunny
 uri: /organizations/psychic-bunny/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
 extrapolated_project_ids:
   - '4102177'
 project_titles_from_extrapolated_project_ids:

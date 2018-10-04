@@ -59,9 +59,16 @@ org_summary: >-
    - Water Links! Urban Youth Watershed Education Program — An environmental education program that links the urban watershed to the ocean, targeted to the 5th grade student. This 4-week pilot program raises awareness for environmental stewardship, pollution prevention, and water conservation within the urban communities.
 areas_impacted: ''
 project_ids: '3102050'
+challenge_url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
+aggregated:
+  project_ids:
+    - '3102050'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
+  year_submitted:
+    - '2013'
 title: California Greenworks
 uri: /organizations/california-greenworks/
-challenge_url: 'http://maker.good.is/myla2050/projects/MillionBagGiveaway.html'
 extrapolated_project_ids:
   - '3102050'
 project_titles_from_extrapolated_project_ids:

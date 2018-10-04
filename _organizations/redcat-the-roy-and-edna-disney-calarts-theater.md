@@ -33,9 +33,16 @@ org_summary: >-
   theatrical productions and exhibitions.
 areas_impacted: ''
 project_ids: '3102227'
+challenge_url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
+aggregated:
+  project_ids:
+    - '3102227'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
+  year_submitted:
+    - '2013'
 title: REDCAT (The Roy and Edna Disney CalArts Theater)
 uri: /organizations/redcat-the-roy-and-edna-disney-calarts-theater/
-challenge_url: 'http://maker.good.is/myla2050/projects/RADARLA2013.html'
 extrapolated_project_ids:
   - '3102227'
 project_titles_from_extrapolated_project_ids:

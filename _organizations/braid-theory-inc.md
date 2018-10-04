@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102086'
-title: 'Braid Theory, Inc.'
-uri: /organizations/braid-theory-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
+aggregated:
+  project_ids:
+    - '6102086'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
+  year_submitted:
+    - '2016'
+title: 'Braid Theory, Inc.'
+uri: /organizations/braid-theory-inc/
 extrapolated_project_ids:
   - '6102086'
 project_titles_from_extrapolated_project_ids:

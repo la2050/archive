@@ -89,9 +89,16 @@ org_summary: >-
    Fast Company named GlobalGirl Media one of the top 5 groups that should win Google’s Journalism Prize.
 areas_impacted: ''
 project_ids: '3102139'
+challenge_url: 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
+aggregated:
+  project_ids:
+    - '3102139'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
+  year_submitted:
+    - '2013'
 title: GlobalGirl Media
 uri: /organizations/globalgirl-media/
-challenge_url: 'http://maker.good.is/myla2050/projects/globalgirlmedia.html'
 extrapolated_project_ids:
   - '3102139'
 project_titles_from_extrapolated_project_ids:

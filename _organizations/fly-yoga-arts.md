@@ -23,9 +23,17 @@ org_summary: >-
   to engage each child's body, mind, and spirit!
 areas_impacted: LAUSD
 project_ids: '5102206'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
+aggregated:
+  project_ids:
+    - '5102206'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: FLY Yoga Arts
 uri: /organizations/fly-yoga-arts/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/FLYYogaArts.html'
 extrapolated_project_ids:
   - '5102102'
   - '4102071'

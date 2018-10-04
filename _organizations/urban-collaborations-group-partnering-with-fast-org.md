@@ -19,9 +19,15 @@ org_summary: >-
   environmental and community-based solutions.
 areas_impacted: ''
 project_ids: '4102181'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102181'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Urban Collaborations Group (Partnering with FAST.org)
 uri: /organizations/urban-collaborations-group-partnering-with-fast-org/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

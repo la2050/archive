@@ -29,10 +29,21 @@ areas_impacted:
   - LAUSD
   - South & Central LA have largest population of FY
 project_ids: '6102235'
-title: The Academy Project
-uri: /organizations/the-academy-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
+aggregated:
+  project_ids:
+    - '6102235'
+    - '5102295'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/supporting-las-foster-youth-by-creating-a-dependable-community-built-on-trust-and-consistency
+    - 'http://maker.good.is/myla2050learn2015/projects/theacademyproject.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: The Academy Project
+uri: /organizations/the-academy-project/
 extrapolated_project_ids:
   - '6102235'
   - '5102295'

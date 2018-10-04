@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102070'
-title: Food Oasis Los Angeles
-uri: /organizations/food-oasis-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
+aggregated:
+  project_ids:
+    - '6102070'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
+  year_submitted:
+    - '2016'
+title: Food Oasis Los Angeles
+uri: /organizations/food-oasis-los-angeles/
 extrapolated_project_ids:
   - '6102070'
 project_titles_from_extrapolated_project_ids:

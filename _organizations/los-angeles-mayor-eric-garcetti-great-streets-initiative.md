@@ -24,9 +24,16 @@ org_summary: >-
   as safe, creative, playful, economically thriving public spaces.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102191'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
+aggregated:
+  project_ids:
+    - '5102191'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles Mayor Eric Garcetti Great Streets Initiative
 uri: /organizations/los-angeles-mayor-eric-garcetti-great-streets-initiative/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
 extrapolated_project_ids:
   - '5102191'
 project_titles_from_extrapolated_project_ids:

@@ -38,9 +38,16 @@ org_summary: |-
    http://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q
 areas_impacted: ''
 project_ids: '3102141'
+challenge_url: 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
+aggregated:
+  project_ids:
+    - '3102141'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
+  year_submitted:
+    - '2013'
 title: Grain of Sand - Granito de Arena
 uri: /organizations/grain-of-sand-granito-de-arena/
-challenge_url: 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
 extrapolated_project_ids:
   - '3102141'
 project_titles_from_extrapolated_project_ids:

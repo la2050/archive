@@ -30,9 +30,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102011'
+challenge_url: 'https://activation.la2050.org/create/brioxy/'
+aggregated:
+  project_ids:
+    - '8102011'
+  challenge_url:
+    - 'https://activation.la2050.org/create/brioxy/'
+  year_submitted:
+    - '2018'
 title: Brioxy
 uri: /organizations/brioxy/
-challenge_url: 'https://activation.la2050.org/create/brioxy/'
 extrapolated_project_ids:
   - '8102011'
 project_titles_from_extrapolated_project_ids:

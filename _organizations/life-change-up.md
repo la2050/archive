@@ -26,9 +26,16 @@ areas_impacted: >-
   Central LA,San Fernando Valley,South LA,Westside,County of Los Angeles
   (countywide),City of Los Angeles (citywide)
 project_ids: '5102176'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/walking.html'
+aggregated:
+  project_ids:
+    - '5102176'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/walking.html'
+  year_submitted:
+    - '2015'
 title: Life Change Up
 uri: /organizations/life-change-up/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/walking.html'
 extrapolated_project_ids:
   - '5102176'
 project_titles_from_extrapolated_project_ids:

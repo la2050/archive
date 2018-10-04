@@ -30,9 +30,16 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '8102051'
+challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
+aggregated:
+  project_ids:
+    - '8102051'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
+  year_submitted:
+    - '2018'
 title: Harlem Lacrosse - Los Angeles
 uri: /organizations/harlem-lacrosse-los-angeles/
-challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

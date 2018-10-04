@@ -34,9 +34,17 @@ areas_impacted:
   - South Bay
   - City of Los Angeles
 project_ids: '6102208'
+challenge_url: 'https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door'
+aggregated:
+  project_ids:
+    - '6102208'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
+  year_submitted:
+    - '2016'
 title: Natch
 uri: /organizations/natch/
-challenge_url: 'https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door'
 extrapolated_project_ids:
   - '6102208'
 project_titles_from_extrapolated_project_ids:

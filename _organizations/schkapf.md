@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102080'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
+aggregated:
+  project_ids:
+    - '4102080'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
+  year_submitted:
+    - '2014'
 title: Schkapf
 uri: /organizations/schkapf/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/schkapf.html'
 extrapolated_project_ids:
   - '4102187'
 project_titles_from_extrapolated_project_ids:

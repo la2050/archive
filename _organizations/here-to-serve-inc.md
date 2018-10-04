@@ -36,10 +36,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102091'
-title: 'Here to Serve, Inc'
-uri: /organizations/here-to-serve-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
+aggregated:
+  project_ids:
+    - '6102091'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
+  year_submitted:
+    - '2016'
+title: 'Here to Serve, Inc'
+uri: /organizations/here-to-serve-inc/
 extrapolated_project_ids:
   - '6102091'
 project_titles_from_extrapolated_project_ids:

@@ -31,9 +31,16 @@ org_summary: >-
   organizations.
 areas_impacted: ''
 project_ids: '3102027'
+challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'
+aggregated:
+  project_ids:
+    - '3102027'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ALOT.html'
+  year_submitted:
+    - '2013'
 title: Arts Council for Long Beach
 uri: /organizations/arts-council-for-long-beach/
-challenge_url: 'http://maker.good.is/myla2050/projects/ALOT.html'
 extrapolated_project_ids:
   - '3102027'
 project_titles_from_extrapolated_project_ids:

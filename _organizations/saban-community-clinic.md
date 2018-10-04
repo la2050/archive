@@ -22,9 +22,15 @@ org_summary: >-
   services to low-income and underserved individuals.
 areas_impacted: ''
 project_ids: '4102161'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102161'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Saban Community Clinic
 uri: /organizations/saban-community-clinic/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

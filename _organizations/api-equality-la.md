@@ -32,9 +32,16 @@ org_summary: >-
   communities of color.
 areas_impacted: ''
 project_ids: '3102023'
+challenge_url: 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
+aggregated:
+  project_ids:
+    - '3102023'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
+  year_submitted:
+    - '2013'
 title: API Equality-LA
 uri: /organizations/api-equality-la/
-challenge_url: 'http://maker.good.is/myla2050/projects/apiequalityeyetoeye.html'
 extrapolated_project_ids:
   - '3102023'
 project_titles_from_extrapolated_project_ids:

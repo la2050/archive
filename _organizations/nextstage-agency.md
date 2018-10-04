@@ -22,9 +22,16 @@ org_summary: >-
   quality of people’s lives through art, creativity and culture.
 areas_impacted: 'Central LA,Westside'
 project_ids: '4102124'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
+aggregated:
+  project_ids:
+    - '4102124'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
+  year_submitted:
+    - '2014'
 title: NextStage Agency
 uri: /organizations/nextstage-agency/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
 extrapolated_project_ids:
   - '4102158'
 project_titles_from_extrapolated_project_ids:

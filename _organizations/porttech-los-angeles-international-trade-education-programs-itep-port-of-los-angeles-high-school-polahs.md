@@ -24,12 +24,19 @@ org_summary: >-
   solve port/global environmental challenges, and create jobs.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102241'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
+aggregated:
+  project_ids:
+    - '5102241'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
+  year_submitted:
+    - '2015'
 title: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
   Los Angeles High School (POLAHS)
 uri: >-
   /organizations/porttech-los-angeles-international-trade-education-programs-itep-port-of-los-angeles-high-school-polahs/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -26,10 +26,21 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102179'
-title: Impact Hub Los Angeles
-uri: /organizations/impact-hub-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
+aggregated:
+  project_ids:
+    - '6102179'
+    - '5102139'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/virtual-reality-in-blue-linking-the-next-generation-police-officers-to-the-communities-in-la
+    - 'http://maker.good.is/myla2050connect2015/projects/digitaldistrictLA.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Impact Hub Los Angeles
+uri: /organizations/impact-hub-los-angeles/
 extrapolated_project_ids:
   - '6102179'
   - '5102139'

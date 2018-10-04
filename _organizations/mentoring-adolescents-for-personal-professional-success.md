@@ -29,10 +29,17 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: ''
-title: Mentoring Adolescents for Personal & Professional Success
-uri: /organizations/mentoring-adolescents-for-personal-professional-success/
 challenge_url: >-
   https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
+aggregated:
+  project_ids: []
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
+  year_submitted:
+    - '2018'
+title: Mentoring Adolescents for Personal & Professional Success
+uri: /organizations/mentoring-adolescents-for-personal-professional-success/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

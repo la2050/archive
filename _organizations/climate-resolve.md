@@ -26,9 +26,19 @@ org_summary: >-
   climate impacts.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102067'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
+aggregated:
+  project_ids:
+    - '5102067'
+    - '3102076'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
+    - 'http://maker.good.is/myla2050/projects/climateresolve.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Climate Resolve
 uri: /organizations/climate-resolve/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/climatereadyroofs.html'
 extrapolated_project_ids:
   - '5102067'
   - '3102076'

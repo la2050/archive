@@ -25,9 +25,16 @@ org_summary: >-
   entrepreneurial teams of tomorrow. We start up students!
 areas_impacted: 'Westside,LAUSD'
 project_ids: '5102302'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
+aggregated:
+  project_ids:
+    - '5102302'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
+  year_submitted:
+    - '2015'
 title: The Incubator School
 uri: /organizations/the-incubator-school/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
 extrapolated_project_ids:
   - '5102302'
 project_titles_from_extrapolated_project_ids:

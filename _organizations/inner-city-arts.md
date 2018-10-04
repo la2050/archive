@@ -28,10 +28,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102103'
-title: Inner-City Arts
-uri: /organizations/inner-city-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
+aggregated:
+  project_ids:
+    - '6102103'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/providing-access-to-the-arts-and-the-endless-possibilities-they-offer
+  year_submitted:
+    - '2016'
+title: Inner-City Arts
+uri: /organizations/inner-city-arts/
 extrapolated_project_ids:
   - '6102103'
 project_titles_from_extrapolated_project_ids:

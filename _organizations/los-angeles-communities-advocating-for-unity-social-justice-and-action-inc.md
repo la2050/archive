@@ -28,10 +28,17 @@ org_summary: >-
   need of healthier food options.
 areas_impacted: ''
 project_ids: '3102183'
+challenge_url: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
+aggregated:
+  project_ids:
+    - '3102183'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
+  year_submitted:
+    - '2013'
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
 extrapolated_project_ids:
   - '3102183'
 project_titles_from_extrapolated_project_ids:

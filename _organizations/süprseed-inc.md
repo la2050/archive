@@ -30,9 +30,16 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '8102113'
+challenge_url: 'https://activation.la2050.org/live/süprseed/'
+aggregated:
+  project_ids:
+    - '8102113'
+  challenge_url:
+    - 'https://activation.la2050.org/live/süprseed/'
+  year_submitted:
+    - '2018'
 title: 'SÜPRSEED, Inc.'
 uri: /organizations/süprseed-inc/
-challenge_url: 'https://activation.la2050.org/live/süprseed/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

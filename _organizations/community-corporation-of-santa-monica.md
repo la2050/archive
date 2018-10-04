@@ -24,9 +24,16 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: '6102050'
+challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
+aggregated:
+  project_ids:
+    - '6102050'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/great-futures-start-at-home'
+  year_submitted:
+    - '2016'
 title: Community Corporation of Santa Monica
 uri: /organizations/community-corporation-of-santa-monica/
-challenge_url: 'https://challenge.la2050.org/entry/great-futures-start-at-home'
 extrapolated_project_ids:
   - '6102050'
 project_titles_from_extrapolated_project_ids:

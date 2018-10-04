@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102025'
-title: City of Los Angeles Information Technology Agency
-uri: /organizations/city-of-los-angeles-information-technology-agency/
 challenge_url: >-
   https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
+aggregated:
+  project_ids:
+    - '8102025'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
+  year_submitted:
+    - '2018'
+title: City of Los Angeles Information Technology Agency
+uri: /organizations/city-of-los-angeles-information-technology-agency/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

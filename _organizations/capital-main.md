@@ -36,10 +36,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102031'
-title: Capital & Main
-uri: /organizations/capital-main/
 challenge_url: >-
   https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
+aggregated:
+  project_ids:
+    - '6102031'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
+  year_submitted:
+    - '2016'
+title: Capital & Main
+uri: /organizations/capital-main/
 extrapolated_project_ids:
   - '6102031'
 project_titles_from_extrapolated_project_ids:

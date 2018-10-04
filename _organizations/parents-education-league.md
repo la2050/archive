@@ -25,10 +25,21 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102174'
-title: Parents Education League
-uri: /organizations/parents-education-league/
 challenge_url: >-
   https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
+aggregated:
+  project_ids:
+    - '6102174'
+    - '5102229'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/early-childhood-education-options-using-public-service-mini-courses-to-educate-and-empower-families
+    - 'http://maker.good.is/myla2050learn2015/projects/PEL.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Parents Education League
+uri: /organizations/parents-education-league/
 extrapolated_project_ids:
   - '6102174'
   - '5102229'

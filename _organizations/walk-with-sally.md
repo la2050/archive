@@ -28,9 +28,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102135'
+challenge_url: 'https://activation.la2050.org/connect/walk-with-sally/'
+aggregated:
+  project_ids:
+    - '8102135'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/walk-with-sally/'
+  year_submitted:
+    - '2018'
 title: Walk With Sally
 uri: /organizations/walk-with-sally/
-challenge_url: 'https://activation.la2050.org/connect/walk-with-sally/'
 extrapolated_project_ids:
   - '8102135'
 project_titles_from_extrapolated_project_ids:

@@ -37,10 +37,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102061'
-title: Doctors for America
-uri: /organizations/doctors-for-america/
 challenge_url: >-
   https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
+aggregated:
+  project_ids:
+    - '6102061'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
+  year_submitted:
+    - '2016'
+title: Doctors for America
+uri: /organizations/doctors-for-america/
 extrapolated_project_ids:
   - '6102061'
 project_titles_from_extrapolated_project_ids:

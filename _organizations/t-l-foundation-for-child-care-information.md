@@ -26,10 +26,23 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102224'
-title: T&L Foundation for Child Care Information
-uri: /organizations/t-l-foundation-for-child-care-information/
 challenge_url: >-
   https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
+aggregated:
+  project_ids:
+    - '6102224'
+    - '5102286'
+    - '4102238'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/culinary-skills-in-a-box-giving-children-in-child-care-the-tools-to-establish-healthy-habits
+    - 'http://maker.good.is/myla2050live2015/projects/caregiverandme.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: T&L Foundation for Child Care Information
+uri: /organizations/t-l-foundation-for-child-care-information/
 extrapolated_project_ids:
   - '6102224'
   - '5102286'

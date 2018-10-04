@@ -27,10 +27,22 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102020'
-title: Children's Action Network
-uri: /organizations/childrens-action-network/
 challenge_url: >-
   https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
+aggregated:
+  project_ids:
+    - '8102020'
+    - '6102035'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
+    - >-
+      https://challenge.la2050.org/entry/fostermore-because-no-child-makes-it-alone
+  year_submitted:
+    - '2018'
+    - '2016'
+title: Children's Action Network
+uri: /organizations/childrens-action-network/
 extrapolated_project_ids:
   - '6102035'
 project_titles_from_extrapolated_project_ids:

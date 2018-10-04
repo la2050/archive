@@ -37,9 +37,20 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102061'
+challenge_url: 'https://activation.la2050.org/connect/la-compost/'
+aggregated:
+  project_ids:
+    - '8102061'
+    - '6102119'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/la-compost/'
+    - >-
+      https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
+  year_submitted:
+    - '2018'
+    - '2016'
 title: LA Compost
 uri: /organizations/la-compost/
-challenge_url: 'https://activation.la2050.org/connect/la-compost/'
 extrapolated_project_ids:
   - '6102119'
 project_titles_from_extrapolated_project_ids:

@@ -47,9 +47,16 @@ org_summary: >-
    Initially, our dance programming focuses on Bachata, however, the Island Touch Dance Academy has provided us free use of their choreographies, including Crunkchata, which is an individual-based dance more appropriate for younger dancers. We have other dance companies, ranging from Mexican Folklorico, hip-hop, and even the flow-arts who would like to work with us. However, we first need to set our initial programming successfully in motion.
 areas_impacted: ''
 project_ids: '3102130'
+challenge_url: 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
+aggregated:
+  project_ids:
+    - '3102130'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
+  year_submitted:
+    - '2013'
 title: For Learners of All Ages
 uri: /organizations/for-learners-of-all-ages/
-challenge_url: 'http://maker.good.is/myla2050/projects/FLAADanceBachata.html'
 extrapolated_project_ids:
   - '3102130'
 project_titles_from_extrapolated_project_ids:

@@ -28,9 +28,15 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/connect/twigg-how-to/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'https://activation.la2050.org/connect/twigg-how-to/'
+  year_submitted:
+    - '2018'
 title: TWIGG How-To
 uri: /organizations/twigg-how-to/
-challenge_url: 'https://activation.la2050.org/connect/twigg-how-to/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

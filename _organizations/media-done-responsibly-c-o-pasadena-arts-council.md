@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,San Fernando Valley,South LA,County of
   Los Angeles (countywide),City of Los Angeles (citywide),LAUSD
 project_ids: '5102204'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
+aggregated:
+  project_ids:
+    - '5102204'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
+  year_submitted:
+    - '2015'
 title: Media Done Responsibly c/o Pasadena Arts Council
 uri: /organizations/media-done-responsibly-c-o-pasadena-arts-council/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
 extrapolated_project_ids:
   - '5102204'
 project_titles_from_extrapolated_project_ids:

@@ -25,9 +25,16 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102096'
+challenge_url: 'https://challenge.la2050.org/entry/save-a-life'
+aggregated:
+  project_ids:
+    - '6102096'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/save-a-life'
+  year_submitted:
+    - '2016'
 title: Homeless Health Care Los Angeles
 uri: /organizations/homeless-health-care-los-angeles/
-challenge_url: 'https://challenge.la2050.org/entry/save-a-life'
 extrapolated_project_ids:
   - '6102096'
 project_titles_from_extrapolated_project_ids:

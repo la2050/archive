@@ -25,9 +25,19 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '8102049'
+challenge_url: 'https://activation.la2050.org/create/grid110-inc/'
+aggregated:
+  project_ids:
+    - '8102049'
+    - '5102122'
+  challenge_url:
+    - 'https://activation.la2050.org/create/grid110-inc/'
+    - 'http://maker.good.is/myla2050create2015/projects/GRID110.html'
+  year_submitted:
+    - '2018'
+    - '2015'
 title: 'Grid110, Inc.'
 uri: /organizations/grid110-inc/
-challenge_url: 'https://activation.la2050.org/create/grid110-inc/'
 extrapolated_project_ids:
   - '5102122'
 project_titles_from_extrapolated_project_ids:

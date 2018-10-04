@@ -28,10 +28,18 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102253'
-title: The Pedagogical Institute of Los Angeles
-uri: /organizations/the-pedagogical-institute-of-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
+aggregated:
+  project_ids:
+    - '6102253'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
+  year_submitted:
+    - '2016'
+title: The Pedagogical Institute of Los Angeles
+uri: /organizations/the-pedagogical-institute-of-los-angeles/
 extrapolated_project_ids:
   - '6102253'
 project_titles_from_extrapolated_project_ids:

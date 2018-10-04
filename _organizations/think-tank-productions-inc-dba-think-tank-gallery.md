@@ -41,10 +41,22 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '5102319'
-title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
-uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
 challenge_url: >-
   https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
+aggregated:
+  project_ids:
+    - '5102319'
+    - '6102263'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/create/think-tank-productions-inc-dba-think-tank-gallery/
+    - >-
+      https://challenge.la2050.org/entry/think-tanks-red-tape-removal-program-–-untying-the-bureaucratic-knots-from-la-art-production
+  year_submitted:
+    - '2018'
+    - '2016'
+title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
+uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

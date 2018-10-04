@@ -78,9 +78,16 @@ org_summary: >-
    <p>- The program achieved a partnership with the Southern California utilities, who are looking for technologies and talent</p>
 areas_impacted: ''
 project_ids: '3102127'
+challenge_url: 'http://maker.good.is/myla2050/projects/FLOW.html'
+aggregated:
+  project_ids:
+    - '3102127'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FLOW.html'
+  year_submitted:
+    - '2013'
 title: First Look West
 uri: /organizations/first-look-west/
-challenge_url: 'http://maker.good.is/myla2050/projects/FLOW.html'
 extrapolated_project_ids:
   - '3102127'
 project_titles_from_extrapolated_project_ids:

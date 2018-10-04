@@ -51,9 +51,16 @@ org_summary: >-
    - Successfully developing and implementing our Global Arts After School program, including publishing a formal curriculum that teaches middle school-aged youth the importance of acting with empathy and helping people in their own communities as well as the world at large.
 areas_impacted: ''
 project_ids: '3102059'
+challenge_url: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
+aggregated:
+  project_ids:
+    - '3102059'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
+  year_submitted:
+    - '2013'
 title: Children Mending Hearts
 uri: /organizations/children-mending-hearts/
-challenge_url: 'http://maker.good.is/myla2050/projects/kidshelpingkids.html'
 extrapolated_project_ids:
   - '3102059'
 project_titles_from_extrapolated_project_ids:

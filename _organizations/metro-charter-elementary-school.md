@@ -25,9 +25,16 @@ org_summary: >-
 areas_impacted:
   - Downtown L.A. metro area
 project_ids: '6102154'
+challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
+aggregated:
+  project_ids:
+    - '6102154'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
+  year_submitted:
+    - '2016'
 title: METRO Charter Elementary School
 uri: /organizations/metro-charter-elementary-school/
-challenge_url: 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
 extrapolated_project_ids:
   - '6102154'
 project_titles_from_extrapolated_project_ids:

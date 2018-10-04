@@ -69,9 +69,16 @@ org_summary: >-
    In 2013, we are taking our first steps toward a full fledged “Dancescape Ed” program. We are working with La Leadership Academy (LALA) to provide a one week of dance instruction to two different age groups during summer school. Dancescape will identify the dance instructor, cover the costs of all necessary background checks and clearance procedures, and also pay the salaries of both the dance instructor and the LALA staff member who will assist with the program. The curriculum will be developed together with the LALA faculty to determine what will be best suited to the students in attendance. We will be conducting careful evaluation of the student’s performance and participation during the program, and also solicit feedback from the LALA administration so that we can implement any necessary changes or improvements bef
 areas_impacted: ''
 project_ids: '3102058'
+challenge_url: 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
+aggregated:
+  project_ids:
+    - '3102058'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
+  year_submitted:
+    - '2013'
 title: Cheshire Moon Inc
 uri: /organizations/cheshire-moon-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/DancescapeLA.html'
 extrapolated_project_ids:
   - '3102058'
 project_titles_from_extrapolated_project_ids:

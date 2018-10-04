@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - San Gabriel Valley
 project_ids: '6102175'
-title: Pasadena Educational Foundation
-uri: /organizations/pasadena-educational-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
+aggregated:
+  project_ids:
+    - '6102175'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
+  year_submitted:
+    - '2016'
+title: Pasadena Educational Foundation
+uri: /organizations/pasadena-educational-foundation/
 extrapolated_project_ids:
   - '6102175'
 project_titles_from_extrapolated_project_ids:

@@ -27,10 +27,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102135'
-title: El Porto Shark
-uri: /organizations/el-porto-shark/
 challenge_url: >-
   https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
+aggregated:
+  project_ids:
+    - '6102135'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
+  year_submitted:
+    - '2016'
+title: El Porto Shark
+uri: /organizations/el-porto-shark/
 extrapolated_project_ids:
   - '6102135'
 project_titles_from_extrapolated_project_ids:

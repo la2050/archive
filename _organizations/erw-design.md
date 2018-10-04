@@ -21,9 +21,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '5102342'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
+aggregated:
+  project_ids:
+    - '5102342'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
+  year_submitted:
+    - '2014'
 title: ERW Design
 uri: /organizations/erw-design/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
 extrapolated_project_ids:
   - '4102066'
 project_titles_from_extrapolated_project_ids:

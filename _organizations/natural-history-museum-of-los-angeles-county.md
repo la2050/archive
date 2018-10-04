@@ -57,9 +57,16 @@ org_summary: >-
    With NHM Next we are setting a new example of how a museum can be a part of the life of a great 21st century city. We will serve as a nature, science and culture destination in the heard of Los Angeles County. It is a transformation unprecedented in our history and designed to set the course for the next hundred years.
 areas_impacted: ''
 project_ids: '3102202'
+challenge_url: 'http://maker.good.is/myla2050/projects/urbansafari.html'
+aggregated:
+  project_ids:
+    - '3102202'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/urbansafari.html'
+  year_submitted:
+    - '2013'
 title: Natural History Museum of Los Angeles County
 uri: /organizations/natural-history-museum-of-los-angeles-county/
-challenge_url: 'http://maker.good.is/myla2050/projects/urbansafari.html'
 extrapolated_project_ids:
   - '3102202'
 project_titles_from_extrapolated_project_ids:

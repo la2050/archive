@@ -27,11 +27,19 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102085'
+challenge_url: >-
+  https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
+aggregated:
+  project_ids:
+    - '8102085'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
+  year_submitted:
+    - '2018'
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 uri: >-
   /organizations/multicultural-communities-for-mobility-a-project-of-community-partners/
-challenge_url: >-
-  https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

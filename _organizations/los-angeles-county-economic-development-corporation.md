@@ -28,9 +28,16 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),Other (please specify below):
 project_ids: '5102187'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
+aggregated:
+  project_ids:
+    - '5102187'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles County Economic Development Corporation
 uri: /organizations/los-angeles-county-economic-development-corporation/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
 extrapolated_project_ids:
   - '5102187'
 project_titles_from_extrapolated_project_ids:

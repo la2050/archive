@@ -119,9 +119,16 @@ org_summary: |-
    In February, on a 7- 0 vote, the Board of Education unanimously approved the parents’ petition.
 areas_impacted: ''
 project_ids: '3102213'
+challenge_url: 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
+aggregated:
+  project_ids:
+    - '3102213'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
+  year_submitted:
+    - '2013'
 title: Parent Revolution
 uri: /organizations/parent-revolution/
-challenge_url: 'http://maker.good.is/myla2050/projects/ParentTrigger.html'
 extrapolated_project_ids:
   - '3102213'
 project_titles_from_extrapolated_project_ids:

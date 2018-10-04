@@ -27,9 +27,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102040'
+challenge_url: 'https://activation.la2050.org/connect/film-independent/'
+aggregated:
+  project_ids:
+    - '8102040'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/film-independent/'
+  year_submitted:
+    - '2018'
 title: Film Independent
 uri: /organizations/film-independent/
-challenge_url: 'https://activation.la2050.org/connect/film-independent/'
 extrapolated_project_ids:
   - '8102040'
 project_titles_from_extrapolated_project_ids:

@@ -31,9 +31,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102013'
+challenge_url: 'https://activation.la2050.org/live/cardborigami-inc/'
+aggregated:
+  project_ids:
+    - '8102013'
+  challenge_url:
+    - 'https://activation.la2050.org/live/cardborigami-inc/'
+  year_submitted:
+    - '2018'
 title: Cardborigami Inc
 uri: /organizations/cardborigami-inc/
-challenge_url: 'https://activation.la2050.org/live/cardborigami-inc/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

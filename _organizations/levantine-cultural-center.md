@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102053'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
+aggregated:
+  project_ids:
+    - '4102053'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
+  year_submitted:
+    - '2014'
 title: Levantine Cultural Center
 uri: /organizations/levantine-cultural-center/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
 extrapolated_project_ids:
   - '4102117'
 project_titles_from_extrapolated_project_ids:

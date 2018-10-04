@@ -23,9 +23,16 @@ org_summary: Promotes women's equal leadership
 areas_impacted:
   - San Gabriel Valley
 project_ids: '6102002'
+challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
+aggregated:
+  project_ids:
+    - '6102002'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/fostering-safe-communities'
+  year_submitted:
+    - '2016'
 title: 50/50 Leadership
 uri: /organizations/50-50-leadership/
-challenge_url: 'https://challenge.la2050.org/entry/fostering-safe-communities'
 extrapolated_project_ids:
   - '6102002'
 project_titles_from_extrapolated_project_ids:

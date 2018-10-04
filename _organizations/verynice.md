@@ -47,9 +47,16 @@ org_summary: >-
    Over the past 3 years, I have personally delivered over 50 talks / panel discussions / workshops at venues across the United States including TEDx, UCLA, Art Center, and the Art Directors Club.
 areas_impacted: ''
 project_ids: '3102114'
+challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'
+aggregated:
+  project_ids:
+    - '3102114'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/beverynice.html'
+  year_submitted:
+    - '2013'
 title: verynice
 uri: /organizations/verynice/
-challenge_url: 'http://maker.good.is/myla2050/projects/beverynice.html'
 extrapolated_project_ids:
   - '3102114'
 project_titles_from_extrapolated_project_ids:

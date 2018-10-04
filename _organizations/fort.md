@@ -24,9 +24,15 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050create/projects/FORT.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/FORT.html'
+  year_submitted:
+    - '2014'
 title: FORT
 uri: /organizations/fort/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/FORT.html'
 extrapolated_project_ids:
   - '4102072'
 project_titles_from_extrapolated_project_ids:

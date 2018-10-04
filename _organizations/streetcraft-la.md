@@ -43,9 +43,16 @@ org_summary: >-
    Streetcraft is currently testing its core components and theory of change in a proof of concept pilot state funded the James Irvine Foundation. Guided by our board of directors, the focus of this planning stage was to test three assumptions critical to our model: marginalized youth engaged in graffiti culture or other illicit entrepreneur activities have talents that can be re-directed; a process of engagement can be created including partnerships with public systems and community based social networks; and youth’s talents can be monetized and professionalized. Streetcraft has piloted its model with 50 Streetcraft fellows, referred through probation and other community-based networks, who went through a work based contextualized learning experience and developed products for a retail store located on main street, Santa Monica. During this pilot period 100% of participants completed the pilot and 85% percent increased their annual income by 50%.
 areas_impacted: ''
 project_ids: '3102239'
+challenge_url: 'http://maker.good.is/myla2050/projects/streetcraft.html'
+aggregated:
+  project_ids:
+    - '3102239'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/streetcraft.html'
+  year_submitted:
+    - '2013'
 title: Streetcraft LA
 uri: /organizations/streetcraft-la/
-challenge_url: 'http://maker.good.is/myla2050/projects/streetcraft.html'
 extrapolated_project_ids:
   - '3102239'
 project_titles_from_extrapolated_project_ids:

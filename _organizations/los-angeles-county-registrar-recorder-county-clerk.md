@@ -27,10 +27,18 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102073'
-title: Los Angeles County Registrar-Recorder/County Clerk
-uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
 challenge_url: >-
   https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
+aggregated:
+  project_ids:
+    - '8102073'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
+  year_submitted:
+    - '2018'
+title: Los Angeles County Registrar-Recorder/County Clerk
+uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

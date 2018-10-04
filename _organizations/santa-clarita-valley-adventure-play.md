@@ -28,10 +28,18 @@ areas_impacted:
   - County of Los Angeles
   - Santa Clarita Valley and surrounding areas
 project_ids: '6102222'
-title: Santa Clarita Valley Adventure Play
-uri: /organizations/santa-clarita-valley-adventure-play/
 challenge_url: >-
   https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
+aggregated:
+  project_ids:
+    - '6102222'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
+  year_submitted:
+    - '2016'
+title: Santa Clarita Valley Adventure Play
+uri: /organizations/santa-clarita-valley-adventure-play/
 extrapolated_project_ids:
   - '6102222'
 project_titles_from_extrapolated_project_ids:

@@ -47,9 +47,20 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102114'
+challenge_url: 'https://activation.la2050.org/play/surf-bus-foundation/'
+aggregated:
+  project_ids:
+    - '8102114'
+    - '6102221'
+  challenge_url:
+    - 'https://activation.la2050.org/play/surf-bus-foundation/'
+    - >-
+      https://challenge.la2050.org/entry/theraputic-ocean-engagement-surfing-t-o-e-s-as-in-on-the-nose!
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Surf Bus Foundation
 uri: /organizations/surf-bus-foundation/
-challenge_url: 'https://activation.la2050.org/play/surf-bus-foundation/'
 extrapolated_project_ids:
   - '6102221'
 project_titles_from_extrapolated_project_ids:

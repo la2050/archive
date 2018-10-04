@@ -31,9 +31,16 @@ org_summary: >-
   help people the law is meant to serve.
 areas_impacted: ''
 project_ids: '3102001'
+challenge_url: 'http://maker.good.is/myla2050/projects/AccessJustice.html'
+aggregated:
+  project_ids:
+    - '3102001'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/AccessJustice.html'
+  year_submitted:
+    - '2013'
 title: ADVANCE
 uri: /organizations/advance/
-challenge_url: 'http://maker.good.is/myla2050/projects/AccessJustice.html'
 extrapolated_project_ids:
   - '3102001'
 project_titles_from_extrapolated_project_ids:

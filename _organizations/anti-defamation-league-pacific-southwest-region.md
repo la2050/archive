@@ -21,9 +21,15 @@ org_summary: >-
   and protects civil rights for all.
 areas_impacted: ''
 project_ids: '4102111'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102111'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Anti-Defamation League - Pacific Southwest Region
 uri: /organizations/anti-defamation-league-pacific-southwest-region/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102010'
 project_titles_from_extrapolated_project_ids:

@@ -23,9 +23,19 @@ org_summary: >-
   appreciation and support for the performing arts in Greater LA.
 areas_impacted: 'Other:'
 project_ids: '4102049'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
+aggregated:
+  project_ids:
+    - '4102049'
+    - '3102173'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
+    - 'http://maker.good.is/myla2050/projects/ArtsInfrastructure.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: LA STAGE Alliance
 uri: /organizations/la-stage-alliance/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/infrastructure.html'
 extrapolated_project_ids:
   - '4102109'
   - '3102173'

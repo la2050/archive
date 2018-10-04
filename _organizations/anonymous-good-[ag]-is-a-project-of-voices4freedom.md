@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102007'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
+aggregated:
+  project_ids:
+    - '4102007'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
+  year_submitted:
+    - '2014'
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 uri: '/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/'
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
 extrapolated_project_ids:
   - '4102009'
 project_titles_from_extrapolated_project_ids:

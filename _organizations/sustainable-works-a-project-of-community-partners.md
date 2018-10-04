@@ -25,9 +25,16 @@ org_summary: >-
   toxic chemicals and purchase greener products.
 areas_impacted: ''
 project_ids: '3102240'
+challenge_url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'
+aggregated:
+  project_ids:
+    - '3102240'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/sustainableworks.html'
+  year_submitted:
+    - '2013'
 title: Sustainable Works a Project of Community Partners
 uri: /organizations/sustainable-works-a-project-of-community-partners/
-challenge_url: 'http://maker.good.is/myla2050/projects/sustainableworks.html'
 extrapolated_project_ids:
   - '3102240'
 project_titles_from_extrapolated_project_ids:

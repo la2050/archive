@@ -27,9 +27,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102057'
+challenge_url: 'https://activation.la2050.org/connect/kitchen-table-app/'
+aggregated:
+  project_ids:
+    - '8102057'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/kitchen-table-app/'
+  year_submitted:
+    - '2018'
 title: Kitchen Table App
 uri: /organizations/kitchen-table-app/
-challenge_url: 'https://activation.la2050.org/connect/kitchen-table-app/'
 extrapolated_project_ids:
   - '8102057'
 project_titles_from_extrapolated_project_ids:

@@ -41,9 +41,16 @@ org_summary: >-
    www.davidlynchfoundation.org
 areas_impacted: ''
 project_ids: '3102102'
+challenge_url: 'http://maker.good.is/myla2050/projects/enlightened200.html'
+aggregated:
+  project_ids:
+    - '3102102'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/enlightened200.html'
+  year_submitted:
+    - '2013'
 title: David Lynch Foundation
 uri: /organizations/david-lynch-foundation/
-challenge_url: 'http://maker.good.is/myla2050/projects/enlightened200.html'
 extrapolated_project_ids:
   - '3102102'
 project_titles_from_extrapolated_project_ids:

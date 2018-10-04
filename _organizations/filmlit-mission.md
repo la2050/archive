@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102067'
-title: FILMLIT MISSION
-uri: /organizations/filmlit-mission/
 challenge_url: >-
   https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
+aggregated:
+  project_ids:
+    - '6102067'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
+  year_submitted:
+    - '2016'
+title: FILMLIT MISSION
+uri: /organizations/filmlit-mission/
 extrapolated_project_ids:
   - '6102067'
 project_titles_from_extrapolated_project_ids:

@@ -26,10 +26,19 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: '5102337'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
+aggregated:
+  project_ids:
+    - '5102337'
+    - '4102219'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 uri: >-
   /organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ALLOFUSMENTALHEALTH.html'
 extrapolated_project_ids:
   - '5102337'
   - '4102250'

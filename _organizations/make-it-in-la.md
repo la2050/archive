@@ -44,9 +44,19 @@ areas_impacted:
     benefit)
   - 'Long Beach, Pasadena, and other neighborhoods TBD'
 project_ids: '8102079'
+challenge_url: 'https://activation.la2050.org/create/make-it-in-la/'
+aggregated:
+  project_ids:
+    - '8102079'
+    - '5102201'
+  challenge_url:
+    - 'https://activation.la2050.org/create/make-it-in-la/'
+    - 'http://maker.good.is/myla2050create2015/projects/makeitinla.html'
+  year_submitted:
+    - '2018'
+    - '2015'
 title: MAKE IT IN LA
 uri: /organizations/make-it-in-la/
-challenge_url: 'https://activation.la2050.org/create/make-it-in-la/'
 extrapolated_project_ids:
   - '5102201'
 project_titles_from_extrapolated_project_ids:

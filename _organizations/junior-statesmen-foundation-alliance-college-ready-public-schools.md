@@ -27,10 +27,17 @@ org_summary: >-
   social capital.
 areas_impacted: 'Central LA,East LA,San Fernando Valley,South LA,City of Los Angeles (citywide)'
 project_ids: '5102154'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
+aggregated:
+  project_ids:
+    - '5102154'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
+  year_submitted:
+    - '2015'
 title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 uri: >-
   /organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
 extrapolated_project_ids:
   - '5102154'
 project_titles_from_extrapolated_project_ids:

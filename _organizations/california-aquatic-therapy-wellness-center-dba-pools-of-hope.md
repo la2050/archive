@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '6102025'
-title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
-uri: /organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
 challenge_url: >-
   https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
+aggregated:
+  project_ids:
+    - '6102025'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
+  year_submitted:
+    - '2016'
+title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
+uri: /organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
 extrapolated_project_ids:
   - '6102025'
 project_titles_from_extrapolated_project_ids:

@@ -782,6 +782,10 @@ function createMarkdownFile(data) {
     // }
   }
 
+  // if (!getOrganizationByProjectID(data.project_id)) {
+  //   data.has_no_organization_match_by_project_id = 1
+  // }
+
   // console.dir(data)
 
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
@@ -803,6 +807,49 @@ ${yaml.safeDump(data)}
     }
   })
 }
+
+/*
+let organizationByProjectIDLookup
+function getOrganizationByProjectID(project_id) {
+  if (!organizationByProjectIDLookup) {
+    organizationByProjectIDLookup = {}
+
+    organizations.forEach(organization => {
+      projects.forEach(project => {
+        let match
+
+        organization.original_project_ids.forEach(project_id => {
+          if (project.project_id == project_id) {
+            match = organization
+          }
+        })
+
+        organization.extrapolated_project_ids.forEach(project_id => {
+          if (project.project_id == project_id) {
+            match = organization
+          }
+        })
+
+        // organization.aggregated.project_ids.forEach(project_id => {
+        //   if (project.project_id == project_id) {
+        //     match = organization
+        //   }
+        // })
+
+        if (project.project_id == organization.project_ids) {
+          match = organization
+        }
+
+        if (match) {
+          organizationByProjectIDLookup[project.project_id] = match
+        }
+      })
+    })
+  }
+
+  return organizationByProjectIDLookup[project_id]
+}
+*/
 
 let orderCursors = {
   learn   : 0,

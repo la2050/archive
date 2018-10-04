@@ -31,9 +31,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102042'
+challenge_url: 'https://activation.la2050.org/learn/future-america/'
+aggregated:
+  project_ids:
+    - '8102042'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/future-america/'
+  year_submitted:
+    - '2018'
 title: Future America
 uri: /organizations/future-america/
-challenge_url: 'https://activation.la2050.org/learn/future-america/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

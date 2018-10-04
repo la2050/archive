@@ -36,9 +36,16 @@ org_summary: >-
   of Los Angeles in piloting our after school program.
 areas_impacted: ''
 project_ids: '3102096'
+challenge_url: 'http://maker.good.is/myla2050/projects/createla.html'
+aggregated:
+  project_ids:
+    - '3102096'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/createla.html'
+  year_submitted:
+    - '2013'
 title: Create LA
 uri: /organizations/create-la/
-challenge_url: 'http://maker.good.is/myla2050/projects/createla.html'
 extrapolated_project_ids:
   - '3102096'
 project_titles_from_extrapolated_project_ids:

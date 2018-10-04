@@ -110,9 +110,16 @@ org_summary: >-
    http://youtu.be/uq-ohGG5avM
 areas_impacted: ''
 project_ids: '3102254'
+challenge_url: 'http://maker.good.is/myla2050/projects/LAMCII.html'
+aggregated:
+  project_ids:
+    - '3102254'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LAMCII.html'
+  year_submitted:
+    - '2013'
 title: The Los Angeles Mayor's Council on Innovation and Industry
 uri: /organizations/the-los-angeles-mayors-council-on-innovation-and-industry/
-challenge_url: 'http://maker.good.is/myla2050/projects/LAMCII.html'
 extrapolated_project_ids:
   - '3102254'
 project_titles_from_extrapolated_project_ids:

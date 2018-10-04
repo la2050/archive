@@ -67,9 +67,29 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102093'
+challenge_url: 'https://activation.la2050.org/create/opportunity-fund/'
+aggregated:
+  project_ids:
+    - '8102093'
+    - '6102171'
+    - '5102224'
+    - '4102259'
+    - '3102210'
+  challenge_url:
+    - 'https://activation.la2050.org/create/opportunity-fund/'
+    - >-
+      https://challenge.la2050.org/entry/catalyzing-community-partnerships-to-create-economic-mobility-for-las-underserved-entrepreneurs
+    - 'http://maker.good.is/myla2050create2015/projects/smallbizmicroloans.html'
+    - 'http://maker.good.is/myLA2050create/projects/OpportunityFund.html'
+    - 'http://maker.good.is/myla2050/projects/smallbizmicroloans.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
 title: Opportunity Fund
 uri: /organizations/opportunity-fund/
-challenge_url: 'https://activation.la2050.org/create/opportunity-fund/'
 extrapolated_project_ids:
   - '6102171'
   - '5102224'

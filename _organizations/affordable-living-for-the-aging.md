@@ -70,9 +70,16 @@ org_summary: >-
    http://nationalsharedhousing.org/shared-housing-symposium-in-los-angeles/
 areas_impacted: ''
 project_ids: '3102009'
+challenge_url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
+aggregated:
+  project_ids:
+    - '3102009'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/SharedHousing.html'
+  year_submitted:
+    - '2013'
 title: Affordable Living for the Aging
 uri: /organizations/affordable-living-for-the-aging/
-challenge_url: 'http://maker.good.is/myla2050/projects/SharedHousing.html'
 extrapolated_project_ids:
   - '3102009'
 project_titles_from_extrapolated_project_ids:

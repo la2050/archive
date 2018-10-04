@@ -27,10 +27,26 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102047'
-title: College Track
-uri: /organizations/college-track/
 challenge_url: >-
   https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
+aggregated:
+  project_ids:
+    - '6102047'
+    - '5102071'
+    - '4102224'
+    - '3102082'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/college-track-developing-purpose-driven-leaders-to-transform-la
+    - 'http://maker.good.is/myla2050learn2015/projects/iamCollegeTrack.html'
+    - 'http://maker.good.is/myla2050/projects/iamcollegetrack.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+title: College Track
+uri: /organizations/college-track/
 extrapolated_project_ids:
   - '6102047'
   - '5102071'

@@ -25,10 +25,21 @@ org_summary: >-
 areas_impacted:
   - Compton
 project_ids: '6102125'
-title: LA Voice
-uri: /organizations/la-voice/
 challenge_url: >-
   https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
+aggregated:
+  project_ids:
+    - '6102125'
+    - '5102169'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/building-police-community-trust-in-compton-through-reform-and-accountability
+    - 'http://maker.good.is/myla2050connect2015/projects/lavoice.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: LA Voice
+uri: /organizations/la-voice/
 extrapolated_project_ids:
   - '6102125'
   - '5102169'

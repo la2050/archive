@@ -36,10 +36,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102284'
-title: WISH Academy High School
-uri: /organizations/wish-academy-high-school/
 challenge_url: >-
   https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
+aggregated:
+  project_ids:
+    - '6102284'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
+  year_submitted:
+    - '2016'
+title: WISH Academy High School
+uri: /organizations/wish-academy-high-school/
 extrapolated_project_ids:
   - '6102284'
 project_titles_from_extrapolated_project_ids:

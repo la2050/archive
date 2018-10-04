@@ -18,9 +18,15 @@ org_summary: >-
   services for LGBT people.
 areas_impacted: ''
 project_ids: '4102174'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102174'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: The Los Angeles LGBT Center
 uri: /organizations/the-los-angeles-lgbt-center/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102223'
 project_titles_from_extrapolated_project_ids:

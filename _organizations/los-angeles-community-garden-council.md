@@ -24,9 +24,15 @@ org_summary: >-
   their neighborhood in the next year!
 areas_impacted: ''
 project_ids: '4102147'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102147'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Los Angeles Community Garden Council
 uri: /organizations/los-angeles-community-garden-council/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

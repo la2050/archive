@@ -28,9 +28,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '4102106'
+challenge_url: 'https://activation.la2050.org/learn/data-360/'
+aggregated:
+  project_ids:
+    - '4102106'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/data-360/'
+  year_submitted:
+    - '2018'
 title: Data 360
 uri: /organizations/data-360/
-challenge_url: 'https://activation.la2050.org/learn/data-360/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

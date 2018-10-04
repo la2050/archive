@@ -37,9 +37,16 @@ org_summary: >-
    </p>5. A Haynes Foundation-funded (cityLAB) study envisioning alternative urban scenarios that might transpire around the planned station stops of California's High Speed Rail system. Included “Sportsville”, a design plan for the financing and construction of an Olympic athletes’ training facility and extended stay housing adjacent to Anaheim’s soon-to-be completed station. Centered around Anaheim Stadium and proposing the reuse of its parking lot, it also envisioned the rubber damming of the nearby Santa Ana river channel to enable an Olympic-scaled sports venue (2011).<p>
 areas_impacted: ''
 project_ids: '3102261'
+challenge_url: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
+aggregated:
+  project_ids:
+    - '3102261'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
+  year_submitted:
+    - '2013'
 title: UCLA Dept. of Architecture and Urban Design
 uri: /organizations/ucla-dept-of-architecture-and-urban-design/
-challenge_url: 'http://maker.good.is/myla2050/projects/HYPO-PARK.html'
 extrapolated_project_ids:
   - '3102261'
 project_titles_from_extrapolated_project_ids:

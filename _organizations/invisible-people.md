@@ -107,9 +107,16 @@ org_summary: >-
    <p>There is a lot more, but our biggest achievement is is changing how millions of people around the word view homelessness </p>
 areas_impacted: ''
 project_ids: '3102158'
+challenge_url: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
+aggregated:
+  project_ids:
+    - '3102158'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
+  year_submitted:
+    - '2013'
 title: Invisible People
 uri: /organizations/invisible-people/
-challenge_url: 'http://maker.good.is/myla2050/projects/invisiblepeople.html'
 extrapolated_project_ids:
   - '3102158'
 project_titles_from_extrapolated_project_ids:
