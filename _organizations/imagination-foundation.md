@@ -24,9 +24,19 @@ org_summary: >-
   entrepreneurship in children around the world through Creative Play.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide),LAUSD'
 project_ids: '5102138'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/imagination.html'
+aggregated:
+  project_ids:
+    - '5102138'
+    - '3102154'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/imagination.html'
+    - 'http://maker.good.is/myla2050/projects/cainesarcade.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Imagination Foundation
 uri: /organizations/imagination-foundation/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/imagination.html'
 extrapolated_project_ids:
   - '5102138'
   - '3102154'

@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '6102203'
-title: Safe Refuge
-uri: /organizations/safe-refuge/
 challenge_url: >-
   https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
+aggregated:
+  project_ids:
+    - '6102203'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
+  year_submitted:
+    - '2016'
+title: Safe Refuge
+uri: /organizations/safe-refuge/
 extrapolated_project_ids:
   - '6102203'
 project_titles_from_extrapolated_project_ids:

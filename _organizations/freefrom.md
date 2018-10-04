@@ -31,9 +31,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102041'
+challenge_url: 'https://activation.la2050.org/live/freefrom/'
+aggregated:
+  project_ids:
+    - '8102041'
+  challenge_url:
+    - 'https://activation.la2050.org/live/freefrom/'
+  year_submitted:
+    - '2018'
 title: FreeFrom
 uri: /organizations/freefrom/
-challenge_url: 'https://activation.la2050.org/live/freefrom/'
 extrapolated_project_ids:
   - '8102041'
 project_titles_from_extrapolated_project_ids:

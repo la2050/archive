@@ -21,9 +21,15 @@ org_summary: >-
   potential as productive, caring, and responsible citizens
 areas_impacted: ''
 project_ids: '4102117'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102117'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Boys & Girls Clubs of the Los Angeles Harbor
 uri: /organizations/boys-girls-clubs-of-the-los-angeles-harbor/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102027'
 project_titles_from_extrapolated_project_ids:

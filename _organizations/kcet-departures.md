@@ -65,9 +65,16 @@ org_summary: >-
    In addition Departures Youth Voices has partnered with The HeArt Project, a non-profit arts organization that has been utilizing the Youth Voices curriculum to engage students at L.A.-area alternative and continuation schools through the arts.
 areas_impacted: ''
 project_ids: '3102162'
+challenge_url: 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
+aggregated:
+  project_ids:
+    - '3102162'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
+  year_submitted:
+    - '2013'
 title: KCET Departures
 uri: /organizations/kcet-departures/
-challenge_url: 'http://maker.good.is/myla2050/projects/youthvoicesmobile.html'
 extrapolated_project_ids:
   - '3102162'
 project_titles_from_extrapolated_project_ids:

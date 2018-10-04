@@ -24,9 +24,16 @@ org_summary: 'Impacting future generations through art, education, and culture.'
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102178'
+challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
+aggregated:
+  project_ids:
+    - '6102178'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
+  year_submitted:
+    - '2016'
 title: Peaceworks International
 uri: /organizations/peaceworks-international/
-challenge_url: 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
 extrapolated_project_ids:
   - '6102178'
 project_titles_from_extrapolated_project_ids:

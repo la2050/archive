@@ -25,9 +25,22 @@ org_summary: >-
   between the ages of 13 and 21.
 areas_impacted: LAUSD
 project_ids: '5102135'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
+aggregated:
+  project_ids:
+    - '5102135'
+    - '4102200'
+    - '3102148'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
+    - 'http://maker.good.is/myLA2050create/projects/LAhasHEART.html'
+    - 'http://maker.good.is/myla2050/projects/camphollywoodheart.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
 title: Hollywood HEART
 uri: /organizations/hollywood-heart/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
 extrapolated_project_ids:
   - '5102135'
   - '4102090'

@@ -42,9 +42,19 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102058'
+challenge_url: 'https://activation.la2050.org/play/kounkuey-design-initiative/'
+aggregated:
+  project_ids:
+    - '8102058'
+    - '4102252'
+  challenge_url:
+    - 'https://activation.la2050.org/play/kounkuey-design-initiative/'
+    - 'http://maker.good.is/myLA2050play/projects/UnlocktheBlock.html'
+  year_submitted:
+    - '2018'
+    - '2014'
 title: Kounkuey Design Initiative
 uri: /organizations/kounkuey-design-initiative/
-challenge_url: 'https://activation.la2050.org/play/kounkuey-design-initiative/'
 extrapolated_project_ids:
   - '4102106'
 project_titles_from_extrapolated_project_ids:

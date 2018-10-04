@@ -31,13 +31,21 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102002'
+challenge_url: >-
+  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
+aggregated:
+  project_ids:
+    - '8102002'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
+  year_submitted:
+    - '2018'
 title: >-
   #HashtagLunchbag - powered by Living Through Giving Foundation, 501(c)3
   nonprofit
 uri: >-
   /organizations/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
-challenge_url: >-
-  https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

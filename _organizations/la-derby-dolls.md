@@ -27,10 +27,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102120'
-title: LA Derby Dolls
-uri: /organizations/la-derby-dolls/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
+aggregated:
+  project_ids:
+    - '6102120'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
+  year_submitted:
+    - '2016'
+title: LA Derby Dolls
+uri: /organizations/la-derby-dolls/
 extrapolated_project_ids:
   - '6102120'
 project_titles_from_extrapolated_project_ids:

@@ -43,10 +43,18 @@ areas_impacted:
     We will work at sites along the entire 51-mile length of the LA River and
     its surrounding communities within the LA watershed/LA Basin.
 project_ids: '5102247'
-title: LA River Public Art Project (c/o ERW Design)
-uri: /organizations/la-river-public-art-project-c-o-erw-design/
 challenge_url: >-
   https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
+aggregated:
+  project_ids:
+    - '5102247'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
+  year_submitted:
+    - '2018'
+title: LA River Public Art Project (c/o ERW Design)
+uri: /organizations/la-river-public-art-project-c-o-erw-design/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

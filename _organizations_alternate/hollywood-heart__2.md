@@ -1,0 +1,78 @@
+---
+organization_id: '2015087'
+year_submitted: 2014
+organization_name: Hollywood HEART
+organization_website:
+  - www.hollywoodheart.org
+ein: '954522816'
+zip: '91101'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954522816'
+ntee_type: ''
+tags_indicators:
+  - Art
+  - Teaching & mentorship
+  - Arts & cultural vitality
+  - Education & youth
+twitter: www.twitter.com/hollywdheart
+instagram: instagram.com/hollywoodsheart
+facebook: www.facebook.com/hollywoodheart
+org_type: Nonprofit
+project_image: 'https://img.youtube.com/vi/7VGCk_c0VcU/maxresdefault.jpg'
+project_video: ''
+org_summary: >-
+  Hollywood HEART is committed to empowering youth through education and
+  exploration of the arts.
+areas_impacted: >-
+  Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
+  Bay,Westside
+project_ids: '4102200'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/LAhasHEART.html'
+aggregated:
+  project_ids:
+    - '5102135'
+    - '4102200'
+    - '3102148'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/hollywoodheart.html'
+    - 'http://maker.good.is/myLA2050create/projects/LAhasHEART.html'
+    - 'http://maker.good.is/myla2050/projects/camphollywoodheart.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
+title: Hollywood HEART
+uri: /organizations/hollywood-heart/
+extrapolated_project_ids:
+  - '5102135'
+  - '4102090'
+  - '3102148'
+project_titles_from_extrapolated_project_ids:
+  - 'Hollywood HEART: Arts in the Classroom'
+  - LA has HEART
+  - 'Camp Hollywood HEART '
+project_titles:
+  - 'Camp Hollywood HEART '
+  - 'Hollywood HEART: Arts in the Classroom'
+  - LA has HEART
+project_titles_from_project_ids:
+  - Green The Block
+original_project_titles:
+  - 'Camp Hollywood HEART '
+  - 'Hollywood HEART: Arts in the Classroom'
+  - LA has HEART
+  - The CITYstage Arts Discovery Project
+  - The CITYstage Arts Discovery Project
+  - The CITYstage Arts Discovery Project
+  - The CITYstage Arts Discovery Project
+original_project_ids:
+  - '3102073'
+  - '3102073'
+  - '3102073'
+  - '3102073'
+  - '3102148'
+  - '4102090'
+  - '5102135'
+project_titles_flagged: 1
+youtube_video_identifier: 7VGCk_c0VcU
+
+---

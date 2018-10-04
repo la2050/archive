@@ -34,10 +34,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102163'
-title: National Foster Youth Institute
-uri: /organizations/national-foster-youth-institute/
 challenge_url: >-
   https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
+aggregated:
+  project_ids:
+    - '6102163'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
+  year_submitted:
+    - '2016'
+title: National Foster Youth Institute
+uri: /organizations/national-foster-youth-institute/
 extrapolated_project_ids:
   - '6102163'
 project_titles_from_extrapolated_project_ids:

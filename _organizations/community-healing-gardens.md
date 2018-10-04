@@ -26,10 +26,18 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102051'
-title: Community Healing Gardens
-uri: /organizations/community-healing-gardens/
 challenge_url: >-
   https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
+aggregated:
+  project_ids:
+    - '6102051'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
+  year_submitted:
+    - '2016'
+title: Community Healing Gardens
+uri: /organizations/community-healing-gardens/
 extrapolated_project_ids:
   - '6102051'
 project_titles_from_extrapolated_project_ids:

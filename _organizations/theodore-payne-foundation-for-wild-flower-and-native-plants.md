@@ -25,10 +25,21 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '6102261'
-title: Theodore Payne Foundation for Wild Flower and Native Plants
-uri: /organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/
 challenge_url: >-
   https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
+aggregated:
+  project_ids:
+    - '6102261'
+    - '5102316'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/grow-local-plant-native!-youth-advocacy-for-sustainable-landscapes-at-la-public-housing
+    - 'http://maker.good.is/myla2050connect2015/projects/LFR.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Theodore Payne Foundation for Wild Flower and Native Plants
+uri: /organizations/theodore-payne-foundation-for-wild-flower-and-native-plants/
 extrapolated_project_ids:
   - '6102261'
 project_titles_from_extrapolated_project_ids:

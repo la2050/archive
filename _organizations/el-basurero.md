@@ -25,9 +25,16 @@ org_summary: >-
   picked up within a reasonable time frame.
 areas_impacted: 'Central LA,East LA,South LA'
 project_ids: '5102092'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/basurero.html'
+aggregated:
+  project_ids:
+    - '5102092'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/basurero.html'
+  year_submitted:
+    - '2015'
 title: El Basurero
 uri: /organizations/el-basurero/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/basurero.html'
 extrapolated_project_ids:
   - '5102092'
 project_titles_from_extrapolated_project_ids:

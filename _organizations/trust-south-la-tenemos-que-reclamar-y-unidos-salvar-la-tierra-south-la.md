@@ -90,10 +90,17 @@ org_summary: >-
    Initiated Ride South LA mapping projects as community advocacy tools, to demand equitable bike/pedestrian infrastructure investment in South LA.
 areas_impacted: ''
 project_ids: '3102259'
+challenge_url: 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
+aggregated:
+  project_ids:
+    - '3102259'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
+  year_submitted:
+    - '2013'
 title: TRUST South LA (Tenemos que Reclamar y Unidos Salvar la Tierra-South LA)
 uri: >-
   /organizations/trust-south-la-tenemos-que-reclamar-y-unidos-salvar-la-tierra-south-la/
-challenge_url: 'http://maker.good.is/myla2050/projects/TRUSTSouthLA2050.html'
 extrapolated_project_ids:
   - '3102259'
 project_titles_from_extrapolated_project_ids:

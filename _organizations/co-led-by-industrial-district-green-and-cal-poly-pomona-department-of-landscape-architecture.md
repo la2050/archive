@@ -28,13 +28,21 @@ areas_impacted:
   - Central LA
   - East LA
 project_ids: '6102045'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
+aggregated:
+  project_ids:
+    - '6102045'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
+  year_submitted:
+    - '2016'
 title: >-
   Co-led by Industrial District Green and Cal Poly Pomona Department of
   Landscape Architecture.
 uri: >-
   /organizations/co-led-by-industrial-district-green-and-cal-poly-pomona-department-of-landscape-architecture/
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-green-alley-playlab-pop-up-playscapes-in-the-industrial-alleys-of-downtown-los-angeles
 extrapolated_project_ids:
   - '6102045'
 project_titles_from_extrapolated_project_ids:

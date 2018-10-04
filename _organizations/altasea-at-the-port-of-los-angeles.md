@@ -28,9 +28,16 @@ areas_impacted:
   - Gateway Cities
   - LAUSD
 project_ids: '6102005'
+challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
+aggregated:
+  project_ids:
+    - '6102005'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
+  year_submitted:
+    - '2016'
 title: AltaSea at the Port of Los Angeles
 uri: /organizations/altasea-at-the-port-of-los-angeles/
-challenge_url: 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
 extrapolated_project_ids:
   - '6102005'
 project_titles_from_extrapolated_project_ids:

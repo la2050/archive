@@ -38,9 +38,16 @@ org_summary: >-
   full-time in education.
 areas_impacted: ''
 project_ids: '3102120'
+challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
+aggregated:
+  project_ids:
+    - '3102120'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/edpioneer.html'
+  year_submitted:
+    - '2013'
 title: Education Pioneers
 uri: /organizations/education-pioneers/
-challenge_url: 'http://maker.good.is/myla2050/projects/edpioneer.html'
 extrapolated_project_ids:
   - '3102120'
 project_titles_from_extrapolated_project_ids:

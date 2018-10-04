@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - Gateway Cities
 project_ids: '6102048'
-title: Come Alive Long Beach
-uri: /organizations/come-alive-long-beach/
 challenge_url: >-
   https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
+aggregated:
+  project_ids:
+    - '6102048'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
+  year_submitted:
+    - '2016'
+title: Come Alive Long Beach
+uri: /organizations/come-alive-long-beach/
 extrapolated_project_ids:
   - '6102048'
 project_titles_from_extrapolated_project_ids:

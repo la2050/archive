@@ -26,9 +26,18 @@ org_summary: >-
   communities.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102066'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
+aggregated:
+  project_ids:
+    - '5102066'
+    - '4102194'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: Climate Cents
 uri: /organizations/climate-cents/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ClimateCents.html'
 extrapolated_project_ids:
   - '5102066'
 project_titles_from_extrapolated_project_ids:

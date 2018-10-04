@@ -47,9 +47,19 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102035'
+challenge_url: 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
+aggregated:
+  project_ids:
+    - '8102035'
+    - '3102117'
+  challenge_url:
+    - 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
+    - 'http://maker.good.is/myla2050/projects/streetvendors.html'
+  year_submitted:
+    - '2018'
+    - '2013'
 title: East LA Community Corporation (ELACC)
 uri: /organizations/east-la-community-corporation-elacc/
-challenge_url: 'https://activation.la2050.org/create/east-la-community-corporation-elacc/'
 extrapolated_project_ids:
   - '3102117'
 project_titles_from_extrapolated_project_ids:

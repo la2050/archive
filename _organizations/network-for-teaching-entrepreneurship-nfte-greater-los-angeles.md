@@ -26,9 +26,19 @@ areas_impacted: >-
   Central LA,East LA,San Fernando Valley,South LA,South Bay,County of Los
   Angeles (countywide),City of Los Angeles (citywide),LAUSD
 project_ids: '5102221'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
+aggregated:
+  project_ids:
+    - '5102221'
+    - '3102205'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
+    - 'http://maker.good.is/myla2050/projects/nftela.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
 uri: /organizations/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/nftela.html'
 extrapolated_project_ids:
   - '5102221'
   - '3102205'

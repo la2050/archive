@@ -44,9 +44,16 @@ org_summary: >-
    BLENDED LEARNING: We have established three different exemplar “blended learning” programs that integrate online curriculum with traditional teacher-led classroom instruction. Our programs are pilots to create new instructional models to support LAUSD in its bold initiative to cross the digital divide for every student through the use of tablet computers. Each program leverages technology as part of a rotation model where students circulate between classroom instruction, online learn
 areas_impacted: ''
 project_ids: '3102253'
+challenge_url: 'http://maker.good.is/myla2050/projects/school_fuel.html'
+aggregated:
+  project_ids:
+    - '3102253'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/school_fuel.html'
+  year_submitted:
+    - '2013'
 title: The Los Angeles Fund for Public Education
 uri: /organizations/the-los-angeles-fund-for-public-education/
-challenge_url: 'http://maker.good.is/myla2050/projects/school_fuel.html'
 extrapolated_project_ids:
   - '3102253'
 project_titles_from_extrapolated_project_ids:

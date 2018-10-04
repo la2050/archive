@@ -56,9 +56,16 @@ org_summary: >-
    We strive for the students in Los Angeles to have quality college access programs and have an experience similar to Nicole Harris Blackwell. Nicole shared that her family wanted her to be the first to go to a four-year college “but [they] didn’t know how to help [her] navigate through choosing a school or completing applications and financial aid forms. The Fulfillment Fund was invaluable in helping me to successfully enroll in Spelman College.” She is a proud graduate of Spelman College and Claremont Graduate University and is an English professor at Santa Monica College.
 areas_impacted: ''
 project_ids: '3102136'
+challenge_url: 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
+aggregated:
+  project_ids:
+    - '3102136'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
+  year_submitted:
+    - '2013'
 title: Fulfillment Fund
 uri: /organizations/fulfillment-fund/
-challenge_url: 'http://maker.good.is/myla2050/projects/FulfillmentFund.html'
 extrapolated_project_ids:
   - '3102136'
 project_titles_from_extrapolated_project_ids:

@@ -32,9 +32,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102028'
+challenge_url: 'https://activation.la2050.org/create/civic-innovation-lab/'
+aggregated:
+  project_ids:
+    - '8102028'
+  challenge_url:
+    - 'https://activation.la2050.org/create/civic-innovation-lab/'
+  year_submitted:
+    - '2018'
 title: Civic Innovation Lab
 uri: /organizations/civic-innovation-lab/
-challenge_url: 'https://activation.la2050.org/create/civic-innovation-lab/'
 extrapolated_project_ids:
   - '8102028'
 project_titles_from_extrapolated_project_ids:

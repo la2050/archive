@@ -43,9 +43,16 @@ org_summary: >-
   trips are concerned, that the parents carpool and pay for all admission fees.
 areas_impacted: ''
 project_ids: '3102080'
+challenge_url: 'http://maker.good.is/myla2050/projects/Nativ.html'
+aggregated:
+  project_ids:
+    - '3102080'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Nativ.html'
+  year_submitted:
+    - '2013'
 title: Nativ
 uri: /organizations/nativ/
-challenge_url: 'http://maker.good.is/myla2050/projects/Nativ.html'
 extrapolated_project_ids:
   - '3102080'
 project_titles_from_extrapolated_project_ids:

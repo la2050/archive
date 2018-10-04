@@ -18,9 +18,15 @@ org_summary: >-
   their future through programming and curriculum development.
 areas_impacted: ''
 project_ids: '4102168'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102168'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: 'The Exploratory: Maker Guilds'
 uri: /organizations/the-exploratory-maker-guilds/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102211'
 project_titles_from_extrapolated_project_ids:

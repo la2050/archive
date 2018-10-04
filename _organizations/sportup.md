@@ -38,10 +38,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102233'
-title: SportUp
-uri: /organizations/sportup/
 challenge_url: >-
   https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
+aggregated:
+  project_ids:
+    - '6102233'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
+  year_submitted:
+    - '2016'
+title: SportUp
+uri: /organizations/sportup/
 extrapolated_project_ids:
   - '6102233'
 project_titles_from_extrapolated_project_ids:

@@ -22,9 +22,16 @@ org_summary: >-
   both to inspire, empower, and see one another on a human level.
 areas_impacted: 'Central LA,East LA,South LA,South Bay,Westside'
 project_ids: '4102094'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
+aggregated:
+  project_ids:
+    - '4102094'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
+  year_submitted:
+    - '2014'
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
 extrapolated_project_ids:
   - '4102224'
 project_titles_from_extrapolated_project_ids:

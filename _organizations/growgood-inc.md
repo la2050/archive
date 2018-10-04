@@ -26,9 +26,16 @@ org_summary: >-
   Department of Agriculture.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102124'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
+aggregated:
+  project_ids:
+    - '5102124'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
+  year_submitted:
+    - '2015'
 title: 'GrowGood, Inc.'
 uri: /organizations/growgood-inc/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
 extrapolated_project_ids:
   - '5102124'
 project_titles_from_extrapolated_project_ids:

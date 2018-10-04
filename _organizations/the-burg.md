@@ -22,10 +22,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102247'
-title: The Burg
-uri: /organizations/the-burg/
 challenge_url: >-
   https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
+aggregated:
+  project_ids:
+    - '6102247'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
+  year_submitted:
+    - '2016'
+title: The Burg
+uri: /organizations/the-burg/
 extrapolated_project_ids:
   - '6102247'
 project_titles_from_extrapolated_project_ids:

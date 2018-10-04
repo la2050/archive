@@ -18,9 +18,15 @@ org_summary: >-
   healthy environments and sustainable communities.
 areas_impacted: ''
 project_ids: '4102156'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102156'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 uri: /organizations/mia-lehrer-associates-la-mas-arid-lands-institute/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

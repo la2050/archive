@@ -39,9 +39,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102102'
+challenge_url: 'https://activation.la2050.org/connect/regional-la/'
+aggregated:
+  project_ids:
+    - '8102102'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/regional-la/'
+  year_submitted:
+    - '2018'
 title: REGIONAL.LA
 uri: /organizations/regional-la/
-challenge_url: 'https://activation.la2050.org/connect/regional-la/'
 extrapolated_project_ids:
   - '8102102'
 project_titles_from_extrapolated_project_ids:

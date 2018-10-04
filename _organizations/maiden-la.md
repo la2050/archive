@@ -36,10 +36,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102151'
-title: Maiden LA
-uri: /organizations/maiden-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
+aggregated:
+  project_ids:
+    - '6102151'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
+  year_submitted:
+    - '2016'
+title: Maiden LA
+uri: /organizations/maiden-la/
 extrapolated_project_ids:
   - '6102151'
 project_titles_from_extrapolated_project_ids:

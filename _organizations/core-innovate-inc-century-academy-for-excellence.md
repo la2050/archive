@@ -26,10 +26,18 @@ areas_impacted:
   - South LA
   - County of Los Angeles
 project_ids: '6102115'
-title: 'Core Innovate, Inc. & Century Academy for Excellence'
-uri: /organizations/core-innovate-inc-century-academy-for-excellence/
 challenge_url: >-
   https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
+aggregated:
+  project_ids:
+    - '6102115'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
+  year_submitted:
+    - '2016'
+title: 'Core Innovate, Inc. & Century Academy for Excellence'
+uri: /organizations/core-innovate-inc-century-academy-for-excellence/
 extrapolated_project_ids:
   - '6102115'
 project_titles_from_extrapolated_project_ids:

@@ -27,10 +27,24 @@ areas_impacted:
   - Central LA
   - South LA
 project_ids: '6102265'
-title: Tickleberry Place
-uri: /organizations/tickleberry-place/
 challenge_url: >-
   https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
+aggregated:
+  project_ids:
+    - '6102265'
+    - '5102102'
+    - '4102244'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/tickleberry-place-a-mobile-play-explore-and-learn-pop-up
+    - 'http://maker.good.is/myla2050play2015/projects/Tickleberryplace.html'
+    - 'http://maker.good.is/myLA2050play/projects/Tickleberryplace.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: Tickleberry Place
+uri: /organizations/tickleberry-place/
 extrapolated_project_ids:
   - '6102265'
   - '5102319'

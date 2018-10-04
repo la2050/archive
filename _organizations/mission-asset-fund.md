@@ -35,9 +35,16 @@ org_summary: >-
    <p>MAF was honored to receive the 2012 Bank of America Neighborhood Builders Award, 2012 Latino Leaders Maestro Award, 2012 Ashoka Fellowship, and 2013 James Irvine Foundation Leadership Award. Last year, our Executive Director Jose Quinonez was also appointed Chair of the Consumer Advisory Board for the Consumer Financial Protection Bureau.</p>
 areas_impacted: ''
 project_ids: '3102198'
+challenge_url: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+aggregated:
+  project_ids:
+    - '3102198'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LendingCircles.html'
+  year_submitted:
+    - '2013'
 title: Mission Asset Fund
 uri: /organizations/mission-asset-fund/
-challenge_url: 'http://maker.good.is/myla2050/projects/LendingCircles.html'
 extrapolated_project_ids:
   - '3102198'
 project_titles_from_extrapolated_project_ids:

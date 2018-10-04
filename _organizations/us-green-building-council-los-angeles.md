@@ -19,9 +19,15 @@ org_summary: >-
   resiliency, and environmental justice for all.
 areas_impacted: ''
 project_ids: '4102182'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102182'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: US Green Building Council-Los Angeles
 uri: /organizations/us-green-building-council-los-angeles/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

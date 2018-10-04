@@ -35,9 +35,16 @@ areas_impacted:
   - LAUSD
   - SMMUSD
 project_ids: '5102284'
+challenge_url: 'https://activation.la2050.org/live/roots-wings/'
+aggregated:
+  project_ids:
+    - '5102284'
+  challenge_url:
+    - 'https://activation.la2050.org/live/roots-wings/'
+  year_submitted:
+    - '2018'
 title: Roots & Wings
 uri: /organizations/roots-wings/
-challenge_url: 'https://activation.la2050.org/live/roots-wings/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

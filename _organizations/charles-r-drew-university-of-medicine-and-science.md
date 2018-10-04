@@ -40,10 +40,18 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102017'
-title: Charles R. Drew University of Medicine and Science
-uri: /organizations/charles-r-drew-university-of-medicine-and-science/
 challenge_url: >-
   https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
+aggregated:
+  project_ids:
+    - '8102017'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
+  year_submitted:
+    - '2018'
+title: Charles R. Drew University of Medicine and Science
+uri: /organizations/charles-r-drew-university-of-medicine-and-science/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

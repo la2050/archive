@@ -26,9 +26,29 @@ org_summary: >-
   transition from cradle to college and career.
 areas_impacted: 'Central LA, LAUSD, San Fernando Valley, City of LA'
 project_ids: '8102140'
+challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'
+aggregated:
+  project_ids:
+    - '8102140'
+    - '6102288'
+    - '5102347'
+    - '4102267'
+    - '3102278'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/youth-policy-institute/'
+    - >-
+      https://challenge.la2050.org/entry/undermine-college-undermatching-using-technology-to-select-the-best-college-fit-for-las-students
+    - 'http://maker.good.is/myla2050learn2015/projects/YPICOLLEGEPROMISE.html'
+    - 'http://maker.good.is/myLA2050play/projects/YPI.html'
+    - 'http://maker.good.is/myla2050/projects/PromiseNeighborhood.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
 title: Youth Policy Institute
 uri: /organizations/youth-policy-institute/
-challenge_url: 'https://activation.la2050.org/connect/youth-policy-institute/'
 extrapolated_project_ids:
   - '6102288'
   - '5102347'

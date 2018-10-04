@@ -46,6 +46,28 @@ stylesheets:
 
 
 {% comment %} SHIM {% endcomment %}
+{% if project_list.size <= 0 or true %}
+  {% assign project_id_list = page.aggregated.project_ids %}
+  {% for project_id in project_id_list %}
+    {% for item in data_collection.docs %}
+      {% if item.project_id == project_id and item.organization_id == page.organization_id %}
+        {% assign project_list = project_list | push: item %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+
+{% for item in data_collection.docs %}
+  {% assign has_no_organization_match_by_project_id = item.has_no_organization_match_by_project_id %}
+  {% if item.title == "Dream Big With @movelatransit" %}
+    {% assign has_no_organization_match_by_project_id = true %}
+  {% endif %}
+  {% if item.organization_id == page.organization_id and has_no_organization_match_by_project_id %}
+    {% assign project_list = project_list | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% comment %} SHIM {% endcomment %}
 {% if project_list.size <= 0 %}
   {% for item in data_collection.docs %}
     {% if item.organization_id == page.organization_id %}
@@ -56,7 +78,7 @@ stylesheets:
 
 {% comment %} SHIM {% endcomment %}
 {% if project_list.size <= 0 %}
-  {% assign project_id_list = page.project_ids | split: "," %}
+  {% assign project_id_list = page.aggregated.project_ids %}
   {% for project_id in project_id_list %}
     {% for item in data_collection.docs %}
       {% if item.project_id == project_id %}
@@ -527,15 +549,55 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Ideas</h2>
 {% assign is_finalist = false %}
 {% for finalist in site.finalists %}
   {% if finalist == page.url %}
-    {% assign is_finalist = true %}
+    {% if project.year_submitted == 2018 %}
+      {% assign is_finalist = true %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
 {% assign is_winner = false %}
 {% for winner in site.data.winners %}
-  {% if winner.url == page.challenge_url or winner.title == project.title %}
+  {% if winner == project.challenge_url %}
     {% assign is_winner = true %}
   {% endif %}
+
+  {% for challenge_url in page.aggregated.challenge_url %}
+    {% if winner.url == challenge_url %}
+      {% if project.year_submitted == 2018 %}
+        {% if challenge_url contains "activation" %}
+          {% assign is_winner = true %}
+        {% endif %}
+      {% elsif project.year_submitted == 2016 %}
+        {% if challenge_url contains "challenge" %}
+          {% assign is_winner = true %}
+        {% endif %}
+      {% elsif project.year_submitted == 2015 %}
+        {% if challenge_url contains "maker" and challenge_url contains "2015" %}
+          {% assign is_winner = true %}
+        {% endif %}
+      {% elsif project.year_submitted == 2014 %}
+        {% if challenge_url contains "maker" %}
+          {% if challenge_url contains "learn" or 
+                challenge_url contains "create" or 
+                challenge_url contains "play" or 
+                challenge_url contains "connect" or 
+                challenge_url contains "live" %}
+            {% assign is_winner = true %}
+          {% endif %}
+        {% endif %}
+      {% elsif project.year_submitted == 2013 %}
+        {% if challenge_url contains "maker" %}
+          {% unless challenge_url contains "learn" or 
+                challenge_url contains "create" or 
+                challenge_url contains "play" or 
+                challenge_url contains "connect" or 
+                challenge_url contains "live" %}
+            {% assign is_winner = true %}
+          {% endunless %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 

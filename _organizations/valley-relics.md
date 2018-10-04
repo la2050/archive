@@ -26,10 +26,18 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: '6102278'
-title: Valley Relics
-uri: /organizations/valley-relics/
 challenge_url: >-
   https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
+aggregated:
+  project_ids:
+    - '6102278'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
+  year_submitted:
+    - '2016'
+title: Valley Relics
+uri: /organizations/valley-relics/
 extrapolated_project_ids:
   - '6102278'
 project_titles_from_extrapolated_project_ids:

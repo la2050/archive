@@ -28,9 +28,21 @@ areas_impacted:
   - San Fernando Valley
   - City of Los Angeles
 project_ids: '6102173'
+challenge_url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
+aggregated:
+  project_ids:
+    - '6102173'
+    - '4102236'
+    - '3102212'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/celebrate-pacoima'
+    - 'http://maker.good.is/myla2050/projects/pacoimabeautiful.html'
+  year_submitted:
+    - '2016'
+    - '2014'
+    - '2013'
 title: Pacoima Beautiful
 uri: /organizations/pacoima-beautiful/
-challenge_url: 'https://challenge.la2050.org/entry/celebrate-pacoima'
 extrapolated_project_ids:
   - '6102173'
   - '3102212'

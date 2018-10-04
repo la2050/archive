@@ -26,9 +26,16 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: '6102142'
+challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
+aggregated:
+  project_ids:
+    - '6102142'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
+  year_submitted:
+    - '2016'
 title: Los Angeles LISC
 uri: /organizations/los-angeles-lisc/
-challenge_url: 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
 extrapolated_project_ids:
   - '6102142'
 project_titles_from_extrapolated_project_ids:

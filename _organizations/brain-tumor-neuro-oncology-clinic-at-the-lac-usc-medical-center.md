@@ -50,10 +50,17 @@ org_summary: >-
   tumor genomics studies.
 areas_impacted: ''
 project_ids: '3102041'
+challenge_url: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
+aggregated:
+  project_ids:
+    - '3102041'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
+  year_submitted:
+    - '2013'
 title: Brain Tumor/Neuro-Oncology Clinic at the LAC+USC Medical Center
 uri: >-
   /organizations/brain-tumor-neuro-oncology-clinic-at-the-lac-usc-medical-center/
-challenge_url: 'http://maker.good.is/myla2050/projects/BRAINCANCERLA.html'
 extrapolated_project_ids:
   - '3102041'
 project_titles_from_extrapolated_project_ids:

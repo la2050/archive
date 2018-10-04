@@ -23,9 +23,16 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102168'
+challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'
+aggregated:
+  project_ids:
+    - '6102168'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/la-easy-access'
+  year_submitted:
+    - '2016'
 title: Habidatum
 uri: /organizations/habidatum/
-challenge_url: 'https://challenge.la2050.org/entry/la-easy-access'
 extrapolated_project_ids:
   - '6102168'
 project_titles_from_extrapolated_project_ids:

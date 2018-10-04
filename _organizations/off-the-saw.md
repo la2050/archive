@@ -24,9 +24,15 @@ org_summary: >-
   Angeles.
 areas_impacted: 'Central LA,County of Los Angeles (countywide),Other (please specify below):'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
+  year_submitted:
+    - '2015'
 title: Off The Saw
 uri: /organizations/off-the-saw/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
 extrapolated_project_ids:
   - '5102222'
 project_titles_from_extrapolated_project_ids:

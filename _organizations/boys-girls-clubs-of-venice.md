@@ -36,9 +36,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102010'
+challenge_url: 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
+aggregated:
+  project_ids:
+    - '8102010'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
+  year_submitted:
+    - '2018'
 title: Boys & Girls Clubs of Venice
 uri: /organizations/boys-girls-clubs-of-venice/
-challenge_url: 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
 extrapolated_project_ids:
   - '8102010'
 project_titles_from_extrapolated_project_ids:

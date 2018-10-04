@@ -80,9 +80,16 @@ org_summary: >-
    We provide a myriad of services throughout Los Angeles County, with primary emphasis in Venice Beach and South Central Los Angeles. Our academic arm provides a professionally and socially enriched facility for graduate and undergraduate training. Venice 2000/ H.E.L.P.E.R. Foundation is considered to be a model at-risk youth service facility and therefore attracts interns and social work students from major universities, such as USC, Loyola Marymount University, and University of California Los Angeles. We subscribe to comprehensive, integrated, community-based collaborative approach providing services to youth that enhances community safety while strengthening and preserving families. Our guiding philosophy is that children and youth must be preserved if the integrity of our society at-large is to be preserved. If families are to be responsible units, they must have access to healthy living environments, adequate food, and education for all its members, employment, and access to health services and freedom from gang, domestic and civil violence.
 areas_impacted: ''
 project_ids: '3102143'
+challenge_url: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
+aggregated:
+  project_ids:
+    - '3102143'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
+  year_submitted:
+    - '2013'
 title: H.E.L.P.E.R. Foundation
 uri: /organizations/h-e-l-p-e-r-foundation/
-challenge_url: 'http://maker.good.is/myla2050/projects/REACHINGOURYOUTH.html'
 extrapolated_project_ids:
   - '3102143'
 project_titles_from_extrapolated_project_ids:

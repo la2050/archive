@@ -28,10 +28,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102009'
-title: ARGO Labs
-uri: /organizations/argo-labs/
 challenge_url: >-
   https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
+aggregated:
+  project_ids:
+    - '6102009'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
+  year_submitted:
+    - '2016'
+title: ARGO Labs
+uri: /organizations/argo-labs/
 extrapolated_project_ids:
   - '6102009'
 project_titles_from_extrapolated_project_ids:

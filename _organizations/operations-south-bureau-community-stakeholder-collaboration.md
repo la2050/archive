@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,South LA,Westside,South Bay,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: '5102223'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
+aggregated:
+  project_ids:
+    - '5102223'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
+  year_submitted:
+    - '2015'
 title: Operations-South Bureau Community Stakeholder Collaboration
 uri: /organizations/operations-south-bureau-community-stakeholder-collaboration/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
 extrapolated_project_ids:
   - '5102223'
 project_titles_from_extrapolated_project_ids:

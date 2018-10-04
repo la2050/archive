@@ -50,9 +50,16 @@ org_summary: >-
    Campaigns such as this have generated thoughtful responses to advocates from public officials, while the focus on positive, solutions-based advocacy has earned the organization and its network of advocates the respect of local policymakers, who are increasingly willing to meet with organizational leadership. Arts for LA believes these indicators point to a more engaged and empowered creative community, and policymakers who are recognizing the role of arts & culture in the health of the region.
 areas_impacted: ''
 project_ids: '3102028'
+challenge_url: 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'
+aggregated:
+  project_ids:
+    - '3102028'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'
+  year_submitted:
+    - '2013'
 title: Arts for LA
 uri: /organizations/arts-for-la/
-challenge_url: 'http://maker.good.is/myla2050/projects/CreativeCapitalLA.html'
 extrapolated_project_ids:
   - '3102028'
 project_titles_from_extrapolated_project_ids:

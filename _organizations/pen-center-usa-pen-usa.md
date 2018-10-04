@@ -27,10 +27,21 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102180'
-title: 'PEN Center USA, ''PEN USA'''
-uri: /organizations/pen-center-usa-pen-usa/
 challenge_url: >-
   https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
+aggregated:
+  project_ids:
+    - '6102180'
+    - '4102237'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/emerging-voices-fellowship-creating-diverse-literary-artists-through-mentorship
+    - 'http://maker.good.is/myLA2050play/projects/LAYouthLaureate.html'
+  year_submitted:
+    - '2016'
+    - '2014'
+title: 'PEN Center USA, ''PEN USA'''
+uri: /organizations/pen-center-usa-pen-usa/
 extrapolated_project_ids:
   - '6102180'
 project_titles_from_extrapolated_project_ids:

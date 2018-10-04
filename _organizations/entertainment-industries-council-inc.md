@@ -20,9 +20,16 @@ org_summary: >-
   issues through education, resources and recognition.
 areas_impacted: 'San Fernando Valley,Westside,LAUSD,Other (please specify below):'
 project_ids: '5102093'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
+aggregated:
+  project_ids:
+    - '5102093'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
+  year_submitted:
+    - '2015'
 title: 'Entertainment Industries Council, Inc.'
 uri: /organizations/entertainment-industries-council-inc/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
 extrapolated_project_ids:
   - '5102093'
 project_titles_from_extrapolated_project_ids:

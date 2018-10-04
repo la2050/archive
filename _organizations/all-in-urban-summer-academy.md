@@ -26,9 +26,16 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '4102079'
+challenge_url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
+aggregated:
+  project_ids:
+    - '4102079'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
+  year_submitted:
+    - '2018'
 title: All-In Urban Summer Academy
 uri: /organizations/all-in-urban-summer-academy/
-challenge_url: 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
 extrapolated_project_ids:
   - '8102006'
 project_titles_from_extrapolated_project_ids:

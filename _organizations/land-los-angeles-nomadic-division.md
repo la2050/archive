@@ -31,9 +31,19 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102126'
+challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
+aggregated:
+  project_ids:
+    - '6102126'
+    - '4102231'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
+    - 'http://maker.good.is/myLA2050connect/projects/ArtsLANDed.html'
+  year_submitted:
+    - '2016'
+    - '2014'
 title: LAND (Los Angeles Nomadic Division)
 uri: /organizations/land-los-angeles-nomadic-division/
-challenge_url: 'https://challenge.la2050.org/entry/jose-dávila-public-art-project'
 extrapolated_project_ids:
   - '6102126'
   - '4102112'

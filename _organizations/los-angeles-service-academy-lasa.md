@@ -41,9 +41,25 @@ areas_impacted:
   - LAUSD
   - Gateway Cities
 project_ids: '8102077'
+challenge_url: 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
+aggregated:
+  project_ids:
+    - '8102077'
+    - '6102145'
+    - '5102195'
+    - '4102256'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
+    - >-
+      https://challenge.la2050.org/entry/los-angeles-is-a-puzzle-together-we-make-sense-of-it
+    - 'http://maker.good.is/myla2050connect2015/projects/LASA.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
 title: Los Angeles Service Academy (LASA)
 uri: /organizations/los-angeles-service-academy-lasa/
-challenge_url: 'https://activation.la2050.org/learn/los-angeles-service-academy-lasa/'
 extrapolated_project_ids:
   - '6102145'
 project_titles_from_extrapolated_project_ids:

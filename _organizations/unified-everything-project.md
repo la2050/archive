@@ -38,10 +38,18 @@ areas_impacted:
   - LAUSD
   - The website can list significant events beyond LA
 project_ids: '6102267'
-title: Unified Everything Project
-uri: /organizations/unified-everything-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/website-of-all-las-arts-science-events-schedules
+aggregated:
+  project_ids:
+    - '6102267'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/website-of-all-las-arts-science-events-schedules
+  year_submitted:
+    - '2016'
+title: Unified Everything Project
+uri: /organizations/unified-everything-project/
 extrapolated_project_ids:
   - '6102267'
 project_titles_from_extrapolated_project_ids:

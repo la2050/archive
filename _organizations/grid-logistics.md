@@ -33,10 +33,23 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102164'
-title: GRID Logistics
-uri: /organizations/grid-logistics/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
+aggregated:
+  project_ids:
+    - '6102164'
+    - '4102155'
+    - '8102125'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-grid-project-lets-create-50k-jobs-building-great-things-to-reduce-air-pollution-fwy-gridlock
+    - 'http://maker.good.is/myla2050live2015/projects/airtimeandmoney.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: GRID Logistics
+uri: /organizations/grid-logistics/
 extrapolated_project_ids:
   - '6102164'
   - '5102121'

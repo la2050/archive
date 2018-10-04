@@ -19,9 +19,15 @@ org_summary: >-
   play with digital media in the 21st century.
 areas_impacted: 'South LA,Other:'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
+  year_submitted:
+    - '2014'
 title: The New History
 uri: /organizations/the-new-history/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
 extrapolated_project_ids:
   - '4102226'
 project_titles_from_extrapolated_project_ids:

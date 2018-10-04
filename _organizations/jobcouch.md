@@ -22,9 +22,16 @@ org_summary: >-
   employers in the services industry.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102239'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
+aggregated:
+  project_ids:
+    - '5102239'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
+  year_submitted:
+    - '2015'
 title: JobCouch
 uri: /organizations/jobcouch/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
 extrapolated_project_ids:
   - '5102150'
 project_titles_from_extrapolated_project_ids:

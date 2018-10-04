@@ -26,9 +26,16 @@ org_summary: >-
   policies.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102017'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
+aggregated:
+  project_ids:
+    - '5102017'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
+  year_submitted:
+    - '2015'
 title: Anti-Recidivism Coalition
 uri: /organizations/anti-recidivism-coalition/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
 extrapolated_project_ids:
   - '5102017'
 project_titles_from_extrapolated_project_ids:

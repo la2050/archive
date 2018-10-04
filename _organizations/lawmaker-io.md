@@ -28,9 +28,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102067'
+challenge_url: 'https://activation.la2050.org/connect/lawmaker-io/'
+aggregated:
+  project_ids:
+    - '8102067'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/lawmaker-io/'
+  year_submitted:
+    - '2018'
 title: LawMaker.io
 uri: /organizations/lawmaker-io/
-challenge_url: 'https://activation.la2050.org/connect/lawmaker-io/'
 extrapolated_project_ids:
   - '8102067'
 project_titles_from_extrapolated_project_ids:

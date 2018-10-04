@@ -26,9 +26,17 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102004'
+challenge_url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
+aggregated:
+  project_ids:
+    - '8102004'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/a-healthier-community-starts-with-youth/
+  year_submitted:
+    - '2018'
 title: A Healthier Community Starts with YOUth
 uri: /organizations/a-healthier-community-starts-with-youth/
-challenge_url: 'https://activation.la2050.org/live/a-healthier-community-starts-with-youth/'
 extrapolated_project_ids:
   - '8102004'
 project_titles_from_extrapolated_project_ids:

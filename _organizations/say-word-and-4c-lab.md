@@ -31,10 +31,18 @@ areas_impacted:
   - South LA
   - Gateway Cities
 project_ids: '6102204'
-title: Say Word and 4C LAB
-uri: /organizations/say-word-and-4c-lab/
 challenge_url: >-
   https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
+aggregated:
+  project_ids:
+    - '6102204'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
+  year_submitted:
+    - '2016'
+title: Say Word and 4C LAB
+uri: /organizations/say-word-and-4c-lab/
 extrapolated_project_ids:
   - '6102204'
 project_titles_from_extrapolated_project_ids:

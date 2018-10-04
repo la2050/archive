@@ -25,9 +25,16 @@ org_summary: >-
   serving South Los Angeles.
 areas_impacted: 'South LA,South Bay'
 project_ids: '5102094'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
+aggregated:
+  project_ids:
+    - '5102094'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
+  year_submitted:
+    - '2015'
 title: Environmental Charter Schools
 uri: /organizations/environmental-charter-schools/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
 extrapolated_project_ids:
   - '5102094'
 project_titles_from_extrapolated_project_ids:

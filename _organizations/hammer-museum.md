@@ -42,9 +42,16 @@ org_summary: >-
   the Hammer enjoys could spill out into our commercial neighborhood as well.
 areas_impacted: ''
 project_ids: '3102144'
+challenge_url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
+aggregated:
+  project_ids:
+    - '3102144'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
+  year_submitted:
+    - '2013'
 title: Hammer Museum
 uri: /organizations/hammer-museum/
-challenge_url: 'http://maker.good.is/myla2050/projects/Hammer_Museum.html'
 extrapolated_project_ids:
   - '3102144'
 project_titles_from_extrapolated_project_ids:

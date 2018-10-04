@@ -22,9 +22,15 @@ org_summary: >-
   education and direct service.
 areas_impacted: ''
 project_ids: '4102135'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102135'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Hunger Action Los Angeles
 uri: /organizations/hunger-action-los-angeles/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -26,9 +26,16 @@ areas_impacted:
   - San Fernando Valley
   - LAUSD
 project_ids: '8102106'
+challenge_url: 'https://activation.la2050.org/live/science-academy-for-all/'
+aggregated:
+  project_ids:
+    - '8102106'
+  challenge_url:
+    - 'https://activation.la2050.org/live/science-academy-for-all/'
+  year_submitted:
+    - '2018'
 title: Science Academy For All
 uri: /organizations/science-academy-for-all/
-challenge_url: 'https://activation.la2050.org/live/science-academy-for-all/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

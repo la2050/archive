@@ -60,9 +60,16 @@ org_summary: >-
    Our newest group of third grade Dreamers have not only melted our hearts, but inspired our organization as a whole. These children come from extraordinary circumstances, including domestic violence, familial gang membership, and unbelievable scenarios of poverty. Despite it all, these children are well on their way to becoming the future leaders of our society. Over the course of IHADLA’s first six months of programming, these Dreamers went from 32% only passing their quarterly assessments to 62% at advanced/proficient level.</p>
 areas_impacted: ''
 project_ids: '3102243'
+challenge_url: 'http://maker.good.is/myla2050/projects/ihaveadream.html'
+aggregated:
+  project_ids:
+    - '3102243'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ihaveadream.html'
+  year_submitted:
+    - '2013'
 title: The "I Have a Dream" Foundation - Los Angeles
 uri: /organizations/the-i-have-a-dream-foundation-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050/projects/ihaveadream.html'
 extrapolated_project_ids:
   - '3102243'
 project_titles_from_extrapolated_project_ids:

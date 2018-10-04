@@ -31,9 +31,25 @@ areas_impacted:
   - Westside
   - LAUSD
 project_ids: '8102027'
+challenge_url: 'https://activation.la2050.org/connect/city-year-los-angeles/'
+aggregated:
+  project_ids:
+    - '8102027'
+    - '6102040'
+    - '5102062'
+    - '4102249'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/city-year-los-angeles/'
+    - >-
+      https://challenge.la2050.org/entry/bringing-stem-to-city-year-after-school-programs-in-boyle-heights-and-pico-union
+    - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
 title: City Year Los Angeles
 uri: /organizations/city-year-los-angeles/
-challenge_url: 'https://activation.la2050.org/connect/city-year-los-angeles/'
 extrapolated_project_ids:
   - '8102027'
   - '6102040'

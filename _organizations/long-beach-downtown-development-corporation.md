@@ -25,10 +25,18 @@ areas_impacted:
   - South Bay
   - Long Beach
 project_ids: '8102071'
-title: Long Beach Downtown Development Corporation
-uri: /organizations/long-beach-downtown-development-corporation/
 challenge_url: >-
   https://activation.la2050.org/create/long-beach-downtown-development-corporation/
+aggregated:
+  project_ids:
+    - '8102071'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/create/long-beach-downtown-development-corporation/
+  year_submitted:
+    - '2018'
+title: Long Beach Downtown Development Corporation
+uri: /organizations/long-beach-downtown-development-corporation/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

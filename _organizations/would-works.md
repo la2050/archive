@@ -24,9 +24,16 @@ org_summary: >-
   Angeles to work for specific goals by CREATING quality products
 areas_impacted: 'Central LA,East LA,South LA,Westside'
 project_ids: '4102109'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
+aggregated:
+  project_ids:
+    - '4102109'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/would-works.html'
+  year_submitted:
+    - '2014'
 title: Would-Works
 uri: /organizations/would-works/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/would-works.html'
 extrapolated_project_ids:
   - '4102262'
 project_titles_from_extrapolated_project_ids:

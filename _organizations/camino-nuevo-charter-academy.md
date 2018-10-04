@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '6102030'
-title: Camino Nuevo Charter Academy
-uri: /organizations/camino-nuevo-charter-academy/
 challenge_url: >-
   https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
+aggregated:
+  project_ids:
+    - '6102030'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
+  year_submitted:
+    - '2016'
+title: Camino Nuevo Charter Academy
+uri: /organizations/camino-nuevo-charter-academy/
 extrapolated_project_ids:
   - '6102030'
 project_titles_from_extrapolated_project_ids:

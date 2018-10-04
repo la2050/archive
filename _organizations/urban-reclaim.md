@@ -27,9 +27,16 @@ org_summary: >-
   on creating successful urban public spaces for the Los Angeles community.
 areas_impacted: ''
 project_ids: '3102267'
+challenge_url: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
+aggregated:
+  project_ids:
+    - '3102267'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
+  year_submitted:
+    - '2013'
 title: Urban Reclaim
 uri: /organizations/urban-reclaim/
-challenge_url: 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
 extrapolated_project_ids:
   - '3102267'
 project_titles_from_extrapolated_project_ids:

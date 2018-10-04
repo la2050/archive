@@ -48,9 +48,16 @@ org_summary: >-
    We have held over a dozen workshops, connected with individuals from every city in Contra Costa County and have made real strides with the majority of the cities we work with.
 areas_impacted: ''
 project_ids: '3102138'
+challenge_url: 'http://maker.good.is/myla2050/projects/climateleaders.html'
+aggregated:
+  project_ids:
+    - '3102138'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/climateleaders.html'
+  year_submitted:
+    - '2013'
 title: Generation Green's Contra Costa County Climate Leaders Program
 uri: /organizations/generation-greens-contra-costa-county-climate-leaders-program/
-challenge_url: 'http://maker.good.is/myla2050/projects/climateleaders.html'
 extrapolated_project_ids:
   - '3102138'
 project_titles_from_extrapolated_project_ids:

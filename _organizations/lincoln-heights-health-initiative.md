@@ -22,9 +22,15 @@ org_summary: >-
   community-based projects.
 areas_impacted: ''
 project_ids: '4102145'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102145'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: LINCOLN HEIGHTS HEALTH INITIATIVE
 uri: /organizations/lincoln-heights-health-initiative/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

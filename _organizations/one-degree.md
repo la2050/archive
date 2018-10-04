@@ -27,9 +27,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102092'
+challenge_url: 'https://activation.la2050.org/live/one-degree/'
+aggregated:
+  project_ids:
+    - '8102092'
+  challenge_url:
+    - 'https://activation.la2050.org/live/one-degree/'
+  year_submitted:
+    - '2018'
 title: One Degree
 uri: /organizations/one-degree/
-challenge_url: 'https://activation.la2050.org/live/one-degree/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

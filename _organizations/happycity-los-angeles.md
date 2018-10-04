@@ -26,9 +26,16 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,San Fernando Valley,South
   LA,Westside,South Bay,Antelope Valley,City of Los Angeles (citywide)
 project_ids: '5102125'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
+aggregated:
+  project_ids:
+    - '5102125'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
+  year_submitted:
+    - '2015'
 title: HappyCity Los Angeles
 uri: /organizations/happycity-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
 extrapolated_project_ids:
   - '5102125'
 project_titles_from_extrapolated_project_ids:

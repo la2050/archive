@@ -36,9 +36,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102081'
+challenge_url: 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
+aggregated:
+  project_ids:
+    - '8102081'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
+  year_submitted:
+    - '2018'
 title: Mayor’s Fund for Los Angeles
 uri: /organizations/mayors-fund-for-los-angeles/
-challenge_url: 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

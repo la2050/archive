@@ -25,10 +25,21 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102027'
-title: California Partnership
-uri: /organizations/california-partnership/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
+aggregated:
+  project_ids:
+    - '6102027'
+    - '4102221'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/la-civic-power-shaping-policy-and-building-relationships-with-all-stakeholders
+    - 'http://maker.good.is/myLA2050connect/projects/WeThePeople.html'
+  year_submitted:
+    - '2016'
+    - '2014'
+title: California Partnership
+uri: /organizations/california-partnership/
 extrapolated_project_ids:
   - '6102027'
   - '4102030'

@@ -32,9 +32,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102126'
+challenge_url: 'https://activation.la2050.org/live/topanga-womens-circle/'
+aggregated:
+  project_ids:
+    - '8102126'
+  challenge_url:
+    - 'https://activation.la2050.org/live/topanga-womens-circle/'
+  year_submitted:
+    - '2018'
 title: Topanga Women's Circle
 uri: /organizations/topanga-womens-circle/
-challenge_url: 'https://activation.la2050.org/live/topanga-womens-circle/'
 extrapolated_project_ids:
   - '8102126'
 project_titles_from_extrapolated_project_ids:

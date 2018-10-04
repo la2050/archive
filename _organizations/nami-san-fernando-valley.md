@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102160'
-title: NAMI San Fernando Valley
-uri: /organizations/nami-san-fernando-valley/
 challenge_url: >-
   https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
+aggregated:
+  project_ids:
+    - '6102160'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
+  year_submitted:
+    - '2016'
+title: NAMI San Fernando Valley
+uri: /organizations/nami-san-fernando-valley/
 extrapolated_project_ids:
   - '6102160'
 project_titles_from_extrapolated_project_ids:

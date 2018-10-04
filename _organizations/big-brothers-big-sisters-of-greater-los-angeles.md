@@ -39,10 +39,21 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102007'
-title: Big Brothers Big Sisters of Greater Los Angeles
-uri: /organizations/big-brothers-big-sisters-of-greater-los-angeles/
 challenge_url: >-
   https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
+aggregated:
+  project_ids:
+    - '8102007'
+    - '5102025'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
+    - 'http://maker.good.is/myla2050learn2015/projects/BBBSLAMentoring.html'
+  year_submitted:
+    - '2018'
+    - '2015'
+title: Big Brothers Big Sisters of Greater Los Angeles
+uri: /organizations/big-brothers-big-sisters-of-greater-los-angeles/
 extrapolated_project_ids:
   - '5102025'
 project_titles_from_extrapolated_project_ids:

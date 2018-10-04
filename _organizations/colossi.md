@@ -24,9 +24,15 @@ org_summary: >-
   place.
 areas_impacted: 'Other (please specify below):'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/colossi.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/colossi.html'
+  year_submitted:
+    - '2015'
 title: Colossi
 uri: /organizations/colossi/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/colossi.html'
 extrapolated_project_ids:
   - '5102072'
 project_titles_from_extrapolated_project_ids:

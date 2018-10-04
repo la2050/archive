@@ -26,9 +26,17 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102169'
+challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'
+aggregated:
+  project_ids:
+    - '6102169'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination
+  year_submitted:
+    - '2016'
 title: Office of Exposition Park Management
 uri: /organizations/office-of-exposition-park-management/
-challenge_url: 'https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination'
 extrapolated_project_ids:
   - '6102169'
 project_titles_from_extrapolated_project_ids:

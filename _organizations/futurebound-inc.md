@@ -22,9 +22,14 @@ org_summary: >-
   increase the number of youth attending college.
 areas_impacted: ''
 project_ids: ''
+challenge_url: ''
+aggregated:
+  project_ids: []
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: 'FutureBound, Inc.'
 uri: /organizations/futurebound-inc/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102080'
 project_titles_from_extrapolated_project_ids:

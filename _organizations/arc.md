@@ -75,9 +75,16 @@ org_summary: >-
    -ARC's partnership with CORE Educational Services has brought significant private sector money to our ASSETS sites from companies such as Home Depot, State Farm, Bain Capital, Leichtag Foundation, Sound Body Sound Mind, Parsi Accounting, Whole Foods, and many more.
 areas_impacted: ''
 project_ids: '3102006'
+challenge_url: 'http://maker.good.is/myla2050/projects/arcexperience.html'
+aggregated:
+  project_ids:
+    - '3102006'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/arcexperience.html'
+  year_submitted:
+    - '2013'
 title: arc
 uri: /organizations/arc/
-challenge_url: 'http://maker.good.is/myla2050/projects/arcexperience.html'
 extrapolated_project_ids:
   - '3102006'
 project_titles_from_extrapolated_project_ids:

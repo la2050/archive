@@ -43,10 +43,18 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102005'
-title: 'Action Civics LA, an initiative of Mikva Challenge'
-uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
 challenge_url: >-
   https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
+aggregated:
+  project_ids:
+    - '8102005'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
+  year_submitted:
+    - '2018'
+title: 'Action Civics LA, an initiative of Mikva Challenge'
+uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -78,9 +78,16 @@ org_summary: |-
    9) Nominated for the Governor's Council on Physical Fitness & Sports Award for Organizations
 areas_impacted: ''
 project_ids: '3102235'
+challenge_url: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
+aggregated:
+  project_ids:
+    - '3102235'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
+  year_submitted:
+    - '2013'
 title: Southern California Committee for the Olympic Games (SCCOG)
 uri: /organizations/southern-california-committee-for-the-olympic-games-sccog/
-challenge_url: 'http://maker.good.is/myla2050/projects/ReadySetGold.html'
 extrapolated_project_ids:
   - '3102235'
 project_titles_from_extrapolated_project_ids:

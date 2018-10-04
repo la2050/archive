@@ -26,9 +26,15 @@ areas_impacted: >-
   Central LA,East LA,South LA,South Bay,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
+  year_submitted:
+    - '2015'
 title: Local Roots
 uri: /organizations/local-roots/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
 extrapolated_project_ids:
   - '5102180'
 project_titles_from_extrapolated_project_ids:

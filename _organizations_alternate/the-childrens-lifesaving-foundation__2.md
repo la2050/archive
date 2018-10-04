@@ -1,0 +1,78 @@
+---
+organization_id: '2016215'
+year_submitted: 2015
+organization_name: The Children's Lifesaving Foundation
+organization_website:
+  - www.childrenslifesaving.org
+ein: '954371286'
+zip: '90403'
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=954371286'
+ntee_type: ''
+tags_indicators:
+  - Homelessness
+  - Teaching & mentorship
+  - Housing & homelessness
+  - Education & youth
+twitter: www.twitter.com/ChildrensLife
+instagram: www.instagram.com/childrenslifesaving
+facebook: www.facebook.com/TheChildrensLifesavingFoundation
+org_type: Nonprofit
+project_image: >-
+  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F23533%252Fdisplay%252FGreat-Group-Camp4All-Beach-Photo-2014.jpg=c570x385
+project_video: ''
+org_summary: >-
+  The Children's Lifesaving Foundation (The CLF) helps transform the LA's
+  homeless and at-risk youth and families.
+areas_impacted: 'Central LA,East LA,South LA,Westside,County of Los Angeles (countywide)'
+project_ids: '5102298'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/Camp4All.html'
+aggregated:
+  project_ids:
+    - '6102238'
+    - '5102298'
+    - '4102241'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
+    - 'http://maker.good.is/myla2050play2015/projects/Camp4All.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: The Children's Lifesaving Foundation
+uri: /organizations/the-childrens-lifesaving-foundation/
+extrapolated_project_ids:
+  - '6102238'
+  - '5102298'
+  - '4102209'
+project_titles_from_extrapolated_project_ids:
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing
+    recharging & play!
+  - Coding is Cool Workshop & Initiative!
+project_titles:
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing
+    recharging & play!
+  - Coding is Cool Workshop & Initiative!
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+project_titles_from_project_ids:
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing
+    recharging & play!
+original_project_titles:
+  - >-
+    Camp4All takes homeless families to beautiful LA beaches for surfing,
+    recharging & play!
+  - Coding is Cool Workshop & Initiative!
+  - Help Us Create and Inspire the Future Tech Leaders of LA!
+original_project_ids:
+  - '4102209'
+  - '5102298'
+  - '6102238'
+project_titles_flagged: 1
+maker_image_id: '23533'
+maker_image_file_name: Great-Group-Camp4All-Beach-Photo-2014.jpg
+
+---

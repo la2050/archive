@@ -27,10 +27,23 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '6102238'
-title: The Children's Lifesaving Foundation
-uri: /organizations/the-childrens-lifesaving-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
+aggregated:
+  project_ids:
+    - '6102238'
+    - '5102298'
+    - '4102241'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/help-us-create-and-inspire-the-future-tech-leaders-of-la!
+    - 'http://maker.good.is/myla2050play2015/projects/Camp4All.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: The Children's Lifesaving Foundation
+uri: /organizations/the-childrens-lifesaving-foundation/
 extrapolated_project_ids:
   - '6102238'
   - '5102298'

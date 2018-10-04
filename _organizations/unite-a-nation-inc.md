@@ -29,10 +29,18 @@ areas_impacted:
   - LAUSD
   - Baldwin Village 'The Jungles'
 project_ids: '6102269'
-title: 'Unite A Nation, Inc.'
-uri: /organizations/unite-a-nation-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
+aggregated:
+  project_ids:
+    - '6102269'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
+  year_submitted:
+    - '2016'
+title: 'Unite A Nation, Inc.'
+uri: /organizations/unite-a-nation-inc/
 extrapolated_project_ids:
   - '6102269'
 project_titles_from_extrapolated_project_ids:

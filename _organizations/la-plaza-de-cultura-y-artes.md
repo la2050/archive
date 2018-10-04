@@ -27,10 +27,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102122'
-title: LA Plaza de Cultura y Artes
-uri: /organizations/la-plaza-de-cultura-y-artes/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
+aggregated:
+  project_ids:
+    - '6102122'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
+  year_submitted:
+    - '2016'
+title: LA Plaza de Cultura y Artes
+uri: /organizations/la-plaza-de-cultura-y-artes/
 extrapolated_project_ids:
   - '6102122'
 project_titles_from_extrapolated_project_ids:

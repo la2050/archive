@@ -32,9 +32,19 @@ org_summary: >-
   school and achieve in life.
 areas_impacted: 'South LA,Other (please specify below):'
 project_ids: '5102074'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
+aggregated:
+  project_ids:
+    - '5102074'
+    - '3102084'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
+    - 'http://maker.good.is/myla2050/projects/CBEYouthEJ.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Communities for a Better Environment
 uri: /organizations/communities-for-a-better-environment/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ShareSouthLA.html'
 extrapolated_project_ids:
   - '3102084'
 project_titles_from_extrapolated_project_ids:

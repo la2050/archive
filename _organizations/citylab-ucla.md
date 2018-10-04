@@ -42,9 +42,16 @@ org_summary: >-
    Daly Genik Architects is partnering with cityLAB to design and test the Backyard Homes prototype. Daly Genik, founded in 1990, is an award-winning design practice with a focus on craft, construction systems, and material research. The firm’s work highlights the interrelationship of research and fabrication, sustainability and livability, utility and form. Firm Principal Kevin Daly has designed some of the area’s most outstanding affordable housing for the Santa Monica Community Corporation, as well as widely recognized technological innovations that serve environmental goals, such as a model daylighting system at Art Center’s Pasadena campus.
 areas_impacted: ''
 project_ids: '3102069'
+challenge_url: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+aggregated:
+  project_ids:
+    - '3102069'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/backyardhomes.html'
+  year_submitted:
+    - '2013'
 title: cityLAB-UCLA
 uri: /organizations/citylab-ucla/
-challenge_url: 'http://maker.good.is/myla2050/projects/backyardhomes.html'
 extrapolated_project_ids:
   - '3102069'
 project_titles_from_extrapolated_project_ids:

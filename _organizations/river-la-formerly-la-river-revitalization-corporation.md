@@ -31,10 +31,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102199'
-title: River LA (formerly LA River Revitalization Corporation)
-uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
 challenge_url: >-
   https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
+aggregated:
+  project_ids:
+    - '6102199'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
+  year_submitted:
+    - '2016'
+title: River LA (formerly LA River Revitalization Corporation)
+uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
 extrapolated_project_ids:
   - '6102199'
 project_titles_from_extrapolated_project_ids:

@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102197'
-title: Represent
-uri: /organizations/represent/
 challenge_url: >-
   https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
+aggregated:
+  project_ids:
+    - '6102197'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/represent-free-acting-media-arts-school-for-diverse-media-makers!
+  year_submitted:
+    - '2016'
+title: Represent
+uri: /organizations/represent/
 extrapolated_project_ids:
   - '6102197'
 project_titles_from_extrapolated_project_ids:

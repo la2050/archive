@@ -34,10 +34,18 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102212'
-title: South Bay Center for Counseling (SBCC)
-uri: /organizations/south-bay-center-for-counseling-sbcc/
 challenge_url: >-
   https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
+aggregated:
+  project_ids:
+    - '6102212'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
+  year_submitted:
+    - '2016'
+title: South Bay Center for Counseling (SBCC)
+uri: /organizations/south-bay-center-for-counseling-sbcc/
 extrapolated_project_ids:
   - '6102212'
 project_titles_from_extrapolated_project_ids:

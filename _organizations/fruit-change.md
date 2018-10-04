@@ -25,9 +25,15 @@ org_summary: >-
   neighborhood fruit trees.
 areas_impacted: 'Other (please specify below):'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
+  year_submitted:
+    - '2015'
 title: Fruit Change
 uri: /organizations/fruit-change/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
 extrapolated_project_ids:
   - '5102108'
 project_titles_from_extrapolated_project_ids:

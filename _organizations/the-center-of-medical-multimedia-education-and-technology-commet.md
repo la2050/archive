@@ -22,10 +22,19 @@ org_summary: >-
   bridge the gap between medicine and technology.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102297'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
+aggregated:
+  project_ids:
+    - '5102297'
+    - '4102216'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: The Center of Medical Multimedia Education and Technology (COMMET)
 uri: >-
   /organizations/the-center-of-medical-multimedia-education-and-technology-commet/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/COMMET.html'
 extrapolated_project_ids:
   - '5102297'
 project_titles_from_extrapolated_project_ids:

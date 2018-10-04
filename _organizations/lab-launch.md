@@ -26,9 +26,19 @@ areas_impacted: >-
   San Gabriel Valley,County of Los Angeles (countywide),City of Los Angeles
   (citywide)
 project_ids: '5102170'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
+aggregated:
+  project_ids:
+    - '5102170'
+    - '4102201'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
+    - 'http://maker.good.is/myLA2050create/projects/LALabLaunch.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: Lab Launch
 uri: /organizations/lab-launch/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/lablaunch.html'
 extrapolated_project_ids:
   - '5102170'
   - '4102110'

@@ -25,9 +25,19 @@ areas_impacted: >-
   Central LA,East LA,South LA,Westside,South Bay,County of Los Angeles
   (countywide),City of Los Angeles (citywide),Other (please specify below):
 project_ids: '5102129'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
+aggregated:
+  project_ids:
+    - '5102129'
+    - '3102146'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
+    - 'http://maker.good.is/myla2050/projects/healthyneighborhoods.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Heal the Bay
 uri: /organizations/heal-the-bay/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/DroppingKnowledgeLA.html'
 extrapolated_project_ids:
   - '5102129'
   - '3102146'

@@ -27,9 +27,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102050'
+challenge_url: 'https://activation.la2050.org/create/hacker-fund/'
+aggregated:
+  project_ids:
+    - '8102050'
+  challenge_url:
+    - 'https://activation.la2050.org/create/hacker-fund/'
+  year_submitted:
+    - '2018'
 title: Hacker Fund
 uri: /organizations/hacker-fund/
-challenge_url: 'https://activation.la2050.org/create/hacker-fund/'
 extrapolated_project_ids:
   - '8102050'
 project_titles_from_extrapolated_project_ids:

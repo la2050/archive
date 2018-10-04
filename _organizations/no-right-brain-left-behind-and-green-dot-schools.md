@@ -47,9 +47,16 @@ org_summary: >-
    <p>NRBLB has been awarded accolades by Core77Design and The Swedish-American Chamber of Commerce; presented at events such as TEDx, Art Directors Club, and LiveWire; and been featured in FastCompany, GOOD Magazine, Core77, BrainPickings, Design Mind, and Art Rebels. To date, NRBLB has built a strong coalition of companies, design schools, education networks, and creative professionals able to develop scalable, low-cost, and adoptable innovation tools that enhance creativity inside and outside of classrooms. </p>
 areas_impacted: ''
 project_ids: '3102207'
+challenge_url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+aggregated:
+  project_ids:
+    - '3102207'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/salamanderproject.html'
+  year_submitted:
+    - '2013'
 title: No Right Brain Left Behind and Green Dot Schools
 uri: /organizations/no-right-brain-left-behind-and-green-dot-schools/
-challenge_url: 'http://maker.good.is/myla2050/projects/salamanderproject.html'
 extrapolated_project_ids:
   - '3102207'
 project_titles_from_extrapolated_project_ids:

@@ -27,9 +27,16 @@ areas_impacted: >-
   Central LA,East LA,San Gabriel Valley,San Fernando Valley,South LA,County of
   Los Angeles (countywide),City of Los Angeles (citywide),LAUSD
 project_ids: '4102099'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
+aggregated:
+  project_ids:
+    - '4102099'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
+  year_submitted:
+    - '2015'
 title: ClassNube (Nube means Cloud in Spanish)
 uri: /organizations/classnube-nube-means-cloud-in-spanish/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
 extrapolated_project_ids:
   - '5102065'
 project_titles_from_extrapolated_project_ids:

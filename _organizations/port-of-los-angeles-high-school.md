@@ -27,10 +27,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102187'
-title: Port of Los Angeles High School
-uri: /organizations/port-of-los-angeles-high-school/
 challenge_url: >-
   https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
+aggregated:
+  project_ids:
+    - '6102187'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
+  year_submitted:
+    - '2016'
+title: Port of Los Angeles High School
+uri: /organizations/port-of-los-angeles-high-school/
 extrapolated_project_ids:
   - '6102187'
 project_titles_from_extrapolated_project_ids:

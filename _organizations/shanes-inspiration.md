@@ -26,9 +26,19 @@ areas_impacted: >-
   South LA,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD
 project_ids: '5102266'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
+aggregated:
+  project_ids:
+    - '5102266'
+    - '4102212'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
+    - 'http://maker.good.is/myLA2050play/projects/TogetherWePlayLA.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: Shane's Inspiration
 uri: /organizations/shanes-inspiration/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/TogetherWePlayLA.html'
 extrapolated_project_ids:
   - '5102266'
   - '4102191'

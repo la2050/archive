@@ -65,9 +65,16 @@ org_summary: >-
    Under its latest Urban Applications initiative which includes START SEEING UGLY!, M&A seeks to expand its activity into the larger Los Angeles area. Urban Applications is currently a finalist for an $350k ArtPlace grant from the NEA for the public art component of the Paseo and further development of its program.
 areas_impacted: ''
 project_ids: '3102195'
+challenge_url: 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
+aggregated:
+  project_ids:
+    - '3102195'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
+  year_submitted:
+    - '2013'
 title: Materials & Applications
 uri: /organizations/materials-applications/
-challenge_url: 'http://maker.good.is/myla2050/projects/UGLYAPP.html'
 extrapolated_project_ids:
   - '3102195'
 project_titles_from_extrapolated_project_ids:

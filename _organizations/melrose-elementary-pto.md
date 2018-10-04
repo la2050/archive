@@ -26,10 +26,18 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: '6102153'
-title: Melrose Elementary PTO
-uri: /organizations/melrose-elementary-pto/
 challenge_url: >-
   https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
+aggregated:
+  project_ids:
+    - '6102153'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
+  year_submitted:
+    - '2016'
+title: Melrose Elementary PTO
+uri: /organizations/melrose-elementary-pto/
 extrapolated_project_ids:
   - '6102153'
 project_titles_from_extrapolated_project_ids:

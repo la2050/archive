@@ -29,10 +29,18 @@ areas_impacted:
   - LAUSD
   - NELA
 project_ids: '6102279'
-title: 'Wyota Workshop, Inc.'
-uri: /organizations/wyota-workshop-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
+aggregated:
+  project_ids:
+    - '6102279'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
+  year_submitted:
+    - '2016'
+title: 'Wyota Workshop, Inc.'
+uri: /organizations/wyota-workshop-inc/
 extrapolated_project_ids:
   - '6102279'
 project_titles_from_extrapolated_project_ids:

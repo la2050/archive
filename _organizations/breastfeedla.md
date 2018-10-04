@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102022'
-title: BreastfeedLA
-uri: /organizations/breastfeedla/
 challenge_url: >-
   https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
+aggregated:
+  project_ids:
+    - '6102022'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
+  year_submitted:
+    - '2016'
+title: BreastfeedLA
+uri: /organizations/breastfeedla/
 extrapolated_project_ids:
   - '6102022'
 project_titles_from_extrapolated_project_ids:

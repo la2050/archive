@@ -27,9 +27,15 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/connect/we-are-the-mighty/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'https://activation.la2050.org/connect/we-are-the-mighty/'
+  year_submitted:
+    - '2018'
 title: We Are the Mighty
 uri: /organizations/we-are-the-mighty/
-challenge_url: 'https://activation.la2050.org/connect/we-are-the-mighty/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

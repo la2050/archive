@@ -22,9 +22,16 @@ org_summary: >-
   locations across the world.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102307'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
+aggregated:
+  project_ids:
+    - '5102307'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
+  year_submitted:
+    - '2015'
 title: The Moving Museum
 uri: /organizations/the-moving-museum/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
 extrapolated_project_ids:
   - '5102307'
 project_titles_from_extrapolated_project_ids:

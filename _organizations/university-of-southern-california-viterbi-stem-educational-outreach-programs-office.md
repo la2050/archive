@@ -30,13 +30,21 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102274'
+challenge_url: >-
+  https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
+aggregated:
+  project_ids:
+    - '6102274'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
+  year_submitted:
+    - '2016'
 title: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)
 uri: >-
   /organizations/university-of-southern-california-viterbi-stem-educational-outreach-programs-office/
-challenge_url: >-
-  https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
 extrapolated_project_ids:
   - '6102274'
 project_titles_from_extrapolated_project_ids:

@@ -25,9 +25,16 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102087'
+challenge_url: 'https://activation.la2050.org/live/my-friends-house-inc/'
+aggregated:
+  project_ids:
+    - '8102087'
+  challenge_url:
+    - 'https://activation.la2050.org/live/my-friends-house-inc/'
+  year_submitted:
+    - '2018'
 title: 'My Friends House, Inc.'
 uri: /organizations/my-friends-house-inc/
-challenge_url: 'https://activation.la2050.org/live/my-friends-house-inc/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -30,12 +30,19 @@ areas_impacted: >-
   South LA,South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide),LAUSD
 project_ids: '5102196'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
+aggregated:
+  project_ids:
+    - '5102196'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
+  year_submitted:
+    - '2015'
 title: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
   Southwest College Career & Technical Education
 uri: >-
   /organizations/los-angeles-southwest-college-foundation-innovate-globally-and-los-angeles-southwest-college-career-technical-education/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
 extrapolated_project_ids:
   - '5102196'
 project_titles_from_extrapolated_project_ids:

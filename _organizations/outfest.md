@@ -32,9 +32,16 @@ org_summary: >-
   participate in our programs.
 areas_impacted: ''
 project_ids: '3102211'
+challenge_url: 'http://maker.good.is/myla2050/projects/neighbor.html'
+aggregated:
+  project_ids:
+    - '3102211'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/neighbor.html'
+  year_submitted:
+    - '2013'
 title: Outfest
 uri: /organizations/outfest/
-challenge_url: 'http://maker.good.is/myla2050/projects/neighbor.html'
 extrapolated_project_ids:
   - '3102211'
 project_titles_from_extrapolated_project_ids:

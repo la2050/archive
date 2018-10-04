@@ -41,9 +41,19 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102100'
+challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
+aggregated:
+  project_ids:
+    - '8102100'
+    - '4102263'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/raise-a-child-inc/'
+    - 'http://maker.good.is/myLA2050connect/projects/RaiseAChild.html'
+  year_submitted:
+    - '2018'
+    - '2014'
 title: 'Raise A Child, Inc.'
 uri: /organizations/raise-a-child-inc/
-challenge_url: 'https://activation.la2050.org/connect/raise-a-child-inc/'
 extrapolated_project_ids:
   - '4102180'
 project_titles_from_extrapolated_project_ids:

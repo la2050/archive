@@ -37,10 +37,21 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102201'
-title: Ryman Arts
-uri: /organizations/ryman-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
+aggregated:
+  project_ids:
+    - '6102201'
+    - '3102230'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-big-draw-la-drawing-festival-drawing-los-angeles-together!
+    - 'http://maker.good.is/myla2050/projects/thebigdrawla.html'
+  year_submitted:
+    - '2016'
+    - '2013'
+title: Ryman Arts
+uri: /organizations/ryman-arts/
 extrapolated_project_ids:
   - '6102201'
   - '3102230'

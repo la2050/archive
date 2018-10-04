@@ -29,9 +29,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102062'
+challenge_url: 'https://activation.la2050.org/connect/la-forward/'
+aggregated:
+  project_ids:
+    - '8102062'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/la-forward/'
+  year_submitted:
+    - '2018'
 title: LA Forward
 uri: /organizations/la-forward/
-challenge_url: 'https://activation.la2050.org/connect/la-forward/'
 extrapolated_project_ids:
   - '8102062'
 project_titles_from_extrapolated_project_ids:

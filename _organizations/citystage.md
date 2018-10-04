@@ -47,9 +47,16 @@ org_summary: >-
    <p>In a conscious effort to provide our youth with leadership opportunities, we have added a former graduate of the Manual Arts High CITYstage pilot program to our Board of Directors as the first Student Director. We believe that including students on our board empowers them to become the next generation of leaders and advocates of LA culture and art. The Student Director role also gives a powerful voice to our most important stakeholders — our students. We can only ensure the viability of our programs and build a lasting foundation for the arts if we actively listen to and address the needs of the communities we serve. </p>
 areas_impacted: ''
 project_ids: '3102073'
+challenge_url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
+aggregated:
+  project_ids:
+    - '3102073'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
+  year_submitted:
+    - '2013'
 title: CITYstage
 uri: /organizations/citystage/
-challenge_url: 'http://maker.good.is/myla2050/projects/LACITYstageDiscovery.html'
 extrapolated_project_ids:
   - '3102073'
 project_titles_from_extrapolated_project_ids:

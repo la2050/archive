@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '5102132'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
+aggregated:
+  project_ids:
+    - '5102132'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
+  year_submitted:
+    - '2014'
 title: 'Earth Protect, Inc.'
 uri: /organizations/earth-protect-inc/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
 extrapolated_project_ids:
   - '4102063'
 project_titles_from_extrapolated_project_ids:

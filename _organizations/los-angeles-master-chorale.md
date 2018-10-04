@@ -32,9 +32,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102076'
+challenge_url: 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
+aggregated:
+  project_ids:
+    - '8102076'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
+  year_submitted:
+    - '2018'
 title: Los Angeles Master Chorale
 uri: /organizations/los-angeles-master-chorale/
-challenge_url: 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
 extrapolated_project_ids:
   - '8102076'
 project_titles_from_extrapolated_project_ids:

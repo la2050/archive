@@ -32,10 +32,18 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '6102281'
-title: WeThrive
-uri: /organizations/wethrive/
 challenge_url: >-
   https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
+aggregated:
+  project_ids:
+    - '6102281'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
+  year_submitted:
+    - '2016'
+title: WeThrive
+uri: /organizations/wethrive/
 extrapolated_project_ids:
   - '6102281'
 project_titles_from_extrapolated_project_ids:

@@ -23,9 +23,16 @@ org_summary: >-
   & diversification of the commercial enterprises
 areas_impacted: 'Central LA,Other:'
 project_ids: '4102004'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
+aggregated:
+  project_ids:
+    - '4102004'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
+  year_submitted:
+    - '2014'
 title: 3Boulevards and West Adams Heritage Assocation (WAHA)
 uri: /organizations/3boulevards-and-west-adams-heritage-assocation-waha/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
 extrapolated_project_ids:
   - '4102002'
 project_titles_from_extrapolated_project_ids:

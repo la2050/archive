@@ -19,9 +19,14 @@ org_summary: >-
   already have the career they want.
 areas_impacted: ''
 project_ids: ''
+challenge_url: ''
+aggregated:
+  project_ids: []
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: The Prep Source
 uri: /organizations/the-prep-source/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102227'
 project_titles_from_extrapolated_project_ids:

@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: '6102075'
-title: Friends of the Family
-uri: /organizations/friends-of-the-family/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
+aggregated:
+  project_ids:
+    - '6102075'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
+  year_submitted:
+    - '2016'
+title: Friends of the Family
+uri: /organizations/friends-of-the-family/
 extrapolated_project_ids:
   - '6102075'
 project_titles_from_extrapolated_project_ids:

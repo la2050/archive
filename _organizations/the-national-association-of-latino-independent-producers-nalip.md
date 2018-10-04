@@ -32,10 +32,21 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102121'
-title: 'The National Association of Latino Independent Producers, NALIP'
-uri: /organizations/the-national-association-of-latino-independent-producers-nalip/
 challenge_url: >-
   https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
+aggregated:
+  project_ids:
+    - '8102121'
+    - '4102264'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
+    - 'http://maker.good.is/myLA2050create/projects/DigtizeLA.html'
+  year_submitted:
+    - '2018'
+    - '2014'
+title: 'The National Association of Latino Independent Producers, NALIP'
+uri: /organizations/the-national-association-of-latino-independent-producers-nalip/
 extrapolated_project_ids:
   - '4102225'
 project_titles_from_extrapolated_project_ids:

@@ -30,10 +30,20 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '8102099'
-title: 'Proyecto Jardin: A Project of Hunger Action LA'
-uri: /organizations/proyecto-jardin-a-project-of-hunger-action-la/
 challenge_url: >-
   https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
+aggregated:
+  project_ids:
+    - '8102099'
+    - '4102262'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/learn/proyecto-jardin-a-project-of-hunger-action-la/
+  year_submitted:
+    - '2018'
+    - '2014'
+title: 'Proyecto Jardin: A Project of Hunger Action LA'
+uri: /organizations/proyecto-jardin-a-project-of-hunger-action-la/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

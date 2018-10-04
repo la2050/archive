@@ -30,10 +30,18 @@ areas_impacted:
   - Westside
   - South Bay
 project_ids: '6102159'
-title: Future Fields
-uri: /organizations/future-fields/
 challenge_url: >-
   https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
+aggregated:
+  project_ids:
+    - '6102159'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
+  year_submitted:
+    - '2016'
+title: Future Fields
+uri: /organizations/future-fields/
 extrapolated_project_ids:
   - '6102159'
 project_titles_from_extrapolated_project_ids:

@@ -24,9 +24,19 @@ org_summary: >-
   quality of life.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102318'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/poetry.html'
+aggregated:
+  project_ids:
+    - '5102318'
+    - '3102258'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/poetry.html'
+    - 'http://maker.good.is/myla2050/projects/tiachucha.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Tia Chucha's Centro Cultural
 uri: /organizations/tia-chuchas-centro-cultural/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/poetry.html'
 extrapolated_project_ids:
   - '5102318'
   - '3102258'

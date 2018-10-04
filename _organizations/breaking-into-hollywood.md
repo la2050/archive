@@ -24,9 +24,16 @@ org_summary: >-
   arts and media.
 areas_impacted: San Fernando Valey
 project_ids: '5102035'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/STARS.html'
+aggregated:
+  project_ids:
+    - '5102035'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/STARS.html'
+  year_submitted:
+    - '2015'
 title: Breaking into Hollywood
 uri: /organizations/breaking-into-hollywood/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/STARS.html'
 extrapolated_project_ids:
   - '5102035'
 project_titles_from_extrapolated_project_ids:

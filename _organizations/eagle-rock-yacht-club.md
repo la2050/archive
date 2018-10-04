@@ -24,9 +24,19 @@ org_summary: >-
   The Yacht Club inspires Angelenos to pursue the common good.
 areas_impacted: 'Central LA,East LA,South LA,San Fernando Valley,Westside,Other:'
 project_ids: '4102030'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/eryc.html'
+aggregated:
+  project_ids:
+    - '4102030'
+    - '3102116'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/eryc.html'
+    - 'http://maker.good.is/myla2050/projects/theyachtclub.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Eagle Rock Yacht Club
 uri: /organizations/eagle-rock-yacht-club/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/eryc.html'
 extrapolated_project_ids:
   - '4102062'
   - '3102116'

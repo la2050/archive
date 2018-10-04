@@ -31,11 +31,24 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102062'
+challenge_url: >-
+  https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
+aggregated:
+  project_ids:
+    - '6102062'
+    - '5102087'
+    - '4102226'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
+    - 'http://maker.good.is/myla2050create2015/projects/ThePLACEforCreatives.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
 title: DSTL Arts & The Partnership for Los Angeles' Creative Education (The PLACE)
 uri: >-
   /organizations/dstl-arts-the-partnership-for-los-angeles-creative-education-the-place/
-challenge_url: >-
-  https://challenge.la2050.org/entry/the-place-building-an-infrastructure-of-support-for-emerging-artists-and-their-mentors
 extrapolated_project_ids:
   - '6102062'
 project_titles_from_extrapolated_project_ids:

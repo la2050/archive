@@ -22,9 +22,16 @@ org_summary: >-
   cultivating the potential in aspiring artists through mentorship.
 areas_impacted: 'South Bay,Other:'
 project_ids: '4102166'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
+aggregated:
+  project_ids:
+    - '4102166'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
+  year_submitted:
+    - '2014'
 title: 'Theatrum Elysium, San Pedro Rep'
 uri: /organizations/theatrum-elysium-san-pedro-rep/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
 extrapolated_project_ids:
   - '4102233'
 project_titles_from_extrapolated_project_ids:

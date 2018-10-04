@@ -35,10 +35,21 @@ areas_impacted:
     Any area where the organizations participating in Connection through Council
     are located
 project_ids: '8102015'
-title: 'Center for Council, a project of Community Partners'
-uri: /organizations/center-for-council-a-project-of-community-partners/
 challenge_url: >-
   https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
+aggregated:
+  project_ids:
+    - '8102015'
+    - '5102047'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/center-for-council-a-project-of-community-partners/
+    - 'http://maker.good.is/myla2050connect2015/projects/centerforcouncil.html'
+  year_submitted:
+    - '2018'
+    - '2015'
+title: 'Center for Council, a project of Community Partners'
+uri: /organizations/center-for-council-a-project-of-community-partners/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

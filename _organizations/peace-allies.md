@@ -27,9 +27,15 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
+  year_submitted:
+    - '2014'
 title: Peace Allies
 uri: /organizations/peace-allies/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
 extrapolated_project_ids:
   - '4102163'
 project_titles_from_extrapolated_project_ids:

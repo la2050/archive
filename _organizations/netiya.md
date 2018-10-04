@@ -27,9 +27,21 @@ areas_impacted: >-
   Central LA,San Gabriel Valley,San Fernando Valley,Westside,County of Los
   Angeles (countywide)
 project_ids: '5102220'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
+aggregated:
+  project_ids:
+    - '5102220'
+    - '4102207'
+    - '3102204'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
+    - 'http://maker.good.is/myla2050/projects/Project10.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
 title: Netiya
 uri: /organizations/netiya/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/fermentingchange.html'
 extrapolated_project_ids:
   - '5102220'
   - '3102204'

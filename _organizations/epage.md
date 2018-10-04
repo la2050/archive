@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102139'
-title: EPage
-uri: /organizations/epage/
 challenge_url: >-
   https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
+aggregated:
+  project_ids:
+    - '6102139'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
+  year_submitted:
+    - '2016'
+title: EPage
+uri: /organizations/epage/
 extrapolated_project_ids:
   - '6102139'
 project_titles_from_extrapolated_project_ids:

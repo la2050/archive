@@ -36,9 +36,16 @@ org_summary: >-
     We plan to accomplish much more in 2013 and beyond, by instituting our pilot program in a physical space, while meanwhile expanding our multimedia content to extend our reach — using all available resources and outlets to provide artistic opportunities, advance appreciation and understanding, and unlock the creative potential in all of LA’s residents.
 areas_impacted: ''
 project_ids: '3102024'
+challenge_url: 'http://maker.good.is/myla2050/projects/diyfo.html'
+aggregated:
+  project_ids:
+    - '3102024'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/diyfo.html'
+  year_submitted:
+    - '2013'
 title: DIYFO (Do-It-Yourself. For Others.)
 uri: /organizations/diyfo-do-it-yourself-for-others/
-challenge_url: 'http://maker.good.is/myla2050/projects/diyfo.html'
 extrapolated_project_ids:
   - '3102024'
 project_titles_from_extrapolated_project_ids:

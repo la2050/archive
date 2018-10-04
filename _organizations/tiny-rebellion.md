@@ -24,9 +24,16 @@ org_summary: >-
   world a better place to live.
 areas_impacted: Westside
 project_ids: '8102127'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
+aggregated:
+  project_ids:
+    - '8102127'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
+  year_submitted:
+    - '2015'
 title: Tiny Rebellion
 uri: /organizations/tiny-rebellion/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
 extrapolated_project_ids:
   - '5102321'
 project_titles_from_extrapolated_project_ids:

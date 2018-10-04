@@ -33,9 +33,16 @@ areas_impacted:
   - South Bay
   - Los Angeles digital space
 project_ids: '8102091'
+challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'
+aggregated:
+  project_ids:
+    - '8102091'
+  challenge_url:
+    - 'https://activation.la2050.org/live/health-core-possibilities/'
+  year_submitted:
+    - '2018'
 title: Health Core Possibilities
 uri: /organizations/health-core-possibilities/
-challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

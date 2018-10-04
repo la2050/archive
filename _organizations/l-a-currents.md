@@ -35,9 +35,16 @@ org_summary: >-
    <p>Additionally, L.A. Currents is currently the only West Coast partner of The Guardian’s n0tice technology, which allows us to engage our readers in new and innovative ways. We have cast a wide net to our area’s creative community, and our stable of professional writers includes traditional reporters, bloggers, screenwriters, essayists, and fiction writers.</p>
 areas_impacted: ''
 project_ids: '3102066'
+challenge_url: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+aggregated:
+  project_ids:
+    - '3102066'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/lasmartmap.html'
+  year_submitted:
+    - '2013'
 title: L.A. Currents
 uri: /organizations/l-a-currents/
-challenge_url: 'http://maker.good.is/myla2050/projects/lasmartmap.html'
 extrapolated_project_ids:
   - '3102066'
 project_titles_from_extrapolated_project_ids:

@@ -82,9 +82,16 @@ org_summary: >-
    <p>http://zev.lacounty.gov/spotlight-story/naomi-and-the-homeboys</p>
 areas_impacted: ''
 project_ids: '3102244'
+challenge_url: 'http://maker.good.is/myla2050/projects/advotproject.html'
+aggregated:
+  project_ids:
+    - '3102244'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/advotproject.html'
+  year_submitted:
+    - '2013'
 title: The Advot Project
 uri: /organizations/the-advot-project/
-challenge_url: 'http://maker.good.is/myla2050/projects/advotproject.html'
 extrapolated_project_ids:
   - '3102244'
 project_titles_from_extrapolated_project_ids:

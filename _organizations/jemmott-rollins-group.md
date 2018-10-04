@@ -73,9 +73,16 @@ org_summary: >-
    <p>For additional background information, please visit our website at jemmottrollinsgroup.net.</p>
 areas_impacted: ''
 project_ids: '3102063'
+challenge_url: 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'
+aggregated:
+  project_ids:
+    - '3102063'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'
+  year_submitted:
+    - '2013'
 title: Jemmott Rollins Group
 uri: /organizations/jemmott-rollins-group/
-challenge_url: 'http://maker.good.is/myla2050/projects/SOUTHLAHUB.html'
 extrapolated_project_ids:
   - '3102063'
 project_titles_from_extrapolated_project_ids:

@@ -21,9 +21,15 @@ org_summary: >-
   participation in foster parenting, mentoring & educational opportunities
 areas_impacted: ''
 project_ids: '4102126'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102126'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: FosterMore
 uri: /organizations/fostermore/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102073'
 project_titles_from_extrapolated_project_ids:

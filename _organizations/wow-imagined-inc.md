@@ -37,10 +37,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102286'
-title: 'WOW Imagined, Inc.'
-uri: /organizations/wow-imagined-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
+aggregated:
+  project_ids:
+    - '6102286'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
+  year_submitted:
+    - '2016'
+title: 'WOW Imagined, Inc.'
+uri: /organizations/wow-imagined-inc/
 extrapolated_project_ids:
   - '6102286'
 project_titles_from_extrapolated_project_ids:

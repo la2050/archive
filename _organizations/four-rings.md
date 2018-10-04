@@ -27,9 +27,16 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102156'
+challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
+aggregated:
+  project_ids:
+    - '6102156'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
+  year_submitted:
+    - '2016'
 title: Four Rings
 uri: /organizations/four-rings/
-challenge_url: 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
 extrapolated_project_ids:
   - '6102156'
 project_titles_from_extrapolated_project_ids:

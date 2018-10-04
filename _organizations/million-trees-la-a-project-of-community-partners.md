@@ -71,9 +71,16 @@ org_summary: |-
    2009-“Outstanding Achievement Award” from the Environmental Protection Agency.
 areas_impacted: ''
 project_ids: '3102197'
+challenge_url: 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
+aggregated:
+  project_ids:
+    - '3102197'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
+  year_submitted:
+    - '2013'
 title: 'Million Trees LA, a project of Community Partners'
 uri: /organizations/million-trees-la-a-project-of-community-partners/
-challenge_url: 'http://maker.good.is/myla2050/projects/FruitTreesforLA.html'
 extrapolated_project_ids:
   - '3102197'
 project_titles_from_extrapolated_project_ids:

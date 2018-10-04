@@ -33,10 +33,26 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102230'
-title: Teach For America-Los Angeles
-uri: /organizations/teach-for-america-los-angeles/
 challenge_url: >-
   https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
+aggregated:
+  project_ids:
+    - '6102230'
+    - '5102291'
+    - '4102240'
+    - '3102242'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/trauma-informed-teaching-initiative-a-win-for-teachers-and-students
+    - 'http://maker.good.is/myla2050learn2015/projects/TFALA.html'
+    - 'http://maker.good.is/myla2050/projects/TEACHFORAMERICA-LA.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+title: Teach For America-Los Angeles
+uri: /organizations/teach-for-america-los-angeles/
 extrapolated_project_ids:
   - '6102230'
   - '4102204'

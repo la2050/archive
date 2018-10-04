@@ -23,10 +23,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102072'
-title: Alliance Building & Construction Services
-uri: /organizations/alliance-building-construction-services/
 challenge_url: >-
   https://challenge.la2050.org/entry/it-takes-a-village-to-reintegrate-the-homeless
+aggregated:
+  project_ids:
+    - '6102072'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/it-takes-a-village-to-reintegrate-the-homeless
+  year_submitted:
+    - '2016'
+title: Alliance Building & Construction Services
+uri: /organizations/alliance-building-construction-services/
 extrapolated_project_ids:
   - '6102072'
 project_titles_from_extrapolated_project_ids:

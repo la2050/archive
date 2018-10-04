@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102200'
-title: Los Angeles Magazine
-uri: /organizations/los-angeles-magazine/
 challenge_url: >-
   https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
+aggregated:
+  project_ids:
+    - '6102200'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
+  year_submitted:
+    - '2016'
+title: Los Angeles Magazine
+uri: /organizations/los-angeles-magazine/
 extrapolated_project_ids:
   - '6102200'
 project_titles_from_extrapolated_project_ids:

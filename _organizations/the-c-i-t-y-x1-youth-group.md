@@ -27,10 +27,18 @@ areas_impacted:
   - City of Los Angeles
   - Hollywood
 project_ids: '6102237'
-title: The C.I.T.Y. x1 Youth Group
-uri: /organizations/the-c-i-t-y-x1-youth-group/
 challenge_url: >-
   https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
+aggregated:
+  project_ids:
+    - '6102237'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
+  year_submitted:
+    - '2016'
+title: The C.I.T.Y. x1 Youth Group
+uri: /organizations/the-c-i-t-y-x1-youth-group/
 extrapolated_project_ids:
   - '6102237'
 project_titles_from_extrapolated_project_ids:

@@ -37,9 +37,15 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/live/notow/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'https://activation.la2050.org/live/notow/'
+  year_submitted:
+    - '2018'
 title: NoTow
 uri: /organizations/notow/
-challenge_url: 'https://activation.la2050.org/live/notow/'
 extrapolated_project_ids:
   - '8102091'
 project_titles_from_extrapolated_project_ids:

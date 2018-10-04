@@ -27,9 +27,16 @@ org_summary: >-
 areas_impacted:
   - South Bay
 project_ids: '8102111'
+challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
+aggregated:
+  project_ids:
+    - '8102111'
+  challenge_url:
+    - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
+  year_submitted:
+    - '2018'
 title: South Bay Bicycle Coalition
 uri: /organizations/south-bay-bicycle-coalition/
-challenge_url: 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

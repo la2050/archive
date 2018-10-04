@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102150'
-title: Lynne Cohen Foundation
-uri: /organizations/lynne-cohen-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
+aggregated:
+  project_ids:
+    - '6102150'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
+  year_submitted:
+    - '2016'
+title: Lynne Cohen Foundation
+uri: /organizations/lynne-cohen-foundation/
 extrapolated_project_ids:
   - '6102150'
 project_titles_from_extrapolated_project_ids:

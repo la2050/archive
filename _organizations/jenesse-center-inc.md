@@ -27,10 +27,27 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102108'
-title: 'Jenesse Center, Inc.'
-uri: /organizations/jenesse-center-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
+aggregated:
+  project_ids:
+    - '6102108'
+    - '5102149'
+    - '4102230'
+    - '3102159'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/jeneration-j-a-new-generation-of-healthy-relationships
+    - 'http://maker.good.is/myla2050learn2015/projects/JenesseCenterInc.html'
+    - 'http://maker.good.is/myLA2050connect/projects/YouthConversations.html'
+    - 'http://maker.good.is/myla2050/projects/JCSupportiveHousing.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
+title: 'Jenesse Center, Inc.'
+uri: /organizations/jenesse-center-inc/
 extrapolated_project_ids:
   - '6102108'
   - '5102149'

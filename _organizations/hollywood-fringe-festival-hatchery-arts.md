@@ -26,10 +26,18 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102094'
-title: Hollywood Fringe Festival (Hatchery Arts)
-uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 challenge_url: >-
   https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
+aggregated:
+  project_ids:
+    - '6102094'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
+  year_submitted:
+    - '2016'
+title: Hollywood Fringe Festival (Hatchery Arts)
+uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 extrapolated_project_ids:
   - '6102094'
 project_titles_from_extrapolated_project_ids:

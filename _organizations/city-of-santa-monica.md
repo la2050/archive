@@ -22,9 +22,16 @@ org_summary: >-
   community for Santa Monica residents,visitors & businesses.
 areas_impacted: 'Other:'
 project_ids: '4102017'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
+aggregated:
+  project_ids:
+    - '4102017'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
+  year_submitted:
+    - '2014'
 title: City of Santa Monica
 uri: /organizations/city-of-santa-monica/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
 extrapolated_project_ids:
   - '4102037'
 project_titles_from_extrapolated_project_ids:

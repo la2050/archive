@@ -26,9 +26,16 @@ org_summary: >-
   Angeles.
 areas_impacted: LAUSD
 project_ids: '5102311'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
+aggregated:
+  project_ids:
+    - '5102311'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
+  year_submitted:
+    - '2015'
 title: The Sound Body Sound Mind Foundation
 uri: /organizations/the-sound-body-sound-mind-foundation/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
 extrapolated_project_ids:
   - '5102311'
 project_titles_from_extrapolated_project_ids:

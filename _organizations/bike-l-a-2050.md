@@ -29,9 +29,16 @@ org_summary: >-
   launch of electric vehicles and charging infrastructure.
 areas_impacted: ''
 project_ids: '3102034'
+challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'
+aggregated:
+  project_ids:
+    - '3102034'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/bikela2050.html'
+  year_submitted:
+    - '2013'
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
-challenge_url: 'http://maker.good.is/myla2050/projects/bikela2050.html'
 extrapolated_project_ids:
   - '3102034'
 project_titles_from_extrapolated_project_ids:

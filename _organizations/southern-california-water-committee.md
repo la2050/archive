@@ -23,9 +23,16 @@ org_summary: >-
   Southern Californians about our water needs and our state’s water resources.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102277'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
+aggregated:
+  project_ids:
+    - '5102277'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
+  year_submitted:
+    - '2015'
 title: Southern California Water Committee
 uri: /organizations/southern-california-water-committee/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
 extrapolated_project_ids:
   - '5102277'
 project_titles_from_extrapolated_project_ids:

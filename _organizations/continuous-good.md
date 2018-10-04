@@ -27,10 +27,18 @@ areas_impacted:
   - LAUSD
   - n/a
 project_ids: '6102114'
-title: Continuous Good
-uri: /organizations/continuous-good/
 challenge_url: >-
   https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
+aggregated:
+  project_ids:
+    - '6102114'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/branding-while-broke-presents-brandnew-youth-a-brand-development-program-for-male-teens-of-color
+  year_submitted:
+    - '2016'
+title: Continuous Good
+uri: /organizations/continuous-good/
 extrapolated_project_ids:
   - '6102114'
 project_titles_from_extrapolated_project_ids:

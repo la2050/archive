@@ -27,9 +27,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102074'
+challenge_url: 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
+aggregated:
+  project_ids:
+    - '8102074'
+  challenge_url:
+    - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
+  year_submitted:
+    - '2018'
 title: Los Angeles Dodgers Foundation
 uri: /organizations/los-angeles-dodgers-foundation/
-challenge_url: 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

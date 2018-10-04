@@ -34,10 +34,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102220'
-title: Sundance Institute
-uri: /organizations/sundance-institute/
 challenge_url: >-
   https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
+aggregated:
+  project_ids:
+    - '6102220'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
+  year_submitted:
+    - '2016'
+title: Sundance Institute
+uri: /organizations/sundance-institute/
 extrapolated_project_ids:
   - '6102220'
 project_titles_from_extrapolated_project_ids:

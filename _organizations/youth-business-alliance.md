@@ -33,10 +33,21 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102287'
-title: Youth Business Alliance
-uri: /organizations/youth-business-alliance/
 challenge_url: >-
   https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
+aggregated:
+  project_ids:
+    - '6102287'
+    - '5102344'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/empower-low-income-youth-to-break-out-of-the-poverty-cycle!
+    - 'http://maker.good.is/myla2050learn2015/projects/YBA.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Youth Business Alliance
+uri: /organizations/youth-business-alliance/
 extrapolated_project_ids:
   - '6102287'
   - '5102344'

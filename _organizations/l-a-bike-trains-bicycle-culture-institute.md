@@ -22,9 +22,16 @@ org_summary: >-
   people to new (bicycle) ideas.
 areas_impacted: 'Central LA,East LA,San Fernando Valley,Westside'
 project_ids: '4102047'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
+aggregated:
+  project_ids:
+    - '4102047'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
+  year_submitted:
+    - '2014'
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 uri: /organizations/l-a-bike-trains-bicycle-culture-institute/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
 extrapolated_project_ids:
   - '4102107'
 project_titles_from_extrapolated_project_ids:

@@ -25,9 +25,16 @@ org_summary: >-
   life long home.
 areas_impacted: 'San Fernando Valley,County of Los Angeles (countywide)'
 project_ids: '5102113'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
+aggregated:
+  project_ids:
+    - '5102113'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
+  year_submitted:
+    - '2015'
 title: Golden Heart Ranch
 uri: /organizations/golden-heart-ranch/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
 extrapolated_project_ids:
   - '5102113'
 project_titles_from_extrapolated_project_ids:

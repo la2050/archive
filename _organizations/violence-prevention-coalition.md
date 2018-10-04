@@ -25,9 +25,16 @@ org_summary: >-
   members committed to ending the epidemic of violence in LA.
 areas_impacted: 'Central LA,East LA,South LA,Other:'
 project_ids: '4102104'
+challenge_url: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
+aggregated:
+  project_ids:
+    - '4102104'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
+  year_submitted:
+    - '2014'
 title: Violence Prevention Coalition
 uri: /organizations/violence-prevention-coalition/
-challenge_url: 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
 extrapolated_project_ids:
   - '4102252'
 project_titles_from_extrapolated_project_ids:

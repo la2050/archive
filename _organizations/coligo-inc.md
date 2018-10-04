@@ -23,10 +23,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102105'
-title: 'Coligo, Inc.'
-uri: /organizations/coligo-inc/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
+aggregated:
+  project_ids:
+    - '6102105'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
+  year_submitted:
+    - '2016'
+title: 'Coligo, Inc.'
+uri: /organizations/coligo-inc/
 extrapolated_project_ids:
   - '6102105'
 project_titles_from_extrapolated_project_ids:

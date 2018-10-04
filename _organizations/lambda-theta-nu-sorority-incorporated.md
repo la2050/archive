@@ -32,9 +32,16 @@ org_summary: >-
   and support to do so.
 areas_impacted: ''
 project_ids: '3102174'
+challenge_url: 'http://maker.good.is/myla2050/projects/FEM.html'
+aggregated:
+  project_ids:
+    - '3102174'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/FEM.html'
+  year_submitted:
+    - '2013'
 title: 'Lambda Theta Nu Sorority, Incorporated'
 uri: /organizations/lambda-theta-nu-sorority-incorporated/
-challenge_url: 'http://maker.good.is/myla2050/projects/FEM.html'
 extrapolated_project_ids:
   - '3102174'
 project_titles_from_extrapolated_project_ids:

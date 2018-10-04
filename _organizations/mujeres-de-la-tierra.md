@@ -28,10 +28,24 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102157'
-title: Mujeres de la Tierra
-uri: /organizations/mujeres-de-la-tierra/
 challenge_url: >-
   https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
+aggregated:
+  project_ids:
+    - '6102157'
+    - '5102214'
+    - '4102235'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/telenovelas-in-the-park-a-new-way-of-learning!
+    - 'http://maker.good.is/myla2050live2015/projects/healthypaletas.html'
+    - 'http://maker.good.is/myLA2050create/projects/lapaletera.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+    - '2014'
+title: Mujeres de la Tierra
+uri: /organizations/mujeres-de-la-tierra/
 extrapolated_project_ids:
   - '6102157'
   - '5102214'

@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '5102180'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
+aggregated:
+  project_ids:
+    - '5102180'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
+  year_submitted:
+    - '2014'
 title: NationBuilder
 uri: /organizations/nationbuilder/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
 extrapolated_project_ids:
   - '4102154'
 project_titles_from_extrapolated_project_ids:

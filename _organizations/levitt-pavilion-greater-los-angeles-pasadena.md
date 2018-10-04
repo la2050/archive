@@ -27,9 +27,19 @@ org_summary: >-
   each year per venue.
 areas_impacted: 'Central LA,San Gabriel Valley,Other (please specify below):'
 project_ids: '5102175'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
+aggregated:
+  project_ids:
+    - '5102175'
+    - '3102179'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
+    - 'http://maker.good.is/myla2050/projects/LEVITT.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: Levitt Pavilion Greater Los Angeles & Pasadena
 uri: /organizations/levitt-pavilion-greater-los-angeles-pasadena/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/IgniteImagination.html'
 extrapolated_project_ids:
   - '5102175'
 project_titles_from_extrapolated_project_ids:

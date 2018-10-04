@@ -26,9 +26,16 @@ org_summary: >-
   build wealth in minority communities and preserve jobs.
 areas_impacted: 'Central LA,City of Los Angeles (citywide),Other (please specify below):'
 project_ids: '5102150'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
+aggregated:
+  project_ids:
+    - '5102150'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
+  year_submitted:
+    - '2015'
 title: 'Compiler LA, Utopiad.org'
 uri: /organizations/compiler-la-utopiad-org/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

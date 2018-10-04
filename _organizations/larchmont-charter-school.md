@@ -30,9 +30,16 @@ areas_impacted:
   - LAUSD
   - youth
 project_ids: '8102064'
+challenge_url: 'https://activation.la2050.org/connect/larchmont-charter-school/'
+aggregated:
+  project_ids:
+    - '8102064'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/larchmont-charter-school/'
+  year_submitted:
+    - '2018'
 title: Larchmont Charter School
 uri: /organizations/larchmont-charter-school/
-challenge_url: 'https://activation.la2050.org/connect/larchmont-charter-school/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

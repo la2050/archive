@@ -25,9 +25,20 @@ org_summary: >-
 areas_impacted:
   - San Gabriel Valley
 project_ids: '8102101'
+challenge_url: 'https://activation.la2050.org/play/red-hen-press/'
+aggregated:
+  project_ids:
+    - '8102101'
+    - '6102194'
+  challenge_url:
+    - 'https://activation.la2050.org/play/red-hen-press/'
+    - >-
+      https://challenge.la2050.org/entry/get-lit-with-red-hen-press-bringing-fresh-voices-to-the-la-literary-scene
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Red Hen Press
 uri: /organizations/red-hen-press/
-challenge_url: 'https://activation.la2050.org/play/red-hen-press/'
 extrapolated_project_ids:
   - '8102101'
   - '6102194'

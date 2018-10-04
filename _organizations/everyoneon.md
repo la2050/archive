@@ -27,10 +27,20 @@ areas_impacted:
   - Central LA
   - South LA
 project_ids: '6102065'
-title: EveryoneOn
-uri: /organizations/everyoneon/
 challenge_url: >-
   https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
+aggregated:
+  project_ids:
+    - '6102065'
+    - '4102227'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connect-with-promise-providing-internet-connectivity-devices-to-families-in-public-housing
+  year_submitted:
+    - '2016'
+    - '2014'
+title: EveryoneOn
+uri: /organizations/everyoneon/
 extrapolated_project_ids:
   - '6102065'
   - '4102067'

@@ -23,9 +23,16 @@ org_summary: >-
   good-paying jobs in East LA’s LA Bioscience Corridor.
 areas_impacted: 'East LA,County of Los Angeles (countywide)'
 project_ids: '5102184'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
+aggregated:
+  project_ids:
+    - '5102184'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles Bioscience Hub
 uri: /organizations/los-angeles-bioscience-hub/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
 extrapolated_project_ids:
   - '5102184'
 project_titles_from_extrapolated_project_ids:

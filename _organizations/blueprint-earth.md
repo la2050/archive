@@ -26,9 +26,16 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: '5102031'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
+aggregated:
+  project_ids:
+    - '5102031'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
+  year_submitted:
+    - '2015'
 title: Blueprint Earth
 uri: /organizations/blueprint-earth/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
 extrapolated_project_ids:
   - '5102031'
 project_titles_from_extrapolated_project_ids:

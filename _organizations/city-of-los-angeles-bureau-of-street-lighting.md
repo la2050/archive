@@ -29,10 +29,18 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102026'
-title: 'City of Los Angeles, Bureau of Street Lighting'
-uri: /organizations/city-of-los-angeles-bureau-of-street-lighting/
 challenge_url: >-
   https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
+aggregated:
+  project_ids:
+    - '8102026'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
+  year_submitted:
+    - '2018'
+title: 'City of Los Angeles, Bureau of Street Lighting'
+uri: /organizations/city-of-los-angeles-bureau-of-street-lighting/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

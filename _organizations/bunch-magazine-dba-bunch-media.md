@@ -20,9 +20,16 @@ org_summary: >-
   through storytelling and guides.
 areas_impacted: East LA
 project_ids: '5102127'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
+aggregated:
+  project_ids:
+    - '5102127'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
+  year_submitted:
+    - '2015'
 title: BUNCH Magazine dba BUNCH Media
 uri: /organizations/bunch-magazine-dba-bunch-media/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -34,9 +34,16 @@ org_summary: >-
    <p>Since 2007, The Relational Center has reached over 3,000 residents of Greater Los Angeles with a broad-based social health strategy that includes mental health care, workforce development for service providers and community organizers, social action campaigns, public dialogue facilitation and capacity building support. </p>
 areas_impacted: ''
 project_ids: '3102256'
+challenge_url: 'http://maker.good.is/myla2050/projects/relationalcenter.html'
+aggregated:
+  project_ids:
+    - '3102256'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/relationalcenter.html'
+  year_submitted:
+    - '2013'
 title: The Relational Center
 uri: /organizations/the-relational-center/
-challenge_url: 'http://maker.good.is/myla2050/projects/relationalcenter.html'
 extrapolated_project_ids:
   - '3102256'
 project_titles_from_extrapolated_project_ids:

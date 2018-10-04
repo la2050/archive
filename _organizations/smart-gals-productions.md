@@ -25,9 +25,16 @@ org_summary: >-
   exclusivity, and op
 areas_impacted: 'City of Los Angeles (citywide),LAUSD,Other (please specify below):'
 project_ids: '5102269'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
+aggregated:
+  project_ids:
+    - '5102269'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
+  year_submitted:
+    - '2015'
 title: Smart Gals Productions
 uri: /organizations/smart-gals-productions/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
 extrapolated_project_ids:
   - '5102269'
 project_titles_from_extrapolated_project_ids:

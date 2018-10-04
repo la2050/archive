@@ -59,9 +59,16 @@ org_summary: >-
    * Partnered with Pasadena Unified School District enabling more than 250 high school students to receive anti-trafficking awareness and education through its ‘Summer Skillz’ program; this curriculum, currently being adapted for use by public schools in Florida, can also be adapted for younger students and is available upon request.
 areas_impacted: ''
 project_ids: '3102208'
+challenge_url: 'http://maker.good.is/myla2050/projects/oasisusa.html'
+aggregated:
+  project_ids:
+    - '3102208'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/oasisusa.html'
+  year_submitted:
+    - '2013'
 title: Oasis USA
 uri: /organizations/oasis-usa/
-challenge_url: 'http://maker.good.is/myla2050/projects/oasisusa.html'
 extrapolated_project_ids:
   - '3102208'
 project_titles_from_extrapolated_project_ids:

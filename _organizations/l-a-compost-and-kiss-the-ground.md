@@ -27,9 +27,16 @@ areas_impacted: >-
   LA,Westside,South Bay,Antelope Valley,County of Los Angeles (countywide),City
   of Los Angeles (citywide),LAUSD
 project_ids: '5102164'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
+aggregated:
+  project_ids:
+    - '5102164'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
+  year_submitted:
+    - '2015'
 title: L.A. Compost and Kiss the Ground
 uri: /organizations/l-a-compost-and-kiss-the-ground/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
 extrapolated_project_ids:
   - '5102164'
 project_titles_from_extrapolated_project_ids:

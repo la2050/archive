@@ -51,10 +51,17 @@ org_summary: >-
   their personal and professional career development.
 areas_impacted: ''
 project_ids: '3102133'
+challenge_url: 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
+aggregated:
+  project_ids:
+    - '3102133'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
+  year_submitted:
+    - '2013'
 title: 'Friends, the Foundation of the California African American Museum'
 uri: >-
   /organizations/friends-the-foundation-of-the-california-african-american-museum/
-challenge_url: 'http://maker.good.is/myla2050/projects/MakingitHappen.html'
 extrapolated_project_ids:
   - '3102133'
 project_titles_from_extrapolated_project_ids:

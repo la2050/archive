@@ -26,9 +26,15 @@ areas_impacted: >-
   Central LA,San Fernando Valey,Westside,County of Los Angeles (countywide),City
   of Los Angeles (citywide)
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
+  year_submitted:
+    - '2015'
 title: Microenterprise.org
 uri: /organizations/microenterprise-org/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
 extrapolated_project_ids:
   - '5102207'
 project_titles_from_extrapolated_project_ids:

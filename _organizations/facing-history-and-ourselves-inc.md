@@ -23,9 +23,18 @@ org_summary: >-
   performance, historical understanding, and civic learning.
 areas_impacted: 'East LA,San Fernando Valley,South LA,City of Los Angeles (citywide),LAUSD'
 project_ids: '5102097'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
+aggregated:
+  project_ids:
+    - '5102097'
+    - '4102197'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: 'Facing History and Ourselves, Inc.'
 uri: /organizations/facing-history-and-ourselves-inc/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/facinghistoryla.html'
 extrapolated_project_ids:
   - '5102097'
 project_titles_from_extrapolated_project_ids:

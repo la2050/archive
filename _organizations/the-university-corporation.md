@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,San Fernando Valley,South LA,Westside,City of Los Angeles
   (citywide),LAUSD
 project_ids: '5102313'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
+aggregated:
+  project_ids:
+    - '5102313'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
+  year_submitted:
+    - '2015'
 title: The University Corporation
 uri: /organizations/the-university-corporation/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
 extrapolated_project_ids:
   - '5102313'
 project_titles_from_extrapolated_project_ids:

@@ -33,10 +33,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102116'
-title: Dear Mama
-uri: /organizations/dear-mama/
 challenge_url: >-
   https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
+aggregated:
+  project_ids:
+    - '6102116'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
+  year_submitted:
+    - '2016'
+title: Dear Mama
+uri: /organizations/dear-mama/
 extrapolated_project_ids:
   - '6102116'
 project_titles_from_extrapolated_project_ids:

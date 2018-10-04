@@ -31,10 +31,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102003'
-title: A Sense of Home
-uri: /organizations/a-sense-of-home/
 challenge_url: >-
   https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
+aggregated:
+  project_ids:
+    - '6102003'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/creating-a-home-is-a-bridge-to-creating-community
+  year_submitted:
+    - '2016'
+title: A Sense of Home
+uri: /organizations/a-sense-of-home/
 extrapolated_project_ids:
   - '6102003'
 project_titles_from_extrapolated_project_ids:

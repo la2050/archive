@@ -27,10 +27,17 @@ areas_impacted: >-
   LA,Westside,South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide)
 project_ids: '5102276'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
+aggregated:
+  project_ids:
+    - '5102276'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
+  year_submitted:
+    - '2015'
 title: 'Southern California College Access Network, a Project of Community Partners'
 uri: >-
   /organizations/southern-california-college-access-network-a-project-of-community-partners/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
 extrapolated_project_ids:
   - '5102276'
 project_titles_from_extrapolated_project_ids:

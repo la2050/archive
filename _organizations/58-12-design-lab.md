@@ -43,9 +43,16 @@ org_summary: >-
    We have also partnered with a number of individuals and institutions in order to achieve our goals, including designers, storytellers, researchers, and cool folks like the people at metaLAB at Harvard. They developed a web application called Zeega that we are currently working with to tell the story of Hmong communities in California, among other things.
 areas_impacted: ''
 project_ids: '3102002'
+challenge_url: 'http://maker.good.is/myla2050/projects/lastories.html'
+aggregated:
+  project_ids:
+    - '3102002'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/lastories.html'
+  year_submitted:
+    - '2013'
 title: 58-12 Design Lab
 uri: /organizations/58-12-design-lab/
-challenge_url: 'http://maker.good.is/myla2050/projects/lastories.html'
 extrapolated_project_ids:
   - '3102002'
 project_titles_from_extrapolated_project_ids:

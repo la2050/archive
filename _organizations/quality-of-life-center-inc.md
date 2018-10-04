@@ -31,9 +31,16 @@ org_summary: >-
    One of our other programs is a second chance program that allows juvenile first offenders an opportunity to turn their lives around. These Juveniles, referred into the program from the Juvenile Justice System are given an opportunity to redeem themselves, build self-esteem, and develop character while learning to make positive life choices. Many have taken that opportunity that they were given and done just that. Most of them have gone on to college and are living a life "on the straight and narrow".
 areas_impacted: ''
 project_ids: '3102225'
+challenge_url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
+aggregated:
+  project_ids:
+    - '3102225'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
+  year_submitted:
+    - '2013'
 title: 'Quality of Life Center, Inc.'
 uri: /organizations/quality-of-life-center-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
 extrapolated_project_ids:
   - '3102225'
 project_titles_from_extrapolated_project_ids:

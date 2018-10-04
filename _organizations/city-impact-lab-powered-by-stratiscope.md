@@ -35,9 +35,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/
+  year_submitted:
+    - '2018'
 title: 'City Impact Lab, powered by Stratiscope'
 uri: /organizations/city-impact-lab-powered-by-stratiscope/
-challenge_url: 'https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

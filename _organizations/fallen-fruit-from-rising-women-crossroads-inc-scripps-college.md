@@ -26,9 +26,16 @@ org_summary: >-
   fruit.
 areas_impacted: 'San Gabriel Valley,Other (please specify below):'
 project_ids: '5102099'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
+aggregated:
+  project_ids:
+    - '5102099'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
+  year_submitted:
+    - '2015'
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 uri: /organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
 extrapolated_project_ids:
   - '5102099'
 project_titles_from_extrapolated_project_ids:

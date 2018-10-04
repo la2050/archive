@@ -25,9 +25,16 @@ org_summary: >-
   sustainable community development and civic participation.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102163'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
+aggregated:
+  project_ids:
+    - '5102163'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
+  year_submitted:
+    - '2015'
 title: Koreatown Immigrant Worker Alliance
 uri: /organizations/koreatown-immigrant-worker-alliance/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
 extrapolated_project_ids:
   - '5102163'
 project_titles_from_extrapolated_project_ids:

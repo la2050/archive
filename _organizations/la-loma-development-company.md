@@ -48,9 +48,16 @@ org_summary: >-
   have created jobs and income during a recession, what more can you ask?
 areas_impacted: ''
 project_ids: '3102068'
+challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'
+aggregated:
+  project_ids:
+    - '3102068'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LALOMA.html'
+  year_submitted:
+    - '2013'
 title: La Loma Development Company
 uri: /organizations/la-loma-development-company/
-challenge_url: 'http://maker.good.is/myla2050/projects/LALOMA.html'
 extrapolated_project_ids:
   - '3102068'
 project_titles_from_extrapolated_project_ids:

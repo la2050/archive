@@ -23,9 +23,16 @@ org_summary: >-
   groups around opportunities to create value equitably.
 areas_impacted: 'East LA,Other (please specify below):'
 project_ids: '5102063'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
+aggregated:
+  project_ids:
+    - '5102063'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
+  year_submitted:
+    - '2015'
 title: civ.LA
 uri: /organizations/civ-la/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
 extrapolated_project_ids:
   - '5102063'
 project_titles_from_extrapolated_project_ids:

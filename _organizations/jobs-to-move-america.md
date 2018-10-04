@@ -33,10 +33,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102109'
-title: Jobs to Move America
-uri: /organizations/jobs-to-move-america/
 challenge_url: >-
   https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
+aggregated:
+  project_ids:
+    - '6102109'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
+  year_submitted:
+    - '2016'
+title: Jobs to Move America
+uri: /organizations/jobs-to-move-america/
 extrapolated_project_ids:
   - '6102109'
 project_titles_from_extrapolated_project_ids:

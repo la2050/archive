@@ -27,13 +27,26 @@ org_summary: >-
   serve as lead applicant.
 areas_impacted: 'Central LA,East LA,San Fernando Valley,City of Los Angeles (citywide)'
 project_ids: '5102192'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
+aggregated:
+  project_ids:
+    - '5102192'
+    - '4102202'
+    - '3102188'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
+    - 'http://maker.good.is/myLA2050connect/projects/MacArthurParkConnect.html'
+    - 'http://maker.good.is/myla2050/projects/FruitVegetableOasis.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
 title: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
   (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community
   Housing Corporation, Community Health Councils (CHC)
 uri: >-
   /organizations/los-angeles-neighborhood-land-trust-lanlt-leadership-for-urban-renewal-lurn-trust-south-la-konkuey-design-initiative-kdi-esperanza-community-housing-corporation-community-health-councils-chc/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/FreeLotsAngeles.html'
 extrapolated_project_ids:
   - '5102192'
 project_titles_from_extrapolated_project_ids:

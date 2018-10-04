@@ -31,10 +31,18 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
 project_ids: '6102218'
-title: STEM Advantage
-uri: /organizations/stem-advantage/
 challenge_url: >-
   https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
+aggregated:
+  project_ids:
+    - '6102218'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
+  year_submitted:
+    - '2016'
+title: STEM Advantage
+uri: /organizations/stem-advantage/
 extrapolated_project_ids:
   - '6102218'
 project_titles_from_extrapolated_project_ids:

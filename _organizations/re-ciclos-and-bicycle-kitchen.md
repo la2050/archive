@@ -24,9 +24,16 @@ org_summary: >-
   transportation.
 areas_impacted: 'City of Los Angeles (citywide),Other (please specify below):'
 project_ids: '5102248'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
+aggregated:
+  project_ids:
+    - '5102248'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
+  year_submitted:
+    - '2015'
 title: 'Re:Ciclos and Bicycle Kitchen'
 uri: /organizations/re-ciclos-and-bicycle-kitchen/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
 extrapolated_project_ids:
   - '5102248'
 project_titles_from_extrapolated_project_ids:

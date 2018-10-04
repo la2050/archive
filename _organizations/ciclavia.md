@@ -38,9 +38,22 @@ areas_impacted:
     benefit)
   - 'Northeast LA, Glendale, Culver City, Inglewood'
 project_ids: '8102021'
+challenge_url: 'https://activation.la2050.org/connect/ciclavia/'
+aggregated:
+  project_ids:
+    - '8102021'
+    - '5102055'
+    - '3102061'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/ciclavia/'
+    - 'http://maker.good.is/myla2050connect2015/projects/CicLAvia.html'
+    - 'http://maker.good.is/myla2050/projects/CicLAvia.html'
+  year_submitted:
+    - '2018'
+    - '2015'
+    - '2013'
 title: CicLAvia
 uri: /organizations/ciclavia/
-challenge_url: 'https://activation.la2050.org/connect/ciclavia/'
 extrapolated_project_ids:
   - '8102021'
   - '5102055'

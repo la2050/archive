@@ -28,9 +28,16 @@ org_summary: >-
   saving lives, and ensuring public safety.
 areas_impacted: ''
 project_ids: '3102030'
+challenge_url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
+aggregated:
+  project_ids:
+    - '3102030'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
+  year_submitted:
+    - '2013'
 title: 'Asian American Drug Abuse Program, Inc'
 uri: /organizations/asian-american-drug-abuse-program-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
 extrapolated_project_ids:
   - '3102030'
 project_titles_from_extrapolated_project_ids:

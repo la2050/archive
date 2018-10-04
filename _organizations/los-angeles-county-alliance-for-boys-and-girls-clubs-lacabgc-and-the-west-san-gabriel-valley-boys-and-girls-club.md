@@ -23,12 +23,18 @@ org_summary: >-
   facilitating advancement and collaborative opportunities
 areas_impacted: ''
 project_ids: '4102149'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102149'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: >-
   Los Angeles County Alliance for Boys and Girls Clubs (LACABGC) and the West
   San Gabriel Valley Boys and Girls Club
 uri: >-
   /organizations/los-angeles-county-alliance-for-boys-and-girls-clubs-lacabgc-and-the-west-san-gabriel-valley-boys-and-girls-club/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102127'
 project_titles_from_extrapolated_project_ids:

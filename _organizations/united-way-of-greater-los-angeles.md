@@ -38,9 +38,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102132'
+challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
+aggregated:
+  project_ids:
+    - '8102132'
+  challenge_url:
+    - 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
+  year_submitted:
+    - '2018'
 title: United Way of Greater Los Angeles
 uri: /organizations/united-way-of-greater-los-angeles/
-challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -26,9 +26,19 @@ areas_impacted: >-
   LA,Westside,South Bay,County of Los Angeles (countywide),City of Los Angeles
   (citywide)
 project_ids: '5102014'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
+aggregated:
+  project_ids:
+    - '5102014'
+    - '4102191'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
+    - 'http://maker.good.is/myLA2050connect/projects/BringAmbulante2CA.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: Ambulante
 uri: /organizations/ambulante/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/movingdocumentaries.html'
 extrapolated_project_ids:
   - '5102014'
   - '4102007'

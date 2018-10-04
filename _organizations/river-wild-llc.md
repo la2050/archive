@@ -22,9 +22,16 @@ org_summary: >-
   in underserved communities.
 areas_impacted: 'Central LA,East LA,San Fernando Valley,Other (please specify below):'
 project_ids: '5102101'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
+aggregated:
+  project_ids:
+    - '5102101'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
+  year_submitted:
+    - '2015'
 title: River Wild LLC
 uri: /organizations/river-wild-llc/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
 extrapolated_project_ids:
   - '5102254'
 project_titles_from_extrapolated_project_ids:

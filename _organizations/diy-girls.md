@@ -27,9 +27,16 @@ areas_impacted: >-
   San Fernando Valley,City of Los Angeles (citywide),LAUSD,Other (please specify
   below):
 project_ids: '5102083'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
+aggregated:
+  project_ids:
+    - '5102083'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
+  year_submitted:
+    - '2015'
 title: DIY Girls
 uri: /organizations/diy-girls/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

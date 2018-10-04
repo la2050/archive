@@ -21,9 +21,15 @@ org_summary: >-
   learning to promote educational equity & raise student achievement.
 areas_impacted: ''
 project_ids: '4102120'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102120'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: CFY
 uri: /organizations/cfy/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102033'
 project_titles_from_extrapolated_project_ids:

@@ -34,9 +34,16 @@ org_summary: >-
   service.
 areas_impacted: ''
 project_ids: '3102037'
+challenge_url: 'http://maker.good.is/myla2050/projects/begreat.html'
+aggregated:
+  project_ids:
+    - '3102037'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/begreat.html'
+  year_submitted:
+    - '2013'
 title: Boys & Girls Club of Mar Vista Gardens
 uri: /organizations/boys-girls-club-of-mar-vista-gardens/
-challenge_url: 'http://maker.good.is/myla2050/projects/begreat.html'
 extrapolated_project_ids:
   - '3102037'
 project_titles_from_extrapolated_project_ids:

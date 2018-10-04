@@ -27,10 +27,18 @@ areas_impacted:
   - Gateway Cities
   - LAUSD
 project_ids: '6102282'
-title: Whitaker Peace & Development Initiative (WPDI)
-uri: /organizations/whitaker-peace-development-initiative-wpdi/
 challenge_url: >-
   https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
+aggregated:
+  project_ids:
+    - '6102282'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
+  year_submitted:
+    - '2016'
+title: Whitaker Peace & Development Initiative (WPDI)
+uri: /organizations/whitaker-peace-development-initiative-wpdi/
 extrapolated_project_ids:
   - '6102282'
 project_titles_from_extrapolated_project_ids:

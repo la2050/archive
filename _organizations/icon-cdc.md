@@ -32,10 +32,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102100'
-title: ICON CDC
-uri: /organizations/icon-cdc/
 challenge_url: >-
   https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
+aggregated:
+  project_ids:
+    - '6102100'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
+  year_submitted:
+    - '2016'
+title: ICON CDC
+uri: /organizations/icon-cdc/
 extrapolated_project_ids:
   - '6102100'
 project_titles_from_extrapolated_project_ids:

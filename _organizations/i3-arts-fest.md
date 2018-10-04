@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '6102099'
-title: I3 Arts Fest
-uri: /organizations/i3-arts-fest/
 challenge_url: >-
   https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
+aggregated:
+  project_ids:
+    - '6102099'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
+  year_submitted:
+    - '2016'
+title: I3 Arts Fest
+uri: /organizations/i3-arts-fest/
 extrapolated_project_ids:
   - '6102099'
 project_titles_from_extrapolated_project_ids:

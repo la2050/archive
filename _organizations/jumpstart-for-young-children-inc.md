@@ -26,9 +26,19 @@ areas_impacted: >-
   Central LA,East LA,San Fernando Valley,South LA,Westside,County of Los Angeles
   (countywide),City of Los Angeles (citywide),LAUSD
 project_ids: '5102153'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
+aggregated:
+  project_ids:
+    - '5102153'
+    - '3102161'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
+    - 'http://maker.good.is/myla2050/projects/Jumpstart.html'
+  year_submitted:
+    - '2015'
+    - '2013'
 title: 'Jumpstart For Young Children, Inc.'
 uri: /organizations/jumpstart-for-young-children-inc/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/jstart.html'
 extrapolated_project_ids:
   - '5102153'
 project_titles_from_extrapolated_project_ids:

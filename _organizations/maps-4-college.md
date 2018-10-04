@@ -24,9 +24,19 @@ org_summary: >-
   internships, and networking.
 areas_impacted: 'San Gabriel Valley,County of Los Angeles (countywide)'
 project_ids: '5102202'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html'
+aggregated:
+  project_ids:
+    - '5102202'
+    - '4102206'
+  challenge_url:
+    - >-
+      http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html
+  year_submitted:
+    - '2015'
+    - '2014'
 title: MAPS 4 College
 uri: /organizations/maps-4-college/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/BridgeCOLLEGEandWORK.html'
 extrapolated_project_ids:
   - '5102202'
   - '4102140'

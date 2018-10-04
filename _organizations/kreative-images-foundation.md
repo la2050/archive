@@ -52,9 +52,16 @@ org_summary: >-
    From creating programs for battered women and forming after school programs for youth in the U.S. to installing water towers in the Philippines, K.I. has touched lives all over the globe—China, Mexico, Australia, Russia, Canada, Sierra Leone, Nigeria, Ghana, India, South America, Belgium, Trinidad, Tobago, and so many others.
 areas_impacted: ''
 project_ids: '3102065'
+challenge_url: 'http://maker.good.is/myla2050/projects/C-360.html'
+aggregated:
+  project_ids:
+    - '3102065'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/C-360.html'
+  year_submitted:
+    - '2013'
 title: Kreative Images Foundation
 uri: /organizations/kreative-images-foundation/
-challenge_url: 'http://maker.good.is/myla2050/projects/C-360.html'
 extrapolated_project_ids:
   - '3102065'
 project_titles_from_extrapolated_project_ids:

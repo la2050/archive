@@ -23,9 +23,15 @@ org_summary: >-
   business.
 areas_impacted: 'Central LA,South LA'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
+  year_submitted:
+    - '2014'
 title: Conant Moran Design & Fabrication
 uri: /organizations/conant-moran-design-fabrication/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
 extrapolated_project_ids:
   - '4102047'
 project_titles_from_extrapolated_project_ids:

@@ -18,9 +18,15 @@ org_summary: >-
   families' homes to help parents and children heal from trauma.
 areas_impacted: ''
 project_ids: '4102185'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102185'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Westside Infant-Family Network (WIN)
 uri: /organizations/westside-infant-family-network-win/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -22,9 +22,16 @@ org_summary: >-
   Los Angeles area.
 areas_impacted: Central LA
 project_ids: '8102096'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
+aggregated:
+  project_ids:
+    - '8102096'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
+  year_submitted:
+    - '2015'
 title: Julie Rico DBA as O Fine Art
 uri: /organizations/julie-rico-dba-as-o-fine-art/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

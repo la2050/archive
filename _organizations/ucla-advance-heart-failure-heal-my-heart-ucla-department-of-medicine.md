@@ -19,10 +19,16 @@ org_summary: >-
   method of promoting healthy habits and better health to LA
 areas_impacted: ''
 project_ids: '4102179'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102179'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 uri: >-
   /organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

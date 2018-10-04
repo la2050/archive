@@ -39,9 +39,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102032'
+challenge_url: 'https://activation.la2050.org/learn/crayon-collection/'
+aggregated:
+  project_ids:
+    - '8102032'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/crayon-collection/'
+  year_submitted:
+    - '2018'
 title: Crayon Collection
 uri: /organizations/crayon-collection/
-challenge_url: 'https://activation.la2050.org/learn/crayon-collection/'
 extrapolated_project_ids:
   - '8102032'
 project_titles_from_extrapolated_project_ids:

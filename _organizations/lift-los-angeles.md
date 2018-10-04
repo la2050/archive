@@ -34,9 +34,29 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102068'
+challenge_url: 'https://activation.la2050.org/live/lift-los-angeles/'
+aggregated:
+  project_ids:
+    - '8102068'
+    - '6102131'
+    - '5102177'
+    - '4102254'
+    - '3102181'
+  challenge_url:
+    - 'https://activation.la2050.org/live/lift-los-angeles/'
+    - >-
+      https://challenge.la2050.org/entry/bridging-gaps-lift-los-angeles-and-one-degrees-partnership-to-expand-networks-and-improve-lives
+    - 'http://maker.good.is/myla2050live2015/projects/LIFTLosAngeles.html'
+    - 'http://maker.good.is/myLA2050connect/projects/LIFT-LA.html'
+    - 'http://maker.good.is/myla2050/projects/liftcommunities.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
+    - '2013'
 title: LIFT-Los Angeles
 uri: /organizations/lift-los-angeles/
-challenge_url: 'https://activation.la2050.org/live/lift-los-angeles/'
 extrapolated_project_ids:
   - '6102131'
   - '4102119'

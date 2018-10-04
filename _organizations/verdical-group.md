@@ -29,10 +29,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102272'
-title: Verdical Group
-uri: /organizations/verdical-group/
 challenge_url: >-
   https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
+aggregated:
+  project_ids:
+    - '6102272'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
+  year_submitted:
+    - '2016'
+title: Verdical Group
+uri: /organizations/verdical-group/
 extrapolated_project_ids:
   - '6102272'
 project_titles_from_extrapolated_project_ids:

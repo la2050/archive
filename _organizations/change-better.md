@@ -23,9 +23,16 @@ org_summary: >-
   strategies to turn big ideas into big impact.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102051'
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
+aggregated:
+  project_ids:
+    - '5102051'
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
+  year_submitted:
+    - '2015'
 title: Change Better
 uri: /organizations/change-better/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
 extrapolated_project_ids:
   - '5102051'
 project_titles_from_extrapolated_project_ids:

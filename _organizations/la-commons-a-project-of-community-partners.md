@@ -29,10 +29,21 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '8102060'
-title: 'LA Commons, a project of Community Partners'
-uri: /organizations/la-commons-a-project-of-community-partners/
 challenge_url: >-
   https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
+aggregated:
+  project_ids:
+    - '8102060'
+    - '3102171'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/connect/la-commons-a-project-of-community-partners/
+    - 'http://maker.good.is/myla2050/projects/FoundLA.html'
+  year_submitted:
+    - '2018'
+    - '2013'
+title: 'LA Commons, a project of Community Partners'
+uri: /organizations/la-commons-a-project-of-community-partners/
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

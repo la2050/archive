@@ -30,10 +30,21 @@ areas_impacted:
   - South LA
   - Westside
 project_ids: '6102019'
-title: BlacklistLA
-uri: /organizations/blacklistla/
 challenge_url: >-
   https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
+aggregated:
+  project_ids:
+    - '6102019'
+    - '5102029'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/-blacklistla-on-the-playground-where-we-spent-most-of-our-days
+    - 'http://maker.good.is/myla2050connect2015/projects/blacklistla.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: BlacklistLA
+uri: /organizations/blacklistla/
 extrapolated_project_ids:
   - '6102019'
   - '5102029'

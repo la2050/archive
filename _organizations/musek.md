@@ -33,9 +33,16 @@ org_summary: >-
    This program has shown that it can help students improve their grades by empowering with tools that inspire critical thinking, focus, and organization. Implementing this curriculum has definitely motivated my students to pursue higher education. Not only are they thinking about college but they now understand the skills they must develop to get into college and to succeed in college.
 areas_impacted: ''
 project_ids: '3102079'
+challenge_url: 'http://maker.good.is/myla2050/projects/MUSEK.html'
+aggregated:
+  project_ids:
+    - '3102079'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/MUSEK.html'
+  year_submitted:
+    - '2013'
 title: MUSEK
 uri: /organizations/musek/
-challenge_url: 'http://maker.good.is/myla2050/projects/MUSEK.html'
 extrapolated_project_ids:
   - '3102079'
 project_titles_from_extrapolated_project_ids:

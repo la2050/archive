@@ -27,10 +27,21 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102012'
-title: Arts For Incarcerated Youth Network
-uri: /organizations/arts-for-incarcerated-youth-network/
 challenge_url: >-
   https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
+aggregated:
+  project_ids:
+    - '6102012'
+    - '5102024'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/arts-for-incarcerated-youth-network-using-arts-to-build-camptocareer-pipeline-for-youth
+    - 'http://maker.good.is/myla2050create2015/projects/AIYN.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Arts For Incarcerated Youth Network
+uri: /organizations/arts-for-incarcerated-youth-network/
 extrapolated_project_ids:
   - '6102012'
   - '5102024'

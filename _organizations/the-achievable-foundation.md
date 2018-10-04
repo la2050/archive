@@ -18,9 +18,15 @@ org_summary: >-
   for individuals with developmental disabilities.
 areas_impacted: ''
 project_ids: '4102167'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102167'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: The Achievable Foundation
 uri: /organizations/the-achievable-foundation/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

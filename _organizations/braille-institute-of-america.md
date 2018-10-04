@@ -25,10 +25,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102020'
-title: Braille Institute of America
-uri: /organizations/braille-institute-of-america/
 challenge_url: >-
   https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
+aggregated:
+  project_ids:
+    - '6102020'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
+  year_submitted:
+    - '2016'
+title: Braille Institute of America
+uri: /organizations/braille-institute-of-america/
 extrapolated_project_ids:
   - '6102020'
 project_titles_from_extrapolated_project_ids:

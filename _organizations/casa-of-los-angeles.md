@@ -28,9 +28,26 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102014'
+challenge_url: 'https://activation.la2050.org/connect/casa-of-los-angeles/'
+aggregated:
+  project_ids:
+    - '8102014'
+    - '6102032'
+    - '5102043'
+    - '4102247'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/casa-of-los-angeles/'
+    - >-
+      https://challenge.la2050.org/entry/college-collaborative-for-foster-care-youth
+    - 'http://maker.good.is/myla2050connect2015/projects/casalosangeles.html'
+    - 'http://maker.good.is/myLA2050connect/projects/casaofla.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
 title: CASA of Los Angeles
 uri: /organizations/casa-of-los-angeles/
-challenge_url: 'https://activation.la2050.org/connect/casa-of-los-angeles/'
 extrapolated_project_ids:
   - '8102014'
   - '6102032'

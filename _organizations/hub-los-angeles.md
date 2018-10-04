@@ -48,9 +48,16 @@ org_summary: >-
    <p>Sponsorship and partnership of over 50 events to date supporting organizations such as GOOD, Acumen Fund, AIGA, Praxis Labs, Dell Women’s Network for Entrepreneurship, Green Festival, Social Justice Institute to name a few.</p>
 areas_impacted: ''
 project_ids: '3102056'
+challenge_url: 'http://maker.good.is/myla2050/projects/thehubla.html'
+aggregated:
+  project_ids:
+    - '3102056'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/thehubla.html'
+  year_submitted:
+    - '2013'
 title: Hub Los Angeles
 uri: /organizations/hub-los-angeles/
-challenge_url: 'http://maker.good.is/myla2050/projects/thehubla.html'
 extrapolated_project_ids:
   - '3102056'
 project_titles_from_extrapolated_project_ids:

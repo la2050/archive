@@ -27,9 +27,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102039'
+challenge_url: 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
+aggregated:
+  project_ids:
+    - '8102039'
+  challenge_url:
+    - 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
+  year_submitted:
+    - '2018'
 title: Family Promise of the South Bay
 uri: /organizations/family-promise-of-the-south-bay/
-challenge_url: 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

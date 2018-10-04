@@ -24,9 +24,17 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '8102139'
+challenge_url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
+aggregated:
+  project_ids:
+    - '8102139'
+  challenge_url:
+    - >-
+      https://activation.la2050.org/live/world-harvest-charities-family-services/
+  year_submitted:
+    - '2018'
 title: World Harvest Charities & Family Services
 uri: /organizations/world-harvest-charities-family-services/
-challenge_url: 'https://activation.la2050.org/live/world-harvest-charities-family-services/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

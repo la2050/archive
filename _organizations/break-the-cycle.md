@@ -26,10 +26,18 @@ org_summary: >-
 areas_impacted:
   - East LA
 project_ids: '6102021'
-title: Break the Cycle
-uri: /organizations/break-the-cycle/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
+aggregated:
+  project_ids:
+    - '6102021'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
+  year_submitted:
+    - '2016'
+title: Break the Cycle
+uri: /organizations/break-the-cycle/
 extrapolated_project_ids:
   - '6102021'
 project_titles_from_extrapolated_project_ids:

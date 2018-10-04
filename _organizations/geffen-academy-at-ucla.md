@@ -49,9 +49,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102043'
+challenge_url: 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
+aggregated:
+  project_ids:
+    - '8102043'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
+  year_submitted:
+    - '2018'
 title: Geffen Academy at UCLA
 uri: /organizations/geffen-academy-at-ucla/
-challenge_url: 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

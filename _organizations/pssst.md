@@ -21,9 +21,16 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '6102192'
+challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
+aggregated:
+  project_ids:
+    - '6102192'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
+  year_submitted:
+    - '2016'
 title: PSSST
 uri: /organizations/pssst/
-challenge_url: 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
 extrapolated_project_ids:
   - '6102192'
 project_titles_from_extrapolated_project_ids:

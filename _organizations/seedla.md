@@ -37,9 +37,20 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102107'
+challenge_url: 'https://activation.la2050.org/live/seedla/'
+aggregated:
+  project_ids:
+    - '8102107'
+    - '6102206'
+  challenge_url:
+    - 'https://activation.la2050.org/live/seedla/'
+    - >-
+      https://challenge.la2050.org/entry/seedla-empowering-environmental-nonprofits
+  year_submitted:
+    - '2018'
+    - '2016'
 title: SeedLA
 uri: /organizations/seedla/
-challenge_url: 'https://activation.la2050.org/live/seedla/'
 extrapolated_project_ids:
   - '8102107'
   - '6102206'

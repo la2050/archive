@@ -28,10 +28,18 @@ areas_impacted:
   - South Bay
   - County of Los Angeles
 project_ids: '6102241'
-title: 'The Engineer Factory, a project of Community Partners'
-uri: /organizations/the-engineer-factory-a-project-of-community-partners/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
+aggregated:
+  project_ids:
+    - '6102241'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
+  year_submitted:
+    - '2016'
+title: 'The Engineer Factory, a project of Community Partners'
+uri: /organizations/the-engineer-factory-a-project-of-community-partners/
 extrapolated_project_ids:
   - '6102241'
 project_titles_from_extrapolated_project_ids:

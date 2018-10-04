@@ -25,9 +25,19 @@ org_summary: >-
 areas_impacted:
   - Westside
 project_ids: ''
+challenge_url: 'https://activation.la2050.org/live/podshare/'
+aggregated:
+  project_ids:
+    - '6102219'
+  challenge_url:
+    - 'https://activation.la2050.org/live/podshare/'
+    - >-
+      https://challenge.la2050.org/entry/building-a-co-living-community-for-las-homeless-youth
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Podshare
 uri: /organizations/podshare/
-challenge_url: 'https://activation.la2050.org/live/podshare/'
 extrapolated_project_ids:
   - '8102096'
   - '6102219'

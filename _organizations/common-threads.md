@@ -28,10 +28,21 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102049'
-title: Common Threads
-uri: /organizations/common-threads/
 challenge_url: >-
   https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
+aggregated:
+  project_ids:
+    - '6102049'
+    - '5102073'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/nutrition-and-garden-education-for-underserved-children-common-threads-with-the-kitchen-community
+    - 'http://maker.good.is/myla2050live2015/projects/cookingforlife.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Common Threads
+uri: /organizations/common-threads/
 extrapolated_project_ids:
   - '6102049'
   - '5102073'

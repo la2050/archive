@@ -35,9 +35,17 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102141'
+challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'
+aggregated:
+  project_ids:
+    - '6102141'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets
+  year_submitted:
+    - '2016'
 title: Equallet
 uri: /organizations/equallet/
-challenge_url: 'https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets'
 extrapolated_project_ids:
   - '6102141'
 project_titles_from_extrapolated_project_ids:

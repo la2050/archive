@@ -32,9 +32,23 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102065'
+challenge_url: 'https://activation.la2050.org/learn/las-best/'
+aggregated:
+  project_ids:
+    - '8102065'
+    - '6102128'
+    - '4102253'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/las-best/'
+    - >-
+      https://challenge.la2050.org/entry/las-best-aarp-foundation-experience-corps-brighter-futures-via-reading-proficiency-by-3rd-grade
+    - 'http://maker.good.is/myLA2050play/projects/CFS.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
 title: LA's BEST
 uri: /organizations/las-best/
-challenge_url: 'https://activation.la2050.org/learn/las-best/'
 extrapolated_project_ids:
   - '8102065'
   - '6102128'

@@ -31,10 +31,18 @@ areas_impacted:
   - South LA
   - City of Los Angeles
 project_ids: '6102143'
-title: Los Angeles Neighborhood Initiative (LANI)
-uri: /organizations/los-angeles-neighborhood-initiative-lani/
 challenge_url: >-
   https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
+aggregated:
+  project_ids:
+    - '6102143'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
+  year_submitted:
+    - '2016'
+title: Los Angeles Neighborhood Initiative (LANI)
+uri: /organizations/los-angeles-neighborhood-initiative-lani/
 extrapolated_project_ids:
   - '6102143'
 project_titles_from_extrapolated_project_ids:

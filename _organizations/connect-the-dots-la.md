@@ -26,9 +26,16 @@ org_summary: >-
   integrated planning.
 areas_impacted: ''
 project_ids: '5102078'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
+aggregated:
+  project_ids:
+    - '5102078'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
+  year_submitted:
+    - '2015'
 title: Connect the Dots LA
 uri: /organizations/connect-the-dots-la/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ConnecttheDotsLA.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

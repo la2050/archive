@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - District 9 of Long Beach - Los Angeles County
 project_ids: '6102132'
-title: Light and Life Christian Fellowship Community Center
-uri: /organizations/light-and-life-christian-fellowship-community-center/
 challenge_url: >-
   https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
+aggregated:
+  project_ids:
+    - '6102132'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
+  year_submitted:
+    - '2016'
+title: Light and Life Christian Fellowship Community Center
+uri: /organizations/light-and-life-christian-fellowship-community-center/
 extrapolated_project_ids:
   - '6102132'
 project_titles_from_extrapolated_project_ids:

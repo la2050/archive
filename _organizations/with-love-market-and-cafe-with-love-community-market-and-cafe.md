@@ -22,9 +22,16 @@ org_summary: >-
   employment and community classes/ cultural events to Southwest LA
 areas_impacted: 'Other:'
 project_ids: '4102175'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
+aggregated:
+  project_ids:
+    - '4102175'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
+  year_submitted:
+    - '2014'
 title: 'With Love Market and Cafe, With Love Community Market and Cafe'
 uri: /organizations/with-love-market-and-cafe-with-love-community-market-and-cafe/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
 extrapolated_project_ids:
   - '4102257'
 project_titles_from_extrapolated_project_ids:

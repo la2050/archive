@@ -38,9 +38,16 @@ org_summary: >-
    We have received recognition and awards from the American Public Health Association, Hispanic Business Magazine, American Society of Landscape Architects, California Parks and Recreation Foundation, Los Angeles Regional Water Quality Board, City of Los Angeles, Community Partners, and Cultural Landscape Foundation.
 areas_impacted: ''
 project_ids: '3102246'
+challenge_url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
+aggregated:
+  project_ids:
+    - '3102246'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/TheCityProject.html'
+  year_submitted:
+    - '2013'
 title: The City Project
 uri: /organizations/the-city-project/
-challenge_url: 'http://maker.good.is/myla2050/projects/TheCityProject.html'
 extrapolated_project_ids:
   - '3102246'
 project_titles_from_extrapolated_project_ids:

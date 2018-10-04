@@ -25,9 +25,15 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
+  year_submitted:
+    - '2014'
 title: Getting Your Sh*t Together (GYST-INK)
 uri: /organizations/getting-your-sh*t-together-gyst-ink/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
 extrapolated_project_ids:
   - '4102082'
 project_titles_from_extrapolated_project_ids:

@@ -31,9 +31,20 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102054'
+challenge_url: 'https://activation.la2050.org/connect/imagine-la/'
+aggregated:
+  project_ids:
+    - '8102054'
+    - '6102102'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/imagine-la/'
+    - >-
+      https://challenge.la2050.org/entry/volunteer-and-be-a-part-of-the-solution-to-family-homelessness
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Imagine LA
 uri: /organizations/imagine-la/
-challenge_url: 'https://activation.la2050.org/connect/imagine-la/'
 extrapolated_project_ids:
   - '6102102'
 project_titles_from_extrapolated_project_ids:

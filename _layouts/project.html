@@ -22,11 +22,18 @@ stylesheets:
     {% endif %}
   {% endfor %}
 
-  {% comment %}
-  {% if item.organization_id == page.organization_id %}
-    {% assign organization = item %}
-  {% endif %}
-  {% endcomment %}
+  {% assign project_id_list = page.aggregated.project_ids %}
+  {% for project_id in project_id_list %}
+    {% if page.project_id == project_id %}
+      {% assign organization = item %}
+    {% endif %}
+  {% endfor %}
+
+  {% unless organization %}
+    {% if item.organization_id == page.organization_id %}
+      {% assign organization = item %}
+    {% endif %}
+  {% endunless %}
 
 {% endfor %}
 
@@ -34,16 +41,57 @@ stylesheets:
 {% assign is_finalist = false %}
 {% for finalist in site.finalists %}
   {% if finalist == organization.url %}
-    {% assign is_finalist = true %}
+    {% if page.year_submitted == 2018 %}
+      {% assign is_finalist = true %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
 {% assign is_winner = false %}
 {% for winner in site.data.winners %}
-  {% if winner.url == organization.challenge_url or winner.title == data.title %}
+  {% if winner == page.challenge_url %}
     {% assign is_winner = true %}
   {% endif %}
+
+  {% for challenge_url in organization.aggregated.challenge_url %}
+    {% if winner.url == challenge_url %}
+      {% if page.year_submitted == 2018 %}
+        {% if challenge_url contains "activation" %}
+          {% assign is_winner = true %}
+        {% endif %}
+      {% elsif page.year_submitted == 2016 %}
+        {% if challenge_url contains "challenge" %}
+          {% assign is_winner = true %}
+        {% endif %}
+      {% elsif page.year_submitted == 2015 %}
+        {% if challenge_url contains "maker" and challenge_url contains "2015" %}
+          {% assign is_winner = true %}
+        {% endif %}
+      {% elsif page.year_submitted == 2014 %}
+        {% if challenge_url contains "maker" %}
+          {% if challenge_url contains "learn" or 
+                challenge_url contains "create" or 
+                challenge_url contains "play" or 
+                challenge_url contains "connect" or 
+                challenge_url contains "live" %}
+            {% assign is_winner = true %}
+          {% endif %}
+        {% endif %}
+      {% elsif page.year_submitted == 2013 %}
+        {% if challenge_url contains "maker" %}
+          {% unless challenge_url contains "learn" or 
+                challenge_url contains "create" or 
+                challenge_url contains "play" or 
+                challenge_url contains "connect" or 
+                challenge_url contains "live" %}
+            {% assign is_winner = true %}
+          {% endunless %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
+
 
 
 
@@ -83,10 +131,24 @@ stylesheets:
 
 <div class="year"></div>
 
-{% if page.year_submitted == 2013 or page.year_submitted == 2014 or page.year_submitted == 2015 %}
+{% if page.year_submitted == 2013 %}
 
-{% assign challenge_title = "My LA2050 Grants Challenge" %}
-{% assign challenge_url = "http://maker.good.is" %}
+{% assign challenge_title = "My LA2050 Maker Challenge" %}
+{% assign challenge_url = "http://maker.good.is/myla2050.html" %}
+
+{% elsif page.year_submitted == 2014 %}
+
+{% assign challenge_title = "My LA2050 Maker Challenge" %}
+{% capture challenge_url %}
+http://maker.good.is/myLA2050{{ page.category }}.html
+{% endcapture %}
+
+{% elsif page.year_submitted == 2015 %}
+
+{% assign challenge_title = "My LA2050 Maker Challenge" %}
+{% capture challenge_url %}
+http://maker.good.is/myLA2050{{ page.category }}2015.html
+{% endcapture %}
 
 {% elsif page.year_submitted == 2016 %}
 

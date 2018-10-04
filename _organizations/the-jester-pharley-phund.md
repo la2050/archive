@@ -29,10 +29,20 @@ areas_impacted:
   - LAUSD
   - Inglewood
 project_ids: '6102246'
-title: The Jester & Pharley Phund
-uri: /organizations/the-jester-pharley-phund/
 challenge_url: >-
   https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
+aggregated:
+  project_ids:
+    - '6102246'
+    - '4102242'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/reading-makes-a-difference-inspiring-kids-to-read-care-about-others
+  year_submitted:
+    - '2016'
+    - '2014'
+title: The Jester & Pharley Phund
+uri: /organizations/the-jester-pharley-phund/
 extrapolated_project_ids:
   - '6102246'
   - '4102216'

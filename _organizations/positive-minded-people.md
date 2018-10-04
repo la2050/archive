@@ -25,9 +25,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102072'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
+aggregated:
+  project_ids:
+    - '4102072'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
+  year_submitted:
+    - '2014'
 title: Positive Minded People
 uri: /organizations/positive-minded-people/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
 extrapolated_project_ids:
   - '4102171'
 project_titles_from_extrapolated_project_ids:

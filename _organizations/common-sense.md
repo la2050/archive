@@ -31,9 +31,16 @@ areas_impacted:
     benefit)
   - LAUSD
 project_ids: '8102029'
+challenge_url: 'https://activation.la2050.org/learn/common-sense/'
+aggregated:
+  project_ids:
+    - '8102029'
+  challenge_url:
+    - 'https://activation.la2050.org/learn/common-sense/'
+  year_submitted:
+    - '2018'
 title: Common Sense
 uri: /organizations/common-sense/
-challenge_url: 'https://activation.la2050.org/learn/common-sense/'
 extrapolated_project_ids:
   - '8102029'
 project_titles_from_extrapolated_project_ids:

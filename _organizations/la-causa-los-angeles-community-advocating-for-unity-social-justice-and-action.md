@@ -35,12 +35,19 @@ org_summary: >-
    Recognized as one of unincorporated East Los Angeles's only youth services group. The opportunities and resources in the community are relatively limited while showing significant positive outcomes.
 areas_impacted: ''
 project_ids: '3102168'
+challenge_url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
+aggregated:
+  project_ids:
+    - '3102168'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
+  year_submitted:
+    - '2013'
 title: >-
   LA CAUSA (Los Angeles Community Advocating for Unity Social Justice and
   Action)
 uri: >-
   /organizations/la-causa-los-angeles-community-advocating-for-unity-social-justice-and-action/
-challenge_url: 'http://maker.good.is/myla2050/projects/LACYBCommunitySafety.html'
 extrapolated_project_ids:
   - '3102168'
 project_titles_from_extrapolated_project_ids:

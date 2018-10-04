@@ -26,10 +26,18 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102013'
-title: Avalon Carver Community Center
-uri: /organizations/avalon-carver-community-center/
 challenge_url: >-
   https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
+aggregated:
+  project_ids:
+    - '6102013'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
+  year_submitted:
+    - '2016'
+title: Avalon Carver Community Center
+uri: /organizations/avalon-carver-community-center/
 extrapolated_project_ids:
   - '6102013'
 project_titles_from_extrapolated_project_ids:

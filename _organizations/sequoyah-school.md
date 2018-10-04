@@ -24,9 +24,16 @@ org_summary: >-
   justice, research-based innovation, and environmental stewardship.
 areas_impacted: 'Central LA,East LA,San Gabriel Valley,San Fernando Valley'
 project_ids: '5102265'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/seq.html'
+aggregated:
+  project_ids:
+    - '5102265'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/seq.html'
+  year_submitted:
+    - '2015'
 title: Sequoyah School
 uri: /organizations/sequoyah-school/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/seq.html'
 extrapolated_project_ids:
   - '5102265'
 project_titles_from_extrapolated_project_ids:

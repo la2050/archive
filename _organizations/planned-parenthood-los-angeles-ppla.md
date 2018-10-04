@@ -36,9 +36,20 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102184'
+challenge_url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'
+aggregated:
+  project_ids:
+    - '6102184'
+    - '5102237'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/community-based-comprehensive-sex-education
+    - 'http://maker.good.is/myla2050live2015/projects/PlannedParenthood.html'
+  year_submitted:
+    - '2016'
+    - '2015'
 title: Planned Parenthood Los Angeles (PPLA)
 uri: /organizations/planned-parenthood-los-angeles-ppla/
-challenge_url: 'https://challenge.la2050.org/entry/community-based-comprehensive-sex-education'
 extrapolated_project_ids:
   - '6102184'
   - '5102237'

@@ -28,10 +28,20 @@ areas_impacted:
   - San Fernando Valley
   - South LA
 project_ids: '6102257'
-title: The Sierra Club Foundation
-uri: /organizations/the-sierra-club-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
+aggregated:
+  project_ids:
+    - '6102257'
+    - '4102243'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-future-is-bright!-a-clean-energy-future-for-la
+  year_submitted:
+    - '2016'
+    - '2014'
+title: The Sierra Club Foundation
+uri: /organizations/the-sierra-club-foundation/
 extrapolated_project_ids:
   - '6102257'
 project_titles_from_extrapolated_project_ids:

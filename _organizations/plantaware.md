@@ -30,9 +30,17 @@ areas_impacted:
   - City of Los Angeles
   - n/a
 project_ids: '6102217'
+challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
+aggregated:
+  project_ids:
+    - '6102217'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape
+  year_submitted:
+    - '2016'
 title: Plantaware
 uri: /organizations/plantaware/
-challenge_url: 'https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape'
 extrapolated_project_ids:
   - '6102217'
 project_titles_from_extrapolated_project_ids:

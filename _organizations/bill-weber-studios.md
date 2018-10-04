@@ -24,9 +24,15 @@ org_summary: >-
   and families worldwide.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
+  year_submitted:
+    - '2015'
 title: Bill Weber Studios
 uri: /organizations/bill-weber-studios/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
 extrapolated_project_ids:
   - '5102028'
 project_titles_from_extrapolated_project_ids:

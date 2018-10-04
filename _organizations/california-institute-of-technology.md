@@ -28,10 +28,18 @@ areas_impacted:
   - LAUSD
   - LADWP and SCE's rate paying territories
 project_ids: '6102026'
-title: California Institute of Technology
-uri: /organizations/california-institute-of-technology/
 challenge_url: >-
   https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
+aggregated:
+  project_ids:
+    - '6102026'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
+  year_submitted:
+    - '2016'
+title: California Institute of Technology
+uri: /organizations/california-institute-of-technology/
 extrapolated_project_ids:
   - '6102026'
 project_titles_from_extrapolated_project_ids:

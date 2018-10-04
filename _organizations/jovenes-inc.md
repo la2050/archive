@@ -22,9 +22,18 @@ org_summary: >-
   We provide stable housing options and supportive services.
 areas_impacted: ''
 project_ids: '4102142'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102142'
+    - '3102160'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/ehubb.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: 'Jovenes, Inc.'
 uri: /organizations/jovenes-inc/
-challenge_url: ''
 extrapolated_project_ids:
   - '3102160'
 project_titles_from_extrapolated_project_ids:

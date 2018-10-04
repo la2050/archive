@@ -24,9 +24,16 @@ org_summary: >-
   National Monument.
 areas_impacted: 'San Gabriel Valley,Antelope Valley,Other (please specify below):'
 project_ids: '5102299'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
+aggregated:
+  project_ids:
+    - '5102299'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
+  year_submitted:
+    - '2015'
 title: The Council of Mexican Federations (COFEM)
 uri: /organizations/the-council-of-mexican-federations-cofem/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
 extrapolated_project_ids:
   - '5102299'
 project_titles_from_extrapolated_project_ids:

@@ -36,10 +36,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102127'
-title: Landscape Integrity Films and Education (LIFE)
-uri: /organizations/landscape-integrity-films-and-education-life/
 challenge_url: >-
   https://challenge.la2050.org/entry/california-native-plant-public-education-project
+aggregated:
+  project_ids:
+    - '6102127'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/california-native-plant-public-education-project
+  year_submitted:
+    - '2016'
+title: Landscape Integrity Films and Education (LIFE)
+uri: /organizations/landscape-integrity-films-and-education-life/
 extrapolated_project_ids:
   - '6102127'
 project_titles_from_extrapolated_project_ids:

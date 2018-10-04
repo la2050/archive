@@ -51,9 +51,16 @@ org_summary: >-
    The Forum continues to actively engage all of Los Angeles and has two exhibitions planned this summer for our space in the Woodbury University Hollywood gallery. These exhibitions focus on alternative housing typologies for Los Angeles and will be open throughout the summer for free to the public.
 areas_impacted: ''
 project_ids: '3102186'
+challenge_url: 'http://maker.good.is/myla2050/projects/stimulateLA.html'
+aggregated:
+  project_ids:
+    - '3102186'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/stimulateLA.html'
+  year_submitted:
+    - '2013'
 title: Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/los-angeles-forum-for-architecture-and-urban-design/
-challenge_url: 'http://maker.good.is/myla2050/projects/stimulateLA.html'
 extrapolated_project_ids:
   - '3102186'
 project_titles_from_extrapolated_project_ids:

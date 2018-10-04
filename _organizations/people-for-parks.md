@@ -29,9 +29,23 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '8102095'
+challenge_url: 'https://activation.la2050.org/play/people-for-parks/'
+aggregated:
+  project_ids:
+    - '8102095'
+    - '6102181'
+    - '5102232'
+  challenge_url:
+    - 'https://activation.la2050.org/play/people-for-parks/'
+    - >-
+      https://challenge.la2050.org/entry/people-for-parks-community-school-parks-go-kid-healthy!
+    - 'http://maker.good.is/myla2050play2015/projects/peopleforparks.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
 title: People for Parks
 uri: /organizations/people-for-parks/
-challenge_url: 'https://activation.la2050.org/play/people-for-parks/'
 extrapolated_project_ids:
   - '6102181'
   - '5102232'

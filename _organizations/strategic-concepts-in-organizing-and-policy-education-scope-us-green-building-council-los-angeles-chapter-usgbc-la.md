@@ -27,12 +27,19 @@ org_summary: >-
   LA’s built environment by delivering education, resources and recognition.
 areas_impacted: South LA
 project_ids: '5102282'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
+aggregated:
+  project_ids:
+    - '5102282'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
+  year_submitted:
+    - '2015'
 title: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)
 uri: >-
   /organizations/strategic-concepts-in-organizing-and-policy-education-scope-us-green-building-council-los-angeles-chapter-usgbc-la/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
 extrapolated_project_ids:
   - '5102282'
 project_titles_from_extrapolated_project_ids:

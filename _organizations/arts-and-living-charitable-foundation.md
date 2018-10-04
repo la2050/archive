@@ -27,9 +27,16 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102010'
+challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
+aggregated:
+  project_ids:
+    - '6102010'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/arts-connect'
+  year_submitted:
+    - '2016'
 title: Arts and Living Charitable Foundation
 uri: /organizations/arts-and-living-charitable-foundation/
-challenge_url: 'https://challenge.la2050.org/entry/arts-connect'
 extrapolated_project_ids:
   - '6102010'
 project_titles_from_extrapolated_project_ids:

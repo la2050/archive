@@ -30,9 +30,16 @@ areas_impacted:
   - South LA
   - LAUSD
 project_ids: '6102271'
+challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
+aggregated:
+  project_ids:
+    - '6102271'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
+  year_submitted:
+    - '2016'
 title: United Nations Association-USA Pasadena Chapter Inc.
 uri: /organizations/united-nations-association-usa-pasadena-chapter-inc/
-challenge_url: 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
 extrapolated_project_ids:
   - '6102271'
 project_titles_from_extrapolated_project_ids:

@@ -29,10 +29,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102023'
-title: BUILD
-uri: /organizations/build/
 challenge_url: >-
   https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
+aggregated:
+  project_ids:
+    - '6102023'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
+  year_submitted:
+    - '2016'
+title: BUILD
+uri: /organizations/build/
 extrapolated_project_ids:
   - '6102023'
 project_titles_from_extrapolated_project_ids:

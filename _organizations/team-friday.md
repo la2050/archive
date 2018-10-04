@@ -35,9 +35,16 @@ org_summary: >-
   nearby!
 areas_impacted: ''
 project_ids: '3102104'
+challenge_url: 'http://maker.good.is/myla2050/projects/artmageddon.html'
+aggregated:
+  project_ids:
+    - '3102104'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/artmageddon.html'
+  year_submitted:
+    - '2013'
 title: Team Friday
 uri: /organizations/team-friday/
-challenge_url: 'http://maker.good.is/myla2050/projects/artmageddon.html'
 extrapolated_project_ids:
   - '3102104'
 project_titles_from_extrapolated_project_ids:

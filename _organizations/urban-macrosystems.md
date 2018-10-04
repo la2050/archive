@@ -53,9 +53,16 @@ org_summary: >-
    <p>Birds Words — A series of structures for the North Embarcadero Visionary Plan, San Diego 2014</p>
 areas_impacted: ''
 project_ids: '3102113'
+challenge_url: 'http://maker.good.is/myla2050/projects/NRT.html'
+aggregated:
+  project_ids:
+    - '3102113'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/NRT.html'
+  year_submitted:
+    - '2013'
 title: Urban Macrosystems
 uri: /organizations/urban-macrosystems/
-challenge_url: 'http://maker.good.is/myla2050/projects/NRT.html'
 extrapolated_project_ids:
   - '3102113'
 project_titles_from_extrapolated_project_ids:

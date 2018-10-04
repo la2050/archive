@@ -25,9 +25,16 @@ org_summary: >-
   and highly energy efficient, here in the US and abroad.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102128'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
+aggregated:
+  project_ids:
+    - '5102128'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
+  year_submitted:
+    - '2015'
 title: 'HDomes.com, Shacklebrand Designs'
 uri: /organizations/hdomes-com-shacklebrand-designs/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
 extrapolated_project_ids:
   - '5102128'
 project_titles_from_extrapolated_project_ids:

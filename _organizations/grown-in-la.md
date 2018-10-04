@@ -28,9 +28,16 @@ areas_impacted:
   - City of Los Angeles
   - N/A
 project_ids: '6102088'
+challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
+aggregated:
+  project_ids:
+    - '6102088'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
+  year_submitted:
+    - '2016'
 title: Grown in LA
 uri: /organizations/grown-in-la/
-challenge_url: 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
 extrapolated_project_ids:
   - '6102088'
 project_titles_from_extrapolated_project_ids:

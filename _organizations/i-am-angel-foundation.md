@@ -22,9 +22,22 @@ org_summary: >-
   through STEAM education, inspiration and opportunity.
 areas_impacted: 'East LA,Other:'
 project_ids: '4102044'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
+aggregated:
+  project_ids:
+    - '4102044'
+    - '3102152'
+    - '3102152'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
+    - 'http://maker.good.is/myla2050/projects/iamangel_incubator.html'
+    - 'http://maker.good.is/myla2050/projects/paperfreestudio.html'
+  year_submitted:
+    - '2014'
+    - '2013'
+    - '2013'
 title: i.am.angel Foundation
 uri: /organizations/i-am-angel-foundation/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/iam_makerspace.html'
 extrapolated_project_ids:
   - '4102095'
   - '3102152'

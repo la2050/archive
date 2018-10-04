@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102036'
-title: Chrysalis
-uri: /organizations/chrysalis/
 challenge_url: >-
   https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
+aggregated:
+  project_ids:
+    - '6102036'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
+  year_submitted:
+    - '2016'
+title: Chrysalis
+uri: /organizations/chrysalis/
 extrapolated_project_ids:
   - '6102036'
 project_titles_from_extrapolated_project_ids:

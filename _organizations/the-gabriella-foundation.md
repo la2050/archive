@@ -18,9 +18,18 @@ org_summary: >-
   to underserved youth in Los Angeles.
 areas_impacted: ''
 project_ids: '4102169'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102169'
+    - '3102247'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/dance.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: The Gabriella Foundation
 uri: /organizations/the-gabriella-foundation/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102213'
   - '3102247'

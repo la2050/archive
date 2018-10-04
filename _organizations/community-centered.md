@@ -26,9 +26,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside,Other:
 project_ids: '4102018'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
+aggregated:
+  project_ids:
+    - '4102018'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/civicla.html'
+  year_submitted:
+    - '2014'
 title: Community Centered
 uri: /organizations/community-centered/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/civicla.html'
 extrapolated_project_ids:
   - '4102044'
 project_titles_from_extrapolated_project_ids:

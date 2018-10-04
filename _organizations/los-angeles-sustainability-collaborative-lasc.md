@@ -24,9 +24,15 @@ org_summary: >-
   stakeholders, and advances solutions to emerging local environment
 areas_impacted: ''
 project_ids: '4102152'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102152'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Los Angeles Sustainability Collaborative (LASC)
 uri: /organizations/los-angeles-sustainability-collaborative-lasc/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

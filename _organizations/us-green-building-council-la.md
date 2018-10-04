@@ -28,10 +28,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102276'
-title: US Green Building Council-LA
-uri: /organizations/us-green-building-council-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
+aggregated:
+  project_ids:
+    - '6102276'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
+  year_submitted:
+    - '2016'
+title: US Green Building Council-LA
+uri: /organizations/us-green-building-council-la/
 extrapolated_project_ids:
   - '6102276'
 project_titles_from_extrapolated_project_ids:

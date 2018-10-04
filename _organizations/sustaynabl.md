@@ -24,9 +24,15 @@ areas_impacted: >-
   Central LA,South LA,County of Los Angeles (countywide),City of Los Angeles
   (citywide)
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
+  year_submitted:
+    - '2015'
 title: Sustaynabl
 uri: /organizations/sustaynabl/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
 extrapolated_project_ids:
   - '5102284'
 project_titles_from_extrapolated_project_ids:

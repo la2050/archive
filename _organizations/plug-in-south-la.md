@@ -24,9 +24,15 @@ org_summary: >-
   leaders in historica
 areas_impacted: South LA
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
+  year_submitted:
+    - '2015'
 title: Plug In South LA
 uri: /organizations/plug-in-south-la/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
 extrapolated_project_ids:
   - '5102239'
 project_titles_from_extrapolated_project_ids:

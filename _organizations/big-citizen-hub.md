@@ -28,9 +28,26 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102008'
+challenge_url: 'https://activation.la2050.org/live/big-citizen-hub/'
+aggregated:
+  project_ids:
+    - '8102008'
+    - '6102017'
+    - '5102027'
+    - '4102246'
+  challenge_url:
+    - 'https://activation.la2050.org/live/big-citizen-hub/'
+    - >-
+      https://challenge.la2050.org/entry/big-citizen-hub-building-a-pipeline-of-social-change-makers-via-leadership-and-community-service
+    - 'http://maker.good.is/myla2050connect2015/projects/BigCitizenHUB.html'
+    - 'http://maker.good.is/myLA2050connect/projects/BigCitizenHUB.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
 title: Big Citizen HUB
 uri: /organizations/big-citizen-hub/
-challenge_url: 'https://activation.la2050.org/live/big-citizen-hub/'
 extrapolated_project_ids:
   - '6102017'
   - '5102027'

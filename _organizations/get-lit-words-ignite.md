@@ -27,9 +27,20 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102044'
+challenge_url: 'https://activation.la2050.org/create/get-lit-words-ignite/'
+aggregated:
+  project_ids:
+    - '8102044'
+    - '6102080'
+  challenge_url:
+    - 'https://activation.la2050.org/create/get-lit-words-ignite/'
+    - >-
+      https://challenge.la2050.org/entry/get-lit-players-go-on-a-lit-for-literacy-tour-in-los-angeles-first-poetry-bus!
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Get Lit - Words Ignite
 uri: /organizations/get-lit-words-ignite/
-challenge_url: 'https://activation.la2050.org/create/get-lit-words-ignite/'
 extrapolated_project_ids:
   - '6102080'
 project_titles_from_extrapolated_project_ids:

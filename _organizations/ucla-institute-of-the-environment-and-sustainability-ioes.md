@@ -37,10 +37,18 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102266'
-title: UCLA Institute of the Environment and Sustainability (IOES)
-uri: /organizations/ucla-institute-of-the-environment-and-sustainability-ioes/
 challenge_url: >-
   https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
+aggregated:
+  project_ids:
+    - '6102266'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
+  year_submitted:
+    - '2016'
+title: UCLA Institute of the Environment and Sustainability (IOES)
+uri: /organizations/ucla-institute-of-the-environment-and-sustainability-ioes/
 extrapolated_project_ids:
   - '6102266'
 project_titles_from_extrapolated_project_ids:

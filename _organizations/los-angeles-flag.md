@@ -24,9 +24,16 @@ org_summary: >-
   amongst Angelenos throughout the city and around the world.
 areas_impacted: City of Los Angeles (citywide)
 project_ids: '5102189'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
+aggregated:
+  project_ids:
+    - '5102189'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
+  year_submitted:
+    - '2015'
 title: Los Angeles Flag
 uri: /organizations/los-angeles-flag/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
 extrapolated_project_ids:
   - '5102189'
 project_titles_from_extrapolated_project_ids:

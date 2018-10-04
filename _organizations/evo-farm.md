@@ -53,9 +53,16 @@ org_summary: |-
    * Re-introducing taste to living food (Edible Westside http://goo.gl/KydmV)
 areas_impacted: ''
 project_ids: '3102040'
+challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
+aggregated:
+  project_ids:
+    - '3102040'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/aquaponics.html'
+  year_submitted:
+    - '2013'
 title: Evo Farm
 uri: /organizations/evo-farm/
-challenge_url: 'http://maker.good.is/myla2050/projects/aquaponics.html'
 extrapolated_project_ids:
   - '3102040'
 project_titles_from_extrapolated_project_ids:

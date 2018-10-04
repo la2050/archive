@@ -27,9 +27,20 @@ org_summary: >-
   & economic mobility.
 areas_impacted: South LA
 project_ids: '5102197'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
+aggregated:
+  project_ids:
+    - '5102197'
+    - '4102203'
+    - '4102204'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2014'
 title: Los Angeles Trade-Technical College
 uri: /organizations/los-angeles-trade-technical-college/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/SLATE_Z.html'
 extrapolated_project_ids:
   - '5102197'
   - '4102138'

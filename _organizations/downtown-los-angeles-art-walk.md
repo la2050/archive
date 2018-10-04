@@ -27,9 +27,17 @@ org_summary: >-
   and job readiness.
 areas_impacted: 'Central LA,City of Los Angeles (citywide)'
 project_ids: '5102084'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html'
+aggregated:
+  project_ids:
+    - '5102084'
+  challenge_url:
+    - >-
+      http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html
+  year_submitted:
+    - '2015'
 title: Downtown Los Angeles Art Walk
 uri: /organizations/downtown-los-angeles-art-walk/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

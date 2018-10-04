@@ -22,9 +22,16 @@ org_summary: >-
   college scholarships through our video service.
 areas_impacted: 'San Fernando Valley,County of Los Angeles (countywide)'
 project_ids: '5102230'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
+aggregated:
+  project_ids:
+    - '5102230'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
+  year_submitted:
+    - '2015'
 title: Pass Tha Ball
 uri: /organizations/pass-tha-ball/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
 extrapolated_project_ids:
   - '5102230'
 project_titles_from_extrapolated_project_ids:

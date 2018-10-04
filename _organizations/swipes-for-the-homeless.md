@@ -46,9 +46,16 @@ org_summary: >-
   to thank all of our supporters who have been with us every step of the way.
 areas_impacted: ''
 project_ids: '3102241'
+challenge_url: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
+aggregated:
+  project_ids:
+    - '3102241'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
+  year_submitted:
+    - '2013'
 title: Swipes for the Homeless
 uri: /organizations/swipes-for-the-homeless/
-challenge_url: 'http://maker.good.is/myla2050/projects/swipesforthehomeless.html'
 extrapolated_project_ids:
   - '3102241'
 project_titles_from_extrapolated_project_ids:

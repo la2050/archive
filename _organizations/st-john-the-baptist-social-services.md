@@ -61,9 +61,16 @@ org_summary: >-
    The Social Services program has been developing greater and deeper linkages in the community to provide better delivery of resources. This project will take this process even further to yield wonderful dividends. The foundation of social connectedness has been established; now, the program looks to grow the structure.
 areas_impacted: ''
 project_ids: '3102237'
+challenge_url: 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
+aggregated:
+  project_ids:
+    - '3102237'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
+  year_submitted:
+    - '2013'
 title: St. John the Baptist Social Services
 uri: /organizations/st-john-the-baptist-social-services/
-challenge_url: 'http://maker.good.is/myla2050/projects/sjbsocialservices.html'
 extrapolated_project_ids:
   - '3102237'
 project_titles_from_extrapolated_project_ids:

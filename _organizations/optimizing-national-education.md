@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102066'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/Welcome.html'
+aggregated:
+  project_ids:
+    - '4102066'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
+  year_submitted:
+    - '2014'
 title: Optimizing National Education
 uri: /organizations/optimizing-national-education/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/Welcome.html'
 extrapolated_project_ids:
   - '4102161'
 project_titles_from_extrapolated_project_ids:

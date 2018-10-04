@@ -367,6 +367,7 @@ function subCompare (needle, haystack, min_substring_length) {
 }
 
 
+let writtenPaths = {}
 function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswers) {
   // console.log('createMarkdownFile for ' + data.title)
   let writePath = '../_organizations'
@@ -381,9 +382,6 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
 
   data.uri = '/organizations/' + filename + '/'
   // data.order = orderCursor++
-
-  data.challenge_url = data.url
-  delete data.url
 
   // TODO: Get the ntee_type from the page located at charity_navigator_url
   delete data.link_to_ntee_code
@@ -657,11 +655,24 @@ ${yaml.safeDump(data)}
 ---
 `
 
+  if (previously_shown_organization_ids[data['organization_id']] > 1) {
+    writePath = '../_organizations_alternate'
+    filename = filename + "__" + previously_shown_organization_ids[data['organization_id']]
+  }
+
+  let fullPathToWrite = writePath + '/' +  filename
+  if (writtenPaths[fullPathToWrite]) {
+    fullPathToWrite = fullPathToWrite + "__" + writtenPaths[fullPathToWrite]
+    writtenPaths[fullPathToWrite]++
+  } else {
+    writtenPaths[fullPathToWrite] = 1
+  }
+
   mkdirp(writePath, function (err) {
     if (err) {
       console.error(err)
     } else {
-      fs.writeFileSync(writePath + '/' +  filename + '.md', output, 'utf8', (err) => {
+      fs.writeFileSync(fullPathToWrite + '.md', output, 'utf8', (err) => {
         if (err) {
           console.log(err)
         }
@@ -671,6 +682,8 @@ ${yaml.safeDump(data)}
 }
 
 // let orderCursor = 0
+
+let previously_shown_organization_ids = {}
 
 function generateAllCollections(file_name) {
 
@@ -693,18 +706,73 @@ function generateAllCollections(file_name) {
     return 0
   })
 
-  let previously_shown_organization_ids = {}
+  // Create a list of project_id and challenge_url,
+  // while generating organizations and collapsing multiple records based on organization_id
 
-  records = records.filter(item => {
-    if (previously_shown_organization_ids[item['organization_id']]) {
-      return false;
-    } else {
-      previously_shown_organization_ids[item['organization_id']] = 1
-      return true
+  const propertiesToAggregate = ["project_ids", "challenge_url", "year_submitted"]
+
+  let recordsByOrganizationID = {}
+  records.forEach(record => {
+
+    record.challenge_url = record.url
+    delete record.url
+
+    // Look for a project with an organization_id and project_id that matches this organization
+    // let projects = getProjects(record).filter(project => project.project_id == record.project_id)
+
+    if (!recordsByOrganizationID[record.organization_id]) {
+      recordsByOrganizationID[record.organization_id] = {}
     }
+    propertiesToAggregate.forEach(property => {
+      if (!recordsByOrganizationID[record.organization_id][property]) {
+        recordsByOrganizationID[record.organization_id][property] = []
+      }
+      if (record[property] != null && record[property] != "") {
+        recordsByOrganizationID[record.organization_id][property].push(record[property])
+      }
+    })
   })
 
+  // records = records.filter(item => {
+  //   if (previously_shown_organization_ids[item['organization_id']]) {
+  //     return false;
+  //   } else {
+  //     previously_shown_organization_ids[item['organization_id']] = 1
+  //     return true
+  //   }
+  // })
+
+  // function aggregate(organization_id, property) {
+  //   let aggregatedValues = []
+  //   recordsByOrganizationID[organization_id].forEach(record => {
+  //     if (organization_id == '2018003') {
+  //       console.log(property + ": " + record[property])
+  //     }
+  //     if (record[property] != null && record[property] != "") {
+  //       aggregatedValues.push(record[property])
+  //     }
+  //   })
+  //   // return recordsByOrganizationID[organization_id].map(item => item[property]).filter(item => item != null && item != "")
+  //   return aggregatedValues
+  // }
+
   for (let index = 0; index < records.length; index++) {
+
+    if (!previously_shown_organization_ids[records[index]['organization_id']]) {
+      previously_shown_organization_ids[records[index]['organization_id']] = 0
+    }
+
+    previously_shown_organization_ids[records[index]['organization_id']]++
+
+    // records[index].aggregated = {}
+    // propertiesToAggregate.forEach(property => {
+    //   records[index].aggregated[property] = aggregate(records[index].organization_id, property)
+    // })
+    records[index].aggregated = recordsByOrganizationID[records[index].organization_id]
+    if (records[index].organization_id == '2018003') {
+      console.log("aggregated: ")
+      console.dir(records[index].aggregated)
+    }
 
     if (!records[index].title) {
       records[index].title = records[index].organization_name || "Organization title, to be determined"
@@ -840,6 +908,8 @@ function getProjects(organization) {
       return 0
     })
     return projects
+  } else {
+    return []
   }
 }
 

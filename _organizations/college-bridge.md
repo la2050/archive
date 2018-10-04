@@ -35,10 +35,20 @@ areas_impacted:
   - City of Los Angeles
   - LAUSD
 project_ids: '6102046'
-title: College Bridge
-uri: /organizations/college-bridge/
 challenge_url: >-
   https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
+aggregated:
+  project_ids:
+    - '6102046'
+    - '4102223'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/future-focus-college-and-career-pathways-for-la-county-students
+  year_submitted:
+    - '2016'
+    - '2014'
+title: College Bridge
+uri: /organizations/college-bridge/
 extrapolated_project_ids:
   - '6102046'
   - '4102041'

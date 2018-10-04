@@ -55,9 +55,16 @@ org_summary: >-
    - Raised funds for and created a District Oral Health Nurse position
 areas_impacted: ''
 project_ids: '3102255'
+challenge_url: 'http://maker.good.is/myla2050/projects/thelatrust.html'
+aggregated:
+  project_ids:
+    - '3102255'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/thelatrust.html'
+  year_submitted:
+    - '2013'
 title: The Los Angeles Trust for Children's Health
 uri: /organizations/the-los-angeles-trust-for-childrens-health/
-challenge_url: 'http://maker.good.is/myla2050/projects/thelatrust.html'
 extrapolated_project_ids:
   - '3102255'
 project_titles_from_extrapolated_project_ids:

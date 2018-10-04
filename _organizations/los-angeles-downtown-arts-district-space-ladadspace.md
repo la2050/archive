@@ -23,9 +23,16 @@ org_summary: >-
   District as a productive creative community.
 areas_impacted: 'Central LA,East LA,South LA'
 project_ids: '4102056'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
+aggregated:
+  project_ids:
+    - '4102056'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
+  year_submitted:
+    - '2014'
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 uri: /organizations/los-angeles-downtown-arts-district-space-ladadspace/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
 extrapolated_project_ids:
   - '4102129'
 project_titles_from_extrapolated_project_ids:

@@ -21,9 +21,15 @@ org_summary: >-
   wellness outcomes for LAUSD’s 650,000+ students.
 areas_impacted: ''
 project_ids: '4102173'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102173'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: The Los Angeles Fund For Public Education (The LA Fund)
 uri: /organizations/the-los-angeles-fund-for-public-education-the-la-fund/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102222'
 project_titles_from_extrapolated_project_ids:

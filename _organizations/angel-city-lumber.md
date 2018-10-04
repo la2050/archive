@@ -24,9 +24,15 @@ org_summary: >-
   point.
 areas_impacted: East LA
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
+  year_submitted:
+    - '2015'
 title: Angel City Lumber
 uri: /organizations/angel-city-lumber/
-challenge_url: 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
 extrapolated_project_ids:
   - '5102016'
 project_titles_from_extrapolated_project_ids:

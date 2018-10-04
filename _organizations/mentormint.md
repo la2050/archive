@@ -25,9 +25,15 @@ org_summary: >-
   to achieve career success
 areas_impacted: 'Central LA,City of Los Angeles (citywide),Other (please specify below):'
 project_ids: ''
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
+aggregated:
+  project_ids: []
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
+  year_submitted:
+    - '2015'
 title: MentorMint
 uri: /organizations/mentormint/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
 extrapolated_project_ids:
   - '5102206'
 project_titles_from_extrapolated_project_ids:

@@ -50,9 +50,16 @@ org_summary: >-
    <p>* Helping develop a proposal to legalize sidewalk food vending in Los Angeles</p>
 areas_impacted: ''
 project_ids: '3102266'
+challenge_url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
+aggregated:
+  project_ids:
+    - '3102266'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
+  year_submitted:
+    - '2013'
 title: Urban & Environmental Policy Institute
 uri: /organizations/urban-environmental-policy-institute/
-challenge_url: 'http://maker.good.is/myla2050/projects/BuildingBlocksLA.html'
 extrapolated_project_ids:
   - '3102266'
 project_titles_from_extrapolated_project_ids:

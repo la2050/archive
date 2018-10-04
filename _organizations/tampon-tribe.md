@@ -27,10 +27,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102239'
-title: Tampon Tribe
-uri: /organizations/tampon-tribe/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
+aggregated:
+  project_ids:
+    - '6102239'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
+  year_submitted:
+    - '2016'
+title: Tampon Tribe
+uri: /organizations/tampon-tribe/
 extrapolated_project_ids:
   - '6102239'
 project_titles_from_extrapolated_project_ids:

@@ -21,9 +21,15 @@ org_summary: >-
   connecting them to college and career.
 areas_impacted: ''
 project_ids: '4102122'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102122'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: College Summit Southern California
 uri: /organizations/college-summit-southern-california/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102042'
 project_titles_from_extrapolated_project_ids:

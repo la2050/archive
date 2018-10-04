@@ -23,10 +23,18 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102161'
-title: Give Today LA
-uri: /organizations/give-today-la/
 challenge_url: >-
   https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
+aggregated:
+  project_ids:
+    - '6102161'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
+  year_submitted:
+    - '2016'
+title: Give Today LA
+uri: /organizations/give-today-la/
 extrapolated_project_ids:
   - '6102161'
 project_titles_from_extrapolated_project_ids:

@@ -30,9 +30,19 @@ areas_impacted:
   - South LA
   - Gateway Cities
 project_ids: '6102111'
+challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
+aggregated:
+  project_ids:
+    - '6102111'
+    - '5102077'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/re-make-it-la'
+    - 'http://maker.good.is/myla2050create2015/projects/buyoutyourboss.html'
+  year_submitted:
+    - '2016'
+    - '2015'
 title: Concerned Capital
 uri: /organizations/concerned-capital/
-challenge_url: 'https://challenge.la2050.org/entry/re-make-it-la'
 extrapolated_project_ids:
   - '6102111'
 project_titles_from_extrapolated_project_ids:

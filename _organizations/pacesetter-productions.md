@@ -41,9 +41,16 @@ org_summary: >-
    http://www.leecondon.com/writing.html
 areas_impacted: ''
 project_ids: '3102081'
+challenge_url: 'http://maker.good.is/myla2050/projects/Passion.html'
+aggregated:
+  project_ids:
+    - '3102081'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/Passion.html'
+  year_submitted:
+    - '2013'
 title: Pacesetter Productions
 uri: /organizations/pacesetter-productions/
-challenge_url: 'http://maker.good.is/myla2050/projects/Passion.html'
 extrapolated_project_ids:
   - '3102081'
 project_titles_from_extrapolated_project_ids:

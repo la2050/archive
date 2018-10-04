@@ -24,10 +24,18 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '6102093'
-title: Hollywood Arts Council
-uri: /organizations/hollywood-arts-council/
 challenge_url: >-
   https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
+aggregated:
+  project_ids:
+    - '6102093'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
+  year_submitted:
+    - '2016'
+title: Hollywood Arts Council
+uri: /organizations/hollywood-arts-council/
 extrapolated_project_ids:
   - '6102093'
 project_titles_from_extrapolated_project_ids:

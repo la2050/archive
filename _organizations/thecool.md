@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - City of Los Angeles
 project_ids: '6102262'
-title: thecool
-uri: /organizations/thecool/
 challenge_url: >-
   https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
+aggregated:
+  project_ids:
+    - '6102262'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
+  year_submitted:
+    - '2016'
+title: thecool
+uri: /organizations/thecool/
 extrapolated_project_ids:
   - '6102262'
 project_titles_from_extrapolated_project_ids:

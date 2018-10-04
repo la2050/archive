@@ -24,9 +24,16 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: '4102096'
+challenge_url: 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
+aggregated:
+  project_ids:
+    - '4102096'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
+  year_submitted:
+    - '2014'
 title: The Project for The Imagined Futures
 uri: /organizations/the-project-for-the-imagined-futures/
-challenge_url: 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
 extrapolated_project_ids:
   - '4102228'
 project_titles_from_extrapolated_project_ids:

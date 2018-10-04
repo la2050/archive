@@ -29,9 +29,16 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102254'
+challenge_url: 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'
+aggregated:
+  project_ids:
+    - '6102254'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'
+  year_submitted:
+    - '2016'
 title: The integrated Learning Annex
 uri: /organizations/the-integrated-learning-annex/
-challenge_url: 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'
 extrapolated_project_ids:
   - '6102254'
 project_titles_from_extrapolated_project_ids:

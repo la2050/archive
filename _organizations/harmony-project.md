@@ -41,9 +41,16 @@ org_summary: >-
    In January, Harmony Project’s YOLA/EXPO orchestra attended master classes with SÃ­mÃ³n BolÃ­var Youth Orchestra of Venezuela, and also performed together at Cathedral of Our Lady of the Angels in Downtown LA. In attendance was El Sistema founder JosÃ© Antonio Abreu — El Sistema is the hugely successful Venezuelan music program that Harmony Project is in part modeled after. In addition, the YOLA/EXPO orchestra has recently had the opportunity to perform with renowned conductor Sir Simon Rattle, Gustavo Dudamel, Stevie Wonder, and on the Tonight Show with Rickey Minor.
 areas_impacted: ''
 project_ids: '3102145'
+challenge_url: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
+aggregated:
+  project_ids:
+    - '3102145'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
+  year_submitted:
+    - '2013'
 title: Harmony Project
 uri: /organizations/harmony-project/
-challenge_url: 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
 extrapolated_project_ids:
   - '3102145'
 project_titles_from_extrapolated_project_ids:

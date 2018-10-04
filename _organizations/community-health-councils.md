@@ -25,9 +25,19 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '6102052'
+challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
+aggregated:
+  project_ids:
+    - '6102052'
+    - '3102088'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
+    - 'http://maker.good.is/myla2050/projects/LAOpenAcres.html'
+  year_submitted:
+    - '2016'
+    - '2013'
 title: Community Health Councils
 uri: /organizations/community-health-councils/
-challenge_url: 'https://challenge.la2050.org/entry/save-spaces-for-healthy-places'
 extrapolated_project_ids:
   - '6102052'
   - '3102088'

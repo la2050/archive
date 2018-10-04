@@ -26,10 +26,18 @@ areas_impacted:
   - County of Los Angeles
   - City of Los Angeles
 project_ids: '6102041'
-title: Civic Nation
-uri: /organizations/civic-nation/
 challenge_url: >-
   https://challenge.la2050.org/entry/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration
+aggregated:
+  project_ids:
+    - '6102041'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration
+  year_submitted:
+    - '2016'
+title: Civic Nation
+uri: /organizations/civic-nation/
 extrapolated_project_ids:
   - '6102041'
 project_titles_from_extrapolated_project_ids:

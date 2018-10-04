@@ -42,9 +42,21 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102133'
+challenge_url: 'https://activation.la2050.org/connect/university-of-southern-california/'
+aggregated:
+  project_ids:
+    - '8102133'
+    - '6102273'
+    - '4102266'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/university-of-southern-california/'
+    - 'https://challenge.la2050.org/entry/open-ballot-la'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2014'
 title: University of Southern California
 uri: /organizations/university-of-southern-california/
-challenge_url: 'https://activation.la2050.org/connect/university-of-southern-california/'
 extrapolated_project_ids:
   - '6102273'
 project_titles_from_extrapolated_project_ids:

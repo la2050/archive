@@ -27,9 +27,16 @@ org_summary: >-
   than the sum of parts.
 areas_impacted: 'County of Los Angeles (countywide),City of Los Angeles (citywide)'
 project_ids: '5102227'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
+aggregated:
+  project_ids:
+    - '5102227'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
+  year_submitted:
+    - '2015'
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 uri: /organizations/pando-populus-inc-world-studio-foundation-inc/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
 extrapolated_project_ids:
   - '5102227'
 project_titles_from_extrapolated_project_ids:

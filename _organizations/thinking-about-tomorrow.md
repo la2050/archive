@@ -20,9 +20,18 @@ areas_impacted: >-
   Central LA,East LA,South LA,Westside,South Bay,County of Los Angeles
   (countywide),City of Los Angeles (citywide),LAUSD
 project_ids: '5102317'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
+aggregated:
+  project_ids:
+    - '5102317'
+    - '4102217'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
+  year_submitted:
+    - '2015'
+    - '2014'
 title: Thinking about Tomorrow
 uri: /organizations/thinking-about-tomorrow/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/SchoolisCool.html'
 extrapolated_project_ids:
   - '5102317'
   - '4102234'

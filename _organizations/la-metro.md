@@ -24,9 +24,16 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102121'
+challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'
+aggregated:
+  project_ids:
+    - '6102121'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/off-peak-podcast'
+  year_submitted:
+    - '2016'
 title: LA Metro
 uri: /organizations/la-metro/
-challenge_url: 'https://challenge.la2050.org/entry/off-peak-podcast'
 extrapolated_project_ids:
   - '6102121'
 project_titles_from_extrapolated_project_ids:

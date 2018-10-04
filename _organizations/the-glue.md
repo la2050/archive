@@ -31,9 +31,16 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102120'
+challenge_url: 'https://activation.la2050.org/live/the-glue/'
+aggregated:
+  project_ids:
+    - '8102120'
+  challenge_url:
+    - 'https://activation.la2050.org/live/the-glue/'
+  year_submitted:
+    - '2018'
 title: The Glue
 uri: /organizations/the-glue/
-challenge_url: 'https://activation.la2050.org/live/the-glue/'
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

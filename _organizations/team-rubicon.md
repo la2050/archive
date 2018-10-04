@@ -31,9 +31,20 @@ areas_impacted:
     City of Los Angeles (please select only if your project has a citywide
     benefit)
 project_ids: '8102116'
+challenge_url: 'https://activation.la2050.org/live/team-rubicon/'
+aggregated:
+  project_ids:
+    - '8102116'
+    - '6102232'
+  challenge_url:
+    - 'https://activation.la2050.org/live/team-rubicon/'
+    - >-
+      https://challenge.la2050.org/entry/localizing-disaster-response-to-meet-the-challenges-of-the-21st-century
+  year_submitted:
+    - '2018'
+    - '2016'
 title: Team Rubicon
 uri: /organizations/team-rubicon/
-challenge_url: 'https://activation.la2050.org/live/team-rubicon/'
 extrapolated_project_ids:
   - '8102116'
   - '6102232'

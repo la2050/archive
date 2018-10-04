@@ -24,9 +24,18 @@ areas_impacted: >-
   Central LA,East LA,South LA,San Gabriel Valley,San Fernando Valley,South
   Bay,Westside
 project_ids: ''
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
+aggregated:
+  project_ids:
+    - '3102025'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
+    - 'http://maker.good.is/myla2050/projects/dogoodbus.html'
+  year_submitted:
+    - '2014'
+    - '2013'
 title: Do Good Bus
 uri: /organizations/do-good-bus/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/dogoodbus.html'
 extrapolated_project_ids:
   - '4102055'
   - '3102025'

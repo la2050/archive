@@ -32,10 +32,21 @@ areas_impacted:
   - South Bay
   - LAUSD
 project_ids: '6102196'
-title: Relational Medicine Foundation
-uri: /organizations/relational-medicine-foundation/
 challenge_url: >-
   https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
+aggregated:
+  project_ids:
+    - '6102196'
+    - '5102252'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/art-from-the-heart-an-art-and-movement-therapy-program
+    - 'http://maker.good.is/myla2050create2015/projects/RelationalMedicine.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: Relational Medicine Foundation
+uri: /organizations/relational-medicine-foundation/
 extrapolated_project_ids:
   - '6102196'
   - '5102252'

@@ -25,10 +25,21 @@ org_summary: >-
 areas_impacted:
   - County of Los Angeles
 project_ids: '6102113'
-title: KCRW
-uri: /organizations/kcrw/
 challenge_url: >-
   https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
+aggregated:
+  project_ids:
+    - '6102113'
+    - '5102158'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/help-build-the-kcrw-media-center-—-designed-for-you-to-connect-with-public-radio-in-los-angeles
+    - 'http://maker.good.is/myla2050connect2015/projects/kcrwcapitalcampaign.html'
+  year_submitted:
+    - '2016'
+    - '2015'
+title: KCRW
+uri: /organizations/kcrw/
 extrapolated_project_ids:
   - '6102113'
   - '5102158'

@@ -28,9 +28,16 @@ areas_impacted:
   - County of Los Angeles
   - LAUSD
 project_ids: '6102123'
+challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
+aggregated:
+  project_ids:
+    - '6102123'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
+  year_submitted:
+    - '2016'
 title: LA Promise Fund
 uri: /organizations/la-promise-fund/
-challenge_url: 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
 extrapolated_project_ids:
   - '6102123'
 project_titles_from_extrapolated_project_ids:

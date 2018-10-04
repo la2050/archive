@@ -18,9 +18,15 @@ org_summary: >-
   individuals who reside in the northeast San Fernando Valley.
 areas_impacted: ''
 project_ids: '4102153'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102153'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Meet Each Need with Dignity
 uri: /organizations/meet-each-need-with-dignity/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

@@ -22,9 +22,15 @@ org_summary: >-
   impact & create change for years to come.
 areas_impacted: ''
 project_ids: '4102137'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102137'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: I'll Be The One Organization
 uri: /organizations/ill-be-the-one-organization/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102097'
 project_titles_from_extrapolated_project_ids:

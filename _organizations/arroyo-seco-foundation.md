@@ -24,9 +24,16 @@ org_summary: >-
   Angeles River Watershed.
 areas_impacted: County of Los Angeles (countywide)
 project_ids: '5102020'
+challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
+aggregated:
+  project_ids:
+    - '5102020'
+  challenge_url:
+    - 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
+  year_submitted:
+    - '2015'
 title: Arroyo Seco Foundation
 uri: /organizations/arroyo-seco-foundation/
-challenge_url: 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
 extrapolated_project_ids:
   - '5102020'
 project_titles_from_extrapolated_project_ids:

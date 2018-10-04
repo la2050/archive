@@ -27,9 +27,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102066'
+challenge_url: 'https://activation.la2050.org/connect/lava-mae/'
+aggregated:
+  project_ids:
+    - '8102066'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/lava-mae/'
+  year_submitted:
+    - '2018'
 title: Lava Mae
 uri: /organizations/lava-mae/
-challenge_url: 'https://activation.la2050.org/connect/lava-mae/'
 extrapolated_project_ids:
   - '8102066'
 project_titles_from_extrapolated_project_ids:

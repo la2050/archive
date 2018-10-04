@@ -70,9 +70,16 @@ org_summary: >-
    Through LTSC’s community organizing efforts we have established relationships with Little Tokyo residents and have taught them to collectively and formally represent their concerns. Moreover, we have worked with residents to develop a model for community involvement in planning. With our support and guidance, the residents have lobbied for two crosswalks, a post office and helped successfully fight to preserve affordable housing at a 100-unit building. They have also lobbied against a proposed 500-bed jail and have fought to limit bail bonds businesses in the area.
 areas_impacted: ''
 project_ids: '3102192'
+challenge_url: 'http://maker.good.is/myla2050/projects/LTSC.html'
+aggregated:
+  project_ids:
+    - '3102192'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/LTSC.html'
+  year_submitted:
+    - '2013'
 title: LTSC Community Development Corporation
 uri: /organizations/ltsc-community-development-corporation/
-challenge_url: 'http://maker.good.is/myla2050/projects/LTSC.html'
 extrapolated_project_ids:
   - '3102192'
 project_titles_from_extrapolated_project_ids:

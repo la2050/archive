@@ -22,9 +22,16 @@ org_summary: >-
   and other cultural programming in partnership with the California State Parks.
 areas_impacted: 'Other (please specify below):'
 project_ids: '5102160'
+challenge_url: 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
+aggregated:
+  project_ids:
+    - '5102160'
+  challenge_url:
+    - 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
+  year_submitted:
+    - '2015'
 title: Kensington Presents
 uri: /organizations/kensington-presents/
-challenge_url: 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
 extrapolated_project_ids:
   - '5102160'
 project_titles_from_extrapolated_project_ids:

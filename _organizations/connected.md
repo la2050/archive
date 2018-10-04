@@ -25,10 +25,18 @@ org_summary: >-
 areas_impacted:
   - LAUSD
 project_ids: '6102054'
-title: ConnectEd
-uri: /organizations/connected/
 challenge_url: >-
   https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
+aggregated:
+  project_ids:
+    - '6102054'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
+  year_submitted:
+    - '2016'
+title: ConnectEd
+uri: /organizations/connected/
 extrapolated_project_ids:
   - '6102054'
 project_titles_from_extrapolated_project_ids:

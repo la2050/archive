@@ -26,9 +26,16 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102134'
+challenge_url: 'https://activation.la2050.org/connect/voterunlead/'
+aggregated:
+  project_ids:
+    - '8102134'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/voterunlead/'
+  year_submitted:
+    - '2018'
 title: VoteRunLead
 uri: /organizations/voterunlead/
-challenge_url: 'https://activation.la2050.org/connect/voterunlead/'
 extrapolated_project_ids:
   - '8102134'
 project_titles_from_extrapolated_project_ids:

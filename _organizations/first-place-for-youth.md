@@ -27,10 +27,18 @@ areas_impacted:
   - South LA
   - South Bay
 project_ids: '6102068'
-title: First Place for Youth
-uri: /organizations/first-place-for-youth/
 challenge_url: >-
   https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
+aggregated:
+  project_ids:
+    - '6102068'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
+  year_submitted:
+    - '2016'
+title: First Place for Youth
+uri: /organizations/first-place-for-youth/
 extrapolated_project_ids:
   - '6102068'
 project_titles_from_extrapolated_project_ids:

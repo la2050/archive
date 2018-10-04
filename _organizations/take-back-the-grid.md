@@ -27,9 +27,16 @@ org_summary: >-
   come was inspiring.
 areas_impacted: ''
 project_ids: '3102101'
+challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
+aggregated:
+  project_ids:
+    - '3102101'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
+  year_submitted:
+    - '2013'
 title: Take Back the Grid
 uri: /organizations/take-back-the-grid/
-challenge_url: 'http://maker.good.is/myla2050/projects/takebackthegrid.html'
 extrapolated_project_ids:
   - '3102101'
 project_titles_from_extrapolated_project_ids:

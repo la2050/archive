@@ -27,9 +27,16 @@ areas_impacted:
   - East LA
   - South LA
 project_ids: '8102059'
+challenge_url: 'https://activation.la2050.org/live/l-a-kitchen/'
+aggregated:
+  project_ids:
+    - '8102059'
+  challenge_url:
+    - 'https://activation.la2050.org/live/l-a-kitchen/'
+  year_submitted:
+    - '2018'
 title: L.A. Kitchen
 uri: /organizations/l-a-kitchen/
-challenge_url: 'https://activation.la2050.org/live/l-a-kitchen/'
 extrapolated_project_ids:
   - '8102059'
 project_titles_from_extrapolated_project_ids:

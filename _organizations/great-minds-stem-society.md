@@ -24,9 +24,16 @@ org_summary: >-
   hands-on research experience.
 areas_impacted: 'South LA,Other (please specify below):'
 project_ids: '5102116'
+challenge_url: 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
+aggregated:
+  project_ids:
+    - '5102116'
+  challenge_url:
+    - 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
+  year_submitted:
+    - '2015'
 title: Great Minds STEM Society
 uri: /organizations/great-minds-stem-society/
-challenge_url: 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
 extrapolated_project_ids:
   - '5102116'
 project_titles_from_extrapolated_project_ids:

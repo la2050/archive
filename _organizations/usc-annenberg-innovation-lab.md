@@ -28,10 +28,18 @@ areas_impacted:
   - East LA
   - Westside
 project_ids: '6102277'
-title: USC Annenberg Innovation Lab
-uri: /organizations/usc-annenberg-innovation-lab/
 challenge_url: >-
   https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
+aggregated:
+  project_ids:
+    - '6102277'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
+  year_submitted:
+    - '2016'
+title: USC Annenberg Innovation Lab
+uri: /organizations/usc-annenberg-innovation-lab/
 extrapolated_project_ids:
   - '6102277'
 project_titles_from_extrapolated_project_ids:

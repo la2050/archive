@@ -24,9 +24,16 @@ org_summary: >-
 areas_impacted:
   - San Fernando Valley
 project_ids: '6102228'
+challenge_url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
+aggregated:
+  project_ids:
+    - '6102228'
+  challenge_url:
+    - 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
+  year_submitted:
+    - '2016'
 title: 'SilverMotion, Inc.'
 uri: /organizations/silvermotion-inc/
-challenge_url: 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
 extrapolated_project_ids:
   - '6102228'
 project_titles_from_extrapolated_project_ids:

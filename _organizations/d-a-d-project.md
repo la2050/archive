@@ -28,10 +28,18 @@ areas_impacted:
   - City of Los Angeles
   - Inglewood
 project_ids: '6102058'
-title: D.A.D Project
-uri: /organizations/d-a-d-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
+aggregated:
+  project_ids:
+    - '6102058'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-d-a-d-project-we-are-empowering-communities-one-d-a-d-at-a-time!
+  year_submitted:
+    - '2016'
+title: D.A.D Project
+uri: /organizations/d-a-d-project/
 extrapolated_project_ids:
   - '6102058'
 project_titles_from_extrapolated_project_ids:

@@ -26,9 +26,16 @@ org_summary: >-
 areas_impacted:
   - South LA
 project_ids: '8102031'
+challenge_url: 'https://activation.la2050.org/connect/coro-southern-california/'
+aggregated:
+  project_ids:
+    - '8102031'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/coro-southern-california/'
+  year_submitted:
+    - '2018'
 title: Coro Southern California
 uri: /organizations/coro-southern-california/
-challenge_url: 'https://activation.la2050.org/connect/coro-southern-california/'
 extrapolated_project_ids:
   - '8102031'
 project_titles_from_extrapolated_project_ids:

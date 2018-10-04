@@ -64,9 +64,16 @@ org_summary: >-
    *Immigrant voters identified by California Calls as supporters participated at an average rate of 81%, compared to a statewide average of 68%--a 13% point increase
 areas_impacted: ''
 project_ids: '3102048'
+challenge_url: 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
+aggregated:
+  project_ids:
+    - '3102048'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
+  year_submitted:
+    - '2013'
 title: California Calls
 uri: /organizations/california-calls/
-challenge_url: 'http://maker.good.is/myla2050/projects/TurnUptheTurnOut.html'
 extrapolated_project_ids:
   - '3102048'
 project_titles_from_extrapolated_project_ids:

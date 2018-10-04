@@ -50,9 +50,16 @@ org_summary: >-
    ML+A designed Vista Hermosa Park as an urban watershed demonstration project that accommodates community and school recreational programs, integrated with an extensive network of introduced natural features and ecosystems. Located at the edge of a dense residential zone, the park incorporates active recreation including a synthetic turf soccer field, trails, water features, a children’s adventure area and picnic areas in native habitat landscapes.</p>
 areas_impacted: ''
 project_ids: '3102071'
+challenge_url: 'http://maker.good.is/myla2050/projects/farmonwheels.html'
+aggregated:
+  project_ids:
+    - '3102071'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/farmonwheels.html'
+  year_submitted:
+    - '2013'
 title: 'LA-Más, Inc.'
 uri: /organizations/la-más-inc/
-challenge_url: 'http://maker.good.is/myla2050/projects/farmonwheels.html'
 extrapolated_project_ids:
   - '3102071'
 project_titles_from_extrapolated_project_ids:

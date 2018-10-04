@@ -24,9 +24,16 @@ org_summary: >-
   breaking bread.
 areas_impacted: 'Central LA,East LA,Westside'
 project_ids: '4102088'
+challenge_url: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
+aggregated:
+  project_ids:
+    - '4102088'
+  challenge_url:
+    - 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
+  year_submitted:
+    - '2014'
 title: The Dinner Party
 uri: /organizations/the-dinner-party/
-challenge_url: 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
 extrapolated_project_ids:
   - '4102210'
 project_titles_from_extrapolated_project_ids:

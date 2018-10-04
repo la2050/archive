@@ -24,9 +24,22 @@ org_summary: >-
   Angeles area one vacant space at a time.
 areas_impacted: South LA
 project_ids: '5102107'
+challenge_url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
+aggregated:
+  project_ids:
+    - '5102107'
+    - '4102199'
+    - '3102134'
+  challenge_url:
+    - 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
+    - 'http://maker.good.is/myLA2050play/projects/fromlottospot.html'
+    - 'http://maker.good.is/myla2050/projects/NETWORKandNATURE.html'
+  year_submitted:
+    - '2015'
+    - '2014'
+    - '2013'
 title: From Lot to Spot
 uri: /organizations/from-lot-to-spot/
-challenge_url: 'http://maker.good.is/myla2050live2015/projects/wattsraingardens.html'
 extrapolated_project_ids:
   - '5102107'
   - '4102079'

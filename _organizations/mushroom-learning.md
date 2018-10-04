@@ -17,9 +17,15 @@ project_video: ''
 org_summary: Mushroom Learning Teaches Kids to Code!
 areas_impacted: ''
 project_ids: '4102067'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102067'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Mushroom Learning
 uri: /organizations/mushroom-learning/
-challenge_url: ''
 extrapolated_project_ids:
   - '4102152'
 project_titles_from_extrapolated_project_ids:

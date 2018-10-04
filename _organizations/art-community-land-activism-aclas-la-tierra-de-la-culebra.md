@@ -23,9 +23,15 @@ org_summary: >-
   programming to engage the community.
 areas_impacted: ''
 project_ids: '4102114'
+challenge_url: ''
+aggregated:
+  project_ids:
+    - '4102114'
+  challenge_url: []
+  year_submitted:
+    - '2014'
 title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
 uri: /organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/
-challenge_url: ''
 extrapolated_project_ids: []
 project_titles_from_extrapolated_project_ids: []
 project_titles:

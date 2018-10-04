@@ -39,10 +39,18 @@ areas_impacted:
   - LAUSD
   - We work with more than 50 school districts
 project_ids: '6102244'
-title: The Help Group's STEM3 Academy
-uri: /organizations/the-help-groups-stem3-academy/
 challenge_url: >-
   https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
+aggregated:
+  project_ids:
+    - '6102244'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
+  year_submitted:
+    - '2016'
+title: The Help Group's STEM3 Academy
+uri: /organizations/the-help-groups-stem3-academy/
 extrapolated_project_ids:
   - '6102244'
 project_titles_from_extrapolated_project_ids:

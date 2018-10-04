@@ -27,10 +27,18 @@ org_summary: >-
 areas_impacted:
   - Central LA
 project_ids: '6102258'
-title: The Triforium Project
-uri: /organizations/the-triforium-project/
 challenge_url: >-
   https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
+aggregated:
+  project_ids:
+    - '6102258'
+  challenge_url:
+    - >-
+      https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
+  year_submitted:
+    - '2016'
+title: The Triforium Project
+uri: /organizations/the-triforium-project/
 extrapolated_project_ids:
   - '6102258'
 project_titles_from_extrapolated_project_ids:

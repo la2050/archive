@@ -28,9 +28,26 @@ areas_impacted:
     County of Los Angeles (please select only if your project has a countywide
     benefit)
 project_ids: '8102019'
+challenge_url: 'https://activation.la2050.org/connect/children-now/'
+aggregated:
+  project_ids:
+    - '8102019'
+    - '6102034'
+    - '5102052'
+    - '4102248'
+  challenge_url:
+    - 'https://activation.la2050.org/connect/children-now/'
+    - >-
+      https://challenge.la2050.org/entry/lifting-up-las-voice-for-kids-to-live-trauma-free-by-2050
+    - 'http://maker.good.is/myla2050learn2015/projects/PROKIDLA.html'
+    - 'http://maker.good.is/myLA2050connect/projects/ProKidLA.html'
+  year_submitted:
+    - '2018'
+    - '2016'
+    - '2015'
+    - '2014'
 title: Children Now
 uri: /organizations/children-now/
-challenge_url: 'https://activation.la2050.org/connect/children-now/'
 extrapolated_project_ids:
   - '8102019'
   - '6102034'

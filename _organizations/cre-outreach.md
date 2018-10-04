@@ -38,9 +38,16 @@ org_summary: >-
   theatre.
 areas_impacted: ''
 project_ids: '3102095'
+challenge_url: 'http://maker.good.is/myla2050/projects/creoutreach.html'
+aggregated:
+  project_ids:
+    - '3102095'
+  challenge_url:
+    - 'http://maker.good.is/myla2050/projects/creoutreach.html'
+  year_submitted:
+    - '2013'
 title: CRE Outreach
 uri: /organizations/cre-outreach/
-challenge_url: 'http://maker.good.is/myla2050/projects/creoutreach.html'
 extrapolated_project_ids:
   - '3102095'
 project_titles_from_extrapolated_project_ids:
