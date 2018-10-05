@@ -1177,7 +1177,7 @@ details summary:focus::-webkit-details-marker {
 }
 
 .goals.without-category .navigation .options form {
-  max-width: 40em;
+  max-width: 30em;
   width: auto;
   position: static;
   padding-bottom: 0;
