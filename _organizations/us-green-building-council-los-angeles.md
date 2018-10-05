@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      USGBC-LA is transforming LA's built environment by supporting
+      sustainability, resiliency, and environmental justice for all.
 title: US Green Building Council-Los Angeles
 uri: /organizations/us-green-building-council-los-angeles/
 extrapolated_project_ids: []

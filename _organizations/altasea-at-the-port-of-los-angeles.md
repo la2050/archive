@@ -36,6 +36,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/altasea-where-stem-meets-the-ocean'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      AltaSea accelerates scientific collaboration, facilitates job creation and
+      inspires the next generation for a more sustainable ocean.
 title: AltaSea at the Port of Los Angeles
 uri: /organizations/altasea-at-the-port-of-los-angeles/
 extrapolated_project_ids:

@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LAAF.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LA Art Fest supports artists of all kinds from the diverse communities in
+      the Los Angeles area.
 title: Julie Rico DBA as O Fine Art
 uri: /organizations/julie-rico-dba-as-o-fine-art/
 extrapolated_project_ids: []

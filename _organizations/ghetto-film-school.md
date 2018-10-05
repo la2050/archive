@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/GFSLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Ghetto Film School educates, develops, and celebrates the next
+      generation of great American storytellers.
 title: Ghetto Film School
 uri: /organizations/ghetto-film-school/
 extrapolated_project_ids:

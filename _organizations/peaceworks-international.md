@@ -32,6 +32,8 @@ aggregated:
     - 'https://challenge.la2050.org/entry/i-am-la-one-minute-can-change-the-world'
   year_submitted:
     - '2016'
+  org_summary:
+    - 'Impacting future generations through art, education, and culture.'
 title: Peaceworks International
 uri: /organizations/peaceworks-international/
 extrapolated_project_ids:

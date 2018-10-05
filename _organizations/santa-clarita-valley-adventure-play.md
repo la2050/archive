@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/scv-adventure-play-eureka-villa-self-directed-play-spaces-and-playwork-initiative-for-all!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      SCV Adventure Play organizes permanent and temporary play spaces that
+      promote risk benefits, self direction, and child equality through the
+      communal support of permissive child led activities.
 title: Santa Clarita Valley Adventure Play
 uri: /organizations/santa-clarita-valley-adventure-play/
 extrapolated_project_ids:

@@ -37,6 +37,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/putting-the-human-back-into-business'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We run personal, professional, and organizational development programs
+      that emphasize human-centric solutions, paying special attention to brain,
+      behaviors, and systems.
 title: The integrated Learning Annex
 uri: /organizations/the-integrated-learning-annex/
 extrapolated_project_ids:

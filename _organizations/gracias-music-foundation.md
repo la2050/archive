@@ -42,6 +42,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/gracias-music-foundation/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Cultivating and empowering generations of musicians that give back to the
+      community. We Believe Having A Dream And Never Giving Up Will Eventually
+      Create Tomorrow's Music
 title: Gracias Music Foundation
 uri: /organizations/gracias-music-foundation/
 extrapolated_project_ids:

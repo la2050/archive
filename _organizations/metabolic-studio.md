@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Metabolic Studio transforms nutrients into energy, actions, and
+      objects that nurture life.
 title: Metabolic Studio
 uri: /organizations/metabolic-studio/
 extrapolated_project_ids: []

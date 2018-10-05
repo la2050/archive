@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/twigg-how-to/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      TWIGG How-To [aka The Winging It Girls’ Guide] is an award-winning
+      platform seeking to create a damsel-free world through how-to articles,
+      workshops, and video guides in ten practical categories.
 title: TWIGG How-To
 uri: /organizations/twigg-how-to/
 extrapolated_project_ids: []

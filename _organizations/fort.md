@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/FORT.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      FORT is a scalable community workshop that organizes artists and community
+      members to repurpose reclaimed materials into functional goods.
 title: FORT
 uri: /organizations/fort/
 extrapolated_project_ids:

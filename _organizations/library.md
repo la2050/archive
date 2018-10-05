@@ -32,6 +32,11 @@ aggregated:
       https://challenge.la2050.org/entry/sync-thinkers-doers-research-to-hyperdrive-local-solutions-innovation
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      #Library is a platform that effectively sorts voices, information and
+      content for relevance, quality and priority using the power of the crowd
+      and machine learning.
 title: '#Library'
 uri: /organizations/library/
 extrapolated_project_ids:

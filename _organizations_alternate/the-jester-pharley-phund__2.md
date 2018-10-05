@@ -34,6 +34,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      We donate inspiring “Jester Has Lost His Jingle” books & dolls to ill
+      children & help low-income students become engaged in charitable
+      activities through read-a-thons that spark a love of reading.
+    - >-
+      Boosts literacy and compassion among low-income elementary students while
+      helping support the emotional needs of children with cancer.
 title: The Jester & Pharley Phund
 uri: /organizations/the-jester-pharley-phund/
 extrapolated_project_ids:

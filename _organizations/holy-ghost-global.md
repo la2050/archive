@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/itsaboutgood.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Holy Ghost Global is a church without walls that celebrates diversity,
+      healing, and empowerment through service, praise, and prayer.
 title: Holy Ghost Global
 uri: /organizations/holy-ghost-global/
 extrapolated_project_ids:

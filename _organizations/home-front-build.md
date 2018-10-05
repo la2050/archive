@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Home Front Build is a design/build firm that specializes in green and
+      historic construction.
 title: Home Front Build
 uri: /organizations/home-front-build/
 extrapolated_project_ids: []

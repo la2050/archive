@@ -46,6 +46,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Our mission is to transform society's response to sexual assault, domestic
+      violence, and child abuse, support survivors' healing, and end this
+      violence forever.
+    - >-
+      The mission of the Joyful Heart Foundation is to heal, educate and empower
+      survivors of sexual assault, domestic violence and child abuse, and to
+      shed light into the darkness that surrounds these issues.
 title: Joyful Heart Foundation
 uri: /organizations/joyful-heart-foundation/
 extrapolated_project_ids:

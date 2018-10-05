@@ -48,6 +48,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  org_summary:
+    - >-
+      Center for Council trains individuals and communities to lead Council
+      circles that facilitate dialogue, deepen compassion and understanding, and
+      support social and restorative justice.
+    - >-
+      Center for Council delivers council-based programs that foster collective
+      wisdom, greater resilience and a deeper sense of community.
 title: 'Center for Council, a project of Community Partners'
 uri: /organizations/center-for-council-a-project-of-community-partners/
 extrapolated_project_ids: []

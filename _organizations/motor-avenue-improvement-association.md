@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/MotorAvenueFood.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Motor Avenue Improvement Association and the Farmers Market and Urban
+      Garden Network is dedicated to cultivating a sustainable food system
+      through its community-based operation and educational programs.
 title: Motor Avenue Improvement Association
 uri: /organizations/motor-avenue-improvement-association/
 extrapolated_project_ids:

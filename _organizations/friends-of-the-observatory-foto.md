@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      FOTO is responsible for ensuring excellence in informal science education
+      programs at Griffith Observatory.
 title: Friends Of The Observatory (FOTO)
 uri: /organizations/friends-of-the-observatory-foto/
 extrapolated_project_ids:

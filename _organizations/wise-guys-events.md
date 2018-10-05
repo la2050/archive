@@ -29,6 +29,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/watts-ball.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Wise Guys Events is the premiere source for real life games in Southern
+      California and beyond.
 title: Wise Guys Events
 uri: /organizations/wise-guys-events/
 extrapolated_project_ids:

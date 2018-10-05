@@ -34,6 +34,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      C5LA inspires high-potential youth from under-resourced environments in LA
+      County to pursue personal success, prepare them for leadership roles in
+      college, work and community, and to motivate them to become role models
+      for others.
+    - >-
+      C5LA inspires high potential youth from at-risk environments to pursue
+      personal success, prepare for college, and become community leaders.
 title: C5 Youth Foundation of Southern California (“C5LA”)
 uri: /organizations/c5-youth-foundation-of-southern-california-c5la/
 extrapolated_project_ids:

@@ -66,6 +66,79 @@ aggregated:
   year_submitted:
     - '2013'
     - '2013'
+  org_summary:
+    - >-
+      <p>As a leader in the civic engagement space, CitySourced has received
+      numerous awards. Below are just a few:</p>
+       
+       
+       
+       
+       
+        <p> 2009 TechCrunch50 Conference: 3rd Place (of 700 entries)</p>
+       
+       
+        <p>2009 OnDC Winner</p>
+       
+       
+        <p>2010 San Francisco Magazine's "Best Urban-Action App"</p>
+       
+       
+        <p>2011 e.Republic Center for Digital Government's "Best of the Web"</p> 
+       
+       
+        <p> 2011 GovFresh's "Best Civic Startup" and "App of the Year"</p>
+       
+       
+        <p> 2012 e.Republic Center for Digital Government's "Best of California award for Best Application Serving the Public"</p>
+       
+       
+        <p>2012 California Helen Putnam Award for Excellence</p>
+       
+       
+        <p>2013 IBM's Beacon Award Finalist for Smarter Cities</p>
+       
+       
+       
+       
+       
+       <p>We also have some great reference customers. CitySourced is the official civic engagement platform for cities such as San Jose, San Diego, Honolulu, Omaha and the LAUSD. Our solution directly benefits over 13.2 million citizens worldwide, and we're deployed in six countries spread out across the globe.</p>
+    - >-
+      <p>As a leader in the civic engagement space, CitySourced has received
+      numerous awards. Below are just a few:</p>
+       
+       
+       
+       
+       
+        <p> 2009 TechCrunch50 Conference: 3rd Place (of 700 entries)</p>
+       
+       
+        <p>2009 OnDC Winner</p>
+       
+       
+        <p>2010 San Francisco Magazine's "Best Urban-Action App"</p>
+       
+       
+        <p>2011 e.Republic Center for Digital Government's "Best of the Web"</p> 
+       
+       
+        <p> 2011 GovFresh's "Best Civic Startup" and "App of the Year"</p>
+       
+       
+        <p> 2012 e.Republic Center for Digital Government's "Best of California award for Best Application Serving the Public"</p>
+       
+       
+        <p>2012 California Helen Putnam Award for Excellence</p>
+       
+       
+        <p>2013 IBM's Beacon Award Finalist for Smarter Cities</p>
+       
+       
+       
+       
+       
+       <p>We also have some great reference customers. CitySourced is the official civic engagement platform for cities such as San Jose, San Diego, Honolulu, Omaha and the LAUSD. Our solution directly benefits over 13.2 million citizens worldwide, and we're deployed in six countries spread out across the globe.</p>
 title: 'CitySourced, Inc.'
 uri: /organizations/citysourced-inc/
 extrapolated_project_ids:

@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/skills-development-creative-expression-and-team-building-through-classic-car-restoration
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Lost Angels Children's Project LACP provides low-income and at-risk youth
+      with a safe, educational after-school mentorship program that promotes
+      critical thinking and teaches vocational skills.
 title: Lost Angels Children's Project
 uri: /organizations/lost-angels-childrens-project/
 extrapolated_project_ids:

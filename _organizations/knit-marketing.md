@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/providing-quality-job-access-to-untapped-teens-and-young-adults
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Knit Marketing creates and curates social media content for businesses
+      looking to reach young people by training and employing teens and young
+      adults from untapped communities in Los Angeles.
 title: Knit Marketing
 uri: /organizations/knit-marketing/
 extrapolated_project_ids:

@@ -43,6 +43,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      We convert apartment building lawns into organic urban farms; creating
+      community, a sustainable food source and beautifying the neighborhood.
+    - >-
+      Create an edible oasis for apartment building residents to foster healthy,
+      organic eating; build community; increase property values for building
+      owners and provide a sense of place and peace for the surrounding
+      community.
 title: The Edible Apartment
 uri: /organizations/the-edible-apartment/
 extrapolated_project_ids:

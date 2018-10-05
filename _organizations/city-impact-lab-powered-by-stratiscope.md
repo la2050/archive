@@ -43,6 +43,11 @@ aggregated:
       https://activation.la2050.org/connect/city-impact-lab-powered-by-stratiscope/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Powered by Stratiscope, the City Impact Lab empowers individuals,
+      businesses, & organizations to make an impact in their community. CIL
+      serves as a hub for change-makers to connect and collaborate.
 title: 'City Impact Lab, powered by Stratiscope'
 uri: /organizations/city-impact-lab-powered-by-stratiscope/
 extrapolated_project_ids: []

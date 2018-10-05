@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The UCLA Grand Challenges initiative brings together faculty, students and
+      partners to solve critical issues.
 title: UCLA Grand Challenges
 uri: /organizations/ucla-grand-challenges/
 extrapolated_project_ids: []

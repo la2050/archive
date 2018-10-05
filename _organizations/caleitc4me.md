@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/live/caleitc4me/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      CalEITC4Me is a statewide program, run by Golden State Opportunity, to
+      create economic security for California’s working families by connecting
+      them with the EITC on the state and federal levels.
 title: CalEITC4Me
 uri: /organizations/caleitc4me/
 extrapolated_project_ids:

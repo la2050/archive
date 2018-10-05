@@ -34,6 +34,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/seniorstarpower.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The mission of Senior Star Power is to engage, inspire, and enrich the
+      health and wellness of the aging population through the arts.
 title: Senior Star Power Productions
 uri: /organizations/senior-star-power-productions/
 extrapolated_project_ids:

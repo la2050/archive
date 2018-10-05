@@ -35,6 +35,10 @@ aggregated:
     - 'https://activation.la2050.org/create/hacker-fund/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Hacker Fund empowers technologists to create social change through
+      educational resources, capacity-building services, and fiscal sponsorship.
 title: Hacker Fund
 uri: /organizations/hacker-fund/
 extrapolated_project_ids:

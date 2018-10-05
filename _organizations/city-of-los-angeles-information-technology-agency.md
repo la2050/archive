@@ -35,6 +35,11 @@ aggregated:
       https://activation.la2050.org/learn/city-of-los-angeles-information-technology-agency/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The City’s IT Agency works with City agencies and departments to develop
+      world-class IT infrastructure and applications that provide our citizens,
+      businesses, and visitors with the digital services.
 title: City of Los Angeles Information Technology Agency
 uri: /organizations/city-of-los-angeles-information-technology-agency/
 extrapolated_project_ids: []

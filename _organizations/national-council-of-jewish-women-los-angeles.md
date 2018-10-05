@@ -45,6 +45,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-talk-project-–-teens-leading-workshops-on-sexual-violence-culture-change
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The National Council of Jewish Women|Los Angeles is a grassroots social
+      justice organization committed to the welfare and well-being of the entire
+      Los Angeles community.
 title: National Council of Jewish Women | Los Angeles
 uri: /organizations/national-council-of-jewish-women-los-angeles/
 extrapolated_project_ids:

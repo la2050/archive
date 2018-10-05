@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/AmbassadorBird.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Bill Weber Studios creates marketing communications, promotions, products
+      and media for non-profit organizations that work to improve the lives of
+      children and families worldwide.
 title: Bill Weber Studios
 uri: /organizations/bill-weber-studios/
 extrapolated_project_ids:

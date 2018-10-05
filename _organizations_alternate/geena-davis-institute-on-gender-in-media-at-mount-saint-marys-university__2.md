@@ -36,6 +36,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2016'
+  org_summary:
+    - >-
+      The Geena Davis Institute on Gender in Media is the only research-based
+      organization working from within the entertainment industry to improve
+      gender balance in media and empower women and girls.
+    - >-
+      The Geena Davis Institute on Gender in Media is the only research-based
+      organization working from within the entertainment industry to improve
+      gender balance in media and empower women and girls.
 title: Geena Davis Institute on Gender in Media at Mount Saint Mary’s University
 uri: >-
   /organizations/geena-davis-institute-on-gender-in-media-at-mount-saint-marys-university/

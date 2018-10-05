@@ -28,6 +28,8 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - We start up students!
 title: Incubator School
 uri: /organizations/incubator-school/
 extrapolated_project_ids:

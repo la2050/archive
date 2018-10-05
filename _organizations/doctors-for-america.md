@@ -47,6 +47,11 @@ aggregated:
       https://challenge.la2050.org/entry/food-as-health-care-a-project-to-engage-doctors-in-providing-reliable-access-to-healthy-food
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      DFA mobilizes doctors and medical students to be leaders in local
+      communities on the pressing issues of the day to improve the health of our
+      patients, communities, and nation.
 title: Doctors for America
 uri: /organizations/doctors-for-america/
 extrapolated_project_ids:

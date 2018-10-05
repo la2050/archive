@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      DA pioneered the integration of water resources & architecture in
+      sustainable design, mapping, wetland restoration & watershed education.
 title: Duvivier Architects (DA)
 uri: /organizations/duvivier-architects-da/
 extrapolated_project_ids: []

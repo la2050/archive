@@ -39,6 +39,19 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/QualityOfLifeCenter.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      We currently have a 100% success rate in graduates from our Bright Futures
+      Scholars Leadership Development program. They have ALL graduated from high
+      school and moved on to college. Many of these students come from group
+      home or foster home environments. Many of these same students are also the
+      first ones to attend college from their families.
+       
+       
+       
+       
+       
+       One of our other programs is a second chance program that allows juvenile first offenders an opportunity to turn their lives around. These Juveniles, referred into the program from the Juvenile Justice System are given an opportunity to redeem themselves, build self-esteem, and develop character while learning to make positive life choices. Many have taken that opportunity that they were given and done just that. Most of them have gone on to college and are living a life "on the straight and narrow".
 title: 'Quality of Life Center, Inc.'
 uri: /organizations/quality-of-life-center-inc/
 extrapolated_project_ids:

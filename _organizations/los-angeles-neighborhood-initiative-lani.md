@@ -41,6 +41,11 @@ aggregated:
       https://challenge.la2050.org/entry/fixing-the-cracks-neighborhood-sidewalk-repair-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Los Angeles Neighborhood Initiative (LANI) is a nonprofit organization
+      dedicated to rebuilding neighborhoods one block at a time through public
+      improvement projects, planning and community engagement.
 title: Los Angeles Neighborhood Initiative (LANI)
 uri: /organizations/los-angeles-neighborhood-initiative-lani/
 extrapolated_project_ids:

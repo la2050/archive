@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/play/los-angeles-dodgers-foundation/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      LADF works to significantly impact underserved youth in economically
+      challenged areas of Los Angeles through pillars of Sports+Recreation,
+      Education+Literacy, and Health+Wellness.
 title: Los Angeles Dodgers Foundation
 uri: /organizations/los-angeles-dodgers-foundation/
 extrapolated_project_ids: []

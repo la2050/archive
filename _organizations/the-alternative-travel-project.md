@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/altravelproject.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Alternative Travel Project (ATP) is a non-profit organization that
+      motivates individuals in LA to GOcarFREE by using alternative travel
+      methods (pedestrian, public, bicycle & gas-free new tech) for social,
+      health and environmental benefits.
 title: the Alternative Travel Project
 uri: /organizations/the-alternative-travel-project/
 extrapolated_project_ids:

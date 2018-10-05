@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/cleantech-2-edtech-la-schools-save-energy-as-students-and-startups-implement-cleantech-innovations
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Resnick Sustainability Institute at Caltech supports research in
+      sustainability, and runs FLoW: a program to help young innovators start
+      cleantech companies and learn how to become entrepreneurs.
 title: California Institute of Technology
 uri: /organizations/california-institute-of-technology/
 extrapolated_project_ids:

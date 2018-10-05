@@ -39,6 +39,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/united-parents-and-students/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      United Parents and Students provides training in the formal skills of
+      community organizing and promotes authentic civic engagement and informed
+      activism in historically underrepresented communities.
 title: United Parents and Students
 uri: /organizations/united-parents-and-students/
 extrapolated_project_ids:

@@ -28,6 +28,8 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - We cater intimate events using fresh ingredients and simple recipes.
 title: Brown Paper LA
 uri: /organizations/brown-paper-la/
 extrapolated_project_ids: []

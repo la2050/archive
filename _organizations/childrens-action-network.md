@@ -41,6 +41,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      FosterMore highlights the amazing potential of youth in the foster care
+      system and encourages all of us to play a part in ensuring that they
+      receive the support and guidance they need to thrive.
+    - >-
+      FosterMore highlights the amazing potential of youth in the foster care
+      system and encourages all of us to play a part in ensuring that they
+      receive the support and guidance they need to thrive.
 title: Children's Action Network
 uri: /organizations/childrens-action-network/
 extrapolated_project_ids:

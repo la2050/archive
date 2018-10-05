@@ -46,6 +46,11 @@ aggregated:
       https://challenge.la2050.org/entry/to-lift-all-boats-the-amazing-untold-story-of-l-a-s-economic-opportunity-change-makers
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Capital & Main is an award-winning online publication that reports from
+      California on the most pressing economic, environmental and social issues
+      of our time.
 title: Capital & Main
 uri: /organizations/capital-main/
 extrapolated_project_ids:

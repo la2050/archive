@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/Techfortheclass.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Redeemer Elementary would like to introduce technology in all classrooms
+      to enhance student learning.
 title: Redeemer Baptist Elementary School
 uri: /organizations/redeemer-baptist-elementary-school/
 extrapolated_project_ids:

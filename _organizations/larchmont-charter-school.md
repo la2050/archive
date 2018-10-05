@@ -38,6 +38,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/larchmont-charter-school/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Larchmont Social Justice Alliance gives kids a platform to speak up
+      for social justice and learn about the spoken word, activism, connections,
+      youth politics, literature, history, and policy.
 title: Larchmont Charter School
 uri: /organizations/larchmont-charter-school/
 extrapolated_project_ids: []

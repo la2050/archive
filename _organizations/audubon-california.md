@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/wildlaparks.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Audubon inspires people to experience, understand and care for the local
+      natural world.
 title: Audubon California
 uri: /organizations/audubon-california/
 extrapolated_project_ids:

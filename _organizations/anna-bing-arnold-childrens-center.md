@@ -36,6 +36,10 @@ aggregated:
       https://challenge.la2050.org/entry/connecting-children-to-art-in-nature-provide-a-meaningful-holistic-link-between-art-and-nature
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Provide high quality child development services and programing for the
+      California State University, Los Angeles and the surrounding community.
 title: Anna Bing Arnold Children's Center
 uri: /organizations/anna-bing-arnold-childrens-center/
 extrapolated_project_ids:

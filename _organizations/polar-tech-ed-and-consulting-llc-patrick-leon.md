@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LifeInBalance.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We design and develop mobile health solutions to provide underserved
+      populations better health outcomes.
 title: Polar Tech Ed and Consulting LLC/Patrick Leon
 uri: /organizations/polar-tech-ed-and-consulting-llc-patrick-leon/
 extrapolated_project_ids:

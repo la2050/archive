@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LIVEWELLPICOUNION.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Clinica Romero is a community health center that provides primary care and
+      disease prevention services to underserved and underinsured individuals in
+      Los Angeles.
 title: Clinica Msr. Oscar A. Romero
 uri: /organizations/clinica-msr-oscar-a-romero/
 extrapolated_project_ids:

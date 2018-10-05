@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/rootdownla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      RootDown LA confronts health-related issues in South LA, by first
+      convincing high school students to eat their veggies, then training them
+      to cook, grow, promote, and distribute their produce in our Youth-driven
+      Neighborhood Food System sites.
 title: 'RootDown LA, A project of Community Partners'
 uri: /organizations/rootdown-la-a-project-of-community-partners/
 extrapolated_project_ids:

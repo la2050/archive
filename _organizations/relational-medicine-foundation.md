@@ -45,6 +45,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      The Foundation empowers patients and improves the humanism of patient care
+      through its dedication to the “relationally present” person-to-person
+      encounter between patient and healthcare professionals
+    - >-
+      The Foundation empowers patients and improves the humanism of patient care
+      through its dedication to the “relationally present” person-to-person
+      encounter between patient and healthcare professionals and its
+      dissemination of research results.
 title: Relational Medicine Foundation
 uri: /organizations/relational-medicine-foundation/
 extrapolated_project_ids:

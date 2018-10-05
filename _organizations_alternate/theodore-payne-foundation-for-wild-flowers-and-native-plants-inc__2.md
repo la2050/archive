@@ -37,6 +37,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      We rewild Los Angeles by bringing native plants back into the city,
+      creating habitat that supports local ecosystems, and helping people fall
+      in love with our shared natural heritage.
+    - >-
+      Since 1960, the Theodore Payne Foundation has been LA's native plant
+      authority, promoting the understanding and use of California native plants
+      through its educational programs, retail nursery, outreach, seed program,
+      and demonstration gardens.
 title: 'Theodore Payne Foundation for Wild Flowers and Native Plants, Inc.'
 uri: >-
   /organizations/theodore-payne-foundation-for-wild-flowers-and-native-plants-inc/

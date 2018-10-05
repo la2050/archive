@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/mindset-reset-shifting-school-culture-coaching-educators-in-mindful-instruction-and-practice
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      An instructional coaching service for educators in the Greater LA area
+      providing support to those striving to create a successful school culture
+      and desiring to grow in instructional effectiveness.
 title: Pedagogics Coaching Group
 uri: /organizations/pedagogics-coaching-group/
 extrapolated_project_ids:

@@ -31,6 +31,8 @@ aggregated:
     - 'https://challenge.la2050.org/entry/la-easy-access'
   year_submitted:
     - '2016'
+  org_summary:
+    - Open data-driven analysis of public transport accessibility in space-time
 title: Habidatum
 uri: /organizations/habidatum/
 extrapolated_project_ids:

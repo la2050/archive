@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/ShareLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Our mission is to educate, promote and create greater access to the
+      practices and benefits of Time Banking, co-production and the Sharing Ec
 title: Arroyo S.E.C.O. (Sustainable Economies Community Organization)
 uri: /organizations/arroyo-s-e-c-o-sustainable-economies-community-organization/
 extrapolated_project_ids:

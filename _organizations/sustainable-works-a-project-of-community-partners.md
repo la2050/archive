@@ -33,6 +33,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/sustainableworks.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Since 1998, Sustainable Works has educated over 4,000 residents and
+      instructed over 5,500 community college students on issues of
+      sustainability. We have also advised over 400 businesses so they now
+      operate more sustainably. Specifically, they conserve water and energy,
+      produce less waste, use less toxic chemicals and purchase greener
+      products.
 title: Sustainable Works a Project of Community Partners
 uri: /organizations/sustainable-works-a-project-of-community-partners/
 extrapolated_project_ids:

@@ -46,6 +46,24 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Communitybuilding.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - |-
+      Concert at Carnegie Hall: February 2013
+       
+       
+       Partnership with the Los Angeles Film Festival: June 2012
+       
+       
+       Youth Orchestra Day: In February of 2010
+       
+       
+       Partnership with the UCLA Herb Alpert School of Music: In 2008.
+       
+       
+       Los Angeles Philharmonic Youth Orchestra Partner: In 2007-2008
+       
+       
+       Partnership with the Los Angeles Chamber Orchestra: In 2003-2007
 title: Los Angeles Youth Orchestra
 uri: /organizations/los-angeles-youth-orchestra/
 extrapolated_project_ids:

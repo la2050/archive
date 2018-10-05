@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LACP.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Los Angeles Center of Photography is a community for new and seasoned
+      photographers to come for artistic growth, discussion and
+      inspiration--with classes, certificates and a one-year professional
+      program, as well as outreach to underserved youth.
 title: Los Angeles Center of Photography
 uri: /organizations/los-angeles-center-of-photography/
 extrapolated_project_ids:

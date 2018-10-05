@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/NEIGHBORHOODLITSCAPE.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Ave 50 Studio is an arts organization that seeks to bridge communities by
+      using content-driven art to stimulate intercultural understanding.
 title: Avenue 50 Studio
 uri: /organizations/avenue-50-studio/
 extrapolated_project_ids:

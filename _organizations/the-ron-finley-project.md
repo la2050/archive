@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-ron-finley-project-presents-da-function-a-community-fun-fest
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Ron Finley Project is a nonprofit dedicated to shifting culture and
+      changing urban landscapes by bringing gardens, art and new life to
+      inner-city neighborhoods.
 title: The Ron Finley Project
 uri: /organizations/the-ron-finley-project/
 extrapolated_project_ids:

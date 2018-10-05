@@ -70,6 +70,50 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      Droplabs is an open source focused, community led, Innovation Laboratory
+      and teaching space.
+    - >-
+      <p>Droplabs succesfully provided a community-based education center to the
+      community with all services being at no or low cost. Our prime
+      acheievements have been:</p>
+       
+       
+       
+       
+       
+       
+       
+       
+       <p>* Barn-raisings: We have hosted barn-raisings where 15 âˆ’ 20 community members get together to provide a day of web development for a non-profit or community member. See http://droplabs.net/news/barn-raising-and-code-sprint-at-droplabs-uniting-the-drupal-and-time-banking-communities</p>
+       
+       
+       
+       
+       
+       
+       
+       
+       <p>* Low-cost co-working space: We offer fulltime access to our space at $150 / month, a quarter of the price of competing spaces. This is one contribution to creating a diverse socioeconomic tech community.</p>
+       
+       
+       
+       
+       
+       
+       
+       
+       <p>* Consensus-based organizing: We operate by allowing all full members to have a voice in the direction and organization of Droplabs.</p>
+       
+       
+       
+       
+       
+       
+       
+       
+       <p>* Community-access education: All our classes are low or no cost and have ranged from a focus on web and technology to classes about cooking and Korean culture.</p>
 title: Droplabs
 uri: /organizations/droplabs/
 extrapolated_project_ids:

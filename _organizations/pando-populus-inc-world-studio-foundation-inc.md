@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/PANDOHUBS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Pando Populus is a platform to provide the connectivity to bring together
+      like-minded people and orgs who are working toward an ecological
+      civilization, with the intention of creating a whole that is stronger and
+      more effective than the sum of parts.
 title: 'Pando Populus, Inc.; World Studio Foundation, Inc.'
 uri: /organizations/pando-populus-inc-world-studio-foundation-inc/
 extrapolated_project_ids:

@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/Earthdayeveryday.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Through education and participation we envision and create community
+      driven solutions to the problems around us with trainings and jobs.
 title: Community Services Unlimited inc.
 uri: /organizations/community-services-unlimited-inc/
 extrapolated_project_ids:

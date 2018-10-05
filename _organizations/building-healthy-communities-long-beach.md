@@ -34,6 +34,11 @@ aggregated:
       https://challenge.la2050.org/entry/peoples-planning-school-park-equity-project
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      BHCLB aims to reduce health disparities and improve community health
+      through systemic changes fueled by resident engagement, resource sharing,
+      partnerships, and strategic communications.
 title: 'Building Healthy Communities: Long Beach'
 uri: /organizations/building-healthy-communities-long-beach/
 extrapolated_project_ids:

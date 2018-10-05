@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LAVA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We are a printmaking studio and communal arts lab, with a focus on hand
+      processes and the reusing and repurposing of existing materials.
 title: Nomadlosangeles
 uri: /organizations/nomadlosangeles/
 extrapolated_project_ids:

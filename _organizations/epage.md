@@ -36,6 +36,10 @@ aggregated:
       https://challenge.la2050.org/entry/gaggle-uses-a-fun-wearable-beacon-and-mobile-app-to-create-a-revolutionary-new-child-safety-service
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      EPage is a mobile app development company that has created and released
+      over 300 apps for schools, businesses, professionals, and public gardens.
 title: EPage
 uri: /organizations/epage/
 extrapolated_project_ids:

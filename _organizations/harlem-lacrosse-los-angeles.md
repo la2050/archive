@@ -38,6 +38,11 @@ aggregated:
     - 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      HL-LA empowers students who are most at risk for academic decline and
+      dropout to rise above their challenges, and dream about tomorrow while
+      working hard on the field and in the classroom today.
 title: Harlem Lacrosse - Los Angeles
 uri: /organizations/harlem-lacrosse-los-angeles/
 extrapolated_project_ids: []

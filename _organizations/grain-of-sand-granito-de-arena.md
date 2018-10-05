@@ -46,6 +46,24 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CleanBeachesandOcean.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - |-
+      Teach surfing camps â€“ surfing competitions
+       
+       
+       Organize Beach Clean ups
+       
+       
+       Be recognized by the community and other non profits as a local pro environmental organization
+       
+       
+       Spearhead educational programs outside the classroom. 
+       
+       
+       Bring awareness to nature and environmental issues.
+       
+       
+       http://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q
 title: Grain of Sand - Granito de Arena
 uri: /organizations/grain-of-sand-granito-de-arena/
 extrapolated_project_ids:

@@ -31,6 +31,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The CDF ends generational poverty in low-income housing throughout Los
+      Angeles County.
 title: Los Angeles County Community Development Foundation
 uri: /organizations/los-angeles-county-community-development-foundation/
 extrapolated_project_ids:

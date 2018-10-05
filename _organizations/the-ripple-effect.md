@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/therippleeffect.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Ripple Effect is a nonprofit that assists youth in their educational
+      and career endeavors despite their cultural, social and/or economic
+      background.
 title: The Ripple Effect
 uri: /organizations/the-ripple-effect/
 extrapolated_project_ids:

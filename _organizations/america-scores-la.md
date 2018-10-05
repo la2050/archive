@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/la-fields-for-dreams-turning-asphalt-to-turf-providing-safe-places-to-play
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      ASLA partners with urban schools to provide a unique team-based program
+      that integrates soccer, poetry, and service-learning, improving students’
+      health, academic achievement and civic engagement.
 title: America Scores LA
 uri: /organizations/america-scores-la/
 extrapolated_project_ids:

@@ -50,6 +50,11 @@ aggregated:
       https://challenge.la2050.org/entry/la-citysense-citizen-engagement-in-collection-of-air-quality-data-for-improvement-of-public-health
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Mobile + Environmental Media Lab explores location-specific mobile
+      storytelling by developing & integrating context-aware interactions &
+      access to backstory about an environment & its citizens.
 title: >-
   University of Southern California, Mobile + Environmental Media Lab in the
   School of Cinematic Arts

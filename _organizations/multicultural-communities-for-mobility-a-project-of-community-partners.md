@@ -37,6 +37,11 @@ aggregated:
       https://activation.la2050.org/connect/multicultural-communities-for-mobility-a-project-of-community-partners/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      MCM seeks improve the quality of life for underserved low-income
+      communities of color by cultivating community leaders to advocate for
+      safer mobility options and to prevent displacement.
 title: 'Multicultural Communities for Mobility, a project of Community Partners'
 uri: >-
   /organizations/multicultural-communities-for-mobility-a-project-of-community-partners/

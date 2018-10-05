@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/ReCiclos.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Re:Ciclos is a cargo bicycle manufacturing project dedicated to bridging
+      the socio-economic, environmental, educational and health gaps in Los
+      Angeles created by excessive use of the motor vehicle as the only form of
+      transportation.
 title: 'Re:Ciclos and Bicycle Kitchen'
 uri: /organizations/re-ciclos-and-bicycle-kitchen/
 extrapolated_project_ids:

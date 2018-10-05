@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/ExchangeWorks.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      ExchangeWorks creates new opportunities for artists and the public through
+      the exchange of art and resources.
 title: ExchangeWorks
 uri: /organizations/exchangeworks/
 extrapolated_project_ids:

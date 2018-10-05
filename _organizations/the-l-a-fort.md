@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/theLAFort.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The L.A. Fort is a membership run arts and music studio and exhibition
+      space focused on collaboration and empowerment through the arts.
 title: The L.A. Fort
 uri: /organizations/the-l-a-fort/
 extrapolated_project_ids:

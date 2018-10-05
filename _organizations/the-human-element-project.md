@@ -34,6 +34,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/Humanelement.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Develops partnerships through education, creative exploration and
+      exhibitions in constituents’ neighborhoods near to Public transportation.
 title: The Human Element Project
 uri: /organizations/the-human-element-project/
 extrapolated_project_ids:

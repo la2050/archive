@@ -49,6 +49,13 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      SeedLA brings together highly skilled young Angelenos and provides
+      pro-bono strategy consulting to local environmental nonprofits.
+    - >-
+      SeedLA brings together highly skilled young Angelenos and provides free
+      strategy consulting to local environmental nonprofits.
 title: SeedLA
 uri: /organizations/seedla/
 extrapolated_project_ids:

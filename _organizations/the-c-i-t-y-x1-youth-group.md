@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/help-open-a-youth-center-for-lgbt-homeless-youth-like-no-other!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We provide free and empowering activities for Homeless LGBT Youth in a
+      safe place that helps link them to transitional living, educational
+      programs, and emotional support.
 title: The C.I.T.Y. x1 Youth Group
 uri: /organizations/the-c-i-t-y-x1-youth-group/
 extrapolated_project_ids:

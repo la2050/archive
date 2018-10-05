@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Trust for Public Land creates parks and protects land for people,
+      ensuring healthy, livable communities for generations to come.
 title: The Trust for Public Land
 uri: /organizations/the-trust-for-public-land/
 extrapolated_project_ids: []

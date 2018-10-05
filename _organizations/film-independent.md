@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/film-independent/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Film Independent is dedicated to helping filmmakers get their films made,
+      building the audience for independent film and increasing diversity in the
+      film industry.
 title: Film Independent
 uri: /organizations/film-independent/
 extrapolated_project_ids:

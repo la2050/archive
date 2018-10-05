@@ -33,6 +33,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Clothes The Deal provides pre-employment services to low-income
+      individuals.
+    - >-
+      Clothes The Deal empowers individuals to achieve economic self-sufficiency
+      by collaborating with employment programs and providing resources
 title: Clothes The Deal
 uri: /organizations/clothes-the-deal/
 extrapolated_project_ids:

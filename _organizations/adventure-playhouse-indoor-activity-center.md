@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/adventureplayhouse.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Adventure Playhouse creates a safe and clean environment for families to
+      play together as there are activities for all ages ranging from infants to
+      adults with the options of birthday party celebrations and martial arts
+      classes.
 title: Adventure Playhouse Indoor Activity Center
 uri: /organizations/adventure-playhouse-indoor-activity-center/
 extrapolated_project_ids:

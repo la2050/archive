@@ -33,6 +33,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2015'
+  org_summary:
+    - >-
+      Inspire & educate girls and women to solve problems in their community
+      using technology.
+    - >-
+      Inspire & educate girls and women to solve problems in their community
+      using technology.
 title: Iridescent
 uri: /organizations/iridescent/
 extrapolated_project_ids:

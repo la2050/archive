@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/MassKnowtify.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We provide a location-based alerting platform connecting citizens
+      everywhere with relevant and timely information from local governments
 title: MassKnowtify
 uri: /organizations/massknowtify/
 extrapolated_project_ids:

@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/SBC.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      South Bay Contemporary (SBC) bridges art, science and humanities through
+      exhibitions and experimental projects serving the South Bay and engages
+      the community in reflection of the meaning and relevance of contemporary
+      art through educational programs
 title: 'South Bay Contemporary, CRAFTED'
 uri: /organizations/south-bay-contemporary-crafted/
 extrapolated_project_ids:

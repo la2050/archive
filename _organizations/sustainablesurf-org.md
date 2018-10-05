@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/ecoboardsLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Continue to be the catalyst that transforms global surf culture into a
+      powerful force for protecting the ocean environment, through science,
+      innovation, campaigns and programs making sustainable solutions
+      accessible, easy and desirable.
 title: Sustainablesurf.org
 uri: /organizations/sustainablesurf-org/
 extrapolated_project_ids:

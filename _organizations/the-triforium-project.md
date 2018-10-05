@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/restoring-and-reimagining-the-worlds-first-polyphonoptic-sculpture-in-downtown-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are a coaltion of people dedicated to reimagining The Triforium,
+      transforming it from a forgotten piece of public art to a dynamic,
+      interactive, creative site for Angelenos of all ages.
 title: The Triforium Project
 uri: /organizations/the-triforium-project/
 extrapolated_project_ids:

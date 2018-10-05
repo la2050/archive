@@ -54,6 +54,35 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      FLTS is a non-profit organization dedicated to improving blighted, urban
+      neighborhoods by building community-designed greenspaces in the greater
+      Los Angeles area one vacant space at a time.
+    - >-
+      From Lot to Spot (FLTS) is a 501c3 non-profit organization dedicated to
+      improving blighted, urban neighborhoods in the greater Los Angeles a
+    - >-
+      From Lot to Spot (FLTS) is a 501c3 non-profit founded in 2007 as a direct
+      result of the relationship between lack of accessible greenspace and the
+      quality of life in low-income neighborhoods. FLTSâ€™s unique approach
+      involves grass-root, community engagement to ensure disadvantaged
+      communities contribute their voice in developing healthy spaces in their
+      neighborhoods. In the last five years, FLTS has worked on healthy living
+      community engagement projects in the cities of Inglewood, Gardena,
+      Lawndale, Hawthorne and Lynwood. 2012 was a landmark year for From Lot to
+      Spot. FLTS constructed and opened the first ever community garden in the
+      community of Lennox, CA. , opened the 118th/Doty Ave Pocket Park: the
+      first community-designed pocket park in the City of Hawthorne. In
+      collaboration with SWA, we planned, funded and constructed a 9000 sq.ft.
+      recreation space along the Dominguez Creek that was designed and
+      implemented by high school students and community members.
+       
+       
+       
+       
+       
+       SWA projects span over 60 countries and have garnered over 700 awards. In 2005, SWA received the Landscape Architecture Firm Award, as designated by the American Society of Landscape Architects. One of the seven SWA offices is located in Downtown LA and is continually excited about the opportunity to enhance the city we live in.
 title: From Lot to Spot
 uri: /organizations/from-lot-to-spot/
 extrapolated_project_ids:

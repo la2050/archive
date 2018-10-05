@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      GENE is an interactive enterprise system that promotes the use of digital
+      communication/collaboration within & between classrooms
 title: Global Education Network Exchange (GENE)
 uri: /organizations/global-education-network-exchange-gene/
 extrapolated_project_ids:

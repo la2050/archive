@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/basurero.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Community engagement initiative that enlists city residents as advocates
+      holding LA Sanitation's feet to the fire so that illegally dumped objects
+      get picked up within a reasonable time frame.
 title: El Basurero
 uri: /organizations/el-basurero/
 extrapolated_project_ids:

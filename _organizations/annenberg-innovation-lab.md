@@ -33,6 +33,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/sankofa-city'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The AIL is a high-energy research lab that combines theory and practice to
+      understand the ongoing evolution of media and its impact on governments,
+      businesses, education, creators and consumers.
 title: Annenberg Innovation Lab
 uri: /organizations/annenberg-innovation-lab/
 extrapolated_project_ids:

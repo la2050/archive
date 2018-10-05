@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/hollywoodfringe.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Hollywood Fringe Festival (HFF) is an annual, open-access,
+      community-derived event celebrating freedom of expression and
+      collaboration in the performing arts community.
 title: Hatchery Arts dba Hollywood Fringe Festival
 uri: /organizations/hatchery-arts-dba-hollywood-fringe-festival/
 extrapolated_project_ids:

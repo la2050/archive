@@ -36,6 +36,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Girls Inc. takes a holistic approach to working with girls to address the
+      challenges they have and empower them through opportunities, programs and
+      mentors.
+    - >-
+      Girls Inc. delivers innovative, research-based programs to address the
+      strengths & needs of girls to face life's challenges. Through project
+      based learning & gamification, WhizGirls empowers & trains girls with
+      digital language and entrepreneurship.
 title: 'Girls Inc. of Greater Los Angeles, WhizGirls'
 uri: /organizations/girls-inc-of-greater-los-angeles-whizgirls/
 extrapolated_project_ids:

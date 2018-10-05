@@ -37,6 +37,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2015'
+  org_summary:
+    - >-
+      The Mountains Recreation and Conservation Authority (MRCA) is dedicated to
+      the creation of parkland for public access, recreation, habitat
+      preservation and development of trails.
+    - >-
+      The Mountains Recreation and Conservation Authority (MRCA) is dedicated to
+      the creation of parkland for public access, recreation, habitat
+      preservation and development of trails.
 title: Mountains Recreation and Conservation Authority
 uri: /organizations/mountains-recreation-and-conservation-authority/
 extrapolated_project_ids:

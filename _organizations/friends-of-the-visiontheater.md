@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LPVStudios.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We are committed to making a renovated Vision Theater the driving
+      principle in shaping local development around a shared cultural legacy.
 title: Friends of the VisionTheater
 uri: /organizations/friends-of-the-visiontheater/
 extrapolated_project_ids:

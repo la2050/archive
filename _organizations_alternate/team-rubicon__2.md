@@ -39,6 +39,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      Team Rubicon delivers unparalleled disaster relief and recovery while
+      providing our veteran volunteers a new purpose, identity, and community
+      through continued service.
+    - >-
+      Team Rubicon unites the skill and experiences of military veterans with
+      first responders to rapidly deploy emergency response teams.
 title: Team Rubicon
 uri: /organizations/team-rubicon/
 extrapolated_project_ids:

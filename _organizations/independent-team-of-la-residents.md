@@ -28,6 +28,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/mybucketlistLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We design community solutions using human-centered design through IDEO.org
+      and Acumen.
 title: Independent Team of LA Residents
 uri: /organizations/independent-team-of-la-residents/
 extrapolated_project_ids:

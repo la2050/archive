@@ -35,6 +35,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/lava-mae/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Lava Mae takes mobile hygiene + other critical services to the streets,
+      where people moving through homelessness need them most.
 title: Lava Mae
 uri: /organizations/lava-mae/
 extrapolated_project_ids:

@@ -649,6 +649,18 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     data.project_image = "http://maker.good.is/images/placeholder/idea.png"
   }
 
+  // SHIM: For Downtown Women's Center: https://beta-my.la2050.org/organizations/downtown-womens-center/
+  function isEmptyOrgSummary(org_summary) {
+    return (org_summary == "" || org_summary.toLowerCase() == "#n/a" || org_summary.toLowerCase() == "n/a")
+  }
+  if (isEmptyOrgSummary(data.org_summary)) {
+    data.aggregated.org_summary.forEach(org_summary => {
+      if (!isEmptyOrgSummary(org_summary)) {
+        data.org_summary = fixDataCharactersInString(org_summary)
+      }
+    })
+  }
+
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
 `---
@@ -710,7 +722,7 @@ function generateAllCollections(file_name) {
   // Create a list of project_id and challenge_url,
   // while generating organizations and collapsing multiple records based on organization_id
 
-  const propertiesToAggregate = ["project_ids", "challenge_url", "year_submitted"]
+  const propertiesToAggregate = ["project_ids", "challenge_url", "year_submitted", "org_summary"]
 
   let recordsByOrganizationID = {}
   records.forEach(record => {

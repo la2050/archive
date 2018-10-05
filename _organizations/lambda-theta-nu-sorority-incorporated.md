@@ -40,6 +40,18 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FEM.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      As a non-profit organization we cater to the female youth through our
+      programming. Through our philanthropy "TIJERAS," cutting through to
+      enhance education opportunities, we fundraise hundreds of dollars every
+      year to donate to another non-profit organization which carries out this
+      purpose on a grander scale. We also serve our community through our Annual
+      Latina Youth Leadership Conferences that are targeted to middle and high
+      school students. We offer these students workshops about A-G Requirements,
+      resume building, networking, mental health, and student panels among many
+      others. Overall our organization encourages students to pursue a higher
+      education and we offer them the tools and support to do so.
 title: 'Lambda Theta Nu Sorority, Incorporated'
 uri: /organizations/lambda-theta-nu-sorority-incorporated/
 extrapolated_project_ids:

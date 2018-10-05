@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/Young_Ethnographers.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Promise Zone Partnership is building healthy neighborhoods by
+      connecting our efforts and resources to empower families.
 title: >-
   Los Angeles Promise Zone Initiative, LA Mayor's Office of Economic Development
   c/o Mayor's Fund for Los Angeles

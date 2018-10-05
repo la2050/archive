@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/LAB.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We plan on expanding both in size and capabilities to serve a larger
+      number of people with a wider variety of interests.
 title: 'Los Angeles Biohackers, Inc'
 uri: /organizations/los-angeles-biohackers-inc/
 extrapolated_project_ids:

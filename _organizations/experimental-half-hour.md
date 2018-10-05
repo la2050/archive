@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LAmedialab.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We are a multimedia arts organization that collaborates with artists to
+      document, showcase, produce, and broadcast a half-hour TV show.
 title: Experimental Half-Hour
 uri: /organizations/experimental-half-hour/
 extrapolated_project_ids:

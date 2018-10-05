@@ -34,6 +34,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/blueprintearth.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Blueprint Earth’s mission is to preserve Earth's environments through
+      scientific research and education.
 title: Blueprint Earth
 uri: /organizations/blueprint-earth/
 extrapolated_project_ids:

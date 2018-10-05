@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/Lapdyouthconference.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Southwest Area Police Youth Board is comprised of Board-elected
+      community youth, and elected youth and adult advisers, with the goal of
+      increasing youth involvement in community safety and quality of life
+      issues in Southwest Area.
 title: LAPD Southwest Business Booster Association Inc.
 uri: /organizations/lapd-southwest-business-booster-association-inc/
 extrapolated_project_ids:

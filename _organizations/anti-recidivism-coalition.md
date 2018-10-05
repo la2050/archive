@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/reduceLArecidivism.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      To accomplish its mission of changing lives and creating safe, healthy
+      communities, ARC provides services, support, and opportunities to
+      currently and formerly incarcerated individuals, and advocates for fair
+      justice system policies.
 title: Anti-Recidivism Coalition
 uri: /organizations/anti-recidivism-coalition/
 extrapolated_project_ids:

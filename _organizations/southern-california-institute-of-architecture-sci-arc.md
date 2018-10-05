@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      SCI-Arc is an independent, accredited school of architecture in Downtown
+      LA’s Arts District, offering undergraduate and graduate programs.
 title: Southern California Institute of Architecture (SCI-Arc)
 uri: /organizations/southern-california-institute-of-architecture-sci-arc/
 extrapolated_project_ids: []

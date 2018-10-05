@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/goldenheart.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Golden Heart Ranch provides vocational training, life skills classes and
+      opportunities for social interaction for our special needs community. GHR
+      will have a residential component that will give young adults with special
+      needs a life long home.
 title: Golden Heart Ranch
 uri: /organizations/golden-heart-ranch/
 extrapolated_project_ids:

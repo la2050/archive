@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Streetsblog Los Angeles is an award-winning, non-profit news website
+      focusing on transportation, land-use, open space and public health.
 title: >-
   Streetsblog Los Angeles, Los Angeles Walks, Place It!, LongBeachize, Santa
   Monica Next

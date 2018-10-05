@@ -40,6 +40,19 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/neighbor.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Founded by UCLA students in 1982, Outfest is the leading organization that
+      promotes equality by creating, sharing, and protecting LGBT (Lesbian, Gay,
+      Bisexual and Transgender) stories on the screen. Outfest builds community
+      by connecting diverse populations to discover, discuss, and celebrate
+      stories of LGBT lives. Over the past three decades, Outfest has showcased
+      thousands of films from around the world to audiences of nearly a million,
+      educated and mentored hundreds of emerging filmmakers, and protected more
+      than 20,000 LGBT films and videos. In addition, Outfest produces one of
+      the largest film festivals in Southern California, the only LGBT people of
+      color film festival, three filmmaking programs using mentors, and we have
+      over 400 volunteers who participate in our programs.
 title: Outfest
 uri: /organizations/outfest/
 extrapolated_project_ids:

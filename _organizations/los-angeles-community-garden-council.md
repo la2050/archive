@@ -31,6 +31,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We @LAgardens can help 150 low-income families in LA grow healthy food in
+      their neighborhood in the next year!
 title: Los Angeles Community Garden Council
 uri: /organizations/los-angeles-community-garden-council/
 extrapolated_project_ids: []

@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-period-pack-project-monthly-feminine-hygiene-packs-for-2-000-homeless-women-for-10-months
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Tampon Tribe enables access to organic, toxic- free and plastic-free
+      feminine hygiene to all women. We believe that all women should be able to
+      chose what they put in their bodies and the environment.
 title: Tampon Tribe
 uri: /organizations/tampon-tribe/
 extrapolated_project_ids:

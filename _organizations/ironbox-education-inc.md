@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/powerovernumbers.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Ironbox Education helps students build math fluency and confidence by
+      providing a proven system that includes classroom materials and teacher
+      professional development, thereby giving students Power Over Numbers and
+      Power Over Learning.
 title: 'Ironbox Education, Inc.'
 uri: /organizations/ironbox-education-inc/
 extrapolated_project_ids:

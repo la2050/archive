@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/camino-to-college-paving-the-way-to-and-through-college-for-urban-youth
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Camino Nuevo Charter Academy (CNCA) is a community of high-performing
+      public schools that utilizes a comprehensive approach to prepare students
+      from PreK through high school for success in college.
 title: Camino Nuevo Charter Academy
 uri: /organizations/camino-nuevo-charter-academy/
 extrapolated_project_ids:

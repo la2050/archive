@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/PlaytheLARiver.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Led by Project 51, Play the LA River is a movement to re-imagine the LA
+      River as a grand civic space linking communities along its 51 miles.
 title: Play the LA River
 uri: /organizations/play-the-la-river/
 extrapolated_project_ids:

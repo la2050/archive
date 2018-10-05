@@ -31,6 +31,11 @@ aggregated:
     - 'https://activation.la2050.org/live/city-fabrick/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      City Fabrick is a nonprofit design studio dedicated to enhancing
+      communities through collaborative public interest design, planning and
+      policy development.
 title: City Fabrick
 uri: /organizations/city-fabrick/
 extrapolated_project_ids: []

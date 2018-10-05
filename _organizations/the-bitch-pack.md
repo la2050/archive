@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/WOCMakeFilms.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We encourage diversity in entertainment so we can change sad statistics
+      for Women of Color in film.
 title: The Bitch Pack
 uri: /organizations/the-bitch-pack/
 extrapolated_project_ids:

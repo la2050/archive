@@ -30,6 +30,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/CollegeEssay.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Leveling the admissions playing field via an online series of interactive
+      tools that guides individual users through a customized path to write
+      great college essays, get strong recommendations, etc.
 title: ApplicantLab
 uri: /organizations/applicantlab/
 extrapolated_project_ids:

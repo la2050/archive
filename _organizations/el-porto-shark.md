@@ -37,6 +37,10 @@ aggregated:
       https://challenge.la2050.org/entry/save-sharks-fisheries-and-keep-l-a-weather-nice!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Aggregate shark sighting data to make smarter fisheries, researchers,
+      environmentalists, and policymakers by forecasting future populations.
 title: El Porto Shark
 uri: /organizations/el-porto-shark/
 extrapolated_project_ids:

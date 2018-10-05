@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/happycityla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      HappyCity is committed to helping communities reach their goal of Vision
+      80 -- to lead us toward health, rather than sickness -- while enabling us
+      to build and strengthen the bonds between friends, families and strangers
+      that give life meaning.
 title: HappyCity Los Angeles
 uri: /organizations/happycity-los-angeles/
 extrapolated_project_ids:

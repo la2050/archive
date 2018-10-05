@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-engineer-factory-producing-engineers-in-south-los-angeles-one-student-at-a-time!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Engineer Factory “plants seeds to grow STEM” in students in
+      underserved communities through project-based learning in community &
+      afterschool programs, engineer competitions, and TA for educators.
 title: 'The Engineer Factory, a project of Community Partners'
 uri: /organizations/the-engineer-factory-a-project-of-community-partners/
 extrapolated_project_ids:

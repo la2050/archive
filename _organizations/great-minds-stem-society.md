@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/GreatMindsSTEM.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We influence underrepresented minority students and women in grades K-12,
+      to have an active interest in pursuing a STEM field by providing them with
+      hands-on research experience.
 title: Great Minds STEM Society
 uri: /organizations/great-minds-stem-society/
 extrapolated_project_ids:

@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/FlightOfTheAngels.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Psychic Bunny is a multidisciplinary creative company – we make films,
+      animations, games, and interactive transmedia experiences.
 title: Psychic Bunny
 uri: /organizations/psychic-bunny/
 extrapolated_project_ids:

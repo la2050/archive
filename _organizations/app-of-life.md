@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/AppofLife.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      App of Life transforms lives and communities - V1.0 is live on the app
+      store at https://itunes.apple.com/us/app/app-of-life/id853379352?mt=8
 title: App of Life
 uri: /organizations/app-of-life/
 extrapolated_project_ids:

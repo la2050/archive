@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/GrowGood.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      GrowGood leverages the power of urban farming to unite people, to create
+      hope for underserved groups, and to lay foundations for healthy
+      communities, beginning with the city of Bell — a “food desert” according
+      to the U.S. Department of Agriculture.
 title: 'GrowGood, Inc.'
 uri: /organizations/growgood-inc/
 extrapolated_project_ids:

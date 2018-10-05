@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/kitchen-table-app/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Kitchen Table App is a community building platform that brings people
+      together to meet new people, make new friends, and create community over a
+      shared love of good food and great company.
 title: Kitchen Table App
 uri: /organizations/kitchen-table-app/
 extrapolated_project_ids:

@@ -34,6 +34,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/GrassGreener.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      With 35 years of tradition of thorough environmental research and services
+      to municipalities, NGOs, community organizations and other agencies,
+      California Polytechnic University, Pomona's Master in Landscape
+      Architecture's program has the history and the rigor for delving into
+      projects with complex interactions and intersections of natural and human
+      systems. The school has a host of 606 projects on their website for more
+      information.
 title: 'Cal Poly Pomona Foundation, Inc.'
 uri: /organizations/cal-poly-pomona-foundation-inc/
 extrapolated_project_ids:

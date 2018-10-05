@@ -33,6 +33,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/save-a-life'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      HHCLA is a non-profit, community-based organization charged with the
+      mission of providing innovative strategies for reducing the impact of
+      homelessness in the communities of LA County.
 title: Homeless Health Care Los Angeles
 uri: /organizations/homeless-health-care-los-angeles/
 extrapolated_project_ids:

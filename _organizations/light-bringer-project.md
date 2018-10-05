@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Light Bringer Project builds communities through the power of the arts and
+      education
 title: Light Bringer Project
 uri: /organizations/light-bringer-project/
 extrapolated_project_ids:

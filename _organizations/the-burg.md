@@ -32,6 +32,11 @@ aggregated:
       https://challenge.la2050.org/entry/local-civic-engagement-is-hard-lets-make-it-easier
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Our organization's mission is to improve local political and community
+      based involvement by creating a user-friendly online platform that lowers
+      the barriers to civic engagement.
 title: The Burg
 uri: /organizations/the-burg/
 extrapolated_project_ids:

@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/Yes4artsinLAschools.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Yes4arts provides free classes in sewing, crocheting, and knitting to
+      schools and communities especially where art education is not offered in
+      the curriculum.
 title: Yes4arts
 uri: /organizations/yes4arts/
 extrapolated_project_ids:

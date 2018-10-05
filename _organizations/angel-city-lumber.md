@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/angelcitylumber.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Angel City Lumber intercepts felled city trees designated as “green waste”
+      before they can be destroyed - mills and dries them into usable dimensions
+      - and offers them to artists, crafts people and builders at an affordable
+      price point.
 title: Angel City Lumber
 uri: /organizations/angel-city-lumber/
 extrapolated_project_ids:

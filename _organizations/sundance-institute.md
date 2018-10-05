@@ -44,6 +44,10 @@ aggregated:
       https://challenge.la2050.org/entry/next-fest-a-weekend-of-indie-film-music-bringing-angelenos-together-in-the-heart-of-downtown-la
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Sundance Institute is a nonprofit organization dedicated to the discovery
+      and development of independent artists and audiences.
 title: Sundance Institute
 uri: /organizations/sundance-institute/
 extrapolated_project_ids:

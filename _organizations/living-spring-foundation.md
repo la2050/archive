@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/free-showers-for-the-homeless-in-downtown-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Living Spring Foundation promotes health and wellness by bringing hope to
+      the less-privileged of the society through health education and
+      distribution of aids to put smiles on their faces.
 title: Living Spring Foundation
 uri: /organizations/living-spring-foundation/
 extrapolated_project_ids:

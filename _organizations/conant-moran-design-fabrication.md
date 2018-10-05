@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ConantMoranBen.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Conant-Moran is a Design-Build metal fabrication and General Contracting
+      business.
 title: Conant Moran Design & Fabrication
 uri: /organizations/conant-moran-design-fabrication/
 extrapolated_project_ids:

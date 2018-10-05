@@ -36,6 +36,60 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      Prototypes helps women overcome the disease of addiction while also
+      addressing co-occurring mental illness and trauma with comprehensive
+      approaches that involve the entire family to end the intergenerational
+      cycle of addiction, abuse and poverty.
+    - >-
+      Prototypes is a lifeline to women who are struggling with addiction and
+      other serious issues such as domestic violence and mental illness.
+    - >-
+      <p>When Prototypes first opened its Pomona Womenâ€™s Center in 1988, it
+      was the first residential treatment center of its kind to allow women to
+      keep their children with them while they recovered. Since then, Prototypes
+      has rapidly grown to be one of the leading behavioral health care
+      providers of comprehensive treatment for vulnerable families with
+      co-occurring disorders. Prototypes is also one of the largest social
+      service organizations in the United States serving high-risk women and
+      their children. Highlights of Prototypesâ€™ past achievements include:</p>
+       
+       
+       
+       
+       
+       <p>â€¢In 1989, Prototypes became one of the first agencies in the United States to offer AIDS prevention and outreach programs specifically targeted to women at risk. </p>
+       
+       
+       
+       
+       
+       <p>â€¢Prototypes opened STAR House in 1999 as a transitional domestic violence shelter for women and their children that provides comprehensive treatment at a confidential location. </p>
+       
+       
+       
+       
+       
+       <p>â€¢Through an innovative partnership with the LA County Criminal Courts, Probation, District Attorney, Public Defender and California Department of Corrections and Rehabilitation, Prototypes begins providing services for the Womenâ€™s Second Chance Re-Entry Court program in 2007. </p>
+       
+       
+       
+       
+       
+       <p>â€¢In 2011, Prototypes began accepting most PPO and HMO insurance plans and developed affordable payment options for those who do not qualify for Prototypesâ€™ government-funded programs. This allowed us to serve even more individuals while also preparing for healthcare reform.</p> 
+       
+       
+       
+       
+       
+       <p>â€¢When Assembly Bill 109 became effective on October 1, 2011, Prototypes was notified that its Community Prisoner Mother Program would close. Through legislative action and advocacy, Prototypes was able to keep the program open after its scheduled close date on June 30, 2012. Today, Prototypes operates the only program in the State of California that allows mother to serve their sentence in residential treatment instead of prison. </p> 
+       
+       
+       
+       
+       
+       <p>â€¢Given its history and success, Prototypes has led other social service organizations in strategic advocacy efforts. In October 2012, Prototypes conveyed its First Annual Think Tank, bringing together experts in the field of treatment for women and children. With rapid changes in health care, it is imperative that organizations have a unified voice that helps shape further legislative action. The discussion and understanding that arose from the Think Tank is currently being developed as a white paper to disseminate throughout the State. </p>
 title: Prototypes
 uri: /organizations/prototypes/
 extrapolated_project_ids:

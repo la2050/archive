@@ -55,6 +55,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  org_summary:
+    - >-
+      MAKE IT IN LA is a community of diverse creators who turn their passions
+      into products in L.A.; our content, connections and programming help
+      entrepreneurs create products and brands that matter.
+    - >-
+      Make it in LA connects and celebrates the entrepreneurial ecosystem for
+      making things in LA.
 title: MAKE IT IN LA
 uri: /organizations/make-it-in-la/
 extrapolated_project_ids:

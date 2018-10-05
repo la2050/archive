@@ -49,6 +49,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      Get Lit fuses classic and spoken word poetry to increase teen literacy and
+      cultivate enthusiastic learners emboldened to inspire social consciousness
+      in diverse communities.
+    - >-
+      Get Lit – Words Ignite fuses classic and spoken word poetry to increase
+      teen literacy and cultivate enthusiastic learners emboldened to inspire
+      social consciousness in diverse communities.
 title: Get Lit-Words Ignite
 uri: /organizations/get-lit-words-ignite/
 extrapolated_project_ids:

@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/community-uniting-for-resolution-and-empowerment-cure
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      CRCD engages in comprehensive community development through community
+      beautification, workforce development, education, affordable housing,
+      support services, and economic development.
 title: Coalition for Responsible Community Development
 uri: /organizations/coalition-for-responsible-community-development/
 extrapolated_project_ids:

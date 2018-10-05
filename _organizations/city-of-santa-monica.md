@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/wellbeingproject.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The City of Santa Monica works to protect, support & promote a safe,
+      vibrant community for Santa Monica residents,visitors & businesses.
 title: City of Santa Monica
 uri: /organizations/city-of-santa-monica/
 extrapolated_project_ids:

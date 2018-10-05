@@ -27,6 +27,8 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - We feed the hungry.
 title: Interfaith Food Center
 uri: /organizations/interfaith-food-center/
 extrapolated_project_ids: []

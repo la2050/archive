@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/stemdustry-in-motion-the-encorps-stem-teachers-fellowship-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      EnCorps STEM Teachers addresses the conditions severely limiting low
+      income, under-resourced, and minority student opportunities by
+      transitioning outstanding STEM professionals into public education.
 title: 'EnCorps, Inc.'
 uri: /organizations/encorps-inc/
 extrapolated_project_ids:

@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/taking-boxcar-muse-from-pop-up-to-permanent-making-space-for-la-women-to-create-connect-and-learn
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      boxcar+muse is an indulgent and imaginative play and work space, a
+      connector of diverse women, and a platform for fun and meaningful
+      experiences.
 title: boxcar+muse
 uri: /organizations/boxcar-muse/
 extrapolated_project_ids:

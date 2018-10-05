@@ -30,6 +30,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      LACABGC is a coalition of 26 Boys and Girls Club organizations in the
+      county, facilitating advancement and collaborative opportunities
 title: >-
   Los Angeles County Alliance for Boys and Girls Clubs (LACABGC) and the West
   San Gabriel Valley Boys and Girls Club

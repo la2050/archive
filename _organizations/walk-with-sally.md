@@ -36,6 +36,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/walk-with-sally/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Walk With Sally provides hope through our individualized mentoring and
+      community support services to empower children experiencing trauma through
+      a parent, guardian or sibling’s cancer journey.
 title: Walk With Sally
 uri: /organizations/walk-with-sally/
 extrapolated_project_ids:

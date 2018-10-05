@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LACAN.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Los Angeles Community Action Network (LA CAN) engages, educates and
+      organizes low-income and homeless residents to advance a vision for
+      healthy communities in Downtown and South LA, with a special focus on
+      improving health and equity in Skid Row.
 title: Los Angeles Community Action Network
 uri: /organizations/los-angeles-community-action-network/
 extrapolated_project_ids:

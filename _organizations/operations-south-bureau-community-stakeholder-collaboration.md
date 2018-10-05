@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/OSBconnect.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Operations-South Bureau Community Stakeholder Collaboration is a community
+      partnership connecting the community and local city government to make LA
+      the best place to live.
 title: Operations-South Bureau Community Stakeholder Collaboration
 uri: /organizations/operations-south-bureau-community-stakeholder-collaboration/
 extrapolated_project_ids:

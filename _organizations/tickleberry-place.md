@@ -43,6 +43,19 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Tickleberry Place is a mobile, PLAY, EXPLORE and LEARN pop-up for children
+      in South Los Angeles, where kids can have fun while learning about
+      sustainability, healthy habits and eco-conscious living.
+    - >-
+      Tickleberry Place is a new and innovative indoor play gym for kids (infant
+      to 10 years) that focuses on creating a healthy and sustainable
+      environment to play, explore, and learn in the underserved community of
+      South Los Angeles.
+    - >-
+      Tickleberry Place will provide an eco-friendly indoor play gym and
+      community center in South/Central LA.
 title: Tickleberry Place
 uri: /organizations/tickleberry-place/
 extrapolated_project_ids:

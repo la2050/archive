@@ -34,6 +34,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/coro-southern-california/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Coro Southern California uses a sophisticated blend of experiential
+      learning and seminar-based training to give emerging leaders the skills
+      and frameworks they need to lead ethically and effectively.
 title: Coro Southern California
 uri: /organizations/coro-southern-california/
 extrapolated_project_ids:

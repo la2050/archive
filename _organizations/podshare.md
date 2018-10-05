@@ -36,6 +36,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      PodShare has built over 190 affordable housing units across Los Angeles
+      and SPY serves 1,100 homeless youth each year, connecting them to jobs,
+      schools, housing, healthcare, and basic necessities.
+    - >-
+      PodShare builds affordable membership-based live/work communities to share
+      across the city of LA - access to our network of locations to co-live,
+      co-work, & collaborate
 title: Podshare
 uri: /organizations/podshare/
 extrapolated_project_ids:

@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      CARECEN is a non-profit organization working for the economic mobility,
+      civic engagement and social integration of immigrants.
 title: Central American Resource Center - CARECEN - Los Angeles
 uri: /organizations/central-american-resource-center-carecen-los-angeles/
 extrapolated_project_ids:

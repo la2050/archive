@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/losangelesflag.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Los Angeles Flag is a non-profit organization dedicated to uniting our
+      city by establishing a strong civic identity and fostering a sense of
+      civic pride amongst Angelenos throughout the city and around the world.
 title: Los Angeles Flag
 uri: /organizations/los-angeles-flag/
 extrapolated_project_ids:

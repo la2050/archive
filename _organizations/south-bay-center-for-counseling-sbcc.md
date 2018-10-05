@@ -44,6 +44,11 @@ aggregated:
       https://challenge.la2050.org/entry/co-lab-co-llaboration-resident-driven-co-created-social-change
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      By harnessing the power of the existing gifts and talents of the local
+      community, we are changing lives by building stronger communities from the
+      inside out.
 title: South Bay Center for Counseling (SBCC)
 uri: /organizations/south-bay-center-for-counseling-sbcc/
 extrapolated_project_ids:

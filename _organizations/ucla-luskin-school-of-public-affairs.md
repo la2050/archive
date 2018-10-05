@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/FosterConnectLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Social Welfare at UCLA Luskin School of Public Affairs identifies and
+      develops emerging areas of research and teaching and cultivates leaders
+      and change agents who advance solutions to society's most pressing
+      problems
 title: UCLA Luskin School of Public Affairs
 uri: /organizations/ucla-luskin-school-of-public-affairs/
 extrapolated_project_ids:

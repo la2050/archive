@@ -52,6 +52,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  org_summary:
+    - >-
+      Big Brothers Big Sisters of Greater Los Angeles provides professionally
+      supported, one-to-one mentoring for underserved children and youth
+      throughout Los Angeles County.
+    - >-
+      The mission of BBBSLA is to provide children facing adversity with strong
+      and enduring, professionally supported one-to-one relationships that
+      change their lives for the better, forever.
 title: Big Brothers Big Sisters of Greater Los Angeles
 uri: /organizations/big-brothers-big-sisters-of-greater-los-angeles/
 extrapolated_project_ids:

@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/GhostNetCleanups.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We are a group of specially trained volunteer scuba divers that are
+      ridding our world's oceans of abandoned commercial fishing gear, AKA
+      "ghost nets" (I am the coordinator for the United States, based out of Los
+      Angeles).
 title: Los Angeles Underwater Explorers; Ghost Fishing
 uri: /organizations/los-angeles-underwater-explorers-ghost-fishing/
 extrapolated_project_ids:

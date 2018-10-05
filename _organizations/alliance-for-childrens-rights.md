@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/B4UGO.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Since 1992, the Alliance for Children's Rights has protected the rights of
+      L.A. County’s impoverished, neglected, and abused children and foster
+      youth, ages zero to 24. In 2014 we provided free legal and social services
+      to more than 8,000 children.
 title: Alliance for Children's Rights
 uri: /organizations/alliance-for-childrens-rights/
 extrapolated_project_ids:

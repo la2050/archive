@@ -43,6 +43,17 @@ aggregated:
     - '2018'
     - '2015'
     - '2013'
+  org_summary:
+    - >-
+      CicLAvia connects communities and people to each other through joyous,
+      large-scale, car-free open street events that catalyzes personal and
+      collective change, and inspires a shared passion for LA.
+    - >-
+      CicLAvia catalyzes vibrant public spaces, active transportation and good
+      health through car-free streets in Los Angeles County and engages people
+      to positively transform relationships with our diverse communities and
+      with each other.
+    - "<p>On 10/10/10, CicLAvia took place for the first time in Los Angeles and was enjoyed by an astounding number of participants: an estimated 100,000. From 10:00am to 3:00pm, 7.5 miles of roadways were temporarily closed to car traffic and open for recreational purposes. From Boyle Heights to Downtown, MacArthur Park to East Hollywood, families, pedestrians, cyclists, joggers, skateboarders, and rollerbladers rediscovered the roadways and neighborhoods that too often go unnoticed in a car.<p/>\n \n \n \n \n \n  \n \n \n <p>Since the pilot event, CicLAvia has taken place four additional times - each with successively larger audiences and continued widespread community and political support. Approximately 100,000 to 150,000 participants enjoy each CicLAvia event â€“ and hundreds of thousands more learn about it through an impressive marketing/pr and social media campaign.<p/>\n \n \n \n \n \n  \n \n \n <p>On October 9, 2011, the route expanded from 7.5 miles to 10 miles â€“ traveling north to El Pueblo de Los Angeles and south to the African American Firefighterâ€™s Museum. The most recent CicLAvia event took place on October 7, 2012 and extended the route to Chinatown and Exposition Park marking the fifth incarnation in less than two years â€“ an impressive feat in the nationâ€™s â€œcar capitalâ€\x9D.<p/>"
 title: CicLAvia
 uri: /organizations/ciclavia/
 extrapolated_project_ids:

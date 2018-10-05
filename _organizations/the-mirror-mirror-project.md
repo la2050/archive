@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/mirrormirrorproject.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Pairs artists with homeless youth to create portraits of each other
+      allowing both to inspire, empower, and see one another on a human level.
 title: 'The Mirror, Mirror Project'
 uri: /organizations/the-mirror-mirror-project/
 extrapolated_project_ids:

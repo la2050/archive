@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/STARS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Founded in 2005, BReaKiNG iNTo HoLLyooD (BiH) helps creative and business
+      professionals in the entertainment industry pursue their careers by
+      hosting educational networking events and offering unique resources
+      focused on the arts and media.
 title: Breaking into Hollywood
 uri: /organizations/breaking-into-hollywood/
 extrapolated_project_ids:

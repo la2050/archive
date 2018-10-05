@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/safe-support-helping-for-those-affected-by-traumatic-traffic-collisions
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      SAFE is dedicated to improving traffic safety, advocating for victims of
+      traffic, and eliminating traffic fatalities through outreach, policy,
+      community support, and other proven strategies.
 title: SAFE (Streets Are For Everyone)
 uri: /organizations/safe-streets-are-for-everyone/
 extrapolated_project_ids:

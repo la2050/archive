@@ -45,6 +45,11 @@ aggregated:
     - 'https://activation.la2050.org/create/small-business-majority/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Small Business Majority empowers America's entrepreneurs to build an
+      inclusive, equitable, diverse economy by providing education and resources
+      that promote small business growth and sustainability.
 title: Small Business Majority
 uri: /organizations/small-business-majority/
 extrapolated_project_ids: []

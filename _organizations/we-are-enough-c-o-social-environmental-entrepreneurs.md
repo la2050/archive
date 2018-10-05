@@ -38,6 +38,11 @@ aggregated:
       https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      All we do is educate women globally at every socioeconomic level and age
+      on WHY and HOW to invest in women-owned businesses and/or with a “gender
+      lens”.
 title: We Are Enough c/o Social & Environmental Entrepreneurs
 uri: /organizations/we-are-enough-c-o-social-environmental-entrepreneurs/
 extrapolated_project_ids: []

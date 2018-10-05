@@ -36,6 +36,14 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      The Office of the President and the Student Wellness Commission represent
+      the interests and advocate for the UCLA student body, for issues ranging
+      from tuition to healthcare.
+    - >-
+      The Office of the President and the Student Wellness Commission at UCLA
+      advocate on behalf of the UCLA student body.
 title: USAC Office of the President and USAC Student Wellness Commission at UCLA
 uri: >-
   /organizations/usac-office-of-the-president-and-usac-student-wellness-commission-at-ucla/

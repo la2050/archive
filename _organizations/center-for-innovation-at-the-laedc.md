@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/InnovateLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Headquartered at the Los Angeles County Economic Development Corporation,
+      the Center for Innovation showcases and promotes LA County as a leading
+      global center for innovation and entrepreneurship rooted in boundless
+      creativity and diversity.
 title: Center for Innovation at the LAEDC
 uri: /organizations/center-for-innovation-at-the-laedc/
 extrapolated_project_ids:

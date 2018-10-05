@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/SpeakUpMoms.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We remove the barriers to the identification and treatment of postpartum
+      depression and other perinatal mood and anxiety disorders so that new
+      moms, their babies and families can have optimal beginnings.
 title: Maternal Mental Health NOW
 uri: /organizations/maternal-mental-health-now/
 extrapolated_project_ids:

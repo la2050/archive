@@ -29,6 +29,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/pssst-2017-artists-supporting-artists'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      PSSST is an artist-run interdisciplinary nonprofit exhibition and
+      performance space founded on the principle of artists supporting artists.
 title: PSSST
 uri: /organizations/pssst/
 extrapolated_project_ids:

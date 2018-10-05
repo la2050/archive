@@ -36,6 +36,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/tell-your-true-tale-writers-workshop'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are a library system which has the stated mission of helping its
+      patrons connect, create and explore.
 title: County of Los Angeles Public Library
 uri: /organizations/county-of-los-angeles-public-library/
 extrapolated_project_ids:

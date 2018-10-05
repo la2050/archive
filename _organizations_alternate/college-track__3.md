@@ -39,6 +39,32 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      From 9th grade through college graduation, College Track’s 10-year program
+      empowers students from low-income communities to transcend the limits of
+      their circumstance and earn a college degree.
+    - >-
+      i.am College Track empowers students from low-income communities to
+      graduate from college through a comprehensive 10-year program that
+      provides academic, leadership and social support from the summer before
+      9th grade through college graduation.
+    - >-
+      CT empowers underserved students to graduate from college working
+      intensively with them from 9th grade through college graduation.
+    - >-
+      College Track's program and services are linked to a proven model of
+      college preparation and completion. Today, our national strategy stems
+      from sixteen years of outstanding program results: 100% percent of our
+      seniors graduate high school, compared to an average of 50% in the
+      districts we serve, 90% are admitted to a four-year college, compared to
+      roughly 15% of students of the same demographic, 80% of students who
+      complete our high school program have graduated from, or are still
+      attending college. Over time, College Track increases the number of
+      college-bound students of color in each community we serve. College Track
+      students are often the first in their families to attend college, and with
+      this example, their families, neighborhoods, schools, and peers adopt a
+      mindset that a college degree is the expectation, not the exception.
 title: College Track
 uri: /organizations/college-track/
 extrapolated_project_ids:

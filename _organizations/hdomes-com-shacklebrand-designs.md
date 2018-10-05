@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/Dome4aHome.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We build earthquake, fire, tornado, and flood proof homes that are low-
+      cost and highly energy efficient, here in the US and abroad.
 title: 'HDomes.com, Shacklebrand Designs'
 uri: /organizations/hdomes-com-shacklebrand-designs/
 extrapolated_project_ids:

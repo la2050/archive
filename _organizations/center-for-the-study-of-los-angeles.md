@@ -44,6 +44,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/la-votes'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Center for the Study of Los Angeles is a leading undergraduate
+      research center, conducting public opinion surveys, exit polling, and
+      leadership and community studies.
 title: Center for the Study of Los Angeles
 uri: /organizations/center-for-the-study-of-los-angeles/
 extrapolated_project_ids:

@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Through New Media Art Journaling and live shows, we validate, connect and
+      inspire the broken hearted to transform the pain of loss into creative
+      expression.
 title: 'The Love Story Media, Inc.'
 uri: /organizations/the-love-story-media-inc/
 extrapolated_project_ids:

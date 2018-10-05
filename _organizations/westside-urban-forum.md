@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/lets-gather-westside-stakeholders-to-connect-and-establish-common-ground-across-city-limits
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Westside Urban Forum promotes discussion of urban issues on Los
+      Angeles' Westside through a monthly breakfast series, the annual Westside
+      Prize, and other events.
 title: Westside Urban Forum
 uri: /organizations/westside-urban-forum/
 extrapolated_project_ids:

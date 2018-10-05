@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/changebetter.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Change Better trains nonprofits in data, business, and collaboration
+      strategies to turn big ideas into big impact.
 title: Change Better
 uri: /organizations/change-better/
 extrapolated_project_ids:

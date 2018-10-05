@@ -38,6 +38,11 @@ aggregated:
     - 'https://activation.la2050.org/live/süprseed/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      SÜPRMARKT brings affordable organic produce to the people and places that
+      need it most in a weekly pop-up grocery + subscription service which
+      accepts EBT and educates to create a culture of health.
 title: 'SÜPRSEED, Inc.'
 uri: /organizations/süprseed-inc/
 extrapolated_project_ids: []

@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We provide guided academic support, facilitate self-empowerment, and
+      fortify support networks for student-athletes attending Lincoln HS.
 title: 'IN THE CITY, INC.'
 uri: /organizations/in-the-city-inc/
 extrapolated_project_ids:

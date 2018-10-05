@@ -33,6 +33,13 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      SoLA Food Co-op is working to build a full service natural foods grocery
+      store in South Los Angeles, owned by the community.
+    - >-
+      SoLA Food Co-op is working to build a full service natural foods grocery
+      store in South Los Angeles, owned by the community.
 title: SoLA Food Co-op
 uri: /organizations/sola-food-co-op/
 extrapolated_project_ids:

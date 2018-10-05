@@ -38,6 +38,10 @@ aggregated:
       https://challenge.la2050.org/entry/the-inner-city-dance-project-teaching-professional-dance-and-theater-to-las-inner-city-youth
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Zeneith Performing Arts provides excellent training, a dynamic community,
+      and professional development to youth and adults in the performing arts.
 title: Zeneith Performing Arts
 uri: /organizations/zeneith-performing-arts/
 extrapolated_project_ids:

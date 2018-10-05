@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/nation-of-vibrations-l-a-vation-project-bringing-healing-and-connection-to-communities-across-l-a
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Nation of Vibration’s mission is to bring healing, connection, and
+      empowerment to individuals and communities throughout LA and to work
+      together to bring innovative and sustainable changes to our city
 title: Nation of Vibration
 uri: /organizations/nation-of-vibration/
 extrapolated_project_ids:

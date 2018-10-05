@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/URBANAIR.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Urban Air is a global artwork that transforms urban billboards into
+      living, intelligently networked, suspended cloud forests.
 title: URBAN AIR
 uri: /organizations/urban-air/
 extrapolated_project_ids:

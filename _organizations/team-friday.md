@@ -43,6 +43,21 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/artmageddon.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Our brightest achievement was our central mission at the founding of
+      ARTmageddon, to redefine Carmageddon II as ARTmageddon. And it worked! We
+      brought together hundreds of artists and arts organizations including LA's
+      major arts organizations, and even the mayor's office joined in on the
+      action. We were featured in local, national, and international press
+      including USA Today, Newsweek, LA Times, NBC, Huffington Post, and dozens
+      more, including neighborhood and city newspapers and newsletters from most
+      LA District offices. We even noticed on Twitter and Facebook that people
+      outside of Los Angeles (even in China!) were talking about "Less Car. More
+      Art." and expressing their desire to be in LA for ARTmageddon weekend.
+      enjoying ARTmageddon weekend. Hundreds of thousands of people encountered
+      our simple idea, and many of them took the opportunity to walk, bike and
+      metro to art nearby!
 title: Team Friday
 uri: /organizations/team-friday/
 extrapolated_project_ids:

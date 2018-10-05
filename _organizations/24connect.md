@@ -35,6 +35,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/CreativeCapital.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      24Connect is a public affairs and social innovation strategy firm that
+      works to scale impact-driven businesses, organizations, and ideas
 title: 24Connect
 uri: /organizations/24connect/
 extrapolated_project_ids:

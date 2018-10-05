@@ -48,6 +48,10 @@ aggregated:
       https://challenge.la2050.org/entry/website-of-all-las-arts-science-events-schedules
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Brings Mentors together with Newbies to Create Arts & Science spectacles
+      for education and entertainment.
 title: Unified Everything Project
 uri: /organizations/unified-everything-project/
 extrapolated_project_ids:

@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/moment.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We create, teach, present, and produce Indian classical dance, music, and
+      visual arts
 title: Rangoli Foundation for Art & Culture
 uri: /organizations/rangoli-foundation-for-art-culture/
 extrapolated_project_ids:

@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/WithLoveLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      A for-profit social enterprise seeking to provide healthy food access,
+      employment and community classes/ cultural events to Southwest LA
 title: 'With Love Market and Cafe, With Love Community Market and Cafe'
 uri: /organizations/with-love-market-and-cafe-with-love-community-market-and-cafe/
 extrapolated_project_ids:

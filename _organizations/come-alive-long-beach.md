@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/community-collaboration-for-low-cost-creative-summer-art-camps-in-long-beach
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Come Alive Long Beach (CALB) partners with volunteers, artisans and
+      organizations to empower under-resourced youth and children through
+      low-cost creative summer arts camps in the city of Long Beach.
 title: Come Alive Long Beach
 uri: /organizations/come-alive-long-beach/
 extrapolated_project_ids:

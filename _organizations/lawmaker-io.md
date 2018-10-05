@@ -36,6 +36,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/lawmaker-io/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      LawMaker.io gives voters the power to crowdsource new policies that are
+      important to them and build coalitions of support to effectively engaged
+      their elected officials to turn good ideas into laws.
 title: LawMaker.io
 uri: /organizations/lawmaker-io/
 extrapolated_project_ids:

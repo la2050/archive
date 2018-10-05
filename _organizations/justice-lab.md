@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/reconnectla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Justice Lab is making California's criminal justice system more
+      compassionate, efficient, and cost-effective.
 title: Justice Lab
 uri: /organizations/justice-lab/
 extrapolated_project_ids:

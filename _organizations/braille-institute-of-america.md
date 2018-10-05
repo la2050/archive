@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/connection-pointe-–-technology-education-tools-for-blind-teachers-and-students
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Braille Institute is a nonprofit organization whose mission is to
+      eliminate barriers to a fulfilling life caused by blindness and severe
+      sight loss.
 title: Braille Institute of America
 uri: /organizations/braille-institute-of-america/
 extrapolated_project_ids:

@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/ONELIFELOSANGELES.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Melrose World Cinema Center (MWCC) is a non-profit film studio, the major
+      components of MWCC are to seek and cultivate creative talent, supplement
+      film education.
 title: Melrose World Cinema Centers
 uri: /organizations/melrose-world-cinema-centers/
 extrapolated_project_ids:

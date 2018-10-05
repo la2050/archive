@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Baby Buggy provides families in need with essential children's gear and
+      products as incentive to participate in anti-poverty programs.
 title: Baby Buggy
 uri: /organizations/baby-buggy/
 extrapolated_project_ids: []

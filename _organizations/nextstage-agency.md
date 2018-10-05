@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ArtCityLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      NextStage Agency produces programs, events and campaigns that enhance the
+      quality of people’s lives through art, creativity and culture.
 title: NextStage Agency
 uri: /organizations/nextstage-agency/
 extrapolated_project_ids:

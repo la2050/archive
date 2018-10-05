@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/makingforgood.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We foster community economic development through programs like the 2nd
+      Thursday of every month Art Walk Our daily Mission is to improve the local
+      community and to create economic opportunities for artists, galleries,
+      small businesses, and youth
 title: DIY Girls
 uri: /organizations/diy-girls/
 extrapolated_project_ids: []

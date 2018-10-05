@@ -48,6 +48,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      PPLA works to prevent unintended pregnancy, STIs and reproductive system
+      cancers through a comprehensive range of health care services and sexual
+      health education.
+    - >-
+      PPLA works to prevent unintended pregnancy, STIs and reproductive system
+      cancers through a comprehensive range of health services and sexual health
+      education while advocating for laws and policies that support access to
+      quality education and care.
 title: Planned Parenthood Los Angeles (PPLA)
 uri: /organizations/planned-parenthood-los-angeles-ppla/
 extrapolated_project_ids:

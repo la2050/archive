@@ -51,6 +51,34 @@ aggregated:
     - '2015'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      T4T.org inspires the next generation of Scientists, Technology experts,
+      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
+      waste - nurturing environmental stewardship.
+    - >-
+      T4T.org inspires the next generation of Scientists, Technology experts,
+      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
+      waste and in doing this we nurture environmental stewar
+    - >-
+      T4T.org inspires the next generation of Scientists, Technology experts,
+      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
+      waste and in doing this we nurture environmental stewar
+    - >-
+      T4T.org inspires the next generation of Scientists, Technology experts,
+      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
+      waste and in doing this we nurture environmental stewardship.
+    - >-
+      T4T.org inspires the next generation of Scientists, Technology experts,
+      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
+      waste and in doing this we nurture environmental stewardship.
+    - >-
+      T4T.org inspires the next generation of Scientists, Technology experts,
+      Engineers, Artists, and Mathematicians (STEAM) using manufacturers clean
+      waste and in doing this we nurture environmental stewardship.
+    - >-
+      We rescue clean, safe, manufacturers waste and turn it into project based
+      learning opportunities for STEAM Education.
 title: Trash for Teaching
 uri: /organizations/trash-for-teaching/
 extrapolated_project_ids:

@@ -49,6 +49,32 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
+  org_summary:
+    - >-
+      Compiler LA uses informed design, technology, and data to make Los Angeles
+      a better place to live.
+       
+       Utopiad.org is builds environments that connect people, improve density and walkability, and encourage sustainability.
+    - >-
+      <p>Since starting our program at Venice and Hamilton High Schools in 2007,
+      school-wide graduation rates have risen 9.8% and 12.4% respectively, with
+      leadership reporting a stronger college-going culture at both schools.
+      This despite massive budget cuts resulting in the loss of personnel at
+      both schools, including teachers, college counselors, Title 1
+      Coordinators, Pupil Services & Attendance (PSA) counselors and school
+      psychologists. </p>
+       
+       
+       
+       
+       
+       <p>At Hollenbeck Middle School, the API score has risen 80 points in the past four years with CIS on campus, the greatest increase among any of the Partnership for Los Angeles Schools in Boyle Heights, and the only one partnered with CIS. </p>
+       
+       
+       
+       
+       
+       <p>Though we are facing a local and national dropout crisis, CISâ€™s approach of providing integrated student support services directly inside public schools has proven to be a successful intervention. Despite originally exhibiting risk factors, 96% of CIS of Los Angeles seniors graduated in June 2012 compared to the district's 62% graduation rate. 84% of CIS of Los Angeles students met their attendance goals, 81% met their academic achievement goals, and 84% met their behavior improvement goals.</p>
 title: Communities In Schools of Los Angeles
 uri: /organizations/communities-in-schools-of-los-angeles/
 extrapolated_project_ids:

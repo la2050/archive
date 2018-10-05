@@ -34,6 +34,10 @@ aggregated:
     - 'https://activation.la2050.org/play/everwild/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      EverWild is a community that fosters environmental stewards through family
+      adventures, place-based learning, and conservancy projects.
 title: EverWild
 uri: /organizations/everwild/
 extrapolated_project_ids:

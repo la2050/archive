@@ -48,6 +48,13 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      CoachArt creates a transformative arts and athletics community for
+      families impacted by childhood chronic illness.
+    - >-
+      CoachArt creates a transformative arts and athletics community for
+      families impacted by childhood chronic illness.
 title: CoachArt
 uri: /organizations/coachart/
 extrapolated_project_ids:

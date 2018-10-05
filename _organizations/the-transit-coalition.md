@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/Fix_our_traffic.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The organization works to bring rapid transit to L.A. and to educate the
+      public about it.
 title: The Transit Coalition
 uri: /organizations/the-transit-coalition/
 extrapolated_project_ids:

@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/give-los-angeles-charitable-giving-that-unites-and-connects-us-in-the-city-we-love
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      L.A. magazine is the single most powerful media voice in the region,
+      delivering content that encourages Angelenos to act, discover and connect
+      in our city in ways that are most meaningful to them.
 title: Los Angeles Magazine
 uri: /organizations/los-angeles-magazine/
 extrapolated_project_ids:

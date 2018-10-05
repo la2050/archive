@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/LittleDragons.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We are the only not-for-profit organization dedicated to sharing Bruce
+      Lee’s insights with the world by creating opportunities for individuals
+      and applying his message as a personal call to action.
 title: Bruce Lee Foundation
 uri: /organizations/bruce-lee-foundation/
 extrapolated_project_ids:

@@ -35,6 +35,14 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      This organization maps the transitional process of students’ from college
+      to the workforce by considering factors of college preparation,
+      volunteerism, internships, and networking.
+    - >-
+      We close the skills gap by giving people the academic and professional
+      tools needed to graduate from college and succeed in the workforce.
 title: MAPS 4 College
 uri: /organizations/maps-4-college/
 extrapolated_project_ids:

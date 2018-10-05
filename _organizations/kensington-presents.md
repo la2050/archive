@@ -30,6 +30,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/KENSINGTONPRESENTS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Kensington Presents builds community through free, family-friendly
+      concerts and other cultural programming in partnership with the California
+      State Parks.
 title: Kensington Presents
 uri: /organizations/kensington-presents/
 extrapolated_project_ids:

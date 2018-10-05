@@ -35,6 +35,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/arts-connect'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Arts Connect takes successful, well-known relevant people and produces
+      their real-life stories in a digital multimedia curriculum, integrating
+      the arts to enhance pupils learning experiences.
 title: Arts and Living Charitable Foundation
 uri: /organizations/arts-and-living-charitable-foundation/
 extrapolated_project_ids:

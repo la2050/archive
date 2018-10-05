@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/TempestActionParks.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      TMPST Action Parks helps provide creative movement to communities
+      everywhere through play, fitness, and overcoming obstacles.
 title: Tempest Action Parks
 uri: /organizations/tempest-action-parks/
 extrapolated_project_ids:

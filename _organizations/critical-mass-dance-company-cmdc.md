@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/Danceleadership.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Critical Mass Dance Company (CMDC) catalyzes community health, personal
+      growth and social justice in Central Los Angeles through dance.
 title: Critical Mass Dance Company (CMDC)
 uri: /organizations/critical-mass-dance-company-cmdc/
 extrapolated_project_ids:

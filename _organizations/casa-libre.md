@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/CasaLibre.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Casa Libre is a homeless shelter for homeless boys under 18, with one of a
+      kind, specialized services for undocumented, unaccompanied and refugee
+      minors in one of the densest immigrant communities in the nation.
 title: Casa Libre
 uri: /organizations/casa-libre/
 extrapolated_project_ids:

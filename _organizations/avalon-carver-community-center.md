@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/mobile-stem-project-is-a-school-based-initiative-designed-to-eliminate-disparities-in-stem-education
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We aim to promote economic self-sufficiency, strengthen families & build a
+      strong sense of community by providing services for the physical, mental,
+      educational & spiritual needs of South LA residents
 title: Avalon Carver Community Center
 uri: /organizations/avalon-carver-community-center/
 extrapolated_project_ids:

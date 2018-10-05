@@ -34,6 +34,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/we-are-the-mighty/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Los Angeles Veterans Orientation is a fun and friendly way to welcome
+      veterans home to LA.
 title: We Are the Mighty
 uri: /organizations/we-are-the-mighty/
 extrapolated_project_ids: []

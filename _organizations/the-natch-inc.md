@@ -40,6 +40,10 @@ aggregated:
     - 'https://activation.la2050.org/create/the-natch-inc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We run an online marketplace where anybody can locally sell and deliver
+      food they make.
 title: 'The Natch, INC.'
 uri: /organizations/the-natch-inc/
 extrapolated_project_ids: []

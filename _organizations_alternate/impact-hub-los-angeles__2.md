@@ -38,6 +38,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Impact Hub Los Angeles is a community hub and co-working space for
+      socially conscious entrepreneurs, civic leaders, professionals and
+      creatives.
+    - >-
+      Impact Hub Los Angeles is a local incubator/community center part of a
+      global network of 11,000 social entrepreneurs in 82 Impact Hubs spread
+      across five continents.
 title: Impact Hub Los Angeles
 uri: /organizations/impact-hub-los-angeles/
 extrapolated_project_ids:

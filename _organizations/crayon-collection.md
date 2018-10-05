@@ -47,6 +47,10 @@ aggregated:
     - 'https://activation.la2050.org/learn/crayon-collection/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Crayon Collection mission is to inspire a commitment to environmental
+      consciousness and the infusion of art education in underfunded schools.
 title: Crayon Collection
 uri: /organizations/crayon-collection/
 extrapolated_project_ids:

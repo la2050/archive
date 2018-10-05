@@ -38,6 +38,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Driven by the spirit of Los Angeles, KCRW creates and curates a unique mix
+      of content centered around music discovery, NPR news, cultural
+      exploration, and informed public affairs.
+    - >-
+      A service of Santa Monica College and a flagship NPR affiliate, KCRW is a
+      public radio station that features an eclectic mix of news, music, and
+      cultural programming that engages audiences in civic dialogue and advances
+      cultural conversation.
 title: KCRW
 uri: /organizations/kcrw/
 extrapolated_project_ids:

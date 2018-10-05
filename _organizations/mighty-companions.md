@@ -34,6 +34,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/sisterblocks.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Flying under the radar, I have been a sort of underground for progressive
+      thought, where some of the people at the edge have inspired others of us
+      at many salon type events I've held. My blog, called "Making Sense of
+      These Times," reaches thousands. My mission is to influence thought to
+      where we rethink our worldview, and without having names, like projects
+      might, I have fostered a community of thought whose interactions have led
+      to things of note. I'm stepping out more publicly now producing a TEDx
+      event (www.TEDxWestHollywood.com), where the intention is to deliver a
+      body of talks that could activate people who want to change the world.
 title: Mighty Companions
 uri: /organizations/mighty-companions/
 extrapolated_project_ids:

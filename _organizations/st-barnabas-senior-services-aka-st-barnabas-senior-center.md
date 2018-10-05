@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/AGEntsforChange.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      For over 100 years, St. Barnabas Senior Services (SBSS) has been serving
+      aging and economically vulnerable people in the urban center of
 title: St. Barnabas Senior Services aka St. Barnabas Senior Center
 uri: /organizations/st-barnabas-senior-services-aka-st-barnabas-senior-center/
 extrapolated_project_ids:

@@ -37,6 +37,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Shane's Inspiration creates inclusive playgrounds and education programs
+      that unite children of all abilities.
+    - >-
+      Shane's Inspiration unites people of all abilities through the creation of
+      inclusive playgrounds and school-based education programs.
 title: Shane's Inspiration
 uri: /organizations/shanes-inspiration/
 extrapolated_project_ids:

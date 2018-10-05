@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/passthaball.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We offer basketball skills training to youth and help them obtain an
+      athletic college scholarships through our video service.
 title: Pass Tha Ball
 uri: /organizations/pass-tha-ball/
 extrapolated_project_ids:

@@ -36,6 +36,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/GreenCommuter.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      With the goal of helping to alleviate traffic, mitigate air pollution, and
+      reduce commuting costs, Green Commuter will utilize a fleet of electric
+      vehicles to provide a combined service of vanpool, car sharing, and fleet
+      replacement.
 title: Green Commuter
 uri: /organizations/green-commuter/
 extrapolated_project_ids:

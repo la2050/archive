@@ -39,6 +39,11 @@ aggregated:
       https://activation.la2050.org/connect/child360-formerly-los-angeles-universal-preschool/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Child360 advances early learning from every angle through community
+      advocacy, family engagement, program improvement and professional
+      development of early educators.
 title: Child360 (formerly Los Angeles Universal Preschool)
 uri: /organizations/child360-formerly-los-angeles-universal-preschool/
 extrapolated_project_ids:

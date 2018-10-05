@@ -36,6 +36,10 @@ aggregated:
     - 'https://activation.la2050.org/live/black-women-for-wellness/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Black Women for Wellness is a non-profit committed to the empowerment,
+      health, and well-being of Black women and girls.
 title: Black Women for Wellness
 uri: /organizations/black-women-for-wellness/
 extrapolated_project_ids:

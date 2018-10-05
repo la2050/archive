@@ -44,6 +44,18 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Milk+Bookies, and our Leaders+Readers program, is about spreading the love
+      of reading to those who can’t afford books and teaching kids the
+      importance of giving back to others.
+    - >-
+      Milk + Bookies is about spreading the love of reading to those who can’t
+      afford books of their own and teaching kids the importance of giving,
+      instilling in them self-confidence, pride, and a sense of goodwill.
+    - >-
+      M+B inspires children to help others by placing books into the hands of
+      children who need them.
 title: Milk + Bookies
 uri: /organizations/milk-bookies/
 extrapolated_project_ids:

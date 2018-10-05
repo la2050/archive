@@ -38,6 +38,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/la-plays-at-king'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Friends of King is a 501 c3 non-profit dedicated to promoting and
+      supporting the diverse group of students from all over Los Angeles who
+      attend T.S. King Middle School.
 title: Friends of King
 uri: /organizations/friends-of-king/
 extrapolated_project_ids:

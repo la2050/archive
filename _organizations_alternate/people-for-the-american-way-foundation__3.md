@@ -55,6 +55,33 @@ aggregated:
     - '2016'
     - '2015'
     - '2013'
+  org_summary:
+    - >-
+      PFAW Foundation protects constitutional values under attack from the Right
+      and defends the values that honor free speech, religious liberty, equal
+      opportunity and equal justice for all.
+    - >-
+      People For the American Way Foundation protects constitutional values
+      under attack from the Right and defends the values that honor free speech,
+      religious liberty, equal opportunity and equal justice for all.
+    - >-
+      As young leaders across the country prepare to run for office and lead
+      campaigns, FLLA graduates are equipped with the skills they need to be
+      successful and contribute to the progressive movement and to the success
+      of the nation. Since 2006, the Front Line Leaders Academy has graduated
+      over 100 fellows from the program. 
+       
+       
+       
+       
+       
+       We measure success of our long-term programming by the ultimate goal of empowering young people to become even more effective leaders who are making real change in their communities. And Front Line Leaders Academy alumni are leading their communities as non-profit leaders, campaign experts, organizers, and serving in elected positions; 70 percent of FLLA alumni have gone on to work for campaigns (many supporting the campaigns of their peers or working together) and 20 percent have run for elected office. 
+       
+       
+       
+       
+       
+       Some examples of FLLA graduates moving their ideas into action include: Jon Hoadley, Founder of Bandlands Strategies LLC, Campaign Manager of One Kalamazoo, and former Executive Director of the National Stonewall Democrats; Adam Connor, Manager of Public Policy in Facebookâ€™s Washington, DC office; and Karrianna Turner- Marshall (Founder of Twenty â€˜20â€™ Something). Eight FLLA alumni have also been elected to public office, becoming members of the Young Elected Officials Network: Ezra Temko, Delaware City Council; Anders Ibsen, Tacoma City Council; Mike Simmons, Brennemann Elementary School Local School Council in Chicago, IL; Angie Buhl, South Dakota State Senator; Kevin Killer, South Dakota House of Representatives; Mike Makarski, Secaucus, New Jersey School Board Member; LaDawn Blackett-Jones, Georgia State House of Representatives; and Stefanie Mach, Arizona State House of Representatives.
 title: People for the American Way Foundation
 uri: /organizations/people-for-the-american-way-foundation/
 extrapolated_project_ids:

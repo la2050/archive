@@ -35,6 +35,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - |-
+      LA Compost equips and empowers people to create their own green spaces.
+       Kiss the Ground inspires and advocates for the restoration of soil worldwide.
 title: L.A. Compost and Kiss the Ground
 uri: /organizations/l-a-compost-and-kiss-the-ground/
 extrapolated_project_ids:

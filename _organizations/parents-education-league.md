@@ -38,6 +38,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      PEL is a grassroots non-profit and non-political organization whose
+      mission is to help educate families about their school choices, from
+      preschool through 12th grade.
+    - >-
+      PEL provides objective, current, and comprehensive access and
+      opportunities for families to discover the most fitting schools and
+      learning environments for their children—from preschool to grade 12.
 title: Parents Education League
 uri: /organizations/parents-education-league/
 extrapolated_project_ids:

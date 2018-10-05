@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/SNAC.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      WomenShelter of Long Beach seeks to eliminate domestic violence through
+      compassionate intervention, education, and personal empowerment.
 title: WomenShelter of Long Beach
 uri: /organizations/womenshelter-of-long-beach/
 extrapolated_project_ids:

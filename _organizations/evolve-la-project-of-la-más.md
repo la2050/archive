@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/open-house-la-making-los-angeles-more-open-to-more-housing
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LA-Más is a non-profit urban design organization that helps lower-income
+      and underserved communities shape their future through policy and
+      architecture.
 title: Evolve LA (project of LA-Más)
 uri: /organizations/evolve-la-project-of-la-más/
 extrapolated_project_ids:

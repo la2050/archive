@@ -34,6 +34,10 @@ aggregated:
       https://challenge.la2050.org/entry/tap-the-source-using-art-and-atmospheric-water-generation-to-supply-free-water-to-the-community
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Our organization promotes the use of atmospheric water generation in order
+      to benefit drought affected communities
 title: Sky Source
 uri: /organizations/sky-source/
 extrapolated_project_ids:

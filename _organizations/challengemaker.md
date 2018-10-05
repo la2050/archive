@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/ChallengeMaker.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      ChallengeMaker is a platform that allows nonprofits, companies,
+      influencers and regular folks alike to host fundraising campaigns for
+      nonprofits using fun challenges.
 title: ChallengeMaker
 uri: /organizations/challengemaker/
 extrapolated_project_ids:

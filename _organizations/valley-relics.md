@@ -36,6 +36,10 @@ aggregated:
       https://challenge.la2050.org/entry/lit-is-a-community-block-party-with-curated-lights-and-music-featuring-local-sfv-talent
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Valley Relics is a non profit 501(c)3 organization working to preserve and
+      protect the history, culture and artifacts of the San Fernando Valley
 title: Valley Relics
 uri: /organizations/valley-relics/
 extrapolated_project_ids:

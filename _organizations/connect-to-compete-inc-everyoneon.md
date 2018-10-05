@@ -34,6 +34,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/connect-to-compete-inc-everyoneon/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      EveryoneOn is working to create social and economic opportunity by
+      connecting everybody to the internet.
 title: 'Connect to Compete, Inc (EveryoneOn)'
 uri: /organizations/connect-to-compete-inc-everyoneon/
 extrapolated_project_ids: []

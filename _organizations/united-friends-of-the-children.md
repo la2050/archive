@@ -38,6 +38,18 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      UFC empowers foster youth on their journey to self-sufficiency through
+      service-enriched education and housing programs, advocacy, & consistent
+      relationships with a community of people who care.
+    - >-
+      Through Education and Supportive Housing Programs, United Friends of the
+      Children empowers more than 1400 current and foster youth each year on
+      their journey to self-sufficiency.
+    - >-
+      United Friends of the Children empowers current and former foster youth on
+      their journey to self-sufficiency.
 title: United Friends of the Children
 uri: /organizations/united-friends-of-the-children/
 extrapolated_project_ids:

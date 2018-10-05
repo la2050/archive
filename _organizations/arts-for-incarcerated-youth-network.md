@@ -40,6 +40,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      AIYN is a collaborative providing support/coordination for ten
+      community-based arts organizations in order to build resiliency/wellness,
+      eliminate recidivism, and transform the juvenile justice system
+    - >-
+      The Arts for Incarcerated Youth Network (AIYN) is an interdisciplinary
+      collaborative that provides exceptional arts programming in order to build
+      resiliency and wellness, eliminate recidivism, and transform the juvenile
+      justice system.
 title: Arts For Incarcerated Youth Network
 uri: /organizations/arts-for-incarcerated-youth-network/
 extrapolated_project_ids:

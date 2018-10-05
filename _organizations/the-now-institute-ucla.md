@@ -32,6 +32,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/sustainable-la-2050-gis-portal'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Now Institute is an urban research center at UCLA Architecture and
+      Urban Design that applies strategic urban thinking to real world issues.
 title: The NOW Institute/UCLA
 uri: /organizations/the-now-institute-ucla/
 extrapolated_project_ids:

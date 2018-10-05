@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We make a difference in the lives of children utilizing the arts to
+      develop critical thinking, social literacy and cultural understanding
 title: 'Dream A World Education, Inc.'
 uri: /organizations/dream-a-world-education-inc/
 extrapolated_project_ids:

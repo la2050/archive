@@ -42,6 +42,11 @@ aggregated:
       https://challenge.la2050.org/entry/youth-mentoring-and-entrepreneurship-program-for-middle-school-students
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      WeThrive is a youth mentoring program that uses business creation to teach
+      life skills, habit adoption and foster bonds with mentors and peers to
+      ultimately produce social mobility.
 title: WeThrive
 uri: /organizations/wethrive/
 extrapolated_project_ids:

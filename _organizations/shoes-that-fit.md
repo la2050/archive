@@ -43,6 +43,11 @@ aggregated:
     - 'https://activation.la2050.org/live/shoes-that-fit/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Shoes That Fit tackles one of the most visible signs of poverty in America
+      by giving children in need new athletic shoes to attend school with
+      dignity and joy, prepared to learn, play and thrive.
 title: Shoes That Fit
 uri: /organizations/shoes-that-fit/
 extrapolated_project_ids: []

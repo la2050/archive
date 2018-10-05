@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/tianguis.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Elusive Minds Productions is a multimedia production company focused on
+      creating content across various digital platforms
 title: Elusive Minds Productions
 uri: /organizations/elusive-minds-productions/
 extrapolated_project_ids:

@@ -28,6 +28,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/EICGenerationNext.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      EIC was founded by entertainment industry leaders to bring the power and
+      influence of entertainment and media to communication about health and
+      social issues through education, resources and recognition.
 title: 'Entertainment Industries Council, Inc.'
 uri: /organizations/entertainment-industries-council-inc/
 extrapolated_project_ids:

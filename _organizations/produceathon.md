@@ -52,6 +52,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      ProduceAthon uses a HackAthon meets Incentive Challenge approach to
+      catalyze communities in creating compelling content about and technology
+      solutions for pressing social challenges.
+    - >-
+      We create sustainable civic innovation hubs through civic incentive
+      challenges that nurture local talent, foster innovation, enhance
+      government efficiencies, & stimulate economic development
 title: ProduceAthon
 uri: /organizations/produceathon/
 extrapolated_project_ids:

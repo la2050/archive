@@ -35,6 +35,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      SeePolitical demystifies the issues on your ballot as well as the process
+      of how they get there.
+    - >-
+      SeePolitical empowers voters with knowledge by providing accurate
+      information about major public policy issues.
 title: SeePolitical
 uri: /organizations/seepolitical/
 extrapolated_project_ids:

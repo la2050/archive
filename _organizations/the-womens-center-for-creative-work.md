@@ -35,6 +35,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/WCCW.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      WCCW: Providing a network and project platform for female creatives in Los
+      Angeles. Proposing a shared workspace. Together we are powerful!
 title: The Women's Center for Creative Work
 uri: /organizations/the-womens-center-for-creative-work/
 extrapolated_project_ids:

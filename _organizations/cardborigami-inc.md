@@ -39,6 +39,11 @@ aggregated:
     - 'https://activation.la2050.org/live/cardborigami-inc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Cardborigami enhances the capacity of organizations that offer supportive
+      pathways to permanent housing, by using our patented product to provide
+      temporary shelter to those experiencing homelessness.
 title: Cardborigami Inc
 uri: /organizations/cardborigami-inc/
 extrapolated_project_ids: []

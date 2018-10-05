@@ -38,6 +38,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/action-ambassadors-for-la'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Action Ambassadors Program empowers youth to make global change
+      through action in their local communities.
 title: United Nations Association-USA Pasadena Chapter Inc.
 uri: /organizations/united-nations-association-usa-pasadena-chapter-inc/
 extrapolated_project_ids:

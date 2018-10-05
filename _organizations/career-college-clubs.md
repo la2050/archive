@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/careerandcollegeclub.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Career & College Clubs prepares middle students for success in high
+      school, college, and life.
 title: Career & College clubs
 uri: /organizations/career-college-clubs/
 extrapolated_project_ids:

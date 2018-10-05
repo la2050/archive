@@ -41,6 +41,11 @@ aggregated:
       https://challenge.la2050.org/entry/la-river-stories-public-engagement-through-creative-storytelling
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      River LA is a nonprofit organization with a mission to ensure the 51-mile
+      LA River integrates design and infrastructure to bring people, water, and
+      public space together.
 title: River LA (formerly LA River Revitalization Corporation)
 uri: /organizations/river-la-formerly-la-river-revitalization-corporation/
 extrapolated_project_ids:

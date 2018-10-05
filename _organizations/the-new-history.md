@@ -26,6 +26,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/PlayWithMusic.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We leverage music, collaboration & technology to re-imagine how kids learn
+      & play with digital media in the 21st century.
 title: The New History
 uri: /organizations/the-new-history/
 extrapolated_project_ids:

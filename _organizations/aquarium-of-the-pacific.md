@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Our mission is to instill a sense of wonder, respect, and stewardship for
+      the Pacific Ocean, its inhabitants, and ecosystems.
 title: Aquarium of the Pacific
 uri: /organizations/aquarium-of-the-pacific/
 extrapolated_project_ids: []

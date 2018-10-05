@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/seq.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Sequoyah School is an independent progressive day school founded in 1958
+      whose educational mission and program is informed by founding commitments
+      to social justice, research-based innovation, and environmental
+      stewardship.
 title: Sequoyah School
 uri: /organizations/sequoyah-school/
 extrapolated_project_ids:

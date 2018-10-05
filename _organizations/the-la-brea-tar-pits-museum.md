@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/newdigs.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The La Brea Tar Pits Museum and park are where Angelenos discover,
+      interpret and appreciate their shared natural history.
 title: The La Brea Tar Pits Museum
 uri: /organizations/the-la-brea-tar-pits-museum/
 extrapolated_project_ids:

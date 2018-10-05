@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/madeinlongbeach.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Localism Inc. fosters independent entrepreneurship to promote a more
+      sustainable, self-reliant local economy.
 title: Localism Inc.
 uri: /organizations/localism-inc/
 extrapolated_project_ids:

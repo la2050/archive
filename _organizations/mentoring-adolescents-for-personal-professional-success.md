@@ -38,6 +38,11 @@ aggregated:
       https://activation.la2050.org/learn/mentoring-adolescents-for-personal-professional-success/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      As part of the HSRA curriculum, MAPPS is personalized human development
+      exploration and planning, giving participants the support they need to
+      create an effective, realistic and flexible career plan.
 title: Mentoring Adolescents for Personal & Professional Success
 uri: /organizations/mentoring-adolescents-for-personal-professional-success/
 extrapolated_project_ids: []

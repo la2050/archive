@@ -86,6 +86,64 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FLOW.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      <p>FLoW was created in October of 2011, and the first mentorship program
+      and competition took place in the spring of 2012. As a result of that
+      first operational cycle, we were able to leverage limited government
+      support from the DOE into a vehicle that has attracted widespread
+      stakeholder support and partnerships of benefit to young entrepreneurs,
+      the cleantech workforce and ultimately the economy. Some numbers from the
+      first year of the competition best illustrate our organizationâ€™s
+      achivements:</p>
+       
+       
+       
+       
+       
+       <p>- The competition drew 83 teams from 34 universities throughout the west coast, including more than 20 from Southern California</p>
+       
+       
+       
+       
+       
+       <p>- Young entrepreneurs developing energy from waste water treatment, robots for cleaning solar panels and solar cell films with 20% more efficiency took the top prizes at the regional finals competition.</p>
+       
+       
+       
+       
+       
+       <p>- Fifteen teams continued after the competition to form new companies</p>
+       
+       
+       
+       
+       
+       <p>- Four raised additional money, as much as $250,000, directly from their connection to FLoW.</p>
+       
+       
+       
+       
+       
+       <p>- Jobs created: based on the first year exit survey, 23 of these early stage ventures, intended to add 1-10 jobs over the following 18 months, according to a survey. </p>
+       
+       
+       
+       
+       
+       <p>- Teams from Flow have proceeded to join in regional and national business development programs, including the LA Cleantech Incubator, the Cleantech Open, and the UC Davis Green Technology Entrepreneurship Academy.</p>
+       
+       
+       
+       
+       
+       <p>- The program established a dual track program embracing Business Ready and Transformational Idea Award tracks to ensure great student ideas donâ€™t get lost for lack of support</p>
+       
+       
+       
+       
+       
+       <p>- The program achieved a partnership with the Southern California utilities, who are looking for technologies and talent</p>
 title: First Look West
 uri: /organizations/first-look-west/
 extrapolated_project_ids:

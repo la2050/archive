@@ -38,6 +38,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      BlacklistLA Run Organization (BlacklistLA) provides access to Angelenos of
+      diverse backgrounds to connect with each other through a shared love of
+      running, street art, culture and the City of LA.
+    - >-
+      BlacklistLA inspires Angelenos of diverse backgrounds to connect around a
+      shared love for running, street art and the City of LA.
 title: BlacklistLA
 uri: /organizations/blacklistla/
 extrapolated_project_ids:

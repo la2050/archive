@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/careers-come-alive-virtually-in-the-classroom-by-connecting-students-teachers-workplace-experts
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      ConnectEd partners with school, district, and community leaders to
+      transform education through career pathways so that all students,
+      regardless of background, can succeed in college, career, and life.
 title: ConnectEd
 uri: /organizations/connected/
 extrapolated_project_ids:

@@ -44,6 +44,25 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/FirstStar.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Our series of groundbreaking Report Cards â€“ which measure and compare
+      how each state provides protection to maltreated children within the
+      framework of its state law â€“ have educated untold numbers of Americans
+      about essential legislative, legal and policy developments. They have
+      become the gold standard arbiter of policy and legislation and now greatly
+      influence lawmakers, the judiciary and CPS agencies on a running basis.
+      Over time have seen statesâ€™ grades improve, showing that the Report
+      Cards are fueling state-level improvements. The Childrenâ€™s Advocacy
+      Institute, Center for Public Interest Law at the University of San Diego
+      School of Law is a treasured partner in developing and disseminating the
+      Report Cards nationwide.
+       
+       
+       We convene Congressional Forums, held in the U.S. Capitol, where lawmakers and their staffs are invited to learn about the latest Report Cards and to dialogue with experts in the field on child abuse, dependency courts, foster care, and child protective services. The discussions provide guidance and feedback on pertinent policy areas. They also provide a rare opportunity for youth who have experienced Foster Care to speak directly to government, face to face.
+       
+       
+       Our Foster Youth Academies, now operating in Los Angeles, CA, Rhode Island and the greater Washington, DC area, are inspiring, challenging and equipping foster youth in grades 8 through 10 for success in college and beyond. Students who remain in good standing are invited to continue in the Academy program â€“ summer residential sessions, monthly workshop days, and our protected studentsâ€™ social media site â€“ each year through high school graduation. With the enthusiastic support of local public-private partnerships, including child welfare agencies and public schools, we have launched these three Academies in two years. To launch and operate Academies around the ï¿¼country, additional public-private partnerships are at work at six additional campuses across the nation.
 title: 'First Star, Inc.'
 uri: /organizations/first-star-inc/
 extrapolated_project_ids:

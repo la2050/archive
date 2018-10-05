@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Our comprehensive health center offers high quality, comprehensive health
+      care for individuals with developmental disabilities.
 title: The Achievable Foundation
 uri: /organizations/the-achievable-foundation/
 extrapolated_project_ids: []

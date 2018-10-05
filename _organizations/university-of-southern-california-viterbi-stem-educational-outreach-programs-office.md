@@ -40,6 +40,11 @@ aggregated:
       https://challenge.la2050.org/entry/stem-center-for-innovation-and-excellence-scie
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      STEM Educational Outreach Programs (STEM-EOP) serves educationally
+      disadvantaged students with the goal to increase the number of students
+      who have authentic experiences in STEM and major in STEM
 title: >-
   University of Southern California (Viterbi STEM Educational Outreach Programs
   Office)

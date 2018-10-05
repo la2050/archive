@@ -42,6 +42,8 @@ aggregated:
     - 'https://challenge.la2050.org/entry/jutout-parklets'
   year_submitted:
     - '2016'
+  org_summary:
+    - Landscape Architecture
 title: SCA-LARC
 uri: /organizations/sca-larc/
 extrapolated_project_ids:

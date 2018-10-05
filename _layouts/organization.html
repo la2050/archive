@@ -239,7 +239,7 @@ stylesheets:
 {% endcomment %}
 
 
-{% if page.year_submitted == 2013 %}
+{% if page.org_summary.size > 500 %}
 {% capture link_to_more %}
 … <span style="color: var(--primary-color); font-weight: bold;">Read More</span>
 {% endcapture %}

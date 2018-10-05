@@ -39,6 +39,10 @@ aggregated:
       https://challenge.la2050.org/entry/at-risk-youth-get-jobs-in-local-communities
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Provides at risk youth the education and enrichment to make it to and
+      through college and find jobs
 title: I Have a Dream Foundation
 uri: /organizations/i-have-a-dream-foundation/
 extrapolated_project_ids:

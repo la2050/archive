@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/M3TNT.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Company of Angels reflects the richness, diversity and complexity that is
+      Los Angeles through the development of emerging artists of color.
 title: Company of Angels (CoA)
 uri: /organizations/company-of-angels-coa/
 extrapolated_project_ids:

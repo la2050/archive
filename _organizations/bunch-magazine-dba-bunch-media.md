@@ -28,6 +28,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/BUNCHFEST2016.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We publish BUNCH Magazine which equips creative professionals and those
+      who are curious about careers in creative fields with tools, tips, and
+      inspiration through storytelling and guides.
 title: BUNCH Magazine dba BUNCH Media
 uri: /organizations/bunch-magazine-dba-bunch-media/
 extrapolated_project_ids: []

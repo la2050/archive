@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/NFMLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We're a nonprofit dedicated to advancing the careers of emerging
+      filmmakers & preserving LA's legacy as an international film culture
+      mecca.
 title: NewFilmmakers Los Angeles
 uri: /organizations/newfilmmakers-los-angeles/
 extrapolated_project_ids:

@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/save.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      EARN breaks the cycle of poverty for low-income families by providing them
+      with the financial tools to save and invest in their futures.
 title: EARN
 uri: /organizations/earn/
 extrapolated_project_ids:

@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/ArtofSkidRow.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Sustaynabl is a socially aware corporation tackling Urban Poverty through
+      innovative Global Impact Projects (GIP’s).
 title: Sustaynabl
 uri: /organizations/sustaynabl/
 extrapolated_project_ids:

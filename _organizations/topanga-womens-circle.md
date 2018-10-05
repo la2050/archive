@@ -40,6 +40,11 @@ aggregated:
     - 'https://activation.la2050.org/live/topanga-womens-circle/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Working with the Salvation Army and Venice Community Housing, TWC, a 100%
+      volunteer organization, helps homeless families move into their bare-bones
+      housing by providing all the comforts of home.
 title: Topanga Women's Circle
 uri: /organizations/topanga-womens-circle/
 extrapolated_project_ids:

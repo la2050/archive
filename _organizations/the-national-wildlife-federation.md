@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/help-create-schoolyard-habitats-for-people-and-wildlife-in-la!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The National Wildlife Federation is a voice for wildlife, dedicated to
+      protecting wildlife and habitat and inspiring the future generation of
+      conservationists.
 title: The National Wildlife Federation
 uri: /organizations/the-national-wildlife-federation/
 extrapolated_project_ids:

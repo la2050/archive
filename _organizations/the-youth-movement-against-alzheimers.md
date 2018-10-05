@@ -40,6 +40,11 @@ aggregated:
       https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Youth Movement Against Alzheimer’s is the national leader in providing
+      students opportunities to engage in the fight against Alzheimer’s through
+      advocacy, volunteering, and research.
 title: The Youth Movement Against Alzheimer’s
 uri: /organizations/the-youth-movement-against-alzheimers/
 extrapolated_project_ids: []

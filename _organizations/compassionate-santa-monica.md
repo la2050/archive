@@ -33,6 +33,8 @@ aggregated:
       https://challenge.la2050.org/entry/compassion-games-survival-of-the-kindest
   year_submitted:
     - '2016'
+  org_summary:
+    - Building Compassionate cities since 2013
 title: Compassionate Santa Monica
 uri: /organizations/compassionate-santa-monica/
 extrapolated_project_ids:

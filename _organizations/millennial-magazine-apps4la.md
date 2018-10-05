@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/Apps4LA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Millennial is a lifestyle and culture magazine profiling those who shape
+      the world we experience.
 title: 'Millennial Magazine: Apps4LA'
 uri: /organizations/millennial-magazine-apps4la/
 extrapolated_project_ids:

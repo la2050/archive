@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Through its annual festival, Hollywood Fringe provides a platform for
+      emerging, underrepresented and experimental local performers to interact
+      with one another and engage with the Hollywood community.
 title: Hollywood Fringe Festival (Hatchery Arts)
 uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 extrapolated_project_ids:

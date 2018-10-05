@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Toberman Neighborhood Center tackles poverty by addressing its root causes
+      and reversing its devastating impacts.
 title: Toberman Neighborhood Center
 uri: /organizations/toberman-neighborhood-center/
 extrapolated_project_ids:

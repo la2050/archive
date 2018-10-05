@@ -42,6 +42,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/los-angeles-lgbt-center/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Los Angeles LGBT Center is building a world where LGBT people thrive
+      as healthy, equal and complete members of society.
 title: Los Angeles LGBT Center
 uri: /organizations/los-angeles-lgbt-center/
 extrapolated_project_ids: []

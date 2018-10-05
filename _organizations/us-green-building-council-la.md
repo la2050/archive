@@ -38,6 +38,10 @@ aggregated:
       https://challenge.la2050.org/entry/ecomapla-is-todays-roadmap-for-a-tomorrow-that-is-social-economic-and-environmental-sustainable
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Promote sustainability in the built environment by providing access to
+      resources, knowledge, recognition, and networking opportunities.
 title: US Green Building Council-LA
 uri: /organizations/us-green-building-council-la/
 extrapolated_project_ids:

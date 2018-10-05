@@ -53,6 +53,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2014'
+  org_summary:
+    - >-
+      KDI is a design + community development nonprofit that partners with
+      residents in underserved neighborhoods to create public spaces that meet
+      priority needs, build equity + help communities thrive.
+    - >-
+      KDI partners with underserved communities to help physically transform
+      their neighborhoods and improve social and economic quality of life.
 title: Kounkuey Design Initiative
 uri: /organizations/kounkuey-design-initiative/
 extrapolated_project_ids:

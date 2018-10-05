@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/live/l-a-kitchen/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      L.A. Kitchen works to combat hunger, food waste and recidivism, by
+      reclaiming food that would otherwise go to waste to supply fresh meals to
+      Angelenos and providing culinary job training.
 title: L.A. Kitchen
 uri: /organizations/l-a-kitchen/
 extrapolated_project_ids:

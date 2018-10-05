@@ -37,6 +37,10 @@ aggregated:
       https://challenge.la2050.org/entry/domestic-harmonizer-program-resolving-conflict-one-middle-school-at-a-time
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Our mission is to help societies impacted by destructive conflicts
+      transform into safer and more prosperous communities.
 title: Whitaker Peace & Development Initiative (WPDI)
 uri: /organizations/whitaker-peace-development-initiative-wpdi/
 extrapolated_project_ids:

@@ -46,6 +46,27 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      Jovenes is a place of personal transformation for homeless youth ages
+      18-25. We provide stable housing options and supportive services.
+    - >-
+      <p>Jovenes, Inc. is a growing organization that is changing the way
+      homeless youth access opportunities for a brighter future. In the last
+      year, weâ€™ve doubled our housing capacity through the creation of
+      permanent supportive and affordable housing. We used to only be able to
+      house 20 youth in our short-term shelter programs (for lengths of stay
+      less than 18 months). Now, we are able to provide youth with their own
+      apartments and continually support them as they grow into self-sufficient
+      adults. At this point, Jovenes is housing 41 youth across our continuum of
+      care- more than at any other point in our history. Our permanent housing
+      programs have a 96% retention rate since opening in 2012.</p>
+       
+       
+       
+       
+       
+       <p>Launching The Beacon Network in 2011 was a major accomplishment for our organization. As a traditional social-service organization that focuses primarily on the 1:1 work with our clients, taking on TBN required a different skill-set, vision, and capacity. TBN was developed through a process that included gaining input from many different non-profit partners on what information would be most useful to their clients & staff, as well as holding focus groups of youth to test the functionality and clarity of the system, as well as marketing strategies. As a result, TBN Connect has over 4,800 searches per year!</p>
 title: 'Jovenes, Inc.'
 uri: /organizations/jovenes-inc/
 extrapolated_project_ids:

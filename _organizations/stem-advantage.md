@@ -41,6 +41,11 @@ aggregated:
       https://challenge.la2050.org/entry/stem-advantage-todays-students-tomorrows-innovators!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      STEM Advantage mentors, prepares and inspires young women and underserved
+      communities to pursue careers in science, technology, engineering and math
+      through paid internships, mentors and scholarships.
 title: STEM Advantage
 uri: /organizations/stem-advantage/
 extrapolated_project_ids:

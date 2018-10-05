@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/FEALLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      FEAL.LA is an artist development platfrom for independent musicians,
+      providing resources to connect to a broader community, with the vision to
+      create a physical space where L.A. artists can come to collaborate.
 title: FEAL.LA
 uri: /organizations/feal-la/
 extrapolated_project_ids:

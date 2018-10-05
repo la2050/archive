@@ -41,6 +41,11 @@ aggregated:
       https://activation.la2050.org/live/hashtaglunchbag-powered-by-living-through-giving-foundation-501c3-nonprofit/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      #HashtagLunchbag brings together various communities to connect and
+      prepare meals and messages of hope to our most vulnerable constituents,
+      including the homeless and various at-risk shelters.
 title: >-
   #HashtagLunchbag - powered by Living Through Giving Foundation, 501(c)3
   nonprofit

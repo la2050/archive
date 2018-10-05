@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/BalkansLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      South East European Film Festival engages all of Los Angeles through
+      educating about and promoting cultural diversity of South East Europe.
 title: South East European Film Festival
 uri: /organizations/south-east-european-film-festival/
 extrapolated_project_ids:

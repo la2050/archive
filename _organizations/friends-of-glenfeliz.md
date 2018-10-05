@@ -35,6 +35,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/glenfeliz-helping-la-grow'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are a 501(c)3 nonprofit parent booster club committed to helping
+      Glenfeliz students thrive and grow, both in Elementary school, and beyond.
 title: Friends of Glenfeliz
 uri: /organizations/friends-of-glenfeliz/
 extrapolated_project_ids:

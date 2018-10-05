@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/MAKEANDREADBOOKS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      BookArtsLA brings the experience of making handmade books to people of all
+      ages.
 title: BookArtsLA
 uri: /organizations/bookartsla/
 extrapolated_project_ids:

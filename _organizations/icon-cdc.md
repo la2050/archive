@@ -42,6 +42,11 @@ aggregated:
       https://challenge.la2050.org/entry/young-creative-entrepreneurs-and-small-business-internship-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      ICON is a Community Development Corporation who hosts the L.A.
+      BusinessSource Center, a no cost business assistance program to help start
+      and grow entrepreneurs and small businesses in Los Angeles.
 title: ICON CDC
 uri: /organizations/icon-cdc/
 extrapolated_project_ids:

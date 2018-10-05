@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The LA River Public Art Project is an active community of designers and
+      advocates committed to fostering an inclusive and diverse arts and culture
+      infrastructure on the LA River.
 title: The LA River Public Art Project
 uri: /organizations/the-la-river-public-art-project/
 extrapolated_project_ids:

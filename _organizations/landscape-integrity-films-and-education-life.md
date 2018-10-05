@@ -46,6 +46,11 @@ aggregated:
       https://challenge.la2050.org/entry/california-native-plant-public-education-project
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LIFE short films give clear, inspiring information about native plant
+      gardening to transform sterile green spaces into places that support
+      biodiversity, conserve water and celebrate California beauty.
 title: Landscape Integrity Films and Education (LIFE)
 uri: /organizations/landscape-integrity-films-and-education-life/
 extrapolated_project_ids:

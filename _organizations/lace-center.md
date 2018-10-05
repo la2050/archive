@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LACECenter.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The LACE Center is a community-led organization invested in arts for
+      transforming local conditions towards sustainable collective liberation
 title: LACE Center
 uri: /organizations/lace-center/
 extrapolated_project_ids:

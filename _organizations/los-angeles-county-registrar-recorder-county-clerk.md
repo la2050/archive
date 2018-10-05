@@ -37,6 +37,11 @@ aggregated:
       https://activation.la2050.org/connect/los-angeles-county-registrar-recorder-county-clerk/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Registrar-Recorder/County Clerk is responsible for registering voters,
+      maintaining voter files, administering federal, state, local and special
+      elections and verifying petitions.
 title: Los Angeles County Registrar-Recorder/County Clerk
 uri: /organizations/los-angeles-county-registrar-recorder-county-clerk/
 extrapolated_project_ids: []

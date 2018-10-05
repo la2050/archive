@@ -33,6 +33,13 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      DIGDEEP is a human rights non-profit making clean water more available and
+      more sustainable in every community.
+    - >-
+      DIGDEEP works to make clean water more accessible and more sustainable in
+      every community.
 title: DIGDEEP Water
 uri: /organizations/digdeep-water/
 extrapolated_project_ids:

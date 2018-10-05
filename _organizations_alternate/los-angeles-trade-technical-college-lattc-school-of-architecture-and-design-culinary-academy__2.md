@@ -38,6 +38,18 @@ aggregated:
     - '2015'
     - '2014'
     - '2014'
+  org_summary:
+    - >-
+      LATTC’s SLATE-Z is a partnership among community organizations, education
+      institutions & government that centers on transit, education, enterprise,
+      & redevelopment. The vision is to connect SLA through transportation,
+      education & economic mobility.
+    - >-
+      We provide affordable college education in sustainable landscaping,
+      construction, plumbing, and culinary arts with project-based curriculum.
+    - >-
+      We provide affordable college education in sustainable landscaping,
+      construction, plumbing, and culinary arts with project-based curriculum.
 title: >-
   Los Angeles Trade Technical College (LATTC) - School of Architecture and
   Design, Culinary Academy

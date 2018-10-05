@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      MHS looks like a fitness center but is a health & wellness primary care
+      medical, dental, and emotional care facility for South LA residents.
 title: MetroHealth Station - Jefferson Park
 uri: /organizations/metrohealth-station-jefferson-park/
 extrapolated_project_ids: []

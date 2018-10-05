@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We bring high-quality psychotherapy and integrated basic services into
+      families' homes to help parents and children heal from trauma.
 title: Westside Infant-Family Network (WIN)
 uri: /organizations/westside-infant-family-network-win/
 extrapolated_project_ids: []

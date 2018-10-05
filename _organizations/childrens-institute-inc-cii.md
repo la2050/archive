@@ -36,6 +36,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/CIIACES.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      CII helps children in Los Angeles’s most challenged communities heal from
+      the trauma of family and community violence, build the confidence and
+      skills to break through the barriers of poverty, and grow up to lead
+      healthy, productive lives.
 title: 'Children’s Institute, Inc. (CII)'
 uri: /organizations/childrens-institute-inc-cii/
 extrapolated_project_ids:

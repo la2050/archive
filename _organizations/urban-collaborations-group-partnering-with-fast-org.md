@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      My organization works to improve the quality of urban life through
+      environmental and community-based solutions.
 title: Urban Collaborations Group (Partnering with FAST.org)
 uri: /organizations/urban-collaborations-group-partnering-with-fast-org/
 extrapolated_project_ids: []

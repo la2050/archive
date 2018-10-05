@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/RowGallery.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Row Gallery strives to create a positive community that promotes artists
+      and their work that may typically be disregarded in society.
 title: Row Gallery Foundation
 uri: /organizations/row-gallery-foundation/
 extrapolated_project_ids:

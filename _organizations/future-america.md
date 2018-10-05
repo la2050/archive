@@ -39,6 +39,10 @@ aggregated:
     - 'https://activation.la2050.org/learn/future-america/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The LJYE.com provides ensemble and performance training FREE for musicians
+      10-17 and records original music is expanding to Los Angeles.
 title: Future America
 uri: /organizations/future-america/
 extrapolated_project_ids: []

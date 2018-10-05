@@ -39,6 +39,10 @@ aggregated:
     - 'https://activation.la2050.org/learn/lola-techsystems-inc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Lola Techsystems provides software and professional development for guides
+      to support learners who struggle to succeed in and out of the classroom.
 title: 'Lola Techsystems, Inc.'
 uri: /organizations/lola-techsystems-inc/
 extrapolated_project_ids: []

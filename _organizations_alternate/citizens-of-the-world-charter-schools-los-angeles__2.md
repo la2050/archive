@@ -38,6 +38,19 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Citizens of the World Los Angeles (CWC LA) operates three highly diverse,
+      academically challenging, and community-based public charter schools
+      currently serving 1,600 students in grades TK-7.
+    - >-
+      Citizens of the World Charter Schools, Los Angeles (CWC LA) is a
+      non-profit organization that operates three highly diverse, academically
+      challenging, and community-based public charter currently schools serving
+      1,300 students in grades TK-6.
+    - >-
+      CWC MV is a diverse public school with a rigorous, experimental learning
+      environment dedicated to making students citizens of the world.
 title: 'Citizens of the World Charter Schools, Los Angeles'
 uri: /organizations/citizens-of-the-world-charter-schools-los-angeles/
 extrapolated_project_ids:

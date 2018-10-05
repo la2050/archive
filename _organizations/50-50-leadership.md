@@ -31,6 +31,8 @@ aggregated:
     - 'https://challenge.la2050.org/entry/fostering-safe-communities'
   year_submitted:
     - '2016'
+  org_summary:
+    - Promotes women's equal leadership
 title: 50/50 Leadership
 uri: /organizations/50-50-leadership/
 extrapolated_project_ids:

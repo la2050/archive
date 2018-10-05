@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Saban Community Clinic provides comprehensive, affordable medical and
+      social services to low-income and underserved individuals.
 title: Saban Community Clinic
 uri: /organizations/saban-community-clinic/
 extrapolated_project_ids: []

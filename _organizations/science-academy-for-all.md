@@ -34,6 +34,10 @@ aggregated:
     - 'https://activation.la2050.org/live/science-academy-for-all/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Science Academy For All provides opportunity for science through
+      contextualized learning for all backgrounds and all ages.
 title: Science Academy For All
 uri: /organizations/science-academy-for-all/
 extrapolated_project_ids: []

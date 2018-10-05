@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/AbundantFeast.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      civ.LA is an agile civic innovation laboratory (or "think-do tank"). We're
+      passionate about launching new ventures that connect conflicted
+      stakeholder groups around opportunities to create value equitably.
 title: civ.LA
 uri: /organizations/civ-la/
 extrapolated_project_ids:

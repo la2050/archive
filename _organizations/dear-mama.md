@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/helping-l-a-live-healthier-one-taco-at-a-time!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Dear Mama provides the L.A. community with affordable, healthy
+      alternatives to animal-based products, while providing education and
+      empowerment on healthy living and aid to the community.
 title: Dear Mama
 uri: /organizations/dear-mama/
 extrapolated_project_ids:

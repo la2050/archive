@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/FREETAXPREP.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      KYCC serves low-income families in Los Angeles in the areas of education,
+      mental health, environment, housing and finances.
 title: Koreatown Youth and Community Center (KYCC)
 uri: /organizations/koreatown-youth-and-community-center-kycc/
 extrapolated_project_ids:

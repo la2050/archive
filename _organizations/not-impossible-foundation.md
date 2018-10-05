@@ -38,6 +38,11 @@ aggregated:
     - 'https://activation.la2050.org/live/not-impossible-foundation/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      NIF recognizes global, human-centered absurdities deemed insolvable, then
+      commits to solving them with a variety of experts to discover and create
+      innovative, unique solutions, for one, for many.
 title: Not Impossible Foundation
 uri: /organizations/not-impossible-foundation/
 extrapolated_project_ids: []

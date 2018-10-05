@@ -42,6 +42,23 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      The Invest in Youth Coalition is urging our city’s policymakers to create
+      a Youth Development Department, focusing on funding an equitable strategy
+      to our improve youth outcomes and opportunities.
+    - >-
+      Big Citizen HUB connects youth from across LA, empowering them to be
+      contributing members of society by cultivating leadership skills and
+      creating an environment to tackle pressing civic challenges.
+    - >-
+      We are a little league for civic action, uniting middle school and high
+      school youth from across L.A. to address pressing social issues while
+      gaining valuable leadership skills through significant service experiences
+      with local organizations.
+    - >-
+      We bring together middle school students from across L.A. to address
+      pressing social issues while gaining valuable leadership skills.
 title: Big Citizen HUB
 uri: /organizations/big-citizen-hub/
 extrapolated_project_ids:

@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/play/south-bay-bicycle-coalition/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      SBBC, now >400 members, was founded in 2009 by South Bay cyclists
+      determined to connect local riders on a mission to unite the South Bay
+      Cities in safe, easily accessible, fun active transportation.
 title: South Bay Bicycle Coalition
 uri: /organizations/south-bay-bicycle-coalition/
 extrapolated_project_ids: []

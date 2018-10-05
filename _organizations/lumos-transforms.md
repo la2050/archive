@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/live/lumos-transforms/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We develop, implement, and disseminate frameworks and tools that build
+      resilience in individuals, organizations, and communities in service of
+      liberatory and holistic transformation.
 title: Lumos Transforms
 uri: /organizations/lumos-transforms/
 extrapolated_project_ids:

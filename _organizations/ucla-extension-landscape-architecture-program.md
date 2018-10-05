@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/ExpoSafari.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The UCLA Extension Landscape Architecture Program works to provide design
+      solutions that make Los Angeles more livable, green and beautiful.
 title: UCLA Extension Landscape Architecture Program
 uri: /organizations/ucla-extension-landscape-architecture-program/
 extrapolated_project_ids:

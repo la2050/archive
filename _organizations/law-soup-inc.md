@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/LawSoupLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Law Soup is an online media company that creates and publishes content
+      designed to advance the public’s understanding of the law.
 title: 'Law Soup, Inc.'
 uri: /organizations/law-soup-inc/
 extrapolated_project_ids:

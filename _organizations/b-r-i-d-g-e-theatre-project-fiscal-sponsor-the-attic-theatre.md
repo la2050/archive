@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/bridgetheatre.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Through original theatre, BRIDGE fosters cultural awareness & engages
+      youth in exploring practical ways to create change in their community.
 title: 'B.R.I.D.G.E Theatre Project (fiscal sponsor, The Attic Theatre)'
 uri: /organizations/b-r-i-d-g-e-theatre-project-fiscal-sponsor-the-attic-theatre/
 extrapolated_project_ids:

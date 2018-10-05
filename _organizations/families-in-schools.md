@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Families in Schools (FIS) works to involve parents and communities in
+      their children’s education to achieve lifelong student success.
 title: Families In Schools
 uri: /organizations/families-in-schools/
 extrapolated_project_ids:

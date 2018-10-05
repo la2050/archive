@@ -36,6 +36,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/weareready.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      After-School All-Stars, Los Angeles educates, enlightens and inspires
+      young people by providing dynamic and exciting opportunities for success,
+      while cultivating self-esteem, leadership and respect to help build
+      healthier communities.
 title: 'After-School All-Stars, Los Angeles'
 uri: /organizations/after-school-all-stars-los-angeles/
 extrapolated_project_ids:

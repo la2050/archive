@@ -36,6 +36,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/creating-mother-natures-metropolis'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Grown in LA is a nonprofit project of Community Partners that is
+      converting underutilized land into a network of nurseries that produce
+      plants and provide educational opportunities to Angelenos.
 title: Grown in LA
 uri: /organizations/grown-in-la/
 extrapolated_project_ids:

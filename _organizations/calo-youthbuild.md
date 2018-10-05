@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/caló-youthbuilds-mobile-community-solar-arts-and-stem-project
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      CALÓ YouthBuild is a project based, culturally relevant, high school
+      diploma granting program themed in social justice, community organizing
+      and environmentalism for out of school East LA youth.
 title: CALO YouthBuild
 uri: /organizations/calo-youthbuild/
 extrapolated_project_ids:

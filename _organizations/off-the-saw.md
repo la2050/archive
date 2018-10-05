@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/offthesaw.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Off The Saw creates community around furniture making by offering bench
+      space, workshops, maker talks, and apprenticeships to furniture makers in
+      Los Angeles.
 title: Off The Saw
 uri: /organizations/off-the-saw/
 extrapolated_project_ids:

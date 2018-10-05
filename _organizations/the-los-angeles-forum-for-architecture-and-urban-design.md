@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The LA Forum provides a framework for the public to explore, evaluate, and
+      impact the development of architecture in Los Angeles.
 title: The Los Angeles Forum for Architecture and Urban Design
 uri: /organizations/the-los-angeles-forum-for-architecture-and-urban-design/
 extrapolated_project_ids: []

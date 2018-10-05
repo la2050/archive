@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LATrabajadoresConex.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      IDEPSCA organizes and educates low immigrant workers concerned with
+      solving problems in their own communities in the areas of workforce and
+      economic development and worker health and safety.
 title: Instituto de Educacion Popular del Sur de California (IDEPSCA)
 uri: /organizations/instituto-de-educacion-popular-del-sur-de-california-idepsca/
 extrapolated_project_ids:

@@ -37,6 +37,14 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Generate dialogue, cultural exchange and revitalize public spaces through
+      a mobile, curated documentary series, which travels directly into
+      communities to offer it 100% for free.
+    - >-
+      Creates exhibition spaces that foster community & dialogue by screening
+      multicultural stories via a community driven mobile cinema
 title: Ambulante
 uri: /organizations/ambulante/
 extrapolated_project_ids:

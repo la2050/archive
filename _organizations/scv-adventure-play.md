@@ -36,6 +36,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      SCV Adventure Play provides space, time, materials, play-workers and
+      play-work training to support self-directed play for children and adults,
+      while advocating for the right of children to play as fundamental to their
+      well-being.
+    - >-
+      SCV Adventure Play strives to provide, space, materials, and education to
+      support self-directed play for children and adults.
 title: SCV Adventure Play
 uri: /organizations/scv-adventure-play/
 extrapolated_project_ids:

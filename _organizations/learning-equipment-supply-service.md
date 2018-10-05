@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We collect discarded lab equipment from schools and industrial facilities
+      and re-purpose those items for educational use.
 title: Learning Equipment Supply Service
 uri: /organizations/learning-equipment-supply-service/
 extrapolated_project_ids:

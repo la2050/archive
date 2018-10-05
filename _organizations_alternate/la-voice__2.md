@@ -36,6 +36,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      LA Voice is an interfaith, multi-racial community organization with a
+      mission to transform Los Angeles into a County that reflects the human
+      dignity of all people, especially those in greatest need.
+    - >-
+      LA Voice is an interfaith, multi-racial community organization that
+      awakens people to their own power, training them to speak, act and work
+      together to transform our city into one that reflects the dignity of all
+      people.
 title: LA Voice
 uri: /organizations/la-voice/
 extrapolated_project_ids:

@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/Playwithmusic.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We are a modern music education program that brings at-risk students,
+      music industry professionals, creativity & technology, into the same
+      classroom.
 title: >-
   Play with Music, The New History (parent organization of Play with Music,
   current transition filing 501c3 status for Play with Music)

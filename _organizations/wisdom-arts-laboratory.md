@@ -40,6 +40,11 @@ aggregated:
       https://challenge.la2050.org/entry/cultivating-creative-students-opens-up-creative-fields-to-los-angeles-high-school-students
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Wisdom Arts Laboratory encourages and nurtures the imagination, critical
+      thinking skills, and citizenship of our students and instructors through
+      art and science education.
 title: Wisdom Arts Laboratory
 uri: /organizations/wisdom-arts-laboratory/
 extrapolated_project_ids:

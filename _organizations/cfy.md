@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      CFY is a nonprofit that helps students, parents & educators use digital
+      learning to promote educational equity & raise student achievement.
 title: CFY
 uri: /organizations/cfy/
 extrapolated_project_ids:

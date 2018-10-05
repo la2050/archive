@@ -40,6 +40,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/los-angeles-master-chorale/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Los Angeles Master Chorale is an independent and innovative professional
+      vocal ensemble that shares the traditional and evolving spectrum of choral
+      music with the widest possible audience.
 title: Los Angeles Master Chorale
 uri: /organizations/los-angeles-master-chorale/
 extrapolated_project_ids:

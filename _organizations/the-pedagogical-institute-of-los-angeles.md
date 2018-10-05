@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/collaborative-teacher-project-igniting-curiosity-through-innovative-classrooms-teacher-mentoring
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Pedagogical Institute promotes the exchange of ideas, research and
+      inspiration amongst early childhood educators throughout the world with
+      the goal of providing quality education to ALL children.
 title: The Pedagogical Institute of Los Angeles
 uri: /organizations/the-pedagogical-institute-of-los-angeles/
 extrapolated_project_ids:

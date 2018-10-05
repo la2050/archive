@@ -37,6 +37,18 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/bikela2050.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      We have been involved in a number of projects focusing on urban mobility
+      and the interface with cities and the built environment. Marc Alt was
+      founding Executive Director of the Green Parking Council, a non-profit
+      organization which is seeking to transform parking into a platform for
+      innovation to support bike sharing, car sharing, electric car charging
+      infrastructure, green building standards and re-inventing parking as a
+      force for good in cities. Marc has also worked with some of the leading
+      companies in the automotive, architecture and engineering fields on urban
+      mobility projects, including the launch of electric vehicles and charging
+      infrastructure.
 title: Bike L.A. 2050
 uri: /organizations/bike-l-a-2050/
 extrapolated_project_ids:

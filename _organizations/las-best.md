@@ -47,6 +47,19 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      The mission of LA's BEST After School Enrichment Program is to provide a
+      safe and supervised after school education, enrichment and recreation
+      program for children ages five to 12 in Los Angeles.
+    - >-
+      LA’s BEST provides safe and supervised after school and summer programs
+      that cultivate academic, social and emotional growth among 25,000
+      elementary school students in under-resourced neighborhoods.
+    - >-
+      LA’s BEST provides more than 28,000 Los Angeles children with
+      out-of-school-time experiences that facilitate academic and social
+      success.
 title: LA's BEST
 uri: /organizations/las-best/
 extrapolated_project_ids:

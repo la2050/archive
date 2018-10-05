@@ -50,6 +50,11 @@ aggregated:
       https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      CDU is a private, nonprofit, community-founded university committed to
+      educating and training leaders in health professions dedicated to social
+      justice and health equity for underserved populations.
 title: Charles R. Drew University of Medicine and Science
 uri: /organizations/charles-r-drew-university-of-medicine-and-science/
 extrapolated_project_ids: []

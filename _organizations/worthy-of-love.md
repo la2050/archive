@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/connecting-hearts-to-children-on-skid-row
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Worthy of Love hosts birthday parties for the children living in Homeless
+      Shelters to create an atmosphere where they can escape, for the moment,
+      the trauma of homelessness and play as a child.
 title: Worthy of Love
 uri: /organizations/worthy-of-love/
 extrapolated_project_ids:

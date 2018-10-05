@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/history-mobile.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Robey shares stories, written and conceived with a POV that filters
+      through a Black lens.
 title: Robey Theatre Company
 uri: /organizations/robey-theatre-company/
 extrapolated_project_ids:

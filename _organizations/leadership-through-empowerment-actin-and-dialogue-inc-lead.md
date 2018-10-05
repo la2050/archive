@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/ReigniteLH.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      LEAD is a grassroots organization that builds youth leadership, equitable
+      communities, and agents for social change.
 title: 'Leadership through Empowerment, Actin, and Dialogue Inc. (LEAD)'
 uri: /organizations/leadership-through-empowerment-actin-and-dialogue-inc-lead/
 extrapolated_project_ids:

@@ -29,6 +29,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/LARIVERPUBLICART.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      A team of LA-based architects, landscape architects, planners, and art
+      organization, has joined together to create a Cultural Master Plan.
 title: ERW Design
 uri: /organizations/erw-design/
 extrapolated_project_ids:

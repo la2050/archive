@@ -27,6 +27,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We provide a full spectrum of care from leading-edge treatments to
+      prevention programs that improve the health of our communities.
 title: >-
   Providence Little Company of Mary Medical Centers - Torrance & San Pedro,
   Providence Health & Services Southern California

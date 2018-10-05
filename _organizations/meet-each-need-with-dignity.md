@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      MEND provides services that meet the basic human needs of poverty-level
+      individuals who reside in the northeast San Fernando Valley.
 title: Meet Each Need with Dignity
 uri: /organizations/meet-each-need-with-dignity/
 extrapolated_project_ids: []

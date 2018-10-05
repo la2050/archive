@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/laconversationmeals.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      NationBuilder gives people the tools to build a community around whatever
+      they were meant to do.
 title: NationBuilder
 uri: /organizations/nationbuilder/
 extrapolated_project_ids:

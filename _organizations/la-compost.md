@@ -49,6 +49,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      LA Compost works alongside a growing network of community members and
+      stakeholders to develop social and physical infrastructure for cohesive
+      composting communities.
+    - >-
+      L.A. Compost is a sustainable movement that promotes healthy conscious
+      communities through the creation of community supported compost hubs
+      throughout Los Angeles.
 title: LA Compost
 uri: /organizations/la-compost/
 extrapolated_project_ids:

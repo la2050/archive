@@ -28,6 +28,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/LASPIRIT.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We re-purpose unused and under used land to create useful public spaces to
+      address needs and challenges within communities.
 title: Fox Hills Ladera Healthy Family Association Inc.
 uri: /organizations/fox-hills-ladera-healthy-family-association-inc/
 extrapolated_project_ids:

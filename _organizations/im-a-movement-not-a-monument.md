@@ -40,6 +40,11 @@ aggregated:
       https://challenge.la2050.org/entry/no-mind-left-behind-free-tutoring-services-for-pre-k-to-12th-graders
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      I'm A Movement Not A Monument designs programs and events to foster and
+      engage each student academically and socially, which provides them with
+      the necessary skills to succeed in future endeavors.
 title: I'm A Movement Not A Monument
 uri: /organizations/im-a-movement-not-a-monument/
 extrapolated_project_ids:

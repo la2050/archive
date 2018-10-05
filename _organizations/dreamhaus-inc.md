@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/DREAMHAUS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Dreamhaus is both an educational and economic catalyst for urban youth in
+      South Los Angeles to creatively empower themselves through art and amplify
+      the future vision and their own community's growth.
 title: Dreamhaus Inc.
 uri: /organizations/dreamhaus-inc/
 extrapolated_project_ids:

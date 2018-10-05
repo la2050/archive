@@ -35,6 +35,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/get-los-angeles-back-to-work!'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LaunchCode is a nonprofit opening doors to paid apprenticeships and jobs
+      for aspiring developers and technologists.
 title: LaunchCode
 uri: /organizations/launchcode/
 extrapolated_project_ids:

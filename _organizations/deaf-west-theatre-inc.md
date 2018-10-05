@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/deafwest.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Deaf West Theatre creates, innovates, entertains, enlightens, educates,
+      employs, bridging the gap between deaf and hearing worlds.
 title: 'Deaf West Theatre, Inc.'
 uri: /organizations/deaf-west-theatre-inc/
 extrapolated_project_ids:

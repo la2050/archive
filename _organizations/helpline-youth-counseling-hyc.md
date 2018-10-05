@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/conservation-pathways-environmental-education-and-careers-for-tomorrows-leaders
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      HYC helps at-risk, low-income children, youth, and families develop their
+      strengths and build skills and support networks through education,
+      counseling, advocacy, and the utilization of resources.
 title: Helpline Youth Counseling (HYC)
 uri: /organizations/helpline-youth-counseling-hyc/
 extrapolated_project_ids:

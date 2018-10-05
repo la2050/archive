@@ -35,6 +35,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/four-rings-giving-la-a-home-to-recharge'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Four Rings provides a synergetic platform where all types of people can
+      reach honorable achievement.
 title: Four Rings
 uri: /organizations/four-rings/
 extrapolated_project_ids:

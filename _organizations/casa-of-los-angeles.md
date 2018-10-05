@@ -46,6 +46,22 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      CASA of Los Angeles serves children and youth in the dependency and foster
+      care systems who have
+        
+        experienced abuse and neglect with volunteer-based advocacy.
+    - >-
+      CASA recruits and trains volunteers to advocate for abused and neglected
+      children in Los Angeles County's foster care system.
+    - >-
+      CASA/LA recruits and trains Court Appointed Special Advocates (CASAs) to
+      advocate for and support abused or neglected foster care children in the
+      courtroom and in all areas of their lives.
+    - >-
+      CASA/LA recruits and trains volunteer Court Appointed Special Advocates
+      (CASAs) who help abused and neglected children in foster care.
 title: CASA of Los Angeles
 uri: /organizations/casa-of-los-angeles/
 extrapolated_project_ids:

@@ -30,6 +30,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We educate, research and inspire design innovation at the nexus of water,
+      energy, and climate change.
 title: Arid Lands Institute
 uri: /organizations/arid-lands-institute/
 extrapolated_project_ids: []

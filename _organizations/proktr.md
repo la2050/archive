@@ -29,6 +29,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ProktrLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Proktr illuminates what is going on now in the art and design world of Los
+      Angeles.
 title: Proktr
 uri: /organizations/proktr/
 extrapolated_project_ids:

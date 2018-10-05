@@ -47,6 +47,10 @@ aggregated:
       https://challenge.la2050.org/entry/wow-on-wheels-creating-new-paradigms-through-intergenerational-eduplay
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Educational organization that promotes collaborative community models of
+      education through play.
 title: 'WOW Imagined, Inc.'
 uri: /organizations/wow-imagined-inc/
 extrapolated_project_ids:

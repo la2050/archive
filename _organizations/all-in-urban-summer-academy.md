@@ -34,6 +34,11 @@ aggregated:
     - 'https://activation.la2050.org/learn/all-in-urban-summer-academy/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Summer teachers implement intervention and project based curriculum to
+      boost conceptual and social skills of 3rd-8th graders; engaging youth,
+      empowering leaders, and supporting school year success.
 title: All-In Urban Summer Academy
 uri: /organizations/all-in-urban-summer-academy/
 extrapolated_project_ids:

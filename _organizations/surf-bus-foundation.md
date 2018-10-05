@@ -59,6 +59,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      Surf Bus empowers people to foster a healing connection with the sea.
+      Through play, we teach ocean safety, wave readiness, science, and surfing.
+      Our methods make the ocean a welcoming place for all.
+    - >-
+      The Surf Bus Foundation empowers people to have a healing connection to
+      the sea by engaging in ocean sports like surfing, swimming, and beach
+      games, while exploring the wondrous beauty of the sea.
 title: Surf Bus Foundation
 uri: /organizations/surf-bus-foundation/
 extrapolated_project_ids:

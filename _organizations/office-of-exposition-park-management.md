@@ -35,6 +35,10 @@ aggregated:
       https://challenge.la2050.org/entry/exposition-park-a-gateway-and-a-destination
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Office of Exposition Park Management coordinates park activities and
+      infrastructure improvements in the Expo Park neighborhood.
 title: Office of Exposition Park Management
 uri: /organizations/office-of-exposition-park-management/
 extrapolated_project_ids:

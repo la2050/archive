@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/ndy-health-recreation-center-creating-a-healthier-and-resilient-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      New Directions for Youth (NDY) provides counseling, academic, gang
+      prevention, health, fitness and job training programs to over 3,000 youth
+      and families annually.
 title: 'New Directions for Youth, Inc'
 uri: /organizations/new-directions-for-youth-inc/
 extrapolated_project_ids:

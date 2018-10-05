@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/HOPSCOTCH.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Industry is an independent, artist-driven company creating
+      experimental productions that expand the definition of opera.
 title: The Industry
 uri: /organizations/the-industry/
 extrapolated_project_ids:

@@ -34,6 +34,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/TeamTeacherSLP.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      We are a grassroots organization. We are currently in the state of
+      begininning implementation and have been co-teaching in the classrooms
+      educating students on the effects of the sequester as it relates to their
+      community. Having a pre and post assessment students have shown an
+      increased interest in participating in Service Learning Projects.
 title: ESP Empowering Services Through Partnerships
 uri: /organizations/esp-empowering-services-through-partnerships/
 extrapolated_project_ids:

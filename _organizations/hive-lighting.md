@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LightingForLAParks.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Hive Lighting is a Los Angeles based specialty lighting design,
+      manufacturing and installation company for high output energy efficient
+      fixtures. Hive is part of the Mayorâ€™s Los Angeles CleanTech Incubator,
+      bringing clean technology companies to the City of Los Angeles.
 title: Hive Lighting
 uri: /organizations/hive-lighting/
 extrapolated_project_ids:

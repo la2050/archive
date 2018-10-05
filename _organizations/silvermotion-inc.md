@@ -32,6 +32,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/equiz-fun-and-free-trivia-app'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      eQuiz is a fun and free trivia app that brings the world together through
+      their passion for knowledge.
 title: 'SilverMotion, Inc.'
 uri: /organizations/silvermotion-inc/
 extrapolated_project_ids:

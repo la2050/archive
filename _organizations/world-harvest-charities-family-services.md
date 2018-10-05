@@ -33,6 +33,10 @@ aggregated:
       https://activation.la2050.org/live/world-harvest-charities-family-services/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Social supermarket World Harvest provides high quality foods and non-food
+      essentials to underserved Los Angeles families, regardless of income.
 title: World Harvest Charities & Family Services
 uri: /organizations/world-harvest-charities-family-services/
 extrapolated_project_ids: []

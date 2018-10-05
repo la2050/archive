@@ -34,6 +34,8 @@ aggregated:
       https://challenge.la2050.org/entry/turning-los-angeles-into-a-renewable-energy-leader
   year_submitted:
     - '2016'
+  org_summary:
+    - Food & Water Watch champions healthy food and clean water for all.
 title: Food & Water Watch
 uri: /organizations/food-water-watch/
 extrapolated_project_ids:

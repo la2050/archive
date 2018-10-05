@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LAReality.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The GIL is a premiere research and design think tank, developing
+      experimental games in areas including art, science, politics, and
+      learning.
 title: USC Game Innovation Lab
 uri: /organizations/usc-game-innovation-lab/
 extrapolated_project_ids:

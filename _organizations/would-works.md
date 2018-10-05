@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/would-works.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Would-Works CREATES opportunities for men and women living in poverty in
+      Los Angeles to work for specific goals by CREATING quality products
 title: Would-Works
 uri: /organizations/would-works/
 extrapolated_project_ids:

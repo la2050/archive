@@ -35,6 +35,17 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/reclaimedpark.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      The foundation is a collaboration of two urban visionaries â€“ Xander
+      Tertychny and Eric Solis, who have both graduated from USC with a degree
+      in Architecture. Xander has been involved with organizations such as
+      Global Architecture Brigades and helped design and fundraise for projects
+      benefiting underprivileged communities in Central America. He currently
+      works for June Street Architecture. Eric currently works at HNTB and is
+      part of the new 6th Street Viaduct project team, working with city
+      officials and community leaders on creating successful urban public spaces
+      for the Los Angeles community.
 title: Urban Reclaim
 uri: /organizations/urban-reclaim/
 extrapolated_project_ids:

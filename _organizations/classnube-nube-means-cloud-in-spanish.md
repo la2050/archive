@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/classnube.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We make software to help students and teachers learn and teach in truly
+      innovative and collaborative ways. We help students develop their academic
+      reputation through their work, feedback ratings, and teachers easily share
+      agendas and assignments.
 title: ClassNube (Nube means Cloud in Spanish)
 uri: /organizations/classnube-nube-means-cloud-in-spanish/
 extrapolated_project_ids:

@@ -36,6 +36,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      With a theme of "The Connected City; A World Connected," we are bringing
+      the World’s Fair to Los Angeles in 2022-2024!
+    - >-
+      Organization plans, organizes, develops and operates the LAWF with
+      significant support from volunteers.
 title: 'Los Angeles World''s Fair, FPC'
 uri: /organizations/los-angeles-worlds-fair-fpc/
 extrapolated_project_ids:

@@ -39,6 +39,11 @@ aggregated:
     - 'https://activation.la2050.org/learn/common-sense/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Common Sense is the leading independent nonprofit organization dedicated
+      to helping kids thrive in a world of media and technology by providing
+      unbiased information, advice, and innovative tools.
 title: Common Sense
 uri: /organizations/common-sense/
 extrapolated_project_ids:

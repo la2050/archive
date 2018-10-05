@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/WheelsOfHopeWelding.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Train and certify in welding hard to employ people, such as former gang
+      members, homeless, ex-convicts and low income minorities.
 title: 'Wheels of Hope LA, Fred Jordan Mission'
 uri: /organizations/wheels-of-hope-la-fred-jordan-mission/
 extrapolated_project_ids:

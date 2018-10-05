@@ -33,6 +33,12 @@ aggregated:
       http://maker.good.is/myla2050connect2015/projects/BallonaBikePedBridge.html
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      THarchitecture is a community minded Architecture firm seeking projects to
+      provide a positive meaningful impact within our built environment in Los
+      Angeles. As Architects we can bring together Community Stakeholders,
+      Governmental Agencies and NPOs.
 title: Tagliaferri Howard Architecture
 uri: /organizations/tagliaferri-howard-architecture/
 extrapolated_project_ids:

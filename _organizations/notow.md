@@ -44,6 +44,11 @@ aggregated:
     - 'https://activation.la2050.org/live/notow/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      NoTow is developing a mobile application to prevent parking tickets and
+      towing by determining the user's ability to park and length of time by
+      scanning parking signs.
 title: NoTow
 uri: /organizations/notow/
 extrapolated_project_ids:

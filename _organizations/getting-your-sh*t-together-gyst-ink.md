@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/GYSTCloud4Art.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      With our mission to make life better for artists, GYST-Ink provides
+      information, technology and solutions created by artists for artists.
 title: Getting Your Sh*t Together (GYST-INK)
 uri: /organizations/getting-your-sh*t-together-gyst-ink/
 extrapolated_project_ids:

@@ -38,6 +38,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2014'
+  org_summary:
+    - >-
+      RaiseAChild leads the nation in building loving families for foster
+      children by recruiting, retaining & supporting foster/adoptive parents to
+      address the needs of 437,000 children in foster care.
+    - >-
+      RaiseAChild.US (RAC) encourages the LGBT community to build foster/adopt
+      families to answer the needs of the 20,000 kids in foster care.
 title: Raise A Child Inc. / RaiseAChild.US
 uri: /organizations/raise-a-child-inc-raiseachild-us/
 extrapolated_project_ids:

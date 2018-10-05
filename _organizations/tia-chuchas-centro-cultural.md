@@ -35,6 +35,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
+  org_summary:
+    - >-
+      Tia Chucha’s cultural center and bookstore supports and promotes the
+      growth, healing and holistic learning of our community through the arts
+      and literacy, thereby activating creativity, imagination and expression to
+      improve our quality of life.
+    - "The Northeast San Fernando Valley is a community of 500,000 â€“ the size of the City of Oakland -- yet it had no bookstores, movie houses, art galleries, or full fledged cultural spaces until Tia Chucha's opened its doors twelve years ago. We now provide a bookstore, a deli/ artisan shop, arts workshops, an art gallery, film nights, weekly Open Mics, community dialogues, and author readings. In addition we host Young Warriors, a youth empowerment group, often working with troubled youth through mentors, rites of passage, and the arts as well as own poetry press, Tia Chucha Press, and the only outdoor annual literacy festival for the greater San Fernando Valley: â€œCelebrating Words: Written, Performed & Sung.â€\x9D We have a Mexica (so-called Aztec) danza resident group, Temachtia Quetzalcoatl, officially sanctioned to teach and perform this art form from pre-conquest Mexico and Central America. Also since Tia Chucha's creation we've seen the birth of independent groups like El Hormiguero (the Anthill), Bikesanos Bike Club, the San Fernando Arts Collective, Youth Speak Collective's Sports, Mural, Gardening and Digital Arts projects, and the establishment of a new high school with academies in Social Justice and Humanities, the Arts as well as Engineering and Technology called the Cesar Chavez Learning Academies. Our presence in a mostly run-down strip mall with many uninhabited spaces has brought new small businesses and even a major market chain. Tia Chucha's has proven that the arts stimulates economic activity while helping reduce violence, apathy, and low school participation."
 title: Tia Chucha's Centro Cultural
 uri: /organizations/tia-chuchas-centro-cultural/
 extrapolated_project_ids:

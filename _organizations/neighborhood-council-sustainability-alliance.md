@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/coolblocksla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Neighborhood Council Sustainability Alliance (NCSA) advances
+      sustainability and resilience across Los Angeles through advocacy, sharing
+      of best practices, and community action.
 title: Neighborhood Council Sustainability Alliance
 uri: /organizations/neighborhood-council-sustainability-alliance/
 extrapolated_project_ids:

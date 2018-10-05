@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/pwrdby.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We make mobile platforms for nonprofits to connect and deeply engage their
+      constituents.
 title: PwrdBy
 uri: /organizations/pwrdby/
 extrapolated_project_ids:

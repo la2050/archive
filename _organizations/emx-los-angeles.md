@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/emx-la-noho-artwalk-a-platform-for-educating-engaging-the-community-through-electronic-music
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      EMX is a LA-based electronic music community providing upcoming artists a
+      platform for artistic development, cross-generational educational
+      programs, safe event practices, and community engagement.
 title: EMX Los Angeles
 uri: /organizations/emx-los-angeles/
 extrapolated_project_ids:

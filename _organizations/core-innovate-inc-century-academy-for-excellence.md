@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/inglewood-speaks-young-podcasters-discover-la2050s-homegrown-heroes
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Core Innovate is an education technology and support services business
+      that supports educators in strategic instructional planning aimed at
+      removing barriers to powerful communication for students.
 title: 'Core Innovate, Inc. & Century Academy for Excellence'
 uri: /organizations/core-innovate-inc-century-academy-for-excellence/
 extrapolated_project_ids:

@@ -36,6 +36,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/LAEconomicGrowthPlan.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      As LA County’s designated economic development leadership organization for
+      over 34 years, the LAEDC’s purpose is to improve standards of living for
+      LA County’s residents by growing overall economic prosperity.
 title: Los Angeles County Economic Development Corporation
 uri: /organizations/los-angeles-county-economic-development-corporation/
 extrapolated_project_ids:

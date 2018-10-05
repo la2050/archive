@@ -42,6 +42,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Tierra empowers people with disabilities to fulfill their potential and
+      desire to become productive citizens who are accepted, included, and
+      valued for their contributions to the community.
+    - >-
+      Tierra del Sol Foundation enables adults with moderate to severe
+      developmental disabilities to realize their greatest human potential,
+      become as independent as possible within their communities, and establish
+      a valued role in society.
 title: Tierra del Sol Foundation
 uri: /organizations/tierra-del-sol-foundation/
 extrapolated_project_ids:

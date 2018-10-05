@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Hunger Action LA fights hunger and promotes healthy eating through
+      advocacy, education and direct service.
 title: Hunger Action Los Angeles
 uri: /organizations/hunger-action-los-angeles/
 extrapolated_project_ids: []

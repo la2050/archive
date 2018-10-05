@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/trojanswimclub.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Trojan Swim Club operates both a fee-based competitive swim program
+      and a free outreach program that provides school-based swimming
+      instruction designed to empower underserved Los Angeles youth to develop
+      healthier lifestyles.
 title: Trojan Swim Club
 uri: /organizations/trojan-swim-club/
 extrapolated_project_ids:
