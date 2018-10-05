@@ -29,7 +29,7 @@ max-width: none;margin-bottom: 4.5rem; text-shadow: 0 0 2em rgba(0, 0, 0, 1);">
 
 
 <details open>
-<summary>
+<summary onclick="if (event.target.nodeName.toLowerCase() != 'a') event.preventDefault()">
 {% unless page.is_search_results %}
 <p>
   <strong>Search</strong> with keywords like <a style="color: inherit;" href="/search/?keywords=schools">schools</a>, <a style="color: inherit;" href="/search/?keywords=housing">housing</a> or <a style="color: inherit;" href="/search/?keywords=seniors">seniors</a>
