@@ -589,11 +589,18 @@
   }
 
 
+main > h1:first-child {
+  padding-top: 3.75rem;
+}
+
 @media (min-width: 40em) {
   main > h1:first-child {
-    margin-top: -3rem;
     padding: 6rem 3rem 6rem;
   }
 }
 
-
+@media (min-width: 70em) {
+  main > h1:first-child {
+    margin-top: -3rem;
+  }
+}
