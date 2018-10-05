@@ -15,7 +15,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/Vda4r42ouZQ/maxresdefault.jpg'
+project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
 project_video: ''
 org_summary: >-
   CWC MV is a diverse public school with a rigorous, experimental learning
