@@ -17,7 +17,8 @@ twitter: '@MoveLATransit'
 instagram: ''
 facebook: 'https://www.facebook.com/movelatransit'
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/wO0XVgSOcoY/maxresdefault.jpg'
+project_image: >-
+  https://d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png?1534828727
 project_video: ''
 org_summary: >-
   We’re organizing LA County to support more transportation choices in

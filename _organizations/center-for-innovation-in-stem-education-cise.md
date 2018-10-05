@@ -17,7 +17,7 @@ instagram: csudominguezhills
 facebook: 'https://www.facebook.com/CSUDH/'
 org_type: Government
 project_image: >-
-  https://activation.la2050.org/assets/images/learn/2048-wide/center-for-innovation-in-stem-education-cise.jpg
+  https://scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg
 project_video: ''
 org_summary: >-
   CISE brings STEM to the forefront of K-16 education by partnering with

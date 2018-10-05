@@ -663,6 +663,10 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
     })
   }
 
+  if (imagesToUpdate[data.organization_id]) {
+    data.project_image = imagesToUpdate[data.organization_id]
+  }
+
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
 `---
@@ -699,6 +703,38 @@ ${yaml.safeDump(data)}
 // let orderCursor = 0
 
 let previously_shown_organization_ids = {}
+
+const imagesToUpdate = {
+
+// Hammer Museum
+// https://hammer.ucla.edu/programs-events/2018/10/members-friends-and-family-preview-of-fall-exhibitions/
+"2013087": "https://hammer.ucla.edu/legacy/_processed_/csm_43551390702_376d278a6b_o_114764d65b.jpg", 
+
+// Center for Innovation in STEM Education (CISE)
+// https://www.instagram.com/p/BmMaZjylW_V/?hl=en&taken-by=la2050
+"2018016": "https://scontent-lga3-1.cdninstagram.com/vp/87312e416f30060766fe7fda3f4d32f7/5C3CA11B/t51.2885-15/e35/38081903_369052070293126_155768293343363072_n.jpg",
+
+// Citizen of the World Charter Schools
+// http://www.cwclosangeles.org/our-schools/
+"2016038": "http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg",
+
+// Move LA
+// ?
+"2018084": "https://d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png?1534828727",
+
+// Enrich LA
+// ?
+"2014032": "http://enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg",
+
+// The Trust for Public Land
+// https://www.tpl.org/
+"2018123": "https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri",
+
+// Trust South LA
+// https://www.instagram.com/p/BMw5UEHjQaH/?taken-by=trust_south_la
+"2013199": "https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg",
+
+}
 
 function generateAllCollections(file_name) {
 

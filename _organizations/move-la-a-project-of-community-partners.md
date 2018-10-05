@@ -18,7 +18,7 @@ instagram: '@movelatransit'
 facebook: 'https://www.facebook.com/movelatransit/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/assets/images/live/2048-wide/move-la-a-project-of-community-partners.jpg
+  https://d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png?1534828727
 project_video: 'https://youtu.be/4JnqpY0nP4s'
 org_summary: >-
   We are coalition builders who instigated the Measure R and M campaigns that

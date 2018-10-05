@@ -17,7 +17,7 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/3CNwJdOyIDQ/maxresdefault.jpg'
+project_image: 'http://enrichla.org/wp-content/uploads/2018/05/IMG_0804-1050x788.jpg'
 project_video: ''
 org_summary: >-
   In less than two years as a designated non-profit organization, EnrichLA has
