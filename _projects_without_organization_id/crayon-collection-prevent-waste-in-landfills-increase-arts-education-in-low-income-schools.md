@@ -34,24 +34,14 @@ Where do you hope this activation or your organization will be in five years?: >
   standard-compliant curricula for underserved schools; we want to involve more
   kids in our Color Kindness project to increase a sense of empathy and exercise
   social responsibility.
-impact_metrics: >-
-  ["Proficiency in English and Language Arts and Math","Enrollment in early care
-  and education programs","Students’ immersion in Science, Technology,
-  Engineering, and Math content"]
-make_la_great: >-
-  Our organization is based in Los Angeles and while we have activations all
-  over the country, we tend to work with local artists for our Arts Education
-  program. These artists develop art projects using crayons that are then
-  applied to Common Core standards. Research shows that students who have access
-  to art tend to do better in all subjects. These art projects are posted on our
-  website and made available for any school or institution to download and apply
-  to their classrooms.
+impact_metrics: ''
+make_la_great: ''
 category: learn
-organization_id: '2018032'
+organization_id: ''
 project_image: >-
   https://activation.la2050.org/assets/images/learn/2048-wide/crayon-collection.jpg
-project_video: 'https://www.youtube.com/watch?v=oGbTN4Ysvfw'
-project_id_3: '8102032'
+project_video: ''
+project_id_3: ''
 year_submitted: 2018
 organization_name: Crayon Collection
 project_proposal_description: >-

@@ -47,6 +47,7 @@ function stringToURI(str) {
     .replace(/\_/g, '-')
     .replace(/\,/g, "-")
     .replace(/\+/g, "-")
+    .replace(/\>/g, "-")
     .replace(/\r\n?/, '-')
     .replace(/\'/g, '')
     .replace(/\‘/g, '')
