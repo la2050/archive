@@ -52,6 +52,7 @@ function stringToURI(str) {
     .replace(/\_/g, '-')
     .replace(/\,/g, "-")
     .replace(/\+/g, "-")
+    .replace(/\>/g, "-")
     .replace(/\r\n?/, '-')
     .replace(/\'/g, '')
     .replace(/\‘/g, '')
@@ -596,6 +597,7 @@ missingImages.forEach(image => {
 // console.dir(missingImagesLookup)
 
 
+let writtenPaths = {}
 function createMarkdownFile(data) {
 
 
@@ -795,11 +797,25 @@ ${yaml.safeDump(data)}
 ---
 `
 
+  if (data.project_id == "") {
+    writePath = '../_projects_without_project_id'
+  } else if (data.organization_id == "") {
+    writePath = '../_projects_without_organization_id'
+  }
+
+  let fullPathToWrite = writePath + '/' +  filename
+  if (writtenPaths[fullPathToWrite]) {
+    fullPathToWrite = fullPathToWrite + "__" + writtenPaths[fullPathToWrite]
+    writtenPaths[fullPathToWrite]++
+  } else {
+    writtenPaths[fullPathToWrite] = 1
+  }
+
   mkdirp(writePath, function (err) {
     if (err) {
       console.error(err)
     } else {
-      fs.writeFileSync(writePath + '/' +  filename + '.md', output, 'utf8', (err) => {
+      fs.writeFileSync(fullPathToWrite + '.md', output, 'utf8', (err) => {
         if (err) {
           console.log(err)
         }
