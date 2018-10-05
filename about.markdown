@@ -1,13 +1,13 @@
 ---
-title: About the My LA2050 Idea Archive
+title: About the My LA2050 Ideas Archive
 body_class: strawberry
 main_class: standard-layout
 ---
 
 # About
 
-<div class="introduction" markdown="1">
-<p style="max-width: 33em">The My LA2050 Idea Archive is searchable database of great organizations and bright ideas from the <a href="https://activation.la2050.org">My LA2050 Challenges</a>.</p>
+<div class="introduction">
+<p style="max-width: 33em">The My LA2050 Ideas Archive is searchable database of great organizations and bright ideas from the <a href="https://activation.la2050.org">My LA2050 Challenges</a>.</p>
 </div>
 
 ## Over 1,000 organizations have submitted ideas
@@ -16,7 +16,7 @@ These organizations are non-profits, for-profits, individuals, and government ag
 
 This website is a collection of information about the organizations, about their projects, and in some cases videos that highlight their work.
 
-It is our hope that you’ll use the Idea Archive to discover local organizations doing great work in Los Angeles, be inspired by their ideas, and find ways to get involved.
+It is our hope that you’ll use the Ideas Archive to discover local organizations doing great work in Los Angeles, be inspired by their ideas, and find ways to get involved.
 
 ## How to use the archive
 
