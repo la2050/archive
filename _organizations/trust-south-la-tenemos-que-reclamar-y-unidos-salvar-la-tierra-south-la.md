@@ -15,7 +15,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/zwlibJLtPOE/maxresdefault.jpg'
+project_image: >-
+  https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg
 project_video: ''
 org_summary: >-
   TRUST South LA works to establish community control over economic resources.

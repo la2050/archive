@@ -17,7 +17,8 @@ twitter: www.twitter.com/MoveLAtransit
 instagram: ''
 facebook: www.facebook.com/MoveLA
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/uiAFCgZ6YRw/maxresdefault.jpg'
+project_image: >-
+  https://d3n8a8pro7vhmx.cloudfront.net/movela/pages/7205/attachments/original/1534828727/escooter.png?1534828727
 project_video: ''
 org_summary: >-
   Move LA is building a broad constituency to advocate for the development of a

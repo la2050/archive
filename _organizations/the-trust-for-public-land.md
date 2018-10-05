@@ -16,7 +16,7 @@ instagram: trustforpublicland
 facebook: 'https://www.facebook.com/TheTrustforPublicLand/'
 org_type: Nonprofit
 project_image: >-
-  https://activation.la2050.org/assets/images/play/2048-wide/the-trust-for-public-land.jpg
+  https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri
 project_video: ''
 org_summary: >-
   The Trust for Public Land creates parks and protects land for people, ensuring

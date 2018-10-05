@@ -16,7 +16,7 @@ instagram: tpl.org
 facebook: trustforpublicland
 org_type: Nonprofit
 project_image: >-
-  https://skild-prod.s3.amazonaws.com/myla2050/images/custom540/6644400825741-team90.jpg
+  https://www.tpl.org/sites/default/files/styles/1400x609/public/10mw_nationalwalktoaparkday_homepage1400x609_10012018.jpg?itok=OHPrb8Ri
 project_video: 'https://www.youtube.com/embed/bmuk6k_61Tc?rel=0&amp;showinfo=0'
 org_summary: >-
   The Trust for Public Land creates parks and protects land for people, ensuring
