@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/ProjectBackboard.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Renovate basketball courts and install art in public parks in order to
+      create fun and inviting places for basketball and other activity that
+      inspires creative, inter-generational play, increases park usage and
+      strengthens communities.
 title: Project Backboard
 uri: /organizations/project-backboard/
 extrapolated_project_ids:

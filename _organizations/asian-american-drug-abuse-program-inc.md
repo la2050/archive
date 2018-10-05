@@ -36,6 +36,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/SchoolMentoring.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      AADAP builds upon over 40 years of successful experience in serving and
+      providing comprehensive services to youth and families in South Los
+      Angeles. AADAPâ€™s demonstrated track record and success of providing
+      services to gang involved youth will ensure that this proposed program
+      will complement the agencyâ€™s dedicated efforts of engaging the youth in
+      pro-social activities, assisting youth in becoming more responsible and
+      completing high school, saving lives, and ensuring public safety.
 title: 'Asian American Drug Abuse Program, Inc'
 uri: /organizations/asian-american-drug-abuse-program-inc/
 extrapolated_project_ids:

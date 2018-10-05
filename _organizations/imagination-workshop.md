@@ -27,6 +27,8 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - We help mental health consumers live fuller lives using the theater arts.
 title: Imagination Workshop
 uri: /organizations/imagination-workshop/
 extrapolated_project_ids: []

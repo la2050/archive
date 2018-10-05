@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Crossroads assists formerly incarcerated women in becoming self-sufficient
+      by providing comprehensive services in a home-like environment.
 title: Crossroads
 uri: /organizations/crossroads/
 extrapolated_project_ids:

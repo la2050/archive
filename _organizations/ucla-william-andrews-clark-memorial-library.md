@@ -39,6 +39,8 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Clark.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - "The Library has offered a range of public programs and theater productions, taking advantage of the collectionâ€™s focus on the 17th- and 18th-century, one of the great ages of classical drama. Most recently, the Clark Library partnered with L.A. Theater Works (LATW) to present â€œPride and Prejudiceâ€\x9D in the Libraryâ€™s drawing room for a live audience and radio broadcast. Other indoor performances have included the operatic scena â€œIl Combattimento di Tancredi e Clorindaâ€\x9D (with Opera UCLA), and William Wycherleyâ€™s â€œThe Country Wifeâ€\x9D in collaboration with UCLAâ€™s School of Theater, Film and Television. Theater performances build on the tremendous success of the Clarkâ€™s Chamber Music Series, now entering its 20th year, which draws over 700 people each year."
 title: UCLA William Andrews Clark Memorial Library
 uri: /organizations/ucla-william-andrews-clark-memorial-library/
 extrapolated_project_ids:

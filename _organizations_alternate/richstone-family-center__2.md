@@ -36,6 +36,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Richstone is dedicated to treating and preventing child abuse and trauma;
+      strengthening and educating families; and preventing violence in families,
+      schools and communties.
+    - >-
+      Richstone is dedicated to treating and preventing child abuse and trauma;
+      strengthening and educating families; and eliminating violence in
+      families, schools, and communities.
 title: Richstone Family Center
 uri: /organizations/richstone-family-center/
 extrapolated_project_ids:

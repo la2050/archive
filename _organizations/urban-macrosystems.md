@@ -61,6 +61,40 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/NRT.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      <p>Urban Macrosystemsâ€™ partners have collaborated on several projects
+      prior to its inception:</p>
+       
+       
+       
+       
+       
+       <p>MultipliCity â€“ A public art demonstration project for the Los Angeles County MTA, 2000-2003</p>
+       
+       
+       <p>Canal du Rhone au Rhin, a Masterplan for Art, Saint Symphorien, France, 2004 </p>
+       
+       
+       <p>Mission Central Market, South Pasadena 2004</p>
+       
+       
+       <p>Bug Screen â€“ A Sculpture in Celebrezze Plaza, Cleveland, 2007</p>
+       
+       
+       <p>After the city, this (is how we live). â€“ A Pamphlet published by the Los Angeles Forum for Architecture and Urban Design, 2008</p>
+       
+       
+       <p>Toluca Lake Executive Building, Burbank, 2009</p>
+       
+       
+       <p>Wind Thing â€“ A Sculpture at the W-Hollywood, 2011</p>
+       
+       
+       <p>Woven Walk â€“ A sculpture for LAX Tom Bradley International Terminal, 2013</p>
+       
+       
+       <p>Birds Words â€“ A series of structures for the North Embarcadero Visionary Plan, San Diego 2014</p>
 title: Urban Macrosystems
 uri: /organizations/urban-macrosystems/
 extrapolated_project_ids:

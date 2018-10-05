@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/colossi.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Our company Colossi is about creating interactive games for giant screens,
+      like at sports events and other venues, where the whole audience can play
+      at once, replacing the traditional non-interactive content that usually
+      takes place.
 title: Colossi
 uri: /organizations/colossi/
 extrapolated_project_ids:

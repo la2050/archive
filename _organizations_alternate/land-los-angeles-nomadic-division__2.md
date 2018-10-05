@@ -35,6 +35,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      LAND presents museum-quality contemporary art for broad audiences to
+      encounter in their everyday lives, enabling artists to work in
+      nontraditional sites, expanding their creative practice & audience.
+    - >-
+      LAND (Los Angeles Nomadic Division) is a non-profit committed to curating
+      site-specific contemporary public art accessible to all.
 title: LAND (Los Angeles Nomadic Division)
 uri: /organizations/land-los-angeles-nomadic-division/
 extrapolated_project_ids:

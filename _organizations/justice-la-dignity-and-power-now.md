@@ -37,6 +37,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/justice-la-dignity-and-power-now/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Justice LA seeks to reclaim, reimagine, and reinvest the $3.5 billion
+      allocated to building two new jails into community-based alternatives and
+      to reform LA County’s cash bail system.
 title: Justice LA | Dignity and Power Now
 uri: /organizations/justice-la-dignity-and-power-now/
 extrapolated_project_ids: []

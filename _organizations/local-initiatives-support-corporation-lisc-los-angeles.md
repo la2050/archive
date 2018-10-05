@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/CreativepLAce.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LISC equips struggling communities with the capital, strategy and know-how
+      to become places where people and businesses can thrive.
 title: Local Initiatives Support Corporation (LISC) Los Angeles
 uri: /organizations/local-initiatives-support-corporation-lisc-los-angeles/
 extrapolated_project_ids:

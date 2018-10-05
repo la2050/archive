@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/ignite22-a-tech-expo-and-collaborative-experience-celebrating-innovations-shaping-the-22nd-century
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Braid Theory weaves together entrepreneurs, investors and industry
+      influencers to accelerate adoption of transformative technologies, drive
+      market growth and create profitable collaborations.
 title: 'Braid Theory, Inc.'
 uri: /organizations/braid-theory-inc/
 extrapolated_project_ids:

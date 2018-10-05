@@ -24,6 +24,8 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - Mushroom Learning Teaches Kids to Code!
 title: Mushroom Learning
 uri: /organizations/mushroom-learning/
 extrapolated_project_ids:

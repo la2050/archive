@@ -72,6 +72,11 @@ aggregated:
       https://activation.la2050.org/live/environment-california-research-policy-center/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Environment California Research & Policy Center is dedicated to protecting
+      the places we love, advancing the environmental values we share, and
+      winning real results for our environment.
 title: Environment California Research & Policy Center
 uri: /organizations/environment-california-research-policy-center/
 extrapolated_project_ids: []

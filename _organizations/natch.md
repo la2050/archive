@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are creating a marketplace app where anybody in Los Angeles can create
+      their own local craft shops, and sell and delivery anything they make
+      (foods, crafts, clothes, etc.) to other locals.
 title: Natch
 uri: /organizations/natch/
 extrapolated_project_ids:

@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Through multimedia production and storytelling workshops, our organization
+      connects people who are dealing with love loss with those who have been
+      transformed through it.
 title: 'The Love Story and The Love Story Media, Inc.'
 uri: /organizations/the-love-story-and-the-love-story-media-inc/
 extrapolated_project_ids:

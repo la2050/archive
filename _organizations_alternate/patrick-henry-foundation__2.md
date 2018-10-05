@@ -40,6 +40,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Our mission is to make Patrick Henry School an exciting place to learn
+      through programs that promote personal growth, cultural connections, and
+      creative learning experiences.
+    - >-
+      Patrick Henry Foundation provides resources for educational, cultural and
+      enrichment activities to increase bilingual education in California
+      elementary schools.
 title: Patrick Henry Foundation
 uri: /organizations/patrick-henry-foundation/
 extrapolated_project_ids:

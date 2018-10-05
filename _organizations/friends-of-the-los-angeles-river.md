@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/rover.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      FoLAR strives for a swimmable, fishable, boatable, bikeable LA River
+      through advocacy, education and wise stewardship.
 title: Friends of the Los Angeles River
 uri: /organizations/friends-of-the-los-angeles-river/
 extrapolated_project_ids:

@@ -35,6 +35,15 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Artistmovement.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Mural Mile has become a necessary project for artists, community members,
+      and art enthusiasts. There have been a dozen new murals added to Van Nuys
+      Blvd. in Pacoima, all in the past 2 years. This has been a grassroots
+      effort, propelled forward by a core group of public artists who
+      collaborate with local non-profits, but who can also lead a self-funded
+      project with the community. The Pacoima Art Movement has restored pride in
+      the community.
 title: Valle Artists
 uri: /organizations/valle-artists/
 extrapolated_project_ids:

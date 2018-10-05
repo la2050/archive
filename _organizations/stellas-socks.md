@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/stellas-socks/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Stella’s Socks is a 501c3 started by 13-year old Stella Vaughan Verk and
+      her father, Jonathan which procures and distributes 100,000 pairs of socks
+      to homeless and homeless youth across Los Angeles.
 title: Stella's Socks
 uri: /organizations/stellas-socks/
 extrapolated_project_ids:

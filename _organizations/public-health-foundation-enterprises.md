@@ -33,6 +33,10 @@ aggregated:
       https://challenge.la2050.org/entry/little-by-little-school-readiness-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      PHFE is the nation’s premier catalyst for advancing program and support
+      services to optimize population health
 title: Public Health Foundation Enterprises
 uri: /organizations/public-health-foundation-enterprises/
 extrapolated_project_ids:

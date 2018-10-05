@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/llcf-adventure-playground-embracing-play-discovering-passions-and-creating-community!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Our focus is to embrace, equip, and empower individuals to make a change
+      in their lives as well as others through a variety of outreach programs
+      geared to harness one’s gifts and passions.
 title: Light and Life Christian Fellowship Community Center
 uri: /organizations/light-and-life-christian-fellowship-community-center/
 extrapolated_project_ids:

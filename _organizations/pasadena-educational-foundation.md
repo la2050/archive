@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/app-academy-mobile-web-and-game-development-for-high-school-students
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Pasadena Educational Foundation supports, enhances and supplements the
+      programs, initiatives, and priorities of the Pasadena Unified School
+      District.
 title: Pasadena Educational Foundation
 uri: /organizations/pasadena-educational-foundation/
 extrapolated_project_ids:

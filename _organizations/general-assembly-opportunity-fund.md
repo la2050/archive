@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      General Assembly delivers best-in-class practical education in technology,
+      business and design
 title: General Assembly Opportunity Fund
 uri: /organizations/general-assembly-opportunity-fund/
 extrapolated_project_ids:

@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/CivicActionProject.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      CRF changes kids' lives by helping them become engaged citizens who know
+      how to access local government to build a stronger LA2050.
 title: 'Constitutional Rights Foundation, CRF'
 uri: /organizations/constitutional-rights-foundation-crf/
 extrapolated_project_ids:

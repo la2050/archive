@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/artsandfitness.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Will & Company is a non-profit that produces theater for social change at
+      the grassroots level in Los Angeles.
 title: Will & Company
 uri: /organizations/will-company/
 extrapolated_project_ids:

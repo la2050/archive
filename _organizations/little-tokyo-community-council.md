@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The LTCC is a coalition of businesses, nonprofits, residents, and others
+      in Little Tokyo, of which we represent and advocate for.
 title: Little Tokyo Community Council
 uri: /organizations/little-tokyo-community-council/
 extrapolated_project_ids: []

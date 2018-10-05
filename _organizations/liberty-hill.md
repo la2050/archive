@@ -67,6 +67,45 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/bootcamp2050.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Liberty Hill invests in community groups on the frontlines of change with
+      critical resources that are needed to advance their work and win. We
+      supplement those financial resources with a highly impactful training
+      program designed to advance grassroots campaigns for social change. 
+       
+       
+       
+       
+       
+       Over the last 10 years, this is what Liberty Hill has helped our grantees deliver for Los Angeles:
+       
+       
+       
+       
+       
+       â€¢ Nearly 100,000 low-income men and women registered to vote
+       
+       
+       â€¢ Legal safeguards to protect California's 25,000 LGBTQ high school students from harassment and violence
+       
+       
+       â€¢ 25,000 men and women raised above the poverty level by living wage jobs
+       
+       
+       â€¢ $400 million secured for parks in low-income neighborhoods
+       
+       
+       â€¢ 400,000 L.A. bus riders ride the largest clean-fuel bus fleet in the country
+       
+       
+       â€¢ $1.74 million in back wages for men and women working at poverty wages in Koreatown supermarkets
+       
+       
+       â€¢ 300,000 bottle-fed babies safe from the toxic chemical BPA
+       
+       
+       â€¢ 30,000 L.A. transgender persons with improved access to medical care
 title: Liberty Hill
 uri: /organizations/liberty-hill/
 extrapolated_project_ids:

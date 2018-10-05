@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/trailcity.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We use emerging technologies and advanced research to create new ways for
+      communities to use public space for discovery and interpretation.
 title: Interpretive Media Laboratory (IMLab)
 uri: /organizations/interpretive-media-laboratory-imlab/
 extrapolated_project_ids:

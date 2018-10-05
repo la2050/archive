@@ -30,6 +30,12 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      We educate and enlist humanity to explore, enjoy, and protect the wild
+      places of the earth and to practice and promote the responsible use of the
+      earth's ecosystems and resources.
+    - 'We are dedicated to exploring, enjoying and protecting the planet.'
 title: 'The Sierra Club (Fiscal Sponsor: The Sierra Club Foundation)'
 uri: /organizations/the-sierra-club-fiscal-sponsor-the-sierra-club-foundation/
 extrapolated_project_ids: []

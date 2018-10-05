@@ -46,6 +46,19 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      DSTL Arts & The PLACE support & nurture emerging artists & arts
+      administrators through mentorship opportunities, arts-education programs &
+      events, & arts-related work-readiness development.
+    - >-
+      DSTL Arts, Emerging Arts Leaders/LA & Trade School LA unite as The
+      Partnership for Los Angeles' Creative Education, supporting at-risk youth,
+      their families & emerging creative professionals throughout LA via
+      mentorship & free-to-low-cost workshops.
+    - >-
+      DSTL Arts is a nonprofit arts mentorship organization that teaches,
+      inspires and hires creative at-risk youth ages 16–21 years old.
 title: 'DSTL Arts, Emerging Arts Leaders/Los Angeles, Trade School Los Angeles'
 uri: >-
   /organizations/dstl-arts-emerging-arts-leaders-los-angeles-trade-school-los-angeles/

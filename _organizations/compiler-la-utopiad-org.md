@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/intersection_repair.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Concerned Capital creates business ownership opportunities for long-term
+      blue collar workers in privately held Southern California companies in
+      order to build wealth in minority communities and preserve jobs.
 title: 'Compiler LA, Utopiad.org'
 uri: /organizations/compiler-la-utopiad-org/
 extrapolated_project_ids: []

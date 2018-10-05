@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/schkapf.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Schkapf incubates Los Angeles performing artists and culturemakers through
+      mentorship, shared resources and networking.
 title: Schkapf
 uri: /organizations/schkapf/
 extrapolated_project_ids:

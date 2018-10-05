@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/KASIF2050.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      To expand the perspective of young people, globally, and equip them with
+      the life skills necessary to fulfill a pro social role within their
+      respective community.
 title: Keith A. Somers International Foundation
 uri: /organizations/keith-a-somers-international-foundation/
 extrapolated_project_ids:

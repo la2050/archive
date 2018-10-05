@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Our Shakespeare programs provide underserved children with the camaraderie
+      of an arts community, while improving their literacy skills.
 title: Los Angeles Drama Club
 uri: /organizations/los-angeles-drama-club/
 extrapolated_project_ids:

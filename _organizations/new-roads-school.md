@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/uptogood-developing-tomorrows-impact-storytellers-and-campaigners-for-our-collective-future
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      New Roads School is a college prep program with a unique focus on social
+      justice and the arts, from which a richly diverse student population
+      develops independent thinking and expanding curiosity.
 title: New Roads School
 uri: /organizations/new-roads-school/
 extrapolated_project_ids:

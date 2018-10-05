@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/Art4Earth.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Earth Protect shares and creates stories about people and organizations
+      protecting the earth through its video focused web site and films.
 title: 'Earth Protect, Inc.'
 uri: /organizations/earth-protect-inc/
 extrapolated_project_ids:

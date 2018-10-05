@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/buildingresilienceLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      SCOPE builds community power in South LA to ensure equitable investment in
+      disadvantaged communities. USGBC-LA promotes sustainability and resilience
+      in LA’s built environment by delivering education, resources and
+      recognition.
 title: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)

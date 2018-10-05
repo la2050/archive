@@ -32,6 +32,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/off-peak-podcast'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LA Metro is a multimodal mobility agency that transports 1.4 million
+      passengers daily on bus, light rail, heavy rail, bus rapid transit.
 title: LA Metro
 uri: /organizations/la-metro/
 extrapolated_project_ids:

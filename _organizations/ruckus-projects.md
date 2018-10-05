@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/Leif.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Ruckus projects is a community of future makers coming together to launch
+      projects that matter.
 title: Ruckus Projects
 uri: /organizations/ruckus-projects/
 extrapolated_project_ids:

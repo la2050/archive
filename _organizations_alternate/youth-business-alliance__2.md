@@ -39,6 +39,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      We connect at risk and disadvantaged youth to life skills, local
+      professionals, and businesses.
+    - >-
+      The YBA is a private sector organization, funded by area businesses, that
+      focuses on bringing critical 21st century business skills and perspectives
+      into the classroom by leveraging business partnerships and resources from
+      the community.
 title: Youth Business Alliance
 uri: /organizations/youth-business-alliance/
 extrapolated_project_ids:

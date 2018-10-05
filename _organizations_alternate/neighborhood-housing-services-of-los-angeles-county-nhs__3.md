@@ -42,6 +42,23 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      NHS strengthens neighborhoods through the development of quality
+      affordable housing, the creation of affordable homeownership
+      opportunities, and by increasing the financial independence of families.
+    - >-
+      NHS strengthens neighborhoods through the development of quality
+      affordable housing, the creation of affordable homeownership
+      opportunities, and increasing the financial independence of families.
+    - >-
+      NHS strengthens neighborhoods through the development of quality
+      affordable housing, the creation of affordable homeownership
+      opportunities, and increasing the financial independence of families in
+      need.
+    - >-
+      NHS serves as a catalyst for local residents, business and government
+      representatives to work together to build stronger neighborhoods.
 title: Neighborhood Housing Services of Los Angeles County (NHS)
 uri: /organizations/neighborhood-housing-services-of-los-angeles-county-nhs/
 extrapolated_project_ids:

@@ -42,6 +42,11 @@ aggregated:
       https://activation.la2050.org/live/national-veterans-transition-services-inc-aka-reboot/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      REBOOT helps active military, veterans, and spouses in transitioning from
+      the military, workforce training, job placement/retention and needed
+      services while collaborating community resources.
 title: 'National Veterans Transition Services, Inc. AKA REBOOT'
 uri: /organizations/national-veterans-transition-services-inc-aka-reboot/
 extrapolated_project_ids: []

@@ -48,6 +48,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      Red Hen Press is committed to discovering and publishing works of literary
+      excellence, supporting diversity, and promoting literacy in our local
+      schools.
+    - >-
+      Red Hen Press is committed to publishing works of literary excellence,
+      supporting diversity, and promoting literacy in our local schools.
 title: Red Hen Press
 uri: /organizations/red-hen-press/
 extrapolated_project_ids:

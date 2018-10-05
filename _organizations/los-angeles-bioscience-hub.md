@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/BiotechLeaders.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LA Bioscience Hub (LABH) facilitates the creation of a thriving bioscience
+      cluster that fosters innovation, nurtures local talent, and creates
+      good-paying jobs in East LA’s LA Bioscience Corridor.
 title: Los Angeles Bioscience Hub
 uri: /organizations/los-angeles-bioscience-hub/
 extrapolated_project_ids:

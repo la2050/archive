@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/AllianceJSA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      JSA is a civic education organization that uses student-led on-campus
+      activities, debate, regional conferences, and summer residential
+      programming to help high school students develop academic skills,
+      leadership skills, and social capital.
 title: Junior Statesmen Foundation; Alliance College-Ready Public Schools
 uri: >-
   /organizations/junior-statesmen-foundation-alliance-college-ready-public-schools/

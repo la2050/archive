@@ -33,6 +33,8 @@ aggregated:
       https://challenge.la2050.org/entry/it-takes-a-village-to-reintegrate-the-homeless
   year_submitted:
     - '2016'
+  org_summary:
+    - General contractors for exterior property improvements
 title: Alliance Building & Construction Services
 uri: /organizations/alliance-building-construction-services/
 extrapolated_project_ids:

@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/lafdcpr.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The LAFD Foundation supports the LAFD in protecting life, property, and
+      the environment by providing essential equipment, training, and public
+      outreach programs, including L.A. youth-focused initiatives, to supplement
+      city resources.
 title: Los Angeles Fire Department Foundation
 uri: /organizations/los-angeles-fire-department-foundation/
 extrapolated_project_ids:

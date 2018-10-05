@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/CHIMEtime.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The mission of Heart and Soul Design Communications Center (HAS) is to
+      create a new paradigm of learning in under-served communities; we utilize
+      digital technology to teach youth 21st Century skills as a tool for
+      change.
 title: Heart and Soul Design Communications Center
 uri: /organizations/heart-and-soul-design-communications-center/
 extrapolated_project_ids:

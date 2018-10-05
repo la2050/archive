@@ -36,6 +36,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      We foster practices that awaken connection to self, others, and the
+      natural world; council - the circle practice of listening and speaking
+      from the heart - is central to all our initiatives.
+    - >-
+      Council in Schools brings council -- the practice of listening and
+      speaking from the heart -- into schools.
 title: The Ojai Foundation
 uri: /organizations/the-ojai-foundation/
 extrapolated_project_ids:

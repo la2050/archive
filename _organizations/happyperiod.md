@@ -36,6 +36,11 @@ aggregated:
     - 'https://activation.la2050.org/live/happyperiod/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      #HappyPeriod is a social movement aiming to eliminate the stigma
+      surrounding menstruation by providing menstrual products to homeless
+      communities through donation and volunteer opportunities.
 title: '#HappyPeriod'
 uri: /organizations/happyperiod/
 extrapolated_project_ids:

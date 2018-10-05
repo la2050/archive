@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/i3-arts-fest-an-interactive-immersive-and-innovative-public-arts-festival
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      I3 Arts Fest is a definitive demonstration of how community is built
+      through interactions with arts and culture and how this in turn creates
+      the foundation for a thriving and dynamic city.
 title: I3 Arts Fest
 uri: /organizations/i3-arts-fest/
 extrapolated_project_ids:

@@ -40,6 +40,19 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Mujeres de la Tierra is an environmental equity, non-profit focused on
+      healing La Madre Tierra that empowers women and their children to take
+      ownership and act on issues affecting their neighborhoods.
+    - >-
+      Mujeres de la Tierra (MDLT) supports women and families interested in
+      becoming active participants and decision makers in environmental and
+      social issues impacting their neighborhoods in the Southern California
+      area.
+    - >-
+      We support and encourage the building of healthier & thriving
+      neighborhoods through individual participation & collective action.
 title: Mujeres de la Tierra
 uri: /organizations/mujeres-de-la-tierra/
 extrapolated_project_ids:

@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/peermediationnetwork.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      INVLA staff and trained volunteer mediators provide peer mediation,
+      conflict resolution training, & program implementation for people aged
+      8-80, as well as Days of Dialogue, facilitated community dialogue sessions
+      on controversial public issues.
 title: The Institute for Nonviolence in Los Angeles
 uri: /organizations/the-institute-for-nonviolence-in-los-angeles/
 extrapolated_project_ids:

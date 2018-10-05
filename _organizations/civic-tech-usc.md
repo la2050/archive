@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/neighborhoodelect.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Based at the USC Annenberg School for Communication and Journalism, Civic
+      Tech USC is an initiative exploring how new technologies can help to
+      reimagine civic life and engage everyday people in improving their
+      communities.
 title: Civic Tech USC
 uri: /organizations/civic-tech-usc/
 extrapolated_project_ids:

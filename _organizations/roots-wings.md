@@ -43,6 +43,11 @@ aggregated:
     - 'https://activation.la2050.org/live/roots-wings/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We are a 501c3 non-profit organization bringing evidence-based parent
+      education, child & teen resilience building and whole school programs
+      proven to heal, protect and grow a better future.
 title: Roots & Wings
 uri: /organizations/roots-wings/
 extrapolated_project_ids: []

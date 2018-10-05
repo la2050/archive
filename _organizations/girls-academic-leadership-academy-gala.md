@@ -38,6 +38,16 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  org_summary:
+    - >-
+      Through a rigorous college preparatory curriculum, Girls Academic
+      Leadership Academy (GALA) provides girls with a clear pathway to college
+      in the fields of science, technology, engineering and math.
+    - >-
+      Through a highly rigorous college preparatory curriculum, the Girls
+      Academic Leadership Academy (GALA) will provide Los Angeles girls with a
+      clear pathway to college in the fields of mathematics, science,
+      engineering and technology.
 title: Girls Academic Leadership Academy (GALA)
 uri: /organizations/girls-academic-leadership-academy-gala/
 extrapolated_project_ids: []

@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CasaAmador.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Currently R4TT has one lot with three households. On average we work with
+      30 individuals per month. This our biggest achievement. Every time one of
+      our residents moves into stable permanent housing we have accomplished our
+      goal. Successful reintegration into society is our top priority.
 title: 'Reach For theTop, Inc.'
 uri: /organizations/reach-for-thetop-inc/
 extrapolated_project_ids:

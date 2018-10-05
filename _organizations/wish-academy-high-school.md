@@ -46,6 +46,11 @@ aggregated:
       https://challenge.la2050.org/entry/wish-academy-the-first-high-school-in-the-los-angeles-area-to-provide-inclusive-education
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Before WISH, we found ourselves without an inclusive community school
+      option for our children, with and without disabilities, in our
+      neighborhoods there aren't any inclusive high school options
 title: WISH Academy High School
 uri: /organizations/wish-academy-high-school/
 extrapolated_project_ids:

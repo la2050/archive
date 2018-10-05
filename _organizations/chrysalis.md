@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/changing-lives-through-jobs-create-a-secondchance-for-l-a-through-employment
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Chrysalis’ mission is to create a pathway to self-sufficiency for homeless
+      and low-income individuals by providing the resources and support needed
+      to find and retain employment.
 title: Chrysalis
 uri: /organizations/chrysalis/
 extrapolated_project_ids:

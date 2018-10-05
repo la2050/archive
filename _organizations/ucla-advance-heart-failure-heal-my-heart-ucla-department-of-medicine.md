@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      UCLA Medicine and Undergraduate School collaborate to bring a
+      comprehensive method of promoting healthy habits and better health to LA
 title: 'UCLA Advance Heart Failure, Heal My HeART, UCLA Department of Medicine'
 uri: >-
   /organizations/ucla-advance-heart-failure-heal-my-heart-ucla-department-of-medicine/

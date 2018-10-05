@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/LABikeTrains.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Bicycle Culture Institute is a 501(c)3 non-profit dedicated to
+      connecting people to new (bicycle) ideas.
 title: 'L.A. Bike Trains, Bicycle Culture Institute'
 uri: /organizations/l-a-bike-trains-bicycle-culture-institute/
 extrapolated_project_ids:

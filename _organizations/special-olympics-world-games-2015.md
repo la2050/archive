@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/LA2015.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      LA2015 celebrates the abilities of the intellectually disabled population
+      by connecting 30,000 volunteers to foster acceptance of all people
 title: Special Olympics World Games 2015
 uri: /organizations/special-olympics-world-games-2015/
 extrapolated_project_ids:

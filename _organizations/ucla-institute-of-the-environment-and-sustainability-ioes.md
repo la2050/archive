@@ -47,6 +47,11 @@ aggregated:
       https://challenge.la2050.org/entry/using-an-app-to-increase-awareness-of-air-quality-and-empower-individuals-to-protect-their-health
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Through research and practice on the greatest environmental challenges
+      facing humanity, the IOES moves science into action at the local, national
+      and global level.
 title: UCLA Institute of the Environment and Sustainability (IOES)
 uri: /organizations/ucla-institute-of-the-environment-and-sustainability-ioes/
 extrapolated_project_ids:

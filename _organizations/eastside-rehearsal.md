@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/EastsideRehearsal.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Our fully back lined studios will be available to students as an after
+      school program so they can learn to play on professional equipment, hone
+      their music skills, and experience the camaraderie and confidence that
+      this environment will foster.
 title: Eastside Rehearsal
 uri: /organizations/eastside-rehearsal/
 extrapolated_project_ids:

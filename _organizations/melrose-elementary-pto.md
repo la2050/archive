@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/melrose-elementary-technology-program-creating-the-future-leaders-of-la
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Through community engagement, volunteer support, and fundraising we create
+      a supportive, technologically-rich environment where diverse students work
+      collaboratively with creativity and innovation.
 title: Melrose Elementary PTO
 uri: /organizations/melrose-elementary-pto/
 extrapolated_project_ids:

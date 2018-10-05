@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/empower-me-a-digital-tool-for-rape-survivors-allies-that-fosters-community-justice-healing
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Light Sprout’s goal is to challenge rape culture in America through
+      original media content and the building of community while helping
+      survivors heal and restore themselves to wholeness.
 title: Light Sprout
 uri: /organizations/light-sprout/
 extrapolated_project_ids:

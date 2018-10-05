@@ -39,6 +39,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      EveryoneOn is committed to eliminating the digital divide by making
+      high-speed, low-cost Internet, computers, and free digital literacy
+      training accessible to all unconnected people in the U.S.
+    - >-
+      EveryoneOn is a national nonprofit working to eliminate the digital divide
+      through affordable technology and free digital literacy courses.
 title: EveryoneOn
 uri: /organizations/everyoneon/
 extrapolated_project_ids:

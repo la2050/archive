@@ -24,6 +24,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      My Name My Story is a youth-led organization that Inspires Empathy to
+      Empower Young Changemakers.
 title: My Name My Story
 uri: /organizations/my-name-my-story/
 extrapolated_project_ids:

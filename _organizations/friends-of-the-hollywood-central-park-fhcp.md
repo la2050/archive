@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/HollywoodCentralPark.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      FHCP will build a 38-acre Hollywood Central Park by decking one mile of US
+      101 (creating a tunnel for freeway traffic). The Park will promote active
+      lifestyles and improve health with its environmental, recreational and
+      aesthetic benefits.
 title: Friends of the Hollywood Central Park (FHCP)
 uri: /organizations/friends-of-the-hollywood-central-park-fhcp/
 extrapolated_project_ids:

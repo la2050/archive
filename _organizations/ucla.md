@@ -35,6 +35,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      UCLA Social Welfare Department educates future leaders in social justice,
+      policy and equity through models of empowerment, scholarship, research,
+      and practice to ensure the well-being of all on the local, state-wide,
+      national and global levels.
+    - >-
+      UCLA is a research university focused on the creation, dissemination,
+      preservation and application of knowledge for society's betterment.
 title: UCLA
 uri: /organizations/ucla/
 extrapolated_project_ids:

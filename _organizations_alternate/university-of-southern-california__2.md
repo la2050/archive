@@ -41,6 +41,17 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      Neighborhood Data For Social Change provides free, publicly available
+      neighborhood-level data for civic actors to learn about their communities.
+    - >-
+      The USC Annenberg Center’s Civic Tech USC initiative is a nonprofit that
+      studies and develops new technologies to promote inclusion, fairness,
+      transparency, civic responsibility and participation.
+    - >-
+      Gamescapes research, within USC Architecture, seeks to democratize the
+      design of the built environment through the use of video games.
 title: University of Southern California
 uri: /organizations/university-of-southern-california/
 extrapolated_project_ids:

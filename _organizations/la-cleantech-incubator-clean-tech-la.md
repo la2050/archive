@@ -42,6 +42,20 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/LACI.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      <p>CTLA: Created by the Mayor in 2009, CTLA is partnership of the
+      regionâ€™s most important institutions dedicated to making Los Angles a
+      huge green economy. Today, LA is the second largest green economy in the
+      US, is the largest market for EVs and solar in the country, has more
+      cleantech startups than any other region in the country, and is leading
+      the way in renewable energy generation.</p>
+       
+       
+       
+       
+       
+       <p>LACI: In just 18 short months, LACI has created a vibrant cleantech innovation ecosystem that has spawned 14 new cleantech companies, attracted partnerships with industry/academia, and finalized the funding and planning for the $40M La Kretz Innovation Campus in the Cleantech Corridor.</p>
 title: LA Cleantech Incubator / Clean Tech LA
 uri: /organizations/la-cleantech-incubator-clean-tech-la/
 extrapolated_project_ids:

@@ -34,6 +34,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/civicla.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Community Centered is dedicated to fostering sustainable communities
+      through civic engagement and philanthropic leadership.
 title: Community Centered
 uri: /organizations/community-centered/
 extrapolated_project_ids:

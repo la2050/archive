@@ -39,6 +39,11 @@ aggregated:
     - 'https://activation.la2050.org/live/the-glue/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Glue is a mission-driven creative agency that designs and builds
+      beautiful, functional digital products that keep people and our planet
+      healthy.
 title: The Glue
 uri: /organizations/the-glue/
 extrapolated_project_ids: []

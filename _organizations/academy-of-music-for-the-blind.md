@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/ouramb.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We teach musically gifted blind children ages 4-18 to play piano, guitar,
+      drums, sax, flute, voice, composition and more!
 title: Academy of Music for the Blind
 uri: /organizations/academy-of-music-for-the-blind/
 extrapolated_project_ids:

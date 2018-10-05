@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/BreseeLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Bresee serves youth and families through Academics, Career-readiness,
+      STEM, Arts, Athletics, Service-Learning, Gang Prevention, and Family
+      Support Services that equip them to pursue their education, achieve their
+      full potential and serve others.
 title: P.F. Bresee Foundation
 uri: /organizations/p-f-bresee-foundation/
 extrapolated_project_ids:

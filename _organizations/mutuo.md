@@ -35,6 +35,10 @@ aggregated:
     - 'https://activation.la2050.org/live/mutuo/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We are an architecture studio that thinks innovatively to build meaningful
+      architecture while promoting a more equitable future.
 title: Mutuo
 uri: /organizations/mutuo/
 extrapolated_project_ids:

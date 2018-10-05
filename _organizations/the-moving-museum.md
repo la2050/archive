@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/TMMLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Moving Museum runs a nomadic contemporary art program in significant
+      locations across the world.
 title: The Moving Museum
 uri: /organizations/the-moving-museum/
 extrapolated_project_ids:

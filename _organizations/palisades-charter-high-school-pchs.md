@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/PaliHigh2015.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      PCHS, a public charter high school serving over 2900 students from 100+
+      zip codes across LA empowers our students to make positive contributions
+      to the global community by ensuring educational excellence, civic
+      responsibility and personal growth.
 title: Palisades Charter High School (PCHS)
 uri: /organizations/palisades-charter-high-school-pchs/
 extrapolated_project_ids:

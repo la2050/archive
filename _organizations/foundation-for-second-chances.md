@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/SecondChances.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Foundation for Second Chances provides children and youth with the
+      necessities of a quality education, mentoring, leadership, civic and
+      social engagement, health awareness in a nourishing environment to build a
+      brighter future.
 title: Foundation for Second Chances
 uri: /organizations/foundation-for-second-chances/
 extrapolated_project_ids:

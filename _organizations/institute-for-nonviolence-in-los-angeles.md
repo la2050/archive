@@ -35,6 +35,13 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/conflictresolution.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      More than 2,000 members of the public were trained by Avis Ridley-Thomas
+      in the years that I oversaw the Los Angeles City Attorney's Dispute
+      Resolution Program of the Office of the Los Angeles City Attorney.
+      Emeritus UCLA Professor Buzz Wilms initiated a class at UCLA in 2001, and
+      hundreds of undergraduates have been trained as a result of that class.
 title: Institute for Nonviolence in Los Angeles
 uri: /organizations/institute-for-nonviolence-in-los-angeles/
 extrapolated_project_ids:

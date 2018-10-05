@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/operation-gratitude-americans-saying-thank-you-to-all-who-serve
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Operation Gratitude volunteers nationwide donate items, write letters and
+      assemble Care Packages to express their appreciation to, and lift the
+      spirits of, the Military & First Responder communities.
 title: Operation Gratitude
 uri: /organizations/operation-gratitude/
 extrapolated_project_ids:

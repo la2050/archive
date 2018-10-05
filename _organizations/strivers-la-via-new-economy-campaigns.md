@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      New Economy Campaigns drives social impact through multiplatform
+      campaigns, and incubates new social venture projects like Strivers.LA.
 title: Strivers.LA via New Economy Campaigns
 uri: /organizations/strivers-la-via-new-economy-campaigns/
 extrapolated_project_ids:

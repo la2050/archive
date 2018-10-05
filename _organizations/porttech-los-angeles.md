@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      PortTech connects entrepreneurs, industry and community to advance
+      innovation, solve port/global environmental challenges, and create jobs.
 title: PortTech Los Angeles
 uri: /organizations/porttech-los-angeles/
 extrapolated_project_ids:

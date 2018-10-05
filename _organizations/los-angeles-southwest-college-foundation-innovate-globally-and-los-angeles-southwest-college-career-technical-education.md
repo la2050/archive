@@ -38,6 +38,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/Innov8.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LA Southwest College Foundation's mission is to improve community success
+      by supporting indigenous innovation, providing access to quality education
+      and link students to jobs in growth industries and entrepreneurial
+      opportunities in South LA.
 title: >-
   Los Angeles Southwest College Foundation, Innovate Globally and Los Angeles
   Southwest College Career & Technical Education

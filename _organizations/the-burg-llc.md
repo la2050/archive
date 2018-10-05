@@ -33,6 +33,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/the-burg-llc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Burg is the community's platform, a digital public square that funnels
+      local representatives and local news to verified voters (and non-voters).
 title: 'The Burg, LLC'
 uri: /organizations/the-burg-llc/
 extrapolated_project_ids: []

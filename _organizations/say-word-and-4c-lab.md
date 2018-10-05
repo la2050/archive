@@ -41,6 +41,11 @@ aggregated:
       https://challenge.la2050.org/entry/merge-la-youth-collaborating-through-spoken-word-dance-to-build-empathy-literacy-and-confidence
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Say Word’s mission is to empower, enlighten, and activate young people
+      through writing and performance to improve literacy, and cultivate
+      self-awareness, social change and healing.
 title: Say Word and 4C LAB
 uri: /organizations/say-word-and-4c-lab/
 extrapolated_project_ids:

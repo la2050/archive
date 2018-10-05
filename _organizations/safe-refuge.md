@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/expanding-economic-empowerment-at-safe-refuge
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Safe Refuge is a place where people who are struggling can come to
+      discover a supportive and caring recovery community through a continuum of
+      care approach to services.
 title: Safe Refuge
 uri: /organizations/safe-refuge/
 extrapolated_project_ids:

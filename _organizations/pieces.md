@@ -39,6 +39,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      PIECES empowers young adults, ages 18 - 25 through opportunities in the
+      visual and performing arts.
+    - >-
+      For the past three years, PIECES has been empowering young L.A. artists to
+      pursue their dreams by providing valuable creative tools including
+      mentorship, community support, educational and professional opportunities.
 title: PIECES
 uri: /organizations/pieces/
 extrapolated_project_ids:

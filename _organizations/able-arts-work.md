@@ -37,6 +37,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/artbeat-radio'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The mission of Able ARTS Work aka Arts & Services for Disabled is to
+      provide life long learning, community services, and vocational
+      opportunities through the creative arts for people with inte
 title: Able Arts Work
 uri: /organizations/able-arts-work/
 extrapolated_project_ids:

@@ -28,6 +28,8 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/LACT.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - We build community through theatre.
 title: LACT - Los Angeles Community Theatre
 uri: /organizations/lact-los-angeles-community-theatre/
 extrapolated_project_ids:

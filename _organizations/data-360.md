@@ -36,6 +36,10 @@ aggregated:
     - 'https://activation.la2050.org/learn/data-360/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We expand people's possibilities by empowering people to create a new
+      future with data and technology.
 title: Data 360
 uri: /organizations/data-360/
 extrapolated_project_ids: []

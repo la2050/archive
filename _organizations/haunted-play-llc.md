@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/DELUSION.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      For the last 4 years, Delusion has been the premiere live theatre event in
+      the nation. We create eerie "moving plays" in existing structures (such as
+      old mansions) where the audience plays parts in a living, breathing, and
+      tangible story.
 title: Haunted Play LLC
 uri: /organizations/haunted-play-llc/
 extrapolated_project_ids:

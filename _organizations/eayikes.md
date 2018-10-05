@@ -35,6 +35,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/eayikes/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Engage, empower, inform, inspire, citizens of a community… EEIICC + a
+      whole lotta wonder = EAYIKES!
 title: Eayikes
 uri: /organizations/eayikes/
 extrapolated_project_ids:

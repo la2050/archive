@@ -51,6 +51,11 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      EnrichLA builds edible gardens and green spaces in local schools, and
+      provides garden based education in these schools!
+    - "In less than two years as a designated non-profit organization, EnrichLA has built over 35 school gardens. These gardens range from 1 acre farms, to wildlands schoolyard habitats, to reading gardens, or small edible raised beds. Our school gardens are inexpensive. They are built on a shoe-string budget using the power of community volunteers to fuel these massive transformations.\n \n \n \n \n \n In addition to building school gardens, we have also provided â€œHome and Garden Economicsâ€\x9D programs at many of these schools. With this program, our garden stewards plant seedlings with students and provide regular maintenance to the garden. Once these fresh fruits and vegetables are ready to be harvested, students prepare healthy snacks in their outdoor kitchen. Throughout this process students are learning about science, life-cycles, composting, the importance of recycling, and they are developing a hands-on relationship to the source of their food. \n \n \n \n \n \n We have seen middle school students enthusiastically exclaim that beets are their new favorite vegetable. In surveys, students demonstrated that after the garden program they not only ate more fruits and vegetables, but also had more fruits and vegetables available to them in the home, suggesting that the impact goes further than just the classroom. At one school, the edible school garden program was the catalyst for a new â€œenvironmental magnetâ€\x9D program and has been credited as one key component in the improvement of overall test scores on the campus."
 title: EnrichLA
 uri: /organizations/enrichla/
 extrapolated_project_ids:

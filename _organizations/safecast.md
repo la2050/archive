@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Hoping to build out a realtime environmental monitoring sensor network in
+      Los Angeles!
 title: Safecast
 uri: /organizations/safecast/
 extrapolated_project_ids: []

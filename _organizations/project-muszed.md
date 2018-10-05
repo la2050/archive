@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/SoundWorksLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Project MuszEd provides resources and opportunities in the arts that
+      encourage creativity, community, personal and academic growth.
 title: Project MuszEd
 uri: /organizations/project-muszed/
 extrapolated_project_ids:

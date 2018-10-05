@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/create/world-famous-vip-records-llc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Fosters entrepreneurship and careers in creative arts, music, technology
+      and broadcasting by providing work space and support system to help launch
+      and maintain such careers.
 title: World Famous VIP Records LLC
 uri: /organizations/world-famous-vip-records-llc/
 extrapolated_project_ids: []

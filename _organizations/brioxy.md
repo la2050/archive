@@ -38,6 +38,10 @@ aggregated:
     - 'https://activation.la2050.org/create/brioxy/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We close the opportunity gap for innovators of color by training them to
+      build and run strong organizations in the communities they grew up in.
 title: Brioxy
 uri: /organizations/brioxy/
 extrapolated_project_ids:

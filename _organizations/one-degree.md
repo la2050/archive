@@ -35,6 +35,10 @@ aggregated:
     - 'https://activation.la2050.org/live/one-degree/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We create modern tech-driven solutions that help families find, access,
+      and manage nonprofit and social services efficiently and with dignity.
 title: One Degree
 uri: /organizations/one-degree/
 extrapolated_project_ids: []

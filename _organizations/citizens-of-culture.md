@@ -42,6 +42,17 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Citizens of Culture uses arts to develop critical thinking, emotional
+      intelligence, and combat resource inequality.
+    - >-
+      Citizens Of Culture cultivates economic opportunities for independent
+      artists and designers.
+    - >-
+      Citizens Of Culture uses an experience design and “culture hacking” to
+      educate, inspire, and motivate people to think critically and put their
+      creativity into action.
 title: Citizens Of Culture
 uri: /organizations/citizens-of-culture/
 extrapolated_project_ids:

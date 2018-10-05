@@ -33,6 +33,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      SEACA connects youth with advocates to create policies for a more
+      economically and environmentally sustainable LA; Public Counsel provides
+      free legal services to those in need and addresses systemic issues through
+      impact litigation and advocacy.
+    - >-
+      We connect local youth with attorneys and advocates to create policies for
+      a more economically and environmentally sustainable Los Angeles.
 title: Southeast Asian Community Alliance (SEACA)
 uri: /organizations/southeast-asian-community-alliance-seaca/
 extrapolated_project_ids:

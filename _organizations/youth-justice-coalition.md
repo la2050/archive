@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/freelahighschool.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Youth Justice Coalition works to build a youth, family and
+      prisoner-led movement to challenge race, gender and class inequality in
+      California’s juvenile justice systems through organizing, advocacy,
+      political education and transformative justice.
 title: Youth Justice Coalition
 uri: /organizations/youth-justice-coalition/
 extrapolated_project_ids:

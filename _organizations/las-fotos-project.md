@@ -43,6 +43,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/connecting-communities-through-fotos'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Las Fotos Project is a photography mentoring program for teenage girls. We
+      partner with schools, community groups, and libraries to create brave
+      spaces for girls to learn, collaborate, and create.
 title: Las Fotos Project
 uri: /organizations/las-fotos-project/
 extrapolated_project_ids:

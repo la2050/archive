@@ -34,6 +34,14 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA) is
+      dedicated to the prevention of cruelty to animals through Education, Law
+      Enforcement, Intervention, and Advocacy.
+    - >-
+      spcaLA prevents cruelty to animals through Education, Law Enforcement,
+      Intervention, and Advocacy.
 title: spcaLA
 uri: /organizations/spcala/
 extrapolated_project_ids:

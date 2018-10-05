@@ -47,6 +47,13 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      College Bridge's mission is to increase college access and success for
+      underrepresented students in Los Angeles County.
+    - >-
+      The mission of College Bridge is to increase college access and success
+      for under-represented students in Los Angeles County.
 title: College Bridge
 uri: /organizations/college-bridge/
 extrapolated_project_ids:

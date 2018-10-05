@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/a-conference-inspiring-la-professionals-toward-a-net-zero-future-hosted-at-a-nonprofit-facility
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Verdical Group is a full-service green building consulting firm located in
+      L.A. that is dedicated to advancing a more sustainable and healthy built
+      environment for our community.
 title: Verdical Group
 uri: /organizations/verdical-group/
 extrapolated_project_ids:

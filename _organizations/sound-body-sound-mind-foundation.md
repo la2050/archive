@@ -36,6 +36,10 @@ aggregated:
       https://challenge.la2050.org/entry/fighting-child-obesity-through-the-transformation-of-physical-education-in-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The mission of Sound Body Sound Mind is to promote self-confidence and
+      healthy lifestyle choices among today's youth.
 title: Sound Body Sound Mind Foundation
 uri: /organizations/sound-body-sound-mind-foundation/
 extrapolated_project_ids:

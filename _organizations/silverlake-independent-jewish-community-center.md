@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/HumanLibraryLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Silverlake Independent Jewish Community Center (SIJCC) is a leading
+      center for arts, culture and Jewish education on the east side of Los
+      Angeles, and strives to connect people of all different backgrounds
+      through arts & cultural programming.
 title: Silverlake Independent Jewish Community Center
 uri: /organizations/silverlake-independent-jewish-community-center/
 extrapolated_project_ids:

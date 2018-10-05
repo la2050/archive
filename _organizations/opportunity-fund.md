@@ -88,6 +88,24 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      RBLC is a network of lenders and small business advocates in Los Angeles
+      committed to advancing policies that combat predatory lending, promote
+      responsible lending, and support small business owners.
+    - >-
+      Opportunity Fund (OF) advances the economic well-being of working people
+      by helping them to earn, save and invest in their future in order to
+      create vibrant communities.
+    - >-
+      Opportunity Fund helps close the opportunity gap for working families by
+      offering affordable, responsible financial products that enable
+      underserved small businesses and households to work toward financial
+      stability and economic mobility.
+    - >-
+      Opportunity Fund advances the economic well-being of working people by
+      helping them earn, save and invest in their future.
+    - "Opportunity Fund has a vision that every small business in California can access the financing and support needed to realize its full potential to create wealth and jobs. Since 1995, we have originated over 3,200 loans, totaling $35 million, to disadvantaged microentrepreneurs in Californiaâ€™s largest urban centers. As noted above, our borrowers have an 85% business survival rate, and each Opportunity Fund loan creates or maintains an average of 2.5 jobs. Additionally, Opportunity Fundâ€™s loans result in a â€œripple effectâ€\x9D of new revenues, wages, and taxesâ€”every $1 we lend generates nearly $2 in new annual economic activity. \n \n \n \n \n \n In 2011, Opportunity Fund successfully launched the pilot of our EasyPay loan product. EasyPay builds on our successful microlending results, taking this proven strategy one step further by leveraging technology to expand the pool of potential microloan borrowers, simplify the repayment process, and help entrepreneurs improve business performance. \n \n \n \n \n \n Since its inception, Opportunity Fund has grown from a local, multi-bank consortium serving Silicon Valley to a nationally-recognized microfinance institution. In the process, the organizationâ€™s leadership has seized on opportunities to introduce innovative strategies to expand our impact on underbanked communities in the San Francisco Bay Area and Greater Los Angeles. Opportunity Fund has successfully adapted to the shifting economic landscape by developing new products, implementing new outreach initiatives, and nurturing new partnerships that enable clients to build assets despite changing market conditions. At the same time, Opportunity Fund has followed a smooth growth curve from a staff of five people to more than 50 in four locations. \n \n \n \n \n \n Opportunity Fund is seen as a thought leader in microfinance, with a track record of community impact and a reputation for innovation in developing new microfinance strategies that promote economic opportunity and meet clientsâ€™ needs. As Californiaâ€™s largest nonprofit microlender, Opportunity Fund is the only organization providing affordable, appropriate credit to LAâ€™s low-income small businesses at any scaleâ€”we originated more than 300 microloans in the County in 2012 (and 1,002 microloans state-wide). \n \n \n \n \n \n Opportunity Fund has always been distinguished among economic development organizations for our commitment to reaching the hardest-to-reach clients and achieving deep impact. Our inventive approach to community development has garnered a variety of awards, including selection twice for the prestigious Skoll Foundation Award for Innovation, Bank of Americaâ€™s Neighborhood Excellence Award, and the Small Business Administrationâ€™s Financial Services Advocate of the Year award for our microenterprise work."
 title: Opportunity Fund
 uri: /organizations/opportunity-fund/
 extrapolated_project_ids:

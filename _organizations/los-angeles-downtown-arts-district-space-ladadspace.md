@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/MuralApprenticeship.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      LADADSpace supports artists and develops strategies to preserve the Arts
+      District as a productive creative community.
 title: Los Angeles Downtown Arts District Space (LADADSpace)
 uri: /organizations/los-angeles-downtown-arts-district-space-ladadspace/
 extrapolated_project_ids:

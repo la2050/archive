@@ -59,6 +59,39 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      The Skid Row Housing Trust is a community developer that provides homes
+      and support services for people who have experienced homelessness.
+    - >-
+      The project is spearheaded by the Skid Row Housing Trust, a non-profit
+      affordable housing developer that has been building homes in Skid Row for
+      more than twenty years. Our greatest achievement to date is the
+      development of over 1,600 units of high-quality, sustainable, and
+      affordable homes for the lowest income, formerly homeless, and disabled
+      population. The Star Apartments, currently under construction, builds on
+      our successes by pushing innovations in social service delivery,
+      architectural design, and construction. The Star will be the home to 100
+      formerly homeless individuals. In addition to a full medical clinic on the
+      ground floor, the Department of Health Services will be headquartered
+      on-site. By implementing pre-fabricated modular housing, the project uses
+      new construction methods for cost-savings and time-efficient construction.
+      With the inclusion of over 15,000 SF of community building activity space,
+      the Star will be the hub for social interaction between all the Trustâ€™s
+      projects. The project will be the first of its kind for supportive housing
+      in Los Angeles.
+       
+       
+       <br/><br/>
+       
+       
+       We believe that shelter alone is not enough to break the cycle of poverty; by providing intensive on-site social services along with therapeutic activities such as yoga, gardening and art classes, we have been able to see personal transformations within our resident community. We have successfully partnered with many financing institutions, public agencies, council members, service organizations, foundations, and other community stakeholders to develop our housing projects. 
+       
+       
+       <br/><br/>
+       
+       
+       In addition to service-rich environments, we have partnered with leading architects and designers, such as Michael Maltzan Architecture, Koning Eizenberg Architecture, and Killefer Flammang Architects, to bring high design and high-quality homes to our residents. Our projects push for design equity and bring design excellence to populations who need it most. Our work has won accolades from AIA/LA, Westside Urban Forum, SCANPH, CSH, and others and include an AIA/HUD Secretary Excellence in Affordable Housing Design Award. Our projects have been included in numerous publications including the NY Times, LA Times, Architectural Record, NPR, Atlantic Cities, the Wall Street Journal, Dwell Magazine, local news channels and beyond.
 title: Skid Row Housing Trust
 uri: /organizations/skid-row-housing-trust/
 extrapolated_project_ids:

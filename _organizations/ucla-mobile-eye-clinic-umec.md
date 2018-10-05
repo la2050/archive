@@ -38,6 +38,11 @@ aggregated:
     - 'https://activation.la2050.org/live/ucla-mobile-eye-clinic-umec/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We provide free eye care to underserved communities and vulnerable
+      populations in L.A. who lack access to vision care as a result of
+      financial, transportation, and/or cultural and language barriers.
 title: UCLA Mobile Eye Clinic (UMEC)
 uri: /organizations/ucla-mobile-eye-clinic-umec/
 extrapolated_project_ids: []

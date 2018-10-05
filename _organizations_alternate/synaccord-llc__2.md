@@ -39,6 +39,20 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      We build web apps for civil & constructive large scale conversations based
+      on proven practices in face to face deliberative discussion so people can
+      assemble in pursuit of making their world AWESOME
+    - >-
+      Synaccord is building a platform for productive online discussion of
+      polarizing issues. We do online what is done at in-person deliberative
+      events so we can find the solutions to what divides us.
+    - >-
+      We are building the online platform that engages everyone in finding
+      solutions that unite us while keeping it fair, balanced and civil and
+      distilling it down to a small, high-quality, and representative set for
+      our elected leaders.
 title: 'Synaccord, LLC'
 uri: /organizations/synaccord-llc/
 extrapolated_project_ids:

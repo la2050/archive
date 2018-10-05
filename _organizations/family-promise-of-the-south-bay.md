@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/live/family-promise-of-the-south-bay/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We are working to build tiny cities for the homeless through our partners:
+      a refurbisher of cargo containers, the architecture group at LATTC, and
+      the director of an agency that serves the homeless.
 title: Family Promise of the South Bay
 uri: /organizations/family-promise-of-the-south-bay/
 extrapolated_project_ids: []

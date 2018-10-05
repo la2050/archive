@@ -39,6 +39,11 @@ aggregated:
     - 'https://activation.la2050.org/live/freefrom/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      FreeFrom is the first and only organization in the US working to end
+      domestic violence by equipping survivors with the resources needed to
+      achieve long-term safety and financial security.
 title: FreeFrom
 uri: /organizations/freefrom/
 extrapolated_project_ids:

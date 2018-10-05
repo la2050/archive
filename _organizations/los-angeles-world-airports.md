@@ -42,6 +42,10 @@ aggregated:
       https://challenge.la2050.org/entry/los-angeles-world-airports-introduces-la-students-to-lifes-possibilities
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Los Angeles World Airports Internship Program provides students
+      opportunities to develop the skills to work in the aviation industry.
 title: Los Angeles World Airports
 uri: /organizations/los-angeles-world-airports/
 extrapolated_project_ids:

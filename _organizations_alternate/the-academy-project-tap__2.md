@@ -35,6 +35,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      The Academy Project prepares LA foster youth to succeed in high school and
+      beyond, through an innovative summer camp & after school program, with a
+      guaranteed spot in a stable & supportive community
+    - >-
+      TAP will reinvent the 7-12 grade experience for foster youth in Los
+      Angeles, providing a stable school placement through to graduation,
+      changing their lives by unleashing their full potential
 title: The Academy Project (TAP)
 uri: /organizations/the-academy-project-tap/
 extrapolated_project_ids:

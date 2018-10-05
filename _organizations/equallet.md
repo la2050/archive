@@ -44,6 +44,11 @@ aggregated:
       https://challenge.la2050.org/entry/achieving-gender-equality-with-our-wallets
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Equallet’s mission is to achieve gender equality by harnessing the
+      collective financial power of the consumer and investor to support
+      women-owned businesses in LA.
 title: Equallet
 uri: /organizations/equallet/
 extrapolated_project_ids:

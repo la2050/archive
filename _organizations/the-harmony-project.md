@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/give-music-change-lives-the-expansion-of-harmony-projects-transformative-program-into-south-la
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Harmony Project offers an after-school music program that empowers and
+      fosters positive youth development in children from under-resourced
+      communities, throughout their entire childhood (k-12).
 title: The Harmony Project
 uri: /organizations/the-harmony-project/
 extrapolated_project_ids:

@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-man2man-project-preventing-boys-from-becoming-dads-too-early-and-helping-teen-dads-to-step-up!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Friends of the Family works to lift children and their families out of
+      poverty, protect them from abuse and neglect, and ensure their access to
+      education, healthcare, and a resource-rich community.
 title: Friends of the Family
 uri: /organizations/friends-of-the-family/
 extrapolated_project_ids:

@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/Microenterprise.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We help homeless (and extremely low-income) individuals start small
+      businesses.
 title: Microenterprise.org
 uri: /organizations/microenterprise-org/
 extrapolated_project_ids:

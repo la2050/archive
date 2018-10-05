@@ -40,6 +40,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      We use research, advocacy, and capacity-building to align policies and
+      public dollars to support transportation investments that strengthen the
+      Los Angeles region.
+    - >-
+      We empower people of all ages and abilities to help advocate for safe and
+      livable communities through better transportation policy and funding
+      decisions.
 title: Investing in Place
 uri: /organizations/investing-in-place/
 extrapolated_project_ids:

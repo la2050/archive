@@ -31,6 +31,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The LA Sustainability Collaborative facilitates student research, informs
+      stakeholders, and advances solutions to emerging local environment
 title: Los Angeles Sustainability Collaborative (LASC)
 uri: /organizations/los-angeles-sustainability-collaborative-lasc/
 extrapolated_project_ids: []

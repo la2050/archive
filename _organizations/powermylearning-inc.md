@@ -41,6 +41,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      PowerMyLearning helps students in low-income communities, together with
+      their teachers and families, harness the power of digital learning to
+      improve educational outcomes.
+    - >-
+      PowerMyLearning provides digital learning resources to students in Los
+      Angeles’ low-income communities to help students power their learning
+      through a combination of technology and the people who matter most to
+      their success – parents and teachers.
 title: 'PowerMyLearning, Inc.'
 uri: /organizations/powermylearning-inc/
 extrapolated_project_ids:

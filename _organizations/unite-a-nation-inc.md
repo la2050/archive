@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/ending-generational-cycles-of-poverty-through-urban-youth-and-community-development-programs
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We transform lives through innovative investments in young people by
+      focusing on cultural art, economic empowerment, workforce development and
+      entrepreneurship to build thriving communities.
 title: 'Unite A Nation, Inc.'
 uri: /organizations/unite-a-nation-inc/
 extrapolated_project_ids:

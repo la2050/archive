@@ -48,6 +48,20 @@ aggregated:
     - '2018'
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      PFP creates access to safe, vibrant play spaces in underserved LA by 1)
+      unlocking schoolyards on weekends to create Community School Parks, 2)
+      mobilizing communities and 3) advancing joint-use policy.
+    - >-
+      People for Parks transforms schoolyards in underserved regions of LA into
+      Community School Parks for use during non-school hours, providing children
+      and families with healthy outdoor space.
+    - >-
+      People for Parks tackles the problem of park scarcity in dense, low income
+      regions of LA by transforming schools into Community School Parks for use
+      during non-school hours, giving kids and families the outdoor space they
+      need to lead healthy lives.
 title: People for Parks
 uri: /organizations/people-for-parks/
 extrapolated_project_ids:

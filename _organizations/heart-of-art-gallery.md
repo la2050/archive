@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/HeartofArt.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Heart of Art Gallery is a conscious space run by women in South LA that
+      provides a safe, unfiltered space for the creation and presentation of art
+      made by women, youth, and members of the LGBTQIA community.
 title: Heart of Art Gallery
 uri: /organizations/heart-of-art-gallery/
 extrapolated_project_ids:

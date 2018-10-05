@@ -38,6 +38,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LAmobilized.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Urban & Environmental Policy Institute (UEPI) is a research, policy,
+      and advocacy, organization at Occidental College committed to bringing
+      about social change and a more just, livable and green society.
 title: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice

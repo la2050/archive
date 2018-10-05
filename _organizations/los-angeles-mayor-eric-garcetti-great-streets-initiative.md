@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/lagreatstreets.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Los Angeles Mayor Eric Garcetti created the Great Streets Initiative to
+      harness the power of local communities in fundamentally re-imagining
+      streets as safe, creative, playful, economically thriving public spaces.
 title: Los Angeles Mayor Eric Garcetti Great Streets Initiative
 uri: /organizations/los-angeles-mayor-eric-garcetti-great-streets-initiative/
 extrapolated_project_ids:

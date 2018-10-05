@@ -39,6 +39,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      PEN Center USA advocates for imprisoned, censored, and persecuted writers
+      throughout the world, while cultivating and expanding a diverse and
+      engaged literary community in the western United States.
+    - >-
+      We provide platforms and writing workshops to cultivate and celebrate the
+      powerful voices of Los Angeles youth.
 title: PEN Center USA/Urban Word Los Angeles
 uri: /organizations/pen-center-usa-urban-word-los-angeles/
 extrapolated_project_ids:

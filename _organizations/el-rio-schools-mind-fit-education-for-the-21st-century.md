@@ -51,6 +51,32 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/mindfulschoolsLA.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      <p>El Rio Schools is a new non-profit; our most important achievement, to
+      date, is regularly attended workshops, playgroups and informational
+      gatherings at the Audubon Center at Debs Park of parents in Northeast Los
+      who have an interest in mindfulness in secular public education. We are
+      building the social network for mindfulness in education in Northeast Los
+      Angeles. </p>
+       
+       
+       
+       
+       
+       <p>Today, 439 people liked our facebook page! </p>
+       
+       
+       
+       
+       
+       <p>Joan Jaeckel, co-founder, coordinated the successful charter petition writing process for Ocean Charter School, the first Waldorf-inspired publicly chartered school in Los Angeles. </p>
+       
+       
+       
+       
+       
+       <p>Founding board member, Julia Schachter, produced the Emmy nominated PBS documentary, The First Year. </p>
 title: 'El Rio Schools: MIND-FIT EDUCATION FOR THE 21ST CENTURY'
 uri: /organizations/el-rio-schools-mind-fit-education-for-the-21st-century/
 extrapolated_project_ids:

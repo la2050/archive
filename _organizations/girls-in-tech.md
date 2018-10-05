@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/coding-bootcamps-and-conferences-for-women-in-tech
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Girls in Tech (GIT) is a global non-profit focused on the engagement,
+      education and empowerment of girls and women who are passionate about
+      technology.
 title: Girls in Tech
 uri: /organizations/girls-in-tech/
 extrapolated_project_ids:

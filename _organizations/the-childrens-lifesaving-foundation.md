@@ -42,6 +42,16 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      We help transform the lives of at-risk & homeless LA youth & families
+      through three program platforms-Living, Learning & Enriching
+    - >-
+      The Children's Lifesaving Foundation (The CLF) helps transform the LA's
+      homeless and at-risk youth and families.
+    - >-
+      CLF transforms the lives of LA's at-risk youth and homeless families
+      through three innovative Program Platforms.
 title: The Children's Lifesaving Foundation
 uri: /organizations/the-childrens-lifesaving-foundation/
 extrapolated_project_ids:

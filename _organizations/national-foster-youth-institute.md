@@ -44,6 +44,11 @@ aggregated:
       https://challenge.la2050.org/entry/foster-youth-and-families-joining-voices-for-change
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      NFYI/LA recruits and trains grassroots leaders, works to create new
+      understanding of foster families, and educates policymakers to change how
+      society supports its most vulnerable citizens.
 title: National Foster Youth Institute
 uri: /organizations/national-foster-youth-institute/
 extrapolated_project_ids:

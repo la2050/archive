@@ -33,6 +33,8 @@ aggregated:
       https://challenge.la2050.org/entry/the-first-social-networking-service-for-nonprofit-organizations
   year_submitted:
     - '2016'
+  org_summary:
+    - Coligo
 title: 'Coligo, Inc.'
 uri: /organizations/coligo-inc/
 extrapolated_project_ids:

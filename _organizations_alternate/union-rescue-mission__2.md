@@ -36,6 +36,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Union Rescue Mission provides a pathway to life transformation, jobs and
+      housing for men, women, children, and families experiencing homelessness
+      on the streets of Los Angeles.
+    - >-
+      Union Rescue Mission provides a pathway to life transformation, jobs and
+      housing for men, women and families experiencing homelessness on the
+      streets of Los Angeles.
 title: Union Rescue Mission
 uri: /organizations/union-rescue-mission/
 extrapolated_project_ids:

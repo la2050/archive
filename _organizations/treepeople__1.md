@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      TreePeople unites the power of people, trees and nature-based solutions to
+      grow a healthier future for LA.
 title: TreePeople
 uri: /organizations/treepeople/
 extrapolated_project_ids: []

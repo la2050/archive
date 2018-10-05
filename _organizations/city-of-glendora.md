@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/VolunteerGlendora.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The City of Glendora provides the citizens and business community with a
+      full range of effective municipal services while maintaining our
+      historical sense of community values.
 title: City of Glendora
 uri: /organizations/city-of-glendora/
 extrapolated_project_ids:

@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/veteransgardensla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      HomeFront Rising, a program of Social & Environmental Entrepreneurs,
+      develops food, housing and career solutions for military veterans.
 title: Social & Environmental Entrepreneurs
 uri: /organizations/social-environmental-entrepreneurs/
 extrapolated_project_ids:

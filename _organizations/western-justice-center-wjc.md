@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      WJC changes the way people think about and respond to differences and
+      conflict in order to create safer schools and a more peaceful society.
 title: Western Justice Center (WJC)
 uri: /organizations/western-justice-center-wjc/
 extrapolated_project_ids:

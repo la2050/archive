@@ -34,6 +34,8 @@ aggregated:
     - 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - 'LOLA explains local politics and issues for young, busy Los Angelenos.'
 title: LOLA
 uri: /organizations/lola/
 extrapolated_project_ids:

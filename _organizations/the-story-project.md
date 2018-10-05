@@ -31,6 +31,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/storyproject.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Story Project encourages at-risk youth in underserved communities to
+      improve communication skills and personal identity through storytelling
+      rooted in the media arts.
 title: The Story Project
 uri: /organizations/the-story-project/
 extrapolated_project_ids:

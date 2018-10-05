@@ -34,6 +34,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/good-shine-studio/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      WAPOW is a community service project that bridges neighbors to news,
+      resources and each other; as well as a quarterly bilingual print
+      publication and community events and programming.
 title: Good Shine Studio
 uri: /organizations/good-shine-studio/
 extrapolated_project_ids: []

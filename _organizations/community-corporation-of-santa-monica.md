@@ -32,6 +32,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/great-futures-start-at-home'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are a Santa Monica based non-profit that restores, builds and manages
+      affordable housing for people of modest means.
 title: Community Corporation of Santa Monica
 uri: /organizations/community-corporation-of-santa-monica/
 extrapolated_project_ids:

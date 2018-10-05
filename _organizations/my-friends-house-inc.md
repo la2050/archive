@@ -33,6 +33,10 @@ aggregated:
     - 'https://activation.la2050.org/live/my-friends-house-inc/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      My Friends House distributes healthy food and develops healthy skills with
+      families in South Los Angeles.
 title: 'My Friends House, Inc.'
 uri: /organizations/my-friends-house-inc/
 extrapolated_project_ids: []

@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We at @TheLaurelFdn want to get LA in shape and moving! How? Let's pay
+      people to get in shape. Sound good? Vote @RUN4YOURLIFE
 title: The Laurel Foundation
 uri: /organizations/the-laurel-foundation/
 extrapolated_project_ids: []

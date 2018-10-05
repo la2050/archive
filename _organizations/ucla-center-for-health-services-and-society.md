@@ -40,6 +40,11 @@ aggregated:
       https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Our center aims to improve the mental health of local and national diverse
+      populations through rigorous research, effective programs, and partnering
+      with the community.
 title: UCLA Center for Health Services and Society
 uri: /organizations/ucla-center-for-health-services-and-society/
 extrapolated_project_ids:

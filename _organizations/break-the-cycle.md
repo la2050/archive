@@ -36,6 +36,10 @@ aggregated:
       https://challenge.la2050.org/entry/the-zone-mobile-spaces-to-talk-about-healthy-relationships
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Break the Cycle inspires and supports young people to build healthy
+      relationships and create a culture without abuse.
 title: Break the Cycle
 uri: /organizations/break-the-cycle/
 extrapolated_project_ids:

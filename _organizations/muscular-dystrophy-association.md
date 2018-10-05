@@ -46,6 +46,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/live-unlimited-with-mdas-summer-camp'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      At MDA, we are fighting to free individuals — and the families who love
+      them — from the harmful effects of muscle-debilitating diseases so they
+      can live longer and grow stronger.
 title: Muscular Dystrophy Association
 uri: /organizations/muscular-dystrophy-association/
 extrapolated_project_ids:

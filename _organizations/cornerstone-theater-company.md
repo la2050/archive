@@ -38,6 +38,8 @@ aggregated:
       https://challenge.la2050.org/entry/shared-space-for-community-engaged-creative-practice
   year_submitted:
     - '2016'
+  org_summary:
+    - Cornerstone Theater Company makes new plays with and about communities.
 title: Cornerstone Theater Company
 uri: /organizations/cornerstone-theater-company/
 extrapolated_project_ids:

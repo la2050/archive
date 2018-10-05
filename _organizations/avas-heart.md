@@ -32,6 +32,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/the-transplant-journey'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We provide assistance to transplant patients who would otherwise not be
+      able to afford treatment and care.
 title: Ava's Heart
 uri: /organizations/avas-heart/
 extrapolated_project_ids:

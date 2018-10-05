@@ -33,6 +33,11 @@ aggregated:
       https://challenge.la2050.org/entry/give-today-la-an-online-community-center-connecting-causes-commerce-and-community-to-do-good!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Creating a social share web-based platform that identifies unique
+      community goals, and then provides a platform to connect you or your
+      business to a customized experience with local causes, all local.
 title: Give Today LA
 uri: /organizations/give-today-la/
 extrapolated_project_ids:

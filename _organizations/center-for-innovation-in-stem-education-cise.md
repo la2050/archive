@@ -39,6 +39,11 @@ aggregated:
       https://activation.la2050.org/learn/center-for-innovation-in-stem-education-cise/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      CISE brings STEM to the forefront of K-16 education by partnering with
+      schools, community colleges, philanthropic and industry leaders to enable
+      transformative and inspiring learning experiences.
 title: Center for Innovation in STEM Education (CISE)
 uri: /organizations/center-for-innovation-in-stem-education-cise/
 extrapolated_project_ids: []

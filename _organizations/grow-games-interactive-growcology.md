@@ -34,6 +34,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/seeds.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Mobile social action games connecting people to the ecosystem: growing
+      food, sharing seeds, integrating gaming with data maps for resiliency
 title: 'Grow Games Interactive, Growcology'
 uri: /organizations/grow-games-interactive-growcology/
 extrapolated_project_ids:

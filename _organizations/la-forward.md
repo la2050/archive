@@ -37,6 +37,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/la-forward/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      LA Forward connects Angelenos with the organizers, policy experts, and
+      coalitions based in disadvantaged communities in order to build a movement
+      for a just, democratic, and sustainable Los Angeles.
 title: LA Forward
 uri: /organizations/la-forward/
 extrapolated_project_ids:

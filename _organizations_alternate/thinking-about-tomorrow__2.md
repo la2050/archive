@@ -29,6 +29,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      We give kids the tools they need to succeed both in and out of the
+      classroom.
+    - >-
+      Give students everything needed to create a base of knowledge, enthusiasm
+      for education, and tools to thrive both in & out of the classroom.
 title: Thinking about Tomorrow
 uri: /organizations/thinking-about-tomorrow/
 extrapolated_project_ids:

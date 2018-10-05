@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Los Angeles LGBT Center is the world's largest provider of programs
+      and services for LGBT people.
 title: The Los Angeles LGBT Center
 uri: /organizations/the-los-angeles-lgbt-center/
 extrapolated_project_ids:

@@ -34,6 +34,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/voterunlead/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      VoteRunLead trains diverse women to unleash their political power, run for
+      office, and transform American democracy -- all through award-winning
+      programs, online tech, and by inspiring community.
 title: VoteRunLead
 uri: /organizations/voterunlead/
 extrapolated_project_ids:

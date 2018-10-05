@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/almabackyardfarms.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Alma Backyard Farms creates a dynamic opportunity in urban farming for the
+      formerly incarcerated to reintegrate by growing food in & for LA.
 title: Alma Backyard Farms
 uri: /organizations/alma-backyard-farms/
 extrapolated_project_ids:

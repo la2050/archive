@@ -31,6 +31,8 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LAOutsideTheBox.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - We create environments people enjoy
 title: RRM Design Group and Los Angeles Neighborhood Initiative
 uri: /organizations/rrm-design-group-and-los-angeles-neighborhood-initiative/
 extrapolated_project_ids:

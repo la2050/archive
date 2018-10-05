@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/LitRemix.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LitRemix is a collaborative learning platform that encourages both the
+      exploration and creation of music, video and visual art inspired by
+      specific works of literature, making the comprehension of those books more
+      accessible to struggling readers.
 title: Artists for Literacy / LitRemix
 uri: /organizations/artists-for-literacy-litremix/
 extrapolated_project_ids:

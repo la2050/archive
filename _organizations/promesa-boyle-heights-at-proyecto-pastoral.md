@@ -42,6 +42,18 @@ aggregated:
     - '2018'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Promesa Boyle Heights is a passionate collaborative of residents,
+      educators, and organizations working together to create a community where
+      all thrive and are empowered to act.
+    - >-
+      We Are Promesa Boyle Heights- a passionate collaborative of adult
+      residents, youth, schools and public/private institutions working together
+      to realize a shared vision for school and community transformation.
+    - >-
+      Promesa BH is a collaborative of residents, educators, & organizations
+      working toward a community where all thrive and empowered to act.
 title: Promesa Boyle Heights at Proyecto Pastoral
 uri: /organizations/promesa-boyle-heights-at-proyecto-pastoral/
 extrapolated_project_ids:

@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Zanja Madre provides education in sustainability, a venue for habitat and
+      water conservation demonstration, earth and land art exhibitions.
 title: 'Zanja Madre, The Shed Pasadena, La Loma Development'
 uri: /organizations/zanja-madre-the-shed-pasadena-la-loma-development/
 extrapolated_project_ids: []

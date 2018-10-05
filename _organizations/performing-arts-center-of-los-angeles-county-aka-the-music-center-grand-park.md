@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/acoolergrandpark.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Music Center is a world-renowned performing arts center, home to over
+      1,000 performances a year and year-round free public and community
+      cultural programs across our fully ADA accessible 22-acre campus that
+      includes 12-acre Grand Park.
 title: Performing Arts Center of Los Angeles County AKA The Music Center/Grand Park
 uri: >-
   /organizations/performing-arts-center-of-los-angeles-county-aka-the-music-center-grand-park/

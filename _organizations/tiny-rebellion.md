@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/Feedthedolphins.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Tiny Rebellion is a Santa Monica-based agency that exists to accelerate
+      business as the most powerful force for positive change; we believe that
+      brands have not only the opportunity, but also the obligation to make the
+      world a better place to live.
 title: Tiny Rebellion
 uri: /organizations/tiny-rebellion/
 extrapolated_project_ids:

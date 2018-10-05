@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/BicycleLibraries.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Libros Schmibros is a Boyle Heights-based lending library that puts low-or
+      no-cost books into all hands, rich and poor, Eastside and West.
 title: Libros Schmibros
 uri: /organizations/libros-schmibros/
 extrapolated_project_ids:

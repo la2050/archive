@@ -40,6 +40,11 @@ aggregated:
       https://challenge.la2050.org/entry/mitú-accelerate-la-diversifying-digital-content-creation-for-regional-social-impact
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      mitú is the leading digital media and data-driven company focused on
+      representing and elevating Latino millennial stories through content that
+      is unapologetically Latino.
 title: mitu
 uri: /organizations/mitu/
 extrapolated_project_ids:

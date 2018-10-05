@@ -39,6 +39,8 @@ aggregated:
       https://challenge.la2050.org/entry/a-digital-green-thumb-for-the-urban-scape
   year_submitted:
     - '2016'
+  org_summary:
+    - Plantaware helps people grow food at home.
 title: Plantaware
 uri: /organizations/plantaware/
 extrapolated_project_ids:

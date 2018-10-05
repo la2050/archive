@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-coparenter-project-building-a-healthier-los-angeles-two-coparents-at-a-time
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are building a coParenting movement to educate, inform and empower
+      parents with online dispute resolution to take a child-centric approach to
+      separation, divorce and coParenting.
 title: 'HyphenUs, Inc.'
 uri: /organizations/hyphenus-inc/
 extrapolated_project_ids:

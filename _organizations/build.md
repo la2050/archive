@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/build-los-angeles-entrepreneurship-is-the-hook-and-college-is-the-goal
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      BUILD uses entrepreneurship-based, experiential learning to engage
+      students, provide equitable educational opportunities and develop skills
+      for high school, college and career success.
 title: BUILD
 uri: /organizations/build/
 extrapolated_project_ids:

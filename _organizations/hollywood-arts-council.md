@@ -34,6 +34,10 @@ aggregated:
       https://challenge.la2050.org/entry/save-the-art-programs-in-the-art-capitals-schools!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Project S.O.A.R. is an after-school and in-class arts program serving
+      children in Hollywood’s public elementary schools.
 title: Hollywood Arts Council
 uri: /organizations/hollywood-arts-council/
 extrapolated_project_ids:

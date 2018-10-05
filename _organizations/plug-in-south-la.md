@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/PlugInSouthLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Plug In South LA will be opening a co-working space in South Los Angeles
+      early 2016 and curates various programming series (Digital and Beyond in
+      LA) that highlights emerging local STEM and digital media trends,
+      inspiring young leaders in historica
 title: Plug In South LA
 uri: /organizations/plug-in-south-la/
 extrapolated_project_ids:

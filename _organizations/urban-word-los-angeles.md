@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/poetryambassador.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Urban Word LA provided diverse platforms for youth to cultivate and share
+      their powerful voices.
 title: Urban Word Los Angeles
 uri: /organizations/urban-word-los-angeles/
 extrapolated_project_ids:

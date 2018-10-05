@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Engaging, experiential, student-driven educational leadership programs
+      that impact & create change for years to come.
 title: I'll Be The One Organization
 uri: /organizations/ill-be-the-one-organization/
 extrapolated_project_ids:

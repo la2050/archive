@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/everykidinapark.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      NPF directly supports America’s 408 national parks through projects that
+      protect natural and cultural resources; connect all Americans with their
+      national parks; and inspire lifelong engagement with the next generation
+      of national park stewards.
 title: National Park Foundation
 uri: /organizations/national-park-foundation/
 extrapolated_project_ids:

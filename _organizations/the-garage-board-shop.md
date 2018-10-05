@@ -36,6 +36,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/sk8-4-education'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Garage Board Shop is an urban outlet created for the community to have
+      a space to express themselves through different channels.
 title: The Garage Board Shop
 uri: /organizations/the-garage-board-shop/
 extrapolated_project_ids:

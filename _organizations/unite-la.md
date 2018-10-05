@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/LACASHFORCOLLEGE.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      UNITE-LA transcends traditional silos and barriers between government,
+      business, and education systems to ensure all youth have access to high
+      quality education and the next generation of Angelenos are prepared to
+      succeed in the 21st century.
 title: UNITE-LA
 uri: /organizations/unite-la/
 extrapolated_project_ids:

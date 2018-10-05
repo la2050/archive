@@ -39,6 +39,11 @@ aggregated:
       https://challenge.la2050.org/entry/locally-grown-art-a-series-featuring-la-artists-in-performance-movement-talk-music-family-fun
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The SIJCC is a home for arts, culture, education and belonging on LA’s
+      east side, with numerous classes, events and other offerings devoted to
+      supporting and showcasing our local community of artists.
 title: SIJCC
 uri: /organizations/sijcc/
 extrapolated_project_ids:

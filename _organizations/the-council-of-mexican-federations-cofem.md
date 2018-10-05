@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/SanGabrielMountains.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      A non-profit empowering immigrant communities to be integrated in the
+      social, political and economic life of the United States; as a member of
+      the San Gabriel Mountains Forever coalition we helped create the San
+      Gabriel Mountains National Monument.
 title: The Council of Mexican Federations (COFEM)
 uri: /organizations/the-council-of-mexican-federations-cofem/
 extrapolated_project_ids:

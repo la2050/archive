@@ -49,6 +49,8 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/voices.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - "<ol><li>Launched a successful campaign with trafficked migrant workers that helped them obtain T-visas and create a tactical coalition composed of community organizations, churches and lawyers.\n \n \n </li><li>Co-sponsored the â€œliving wage campaignâ€\x9D in Long Beach, mobilizing community members collecting thousands of signatures and campaigning for a bill that was passed in the popular vote.\n \n \n </li><li>Engaged in the campaign to pass a Domestic Workers Bill of Rights through legislative visits, actions in Sacramento and actions in Los Angeles. \n \n \n </li><li>Held large community forums on comprehensive immigration reform and DACA (Deferred Action) for dreamers.\n \n \n </li><li>Conducts well attended immigration forums and health clinics in Long Beach for low-income families, migrant workers and youth.\n \n \n </li><li>Organized and mobilized community youth for a series of Hip-Hop workshops in Carson and Long Beach.\n \n \n </li></ol>"
 title: Filipino Migrant Center
 uri: /organizations/filipino-migrant-center/
 extrapolated_project_ids:

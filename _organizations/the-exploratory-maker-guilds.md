@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Exploratory: Maker Guilds prepares children to become innovative
+      agents of their future through programming and curriculum development.
 title: 'The Exploratory: Maker Guilds'
 uri: /organizations/the-exploratory-maker-guilds/
 extrapolated_project_ids:

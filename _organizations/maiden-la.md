@@ -46,6 +46,10 @@ aggregated:
       https://challenge.la2050.org/entry/maiden-la-a-county-wide-network-of-la-based-happenings-in-august-2017
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Maiden LA is a decentralized county-wide program that encourages, maps and
+      connects art-related events annually.
 title: Maiden LA
 uri: /organizations/maiden-la/
 extrapolated_project_ids:

@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Junior Fellows Program, housed within Woodbury University, is a
+      transdisciplinary research studio focusing on solving social problems.
 title: Woodbury University
 uri: /organizations/woodbury-university/
 extrapolated_project_ids:

@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      BGCH provides K-12 students with the tools needed to succeed in life by
+      offering academic, leadership, and youth development programs.
 title: Boys & Girls Club of Hollywood
 uri: /organizations/boys-girls-club-of-hollywood/
 extrapolated_project_ids:

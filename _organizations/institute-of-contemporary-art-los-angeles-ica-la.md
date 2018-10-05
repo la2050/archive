@@ -36,6 +36,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/agency-of-assets'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      ICA LA creates exhibitions, education programs, and community partnerships
+      that spark the pleasure of discovery and challenge the way we see and
+      experience the world, ourselves, and each other.
 title: 'Institute of Contemporary Art, Los Angeles (ICA LA)'
 uri: /organizations/institute-of-contemporary-art-los-angeles-ica-la/
 extrapolated_project_ids:

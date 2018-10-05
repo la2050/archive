@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/JVSWORKSLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      JVS Los Angeles offers hope and opportunity to our diverse community
+      through job training, mentoring and education, combined with expert career
+      guidance and employer partnerships, transforming lives and lifting
+      families out of poverty.
 title: JVS Los Angeles
 uri: /organizations/jvs-los-angeles/
 extrapolated_project_ids:

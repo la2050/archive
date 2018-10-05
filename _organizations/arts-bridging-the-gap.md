@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/girls-make-vr-teach-underserved-girls-how-to-make-vr-and-ar-content
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Arts Bridging the Gap creates Arts-educational experiences and programs to
+      bridge the achievement gap for underserved youth and ensure a better
+      future for all children
 title: Arts Bridging the Gap
 uri: /organizations/arts-bridging-the-gap/
 extrapolated_project_ids:

@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/HealthyTomorrow.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Sound Body Sound Mind Foundation (SBSM) promotes self-confidence and
+      healthy lifestyle choices among youth by providing state-of-the-art
+      fitness equipment and resources to underserved middle and high school
+      students in Los Angeles.
 title: The Sound Body Sound Mind Foundation
 uri: /organizations/the-sound-body-sound-mind-foundation/
 extrapolated_project_ids:

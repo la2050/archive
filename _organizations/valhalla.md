@@ -44,6 +44,23 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/ValhalLA.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      ValhaLA being founded. The establishment of partnerships within a short
+      time frame; solidifying a heavy interest in making this idea a reality.
+      The formation of a concrete plan that would allow it to move forward.
+       
+       
+       <br>
+       
+       
+       Valhalla Montreal formed in the summer of 2012. The website was then launched and members spread awareness to garner support. They will begin building on their 60 acres of land this spring. They raised $10,000 in less than a week through Kickstarter for the first off-the-grid, affordable, low-maintenance greenhouse.
+       
+       
+       <br>
+       
+       
+       Valhalla Washington has also started taking its first steps toward spreading awareness so that it may also sprout into a sister site.
 title: ValhalLA
 uri: /organizations/valhalla/
 extrapolated_project_ids:

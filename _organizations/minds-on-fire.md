@@ -42,6 +42,22 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/mindsonfire.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      Minds on Fire is in the start-up phase. However, the organizationâ€™s
+      founder created and piloted a similar model in New York City public
+      schools as part of Mayor Bloombergâ€™s inaugural NYC Civic Corps in 2009,
+      an initiative launched in partnership with AmeriCorps VISTA to engage
+      people across that city in volunteerism. The Minds on Fire model is shaped
+      by the successes and learnings taken from that pilot, in combination with
+      a deep understanding of the Los Angeles education landscape and challenges
+      specific to our school system.
+       
+       
+       
+       
+       
+       In the NYC Civic Corps program, a three-member team of VISTA Volunteers engaged 197 student- and teacher-leaders and 4,721 students across 58 schools in the development and implementation of service and service learning opportunities.
 title: Minds on Fire
 uri: /organizations/minds-on-fire/
 extrapolated_project_ids:

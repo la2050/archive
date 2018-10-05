@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LCreativo.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Supporting the Latin Indie Music Community of LA & Inspiring a new
+      generation of Latinos to connect w/ their heritage by creativity and art.
 title: 'Creative Cycle, LLC, dba. L Creativo'
 uri: /organizations/creative-cycle-llc-dba-l-creativo/
 extrapolated_project_ids:

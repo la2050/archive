@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/HOLLYWOODCURLING.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We are the only place in Los Angeles to participate in the Olympic sport
+      of curling, with a goal to offer the game to the local community, to
+      foster the social and competitive spirit of curling, and develop
+      competition at a local & national level.
 title: Hollywood Curling
 uri: /organizations/hollywood-curling/
 extrapolated_project_ids:

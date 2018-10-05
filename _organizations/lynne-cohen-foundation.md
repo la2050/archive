@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/lynne-cohen-preventive-care-clinic-at-usc-norris-cancer-center-for-women-at-risk-for-cancer
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Lynne Cohen Foundation supports four Preventive Care Clinics for women
+      at increased risk for breast or ovarian cancer by providing them with
+      access to comprehensive care in one place on one day.
 title: Lynne Cohen Foundation
 uri: /organizations/lynne-cohen-foundation/
 extrapolated_project_ids:

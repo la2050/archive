@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/thelab.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The mission of the TheLab, founded by university scientists and now lead
+      by a Caltech PhD biologist, is to make science accessible to all of LA by
+      providing lab equipment and workspace, offering classes and organizing
+      events to exchange ideas.
 title: 'TheLab, Inc'
 uri: /organizations/thelab-inc/
 extrapolated_project_ids:

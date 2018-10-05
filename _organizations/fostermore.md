@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      A non-profit coalition united on behalf of foster youth to increase
+      participation in foster parenting, mentoring & educational opportunities
 title: FosterMore
 uri: /organizations/fostermore/
 extrapolated_project_ids:

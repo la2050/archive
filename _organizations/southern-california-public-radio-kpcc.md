@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/meetsocal-a-kpcc-in-person-event-series-of-in-community-experiences-to-better-connect-angelenos
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We are a member-supported public media organization that informs, engages,
+      and reflects Southern California using broadcast radio, the web, mobile
+      apps and podcasts, social media, and live events.
 title: Southern California Public Radio (KPCC)
 uri: /organizations/southern-california-public-radio-kpcc/
 extrapolated_project_ids:

@@ -36,6 +36,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/the-intern-project-slate-z-expansion'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The LA Promise Fund is a nonprofit organization dedicated to preparing Los
+      Angeles students for success in college, career, and life.
 title: LA Promise Fund
 uri: /organizations/la-promise-fund/
 extrapolated_project_ids:

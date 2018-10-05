@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      ChapCare provides primary health care services; medical and dental care
+      and behavioral health counseling; to 15,000 patients annually.
 title: ChapCare
 uri: /organizations/chapcare/
 extrapolated_project_ids: []

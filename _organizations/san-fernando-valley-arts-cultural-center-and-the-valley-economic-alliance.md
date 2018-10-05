@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LAACECONNECTS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The San Fernando Valley Arts & Cultural Center advocates the arts through
+      exhibitions, education, music and theater by promoting visual and
+      performing arts, providing a cultural hub for our community and enriching
+      the lives of artists and others.
 title: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
 uri: >-
   /organizations/san-fernando-valley-arts-cultural-center-and-the-valley-economic-alliance/

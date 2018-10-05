@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/playascape-transforming-la-into-an-artistic-playground-that-inspires-innovation-with-public-art
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Enriching lives through music,Make Music LA desires to expand the horizons
+      of residents of every age by unlocking their artistic imagination to
+      enable lifelong learning, and creative invention.
 title: Make Music Los Angeles
 uri: /organizations/make-music-los-angeles/
 extrapolated_project_ids:

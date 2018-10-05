@@ -37,6 +37,10 @@ aggregated:
       https://challenge.la2050.org/entry/college-career-and-community-polahs-career-technical-education-cte-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      POLAHS is a public, independent charter school educating 950 students in
+      grades 9-12.
 title: Port of Los Angeles High School
 uri: /organizations/port-of-los-angeles-high-school/
 extrapolated_project_ids:

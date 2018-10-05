@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      ML+A promotes the practice of designing innovative landscapes while
+      building healthy environments and sustainable communities.
 title: 'Mia Lehrer + Associates, LA-Mas, Arid Lands Institute'
 uri: /organizations/mia-lehrer-associates-la-mas-arid-lands-institute/
 extrapolated_project_ids: []

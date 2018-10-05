@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/ALTravelProject.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Alternative Travel Project (ATP) is an initiative that encourages
+      people to go car-free for just one day.
 title: The Alternative Travel Project
 uri: /organizations/the-alternative-travel-project/
 extrapolated_project_ids:

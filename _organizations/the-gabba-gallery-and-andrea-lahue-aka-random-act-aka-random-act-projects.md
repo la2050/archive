@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/StreetArt.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We enrich artists and community through Street Art, public projects,
+      exhibitions, education, community outreach and beautification.
 title: The Gabba Gallery and Andrea LaHue aka Random Act aka Random Act Projects
 uri: >-
   /organizations/the-gabba-gallery-and-andrea-lahue-aka-random-act-aka-random-act-projects/

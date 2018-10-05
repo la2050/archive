@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/Welcome.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The charity develops original, big-vision programs which create jobs and
+      benefit a large number of people.
 title: Optimizing National Education
 uri: /organizations/optimizing-national-education/
 extrapolated_project_ids:

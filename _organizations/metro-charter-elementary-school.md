@@ -33,6 +33,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/people-in-me-interactive-cyber-mural'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The first parent-initiated charter in downtown L.A., METRO meaningfully
+      connects students with the diverse cultures, customs, beliefs and
+      creativity of those who work and live downtown.
 title: METRO Charter Elementary School
 uri: /organizations/metro-charter-elementary-school/
 extrapolated_project_ids:

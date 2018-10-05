@@ -33,6 +33,14 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Facing History and Ourselves supports educators in LA and around the
+      world, improving their effectiveness in the classroom and their students’
+      academic performance, historical understanding, and civic learning.
+    - >-
+      Facing History and Ourselves empowers students to make a difference by
+      connecting Upstander behavior in history to their own choices.
 title: 'Facing History and Ourselves, Inc.'
 uri: /organizations/facing-history-and-ourselves-inc/
 extrapolated_project_ids:

@@ -38,6 +38,18 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Strengthen quality child care and early education through participation in
+      and education of health and wellness initiatives.
+    - >-
+      Impact children’s health and wellness by supporting child care providers
+      (essentially any caregiver who is not the child’s parent) by providing
+      them with educational, monetary, and human resources they may not
+      typically have access to or know about.
+    - >-
+      Strengthen quality child care and early education through education of and
+      encouraging participation in health and wellness initiatives.
 title: T&L Foundation for Child Care Information
 uri: /organizations/t-l-foundation-for-child-care-information/
 extrapolated_project_ids:

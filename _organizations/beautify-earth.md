@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/beautifyla.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Beautify Earth creates murals to uplift neighborhoods, build strong
+      communities and boost local business.
 title: Beautify Earth
 uri: /organizations/beautify-earth/
 extrapolated_project_ids:

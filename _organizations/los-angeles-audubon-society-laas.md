@@ -41,6 +41,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      LA Audubon promotes the enjoyment and protection of birds and other
+      wildlife through environmental education, conservation and habitat
+      restoration.
+    - >-
+      The mission of the Los Angeles Audubon Society (LAAS) is to promote the
+      enjoyment and protection of birds and other wildlife through environmental
+      education, conservation and habitat restoration.
 title: Los Angeles Audubon Society (LAAS)
 uri: /organizations/los-angeles-audubon-society-laas/
 extrapolated_project_ids:

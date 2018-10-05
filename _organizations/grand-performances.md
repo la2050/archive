@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/GPCONNECTS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      In 2016, Grand Performances (GP) celebrates 30 years of presenting FREE,
+      high quality performing arts that reflect the best of global culture and
+      inspire community among America's most diverse audience.
 title: Grand Performances
 uri: /organizations/grand-performances/
 extrapolated_project_ids:

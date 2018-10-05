@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We're technologists and educators passionate about creating better
+      students today that will develop into the leaders of a better tomorrow.
 title: Ignite Teaching
 uri: /organizations/ignite-teaching/
 extrapolated_project_ids:

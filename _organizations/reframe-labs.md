@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/ReframeLabs.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Reframe is a nonprofit that trains leaders to launch new and redesigned
+      next generation school models in Los Angeles.
 title: Reframe Labs
 uri: /organizations/reframe-labs/
 extrapolated_project_ids:

@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LAPerformance.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      LAPP is a producing organization and artists’ network dedicated to
+      supporting the unique contemporary performance community of Los Angeles.
 title: Los Angeles Performance Practice
 uri: /organizations/los-angeles-performance-practice/
 extrapolated_project_ids:

@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/nami-home-front-is-people-impacted-by-mental-illness-helping-veterans-and-their-families
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      NAMI San Fernando Valley is a grass roots volunteer organization offering
+      free of charge support, education, and advocacy for people, families, and
+      communities affected by affected by mental illness.
 title: NAMI San Fernando Valley
 uri: /organizations/nami-san-fernando-valley/
 extrapolated_project_ids:

@@ -46,6 +46,11 @@ aggregated:
     - 'https://activation.la2050.org/live/smartairla/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      SmartAirLA deploys smart inhalers to high-risk asthmatic children in
+      underserved communities in Los Angeles County. Smart inhalers monitor
+      medication use, time and location of the breathing problems.
 title: SmartAirLA
 uri: /organizations/smartairla/
 extrapolated_project_ids:

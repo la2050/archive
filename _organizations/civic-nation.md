@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/votetogether-lets-use-music-food-and-art-to-make-voting-a-moment-of-community-celebration
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Civic Nation builds tools and campaigns that encourage more civic
+      engagement around topics like ending sexual assault, gender equality, free
+      community college, and more.
 title: Civic Nation
 uri: /organizations/civic-nation/
 extrapolated_project_ids:

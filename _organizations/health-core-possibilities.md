@@ -41,6 +41,11 @@ aggregated:
     - 'https://activation.la2050.org/live/health-core-possibilities/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      HCP is a diverse group of experienced consultants working with
+      organizations seeking solutions that create positive impact. Twenty years
+      working in applied technology and mobilizing the LA community.
 title: Health Core Possibilities
 uri: /organizations/health-core-possibilities/
 extrapolated_project_ids: []

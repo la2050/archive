@@ -38,6 +38,18 @@ aggregated:
     - '2018'
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      Global Green is an urban sustainability nonprofit headquartered in Santa
+      Monica that works to green cities, neighborhoods, and affordable housing
+      to improve sustainability, livability, and resilience.
+    - >-
+      We green cities, schools, and affordable housing to help protect human
+      health, improve livability, and support our planet's natural systems in an
+      effort to stem climate change.
+    - >-
+      Nonprofit working to stem climate change & build a more sustainable,
+      secure future. Helping the people, places & the planet in need.
 title: Global Green USA
 uri: /organizations/global-green-usa/
 extrapolated_project_ids:

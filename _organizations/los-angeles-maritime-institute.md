@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/adventureeducation.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We empower youth to discover their greater potential through extraordinary
+      “learning by doing” experiences at sea aboard our tall ships, instilling
+      the academic skills needed to graduate from high school and fostering a
+      love for lifelong learning.
 title: Los Angeles Maritime Institute
 uri: /organizations/los-angeles-maritime-institute/
 extrapolated_project_ids:

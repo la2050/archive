@@ -37,6 +37,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      We partner with individuals, families and neighborhoods to build empowered
+      and healthy communities from the inside up using community organizing,
+      family well-being, child development and pathways to self sufficiency as
+      our primary strategies.
+    - >-
+      For forty years, SBCC has helped communities in Los Angeles County
+      discover and develop tools for individual and collective well-being.
 title: SBCC Thrive LA
 uri: /organizations/sbcc-thrive-la/
 extrapolated_project_ids:

@@ -36,6 +36,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/ReadingPartnersLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We connect local volunteers to under-resourced elementary schools to
+      provide one-on-one tutoring to K-4th graders reading below grade-level;
+      through tangible skill development, students make measurable improvements
+      toward reading proficiency.
 title: Reading Partners
 uri: /organizations/reading-partners/
 extrapolated_project_ids:

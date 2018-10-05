@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/pools-of-hope-provides-an-after-school-swim-achieve-homework-assistance-lab-for-at-risk-youth
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Pools of Hope is a warm-water facility promoting whole life wellness in
+      our community through aquatic programs for low-income individuals of
+      varying abilities and of all ages.
 title: California Aquatic Therapy & Wellness Center (DBA Pools of Hope)
 uri: /organizations/california-aquatic-therapy-wellness-center-dba-pools-of-hope/
 extrapolated_project_ids:

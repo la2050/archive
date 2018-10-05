@@ -41,6 +41,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/empowering-you-to-create-your-legacy'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We provide resources to artists and the community in the areas of
+      professional development, empowerment, self awareness, and
+      entrepreneurship.
 title: Just As You Are Legacy
 uri: /organizations/just-as-you-are-legacy/
 extrapolated_project_ids:

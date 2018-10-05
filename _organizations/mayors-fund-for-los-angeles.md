@@ -44,6 +44,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/mayors-fund-for-los-angeles/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Mayor’s Fund for Los Angeles brings together the best of private,
+      philanthropic, non-profit and government resources to take on the city’s
+      most pressing challenges.
 title: Mayor’s Fund for Los Angeles
 uri: /organizations/mayors-fund-for-los-angeles/
 extrapolated_project_ids: []

@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/electrify-la-the-campaign-for-clean-buses-and-good-jobs
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Jobs to Move America (JMA) is a national organization- headquartered in
+      LA-dedicated to re-invigorating our manufacturing economy through good
+      jobs & opportunities for all
 title: Jobs to Move America
 uri: /organizations/jobs-to-move-america/
 extrapolated_project_ids:

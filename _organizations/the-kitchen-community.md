@@ -26,6 +26,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We make beautiful, playful, versatile, durable and affordable Learning
+      Gardens that can be easily installed in any school.
 title: The Kitchen Community
 uri: /organizations/the-kitchen-community/
 extrapolated_project_ids: []

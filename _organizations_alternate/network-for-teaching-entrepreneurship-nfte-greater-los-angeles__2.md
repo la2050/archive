@@ -72,6 +72,12 @@ aggregated:
   year_submitted:
     - '2015'
     - '2013'
+  org_summary:
+    - >-
+      NFTE Greater LA provides entrepreneurship education programs designed to
+      inspire young people from low-income communities to stay in school, to
+      recognize business opportunities and to plan for successful futures.
+    - "â€¢ NFTE Greater LA celebrated our 5th Anniversary in 2012. Since our launch, we have trained over 6,000 of our cityâ€™s hardest-to-reach students in our rigorous entrepreneurship curriculum. By the end of this school year, we will have reached a cumulative total of 7,800 local youth. (April 2012)\n \n \n \n \n \n â€¢ Out of over 20,000 NFTE students across the country, NFTE Greater LA students have won our National Youth Entrepreneurship Challenge three out of the past 4 years, winning both First and Second Place in 2011:\n \n \n o First Place: Kalief Rollins â€œPhree Kountry Clothingâ€\x9D (2009)\n \n \n o First Place: Hayley Hoverter â€œSweet (dis)SOLVEâ€\x9D (2011)\n \n \n o Second Place: Shomari Patterson â€œShamazzleâ€™s Dazzlesâ€\x9D (2011)\n \n \n o First Place: Vincent Quigg â€œTech Worldâ€\x9D (2012)\n \n \n \n \n \n â€¢ Our Advisory Board Chair Jeff Green was honored with NFTEâ€™s Lowell B. Mason Volunteer of the Year Award for exemplary service. (April 2012)\n \n \n \n \n \n â€¢ During 2012, NFTE Greater LA embarked on a Strategic Planning process for FY13-FY15 which included an assessment of our current situation, outreach to our communities for feedback, and the creation of strategic priorities as we move forward. This process culminated in a Strategic Planning Retreat, where participants weighed in on our initiatives and engaged in creating our case for support and picture of success. We look forward to utilizing this grander vision as a guide to building a more impactful organization in the years to come. In November, we were awarded a Strategic Scorecard Grant from the Taproot Foundation to better enable us to track our success. (2012)\n \n \n \n \n \n â€¢ Due to an anchor gift from one of our funders, we were able to expand our program enrollment and build capacity by growing our NFTE Greater LA Team to 4 full-time staff, and 4 consultants, as well as embark on a research project to assess our impact on LA youth. (October 2012)"
 title: Network for Teaching Entrepreneurship (NFTE) Greater Los Angeles
 uri: /organizations/network-for-teaching-entrepreneurship-nfte-greater-los-angeles/
 extrapolated_project_ids:

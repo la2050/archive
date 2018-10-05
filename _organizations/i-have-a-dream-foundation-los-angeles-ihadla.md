@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/ihaveadream.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Since 1987, IHADLA has worked to break the cycle of poverty in Los
+      Angeles’ most disadvantaged communities, working with the same students
+      for 10+ years & providing them with a free, year round program of
+      educational, emotional, & cultural support.
 title: '"I Have a Dream" Foundation - Los Angeles (IHADLA)'
 uri: /organizations/i-have-a-dream-foundation-los-angeles-ihadla/
 extrapolated_project_ids:

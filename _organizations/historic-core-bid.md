@@ -33,6 +33,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/spring-street-parklets'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Historic Core BID is a 501(c)(6) non-profit dedicated to improving
+      quality of life in the Historic Core of DTLA through clean, safe, and
+      enterprise programs.
 title: Historic Core BID
 uri: /organizations/historic-core-bid/
 extrapolated_project_ids:

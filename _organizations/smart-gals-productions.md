@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/IsWasWillBe.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Dedicated to building community and supporting dialog throughout Los
+      Angeles, Smart Gals seeks to connect those who would otherwise not meet,
+      by taking literature, performance and the arts out of their traditional
+      venues, removing exclusivity, and op
 title: Smart Gals Productions
 uri: /organizations/smart-gals-productions/
 extrapolated_project_ids:

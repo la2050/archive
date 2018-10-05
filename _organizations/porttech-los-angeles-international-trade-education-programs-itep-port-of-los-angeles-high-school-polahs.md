@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      PortTech connects entrepreneurs, industry and community to advance
+      innovation, solve port/global environmental challenges, and create jobs.
 title: >-
   PortTech Los Angeles, International Trade Education Programs (ITEP), Port of
   Los Angeles High School (POLAHS)

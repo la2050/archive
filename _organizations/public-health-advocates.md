@@ -30,6 +30,8 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/EatWellLiveBetter.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - '#N/A'
 title: Public Health Advocates
 uri: /organizations/public-health-advocates/
 extrapolated_project_ids: []

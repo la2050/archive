@@ -34,6 +34,11 @@ aggregated:
     - 'https://activation.la2050.org/learn/the-people-of-change/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The People of Change programs promote advancement opportunities through
+      community based initiatives in the fields of education, income, cultural
+      awareness and health.
 title: The People of Change
 uri: /organizations/the-people-of-change/
 extrapolated_project_ids: []

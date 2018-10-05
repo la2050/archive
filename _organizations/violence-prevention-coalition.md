@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/LA4YOUTH.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Violence Prevention Coalition seeks to unify and strengthen voices of
+      members committed to ending the epidemic of violence in LA.
 title: Violence Prevention Coalition
 uri: /organizations/violence-prevention-coalition/
 extrapolated_project_ids:

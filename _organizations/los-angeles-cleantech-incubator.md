@@ -41,6 +41,11 @@ aggregated:
     - 'https://challenge.la2050.org/entry/youth-cleantech-training-program'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LACI incubates early stage cleantech companies and helps bring their
+      products and services to market by convening investors, corporations, and
+      customers to drive innovation throughout our economy.
 title: Los Angeles Cleantech Incubator
 uri: /organizations/los-angeles-cleantech-incubator/
 extrapolated_project_ids:

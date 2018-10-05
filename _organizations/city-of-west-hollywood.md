@@ -34,6 +34,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/open-sourced-smart-city-collaborative'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The City of West Hollywood, colloquially referred to as 'WeHo,' serves
+      35,000 residents in 1.9 square miles in the center of Los Angeles County.
 title: City of West Hollywood
 uri: /organizations/city-of-west-hollywood/
 extrapolated_project_ids:

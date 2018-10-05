@@ -35,6 +35,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/peace.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      World Peace One drives global awareness of peace and the environment
+      through music and education to help people transform their communities
 title: World Peace One
 uri: /organizations/world-peace-one/
 extrapolated_project_ids:

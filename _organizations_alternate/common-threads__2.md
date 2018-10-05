@@ -38,6 +38,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Common Threads delivers in- and out-of-school, hands-on cooking and
+      nutrition education programs to preK-8th graders, their families, and
+      their teachers primarily in underserved communities.
+    - >-
+      In partnership with schools and select community organizations, Common
+      Threads delivers our proven healthy cooking and nutrition education
+      programs to 3rd-8th graders, their families, and their teachers in
+      underserved areas in six major U.S. cities.
 title: Common Threads
 uri: /organizations/common-threads/
 extrapolated_project_ids:

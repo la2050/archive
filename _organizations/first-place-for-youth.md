@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/first-place-providing-at-risk-foster-youth-with-the-skills-they-need-to-be-college-and-career-ready
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      First Place provides foster youth with intensive support to complete their
+      high school diploma or GED certificate, enroll in college, and obtain
+      employment—while accessing safe, affordable housing.
 title: First Place for Youth
 uri: /organizations/first-place-for-youth/
 extrapolated_project_ids:

@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Online marketplace bringing together students/job seekers with mentors who
+      already have the career they want.
 title: The Prep Source
 uri: /organizations/the-prep-source/
 extrapolated_project_ids:

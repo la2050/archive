@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/fruitchange.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Fruit Change is an organization founded with the intent to develop a
+      system for San Pedro neighbors to connect with each other by sharing the
+      bounty from neighborhood fruit trees.
 title: Fruit Change
 uri: /organizations/fruit-change/
 extrapolated_project_ids:

@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      FutureBound provides educational video games based on innovative
+      technology to increase the number of youth attending college.
 title: 'FutureBound, Inc.'
 uri: /organizations/futurebound-inc/
 extrapolated_project_ids:

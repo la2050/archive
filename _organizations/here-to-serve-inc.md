@@ -46,6 +46,11 @@ aggregated:
       https://challenge.la2050.org/entry/connecting-communities-of-support-with-families-who-have-a-critically-ill-young-child-or-parent
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We CONNECT physical, financial & emotional care to parents to help manage
+      their home life during a medical crisis providing meals; child, yard,
+      house and pet care; fundraising; medical updates, etc.
 title: 'Here to Serve, Inc'
 uri: /organizations/here-to-serve-inc/
 extrapolated_project_ids:

@@ -30,6 +30,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/eezitec.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      EEZITEC is an eCommerce platform & ecosystem where people can discover &
+      learn about 3D printing, purchase 3D printers, 3D scanners, & 3D printed
+      models.
 title: EEZITEC
 uri: /organizations/eezitec/
 extrapolated_project_ids:

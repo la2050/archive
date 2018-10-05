@@ -29,6 +29,8 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/craftservices.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - '#NAME?'
 title: Participlay
 uri: /organizations/participlay/
 extrapolated_project_ids:

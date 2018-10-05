@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/playla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Knucklebones is an athletically inspired wellness company, providing
+      custom programs and events to infants through seniors at any time of year,
+      for any occasion and in any location: child cares, schools, corporations,
+      assisted living centers, etc.
 title: Knucklebones
 uri: /organizations/knucklebones/
 extrapolated_project_ids:

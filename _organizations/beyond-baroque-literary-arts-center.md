@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/Beyondbaroque.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We are dedicated to nurturing the literary arts, and to building community
+      by making participation in the arts available to all.
 title: Beyond Baroque Literary Arts Center
 uri: /organizations/beyond-baroque-literary-arts-center/
 extrapolated_project_ids:

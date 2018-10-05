@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/building-las-underserved-communities-from-the-ground-up!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Community Healing Gardens transforms communities through urban gardens
+      that provide healthy food, create jobs, foster community & educates about
+      the urgency of human/planetary health.
 title: Community Healing Gardens
 uri: /organizations/community-healing-gardens/
 extrapolated_project_ids:

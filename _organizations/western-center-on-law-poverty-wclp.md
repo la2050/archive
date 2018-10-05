@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Western Center advocates and litigates to secure housing, health care and
+      a strong safety net for all Californians living in poverty.
 title: Western Center on Law & Poverty (WCLP)
 uri: /organizations/western-center-on-law-poverty-wclp/
 extrapolated_project_ids: []

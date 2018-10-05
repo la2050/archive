@@ -35,6 +35,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/vetsrisingLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      IAVA is the nation’s leading post-9/11 veteran empowerment organization,
+      with more than 3,700 veteran members and 10,400 civilians living in LA,
+      who share our commitment to connecting, uniting and empowering
+      veterans-and supporting their health.
 title: Iraq and Afghanistan Veterans of America (IAVA)
 uri: /organizations/iraq-and-afghanistan-veterans-of-america-iava/
 extrapolated_project_ids:

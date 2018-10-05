@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/MentorMint.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Online mentoring connecting students with mentors who are industry
+      professionals, peers, and community leaders; serving all students K-12,
+      community college, and 4-year universities for all disciplines and
+      backgrounds to achieve career success
 title: MentorMint
 uri: /organizations/mentormint/
 extrapolated_project_ids:

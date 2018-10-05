@@ -38,6 +38,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2014'
+  org_summary:
+    - >-
+      An economic justice organization that builds leadership among low-income
+      folks and communities of color through grassroots organizing, policy
+      advocacy, convening of partners, and community education
+    - >-
+      California Partnership empowers people who are living in poverty to engage
+      with their civic environment through trainings and collaboration.
 title: California Partnership
 uri: /organizations/california-partnership/
 extrapolated_project_ids:

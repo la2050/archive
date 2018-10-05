@@ -41,6 +41,11 @@ aggregated:
       https://activation.la2050.org/play/the-brady-center-to-prevent-gun-violence/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      For more than 40 years, Brady has been the leading national voice in the
+      prevention of gun violence, effecting meaningful change through public
+      policy, legal action, and public awareness campaigns.
 title: The Brady Center to Prevent Gun Violence
 uri: /organizations/the-brady-center-to-prevent-gun-violence/
 extrapolated_project_ids:

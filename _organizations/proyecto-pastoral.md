@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/collegesquad-promesa-boyle-heights-peer-mentor-program
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Proyecto is the backbone org. for Promesa Boyle Heights (PBH), a
+      collaboration of families, educators & orgs working to ensure all children
+      in BH have access to strong schools & support systems.
 title: Proyecto Pastoral
 uri: /organizations/proyecto-pastoral/
 extrapolated_project_ids:

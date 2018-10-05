@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/3boulevards.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Revitalization of the historic boulevards in West Adams & economic
+      development & diversification of the commercial enterprises
 title: 3Boulevards and West Adams Heritage Assocation (WAHA)
 uri: /organizations/3boulevards-and-west-adams-heritage-assocation-waha/
 extrapolated_project_ids:

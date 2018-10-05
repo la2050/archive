@@ -40,6 +40,21 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/DearLosAngeles.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - |-
+      None. 
+       
+       
+       
+       
+       
+       Our organization has not published anything public yet. I conceived this idea about three months ago after talking with the CEO of Dekit Magazine. If I were to receive this grant, I could have the website and social media channels up and running in less than a month, and weekly episodes for all 3 brands out in less than two months. 
+       
+       
+       
+       
+       
+       I can tell you that as an individual, I have line produced two feature films, one of which was acquired and released by Lionsgate (you can view my resume on IMDB at http://www.imdb.com/name/nm1336027/). I have become a member of the Producer's Guild of America, and I partnered with others on two separate internet media companies, and while they fell short of expectations, I have learned from their mistakes.
 title: Dear Los Angeles
 uri: /organizations/dear-los-angeles/
 extrapolated_project_ids:

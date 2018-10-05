@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/grassroots-training-for-health-combating-obesity-one-community-at-a-time
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Grassroots Training for Health is a non-profit organization that
+      collaborates with community fitness experts and city leaders to establish
+      an affordable exercise programs under-served Communities.
 title: Grassroots Training for Health
 uri: /organizations/grassroots-training-for-health/
 extrapolated_project_ids:

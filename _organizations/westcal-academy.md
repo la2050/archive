@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/westcal.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      WestCal Academy connects industry mentors with high school and
+      undergraduate college students to increase graduation rates and help
+      students discover their career pathway.
 title: WestCal Academy
 uri: /organizations/westcal-academy/
 extrapolated_project_ids:

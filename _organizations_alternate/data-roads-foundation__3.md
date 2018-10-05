@@ -45,6 +45,22 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      We provide open source software, education, and legal paperwork for
+      nonprofit Local Sharing Network co-ops -- otherwise known as 501(c)(12)
+      Utility Co-ops and 501(c)(4) community network providers.
+    - >-
+      The Data Roads Foundation helps build and maintain networked data roads
+      for everyone, because all roads should lead to all people.
+    - >-
+      Dharma Health Institute is an integrative health center that focuses on
+      creating strategies and solutions for life long wellness, including tai
+      chi, yoga, acupuncture, acupressure, nutrition and a wide variety of
+      health-related workshops.
+    - >-
+      We build open source legal templates, hardware, and software to help
+      community-owned networks grow and thrive worldwide (especially in LA!).
 title: Data Roads Foundation
 uri: /organizations/data-roads-foundation/
 extrapolated_project_ids:

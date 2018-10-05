@@ -34,6 +34,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/FriendlyLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We lead peace-building efforts among social, cultural and ideological
+      differences through advocacy, awareness and community outreach.
 title: Peace Allies
 uri: /organizations/peace-allies/
 extrapolated_project_ids:

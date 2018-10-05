@@ -40,6 +40,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/goodgriefgarden.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Dinner Party is a community of mostly 20- and 30-somethings who’ve
+      each experienced significant loss, and get together over dinner parties to
+      talk about it and the ways in which it continues to affect our lives.
 title: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating'
 uri: >-
   /organizations/the-dinner-party-the-kitchen-widow-hope-after-project-first-seating/

@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/carpe-la-collaborative-augmented-reality-play-experience-for-families-of-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Annenberg Innovation Lab at University of Southern California is a
+      research and development hub fostering real-world innovation at the
+      dynamic intersection of media and culture.
 title: USC Annenberg Innovation Lab
 uri: /organizations/usc-annenberg-innovation-lab/
 extrapolated_project_ids:

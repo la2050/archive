@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/laying-the-groundwork-for-a-park-on-the-la-river
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Clockshop creates new conversations about cultural production, politics,
+      and urban space by commissioning work by artists and writers and
+      partnering with diverse institutions.
 title: Clockshop & California State Parks
 uri: /organizations/clockshop-california-state-parks/
 extrapolated_project_ids:

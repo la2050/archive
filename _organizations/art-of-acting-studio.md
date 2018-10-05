@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/SAArtOfActingLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      AOA transforms lives and communities through the arts by creating an
+      environment that nurtures theatre artists who value humanity as their
+      first priority.
 title: Art of Acting Studio
 uri: /organizations/art-of-acting-studio/
 extrapolated_project_ids:

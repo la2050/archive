@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/LARiverCoOp.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      River Wild LLC incubates pop-up economic development models along the LA
+      River in underserved communities.
 title: River Wild LLC
 uri: /organizations/river-wild-llc/
 extrapolated_project_ids:

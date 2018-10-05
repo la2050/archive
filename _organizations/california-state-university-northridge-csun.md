@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/csuns-recruiting-boot-camp-helps-students-gain-the-skills-they-need-to-get-their-careers-started
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Serving nearly 40,000 students, CSUN offers programs to help develop the
+      academic competencies, professional skills, critical/creative abilities,
+      and ethical values to reach their educational goals.
 title: 'California State University, Northridge (CSUN)'
 uri: /organizations/california-state-university-northridge-csun/
 extrapolated_project_ids:

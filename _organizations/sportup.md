@@ -48,6 +48,11 @@ aggregated:
       https://challenge.la2050.org/entry/empowering-community-organizations-to-grow-through-logistics-and-data-analytics
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      SportUp is a robust mobile and online activity management tool designed to
+      help teams and groups organize, communicate, and develop their programs by
+      empowering them to analyze and interpret data.
 title: SportUp
 uri: /organizations/sportup/
 extrapolated_project_ids:

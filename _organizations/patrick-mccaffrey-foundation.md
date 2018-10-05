@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/how-we-can-use-tiny-houses-to-make-a-big-impact-on-housing-affordability-in-los-angeles!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Patrick McCaffrey Foundation is a non-profit public charity
+      benefitting American military veterans and their families, and land
+      trustee for a future Veterans Village.
 title: Patrick McCaffrey Foundation
 uri: /organizations/patrick-mccaffrey-foundation/
 extrapolated_project_ids:

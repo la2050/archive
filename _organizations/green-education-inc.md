@@ -29,6 +29,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Partner with stakeholders to educate and transform communities into green
+      sustainable neighborhoods.
 title: Green Education Inc.
 uri: /organizations/green-education-inc/
 extrapolated_project_ids: []

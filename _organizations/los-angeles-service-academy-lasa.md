@@ -58,6 +58,23 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      LASA combines fieldwork and student engagement to change the lives and
+      career paths of high school students in the region to become agents of
+      change and community building throughout LA.
+    - >-
+      LASA empowers a diverse group of LA's youth to not only understand the
+      complexities of civic infrastructure, but be the problem-solvers and
+      visionaries of our city’s immediate and far-flung future.
+    - >-
+      The Los Angeles Service Academy provides an intensive introduction to the
+      infrastructure and institutions of greater Los Angeles for high school
+      juniors who have expressed an interest in public service and civic
+      engagement.
+    - >-
+      We teach high school kids from all over greater Los Angeles about the
+      infrastructure of Southern California.
 title: Los Angeles Service Academy (LASA)
 uri: /organizations/los-angeles-service-academy-lasa/
 extrapolated_project_ids:

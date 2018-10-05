@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/MYCITY.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Dumlao Enterprises is a digital media & marketing business focused on
+      helping small businesses, artists, & entrepreneurs.
 title: Dumlao Enterprises
 uri: /organizations/dumlao-enterprises/
 extrapolated_project_ids:

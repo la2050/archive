@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/LAMakerspace.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LA Makerspace is a community-based organization whose mission is to foster
+      innovation among Angelenos by offering increased access to new
+      opportunities in STEAM (science, technology, engineering, arts,
+      mathematics).
 title: LA Makerspace
 uri: /organizations/la-makerspace/
 extrapolated_project_ids:

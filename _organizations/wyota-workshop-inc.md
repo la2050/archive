@@ -39,6 +39,10 @@ aggregated:
       https://challenge.la2050.org/entry/enhancing-the-schoolyard-to-promote-outdoor-learning
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Wyota Workshop is a design and research firm working in the fields of art,
+      architecture, urban design and planning
 title: 'Wyota Workshop, Inc.'
 uri: /organizations/wyota-workshop-inc/
 extrapolated_project_ids:

@@ -46,6 +46,23 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/CBRN.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      The First Southern Baptist Church of Sylmar (FSBCS), who is the sponsoring
+      partner of this initiative, began a food pantry immediately after the
+      Northridge earthquake in â€™94, as a distributor for FEMA. Since the need
+      to assist the hungry didnâ€™t end once the infrastructure was repaired,
+      neither did the FSBCS. The church is quite small; in fact, it averages
+      less than 50 people a week for its Sunday service â€“ yet it provides food
+      to an average of 5,000 people per month. It manages to do this week after
+      week, month after month, year after year â€“ with a workforce comprised
+      entirely of volunteers. There are no administrative costs or overhead. 
+       
+       
+       
+       
+       
+       This has been done by effectively collaborating with a host of other community organizations from withing the public and private sectors. As continued recipients of Federal resources, the boundaries between Church and State are clearly understood and respected.
 title: FSBCS dba Community Builders Resource Network (CBRN)
 uri: /organizations/fsbcs-dba-community-builders-resource-network-cbrn/
 extrapolated_project_ids:

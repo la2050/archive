@@ -36,6 +36,12 @@ aggregated:
       http://maker.good.is/myla2050connect2015/projects/downtownartwalkvotes.html
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      DWC aims to end homelessness for women in Los Angeles; to achieve this, we
+      provide gender-responsive services including access to basic needs and
+      resources, clinical health and wellness, mental health, housing,
+      education, and job readiness.
 title: Downtown Los Angeles Art Walk
 uri: /organizations/downtown-los-angeles-art-walk/
 extrapolated_project_ids: []

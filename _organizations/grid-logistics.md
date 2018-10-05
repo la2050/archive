@@ -48,6 +48,17 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      GRID Logistics are proposers of a design build maintain and operate
+      transportation infrastructure for containerized goods movement. GRID
+      markets are the world's leading container trading gateways.
+    - >-
+      GRID is a Los Angeles Cleantech Incubator portfolio company that develops
+      freight transportation for the 21st Century.
+    - >-
+      We aim to boost throughput at the Ports of LA & Long Beach while actually
+      reducing truck traffic & pollution along the 710 freight corridor
 title: GRID Logistics
 uri: /organizations/grid-logistics/
 extrapolated_project_ids:

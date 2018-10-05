@@ -33,6 +33,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Climate Cents is an online platform that makes it easy and exciting to
+      fight global warming by supporting local initiatives that are making Los
+      Angeles a better place to live right now, especially for its most
+      disadvantaged communities.
+    - >-
+      Climate Cents is an online platform that connects Angelenos to local
+      projects that improve LA’s environment and reduce greenhouse gases.
 title: Climate Cents
 uri: /organizations/climate-cents/
 extrapolated_project_ids:

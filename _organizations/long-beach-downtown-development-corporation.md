@@ -35,6 +35,10 @@ aggregated:
       https://activation.la2050.org/create/long-beach-downtown-development-corporation/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Our mission is to cultivate, preserve and promote a healthy, safe and
+      prosperous Downtown.
 title: Long Beach Downtown Development Corporation
 uri: /organizations/long-beach-downtown-development-corporation/
 extrapolated_project_ids: []

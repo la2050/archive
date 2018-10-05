@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/CREATEProject.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The University Corporation is a non-profit auxiliary corporation providing
+      commercial and administrative services to California State University,
+      Northridge (CSUN) and is also managing major projects for the campus.
 title: The University Corporation
 uri: /organizations/the-university-corporation/
 extrapolated_project_ids:

@@ -46,6 +46,10 @@ aggregated:
     - 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      EVERYONE IN, powered by United Way, is a coalition that is keeping the
+      focus on permanent solutions to homelessness.
 title: United Way of Greater Los Angeles
 uri: /organizations/united-way-of-greater-los-angeles/
 extrapolated_project_ids: []

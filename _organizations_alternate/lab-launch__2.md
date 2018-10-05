@@ -35,6 +35,15 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Lab Launch’s mission is to enable the scientists and entrepreneurs of Los
+      Angeles to develop their ideas in affordable, high-quality lab facilities,
+      with access to services and a supportive innovation community to
+      accelerate their success.
+    - >-
+      LAb Launch is a non-profit organization with a goal of creating a
+      supportive environment for Life Science startup businesses in Los Angeles
 title: LAb Launch
 uri: /organizations/lab-launch/
 extrapolated_project_ids:

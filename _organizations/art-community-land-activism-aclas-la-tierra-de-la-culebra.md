@@ -30,6 +30,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We facilitate access to a public park by developing creative and cultural
+      programming to engage the community.
 title: Art Community Land Activism (ACLA)’s La Tierra de la Culebra
 uri: /organizations/art-community-land-activism-aclas-la-tierra-de-la-culebra/
 extrapolated_project_ids: []

@@ -25,6 +25,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      St. Francis Center's mission is to feed, serve, and walk with the poor as
+      a community of hope in the spirit of St. Francis of Assisi.
 title: St. Francis Center
 uri: /organizations/st-francis-center/
 extrapolated_project_ids: []

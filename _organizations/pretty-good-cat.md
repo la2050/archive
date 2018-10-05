@@ -32,6 +32,8 @@ aggregated:
       https://challenge.la2050.org/entry/no-more-suffering-for-las-homeless-kittens
   year_submitted:
     - '2016'
+  org_summary:
+    - We rescue unsponsored cats and dogs .
 title: Pretty Good Cat
 uri: /organizations/pretty-good-cat/
 extrapolated_project_ids:

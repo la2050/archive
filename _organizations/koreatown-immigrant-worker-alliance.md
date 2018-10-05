@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/endwagetheft.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      KIWA organizes low-wage immigrant workers, tenants, and their families to
+      promote workplace justice, housing rights, immigrants’ rights, democratic
+      and sustainable community development and civic participation.
 title: Koreatown Immigrant Worker Alliance
 uri: /organizations/koreatown-immigrant-worker-alliance/
 extrapolated_project_ids:

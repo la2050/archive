@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/walking.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      This is a Life Skills Training Program teaching the positive effects of
+      walking on physical and mental well-being while learning to replace
+      unhealthy habits with healthy habits, and promoting support from within
+      the group through trust and sharing.
 title: Life Change Up
 uri: /organizations/life-change-up/
 extrapolated_project_ids:

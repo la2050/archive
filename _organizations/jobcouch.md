@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/jobcouch.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      JobCouch is a mobile enhanced platform to match hourly jobseekers with
+      employers in the services industry.
 title: JobCouch
 uri: /organizations/jobcouch/
 extrapolated_project_ids:

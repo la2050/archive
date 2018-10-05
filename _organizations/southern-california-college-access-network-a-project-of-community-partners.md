@@ -35,6 +35,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/socalcan.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      SoCal CAN is an alliance of over 60 organizations that together make
+      college graduation a reality for low-income, first generation youth in Los
+      Angeles.
 title: 'Southern California College Access Network, a Project of Community Partners'
 uri: >-
   /organizations/southern-california-college-access-network-a-project-of-community-partners/

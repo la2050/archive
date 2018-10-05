@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/LAINCCONNECTS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      LA, Inc. brings a more innovative approach by utilizing a technological
+      and media platform in servicing at risk youth targeting the foster
+      care/probation population through collaboration while leveraging services
+      and resources.
 title: 'Living Advantage, Inc.'
 uri: /organizations/living-advantage-inc/
 extrapolated_project_ids:

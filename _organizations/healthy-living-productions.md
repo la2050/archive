@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/were-creating-doctors-orders-a-video-series-to-help-la-become-proactive-about-health-and-wellness
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We believe proactive health care education can save lives. We deliver
+      resources for the prevention, detection and management of the major health
+      conditions that people of Los Angeles face.
 title: Healthy Living Productions
 uri: /organizations/healthy-living-productions/
 extrapolated_project_ids:

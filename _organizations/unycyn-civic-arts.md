@@ -31,6 +31,8 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/mountainstosea.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - We help beautify civic spaces with public art and urban gardens.
 title: Unycyn Civic Arts
 uri: /organizations/unycyn-civic-arts/
 extrapolated_project_ids:

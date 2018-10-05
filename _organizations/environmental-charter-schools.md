@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/ecsservesla.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Environmental Charter Schools is an innovative network of public schools
+      serving South Los Angeles.
 title: Environmental Charter Schools
 uri: /organizations/environmental-charter-schools/
 extrapolated_project_ids:

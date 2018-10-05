@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      College Summit is dedicated to transforming the lives of low-income youth
+      by connecting them to college and career.
 title: College Summit Southern California
 uri: /organizations/college-summit-southern-california/
 extrapolated_project_ids:

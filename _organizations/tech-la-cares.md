@@ -48,6 +48,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      We aim to connect LA-area tech firms with volunteer opportunities at local
+      STEM-based organizations via events, web, and weekly emails -- and lots of
+      one-on-one real-world engagement.
+    - >-
+      Tech LA Cares (TLC) connects LA's growing technology companies with
+      volunteer opportunities within their communities.
 title: Tech LA Cares
 uri: /organizations/tech-la-cares/
 extrapolated_project_ids:

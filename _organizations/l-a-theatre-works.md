@@ -36,6 +36,11 @@ aggregated:
       https://challenge.la2050.org/entry/audio-theatre-2-0-an-it-platform-for-audience-engagement-and-student-creativity
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LATW records great performances of important plays, using new technologies
+      to make world-class theatre accessible to the widest possible audience and
+      to expand the use of theatre as a teaching tool.
 title: L.A. Theatre Works
 uri: /organizations/l-a-theatre-works/
 extrapolated_project_ids:

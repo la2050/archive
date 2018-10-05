@@ -34,6 +34,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/samohithrive.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Santa Monica Cradle to Career brings together educators, service
+      providers, policy makers, and community members to implement coordinated
+      strategies to help children and families in our community thrive.
 title: >-
   Santa Monica Cradle to Career, led by City of Santa Monica in partnership with
   SMMUSD

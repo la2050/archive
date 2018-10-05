@@ -29,6 +29,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ecoMFC.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Mobile Film Classroom equips the next generation of creative leaders with
+      digital media storytelling skills in under-resourced communities.
 title: Mobile Film Classroom
 uri: /organizations/mobile-film-classroom/
 extrapolated_project_ids:

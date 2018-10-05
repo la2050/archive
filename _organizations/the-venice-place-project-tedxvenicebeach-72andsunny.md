@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/PUPs.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We are three organizations that partnered together to turn an unused space
+      in Venice into a beautiful, useful and thriving free co-working and
+      community space.
 title: 'The Venice Place Project, TEDxVeniceBeach, 72andSunny'
 uri: /organizations/the-venice-place-project-tedxvenicebeach-72andsunny/
 extrapolated_project_ids:

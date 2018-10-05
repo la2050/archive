@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      CCGI helps 6th-12th grade students develop well-informed plans for their
+      education and careers after high school.
 title: Foundation for California Community Colleges (Fiscal Sponsor)
 uri: /organizations/foundation-for-california-community-colleges-fiscal-sponsor/
 extrapolated_project_ids:

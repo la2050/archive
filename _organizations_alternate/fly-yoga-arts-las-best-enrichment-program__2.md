@@ -30,6 +30,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      FLY Yoga Arts brings balance to education through play- based classes
+      designed to engage each child's body, mind, and spirit!
+    - >-
+      FLY Yoga Arts offers unique arts education: teaching fundamental learning
+      strategies through mindfulness, movement & creative play!
 title: FLY Yoga Arts & LA's BEST Enrichment Program
 uri: /organizations/fly-yoga-arts-las-best-enrichment-program/
 extrapolated_project_ids:

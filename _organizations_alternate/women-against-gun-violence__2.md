@@ -36,6 +36,20 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      WAGV educates the public, policy makers and the media about the human,
+      financial and public health consequences of gun violence.
+    - >-
+      Women Against Gun Violence has been around since 1993 working to prevent
+      gun violence in Los Angeles City and County. We have done this work
+      through storytelling. Our Speakers Bureau members, gun violence survivors
+      themselves, share their stories with students throughout Los Angeles
+      Unified School District so that youth can see the actual tragedy of gun
+      violence. Our Speakers Bureau members also share their stories with
+      policymakers to encourage change in our gun regulations. We were included
+      in Vice President Biden's meetings in January 2013 where our Speakers
+      Bureau format was considered part of a national solution.
 title: WOMEN AGAINST GUN VIOLENCE
 uri: /organizations/women-against-gun-violence/
 extrapolated_project_ids:

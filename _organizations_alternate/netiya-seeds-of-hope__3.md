@@ -72,6 +72,51 @@ aggregated:
     - '2015'
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      Netiya is a food justice and interfaith network that fosters self-reliance
+      and land stewardship to lead Angelenos of all faiths toward greater access
+      to food worthy of a blessing.
+    - >-
+      Netiya advances institutional collaboration around food procurement and
+      food relief to grow community food security.
+    - >-
+      Netiya is an interfaith network that advances urban agriculture through 32
+      faith-based institutions in Los Angeles. Netiya cultivates gardens to
+      tithe nutritious food and build community food security, and organizes
+      community to seed a more just and resilient local food system. Netiya's
+      objectives are to address food insecurity proactively, and to organize
+      around the ethics of our institutional-scale food choices.
+       
+       
+       
+       
+       
+       <p>Netiya's Just Gardens program converts unused land at our institutions, and teaches how to grow and tithe nutritious food sustainably. Netiya then trains these communities to sustain Just Gardens from seeding through tithing. Since March 2011, Netiya has installed eight sustainable Just Gardens & runs over 40 community events a year in LA. Netiya will complete two new Just Garden installs in 2013.
+       
+       
+       
+       
+       
+       <p>Netiya's Just Foods program teaches our institutions to make informed and ethical food choices about procuring food, and distributing leftover or community-grown food. We strive to forge alliances to source food from LA's local farms with intent to place purchasing power from our 32-institution network behind our local farms. Just Foods has launched the Netiya Council to enhance collaboration between our network institutions. It functions to collaboratively produce campaigns, events and educational materials.
+       
+       
+       
+       
+       
+       <p>Seeds of Hope is a network of more than 200 institutions within the Episcopal Diocese of Los Angeles committed to the physical and spiritual wellness of individuals and communities. The Diocese currently has more than 30 community gardens, school gardens, and small farms producing fresh produce for distribution to food insecure individuals and families through its more than 40 food pantries and 50 feeding programs.
+       
+       
+       
+       
+       
+       <p>Seeds of Hope combines and coordinates these efforts in a way that leverages their collective strengths. Individuals and institutions can access books and a website of resources to guide participants on these topics as well, each prepared by network participants on topics of community gardens, edible landscaping, and urban farming and can take advantage of more that 30 training opportunities in the Diocese each year around specific topics from soil preparation to pruning and harvesting.
+       
+       
+       
+       
+       
+       <p>Seeds of Hope Executive Director Tim Alderson was the founding chairman of the California School Garden Network, which provides the structural model for Project 10. CSGN was created as a network of more than 40 organizations from the public and private sectors, who, despite their disparate and sometimes conflicting agendas, all shared a common interest in instructional school gardens. CSGN works to coordinate the efforts of these various organization in support of school gardens throughout California. The network has funded over 4,000 school gardens, developed extensive training for educators, and created lesson plans aligned to the state standards for teaching all core subjects, K through 12, in a garden setting.
 title: Netiya/Seeds of Hope
 uri: /organizations/netiya-seeds-of-hope/
 extrapolated_project_ids:

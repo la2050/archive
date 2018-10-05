@@ -49,6 +49,27 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/HARMONYPROJECT.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      The Harmony Project has won numerous accolades, including the Coming Up
+      Taller Award from the Presidentâ€™s Committee on the Arts & Humanities â€“
+      the nationâ€™s highest honor for an arts-based youth program. We have been
+      featured in the Los Angeles Times and on NBC and CBS Nightly News, PBSâ€™
+      Turning Point, CBS Early Show, Hallmark Channelâ€™s Naomiâ€™s New Morning,
+      Univisionâ€™s Despierta America and Orgullo Hispano, ABCâ€™s Eye on LA and
+      Vista LA, Hot 92 JAMZ, KXN Radio and other media outlets.
+       
+       
+       
+       
+       
+       A feature that distinguishes Harmony Project among other local arts education programs is that we commit to children throughout their entire childhood, regardless of their changing schools and circumstances. With a strong focus on peer mentorship, family support, and college incentives, Harmony Project changes the course of disadvantaged childrenâ€™s lives. While dropout rates exceed 50% in the communities we serve, 95% of Harmony Projectâ€™s high school seniors have graduated in four years and virtually all have gone on to college or trade school. In addition, Harmony Project provides college incentives and scholarship opportunities to help facilitate the difficult transition to college. In May, we learned that one of our former students, Brettany Tucker, became a Fulbright Scholar for the 2012-13 school year! Moreover, four current students were accepted and now attend the Los Angeles County High School for the Arts, one of the premier public arts high schools in the US!
+       
+       
+       
+       
+       
+       In January, Harmony Projectâ€™s YOLA/EXPO orchestra attended master classes with SÃ­mÃ³n BolÃ­var Youth Orchestra of Venezuela, and also performed together at Cathedral of Our Lady of the Angels in Downtown LA. In attendance was El Sistema founder JosÃ© Antonio Abreu â€“ El Sistema is the hugely successful Venezuelan music program that Harmony Project is in part modeled after. In addition, the YOLA/EXPO orchestra has recently had the opportunity to perform with renowned conductor Sir Simon Rattle, Gustavo Dudamel, Stevie Wonder, and on the Tonight Show with Rickey Minor.
 title: Harmony Project
 uri: /organizations/harmony-project/
 extrapolated_project_ids:

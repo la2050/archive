@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/connecting-people-to-healthy-food-in-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Food Oasis LA was created to assist local advocacy and increase local
+      awareness in solving LA’s food inequality by building a platform to
+      leverage a bevy of resources and current web technologies.
 title: Food Oasis Los Angeles
 uri: /organizations/food-oasis-los-angeles/
 extrapolated_project_ids:

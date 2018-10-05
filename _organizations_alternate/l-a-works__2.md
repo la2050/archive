@@ -36,6 +36,14 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      L.A. Works empowers Angelenos to address critical social issues by
+      recruiting, managing, and training volunteers for nonprofit organizations,
+      schools, and government agencies.
+    - >-
+      L.A. Works empowers Angelenos to address pressing social issues through
+      volunteerism and community collaborations.
 title: L.A. Works
 uri: /organizations/l-a-works/
 extrapolated_project_ids:

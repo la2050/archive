@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/building-a-home-that-shifts-interactions-from-pixels-to-people-from-loneliness-to-companionship
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      thecool is a physical space that encourages safe, organic sharing of ideas
+      & opinions, unique gifts & hidden talents - centered around humanity’s
+      age-old pastime of congregating over food and drink.
 title: thecool
 uri: /organizations/thecool/
 extrapolated_project_ids:

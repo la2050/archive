@@ -33,6 +33,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The LA County Active Transportation Collaborative promotes improved policy
+      and increased funding for walking, biking and complete streets.
 title: >-
   Los Angeles County Active Transportation Collaborative (Safe Routes to School
   National Partnership and LACBC) work to support improved policies and

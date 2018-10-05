@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/la-derby-dolls-promoting-social-and-emotional-support-through-womens-team-sports
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The LA Derby Dolls is a women’s banked track roller derby league and
+      community that promotes women’s empowerment, athletics, and social
+      connectedness.
 title: LA Derby Dolls
 uri: /organizations/la-derby-dolls/
 extrapolated_project_ids:

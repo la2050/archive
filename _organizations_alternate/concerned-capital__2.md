@@ -37,6 +37,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Concerned Capital is a social impact investment firm that leverages
+      economic development tools to save/create family wage jobs in distressed
+      communities by re-energizing existing, operating companies.
+    - >-
+      Connect the Dots design workshops provide the tools for Los Angelenos to
+      reimagine LA’s Great Streets (and crummy streets) performing at their
+      fullest potential, as engaging public spaces and strategic groundwater
+      recharge assets.
 title: Concerned Capital
 uri: /organizations/concerned-capital/
 extrapolated_project_ids:

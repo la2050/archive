@@ -34,6 +34,14 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/filmanthropos.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      While Filmanthropos is a fairly new social enterprise that was founded in
+      Q4 2012, we are proud to have connected with several social enterprises to
+      create powerful stories that engage their audiences to elicit change. On
+      top of this, we have provided USD 10,000.00 in pro-bono services to
+      non-profits to date - a number that is rapidly and continuously growing,
+      as we are now institutionalizing our pro-bono service offerings.
 title: Filmanthropos
 uri: /organizations/filmanthropos/
 extrapolated_project_ids:

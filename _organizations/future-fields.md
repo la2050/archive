@@ -40,6 +40,11 @@ aggregated:
       https://challenge.la2050.org/entry/future-scouts-21st-century-survival-skills-for-21st-century-humans
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Future Scouts is a series of urban creative laboratories that prepare
+      youngsters, teens and adults with tools, frameworks and models helpful to
+      navigate an increasingly complex world.
 title: Future Fields
 uri: /organizations/future-fields/
 extrapolated_project_ids:

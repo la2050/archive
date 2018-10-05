@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/DoGooder.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Positive Minded People is a community of 1200+ that hosts 4 - 6 events a
+      month that mobilizes positive people to do positive things in LA.
 title: Positive Minded People
 uri: /organizations/positive-minded-people/
 extrapolated_project_ids:

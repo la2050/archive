@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/TE-San-Pedro-Rep.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      TE San Pedro Rep is a Teaching Theatre and Arts Organization dedicated to
+      cultivating the potential in aspiring artists through mentorship.
 title: 'Theatrum Elysium, San Pedro Rep'
 uri: /organizations/theatrum-elysium-san-pedro-rep/
 extrapolated_project_ids:

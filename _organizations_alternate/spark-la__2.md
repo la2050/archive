@@ -34,6 +34,15 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      Spark inspires students to succeed in high school, college, and their
+      future careers by matching them with mentors at top companies for
+      workplace learning experiences around interest-driven projects.
+    - >-
+      Spark LA brings middle school students from underserved communities into
+      the workplace for one-on-one mentoring that results in long-term academic,
+      personal, and professional success.
 title: Spark LA
 uri: /organizations/spark-la/
 extrapolated_project_ids:

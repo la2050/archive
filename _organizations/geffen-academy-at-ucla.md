@@ -57,6 +57,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/geffen-academy-at-ucla/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Geffen Academy is an inclusive, university-affiliated school for students
+      who want to develop their intellectual curiosity, leadership capabilities
+      and connection to something larger than themselves.
 title: Geffen Academy at UCLA
 uri: /organizations/geffen-academy-at-ucla/
 extrapolated_project_ids: []

@@ -49,6 +49,11 @@ aggregated:
       https://challenge.la2050.org/entry/the-help-groups-stem3-academy-coding-computer-robotics-camps-for-special-learners!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Help Group is the largest nonprofit of its kind in the US dedicated to
+      helping people with special needs related to autism, ADHD, and other
+      social & emotional challenges fulfill their potential.
 title: The Help Group's STEM3 Academy
 uri: /organizations/the-help-groups-stem3-academy/
 extrapolated_project_ids:

@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/thedinnerparty.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Changing the way we approach #lifeafterloss through candid conversation
+      and breaking bread.
 title: The Dinner Party
 uri: /organizations/the-dinner-party/
 extrapolated_project_ids:

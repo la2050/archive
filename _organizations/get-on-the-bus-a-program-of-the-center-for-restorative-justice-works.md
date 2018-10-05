@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/GetOnTheBus2015.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Get On The Bus, a program of the Center for Restorative Justice Works,
+      reunifies children throughout the Greater Los Angeles area with their
+      incarcerated parents in prisons throughout California.
 title: Get On The Bus a program of the Center for Restorative Justice Works
 uri: >-
   /organizations/get-on-the-bus-a-program-of-the-center-for-restorative-justice-works/

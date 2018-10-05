@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      SoACT strengthens the nonprofit infrastructure in low-income communities
+      by strategic partnership and local ownership of capacity building.
 title: Social Action Partners
 uri: /organizations/social-action-partners/
 extrapolated_project_ids:

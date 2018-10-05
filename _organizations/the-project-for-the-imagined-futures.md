@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/TheImaginedFutures.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      The Imagined Futures wants Angelenos to immersively interact with
+      technology & storytelling in order to imagine & create possible futures.
 title: The Project for The Imagined Futures
 uri: /organizations/the-project-for-the-imagined-futures/
 extrapolated_project_ids:

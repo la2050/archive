@@ -38,6 +38,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2015'
+  org_summary:
+    - >-
+      Grid110 creates pathways to success for early stage entrepreneurs and
+      activates the Los Angeles startup ecosystem.
+    - >-
+      We’re stimulating economic development and building a community that
+      supports startups during the most critical stage of their growth cycle, by
+      connecting new companies to office space, mentors and necessary resources
+      essential for success.
 title: 'Grid110, Inc.'
 uri: /organizations/grid110-inc/
 extrapolated_project_ids:

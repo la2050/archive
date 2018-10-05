@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/mediadoneresponsibly.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Media Done Responsibly is a media leadership program providing healthy
+      media and lifestyle alternatives to teens by training them to be critical
+      thinkers, decision makers, conscious consumers and creators of media in
+      the Digital Age.
 title: Media Done Responsibly c/o Pasadena Arts Council
 uri: /organizations/media-done-responsibly-c-o-pasadena-arts-council/
 extrapolated_project_ids:

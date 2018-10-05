@@ -34,6 +34,11 @@ aggregated:
       https://challenge.la2050.org/entry/northeast-los-angeles-and-the-san-gabriel-valley-get-prepd-and-pepd!!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      We provide (1) affordable, convenient, and culturally competent sexual and
+      reproductive health care and (2) comprehensive and inclusive sex and
+      relationship education and outreach.
 title: Planned Parenthood Pasadena and San Gabriel Valley (PPPSGV)
 uri: /organizations/planned-parenthood-pasadena-and-san-gabriel-valley-pppsgv/
 extrapolated_project_ids:

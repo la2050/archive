@@ -47,6 +47,10 @@ aggregated:
     - 'https://activation.la2050.org/create/roadtrip-nation/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Roadtrip Nation empowers individuals to identify their interests and
+      explore career pathways aligned with their unique aspirations and skills.
 title: Roadtrip Nation
 uri: /organizations/roadtrip-nation/
 extrapolated_project_ids:

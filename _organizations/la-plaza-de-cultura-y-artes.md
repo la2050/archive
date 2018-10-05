@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/la-plaza-historic-paseo-walkway-downtowns-first-historic-pedestrian-pathway!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LA Plaza de Cultura y Artes celebrates and cultivates an appreciation for
+      the enduring and evolving influence of Mexican-American and Latino
+      history, art & culture in Southern California.
 title: LA Plaza de Cultura y Artes
 uri: /organizations/la-plaza-de-cultura-y-artes/
 extrapolated_project_ids:

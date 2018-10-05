@@ -29,6 +29,8 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/CYLAPARTNERSHIP.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - '#N/A'
 title: Partnership for Los Angeles Schools
 uri: /organizations/partnership-for-los-angeles-schools/
 extrapolated_project_ids: []

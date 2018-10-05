@@ -28,6 +28,10 @@ aggregated:
   challenge_url: []
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      ADL fights anti-Semitism and all forms of bigotry, defends democratic
+      ideals and protects civil rights for all.
 title: Anti-Defamation League - Pacific Southwest Region
 uri: /organizations/anti-defamation-league-pacific-southwest-region/
 extrapolated_project_ids:

@@ -33,6 +33,12 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/servicelearningHFS.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Holy Family School (HFS) offers cutting-edge academic excellence with an
+      educational mission that brings together the ideals of learning by doing,
+      a positive-self image and looking beyond our immediate surroundings to
+      make our world a better place.
 title: Holy Family School
 uri: /organizations/holy-family-school/
 extrapolated_project_ids:

@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/CAfriendly.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Southern California Water Committee (SCWC) — established in 1984 — is
+      a nonprofit, nonpartisan public education partnership dedicated to
+      informing Southern Californians about our water needs and our state’s
+      water resources.
 title: Southern California Water Committee
 uri: /organizations/southern-california-water-committee/
 extrapolated_project_ids:

@@ -31,6 +31,10 @@ aggregated:
       https://challenge.la2050.org/entry/dublab-fm-in-los-angeles-connecting-la-residents-through-freeform-radio
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      dublab is a non-profit, online radio station dedicated to the growth of
+      music, arts and culture.
 title: Future Roots Inc.
 uri: /organizations/future-roots-inc/
 extrapolated_project_ids:

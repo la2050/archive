@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/AIM.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Art in Motion works to bring culture and education to the Los Angeles
+      area.
 title: 'Art In Motion, Inc.'
 uri: /organizations/art-in-motion-inc/
 extrapolated_project_ids:

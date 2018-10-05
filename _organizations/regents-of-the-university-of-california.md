@@ -36,6 +36,10 @@ aggregated:
       https://challenge.la2050.org/entry/amp!-virtual-sexual-health-education-for-a-digital-generation
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The UCLA Art & Global Health Center harnesses the transformative power of
+      the arts to improve public health in Los Angeles.
 title: Regents of the University of California
 uri: /organizations/regents-of-the-university-of-california/
 extrapolated_project_ids:

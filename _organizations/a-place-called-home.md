@@ -34,6 +34,12 @@ aggregated:
     - 'http://maker.good.is/myla2050play2015/projects/PlayinSouthLA.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      APCH is a safe haven in South Central LA where underserved youth are
+      empowered to take ownership of their lives through programs in education,
+      arts, and well-being and are inspired to make a meaningful difference in
+      their community and the world.
 title: A Place Called Home
 uri: /organizations/a-place-called-home/
 extrapolated_project_ids:

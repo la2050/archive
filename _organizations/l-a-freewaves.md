@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/Freewaves.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Freewaves creates public media art events that bring diverse audiences and
+      independent media artists together in collaboration and dialogue.
 title: L.A. Freewaves
 uri: /organizations/l-a-freewaves/
 extrapolated_project_ids:

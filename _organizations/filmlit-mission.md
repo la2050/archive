@@ -35,6 +35,11 @@ aggregated:
       https://challenge.la2050.org/entry/filmlit-barter-skills-curriculum™-w-job-corps-la!
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      The Filmlit Mission facilitates a curriculum engaging pupils to develop in
+      the skill sets of script composition, graphic design, photography,
+      character expression, and commercial production.
 title: FILMLIT MISSION
 uri: /organizations/filmlit-mission/
 extrapolated_project_ids:

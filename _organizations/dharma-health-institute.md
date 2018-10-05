@@ -31,6 +31,12 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/ownyourhealthDharma.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      DIY Girls’ mission is to increase girls’ interest in technology,
+      engineering and making through hands-on educational experiences that
+      promote girls’ early exploration with technology, self-confidence and
+      support aspiration to careers in STEM.
 title: Dharma Health Institute
 uri: /organizations/dharma-health-institute/
 extrapolated_project_ids: []

@@ -44,6 +44,10 @@ aggregated:
     - 'https://activation.la2050.org/connect/boys-girls-clubs-of-venice-bgcv/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      BGCV enables all people to reach their full potential as productive,
+      caring, responsible citizens Bridging Generations Connecting Values
 title: Boys & Girls Clubs of Venice
 uri: /organizations/boys-girls-clubs-of-venice/
 extrapolated_project_ids:

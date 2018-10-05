@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/voter.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      We’re building an app that makes it fast, fun, and easy to become informed
+      in any election - Essentially, it’s tinder for politics.
 title: 'Voter, LLC'
 uri: /organizations/voter-llc/
 extrapolated_project_ids:

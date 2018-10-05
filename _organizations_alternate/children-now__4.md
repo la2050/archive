@@ -45,6 +45,23 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      Children Now is LA County’s whole-child, non-partisan research, policy,
+      advocacy and network-building organization dedicated to improving
+      children’s health, early development, education, and welfare.
+    - >-
+      Children Now is LA County’s “whole child” non-partisan research, policy,
+      advocacy and network building organization dedicated to improving
+      children’s health, early development, education, and welfare.
+    - >-
+      Children Now is California’s only umbrella children’s research, policy,
+      communications and advocacy organization, working to improve children’s
+      health, education, and well-being. It coordinates The Children’s Movement
+      of California.
+    - >-
+      We are an umbrella children’s research, policy development, and advocacy
+      organization that coordinates The Children’s Movement.
 title: Children Now
 uri: /organizations/children-now/
 extrapolated_project_ids:

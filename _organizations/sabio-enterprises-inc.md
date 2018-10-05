@@ -34,6 +34,32 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      We train Angelenos to become superior entry-level, full-stack web
+      developers so that they may create amazing web products for all of LA.
+    - >-
+      <p>Sabio is a brand new organization and has therefore had little
+      opportunity to record many achievements. However, our most noteworthy
+      achievement is that we have already received inquiries from potential
+      candidates for our bootcamp, including actual signups. This has been
+      accomplished through simple messaging on Twitter and with no marketing
+      spend.</p>
+       
+       
+       <p>In addition, we are happy to report that we have attracted attention from a number of key contacts not only in Los Angeles, but also Silicon Valley and other technology hubs. This includes some high level government agencies.</p>
+       
+       
+       <p>We have also organized an initial board under our California entity made up of the following individuals: </p>
+       
+       
+       <p>Christian Sanz: CTO and Founder of geekli.st</p>
+       
+       
+       <p>Jesse Saucedo: Project Coordinator, Los Angeles Housing Departments</p>
+       
+       
+       <p>Chantelle Silveira Co-Founder of Stealth Startup</p>
 title: 'Sabio Enterprises, Inc.'
 uri: /organizations/sabio-enterprises-inc/
 extrapolated_project_ids:

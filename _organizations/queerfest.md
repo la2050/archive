@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050play/projects/queerfestLA.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      QueerFest is a space to celebrate LA’s rich queer history and culture, and
+      expose local queer artists to the community.
 title: QueerFest
 uri: /organizations/queerfest/
 extrapolated_project_ids:

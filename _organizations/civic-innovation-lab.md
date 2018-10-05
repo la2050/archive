@@ -40,6 +40,11 @@ aggregated:
     - 'https://activation.la2050.org/create/civic-innovation-lab/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Civic Innovation Lab facilitates cross-sector collaboration and the
+      creation of civic solutions through design challenges, structured
+      programming, and networking with public & private sector experts.
 title: Civic Innovation Lab
 uri: /organizations/civic-innovation-lab/
 extrapolated_project_ids:

@@ -36,6 +36,18 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/Streets2Gardens.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      LA CAUSA has successfully begun to grow gardens at Humphreys Elementary
+      and Eastman Elementary. These gardens have served to host mentor/mentee
+      events and has engaged a number of community youth and elementary school
+      children. Through the California Endowment, LA CAUSA has also helped
+      corner stores in Boyle Heights change their appearance and products to
+      offer healthier foods, including more fruits and vegetables. The corner
+      stores receiving this attention are those surrounding poor-performing
+      elementary schools in Boyle Heights. Recently, San Gabriel Conservation
+      Core and LA CAUSA have been discussing a partnership to grow a community
+      farm that would feed families in need of healthier food options.
 title: 'Los Angeles Communities Advocating for Unity, Social Justice and Action, Inc.'
 uri: >-
   /organizations/los-angeles-communities-advocating-for-unity-social-justice-and-action-inc/

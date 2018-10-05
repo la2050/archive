@@ -39,6 +39,11 @@ aggregated:
       https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The City of Los Angeles, Bureau of Street Lighting provides illumination
+      for the safety of vehicular/pedestrian traffic, and is a key vertical
+      infrastructure participant for Smart City initiatives.
 title: 'City of Los Angeles, Bureau of Street Lighting'
 uri: /organizations/city-of-los-angeles-bureau-of-street-lighting/
 extrapolated_project_ids: []

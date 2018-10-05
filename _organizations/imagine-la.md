@@ -43,6 +43,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      Imagine LA recruits teams of volunteer mentors who are trained and guided
+      by professional social service staff to assist vulnerable families, ending
+      their cycle of homelessness and poverty.
+    - >-
+      Imagine LA works to end the cycle of family homelessness by mobilizing
+      trained mentors, collaborative public and private resources, and community
+      leaders.
 title: Imagine LA
 uri: /organizations/imagine-la/
 extrapolated_project_ids:

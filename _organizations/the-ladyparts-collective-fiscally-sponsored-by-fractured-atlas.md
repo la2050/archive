@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/eliminating-the-gray-leveraging-theater-to-end-sexual-violence-on-college-campuses
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Tipping the scales of gender equity in the arts and entertainment
+      industry, The LadyParts Collective is an all-female group igniting social
+      change by creating original plays about women's issues.
 title: 'The LadyParts Collective, fiscally sponsored by Fractured Atlas'
 uri: /organizations/the-ladyparts-collective-fiscally-sponsored-by-fractured-atlas/
 extrapolated_project_ids:

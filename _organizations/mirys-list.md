@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/connect/mirys-list/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Miry’s List is a nonprofit that helps families and individuals resettling
+      in the U.S. as refugees by connecting them to the people, things, and
+      services they need as they begin their new lives.
 title: Miry’s List
 uri: /organizations/mirys-list/
 extrapolated_project_ids:

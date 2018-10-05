@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/ElevateLosAngeles.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      We champion a greater understanding of the Middle East/North Africa by
+      presenting arts and education programs that bridge divides.
 title: Levantine Cultural Center
 uri: /organizations/levantine-cultural-center/
 extrapolated_project_ids:

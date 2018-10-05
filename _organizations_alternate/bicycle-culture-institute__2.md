@@ -39,6 +39,14 @@ aggregated:
     - '2016'
     - '2016'
     - '2014'
+  org_summary:
+    - 'We make bicycling awesome through events, programs and social innovation.'
+    - >-
+      Educate and inspire an authentic American bicycle culture - through
+      transportation and recreational bicyling events and programs..
+    - >-
+      The Bicycle Culture Institute is a 501(c)3 non-profit dedicated to
+      connecting people to new (bicycle) ideas.
 title: Bicycle Culture Institute
 uri: /organizations/bicycle-culture-institute/
 extrapolated_project_ids:

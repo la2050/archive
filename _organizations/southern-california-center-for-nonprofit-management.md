@@ -43,6 +43,11 @@ aggregated:
       https://challenge.la2050.org/entry/spark!-connect-convene-collaborate-will-promote-las-culture-of-interconnectedness
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      Center for Nonprofit Management is the Southern California resource for
+      education, consulting and engagement across the nonprofit community
+      enabling nonprofits to achieve their goals
 title: Southern California Center for Nonprofit Management
 uri: /organizations/southern-california-center-for-nonprofit-management/
 extrapolated_project_ids:

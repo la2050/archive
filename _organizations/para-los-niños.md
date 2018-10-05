@@ -31,6 +31,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/PLNSchools.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Para Los Niños is transforming lives by closing the achievement gap for
+      children in poverty.
 title: Para Los Niños
 uri: /organizations/para-los-niños/
 extrapolated_project_ids:

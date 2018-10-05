@@ -53,6 +53,11 @@ aggregated:
       https://activation.la2050.org/connect/action-civics-la-an-initiative-of-mikva-challenge/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      Action Civics LA works with schools to empower young people with the
+      skills, knowledge, & dispositions to be superstar citizens & leaders.
+      ProCon provides the non-partisan research for the activities.
 title: 'Action Civics LA, an initiative of Mikva Challenge'
 uri: /organizations/action-civics-la-an-initiative-of-mikva-challenge/
 extrapolated_project_ids: []

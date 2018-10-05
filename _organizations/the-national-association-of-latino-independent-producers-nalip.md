@@ -45,6 +45,14 @@ aggregated:
   year_submitted:
     - '2018'
     - '2014'
+  org_summary:
+    - >-
+      For over 20 years, NALIP has provided resources & guidance to develop the
+      next generation of content creators by providing a pipeline of success
+      between them and the media workforce.
+    - >-
+      We support and train Latino content creators to advance their projects,
+      develop their professional skills and take on leadership roles.
 title: 'The National Association of Latino Independent Producers, NALIP'
 uri: /organizations/the-national-association-of-latino-independent-producers-nalip/
 extrapolated_project_ids:

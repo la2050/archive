@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/bcc.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The Blind Children's Center's mission is to foster the development and
+      education of children—birth through 2nd grade—who are visually impaired,
+      in an inclusive, family-focused setting.
 title: Blind Children's Center
 uri: /organizations/blind-childrens-center/
 extrapolated_project_ids:

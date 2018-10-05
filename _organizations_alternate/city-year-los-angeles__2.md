@@ -45,6 +45,21 @@ aggregated:
     - '2016'
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      We are an education nonprofit that deploys diverse teams of AmeriCorps
+      members into low-income schools to serve as tutors, mentors and role
+      models for at-risk students, helping them reach graduation.
+    - >-
+      City Year Los Angeles works tirelessly to solve our city’s dropout crisis
+      through academic intervention, attendance monitoring, and social emotional
+      support for LA’s highest need students.
+    - >-
+      City Year LA and Partnership for LA Schools empower L.A.’s vulnerable
+      students with a high-quality education to reach their full potential.
+    - >-
+      City Year LA and Partnership for LA Schools empower LA’s vulnerable
+      students with a high-quality education to reach their full potential.
 title: City Year Los Angeles
 uri: /organizations/city-year-los-angeles/
 extrapolated_project_ids:

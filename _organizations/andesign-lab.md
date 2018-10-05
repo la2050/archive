@@ -30,6 +30,8 @@ aggregated:
     - 'https://challenge.la2050.org/entry/self-sustaining-gardening-sensors'
   year_submitted:
     - '2016'
+  org_summary:
+    - ANDesign Lab is a full-fledged industrial design firm.
 title: ANDesign Lab
 uri: /organizations/andesign-lab/
 extrapolated_project_ids:

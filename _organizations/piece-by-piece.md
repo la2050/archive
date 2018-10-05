@@ -33,6 +33,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050create/projects/LAMosaicMecca.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Arts-Based Social-Enterprise centered on training in mosaic skill directed
+      to persons vulnerable to homelessness
 title: Piece by Piece
 uri: /organizations/piece-by-piece/
 extrapolated_project_ids:

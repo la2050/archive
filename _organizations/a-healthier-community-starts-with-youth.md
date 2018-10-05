@@ -35,6 +35,11 @@ aggregated:
       https://activation.la2050.org/live/a-healthier-community-starts-with-youth/
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The HCSY program provides an opportunity for students to receive
+      mentorship and experience within the public health field as they build and
+      conduct community health programming with professionals.
 title: A Healthier Community Starts with YOUth
 uri: /organizations/a-healthier-community-starts-with-youth/
 extrapolated_project_ids:

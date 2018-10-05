@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/creating-a-first-food-friendly-south-los-angeles
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      BreastfeedLA is dedicated to improving the health and wellbeing of infants
+      and families through education, outreach, and advocacy to promote and
+      support breastfeeding.
 title: BreastfeedLA
 uri: /organizations/breastfeedla/
 extrapolated_project_ids:

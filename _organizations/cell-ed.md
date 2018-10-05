@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050learn2015/projects/CELLED.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Boosting literacy with Cell-Ed's anytime, anywhere mobile learning
+      platform and service.
 title: Cell-Ed
 uri: /organizations/cell-ed/
 extrapolated_project_ids:

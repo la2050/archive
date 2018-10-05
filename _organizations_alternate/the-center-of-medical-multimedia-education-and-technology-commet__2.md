@@ -31,6 +31,13 @@ aggregated:
   year_submitted:
     - '2015'
     - '2014'
+  org_summary:
+    - >-
+      COMMET promotes the widespread use of new medical technology, helping to
+      bridge the gap between medicine and technology.
+    - >-
+      COMMET promotes the widespread use of new medical technology, bridging the
+      gap between medicine and technology.
 title: The Center of Medical Multimedia Education and Technology (COMMET)
 uri: >-
   /organizations/the-center-of-medical-multimedia-education-and-technology-commet/

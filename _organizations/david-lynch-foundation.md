@@ -49,6 +49,28 @@ aggregated:
     - 'http://maker.good.is/myla2050/projects/enlightened200.html'
   year_submitted:
     - '2013'
+  org_summary:
+    - >-
+      The David Lynch Foundation has instructed over 250,000 at-risk populations
+      worldwide in the Transcendental Meditation program. 
+       
+       
+       
+       
+       
+       Programs focus on at-risk students, veterans with PTSD, homeless and retraining programs, women and girls initiatives
+       
+       
+       
+       
+       
+       Please view some of the program successes at:
+       
+       
+       
+       
+       
+       www.davidlynchfoundation.org
 title: David Lynch Foundation
 uri: /organizations/david-lynch-foundation/
 extrapolated_project_ids:

@@ -32,6 +32,12 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/ArroyoRiverParks.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Our Foundation is committed to restoring the Arroyo Seco Stream to a
+      living river that provides habitat for fish, wildlife, and conservation
+      and provides Southern Californians a greater interaction and appreciation
+      of the Los Angeles River Watershed.
 title: Arroyo Seco Foundation
 uri: /organizations/arroyo-seco-foundation/
 extrapolated_project_ids:

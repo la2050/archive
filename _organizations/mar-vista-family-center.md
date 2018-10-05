@@ -35,6 +35,11 @@ aggregated:
     - 'https://activation.la2050.org/live/mar-vista-family-center/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      The Mar Vista Family Center provides low-income families with quality
+      early childhood education, youth enrichment programming, and community
+      development opportunities.
 title: Mar Vista Family Center
 uri: /organizations/mar-vista-family-center/
 extrapolated_project_ids: []

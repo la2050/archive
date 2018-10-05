@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/C3.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Data Roads Foundation expands access to interconnected networks (or
+      Internets for short) by promoting community network ownership, free as in
+      liberty software, and free documentation (including legal templates).
 title: Culture Shock Los Angeles
 uri: /organizations/culture-shock-los-angeles/
 extrapolated_project_ids: []

@@ -37,6 +37,11 @@ aggregated:
       https://challenge.la2050.org/entry/east-los-angeles-youth-environmental-leadership-summit
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      In partnership with industry, educators, and community organizations, ITEP
+      connects disadvantaged and diverse high school students to college and
+      career opportunities.
 title: International Trade Education Programs (ITEP)
 uri: /organizations/international-trade-education-programs-itep/
 extrapolated_project_ids:

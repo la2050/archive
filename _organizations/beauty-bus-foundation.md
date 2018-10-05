@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/bringingbeautyhome.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      Provide beauty and grooming service to chronically or terminally ill
+      individuals and their caregivers.
 title: Beauty Bus Foundation
 uri: /organizations/beauty-bus-foundation/
 extrapolated_project_ids:

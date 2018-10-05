@@ -32,6 +32,10 @@ aggregated:
     - 'http://maker.good.is/myLA2050connect/projects/ANONYMOUSGOOD.html'
   year_submitted:
     - '2014'
+  org_summary:
+    - >-
+      AG is Compassion Technology that fast-tracks kindness & connection by
+      posting Acts of Good that get sponsored for even more measurable good.
 title: 'Anonymous Good [AG] is a project of Voices4Freedom'
 uri: '/organizations/anonymous-good-[ag]-is-a-project-of-voices4freedom/'
 extrapolated_project_ids:

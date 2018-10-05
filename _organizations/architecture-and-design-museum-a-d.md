@@ -32,6 +32,11 @@ aggregated:
     - 'http://maker.good.is/myla2050connect2015/projects/AplusD.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      The mission of The Architecture and Design Museum is to celebrate and
+      promote an awareness of progressive architecture and design in everyday
+      life through exhibits, educational programs and public outreach.
 title: Architecture and Design Museum (A+D)
 uri: /organizations/architecture-and-design-museum-a-d/
 extrapolated_project_ids:

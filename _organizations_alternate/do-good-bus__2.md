@@ -57,6 +57,11 @@ aggregated:
   year_submitted:
     - '2014'
     - '2013'
+  org_summary:
+    - >-
+      Do Good Bus provides an interactive and engaging experience by taking
+      people to a secret location to volunteer and have fun along the way!
+    - "Do Good Bus <a ref=\"http://dogoodbus.com/index.php/foster-the-people-do-good-bus/>partnered with the band Foster The People</a> (FTP) to launch their charity initiative, Foster The Future during the bandâ€™s 2011 Summer Tour. In an effort to engage and inspire FTP fans, Do Good Bus loaded up with 30 fans before each concert along the 25 city tour. Fans participated in a local community project in their city and had fun along the way. In total, we connected with over 750 people, thirty percent of which were first-time volunteers and helped create awareness and support for 25 causes across the United States. \n \n \n <br>\n \n \n <br>\n \n \n Locally, weâ€™ve partnered with dozens of Los Angeles causes to give Los Angelenos an opportunity to connect and give back. Weâ€™ve painted massive murals, helped students write their college entrance essays and sorted dog food for some of the cutest rescue animals in Los Angeles. \n \n \n <br>\n \n \n <br>\n \n \n Some of our favorite rides include working with: 826LA, Meet Every Need with Dignity (MEND), Best Friends Animal Society and most recently, Fantasia Family Music Theater. As a specific example, weâ€™ve had an ongoing relationship with Social Justice Learning Institute (SJLI) and have been an integral part of their â€œ100 Seeds of Changeâ€\x9D initiative to change Inglewoodâ€™s status as a â€œfood desertâ€\x9D. In the past 6 months, weâ€™ve had over 100 volunteers get their hands dirty to help give Inglewood residents better access to healthy food choices."
 title: Do Good Bus
 uri: /organizations/do-good-bus/
 extrapolated_project_ids:

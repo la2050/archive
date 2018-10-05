@@ -30,6 +30,10 @@ aggregated:
     - 'http://maker.good.is/myla2050create2015/projects/painttosucceed.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      To promote peace and good will in the world by helping those in need
+      through the arts.
 title: Siqueiros Foundation of the Arts
 uri: /organizations/siqueiros-foundation-of-the-arts/
 extrapolated_project_ids:

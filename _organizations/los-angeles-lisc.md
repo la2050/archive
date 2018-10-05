@@ -34,6 +34,10 @@ aggregated:
     - 'https://challenge.la2050.org/entry/preserving-las-cultural-diversity'
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      LISC equips struggling communities with the capital, strategy and know-how
+      to become places where people and businesses can thrive.
 title: Los Angeles LISC
 uri: /organizations/los-angeles-lisc/
 extrapolated_project_ids:

@@ -38,6 +38,11 @@ aggregated:
       https://challenge.la2050.org/entry/street-quality-identification-device-aka-squid
   year_submitted:
     - '2016'
+  org_summary:
+    - >-
+      ARGO builds, operates and maintains pioneering data infrastructure to
+      transform how basic public services like street quality, water
+      reliability, and education volunteering are delivered.
 title: ARGO Labs
 uri: /organizations/argo-labs/
 extrapolated_project_ids:

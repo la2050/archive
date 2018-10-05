@@ -55,6 +55,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+  org_summary:
+    - >-
+      Think Tank Gallery is an alternative arts space and immersive production
+      company est. in DTLA in 2010. We build themed Post-Street Art experiences
+      around the country, and hide content in every corner
+    - >-
+      We design experiences from fully branded installations to a festival for
+      65,000 Angelenos, producing or consulting projects through miles of red
+      tape that could kill ideas lacking unflinching resolve.
 title: 'Think Tank Productions, Inc. dba Think Tank Gallery'
 uri: /organizations/think-tank-productions-inc-dba-think-tank-gallery/
 extrapolated_project_ids: []

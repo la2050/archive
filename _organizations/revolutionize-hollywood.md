@@ -43,6 +43,11 @@ aggregated:
     - 'https://activation.la2050.org/create/revolutionize-hollywood/'
   year_submitted:
     - '2018'
+  org_summary:
+    - >-
+      We help LA artists approach their career with an entrepreneur mindset, we
+      host events and have created an online market place so that LA artist gain
+      visibility, make money and sustain longevity.
 title: Revolutionize Hollywood
 uri: /organizations/revolutionize-hollywood/
 extrapolated_project_ids:

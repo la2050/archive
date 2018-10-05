@@ -33,6 +33,11 @@ aggregated:
     - 'http://maker.good.is/myla2050live2015/projects/MobileMarket.html'
   year_submitted:
     - '2015'
+  org_summary:
+    - >-
+      Local Roots designs and operates vertical urban farms to further our
+      mission of “providing everyone access to fresh, healthy, and affordable
+      locally-grown produce.”
 title: Local Roots
 uri: /organizations/local-roots/
 extrapolated_project_ids:

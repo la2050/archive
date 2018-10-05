@@ -38,6 +38,16 @@ aggregated:
   year_submitted:
     - '2016'
     - '2015'
+  org_summary:
+    - >-
+      3-D SPACE is an LA based arts and education nonprofit dedicated to both
+      the preservation of the history of stereoscopic imaging, and the
+      advancement of current and future 3-D arts and sciences.
+    - >-
+      3-D SPACE, The Center For Stereoscopic Photography, Art, Cinema, and
+      Education is a Los Angeles based nonprofit dedicated to the preservation
+      of the history of stereoscopic imaging and the advancement of current and
+      future 3-D arts and sciences.
 title: 3-D SPACE
 uri: /organizations/3-d-space/
 extrapolated_project_ids:
