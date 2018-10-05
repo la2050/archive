@@ -7,7 +7,7 @@ project_summary: >-
   Develop plans to expand composting in LA creating economic opportunities,
   reducing pollution, supporting local farms and alternative energy.
 category: live
-organization_id: '2014221'
+organization_id: '2016249'
 year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20947%252Fdisplay%252F2014-07-30_13.28.02.jpg=c570x385

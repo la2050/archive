@@ -38,13 +38,16 @@ aggregated:
   project_ids:
     - '8102061'
     - '6102119'
+    - '5102164'
   challenge_url:
     - 'https://activation.la2050.org/connect/la-compost/'
     - >-
       https://challenge.la2050.org/entry/building-community-and-reducing-organic-waste-via-community-compost-hubs-throughout-la-county
+    - 'http://maker.good.is/myla2050live2015/projects/Composthubs.html'
   year_submitted:
     - '2018'
     - '2016'
+    - '2015'
   org_summary:
     - >-
       LA Compost works alongside a growing network of community members and
@@ -54,6 +57,9 @@ aggregated:
       L.A. Compost is a sustainable movement that promotes healthy conscious
       communities through the creation of community supported compost hubs
       throughout Los Angeles.
+    - |-
+      LA Compost equips and empowers people to create their own green spaces.
+       Kiss the Ground inspires and advocates for the restoration of soil worldwide.
 title: LA Compost
 uri: /organizations/la-compost/
 extrapolated_project_ids:

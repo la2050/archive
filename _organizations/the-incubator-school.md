@@ -29,15 +29,18 @@ challenge_url: 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
 aggregated:
   project_ids:
     - '5102302'
+    - '4102140'
   challenge_url:
     - 'http://maker.good.is/myla2050learn2015/projects/IncSchool.html'
   year_submitted:
     - '2015'
+    - '2014'
   org_summary:
     - >-
       The Incubator School is a small, college and 21st century world-ready 6-12
       span learning community whose mission is to foster, network, and launch
       the entrepreneurial teams of tomorrow. We start up students!
+    - We start up students!
 title: The Incubator School
 uri: /organizations/the-incubator-school/
 extrapolated_project_ids:

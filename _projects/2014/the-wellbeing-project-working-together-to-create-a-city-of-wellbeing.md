@@ -5,7 +5,7 @@ project_summary: >-
   Through The Wellbeing Project we will work together to define, measure, and
   actively improve wellbeing in our community.
 category: connect
-organization_id: '2014016'
+organization_id: '2015174'
 year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/quAWRNiRKEg/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/quAWRNiRKEg'

@@ -1,7 +1,7 @@
 ---
 project_id: '5102164'
 title: Compost Hubs throughout Los Angeles
-organization_id: '2015107'
+organization_id: '2018061'
 areas_impacted: ''
 partners: 'Kis the ground EIN: 464507696'
 project_summary: >-

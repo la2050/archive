@@ -51,13 +51,19 @@ aggregated:
   challenge_url:
     - >-
       https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
+    - 'http://maker.good.is/myla2050play2015/projects/TENFEET2016.html'
   year_submitted:
     - '2018'
+    - '2015'
   org_summary:
     - >-
       The LA River Public Art Project advocates for an arts and culture
       infrastructure, preserves the legacy of art on the River, and develops
       public art projects to engage communities throughout LA.
+    - >-
+      The LA River Public Art Project is an active community of designers and
+      advocates committed to fostering an inclusive and diverse arts and culture
+      infrastructure on the LA River.
 title: LA River Public Art Project (c/o ERW Design)
 uri: /organizations/la-river-public-art-project-c-o-erw-design/
 extrapolated_project_ids: []

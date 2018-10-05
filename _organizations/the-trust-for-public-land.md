@@ -44,6 +44,7 @@ aggregated:
   project_ids:
     - '8102123'
     - '6102259'
+    - '4102176'
   challenge_url:
     - 'https://activation.la2050.org/play/the-trust-for-public-land/'
     - >-
@@ -51,11 +52,15 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+    - '2014'
   org_summary:
     - >-
       The Trust for Public Land creates parks and protects land for people,
       ensuring healthy, livable communities. Our overarching goal is for every
       American to live within a 10-minute walk of a park.
+    - >-
+      The Trust for Public Land creates parks and protects land for people,
+      ensuring healthy, livable communities for generations to come.
     - >-
       The Trust for Public Land creates parks and protects land for people,
       ensuring healthy, livable communities for generations to come.

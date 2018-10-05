@@ -28,11 +28,17 @@ challenge_url: 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
 aggregated:
   project_ids:
     - '5102241'
+    - '4102071'
   challenge_url:
     - 'http://maker.good.is/myla2050create2015/projects/PortTech.html'
+    - 'http://maker.good.is/myLA2050create/projects/PortTechLA.html'
   year_submitted:
     - '2015'
+    - '2014'
   org_summary:
+    - >-
+      PortTech connects entrepreneurs, industry and community to advance
+      innovation, solve port/global environmental challenges, and create jobs.
     - >-
       PortTech connects entrepreneurs, industry and community to advance
       innovation, solve port/global environmental challenges, and create jobs.

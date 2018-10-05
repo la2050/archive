@@ -3,7 +3,7 @@ project_id: '4102211'
 title: Tinker.Make.Innovate. Challenge
 project_summary: "Our Challenge provides resources & training to educators to help their students showcase at the LA Convention Center.   \r\n"
 category: learn
-organization_id: '2014200'
+organization_id: '2014151'
 year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/7nv6O3U7szc/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/7nv6O3U7szc'

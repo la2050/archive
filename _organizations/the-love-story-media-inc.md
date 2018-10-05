@@ -34,16 +34,23 @@ challenge_url: >-
 aggregated:
   project_ids:
     - '6102249'
+    - '5102305'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/the-love-story-interactive-art-journal-live-open-mic-show
+    - 'http://maker.good.is/myla2050connect2015/projects/TheLoveStory.html'
   year_submitted:
     - '2016'
+    - '2015'
   org_summary:
     - >-
       Through New Media Art Journaling and live shows, we validate, connect and
       inspire the broken hearted to transform the pain of loss into creative
       expression.
+    - >-
+      Through multimedia production and storytelling workshops, our organization
+      connects people who are dealing with love loss with those who have been
+      transformed through it.
 title: 'The Love Story Media, Inc.'
 uri: /organizations/the-love-story-media-inc/
 extrapolated_project_ids:
