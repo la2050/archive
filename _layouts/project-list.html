@@ -652,6 +652,24 @@ function addCategoryColor(tag) {
     tagsTitle.textContent = searchByTags;
     // addCategoryColor(tagsTitle);
     // document.body.className = tagsTitle.className;
+    var tagsImage = document.getElementById("tags-image");
+    if (tagsImage) {
+      let imageTagsMap = {
+        "arts & cultural vitality": "paint.svg",
+        "education & youth": "backpack.svg",
+        "environmental quality & sustainability": "leaf.svg",
+        "health": "heart.svg",
+        "housing & homelessness": "building.svg",
+        "income & employment": "dollars.svg",
+        "mobility": "bus.svg",
+        "public safety & public space": "park.svg",
+        "social connectedness": "people.svg"
+      }
+      if (imageTagsMap[searchByTags.toLowerCase()]) {
+        tagsImage.src = "/assets/images/icons/" + imageTagsMap[searchByTags.toLowerCase()]
+        tagsImage.style.display = "block"
+      }
+    }
   }
 
   // TEMPORARY: Show all projects if keywords are absent

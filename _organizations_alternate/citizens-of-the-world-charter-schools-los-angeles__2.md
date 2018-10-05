@@ -15,7 +15,7 @@ twitter: n/a
 instagram: ''
 facebook: n/a
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/RVA2N6tX2cg/maxresdefault.jpg'
+project_image: 'http://www.cwclosangeles.org/wp-content/uploads/2015/01/bg6.jpg'
 project_video: ''
 org_summary: >-
   Citizens of the World Charter Schools, Los Angeles (CWC LA) is a non-profit

@@ -17,7 +17,8 @@ twitter: ''
 instagram: ''
 facebook: ''
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/30f36j_o_wU/maxresdefault.jpg'
+project_image: >-
+  https://hammer.ucla.edu/legacy/_processed_/csm_43551390702_376d278a6b_o_114764d65b.jpg
 project_video: ''
 org_summary: >-
   Over the past decade plus, the Hammer Museum has transformed itself into one
