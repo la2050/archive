@@ -1,7 +1,7 @@
 ---
 project_id: '5102296'
 title: The Alternative Travel Project
-organization_id: '2014086'
+organization_id: '2015196'
 areas_impacted: ''
 partners: ''
 project_summary: "We're here to be of service to Los Angeles' public transit systems, and to start a dialogue about what we can all do to help create safer & more accessible alternative transit. \r\n\r\nWe genuinely believe support for car-free transportation infrastructure will create a better Los Angeles.\r\n\r\nThrough our efforts we aim to increase public usage of ATP infrastructure & we will work with lawmakers to create a more expansive & even safer system.\r\n"

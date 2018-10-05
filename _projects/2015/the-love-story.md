@@ -1,7 +1,7 @@
 ---
 project_id: '5102305'
 title: The Love Story
-organization_id: '2015203'
+organization_id: '2016225'
 areas_impacted: ''
 partners: ''
 project_summary: "The Love Story runs workshops on multimedia storytelling for those interested in applying the craft of narrative journalism, photojournalism, and documentary filmmaking to their personal stories and produce, in a documentary interview, stories of those who have already transformed their loss into creative expression.\r\n\r\nAs creatives, they will relate to themselves as courageous, compassionate, and powerful storytellers rather than people who need to be “helped” or “fixed.” \r\n"

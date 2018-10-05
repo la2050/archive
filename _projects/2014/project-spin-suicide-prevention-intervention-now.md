@@ -5,7 +5,7 @@ project_summary: >-
   Project SPIN is a bold initiative to bring systemic changes to school
   communities that will end conditions that contribute to LGBTQ suicide.
 category: learn
-organization_id: '2014207'
+organization_id: '2018075'
 year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/lg-vCWbUV8s/hqdefault.jpg'
 project_video: 'https://www.youtube.com/embed/lg-vCWbUV8s'

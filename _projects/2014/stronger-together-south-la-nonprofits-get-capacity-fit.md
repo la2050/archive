@@ -5,7 +5,7 @@ project_summary: >-
   Supporting veteran South LA nonprofits to be local capacity builders, grow
   revenue and help other South LA orgs achieve their missions.
 category: connect
-organization_id: '2014082'
+organization_id: '2015184'
 year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/iHlwRhoV_78/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/iHlwRhoV_78'

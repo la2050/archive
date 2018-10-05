@@ -29,16 +29,22 @@ challenge_url: 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.
 aggregated:
   project_ids:
     - '5102271'
+    - '4102083'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/disruptthedesert.html'
+    - 'http://maker.good.is/myLA2050connect/projects/SouthLACapacity.html'
   year_submitted:
     - '2015'
+    - '2014'
   org_summary:
     - >-
       Social Action Partners (SoACT) strengthens non-profit and community based
       organizations in low-income communities by partnering with them to provide
       technical assistance and capacity building that is culturally responsive,
       relevant, and respectful.
+    - >-
+      SoACT strengthens the nonprofit infrastructure in low-income communities
+      by strategic partnership and local ownership of capacity building.
 title: Social Action Partners (SoACT)
 uri: /organizations/social-action-partners-soact/
 extrapolated_project_ids:

@@ -447,7 +447,9 @@ function createMarkdownFile(data, makerProjects, makerImages, makerProjectAnswer
   if (data.organization_id_2 === data.organization_id) {
     delete data.organization_id_2
   } else {
-    console.log("found an organization_id_2 different from organization_id : " + data.organization_id_2)
+    console.log("found an organization_id_2 different from organization_id")
+    console.log("data.organization_id: "   + data.organization_id)
+    console.log("data.organization_id_2: " + data.organization_id_2)
   }
 
   try {
@@ -704,6 +706,50 @@ function generateAllCollections(file_name) {
 
   let input = fs.readFileSync('../_spreadsheets/' + file_name, 'utf8'); // https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options
   let records = parse(input, {columns: true}); // http://csv.adaltas.com/parse/examples/#using-the-synchronous-api
+
+  const organizationIDsToChange = {
+    '2016153': '2018120', 
+    '2015034': '2015220', 
+    '2015202': '2018063', 
+    '2015107': '2018061', 
+    '2015080': '2016102', 
+    '2014086': '2015196', 
+    '2015203': '2016225', 
+    '2014221': '2016249', 
+    '2014210': '2018123', 
+    '2014200': '2014151', 
+    '2014140': '2018020', 
+    '2014070': '2015158', 
+    '2014016': '2015174', 
+    '2014207': '2018075', 
+    '2014082': '2015184', 
+    '2014088': '2015199', 
+    '2014157': '2015200', 
+    '2014123': '2016176', 
+    '2014213': '2015214', 
+    '2014024': '2015062', 
+    '2013208': '2015220', 
+    '2013098': '2015201', 
+    '2013168': '2015185', 
+    '2013154': '2015148', 
+    '2013182': '2015001', 
+    '2013124': '2014205', 
+    '2013176': '2014194', 
+    '2013132': '2014178', 
+    '2013173': '2014102', 
+    '2013074': '2014047', 
+    '2013021': '2018010', 
+    '2013118': '2018018', 
+    '2013112': '2013122', 
+    '2013111': '2013122', 
+    '2013206': '2018132', 
+  }
+
+  records.forEach(record => {
+    if (organizationIDsToChange[record.organization_id]) {
+      record.organization_id = organizationIDsToChange[record.organization_id]
+    }
+  })
 
   // Sort by most recent year first
   records.sort(function (a, b) {
@@ -1075,7 +1121,6 @@ function createLookup(year) {
 
 createLookup(2016)
 createLookup(2018)
-
 
 
 

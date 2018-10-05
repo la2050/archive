@@ -30,16 +30,22 @@ challenge_url: 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
 aggregated:
   project_ids:
     - '5102099'
+    - '4102025'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/FFFRW.html'
+    - 'http://maker.good.is/myLA2050create/projects/FFFRW.html'
   year_submitted:
     - '2015'
+    - '2014'
   org_summary:
     - >-
       We are collaborative social enterprise between Scripps College (the
       women's college of Claremont) and Crossroads (a transitional home for
       formerly incarcerated women); we make jams and jellies from locally
       donated back yard fruit.
+    - >-
+      Crossroads assists formerly incarcerated women in becoming self-sufficient
+      by providing comprehensive services in a home-like environment.
 title: 'Fallen Fruit from Rising Women, Crossroads, Inc, Scripps College'
 uri: /organizations/fallen-fruit-from-rising-women-crossroads-inc-scripps-college/
 extrapolated_project_ids:

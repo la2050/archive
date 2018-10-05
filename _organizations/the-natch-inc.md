@@ -35,15 +35,23 @@ areas_impacted:
 project_ids: ''
 challenge_url: 'https://activation.la2050.org/create/the-natch-inc/'
 aggregated:
-  project_ids: []
+  project_ids:
+    - '6102208'
   challenge_url:
     - 'https://activation.la2050.org/create/the-natch-inc/'
+    - >-
+      https://challenge.la2050.org/entry/bringing-the-farmers-market-to-peoples-door
   year_submitted:
     - '2018'
+    - '2016'
   org_summary:
     - >-
       We run an online marketplace where anybody can locally sell and deliver
       food they make.
+    - >-
+      We are creating a marketplace app where anybody in Los Angeles can create
+      their own local craft shops, and sell and delivery anything they make
+      (foods, crafts, clothes, etc.) to other locals.
 title: 'The Natch, INC.'
 uri: /organizations/the-natch-inc/
 extrapolated_project_ids: []

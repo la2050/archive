@@ -35,12 +35,14 @@ aggregated:
   project_ids:
     - '6102188'
     - '5102242'
+    - '4102120'
   challenge_url:
     - 'https://challenge.la2050.org/entry/los-angeles-family-playlist-program'
     - 'http://maker.good.is/myla2050learn2015/projects/PowerMyLearning.html'
   year_submitted:
     - '2016'
     - '2015'
+    - '2014'
   org_summary:
     - >-
       PowerMyLearning helps students in low-income communities, together with
@@ -51,6 +53,9 @@ aggregated:
       Angeles’ low-income communities to help students power their learning
       through a combination of technology and the people who matter most to
       their success – parents and teachers.
+    - >-
+      CFY is a nonprofit that helps students, parents & educators use digital
+      learning to promote educational equity & raise student achievement.
 title: 'PowerMyLearning, Inc.'
 uri: /organizations/powermylearning-inc/
 extrapolated_project_ids:

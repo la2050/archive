@@ -5,7 +5,7 @@ project_summary: >-
   RUN4YOURLIFE - 10K  Walk/Run where you get paid to participate.  Mobile app
   registration, start training, complete the event and get paid.
 category: live
-organization_id: '2014210'
+organization_id: '2018123'
 year_submitted: 2014
 project_image: >-
   http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20215%252Fdisplay%252FRUN_FOR_YOUR_LIFE.jpg=c570x385

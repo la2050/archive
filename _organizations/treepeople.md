@@ -30,14 +30,19 @@ challenge_url: 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilizat
 aggregated:
   project_ids:
     - '5102322'
+    - '4102178'
   challenge_url:
     - 'http://maker.good.is/myla2050live2015/projects/ModelsofMobilization.html'
   year_submitted:
     - '2015'
+    - '2014'
   org_summary:
     - >-
       TreePeople works with individuals, schools, businesses, and organizations
       to heal LA's ecosystem, making the city healthier and more sustainable.
+    - >-
+      TreePeople unites the power of people, trees and nature-based solutions to
+      grow a healthier future for LA.
 title: TreePeople
 uri: /organizations/treepeople/
 extrapolated_project_ids:

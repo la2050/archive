@@ -31,16 +31,23 @@ challenge_url: >-
 aggregated:
   project_ids:
     - '6102094'
+    - '5102126'
   challenge_url:
     - >-
       https://challenge.la2050.org/entry/support-the-annual-hollywood-fringe-festival-including-expanding-the-fringe-scholarships-program
+    - 'http://maker.good.is/myla2050create2015/projects/hollywoodfringe.html'
   year_submitted:
     - '2016'
+    - '2015'
   org_summary:
     - >-
       Through its annual festival, Hollywood Fringe provides a platform for
       emerging, underrepresented and experimental local performers to interact
       with one another and engage with the Hollywood community.
+    - >-
+      The Hollywood Fringe Festival (HFF) is an annual, open-access,
+      community-derived event celebrating freedom of expression and
+      collaboration in the performing arts community.
 title: Hollywood Fringe Festival (Hatchery Arts)
 uri: /organizations/hollywood-fringe-festival-hatchery-arts/
 extrapolated_project_ids:

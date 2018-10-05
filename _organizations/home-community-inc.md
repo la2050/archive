@@ -27,13 +27,18 @@ challenge_url: ''
 aggregated:
   project_ids:
     - '4102134'
+    - '4102168'
   challenge_url: []
   year_submitted:
+    - '2014'
     - '2014'
   org_summary:
     - >-
       We engage in food justice helping low-income food entrepreneurs in South
       Los Angeles create family businesses that reduce food insecurity.
+    - >-
+      The Exploratory: Maker Guilds prepares children to become innovative
+      agents of their future through programming and curriculum development.
 title: home&community inc
 uri: /organizations/home-community-inc/
 extrapolated_project_ids: []

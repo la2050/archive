@@ -30,6 +30,7 @@ aggregated:
   project_ids:
     - '8102020'
     - '6102035'
+    - '4102126'
   challenge_url:
     - >-
       https://activation.la2050.org/connect/tides-center-dba-childrens-action-network/
@@ -38,6 +39,7 @@ aggregated:
   year_submitted:
     - '2018'
     - '2016'
+    - '2014'
   org_summary:
     - >-
       FosterMore highlights the amazing potential of youth in the foster care
@@ -47,6 +49,9 @@ aggregated:
       FosterMore highlights the amazing potential of youth in the foster care
       system and encourages all of us to play a part in ensuring that they
       receive the support and guidance they need to thrive.
+    - >-
+      A non-profit coalition united on behalf of foster youth to increase
+      participation in foster parenting, mentoring & educational opportunities
 title: Children's Action Network (CAN)
 uri: /organizations/childrens-action-network-can/
 extrapolated_project_ids:

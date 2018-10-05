@@ -7,7 +7,7 @@ project_summary: >-
   We're bringing Angelenos together online and off to break bread & #realtalk
   about #lifeafterloss, our number one equalizer. 
 category: connect
-organization_id: '2014088'
+organization_id: '2015199'
 year_submitted: 2014
 project_image: 'https://img.youtube.com/vi/Tyka7IrZhXU/maxresdefault.jpg'
 project_video: 'https://www.youtube.com/embed/Tyka7IrZhXU'
