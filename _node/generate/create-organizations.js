@@ -735,7 +735,8 @@ const imagesToUpdate = {
 "2013199": "https://scontent-lga3-1.cdninstagram.com/vp/9e2f7cf807ee3d828ce61e335b033f1a/5C4816E0/t51.2885-15/e35/14566729_1134408803308905_6445803479507140608_n.jpg",
 
 // Special Olympics World Games 2015
-"2014084": "https://en.wikipedia.org/wiki/2015_Special_Olympics_World_Summer_Games#/media/File:2015_Special_Olympics_Closing_Ceremony_on_August_2,_2015.jpg"
+// https://en.wikipedia.org/wiki/2015_Special_Olympics_World_Summer_Games#/media/File:2015_Special_Olympics_Closing_Ceremony_on_August_2,_2015.jpg
+"2014084": "https://upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg"
 
 }
 
