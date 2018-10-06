@@ -15,7 +15,8 @@ twitter: 'https://twitter.com/LosAngeles2015'
 instagram: 'http://instagram.com/la2015worldgames'
 facebook: www.facebook.com/LA2015
 org_type: Nonprofit
-project_image: 'https://img.youtube.com/vi/DMG32xJ5p-Q/hqdefault.jpg'
+project_image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/2d/2015_Special_Olympics_Closing_Ceremony_on_August_2%2C_2015.jpg
 project_video: ''
 org_summary: >-
   LA2015 celebrates the abilities of the intellectually disabled population by
