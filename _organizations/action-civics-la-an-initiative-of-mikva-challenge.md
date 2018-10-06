@@ -1,9 +1,9 @@
 ---
 organization_id: '2018005'
 year_submitted: 2018
-organization_name: 'Action Civics LA, an initiative of Mikva Challenge'
+organization_name: 'Action Civics CA, an initiative of Mikva Challenge'
 organization_website:
-  - 'https://www.mikvachallenge.org/action-civics-la/'
+  - 'https://www.mikvachallenge.org/action-civics-ca/'
   - 'https://www.procon.org'
 ein: '522033353'
 zip: '91383'
@@ -15,18 +15,18 @@ tags_indicators:
   - Social connectedness
   - Education & youth
 twitter:
-  - '@actioncivicsla'
+  - '@actioncivicsca'
   - '@procon_org'
 instagram: '@Actioncivicsla'
 facebook:
-  - 'https://www.facebook.com/ActionCivicsLA/'
+  - 'https://www.facebook.com/ActionCivicsCA/'
   - 'https://www.facebook.com/ProCon.org'
 org_type: Nonprofit
 project_image: >-
   https://activation.la2050.org/assets/images/connect/2048-wide/action-civics-la-an-initiative-of-mikva-challenge.jpg
 project_video: 'https://www.youtube.com/watch?v=DRyOMoxgsbE'
 org_summary: >-
-  Action Civics LA works with schools to empower young people with the skills,
+  Action Civics CA works with schools to empower young people with the skills,
   knowledge, & dispositions to be superstar citizens & leaders. ProCon provides
   the non-partisan research for the activities.
 areas_impacted:
