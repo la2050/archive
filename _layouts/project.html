@@ -49,12 +49,14 @@ stylesheets:
 
 {% assign is_winner = false %}
 {% for winner in site.data.winners %}
-  {% if winner == page.challenge_url %}
+  {% assign secure_challenge_url = page.challenge_url | replace: "http://", "https://" %}
+  {% if winner == secure_challenge_url %}
     {% assign is_winner = true %}
   {% endif %}
 
   {% for challenge_url in organization.aggregated.challenge_url %}
-    {% if winner.url == challenge_url %}
+    {% assign secure_challenge_url = challenge_url | replace: "http://", "https://" %}
+    {% if winner.url == secure_challenge_url %}
       {% if page.year_submitted == 2018 %}
         {% if challenge_url contains "activation" %}
           {% assign is_winner = true %}
