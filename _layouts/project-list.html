@@ -68,13 +68,35 @@ stylesheets:
   margin-left: -1.5rem;
   margin-right: -1.5rem;
 }
+.tags .action img {
+  width: 1.5em;
+  height: 1.5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.375em;
+}
+/*
+@media (min-width: 60em) {
+  .tags .action {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 90em) {
+  .tags .action {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+*/
 @media (min-width: 40em) {
   .tags .action {
 /*    margin-left: 0.375em;
     margin-right: 0.375em;*/
     margin-left: auto;
     margin-right: auto;
-    max-width: 45em;
+    max-width: 65em;
   }
 }
 @media (min-width: 40em) {
@@ -90,9 +112,13 @@ margin: 0.15em;
 text-align: center;
 text-align: left;
   display: flex;
-  justify-content: center;
+/*  justify-content: center;
   align-content: center;
-  align-items: center;
+  align-items: center;*/
+justify-content: stretch;
+align-content: stretch;
+align-items: stretch;
+align-self: stretch;
 }
 @media (min-width: 40em) {
 /*  .tags .action a {
@@ -110,9 +136,17 @@ text-align: left;
   border-color: var(--primary-color, black);
   border-color: rgba(0, 0, 0, 0.25);
   border-color: transparent;
-  padding: 0.375em 0.75em;
+  padding: 0.75em;
   letter-spacing: inherit;
   text-transform: inherit;
+}
+.tags .action a img {
+  filter: invert(1);
+}
+.tags .action a:hover img,
+.tags .action a:active img,
+.tags .action a:focus img {
+  filter: none;
 }
 .tags .action a:hover,
 .tags .action a:active,
@@ -307,6 +341,7 @@ footer {
 
   var images = [
 
+    /*
     "https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg",
 
     "https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg",
@@ -326,6 +361,7 @@ footer {
     "https://activation.la2050.org/assets/images/connect/2048-wide/826la.jpg",
     "https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg",
 
+    */
 
 
     "https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg",
@@ -527,7 +563,7 @@ footer {
 {% assign unique_tags = tags | uniq | sort %}
 
 {% if unique_tags.size > 0 %}
-<details class="tags blueberry" style="margin-top: 4.5em; margin-bottom: 3em; font-size: 1.25em; font-size: calc(0.75em + 0.75vw);" open>
+<details class="tags blueberry" style="margin-top: 4.5em; margin-bottom: 3em;" open>
 <summary onclick="event.preventDefault()">
 <h2 style="font-size: 1rem;"><strong>Browse</strong> by issue area</h2>
 </summary>
@@ -542,8 +578,36 @@ footer {
       {% endif %}
     {% endfor %}
 
+    {% case tag %}
+      {% when "Arts & cultural vitality" %}
+        {% assign tag_image = "paint.svg" %}
+      {% when "Education & youth" %}
+        {% assign tag_image = "backpack.svg" %}
+      {% when "Environmental quality & sustainability" %}
+        {% assign tag_image = "leaf.svg" %}
+      {% when "Health" %}
+        {% assign tag_image = "heart.svg" %}
+      {% when "Housing & homelessness" %}
+        {% assign tag_image = "building.svg" %}
+      {% when "Income & employment" %}
+        {% assign tag_image = "dollars.svg" %}
+      {% when "Mobility" %}
+        {% assign tag_image = "bus.svg" %}
+      {% when "Public safety & public space" %}
+        {% assign tag_image = "park.svg" %}
+      {% when "Social connectedness" %}
+        {% assign tag_image = "people.svg" %}
+    {% endcase %}
+
     {% assign font_scale_factor = tag_count | times: 1.0 | divided_by: unique_tags.size | times: 0.25 | plus: 1 %}
-    <li><a href="/search/?tags={{ tag | replace: '&', '%26' }}">{{ tag }}</a></li>
+    <li>
+      <a href="/search/?tags={{ tag | replace: '&', '%26' }}">
+        {% if tag_image %}
+          <img src="/assets/images/icons/{{ tag_image }}" alt="" />
+        {% endif %}
+        {{ tag }}
+      </a>
+    </li>
   {% endif %}
 
 {% endfor %}
