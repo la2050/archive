@@ -141,14 +141,6 @@ align-self: stretch;
   letter-spacing: inherit;
   text-transform: inherit;
 }
-.tags .action a img {
-  filter: invert(1);
-}
-.tags .action a:hover img,
-.tags .action a:active img,
-.tags .action a:focus img {
-  filter: none;
-}
 .tags .action a:hover,
 .tags .action a:active,
 .tags .action a:focus {
@@ -157,6 +149,21 @@ align-self: stretch;
   background: var(--primary-color, black);*/
   border-color: var(--primary-color, black);
 /*  color: white;*/
+}
+
+
+.tags .action a {
+  background-color: transparent;
+  background-color: var(--primary-color);
+  color: white;
+}
+.tags .action a img {
+  filter: invert(1);
+}
+.tags .action a:hover img,
+.tags .action a:active img,
+.tags .action a:focus img {
+  filter: none;
 }
 
 
@@ -222,187 +229,6 @@ align-self: stretch;
 </style>
 
 
-
-{% unless page.is_search_results %}
-
-<style>
-html {
-  height: 100vh;
-}
-body {
-  min-height: 100vh;
-  background: rgb(254, 254, 254);
-  color: rgb(41, 41, 41);
-  background: black;
-  color: white;
-}
-body > .container {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-body > .container,
-body .container-inner {
-  min-height: 100vh;
-  margin-left: -1.5em;
-  margin-right: -1.5em;
-  padding-left: 1.5em;
-  padding-right: 1.5em;
-}
-@media (min-width: 40em) {
-  body > .container,
-  body .container-inner {
-    margin-left: -4.5em;
-    margin-right: -4.5em;
-    padding-left: 4.5em;
-    padding-right: 4.5em;
-  }
-}
-body .container-inner {
-  background-color: rgba(0, 0, 0, 0.25);
-}
-
-header a,
-.tags summary h2,
-.goals .navigation .options summary p {
-  text-shadow: 0 0 2em rgba(0, 0, 0, 1);
-}
-
-
-/*
-body > .container::before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-}*/
-body:not(.header-not-visible) header {
-  background-color: transparent !important;
-  color: white !important;
-}
-body:not(.header-not-visible) header h2,
-body:not(.header-not-visible) header a {
-  color: inherit !important;
-}
-body:not(.header-not-visible) header a:hover,
-body:not(.header-not-visible) header a:active,
-body:not(.header-not-visible) header a:focus {
-  color: var(--primary-color) !important;
-}
-.goals .navigation .options form label,
-.goals .navigation .options form input {
-  margin-right: 0;
-}
-.goals .navigation .options form button {
-  margin-left: 0;
-}
-.goals .navigation .options form input,
-.goals .navigation .options form button {
-  background-color: transparent;
-  color: white;
-  border-color: transparent;
-}
-.goals .navigation .options form input {
-  background: rgb(254, 254, 254); /* @snow */
-  color: rgb(41, 41, 41); /* @midnight */
-}
-.goals .navigation .options form input:focus {
-  background: rgb(254, 254, 254); /* @snow */
-  color: rgb(41, 41, 41); /* @midnight */
-}
-.goals .navigation .options form button {
-  background-color: white;
-  color: rgb(41, 41, 41); 
-}
-
-.goals .navigation .options form button:hover,
-.goals .navigation .options form button:active,
-.goals .navigation .options form button:focus {
-  border-color: var(--primary-color);
-}
-.tags .action a {
-  background-color: transparent;
-  background-color: var(--primary-color);
-  color: white;
-}
-main {
-  min-height: 0;
-}
-footer {
-  color: white;
-}
-</style>
-
-<script>
-
-(function() {
-
-  var images = [
-
-    /*
-    "https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg",
-
-    "https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg",
-    "https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg",
-
-
-    "https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg",
-
-
-
-    "https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg",
-    "https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/826la.jpg",
-    "https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg",
-
-    */
-
-
-    "https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg",
-    "https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg",
-    "https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg",
-    "https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg",
-    "https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg",
-    "https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg",
-    "https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg",
-    "https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg"
-  ]
-
-  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
-
-    /**
-   * Returns a random number between min (inclusive) and max (exclusive)
-   */
-  function getRandomArbitrary(min, max) {
-      return Math.random() * (max - min) + min;
-  }
-
-  /**
-   * Returns a random integer between min (inclusive) and max (inclusive)
-   * Using Math.round() will give you a non-uniform distribution!
-   */
-  function getRandomInt(min, max) {
-      return Math.floor(Math.random() * (max - min + 1)) + min;
-  }
-
-  var randomNumber = getRandomInt(0, images.length - 1);
-
-  document.querySelector("body > .container").style.backgroundImage = "url(" + images[randomNumber] + ")";
-
-
-})();
-
-</script>
-
-{% endunless %}
 
 
 
@@ -674,6 +500,12 @@ function addCategoryColor(tag) {
   display: none;
 }
 </style>
+
+
+<p id="photo-credit" style="display: none; margin-top: 4.5em; margin-left: auto;margin-right: auto;text-align: center;">
+  Photo by <a href="" style="color: inherit;"></a>
+</p>
+
 
 <div style="margin-bottom: 4.5em"></div>
 
@@ -1158,4 +990,235 @@ function addCategoryColor(tag) {
 })();
 </script>
 
+
+
+
+{% unless page.is_search_results %}
+
+<style>
+html {
+  height: 100vh;
+}
+body {
+  min-height: 100vh;
+  background: rgb(254, 254, 254);
+  color: rgb(41, 41, 41);
+  background: black;
+  color: white;
+}
+body > .container {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body > .container,
+body .container-inner {
+  min-height: 100vh;
+  margin-left: -1.5em;
+  margin-right: -1.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+@media (min-width: 40em) {
+  body > .container,
+  body .container-inner {
+    margin-left: -4.5em;
+    margin-right: -4.5em;
+    padding-left: 4.5em;
+    padding-right: 4.5em;
+  }
+}
+body .container-inner {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+header a,
+.tags summary h2,
+.goals .navigation .options summary p {
+  text-shadow: 0 0 2em rgba(0, 0, 0, 1);
+}
+
+
+/*
+body > .container::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}*/
+body:not(.header-not-visible) header {
+  background-color: transparent !important;
+  color: white !important;
+}
+body:not(.header-not-visible) header h2,
+body:not(.header-not-visible) header a {
+  color: inherit !important;
+}
+body:not(.header-not-visible) header a:hover,
+body:not(.header-not-visible) header a:active,
+body:not(.header-not-visible) header a:focus {
+  color: var(--primary-color) !important;
+}
+.goals .navigation .options form label,
+.goals .navigation .options form input {
+  margin-right: 0;
+}
+.goals .navigation .options form button {
+  margin-left: 0;
+}
+.goals .navigation .options form input,
+.goals .navigation .options form button {
+  background-color: transparent;
+  color: white;
+  border-color: transparent;
+}
+.goals .navigation .options form input {
+  background: rgb(254, 254, 254); /* @snow */
+  color: rgb(41, 41, 41); /* @midnight */
+}
+.goals .navigation .options form input:focus {
+  background: rgb(254, 254, 254); /* @snow */
+  color: rgb(41, 41, 41); /* @midnight */
+}
+.goals .navigation .options form button {
+  background-color: white;
+  color: rgb(41, 41, 41); 
+}
+
+.goals .navigation .options form button:hover,
+.goals .navigation .options form button:active,
+.goals .navigation .options form button:focus {
+  border-color: var(--primary-color);
+}
+main {
+  min-height: 0;
+}
+footer {
+  background: transparent;
+  color: white;
+}
+</style>
+
+<script src="/api/featured.js"></script>
+
+<script>
+
+(function() {
+
+  {% comment %}
+  var images = [
+
+    /*
+    "https://activation.la2050.org/assets/images/create/2048-wide/long-beach-downtown-development-corporation.jpg",
+
+    "https://activation.la2050.org/assets/images/connect/2048-wide/film-independent.jpg",
+    "https://activation.la2050.org/assets/images/play/2048-wide/los-angeles-dodgers-foundation.jpg",
+
+
+    "https://activation.la2050.org/assets/images/create/2048-wide/east-la-community-corporation-elacc.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/voterunlead.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/mayors-fund-for-los-angeles.jpg",
+
+
+
+    "https://activation.la2050.org/assets/images/connect/2048-wide/los-angeles-master-chorale.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/gracias-music-foundation.jpg",
+    "https://activation.la2050.org/assets/images/create/2048-wide/brioxy.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/multicultural-communities-for-mobility-a-project-of-community-partners.jpg",
+    "https://activation.la2050.org/assets/images/connect/2048-wide/826la.jpg",
+    "https://activation.la2050.org/assets/images/play/2048-wide/kounkuey-design-initiative.jpg",
+
+    */
+
+    /*
+    {
+      title: "Big Citizen HUB",
+      url: "/organizations/big-citizen-hub/",
+      image: "https://activation.la2050.org/assets/images/live/2048-wide/big-citizen-hub.jpg"
+    },
+    {
+      title: "Justice LA | Dignity and Power Now"
+      url: "/organizations/justice-la-dignity-and-power-now/",
+      image: "https://activation.la2050.org/assets/images/connect/2048-wide/justice-la-dignity-and-power-now.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/learn/2048-wide/harlem-lacrosse-los-angeles.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/live/2048-wide/roots-wings.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/live/2048-wide/environment-california-research-policy-center.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/create/2048-wide/small-business-majority.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/connect/2048-wide/homeboy-industries.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/live/2048-wide/lift-los-angeles.jpg"
+    },
+    {
+      title: ""
+      url: "",
+      image: "https://activation.la2050.org/assets/images/learn/2048-wide/common-sense.jpg"
+    }
+    */
+  ]
+  {% endcomment %}
+
+  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+
+    /**
+   * Returns a random number between min (inclusive) and max (exclusive)
+   */
+  function getRandomArbitrary(min, max) {
+      return Math.random() * (max - min) + min;
+  }
+
+  /**
+   * Returns a random integer between min (inclusive) and max (inclusive)
+   * Using Math.round() will give you a non-uniform distribution!
+   */
+  function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  var randomNumber = getRandomInt(0, featuredOrganizations.length - 1);
+
+  var featuredOrganization = featuredOrganizations[randomNumber]
+
+  document.querySelector("body > .container").style.backgroundImage = 
+    "url(" + featuredOrganization.image + ")";
+
+  var photoCredit = document.getElementById("photo-credit");
+  if (photoCredit) {
+    var link = photoCredit.querySelector("a")
+    if (link) {
+      link.setAttribute("href", featuredOrganization.url);
+      link.textContent = featuredOrganization.title;
+      photoCredit.style.display = "block";
+    }
+  }
+})();
+
+</script>
+
+{% endunless %}
 
