@@ -107,7 +107,7 @@ How do you plan to scale the success of your proposal?: >-
   every elementary school participant in a Young Storytellers program.
 year_submitted: 2015
 project_image: 'https://img.youtube.com/vi/9pqXAYBOKLo/maxresdefault.jpg' 
-project_video: 'https://www.flickr.com/photos/826la/25197974963/in/album-72157665798555482/'
+project_video: 'https://youtu.be/o-kSyggO5n0'
 youtube_video_identifier: 9pqXAYBOKLo
 project_areas:
   - Central LA
