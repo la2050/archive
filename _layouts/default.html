@@ -109,8 +109,6 @@
 </head>
 <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
 
-<div class="container"><div class="container-inner">
-
   {% comment %}
   {% if page.show_promotion or site.phase == 6 or site.phase == 8 %}
   <section class="promotion">
@@ -159,8 +157,7 @@
     </figure>
     {% endif %}
   </main>
-  <footer style="background: none !important;">
-    {% comment %}
+  <footer>
     {% include logotype.html %}
     {% include navigation.html %}
     <ul class="social-links">
@@ -198,7 +195,6 @@
         </a>
       </li>
     </ul>
-    {% endcomment %}
     <div class="la2050">
       <p>
         <a href="https://la2050.org/">
@@ -236,9 +232,13 @@
       </p>
       <p><small>With support from the <a href="https://goldhirshfoundation.org/">Goldhirsh Foundation</a></small></p>
     </div>
-    {% comment %}
-    <p class="action"><a href="{{ site.mailing_list_url }}">Get updates</a></p>
-    {% endcomment %}
+    <p class="action" style="grid-row: span 2;">
+      <a href="{{ site.mailing_list_url }}">Sign up</a>
+      <small style="display: block; display: block;
+margin-top: 0.75em;
+margin-bottom: 3em;
+max-width: 33em; ">Sign up for the LA2050 email newsletter and keep in touch!</small>
+    </p>
   </footer>
 
   {% comment %}
@@ -247,8 +247,6 @@
   <script async src="/assets/js/goals.js?v={{ site.version }}"></script>
   {% endcomment %}
   <script async src="/assets/js/randomize-links.js?v={{ site.version }}"></script>
-
-</div></div><!-- /.container-inner --><!-- /.container -->
 
 </body>
 </html>

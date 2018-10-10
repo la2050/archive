@@ -6,7 +6,9 @@ stylesheets:
   - "/assets/css/project-list.css"
 ---
 
-<div style="margin-top: 3em"></div>
+<div class="container-outer"><div class="container-inner">
+
+<div style="padding-top: 3em"></div>
 
 <style>
 
@@ -159,6 +161,7 @@ align-self: stretch;
 }
 .tags .action a img {
   filter: invert(1);
+  transition: filter 0.2s;
 }
 .tags .action a:hover img,
 .tags .action a:active img,
@@ -502,12 +505,12 @@ function addCategoryColor(tag) {
 </style>
 
 
-<p id="photo-credit" style="display: none; margin-top: 4.5em; margin-left: auto;margin-right: auto;text-align: center;">
+<p id="photo-credit" style="display: none; margin-top: 9em; margin-left: auto;margin-right: auto;text-align: center;">
   Photo by <a href="" style="color: inherit;"></a>
 </p>
 
 
-<div style="margin-bottom: 4.5em"></div>
+<div style="padding-bottom: 9em"></div>
 
 
 
@@ -996,7 +999,7 @@ function addCategoryColor(tag) {
 {% unless page.is_search_results %}
 
 <style>
-html {
+/*html {
   height: 100vh;
 }
 body {
@@ -1005,14 +1008,17 @@ body {
   color: rgb(41, 41, 41);
   background: black;
   color: white;
-}
-body > .container {
+}*/
+
+.container-outer {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: black;
+  color: white;
 }
-body > .container,
-body .container-inner {
+.container-outer,
+.container-inner {
   min-height: 100vh;
   margin-left: -1.5em;
   margin-right: -1.5em;
@@ -1020,27 +1026,27 @@ body .container-inner {
   padding-right: 1.5em;
 }
 @media (min-width: 40em) {
-  body > .container,
-  body .container-inner {
+  .container-outer,
+  .container-inner {
     margin-left: -4.5em;
     margin-right: -4.5em;
     padding-left: 4.5em;
     padding-right: 4.5em;
   }
 }
-body .container-inner {
+.container-inner {
   background-color: rgba(0, 0, 0, 0.25);
 }
 
-header a,
+/*header a,
 .tags summary h2,
 .goals .navigation .options summary p {
   text-shadow: 0 0 2em rgba(0, 0, 0, 1);
-}
+}*/
 
 
 /*
-body > .container::before {
+.container-outer::before {
   content: "";
   position: absolute;
   z-index: -1;
@@ -1049,7 +1055,7 @@ body > .container::before {
   top: 0;
   left: 0;
 }*/
-body:not(.header-not-visible) header {
+/*body:not(.header-not-visible) header {
   background-color: transparent !important;
   color: white !important;
 }
@@ -1061,7 +1067,7 @@ body:not(.header-not-visible) header a:hover,
 body:not(.header-not-visible) header a:active,
 body:not(.header-not-visible) header a:focus {
   color: var(--primary-color) !important;
-}
+}*/
 .goals .navigation .options form label,
 .goals .navigation .options form input {
   margin-right: 0;
@@ -1093,13 +1099,13 @@ body:not(.header-not-visible) header a:focus {
 .goals .navigation .options form button:focus {
   border-color: var(--primary-color);
 }
-main {
+/*main {
   min-height: 0;
 }
 footer {
   background: transparent;
   color: white;
-}
+}*/
 </style>
 
 <script src="/api/featured.js"></script>
@@ -1107,6 +1113,7 @@ footer {
 <script>
 
 (function() {
+
 
   {% comment %}
   var images = [
@@ -1204,7 +1211,7 @@ footer {
 
   var featuredOrganization = featuredOrganizations[randomNumber]
 
-  document.querySelector("body > .container").style.backgroundImage = 
+  document.querySelector(".container-outer").style.backgroundImage = 
     "url(" + featuredOrganization.image + ")";
 
   var photoCredit = document.getElementById("photo-credit");
@@ -1221,4 +1228,6 @@ footer {
 </script>
 
 {% endunless %}
+
+</div></div><!-- /.container-inner --><!-- /.container-outer -->
 
