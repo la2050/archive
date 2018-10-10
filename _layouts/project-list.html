@@ -902,11 +902,28 @@ function addCategoryColor(tag) {
   }
 
 
+  function getKeywordList(keywords) {
+
+    // SHIM: Assume that most folks will search with quotes around all of the search terms
+    //       This could be made more robust by allowing quotes around only some of them
+    if (
+        keywords.indexOf('"') == 0
+        && 
+        keywords.lastIndexOf('"') == (keywords.length - 1)
+      ) {
+
+      return [keywords]
+    }
+
+    return keywords.replace(/\s/, ',').split(',')
+  }
+
+
   // var fragment = document.createDocumentFragment();
   var items = projectList.getElementsByTagName('script');
   var matches = [];
   if (keywords) {
-    var keywordList = keywords.replace(/\s/, ',').split(',');
+    var keywordList = getKeywordList(keywords);
     if (keywordList.filter) keywordList = keywordList.filter(function(keyword) {
       return keyword.toLowerCase() != "and" && keyword.toLowerCase() != "the" && keyword.toLowerCase() != "la";
     })
@@ -922,11 +939,11 @@ function addCategoryColor(tag) {
 
     // If an exact phrase was found, add more rank depending on the number of words
     // console.log(keywords.replace(/\s/, ',').split(',').length >= 1)
-    if (keywords && keywords.replace(/\s/, ',').split(',').length >= 1) {
+    if (keywords && getKeywordList(keywords).length >= 1) {
       // console.log("looking for an exact phrase match")
       if (items[index].innerHTML.toLowerCase().indexOf(keywords.toLowerCase()) >= 0) {
         // console.log("***** exact phrase match *****")
-        rank += (10000 * keywords.replace(/\s/, ',').split(',').length)
+        rank += (10000 * getKeywordList(keywords).length)
       }
     }
 
