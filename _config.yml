@@ -186,7 +186,7 @@ defaults:
       type: organizations
     values:
       layout: organization
-      body_class: strawberry
+      body_class: blueberry
 
 collections:
   learn:

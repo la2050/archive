@@ -97,41 +97,8 @@ stylesheets:
 
 
 
-{% comment %}
 <div style="margin-top: 3em"></div>
-{% endcomment %}
 
-<style>
-  .standard-layout > .year {
-    max-width: none;
-    text-align: left;
-    grid-column: 1/-1;
-    background-color: var(--primary-color);
-    color: white;
-    padding: 0.375em 0 0 0;
-    margin: 0 -1.5em 1.5em;
-  }
-  .standard-layout > .year strong,
-  .standard-layout > .year a,
-  .standard-layout > .year a:hover,
-  .standard-layout > .year a:active,
-  .standard-layout > .year a:focus {
-    color: inherit !important;
-  }
-  @media (min-width: 40em) {
-    .standard-layout > .year {
-      margin-left: -4.5em;
-      margin-right: -4.5em;
-      padding-left: 4.5em;
-      padding-right: 4.5em;
-      margin-top: -3.125em;
-      position: relative;
-      z-index: 6;
-    }
-  }
-</style>
-
-<div class="year"></div>
 
 {% if page.year_submitted == 2013 %}
 
