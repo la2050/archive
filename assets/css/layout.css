@@ -216,7 +216,7 @@
 
   /* Add a border between header and main
   ----------------------------------------------- */
-  header::after {
+/*  header::after {
     content: "";
     border-bottom: ;
     max-width: none;
@@ -241,4 +241,4 @@
       position: relative;
       top: -3em;
     }
-  }
+  }*/

@@ -125,6 +125,7 @@ stylesheets:
      {% assign primary_color = "strawberry" %}
 {% endcase %}
 
+<div style="margin-top: 3em"></div>
 
 <script>
 // document.body.classList.remove("strawberry")
@@ -607,17 +608,66 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Submitted Ideas</h2>
 
   <li class="{{ project.body_class }}" style="list-style: none; margin-left: 0; padding-left: 0; margin-bottom: 3em;">
 
-      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: 0.875em;">Idea about how to make LA a better place {% if project.indicator %}for{% else %}to{% endif %} <strong style="font-weight: bold; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.05em;">{% if project.indicator %}{{ project.indicator }}{% else %}{{ project.category }}{% endif %}</strong>, 
+  <details style="font-size: 0.875em;">
+    <summary>
+      <p style="margin: 0 0 0.75rem; max-width: none; text-align: left; color: rgba(0, 0, 0, 0.5);"><small style="font-style: normal; font-size: inherit;">Idea about how to make LA a better place {% if project.indicator %}for{% else %}to{% endif %} <strong style="font-weight: bold; color: var(--primary-color) !important; text-transform: uppercase; letter-spacing: 0.05em;">{% if project.indicator %}{{ project.indicator }}{% else %}{{ project.category }}{% endif %}</strong>, 
 
       submitted by this organization
 
       {% if is_winner %}
-        and selected as a <strong style="color: var(--primary-color);">winner</strong>
+        and selected as a <strong style="text-decoration: none;">winner</strong>
       {% elsif is_finalist %}
-        and selected as a <strong style="color: var(--primary-color);">finalist</strong>
+        and selected as a <strong style="text-decoration: none;">finalist</strong>
       {% endif %}
 
-      in the <strong style="color: var(--primary-color);">{{ project.year_submitted }}</strong> challenge.</small></p>
+      in the <strong style="text-decoration: none;">{{ project.year_submitted }}</strong> challenge.</small></p>
+    </summary>
+    <div style="border: 0.75em solid; border-color: white white var(--primary-color); width: 0; height: 0; margin-left: auto; margin-right: auto; margin-top: -1.5em;"></div>
+    <div style="background-color: var(--primary-color); color: white; padding: 0.75em 1.5em; margin-bottom: 0.75em">
+    {% case project.category %}
+      {% when 'learn' %}
+        <h3 style="color: white; margin-top: 0.75rem;">
+          Make LA the best place to <strong style="color: inherit">LEARN</strong>
+        </h3>
+        <p>One of five <a href="http://la2050.org/goals" style="color: white;">LA2050 Goals</a></p>
+        <p>Our region offers opportunities for lifelong learning, allowing all residents to contribute their skills, talents, and abilities to society.</p>
+        <p>By 2050, all Los Angeles students will have access to early education programs, every high school student will graduate and be college and career ready, and all parents will be engaged and empowered to direct their children’s learning. LA will capitalize on its concentration of higher education facilities to foster new businesses, advance research, and spur innovation.</p>
+      {% when 'create' %}
+        <h3 style="color: white; margin-top: 0.75rem;">
+          Make LA the best place to <strong style="color: inherit">CREATE</strong>
+        </h3>
+        <p>One of five <a href="http://la2050.org/goals" style="color: white;">LA2050 Goals</a></p>
+        <p>Our region empowers its residents to harness their creativity by fostering entrepreneurship, cultural diversity, and inclusivity.</p>
+        <p>In 2050, Los Angeles will continue to play host to the largest concentration of working artists in the nation and provide support to maintain (and build) its robust collection of arts establishments. It will lead the nation in manufacturing and become an international leader in technology and innovation. Our region will be a center for entrepreneurial activity that creates jobs and generates wealth for a diverse, flexible, and talented workforce. LA’s business community will reflect the diversity of our region, enhancing our international business opportunities.</p>
+      {% when 'play' %}
+        <h3 style="color: white; margin-top: 0.75rem;">
+          Make LA the best place to <strong style="color: inherit">PLAY</strong>
+        </h3>
+        <p>One of five <a href="http://la2050.org/goals" style="color: white;">LA2050 Goals</a></p>
+        <p>Our region is a place where people of all ages have easy access to clean, safe, and sustainable venues to enjoy the natural environment, arts and cultural resources, and local beaches, waterways, and open space.</p>
+        <p>In 2050, people of all ages will enjoy safe homes, safe neighborhoods, and safe places to play. Every neighborhood will provide its residents with vibrant park space, every child will have access to afterschool enrichment programs, and residents will love their neighborhoods.</p>
+      {% when 'connect' %}
+        <h3 style="color: white; margin-top: 0.75rem;">
+          Make LA the best place to <strong style="color: inherit">CONNECT</strong>
+        </h3>
+        <p>One of five <a href="http://la2050.org/goals" style="color: white;">LA2050 Goals</a></p>
+        <p>Our region is a place where every resident has the opportunity to engage and interact with other Angelenos and are empowered to contribute meaningfully in civic processes.</p>
+        <p>In 2050, Los Angeles will be the most civically engaged region in the U.S., with multiple online and offline platforms for residents to voice their opinions and influence elected officials, decision-makers, and local government. Our region’s voting rates and volunteerism will lead the nation, and an expanded network of transportation options will facilitate the easy flow of people and ideas.</p>
+      {% when 'live' %}
+        <h3 style="color: white; margin-top: 0.75rem;">
+          Make LA the best place to <strong style="color: inherit">LIVE</strong>
+        </h3>
+        <p>One of five <a href="http://la2050.org/goals" style="color: white;">LA2050 Goals</a></p>
+        <p>Our region’s residents have the economic means and cultural capital to lead active, healthy lives, and everyone benefits from a sustainable environment.</p>
+        <p>In 2050, Los Angeles will have the nation’s lowest obesity rates and every neighborhood will have access to healthy, affordable food. Every family will be able to afford quality health care and housing. And no families will face environmental health hazards because of where they live or how much money they make.</p>
+      {% else %}
+        <p>
+          The 2013 Challenge featured categories used at My LA2050 to categorize organization impact.
+        </p>
+        <p>Read more <a href="http://la2050.org/metrics" style="color: white;">about our indicators</a>.</p>
+    {% endcase %}
+    </div>
+  </details>
 
 {% assign video_embed_url = "" %}
 
