@@ -435,7 +435,8 @@ footer {
   {% assign is_winner = false %}
   {% for winner in site.data.winners %}
     {% for challenge_url in data.aggregated.challenge_url %}
-      {% if winner.url == challenge_url %}
+      {% assign secure_challenge_url = challenge_url | replace: "http://", "https://" %}
+      {% if winner.url == secure_challenge_url %}
         {% assign is_winner = true %}
         {% assign winner_year = winner.year %}
       {% endif %}
