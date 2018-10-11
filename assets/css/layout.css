@@ -242,3 +242,21 @@
       top: -3em;
     }
   }*/
+
+  footer .action small {
+    text-align: center;
+  }
+
+  @supports (display: grid) {
+    @media (min-width: 70em) { /* @wide-enough-for-header-grid */
+      footer .action small {
+        text-align: left;
+        display: block;
+        margin-top: 0.75em;
+        margin-bottom: 3em;
+        max-width: 33em; 
+        position: absolute;
+      }
+    }
+  }
+
