@@ -8,7 +8,6 @@ https://my.la2050.org
 * [How to make changes](#how-to-make-changes)
 * [How to switch between contest phases](#how-to-switch-between-contest-phases)
 * [How to develop locally](#how-to-develop-locally)
-* [Generating responsive images](#generating-responsive-images)
 * [Handy guides](#handy-guides)
 
 ## How to make changes
