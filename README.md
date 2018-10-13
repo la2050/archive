@@ -24,13 +24,13 @@ If you want to see a preview of your changes while you work, you can [run a Jeky
 After you have Jekyll installed, you can clone this project with [Git](https://git-scm.com) or [GitHub Desktop](https://desktop.github.com)…
 
 ```
-git clone 
+git clone https://github.com/la2050/myla2050.git
 ```
 
 And then start running the Jekyll application like this...
 
 ```
-jekyll servehttps://github.com/la2050/myla2050.git
+jekyll serve
 ```
 
 ## Handy guides
