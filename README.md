@@ -21,16 +21,12 @@ For example, if you [edit the about page](https://github.com/la2050/myla2050/edi
 
 If you want to see a preview of your changes while you work, you can [run a Jekyll server](https://jekyllrb.com) on your local machine. [Installing Ruby and Jekyll](https://jekyllrb.com/docs/installation/) is a good place to start.
 
-After you have Jekyll installed, you can clone this project with [Git](https://git-scm.com) or [GitHub Desktop](https://desktop.github.com)…
+After you have Jekyll installed, you can clone this project with [Git](https://git-scm.com) or [GitHub Desktop](https://desktop.github.com).
+
+If Jekyll is taking a long time to rebuild after changes, you may find it helpful to use *incremental* mode. Here’s an example that also rebuilds the site first to ensure everything is up to date, and includes a *host* option to make the site available on your local network for testing on mobile devices.
 
 ```
-git clone https://github.com/la2050/myla2050.git
-```
-
-And then start running the Jekyll application like this...
-
-```
-jekyll serve
+jekyll build && jekyll serve --host=0.0.0.0 --incremental --skip-initial-build
 ```
 
 ## Handy guides
