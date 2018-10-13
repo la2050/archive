@@ -3,10 +3,9 @@
 
 This is a website for the My LA2050 ideas library–a searchable database of organizations and projects from the grants and activation challenges from 2013-2018.
 
-https://my.la2050.org
+https://archive.la2050.org
 
 * [How to make changes](#how-to-make-changes)
-* [How to switch between contest phases](#how-to-switch-between-contest-phases)
 * [How to develop locally](#how-to-develop-locally)
 * [Handy guides](#handy-guides)
 
@@ -14,9 +13,9 @@ https://my.la2050.org
 
 The website is published with [GitHub Pages](https://pages.github.com) and the files are generated with [Jekyll](http://jekyllrb.com).
 
-As you make changes and commit/push them to GitHub, the [website](https://my.la2050.org) will automatically update.
+As you make changes and commit/push them to GitHub, the [website](https://archive.la2050.org) will automatically update.
 
-For example, if you [edit the about page](https://github.com/la2050/myla2050/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://my.la2050.org/about/) of the website within a few minutes.
+For example, if you [edit the about page](https://github.com/la2050/myla2050/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [about page](https://archive.la2050.org/about/) of the website within a few minutes.
 
 ## How to develop locally
 
