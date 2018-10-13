@@ -558,9 +558,12 @@ font-size: 1.25em; line-height: 1; margin-bottom: 3rem;">Submitted Ideas</h2>
 
 {% assign is_winner = false %}
 {% for winner in site.data.winners %}
-  {% assign secure_challenge_url = project.challenge_url | replace: "http://", "https://" %}
-  {% if winner.url contains secure_challenge_url or secure_challenge_url contains winner.url %}
-    {% assign is_winner = true %}
+
+  {% if project.challenge_url and project.challenge_url != "" %}
+    {% assign secure_challenge_url = project.challenge_url | replace: "http://", "https://" %}
+    {% if winner.url contains secure_challenge_url or secure_challenge_url contains winner.url %}
+      {% assign is_winner = true %}
+    {% endif %}
   {% endif %}
 
   {% for challenge_url in page.aggregated.challenge_url %}
