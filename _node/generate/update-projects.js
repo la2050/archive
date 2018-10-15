@@ -6,28 +6,32 @@ let yaml = require('js-yaml')
 
 
 function getYaml(text, filename) {
-  const DELIMITER = '---'
+  const DELIMITER = `---
+`
   let items = text.split(DELIMITER)
   if (items.length === 3) {
-    return items[1]
+    return `
+${items[1]}`
   } else {
     console.log('unexpected markdown format detected')
     console.log(items.length)
-    console.log(text)
+    // console.log(text)
     console.log(filename)
   }
 }
 
 
 function getContent(text, filename) {
-  const DELIMITER = '---'
+  const DELIMITER = `---
+`
   let items = text.split(DELIMITER)
   if (items.length === 3) {
-    return items[2]
+    return `
+${items[2]}`
   } else {
     console.log('unexpected markdown format detected')
     console.log(items.length)
-    console.log(text)
+    // console.log(text)
   }
 }
 
@@ -54,33 +58,33 @@ function loadMarkdown(filename) {
 }
 
 
-const attributes = [
-  'published',
-  'organization_id',
-  'title',
-  'org_type',
-  'org_summary',
-  'tags_indicators',
-  'charity_navigator_url',
-  'organization_website',
-  'twitter',
-  'instagram',
-  'facebook',
-  'ein',
-  'zip',
-  'project_image',
-  'project_video',
-  'project_ids',
-  'project_titles',
-  'aggregated',
-  'original_project_ids',
-  'original_project_titles',
-  'extrapolated_project_ids',
-  'extrapolated_project_titles',
-  'youtube_video_identifier',
-  'maker_image_file_name',
-  'maker_image_id'
-]
+// const attributes = [
+//   'published',
+//   'organization_id',
+//   'title',
+//   'org_type',
+//   'org_summary',
+//   'tags_indicators',
+//   'charity_navigator_url',
+//   'organization_website',
+//   'twitter',
+//   'instagram',
+//   'facebook',
+//   'ein',
+//   'zip',
+//   'project_image',
+//   'project_video',
+//   'project_ids',
+//   'project_titles',
+//   'aggregated',
+//   'original_project_ids',
+//   'original_project_titles',
+//   'extrapolated_project_ids',
+//   'extrapolated_project_titles',
+//   'youtube_video_identifier',
+//   'maker_image_file_name',
+//   'maker_image_id'
+// ]
 
 
 function saveMarkdown(filename, data) {
@@ -89,21 +93,25 @@ function saveMarkdown(filename, data) {
 
   // console.dir(data)
 
+  let options = {}
+
+  // options.sortKeys = (a, b) => {
+  //   // a is less than b by some ordering criterion
+  //   if (attributes.indexOf(a) < attributes.indexOf(b)) {
+  //     return -1
+  //   }
+  //   // a is greater than b by the ordering criterion
+  //   if (attributes.indexOf(a) > attributes.indexOf(b)) {
+  //     return 1
+  //   }
+  //   // a must be equal to b
+  //   return 0
+  // }
+
   // https://www.npmjs.com/package/js-yaml#safedump-object---options-
   let output =
 `---
-${yaml.safeDump(data.yaml, {sortKeys: (a, b) => {
-  // a is less than b by some ordering criterion
-  if (attributes.indexOf(a) < attributes.indexOf(b)) {
-    return -1
-  }
-  // a is greater than b by the ordering criterion
-  if (attributes.indexOf(a) > attributes.indexOf(b)) {
-    return 1
-  }
-  // a must be equal to b
-  return 0
-}})}
+${yaml.safeDump(data.yaml, options)}
 ---${data.content}`
 
 
@@ -163,7 +171,7 @@ function processFile(filename) {
   // delete data.yaml.original_project_titles
   // delete data.yaml.extrapolated_project_titles
 
-  data.yaml.published = true
+  // data.yaml.published = true
 
   saveMarkdown(filename, data)
 }
@@ -177,12 +185,12 @@ function getAllFilesFromFolder(dir) {
 
   filesystem.readdirSync(dir).forEach(function(file) {
 
-      file = dir+'/'+file
-      let stat = filesystem.statSync(file)
+    file = dir+'/'+file
+    let stat = filesystem.statSync(file)
 
-      if (stat && stat.isDirectory()) {
-          results = results.concat(getAllFilesFromFolder(file))
-      } else results.push(file)
+    if (stat && stat.isDirectory()) {
+      results = results.concat(getAllFilesFromFolder(file))
+    } else results.push(file)
 
   })
 
@@ -204,6 +212,6 @@ function updateFolder(folder) {
 }
 
 
-updateFolder('../_organizations')
+updateFolder('../_projects')
 
 
