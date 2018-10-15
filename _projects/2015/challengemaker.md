@@ -556,5 +556,6 @@ maker_answers_list:
     answer: "Our platform is built to be completely scaleable. We'll increase staff as need be.\r\n\r\n"
 body_class: strawberry
 organization_name: ChallengeMaker
+published: true
 
 ---

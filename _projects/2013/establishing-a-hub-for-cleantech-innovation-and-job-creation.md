@@ -317,5 +317,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>CTLA:  Created by the Mayor in 2009, CTLA is partnership of the region’s most important institutions dedicated to making Los Angles a huge green economy.  Today, LA is the second largest green economy in the US, is the largest market for EVs and solar in the country, has more cleantech startups than any other region in the country, and is leading the way in renewable energy generation.</p>\r\n\r\n<p>LACI:  In just 18 short months, LACI has created a vibrant cleantech innovation ecosystem that has spawned 14 new cleantech companies, attracted partnerships with industry/academia, and finalized the funding and planning for the $40M La Kretz Innovation Campus in the Cleantech Corridor.</p>"
+published: true
 
 ---

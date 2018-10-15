@@ -659,5 +659,6 @@ maker_answers_list:
       in that city. 
 body_class: blueberry
 organization_name: CoachArt
+published: true
 
 ---

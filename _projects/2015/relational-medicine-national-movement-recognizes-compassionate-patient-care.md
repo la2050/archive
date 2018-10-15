@@ -800,5 +800,6 @@ maker_answers_list:
       for high-tech modern medicine.  
 body_class: blueberry
 organization_name: Relational Medicine Foundation
+published: true
 
 ---

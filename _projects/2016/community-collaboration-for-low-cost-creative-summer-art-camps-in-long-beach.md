@@ -148,5 +148,6 @@ project_proposal_impact:
   - Residential segregation
 category: connect
 body_class: tangerine
+published: true
 
 ---

@@ -386,5 +386,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>On the last day of summer, through a chance encounter, filmmaker Nirvan Mullick met Caine Monroy, a 9-year-old boy who built an elaborate cardboard arcade inside his dad’s East LA auto parts shop. Nirvan was Caine’s first customer. Amazed by the boy’s creativity, Nirvan organized a flash mob of customers to surprise Caine and make his day. Then he made a film about it.</p>\r\n\r\n<p>The Imagination Foundation is a new organization, but is rapidly becoming the leader of a worldwide movement to foster creativity, imagination and entrepreneurship in children.  The film that launched the Imagination Foundation, “Caine’s Arcade,” has been widely cited as one of the most inspirational stories of 2012. The film has received nearly 8 million views, trended worldwide on Twitter, gathered a Facebook community of 130,000+ fans, and inspired a wave of cardboard creativity in backyards and classrooms across the globe. The Christian Science Monitor calls the film a “great American story,” and Wired Magazine writes, “It’s a sweet story that brings viewers back to a time of potent imagination and creativity.”</p>\r\n\r\n<p>Our first Global Cardboard Challenge took place in October 2012, with thousands of participants in 41 countries on six continents.</p>"
+published: true
 
 ---

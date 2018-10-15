@@ -227,5 +227,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/live/ucla-center-for-health-services-and-society/
 body_class: lime
+published: true
 
 ---

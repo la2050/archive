@@ -100,5 +100,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/create/we-are-enough-c-o-social-environmental-entrepreneurs/
 body_class: banana
+published: true
 
 ---

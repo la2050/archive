@@ -721,5 +721,6 @@ maker_answers_list:
     answer: "The LA ART FEST would start out in 1 area of Los Angeles DTLA then expand to other surrounding communities in L.A. \r\n\r\nAn umbrella organization for the LA ART FEST would help guide a city-wide effort. Each community could offer their own version of the the LA ART FEST with an art exhibition, crafts and food aspect as well as a musical component.  As a multi-cultural art event many people would be invited to show off their own cultural manifestation. Since there are hundreds of cultures throughout the L.A. area there is no shortage of content for future LA Art Fests. Content would be presented for exhibitions, performance and crafts presentations. \r\n\r\nMulti-cultural food purveyors would be included to help share the pride of our collective community. There is such a vast array of choices with the new food trucks and other food vendors that each LA ART FEST would contain completely new content each time. "
 body_class: strawberry
 organization_name: LA Art Fest & Julie Rico Gallery
+published: true
 
 ---

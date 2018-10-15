@@ -119,5 +119,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "The staff and volunteers of Santa Monica Mountains National Recreation Area have each year:\r\n\r\n•\tReached over 8000 kids with nature-based education programming.\r\n•\tPlanted 5 acres of native habitat. \r\n•\tGrown 15,000 native plants.\r\n•\tPlanted 10,000 native with kids.\r\n•\tEmployed over 20 scientists to conduct scientific research on plants, animals, water quality, air quality and more.  This research includes four active citizen science programs (What’s Invasive, California phenology project, crayfish removal).\r\n"
+published: true
 
 ---

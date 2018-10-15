@@ -606,5 +606,6 @@ maker_answers_list:
     answer: "We plan to scale the success of our proposal a number of ways. First, the scale involves measuring the number of students who have attended classes and learned how to sew, crochet and knit. Second,\r\nsuccess is measured when students decide to become vendors at Yes4arts events and showcase their art designs.  Finally, success is measured when students return to our classes with positive updates of their lives, have made education a priority, and have become positive role models in the community for other new students. This is when Yes4arts can be proud of making a difference, one student at a time.    "
 body_class: blueberry
 organization_name: Yes4arts
+published: true
 
 ---

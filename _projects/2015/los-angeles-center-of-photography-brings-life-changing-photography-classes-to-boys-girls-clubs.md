@@ -726,5 +726,6 @@ maker_answers_list:
     answer: "With LACP’s own pool of instructors to draw on, it is easy to envision scaling up the program quite rapidly.  And with 26 Boys & Girls Clubs in Los Angeles County, LACP’s program could be offered to any club that doesn’t already have a photography program.  The Mar Vista Club has already expressed interest, and longer-term plans call for expansion into the San Fernando Valley and South Los Angeles.  We have already applied to offer a shorter version of the program to the LA Unified School District, and are awaiting notification.\r\n\r\nAt the same time, LACP believes it is important to put the Boys & Girls Clubs where we have already made a commitment on a firm financial basis.  If we receive the LA2050 grant in 2016, it will not only allow us to launch the program at four clubs across LA County, we believe the recognition will aid our fundraising for these programs in 2017—as well as plan for further expansion.   \r\n"
 body_class: blueberry
 organization_name: Los Angeles Center of Photography
+published: true
 
 ---

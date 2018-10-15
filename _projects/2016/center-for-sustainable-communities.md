@@ -151,5 +151,6 @@ project_proposal_impact:
   - Walk/bike/transit score
 category: live
 body_class: lime
+published: true
 
 ---

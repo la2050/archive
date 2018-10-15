@@ -122,5 +122,6 @@ project_proposal_impact:
   - Exposure to air toxins
 category: live
 body_class: lime
+published: true
 
 ---

@@ -726,5 +726,6 @@ maker_answers_list:
       https://www.surveymonkey.com/r/healthcybersecurity. 
 body_class: blueberry
 organization_name: The Center of Medical Multimedia Education and Technology (COMMET)
+published: true
 
 ---

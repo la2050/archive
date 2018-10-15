@@ -600,5 +600,6 @@ project_summary: >-
   and careers. Our games were developed and pilot tested in Los Angeles and are
   now utilized nationally. My LA2050 funding would enable us to expand these
   programs and train practitioners on how to make use of the game-based tools.
+published: true
 
 ---

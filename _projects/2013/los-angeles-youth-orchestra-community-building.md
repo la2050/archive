@@ -225,5 +225,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Concert at Carnegie Hall: February 2013\r\nPartnership with the Los Angeles Film Festival: June 2012\r\nYouth Orchestra Day: In February of 2010\r\nPartnership with the UCLA Herb Alpert School of Music: In 2008.\r\nLos Angeles Philharmonic Youth Orchestra Partner: In 2007-2008\r\nPartnership with the Los Angeles Chamber Orchestra: In 2003-2007\r\n\r\n\r\n"
+published: true
 
 ---

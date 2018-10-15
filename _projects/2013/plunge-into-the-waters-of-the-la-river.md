@@ -342,5 +342,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>The individuals associated with the project have two avenues of connection and work together:</p>\r\n\r\n<p>1.  Community activism in Elysian Valley.  In this respect the core resident participants have worked together on several environmental issues.  These include organize a large public response to environmental justice issues with air quality,  doing work to identify and cause watershed violators to be permitted and improve their practices in the local area.</p>\r\n\r\n<p>2.  Professional work on design concepts for appropriate landscape and built environments in the LA River region.  The architects and artists on various conceptual plans for LA River centric projects.</p>\r\n\r\n<p>This project would synthesize relationships developed over several years between the members of the team by giving focus to an on-the ground experimental project.</p>"
+published: true
 
 ---

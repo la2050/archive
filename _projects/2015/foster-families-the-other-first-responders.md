@@ -545,5 +545,6 @@ maker_answers_list:
     answer: "Once this website is designed it will serve the entire county.  Scaling up this proposal could occur in several different mechanisms in future years including:\r\n\r\nIncrease languages to make website accessible to a wider audience (e.g., Arabic, Asian languages,etc)\r\n\r\nExtent our reach and draw in more partners for dissemination and recruitment – interfaith groups, etc\r\n\r\nModify and enhance website from having one entity (UCLA) being primarily responsible for updates to a distributed model where approved partners can update training and community event information etc\r\n\r\nCreate an accessible smartphone app\r\n\r\n\r\n"
 body_class: blueberry
 organization_name: UCLA Luskin School of Public Affairs
+published: true
 
 ---

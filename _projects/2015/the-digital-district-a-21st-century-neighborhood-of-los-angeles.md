@@ -537,5 +537,6 @@ maker_answers_list:
     answer: "The success of Impact Hub Los Angeles' Digital District is based, first and foremost on the number of users that participate in the full process of the Digital District: to message the millennial community of the Arts District on local issues relevant to them, providing a physical space for town hall like meetings, and a path towards leading their own community based initiative. Based on use and responsiveness of the digital district, it will expand and into neighboring communities such as Boyle Heights and Little Tokyo,  expanding exposure of local and community organizations. As more of the area becomes connected to this civic network, greater exposure of community based events and local initiatives will become available to a greater portion of angelenos as well as potentially laying a foundation for public wifi programs across the county.\r\n\r\n"
 body_class: lime
 organization_name: 'Impact Hub Los Angeles '
+published: true
 
 ---

@@ -644,5 +644,6 @@ maker_answers_list:
     answer: "The CLF plans to scale this Camp4All Program, both by leveraging our social media through this LA2050 grant, as well as use these new funds as an opportunity to serve 500 more ADDITIONAL homeless participants. It would also be amazing to replicate it in Ventura County as well, eventually, and to also add more camps during the Spring season.\r\n"
 body_class: blueberry
 organization_name: The Children's Lifesaving Foundation
+published: true
 
 ---

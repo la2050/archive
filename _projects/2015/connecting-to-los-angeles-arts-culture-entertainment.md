@@ -702,5 +702,6 @@ maker_answers_list:
       sign up, on a for-fee-basis, for the 2nd and successive years of service.
 body_class: strawberry
 organization_name: San Fernando Valley Arts & Cultural Center and The Valley Economic Alliance
+published: true
 
 ---

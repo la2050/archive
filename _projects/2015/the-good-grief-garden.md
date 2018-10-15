@@ -648,5 +648,6 @@ maker_answers_list:
     answer: "The garden will serve as a demonstration site, with accompanying tools and materials to help those interested in creating their own “grief gardens,” and to highlight the relationship between food rituals and healing. Through a combination of articles, videos, and earned media, we wish to fuel a broader conversation about the impact of trauma, loss, and collective and historical grief on our schools, workplaces, and neighborhoods, and to create a cultural intervention that prioritizes moving forward rather than moving on. \r\n\r\nOur goal is to fertilize a broader movement aimed at shifting the dialogue from “getting back to normal” to how we, both individually and collectively, can use loss as a springboard to living better, more resilient, more open-hearted lives."
 body_class: strawberry
 organization_name: 'The Dinner Party, The Kitchen Widow, Hope After Project, First Seating '
+published: true
 
 ---

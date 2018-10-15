@@ -455,5 +455,6 @@ project_summary: >-
   many uninhabited spaces has brought new small businesses and even a major
   market chain. Tia Chucha's has proven that the arts stimulates economic
   activity while helping reduce violence, apathy, and low school participation. 
+published: true
 
 ---

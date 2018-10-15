@@ -240,5 +240,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Teach surfing camps – surfing competitions\r\nOrganize Beach Clean ups\r\nBe recognized by the community and other non profits as a local pro environmental organization\r\nSpearhead educational programs outside the classroom. \r\nBring awareness to nature and environmental issues.\r\nhttp://animoto.com/play/KZhZKkfCa5tELLD6kKA90Q"
+published: true
 
 ---

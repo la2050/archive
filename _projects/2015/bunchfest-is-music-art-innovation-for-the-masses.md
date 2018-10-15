@@ -616,5 +616,6 @@ maker_answers_list:
     answer: "We plan to scale by utilizing the following strategy:\r\n\r\n-Make BUNCHFEST an annual event\r\n\r\n-Host smaller workshops, panels, and meetups around Los Angeles throughout the rest of the year. Each event will serve the purpose of fostering creativity, building a community, and providing the tools and resources people need to develop as creative professionals\r\n\r\nThe data collected during the first event will be used to program all future events.\r\n\r\n"
 body_class: blueberry
 organization_name: BUNCH Media
+published: true
 
 ---

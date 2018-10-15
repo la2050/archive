@@ -547,5 +547,6 @@ maker_answers_list:
       individuals to move to permanent housing and home ownership.
 body_class: lime
 organization_name: Social & Environmental Entrepreneurs
+published: true
 
 ---

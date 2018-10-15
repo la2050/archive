@@ -747,5 +747,6 @@ maker_answers_list:
     answer: "SBSM has tried to make scalable program that can be implemented at almost any middle or high school by making the program consistent yet flexible.  Class sizes, student abilities, student behaviors, and the amount of space that a school is able to allot for a fitness center varies enormously from school to school.  Giving each school the ability to tailor their fitness center to the school’s needs gives a larger sense of ownership for the school, as well as a more effective use of the fitness equipment and program.  This is one of the reasons why SBSM has grown to impact over 92,000 students per year with our 95 fitness centers in LAUSD. With the help of the L.A. 2050 grant, SBSM will be able to expand our reach in LAUSD even further.\r\n"
 body_class: strawberry
 organization_name: The Sound Body Sound Mind Foundation
+published: true
 
 ---

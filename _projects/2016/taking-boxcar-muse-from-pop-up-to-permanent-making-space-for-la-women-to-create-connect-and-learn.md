@@ -139,5 +139,6 @@ project_proposal_impact:
     in LA County 5 years after graduating
 category: create
 body_class: banana
+published: true
 
 ---

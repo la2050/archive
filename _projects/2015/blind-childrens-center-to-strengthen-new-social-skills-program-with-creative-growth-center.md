@@ -565,5 +565,6 @@ maker_answers_list:
     answer: "At the end of the 3-year project, we will compile our findings in a user-friendly, interactive “Social Skills Curriculum Kit” which will be made available to parents, educators, early intervention programs and other schools. The potential construction and success of our Creative Growth Center will be another strategy to build social skills in our population. These results, too, should be able to be replicated and scaled by like-minded organizations should they choose to follow our lead.\r\n\r\nWe anticipate the hard work we put into this undertaking will yield an out-of-the-box curriculum that can be used as a model to tackle a very real issue facing young people who are visually impaired. With the appropriate social skills to go along with strong educational skills, our students and others like them will be equipped to make friends, live independently, and fulfill their highest potential.\r\n"
 body_class: strawberry
 organization_name: Blind Children's Center
+published: true
 
 ---

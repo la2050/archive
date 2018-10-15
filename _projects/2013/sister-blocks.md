@@ -227,5 +227,6 @@ project_summary: >-
   I'm stepping out more publicly now producing a TEDx event
   (www.TEDxWestHollywood.com), where the intention is to deliver a body of talks
   that could activate people who want to change the world.
+published: true
 
 ---

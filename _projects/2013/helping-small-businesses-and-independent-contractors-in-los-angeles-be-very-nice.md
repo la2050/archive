@@ -308,5 +308,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "verynice started in my apartment at UCLA when I was 19 years old. To date, I have grown the organization to be home to over 170 people around the globe. We have successfully completed projects for over 200 non-profit organizations. Our work has been done in, with, and for 40 countries spanning 6 continents. If you have a project that we can collaborate with you on in Antarctica, please let me know.\r\n\r\nAll of our work equates to roughly 50,000 hours of volunteer service. This is the equivalent of working for 5.7 years straight without any break, and we do all of this without any automated process or crowd-sourced gimmick. Just a group of friends from around the world working hard.\r\n\r\nThe verynice business model has been featured and published multiple times on renowned publications including Forbes, GOOD Magazine, The Huffington Post, and The Guardian. In total, our work has been featured on over 100 print and online venues.\r\n\r\nOver the past 3 years, I have personally delivered over 50 talks / panel discussions / workshops at venues across the United States including TEDx, UCLA, Art Center, and the Art Directors Club."
+published: true
 
 ---

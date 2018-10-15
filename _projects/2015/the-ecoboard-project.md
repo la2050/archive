@@ -757,5 +757,6 @@ maker_answers_list:
       nature by its original design and resources.  
 body_class: strawberry
 organization_name: Sustainablesurf.org
+published: true
 
 ---

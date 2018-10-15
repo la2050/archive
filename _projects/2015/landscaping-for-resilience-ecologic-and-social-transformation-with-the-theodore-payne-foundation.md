@@ -644,5 +644,6 @@ maker_answers_list:
     answer: "One of the real beauties of Landscaping for Resilience is that it can become self-replicating. For example, Green Space Los Feliz was one of TPF's partners in creating a native plant landscape at the Los Feliz post office. Once that group gained skills in horticulture and working together, they went on to work with a local fire station to develop and maintain a garden at their site. \r\n\r\nThe goals of the program are to raise awareness among Angelinos of the control they have over their environment, what options they have for exerting that control, how to organize for change, and how to develop sustainable and retainable skills  "
 body_class: strawberry
 organization_name: 'Theodore Payne Foundation for Wild Flowers and Native Plants, Inc.'
+published: true
 
 ---

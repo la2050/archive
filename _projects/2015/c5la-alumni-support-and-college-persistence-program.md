@@ -628,5 +628,6 @@ maker_answers_list:
     answer: "C5LA is actively seeking funding so that we can expand our current programming to offer greater support to our alumni through college. The amount of funding received will directly impact the level and depth of services we are able to provide our students. We hope to continue to broaden the services and outreach activities for C5LA alumni to be able to identify and address all barriers to successful completion of their college degree. \r\nWith the support of LA2050 we will:\r\n•\tRoll out the program at the top of 2015.  \r\n•\tWe will pilot the boot camp in the summer of 2016.\r\n•\tWe hope to connect with and engage 40% of our alumni in Year One and increase that to 75% in Year Two and 100% in Year Three.\r\n•\tWe will host two alumni events in Year One and four events in Years Two and Three.\r\n•\tMigrate data and launch new software in the third and fourth quarters of Year One. \r\n"
 body_class: strawberry
 organization_name: C5 Youth Foundation of Southern California (“C5LA”)
+published: true
 
 ---

@@ -89,5 +89,6 @@ project_proposal_impact:
   - Per capita crime rates
 category: play
 body_class: strawberry
+published: true
 
 ---

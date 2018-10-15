@@ -98,5 +98,6 @@ project_proposal_impact:
   - Rates of volunteerism
 category: connect
 body_class: tangerine
+published: true
 
 ---

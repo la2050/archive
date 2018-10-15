@@ -624,5 +624,6 @@ maker_answers_list:
       by thinking OutsideTheBox.
 body_class: strawberry
 organization_name: RRM Design Group and Los Angeles Neighborhood Initiative
+published: true
 
 ---

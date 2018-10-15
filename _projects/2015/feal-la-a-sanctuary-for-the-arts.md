@@ -567,5 +567,6 @@ maker_answers_list:
     answer: "Once we have nailed down our program, and built a comprehensive plan on what it truly is a musician needs in this city to thrive (PHASE TWO), we will begin PHASE THREE. \r\n\r\nPHASE THREE is the acquisition of a 30,000 -40,000 sqft space, to create our one-stop-shop. A building that houses everything an artist needs to grow. \r\n\r\nA venue\r\nRecording studios\r\nRehearsal spaces\r\nAccommodation\r\nOffice space\r\n\r\nAs well as build out our membership program with the public. Providing a low monthly rate for the community to interact and engage with the artists we are working with. \r\n"
 body_class: blueberry
 organization_name: 'FEAL.LA '
+published: true
 
 ---

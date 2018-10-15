@@ -79,5 +79,6 @@ project_proposal_impact:
   - Public/open streets gatherings
 category: connect
 body_class: tangerine
+published: true
 
 ---

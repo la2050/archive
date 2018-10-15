@@ -564,5 +564,6 @@ maker_answers_list:
     answer: "The success and scaling of RCLA depends on prosecuting agencies understanding the need for a diversion that involves community members in dealing with low-level property crimes and/or first-time offenders who have been disconnected from their communities. \r\n\r\nThe ultimate goal of the RCLA campaign would be to have every municipality that prosecutes its own misdemeanors in Los Angeles County to have some sort of RCLA program running, thereby maximizing the number of would-be defendants diverted from the criminal justice system . The inclusive, community-oriented model that RCLA is based on is naturally scaleable as long as there is funding for RCLA case managers. This is the one of the strengths of RCLA program design in response to a dire need: The criminal justice system simply has too many cases in order to be effective. Therefore, the only challenge that exists with regard to scaling is the willingness of prosecutors to try something new.\r\n"
 body_class: lime
 organization_name: Justice Lab
+published: true
 
 ---

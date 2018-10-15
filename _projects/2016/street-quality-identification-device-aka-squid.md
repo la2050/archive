@@ -152,5 +152,6 @@ project_proposal_impact:
   - Public transit riders
 category: connect
 body_class: tangerine
+published: true
 
 ---

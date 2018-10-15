@@ -523,5 +523,6 @@ body_class: strawberry
 organization_name: >-
   Urban & Environmental Institute, Occidental College and East Yards Communities
   for Environmental Justice
+published: true
 
 ---

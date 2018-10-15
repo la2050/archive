@@ -604,5 +604,6 @@ maker_answers_list:
     answer: "We use Dropbox to give each YBA teacher access to our curriculum and as a hub to share information. Our custom website gives our teachers their own account to manage their weekly YBA schedule online for the entire school year. Our guest speakers also have their own account to upload their presentation and manage their speaking calendar. Everything is automated through the website, as well as email reminders to everyone involved in YBA whenever something needs to be done or there is an upcoming event.\r\n\r\nWe are also currently working on standardized marketing material (flyers, videos, etc.) to help our teachers recruit students for the YBA Program. We are also working on releasing a best practices guide for all our teachers and guest speakers to ensure that there are systems in place and standards maintained. Next summer we plan on hosting a workshop for all YBA teachers to share ideas and what works. The internship program we are designing has huge potential to be a consistent funding source for YBA."
 body_class: blueberry
 organization_name: Youth Business Alliance
+published: true
 
 ---

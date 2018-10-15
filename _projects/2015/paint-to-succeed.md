@@ -612,5 +612,6 @@ maker_answers_list:
       create more public art projects.
 body_class: blueberry
 organization_name: 'Siqueiros Foundation of the Arts '
+published: true
 
 ---

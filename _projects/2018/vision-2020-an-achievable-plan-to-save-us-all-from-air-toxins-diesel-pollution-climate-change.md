@@ -30,5 +30,6 @@ project_video: 'https://youtu.be/4JnqpY0nP4s'
 project_id_3: '8102084'
 year_submitted: 2018
 body_class: lime
+published: true
 
 ---

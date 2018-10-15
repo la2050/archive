@@ -121,5 +121,6 @@ project_proposal_impact:
     percentage of jobs that are located within a half-mile of transit)
 category: connect
 body_class: tangerine
+published: true
 
 ---

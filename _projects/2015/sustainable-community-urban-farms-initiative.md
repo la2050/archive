@@ -671,5 +671,6 @@ body_class: blueberry
 organization_name: >-
   Green Institute for Village Empowerment (GIVE) program at Tom Bradley Legacy
   Foundation at UCLA, L.A. Urban Farms, Union Rescue Mission, Union Church L.A.
+published: true
 
 ---

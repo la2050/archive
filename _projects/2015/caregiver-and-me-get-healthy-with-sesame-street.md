@@ -715,5 +715,6 @@ organization_name: >-
   T&L Foundation for Child Care Information, Child Care Alliance of Los Angeles,
   Magnolia Place Family Center (Children's Bureau), Los Angeles County
   Department of Public Health
+published: true
 
 ---

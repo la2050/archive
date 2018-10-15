@@ -262,5 +262,6 @@ project_summary: >-
   tutoring our younger members. Two of our teens also had the opportunity to go
   to the Keystone Conference for their demonstrated leadership and community
   service.
+published: true
 
 ---

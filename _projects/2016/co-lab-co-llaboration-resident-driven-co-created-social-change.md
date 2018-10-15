@@ -174,5 +174,6 @@ project_proposal_impact:
   - Voting rates
 category: connect
 body_class: tangerine
+published: true
 
 ---

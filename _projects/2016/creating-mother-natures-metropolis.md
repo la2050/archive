@@ -128,5 +128,6 @@ project_proposal_impact:
   - Tree canopy cover
 category: live
 body_class: lime
+published: true
 
 ---

@@ -743,5 +743,6 @@ maker_answers_list:
       of students to service in one session.  
 body_class: blueberry
 organization_name: The Ripple Effect
+published: true
 
 ---

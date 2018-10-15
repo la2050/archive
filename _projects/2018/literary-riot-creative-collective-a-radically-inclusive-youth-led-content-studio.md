@@ -139,5 +139,6 @@ category_other:
   - LA is the best place to CONNECT
 challenge_url: 'https://activation.la2050.org/create/get-lit-words-ignite/'
 body_class: banana
+published: true
 
 ---

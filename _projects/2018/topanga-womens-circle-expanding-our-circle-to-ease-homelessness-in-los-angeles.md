@@ -145,5 +145,6 @@ category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/topanga-womens-circle/'
 body_class: lime
+published: true
 
 ---

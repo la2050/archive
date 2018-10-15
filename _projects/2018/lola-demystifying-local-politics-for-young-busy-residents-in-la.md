@@ -98,5 +98,6 @@ category_other:
   - LA is the best place to CREATE
 challenge_url: 'https://activation.la2050.org/connect/lola-parent-company-amir-erica-inc/'
 body_class: tangerine
+published: true
 
 ---

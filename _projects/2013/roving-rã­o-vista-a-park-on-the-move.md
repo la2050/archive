@@ -37,5 +37,6 @@ year_submitted: 2013
 maker_answers: {}
 maker_answers_list: []
 body_class: strawberry
+published: true
 
 ---

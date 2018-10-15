@@ -576,5 +576,6 @@ maker_answers_list:
     answer: "MAPS anticipates expanding its services by continually collaborating with job recruitment agencies, chambers of commerce, businesses, corporations, and colleges.  We plan to expand our training services at prospective agency sites and ensure students have the essential skills to successfully navigate the workforce. \r\n"
 body_class: blueberry
 organization_name: MAPS 4 College
+published: true
 
 ---

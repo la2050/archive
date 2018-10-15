@@ -313,5 +313,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "The First Southern Baptist Church of Sylmar (FSBCS), who is the sponsoring partner of this initiative, began a food pantry immediately after the Northridge earthquake in ’94, as a distributor for FEMA. Since the need to assist the hungry didn’t end once the infrastructure was repaired, neither did the FSBCS. The church is quite small; in fact, it averages less than 50 people a week for its Sunday service – yet it provides food to an average of 5,000 people per month. It manages to do this week after week, month after month, year after year – with a workforce comprised entirely of volunteers. There are no administrative costs or overhead. \r\n\r\nThis has been done by effectively collaborating with a host of other community organizations from withing the public and private sectors. As continued recipients of Federal resources, the boundaries between Church and State are clearly understood and respected. "
+published: true
 
 ---

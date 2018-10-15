@@ -521,5 +521,6 @@ maker_answers_list:
     answer: "Our goal is to develop an innovative 6-12 model that starts-up students ready for real-world impact, now. Once we reach scale, approximately 600 students in 7 grades, the core elements of the model will be sustainable based solely on per pupil spending provided by Los Angeles Unified School District. This would make us financially sustainable and establish us as a model for innovative and cost-effective high school design.\r\n\r\nLeadership is being developed and promoted from within with an aim to ensuring teacher leaders understand and can sustain the culture and core methods of teaching and learning either at The Incubator School, or at new schools that wish to access our playbook and future publications identifying effective practices. A pipeline for innovative educators and an internal teacher development system are both envisioned for long term access to innovative educators. We will continue to invite partners and interested guests to observe the model in action and, once the model is fully operating and we have evidence of success, begin to explore the development of professional development opportunities similar to what Da Vinci and Big Picture Schools developed for educators and school leaders."
 body_class: strawberry
 organization_name: The Incubator School
+published: true
 
 ---

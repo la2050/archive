@@ -617,5 +617,6 @@ maker_answers_list:
       have never had a system to track and source new applicants.
 body_class: blueberry
 organization_name: JobCouch
+published: true
 
 ---

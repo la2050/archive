@@ -642,5 +642,6 @@ maker_answers_list:
       opening.
 body_class: strawberry
 organization_name: SoLA Food Co-op
+published: true
 
 ---

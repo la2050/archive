@@ -670,5 +670,6 @@ project_summary: >-
   above the national average in English language arts. Finally, 96 percent of
   KIPP LA alumni are attending high-performing, college-prep high schools, and
   nearly 85 percent are currently enrolled in college.
+published: true
 
 ---

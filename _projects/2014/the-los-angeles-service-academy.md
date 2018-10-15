@@ -184,5 +184,6 @@ maker_answers_list:
     explanation: Does your project impact Los Angeles County?
     answer: 'yes'
 body_class: blueberry
+published: true
 
 ---

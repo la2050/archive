@@ -621,5 +621,6 @@ maker_answers_list:
       demonstrations to enhance the curriculum. 
 body_class: blueberry
 organization_name: Girls Academic Leadership Academy
+published: true
 
 ---

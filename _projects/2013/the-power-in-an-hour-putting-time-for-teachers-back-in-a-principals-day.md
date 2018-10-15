@@ -453,5 +453,6 @@ project_summary: >-
   education by connecting our Alumni to high-impact careers in education and
   supporting them to succeed. More than 70 percent of our employed Alumni work
   full-time in education.
+published: true
 
 ---

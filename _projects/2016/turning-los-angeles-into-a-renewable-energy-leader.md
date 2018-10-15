@@ -97,5 +97,6 @@ project_proposal_impact:
   - Resilient communities
 category: live
 body_class: lime
+published: true
 
 ---

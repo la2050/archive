@@ -591,5 +591,6 @@ maker_answers_list:
     answer: "Success will be scaled one beaver family at a time. Each family creates its own micro-oasis. Careful planning for where we place our first beaver colony is important, but as we familiarize ourselves with their engineering abilities, their territory could be allowed to expand exponentially. As The Southland grows more comfortable with the idea of a symbiotic relationship with beaver, the positive ripple effects will be greater and greater.\r\n"
 body_class: strawberry
 organization_name: Individual submitter
+published: true
 
 ---

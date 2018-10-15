@@ -665,5 +665,6 @@ maker_answers_list:
     answer: "After implementing the pilot program, we will make adjustments based on the program evaluation. Once this is completed, we will be offering the program to the entire US population that are diagnosed with Type 2 diabetes and expanding the scope to HIV/AID antiretroviral therapy (ART) compliance and cardiovascular disease management.  If after a one year evaluation period is completed, and it is determined that the expanded mobile services are effective, we can expand this globally to anyone and offer the program in different languages.\r\n\r\nWe can offer the program to insurance companies that are looking to add diabetes prevention efforts to their wellness program as well. "
 body_class: lime
 organization_name: Polar Tech Ed and Consulting LLC/Patrick Leon
+published: true
 
 ---

@@ -600,5 +600,6 @@ maker_answers_list:
     answer: "With the purchase of our new equipment our lab will have the opportunity to continuously grow.  Our classes will use the new equipment and generate income which can be reinvested into the lab to maintain this equipment and expand the lab further.\r\n\r\nInstead of asking for money to cover operational expenses we choose to invest in capital equipment that will add value to our organization for many years.  We believe this to be the most sustainable and responsible way to use the gifts of our benefactors.\r\n"
 body_class: blueberry
 organization_name: 'TheLab, Inc'
+published: true
 
 ---

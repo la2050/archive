@@ -517,5 +517,6 @@ maker_answers_list:
     answer: "By tapping into the existing network of volunteer events, restaurants and activities around Los Angeles, scaling up will require strong partnerships.  We would partner with large corporations for large scale promotion, awareness, and sponsorships for employees or events.  We would also partner with volunteer organizations and non-profits to build strong relationships for future, continued and potentially regular volunteerism or events.  We would need to create a marketing plan to utilize social media, other digital and viral modes of promotion, establish city wide awareness and any other Public Relations need.  Additionally, if scaling up, we would need an operational team or administrative staff to plan and execute the events.  With continued growth we would build a platform to track the events, a bucket list app that includes social sharing as we continue to trek through the digital and social media world.  It would be incredible to then see a project like this grow into other cities.  \r\n"
 body_class: blueberry
 organization_name: Independent Team of LA Residents
+published: true
 
 ---

@@ -130,5 +130,6 @@ project_proposal_impact:
   - District-wide graduation rates
 category: learn
 body_class: blueberry
+published: true
 
 ---

@@ -355,5 +355,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "•\tFirst commercial aquaponics farm in LA County\r\n•\tFirst aquaponic system at LAUSD ( http://vimeo.com/41029703)\r\n•\tFirst hyper-local, living produce, better-than-organic sold at SoCal Farmers market (LA Times- http://goo.gl/s3twp)\r\n•\tCreated the Art & Science of Aquaponics course- the first backyard/ DIY aquaponics class in SoCal (LA Times- http://goo.gl/mGmPQ)\r\n•\tConsultant on some of the largest aquaponics projects in CA (http://goo.gl/LE1Bu)\r\n•\tDesigner of the smallest, yet highest yielding per square foot, Aquaponics system… just about anywhere. (Dream Garden http://goo.gl/JG1Sv)\r\n•\tFree farm tours to 1000’s of visitors\r\n•\tCo-orchestrated the debut of aquaponics at the CA State Fair, reaching 500,000 visitors (Sacramento Bee http://goo.gl/0HuYp )\r\n•\tPresented AP @ the Seedstock Sustainable Agriculture Innovation Conference at UCLA Anderson School of Management (Seedstock)\r\n•\tCompletely open-source, share all our secrets and spread the gospel of AP to all\r\n•\tRe-introducing taste to living food (Edible Westside http://goo.gl/KydmV)\r\n"
+published: true
 
 ---

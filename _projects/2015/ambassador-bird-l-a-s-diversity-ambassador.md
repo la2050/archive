@@ -638,5 +638,6 @@ maker_answers_list:
       project will be self-funding.
 body_class: strawberry
 organization_name: Bill Weber Studios
+published: true
 
 ---

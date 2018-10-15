@@ -649,5 +649,6 @@ maker_answers_list:
       housing, employment and socialization for our special needs community.
 body_class: strawberry
 organization_name: Golden Heart Ranch
+published: true
 
 ---

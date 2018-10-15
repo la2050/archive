@@ -620,5 +620,6 @@ maker_answers_list:
     answer: "The success of our proposal will be determined by the occupancy and retention rate of our students. \r\n\r\nOur maximum capacity will be 30 students, and we will strive to achieve an average of 75% capacity (22 students per day) throughout the year. \r\n\r\nWe will also have additional target goals like number of students to apply to higher learning and success measures such as indivicusl improved GPA. "
 body_class: strawberry
 organization_name: Casa Libre
+published: true
 
 ---

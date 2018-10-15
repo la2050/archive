@@ -619,5 +619,6 @@ maker_answers_list:
     answer: "The Los Angeles Well-Being Project will  be designed to be able to scale to other cities across the U.S. via its technology infrastructure.   HappyCity also has volunteer hosts in other cities and has a goal to expand to 10 cities by March 2016, all which would adopt the methodology that will be developed through this project.\r\n\r\n"
 body_class: strawberry
 organization_name: HappyCity Los Angeles
+published: true
 
 ---

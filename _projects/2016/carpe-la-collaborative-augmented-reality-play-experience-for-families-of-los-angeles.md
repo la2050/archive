@@ -144,5 +144,6 @@ project_proposal_impact:
   - Number of parks with intergenerational play opportunities
 category: play
 body_class: strawberry
+published: true
 
 ---

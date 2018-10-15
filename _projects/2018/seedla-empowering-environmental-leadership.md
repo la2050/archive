@@ -126,5 +126,6 @@ category_other:
   - LA is the best place to CREATE
 challenge_url: 'https://activation.la2050.org/live/seedla/'
 body_class: lime
+published: true
 
 ---

@@ -569,5 +569,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Droplabs succesfully provided a community-based education center to the community with all services being at no or low cost. Our prime acheievements have been:\r\n\r\n\r\n* Barn-raisings: We have hosted barn-raisings where 15 − 20 community members get together to provide a day of web development for a non-profit or community member. See http://droplabs.net/news/barn-raising-and-code-sprint-at-droplabs-uniting-the-drupal-and-time-banking-communities\r\n\r\n* Low-cost co-working space: We offer fulltime access to our space at $150 / month, a quarter of the price of competing spaces. This is one contribution to creating a diverse socioeconomic tech community.\r\n\r\n* Consensus-based organizing: We operate by allowing all full members to have a voice in the direction and organization of Droplabs.\r\n\r\n* Community-access education: All our classes are low or no cost and have ranged from a focus on web and technology to classes about cooking and Korean culture."
+published: true
 
 ---

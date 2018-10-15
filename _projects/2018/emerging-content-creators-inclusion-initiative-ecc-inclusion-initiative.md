@@ -247,5 +247,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/create/national-association-of-latino-independent-producers-nalip/
 body_class: banana
+published: true
 
 ---

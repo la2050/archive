@@ -116,5 +116,6 @@ category_other:
   - LA is the best place to PLAY
 challenge_url: 'https://activation.la2050.org/learn/harlem-lacrosse-los-angeles/'
 body_class: blueberry
+published: true
 
 ---

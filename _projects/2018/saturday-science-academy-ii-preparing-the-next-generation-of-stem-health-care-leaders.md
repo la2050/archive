@@ -171,5 +171,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/learn/charles-r-drew-university-of-medicine-and-science/
 body_class: blueberry
+published: true
 
 ---

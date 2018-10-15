@@ -545,5 +545,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>FLARB LLC is one of the earliest developers and publishers of mobile games and content in the West.  In addition to consulting on mobile and social games FLARB recently created Camera Birds (www.camerabirds.com), a unique 3D birdwatching simulator for iOS and Android that uses Augmented Reality technology to bring its virtual birds into the real world.\r\n</p>\r\n<p>\r\nFLARB LLC's mobile games often do not fit the mold of traditional entertainment.   One of FLARB's more popular experiments in pushing boundaries is Brick Buddies (www.flarb.com/bb), a hilarious satire of social games that has been favorably reviewed by such media outlets as The Guardian.  Creating apps as a platform for social activism is a natural next step.\r\n</p>\r\n<p>\r\nFLARB LLC has the expertise in the design and development of mobile apps as well as the Augmented Reality technology necessary to build this application.\r\n</p>"
+published: true
 
 ---

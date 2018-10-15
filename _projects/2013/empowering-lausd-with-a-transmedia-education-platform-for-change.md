@@ -311,5 +311,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "While Filmanthropos is a fairly new social enterprise that was founded in Q4 2012, we are proud to have connected with several social enterprises to create powerful stories that engage their audiences to elicit change. On top of this, we have provided USD 10,000.00 in pro-bono services to non-profits to date - a number that is rapidly and continuously growing, as we are now institutionalizing our pro-bono service offerings. \r\n"
+published: true
 
 ---

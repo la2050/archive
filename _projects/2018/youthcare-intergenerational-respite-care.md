@@ -115,5 +115,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/live/undergraduate-gerontology-and-alzheimers-disease-awareness-association-dba-the-youth-movement-against-alzheimers/
 body_class: lime
+published: true
 
 ---

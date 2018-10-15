@@ -393,5 +393,6 @@ project_summary: >-
   Valley and South Bay. We have brought in nationally renowned speakers and held
   large public forums to educate citizens about how mindfulness can improve
   their lives.
+published: true
 
 ---

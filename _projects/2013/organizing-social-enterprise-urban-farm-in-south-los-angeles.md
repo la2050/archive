@@ -475,5 +475,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "While yet to begin operations, we have engaged and raised the passion of many of our stakeholders such as local government offices, community organizations, property owners and individuals through presentations that demonstrate ImPact Farm’s alignment with quality of life objectives ranging from jobs, health and environment to growing Local Economies. ImPact Farms is currently organized as a Delaware corporation and plans to become a California Benefit/Flexible Purpose corporation with the award.\r\n\r\nIn addition, we have identified and are in discussion with 3 sites in South Los Angeles where we are considering for development."
+published: true
 
 ---

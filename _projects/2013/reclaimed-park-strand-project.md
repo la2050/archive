@@ -331,5 +331,6 @@ project_summary: >-
   Street Architecture. Eric currently works at HNTB and is part of the new 6th
   Street Viaduct project team, working with city officials and community leaders
   on creating successful urban public spaces for the Los Angeles community.
+published: true
 
 ---

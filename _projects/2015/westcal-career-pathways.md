@@ -760,5 +760,6 @@ maker_answers_list:
       scalability.
 body_class: strawberry
 organization_name: WestCal Academy
+published: true
 
 ---

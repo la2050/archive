@@ -553,5 +553,6 @@ body_class: blueberry
 organization_name: >-
   Strategic Concepts in Organizing and Policy Education (SCOPE) & US Green
   Building Council Los Angeles Chapter (USGBC-LA)
+published: true
 
 ---

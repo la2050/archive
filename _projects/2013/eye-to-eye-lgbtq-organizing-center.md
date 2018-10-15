@@ -265,5 +265,6 @@ project_summary: >-
   organization dedicated to political empowerment of API LGBT people.  Along
   with our allies, we provide an important foundation for further organizing in
   LGBT communities of color.
+published: true
 
 ---

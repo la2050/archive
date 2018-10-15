@@ -665,5 +665,6 @@ maker_answers_list:
       to proceed in future election cycles.  
 body_class: blueberry
 organization_name: Downtown Los Angeles Art Walk
+published: true
 
 ---

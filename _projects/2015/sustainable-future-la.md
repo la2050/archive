@@ -599,5 +599,6 @@ maker_answers_list:
     answer: "The proposal includes piloting at two levels, both of which will inform decisions about scaling in the future:\r\n\r\nThe initial pilot curriculum will provide a broad introduction to sustainability.  We will assess the effectiveness of this, and the desirability of developing subsequent curricula to provide deeper dives into specific sustainability topics (e.g., transportation, climate change, healthy food).\r\n\r\nThe proposal includes piloting at a small number of schools initially (we currently envision piloting the program at three schools).  The ultimate goal is to scale delivery of the curriculum to additional schools throughout Los Angeles County to maximize its potential impact and help make all communities a better place to live.\r\n"
 body_class: strawberry
 organization_name: 'Los Angeles World''s Fair, FPC'
+published: true
 
 ---

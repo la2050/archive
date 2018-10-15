@@ -600,5 +600,6 @@ maker_answers_list:
       it will grow on its own merit.
 body_class: strawberry
 organization_name: Heart and Soul Design Communications Center
+published: true
 
 ---

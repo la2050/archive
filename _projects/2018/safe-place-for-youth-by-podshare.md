@@ -188,5 +188,6 @@ category_other:
   - LA is the best place to LEARN
 challenge_url: 'https://activation.la2050.org/live/podshare/'
 body_class: lime
+published: true
 
 ---

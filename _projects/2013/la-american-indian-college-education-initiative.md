@@ -240,5 +240,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>In 2012, Walking Shield provided more than $200,000 in college scholarships to 86 students attending colleges and universities mainly in California. The goal for 2013 is to award more than $300,000. This year, an amount of at least $55,000 has been specifically designated for American Indian students living in Los Angeles. This amount can increase based on the number of students in Los Angeles eligible for our scholarships.</p>\r\n\r\n<p>Besides helping students earn their bachelor’s degrees, graduate students working on their master’s and doctorate degrees also receive support. </p>\r\n\r\n<p>An emergency fund has been provided by the San Manuel Band of Mission Indians to assist these students in covering the costs of tuition rate increases, parking fees, books and tutoring. The goal is to elevate the heavy financial burden of higher education in order to allow students to fulfill their dreams of receiving a college degree. These services are making a difference in improving college graduation rates among the American Indian community in California and around the country. </p>\r\n"
+published: true
 
 ---

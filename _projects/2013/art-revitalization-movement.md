@@ -336,5 +336,6 @@ project_summary: >-
   forward by a core group of public artists who collaborate with local
   non-profits, but who can also lead a self-funded project with the community.
   The Pacoima Art Movement has restored pride in the community. 
+published: true
 
 ---

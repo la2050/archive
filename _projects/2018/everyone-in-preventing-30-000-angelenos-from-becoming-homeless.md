@@ -190,5 +190,6 @@ category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/united-way-of-greater-los-angeles/'
 body_class: lime
+published: true
 
 ---

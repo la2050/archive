@@ -410,5 +410,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<ol><li>Launched a successful campaign with trafficked migrant workers that helped them obtain T-visas and create a tactical coalition composed of community organizations, churches and lawyers.\r\n</li><li>Co-sponsored the “living wage campaign” in Long Beach, mobilizing community members collecting thousands of signatures and campaigning for a bill that was passed in the popular vote.\r\n</li><li>Engaged in the campaign to pass a Domestic Workers Bill of Rights through legislative visits, actions in Sacramento and actions in Los Angeles. \r\n</li><li>Held large community forums on comprehensive immigration  reform and DACA (Deferred Action) for dreamers.\r\n</li><li>Conducts well attended immigration forums and health clinics in Long Beach for low-income families, migrant workers and youth.\r\n</li><li>Organized and mobilized community youth for a series of Hip-Hop workshops in Carson and Long Beach.\r\n</li></ol>"
+published: true
 
 ---

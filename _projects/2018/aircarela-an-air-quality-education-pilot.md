@@ -113,5 +113,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/live/city-of-los-angeles-bureau-of-street-lighting/
 body_class: lime
+published: true
 
 ---

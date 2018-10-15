@@ -648,5 +648,6 @@ maker_answers_list:
       to create. This time, through 3D printing!
 body_class: blueberry
 organization_name: EEZITEC
+published: true
 
 ---

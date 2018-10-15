@@ -650,5 +650,6 @@ maker_answers_list:
     answer: "Plug In South LA anticipates growing the number of attendees and program participants by 20-30% in our second year by increasing our partnerships with surrounding educational institutions as well as expanding our professional network and sphere of influence by inviting successful executives, venture capitalists and angel investors to speak at events. In addition, we plan to diversify our programing beyond tech and digital media to include areas such as financial literacy within an entrepreneurial context. Scaling up successfully for us also means offering workshops and events in more South LA neighborhoods such as Inglewood, Compton, Huntington Park, and South Gate. \r\n\r\nPlug In South LA will catalyze the growth of its member companies and startups with its mentorship program and connections to venture capital. As Plug In South LA members become successful and hire more employees they will move out to larger dedicated office spaces in the surrounding community increasing economic activity. After proving to be a successful business model for generating and growing businesses Plug In will seek to open more co-working locations branching out to the South and East. \r\n"
 body_class: blueberry
 organization_name: Plug In South LA
+published: true
 
 ---

@@ -117,5 +117,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/learn/big-brothers-big-sisters-of-greater-los-angeles/
 body_class: blueberry
+published: true
 
 ---

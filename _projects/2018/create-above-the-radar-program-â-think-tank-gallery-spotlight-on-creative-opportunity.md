@@ -27,5 +27,6 @@ project_video: 'https://youtu.be/msrLyYttTv8'
 project_id_3: '8102125'
 year_submitted: 2018
 body_class: banana
+published: true
 
 ---

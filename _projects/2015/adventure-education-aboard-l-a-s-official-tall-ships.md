@@ -614,5 +614,6 @@ maker_answers_list:
       program by more than 30%.
 body_class: strawberry
 organization_name: Los Angeles Maritime Institute
+published: true
 
 ---

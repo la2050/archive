@@ -521,5 +521,6 @@ maker_answers_list:
     answer: "We will scale the success of our proposal by the defining objectives, the collection of data and the evaluation of the data collected.\r\n\r\nAnalyzing our goals and objectives will help ensure that when setting up our reports the right questions are being asked.  The mission of the program will be clearly defined and for each program we will know how to measure its success.\r\n\r\nOutcome management systems will be evaluated regularly to ensure they are meeting the needs of the organization and the funder."
 body_class: blueberry
 organization_name: Operations-South Bureau Community Stakeholder Collaboration
+published: true
 
 ---

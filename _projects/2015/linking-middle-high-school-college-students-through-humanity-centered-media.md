@@ -533,5 +533,6 @@ maker_answers_list:
       will support moving the program to scale. 
 body_class: blueberry
 organization_name: Media Done Responsibly c/o Pasadena Arts Council
+published: true
 
 ---

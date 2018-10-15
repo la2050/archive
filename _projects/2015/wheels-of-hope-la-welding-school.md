@@ -578,5 +578,6 @@ maker_answers_list:
       California. 
 body_class: blueberry
 organization_name: 'Wheels of Hope LA, Fred Jordan Mission'
+published: true
 
 ---

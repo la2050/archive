@@ -759,5 +759,6 @@ maker_answers_list:
       funding and parntership. 
 body_class: blueberry
 organization_name: Los Angeles Trade-Technical College
+published: true
 
 ---

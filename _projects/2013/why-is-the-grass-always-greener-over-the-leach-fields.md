@@ -342,5 +342,6 @@ project_summary: >-
   has the history and the rigor for delving into projects with complex
   interactions and intersections of natural and human systems.  The school has a
   host of 606 projects on their website for more information.
+published: true
 
 ---

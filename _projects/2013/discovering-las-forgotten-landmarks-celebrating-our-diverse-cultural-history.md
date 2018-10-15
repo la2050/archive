@@ -269,5 +269,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "The City Project is a nonprofit organization committed to achieving equal justice, democracy, and livability in Los Angeles. Since our founding in 2000, we have influenced the investment of over $41 billion in underserved communities.\r\n\r\nWorking with community allies, we have helped create the Los Angeles State Historic Park and Río de Los Angeles State Park as part of the greening of the LA River. We helped save the sacred Native American site of Panhe and San Onofre State Beach and helped save the community and park in Baldwin Hills. We have mapped and analyzed green access and equal justice for nine counties in Southern California and beyond.\r\n\r\nWe have received recognition and awards from the American Public Health Association, Hispanic Business Magazine, American Society of Landscape Architects, California Parks and Recreation Foundation, Los Angeles Regional Water Quality Board, City of Los Angeles, Community Partners, and Cultural Landscape Foundation.\r\n"
+published: true
 
 ---

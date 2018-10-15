@@ -587,5 +587,6 @@ maker_answers_list:
     answer: "Building awareness and partnerships with the following:\r\n\r\n-Continuing adding schools to our partnership list by meeting with education and business leadership throughout LA\r\n-LA2050 backing and branding will definitely speed up partnerships across all LA educational institutions, small businesses, and locally based corporations. Just the LA2050 brand alone accelerates the process.\r\n-Promoting mentoring program among students, parents, and associations throughout LA.\r\n-Reach out to key stakeholders through in person meetings, phone, online channels, maintaining a physical presence at LA citywide events, institutional partnerships\r\n-Adding value to education institutions and non-profits throughout LA to continue growth and serving the needs of stakeholders\r\n-Partner with after school programs\r\n-Draw from the own LA community of student leaders to act as ambassadors to drive growth throughout their own peers also generating organic growth\r\n-Articles and publications that can be spread through various social media channels"
 body_class: blueberry
 organization_name: MentorMint
+published: true
 
 ---

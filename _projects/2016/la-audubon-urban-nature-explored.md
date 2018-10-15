@@ -165,5 +165,6 @@ project_proposal_impact:
   - Number of residents with easy access to a “vibrant” park
 category: play
 body_class: strawberry
+published: true
 
 ---

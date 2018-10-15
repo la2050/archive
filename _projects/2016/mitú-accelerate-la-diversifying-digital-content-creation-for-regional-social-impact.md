@@ -147,5 +147,6 @@ project_proposal_impact:
   - Minority- and women-owned firms
 category: create
 body_class: banana
+published: true
 
 ---

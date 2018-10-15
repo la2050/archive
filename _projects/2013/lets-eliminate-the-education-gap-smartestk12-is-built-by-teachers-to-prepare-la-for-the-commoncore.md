@@ -391,5 +391,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Smartestk12 started as a thousand question science database, parsed from the internet, and used for the academic growth of 800 students in South Gate, California.  It was phenomenally successful, with over 90 students coming to a one-teacher hosted Saturday school workshop.  The students wanted to succeed, and virtually each student who attended the study workshop achieved academic results far beyond what was \"expected\" of them.  That first workshop was the icing on the cake of a record-breaking academic year for 8th grade science at South Gate Middle School.  However, while 86% of students passed their science exam, only 14% of students passed in mathematics.\r\nTwo years later, smartestk12 finally became more than a pet project with funding by the Wolfen Foundation.  We are now getting ready to procure content for all subjects and will become a tool that is perfectly suited to complement any classroom digital device.  "
+published: true
 
 ---

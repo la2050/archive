@@ -652,5 +652,6 @@ maker_answers_list:
       program.
 body_class: strawberry
 organization_name: Motor Avenue Improvement Association
+published: true
 
 ---

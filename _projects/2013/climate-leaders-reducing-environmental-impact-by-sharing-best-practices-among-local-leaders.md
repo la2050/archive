@@ -356,5 +356,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Directly from our efforts, six Contra Costa cities have completed Climate Action Plans. Four other Cities are currently in the process of developing a Climate Action Plan and eight additional city agreements have been made to accept assistance from local environmental organizations to being the Climate Action Planning Process by focusing on energy-related emission reduction strategies. By viewing the interactive map on our website, http://www.cccclimateleaders.org/green-cities-map.html, you can see the progress of our county. Significant environmental progress is underway but, there is still much to be done.\r\n\r\nWe have grown our newsletter network to over 700 people and have over 500 individuals on our social media outlets. \r\n\r\nWe have completed a dozen in-depth studies on environmental issues which have been used by several local cities.\r\n\r\nWe have held over a dozen workshops, connected with individuals from every city in Contra Costa County and have made real strides with the majority of the cities we work with.\r\n\r\n"
+published: true
 
 ---

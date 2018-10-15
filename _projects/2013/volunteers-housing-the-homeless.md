@@ -453,5 +453,6 @@ project_summary: >-
   at the takeoff point, in that every new volunteer who means it has a new idea
   as to how we can reach deeper into the community and how we can avail
   ourselves of its strength to do more for the weakest among us.
+published: true
 
 ---

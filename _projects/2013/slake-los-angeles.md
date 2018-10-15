@@ -253,5 +253,6 @@ project_summary: >-
   We've raised expectations for both Los Angeles and for the world as to what we
   should expect from a Los Angeles journal. Meanwhile, we've provided much
   needed gravity around which this often diffused community. 
+published: true
 
 ---

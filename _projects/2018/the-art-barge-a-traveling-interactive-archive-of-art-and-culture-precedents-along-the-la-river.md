@@ -158,5 +158,6 @@ category_other:
 challenge_url: >-
   https://activation.la2050.org/connect/la-river-public-art-project-c-o-erw-design/
 body_class: tangerine
+published: true
 
 ---

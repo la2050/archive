@@ -751,5 +751,6 @@ maker_answers_list:
     answer: "By tracking progress against our goals…\r\nThe increase in how many foster youth we serve, meeting goal of 1,000 youth unduplicated in one year\r\nIncrease in educational outcomes of foster youth high school graduation rates from 45% to 65%, \r\nHigher college enrollment from 3% to at least double 6%,\r\nHigher college graduation rates from 2% to at least double 4%.\r\nDecrease unemployment rates after 24 months foster youth age of out the system\r\nQualitative measures in foster youth behavior and service program outcomes. "
 body_class: strawberry
 organization_name: 'Living Advantage, Inc.'
+published: true
 
 ---

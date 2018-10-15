@@ -629,5 +629,6 @@ maker_answers_list:
     explanation: ''
     answer: '1'
 body_class: banana
+published: true
 
 ---

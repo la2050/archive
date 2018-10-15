@@ -505,5 +505,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Aquaponic/Aeroponic farm design and implementation/supervision at Hollygrove Farms, New Orleans, 2011-12\r\nAeroponic Roof Farm design, Roof of Aryeh Building, Los Angeles\r\nAeroponic farm design and implementation/supervision on Rouse's Supermarket roof, New Orleans \"Roots on the Rooftop\", 2012\r\nAeroponic design for Playa Restaurant rooftop farming system, 2012\r\nAquaponic farm design and implementation supervision, Westchester Enriched Science Magnets High School, Los Angeles 2012-13\r\nDesign/Implementation/ world's first combination Aquaponics/Aeroponics TowerGarden w/ fish-derived nutrient, 2013\r\nPresently designing Buena Park Gardens, multiple Aquaponic and Aeroponic greenhouses on 10 acres under power-line easement, Knott Ave., Buena Park"
+published: true
 
 ---

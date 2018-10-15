@@ -587,5 +587,6 @@ maker_answers_list:
     answer: "We plan on sustaining our production company through the sales of the documentary journals, licensing, sponsorships and angel investors to fund the production expansion. \r\n\r\nWe plan on sustaining our non-profit educational programs through the registrations and online memberships, crowdfunding, grants and private and public donations. "
 body_class: blueberry
 organization_name: 'The Love Story and The Love Story Media, Inc. '
+published: true
 
 ---

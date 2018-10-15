@@ -573,5 +573,6 @@ maker_answers_list:
       medical services provided at our Pico Union site. 
 body_class: strawberry
 organization_name: Clinica Msr. Oscar A. Romero
+published: true
 
 ---

@@ -596,5 +596,6 @@ maker_answers_list:
     answer: "Although L.A. Works mobilizes more than 35,000 volunteers in service each year, we only have a full-time staff of nine. We are able to do so much as a grassroots organization thanks to the dedication and generosity of our volunteer leaders. We have more than 90 trained volunteer leaders at our nonprofit partner sites and each quarter we have between 15-20 skilled volunteers assisting with various aspects of our organizational infrastructure – from social media to community connections. \r\n\r\nThe Managed Project program is designed to scale. We have a trained volunteer leader who is assisting with the training of additional leaders and are currently recruiting to identify a volunteer to assist with recruiting additional volunteer leaders from within our own cadre of volunteer participants. Once the volunteer leader is in place and trained on our volunteer database system, there is minimal management time needed to oversee this program on a daily basis.\r\n"
 body_class: blueberry
 organization_name: L.A. Works
+published: true
 
 ---

@@ -624,5 +624,6 @@ maker_answers_list:
       spaces.
 body_class: blueberry
 organization_name: Ruckus Projects
+published: true
 
 ---

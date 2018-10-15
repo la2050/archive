@@ -129,5 +129,6 @@ category_other:
   - LA is the best place to PLAY
 challenge_url: 'https://activation.la2050.org/learn/two-bit-circus-foundation/'
 body_class: blueberry
+published: true
 
 ---

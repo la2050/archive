@@ -181,5 +181,6 @@ project_summary: >-
   educating students on the effects of the sequester as it relates to their
   community.  Having a pre and post assessment students have shown an increased
   interest in participating in Service Learning Projects.  
+published: true
 
 ---

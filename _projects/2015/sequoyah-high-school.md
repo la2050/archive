@@ -639,5 +639,6 @@ maker_answers_list:
       partnership with Ashoka.   
 body_class: blueberry
 organization_name: 'Sequoyah School '
+published: true
 
 ---

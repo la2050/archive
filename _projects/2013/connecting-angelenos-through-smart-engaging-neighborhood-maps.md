@@ -346,5 +346,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>L.A. Currents is a digital news publication about life in Los Angeles. Our aim is to to chart the changing face of Los Angeles by melding technology and storytelling. We report on important local people, institutions, and trends. Since our beta launch in November, we have seen our traffic double every month.</p> \r\n\r\n<p>We recently announced a content-and-community partnership with USC Annenberg School for Communication and Journalism, and together we are coordinating our local L.A. coverage. This type of collaboration — in which a journalism program serves as an anchor institution for a local, upstart media company — is an innovative way for graduate students to get real-world experience and hands-on training while allowing a media company to get its sea legs in a rather unstable media marketplace.</p>  \r\n\r\n<p>Additionally, L.A. Currents is currently the only West Coast partner of The Guardian’s n0tice technology, which allows us to engage our readers in new and innovative ways. We have cast a wide net to our area’s creative community, and our stable of professional writers includes traditional reporters, bloggers, screenwriters, essayists, and fiction writers.</p> "
+published: true
 
 ---

@@ -113,5 +113,6 @@ project_proposal_impact:
   - Participation in neighborhood councils
 category: connect
 body_class: tangerine
+published: true
 
 ---

@@ -592,5 +592,6 @@ maker_answers_list:
       cities.
 body_class: strawberry
 organization_name: Wise Guys Events
+published: true
 
 ---

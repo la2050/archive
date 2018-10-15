@@ -497,5 +497,6 @@ organization_name: >-
   Los Angeles Neighborhood Land Trust (LANLT), Leadership for Urban Renewal
   (LURN), TRUST South LA, Konkuey Design Initiative (KDI), Esperanza Community
   Housing Corporation, Community Health Councils (CHC)
+published: true
 
 ---

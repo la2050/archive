@@ -604,5 +604,6 @@ maker_answers_list:
     answer: "How do you plan to scale the success of your project?2500\r\n\r\nDuring our successful year at CRAFTED, SBC will work to find funding to continue the program at the LA Waterfront, and to expand the program to other areas of Los Angeles.  List other organizations that may potentially want to partner for space and support the projects expansion… \r\nWe hope that we can continue the program of exhibitions and workshops at the CRAFTED location.  There is potential to develop a similar program at the Anderson Senior Center "
 body_class: blueberry
 organization_name: 'South Bay Contemporary, CRAFTED'
+published: true
 
 ---

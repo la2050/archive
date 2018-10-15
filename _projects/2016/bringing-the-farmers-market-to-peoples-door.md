@@ -102,5 +102,6 @@ project_proposal_impact:
   - Venture capital investment
 category: create
 body_class: banana
+published: true
 
 ---

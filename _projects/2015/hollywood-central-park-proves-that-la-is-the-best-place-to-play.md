@@ -570,5 +570,6 @@ maker_answers_list:
     answer: "FHCP’s Design Competition will naturally be scaled since it links directly to building the Hollywood Central Park. At the conclusion of the Competition, we will have a park design that allows us to move forward on the next steps for building the Park. \r\n\r\nIn addition, throughout the LA2050 grant year, FHCP will document each step of the Design Competition, including challenges and best practices. This information will be available to other groups interested in deck parks, including the other four currently proposed in LA County. Our hope is that other deck parks can learn from FHCP’s Design Competition and the subsequent steps needed to build the park. Our focus on finding a design created by Angelenos for Angelenos can be replicated within LA, as well as for other cities considering deck parks. Local design will help ensure each future Park is built to meet the needs and context of the neighborhoods surrounding the Park. \r\n"
 body_class: strawberry
 organization_name: Friends of the Hollywood Central Park (FHCP)
+published: true
 
 ---

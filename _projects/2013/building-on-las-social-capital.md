@@ -351,5 +351,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "<p>MAF’s Lending Circles program has received widespread national attention for its success in helping low income families gain access to capital, build financial capability, and increase access to low-cost loans for education, homes, and small business startup. To date, over 1,700 participants have made $1.7 million in social loans, resulting in a 99% repayment rate and under 1% in defaults. Because these loans have zero interest and zero fees, participants have saved an estimated $350,000. Average credit scores were raised by 49 points, often the difference between subprime and prime credit.</p>\r\n\r\n<p>MAF was honored to receive the 2012 Bank of America Neighborhood Builders Award, 2012 Latino Leaders Maestro Award, 2012 Ashoka Fellowship, and 2013 James Irvine Foundation Leadership Award. Last year, our Executive Director Jose Quinonez was also appointed Chair of the Consumer Advisory Board for the Consumer Financial Protection Bureau.</p>"
+published: true
 
 ---

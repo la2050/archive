@@ -130,5 +130,6 @@ project_proposal_impact:
   - Homelessness
 category: live
 body_class: lime
+published: true
 
 ---

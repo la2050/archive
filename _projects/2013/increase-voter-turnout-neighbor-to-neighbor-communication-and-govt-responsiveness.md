@@ -514,5 +514,6 @@ project_summary: >-
   partners, the Governor compromised to incorporate aspects of The Millionaire’s
   Tax & made Prop 30 more progressive & ultimately more feasible to pass,
   providing important revenue for vital services and education.</p>
+published: true
 
 ---

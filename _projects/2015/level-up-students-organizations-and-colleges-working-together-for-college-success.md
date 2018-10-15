@@ -515,5 +515,6 @@ maker_answers_list:
     answer: "As a network of multiple organizations that serve thousands of students, SoCal CAN always has scaling at the front of our mind. For six years, we have been evaluating and enhancing our program model, with an eye toward scalability and cost effectiveness. We believe our model has solidified to the point that we are ready to scale. In fact, this proposal is our plan to scale the success of our model.   \r\n\r\nMoreover, we see the scaling of this proposal as integral to the idea’s success. In order for our idea to take flight, we must leverage the success of our collaboration and our partnerships to add more partnerships. Each successful collaboration will add entry points for other collaborators. "
 body_class: blueberry
 organization_name: 'Southern California College Access Network, a Project of Community Partners'
+published: true
 
 ---

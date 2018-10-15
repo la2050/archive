@@ -703,5 +703,6 @@ maker_answers_list:
       life in these challenged communities. 
 body_class: blueberry
 organization_name: The Story Project
+published: true
 
 ---

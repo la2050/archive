@@ -159,5 +159,6 @@ category_other:
   - LA is the healthiest place to CONNECT
 challenge_url: 'https://activation.la2050.org/live/health-core-possibilities/'
 body_class: lime
+published: true
 
 ---

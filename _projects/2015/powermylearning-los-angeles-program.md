@@ -512,5 +512,6 @@ maker_answers_list:
     answer: "In the long-term, PowerMyLearning is committed to scaling the approaches of our program so that we can impact students across the low-income communities of Los Angeles. This Los Angeles-based work will also contribute to the national organization's larger mission of improving educational outcomes in low-income communities nationwide.\r\n\r\nA key lever for scaling our work will be in the gradual introduction of tech-enabled remote services. For example, our coaches currently meet with teachers face-to-face for every interaction. We have plans to build features into our online learning platform that will enable teachers to complete reflections and assignments between meetings with his/her coach, which will make the sessions more effective. We also anticipate leveraging video to enhance the scalability of our work. All of these remote tech-enabled services will be thoroughly tested and piloted to ensure the quality of coaching and the teachers’ experiences with digital learning remain strong.\r\n"
 body_class: strawberry
 organization_name: PowerMyLearning
+published: true
 
 ---

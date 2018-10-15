@@ -552,5 +552,6 @@ maker_answers_list:
     answer: "Once we're in one sports venue, we'll continue to spread to the others fairly easily due to their competitive nature.\r\nIn time, we would spread to locations outside of LA county and improve the rest of California as well. \r\n\r\nIn addition, we will continue our outreach to local schools, partnering with them to do fundraisers and such, both small scale and at the large sports events. \r\nEventually, we would work to make all of LA more and more interactive."
 body_class: strawberry
 organization_name: Colossi
+published: true
 
 ---

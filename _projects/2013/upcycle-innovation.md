@@ -216,5 +216,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "Using everyday discards donated by local businesses reDiscover’s range of hands-on, educational programs and workshops has served 24,500 people. We are proud of our Arts Earth Partnership certification and our 2007 Sustainable Quality Award from the City of Santa Monica. We strive to maintain a low carbon footprint and our current warehouse-like facility for reusable waste helps our local businesses and households to do the same.\r\nOur artistic caliber has been recognized by the Los Angeles County Arts Commission, the Santa Monica GLOW Festival (2008 and 2013), the San Jose Zero1 Festival, the Long Beach Arts Council A LOT Initiative and Ryman Arts with a Drawing Inspiration Award.\r\n\r\nWe are also very proud of the inspiration our center provides to children. As 9 year old Beatriz said during a field trip, “I could live at this place!” \r\n"
+published: true
 
 ---

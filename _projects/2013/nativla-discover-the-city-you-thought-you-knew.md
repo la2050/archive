@@ -605,5 +605,6 @@ project_summary: >-
   the enrichment programs that Los Angeles United School District (LAUSD) no
   longer funds, including PE, library, music and art.  We also ask, where field
   trips are concerned, that the parents carpool and pay for all admission fees. 
+published: true
 
 ---

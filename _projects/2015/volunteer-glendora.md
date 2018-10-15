@@ -632,5 +632,6 @@ maker_answers_list:
       outside of community who may want to participate.   
 body_class: blueberry
 organization_name: City of Glendora
+published: true
 
 ---

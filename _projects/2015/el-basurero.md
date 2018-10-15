@@ -642,5 +642,6 @@ maker_answers_list:
     answer: "Angelenos, especially those who live in Koreatown, Mid-City, South LA and East LA are tired of being dumped on. Residents of these areas are ready to see their city provide the sanitation (and other) services it promised them. Landlords and business owners, electeds and the philanthropic community is also tired of hearing the excuses about the shabby state of our streets and sidewalks. When Basurero launches and shows success, there will be calls for its expansion. Success will begat success, as residents of other underserved parts of the city see the results being achieved by citizen activists in Mid-City and elsewhere. They will call for their own illegal dumping to be picked up.\r\n\r\nBasurero is already talking to potential funders, anticipating interest in scaling the program. Good models may be largely volunteer efforts including Big Sunday and CicLAvia, which grew from more modest initiatives to what they are today. Basurero plans to engage with Big Sunday, CicLAvia and others about the lessons they learned in scaling their vision and programs. We are realistic about our scalability."
 body_class: blueberry
 organization_name: El Basurero
+published: true
 
 ---

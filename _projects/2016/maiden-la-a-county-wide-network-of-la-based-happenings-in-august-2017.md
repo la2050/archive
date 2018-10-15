@@ -154,5 +154,6 @@ project_proposal_impact:
   - Recruiting and retention rates for local higher education institutions
 category: create
 body_class: banana
+published: true
 
 ---

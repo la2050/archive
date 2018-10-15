@@ -375,5 +375,6 @@ project_summary: >-
   programs are free to the public and we feel strongly that we could be helpful
   to both artists and our neighbors if the vitality and sense of community that
   the Hammer enjoys could spill out into our commercial neighborhood as well.  
+published: true
 
 ---

@@ -521,5 +521,6 @@ maker_answers_list:
       and donors to a place where LACT will be self sustainable. 
 body_class: blueberry
 organization_name: LACT - Los Angeles Community Theatre
+published: true
 
 ---

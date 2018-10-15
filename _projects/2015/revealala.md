@@ -511,5 +511,6 @@ maker_answers_list:
     answer: "The success of this proposal will be determined by our ability to connect with the Latino community in a meaningful way. Our plan is to put in place a structured process where this community can express itself and in-turn connect both locally and more broadly with the entire city of Los Angeles.\r\n"
 body_class: strawberry
 organization_name: Architecture and Design Museum (A+D)
+published: true
 
 ---

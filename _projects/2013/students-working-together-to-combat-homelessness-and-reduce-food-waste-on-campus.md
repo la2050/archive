@@ -440,5 +440,6 @@ project_summary: >-
   various recognitions, we have been blessed with the opportunity to bring this
   important cause to further light on the national media scale, and would like
   to thank all of our supporters who have been with us every step of the way. 
+published: true
 
 ---

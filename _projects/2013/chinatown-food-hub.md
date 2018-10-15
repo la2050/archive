@@ -194,5 +194,6 @@ maker_answers_list:
     answer: 'yes'
 body_class: strawberry
 project_summary: "SSG/APIOPA\r\n <p>\r\n•\tEstablished an Asian Community-Supported Agriculture program, working with local Hmong farmers and selling in Downtown Los Angeles and Historic Filipinotown. We have sold out all of our subscriptions. \r\n <p>\r\n•\tImplemented a program called SAFE for APIs with the policy goal of helping children maintaining a healthy weight through the improvement of public park facilities. The program addresses health disparities by seeking to increase access to physical activity in neighborhoods where Pacific Islander (PI) populations are the densest.  Our program works with local government agencies, to adopt standards for safety, cleanliness, and culturally competent family programming to promote active and healthy lifestyles. \r\n\r\n <p>\r\n <p>\r\nSEACA\r\n <p>\r\n•\tTrained hundreds of students to become leaders in LA and our work with youth, as profiled in Hector Tobar's column for the LA times\r\n <p>\r\n•\tWorked with youth and policy experts to craft a community development policy  described as \"A Model of LA Planning,\" which will set strong environmental and equity protections for local residents \r\n"
+published: true
 
 ---
