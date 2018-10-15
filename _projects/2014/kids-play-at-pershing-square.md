@@ -6,7 +6,7 @@ category: play
 organization_id: '2014067'
 year_submitted: 2014
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t31.0-8/468907_153995704722676_1873642870_o.jpg?_nc_cat=105&oh=d3d89baef7cef94ab3c3692e7c581cc2&oe=5C48A6EC
 project_video: ''
 Which area(s) of LA does your project benefit? Other (elaborate): >-
   This project is shovel-ready and we have secured matching funds. All planning,
