@@ -18,7 +18,7 @@ facebook: www.facebook.com/PershingSquareLA
 ein: '954302067'
 zip: '90012'
 project_image: >-
-  http://maker.good.is/s3/maker%252Fattachments%252Fproject_photos%252Fimages%252F20546%252Fdisplay%252FKids_Play_-_both_playgrounds_from_6th.jpg=c570x385
+  https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/12347862_872341026221470_7403512315305716290_n.jpg?_nc_cat=104&oh=7b52d5a8687b32457d6f60fadc3117f6&oe=5C56422B
 project_video: ''
 project_ids:
   - '4102167'
