@@ -12,7 +12,7 @@ tags_indicators:
   - Community gatherings
   - Arts & cultural vitality
   - Social connectedness
-charity_navigator_url: ''
+charity_navigator_url: 'https://www.charitynavigator.org/index.cfm?bay=search.profile&ein=812797287'
 organization_website:
   - triforium.la
 twitter: triforiumla
